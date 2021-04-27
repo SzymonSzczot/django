@@ -1,0 +1,318 @@
+/project/pyobjc-framework-servicemanagement/, pyobjc-framework-ServiceManagement, 7.1, Wrappers for the framework ServiceManagement on macOS, 2020-12-29T11:44:55+0000
+/project/pyobjc-framework-videosubscriberaccount/, pyobjc-framework-VideoSubscriberAccount, 7.1, Wrappers for the framework VideoSubscriberAccount on macOS, 2020-12-29T11:45:17+0000
+/project/rubicon-objc/, rubicon-objc, 0.4.0, A bridge between an Objective C runtime environment and Python., 2020-07-04T03:24:08+0000
+/project/pyobjc-framework-corelocation/, pyobjc-framework-CoreLocation, 7.1, Wrappers for the framework CoreLocation on macOS, 2020-12-29T11:42:06+0000
+/project/json2mantle/, JSON2Mantle, 0.0.9, Generate Mantle models using JSON files, 2015-05-18T06:56:35+0000
+/project/pyobjc-framework-findersync/, pyobjc-framework-FinderSync, 7.1, Wrappers for the framework FinderSync on macOS, 2020-12-29T11:43:00+0000
+/project/pyobjc-framework-kernelmanagement/, pyobjc-framework-KernelManagement, 7.1, Wrappers for the framework KernelManagement on macOS, 2020-12-29T11:43:25+0000
+/project/pyobjc-framework-oslog/, pyobjc-framework-OSLog, 7.1, Wrappers for the framework OSLog on macOS, 2020-12-29T11:44:04+0000
+/project/pyobjc-framework-medialibrary/, pyobjc-framework-MediaLibrary, 7.1, Wrappers for the framework MediaLibrary on macOS, 2020-12-29T11:43:35+0000
+/project/pyobjc-framework-imserviceplugin/, pyobjc-framework-IMServicePlugIn, 7.1, Wrappers for the framework IMServicePlugIn on macOS, 2020-12-29T11:43:11+0000
+/project/pyobjc-framework-discrecording/, pyobjc-framework-DiscRecording, 7.1, Wrappers for the framework DiscRecording on macOS, 2020-12-29T11:42:40+0000
+/project/py2app/, py2app, 0.24, Create standalone Mac OS X applications with Python, 2021-04-06T08:25:30+0000
+/project/pyobjc-framework-corehaptics/, pyobjc-framework-CoreHaptics, 7.1, Wrappers for the framework CoreHaptics on macOS, 2020-12-29T11:42:04+0000
+/project/pyobjc-framework-mediaplayer/, pyobjc-framework-MediaPlayer, 7.1, Wrappers for the framework MediaPlayer on macOS, 2020-12-29T11:43:36+0000
+/project/pyobjc-framework-imagecapturecore/, pyobjc-framework-ImageCaptureCore, 7.1, Wrappers for the framework ImageCaptureCore on macOS, 2020-12-29T11:43:14+0000
+/project/xibless/, xibless, 0.5.2, Generate Objective-C code that builds Cocoa UIs. Replaces XCode's XIBs, 2016-01-10T02:07:12+0000
+/project/hfcca/, hfcca, 1.10.2, A code analyzer without caring the C/C++ header files.
+It works with Java, C/C++, JavaScript, Python, Ruby, Swift, Objective C. Metrics includes cyclomatic complexity number etc., 2016-02-02T02:43:23+0000
+/project/pyobjc-framework-intents/, pyobjc-framework-Intents, 7.1, Wrappers for the framework Intents on macOS, 2020-12-29T11:43:21+0000
+/project/pyobjc-framework-executionpolicy/, pyobjc-framework-ExecutionPolicy, 7.1, Wrappers for the framework ExecutionPolicy on macOS, 2020-12-29T11:42:47+0000
+/project/pyobjc-framework-adservices/, pyobjc-framework-AdServices, 7.1, Wrappers for the framework AdServices on macOS, 2020-12-29T11:41:14+0000
+/project/pyobjc-framework-installerplugins/, pyobjc-framework-InstallerPlugins, 7.1, Wrappers for the framework InstallerPlugins on macOS, 2020-12-29T11:43:19+0000
+/project/pyobjc-masshortcut/, pyobjc-MASShortcut, 1.0a0, Wrappers for the library MASShortcut on macOS, 2018-09-23T09:58:28+0000
+/project/pyobjc-framework-videotoolbox/, pyobjc-framework-VideoToolbox, 7.1, Wrappers for the framework VideoToolbox on macOS, 2020-12-29T11:45:19+0000
+/project/pyobjc-framework-screentime/, pyobjc-framework-ScreenTime, 7.1, Wrappers for the framework ScreenTime on macOS, 2020-12-29T11:44:40+0000
+/project/pyobjc-framework-passkit/, pyobjc-framework-PassKit, 7.1, Wrappers for the framework PassKit on macOS, 2020-12-29T11:44:08+0000
+/project/pyobjc-framework-localauthentication/, pyobjc-framework-LocalAuthentication, 7.1, Wrappers for the framework LocalAuthentication on macOS, 2020-12-29T11:43:29+0000
+/project/pyobjc-framework-corespotlight/, pyobjc-framework-CoreSpotlight, 7.1, Wrappers for the framework CoreSpotlight on macOS, 2020-12-29T11:42:25+0000
+/project/pyobjc-framework-naturallanguage/, pyobjc-framework-NaturalLanguage, 7.1, Wrappers for the framework NaturalLanguage on macOS, 2020-12-29T11:43:53+0000
+/project/pyobjc-framework-calendarstore/, pyobjc-framework-CalendarStore, 7.1, Wrappers for the framework CalendarStore on macOS, 2020-12-29T11:41:33+0000
+/project/pyobjc-framework-applescriptkit/, pyobjc-framework-AppleScriptKit, 7.1, Wrappers for the framework AppleScriptKit on macOS, 2020-12-29T11:41:20+0000
+/project/pyobjc-framework-launchservices/, pyobjc-framework-LaunchServices, 7.1, Wrappers for the framework LaunchServices on macOS, 2020-12-29T11:43:27+0000
+/project/pyobjc-framework-coredata/, pyobjc-framework-CoreData, 7.1, Wrappers for the framework CoreData on macOS, 2020-12-29T11:42:02+0000
+/project/pyobjc-framework-message/, pyobjc-framework-Message, 7.1, Wrappers for the framework Message on macOS, 2020-12-29T11:43:39+0000
+/project/pyobjc-framework-avkit/, pyobjc-framework-AVKit, 7.1, Wrappers for the framework AVKit on macOS, 2020-12-29T11:41:08+0000
+/project/treeoflife/, treeoflife, 0.0.4, A Tree of your Life (end-user application), 2014-03-22T06:04:56+0000
+/project/pyobjc/, pyobjc, 7.1, Python<->ObjC Interoperability Module, 2020-12-29T11:40:54+0000
+/project/atomacos/, atomacos, 3.2.0, Automated Testing on macOS, 2019-10-03T23:50:26+0000
+/project/pyobjc-framework-corebluetooth/, pyobjc-framework-CoreBluetooth, 7.1, Wrappers for the framework CoreBluetooth on macOS, 2020-12-29T11:42:00+0000
+/project/pyobjc-framework-replaykit/, pyobjc-framework-ReplayKit, 7.1, Wrappers for the framework ReplayKit on macOS, 2020-12-29T11:44:31+0000
+/project/rumps/, rumps, 0.3.0, Ridiculously Uncomplicated MacOS Python Statusbar apps., 2019-02-02T00:56:51+0000
+/project/pyobjc-framework-metalkit/, pyobjc-framework-MetalKit, 7.1, Wrappers for the framework MetalKit on macOS, 2020-12-29T11:43:43+0000
+/project/srjson2mantle/, SRJSON2Mantle, 1.1.3, Generate Mantle models using JSON files, 2018-10-12T00:53:58+0000
+/project/pyobjc-framework-security/, pyobjc-framework-Security, 7.1, Wrappers for the framework Security on macOS, 2020-12-29T11:44:44+0000
+/project/pyobjc-framework-applescriptobjc/, pyobjc-framework-AppleScriptObjC, 7.1, Wrappers for the framework AppleScriptObjC on macOS, 2020-12-29T11:41:21+0000
+/project/pyobjc-framework-coremidi/, pyobjc-framework-CoreMIDI, 7.1, Wrappers for the framework CoreMIDI on macOS, 2020-12-29T11:42:08+0000
+/project/pyobjc-framework-safariservices/, pyobjc-framework-SafariServices, 7.1, Wrappers for the framework SafariServices on macOS, 2020-12-29T11:44:33+0000
+/project/cifilter/, cifilter, 0.4.2, CoreImage command line tool, 2013-02-11T00:05:00+0000
+/project/pyobjc-framework-interfacebuilderkit/, pyobjc-framework-InterfaceBuilderKit, 7.1, Wrappers for the framework InterfaceBuilderKit on macOS, 2020-12-29T11:43:24+0000
+/project/pyobjc-framework-network/, pyobjc-framework-Network, 7.1, Wrappers for the framework Network on macOS, 2020-12-29T11:43:55+0000
+/project/pyobjc-framework-coreservices/, pyobjc-framework-CoreServices, 7.1, Wrappers for the framework CoreServices on macOS, 2020-12-29T11:42:22+0000
+/project/pyobjc-framework-contacts/, pyobjc-framework-Contacts, 7.1, Wrappers for the framework Contacts on macOS, 2020-12-29T11:41:48+0000
+/project/pyobjc-framework-fileprovider/, pyobjc-framework-FileProvider, 7.1, Wrappers for the framework FileProvider on macOS, 2020-12-29T11:42:53+0000
+/project/pyobjc-framework-usernotifications/, pyobjc-framework-UserNotifications, 7.1, Wrappers for the framework UserNotifications on macOS, 2020-12-29T11:45:14+0000
+/project/pyobjc-framework-vision/, pyobjc-framework-Vision, 7.1, Wrappers for the framework Vision on macOS, 2020-12-29T11:45:23+0000
+/project/pyobjc-framework-libdispatch/, pyobjc-framework-libdispatch, 7.1, Wrappers for libdispatch on macOS, 2020-12-29T11:45:29+0000
+/project/pyobjc-framework-ituneslibrary/, pyobjc-framework-iTunesLibrary, 7.1, Wrappers for the framework iTunesLibrary on macOS, 2020-12-29T11:45:28+0000
+/project/pyobjc-framework-speech/, pyobjc-framework-Speech, 7.1, Wrappers for the framework Speech on macOS, 2020-12-29T11:44:59+0000
+/project/pyobjc-framework-classkit/, pyobjc-framework-ClassKit, 7.1, Wrappers for the framework ClassKit on macOS, 2020-12-29T11:41:35+0000
+/project/pyobjc-framework-systemextensions/, pyobjc-framework-SystemExtensions, 7.1, Wrappers for the framework SystemExtensions on macOS, 2020-12-29T11:45:11+0000
+/project/cider/, cider, 1.1.12, Hassle-free bootstrapping using Homebrew., 2019-07-07T16:11:32+0000
+/project/unbroken-pyobjc/, unbroken-pyobjc, 3.0.1, Python<->ObjC Interoperability Module, 2014-09-17T22:26:03+0000
+/project/pyobjc-framework-cocoa/, pyobjc-framework-Cocoa, 7.1, Wrappers for the Cocoa frameworks on macOS, 2020-12-29T11:41:39+0000
+/project/pyobjc-framework-linkpresentation/, pyobjc-framework-LinkPresentation, 7.1, Wrappers for the framework LinkPresentation on macOS, 2020-12-29T11:43:28+0000
+/project/pyobjc-framework-coreaudiokit/, pyobjc-framework-CoreAudioKit, 7.1, Wrappers for the framework CoreAudioKit on macOS, 2020-12-29T11:41:58+0000
+/project/pyobjc-framework-uniformtypeidentifiers/, pyobjc-framework-UniformTypeIdentifiers, 7.1, Wrappers for the framework UniformTypeIdentifiers on macOS, 2020-12-29T11:45:13+0000
+/project/pyobjc-framework-servernotification/, pyobjc-framework-ServerNotification, 7.1, Wrappers for the framework ServerNotification on macOS, 2020-12-29T11:44:54+0000
+/project/pyobjc-framework-iosurface/, pyobjc-framework-IOSurface, 7.1, Wrappers for the framework IOSurface on macOS, 2020-12-29T11:43:13+0000
+/project/pyobjc-framework-apptrackingtransparency/, pyobjc-framework-AppTrackingTransparency, 7.1, Wrappers for the framework AppTrackingTransparency on macOS, 2020-12-29T11:41:19+0000
+/project/csbuild/, csbuild, 0.93.1, Programming language-agnostic build system, 2021-03-09T01:00:29+0000
+/project/pyobjc-framework-fsevents/, pyobjc-framework-FSEvents, 7.1, Wrappers for the framework FSEvents on macOS, 2020-12-29T11:42:51+0000
+/project/pyobjc-framework-osakit/, pyobjc-framework-OSAKit, 7.1, Wrappers for the framework OSAKit on macOS, 2020-12-29T11:44:03+0000
+/project/xunique/, xUnique, 4.1.4, A converter of the Xcode project file to make merging it much easier in VCS, 2016-04-07T08:16:52+0000
+/project/pyobjc-framework-preferencepanes/, pyobjc-framework-PreferencePanes, 7.1, Wrappers for the framework PreferencePanes on macOS, 2020-12-29T11:44:17+0000
+/project/lizard/, lizard, 1.17.7, A code analyzer without caring the C/C++ header files. It works with Java, C/C++, JavaScript, Python, Ruby, Swift, Objective C. Metrics includes cyclomatic complexity number etc., 2020-10-20T09:27:46+0000
+/project/pasteboard/, pasteboard, 0.3.3, Pasteboard - Python interface for reading from NSPasteboard (macOS clipboard), 2021-01-29T08:10:39+0000
+/project/pyobjc-framework-metal/, pyobjc-framework-Metal, 7.1, Wrappers for the framework Metal on macOS, 2020-12-29T11:43:41+0000
+/project/pyobjc-framework-cryptotokenkit/, pyobjc-framework-CryptoTokenKit, 7.1, Wrappers for the framework CryptoTokenKit on macOS, 2020-12-29T11:42:34+0000
+/project/pyobjc-framework-diskarbitration/, pyobjc-framework-DiskArbitration, 7.1, Wrappers for the framework DiskArbitration on macOS, 2020-12-29T11:42:44+0000
+/project/pyobjc-framework-quicklookthumbnailing/, pyobjc-framework-QuickLookThumbnailing, 7.1, Wrappers for the framework QuickLookThumbnailing on macOS, 2020-12-29T11:44:29+0000
+/project/pyobjc-framework-virtualization/, pyobjc-framework-Virtualization, 7.1, Wrappers for the framework Virtualization on macOS, 2020-12-29T11:45:21+0000
+/project/pyobjc-framework-coreaudio/, pyobjc-framework-CoreAudio, 7.1, Wrappers for the framework CoreAudio on macOS, 2020-12-29T11:41:52+0000
+/project/pyobjc-framework-mapkit/, pyobjc-framework-MapKit, 7.1, Wrappers for the framework MapKit on macOS, 2020-12-29T11:43:32+0000
+/project/pyobjc-framework-gameplaykit/, pyobjc-framework-GameplayKit, 7.1, Wrappers for the framework GameplayKit on macOS, 2020-12-29T11:43:09+0000
+/project/py-tunes/, py-tunes, 1.0b3, A Python API for the iTunes application and music library, 2016-10-09T03:52:23+0000
+/project/pyobjc-framework-callkit/, pyobjc-framework-CallKit, 7.1, Wrappers for the framework CallKit on macOS, 2020-12-29T11:41:34+0000
+/project/pyobjc-framework-gamekit/, pyobjc-framework-GameKit, 7.1, Wrappers for the framework GameKit on macOS, 2020-12-29T11:43:07+0000
+/project/pyobjc-framework-eventkit/, pyobjc-framework-EventKit, 7.1, Wrappers for the framework Accounts on macOS, 2020-12-29T11:42:45+0000
+/project/pyobjc-core/, pyobjc-core, 7.1, Python<->ObjC Interoperability Module, 2020-12-29T11:40:56+0000
+/project/pyobjc-framework-coreml/, pyobjc-framework-CoreML, 7.1, Wrappers for the framework CoreML on macOS, 2020-12-29T11:42:11+0000
+/project/emogenerator/, emogenerator, 0.1.13, Estranged Managed Object Generator, 2013-02-10T07:47:24+0000
+/project/pyobjc-framework-securityfoundation/, pyobjc-framework-SecurityFoundation, 7.1, Wrappers for the framework SecurityFoundation on macOS, 2020-12-29T11:44:51+0000
+/project/pyobjc-framework-xgridfoundation/, pyobjc-framework-XgridFoundation, 6.2.2, Wrappers for the framework XgridFoundation on macOS, 2020-07-08T20:05:15+0000
+/project/pyobjc-framework-searchkit/, pyobjc-framework-SearchKit, 7.1, Wrappers for the framework SearchKit on macOS, 2020-12-29T11:44:43+0000
+/project/pyobjc-framework-networkextension/, pyobjc-framework-NetworkExtension, 7.1, Wrappers for the framework NetworkExtension on macOS, 2020-12-29T11:43:58+0000
+/project/pyobjc-framework-opendirectory/, pyobjc-framework-OpenDirectory, 7.1, Wrappers for the framework OpenDirectory on macOS, 2020-12-29T11:44:07+0000
+/project/pyobjc-framework-devicecheck/, pyobjc-framework-DeviceCheck, 7.1, Wrappers for the framework DeviceCheck on macOS, 2020-12-29T11:42:38+0000
+/project/pyobjc-framework-mediaaccessibility/, pyobjc-framework-MediaAccessibility, 7.1, Wrappers for the framework MediaAccessibility on macOS, 2020-12-29T11:43:34+0000
+/project/pyobjc-framework-accounts/, pyobjc-framework-Accounts, 7.1, Wrappers for the framework Accounts on macOS, 2020-12-29T11:41:13+0000
+/project/pyobjc-framework-coremedia/, pyobjc-framework-CoreMedia, 7.1, Wrappers for the framework CoreMedia on macOS, 2020-12-29T11:42:13+0000
+/project/pyobjc-framework-storekit/, pyobjc-framework-StoreKit, 7.1, Wrappers for the framework StoreKit on macOS, 2020-12-29T11:45:04+0000
+/project/pyobjc-framework-systemconfiguration/, pyobjc-framework-SystemConfiguration, 7.1, Wrappers for the framework SystemConfiguration on macOS, 2020-12-29T11:45:08+0000
+/project/pyobjc-framework-colorsync/, pyobjc-framework-ColorSync, 7.1, Wrappers for the framework ColorSync on Mac OS X, 2020-12-29T11:41:47+0000
+/project/pyobjc-framework-modelio/, pyobjc-framework-ModelIO, 7.1, Wrappers for the framework ModelIO on macOS, 2020-12-29T11:43:48+0000
+/project/pyobjc-framework-soundanalysis/, pyobjc-framework-SoundAnalysis, 7.1, Wrappers for the framework SoundAnalysis on macOS, 2020-12-29T11:44:57+0000
+/project/pyobjc-framework-automaticassessmentconfiguration/, pyobjc-framework-AutomaticAssessmentConfiguration, 7.1, Wrappers for the framework AutomaticAssessmentConfiguration on macOS, 2020-12-29T11:41:26+0000
+/project/pyobjc-framework-collaboration/, pyobjc-framework-Collaboration, 7.1, Wrappers for the framework Collaboration on macOS, 2020-12-29T11:41:45+0000
+/project/pyobjc-framework-qtkit/, pyobjc-framework-QTKit, 6.2.2, Wrappers for the framework QTKit on macOS, 2020-07-08T20:02:56+0000
+/project/pyobjc-framework-instantmessage/, pyobjc-framework-InstantMessage, 7.1, Wrappers for the framework InstantMessage on macOS, 2020-12-29T11:43:20+0000
+/project/pyobjc-framework-dictionaryservices/, pyobjc-framework-DictionaryServices, 7.1, Wrappers for the framework DictionaryServices on macOS, 2020-12-29T11:42:39+0000
+/project/pyobjc-framework-pushkit/, pyobjc-framework-PushKit, 7.1, Wrappers for the framework PushKit on macOS, 2020-12-29T11:44:19+0000
+/project/pyobjc-framework-photos/, pyobjc-framework-Photos, 7.1, Wrappers for the framework Photos on macOS, 2020-12-29T11:44:12+0000
+/project/pyobjc-framework-coremotion/, pyobjc-framework-CoreMotion, 7.1, Wrappers for the framework CoreMotion on macOS, 2020-12-29T11:42:21+0000
+/project/pyobjc-framework-quartz/, pyobjc-framework-Quartz, 7.1, Wrappers for the Quartz frameworks on macOS, 2020-12-29T11:44:22+0000
+/project/pyobjc-framework-metalperformanceshadersgraph/, pyobjc-framework-MetalPerformanceShadersGraph, 7.1, Wrappers for the framework MetalPerformanceShadersGraph on macOS, 2020-12-29T11:43:47+0000
+/project/pyobjc-framework-automator/, pyobjc-framework-Automator, 7.1, Wrappers for the framework Automator on macOS, 2020-12-29T11:41:28+0000
+/project/pyobjc-framework-multipeerconnectivity/, pyobjc-framework-MultipeerConnectivity, 7.1, Wrappers for the framework MultipeerConnectivity on macOS, 2020-12-29T11:43:51+0000
+/project/pyobjc-framework-webkit/, pyobjc-framework-WebKit, 7.1, Wrappers for the framework WebKit on macOS, 2020-12-29T11:45:26+0000
+/project/pyobjc-framework-discrecordingui/, pyobjc-framework-DiscRecordingUI, 7.1, Wrappers for the framework DiscRecordingUI on macOS, 2020-12-29T11:42:43+0000
+/project/pyobjc-framework-photosui/, pyobjc-framework-PhotosUI, 7.1, Wrappers for the framework PhotosUI on macOS, 2020-12-29T11:44:14+0000
+/project/pyobjc-framework-coretext/, pyobjc-framework-CoreText, 7.1, Wrappers for the framework CoreText on macOS, 2020-12-29T11:42:27+0000
+/project/clant/, clant, 1.0.2, A unified frontend for clang linting tools, 2021-01-06T22:42:54+0000
+/project/pyobjc-framework-pubsub/, pyobjc-framework-PubSub, 7.1, Wrappers for the framework PubSub on macOS, 2020-12-29T11:44:18+0000
+/project/pyobjc-framework-screensaver/, pyobjc-framework-ScreenSaver, 7.1, Wrappers for the framework ScreenSaver on macOS, 2020-12-29T11:44:38+0000
+/project/pyobjc-framework-scenekit/, pyobjc-framework-SceneKit, 7.1, Wrappers for the framework SceneKit on macOS, 2020-12-29T11:44:35+0000
+/project/pyobjc-framework-scriptingbridge/, pyobjc-framework-ScriptingBridge, 7.1, Wrappers for the framework ScriptingBridge on macOS, 2020-12-29T11:44:41+0000
+/project/pyobjc-framework-addressbook/, pyobjc-framework-AddressBook, 7.1, Wrappers for the framework AddressBook on macOS, 2020-12-29T11:41:16+0000
+/project/pyobjc-framework-applicationservices/, pyobjc-framework-ApplicationServices, 7.1, Wrappers for the framework ApplicationServices on macOS, 2020-12-29T11:41:22+0000
+/project/pyobjc-framework-gamecenter/, pyobjc-framework-GameCenter, 7.1, Wrappers for the framework GameCenter on macOS, 2020-12-29T11:43:02+0000
+/project/pyobjc-framework-cfnetwork/, pyobjc-framework-CFNetwork, 7.1, Wrappers for the framework CFNetwork on macOS, 2020-12-29T11:41:31+0000
+/project/pyobjc-framework-social/, pyobjc-framework-Social, 7.1, Wrappers for the framework Social on macOS, 2020-12-29T11:44:56+0000
+/project/pyobjc-framework-avfoundation/, pyobjc-framework-AVFoundation, 7.1, Wrappers for the framework AVFoundation on macOS, 2020-12-29T11:41:05+0000
+/project/pyobjc-framework-businesschat/, pyobjc-framework-BusinessChat, 7.1, Wrappers for the framework BusinessChat on macOS, 2020-12-29T11:41:30+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/pyobjc-framework-corewlan/, pyobjc-framework-CoreWLAN, 7.1, Wrappers for the framework CoreWLAN on macOS, 2020-12-29T11:42:32+0000
+/project/pyobjc-framework-metalperformanceshaders/, pyobjc-framework-MetalPerformanceShaders, 7.1, Wrappers for the framework MetalPerformanceShaders on macOS, 2020-12-29T11:43:45+0000
+/project/pyobjc-framework-inputmethodkit/, pyobjc-framework-InputMethodKit, 7.1, Wrappers for the framework InputMethodKit on macOS, 2020-12-29T11:43:17+0000
+/project/pyobjc-framework-spritekit/, pyobjc-framework-SpriteKit, 7.1, Wrappers for the framework SpriteKit on macOS, 2020-12-29T11:45:02+0000
+/project/pyobjc-framework-cloudkit/, pyobjc-framework-CloudKit, 7.1, Wrappers for the framework CloudKit on macOS, 2020-12-29T11:41:38+0000
+/project/pyobjc-framework-mlcompute/, pyobjc-framework-MLCompute, 7.1, Wrappers for the framework MLCompute on macOS, 2020-12-29T11:43:31+0000
+/project/pyobjc-framework-exceptionhandling/, pyobjc-framework-ExceptionHandling, 7.1, Wrappers for the framework ExceptionHandling on macOS, 2020-12-29T11:42:46+0000
+/project/pyobjc-framework-dvdplayback/, pyobjc-framework-DVDPlayback, 7.1, Wrappers for the framework DVDPlayback on macOS, 2020-12-29T11:42:37+0000
+/project/pyobjc-framework-accessibility/, pyobjc-framework-Accessibility, 7.1, Wrappers for the framework Accessibility on macOS, 2020-12-29T11:41:10+0000
+/project/pyobjc-framework-adsupport/, pyobjc-framework-AdSupport, 7.1, Wrappers for the framework AdSupport on macOS, 2020-12-29T11:41:15+0000
+/project/pyobjc-framework-gamecontroller/, pyobjc-framework-GameController, 7.1, Wrappers for the framework GameController on macOS, 2020-12-29T11:43:04+0000
+/project/pyobjc-framework-storekit/, pyobjc-framework-StoreKit, 7.1, Wrappers for the framework StoreKit on macOS, 2020-12-29T11:45:04+0000
+/project/pyobjc-framework-fileproviderui/, pyobjc-framework-FileProviderUI, 7.1, Wrappers for the framework FileProviderUI on macOS, 2020-12-29T11:42:59+0000
+/project/pyobjc-framework-externalaccessory/, pyobjc-framework-ExternalAccessory, 7.1, Wrappers for the framework ExternalAccessory on macOS, 2020-12-29T11:42:49+0000
+/project/pluginbuilder/, pluginbuilder, 1.1.0, Create standalone Mac OS X plugins with Python, 2012-01-16T16:34:06+0000
+/project/pyobjc-framework-contactsui/, pyobjc-framework-ContactsUI, 7.1, Wrappers for the framework ContactsUI on macOS, 2020-12-29T11:41:50+0000
+/project/pyobjc-framework-securityinterface/, pyobjc-framework-SecurityInterface, 7.1, Wrappers for the framework SecurityInterface on macOS, 2020-12-29T11:44:52+0000
+/project/pyobjc-framework-usernotificationsui/, pyobjc-framework-UserNotificationsUI, 7.1, Wrappers for the framework UserNotificationsUI on macOS, 2020-12-29T11:45:16+0000
+/project/pyobjc-framework-authenticationservices/, pyobjc-framework-AuthenticationServices, 7.1, Wrappers for the framework AuthenticationServices on macOS, 2020-12-29T11:41:23+0000
+/project/pyobjc-framework-netfs/, pyobjc-framework-NetFS, 7.1, Wrappers for the framework NetFS on macOS, 2020-12-29T11:43:54+0000
+/project/pyobjc-framework-latentsemanticmapping/, pyobjc-framework-LatentSemanticMapping, 7.1, Wrappers for the framework LatentSemanticMapping on macOS, 2020-12-29T11:43:26+0000
+/project/pyobjc-framework-syncservices/, pyobjc-framework-SyncServices, 7.1, Wrappers for the framework SyncServices on macOS, 2020-12-29T11:45:06+0000
+/project/pyobjc-framework-notificationcenter/, pyobjc-framework-NotificationCenter, 7.1, Wrappers for the framework NotificationCenter on macOS, 2020-12-29T11:44:01+0000
+/project/pyobjc-framework-pencilkit/, pyobjc-framework-PencilKit, 7.1, Wrappers for the framework PencilKit on macOS, 2020-12-29T11:44:10+0000
+/project/pyobjc-framework-coremediaio/, pyobjc-framework-CoreMediaIO, 7.1, Wrappers for the framework CoreMediaIO on macOS, 2020-12-29T11:42:19+0000
+/project/hfcca/, hfcca, 1.10.2, A code analyzer without caring the C/C++ header files.
+It works with Java, C/C++, JavaScript, Python, Ruby, Swift, Objective C. Metrics includes cyclomatic complexity number etc., 2016-02-02T02:43:23+0000
+/project/pyobjc-framework-servicemanagement/, pyobjc-framework-ServiceManagement, 7.1, Wrappers for the framework ServiceManagement on macOS, 2020-12-29T11:44:55+0000
+/project/rubicon-objc/, rubicon-objc, 0.4.0, A bridge between an Objective C runtime environment and Python., 2020-07-04T03:24:08+0000
+/project/pyobjc-framework-corelocation/, pyobjc-framework-CoreLocation, 7.1, Wrappers for the framework CoreLocation on macOS, 2020-12-29T11:42:06+0000
+/project/json2mantle/, JSON2Mantle, 0.0.9, Generate Mantle models using JSON files, 2015-05-18T06:56:35+0000
+/project/pyobjc-framework-findersync/, pyobjc-framework-FinderSync, 7.1, Wrappers for the framework FinderSync on macOS, 2020-12-29T11:43:00+0000
+/project/pyobjc-framework-kernelmanagement/, pyobjc-framework-KernelManagement, 7.1, Wrappers for the framework KernelManagement on macOS, 2020-12-29T11:43:25+0000
+/project/pyobjc-framework-oslog/, pyobjc-framework-OSLog, 7.1, Wrappers for the framework OSLog on macOS, 2020-12-29T11:44:04+0000
+/project/pyobjc-framework-medialibrary/, pyobjc-framework-MediaLibrary, 7.1, Wrappers for the framework MediaLibrary on macOS, 2020-12-29T11:43:35+0000
+/project/pyobjc-framework-adservices/, pyobjc-framework-AdServices, 7.1, Wrappers for the framework AdServices on macOS, 2020-12-29T11:41:14+0000
+/project/pyobjc-framework-corehaptics/, pyobjc-framework-CoreHaptics, 7.1, Wrappers for the framework CoreHaptics on macOS, 2020-12-29T11:42:04+0000
+/project/pyobjc-framework-mediaplayer/, pyobjc-framework-MediaPlayer, 7.1, Wrappers for the framework MediaPlayer on macOS, 2020-12-29T11:43:36+0000
+/project/pyobjc-framework-imagecapturecore/, pyobjc-framework-ImageCaptureCore, 7.1, Wrappers for the framework ImageCaptureCore on macOS, 2020-12-29T11:43:14+0000
+/project/xibless/, xibless, 0.5.2, Generate Objective-C code that builds Cocoa UIs. Replaces XCode's XIBs, 2016-01-10T02:07:12+0000
+/project/pyobjc-framework-naturallanguage/, pyobjc-framework-NaturalLanguage, 7.1, Wrappers for the framework NaturalLanguage on macOS, 2020-12-29T11:43:53+0000
+/project/pyobjc-framework-intents/, pyobjc-framework-Intents, 7.1, Wrappers for the framework Intents on macOS, 2020-12-29T11:43:21+0000
+/project/pyobjc-framework-executionpolicy/, pyobjc-framework-ExecutionPolicy, 7.1, Wrappers for the framework ExecutionPolicy on macOS, 2020-12-29T11:42:47+0000
+/project/pyobjc-framework-videosubscriberaccount/, pyobjc-framework-VideoSubscriberAccount, 7.1, Wrappers for the framework VideoSubscriberAccount on macOS, 2020-12-29T11:45:17+0000
+/project/pyobjc-framework-installerplugins/, pyobjc-framework-InstallerPlugins, 7.1, Wrappers for the framework InstallerPlugins on macOS, 2020-12-29T11:43:19+0000
+/project/pyobjc-masshortcut/, pyobjc-MASShortcut, 1.0a0, Wrappers for the library MASShortcut on macOS, 2018-09-23T09:58:28+0000
+/project/pyobjc-framework-videotoolbox/, pyobjc-framework-VideoToolbox, 7.1, Wrappers for the framework VideoToolbox on macOS, 2020-12-29T11:45:19+0000
+/project/pyobjc-framework-screentime/, pyobjc-framework-ScreenTime, 7.1, Wrappers for the framework ScreenTime on macOS, 2020-12-29T11:44:40+0000
+/project/pyobjc-framework-passkit/, pyobjc-framework-PassKit, 7.1, Wrappers for the framework PassKit on macOS, 2020-12-29T11:44:08+0000
+/project/pyobjc-framework-localauthentication/, pyobjc-framework-LocalAuthentication, 7.1, Wrappers for the framework LocalAuthentication on macOS, 2020-12-29T11:43:29+0000
+/project/pyobjc-framework-imserviceplugin/, pyobjc-framework-IMServicePlugIn, 7.1, Wrappers for the framework IMServicePlugIn on macOS, 2020-12-29T11:43:11+0000
+/project/pyobjc-framework-discrecording/, pyobjc-framework-DiscRecording, 7.1, Wrappers for the framework DiscRecording on macOS, 2020-12-29T11:42:40+0000
+/project/py2app/, py2app, 0.24, Create standalone Mac OS X applications with Python, 2021-04-06T08:25:30+0000
+/project/pyobjc-framework-corespotlight/, pyobjc-framework-CoreSpotlight, 7.1, Wrappers for the framework CoreSpotlight on macOS, 2020-12-29T11:42:25+0000
+/project/pyobjc-framework-calendarstore/, pyobjc-framework-CalendarStore, 7.1, Wrappers for the framework CalendarStore on macOS, 2020-12-29T11:41:33+0000
+/project/pyobjc-framework-applescriptkit/, pyobjc-framework-AppleScriptKit, 7.1, Wrappers for the framework AppleScriptKit on macOS, 2020-12-29T11:41:20+0000
+/project/pyobjc-framework-launchservices/, pyobjc-framework-LaunchServices, 7.1, Wrappers for the framework LaunchServices on macOS, 2020-12-29T11:43:27+0000
+/project/pyobjc-framework-coreaudiokit/, pyobjc-framework-CoreAudioKit, 7.1, Wrappers for the framework CoreAudioKit on macOS, 2020-12-29T11:41:58+0000
+/project/pyobjc-framework-uniformtypeidentifiers/, pyobjc-framework-UniformTypeIdentifiers, 7.1, Wrappers for the framework UniformTypeIdentifiers on macOS, 2020-12-29T11:45:13+0000
+/project/treeoflife/, treeoflife, 0.0.4, A Tree of your Life (end-user application), 2014-03-22T06:04:56+0000
+/project/pyobjc/, pyobjc, 7.1, Python<->ObjC Interoperability Module, 2020-12-29T11:40:54+0000
+/project/atomacos/, atomacos, 3.2.0, Automated Testing on macOS, 2019-10-03T23:50:26+0000
+/project/pyobjc-framework-corebluetooth/, pyobjc-framework-CoreBluetooth, 7.1, Wrappers for the framework CoreBluetooth on macOS, 2020-12-29T11:42:00+0000
+/project/pyobjc-framework-replaykit/, pyobjc-framework-ReplayKit, 7.1, Wrappers for the framework ReplayKit on macOS, 2020-12-29T11:44:31+0000
+/project/rumps/, rumps, 0.3.0, Ridiculously Uncomplicated MacOS Python Statusbar apps., 2019-02-02T00:56:51+0000
+/project/pyobjc-framework-iosurface/, pyobjc-framework-IOSurface, 7.1, Wrappers for the framework IOSurface on macOS, 2020-12-29T11:43:13+0000
+/project/pyobjc-framework-apptrackingtransparency/, pyobjc-framework-AppTrackingTransparency, 7.1, Wrappers for the framework AppTrackingTransparency on macOS, 2020-12-29T11:41:19+0000
+/project/csbuild/, csbuild, 0.93.1, Programming language-agnostic build system, 2021-03-09T01:00:29+0000
+/project/pyobjc-framework-security/, pyobjc-framework-Security, 7.1, Wrappers for the framework Security on macOS, 2020-12-29T11:44:44+0000
+/project/pyobjc-framework-applescriptobjc/, pyobjc-framework-AppleScriptObjC, 7.1, Wrappers for the framework AppleScriptObjC on macOS, 2020-12-29T11:41:21+0000
+/project/pyobjc-framework-contacts/, pyobjc-framework-Contacts, 7.1, Wrappers for the framework Contacts on macOS, 2020-12-29T11:41:48+0000
+/project/pyobjc-framework-fileprovider/, pyobjc-framework-FileProvider, 7.1, Wrappers for the framework FileProvider on macOS, 2020-12-29T11:42:53+0000
+/project/xunique/, xUnique, 4.1.4, A converter of the Xcode project file to make merging it much easier in VCS, 2016-04-07T08:16:52+0000
+/project/pyobjc-framework-preferencepanes/, pyobjc-framework-PreferencePanes, 7.1, Wrappers for the framework PreferencePanes on macOS, 2020-12-29T11:44:17+0000
+/project/lizard/, lizard, 1.17.7, A code analyzer without caring the C/C++ header files. It works with Java, C/C++, JavaScript, Python, Ruby, Swift, Objective C. Metrics includes cyclomatic complexity number etc., 2020-10-20T09:27:46+0000
+/project/pyobjc-framework-virtualization/, pyobjc-framework-Virtualization, 7.1, Wrappers for the framework Virtualization on macOS, 2020-12-29T11:45:21+0000
+/project/pyobjc-framework-callkit/, pyobjc-framework-CallKit, 7.1, Wrappers for the framework CallKit on macOS, 2020-12-29T11:41:34+0000
+/project/pyobjc-framework-gamekit/, pyobjc-framework-GameKit, 7.1, Wrappers for the framework GameKit on macOS, 2020-12-29T11:43:07+0000
+/project/pyobjc-framework-mediaaccessibility/, pyobjc-framework-MediaAccessibility, 7.1, Wrappers for the framework MediaAccessibility on macOS, 2020-12-29T11:43:34+0000
+/project/pyobjc-framework-accounts/, pyobjc-framework-Accounts, 7.1, Wrappers for the framework Accounts on macOS, 2020-12-29T11:41:13+0000
+/project/pyobjc-framework-eventkit/, pyobjc-framework-EventKit, 7.1, Wrappers for the framework Accounts on macOS, 2020-12-29T11:42:45+0000
+/project/pyobjc-core/, pyobjc-core, 7.1, Python<->ObjC Interoperability Module, 2020-12-29T11:40:56+0000
+/project/pyobjc-framework-systemextensions/, pyobjc-framework-SystemExtensions, 7.1, Wrappers for the framework SystemExtensions on macOS, 2020-12-29T11:45:11+0000
+/project/pyobjc-framework-coredata/, pyobjc-framework-CoreData, 7.1, Wrappers for the framework CoreData on macOS, 2020-12-29T11:42:02+0000
+/project/pyobjc-framework-message/, pyobjc-framework-Message, 7.1, Wrappers for the framework Message on macOS, 2020-12-29T11:43:39+0000
+/project/pyobjc-framework-avkit/, pyobjc-framework-AVKit, 7.1, Wrappers for the framework AVKit on macOS, 2020-12-29T11:41:08+0000
+/project/cider/, cider, 1.1.12, Hassle-free bootstrapping using Homebrew., 2019-07-07T16:11:32+0000
+/project/unbroken-pyobjc/, unbroken-pyobjc, 3.0.1, Python<->ObjC Interoperability Module, 2014-09-17T22:26:03+0000
+/project/pyobjc-framework-cocoa/, pyobjc-framework-Cocoa, 7.1, Wrappers for the Cocoa frameworks on macOS, 2020-12-29T11:41:39+0000
+/project/pyobjc-framework-linkpresentation/, pyobjc-framework-LinkPresentation, 7.1, Wrappers for the framework LinkPresentation on macOS, 2020-12-29T11:43:28+0000
+/project/pyobjc-framework-servernotification/, pyobjc-framework-ServerNotification, 7.1, Wrappers for the framework ServerNotification on macOS, 2020-12-29T11:44:54+0000
+/project/pyobjc-framework-metalkit/, pyobjc-framework-MetalKit, 7.1, Wrappers for the framework MetalKit on macOS, 2020-12-29T11:43:43+0000
+/project/srjson2mantle/, SRJSON2Mantle, 1.1.3, Generate Mantle models using JSON files, 2018-10-12T00:53:58+0000
+/project/pyobjc-framework-coremidi/, pyobjc-framework-CoreMIDI, 7.1, Wrappers for the framework CoreMIDI on macOS, 2020-12-29T11:42:08+0000
+/project/pyobjc-framework-safariservices/, pyobjc-framework-SafariServices, 7.1, Wrappers for the framework SafariServices on macOS, 2020-12-29T11:44:33+0000
+/project/cifilter/, cifilter, 0.4.2, CoreImage command line tool, 2013-02-11T00:05:00+0000
+/project/pyobjc-framework-fsevents/, pyobjc-framework-FSEvents, 7.1, Wrappers for the framework FSEvents on macOS, 2020-12-29T11:42:51+0000
+/project/pyobjc-framework-osakit/, pyobjc-framework-OSAKit, 7.1, Wrappers for the framework OSAKit on macOS, 2020-12-29T11:44:03+0000
+/project/pyobjc-framework-interfacebuilderkit/, pyobjc-framework-InterfaceBuilderKit, 7.1, Wrappers for the framework InterfaceBuilderKit on macOS, 2020-12-29T11:43:24+0000
+/project/pyobjc-framework-network/, pyobjc-framework-Network, 7.1, Wrappers for the framework Network on macOS, 2020-12-29T11:43:55+0000
+/project/pyobjc-framework-coreservices/, pyobjc-framework-CoreServices, 7.1, Wrappers for the framework CoreServices on macOS, 2020-12-29T11:42:22+0000
+/project/pasteboard/, pasteboard, 0.3.3, Pasteboard - Python interface for reading from NSPasteboard (macOS clipboard), 2021-01-29T08:10:39+0000
+/project/pyobjc-framework-metal/, pyobjc-framework-Metal, 7.1, Wrappers for the framework Metal on macOS, 2020-12-29T11:43:41+0000
+/project/pyobjc-framework-cryptotokenkit/, pyobjc-framework-CryptoTokenKit, 7.1, Wrappers for the framework CryptoTokenKit on macOS, 2020-12-29T11:42:34+0000
+/project/pyobjc-framework-diskarbitration/, pyobjc-framework-DiskArbitration, 7.1, Wrappers for the framework DiskArbitration on macOS, 2020-12-29T11:42:44+0000
+/project/pyobjc-framework-quicklookthumbnailing/, pyobjc-framework-QuickLookThumbnailing, 7.1, Wrappers for the framework QuickLookThumbnailing on macOS, 2020-12-29T11:44:29+0000
+/project/pyobjc-framework-coreaudio/, pyobjc-framework-CoreAudio, 7.1, Wrappers for the framework CoreAudio on macOS, 2020-12-29T11:41:52+0000
+/project/pyobjc-framework-mapkit/, pyobjc-framework-MapKit, 7.1, Wrappers for the framework MapKit on macOS, 2020-12-29T11:43:32+0000
+/project/pyobjc-framework-gameplaykit/, pyobjc-framework-GameplayKit, 7.1, Wrappers for the framework GameplayKit on macOS, 2020-12-29T11:43:09+0000
+/project/py-tunes/, py-tunes, 1.0b3, A Python API for the iTunes application and music library, 2016-10-09T03:52:23+0000
+/project/pyobjc-framework-usernotifications/, pyobjc-framework-UserNotifications, 7.1, Wrappers for the framework UserNotifications on macOS, 2020-12-29T11:45:14+0000
+/project/pyobjc-framework-vision/, pyobjc-framework-Vision, 7.1, Wrappers for the framework Vision on macOS, 2020-12-29T11:45:23+0000
+/project/pyobjc-framework-libdispatch/, pyobjc-framework-libdispatch, 7.1, Wrappers for libdispatch on macOS, 2020-12-29T11:45:29+0000
+/project/pyobjc-framework-ituneslibrary/, pyobjc-framework-iTunesLibrary, 7.1, Wrappers for the framework iTunesLibrary on macOS, 2020-12-29T11:45:28+0000
+/project/pyobjc-framework-speech/, pyobjc-framework-Speech, 7.1, Wrappers for the framework Speech on macOS, 2020-12-29T11:44:59+0000
+/project/pyobjc-framework-classkit/, pyobjc-framework-ClassKit, 7.1, Wrappers for the framework ClassKit on macOS, 2020-12-29T11:41:35+0000
+/project/pyobjc-framework-coreml/, pyobjc-framework-CoreML, 7.1, Wrappers for the framework CoreML on macOS, 2020-12-29T11:42:11+0000
+/project/emogenerator/, emogenerator, 0.1.13, Estranged Managed Object Generator, 2013-02-10T07:47:24+0000
+/project/pyobjc-framework-securityfoundation/, pyobjc-framework-SecurityFoundation, 7.1, Wrappers for the framework SecurityFoundation on macOS, 2020-12-29T11:44:51+0000
+/project/pyobjc-framework-xgridfoundation/, pyobjc-framework-XgridFoundation, 6.2.2, Wrappers for the framework XgridFoundation on macOS, 2020-07-08T20:05:15+0000
+/project/pyobjc-framework-searchkit/, pyobjc-framework-SearchKit, 7.1, Wrappers for the framework SearchKit on macOS, 2020-12-29T11:44:43+0000
+/project/pyobjc-framework-networkextension/, pyobjc-framework-NetworkExtension, 7.1, Wrappers for the framework NetworkExtension on macOS, 2020-12-29T11:43:58+0000
+/project/pyobjc-framework-devicecheck/, pyobjc-framework-DeviceCheck, 7.1, Wrappers for the framework DeviceCheck on macOS, 2020-12-29T11:42:38+0000
+/project/pyobjc-framework-opendirectory/, pyobjc-framework-OpenDirectory, 7.1, Wrappers for the framework OpenDirectory on macOS, 2020-12-29T11:44:07+0000
+/project/pyobjc-framework-coremedia/, pyobjc-framework-CoreMedia, 7.1, Wrappers for the framework CoreMedia on macOS, 2020-12-29T11:42:13+0000
+/project/pyobjc-framework-mediatoolbox/, pyobjc-framework-MediaToolbox, 7.1, Wrappers for the framework MediaToolbox on macOS, 2020-12-29T11:43:37+0000
+/project/pyobjc-framework-storekit/, pyobjc-framework-StoreKit, 7.1, Wrappers for the framework StoreKit on macOS, 2020-12-29T11:45:04+0000
+/project/pyobjc-framework-fileproviderui/, pyobjc-framework-FileProviderUI, 7.1, Wrappers for the framework FileProviderUI on macOS, 2020-12-29T11:42:59+0000
+/project/pluginbuilder/, pluginbuilder, 1.1.0, Create standalone Mac OS X plugins with Python, 2012-01-16T16:34:06+0000
+/project/pyobjc-framework-authenticationservices/, pyobjc-framework-AuthenticationServices, 7.1, Wrappers for the framework AuthenticationServices on macOS, 2020-12-29T11:41:23+0000
+/project/pyobjc-framework-netfs/, pyobjc-framework-NetFS, 7.1, Wrappers for the framework NetFS on macOS, 2020-12-29T11:43:54+0000
+/project/pyobjc-framework-syncservices/, pyobjc-framework-SyncServices, 7.1, Wrappers for the framework SyncServices on macOS, 2020-12-29T11:45:06+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/pyobjc-framework-corewlan/, pyobjc-framework-CoreWLAN, 7.1, Wrappers for the framework CoreWLAN on macOS, 2020-12-29T11:42:32+0000
+/project/pyobjc-framework-metalperformanceshaders/, pyobjc-framework-MetalPerformanceShaders, 7.1, Wrappers for the framework MetalPerformanceShaders on macOS, 2020-12-29T11:43:45+0000
+/project/pyobjc-framework-inputmethodkit/, pyobjc-framework-InputMethodKit, 7.1, Wrappers for the framework InputMethodKit on macOS, 2020-12-29T11:43:17+0000
+/project/pyobjc-framework-spritekit/, pyobjc-framework-SpriteKit, 7.1, Wrappers for the framework SpriteKit on macOS, 2020-12-29T11:45:02+0000
+/project/pyobjc-framework-cloudkit/, pyobjc-framework-CloudKit, 7.1, Wrappers for the framework CloudKit on macOS, 2020-12-29T11:41:38+0000
+/project/pyobjc-framework-mlcompute/, pyobjc-framework-MLCompute, 7.1, Wrappers for the framework MLCompute on macOS, 2020-12-29T11:43:31+0000
+/project/pyobjc-framework-exceptionhandling/, pyobjc-framework-ExceptionHandling, 7.1, Wrappers for the framework ExceptionHandling on macOS, 2020-12-29T11:42:46+0000
+/project/pyobjc-framework-scriptingbridge/, pyobjc-framework-ScriptingBridge, 7.1, Wrappers for the framework ScriptingBridge on macOS, 2020-12-29T11:44:41+0000
+/project/pyobjc-framework-quartz/, pyobjc-framework-Quartz, 7.1, Wrappers for the Quartz frameworks on macOS, 2020-12-29T11:44:22+0000
+/project/pyobjc-framework-metalperformanceshadersgraph/, pyobjc-framework-MetalPerformanceShadersGraph, 7.1, Wrappers for the framework MetalPerformanceShadersGraph on macOS, 2020-12-29T11:43:47+0000
+/project/pyobjc-framework-automator/, pyobjc-framework-Automator, 7.1, Wrappers for the framework Automator on macOS, 2020-12-29T11:41:28+0000
+/project/pyobjc-framework-multipeerconnectivity/, pyobjc-framework-MultipeerConnectivity, 7.1, Wrappers for the framework MultipeerConnectivity on macOS, 2020-12-29T11:43:51+0000
+/project/pyobjc-framework-webkit/, pyobjc-framework-WebKit, 7.1, Wrappers for the framework WebKit on macOS, 2020-12-29T11:45:26+0000
+/project/clant/, clant, 1.0.2, A unified frontend for clang linting tools, 2021-01-06T22:42:54+0000
+/project/pyobjc-framework-pubsub/, pyobjc-framework-PubSub, 7.1, Wrappers for the framework PubSub on macOS, 2020-12-29T11:44:18+0000
+/project/pyobjc-framework-screensaver/, pyobjc-framework-ScreenSaver, 7.1, Wrappers for the framework ScreenSaver on macOS, 2020-12-29T11:44:38+0000
+/project/pyobjc-framework-scenekit/, pyobjc-framework-SceneKit, 7.1, Wrappers for the framework SceneKit on macOS, 2020-12-29T11:44:35+0000
+/project/pyobjc-framework-scriptingbridge/, pyobjc-framework-ScriptingBridge, 7.1, Wrappers for the framework ScriptingBridge on macOS, 2020-12-29T11:44:41+0000
+/project/pyobjc-framework-addressbook/, pyobjc-framework-AddressBook, 7.1, Wrappers for the framework AddressBook on macOS, 2020-12-29T11:41:16+0000
+/project/pyobjc-framework-applicationservices/, pyobjc-framework-ApplicationServices, 7.1, Wrappers for the framework ApplicationServices on macOS, 2020-12-29T11:41:22+0000
+/project/pyobjc-framework-gamecenter/, pyobjc-framework-GameCenter, 7.1, Wrappers for the framework GameCenter on macOS, 2020-12-29T11:43:02+0000
+/project/pyobjc-framework-cfnetwork/, pyobjc-framework-CFNetwork, 7.1, Wrappers for the framework CFNetwork on macOS, 2020-12-29T11:41:31+0000
+/project/pyobjc-framework-social/, pyobjc-framework-Social, 7.1, Wrappers for the framework Social on macOS, 2020-12-29T11:44:56+0000
+/project/pyobjc-framework-avfoundation/, pyobjc-framework-AVFoundation, 7.1, Wrappers for the framework AVFoundation on macOS, 2020-12-29T11:41:05+0000
+/project/pyobjc-framework-businesschat/, pyobjc-framework-BusinessChat, 7.1, Wrappers for the framework BusinessChat on macOS, 2020-12-29T11:41:30+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/pyobjc-framework-corewlan/, pyobjc-framework-CoreWLAN, 7.1, Wrappers for the framework CoreWLAN on macOS, 2020-12-29T11:42:32+0000
+/project/pyobjc-framework-metalperformanceshaders/, pyobjc-framework-MetalPerformanceShaders, 7.1, Wrappers for the framework MetalPerformanceShaders on macOS, 2020-12-29T11:43:45+0000
+/project/pyobjc-framework-inputmethodkit/, pyobjc-framework-InputMethodKit, 7.1, Wrappers for the framework InputMethodKit on macOS, 2020-12-29T11:43:17+0000
+/project/pyobjc-framework-spritekit/, pyobjc-framework-SpriteKit, 7.1, Wrappers for the framework SpriteKit on macOS, 2020-12-29T11:45:02+0000
+/project/pyobjc-framework-cloudkit/, pyobjc-framework-CloudKit, 7.1, Wrappers for the framework CloudKit on macOS, 2020-12-29T11:41:38+0000
+/project/pyobjc-framework-mlcompute/, pyobjc-framework-MLCompute, 7.1, Wrappers for the framework MLCompute on macOS, 2020-12-29T11:43:31+0000
+/project/pyobjc-framework-exceptionhandling/, pyobjc-framework-ExceptionHandling, 7.1, Wrappers for the framework ExceptionHandling on macOS, 2020-12-29T11:42:46+0000
+/project/pyobjc-framework-dvdplayback/, pyobjc-framework-DVDPlayback, 7.1, Wrappers for the framework DVDPlayback on macOS, 2020-12-29T11:42:37+0000
+/project/pyobjc-framework-accessibility/, pyobjc-framework-Accessibility, 7.1, Wrappers for the framework Accessibility on macOS, 2020-12-29T11:41:10+0000
+/project/pyobjc-framework-adsupport/, pyobjc-framework-AdSupport, 7.1, Wrappers for the framework AdSupport on macOS, 2020-12-29T11:41:15+0000
+/project/pyobjc-framework-gamecontroller/, pyobjc-framework-GameController, 7.1, Wrappers for the framework GameController on macOS, 2020-12-29T11:43:04+0000
+/project/pyobjc-framework-storekit/, pyobjc-framework-StoreKit, 7.1, Wrappers for the framework StoreKit on macOS, 2020-12-29T11:45:04+0000
+/project/pyobjc-framework-fileproviderui/, pyobjc-framework-FileProviderUI, 7.1, Wrappers for the framework FileProviderUI on macOS, 2020-12-29T11:42:59+0000
+/project/pyobjc-framework-externalaccessory/, pyobjc-framework-ExternalAccessory, 7.1, Wrappers for the framework ExternalAccessory on macOS, 2020-12-29T11:42:49+0000
+/project/pluginbuilder/, pluginbuilder, 1.1.0, Create standalone Mac OS X plugins with Python, 2012-01-16T16:34:06+0000
+/project/pyobjc-framework-contactsui/, pyobjc-framework-ContactsUI, 7.1, Wrappers for the framework ContactsUI on macOS, 2020-12-29T11:41:50+0000
+/project/pyobjc-framework-securityinterface/, pyobjc-framework-SecurityInterface, 7.1, Wrappers for the framework SecurityInterface on macOS, 2020-12-29T11:44:52+0000
+/project/pyobjc-framework-usernotificationsui/, pyobjc-framework-UserNotificationsUI, 7.1, Wrappers for the framework UserNotificationsUI on macOS, 2020-12-29T11:45:16+0000
+/project/pyobjc-framework-authenticationservices/, pyobjc-framework-AuthenticationServices, 7.1, Wrappers for the framework AuthenticationServices on macOS, 2020-12-29T11:41:23+0000
+/project/pyobjc-framework-netfs/, pyobjc-framework-NetFS, 7.1, Wrappers for the framework NetFS on macOS, 2020-12-29T11:43:54+0000
+/project/pyobjc-framework-latentsemanticmapping/, pyobjc-framework-LatentSemanticMapping, 7.1, Wrappers for the framework LatentSemanticMapping on macOS, 2020-12-29T11:43:26+0000
+/project/pyobjc-framework-syncservices/, pyobjc-framework-SyncServices, 7.1, Wrappers for the framework SyncServices on macOS, 2020-12-29T11:45:06+0000
+/project/pyobjc-framework-notificationcenter/, pyobjc-framework-NotificationCenter, 7.1, Wrappers for the framework NotificationCenter on macOS, 2020-12-29T11:44:01+0000
+/project/pyobjc-framework-pencilkit/, pyobjc-framework-PencilKit, 7.1, Wrappers for the framework PencilKit on macOS, 2020-12-29T11:44:10+0000
+/project/pyobjc-framework-coremediaio/, pyobjc-framework-CoreMediaIO, 7.1, Wrappers for the framework CoreMediaIO on macOS, 2020-12-29T11:42:19+0000

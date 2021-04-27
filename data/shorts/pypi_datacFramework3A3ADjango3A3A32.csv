@@ -1,0 +1,278 @@
+/project/django-polymodels/, django-polymodels, 1.7.0, Polymorphic models implementation for django, 2021-03-20T06:21:14+0000
+/project/django-ditto/, django-ditto, 1.4.0, A Django app to copy stuff from your accounts on Flickr, Last.fm, Pinboard and Twitter., 2021-04-07T17:09:58+0000
+/project/django-quill-editor/, django-quill-editor, 0.1.22, Integrate Quill editor with Django project., 2021-03-23T07:05:49+0000
+/project/django-flag-app/, django-flag-app, 1.1.0, A pluggable django application that adds the ability for users to flag(or report) your models, 2021-04-18T15:40:40+0000
+/project/django-sitemap-generate/, django-sitemap-generate, 0.4.0, Background sitemap generation for Django, 2021-04-09T10:13:00+0000
+/project/django-convenient-formsets/, django-convenient-formsets, 0.9.2, Django formsets made convenient for users and developers alike., 2021-04-21T12:25:08+0000
+/project/common-framework/, common-framework, 2021.4.21, All-in-one framework for Django and Django REST Framework, 2021-04-23T00:24:39+0000
+/project/django-rql/, django-rql, 3.9.0, Django RQL Filtering, 2021-04-14T09:22:06+0000
+/project/django-client-side-image-cropping/, django-client-side-image-cropping, 0.1.8, Widget for the Django ImageField that provides an interface for cropping the image client-side to a specific size., 2021-03-31T19:51:16+0000
+/project/django-xml/, django-xml, 3.0.0, Provides an abstraction to lxml's XPath and XSLT functionality in a manner resembling django database models, 2021-03-22T20:23:25+0000
+/project/django-galera/, django-galera, 0.1, Django database backend for MariaDB Galera Cluster, 2021-04-19T19:47:40+0000
+/project/django-calaccess-raw-data/, django-calaccess-raw-data, 3.0.0, A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database, 2021-04-22T22:41:01+0000
+/project/django-admin-sortable2/, django-admin-sortable2, 1.0, Generic drag-and-drop sorting for the List, the Stacked- and the Tabular-Inlines Views in the Django Admin, 2021-04-21T09:44:52+0000
+/project/django-dirtyfields/, django-dirtyfields, 1.6.0, Tracking dirty fields on a Django model instance (actively maintained), 2021-04-07T13:50:17+0000
+/project/django-spectator/, django-spectator, 11.6.0, A Django app to track book reading, movie viewing, gig going, play watching, etc., 2021-04-07T16:50:27+0000
+/project/django-google-maps/, django-google-maps, 0.12.4, Plugs google maps V3 api into Django admin., 2021-04-06T13:26:33+0000
+/project/django-model-values/, django-model-values, 1.3, Taking the O out of ORM., 2021-04-03T15:25:56+0000
+/project/django-bootstrap3/, django-bootstrap3, 15.0.0, Bootstrap 3 support for Django projects, 2021-04-10T05:34:25+0000
+/project/geocurrency/, geocurrency, 0.19.2, Web based services to convert units and currencies., 2021-04-22T14:08:03+0000
+/project/django-ga-measurement-protocol/, django-ga-measurement-protocol, 0.1, A Django app to provide Google Analytics measurement protocol integration., 2021-04-23T12:06:54+0000
+/project/cypress-django/, cypress-django, 0.1.0, Cypress DB helper command line script, 2021-02-26T17:13:28+0000
+/project/django-treenode/, django-treenode, 0.16.0, django-treenode is probably the best abstract model / admin for your tree based stuff., 2021-04-21T12:32:55+0000
+/project/django-video-transcoding/, django-video-transcoding, 0.4.0, Simple video transcoding application for Django framework, 2021-04-09T10:19:55+0000
+/project/django-settings-file/, django-settings-file, 2.4.0, Let Django use settings from an arbitrary Python file instead of an importable module, 2021-01-25T14:51:24+0000
+/project/django-testing-utils/, django-testing-utils, 0.3.1, Utils for Django admin testing, 2021-04-10T14:58:16+0000
+/project/django-envconfig/, django-envconfig, 0.1.3, Configure Django using environment variables., 2021-04-14T19:15:14+0000
+/project/django-auth-ldap/, django-auth-ldap, 2.4.0, Django LDAP authentication backend., 2021-04-06T10:02:42+0000
+/project/model-bakery/, model-bakery, 1.3.1, Smart object creation facility for Django., 2021-04-24T13:55:46+0000
+/project/django-cors-headers/, django-cors-headers, 3.7.0, django-cors-headers is a Django application for handling the server headers required for Cross-Origin Resource Sharing (CORS)., 2021-01-25T14:48:41+0000
+/project/django-apiblueprint-view/, django-apiblueprint-view, 2.3.1, Render API Blueprints on-the-fly using Django templates, 2021-04-11T13:54:02+0000
+/project/django-kmuhelper/, django-kmuhelper, 1.4.2, Ein Helfer für schweizer KMU, 2021-04-19T16:43:42+0000
+/project/django-material-admin/, django-material-admin, 1.8.4, Material Design For Django Administration, 2021-04-23T19:30:47+0000
+/project/django-linear-migrations/, django-linear-migrations, 1.6.0, Ensure your migrations are linear., 2021-04-08T11:39:51+0000
+/project/django-ip-logger/, django-ip-logger, 1.0.1, Django application for saving IP adresses visiting a web application., 2021-04-12T12:27:09+0000
+/project/automagic-rest/, automagic-rest, 0.2.6, Automagic REST: Django REST Framework PostgreSQL Builder, 2021-04-16T20:19:53+0000
+/project/django-extensions/, django-extensions, 3.1.3, Extensions for Django, 2021-04-19T17:44:17+0000
+/project/django-flags/, django-flags, 5.0.5, Feature flags for Django projects, 2021-04-06T14:55:00+0000
+/project/django-datatable-view/, django-datatable-view, 2.1.5, This package is used in conjunction with the jQuery plugin (http://http://datatables.net/), and supports state-saving detection with (http://datatables.net/plug-ins/api).  The package consists of a class-based view, and a small collection of utilities for rendering table data from models., 2021-04-23T20:46:13+0000
+/project/django-sorcery/, django-sorcery, 0.11.2, Django and SQLAlchemy integration, 2021-04-08T11:14:20+0000
+/project/django-admin-smoke/, django-admin-smoke, 0.2.0, Smoke tests for Django admin, 2021-04-09T07:17:59+0000
+/project/unicef-restlib/, unicef-restlib, 0.7, Django package that handles exporting of data, 2021-04-14T09:33:04+0000
+/project/django-site-utils/, Django-Site-Utils, 0.3.7, Django site-wide management commands and utilities., 2021-03-19T13:31:23+0000
+/project/django-admin-countless/, django-admin-countless, 0.2.0, Countless admin mixin for Django, 2021-04-09T10:16:33+0000
+/project/django-bootstrap4/, django-bootstrap4, 3.0.0, Bootstrap 4 for Django, 2021-04-09T13:03:10+0000
+/project/django-any-js/, django-any-js, 1.1, Include JavaScript/CSS libraries with readable template tags, 2021-04-20T06:25:16+0000
+/project/django-read-only/, django-read-only, 1.3.0, Disable Django database writes., 2021-01-25T14:50:57+0000
+/project/django-svg-image-form-field/, django-svg-image-form-field, 1.0.0, A form field to handle validation of image + svg, 2021-04-15T09:41:47+0000
+/project/django-stdimage/, django-stdimage, 5.3.0, Django Standarized Image Field, 2021-03-26T09:48:43+0000
+/project/django-calaccess-scraped-data/, django-calaccess-scraped-data, 3.0.0, A Django app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website, 2021-04-22T23:19:42+0000
+/project/drf-madprops/, drf-madprops, 1.1.0, DRF library to operate resource's properties as a dictionary, 2021-02-04T11:40:23+0000
+/project/django-liquidb/, django-liquidb, 0.1, Liquidb is a Django app that simplifies migration management., 2021-03-17T07:46:17+0000
+/project/django-migration-linter/, django-migration-linter, 2.5.3, Detect backward incompatible migrations for your django project, 2021-04-12T17:00:44+0000
+/project/django-swingtime/, django-swingtime, 1.2.1, A Django calendaring application., 2021-02-28T04:17:22+0000
+/project/django-api-forms/, django-api-forms, 0.18.0, Declarative Django request validation, 2021-04-16T11:49:54+0000
+/project/django-perf-rec/, django-perf-rec, 4.13.1, Keep detailed records of the performance of your Django code., 2021-04-15T11:59:09+0000
+/project/django-graphql-jwt/, django-graphql-jwt, 0.3.2, JSON Web Token for Django GraphQL, 2021-04-09T05:59:03+0000
+/project/django-slick-reporting/, django-slick-reporting, 0.5.8, A one-stop report and analytics generation and computation with batteries included, 2021-04-08T05:22:23+0000
+/project/graphene-django-plus/, graphene-django-plus, 2.4.0, Tools to easily create permissioned CRUD endpoints in graphene., 2021-04-21T20:47:05+0000
+/project/django-check-admin/, django-check-admin, 1.1.0, A Django app to check that all models have been added to the Django admin site., 2021-04-15T01:57:27+0000
+/project/vstutils/, vstutils, 4.6.4, VST Utils Framework for fast create web-application, 2021-04-15T02:48:33+0000
+/project/django-countries/, django-countries, 7.1, Provides a country field for Django models., 2021-03-17T03:34:25+0000
+/project/django-extra-checks/, django-extra-checks, 0.11.0, Collection of useful checks for Django Checks Framework, 2021-04-06T22:55:43+0000
+/project/django-render-static/, django-render-static, 1.0.1, Use Django's template engine to render static files at deployment time. Extend Django's url reverse mechanism to JavaScript., 2021-04-24T21:57:58+0000
+/project/django-querysetsequence/, django-querysetsequence, 0.14, Chain together multiple (disparate) QuerySets to treat them as a single QuerySet., 2021-02-26T16:56:58+0000
+/project/django-async-downloads/, django-async-downloads, 0.2.1, Asynchronous downloads scaffolding for Django projects, 2021-04-07T13:19:30+0000
+/project/django-admin-blame/, django-admin-blame, 0.3.0, Tools for logging changes made from Django admin, 2021-04-09T10:15:45+0000
+/project/django-stubs-ext/, django-stubs-ext, 0.2.0, Monkey-patching and extensions for django-stubs, 2021-04-14T10:12:19+0000
+/project/django-admin-wizard/, django-admin-wizard, 0.2.0, Wizard implementation for Django admin, 2021-04-09T10:14:31+0000
+/project/django-clone/, django-clone, 2.5.3, Create a clone of a django model instance., 2021-04-25T03:34:00+0000
+/project/pytest-django/, pytest-django, 4.2.0, A Django plugin for pytest., 2021-04-10T17:46:59+0000
+/project/django-polymorphic-foreignkey/, django-polymorphic-foreignkey, 2.0.0, A polymorphic ForeignKey field that acts like a generic ForeignKey, 2021-04-01T21:11:35+0000
+/project/django-private-chat2/, django-private-chat2, 0.1.4, Chat app for Django, powered by Django Channels, Websockets & Asyncio, 2021-04-01T20:53:12+0000
+/project/django-pgviews-redux/, django-pgviews-redux, 0.7.1, Create and manage Postgres SQL Views in Django, 2021-04-08T09:01:05+0000
+/project/django-contrib-comments/, django-contrib-comments, 2.1.0, The code formerly known as django.contrib.comments., 2021-03-03T20:16:28+0000
+/project/django-icons/, django-icons, 3.0.0, Icons 5 for Django, 2021-04-09T08:06:25+0000
+/project/django-phonenumber-field/, django-phonenumber-field, 5.1.0, An international phone number field for django models., 2021-04-15T07:40:55+0000
+/project/django-http-method/, django-http-method, 1.2.0, Provide a workaround to use different method from GET or POST inside HTML forms, 2021-04-12T10:38:33+0000
+/project/django-override-storage/, django-override-storage, 0.3.1, Django test helpers to manage file storage side effects., 2021-04-08T02:58:05+0000
+/project/django-admin-notice/, django-admin-notice, 1.1.4, Show a floating notice banner above the Django admin interface, 2021-04-09T22:39:25+0000
+/project/django-postgres-metrics/, django-postgres-metrics, 0.10.1, A Django app that exposes a bunch of PostgreSQL database metrics., 2021-04-06T20:18:14+0000
+/project/django-currentuser/, django-currentuser, 0.5.3, Conveniently store reference to request user on thread/db level., 2021-04-23T19:44:31+0000
+/project/djecrety/, djecrety, 1.0.14, Djecrety package provides a command to generate a new secret key for your project and save it to settings.py file., 2021-04-08T18:20:11+0000
+/project/heroicons/, heroicons, 1.0.2, Use heroicons in your Django and Jinja templates., 2021-04-22T18:21:11+0000
+/project/django-username-email/, django-username-email, 2.4.2, Custom Django User model that makes email the USERNAME_FIELD., 2021-04-10T02:51:19+0000
+/project/django-version-checks/, django-version-checks, 1.1.0, System checks for your project's environment., 2021-01-25T14:51:53+0000
+/project/django-admin-cursor-paginator/, django-admin-cursor-paginator, 0.1.0, Drop-in replacement for django admin default pagination that works fast with huge tables., 2021-03-10T20:07:43+0000
+/project/django-mptt-admin/, django-mptt-admin, 2.1.0, Django-mptt-admin provides a nice Django Admin interface for Mptt models, 2021-04-06T10:49:47+0000
+/project/drf-renderer-xlsx/, drf-renderer-xlsx, 0.4.0, Django REST Framework renderer for spreadsheet (xlsx) files., 2021-03-26T14:57:58+0000
+/project/django-capture-on-commit-callbacks/, django-capture-on-commit-callbacks, 1.4.0, Capture and make assertions on transaction.on_commit() callbacks., 2021-01-25T14:47:58+0000
+/project/django-tenants-celery-beat/, django-tenants-celery-beat, 0.1.0, Support for celery beat in multitenant Django projects, 2021-02-26T17:24:51+0000
+/project/django-leaflet-admin-list/, django-leaflet-admin-list, 0.0.3, Django Leaflet Admin List, 2021-04-23T09:10:56+0000
+/project/django-dumpdata-one/, django-dumpdata-one, 0.8.4, Django management command to export choosen data from one table, 2021-04-07T15:28:15+0000
+/project/drf-sideloading/, drf-sideloading, 1.4.2, Extension for Django Rest Framework to enable simple sideloading, 2021-04-12T14:02:04+0000
+/project/django-permissions-policy/, django-permissions-policy, 4.0.0, Set the draft security HTTP header Permissions-Policy (previously Feature-Policy) on your Django app., 2021-03-24T15:08:41+0000
+/project/django-migrations-formatter/, django-migrations-formatter, 0.1.4, A Django library to automatically format your migrations., 2021-04-06T10:39:48+0000
+/project/django-ses-sns-tracker/, django-ses-sns-tracker, 2.0.0, Simple wrapper around django-ses to receive and persist sns event data, 2021-04-06T18:42:13+0000
+/project/django-tailwind-postcss/, django-tailwind-postcss, 0.12.0, Tailwind CSS Framework for Django projects, 2021-04-10T11:15:29+0000
+/project/django-request-token/, django-request-token, 0.14.1, JWT-backed Django app for managing querystring tokens., 2021-04-18T09:25:36+0000
+/project/rest-framework-smoke/, rest-framework-smoke, 0.3.2, Smoke tests for API built with Django Rest Framework, 2021-04-16T11:54:43+0000
+/project/django-navtag/, django-navtag, 3.0, A simple Django navigation template tag, 2021-04-11T22:31:52+0000
+/project/django-formtools/, django-formtools, 2.3, A set of high-level abstractions for Django forms, 2021-04-19T03:58:32+0000
+/project/django-phone-auth/, django-phone-auth, 0.3, A Django app to authenticate and register user using phone/email/username., 2021-04-15T21:21:26+0000
+/project/django-htmx/, django-htmx, 1.0.1, Extensions for using Django with htmx., 2021-02-08T09:47:02+0000
+/project/django-admin-interface/, django-admin-interface, 0.16.2, django-admin-interface is a modern responsive flat admin interface customizable by the admin itself., 2021-04-23T13:01:01+0000
+/project/django-charting/, django-charting, 2.0.0, Charts for Django using Google Charts API, 2021-04-10T05:50:48+0000
+/project/django-marina/, django-marina, 2.1.0, Django extensions by Zostera, 2021-04-13T10:50:07+0000
+/project/unicef-security/, unicef-security, 0.7, Provides Basic UNICEF User model and integration with Azure, 2021-04-09T13:15:58+0000
+/project/django-samplemed-user-api/, django-samplemed-user-api, 0.0.2, A simple User app for DRF, 2021-04-13T22:24:01+0000
+/project/django-file-form/, django-file-form, 3.2.1, Django-file-form helps you to write forms with a pretty ajax upload, 2021-04-20T09:20:56+0000
+/project/django-mysql/, django-mysql, 3.11.1, Django-MySQL extends Django's built-in MySQL and MariaDB support their specific features not available on other databases., 2021-01-26T11:42:51+0000
+/project/django-appmail/, django-appmail, 2.0, Django app for managing localised email templates., 2021-03-29T12:08:44+0000
+/project/django-bootstrap5/, django-bootstrap5, 0.5.0, Bootstrap 5 for Django, 2021-04-23T14:37:32+0000
+/project/django-seal/, django-seal, 1.4.3, Allows ORM constructs to be sealed to prevent them from executing queries on attribute accesses., 2021-04-08T15:36:49+0000
+/project/django-components/, django-components, 0.11, A way to create simple reusable template components in Django., 2021-04-18T13:50:32+0000
+/project/django-admin-anchors/, django-admin-anchors, 2.0.1, Link related objects in Django admin using decorators, 2021-04-10T19:14:35+0000
+/project/django-admin-framework/, django-admin-framework, 0.0.1, , 2021-02-11T08:40:15+0000
+/project/django-user-accounts/, django-user-accounts, 3.0.4, a Django user account app, 2021-04-24T22:36:03+0000
+/project/django-ninja/, django-ninja, 0.12.2, Django Ninja - Fast Django REST framework, 2021-04-06T06:32:32+0000
+/project/ai-django-core/, ai-django-core, 5.1.1, Lots of helper functions and useful widgets., 2021-04-21T06:45:39+0000
+/project/django-letsagree/, django-letsagree, 1.1.7, A django application that associates Groups with Terms requiring consent from logged in members., 2021-04-06T16:59:45+0000
+/project/django-user-accounts/, django-user-accounts, 3.0.4, a Django user account app, 2021-04-24T22:36:03+0000
+/project/ai-django-core/, ai-django-core, 5.1.1, Lots of helper functions and useful widgets., 2021-04-21T06:45:39+0000
+/project/django-letsagree/, django-letsagree, 1.1.7, A django application that associates Groups with Terms requiring consent from logged in members., 2021-04-06T16:59:45+0000
+/project/django-syzygy/, django-syzygy, 0.1.0a7, , 2021-04-02T16:35:53+0000
+/project/django-phone-auth/, django-phone-auth, 0.3, A Django app to authenticate and register user using phone/email/username., 2021-04-15T21:21:26+0000
+/project/django-htmx/, django-htmx, 1.0.1, Extensions for using Django with htmx., 2021-02-08T09:47:02+0000
+/project/django-admin-interface/, django-admin-interface, 0.16.2, django-admin-interface is a modern responsive flat admin interface customizable by the admin itself., 2021-04-23T13:01:01+0000
+/project/django-charting/, django-charting, 2.0.0, Charts for Django using Google Charts API, 2021-04-10T05:50:48+0000
+/project/django-ses-sns-tracker/, django-ses-sns-tracker, 2.0.0, Simple wrapper around django-ses to receive and persist sns event data, 2021-04-06T18:42:13+0000
+/project/django-tailwind-postcss/, django-tailwind-postcss, 0.12.0, Tailwind CSS Framework for Django projects, 2021-04-10T11:15:29+0000
+/project/django-request-token/, django-request-token, 0.14.1, JWT-backed Django app for managing querystring tokens., 2021-04-18T09:25:36+0000
+/project/rest-framework-smoke/, rest-framework-smoke, 0.3.2, Smoke tests for API built with Django Rest Framework, 2021-04-16T11:54:43+0000
+/project/django-username-email/, django-username-email, 2.4.2, Custom Django User model that makes email the USERNAME_FIELD., 2021-04-10T02:51:19+0000
+/project/django-version-checks/, django-version-checks, 1.1.0, System checks for your project's environment., 2021-01-25T14:51:53+0000
+/project/django-capture-on-commit-callbacks/, django-capture-on-commit-callbacks, 1.4.0, Capture and make assertions on transaction.on_commit() callbacks., 2021-01-25T14:47:58+0000
+/project/drf-renderer-xlsx/, drf-renderer-xlsx, 0.4.0, Django REST Framework renderer for spreadsheet (xlsx) files., 2021-03-26T14:57:58+0000
+/project/django-tenants-celery-beat/, django-tenants-celery-beat, 0.1.0, Support for celery beat in multitenant Django projects, 2021-02-26T17:24:51+0000
+/project/django-computedfields/, django-computedfields, 0.1.5, autoupdated database fields for model methods, 2021-04-25T14:17:49+0000
+/project/django-defender/, django-defender, 0.9.0, redis based Django app that locks out users after too many failed login attempts., 2021-04-25T23:48:21+0000
+/project/django-polymodels/, django-polymodels, 1.7.0, Polymorphic models implementation for django, 2021-03-20T06:21:14+0000
+/project/django-ditto/, django-ditto, 1.4.0, A Django app to copy stuff from your accounts on Flickr, Last.fm, Pinboard and Twitter., 2021-04-07T17:09:58+0000
+/project/django-quill-editor/, django-quill-editor, 0.1.22, Integrate Quill editor with Django project., 2021-03-23T07:05:49+0000
+/project/django-flag-app/, django-flag-app, 1.1.0, A pluggable django application that adds the ability for users to flag(or report) your models, 2021-04-18T15:40:40+0000
+/project/django-sitemap-generate/, django-sitemap-generate, 0.4.0, Background sitemap generation for Django, 2021-04-09T10:13:00+0000
+/project/django-google-maps/, django-google-maps, 0.12.4, Plugs google maps V3 api into Django admin., 2021-04-06T13:26:33+0000
+/project/django-convenient-formsets/, django-convenient-formsets, 0.9.2, Django formsets made convenient for users and developers alike., 2021-04-21T12:25:08+0000
+/project/common-framework/, common-framework, 2021.4.21, All-in-one framework for Django and Django REST Framework, 2021-04-23T00:24:39+0000
+/project/django-rql/, django-rql, 3.9.0, Django RQL Filtering, 2021-04-14T09:22:06+0000
+/project/django-client-side-image-cropping/, django-client-side-image-cropping, 0.1.8, Widget for the Django ImageField that provides an interface for cropping the image client-side to a specific size., 2021-03-31T19:51:16+0000
+/project/django-model-values/, django-model-values, 1.3, Taking the O out of ORM., 2021-04-03T15:25:56+0000
+/project/django-video-transcoding/, django-video-transcoding, 0.4.0, Simple video transcoding application for Django framework, 2021-04-09T10:19:55+0000
+/project/django-settings-file/, django-settings-file, 2.4.0, Let Django use settings from an arbitrary Python file instead of an importable module, 2021-01-25T14:51:24+0000
+/project/django-bootstrap3/, django-bootstrap3, 15.0.0, Bootstrap 3 support for Django projects, 2021-04-10T05:34:25+0000
+/project/django-xml/, django-xml, 3.0.0, Provides an abstraction to lxml's XPath and XSLT functionality in a manner resembling django database models, 2021-03-22T20:23:25+0000
+/project/geocurrency/, geocurrency, 0.19.2, Web based services to convert units and currencies., 2021-04-22T14:08:03+0000
+/project/django-ga-measurement-protocol/, django-ga-measurement-protocol, 0.1, A Django app to provide Google Analytics measurement protocol integration., 2021-04-23T12:06:54+0000
+/project/cypress-django/, cypress-django, 0.1.0, Cypress DB helper command line script, 2021-02-26T17:13:28+0000
+/project/django-galera/, django-galera, 0.1, Django database backend for MariaDB Galera Cluster, 2021-04-19T19:47:40+0000
+/project/django-calaccess-raw-data/, django-calaccess-raw-data, 3.0.0, A Django app to download, extract and load campaign finance and lobbying activity data from the California Secretary of State's CAL-ACCESS database, 2021-04-22T22:41:01+0000
+/project/django-admin-sortable2/, django-admin-sortable2, 1.0, Generic drag-and-drop sorting for the List, the Stacked- and the Tabular-Inlines Views in the Django Admin, 2021-04-21T09:44:52+0000
+/project/django-dirtyfields/, django-dirtyfields, 1.6.0, Tracking dirty fields on a Django model instance (actively maintained), 2021-04-07T13:50:17+0000
+/project/django-treenode/, django-treenode, 0.16.0, django-treenode is probably the best abstract model / admin for your tree based stuff., 2021-04-21T12:32:55+0000
+/project/django-spectator/, django-spectator, 11.6.0, A Django app to track book reading, movie viewing, gig going, play watching, etc., 2021-04-07T16:50:27+0000
+/project/django-testing-utils/, django-testing-utils, 0.3.1, Utils for Django admin testing, 2021-04-10T14:58:16+0000
+/project/django-material-admin/, django-material-admin, 1.8.4, Material Design For Django Administration, 2021-04-23T19:30:47+0000
+/project/django-linear-migrations/, django-linear-migrations, 1.6.0, Ensure your migrations are linear., 2021-04-08T11:39:51+0000
+/project/vstutils/, vstutils, 4.6.4, VST Utils Framework for fast create web-application, 2021-04-15T02:48:33+0000
+/project/django-countries/, django-countries, 7.1, Provides a country field for Django models., 2021-03-17T03:34:25+0000
+/project/django-extra-checks/, django-extra-checks, 0.11.0, Collection of useful checks for Django Checks Framework, 2021-04-06T22:55:43+0000
+/project/django-ip-logger/, django-ip-logger, 1.0.1, Django application for saving IP adresses visiting a web application., 2021-04-12T12:27:09+0000
+/project/django-render-static/, django-render-static, 1.0.1, Use Django's template engine to render static files at deployment time. Extend Django's url reverse mechanism to JavaScript., 2021-04-24T21:57:58+0000
+/project/django-querysetsequence/, django-querysetsequence, 0.14, Chain together multiple (disparate) QuerySets to treat them as a single QuerySet., 2021-02-26T16:56:58+0000
+/project/django-datatable-view/, django-datatable-view, 2.1.5, This package is used in conjunction with the jQuery plugin (http://http://datatables.net/), and supports state-saving detection with (http://datatables.net/plug-ins/api).  The package consists of a class-based view, and a small collection of utilities for rendering table data from models., 2021-04-23T20:46:13+0000
+/project/django-sorcery/, django-sorcery, 0.11.2, Django and SQLAlchemy integration, 2021-04-08T11:14:20+0000
+/project/unicef-restlib/, unicef-restlib, 0.7, Django package that handles exporting of data, 2021-04-14T09:33:04+0000
+/project/django-admin-countless/, django-admin-countless, 0.2.0, Countless admin mixin for Django, 2021-04-09T10:16:33+0000
+/project/django-bootstrap4/, django-bootstrap4, 3.0.0, Bootstrap 4 for Django, 2021-04-09T13:03:10+0000
+/project/django-any-js/, django-any-js, 1.1, Include JavaScript/CSS libraries with readable template tags, 2021-04-20T06:25:16+0000
+/project/django-async-downloads/, django-async-downloads, 0.2.1, Asynchronous downloads scaffolding for Django projects, 2021-04-07T13:19:30+0000
+/project/django-admin-blame/, django-admin-blame, 0.3.0, Tools for logging changes made from Django admin, 2021-04-09T10:15:45+0000
+/project/django-phonenumber-field/, django-phonenumber-field, 5.1.0, An international phone number field for django models., 2021-04-15T07:40:55+0000
+/project/drf-madprops/, drf-madprops, 1.1.0, DRF library to operate resource's properties as a dictionary, 2021-02-04T11:40:23+0000
+/project/django-envconfig/, django-envconfig, 0.1.3, Configure Django using environment variables., 2021-04-14T19:15:14+0000
+/project/django-auth-ldap/, django-auth-ldap, 2.4.0, Django LDAP authentication backend., 2021-04-06T10:02:42+0000
+/project/model-bakery/, model-bakery, 1.3.1, Smart object creation facility for Django., 2021-04-24T13:55:46+0000
+/project/django-cors-headers/, django-cors-headers, 3.7.0, django-cors-headers is a Django application for handling the server headers required for Cross-Origin Resource Sharing (CORS)., 2021-01-25T14:48:41+0000
+/project/django-apiblueprint-view/, django-apiblueprint-view, 2.3.1, Render API Blueprints on-the-fly using Django templates, 2021-04-11T13:54:02+0000
+/project/django-kmuhelper/, django-kmuhelper, 1.4.2, Ein Helfer für schweizer KMU, 2021-04-19T16:43:42+0000
+/project/django-liquidb/, django-liquidb, 0.1, Liquidb is a Django app that simplifies migration management., 2021-03-17T07:46:17+0000
+/project/django-migration-linter/, django-migration-linter, 2.5.3, Detect backward incompatible migrations for your django project, 2021-04-12T17:00:44+0000
+/project/django-swingtime/, django-swingtime, 1.2.1, A Django calendaring application., 2021-02-28T04:17:22+0000
+/project/django-api-forms/, django-api-forms, 0.18.0, Declarative Django request validation, 2021-04-16T11:49:54+0000
+/project/django-perf-rec/, django-perf-rec, 4.13.1, Keep detailed records of the performance of your Django code., 2021-04-15T11:59:09+0000
+/project/django-graphql-jwt/, django-graphql-jwt, 0.3.2, JSON Web Token for Django GraphQL, 2021-04-09T05:59:03+0000
+/project/django-slick-reporting/, django-slick-reporting, 0.5.8, A one-stop report and analytics generation and computation with batteries included, 2021-04-08T05:22:23+0000
+/project/graphene-django-plus/, graphene-django-plus, 2.4.0, Tools to easily create permissioned CRUD endpoints in graphene., 2021-04-21T20:47:05+0000
+/project/django-check-admin/, django-check-admin, 1.1.0, A Django app to check that all models have been added to the Django admin site., 2021-04-15T01:57:27+0000
+/project/automagic-rest/, automagic-rest, 0.2.6, Automagic REST: Django REST Framework PostgreSQL Builder, 2021-04-16T20:19:53+0000
+/project/django-extensions/, django-extensions, 3.1.3, Extensions for Django, 2021-04-19T17:44:17+0000
+/project/django-flags/, django-flags, 5.0.5, Feature flags for Django projects, 2021-04-06T14:55:00+0000
+/project/django-admin-smoke/, django-admin-smoke, 0.2.0, Smoke tests for Django admin, 2021-04-09T07:17:59+0000
+/project/django-site-utils/, Django-Site-Utils, 0.3.7, Django site-wide management commands and utilities., 2021-03-19T13:31:23+0000
+/project/django-stubs-ext/, django-stubs-ext, 0.2.0, Monkey-patching and extensions for django-stubs, 2021-04-14T10:12:19+0000
+/project/django-read-only/, django-read-only, 1.3.0, Disable Django database writes., 2021-01-25T14:50:57+0000
+/project/django-admin-wizard/, django-admin-wizard, 0.2.0, Wizard implementation for Django admin, 2021-04-09T10:14:31+0000
+/project/django-clone/, django-clone, 2.5.3, Create a clone of a django model instance., 2021-04-25T03:34:00+0000
+/project/pytest-django/, pytest-django, 4.2.0, A Django plugin for pytest., 2021-04-10T17:46:59+0000
+/project/django-svg-image-form-field/, django-svg-image-form-field, 1.0.0, A form field to handle validation of image + svg, 2021-04-15T09:41:47+0000
+/project/django-stdimage/, django-stdimage, 5.3.0, Django Standarized Image Field, 2021-03-26T09:48:43+0000
+/project/django-calaccess-scraped-data/, django-calaccess-scraped-data, 3.0.0, A Django app to scrape campaign-finance data from the California Secretary of State’s CAL-ACCESS website, 2021-04-22T23:19:42+0000
+/project/django-polymorphic-foreignkey/, django-polymorphic-foreignkey, 2.0.0, A polymorphic ForeignKey field that acts like a generic ForeignKey, 2021-04-01T21:11:35+0000
+/project/django-private-chat2/, django-private-chat2, 0.1.4, Chat app for Django, powered by Django Channels, Websockets & Asyncio, 2021-04-01T20:53:12+0000
+/project/django-pgviews-redux/, django-pgviews-redux, 0.7.1, Create and manage Postgres SQL Views in Django, 2021-04-08T09:01:05+0000
+/project/django-contrib-comments/, django-contrib-comments, 2.1.0, The code formerly known as django.contrib.comments., 2021-03-03T20:16:28+0000
+/project/django-icons/, django-icons, 3.0.0, Icons 5 for Django, 2021-04-09T08:06:25+0000
+/project/django-http-method/, django-http-method, 1.2.0, Provide a workaround to use different method from GET or POST inside HTML forms, 2021-04-12T10:38:33+0000
+/project/django-override-storage/, django-override-storage, 0.3.1, Django test helpers to manage file storage side effects., 2021-04-08T02:58:05+0000
+/project/django-computedfields/, django-computedfields, 0.1.5, autoupdated database fields for model methods, 2021-04-25T14:17:49+0000
+/project/django-admin-notice/, django-admin-notice, 1.1.4, Show a floating notice banner above the Django admin interface, 2021-04-09T22:39:25+0000
+/project/django-postgres-metrics/, django-postgres-metrics, 0.10.1, A Django app that exposes a bunch of PostgreSQL database metrics., 2021-04-06T20:18:14+0000
+/project/django-currentuser/, django-currentuser, 0.5.3, Conveniently store reference to request user on thread/db level., 2021-04-23T19:44:31+0000
+/project/djecrety/, djecrety, 1.0.14, Djecrety package provides a command to generate a new secret key for your project and save it to settings.py file., 2021-04-08T18:20:11+0000
+/project/heroicons/, heroicons, 1.0.2, Use heroicons in your Django and Jinja templates., 2021-04-22T18:21:11+0000
+/project/django-username-email/, django-username-email, 2.4.2, Custom Django User model that makes email the USERNAME_FIELD., 2021-04-10T02:51:19+0000
+/project/django-version-checks/, django-version-checks, 1.1.0, System checks for your project's environment., 2021-01-25T14:51:53+0000
+/project/django-admin-cursor-paginator/, django-admin-cursor-paginator, 0.1.0, Drop-in replacement for django admin default pagination that works fast with huge tables., 2021-03-10T20:07:43+0000
+/project/django-mptt-admin/, django-mptt-admin, 2.1.0, Django-mptt-admin provides a nice Django Admin interface for Mptt models, 2021-04-06T10:49:47+0000
+/project/drf-renderer-xlsx/, drf-renderer-xlsx, 0.4.0, Django REST Framework renderer for spreadsheet (xlsx) files., 2021-03-26T14:57:58+0000
+/project/django-capture-on-commit-callbacks/, django-capture-on-commit-callbacks, 1.4.0, Capture and make assertions on transaction.on_commit() callbacks., 2021-01-25T14:47:58+0000
+/project/django-tenants-celery-beat/, django-tenants-celery-beat, 0.1.0, Support for celery beat in multitenant Django projects, 2021-02-26T17:24:51+0000
+/project/django-leaflet-admin-list/, django-leaflet-admin-list, 0.0.3, Django Leaflet Admin List, 2021-04-23T09:10:56+0000
+/project/django-dumpdata-one/, django-dumpdata-one, 0.8.4, Django management command to export choosen data from one table, 2021-04-07T15:28:15+0000
+/project/drf-sideloading/, drf-sideloading, 1.4.2, Extension for Django Rest Framework to enable simple sideloading, 2021-04-12T14:02:04+0000
+/project/django-permissions-policy/, django-permissions-policy, 4.0.0, Set the draft security HTTP header Permissions-Policy (previously Feature-Policy) on your Django app., 2021-03-24T15:08:41+0000
+/project/django-migrations-formatter/, django-migrations-formatter, 0.1.4, A Django library to automatically format your migrations., 2021-04-06T10:39:48+0000
+/project/django-ses-sns-tracker/, django-ses-sns-tracker, 2.0.0, Simple wrapper around django-ses to receive and persist sns event data, 2021-04-06T18:42:13+0000
+/project/django-tailwind-postcss/, django-tailwind-postcss, 0.12.0, Tailwind CSS Framework for Django projects, 2021-04-10T11:15:29+0000
+/project/django-request-token/, django-request-token, 0.14.1, JWT-backed Django app for managing querystring tokens., 2021-04-18T09:25:36+0000
+/project/rest-framework-smoke/, rest-framework-smoke, 0.3.2, Smoke tests for API built with Django Rest Framework, 2021-04-16T11:54:43+0000
+/project/django-navtag/, django-navtag, 3.0, A simple Django navigation template tag, 2021-04-11T22:31:52+0000
+/project/django-formtools/, django-formtools, 2.3, A set of high-level abstractions for Django forms, 2021-04-19T03:58:32+0000
+/project/django-phone-auth/, django-phone-auth, 0.3, A Django app to authenticate and register user using phone/email/username., 2021-04-15T21:21:26+0000
+/project/django-htmx/, django-htmx, 1.0.1, Extensions for using Django with htmx., 2021-02-08T09:47:02+0000
+/project/django-charting/, django-charting, 2.0.0, Charts for Django using Google Charts API, 2021-04-10T05:50:48+0000
+/project/django-marina/, django-marina, 2.1.0, Django extensions by Zostera, 2021-04-13T10:50:07+0000
+/project/unicef-security/, unicef-security, 0.7, Provides Basic UNICEF User model and integration with Azure, 2021-04-09T13:15:58+0000
+/project/django-samplemed-user-api/, django-samplemed-user-api, 0.0.2, A simple User app for DRF, 2021-04-13T22:24:01+0000
+/project/django-file-form/, django-file-form, 3.2.1, Django-file-form helps you to write forms with a pretty ajax upload, 2021-04-20T09:20:56+0000
+/project/django-mysql/, django-mysql, 3.11.1, Django-MySQL extends Django's built-in MySQL and MariaDB support their specific features not available on other databases., 2021-01-26T11:42:51+0000
+/project/django-appmail/, django-appmail, 2.0, Django app for managing localised email templates., 2021-03-29T12:08:44+0000
+/project/django-bootstrap5/, django-bootstrap5, 0.6.0, Bootstrap 5 for Django, 2021-04-26T05:17:59+0000
+/project/django-seal/, django-seal, 1.4.3, Allows ORM constructs to be sealed to prevent them from executing queries on attribute accesses., 2021-04-08T15:36:49+0000
+/project/django-components/, django-components, 0.11, A way to create simple reusable template components in Django., 2021-04-18T13:50:32+0000
+/project/django-admin-anchors/, django-admin-anchors, 2.0.1, Link related objects in Django admin using decorators, 2021-04-10T19:14:35+0000
+/project/django-admin-framework/, django-admin-framework, 0.0.1, , 2021-02-11T08:40:15+0000
+/project/django-user-accounts/, django-user-accounts, 3.0.4, a Django user account app, 2021-04-24T22:36:03+0000
+/project/django-ninja/, django-ninja, 0.12.2, Django Ninja - Fast Django REST framework, 2021-04-06T06:32:32+0000
+/project/django-defender/, django-defender, 0.9.0, redis based Django app that locks out users after too many failed login attempts., 2021-04-25T23:48:21+0000
+/project/ai-django-core/, ai-django-core, 5.1.1, Lots of helper functions and useful widgets., 2021-04-21T06:45:39+0000
+/project/django-letsagree/, django-letsagree, 1.1.7, A django application that associates Groups with Terms requiring consent from logged in members., 2021-04-06T16:59:45+0000
+/project/django-cleanup/, django-cleanup, 5.2.0, Deletes old files., 2021-04-18T17:08:10+0000
+/project/django-syzygy/, django-syzygy, 0.1.0a7, , 2021-04-02T16:35:53+0000
+/project/django-taggit/, django-taggit, 1.4.0, django-taggit is a reusable Django application for simple tagging., 2021-04-19T09:04:41+0000
+/project/django-simple-history/, django-simple-history, 3.0.0, Store model history and view/revert changes from admin site., 2021-04-19T15:02:28+0000
+/project/django-xicon/, django-xicon, 0.16.0, Django reusable application to handle modern bunch of site icons, 2021-04-16T02:35:59+0000
+/project/django-cockroachdb/, django-cockroachdb, 3.2, Django backend for CockroachDB, 2021-04-08T18:03:43+0000
+/project/django-clearcache/, django-clearcache, 1.2.1, Allows you to clear Django cache via admin UI or manage.py command, 2021-04-15T11:55:55+0000
+/project/django-queryable-properties/, django-queryable-properties, 1.6.1, Write Django model properties that can be used in database queries., 2021-04-19T17:13:57+0000
+/project/django-tinymce4-widget/, django-tinymce4-widget, 6.1.2, A Django application that provides a TinyMCE 4 editor widget without any static files, 2021-04-06T18:17:53+0000
+/project/django-image-assets/, django-image-assets, 0.3.0, Django application for image assets management, 2021-04-10T06:06:55+0000
+/project/crispy-tailwind/, crispy-tailwind, 0.5.0, A tailwind package for Django Crispy Forms, 2021-04-14T07:00:33+0000
+/project/uzsoato-registry/, uzsoato-registry, 0.1.3, SOATO Registry of Uzbekistan, 2021-04-21T13:45:41+0000
+/project/django-marion/, django-marion, 0.2.0, The documents factory, 2021-04-16T07:51:05+0000
+/project/django-audit-wazuh/, django-audit-wazuh, 0.7.0, Django Audit, 2021-04-14T16:18:49+0000
+/project/django-simple-metatags/, django-simple-metatags, 2.0.2, The django application allows to add title, keywords and description meta tags to site's pages., 2021-04-21T12:04:51+0000
+/project/django-admin-interface/, django-admin-interface, 0.16.3, django-admin-interface is a modern responsive flat admin interface customizable by the admin itself., 2021-04-26T08:22:49+0000
+/project/django-axes/, django-axes, 5.14.0, Keep track of failed login attempts in Django-powered sites., 2021-04-06T19:02:43+0000
+/project/django-keys/, django-keys, 1.0.4, Python package and CLI tool for generating and handling secret keys used by Django applications., 2021-04-14T10:47:07+0000

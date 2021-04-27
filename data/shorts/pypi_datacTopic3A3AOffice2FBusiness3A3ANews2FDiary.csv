@@ -1,0 +1,110 @@
+/project/newsreader/, newsreader, 0.3.0, Read the news from the comfort of your own terminal, 2019-04-14T15:49:29+0000
+/project/daily-notes/, daily-notes, 0.1.1, This program is targeted to who will make some notes everyday., 2008-10-06T05:56:20+0000
+/project/telegram-news-eswzy/, telegram-news-eswzy, 0.0.6, News feed by telegram bot, 2020-04-29T09:29:24+0000
+/project/collective-nitf/, collective.nitf, 2.1.1, A content type inspired on the IPTC's News Industry Text Format specification., 2021-04-15T14:32:43+0000
+/project/newsman/, newsman, 1.1.0, A tool for web news scraping., 2019-11-13T10:51:10+0000
+/project/collective-googlenews/, collective.googlenews, 2.0b3, Make easy to add your Plone site to Google News., 2017-01-26T17:47:31+0000
+/project/notion-export-enhancer/, notion-export-enhancer, 0.0.5, Export and _enhance_, takes Notion's export and makes it just a bit more usable., 2021-02-15T23:21:35+0000
+/project/dayone-export/, dayone_export, 1.0.0, Export Day One journal using Jinja2 templates, 2018-05-09T03:01:02+0000
+/project/collective-polls/, collective.polls, 1.8.1, A content type, workflow, and portlet for conducting online polls, for anonymous and logged-in users., 2015-12-11T19:14:02+0000
+/project/jrnl/, jrnl, 2.8.1, Collect your thoughts and notes without leaving the command line., 2021-04-24T18:07:58+0000
+/project/collective-liveblog/, collective.liveblog, 1.2b2, A liveblogging solution for Plone., 2017-08-23T21:49:50+0000
+/project/dob/, dob, 3.0.13, journal and time tracker, supercharged for the terminal, 2020-06-19T05:51:38+0000
+/project/collective-behavior-amp/, collective.behavior.amp, 1.0a3, Support for Accelerated Mobile Pages (AMP) on Dexterity-based content types., 2017-04-13T22:35:17+0000
+/project/rstdiary/, rstdiary, 2.0, Create static HTML diary from single RST input, 2020-05-13T01:17:35+0000
+/project/tidynotes/, tidynotes, 21.1.1, A simple digital notebook using Markdown., 2021-01-25T10:00:24+0000
+/project/notable/, Notable, 0.4.2, A very simple note taking application, 2014-12-24T11:47:37+0000
+/project/etm-qt/, etm_qt, 2.3.27, event and task manager, 2014-04-13T18:16:01+0000
+/project/cali/, cali, 1.0.0, Interactive cal(1) (but the name ical was taken), 2010-12-01T21:59:49+0000
+/project/lifepim/, lifepim, 0.0.2, Personal Information Manager for Life, 2015-08-09T00:23:28+0000
+/project/etmtk/, etmtk, 3.2.39, event and task manager, 2019-10-03T22:03:40+0000
+/project/nytimesarticlev2/, nytimesarticlev2, 1.1.0, Python wrapper for the New York Times Article Search API, 2020-12-29T03:29:07+0000
+/project/notefinder/, notefinder, 0.9, Easy to use package for notes management, 2008-03-25T08:41:21+0000
+/project/ttrack/, ttrack, 1.1.0, Command-line time tracking utility, 2013-03-26T12:27:18+0000
+/project/collective-z3cform-widgets/, collective.z3cform.widgets, 1.0rc1, A widget package for Dexterity projects., 2015-07-29T22:16:55+0000
+/project/jourgen/, jourgen, 0.0.10.4, Tiny but functional journaling engine, 2020-08-23T14:54:55+0000
+/project/factiva-pipelines/, factiva-pipelines, 0.0.1, Python package with tools to help transforming Snapshots and Streams data., 2020-05-29T15:49:28+0000
+/project/collective-prettydate/, collective.prettydate, 1.2.2, Represents a date on a relative format so, instead of '01/02/2012', it would be displayed as '4 hours ago', 'yesterday' or 'last week', which is easier to read and understand for most people., 2014-11-12T18:28:12+0000
+/project/posce/, posce, 1.0.0, A note-taking toolkit for your command line., 2020-03-25T04:46:59+0000
+/project/factiva-core/, factiva-core, 0.1.4, Python package with root definitions and dictionaries, to support other functional packages., 2020-09-30T14:19:55+0000
+/project/handroll/, handroll, 3.1, A website generator for software artisans, 2016-12-26T15:41:00+0000
+/project/collective-newsticker/, collective.newsticker, 2.1b2, A horizontal, text-based display dedicated to presenting headlines on a site., 2018-04-23T19:35:49+0000
+/project/bli/, bli, 0.1.2b0, A todo-list manager with bullet-journal mechanisms, 2020-01-26T08:50:39+0000
+/project/factiva-news/, factiva-news, 0.1.3, Python package to interact with Factiva news-related APIs. Services are described in the Dow Jones Developer Platform., 2020-09-30T14:21:57+0000
+/project/apis-scraper/, apis-scraper, 1.0.1, Python web scraper for getting Polish political parties support percentage, 2020-09-30T22:35:24+0000
+/project/collective-behavior-localdiazo/, collective.behavior.localdiazo, 1.1b1, Dexterity behavior to enable a local Diazo theme., 2017-10-26T11:56:31+0000
+/project/sc-social-like/, sc.social.like, 2.13, Social networks integration for Plone., 2020-01-02T17:57:03+0000
+/project/etm-dgraham/, etm-dgraham, 4.7.7, event and task manager, 2021-04-04T17:09:17+0000
+/project/journalist/, journalist, 0.0.3, App to write journal digitally, 2018-01-03T15:16:05+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/nytimesarticleapinew/, NYTimesArticleAPInew, 1.0.0, Python wrapper for the New York Times Article Search API, 2017-11-04T02:02:17+0000
+/project/md2notion/, md2notion, 2.4.1, Utilities for importing Markdown files to Notion.so, 2021-03-30T10:14:13+0000
+/project/susan/, susan, 0.0.2, Simple CLI note taker and free-wheeling wiki, 2017-09-30T14:28:17+0000
+/project/collective-disqus/, collective.disqus, 2.2.1, Integration of Disqus comments platform API into Plone., 2018-10-09T19:29:42+0000
+/project/zeddo/, zeddo, 0.2.0, News CLI for lazy people, 2021-04-02T18:58:21+0000
+/project/dvdje/, dvdje, 20131030-2, DV Dream Journal Exporter. Exports dream journals from Dream Views in original BBCode format., 2013-10-30T06:01:49+0000
+/project/libnofi/, libnofi, 1.0-dev, Easy to use package for notes management, 2008-04-02T11:25:30+0000
+/project/collective-syndication/, collective.syndication, 1.0b3, Improved syndication for Plone sites providing Atom, iTunes, NewsML 1, RSS 1.0 and RSS 2.0 feeds., 2014-02-04T04:18:09+0000
+/project/collective-newsflash/, collective.newsflash, 1.0, News ticker inspired by the one on the BBC News website., 2012-09-24T20:14:16+0000
+/project/sc-social-like/, sc.social.like, 2.13, Social networks integration for Plone., 2020-01-02T17:57:03+0000
+/project/etm-dgraham/, etm-dgraham, 4.7.7, event and task manager, 2021-04-04T17:09:17+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/nytimesarticleapinew/, NYTimesArticleAPInew, 1.0.0, Python wrapper for the New York Times Article Search API, 2017-11-04T02:02:17+0000
+/project/journalist/, journalist, 0.0.3, App to write journal digitally, 2018-01-03T15:16:05+0000
+/project/collective-cover/, collective.cover, 2.2.3, A sane, working, editor-friendly way of creating front pages and other composite pages. Working now, for mere mortals., 2021-02-02T18:49:40+0000
+/project/sc-blog/, sc.blog, 1.1b1, A content type describing a blog., 2017-02-16T14:06:31+0000
+/project/newsreader/, newsreader, 0.3.0, Read the news from the comfort of your own terminal, 2019-04-14T15:49:29+0000
+/project/daily-notes/, daily-notes, 0.1.1, This program is targeted to who will make some notes everyday., 2008-10-06T05:56:20+0000
+/project/telegram-news-eswzy/, telegram-news-eswzy, 0.0.6, News feed by telegram bot, 2020-04-29T09:29:24+0000
+/project/collective-nitf/, collective.nitf, 2.1.1, A content type inspired on the IPTC's News Industry Text Format specification., 2021-04-15T14:32:43+0000
+/project/collective-polls/, collective.polls, 1.8.1, A content type, workflow, and portlet for conducting online polls, for anonymous and logged-in users., 2015-12-11T19:14:02+0000
+/project/newsman/, newsman, 1.1.0, A tool for web news scraping., 2019-11-13T10:51:10+0000
+/project/collective-googlenews/, collective.googlenews, 2.0b3, Make easy to add your Plone site to Google News., 2017-01-26T17:47:31+0000
+/project/notion-export-enhancer/, notion-export-enhancer, 0.0.5, Export and _enhance_, takes Notion's export and makes it just a bit more usable., 2021-02-15T23:21:35+0000
+/project/dayone-export/, dayone_export, 1.0.0, Export Day One journal using Jinja2 templates, 2018-05-09T03:01:02+0000
+/project/jrnl/, jrnl, 2.8.1, Collect your thoughts and notes without leaving the command line., 2021-04-24T18:07:58+0000
+/project/collective-liveblog/, collective.liveblog, 1.2b2, A liveblogging solution for Plone., 2017-08-23T21:49:50+0000
+/project/dob/, dob, 3.0.13, journal and time tracker, supercharged for the terminal, 2020-06-19T05:51:38+0000
+/project/tidynotes/, tidynotes, 21.1.1, A simple digital notebook using Markdown., 2021-01-25T10:00:24+0000
+/project/notable/, Notable, 0.4.2, A very simple note taking application, 2014-12-24T11:47:37+0000
+/project/etm-qt/, etm_qt, 2.3.27, event and task manager, 2014-04-13T18:16:01+0000
+/project/ttrack/, ttrack, 1.1.0, Command-line time tracking utility, 2013-03-26T12:27:18+0000
+/project/apis-scraper/, apis-scraper, 1.0.1, Python web scraper for getting Polish political parties support percentage, 2020-09-30T22:35:24+0000
+/project/factiva-core/, factiva-core, 0.1.4, Python package with root definitions and dictionaries, to support other functional packages., 2020-09-30T14:19:55+0000
+/project/etmtk/, etmtk, 3.2.39, event and task manager, 2019-10-03T22:03:40+0000
+/project/nytimesarticlev2/, nytimesarticlev2, 1.1.0, Python wrapper for the New York Times Article Search API, 2020-12-29T03:29:07+0000
+/project/notefinder/, notefinder, 0.9, Easy to use package for notes management, 2008-03-25T08:41:21+0000
+/project/collective-behavior-amp/, collective.behavior.amp, 1.0a3, Support for Accelerated Mobile Pages (AMP) on Dexterity-based content types., 2017-04-13T22:35:17+0000
+/project/rstdiary/, rstdiary, 2.0, Create static HTML diary from single RST input, 2020-05-13T01:17:35+0000
+/project/collective-z3cform-widgets/, collective.z3cform.widgets, 1.0rc1, A widget package for Dexterity projects., 2015-07-29T22:16:55+0000
+/project/cali/, cali, 1.0.0, Interactive cal(1) (but the name ical was taken), 2010-12-01T21:59:49+0000
+/project/jourgen/, jourgen, 0.0.10.4, Tiny but functional journaling engine, 2020-08-23T14:54:55+0000
+/project/factiva-pipelines/, factiva-pipelines, 0.0.1, Python package with tools to help transforming Snapshots and Streams data., 2020-05-29T15:49:28+0000
+/project/collective-prettydate/, collective.prettydate, 1.2.2, Represents a date on a relative format so, instead of '01/02/2012', it would be displayed as '4 hours ago', 'yesterday' or 'last week', which is easier to read and understand for most people., 2014-11-12T18:28:12+0000
+/project/lifepim/, lifepim, 0.0.2, Personal Information Manager for Life, 2015-08-09T00:23:28+0000
+/project/posce/, posce, 1.0.0, A note-taking toolkit for your command line., 2020-03-25T04:46:59+0000
+/project/handroll/, handroll, 3.1, A website generator for software artisans, 2016-12-26T15:41:00+0000
+/project/collective-newsticker/, collective.newsticker, 2.1b2, A horizontal, text-based display dedicated to presenting headlines on a site., 2018-04-23T19:35:49+0000
+/project/bli/, bli, 0.1.2b0, A todo-list manager with bullet-journal mechanisms, 2020-01-26T08:50:39+0000
+/project/factiva-news/, factiva-news, 0.1.3, Python package to interact with Factiva news-related APIs. Services are described in the Dow Jones Developer Platform., 2020-09-30T14:21:57+0000
+/project/collective-behavior-localdiazo/, collective.behavior.localdiazo, 1.1b1, Dexterity behavior to enable a local Diazo theme., 2017-10-26T11:56:31+0000
+/project/didit/, didit, 0.3.0dev, Lightweight, commandline tool to remember what I did last week, 2013-04-12T19:14:00+0000
+/project/collective-disqus/, collective.disqus, 2.2.1, Integration of Disqus comments platform API into Plone., 2018-10-09T19:29:42+0000
+/project/zeddo/, zeddo, 0.2.0, News CLI for lazy people, 2021-04-02T18:58:21+0000
+/project/dvdje/, dvdje, 20131030-2, DV Dream Journal Exporter. Exports dream journals from Dream Views in original BBCode format., 2013-10-30T06:01:49+0000
+/project/sc-microsite/, sc.microsite, 1.1b1, ('A very basic Dexterity-based container to be used as a microsite.',), 2017-10-25T18:31:08+0000
+/project/collective-cover/, collective.cover, 2.2.3, A sane, working, editor-friendly way of creating front pages and other composite pages. Working now, for mere mortals., 2021-02-02T18:49:40+0000
+/project/sc-blog/, sc.blog, 1.1b1, A content type describing a blog., 2017-02-16T14:06:31+0000
+/project/susan/, susan, 0.0.2, Simple CLI note taker and free-wheeling wiki, 2017-09-30T14:28:17+0000
+/project/collective-syndication/, collective.syndication, 1.0b3, Improved syndication for Plone sites providing Atom, iTunes, NewsML 1, RSS 1.0 and RSS 2.0 feeds., 2014-02-04T04:18:09+0000
+/project/collective-newsflash/, collective.newsflash, 1.0, News ticker inspired by the one on the BBC News website., 2012-09-24T20:14:16+0000
+/project/md2notion/, md2notion, 2.4.1, Utilities for importing Markdown files to Notion.so, 2021-03-30T10:14:13+0000
+/project/collective-disqus/, collective.disqus, 2.2.1, Integration of Disqus comments platform API into Plone., 2018-10-09T19:29:42+0000
+/project/zeddo/, zeddo, 0.2.0, News CLI for lazy people, 2021-04-02T18:58:21+0000
+/project/dvdje/, dvdje, 20131030-2, DV Dream Journal Exporter. Exports dream journals from Dream Views in original BBCode format., 2013-10-30T06:01:49+0000
+/project/sc-microsite/, sc.microsite, 1.1b1, ('A very basic Dexterity-based container to be used as a microsite.',), 2017-10-25T18:31:08+0000
+/project/rdial/, rdial, 1.2.1, Minimal time tracking for maximal benefit, 2019-08-03T03:33:36+0000
+/project/telegram-news/, telegram-news, 0.5.0, Python package for automatically fetching and pushing news by Telegram., 2020-12-02T13:31:26+0000
+/project/libnofi/, libnofi, 1.0-dev, Easy to use package for notes management, 2008-04-02T11:25:30+0000
+/project/didit/, didit, 0.3.0dev, Lightweight, commandline tool to remember what I did last week, 2013-04-12T19:14:00+0000
+/project/united-states-congress-python-api/, united-states-congress-python-api, 0.0.2, , 2020-08-13T19:07:09+0000

@@ -1,0 +1,78 @@
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/janus-cloud/, janus-cloud, 0.5.0, Janus-cloud is a cluster solution for Janus WebRTC server, by API proxy approach, 2021-02-16T07:34:34+0000
+/project/flowdock-api-wrapper/, flowdock-api-wrapper, 1.0, Flowdock API Wrapper, 2019-03-30T12:58:28+0000
+/project/nekbot-protocols-telegram/, nekbot.protocols.telegram, 0.1.0.16, Telegram Protocol for Nekbot, a modular multiprotocol bot., 2015-05-29T19:26:47+0000
+/project/channelstream/, channelstream, 0.7.1, Websocket server supporting channels/users communication, 2020-02-22T18:10:22+0000
+/project/gg-scraper/, gg_scraper, 0.10.0, Download a Google Group to MBOX, 2014-12-28T20:17:52+0000
+/project/nekbot-protocols-xmpp/, nekbot.protocols.xmpp, 0.1.0.7, Jabber/XMPP Protocol for Nekbot, a modular multiprotocol bot., 2015-06-19T08:45:21+0000
+/project/docker-games/, docker-games, 1.0.0a5, Easily create game servers using Docker and Python., 2021-03-27T18:08:56+0000
+/project/indico-sixpay/, indico_sixpay, 2.0.2, Indico EPayment Plugin for SixPay services, 2018-05-23T13:43:57+0000
+/project/wafer-debconf/, wafer-debconf, 0.3.14, Wafer extensions used by DebConf, 2020-09-07T18:51:05+0000
+/project/nekbot/, nekbot, 0.1.2.34, NekBot, a modular multiprotocol bot., 2015-05-29T19:26:02+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/camus-chat/, camus-chat, 0.3.1, Peer-to-peer video chat using WebRTC, 2021-04-20T13:22:30+0000
+/project/skyroom/, skyroom, 1.0.3, Skyroom Python library, 2020-12-01T08:10:54+0000
+/project/bbbmon/, bbbmon, 0.1.32, A small CLI utility to monitor bbb usage, 2020-06-10T15:01:27+0000
+/project/opentok-python-sdk/, opentok-python-sdk, 0.91.2, A python wrapper for the OpenTok video chat APIs., 2013-07-18T23:38:26+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/matrix-client-harmonyqt/, matrix-client-harmonyqt, 0.4.2.dev5, Client-Server SDK for Matrix - development fork, 2019-01-11T06:37:08+0000
+/project/chatwolf/, chatwolf, 0.1.4, An unofficial game, to play Werewolf on Skype, 2020-05-20T23:25:57+0000
+/project/ciscocucmapi/, ciscocucmapi, 0.0.2, Python Wrappers for Cisco CUCM SOAP APIs, 2019-12-31T09:20:57+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/sine/, Sine, 0.3.0, Divmod Sine is a standards-based voice-over-IP application server,        built as an offering for the Mantissa application server platform., 2009-11-29T19:14:08+0000
+/project/nekbot-protocols-irc/, nekbot.protocols.irc, 0.1.0.16, IRC Protocol for Nekbot, a modular multiprotocol bot., 2015-05-23T16:26:17+0000
+/project/lyricscreen/, lyricscreen, 0.6.9, A lyrics management and display web app and server., 2015-08-18T05:46:00+0000
+/project/err/, err, 3.2.0, Errbot is a chatbot designed to be simple to extend with plugins written in Python., 2015-11-14T00:24:32+0000
+/project/ringcentral-async-client/, ringcentral-async-client, 1.0.3, Asynchronous client for the RingCentral Platform, based on Tornado and generated via Python OpenAPI Parser, 2020-10-15T15:48:56+0000
+/project/pyopenvidu/, pyopenvidu, 0.2.0, Python interface to the OpenVidu WebRTC videoconference library., 2020-12-30T03:46:35+0000
+/project/discover-overlay/, discover-overlay, 0.3.3, Voice chat overlay, 2020-10-23T12:14:34+0000
+/project/bigbluebutton2/, bigbluebutton2, 0.1a9, Sophisticated Python client library for BigBlueButton™ with Django integration, 2020-10-12T12:55:05+0000
+/project/twerp/, twerp, 0.0.5, Twilio command-line application for sending SMS text messages and making voice calls., 2012-04-04T22:08:10+0000
+/project/kepi/, kepi, 0.7, ActivityPub and Mastodon-alike social media, 2020-11-25T20:41:10+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/robo/, robo, 0.5.6, Dead simple bot framework., 2018-05-26T16:24:13+0000
+/project/pysenteishon/, pysenteishon, 1.2.0, Control your presentations swiping your touchscreen!, 2017-06-11T22:19:44+0000
+/project/matrix-client/, matrix-client, 0.3.2, Client-Server SDK for Matrix, 2018-06-22T02:23:49+0000
+/project/virtualenvwrapper-nekbot/, virtualenvwrapper.nekbot, 0.1.0.11, Virtualenvwrapper installer for NekBot project, a multiprotocol bot., 2015-04-29T21:03:29+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/indico-plugin-custom-footer/, indico-plugin-custom-footer, 2.0.1, Indico Footer Customisation Plugin, 2018-05-30T10:02:56+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/janus-cloud/, janus-cloud, 0.5.0, Janus-cloud is a cluster solution for Janus WebRTC server, by API proxy approach, 2021-02-16T07:34:34+0000
+/project/flowdock-api-wrapper/, flowdock-api-wrapper, 1.0, Flowdock API Wrapper, 2019-03-30T12:58:28+0000
+/project/channelstream/, channelstream, 0.7.1, Websocket server supporting channels/users communication, 2020-02-22T18:10:22+0000
+/project/gg-scraper/, gg_scraper, 0.10.0, Download a Google Group to MBOX, 2014-12-28T20:17:52+0000
+/project/nekbot-protocols-xmpp/, nekbot.protocols.xmpp, 0.1.0.7, Jabber/XMPP Protocol for Nekbot, a modular multiprotocol bot., 2015-06-19T08:45:21+0000
+/project/docker-games/, docker-games, 1.0.0a5, Easily create game servers using Docker and Python., 2021-03-27T18:08:56+0000
+/project/indico-sixpay/, indico_sixpay, 2.0.2, Indico EPayment Plugin for SixPay services, 2018-05-23T13:43:57+0000
+/project/nekbot-protocols-telegram/, nekbot.protocols.telegram, 0.1.0.16, Telegram Protocol for Nekbot, a modular multiprotocol bot., 2015-05-29T19:26:47+0000
+/project/chatwolf/, chatwolf, 0.1.4, An unofficial game, to play Werewolf on Skype, 2020-05-20T23:25:57+0000
+/project/ciscocucmapi/, ciscocucmapi, 0.0.2, Python Wrappers for Cisco CUCM SOAP APIs, 2019-12-31T09:20:57+0000
+/project/wafer-debconf/, wafer-debconf, 0.3.14, Wafer extensions used by DebConf, 2020-09-07T18:51:05+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/nekbot/, nekbot, 0.1.2.34, NekBot, a modular multiprotocol bot., 2015-05-29T19:26:02+0000
+/project/camus-chat/, camus-chat, 0.3.1, Peer-to-peer video chat using WebRTC, 2021-04-20T13:22:30+0000
+/project/sine/, Sine, 0.3.0, Divmod Sine is a standards-based voice-over-IP application server,        built as an offering for the Mantissa application server platform., 2009-11-29T19:14:08+0000
+/project/bbbmon/, bbbmon, 0.1.32, A small CLI utility to monitor bbb usage, 2020-06-10T15:01:27+0000
+/project/opentok-python-sdk/, opentok-python-sdk, 0.91.2, A python wrapper for the OpenTok video chat APIs., 2013-07-18T23:38:26+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/matrix-client-harmonyqt/, matrix-client-harmonyqt, 0.4.2.dev5, Client-Server SDK for Matrix - development fork, 2019-01-11T06:37:08+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/nekbot-protocols-irc/, nekbot.protocols.irc, 0.1.0.16, IRC Protocol for Nekbot, a modular multiprotocol bot., 2015-05-23T16:26:17+0000
+/project/skyroom/, skyroom, 1.0.3, Skyroom Python library, 2020-12-01T08:10:54+0000
+/project/lyricscreen/, lyricscreen, 0.6.9, A lyrics management and display web app and server., 2015-08-18T05:46:00+0000
+/project/err/, err, 3.2.0, Errbot is a chatbot designed to be simple to extend with plugins written in Python., 2015-11-14T00:24:32+0000
+/project/ringcentral-async-client/, ringcentral-async-client, 1.0.3, Asynchronous client for the RingCentral Platform, based on Tornado and generated via Python OpenAPI Parser, 2020-10-15T15:48:56+0000
+/project/pyopenvidu/, pyopenvidu, 0.2.0, Python interface to the OpenVidu WebRTC videoconference library., 2020-12-30T03:46:35+0000
+/project/discover-overlay/, discover-overlay, 0.3.3, Voice chat overlay, 2020-10-23T12:14:34+0000
+/project/bigbluebutton2/, bigbluebutton2, 0.1a9, Sophisticated Python client library for BigBlueButton™ with Django integration, 2020-10-12T12:55:05+0000
+/project/twerp/, twerp, 0.0.5, Twilio command-line application for sending SMS text messages and making voice calls., 2012-04-04T22:08:10+0000
+/project/kepi/, kepi, 0.7, ActivityPub and Mastodon-alike social media, 2020-11-25T20:41:10+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/robo/, robo, 0.5.6, Dead simple bot framework., 2018-05-26T16:24:13+0000
+/project/pysenteishon/, pysenteishon, 1.2.0, Control your presentations swiping your touchscreen!, 2017-06-11T22:19:44+0000
+/project/matrix-client/, matrix-client, 0.3.2, Client-Server SDK for Matrix, 2018-06-22T02:23:49+0000
+/project/virtualenvwrapper-nekbot/, virtualenvwrapper.nekbot, 0.1.0.11, Virtualenvwrapper installer for NekBot project, a multiprotocol bot., 2015-04-29T21:03:29+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/indico-plugin-custom-footer/, indico-plugin-custom-footer, 2.0.1, Indico Footer Customisation Plugin, 2018-05-30T10:02:56+0000

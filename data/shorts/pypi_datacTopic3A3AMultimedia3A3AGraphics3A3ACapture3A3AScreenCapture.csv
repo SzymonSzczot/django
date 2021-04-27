@@ -1,0 +1,58 @@
+/project/mss/, mss, 6.1.0, An ultra fast cross-platform multiple screenshots module in pure python using ctypes., 2020-10-31T17:19:10+0000
+/project/d3dshot/, d3dshot, 0.1.5, Extremely Fast and Robust Screen Capture on Windows with the Desktop Duplication API, 2020-06-12T00:15:54+0000
+/project/pubgis/, PUBGIS, 0.2.12, PUBG Location Tracker, 2017-10-23T06:58:09+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/canvasvg/, canvasvg, 1.0.5, Save Tkinter Canvas in SVG file, 2017-02-16T10:01:38+0000
+/project/pillow-scripts/, pillow-scripts, 5.0.0, Python Imaging Library (Fork) Scripts, 2018-01-01T21:24:39+0000
+/project/normcap/, normcap, 0.1.11, OCR-powered screen-capture tool to capture information instead of images, 2021-04-04T09:07:09+0000
+/project/qscreencast/, QScreenCast, 0.1.32, A no-nonsense screen-caster behind a QToolButton., 2021-04-09T07:53:21+0000
+/project/twitscreen/, twitscreen, 0.1, A simple screenshot utility that can crop images and upload them to Twitpic, 2009-07-01T07:05:33+0000
+/project/pillow/, Pillow, 8.2.0, Python Imaging Library (Fork), 2021-04-01T20:53:21+0000
+/project/wscreenshot/, wscreenshot, 0.0.3, This package which helps you to take screenshot of specific running window, 2020-09-22T03:52:08+0000
+/project/grab-screen/, grab-screen, 0.0.13, Take screenshots and upload anywhere, 2017-09-05T23:52:37+0000
+/project/ambibulb/, ambibulb, 0.0.51, Python utility controls the color of RC lights based on the dominant color of an image on your screen., 2021-02-19T11:52:28+0000
+/project/webkit2png/, webkit2png, 0.8.2, Takes snapshot of webpages using Webkit and Qt4, 2010-05-12T20:47:53+0000
+/project/pyttygif/, pyttygif, 0.2.4, ttyrec to GIF converter, 2019-09-02T17:37:06+0000
+/project/grabber/, grabber, 0.1.0, grabber: periodically grabs a picture of your screen, 2015-04-22T06:57:54+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/blink2png/, blink2png, 0.9.3, To take snapshot of web pages using Blink Engine and Qt5, 2020-04-03T11:37:41+0000
+/project/pylivestream/, pylivestream, 1.11.3, Livestream using FFmpeg to YouTube Live, Periscope, Facebook Live, Twitch, and many more, 2020-11-15T13:54:01+0000
+/project/omelette/, Omelette, 1.1.6, Python Imaging Library, 2010-10-18T20:14:21+0000
+/project/spyder-screencast/, spyder-screencast, 0.0.12, screencaster for spyder 5., 2021-04-17T09:12:26+0000
+/project/kazam/, kazam, 1.5.5, A screencasting program created with design in mind., 2019-08-27T07:04:29+0000
+/project/castro/, castro, 1.0.6, Screencasting library, 2011-04-12T21:06:32+0000
+/project/desktopmagic/, Desktopmagic, 14.3.11, Robust multi-monitor screenshot grabber (Windows-only right now), 2014-03-11T02:10:18+0000
+/project/pillow-simd/, Pillow-SIMD, 7.0.0.post3, Python Imaging Library (Fork), 2020-01-26T14:30:27+0000
+/project/needle/, needle, 0.5.0, Automated testing for your CSS., 2017-04-02T23:28:24+0000
+/project/m3-pil/, m3-PIL, 1.1.7, Python Imaging Library, 2014-09-23T16:40:43+0000
+/project/blink2png-bridge/, blink2png-bridge, 0.1.4, To via blink2png by Python directly., 2020-04-04T08:46:14+0000
+/project/libzbar-ctypes/, libzbar-ctypes, 0.1.2, Python ctypes libzbar wrapper, 2017-05-19T11:38:48+0000
+/project/mss/, mss, 6.1.0, An ultra fast cross-platform multiple screenshots module in pure python using ctypes., 2020-10-31T17:19:10+0000
+/project/normcap/, normcap, 0.1.11, OCR-powered screen-capture tool to capture information instead of images, 2021-04-04T09:07:09+0000
+/project/qscreencast/, QScreenCast, 0.1.34, A no-nonsense screen-caster behind a QToolButton., 2021-04-25T08:52:26+0000
+/project/d3dshot/, d3dshot, 0.1.5, Extremely Fast and Robust Screen Capture on Windows with the Desktop Duplication API, 2020-06-12T00:15:54+0000
+/project/pubgis/, PUBGIS, 0.2.12, PUBG Location Tracker, 2017-10-23T06:58:09+0000
+/project/canvasvg/, canvasvg, 1.0.5, Save Tkinter Canvas in SVG file, 2017-02-16T10:01:38+0000
+/project/twitscreen/, twitscreen, 0.1, A simple screenshot utility that can crop images and upload them to Twitpic, 2009-07-01T07:05:33+0000
+/project/pillow/, Pillow, 8.2.0, Python Imaging Library (Fork), 2021-04-01T20:53:21+0000
+/project/pyttygif/, pyttygif, 0.2.4, ttyrec to GIF converter, 2019-09-02T17:37:06+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/wscreenshot/, wscreenshot, 0.0.3, This package which helps you to take screenshot of specific running window, 2020-09-22T03:52:08+0000
+/project/grab-screen/, grab-screen, 0.0.13, Take screenshots and upload anywhere, 2017-09-05T23:52:37+0000
+/project/ambibulb/, ambibulb, 0.0.51, Python utility controls the color of RC lights based on the dominant color of an image on your screen., 2021-02-19T11:52:28+0000
+/project/pillow-scripts/, pillow-scripts, 5.0.0, Python Imaging Library (Fork) Scripts, 2018-01-01T21:24:39+0000
+/project/webkit2png/, webkit2png, 0.8.2, Takes snapshot of webpages using Webkit and Qt4, 2010-05-12T20:47:53+0000
+/project/grabber/, grabber, 0.1.0, grabber: periodically grabs a picture of your screen, 2015-04-22T06:57:54+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/blink2png/, blink2png, 0.9.3, To take snapshot of web pages using Blink Engine and Qt5, 2020-04-03T11:37:41+0000
+/project/pylivestream/, pylivestream, 1.11.3, Livestream using FFmpeg to YouTube Live, Periscope, Facebook Live, Twitch, and many more, 2020-11-15T13:54:01+0000
+/project/omelette/, Omelette, 1.1.6, Python Imaging Library, 2010-10-18T20:14:21+0000
+/project/spyder-screencast/, spyder-screencast, 0.0.12, screencaster for spyder 5., 2021-04-17T09:12:26+0000
+/project/kazam/, kazam, 1.5.5, A screencasting program created with design in mind., 2019-08-27T07:04:29+0000
+/project/castro/, castro, 1.0.6, Screencasting library, 2011-04-12T21:06:32+0000
+/project/desktopmagic/, Desktopmagic, 14.3.11, Robust multi-monitor screenshot grabber (Windows-only right now), 2014-03-11T02:10:18+0000
+/project/pillow-simd/, Pillow-SIMD, 7.0.0.post3, Python Imaging Library (Fork), 2020-01-26T14:30:27+0000
+/project/needle/, needle, 0.5.0, Automated testing for your CSS., 2017-04-02T23:28:24+0000
+/project/m3-pil/, m3-PIL, 1.1.7, Python Imaging Library, 2014-09-23T16:40:43+0000
+/project/blink2png-bridge/, blink2png-bridge, 0.1.4, To via blink2png by Python directly., 2020-04-04T08:46:14+0000
+/project/libzbar-ctypes/, libzbar-ctypes, 0.1.2, Python ctypes libzbar wrapper, 2017-05-19T11:38:48+0000

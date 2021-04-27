@@ -1,0 +1,188 @@
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/elasticsearch-bundle/, elasticsearch-bundle, 1.1, Elasticsearch support for applauncher, 2019-04-09T09:27:00+0000
+/project/kt-cambio/, kt-cambio, 0.2.1, Conversor de moedas, 2021-04-20T09:17:46+0000
+/project/aistac-foundation/, aistac-foundation, 2.12.7, Augmented Intent Single Task Adaptive Components, 2021-04-02T12:44:01+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/randomstate/, randomstate, 1.14.0, Next-gen RandomState supporting multiple PRNGs, 2018-03-21T08:34:03+0000
+/project/protocol-buffers-stream/, protocol-buffers-stream, 1.0, Send and receive protocol buffers objects easily, 2016-12-31T17:24:33+0000
+/project/motor-bundle/, motor-bundle, 1.1, Motor support for applauncher, 2020-12-30T16:05:58+0000
+/project/kt-taxa/, kt-taxa, 0.4.0, Calcula a taxa da venda coberta, 2021-04-17T19:30:05+0000
+/project/thymus-timeseries/, thymus-timeseries, 0.2.5, An intuitive library tracking dates and timeseries in common using NumPy arrays., 2021-01-30T19:58:34+0000
+/project/distributed-lock/, distributed-lock, 1.0, Distributed lock, 2019-12-11T15:26:09+0000
+/project/eye-keyboard/, eye-keyboard, 0.0.1, Extending webcam-eyetracker for use a keyboard with pupils, 2015-11-30T00:51:52+0000
+/project/kt-tr/, kt-tr, 0.3.0, Calcula as regioes de um trading range, 2021-03-29T13:33:28+0000
+/project/clickhouse-bundle/, clickhouse-bundle, 1.0, Clickhouse support for applauncher, 2020-12-23T17:42:06+0000
+/project/pysep/, pySEP, 1.0.11, Pacote Open Source desenvolvido no Brasil para modelar e simular Sistemas Elétricos de Potência. Open Source Package developed in Brazil to model and simulate Electric Power Systems, 2020-06-19T03:14:59+0000
+/project/bazaar/, bazaar, 1.0.1, Agnostic file storage, 2021-01-11T13:50:18+0000
+/project/file-api-bundle/, file-api-bundle, 1.0, Applauncher integration with the client of the Bmat TV/AV file api, 2020-04-20T16:56:47+0000
+/project/user-manager/, user-manager, 2.2, Minimal user manager interface, 2019-12-16T19:21:08+0000
+/project/kt-pullback/, kt-pullback, 0.2.1, , 2021-04-09T11:42:28+0000
+/project/influxdb-bundle/, influxdb-bundle, 1.0, Influxdb support for applauncher, 2020-05-01T15:26:07+0000
+/project/redis-bundle/, redis-bundle, 0.2, Redis support for applauncher, 2018-07-12T09:52:45+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/file-api/, file-api, 1.0, Client for the Bmat TV/AV file api, 2020-04-20T16:58:15+0000
+/project/suprnova/, suprnova, 0.9, Suprnova client, 2017-12-04T08:14:05+0000
+/project/threadplotter/, threadPlotter, 0.0.2b2, a toolkit for designing plotter-compatible embroidery patterns, 2020-06-28T17:14:14+0000
+/project/flask-applauncher-bundle/, flask-applauncher-bundle, 1.14, flask support for applauncher, 2018-06-06T11:22:12+0000
+/project/async-to-sync/, async-to-sync, 0.2.2, Convert async coroutines to normal python functions, 2021-01-07T16:02:52+0000
+/project/crm114/, crm114, 2.0.2, Python wrapper classes for the CRM-114 Discriminator (http://crm114.sourceforge.net/), 2014-01-30T16:35:47+0000
+/project/streamtools-ultimate-testing/, streamtools-ultimate-testing, 0.9.0.5, A vastly improved replacement for print(), input() and file handling for broad area of use cases - TESTING RELEASE., 2020-12-15T19:50:37+0000
+/project/tuhinga/, tuhinga, 0.1.1, Minimalistic markup language that translates to XML/HTML, 2015-05-28T21:04:07+0000
+/project/kt-line/, kt-line, 0.3.1, Ferramenta de linha de comando para calcular linha de tendencia e linha de canal, 2021-04-08T22:37:57+0000
+/project/accessible-output/, accessible_output, 0.7.5, Library to provide speech and braille output to a variety of different screen readers and other accessibility solutions., 2011-06-27T05:10:04+0000
+/project/sensorflow/, sensorflow, 2.4, Python driver for sensorflow devices, 2019-01-02T00:22:33+0000
+/project/lapis-sim/, lapis-sim, 0.4.2, Lapis is an adaptable, performant, and interactive scheduling (Lapis) simulator, 2020-12-14T17:00:26+0000
+/project/skcmd/, skcmd, 0.0.7, Command line interface to Skype, 2014-01-10T13:56:57+0000
+/project/prefa/, prefa, 2.3.4, Presentation tool for Regular Expressions and Finite Automatas, 2019-01-17T03:28:30+0000
+/project/secure-authenticator/, secure-authenticator, 1.6, Secure JWT Authenticator, 2020-03-21T19:54:04+0000
+/project/dragontide/, dragontide, 1.0.0, CCR extension to Dragonfly, 2021-03-28T04:25:44+0000
+/project/adaptivepy/, adaptivepy, 0.1.2, Design patterns for easy addition of adaptive behavior in an extensible and testable way., 2016-09-30T19:13:04+0000
+/project/ck/, ck, 1.55.11, Collective Knowledge - a lightweight knowledge manager to organize, cross-link, share and reuse artifacts and workflows, 2021-04-23T17:16:18+0000
+/project/streamtools-ultimate/, streamtools-ultimate, 0.9.0, A vastly improved replacement for print(), input() and file handling for broad area of use cases., 2020-12-12T15:44:30+0000
+/project/plover/, plover, 3.1.1, Open Source Stenography Software, 2017-03-07T20:35:01+0000
+/project/hanhanai/, HanhanAI, 2.0.2, Universal game AI system for game developer, 2019-09-10T08:16:44+0000
+/project/padasip/, padasip, 1.1.1, Python Adaptive Signal Processing, 2017-08-06T19:23:42+0000
+/project/astviewer/, astviewer, 1.1.1, GUI for viewing a Python Abstract Syntax Tree., 2016-11-05T16:30:27+0000
+/project/email-bundle/, email-bundle, 1.0, email support for applauncher, 2018-04-11T22:04:56+0000
+/project/sharkradar/, sharkradar, 1.2.0, Lightweight micro service registry and discovery tool, compatible with any HTTP based microservice, 2019-08-25T13:56:50+0000
+/project/obscure-bundle/, obscure-bundle, 0.9, Integration of obscure api into applauncher, 2017-12-12T12:58:39+0000
+/project/tiny-gnupg/, tiny-gnupg, 0.6.1, tiny_gnupg - A small-as-possible solution for handling GnuPG ed25519 ECC keys., 2020-01-18T23:31:23+0000
+/project/scrapium/, scrapium, 0.9, Scraping tools, 2017-12-01T13:03:28+0000
+/project/bp-accessible-output2/, bp-accessible-output2, 0.5, Speech and Braille output for python apps, 2021-01-19T21:18:10+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/slack-bundle/, slack-bundle, 1.1, Slack support for applauncher, 2020-02-05T13:13:45+0000
+/project/apiai-assistant/, apiai_assistant, 0.1.2, Create API.ai agents in a heartbeat, 2017-10-30T11:33:41+0000
+/project/iscc-service/, iscc-service, 0.2.3, ISCC Web Service API, 2020-06-12T18:57:19+0000
+/project/remote-event-bundle/, remote-event-bundle, 1.6, Remote events support for applauncher, 2020-12-02T16:22:45+0000
+/project/yabt/, YABT, 2.0.2, YABT: A context sensitive string manipulation tool, 2009-08-04T14:19:18+0000
+/project/sbi/, sbi, 0.15.1, Simulation-based inference., 2021-03-18T09:05:00+0000
+/project/crypto-com-client/, crypto-com-client, 1.0, Crypto.com websocket api client, 2021-03-10T00:28:28+0000
+/project/accessible-output2/, accessible-output2, 0.16, Library to provide speech and braille output to a variety of different screen readers and other accessibility solutions., 2019-06-26T02:11:55+0000
+/project/nextgentermux/, nextgentermux, 1.3, An one tap termux setup tool, 2021-01-29T13:02:38+0000
+/project/domaintypesystem/, domaintypesystem, 0.1.9, Decentralized type system, 2019-08-18T22:28:03+0000
+/project/hpitclient/, hpitclient, 0.36, Python Client Libraries for HPIT., 2014-11-13T15:37:57+0000
+/project/amqp-bundle/, amqp-bundle, 1.1, Remote events through amqp, 2020-09-16T09:50:54+0000
+/project/kt-osc/, kt-osc, 0.2.1, Calcula oscilacao de preco, 2021-04-08T23:03:44+0000
+/project/fluent-bundle/, fluent-bundle, 2.0, fluentd support for applauncher, 2019-06-19T11:13:27+0000
+/project/speechlight/, Speechlight, 1.3, A lightweight Python library providing a common interface to multiple TTS and screen reader APIs., 2021-02-26T08:15:49+0000
+/project/objbrowser/, objbrowser, 1.2.1, GUI for Python object introspection., 2016-11-05T11:06:16+0000
+/project/change-log/, change-log, 0.2.0, Change and Manage Package Information, 2019-11-27T14:51:15+0000
+/project/obscure-api/, obscure-api, 0.9, Library to make obscured apis, 2017-12-12T12:44:46+0000
+/project/apscheduler-bundle/, apscheduler-bundle, 1.1.2, APScheduler support for applauncher, 2018-06-11T11:12:58+0000
+/project/mapped-config/, mapped-config, 2.36, Mapped config loader for python for secure, easy and modular configuration management, 2019-02-01T16:29:35+0000
+/project/cobald/, cobald, 0.12.1, COBalD - the Opportunistic Balancing Daemon, 2020-04-15T08:48:29+0000
+/project/dragonfluid/, dragonfluid, 0.9.0a7, A dragonfly extension to allow voice commands to be spoken together without pausing. Supports Dragon NaturallySpeaking and Windows Speech Recognition., 2015-09-25T07:39:46+0000
+/project/mtcli/, mtcli, 0.11.0, Converte gráfico do MetaTrader 5 para texto, 2021-04-06T08:35:04+0000
+/project/celery-bundle/, celery-bundle, 1.26, Celery support for applauncher, 2020-12-22T18:39:12+0000
+/project/pyknos/, pyknos, 0.14.1, Conditional density estimation., 2021-03-31T08:57:04+0000
+/project/sqlalchemy-bundle/, sqlalchemy-bundle, 1.03, SqlAlchemy support for applauncher, 2017-10-03T16:42:32+0000
+/project/rice/, rice, 0.4, Non intrusive serialization library, 2018-10-11T16:47:00+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/mongoengine-history/, mongoengine-history, 1.1, Track the documents changes, 2020-02-09T02:36:17+0000
+/project/pyneurgen/, pyneurgen, 0.3.1, Python Neural Genetic Hybrids, 2012-05-19T17:33:11+0000
+/project/discovery-transition-ds/, discovery-transition-ds, 3.2.49, Advanced data cleaning, data wrangling and feature extraction tools for ML engineers, 2021-04-22T21:32:37+0000
+/project/randomgen/, randomgen, 1.20.1, Random generator supporting multiple PRNGs, 2021-04-08T18:02:15+0000
+/project/kt-otm/, kt-otm, 0.2.0, Calcula os strikes fora do dinheiro, 2021-03-26T15:44:05+0000
+/project/pyscanprev/, pyscanprev, 0.1.0, Scan and reduce/fold as generator expressions and list/set comprehensions that can access the previous iteration output., 2016-10-23T13:04:34+0000
+/project/mqtt-bundle/, mqtt-bundle, 2.5, mqtt support for applauncher, 2019-10-14T13:59:55+0000
+/project/export-lib/, export-lib, 0.2, Export data tool, 2019-05-24T13:53:53+0000
+/project/mongoengine-bundle/, mongoengine-bundle, 1.5, mongoengine support for applauncher, 2020-05-14T09:55:27+0000
+/project/sasha/, sasha, 0.1.1, UNKNOWN, 2014-10-18T16:26:02+0000
+/project/architecture-tools-rafaelgb/, architecture-tools-RafaelGB, 0.0.11, Tools for an architecture skeleton, 2021-04-22T17:26:27+0000
+/project/bazaar-bundle/, bazaar-bundle, 0.1, Bazaar support for applauncher, 2018-07-12T10:00:19+0000
+/project/kt-theta/, kt-theta, 0.1.4, Calcula o theta de uma opcao, 2021-04-13T05:42:27+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/elasticsearch-bundle/, elasticsearch-bundle, 1.1, Elasticsearch support for applauncher, 2019-04-09T09:27:00+0000
+/project/kt-cambio/, kt-cambio, 0.2.1, Conversor de moedas, 2021-04-20T09:17:46+0000
+/project/aistac-foundation/, aistac-foundation, 2.12.7, Augmented Intent Single Task Adaptive Components, 2021-04-02T12:44:01+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/randomstate/, randomstate, 1.14.0, Next-gen RandomState supporting multiple PRNGs, 2018-03-21T08:34:03+0000
+/project/kt-taxa/, kt-taxa, 0.4.0, Calcula a taxa da venda coberta, 2021-04-17T19:30:05+0000
+/project/protocol-buffers-stream/, protocol-buffers-stream, 1.0, Send and receive protocol buffers objects easily, 2016-12-31T17:24:33+0000
+/project/motor-bundle/, motor-bundle, 1.1, Motor support for applauncher, 2020-12-30T16:05:58+0000
+/project/thymus-timeseries/, thymus-timeseries, 0.2.5, An intuitive library tracking dates and timeseries in common using NumPy arrays., 2021-01-30T19:58:34+0000
+/project/distributed-lock/, distributed-lock, 1.0, Distributed lock, 2019-12-11T15:26:09+0000
+/project/eye-keyboard/, eye-keyboard, 0.0.1, Extending webcam-eyetracker for use a keyboard with pupils, 2015-11-30T00:51:52+0000
+/project/kt-tr/, kt-tr, 0.3.0, Calcula as regioes de um trading range, 2021-03-29T13:33:28+0000
+/project/prefa/, prefa, 2.3.4, Presentation tool for Regular Expressions and Finite Automatas, 2019-01-17T03:28:30+0000
+/project/dragontide/, dragontide, 1.0.0, CCR extension to Dragonfly, 2021-03-28T04:25:44+0000
+/project/adaptivepy/, adaptivepy, 0.1.2, Design patterns for easy addition of adaptive behavior in an extensible and testable way., 2016-09-30T19:13:04+0000
+/project/bazaar/, bazaar, 1.0.1, Agnostic file storage, 2021-01-11T13:50:18+0000
+/project/file-api-bundle/, file-api-bundle, 1.0, Applauncher integration with the client of the Bmat TV/AV file api, 2020-04-20T16:56:47+0000
+/project/streamtools-ultimate/, streamtools-ultimate, 0.9.0, A vastly improved replacement for print(), input() and file handling for broad area of use cases., 2020-12-12T15:44:30+0000
+/project/plover/, plover, 3.1.1, Open Source Stenography Software, 2017-03-07T20:35:01+0000
+/project/user-manager/, user-manager, 2.2, Minimal user manager interface, 2019-12-16T19:21:08+0000
+/project/kt-pullback/, kt-pullback, 0.2.1, , 2021-04-09T11:42:28+0000
+/project/suprnova/, suprnova, 0.9, Suprnova client, 2017-12-04T08:14:05+0000
+/project/padasip/, padasip, 1.1.1, Python Adaptive Signal Processing, 2017-08-06T19:23:42+0000
+/project/flask-applauncher-bundle/, flask-applauncher-bundle, 1.14, flask support for applauncher, 2018-06-06T11:22:12+0000
+/project/async-to-sync/, async-to-sync, 0.2.2, Convert async coroutines to normal python functions, 2021-01-07T16:02:52+0000
+/project/crm114/, crm114, 2.0.2, Python wrapper classes for the CRM-114 Discriminator (http://crm114.sourceforge.net/), 2014-01-30T16:35:47+0000
+/project/streamtools-ultimate-testing/, streamtools-ultimate-testing, 0.9.0.5, A vastly improved replacement for print(), input() and file handling for broad area of use cases - TESTING RELEASE., 2020-12-15T19:50:37+0000
+/project/tuhinga/, tuhinga, 0.1.1, Minimalistic markup language that translates to XML/HTML, 2015-05-28T21:04:07+0000
+/project/kt-line/, kt-line, 0.3.1, Ferramenta de linha de comando para calcular linha de tendencia e linha de canal, 2021-04-08T22:37:57+0000
+/project/clickhouse-bundle/, clickhouse-bundle, 1.0, Clickhouse support for applauncher, 2020-12-23T17:42:06+0000
+/project/pysep/, pySEP, 1.0.11, Pacote Open Source desenvolvido no Brasil para modelar e simular Sistemas Elétricos de Potência. Open Source Package developed in Brazil to model and simulate Electric Power Systems, 2020-06-19T03:14:59+0000
+/project/accessible-output/, accessible_output, 0.7.5, Library to provide speech and braille output to a variety of different screen readers and other accessibility solutions., 2011-06-27T05:10:04+0000
+/project/sensorflow/, sensorflow, 2.4, Python driver for sensorflow devices, 2019-01-02T00:22:33+0000
+/project/lapis-sim/, lapis-sim, 0.4.2, Lapis is an adaptable, performant, and interactive scheduling (Lapis) simulator, 2020-12-14T17:00:26+0000
+/project/skcmd/, skcmd, 0.0.7, Command line interface to Skype, 2014-01-10T13:56:57+0000
+/project/secure-authenticator/, secure-authenticator, 1.6, Secure JWT Authenticator, 2020-03-21T19:54:04+0000
+/project/influxdb-bundle/, influxdb-bundle, 1.0, Influxdb support for applauncher, 2020-05-01T15:26:07+0000
+/project/hanhanai/, HanhanAI, 2.0.2, Universal game AI system for game developer, 2019-09-10T08:16:44+0000
+/project/redis-bundle/, redis-bundle, 0.2, Redis support for applauncher, 2018-07-12T09:52:45+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/file-api/, file-api, 1.0, Client for the Bmat TV/AV file api, 2020-04-20T16:58:15+0000
+/project/astviewer/, astviewer, 1.1.1, GUI for viewing a Python Abstract Syntax Tree., 2016-11-05T16:30:27+0000
+/project/threadplotter/, threadPlotter, 0.0.2b2, a toolkit for designing plotter-compatible embroidery patterns, 2020-06-28T17:14:14+0000
+/project/email-bundle/, email-bundle, 1.0, email support for applauncher, 2018-04-11T22:04:56+0000
+/project/sharkradar/, sharkradar, 1.2.0, Lightweight micro service registry and discovery tool, compatible with any HTTP based microservice, 2019-08-25T13:56:50+0000
+/project/obscure-bundle/, obscure-bundle, 0.9, Integration of obscure api into applauncher, 2017-12-12T12:58:39+0000
+/project/tiny-gnupg/, tiny-gnupg, 0.6.1, tiny_gnupg - A small-as-possible solution for handling GnuPG ed25519 ECC keys., 2020-01-18T23:31:23+0000
+/project/scrapium/, scrapium, 0.9, Scraping tools, 2017-12-01T13:03:28+0000
+/project/bp-accessible-output2/, bp-accessible-output2, 0.5, Speech and Braille output for python apps, 2021-01-19T21:18:10+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/slack-bundle/, slack-bundle, 1.1, Slack support for applauncher, 2020-02-05T13:13:45+0000
+/project/apiai-assistant/, apiai_assistant, 0.1.2, Create API.ai agents in a heartbeat, 2017-10-30T11:33:41+0000
+/project/iscc-service/, iscc-service, 0.2.3, ISCC Web Service API, 2020-06-12T18:57:19+0000
+/project/remote-event-bundle/, remote-event-bundle, 1.6, Remote events support for applauncher, 2020-12-02T16:22:45+0000
+/project/yabt/, YABT, 2.0.2, YABT: A context sensitive string manipulation tool, 2009-08-04T14:19:18+0000
+/project/sbi/, sbi, 0.15.1, Simulation-based inference., 2021-03-18T09:05:00+0000
+/project/crypto-com-client/, crypto-com-client, 1.0, Crypto.com websocket api client, 2021-03-10T00:28:28+0000
+/project/pyknos/, pyknos, 0.14.1, Conditional density estimation., 2021-03-31T08:57:04+0000
+/project/accessible-output2/, accessible-output2, 0.16, Library to provide speech and braille output to a variety of different screen readers and other accessibility solutions., 2019-06-26T02:11:55+0000
+/project/nextgentermux/, nextgentermux, 1.3, An one tap termux setup tool, 2021-01-29T13:02:38+0000
+/project/domaintypesystem/, domaintypesystem, 0.1.9, Decentralized type system, 2019-08-18T22:28:03+0000
+/project/hpitclient/, hpitclient, 0.36, Python Client Libraries for HPIT., 2014-11-13T15:37:57+0000
+/project/amqp-bundle/, amqp-bundle, 1.1, Remote events through amqp, 2020-09-16T09:50:54+0000
+/project/kt-osc/, kt-osc, 0.2.1, Calcula oscilacao de preco, 2021-04-08T23:03:44+0000
+/project/fluent-bundle/, fluent-bundle, 2.0, fluentd support for applauncher, 2019-06-19T11:13:27+0000
+/project/speechlight/, Speechlight, 1.3, A lightweight Python library providing a common interface to multiple TTS and screen reader APIs., 2021-02-26T08:15:49+0000
+/project/objbrowser/, objbrowser, 1.2.1, GUI for Python object introspection., 2016-11-05T11:06:16+0000
+/project/change-log/, change-log, 0.2.0, Change and Manage Package Information, 2019-11-27T14:51:15+0000
+/project/obscure-api/, obscure-api, 0.9, Library to make obscured apis, 2017-12-12T12:44:46+0000
+/project/apscheduler-bundle/, apscheduler-bundle, 1.1.2, APScheduler support for applauncher, 2018-06-11T11:12:58+0000
+/project/mapped-config/, mapped-config, 2.36, Mapped config loader for python for secure, easy and modular configuration management, 2019-02-01T16:29:35+0000
+/project/cobald/, cobald, 0.12.1, COBalD - the Opportunistic Balancing Daemon, 2020-04-15T08:48:29+0000
+/project/dragonfluid/, dragonfluid, 0.9.0a7, A dragonfly extension to allow voice commands to be spoken together without pausing. Supports Dragon NaturallySpeaking and Windows Speech Recognition., 2015-09-25T07:39:46+0000
+/project/mtcli/, mtcli, 0.11.0, Converte gráfico do MetaTrader 5 para texto, 2021-04-06T08:35:04+0000
+/project/celery-bundle/, celery-bundle, 1.26, Celery support for applauncher, 2020-12-22T18:39:12+0000
+/project/bazaar-bundle/, bazaar-bundle, 0.1, Bazaar support for applauncher, 2018-07-12T10:00:19+0000
+/project/kt-theta/, kt-theta, 0.1.4, Calcula o theta de uma opcao, 2021-04-13T05:42:27+0000
+/project/sqlalchemy-bundle/, sqlalchemy-bundle, 1.03, SqlAlchemy support for applauncher, 2017-10-03T16:42:32+0000
+/project/celery-bundle/, celery-bundle, 1.26, Celery support for applauncher, 2020-12-22T18:39:12+0000
+/project/pyknos/, pyknos, 0.14.1, Conditional density estimation., 2021-03-31T08:57:04+0000
+/project/accessible-output2/, accessible-output2, 0.16, Library to provide speech and braille output to a variety of different screen readers and other accessibility solutions., 2019-06-26T02:11:55+0000
+/project/hpitclient/, hpitclient, 0.36, Python Client Libraries for HPIT., 2014-11-13T15:37:57+0000
+/project/amqp-bundle/, amqp-bundle, 1.1, Remote events through amqp, 2020-09-16T09:50:54+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/slack-bundle/, slack-bundle, 1.1, Slack support for applauncher, 2020-02-05T13:13:45+0000
+/project/apiai-assistant/, apiai_assistant, 0.1.2, Create API.ai agents in a heartbeat, 2017-10-30T11:33:41+0000
+/project/iscc-service/, iscc-service, 0.2.3, ISCC Web Service API, 2020-06-12T18:57:19+0000
+/project/remote-event-bundle/, remote-event-bundle, 1.6, Remote events support for applauncher, 2020-12-02T16:22:45+0000
+/project/yabt/, YABT, 2.0.2, YABT: A context sensitive string manipulation tool, 2009-08-04T14:19:18+0000
+/project/crypto-com-client/, crypto-com-client, 1.0, Crypto.com websocket api client, 2021-03-10T00:28:28+0000
+/project/sbi/, sbi, 0.15.1, Simulation-based inference., 2021-03-18T09:05:00+0000
+/project/ck/, ck, 1.55.12, Collective Knowledge - a lightweight knowledge manager to organize, cross-link, share and reuse artifacts and workflows, 2021-04-26T08:50:20+0000

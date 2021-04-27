@@ -1,0 +1,962 @@
+/project/editorconfig/, EditorConfig, 0.12.3, EditorConfig File Locator and Interpreter for Python, 2020-12-23T04:22:49+0000
+/project/tet-fanstatic/, tet.fanstatic, 0.1, Fanstatic integration for tet, 2015-09-06T13:33:32+0000
+/project/epistasim-linux/, EpistaSim_Linux, 1.1.0, Epistasis simulator of SNP patterns in Linux, 2015-07-22T06:23:56+0000
+/project/aws-adfs/, aws-adfs, 1.24.5, AWS Cli authenticator via ADFS - small command-line tool to authenticate via ADFS and assume chosen role, 2020-10-17T12:22:52+0000
+/project/wshook/, wshook, 0.0.4, wshook provide an easy way to deploy your docker containers on a VPS., 2020-01-20T03:00:01+0000
+/project/pprint-ordered-sets/, pprint-ordered-sets, 1.0.0, The standard library pprint module, but sets are always ordered., 2020-11-08T22:49:34+0000
+/project/dutest/, dutest, 0.2.4, An object-oriented API to test doctests using unittest runners., 2012-12-16T04:13:45+0000
+/project/blockdiagcontrib-square/, blockdiagcontrib-square, 0.1.3, noderenderer plugin for blockdiag, 2011-11-20T15:35:07+0000
+/project/subprocess32/, subprocess32, 3.5.4, A backport of the subprocess module from Python 3 for use on 2.x., 2019-05-20T22:14:16+0000
+/project/pooled-processmixin/, pooled-ProcessMixIn, 0.0.1, A Pool of processes and threads Mix-in for socketserver., 2019-03-09T18:41:10+0000
+/project/mobypy/, mobypy, 1.0.2, Python module for searching the Moby thesaurus, 2019-09-23T19:48:19+0000
+/project/survol/, survol, 1.0.31, Exploring legacy IT systems, 2020-11-26T07:29:40+0000
+/project/python-pgsql/, python-pgsql, 0.9.7, PostgreSQL bindings for Python w/ bind parameters support, 2008-02-11T22:21:15+0000
+/project/pdb2py/, pdb2py, 1.3, Read a pdb file and return a dictionary, 2020-09-11T17:56:11+0000
+/project/backport-importlib/, backport_importlib, 0...1, A script to backport the full importlib to 2.x, 2011-07-16T07:28:34+0000
+/project/oodi/, oodi, 1.0, python tools to manage music libraries and files, 2019-07-13T07:20:30+0000
+/project/paginate-wrapper/, paginate_wrapper, 0.1.5, minimal pagination, 2014-06-28T13:31:13+0000
+/project/spambayes/, spambayes, 1.1b3, Spam classification system, 2017-11-23T18:26:57+0000
+/project/indexed/, indexed, 1.2.0, A dictionary that is indexed by insertion order., 2020-07-03T14:19:27+0000
+/project/seven/, seven, 1.0.0, Python 2.5 compatibility wrapper for Python 2.7 code., 2012-02-04T19:22:50+0000
+/project/cpytraceafl-regex/, cpytraceafl-regex, 0.2.0, A modified version of mrab-regex with added cpytraceafl instrumentation, 2020-06-19T21:34:20+0000
+/project/pyip/, pyip, 0.7, pyip: assemble/disassemble raw ip packet, 2006-11-29T03:04:34+0000
+/project/seoanalyzer/, SeoAnalyzer, 0.0.1, SEO Analysis Package, 2012-02-08T00:23:55+0000
+/project/gof/, gof, 0.1.3, a little fun with Conway's Game Of Life, 2020-04-02T14:18:31+0000
+/project/blockdiagcontrib-qb/, blockdiagcontrib-qb, 0.1.3, noderenderer plugin for blockdiag, 2011-11-01T05:12:04+0000
+/project/urlpath/, urlpath, 1.1.7, Object-oriented URL from `urllib.parse` and `pathlib`, 2020-06-23T23:10:58+0000
+/project/resaspy/, resaspy, 0.2.1, python for RESAS API., 2017-05-10T14:19:28+0000
+/project/yafowil-documentation/, yafowil.documentation, 2.1, Documentation of YAFOWIL - Yet Another Form Widget Library, 2015-01-23T16:17:59+0000
+/project/read-only-property/, read-only-property, 0.1, Create class properties which can't be changed., 2017-04-20T16:18:27+0000
+/project/python3-memcached/, python3-memcached, 1.51, Pure python memcached client, 2013-05-11T21:35:10+0000
+/project/ttgmodhello/, ttgmodhello, 0.1.3, This is an Example Package, 2019-11-26T21:50:32+0000
+/project/legacycrypt/, legacycrypt, 0.3, Wrapper to the POSIX crypt library call and associated functionality., 2019-05-28T09:07:04+0000
+/project/partiell/, partiell, 0.0.1, Partial function application with '...', 2020-01-09T01:10:39+0000
+/project/sleipnir-testing/, sleipnir.testing, 0.1rc7, Sleipnir Testing Framework, 2011-04-05T16:01:11+0000
+/project/goldsaxcreatetablesgfinance/, GoldSaxCreateTablesGFinance, 1.04, Auto Createe Tablesppaces in Sqlite3 To retrieve Capital Market quotes directly into an sqlite Database. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:10:47+0000
+/project/topsis-ucs633/, Topsis-UCS633, 1.0.1, A topsis Package Project of UCS633, 2020-01-19T16:47:06+0000
+/project/django-haml/, django_haml, 1.0, A HAML pre-processor for Django 1.3 and Django 1.4, 2012-07-25T05:21:14+0000
+/project/py2chainmap/, Py2ChainMap, 0.1.0, A backport of ChainMap from Python 3 to Python 2., 2014-04-21T03:11:28+0000
+/project/cerealizer/, Cerealizer, 0.8.3, A secure pickle-like module, 2018-11-23T13:32:06+0000
+/project/random2/, random2, 1.0.1, Python 3 compatible Pytohn 2 `random` Module., 2013-03-15T12:26:26+0000
+/project/goldsaxgfinancequote/, GoldSaxGFinanceQuote, 1.22, Auto aggregation, parsing of FIXML, FPML, XML, Json, FIX messages realtime data for storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:11:35+0000
+/project/metaclass/, metaclass, 1.3, Useful baseclasses for metaclasses, 2016-02-05T14:05:59+0000
+/project/helloworldwcy/, HelloWorldWcy, 0.1, This is an Example Package, 2020-05-18T12:41:17+0000
+/project/backports-pbkdf2/, backports.pbkdf2, 0.1, Fast PBKDF2 for Python 2.6 - 3.4, 2013-10-19T13:55:05+0000
+/project/mlak/, mlak, 0.0.0, Machine Learning Army Knife, 2018-01-29T16:26:54+0000
+/project/python-echo-streamserver/, python-echo-streamserver, 0.84, Echo StreamServer API Client, 2015-01-24T05:25:15+0000
+/project/codecryptor/, CodeCryptor, 0.0.1, A Python Module for the encryption of code modules, 2020-06-11T14:49:29+0000
+/project/copads/, copads, 0.5.1, Collection of Python Algorithms and Data Structures, 2017-09-27T07:24:20+0000
+/project/stabledict/, StableDict, 0.2, A dict subclass which remembers insertion order, 2007-08-28T12:12:32+0000
+/project/pyxurrency/, pyXurrency, 0.0.1, A Python interface to the Xurrency API, 2011-03-01T03:00:37+0000
+/project/traceback2/, traceback2, 1.4.0, Backports of the traceback module, 2015-03-09T06:57:26+0000
+/project/pollinotify/, pollinotify, 1.2, inotify wrapper providing polling with timeout for specified filesystem events, 2017-12-25T05:09:30+0000
+/project/zipfile36/, zipfile36, 0.1.3, Read and write ZIP files - backport of the zipfile module from Python 3.6, 2016-10-16T13:08:59+0000
+/project/scrapycw/, scrapycw, 0.3.0, 一个web监控scrapy的工具, 2020-02-09T13:25:38+0000
+/project/backports-weakref/, backports.weakref, 1.0.post1, Backport of new features in Python's weakref module, 2017-09-17T20:58:21+0000
+/project/backports-ssl-match-hostname/, backports.ssl_match_hostname, 3.7.0.1, The ssl.match_hostname() function from Python 3.5, 2019-01-12T22:25:58+0000
+/project/django-sape/, django-sape, 0.2.4, Django + sape.ru., 2013-06-10T13:18:15+0000
+/project/hashlib/, hashlib, 20081119, Secure hash and message digest algorithm library, 2009-07-03T17:19:08+0000
+/project/s3sourcedependencies/, s3sourcedependencies, 0.1, Download and install from private source distributions hosted on Amazon S3., 2012-01-23T17:11:54+0000
+/project/sendkeys/, SendKeys, 0.3, An implementation of Visual Basic's SendKeys function, 2003-06-16T17:35:00+0000
+/project/infi-dnssimple/, infi.dnssimple, 0.0.7, dnssimple utils, 2018-12-10T15:00:50+0000
+/project/moipy/, MoIPy, 0.1, Basic integration with MoIP payment gateway, 2010-12-09T14:11:15+0000
+/project/python-daemon-3k/, python-daemon-3K, 1.5.8, Library to implement a well-behaved Unix daemon process.
+   This is a fork of "python-daemon" to support Python 3.x, 2014-09-25T14:36:16+0000
+/project/pypi-switcher/, pypi_switcher, 0.1, a script for switching between pypi servers, 2013-09-14T09:42:21+0000
+/project/rum-docs-theme/, rum-docs-theme, 2020.6, The Sphinx theme for Rum docs and related projects, 2020-06-11T13:38:37+0000
+/project/ptyng/, ptyng, 0.3.3.post1, Pseudo-terminal utilities., 2019-03-03T03:20:46+0000
+/project/quickcloud/, quickcloud, 0.1.3, Cloud Manager of QuickCorp, 2018-03-25T22:29:04+0000
+/project/compileall2/, compileall2, 0.7.2, Enhanced Python `compileall` module, 2020-12-08T15:59:22+0000
+/project/cctv-analysis/, cctv-analysis, 0.0.2, A ready-to-use server to analyse cctv feeds. Pip install, boot up server, and make requests to analyse videos., 2021-04-06T13:57:17+0000
+/project/inflector/, Inflector, 3.0.1, Inflector for Python, 2019-10-29T17:11:00+0000
+/project/buildout-locallib/, buildout.locallib, 0.3.1, buildout.locallib use egg-packages installed on site-packages folder., 2013-08-18T14:02:29+0000
+/project/backports-functools-partialmethod/, backports.functools_partialmethod, 3.5.1.0, Backport of functools.partialmethod from Python 3.5.1., 2016-03-04T06:30:52+0000
+/project/riakc/, riakc, 0.3.7, A simple riak commandline client, 2011-08-19T01:53:26+0000
+/project/watcher/, watcher, 0.2.1, FileSystemWatcher clone for CPython, 2011-02-25T20:19:43+0000
+/project/linecache2/, linecache2, 1.0.0, Backports of the linecache module, 2015-03-06T01:33:29+0000
+/project/topsis-101703525-thapar/, Topsis-101703525-thapar, 1.0.1, A topsis Package Project of UCS633, 2020-02-16T14:39:43+0000
+/project/eggtestinfo/, eggtestinfo, 0.3, Add test information to .egg-info, 2011-03-10T19:55:14+0000
+/project/htmlcssinclude/, HtmlCssInclude, 0.1.2, HtmlCssInclude convert css to inline style for mobile, 2011-03-30T07:53:07+0000
+/project/tracebackturbo3/, tracebackturbo3, 0.3, Patched version of traceback, also dumps local and global scope vars., 2018-12-18T13:52:56+0000
+/project/goldsaxlivequotemachine/, GoldSaxLiveQuoteMachine, 1.24, Orchestration Engine, parsing of FIXML, FPML, XML, Json, FIX messages realtime data for storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:11:58+0000
+/project/backports-shutil-which/, backports.shutil_which, 3.5.2, Backport of shutil.which from Python 3.3, 2018-11-15T10:32:22+0000
+/project/pyevolve/, Pyevolve, 0.5, A complete python genetic algorithm framework, 2009-01-22T01:04:11+0000
+/project/gnsstime/, gnsstime, 0.0.9, Extended datetime for the gnss analysis., 2021-04-25T02:00:39+0000
+/project/plumstats/, plumstats, 2.0.8, UNKNOWN, 2014-08-14T19:55:29+0000
+/project/pyspf/, pyspf, 2.0.14, SPF (Sender Policy Framework) implemented in Python., 2020-01-02T02:54:37+0000
+/project/zipfile2/, zipfile2, 0.0.12, An improved ZipFile class., 2016-03-22T21:08:22+0000
+/project/futures3/, futures3, 1.0.0, The latest version for concurrent.futures package from Python 3, 2019-09-10T21:56:27+0000
+/project/blockdiagcontrib-class/, blockdiagcontrib-class, 0.1.3, noderenderer plugin for blockdiag, 2011-11-20T15:40:21+0000
+/project/functional/, functional, 0.7.0, Tools for functional programming in python, 2006-07-31T21:51:33+0000
+/project/runpy2/, runpy2, 2.5, A package that supports runpy functionality for Python 2.4, 2010-07-09T13:12:29+0000
+/project/mypulp/, mypulp, 0.0.11, `mypulp` is a package for mypulp., 2020-09-06T07:03:34+0000
+/project/ooop/, ooop, 0.2.3, OpenObject on Python, a library to connect with Open ERP., 2012-09-18T16:03:41+0000
+/project/backport-ipaddress/, backport_ipaddress, 0.1, Backport of Python 3's ipaddress module, 2014-09-01T09:49:45+0000
+/project/pyalsaaudio/, pyalsaaudio, 0.9.0, ALSA bindings, 2020-07-13T20:09:32+0000
+/project/smw/, smw, 0.1.3.3, Semantic Mediawiki Python Binding, 2014-02-13T21:04:52+0000
+/project/rng-to-html-form/, rng-to-html-form, 1.0.2, Takes an rng file and makes an html form, 2017-04-05T10:34:20+0000
+/project/defusedxml/, defusedxml, 0.7.1, XML bomb protection for Python stdlib modules, 2021-03-08T10:59:24+0000
+/project/lsystem2/, LSystem2, 1.6, LSystem for Python, 2006-03-12T21:37:56+0000
+/project/py3mqi/, py3mqi, 1.6.0, Python IBM MQI Extension for WebSphere MQ (formerly known as MQSeries)., 2017-09-06T09:43:23+0000
+/project/receptacle/, receptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-05T16:54:13+0000
+/project/infi-dtypes-hctl/, infi.dtypes.hctl, 0.0.8, HCTL-related datatypes in Python, 2014-11-18T13:15:29+0000
+/project/needforcryptography/, NeedForCryptography, 1.05, Python cryptographic tools and ciphers, 2014-06-27T02:17:53+0000
+/project/prcdns/, PRCDNS, 0.0.9, 准确、CDN友好的DNS软件，使用DNS-Over-HTTP, 2017-08-10T14:52:39+0000
+/project/json-config-parser/, json-config-parser, 0.1.2, A straightforward and unambiguous config file parser., 2015-01-20T15:22:42+0000
+/project/lostruct/, lostruct, 0.0.4, Re-implementation of lostruct in Python, used to compare local population structure across populations., 2020-08-26T03:37:19+0000
+/project/distlib/, distlib, 0.3.1, Distribution utilities, 2020-06-27T21:00:33+0000
+/project/wincertstore/, wincertstore, 0.2, Python module to extract CA and CRL certs from Windows' cert store (ctypes based)., 2014-02-26T11:42:04+0000
+/project/rings/, rings, 0.7.3, Procedures to handle coherent vortexes in the ocean, 2013-03-05T16:15:29+0000
+/project/pymacadmin/, PyMacAdmin, 1.0, Python tools for Mac administration, 2009-06-08T03:04:03+0000
+/project/afpy-xap/, afpy.xap, 0.1, afpy xapian indexer package, 2008-09-27T18:20:31+0000
+/project/gns3-cx-freeze/, gns3_cx_Freeze, 4.3.6, Temporary fork of cx_Freeze 4.x with Python 3.5 support., 2016-09-12T19:06:38+0000
+/project/katagami/, katagami, 2.0.1, katagami: a simple xml/html template library, 2014-03-10T16:58:03+0000
+/project/vbcode/, vbcode, 0.2.0, Variable byte codes, 2017-10-28T14:37:48+0000
+/project/pathlib-tree/, pathlib-tree, 1.0.2, Filesystem tree utilities, 2020-12-17T12:06:53+0000
+/project/shelve2/, shelve2, 1.0, Persistent dictionary with modular serialiser support, 2013-03-01T16:07:10+0000
+/project/fise-client/, fise.client, 1.1, Apache Stanbol FISE: RESTful Python Client., 2011-06-07T14:09:40+0000
+/project/odt2sphinx/, odt2sphinx, 0.3.0, An OpenDocument to sphinx converter., 2016-09-28T09:01:43+0000
+/project/smtpdropbox/, smtpdropbox, 1.0, Pure-python library to capture emails into a dropbox, 2011-10-31T15:36:48+0000
+/project/tracebackturbo/, tracebackturbo, 0.3, Patched version of traceback, also dumps local and global scope vars., 2018-12-18T13:55:50+0000
+/project/tb-api/, tb-api, 1.0.9, Simple Flask API, 2017-01-04T00:13:10+0000
+/project/pooledprocessmixin/, PooledProcessMixIn, 0.0.2, A Pool of processes and threads Mix-in for socketserver., 2012-08-10T20:23:40+0000
+/project/pybufr/, PyBUFR, 0.4, Pure Python library to encode and decode BUFR., 2012-05-02T14:12:40+0000
+/project/blockdiagcontrib-nationalflags/, blockdiagcontrib-nationalflags, 0.1.6, noderenderer plugin for blockdiag, 2014-06-11T15:54:45+0000
+/project/multiprocessing-on-dill/, multiprocessing_on_dill, 3.5.0a4, A friendly fork of multiprocessing which uses dill instead of pickle, 2015-05-17T12:01:34+0000
+/project/subprocess32-ext/, subprocess32-ext, 3.2.8.2, A backport of the subprocess module from Python 3.2/3.3 for use on 2.x., 2017-05-09T14:52:23+0000
+/project/ceptacle/, ceptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-08T21:45:45+0000
+/project/pickle4/, pickle4, 0.0.1, Backport of pickle protocol 4, 2019-12-07T23:33:49+0000
+/project/bosun/, bosun, 1.0.3, UNKNOWN, 2014-08-19T19:54:24+0000
+/project/helllohuirong/, helllohuirong, 0.1, This is an Example Package, 2019-11-20T01:03:10+0000
+/project/goldsaxcreatetablesyfinance/, GoldSaxCreateTablesYFinance, 1.01, Auto create tablespace in database for storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:13:15+0000
+/project/loctraceback/, loctraceback, 1.1.1, traceback with more exact location info, 2021-03-27T17:22:43+0000
+/project/contextlib2/, contextlib2, 0.6.0.post1, Backports and enhancements for the contextlib module, 2019-10-10T12:47:48+0000
+/project/pexif/, pexif, 0.15, A module for editing JPEG EXIF data, 2014-12-03T09:36:21+0000
+/project/python-memcached/, python-memcached, 1.59, Pure python memcached client, 2017-12-15T16:38:29+0000
+/project/slimmer/, slimmer, 0.1.30, HTML,XHTML,CSS,JavaScript optimizer, 2009-11-06T21:59:37+0000
+/project/maud/, maud, 0.9.2, Moving Average for Uneven Data, 2014-10-16T18:06:05+0000
+/project/dugong/, dugong, 3.8.1, A HTTP 1.1 client module supporting asynchronous IO, pipelining and `Expect: 100-continue`. Designed for RESTful protocols., 2021-01-10T17:13:20+0000
+/project/refaction/, Refaction, 0.0.1dev, Web-based tool for sharing webfaction services using webfaction's API., 2008-09-16T10:12:21+0000
+/project/datconv-test/, datconv-test, 0.2.2, Testing scripts for datconv package, 2019-12-29T00:14:10+0000
+/project/project-euler-python/, project-euler-python, 0.0.3, project euler problem solve by python, 2013-08-10T03:54:55+0000
+/project/asdl/, asdl, 0.1.5, A copy of the ASDL parser used in CPython 3.5., 2016-04-14T10:01:31+0000
+/project/pytonik-agent/, pytonik-agent, 1.0.5, pytonik agent browser and OS module, 2019-11-18T18:54:56+0000
+/project/ipaddress/, ipaddress, 1.0.23, IPv4/IPv6 manipulation library, 2019-10-18T01:30:24+0000
+/project/gsyslog/, gsyslog, 0.10, George application logger similar to syslog, 2018-03-28T18:32:57+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/tiffany/, tiffany, 0.6.7, Tiffany -- read/write/arrange any multi-page Tiff, any compression, 2015-01-28T20:19:12+0000
+/project/jepler-circuitpython-udecimal/, jepler-circuitpython-udecimal, 1.0.2, Reduced version of the decimal library for CircuitPython, 2021-02-14T15:00:42+0000
+/project/lieparse/, lieparse, 1.1.0, HTML parser ant text retriever using user defined rule set, 2020-03-02T22:02:25+0000
+/project/django-url-robots/, django-url-robots, 2.0, Django robots.txt generator, 2016-12-29T00:00:32+0000
+/project/pytunes/, pytunes, 13.0.2, iTunes / Music CLI control and python API, 2019-07-13T07:22:32+0000
+/project/pyramid-di/, pyramid-di, 0.4.1, Dependency injection stuff for Pyramid, 2021-03-19T13:01:52+0000
+/project/neon/, neon, 0.1.2, colorful cui utility, 2011-12-10T13:20:12+0000
+/project/oceansound/, OceanSound, 0.1.4, Get the music from oceancolor images, through MODIS satellite, 2016-03-27T18:14:15+0000
+/project/jira-ohsofancy/, jira-ohsofancy, 0.4, Jira getting a facelift via the command line, 2019-12-17T22:06:54+0000
+/project/mivrhash/, mivrhash, 1.0.1, A hash table (Python dict compatible) that stores data in remote servers. Performance is optimized by using write-back cache., 2010-08-20T01:54:20+0000
+/project/stackfull/, stackfull, 1.0.0, Tools for stack-usage in Python expressions, 2018-11-29T01:28:33+0000
+/project/subtypes/, subtypes, 0.1.19, types with new or removed constraints/properties, 2011-01-30T10:40:59+0000
+/project/ifstest/, IFStest, 1.5, IFS module, 2017-12-19T14:50:55+0000
+/project/misspeller/, Misspeller, 0.1.dev0, Module that makes typos, 2017-10-31T14:31:18+0000
+/project/pynmet/, pynmet, 0.3.9, Python code to retrieve and plot inmet meteorological data, 2019-09-17T14:34:50+0000
+/project/grid-strategy/, grid-strategy, 0.0.1, A package for organizing matplotlib plots., 2019-02-24T08:19:21+0000
+/project/miniconf/, miniconf, 1.2.0, Plain text Python built-in objects persistence, 2006-07-28T20:45:29+0000
+/project/pytest-leaks/, pytest-leaks, 0.3.1, A pytest plugin to trace resource leaks., 2019-11-27T18:03:00+0000
+/project/python-ldap/, python-ldap, 3.3.1, Python modules for implementing LDAP clients, 2020-06-29T14:48:14+0000
+/project/deadcheck/, deadcheck, 0.0.3.3.1, Deadlink Check Utility using Python Modules, 2015-03-10T07:11:56+0000
+/project/bb8/, bb8, 0.2.6, BB8 - A robot to support developer, 2016-10-08T23:00:09+0000
+/project/units/, units, 0.07, Python support for quantities with units, 2017-02-05T05:34:50+0000
+/project/json-conf-autoref/, json-conf-autoref, 0.1.51, JSON config parser with variable reference's handler, 2020-12-13T19:06:29+0000
+/project/volumeutil/, volumeutil, 1.1.0, A small utility for mount/unmount volume in Windows., 2012-04-13T14:33:40+0000
+/project/vcard-split/, vcard_split, 0.2dev-r2010, Splits one vcard file (*.vcf) to many vcard files        with one vcard per file. Useful for import contacts to phones,         thats do not support multiple vcard in one file.         Supprt unicode cyrillic characters.         Консольная программа для разбиения одного большлго файла с контактами в формате VCARD (*.vcf)        на несколько файлов содержащих один контакт. Полезна для импорта контактов в телефон,        который не поддерживает несколько контактов в одном файле. Поддерживает русские буквы кириллицу в тексте контактов.        Работоспособность проверялась на файле с контактами экспортированными из google gmail.com.         Установка вариант 1: скачать, распаковать, в папке запустить "python setup.py install".         Использование вариант 1: python vcard_split.py [-h] [-l LOG_LEVEL] [-d] filename [filename ...] например "python vcard_split.py contacts.vcf"        Установка вариант 2: "easy_install -U vcard_split".         Использование вариант 2: vcard_split [-h] [-l LOG_LEVEL] [-d] filename [filename ...] например "vcard_split contacts.vcf", 2012-12-27T12:17:06+0000
+/project/jong-package/, jong-package, 0.2, This is an Example Package.. It might not work..., 2019-11-20T01:55:30+0000
+/project/daemon-process/, daemon-process, 0.9.2, The package for running daemonized processes, 2020-02-02T10:14:14+0000
+/project/blockdiagcontrib-excelhogan/, blockdiagcontrib-excelhogan, 0.1.0, imagedrawer plugin for blockdiag, 2012-11-03T08:23:25+0000
+/project/demset/, demset, 1.0, set and frozenset classes for Python 2.2 and 2.3 compatible with Python 2.4 builtin types, 2006-10-20T18:42:39+0000
+/project/yalpt/, yalpt, 1.0.0, Yet Another Literate Python Tool, 2016-03-11T21:13:42+0000
+/project/cli-toolkit/, cli-toolkit, 1.0.2, Classes to implement CLI commands in python, 2020-12-17T12:06:34+0000
+/project/pikl/, pikl, 0.0.1, A rehabilitated, less dangerous pickle., 2018-09-26T23:18:06+0000
+/project/decimalpy/, decimalpy, 0.101, decimalpy - A Decimal based version of numpy, 2013-06-22T19:45:15+0000
+/project/helloworldtg/, HelloWorldTG, 0.3, This is an Example Package, 2019-11-19T21:59:34+0000
+/project/urlgen/, urlgen, 0.0.0, Get download URL from cloud storage service URL., 2020-04-18T18:39:44+0000
+/project/py-ace/, py-ace, 0.0.3, make all python script as c extention with cython, 2014-05-28T14:44:55+0000
+/project/pymqi/, pymqi, 1.12.0, Python IBM MQI Extension for IBM MQ (formerly WebSphere MQ and MQSeries)., 2020-07-01T20:52:52+0000
+/project/pyzenra/, pyzenra, 0.0.2, `pyzenra` is zenrize your Japanese sentence., 2010-11-30T15:04:34+0000
+/project/jpegthumbnail/, JpegThumbnail, 0.1.0.0, simple and fast JPEG thumbnail reader, 2009-09-23T23:35:27+0000
+/project/infi-locking/, infi.locking, 0.1.3, infi.locking module, 2019-02-18T10:46:40+0000
+/project/fallingrocks/, FallingRocks, 2.0, Implementation of the game FallingRocks in Python, 2015-07-13T00:36:44+0000
+/project/quicktions/, quicktions, 1.11, Fast fractions data type for rational numbers. Cythonized version of 'fractions.Fraction'., 2019-12-19T21:41:46+0000
+/project/setuputils/, setuputils, 1.0.3, A utility to automate away boilerplate in Python setup scripts., 2019-09-20T23:45:21+0000
+/project/bitarray/, bitarray, 2.0.1, efficient arrays of booleans -- C extension, 2021-04-19T22:42:56+0000
+/project/cookiestxt/, cookiestxt, 0.4, A version of MozillaCookieJar that works with curl/wget, 2018-06-15T18:54:54+0000
+/project/xzip/, xzip, 0.10, E[x]ploded zip file system in FUSE, 2012-05-02T21:05:15+0000
+/project/eventpython/, EventPython, 0.0.1, Event support for Python., 2020-12-04T07:32:57+0000
+/project/infi-nose-html-output/, infi.nose_html_output, 0.1.18, HTML Plugin for Nose, 2014-06-19T12:13:47+0000
+/project/pyfastcopy/, pyfastcopy, 1.0.3, Speed up shutil.copyfile by using sendfile system call, 2018-05-20T20:58:32+0000
+/project/fallocate/, fallocate, 1.6.4, Module to expose posix_fallocate(3), posix_fadvise(3) and fallocate(2), 2018-09-28T15:22:23+0000
+/project/uxml2object/, uxml2object, 0.1, Quick Corp uXML2Object, 2017-08-04T16:21:23+0000
+/project/chainmap/, chainmap, 1.0.3, Backport/clone of ChainMap for py26, py32, and pypy3., 2019-03-14T16:31:21+0000
+/project/goldsaxengineinitialize/, GoldSaxEngineInitialize, 1.033, Initializer for the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:12:49+0000
+/project/buildout-packager/, buildout.packager, 0.0.1dev-r662, buildout.packager generate installer from setup.py and buildout.cfg files., 2010-04-10T09:43:49+0000
+/project/pyst/, pyst, 0.8, A Python Interface to Asterisk, 2020-12-04T10:42:35+0000
+/project/lxml-element-maker/, lxml-element-maker, 1.0.1, Transforms a python structure to an xml element with lxml, 2016-11-21T09:12:33+0000
+/project/backlogapi/, backlogapi, 0.1.5, Backlog client library for Python, 2018-05-15T03:47:01+0000
+/project/check-arg/, check_arg, 0.1.3, wrapping decorator to enhance the documentation, 2012-12-16T00:22:47+0000
+/project/shortie/, shortie, 0.2, python library for the short.ie api, 2009-02-19T01:11:00+0000
+/project/cx-logging/, cx-Logging, 3.0, Python and C interfaces for logging, 2021-01-30T21:14:46+0000
+/project/goldsaxyfinancequote/, GoldSaxYFinanceQuote, 1.132, Auto aggregation, parsing of FIXML, FPML, XML, Json, FIX messages realtime data for storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:10:23+0000
+/project/topsis-101703363-thapar/, Topsis-101703363-thapar, 1.0.1, A topsis Package Project of UCS633, 2020-02-13T15:39:59+0000
+/project/matplotlib/, matplotlib, 3.4.1, Python plotting package, 2021-03-31T08:18:10+0000
+/project/pytorify/, pyTorify, 1.0, Torify python scripts, 2016-09-29T09:42:47+0000
+/project/singledispatchmethod/, singledispatchmethod, 1.0, Backport of @functools.singledispatchmethod to Python 2.7-3.7., 2019-08-12T07:28:17+0000
+/project/txloadbalancer/, txLoadBalancer, 1.1.0, txLoadBalancer - A Twisted-based TCP load balancer., 2008-07-05T08:53:25+0000
+/project/python-docs-theme-technopathy/, python-docs-theme-technopathy, 0.7.11, A responsive sphinx theme for github pages based on python-docs-theme, 2021-04-03T23:54:31+0000
+/project/lostruct-py/, lostruct-py, 0.0.3, Re-implementation of lostruct in Python, used to compare local population structure across populations., 2020-08-24T09:30:05+0000
+/project/wareweb/, Wareweb, 0.3, A web framework; a next generation evolution from Webware/WebKit's servlet model, 2006-10-22T21:19:02+0000
+/project/kwattr/, kwattr, 2.0, decorator: make keywords arguments of bool values from function attributes, 2011-08-01T17:11:56+0000
+/project/powerindex/, powerindex, 0.1.0, python library to calculate power indices in weighted voting games, 2020-02-29T22:09:07+0000
+/project/pyst3/, pyst3, 0.4.2, A Python 3.x Interface to Asterisk, 2014-11-21T09:07:49+0000
+/project/watchdogcaller/, watchdogCaller, 0.0.7, A Python script that calls an API when a directory is not modified in a especified timeout-time., 2020-06-26T01:32:26+0000
+/project/pysugar/, pysugar, 0.0.6, Python binding of SugarCRM, that uses the SOAP API provided by SugarCRM, 2007-01-05T09:23:05+0000
+/project/shifter/, shifter, 2.75, Transmission RPC Bindings, 2013-02-23T21:11:20+0000
+/project/import7z/, import7z, 0.1.0, Import Python modules from 7z archives., 2021-01-13T14:36:16+0000
+/project/gcap/, GCAP, 1.1-20140805, DNase I seq QC pipeline, 2014-08-05T18:58:12+0000
+/project/pyepoll/, pyepoll, 0.2, Python epoll wrapper, 2006-07-12T19:01:32+0000
+/project/earthsat/, earthsat, 0.0.1, Python code to download Goes16 data from aws s3 bucket, 2017-11-19T23:36:10+0000
+/project/coding-test-foo/, coding-test-foo, 2.0.3, coding test package. I am a description., 2019-11-29T09:20:21+0000
+/project/zipfile37/, zipfile37, 0.1.3, Read and write ZIP files - backport of the zipfile module from Python 3.7, 2019-07-18T11:49:16+0000
+/project/transformational-measures-tf/, transformational-measures-tf, 0.72a0, Invariance, Same-Equivariance and other measures for Neural Networks. Support for TensorFlow., 2020-08-31T12:35:18+0000
+/project/xml2obj/, xml2obj, 0.1, A simple function to converts XML data into native Python object, 2013-12-04T07:38:48+0000
+/project/outbreaker/, outbreaker, 1.0.5, Explore WHO Disease Outbreak News, 2021-03-29T14:43:52+0000
+/project/blockdiagcontrib-labeledbox/, blockdiagcontrib-labeledbox, 0.1.1, noderenderer plugin for blockdiag, 2012-10-07T06:55:40+0000
+/project/heartland/, heartland, 0.1, work with Heartland credit card readers and service, 2013-11-16T04:51:08+0000
+/project/asyncio-pipe/, asyncio-pipe, 0.0.1, Non-blocking IPC with Asyncio, 2020-12-28T20:40:52+0000
+/project/perfect-hash/, perfect-hash, 0.4.2, creating perfect minimal hash function, 2021-04-07T17:43:31+0000
+/project/sqlalchemy-gevent/, sqlalchemy-gevent, 0.2, sqlalchemy dialect adaptor for gevent to work in non-blocking mode, 2015-07-02T08:18:20+0000
+/project/colander-validators/, colander-validators, 0.0.4.1, Better validators for Colander based on FormEncode's validators, 2013-07-31T17:03:37+0000
+/project/subfind/, subfind, 4.7.1, Subtitle crawler written in Python, 2017-11-16T23:58:41+0000
+/project/treesync/, treesync, 1.0.2, Utilitiies to use rsync for whole trees, 2020-12-17T12:08:32+0000
+/project/setuputils3/, setuputils3, 1.0.4, A utility to automate away boilerplate in Python 3 setup scripts., 2019-09-20T23:25:37+0000
+/project/roman/, roman, 3.3, Integer to Roman numerals converter, 2020-07-12T15:28:46+0000
+/project/outlier-101703525-thapar/, outlier-101703525-thapar, 1.0.1, A outlier Package Project of UCS633, 2020-02-16T14:38:55+0000
+/project/backports-os/, backports.os, 0.1.1, Backport of new features in Python's os module, 2017-09-20T18:41:38+0000
+/project/moneytrack/, moneytrack, 0.0.9, This package helps to track personal finances spread over many accounts, 2021-02-04T23:02:05+0000
+/project/zodbpickle/, zodbpickle, 2.0.0, Fork of Python 2 and 3 pickle module., 2019-11-13T12:40:56+0000
+/project/py2-ipaddress/, py2-ipaddress, 3.4.2, Python 2.6 backport of 3.4's ipaddress module, 2020-01-20T13:48:43+0000
+/project/infi-rdc/, infi.rdc, 1.0, rdc, 2015-09-30T11:37:22+0000
+/project/methylpurify/, MethylPurify, 2.0-20141116, Methylation subclone detection, 2014-11-17T01:05:13+0000
+/project/bubka/, bubka, 1.1.0, Command line client for REST APIs, 2019-03-18T07:41:08+0000
+/project/oset/, oset, 0.1.3, Ordered Set., 2012-12-04T16:30:40+0000
+/project/vectordict/, VectorDict, 1.0.0, dict with recursive operations (algebraic, set, logicial), 2012-04-12T10:38:14+0000
+/project/md2tex/, md2tex, 0.0.17, `md2tex` is a package which convert markdown to TeX., 2018-10-02T01:30:47+0000
+/project/distribute/, distribute, 0.7.3, distribute legacy wrapper, 2013-07-05T17:53:04+0000
+/project/pyipc/, pyipc, 0.41, Python bindings to System V IPC, 2006-07-19T23:28:17+0000
+/project/threadpool/, threadpool, 1.3.2, Easy to use object-oriented thread pool framework., 2015-10-29T19:45:02+0000
+/project/importlib-no-failure/, importlib-no-failure, 1.0.2, Backport of importlib.import_module() from Python 2.7, 2013-03-16T21:18:03+0000
+/project/async-exit-stack/, async-exit-stack, 1.0.1, AsyncExitStack backport for Python 3.5+, 2018-05-07T15:54:45+0000
+/project/backport-collections/, backport_collections, 0.1, Backport of Python 2.7's collections module, 2014-09-01T09:47:23+0000
+/project/keyring/, keyring, 23.0.1, Store and access your passwords safely., 2021-03-25T13:14:10+0000
+/project/guidos-time-machine/, guidos-time-machine, 0.0, Guido's time machine, 2020-03-05T04:02:26+0000
+/project/idlex/, idlex, 1.18, IDLE Extensions for Python, 2018-08-05T21:48:11+0000
+/project/pytonik-curl/, pytonik-curl, 2.0, pytonik curl is built to transfer data using various network protocols and support sending or initiating actions within or outside protocols., 2020-02-27T08:13:30+0000
+/project/hellovivianas9290/, Hellovivianas9290, 0.1, This is my project, 2019-11-20T00:06:24+0000
+/project/elflib/, elflib, 0.1.2, library for working with ELF files, 2019-07-19T05:44:36+0000
+/project/wyatt/, wyatt, 0.1.19, A way to talk to will wyatt., 2017-05-19T20:14:11+0000
+/project/pypi-stat/, pypi-stat, 1.3.2, solution for getting packages stat, and graphing them, 2017-05-19T03:40:29+0000
+/project/searchpy/, Searchpy, 1.4.9, A google interface library, 2011-05-12T23:20:48+0000
+/project/myopenopt/, myopenopt, 0.0.3, `myopenopt` is a package for myopenopt., 2020-04-19T13:45:03+0000
+/project/djmodelcron/, djmodelcron, 0.1.0, Generic cron task for running instances of django models, 2015-07-16T14:51:50+0000
+/project/backports-abc/, backports_abc, 0.5, A backport of recent additions to the 'collections.abc' module., 2016-11-12T16:05:22+0000
+/project/yapocis/, yapocis, 0.2.4, Yet another PyOpenCL interface specifier, 2011-08-31T03:57:55+0000
+/project/python-docs-theme/, python-docs-theme, 2020.12, The Sphinx theme for the CPython docs and related projects, 2020-12-22T00:34:45+0000
+/project/hellovivianas9250/, Hellovivianas9250, 0.1, This is my project, 2019-11-26T01:16:53+0000
+/project/clustersoundboyselecta/, clustersoundboyselecta, 0.7, This is a cluster algorithm for given data set, 2019-11-20T02:11:55+0000
+/project/monthdelta/, MonthDelta, 0.9.1, date computations with months, 2009-04-23T03:14:36+0000
+/project/openstruct/, openstruct, 0.0.0, `openstruct` is a package for lazy person in daily life. porting from ruby, 2010-12-08T16:29:54+0000
+/project/typing/, typing, 3.7.4.3, Type Hints for Python, 2020-07-13T23:19:42+0000
+/project/watchdogdev/, watchdogdev, 1.0.0, Implementation of Linux watchdog device API, 2020-02-28T10:48:24+0000
+/project/affinity/, affinity, 0.1.0, affinity - control processor affinity on windows and linux, 2006-03-23T04:05:35+0000
+/project/fissix/, fissix, 20.8.0, Monkeypatches to override default behavior of lib2to3., 2020-08-18T04:11:29+0000
+/project/tet-raven/, tet_raven, 0.1, Unearthly intelligent batteries-included application framework built on Pyramid, 2016-07-21T15:06:06+0000
+/project/infomedia-python/, infomedia-python, 1.2, Infomedia Python Utility Module, 2012-08-05T13:52:33+0000
+/project/nose-subunit/, nose-subunit, 0.2, Subunit output adapter for nose, 2010-07-10T19:42:03+0000
+/project/nose-machineout/, nose_machineout, 0.2, Changes output of the nose testing tool into format easily parsable by a machine  Originally written by Max Ischenko., 2010-07-23T13:12:34+0000
+/project/weakrefmethod/, weakrefmethod, 1.0.3, A WeakMethod class for storing bound methods using weak references., 2016-07-18T19:57:05+0000
+/project/cx-freeze/, cx-Freeze, 6.6, Create standalone executables from Python scripts, 2021-04-14T09:48:47+0000
+/project/goldsaxgethighlow/, GoldSaxGetHighLow, 1.03, Auto retrieve historical data for analytics to the GoldSaxEngine-****Markets. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:11:10+0000
+/project/pysha3/, pysha3, 1.0.2, SHA-3 (Keccak) for Python 2.7 - 3.5, 2017-02-05T16:42:07+0000
+/project/miros/, miros, 4.2.1, A statechart library for Python, 2020-01-02T14:14:07+0000
+/project/lmtpd/, lmtpd, 6.2.0, A LMTP server class, 2020-07-05T05:10:01+0000
+/project/outlier-101703363-thapar/, outlier-101703363-thapar, 1.0.1, A outlier Package Project of UCS633, 2020-02-13T15:45:04+0000
+/project/hmac/, hmac, 20101005, HMAC (Keyed-Hashing for Message Authentication) Python module., 2010-10-05T20:08:06+0000
+/project/mom-utils/, mom-utils, 1.2.7, Python utilities for the GFDL's numerical model MOM, 2016-03-24T00:38:30+0000
+/project/cellmethy/, CellMethy, 1.2.0, Identifying focal full methylation of cell subpopulation and inferring fraction, 2014-09-29T04:56:16+0000
+/project/idle2html/, IDLE2HTML, 0.2, This extension saves the contents of your IDLE shell or editor window as XHTML, 2007-06-14T07:41:02+0000
+/project/humblesetuptools/, humblesetuptools, 3.4.5, Setuptools that doesn't mess with sys.path, 2014-04-23T00:08:06+0000
+/project/snpfc/, snpfc, 1.0.0, , 2019-04-01T13:42:40+0000
+/project/objproxies/, objproxies, 0.9.4, General purpose proxy and wrapper types, 2015-07-24T05:54:45+0000
+/project/bitarray-ph4/, bitarray-ph4, 1.9.1, efficient arrays of booleans -- C extension, 2021-04-01T11:53:14+0000
+/project/fixedint/, fixedint, 0.1.6, simple fixed-width integers, 2020-06-20T22:14:14+0000
+/project/pystick/, pystick, 0.1.6, embeddable python for the masses, 2017-06-11T09:41:24+0000
+/project/schema2rst/, schema2rst, 0.9.0, schema2rst generates reST doc from database schema, 2013-12-11T07:13:51+0000
+/project/ndblite/, ndblite, 0.1.1, Quick Corp ndblite, 2018-01-09T15:58:13+0000
+/project/selectors2/, selectors2, 2.0.2, Back-ported, durable, and portable selectors, 2020-07-21T22:40:20+0000
+/project/gunicorn-service/, gunicorn-service, 0.0.3, let gunicorn easy install as a service, 2014-07-11T09:37:04+0000
+/project/emeraldtree/, emeraldtree, 0.10.0, EmeraldTree - a light-weight XML object model for Python., 2015-06-09T23:20:22+0000
+/project/namedout/, namedout, 1.1, write values (and their names) to stdout in python script, 2014-11-12T12:34:35+0000
+/project/datconv/, datconv, 0.8.2, Universal data converter - pandoc for data; XML, CSV, JSON are supported, 2019-12-29T00:16:58+0000
+/project/drippy/, drippy, 0.3.1, Nose plugin for finding tempfile leaks, 2014-03-31T15:13:23+0000
+/project/term/, term, 2.3, An enhanced version of the tty module, 2019-02-08T17:01:32+0000
+/project/spambayes-lite/, spambayes-lite, 1.0.0b7, Bare-bones spam classification library based on a modified version of SpamBayes., 2015-08-20T13:06:02+0000
+/project/backports-socketpair/, backports.socketpair, 3.5.0.4, Python 2 support for socket.socketpair() on Windows, 2017-12-12T18:53:34+0000
+/project/aestools/, aestools, 0.1.1, AES tools (GCM weak key checker / safe key generator), 2016-01-09T12:02:13+0000
+/project/argdeclare/, argdeclare, 0.5.6, Argdeclare is a declarative argument configurator for python's argparse., 2013-07-31T16:53:08+0000
+/project/bucho/, bucho, 0.1.2, `bucho` is a package for exercises., 2012-06-13T06:22:24+0000
+/project/spacepy/, spacepy, 0.2.2, SpacePy: Tools for Space Science Applications, 2020-12-29T17:26:07+0000
+/project/jpath/, jpath, 1.6, Access nested dicts and lists using JSON-like path notation., 2018-01-22T14:46:15+0000
+/project/gf3/, gf3, 0.2.4, A package with lisp-like generic functions for python 3., 2019-08-06T19:33:44+0000
+/project/pyosreplace/, pyosreplace, 0.1, os.replace() backport for Python 2.x, 2013-11-05T15:15:26+0000
+/project/paw/, paw, 0.0.1, A python package than can be used as a model/template for writing, testing and deploying python packages., 2014-03-03T20:46:05+0000
+/project/pyotsu/, pyotsu, 0.0.3, Python Open Text Search Utility, 2013-04-12T17:03:05+0000
+/project/wordpress-package-manager/, Wordpress-Package-Manager, 0.9.2, A command-line tool for installing WordPress plugins, 2014-08-11T18:11:37+0000
+/project/pyidtech/, pyidtech, 0.1, read data from ID TECH credit card readers, 2013-10-07T16:52:28+0000
+/project/scmaccessplugin/, SCMAccessPlugin, 2.1, Trac plugin for SCM access control, 2010-10-28T17:28:31+0000
+/project/topsis-101703177/, topsis-101703177, 0.0.1, A topsis Package Project of UCS633, 2020-01-19T17:43:06+0000
+/project/zodict/, zodict, 1.9.3, zope.interface compliant ordered dictionary and zope.location aware node., 2010-07-08T13:05:09+0000
+/project/plumber/, plumber, 1.6, An alternative to mixin-based extension of classes., 2020-05-28T11:29:03+0000
+/project/selectors34/, selectors34, 1.2, Backport of the selectors module from Python 3.4., 2017-06-05T22:11:09+0000
+/project/pysonic3/, pysonic3, 0.0.1, libsonic bindings, 2020-07-21T09:20:53+0000
+/project/argparse2/, argparse2, 0.5.0-alpha1, Fork of Python's argparse to add features and simplify its code, 2014-11-29T09:26:41+0000
+/project/jrpc-utils/, JRPC-utils, 0.2.1, A set of useful classes and functions for working with JSON-RPC v.2.0, 2013-04-22T08:55:08+0000
+/project/pytwitter/, pytwitter, 0.5, python library for the twitter api, 2009-12-24T17:35:45+0000
+/project/python-afx/, python-afx, 0.1, AFX, 2008-05-09T07:09:51+0000
+/project/paypy/, PayPy, 0.6, Payment gateway API integration package, 2012-10-15T18:16:55+0000
+/project/windows-curses/, windows-curses, 2.2.0, Support for the standard curses module on Windows, 2020-11-04T01:53:06+0000
+/project/hammae/, hammae, 1.0.2, Python 3 compatible Pytohn 2 `hammae` Module., 2019-08-04T02:42:59+0000
+/project/geolang/, geolang, 0.2.2, Simple Georgian Language ToolKit, 2021-03-10T14:11:07+0000
+/project/prestaorm/, prestaorm, 0.0.4, Access to prestashop API using django similar ORM Syntax, 2015-07-23T11:23:25+0000
+/project/formatflowed/, formatflowed, 2.0.0, RFC 3676 format=flowed text processing, 2016-11-29T23:32:27+0000
+/project/regex20200220/, regex20200220, 2020.2.20.3, Alternative regular expression module, to replace re., 2020-06-30T06:58:26+0000
+/project/pentacle/, pentacle, 0.4, An O-O P2P RPC protocol and application framework., 2012-01-18T18:51:58+0000
+/project/outliers-101703296-thapar/, Outliers-101703296-thapar, 1.0.1, A row outlier removal Package Project of UCS633, 2020-02-13T14:06:04+0000
+/project/gradual/, gradual, 0.1.1, A package providing runtime semantics of Gradual Typing, 2012-10-23T23:55:51+0000
+/project/finance/, finance, 0.2502, finance - Financial Risk Calculations. Optimized for ease of use through class construction and operator overload, 2014-03-17T19:46:23+0000
+/project/pytonik-ip-vpn-checker/, pytonik-ip-vpn-checker, 1.0.6, pytonik IP and VPN checker Module checks visitors/audiences, proxy, sock, and VPN IP address, 2020-02-17T09:17:23+0000
+/project/texttools/, TextTools, 0.1, Text manipulation utilities, 2010-01-06T09:15:14+0000
+/project/hpitclient/, hpitclient, 0.36, Python Client Libraries for HPIT., 2014-11-13T15:37:57+0000
+/project/docutils/, docutils, 0.17.1, Docutils -- Python Documentation Utilities, 2021-04-17T14:13:24+0000
+/project/tarball-httpd/, tarball-httpd, 0.0.3, Simple http server, streaming directories as tarballs., 2020-08-24T17:46:59+0000
+/project/cygwinreg/, cygwinreg, 1.0, Windows registry access for the Cygwin toolkit, 2009-04-06T23:29:01+0000
+/project/tracmgmtutils/, TracMgmtUtils, 1.1, Utility functions for managing Trac instances, 2010-10-28T16:53:42+0000
+/project/distutils2-py3/, Distutils2-py3, 1.0a5.dev0, Python Packaging Library, 2012-10-25T15:43:05+0000
+/project/postmarkup/, postmarkup, 1.2.2, BBCode to (X)HTML rendering engine, 2015-02-15T11:58:36+0000
+/project/textwrap3/, textwrap3, 0.9.2, textwrap from Python 3.6 backport (plus a few tweaks), 2019-01-23T21:57:08+0000
+/project/infi-nose-logbook/, infi.nose_logbook, 1.0.1, Logbook integration for Nose, 2016-03-11T14:06:10+0000
+/project/pyfltk/, pyFltk, 1.3.5, This is a Python wrapper for the FLTK, 2020-12-18T18:39:41+0000
+/project/autograph/, autograph, 1.0.0, A Django application for managing signature/autograph data., 2013-06-08T10:04:52+0000
+/project/systematic/, systematic, 4.8.7, Sysadmin utility classes and scripts, 2019-09-26T01:11:44+0000
+/project/beautifulsoup/, BeautifulSoup, 3.2.2, Screen-scraping library, 2019-10-05T11:28:41+0000
+/project/zipfile38/, zipfile38, 0.0.3, Read and write ZIP files - backport of the zipfile module from Python 3.8, 2020-12-03T15:33:53+0000
+/project/classh/, classh, 0.093, Cluster Administrators' ssh Wrapper, 2009-12-16T04:47:29+0000
+/project/iniparse/, iniparse, 0.5, Accessing and Modifying INI files, 2020-01-29T14:12:32+0000
+/project/managesieve/, managesieve, 0.7.1, ManageSieve client library for remotely managing Sieve scripts, 2021-03-11T19:59:21+0000
+/project/plothicgenome/, plotHicGenome, 0.1.1, THis package was used for showing Hicproc or juicerbox matrix, 2020-11-17T14:24:12+0000
+/project/pymemfd/, pymemfd, 0.1, memfd_create interface for Linux, 2016-04-24T13:22:30+0000
+/project/typing-extensions/, typing-extensions, 3.7.4.3, Backported and Experimental Type Hints for Python 3.5+, 2020-08-23T16:44:06+0000
+/project/ltable/, ltable, 0.0.2, lite table, not depden on numpy or sqliteoperations,.. find, filter, group, sort, top, tail .., 2014-06-03T17:22:01+0000
+/project/goldsaxpersist/, GoldSaxPersist, 1.03, Storage Engine, storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:12:24+0000
+/project/futures/, futures, 3.3.0, Backport of the concurrent.futures package from Python 3, 2019-07-15T09:33:00+0000
+/project/fv-email/, fv_email, 0.9, Improved FormEncode e-mail validation, 2013-09-26T03:40:03+0000
+/project/dis3/, dis3, 0.1.3, Python 2.7 backport of the "dis" module from Python 3.5+, 2019-01-14T18:10:02+0000
+/project/premailer-cspw/, premailer_cspw, 1.2.2, Turns CSS blocks into style attributes, 2013-08-07T15:47:36+0000
+/project/topsis-101703296-thapar/, Topsis-101703296-thapar, 1.0.1, A topsis Package Project of UCS633, 2020-01-20T15:46:09+0000
+/project/rak-arth/, rak_arth, 1.5.4, it does arthimatical operations, 2017-01-20T09:21:11+0000
+/project/pywin32/, pywin32, 300, Python for Window Extensions, 2020-11-14T06:24:11+0000
+/project/innosetup/, innosetup, 0.6.9, distutils extension module - create an installer by InnoSetup., 2013-03-11T06:36:15+0000
+/project/nowfm/, nowfm, 0.0.21, nowfm is a library for get nowplaying track information from Last.fm., 2013-03-25T03:18:06+0000
+/project/python-skiplist/, python-skiplist, 0.1, SortedSet and SortedDict implementation by using skiplist, 2014-11-16T18:11:41+0000
+/project/regpath/, regpath, 0.1.0, regpath - pathlib and winreg, 2015-12-22T09:34:35+0000
+/project/pycifrw/, PyCifRW, 4.4.2, CIF/STAR file support for Python, 2020-11-10T04:44:37+0000
+/project/kmd/, kmd, 2.3, An interpreter framework, 2019-03-20T08:17:44+0000
+/project/inspectshow/, inspectshow, 1.2, show module internals and corresponding class internals in tree format, 2017-11-21T23:24:34+0000
+/project/metapensiero-odt2sphinx/, metapensiero.odt2sphinx, 2.11, An OpenDocument to reStructuredText/Sphinx converter., 2015-11-28T11:19:37+0000
+/project/tmeasures/, tmeasures, 0.1a0, Invariance, Same-Equivariance and other measures for Neural Networks. Support for PyTorch (now) and TensorFlow (coming)., 2020-11-30T15:13:29+0000
+/project/outlier-101703291-thapar/, outlier-101703291-thapar, 1.0.1, A outlier Package Project of UCS633, 2020-02-13T14:04:56+0000
+/project/crypto-futures-py/, crypto-futures-py, 0.4.3, The Python library of different implementations for exchange interface of cryptocurrency futures trading. Includes Bitmex and Binance Futures., 2020-09-02T14:15:02+0000
+/project/distutils-strtobool/, distutils-strtobool, 0.1.0, distutils.utils.strtobool, 2019-05-24T03:19:35+0000
+/project/pyidtech/, pyidtech, 0.1, read data from ID TECH credit card readers, 2013-10-07T16:52:28+0000
+/project/scmaccessplugin/, SCMAccessPlugin, 2.1, Trac plugin for SCM access control, 2010-10-28T17:28:31+0000
+/project/topsis-101703177/, topsis-101703177, 0.0.1, A topsis Package Project of UCS633, 2020-01-19T17:43:06+0000
+/project/zodict/, zodict, 1.9.3, zope.interface compliant ordered dictionary and zope.location aware node., 2010-07-08T13:05:09+0000
+/project/plumber/, plumber, 1.6, An alternative to mixin-based extension of classes., 2020-05-28T11:29:03+0000
+/project/selectors34/, selectors34, 1.2, Backport of the selectors module from Python 3.4., 2017-06-05T22:11:09+0000
+/project/pysonic3/, pysonic3, 0.0.1, libsonic bindings, 2020-07-21T09:20:53+0000
+/project/argparse2/, argparse2, 0.5.0-alpha1, Fork of Python's argparse to add features and simplify its code, 2014-11-29T09:26:41+0000
+/project/jrpc-utils/, JRPC-utils, 0.2.1, A set of useful classes and functions for working with JSON-RPC v.2.0, 2013-04-22T08:55:08+0000
+/project/pytwitter/, pytwitter, 0.5, python library for the twitter api, 2009-12-24T17:35:45+0000
+/project/python-afx/, python-afx, 0.1, AFX, 2008-05-09T07:09:51+0000
+/project/paypy/, PayPy, 0.6, Payment gateway API integration package, 2012-10-15T18:16:55+0000
+/project/windows-curses/, windows-curses, 2.2.0, Support for the standard curses module on Windows, 2020-11-04T01:53:06+0000
+/project/hammae/, hammae, 1.0.2, Python 3 compatible Pytohn 2 `hammae` Module., 2019-08-04T02:42:59+0000
+/project/geolang/, geolang, 0.2.2, Simple Georgian Language ToolKit, 2021-03-10T14:11:07+0000
+/project/prestaorm/, prestaorm, 0.0.4, Access to prestashop API using django similar ORM Syntax, 2015-07-23T11:23:25+0000
+/project/formatflowed/, formatflowed, 2.0.0, RFC 3676 format=flowed text processing, 2016-11-29T23:32:27+0000
+/project/regex20200220/, regex20200220, 2020.2.20.3, Alternative regular expression module, to replace re., 2020-06-30T06:58:26+0000
+/project/pentacle/, pentacle, 0.4, An O-O P2P RPC protocol and application framework., 2012-01-18T18:51:58+0000
+/project/outliers-101703296-thapar/, Outliers-101703296-thapar, 1.0.1, A row outlier removal Package Project of UCS633, 2020-02-13T14:06:04+0000
+/project/mocker/, mocker, 1.1.1, Graceful platform for test doubles in Python (mocks, stubs, fakes, and dummies)., 2012-05-25T01:57:53+0000
+/project/passpredict/, passpredict, 0.0.11, Predict upcoming satellite overpasses, 2020-09-02T14:03:37+0000
+/project/addhrefs/, addhrefs, 0.9.7, Adds HTML links to text, 2009-05-07T14:39:50+0000
+/project/dioc/, dioc, 0.1.1, `dioc` is a package for DigitalOcean., 2018-01-06T11:24:56+0000
+/project/email-backport/, email_backport, 4.0.3b3, A backport of the newest Python 2.x email module to >= Python 2.3, 2012-04-24T09:19:56+0000
+/project/clickhouse/, clickhouse, 0.1.7, A Python library for working with the ClickHouse database, 2018-01-29T19:37:44+0000
+/project/archery/, archery, 1.2.2, Traits (Mixins) to give +,/,-,* to MutableMapping, 2018-11-01T13:12:54+0000
+/project/fsqueue/, FsQueue, 1.2, Elastic queue based on filesystem., 2011-04-14T07:19:57+0000
+/project/exams/, ExAMS, 0.4, Package to implement analysis on data from multiple replicas of molecular simulation, producing visual outputs., 2015-09-11T15:26:24+0000
+/project/blockdiagcontrib-excelshape/, blockdiagcontrib-excelshape, 0.1.0, imagedrawer plugin for blockdiag, 2012-11-25T12:49:31+0000
+/project/infi-dtypes-wwn/, infi.dtypes.wwn, 0.1.1, Datatype for WWN, 2015-08-25T11:59:12+0000
+/project/py-postgresql/, py-postgresql, 1.2.2, PostgreSQL driver and tools library., 2020-09-25T21:22:24+0000
+/project/infi-ramen-client/, infi.ramen-client, 1.40.post3, A client library for sending data to Ramen., 2020-07-02T11:58:13+0000
+/project/reflex/, reflex, 0.1, A lightweight regex-based lexical scanner library., 2005-12-26T01:18:31+0000
+/project/hellovivianas9244/, Hellovivianas9244, 0.1, This is my project, 2019-11-26T01:09:03+0000
+/project/deform-foundation/, deform_foundation, 0.5.10, A template package for deform that uses Foundation, 2014-01-23T17:31:54+0000
+/project/epistasim-windows/, EpistaSim_Windows, 1.1.0, Epistasis simulator of SNP pattern in Windows, 2015-07-22T06:16:23+0000
+/project/gradual/, gradual, 0.1.1, A package providing runtime semantics of Gradual Typing, 2012-10-23T23:55:51+0000
+/project/pytonik-ip-vpn-checker/, pytonik-ip-vpn-checker, 1.0.6, pytonik IP and VPN checker Module checks visitors/audiences, proxy, sock, and VPN IP address, 2020-02-17T09:17:23+0000
+/project/hpitclient/, hpitclient, 0.36, Python Client Libraries for HPIT., 2014-11-13T15:37:57+0000
+/project/docutils/, docutils, 0.17.1, Docutils -- Python Documentation Utilities, 2021-04-17T14:13:24+0000
+/project/tarball-httpd/, tarball-httpd, 0.0.3, Simple http server, streaming directories as tarballs., 2020-08-24T17:46:59+0000
+/project/cygwinreg/, cygwinreg, 1.0, Windows registry access for the Cygwin toolkit, 2009-04-06T23:29:01+0000
+/project/tracmgmtutils/, TracMgmtUtils, 1.1, Utility functions for managing Trac instances, 2010-10-28T16:53:42+0000
+/project/distutils2-py3/, Distutils2-py3, 1.0a5.dev0, Python Packaging Library, 2012-10-25T15:43:05+0000
+/project/postmarkup/, postmarkup, 1.2.2, BBCode to (X)HTML rendering engine, 2015-02-15T11:58:36+0000
+/project/textwrap3/, textwrap3, 0.9.2, textwrap from Python 3.6 backport (plus a few tweaks), 2019-01-23T21:57:08+0000
+/project/infi-nose-logbook/, infi.nose_logbook, 1.0.1, Logbook integration for Nose, 2016-03-11T14:06:10+0000
+/project/pyfltk/, pyFltk, 1.3.5, This is a Python wrapper for the FLTK, 2020-12-18T18:39:41+0000
+/project/autograph/, autograph, 1.0.0, A Django application for managing signature/autograph data., 2013-06-08T10:04:52+0000
+/project/systematic/, systematic, 4.8.7, Sysadmin utility classes and scripts, 2019-09-26T01:11:44+0000
+/project/beautifulsoup/, BeautifulSoup, 3.2.2, Screen-scraping library, 2019-10-05T11:28:41+0000
+/project/zipfile38/, zipfile38, 0.0.3, Read and write ZIP files - backport of the zipfile module from Python 3.8, 2020-12-03T15:33:53+0000
+/project/classh/, classh, 0.093, Cluster Administrators' ssh Wrapper, 2009-12-16T04:47:29+0000
+/project/iniparse/, iniparse, 0.5, Accessing and Modifying INI files, 2020-01-29T14:12:32+0000
+/project/managesieve/, managesieve, 0.7.1, ManageSieve client library for remotely managing Sieve scripts, 2021-03-11T19:59:21+0000
+/project/plothicgenome/, plotHicGenome, 0.1.1, THis package was used for showing Hicproc or juicerbox matrix, 2020-11-17T14:24:12+0000
+/project/pymemfd/, pymemfd, 0.1, memfd_create interface for Linux, 2016-04-24T13:22:30+0000
+/project/cx-freeze/, cx-Freeze, 6.6, Create standalone executables from Python scripts, 2021-04-14T09:48:47+0000
+/project/goldsaxgethighlow/, GoldSaxGetHighLow, 1.03, Auto retrieve historical data for analytics to the GoldSaxEngine-****Markets. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:11:10+0000
+/project/pysha3/, pysha3, 1.0.2, SHA-3 (Keccak) for Python 2.7 - 3.5, 2017-02-05T16:42:07+0000
+/project/miros/, miros, 4.2.1, A statechart library for Python, 2020-01-02T14:14:07+0000
+/project/lmtpd/, lmtpd, 6.2.0, A LMTP server class, 2020-07-05T05:10:01+0000
+/project/outlier-101703363-thapar/, outlier-101703363-thapar, 1.0.1, A outlier Package Project of UCS633, 2020-02-13T15:45:04+0000
+/project/hmac/, hmac, 20101005, HMAC (Keyed-Hashing for Message Authentication) Python module., 2010-10-05T20:08:06+0000
+/project/cellmethy/, CellMethy, 1.2.0, Identifying focal full methylation of cell subpopulation and inferring fraction, 2014-09-29T04:56:16+0000
+/project/idle2html/, IDLE2HTML, 0.2, This extension saves the contents of your IDLE shell or editor window as XHTML, 2007-06-14T07:41:02+0000
+/project/snpfc/, snpfc, 1.0.0, , 2019-04-01T13:42:40+0000
+/project/bitarray-ph4/, bitarray-ph4, 1.9.1, efficient arrays of booleans -- C extension, 2021-04-01T11:53:14+0000
+/project/fixedint/, fixedint, 0.1.6, simple fixed-width integers, 2020-06-20T22:14:14+0000
+/project/pystick/, pystick, 0.1.6, embeddable python for the masses, 2017-06-11T09:41:24+0000
+/project/schema2rst/, schema2rst, 0.9.0, schema2rst generates reST doc from database schema, 2013-12-11T07:13:51+0000
+/project/ndblite/, ndblite, 0.1.1, Quick Corp ndblite, 2018-01-09T15:58:13+0000
+/project/selectors2/, selectors2, 2.0.2, Back-ported, durable, and portable selectors, 2020-07-21T22:40:20+0000
+/project/gunicorn-service/, gunicorn-service, 0.0.3, let gunicorn easy install as a service, 2014-07-11T09:37:04+0000
+/project/emeraldtree/, emeraldtree, 0.10.0, EmeraldTree - a light-weight XML object model for Python., 2015-06-09T23:20:22+0000
+/project/namedout/, namedout, 1.1, write values (and their names) to stdout in python script, 2014-11-12T12:34:35+0000
+/project/datconv/, datconv, 0.8.2, Universal data converter - pandoc for data; XML, CSV, JSON are supported, 2019-12-29T00:16:58+0000
+/project/drippy/, drippy, 0.3.1, Nose plugin for finding tempfile leaks, 2014-03-31T15:13:23+0000
+/project/term/, term, 2.3, An enhanced version of the tty module, 2019-02-08T17:01:32+0000
+/project/spambayes-lite/, spambayes-lite, 1.0.0b7, Bare-bones spam classification library based on a modified version of SpamBayes., 2015-08-20T13:06:02+0000
+/project/backports-socketpair/, backports.socketpair, 3.5.0.4, Python 2 support for socket.socketpair() on Windows, 2017-12-12T18:53:34+0000
+/project/aestools/, aestools, 0.1.1, AES tools (GCM weak key checker / safe key generator), 2016-01-09T12:02:13+0000
+/project/spacepy/, spacepy, 0.2.2, SpacePy: Tools for Space Science Applications, 2020-12-29T17:26:07+0000
+/project/objproxies/, objproxies, 0.9.4, General purpose proxy and wrapper types, 2015-07-24T05:54:45+0000
+/project/argdeclare/, argdeclare, 0.5.6, Argdeclare is a declarative argument configurator for python's argparse., 2013-07-31T16:53:08+0000
+/project/bucho/, bucho, 0.1.2, `bucho` is a package for exercises., 2012-06-13T06:22:24+0000
+/project/jpath/, jpath, 1.6, Access nested dicts and lists using JSON-like path notation., 2018-01-22T14:46:15+0000
+/project/gf3/, gf3, 0.2.4, A package with lisp-like generic functions for python 3., 2019-08-06T19:33:44+0000
+/project/pyosreplace/, pyosreplace, 0.1, os.replace() backport for Python 2.x, 2013-11-05T15:15:26+0000
+/project/paw/, paw, 0.0.1, A python package than can be used as a model/template for writing, testing and deploying python packages., 2014-03-03T20:46:05+0000
+/project/pyotsu/, pyotsu, 0.0.3, Python Open Text Search Utility, 2013-04-12T17:03:05+0000
+/project/wordpress-package-manager/, Wordpress-Package-Manager, 0.9.2, A command-line tool for installing WordPress plugins, 2014-08-11T18:11:37+0000
+/project/pyedgeworthbox/, pyEdgeworthBox, 0.1.1, Python Library to draw the Edgeworth box and calculate equilibrium, core, pareto efficient allocations etc, 2020-03-02T22:01:01+0000
+/project/pytonik-time-ago/, pytonik-time-ago, 0.2.0, pytonik date and time ago readable format, 2019-11-19T04:58:33+0000
+/project/editorconfig/, EditorConfig, 0.12.3, EditorConfig File Locator and Interpreter for Python, 2020-12-23T04:22:49+0000
+/project/tet-fanstatic/, tet.fanstatic, 0.1, Fanstatic integration for tet, 2015-09-06T13:33:32+0000
+/project/epistasim-linux/, EpistaSim_Linux, 1.1.0, Epistasis simulator of SNP patterns in Linux, 2015-07-22T06:23:56+0000
+/project/aws-adfs/, aws-adfs, 1.24.5, AWS Cli authenticator via ADFS - small command-line tool to authenticate via ADFS and assume chosen role, 2020-10-17T12:22:52+0000
+/project/wshook/, wshook, 0.0.4, wshook provide an easy way to deploy your docker containers on a VPS., 2020-01-20T03:00:01+0000
+/project/pprint-ordered-sets/, pprint-ordered-sets, 1.0.0, The standard library pprint module, but sets are always ordered., 2020-11-08T22:49:34+0000
+/project/dutest/, dutest, 0.2.4, An object-oriented API to test doctests using unittest runners., 2012-12-16T04:13:45+0000
+/project/pyxurrency/, pyXurrency, 0.0.1, A Python interface to the Xurrency API, 2011-03-01T03:00:37+0000
+/project/scrapycw/, scrapycw, 0.3.0, 一个web监控scrapy的工具, 2020-02-09T13:25:38+0000
+/project/survol/, survol, 1.0.31, Exploring legacy IT systems, 2020-11-26T07:29:40+0000
+/project/python-pgsql/, python-pgsql, 0.9.7, PostgreSQL bindings for Python w/ bind parameters support, 2008-02-11T22:21:15+0000
+/project/pdb2py/, pdb2py, 1.3, Read a pdb file and return a dictionary, 2020-09-11T17:56:11+0000
+/project/backport-importlib/, backport_importlib, 0...1, A script to backport the full importlib to 2.x, 2011-07-16T07:28:34+0000
+/project/oodi/, oodi, 1.0, python tools to manage music libraries and files, 2019-07-13T07:20:30+0000
+/project/paginate-wrapper/, paginate_wrapper, 0.1.5, minimal pagination, 2014-06-28T13:31:13+0000
+/project/spambayes/, spambayes, 1.1b3, Spam classification system, 2017-11-23T18:26:57+0000
+/project/indexed/, indexed, 1.2.0, A dictionary that is indexed by insertion order., 2020-07-03T14:19:27+0000
+/project/seven/, seven, 1.0.0, Python 2.5 compatibility wrapper for Python 2.7 code., 2012-02-04T19:22:50+0000
+/project/cpytraceafl-regex/, cpytraceafl-regex, 0.2.0, A modified version of mrab-regex with added cpytraceafl instrumentation, 2020-06-19T21:34:20+0000
+/project/pyip/, pyip, 0.7, pyip: assemble/disassemble raw ip packet, 2006-11-29T03:04:34+0000
+/project/seoanalyzer/, SeoAnalyzer, 0.0.1, SEO Analysis Package, 2012-02-08T00:23:55+0000
+/project/gof/, gof, 0.1.3, a little fun with Conway's Game Of Life, 2020-04-02T14:18:31+0000
+/project/blockdiagcontrib-qb/, blockdiagcontrib-qb, 0.1.3, noderenderer plugin for blockdiag, 2011-11-01T05:12:04+0000
+/project/urlpath/, urlpath, 1.1.7, Object-oriented URL from `urllib.parse` and `pathlib`, 2020-06-23T23:10:58+0000
+/project/resaspy/, resaspy, 0.2.1, python for RESAS API., 2017-05-10T14:19:28+0000
+/project/yafowil-documentation/, yafowil.documentation, 2.1, Documentation of YAFOWIL - Yet Another Form Widget Library, 2015-01-23T16:17:59+0000
+/project/read-only-property/, read-only-property, 0.1, Create class properties which can't be changed., 2017-04-20T16:18:27+0000
+/project/python3-memcached/, python3-memcached, 1.51, Pure python memcached client, 2013-05-11T21:35:10+0000
+/project/ttgmodhello/, ttgmodhello, 0.1.3, This is an Example Package, 2019-11-26T21:50:32+0000
+/project/django-sape/, django-sape, 0.2.4, Django + sape.ru., 2013-06-10T13:18:15+0000
+/project/hashlib/, hashlib, 20081119, Secure hash and message digest algorithm library, 2009-07-03T17:19:08+0000
+/project/s3sourcedependencies/, s3sourcedependencies, 0.1, Download and install from private source distributions hosted on Amazon S3., 2012-01-23T17:11:54+0000
+/project/codecryptor/, CodeCryptor, 0.0.1, A Python Module for the encryption of code modules, 2020-06-11T14:49:29+0000
+/project/futures3/, futures3, 1.0.0, The latest version for concurrent.futures package from Python 3, 2019-09-10T21:56:27+0000
+/project/traceback2/, traceback2, 1.4.0, Backports of the traceback module, 2015-03-09T06:57:26+0000
+/project/pollinotify/, pollinotify, 1.2, inotify wrapper providing polling with timeout for specified filesystem events, 2017-12-25T05:09:30+0000
+/project/zipfile36/, zipfile36, 0.1.3, Read and write ZIP files - backport of the zipfile module from Python 3.6, 2016-10-16T13:08:59+0000
+/project/blockdiagcontrib-square/, blockdiagcontrib-square, 0.1.3, noderenderer plugin for blockdiag, 2011-11-20T15:35:07+0000
+/project/subprocess32/, subprocess32, 3.5.4, A backport of the subprocess module from Python 3 for use on 2.x., 2019-05-20T22:14:16+0000
+/project/pooled-processmixin/, pooled-ProcessMixIn, 0.0.1, A Pool of processes and threads Mix-in for socketserver., 2019-03-09T18:41:10+0000
+/project/backports-weakref/, backports.weakref, 1.0.post1, Backport of new features in Python's weakref module, 2017-09-17T20:58:21+0000
+/project/backports-ssl-match-hostname/, backports.ssl_match_hostname, 3.7.0.1, The ssl.match_hostname() function from Python 3.5, 2019-01-12T22:25:58+0000
+/project/mobypy/, mobypy, 1.0.2, Python module for searching the Moby thesaurus, 2019-09-23T19:48:19+0000
+/project/sendkeys/, SendKeys, 0.3, An implementation of Visual Basic's SendKeys function, 2003-06-16T17:35:00+0000
+/project/infi-dnssimple/, infi.dnssimple, 0.0.7, dnssimple utils, 2018-12-10T15:00:50+0000
+/project/moipy/, MoIPy, 0.1, Basic integration with MoIP payment gateway, 2010-12-09T14:11:15+0000
+/project/python-daemon-3k/, python-daemon-3K, 1.5.8, Library to implement a well-behaved Unix daemon process.
+   This is a fork of "python-daemon" to support Python 3.x, 2014-09-25T14:36:16+0000
+/project/legacycrypt/, legacycrypt, 0.3, Wrapper to the POSIX crypt library call and associated functionality., 2019-05-28T09:07:04+0000
+/project/partiell/, partiell, 0.0.1, Partial function application with '...', 2020-01-09T01:10:39+0000
+/project/sleipnir-testing/, sleipnir.testing, 0.1rc7, Sleipnir Testing Framework, 2011-04-05T16:01:11+0000
+/project/pypi-switcher/, pypi_switcher, 0.1, a script for switching between pypi servers, 2013-09-14T09:42:21+0000
+/project/rum-docs-theme/, rum-docs-theme, 2020.6, The Sphinx theme for Rum docs and related projects, 2020-06-11T13:38:37+0000
+/project/ptyng/, ptyng, 0.3.3.post1, Pseudo-terminal utilities., 2019-03-03T03:20:46+0000
+/project/quickcloud/, quickcloud, 0.1.3, Cloud Manager of QuickCorp, 2018-03-25T22:29:04+0000
+/project/compileall2/, compileall2, 0.7.2, Enhanced Python `compileall` module, 2020-12-08T15:59:22+0000
+/project/cctv-analysis/, cctv-analysis, 0.0.2, A ready-to-use server to analyse cctv feeds. Pip install, boot up server, and make requests to analyse videos., 2021-04-06T13:57:17+0000
+/project/inflector/, Inflector, 3.0.1, Inflector for Python, 2019-10-29T17:11:00+0000
+/project/buildout-locallib/, buildout.locallib, 0.3.1, buildout.locallib use egg-packages installed on site-packages folder., 2013-08-18T14:02:29+0000
+/project/backports-functools-partialmethod/, backports.functools_partialmethod, 3.5.1.0, Backport of functools.partialmethod from Python 3.5.1., 2016-03-04T06:30:52+0000
+/project/riakc/, riakc, 0.3.7, A simple riak commandline client, 2011-08-19T01:53:26+0000
+/project/watcher/, watcher, 0.2.1, FileSystemWatcher clone for CPython, 2011-02-25T20:19:43+0000
+/project/linecache2/, linecache2, 1.0.0, Backports of the linecache module, 2015-03-06T01:33:29+0000
+/project/topsis-101703525-thapar/, Topsis-101703525-thapar, 1.0.1, A topsis Package Project of UCS633, 2020-02-16T14:39:43+0000
+/project/eggtestinfo/, eggtestinfo, 0.3, Add test information to .egg-info, 2011-03-10T19:55:14+0000
+/project/tracebackturbo3/, tracebackturbo3, 0.3, Patched version of traceback, also dumps local and global scope vars., 2018-12-18T13:52:56+0000
+/project/htmlcssinclude/, HtmlCssInclude, 0.1.2, HtmlCssInclude convert css to inline style for mobile, 2011-03-30T07:53:07+0000
+/project/goldsaxcreatetablesgfinance/, GoldSaxCreateTablesGFinance, 1.04, Auto Createe Tablesppaces in Sqlite3 To retrieve Capital Market quotes directly into an sqlite Database. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:10:47+0000
+/project/topsis-ucs633/, Topsis-UCS633, 1.0.1, A topsis Package Project of UCS633, 2020-01-19T16:47:06+0000
+/project/django-haml/, django_haml, 1.0, A HAML pre-processor for Django 1.3 and Django 1.4, 2012-07-25T05:21:14+0000
+/project/py2chainmap/, Py2ChainMap, 0.1.0, A backport of ChainMap from Python 3 to Python 2., 2014-04-21T03:11:28+0000
+/project/cerealizer/, Cerealizer, 0.8.3, A secure pickle-like module, 2018-11-23T13:32:06+0000
+/project/random2/, random2, 1.0.1, Python 3 compatible Pytohn 2 `random` Module., 2013-03-15T12:26:26+0000
+/project/goldsaxgfinancequote/, GoldSaxGFinanceQuote, 1.22, Auto aggregation, parsing of FIXML, FPML, XML, Json, FIX messages realtime data for storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:11:35+0000
+/project/metaclass/, metaclass, 1.3, Useful baseclasses for metaclasses, 2016-02-05T14:05:59+0000
+/project/helloworldwcy/, HelloWorldWcy, 0.1, This is an Example Package, 2020-05-18T12:41:17+0000
+/project/backports-pbkdf2/, backports.pbkdf2, 0.1, Fast PBKDF2 for Python 2.6 - 3.4, 2013-10-19T13:55:05+0000
+/project/mlak/, mlak, 0.0.0, Machine Learning Army Knife, 2018-01-29T16:26:54+0000
+/project/python-echo-streamserver/, python-echo-streamserver, 0.84, Echo StreamServer API Client, 2015-01-24T05:25:15+0000
+/project/goldsaxlivequotemachine/, GoldSaxLiveQuoteMachine, 1.24, Orchestration Engine, parsing of FIXML, FPML, XML, Json, FIX messages realtime data for storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:11:58+0000
+/project/backports-shutil-which/, backports.shutil_which, 3.5.2, Backport of shutil.which from Python 3.3, 2018-11-15T10:32:22+0000
+/project/pyevolve/, Pyevolve, 0.5, A complete python genetic algorithm framework, 2009-01-22T01:04:11+0000
+/project/gnsstime/, gnsstime, 0.0.9, Extended datetime for the gnss analysis., 2021-04-25T02:00:39+0000
+/project/plumstats/, plumstats, 2.0.8, UNKNOWN, 2014-08-14T19:55:29+0000
+/project/pyspf/, pyspf, 2.0.14, SPF (Sender Policy Framework) implemented in Python., 2020-01-02T02:54:37+0000
+/project/zipfile2/, zipfile2, 0.0.12, An improved ZipFile class., 2016-03-22T21:08:22+0000
+/project/blockdiagcontrib-class/, blockdiagcontrib-class, 0.1.3, noderenderer plugin for blockdiag, 2011-11-20T15:40:21+0000
+/project/functional/, functional, 0.7.0, Tools for functional programming in python, 2006-07-31T21:51:33+0000
+/project/runpy2/, runpy2, 2.5, A package that supports runpy functionality for Python 2.4, 2010-07-09T13:12:29+0000
+/project/mypulp/, mypulp, 0.0.11, `mypulp` is a package for mypulp., 2020-09-06T07:03:34+0000
+/project/ooop/, ooop, 0.2.3, OpenObject on Python, a library to connect with Open ERP., 2012-09-18T16:03:41+0000
+/project/backport-ipaddress/, backport_ipaddress, 0.1, Backport of Python 3's ipaddress module, 2014-09-01T09:49:45+0000
+/project/copads/, copads, 0.5.1, Collection of Python Algorithms and Data Structures, 2017-09-27T07:24:20+0000
+/project/stabledict/, StableDict, 0.2, A dict subclass which remembers insertion order, 2007-08-28T12:12:32+0000
+/project/pyalsaaudio/, pyalsaaudio, 0.9.0, ALSA bindings, 2020-07-13T20:09:32+0000
+/project/receptacle/, receptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-05T16:54:13+0000
+/project/cookiestxt/, cookiestxt, 0.4, A version of MozillaCookieJar that works with curl/wget, 2018-06-15T18:54:54+0000
+/project/xzip/, xzip, 0.10, E[x]ploded zip file system in FUSE, 2012-05-02T21:05:15+0000
+/project/eventpython/, EventPython, 0.0.1, Event support for Python., 2020-12-04T07:32:57+0000
+/project/lostruct/, lostruct, 0.0.4, Re-implementation of lostruct in Python, used to compare local population structure across populations., 2020-08-26T03:37:19+0000
+/project/distlib/, distlib, 0.3.1, Distribution utilities, 2020-06-27T21:00:33+0000
+/project/wincertstore/, wincertstore, 0.2, Python module to extract CA and CRL certs from Windows' cert store (ctypes based)., 2014-02-26T11:42:04+0000
+/project/rings/, rings, 0.7.3, Procedures to handle coherent vortexes in the ocean, 2013-03-05T16:15:29+0000
+/project/pymacadmin/, PyMacAdmin, 1.0, Python tools for Mac administration, 2009-06-08T03:04:03+0000
+/project/afpy-xap/, afpy.xap, 0.1, afpy xapian indexer package, 2008-09-27T18:20:31+0000
+/project/gns3-cx-freeze/, gns3_cx_Freeze, 4.3.6, Temporary fork of cx_Freeze 4.x with Python 3.5 support., 2016-09-12T19:06:38+0000
+/project/katagami/, katagami, 2.0.1, katagami: a simple xml/html template library, 2014-03-10T16:58:03+0000
+/project/vbcode/, vbcode, 0.2.0, Variable byte codes, 2017-10-28T14:37:48+0000
+/project/infi-nose-html-output/, infi.nose_html_output, 0.1.18, HTML Plugin for Nose, 2014-06-19T12:13:47+0000
+/project/pyfastcopy/, pyfastcopy, 1.0.3, Speed up shutil.copyfile by using sendfile system call, 2018-05-20T20:58:32+0000
+/project/fallocate/, fallocate, 1.6.4, Module to expose posix_fallocate(3), posix_fadvise(3) and fallocate(2), 2018-09-28T15:22:23+0000
+/project/uxml2object/, uxml2object, 0.1, Quick Corp uXML2Object, 2017-08-04T16:21:23+0000
+/project/pathlib-tree/, pathlib-tree, 1.0.2, Filesystem tree utilities, 2020-12-17T12:06:53+0000
+/project/shelve2/, shelve2, 1.0, Persistent dictionary with modular serialiser support, 2013-03-01T16:07:10+0000
+/project/fise-client/, fise.client, 1.1, Apache Stanbol FISE: RESTful Python Client., 2011-06-07T14:09:40+0000
+/project/chainmap/, chainmap, 1.0.3, Backport/clone of ChainMap for py26, py32, and pypy3., 2019-03-14T16:31:21+0000
+/project/goldsaxengineinitialize/, GoldSaxEngineInitialize, 1.033, Initializer for the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:12:49+0000
+/project/buildout-packager/, buildout.packager, 0.0.1dev-r662, buildout.packager generate installer from setup.py and buildout.cfg files., 2010-04-10T09:43:49+0000
+/project/pyst/, pyst, 0.8, A Python Interface to Asterisk, 2020-12-04T10:42:35+0000
+/project/lxml-element-maker/, lxml-element-maker, 1.0.1, Transforms a python structure to an xml element with lxml, 2016-11-21T09:12:33+0000
+/project/backlogapi/, backlogapi, 0.1.5, Backlog client library for Python, 2018-05-15T03:47:01+0000
+/project/check-arg/, check_arg, 0.1.3, wrapping decorator to enhance the documentation, 2012-12-16T00:22:47+0000
+/project/shortie/, shortie, 0.2, python library for the short.ie api, 2009-02-19T01:11:00+0000
+/project/tracebackturbo/, tracebackturbo, 0.3, Patched version of traceback, also dumps local and global scope vars., 2018-12-18T13:55:50+0000
+/project/tb-api/, tb-api, 1.0.9, Simple Flask API, 2017-01-04T00:13:10+0000
+/project/pooledprocessmixin/, PooledProcessMixIn, 0.0.2, A Pool of processes and threads Mix-in for socketserver., 2012-08-10T20:23:40+0000
+/project/pybufr/, PyBUFR, 0.4, Pure Python library to encode and decode BUFR., 2012-05-02T14:12:40+0000
+/project/blockdiagcontrib-nationalflags/, blockdiagcontrib-nationalflags, 0.1.6, noderenderer plugin for blockdiag, 2014-06-11T15:54:45+0000
+/project/maud/, maud, 0.9.2, Moving Average for Uneven Data, 2014-10-16T18:06:05+0000
+/project/topsis-101703363-thapar/, Topsis-101703363-thapar, 1.0.1, A topsis Package Project of UCS633, 2020-02-13T15:39:59+0000
+/project/gsyslog/, gsyslog, 0.10, George application logger similar to syslog, 2018-03-28T18:32:57+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/tiffany/, tiffany, 0.6.7, Tiffany -- read/write/arrange any multi-page Tiff, any compression, 2015-01-28T20:19:12+0000
+/project/jepler-circuitpython-udecimal/, jepler-circuitpython-udecimal, 1.0.2, Reduced version of the decimal library for CircuitPython, 2021-02-14T15:00:42+0000
+/project/lieparse/, lieparse, 1.1.0, HTML parser ant text retriever using user defined rule set, 2020-03-02T22:02:25+0000
+/project/matplotlib/, matplotlib, 3.4.1, Python plotting package, 2021-03-31T08:18:10+0000
+/project/pytunes/, pytunes, 13.0.2, iTunes / Music CLI control and python API, 2019-07-13T07:22:32+0000
+/project/pyramid-di/, pyramid-di, 0.4.1, Dependency injection stuff for Pyramid, 2021-03-19T13:01:52+0000
+/project/pytorify/, pyTorify, 1.0, Torify python scripts, 2016-09-29T09:42:47+0000
+/project/singledispatchmethod/, singledispatchmethod, 1.0, Backport of @functools.singledispatchmethod to Python 2.7-3.7., 2019-08-12T07:28:17+0000
+/project/txloadbalancer/, txLoadBalancer, 1.1.0, txLoadBalancer - A Twisted-based TCP load balancer., 2008-07-05T08:53:25+0000
+/project/python-docs-theme-technopathy/, python-docs-theme-technopathy, 0.7.11, A responsive sphinx theme for github pages based on python-docs-theme, 2021-04-03T23:54:31+0000
+/project/lostruct-py/, lostruct-py, 0.0.3, Re-implementation of lostruct in Python, used to compare local population structure across populations., 2020-08-24T09:30:05+0000
+/project/neon/, neon, 0.1.2, colorful cui utility, 2011-12-10T13:20:12+0000
+/project/wareweb/, Wareweb, 0.3, A web framework; a next generation evolution from Webware/WebKit's servlet model, 2006-10-22T21:19:02+0000
+/project/kwattr/, kwattr, 2.0, decorator: make keywords arguments of bool values from function attributes, 2011-08-01T17:11:56+0000
+/project/jira-ohsofancy/, jira-ohsofancy, 0.4, Jira getting a facelift via the command line, 2019-12-17T22:06:54+0000
+/project/stackfull/, stackfull, 1.0.0, Tools for stack-usage in Python expressions, 2018-11-29T01:28:33+0000
+/project/json-conf-autoref/, json-conf-autoref, 0.1.51, JSON config parser with variable reference's handler, 2020-12-13T19:06:29+0000
+/project/volumeutil/, volumeutil, 1.1.0, A small utility for mount/unmount volume in Windows., 2012-04-13T14:33:40+0000
+/project/vcard-split/, vcard_split, 0.2dev-r2010, Splits one vcard file (*.vcf) to many vcard files        with one vcard per file. Useful for import contacts to phones,         thats do not support multiple vcard in one file.         Supprt unicode cyrillic characters.         Консольная программа для разбиения одного большлго файла с контактами в формате VCARD (*.vcf)        на несколько файлов содержащих один контакт. Полезна для импорта контактов в телефон,        который не поддерживает несколько контактов в одном файле. Поддерживает русские буквы кириллицу в тексте контактов.        Работоспособность проверялась на файле с контактами экспортированными из google gmail.com.         Установка вариант 1: скачать, распаковать, в папке запустить "python setup.py install".         Использование вариант 1: python vcard_split.py [-h] [-l LOG_LEVEL] [-d] filename [filename ...] например "python vcard_split.py contacts.vcf"        Установка вариант 2: "easy_install -U vcard_split".         Использование вариант 2: vcard_split [-h] [-l LOG_LEVEL] [-d] filename [filename ...] например "vcard_split contacts.vcf", 2012-12-27T12:17:06+0000
+/project/jong-package/, jong-package, 0.2, This is an Example Package.. It might not work..., 2019-11-20T01:55:30+0000
+/project/blockdiagcontrib-labeledbox/, blockdiagcontrib-labeledbox, 0.1.1, noderenderer plugin for blockdiag, 2012-10-07T06:55:40+0000
+/project/heartland/, heartland, 0.1, work with Heartland credit card readers and service, 2013-11-16T04:51:08+0000
+/project/asyncio-pipe/, asyncio-pipe, 0.0.1, Non-blocking IPC with Asyncio, 2020-12-28T20:40:52+0000
+/project/perfect-hash/, perfect-hash, 0.4.2, creating perfect minimal hash function, 2021-04-07T17:43:31+0000
+/project/pypi-stat/, pypi-stat, 1.3.2, solution for getting packages stat, and graphing them, 2017-05-19T03:40:29+0000
+/project/searchpy/, Searchpy, 1.4.9, A google interface library, 2011-05-12T23:20:48+0000
+/project/myopenopt/, myopenopt, 0.0.3, `myopenopt` is a package for myopenopt., 2020-04-19T13:45:03+0000
+/project/sqlalchemy-gevent/, sqlalchemy-gevent, 0.2, sqlalchemy dialect adaptor for gevent to work in non-blocking mode, 2015-07-02T08:18:20+0000
+/project/colander-validators/, colander-validators, 0.0.4.1, Better validators for Colander based on FormEncode's validators, 2013-07-31T17:03:37+0000
+/project/subfind/, subfind, 4.7.1, Subtitle crawler written in Python, 2017-11-16T23:58:41+0000
+/project/treesync/, treesync, 1.0.2, Utilitiies to use rsync for whole trees, 2020-12-17T12:08:32+0000
+/project/daemon-process/, daemon-process, 0.9.2, The package for running daemonized processes, 2020-02-02T10:14:14+0000
+/project/blockdiagcontrib-excelhogan/, blockdiagcontrib-excelhogan, 0.1.0, imagedrawer plugin for blockdiag, 2012-11-03T08:23:25+0000
+/project/demset/, demset, 1.0, set and frozenset classes for Python 2.2 and 2.3 compatible with Python 2.4 builtin types, 2006-10-20T18:42:39+0000
+/project/yalpt/, yalpt, 1.0.0, Yet Another Literate Python Tool, 2016-03-11T21:13:42+0000
+/project/smw/, smw, 0.1.3.3, Semantic Mediawiki Python Binding, 2014-02-13T21:04:52+0000
+/project/rng-to-html-form/, rng-to-html-form, 1.0.2, Takes an rng file and makes an html form, 2017-04-05T10:34:20+0000
+/project/defusedxml/, defusedxml, 0.7.1, XML bomb protection for Python stdlib modules, 2021-03-08T10:59:24+0000
+/project/lsystem2/, LSystem2, 1.6, LSystem for Python, 2006-03-12T21:37:56+0000
+/project/py3mqi/, py3mqi, 1.6.0, Python IBM MQI Extension for WebSphere MQ (formerly known as MQSeries)., 2017-09-06T09:43:23+0000
+/project/infi-dtypes-hctl/, infi.dtypes.hctl, 0.0.8, HCTL-related datatypes in Python, 2014-11-18T13:15:29+0000
+/project/needforcryptography/, NeedForCryptography, 1.05, Python cryptographic tools and ciphers, 2014-06-27T02:17:53+0000
+/project/prcdns/, PRCDNS, 0.0.9, 准确、CDN友好的DNS软件，使用DNS-Over-HTTP, 2017-08-10T14:52:39+0000
+/project/json-config-parser/, json-config-parser, 0.1.2, A straightforward and unambiguous config file parser., 2015-01-20T15:22:42+0000
+/project/cli-toolkit/, cli-toolkit, 1.0.2, Classes to implement CLI commands in python, 2020-12-17T12:06:34+0000
+/project/pikl/, pikl, 0.0.1, A rehabilitated, less dangerous pickle., 2018-09-26T23:18:06+0000
+/project/decimalpy/, decimalpy, 0.101, decimalpy - A Decimal based version of numpy, 2013-06-22T19:45:15+0000
+/project/helloworldtg/, HelloWorldTG, 0.3, This is an Example Package, 2019-11-19T21:59:34+0000
+/project/urlgen/, urlgen, 0.0.0, Get download URL from cloud storage service URL., 2020-04-18T18:39:44+0000
+/project/py-ace/, py-ace, 0.0.3, make all python script as c extention with cython, 2014-05-28T14:44:55+0000
+/project/pymqi/, pymqi, 1.12.0, Python IBM MQI Extension for IBM MQ (formerly WebSphere MQ and MQSeries)., 2020-07-01T20:52:52+0000
+/project/pyzenra/, pyzenra, 0.0.2, `pyzenra` is zenrize your Japanese sentence., 2010-11-30T15:04:34+0000
+/project/jpegthumbnail/, JpegThumbnail, 0.1.0.0, simple and fast JPEG thumbnail reader, 2009-09-23T23:35:27+0000
+/project/infi-locking/, infi.locking, 0.1.3, infi.locking module, 2019-02-18T10:46:40+0000
+/project/fallingrocks/, FallingRocks, 2.0, Implementation of the game FallingRocks in Python, 2015-07-13T00:36:44+0000
+/project/quicktions/, quicktions, 1.11, Fast fractions data type for rational numbers. Cythonized version of 'fractions.Fraction'., 2019-12-19T21:41:46+0000
+/project/setuputils/, setuputils, 1.0.3, A utility to automate away boilerplate in Python setup scripts., 2019-09-20T23:45:21+0000
+/project/bitarray/, bitarray, 2.0.1, efficient arrays of booleans -- C extension, 2021-04-19T22:42:56+0000
+/project/odt2sphinx/, odt2sphinx, 0.3.0, An OpenDocument to sphinx converter., 2016-09-28T09:01:43+0000
+/project/smtpdropbox/, smtpdropbox, 1.0, Pure-python library to capture emails into a dropbox, 2011-10-31T15:36:48+0000
+/project/multiprocessing-on-dill/, multiprocessing_on_dill, 3.5.0a4, A friendly fork of multiprocessing which uses dill instead of pickle, 2015-05-17T12:01:34+0000
+/project/subprocess32-ext/, subprocess32-ext, 3.2.8.2, A backport of the subprocess module from Python 3.2/3.3 for use on 2.x., 2017-05-09T14:52:23+0000
+/project/ceptacle/, ceptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-08T21:45:45+0000
+/project/pickle4/, pickle4, 0.0.1, Backport of pickle protocol 4, 2019-12-07T23:33:49+0000
+/project/bosun/, bosun, 1.0.3, UNKNOWN, 2014-08-19T19:54:24+0000
+/project/helllohuirong/, helllohuirong, 0.1, This is an Example Package, 2019-11-20T01:03:10+0000
+/project/goldsaxcreatetablesyfinance/, GoldSaxCreateTablesYFinance, 1.01, Auto create tablespace in database for storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:13:15+0000
+/project/loctraceback/, loctraceback, 1.1.1, traceback with more exact location info, 2021-03-27T17:22:43+0000
+/project/contextlib2/, contextlib2, 0.6.0.post1, Backports and enhancements for the contextlib module, 2019-10-10T12:47:48+0000
+/project/pexif/, pexif, 0.15, A module for editing JPEG EXIF data, 2014-12-03T09:36:21+0000
+/project/cx-logging/, cx-Logging, 3.0, Python and C interfaces for logging, 2021-01-30T21:14:46+0000
+/project/goldsaxyfinancequote/, GoldSaxYFinanceQuote, 1.132, Auto aggregation, parsing of FIXML, FPML, XML, Json, FIX messages realtime data for storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:10:23+0000
+/project/python-memcached/, python-memcached, 1.59, Pure python memcached client, 2017-12-15T16:38:29+0000
+/project/slimmer/, slimmer, 0.1.30, HTML,XHTML,CSS,JavaScript optimizer, 2009-11-06T21:59:37+0000
+/project/dugong/, dugong, 3.8.1, A HTTP 1.1 client module supporting asynchronous IO, pipelining and `Expect: 100-continue`. Designed for RESTful protocols., 2021-01-10T17:13:20+0000
+/project/refaction/, Refaction, 0.0.1dev, Web-based tool for sharing webfaction services using webfaction's API., 2008-09-16T10:12:21+0000
+/project/datconv-test/, datconv-test, 0.2.2, Testing scripts for datconv package, 2019-12-29T00:14:10+0000
+/project/project-euler-python/, project-euler-python, 0.0.3, project euler problem solve by python, 2013-08-10T03:54:55+0000
+/project/asdl/, asdl, 0.1.5, A copy of the ASDL parser used in CPython 3.5., 2016-04-14T10:01:31+0000
+/project/pytonik-agent/, pytonik-agent, 1.0.5, pytonik agent browser and OS module, 2019-11-18T18:54:56+0000
+/project/ipaddress/, ipaddress, 1.0.23, IPv4/IPv6 manipulation library, 2019-10-18T01:30:24+0000
+/project/django-url-robots/, django-url-robots, 2.0, Django robots.txt generator, 2016-12-29T00:00:32+0000
+/project/powerindex/, powerindex, 0.1.0, python library to calculate power indices in weighted voting games, 2020-02-29T22:09:07+0000
+/project/pyst3/, pyst3, 0.4.2, A Python 3.x Interface to Asterisk, 2014-11-21T09:07:49+0000
+/project/watchdogcaller/, watchdogCaller, 0.0.7, A Python script that calls an API when a directory is not modified in a especified timeout-time., 2020-06-26T01:32:26+0000
+/project/pysugar/, pysugar, 0.0.6, Python binding of SugarCRM, that uses the SOAP API provided by SugarCRM, 2007-01-05T09:23:05+0000
+/project/shifter/, shifter, 2.75, Transmission RPC Bindings, 2013-02-23T21:11:20+0000
+/project/import7z/, import7z, 0.1.0, Import Python modules from 7z archives., 2021-01-13T14:36:16+0000
+/project/oceansound/, OceanSound, 0.1.4, Get the music from oceancolor images, through MODIS satellite, 2016-03-27T18:14:15+0000
+/project/mivrhash/, mivrhash, 1.0.1, A hash table (Python dict compatible) that stores data in remote servers. Performance is optimized by using write-back cache., 2010-08-20T01:54:20+0000
+/project/gcap/, GCAP, 1.1-20140805, DNase I seq QC pipeline, 2014-08-05T18:58:12+0000
+/project/pyepoll/, pyepoll, 0.2, Python epoll wrapper, 2006-07-12T19:01:32+0000
+/project/earthsat/, earthsat, 0.0.1, Python code to download Goes16 data from aws s3 bucket, 2017-11-19T23:36:10+0000
+/project/coding-test-foo/, coding-test-foo, 2.0.3, coding test package. I am a description., 2019-11-29T09:20:21+0000
+/project/zipfile37/, zipfile37, 0.1.3, Read and write ZIP files - backport of the zipfile module from Python 3.7, 2019-07-18T11:49:16+0000
+/project/transformational-measures-tf/, transformational-measures-tf, 0.72a0, Invariance, Same-Equivariance and other measures for Neural Networks. Support for TensorFlow., 2020-08-31T12:35:18+0000
+/project/subtypes/, subtypes, 0.1.19, types with new or removed constraints/properties, 2011-01-30T10:40:59+0000
+/project/ifstest/, IFStest, 1.5, IFS module, 2017-12-19T14:50:55+0000
+/project/misspeller/, Misspeller, 0.1.dev0, Module that makes typos, 2017-10-31T14:31:18+0000
+/project/pynmet/, pynmet, 0.3.9, Python code to retrieve and plot inmet meteorological data, 2019-09-17T14:34:50+0000
+/project/grid-strategy/, grid-strategy, 0.0.1, A package for organizing matplotlib plots., 2019-02-24T08:19:21+0000
+/project/miniconf/, miniconf, 1.2.0, Plain text Python built-in objects persistence, 2006-07-28T20:45:29+0000
+/project/pytest-leaks/, pytest-leaks, 0.3.1, A pytest plugin to trace resource leaks., 2019-11-27T18:03:00+0000
+/project/xml2obj/, xml2obj, 0.1, A simple function to converts XML data into native Python object, 2013-12-04T07:38:48+0000
+/project/outbreaker/, outbreaker, 1.0.5, Explore WHO Disease Outbreak News, 2021-03-29T14:43:52+0000
+/project/python-ldap/, python-ldap, 3.3.1, Python modules for implementing LDAP clients, 2020-06-29T14:48:14+0000
+/project/deadcheck/, deadcheck, 0.0.3.3.1, Deadlink Check Utility using Python Modules, 2015-03-10T07:11:56+0000
+/project/bb8/, bb8, 0.2.6, BB8 - A robot to support developer, 2016-10-08T23:00:09+0000
+/project/units/, units, 0.07, Python support for quantities with units, 2017-02-05T05:34:50+0000
+/project/setuputils3/, setuputils3, 1.0.4, A utility to automate away boilerplate in Python 3 setup scripts., 2019-09-20T23:25:37+0000
+/project/roman/, roman, 3.3, Integer to Roman numerals converter, 2020-07-12T15:28:46+0000
+/project/outlier-101703525-thapar/, outlier-101703525-thapar, 1.0.1, A outlier Package Project of UCS633, 2020-02-16T14:38:55+0000
+/project/backports-os/, backports.os, 0.1.1, Backport of new features in Python's os module, 2017-09-20T18:41:38+0000
+/project/moneytrack/, moneytrack, 0.0.9, This package helps to track personal finances spread over many accounts, 2021-02-04T23:02:05+0000
+/project/zodbpickle/, zodbpickle, 2.0.0, Fork of Python 2 and 3 pickle module., 2019-11-13T12:40:56+0000
+/project/py2-ipaddress/, py2-ipaddress, 3.4.2, Python 2.6 backport of 3.4's ipaddress module, 2020-01-20T13:48:43+0000
+/project/infi-rdc/, infi.rdc, 1.0, rdc, 2015-09-30T11:37:22+0000
+/project/methylpurify/, MethylPurify, 2.0-20141116, Methylation subclone detection, 2014-11-17T01:05:13+0000
+/project/bubka/, bubka, 1.1.0, Command line client for REST APIs, 2019-03-18T07:41:08+0000
+/project/oset/, oset, 0.1.3, Ordered Set., 2012-12-04T16:30:40+0000
+/project/vectordict/, VectorDict, 1.0.0, dict with recursive operations (algebraic, set, logicial), 2012-04-12T10:38:14+0000
+/project/async-exit-stack/, async-exit-stack, 1.0.1, AsyncExitStack backport for Python 3.5+, 2018-05-07T15:54:45+0000
+/project/backport-collections/, backport_collections, 0.1, Backport of Python 2.7's collections module, 2014-09-01T09:47:23+0000
+/project/keyring/, keyring, 23.0.1, Store and access your passwords safely., 2021-03-25T13:14:10+0000
+/project/guidos-time-machine/, guidos-time-machine, 0.0, Guido's time machine, 2020-03-05T04:02:26+0000
+/project/idlex/, idlex, 1.18, IDLE Extensions for Python, 2018-08-05T21:48:11+0000
+/project/pytonik-curl/, pytonik-curl, 2.0, pytonik curl is built to transfer data using various network protocols and support sending or initiating actions within or outside protocols., 2020-02-27T08:13:30+0000
+/project/hellovivianas9290/, Hellovivianas9290, 0.1, This is my project, 2019-11-20T00:06:24+0000
+/project/elflib/, elflib, 0.1.2, library for working with ELF files, 2019-07-19T05:44:36+0000
+/project/wyatt/, wyatt, 0.1.19, A way to talk to will wyatt., 2017-05-19T20:14:11+0000
+/project/djmodelcron/, djmodelcron, 0.1.0, Generic cron task for running instances of django models, 2015-07-16T14:51:50+0000
+/project/backports-abc/, backports_abc, 0.5, A backport of recent additions to the 'collections.abc' module., 2016-11-12T16:05:22+0000
+/project/yapocis/, yapocis, 0.2.4, Yet another PyOpenCL interface specifier, 2011-08-31T03:57:55+0000
+/project/md2tex/, md2tex, 0.0.17, `md2tex` is a package which convert markdown to TeX., 2018-10-02T01:30:47+0000
+/project/distribute/, distribute, 0.7.3, distribute legacy wrapper, 2013-07-05T17:53:04+0000
+/project/pyipc/, pyipc, 0.41, Python bindings to System V IPC, 2006-07-19T23:28:17+0000
+/project/threadpool/, threadpool, 1.3.2, Easy to use object-oriented thread pool framework., 2015-10-29T19:45:02+0000
+/project/importlib-no-failure/, importlib-no-failure, 1.0.2, Backport of importlib.import_module() from Python 2.7, 2013-03-16T21:18:03+0000
+/project/python-docs-theme/, python-docs-theme, 2020.12, The Sphinx theme for the CPython docs and related projects, 2020-12-22T00:34:45+0000
+/project/hellovivianas9250/, Hellovivianas9250, 0.1, This is my project, 2019-11-26T01:16:53+0000
+/project/clustersoundboyselecta/, clustersoundboyselecta, 0.7, This is a cluster algorithm for given data set, 2019-11-20T02:11:55+0000
+/project/monthdelta/, MonthDelta, 0.9.1, date computations with months, 2009-04-23T03:14:36+0000
+/project/openstruct/, openstruct, 0.0.0, `openstruct` is a package for lazy person in daily life. porting from ruby, 2010-12-08T16:29:54+0000
+/project/typing/, typing, 3.7.4.3, Type Hints for Python, 2020-07-13T23:19:42+0000
+/project/watchdogdev/, watchdogdev, 1.0.0, Implementation of Linux watchdog device API, 2020-02-28T10:48:24+0000
+/project/affinity/, affinity, 0.1.0, affinity - control processor affinity on windows and linux, 2006-03-23T04:05:35+0000
+/project/fissix/, fissix, 20.8.0, Monkeypatches to override default behavior of lib2to3., 2020-08-18T04:11:29+0000
+/project/tet-raven/, tet_raven, 0.1, Unearthly intelligent batteries-included application framework built on Pyramid, 2016-07-21T15:06:06+0000
+/project/infomedia-python/, infomedia-python, 1.2, Infomedia Python Utility Module, 2012-08-05T13:52:33+0000
+/project/nose-subunit/, nose-subunit, 0.2, Subunit output adapter for nose, 2010-07-10T19:42:03+0000
+/project/weakrefmethod/, weakrefmethod, 1.0.3, A WeakMethod class for storing bound methods using weak references., 2016-07-18T19:57:05+0000
+/project/cx-freeze/, cx-Freeze, 6.6, Create standalone executables from Python scripts, 2021-04-14T09:48:47+0000
+/project/goldsaxgethighlow/, GoldSaxGetHighLow, 1.03, Auto retrieve historical data for analytics to the GoldSaxEngine-****Markets. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:11:10+0000
+/project/pysha3/, pysha3, 1.0.2, SHA-3 (Keccak) for Python 2.7 - 3.5, 2017-02-05T16:42:07+0000
+/project/miros/, miros, 4.2.1, A statechart library for Python, 2020-01-02T14:14:07+0000
+/project/lmtpd/, lmtpd, 6.2.0, A LMTP server class, 2020-07-05T05:10:01+0000
+/project/outlier-101703363-thapar/, outlier-101703363-thapar, 1.0.1, A outlier Package Project of UCS633, 2020-02-13T15:45:04+0000
+/project/hmac/, hmac, 20101005, HMAC (Keyed-Hashing for Message Authentication) Python module., 2010-10-05T20:08:06+0000
+/project/mom-utils/, mom-utils, 1.2.7, Python utilities for the GFDL's numerical model MOM, 2016-03-24T00:38:30+0000
+/project/cellmethy/, CellMethy, 1.2.0, Identifying focal full methylation of cell subpopulation and inferring fraction, 2014-09-29T04:56:16+0000
+/project/idle2html/, IDLE2HTML, 0.2, This extension saves the contents of your IDLE shell or editor window as XHTML, 2007-06-14T07:41:02+0000
+/project/humblesetuptools/, humblesetuptools, 3.4.5, Setuptools that doesn't mess with sys.path, 2014-04-23T00:08:06+0000
+/project/snpfc/, snpfc, 1.0.0, , 2019-04-01T13:42:40+0000
+/project/objproxies/, objproxies, 0.9.4, General purpose proxy and wrapper types, 2015-07-24T05:54:45+0000
+/project/bitarray-ph4/, bitarray-ph4, 1.9.1, efficient arrays of booleans -- C extension, 2021-04-01T11:53:14+0000
+/project/fixedint/, fixedint, 0.1.6, simple fixed-width integers, 2020-06-20T22:14:14+0000
+/project/pystick/, pystick, 0.1.6, embeddable python for the masses, 2017-06-11T09:41:24+0000
+/project/schema2rst/, schema2rst, 0.9.0, schema2rst generates reST doc from database schema, 2013-12-11T07:13:51+0000
+/project/selectors2/, selectors2, 2.0.2, Back-ported, durable, and portable selectors, 2020-07-21T22:40:20+0000
+/project/backports-statistics/, backports.statistics, 0.1.0, statistics backport 2.6 - 3.3, 2015-04-01T15:25:03+0000
+/project/infi-mountoolinux/, infi.mountoolinux, 0.1.17, Python library for handling POSIX mounts, 2015-05-06T13:20:13+0000
+/project/backports-test-support/, backports.test.support, 0.1.1, Backport of Python 3's test.support package, 2017-12-24T11:42:18+0000
+/project/defusedexpat/, defusedexpat, 0.4, XML bomb protection with modified expat parser, 2013-02-25T11:50:41+0000
+/project/email-backport/, email_backport, 4.0.3b3, A backport of the newest Python 2.x email module to >= Python 2.3, 2012-04-24T09:19:56+0000
+/project/clickhouse/, clickhouse, 0.1.7, A Python library for working with the ClickHouse database, 2018-01-29T19:37:44+0000
+/project/archery/, archery, 1.2.2, Traits (Mixins) to give +,/,-,* to MutableMapping, 2018-11-01T13:12:54+0000
+/project/fsqueue/, FsQueue, 1.2, Elastic queue based on filesystem., 2011-04-14T07:19:57+0000
+/project/exams/, ExAMS, 0.4, Package to implement analysis on data from multiple replicas of molecular simulation, producing visual outputs., 2015-09-11T15:26:24+0000
+/project/blockdiagcontrib-excelshape/, blockdiagcontrib-excelshape, 0.1.0, imagedrawer plugin for blockdiag, 2012-11-25T12:49:31+0000
+/project/infi-dtypes-wwn/, infi.dtypes.wwn, 0.1.1, Datatype for WWN, 2015-08-25T11:59:12+0000
+/project/py-postgresql/, py-postgresql, 1.2.2, PostgreSQL driver and tools library., 2020-09-25T21:22:24+0000
+/project/infi-ramen-client/, infi.ramen-client, 1.40.post3, A client library for sending data to Ramen., 2020-07-02T11:58:13+0000
+/project/reflex/, reflex, 0.1, A lightweight regex-based lexical scanner library., 2005-12-26T01:18:31+0000
+/project/hellovivianas9244/, Hellovivianas9244, 0.1, This is my project, 2019-11-26T01:09:03+0000
+/project/bpluspy/, BplusPy, 1.0, BplusDotNet python implementation, 2013-01-25T18:36:39+0000
+/project/ceodbc/, ceODBC, 2.0.1, Python interface to ODBC, 2011-10-15T20:55:26+0000
+/project/miros-rabbitmq/, miros-rabbitmq, 0.2.0, A rabbitmq network support library for miros, 2018-06-28T14:05:53+0000
+/project/bda-daemon/, bda.daemon, 1.1.1, Take a class and run it as a simple daemon., 2009-01-14T10:25:28+0000
+/project/crypto-futures-py/, crypto-futures-py, 0.4.3, The Python library of different implementations for exchange interface of cryptocurrency futures trading. Includes Bitmex and Binance Futures., 2020-09-02T14:15:02+0000
+/project/pytonik-time-ago/, pytonik-time-ago, 0.2.0, pytonik date and time ago readable format, 2019-11-19T04:58:33+0000
+/project/blockdiagcontrib-cisco/, blockdiagcontrib-cisco, 0.1.8, noderenderer plugin for blockdiag, 2014-06-11T15:47:22+0000
+/project/cx-freeze-395/, cx-Freeze-395, 6.0b1, create standalone executables from Python scripts, 2019-04-02T18:41:00+0000
+/project/taskjuggler-utils/, taskjuggler_utils, 0.1, Tools to help use "taskjuggler" without its GUI and produce nice reports., 2009-01-19T19:47:45+0000
+/project/gdrive-sync/, gdrive_sync, 0.6.1, Sync directories between your computer and Google Drive, 2014-11-10T20:20:52+0000
+/project/setuphelper/, setuphelper, 0.5.1, A helper module for setup.py scripts., 2009-12-28T03:26:37+0000
+/project/timeoutthreadpoolexecutor/, timeoutthreadpoolexecutor, 1.0.2, A backported ThreadPoolExecutor with thread TTL, 2020-02-10T17:45:48+0000
+/project/odict/, odict, 1.7.0, Ordered Dictionary., 2019-07-10T08:43:32+0000
+/project/cooker/, Cooker, 1.0, Python CodeChef Utilities, 2012-04-14T18:27:20+0000
+/project/pickle5/, pickle5, 0.0.11, Backport of the pickle 5 protocol (PEP 574) and other pickle changes, 2020-06-22T20:21:42+0000
+/project/gf/, gf, 0.1.4, A package with lisp-like generic functions., 2013-12-18T13:00:14+0000
+/project/mailing-list-filter/, mailing-list-filter, 0.2, Mailing List Filter, 2009-06-06T22:47:25+0000
+/project/pegen/, pegen, 0.0, PEG parser generator, 2020-02-12T04:19:50+0000
+/project/git-py/, git-py, 1.0.2, Python bindings for the Git source control system, 2016-08-22T14:52:45+0000
+/project/pygraf/, pygraf, 1.02, Python Graph library, 2015-10-15T12:42:42+0000
+/project/dowser/, dowser, 0.2, Debugging Python’s Memory Usage with Dowser, 2014-01-14T21:41:23+0000
+/project/srm-client/, srm_client, 0.1.5, A simple client for VMWare SRM, 2015-04-12T12:12:04+0000
+/project/deform-foundation/, deform_foundation, 0.5.10, A template package for deform that uses Foundation, 2014-01-23T17:31:54+0000
+/project/epistasim-windows/, EpistaSim_Windows, 1.1.0, Epistasis simulator of SNP pattern in Windows, 2015-07-22T06:16:23+0000
+/project/gradual/, gradual, 0.1.1, A package providing runtime semantics of Gradual Typing, 2012-10-23T23:55:51+0000
+/project/finance/, finance, 0.2502, finance - Financial Risk Calculations. Optimized for ease of use through class construction and operator overload, 2014-03-17T19:46:23+0000
+/project/pytonik-ip-vpn-checker/, pytonik-ip-vpn-checker, 1.0.6, pytonik IP and VPN checker Module checks visitors/audiences, proxy, sock, and VPN IP address, 2020-02-17T09:17:23+0000
+/project/texttools/, TextTools, 0.1, Text manipulation utilities, 2010-01-06T09:15:14+0000
+/project/hpitclient/, hpitclient, 0.36, Python Client Libraries for HPIT., 2014-11-13T15:37:57+0000
+/project/docutils/, docutils, 0.17.1, Docutils -- Python Documentation Utilities, 2021-04-17T14:13:24+0000
+/project/tarball-httpd/, tarball-httpd, 0.0.3, Simple http server, streaming directories as tarballs., 2020-08-24T17:46:59+0000
+/project/cygwinreg/, cygwinreg, 1.0, Windows registry access for the Cygwin toolkit, 2009-04-06T23:29:01+0000
+/project/tracmgmtutils/, TracMgmtUtils, 1.1, Utility functions for managing Trac instances, 2010-10-28T16:53:42+0000
+/project/distutils2-py3/, Distutils2-py3, 1.0a5.dev0, Python Packaging Library, 2012-10-25T15:43:05+0000
+/project/postmarkup/, postmarkup, 1.2.2, BBCode to (X)HTML rendering engine, 2015-02-15T11:58:36+0000
+/project/textwrap3/, textwrap3, 0.9.2, textwrap from Python 3.6 backport (plus a few tweaks), 2019-01-23T21:57:08+0000
+/project/infi-nose-logbook/, infi.nose_logbook, 1.0.1, Logbook integration for Nose, 2016-03-11T14:06:10+0000
+/project/pyfltk/, pyFltk, 1.3.5, This is a Python wrapper for the FLTK, 2020-12-18T18:39:41+0000
+/project/autograph/, autograph, 1.0.0, A Django application for managing signature/autograph data., 2013-06-08T10:04:52+0000
+/project/systematic/, systematic, 4.8.7, Sysadmin utility classes and scripts, 2019-09-26T01:11:44+0000
+/project/beautifulsoup/, BeautifulSoup, 3.2.2, Screen-scraping library, 2019-10-05T11:28:41+0000
+/project/zipfile38/, zipfile38, 0.0.3, Read and write ZIP files - backport of the zipfile module from Python 3.8, 2020-12-03T15:33:53+0000
+/project/classh/, classh, 0.093, Cluster Administrators' ssh Wrapper, 2009-12-16T04:47:29+0000
+/project/iniparse/, iniparse, 0.5, Accessing and Modifying INI files, 2020-01-29T14:12:32+0000
+/project/managesieve/, managesieve, 0.7.1, ManageSieve client library for remotely managing Sieve scripts, 2021-03-11T19:59:21+0000
+/project/plothicgenome/, plotHicGenome, 0.1.1, THis package was used for showing Hicproc or juicerbox matrix, 2020-11-17T14:24:12+0000
+/project/pymemfd/, pymemfd, 0.1, memfd_create interface for Linux, 2016-04-24T13:22:30+0000
+/project/typing-extensions/, typing-extensions, 3.7.4.3, Backported and Experimental Type Hints for Python 3.5+, 2020-08-23T16:44:06+0000
+/project/ltable/, ltable, 0.0.2, lite table, not depden on numpy or sqliteoperations,.. find, filter, group, sort, top, tail .., 2014-06-03T17:22:01+0000
+/project/goldsaxpersist/, GoldSaxPersist, 1.03, Storage Engine, storage, analytics to the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:12:24+0000
+/project/futures/, futures, 3.3.0, Backport of the concurrent.futures package from Python 3, 2019-07-15T09:33:00+0000
+/project/nose-machineout/, nose_machineout, 0.2, Changes output of the nose testing tool into format easily parsable by a machine  Originally written by Max Ischenko., 2010-07-23T13:12:34+0000
+/project/fv-email/, fv_email, 0.9, Improved FormEncode e-mail validation, 2013-09-26T03:40:03+0000
+/project/dis3/, dis3, 0.1.3, Python 2.7 backport of the "dis" module from Python 3.5+, 2019-01-14T18:10:02+0000
+/project/premailer-cspw/, premailer_cspw, 1.2.2, Turns CSS blocks into style attributes, 2013-08-07T15:47:36+0000
+/project/topsis-101703296-thapar/, Topsis-101703296-thapar, 1.0.1, A topsis Package Project of UCS633, 2020-01-20T15:46:09+0000
+/project/rak-arth/, rak_arth, 1.5.4, it does arthimatical operations, 2017-01-20T09:21:11+0000
+/project/pywin32/, pywin32, 300, Python for Window Extensions, 2020-11-14T06:24:11+0000
+/project/innosetup/, innosetup, 0.6.9, distutils extension module - create an installer by InnoSetup., 2013-03-11T06:36:15+0000
+/project/nowfm/, nowfm, 0.0.21, nowfm is a library for get nowplaying track information from Last.fm., 2013-03-25T03:18:06+0000
+/project/python-skiplist/, python-skiplist, 0.1, SortedSet and SortedDict implementation by using skiplist, 2014-11-16T18:11:41+0000
+/project/regpath/, regpath, 0.1.0, regpath - pathlib and winreg, 2015-12-22T09:34:35+0000
+/project/pycifrw/, PyCifRW, 4.4.2, CIF/STAR file support for Python, 2020-11-10T04:44:37+0000
+/project/kmd/, kmd, 2.3, An interpreter framework, 2019-03-20T08:17:44+0000
+/project/inspectshow/, inspectshow, 1.2, show module internals and corresponding class internals in tree format, 2017-11-21T23:24:34+0000
+/project/trnltk/, TRNLTK, 0.0.1, Turkish Natural Language Toolkit, 2018-05-09T10:16:42+0000
+/project/pypi-rankings/, pypi_rankings, 0.1.post5, show PyPI rankings, 2016-01-29T14:07:34+0000
+/project/netlookup/, netlookup, 1.1.2, Python tools to look up information about networks, 2020-12-17T12:10:11+0000
+/project/hashcalclib/, hashcalclib, 1.6.3, A hash calculation and verification library., 2015-10-05T02:41:27+0000
+/project/play/, play, 0-develop-1-gd67cd85, short description here, 2013-04-17T14:37:49+0000
+/project/auroraplot/, auroraplot, 0.7.1, Analyse and plot space weather datasets., 2016-12-01T23:46:01+0000
+/project/pacer-scraper-library/, pacer-scraper-library, 1.0, A library of functions to batch download files from PACER., 2013-03-01T20:27:55+0000
+/project/atomisator-indexer/, atomisator.indexer, 0.1.1, Expert Python Programming - Indexing, 2008-11-08T11:44:48+0000
+/project/pyrings/, pyrings, 0.7.6, Procedures to handle coherent vortexes in the ocean, 2013-03-26T16:48:39+0000
+/project/argparsedialog/, argparsedialog, 1.4, Python library converting argparse to Wizzard using dialog., 2014-10-10T15:35:26+0000
+/project/debugger/, debugger, 1.3, Debugging., 2013-09-10T17:15:10+0000
+/project/datetime3/, datetime3, 3.8.0, Latest Python 3.x datetime module packaged for use on older Python, 2019-09-08T10:43:11+0000
+/project/fv-email/, fv_email, 0.9, Improved FormEncode e-mail validation, 2013-09-26T03:40:03+0000
+/project/dis3/, dis3, 0.1.3, Python 2.7 backport of the "dis" module from Python 3.5+, 2019-01-14T18:10:02+0000
+/project/premailer-cspw/, premailer_cspw, 1.2.2, Turns CSS blocks into style attributes, 2013-08-07T15:47:36+0000
+/project/topsis-101703296-thapar/, Topsis-101703296-thapar, 1.0.1, A topsis Package Project of UCS633, 2020-01-20T15:46:09+0000
+/project/rak-arth/, rak_arth, 1.5.4, it does arthimatical operations, 2017-01-20T09:21:11+0000
+/project/pywin32/, pywin32, 300, Python for Window Extensions, 2020-11-14T06:24:11+0000
+/project/innosetup/, innosetup, 0.6.9, distutils extension module - create an installer by InnoSetup., 2013-03-11T06:36:15+0000
+/project/nowfm/, nowfm, 0.0.21, nowfm is a library for get nowplaying track information from Last.fm., 2013-03-25T03:18:06+0000
+/project/prestaorm/, prestaorm, 0.0.4, Access to prestashop API using django similar ORM Syntax, 2015-07-23T11:23:25+0000
+/project/formatflowed/, formatflowed, 2.0.0, RFC 3676 format=flowed text processing, 2016-11-29T23:32:27+0000
+/project/regex20200220/, regex20200220, 2020.2.20.3, Alternative regular expression module, to replace re., 2020-06-30T06:58:26+0000
+/project/pentacle/, pentacle, 0.4, An O-O P2P RPC protocol and application framework., 2012-01-18T18:51:58+0000
+/project/outliers-101703296-thapar/, Outliers-101703296-thapar, 1.0.1, A row outlier removal Package Project of UCS633, 2020-02-13T14:06:04+0000
+/project/mocker/, mocker, 1.1.1, Graceful platform for test doubles in Python (mocks, stubs, fakes, and dummies)., 2012-05-25T01:57:53+0000
+/project/passpredict/, passpredict, 0.0.11, Predict upcoming satellite overpasses, 2020-09-02T14:03:37+0000
+/project/addhrefs/, addhrefs, 0.9.7, Adds HTML links to text, 2009-05-07T14:39:50+0000
+/project/dioc/, dioc, 0.1.1, `dioc` is a package for DigitalOcean., 2018-01-06T11:24:56+0000
+/project/email-backport/, email_backport, 4.0.3b3, A backport of the newest Python 2.x email module to >= Python 2.3, 2012-04-24T09:19:56+0000
+/project/clickhouse/, clickhouse, 0.1.7, A Python library for working with the ClickHouse database, 2018-01-29T19:37:44+0000
+/project/archery/, archery, 1.2.2, Traits (Mixins) to give +,/,-,* to MutableMapping, 2018-11-01T13:12:54+0000
+/project/fsqueue/, FsQueue, 1.2, Elastic queue based on filesystem., 2011-04-14T07:19:57+0000
+/project/exams/, ExAMS, 0.4, Package to implement analysis on data from multiple replicas of molecular simulation, producing visual outputs., 2015-09-11T15:26:24+0000
+/project/blockdiagcontrib-excelshape/, blockdiagcontrib-excelshape, 0.1.0, imagedrawer plugin for blockdiag, 2012-11-25T12:49:31+0000
+/project/infi-dtypes-wwn/, infi.dtypes.wwn, 0.1.1, Datatype for WWN, 2015-08-25T11:59:12+0000
+/project/py-postgresql/, py-postgresql, 1.2.2, PostgreSQL driver and tools library., 2020-09-25T21:22:24+0000
+/project/infi-ramen-client/, infi.ramen-client, 1.40.post3, A client library for sending data to Ramen., 2020-07-02T11:58:13+0000
+/project/reflex/, reflex, 0.1, A lightweight regex-based lexical scanner library., 2005-12-26T01:18:31+0000
+/project/hellovivianas9244/, Hellovivianas9244, 0.1, This is my project, 2019-11-26T01:09:03+0000
+/project/bpluspy/, BplusPy, 1.0, BplusDotNet python implementation, 2013-01-25T18:36:39+0000
+/project/ceodbc/, ceODBC, 2.0.1, Python interface to ODBC, 2011-10-15T20:55:26+0000
+/project/miros-rabbitmq/, miros-rabbitmq, 0.2.0, A rabbitmq network support library for miros, 2018-06-28T14:05:53+0000
+/project/svnpoller/, svnpoller, 0.0.10, polling svn repository and notify by email., 2010-09-16T05:08:46+0000
+/project/sigprofiler/, sigprofiler, 0.0.3, Statistical profiler using signal, 2011-08-27T03:08:08+0000
+/project/trnltk/, TRNLTK, 0.0.1, Turkish Natural Language Toolkit, 2018-05-09T10:16:42+0000
+/project/pypi-rankings/, pypi_rankings, 0.1.post5, show PyPI rankings, 2016-01-29T14:07:34+0000
+/project/netlookup/, netlookup, 1.1.2, Python tools to look up information about networks, 2020-12-17T12:10:11+0000
+/project/hashcalclib/, hashcalclib, 1.6.3, A hash calculation and verification library., 2015-10-05T02:41:27+0000
+/project/play/, play, 0-develop-1-gd67cd85, short description here, 2013-04-17T14:37:49+0000
+/project/bda-daemon/, bda.daemon, 1.1.1, Take a class and run it as a simple daemon., 2009-01-14T10:25:28+0000
+/project/auroraplot/, auroraplot, 0.7.1, Analyse and plot space weather datasets., 2016-12-01T23:46:01+0000
+/project/pacer-scraper-library/, pacer-scraper-library, 1.0, A library of functions to batch download files from PACER., 2013-03-01T20:27:55+0000
+/project/atomisator-indexer/, atomisator.indexer, 0.1.1, Expert Python Programming - Indexing, 2008-11-08T11:44:48+0000
+/project/pyrings/, pyrings, 0.7.6, Procedures to handle coherent vortexes in the ocean, 2013-03-26T16:48:39+0000
+/project/argparsedialog/, argparsedialog, 1.4, Python library converting argparse to Wizzard using dialog., 2014-10-10T15:35:26+0000
+/project/debugger/, debugger, 1.3, Debugging., 2013-09-10T17:15:10+0000
+/project/datetime3/, datetime3, 3.8.0, Latest Python 3.x datetime module packaged for use on older Python, 2019-09-08T10:43:11+0000
+/project/extract/, Extract, 1.0, Extraction tool for model and observed data intercomparison, 2011-10-04T03:09:19+0000
+/project/premailer/, premailer, 3.8.0, Turns CSS blocks into style attributes, 2021-04-15T21:05:23+0000
+/project/bsddb185/, bsddb185, 1.1, bsddb185 module from Python 2.6, 2008-05-10T14:44:44+0000
+/project/ssdi/, ssdi, 0.1.1, Super Simple Dependency Injector, 2019-08-14T14:45:43+0000
+/project/secondpython/, secondpython, 0.0.1, second pypi, 2016-12-17T09:44:55+0000
+/project/cygwinreg3/, cygwinreg3, 1.1, Windows registry access for the Cygwin toolkit, 2021-03-12T17:53:54+0000
+/project/cx-oracle-on-ctypes/, cx_oracle_on_ctypes, 0.1.dev0, Ctypes-based Python interface to Oracle, compatible with cx_Oracle, 2015-10-20T22:05:20+0000
+/project/backports-tempfile/, backports.tempfile, 1.0, Backport of new features in Python's tempfile module, 2017-10-13T11:34:09+0000
+/project/confined/, confined, 0.1.10, Sage templating language with bounded resource, 2015-04-19T17:21:00+0000
+/project/osm-graph/, osm-graph, 0.0.3, `osm-graph` is a package for NetworkX and OpenStreetMap., 2018-06-09T09:01:54+0000
+/project/shutilwhich-cwdpatch/, shutilwhich-cwdpatch, 0.1.0, Patch for shutil.which and shutilwhich that disables search in CWD on Windows., 2019-03-01T06:47:30+0000
+/project/czipfile/, czipfile, 1.0.0, A replacement for the builtin zipfile module, with fast, C-based zipfile decryption, 2010-07-28T04:57:04+0000
+/project/assets-angular/, assets_angular, 0.1.0, Django_assets angular template filter., 2015-07-31T08:05:58+0000
+/project/bitarray-hardbyte/, bitarray-hardbyte, 1.6.2, efficient arrays of booleans -- C extension, 2020-12-06T00:29:08+0000
+/project/tet/, tet, 0.3.2, Unearthly intelligent batteries-included application framework built on Pyramid, 2017-08-30T21:50:51+0000
+/project/inspect2/, inspect2, 0.1.2, Backport of the Python 3.6 inspect module to Python 2.7-3.5, 2019-08-10T16:35:15+0000
+/project/goldsaxenginecorescheduler/, GoldSaxEngineCoreScheduler, 1.011, The Real-Time Scheduler Core Engine for the GoldSaxEngine-****Markets or any other engine. This can be used by any Trader, Market Maker, a Retail Investor, Instituitional Investor, Hedge Fund Managers, and Asset Managers., 2014-02-25T22:13:41+0000
+/project/parpy/, PARpy, 0.1.0, Processing tool for PAR data of Satlantic Radiometers, 2016-11-16T14:11:44+0000
+/project/nsnitro/, nsnitro, 1.0.35, A simple library to control Citrix Netscaler 9.2+ with NITRO API., 2015-12-01T21:21:05+0000
+/project/telegram-botup/, telegram-botup, 0.8.1, Telegram bot API, 2021-01-20T08:00:18+0000
+/project/impromptu/, Impromptu, 0.2, A graphical teleprompter-like scrolling HTML text display, 2015-12-24T01:45:16+0000
+/project/topsis-101703291-thapar/, Topsis-101703291-thapar, 1.0.1, A topsis Package Project of UCS633, 2020-02-13T14:06:43+0000
+/project/emeraldtree/, emeraldtree, 0.10.0, EmeraldTree - a light-weight XML object model for Python., 2015-06-09T23:20:22+0000
+/project/namedout/, namedout, 1.1, write values (and their names) to stdout in python script, 2014-11-12T12:34:35+0000
+/project/datconv/, datconv, 0.8.2, Universal data converter - pandoc for data; XML, CSV, JSON are supported, 2019-12-29T00:16:58+0000
+/project/ndblite/, ndblite, 0.1.1, Quick Corp ndblite, 2018-01-09T15:58:13+0000
+/project/drippy/, drippy, 0.3.1, Nose plugin for finding tempfile leaks, 2014-03-31T15:13:23+0000
+/project/term/, term, 2.3, An enhanced version of the tty module, 2019-02-08T17:01:32+0000
+/project/spambayes-lite/, spambayes-lite, 1.0.0b7, Bare-bones spam classification library based on a modified version of SpamBayes., 2015-08-20T13:06:02+0000
+/project/aestools/, aestools, 0.1.1, AES tools (GCM weak key checker / safe key generator), 2016-01-09T12:02:13+0000
+/project/bucho/, bucho, 0.1.2, `bucho` is a package for exercises., 2012-06-13T06:22:24+0000
+/project/spacepy/, spacepy, 0.2.2, SpacePy: Tools for Space Science Applications, 2020-12-29T17:26:07+0000
+/project/backports-socketpair/, backports.socketpair, 3.5.0.4, Python 2 support for socket.socketpair() on Windows, 2017-12-12T18:53:34+0000
+/project/argdeclare/, argdeclare, 0.5.6, Argdeclare is a declarative argument configurator for python's argparse., 2013-07-31T16:53:08+0000
+/project/jpath/, jpath, 1.6, Access nested dicts and lists using JSON-like path notation., 2018-01-22T14:46:15+0000
+/project/gf3/, gf3, 0.2.4, A package with lisp-like generic functions for python 3., 2019-08-06T19:33:44+0000
+/project/pyosreplace/, pyosreplace, 0.1, os.replace() backport for Python 2.x, 2013-11-05T15:15:26+0000
+/project/paw/, paw, 0.0.1, A python package than can be used as a model/template for writing, testing and deploying python packages., 2014-03-03T20:46:05+0000
+/project/pyotsu/, pyotsu, 0.0.3, Python Open Text Search Utility, 2013-04-12T17:03:05+0000
+/project/wordpress-package-manager/, Wordpress-Package-Manager, 0.9.2, A command-line tool for installing WordPress plugins, 2014-08-11T18:11:37+0000
+/project/pyedgeworthbox/, pyEdgeworthBox, 0.1.1, Python Library to draw the Edgeworth box and calculate equilibrium, core, pareto efficient allocations etc, 2020-03-02T22:01:01+0000
+/project/pytonik-time-ago/, pytonik-time-ago, 0.2.0, pytonik date and time ago readable format, 2019-11-19T04:58:33+0000

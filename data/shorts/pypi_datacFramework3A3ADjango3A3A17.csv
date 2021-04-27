@@ -1,0 +1,542 @@
+/project/pyhermes/, pyhermes, 0.4.3, The Python interface to the Hermes message broker., 2021-02-09T14:04:30+0000
+/project/django-fancy-cronfield/, django-fancy-cronfield, 0.2.0, A nice and customizable cron field with easy to use UI, 2015-12-16T23:09:27+0000
+/project/mongojoin/, mongojoin, 1.0.0, Python library for performing joins on MongoDB collections, 2015-09-12T09:23:20+0000
+/project/admin-logs/, admin_logs, 0.2.14, Admin logs for django like in Google Application Engine, 2019-05-17T08:51:25+0000
+/project/django-threadedcomments/, django-threadedcomments, 1.2, A simple yet flexible threaded commenting system., 2018-03-29T12:50:45+0000
+/project/springy/, springy, 5.0.1, An elasticsearch wrapper for Django, 2017-11-09T00:34:24+0000
+/project/django-replicated/, django_replicated, 2.7, Django DB router for stateful master-slave replication, 2020-04-10T11:07:18+0000
+/project/django-synchro/, django-synchro, 0.7, Django app for database data synchronization., 2017-11-12T22:30:01+0000
+/project/django-pluralize-pl/, django-pluralize-pl, 0.2.1, Polish pluralization for Django templates., 2020-02-04T16:03:58+0000
+/project/django-holding-page/, django-holding-page, 1.0.0, A viral holding page to collect email addresses with export and unsubscribe functionality., 2015-10-28T10:43:12+0000
+/project/django-modelsdoc/, django-modelsdoc, 0.1.11, Create models definitions document from your Django project., 2019-11-28T06:44:41+0000
+/project/django-saml2-auth-idperror-redirect/, django-saml2-auth-idperror-redirect, 0.0.2, Django SAML2 Plugin for URL redirection on IDP Error (usually to an IdP login), 2020-03-14T23:47:59+0000
+/project/django-boardinghouse/, django-boardinghouse, 0.3.5, Postgres schema support in django., 2016-03-02T10:44:38+0000
+/project/viewlogger/, ViewLogger, 2.1.0, Log view hits over time so that you know who enter this view and when., 2020-07-02T10:38:53+0000
+/project/stacks-textblock/, stacks-textblock, 0.2, A Stacks app for creating blocks of text., 2015-06-24T18:00:48+0000
+/project/image-diet2/, image-diet2, 1.0, Remove unnecessary bytes from images, 2016-01-07T11:55:23+0000
+/project/django-modeladmin-utils/, django-modeladmin-utils, 1.0.0, ModelAdmin utils, 2015-11-04T20:22:15+0000
+/project/django-gstorage/, django-gstorage, 0.5.1, Allow easy integration with Google storage for Django projects, 2016-11-04T09:10:09+0000
+/project/django-table-select-widget/, django-table-select-widget, 1.1.0, A Django widget for use with a ModelMultipleChoiceField to allow easy jQuery DataTables sorting and pagination by rendering the selector as a table.
+, 2017-04-17T21:53:38+0000
+/project/djurls/, djURLs, 0.0.2, Decorator for mapping Django URLs., 2016-06-05T13:44:07+0000
+/project/lru2cache/, lru2cache, 0.1.2, A least recently used (LRU) 2 layer caching mechanism based in part on the Python 2.7 back-port of lru_cache, 2016-02-05T17:40:56+0000
+/project/djcharme/, djcharme, 0.8.6, CHARMe Node, 2016-04-25T12:55:13+0000
+/project/django-compiling-loader/, django-compiling-loader, 0.0.1, A bytecode compiling template loader for Django, 2015-07-20T10:43:55+0000
+/project/django-extra-tools/, django-extra-tools, 0.3.0, A set of functions related with Django, 2017-05-02T08:28:12+0000
+/project/django-sendgrid-webhook/, django-sendgrid-webhook, 0.3.0, A small django app around sendgrid and its webhooks, 2017-04-21T12:08:35+0000
+/project/apidev-django-floppyforms/, apidev_django-floppyforms, 1.8.4, Full control of form rendering in the templates, 2020-07-29T15:02:11+0000
+/project/django-compress-storage/, django-compress-storage, 0.9.1, Automantic compress files after upload, 2015-02-04T10:14:39+0000
+/project/django-facebook-insights/, django-facebook-insights, 0.1.0, Collect and store Facebook Insights metrics using Django models., 2016-11-21T12:08:53+0000
+/project/django-field-object-permissions/, django-field-object-permissions, 0.1.1, Provides an object permission system based on field values (eg: object.owner == user), 2017-04-10T18:18:16+0000
+/project/django-navutils/, django-navutils, 0.7, A lightweight package for handling menus and breadcrumbs in your django project, 2019-02-22T10:52:49+0000
+/project/django-mdeditor/, django-mdeditor, 0.1.18, A simple Django app to edit markdown text., 2020-04-13T06:34:18+0000
+/project/sigmacms-polymorphic-tree/, sigmacms-polymorphic-tree, 1.2.6b1, A polymorphic mptt structure to display content in a tree., 2016-06-14T11:20:38+0000
+/project/param-store/, param-store, 0.2.2, Parameter store for secrets, 2020-09-21T13:24:13+0000
+/project/django-simple-help/, django-simple-help, 0.6.1, Django reusable application providing page help, 2017-05-16T02:17:11+0000
+/project/fluentcms-emailtemplates/, fluentcms-emailtemplates, 2.0, Creating e-mail messages, with multiple layouts and multilingual content., 2018-01-22T21:44:42+0000
+/project/django-rest/, django-rest, 0.8.7, Tiny, lightweight, blazing fast REST library for django, 2021-04-20T22:15:40+0000
+/project/pybrief/, pybrief, 1.0.1, PyBRIEF is a small blog system (and more cause it's
+modular) written in python with django, 2015-04-13T19:20:14+0000
+/project/django-oscar-accounts-wt/, django-oscar-accounts-wt, 0.4rc3, Managed accounts for django-oscar, 2016-07-30T22:28:34+0000
+/project/django-triflesoft-pages/, django-triflesoft-pages, 0.4.1601022010, Django pages by TrifleSoft, 2016-01-02T20:10:51+0000
+/project/django-clean-fields/, django-clean-fields, 0.3.0, A Django utility to clean model field values on save., 2016-08-19T15:14:42+0000
+/project/django-etl-sync/, django-etl-sync, 0.3.3, Django ETL, derives rules from models, creates relations., 2018-01-17T19:53:29+0000
+/project/django-skd-smoke/, django-skd-smoke, 0.2, Smoke tests for django projects., 2015-11-11T13:02:21+0000
+/project/django-slack-invitation/, django-slack-invitation, 0.1.0, API client for Beddit sleep tracker, 2016-08-28T10:07:17+0000
+/project/django-appregistration/, django-appregistration, 0.0.6, Dynamic registration between django apps., 2017-05-19T10:41:02+0000
+/project/django-admin-conf-vars/, django-admin-conf-vars, 0.4.1, A simple Django app to edit configuration variables with the Django admin., 2018-07-25T22:47:34+0000
+/project/django-pjax/, django-pjax, 1.7, Django-PJAX: The Django helper for jQuery-PJAX., 2020-07-21T02:42:51+0000
+/project/blognajd/, blognajd, 1.1.1, Simple django blogging application, 2015-09-07T08:43:47+0000
+/project/django-frontend/, django-frontend, 1.8.0, Django Frontend is a collection of static files and templates to jumpstart Django front-end development., 2016-07-28T18:15:34+0000
+/project/django-bulksms/, django-bulksms, 0.0.1, Django BulkSMS library/API., 2016-10-18T14:17:26+0000
+/project/django-replicated-ext/, django-replicated-ext, 3.1, Django DB router for stateful master-slave replication, 2018-04-24T13:11:12+0000
+/project/django-phonenumbers/, django-phonenumbers, 1.0.1, Phone number field for Django admin, 2015-08-06T10:45:02+0000
+/project/django-fwdform/, django-fwdform, 0.1.0, Simple and painless form processing for static sites., 2015-12-16T00:10:13+0000
+/project/singlemodeladmin/, singlemodeladmin, 0.9, ModelAdmin for models that are meant to have one record, 2018-07-30T04:50:07+0000
+/project/django-datapurge/, django-datapurge, 0.0.2, A simple Django app to easily handle cleanup of old data (sessions, nonces, etc.), 2016-04-07T09:52:32+0000
+/project/djangocms-embed/, djangocms-embed, 0.1.1, Embed any content on the web. Powered by embed.ly., 2016-01-03T02:09:46+0000
+/project/django-http-authentication/, django-http-authentication, 0.0.1, A django application that adds decorators to allow authentication via HTTP_AUTHORIZATION., 2017-08-31T15:37:46+0000
+/project/django-compat/, django-compat, 1.0.15, For- and backwards compatibility layer for Django 1.4, 1.7, 1.8, 1.9, 1.10, and 1.11, 2017-12-04T09:14:25+0000
+/project/django-dbrouter/, django-dbrouter, 0.1.2, Simple and usable database router for django, 2021-04-08T14:04:05+0000
+/project/django-mutant/, django-mutant, 0.2.1, Dynamic model definition and alteration (evolving schemas), 2016-01-14T05:00:53+0000
+/project/cmsplugin-plain-text/, cmsplugin-plain-text, 0.1.2, A simple plaintext plugin for django CMS., 2016-07-14T10:57:06+0000
+/project/django-capture-tag/, django-capture-tag, 1.0, A micro-library to capture output in Django templates, 2016-04-20T12:52:12+0000
+/project/handy/, handy, 0.7, A collection of tools to make your django life easier., 2017-12-31T10:41:06+0000
+/project/django-excel/, django-excel, 0.0.10, A django middleware that provides one application programminginterface to read and write data in different excel file formats, 2018-01-12T23:31:47+0000
+/project/django-datebook/, django-datebook, 1.2.0, A Django application to manage users Datebooks, 2016-11-08T00:12:03+0000
+/project/django-cereal/, django-cereal, 0.2.1, Efficient serialization of Django Models for use in Celery that ensure the state of the world., 2015-12-14T01:28:44+0000
+/project/drf-dynamic-fields-mixin/, drf_dynamic_fields_mixin, 0.1.0, A mixin to make Django Rest Framework serializers dynamically configurable., 2015-10-29T23:48:46+0000
+/project/drf-tracking/, drf-tracking, 1.5.0, Utils to log Django Rest Framework requests to the database, 2018-10-23T17:58:15+0000
+/project/django-migration-helper/, django-migration-helper, 0.1.1, Django helper for more complicated migrations., 2017-01-30T00:25:26+0000
+/project/wagtail-stacks/, wagtail-stacks, 0.2, The base application for Wagtail Stacks., 2015-12-09T15:36:18+0000
+/project/django-iplant-auth/, django-iplant-auth, 0.1.21, Authentication support for iPlantCollaborative., 2016-12-06T19:19:46+0000
+/project/django-fluent-dashboard/, django-fluent-dashboard, 1.0.1, An improved django-admin-tools dashboard for Django projects, 2019-07-15T09:31:28+0000
+/project/zds-member/, zds-member, 0.1.5, Django user module implemented with Django framework, 2015-10-26T20:07:52+0000
+/project/django-fluent-faq/, django-fluent-faq, 1.0, A FAQ engine for Django Fluent CMS, 2016-12-30T13:06:08+0000
+/project/django-bootstrap-pagination-vinta/, django-bootstrap-pagination-vinta, 1.6.1, Render Django Page objects as Bootstrap 3.x Pagination compatible HTML, 2016-08-10T12:13:01+0000
+/project/aldryn-reversion/, aldryn-reversion, 1.1.0, Support for django-reversion on models with translatable fields and django-cms placeholder fields., 2017-02-28T20:39:50+0000
+/project/django-websocket-redis/, django-websocket-redis, 0.6.0, Websocket support for Django using Redis as datastore, 2019-09-17T08:42:28+0000
+/project/django-categories-i18n/, django-categories-i18n, 1.1.1, Translatable Categories model, 2020-01-05T12:36:34+0000
+/project/django-env-bar/, django-env-bar, 0.0.4, A basic panel displaying the name of the current environment., 2020-01-16T16:17:22+0000
+/project/django-healthchecks/, django_healthchecks, 1.4.2, Simple Django app/framework to publish health checks, 2018-03-08T16:44:37+0000
+/project/django-dynamic-cabinetmaps/, django-dynamic-cabinetmaps, 0.1.dev2, A lightweight dynamic create cabinet graph with django., 2015-12-17T08:58:13+0000
+/project/django-tour/, django-tour, 0.7.0, Require the django user to complete a series of steps with custom logic, 2015-10-05T19:45:33+0000
+/project/django-stagesetting/, django-stagesetting, 0.5.0, Dynamic runtime settings and configuration for Django sites, 2017-02-27T20:04:30+0000
+/project/cmsplugin-feedparser/, cmsplugin-feedparser, 0.3.0, django-feedparser plugin for DjangoCMS, 2016-09-10T23:14:46+0000
+/project/django-om/, django-om, 0.1.0-alpha21, Om.next query parser for Django, 2018-08-23T12:55:39+0000
+/project/django-autoshard/, django-autoshard, 1.2.1, A Django library that makes sharding easy., 2016-07-13T05:08:53+0000
+/project/ddt-envelope/, ddt-envelope, 0.1.0, Simple helper for inspecting non-html views with django-debug-toolbar, 2015-06-23T15:02:21+0000
+/project/django-csv-export/, django-csv-export, 0.0.3, django-export-csv is a reusable Django application which provides generic View class for creating and rendering CSV., 2017-07-21T16:12:35+0000
+/project/dj-extensions/, dj-extensions, 0.1.6, Yet another Django extension with set of generic reusable, pluggable mixins, 2016-02-06T18:16:36+0000
+/project/django-comment/, django-comment, 1.0.3, A simple Django app to add comment and related operations to your models., 2017-08-15T03:24:42+0000
+/project/drfapikey/, drfapikey, 0.0.3, Authenticate Web APIs made with Django REST Framework, 2016-08-24T10:09:44+0000
+/project/quantum-django-saml2-auth/, quantum-django-saml2-auth, 2.2.1, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2019-07-25T14:33:16+0000
+/project/django-cyborg/, django-cyborg, 0.2.1, A simple way to add robots.txt and humans.txt to your Django project, 2015-12-08T17:10:24+0000
+/project/django-yamlconf/, django-yamlconf, 1.4.0, Define Django settings in local YAML (or JSON) files, 2021-03-03T21:34:58+0000
+/project/django-rosetta/, django-rosetta, 0.9.6, A Django application that eases the translation of Django projects, 2021-03-19T14:35:25+0000
+/project/django-doberman/, django-doberman, 0.5.9, Django app that locks out users after too many failed login attempts., 2015-07-28T18:39:16+0000
+/project/drf-tracking-geoip/, drf-tracking-geoip, 1.5.0, Utils to log Django Rest Framework requests to the database, 2019-03-14T06:31:17+0000
+/project/django-triflesoft-token-auth/, django-triflesoft-token-auth, 0.4.1510031721, Django token authentication by TrifleSoft, 2015-10-03T17:21:03+0000
+/project/django-confirmed-email/, django-confirmed-email, 0.0.7, Provides an email sender that automatically confirms addresses., 2016-06-09T22:58:32+0000
+/project/django-saveall/, django-saveall, 0.1.5, A simple Django app that adds a custom django-admin command for saving model instances throughout a project., 2016-03-15T17:29:21+0000
+/project/django-adv-cache-tag/, django-adv-cache-tag, 1.1.3, An advanced template tag for caching in django: versioning, compress, partial caching, easy inheritance, 2020-05-02T10:24:21+0000
+/project/django-easy-instagram/, django-easy-instagram, 0.3.4, Instagram client for Django., 2021-04-12T08:21:23+0000
+/project/djangocms-bs3-theme-solid/, djangocms-bs3-theme-solid, 0.1.0, A comment system for Django CMS unintrusive and easy to use.
+Add it to your pages without modifying your models. It is highly customizable!, 2016-04-26T22:12:18+0000
+/project/django-easy-validator/, django-easy-validator, 1.4.0, a very easy use django request POST/GET data validator, 2020-06-04T04:14:37+0000
+/project/django-storedqueries/, django-storedqueries, 0.1.4, A small package for Django to ease the creation of temporary tables, based on model definitions and querysets, 2019-07-30T07:28:58+0000
+/project/djangocms-lab-publications/, djangocms-lab-publications, 0.1.5, A Django app for adding sets of scientific publications with PubMed metadata to a Django site with django CMS-specific features, 2015-11-10T01:07:47+0000
+/project/djangocms-lab-members/, djangocms-lab-members, 0.2.0, A Django app to extend django-lab-members with django CMS-specific features, 2015-11-10T10:15:49+0000
+/project/swapper/, swapper, 1.1.2.post1, The unofficial Django swappable models API., 2020-01-15T01:13:43+0000
+/project/python-iprofile/, python-iprofile, 0.3.3, A CLI for handling IPython 4+ profiles startup scripts., 2016-03-05T15:36:58+0000
+/project/wagtail-stacks-featuredlink/, wagtail-stacks-featuredlink, 0.1, A Wagtail Stacks app for creating links., 2015-12-01T20:36:12+0000
+/project/django-fixturemigration/, django-fixturemigration, 0.7, An app to load fixtures inside a migration data step, 2015-07-29T19:43:31+0000
+/project/django-logging-json/, django-logging-json, 1.15, A simple Django app to log requests/responses in various formats, such as JSON., 2017-11-23T14:32:44+0000
+/project/stacks-image/, stacks-image, 0.2.2, A Stacks application for handling images and lists of images., 2016-01-25T17:01:55+0000
+/project/django-debugtools/, django-debugtools, 1.8, A toolbox of small utilities to assist Django development, 2020-03-15T13:30:38+0000
+/project/django-premailer/, django-premailer, 0.2.0, Django template tag that turns CSS blocks into style attributes using premailer., 2016-06-20T21:38:00+0000
+/project/django-triflesoft-locations/, django-triflesoft-locations, 0.3.1509281138, Django locations models by TrifleSoft, 2015-09-28T11:38:14+0000
+/project/django-notifications-latest/, django-notifications-latest, 2.1.0, GitHub notifications alike app for Django., 2019-08-11T14:02:19+0000
+/project/django-taggit-helpers/, django-taggit-helpers, 0.1.4, Django admin helper classes for django-taggit tags, 2015-12-05T06:35:56+0000
+/project/django-xiti/, django-xiti, 0.1.1, Django app to include Xiti loading code into your templates, 2016-04-18T01:03:54+0000
+/project/django-json-rpc/, django-json-rpc, 0.7.2, A simple JSON-RPC implementation for Django, 2015-11-30T23:24:06+0000
+/project/django-real-content/, django-real-content, 0.1.12, Template tags to quickly show real content instead of lorem ipsum., 2019-02-23T23:49:26+0000
+/project/m3-spyne-smev/, m3-spyne-smev, 0.4.4, Набор протоколов фреймворка spyne для работы со СМЭВ., 2021-04-05T09:34:19+0000
+/project/django-lab-members/, django-lab-members, 0.3.0, A Django app to display lab personnel and information about them., 2015-11-10T09:50:03+0000
+/project/django-ripozo/, django-ripozo, 1.1.0, Integrates ripozo with django for fast, flexible Hypermedia, HATEOAS, and other REST apis, 2015-11-23T01:48:17+0000
+/project/django-loadjson/, django-loadjson, 0.1.2, Loadjson management command for Django, 2016-04-08T23:48:15+0000
+/project/django-autofixture/, django-autofixture, 0.12.1, Provides tools to auto generate test data., 2016-04-08T07:46:34+0000
+/project/django-truncate/, django-truncate, 0.1, A simple Django app to help developers truncate specific models., 2016-04-24T22:40:37+0000
+/project/django-sessionprofile/, django-sessionprofile, 1.0, Use Django for SSO - this package provides a bridge for third party packages., 2016-08-13T08:45:15+0000
+/project/json-rpc-django/, json-rpc-django, 1.0.1, A simple JSON-RPC implementation for Django. An extension of django-json-rpc by Samuel Sutch for python 3, 2019-02-20T08:02:20+0000
+/project/djangocms-shiny-app/, djangocms-shiny-app, 0.1.3, A Django app for adding R Shiny apps to a Django site with django CMS-specific features, 2015-12-07T08:58:25+0000
+/project/djangocms-blog-martin/, djangocms-blog-martin, 0.5.1.dev3, Fork of djangoCMS 3 blog application, 2015-08-11T08:34:39+0000
+/project/django-teledex/, django-teledex, 0.2.0, Storage of addresses, phone numbers and emails in Django., 2015-09-17T03:25:50+0000
+/project/django-version-viewer/, django-version-viewer, 1.0.3, Django app for viewing pip packages and their versions, 2020-12-14T16:22:32+0000
+/project/django-haystackbrowser/, django-haystackbrowser, 0.6.3, A reusable Django application for viewing and debugging all the data that has been pushed into Haystack, 2018-07-01T10:41:11+0000
+/project/django-mips/, django-mips, 0.3.2, A simple API (build on top of the Django Model API) to store and manage MIP (molecular inversion probe) markers., 2015-11-17T15:11:24+0000
+/project/django-dynamic-forms/, django-dynamic-forms, 0.5.3, django-dynamic-forms is a reusable Django application to create and configure forms through the admin., 2017-01-06T22:52:27+0000
+/project/django-feedparser/, django-feedparser, 0.2.1, A Django app using 'feedparser' to fetch and parse a feed to render it from a template, 2016-02-24T00:22:59+0000
+/project/django-evolution/, django-evolution, 2.1.2, A database schema evolution tool for the Django web framework., 2021-01-20T01:41:36+0000
+/project/django-emaillog-backend/, django-emaillog-backend, 0.1.1, Django email backend that writes messages to logger instead of sending them by SMTP., 2020-05-03T17:00:53+0000
+/project/django-triflesoft-holidays/, django-triflesoft-holidays, 0.2.1509281136, Django holidays models by TrifleSoft, 2015-09-28T11:36:21+0000
+/project/stacks-contentgroup/, stacks-contentgroup, 0.1.2, A Stacks apps for creating groups of menu-ed content., 2015-09-09T13:38:33+0000
+/project/django-bitbucket-hook/, django-bitbucket-hook, 1.2.6, Django module, 2016-09-06T15:42:19+0000
+/project/django-model-tracker/, django-model-tracker, 1.5.0, Track Django Model Objects over time, 2021-04-08T13:24:55+0000
+/project/django-sponsors/, django-sponsors, 0.1.2, Django App to easily manage project sponsors, 2015-07-04T16:51:30+0000
+/project/django-websocket-redis-plus/, django-websocket-redis-plus, 0.6.0.1, Websocket support for Django using Redis as datastore, 2020-04-17T14:14:27+0000
+/project/django-nose-qunit/, django-nose-qunit, 1.6.1, Integrate QUnit JavaScript tests into a Django test suite via nose, 2016-05-05T19:19:25+0000
+/project/django-saml2-auth-plus/, django-saml2-auth-plus, 1.0.0, Simple and Configurable Django SAML2 Authentication. Easily integrate with SAML2 SSO identity providers like Okta, 2018-08-03T05:04:48+0000
+/project/django-ajax-auth/, django-ajax-auth, 0.1.1, A simple Django application for AJAX authorisation., 2018-03-23T06:24:47+0000
+/project/django-cyverse-auth/, django-cyverse-auth, 1.2.0, Authentication support for CyVerse Django applications., 2018-10-10T19:49:24+0000
+/project/django-triflesoft-tags/, django-triflesoft-tags, 0.3.1509281140, Django template tags by TrifleSoft, 2015-09-28T11:40:05+0000
+/project/mojo-navigation/, mojo-navigation, 0.0.3, Django app managing simple navigation., 2015-12-04T08:40:03+0000
+/project/django-timedeltafield/, django-timedeltafield, 0.7.10, TimedeltaField for django models, 2015-05-26T12:16:10+0000
+/project/django-saml2-auth-with-certsupport/, django-saml2-auth-with-certsupport, 0.0.3, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2021-01-02T22:26:45+0000
+/project/autobreadcrumbs/, autobreadcrumbs, 2.0.0, Django application to add breadcrumbs to your pages, 2016-08-17T22:58:50+0000
+/project/django-nsync/, django-nsync, 0.4.0, Django N Sync provides a simple way to keep your Django, 2018-03-06T09:08:25+0000
+/project/djangohitcounter/, djangohitcounter, 0.2, Pretty simple hit counter for Django ORM objects, 2016-01-13T09:31:41+0000
+/project/robotframework-djangolibrary/, robotframework-djangolibrary, 3.1.0, A Robot Framework library for Django., 2018-12-24T06:17:19+0000
+/project/django-pdfkit/, django-pdfkit, 0.3.1, Django view that converts HTML to PDF using webkit., 2017-08-15T00:48:48+0000
+/project/yet-another-django-profiler/, yet-another-django-profiler, 1.1.0, Django middleware for performance profiling directly from the browser, 2017-01-11T03:41:01+0000
+/project/django-giji-auth/, django-giji-auth, 1.1.1, Authentication support for GIJI Django applications., 2018-02-23T15:34:17+0000
+/project/cmsplugin-iframe/, cmsplugin-iframe, 0.1.5, Django CMS page iframe plugin, 2016-04-23T18:57:57+0000
+/project/django-saml2-auth/, django-saml2-auth, 2.2.1, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2019-01-24T11:49:44+0000
+/project/django-sympa/, django-sympa, 0.1.1, Add a view to interact with sympa, 2015-07-22T10:15:09+0000
+/project/django-saml2-auth-ai/, django-saml2-auth-ai, 2.1.6, Django SAML2 Authentication AI, 2019-12-04T07:00:17+0000
+/project/django-userena/, django-userena, 2.0.1, Complete user management application for Django, 2016-03-23T09:28:09+0000
+/project/djangocms-unitegallery/, djangocms-unitegallery, 0.1.0, unitegallery grid Plugin for django CMS, 2016-03-18T12:12:06+0000
+/project/django-lazysignup-redux/, django-lazysignup-redux, 1.0.0, Lazy signup for Django, 2015-04-27T18:55:28+0000
+/project/django-saml2-auth-signout-slo/, django-saml2-auth-signout-slo, 0.0.10, Single LogOut (SLO) plugin for django_saml2_auth, 2019-09-27T16:48:59+0000
+/project/alaudaorg-django-oauth/, alaudaorg-django-oauth, 0.9.0, OAuth2 goodies for Django, 2018-04-20T08:53:47+0000
+/project/stacks-snippet/, stacks-snippet, 0.1.1, A Stacks apps for managing/display snippets of HTML., 2015-06-19T20:19:32+0000
+/project/django-rt/, django-rt, 0.3.1, A framework for implementing real-time APIs in Django web applications, 2016-05-29T16:58:11+0000
+/project/django-oauth-plus/, django-oauth-plus, 2.2.9, Support of OAuth 1.0a in Django using python-oauth2., 2016-06-02T09:13:18+0000
+/project/django-ember-index/, django-ember-index, 0.7.0, A Django app to serve Ember index files., 2015-06-04T21:54:39+0000
+/project/django-bootstrap-pagination/, django-bootstrap-pagination, 1.7.1, Render Django Page objects as Bootstrap 3.x/4.x Pagination compatible HTML, 2019-06-13T21:31:37+0000
+/project/stacks-embed/, stacks-embed, 0.2.2, A Stacks application for handling embeddable media., 2016-03-28T15:48:56+0000
+/project/django-lodfield/, django-lodfield, 1.0.3, List of Dictionaries Model Field for Django, 2016-06-02T09:55:37+0000
+/project/django-vatno-validator/, django-vatno-validator, 0.1.1, A Django validator that validates European VAT numbers, 2015-12-17T20:02:18+0000
+/project/django-excel-to-model/, django-excel-to-model, 0.1.12, Create model file from excel, 2021-03-15T07:10:00+0000
+/project/ghostly/, ghostly, 0.2.4, Lightweight API around Selenium Webdriver for end to end testing with Django., 2016-04-22T00:50:55+0000
+/project/versie/, versie, 0.0.2, Client for the versie project, 2019-07-12T10:46:04+0000
+/project/django-sa/, django-sa, 0.1, Utility to convert a python script into a standalone django script, 2017-09-23T19:24:41+0000
+/project/alogator/, alogator, 0.2.0, Alogator is an aggregated logging actor system., 2015-05-22T13:41:38+0000
+/project/django-teryt/, django-teryt, 0.3.0, TERYT database implementation for Django, 2016-01-06T17:45:04+0000
+/project/django-logging-json-fork/, django-logging-json-fork, 0.0.2, Fork update of cipriantarta/django-logging., 2020-06-16T22:03:58+0000
+/project/django-locations-base/, django-locations-base, 0.3.4, A simple locations app for Django, 2015-11-14T23:41:54+0000
+/project/django-gddkia-impediments-on-roads/, django-gddkia-impediments-on-roads, 0.1.1, Django client for gddkia-impediments-on-roads, 2016-07-29T10:57:58+0000
+/project/django-site-notifications/, django-site-notifications, 1.0.0, Enable a message on every page load., 2015-04-16T02:17:45+0000
+/project/easy-mask/, easy-mask, 1.3.4, Simple package for the use of masks in django, 2016-02-23T00:17:11+0000
+/project/django-auth-role/, django-auth-role, 0.4.0, Add user roles to django-auth, 2017-05-10T16:53:19+0000
+/project/django-svg-templatetag/, django-svg-templatetag, 1.0.1, Inject a SVG file into your Django template., 2016-12-21T13:51:32+0000
+/project/tlogger/, tlogger, 0.2.2, Syntax sugar for logging., 2015-08-20T17:26:20+0000
+/project/django-colorfield/, django-colorfield, 0.4.1, simple color field for your models with a nice color-picker in the admin-interface., 2021-01-19T11:08:33+0000
+/project/django-saml2-auth-lw/, django-saml2-auth-lw, 2.2.2, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2021-02-22T03:12:11+0000
+/project/djgunicorn/, djgunicorn, 0.3.0, Run Django development server with Gunicorn., 2016-04-12T12:10:58+0000
+/project/djangocms-rosetta/, djangocms-rosetta, 0.0, Add links to rosetta's translation interface in the Django CMS Toolbar., 2015-09-30T19:09:30+0000
+/project/django-polymorphic-ng/, django-polymorphic-ng, 0.8.0, Seamless Polymorphic Inheritance for Django Models, 2015-12-06T11:23:03+0000
+/project/django-event-system/, django-event-system, 1.0.1, A simple package that implements an event system in django, 2019-10-16T14:37:02+0000
+/project/django-chat/, django-chat, 0.1.0, Simple chat, 2017-04-26T20:13:09+0000
+/project/django-triflesoft-deferred/, django-triflesoft-deferred, 0.1.1509191803, Django deferred task execution by TrifleSoft, 2015-09-19T18:03:28+0000
+/project/django-jackfrost/, django-jackfrost, 0.4.0, A static site generator for Django views, 2015-07-13T18:18:34+0000
+/project/django-dedal/, django-dedal, 1.1.0, Fast CRUD builder., 2019-01-11T21:17:26+0000
+/project/django-datadownloader/, django-datadownloader, 0.2.3, Admin interface for manage archives of db's json dumps and/or media datas, 2017-01-06T16:17:54+0000
+/project/forest-django/, forest-django, 0.1, Forest connector for Django, 2016-09-09T08:27:59+0000
+/project/django-cas-client/, django-cas-client, 1.5.3, Django Cas Client, 2019-12-24T15:17:46+0000
+/project/drf-tracking-dm/, drf-tracking-dm, 1.4.0, Utils to log Django Rest Framework requests to the database, 2020-03-03T12:40:57+0000
+/project/django-admin-interface/, django-admin-interface, 0.16.2, django-admin-interface is a modern responsive flat admin interface customizable by the admin itself., 2021-04-23T13:01:01+0000
+/project/m3-fias/, m3-fias, 1.2.3, Федеральная информационная адресная система, 2021-01-25T20:04:51+0000
+/project/djangocms-youtube/, djangocms-youtube, 0.2.1, YouTube embed plugin for your django-cms powered site with options for custom video thumbnails, analytics, SEO and more., 2017-07-25T22:51:04+0000
+/project/django-dev-email/, django-dev-email, 1.0.2, Send all mail to a desired address during development, 2015-04-26T19:10:59+0000
+/project/django-rundbg/, django-rundbg, 0.1.3, Provides a lightweight development runserver on Werkzeug with debugging, 2017-05-09T21:18:12+0000
+/project/oauth2-sso/, oauth2_sso, 0.5.0, Django OAuth 2 Authentication Made Easy, 2018-06-28T12:12:48+0000
+/project/django-toolkit/, django-toolkit, 0.3.3, A collection of tools and helpers for use with Django., 2015-07-26T23:33:31+0000
+/project/fs-django-mdeditor/, fs-django-mdeditor, 0.1.24, A simple Django app to edit markdown text., 2020-06-09T02:26:45+0000
+/project/django-bzrviews/, django-bzrviews, 0.0.2, A Bazaar View for Django Projects, 2017-07-13T20:24:35+0000
+/project/django-oauth-toolkit-fork/, django-oauth-toolkit-fork, 0.11.0, Fork of django-oauth-toolkit, 2016-03-02T11:18:52+0000
+/project/django-telegrambot/, django-telegrambot, 1.0.1, A simple app to develop Telegram bot with Django, 2017-06-02T01:11:17+0000
+/project/cmsplugin-nvd3/, cmsplugin-nvd3, 0.5.2, Insert nvd3 charts into django-cms driven websites, 2016-06-05T00:13:48+0000
+/project/drf-tracking-extended/, drf-tracking-extended, 1.2.1, Utils to log Django Rest Framework requests to the database. Fork of drf-tracking with extended features., 2017-07-06T13:54:58+0000
+/project/django-initial-avatars/, django-initial-avatars, 0.9.1, A simple Django app to get avatars based on username and initials if no gravatars is associated with the email address., 2018-01-28T20:02:43+0000
+/project/emencia-django-countries/, emencia.django.countries, 0.2.2, List of manageable countries for your Django projects, 2015-12-10T23:19:47+0000
+/project/django-triflesoft-organizations/, django-triflesoft-organizations, 0.3.1510011648, Django organizations models by TrifleSoft, 2015-10-01T16:48:44+0000
+/project/djangocms-highlightjs/, djangocms-highlightjs, 0.5.0, highlight.js plugin for django CMS 3.0, 2016-05-08T14:58:22+0000
+/project/rinse/, rinse, 0.5.0, SOAP client built with lxml and requests., 2020-08-19T23:52:00+0000
+/project/django-api-decorators/, django-api-decorators, 0.0.3, Tiny decorator functions to make it easier to build an API using Django in ~100 LoC, 2019-08-22T01:50:21+0000
+/project/stacks-twitter/, stacks-twitter, 0.1.1, A Stacks apps for featuring tweets., 2015-06-19T20:23:33+0000
+/project/djangomodeltracker/, DjangoModelTracker, 1.3.9, Track Django Model Objects over time, 2019-07-23T13:15:44+0000
+/project/djangoceleryrpc/, djangoceleryrpc, 2.3.0, Remote access from one system to models and functions of another one using Celery machinery., 2021-04-10T06:09:35+0000
+/project/django-google-adwords/, django-google-adwords, 0.7.2, Django modelling and helpers for the Google Adwords API., 2015-07-26T22:24:35+0000
+/project/django-vote/, django-vote, 2.2.0, A simple Django app to conduct vote., 2020-05-17T15:53:31+0000
+/project/djangocms-lab-carousel/, djangocms-lab-carousel, 0.2.1, A Django app for adding a carousel of recent papers, etc. to a Django site with django CMS-specific features, 2015-12-07T08:24:58+0000
+/project/crimson-antispam/, crimson_antispam, 0.5.0, Anti-spam package for django framework, 2016-06-27T18:51:49+0000
+/project/django-query-builder-pebble/, django-query-builder-pebble, 0.9.0, Build complex nested queries, 2016-01-19T11:40:51+0000
+/project/forest-django/, forest-django, 0.1, Forest connector for Django, 2016-09-09T08:27:59+0000
+/project/django-cas-client/, django-cas-client, 1.5.3, Django Cas Client, 2019-12-24T15:17:46+0000
+/project/drf-tracking-dm/, drf-tracking-dm, 1.4.0, Utils to log Django Rest Framework requests to the database, 2020-03-03T12:40:57+0000
+/project/django-admin-interface/, django-admin-interface, 0.16.2, django-admin-interface is a modern responsive flat admin interface customizable by the admin itself., 2021-04-23T13:01:01+0000
+/project/m3-fias/, m3-fias, 1.2.3, Федеральная информационная адресная система, 2021-01-25T20:04:51+0000
+/project/django-rundbg/, django-rundbg, 0.1.3, Provides a lightweight development runserver on Werkzeug with debugging, 2017-05-09T21:18:12+0000
+/project/django-site-notifications/, django-site-notifications, 1.0.0, Enable a message on every page load., 2015-04-16T02:17:45+0000
+/project/easy-mask/, easy-mask, 1.3.4, Simple package for the use of masks in django, 2016-02-23T00:17:11+0000
+/project/django-auth-role/, django-auth-role, 0.4.0, Add user roles to django-auth, 2017-05-10T16:53:19+0000
+/project/django-cas-minimal/, django-cas-minimal, 2.3.7, A Django CAS library for version 1.7.4 which actually works, 2016-09-26T17:19:12+0000
+/project/django-project-home-templatetags/, django-project-home-templatetags, 0.2.1, A collection of Django templatetags to flexibly incorporate links and breadcrumbs from app pages to the homepage of a project, 2018-12-09T09:38:47+0000
+/project/django-selectable-filter/, django-selectable-filter, 0.1.5, The filterspec to the Django administration that allow you to filter records using the resources of django-selectable library, 2015-05-04T18:56:30+0000
+/project/django-queryable-properties/, django-queryable-properties, 1.6.1, Write Django model properties that can be used in database queries., 2021-04-19T17:13:57+0000
+/project/stacks-page/, stacks-page, 0.3, A Stacks application for generating static HTML pages., 2016-04-11T19:34:58+0000
+/project/django-triflesoft-freshdesk/, django-triflesoft-freshdesk, 0.2.1509281135, Django FreshDesk integration by TrifleSoft, 2015-09-28T11:35:31+0000
+/project/django-migration-fixture/, django-migration-fixture, 0.5.1, Easily use fixtures in Django 1.7+ data migrations., 2015-07-24T02:11:58+0000
+/project/django-secrets/, django-secrets, 1.0.2, The easy way of handling Django secrets., 2018-06-15T10:31:17+0000
+/project/paper/, paper, 0.2.0, Keep generated fields in cache for your Django models., 2015-09-13T09:35:37+0000
+/project/django-datalogger/, django-datalogger, 0.1.1, A simple Django app to record data changer., 2016-08-16T05:20:53+0000
+/project/django-json-renderer/, django-json-renderer, 0.1.2, A Simple json renderer for django., 2016-11-14T13:23:49+0000
+/project/django-custom-indexes/, django-custom-indexes, 0.1.5, PostgreSQL custom indexes for Django models, 2018-12-22T11:23:33+0000
+/project/django-meta-mixin/, django-meta-mixin, 0.3.0, Social meta tags mixin for django-meta, 2016-03-29T21:55:32+0000
+/project/django-comuni-italiani/, django-comuni-italiani, 1.4.1, A simple django (>= 1.7) app for Italian cities and regions, 2019-01-19T15:15:10+0000
+/project/django-flash-rest/, django-flash-rest, 0.8.4, Tiny, lightweight, blazing fast REST library for django, 2020-06-15T15:40:29+0000
+/project/django-pymssql/, django-pymssql, 1.7.1, Django database backend for Microsoft SQL Server that works on non-Windows systems., 2016-01-24T17:23:31+0000
+/project/django-formed/, django-formed, 1.0.0, A form designer application for Django, 2019-02-22T13:43:45+0000
+/project/django-maintenance-mode/, django-maintenance-mode, 0.16.0, django-maintenance-mode shows a 503 error page when maintenance-mode is on., 2021-03-23T10:44:46+0000
+/project/django-serializable-model/, django-serializable-model, 0.0.6, Django classes to make your models, managers, and querysets serializable, with built-in support for related objects in ~150 LoC, 2019-10-26T19:29:38+0000
+/project/django-generate-fixtures/, django-generate-fixtures, 0.2.0, Easy way to generate fixtures (in json) for django following the links of a given object, 2016-07-28T18:20:10+0000
+/project/restosaur/, restosaur, 0.6.8, Damn simple RESTful library, 2016-09-02T16:06:14+0000
+/project/django-template-field/, django-template-field, 0.3.1, A Django fitemplate field twith managers to return the rendered or unrendered template., 2016-01-12T00:42:41+0000
+/project/django-triflesoft-certificate-auth/, django-triflesoft-certificate-auth, 0.1.1509191803, Django certificate authentication by TrifleSoft, 2015-09-19T18:02:57+0000
+/project/django-gcm-android-ios/, django-gcm-android-ios, 1.0.0, Send a message using GCM HTTP connection server protocol, 2015-07-11T22:00:43+0000
+/project/django-decorator-plus/, django-decorator-plus, 0.0.1a2, Extra decorators for your Django project., 2015-09-04T04:17:57+0000
+/project/django-taggit-tronc/, django-taggit-tronc, 0.21.2, django-taggit is a reusable Django application for simple tagging., 2017-06-08T19:40:32+0000
+/project/sigmacms-fluent-pages/, sigmacms-fluent-pages, 1.0.1, A flexible, scalable CMS with custom node types, and flexible block content., 2016-11-07T07:17:56+0000
+/project/snabb-django-background-tasks/, snabb-django-background-tasks, 1.1.6.1, Database backed asynchronous task queue, 2017-04-03T22:10:44+0000
+/project/pyhermes/, pyhermes, 0.4.3, The Python interface to the Hermes message broker., 2021-02-09T14:04:30+0000
+/project/django-fancy-cronfield/, django-fancy-cronfield, 0.2.0, A nice and customizable cron field with easy to use UI, 2015-12-16T23:09:27+0000
+/project/mongojoin/, mongojoin, 1.0.0, Python library for performing joins on MongoDB collections, 2015-09-12T09:23:20+0000
+/project/admin-logs/, admin_logs, 0.2.14, Admin logs for django like in Google Application Engine, 2019-05-17T08:51:25+0000
+/project/django-threadedcomments/, django-threadedcomments, 1.2, A simple yet flexible threaded commenting system., 2018-03-29T12:50:45+0000
+/project/springy/, springy, 5.0.1, An elasticsearch wrapper for Django, 2017-11-09T00:34:24+0000
+/project/django-replicated/, django_replicated, 2.7, Django DB router for stateful master-slave replication, 2020-04-10T11:07:18+0000
+/project/django-synchro/, django-synchro, 0.7, Django app for database data synchronization., 2017-11-12T22:30:01+0000
+/project/django-pluralize-pl/, django-pluralize-pl, 0.2.1, Polish pluralization for Django templates., 2020-02-04T16:03:58+0000
+/project/django-holding-page/, django-holding-page, 1.0.0, A viral holding page to collect email addresses with export and unsubscribe functionality., 2015-10-28T10:43:12+0000
+/project/django-modelsdoc/, django-modelsdoc, 0.1.11, Create models definitions document from your Django project., 2019-11-28T06:44:41+0000
+/project/django-saml2-auth-idperror-redirect/, django-saml2-auth-idperror-redirect, 0.0.2, Django SAML2 Plugin for URL redirection on IDP Error (usually to an IdP login), 2020-03-14T23:47:59+0000
+/project/django-boardinghouse/, django-boardinghouse, 0.3.5, Postgres schema support in django., 2016-03-02T10:44:38+0000
+/project/viewlogger/, ViewLogger, 2.1.0, Log view hits over time so that you know who enter this view and when., 2020-07-02T10:38:53+0000
+/project/stacks-textblock/, stacks-textblock, 0.2, A Stacks app for creating blocks of text., 2015-06-24T18:00:48+0000
+/project/image-diet2/, image-diet2, 1.0, Remove unnecessary bytes from images, 2016-01-07T11:55:23+0000
+/project/django-modeladmin-utils/, django-modeladmin-utils, 1.0.0, ModelAdmin utils, 2015-11-04T20:22:15+0000
+/project/django-gstorage/, django-gstorage, 0.5.1, Allow easy integration with Google storage for Django projects, 2016-11-04T09:10:09+0000
+/project/django-table-select-widget/, django-table-select-widget, 1.1.0, A Django widget for use with a ModelMultipleChoiceField to allow easy jQuery DataTables sorting and pagination by rendering the selector as a table.
+, 2017-04-17T21:53:38+0000
+/project/djurls/, djURLs, 0.0.2, Decorator for mapping Django URLs., 2016-06-05T13:44:07+0000
+/project/lru2cache/, lru2cache, 0.1.2, A least recently used (LRU) 2 layer caching mechanism based in part on the Python 2.7 back-port of lru_cache, 2016-02-05T17:40:56+0000
+/project/djcharme/, djcharme, 0.8.6, CHARMe Node, 2016-04-25T12:55:13+0000
+/project/django-compiling-loader/, django-compiling-loader, 0.0.1, A bytecode compiling template loader for Django, 2015-07-20T10:43:55+0000
+/project/django-extra-tools/, django-extra-tools, 0.3.0, A set of functions related with Django, 2017-05-02T08:28:12+0000
+/project/django-sendgrid-webhook/, django-sendgrid-webhook, 0.3.0, A small django app around sendgrid and its webhooks, 2017-04-21T12:08:35+0000
+/project/apidev-django-floppyforms/, apidev_django-floppyforms, 1.8.4, Full control of form rendering in the templates, 2020-07-29T15:02:11+0000
+/project/django-compress-storage/, django-compress-storage, 0.9.1, Automantic compress files after upload, 2015-02-04T10:14:39+0000
+/project/django-facebook-insights/, django-facebook-insights, 0.1.0, Collect and store Facebook Insights metrics using Django models., 2016-11-21T12:08:53+0000
+/project/django-field-object-permissions/, django-field-object-permissions, 0.1.1, Provides an object permission system based on field values (eg: object.owner == user), 2017-04-10T18:18:16+0000
+/project/django-navutils/, django-navutils, 0.7, A lightweight package for handling menus and breadcrumbs in your django project, 2019-02-22T10:52:49+0000
+/project/django-mdeditor/, django-mdeditor, 0.1.18, A simple Django app to edit markdown text., 2020-04-13T06:34:18+0000
+/project/sigmacms-polymorphic-tree/, sigmacms-polymorphic-tree, 1.2.6b1, A polymorphic mptt structure to display content in a tree., 2016-06-14T11:20:38+0000
+/project/param-store/, param-store, 0.2.2, Parameter store for secrets, 2020-09-21T13:24:13+0000
+/project/django-simple-help/, django-simple-help, 0.6.1, Django reusable application providing page help, 2017-05-16T02:17:11+0000
+/project/fluentcms-emailtemplates/, fluentcms-emailtemplates, 2.0, Creating e-mail messages, with multiple layouts and multilingual content., 2018-01-22T21:44:42+0000
+/project/django-rest/, django-rest, 0.8.7, Tiny, lightweight, blazing fast REST library for django, 2021-04-20T22:15:40+0000
+/project/pybrief/, pybrief, 1.0.1, PyBRIEF is a small blog system (and more cause it's
+modular) written in python with django, 2015-04-13T19:20:14+0000
+/project/django-oscar-accounts-wt/, django-oscar-accounts-wt, 0.4rc3, Managed accounts for django-oscar, 2016-07-30T22:28:34+0000
+/project/django-triflesoft-pages/, django-triflesoft-pages, 0.4.1601022010, Django pages by TrifleSoft, 2016-01-02T20:10:51+0000
+/project/django-clean-fields/, django-clean-fields, 0.3.0, A Django utility to clean model field values on save., 2016-08-19T15:14:42+0000
+/project/django-etl-sync/, django-etl-sync, 0.3.3, Django ETL, derives rules from models, creates relations., 2018-01-17T19:53:29+0000
+/project/django-skd-smoke/, django-skd-smoke, 0.2, Smoke tests for django projects., 2015-11-11T13:02:21+0000
+/project/django-slack-invitation/, django-slack-invitation, 0.1.0, API client for Beddit sleep tracker, 2016-08-28T10:07:17+0000
+/project/django-appregistration/, django-appregistration, 0.0.6, Dynamic registration between django apps., 2017-05-19T10:41:02+0000
+/project/django-admin-conf-vars/, django-admin-conf-vars, 0.4.1, A simple Django app to edit configuration variables with the Django admin., 2018-07-25T22:47:34+0000
+/project/django-pjax/, django-pjax, 1.7, Django-PJAX: The Django helper for jQuery-PJAX., 2020-07-21T02:42:51+0000
+/project/blognajd/, blognajd, 1.1.1, Simple django blogging application, 2015-09-07T08:43:47+0000
+/project/django-frontend/, django-frontend, 1.8.0, Django Frontend is a collection of static files and templates to jumpstart Django front-end development., 2016-07-28T18:15:34+0000
+/project/django-bulksms/, django-bulksms, 0.0.1, Django BulkSMS library/API., 2016-10-18T14:17:26+0000
+/project/django-replicated-ext/, django-replicated-ext, 3.1, Django DB router for stateful master-slave replication, 2018-04-24T13:11:12+0000
+/project/django-phonenumbers/, django-phonenumbers, 1.0.1, Phone number field for Django admin, 2015-08-06T10:45:02+0000
+/project/django-fwdform/, django-fwdform, 0.1.0, Simple and painless form processing for static sites., 2015-12-16T00:10:13+0000
+/project/singlemodeladmin/, singlemodeladmin, 0.9, ModelAdmin for models that are meant to have one record, 2018-07-30T04:50:07+0000
+/project/django-datapurge/, django-datapurge, 0.0.2, A simple Django app to easily handle cleanup of old data (sessions, nonces, etc.), 2016-04-07T09:52:32+0000
+/project/djangocms-embed/, djangocms-embed, 0.1.1, Embed any content on the web. Powered by embed.ly., 2016-01-03T02:09:46+0000
+/project/django-http-authentication/, django-http-authentication, 0.0.1, A django application that adds decorators to allow authentication via HTTP_AUTHORIZATION., 2017-08-31T15:37:46+0000
+/project/django-compat/, django-compat, 1.0.15, For- and backwards compatibility layer for Django 1.4, 1.7, 1.8, 1.9, 1.10, and 1.11, 2017-12-04T09:14:25+0000
+/project/django-dbrouter/, django-dbrouter, 0.1.2, Simple and usable database router for django, 2021-04-08T14:04:05+0000
+/project/django-mutant/, django-mutant, 0.2.1, Dynamic model definition and alteration (evolving schemas), 2016-01-14T05:00:53+0000
+/project/cmsplugin-plain-text/, cmsplugin-plain-text, 0.1.2, A simple plaintext plugin for django CMS., 2016-07-14T10:57:06+0000
+/project/django-capture-tag/, django-capture-tag, 1.0, A micro-library to capture output in Django templates, 2016-04-20T12:52:12+0000
+/project/handy/, handy, 0.7, A collection of tools to make your django life easier., 2017-12-31T10:41:06+0000
+/project/django-excel/, django-excel, 0.0.10, A django middleware that provides one application programminginterface to read and write data in different excel file formats, 2018-01-12T23:31:47+0000
+/project/django-datebook/, django-datebook, 1.2.0, A Django application to manage users Datebooks, 2016-11-08T00:12:03+0000
+/project/django-cereal/, django-cereal, 0.2.1, Efficient serialization of Django Models for use in Celery that ensure the state of the world., 2015-12-14T01:28:44+0000
+/project/drf-dynamic-fields-mixin/, drf_dynamic_fields_mixin, 0.1.0, A mixin to make Django Rest Framework serializers dynamically configurable., 2015-10-29T23:48:46+0000
+/project/drf-tracking/, drf-tracking, 1.5.0, Utils to log Django Rest Framework requests to the database, 2018-10-23T17:58:15+0000
+/project/django-migration-helper/, django-migration-helper, 0.1.1, Django helper for more complicated migrations., 2017-01-30T00:25:26+0000
+/project/wagtail-stacks/, wagtail-stacks, 0.2, The base application for Wagtail Stacks., 2015-12-09T15:36:18+0000
+/project/django-iplant-auth/, django-iplant-auth, 0.1.21, Authentication support for iPlantCollaborative., 2016-12-06T19:19:46+0000
+/project/django-fluent-dashboard/, django-fluent-dashboard, 1.0.1, An improved django-admin-tools dashboard for Django projects, 2019-07-15T09:31:28+0000
+/project/zds-member/, zds-member, 0.1.5, Django user module implemented with Django framework, 2015-10-26T20:07:52+0000
+/project/django-fluent-faq/, django-fluent-faq, 1.0, A FAQ engine for Django Fluent CMS, 2016-12-30T13:06:08+0000
+/project/django-bootstrap-pagination-vinta/, django-bootstrap-pagination-vinta, 1.6.1, Render Django Page objects as Bootstrap 3.x Pagination compatible HTML, 2016-08-10T12:13:01+0000
+/project/aldryn-reversion/, aldryn-reversion, 1.1.0, Support for django-reversion on models with translatable fields and django-cms placeholder fields., 2017-02-28T20:39:50+0000
+/project/django-websocket-redis/, django-websocket-redis, 0.6.0, Websocket support for Django using Redis as datastore, 2019-09-17T08:42:28+0000
+/project/django-categories-i18n/, django-categories-i18n, 1.1.1, Translatable Categories model, 2020-01-05T12:36:34+0000
+/project/django-env-bar/, django-env-bar, 0.0.4, A basic panel displaying the name of the current environment., 2020-01-16T16:17:22+0000
+/project/django-healthchecks/, django_healthchecks, 1.4.2, Simple Django app/framework to publish health checks, 2018-03-08T16:44:37+0000
+/project/django-dynamic-cabinetmaps/, django-dynamic-cabinetmaps, 0.1.dev2, A lightweight dynamic create cabinet graph with django., 2015-12-17T08:58:13+0000
+/project/django-tour/, django-tour, 0.7.0, Require the django user to complete a series of steps with custom logic, 2015-10-05T19:45:33+0000
+/project/django-stagesetting/, django-stagesetting, 0.5.0, Dynamic runtime settings and configuration for Django sites, 2017-02-27T20:04:30+0000
+/project/cmsplugin-feedparser/, cmsplugin-feedparser, 0.3.0, django-feedparser plugin for DjangoCMS, 2016-09-10T23:14:46+0000
+/project/django-om/, django-om, 0.1.0-alpha21, Om.next query parser for Django, 2018-08-23T12:55:39+0000
+/project/django-autoshard/, django-autoshard, 1.2.1, A Django library that makes sharding easy., 2016-07-13T05:08:53+0000
+/project/ddt-envelope/, ddt-envelope, 0.1.0, Simple helper for inspecting non-html views with django-debug-toolbar, 2015-06-23T15:02:21+0000
+/project/django-csv-export/, django-csv-export, 0.0.3, django-export-csv is a reusable Django application which provides generic View class for creating and rendering CSV., 2017-07-21T16:12:35+0000
+/project/dj-extensions/, dj-extensions, 0.1.6, Yet another Django extension with set of generic reusable, pluggable mixins, 2016-02-06T18:16:36+0000
+/project/django-comment/, django-comment, 1.0.3, A simple Django app to add comment and related operations to your models., 2017-08-15T03:24:42+0000
+/project/drfapikey/, drfapikey, 0.0.3, Authenticate Web APIs made with Django REST Framework, 2016-08-24T10:09:44+0000
+/project/quantum-django-saml2-auth/, quantum-django-saml2-auth, 2.2.1, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2019-07-25T14:33:16+0000
+/project/django-cyborg/, django-cyborg, 0.2.1, A simple way to add robots.txt and humans.txt to your Django project, 2015-12-08T17:10:24+0000
+/project/django-yamlconf/, django-yamlconf, 1.4.0, Define Django settings in local YAML (or JSON) files, 2021-03-03T21:34:58+0000
+/project/django-rosetta/, django-rosetta, 0.9.6, A Django application that eases the translation of Django projects, 2021-03-19T14:35:25+0000
+/project/django-doberman/, django-doberman, 0.5.9, Django app that locks out users after too many failed login attempts., 2015-07-28T18:39:16+0000
+/project/drf-tracking-geoip/, drf-tracking-geoip, 1.5.0, Utils to log Django Rest Framework requests to the database, 2019-03-14T06:31:17+0000
+/project/django-triflesoft-token-auth/, django-triflesoft-token-auth, 0.4.1510031721, Django token authentication by TrifleSoft, 2015-10-03T17:21:03+0000
+/project/django-confirmed-email/, django-confirmed-email, 0.0.7, Provides an email sender that automatically confirms addresses., 2016-06-09T22:58:32+0000
+/project/django-saveall/, django-saveall, 0.1.5, A simple Django app that adds a custom django-admin command for saving model instances throughout a project., 2016-03-15T17:29:21+0000
+/project/django-adv-cache-tag/, django-adv-cache-tag, 1.1.3, An advanced template tag for caching in django: versioning, compress, partial caching, easy inheritance, 2020-05-02T10:24:21+0000
+/project/django-easy-instagram/, django-easy-instagram, 0.3.4, Instagram client for Django., 2021-04-12T08:21:23+0000
+/project/djangocms-bs3-theme-solid/, djangocms-bs3-theme-solid, 0.1.0, A comment system for Django CMS unintrusive and easy to use.
+Add it to your pages without modifying your models. It is highly customizable!, 2016-04-26T22:12:18+0000
+/project/django-easy-validator/, django-easy-validator, 1.4.0, a very easy use django request POST/GET data validator, 2020-06-04T04:14:37+0000
+/project/django-storedqueries/, django-storedqueries, 0.1.4, A small package for Django to ease the creation of temporary tables, based on model definitions and querysets, 2019-07-30T07:28:58+0000
+/project/djangocms-lab-publications/, djangocms-lab-publications, 0.1.5, A Django app for adding sets of scientific publications with PubMed metadata to a Django site with django CMS-specific features, 2015-11-10T01:07:47+0000
+/project/djangocms-lab-members/, djangocms-lab-members, 0.2.0, A Django app to extend django-lab-members with django CMS-specific features, 2015-11-10T10:15:49+0000
+/project/swapper/, swapper, 1.1.2.post1, The unofficial Django swappable models API., 2020-01-15T01:13:43+0000
+/project/python-iprofile/, python-iprofile, 0.3.3, A CLI for handling IPython 4+ profiles startup scripts., 2016-03-05T15:36:58+0000
+/project/wagtail-stacks-featuredlink/, wagtail-stacks-featuredlink, 0.1, A Wagtail Stacks app for creating links., 2015-12-01T20:36:12+0000
+/project/django-fixturemigration/, django-fixturemigration, 0.7, An app to load fixtures inside a migration data step, 2015-07-29T19:43:31+0000
+/project/django-logging-json/, django-logging-json, 1.15, A simple Django app to log requests/responses in various formats, such as JSON., 2017-11-23T14:32:44+0000
+/project/stacks-image/, stacks-image, 0.2.2, A Stacks application for handling images and lists of images., 2016-01-25T17:01:55+0000
+/project/django-debugtools/, django-debugtools, 1.8, A toolbox of small utilities to assist Django development, 2020-03-15T13:30:38+0000
+/project/django-premailer/, django-premailer, 0.2.0, Django template tag that turns CSS blocks into style attributes using premailer., 2016-06-20T21:38:00+0000
+/project/django-triflesoft-locations/, django-triflesoft-locations, 0.3.1509281138, Django locations models by TrifleSoft, 2015-09-28T11:38:14+0000
+/project/django-notifications-latest/, django-notifications-latest, 2.1.0, GitHub notifications alike app for Django., 2019-08-11T14:02:19+0000
+/project/django-taggit-helpers/, django-taggit-helpers, 0.1.4, Django admin helper classes for django-taggit tags, 2015-12-05T06:35:56+0000
+/project/django-xiti/, django-xiti, 0.1.1, Django app to include Xiti loading code into your templates, 2016-04-18T01:03:54+0000
+/project/django-json-rpc/, django-json-rpc, 0.7.2, A simple JSON-RPC implementation for Django, 2015-11-30T23:24:06+0000
+/project/django-real-content/, django-real-content, 0.1.12, Template tags to quickly show real content instead of lorem ipsum., 2019-02-23T23:49:26+0000
+/project/m3-spyne-smev/, m3-spyne-smev, 0.4.4, Набор протоколов фреймворка spyne для работы со СМЭВ., 2021-04-05T09:34:19+0000
+/project/django-lab-members/, django-lab-members, 0.3.0, A Django app to display lab personnel and information about them., 2015-11-10T09:50:03+0000
+/project/django-ripozo/, django-ripozo, 1.1.0, Integrates ripozo with django for fast, flexible Hypermedia, HATEOAS, and other REST apis, 2015-11-23T01:48:17+0000
+/project/django-loadjson/, django-loadjson, 0.1.2, Loadjson management command for Django, 2016-04-08T23:48:15+0000
+/project/django-autofixture/, django-autofixture, 0.12.1, Provides tools to auto generate test data., 2016-04-08T07:46:34+0000
+/project/django-truncate/, django-truncate, 0.1, A simple Django app to help developers truncate specific models., 2016-04-24T22:40:37+0000
+/project/django-sessionprofile/, django-sessionprofile, 1.0, Use Django for SSO - this package provides a bridge for third party packages., 2016-08-13T08:45:15+0000
+/project/json-rpc-django/, json-rpc-django, 1.0.1, A simple JSON-RPC implementation for Django. An extension of django-json-rpc by Samuel Sutch for python 3, 2019-02-20T08:02:20+0000
+/project/djangocms-shiny-app/, djangocms-shiny-app, 0.1.3, A Django app for adding R Shiny apps to a Django site with django CMS-specific features, 2015-12-07T08:58:25+0000
+/project/djangocms-blog-martin/, djangocms-blog-martin, 0.5.1.dev3, Fork of djangoCMS 3 blog application, 2015-08-11T08:34:39+0000
+/project/django-teledex/, django-teledex, 0.2.0, Storage of addresses, phone numbers and emails in Django., 2015-09-17T03:25:50+0000
+/project/django-version-viewer/, django-version-viewer, 1.0.3, Django app for viewing pip packages and their versions, 2020-12-14T16:22:32+0000
+/project/django-haystackbrowser/, django-haystackbrowser, 0.6.3, A reusable Django application for viewing and debugging all the data that has been pushed into Haystack, 2018-07-01T10:41:11+0000
+/project/django-mips/, django-mips, 0.3.2, A simple API (build on top of the Django Model API) to store and manage MIP (molecular inversion probe) markers., 2015-11-17T15:11:24+0000
+/project/django-dynamic-forms/, django-dynamic-forms, 0.5.3, django-dynamic-forms is a reusable Django application to create and configure forms through the admin., 2017-01-06T22:52:27+0000
+/project/django-feedparser/, django-feedparser, 0.2.1, A Django app using 'feedparser' to fetch and parse a feed to render it from a template, 2016-02-24T00:22:59+0000
+/project/django-evolution/, django-evolution, 2.1.2, A database schema evolution tool for the Django web framework., 2021-01-20T01:41:36+0000
+/project/django-emaillog-backend/, django-emaillog-backend, 0.1.1, Django email backend that writes messages to logger instead of sending them by SMTP., 2020-05-03T17:00:53+0000
+/project/django-triflesoft-holidays/, django-triflesoft-holidays, 0.2.1509281136, Django holidays models by TrifleSoft, 2015-09-28T11:36:21+0000
+/project/stacks-contentgroup/, stacks-contentgroup, 0.1.2, A Stacks apps for creating groups of menu-ed content., 2015-09-09T13:38:33+0000
+/project/django-bitbucket-hook/, django-bitbucket-hook, 1.2.6, Django module, 2016-09-06T15:42:19+0000
+/project/django-model-tracker/, django-model-tracker, 1.5.0, Track Django Model Objects over time, 2021-04-08T13:24:55+0000
+/project/django-sponsors/, django-sponsors, 0.1.2, Django App to easily manage project sponsors, 2015-07-04T16:51:30+0000
+/project/django-websocket-redis-plus/, django-websocket-redis-plus, 0.6.0.1, Websocket support for Django using Redis as datastore, 2020-04-17T14:14:27+0000
+/project/django-nose-qunit/, django-nose-qunit, 1.6.1, Integrate QUnit JavaScript tests into a Django test suite via nose, 2016-05-05T19:19:25+0000
+/project/django-saml2-auth-plus/, django-saml2-auth-plus, 1.0.0, Simple and Configurable Django SAML2 Authentication. Easily integrate with SAML2 SSO identity providers like Okta, 2018-08-03T05:04:48+0000
+/project/django-ajax-auth/, django-ajax-auth, 0.1.1, A simple Django application for AJAX authorisation., 2018-03-23T06:24:47+0000
+/project/django-cyverse-auth/, django-cyverse-auth, 1.2.0, Authentication support for CyVerse Django applications., 2018-10-10T19:49:24+0000
+/project/django-triflesoft-tags/, django-triflesoft-tags, 0.3.1509281140, Django template tags by TrifleSoft, 2015-09-28T11:40:05+0000
+/project/mojo-navigation/, mojo-navigation, 0.0.3, Django app managing simple navigation., 2015-12-04T08:40:03+0000
+/project/django-timedeltafield/, django-timedeltafield, 0.7.10, TimedeltaField for django models, 2015-05-26T12:16:10+0000
+/project/django-saml2-auth-with-certsupport/, django-saml2-auth-with-certsupport, 0.0.3, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2021-01-02T22:26:45+0000
+/project/autobreadcrumbs/, autobreadcrumbs, 2.0.0, Django application to add breadcrumbs to your pages, 2016-08-17T22:58:50+0000
+/project/django-nsync/, django-nsync, 0.4.0, Django N Sync provides a simple way to keep your Django, 2018-03-06T09:08:25+0000
+/project/djangohitcounter/, djangohitcounter, 0.2, Pretty simple hit counter for Django ORM objects, 2016-01-13T09:31:41+0000
+/project/robotframework-djangolibrary/, robotframework-djangolibrary, 3.1.0, A Robot Framework library for Django., 2018-12-24T06:17:19+0000
+/project/django-pdfkit/, django-pdfkit, 0.3.1, Django view that converts HTML to PDF using webkit., 2017-08-15T00:48:48+0000
+/project/yet-another-django-profiler/, yet-another-django-profiler, 1.1.0, Django middleware for performance profiling directly from the browser, 2017-01-11T03:41:01+0000
+/project/django-giji-auth/, django-giji-auth, 1.1.1, Authentication support for GIJI Django applications., 2018-02-23T15:34:17+0000
+/project/cmsplugin-iframe/, cmsplugin-iframe, 0.1.5, Django CMS page iframe plugin, 2016-04-23T18:57:57+0000
+/project/django-saml2-auth/, django-saml2-auth, 2.2.1, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2019-01-24T11:49:44+0000
+/project/django-sympa/, django-sympa, 0.1.1, Add a view to interact with sympa, 2015-07-22T10:15:09+0000
+/project/django-saml2-auth-ai/, django-saml2-auth-ai, 2.1.6, Django SAML2 Authentication AI, 2019-12-04T07:00:17+0000
+/project/django-userena/, django-userena, 2.0.1, Complete user management application for Django, 2016-03-23T09:28:09+0000
+/project/djangocms-unitegallery/, djangocms-unitegallery, 0.1.0, unitegallery grid Plugin for django CMS, 2016-03-18T12:12:06+0000
+/project/django-lazysignup-redux/, django-lazysignup-redux, 1.0.0, Lazy signup for Django, 2015-04-27T18:55:28+0000
+/project/django-saml2-auth-signout-slo/, django-saml2-auth-signout-slo, 0.0.10, Single LogOut (SLO) plugin for django_saml2_auth, 2019-09-27T16:48:59+0000
+/project/alaudaorg-django-oauth/, alaudaorg-django-oauth, 0.9.0, OAuth2 goodies for Django, 2018-04-20T08:53:47+0000
+/project/stacks-snippet/, stacks-snippet, 0.1.1, A Stacks apps for managing/display snippets of HTML., 2015-06-19T20:19:32+0000
+/project/django-rt/, django-rt, 0.3.1, A framework for implementing real-time APIs in Django web applications, 2016-05-29T16:58:11+0000
+/project/django-oauth-plus/, django-oauth-plus, 2.2.9, Support of OAuth 1.0a in Django using python-oauth2., 2016-06-02T09:13:18+0000
+/project/django-ember-index/, django-ember-index, 0.7.0, A Django app to serve Ember index files., 2015-06-04T21:54:39+0000
+/project/django-bootstrap-pagination/, django-bootstrap-pagination, 1.7.1, Render Django Page objects as Bootstrap 3.x/4.x Pagination compatible HTML, 2019-06-13T21:31:37+0000
+/project/stacks-embed/, stacks-embed, 0.2.2, A Stacks application for handling embeddable media., 2016-03-28T15:48:56+0000
+/project/django-lodfield/, django-lodfield, 1.0.3, List of Dictionaries Model Field for Django, 2016-06-02T09:55:37+0000
+/project/django-vatno-validator/, django-vatno-validator, 0.1.1, A Django validator that validates European VAT numbers, 2015-12-17T20:02:18+0000
+/project/django-excel-to-model/, django-excel-to-model, 0.1.12, Create model file from excel, 2021-03-15T07:10:00+0000
+/project/ghostly/, ghostly, 0.2.4, Lightweight API around Selenium Webdriver for end to end testing with Django., 2016-04-22T00:50:55+0000
+/project/versie/, versie, 0.0.2, Client for the versie project, 2019-07-12T10:46:04+0000
+/project/django-sa/, django-sa, 0.1, Utility to convert a python script into a standalone django script, 2017-09-23T19:24:41+0000
+/project/alogator/, alogator, 0.2.0, Alogator is an aggregated logging actor system., 2015-05-22T13:41:38+0000
+/project/django-teryt/, django-teryt, 0.3.0, TERYT database implementation for Django, 2016-01-06T17:45:04+0000
+/project/django-logging-json-fork/, django-logging-json-fork, 0.0.2, Fork update of cipriantarta/django-logging., 2020-06-16T22:03:58+0000
+/project/django-locations-base/, django-locations-base, 0.3.4, A simple locations app for Django, 2015-11-14T23:41:54+0000
+/project/django-gddkia-impediments-on-roads/, django-gddkia-impediments-on-roads, 0.1.1, Django client for gddkia-impediments-on-roads, 2016-07-29T10:57:58+0000
+/project/django-site-notifications/, django-site-notifications, 1.0.0, Enable a message on every page load., 2015-04-16T02:17:45+0000
+/project/easy-mask/, easy-mask, 1.3.4, Simple package for the use of masks in django, 2016-02-23T00:17:11+0000
+/project/django-auth-role/, django-auth-role, 0.4.0, Add user roles to django-auth, 2017-05-10T16:53:19+0000
+/project/django-svg-templatetag/, django-svg-templatetag, 1.0.1, Inject a SVG file into your Django template., 2016-12-21T13:51:32+0000
+/project/tlogger/, tlogger, 0.2.2, Syntax sugar for logging., 2015-08-20T17:26:20+0000
+/project/django-colorfield/, django-colorfield, 0.4.1, simple color field for your models with a nice color-picker in the admin-interface., 2021-01-19T11:08:33+0000
+/project/django-saml2-auth-lw/, django-saml2-auth-lw, 2.2.2, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2021-02-22T03:12:11+0000
+/project/djgunicorn/, djgunicorn, 0.3.0, Run Django development server with Gunicorn., 2016-04-12T12:10:58+0000
+/project/djangocms-rosetta/, djangocms-rosetta, 0.0, Add links to rosetta's translation interface in the Django CMS Toolbar., 2015-09-30T19:09:30+0000
+/project/django-polymorphic-ng/, django-polymorphic-ng, 0.8.0, Seamless Polymorphic Inheritance for Django Models, 2015-12-06T11:23:03+0000
+/project/django-event-system/, django-event-system, 1.0.1, A simple package that implements an event system in django, 2019-10-16T14:37:02+0000
+/project/django-chat/, django-chat, 0.1.0, Simple chat, 2017-04-26T20:13:09+0000
+/project/django-triflesoft-deferred/, django-triflesoft-deferred, 0.1.1509191803, Django deferred task execution by TrifleSoft, 2015-09-19T18:03:28+0000
+/project/django-jackfrost/, django-jackfrost, 0.4.0, A static site generator for Django views, 2015-07-13T18:18:34+0000
+/project/django-dedal/, django-dedal, 1.1.0, Fast CRUD builder., 2019-01-11T21:17:26+0000
+/project/django-gddkia-impediments-on-roads/, django-gddkia-impediments-on-roads, 0.1.1, Django client for gddkia-impediments-on-roads, 2016-07-29T10:57:58+0000
+/project/django-userena/, django-userena, 2.0.1, Complete user management application for Django, 2016-03-23T09:28:09+0000
+/project/django-rt/, django-rt, 0.3.1, A framework for implementing real-time APIs in Django web applications, 2016-05-29T16:58:11+0000
+/project/django-oauth-plus/, django-oauth-plus, 2.2.9, Support of OAuth 1.0a in Django using python-oauth2., 2016-06-02T09:13:18+0000
+/project/django-custom-indexes/, django-custom-indexes, 0.1.5, PostgreSQL custom indexes for Django models, 2018-12-22T11:23:33+0000
+/project/django-meta-mixin/, django-meta-mixin, 0.3.0, Social meta tags mixin for django-meta, 2016-03-29T21:55:32+0000
+/project/django-comuni-italiani/, django-comuni-italiani, 1.4.1, A simple django (>= 1.7) app for Italian cities and regions, 2019-01-19T15:15:10+0000
+/project/django-flash-rest/, django-flash-rest, 0.8.4, Tiny, lightweight, blazing fast REST library for django, 2020-06-15T15:40:29+0000
+/project/django-pymssql/, django-pymssql, 1.7.1, Django database backend for Microsoft SQL Server that works on non-Windows systems., 2016-01-24T17:23:31+0000
+/project/django-formed/, django-formed, 1.0.0, A form designer application for Django, 2019-02-22T13:43:45+0000
+/project/django-maintenance-mode/, django-maintenance-mode, 0.16.0, django-maintenance-mode shows a 503 error page when maintenance-mode is on., 2021-03-23T10:44:46+0000
+/project/django-serializable-model/, django-serializable-model, 0.0.6, Django classes to make your models, managers, and querysets serializable, with built-in support for related objects in ~150 LoC, 2019-10-26T19:29:38+0000
+/project/django-generate-fixtures/, django-generate-fixtures, 0.2.0, Easy way to generate fixtures (in json) for django following the links of a given object, 2016-07-28T18:20:10+0000
+/project/restosaur/, restosaur, 0.6.8, Damn simple RESTful library, 2016-09-02T16:06:14+0000
+/project/django-template-field/, django-template-field, 0.3.1, A Django fitemplate field twith managers to return the rendered or unrendered template., 2016-01-12T00:42:41+0000
+/project/sigmacms-fluent-pages/, sigmacms-fluent-pages, 1.0.1, A flexible, scalable CMS with custom node types, and flexible block content., 2016-11-07T07:17:56+0000
+/project/snabb-django-background-tasks/, snabb-django-background-tasks, 1.1.6.1, Database backed asynchronous task queue, 2017-04-03T22:10:44+0000
+/project/django-saml2-auth-signout-redirect/, django-saml2-auth-signout-redirect, 0.0.8, Django SAML2 Plugin for URL redirection on Logout (usually to an IdP logout), 2019-09-27T17:33:15+0000
+/project/django-demirbank/, django-demirbank, 1.0.27a1, DemirBank library for making payment using store type = 3d_Pay_Hosting and transaction type = Auth, 2015-05-27T12:04:35+0000
+/project/django-html5croppingtools/, django-html5croppingtools, 0.1.3, A simple Django app to crop and resize images, 2015-07-30T20:14:59+0000
+/project/django-exportdb/, django-exportdb, 0.4.7, Dump the entire database to xlsx workbook with a sheet per model, 2016-10-05T12:59:25+0000
+/project/sbo-selenium/, sbo-selenium, 0.7.2, Selenium testing framework for Django applications, 2016-05-05T15:17:40+0000
+/project/django-easymoney/, django-easymoney, 0.7.2, An easy MoneyField for Django., 2017-04-19T08:22:10+0000
+/project/django-abnorm/, django-abnorm, 0.3.0, Django automatic denormalization toolkit, 2020-03-19T22:46:38+0000
+/project/stacks-featuredlink/, stacks-featuredlink, 0.2, A Stacks apps for featuring links to external content., 2015-06-24T18:09:18+0000
+/project/django-saml2-auth-signout-redirect/, django-saml2-auth-signout-redirect, 0.0.8, Django SAML2 Plugin for URL redirection on Logout (usually to an IdP logout), 2019-09-27T17:33:15+0000
+/project/django-demirbank/, django-demirbank, 1.0.27a1, DemirBank library for making payment using store type = 3d_Pay_Hosting and transaction type = Auth, 2015-05-27T12:04:35+0000
+/project/django-html5croppingtools/, django-html5croppingtools, 0.1.3, A simple Django app to crop and resize images, 2015-07-30T20:14:59+0000
+/project/djangocms-highlightjs/, djangocms-highlightjs, 0.5.0, highlight.js plugin for django CMS 3.0, 2016-05-08T14:58:22+0000
+/project/rinse/, rinse, 0.5.0, SOAP client built with lxml and requests., 2020-08-19T23:52:00+0000
+/project/django-api-decorators/, django-api-decorators, 0.0.3, Tiny decorator functions to make it easier to build an API using Django in ~100 LoC, 2019-08-22T01:50:21+0000
+/project/stacks-twitter/, stacks-twitter, 0.1.1, A Stacks apps for featuring tweets., 2015-06-19T20:23:33+0000
+/project/djangomodeltracker/, DjangoModelTracker, 1.3.9, Track Django Model Objects over time, 2019-07-23T13:15:44+0000
+/project/djangoceleryrpc/, djangoceleryrpc, 2.3.0, Remote access from one system to models and functions of another one using Celery machinery., 2021-04-10T06:09:35+0000
+/project/django-google-adwords/, django-google-adwords, 0.7.2, Django modelling and helpers for the Google Adwords API., 2015-07-26T22:24:35+0000
+/project/django-shortcircuit/, django-shortcircuit, 0.1.0, Shortcircuit Django middlewares for a list of views you want skipped, 2016-05-15T18:04:04+0000
+/project/django-vote/, django-vote, 2.2.0, A simple Django app to conduct vote., 2020-05-17T15:53:31+0000
+/project/djangocms-lab-carousel/, djangocms-lab-carousel, 0.2.1, A Django app for adding a carousel of recent papers, etc. to a Django site with django CMS-specific features, 2015-12-07T08:24:58+0000
+/project/crimson-antispam/, crimson_antispam, 0.5.0, Anti-spam package for django framework, 2016-06-27T18:51:49+0000
+/project/django-query-builder-pebble/, django-query-builder-pebble, 0.9.0, Build complex nested queries, 2016-01-19T11:40:51+0000
+/project/django-cas-minimal/, django-cas-minimal, 2.3.7, A Django CAS library for version 1.7.4 which actually works, 2016-09-26T17:19:12+0000
+/project/django-project-home-templatetags/, django-project-home-templatetags, 0.2.1, A collection of Django templatetags to flexibly incorporate links and breadcrumbs from app pages to the homepage of a project, 2018-12-09T09:38:47+0000
+/project/django-selectable-filter/, django-selectable-filter, 0.1.5, The filterspec to the Django administration that allow you to filter records using the resources of django-selectable library, 2015-05-04T18:56:30+0000
+/project/django-queryable-properties/, django-queryable-properties, 1.6.1, Write Django model properties that can be used in database queries., 2021-04-19T17:13:57+0000
+/project/stacks-page/, stacks-page, 0.3, A Stacks application for generating static HTML pages., 2016-04-11T19:34:58+0000
+/project/django-triflesoft-freshdesk/, django-triflesoft-freshdesk, 0.2.1509281135, Django FreshDesk integration by TrifleSoft, 2015-09-28T11:35:31+0000
+/project/django-migration-fixture/, django-migration-fixture, 0.5.1, Easily use fixtures in Django 1.7+ data migrations., 2015-07-24T02:11:58+0000
+/project/django-secrets/, django-secrets, 1.0.2, The easy way of handling Django secrets., 2018-06-15T10:31:17+0000
+/project/paper/, paper, 0.2.0, Keep generated fields in cache for your Django models., 2015-09-13T09:35:37+0000
+/project/django-datalogger/, django-datalogger, 0.1.1, A simple Django app to record data changer., 2016-08-16T05:20:53+0000
+/project/django-json-renderer/, django-json-renderer, 0.1.2, A Simple json renderer for django., 2016-11-14T13:23:49+0000
+/project/django-custom-indexes/, django-custom-indexes, 0.1.5, PostgreSQL custom indexes for Django models, 2018-12-22T11:23:33+0000
+/project/django-meta-mixin/, django-meta-mixin, 0.3.0, Social meta tags mixin for django-meta, 2016-03-29T21:55:32+0000
+/project/django-comuni-italiani/, django-comuni-italiani, 1.4.1, A simple django (>= 1.7) app for Italian cities and regions, 2019-01-19T15:15:10+0000
+/project/django-flash-rest/, django-flash-rest, 0.8.4, Tiny, lightweight, blazing fast REST library for django, 2020-06-15T15:40:29+0000
+/project/django-pymssql/, django-pymssql, 1.7.1, Django database backend for Microsoft SQL Server that works on non-Windows systems., 2016-01-24T17:23:31+0000
+/project/django-formed/, django-formed, 1.0.0, A form designer application for Django, 2019-02-22T13:43:45+0000
+/project/django-maintenance-mode/, django-maintenance-mode, 0.16.0, django-maintenance-mode shows a 503 error page when maintenance-mode is on., 2021-03-23T10:44:46+0000
+/project/django-serializable-model/, django-serializable-model, 0.0.6, Django classes to make your models, managers, and querysets serializable, with built-in support for related objects in ~150 LoC, 2019-10-26T19:29:38+0000
+/project/django-generate-fixtures/, django-generate-fixtures, 0.2.0, Easy way to generate fixtures (in json) for django following the links of a given object, 2016-07-28T18:20:10+0000
+/project/restosaur/, restosaur, 0.6.8, Damn simple RESTful library, 2016-09-02T16:06:14+0000
+/project/django-template-field/, django-template-field, 0.3.1, A Django fitemplate field twith managers to return the rendered or unrendered template., 2016-01-12T00:42:41+0000
+/project/django-triflesoft-certificate-auth/, django-triflesoft-certificate-auth, 0.1.1509191803, Django certificate authentication by TrifleSoft, 2015-09-19T18:02:57+0000
+/project/django-gcm-android-ios/, django-gcm-android-ios, 1.0.0, Send a message using GCM HTTP connection server protocol, 2015-07-11T22:00:43+0000
+/project/django-decorator-plus/, django-decorator-plus, 0.0.1a2, Extra decorators for your Django project., 2015-09-04T04:17:57+0000
+/project/django-taggit-tronc/, django-taggit-tronc, 0.21.2, django-taggit is a reusable Django application for simple tagging., 2017-06-08T19:40:32+0000
+/project/sigmacms-fluent-pages/, sigmacms-fluent-pages, 1.0.1, A flexible, scalable CMS with custom node types, and flexible block content., 2016-11-07T07:17:56+0000
+/project/snabb-django-background-tasks/, snabb-django-background-tasks, 1.1.6.1, Database backed asynchronous task queue, 2017-04-03T22:10:44+0000

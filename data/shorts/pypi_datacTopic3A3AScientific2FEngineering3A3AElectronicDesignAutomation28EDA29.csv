@@ -1,0 +1,348 @@
+/project/xlayout/, XLayout, 0.1, XLayout standalone Python package, 2020-01-19T09:07:49+0000
+/project/migen/, migen, 0.9.2, Python toolbox for building complex digital hardware, 2019-11-03T18:16:27+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/rssd/, rssd, 2021.2.22, Rohde & Schwarz SCPI Driver, 2021-02-22T18:36:27+0000
+/project/recover/, recover, 0.0.0, An effective Remote Co-Verification (ReCoVer) library of hardware and software co-designs, 2019-11-19T21:30:45+0000
+/project/dvg-pid-controller/, dvg-pid-controller, 2.0.0, PID controller with integral-windup & derivative-kick prevention and bumpless manual-to-auto-mode transfer., 2020-07-02T13:41:43+0000
+/project/dvg-ringbuffer/, dvg-ringbuffer, 1.0.1, Numpy ringbuffer at a fixed memory address to allow for significantly sped up numpy, sigpy, numba & pyFFTW calculations., 2020-07-21T22:06:39+0000
+/project/teroshdl/, TerosHDL, 0.1.2, Teros HDL backend., 2020-01-29T22:06:49+0000
+/project/pyipcmi/, pyIPCMI, 1.1.5, An IP Core Management Infrastructure written in Python - pyIPCMI., 2019-10-13T23:30:09+0000
+/project/logicmin/, logicmin, 0.3.18, Logic Minimization, 2018-02-11T03:08:54+0000
+/project/librecell-common/, librecell-common, 0.0.9, Common utility functions for LibreCell suite., 2020-12-30T17:45:46+0000
+/project/svreal/, svreal, 0.2.7, Library for working with fixed-point numbers in SystemVerilog, 2020-11-13T20:45:07+0000
+/project/swoop/, Swoop, 0.6.5, Swoop is a Python library for working with CadSoft Eagle files., 2019-04-14T08:04:10+0000
+/project/pymathbitprecise/, pyMathBitPrecise, 0.9, number types of variable bit size and utils for bit manipulations, 2021-01-01T18:30:28+0000
+/project/kifield/, kifield, 0.1.17, Module and utilities for manipulating part fields in KiCad files., 2021-03-25T16:36:48+0000
+/project/ipcorepackager/, ipCorePackager, 0.5, Scriptable universal IP-core generator, 2020-05-12T19:48:23+0000
+/project/signalintegrity/, SignalIntegrity, 1.1.15, Signal and Power Integrity Tools, 2020-12-17T01:12:24+0000
+/project/eaglepy/, eaglepy, 1.0.3, Read, modify, and create Cadsoft EAGLE files, 2014-08-08T22:04:40+0000
+/project/respice/, respice, 0.3.7, Flexible and easy to use non-linear transient electric circuit simulator., 2021-02-10T17:41:00+0000
+/project/librecell/, librecell, 0.0.9, Meta-package for the LibreCell suite., 2020-12-30T17:45:50+0000
+/project/pycocotb/, pycocotb, 1.1, RTL simulator API, 2020-12-27T20:40:18+0000
+/project/edalize/, edalize, 0.2.3, Edalize is a library for interfacing EDA tools, primarily for FPGA development, 2020-11-17T22:05:37+0000
+/project/django-epic/, django-epic, 0.4.7, A Django app to manage electronic parts inventories for PCB manufacturing., 2020-12-05T17:08:08+0000
+/project/pihdf/, pihdf, 0.1.3, Hardware Design Framework based on python and MyHDL, 2016-04-30T19:01:37+0000
+/project/kidraw/, kidraw, 2, Construct Kicad schematic and footprint libraries programmatically, 2015-11-18T02:02:05+0000
+/project/jkq-qmap/, jkq.qmap, 1.3.1, QMAP - A JKQ tool for Quantum Circuit Mapping, 2021-04-06T20:15:06+0000
+/project/pycudd/, pycudd, 1.1.0, PyCudd, 2019-11-23T00:05:32+0000
+/project/pyzz/, pyzz, 0.0.12, , 2020-03-02T22:31:15+0000
+/project/guiblox/, guiblox, 2019.5.22, GUI Widgets in Frames, 2019-05-22T20:11:19+0000
+/project/vwr/, vwr, 0.1.14, Python driver for VWR circulating baths., 2017-08-09T21:22:18+0000
+/project/python-gdsii/, python-gdsii, 0.2.1, GDSII manipulation libaray, 2011-12-17T18:48:45+0000
+/project/dvg-pyqt-controls/, dvg-pyqt-controls, 1.0.0, Mishmash of PyQt5 stylesheets and custom controls that I personally use in many of my projects., 2020-08-11T20:05:23+0000
+/project/fsva/, fsva, 0.0.9, fsva (FuseSoc Verification Automation), 2021-01-22T13:21:06+0000
+/project/cocotbext-eth/, cocotbext-eth, 0.1.14, Ethernet interface modules for cocotb, 2021-04-13T01:38:55+0000
+/project/elecpy/, Elecpy, 0.1.1, Used for electric analysis, 2021-03-20T09:58:40+0000
+/project/ipyxact/, ipyxact, 0.2.4, Python IP-Xact handling library, 2019-04-17T19:47:13+0000
+/project/boolexpr/, boolexpr, 2.4, Boolean Expressions, 2016-09-29T06:42:53+0000
+/project/dvg-devices/, dvg-devices, 0.2.6, Collection of I/O interfaces to communicate with microcontroller boards and laboratory devices, with optional PyQt5 multithread support and graphical user-interfaces., 2021-03-02T17:47:48+0000
+/project/thdl/, thdl, 0.0.5, thdl, 2021-03-28T11:48:32+0000
+/project/dvg-pyqtgraph-threadsafe/, dvg-pyqtgraph-threadsafe, 3.0.1, PyQtGraph library providing thread-safe plot curves with underlying (ring) buffers., 2020-08-07T22:20:27+0000
+/project/pysep/, pySEP, 1.0.11, Pacote Open Source desenvolvido no Brasil para modelar e simular Sistemas Elétricos de Potência. Open Source Package developed in Brazil to model and simulate Electric Power Systems, 2020-06-19T03:14:59+0000
+/project/watlow/, watlow, 0.2.5, Python driver for Watlow EZ-Zone temperature controllers., 2021-03-30T12:55:53+0000
+/project/cocotbext-axi/, cocotbext-axi, 0.1.12, AXI, AXI lite, and AXI stream modules for cocotb, 2021-04-13T05:51:21+0000
+/project/fatamorgana/, fatamorgana, 0.11, OASIS layout format parser and writer, 2021-01-08T17:46:03+0000
+/project/hwt/, hwt, 3.7, hdl synthesis toolkit, 2020-11-02T08:37:23+0000
+/project/jkq-qcec/, jkq.qcec, 1.8.0, QCEC - A JKQ tool for Quantum Circuit Equivalence Checking, 2021-03-10T16:45:05+0000
+/project/pyddlib/, pyddlib, 0.2.1, pyddlib is a Python3 library for manipulating decision diagrams (DD)., 2017-03-16T15:30:37+0000
+/project/mcerp3/, mcerp3, 1.0.3, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2018-08-30T22:06:03+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/picwriter/, picwriter, 0.5, Mask generation tool, 2019-10-24T18:24:01+0000
+/project/gdshelpers/, gdsHelpers, 1.1.4, A simple Python package for creating or reading GDSII/OASIS layout files., 2021-01-31T16:58:43+0000
+/project/flatcam/, flatcam, 0.8.5, 2D Computer-Aided PCB Manufacturing, 2018-06-07T11:36:55+0000
+/project/jkq-qfr/, jkq.qfr, 1.3.1, QFR - A JKQ tool for Quantum Functionality Representation, 2021-04-16T09:08:26+0000
+/project/hdmi2usb-modeswitch/, hdmi2usb.modeswitch, 0.0.1, Module and command line tool for control the mode of HDMI2USB devices., 2018-01-14T06:18:30+0000
+/project/qtv/, qtv, 0.0.1, , 2019-06-23T01:42:44+0000
+/project/rskfd/, rskfd, 0.2.5, Python Package for Instrument Control and Data Handling, 2020-11-03T07:57:48+0000
+/project/mflowgen/, mflowgen, 0.3.1, mflowgen: A Modular ASIC and FPGA Flow Generator, 2020-08-18T00:18:00+0000
+/project/liberty-parser/, liberty-parser, 0.0.9, Liberty format parser., 2021-04-07T09:44:21+0000
+/project/rlgp/, rlgp, 0.0.1, Graph Partitioning using Reinforcement Learning, 2020-12-11T03:41:05+0000
+/project/huber/, huber, 0.3.2, Python driver for Huber recirculating baths., 2020-05-26T19:41:02+0000
+/project/logic-toolchain/, logic-toolchain, 0.0.2, Wrapper for FPGA toolchain tools, 2019-01-06T00:17:16+0000
+/project/sydpy/, sydpy, 0.0.1, System Design in Python, 2015-01-26T10:34:19+0000
+/project/gdstk/, gdstk, 0.4.0, Python module for creation and manipulation of GDSII files., 2021-04-11T13:13:20+0000
+/project/pykicadlib/, pykicadlib, 0.0.1, Python KiCAD library parser/generator, 2019-09-20T16:20:06+0000
+/project/gomjabbar/, gomjabbar, 0.2.0, NGSPICE Code Model Testing, 2018-12-18T12:48:16+0000
+/project/spr/, spr, 0.2.1, A tiny Python package to parse spice raw data files, 2018-05-02T15:16:25+0000
+/project/kibot/, kibot, 0.10.1, KiCad automation tool for documents generation, 2021-02-22T18:15:55+0000
+/project/python-tlm/, python-tlm, 0.1.dev0, Python Transaction Level Modeling, 2019-11-17T13:34:54+0000
+/project/ralbot-ipxact/, ralbot-ipxact, 1.4.0, Import and export IP-XACT XML to/from the systemrdl-compiler register model, 2020-09-13T22:41:48+0000
+/project/gridlock/, gridlock, 0.5, Coupled gridding library, 2021-01-09T07:18:04+0000
+/project/myhdl-lib/, myhdl_lib, 0.1.0, TODO: Library of components based on Python and MyHDL, 2016-04-09T13:29:50+0000
+/project/librecell-lib/, librecell-lib, 0.0.9, CMOS standard cell characterization kit., 2020-12-30T17:45:49+0000
+/project/cocotbext-uart/, cocotbext-uart, 0.1.0, UART modules for cocotb, 2021-01-02T03:56:14+0000
+/project/simshop/, SimShop, 0.15.4, Easy Verilog simulation, 2011-11-03T17:51:36+0000
+/project/chips/, Chips, 0.1.2, Design hardware with Python, 2011-05-27T15:49:06+0000
+/project/microprobe-core/, microprobe-core, 0.5.20210316212407, Microprobe: Microbenchmark generation framework: Main package, 2021-03-17T01:26:20+0000
+/project/gdspy/, gdspy, 1.6.4, Python module for creating/importing/merging GDSII files., 2021-04-23T11:00:38+0000
+/project/verilog-parser/, verilog-parser, 0.0.1, Parser for structural verilog., 2021-04-07T14:39:55+0000
+/project/ramstk/, RAMSTK, 0.14.0, The RAMS ToolKit (RAMSTK) is a suite of tools for performing and documenting reliability, availability, maintainability, and safety (RAMS) analyses, 2021-02-04T05:28:24+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/polyscience/, polyscience, 0.1.16, Python driver for Polyscience circulating baths., 2019-02-10T01:44:04+0000
+/project/kiauto/, kiauto, 1.5.8, KiCad Automation Scripts, 2021-02-22T18:04:36+0000
+/project/cocotbext-interfaces/, cocotbext-interfaces, 0.1.1, , 2020-04-17T21:46:43+0000
+/project/skillbridge/, skillbridge, 1.2.9, A seamless Python remote bridge to Cadence's Skill in Virtuoso, 2021-01-25T13:41:09+0000
+/project/kicadmodtree/, KicadModTree, 1.1.2, creating kicad footprints using python scripts, 2020-10-06T08:20:14+0000
+/project/tendril-framework/, tendril-framework, 0.1.0, An open-ended framework for handling information, to aid development, management, and production cycles, 2017-03-19T20:05:22+0000
+/project/dvg-qdeviceio/, dvg-qdeviceio, 0.3.0, Hassle-free PyQt5 interface for multithreaded data acquisition and communication with an I/O device., 2020-07-22T22:29:38+0000
+/project/mif/, mif, 0.4, reading and writing MIF files, 2020-02-20T20:22:34+0000
+/project/gds3xtrude/, gds3xtrude, 0.0.9, 3D GDS viewer based on OpenSCAD, 2020-04-19T15:53:12+0000
+/project/float-raster/, float-raster, 0.6, High-precision anti-aliasing polygon rasterizer, 2020-11-03T09:23:12+0000
+/project/ralbot-html/, ralbot-html, 1.7.1, HTML documentation generator for SystemRDL-based register models, 2020-09-13T22:35:28+0000
+/project/nport/, nport, 0.1, Python package for handling n-port data, 2010-11-19T14:09:25+0000
+/project/kinparse/, kinparse, 0.1.2, Parser for KiCad schematic netlists., 2019-02-23T19:10:39+0000
+/project/microprobe-all/, microprobe-all, 0.5.20210316212407, Microprobe: Microbenchmark generation framework: A modular and extensible framework to generate microbenchmarks, 2021-03-17T01:26:18+0000
+/project/substratestack/, substratestack, 0.3, Python package to simplify substrate stackups and export them for use in Momentum and Sonnet, 2011-06-20T13:46:25+0000
+/project/pyvcd/, pyvcd, 0.2.4, Python VCD file support, 2020-12-16T02:54:14+0000
+/project/hwtlib/, hwtLib, 2.8, library of hardware components and test for HWToolkit framework (hwt, FPGA devel. tools), 2019-11-08T15:17:25+0000
+/project/msdsl/, msdsl, 0.3.7, Library for generating synthesizable mixed-signal models for FPGA emulation, 2021-03-13T22:10:57+0000
+/project/pydsm/, pydsm, 0.14.0.0, Python Based Delta-Sigma modulator design tools, 2019-08-25T13:44:38+0000
+/project/peakrdl/, peakrdl, 0.1.0, Command-line tool for control/status register automation, 2020-04-15T03:57:29+0000
+/project/tvt-test-vector-transformer/, tvt-test-vector-transformer, 0.0.1, Translate digital test vectors for automated test equipment for semiconductors, 2013-04-14T09:49:36+0000
+/project/librecell-layout/, librecell-layout, 0.0.9, CMOS standard cell layout generator., 2020-12-30T17:45:48+0000
+/project/pygears/, pygears, 0.2.0, Framework for functional hardware design approach, 2020-07-17T10:54:06+0000
+/project/semi-ate/, Semi-ATE, 0.1.24, Framework for Semiconductor ATE testing projects, 2021-03-31T07:53:54+0000
+/project/peakrdl-uvm/, peakrdl-uvm, 2.0.2, Generate UVM register model from compiled SystemRDL input, 2021-03-31T06:22:15+0000
+/project/alicat/, alicat, 0.2.10, Python driver for Alicat mass flow controllers., 2020-05-26T20:02:54+0000
+/project/partsfinder/, partsfinder, 0.0.6, A small example package, 2020-06-07T21:21:16+0000
+/project/kicad-backannotate/, kicad-backannotate, 0.0.1, A back-annotation tool for Kicad EDA, 2018-01-20T22:07:25+0000
+/project/kicad-python/, kicad-python, 0.0.2, unofficial abstraction layer for the KiCad API, 2018-08-28T19:32:43+0000
+/project/sphinx-hwt/, sphinx-hwt, 2.6, Sphinx extension to produce interactive schematic for hardware written in HWT, 2020-10-03T09:29:20+0000
+/project/pygmyhdl/, pygmyhdl, 0.0.3, MyHDL hardware design language encased in the tasty PygMyHDL wrapper., 2017-11-05T18:36:11+0000
+/project/pyfemm/, pyfemm, 0.1.1, Python interface to Finite Element Method Magnetics (FEMM), 2020-05-12T01:20:03+0000
+/project/threeflex/, threeflex, 0.1.1, Python driver for Micromeritics 3Flex surface characterization analyzers., 2015-03-26T21:35:11+0000
+/project/semi-ate-stil/, Semi-ATE-STIL, 0.0.1, Standard Tester Interface Library [IEEE1450] with python, 2021-02-19T19:20:05+0000
+/project/quartustcl/, quartustcl, 0.3, a Python package for interfacing with Intel Quartus Tcl, 2020-09-22T22:18:46+0000
+/project/gdscad/, gdsCAD, 0.4.5, A simple Python package for creating or reading GDSII layout files., 2015-02-06T09:10:21+0000
+/project/xeda/, xeda, 0.0.1.post1.dev0, XEDA: Cross-platform, cross-tool, cross-target, cross-HDL Electronic Design Automation, 2020-09-04T18:12:14+0000
+/project/cocotb-test/, cocotb-test, 0.2.0, , 2021-03-15T09:36:35+0000
+/project/proteusisc/, proteusisc, 0.2.0, Driver framework for In System Configureation (ISC) Controllers (for example, JTAG), 2016-11-09T23:36:58+0000
+/project/gce-ipx800/, gce-ipx800, 0.4.0, Module to control the IPX800 V4 device from GCE Electronics., 2020-12-27T17:03:09+0000
+/project/pylse/, pylse, 0.0.0, Pulse-Transfer Level eDSL for the design, simulation, and verification of superconducting electronics, 2021-04-01T20:29:26+0000
+/project/ssfsm/, ssfsm, 0.6.0, ssfsm is a constructive library implementing deterministic finite state machines. The fun thing is, that it has a stupidly simple API., 2015-05-05T15:32:28+0000
+/project/robotframework-kicadlibrary/, robotframework-kicadlibrary, 2.0.1, Robot Framework KiCAD library, 2020-09-14T11:45:07+0000
+/project/django-epic-sample/, django-epic-sample, 0.4.0, A minimal Django project to demonstrate EPIC functionality., 2019-10-08T16:31:15+0000
+/project/tsfpga/, tsfpga, 6.0.0, tsfpga is a development platform that aims to streamline all aspects of your FPGA project., 2021-03-24T13:27:07+0000
+/project/spydrnet/, spydrnet, 1.8.0, Python package for analyzing and transforming netlists, 2021-04-23T19:03:42+0000
+/project/cocotbext-wishbone/, cocotbext-wishbone, 0.2, Cocotb Wishbone modules, 2020-07-07T19:29:33+0000
+/project/klayout/, klayout, 0.26.11, KLayout standalone Python package, 2021-03-02T20:29:01+0000
+/project/hdlconvertor/, hdlConvertor, 2.1, VHDL and System Verilog parser written in c++, 2020-09-06T20:54:36+0000
+/project/dvg-pyqt-filelogger/, dvg-pyqt-filelogger, 1.0.0, PyQt5 interface to handle logging data to file particularly well suited for multithreaded programs., 2020-08-11T16:58:34+0000
+/project/microprobe-target-riscv/, microprobe-target-riscv, 0.5.20210316212407, Microprobe: Microbenchmark generation framework: Target definitions for RISCV, 2021-03-17T01:26:25+0000
+/project/svinst/, svinst, 0.1.8, Python library for parsing module definitions and instantiations from SystemVerilog files, 2020-11-11T22:54:20+0000
+/project/decida/, DeCiDa, 1.1.5, Device and Circuit Data Analysis, 2020-03-11T01:02:16+0000
+/project/layouteditor/, LayoutEditor, 20180418, Python wrapper for the LayoutEditor/LayoutScript, 2018-04-17T11:56:37+0000
+/project/cocotb-coverage/, cocotb-coverage, 1.1.0, Functional Coverage and Constrained Randomization Extensions for Cocotb, 2020-08-07T14:15:35+0000
+/project/kipi/, kipi, 0.2.1, A tool for downloading and installing KiCad packages, 2018-04-15T11:34:16+0000
+/project/oedes/, oedes, 0.0.18, organic electronic device simulator, 2018-10-09T21:41:12+0000
+/project/ngspicetomodelica/, ngspiceToModelica, 0.3dev1, A python project to convert ngspice netlists to Modelica code, 2014-07-22T10:00:40+0000
+/project/hdlconvertorast/, hdlConvertorAst, 0.7, A library of AST nodes for HDL languages (Verilog, VHDL, ...) and transpiler/compiler utilities, 2021-04-14T19:33:12+0000
+/project/mcerp/, mcerp, 0.12, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2019-01-09T09:32:35+0000
+/project/gdsmerge/, gdsmerge, 0.0.0, Merge cells of multiple GDS files into a single file., 2019-06-19T16:33:48+0000
+/project/pyrtl/, pyrtl, 0.9.0, RTL-level Hardware Design and Simulation Toolkit, 2021-03-06T02:18:06+0000
+/project/hwtgraph/, hwtGraph, 2.0, Library for conversion of HWT hardware representation to graph formats for visualization purposes, 2020-11-02T09:03:44+0000
+/project/pymtl3/, pymtl3, 3.1.4, PyMTL 3 (Mamba): A Python-based hardware generation, simulation, and verification framework, 2021-03-16T22:29:31+0000
+/project/hdl-checker/, hdl-checker, 0.7.3, HDL code checker, 2021-04-12T08:16:10+0000
+/project/pymensor/, pymensor, 0.0.2, Python driver for Mensor Modular Pressure Controllers., 2020-01-13T03:41:24+0000
+/project/iac-protocol/, iac-protocol, 0.301, An interface/protocol that provides inter-application communication and scripting., 2014-05-15T01:09:39+0000
+/project/systemrdl-compiler/, systemrdl-compiler, 1.17.0, Parse and elaborate front-end for SystemRDL 2.0, 2021-03-20T05:08:04+0000
+/project/pydigitalwavetools/, pyDigitalWaveTools, 1.0, Library for operations with VCD and other digital wave files, 2020-11-02T00:47:13+0000
+/project/simudo/, simudo, 0.6.4.1, SIMUlation of Devices with Optics / SIMulateur Université D'Ottawa, 2020-12-14T21:36:50+0000
+/project/kyupy/, kyupy, 0.0.3, High-performance processing and analysis of non-hierarchical VLSI designs, 2021-01-16T05:53:11+0000
+/project/uvm-python/, uvm-python, 0.2.0, uvm-python UVM implementation in Python on top of cocotb, 2021-03-27T14:33:09+0000
+/project/electruth/, electruth, 0.2.0, A collection of boolean logic tools, 2011-02-25T21:37:25+0000
+/project/iec60063/, iec60063, 0.2, Generator for IEC60063 Preferred Values, 2021-03-26T04:19:55+0000
+/project/klamath/, klamath, 1.1, GDSII format reader/writer, 2021-04-12T21:00:24+0000
+/project/pysfg/, pysfg, 0.1.1, A Python package for symbolic signal flow graph analysis., 2019-10-06T08:36:04+0000
+/project/pcbdl/, pcbdl, 0.1.1, A programming way to design schematics., 2019-05-29T06:20:40+0000
+/project/anasymod/, anasymod, 0.3.9, Tool for running mixed-signal emulations on FPGAs, 2021-03-14T00:20:40+0000
+/project/opendbpy/, opendbpy, 0.0.4, Database and Tool Framework for EDA, 2020-04-18T12:27:55+0000
+/project/microprobe-doc/, microprobe-doc, 0.5.20210316212407, Microprobe: Microbenchmark generation framework: Documentation, 2021-03-17T01:26:24+0000
+/project/peakrdl-html/, peakrdl-html, 2.0.1, HTML documentation generator for SystemRDL-based register models, 2020-05-10T18:21:37+0000
+/project/cocotb/, cocotb, 1.5.1, cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python., 2021-03-20T17:06:31+0000
+/project/cocotbext-pcie/, cocotbext-pcie, 0.1.8, PCI express simulation framework for cocotb, 2021-03-25T04:49:09+0000
+/project/semi-ate-stdf/, Semi-ATE-STDF, 0.1.14, Library to read/write STDF/ATDF files, 2021-03-11T00:38:32+0000
+/project/ralbot-uvm/, ralbot-uvm, 1.2.0, Generate UVM register model from compiled SystemRDL input, 2020-09-13T22:46:14+0000
+/project/pymtl3-net/, pymtl3-net, 0.2.5, PyMTL3-Net: an open-source Python-based framework for modeling, testing, and evaluating on-chip interconnection networks, 2020-10-08T13:18:08+0000
+/project/masque/, masque, 2.5, Lithography mask library, 2021-03-26T17:35:11+0000
+/project/pyvhdlmodel/, pyVHDLModel, 0.8.0, An abstract VHDL language model., 2021-01-03T23:12:32+0000
+/project/vunit-hdl/, vunit-hdl, 4.4.0, VUnit is an open source unit testing framework for VHDL/SystemVerilog., 2020-03-26T21:06:55+0000
+/project/rastercarve/, rastercarve, 1.0.8, Generate G-code to engrave raster images, 2020-03-25T16:26:38+0000
+/project/peakrdl-ipxact/, peakrdl-ipxact, 2.1.0, Import and export IP-XACT XML to/from the systemrdl-compiler register model, 2020-11-19T06:26:06+0000
+/project/myhdl/, myhdl, 0.11, Python as a Hardware Description Language, 2019-05-31T22:28:03+0000
+/project/edaac/, edaac, 0.0.21, Your day-to-day EDA analytics tool, 2020-06-08T14:51:12+0000
+/project/gerbolyze/, gerbolyze, 2.1.0, A high-resolution image-to-PCB converter. Gerbolyze plots SVG, PNG and JPG onto existing gerber files. It handles almost the full SVG spec and deals with text, path outlines, patterns, arbitrary paths with self-intersections and holes, etc. fully automatically. It can vectorize raster images both by contour tracing and by grayscale dithering. All processing is done at the vector level without intermediate conversions to raster images accurately preserving the input., 2021-04-25T16:50:24+0000
+/project/xlayout/, XLayout, 0.1, XLayout standalone Python package, 2020-01-19T09:07:49+0000
+/project/migen/, migen, 0.9.2, Python toolbox for building complex digital hardware, 2019-11-03T18:16:27+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/rssd/, rssd, 2021.2.22, Rohde & Schwarz SCPI Driver, 2021-02-22T18:36:27+0000
+/project/dvg-pid-controller/, dvg-pid-controller, 2.0.0, PID controller with integral-windup & derivative-kick prevention and bumpless manual-to-auto-mode transfer., 2020-07-02T13:41:43+0000
+/project/dvg-ringbuffer/, dvg-ringbuffer, 1.0.1, Numpy ringbuffer at a fixed memory address to allow for significantly sped up numpy, sigpy, numba & pyFFTW calculations., 2020-07-21T22:06:39+0000
+/project/teroshdl/, TerosHDL, 0.1.2, Teros HDL backend., 2020-01-29T22:06:49+0000
+/project/pyipcmi/, pyIPCMI, 1.1.5, An IP Core Management Infrastructure written in Python - pyIPCMI., 2019-10-13T23:30:09+0000
+/project/logicmin/, logicmin, 0.3.18, Logic Minimization, 2018-02-11T03:08:54+0000
+/project/librecell-common/, librecell-common, 0.0.9, Common utility functions for LibreCell suite., 2020-12-30T17:45:46+0000
+/project/swoop/, Swoop, 0.6.5, Swoop is a Python library for working with CadSoft Eagle files., 2019-04-14T08:04:10+0000
+/project/pymathbitprecise/, pyMathBitPrecise, 0.9, number types of variable bit size and utils for bit manipulations, 2021-01-01T18:30:28+0000
+/project/vwr/, vwr, 0.1.14, Python driver for VWR circulating baths., 2017-08-09T21:22:18+0000
+/project/pihdf/, pihdf, 0.1.3, Hardware Design Framework based on python and MyHDL, 2016-04-30T19:01:37+0000
+/project/kidraw/, kidraw, 2, Construct Kicad schematic and footprint libraries programmatically, 2015-11-18T02:02:05+0000
+/project/jkq-qmap/, jkq.qmap, 1.3.1, QMAP - A JKQ tool for Quantum Circuit Mapping, 2021-04-06T20:15:06+0000
+/project/pycudd/, pycudd, 1.1.0, PyCudd, 2019-11-23T00:05:32+0000
+/project/recover/, recover, 0.0.0, An effective Remote Co-Verification (ReCoVer) library of hardware and software co-designs, 2019-11-19T21:30:45+0000
+/project/svreal/, svreal, 0.2.7, Library for working with fixed-point numbers in SystemVerilog, 2020-11-13T20:45:07+0000
+/project/python-gdsii/, python-gdsii, 0.2.1, GDSII manipulation libaray, 2011-12-17T18:48:45+0000
+/project/kifield/, kifield, 0.1.17, Module and utilities for manipulating part fields in KiCad files., 2021-03-25T16:36:48+0000
+/project/ipcorepackager/, ipCorePackager, 0.5, Scriptable universal IP-core generator, 2020-05-12T19:48:23+0000
+/project/signalintegrity/, SignalIntegrity, 1.1.15, Signal and Power Integrity Tools, 2020-12-17T01:12:24+0000
+/project/eaglepy/, eaglepy, 1.0.3, Read, modify, and create Cadsoft EAGLE files, 2014-08-08T22:04:40+0000
+/project/respice/, respice, 0.3.7, Flexible and easy to use non-linear transient electric circuit simulator., 2021-02-10T17:41:00+0000
+/project/librecell/, librecell, 0.0.9, Meta-package for the LibreCell suite., 2020-12-30T17:45:50+0000
+/project/dvg-pyqt-controls/, dvg-pyqt-controls, 1.0.0, Mishmash of PyQt5 stylesheets and custom controls that I personally use in many of my projects., 2020-08-11T20:05:23+0000
+/project/fsva/, fsva, 0.0.9, fsva (FuseSoc Verification Automation), 2021-01-22T13:21:06+0000
+/project/pycocotb/, pycocotb, 1.1, RTL simulator API, 2020-12-27T20:40:18+0000
+/project/edalize/, edalize, 0.2.3, Edalize is a library for interfacing EDA tools, primarily for FPGA development, 2020-11-17T22:05:37+0000
+/project/django-epic/, django-epic, 0.4.7, A Django app to manage electronic parts inventories for PCB manufacturing., 2020-12-05T17:08:08+0000
+/project/cocotbext-eth/, cocotbext-eth, 0.1.14, Ethernet interface modules for cocotb, 2021-04-13T01:38:55+0000
+/project/elecpy/, Elecpy, 0.1.1, Used for electric analysis, 2021-03-20T09:58:40+0000
+/project/pyzz/, pyzz, 0.0.12, , 2020-03-02T22:31:15+0000
+/project/guiblox/, guiblox, 2019.5.22, GUI Widgets in Frames, 2019-05-22T20:11:19+0000
+/project/ipyxact/, ipyxact, 0.2.4, Python IP-Xact handling library, 2019-04-17T19:47:13+0000
+/project/boolexpr/, boolexpr, 2.4, Boolean Expressions, 2016-09-29T06:42:53+0000
+/project/librecell-lib/, librecell-lib, 0.0.9, CMOS standard cell characterization kit., 2020-12-30T17:45:49+0000
+/project/cocotbext-uart/, cocotbext-uart, 0.1.0, UART modules for cocotb, 2021-01-02T03:56:14+0000
+/project/simshop/, SimShop, 0.15.4, Easy Verilog simulation, 2011-11-03T17:51:36+0000
+/project/chips/, Chips, 0.1.2, Design hardware with Python, 2011-05-27T15:49:06+0000
+/project/watlow/, watlow, 0.2.5, Python driver for Watlow EZ-Zone temperature controllers., 2021-03-30T12:55:53+0000
+/project/gdspy/, gdspy, 1.6.4, Python module for creating/importing/merging GDSII files., 2021-04-23T11:00:38+0000
+/project/verilog-parser/, verilog-parser, 0.0.1, Parser for structural verilog., 2021-04-07T14:39:55+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/polyscience/, polyscience, 0.1.16, Python driver for Polyscience circulating baths., 2019-02-10T01:44:04+0000
+/project/kiauto/, kiauto, 1.5.8, KiCad Automation Scripts, 2021-02-22T18:04:36+0000
+/project/fatamorgana/, fatamorgana, 0.11, OASIS layout format parser and writer, 2021-01-08T17:46:03+0000
+/project/hwt/, hwt, 3.7, hdl synthesis toolkit, 2020-11-02T08:37:23+0000
+/project/picwriter/, picwriter, 0.5, Mask generation tool, 2019-10-24T18:24:01+0000
+/project/qtv/, qtv, 0.0.1, , 2019-06-23T01:42:44+0000
+/project/rskfd/, rskfd, 0.2.5, Python Package for Instrument Control and Data Handling, 2020-11-03T07:57:48+0000
+/project/skillbridge/, skillbridge, 1.2.9, A seamless Python remote bridge to Cadence's Skill in Virtuoso, 2021-01-25T13:41:09+0000
+/project/kicadmodtree/, KicadModTree, 1.1.2, creating kicad footprints using python scripts, 2020-10-06T08:20:14+0000
+/project/tendril-framework/, tendril-framework, 0.1.0, An open-ended framework for handling information, to aid development, management, and production cycles, 2017-03-19T20:05:22+0000
+/project/liberty-parser/, liberty-parser, 0.0.9, Liberty format parser., 2021-04-07T09:44:21+0000
+/project/pykicadlib/, pykicadlib, 0.0.1, Python KiCAD library parser/generator, 2019-09-20T16:20:06+0000
+/project/partsfinder/, partsfinder, 0.0.6, A small example package, 2020-06-07T21:21:16+0000
+/project/kicad-backannotate/, kicad-backannotate, 0.0.1, A back-annotation tool for Kicad EDA, 2018-01-20T22:07:25+0000
+/project/pyvcd/, pyvcd, 0.2.4, Python VCD file support, 2020-12-16T02:54:14+0000
+/project/kicad-python/, kicad-python, 0.0.2, unofficial abstraction layer for the KiCad API, 2018-08-28T19:32:43+0000
+/project/dvg-devices/, dvg-devices, 0.2.6, Collection of I/O interfaces to communicate with microcontroller boards and laboratory devices, with optional PyQt5 multithread support and graphical user-interfaces., 2021-03-02T17:47:48+0000
+/project/gomjabbar/, gomjabbar, 0.2.0, NGSPICE Code Model Testing, 2018-12-18T12:48:16+0000
+/project/thdl/, thdl, 0.0.5, thdl, 2021-03-28T11:48:32+0000
+/project/dvg-pyqtgraph-threadsafe/, dvg-pyqtgraph-threadsafe, 3.0.1, PyQtGraph library providing thread-safe plot curves with underlying (ring) buffers., 2020-08-07T22:20:27+0000
+/project/pysep/, pySEP, 1.0.11, Pacote Open Source desenvolvido no Brasil para modelar e simular Sistemas Elétricos de Potência. Open Source Package developed in Brazil to model and simulate Electric Power Systems, 2020-06-19T03:14:59+0000
+/project/spr/, spr, 0.2.1, A tiny Python package to parse spice raw data files, 2018-05-02T15:16:25+0000
+/project/kibot/, kibot, 0.11.0, KiCad automation tool for documents generation, 2021-04-25T14:28:38+0000
+/project/python-tlm/, python-tlm, 0.1.dev0, Python Transaction Level Modeling, 2019-11-17T13:34:54+0000
+/project/ralbot-ipxact/, ralbot-ipxact, 1.4.0, Import and export IP-XACT XML to/from the systemrdl-compiler register model, 2020-09-13T22:41:48+0000
+/project/gridlock/, gridlock, 0.5, Coupled gridding library, 2021-01-09T07:18:04+0000
+/project/myhdl-lib/, myhdl_lib, 0.1.0, TODO: Library of components based on Python and MyHDL, 2016-04-09T13:29:50+0000
+/project/microprobe-core/, microprobe-core, 0.5.20210316212407, Microprobe: Microbenchmark generation framework: Main package, 2021-03-17T01:26:20+0000
+/project/ramstk/, RAMSTK, 0.14.0, The RAMS ToolKit (RAMSTK) is a suite of tools for performing and documenting reliability, availability, maintainability, and safety (RAMS) analyses, 2021-02-04T05:28:24+0000
+/project/cocotbext-axi/, cocotbext-axi, 0.1.12, AXI, AXI lite, and AXI stream modules for cocotb, 2021-04-13T05:51:21+0000
+/project/jkq-qcec/, jkq.qcec, 1.8.0, QCEC - A JKQ tool for Quantum Circuit Equivalence Checking, 2021-03-10T16:45:05+0000
+/project/pyddlib/, pyddlib, 0.2.1, pyddlib is a Python3 library for manipulating decision diagrams (DD)., 2017-03-16T15:30:37+0000
+/project/cocotbext-interfaces/, cocotbext-interfaces, 0.1.1, , 2020-04-17T21:46:43+0000
+/project/mcerp3/, mcerp3, 1.0.3, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2018-08-30T22:06:03+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/gdshelpers/, gdsHelpers, 1.1.4, A simple Python package for creating or reading GDSII/OASIS layout files., 2021-01-31T16:58:43+0000
+/project/flatcam/, flatcam, 0.8.5, 2D Computer-Aided PCB Manufacturing, 2018-06-07T11:36:55+0000
+/project/jkq-qfr/, jkq.qfr, 1.3.1, QFR - A JKQ tool for Quantum Functionality Representation, 2021-04-16T09:08:26+0000
+/project/hdmi2usb-modeswitch/, hdmi2usb.modeswitch, 0.0.1, Module and command line tool for control the mode of HDMI2USB devices., 2018-01-14T06:18:30+0000
+/project/dvg-qdeviceio/, dvg-qdeviceio, 0.3.0, Hassle-free PyQt5 interface for multithreaded data acquisition and communication with an I/O device., 2020-07-22T22:29:38+0000
+/project/mif/, mif, 0.4, reading and writing MIF files, 2020-02-20T20:22:34+0000
+/project/gds3xtrude/, gds3xtrude, 0.0.9, 3D GDS viewer based on OpenSCAD, 2020-04-19T15:53:12+0000
+/project/float-raster/, float-raster, 0.6, High-precision anti-aliasing polygon rasterizer, 2020-11-03T09:23:12+0000
+/project/ralbot-html/, ralbot-html, 1.7.1, HTML documentation generator for SystemRDL-based register models, 2020-09-13T22:35:28+0000
+/project/nport/, nport, 0.1, Python package for handling n-port data, 2010-11-19T14:09:25+0000
+/project/mflowgen/, mflowgen, 0.3.1, mflowgen: A Modular ASIC and FPGA Flow Generator, 2020-08-18T00:18:00+0000
+/project/kinparse/, kinparse, 0.1.2, Parser for KiCad schematic netlists., 2019-02-23T19:10:39+0000
+/project/rlgp/, rlgp, 0.0.1, Graph Partitioning using Reinforcement Learning, 2020-12-11T03:41:05+0000
+/project/huber/, huber, 0.3.2, Python driver for Huber recirculating baths., 2020-05-26T19:41:02+0000
+/project/logic-toolchain/, logic-toolchain, 0.0.2, Wrapper for FPGA toolchain tools, 2019-01-06T00:17:16+0000
+/project/microprobe-all/, microprobe-all, 0.5.20210316212407, Microprobe: Microbenchmark generation framework: A modular and extensible framework to generate microbenchmarks, 2021-03-17T01:26:18+0000
+/project/substratestack/, substratestack, 0.3, Python package to simplify substrate stackups and export them for use in Momentum and Sonnet, 2011-06-20T13:46:25+0000
+/project/gerbolyze/, gerbolyze, 2.1.0, A high-resolution image-to-PCB converter. Gerbolyze plots SVG, PNG and JPG onto existing gerber files. It handles almost the full SVG spec and deals with text, path outlines, patterns, arbitrary paths with self-intersections and holes, etc. fully automatically. It can vectorize raster images both by contour tracing and by grayscale dithering. All processing is done at the vector level without intermediate conversions to raster images accurately preserving the input., 2021-04-25T16:50:24+0000
+/project/sydpy/, sydpy, 0.0.1, System Design in Python, 2015-01-26T10:34:19+0000
+/project/gdstk/, gdstk, 0.4.0, Python module for creation and manipulation of GDSII files., 2021-04-11T13:13:20+0000
+/project/hwtlib/, hwtLib, 2.8, library of hardware components and test for HWToolkit framework (hwt, FPGA devel. tools), 2019-11-08T15:17:25+0000
+/project/msdsl/, msdsl, 0.3.7, Library for generating synthesizable mixed-signal models for FPGA emulation, 2021-03-13T22:10:57+0000
+/project/pydsm/, pydsm, 0.14.0.0, Python Based Delta-Sigma modulator design tools, 2019-08-25T13:44:38+0000
+/project/peakrdl/, peakrdl, 0.1.0, Command-line tool for control/status register automation, 2020-04-15T03:57:29+0000
+/project/tvt-test-vector-transformer/, tvt-test-vector-transformer, 0.0.1, Translate digital test vectors for automated test equipment for semiconductors, 2013-04-14T09:49:36+0000
+/project/librecell-layout/, librecell-layout, 0.0.9, CMOS standard cell layout generator., 2020-12-30T17:45:48+0000
+/project/pygears/, pygears, 0.2.0, Framework for functional hardware design approach, 2020-07-17T10:54:06+0000
+/project/semi-ate/, Semi-ATE, 0.1.24, Framework for Semiconductor ATE testing projects, 2021-03-31T07:53:54+0000
+/project/peakrdl-uvm/, peakrdl-uvm, 2.0.2, Generate UVM register model from compiled SystemRDL input, 2021-03-31T06:22:15+0000
+/project/alicat/, alicat, 0.2.10, Python driver for Alicat mass flow controllers., 2020-05-26T20:02:54+0000
+/project/sphinx-hwt/, sphinx-hwt, 2.6, Sphinx extension to produce interactive schematic for hardware written in HWT, 2020-10-03T09:29:20+0000
+/project/pygmyhdl/, pygmyhdl, 0.0.3, MyHDL hardware design language encased in the tasty PygMyHDL wrapper., 2017-11-05T18:36:11+0000
+/project/pyfemm/, pyfemm, 0.1.1, Python interface to Finite Element Method Magnetics (FEMM), 2020-05-12T01:20:03+0000
+/project/threeflex/, threeflex, 0.1.1, Python driver for Micromeritics 3Flex surface characterization analyzers., 2015-03-26T21:35:11+0000
+/project/semi-ate-stil/, Semi-ATE-STIL, 0.0.1, Standard Tester Interface Library [IEEE1450] with python, 2021-02-19T19:20:05+0000
+/project/quartustcl/, quartustcl, 0.3, a Python package for interfacing with Intel Quartus Tcl, 2020-09-22T22:18:46+0000
+/project/gdscad/, gdsCAD, 0.4.5, A simple Python package for creating or reading GDSII layout files., 2015-02-06T09:10:21+0000
+/project/xeda/, xeda, 0.0.1.post1.dev0, XEDA: Cross-platform, cross-tool, cross-target, cross-HDL Electronic Design Automation, 2020-09-04T18:12:14+0000
+/project/cocotb-test/, cocotb-test, 0.2.0, , 2021-03-15T09:36:35+0000
+/project/proteusisc/, proteusisc, 0.2.0, Driver framework for In System Configureation (ISC) Controllers (for example, JTAG), 2016-11-09T23:36:58+0000
+/project/gce-ipx800/, gce-ipx800, 0.4.0, Module to control the IPX800 V4 device from GCE Electronics., 2020-12-27T17:03:09+0000
+/project/pylse/, pylse, 0.0.0, Pulse-Transfer Level eDSL for the design, simulation, and verification of superconducting electronics, 2021-04-01T20:29:26+0000
+/project/ssfsm/, ssfsm, 0.6.0, ssfsm is a constructive library implementing deterministic finite state machines. The fun thing is, that it has a stupidly simple API., 2015-05-05T15:32:28+0000
+/project/robotframework-kicadlibrary/, robotframework-kicadlibrary, 2.0.1, Robot Framework KiCAD library, 2020-09-14T11:45:07+0000
+/project/django-epic-sample/, django-epic-sample, 0.4.0, A minimal Django project to demonstrate EPIC functionality., 2019-10-08T16:31:15+0000
+/project/tsfpga/, tsfpga, 6.0.0, tsfpga is a development platform that aims to streamline all aspects of your FPGA project., 2021-03-24T13:27:07+0000
+/project/spydrnet/, spydrnet, 1.8.0, Python package for analyzing and transforming netlists, 2021-04-23T19:03:42+0000
+/project/cocotbext-wishbone/, cocotbext-wishbone, 0.2, Cocotb Wishbone modules, 2020-07-07T19:29:33+0000
+/project/klayout/, klayout, 0.26.11, KLayout standalone Python package, 2021-03-02T20:29:01+0000
+/project/hdlconvertor/, hdlConvertor, 2.1, VHDL and System Verilog parser written in c++, 2020-09-06T20:54:36+0000
+/project/dvg-pyqt-filelogger/, dvg-pyqt-filelogger, 1.0.0, PyQt5 interface to handle logging data to file particularly well suited for multithreaded programs., 2020-08-11T16:58:34+0000
+/project/microprobe-target-riscv/, microprobe-target-riscv, 0.5.20210316212407, Microprobe: Microbenchmark generation framework: Target definitions for RISCV, 2021-03-17T01:26:25+0000
+/project/svinst/, svinst, 0.1.8, Python library for parsing module definitions and instantiations from SystemVerilog files, 2020-11-11T22:54:20+0000
+/project/decida/, DeCiDa, 1.1.5, Device and Circuit Data Analysis, 2020-03-11T01:02:16+0000
+/project/layouteditor/, LayoutEditor, 20180418, Python wrapper for the LayoutEditor/LayoutScript, 2018-04-17T11:56:37+0000
+/project/cocotb-coverage/, cocotb-coverage, 1.1.0, Functional Coverage and Constrained Randomization Extensions for Cocotb, 2020-08-07T14:15:35+0000
+/project/kipi/, kipi, 0.2.1, A tool for downloading and installing KiCad packages, 2018-04-15T11:34:16+0000
+/project/oedes/, oedes, 0.0.18, organic electronic device simulator, 2018-10-09T21:41:12+0000
+/project/ngspicetomodelica/, ngspiceToModelica, 0.3dev1, A python project to convert ngspice netlists to Modelica code, 2014-07-22T10:00:40+0000
+/project/hdlconvertorast/, hdlConvertorAst, 0.7, A library of AST nodes for HDL languages (Verilog, VHDL, ...) and transpiler/compiler utilities, 2021-04-14T19:33:12+0000
+/project/mcerp/, mcerp, 0.12, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2019-01-09T09:32:35+0000
+/project/gdsmerge/, gdsmerge, 0.0.0, Merge cells of multiple GDS files into a single file., 2019-06-19T16:33:48+0000
+/project/pyrtl/, pyrtl, 0.9.0, RTL-level Hardware Design and Simulation Toolkit, 2021-03-06T02:18:06+0000
+/project/hwtgraph/, hwtGraph, 2.0, Library for conversion of HWT hardware representation to graph formats for visualization purposes, 2020-11-02T09:03:44+0000
+/project/pymtl3/, pymtl3, 3.1.4, PyMTL 3 (Mamba): A Python-based hardware generation, simulation, and verification framework, 2021-03-16T22:29:31+0000
+/project/hdl-checker/, hdl-checker, 0.7.3, HDL code checker, 2021-04-12T08:16:10+0000
+/project/pymensor/, pymensor, 0.0.2, Python driver for Mensor Modular Pressure Controllers., 2020-01-13T03:41:24+0000
+/project/iac-protocol/, iac-protocol, 0.301, An interface/protocol that provides inter-application communication and scripting., 2014-05-15T01:09:39+0000
+/project/systemrdl-compiler/, systemrdl-compiler, 1.17.0, Parse and elaborate front-end for SystemRDL 2.0, 2021-03-20T05:08:04+0000
+/project/pydigitalwavetools/, pyDigitalWaveTools, 1.0, Library for operations with VCD and other digital wave files, 2020-11-02T00:47:13+0000
+/project/simudo/, simudo, 0.6.4.1, SIMUlation of Devices with Optics / SIMulateur Université D'Ottawa, 2020-12-14T21:36:50+0000
+/project/kyupy/, kyupy, 0.0.3, High-performance processing and analysis of non-hierarchical VLSI designs, 2021-01-16T05:53:11+0000
+/project/uvm-python/, uvm-python, 0.2.0, uvm-python UVM implementation in Python on top of cocotb, 2021-03-27T14:33:09+0000
+/project/electruth/, electruth, 0.2.0, A collection of boolean logic tools, 2011-02-25T21:37:25+0000
+/project/iec60063/, iec60063, 0.2, Generator for IEC60063 Preferred Values, 2021-03-26T04:19:55+0000
+/project/klamath/, klamath, 1.1, GDSII format reader/writer, 2021-04-12T21:00:24+0000
+/project/pysfg/, pysfg, 0.1.1, A Python package for symbolic signal flow graph analysis., 2019-10-06T08:36:04+0000
+/project/pcbdl/, pcbdl, 0.1.1, A programming way to design schematics., 2019-05-29T06:20:40+0000
+/project/anasymod/, anasymod, 0.3.9, Tool for running mixed-signal emulations on FPGAs, 2021-03-14T00:20:40+0000
+/project/opendbpy/, opendbpy, 0.0.4, Database and Tool Framework for EDA, 2020-04-18T12:27:55+0000
+/project/microprobe-doc/, microprobe-doc, 0.5.20210316212407, Microprobe: Microbenchmark generation framework: Documentation, 2021-03-17T01:26:24+0000
+/project/peakrdl-html/, peakrdl-html, 2.0.1, HTML documentation generator for SystemRDL-based register models, 2020-05-10T18:21:37+0000
+/project/cocotb/, cocotb, 1.5.1, cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python., 2021-03-20T17:06:31+0000
+/project/cocotbext-pcie/, cocotbext-pcie, 0.1.8, PCI express simulation framework for cocotb, 2021-03-25T04:49:09+0000
+/project/semi-ate-stdf/, Semi-ATE-STDF, 0.1.14, Library to read/write STDF/ATDF files, 2021-03-11T00:38:32+0000
+/project/ralbot-uvm/, ralbot-uvm, 1.2.0, Generate UVM register model from compiled SystemRDL input, 2020-09-13T22:46:14+0000
+/project/pymtl3-net/, pymtl3-net, 0.2.5, PyMTL3-Net: an open-source Python-based framework for modeling, testing, and evaluating on-chip interconnection networks, 2020-10-08T13:18:08+0000
+/project/masque/, masque, 2.5, Lithography mask library, 2021-03-26T17:35:11+0000
+/project/pyvhdlmodel/, pyVHDLModel, 0.8.0, An abstract VHDL language model., 2021-01-03T23:12:32+0000
+/project/vunit-hdl/, vunit-hdl, 4.4.0, VUnit is an open source unit testing framework for VHDL/SystemVerilog., 2020-03-26T21:06:55+0000
+/project/rastercarve/, rastercarve, 1.0.8, Generate G-code to engrave raster images, 2020-03-25T16:26:38+0000
+/project/peakrdl-ipxact/, peakrdl-ipxact, 2.1.0, Import and export IP-XACT XML to/from the systemrdl-compiler register model, 2020-11-19T06:26:06+0000
+/project/myhdl/, myhdl, 0.11, Python as a Hardware Description Language, 2019-05-31T22:28:03+0000
+/project/edaac/, edaac, 0.0.21, Your day-to-day EDA analytics tool, 2020-06-08T14:51:12+0000

@@ -1,0 +1,696 @@
+/project/seafilecontentmanager/, SeafileContentManager, 0.1.2, ContentManager using Seafile's WebAPI, 2020-06-04T10:31:34+0000
+/project/paperai/, paperai, 1.8.0, AI-powered literature discovery and review engine for medical/scientific papers, 2021-04-23T12:31:37+0000
+/project/delune/, delune, 0.3.2.1, DeLune Python Object Storage and Search Engine, 2019-02-09T23:41:02+0000
+/project/text2vec/, text2vec, 0.1.7, Text to vector Tool, encode text, 2021-04-14T14:15:24+0000
+/project/ps-histogram/, ps-histogram, 0.0.3, Histogram Equalization, 2019-03-12T02:29:12+0000
+/project/stopwords-cnn/, stopwords-cnn, 0.0.5, Stopwords filter for Chinese, 2019-11-20T02:29:10+0000
+/project/codequestion/, codequestion, 1.3.0, Ask coding questions directly from the terminal, 2021-02-24T19:50:51+0000
+/project/godslayer/, godslayer, 1.1.0, Provides generator to read Kami (god) CSV record as list of string., 2020-08-17T11:13:00+0000
+/project/zettels/, zettels, 0.7.0, A command line tool implementing Luhmann's system of a "Zettelkasten"., 2020-06-04T14:32:39+0000
+/project/regex4dummies/, regex4dummies, 1.4.6, A NLP library that simplifies pattern finding in strings, 2015-12-25T23:11:42+0000
+/project/lawa/, lawa, 1.2.6, Chinese Words Segmentation Utilities, 2020-10-26T06:12:14+0000
+/project/springy/, springy, 5.0.1, An elasticsearch wrapper for Django, 2017-11-09T00:34:24+0000
+/project/snowballstemmer/, snowballstemmer, 2.1.0, This package provides 29 stemmers for 28 languages generated from Snowball algorithms., 2021-01-21T11:43:00+0000
+/project/zlparse/, zlparse, 1.5.1, 深圳市筑龙科技的工作-筑龙解析包, 2019-10-10T11:31:29+0000
+/project/xyz-points/, xyz-points, 0.0.7, points, 2021-01-13T00:44:29+0000
+/project/xyz-media/, xyz-media, 0.0.9, media, 2021-03-12T19:14:50+0000
+/project/pydocker-tools/, pydocker-tools, 0.0.1, pydocker-tools is a set of tools to work around lengthy or piped command line tools for docker, 2017-03-31T08:23:54+0000
+/project/fsed/, fsed, 0.5.4, Aho-Corasick string replacement utility, 2019-05-15T11:30:15+0000
+/project/nlpia-bot/, nlpia_bot, 0.2.14, "An open framework and dataset for building a distributed-agent chatbot based on _Natural Language Processing in Action_.", 2020-03-18T22:09:16+0000
+/project/xyz-person/, xyz-person, 0.0.4, person, 2021-01-26T17:50:43+0000
+/project/rdfutils/, rdfutils, 0.1, Thin wrapper functions to work with an RDF store based on the Redland C library & Python bindings (python-librdf), 2013-04-22T07:56:19+0000
+/project/newords/, newords, 1.2.0, Find new words from corpus, 2021-03-09T07:18:46+0000
+/project/xyz-todo/, xyz-todo, 0.0.4, todo, 2020-08-18T14:01:46+0000
+/project/datatxt/, dataTXT, 0.5, python interface for SpazioDati's dataTXT and DBpedia, 2012-11-16T17:09:53+0000
+/project/perke/, perke, 0.3.3, A keyphrase extractor for Persian, 2021-04-11T22:53:22+0000
+/project/pelican-similar-posts/, pelican-similar-posts, 1.0.0, Pelican plugin to add similar posts to articles, based on a vector space model, 2020-11-20T21:38:33+0000
+/project/mofang23/, mofang23, 0.0.1.4, Tool of Asdil, 2019-11-01T03:33:15+0000
+/project/moments/, Moments, 2.0, Python package to process personal notes stored as moments log files, 2012-09-27T12:49:00+0000
+/project/gentag/, gentag, 2.0, Simple and powerful tagging for Python objects., 2018-03-11T14:51:57+0000
+/project/zlest/, zlest, 1.1.9, 深圳市筑龙科技的工作-补充7.4, 2019-07-22T06:55:12+0000
+/project/pydomaingibfeature/, pydomaingibfeature, 0.1.2, Generator gibberish feature for machine learning, 2018-06-25T06:32:14+0000
+/project/ko-nltk/, ko-nltk, 0.1, , 2018-04-18T07:01:07+0000
+/project/lucene-querybuilder/, lucene-querybuilder, 0.2, A DSL to build Lucene text queries in Python., 2013-08-12T14:45:13+0000
+/project/markdown2ctags/, markdown2ctags, 0.3.3, Generates ctags-compatible output for the sections of a Markdown document., 2020-10-06T21:46:20+0000
+/project/guazi-crawler-lib/, guazi-crawler-lib, 1.0.4, 瓜子爬虫公共库, 2017-05-24T10:15:24+0000
+/project/xyz-util/, xyz-util, 0.0.13, common utils, 2021-03-08T10:01:06+0000
+/project/wordbag/, wordbag, 0.1.5, word bag, 2017-11-23T07:12:24+0000
+/project/xyz-exam/, xyz-exam, 0.0.18, exam app, 2021-04-02T02:01:51+0000
+/project/nltk2-fixed/, nltk2-fixed, 2.0.6, Natural Language Toolkit, 2018-11-14T11:18:12+0000
+/project/nltk/, nltk, 3.6.2, Natural Language Toolkit, 2021-04-20T07:42:47+0000
+/project/rknn-test/, rknn-test, 0.0.9, for test, 2019-09-03T08:58:00+0000
+/project/flow-dev2-1-3py27/, flow-dev2.1.3py27, 1.0.0, , 2018-08-31T07:49:43+0000
+/project/cmutils/, cmutils, 0.1.2, common utils like read/write file, log, 2020-03-08T14:59:35+0000
+/project/pyngramgen/, pyngramgen, 0.0.2, Generate ngram iterator, 2018-06-15T04:08:32+0000
+/project/parse-diqu/, parse-diqu, 1.0.27, 深圳市筑龙科技的工作-解析地区编号, 2019-07-06T01:40:27+0000
+/project/jieba-fast/, jieba-fast, 0.53, Use C and Swig to Speed up jieba<Chinese Words Segementation Utilities>, 2018-12-20T17:04:39+0000
+/project/changewords/, changewords, 1.0.3, Python tool to change or replace the text string in the files., 2018-08-25T09:13:22+0000
+/project/sist1/, sist1, 1.0.1, 兰楠在深圳标准技术研究部的工作, 2017-05-08T10:02:33+0000
+/project/icsemantic-thesaurus/, icsemantic.thesaurus, 1.0-dev-r371, A product to support thesaurus oriented tagging in Plone contents, 2008-10-06T17:47:08+0000
+/project/djapian/, Djapian, 2.3, High-level Xapian full-text indexer integration for Django, 2009-10-04T12:37:01+0000
+/project/shellinford/, shellinford, 0.4.1, Wavelet Matrix/Tree succinct data structure for full text search (using shellinford C++ library), 2019-02-08T13:56:24+0000
+/project/rater/, rater, 0.1.1, rater, 2020-06-28T09:37:15+0000
+/project/django-intlekt/, django-intlekt, 0.3.0, Django app for Intlekt, a content curation application using the IEML language., 2017-07-10T20:22:29+0000
+/project/text-sentence/, text-sentence, 0.14, text-sentence is text tokenizer and sentence splitter, 2010-06-21T13:18:19+0000
+/project/selenium-robot/, selenium-robot, 0.0.6, This is a robot description base selenium., 2018-08-02T14:59:57+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/swish-e/, Swish-E, 0.5, Swish-E API for Python., 2005-11-02T10:47:51+0000
+/project/net163/, net163, 1.1.2, html text parser,get the content form html page, 2018-03-26T12:48:34+0000
+/project/pressagio/, pressagio, 0.1.6, A Python Library for statistical text prediction., 2019-11-15T11:57:18+0000
+/project/paperpal/, paperpal, 0.3.0, Paper management with Zotero, 2016-08-16T00:13:36+0000
+/project/icsemantic-catalog/, icsemantic.catalog, 1.0-dev-r371, A product to solve queries using the icSemantic.Thesaurus in Plone, 2008-10-06T17:46:36+0000
+/project/textgen/, textgen, 0.0.1, Text Generation Model, 2021-04-07T14:21:20+0000
+/project/adidentifier/, adidentifier, 0.0.8, AdIdentifier, 2018-05-02T09:06:36+0000
+/project/xyz-auth/, xyz-auth, 0.0.10, auth common api, 2021-03-01T00:37:02+0000
+/project/zlgg/, zlgg, 2.0.0, 兰孟飞深圳市筑龙科技的工作, 2019-10-07T17:38:52+0000
+/project/cpca-fix/, cpca-fix, 0.3.5, Chinese Province, City and Area Recognition Utilities, 2019-02-25T09:52:21+0000
+/project/xyz-survey/, xyz-survey, 0.0.4, survey, 2020-08-18T18:03:26+0000
+/project/zltask/, zltask, 1.2.63, 深圳市筑龙科技的工作, 2019-09-30T06:00:56+0000
+/project/mlmetrics/, MLMetrics, 0.2, Simple metrics for general machine learning application like Resys and Search Ranking, 2019-03-14T15:47:21+0000
+/project/addressparser/, addressparser, 0.1.8, Chinese Address Parser and Extraction Tool,Chinese Province, City and Area Recognition Utilities, 2020-03-13T08:08:30+0000
+/project/xyz-mytraining/, xyz-mytraining, 0.0.4, mytraining app, 2020-07-23T21:41:11+0000
+/project/sweetpy/, SweetPy, 2.0.2.122, A micro service launcher, 2018-11-23T05:31:16+0000
+/project/gzqzl/, gzqzl, 1.3.2, zl四库一平台, 2019-08-02T08:29:01+0000
+/project/xyz-wechat/, xyz-wechat, 0.0.14, wechat utils, 2021-03-11T19:02:50+0000
+/project/peng-test/, peng-test, 0.0.3, for test, 2019-09-03T07:21:04+0000
+/project/corpussearch/, corpussearch, 0.0.16, Tools for loading and analyzing large text corpora., 2018-12-07T13:53:10+0000
+/project/suffix-tree/, suffix-tree, 0.0.7, A Generalized Suffix Tree for any iterable, with Lowest Common Ancestor retrieval, 2020-02-18T10:59:36+0000
+/project/lmfhawq/, lmfhawq, 1.6.0, 兰孟飞深圳市筑龙科技的工作, 2019-05-22T02:44:19+0000
+/project/xhtml2pdf/, xhtml2pdf, 0.2.5, PDF generator using HTML and CSS, 2020-10-08T18:57:39+0000
+/project/nlpyutil/, nlpyutil, 0.5.0, Personal usual utils for python, 2021-03-09T07:16:56+0000
+/project/mpml/, mpml, 1.0.1, multi pattern match library, 2021-04-12T04:47:59+0000
+/project/lcba/, lcba, 0.2.6, lint clean android and compress android resources, 2017-08-07T08:53:18+0000
+/project/chinese-name/, chinese-name, 0.0.1, gen chinese name, 2021-01-16T04:32:30+0000
+/project/readability-lxml/, readability-lxml, 0.8.1, fast html to text parser (article readability tool) with python 3 support, 2020-07-04T00:45:49+0000
+/project/nester-lzs/, nester_lzs, 1.3.0, A simple printer of nested lists, 2018-01-18T07:24:12+0000
+/project/phenodata/, phenodata, 0.11.0, phenodata is a data acquisition and manipulation toolkit for open access phenology data, 2020-12-29T17:25:08+0000
+/project/tldrstory/, tldrstory, 1.3.0, AI-powered understanding of headlines and story text, 2021-01-13T15:59:34+0000
+/project/vtrie/, vtrie, 0.0.2, A trie structure supporting fuzzy string searches., 2016-08-25T22:53:40+0000
+/project/textcluster/, textcluster, 0.0.2, Tool to cluster documents according to text similarity., 2013-08-18T00:30:47+0000
+/project/skimmr-bm/, skimmr_bm, 0.1-a2, SKIMMR library and scipts for machine-aided skim-reading (the specific package version for biomedical texts), 2013-02-15T17:24:03+0000
+/project/lexpy/, lexpy, 0.9.8, Python package for lexicon., 2021-01-27T15:35:04+0000
+/project/biocircos/, BioCircos, 0.0.1, BioCircos plot, 2020-09-29T08:53:56+0000
+/project/konlp/, konlp, 0.0.8, Korean Natural Language Toolkit, 2018-05-04T05:21:33+0000
+/project/xyz-comment/, xyz-comment, 0.0.11, comment, 2021-03-21T18:24:43+0000
+/project/setix/, setix, 0.8.3, Fast data structures for finding intersecting sets and similar strings, 2014-02-02T18:52:31+0000
+/project/sherlok/, sherlok, 0.1.6, A Python client for Sherlok, 2015-11-17T13:50:06+0000
+/project/gxsphinx/, GxSphinx, 1.0.0, Python documentation generator, 2020-08-04T03:07:53+0000
+/project/zhulong/, zhulong, 5.2.45, 深圳市筑龙科技的工作-公共资源, 2019-07-22T06:08:15+0000
+/project/jgtextrank/, jgtextrank, 0.1.6, Yet another Python implementation of TextRank: package for the creation, manipulation, and study of TextRank algorithm based keywords extraction and summarisation, 2019-11-27T11:51:43+0000
+/project/narmer/, narmer, 0.1.1, Narmer Experimental NLP/IR library for Python, 2015-05-13T06:17:07+0000
+/project/xyz-clockin/, xyz-clockin, 0.0.7, clockin, 2021-01-11T17:10:28+0000
+/project/bloom3/, bloom3, 0.0.1, bloom3, 2017-05-15T08:49:20+0000
+/project/torchvc/, TorchVC, 0.1, Voice Conversion in PyTorch, 2019-08-17T20:52:47+0000
+/project/echosun/, echosun, 0.1, a set of functions, 2018-05-24T08:55:09+0000
+/project/companynameparser/, companynameparser, 0.1.1, Chinese Company Name Parser and Extraction Tool,Company name Recognition Utilities, 2021-04-23T10:37:25+0000
+/project/log4py/, log4py, 2.2, Log For Python, 2020-09-13T12:39:18+0000
+/project/phonetics/, phonetics, 1.0.5, Compute phonetic key of strings for indexing or fuzzy matching, 2018-03-23T15:38:37+0000
+/project/convert2geojson/, convert2geojson, 0.0.2, Tools for converting dataframes to GeoJSON format., 2018-09-18T12:00:48+0000
+/project/optionset/, optionset, 20.10.23, A lightweight tool for conducting parameter studies., 2020-10-23T11:33:09+0000
+/project/rowordnet/, rowordnet, 1.1.0, Python API for the Romanian WordNet, 2020-08-06T10:47:09+0000
+/project/voted-ranking/, voted-ranking, 0.1.6, , 2019-05-14T02:45:44+0000
+/project/zlshenpi/, zlshenpi, 1.1.35, 深圳市筑龙科技的工作-全国审批, 2019-07-11T07:24:25+0000
+/project/lntime/, lntime, 1.2.1, extract Time, 2019-06-19T02:37:27+0000
+/project/dialogbot/, dialogbot, 0.0.4, Dialog robot, ChatBot, 2019-08-06T04:08:54+0000
+/project/konlp-test/, konlp-test, 0.0.7.dev1, Korean Natural Language Toolkit, 2018-04-24T12:00:20+0000
+/project/getip-ab/, GetIp_ab, 0.2.0, a simple program to get proxies, 2019-05-09T09:35:41+0000
+/project/lawrouge/, lawrouge, 2.0.0, Chinese Text Summary Evaluation Utilities, 2020-12-24T14:53:52+0000
+/project/pydomaintextfeature/, pydomaintextfeature, 0.1.1, Generate text feature of domain for machine learn, 2018-06-20T06:18:15+0000
+/project/isbnid/, isbnid, 0.4.6, Python ISBN ids, 2019-02-04T13:31:46+0000
+/project/xyz-aliyun/, xyz-aliyun, 0.0.2, aliyun utils, 2020-12-04T10:04:01+0000
+/project/minipay/, minipay, 0.1.5, 微信小程序支付SDK, 2019-02-27T01:45:14+0000
+/project/torchctr/, TorchCTR, 0.2, CTR in PyTorch, 2019-09-02T05:54:18+0000
+/project/arkindex-client/, arkindex-client, 1.0.6, API client for the Arkindex project, 2020-11-26T15:41:37+0000
+/project/tidy-page/, tidy-page, 0.1.1, html text parser,get the content form html page, 2017-02-21T04:25:07+0000
+/project/sweetpybuild/, SweetPyBuild, 0.0.0.7, A micro service launcher, 2017-11-15T06:16:15+0000
+/project/dangerous-eval/, dangerous_eval, 0.1.0, Safe run expr code, 2017-05-27T16:05:13+0000
+/project/whjtext2vec/, whjtext2vec, 0.1.4, Text to vector Tool, encode text, 2020-04-28T15:23:05+0000
+/project/ocrmypdf/, ocrmypdf, 12.0.0, OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched, 2021-04-23T07:40:28+0000
+/project/pycantonese/, pycantonese, 3.2.3, PyCantonese: Cantonese Linguistics and NLP in Python, 2021-04-12T13:59:39+0000
+/project/synonyms/, synonyms, 3.16.0, 中文近义词：聊天机器人，智能问答工具包；Chinese Synonyms for Natural Language Processing and Understanding, 2021-01-03T03:46:49+0000
+/project/wencai/, wencai, 0.2.2, this is a wencai crawler to get message, 2021-04-07T16:08:31+0000
+/project/tokenregex/, tokenregex, 0.1.14, NLP at your fingertips, 2016-11-07T21:44:17+0000
+/project/zhulong4/, zhulong4, 5.3.24, 深圳市筑龙科技的工作-企业采购, 2019-07-22T08:00:52+0000
+/project/esmre/, esmre, 0.5.2, Regular expression accelerator, 2020-08-18T14:00:34+0000
+/project/names-comparator/, names_comparator, 1.0.0, Simple tool to compare almost similar names which are coming from the same source (for example list of all company owners and officers of that company). Helps to cluster together persons with a slight difference in name spelling/typos. Better suited for Cyrillic names, but should work everywhere, 2019-09-27T14:56:11+0000
+/project/dandanlemuria/, dandanlemuria, 0.0.1, A toolkit for natural language processing, 2020-02-22T12:10:48+0000
+/project/cuttlefish/, Cuttlefish, 0.3, Browser-based search tool for quickly `grep`ing source code., 2009-10-26T20:41:43+0000
+/project/koshort/, koshort, 0.4.1.7, koshort is a Python package for Korean internet spoken language crawling and processing... or maybe Korean domestic cat., 2018-06-09T08:41:32+0000
+/project/nlup/, nlup, 0.8, ('Core libraries for natural language processing',), 2018-12-27T23:18:29+0000
+/project/csvwlib/, csvwlib, 0.3.2, Python implementation of CSV on the Web, 2021-02-04T12:45:26+0000
+/project/ngram/, ngram, 3.3.2, A `set` subclass providing fuzzy search based on N-grams., 2017-06-20T20:44:19+0000
+/project/error-correction/, error-correction, 1.0.3, Chinese Text Error Correction for Natural Language Processing and Understanding, 2018-03-05T08:35:57+0000
+/project/ferenda/, ferenda, 0.3.0, Transform unstructured document collections to structured Linked Data, 2015-02-18T20:10:13+0000
+/project/pypes/, pypes, 1.1.0, An actor based programming framework, 2010-03-05T22:57:21+0000
+/project/lmf/, lmf, 3.0.82, 兰孟飞深圳市筑龙科技的工作, 2020-07-15T09:29:04+0000
+/project/kindred/, kindred, 2.7.8, A relation extraction toolkit for biomedical text mining, 2021-03-05T18:43:55+0000
+/project/brief/, brief, 0.0.1, Text Summarizer, 2019-01-04T08:59:11+0000
+/project/rst2ctags/, rst2ctags, 0.2.6, Generates ctags-compatible output for the sections of a reStructuredText document., 2020-10-06T21:41:18+0000
+/project/abydos/, abydos, 0.5.0, Abydos NLP/IR library, 2020-01-11T00:00:25+0000
+/project/eunjeon/, eunjeon, 0.4.0, Python interface for eunjeon project & mecab based morphological analyzer., 2019-01-17T00:42:22+0000
+/project/whoosh/, Whoosh, 2.7.4, Fast, pure-Python full text indexing, search, and spell checking library., 2016-04-04T01:19:22+0000
+/project/ieml/, ieml, 1.0.3, Python implementation of the artificial natural language IEML, 2018-07-14T05:28:39+0000
+/project/cockatrice/, cockatrice, 0.7.1, Full text search and indexing server., 2019-01-15T00:02:58+0000
+/project/ryzenutil/, RyzenUtil, 0.1.0, common util, 2020-11-19T09:22:26+0000
+/project/corpus/, Corpus, 0.4.2, A simple English dictionary for Python, 2018-04-01T17:56:07+0000
+/project/neseg/, neseg, 0.7.2, Named Entity Segmentation, 2020-05-04T06:53:13+0000
+/project/collective-classification/, collective.classification, 0.1b2, Content classification/clustering through language processing, 2010-08-05T18:56:01+0000
+/project/paperwork/, paperwork, 2.0.2, Using scanner and OCR to grep dead trees the easy way, 2021-01-01T15:25:12+0000
+/project/clfparser/, clfparser, 0.3, Apache Common/Combined Log Format Parser, 2015-09-21T21:49:07+0000
+/project/zlapp/, zlapp, 2.8.0, 兰孟飞深圳市筑龙科技的工作, 2019-12-03T00:07:20+0000
+/project/sonlp/, sonlp, 1.0.3, A simple toolkit for natural language processing, 2020-03-09T15:37:03+0000
+/project/pugnlp/, pugnlp, 0.2.6, Python Natural Language Processing by and for the Python User Group in Portland, OR, 2020-06-26T17:54:57+0000
+/project/httptester/, HttpTester, 0.0.2, a http state tester, 2017-08-22T05:48:21+0000
+/project/lmfinstall/, lmfinstall, 1.6.10, 安装东西如鱼得水, 2020-04-07T03:39:42+0000
+/project/phrasetree/, phrasetree, 0.0.8, Phrase Tree from Natural Language Toolkit, 2021-03-05T16:53:28+0000
+/project/pychecks/, pychecks, 1.1.1, check tools, 2017-10-26T09:52:38+0000
+/project/indexconfigparser/, IndexConfigParser, 1.2, Python library to parse config files that require indexing, 2013-07-09T03:59:56+0000
+/project/lektor-index-pages/, lektor-index-pages, 0.1, Lektor plugin to generate blog-like index pages, 2021-02-06T01:31:08+0000
+/project/atest/, Atest, 0.0.0.7, Tool of Asdil, 2018-12-12T09:41:11+0000
+/project/jian/, Jian, 0.1, Jarrott Flask中实现高可用的扩展, 2019-07-03T13:07:12+0000
+/project/lmfp33/, lmfp33, 1.0.0, 兰孟飞写的好用的包, 2018-01-17T09:50:06+0000
+/project/ttframework/, TTFramework, 0.0.1.11, A micro service launcher, 2017-10-26T01:24:22+0000
+/project/fastss/, fastss, 0.095, String similarity searching using the FastSS algorithm., 2011-03-17T09:32:14+0000
+/project/zsq-test/, zsq_test, 0.1.0, test, 2018-05-04T09:19:17+0000
+/project/agframework/, AGFramework, 1.0.1.68, A micro service launcher, 2018-01-10T14:39:13+0000
+/project/anbang-getip/, anbang-getip, 0.5.0, a simple program to get proxies, 2019-05-09T09:48:22+0000
+/project/lmfgg/, lmfgg, 1.6.6, 兰孟飞深圳市筑龙科技的工作, 2019-05-30T02:05:52+0000
+/project/pymd2doc/, pyMd2Doc, 2.0.2, fix bug, 2019-06-13T06:05:54+0000
+/project/pyisbn/, pyisbn, 1.3.1, A module for working with 10- and 13-digit ISBNs, 2020-02-14T07:27:16+0000
+/project/muncher/, muncher, 0.0.1, Food API, 2021-03-18T20:46:18+0000
+/project/xyz-school/, xyz-school, 0.0.17, school, 2021-03-10T17:44:26+0000
+/project/cobs-index/, cobs-index, 0.1.2, Compact Bit-Sliced Signature Index (COBS), 2019-11-06T12:52:17+0000
+/project/openxmllib-py3/, openxmllib-py3, 2.0.0, Provides resources to handle OpenXML documents., 2020-10-19T03:15:13+0000
+/project/sdlcinterface/, SDLCInterface, 0.0.20, A micro service launcher, 2017-09-19T06:21:47+0000
+/project/xyz-verify/, xyz-verify, 0.0.3, verify, 2020-10-31T19:49:01+0000
+/project/advas-advanced-search/, AdvaS-Advanced-Search, 0.2.3, Library for advanced search, 2005-01-29T23:25:04+0000
+/project/extend-library/, extend-Library, 1.0.0, Extend library for EMP., 2017-09-19T09:25:20+0000
+/project/penelope/, penelope, 3.1.3.0, Penelope is a multi-tool for creating, editing and converting dictionaries, especially for eReader devices, 2016-09-23T09:27:17+0000
+/project/chatopera/, chatopera, 2.0.0, 定制化聊天机器人服务, 2020-07-22T14:16:23+0000
+/project/zymptest/, zymptest, 0.2.2, test, 2018-10-16T05:11:44+0000
+/project/fancaiji/, fancaiji, 0.0.1, fancaiji, 2018-07-30T05:02:33+0000
+/project/africanwordnet/, africanwordnet, 0.0.1, A library for African WordNet., 2020-11-25T16:46:54+0000
+/project/cheshire3/, cheshire3, 1.1.8, Cheshire3 Search and Retrieval Engine and Information Framework, 2014-07-24T15:06:22+0000
+/project/zyputility/, ZypUtility, 0.1.3, zyputility contains readconfig & log, 2019-01-22T08:13:06+0000
+/project/zhulong3/, zhulong3, 5.3.14, 深圳市筑龙科技的工作-工程建设, 2019-07-22T07:38:18+0000
+/project/corpora/, Corpora, 1.0, Lightweight, fast and scalable text corpus library., 2011-12-14T17:23:46+0000
+/project/fulltext/, fulltext, 0.5, Convert binary files to plain text for indexing., 2017-10-16T18:25:06+0000
+/project/beetle-sitemap/, Beetle-Sitemap, 1.0.0, Enables Beetle to generate a sitemap.xml file, 2015-01-01T17:28:26+0000
+/project/zhulong5/, zhulong5, 1.4.6, 深圳市筑龙科技的工作-特殊项目, 2019-07-11T07:05:41+0000
+/project/asdil/, asdil, 1.7.4.2, Asdil's personal tool package, 2019-12-25T10:31:09+0000
+/project/nlpia/, nlpia, 0.5.2, Natural Language Processing in Action examples, data, and utilities, 2020-07-03T17:59:37+0000
+/project/clause/, clause, 1.1.5, 中文语义理解服务 Python SDK, 2020-10-03T07:50:42+0000
+/project/lupyne/, lupyne, 2.5, Pythonic search engine based on PyLucene., 2020-11-24T23:16:06+0000
+/project/danke-devpy36/, danke-devpy36, 1.1.0, , 2018-10-24T10:09:52+0000
+/project/hatt-add-on/, HATT-add-on, 1.0.2, this is a second develop from HATT, 2018-06-11T03:26:26+0000
+/project/django-szuprefix-saas/, django-szuprefix-saas, 0.10.26, my saas in django, 2020-08-05T04:48:24+0000
+/project/odls-client/, odls.client, 0.1, A Python client for ODLS, 2010-12-21T10:20:14+0000
+/project/bdt-sitemap/, bdt_sitemap, 0.9, Sitemap.xml generator for a local copy of a website, 2014-08-13T21:36:28+0000
+/project/nskipgrams/, nskipgrams, 0.3.0, A lightweight Python package to work with ngrams and skipgrams, 2021-03-29T03:51:09+0000
+/project/xyz-saas/, xyz-saas, 0.0.6, saas, 2021-03-09T08:55:03+0000
+/project/zhulong2/, zhulong2, 5.2.61, 深圳市筑龙科技的工作-政府采购, 2019-07-24T08:58:38+0000
+/project/odtools/, ODtools, 1.9.7, zkrTools, 2021-04-01T15:56:28+0000
+/project/inelastic/, inelastic, 0.2.4, Print an Elasticsearch inverted index as a CSV table or JSON object., 2019-08-08T23:18:53+0000
+/project/lch-scrapy/, lch-scrapy, 1.0.0, 数据库etl包, 2019-05-05T10:47:03+0000
+/project/datamining/, datamining, 0.2.2, data mining code, 2019-11-28T06:44:58+0000
+/project/mingdongtextsim/, mingdongtextsim, 0.1.5, , 2020-05-07T01:34:05+0000
+/project/hausastemmer/, hausastemmer, 1.0, Hausa language stemmer (Bimba et al., 2015), 2016-12-06T17:12:58+0000
+/project/json-cherry-pick/, json-cherry-pick, 0.3.22, JSON Cherry Picker, 2017-01-27T04:09:01+0000
+/project/podparser/, podparser, 0.4, Post Office Directory Parser, 2014-01-07T10:21:19+0000
+/project/wissen/, wissen, 0.13.1.4, Wissen Full-Text Search & Classification Engine, 2017-09-13T17:25:15+0000
+/project/names-translator/, names_translator, 1.2.3, Automatic translation and transliteration of ukrainian names into Russian and English + some extra tools to deal with mixed languages, etc, 2020-10-12T10:16:23+0000
+/project/tokenquery/, tokenquery, 0.1.1, Tokenquery - query language for tokens , 2017-01-31T00:59:56+0000
+/project/flow-dev2-1-2py27/, flow-dev2.1.2py27, 1.0.0, , 2018-08-30T07:16:19+0000
+/project/convert2txt/, convert2txt, 0.1.1, convert html,PDF,DOC file to txt, 2017-10-17T08:39:22+0000
+/project/djangowebsocket/, djangowebsocket, 1.0.1, pip python django3 websocket, 2020-09-30T01:20:02+0000
+/project/xyz-restful/, xyz-restful, 0.0.7, restful utils, 2020-12-12T09:15:43+0000
+/project/linguistica/, linguistica, 5.2.1, Linguistica 5: Unsupervised Learning of Linguistic Structure, 2018-10-12T13:15:51+0000
+/project/smuer/, smuer, 0.0.5, Easy access to SMU digital platform., 2017-08-08T18:06:35+0000
+/project/iscc-service/, iscc-service, 0.2.3, ISCC Web Service API, 2020-06-12T18:57:19+0000
+/project/poio-api/, poio-api, 0.3.6, A Python Library to access and manipulate linguistically annotated corpus files., 2014-07-28T08:24:39+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/scrapymysql/, scrapyMysql, 0.1.2, make scrapy store data into mysql easier, 2018-05-09T03:25:14+0000
+/project/zlest1/, zlest1, 1.0.8, 深圳市筑龙科技的工作-补充7.6, 2019-07-22T06:57:04+0000
+/project/openfst/, openfst, 1.6.9, Python wrapper for OpenFst, 2018-07-27T03:16:52+0000
+/project/pyndri/, pyndri, 0.4, pyndri is a Python interface to the Indri search engine, 2018-03-21T14:08:46+0000
+/project/yve/, yve, 0.0.21, Chinese Province, City and Area Recognition Utilities, 2020-02-04T03:12:25+0000
+/project/wordseg/, wordseg, 0.0.2, Word segmentation models, 2020-10-12T02:30:11+0000
+/project/paperwork-shell/, paperwork-shell, 2.0.2, Paperwork's shell interface, 2021-01-01T15:24:45+0000
+/project/purestemmer/, purestemmer, 0.1.1, Pure-Python implementations of the Snowball stemmers, 2014-08-08T11:45:33+0000
+/project/addressformat/, addressformat, 0.4.15, 地址省市区解析, 2021-04-09T10:12:06+0000
+/project/xyz-system/, xyz-system, 0.0.1, system, 2020-07-15T06:24:39+0000
+/project/caver/, caver, 0.2, Multi-label Text Classification Toolkit, 2019-01-10T05:49:59+0000
+/project/utilx/, utilx, 1.9.3, Python Toolkit, 2020-04-26T17:41:33+0000
+/project/gqutil/, gqUtil, 0.0.2, myUtil, 2018-01-17T09:59:57+0000
+/project/xyz-tenant/, xyz-tenant, 0.0.1, tenant, 2020-07-15T06:24:19+0000
+/project/pandas-files/, pandas-files, 0.2.3, This is a micro-distributed storage service., 2018-01-12T05:31:20+0000
+/project/txtai/, txtai, 2.0.0, AI-powered search engine, 2021-01-13T03:14:09+0000
+/project/fuzzy/, Fuzzy, 1.2.2, Fast Python phonetic algorithms, 2017-10-16T22:09:04+0000
+/project/text-hr/, text-hr, 0.20, Morphological/Inflection/Lemmatization Engine for Croatian language, POS tagger, stopwords, 2020-05-07T16:10:05+0000
+/project/zlairflow/, zlairflow, 4.0.51, 深圳市筑龙科技的工作, 2019-09-25T10:33:55+0000
+/project/cpca/, cpca, 0.5.5, Chinese Province, City and Area Recognition Utilities, 2021-02-20T17:18:37+0000
+/project/bibcat/, bibcat, 2.4.0, BIBCAT RDF Framework Application, 2018-08-22T13:44:00+0000
+/project/citableclass/, citableclass, 0.0.21, Tool for data request to Edition Topoi, 2018-12-07T13:42:50+0000
+/project/lmfxx/, lmfxx, 1.0.0, 兰孟飞在深圳标准技术研究部的工作, 2017-05-02T08:59:13+0000
+/project/chat-archive/, chat-archive, 4.0.3, Easy to use offline chat archive, 2020-03-27T18:02:44+0000
+/project/text-preprocessor/, text-preprocessor, 0.0.2, This is a text preprocessor for nlp., 2018-08-09T16:59:27+0000
+/project/openxmllib/, openxmllib, 1.1.1, Provides resources to handle OpenXML documents., 2016-12-15T13:15:54+0000
+/project/cococrawler/, cococrawler, 0.0.5, A distributed network crawler framework, 2017-04-17T10:50:57+0000
+/project/mingle/, mingle, 0.1.7, Get lines from a number of log files with different time-stamp formats in chronological order, 2017-11-25T01:45:15+0000
+/project/kglab/, kglab, 0.3.0, A simple abstraction layer in Python for building knowledge graphs, 2021-04-24T07:19:23+0000
+/project/jieba/, jieba, 0.42.1, Chinese Words Segmentation Utilities, 2020-01-20T14:27:23+0000
+/project/test-konlp/, test-konlp, 0.0.1, Korean Natural Language Toolkit, 2018-04-20T06:38:52+0000
+/project/pylangacq/, pylangacq, 0.13.1, PyLangAcq: Language Acquisition Research in Python, 2021-03-23T17:35:21+0000
+/project/hanlperceptron/, hanlperceptron, 0.1.1, Native Python HanLP Perceptron Model: HanLPerceptron, 2020-03-09T15:26:30+0000
+/project/rust-fst/, rust-fst, 0.1.2, Python bindings for the Rust `fst` crate, providing sets and maps backed by finite state transducers., 2016-05-26T17:02:09+0000
+/project/jieba-hant/, jieba-hant, 0.39.1, Traditional Chinese Words Segementation Utilities, 2019-02-16T07:50:01+0000
+/project/metapy/, metapy, 0.2.13, Python bindings for MeTA, 2018-08-06T01:17:33+0000
+/project/lpack/, lpack, 2.4.2, 这是一个常用的爬虫开发和深度学习使用的个人开发包，因部分功能比较通用，现将其打包到pip, 2021-02-12T14:23:16+0000
+/project/skimmr-gt/, skimmr_gt, 0.1-a2, SKIMMR library and scipts for machine-aided skim-reading (the general-purpose package version for arbitrary texts), 2013-02-15T17:31:10+0000
+/project/efaqa-corpus-zh/, efaqa-corpus-zh, 0.2, Emotional First Aid Dataset, 心理咨询问答语料库, 2020-04-23T10:27:11+0000
+/project/rure/, rure, 0.2.2, Python bindings for the Rust `regex` crate. This implementation uses finite automata and guarantees linear time matching on all inputs., 2019-10-30T14:14:11+0000
+/project/zlgp/, zlgp, 1.3.9, 兰孟飞深圳市筑龙科技的工作, 2019-10-10T07:04:41+0000
+/project/ckip-segmenter/, ckip-segmenter, 1.0.2, Ckip Segmenter, 2017-07-15T08:32:50+0000
+/project/extensive-collection/, extensive_collection, 0.0.8, extensive_collection, 2018-11-08T03:55:42+0000
+/project/sentence-splitter/, sentence-splitter, 1.4, Text to sentence splitter using heuristic algorithm by Philipp Koehn and Josh Schroeder, 2019-01-14T17:11:23+0000
+/project/getcaptchatext/, GetCaptchaText, 1.0.1, Gets the text content of the image captcha, 2019-08-09T10:11:17+0000
+/project/ultimate-sitemap-parser/, ultimate-sitemap-parser, 0.5, Ultimate Sitemap Parser, 2019-07-31T11:15:46+0000
+/project/pytextrank/, pytextrank, 3.1.1, Python implementation of TextRank as a spaCy pipeline extension, for graph-based natural language work plus related knowledge graph practices; used for for phrase extraction and lightweight extractive summarization of text documents., 2021-03-25T19:46:28+0000
+/project/airflow-util-dv/, airflow-util-dv, 1.6.1, , 2019-11-17T10:55:42+0000
+/project/iambic/, iambic, 2.4.3, Data extraction and rendering library for Shakespearean text., 2021-03-09T04:03:30+0000
+/project/fkscore/, fkscore, 1.1.6, Flesch Kincaid readability scoring algorithm, 2019-04-14T16:34:19+0000
+/project/sdlcsservice/, SDLCSService, 0.0.12, A micro service launcher, 2017-08-25T06:56:07+0000
+/project/pydnsfeature/, pydnsfeature, 0.1.1, Get the dns feature for machine learning, 2018-06-20T06:18:00+0000
+/project/rdfframework/, rdfframework, 0.0.38, Application builder for KnowledgeLinks.io RDF applications., 2018-05-08T14:39:06+0000
+/project/gqylpy/, gqylpy, 0.0.0, , 2021-03-31T03:03:20+0000
+/project/paperwork-backend/, paperwork-backend, 2.0.2, Paperwork's backend, 2021-01-01T15:24:35+0000
+/project/xyz-message/, xyz-message, 0.0.8, message, 2021-01-14T01:21:57+0000
+/project/xyz-system/, xyz-system, 0.0.1, system, 2020-07-15T06:24:39+0000
+/project/caver/, caver, 0.2, Multi-label Text Classification Toolkit, 2019-01-10T05:49:59+0000
+/project/utilx/, utilx, 1.9.3, Python Toolkit, 2020-04-26T17:41:33+0000
+/project/gqutil/, gqUtil, 0.0.2, myUtil, 2018-01-17T09:59:57+0000
+/project/xyz-tenant/, xyz-tenant, 0.0.1, tenant, 2020-07-15T06:24:19+0000
+/project/pandas-files/, pandas-files, 0.2.3, This is a micro-distributed storage service., 2018-01-12T05:31:20+0000
+/project/txtai/, txtai, 2.0.0, AI-powered search engine, 2021-01-13T03:14:09+0000
+/project/fuzzy/, Fuzzy, 1.2.2, Fast Python phonetic algorithms, 2017-10-16T22:09:04+0000
+/project/text-hr/, text-hr, 0.20, Morphological/Inflection/Lemmatization Engine for Croatian language, POS tagger, stopwords, 2020-05-07T16:10:05+0000
+/project/zlairflow/, zlairflow, 4.0.51, 深圳市筑龙科技的工作, 2019-09-25T10:33:55+0000
+/project/cpca/, cpca, 0.5.5, Chinese Province, City and Area Recognition Utilities, 2021-02-20T17:18:37+0000
+/project/bibcat/, bibcat, 2.4.0, BIBCAT RDF Framework Application, 2018-08-22T13:44:00+0000
+/project/citableclass/, citableclass, 0.0.21, Tool for data request to Edition Topoi, 2018-12-07T13:42:50+0000
+/project/lmfxx/, lmfxx, 1.0.0, 兰孟飞在深圳标准技术研究部的工作, 2017-05-02T08:59:13+0000
+/project/chat-archive/, chat-archive, 4.0.3, Easy to use offline chat archive, 2020-03-27T18:02:44+0000
+/project/text-preprocessor/, text-preprocessor, 0.0.2, This is a text preprocessor for nlp., 2018-08-09T16:59:27+0000
+/project/pyhachi/, pyhachi, 0.2.4, spam filter, 2019-03-06T05:11:27+0000
+/project/fetchman/, fetchman, 0.4.6, a simple spider system, 2018-09-27T06:47:56+0000
+/project/patricia-trie/, patricia-trie, 10, A pure Python implementation of a PATRICIA trie., 2014-12-14T16:28:03+0000
+/project/jaro-winkler/, jaro-winkler, 2.0.1, Original, standard and customisable versions of the Jaro-Winkler functions., 2021-03-09T07:17:15+0000
+/project/my-safe-eval/, my_safe_eval, 0.0.3, Safe run expr code, 2017-05-26T18:02:47+0000
+/project/zlsys/, zlsys, 1.2.5, 兰孟飞深圳市筑龙科技的工作, 2019-08-01T08:31:07+0000
+/project/some-package/, some-package, 0.1, hello world!, 2018-05-24T09:21:22+0000
+/project/sdmenu/, sdmenu, 1.0.0, A simple way to query UC San Diego's HDH dining halls, 2021-02-18T19:34:07+0000
+/project/pybibframe/, pybibframe, 1.1.3, ('Python tools for BIBFRAME (Bibliographic Framework), a Web-friendly framework for bibliographic descriptions in libraries, for example.',), 2019-12-16T21:03:59+0000
+/project/caterpillar/, caterpillar, 0.15.10, Text retrieval and analytics engine., 2019-02-13T02:10:53+0000
+/project/suffixtree/, suffixtree, 0.2.0, Yet another suffix tree implementation in Python, 2020-05-04T22:04:35+0000
+/project/lylogger/, lylogger, 0.1.1, This is a easy logger., 2018-01-25T06:06:26+0000
+/project/xmnlp/, xmnlp, 0.3.1, A Lightweight Chinese Natural Language Processing Toolkit, 2021-02-27T11:24:26+0000
+/project/pystemmer/, PyStemmer, 2.0.1, Snowball stemming algorithms, for information retrieval, 2020-07-15T11:51:49+0000
+/project/web-extract/, web_extract, 0.1.2, Web extract, 2017-05-28T01:11:29+0000
+/project/jsonget/, JsonGet, 0.2.0, , 2018-08-09T10:02:44+0000
+/project/simple-nltk/, simple-nltk, 3.5, a simple version of the NLTK, 2021-01-25T05:40:18+0000
+/project/zlgp/, zlgp, 1.3.9, 兰孟飞深圳市筑龙科技的工作, 2019-10-10T07:04:41+0000
+/project/podparser/, podparser, 0.4, Post Office Directory Parser, 2014-01-07T10:21:19+0000
+/project/wissen/, wissen, 0.13.1.4, Wissen Full-Text Search & Classification Engine, 2017-09-13T17:25:15+0000
+/project/names-translator/, names_translator, 1.2.3, Automatic translation and transliteration of ukrainian names into Russian and English + some extra tools to deal with mixed languages, etc, 2020-10-12T10:16:23+0000
+/project/tokenquery/, tokenquery, 0.1.1, Tokenquery - query language for tokens , 2017-01-31T00:59:56+0000
+/project/flow-dev2-1-2py27/, flow-dev2.1.2py27, 1.0.0, , 2018-08-30T07:16:19+0000
+/project/convert2txt/, convert2txt, 0.1.1, convert html,PDF,DOC file to txt, 2017-10-17T08:39:22+0000
+/project/xyz-restful/, xyz-restful, 0.0.7, restful utils, 2020-12-12T09:15:43+0000
+/project/poio-api/, poio-api, 0.3.6, A Python Library to access and manipulate linguistically annotated corpus files., 2014-07-28T08:24:39+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/scrapymysql/, scrapyMysql, 0.1.2, make scrapy store data into mysql easier, 2018-05-09T03:25:14+0000
+/project/zlest1/, zlest1, 1.0.8, 深圳市筑龙科技的工作-补充7.6, 2019-07-22T06:57:04+0000
+/project/openfst/, openfst, 1.6.9, Python wrapper for OpenFst, 2018-07-27T03:16:52+0000
+/project/pyndri/, pyndri, 0.4, pyndri is a Python interface to the Indri search engine, 2018-03-21T14:08:46+0000
+/project/smuer/, smuer, 0.0.5, Easy access to SMU digital platform., 2017-08-08T18:06:35+0000
+/project/iscc-service/, iscc-service, 0.2.3, ISCC Web Service API, 2020-06-12T18:57:19+0000
+/project/yve/, yve, 0.0.21, Chinese Province, City and Area Recognition Utilities, 2020-02-04T03:12:25+0000
+/project/wordseg/, wordseg, 0.0.2, Word segmentation models, 2020-10-12T02:30:11+0000
+/project/paperwork-shell/, paperwork-shell, 2.0.2, Paperwork's shell interface, 2021-01-01T15:24:45+0000
+/project/purestemmer/, purestemmer, 0.1.1, Pure-Python implementations of the Snowball stemmers, 2014-08-08T11:45:33+0000
+/project/pydralion/, pydralion, 0.0.1, this is a pydralion utils package, 2021-03-12T07:22:32+0000
+/project/deepdesk/, DeepDesk, 0.1.2, Flexible data storage, with indexing, templates and validation, 2014-05-10T21:09:16+0000
+/project/lenovo-ai-client/, Lenovo-Ai-Client, 1.0, AI Lenovo, 2019-04-13T06:43:53+0000
+/project/zlhawq/, zlhawq, 2.1.7, 兰孟飞深圳市筑龙科技的工作, 2019-08-18T18:34:52+0000
+/project/mirrormirror/, MirrorMirror, 0.1.0, Easy to Image Augment, 2021-03-10T15:17:42+0000
+/project/pycscope/, pycscope, 1.2.1, Generates a cscope index of Python source trees, 2013-03-16T09:20:55+0000
+/project/nilsimsa/, nilsimsa, 0.3.8, Locality-sensitive hashing, 2016-04-10T12:48:33+0000
+/project/lch-etl/, lch-etl, 1.0.2, 数据库etl包, 2019-05-05T10:23:15+0000
+/project/seafilecontentmanager/, SeafileContentManager, 0.1.2, ContentManager using Seafile's WebAPI, 2020-06-04T10:31:34+0000
+/project/paperai/, paperai, 1.8.0, AI-powered literature discovery and review engine for medical/scientific papers, 2021-04-23T12:31:37+0000
+/project/delune/, delune, 0.3.2.1, DeLune Python Object Storage and Search Engine, 2019-02-09T23:41:02+0000
+/project/text2vec/, text2vec, 0.1.7, Text to vector Tool, encode text, 2021-04-14T14:15:24+0000
+/project/ps-histogram/, ps-histogram, 0.0.3, Histogram Equalization, 2019-03-12T02:29:12+0000
+/project/sist1/, sist1, 1.0.1, 兰楠在深圳标准技术研究部的工作, 2017-05-08T10:02:33+0000
+/project/godslayer/, godslayer, 1.1.0, Provides generator to read Kami (god) CSV record as list of string., 2020-08-17T11:13:00+0000
+/project/zettels/, zettels, 0.7.0, A command line tool implementing Luhmann's system of a "Zettelkasten"., 2020-06-04T14:32:39+0000
+/project/regex4dummies/, regex4dummies, 1.4.6, A NLP library that simplifies pattern finding in strings, 2015-12-25T23:11:42+0000
+/project/lawa/, lawa, 1.2.6, Chinese Words Segmentation Utilities, 2020-10-26T06:12:14+0000
+/project/springy/, springy, 5.0.1, An elasticsearch wrapper for Django, 2017-11-09T00:34:24+0000
+/project/snowballstemmer/, snowballstemmer, 2.1.0, This package provides 29 stemmers for 28 languages generated from Snowball algorithms., 2021-01-21T11:43:00+0000
+/project/zlparse/, zlparse, 1.5.1, 深圳市筑龙科技的工作-筑龙解析包, 2019-10-10T11:31:29+0000
+/project/xyz-points/, xyz-points, 0.0.7, points, 2021-01-13T00:44:29+0000
+/project/xyz-media/, xyz-media, 0.0.9, media, 2021-03-12T19:14:50+0000
+/project/pydocker-tools/, pydocker-tools, 0.0.1, pydocker-tools is a set of tools to work around lengthy or piped command line tools for docker, 2017-03-31T08:23:54+0000
+/project/fsed/, fsed, 0.5.4, Aho-Corasick string replacement utility, 2019-05-15T11:30:15+0000
+/project/nlpia-bot/, nlpia_bot, 0.2.14, "An open framework and dataset for building a distributed-agent chatbot based on _Natural Language Processing in Action_.", 2020-03-18T22:09:16+0000
+/project/xyz-person/, xyz-person, 0.0.4, person, 2021-01-26T17:50:43+0000
+/project/rdfutils/, rdfutils, 0.1, Thin wrapper functions to work with an RDF store based on the Redland C library & Python bindings (python-librdf), 2013-04-22T07:56:19+0000
+/project/newords/, newords, 1.2.0, Find new words from corpus, 2021-03-09T07:18:46+0000
+/project/xyz-todo/, xyz-todo, 0.0.4, todo, 2020-08-18T14:01:46+0000
+/project/datatxt/, dataTXT, 0.5, python interface for SpazioDati's dataTXT and DBpedia, 2012-11-16T17:09:53+0000
+/project/perke/, perke, 0.3.3, A keyphrase extractor for Persian, 2021-04-11T22:53:22+0000
+/project/pelican-similar-posts/, pelican-similar-posts, 1.0.0, Pelican plugin to add similar posts to articles, based on a vector space model, 2020-11-20T21:38:33+0000
+/project/mofang23/, mofang23, 0.0.1.4, Tool of Asdil, 2019-11-01T03:33:15+0000
+/project/moments/, Moments, 2.0, Python package to process personal notes stored as moments log files, 2012-09-27T12:49:00+0000
+/project/gentag/, gentag, 2.0, Simple and powerful tagging for Python objects., 2018-03-11T14:51:57+0000
+/project/zlest/, zlest, 1.1.9, 深圳市筑龙科技的工作-补充7.4, 2019-07-22T06:55:12+0000
+/project/pydomaingibfeature/, pydomaingibfeature, 0.1.2, Generator gibberish feature for machine learning, 2018-06-25T06:32:14+0000
+/project/ko-nltk/, ko-nltk, 0.1, , 2018-04-18T07:01:07+0000
+/project/lucene-querybuilder/, lucene-querybuilder, 0.2, A DSL to build Lucene text queries in Python., 2013-08-12T14:45:13+0000
+/project/markdown2ctags/, markdown2ctags, 0.3.3, Generates ctags-compatible output for the sections of a Markdown document., 2020-10-06T21:46:20+0000
+/project/django-intlekt/, django-intlekt, 0.3.0, Django app for Intlekt, a content curation application using the IEML language., 2017-07-10T20:22:29+0000
+/project/text-sentence/, text-sentence, 0.14, text-sentence is text tokenizer and sentence splitter, 2010-06-21T13:18:19+0000
+/project/selenium-robot/, selenium-robot, 0.0.6, This is a robot description base selenium., 2018-08-02T14:59:57+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/swish-e/, Swish-E, 0.5, Swish-E API for Python., 2005-11-02T10:47:51+0000
+/project/net163/, net163, 1.1.2, html text parser,get the content form html page, 2018-03-26T12:48:34+0000
+/project/pressagio/, pressagio, 0.1.6, A Python Library for statistical text prediction., 2019-11-15T11:57:18+0000
+/project/jieba-fast/, jieba-fast, 0.53, Use C and Swig to Speed up jieba<Chinese Words Segementation Utilities>, 2018-12-20T17:04:39+0000
+/project/changewords/, changewords, 1.0.3, Python tool to change or replace the text string in the files., 2018-08-25T09:13:22+0000
+/project/icsemantic-thesaurus/, icsemantic.thesaurus, 1.0-dev-r371, A product to support thesaurus oriented tagging in Plone contents, 2008-10-06T17:47:08+0000
+/project/stopwords-cnn/, stopwords-cnn, 0.0.5, Stopwords filter for Chinese, 2019-11-20T02:29:10+0000
+/project/codequestion/, codequestion, 1.3.0, Ask coding questions directly from the terminal, 2021-02-24T19:50:51+0000
+/project/djapian/, Djapian, 2.3, High-level Xapian full-text indexer integration for Django, 2009-10-04T12:37:01+0000
+/project/shellinford/, shellinford, 0.4.1, Wavelet Matrix/Tree succinct data structure for full text search (using shellinford C++ library), 2019-02-08T13:56:24+0000
+/project/rater/, rater, 0.1.1, rater, 2020-06-28T09:37:15+0000
+/project/paperpal/, paperpal, 0.3.0, Paper management with Zotero, 2016-08-16T00:13:36+0000
+/project/icsemantic-catalog/, icsemantic.catalog, 1.0-dev-r371, A product to solve queries using the icSemantic.Thesaurus in Plone, 2008-10-06T17:46:36+0000
+/project/textgen/, textgen, 0.0.1, Text Generation Model, 2021-04-07T14:21:20+0000
+/project/adidentifier/, adidentifier, 0.0.8, AdIdentifier, 2018-05-02T09:06:36+0000
+/project/xyz-auth/, xyz-auth, 0.0.10, auth common api, 2021-03-01T00:37:02+0000
+/project/zlgg/, zlgg, 2.0.0, 兰孟飞深圳市筑龙科技的工作, 2019-10-07T17:38:52+0000
+/project/cpca-fix/, cpca-fix, 0.3.5, Chinese Province, City and Area Recognition Utilities, 2019-02-25T09:52:21+0000
+/project/xyz-survey/, xyz-survey, 0.0.4, survey, 2020-08-18T18:03:26+0000
+/project/zltask/, zltask, 1.2.63, 深圳市筑龙科技的工作, 2019-09-30T06:00:56+0000
+/project/mlmetrics/, MLMetrics, 0.2, Simple metrics for general machine learning application like Resys and Search Ranking, 2019-03-14T15:47:21+0000
+/project/guazi-crawler-lib/, guazi-crawler-lib, 1.0.4, 瓜子爬虫公共库, 2017-05-24T10:15:24+0000
+/project/xyz-util/, xyz-util, 0.0.13, common utils, 2021-03-08T10:01:06+0000
+/project/wordbag/, wordbag, 0.1.5, word bag, 2017-11-23T07:12:24+0000
+/project/xyz-exam/, xyz-exam, 0.0.18, exam app, 2021-04-02T02:01:51+0000
+/project/addressparser/, addressparser, 0.1.8, Chinese Address Parser and Extraction Tool,Chinese Province, City and Area Recognition Utilities, 2020-03-13T08:08:30+0000
+/project/xyz-mytraining/, xyz-mytraining, 0.0.4, mytraining app, 2020-07-23T21:41:11+0000
+/project/nltk2-fixed/, nltk2-fixed, 2.0.6, Natural Language Toolkit, 2018-11-14T11:18:12+0000
+/project/nltk/, nltk, 3.6.2, Natural Language Toolkit, 2021-04-20T07:42:47+0000
+/project/rknn-test/, rknn-test, 0.0.9, for test, 2019-09-03T08:58:00+0000
+/project/flow-dev2-1-3py27/, flow-dev2.1.3py27, 1.0.0, , 2018-08-31T07:49:43+0000
+/project/cmutils/, cmutils, 0.1.2, common utils like read/write file, log, 2020-03-08T14:59:35+0000
+/project/pyngramgen/, pyngramgen, 0.0.2, Generate ngram iterator, 2018-06-15T04:08:32+0000
+/project/parse-diqu/, parse-diqu, 1.0.27, 深圳市筑龙科技的工作-解析地区编号, 2019-07-06T01:40:27+0000
+/project/sweetpy/, SweetPy, 2.0.2.122, A micro service launcher, 2018-11-23T05:31:16+0000
+/project/gzqzl/, gzqzl, 1.3.2, zl四库一平台, 2019-08-02T08:29:01+0000
+/project/xyz-wechat/, xyz-wechat, 0.0.14, wechat utils, 2021-03-11T19:02:50+0000
+/project/peng-test/, peng-test, 0.0.3, for test, 2019-09-03T07:21:04+0000
+/project/corpussearch/, corpussearch, 0.0.16, Tools for loading and analyzing large text corpora., 2018-12-07T13:53:10+0000
+/project/suffix-tree/, suffix-tree, 0.0.7, A Generalized Suffix Tree for any iterable, with Lowest Common Ancestor retrieval, 2020-02-18T10:59:36+0000
+/project/lmfhawq/, lmfhawq, 1.6.0, 兰孟飞深圳市筑龙科技的工作, 2019-05-22T02:44:19+0000
+/project/abydos/, abydos, 0.5.0, Abydos NLP/IR library, 2020-01-11T00:00:25+0000
+/project/eunjeon/, eunjeon, 0.4.0, Python interface for eunjeon project & mecab based morphological analyzer., 2019-01-17T00:42:22+0000
+/project/whoosh/, Whoosh, 2.7.4, Fast, pure-Python full text indexing, search, and spell checking library., 2016-04-04T01:19:22+0000
+/project/ieml/, ieml, 1.0.3, Python implementation of the artificial natural language IEML, 2018-07-14T05:28:39+0000
+/project/cockatrice/, cockatrice, 0.7.1, Full text search and indexing server., 2019-01-15T00:02:58+0000
+/project/ryzenutil/, RyzenUtil, 0.1.0, common util, 2020-11-19T09:22:26+0000
+/project/collective-classification/, collective.classification, 0.1b2, Content classification/clustering through language processing, 2010-08-05T18:56:01+0000
+/project/lcba/, lcba, 0.2.6, lint clean android and compress android resources, 2017-08-07T08:53:18+0000
+/project/chinese-name/, chinese-name, 0.0.1, gen chinese name, 2021-01-16T04:32:30+0000
+/project/readability-lxml/, readability-lxml, 0.8.1, fast html to text parser (article readability tool) with python 3 support, 2020-07-04T00:45:49+0000
+/project/nester-lzs/, nester_lzs, 1.3.0, A simple printer of nested lists, 2018-01-18T07:24:12+0000
+/project/paperwork/, paperwork, 2.0.2, Using scanner and OCR to grep dead trees the easy way, 2021-01-01T15:25:12+0000
+/project/phenodata/, phenodata, 0.11.0, phenodata is a data acquisition and manipulation toolkit for open access phenology data, 2020-12-29T17:25:08+0000
+/project/clfparser/, clfparser, 0.3, Apache Common/Combined Log Format Parser, 2015-09-21T21:49:07+0000
+/project/zlapp/, zlapp, 2.8.0, 兰孟飞深圳市筑龙科技的工作, 2019-12-03T00:07:20+0000
+/project/sonlp/, sonlp, 1.0.3, A simple toolkit for natural language processing, 2020-03-09T15:37:03+0000
+/project/httptester/, HttpTester, 0.0.2, a http state tester, 2017-08-22T05:48:21+0000
+/project/tldrstory/, tldrstory, 1.3.0, AI-powered understanding of headlines and story text, 2021-01-13T15:59:34+0000
+/project/lmfinstall/, lmfinstall, 1.6.10, 安装东西如鱼得水, 2020-04-07T03:39:42+0000
+/project/phrasetree/, phrasetree, 0.0.8, Phrase Tree from Natural Language Toolkit, 2021-03-05T16:53:28+0000
+/project/pychecks/, pychecks, 1.1.1, check tools, 2017-10-26T09:52:38+0000
+/project/konlp/, konlp, 0.0.8, Korean Natural Language Toolkit, 2018-05-04T05:21:33+0000
+/project/xyz-comment/, xyz-comment, 0.0.11, comment, 2021-03-21T18:24:43+0000
+/project/setix/, setix, 0.8.3, Fast data structures for finding intersecting sets and similar strings, 2014-02-02T18:52:31+0000
+/project/sherlok/, sherlok, 0.1.6, A Python client for Sherlok, 2015-11-17T13:50:06+0000
+/project/gxsphinx/, GxSphinx, 1.0.0, Python documentation generator, 2020-08-04T03:07:53+0000
+/project/lntime/, lntime, 1.2.1, extract Time, 2019-06-19T02:37:27+0000
+/project/dialogbot/, dialogbot, 0.0.4, Dialog robot, ChatBot, 2019-08-06T04:08:54+0000
+/project/konlp-test/, konlp-test, 0.0.7.dev1, Korean Natural Language Toolkit, 2018-04-24T12:00:20+0000
+/project/getip-ab/, GetIp_ab, 0.2.0, a simple program to get proxies, 2019-05-09T09:35:41+0000
+/project/lawrouge/, lawrouge, 2.0.0, Chinese Text Summary Evaluation Utilities, 2020-12-24T14:53:52+0000
+/project/indexconfigparser/, IndexConfigParser, 1.2, Python library to parse config files that require indexing, 2013-07-09T03:59:56+0000
+/project/tokenregex/, tokenregex, 0.1.14, NLP at your fingertips, 2016-11-07T21:44:17+0000
+/project/zhulong4/, zhulong4, 5.3.24, 深圳市筑龙科技的工作-企业采购, 2019-07-22T08:00:52+0000
+/project/sdlcinterface/, SDLCInterface, 0.0.20, A micro service launcher, 2017-09-19T06:21:47+0000
+/project/xyz-verify/, xyz-verify, 0.0.3, verify, 2020-10-31T19:49:01+0000
+/project/django-szuprefix-saas/, django-szuprefix-saas, 0.10.26, my saas in django, 2020-08-05T04:48:24+0000
+/project/odls-client/, odls.client, 0.1, A Python client for ODLS, 2010-12-21T10:20:14+0000
+/project/bdt-sitemap/, bdt_sitemap, 0.9, Sitemap.xml generator for a local copy of a website, 2014-08-13T21:36:28+0000
+/project/nskipgrams/, nskipgrams, 0.3.0, A lightweight Python package to work with ngrams and skipgrams, 2021-03-29T03:51:09+0000
+/project/advas-advanced-search/, AdvaS-Advanced-Search, 0.2.3, Library for advanced search, 2005-01-29T23:25:04+0000
+/project/extend-library/, extend-Library, 1.0.0, Extend library for EMP., 2017-09-19T09:25:20+0000
+/project/penelope/, penelope, 3.1.3.0, Penelope is a multi-tool for creating, editing and converting dictionaries, especially for eReader devices, 2016-09-23T09:27:17+0000
+/project/xhtml2pdf/, xhtml2pdf, 0.2.5, PDF generator using HTML and CSS, 2020-10-08T18:57:39+0000
+/project/esmre/, esmre, 0.5.2, Regular expression accelerator, 2020-08-18T14:00:34+0000
+/project/names-comparator/, names_comparator, 1.0.0, Simple tool to compare almost similar names which are coming from the same source (for example list of all company owners and officers of that company). Helps to cluster together persons with a slight difference in name spelling/typos. Better suited for Cyrillic names, but should work everywhere, 2019-09-27T14:56:11+0000
+/project/dandanlemuria/, dandanlemuria, 0.0.1, A toolkit for natural language processing, 2020-02-22T12:10:48+0000
+/project/cuttlefish/, Cuttlefish, 0.3, Browser-based search tool for quickly `grep`ing source code., 2009-10-26T20:41:43+0000
+/project/koshort/, koshort, 0.4.1.7, koshort is a Python package for Korean internet spoken language crawling and processing... or maybe Korean domestic cat., 2018-06-09T08:41:32+0000
+/project/nlpyutil/, nlpyutil, 0.5.0, Personal usual utils for python, 2021-03-09T07:16:56+0000
+/project/mpml/, mpml, 1.0.1, multi pattern match library, 2021-04-12T04:47:59+0000
+/project/nlup/, nlup, 0.8, ('Core libraries for natural language processing',), 2018-12-27T23:18:29+0000
+/project/csvwlib/, csvwlib, 0.3.2, Python implementation of CSV on the Web, 2021-02-04T12:45:26+0000
+/project/ngram/, ngram, 3.3.2, A `set` subclass providing fuzzy search based on N-grams., 2017-06-20T20:44:19+0000
+/project/error-correction/, error-correction, 1.0.3, Chinese Text Error Correction for Natural Language Processing and Understanding, 2018-03-05T08:35:57+0000
+/project/ferenda/, ferenda, 0.3.0, Transform unstructured document collections to structured Linked Data, 2015-02-18T20:10:13+0000
+/project/pypes/, pypes, 1.1.0, An actor based programming framework, 2010-03-05T22:57:21+0000
+/project/lmf/, lmf, 3.0.82, 兰孟飞深圳市筑龙科技的工作, 2020-07-15T09:29:04+0000
+/project/kindred/, kindred, 2.7.8, A relation extraction toolkit for biomedical text mining, 2021-03-05T18:43:55+0000
+/project/brief/, brief, 0.0.1, Text Summarizer, 2019-01-04T08:59:11+0000
+/project/rst2ctags/, rst2ctags, 0.2.6, Generates ctags-compatible output for the sections of a reStructuredText document., 2020-10-06T21:41:18+0000
+/project/corpus/, Corpus, 0.4.2, A simple English dictionary for Python, 2018-04-01T17:56:07+0000
+/project/neseg/, neseg, 0.7.2, Named Entity Segmentation, 2020-05-04T06:53:13+0000
+/project/pugnlp/, pugnlp, 0.2.6, Python Natural Language Processing by and for the Python User Group in Portland, OR, 2020-06-26T17:54:57+0000
+/project/vtrie/, vtrie, 0.0.2, A trie structure supporting fuzzy string searches., 2016-08-25T22:53:40+0000
+/project/textcluster/, textcluster, 0.0.2, Tool to cluster documents according to text similarity., 2013-08-18T00:30:47+0000
+/project/skimmr-bm/, skimmr_bm, 0.1-a2, SKIMMR library and scipts for machine-aided skim-reading (the specific package version for biomedical texts), 2013-02-15T17:24:03+0000
+/project/lexpy/, lexpy, 0.9.8, Python package for lexicon., 2021-01-27T15:35:04+0000
+/project/biocircos/, BioCircos, 0.0.1, BioCircos plot, 2020-09-29T08:53:56+0000
+/project/zhulong/, zhulong, 5.2.45, 深圳市筑龙科技的工作-公共资源, 2019-07-22T06:08:15+0000
+/project/jgtextrank/, jgtextrank, 0.1.6, Yet another Python implementation of TextRank: package for the creation, manipulation, and study of TextRank algorithm based keywords extraction and summarisation, 2019-11-27T11:51:43+0000
+/project/narmer/, narmer, 0.1.1, Narmer Experimental NLP/IR library for Python, 2015-05-13T06:17:07+0000
+/project/xyz-clockin/, xyz-clockin, 0.0.7, clockin, 2021-01-11T17:10:28+0000
+/project/bloom3/, bloom3, 0.0.1, bloom3, 2017-05-15T08:49:20+0000
+/project/torchvc/, TorchVC, 0.1, Voice Conversion in PyTorch, 2019-08-17T20:52:47+0000
+/project/echosun/, echosun, 0.1, a set of functions, 2018-05-24T08:55:09+0000
+/project/companynameparser/, companynameparser, 0.1.1, Chinese Company Name Parser and Extraction Tool,Company name Recognition Utilities, 2021-04-23T10:37:25+0000
+/project/log4py/, log4py, 2.2, Log For Python, 2020-09-13T12:39:18+0000
+/project/phonetics/, phonetics, 1.0.5, Compute phonetic key of strings for indexing or fuzzy matching, 2018-03-23T15:38:37+0000
+/project/convert2geojson/, convert2geojson, 0.0.2, Tools for converting dataframes to GeoJSON format., 2018-09-18T12:00:48+0000
+/project/optionset/, optionset, 20.10.23, A lightweight tool for conducting parameter studies., 2020-10-23T11:33:09+0000
+/project/rowordnet/, rowordnet, 1.1.0, Python API for the Romanian WordNet, 2020-08-06T10:47:09+0000
+/project/voted-ranking/, voted-ranking, 0.1.6, , 2019-05-14T02:45:44+0000
+/project/zlshenpi/, zlshenpi, 1.1.35, 深圳市筑龙科技的工作-全国审批, 2019-07-11T07:24:25+0000
+/project/lektor-index-pages/, lektor-index-pages, 0.1, Lektor plugin to generate blog-like index pages, 2021-02-06T01:31:08+0000
+/project/atest/, Atest, 0.0.0.7, Tool of Asdil, 2018-12-12T09:41:11+0000
+/project/jian/, Jian, 0.1, Jarrott Flask中实现高可用的扩展, 2019-07-03T13:07:12+0000
+/project/lmfp33/, lmfp33, 1.0.0, 兰孟飞写的好用的包, 2018-01-17T09:50:06+0000
+/project/ttframework/, TTFramework, 0.0.1.11, A micro service launcher, 2017-10-26T01:24:22+0000
+/project/fastss/, fastss, 0.095, String similarity searching using the FastSS algorithm., 2011-03-17T09:32:14+0000
+/project/zsq-test/, zsq_test, 0.1.0, test, 2018-05-04T09:19:17+0000
+/project/agframework/, AGFramework, 1.0.1.68, A micro service launcher, 2018-01-10T14:39:13+0000
+/project/anbang-getip/, anbang-getip, 0.5.0, a simple program to get proxies, 2019-05-09T09:48:22+0000
+/project/pydomaintextfeature/, pydomaintextfeature, 0.1.1, Generate text feature of domain for machine learn, 2018-06-20T06:18:15+0000
+/project/isbnid/, isbnid, 0.4.6, Python ISBN ids, 2019-02-04T13:31:46+0000
+/project/xyz-aliyun/, xyz-aliyun, 0.0.2, aliyun utils, 2020-12-04T10:04:01+0000
+/project/lmfgg/, lmfgg, 1.6.6, 兰孟飞深圳市筑龙科技的工作, 2019-05-30T02:05:52+0000
+/project/pymd2doc/, pyMd2Doc, 2.0.2, fix bug, 2019-06-13T06:05:54+0000
+/project/pyisbn/, pyisbn, 1.3.1, A module for working with 10- and 13-digit ISBNs, 2020-02-14T07:27:16+0000
+/project/muncher/, muncher, 0.0.1, Food API, 2021-03-18T20:46:18+0000
+/project/minipay/, minipay, 0.1.5, 微信小程序支付SDK, 2019-02-27T01:45:14+0000
+/project/torchctr/, TorchCTR, 0.2, CTR in PyTorch, 2019-09-02T05:54:18+0000
+/project/arkindex-client/, arkindex-client, 1.0.6, API client for the Arkindex project, 2020-11-26T15:41:37+0000
+/project/tidy-page/, tidy-page, 0.1.1, html text parser,get the content form html page, 2017-02-21T04:25:07+0000
+/project/sweetpybuild/, SweetPyBuild, 0.0.0.7, A micro service launcher, 2017-11-15T06:16:15+0000
+/project/xyz-school/, xyz-school, 0.0.17, school, 2021-03-10T17:44:26+0000
+/project/cobs-index/, cobs-index, 0.1.2, Compact Bit-Sliced Signature Index (COBS), 2019-11-06T12:52:17+0000
+/project/openxmllib-py3/, openxmllib-py3, 2.0.0, Provides resources to handle OpenXML documents., 2020-10-19T03:15:13+0000
+/project/dangerous-eval/, dangerous_eval, 0.1.0, Safe run expr code, 2017-05-27T16:05:13+0000
+/project/whjtext2vec/, whjtext2vec, 0.1.4, Text to vector Tool, encode text, 2020-04-28T15:23:05+0000
+/project/ocrmypdf/, ocrmypdf, 12.0.0, OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched, 2021-04-23T07:40:28+0000
+/project/pycantonese/, pycantonese, 3.2.3, PyCantonese: Cantonese Linguistics and NLP in Python, 2021-04-12T13:59:39+0000
+/project/synonyms/, synonyms, 3.16.0, 中文近义词：聊天机器人，智能问答工具包；Chinese Synonyms for Natural Language Processing and Understanding, 2021-01-03T03:46:49+0000
+/project/wencai/, wencai, 0.2.2, this is a wencai crawler to get message, 2021-04-07T16:08:31+0000
+/project/chatopera/, chatopera, 2.0.0, 定制化聊天机器人服务, 2020-07-22T14:16:23+0000
+/project/zymptest/, zymptest, 0.2.2, test, 2018-10-16T05:11:44+0000
+/project/fancaiji/, fancaiji, 0.0.1, fancaiji, 2018-07-30T05:02:33+0000
+/project/africanwordnet/, africanwordnet, 0.0.1, A library for African WordNet., 2020-11-25T16:46:54+0000
+/project/cheshire3/, cheshire3, 1.1.8, Cheshire3 Search and Retrieval Engine and Information Framework, 2014-07-24T15:06:22+0000
+/project/zyputility/, ZypUtility, 0.1.3, zyputility contains readconfig & log, 2019-01-22T08:13:06+0000
+/project/zhulong3/, zhulong3, 5.3.14, 深圳市筑龙科技的工作-工程建设, 2019-07-22T07:38:18+0000
+/project/corpora/, Corpora, 1.0, Lightweight, fast and scalable text corpus library., 2011-12-14T17:23:46+0000
+/project/fulltext/, fulltext, 0.5, Convert binary files to plain text for indexing., 2017-10-16T18:25:06+0000
+/project/beetle-sitemap/, Beetle-Sitemap, 1.0.0, Enables Beetle to generate a sitemap.xml file, 2015-01-01T17:28:26+0000
+/project/zhulong5/, zhulong5, 1.4.6, 深圳市筑龙科技的工作-特殊项目, 2019-07-11T07:05:41+0000
+/project/asdil/, asdil, 1.7.4.2, Asdil's personal tool package, 2019-12-25T10:31:09+0000
+/project/nlpia/, nlpia, 0.5.2, Natural Language Processing in Action examples, data, and utilities, 2020-07-03T17:59:37+0000
+/project/clause/, clause, 1.1.5, 中文语义理解服务 Python SDK, 2020-10-03T07:50:42+0000
+/project/lupyne/, lupyne, 2.5, Pythonic search engine based on PyLucene., 2020-11-24T23:16:06+0000
+/project/danke-devpy36/, danke-devpy36, 1.1.0, , 2018-10-24T10:09:52+0000
+/project/hatt-add-on/, HATT-add-on, 1.0.2, this is a second develop from HATT, 2018-06-11T03:26:26+0000
+/project/xyz-saas/, xyz-saas, 0.0.6, saas, 2021-03-09T08:55:03+0000
+/project/zhulong2/, zhulong2, 5.2.61, 深圳市筑龙科技的工作-政府采购, 2019-07-24T08:58:38+0000
+/project/odtools/, ODtools, 1.9.7, zkrTools, 2021-04-01T15:56:28+0000
+/project/inelastic/, inelastic, 0.2.4, Print an Elasticsearch inverted index as a CSV table or JSON object., 2019-08-08T23:18:53+0000
+/project/lch-scrapy/, lch-scrapy, 1.0.0, 数据库etl包, 2019-05-05T10:47:03+0000
+/project/datamining/, datamining, 0.2.2, data mining code, 2019-11-28T06:44:58+0000
+/project/mingdongtextsim/, mingdongtextsim, 0.1.5, , 2020-05-07T01:34:05+0000
+/project/hausastemmer/, hausastemmer, 1.0, Hausa language stemmer (Bimba et al., 2015), 2016-12-06T17:12:58+0000
+/project/json-cherry-pick/, json-cherry-pick, 0.3.22, JSON Cherry Picker, 2017-01-27T04:09:01+0000
+/project/podparser/, podparser, 0.4, Post Office Directory Parser, 2014-01-07T10:21:19+0000
+/project/wissen/, wissen, 0.13.1.4, Wissen Full-Text Search & Classification Engine, 2017-09-13T17:25:15+0000
+/project/names-translator/, names_translator, 1.2.3, Automatic translation and transliteration of ukrainian names into Russian and English + some extra tools to deal with mixed languages, etc, 2020-10-12T10:16:23+0000
+/project/tokenquery/, tokenquery, 0.1.1, Tokenquery - query language for tokens , 2017-01-31T00:59:56+0000
+/project/flow-dev2-1-2py27/, flow-dev2.1.2py27, 1.0.0, , 2018-08-30T07:16:19+0000
+/project/convert2txt/, convert2txt, 0.1.1, convert html,PDF,DOC file to txt, 2017-10-17T08:39:22+0000
+/project/djangowebsocket/, djangowebsocket, 1.0.1, pip python django3 websocket, 2020-09-30T01:20:02+0000
+/project/xyz-restful/, xyz-restful, 0.0.7, restful utils, 2020-12-12T09:15:43+0000
+/project/linguistica/, linguistica, 5.2.1, Linguistica 5: Unsupervised Learning of Linguistic Structure, 2018-10-12T13:15:51+0000
+/project/smuer/, smuer, 0.0.5, Easy access to SMU digital platform., 2017-08-08T18:06:35+0000
+/project/iscc-service/, iscc-service, 0.2.3, ISCC Web Service API, 2020-06-12T18:57:19+0000
+/project/poio-api/, poio-api, 0.3.6, A Python Library to access and manipulate linguistically annotated corpus files., 2014-07-28T08:24:39+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/scrapymysql/, scrapyMysql, 0.1.2, make scrapy store data into mysql easier, 2018-05-09T03:25:14+0000
+/project/zlest1/, zlest1, 1.0.8, 深圳市筑龙科技的工作-补充7.6, 2019-07-22T06:57:04+0000
+/project/openfst/, openfst, 1.6.9, Python wrapper for OpenFst, 2018-07-27T03:16:52+0000
+/project/pyndri/, pyndri, 0.4, pyndri is a Python interface to the Indri search engine, 2018-03-21T14:08:46+0000
+/project/yve/, yve, 0.0.21, Chinese Province, City and Area Recognition Utilities, 2020-02-04T03:12:25+0000
+/project/wordseg/, wordseg, 0.0.2, Word segmentation models, 2020-10-12T02:30:11+0000
+/project/paperwork-shell/, paperwork-shell, 2.0.2, Paperwork's shell interface, 2021-01-01T15:24:45+0000
+/project/purestemmer/, purestemmer, 0.1.1, Pure-Python implementations of the Snowball stemmers, 2014-08-08T11:45:33+0000
+/project/addressformat/, addressformat, 0.4.15, 地址省市区解析, 2021-04-09T10:12:06+0000
+/project/mydatautil/, MyDataUtil, 0.1.2, This package is for using SQL or FTP in python, 2018-02-01T07:58:35+0000
+/project/pysenti/, pysenti, 0.1.7, Chinese Sentiment Classifier, 2021-04-06T13:36:54+0000
+/project/sasila/, sasila, 0.0.26, a simple spider system, 2017-12-13T02:31:03+0000
+/project/gnosis-utils/, Gnosis_Utils, 1.2.2, Modules and Utilities for XML Documents and Other Miscellany, 2015-02-25T05:10:29+0000
+/project/nlptools/, nlptools, 0.5.1, Unix inspired utilities for Natural Language Processing, 2017-07-31T18:50:00+0000
+/project/xhtml2pdf-legacy/, xhtml2pdf-legacy, 3.0.38, PDF generator using HTML and CSS, 2017-06-26T08:32:34+0000
+/project/info-generators/, info-generators, 0.0.9, mock chinese info to test, 2017-11-16T02:30:11+0000
+/project/text-preprocessor/, text-preprocessor, 0.0.2, This is a text preprocessor for nlp., 2018-08-09T16:59:27+0000
+/project/openxmllib/, openxmllib, 1.1.1, Provides resources to handle OpenXML documents., 2016-12-15T13:15:54+0000
+/project/cococrawler/, cococrawler, 0.0.5, A distributed network crawler framework, 2017-04-17T10:50:57+0000
+/project/stopword/, stopword, 0.0.4, Stopwords filter for Chinese, 2019-11-20T06:46:47+0000
+/project/mingle/, mingle, 0.1.7, Get lines from a number of log files with different time-stamp formats in chronological order, 2017-11-25T01:45:15+0000
+/project/kglab/, kglab, 0.3.0, A simple abstraction layer in Python for building knowledge graphs, 2021-04-24T07:19:23+0000
+/project/isbnid-fork/, isbnid_fork, 0.5.2, Python ISBN ids, 2017-01-13T16:47:23+0000
+/project/sphinx-fakeinv/, sphinx-fakeinv, 1.0.0, Generate fake Intersphinx inventory, 2016-09-18T18:39:01+0000
+/project/tinyfastss/, TinyFastSS, v2.0.1, An efficient indexing data structure for string similarity search, 2016-08-24T04:41:43+0000
+/project/xyz-qcloud/, xyz-qcloud, 0.0.5, qcloud utils, 2020-07-17T05:02:31+0000
+/project/wordcount-file/, wordcount_file, 0.2, Counts the words in an ASCII file., 2014-05-12T07:48:46+0000
+/project/zlsrc/, zlsrc, 1.0.60, 深圳市筑龙科技的工作, 2019-08-23T01:13:20+0000
+/project/filldocx/, filldocx, 1.0.1, pip python fill docx docxtpl, 2020-12-15T06:29:13+0000
+/project/xyz-common/, xyz-common, 0.0.6, common, 2021-01-15T17:10:21+0000
+/project/jieba/, jieba, 0.42.1, Chinese Words Segmentation Utilities, 2020-01-20T14:27:23+0000
+/project/test-konlp/, test-konlp, 0.0.1, Korean Natural Language Toolkit, 2018-04-20T06:38:52+0000
+/project/pylangacq/, pylangacq, 0.13.1, PyLangAcq: Language Acquisition Research in Python, 2021-03-23T17:35:21+0000
+/project/hanlperceptron/, hanlperceptron, 0.1.1, Native Python HanLP Perceptron Model: HanLPerceptron, 2020-03-09T15:26:30+0000
+/project/rust-fst/, rust-fst, 0.1.2, Python bindings for the Rust `fst` crate, providing sets and maps backed by finite state transducers., 2016-05-26T17:02:09+0000
+/project/jieba-hant/, jieba-hant, 0.39.1, Traditional Chinese Words Segementation Utilities, 2019-02-16T07:50:01+0000
+/project/metapy/, metapy, 0.2.13, Python bindings for MeTA, 2018-08-06T01:17:33+0000
+/project/lpack/, lpack, 2.4.2, 这是一个常用的爬虫开发和深度学习使用的个人开发包，因部分功能比较通用，现将其打包到pip, 2021-02-12T14:23:16+0000
+/project/skimmr-gt/, skimmr_gt, 0.1-a2, SKIMMR library and scipts for machine-aided skim-reading (the general-purpose package version for arbitrary texts), 2013-02-15T17:31:10+0000
+/project/efaqa-corpus-zh/, efaqa-corpus-zh, 0.2, Emotional First Aid Dataset, 心理咨询问答语料库, 2020-04-23T10:27:11+0000
+/project/rure/, rure, 0.2.2, Python bindings for the Rust `regex` crate. This implementation uses finite automata and guarantees linear time matching on all inputs., 2019-10-30T14:14:11+0000
+/project/zlgp/, zlgp, 1.3.9, 兰孟飞深圳市筑龙科技的工作, 2019-10-10T07:04:41+0000
+/project/ckip-segmenter/, ckip-segmenter, 1.0.2, Ckip Segmenter, 2017-07-15T08:32:50+0000
+/project/extensive-collection/, extensive_collection, 0.0.8, extensive_collection, 2018-11-08T03:55:42+0000
+/project/sentence-splitter/, sentence-splitter, 1.4, Text to sentence splitter using heuristic algorithm by Philipp Koehn and Josh Schroeder, 2019-01-14T17:11:23+0000
+/project/getcaptchatext/, GetCaptchaText, 1.0.1, Gets the text content of the image captcha, 2019-08-09T10:11:17+0000
+/project/ultimate-sitemap-parser/, ultimate-sitemap-parser, 0.5, Ultimate Sitemap Parser, 2019-07-31T11:15:46+0000
+/project/pytextrank/, pytextrank, 3.1.1, Python implementation of TextRank as a spaCy pipeline extension, for graph-based natural language work plus related knowledge graph practices; used for for phrase extraction and lightweight extractive summarization of text documents., 2021-03-25T19:46:28+0000
+/project/airflow-util-dv/, airflow-util-dv, 1.6.1, , 2019-11-17T10:55:42+0000
+/project/iambic/, iambic, 2.4.3, Data extraction and rendering library for Shakespearean text., 2021-03-09T04:03:30+0000
+/project/fkscore/, fkscore, 1.1.6, Flesch Kincaid readability scoring algorithm, 2019-04-14T16:34:19+0000
+/project/sdlcsservice/, SDLCSService, 0.0.12, A micro service launcher, 2017-08-25T06:56:07+0000
+/project/pydnsfeature/, pydnsfeature, 0.1.1, Get the dns feature for machine learning, 2018-06-20T06:18:00+0000
+/project/rdfframework/, rdfframework, 0.0.38, Application builder for KnowledgeLinks.io RDF applications., 2018-05-08T14:39:06+0000
+/project/gqylpy/, gqylpy, 0.0.0, , 2021-03-31T03:03:20+0000
+/project/paperwork-backend/, paperwork-backend, 2.0.2, Paperwork's backend, 2021-01-01T15:24:35+0000
+/project/xyz-message/, xyz-message, 0.0.8, message, 2021-01-14T01:21:57+0000
+/project/xyz-system/, xyz-system, 0.0.1, system, 2020-07-15T06:24:39+0000
+/project/caver/, caver, 0.2, Multi-label Text Classification Toolkit, 2019-01-10T05:49:59+0000
+/project/utilx/, utilx, 1.9.3, Python Toolkit, 2020-04-26T17:41:33+0000
+/project/gqutil/, gqUtil, 0.0.2, myUtil, 2018-01-17T09:59:57+0000
+/project/xyz-tenant/, xyz-tenant, 0.0.1, tenant, 2020-07-15T06:24:19+0000
+/project/pandas-files/, pandas-files, 0.2.3, This is a micro-distributed storage service., 2018-01-12T05:31:20+0000
+/project/txtai/, txtai, 2.0.0, AI-powered search engine, 2021-01-13T03:14:09+0000
+/project/fuzzy/, Fuzzy, 1.2.2, Fast Python phonetic algorithms, 2017-10-16T22:09:04+0000
+/project/text-hr/, text-hr, 0.20, Morphological/Inflection/Lemmatization Engine for Croatian language, POS tagger, stopwords, 2020-05-07T16:10:05+0000
+/project/zlairflow/, zlairflow, 4.0.51, 深圳市筑龙科技的工作, 2019-09-25T10:33:55+0000
+/project/cpca/, cpca, 0.5.5, Chinese Province, City and Area Recognition Utilities, 2021-02-20T17:18:37+0000
+/project/bibcat/, bibcat, 2.4.0, BIBCAT RDF Framework Application, 2018-08-22T13:44:00+0000
+/project/citableclass/, citableclass, 0.0.21, Tool for data request to Edition Topoi, 2018-12-07T13:42:50+0000
+/project/lmfxx/, lmfxx, 1.0.0, 兰孟飞在深圳标准技术研究部的工作, 2017-05-02T08:59:13+0000
+/project/chat-archive/, chat-archive, 4.0.3, Easy to use offline chat archive, 2020-03-27T18:02:44+0000
+/project/pyhachi/, pyhachi, 0.2.4, spam filter, 2019-03-06T05:11:27+0000
+/project/fetchman/, fetchman, 0.4.6, a simple spider system, 2018-09-27T06:47:56+0000
+/project/patricia-trie/, patricia-trie, 10, A pure Python implementation of a PATRICIA trie., 2014-12-14T16:28:03+0000
+/project/jaro-winkler/, jaro-winkler, 2.0.1, Original, standard and customisable versions of the Jaro-Winkler functions., 2021-03-09T07:17:15+0000
+/project/my-safe-eval/, my_safe_eval, 0.0.3, Safe run expr code, 2017-05-26T18:02:47+0000
+/project/zlsys/, zlsys, 1.2.5, 兰孟飞深圳市筑龙科技的工作, 2019-08-01T08:31:07+0000
+/project/some-package/, some-package, 0.1, hello world!, 2018-05-24T09:21:22+0000
+/project/sdmenu/, sdmenu, 1.0.0, A simple way to query UC San Diego's HDH dining halls, 2021-02-18T19:34:07+0000
+/project/pybibframe/, pybibframe, 1.1.3, ('Python tools for BIBFRAME (Bibliographic Framework), a Web-friendly framework for bibliographic descriptions in libraries, for example.',), 2019-12-16T21:03:59+0000
+/project/caterpillar/, caterpillar, 0.15.10, Text retrieval and analytics engine., 2019-02-13T02:10:53+0000
+/project/suffixtree/, suffixtree, 0.2.0, Yet another suffix tree implementation in Python, 2020-05-04T22:04:35+0000
+/project/lylogger/, lylogger, 0.1.1, This is a easy logger., 2018-01-25T06:06:26+0000
+/project/xmnlp/, xmnlp, 0.3.1, A Lightweight Chinese Natural Language Processing Toolkit, 2021-02-27T11:24:26+0000
+/project/pystemmer/, PyStemmer, 2.0.1, Snowball stemming algorithms, for information retrieval, 2020-07-15T11:51:49+0000
+/project/web-extract/, web_extract, 0.1.2, Web extract, 2017-05-28T01:11:29+0000
+/project/jsonget/, JsonGet, 0.2.0, , 2018-08-09T10:02:44+0000
+/project/simple-nltk/, simple-nltk, 3.5, a simple version of the NLTK, 2021-01-25T05:40:18+0000
+/project/extensive-collection/, extensive_collection, 0.0.8, extensive_collection, 2018-11-08T03:55:42+0000
+/project/names-translator/, names_translator, 1.2.3, Automatic translation and transliteration of ukrainian names into Russian and English + some extra tools to deal with mixed languages, etc, 2020-10-12T10:16:23+0000
+/project/tokenquery/, tokenquery, 0.1.1, Tokenquery - query language for tokens , 2017-01-31T00:59:56+0000
+/project/flow-dev2-1-2py27/, flow-dev2.1.2py27, 1.0.0, , 2018-08-30T07:16:19+0000
+/project/convert2txt/, convert2txt, 0.1.1, convert html,PDF,DOC file to txt, 2017-10-17T08:39:22+0000
+/project/djangowebsocket/, djangowebsocket, 1.0.1, pip python django3 websocket, 2020-09-30T01:20:02+0000
+/project/xyz-restful/, xyz-restful, 0.0.7, restful utils, 2020-12-12T09:15:43+0000
+/project/linguistica/, linguistica, 5.2.1, Linguistica 5: Unsupervised Learning of Linguistic Structure, 2018-10-12T13:15:51+0000
+/project/smuer/, smuer, 0.0.5, Easy access to SMU digital platform., 2017-08-08T18:06:35+0000
+/project/iscc-service/, iscc-service, 0.2.3, ISCC Web Service API, 2020-06-12T18:57:19+0000
+/project/poio-api/, poio-api, 0.3.6, A Python Library to access and manipulate linguistically annotated corpus files., 2014-07-28T08:24:39+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/scrapymysql/, scrapyMysql, 0.1.2, make scrapy store data into mysql easier, 2018-05-09T03:25:14+0000
+/project/xhtml2pdf-legacy/, xhtml2pdf-legacy, 3.0.38, PDF generator using HTML and CSS, 2017-06-26T08:32:34+0000
+/project/info-generators/, info-generators, 0.0.9, mock chinese info to test, 2017-11-16T02:30:11+0000
+/project/zlest1/, zlest1, 1.0.8, 深圳市筑龙科技的工作-补充7.6, 2019-07-22T06:57:04+0000
+/project/openfst/, openfst, 1.6.9, Python wrapper for OpenFst, 2018-07-27T03:16:52+0000
+/project/pyndri/, pyndri, 0.4, pyndri is a Python interface to the Indri search engine, 2018-03-21T14:08:46+0000
+/project/yve/, yve, 0.0.21, Chinese Province, City and Area Recognition Utilities, 2020-02-04T03:12:25+0000
+/project/wordseg/, wordseg, 0.0.2, Word segmentation models, 2020-10-12T02:30:11+0000
+/project/pydralion/, pydralion, 0.0.1, this is a pydralion utils package, 2021-03-12T07:22:32+0000
+/project/deepdesk/, DeepDesk, 0.1.2, Flexible data storage, with indexing, templates and validation, 2014-05-10T21:09:16+0000
+/project/lenovo-ai-client/, Lenovo-Ai-Client, 1.0, AI Lenovo, 2019-04-13T06:43:53+0000
+/project/zlhawq/, zlhawq, 2.1.7, 兰孟飞深圳市筑龙科技的工作, 2019-08-18T18:34:52+0000
+/project/mirrormirror/, MirrorMirror, 0.1.0, Easy to Image Augment, 2021-03-10T15:17:42+0000
+/project/pycscope/, pycscope, 1.2.1, Generates a cscope index of Python source trees, 2013-03-16T09:20:55+0000
+/project/nilsimsa/, nilsimsa, 0.3.8, Locality-sensitive hashing, 2016-04-10T12:48:33+0000
+/project/lch-etl/, lch-etl, 1.0.2, 数据库etl包, 2019-05-05T10:23:15+0000

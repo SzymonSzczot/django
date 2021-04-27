@@ -1,0 +1,114 @@
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/pyserial-asyncio/, pyserial-asyncio, 0.5, Python Serial Port Extension - Asynchronous I/O support, 2020-11-24T01:57:50+0000
+/project/rshell/, rshell, 0.0.30, A remote shell for working with MicroPython boards., 2021-03-01T22:24:24+0000
+/project/pysigmakoki/, PySigmaKoki, 2.0.0, Python Interface for Instruments by Sigma Koki, 2018-07-20T07:43:07+0000
+/project/cherrydoor/, Cherrydoor, 0.6.1, An overengineered rfid lock manager created for my school community. Made for Raspberry Pi connected with another microcontroler that send and recieved rfid data via UART, 2020-10-08T14:30:29+0000
+/project/rsp1570serial-pp81381/, rsp1570serial-pp81381, 0.1.5, Rotel RSP-1570 processor asyncio RS-232 protocol, 2020-08-09T19:19:25+0000
+/project/tmonk/, tmonk, 0.1.2, thesis build of DFE's MONK, 2014-02-08T22:19:19+0000
+/project/isee-sipm/, ISEE_SiPM, 1.1.0, Commont Python toolset for SiPM analysis, 2018-08-30T05:37:35+0000
+/project/mpycntrl/, mpycntrl, 0.0.7, Control MicroPython with your own code, 2020-04-02T09:56:54+0000
+/project/htrest/, htrest, 0.1.10, Heliotherm heat pump REST API, 2021-01-30T16:35:13+0000
+/project/test-kkimj/, test-kkimj, 0.1.1, HC-SR04 Python module via Serial protocol, 2021-03-21T02:57:02+0000
+/project/pygpsclient/, PyGPSClient, 1.0.5, PyGPSClient GNSS/GPS Graphical Client, 2021-04-24T07:57:15+0000
+/project/flashgbx/, FlashGBX, 1.4.2, Reads and writes Game Boy and Game Boy Advance cartridge data. Currently supports the GBxCart RW hardware device by insideGadgets., 2021-03-17T13:27:03+0000
+/project/microspec/, microspec, 0.1.1b0, Python API for the Chromation spectrometer dev-kit, 2020-09-25T01:40:06+0000
+/project/oatmeal/, oatmeal, 1.1, A protocol to control and communicate with Arduino devices from Python., 2019-12-30T20:51:44+0000
+/project/hc-sr04/, HC-SR04, 0.3.1, HC-SR04 Python module via Serial protocol, 2021-03-22T15:34:44+0000
+/project/ssterm/, ssterm, 3.0.0, A simple console-based serial port terminal, 2016-10-02T09:28:14+0000
+/project/pyserialui/, pyserialui, 1.0.0, SerialUI druid support and examples, 2019-06-25T16:22:43+0000
+/project/modem-cmd/, modem-cmd, 1.0.2, Send arbitrary AT commands to your modem, 2017-07-20T02:39:42+0000
+/project/pyserial/, pyserial, 3.5, Python Serial Port Extension, 2020-11-23T03:59:13+0000
+/project/satbot/, satbot, 0.1.10, Read data from commonly-available "satellite" hobby R/C receivers., 2015-01-20T00:22:34+0000
+/project/espsetup/, espsetup, 0.0.5, simplified setup up for esp8266 / esp32 device, 2021-03-06T07:24:41+0000
+/project/mpyconfigbase/, mpyconfigbase, 0.0.4, Configure MicroPython WLAN/AP/WebRepl startup with your own code, 2020-04-01T14:18:24+0000
+/project/htknx/, htknx, 0.2.0, Heliotherm heat pump KNX gateway, 2021-02-06T16:23:28+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/beradio/, beradio, 0.12.3, BERadio is an encoding specification and implementation for efficient communication in constrained radio link environments. It is conceived and used for over-the-air communication within the Hiveeyes project., 2018-07-11T00:33:27+0000
+/project/pytty/, PyTTY, 0.4, Python serial access package, 2012-07-20T22:30:35+0000
+/project/micro-lisp-tool-amotzek/, micro-lisp-tool-amotzek, 1.0.7, Run and upload Lisp programs and use the read-eval-print loop with ESP32 boards flashed with Micro Lisp, 2020-09-26T11:19:32+0000
+/project/rpi-rfsniffer/, rpi-rfsniffer, 0.1.0, RF remote sniffer and sender for the Raspberry Pi, 2017-01-12T19:17:36+0000
+/project/gsmtc35/, GSMTC35, 2.1, GSM TC35/MC35 controller (Send/Receive SMS/MMS/Call and a lot more!), 2019-11-09T18:33:56+0000
+/project/python-gsmmodem/, python-gsmmodem, 0.9, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2013-07-18T11:23:48+0000
+/project/pyserialmonitor/, pySerialMonitor, 0.1, , 2017-08-20T09:25:34+0000
+/project/htheatpump/, htheatpump, 1.3.1, Easy-to-use Python communication module for Heliotherm heat pumps, 2021-01-20T19:33:26+0000
+/project/tinycom/, tinycom, 1.1, A simple line based serial terminal GUI., 2017-02-23T03:09:13+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/isotel-idm/, isotel-idm, 1.0b21, A python framework for the ISOTEL Data-acquisition & Metering Smart Gateway for easy integration with Internet of Things., 2019-11-26T21:06:07+0000
+/project/spplot/, spplot, 0.0.2, command-line serial plotter, 2020-09-05T18:18:47+0000
+/project/hlfbt-serial-console/, hlfbt-serial-console, 0.0.5, A simple utility to interface with prompt-like (serial) consoles, 2019-11-11T21:45:53+0000
+/project/sterm/, sterm, 6.0.1, A minimal serial / UART command line terminal that focus on being easy to use., 2020-03-07T08:16:58+0000
+/project/sermon/, sermon, 1.0.1, Serial device monitor and transmitter., 2014-05-10T03:39:55+0000
+/project/uspp-universal-serial-port-python-library/, USPP-Universal-Serial-Port-Python-Library, 1.0, Multiplatform Python library for serial port accesing, 2006-02-24T20:37:47+0000
+/project/cepko/, cepko, 1.0.1, Communication with CloudSigma's VMs through a virtual serial port, 2014-03-17T10:44:22+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/pymodem/, pymodem, 0.2, Simple Python interface to generic terminal and (specifically) GSM modem devices. Includes general serial connection/chat, AT command, SMS (including GSM.03.38) support., 2013-01-06T15:50:08+0000
+/project/py-hplc/, py-hplc, 0.1.6, An unoffical Python wrapper for the SSI-Teledyne Next Generation class HPLC pumps., 2021-04-21T17:28:08+0000
+/project/fzsl/, fzsl, 0.4, Fuzzy path searching for shells, 2016-02-06T05:58:05+0000
+/project/python-gsmmodem-new/, python-gsmmodem-new, 0.12, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2017-03-15T11:59:18+0000
+/project/protea/, Protea, 0.1a, Ashly digital audio products RS-232 interface library, 2013-08-26T17:44:20+0000
+/project/pypms/, pypms, 0.5.0, Data acquisition and logging tool for PM sensors with UART interface, 2020-10-25T12:46:47+0000
+/project/usbserial/, USBSerial, 1.1.0, HC-USBSerial Python library via Serial protocol, using pySerial library as API, 2021-03-24T09:59:34+0000
+/project/shell49/, shell49, 0.1.10, Micropython remote shell, 2020-09-04T02:00:32+0000
+/project/xbee/, XBee, 2.3.2, Python tools for working with XBee radios, 2018-04-03T18:34:15+0000
+/project/nectar/, nectar, 0.1, Helper Library for the Modern Propulsion ESCs, 2016-06-05T20:16:37+0000
+/project/pygpd3303s/, PyGPD3303S, 2.0.0, Python Interface for DC power supply GPD-3303S, 2018-07-19T11:03:05+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/minimalmodbus/, minimalmodbus, 1.0.2, Easy-to-use Modbus RTU and Modbus ASCII implementation for Python, 2019-08-11T00:36:43+0000
+/project/monk-tf/, monk_tf, 0.17.8, regression test scripting framework for embedded systems developers, 2015-12-10T11:21:36+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/pyserial-asyncio/, pyserial-asyncio, 0.5, Python Serial Port Extension - Asynchronous I/O support, 2020-11-24T01:57:50+0000
+/project/rshell/, rshell, 0.0.30, A remote shell for working with MicroPython boards., 2021-03-01T22:24:24+0000
+/project/pysigmakoki/, PySigmaKoki, 2.0.0, Python Interface for Instruments by Sigma Koki, 2018-07-20T07:43:07+0000
+/project/cherrydoor/, Cherrydoor, 0.6.1, An overengineered rfid lock manager created for my school community. Made for Raspberry Pi connected with another microcontroler that send and recieved rfid data via UART, 2020-10-08T14:30:29+0000
+/project/mpycntrl/, mpycntrl, 0.0.7, Control MicroPython with your own code, 2020-04-02T09:56:54+0000
+/project/htrest/, htrest, 0.1.10, Heliotherm heat pump REST API, 2021-01-30T16:35:13+0000
+/project/test-kkimj/, test-kkimj, 0.1.1, HC-SR04 Python module via Serial protocol, 2021-03-21T02:57:02+0000
+/project/rsp1570serial-pp81381/, rsp1570serial-pp81381, 0.1.5, Rotel RSP-1570 processor asyncio RS-232 protocol, 2020-08-09T19:19:25+0000
+/project/tmonk/, tmonk, 0.1.2, thesis build of DFE's MONK, 2014-02-08T22:19:19+0000
+/project/isee-sipm/, ISEE_SiPM, 1.1.0, Commont Python toolset for SiPM analysis, 2018-08-30T05:37:35+0000
+/project/pygpsclient/, PyGPSClient, 1.0.5, PyGPSClient GNSS/GPS Graphical Client, 2021-04-24T07:57:15+0000
+/project/microspec/, microspec, 0.1.1b0, Python API for the Chromation spectrometer dev-kit, 2020-09-25T01:40:06+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/hc-sr04/, HC-SR04, 0.3.1, HC-SR04 Python module via Serial protocol, 2021-03-22T15:34:44+0000
+/project/pyserialui/, pyserialui, 1.0.0, SerialUI druid support and examples, 2019-06-25T16:22:43+0000
+/project/modem-cmd/, modem-cmd, 1.0.2, Send arbitrary AT commands to your modem, 2017-07-20T02:39:42+0000
+/project/pytty/, PyTTY, 0.4, Python serial access package, 2012-07-20T22:30:35+0000
+/project/gsmtc35/, GSMTC35, 2.1, GSM TC35/MC35 controller (Send/Receive SMS/MMS/Call and a lot more!), 2019-11-09T18:33:56+0000
+/project/pyserialmonitor/, pySerialMonitor, 0.1, , 2017-08-20T09:25:34+0000
+/project/espsetup/, espsetup, 0.0.5, simplified setup up for esp8266 / esp32 device, 2021-03-06T07:24:41+0000
+/project/mpyconfigbase/, mpyconfigbase, 0.0.4, Configure MicroPython WLAN/AP/WebRepl startup with your own code, 2020-04-01T14:18:24+0000
+/project/flashgbx/, FlashGBX, 1.4.2, Reads and writes Game Boy and Game Boy Advance cartridge data. Currently supports the GBxCart RW hardware device by insideGadgets., 2021-03-17T13:27:03+0000
+/project/htknx/, htknx, 0.2.0, Heliotherm heat pump KNX gateway, 2021-02-06T16:23:28+0000
+/project/oatmeal/, oatmeal, 1.1, A protocol to control and communicate with Arduino devices from Python., 2019-12-30T20:51:44+0000
+/project/ssterm/, ssterm, 3.0.0, A simple console-based serial port terminal, 2016-10-02T09:28:14+0000
+/project/beradio/, beradio, 0.12.3, BERadio is an encoding specification and implementation for efficient communication in constrained radio link environments. It is conceived and used for over-the-air communication within the Hiveeyes project., 2018-07-11T00:33:27+0000
+/project/micro-lisp-tool-amotzek/, micro-lisp-tool-amotzek, 1.0.7, Run and upload Lisp programs and use the read-eval-print loop with ESP32 boards flashed with Micro Lisp, 2020-09-26T11:19:32+0000
+/project/rpi-rfsniffer/, rpi-rfsniffer, 0.1.0, RF remote sniffer and sender for the Raspberry Pi, 2017-01-12T19:17:36+0000
+/project/pyserial/, pyserial, 3.5, Python Serial Port Extension, 2020-11-23T03:59:13+0000
+/project/satbot/, satbot, 0.1.10, Read data from commonly-available "satellite" hobby R/C receivers., 2015-01-20T00:22:34+0000
+/project/python-gsmmodem/, python-gsmmodem, 0.9, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2013-07-18T11:23:48+0000
+/project/htheatpump/, htheatpump, 1.3.1, Easy-to-use Python communication module for Heliotherm heat pumps, 2021-01-20T19:33:26+0000
+/project/tinycom/, tinycom, 1.1, A simple line based serial terminal GUI., 2017-02-23T03:09:13+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/isotel-idm/, isotel-idm, 1.0b21, A python framework for the ISOTEL Data-acquisition & Metering Smart Gateway for easy integration with Internet of Things., 2019-11-26T21:06:07+0000
+/project/hlfbt-serial-console/, hlfbt-serial-console, 0.0.5, A simple utility to interface with prompt-like (serial) consoles, 2019-11-11T21:45:53+0000
+/project/sterm/, sterm, 6.0.1, A minimal serial / UART command line terminal that focus on being easy to use., 2020-03-07T08:16:58+0000
+/project/spplot/, spplot, 0.0.2, command-line serial plotter, 2020-09-05T18:18:47+0000
+/project/sermon/, sermon, 1.0.1, Serial device monitor and transmitter., 2014-05-10T03:39:55+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/py-hplc/, py-hplc, 0.1.6, An unoffical Python wrapper for the SSI-Teledyne Next Generation class HPLC pumps., 2021-04-21T17:28:08+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/minimalmodbus/, minimalmodbus, 1.0.2, Easy-to-use Modbus RTU and Modbus ASCII implementation for Python, 2019-08-11T00:36:43+0000
+/project/monk-tf/, monk_tf, 0.17.8, regression test scripting framework for embedded systems developers, 2015-12-10T11:21:36+0000
+/project/python-gsmmodem-new/, python-gsmmodem-new, 0.12, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2017-03-15T11:59:18+0000
+/project/protea/, Protea, 0.1a, Ashly digital audio products RS-232 interface library, 2013-08-26T17:44:20+0000
+/project/pypms/, pypms, 0.5.0, Data acquisition and logging tool for PM sensors with UART interface, 2020-10-25T12:46:47+0000
+/project/shell49/, shell49, 0.1.10, Micropython remote shell, 2020-09-04T02:00:32+0000
+/project/pymodem/, pymodem, 0.2, Simple Python interface to generic terminal and (specifically) GSM modem devices. Includes general serial connection/chat, AT command, SMS (including GSM.03.38) support., 2013-01-06T15:50:08+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/isotel-idm/, isotel-idm, 1.0b21, A python framework for the ISOTEL Data-acquisition & Metering Smart Gateway for easy integration with Internet of Things., 2019-11-26T21:06:07+0000
+/project/hlfbt-serial-console/, hlfbt-serial-console, 0.0.5, A simple utility to interface with prompt-like (serial) consoles, 2019-11-11T21:45:53+0000
+/project/sterm/, sterm, 6.0.1, A minimal serial / UART command line terminal that focus on being easy to use., 2020-03-07T08:16:58+0000
+/project/spplot/, spplot, 0.0.2, command-line serial plotter, 2020-09-05T18:18:47+0000
+/project/sermon/, sermon, 1.0.1, Serial device monitor and transmitter., 2014-05-10T03:39:55+0000
+/project/uspp-universal-serial-port-python-library/, USPP-Universal-Serial-Port-Python-Library, 1.0, Multiplatform Python library for serial port accesing, 2006-02-24T20:37:47+0000

@@ -1,0 +1,310 @@
+/project/remind-caldav/, remind-caldav, 0.7.1,  Remind CalDAV tools, 2020-09-26T15:17:22+0000
+/project/qtasktimer/, qtasktimer, 0.1.3, Simple timer for timeboxing built with PyQt 5, 2019-03-12T11:28:27+0000
+/project/palm2vcal/, palm2vcal, 0.5.3, Convert PalmOS .dba calendar to a vcalendar file., 2012-05-06T23:37:48+0000
+/project/aioairtable/, aioairtable, 0.0.11, Asynchronous client library for Airtable API, 2021-04-24T15:14:27+0000
+/project/lino-patrols/, lino-patrols, 0.0.2, A Lino application for managing patrols, 2013-05-27T18:37:07+0000
+/project/icssplit/, icssplit, 1.0.1, Split big .ics/.ical files into smaller ones for easy import into Google Calendar, 2018-05-12T09:49:16+0000
+/project/feri-urnik/, feri-urnik, 1.0.0, A FERI schedule running in CLI, 2020-11-15T13:11:44+0000
+/project/gtdzen/, gtdzen, 0.1.3, Simple but flexible Getting Things Done task manager with tag-oriented workflow., 2009-06-24T12:14:20+0000
+/project/opengroupware/, OpenGroupware, 0.1.48, OpenGroupware Coils Groupware & Workflow Solution, 2012-10-16T09:50:41+0000
+/project/snurtle/, snurtle, 0.99.4, CLI for the OpenGroupware Collaboration/Workflow Platform, 2012-11-02T14:17:41+0000
+/project/jawanndenn/, jawanndenn, 2.4.4, Libre alternative to Doodle, 2020-08-07T18:23:26+0000
+/project/lifelogger/, lifelogger, 0.2.2, Track your life like a pro on Google Calendar via your terminal., 2018-03-09T14:03:13+0000
+/project/chronophore/, chronophore, 0.6.0, Desktop app for tracking sign-ins and sign-outs in a tutoring center., 2016-11-21T20:22:54+0000
+/project/todopy2/, todopy2, 1.3, Simple to-do list CLI manager in Python, 2013-09-11T13:52:08+0000
+/project/pystaffo/, PyStaffo, 0.1.4, A Staffomatic API Python wrapper, 2019-06-13T19:05:24+0000
+/project/hickory/, hickory, 1.0.0, The command line tool for scheduling Python scripts, 2020-08-25T20:04:58+0000
+/project/pdfschedule/, pdfschedule, 0.3.1, Weekly schedule typesetter, 2020-01-24T21:05:58+0000
+/project/calresa/, calresa, 0.1, Room booking viewer, 2017-01-15T13:11:04+0000
+/project/ls-joyous/, ls.joyous, 1.4.0, A calendar application for Wagtail., 2021-02-12T10:03:33+0000
+/project/resourcereservation/, ResourceReservation, 1.0.4, Resource Reservation plugin for Trac, 2011-05-19T10:14:25+0000
+/project/wtime/, wtime, 0.4, Week Time, 2019-05-05T21:45:18+0000
+/project/wrf4g/, wrf4g, 2.3.0, WRF for Grid (WRF4G) is a framework for the execution and monitoring of the WRF Modelling System., 2017-03-03T16:53:41+0000
+/project/volunteer-scheduler/, volunteer-scheduler, 2019.5.9, Volunteer workshift scheduler, 2019-05-09T18:47:12+0000
+/project/simplegtd/, simplegtd, 0.0.22, Manage your to-do list using the Getting Things Done system., 2020-06-29T13:27:40+0000
+/project/receptacle/, receptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-05T16:54:13+0000
+/project/treeoflife/, treeoflife, 0.0.4, A Tree of your Life (end-user application), 2014-03-22T06:04:56+0000
+/project/eascheduler/, EAScheduler, 0.1.0, Easy async scheduling with a nice interface, 2021-04-21T12:44:47+0000
+/project/tudo/, tudo, 0.1.0.dev6, A simple command-line based TODO-app in Python, 2016-12-30T16:13:44+0000
+/project/putcall/, putcall, 0.2, Collection of classical option pricing formulas., 2019-09-18T12:51:06+0000
+/project/lectocal/, lectocal, 1.2.1, Syncronize Lectio schedules to Google Calendar., 2018-09-17T11:37:55+0000
+/project/next-action/, next-action, 1.13.0, Command-line application to show the next action to work on from a todo.txt file, 2020-05-24T22:30:35+0000
+/project/horseshit/, horseshit, 0.0.5, Small script to configure your hosts file so you don't get distracted during the day, 2015-03-12T03:06:06+0000
+/project/pomodoro-calculator/, pomodoro-calculator, 1.0.2, A pretty command line tool to calculate the number of Pomodori available between two points in time., 2018-09-13T07:43:58+0000
+/project/django-agenda/, django-agenda, 0.7.2, A scheduling app for Django, 2021-04-01T05:14:46+0000
+/project/lino-voga/, lino-voga, 20.12.1, A Lino application for managing courses, participants and meeting rooms, 2020-12-26T09:54:08+0000
+/project/lino-avanti/, lino-avanti, 21.2.1, Manage the integration course of immigrants in East Belgium, 2021-02-13T15:31:52+0000
+/project/sesh/, sesh, 0.2.7, A tool for managing music classes from the command line., 2019-12-11T20:32:48+0000
+/project/ceptacle/, ceptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-08T21:45:45+0000
+/project/getitdone/, getitdone, 0.0.4, `getitdone` to-do list application... Let's make some lists!, 2021-04-12T20:58:39+0000
+/project/python-gantt-csv/, python-gantt-csv, 0.3.0, python-gantt-csv manage gantt.Task arguments with csv format., 2021-02-14T12:15:25+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pomodorino/, pomodorino, 0.1.0b1, Simple Pomodoro Timer, 2020-04-23T02:17:39+0000
+/project/pydidit/, pydidit, 0.1.7, A simple command line script to publish to iDoneThis, 2015-03-20T20:24:02+0000
+/project/atg/, atg, 0.0.6, A small timezone utility, 2015-07-05T13:04:22+0000
+/project/toggl-cli/, toggl-cli, 3, Command line interface for toggl timer app, 2016-10-24T04:34:33+0000
+/project/etm-qt/, etm_qt, 2.3.27, event and task manager, 2014-04-13T18:16:01+0000
+/project/synergy-scheduler/, synergy-scheduler, 2.3, Synergy Scheduler, 2020-06-13T19:03:09+0000
+/project/projectpredict/, projectpredict, 0.0.1, A library to help schedule projects intelligently., 2018-05-15T20:08:52+0000
+/project/kabaret/, kabaret, 2.1.12, VFX/Animation Studio Framework, 2020-02-28T15:45:33+0000
+/project/businesstimedelta/, businesstimedelta, 1.0.1, Timedelta for business time. Supports exact amounts of time (hours, seconds), custom schedules, holidays, and time zones., 2019-09-07T17:27:07+0000
+/project/todotxt-machine/, todotxt-machine, 2.2.2, An interactive terminal based todo.txt file editor with an interface similar to mutt, 2015-08-30T19:52:36+0000
+/project/icstools/, icstools, 0.2.2, cat/grep-like for icalendar calendar files (.ics), 2017-06-20T22:02:06+0000
+/project/timetravel/, timetravel, 1.0, A time machine for your calendar., 2016-11-08T21:12:17+0000
+/project/tardis/, tardis, 0.1, A minimal CalDAV client, 2019-10-27T12:39:21+0000
+/project/etmtk/, etmtk, 3.2.39, event and task manager, 2019-10-03T22:03:40+0000
+/project/workflow-templater/, workflow-templater, 0.2.7, Template engine for (currently) Jira and Email. Uses yaml and jinja2. It helps you create multiple (possibly cross-linked) jira issues and emails from a template., 2020-06-30T20:39:43+0000
+/project/rdfcalendar/, RDFCalendar, 0.2.6, Conversion of iCalendar/vCard resources to RDF information, 2007-09-18T22:19:26+0000
+/project/watson-jira/, watson-jira, 0.2.1, Format and upload Watson time logs to Jira as Tempo worklogs, 2019-10-01T18:14:07+0000
+/project/django-timepiece/, django-timepiece, 1.1.0, A multi-user application for tracking employee time on projects., 2016-03-01T00:26:15+0000
+/project/django-swingtime/, django-swingtime, 1.2.1, A Django calendaring application., 2021-02-28T04:17:22+0000
+/project/lapis-sim/, lapis-sim, 0.4.2, Lapis is an adaptable, performant, and interactive scheduling (Lapis) simulator, 2020-12-14T17:00:26+0000
+/project/drm4g/, drm4g, 2.6.13, DRM4G is an open platform for DCIs., 2021-02-17T18:01:45+0000
+/project/shortrate/, shortrate, 0.3, risk factor model library python style., 2019-09-18T12:51:18+0000
+/project/undertime/, undertime, 2.4.0, pick a meeting time, 2021-03-16T18:36:28+0000
+/project/notefinder/, notefinder, 0.9, Easy to use package for notes management, 2008-03-25T08:41:21+0000
+/project/eagle-cli/, eagle-cli, 0.5, Simple TODO tool for CLI., 2020-04-14T19:06:22+0000
+/project/codenotes/, Codenotes, 0.0.1, A simple CLI where you can save and view all your created annotations, 2021-02-14T23:24:43+0000
+/project/gcal2redmine/, gcal2redmine, 0.3.0.post2, Fill Redmine time tracker from a Google Calendar, 2019-07-30T15:03:09+0000
+/project/marketanalysis/, marketanalysis, 0.11, A repository for market holidays and trading days in NYSE and NASDAQ, 2021-04-14T08:53:49+0000
+/project/uw-restclients-wheniwork/, UW-RestClients-WhenIWork, 1.0.3, Client for the WhenIWork REST API, 2018-11-16T00:14:23+0000
+/project/manhourcalendar/, ManHourCalendar, 0.9.1b3, Calendar to manage your man-hour., 2017-09-15T17:03:06+0000
+/project/wammu/, wammu, 0.44, Wammu Mobile Phone Manager, 2018-01-05T14:40:34+0000
+/project/taskreport/, taskreport, 1.2.1, Automatic reporting tool for Taskwarrior, 2013-04-10T15:43:17+0000
+/project/pysugar/, pysugar, 0.0.6, Python binding of SugarCRM, that uses the SOAP API provided by SugarCRM, 2007-01-05T09:23:05+0000
+/project/eventmagic/, eventmagic, 0.2.1, Event scheduling with persistence for short-lived processes i.e. AWS Lambda, 2018-05-31T14:37:54+0000
+/project/python-electricity/, python-electricity, 0.0.7, Determine Electricity Tariff Periods in Python, 2021-02-09T21:52:35+0000
+/project/ics-lancstimtab/, ics-lancstimtab, 0.5.dev0, Python icalendar (rfc5545) parser, 2018-09-21T03:14:17+0000
+/project/ics/, ics, 0.7, Python icalendar (rfc5545) parser, 2020-02-29T19:34:32+0000
+/project/organizer/, Organizer, 1.3.1, Organizes a list of tasks., 2014-12-07T21:56:17+0000
+/project/gitrack/, gitrack, 0.1.0, Zero touch time tracking using Git, 2019-01-21T20:28:38+0000
+/project/aneris/, aneris, 0.6, curses time/project planner, 2015-06-03T20:01:33+0000
+/project/ortools/, ortools, 8.2.8710, Google OR-Tools python libraries and modules, 2021-03-04T10:11:57+0000
+/project/modipy/, ModiPy, 1.2.2, ModiPy change management system, 2009-08-25T22:19:23+0000
+/project/todoman/, todoman, 3.9.0, A simple CalDav-based todo manager., 2020-12-03T20:32:18+0000
+/project/business-python/, business-python, 1.0.3, Date calculations based on business calendars., 2020-11-17T16:20:38+0000
+/project/django-pendulum/, django-pendulum, 0.1.6-pre4, A simple timeclock/timecard application for use in Django-powered Web sites., 2010-12-28T03:48:35+0000
+/project/checkvist/, checkvist, 0.0.1.dev3, Checkvist REST API wrapper, 2020-12-02T00:49:01+0000
+/project/django-asana/, django-asana, 1.4.6, Django Asana integration project, 2021-03-09T14:55:25+0000
+/project/uw-ems-client/, UW-EMS-Client, 0.12, A client for the EMS SOAP API, 2019-06-18T21:48:09+0000
+/project/django-baseboard/, django-baseboard, 0.3, Dashboard view across various Basecamp projects, powered by Django, 2009-06-13T16:26:58+0000
+/project/pyade/, pyade, 0.0.2, Python client for ADE web API, 2015-04-25T14:01:17+0000
+/project/bizdatim/, bizdatim, 0.2.0, Module for performing simple business day arithmetic; forked from python-bizdatetime, 2016-11-22T23:39:28+0000
+/project/tracktrace/, tracktrace, 0.0.5, Track and trace shipping containers across all major steamship lines, 2020-12-28T23:51:23+0000
+/project/scriptter/, scriptter, 0.3, cron's missing brain. Stateful, time-based scripting., 2015-05-09T00:36:27+0000
+/project/ls-joyful/, ls.joyful, 0.1.3, A FullCalendar front end to Joyous., 2020-08-21T22:53:16+0000
+/project/email-assistant/, email-assistant, 0.0.0, Add entries to caldav servers based on email contents, 2019-06-08T21:29:54+0000
+/project/etm-dgraham/, etm-dgraham, 4.7.7, event and task manager, 2021-04-04T17:09:17+0000
+/project/pydotask/, pydotask, 0.4.3, PyDo is a CLI Application to keep you on track with your tasks and projects, 2017-11-03T02:55:15+0000
+/project/bdateutil/, bdateutil, 0.1, Adds business day logic and improved data type flexibility to python-dateutil., 2014-11-12T01:27:10+0000
+/project/sleipnir-shell/, sleipnir.shell, 0.2.2, A logistic system, 2013-03-20T21:11:29+0000
+/project/businessdate/, businessdate, 0.5, Python library for generating business dates for fast date operations and rich functionality., 2019-09-18T12:43:13+0000
+/project/tasksched/, tasksched, 0.4.0, Task scheduler with automatic resource leveling., 2021-01-23T08:51:36+0000
+/project/reggie/, reggie, 0.1, Reggie the Registration and Management System, 2017-05-03T16:21:04+0000
+/project/cobald/, cobald, 0.12.1, COBalD - the Opportunistic Balancing Daemon, 2020-04-15T08:48:29+0000
+/project/jira-metrics-extract/, jira-metrics-extract, 0.53, Extract agile metrics data from JIRA, 2018-05-10T06:15:57+0000
+/project/todd/, todd, 0.0.7, An interactive terminal based todo.txt file editor, 2019-01-07T21:13:00+0000
+/project/pentacle/, pentacle, 0.4, An O-O P2P RPC protocol and application framework., 2012-01-18T18:51:58+0000
+/project/taskjuggler-utils/, taskjuggler_utils, 0.1, Tools to help use "taskjuggler" without its GUI and produce nice reports., 2009-01-19T19:47:45+0000
+/project/products-simplecalendarportlet/, Products.SimpleCalendarPortlet, 1.0b2, Simple to install and use portlet calendaring solution, 2012-11-01T08:42:09+0000
+/project/hc/, hc, 0.1.1, Holiday converter tool, 2017-06-04T14:28:19+0000
+/project/aiocaldav/, aiocaldav, 0.5.1, asynchronous CalDAV (RFC4791) client library, 2018-06-22T11:43:21+0000
+/project/python-gantt/, python-gantt, 0.6.0, This is a python class to create gantt chart using SVG., 2016-03-20T18:19:20+0000
+/project/bdateutil/, bdateutil, 0.1, Adds business day logic and improved data type flexibility to python-dateutil., 2014-11-12T01:27:10+0000
+/project/icalretriever/, icalretriever, 2.1.1, Periodically retrieve ICS files in order to serve them with CalDAV., 2015-12-29T11:23:59+0000
+/project/todoq/, todoq, 1.0.12, Simplest command-line TODO list, 2013-08-18T06:26:03+0000
+/project/remind/, remind, 0.16.0, Remind Python library, 2021-03-10T12:38:18+0000
+/project/togglcli/, togglCli, 2.4.2, Command line tool and set of Python wrapper classes for interacting with toggl's API, 2021-03-20T09:07:10+0000
+/project/sleipnir-frontends-handset/, sleipnir.frontends.handset, 0.0.91, UX experience for Nokia N900 (Handset) and Meego, 2011-07-02T16:51:23+0000
+/project/joeflow/, joeflow, 1.0.5, The lean workflow automation framework for machines with heart, 2021-04-08T10:16:09+0000
+/project/helpline-scheduler/, helpline-scheduler, 2019.4.8.post6, Workshift scheduler for a helpline, 2019-04-08T15:06:59+0000
+/project/timewave/, timewave, 0.6, timewave, a stochastic process evolution simulation engine in python., 2019-09-18T12:53:35+0000
+/project/products-simplecalendar/, Products.SimpleCalendar, 1.0.1b4, Simple to install and use calendaring solution, 2012-11-01T08:40:47+0000
+/project/dcf/, dcf, 0.4, A Python library for generating discounted cashflows., 2020-10-11T17:36:47+0000
+/project/hc/, hc, 0.1.1, Holiday converter tool, 2017-06-04T14:28:19+0000
+/project/aiocaldav/, aiocaldav, 0.5.1, asynchronous CalDAV (RFC4791) client library, 2018-06-22T11:43:21+0000
+/project/python-gantt/, python-gantt, 0.6.0, This is a python class to create gantt chart using SVG., 2016-03-20T18:19:20+0000
+/project/production-calendar/, production-calendar, 0.1b9, Given module allows to use production calendars of different countries, 2019-03-12T17:57:27+0000
+/project/stalker/, stalker, 0.2.24.3, A Production Asset Management (ProdAM) System, 2020-01-05T21:37:25+0000
+/project/businessdate/, businessdate, 0.5, Python library for generating business dates for fast date operations and rich functionality., 2019-09-18T12:43:13+0000
+/project/tasksched/, tasksched, 0.4.0, Task scheduler with automatic resource leveling., 2021-01-23T08:51:36+0000
+/project/reggie/, reggie, 0.1, Reggie the Registration and Management System, 2017-05-03T16:21:04+0000
+/project/cobald/, cobald, 0.12.1, COBalD - the Opportunistic Balancing Daemon, 2020-04-15T08:48:29+0000
+/project/jira-metrics-extract/, jira-metrics-extract, 0.53, Extract agile metrics data from JIRA, 2018-05-10T06:15:57+0000
+/project/todd/, todd, 0.0.7, An interactive terminal based todo.txt file editor, 2019-01-07T21:13:00+0000
+/project/pentacle/, pentacle, 0.4, An O-O P2P RPC protocol and application framework., 2012-01-18T18:51:58+0000
+/project/joeflow/, joeflow, 1.0.5, The lean workflow automation framework for machines with heart, 2021-04-08T10:16:09+0000
+/project/helpline-scheduler/, helpline-scheduler, 2019.4.8.post6, Workshift scheduler for a helpline, 2019-04-08T15:06:59+0000
+/project/edrnsite-collaborations/, edrnsite.collaborations, 1.0.6, EDRN Collaborative Group Workspaces, 2018-09-05T14:57:58+0000
+/project/stamper/, stamper, 0.1.1, Time tracking tool, 2019-09-05T14:46:55+0000
+/project/processscheduler/, ProcessScheduler, 0.5.0, A package to solve resource-constrained scheduling problems using SMT theory/solver., 2021-04-23T14:05:51+0000
+/project/etm-dgraham/, etm-dgraham, 4.7.7, event and task manager, 2021-04-04T17:09:17+0000
+/project/pydotask/, pydotask, 0.4.3, PyDo is a CLI Application to keep you on track with your tasks and projects, 2017-11-03T02:55:15+0000
+/project/sleipnir-shell/, sleipnir.shell, 0.2.2, A logistic system, 2013-03-20T21:11:29+0000
+/project/horascli/, horasCLI, 1.2.0, Simple CLI program to create a project hour schedule in markdown., 2018-11-28T07:12:00+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/caldav/, caldav, 0.8.0, CalDAV (RFC4791) client library, 2021-03-11T11:20:29+0000
+/project/fiscalyear/, fiscalyear, 0.3.1, Utilities for managing the fiscal calendar, 2021-02-07T16:44:24+0000
+/project/lokai/, Lokai, 0.3, Extendable Business Process Management Application, 2012-07-10T15:36:33+0000
+/project/supersaas-api-client/, supersaas-api-client, 1.2.2, Online bookings/appointments/calendars using the SuperSaaS scheduling platform  - https://supersaas.com, 2020-04-17T11:56:57+0000
+/project/pyomodoro/, pyomodoro, 1.0.0, An easy to use CLI for the Pomodoro Technique., 2020-10-07T15:00:27+0000
+/project/cheqlist/, cheqlist, 0.3.2, A simple Qt checklist., 2019-12-01T19:36:15+0000
+/project/holidays/, holidays, 0.11.1, Generate and work with holidays in Python, 2021-04-02T13:13:42+0000
+/project/prod-cal/, prod-cal, 0.1b7, Given module allows to use production calendars of different countries, 2016-04-07T05:25:57+0000
+/project/pomodoro-ctimer/, pomodoro-ctimer, 2.0.2, Pomodoro is a famous time management technique aka tomato clock. Pomodoro C-timer is written in python and tkinter. This is a well maintained project. Your contributions are welcome on github!, 2020-12-29T14:19:44+0000
+/project/remhind/, remhind, 0.1.1, A daemon to display notifications of iCalendar events, 2019-03-21T14:26:50+0000
+/project/remind-caldav/, remind-caldav, 0.7.1,  Remind CalDAV tools, 2020-09-26T15:17:22+0000
+/project/qtasktimer/, qtasktimer, 0.1.3, Simple timer for timeboxing built with PyQt 5, 2019-03-12T11:28:27+0000
+/project/palm2vcal/, palm2vcal, 0.5.3, Convert PalmOS .dba calendar to a vcalendar file., 2012-05-06T23:37:48+0000
+/project/aioairtable/, aioairtable, 0.0.11, Asynchronous client library for Airtable API, 2021-04-24T15:14:27+0000
+/project/lino-patrols/, lino-patrols, 0.0.2, A Lino application for managing patrols, 2013-05-27T18:37:07+0000
+/project/icssplit/, icssplit, 1.0.1, Split big .ics/.ical files into smaller ones for easy import into Google Calendar, 2018-05-12T09:49:16+0000
+/project/feri-urnik/, feri-urnik, 1.0.0, A FERI schedule running in CLI, 2020-11-15T13:11:44+0000
+/project/gtdzen/, gtdzen, 0.1.3, Simple but flexible Getting Things Done task manager with tag-oriented workflow., 2009-06-24T12:14:20+0000
+/project/opengroupware/, OpenGroupware, 0.1.48, OpenGroupware Coils Groupware & Workflow Solution, 2012-10-16T09:50:41+0000
+/project/snurtle/, snurtle, 0.99.4, CLI for the OpenGroupware Collaboration/Workflow Platform, 2012-11-02T14:17:41+0000
+/project/jawanndenn/, jawanndenn, 2.4.4, Libre alternative to Doodle, 2020-08-07T18:23:26+0000
+/project/lifelogger/, lifelogger, 0.2.2, Track your life like a pro on Google Calendar via your terminal., 2018-03-09T14:03:13+0000
+/project/chronophore/, chronophore, 0.6.0, Desktop app for tracking sign-ins and sign-outs in a tutoring center., 2016-11-21T20:22:54+0000
+/project/todopy2/, todopy2, 1.3, Simple to-do list CLI manager in Python, 2013-09-11T13:52:08+0000
+/project/pystaffo/, PyStaffo, 0.1.4, A Staffomatic API Python wrapper, 2019-06-13T19:05:24+0000
+/project/hickory/, hickory, 1.0.0, The command line tool for scheduling Python scripts, 2020-08-25T20:04:58+0000
+/project/pdfschedule/, pdfschedule, 0.3.1, Weekly schedule typesetter, 2020-01-24T21:05:58+0000
+/project/calresa/, calresa, 0.1, Room booking viewer, 2017-01-15T13:11:04+0000
+/project/ls-joyous/, ls.joyous, 1.4.0, A calendar application for Wagtail., 2021-02-12T10:03:33+0000
+/project/resourcereservation/, ResourceReservation, 1.0.4, Resource Reservation plugin for Trac, 2011-05-19T10:14:25+0000
+/project/wtime/, wtime, 0.4, Week Time, 2019-05-05T21:45:18+0000
+/project/wrf4g/, wrf4g, 2.3.0, WRF for Grid (WRF4G) is a framework for the execution and monitoring of the WRF Modelling System., 2017-03-03T16:53:41+0000
+/project/volunteer-scheduler/, volunteer-scheduler, 2019.5.9, Volunteer workshift scheduler, 2019-05-09T18:47:12+0000
+/project/simplegtd/, simplegtd, 0.0.22, Manage your to-do list using the Getting Things Done system., 2020-06-29T13:27:40+0000
+/project/receptacle/, receptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-05T16:54:13+0000
+/project/treeoflife/, treeoflife, 0.0.4, A Tree of your Life (end-user application), 2014-03-22T06:04:56+0000
+/project/eascheduler/, EAScheduler, 0.1.0, Easy async scheduling with a nice interface, 2021-04-21T12:44:47+0000
+/project/tudo/, tudo, 0.1.0.dev6, A simple command-line based TODO-app in Python, 2016-12-30T16:13:44+0000
+/project/putcall/, putcall, 0.2, Collection of classical option pricing formulas., 2019-09-18T12:51:06+0000
+/project/lectocal/, lectocal, 1.2.1, Syncronize Lectio schedules to Google Calendar., 2018-09-17T11:37:55+0000
+/project/next-action/, next-action, 1.13.0, Command-line application to show the next action to work on from a todo.txt file, 2020-05-24T22:30:35+0000
+/project/horseshit/, horseshit, 0.0.5, Small script to configure your hosts file so you don't get distracted during the day, 2015-03-12T03:06:06+0000
+/project/pomodoro-calculator/, pomodoro-calculator, 1.0.2, A pretty command line tool to calculate the number of Pomodori available between two points in time., 2018-09-13T07:43:58+0000
+/project/django-agenda/, django-agenda, 0.7.2, A scheduling app for Django, 2021-04-01T05:14:46+0000
+/project/lino-voga/, lino-voga, 20.12.1, A Lino application for managing courses, participants and meeting rooms, 2020-12-26T09:54:08+0000
+/project/lino-avanti/, lino-avanti, 21.2.1, Manage the integration course of immigrants in East Belgium, 2021-02-13T15:31:52+0000
+/project/sesh/, sesh, 0.2.7, A tool for managing music classes from the command line., 2019-12-11T20:32:48+0000
+/project/ceptacle/, ceptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-08T21:45:45+0000
+/project/getitdone/, getitdone, 0.0.4, `getitdone` to-do list application... Let's make some lists!, 2021-04-12T20:58:39+0000
+/project/python-gantt-csv/, python-gantt-csv, 0.3.0, python-gantt-csv manage gantt.Task arguments with csv format., 2021-02-14T12:15:25+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pomodorino/, pomodorino, 0.1.0b1, Simple Pomodoro Timer, 2020-04-23T02:17:39+0000
+/project/pydidit/, pydidit, 0.1.7, A simple command line script to publish to iDoneThis, 2015-03-20T20:24:02+0000
+/project/atg/, atg, 0.0.6, A small timezone utility, 2015-07-05T13:04:22+0000
+/project/toggl-cli/, toggl-cli, 3, Command line interface for toggl timer app, 2016-10-24T04:34:33+0000
+/project/etm-qt/, etm_qt, 2.3.27, event and task manager, 2014-04-13T18:16:01+0000
+/project/synergy-scheduler/, synergy-scheduler, 2.3, Synergy Scheduler, 2020-06-13T19:03:09+0000
+/project/projectpredict/, projectpredict, 0.0.1, A library to help schedule projects intelligently., 2018-05-15T20:08:52+0000
+/project/kabaret/, kabaret, 2.1.12, VFX/Animation Studio Framework, 2020-02-28T15:45:33+0000
+/project/businesstimedelta/, businesstimedelta, 1.0.1, Timedelta for business time. Supports exact amounts of time (hours, seconds), custom schedules, holidays, and time zones., 2019-09-07T17:27:07+0000
+/project/todotxt-machine/, todotxt-machine, 2.2.2, An interactive terminal based todo.txt file editor with an interface similar to mutt, 2015-08-30T19:52:36+0000
+/project/icstools/, icstools, 0.2.2, cat/grep-like for icalendar calendar files (.ics), 2017-06-20T22:02:06+0000
+/project/timetravel/, timetravel, 1.0, A time machine for your calendar., 2016-11-08T21:12:17+0000
+/project/tardis/, tardis, 0.1, A minimal CalDAV client, 2019-10-27T12:39:21+0000
+/project/etmtk/, etmtk, 3.2.39, event and task manager, 2019-10-03T22:03:40+0000
+/project/workflow-templater/, workflow-templater, 0.2.7, Template engine for (currently) Jira and Email. Uses yaml and jinja2. It helps you create multiple (possibly cross-linked) jira issues and emails from a template., 2020-06-30T20:39:43+0000
+/project/rdfcalendar/, RDFCalendar, 0.2.6, Conversion of iCalendar/vCard resources to RDF information, 2007-09-18T22:19:26+0000
+/project/watson-jira/, watson-jira, 0.2.1, Format and upload Watson time logs to Jira as Tempo worklogs, 2019-10-01T18:14:07+0000
+/project/django-timepiece/, django-timepiece, 1.1.0, A multi-user application for tracking employee time on projects., 2016-03-01T00:26:15+0000
+/project/django-swingtime/, django-swingtime, 1.2.1, A Django calendaring application., 2021-02-28T04:17:22+0000
+/project/lapis-sim/, lapis-sim, 0.4.2, Lapis is an adaptable, performant, and interactive scheduling (Lapis) simulator, 2020-12-14T17:00:26+0000
+/project/drm4g/, drm4g, 2.6.13, DRM4G is an open platform for DCIs., 2021-02-17T18:01:45+0000
+/project/shortrate/, shortrate, 0.3, risk factor model library python style., 2019-09-18T12:51:18+0000
+/project/undertime/, undertime, 2.4.0, pick a meeting time, 2021-03-16T18:36:28+0000
+/project/notefinder/, notefinder, 0.9, Easy to use package for notes management, 2008-03-25T08:41:21+0000
+/project/eagle-cli/, eagle-cli, 0.5, Simple TODO tool for CLI., 2020-04-14T19:06:22+0000
+/project/codenotes/, Codenotes, 0.0.1, A simple CLI where you can save and view all your created annotations, 2021-02-14T23:24:43+0000
+/project/gcal2redmine/, gcal2redmine, 0.3.0.post2, Fill Redmine time tracker from a Google Calendar, 2019-07-30T15:03:09+0000
+/project/marketanalysis/, marketanalysis, 0.11, A repository for market holidays and trading days in NYSE and NASDAQ, 2021-04-14T08:53:49+0000
+/project/uw-restclients-wheniwork/, UW-RestClients-WhenIWork, 1.0.3, Client for the WhenIWork REST API, 2018-11-16T00:14:23+0000
+/project/manhourcalendar/, ManHourCalendar, 0.9.1b3, Calendar to manage your man-hour., 2017-09-15T17:03:06+0000
+/project/wammu/, wammu, 0.44, Wammu Mobile Phone Manager, 2018-01-05T14:40:34+0000
+/project/taskreport/, taskreport, 1.2.1, Automatic reporting tool for Taskwarrior, 2013-04-10T15:43:17+0000
+/project/pysugar/, pysugar, 0.0.6, Python binding of SugarCRM, that uses the SOAP API provided by SugarCRM, 2007-01-05T09:23:05+0000
+/project/eventmagic/, eventmagic, 0.2.1, Event scheduling with persistence for short-lived processes i.e. AWS Lambda, 2018-05-31T14:37:54+0000
+/project/python-electricity/, python-electricity, 0.0.7, Determine Electricity Tariff Periods in Python, 2021-02-09T21:52:35+0000
+/project/ics-lancstimtab/, ics-lancstimtab, 0.5.dev0, Python icalendar (rfc5545) parser, 2018-09-21T03:14:17+0000
+/project/ics/, ics, 0.7, Python icalendar (rfc5545) parser, 2020-02-29T19:34:32+0000
+/project/organizer/, Organizer, 1.3.1, Organizes a list of tasks., 2014-12-07T21:56:17+0000
+/project/gitrack/, gitrack, 0.1.0, Zero touch time tracking using Git, 2019-01-21T20:28:38+0000
+/project/aneris/, aneris, 0.6, curses time/project planner, 2015-06-03T20:01:33+0000
+/project/ortools/, ortools, 8.2.8710, Google OR-Tools python libraries and modules, 2021-03-04T10:11:57+0000
+/project/modipy/, ModiPy, 1.2.2, ModiPy change management system, 2009-08-25T22:19:23+0000
+/project/todoman/, todoman, 3.9.0, A simple CalDav-based todo manager., 2020-12-03T20:32:18+0000
+/project/business-python/, business-python, 1.0.3, Date calculations based on business calendars., 2020-11-17T16:20:38+0000
+/project/django-pendulum/, django-pendulum, 0.1.6-pre4, A simple timeclock/timecard application for use in Django-powered Web sites., 2010-12-28T03:48:35+0000
+/project/checkvist/, checkvist, 0.0.1.dev3, Checkvist REST API wrapper, 2020-12-02T00:49:01+0000
+/project/django-asana/, django-asana, 1.4.6, Django Asana integration project, 2021-03-09T14:55:25+0000
+/project/uw-ems-client/, UW-EMS-Client, 0.12, A client for the EMS SOAP API, 2019-06-18T21:48:09+0000
+/project/django-baseboard/, django-baseboard, 0.3, Dashboard view across various Basecamp projects, powered by Django, 2009-06-13T16:26:58+0000
+/project/pyade/, pyade, 0.0.2, Python client for ADE web API, 2015-04-25T14:01:17+0000
+/project/bizdatim/, bizdatim, 0.2.0, Module for performing simple business day arithmetic; forked from python-bizdatetime, 2016-11-22T23:39:28+0000
+/project/tracktrace/, tracktrace, 0.0.5, Track and trace shipping containers across all major steamship lines, 2020-12-28T23:51:23+0000
+/project/scriptter/, scriptter, 0.3, cron's missing brain. Stateful, time-based scripting., 2015-05-09T00:36:27+0000
+/project/ls-joyful/, ls.joyful, 0.1.3, A FullCalendar front end to Joyous., 2020-08-21T22:53:16+0000
+/project/email-assistant/, email-assistant, 0.0.0, Add entries to caldav servers based on email contents, 2019-06-08T21:29:54+0000
+/project/etm-dgraham/, etm-dgraham, 4.7.7, event and task manager, 2021-04-04T17:09:17+0000
+/project/pydotask/, pydotask, 0.4.3, PyDo is a CLI Application to keep you on track with your tasks and projects, 2017-11-03T02:55:15+0000
+/project/bdateutil/, bdateutil, 0.1, Adds business day logic and improved data type flexibility to python-dateutil., 2014-11-12T01:27:10+0000
+/project/sleipnir-shell/, sleipnir.shell, 0.2.2, A logistic system, 2013-03-20T21:11:29+0000
+/project/horascli/, horasCLI, 1.2.0, Simple CLI program to create a project hour schedule in markdown., 2018-11-28T07:12:00+0000
+/project/cheqlist/, cheqlist, 0.3.2, A simple Qt checklist., 2019-12-01T19:36:15+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/caldav/, caldav, 0.8.0, CalDAV (RFC4791) client library, 2021-03-11T11:20:29+0000
+/project/fiscalyear/, fiscalyear, 0.3.1, Utilities for managing the fiscal calendar, 2021-02-07T16:44:24+0000
+/project/lokai/, Lokai, 0.3, Extendable Business Process Management Application, 2012-07-10T15:36:33+0000
+/project/supersaas-api-client/, supersaas-api-client, 1.2.2, Online bookings/appointments/calendars using the SuperSaaS scheduling platform  - https://supersaas.com, 2020-04-17T11:56:57+0000
+/project/pyomodoro/, pyomodoro, 1.0.0, An easy to use CLI for the Pomodoro Technique., 2020-10-07T15:00:27+0000
+/project/holidays/, holidays, 0.11.1, Generate and work with holidays in Python, 2021-04-02T13:13:42+0000
+/project/prod-cal/, prod-cal, 0.1b7, Given module allows to use production calendars of different countries, 2016-04-07T05:25:57+0000
+/project/pomodoro-ctimer/, pomodoro-ctimer, 2.0.2, Pomodoro is a famous time management technique aka tomato clock. Pomodoro C-timer is written in python and tkinter. This is a well maintained project. Your contributions are welcome on github!, 2020-12-29T14:19:44+0000
+/project/remhind/, remhind, 0.1.1, A daemon to display notifications of iCalendar events, 2019-03-21T14:26:50+0000
+/project/taskjuggler-utils/, taskjuggler_utils, 0.1, Tools to help use "taskjuggler" without its GUI and produce nice reports., 2009-01-19T19:47:45+0000
+/project/django-calendardate/, django-calendardate, 0.1.3, A calendar model with date metadata for querying against., 2021-02-27T20:07:05+0000
+/project/products-calendarx/, Products.CalendarX, 1.0.4, CalendarX is a customizable, open source metacalendar application written for the Plone content management system on top of Zope and Python., 2012-12-08T02:05:16+0000
+/project/gumshoe/, gumshoe, 0.0.2, Issue tracking app based on django., 2014-05-12T12:23:26+0000
+/project/basecampreporting/, basecampreporting, 0.5, Read-only interface to Basecamp projects, with support for Scrum concepts like sprints and backlogs., 2009-04-22T23:42:40+0000
+/project/ical2org/, ical2org, 1.2, Convert iCal files to emacs org-mode data, 2010-03-22T13:47:25+0000
+/project/products-simplecalendarportlet/, Products.SimpleCalendarPortlet, 1.0b2, Simple to install and use portlet calendaring solution, 2012-11-01T08:42:09+0000
+/project/fullmoon/, fullmoon, 1.0.2, Determine the occurrence of the next full moon or to determine if a given date is/was/will be a full moon., 2020-07-04T01:00:44+0000
+/project/edrnsite-collaborations/, edrnsite.collaborations, 1.0.6, EDRN Collaborative Group Workspaces, 2018-09-05T14:57:58+0000
+/project/stamper/, stamper, 0.1.1, Time tracking tool, 2019-09-05T14:46:55+0000
+/project/processscheduler/, ProcessScheduler, 0.5.0, A package to solve resource-constrained scheduling problems using SMT theory/solver., 2021-04-23T14:05:51+0000
+/project/orgassist/, orgassist, 0.4.0, Assistant who handles your appointments, tasks and note-taking when you're away from your computer, 2018-06-08T06:54:12+0000
+/project/timeboard/, timeboard, 0.2.3, Calendar calculations over business days and work shifts, 2020-05-01T17:09:46+0000
+/project/libnofi/, libnofi, 1.0-dev, Easy to use package for notes management, 2008-04-02T11:25:30+0000
+/project/zeitzono/, zeitzono, 0.7.1, city based timezone converter with a curses (TUI) interface, 2020-06-14T00:36:16+0000
+/project/stalker-pyramid/, stalker_pyramid, 0.3.1, Stalker (ProdAM) Based Web App, 2021-03-07T22:48:03+0000
+/project/mathtoolspy/, mathtoolspy, 0.3, A fast, efficient Python library for mathematically operations, like integration, solver, distributions and other useful functions., 2019-09-18T12:50:52+0000
+/project/production-calendar/, production-calendar, 0.1b9, Given module allows to use production calendars of different countries, 2019-03-12T17:57:27+0000
+/project/stalker/, stalker, 0.2.24.3, A Production Asset Management (ProdAM) System, 2020-01-05T21:37:25+0000
+/project/django-calendardate/, django-calendardate, 0.1.3, A calendar model with date metadata for querying against., 2021-02-27T20:07:05+0000
+/project/products-calendarx/, Products.CalendarX, 1.0.4, CalendarX is a customizable, open source metacalendar application written for the Plone content management system on top of Zope and Python., 2012-12-08T02:05:16+0000
+/project/gumshoe/, gumshoe, 0.0.2, Issue tracking app based on django., 2014-05-12T12:23:26+0000
+/project/basecampreporting/, basecampreporting, 0.5, Read-only interface to Basecamp projects, with support for Scrum concepts like sprints and backlogs., 2009-04-22T23:42:40+0000
+/project/ical2org/, ical2org, 1.2, Convert iCal files to emacs org-mode data, 2010-03-22T13:47:25+0000
+/project/fullmoon/, fullmoon, 1.0.2, Determine the occurrence of the next full moon or to determine if a given date is/was/will be a full moon., 2020-07-04T01:00:44+0000
+/project/timewave/, timewave, 0.6, timewave, a stochastic process evolution simulation engine in python., 2019-09-18T12:53:35+0000
+/project/products-simplecalendar/, Products.SimpleCalendar, 1.0.1b4, Simple to install and use calendaring solution, 2012-11-01T08:40:47+0000
+/project/dcf/, dcf, 0.4, A Python library for generating discounted cashflows., 2020-10-11T17:36:47+0000
+/project/etm-dgraham/, etm-dgraham, 4.7.7, event and task manager, 2021-04-04T17:09:17+0000
+/project/pydotask/, pydotask, 0.4.3, PyDo is a CLI Application to keep you on track with your tasks and projects, 2017-11-03T02:55:15+0000
+/project/sleipnir-shell/, sleipnir.shell, 0.2.2, A logistic system, 2013-03-20T21:11:29+0000
+/project/horascli/, horasCLI, 1.2.0, Simple CLI program to create a project hour schedule in markdown., 2018-11-28T07:12:00+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/caldav/, caldav, 0.8.0, CalDAV (RFC4791) client library, 2021-03-11T11:20:29+0000
+/project/fiscalyear/, fiscalyear, 0.3.1, Utilities for managing the fiscal calendar, 2021-02-07T16:44:24+0000
+/project/lokai/, Lokai, 0.3, Extendable Business Process Management Application, 2012-07-10T15:36:33+0000
+/project/supersaas-api-client/, supersaas-api-client, 1.2.2, Online bookings/appointments/calendars using the SuperSaaS scheduling platform  - https://supersaas.com, 2020-04-17T11:56:57+0000
+/project/pyomodoro/, pyomodoro, 1.0.0, An easy to use CLI for the Pomodoro Technique., 2020-10-07T15:00:27+0000
+/project/cheqlist/, cheqlist, 0.3.2, A simple Qt checklist., 2019-12-01T19:36:15+0000
+/project/holidays/, holidays, 0.11.1, Generate and work with holidays in Python, 2021-04-02T13:13:42+0000
+/project/prod-cal/, prod-cal, 0.1b7, Given module allows to use production calendars of different countries, 2016-04-07T05:25:57+0000
+/project/pomodoro-ctimer/, pomodoro-ctimer, 2.0.2, Pomodoro is a famous time management technique aka tomato clock. Pomodoro C-timer is written in python and tkinter. This is a well maintained project. Your contributions are welcome on github!, 2020-12-29T14:19:44+0000
+/project/remhind/, remhind, 0.1.1, A daemon to display notifications of iCalendar events, 2019-03-21T14:26:50+0000

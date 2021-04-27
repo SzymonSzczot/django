@@ -1,0 +1,134 @@
+/project/agora-python-sdk/, agora-python-sdk, 3.1.2.10, Agora RTC Python SDK, 2021-03-17T08:50:56+0000
+/project/moviepy/, moviepy, 1.0.3, Video editing with Python, 2020-05-07T16:27:46+0000
+/project/mapsadam/, mapsadam, 0.2.21, Analog to Digital Audiovisual Machine, 2020-08-08T19:51:04+0000
+/project/rtspbrute/, rtspbrute, 1.0.3, Tool for RTSP that brute-forces routes and credentials, makes screenshots!, 2020-08-20T05:52:44+0000
+/project/pyk4a/, pyk4a, 1.2.3, Python wrapper over Azure Kinect SDK, 2021-04-08T17:17:30+0000
+/project/bullseye/, bullseye, 0.1.1, laser beam profiler, 2012-03-05T00:15:40+0000
+/project/camera-fusion/, camera-fusion, 0.0.8, Multiple cameras calibration and fusion with OpenCV Python., 2018-10-29T16:14:42+0000
+/project/ipcampy/, IpCamPy, 0.3.0, Easily control ip cameras. Comes with built in utilities to make a simple surveillance system., 2014-08-05T18:16:30+0000
+/project/surveillance-bot/, surveillance-bot, 1.0, Basic video surveillance system controlled through a telegram bot., 2020-06-16T18:06:28+0000
+/project/pixelinkwrapper/, pixelinkWrapper, 1.1.0, A Pixelink API Python wrapper for Pixelink cameras, 2021-01-07T21:13:44+0000
+/project/pubgis/, PUBGIS, 0.2.12, PUBG Location Tracker, 2017-10-23T06:58:09+0000
+/project/timedcapture/, timedcapture, 0.3.2, a cython-based module to achieve on-time capture through V4L2., 2021-01-23T11:26:01+0000
+/project/vor12/, vor12, 0.2, The Vor12 project, a mobile video camera created for object tracking experiments., 2015-09-04T18:13:28+0000
+/project/youtube-dl-cli/, youtube-dl-cli, 0.1.2, A tool that can download the video from youtube and easier to use., 2020-05-12T03:18:03+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jetserve-standard-library-py/, jetserve-standard-library-py, 0.0.3, jetserve_standard_library_py is IN-HOUSE python standard library for jetserve development team.(team 1), 2021-03-03T08:50:19+0000
+/project/beward/, beward, 1.0.14, Constants., 2021-03-23T04:05:04+0000
+/project/opentok-python-sdk/, opentok-python-sdk, 0.91.2, A python wrapper for the OpenTok video chat APIs., 2013-07-18T23:38:26+0000
+/project/qscreencast/, QScreenCast, 0.1.32, A no-nonsense screen-caster behind a QToolButton., 2021-04-09T07:53:21+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/pypylon/, pypylon, 1.7.2, The python wrapper for the Basler pylon Camera Software Suite., 2021-03-03T12:57:18+0000
+/project/rtsp/, rtsp, 1.1.8, RTSP client wrapper around gstreamer/opencv, 2020-02-25T14:32:13+0000
+/project/picamview/, picamview, 0.0.2, Camera Viewer for the Raspberry Pi, 2017-02-15T13:03:15+0000
+/project/monkeysign/, monkeysign, 2.2.4, OpenPGP key exchange for humans, 2018-06-18T17:27:52+0000
+/project/jaraco-video/, jaraco.video, 4.0.2, A pure-python framegrabber for Windows, 2021-03-15T02:02:08+0000
+/project/openallure/, openallure, 0.1d17, Voice-and-vision enabled dialog system, 2010-05-13T04:57:41+0000
+/project/mydia/, Mydia, 2.2.1, A simple and efficient wrapper for reading videos as NumPy tensors., 2018-10-30T22:13:39+0000
+/project/asciisciit/, asciisciit, 0.3.0, asciisciit is a Python toolbox for displaying and converting images, movies, and camera feeds into ascii., 2018-10-25T06:42:50+0000
+/project/pyhdhomerun/, pyhdhomerun, 2.3.4, HDHomeRun interface library., 2013-06-11T05:47:45+0000
+/project/freeseer/, freeseer, 3.0.1, Video recording and streaming software, 2014-01-03T01:49:45+0000
+/project/camai-castleguarders/, CamAi-castleguarders, 0.0.1, AI based Camera monitor and alerting system, 2019-10-02T16:16:12+0000
+/project/hdhrhttpapi/, hdhrhttpapi, 0.0.1, HDHomeRun HTTP API interface library for Python 3., 2020-06-01T16:29:49+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/airi/, airi, 0.1.1, AIRi software package, 2011-04-14T22:47:53+0000
+/project/pymba/, pymba, 0.3.7, Pymba is a Python wrapper for Allied Vision's Vimba C API., 2020-06-16T06:00:19+0000
+/project/linuxdvb/, linuxdvb, 0.1, Python bindings for Linux DVB API, 2010-09-07T07:01:06+0000
+/project/moviepy-patch/, moviepy-patch, 1.0.1, Video editing with Python, 2020-02-26T04:35:31+0000
+/project/v4l2/, v4l2, 0.2, Python bindings for the v4l2 userspace api., 2010-07-22T01:09:50+0000
+/project/pytgcalls/, pytgcalls, 0.0.19, Library connecting python binding for tgcalls and pyrogram, 2021-04-18T16:51:01+0000
+/project/sdss-araviscam/, sdss-araviscam, 0.0.5, Blackfly S GigE camera reader for SDSS-V/LVM, 2021-03-19T10:43:55+0000
+/project/pyzap/, pyzap, 0.3.0, Python wrapper library for ZapLib digital television (DVB) tuning library., 2013-06-24T09:40:43+0000
+/project/pylivestream/, pylivestream, 1.11.3, Livestream using FFmpeg to YouTube Live, Periscope, Facebook Live, Twitch, and many more, 2020-11-15T13:54:01+0000
+/project/shot-detector/, shot-detector, 0.0.5.dev3, Python shot detector based on PyAV, 2016-08-30T19:04:19+0000
+/project/gift-grab/, GIFT-Grab, 1708.post1, A C++ and NumPy-compatible Python API for acquiring, processing and encoding video streams in real time, 2017-10-12T07:30:50+0000
+/project/spyder-screencast/, spyder-screencast, 0.0.12, screencaster for spyder 5., 2021-04-17T09:12:26+0000
+/project/kazam/, kazam, 1.5.5, A screencasting program created with design in mind., 2019-08-27T07:04:29+0000
+/project/pyriscope/, pyriscope, 1.2.11, A simple Periscope video downloader for Python., 2017-01-27T09:51:31+0000
+/project/video-pipeline/, video-pipeline, 0.0.2, Simplify the video streaming pipeline to provide frame by frame image manipulation in near real-time., 2019-05-27T07:11:52+0000
+/project/pyschedules/, pyschedules, 0.2.22, Interface to Schedules Direct., 2013-09-05T05:21:16+0000
+/project/ktb/, ktb, 0.0.1, A python wrapper for the kinect built on pylibfreenect2, 2020-10-03T14:23:00+0000
+/project/zvbi/, Zvbi, 0.1.1, Interface to the Zapping VBI decoder library, 2020-05-30T07:28:03+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/endocal/, endocal, 18.2.13, A cross-platform, compact GUI application for the optical distortion calibration of fluid-immersed endoscopes., 2018-02-13T20:00:22+0000
+/project/pyvorcv/, pyvorcv, 0.1, The PyVoR-CV project, a computer vision library made for some VoRobotics projects (VoR11, VoR12, ...)., 2015-09-14T22:31:57+0000
+/project/sercomm/, sercomm, 0.1.1, A Python interface for Sercomm IP camera configuration, 2019-02-06T11:14:51+0000
+/project/gsteditor/, GstEditor, 0.1.0, GStreamer Graphical Pipeline Editor, 2009-05-01T18:37:57+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/hdhomerun/, hdhomerun, 0.2, Python bindings for libhdhomerun, 2014-07-12T14:04:24+0000
+/project/tgcalls/, tgcalls, 0.0.12, A python binding for tgcalls, 2021-04-18T16:24:19+0000
+/project/livecodingtv-publisher/, livecodingtv-publisher, 0.0.6, A livecodingtv streaming tool, 2015-03-03T20:11:27+0000
+/project/wrpclient/, wrpclient, 0.1, Workswell Remote Protocol Client, 2020-01-31T20:32:35+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/hdhr/, hdhr, 0.0.8, HDHomeRun interface library for Python 3., 2020-02-22T18:38:52+0000
+/project/raspi-door/, raspi_door, 0.7.1, Raspberry Pi Smart-ish Door, 2016-05-28T22:37:59+0000
+/project/ffmpegio/, ffmpegio, 0.0.7, Read/write media files with FFmpeg, 2021-04-22T14:02:05+0000
+/project/v4l2py/, v4l2py, 0.6.0, Human friendly video for linux, 2021-04-25T16:24:53+0000
+/project/pyk4a/, pyk4a, 1.2.3, Python wrapper over Azure Kinect SDK, 2021-04-08T17:17:30+0000
+/project/agora-python-sdk/, agora-python-sdk, 3.1.2.10, Agora RTC Python SDK, 2021-03-17T08:50:56+0000
+/project/moviepy/, moviepy, 1.0.3, Video editing with Python, 2020-05-07T16:27:46+0000
+/project/rtspbrute/, rtspbrute, 1.0.3, Tool for RTSP that brute-forces routes and credentials, makes screenshots!, 2020-08-20T05:52:44+0000
+/project/bullseye/, bullseye, 0.1.1, laser beam profiler, 2012-03-05T00:15:40+0000
+/project/mapsadam/, mapsadam, 0.2.21, Analog to Digital Audiovisual Machine, 2020-08-08T19:51:04+0000
+/project/camera-fusion/, camera-fusion, 0.0.8, Multiple cameras calibration and fusion with OpenCV Python., 2018-10-29T16:14:42+0000
+/project/qscreencast/, QScreenCast, 0.1.34, A no-nonsense screen-caster behind a QToolButton., 2021-04-25T08:52:26+0000
+/project/surveillance-bot/, surveillance-bot, 1.0, Basic video surveillance system controlled through a telegram bot., 2020-06-16T18:06:28+0000
+/project/pixelinkwrapper/, pixelinkWrapper, 1.1.0, A Pixelink API Python wrapper for Pixelink cameras, 2021-01-07T21:13:44+0000
+/project/pubgis/, PUBGIS, 0.2.12, PUBG Location Tracker, 2017-10-23T06:58:09+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/pypylon/, pypylon, 1.7.2, The python wrapper for the Basler pylon Camera Software Suite., 2021-03-03T12:57:18+0000
+/project/jetserve-standard-library-py/, jetserve-standard-library-py, 0.0.3, jetserve_standard_library_py is IN-HOUSE python standard library for jetserve development team.(team 1), 2021-03-03T08:50:19+0000
+/project/rtsp/, rtsp, 1.1.8, RTSP client wrapper around gstreamer/opencv, 2020-02-25T14:32:13+0000
+/project/picamview/, picamview, 0.0.2, Camera Viewer for the Raspberry Pi, 2017-02-15T13:03:15+0000
+/project/monkeysign/, monkeysign, 2.2.4, OpenPGP key exchange for humans, 2018-06-18T17:27:52+0000
+/project/pyhdhomerun/, pyhdhomerun, 2.3.4, HDHomeRun interface library., 2013-06-11T05:47:45+0000
+/project/ipcampy/, IpCamPy, 0.3.0, Easily control ip cameras. Comes with built in utilities to make a simple surveillance system., 2014-08-05T18:16:30+0000
+/project/opentok-python-sdk/, opentok-python-sdk, 0.91.2, A python wrapper for the OpenTok video chat APIs., 2013-07-18T23:38:26+0000
+/project/timedcapture/, timedcapture, 0.3.2, a cython-based module to achieve on-time capture through V4L2., 2021-01-23T11:26:01+0000
+/project/vor12/, vor12, 0.2, The Vor12 project, a mobile video camera created for object tracking experiments., 2015-09-04T18:13:28+0000
+/project/youtube-dl-cli/, youtube-dl-cli, 0.1.2, A tool that can download the video from youtube and easier to use., 2020-05-12T03:18:03+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jaraco-video/, jaraco.video, 4.0.2, A pure-python framegrabber for Windows, 2021-03-15T02:02:08+0000
+/project/openallure/, openallure, 0.1d17, Voice-and-vision enabled dialog system, 2010-05-13T04:57:41+0000
+/project/beward/, beward, 1.0.14, Constants., 2021-03-23T04:05:04+0000
+/project/mydia/, Mydia, 2.2.1, A simple and efficient wrapper for reading videos as NumPy tensors., 2018-10-30T22:13:39+0000
+/project/asciisciit/, asciisciit, 0.3.0, asciisciit is a Python toolbox for displaying and converting images, movies, and camera feeds into ascii., 2018-10-25T06:42:50+0000
+/project/freeseer/, freeseer, 3.0.1, Video recording and streaming software, 2014-01-03T01:49:45+0000
+/project/ffmpegio/, ffmpegio, 0.0.7, Read/write media files with FFmpeg, 2021-04-22T14:02:05+0000
+/project/camai-castleguarders/, CamAi-castleguarders, 0.0.1, AI based Camera monitor and alerting system, 2019-10-02T16:16:12+0000
+/project/hdhrhttpapi/, hdhrhttpapi, 0.0.1, HDHomeRun HTTP API interface library for Python 3., 2020-06-01T16:29:49+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/airi/, airi, 0.1.1, AIRi software package, 2011-04-14T22:47:53+0000
+/project/pymba/, pymba, 0.3.7, Pymba is a Python wrapper for Allied Vision's Vimba C API., 2020-06-16T06:00:19+0000
+/project/linuxdvb/, linuxdvb, 0.1, Python bindings for Linux DVB API, 2010-09-07T07:01:06+0000
+/project/moviepy-patch/, moviepy-patch, 1.0.1, Video editing with Python, 2020-02-26T04:35:31+0000
+/project/v4l2/, v4l2, 0.2, Python bindings for the v4l2 userspace api., 2010-07-22T01:09:50+0000
+/project/pytgcalls/, pytgcalls, 0.0.19, Library connecting python binding for tgcalls and pyrogram, 2021-04-18T16:51:01+0000
+/project/pyriscope/, pyriscope, 1.2.11, A simple Periscope video downloader for Python., 2017-01-27T09:51:31+0000
+/project/zvbi/, Zvbi, 0.1.1, Interface to the Zapping VBI decoder library, 2020-05-30T07:28:03+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/sdss-araviscam/, sdss-araviscam, 0.0.5, Blackfly S GigE camera reader for SDSS-V/LVM, 2021-03-19T10:43:55+0000
+/project/pyzap/, pyzap, 0.3.0, Python wrapper library for ZapLib digital television (DVB) tuning library., 2013-06-24T09:40:43+0000
+/project/pylivestream/, pylivestream, 1.11.3, Livestream using FFmpeg to YouTube Live, Periscope, Facebook Live, Twitch, and many more, 2020-11-15T13:54:01+0000
+/project/v4l2py/, v4l2py, 0.6.0, Human friendly video for linux, 2021-04-25T16:24:53+0000
+/project/gift-grab/, GIFT-Grab, 1708.post1, A C++ and NumPy-compatible Python API for acquiring, processing and encoding video streams in real time, 2017-10-12T07:30:50+0000
+/project/hdhr/, hdhr, 0.0.8, HDHomeRun interface library for Python 3., 2020-02-22T18:38:52+0000
+/project/pyvorcv/, pyvorcv, 0.1, The PyVoR-CV project, a computer vision library made for some VoRobotics projects (VoR11, VoR12, ...)., 2015-09-14T22:31:57+0000
+/project/sercomm/, sercomm, 0.1.1, A Python interface for Sercomm IP camera configuration, 2019-02-06T11:14:51+0000
+/project/tgcalls/, tgcalls, 0.0.12, A python binding for tgcalls, 2021-04-18T16:24:19+0000
+/project/livecodingtv-publisher/, livecodingtv-publisher, 0.0.6, A livecodingtv streaming tool, 2015-03-03T20:11:27+0000
+/project/wrpclient/, wrpclient, 0.1, Workswell Remote Protocol Client, 2020-01-31T20:32:35+0000
+/project/spyder-screencast/, spyder-screencast, 0.0.12, screencaster for spyder 5., 2021-04-17T09:12:26+0000
+/project/video-pipeline/, video-pipeline, 0.0.2, Simplify the video streaming pipeline to provide frame by frame image manipulation in near real-time., 2019-05-27T07:11:52+0000
+/project/pyschedules/, pyschedules, 0.2.22, Interface to Schedules Direct., 2013-09-05T05:21:16+0000
+/project/ktb/, ktb, 0.0.1, A python wrapper for the kinect built on pylibfreenect2, 2020-10-03T14:23:00+0000
+/project/endocal/, endocal, 18.2.13, A cross-platform, compact GUI application for the optical distortion calibration of fluid-immersed endoscopes., 2018-02-13T20:00:22+0000
+/project/pytgcalls/, pytgcalls, 0.0.19, Library connecting python binding for tgcalls and pyrogram, 2021-04-18T16:51:01+0000
+/project/tgcalls/, tgcalls, 0.0.12, A python binding for tgcalls, 2021-04-18T16:24:19+0000
+/project/livecodingtv-publisher/, livecodingtv-publisher, 0.0.6, A livecodingtv streaming tool, 2015-03-03T20:11:27+0000
+/project/wrpclient/, wrpclient, 0.1, Workswell Remote Protocol Client, 2020-01-31T20:32:35+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/hdhr/, hdhr, 0.0.8, HDHomeRun interface library for Python 3., 2020-02-22T18:38:52+0000
+/project/raspi-door/, raspi_door, 0.7.1, Raspberry Pi Smart-ish Door, 2016-05-28T22:37:59+0000

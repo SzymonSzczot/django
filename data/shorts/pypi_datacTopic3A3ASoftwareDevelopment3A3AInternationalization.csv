@@ -1,0 +1,378 @@
+/project/django-modeltranslation-wagtail/, django-modeltranslation-wagtail, 0.3, The glue between django-modeltranslation and wagtail, 2020-06-11T12:37:39+0000
+/project/unicodeutil/, unicodeutil, 12.1.dev2, Classes and functions for working with Unicode data., 2019-12-28T08:07:04+0000
+/project/pywebgettext/, pywebgettext, 0.0.3, Extract gettext strings from python template, 2016-05-25T20:33:32+0000
+/project/vznncv-cubemx-tools/, vznncv-cubemx-tools, 0.2.0, CMake project generator from STM32CubeMX project, 2018-06-17T21:24:49+0000
+/project/crowdin-cli-py/, crowdin-cli-py, 0.95.6, Command-line client for the crowdin.com, 2018-02-12T18:48:40+0000
+/project/weblate-language-data/, weblate-language-data, 2021.4, Language definitions for Weblate, 2021-04-15T08:39:24+0000
+/project/l18n/, l18n, 2020.6.1, Internationalization for pytz timezones and territories, 2020-10-31T04:04:08+0000
+/project/eye-websocket/, eye-websocket, 1.1.2, It is a utility to simplify service creation processes using websockets, 2021-04-13T15:59:47+0000
+/project/django-translations/, django-translations, 1.2.0, Django model translation for perfectionists with deadlines., 2021-01-27T15:03:28+0000
+/project/bingtranslator/, BingTranslator, 0.1, Micrososft Translator API V2 for Python, 2015-01-24T15:40:16+0000
+/project/pyicu-praxa/, pyicu-praxa, 1.7, Python extension wrapping the ICU C++ API (Praxa fork), 2014-04-03T14:38:32+0000
+/project/postpone/, postpone, 0.3.0, A lazy string implementation that doesn't rely on a global or thread local state., 2017-07-15T14:39:45+0000
+/project/severus/, severus, 1.1.1, An internationalization engine designed with simplicity in mind, 2021-03-08T22:16:39+0000
+/project/google-i18n-address/, google-i18n-address, 2.4.0, Address validation helpers for Google's i18n address database, 2020-08-28T09:07:32+0000
+/project/iconv-codecs/, iconv_codecs, 0.2a1, Python module to register all supported iconv codecs, 2009-03-05T21:24:46+0000
+/project/asgi-babel/, asgi-babel, 0.6.2, Adds internationalization (i18n) support to ASGI applications (Asyncio_ / Trio_), 2021-04-21T18:01:11+0000
+/project/lokalise-exporter/, lokalise-exporter, 0.18, Export strings from lokalise.co, 2017-12-19T22:56:33+0000
+/project/pytextseg/, pytextseg, 0.2.0, Python module for text segmentation., 2012-03-31T04:47:10+0000
+/project/icupy/, icupy, 0.5.0, Python bindings for ICU4C, 2021-03-12T13:57:03+0000
+/project/country-bounding-boxes/, country-bounding-boxes, 0.2.3, Library of bounding boxes of countries (and associated data), 2015-07-14T15:34:56+0000
+/project/pylint-i18n/, pylint-i18n, 1.0.0, Find strings in your code that should be passed through gettext, 2014-04-29T09:02:51+0000
+/project/biensoxe/, biensoxe, 0.8.5, Library to parse and validate Vietnamese vehicle plate, 2020-05-28T06:44:05+0000
+/project/htmlentity2ascii/, htmlentity2ascii, 1.0, Python module to convert html entities to ascii, 2012-09-18T15:54:47+0000
+/project/eggtranslations/, EggTranslations, 1.2.1, Provides an API for accessing localizations and resources packaged in python eggs, 2009-06-26T15:24:04+0000
+/project/flask-phrase/, Flask-Phrase, 1.0.0, Connect your Flask apps to PhraseApp, the powerful in-context-translation solution., 2015-07-15T11:23:07+0000
+/project/translate-po/, translate-po, 1.0.13, Automatic PO file translator, 2020-09-29T05:13:16+0000
+/project/mo-installer/, mo-installer, 0.3.0, Smoothly integrates mo files in setuptools packaging, 2018-12-06T07:36:02+0000
+/project/potojson/, potojson, 0.0.22, Pofile to JSON conversion without pain., 2021-04-05T20:34:22+0000
+/project/django-wapiti/, django-wapiti, 1.0.3, Django API layer, 2016-04-07T17:54:29+0000
+/project/lakh-crore-numbers/, lakh-crore-numbers, 0.1.0, A Python library for formatting numbers into the Lakh Crore (...हजार, लाख, करोड, अर्ब...) system., 2021-02-24T21:46:35+0000
+/project/pyicu/, PyICU, 2.7.2, Python extension wrapping the ICU C++ API, 2021-04-15T19:17:46+0000
+/project/i18n/, i18n, 0.2, Simplify the development of internationalized applications, 2012-10-31T19:18:28+0000
+/project/goslate/, goslate, 1.5.1, Goslate: Free Google Translate API, 2016-01-04T16:39:22+0000
+/project/iso4217/, iso4217, 1.6.20180829, ISO 4217 currency data package for Python, 2019-10-12T19:05:28+0000
+/project/tocolib/, tocolib, 0.3.1, A utility library, 2019-01-02T06:03:28+0000
+/project/bumblebee-status/, bumblebee-status, 2.1.4, a modular, theme-able status line generator for the i3 window manager., 2021-03-18T19:27:18+0000
+/project/h10n/, h10n, 0.1b1, Humanization: i18n & l10n framework, 2012-09-26T07:53:02+0000
+/project/zope-ucol/, zope.ucol, 1.0.2, Python access to ICU text collation, 2006-10-16T22:26:57+0000
+/project/speaklater3/, speaklater3, 1.4, Implements a lazy string for python useful for use with gettext. This version is compatible with Python 3, 2017-09-08T06:31:08+0000
+/project/qfunction/, qfunction, 1.0.0, Uma simples biblioteca com funções deformadas, 2020-12-12T02:03:02+0000
+/project/sadedegel-icu/, sadedegel-icu, 2.6, Python extension wrapping the ICU C++ API, 2021-03-01T22:24:24+0000
+/project/uniscripts/, uniscripts, 1.0.5, query Unicode script metadata, 2015-05-10T04:52:51+0000
+/project/translationsclient/, TranslationsClient, 0.1.0, A translations service Python client, 2016-07-25T13:39:54+0000
+/project/django-vinaigrette/, django-vinaigrette, 2.0.1, Translate Django model data using gettext, 2020-01-10T19:38:22+0000
+/project/weblate/, weblate, 4.6, A web-based continuous localization system with tight version control integration, 2021-04-19T05:57:52+0000
+/project/zarnegar-converter/, zarnegar-converter, 0.1.3, Converter for Zarnegar Encoding and File Format to Unicode Text Files, 2017-05-11T23:13:00+0000
+/project/telwoord/, telwoord, 0.4, Convert numbers into their Dutch written form, 2015-05-22T18:58:52+0000
+/project/translationstring/, translationstring, 1.4, Utility library for i18n relied on by various Repoze and Pyramid packages, 2020-07-09T11:58:30+0000
+/project/std-domain/, std-domain, 0.0.5, A library for standarized Domain objects, 2016-06-05T21:28:08+0000
+/project/workadays/, workadays, 2020.12.23, Calendário de dias úteis, dias corridos e dias 360 (30/360), 2020-12-23T19:06:52+0000
+/project/num2words/, num2words, 0.5.10, Modules to convert numbers to words. Easily extensible., 2019-05-12T17:41:07+0000
+/project/django-lokalise/, django-lokalise, 0.1.6, Lokalise (https://lokalise.co) module for Django, 2017-03-18T08:07:45+0000
+/project/localizedstringkit/, localizedstringkit, 0.1.8, Generate .strings files directly from your code, 2020-10-01T17:01:11+0000
+/project/iso-3166-1/, iso-3166-1, 0.0.3, ISO 3361-1 Country code package for Python, 2015-11-17T16:45:45+0000
+/project/somarevex/, somarevex, 1.0.4, Soma dois valores e retorna o resultado, 2020-03-18T19:17:27+0000
+/project/precis-i18n/, precis-i18n, 1.0.3, PRECIS-i18n: Internationalized Usernames and Passwords, 2021-02-22T01:36:31+0000
+/project/postal-address/, postal-address, 1.4.1, Parse, normalize and render postal addresses., 2019-07-19T10:52:13+0000
+/project/hijri-converter/, hijri-converter, 2.1.1, Accurate Hijri-Gregorian date converter based on the Umm al-Qura calendar, 2020-05-23T17:43:03+0000
+/project/qtheory/, qtheory, 1.0.0, Library for queuing theory calculation, 2020-04-14T14:56:10+0000
+/project/arrr/, arrr, 1.0.2, A module and command to turn English into Pirate speak., 2020-07-11T12:45:18+0000
+/project/temperature-converter-py/, temperature-converter-py, 1.0.1, , 2020-06-17T14:28:35+0000
+/project/weblate-schemas/, weblate-schemas, 0.6, A collection of schemas used by Weblate, 2021-03-05T14:47:51+0000
+/project/colortext/, ColorText, 1.0.1, Programa simples de mudança de cor de texto, 2020-11-13T20:45:12+0000
+/project/numinwords/, numinwords, 0.5.10, Modules to convert numbers to words. Easily extensible.                Guatemala test, 2020-04-17T06:16:41+0000
+/project/nslocalized/, nslocalized, 0.2.0, Reads and writes Mac OS X .strings files, 2016-01-11T11:45:32+0000
+/project/pangu/, pangu, 4.0.6.1, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-02-08T18:17:28+0000
+/project/angular-gettext-babel/, angular-gettext-babel, 0.3, A plugin for babel to work with angular-gettext templates, 2015-07-14T19:13:14+0000
+/project/django-rosetta/, django-rosetta, 0.9.6, A Django application that eases the translation of Django projects, 2021-03-19T14:35:25+0000
+/project/django-linguist/, django-linguist, 0.5.0, An application to manage translations in Django models, 2019-12-30T09:57:32+0000
+/project/translationsserver/, TranslationsServer, 0.1.1, The translations service server, 2016-08-01T13:38:38+0000
+/project/konstrukteur/, konstrukteur, 0.1.14, Static website generator, 2014-03-20T12:58:31+0000
+/project/cpf-tools/, cpf-tools, 1.0.0, , 2021-04-03T23:44:37+0000
+/project/arrr1/, arrr1, 1.0.1, A module and command to turn English into Pirate speak., 2020-06-20T23:50:24+0000
+/project/sanetime/, sanetime, 4.2.3, A sane date/time python interface:  better epoch time, timezones, and deltas -- django support as well, 2013-01-23T07:35:52+0000
+/project/brl-conversor/, brl-conversor, 1.0.0, A simple converter for BRL from other currencies like USD and EUR., 2019-08-01T14:00:40+0000
+/project/ikazuchi/, ikazuchi, 0.5.6, ikazuchi helps to translate document using web translate APIs efficiently, 2016-11-23T05:53:06+0000
+/project/django-translation-manager/, django-translation-manager, 1.1.1, Django app for managing translations from admin, 2020-01-21T11:02:29+0000
+/project/zope-app-locales/, zope.app.locales, 4.1, Zope locale extraction and management utilities, 2019-06-24T15:55:45+0000
+/project/itools/, itools, 0.77.8, The itools library, 2017-10-21T17:48:40+0000
+/project/i18nize-templates/, i18nize_templates, 0.2, Adds i18n markup to jinja2 and handlebars templates., 2018-02-02T19:18:02+0000
+/project/python-gettext/, python-gettext, 4.0, Python Gettext po to mo file compiler., 2018-11-27T09:25:09+0000
+/project/zest-pocompile/, zest.pocompile, 1.5.0, Compile po files when releasing a package, 2020-01-29T15:02:00+0000
+/project/poimport/, poimport, 1.1, A library to load and create po translation files., 2019-08-24T02:09:55+0000
+/project/isover10/, isover10, 0.1.5, Check whether two lines A (x1,x2) and B (x3,x4) on the x-axis whether they overlap or not, 2019-04-06T22:00:28+0000
+/project/cihai-cli/, cihai-cli, 0.6.0, Command line frontend for the cihai CJK language library, 2020-08-09T19:41:36+0000
+/project/transifex/, transifex, 1.2.1, The software behind Transifex.com, the open service to collaboratively translate software, documentation and websites., 2012-01-08T13:07:49+0000
+/project/django-walletpass/, django-walletpass, 1.2, Django .pkpass builder, server and push notifications, 2020-03-25T18:49:35+0000
+/project/ucs-detect/, ucs-detect, 0.0.4, Detects the Unicode Version of an interactive terminal for export, 2020-06-20T18:31:02+0000
+/project/pyramid-i18n-helper/, pyramid-i18n-helper, 0.3.6, Small tool to help in i18n and l10n, 2018-02-04T10:51:24+0000
+/project/django-extra-keywords/, django-extra_keywords, 1.1.2, Extra gettext keywords handling in Django, 2015-04-15T21:40:23+0000
+/project/distutils-ui/, distutils-ui, 0.1.3, A distutils build extension for PyQt{4,5} applications, 2020-10-02T16:06:09+0000
+/project/pyicu-bidi/, PyICU_BiDi, 0.0.3, The Unicode bidirectional algorithm from ICU, 2018-07-22T18:52:58+0000
+/project/beaufort-scale/, beaufort-scale, 1.0.1, , 2020-06-19T18:47:03+0000
+/project/penelope/, penelope, 3.1.3.0, Penelope is a multi-tool for creating, editing and converting dictionaries, especially for eReader devices, 2016-09-23T09:27:17+0000
+/project/mongoengine-mls/, mongoengine-mls, 1.1.0, MultiLingualField for MongoEngine, 2015-04-17T15:06:28+0000
+/project/weblate-a1az/, Weblate-a1az, 4.3.2.2, A web-based continuous localization system with tight version control integration, 2020-11-26T04:34:34+0000
+/project/jasy/, jasy, 1.1.1, Web Tooling Framework, 2013-08-15T09:34:50+0000
+/project/autotasks/, autotasks, 2020.12.10, Pacote de automação de processos, 2020-12-10T12:40:15+0000
+/project/lunisolar/, lunisolar, 0.1.3, A library to handle the Chinese calendar, 2013-02-12T11:58:02+0000
+/project/conversao-temperatura/, conversao-temperatura, 1.0.0, Um simples conversor de temperatura (Celsius - Fahrenheit), 2021-04-04T14:52:49+0000
+/project/mls/, mls, 1.2.2, MultiLingualString, 2015-04-13T16:38:08+0000
+/project/tylinkmap/, tylinkmap, 0.1.0, link map tool for iOS / macOS developers, 2017-03-03T07:19:45+0000
+/project/pycountry/, pycountry, 20.7.3, ISO country, subdivision, language, currency and script definitions and their translations, 2020-07-03T06:05:11+0000
+/project/polyquack/, polyquack, 0.2.4, utilities for polyglots, 2020-09-09T17:11:07+0000
+/project/babel-vue-extractor/, babel-vue-extractor, 1.4.3, A plugin for babel to work with vue.js templates, 2018-07-11T12:30:22+0000
+/project/ikazuchi-plugins-pofile/, ikazuchi.plugins.pofile, 0.1.2, Handle PO file with ikazuchi to translate msgid, 2011-11-26T08:15:50+0000
+/project/crowdin-client/, crowdin-client, 0.4, Command-line client for the crowdin.net API, 2014-11-10T13:32:40+0000
+/project/kitchen/, kitchen, 1.2.6, Kitchen contains a cornucopia of useful code, 2019-05-14T19:52:35+0000
+/project/strsync/, strsync, 1.8, strsync - Automatically translate and synchronize localizable resource files from defined base language for Xcode., 2019-04-06T14:47:08+0000
+/project/convert2utf/, convert2utf, 1.3.2, A one-line command that converts source code files into UTF-8 or UTF-8-BOM., 2018-12-25T14:26:27+0000
+/project/emailvalid/, emailvalid, 1.0, Python module to validate eMail, 2012-11-13T10:12:07+0000
+/project/andaluh/, andaluh, 0.2.1, Transliterate español (spanish) spelling to andaluz proposals, 2020-08-22T19:48:59+0000
+/project/unihan-db/, unihan-db, 0.1.0, SQLAlchemy models for UNIHAN database, 2020-08-09T17:15:12+0000
+/project/mdpo/, mdpo, 0.3.12, Markdown file translation utilities using pofiles., 2021-04-12T12:19:42+0000
+/project/speaklater/, speaklater, 1.3, implements a lazy string for python useful for use with gettext, 2012-07-01T16:01:28+0000
+/project/pycu/, pycu, 0.2.0, PyICU Wrapper, 2017-04-21T13:23:49+0000
+/project/django-transadmin/, django-transadmin, 0.4, Translate texts from the admin interface., 2017-07-17T06:42:40+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/django-translatable/, django-translatable, 0.1.1, Django app providing simple translatable models system, 2011-04-02T08:47:47+0000
+/project/setup-qt/, setup_qt, 1.0.0, Compile Qt resource files, UI files and translations in setup.py, 2017-03-23T17:03:48+0000
+/project/weblate-em0t/, Weblate-em0t, 4.2, A web-based continuous localization system with tight version control integration, 2020-08-13T10:07:14+0000
+/project/django-tradukoj/, django-tradukoj, 1.2.4, A django IETF's BCP 47 DB-based translation system, 2020-06-25T16:16:39+0000
+/project/rbtranslations/, rbtranslations, 0.9.5, Java ResourceBundle like approach to localization., 2013-01-13T17:00:09+0000
+/project/wlc/, wlc, 1.11, A command line utility for Weblate, translation tool with tight version control integration, 2021-03-17T08:30:37+0000
+/project/plate/, Plate, 1.0.0, Internationalization Library for Python, 2020-03-20T02:42:35+0000
+/project/doublespeak/, doublespeak, 0.3, Babel/distutils commands to help with managing Javascript translations., 2016-03-07T08:22:11+0000
+/project/pangu2/, pangu2, 5.0, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-08-02T07:48:50+0000
+/project/substream/, substream, 0.1.1, Transcribes audio files to .srt, 2019-06-06T00:54:29+0000
+/project/quokka-speaklater/, quokka-speaklater, 1.3.1, Fork of implements a lazy string for python useful for use with gettext, 2015-08-23T18:00:21+0000
+/project/klocmod/, klocmod, 0.2.1, A simple module providing facilities to localize small programs via textual files., 2019-11-13T20:07:10+0000
+/project/datazeus/, datazeus, 0.0.1, Busca de parâmetros para machine learning, 2020-05-05T01:45:31+0000
+/project/django-phrase/, django-phrase, 1.0.8, Connect your Django apps to Phrase, the powerful in-context-translation solution., 2020-10-16T07:10:32+0000
+/project/pybabel-angularjs/, pybabel-angularjs, 1.3.5, An AngularJS extractor for Babel, 2018-10-10T20:35:27+0000
+/project/brunno/, brunno, 1.0.3, lib for math and phisyc, 2019-10-08T10:25:26+0000
+/project/django-makemessages-xgettext/, django-makemessages-xgettext, 0.1.1, makemessages command that allows for arguments to be passed to xgettext., 2015-12-23T20:32:02+0000
+/project/sdk-ifood/, sdk-ifood, 1.0.0a20, SDK com as features da API do IFood, 2021-04-10T19:41:12+0000
+/project/replace-value-txt/, replace-value-txt, 1.0.0, , 2020-11-01T16:04:56+0000
+/project/djangocms-rosetta/, djangocms-rosetta, 0.0, Add links to rosetta's translation interface in the Django CMS Toolbar., 2015-09-30T19:09:30+0000
+/project/weblate-fedora-messaging/, weblate-fedora-messaging, 0.4, Weblate Fedora Messaging integration, 2021-03-18T15:36:16+0000
+/project/compare-string-version/, compare-string-version, 0.1.0, accepts 2 version string as input and returns whether one is greater than, equal, or less than the other, 2019-04-07T03:54:15+0000
+/project/doublespeak/, doublespeak, 0.3, Babel/distutils commands to help with managing Javascript translations., 2016-03-07T08:22:11+0000
+/project/pangu2/, pangu2, 5.0, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-08-02T07:48:50+0000
+/project/datazeus/, datazeus, 0.0.1, Busca de parâmetros para machine learning, 2020-05-05T01:45:31+0000
+/project/django-phrase/, django-phrase, 1.0.8, Connect your Django apps to Phrase, the powerful in-context-translation solution., 2020-10-16T07:10:32+0000
+/project/brunno/, brunno, 1.0.3, lib for math and phisyc, 2019-10-08T10:25:26+0000
+/project/igenius-lokalise-exporter/, iGenius-lokalise-exporter, 0.22, Export strings from lokalise.com, 2020-12-01T13:44:24+0000
+/project/crowdin-client/, crowdin-client, 0.4, Command-line client for the crowdin.net API, 2014-11-10T13:32:40+0000
+/project/kitchen/, kitchen, 1.2.6, Kitchen contains a cornucopia of useful code, 2019-05-14T19:52:35+0000
+/project/mdpo/, mdpo, 0.3.12, Markdown file translation utilities using pofiles., 2021-04-12T12:19:42+0000
+/project/pycu/, pycu, 0.2.0, PyICU Wrapper, 2017-04-21T13:23:49+0000
+/project/codepoints/, codepoints, 1.0, Converts code point sequences to and from Unicode strings, 2017-02-10T19:12:32+0000
+/project/microsofttranslator/, microsofttranslator, 0.8, Microsoft Translator V2 - Python API, 2016-05-09T11:07:43+0000
+/project/flaskpress-speaklater/, flaskpress-speaklater, 1.3.0, Implements a lazy string for python for use with gettext, 2017-06-21T09:03:32+0000
+/project/wcwidth/, wcwidth, 0.2.5, Measures the displayed width of unicode strings in a terminal, 2020-06-23T16:10:28+0000
+/project/i18nparse/, i18nparse, 0.7.0, Provides translations for argparse module, 2018-12-06T14:16:23+0000
+/project/django-datatrans/, django-datatrans, 0.1.5, Translate Django models without changing anything to existing applications and their underlying database., 2013-09-19T14:12:25+0000
+/project/banknumber/, banknumber, 2.0, Python module to validate Bank codes, 2016-09-22T10:39:38+0000
+/project/andaluh-po/, andaluh-po, 0.0.1, Transliterate español (spanish) gettext po files to andaluz spelling proposals, 2019-02-28T16:42:28+0000
+/project/cihai/, cihai, 0.10.0, Library for CJK (chinese, japanese, korean) language data., 2020-08-09T19:29:22+0000
+/project/yorbay/, yorbay, 0.1.dev1, Localization framework based on l20n file format, 2015-02-18T17:01:27+0000
+/project/aluratemp/, aluratemp, 1.0.0, Um simples conversor de temperatura (Celsius - Fahrenheit), 2018-04-26T17:12:43+0000
+/project/z3locales/, z3locales, 0.4.1, Display localized dates in Zope 2 using Zope 3 components., 2013-05-23T09:23:02+0000
+/project/flufl-i18n/, flufl.i18n, 3.1.5, High level API for internationalizing Python libraries and applications., 2021-02-15T19:32:50+0000
+/project/banknumber/, banknumber, 2.0, Python module to validate Bank codes, 2016-09-22T10:39:38+0000
+/project/andaluh-po/, andaluh-po, 0.0.1, Transliterate español (spanish) gettext po files to andaluz spelling proposals, 2019-02-28T16:42:28+0000
+/project/cihai/, cihai, 0.10.0, Library for CJK (chinese, japanese, korean) language data., 2020-08-09T19:29:22+0000
+/project/yorbay/, yorbay, 0.1.dev1, Localization framework based on l20n file format, 2015-02-18T17:01:27+0000
+/project/translation-finder/, translation-finder, 2.9, A translation file finder used in Weblate., 2021-01-29T12:59:35+0000
+/project/transdb/, transdb, 0.9, I18n django reusable app, 2010-11-16T13:26:32+0000
+/project/wheezy-core/, wheezy.core, 3.0.1, A lightweight core library, 2020-12-12T13:20:58+0000
+/project/jproperties3/, jproperties3, 0.5.2, Python library for Java .properties file parsing, 2017-03-15T19:44:12+0000
+/project/pybrackets/, pybrackets, 1.0.1, Remove brackets, 2019-03-31T22:41:18+0000
+/project/forex-python/, forex-python, 1.5, Foreign exchange rates and currency conversion., 2019-04-05T15:42:34+0000
+/project/collective-synchronisedworkflow/, collective.synchronisedworkflow, 1.0, Causes translated Plone content to share the same workflow state., 2010-01-12T07:31:39+0000
+/project/ipapy/, ipapy, 0.0.9.0, ipapy is a Python module to work with IPA strings, 2019-05-05T22:27:35+0000
+/project/vatnumber/, vatnumber, 1.2, [UNMAINTAINED] Python module to validate VAT numbers, 2014-06-25T21:54:15+0000
+/project/cjkwrap/, CJKwrap, 2.2, CJKwrap is a library for wrapping and filling CJK text. Fix Python issue24665, 2016-12-27T06:19:47+0000
+/project/brutils/, brutils, 1.0.1, Provides validation and other tools for Brazilian document numbers., 2017-01-21T19:05:00+0000
+/project/latex-ji18n/, latex-ji18n, 0.0.6, LaTeX Jinja2 i18n utilities., 2020-11-27T10:26:07+0000
+/project/codepoints/, codepoints, 1.0, Converts code point sequences to and from Unicode strings, 2017-02-10T19:12:32+0000
+/project/microsofttranslator/, microsofttranslator, 0.8, Microsoft Translator V2 - Python API, 2016-05-09T11:07:43+0000
+/project/flaskpress-speaklater/, flaskpress-speaklater, 1.3.0, Implements a lazy string for python for use with gettext, 2017-06-21T09:03:32+0000
+/project/wcwidth/, wcwidth, 0.2.5, Measures the displayed width of unicode strings in a terminal, 2020-06-23T16:10:28+0000
+/project/unidump/, unidump, 1.1.2, hexdump for your unicode data, 2017-03-19T19:48:26+0000
+/project/unihan-tabular/, unihan-tabular, 0.8.1, Export UNIHAN to Python, Data Package, CSV, JSON and YAML, 2017-05-21T00:50:27+0000
+/project/polint/, polint, 0.4, Linter for gettext PO files, 2018-11-30T12:57:50+0000
+/project/pybabel-htmlbars/, pybabel-htmlbars, 0.2.0, Pybabel HTMLBars gettext strings extractor, 2016-01-05T09:40:09+0000
+/project/i18nparse/, i18nparse, 0.7.0, Provides translations for argparse module, 2018-12-06T14:16:23+0000
+/project/django-datatrans/, django-datatrans, 0.1.5, Translate Django models without changing anything to existing applications and their underlying database., 2013-09-19T14:12:25+0000
+/project/django-modeltranslation-wagtail/, django-modeltranslation-wagtail, 0.3, The glue between django-modeltranslation and wagtail, 2020-06-11T12:37:39+0000
+/project/unicodeutil/, unicodeutil, 12.1.dev2, Classes and functions for working with Unicode data., 2019-12-28T08:07:04+0000
+/project/pywebgettext/, pywebgettext, 0.0.3, Extract gettext strings from python template, 2016-05-25T20:33:32+0000
+/project/vznncv-cubemx-tools/, vznncv-cubemx-tools, 0.2.0, CMake project generator from STM32CubeMX project, 2018-06-17T21:24:49+0000
+/project/crowdin-cli-py/, crowdin-cli-py, 0.95.6, Command-line client for the crowdin.com, 2018-02-12T18:48:40+0000
+/project/weblate-language-data/, weblate-language-data, 2021.4, Language definitions for Weblate, 2021-04-15T08:39:24+0000
+/project/l18n/, l18n, 2020.6.1, Internationalization for pytz timezones and territories, 2020-10-31T04:04:08+0000
+/project/eye-websocket/, eye-websocket, 1.1.2, It is a utility to simplify service creation processes using websockets, 2021-04-13T15:59:47+0000
+/project/pylint-i18n/, pylint-i18n, 1.0.0, Find strings in your code that should be passed through gettext, 2014-04-29T09:02:51+0000
+/project/lokalise-exporter/, lokalise-exporter, 0.18, Export strings from lokalise.co, 2017-12-19T22:56:33+0000
+/project/django-wapiti/, django-wapiti, 1.0.3, Django API layer, 2016-04-07T17:54:29+0000
+/project/lakh-crore-numbers/, lakh-crore-numbers, 0.1.0, A Python library for formatting numbers into the Lakh Crore (...हजार, लाख, करोड, अर्ब...) system., 2021-02-24T21:46:35+0000
+/project/country-bounding-boxes/, country-bounding-boxes, 0.2.3, Library of bounding boxes of countries (and associated data), 2015-07-14T15:34:56+0000
+/project/biensoxe/, biensoxe, 0.8.5, Library to parse and validate Vietnamese vehicle plate, 2020-05-28T06:44:05+0000
+/project/django-translations/, django-translations, 1.2.0, Django model translation for perfectionists with deadlines., 2021-01-27T15:03:28+0000
+/project/bingtranslator/, BingTranslator, 0.1, Micrososft Translator API V2 for Python, 2015-01-24T15:40:16+0000
+/project/pyicu-praxa/, pyicu-praxa, 1.7, Python extension wrapping the ICU C++ API (Praxa fork), 2014-04-03T14:38:32+0000
+/project/postpone/, postpone, 0.3.0, A lazy string implementation that doesn't rely on a global or thread local state., 2017-07-15T14:39:45+0000
+/project/htmlentity2ascii/, htmlentity2ascii, 1.0, Python module to convert html entities to ascii, 2012-09-18T15:54:47+0000
+/project/eggtranslations/, EggTranslations, 1.2.1, Provides an API for accessing localizations and resources packaged in python eggs, 2009-06-26T15:24:04+0000
+/project/flask-phrase/, Flask-Phrase, 1.0.0, Connect your Flask apps to PhraseApp, the powerful in-context-translation solution., 2015-07-15T11:23:07+0000
+/project/severus/, severus, 1.1.1, An internationalization engine designed with simplicity in mind, 2021-03-08T22:16:39+0000
+/project/google-i18n-address/, google-i18n-address, 2.4.0, Address validation helpers for Google's i18n address database, 2020-08-28T09:07:32+0000
+/project/iconv-codecs/, iconv_codecs, 0.2a1, Python module to register all supported iconv codecs, 2009-03-05T21:24:46+0000
+/project/asgi-babel/, asgi-babel, 0.6.2, Adds internationalization (i18n) support to ASGI applications (Asyncio_ / Trio_), 2021-04-21T18:01:11+0000
+/project/translate-po/, translate-po, 1.0.13, Automatic PO file translator, 2020-09-29T05:13:16+0000
+/project/mo-installer/, mo-installer, 0.3.0, Smoothly integrates mo files in setuptools packaging, 2018-12-06T07:36:02+0000
+/project/potojson/, potojson, 0.0.22, Pofile to JSON conversion without pain., 2021-04-05T20:34:22+0000
+/project/pyicu/, PyICU, 2.7.2, Python extension wrapping the ICU C++ API, 2021-04-15T19:17:46+0000
+/project/i18n/, i18n, 0.2, Simplify the development of internationalized applications, 2012-10-31T19:18:28+0000
+/project/pytextseg/, pytextseg, 0.2.0, Python module for text segmentation., 2012-03-31T04:47:10+0000
+/project/icupy/, icupy, 0.5.0, Python bindings for ICU4C, 2021-03-12T13:57:03+0000
+/project/goslate/, goslate, 1.5.1, Goslate: Free Google Translate API, 2016-01-04T16:39:22+0000
+/project/brl-conversor/, brl-conversor, 1.0.0, A simple converter for BRL from other currencies like USD and EUR., 2019-08-01T14:00:40+0000
+/project/ikazuchi/, ikazuchi, 0.5.6, ikazuchi helps to translate document using web translate APIs efficiently, 2016-11-23T05:53:06+0000
+/project/django-translation-manager/, django-translation-manager, 1.1.1, Django app for managing translations from admin, 2020-01-21T11:02:29+0000
+/project/qfunction/, qfunction, 1.0.0, Uma simples biblioteca com funções deformadas, 2020-12-12T02:03:02+0000
+/project/sadedegel-icu/, sadedegel-icu, 2.6, Python extension wrapping the ICU C++ API, 2021-03-01T22:24:24+0000
+/project/uniscripts/, uniscripts, 1.0.5, query Unicode script metadata, 2015-05-10T04:52:51+0000
+/project/translationsclient/, TranslationsClient, 0.1.0, A translations service Python client, 2016-07-25T13:39:54+0000
+/project/django-vinaigrette/, django-vinaigrette, 2.0.1, Translate Django model data using gettext, 2020-01-10T19:38:22+0000
+/project/weblate/, weblate, 4.6, A web-based continuous localization system with tight version control integration, 2021-04-19T05:57:52+0000
+/project/zope-app-locales/, zope.app.locales, 4.1, Zope locale extraction and management utilities, 2019-06-24T15:55:45+0000
+/project/itools/, itools, 0.77.8, The itools library, 2017-10-21T17:48:40+0000
+/project/i18nize-templates/, i18nize_templates, 0.2, Adds i18n markup to jinja2 and handlebars templates., 2018-02-02T19:18:02+0000
+/project/zest-pocompile/, zest.pocompile, 1.5.0, Compile po files when releasing a package, 2020-01-29T15:02:00+0000
+/project/translationstring/, translationstring, 1.4, Utility library for i18n relied on by various Repoze and Pyramid packages, 2020-07-09T11:58:30+0000
+/project/localizedstringkit/, localizedstringkit, 0.1.8, Generate .strings files directly from your code, 2020-10-01T17:01:11+0000
+/project/iso-3166-1/, iso-3166-1, 0.0.3, ISO 3361-1 Country code package for Python, 2015-11-17T16:45:45+0000
+/project/somarevex/, somarevex, 1.0.4, Soma dois valores e retorna o resultado, 2020-03-18T19:17:27+0000
+/project/isover10/, isover10, 0.1.5, Check whether two lines A (x1,x2) and B (x3,x4) on the x-axis whether they overlap or not, 2019-04-06T22:00:28+0000
+/project/cihai-cli/, cihai-cli, 0.6.0, Command line frontend for the cihai CJK language library, 2020-08-09T19:41:36+0000
+/project/colortext/, ColorText, 1.0.1, Programa simples de mudança de cor de texto, 2020-11-13T20:45:12+0000
+/project/mls/, mls, 1.2.2, MultiLingualString, 2015-04-13T16:38:08+0000
+/project/beaufort-scale/, beaufort-scale, 1.0.1, , 2020-06-19T18:47:03+0000
+/project/penelope/, penelope, 3.1.3.0, Penelope is a multi-tool for creating, editing and converting dictionaries, especially for eReader devices, 2016-09-23T09:27:17+0000
+/project/numinwords/, numinwords, 0.5.10, Modules to convert numbers to words. Easily extensible.                Guatemala test, 2020-04-17T06:16:41+0000
+/project/nslocalized/, nslocalized, 0.2.0, Reads and writes Mac OS X .strings files, 2016-01-11T11:45:32+0000
+/project/pangu/, pangu, 4.0.6.1, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-02-08T18:17:28+0000
+/project/angular-gettext-babel/, angular-gettext-babel, 0.3, A plugin for babel to work with angular-gettext templates, 2015-07-14T19:13:14+0000
+/project/django-rosetta/, django-rosetta, 0.9.6, A Django application that eases the translation of Django projects, 2021-03-19T14:35:25+0000
+/project/iso4217/, iso4217, 1.6.20180829, ISO 4217 currency data package for Python, 2019-10-12T19:05:28+0000
+/project/tocolib/, tocolib, 0.3.1, A utility library, 2019-01-02T06:03:28+0000
+/project/bumblebee-status/, bumblebee-status, 2.1.4, a modular, theme-able status line generator for the i3 window manager., 2021-03-18T19:27:18+0000
+/project/h10n/, h10n, 0.1b1, Humanization: i18n & l10n framework, 2012-09-26T07:53:02+0000
+/project/zope-ucol/, zope.ucol, 1.0.2, Python access to ICU text collation, 2006-10-16T22:26:57+0000
+/project/speaklater3/, speaklater3, 1.4, Implements a lazy string for python useful for use with gettext. This version is compatible with Python 3, 2017-09-08T06:31:08+0000
+/project/django-linguist/, django-linguist, 0.5.0, An application to manage translations in Django models, 2019-12-30T09:57:32+0000
+/project/translationsserver/, TranslationsServer, 0.1.1, The translations service server, 2016-08-01T13:38:38+0000
+/project/konstrukteur/, konstrukteur, 0.1.14, Static website generator, 2014-03-20T12:58:31+0000
+/project/cpf-tools/, cpf-tools, 1.0.0, , 2021-04-03T23:44:37+0000
+/project/arrr1/, arrr1, 1.0.1, A module and command to turn English into Pirate speak., 2020-06-20T23:50:24+0000
+/project/sanetime/, sanetime, 4.2.3, A sane date/time python interface:  better epoch time, timezones, and deltas -- django support as well, 2013-01-23T07:35:52+0000
+/project/python-gettext/, python-gettext, 4.0, Python Gettext po to mo file compiler., 2018-11-27T09:25:09+0000
+/project/zarnegar-converter/, zarnegar-converter, 0.1.3, Converter for Zarnegar Encoding and File Format to Unicode Text Files, 2017-05-11T23:13:00+0000
+/project/telwoord/, telwoord, 0.4, Convert numbers into their Dutch written form, 2015-05-22T18:58:52+0000
+/project/std-domain/, std-domain, 0.0.5, A library for standarized Domain objects, 2016-06-05T21:28:08+0000
+/project/workadays/, workadays, 2020.12.23, Calendário de dias úteis, dias corridos e dias 360 (30/360), 2020-12-23T19:06:52+0000
+/project/num2words/, num2words, 0.5.10, Modules to convert numbers to words. Easily extensible., 2019-05-12T17:41:07+0000
+/project/django-lokalise/, django-lokalise, 0.1.6, Lokalise (https://lokalise.co) module for Django, 2017-03-18T08:07:45+0000
+/project/poimport/, poimport, 1.1, A library to load and create po translation files., 2019-08-24T02:09:55+0000
+/project/precis-i18n/, precis-i18n, 1.0.3, PRECIS-i18n: Internationalized Usernames and Passwords, 2021-02-22T01:36:31+0000
+/project/transifex/, transifex, 1.2.1, The software behind Transifex.com, the open service to collaboratively translate software, documentation and websites., 2012-01-08T13:07:49+0000
+/project/django-walletpass/, django-walletpass, 1.2, Django .pkpass builder, server and push notifications, 2020-03-25T18:49:35+0000
+/project/postal-address/, postal-address, 1.4.1, Parse, normalize and render postal addresses., 2019-07-19T10:52:13+0000
+/project/hijri-converter/, hijri-converter, 2.1.1, Accurate Hijri-Gregorian date converter based on the Umm al-Qura calendar, 2020-05-23T17:43:03+0000
+/project/ucs-detect/, ucs-detect, 0.0.4, Detects the Unicode Version of an interactive terminal for export, 2020-06-20T18:31:02+0000
+/project/pyramid-i18n-helper/, pyramid-i18n-helper, 0.3.6, Small tool to help in i18n and l10n, 2018-02-04T10:51:24+0000
+/project/django-extra-keywords/, django-extra_keywords, 1.1.2, Extra gettext keywords handling in Django, 2015-04-15T21:40:23+0000
+/project/distutils-ui/, distutils-ui, 0.1.3, A distutils build extension for PyQt{4,5} applications, 2020-10-02T16:06:09+0000
+/project/qtheory/, qtheory, 1.0.0, Library for queuing theory calculation, 2020-04-14T14:56:10+0000
+/project/arrr/, arrr, 1.0.2, A module and command to turn English into Pirate speak., 2020-07-11T12:45:18+0000
+/project/temperature-converter-py/, temperature-converter-py, 1.0.1, , 2020-06-17T14:28:35+0000
+/project/weblate-schemas/, weblate-schemas, 0.6, A collection of schemas used by Weblate, 2021-03-05T14:47:51+0000
+/project/pyicu-bidi/, PyICU_BiDi, 0.0.3, The Unicode bidirectional algorithm from ICU, 2018-07-22T18:52:58+0000
+/project/mongoengine-mls/, mongoengine-mls, 1.1.0, MultiLingualField for MongoEngine, 2015-04-17T15:06:28+0000
+/project/weblate-a1az/, Weblate-a1az, 4.3.2.2, A web-based continuous localization system with tight version control integration, 2020-11-26T04:34:34+0000
+/project/jasy/, jasy, 1.1.1, Web Tooling Framework, 2013-08-15T09:34:50+0000
+/project/autotasks/, autotasks, 2020.12.10, Pacote de automação de processos, 2020-12-10T12:40:15+0000
+/project/lunisolar/, lunisolar, 0.1.3, A library to handle the Chinese calendar, 2013-02-12T11:58:02+0000
+/project/conversao-temperatura/, conversao-temperatura, 1.0.0, Um simples conversor de temperatura (Celsius - Fahrenheit), 2021-04-04T14:52:49+0000
+/project/tylinkmap/, tylinkmap, 0.1.0, link map tool for iOS / macOS developers, 2017-03-03T07:19:45+0000
+/project/pycountry/, pycountry, 20.7.3, ISO country, subdivision, language, currency and script definitions and their translations, 2020-07-03T06:05:11+0000
+/project/polyquack/, polyquack, 0.2.4, utilities for polyglots, 2020-09-09T17:11:07+0000
+/project/babel-vue-extractor/, babel-vue-extractor, 1.4.3, A plugin for babel to work with vue.js templates, 2018-07-11T12:30:22+0000
+/project/ikazuchi-plugins-pofile/, ikazuchi.plugins.pofile, 0.1.2, Handle PO file with ikazuchi to translate msgid, 2011-11-26T08:15:50+0000
+/project/kitchen/, kitchen, 1.2.6, Kitchen contains a cornucopia of useful code, 2019-05-14T19:52:35+0000
+/project/strsync/, strsync, 1.8, strsync - Automatically translate and synchronize localizable resource files from defined base language for Xcode., 2019-04-06T14:47:08+0000
+/project/convert2utf/, convert2utf, 1.3.2, A one-line command that converts source code files into UTF-8 or UTF-8-BOM., 2018-12-25T14:26:27+0000
+/project/emailvalid/, emailvalid, 1.0, Python module to validate eMail, 2012-11-13T10:12:07+0000
+/project/andaluh/, andaluh, 0.2.1, Transliterate español (spanish) spelling to andaluz proposals, 2020-08-22T19:48:59+0000
+/project/unihan-db/, unihan-db, 0.1.0, SQLAlchemy models for UNIHAN database, 2020-08-09T17:15:12+0000
+/project/mdpo/, mdpo, 0.3.12, Markdown file translation utilities using pofiles., 2021-04-12T12:19:42+0000
+/project/speaklater/, speaklater, 1.3, implements a lazy string for python useful for use with gettext, 2012-07-01T16:01:28+0000
+/project/pycu/, pycu, 0.2.0, PyICU Wrapper, 2017-04-21T13:23:49+0000
+/project/django-transadmin/, django-transadmin, 0.4, Translate texts from the admin interface., 2017-07-17T06:42:40+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/django-translatable/, django-translatable, 0.1.1, Django app providing simple translatable models system, 2011-04-02T08:47:47+0000
+/project/setup-qt/, setup_qt, 1.0.0, Compile Qt resource files, UI files and translations in setup.py, 2017-03-23T17:03:48+0000
+/project/weblate-em0t/, Weblate-em0t, 4.2, A web-based continuous localization system with tight version control integration, 2020-08-13T10:07:14+0000
+/project/unisc/, unisc, 0.1, Unicode Script property, 2017-11-14T01:26:01+0000
+/project/clear-screen-cls/, clear-screen-CLS, 1.0.1, Clear Screen for all OS's, 2020-11-25T19:09:55+0000
+/project/polib/, polib, 1.1.1, A library to manipulate gettext files (po and mo files)., 2021-03-26T22:22:55+0000
+/project/wllegal/, wllegal, 2021.2, Hosted Weblate legal stuff, 2021-04-15T08:41:13+0000
+/project/wlc/, wlc, 1.11, A command line utility for Weblate, translation tool with tight version control integration, 2021-03-17T08:30:37+0000
+/project/plate/, Plate, 1.0.0, Internationalization Library for Python, 2020-03-20T02:42:35+0000
+/project/doublespeak/, doublespeak, 0.3, Babel/distutils commands to help with managing Javascript translations., 2016-03-07T08:22:11+0000
+/project/pangu2/, pangu2, 5.0, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-08-02T07:48:50+0000
+/project/substream/, substream, 0.1.1, Transcribes audio files to .srt, 2019-06-06T00:54:29+0000
+/project/quokka-speaklater/, quokka-speaklater, 1.3.1, Fork of implements a lazy string for python useful for use with gettext, 2015-08-23T18:00:21+0000
+/project/klocmod/, klocmod, 0.2.1, A simple module providing facilities to localize small programs via textual files., 2019-11-13T20:07:10+0000
+/project/datazeus/, datazeus, 0.0.1, Busca de parâmetros para machine learning, 2020-05-05T01:45:31+0000
+/project/django-phrase/, django-phrase, 1.0.8, Connect your Django apps to Phrase, the powerful in-context-translation solution., 2020-10-16T07:10:32+0000
+/project/pybabel-angularjs/, pybabel-angularjs, 1.3.5, An AngularJS extractor for Babel, 2018-10-10T20:35:27+0000
+/project/djangocms-rosetta/, djangocms-rosetta, 0.0, Add links to rosetta's translation interface in the Django CMS Toolbar., 2015-09-30T19:09:30+0000
+/project/weblate-fedora-messaging/, weblate-fedora-messaging, 0.4, Weblate Fedora Messaging integration, 2021-03-18T15:36:16+0000
+/project/compare-string-version/, compare-string-version, 0.1.0, accepts 2 version string as input and returns whether one is greater than, equal, or less than the other, 2019-04-07T03:54:15+0000
+/project/pyicu-binary/, PyICU-binary, 2.3.1, Python extension wrapping the ICU C++ API, 2019-10-21T19:53:03+0000
+/project/wsgi-wovn/, wsgi_wovn, 0.0.3, WSGI middleware for translating application by WOVN.io. A port of wovnjava., 2017-04-08T02:41:03+0000
+/project/cvt2utf/, cvt2utf, 1.3.2, A one-line command that converts source code files into UTF-8 or UTF-8-BOM., 2019-01-04T12:04:47+0000
+/project/pyicu-binary/, PyICU-binary, 2.3.1, Python extension wrapping the ICU C++ API, 2019-10-21T19:53:03+0000
+/project/wsgi-wovn/, wsgi_wovn, 0.0.3, WSGI middleware for translating application by WOVN.io. A port of wovnjava., 2017-04-08T02:41:03+0000
+/project/cvt2utf/, cvt2utf, 1.3.2, A one-line command that converts source code files into UTF-8 or UTF-8-BOM., 2019-01-04T12:04:47+0000
+/project/iso-20275/, iso-20275, 0.0.13, ISO 20275 Entity Legal Type package for Python, 2021-02-12T18:21:19+0000
+/project/igenius-lokalise-exporter/, iGenius-lokalise-exporter, 0.22, Export strings from lokalise.com, 2020-12-01T13:44:24+0000
+/project/crowdin-client/, crowdin-client, 0.4, Command-line client for the crowdin.net API, 2014-11-10T13:32:40+0000
+/project/tekorrect/, tekorrect, 0.0.3, 用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。, 2020-01-09T07:32:08+0000
+/project/psk-numword/, psk_numword, 0.5, Python modules to convert numbers to words, 2016-11-13T03:56:43+0000
+/project/unihan-etl/, unihan-etl, 0.11.0, Export UNIHAN to Python, Data Package, CSV, JSON and YAML, 2020-08-09T16:50:22+0000
+/project/polyquack-django/, polyquack-django, 0.2, Django utilities for polyglots, 2020-09-11T21:01:03+0000
+/project/word2number-i18n/, word2number-i18n, 1.1.0, Convert number words from different languages with Python, CSharp or Java API eg. three hundred and forty two to numbers (342) or vingt-et-un (21) or две целых три десятых (2.3)., 2021-03-18T15:55:09+0000
+/project/nicobot/, nicobot, 0.1.10, A collection of 🤟 cool 🤟 chat bots, 2021-01-27T20:44:09+0000
+/project/motaword/, motaword, 0.9.1, Motaword Python SDK, 2016-02-03T17:58:39+0000
+/project/unisc/, unisc, 0.1, Unicode Script property, 2017-11-14T01:26:01+0000
+/project/clear-screen-cls/, clear-screen-CLS, 1.0.1, Clear Screen for all OS's, 2020-11-25T19:09:55+0000
+/project/polib/, polib, 1.1.1, A library to manipulate gettext files (po and mo files)., 2021-03-26T22:22:55+0000
+/project/wllegal/, wllegal, 2021.2, Hosted Weblate legal stuff, 2021-04-15T08:41:13+0000
+/project/django-require-i18n/, django-require-i18n, 1.3.0, Django management command for extracting and compiling localization strings used in the require.js i18n plugin., 2019-08-18T23:05:41+0000
+/project/tystrings/, tystrings, 1.2.2, strings file tool for iOS / macOS developers, 2020-09-20T17:18:13+0000
+/project/n2w-it/, n2w-it, 1.0.1, Converts numbers to italian words., 2021-03-30T14:55:46+0000
+/project/tekorrect/, tekorrect, 0.0.3, 用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。, 2020-01-09T07:32:08+0000
+/project/psk-numword/, psk_numword, 0.5, Python modules to convert numbers to words, 2016-11-13T03:56:43+0000
+/project/polyquack-django/, polyquack-django, 0.2, Django utilities for polyglots, 2020-09-11T21:01:03+0000
+/project/word2number-i18n/, word2number-i18n, 1.1.0, Convert number words from different languages with Python, CSharp or Java API eg. three hundred and forty two to numbers (342) or vingt-et-un (21) or две целых три десятых (2.3)., 2021-03-18T15:55:09+0000
+/project/nicobot/, nicobot, 0.1.10, A collection of 🤟 cool 🤟 chat bots, 2021-01-27T20:44:09+0000
+/project/motaword/, motaword, 0.9.1, Motaword Python SDK, 2016-02-03T17:58:39+0000
+/project/django-require-i18n/, django-require-i18n, 1.3.0, Django management command for extracting and compiling localization strings used in the require.js i18n plugin., 2019-08-18T23:05:41+0000
+/project/tystrings/, tystrings, 1.2.2, strings file tool for iOS / macOS developers, 2020-09-20T17:18:13+0000
+/project/n2w-it/, n2w-it, 1.0.1, Converts numbers to italian words., 2021-03-30T14:55:46+0000
+/project/django-rosetta-inpage/, django-rosetta-inpage, 0.0.10, Translate i18n messages with Django Rosetta, 2013-04-16T12:20:39+0000
+/project/rbtranslations/, rbtranslations, 0.9.5, Java ResourceBundle like approach to localization., 2013-01-13T17:00:09+0000
+/project/brunno/, brunno, 1.0.3, lib for math and phisyc, 2019-10-08T10:25:26+0000
+/project/django-makemessages-xgettext/, django-makemessages-xgettext, 0.1.1, makemessages command that allows for arguments to be passed to xgettext., 2015-12-23T20:32:02+0000
+/project/sdk-ifood/, sdk-ifood, 1.0.0a20, SDK com as features da API do IFood, 2021-04-10T19:41:12+0000
+/project/replace-value-txt/, replace-value-txt, 1.0.0, , 2020-11-01T16:04:56+0000
+/project/crowdin-client/, crowdin-client, 0.4, Command-line client for the crowdin.net API, 2014-11-10T13:32:40+0000
+/project/strsync/, strsync, 1.8, strsync - Automatically translate and synchronize localizable resource files from defined base language for Xcode., 2019-04-06T14:47:08+0000
+/project/convert2utf/, convert2utf, 1.3.2, A one-line command that converts source code files into UTF-8 or UTF-8-BOM., 2018-12-25T14:26:27+0000
+/project/andaluh/, andaluh, 0.2.1, Transliterate español (spanish) spelling to andaluz proposals, 2020-08-22T19:48:59+0000
+/project/unihan-db/, unihan-db, 0.1.0, SQLAlchemy models for UNIHAN database, 2020-08-09T17:15:12+0000
+/project/microsofttranslator/, microsofttranslator, 0.8, Microsoft Translator V2 - Python API, 2016-05-09T11:07:43+0000
+/project/flaskpress-speaklater/, flaskpress-speaklater, 1.3.0, Implements a lazy string for python for use with gettext, 2017-06-21T09:03:32+0000
+/project/wcwidth/, wcwidth, 0.2.5, Measures the displayed width of unicode strings in a terminal, 2020-06-23T16:10:28+0000
+/project/unidump/, unidump, 1.1.2, hexdump for your unicode data, 2017-03-19T19:48:26+0000
+/project/unihan-tabular/, unihan-tabular, 0.8.1, Export UNIHAN to Python, Data Package, CSV, JSON and YAML, 2017-05-21T00:50:27+0000
+/project/polint/, polint, 0.4, Linter for gettext PO files, 2018-11-30T12:57:50+0000
+/project/pybabel-htmlbars/, pybabel-htmlbars, 0.2.0, Pybabel HTMLBars gettext strings extractor, 2016-01-05T09:40:09+0000
+/project/i18nparse/, i18nparse, 0.7.0, Provides translations for argparse module, 2018-12-06T14:16:23+0000
+/project/django-datatrans/, django-datatrans, 0.1.5, Translate Django models without changing anything to existing applications and their underlying database., 2013-09-19T14:12:25+0000

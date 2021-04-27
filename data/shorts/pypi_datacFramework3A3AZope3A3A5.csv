@@ -1,0 +1,68 @@
+/project/products-standardcachemanagers/, Products.StandardCacheManagers, 4.1.0, Cache managers for Zope, 2021-03-16T07:51:48+0000
+/project/zope-sqlalchemy/, zope.sqlalchemy, 1.3, Minimal Zope/SQLAlchemy transaction integration, 2020-02-17T14:01:45+0000
+/project/plone-app-caching/, plone.app.caching, 2.1.0, Plone UI and default rules for plone.caching/z3c.caching, 2021-02-16T16:06:53+0000
+/project/documenttemplate/, DocumentTemplate, 4.0, Document Templating Markup Language (DTML), 2020-11-12T09:47:10+0000
+/project/products-temporaryfolder/, Products.TemporaryFolder, 6.1, Zope temporary folder support., 2021-03-16T08:10:30+0000
+/project/products-zalchemyconnector/, Products.ZAlchemyConnector, 1.0.4, Connector and Query object for zope & sqlalchemy, 2020-11-26T20:01:43+0000
+/project/products-validation/, Products.validation, 2.1.3, Data validation package for Zope, 2020-06-24T12:34:19+0000
+/project/five-formlib/, five.formlib, 2.2, zope.formlib integration for Zope., 2020-10-26T14:52:54+0000
+/project/products-pluggableauthservice/, Products.PluggableAuthService, 2.6.2, Pluggable Zope authentication / authorization framework, 2021-03-12T06:33:34+0000
+/project/z3c-sqlalchemy/, z3c.sqlalchemy, 1.5.2, A SQLAlchemy wrapper for Zope, 2020-11-13T12:59:20+0000
+/project/products-zcatalog/, Products.ZCatalog, 6.0, Zope's indexing and search solution., 2020-10-08T06:21:02+0000
+/project/products-zodbmountpoint/, Products.ZODBMountPoint, 1.1, Zope ZODB mount point support., 2021-03-16T07:56:38+0000
+/project/zope/, Zope, 5.1.2, Zope application server / web framework, 2021-03-02T12:37:51+0000
+/project/gocept-selenium/, gocept.selenium, 6.0, Test-friendly Python API for Selenium and integration with web application frameworks., 2020-12-16T09:56:41+0000
+/project/collective-explicitacquisition/, collective.explicitacquisition, 2.0, Disallow access to acquired content outside the current path., 2021-02-05T11:10:40+0000
+/project/products-plonepas/, Products.PlonePAS, 6.0.7, PlonePAS modifies the PluggableAuthService for use by Plone., 2021-02-16T16:52:17+0000
+/project/products-orderedbtreefolder/, Products.orderedbtreefolder, 3.0, BTree folder with the option to keep an ordering in the items, 2020-03-16T16:50:25+0000
+/project/products-externalmethod/, Products.ExternalMethod, 4.5, This package provides support for external Python methods within a Zope environment., 2021-03-15T15:51:32+0000
+/project/authencoding/, AuthEncoding, 4.2.1, Framework for handling LDAP style password hashes., 2021-04-08T07:27:00+0000
+/project/products-zopetree/, Products.ZopeTree, 3.2.0, ZopeTree is a light-weight tree implementation., 2021-02-20T15:04:01+0000
+/project/products-siteerrorlog/, Products.SiteErrorLog, 5.5, Error log for Zope., 2021-03-15T18:36:22+0000
+/project/plone-recipe-zope2instance/, plone.recipe.zope2instance, 6.9.0, Buildout recipe for creating a Zope instance, 2021-03-22T12:58:31+0000
+/project/products-pluginregistry/, Products.PluginRegistry, 1.9, Configure application plugins based on interfaces, 2021-03-19T14:30:34+0000
+/project/products-sessions/, Products.Sessions, 4.9, Zope session management., 2021-03-16T08:05:54+0000
+/project/products-mimetools/, Products.MIMETools, 3.2, MIMETools provides the ``dtml-mime`` tag for DocumentTemplate., 2021-03-16T08:15:06+0000
+/project/products-cmfuid/, Products.CMFUid, 3.2.0, Uid product for the Zope Content Management Framework, 2021-03-15T11:48:27+0000
+/project/collective-remoteproxy/, collective.remoteproxy, 2.0, Proxy for remote content in Plone pages., 2021-02-05T16:20:55+0000
+/project/products-sqlalchemyda/, Products.SQLAlchemyDA, 1.0.0, A generic database adapter for Zope, 2020-11-13T13:58:41+0000
+/project/accesscontrol/, AccessControl, 5.0, Security framework for Zope., 2020-10-07T13:35:07+0000
+/project/products-cmfcore/, Products.CMFCore, 2.5.1, Zope Content Management Framework core components, 2021-03-12T06:24:12+0000
+/project/gocept-httpserverlayer/, gocept.httpserverlayer, 4.0, HTTP server integration for testing, 2021-04-07T08:13:27+0000
+/project/products-zmysqlda/, Products.ZMySQLDA, 4.10, MySQL Zope adapter., 2021-03-30T06:55:28+0000
+/project/products-cmfformcontroller/, Products.CMFFormController, 4.1.4, CMFFormController provides a form validation mechanism for CMF., 2020-10-12T10:03:13+0000
+/project/products-zsqlmethods/, Products.ZSQLMethods, 3.13, SQL method support for Zope., 2021-03-15T09:14:58+0000
+/project/products-standardcachemanagers/, Products.StandardCacheManagers, 4.1.0, Cache managers for Zope, 2021-03-16T07:51:48+0000
+/project/zope-sqlalchemy/, zope.sqlalchemy, 1.3, Minimal Zope/SQLAlchemy transaction integration, 2020-02-17T14:01:45+0000
+/project/plone-app-caching/, plone.app.caching, 2.1.0, Plone UI and default rules for plone.caching/z3c.caching, 2021-02-16T16:06:53+0000
+/project/documenttemplate/, DocumentTemplate, 4.0, Document Templating Markup Language (DTML), 2020-11-12T09:47:10+0000
+/project/products-temporaryfolder/, Products.TemporaryFolder, 6.1, Zope temporary folder support., 2021-03-16T08:10:30+0000
+/project/products-zalchemyconnector/, Products.ZAlchemyConnector, 1.0.4, Connector and Query object for zope & sqlalchemy, 2020-11-26T20:01:43+0000
+/project/products-validation/, Products.validation, 2.1.3, Data validation package for Zope, 2020-06-24T12:34:19+0000
+/project/five-formlib/, five.formlib, 2.2, zope.formlib integration for Zope., 2020-10-26T14:52:54+0000
+/project/products-pluggableauthservice/, Products.PluggableAuthService, 2.6.2, Pluggable Zope authentication / authorization framework, 2021-03-12T06:33:34+0000
+/project/z3c-sqlalchemy/, z3c.sqlalchemy, 1.5.2, A SQLAlchemy wrapper for Zope, 2020-11-13T12:59:20+0000
+/project/products-zcatalog/, Products.ZCatalog, 6.0, Zope's indexing and search solution., 2020-10-08T06:21:02+0000
+/project/products-zodbmountpoint/, Products.ZODBMountPoint, 1.1, Zope ZODB mount point support., 2021-03-16T07:56:38+0000
+/project/zope/, Zope, 5.1.2, Zope application server / web framework, 2021-03-02T12:37:51+0000
+/project/gocept-selenium/, gocept.selenium, 6.0, Test-friendly Python API for Selenium and integration with web application frameworks., 2020-12-16T09:56:41+0000
+/project/collective-explicitacquisition/, collective.explicitacquisition, 2.0, Disallow access to acquired content outside the current path., 2021-02-05T11:10:40+0000
+/project/products-plonepas/, Products.PlonePAS, 6.0.7, PlonePAS modifies the PluggableAuthService for use by Plone., 2021-02-16T16:52:17+0000
+/project/products-orderedbtreefolder/, Products.orderedbtreefolder, 3.0, BTree folder with the option to keep an ordering in the items, 2020-03-16T16:50:25+0000
+/project/products-externalmethod/, Products.ExternalMethod, 4.5, This package provides support for external Python methods within a Zope environment., 2021-03-15T15:51:32+0000
+/project/authencoding/, AuthEncoding, 4.2.1, Framework for handling LDAP style password hashes., 2021-04-08T07:27:00+0000
+/project/products-zopetree/, Products.ZopeTree, 3.2.0, ZopeTree is a light-weight tree implementation., 2021-02-20T15:04:01+0000
+/project/products-cmfformcontroller/, Products.CMFFormController, 4.1.4, CMFFormController provides a form validation mechanism for CMF., 2020-10-12T10:03:13+0000
+/project/products-zsqlmethods/, Products.ZSQLMethods, 3.13, SQL method support for Zope., 2021-03-15T09:14:58+0000
+/project/products-cmfuid/, Products.CMFUid, 3.2.0, Uid product for the Zope Content Management Framework, 2021-03-15T11:48:27+0000
+/project/products-zmysqlda/, Products.ZMySQLDA, 4.10, MySQL Zope adapter., 2021-03-30T06:55:28+0000
+/project/plone-recipe-zope2instance/, plone.recipe.zope2instance, 6.9.0, Buildout recipe for creating a Zope instance, 2021-03-22T12:58:31+0000
+/project/products-pluginregistry/, Products.PluginRegistry, 1.9, Configure application plugins based on interfaces, 2021-03-19T14:30:34+0000
+/project/products-sessions/, Products.Sessions, 4.9, Zope session management., 2021-03-16T08:05:54+0000
+/project/products-mimetools/, Products.MIMETools, 3.2, MIMETools provides the ``dtml-mime`` tag for DocumentTemplate., 2021-03-16T08:15:06+0000
+/project/accesscontrol/, AccessControl, 5.0, Security framework for Zope., 2020-10-07T13:35:07+0000
+/project/products-cmfcore/, Products.CMFCore, 2.5.1, Zope Content Management Framework core components, 2021-03-12T06:24:12+0000
+/project/gocept-httpserverlayer/, gocept.httpserverlayer, 4.0, HTTP server integration for testing, 2021-04-07T08:13:27+0000
+/project/products-siteerrorlog/, Products.SiteErrorLog, 5.5, Error log for Zope., 2021-03-15T18:36:22+0000
+/project/collective-remoteproxy/, collective.remoteproxy, 2.0, Proxy for remote content in Plone pages., 2021-02-05T16:20:55+0000
+/project/products-sqlalchemyda/, Products.SQLAlchemyDA, 1.0.0, A generic database adapter for Zope, 2020-11-13T13:58:41+0000

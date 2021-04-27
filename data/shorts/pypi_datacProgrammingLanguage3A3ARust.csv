@@ -1,0 +1,210 @@
+/project/oxidized-importer/, oxidized-importer, 0.1, Python importer implemented in Rust, 2020-05-10T19:17:23+0000
+/project/sourmash/, sourmash, 4.0.0, tools for comparing DNA sequences with MinHash sketches, 2021-03-02T20:34:29+0000
+/project/pyage-rust/, pyage-rust, 0.1.0, , 2020-07-13T15:33:44+0000
+/project/wasmtime/, wasmtime, 0.26.0, A WebAssembly runtime powered by Wasmtime, 2021-04-05T20:34:22+0000
+/project/iondrive/, iondrive, 0.1.1, , 2021-03-12T15:22:33+0000
+/project/text-data/, text-data, 0.1.0, A Python package for exploring text data for analysis, 2020-10-21T19:36:32+0000
+/project/perde/, perde, 0.0.2, Fast and flexible serialization library., 2020-11-28T11:08:08+0000
+/project/fastobo/, fastobo, 0.10.1, Faultless AST for Open Biomedical Ontologies in Python., 2021-03-30T16:00:10+0000
+/project/argonautica/, argonautica, 0.1.5, Idiomatic Argon2 password hashing for Python, 2018-06-28T18:09:41+0000
+/project/skytemple-rust/, skytemple-rust, 0.0.1.post0, Binary Rust extension for skytemple-files, 2021-03-07T15:40:00+0000
+/project/rgeocoder/, rgeocoder, 0.1.3, A lightweight offline reverse geocoder implemented in Rust., 2018-05-31T17:20:50+0000
+/project/tsp-2opt/, tsp_2opt, 0.0.1, , 2021-03-07T11:15:28+0000
+/project/bc4py-extension/, bc4py-extension, 0.1.7, python extension for bc4py, 2020-03-26T14:20:30+0000
+/project/lacbd/, lacbd, 0.2.0, Fast subsentence searching, 2019-08-26T05:00:56+0000
+/project/pyd4/, pyd4, 0.1.13, , 2020-10-23T18:52:27+0000
+/project/arduino-oxidizer/, arduino-oxidizer, 1.0.0, A python tool to build Rust project for Arduino and write it., 2020-11-29T14:18:41+0000
+/project/retworkx/, retworkx, 0.8.0, A python graph library implemented in Rust, 2021-03-02T21:19:24+0000
+/project/wasmer/, wasmer, 1.0.0, Python extension to run WebAssembly binaries, 2021-01-18T15:00:22+0000
+/project/anilistpy/, anilistpy, 0.1.0, python API wrapper for anilist.co, 2021-02-24T14:26:05+0000
+/project/toid/, toid, 0.0.13a0, , 2020-06-28T01:25:24+0000
+/project/omikuji-fast/, omikuji-fast, 0.3.0, Python binding to Omikuji, an efficient implementation of Partioned Label Trees and its variations for extreme multi-label classification, 2019-11-02T13:43:37+0000
+/project/tensorboard-data-server/, tensorboard-data-server, 0.6.0, Fast data loading for TensorBoard, 2021-03-22T21:59:58+0000
+/project/o3iss/, o3iss, 0.1.3, Iterated-sums signature in Rust, 2021-04-18T17:09:27+0000
+/project/lazrs/, lazrs, 0.2.5, Python bindings for laz-rs, 2021-01-29T12:57:35+0000
+/project/rfernet/, rfernet, 0.1.3, Fast Fernet bindings for Python, 2020-01-08T09:20:36+0000
+/project/jsonlogic-rs/, jsonlogic-rs, 0.2.2, JsonLogic implemented with a Rust backend, 2021-01-23T05:15:56+0000
+/project/divvunspell/, divvunspell, 0.1.0, , 2021-03-18T11:35:25+0000
+/project/nanoset/, nanoset, 0.2.1, A memory-optimized wrapper for Python sets likely to be empty., 2020-07-01T01:41:00+0000
+/project/nem-ed25519-rust/, nem-ed25519-rust, 1.0.0rc4, , 2019-03-23T14:53:39+0000
+/project/polaroid/, polaroid, 0.3.2, Hyper Fast and safe image manipulation library for python. Powered by rust., 2021-03-09T21:40:43+0000
+/project/rogue-gym/, rogue-gym, 0.0.2, OpenAI gym environment for rogue-gym, 2019-05-30T07:54:28+0000
+/project/cdjs/, cdjs, 0.1.5, Custom Datetime JSON Serializer, 2021-03-18T13:11:54+0000
+/project/opengen/, opengen, 0.6.5, Optimization Engine Code Generator, 2021-04-15T19:33:11+0000
+/project/sphinxcontrib-svgbob/, sphinxcontrib-svgbob, 0.1.1, A Sphinx extension to convert ASCII diagrams to SVGs with Svgbob., 2021-04-14T16:49:41+0000
+/project/johnnycanencrypt/, johnnycanencrypt, 0.5.0, Python module for OpenPGP., 2021-01-02T19:01:23+0000
+/project/autopy/, autopy, 4.0.0, A simple, cross-platform GUI automation library for Python., 2020-02-26T20:41:07+0000
+/project/apres/, apres, 0.2.22, External bindings for apres MIDI library, 2021-04-21T04:32:40+0000
+/project/zangy/, zangy, 0.1.0, A fast redis library written in Rust, 2021-02-26T11:25:01+0000
+/project/wasmer-compiler-singlepass/, wasmer-compiler-singlepass, 1.0.0, Python extension to run WebAssembly binaries, 2021-01-18T15:01:09+0000
+/project/oddity/, oddity, 0.1.0, Time Series Anomaly Detection, 2020-12-09T18:06:39+0000
+/project/iced-x86/, iced-x86, 1.11.1, iced-x86 is a blazing fast and correct x86/x64 disassembler, assembler and instruction decoder, 2021-04-15T15:48:34+0000
+/project/pyruvate/, pyruvate, 1.0.0, WSGI server implemented in Rust., 2021-03-24T10:56:20+0000
+/project/py-sourcemap/, py-sourcemap, 0.4.0, A tiny source-map-mappings bindings for python using PyO3, 2018-09-12T16:57:37+0000
+/project/pyoxigraph/, pyoxigraph, 0.2.3, Python bindings of Oxigraph, a SPARQL database and RDF toolkit, 2021-04-11T08:40:45+0000
+/project/kmedoids/, kmedoids, 0.1.5-dev, k-Medoids clustering with the FasterPAM algorithm, 2021-02-01T03:32:09+0000
+/project/dqcsim/, dqcsim, 0.4.1, Python bindings for DQCsim, 2020-11-26T11:46:31+0000
+/project/libsm3/, libsm3, 0.0.4, , 2021-02-04T11:03:37+0000
+/project/timsortyer/, timsortyer, 0.1.1, , 2021-03-08T05:24:15+0000
+/project/css-inline/, css-inline, 0.6.2, Fast CSS inlining written in Rust, 2021-01-28T17:01:03+0000
+/project/razorbird/, razorbird, 0.2.1, A WSGI server based on Rust Hyper, 2020-07-11T22:02:09+0000
+/project/sportgems/, sportgems, 0.5.0, Find valuable gems 💎 in your tracked sport 🚴 activity!, 2021-04-03T11:24:29+0000
+/project/simple-rsync/, simple-rsync, 0.3.0, Simple Python interface for librsync, 2020-12-17T15:10:31+0000
+/project/rskeyring/, rskeyring, 0.1.2.2, A C-level keyring module bind from the Rust programming language (crates.io), 2020-06-28T22:30:09+0000
+/project/bindings-rust/, bindings.rust, 0.1.0, A namespace for Python bindings to Rust libraries, 2018-02-25T20:55:31+0000
+/project/bincraft/, bincraft, 0.1.0, , 2021-04-09T09:39:46+0000
+/project/multi-party-schnorr/, multi-party-schnorr, 0.1.9, , 2019-07-06T13:46:39+0000
+/project/pyawabi/, pyawabi, 0.2.4, A morphological analyzer using mecab dictionary., 2020-12-08T04:01:21+0000
+/project/scandir-rs/, scandir-rs, 0.9.3, A fast directory scanner., 2020-07-29T21:58:23+0000
+/project/gap-stat/, gap-stat, 2.0.1, Python implementation of the gap statistic with optional Rust optimizations., 2020-04-20T04:09:55+0000
+/project/libsm3py/, libsm3py, 0.0.1, , 2021-02-04T12:04:54+0000
+/project/eclipse-zenoh/, eclipse-zenoh, 0.5.0-b8, , 2021-03-31T17:36:48+0000
+/project/scrs/, scrs, 0.13.0, , 2020-07-28T02:20:54+0000
+/project/wrecked/, wrecked, 1.0.16, Bindings for the wrecked terminal graphics library, 2021-04-21T04:49:42+0000
+/project/procmaps/, procmaps, 0.5.0, Python bindings for procmaps.rs, 2020-12-23T21:24:30+0000
+/project/rustdef/, rustdef, 0.2.0, , 2021-01-03T12:15:13+0000
+/project/datafusion/, datafusion, 0.2.0, Build and run queries against data, 2020-12-10T06:21:58+0000
+/project/wasmer-compiler-cranelift/, wasmer-compiler-cranelift, 1.0.0, The Cranelift compiler for the `wasmer` package (to compile WebAssembly module), 2021-01-18T15:00:39+0000
+/project/neighborhood-analysis/, neighborhood_analysis, 0.2.3, , 2021-04-08T13:30:22+0000
+/project/spectrust/, spectrust, 0.1.1, Blazing fast spectrogram generator., 2018-11-09T16:28:44+0000
+/project/attrs2bin/, attrs2bin, 0.0.1, Binary serializer for attrs-based classes, 2020-03-22T04:23:29+0000
+/project/fresh/, fresh, 0.0.1, Automated, end-to-end machine learning, 2018-06-29T18:09:06+0000
+/project/travertine/, travertine, 0.27.0, The Procedures language, 2021-03-11T21:57:26+0000
+/project/streamson-python/, streamson-python, 4.0.0, Python wrappers around streamson, 2021-04-20T21:15:17+0000
+/project/omikuji/, omikuji, 0.3.1, Python binding to Omikuji, an efficient implementation of Partioned Label Trees and its variations for extreme multi-label classification, 2020-01-18T11:27:57+0000
+/project/gap-stat/, gap-stat, 2.0.1, Python implementation of the gap statistic with optional Rust optimizations., 2020-04-20T04:09:55+0000
+/project/fast-mail-parser/, fast-mail-parser, 0.2.0, Very fast Python library for .eml files parsing., 2020-12-23T17:49:34+0000
+/project/rastro/, rastro, 0.1.5, , 2021-03-21T22:00:56+0000
+/project/lumber-jack/, lumber-jack, 0.1.1a0, Alpha work on adding additional and improved functionality to Pandas., 2018-04-22T13:30:26+0000
+/project/signal-protocol/, signal-protocol, 0.2.2, Rust extension providing Python bindings to the signal protocol, 2021-03-03T01:16:57+0000
+/project/rustypy/, rustypy, 0.1.17, Automatic FFI generation for Python <-> Rust interfacing., 2020-04-19T18:35:28+0000
+/project/rustdef/, rustdef, 0.2.0, , 2021-01-03T12:15:13+0000
+/project/datafusion/, datafusion, 0.2.0, Build and run queries against data, 2020-12-10T06:21:58+0000
+/project/wasmer-compiler-cranelift/, wasmer-compiler-cranelift, 1.0.0, The Cranelift compiler for the `wasmer` package (to compile WebAssembly module), 2021-01-18T15:00:39+0000
+/project/neighborhood-analysis/, neighborhood_analysis, 0.2.3, , 2021-04-08T13:30:22+0000
+/project/wrecked/, wrecked, 1.0.16, Bindings for the wrecked terminal graphics library, 2021-04-21T04:49:42+0000
+/project/rustypy/, rustypy, 0.1.17, Automatic FFI generation for Python <-> Rust interfacing., 2020-04-19T18:35:28+0000
+/project/bc4py-core/, bc4py-core, 0.1.0, bc4py core library written by Rust, 2020-05-03T12:25:32+0000
+/project/pyrepscan/, pyrepscan, 0.9.2, A Git Repository Secrets Scanner written in Rust, 2021-03-30T13:52:31+0000
+/project/maturin/, maturin, 0.10.3, Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages, 2021-04-13T14:36:38+0000
+/project/rustcsv/, rustcsv, 0.1.0a16, , 2018-12-18T07:59:19+0000
+/project/rscase/, rscase, 1.1.1, Python package for string case formatting; implemented in Rust., 2020-02-18T22:21:42+0000
+/project/procmaps/, procmaps, 0.5.0, Python bindings for procmaps.rs, 2020-12-23T21:24:30+0000
+/project/light-curve-python/, light-curve-python, 0.2.5, Feature extractor from noisy time series, 2021-03-30T15:15:02+0000
+/project/pysprint/, pysprint, 0.29.0, Spectrally refined interferometry for Python, 2021-04-06T14:43:12+0000
+/project/cantact/, cantact, 0.0.7, Support for the CANtact Controller Area Network Devices, 2020-08-03T15:14:24+0000
+/project/fast-luhn/, fast-luhn, 0.1.5, Fast Luhn algorithm, 2020-12-20T15:40:37+0000
+/project/portus/, portus, 0.5.1, Python bindings for the Portus implementation of CCP, 2019-04-24T19:40:47+0000
+/project/py-sv-parser/, py-sv-parser, 0.2.1, Python bindings for SystemVerilog parsing., 2020-11-24T22:50:23+0000
+/project/networkg/, networkg, 0.1.4, , 2021-01-03T20:56:40+0000
+/project/eclipse-zenoh/, eclipse-zenoh, 0.5.0-b8, , 2021-03-31T17:36:48+0000
+/project/pravega/, pravega, 0.1.0, Pravega client, 2021-03-05T07:41:30+0000
+/project/spacy-alignments/, spacy-alignments, 0.8.3, A spaCy package for the Rust tokenizations library, 2021-04-09T12:55:45+0000
+/project/libsm3py/, libsm3py, 0.0.1, , 2021-02-04T12:04:54+0000
+/project/pylibjpeg-rle/, pylibjpeg-rle, 1.0.0, Python bindings for a fast RLE decoder, with a focus on use as a plugin for pylibjpeg, 2021-04-23T00:15:33+0000
+/project/signal-groups/, signal-groups, 0.1.0, Rust extension providing Python bindings to the v2 signal groups, 2021-03-23T19:00:15+0000
+/project/oxidized-importer/, oxidized-importer, 0.1, Python importer implemented in Rust, 2020-05-10T19:17:23+0000
+/project/sourmash/, sourmash, 4.0.0, tools for comparing DNA sequences with MinHash sketches, 2021-03-02T20:34:29+0000
+/project/pyage-rust/, pyage-rust, 0.1.0, , 2020-07-13T15:33:44+0000
+/project/wasmtime/, wasmtime, 0.26.0, A WebAssembly runtime powered by Wasmtime, 2021-04-05T20:34:22+0000
+/project/iondrive/, iondrive, 0.1.1, , 2021-03-12T15:22:33+0000
+/project/retworkx/, retworkx, 0.8.0, A python graph library implemented in Rust, 2021-03-02T21:19:24+0000
+/project/text-data/, text-data, 0.1.0, A Python package for exploring text data for analysis, 2020-10-21T19:36:32+0000
+/project/perde/, perde, 0.0.2, Fast and flexible serialization library., 2020-11-28T11:08:08+0000
+/project/fastobo/, fastobo, 0.10.1, Faultless AST for Open Biomedical Ontologies in Python., 2021-03-30T16:00:10+0000
+/project/argonautica/, argonautica, 0.1.5, Idiomatic Argon2 password hashing for Python, 2018-06-28T18:09:41+0000
+/project/arduino-oxidizer/, arduino-oxidizer, 1.0.0, A python tool to build Rust project for Arduino and write it., 2020-11-29T14:18:41+0000
+/project/toid/, toid, 0.0.13a0, , 2020-06-28T01:25:24+0000
+/project/wasmer/, wasmer, 1.0.0, Python extension to run WebAssembly binaries, 2021-01-18T15:00:22+0000
+/project/skytemple-rust/, skytemple-rust, 0.0.1.post0, Binary Rust extension for skytemple-files, 2021-03-07T15:40:00+0000
+/project/rgeocoder/, rgeocoder, 0.1.3, A lightweight offline reverse geocoder implemented in Rust., 2018-05-31T17:20:50+0000
+/project/anilistpy/, anilistpy, 0.1.0, python API wrapper for anilist.co, 2021-02-24T14:26:05+0000
+/project/tsp-2opt/, tsp_2opt, 0.0.1, , 2021-03-07T11:15:28+0000
+/project/bc4py-extension/, bc4py-extension, 0.1.7, python extension for bc4py, 2020-03-26T14:20:30+0000
+/project/lacbd/, lacbd, 0.2.0, Fast subsentence searching, 2019-08-26T05:00:56+0000
+/project/pyd4/, pyd4, 0.1.13, , 2020-10-23T18:52:27+0000
+/project/omikuji-fast/, omikuji-fast, 0.3.0, Python binding to Omikuji, an efficient implementation of Partioned Label Trees and its variations for extreme multi-label classification, 2019-11-02T13:43:37+0000
+/project/pyruvate/, pyruvate, 1.0.0, WSGI server implemented in Rust., 2021-03-24T10:56:20+0000
+/project/o3iss/, o3iss, 0.1.3, Iterated-sums signature in Rust, 2021-04-18T17:09:27+0000
+/project/lazrs/, lazrs, 0.2.5, Python bindings for laz-rs, 2021-01-29T12:57:35+0000
+/project/rfernet/, rfernet, 0.1.3, Fast Fernet bindings for Python, 2020-01-08T09:20:36+0000
+/project/jsonlogic-rs/, jsonlogic-rs, 0.2.2, JsonLogic implemented with a Rust backend, 2021-01-23T05:15:56+0000
+/project/py-sourcemap/, py-sourcemap, 0.4.0, A tiny source-map-mappings bindings for python using PyO3, 2018-09-12T16:57:37+0000
+/project/nanoset/, nanoset, 0.2.1, A memory-optimized wrapper for Python sets likely to be empty., 2020-07-01T01:41:00+0000
+/project/polaroid/, polaroid, 0.3.2, Hyper Fast and safe image manipulation library for python. Powered by rust., 2021-03-09T21:40:43+0000
+/project/rogue-gym/, rogue-gym, 0.0.2, OpenAI gym environment for rogue-gym, 2019-05-30T07:54:28+0000
+/project/tensorboard-data-server/, tensorboard-data-server, 0.6.0, Fast data loading for TensorBoard, 2021-03-22T21:59:58+0000
+/project/wasmer-compiler-singlepass/, wasmer-compiler-singlepass, 1.0.0, Python extension to run WebAssembly binaries, 2021-01-18T15:01:09+0000
+/project/oddity/, oddity, 0.1.0, Time Series Anomaly Detection, 2020-12-09T18:06:39+0000
+/project/iced-x86/, iced-x86, 1.11.1, iced-x86 is a blazing fast and correct x86/x64 disassembler, assembler and instruction decoder, 2021-04-15T15:48:34+0000
+/project/divvunspell/, divvunspell, 0.1.0, , 2021-03-18T11:35:25+0000
+/project/nem-ed25519-rust/, nem-ed25519-rust, 1.0.0rc4, , 2019-03-23T14:53:39+0000
+/project/cdjs/, cdjs, 0.1.5, Custom Datetime JSON Serializer, 2021-03-18T13:11:54+0000
+/project/pyoxigraph/, pyoxigraph, 0.2.3, Python bindings of Oxigraph, a SPARQL database and RDF toolkit, 2021-04-11T08:40:45+0000
+/project/kmedoids/, kmedoids, 0.1.5-dev, k-Medoids clustering with the FasterPAM algorithm, 2021-02-01T03:32:09+0000
+/project/opengen/, opengen, 0.6.5, Optimization Engine Code Generator, 2021-04-15T19:33:11+0000
+/project/dqcsim/, dqcsim, 0.4.1, Python bindings for DQCsim, 2020-11-26T11:46:31+0000
+/project/libsm3/, libsm3, 0.0.4, , 2021-02-04T11:03:37+0000
+/project/timsortyer/, timsortyer, 0.1.1, , 2021-03-08T05:24:15+0000
+/project/sphinxcontrib-svgbob/, sphinxcontrib-svgbob, 0.1.1, A Sphinx extension to convert ASCII diagrams to SVGs with Svgbob., 2021-04-14T16:49:41+0000
+/project/johnnycanencrypt/, johnnycanencrypt, 0.5.0, Python module for OpenPGP., 2021-01-02T19:01:23+0000
+/project/autopy/, autopy, 4.0.0, A simple, cross-platform GUI automation library for Python., 2020-02-26T20:41:07+0000
+/project/apres/, apres, 0.2.22, External bindings for apres MIDI library, 2021-04-21T04:32:40+0000
+/project/css-inline/, css-inline, 0.6.2, Fast CSS inlining written in Rust, 2021-01-28T17:01:03+0000
+/project/zangy/, zangy, 0.1.0, A fast redis library written in Rust, 2021-02-26T11:25:01+0000
+/project/razorbird/, razorbird, 0.2.1, A WSGI server based on Rust Hyper, 2020-07-11T22:02:09+0000
+/project/sportgems/, sportgems, 0.5.0, Find valuable gems 💎 in your tracked sport 🚴 activity!, 2021-04-03T11:24:29+0000
+/project/simple-rsync/, simple-rsync, 0.3.0, Simple Python interface for librsync, 2020-12-17T15:10:31+0000
+/project/rskeyring/, rskeyring, 0.1.2.2, A C-level keyring module bind from the Rust programming language (crates.io), 2020-06-28T22:30:09+0000
+/project/bindings-rust/, bindings.rust, 0.1.0, A namespace for Python bindings to Rust libraries, 2018-02-25T20:55:31+0000
+/project/bincraft/, bincraft, 0.1.0, , 2021-04-09T09:39:46+0000
+/project/multi-party-schnorr/, multi-party-schnorr, 0.1.9, , 2019-07-06T13:46:39+0000
+/project/pyawabi/, pyawabi, 0.2.4, A morphological analyzer using mecab dictionary., 2020-12-08T04:01:21+0000
+/project/scandir-rs/, scandir-rs, 0.9.3, A fast directory scanner., 2020-07-29T21:58:23+0000
+/project/gap-stat/, gap-stat, 2.0.1, Python implementation of the gap statistic with optional Rust optimizations., 2020-04-20T04:09:55+0000
+/project/libsm3py/, libsm3py, 0.0.1, , 2021-02-04T12:04:54+0000
+/project/pylibjpeg-rle/, pylibjpeg-rle, 1.0.0, Python bindings for a fast RLE decoder, with a focus on use as a plugin for pylibjpeg, 2021-04-23T00:15:33+0000
+/project/signal-groups/, signal-groups, 0.1.0, Rust extension providing Python bindings to the v2 signal groups, 2021-03-23T19:00:15+0000
+/project/spectrust/, spectrust, 0.1.1, Blazing fast spectrogram generator., 2018-11-09T16:28:44+0000
+/project/attrs2bin/, attrs2bin, 0.0.1, Binary serializer for attrs-based classes, 2020-03-22T04:23:29+0000
+/project/fresh/, fresh, 0.0.1, Automated, end-to-end machine learning, 2018-06-29T18:09:06+0000
+/project/travertine/, travertine, 0.27.0, The Procedures language, 2021-03-11T21:57:26+0000
+/project/jsonschema-rs/, jsonschema-rs, 0.6.1, Fast JSON Schema validation for Python implemented in Rust, 2021-03-26T09:27:49+0000
+/project/the-wabt-rs/, the-wabt-rs, 0.0.1, , 2019-08-14T18:40:19+0000
+/project/is-minified-js/, is-minified-js, 0.3.0, Detecting minified javascript files, 2018-12-18T03:35:24+0000
+/project/wasmer-compiler-llvm/, wasmer-compiler-llvm, 1.0.0, Python extension to run WebAssembly binaries, 2021-01-18T15:00:54+0000
+/project/dtparse/, dtparse, 1.3.2, , 2021-02-11T21:18:42+0000
+/project/tokio/, tokio, 0.2.0, Asyncio event loop written in Rust language, 2017-07-23T20:00:27+0000
+/project/streamson-python/, streamson-python, 4.0.0, Python wrappers around streamson, 2021-04-20T21:15:17+0000
+/project/fast-statistics/, fast-statistics, 0.2.0, Rust extension intended to be a faster version of built-in python statistics package, 2018-11-02T15:59:12+0000
+/project/dominantcolor/, dominantcolor, 1.0.0, Fast & minimal python module to compute the dominant color of an image, written in Rust., 2020-11-15T15:02:26+0000
+/project/pravega/, pravega, 0.1.0, Pravega client, 2021-03-05T07:41:30+0000
+/project/spacy-alignments/, spacy-alignments, 0.8.3, A spaCy package for the Rust tokenizations library, 2021-04-09T12:55:45+0000
+/project/omikuji/, omikuji, 0.3.1, Python binding to Omikuji, an efficient implementation of Partioned Label Trees and its variations for extreme multi-label classification, 2020-01-18T11:27:57+0000
+/project/iterframes/, iterframes, 0.2.0, Iterate on video frames quickly, 2020-12-31T15:23:48+0000
+/project/raptorq/, raptorq, 1.6.3, RaptorQ (RFC6330), 2021-02-18T06:05:35+0000
+/project/omikuji/, omikuji, 0.3.1, Python binding to Omikuji, an efficient implementation of Partioned Label Trees and its variations for extreme multi-label classification, 2020-01-18T11:27:57+0000
+/project/gap-stat/, gap-stat, 2.0.1, Python implementation of the gap statistic with optional Rust optimizations., 2020-04-20T04:09:55+0000
+/project/fast-mail-parser/, fast-mail-parser, 0.2.0, Very fast Python library for .eml files parsing., 2020-12-23T17:49:34+0000
+/project/signal-protocol/, signal-protocol, 0.2.2, Rust extension providing Python bindings to the signal protocol, 2021-03-03T01:16:57+0000
+/project/scrs/, scrs, 0.13.0, , 2020-07-28T02:20:54+0000
+/project/wrecked/, wrecked, 1.0.16, Bindings for the wrecked terminal graphics library, 2021-04-21T04:49:42+0000
+/project/bc4py-core/, bc4py-core, 0.1.0, bc4py core library written by Rust, 2020-05-03T12:25:32+0000
+/project/pyrepscan/, pyrepscan, 0.9.2, A Git Repository Secrets Scanner written in Rust, 2021-03-30T13:52:31+0000
+/project/light-curve-python/, light-curve-python, 0.2.5, Feature extractor from noisy time series, 2021-03-30T15:15:02+0000
+/project/pysprint/, pysprint, 0.29.0, Spectrally refined interferometry for Python, 2021-04-06T14:43:12+0000
+/project/cantact/, cantact, 0.0.7, Support for the CANtact Controller Area Network Devices, 2020-08-03T15:14:24+0000
+/project/fast-luhn/, fast-luhn, 0.1.5, Fast Luhn algorithm, 2020-12-20T15:40:37+0000
+/project/portus/, portus, 0.5.1, Python bindings for the Portus implementation of CCP, 2019-04-24T19:40:47+0000
+/project/iterframes/, iterframes, 0.2.0, Iterate on video frames quickly, 2020-12-31T15:23:48+0000
+/project/raptorq/, raptorq, 1.6.3, RaptorQ (RFC6330), 2021-02-18T06:05:35+0000
+/project/rustdef/, rustdef, 0.2.0, , 2021-01-03T12:15:13+0000
+/project/datafusion/, datafusion, 0.2.0, Build and run queries against data, 2020-12-10T06:21:58+0000
+/project/wasmer-compiler-cranelift/, wasmer-compiler-cranelift, 1.0.0, The Cranelift compiler for the `wasmer` package (to compile WebAssembly module), 2021-01-18T15:00:39+0000
+/project/neighborhood-analysis/, neighborhood_analysis, 0.2.3, , 2021-04-08T13:30:22+0000
+/project/spectrust/, spectrust, 0.1.1, Blazing fast spectrogram generator., 2018-11-09T16:28:44+0000
+/project/attrs2bin/, attrs2bin, 0.0.1, Binary serializer for attrs-based classes, 2020-03-22T04:23:29+0000
+/project/fast-statistics/, fast-statistics, 0.2.0, Rust extension intended to be a faster version of built-in python statistics package, 2018-11-02T15:59:12+0000
+/project/libsm3py/, libsm3py, 0.0.1, , 2021-02-04T12:04:54+0000
+/project/pylibjpeg-rle/, pylibjpeg-rle, 1.0.0, Python bindings for a fast RLE decoder, with a focus on use as a plugin for pylibjpeg, 2021-04-23T00:15:33+0000
+/project/signal-groups/, signal-groups, 0.1.0, Rust extension providing Python bindings to the v2 signal groups, 2021-03-23T19:00:15+0000

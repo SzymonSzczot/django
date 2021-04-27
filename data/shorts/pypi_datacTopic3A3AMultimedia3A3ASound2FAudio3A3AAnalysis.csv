@@ -1,0 +1,376 @@
+/project/midi2audio/, midi2audio, 0.1.1, Easy to use MIDI to audio or playback via FluidSynth, 2016-11-20T19:48:29+0000
+/project/rgain3/, rgain3, 1.1.0, Multi-format Replay Gain utilities, 2020-11-12T21:33:53+0000
+/project/ffsubsync/, ffsubsync, 0.4.12, Language-agnostic synchronization of subtitles with video., 2021-04-13T16:17:57+0000
+/project/friture/, friture, 0.38, Real-time visualization of live audio data, 2019-02-17T21:20:07+0000
+/project/musiclegacy/, musicLegacy, 0.1.dev13, Yet another music package using the MASS (Music and Audio in Sample Sequences) framework, 2019-05-11T20:12:24+0000
+/project/adtlib/, ADTLib, 2.1.2, Automated Drum Trancription Library, 2018-01-17T17:14:28+0000
+/project/vamp/, vamp, 1.1.0, Use Vamp plugins for audio feature analysis., 2015-07-08T19:14:19+0000
+/project/msaf/, msaf, 0.1.70, Python module to discover the structure of music files, 2018-06-16T00:40:39+0000
+/project/izunadsp/, izunadsp, 0.1.1, , 2018-05-02T16:46:36+0000
+/project/acoss/, acoss, 0.0.3, Audio Cover Song Suite (acoss): A feature extraction and benchmarking suite for cover song identification tasks, 2020-03-14T18:59:14+0000
+/project/tgre/, tgre, 1.0, Read, write, and modify Praat TextGrid annotations, 2018-02-06T22:30:13+0000
+/project/enderturing/, enderturing, 0.3.0, Python SDK for EnderTuring speech toolkit, 2021-04-21T21:37:25+0000
+/project/microfaune-ai/, microfaune-ai, 1.0.11603374979, Module package used for the Microfaune project, 2020-10-22T14:53:26+0000
+/project/dr14-t-meter/, DR14-T.meter, 1.0.16, Compute the DR14 of a given audio file according to the procedure described by the Pleasurize Music Foundation, 2015-01-04T17:51:07+0000
+/project/madmom/, madmom, 0.16.1, Python audio signal processing library, 2018-11-14T14:56:22+0000
+/project/soundata/, soundata, 0.1.0rc6, Python library for loading and working with sound datasets., 2021-03-29T21:53:38+0000
+/project/moviepy/, moviepy, 1.0.3, Video editing with Python, 2020-05-07T16:27:46+0000
+/project/py-sonicvisualiser/, py_sonicvisualiser, 0.3, manipulating sonic-visualiser environment files, 2017-06-02T12:54:18+0000
+/project/nsound/, Nsound, 0.9.4, Nsound is a C++ library and Python module for audio synthesis
+    featuring dynamic digital filters. Nsound lets you easily shape
+    waveforms and write to disk or plot them. Nsound aims to be as
+    powerful as Csound but easy to use., 2015-08-23T19:28:52+0000
+/project/last2libre/, last2libre, 1.0.0.dev0, Utility to export Last.fm / Libre.fm history and import history into Libre.fm / Gnu.fm, 2019-02-03T04:14:05+0000
+/project/batchmp/, batchmp, 0.99, Command-line tools for batch media processing, 2019-12-08T15:55:43+0000
+/project/vis-framework/, vis-framework, 3.1.0, The VIS Framework for Music Analysis, 2017-06-13T19:58:52+0000
+/project/spotichart/, spotichart, 1.0.0, Collector Module for Spotify National Trending Analysis, 2019-11-17T00:53:53+0000
+/project/pyteuf/, pyteuf, 1.0.1, Python package for time-frequency analysis, 2018-11-14T08:29:18+0000
+/project/keyfinder/, keyfinder, 1.1.0, Determine the key of an audio file, 2019-04-14T13:04:35+0000
+/project/ctc-chroma/, ctc-chroma, 2.1, CTC-based chroma feature exractors, 2021-04-12T06:41:47+0000
+/project/music22/, music22, 0.0.5, A tool for musicological analysis from audio files. Now it is focused on modal music analysis : Scale analysis, tonic detection, 2017-01-02T15:10:30+0000
+/project/pyprobe/, PyProbe, 0.1.2, Extract metadata from video files using ffprobe or mediainfo, 2019-06-15T16:00:18+0000
+/project/pyloudness/, pyloudness, 1.1.2, Find out how loud that file is, 2016-01-20T17:44:14+0000
+/project/audiomatch/, audiomatch, 0.2.1, A small command-line tool to find similar audio files, 2020-04-06T20:08:52+0000
+/project/edgel3/, edgel3, 0.2.1, Audio embeddings based on sparse or UST specialized (SEA) Look, Listen, and Learn (L3) models for the Edge, 2021-04-19T16:14:20+0000
+/project/libtempo-py/, libtempo-py, 1.0.0, C++ / Python library with signal processing and tempo estimation utilities., 2018-10-11T22:02:35+0000
+/project/presto-chango/, Presto-Chango, 1.0.2, Music identification through audio fingerprinting, 2019-12-31T06:14:12+0000
+/project/essentia-tensorflow/, essentia-tensorflow, 2.1b6.dev374, Library for audio and music analysis, description and synthesis, with TensorFlow support, 2021-01-13T00:10:13+0000
+/project/python-acoustid-api/, python-acoustid-api, 0.0.2, Lightweight wrapper around AcoustID's API, 2014-10-09T21:38:58+0000
+/project/commonfate/, commonfate, 0.1.3, Common Fate Transform and Model, 2016-03-24T09:10:09+0000
+/project/audioowl/, audioowl, 0.0.14, Fast and simple music and audio analysis using RNN in Python, 2018-07-11T03:45:26+0000
+/project/pyroomacoustics/, pyroomacoustics, 0.4.3, A simple framework for room acoustics and audio processing in Python., 2021-02-18T01:35:39+0000
+/project/timbral-models/, timbral_models, 0.4.0, Algorithms for predicting the timbral characteristics of audio files, 2019-01-25T16:49:25+0000
+/project/rgain/, rgain, 1.3.4, Multi-format Replay Gain utilities, 2016-05-06T10:08:07+0000
+/project/diapason/, diapason, 0.0.4, Python module to deal with note sounds., 2017-02-20T23:39:11+0000
+/project/kymatio/, kymatio, 0.2.0, Wavelet scattering transforms in Python with GPU acceleration, 2020-03-17T02:37:04+0000
+/project/pynfft/, pyNFFT, 1.3.2, A pythonic wrapper around NFFT, 2014-07-30T14:17:37+0000
+/project/audioio/, audioio, 0.9.5, Platform independent interfacing of numpy arrays of floats with audio files and devices., 2020-09-21T15:15:20+0000
+/project/spleeter/, spleeter, 2.2.2, The Deezer source separation library with pretrained models based on tensorflow., 2021-04-15T15:05:07+0000
+/project/libfmp/, libfmp, 1.1.1, Python module for fundamentals of music processing, 2020-12-15T09:41:09+0000
+/project/pyo/, pyo, 1.0.3, Python module to build digital signal processing program., 2020-08-28T22:51:24+0000
+/project/stt-watson/, stt-watson, 1.0.3, Continuous speech to text using watson in python with websocket and record from microphone, 2016-01-29T14:15:25+0000
+/project/linmdtw/, linmdtw, 0.1.6, A linear memory, exact, parallelizable algorithm for dynamic time warping in arbitrary Euclidean spaces, 2021-04-06T16:59:27+0000
+/project/forked-auditok-split-without-data/, forked-auditok-split-without-data, 0.2.0a0, A module for Audio/Acoustic Activity Detection, 2020-03-23T13:10:25+0000
+/project/librosa/, librosa, 0.8.0, Python module for audio and music processing, 2020-07-22T01:34:55+0000
+/project/museval/, museval, 0.4.0, Evaluation tools for the SIGSEP MUS database, 2021-01-31T08:47:34+0000
+/project/wav2image/, wav2image, 1.0.2, Waveform generator that can generate any image type, 2016-07-29T13:19:25+0000
+/project/picard-dev/, picard_dev, 2.0.0a1500724561, The next generation MusicBrainz tagger, 2017-07-22T11:56:42+0000
+/project/audfill/, Audfill, 1.0.0, A script to automatically find a song's info., 2020-06-17T07:18:02+0000
+/project/teleforma/, TeleForma, 0.8, open web multimedia e-learning platform, 2012-09-19T21:54:24+0000
+/project/pyebur128/, pyebur128, 0.1.0, A Cython implementation of the libebur128 library for measuring audio loudness., 2021-03-25T23:36:58+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/openl3/, openl3, 0.3.1, Deep audio and image embeddings, based on Look, Listen, and Learn approach, 2020-02-28T21:24:25+0000
+/project/roddy/, roddy, 0.0.1, Generates compositions based upon musical analysis., 2018-08-16T21:03:09+0000
+/project/pyrubberband/, pyrubberband, 0.3.0, Python module to wrap rubberband, 2018-06-11T14:02:07+0000
+/project/essentia/, essentia, 2.1b6.dev374, Library for audio and music analysis, description and synthesis, 2021-01-13T00:12:18+0000
+/project/tfr/, tfr, 0.2.4, Time-frequency reassigned spectrograms, 2018-09-26T16:41:42+0000
+/project/aubio/, aubio, 0.4.9, a collection of tools for music analysis, 2019-02-08T11:21:02+0000
+/project/tvsongs/, tvsongs, 0.5, Find and listen to songs featured in TV shows., 2017-04-29T20:51:46+0000
+/project/resampy/, resampy, 0.2.2, Efficient signal resampling, 2019-08-16T00:17:39+0000
+/project/pytuning/, PyTuning, 0.7.2, A Python package for the exploration of musical tunings., 2017-03-06T16:21:58+0000
+/project/rubberband/, rubberband, 1.0.2, Simple wrapper for librubberband, 2020-04-18T23:07:04+0000
+/project/dido/, dido, 0.0.1.0, dido is an API server and Web application for the aeneas forced aligner, 2017-03-09T14:41:19+0000
+/project/audiolazy/, audiolazy, 0.6, Real-Time Expressive Digital Signal Processing (DSP) Package for Python!, 2016-09-29T13:09:46+0000
+/project/pysdif3/, pysdif3, 0.6.3, Wrapper for the SDIF library for audio analysis, 2021-04-18T14:51:21+0000
+/project/foucluster/, foucluster, 1.2, Clustering of songs using Fourier Transform, 2018-11-28T14:46:07+0000
+/project/zhangxulong/, zhangxulong, 0.0.13, utils @ZHANG Xu-long, 2019-09-20T06:50:14+0000
+/project/waveplot-scanner/, waveplot-scanner, 0.0.1, Tool to scan audio files, and generate and upload WavePlots., 2014-09-05T17:24:19+0000
+/project/aud/, aud, 0.8.6, aud is a python package that aims to make bulk file edits easy enough for anyone with minimal scripting or python knowledge, 2020-09-30T22:06:15+0000
+/project/world4py/, world4py, 0.1.1, Python wrapper for WORLD, 2019-06-04T17:00:33+0000
+/project/sptygenre/, sptygenre, 1.0.0, Draws wordclouds for genres in spotify playlists, 2018-12-02T23:01:22+0000
+/project/timeview/, timeview, 0.1.2, A GUI application to view and analyze time series signal data, 2018-08-02T00:07:55+0000
+/project/harmonizer/, harmonizer, 0.1.31, Harmonizes your audio media: converts, normalizes, enriches and validates., 2019-12-02T12:44:03+0000
+/project/amen/, amen, 0.0.4, Algorithmic music remixing, 2019-08-17T16:39:12+0000
+/project/piwho/, piwho, 1.3.2, A python wrapper around MARF speaker recognition frameworkfor raspberry pi and other SBCs, 2018-01-12T13:52:55+0000
+/project/musdb/, musdb, 0.4.0, Python parser for the SIGSEP MUSDB18 dataset, 2021-01-31T08:32:58+0000
+/project/onesheet/, OneSheet, 0.1.5.7, Easily access metadata for image, video, sound, and document file., 2015-08-19T22:58:00+0000
+/project/pyfftw/, pyFFTW, 0.12.0, A pythonic wrapper around FFTW, the FFT library, presenting a unified interface for all the supported transforms., 2020-02-03T16:34:45+0000
+/project/matchering/, matchering, 2.0.3, Audio Matching and Mastering Python Library, 2020-11-10T17:51:43+0000
+/project/demodocus/, demodocus, 1.0.0.1, demodocus is Python CLI program to quickly check synchronization maps, 2015-12-12T12:08:55+0000
+/project/mimikit/, mimikit, 0.1.10, Python module for generating audio with neural networks, 2021-01-27T03:54:25+0000
+/project/dissonant/, dissonant, 0.1.1, Musical chord dissonance models, 2018-04-03T10:21:51+0000
+/project/r128gain/, r128gain, 1.0.3, Fast audio loudness scanner & tagger, 2020-09-21T21:07:51+0000
+/project/psylab/, PsyLab, 0.4.7.12, PsyLab: Psychophysics Lab, 2018-02-01T23:02:30+0000
+/project/tinytag/, tinytag, 1.5.0, Read music meta data and length of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files, 2020-11-05T12:44:52+0000
+/project/stempeg/, stempeg, 0.2.3, Read and write stem/multistream audio files, 2021-01-30T14:54:56+0000
+/project/pydub/, pydub, 0.25.1, Manipulate audio with an simple and easy high level interface, 2021-03-10T02:09:53+0000
+/project/pytvocal/, pyTvocal, 0.1.0, A python tutorial for vocal detection @ZHANG Xu-long, 2017-07-24T13:25:26+0000
+/project/crepe/, crepe, 0.0.11, CREPE pitch tracker, 2020-03-26T02:39:18+0000
+/project/waveglow-vocoder/, waveglow-vocoder, 0.2.1, A vocoder that can convert audio to Mel-Spectrogram and reverse with WaveGlow, all on GPU(if avaliable)., 2020-05-31T09:55:46+0000
+/project/spkit/, spkit, 0.0.9.2, SpKit: Signal Processing toolkit | Nikesh Bajaj |, 2021-04-22T16:33:02+0000
+/project/lws/, lws, 1.2.7, Fast spectrogram phase reconstruction using Local Weighted Sums, 2021-02-11T04:11:08+0000
+/project/dear/, dear, 0.1.3, Dear EARs is an Audio Analysis Framework, 2012-06-11T02:59:28+0000
+/project/jams/, jams, 0.3.4, A JSON Annotated Music Specification for Reproducible MIR Research, 2019-08-13T20:54:32+0000
+/project/wiki-music/, wiki-music, 0.6a0, Music tagger with information retrieval from wikipedia, 2019-12-24T17:10:48+0000
+/project/helios-client/, helios-client, 0.3.dev20200304, Pure python 3 module to communicate with a Helios server., 2020-03-05T03:29:52+0000
+/project/purity/, purity, 0.2.4, Purity dynamic patching library for Pure Data in Python., 2009-12-05T17:22:13+0000
+/project/pytextgrid/, pytextgrid, 0.1.4, A toolbox for manipulating praat textgrid in python: creation, modification, analysis, 2018-12-19T18:32:39+0000
+/project/picard/, picard, 2.6.1, The next generation MusicBrainz tagger, 2021-04-15T09:39:44+0000
+/project/birdvoxdetect/, birdvoxdetect, 0.5.0, Bioacoustic monitoring of nocturnal bird migration, 2021-02-03T13:29:16+0000
+/project/osc-gen/, osc-gen, 1.3.2, Generate oscilator wavetoables, 2020-07-01T19:50:45+0000
+/project/lachesis/, lachesis, 0.0.3.0, lachesis automates the segmentation of a transcript into closed captions, 2017-01-26T21:14:42+0000
+/project/pitchclock/, pitchclock, 0.0.4, Tone clock visualizations, 2017-09-25T06:05:27+0000
+/project/telemeta/, Telemeta, 1.6.4, Open web audio application with semantics, 2017-09-17T22:11:05+0000
+/project/pyvad/, pyvad, 0.1.3, py-webrtcvad wrapper for trimming speech clips, 2021-01-17T00:05:58+0000
+/project/apollon/, apollon, 0.1.2.1, Feature extraction frame work for content-based music analysis., 2021-03-22T05:41:58+0000
+/project/pysofaconventions/, pysofaconventions, 0.1.5, pysofaconventions: python implementation of the SOFA Convention, 2019-05-22T14:47:54+0000
+/project/buckeye/, buckeye, 1.3, Classes and iterators for the Buckeye Corpus, 2018-03-30T19:05:52+0000
+/project/mdct/, mdct, 0.4, A fast MDCT implementation using SciPy and FFTs, 2016-05-23T14:25:31+0000
+/project/midiroute/, midiroute, 0.3.1, A command line utility for routing and monitoring MIDI ports., 2021-03-25T23:04:57+0000
+/project/birdvoxclassify/, birdvoxclassify, 0.2.0, Species identification from bird flight call recordings, 2020-11-18T17:51:02+0000
+/project/audiodiff/, audiodiff, 0.3.0, Small library for comparing audio files, 2014-02-17T07:38:56+0000
+/project/stft/, stft, 0.5.2, Short Time Fourier transform for NumPy., 2016-03-31T15:21:23+0000
+/project/basezhang/, baseZhang, 1.6.6, mir-feature-tools @ZHANG Xu-long, 2018-04-25T15:55:40+0000
+/project/pescador/, pescador, 2.1.0, Multiplex generators for incremental learning, 2019-08-29T14:34:53+0000
+/project/musicntd/, musicntd, 0.2.0, Package for NTD applied on musical segmentation, 2020-08-07T15:46:48+0000
+/project/ffmpeg-normalize/, ffmpeg-normalize, 1.22.1, Normalize audio via ffmpeg, 2021-03-10T19:58:48+0000
+/project/pydub-ffmpeg-wav/, pydub-ffmpeg-wav, 0.23.0, Manipulate audio with an simple and easy high level interface, 2019-01-08T15:57:35+0000
+/project/subsync/, subsync, 0.1.5, Synchronize your subtitles with mahcine learning, 2018-11-10T22:44:08+0000
+/project/iscc-service/, iscc-service, 0.2.3, ISCC Web Service API, 2020-06-12T18:57:19+0000
+/project/spaudio/, spaudio, 0.7.16, spAudio audio I/O library, 2019-05-04T17:32:09+0000
+/project/higrid/, higrid, 0.1.1, Hierarchical Grid Refinement (HiGRID): Multiple source DOA Estimation with Spherical Microphone Arrays, 2019-04-10T22:12:17+0000
+/project/pya/, pya, 0.4.2, Python audio coding classes - for dsp and sonification, 2021-03-10T10:49:08+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/ffsubs/, ffsubs, 0.3.3, Language-agnostic synchronization of subtitles with video via speech detection, and other subtitle tools., 2020-03-17T22:39:21+0000
+/project/py3-aeneas/, py3-aeneas, 1.1.0, py3-aeneas is a fork of aeneas, 2020-05-03T17:25:40+0000
+/project/moviepy-patch/, moviepy-patch, 1.0.1, Video editing with Python, 2020-02-26T04:35:31+0000
+/project/vidify-audiosync/, vidify-audiosync, 0.3.0, Vidify extension to synchronize a YouTube video with the audio playing on your device., 2020-04-13T02:09:31+0000
+/project/madarrays/, madarrays, 1.1.2, Python package for audio data structures with missing entries, 2018-11-14T08:09:02+0000
+/project/audlib/, audlib, 0.0.3.4, A speech signal processing library with emphasis on deep learning., 2021-02-02T21:42:52+0000
+/project/tuning-fork/, tuning-fork, 1.7.1, A clip/sample auto tuner, 2018-07-11T17:56:27+0000
+/project/autopool/, autopool, 0.1.0, Adaptive pooling operators for multiple instance learning, 2018-07-27T21:36:57+0000
+/project/c5py/, c5py, 0.3.4, Analysis and visualization tools for the Augmented Reality-based Corpus (ARbC). This corpus has been created in the research project 'Alignment in AR-based cooperation' which was a part of the Collaborative Research Centre 'Alignment in Communication' (CRC 673) under the project code C5., 2020-12-19T12:46:21+0000
+/project/substream/, substream, 0.1.1, Transcribes audio files to .srt, 2019-06-06T00:54:29+0000
+/project/sed-eval/, sed_eval, 0.2.1, Evaluation toolbox for Sound Event Detection, 2018-07-24T20:33:24+0000
+/project/itsfm/, itsfm, 0.1.0, Identify, Track and Segment sounds by Frequency and its Modulation, 2020-11-18T16:39:30+0000
+/project/kaldiio/, kaldiio, 2.17.2, Kaldi-ark loading and writing module, 2020-12-10T23:10:11+0000
+/project/mirdata/, mirdata, 0.3.3, Common loaders for MIR datasets., 2021-04-17T11:39:07+0000
+/project/pyaca/, pyACA, 0.2.1, scripts accompanying the book An Introduction to Audio Content Analysis by Alexander Lerch, 2021-03-25T02:58:48+0000
+/project/comsar/, comsar, 0.0.3, Computational Music and Sound Archiving, 2021-04-23T11:04:12+0000
+/project/audiotools/, audiotools, 0.1.0, Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications, 2016-10-19T14:02:11+0000
+/project/musicnn-keras/, musicnn-keras, 0.1.0, Pronounced as "musician", musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging. Musicnn_keras is a tf.keras implementation of musicnn, 2020-05-04T15:19:13+0000
+/project/ultrastar-pitch/, ultrastar-pitch, 1.0.1, Automate the pitch detection process for Ultrastar Deluxe karaoke projects, 2021-02-02T11:03:02+0000
+/project/muda/, muda, 0.4.1, Musical data augmentation, 2019-11-15T15:46:21+0000
+/project/libyata/, libyata, 0.6.3, Yet Another Tools for Audio deep learning, 2021-04-18T14:12:46+0000
+/project/tempi/, tempi, 0.2.1, Add tempo metadata to your music collection., 2014-10-02T19:45:24+0000
+/project/pynfft2/, pyNFFT2, 1.3.3, A pythonic wrapper around NFFT, 2020-07-06T14:00:28+0000
+/project/cython-pocketfft/, cython-pocketfft, 0.0.12, Cython wrapper for PocketFFT, 2020-11-23T00:16:39+0000
+/project/mingus/, mingus, 0.6.1, mingus is a music package for Python, 2020-12-31T15:17:57+0000
+/project/chainsaddiction/, chainsaddiction, 0.1.2, Discrete time, finit state space, stationary Hidden Markov Model., 2021-03-18T13:34:15+0000
+/project/mir-eval/, mir_eval, 0.6, Common metrics for common audio/music processing tasks., 2020-04-09T23:03:30+0000
+/project/diastema/, diastema, 0.0.4, A tool for modal music analysis : Scale analysis, tonic detection, 2015-06-11T05:56:20+0000
+/project/pylastfp/, pylastfp, 0.6, bindings for Last.fm's acoustic fingerprinting (fplib), 2011-11-12T01:00:09+0000
+/project/audiosegment/, audiosegment, 0.23.0, Wrapper for pydub.AudioSegment for additional methods., 2020-08-20T19:08:20+0000
+/project/solar-sails/, solar-sails, 0.1.0, SunVox Augmentation and Interactive Live-coding System, 2016-11-09T19:22:07+0000
+/project/termify/, termify, 1.0.1, Termify is a simple service that permits you to retrieve lyrics in your terminal, 2017-11-04T17:55:36+0000
+/project/djtools/, Djtools, 0.4, Tools for reading and writing DJ software media libraries., 2018-10-06T19:23:31+0000
+/project/dcase-util/, dcase-util, 0.2.17, A collection of utilities for Detection and Classification of Acoustic Scenes and Events, 2021-03-03T13:24:35+0000
+/project/aeneas/, aeneas, 1.7.3.0, aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment), 2017-03-16T12:54:13+0000
+/project/auditok/, auditok, 0.2.0, A module for Audio/Acoustic Activity Detection, 2021-03-02T22:16:09+0000
+/project/spotted-on-spotify/, spotted-on-spotify, 1.0.0, Youtube/SoundCloud to Spotify python command line application., 2018-08-29T02:36:50+0000
+/project/scaper/, scaper, 1.6.5, A library for soundscape synthesis and augmentation, 2021-04-23T22:12:49+0000
+/project/smst/, smst, 0.3.1, SMS tools - spectral audio modeling/synthesis/transformations, 2016-01-02T22:16:47+0000
+/project/pymusiclooper/, pymusiclooper, 2.4.0, Automatically find the loop points of any music file and export into intro/loop/outro sections or loop points, with optional playback through the terminal., 2021-03-21T15:28:23+0000
+/project/timeside/, TimeSide, 0.9.6, Audio processing framework for the web, 2020-11-27T09:33:19+0000
+/project/tdh-twitch-utils/, tdh-twitch-utils, 1.5.2, Record, concatenate and synchronize Twitch live streams, 2021-04-04T00:10:15+0000
+/project/minispec/, minispec, 0.1.1, Minimal module for computing audio spectrograms, 2019-02-28T22:45:03+0000
+/project/pysdif/, pysdif, 0.1.4, SDIF for python, 2012-01-13T18:12:05+0000
+/project/tweetypy/, tweetypy, 1.0.0rc6, Bird song analysis tools, 2017-09-11T21:22:03+0000
+/project/ipapy/, ipapy, 0.0.9.0, ipapy is a Python module to work with IPA strings, 2019-05-05T22:27:35+0000
+/project/tempocnn/, tempocnn, 0.0.6, Python audio signal processing library for musical tempo detection, 2020-11-10T13:26:19+0000
+/project/spleeter-gpu/, spleeter-gpu, 2.0.2,  The Deezer source separation library with pretrained models based on tensorflow. , 2020-12-04T11:44:05+0000
+/project/inaspeechsegmenter/, inaSpeechSegmenter, 0.6.7, CNN-based audio segmentation toolkit. Does voice activity detection, speech detection, music detection, noise detection, speaker gender recognition., 2021-04-12T15:33:57+0000
+/project/musicnn/, musicnn, 0.1.0, Pronounced as "musician", musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging, 2019-08-18T22:43:18+0000
+/project/dsdtools/, dsdtools, 0.1.3, Python tools for the Demixing Secrets Dataset (DSD), 2016-07-20T13:05:41+0000
+/project/iracema/, iracema, 0.1.7, Audio Content Analysis for Research on Musical Expressiveness and Individuality, 2020-11-24T20:36:34+0000
+/project/musicplayer/, musicplayer, 1.20141030.091600, Music player core Python module, 2014-10-30T09:16:10+0000
+/project/itu-r-468-weighting/, itu-r-468-weighting, 2.0.3, A zero dependency Python ITU-R 468 noise weighting filter (1 kHz and 2 kHz), 2019-09-27T15:17:36+0000
+/project/music-metadata-filter/, music-metadata-filter, 2.0.1, A module for cleaning up artist, album, and song names., 2021-03-12T23:19:55+0000
+/project/midi2audio/, midi2audio, 0.1.1, Easy to use MIDI to audio or playback via FluidSynth, 2016-11-20T19:48:29+0000
+/project/rgain3/, rgain3, 1.1.0, Multi-format Replay Gain utilities, 2020-11-12T21:33:53+0000
+/project/ffsubsync/, ffsubsync, 0.4.12, Language-agnostic synchronization of subtitles with video., 2021-04-13T16:17:57+0000
+/project/friture/, friture, 0.38, Real-time visualization of live audio data, 2019-02-17T21:20:07+0000
+/project/pyteuf/, pyteuf, 1.0.1, Python package for time-frequency analysis, 2018-11-14T08:29:18+0000
+/project/musiclegacy/, musicLegacy, 0.1.dev13, Yet another music package using the MASS (Music and Audio in Sample Sequences) framework, 2019-05-11T20:12:24+0000
+/project/adtlib/, ADTLib, 2.1.2, Automated Drum Trancription Library, 2018-01-17T17:14:28+0000
+/project/vamp/, vamp, 1.1.0, Use Vamp plugins for audio feature analysis., 2015-07-08T19:14:19+0000
+/project/msaf/, msaf, 0.1.70, Python module to discover the structure of music files, 2018-06-16T00:40:39+0000
+/project/izunadsp/, izunadsp, 0.1.1, , 2018-05-02T16:46:36+0000
+/project/acoss/, acoss, 0.0.3, Audio Cover Song Suite (acoss): A feature extraction and benchmarking suite for cover song identification tasks, 2020-03-14T18:59:14+0000
+/project/tgre/, tgre, 1.0, Read, write, and modify Praat TextGrid annotations, 2018-02-06T22:30:13+0000
+/project/enderturing/, enderturing, 0.3.0, Python SDK for EnderTuring speech toolkit, 2021-04-21T21:37:25+0000
+/project/microfaune-ai/, microfaune-ai, 1.0.11603374979, Module package used for the Microfaune project, 2020-10-22T14:53:26+0000
+/project/dr14-t-meter/, DR14-T.meter, 1.0.16, Compute the DR14 of a given audio file according to the procedure described by the Pleasurize Music Foundation, 2015-01-04T17:51:07+0000
+/project/madmom/, madmom, 0.16.1, Python audio signal processing library, 2018-11-14T14:56:22+0000
+/project/soundata/, soundata, 0.1.0rc6, Python library for loading and working with sound datasets., 2021-03-29T21:53:38+0000
+/project/moviepy/, moviepy, 1.0.3, Video editing with Python, 2020-05-07T16:27:46+0000
+/project/py-sonicvisualiser/, py_sonicvisualiser, 0.3, manipulating sonic-visualiser environment files, 2017-06-02T12:54:18+0000
+/project/ctc-chroma/, ctc-chroma, 2.1, CTC-based chroma feature exractors, 2021-04-12T06:41:47+0000
+/project/music22/, music22, 0.0.5, A tool for musicological analysis from audio files. Now it is focused on modal music analysis : Scale analysis, tonic detection, 2017-01-02T15:10:30+0000
+/project/keyfinder/, keyfinder, 1.1.0, Determine the key of an audio file, 2019-04-14T13:04:35+0000
+/project/pyprobe/, PyProbe, 0.1.2, Extract metadata from video files using ffprobe or mediainfo, 2019-06-15T16:00:18+0000
+/project/pyloudness/, pyloudness, 1.1.2, Find out how loud that file is, 2016-01-20T17:44:14+0000
+/project/audiomatch/, audiomatch, 0.2.1, A small command-line tool to find similar audio files, 2020-04-06T20:08:52+0000
+/project/edgel3/, edgel3, 0.2.1, Audio embeddings based on sparse or UST specialized (SEA) Look, Listen, and Learn (L3) models for the Edge, 2021-04-19T16:14:20+0000
+/project/libtempo-py/, libtempo-py, 1.0.0, C++ / Python library with signal processing and tempo estimation utilities., 2018-10-11T22:02:35+0000
+/project/presto-chango/, Presto-Chango, 1.0.2, Music identification through audio fingerprinting, 2019-12-31T06:14:12+0000
+/project/essentia-tensorflow/, essentia-tensorflow, 2.1b6.dev374, Library for audio and music analysis, description and synthesis, with TensorFlow support, 2021-01-13T00:10:13+0000
+/project/python-acoustid-api/, python-acoustid-api, 0.0.2, Lightweight wrapper around AcoustID's API, 2014-10-09T21:38:58+0000
+/project/nsound/, Nsound, 0.9.4, Nsound is a C++ library and Python module for audio synthesis
+    featuring dynamic digital filters. Nsound lets you easily shape
+    waveforms and write to disk or plot them. Nsound aims to be as
+    powerful as Csound but easy to use., 2015-08-23T19:28:52+0000
+/project/last2libre/, last2libre, 1.0.0.dev0, Utility to export Last.fm / Libre.fm history and import history into Libre.fm / Gnu.fm, 2019-02-03T04:14:05+0000
+/project/batchmp/, batchmp, 0.99, Command-line tools for batch media processing, 2019-12-08T15:55:43+0000
+/project/vis-framework/, vis-framework, 3.1.0, The VIS Framework for Music Analysis, 2017-06-13T19:58:52+0000
+/project/commonfate/, commonfate, 0.1.3, Common Fate Transform and Model, 2016-03-24T09:10:09+0000
+/project/audioowl/, audioowl, 0.0.14, Fast and simple music and audio analysis using RNN in Python, 2018-07-11T03:45:26+0000
+/project/pyroomacoustics/, pyroomacoustics, 0.4.3, A simple framework for room acoustics and audio processing in Python., 2021-02-18T01:35:39+0000
+/project/timbral-models/, timbral_models, 0.4.0, Algorithms for predicting the timbral characteristics of audio files, 2019-01-25T16:49:25+0000
+/project/rgain/, rgain, 1.3.4, Multi-format Replay Gain utilities, 2016-05-06T10:08:07+0000
+/project/diapason/, diapason, 0.0.4, Python module to deal with note sounds., 2017-02-20T23:39:11+0000
+/project/kymatio/, kymatio, 0.2.0, Wavelet scattering transforms in Python with GPU acceleration, 2020-03-17T02:37:04+0000
+/project/spotichart/, spotichart, 1.0.0, Collector Module for Spotify National Trending Analysis, 2019-11-17T00:53:53+0000
+/project/pynfft/, pyNFFT, 1.3.2, A pythonic wrapper around NFFT, 2014-07-30T14:17:37+0000
+/project/forked-auditok-split-without-data/, forked-auditok-split-without-data, 0.2.0a0, A module for Audio/Acoustic Activity Detection, 2020-03-23T13:10:25+0000
+/project/amen/, amen, 0.0.4, Algorithmic music remixing, 2019-08-17T16:39:12+0000
+/project/piwho/, piwho, 1.3.2, A python wrapper around MARF speaker recognition frameworkfor raspberry pi and other SBCs, 2018-01-12T13:52:55+0000
+/project/musdb/, musdb, 0.4.0, Python parser for the SIGSEP MUSDB18 dataset, 2021-01-31T08:32:58+0000
+/project/onesheet/, OneSheet, 0.1.5.7, Easily access metadata for image, video, sound, and document file., 2015-08-19T22:58:00+0000
+/project/pyfftw/, pyFFTW, 0.12.0, A pythonic wrapper around FFTW, the FFT library, presenting a unified interface for all the supported transforms., 2020-02-03T16:34:45+0000
+/project/mimikit/, mimikit, 0.1.10, Python module for generating audio with neural networks, 2021-01-27T03:54:25+0000
+/project/librosa/, librosa, 0.8.0, Python module for audio and music processing, 2020-07-22T01:34:55+0000
+/project/dissonant/, dissonant, 0.1.1, Musical chord dissonance models, 2018-04-03T10:21:51+0000
+/project/r128gain/, r128gain, 1.0.3, Fast audio loudness scanner & tagger, 2020-09-21T21:07:51+0000
+/project/wav2image/, wav2image, 1.0.2, Waveform generator that can generate any image type, 2016-07-29T13:19:25+0000
+/project/roddy/, roddy, 0.0.1, Generates compositions based upon musical analysis., 2018-08-16T21:03:09+0000
+/project/essentia/, essentia, 2.1b6.dev374, Library for audio and music analysis, description and synthesis, 2021-01-13T00:12:18+0000
+/project/tfr/, tfr, 0.2.4, Time-frequency reassigned spectrograms, 2018-09-26T16:41:42+0000
+/project/aubio/, aubio, 0.4.9, a collection of tools for music analysis, 2019-02-08T11:21:02+0000
+/project/tinytag/, tinytag, 1.5.0, Read music meta data and length of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA and Wave files, 2020-11-05T12:44:52+0000
+/project/stempeg/, stempeg, 0.2.3, Read and write stem/multistream audio files, 2021-01-30T14:54:56+0000
+/project/pydub/, pydub, 0.25.1, Manipulate audio with an simple and easy high level interface, 2021-03-10T02:09:53+0000
+/project/pytvocal/, pyTvocal, 0.1.0, A python tutorial for vocal detection @ZHANG Xu-long, 2017-07-24T13:25:26+0000
+/project/lws/, lws, 1.2.7, Fast spectrogram phase reconstruction using Local Weighted Sums, 2021-02-11T04:11:08+0000
+/project/purity/, purity, 0.2.4, Purity dynamic patching library for Pure Data in Python., 2009-12-05T17:22:13+0000
+/project/buckeye/, buckeye, 1.3, Classes and iterators for the Buckeye Corpus, 2018-03-30T19:05:52+0000
+/project/mdct/, mdct, 0.4, A fast MDCT implementation using SciPy and FFTs, 2016-05-23T14:25:31+0000
+/project/midiroute/, midiroute, 0.3.1, A command line utility for routing and monitoring MIDI ports., 2021-03-25T23:04:57+0000
+/project/birdvoxclassify/, birdvoxclassify, 0.2.0, Species identification from bird flight call recordings, 2020-11-18T17:51:02+0000
+/project/pytextgrid/, pytextgrid, 0.1.4, A toolbox for manipulating praat textgrid in python: creation, modification, analysis, 2018-12-19T18:32:39+0000
+/project/audiodiff/, audiodiff, 0.3.0, Small library for comparing audio files, 2014-02-17T07:38:56+0000
+/project/pysdif3/, pysdif3, 0.6.3, Wrapper for the SDIF library for audio analysis, 2021-04-18T14:51:21+0000
+/project/foucluster/, foucluster, 1.2, Clustering of songs using Fourier Transform, 2018-11-28T14:46:07+0000
+/project/audioio/, audioio, 0.9.5, Platform independent interfacing of numpy arrays of floats with audio files and devices., 2020-09-21T15:15:20+0000
+/project/spleeter/, spleeter, 2.2.2, The Deezer source separation library with pretrained models based on tensorflow., 2021-04-15T15:05:07+0000
+/project/libfmp/, libfmp, 1.1.1, Python module for fundamentals of music processing, 2020-12-15T09:41:09+0000
+/project/pyo/, pyo, 1.0.3, Python module to build digital signal processing program., 2020-08-28T22:51:24+0000
+/project/stt-watson/, stt-watson, 1.0.3, Continuous speech to text using watson in python with websocket and record from microphone, 2016-01-29T14:15:25+0000
+/project/zhangxulong/, zhangxulong, 0.0.13, utils @ZHANG Xu-long, 2019-09-20T06:50:14+0000
+/project/waveplot-scanner/, waveplot-scanner, 0.0.1, Tool to scan audio files, and generate and upload WavePlots., 2014-09-05T17:24:19+0000
+/project/aud/, aud, 0.8.6, aud is a python package that aims to make bulk file edits easy enough for anyone with minimal scripting or python knowledge, 2020-09-30T22:06:15+0000
+/project/linmdtw/, linmdtw, 0.1.6, A linear memory, exact, parallelizable algorithm for dynamic time warping in arbitrary Euclidean spaces, 2021-04-06T16:59:27+0000
+/project/world4py/, world4py, 0.1.1, Python wrapper for WORLD, 2019-06-04T17:00:33+0000
+/project/sptygenre/, sptygenre, 1.0.0, Draws wordclouds for genres in spotify playlists, 2018-12-02T23:01:22+0000
+/project/timeview/, timeview, 0.1.2, A GUI application to view and analyze time series signal data, 2018-08-02T00:07:55+0000
+/project/harmonizer/, harmonizer, 0.1.31, Harmonizes your audio media: converts, normalizes, enriches and validates., 2019-12-02T12:44:03+0000
+/project/matchering/, matchering, 2.0.3, Audio Matching and Mastering Python Library, 2020-11-10T17:51:43+0000
+/project/demodocus/, demodocus, 1.0.0.1, demodocus is Python CLI program to quickly check synchronization maps, 2015-12-12T12:08:55+0000
+/project/museval/, museval, 0.4.0, Evaluation tools for the SIGSEP MUS database, 2021-01-31T08:47:34+0000
+/project/picard-dev/, picard_dev, 2.0.0a1500724561, The next generation MusicBrainz tagger, 2017-07-22T11:56:42+0000
+/project/audfill/, Audfill, 1.0.0, A script to automatically find a song's info., 2020-06-17T07:18:02+0000
+/project/teleforma/, TeleForma, 0.8, open web multimedia e-learning platform, 2012-09-19T21:54:24+0000
+/project/pyebur128/, pyebur128, 0.1.0, A Cython implementation of the libebur128 library for measuring audio loudness., 2021-03-25T23:36:58+0000
+/project/psylab/, PsyLab, 0.4.7.12, PsyLab: Psychophysics Lab, 2018-02-01T23:02:30+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/openl3/, openl3, 0.3.1, Deep audio and image embeddings, based on Look, Listen, and Learn approach, 2020-02-28T21:24:25+0000
+/project/pyrubberband/, pyrubberband, 0.3.0, Python module to wrap rubberband, 2018-06-11T14:02:07+0000
+/project/tvsongs/, tvsongs, 0.5, Find and listen to songs featured in TV shows., 2017-04-29T20:51:46+0000
+/project/crepe/, crepe, 0.0.11, CREPE pitch tracker, 2020-03-26T02:39:18+0000
+/project/waveglow-vocoder/, waveglow-vocoder, 0.2.1, A vocoder that can convert audio to Mel-Spectrogram and reverse with WaveGlow, all on GPU(if avaliable)., 2020-05-31T09:55:46+0000
+/project/spkit/, spkit, 0.0.9.2, SpKit: Signal Processing toolkit | Nikesh Bajaj |, 2021-04-22T16:33:02+0000
+/project/resampy/, resampy, 0.2.2, Efficient signal resampling, 2019-08-16T00:17:39+0000
+/project/dear/, dear, 0.1.3, Dear EARs is an Audio Analysis Framework, 2012-06-11T02:59:28+0000
+/project/pytuning/, PyTuning, 0.7.2, A Python package for the exploration of musical tunings., 2017-03-06T16:21:58+0000
+/project/rubberband/, rubberband, 1.0.2, Simple wrapper for librubberband, 2020-04-18T23:07:04+0000
+/project/jams/, jams, 0.3.4, A JSON Annotated Music Specification for Reproducible MIR Research, 2019-08-13T20:54:32+0000
+/project/wiki-music/, wiki-music, 0.6a0, Music tagger with information retrieval from wikipedia, 2019-12-24T17:10:48+0000
+/project/helios-client/, helios-client, 0.3.dev20200304, Pure python 3 module to communicate with a Helios server., 2020-03-05T03:29:52+0000
+/project/dido/, dido, 0.0.1.0, dido is an API server and Web application for the aeneas forced aligner, 2017-03-09T14:41:19+0000
+/project/audiolazy/, audiolazy, 0.6, Real-Time Expressive Digital Signal Processing (DSP) Package for Python!, 2016-09-29T13:09:46+0000
+/project/picard/, picard, 2.6.1, The next generation MusicBrainz tagger, 2021-04-15T09:39:44+0000
+/project/birdvoxdetect/, birdvoxdetect, 0.5.0, Bioacoustic monitoring of nocturnal bird migration, 2021-02-03T13:29:16+0000
+/project/osc-gen/, osc-gen, 1.3.2, Generate oscilator wavetoables, 2020-07-01T19:50:45+0000
+/project/lachesis/, lachesis, 0.0.3.0, lachesis automates the segmentation of a transcript into closed captions, 2017-01-26T21:14:42+0000
+/project/pitchclock/, pitchclock, 0.0.4, Tone clock visualizations, 2017-09-25T06:05:27+0000
+/project/telemeta/, Telemeta, 1.6.4, Open web audio application with semantics, 2017-09-17T22:11:05+0000
+/project/pyvad/, pyvad, 0.1.3, py-webrtcvad wrapper for trimming speech clips, 2021-01-17T00:05:58+0000
+/project/apollon/, apollon, 0.1.2.1, Feature extraction frame work for content-based music analysis., 2021-03-22T05:41:58+0000
+/project/pysofaconventions/, pysofaconventions, 0.1.5, pysofaconventions: python implementation of the SOFA Convention, 2019-05-22T14:47:54+0000
+/project/stft/, stft, 0.5.2, Short Time Fourier transform for NumPy., 2016-03-31T15:21:23+0000
+/project/basezhang/, baseZhang, 1.6.6, mir-feature-tools @ZHANG Xu-long, 2018-04-25T15:55:40+0000
+/project/pescador/, pescador, 2.1.0, Multiplex generators for incremental learning, 2019-08-29T14:34:53+0000
+/project/musicntd/, musicntd, 0.2.0, Package for NTD applied on musical segmentation, 2020-08-07T15:46:48+0000
+/project/ffmpeg-normalize/, ffmpeg-normalize, 1.22.1, Normalize audio via ffmpeg, 2021-03-10T19:58:48+0000
+/project/pydub-ffmpeg-wav/, pydub-ffmpeg-wav, 0.23.0, Manipulate audio with an simple and easy high level interface, 2019-01-08T15:57:35+0000
+/project/subsync/, subsync, 0.1.5, Synchronize your subtitles with mahcine learning, 2018-11-10T22:44:08+0000
+/project/iscc-service/, iscc-service, 0.2.3, ISCC Web Service API, 2020-06-12T18:57:19+0000
+/project/spaudio/, spaudio, 0.7.16, spAudio audio I/O library, 2019-05-04T17:32:09+0000
+/project/higrid/, higrid, 0.1.1, Hierarchical Grid Refinement (HiGRID): Multiple source DOA Estimation with Spherical Microphone Arrays, 2019-04-10T22:12:17+0000
+/project/pya/, pya, 0.4.2, Python audio coding classes - for dsp and sonification, 2021-03-10T10:49:08+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/ffsubs/, ffsubs, 0.3.3, Language-agnostic synchronization of subtitles with video via speech detection, and other subtitle tools., 2020-03-17T22:39:21+0000
+/project/py3-aeneas/, py3-aeneas, 1.1.0, py3-aeneas is a fork of aeneas, 2020-05-03T17:25:40+0000
+/project/moviepy-patch/, moviepy-patch, 1.0.1, Video editing with Python, 2020-02-26T04:35:31+0000
+/project/vidify-audiosync/, vidify-audiosync, 0.3.0, Vidify extension to synchronize a YouTube video with the audio playing on your device., 2020-04-13T02:09:31+0000
+/project/madarrays/, madarrays, 1.1.2, Python package for audio data structures with missing entries, 2018-11-14T08:09:02+0000
+/project/audlib/, audlib, 0.0.3.4, A speech signal processing library with emphasis on deep learning., 2021-02-02T21:42:52+0000
+/project/tuning-fork/, tuning-fork, 1.7.1, A clip/sample auto tuner, 2018-07-11T17:56:27+0000
+/project/autopool/, autopool, 0.1.0, Adaptive pooling operators for multiple instance learning, 2018-07-27T21:36:57+0000
+/project/c5py/, c5py, 0.3.4, Analysis and visualization tools for the Augmented Reality-based Corpus (ARbC). This corpus has been created in the research project 'Alignment in AR-based cooperation' which was a part of the Collaborative Research Centre 'Alignment in Communication' (CRC 673) under the project code C5., 2020-12-19T12:46:21+0000
+/project/substream/, substream, 0.1.1, Transcribes audio files to .srt, 2019-06-06T00:54:29+0000
+/project/sed-eval/, sed_eval, 0.2.1, Evaluation toolbox for Sound Event Detection, 2018-07-24T20:33:24+0000
+/project/itsfm/, itsfm, 0.1.0, Identify, Track and Segment sounds by Frequency and its Modulation, 2020-11-18T16:39:30+0000
+/project/kaldiio/, kaldiio, 2.17.2, Kaldi-ark loading and writing module, 2020-12-10T23:10:11+0000
+/project/mirdata/, mirdata, 0.3.3, Common loaders for MIR datasets., 2021-04-17T11:39:07+0000
+/project/pyaca/, pyACA, 0.2.1, scripts accompanying the book An Introduction to Audio Content Analysis by Alexander Lerch, 2021-03-25T02:58:48+0000
+/project/comsar/, comsar, 0.0.3, Computational Music and Sound Archiving, 2021-04-23T11:04:12+0000
+/project/audiotools/, audiotools, 0.1.0, Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications, 2016-10-19T14:02:11+0000
+/project/musicnn-keras/, musicnn-keras, 0.1.0, Pronounced as "musician", musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging. Musicnn_keras is a tf.keras implementation of musicnn, 2020-05-04T15:19:13+0000
+/project/muda/, muda, 0.4.1, Musical data augmentation, 2019-11-15T15:46:21+0000
+/project/ultrastar-pitch/, ultrastar-pitch, 1.0.1, Automate the pitch detection process for Ultrastar Deluxe karaoke projects, 2021-02-02T11:03:02+0000
+/project/libyata/, libyata, 0.6.3, Yet Another Tools for Audio deep learning, 2021-04-18T14:12:46+0000
+/project/pysdif/, pysdif, 0.1.4, SDIF for python, 2012-01-13T18:12:05+0000
+/project/tempi/, tempi, 0.2.1, Add tempo metadata to your music collection., 2014-10-02T19:45:24+0000
+/project/pynfft2/, pyNFFT2, 1.3.3, A pythonic wrapper around NFFT, 2020-07-06T14:00:28+0000
+/project/cython-pocketfft/, cython-pocketfft, 0.0.12, Cython wrapper for PocketFFT, 2020-11-23T00:16:39+0000
+/project/mingus/, mingus, 0.6.1, mingus is a music package for Python, 2020-12-31T15:17:57+0000
+/project/chainsaddiction/, chainsaddiction, 0.1.2, Discrete time, finit state space, stationary Hidden Markov Model., 2021-03-18T13:34:15+0000
+/project/mir-eval/, mir_eval, 0.6, Common metrics for common audio/music processing tasks., 2020-04-09T23:03:30+0000
+/project/diastema/, diastema, 0.0.4, A tool for modal music analysis : Scale analysis, tonic detection, 2015-06-11T05:56:20+0000
+/project/pylastfp/, pylastfp, 0.6, bindings for Last.fm's acoustic fingerprinting (fplib), 2011-11-12T01:00:09+0000
+/project/audiosegment/, audiosegment, 0.23.0, Wrapper for pydub.AudioSegment for additional methods., 2020-08-20T19:08:20+0000
+/project/solar-sails/, solar-sails, 0.1.0, SunVox Augmentation and Interactive Live-coding System, 2016-11-09T19:22:07+0000
+/project/termify/, termify, 1.0.1, Termify is a simple service that permits you to retrieve lyrics in your terminal, 2017-11-04T17:55:36+0000
+/project/djtools/, Djtools, 0.4, Tools for reading and writing DJ software media libraries., 2018-10-06T19:23:31+0000
+/project/dcase-util/, dcase-util, 0.2.17, A collection of utilities for Detection and Classification of Acoustic Scenes and Events, 2021-03-03T13:24:35+0000
+/project/aeneas/, aeneas, 1.7.3.0, aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment), 2017-03-16T12:54:13+0000
+/project/auditok/, auditok, 0.2.0, A module for Audio/Acoustic Activity Detection, 2021-03-02T22:16:09+0000
+/project/spotted-on-spotify/, spotted-on-spotify, 1.0.0, Youtube/SoundCloud to Spotify python command line application., 2018-08-29T02:36:50+0000
+/project/scaper/, scaper, 1.6.5, A library for soundscape synthesis and augmentation, 2021-04-23T22:12:49+0000
+/project/smst/, smst, 0.3.1, SMS tools - spectral audio modeling/synthesis/transformations, 2016-01-02T22:16:47+0000
+/project/pymusiclooper/, pymusiclooper, 2.4.0, Automatically find the loop points of any music file and export into intro/loop/outro sections or loop points, with optional playback through the terminal., 2021-03-21T15:28:23+0000
+/project/timeside/, TimeSide, 0.9.6, Audio processing framework for the web, 2020-11-27T09:33:19+0000
+/project/tdh-twitch-utils/, tdh-twitch-utils, 1.5.2, Record, concatenate and synchronize Twitch live streams, 2021-04-04T00:10:15+0000
+/project/minispec/, minispec, 0.1.1, Minimal module for computing audio spectrograms, 2019-02-28T22:45:03+0000
+/project/tweetypy/, tweetypy, 1.0.0rc6, Bird song analysis tools, 2017-09-11T21:22:03+0000
+/project/ipapy/, ipapy, 0.0.9.0, ipapy is a Python module to work with IPA strings, 2019-05-05T22:27:35+0000
+/project/tempocnn/, tempocnn, 0.0.6, Python audio signal processing library for musical tempo detection, 2020-11-10T13:26:19+0000
+/project/spleeter-gpu/, spleeter-gpu, 2.0.2,  The Deezer source separation library with pretrained models based on tensorflow. , 2020-12-04T11:44:05+0000
+/project/inaspeechsegmenter/, inaSpeechSegmenter, 0.6.7, CNN-based audio segmentation toolkit. Does voice activity detection, speech detection, music detection, noise detection, speaker gender recognition., 2021-04-12T15:33:57+0000
+/project/musicnn/, musicnn, 0.1.0, Pronounced as "musician", musicnn is a set of pre-trained deep convolutional neural networks for music audio tagging, 2019-08-18T22:43:18+0000
+/project/dsdtools/, dsdtools, 0.1.3, Python tools for the Demixing Secrets Dataset (DSD), 2016-07-20T13:05:41+0000
+/project/iracema/, iracema, 0.1.7, Audio Content Analysis for Research on Musical Expressiveness and Individuality, 2020-11-24T20:36:34+0000
+/project/musicplayer/, musicplayer, 1.20141030.091600, Music player core Python module, 2014-10-30T09:16:10+0000
+/project/itu-r-468-weighting/, itu-r-468-weighting, 2.0.3, A zero dependency Python ITU-R 468 noise weighting filter (1 kHz and 2 kHz), 2019-09-27T15:17:36+0000
+/project/music-metadata-filter/, music-metadata-filter, 2.0.1, A module for cleaning up artist, album, and song names., 2021-03-12T23:19:55+0000

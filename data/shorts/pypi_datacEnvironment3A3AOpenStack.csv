@@ -1,0 +1,1312 @@
+/project/ironic-lib/, ironic-lib, 4.6.1, Ironic common library, 2021-03-09T08:09:07+0000
+/project/python-scciclient/, python-scciclient, 0.9.1, Python ServerView Common Command Interface (SCCI) Client Library, 2021-02-22T06:30:10+0000
+/project/fixtures-git/, fixtures-git, 0.1.0, unittest fixture to help testing with git repositories, 2018-07-10T08:23:53+0000
+/project/oslo-versionedobjects/, oslo.versionedobjects, 2.4.0, Oslo Versioned Objects library, 2020-12-04T16:34:08+0000
+/project/python-stacktaskclient/, python-stacktaskclient, 0.1.6, StackTask API Client Library, 2017-05-25T05:47:00+0000
+/project/cloudkitty-dashboard/, cloudkitty-dashboard, 12.0.0, CloudKitty Horizon dashboard, 2021-04-14T11:02:17+0000
+/project/ovs-sphinx-theme/, ovs-sphinx-theme, 1.0.2, Open vSwitch Theme, 2020-08-06T15:20:05+0000
+/project/rally-openstack/, rally-openstack, 2.1.0, Rally plugins for OpenStack platform, 2020-11-04T15:36:48+0000
+/project/rackspace-auth-openstack/, rackspace-auth-openstack, 1.3, Rackspace Auth Plugin for OpenStack Clients., 2014-01-22T15:41:00+0000
+/project/python-fuelclient/, python-fuelclient, 11.0.0, Command line interface and Python API wrapper for Fuel., 2017-03-10T11:50:09+0000
+/project/python-watcher-metering-grid5000/, python-watcher_metering_grid5000, 0.22.0, Drivers for the Watcher Metering agent, 2015-12-29T13:10:11+0000
+/project/freezer-dr/, freezer-dr, 10.0.0, OpenStack Disaster Recovery, 2021-04-14T11:03:14+0000
+/project/octavia/, octavia, 8.0.0, OpenStack Octavia Scalable Load Balancer as a Service, 2021-04-14T11:19:57+0000
+/project/radware-os-lb-v2-mitaka/, radware_os_lb_v2_mitaka, 4.5.0-3, Radware LBaaS v2 driver for Openstack Mitaka, 2018-06-09T11:37:54+0000
+/project/python-tripleoclient/, python-tripleoclient, 16.0.0, TripleO client, 2021-04-15T17:29:55+0000
+/project/neutron-bsn-lldp/, neutron-bsn-lldp, 1.0.4, LLDP Agent for Big Switch Networks integration., 2020-11-02T22:26:03+0000
+/project/neutron-lbaas/, neutron-lbaas, 14.0.1, OpenStack Networking Load Balancing as a Service, 2019-11-14T04:13:11+0000
+/project/gluon/, gluon, 1.1.0, OpenStack Gluon acts as a port arbiter between Nova and port-provider such as neutron, 2017-08-30T00:20:41+0000
+/project/networking-dpm/, networking-dpm, 3.0.0, OpenStack Neutron mechanism driver and agent for IBM z Systems PR/SM hypervisor in DPM mode, 2018-02-28T04:42:04+0000
+/project/json-extensions/, json-extensions, 0.2.1, Implements sereval JSON specs, like JSON Schema., 2014-06-04T13:02:47+0000
+/project/zun/, zun, 7.0.0, OpenStack Containers service, 2021-04-14T11:19:26+0000
+/project/keystone-tempest-plugin/, keystone-tempest-plugin, 0.7.0, Tempest plugin keystone_tempest_plugin, 2021-03-31T15:20:12+0000
+/project/os-faults/, os-faults, 0.2.7, OpenStack fault-injection library, 2020-05-05T08:07:32+0000
+/project/oaktreemodel/, oaktreemodel, 0.0.2, Base protobuf data model for oaktree, 2016-11-14T15:50:23+0000
+/project/eris/, eris, 0.0.0.0b1, OpenStack Extreme Testing, 2017-11-01T04:21:20+0000
+/project/osc-lib/, osc-lib, 2.3.1, OpenStackClient Library, 2021-01-18T21:54:52+0000
+/project/rackspaceauth/, rackspaceauth, 0.8.1, keystoneauth plugin for Rackspace's authentication service, 2018-01-11T16:45:37+0000
+/project/cinderlib/, cinderlib, 3.1.0, Direct usage of Cinder Block Storage drivers without the services, 2021-03-08T11:46:21+0000
+/project/ahc-tools/, ahc-tools, 0.2.0, Tools for RDO-manager automatic health checks, 2015-06-19T19:20:57+0000
+/project/baremetal-network-provisioning/, baremetal-network-provisioning, 0.1, HP mechanism drivers for bare metal connectivity, 2015-11-05T07:41:09+0000
+/project/blazar-dashboard/, blazar-dashboard, 5.0.0, Horizon plugin for the Blazar Reservation Service for OpenStack, 2021-04-14T11:02:18+0000
+/project/rally/, rally, 3.2.0, Generic Testing Framework & Tool that unifies all types of testing., 2020-11-02T15:27:14+0000
+/project/slogging/, slogging, 1.2.1, Stats System for OpenStack Swift, 2018-08-14T06:24:45+0000
+/project/openstack-placement/, openstack-placement, 5.0.0, Resource provider inventory usage and allocation service, 2021-04-14T11:15:42+0000
+/project/seamicro-ml2/, seamicro-ml2, 0.1.1, OpenStack Networking, 2015-02-27T09:17:18+0000
+/project/os-log-merger/, os-log-merger, 1.2.1, OpenStack Log merge tool, 2018-10-05T13:14:51+0000
+/project/fuel-pdsh/, fuel-pdsh, 1.0.0.dev21, Simple pure Python alternative to PDSH for OpenStack Fuel node., 2015-12-01T07:46:46+0000
+/project/python-glanceclient/, python-glanceclient, 3.3.0, OpenStack Image API Client Library, 2021-03-11T10:30:34+0000
+/project/heat-translator/, heat-translator, 2.3.0, Tool to translate non-heat templates to Heat Orchestration Template., 2021-03-25T17:50:17+0000
+/project/qh-python-manilaclient/, qh-python-manilaclient, 0.0.1.dev1, Client library for OpenStack Manila API., 2020-10-26T08:02:00+0000
+/project/python-vitrageclient/, python-vitrageclient, 4.3.0, Vitrage Client API Library, 2021-03-08T11:48:04+0000
+/project/tempest-horizon/, tempest-horizon, 1.1.0, Tempest Plugin for Horizon tests, 2020-09-10T20:37:56+0000
+/project/patrole/, patrole, 0.12.0, Patrole is a tool for verifying that Role-Based Access Control is being enforced across OpenStack deployments., 2021-03-26T16:15:12+0000
+/project/keystoneauth/, keystoneauth, 0.5.0, Authentication Libarary for OpenStack Identity, 2015-10-07T04:27:20+0000
+/project/citellus/, citellus, 1.3.3.20210421115858, Utility for running set of tests against a Live System or a snapshot/sosreport, 2021-04-21T11:59:03+0000
+/project/cloudmesh-base/, cloudmesh_base, 3.5.2, A set of simple base functions and classes useful for cloudmesh and other programs, 2016-01-13T21:37:00+0000
+/project/deuce-client/, deuce-client, 0.1-beta10.dev210.g4faa860, Client for Deuce De-Duplication-As-A-Service, 2015-01-22T15:41:07+0000
+/project/kolla-ansible-plugins/, kolla-ansible-plugins, 0.0.0, Provide plugins for openstack/kolla-ansible, 2017-08-07T06:27:00+0000
+/project/barbican-tempest-plugin/, barbican-tempest-plugin, 1.3.0, OpenStack barbican tempest tests., 2021-03-31T12:43:26+0000
+/project/virtualpdu/, virtualpdu, 0.3.6, VirtualPDU is a service for simulating virtual power distribution outlets (PDUs)., 2017-03-07T13:50:00+0000
+/project/satori/, satori, 0.1.5, OpenStack Configuration Discovery, 2014-08-22T03:06:49+0000
+/project/whitebox-tempest-plugin/, whitebox-tempest-plugin, 0, Tempest plugin for whitebox testing of TripleO/Director-based OpenStack deployments, 2019-04-02T18:30:09+0000
+/project/sahara-plugin-mapr/, sahara-plugin-mapr, 5.0.0, Mapr Plugin for Sahara Project, 2021-04-14T11:17:34+0000
+/project/whereto/, whereto, 0.4.0, Test Apache redirect rules., 2017-11-22T13:02:32+0000
+/project/datastore-cloudfiles/, datastore.cloudfiles, 1.0.0, Rackspace Cloud Files implementation of Datastore., 2016-01-28T17:09:03+0000
+/project/oslo-service/, oslo.service, 2.5.0, oslo.service library, 2021-02-08T13:20:10+0000
+/project/networking-spp/, networking-spp, 21.0.0, SPP mechanism driver, 2020-07-27T04:18:06+0000
+/project/designate-dashboard/, designate-dashboard, 12.0.0, Designate Horizon UI bits, 2021-04-14T11:03:02+0000
+/project/xfin/, xfin, 1.0.2, The most important libraries for financial engineering, 2019-05-29T02:48:46+0000
+/project/anchor/, anchor, 0.4.0, Webservice to auto-sign certificates for short amount of time, 2016-03-21T05:03:43+0000
+/project/freezer-api/, freezer-api, 10.0.0, OpenStack Backup and Restore API Service, 2021-04-14T11:04:23+0000
+/project/python-wsmanclient/, python-wsmanclient, 0.1.0, Python client that speaks Web Services-Management protocol, 2016-08-26T11:55:36+0000
+/project/watcher-dashboard/, watcher-dashboard, 5.0.0, Watcher Management Dashboard, 2021-04-14T11:18:11+0000
+/project/ironic-oneview-cli/, ironic-oneview-cli, 1.2.1, Command Line Interface to ease the use of OneView Driver for openstack/ironic, 2018-02-28T20:08:53+0000
+/project/a10-octavia/, a10-octavia, 1.1.0, A10 Octavia Provider Driver, 2021-02-04T02:59:15+0000
+/project/cloudferry/, CloudFerry, 1.55.2, Openstack cloud workload migration tool, 2017-04-09T06:41:51+0000
+/project/python-cloudfoundryclient/, python-cloudfoundryclient, 1.0.2, Python bindings for cloudfoundry, 2015-03-24T22:03:12+0000
+/project/trove-dashboard/, trove-dashboard, 16.0.0, Trove Management Dashboard, 2021-04-14T11:17:57+0000
+/project/python-swiftclient/, python-swiftclient, 3.11.1, OpenStack Object Storage API Client Library, 2021-03-10T15:00:17+0000
+/project/pbr/, pbr, 5.5.1, Python Build Reasonableness, 2020-10-19T16:29:20+0000
+/project/python-watcher-metering-vsphere/, python-watcher_metering_vsphere, 0.21.13, Drivers for the Watcher Metering agent, 2015-11-06T17:36:44+0000
+/project/yakumo/, yakumo, 0.11.0, Pythonic Unified OpenStack Client Library, 2017-05-03T01:16:48+0000
+/project/python-magnetodbclient/, python-magnetodbclient, 1.0.2, CLI and Client Library for OpenStack KeyValue Storage, 2014-12-22T17:53:11+0000
+/project/ironic-ui/, ironic-ui, 4.3.0, Ironic plugin UI for Horizon to allow users to view and manage bare metal nodes, ports and drivers., 2021-03-19T18:39:16+0000
+/project/openstacki18n/, openstacki18n, 0.0.1.dev398, OpenStack I18n, 2018-09-28T18:00:42+0000
+/project/os-resource-classes/, os-resource-classes, 1.0.0, Resource Classes for OpenStack, 2020-03-29T20:19:42+0000
+/project/designate-tempest-plugin/, designate-tempest-plugin, 0.11.0, OpenStack DNS As A Service (Designate) Functional Tests, 2021-03-29T09:08:37+0000
+/project/pankoclient/, pankoclient, 1.2.0, Python client library for OpenStack Panko project., 2020-12-02T10:34:45+0000
+/project/nova-powervm/, nova-powervm, 9.0.0, PowerVM driver for OpenStack Nova., 2019-10-16T12:43:51+0000
+/project/magnetodb/, magnetodb, 2015.1, MagnetoDB is key-value database service for OpenStack cloud, 2015-04-29T13:23:26+0000
+/project/tuning-box/, tuning_box, 0.1.0, Tuning Box - configuration storage for your clouds, 2016-05-05T14:48:23+0000
+/project/horizon-sensu-dashboard/, horizon-sensu-dashboard, 0.0.6, Horizon panels integrating Sensu monitoring and Known Error Database, 2015-05-04T13:47:42+0000
+/project/freezer-web-ui/, freezer-web-ui, 10.0.0, Freezer - Backup as a Service User Interface, 2021-04-14T11:04:24+0000
+/project/qinling/, qinling, 5.0.0, Function as a Service, 2020-10-14T10:26:23+0000
+/project/env2/, env2, 0.0.0, os.environ on steroids, 2017-11-10T20:41:58+0000
+/project/manic-entropy-typhoon/, manic-entropy-typhoon, 0.0.0, Test of the pbr packaging system using cookiecutter, 2017-08-20T20:14:45+0000
+/project/python-novaclient/, python-novaclient, 17.4.0, Client library for OpenStack Compute API, 2021-03-11T19:48:54+0000
+/project/masakari/, masakari, 11.0.0, Virtual Machine High Availability (VMHA) service for OpenStack, 2021-04-14T11:07:16+0000
+/project/vitrage-tempest-plugin/, vitrage-tempest-plugin, 5.3.0, Tempest plugin for Vitrage project, 2021-03-29T09:06:33+0000
+/project/python-mistralclient/, python-mistralclient, 4.2.0, Mistral Client Library, 2021-01-25T20:42:45+0000
+/project/os-traits/, os-traits, 2.5.0, A library containing standardized trait strings, 2021-02-17T13:21:09+0000
+/project/python-smaugclient/, python-smaugclient, 0.0.8, Python client library for Karbor API, 2016-08-29T08:01:24+0000
+/project/monasca-ceilometer/, monasca-ceilometer, 1.10.0, OpenStack Monasca Ceilometer - Provide Metering for Monasca, 2019-09-25T09:16:29+0000
+/project/cloudmesh/, cloudmesh, 2.3.2, A tool to enable federated management of multiple clouds including Azure, AWS, Eucalyptus, OpenStack, 2015-06-04T20:39:33+0000
+/project/glare/, glare, 5.0.1, OpenStack Artifact Service, 2020-03-23T11:16:23+0000
+/project/tuskar/, tuskar, 0.4.18, An OpenStack Management Service, 2015-05-11T19:13:46+0000
+/project/designate/, designate, 12.0.0, DNS as a Service, 2021-04-14T11:03:20+0000
+/project/ceilometer-infoblox/, ceilometer-infoblox, 2.0.0, Infoblox custom meters for Ceilometer (Liberty), 2016-08-02T18:33:11+0000
+/project/neutron-dynamic-routing/, neutron-dynamic-routing, 18.0.0, Neutron Dynamic Routing, 2021-04-14T11:09:53+0000
+/project/cyborg-tempest-plugin/, cyborg-tempest-plugin, 1.2.0, OpenStack Acceleration Tempest Plugin, 2021-03-18T10:50:38+0000
+/project/murano-tempest-plugin/, murano-tempest-plugin, 2.2.0, Tempest plugin for the murano project., 2021-01-18T22:26:18+0000
+/project/horizon-benchmark-dashboard/, horizon-benchmark-dashboard, 1.0.0, Horizon Benchmark Dashboard for easy manage of Rally tests and reports, 2015-09-22T18:54:31+0000
+/project/kloudbuster/, kloudbuster, 8.0.0, KloudBuster is an open source tool that allows anybody to load any Neutron OpenStack cloud at massive data plane scale swiftly and effortlessly., 2020-07-25T15:46:39+0000
+/project/sdflexutils/, sdflexutils, 1.2.2, Client Library for interfacing with various devices in HPE Superdome Flex Servers., 2021-02-10T06:30:51+0000
+/project/oslo-db/, oslo.db, 8.5.0, Oslo Database library, 2020-12-04T08:43:20+0000
+/project/oslo-rootwrap/, oslo.rootwrap, 6.2.0, Oslo Rootwrap, 2020-09-11T19:20:09+0000
+/project/python-libraclient/, python-libraclient, 2.0.0, Client library for Libra LBaaS tools, 2013-11-15T16:08:50+0000
+/project/pyxerox/, PyXerox, 0.0.1.dev2, OpenStack Xerox, 2019-11-22T10:33:08+0000
+/project/python-shka-gadgets-openstackclient/, python-shka-gadgets-openstackclient, 0.5.4, , 2020-04-08T16:27:37+0000
+/project/congress-dashboard/, congress-dashboard, 6.0.0, Horizon Plugin for Congress, 2020-05-13T10:44:09+0000
+/project/radware-os-lb-v2-newton/, radware_os_lb_v2_newton, 4.2.1-1, Radware LBaaS v2 driver for Openstack Newton, 2017-10-31T08:36:22+0000
+/project/otcextensions/, otcextensions, 0.16.1, Open Telekom Cloud specific extensions for the OpenStack Client CLI and OpenStack SDK, 2021-04-23T08:47:42+0000
+/project/barbican/, barbican, 12.0.0, OpenStack Secure Key Management, 2021-04-14T11:01:25+0000
+/project/blazar-tempest-plugin/, blazar-tempest-plugin, 0.6.1, Tempest plugin for Blazar Project, 2021-03-29T09:11:47+0000
+/project/caso/, caso, 2.1.1, cASO is an OpenStack Accounting extractor., 2021-02-05T16:01:22+0000
+/project/python-qinlingclient/, python-qinlingclient, 5.1.1, python-qinlingclient, 2020-09-09T17:45:14+0000
+/project/rsd-lib/, rsd-lib, 1.2.0, Extended Sushy library for Rack Scale Design, 2019-09-12T00:23:38+0000
+/project/qonos/, qonos, 1.1.5, The QonoS project provides services for scheduling regularly occuring tasks., 2015-01-21T22:01:32+0000
+/project/uos-cli/, uos.cli, 1.6.1, UOS Command-line Client, 2015-08-20T05:36:27+0000
+/project/kuryr-kubernetes/, kuryr-kubernetes, 4.0.0, Kubernetes integration with OpenStack networking, 2021-04-14T11:05:02+0000
+/project/python-plcloudclient/, python-plcloudclient, 1.4.0, PLCloud API SDK, 2014-12-31T08:28:01+0000
+/project/herodote-auth/, herodote-auth, 0.0.1.dev22, Auth middleware for swift and herodote, 2021-01-05T11:57:42+0000
+/project/oslo-concurrency/, oslo.concurrency, 4.4.0, Oslo Concurrency library, 2021-01-18T12:06:57+0000
+/project/radware-os-lb-v2-pike/, radware_os_lb_v2_pike, 4.5.0-1, Radware LBaaS v2 driver for Openstack Pike, 2018-06-07T15:01:57+0000
+/project/getting-started-with-openstack/, getting-started-with-openstack, 0.0.1.dev9, OpenStack quickstart via CentOS-based Vagrant environment, 2018-03-21T01:58:58+0000
+/project/heat-cfntools/, heat-cfntools, 1.4.2, Tools required to be installed on Heat provisioned cloud instances, 2016-01-21T20:35:48+0000
+/project/openstack-user-management/, openstack_user_management, 0.1.0.dev4, OpenStack User Management, 2016-11-08T11:47:13+0000
+/project/kuryr-tempest-plugin/, kuryr-tempest-plugin, 0.9.0, Kuryr Tempest Plugin, 2021-03-29T09:06:52+0000
+/project/monasca-tempest-plugin/, monasca-tempest-plugin, 2.2.1, Tempest plugin for Monasca project, 2021-03-29T09:10:57+0000
+/project/rackspacesdk/, rackspacesdk, 0.7.5, Rackspace plugin for the OpenStack SDK, 2017-11-28T20:05:59+0000
+/project/oscurl/, oscurl, 1.1.1, cURL-like tool to access OpenStack APIs with keystone auth, 2017-05-31T10:17:37+0000
+/project/cloudpunch/, cloudpunch, 1.5.0, Framework for OpenStack performance testing at scale, 2018-01-25T21:17:35+0000
+/project/python-cloudkittyclient/, python-cloudkittyclient, 4.2.0, API client of cloudkitty, Rating as a Service project., 2021-01-25T20:41:27+0000
+/project/oslo-log/, oslo.log, 4.4.0, oslo.log library, 2020-08-26T20:16:05+0000
+/project/tacker-horizon/, tacker-horizon, 3.0.0, Tacker extension for Horizon, 2021-04-14T11:18:02+0000
+/project/python-selvpcclient/, python-selvpcclient, 1.4.0, Client for the Selectel Virtual Private Cloud API., 2020-07-09T08:15:40+0000
+/project/sphinx-feature-classification/, sphinx-feature-classification, 1.1.0, Generate a matrix of pluggable drivers and their support to an API in Sphinx., 2020-09-10T13:57:34+0000
+/project/python-tempestconf/, python-tempestconf, 3.2.0, python-tempestconf will automatically generates the tempest configuration based on your cloud., 2021-04-12T06:56:35+0000
+/project/monasca-events-api/, monasca-events-api, 3.0.0, Monasca API for events, 2021-04-14T11:12:50+0000
+/project/python-group-based-policy-client/, python-group-based-policy-client, 8.0.0, CLI and Client Library for Group Based Policy, 2020-09-24T17:33:52+0000
+/project/python-almanachclient/, python-almanachclient, 0.0.6, Almanach API client, 2017-06-30T14:20:00+0000
+/project/rbd-iscsi-client/, rbd-iscsi-client, 0.1.8, "REST client to talk to rbd-target-api", 2020-08-05T19:21:39+0000
+/project/neutron-vpnaas/, neutron-vpnaas, 18.0.0, OpenStack Networking VPN as a Service, 2021-04-14T11:10:40+0000
+/project/python-muranoclient/, python-muranoclient, 2.2.0, python-muranoclient, 2021-01-25T20:41:44+0000
+/project/group-based-policy-automation/, group-based-policy-automation, 2015.2.2, Group Based Policy Automation, 2016-05-13T20:23:33+0000
+/project/synergy-service/, synergy-service, 1.5.3, Synergy is as an extensible general purpose management OpenStack service., 2017-09-20T09:19:33+0000
+/project/vitrage/, vitrage, 7.4.0, The OpenStack RCA Service, 2021-02-11T11:32:47+0000
+/project/python-heatclient/, python-heatclient, 2.3.0, OpenStack Orchestration API Client Library, 2020-12-04T08:47:04+0000
+/project/novajoin-tempest-plugin/, novajoin-tempest-plugin, 0.0.3, OpenStack Novajoin tempest tests., 2020-08-31T19:52:08+0000
+/project/stackhpc-inspector-plugins/, stackhpc-inspector-plugins, 1.1.1, StackHPC plugins for OpenStack ironic inspector, 2018-08-14T14:43:12+0000
+/project/cloudbase-init/, cloudbase-init, 1.1.2, Portable cloud initialization service, 2020-06-22T15:42:17+0000
+/project/ironic-tempest-plugin/, ironic-tempest-plugin, 2.2.0, Tempest plugin for ironic and ironic-inspector, 2021-02-08T13:27:03+0000
+/project/openstackclient/, openstackclient, 4.0.0, OpenStack Command-line Client, 2019-09-13T16:27:55+0000
+/project/oslo-sphinx/, oslo.sphinx, 1.1, OpenStack Sphinx Extensions, 2013-09-29T15:56:25+0000
+/project/networking-ansible/, networking-ansible, 5.0.0, Ansible Networking ML2 Driver, 2020-10-14T12:52:54+0000
+/project/tempest-lib/, tempest-lib, 1.0.0, OpenStack Functional Testing Library, 2016-03-02T15:57:22+0000
+/project/manila-ui/, manila-ui, 5.0.0, Manila Management Dashboard, 2021-04-14T11:10:28+0000
+/project/python-keystoneclient-rackspace/, python-keystoneclient-rackspace, 0.1.3, Rackspace Auth Plugin for OpenStack Clients., 2015-03-28T23:12:00+0000
+/project/os-dpm/, os-dpm, 1.1.0, Shared library for OpenStack projects enabling IBM z Systems PR/SM hypervisor in DPM mode, 2017-07-20T06:27:43+0000
+/project/heat-infoblox/, heat-infoblox, 2.0.0, OpenStack Liberty Heat resources for orchestrating Infoblox appliances., 2016-08-02T18:13:16+0000
+/project/os-performance-tools/, os-performance-tools, 0.1.0, Python scripts for use in OpenStack's QA process, 2015-11-12T22:53:01+0000
+/project/python-neutronclient-ip-address-extension/, python-neutronclient-ip-address-extension, 0.1, Rackspace IP Address Resource Extension for python-neutronclient, 2015-08-13T14:21:37+0000
+/project/networking-bigswitch-l3-pe/, networking_bigswitch_l3_pe, 1.2.0, OpenStack Neutron ML2 drivers for Big Cloud Fabric Physical Edition, 2017-07-06T07:42:31+0000
+/project/python-saharaclient/, python-saharaclient, 3.3.0, Client library for Sahara API, 2020-12-02T10:40:41+0000
+/project/cinderdiags/, cinderdiags, 2.4.1, Cinder Diagnostics CLI, 2016-08-31T19:32:16+0000
+/project/python-searchlightclient/, python-searchlightclient, 2.1.1, OpenStack Indexing and Search API Client Library, 2020-09-09T17:59:49+0000
+/project/radware-os-lb-v2-kilo/, radware_os_lb_v2_kilo, 4.2.1.post3, Radware LBaaS v2 driver for Openstack Kilo, 2019-01-31T13:32:08+0000
+/project/networking-bgpvpn/, networking-bgpvpn, 14.0.0, API and Framework to interconnect bgpvpn to neutron networks, 2021-04-14T11:09:06+0000
+/project/python-storyboardclient/, python-storyboardclient, 0.2.0, Python Client library for StoryBoard, 2018-07-10T22:19:55+0000
+/project/panko/, panko, 10.0.0, Event storage publisher and API for Ceilometer, 2021-04-14T11:15:42+0000
+/project/polymoon/, polymoon, 0.1.0, OpenStack Keystone dashboard, 2020-08-28T16:19:26+0000
+/project/os-api-ref/, os-api-ref, 2.1.0, Sphinx Extensions to support API reference sites in OpenStack, 2020-06-18T15:31:05+0000
+/project/networking-hpe/, networking-hpe, 1.0.0, HPE mechanism drivers for bare metal connectivity, 2017-08-14T22:34:48+0000
+/project/os-refresh-config/, os-refresh-config, 13.0.0, Refresh system configuration, 2021-01-28T11:05:09+0000
+/project/murano/, murano, 2015.1.1, Murano API, 2016-06-08T22:15:27+0000
+/project/risu/, risu, 1.0.4.0.20200817095401, Utility for running set of tests against a Live System or a snapshot/sosreport, 2020-08-17T09:54:08+0000
+/project/qinling-dashboard/, qinling-dashboard, 4.0.0, Qinling Management Dashboard, 2020-10-14T10:31:48+0000
+/project/python-freezerclient/, python-freezerclient, 4.2.0, OpenStack Disaster Recovery API Client Library, 2021-01-18T22:02:28+0000
+/project/wd-extractor/, wd-extractor, 0.0.0, extractor for whosisdumping, 2017-08-20T20:46:48+0000
+/project/stacktask-tempest-plugin/, stacktask-tempest-plugin, 0.0.7, Tempest plugin for the Stacktask project, 2017-01-19T15:08:13+0000
+/project/python-vsmclient/, python-vsmclient, 2.1.0-312, Client library for Intel VSM API., 2016-06-13T22:59:20+0000
+/project/python-watcherclient/, python-watcherclient, 3.2.0, Python client library for Watcher API, 2021-03-15T09:14:19+0000
+/project/python-glareclient/, python-glareclient, 0.5.3, Glare Artifact Repository, 2018-04-12T06:46:55+0000
+/project/confspirator/, confspirator, 0.2.2, A config library for handling nested incode config groups., 2020-08-07T04:55:05+0000
+/project/pf9-saml-auth/, pf9-saml-auth, 0.0.2, Platform9 SAML Authentication Library for OpenStack Identity, 2018-01-27T19:09:38+0000
+/project/certbot-dns-openstack/, certbot-dns-openstack, 0.0.1, OpenStack DNS Authenticator plugin for Certbot, 2018-04-26T16:32:16+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/mistral-extra/, mistral-extra, 11.0.0, Mistral OpenStack-specific bindings, 2020-12-05T17:28:32+0000
+/project/tripleo-common/, tripleo-common, 15.0.0, A common library for TripleO workflows., 2021-04-15T17:41:55+0000
+/project/magnum/, magnum, 12.0.0, Container Management project for OpenStack, 2021-04-14T11:07:45+0000
+/project/kayobe/, kayobe, 9.0.0, Deployment of OpenStack to bare metal using OpenStack kolla and bifrost, 2021-01-11T12:10:02+0000
+/project/keystone-oidc-auth-plugin/, keystone-oidc-auth-plugin, 1.0.0, OpenID Connect Implementation for OpenStack Keystone., 2020-11-19T09:28:17+0000
+/project/distroinfo/, distroinfo, 0.4.0, python module for parsing, validating and querying distribution/packaging metadata stored in human readable and reviewable text/YAML files, 2021-03-03T09:16:07+0000
+/project/mox3/, mox3, 1.1.0, Mock object framework for Python, 2020-06-04T10:42:13+0000
+/project/masakari-monitors/, masakari-monitors, 11.0.0, Monitors for Masakari, 2021-04-14T11:09:43+0000
+/project/monasca-log-api/, monasca-log-api, 2.11.0, Monasca API for sending log entries, 2020-06-18T17:09:15+0000
+/project/networking-bagpipe/, networking-bagpipe, 14.0.0, Mechanism driver for Neutron ML2 plugin using BGP E-VPNs/IP VPNs as a backend, 2021-04-14T11:08:26+0000
+/project/python-cliclient/, python-cliclient, 1.0.0, python-cliclient, 2018-01-11T12:46:33+0000
+/project/python-keystoneclient/, python-keystoneclient, 4.2.0, Client Library for OpenStack Identity, 2020-12-04T08:47:30+0000
+/project/veta-python-novaclient-ext/, veta_python_novaclient_ext, 1.0.0, Veta Backup extension for OS novaclient., 2013-10-24T20:44:27+0000
+/project/python-chi-operator/, python-chi-operator, 0.4.1, Operator library for Chameleon, 2021-04-20T18:07:31+0000
+/project/vmware-nsxlib/, vmware-nsxlib, 17.2.4, A common library that interfaces with VMware NSX, 2021-04-07T21:58:58+0000
+/project/xtrmth/, xtrmth, 1.6.1, assorted math functions, to provide all of your math needs., 2021-01-26T21:57:39+0000
+/project/python-oneviewclient/, python-oneviewclient, 2.6.6, Library to use OneView to provide nodes for Ironic, 2017-08-24T12:45:19+0000
+/project/dlrnapi-client/, dlrnapi-client, 0.11.1, Client for DLRN REST API, 2021-04-07T17:07:31+0000
+/project/django-openstack-auth/, django_openstack_auth, 3.6.1, Django authentication backend for use with OpenStack Identity, 2018-06-12T13:41:17+0000
+/project/keystoneauth-oidc-authz-code/, keystoneauth-oidc-authz-code, 1.0.0, OpenID Connect Authorization Code authentication plugin for keystoneauth, 2020-09-04T10:52:00+0000
+/project/tripleo-image-elements/, tripleo-image-elements, 13.0.0, Disk image builder elements for deploying OpenStack., 2021-01-28T11:04:08+0000
+/project/tosca-parser/, tosca-parser, 2.3.0, Parser for TOSCA Simple Profile in YAML., 2021-03-05T10:00:04+0000
+/project/oslo-utils/, oslo.utils, 4.8.0, Oslo Utility library, 2021-02-16T09:02:51+0000
+/project/renderspec/, renderspec, 2.1.0, Jinja2 template renderer for generating .spec files, 2020-10-02T12:22:00+0000
+/project/os-service-types/, os-service-types, 1.7.0, Python library for consuming OpenStack sevice-types-authority data, 2019-05-12T12:05:46+0000
+/project/horizon-bsn/, horizon-bsn, 20153.37.4, Big Switch Networks Extension for the Openstack Dashboard (Horizon)., 2017-02-02T22:29:21+0000
+/project/openstack-app-catalog/, openstack_app_catalog, 0.0.13, Application catalog for OpenStack, 2016-09-15T16:03:05+0000
+/project/python-stackhelper/, python-stackhelper, 0.0.7, OpenStack Helper Utilities, 2013-02-08T18:33:34+0000
+/project/ospclientsdk/, ospclientsdk, 0.5.0, An SDK like wrapper around the openstackclient., 2020-08-07T19:39:24+0000
+/project/networking-vsphere/, networking-vsphere, 2015.1.1, A set of Neutron drivers and agents to manage vSphere clusters., 2015-06-04T08:50:10+0000
+/project/python-arista-ccf-neutronclient/, python-arista-ccf-neutronclient, 0.1.1, Python bindings for Arista Networks Converged Cloud Fabric Neutron API, 2021-03-24T22:37:11+0000
+/project/glean/, glean, 1.18.2, Simple program to write static config from config-drive, 2021-01-08T17:35:39+0000
+/project/zaqar-ui/, zaqar-ui, 10.0.0, Zaqar User Interface, 2021-04-14T11:18:59+0000
+/project/neutron-lbaas-dashboard/, neutron-lbaas-dashboard, 6.0.1, Horizon panels for Neutron LBaaS, 2020-07-20T10:23:19+0000
+/project/senlin-dashboard/, senlin-dashboard, 3.0.0, Senlin Dashboard, 2021-04-14T11:18:05+0000
+/project/networking-omnipath/, networking-omnipath, 0.0.1.dev43, OpenStack Networking, 2020-04-28T03:16:03+0000
+/project/openstack-virtual-baremetal/, openstack-virtual-baremetal, 1.0.2.dev28, A collection of tools for using OpenStack instances to test baremetal deployment, 2019-06-06T14:37:06+0000
+/project/emptool/, emptool, 0.9.7, Easy MicroPython toolchain, 2019-02-26T09:57:11+0000
+/project/gearstore/, gearstore, 0.0.1, A Gearman worker to do distributed job persistence for reliable delivery, 2015-03-19T23:19:29+0000
+/project/qbertconfig/, qbertconfig, 0.3.5, Fetches kubeconfigs from qbert API, 2019-11-15T23:12:32+0000
+/project/os-testr/, os-testr, 2.0.0, A testr wrapper to provide functionality for OpenStack projects, 2020-03-15T19:45:00+0000
+/project/wafec-oslo-messaging/, wafec.oslo.messaging, 1.0.1, Oslo Messaging API, 2020-09-03T21:42:40+0000
+/project/git-os-job/, git-os-job, 1.1.3, Show the OpenStack job logs for a commit, 2018-12-17T15:23:28+0000
+/project/networking-ale-omniswitch/, networking-ale-omniswitch, 2015.1.2, Alatel-Lucent Enterprise Omniswitch Networking Driver, 2015-08-27T08:18:21+0000
+/project/octavia-tempest-plugin/, octavia-tempest-plugin, 1.7.0, Tempest plugin for Octavia, 2021-03-29T09:10:58+0000
+/project/python-rsdclient/, python-rsdclient, 1.0.2, OpenStack client plugin for Rack Scale Design, 2020-01-15T22:42:28+0000
+/project/tempest-nfv-plugin/, tempest-nfv-plugin, 1.26.1.dev2, Tempest plugin for testing NFV, 2020-12-10T07:47:36+0000
+/project/magnum-ui/, magnum-ui, 8.0.0, Magnum User Interface, 2021-04-14T11:05:54+0000
+/project/networking-bigswitch/, networking-bigswitch, 15.0.1, Arista Networks CCF Plugin for OpenStack Networking, 2021-04-12T21:13:19+0000
+/project/kuryr-lib/, kuryr-lib, 2.3.0, Kuryr shared config and utilities, 2021-03-05T09:58:44+0000
+/project/devstack-tools/, devstack-tools, 1.2.0, Devstack Helper Tools in Python, 2021-04-09T08:37:11+0000
+/project/sushy-oem-idrac/, sushy-oem-idrac, 2.1.0, Dell EMC iDRAC OEM extension package for the sushy library, 2021-03-29T23:28:44+0000
+/project/rsd-virt-for-nova/, rsd-virt-for-nova, 0, A nova virt driver to communicate with IntelRSD’s PODM and PSME to create composed nodes., 2019-02-21T13:53:17+0000
+/project/heat-dashboard/, heat-dashboard, 5.0.0, Heat Management Dashboard, 2021-04-14T11:04:32+0000
+/project/osreports/, osreports, 0.1.1, Utilization Reporting for OpenStack Clouds, 2015-11-10T12:35:22+0000
+/project/os-apply-config/, os-apply-config, 13.0.0, Config files from cloud metadata, 2021-01-28T11:02:40+0000
+/project/neutron-pardnet-lbaas/, neutron_pardnet_lbaas, 0.0.1, pardnet driver for Openstack Neutron LBaaS service, 2015-04-22T07:44:43+0000
+/project/python-chi/, python-chi, 0.10.0, Helper library for Chameleon Infrastructure (CHI) testbed, 2021-04-06T00:17:18+0000
+/project/ec2-api/, ec2-api, 12.0.0, OpenStack Ec2api Service, 2021-04-14T11:03:49+0000
+/project/cobalt-python-novaclient-ext/, cobalt_python_novaclient_ext, 1.3.107, Cobalt extension for OS novaclient., 2014-01-21T15:31:40+0000
+/project/cloudmesh-installer/, cloudmesh-installer, 4.4.28, A dynamic extensible CMD based command shell, 2021-03-26T21:47:42+0000
+/project/helionsdk/, helionsdk, 0.3.0, Helion SDK, 2015-07-01T22:10:09+0000
+/project/openstackdocstheme/, openstackdocstheme, 2.2.7, OpenStack Docs Theme, 2020-12-02T20:52:47+0000
+/project/python-watcher-metering/, python-watcher_metering, 0.21.6, Metering library for Watcher, 2015-12-02T15:07:50+0000
+/project/karbor/, karbor, 1.6.0, Application Data Protection as a Service for OpenStack, 2020-09-28T15:30:13+0000
+/project/tuskar-ui-extras/, tuskar-ui-extras, 0.0.4, Tuskar Management Dashboard Extra Plugins, 2015-06-15T13:26:48+0000
+/project/warm/, warm, 0.3.1, Deploy a simple OpenStack environment from template, 2013-12-06T10:26:13+0000
+/project/kolla-ansible/, kolla-ansible, 11.0.0, Ansible Deployment of Kolla containers, 2021-01-11T12:11:31+0000
+/project/zun-ui/, zun-ui, 7.0.0, Zun User Interface, 2021-04-14T11:19:28+0000
+/project/vitrage-tempest-tests/, vitrage-tempest-tests, 0.0.1.dev237, Tempest plugin for Vitrage project, 2018-02-21T17:31:11+0000
+/project/oslo-i18n/, oslo.i18n, 5.0.1, Oslo i18n library, 2020-09-11T19:19:47+0000
+/project/keystoneauth-oidc-refreshtoken/, keystoneauth-oidc-refreshtoken, 0.1.0, OpenID Connect Access Token Procurement Through Refresh Token for OpenStack client, 2017-06-30T14:46:32+0000
+/project/qh-python-cinderclient/, qh-python-cinderclient, 0.1.0.dev1631, OpenStack Block Storage API Client Library, 2020-10-26T08:18:30+0000
+/project/networking-nec/, networking-nec, 2015.2.0, Neutron plugins/drivers for NEC networking products (liberty), 2015-12-25T13:39:17+0000
+/project/python-tuskarclient/, python-tuskarclient, 0.1.18, Client library for OpenStack Management API, 2015-05-11T19:12:23+0000
+/project/gbptesthorizon/, gbptesthorizon, 2014.2, OpenStack Dashboard, 2014-09-26T23:35:25+0000
+/project/ustackdocstheme/, ustackdocstheme, 0.0.4, Sphinx ducumentation themes for TFCloud., 2020-02-10T04:09:31+0000
+/project/radware-nlbaas-v2-pike-driver/, radware_nlbaas_v2_pike_driver, 4.7.0.post1, Neutron LBaaS Radware driver for Openstack Pike, 2019-01-23T12:57:42+0000
+/project/hammers/, hammers, 0.2.0, Bag of hammers to fix problems, 2018-08-30T10:14:34+0000
+/project/fairy-slipper/, fairy-slipper, 0.2.0, A project to make OpenStack API's self documententing., 2016-03-11T18:40:28+0000
+/project/horizon-overrides-plugin/, horizon_overrides_plugin, 0.0.2, OpenStack Dashboard OVERRIDES - support for more than one customization_module, 2015-07-13T15:19:52+0000
+/project/collectd-ceilometer-plugin/, collectd-ceilometer-plugin, 1.0.1, OpenStack Ceilometer plugin for collectd., 2016-08-02T15:19:44+0000
+/project/networking-generic-switch-tempest-plugin/, networking-generic-switch-tempest-plugin, 0.0.1.dev7, Tempest plugin for networking-generic-switch, 2018-01-22T09:51:02+0000
+/project/ironic-inspector/, ironic-inspector, 10.6.0, Hardware introspection for OpenStack Bare Metal, 2021-03-30T19:00:40+0000
+/project/senlin/, senlin, 11.0.0, OpenStack Clustering, 2021-04-14T11:19:21+0000
+/project/python-masakariclient/, python-masakariclient, 7.0.0, masakariclient module and a CLI tool for masakari, 2021-03-12T15:13:57+0000
+/project/notifier/, notifier, 1.0.3, Simple in-memory pub-sub., 2015-12-11T19:14:39+0000
+/project/cinder/, cinder, 18.0.0, OpenStack Block Storage, 2021-04-14T11:03:21+0000
+/project/python-watcher-metering-drivers/, python-watcher_metering_drivers, 0.21.0, Drivers for the Watcher Metering agent, 2015-10-23T07:16:27+0000
+/project/image-bootstrap/, image-bootstrap, 2.0.5, Command line tool for creating bootable virtual machine images, 2021-01-08T14:19:51+0000
+/project/oslo-limit/, oslo.limit, 1.3.0, Limit enforcement library to assist with quota calculation., 2021-03-11T20:34:28+0000
+/project/networking-calico/, networking-calico, 3.12.0, This project contains documentation and code for integrating Project Calico networking into OpenStack/Neutron., 2020-01-28T04:45:43+0000
+/project/tripleo-repos/, tripleo-repos, 0.1.0, A tool for managing tripleo repos, 2020-04-17T17:37:57+0000
+/project/os-downpour/, os-downpour, 0.1.1, OpenStack tenant data migration tool, 2017-05-05T20:23:14+0000
+/project/bsnstacklib/, bsnstacklib, 20154.36.7, Big Switch Networks Plugins for OpenStack Networking, 2017-03-03T18:23:19+0000
+/project/microversion-parse/, microversion-parse, 1.0.1, OpenStack microversion header parser, 2020-04-07T10:11:25+0000
+/project/ceilometer-powervm/, ceilometer-powervm, 9.0.0, PowerVM Ceilometer Inspector for OpenStack Ceilometer., 2019-10-16T12:40:33+0000
+/project/python-quantumclient/, python-quantumclient, 2.2.4.3, CLI and Client Library for OpenStack Networking, 2013-10-02T05:14:05+0000
+/project/adjutant-ui/, adjutant-ui, 2.0.0, Adjutant User Interface, 2021-04-14T11:00:06+0000
+/project/neutron-fwaas-dashboard/, neutron-fwaas-dashboard, 3.0.0, Neutron FWaaS Dashboard, 2020-05-13T10:55:28+0000
+/project/metalsmith/, metalsmith, 1.4.2, Deployment and Scheduling tool for Bare Metal, 2021-03-03T16:02:44+0000
+/project/ip-associations-python-novaclient-ext/, ip_associations_python_novaclient_ext, 0.2, Adds Rackspace ip_associations support to python-novaclient, 2016-05-19T15:46:59+0000
+/project/aodh/, aodh, 12.0.0, OpenStack Telemetry Alarming, 2021-04-14T11:01:08+0000
+/project/os-net-config/, os-net-config, 14.0.0, OpenStack network configuration, 2021-01-28T11:02:44+0000
+/project/senlin-tempest-plugin/, senlin-tempest-plugin, 1.3.0, Tempest plugin senlin_tempest_plugin, 2021-03-29T09:01:17+0000
+/project/sahara-plugin-vanilla/, sahara-plugin-vanilla, 5.0.0, Vanilla Plugin for Sahara Project, 2021-04-14T11:16:52+0000
+/project/tuskar-ui/, tuskar-ui, 0.4.0, Tuskar Management Dashboard, 2015-09-01T15:30:06+0000
+/project/oslo-upgradecheck/, oslo.upgradecheck, 1.3.0, Common code for writing OpenStack upgrade checks, 2020-12-11T16:57:16+0000
+/project/a10-nlbaas2oct/, a10-nlbaas2oct, 1.2.2, Migrate A10 specific device configs to nlbaas, 2021-04-22T23:11:51+0000
+/project/sahara-plugin-cdh/, sahara-plugin-cdh, 5.0.0, CDH Plugin for Sahara Project, 2021-04-14T11:16:37+0000
+/project/compute-hyperv/, compute-hyperv, 12.0.0, Hyper-V Nova Driver, 2021-04-14T11:05:13+0000
+/project/cloudkitty/, cloudkitty, 14.0.0, Rating as a Service component for OpenStack, 2021-04-14T11:03:20+0000
+/project/tobiko/, tobiko, 0.4.1, OpenStack Testing Upgrades Library, 2021-03-19T15:25:53+0000
+/project/zun-tempest-plugin/, zun-tempest-plugin, 4.3.0, Tempest plugin zun_tempest_plugin, 2021-03-29T09:05:45+0000
+/project/iotronic/, iotronic, 0.4.7, IoTronic is an Internet of Things resource management service for OpenStack clouds., 2019-03-04T15:40:47+0000
+/project/python-adjutantclient/, python-adjutantclient, 0.8.0, Adjutant API Client Library, 2021-03-12T12:16:08+0000
+/project/osc-placement/, osc-placement, 2.2.0, OpenStackClient plugin for the Placement service, 2021-01-25T12:06:19+0000
+/project/ceilometermiddleware/, ceilometermiddleware, 2.2.0, OpenStack Telemetry middleware for generating metrics, 2021-03-12T12:39:31+0000
+/project/networking-odl/, networking-odl, 18.0.0, OpenStack Networking, 2021-04-14T11:11:25+0000
+/project/stacktask/, stacktask, 0.1.3, An admin task workflow service for openstack., 2016-03-14T01:50:47+0000
+/project/cloudmesh-pbs/, cloudmesh_pbs, 2.2.6, A simple pbs queue management framework for multiple supercomputers, 2015-03-23T16:10:28+0000
+/project/sqlalchemy-migrate/, sqlalchemy-migrate, 0.13.0, Database schema migration for SQLAlchemy, 2019-10-22T21:16:17+0000
+/project/neutron-lib/, neutron-lib, 2.10.1, Neutron shared routines and utilities, 2021-03-18T08:53:26+0000
+/project/mistral-lib/, mistral-lib, 2.4.0, Mistral shared routings and utilities (Actions API, YAQL functions API, data types etc.), 2020-12-02T10:37:01+0000
+/project/failure/, failure, 1.0.1, Failure remoting, serialization, deserialization library., 2017-01-11T07:35:06+0000
+/project/tacker/, tacker, 5.0.0, OpenStack NFV Orchestration, 2021-04-14T11:18:07+0000
+/project/shaddock/, shaddock, 0.7.1.dev2, A container based orchestration and deployment tool, 2018-02-10T17:56:58+0000
+/project/monasca-api/, monasca-api, 6.0.0, OpenStack Monitoring as a Service, 2021-04-14T11:08:30+0000
+/project/neutron-zvm-plugin/, neutron-zvm-plugin, 11.0.0, zVM ML2 mechanism driver and zVM neutron agent., 2018-10-18T02:01:46+0000
+/project/kingbird-dashboard/, kingbird-dashboard, 0.0.0, User Interface for Kingbird, 2018-01-09T10:48:04+0000
+/project/vmtp/, vmtp, 2.5.0, A data path performance tool for OpenStack clouds., 2019-02-21T02:27:12+0000
+/project/vaultlocker/, vaultlocker, 1.0.6, Utility to store and retrieve dm-crypt encryption keys in Hashicorp Vault, 2020-03-23T15:28:29+0000
+/project/trellozilla/, trellozilla, 0.2.0, TrelloZilla is a small set of boilerplate code to speed up automations in/between both Bugzilla and Trello., 2021-01-18T20:00:29+0000
+/project/backup2swift/, backup2swift, 0.9.5, Backup data to OpenStack Swift, 2017-04-23T14:15:33+0000
+/project/rackspace-auth-neutronclientext/, rackspace-auth-neutronclientext, 1.4, Rackspace Auth Plugin for OpenStack Neutron Clients., 2015-03-03T22:02:06+0000
+/project/odltools/, odltools, 0.1.34, Tools for troubleshooting OpenDaylight, 2019-07-30T06:50:56+0000
+/project/gerrit-dash-creator/, gerrit-dash-creator, 0.2.0, Gerrit Dashboard Creator, 2020-01-13T16:02:34+0000
+/project/browbeat/, browbeat, 0.0.1.dev1292, OpenStack Performance Tooling, 2018-11-08T16:37:20+0000
+/project/dox/, dox, 0.2.0, dox runs tox descriptions in docker containers, 2015-09-18T13:27:11+0000
+/project/python-blazarclient/, python-blazarclient, 3.2.0, Client for OpenStack Reservation Service, 2021-03-08T13:47:29+0000
+/project/octavia-lib/, octavia-lib, 2.3.1, A library to support Octavia provider drivers., 2021-03-04T16:22:47+0000
+/project/keystonemiddleware/, keystonemiddleware, 9.2.0, Middleware for OpenStack Identity, 2020-12-02T10:29:15+0000
+/project/django-openstack-auth-multi-regions/, django_openstack_auth.multi_regions, 1.2.0, OpenStack Identity Multi-Regions Switch, 2014-11-09T07:06:51+0000
+/project/tripleo-heat-templates/, tripleo-heat-templates, 14.0.0, Heat templates for deploying OpenStack with OpenStack., 2021-01-28T11:04:25+0000
+/project/dstat-plugins/, dstat-plugins, 0.3.0, dstat plugins for metering an OpenStack deployment, 2015-10-13T22:11:59+0000
+/project/ceilometer/, ceilometer, 16.0.0, OpenStack Telemetry, 2021-04-14T11:10:28+0000
+/project/tripleo-puppet-elements/, tripleo-puppet-elements, 14.0.0, Puppet building rules for OpenStack images., 2021-01-28T11:05:12+0000
+/project/cloudkitty-tempest-plugin/, cloudkitty-tempest-plugin, 2.3.0, Tempest plugin for CloudKitty, 2021-03-30T17:41:07+0000
+/project/python-openstacksdk/, python-openstacksdk, 0.5.2, Deprecated SDK for OpenStack.  Use openstacksdk., 2015-07-30T15:07:06+0000
+/project/python-ceilometerclient/, python-ceilometerclient, 2.9.0, OpenStack Telemetry API Client Library, 2017-06-12T13:29:00+0000
+/project/gear/, gear, 0.15.1, Pure Python Async Gear Protocol Library, 2020-02-18T16:44:16+0000
+/project/python-barbicanclient/, python-barbicanclient, 5.1.0, Client Library for OpenStack Barbican Key Management API, 2021-03-15T08:50:31+0000
+/project/python-cloudpulseclient/, python-cloudpulseclient, 2015.3.3, A Python language binding for OpenStack CloudPulse., 2016-03-31T19:08:45+0000
+/project/freezer/, freezer, 10.0.0, The OpenStack Backup Restore and Disaster Recovery as a Service Platform, 2021-04-14T11:03:37+0000
+/project/stackalytics/, stackalytics, 1.0.0, OpenStack Contribution Dashboard, 2018-10-25T19:59:38+0000
+/project/faafo/, faafo, 0.0.3, First App Application for OpenStack, 2015-04-01T03:54:47+0000
+/project/murano-agent/, murano-agent, 2015.1.0, Python Murano Agent, 2015-04-30T19:47:04+0000
+/project/ceilometer-riemann/, ceilometer-riemann, 0.2.6, Riemann publisher driver for OpenStack Ceilometer, 2013-11-13T11:49:17+0000
+/project/tripleo-validations/, tripleo-validations, 14.0.0, A collection of Ansible playbooks to detect and report potential issues during TripleO deployments, 2021-01-28T11:03:55+0000
+/project/osvmoverview/, osvmoverview, 1.0.0, Openstack VM overview Horizon plugin, 2021-03-12T17:00:31+0000
+/project/octavia-ovn-provider/, octavia-ovn-provider, 0.0.0, OpenStack Octavia integration with OVN, 2019-12-03T12:07:55+0000
+/project/horizon-hpe-storage-ui/, horizon-hpe-storage-ui, 2.4.2, HPE Storage Plug-in for Horizon, 2016-10-03T21:08:49+0000
+/project/osprofiler/, osprofiler, 3.4.0, OpenStack Profiler Library, 2020-09-11T19:21:58+0000
+/project/python-moganclient/, python-moganclient, 0.1.0, Python client library for OpenStack Mogan project., 2017-09-15T02:54:51+0000
+/project/python-rdomanager-oscplugin/, python-rdomanager-oscplugin, 0.0.10, RDO Manager OSC plugin lib, 2015-09-03T17:23:13+0000
+/project/sushy-tools/, sushy-tools, 0.15.0, A set of tools to support the development and test of the Sushy library (https://docs.openstack.org/sushy/), 2021-03-02T14:26:31+0000
+/project/collectds/, collectds, 0.1.1, This module references Fuel-LMA and is modified to collect OpenStack service running status., 2016-11-25T06:45:52+0000
+/project/debtcollector/, debtcollector, 2.2.0, A collection of Python deprecation patterns and strategies that help you collect your technical debt in a non-destructive manner., 2020-07-28T14:33:14+0000
+/project/neutron/, neutron, 18.0.0, OpenStack Networking, 2021-04-14T11:12:13+0000
+/project/os-vif/, os-vif, 2.4.0, A library for plugging and unplugging virtual interfaces in OpenStack., 2021-03-05T10:03:05+0000
+/project/python-zunclient/, python-zunclient, 4.2.0, Client Library for Zun, 2021-03-11T20:04:27+0000
+/project/solum/, solum, 10.0.0, Application Lifecycle Management for OpenStack, 2021-04-14T11:17:46+0000
+/project/searchlight/, searchlight, 9.0.0, OpenStack Search Service, 2020-10-14T10:35:34+0000
+/project/fedcloudclient/, fedcloudclient, 1.2.2, EGI FedCloud client, 2021-04-02T18:41:20+0000
+/project/blazar/, blazar, 7.0.0, Reservation Service for OpenStack clouds, 2021-04-14T11:01:12+0000
+/project/os-brick/, os-brick, 4.3.1, OpenStack Cinder brick library for managing local volume attaches, 2021-03-29T14:54:26+0000
+/project/swiftonhpss/, swiftonhpss, 2.5.0.0, SwiftOnHPSS, 2016-06-07T11:29:30+0000
+/project/python-ironic-inspector-client/, python-ironic-inspector-client, 4.5.0, Python client for Ironic Inspector, 2021-03-12T16:46:12+0000
+/project/f5-openstack-agent/, f5-openstack-agent, 10.1.0, F5 Networks Agent for OpenStack services, 2017-10-09T17:20:00+0000
+/project/paunch/, paunch, 7.0.4, Utility to launch and manage containers using YAML based configuration data, 2021-04-14T14:52:51+0000
+/project/steth/, Steth, 0.2.4, Steth is a sophisticated debug bridge for OpenStack Neutron., 2016-04-05T10:59:08+0000
+/project/congress-tempest-plugin/, congress-tempest-plugin, 1.0.0, Tempest Plugin for Congress project, 2020-04-23T16:36:51+0000
+/project/networking-baremetal/, networking-baremetal, 4.0.0, Neutron plugin that provides deep Ironic/Neutron integration., 2021-04-14T11:12:24+0000
+/project/networking-ovn/, networking-ovn, 7.4.0, OpenStack Neutron integration with OVN, 2021-03-10T14:55:23+0000
+/project/python-keystone-voms/, python-keystone-voms, 2014.1.1, Keystone VOMS module for Keystone (Icehouse)., 2014-08-04T11:45:39+0000
+/project/neutron-fwaas/, neutron-fwaas, 16.0.0, OpenStack Networking FWaaS, 2020-05-13T10:55:51+0000
+/project/shade/, shade, 1.33.0, Simple client library for interacting with OpenStack clouds, 2020-02-11T13:42:55+0000
+/project/horizon/, horizon, 19.2.0, OpenStack Dashboard, 2021-04-12T09:10:18+0000
+/project/python-kingbirdclient/, python-kingbirdclient, 0.2.1, Python client for Kingbird, 2018-01-30T18:24:31+0000
+/project/neutron-vpnaas-dashboard/, neutron-vpnaas-dashboard, 4.0.0, Neutron VPNaaS Dashboard, 2021-04-14T11:09:48+0000
+/project/yasopenstackhandler/, YasOpenstackHandler, 0.0.8, A simple interface to openstack with additional metadata, 2017-03-27T00:39:51+0000
+/project/zaqar/, zaqar, 12.0.0, OpenStack Queuing and Notification Service, 2021-04-14T11:19:28+0000
+/project/openstack-congress/, openstack-congress, 11.0.0, Congress: The open policy framework for the cloud., 2020-05-13T10:42:18+0000
+/project/murano-pkg-check/, murano-pkg-check, 0.3.0, Murano package validator tool, 2017-02-02T15:27:16+0000
+/project/zaqar-tempest-plugin/, zaqar-tempest-plugin, 1.2.1, Tempest plugin zaqar_tempest_plugin, 2021-03-29T09:05:49+0000
+/project/python-andromeda/, python-andromeda, 1.0.5.2, OpenStack Repository Management Tool., 2015-08-05T19:51:05+0000
+/project/rackspace-python-neutronclient/, rackspace-python-neutronclient, 2.5.3, CLI and Client Library for Rackspace's OpenStack Networking, 2016-08-05T20:33:29+0000
+/project/radware-os-lb-v1-kilo/, radware_os_lb_v1_kilo, 4.0.0-1, Radware NG driver for Openstack KILO LBaaS v1, 2017-03-22T12:09:33+0000
+/project/yaql/, yaql, 1.1.3, YAQL - Yet Another Query Language, 2017-03-01T20:37:43+0000
+/project/os-http/, os-http, 0.1.0, Simple HTTP CLI for OpenStack, 2016-04-11T06:20:41+0000
+/project/valence/, valence, 0.9.0.dev301, Openstack Valence Project, 2018-04-27T11:05:10+0000
+/project/python-watcher/, python-watcher, 6.0.0, OpenStack Watcher provides a flexible and scalable resource optimization service for multi-tenant OpenStack-based clouds., 2021-04-14T11:19:48+0000
+/project/ec2api-tempest-plugin/, ec2api-tempest-plugin, 1.2.1, Tempest plugin for ec2-api, 2021-03-29T08:56:22+0000
+/project/python-magnumclient/, python-magnumclient, 3.4.0, Client library for Magnum API, 2021-03-08T11:43:03+0000
+/project/python-keystoneclient-kerberos/, python-keystoneclient-kerberos, 0.3.0, Kerberos authentication for the OpenStack clients, 2016-05-23T18:53:20+0000
+/project/neutron-arista-ccf-lldp/, neutron-arista-ccf-lldp, 1.1.0, LLDP Agent for Big Switch Networks integration., 2020-11-12T21:05:33+0000
+/project/dlrn/, DLRN, 0.21.0, Build packages, 2021-04-20T13:39:23+0000
+/project/performa/, performa, 0.0.1, , 2016-02-16T19:07:35+0000
+/project/networking-oneview/, networking-oneview, 1.1.0, HPE OneView Mechanism Driver for Neutron ML2 plugin, 2018-02-28T20:09:02+0000
+/project/swiftsc/, swiftsc, 0.7.2, Simple client library of OpenStack Swift, 2017-04-23T00:21:21+0000
+/project/gbptestneutron/, gbptestneutron, 0.9.0, Gbp Test OpenStack Networking, 2014-09-22T22:55:58+0000
+/project/swift/, swift, 2.27.0, OpenStack Object Storage, 2021-03-18T15:04:49+0000
+/project/ironic-hds/, ironic-hds, 0.2.3, OpenStack Ironic driver for Redfish/HDS systems, 2020-02-10T07:54:12+0000
+/project/radware-nlbaas-v2-queens-driver/, radware_nlbaas_v2_queens_driver, 4.7.0.post2, Neutron LBaaS Radware driver for Openstack Queens, 2019-02-14T13:04:34+0000
+/project/radware-os-lb-v2-liberty/, radware_os_lb_v2_liberty, 4.2.1-3, Radware LBaaS v2 driver for Openstack Liberty, 2017-10-30T16:36:57+0000
+/project/pika-consumer/, Pika-Consumer, 0.0.5, A pika consumer class which may be used to create rabbitmq queue consumers, 2017-02-27T06:30:29+0000
+/project/vsm-dashboard/, vsm-dashboard, 2.0.2, The VSM Dashboard., 2016-06-14T16:47:02+0000
+/project/kingbird/, kingbird, 1.3.0, Kingbird is a centralised synchronization service for multi-region OpenStack deployments., 2018-03-26T03:03:15+0000
+/project/dragonflow/, DragonFlow, 4.0.0, Distributed SDN solution for OpenStack Neutron, 2017-09-01T20:10:00+0000
+/project/rally-runners/, rally-runners, 0.1.0, A collection of Rally runners, scenarios and report generators, 2016-09-28T20:32:31+0000
+/project/nailgun-net-check/, nailgun-net-check, 8.0.17.dev3869, Nailgun Network Checker, 2015-10-27T08:13:44+0000
+/project/storlets/, storlets, 7.0.0, Middleware and Compute Engine for an OpenStack Swift compute framework that runs compute within a Swift cluster, 2021-04-14T11:17:49+0000
+/project/glance/, glance, 22.0.0, OpenStack Image Service, 2021-04-14T11:06:20+0000
+/project/keystoneauth1/, keystoneauth1, 4.3.1, Authentication Library for OpenStack Identity, 2021-02-22T15:45:02+0000
+/project/trove/, trove, 15.0.0, OpenStack DBaaS, 2021-04-14T11:18:09+0000
+/project/validatetoken/, validatetoken, 0.0.1, Middleware for OpenStack Identity, 2021-02-22T11:55:04+0000
+/project/virtualbmc/, virtualbmc, 2.2.0, Create virtual BMCs for controlling virtual instances via IPMI, 2020-09-21T07:59:19+0000
+/project/oslo-reports/, oslo.reports, 2.2.0, oslo.reports library, 2020-09-11T19:20:14+0000
+/project/radware-os-lb-v2-ocata/, radware_os_lb_v2_ocata, 4.2.1-1, Radware LBaaS v2 driver for Openstack Ocata, 2017-10-31T08:44:59+0000
+/project/networking-fujitsu/, networking-fujitsu, 8.0.0, FUJITSU ML2 plugins/drivers for OpenStack Neutron, 2019-03-22T09:18:32+0000
+/project/networking-mlnx/, networking-mlnx, 16.0.0, Mellanox Networking, 2020-05-20T10:34:24+0000
+/project/networking-brocade/, networking-brocade, 2015.1.1.dev55, Brocade Networking Mech. Drivers and Plugins, 2015-07-09T17:18:17+0000
+/project/cloudpulse/, cloudpulse, 2016.1.1, a Health-Checking Service for OpenStack deployments., 2016-05-05T03:05:14+0000
+/project/sahara-plugin-spark/, sahara-plugin-spark, 5.0.0, Spark Plugin for Sahara Project, 2021-04-14T11:21:12+0000
+/project/openstack-summit-counter/, openstack-summit-counter, 0.4.0, OSC Plugin to help compute the number of summits someone has attended., 2019-01-02T22:40:22+0000
+/project/zuul-sphinx/, zuul-sphinx, 0.5.0, A Sphinx extension for documenting Zuul jobs, 2020-04-29T21:19:59+0000
+/project/sahara-plugin-storm/, sahara-plugin-storm, 5.0.0, Storm Plugin for Sahara Project, 2021-04-14T11:17:31+0000
+/project/swift-bench/, swift-bench, 1.2.0, Benchmark tool for OpenStack Swift, 2016-02-12T20:57:38+0000
+/project/python-hnvclient/, python-hnvclient, 0.1.0, Python client for the HNV (Hyper-V Network Virtualization) REST API., 2017-03-28T08:35:36+0000
+/project/freezer-tempest-plugin/, freezer-tempest-plugin, 1.2.0, Tempest plugin for the freezer project., 2021-01-25T10:29:26+0000
+/project/mqtt-statsd/, mqtt-statsd, 0.0.1, A script to publish MQTT metrics into statsd, 2017-04-04T02:53:30+0000
+/project/monitoring-for-openstack/, monitoring-for-openstack, 1.0.0, OpenStack monitoring tools, 2015-07-23T14:29:53+0000
+/project/python-ironicclient/, python-ironicclient, 4.6.1, OpenStack Bare Metal Provisioning API Client Library, 2021-03-12T17:06:26+0000
+/project/heat-agents/, heat-agents, 2.2.0, heat-agents, 2021-03-15T10:44:53+0000
+/project/bashate/, bashate, 2.0.0, A pep8 equivalent for bash scripts, 2020-03-04T01:06:30+0000
+/project/python-pqclient/, python-pqclient, 0.0.1, Python client library for Fujitsu PRIMEQUEST MMB, 2017-12-21T08:24:58+0000
+/project/os-vm-expire/, os-vm-expire, 0.9.12, Manage VM expiration and deletion, 2019-02-18T10:25:53+0000
+/project/python-manilaclient/, python-manilaclient, 2.6.0, Client library for OpenStack Manila API., 2021-03-17T09:42:39+0000
+/project/horizon-api-mask/, horizon_api_mask, 0.0.1.post2, OpenStack Dashboard API mask - override service endpoint table, 2015-03-12T16:27:01+0000
+/project/tooz/, tooz, 2.8.0, Coordination library for distributed systems., 2020-11-30T16:07:17+0000
+/project/k2hr3-osnl/, k2hr3-osnl, 1.0.0, An OpenStack notification listener for the K2HR3 role-based ACL system, 2021-03-26T06:51:14+0000
+/project/django-openstack-auth-kerberos/, django-openstack-auth-kerberos, 0.3.0, Kerberos login to the OpenStack dashboard, 2016-11-21T18:23:37+0000
+/project/castellan/, castellan, 3.7.1, Generic Key Manager interface for OpenStack, 2021-03-03T13:38:02+0000
+/project/group-based-policy-ui/, group-based-policy-ui, 2015.2.5, Horizon modules for Group Based Policy, 2016-10-17T19:05:58+0000
+/project/mistral-tempest-tests/, mistral-tempest-tests, 1.2.0, Tempest plugin for Mistral project, 2021-01-18T22:32:56+0000
+/project/reno/, reno, 3.3.0, RElease NOtes manager, 2021-03-18T10:50:15+0000
+/project/os-vif-bigswitch/, os-vif-bigswitch, 12.0.2, Neutron OS-VIF plugin for Big Switch Networks SWL-VX, 2018-08-30T16:33:45+0000
+/project/python-openstackclient/, python-openstackclient, 5.5.0, OpenStack Command-line Client, 2021-03-20T09:18:49+0000
+/project/radware-nlbaas-v2-rocky-driver/, radware_nlbaas_v2_rocky_driver, 4.7.0.post2, Neutron LBaaS Radware driver for Openstack Rocky, 2019-03-04T07:58:48+0000
+/project/eom/, eom, 0.8.2, Experimental OpenStack WSGI Middleware, 2017-12-13T05:43:56+0000
+/project/networking-h3c/, networking-h3c, 0.1.0, H3C Vendor Code for OpenStack Neutron to integrate with H3C SDN controller, 2017-04-05T09:56:59+0000
+/project/python-adjutant/, python-adjutant, 2.0.0, An admin task workflow service for openstack., 2021-04-14T11:00:40+0000
+/project/gce-api/, gce-api, 3.0.0, OpenStack Gceapi Service, 2016-10-08T10:01:33+0000
+/project/ironic-oneviewd/, ironic-oneviewd, 1.2.0, Deamon service to enroll nodes to be used for the Ironic OneView Driver, 2018-02-02T14:13:52+0000
+/project/swauth/, swauth, 1.3.0, An alternative authentication system for Swift, 2017-12-09T16:31:14+0000
+/project/networking-midonet/, networking-midonet, 11.0.0, OpenStack MidoNet Neutron Plugin, 2020-10-14T10:22:03+0000
+/project/keystone/, keystone, 19.0.0, OpenStack Identity, 2021-04-14T11:11:10+0000
+/project/glance-store/, glance-store, 2.5.0, OpenStack Image Service Store Library, 2021-03-05T09:57:56+0000
+/project/vmware-vspc/, vmware-vspc, 0.0.3, Virtual Serial Port Concentrator for VMware instances., 2017-02-23T16:19:30+0000
+/project/networking-generic-switch/, networking-generic-switch, 5.0.0, Generic Switch ML2 Neutron Driver, 2021-04-14T11:13:30+0000
+/project/sushy-cli/, sushy-cli, 0.4.0, Redfish CLI tool based on sushy Redfish client library, 2021-03-12T16:46:03+0000
+/project/oslo-privsep/, oslo.privsep, 2.5.0, OpenStack library for privilege separation, 2021-03-11T20:29:03+0000
+/project/networking-arista/, networking-arista, 2020.2.0, Arista Networking drivers, 2021-01-05T18:31:53+0000
+/project/networking-ovs-dpdk/, networking-ovs-dpdk, 2.0.0, A Collection of Agents and Drivers to support managing DPDK accelerated Open vSwitch with neutron, 2016-05-13T14:07:42+0000
+/project/vmware-nsx-tempest-plugin/, vmware-nsx-tempest-plugin, 1.0.0, Tempest plugin vmware-nsx-tempest-plugin, 2018-08-10T14:41:25+0000
+/project/murano-dashboard/, murano-dashboard, 2015.1.1, The Murano Dashboard, 2016-06-08T22:15:16+0000
+/project/swiftkerbauth/, swiftkerbauth, 1.0.1, Kerberos authentication filter for Openstack Swift, 2013-09-25T08:55:28+0000
+/project/radware-nlbaas-v2-mitaka-driver/, radware_nlbaas_v2_mitaka_driver, 4.7.0.post3, Neutron LBaaS Radware driver for Openstack Mitaka, 2019-02-14T13:07:50+0000
+/project/packstack/, packstack, 16.0.2, A utility to install OpenStack, 2020-09-02T08:08:21+0000
+/project/synergy-scheduler-manager/, synergy-scheduler-manager, 2.6.0, Provide advanced scheduling (fairshare) capability for OpenStack, 2017-09-20T11:45:41+0000
+/project/keystone-voms/, keystone-voms, 2015.1, Keystone VOMS module for Keystone., 2015-07-08T21:24:53+0000
+/project/oslo-config/, oslo.config, 8.5.0, Oslo Configuration API, 2021-03-03T13:42:50+0000
+/project/huaweicloud-sdk-python/, huaweicloud-sdk-python, 1.0.28, An SDK for building applications to work with OpenStack, 2020-12-31T11:27:31+0000
+/project/manila-tempest-plugin/, manila-tempest-plugin, 1.4.0, Tempest plugin manila-tempest-plugin, 2021-03-31T12:29:20+0000
+/project/sahara/, sahara, 14.0.0, Sahara project, 2021-04-14T11:16:59+0000
+/project/python-brick-cinderclient-ext/, python-brick-cinderclient-ext, 1.3.0, python-cinderclient extension for local storage management, 2021-03-15T08:50:15+0000
+/project/keystoneauth-oidc/, keystoneauth-oidc, 1.0.0, OpenID Connect support for OpenStack keystoneauth library, 2020-09-04T10:40:37+0000
+/project/karbor-dashboard/, karbor-dashboard, 1.5.1, Karbor Dashboard, 2020-10-06T15:51:22+0000
+/project/python-troveclient/, python-troveclient, 7.0.0, Client library for OpenStack DBaaS API, 2021-02-22T20:25:36+0000
+/project/networking-plumgrid/, networking_plumgrid, 2016.2.6.8, PLUMgrid Open Networking Suite drivers for Neutron, 2016-11-23T10:34:01+0000
+/project/ironic-python-agent-builder/, ironic-python-agent-builder, 2.6.0, Tools and scripts to build Ironic Python Agent, 2021-04-09T10:14:29+0000
+/project/cursive/, cursive, 0.2.2, Cursive implements OpenStack-specific validation of digital signatures., 2018-05-01T16:13:07+0000
+/project/sqlalchemy-migrate-hotoffthehamster/, sqlalchemy-migrate-hotoffthehamster, 0.13.0, Database schema migration for SQLAlchemy, 2020-03-29T03:01:34+0000
+/project/sdflex-ironic-driver/, sdflex-ironic-driver, 1.2.1, sdflex-ironic-driver provides additional ironic features to manage the Superdome Flex Servers, 2021-01-28T11:44:30+0000
+/project/python-senlinclient/, python-senlinclient, 2.2.1, OpenStack Clustering API Client Library, 2021-03-11T11:05:58+0000
+/project/deuce-valere/, deuce-valere, 0.1-beta1.dev74.ge9ba7d9, Validation Client Functionality for Deuce De-Duplication-As-A-Service, 2015-01-16T18:50:33+0000
+/project/masakari-dashboard/, masakari-dashboard, 4.0.0, Horizon plugin for masakari, 2021-04-14T11:10:57+0000
+/project/fuel-plugin-builder/, fuel-plugin-builder, 4.2.0, Helps to create and build fuel plugins, 2017-02-02T14:05:55+0000
+/project/manila/, manila, 12.0.0, Shared Storage for OpenStack, 2021-04-14T11:10:29+0000
+/project/glare-dev/, glare_dev, 0.0.9, OpenStack Artifact Service, 2016-10-11T11:34:08+0000
+/project/instack/, instack, 9.1.0, instack, 2018-06-05T20:00:31+0000
+/project/telemetry-tempest-plugin/, telemetry-tempest-plugin, 1.3.0, Tempest plugin for Telemetry Projects, 2021-03-29T08:56:24+0000
+/project/murano-common/, murano-common, 0.4.1, Shared library for Murano, 2014-02-07T15:21:04+0000
+/project/networking-hyperv/, networking-hyperv, 10.0.0, This project tracks the work to integrate the Hyper-V networking with Neutron. This project contains the Hyper-V Neutron Agent Mixin, Security Groups Driver, ML2 Mechanism Driver and the utils modules they use in order to properly bind neutron ports on a Hyper-V host. This project resulted from the neutron core vendor decomposition., 2021-04-14T11:09:57+0000
+/project/python-designateclient/, python-designateclient, 4.2.0, OpenStack DNS-as-a-Service - Client, 2021-01-25T20:41:44+0000
+/project/multistack/, multistack, 0.4.1, Universal wrapper for the various OpenStack client software with support for multiple environments., 2015-05-30T12:37:50+0000
+/project/pyshaker-agent/, pyshaker-agent, 0.0.9, Shaker Agent, 2015-11-12T13:16:44+0000
+/project/pycadf/, pycadf, 3.1.1, CADF Library, 2020-09-08T12:38:12+0000
+/project/solum-tempest-plugin/, solum-tempest-plugin, 2.2.0, Tempest plugin for the solum project., 2021-02-08T09:34:48+0000
+/project/group-based-policy/, group-based-policy, 2015.2.8, Openstack Group Based Policy, 2017-01-29T04:24:01+0000
+/project/nova-mksproxy/, nova-mksproxy, 0.0.2, Nova console proxy for VMware instances., 2017-02-14T11:03:20+0000
+/project/hacking/, hacking, 4.1.0, OpenStack Hacking Guideline Enforcement, 2021-04-21T10:37:50+0000
+/project/ospurge/, ospurge, 2.0.0, OpenStack resources cleanup script, 2017-01-10T10:52:29+0000
+/project/openstack-doc-tools/, openstack-doc-tools, 3.3.0, Tools for OpenStack Documentation, 2020-09-11T19:23:09+0000
+/project/imgsync/, imgsync, 1.2.1, imgsync will download sync images from several distribution repositories and send them to an OpenStack Image service (Glance)., 2020-02-20T10:36:49+0000
+/project/python-congressclient/, python-congressclient, 2.0.1, Client for Congress, 2020-04-09T11:01:43+0000
+/project/networking-onos/, networking-onos, 1.0.0, OpenStack Networking, 2015-09-10T15:37:15+0000
+/project/oslo-serialization/, oslo.serialization, 4.1.0, Oslo Serialization library, 2021-02-08T13:23:52+0000
+/project/monasca-transform/, monasca-transform, 2.0.0, Data Aggregation and Transformation component for Monasca, 2020-10-14T10:21:36+0000
+/project/leonardo-horizon/, leonardo_horizon, 2016.8.3, pure Horizon - without Openstack Dashboard and dependencies, 2016-09-26T08:41:46+0000
+/project/otcdocstheme/, otcdocstheme, 0.1.0, OpenTelekomCloud Docs Theme, 2020-01-17T11:21:09+0000
+/project/tricircle/, tricircle, 8.0.0, The Tricircle is to provide networking automation across Neutron in multi-region OpenStack deployments., 2020-05-13T11:08:25+0000
+/project/tenks/, tenks, 1.0.0, Deployment of virtual bare metal clusters with Tenks, 2020-03-10T15:18:00+0000
+/project/gearhorn/, gearhorn, 0.0.5, A gearman worker which enables efficient broadcast communication, 2015-03-20T17:27:48+0000
+/project/python-apmecclient/, python-apmecclient, 0.1.0, CLI and Client Library for OpenStack Apmec, 2018-10-26T09:08:28+0000
+/project/tricircleclient/, tricircleclient, 1.0.0, Python client library for Tricircle, 2020-02-14T22:59:18+0000
+/project/faytheclient/, faytheclient, 0.0.3, Faythe API Client Library, 2020-08-12T07:07:06+0000
+/project/instack-undercloud/, instack-undercloud, 9.5.1, instack-undercloud, 2019-09-12T09:38:26+0000
+/project/searchlight-ui/, searchlight-ui, 9.0.0, Horizon panels and libraries for Searchlight, 2020-10-14T10:34:29+0000
+/project/tc-as-a-service/, tc-as-a-service, 0.0.1.dev31, APIs and implementations to support TC as a Service, 2017-04-09T10:55:45+0000
+/project/sahara-plugin-ambari/, sahara-plugin-ambari, 5.0.0, Ambari Plugin for Sahara Project, 2021-04-14T11:17:16+0000
+/project/magnum-tempest-plugin/, magnum-tempest-plugin, 1.3.0, Tempest plugin for Magnum Project, 2021-03-29T09:02:15+0000
+/project/sahara-tests/, sahara-tests, 0.13.0, Sahara tests, 2021-03-29T09:06:06+0000
+/project/pbrlgs/, pbrlgs, 3.1.4, Python Build Reasonableness ("likes submodules"-fork), 2017-12-12T17:16:34+0000
+/project/oslo-policy/, oslo.policy, 3.7.0, Oslo Policy library, 2021-03-03T13:38:09+0000
+/project/novajoin/, novajoin, 1.3.0, Nova integration to enroll IPA clients, 2019-12-17T19:09:54+0000
+/project/networking-powervm/, networking-powervm, 9.0.0, PowerVM Neutron ML2 Agent for OpenStack Neutron., 2019-10-16T12:46:58+0000
+/project/iotronic-lightningrod/, iotronic-lightningrod, 0.4.17, Implementation of the Lightning-rod, the Stack4Things board-side probe, 2019-08-26T15:26:37+0000
+/project/arsenal-director/, arsenal-director, 1.0.0.0b1.dev112, Ironic image caching service, 2015-05-27T20:28:12+0000
+/project/oslosphinx/, oslosphinx, 4.18.0, OpenStack Sphinx Extensions and Theme, 2018-01-08T14:15:00+0000
+/project/networking-sfc/, networking-sfc, 12.0.0, APIs and implementations to support Service Function Chaining in Neutron., 2021-04-14T11:11:46+0000
+/project/python-savannaclient/, python-savannaclient, 0.5.0, Client library for Savanna API, 2014-02-25T20:21:13+0000
+/project/python-flameclient/, python-flameclient, 1.0.0, Automatic Heat template generation, 2018-12-06T09:01:39+0000
+/project/networking-l2gw/, networking-l2gw, 18.0.0, APIs and implementations to support L2 Gateways in Neutron., 2021-03-30T08:32:48+0000
+/project/python-iotronicclient/, python-iotronicclient, 0.4.7, Iotronic Client, 2019-03-04T15:45:01+0000
+/project/ovsdbapp/, ovsdbapp, 1.9.0, A library for creating OVSDB applications, 2021-03-03T14:36:59+0000
+/project/taskflow/, taskflow, 4.6.0, Taskflow structured state management library., 2021-02-02T09:42:16+0000
+/project/os-xenapi/, os-xenapi, 0.3.4, XenAPI library for OpenStack projects, 2018-08-21T13:13:10+0000
+/project/mistral-dashboard/, mistral-dashboard, 12.0.0, Mistral dashboard, 2021-04-14T11:10:48+0000
+/project/kolla/, kolla, 11.0.0, Kolla OpenStack Deployment, 2021-01-11T12:12:10+0000
+/project/python-zaqarclient/, python-zaqarclient, 2.1.0, Client Library for OpenStack Zaqar Messaging API, 2021-03-12T11:15:31+0000
+/project/os-win/, os-win, 5.4.0, Windows / Hyper-V library for OpenStack projects., 2021-01-04T10:15:20+0000
+/project/aodhclient/, aodhclient, 2.2.0, Python client library for Aodh, 2021-03-12T12:46:54+0000
+/project/vmware-nsx/, vmware-nsx, 17.0.0, VMware NSX library for OpenStack projects, 2020-11-02T08:54:32+0000
+/project/magnum-ui-horizon/, magnum-ui-horizon, 1.0.1.dev28, Magnum User Interface, 2016-08-05T07:45:31+0000
+/project/octavia-dashboard/, octavia-dashboard, 7.0.0, Horizon panels for Octavia, 2021-04-14T11:18:16+0000
+/project/python-marconiclient/, python-marconiclient, 0.0.2, Client Library for OpenStack Marconi Queueing API, 2014-06-10T21:57:51+0000
+/project/cinder-tempest-plugin/, cinder-tempest-plugin, 1.4.0, Tempest plugin tests for Cinder., 2021-03-08T11:52:50+0000
+/project/quark/, quark, 1.0.0, Neutron Plugin utilized by Rackspace to achieve large scale in Openstack. Quark developed on the ideas of segmentation and it being the source of truth for all things related to Neutron., 2016-07-18T19:42:36+0000
+/project/bsncpsec/, bsncpsec, 0.0.1, Tool to secure BCF control plane, 2016-01-16T07:47:49+0000
+/project/osc-placement-tree/, osc-placement-tree, 0.3.1, OpenStackClient plugin for advanced operations for the Placement service, 2019-09-30T09:59:02+0000
+/project/spandex/, spandex, 1.1.2, Execute elastic-recheck query files and analyze the results., 2014-08-01T19:07:57+0000
+/project/json-spec/, json-spec, 0.10.1, Implements JSON Schema, JSON Pointer and JSON Reference., 2017-01-10T13:45:49+0000
+/project/python-solumclient/, python-solumclient, 3.3.0, Client library for Solum API, 2021-03-15T09:01:57+0000
+/project/abclient/, abclient, 0.2.3, Python client library for EISOO AnyBackup API, 2016-11-08T02:44:37+0000
+/project/python-neutronclient/, python-neutronclient, 7.3.0, CLI and Client Library for OpenStack Networking, 2021-01-18T21:58:35+0000
+/project/oslo-cache/, oslo.cache, 2.7.0, Cache storage for OpenStack projects., 2021-02-08T13:18:28+0000
+/project/solum-dashboard/, solum-dashboard, 6.0.0, Solum Dashboard, 2021-04-14T11:21:20+0000
+/project/sahara-dashboard/, sahara-dashboard, 14.0.0, Sahara Management Dashboard, 2021-04-14T11:15:56+0000
+/project/ardana-opsconsole-server/, ardana-opsconsole-server, 1.0, Business Logic Layer for the Operations Console, 2018-01-10T08:08:25+0000
+/project/python-gaiaclient/, python-gaiaclient, 1.0.1, Client library for Zeus Gaia API, 2016-11-30T09:30:23+0000
+/project/networking-fortinet/, networking-fortinet, 1.1.4, neutron plugin for fortigate, 2017-07-24T21:44:04+0000
+/project/oslo-metrics/, oslo.metrics, 0.2.1, Oslo Metrics API, 2021-02-11T11:37:50+0000
+/project/oslo-middleware/, oslo.middleware, 4.2.0, Oslo Middleware library, 2021-03-11T20:42:54+0000
+/project/vitrage-dashboard/, vitrage-dashboard, 3.3.0, Vitrage Horizon plugin, 2021-02-11T11:32:33+0000
+/project/python-karborclient/, python-karborclient, 2.1.0, Python client library for Karbor API, 2020-08-03T15:16:25+0000
+/project/app-catalog-ui/, app-catalog-ui, 1.0.0, UNKNOWN, 2015-10-16T17:54:54+0000
+/project/castellan-ui/, castellan-ui, 0.1.0, Generic Key Manager UI Plugin for Horizon, 2018-03-07T23:36:14+0000
+/project/python-cyborgclient/, python-cyborgclient, 1.3.0, Python client for cyborg API, 2021-01-21T18:36:02+0000
+/project/networking-lagopus/, networking-lagopus, 1.0.0, Neutron Driver for Lagopus, 2017-11-30T12:38:13+0000
+/project/kolla-cli/, kolla-cli, 10.0.0, Command Line Interface for Kolla-Ansible, 2020-06-24T11:04:00+0000
+/project/raxtoken-auth-openstack/, raxtoken-auth-openstack, 0.1.3, Rackspace Token-Based Auth Plugin for OpenStack Clients., 2016-05-06T18:25:40+0000
+/project/kolla-kubernetes/, kolla-kubernetes, 0.6.0, Kubernetes deployment of the Kolla containers, 2017-04-19T10:11:55+0000
+/project/python-apmecclient/, python-apmecclient, 0.1.0, CLI and Client Library for OpenStack Apmec, 2018-10-26T09:08:28+0000
+/project/tricircleclient/, tricircleclient, 1.0.0, Python client library for Tricircle, 2020-02-14T22:59:18+0000
+/project/faytheclient/, faytheclient, 0.0.3, Faythe API Client Library, 2020-08-12T07:07:06+0000
+/project/instack-undercloud/, instack-undercloud, 9.5.1, instack-undercloud, 2019-09-12T09:38:26+0000
+/project/searchlight-ui/, searchlight-ui, 9.0.0, Horizon panels and libraries for Searchlight, 2020-10-14T10:34:29+0000
+/project/tc-as-a-service/, tc-as-a-service, 0.0.1.dev31, APIs and implementations to support TC as a Service, 2017-04-09T10:55:45+0000
+/project/sahara-plugin-ambari/, sahara-plugin-ambari, 5.0.0, Ambari Plugin for Sahara Project, 2021-04-14T11:17:16+0000
+/project/magnum-tempest-plugin/, magnum-tempest-plugin, 1.3.0, Tempest plugin for Magnum Project, 2021-03-29T09:02:15+0000
+/project/pbrlgs/, pbrlgs, 3.1.4, Python Build Reasonableness ("likes submodules"-fork), 2017-12-12T17:16:34+0000
+/project/oslo-policy/, oslo.policy, 3.7.0, Oslo Policy library, 2021-03-03T13:38:09+0000
+/project/keystone-voms/, keystone-voms, 2015.1, Keystone VOMS module for Keystone., 2015-07-08T21:24:53+0000
+/project/oslo-config/, oslo.config, 8.5.0, Oslo Configuration API, 2021-03-03T13:42:50+0000
+/project/sahara/, sahara, 14.0.0, Sahara project, 2021-04-14T11:16:59+0000
+/project/python-brick-cinderclient-ext/, python-brick-cinderclient-ext, 1.3.0, python-cinderclient extension for local storage management, 2021-03-15T08:50:15+0000
+/project/keystoneauth-oidc/, keystoneauth-oidc, 1.0.0, OpenID Connect support for OpenStack keystoneauth library, 2020-09-04T10:40:37+0000
+/project/karbor-dashboard/, karbor-dashboard, 1.5.1, Karbor Dashboard, 2020-10-06T15:51:22+0000
+/project/python-troveclient/, python-troveclient, 7.0.0, Client library for OpenStack DBaaS API, 2021-02-22T20:25:36+0000
+/project/networking-plumgrid/, networking_plumgrid, 2016.2.6.8, PLUMgrid Open Networking Suite drivers for Neutron, 2016-11-23T10:34:01+0000
+/project/ironic-python-agent-builder/, ironic-python-agent-builder, 2.6.0, Tools and scripts to build Ironic Python Agent, 2021-04-09T10:14:29+0000
+/project/sdflex-ironic-driver/, sdflex-ironic-driver, 1.2.1, sdflex-ironic-driver provides additional ironic features to manage the Superdome Flex Servers, 2021-01-28T11:44:30+0000
+/project/masakari-dashboard/, masakari-dashboard, 4.0.0, Horizon plugin for masakari, 2021-04-14T11:10:57+0000
+/project/fuel-plugin-builder/, fuel-plugin-builder, 4.2.0, Helps to create and build fuel plugins, 2017-02-02T14:05:55+0000
+/project/instack/, instack, 9.1.0, instack, 2018-06-05T20:00:31+0000
+/project/telemetry-tempest-plugin/, telemetry-tempest-plugin, 1.3.0, Tempest plugin for Telemetry Projects, 2021-03-29T08:56:24+0000
+/project/murano-common/, murano-common, 0.4.1, Shared library for Murano, 2014-02-07T15:21:04+0000
+/project/networking-hyperv/, networking-hyperv, 10.0.0, This project tracks the work to integrate the Hyper-V networking with Neutron. This project contains the Hyper-V Neutron Agent Mixin, Security Groups Driver, ML2 Mechanism Driver and the utils modules they use in order to properly bind neutron ports on a Hyper-V host. This project resulted from the neutron core vendor decomposition., 2021-04-14T11:09:57+0000
+/project/python-designateclient/, python-designateclient, 4.2.0, OpenStack DNS-as-a-Service - Client, 2021-01-25T20:41:44+0000
+/project/multistack/, multistack, 0.4.1, Universal wrapper for the various OpenStack client software with support for multiple environments., 2015-05-30T12:37:50+0000
+/project/pyshaker-agent/, pyshaker-agent, 0.0.9, Shaker Agent, 2015-11-12T13:16:44+0000
+/project/pycadf/, pycadf, 3.1.1, CADF Library, 2020-09-08T12:38:12+0000
+/project/os-cloud-config/, os-cloud-config, 6.0.0, Configuration for OpenStack clouds., 2017-03-06T19:30:23+0000
+/project/oslo-vmware/, oslo.vmware, 3.8.0, Oslo VMware library, 2021-02-08T13:20:24+0000
+/project/openstack-heat/, openstack-heat, 16.0.0, OpenStack Orchestration, 2021-04-14T11:05:14+0000
+/project/python-distilclient/, python-distilclient, 0.4.0, Client library for Catalyst Cloud Rating API, 2018-05-01T23:28:28+0000
+/project/neutron-tempest-plugin/, neutron-tempest-plugin, 1.4.0, Tempest plugin for Neutron Project, 2021-03-29T09:10:04+0000
+/project/cyberaide-bookmanager/, cyberaide-bookmanager, 0.2.35, Creating Books from content in different git and other cloud services., 2020-07-29T14:02:46+0000
+/project/nova-dpm/, nova-dpm, 3.0.0, OpenStack Nova virt-driver for IBM z Systems PR/SM hypervisor in DPM mode, 2018-02-28T04:26:12+0000
+/project/python-bsn-neutronclient/, python-bsn-neutronclient, 12.0.1, Python bindings for Big Switch Networks Neutron API, 2019-01-15T05:45:05+0000
+/project/pynats2/, pynats2, 0.9.0, 'Thread based NATS client for Python 3',, 2019-10-25T04:33:55+0000
+/project/oslo-messaging/, oslo.messaging, 12.7.1, Oslo Messaging API, 2021-02-16T09:02:54+0000
+/project/openstacksdk/, openstacksdk, 0.55.0, An SDK for building applications to work with OpenStack, 2021-03-12T09:02:00+0000
+/project/ovsportranges/, ovsportranges, 0.1.2, OVS bitwise port/mask ranges, 2018-09-13T15:30:45+0000
+/project/networking-l2gw-tempest-plugin/, networking-l2gw-tempest-plugin, 0, Tempest Plugin for Neutron L2 Gateway., 2017-10-05T10:49:46+0000
+/project/oslotest/, oslotest, 4.4.1, Oslo test framework, 2020-09-11T19:22:48+0000
+/project/zuup/, zuup, 1.0.7, Command line to consult Openstack zuul status, 2018-06-14T15:18:39+0000
+/project/pyshaker/, pyshaker, 1.4.2, Distributed data-plane performance testing tool, 2021-01-26T15:13:46+0000
+/project/networking-mlnx-baremetal/, networking-mlnx-baremetal, 1.0.2, Neutron ML2 mechanism driver for Mellanox infiniband Pkey binding., 2020-11-06T08:53:41+0000
+/project/healthywork/, healthywork, 1.6.2, Work break reminder, 2019-02-23T10:19:47+0000
+/project/sushy/, sushy, 3.7.0, Sushy is a small Python library to communicate with Redfish based systems, 2021-03-03T06:45:50+0000
+/project/iotronic-ui/, iotronic-ui, 0.4.3, Iotronic plugin for the OpenStack Dashboard, 2019-02-07T11:22:40+0000
+/project/nova-lxd/, nova-lxd, 19.0.0, native lxd driver for openstack, 2019-04-12T10:32:09+0000
+/project/ovn-octavia-provider/, ovn-octavia-provider, 1.0.0, OpenStack Octavia integration with OVN, 2021-03-26T11:58:14+0000
+/project/python-octaviaclient/, python-octaviaclient, 2.3.0, Octavia client for OpenStack Load Balancing, 2021-03-11T11:09:52+0000
+/project/python-tackerclient/, python-tackerclient, 1.6.0, CLI and Client Library for OpenStack Tacker, 2021-03-11T19:56:57+0000
+/project/swaggertools/, swaggertools, 0.0.4, Merge many files swagger specification into one file., 2016-05-09T15:33:39+0000
+/project/python-k8sclient/, python-k8sclient, 0.4.0, This is Kubernetes API python client code. This code is generated by swagger-codegen. Kubernetes provide swagger-spec to generate client code for different versions. The specs live in Kubernetes repo., 2017-02-07T02:56:42+0000
+/project/gyan/, gyan, 0.0.0, Machine Learning Infrastructure on Openstack, 2018-09-04T17:02:40+0000
+/project/horizon-contrib/, horizon_contrib, 2017.10.0, Horizon Django tools., 2017-10-02T20:17:21+0000
+/project/ironic/, ironic, 17.0.1, OpenStack Bare Metal Provisioning, 2021-04-08T09:07:55+0000
+/project/heat-tempest-plugin/, heat-tempest-plugin, 1.2.0, OpenStack Orchestration Tempest Plugin, 2021-02-08T13:25:48+0000
+/project/openstack-voms-auth-type/, openstack-voms-auth-type, 3.0.1, VOMS-based authentication for OpenStack, 2019-02-04T14:57:20+0000
+/project/rdopkg/, rdopkg, 1.4.0, RPM packaging automation tool, 2021-03-03T09:19:41+0000
+/project/gbptestheat/, gbptestheat, 2014.2, OpenStack Orchestration, 2014-09-27T01:52:04+0000
+/project/openstack-publicdns/, openstack-publicdns, 0.0.6, OpenStack public DNS plugins, 2019-08-12T17:12:32+0000
+/project/swiftwal/, swiftwal, 0.2.2, PostgreSQL backups, WAL archiving & PITR to OpenStack Swift, 2014-01-28T08:35:34+0000
+/project/python-cinderclient/, python-cinderclient, 7.4.0, OpenStack Block Storage API Client Library, 2021-03-15T08:50:27+0000
+/project/bosi/, bosi, 4.7.8, Big Switch Networks OpenStack Installer, 2020-04-27T16:35:13+0000
+/project/kuryr-libnetwork/, kuryr-libnetwork, 7.0.0, Docker libnetwork driver for OpenStack Neutron, 2021-04-14T11:09:00+0000
+/project/os-client-config/, os-client-config, 2.1.0, OpenStack Client Configuation Library, 2020-04-02T18:39:11+0000
+/project/os-acc/, os-acc, 0.2.0, A library for attaching and detaching accelerators in OpenStack., 2018-11-01T13:27:59+0000
+/project/networking-cisco/, networking-cisco, 7.0.0, Networking Cisco contains drivers for OpenStack Neutron to support Cisco equipment and products, 2018-10-31T15:36:15+0000
+/project/os-cpu/, os-cpu, 0.0.0, OpenStack Boilerplate contains all the boilerplate you need to create an OpenStack package., 2017-10-11T08:17:05+0000
+/project/pbr-samstav/, pbr-samstav, 0.7.0.9.g22e96fe, Python Build Reasonableness, 2014-03-29T19:54:55+0000
+/project/git-nit/, git-nit, 1.0.0, Tool to simplify making minor changes to patches in gerrit, 2018-04-26T20:32:52+0000
+/project/pbrtool/, pbrtool, 0.3.0, Python Pbr generate tool, 2019-02-25T06:58:08+0000
+/project/bifrost/, bifrost, 10.2.0, Deployment of physical machines using OpenStack Ironic and Ansible, 2021-03-31T09:33:39+0000
+/project/etcd3gw/, etcd3gw, 0.2.6, A python client for etcd3 grpc-gateway v3 API, 2020-07-30T13:16:34+0000
+/project/openstack-interpreter/, openstack-interpreter, 0.4.2, OpenStack Interpreter, 2018-10-30T08:35:57+0000
+/project/setuptools-shim/, setuptools_shim, 0.0.2, Abstract build system shim providing setup.py, 2016-01-27T03:14:20+0000
+/project/openstack-release-test/, openstack-release-test, 3.3.1, Package for testing OpenStack release tools., 2020-09-01T14:02:55+0000
+/project/ironic-prometheus-exporter/, ironic-prometheus-exporter, 2.2.0, Prometheus Exporter for Ironic Hardware Sensor data, 2021-03-19T18:38:37+0000
+/project/brocade-plugins/, brocade-plugins, 2015.1, Brocade Vyatta L3 router Neutron plugin, 2015-01-22T17:17:39+0000
+/project/openstacksdk-plugin/, openstacksdk-plugin, 0.3.0, OpenStack SDK example plugin, 2015-07-01T22:02:01+0000
+/project/openstack-cyborg/, openstack-cyborg, 6.0.0, Distributed Acceleration Management as a Service, 2021-04-14T11:06:12+0000
+/project/futurist/, futurist, 2.3.0, Useful additions to futures, from the future., 2020-09-11T19:18:42+0000
+/project/hastexo-xblock/, hastexo-xblock, 5.0.9, hastexo XBlock: Makes arbitrarily complex lab environments available on an Open edX LMS, 2021-04-23T12:12:03+0000
+/project/ironic-lib/, ironic-lib, 4.6.1, Ironic common library, 2021-03-09T08:09:07+0000
+/project/python-scciclient/, python-scciclient, 0.9.1, Python ServerView Common Command Interface (SCCI) Client Library, 2021-02-22T06:30:10+0000
+/project/fixtures-git/, fixtures-git, 0.1.0, unittest fixture to help testing with git repositories, 2018-07-10T08:23:53+0000
+/project/oslo-versionedobjects/, oslo.versionedobjects, 2.4.0, Oslo Versioned Objects library, 2020-12-04T16:34:08+0000
+/project/python-stacktaskclient/, python-stacktaskclient, 0.1.6, StackTask API Client Library, 2017-05-25T05:47:00+0000
+/project/cloudkitty-dashboard/, cloudkitty-dashboard, 12.0.0, CloudKitty Horizon dashboard, 2021-04-14T11:02:17+0000
+/project/ovs-sphinx-theme/, ovs-sphinx-theme, 1.0.2, Open vSwitch Theme, 2020-08-06T15:20:05+0000
+/project/rally-openstack/, rally-openstack, 2.1.0, Rally plugins for OpenStack platform, 2020-11-04T15:36:48+0000
+/project/pbr/, pbr, 5.5.1, Python Build Reasonableness, 2020-10-19T16:29:20+0000
+/project/python-watcher-metering-vsphere/, python-watcher_metering_vsphere, 0.21.13, Drivers for the Watcher Metering agent, 2015-11-06T17:36:44+0000
+/project/python-magnetodbclient/, python-magnetodbclient, 1.0.2, CLI and Client Library for OpenStack KeyValue Storage, 2014-12-22T17:53:11+0000
+/project/rackspace-auth-openstack/, rackspace-auth-openstack, 1.3, Rackspace Auth Plugin for OpenStack Clients., 2014-01-22T15:41:00+0000
+/project/python-watcher-metering-grid5000/, python-watcher_metering_grid5000, 0.22.0, Drivers for the Watcher Metering agent, 2015-12-29T13:10:11+0000
+/project/freezer-dr/, freezer-dr, 10.0.0, OpenStack Disaster Recovery, 2021-04-14T11:03:14+0000
+/project/octavia/, octavia, 8.0.0, OpenStack Octavia Scalable Load Balancer as a Service, 2021-04-14T11:19:57+0000
+/project/radware-os-lb-v2-mitaka/, radware_os_lb_v2_mitaka, 4.5.0-3, Radware LBaaS v2 driver for Openstack Mitaka, 2018-06-09T11:37:54+0000
+/project/python-tripleoclient/, python-tripleoclient, 16.0.0, TripleO client, 2021-04-15T17:29:55+0000
+/project/neutron-bsn-lldp/, neutron-bsn-lldp, 1.0.4, LLDP Agent for Big Switch Networks integration., 2020-11-02T22:26:03+0000
+/project/neutron-lbaas/, neutron-lbaas, 14.0.1, OpenStack Networking Load Balancing as a Service, 2019-11-14T04:13:11+0000
+/project/gluon/, gluon, 1.1.0, OpenStack Gluon acts as a port arbiter between Nova and port-provider such as neutron, 2017-08-30T00:20:41+0000
+/project/networking-dpm/, networking-dpm, 3.0.0, OpenStack Neutron mechanism driver and agent for IBM z Systems PR/SM hypervisor in DPM mode, 2018-02-28T04:42:04+0000
+/project/json-extensions/, json-extensions, 0.2.1, Implements sereval JSON specs, like JSON Schema., 2014-06-04T13:02:47+0000
+/project/zun/, zun, 7.0.0, OpenStack Containers service, 2021-04-14T11:19:26+0000
+/project/keystone-tempest-plugin/, keystone-tempest-plugin, 0.7.0, Tempest plugin keystone_tempest_plugin, 2021-03-31T15:20:12+0000
+/project/os-faults/, os-faults, 0.2.7, OpenStack fault-injection library, 2020-05-05T08:07:32+0000
+/project/oaktreemodel/, oaktreemodel, 0.0.2, Base protobuf data model for oaktree, 2016-11-14T15:50:23+0000
+/project/eris/, eris, 0.0.0.0b1, OpenStack Extreme Testing, 2017-11-01T04:21:20+0000
+/project/osc-lib/, osc-lib, 2.3.1, OpenStackClient Library, 2021-01-18T21:54:52+0000
+/project/rackspaceauth/, rackspaceauth, 0.8.1, keystoneauth plugin for Rackspace's authentication service, 2018-01-11T16:45:37+0000
+/project/cinderlib/, cinderlib, 3.1.0, Direct usage of Cinder Block Storage drivers without the services, 2021-03-08T11:46:21+0000
+/project/ahc-tools/, ahc-tools, 0.2.0, Tools for RDO-manager automatic health checks, 2015-06-19T19:20:57+0000
+/project/baremetal-network-provisioning/, baremetal-network-provisioning, 0.1, HP mechanism drivers for bare metal connectivity, 2015-11-05T07:41:09+0000
+/project/blazar-dashboard/, blazar-dashboard, 5.0.0, Horizon plugin for the Blazar Reservation Service for OpenStack, 2021-04-14T11:02:18+0000
+/project/rally/, rally, 3.2.0, Generic Testing Framework & Tool that unifies all types of testing., 2020-11-02T15:27:14+0000
+/project/slogging/, slogging, 1.2.1, Stats System for OpenStack Swift, 2018-08-14T06:24:45+0000
+/project/seamicro-ml2/, seamicro-ml2, 0.1.1, OpenStack Networking, 2015-02-27T09:17:18+0000
+/project/os-log-merger/, os-log-merger, 1.2.1, OpenStack Log merge tool, 2018-10-05T13:14:51+0000
+/project/fuel-pdsh/, fuel-pdsh, 1.0.0.dev21, Simple pure Python alternative to PDSH for OpenStack Fuel node., 2015-12-01T07:46:46+0000
+/project/magnetodb/, magnetodb, 2015.1, MagnetoDB is key-value database service for OpenStack cloud, 2015-04-29T13:23:26+0000
+/project/tuning-box/, tuning_box, 0.1.0, Tuning Box - configuration storage for your clouds, 2016-05-05T14:48:23+0000
+/project/horizon-sensu-dashboard/, horizon-sensu-dashboard, 0.0.6, Horizon panels integrating Sensu monitoring and Known Error Database, 2015-05-04T13:47:42+0000
+/project/freezer-web-ui/, freezer-web-ui, 10.0.0, Freezer - Backup as a Service User Interface, 2021-04-14T11:04:24+0000
+/project/cyborg-tempest-plugin/, cyborg-tempest-plugin, 1.2.0, OpenStack Acceleration Tempest Plugin, 2021-03-18T10:50:38+0000
+/project/watcher-dashboard/, watcher-dashboard, 5.0.0, Watcher Management Dashboard, 2021-04-14T11:18:11+0000
+/project/a10-octavia/, a10-octavia, 1.1.0, A10 Octavia Provider Driver, 2021-02-04T02:59:15+0000
+/project/otcextensions/, otcextensions, 0.16.1, Open Telekom Cloud specific extensions for the OpenStack Client CLI and OpenStack SDK, 2021-04-23T08:47:42+0000
+/project/barbican/, barbican, 12.0.0, OpenStack Secure Key Management, 2021-04-14T11:01:25+0000
+/project/blazar-tempest-plugin/, blazar-tempest-plugin, 0.6.1, Tempest plugin for Blazar Project, 2021-03-29T09:11:47+0000
+/project/caso/, caso, 2.1.1, cASO is an OpenStack Accounting extractor., 2021-02-05T16:01:22+0000
+/project/yakumo/, yakumo, 0.11.0, Pythonic Unified OpenStack Client Library, 2017-05-03T01:16:48+0000
+/project/ironic-ui/, ironic-ui, 4.3.0, Ironic plugin UI for Horizon to allow users to view and manage bare metal nodes, ports and drivers., 2021-03-19T18:39:16+0000
+/project/openstacki18n/, openstacki18n, 0.0.1.dev398, OpenStack I18n, 2018-09-28T18:00:42+0000
+/project/os-resource-classes/, os-resource-classes, 1.0.0, Resource Classes for OpenStack, 2020-03-29T20:19:42+0000
+/project/designate-tempest-plugin/, designate-tempest-plugin, 0.11.0, OpenStack DNS As A Service (Designate) Functional Tests, 2021-03-29T09:08:37+0000
+/project/pankoclient/, pankoclient, 1.2.0, Python client library for OpenStack Panko project., 2020-12-02T10:34:45+0000
+/project/nova-powervm/, nova-powervm, 9.0.0, PowerVM driver for OpenStack Nova., 2019-10-16T12:43:51+0000
+/project/python-fuelclient/, python-fuelclient, 11.0.0, Command line interface and Python API wrapper for Fuel., 2017-03-10T11:50:09+0000
+/project/openstack-placement/, openstack-placement, 5.0.0, Resource provider inventory usage and allocation service, 2021-04-14T11:15:42+0000
+/project/qinling/, qinling, 5.0.0, Function as a Service, 2020-10-14T10:26:23+0000
+/project/env2/, env2, 0.0.0, os.environ on steroids, 2017-11-10T20:41:58+0000
+/project/manic-entropy-typhoon/, manic-entropy-typhoon, 0.0.0, Test of the pbr packaging system using cookiecutter, 2017-08-20T20:14:45+0000
+/project/python-glanceclient/, python-glanceclient, 3.3.0, OpenStack Image API Client Library, 2021-03-11T10:30:34+0000
+/project/python-novaclient/, python-novaclient, 17.4.0, Client library for OpenStack Compute API, 2021-03-11T19:48:54+0000
+/project/masakari/, masakari, 11.0.0, Virtual Machine High Availability (VMHA) service for OpenStack, 2021-04-14T11:07:16+0000
+/project/vitrage-tempest-plugin/, vitrage-tempest-plugin, 5.3.0, Tempest plugin for Vitrage project, 2021-03-29T09:06:33+0000
+/project/python-mistralclient/, python-mistralclient, 4.2.0, Mistral Client Library, 2021-01-25T20:42:45+0000
+/project/os-traits/, os-traits, 2.5.0, A library containing standardized trait strings, 2021-02-17T13:21:09+0000
+/project/python-smaugclient/, python-smaugclient, 0.0.8, Python client library for Karbor API, 2016-08-29T08:01:24+0000
+/project/monasca-ceilometer/, monasca-ceilometer, 1.10.0, OpenStack Monasca Ceilometer - Provide Metering for Monasca, 2019-09-25T09:16:29+0000
+/project/cloudmesh/, cloudmesh, 2.3.2, A tool to enable federated management of multiple clouds including Azure, AWS, Eucalyptus, OpenStack, 2015-06-04T20:39:33+0000
+/project/glare/, glare, 5.0.1, OpenStack Artifact Service, 2020-03-23T11:16:23+0000
+/project/tuskar/, tuskar, 0.4.18, An OpenStack Management Service, 2015-05-11T19:13:46+0000
+/project/designate/, designate, 12.0.0, DNS as a Service, 2021-04-14T11:03:20+0000
+/project/ceilometer-infoblox/, ceilometer-infoblox, 2.0.0, Infoblox custom meters for Ceilometer (Liberty), 2016-08-02T18:33:11+0000
+/project/heat-translator/, heat-translator, 2.3.0, Tool to translate non-heat templates to Heat Orchestration Template., 2021-03-25T17:50:17+0000
+/project/neutron-dynamic-routing/, neutron-dynamic-routing, 18.0.0, Neutron Dynamic Routing, 2021-04-14T11:09:53+0000
+/project/qh-python-manilaclient/, qh-python-manilaclient, 0.0.1.dev1, Client library for OpenStack Manila API., 2020-10-26T08:02:00+0000
+/project/python-vitrageclient/, python-vitrageclient, 4.3.0, Vitrage Client API Library, 2021-03-08T11:48:04+0000
+/project/tempest-horizon/, tempest-horizon, 1.1.0, Tempest Plugin for Horizon tests, 2020-09-10T20:37:56+0000
+/project/patrole/, patrole, 0.12.0, Patrole is a tool for verifying that Role-Based Access Control is being enforced across OpenStack deployments., 2021-03-26T16:15:12+0000
+/project/keystoneauth/, keystoneauth, 0.5.0, Authentication Libarary for OpenStack Identity, 2015-10-07T04:27:20+0000
+/project/citellus/, citellus, 1.3.3.20210421115858, Utility for running set of tests against a Live System or a snapshot/sosreport, 2021-04-21T11:59:03+0000
+/project/cloudmesh-base/, cloudmesh_base, 3.5.2, A set of simple base functions and classes useful for cloudmesh and other programs, 2016-01-13T21:37:00+0000
+/project/deuce-client/, deuce-client, 0.1-beta10.dev210.g4faa860, Client for Deuce De-Duplication-As-A-Service, 2015-01-22T15:41:07+0000
+/project/kolla-ansible-plugins/, kolla-ansible-plugins, 0.0.0, Provide plugins for openstack/kolla-ansible, 2017-08-07T06:27:00+0000
+/project/barbican-tempest-plugin/, barbican-tempest-plugin, 1.3.0, OpenStack barbican tempest tests., 2021-03-31T12:43:26+0000
+/project/virtualpdu/, virtualpdu, 0.3.6, VirtualPDU is a service for simulating virtual power distribution outlets (PDUs)., 2017-03-07T13:50:00+0000
+/project/satori/, satori, 0.1.5, OpenStack Configuration Discovery, 2014-08-22T03:06:49+0000
+/project/whitebox-tempest-plugin/, whitebox-tempest-plugin, 0, Tempest plugin for whitebox testing of TripleO/Director-based OpenStack deployments, 2019-04-02T18:30:09+0000
+/project/sahara-plugin-mapr/, sahara-plugin-mapr, 5.0.0, Mapr Plugin for Sahara Project, 2021-04-14T11:17:34+0000
+/project/whereto/, whereto, 0.4.0, Test Apache redirect rules., 2017-11-22T13:02:32+0000
+/project/datastore-cloudfiles/, datastore.cloudfiles, 1.0.0, Rackspace Cloud Files implementation of Datastore., 2016-01-28T17:09:03+0000
+/project/oslo-service/, oslo.service, 2.5.0, oslo.service library, 2021-02-08T13:20:10+0000
+/project/networking-spp/, networking-spp, 21.0.0, SPP mechanism driver, 2020-07-27T04:18:06+0000
+/project/designate-dashboard/, designate-dashboard, 12.0.0, Designate Horizon UI bits, 2021-04-14T11:03:02+0000
+/project/xfin/, xfin, 1.0.2, The most important libraries for financial engineering, 2019-05-29T02:48:46+0000
+/project/anchor/, anchor, 0.4.0, Webservice to auto-sign certificates for short amount of time, 2016-03-21T05:03:43+0000
+/project/freezer-api/, freezer-api, 10.0.0, OpenStack Backup and Restore API Service, 2021-04-14T11:04:23+0000
+/project/python-wsmanclient/, python-wsmanclient, 0.1.0, Python client that speaks Web Services-Management protocol, 2016-08-26T11:55:36+0000
+/project/ironic-oneview-cli/, ironic-oneview-cli, 1.2.1, Command Line Interface to ease the use of OneView Driver for openstack/ironic, 2018-02-28T20:08:53+0000
+/project/murano-tempest-plugin/, murano-tempest-plugin, 2.2.0, Tempest plugin for the murano project., 2021-01-18T22:26:18+0000
+/project/horizon-benchmark-dashboard/, horizon-benchmark-dashboard, 1.0.0, Horizon Benchmark Dashboard for easy manage of Rally tests and reports, 2015-09-22T18:54:31+0000
+/project/kloudbuster/, kloudbuster, 8.0.0, KloudBuster is an open source tool that allows anybody to load any Neutron OpenStack cloud at massive data plane scale swiftly and effortlessly., 2020-07-25T15:46:39+0000
+/project/sdflexutils/, sdflexutils, 1.2.2, Client Library for interfacing with various devices in HPE Superdome Flex Servers., 2021-02-10T06:30:51+0000
+/project/oslo-db/, oslo.db, 8.5.0, Oslo Database library, 2020-12-04T08:43:20+0000
+/project/oslo-rootwrap/, oslo.rootwrap, 6.2.0, Oslo Rootwrap, 2020-09-11T19:20:09+0000
+/project/python-libraclient/, python-libraclient, 2.0.0, Client library for Libra LBaaS tools, 2013-11-15T16:08:50+0000
+/project/pyxerox/, PyXerox, 0.0.1.dev2, OpenStack Xerox, 2019-11-22T10:33:08+0000
+/project/python-shka-gadgets-openstackclient/, python-shka-gadgets-openstackclient, 0.5.4, , 2020-04-08T16:27:37+0000
+/project/congress-dashboard/, congress-dashboard, 6.0.0, Horizon Plugin for Congress, 2020-05-13T10:44:09+0000
+/project/radware-os-lb-v2-newton/, radware_os_lb_v2_newton, 4.2.1-1, Radware LBaaS v2 driver for Openstack Newton, 2017-10-31T08:36:22+0000
+/project/python-qinlingclient/, python-qinlingclient, 5.1.1, python-qinlingclient, 2020-09-09T17:45:14+0000
+/project/rsd-lib/, rsd-lib, 1.2.0, Extended Sushy library for Rack Scale Design, 2019-09-12T00:23:38+0000
+/project/qonos/, qonos, 1.1.5, The QonoS project provides services for scheduling regularly occuring tasks., 2015-01-21T22:01:32+0000
+/project/uos-cli/, uos.cli, 1.6.1, UOS Command-line Client, 2015-08-20T05:36:27+0000
+/project/kuryr-kubernetes/, kuryr-kubernetes, 4.0.0, Kubernetes integration with OpenStack networking, 2021-04-14T11:05:02+0000
+/project/python-plcloudclient/, python-plcloudclient, 1.4.0, PLCloud API SDK, 2014-12-31T08:28:01+0000
+/project/cloudferry/, CloudFerry, 1.55.2, Openstack cloud workload migration tool, 2017-04-09T06:41:51+0000
+/project/python-cloudfoundryclient/, python-cloudfoundryclient, 1.0.2, Python bindings for cloudfoundry, 2015-03-24T22:03:12+0000
+/project/trove-dashboard/, trove-dashboard, 16.0.0, Trove Management Dashboard, 2021-04-14T11:17:57+0000
+/project/python-swiftclient/, python-swiftclient, 3.11.1, OpenStack Object Storage API Client Library, 2021-03-10T15:00:17+0000
+/project/herodote-auth/, herodote-auth, 0.0.1.dev22, Auth middleware for swift and herodote, 2021-01-05T11:57:42+0000
+/project/oslo-concurrency/, oslo.concurrency, 4.4.0, Oslo Concurrency library, 2021-01-18T12:06:57+0000
+/project/collectd-ceilometer-plugin/, collectd-ceilometer-plugin, 1.0.1, OpenStack Ceilometer plugin for collectd., 2016-08-02T15:19:44+0000
+/project/ironic-inspector/, ironic-inspector, 10.6.0, Hardware introspection for OpenStack Bare Metal, 2021-03-30T19:00:40+0000
+/project/senlin/, senlin, 11.0.0, OpenStack Clustering, 2021-04-14T11:19:21+0000
+/project/python-masakariclient/, python-masakariclient, 7.0.0, masakariclient module and a CLI tool for masakari, 2021-03-12T15:13:57+0000
+/project/notifier/, notifier, 1.0.3, Simple in-memory pub-sub., 2015-12-11T19:14:39+0000
+/project/cinder/, cinder, 18.0.0, OpenStack Block Storage, 2021-04-14T11:03:21+0000
+/project/python-watcher-metering-drivers/, python-watcher_metering_drivers, 0.21.0, Drivers for the Watcher Metering agent, 2015-10-23T07:16:27+0000
+/project/image-bootstrap/, image-bootstrap, 2.0.5, Command line tool for creating bootable virtual machine images, 2021-01-08T14:19:51+0000
+/project/os-downpour/, os-downpour, 0.1.1, OpenStack tenant data migration tool, 2017-05-05T20:23:14+0000
+/project/bsnstacklib/, bsnstacklib, 20154.36.7, Big Switch Networks Plugins for OpenStack Networking, 2017-03-03T18:23:19+0000
+/project/monasca-events-api/, monasca-events-api, 3.0.0, Monasca API for events, 2021-04-14T11:12:50+0000
+/project/python-group-based-policy-client/, python-group-based-policy-client, 8.0.0, CLI and Client Library for Group Based Policy, 2020-09-24T17:33:52+0000
+/project/python-almanachclient/, python-almanachclient, 0.0.6, Almanach API client, 2017-06-30T14:20:00+0000
+/project/rbd-iscsi-client/, rbd-iscsi-client, 0.1.8, "REST client to talk to rbd-target-api", 2020-08-05T19:21:39+0000
+/project/neutron-vpnaas/, neutron-vpnaas, 18.0.0, OpenStack Networking VPN as a Service, 2021-04-14T11:10:40+0000
+/project/python-muranoclient/, python-muranoclient, 2.2.0, python-muranoclient, 2021-01-25T20:41:44+0000
+/project/group-based-policy-automation/, group-based-policy-automation, 2015.2.2, Group Based Policy Automation, 2016-05-13T20:23:33+0000
+/project/synergy-service/, synergy-service, 1.5.3, Synergy is as an extensible general purpose management OpenStack service., 2017-09-20T09:19:33+0000
+/project/microversion-parse/, microversion-parse, 1.0.1, OpenStack microversion header parser, 2020-04-07T10:11:25+0000
+/project/ceilometer-powervm/, ceilometer-powervm, 9.0.0, PowerVM Ceilometer Inspector for OpenStack Ceilometer., 2019-10-16T12:40:33+0000
+/project/python-quantumclient/, python-quantumclient, 2.2.4.3, CLI and Client Library for OpenStack Networking, 2013-10-02T05:14:05+0000
+/project/vitrage/, vitrage, 7.4.0, The OpenStack RCA Service, 2021-02-11T11:32:47+0000
+/project/python-heatclient/, python-heatclient, 2.3.0, OpenStack Orchestration API Client Library, 2020-12-04T08:47:04+0000
+/project/novajoin-tempest-plugin/, novajoin-tempest-plugin, 0.0.3, OpenStack Novajoin tempest tests., 2020-08-31T19:52:08+0000
+/project/stackhpc-inspector-plugins/, stackhpc-inspector-plugins, 1.1.1, StackHPC plugins for OpenStack ironic inspector, 2018-08-14T14:43:12+0000
+/project/cloudbase-init/, cloudbase-init, 1.1.2, Portable cloud initialization service, 2020-06-22T15:42:17+0000
+/project/ironic-tempest-plugin/, ironic-tempest-plugin, 2.2.0, Tempest plugin for ironic and ironic-inspector, 2021-02-08T13:27:03+0000
+/project/openstackclient/, openstackclient, 4.0.0, OpenStack Command-line Client, 2019-09-13T16:27:55+0000
+/project/oslo-sphinx/, oslo.sphinx, 1.1, OpenStack Sphinx Extensions, 2013-09-29T15:56:25+0000
+/project/networking-ansible/, networking-ansible, 5.0.0, Ansible Networking ML2 Driver, 2020-10-14T12:52:54+0000
+/project/adjutant-ui/, adjutant-ui, 2.0.0, Adjutant User Interface, 2021-04-14T11:00:06+0000
+/project/neutron-fwaas-dashboard/, neutron-fwaas-dashboard, 3.0.0, Neutron FWaaS Dashboard, 2020-05-13T10:55:28+0000
+/project/metalsmith/, metalsmith, 1.4.2, Deployment and Scheduling tool for Bare Metal, 2021-03-03T16:02:44+0000
+/project/ip-associations-python-novaclient-ext/, ip_associations_python_novaclient_ext, 0.2, Adds Rackspace ip_associations support to python-novaclient, 2016-05-19T15:46:59+0000
+/project/os-net-config/, os-net-config, 14.0.0, OpenStack network configuration, 2021-01-28T11:02:44+0000
+/project/tempest-lib/, tempest-lib, 1.0.0, OpenStack Functional Testing Library, 2016-03-02T15:57:22+0000
+/project/senlin-tempest-plugin/, senlin-tempest-plugin, 1.3.0, Tempest plugin senlin_tempest_plugin, 2021-03-29T09:01:17+0000
+/project/sahara-plugin-vanilla/, sahara-plugin-vanilla, 5.0.0, Vanilla Plugin for Sahara Project, 2021-04-14T11:16:52+0000
+/project/tuskar-ui/, tuskar-ui, 0.4.0, Tuskar Management Dashboard, 2015-09-01T15:30:06+0000
+/project/oslo-upgradecheck/, oslo.upgradecheck, 1.3.0, Common code for writing OpenStack upgrade checks, 2020-12-11T16:57:16+0000
+/project/a10-nlbaas2oct/, a10-nlbaas2oct, 1.2.2, Migrate A10 specific device configs to nlbaas, 2021-04-22T23:11:51+0000
+/project/sahara-plugin-cdh/, sahara-plugin-cdh, 5.0.0, CDH Plugin for Sahara Project, 2021-04-14T11:16:37+0000
+/project/compute-hyperv/, compute-hyperv, 12.0.0, Hyper-V Nova Driver, 2021-04-14T11:05:13+0000
+/project/cloudkitty/, cloudkitty, 14.0.0, Rating as a Service component for OpenStack, 2021-04-14T11:03:20+0000
+/project/tobiko/, tobiko, 0.4.1, OpenStack Testing Upgrades Library, 2021-03-19T15:25:53+0000
+/project/zun-tempest-plugin/, zun-tempest-plugin, 4.3.0, Tempest plugin zun_tempest_plugin, 2021-03-29T09:05:45+0000
+/project/iotronic/, iotronic, 0.4.7, IoTronic is an Internet of Things resource management service for OpenStack clouds., 2019-03-04T15:40:47+0000
+/project/python-adjutantclient/, python-adjutantclient, 0.8.0, Adjutant API Client Library, 2021-03-12T12:16:08+0000
+/project/cinderdiags/, cinderdiags, 2.4.1, Cinder Diagnostics CLI, 2016-08-31T19:32:16+0000
+/project/python-searchlightclient/, python-searchlightclient, 2.1.1, OpenStack Indexing and Search API Client Library, 2020-09-09T17:59:49+0000
+/project/radware-os-lb-v2-kilo/, radware_os_lb_v2_kilo, 4.2.1.post3, Radware LBaaS v2 driver for Openstack Kilo, 2019-01-31T13:32:08+0000
+/project/networking-bgpvpn/, networking-bgpvpn, 14.0.0, API and Framework to interconnect bgpvpn to neutron networks, 2021-04-14T11:09:06+0000
+/project/python-storyboardclient/, python-storyboardclient, 0.2.0, Python Client library for StoryBoard, 2018-07-10T22:19:55+0000
+/project/os-api-ref/, os-api-ref, 2.1.0, Sphinx Extensions to support API reference sites in OpenStack, 2020-06-18T15:31:05+0000
+/project/polymoon/, polymoon, 0.1.0, OpenStack Keystone dashboard, 2020-08-28T16:19:26+0000
+/project/networking-hpe/, networking-hpe, 1.0.0, HPE mechanism drivers for bare metal connectivity, 2017-08-14T22:34:48+0000
+/project/kayobe/, kayobe, 9.0.0, Deployment of OpenStack to bare metal using OpenStack kolla and bifrost, 2021-01-11T12:10:02+0000
+/project/masakari-monitors/, masakari-monitors, 11.0.0, Monitors for Masakari, 2021-04-14T11:09:43+0000
+/project/monasca-log-api/, monasca-log-api, 2.11.0, Monasca API for sending log entries, 2020-06-18T17:09:15+0000
+/project/networking-bagpipe/, networking-bagpipe, 14.0.0, Mechanism driver for Neutron ML2 plugin using BGP E-VPNs/IP VPNs as a backend, 2021-04-14T11:08:26+0000
+/project/python-cliclient/, python-cliclient, 1.0.0, python-cliclient, 2018-01-11T12:46:33+0000
+/project/python-keystoneclient/, python-keystoneclient, 4.2.0, Client Library for OpenStack Identity, 2020-12-04T08:47:30+0000
+/project/veta-python-novaclient-ext/, veta_python_novaclient_ext, 1.0.0, Veta Backup extension for OS novaclient., 2013-10-24T20:44:27+0000
+/project/python-chi-operator/, python-chi-operator, 0.4.1, Operator library for Chameleon, 2021-04-20T18:07:31+0000
+/project/vmware-nsxlib/, vmware-nsxlib, 17.2.4, A common library that interfaces with VMware NSX, 2021-04-07T21:58:58+0000
+/project/xtrmth/, xtrmth, 1.6.1, assorted math functions, to provide all of your math needs., 2021-01-26T21:57:39+0000
+/project/python-oneviewclient/, python-oneviewclient, 2.6.6, Library to use OneView to provide nodes for Ironic, 2017-08-24T12:45:19+0000
+/project/failure/, failure, 1.0.1, Failure remoting, serialization, deserialization library., 2017-01-11T07:35:06+0000
+/project/tacker/, tacker, 5.0.0, OpenStack NFV Orchestration, 2021-04-14T11:18:07+0000
+/project/shaddock/, shaddock, 0.7.1.dev2, A container based orchestration and deployment tool, 2018-02-10T17:56:58+0000
+/project/monasca-api/, monasca-api, 6.0.0, OpenStack Monitoring as a Service, 2021-04-14T11:08:30+0000
+/project/neutron-zvm-plugin/, neutron-zvm-plugin, 11.0.0, zVM ML2 mechanism driver and zVM neutron agent., 2018-10-18T02:01:46+0000
+/project/kingbird-dashboard/, kingbird-dashboard, 0.0.0, User Interface for Kingbird, 2018-01-09T10:48:04+0000
+/project/vmtp/, vmtp, 2.5.0, A data path performance tool for OpenStack clouds., 2019-02-21T02:27:12+0000
+/project/vaultlocker/, vaultlocker, 1.0.6, Utility to store and retrieve dm-crypt encryption keys in Hashicorp Vault, 2020-03-23T15:28:29+0000
+/project/tosca-parser/, tosca-parser, 2.3.0, Parser for TOSCA Simple Profile in YAML., 2021-03-05T10:00:04+0000
+/project/tempest-nfv-plugin/, tempest-nfv-plugin, 1.26.1.dev2, Tempest plugin for testing NFV, 2020-12-10T07:47:36+0000
+/project/magnum-ui/, magnum-ui, 8.0.0, Magnum User Interface, 2021-04-14T11:05:54+0000
+/project/networking-bigswitch/, networking-bigswitch, 15.0.1, Arista Networks CCF Plugin for OpenStack Networking, 2021-04-12T21:13:19+0000
+/project/faafo/, faafo, 0.0.3, First App Application for OpenStack, 2015-04-01T03:54:47+0000
+/project/murano-agent/, murano-agent, 2015.1.0, Python Murano Agent, 2015-04-30T19:47:04+0000
+/project/ceilometer-riemann/, ceilometer-riemann, 0.2.6, Riemann publisher driver for OpenStack Ceilometer, 2013-11-13T11:49:17+0000
+/project/osvmoverview/, osvmoverview, 1.0.0, Openstack VM overview Horizon plugin, 2021-03-12T17:00:31+0000
+/project/zaqar-tempest-plugin/, zaqar-tempest-plugin, 1.2.1, Tempest plugin zaqar_tempest_plugin, 2021-03-29T09:05:49+0000
+/project/python-andromeda/, python-andromeda, 1.0.5.2, OpenStack Repository Management Tool., 2015-08-05T19:51:05+0000
+/project/rackspace-python-neutronclient/, rackspace-python-neutronclient, 2.5.3, CLI and Client Library for Rackspace's OpenStack Networking, 2016-08-05T20:33:29+0000
+/project/radware-os-lb-v1-kilo/, radware_os_lb_v1_kilo, 4.0.0-1, Radware NG driver for Openstack KILO LBaaS v1, 2017-03-22T12:09:33+0000
+/project/yaql/, yaql, 1.1.3, YAQL - Yet Another Query Language, 2017-03-01T20:37:43+0000
+/project/os-http/, os-http, 0.1.0, Simple HTTP CLI for OpenStack, 2016-04-11T06:20:41+0000
+/project/octavia-ovn-provider/, octavia-ovn-provider, 0.0.0, OpenStack Octavia integration with OVN, 2019-12-03T12:07:55+0000
+/project/horizon-hpe-storage-ui/, horizon-hpe-storage-ui, 2.4.2, HPE Storage Plug-in for Horizon, 2016-10-03T21:08:49+0000
+/project/osprofiler/, osprofiler, 3.4.0, OpenStack Profiler Library, 2020-09-11T19:21:58+0000
+/project/valence/, valence, 0.9.0.dev301, Openstack Valence Project, 2018-04-27T11:05:10+0000
+/project/python-moganclient/, python-moganclient, 0.1.0, Python client library for OpenStack Mogan project., 2017-09-15T02:54:51+0000
+/project/python-rdomanager-oscplugin/, python-rdomanager-oscplugin, 0.0.10, RDO Manager OSC plugin lib, 2015-09-03T17:23:13+0000
+/project/python-watcher/, python-watcher, 6.0.0, OpenStack Watcher provides a flexible and scalable resource optimization service for multi-tenant OpenStack-based clouds., 2021-04-14T11:19:48+0000
+/project/sushy-tools/, sushy-tools, 0.15.0, A set of tools to support the development and test of the Sushy library (https://docs.openstack.org/sushy/), 2021-03-02T14:26:31+0000
+/project/radware-os-lb-v2-pike/, radware_os_lb_v2_pike, 4.5.0-1, Radware LBaaS v2 driver for Openstack Pike, 2018-06-07T15:01:57+0000
+/project/getting-started-with-openstack/, getting-started-with-openstack, 0.0.1.dev9, OpenStack quickstart via CentOS-based Vagrant environment, 2018-03-21T01:58:58+0000
+/project/kuryr-lib/, kuryr-lib, 2.3.0, Kuryr shared config and utilities, 2021-03-05T09:58:44+0000
+/project/devstack-tools/, devstack-tools, 1.2.0, Devstack Helper Tools in Python, 2021-04-09T08:37:11+0000
+/project/sushy-oem-idrac/, sushy-oem-idrac, 2.1.0, Dell EMC iDRAC OEM extension package for the sushy library, 2021-03-29T23:28:44+0000
+/project/rsd-virt-for-nova/, rsd-virt-for-nova, 0, A nova virt driver to communicate with IntelRSD’s PODM and PSME to create composed nodes., 2019-02-21T13:53:17+0000
+/project/heat-dashboard/, heat-dashboard, 5.0.0, Heat Management Dashboard, 2021-04-14T11:04:32+0000
+/project/osreports/, osreports, 0.1.1, Utilization Reporting for OpenStack Clouds, 2015-11-10T12:35:22+0000
+/project/os-apply-config/, os-apply-config, 13.0.0, Config files from cloud metadata, 2021-01-28T11:02:40+0000
+/project/neutron-pardnet-lbaas/, neutron_pardnet_lbaas, 0.0.1, pardnet driver for Openstack Neutron LBaaS service, 2015-04-22T07:44:43+0000
+/project/heat-cfntools/, heat-cfntools, 1.4.2, Tools required to be installed on Heat provisioned cloud instances, 2016-01-21T20:35:48+0000
+/project/openstack-user-management/, openstack_user_management, 0.1.0.dev4, OpenStack User Management, 2016-11-08T11:47:13+0000
+/project/kuryr-tempest-plugin/, kuryr-tempest-plugin, 0.9.0, Kuryr Tempest Plugin, 2021-03-29T09:06:52+0000
+/project/monasca-tempest-plugin/, monasca-tempest-plugin, 2.2.1, Tempest plugin for Monasca project, 2021-03-29T09:10:57+0000
+/project/rackspacesdk/, rackspacesdk, 0.7.5, Rackspace plugin for the OpenStack SDK, 2017-11-28T20:05:59+0000
+/project/oscurl/, oscurl, 1.1.1, cURL-like tool to access OpenStack APIs with keystone auth, 2017-05-31T10:17:37+0000
+/project/python-chi/, python-chi, 0.10.0, Helper library for Chameleon Infrastructure (CHI) testbed, 2021-04-06T00:17:18+0000
+/project/ec2-api/, ec2-api, 12.0.0, OpenStack Ec2api Service, 2021-04-14T11:03:49+0000
+/project/cloudpunch/, cloudpunch, 1.5.0, Framework for OpenStack performance testing at scale, 2018-01-25T21:17:35+0000
+/project/python-cloudkittyclient/, python-cloudkittyclient, 4.2.0, API client of cloudkitty, Rating as a Service project., 2021-01-25T20:41:27+0000
+/project/oslo-log/, oslo.log, 4.4.0, oslo.log library, 2020-08-26T20:16:05+0000
+/project/tacker-horizon/, tacker-horizon, 3.0.0, Tacker extension for Horizon, 2021-04-14T11:18:02+0000
+/project/python-selvpcclient/, python-selvpcclient, 1.4.0, Client for the Selectel Virtual Private Cloud API., 2020-07-09T08:15:40+0000
+/project/sphinx-feature-classification/, sphinx-feature-classification, 1.1.0, Generate a matrix of pluggable drivers and their support to an API in Sphinx., 2020-09-10T13:57:34+0000
+/project/cobalt-python-novaclient-ext/, cobalt_python_novaclient_ext, 1.3.107, Cobalt extension for OS novaclient., 2014-01-21T15:31:40+0000
+/project/cloudmesh-installer/, cloudmesh-installer, 4.4.28, A dynamic extensible CMD based command shell, 2021-03-26T21:47:42+0000
+/project/helionsdk/, helionsdk, 0.3.0, Helion SDK, 2015-07-01T22:10:09+0000
+/project/openstackdocstheme/, openstackdocstheme, 2.2.7, OpenStack Docs Theme, 2020-12-02T20:52:47+0000
+/project/python-watcher-metering/, python-watcher_metering, 0.21.6, Metering library for Watcher, 2015-12-02T15:07:50+0000
+/project/karbor/, karbor, 1.6.0, Application Data Protection as a Service for OpenStack, 2020-09-28T15:30:13+0000
+/project/tuskar-ui-extras/, tuskar-ui-extras, 0.0.4, Tuskar Management Dashboard Extra Plugins, 2015-06-15T13:26:48+0000
+/project/warm/, warm, 0.3.1, Deploy a simple OpenStack environment from template, 2013-12-06T10:26:13+0000
+/project/kolla-ansible/, kolla-ansible, 11.0.0, Ansible Deployment of Kolla containers, 2021-01-11T12:11:31+0000
+/project/zun-ui/, zun-ui, 7.0.0, Zun User Interface, 2021-04-14T11:19:28+0000
+/project/vitrage-tempest-tests/, vitrage-tempest-tests, 0.0.1.dev237, Tempest plugin for Vitrage project, 2018-02-21T17:31:11+0000
+/project/python-tempestconf/, python-tempestconf, 3.2.0, python-tempestconf will automatically generates the tempest configuration based on your cloud., 2021-04-12T06:56:35+0000
+/project/oslo-i18n/, oslo.i18n, 5.0.1, Oslo i18n library, 2020-09-11T19:19:47+0000
+/project/keystoneauth-oidc-refreshtoken/, keystoneauth-oidc-refreshtoken, 0.1.0, OpenID Connect Access Token Procurement Through Refresh Token for OpenStack client, 2017-06-30T14:46:32+0000
+/project/qh-python-cinderclient/, qh-python-cinderclient, 0.1.0.dev1631, OpenStack Block Storage API Client Library, 2020-10-26T08:18:30+0000
+/project/networking-nec/, networking-nec, 2015.2.0, Neutron plugins/drivers for NEC networking products (liberty), 2015-12-25T13:39:17+0000
+/project/python-tuskarclient/, python-tuskarclient, 0.1.18, Client library for OpenStack Management API, 2015-05-11T19:12:23+0000
+/project/gbptesthorizon/, gbptesthorizon, 2014.2, OpenStack Dashboard, 2014-09-26T23:35:25+0000
+/project/ustackdocstheme/, ustackdocstheme, 0.0.4, Sphinx ducumentation themes for TFCloud., 2020-02-10T04:09:31+0000
+/project/radware-nlbaas-v2-pike-driver/, radware_nlbaas_v2_pike_driver, 4.7.0.post1, Neutron LBaaS Radware driver for Openstack Pike, 2019-01-23T12:57:42+0000
+/project/hammers/, hammers, 0.2.0, Bag of hammers to fix problems, 2018-08-30T10:14:34+0000
+/project/fairy-slipper/, fairy-slipper, 0.2.0, A project to make OpenStack API's self documententing., 2016-03-11T18:40:28+0000
+/project/horizon-overrides-plugin/, horizon_overrides_plugin, 0.0.2, OpenStack Dashboard OVERRIDES - support for more than one customization_module, 2015-07-13T15:19:52+0000
+/project/networking-generic-switch-tempest-plugin/, networking-generic-switch-tempest-plugin, 0.0.1.dev7, Tempest plugin for networking-generic-switch, 2018-01-22T09:51:02+0000
+/project/oslo-limit/, oslo.limit, 1.3.0, Limit enforcement library to assist with quota calculation., 2021-03-11T20:34:28+0000
+/project/networking-calico/, networking-calico, 3.12.0, This project contains documentation and code for integrating Project Calico networking into OpenStack/Neutron., 2020-01-28T04:45:43+0000
+/project/tripleo-repos/, tripleo-repos, 0.1.0, A tool for managing tripleo repos, 2020-04-17T17:37:57+0000
+/project/aodh/, aodh, 12.0.0, OpenStack Telemetry Alarming, 2021-04-14T11:01:08+0000
+/project/osc-placement/, osc-placement, 2.2.0, OpenStackClient plugin for the Placement service, 2021-01-25T12:06:19+0000
+/project/ceilometermiddleware/, ceilometermiddleware, 2.2.0, OpenStack Telemetry middleware for generating metrics, 2021-03-12T12:39:31+0000
+/project/manila-ui/, manila-ui, 5.0.0, Manila Management Dashboard, 2021-04-14T11:10:28+0000
+/project/python-keystoneclient-rackspace/, python-keystoneclient-rackspace, 0.1.3, Rackspace Auth Plugin for OpenStack Clients., 2015-03-28T23:12:00+0000
+/project/os-dpm/, os-dpm, 1.1.0, Shared library for OpenStack projects enabling IBM z Systems PR/SM hypervisor in DPM mode, 2017-07-20T06:27:43+0000
+/project/heat-infoblox/, heat-infoblox, 2.0.0, OpenStack Liberty Heat resources for orchestrating Infoblox appliances., 2016-08-02T18:13:16+0000
+/project/os-performance-tools/, os-performance-tools, 0.1.0, Python scripts for use in OpenStack's QA process, 2015-11-12T22:53:01+0000
+/project/python-neutronclient-ip-address-extension/, python-neutronclient-ip-address-extension, 0.1, Rackspace IP Address Resource Extension for python-neutronclient, 2015-08-13T14:21:37+0000
+/project/networking-bigswitch-l3-pe/, networking_bigswitch_l3_pe, 1.2.0, OpenStack Neutron ML2 drivers for Big Cloud Fabric Physical Edition, 2017-07-06T07:42:31+0000
+/project/python-saharaclient/, python-saharaclient, 3.3.0, Client library for Sahara API, 2020-12-02T10:40:41+0000
+/project/panko/, panko, 10.0.0, Event storage publisher and API for Ceilometer, 2021-04-14T11:15:42+0000
+/project/networking-odl/, networking-odl, 18.0.0, OpenStack Networking, 2021-04-14T11:11:25+0000
+/project/stacktask/, stacktask, 0.1.3, An admin task workflow service for openstack., 2016-03-14T01:50:47+0000
+/project/os-refresh-config/, os-refresh-config, 13.0.0, Refresh system configuration, 2021-01-28T11:05:09+0000
+/project/murano/, murano, 2015.1.1, Murano API, 2016-06-08T22:15:27+0000
+/project/risu/, risu, 1.0.4.0.20200817095401, Utility for running set of tests against a Live System or a snapshot/sosreport, 2020-08-17T09:54:08+0000
+/project/qinling-dashboard/, qinling-dashboard, 4.0.0, Qinling Management Dashboard, 2020-10-14T10:31:48+0000
+/project/python-freezerclient/, python-freezerclient, 4.2.0, OpenStack Disaster Recovery API Client Library, 2021-01-18T22:02:28+0000
+/project/wd-extractor/, wd-extractor, 0.0.0, extractor for whosisdumping, 2017-08-20T20:46:48+0000
+/project/stacktask-tempest-plugin/, stacktask-tempest-plugin, 0.0.7, Tempest plugin for the Stacktask project, 2017-01-19T15:08:13+0000
+/project/python-vsmclient/, python-vsmclient, 2.1.0-312, Client library for Intel VSM API., 2016-06-13T22:59:20+0000
+/project/python-watcherclient/, python-watcherclient, 3.2.0, Python client library for Watcher API, 2021-03-15T09:14:19+0000
+/project/python-glareclient/, python-glareclient, 0.5.3, Glare Artifact Repository, 2018-04-12T06:46:55+0000
+/project/cloudmesh-pbs/, cloudmesh_pbs, 2.2.6, A simple pbs queue management framework for multiple supercomputers, 2015-03-23T16:10:28+0000
+/project/sqlalchemy-migrate/, sqlalchemy-migrate, 0.13.0, Database schema migration for SQLAlchemy, 2019-10-22T21:16:17+0000
+/project/neutron-lib/, neutron-lib, 2.10.1, Neutron shared routines and utilities, 2021-03-18T08:53:26+0000
+/project/mistral-lib/, mistral-lib, 2.4.0, Mistral shared routings and utilities (Actions API, YAQL functions API, data types etc.), 2020-12-02T10:37:01+0000
+/project/confspirator/, confspirator, 0.2.2, A config library for handling nested incode config groups., 2020-08-07T04:55:05+0000
+/project/pf9-saml-auth/, pf9-saml-auth, 0.0.2, Platform9 SAML Authentication Library for OpenStack Identity, 2018-01-27T19:09:38+0000
+/project/certbot-dns-openstack/, certbot-dns-openstack, 0.0.1, OpenStack DNS Authenticator plugin for Certbot, 2018-04-26T16:32:16+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/mistral-extra/, mistral-extra, 11.0.0, Mistral OpenStack-specific bindings, 2020-12-05T17:28:32+0000
+/project/tripleo-common/, tripleo-common, 15.0.0, A common library for TripleO workflows., 2021-04-15T17:41:55+0000
+/project/magnum/, magnum, 12.0.0, Container Management project for OpenStack, 2021-04-14T11:07:45+0000
+/project/keystone-oidc-auth-plugin/, keystone-oidc-auth-plugin, 1.0.0, OpenID Connect Implementation for OpenStack Keystone., 2020-11-19T09:28:17+0000
+/project/distroinfo/, distroinfo, 0.4.0, python module for parsing, validating and querying distribution/packaging metadata stored in human readable and reviewable text/YAML files, 2021-03-03T09:16:07+0000
+/project/mox3/, mox3, 1.1.0, Mock object framework for Python, 2020-06-04T10:42:13+0000
+/project/trellozilla/, trellozilla, 0.2.0, TrelloZilla is a small set of boilerplate code to speed up automations in/between both Bugzilla and Trello., 2021-01-18T20:00:29+0000
+/project/backup2swift/, backup2swift, 0.9.5, Backup data to OpenStack Swift, 2017-04-23T14:15:33+0000
+/project/rackspace-auth-neutronclientext/, rackspace-auth-neutronclientext, 1.4, Rackspace Auth Plugin for OpenStack Neutron Clients., 2015-03-03T22:02:06+0000
+/project/odltools/, odltools, 0.1.34, Tools for troubleshooting OpenDaylight, 2019-07-30T06:50:56+0000
+/project/gerrit-dash-creator/, gerrit-dash-creator, 0.2.0, Gerrit Dashboard Creator, 2020-01-13T16:02:34+0000
+/project/browbeat/, browbeat, 0.0.1.dev1292, OpenStack Performance Tooling, 2018-11-08T16:37:20+0000
+/project/dox/, dox, 0.2.0, dox runs tox descriptions in docker containers, 2015-09-18T13:27:11+0000
+/project/python-blazarclient/, python-blazarclient, 3.2.0, Client for OpenStack Reservation Service, 2021-03-08T13:47:29+0000
+/project/octavia-lib/, octavia-lib, 2.3.1, A library to support Octavia provider drivers., 2021-03-04T16:22:47+0000
+/project/keystonemiddleware/, keystonemiddleware, 9.2.0, Middleware for OpenStack Identity, 2020-12-02T10:29:15+0000
+/project/django-openstack-auth-multi-regions/, django_openstack_auth.multi_regions, 1.2.0, OpenStack Identity Multi-Regions Switch, 2014-11-09T07:06:51+0000
+/project/dlrnapi-client/, dlrnapi-client, 0.11.1, Client for DLRN REST API, 2021-04-07T17:07:31+0000
+/project/django-openstack-auth/, django_openstack_auth, 3.6.1, Django authentication backend for use with OpenStack Identity, 2018-06-12T13:41:17+0000
+/project/keystoneauth-oidc-authz-code/, keystoneauth-oidc-authz-code, 1.0.0, OpenID Connect Authorization Code authentication plugin for keystoneauth, 2020-09-04T10:52:00+0000
+/project/tripleo-image-elements/, tripleo-image-elements, 13.0.0, Disk image builder elements for deploying OpenStack., 2021-01-28T11:04:08+0000
+/project/oslo-utils/, oslo.utils, 4.8.0, Oslo Utility library, 2021-02-16T09:02:51+0000
+/project/renderspec/, renderspec, 2.1.0, Jinja2 template renderer for generating .spec files, 2020-10-02T12:22:00+0000
+/project/os-service-types/, os-service-types, 1.7.0, Python library for consuming OpenStack sevice-types-authority data, 2019-05-12T12:05:46+0000
+/project/horizon-bsn/, horizon-bsn, 20153.37.4, Big Switch Networks Extension for the Openstack Dashboard (Horizon)., 2017-02-02T22:29:21+0000
+/project/tripleo-heat-templates/, tripleo-heat-templates, 14.0.0, Heat templates for deploying OpenStack with OpenStack., 2021-01-28T11:04:25+0000
+/project/dstat-plugins/, dstat-plugins, 0.3.0, dstat plugins for metering an OpenStack deployment, 2015-10-13T22:11:59+0000
+/project/ceilometer/, ceilometer, 16.0.0, OpenStack Telemetry, 2021-04-14T11:10:28+0000
+/project/tripleo-puppet-elements/, tripleo-puppet-elements, 14.0.0, Puppet building rules for OpenStack images., 2021-01-28T11:05:12+0000
+/project/cloudkitty-tempest-plugin/, cloudkitty-tempest-plugin, 2.3.0, Tempest plugin for CloudKitty, 2021-03-30T17:41:07+0000
+/project/python-openstacksdk/, python-openstacksdk, 0.5.2, Deprecated SDK for OpenStack.  Use openstacksdk., 2015-07-30T15:07:06+0000
+/project/python-ceilometerclient/, python-ceilometerclient, 2.9.0, OpenStack Telemetry API Client Library, 2017-06-12T13:29:00+0000
+/project/gear/, gear, 0.15.1, Pure Python Async Gear Protocol Library, 2020-02-18T16:44:16+0000
+/project/python-barbicanclient/, python-barbicanclient, 5.1.0, Client Library for OpenStack Barbican Key Management API, 2021-03-15T08:50:31+0000
+/project/openstack-app-catalog/, openstack_app_catalog, 0.0.13, Application catalog for OpenStack, 2016-09-15T16:03:05+0000
+/project/python-stackhelper/, python-stackhelper, 0.0.7, OpenStack Helper Utilities, 2013-02-08T18:33:34+0000
+/project/ospclientsdk/, ospclientsdk, 0.5.0, An SDK like wrapper around the openstackclient., 2020-08-07T19:39:24+0000
+/project/networking-vsphere/, networking-vsphere, 2015.1.1, A set of Neutron drivers and agents to manage vSphere clusters., 2015-06-04T08:50:10+0000
+/project/python-arista-ccf-neutronclient/, python-arista-ccf-neutronclient, 0.1.1, Python bindings for Arista Networks Converged Cloud Fabric Neutron API, 2021-03-24T22:37:11+0000
+/project/glean/, glean, 1.18.2, Simple program to write static config from config-drive, 2021-01-08T17:35:39+0000
+/project/zaqar-ui/, zaqar-ui, 10.0.0, Zaqar User Interface, 2021-04-14T11:18:59+0000
+/project/neutron-lbaas-dashboard/, neutron-lbaas-dashboard, 6.0.1, Horizon panels for Neutron LBaaS, 2020-07-20T10:23:19+0000
+/project/senlin-dashboard/, senlin-dashboard, 3.0.0, Senlin Dashboard, 2021-04-14T11:18:05+0000
+/project/networking-omnipath/, networking-omnipath, 0.0.1.dev43, OpenStack Networking, 2020-04-28T03:16:03+0000
+/project/openstack-virtual-baremetal/, openstack-virtual-baremetal, 1.0.2.dev28, A collection of tools for using OpenStack instances to test baremetal deployment, 2019-06-06T14:37:06+0000
+/project/emptool/, emptool, 0.9.7, Easy MicroPython toolchain, 2019-02-26T09:57:11+0000
+/project/python-cloudpulseclient/, python-cloudpulseclient, 2015.3.3, A Python language binding for OpenStack CloudPulse., 2016-03-31T19:08:45+0000
+/project/freezer/, freezer, 10.0.0, The OpenStack Backup Restore and Disaster Recovery as a Service Platform, 2021-04-14T11:03:37+0000
+/project/stackalytics/, stackalytics, 1.0.0, OpenStack Contribution Dashboard, 2018-10-25T19:59:38+0000
+/project/gearstore/, gearstore, 0.0.1, A Gearman worker to do distributed job persistence for reliable delivery, 2015-03-19T23:19:29+0000
+/project/qbertconfig/, qbertconfig, 0.3.5, Fetches kubeconfigs from qbert API, 2019-11-15T23:12:32+0000
+/project/os-testr/, os-testr, 2.0.0, A testr wrapper to provide functionality for OpenStack projects, 2020-03-15T19:45:00+0000
+/project/wafec-oslo-messaging/, wafec.oslo.messaging, 1.0.1, Oslo Messaging API, 2020-09-03T21:42:40+0000
+/project/git-os-job/, git-os-job, 1.1.3, Show the OpenStack job logs for a commit, 2018-12-17T15:23:28+0000
+/project/networking-ale-omniswitch/, networking-ale-omniswitch, 2015.1.2, Alatel-Lucent Enterprise Omniswitch Networking Driver, 2015-08-27T08:18:21+0000
+/project/octavia-tempest-plugin/, octavia-tempest-plugin, 1.7.0, Tempest plugin for Octavia, 2021-03-29T09:10:58+0000
+/project/python-rsdclient/, python-rsdclient, 1.0.2, OpenStack client plugin for Rack Scale Design, 2020-01-15T22:42:28+0000
+/project/tripleo-validations/, tripleo-validations, 14.0.0, A collection of Ansible playbooks to detect and report potential issues during TripleO deployments, 2021-01-28T11:03:55+0000
+/project/collectds/, collectds, 0.1.1, This module references Fuel-LMA and is modified to collect OpenStack service running status., 2016-11-25T06:45:52+0000
+/project/debtcollector/, debtcollector, 2.2.0, A collection of Python deprecation patterns and strategies that help you collect your technical debt in a non-destructive manner., 2020-07-28T14:33:14+0000
+/project/neutron/, neutron, 18.0.0, OpenStack Networking, 2021-04-14T11:12:13+0000
+/project/os-vif/, os-vif, 2.4.0, A library for plugging and unplugging virtual interfaces in OpenStack., 2021-03-05T10:03:05+0000
+/project/python-zunclient/, python-zunclient, 4.2.0, Client Library for Zun, 2021-03-11T20:04:27+0000
+/project/solum/, solum, 10.0.0, Application Lifecycle Management for OpenStack, 2021-04-14T11:17:46+0000
+/project/searchlight/, searchlight, 9.0.0, OpenStack Search Service, 2020-10-14T10:35:34+0000
+/project/fedcloudclient/, fedcloudclient, 1.2.2, EGI FedCloud client, 2021-04-02T18:41:20+0000
+/project/blazar/, blazar, 7.0.0, Reservation Service for OpenStack clouds, 2021-04-14T11:01:12+0000
+/project/os-brick/, os-brick, 4.3.1, OpenStack Cinder brick library for managing local volume attaches, 2021-03-29T14:54:26+0000
+/project/swiftonhpss/, swiftonhpss, 2.5.0.0, SwiftOnHPSS, 2016-06-07T11:29:30+0000
+/project/python-ironic-inspector-client/, python-ironic-inspector-client, 4.5.0, Python client for Ironic Inspector, 2021-03-12T16:46:12+0000
+/project/f5-openstack-agent/, f5-openstack-agent, 10.1.0, F5 Networks Agent for OpenStack services, 2017-10-09T17:20:00+0000
+/project/paunch/, paunch, 7.0.4, Utility to launch and manage containers using YAML based configuration data, 2021-04-14T14:52:51+0000
+/project/steth/, Steth, 0.2.4, Steth is a sophisticated debug bridge for OpenStack Neutron., 2016-04-05T10:59:08+0000
+/project/congress-tempest-plugin/, congress-tempest-plugin, 1.0.0, Tempest Plugin for Congress project, 2020-04-23T16:36:51+0000
+/project/networking-baremetal/, networking-baremetal, 4.0.0, Neutron plugin that provides deep Ironic/Neutron integration., 2021-04-14T11:12:24+0000
+/project/networking-ovn/, networking-ovn, 7.4.0, OpenStack Neutron integration with OVN, 2021-03-10T14:55:23+0000
+/project/python-keystone-voms/, python-keystone-voms, 2014.1.1, Keystone VOMS module for Keystone (Icehouse)., 2014-08-04T11:45:39+0000
+/project/neutron-fwaas/, neutron-fwaas, 16.0.0, OpenStack Networking FWaaS, 2020-05-13T10:55:51+0000
+/project/neutron-vpnaas-dashboard/, neutron-vpnaas-dashboard, 4.0.0, Neutron VPNaaS Dashboard, 2021-04-14T11:09:48+0000
+/project/yasopenstackhandler/, YasOpenstackHandler, 0.0.8, A simple interface to openstack with additional metadata, 2017-03-27T00:39:51+0000
+/project/zaqar/, zaqar, 12.0.0, OpenStack Queuing and Notification Service, 2021-04-14T11:19:28+0000
+/project/openstack-congress/, openstack-congress, 11.0.0, Congress: The open policy framework for the cloud., 2020-05-13T10:42:18+0000
+/project/murano-pkg-check/, murano-pkg-check, 0.3.0, Murano package validator tool, 2017-02-02T15:27:16+0000
+/project/ec2api-tempest-plugin/, ec2api-tempest-plugin, 1.2.1, Tempest plugin for ec2-api, 2021-03-29T08:56:22+0000
+/project/python-magnumclient/, python-magnumclient, 3.4.0, Client library for Magnum API, 2021-03-08T11:43:03+0000
+/project/python-keystoneclient-kerberos/, python-keystoneclient-kerberos, 0.3.0, Kerberos authentication for the OpenStack clients, 2016-05-23T18:53:20+0000
+/project/shade/, shade, 1.33.0, Simple client library for interacting with OpenStack clouds, 2020-02-11T13:42:55+0000
+/project/horizon/, horizon, 19.2.0, OpenStack Dashboard, 2021-04-12T09:10:18+0000
+/project/python-kingbirdclient/, python-kingbirdclient, 0.2.1, Python client for Kingbird, 2018-01-30T18:24:31+0000
+/project/neutron-arista-ccf-lldp/, neutron-arista-ccf-lldp, 1.1.0, LLDP Agent for Big Switch Networks integration., 2020-11-12T21:05:33+0000
+/project/dlrn/, DLRN, 0.21.0, Build packages, 2021-04-20T13:39:23+0000
+/project/performa/, performa, 0.0.1, , 2016-02-16T19:07:35+0000
+/project/networking-oneview/, networking-oneview, 1.1.0, HPE OneView Mechanism Driver for Neutron ML2 plugin, 2018-02-28T20:09:02+0000
+/project/swiftsc/, swiftsc, 0.7.2, Simple client library of OpenStack Swift, 2017-04-23T00:21:21+0000
+/project/gbptestneutron/, gbptestneutron, 0.9.0, Gbp Test OpenStack Networking, 2014-09-22T22:55:58+0000
+/project/swift/, swift, 2.27.0, OpenStack Object Storage, 2021-03-18T15:04:49+0000
+/project/ironic-hds/, ironic-hds, 0.2.3, OpenStack Ironic driver for Redfish/HDS systems, 2020-02-10T07:54:12+0000
+/project/radware-nlbaas-v2-queens-driver/, radware_nlbaas_v2_queens_driver, 4.7.0.post2, Neutron LBaaS Radware driver for Openstack Queens, 2019-02-14T13:04:34+0000
+/project/radware-os-lb-v2-liberty/, radware_os_lb_v2_liberty, 4.2.1-3, Radware LBaaS v2 driver for Openstack Liberty, 2017-10-30T16:36:57+0000
+/project/pika-consumer/, Pika-Consumer, 0.0.5, A pika consumer class which may be used to create rabbitmq queue consumers, 2017-02-27T06:30:29+0000
+/project/vsm-dashboard/, vsm-dashboard, 2.0.2, The VSM Dashboard., 2016-06-14T16:47:02+0000
+/project/kingbird/, kingbird, 1.3.0, Kingbird is a centralised synchronization service for multi-region OpenStack deployments., 2018-03-26T03:03:15+0000
+/project/neutron-tempest-plugin/, neutron-tempest-plugin, 1.4.0, Tempest plugin for Neutron Project, 2021-03-29T09:10:04+0000
+/project/cyberaide-bookmanager/, cyberaide-bookmanager, 0.2.35, Creating Books from content in different git and other cloud services., 2020-07-29T14:02:46+0000
+/project/nova-dpm/, nova-dpm, 3.0.0, OpenStack Nova virt-driver for IBM z Systems PR/SM hypervisor in DPM mode, 2018-02-28T04:26:12+0000
+/project/python-bsn-neutronclient/, python-bsn-neutronclient, 12.0.1, Python bindings for Big Switch Networks Neutron API, 2019-01-15T05:45:05+0000
+/project/oslo-context/, oslo.context, 3.2.0, Oslo Context library, 2021-03-03T13:40:21+0000
+/project/os-cloud-config/, os-cloud-config, 6.0.0, Configuration for OpenStack clouds., 2017-03-06T19:30:23+0000
+/project/oslo-vmware/, oslo.vmware, 3.8.0, Oslo VMware library, 2021-02-08T13:20:24+0000
+/project/openstack-heat/, openstack-heat, 16.0.0, OpenStack Orchestration, 2021-04-14T11:05:14+0000
+/project/python-distilclient/, python-distilclient, 0.4.0, Client library for Catalyst Cloud Rating API, 2018-05-01T23:28:28+0000
+/project/pynats2/, pynats2, 0.9.0, 'Thread based NATS client for Python 3',, 2019-10-25T04:33:55+0000
+/project/oslo-messaging/, oslo.messaging, 12.7.1, Oslo Messaging API, 2021-02-16T09:02:54+0000
+/project/openstacksdk/, openstacksdk, 0.55.0, An SDK for building applications to work with OpenStack, 2021-03-12T09:02:00+0000
+/project/ovsportranges/, ovsportranges, 0.1.2, OVS bitwise port/mask ranges, 2018-09-13T15:30:45+0000
+/project/networking-l2gw-tempest-plugin/, networking-l2gw-tempest-plugin, 0, Tempest Plugin for Neutron L2 Gateway., 2017-10-05T10:49:46+0000
+/project/oslotest/, oslotest, 4.4.1, Oslo test framework, 2020-09-11T19:22:48+0000
+/project/openstack-summit-counter/, openstack-summit-counter, 0.4.0, OSC Plugin to help compute the number of summits someone has attended., 2019-01-02T22:40:22+0000
+/project/zuul-sphinx/, zuul-sphinx, 0.5.0, A Sphinx extension for documenting Zuul jobs, 2020-04-29T21:19:59+0000
+/project/sahara-plugin-storm/, sahara-plugin-storm, 5.0.0, Storm Plugin for Sahara Project, 2021-04-14T11:17:31+0000
+/project/swift-bench/, swift-bench, 1.2.0, Benchmark tool for OpenStack Swift, 2016-02-12T20:57:38+0000
+/project/python-hnvclient/, python-hnvclient, 0.1.0, Python client for the HNV (Hyper-V Network Virtualization) REST API., 2017-03-28T08:35:36+0000
+/project/freezer-tempest-plugin/, freezer-tempest-plugin, 1.2.0, Tempest plugin for the freezer project., 2021-01-25T10:29:26+0000
+/project/mqtt-statsd/, mqtt-statsd, 0.0.1, A script to publish MQTT metrics into statsd, 2017-04-04T02:53:30+0000
+/project/monitoring-for-openstack/, monitoring-for-openstack, 1.0.0, OpenStack monitoring tools, 2015-07-23T14:29:53+0000
+/project/python-ironicclient/, python-ironicclient, 4.6.1, OpenStack Bare Metal Provisioning API Client Library, 2021-03-12T17:06:26+0000
+/project/heat-agents/, heat-agents, 2.2.0, heat-agents, 2021-03-15T10:44:53+0000
+/project/bashate/, bashate, 2.0.0, A pep8 equivalent for bash scripts, 2020-03-04T01:06:30+0000
+/project/python-pqclient/, python-pqclient, 0.0.1, Python client library for Fujitsu PRIMEQUEST MMB, 2017-12-21T08:24:58+0000
+/project/os-vm-expire/, os-vm-expire, 0.9.12, Manage VM expiration and deletion, 2019-02-18T10:25:53+0000
+/project/python-manilaclient/, python-manilaclient, 2.6.0, Client library for OpenStack Manila API., 2021-03-17T09:42:39+0000
+/project/horizon-api-mask/, horizon_api_mask, 0.0.1.post2, OpenStack Dashboard API mask - override service endpoint table, 2015-03-12T16:27:01+0000
+/project/tooz/, tooz, 2.8.0, Coordination library for distributed systems., 2020-11-30T16:07:17+0000
+/project/k2hr3-osnl/, k2hr3-osnl, 1.0.0, An OpenStack notification listener for the K2HR3 role-based ACL system, 2021-03-26T06:51:14+0000
+/project/django-openstack-auth-kerberos/, django-openstack-auth-kerberos, 0.3.0, Kerberos login to the OpenStack dashboard, 2016-11-21T18:23:37+0000
+/project/castellan/, castellan, 3.7.1, Generic Key Manager interface for OpenStack, 2021-03-03T13:38:02+0000
+/project/group-based-policy-ui/, group-based-policy-ui, 2015.2.5, Horizon modules for Group Based Policy, 2016-10-17T19:05:58+0000
+/project/mistral-tempest-tests/, mistral-tempest-tests, 1.2.0, Tempest plugin for Mistral project, 2021-01-18T22:32:56+0000
+/project/reno/, reno, 3.3.0, RElease NOtes manager, 2021-03-18T10:50:15+0000
+/project/os-vif-bigswitch/, os-vif-bigswitch, 12.0.2, Neutron OS-VIF plugin for Big Switch Networks SWL-VX, 2018-08-30T16:33:45+0000
+/project/python-openstackclient/, python-openstackclient, 5.5.0, OpenStack Command-line Client, 2021-03-20T09:18:49+0000
+/project/radware-nlbaas-v2-rocky-driver/, radware_nlbaas_v2_rocky_driver, 4.7.0.post2, Neutron LBaaS Radware driver for Openstack Rocky, 2019-03-04T07:58:48+0000
+/project/eom/, eom, 0.8.2, Experimental OpenStack WSGI Middleware, 2017-12-13T05:43:56+0000
+/project/networking-h3c/, networking-h3c, 0.1.0, H3C Vendor Code for OpenStack Neutron to integrate with H3C SDN controller, 2017-04-05T09:56:59+0000
+/project/python-adjutant/, python-adjutant, 2.0.0, An admin task workflow service for openstack., 2021-04-14T11:00:40+0000
+/project/gce-api/, gce-api, 3.0.0, OpenStack Gceapi Service, 2016-10-08T10:01:33+0000
+/project/ironic-oneviewd/, ironic-oneviewd, 1.2.0, Deamon service to enroll nodes to be used for the Ironic OneView Driver, 2018-02-02T14:13:52+0000
+/project/swauth/, swauth, 1.3.0, An alternative authentication system for Swift, 2017-12-09T16:31:14+0000
+/project/networking-midonet/, networking-midonet, 11.0.0, OpenStack MidoNet Neutron Plugin, 2020-10-14T10:22:03+0000
+/project/keystone/, keystone, 19.0.0, OpenStack Identity, 2021-04-14T11:11:10+0000
+/project/glance-store/, glance-store, 2.5.0, OpenStack Image Service Store Library, 2021-03-05T09:57:56+0000
+/project/vmware-vspc/, vmware-vspc, 0.0.3, Virtual Serial Port Concentrator for VMware instances., 2017-02-23T16:19:30+0000
+/project/networking-generic-switch/, networking-generic-switch, 5.0.0, Generic Switch ML2 Neutron Driver, 2021-04-14T11:13:30+0000
+/project/sushy-cli/, sushy-cli, 0.4.0, Redfish CLI tool based on sushy Redfish client library, 2021-03-12T16:46:03+0000
+/project/oslo-privsep/, oslo.privsep, 2.5.0, OpenStack library for privilege separation, 2021-03-11T20:29:03+0000
+/project/networking-arista/, networking-arista, 2020.2.0, Arista Networking drivers, 2021-01-05T18:31:53+0000
+/project/networking-ovs-dpdk/, networking-ovs-dpdk, 2.0.0, A Collection of Agents and Drivers to support managing DPDK accelerated Open vSwitch with neutron, 2016-05-13T14:07:42+0000
+/project/vmware-nsx-tempest-plugin/, vmware-nsx-tempest-plugin, 1.0.0, Tempest plugin vmware-nsx-tempest-plugin, 2018-08-10T14:41:25+0000
+/project/murano-dashboard/, murano-dashboard, 2015.1.1, The Murano Dashboard, 2016-06-08T22:15:16+0000
+/project/swiftkerbauth/, swiftkerbauth, 1.0.1, Kerberos authentication filter for Openstack Swift, 2013-09-25T08:55:28+0000
+/project/radware-nlbaas-v2-mitaka-driver/, radware_nlbaas_v2_mitaka_driver, 4.7.0.post3, Neutron LBaaS Radware driver for Openstack Mitaka, 2019-02-14T13:07:50+0000
+/project/packstack/, packstack, 16.0.2, A utility to install OpenStack, 2020-09-02T08:08:21+0000
+/project/synergy-scheduler-manager/, synergy-scheduler-manager, 2.6.0, Provide advanced scheduling (fairshare) capability for OpenStack, 2017-09-20T11:45:41+0000
+/project/keystone-voms/, keystone-voms, 2015.1, Keystone VOMS module for Keystone., 2015-07-08T21:24:53+0000
+/project/oslo-config/, oslo.config, 8.5.0, Oslo Configuration API, 2021-03-03T13:42:50+0000
+/project/huaweicloud-sdk-python/, huaweicloud-sdk-python, 1.0.28, An SDK for building applications to work with OpenStack, 2020-12-31T11:27:31+0000
+/project/manila-tempest-plugin/, manila-tempest-plugin, 1.4.0, Tempest plugin manila-tempest-plugin, 2021-03-31T12:29:20+0000
+/project/sahara/, sahara, 14.0.0, Sahara project, 2021-04-14T11:16:59+0000
+/project/python-brick-cinderclient-ext/, python-brick-cinderclient-ext, 1.3.0, python-cinderclient extension for local storage management, 2021-03-15T08:50:15+0000
+/project/keystoneauth-oidc/, keystoneauth-oidc, 1.0.0, OpenID Connect support for OpenStack keystoneauth library, 2020-09-04T10:40:37+0000
+/project/karbor-dashboard/, karbor-dashboard, 1.5.1, Karbor Dashboard, 2020-10-06T15:51:22+0000
+/project/python-troveclient/, python-troveclient, 7.0.0, Client library for OpenStack DBaaS API, 2021-02-22T20:25:36+0000
+/project/networking-plumgrid/, networking_plumgrid, 2016.2.6.8, PLUMgrid Open Networking Suite drivers for Neutron, 2016-11-23T10:34:01+0000
+/project/ironic-python-agent-builder/, ironic-python-agent-builder, 2.6.0, Tools and scripts to build Ironic Python Agent, 2021-04-09T10:14:29+0000
+/project/cursive/, cursive, 0.2.2, Cursive implements OpenStack-specific validation of digital signatures., 2018-05-01T16:13:07+0000
+/project/sqlalchemy-migrate-hotoffthehamster/, sqlalchemy-migrate-hotoffthehamster, 0.13.0, Database schema migration for SQLAlchemy, 2020-03-29T03:01:34+0000
+/project/sdflex-ironic-driver/, sdflex-ironic-driver, 1.2.1, sdflex-ironic-driver provides additional ironic features to manage the Superdome Flex Servers, 2021-01-28T11:44:30+0000
+/project/python-senlinclient/, python-senlinclient, 2.2.1, OpenStack Clustering API Client Library, 2021-03-11T11:05:58+0000
+/project/deuce-valere/, deuce-valere, 0.1-beta1.dev74.ge9ba7d9, Validation Client Functionality for Deuce De-Duplication-As-A-Service, 2015-01-16T18:50:33+0000
+/project/fuel-plugin-builder/, fuel-plugin-builder, 4.2.0, Helps to create and build fuel plugins, 2017-02-02T14:05:55+0000
+/project/masakari-dashboard/, masakari-dashboard, 4.0.0, Horizon plugin for masakari, 2021-04-14T11:10:57+0000
+/project/manila/, manila, 12.0.0, Shared Storage for OpenStack, 2021-04-14T11:10:29+0000
+/project/glare-dev/, glare_dev, 0.0.9, OpenStack Artifact Service, 2016-10-11T11:34:08+0000
+/project/instack/, instack, 9.1.0, instack, 2018-06-05T20:00:31+0000
+/project/telemetry-tempest-plugin/, telemetry-tempest-plugin, 1.3.0, Tempest plugin for Telemetry Projects, 2021-03-29T08:56:24+0000
+/project/murano-common/, murano-common, 0.4.1, Shared library for Murano, 2014-02-07T15:21:04+0000
+/project/networking-hyperv/, networking-hyperv, 10.0.0, This project tracks the work to integrate the Hyper-V networking with Neutron. This project contains the Hyper-V Neutron Agent Mixin, Security Groups Driver, ML2 Mechanism Driver and the utils modules they use in order to properly bind neutron ports on a Hyper-V host. This project resulted from the neutron core vendor decomposition., 2021-04-14T11:09:57+0000
+/project/python-designateclient/, python-designateclient, 4.2.0, OpenStack DNS-as-a-Service - Client, 2021-01-25T20:41:44+0000
+/project/multistack/, multistack, 0.4.1, Universal wrapper for the various OpenStack client software with support for multiple environments., 2015-05-30T12:37:50+0000
+/project/pyshaker-agent/, pyshaker-agent, 0.0.9, Shaker Agent, 2015-11-12T13:16:44+0000
+/project/pycadf/, pycadf, 3.1.1, CADF Library, 2020-09-08T12:38:12+0000
+/project/solum-tempest-plugin/, solum-tempest-plugin, 2.2.0, Tempest plugin for the solum project., 2021-02-08T09:34:48+0000
+/project/group-based-policy/, group-based-policy, 2015.2.8, Openstack Group Based Policy, 2017-01-29T04:24:01+0000
+/project/nova-mksproxy/, nova-mksproxy, 0.0.2, Nova console proxy for VMware instances., 2017-02-14T11:03:20+0000
+/project/hacking/, hacking, 4.1.0, OpenStack Hacking Guideline Enforcement, 2021-04-21T10:37:50+0000
+/project/ospurge/, ospurge, 2.0.0, OpenStack resources cleanup script, 2017-01-10T10:52:29+0000
+/project/openstack-doc-tools/, openstack-doc-tools, 3.3.0, Tools for OpenStack Documentation, 2020-09-11T19:23:09+0000
+/project/imgsync/, imgsync, 1.2.1, imgsync will download sync images from several distribution repositories and send them to an OpenStack Image service (Glance)., 2020-02-20T10:36:49+0000
+/project/python-congressclient/, python-congressclient, 2.0.1, Client for Congress, 2020-04-09T11:01:43+0000
+/project/networking-onos/, networking-onos, 1.0.0, OpenStack Networking, 2015-09-10T15:37:15+0000
+/project/oslo-serialization/, oslo.serialization, 4.1.0, Oslo Serialization library, 2021-02-08T13:23:52+0000
+/project/monasca-transform/, monasca-transform, 2.0.0, Data Aggregation and Transformation component for Monasca, 2020-10-14T10:21:36+0000
+/project/leonardo-horizon/, leonardo_horizon, 2016.8.3, pure Horizon - without Openstack Dashboard and dependencies, 2016-09-26T08:41:46+0000
+/project/otcdocstheme/, otcdocstheme, 0.1.0, OpenTelekomCloud Docs Theme, 2020-01-17T11:21:09+0000
+/project/tenks/, tenks, 1.0.0, Deployment of virtual bare metal clusters with Tenks, 2020-03-10T15:18:00+0000
+/project/tricircle/, tricircle, 8.0.0, The Tricircle is to provide networking automation across Neutron in multi-region OpenStack deployments., 2020-05-13T11:08:25+0000
+/project/dragonflow/, DragonFlow, 4.0.0, Distributed SDN solution for OpenStack Neutron, 2017-09-01T20:10:00+0000
+/project/gearhorn/, gearhorn, 0.0.5, A gearman worker which enables efficient broadcast communication, 2015-03-20T17:27:48+0000
+/project/python-apmecclient/, python-apmecclient, 0.1.0, CLI and Client Library for OpenStack Apmec, 2018-10-26T09:08:28+0000
+/project/tricircleclient/, tricircleclient, 1.0.0, Python client library for Tricircle, 2020-02-14T22:59:18+0000
+/project/faytheclient/, faytheclient, 0.0.3, Faythe API Client Library, 2020-08-12T07:07:06+0000
+/project/instack-undercloud/, instack-undercloud, 9.5.1, instack-undercloud, 2019-09-12T09:38:26+0000
+/project/searchlight-ui/, searchlight-ui, 9.0.0, Horizon panels and libraries for Searchlight, 2020-10-14T10:34:29+0000
+/project/tc-as-a-service/, tc-as-a-service, 0.0.1.dev31, APIs and implementations to support TC as a Service, 2017-04-09T10:55:45+0000
+/project/sahara-plugin-ambari/, sahara-plugin-ambari, 5.0.0, Ambari Plugin for Sahara Project, 2021-04-14T11:17:16+0000
+/project/magnum-tempest-plugin/, magnum-tempest-plugin, 1.3.0, Tempest plugin for Magnum Project, 2021-03-29T09:02:15+0000
+/project/sahara-tests/, sahara-tests, 0.13.0, Sahara tests, 2021-03-29T09:06:06+0000
+/project/pbrlgs/, pbrlgs, 3.1.4, Python Build Reasonableness ("likes submodules"-fork), 2017-12-12T17:16:34+0000
+/project/oslo-policy/, oslo.policy, 3.7.0, Oslo Policy library, 2021-03-03T13:38:09+0000
+/project/novajoin/, novajoin, 1.3.0, Nova integration to enroll IPA clients, 2019-12-17T19:09:54+0000
+/project/networking-powervm/, networking-powervm, 9.0.0, PowerVM Neutron ML2 Agent for OpenStack Neutron., 2019-10-16T12:46:58+0000
+/project/iotronic-lightningrod/, iotronic-lightningrod, 0.4.17, Implementation of the Lightning-rod, the Stack4Things board-side probe, 2019-08-26T15:26:37+0000
+/project/arsenal-director/, arsenal-director, 1.0.0.0b1.dev112, Ironic image caching service, 2015-05-27T20:28:12+0000
+/project/oslosphinx/, oslosphinx, 4.18.0, OpenStack Sphinx Extensions and Theme, 2018-01-08T14:15:00+0000
+/project/networking-sfc/, networking-sfc, 12.0.0, APIs and implementations to support Service Function Chaining in Neutron., 2021-04-14T11:11:46+0000
+/project/python-savannaclient/, python-savannaclient, 0.5.0, Client library for Savanna API, 2014-02-25T20:21:13+0000
+/project/python-flameclient/, python-flameclient, 1.0.0, Automatic Heat template generation, 2018-12-06T09:01:39+0000
+/project/networking-l2gw/, networking-l2gw, 18.0.0, APIs and implementations to support L2 Gateways in Neutron., 2021-03-30T08:32:48+0000
+/project/python-iotronicclient/, python-iotronicclient, 0.4.7, Iotronic Client, 2019-03-04T15:45:01+0000
+/project/ovsdbapp/, ovsdbapp, 1.9.0, A library for creating OVSDB applications, 2021-03-03T14:36:59+0000
+/project/taskflow/, taskflow, 4.6.0, Taskflow structured state management library., 2021-02-02T09:42:16+0000
+/project/os-xenapi/, os-xenapi, 0.3.4, XenAPI library for OpenStack projects, 2018-08-21T13:13:10+0000
+/project/mistral-dashboard/, mistral-dashboard, 12.0.0, Mistral dashboard, 2021-04-14T11:10:48+0000
+/project/kolla/, kolla, 11.0.0, Kolla OpenStack Deployment, 2021-01-11T12:12:10+0000
+/project/python-zaqarclient/, python-zaqarclient, 2.1.0, Client Library for OpenStack Zaqar Messaging API, 2021-03-12T11:15:31+0000
+/project/os-win/, os-win, 5.4.0, Windows / Hyper-V library for OpenStack projects., 2021-01-04T10:15:20+0000
+/project/aodhclient/, aodhclient, 2.2.0, Python client library for Aodh, 2021-03-12T12:46:54+0000
+/project/futurist/, futurist, 2.3.0, Useful additions to futures, from the future., 2020-09-11T19:18:42+0000
+/project/hastexo-xblock/, hastexo-xblock, 5.0.9, hastexo XBlock: Makes arbitrarily complex lab environments available on an Open edX LMS, 2021-04-23T12:12:03+0000
+/project/openstack-requirements/, openstack-requirements, 1.2.0, OpenStack python dependency management tools, 2018-02-12T22:02:14+0000
+/project/poppycdn/, poppycdn, 1.0.13, A modular, vendor-neutral API, that wraps provisioning instructions for all CDN vendors that support it., 2016-09-22T17:12:33+0000
+/project/uosclient/, uosclient, 0.0.13, Unipart OpenStack client tools, 2020-06-26T16:01:14+0000
+/project/app-catalog-common/, app-catalog-common, 0.0.1, UNKNOWN, 2015-11-10T00:37:00+0000
+/project/refstack/, refstack, 1.3.0, OpenStack interop testing, 2018-02-16T23:49:00+0000
+/project/oswin-tempest-plugin/, oswin-tempest-plugin, 1.2.0, This project contains Tempest tests to cover the os_win project, as well as a plugin to automatically load these tests into Tempest., 2021-01-18T16:33:47+0000
+/project/networking-ofagent/, networking-ofagent, 2015.1.6, OpenStack Networking ofagent, 2016-05-09T18:07:38+0000
+/project/cloudkitty-dev/, cloudkitty-dev, 11.0.3, Rating as a Service component for OpenStack, 2020-03-13T09:15:04+0000
+/project/oslo-middleware/, oslo.middleware, 4.2.0, Oslo Middleware library, 2021-03-11T20:42:54+0000
+/project/blazar-nova/, blazar-nova, 2.2.0, Nova related filters and extensions for Blazar, 2021-03-12T12:02:04+0000
+/project/shade-ansible/, shade-ansible, 1.0.0, Nothing. This used to exist. It's now all in ansible, 2016-02-17T15:18:14+0000
+/project/radware-octavia-rocky-driver/, radware_octavia_rocky_driver, 4.7.0.post3, Octavia Radware driver for Openstack Rocky, 2020-09-02T13:28:37+0000
+/project/ironic-staging-drivers/, ironic-staging-drivers, 0.15.0, A project used to hold out-of-tree ironic drivers, 2021-03-19T12:45:27+0000
+/project/vitrage-dashboard/, vitrage-dashboard, 3.3.0, Vitrage Horizon plugin, 2021-02-11T11:32:33+0000
+/project/python-karborclient/, python-karborclient, 2.1.0, Python client library for Karbor API, 2020-08-03T15:16:25+0000
+/project/app-catalog-ui/, app-catalog-ui, 1.0.0, UNKNOWN, 2015-10-16T17:54:54+0000
+/project/python-cyborgclient/, python-cyborgclient, 1.3.0, Python client for cyborg API, 2021-01-21T18:36:02+0000
+/project/networking-lagopus/, networking-lagopus, 1.0.0, Neutron Driver for Lagopus, 2017-11-30T12:38:13+0000
+/project/kolla-cli/, kolla-cli, 10.0.0, Command Line Interface for Kolla-Ansible, 2020-06-24T11:04:00+0000
+/project/raxtoken-auth-openstack/, raxtoken-auth-openstack, 0.1.3, Rackspace Token-Based Auth Plugin for OpenStack Clients., 2016-05-06T18:25:40+0000
+/project/kolla-kubernetes/, kolla-kubernetes, 0.6.0, Kubernetes deployment of the Kolla containers, 2017-04-19T10:11:55+0000
+/project/networking-infoblox/, networking-infoblox, 14.0.0, Contains Neutron drivers for integration with Infoblox grids for IPAM and DNS., 2019-07-18T19:07:31+0000
+/project/tap-as-a-service/, tap-as-a-service, 7.0.0, Tap-as-a-Service (TaaS) is an extension to the OpenStack network service (Neutron), it provides remote port mirroring capability for tenant virtual networks., 2020-10-30T09:59:37+0000
+/project/python-tripleodash/, python-tripleodash, 0.1.12, TripleO Terminal Dashboard, 2016-05-03T07:28:17+0000
+/project/gearhorn/, gearhorn, 0.0.5, A gearman worker which enables efficient broadcast communication, 2015-03-20T17:27:48+0000
+/project/python-apmecclient/, python-apmecclient, 0.1.0, CLI and Client Library for OpenStack Apmec, 2018-10-26T09:08:28+0000
+/project/tricircleclient/, tricircleclient, 1.0.0, Python client library for Tricircle, 2020-02-14T22:59:18+0000
+/project/faytheclient/, faytheclient, 0.0.3, Faythe API Client Library, 2020-08-12T07:07:06+0000
+/project/instack-undercloud/, instack-undercloud, 9.5.1, instack-undercloud, 2019-09-12T09:38:26+0000
+/project/searchlight-ui/, searchlight-ui, 9.0.0, Horizon panels and libraries for Searchlight, 2020-10-14T10:34:29+0000
+/project/tc-as-a-service/, tc-as-a-service, 0.0.1.dev31, APIs and implementations to support TC as a Service, 2017-04-09T10:55:45+0000
+/project/sahara-plugin-ambari/, sahara-plugin-ambari, 5.0.0, Ambari Plugin for Sahara Project, 2021-04-14T11:17:16+0000
+/project/magnum-tempest-plugin/, magnum-tempest-plugin, 1.3.0, Tempest plugin for Magnum Project, 2021-03-29T09:02:15+0000
+/project/sahara-tests/, sahara-tests, 0.13.0, Sahara tests, 2021-03-29T09:06:06+0000
+/project/oslosphinx/, oslosphinx, 4.18.0, OpenStack Sphinx Extensions and Theme, 2018-01-08T14:15:00+0000
+/project/networking-sfc/, networking-sfc, 12.0.0, APIs and implementations to support Service Function Chaining in Neutron., 2021-04-14T11:11:46+0000
+/project/python-savannaclient/, python-savannaclient, 0.5.0, Client library for Savanna API, 2014-02-25T20:21:13+0000
+/project/python-flameclient/, python-flameclient, 1.0.0, Automatic Heat template generation, 2018-12-06T09:01:39+0000
+/project/networking-l2gw/, networking-l2gw, 18.0.0, APIs and implementations to support L2 Gateways in Neutron., 2021-03-30T08:32:48+0000
+/project/python-iotronicclient/, python-iotronicclient, 0.4.7, Iotronic Client, 2019-03-04T15:45:01+0000
+/project/ovsdbapp/, ovsdbapp, 1.9.0, A library for creating OVSDB applications, 2021-03-03T14:36:59+0000
+/project/taskflow/, taskflow, 4.6.0, Taskflow structured state management library., 2021-02-02T09:42:16+0000
+/project/os-xenapi/, os-xenapi, 0.3.4, XenAPI library for OpenStack projects, 2018-08-21T13:13:10+0000
+/project/mistral-dashboard/, mistral-dashboard, 12.0.0, Mistral dashboard, 2021-04-14T11:10:48+0000
+/project/kolla/, kolla, 11.0.0, Kolla OpenStack Deployment, 2021-01-11T12:12:10+0000
+/project/python-zaqarclient/, python-zaqarclient, 2.1.0, Client Library for OpenStack Zaqar Messaging API, 2021-03-12T11:15:31+0000
+/project/abclient/, abclient, 0.2.3, Python client library for EISOO AnyBackup API, 2016-11-08T02:44:37+0000
+/project/python-neutronclient/, python-neutronclient, 7.3.0, CLI and Client Library for OpenStack Networking, 2021-01-18T21:58:35+0000
+/project/oslo-cache/, oslo.cache, 2.7.0, Cache storage for OpenStack projects., 2021-02-08T13:18:28+0000
+/project/solum-dashboard/, solum-dashboard, 6.0.0, Solum Dashboard, 2021-04-14T11:21:20+0000
+/project/sahara-dashboard/, sahara-dashboard, 14.0.0, Sahara Management Dashboard, 2021-04-14T11:15:56+0000
+/project/ardana-opsconsole-server/, ardana-opsconsole-server, 1.0, Business Logic Layer for the Operations Console, 2018-01-10T08:08:25+0000
+/project/python-gaiaclient/, python-gaiaclient, 1.0.1, Client library for Zeus Gaia API, 2016-11-30T09:30:23+0000
+/project/networking-fortinet/, networking-fortinet, 1.1.4, neutron plugin for fortigate, 2017-07-24T21:44:04+0000
+/project/oslo-metrics/, oslo.metrics, 0.2.1, Oslo Metrics API, 2021-02-11T11:37:50+0000
+/project/sushy-cli/, sushy-cli, 0.4.0, Redfish CLI tool based on sushy Redfish client library, 2021-03-12T16:46:03+0000
+/project/instack/, instack, 9.1.0, instack, 2018-06-05T20:00:31+0000
+/project/telemetry-tempest-plugin/, telemetry-tempest-plugin, 1.3.0, Tempest plugin for Telemetry Projects, 2021-03-29T08:56:24+0000
+/project/nova-dpm/, nova-dpm, 3.0.0, OpenStack Nova virt-driver for IBM z Systems PR/SM hypervisor in DPM mode, 2018-02-28T04:26:12+0000
+/project/python-bsn-neutronclient/, python-bsn-neutronclient, 12.0.1, Python bindings for Big Switch Networks Neutron API, 2019-01-15T05:45:05+0000
+/project/oslo-context/, oslo.context, 3.2.0, Oslo Context library, 2021-03-03T13:40:21+0000
+/project/os-cloud-config/, os-cloud-config, 6.0.0, Configuration for OpenStack clouds., 2017-03-06T19:30:23+0000
+/project/oslo-vmware/, oslo.vmware, 3.8.0, Oslo VMware library, 2021-02-08T13:20:24+0000
+/project/openstack-heat/, openstack-heat, 16.0.0, OpenStack Orchestration, 2021-04-14T11:05:14+0000
+/project/python-distilclient/, python-distilclient, 0.4.0, Client library for Catalyst Cloud Rating API, 2018-05-01T23:28:28+0000
+/project/neutron-tempest-plugin/, neutron-tempest-plugin, 1.4.0, Tempest plugin for Neutron Project, 2021-03-29T09:10:04+0000
+/project/cyberaide-bookmanager/, cyberaide-bookmanager, 0.2.35, Creating Books from content in different git and other cloud services., 2020-07-29T14:02:46+0000
+/project/pynats2/, pynats2, 0.9.0, 'Thread based NATS client for Python 3',, 2019-10-25T04:33:55+0000
+/project/oslo-messaging/, oslo.messaging, 12.7.1, Oslo Messaging API, 2021-02-16T09:02:54+0000
+/project/openstacksdk/, openstacksdk, 0.55.0, An SDK for building applications to work with OpenStack, 2021-03-12T09:02:00+0000
+/project/ovsportranges/, ovsportranges, 0.1.2, OVS bitwise port/mask ranges, 2018-09-13T15:30:45+0000
+/project/networking-l2gw-tempest-plugin/, networking-l2gw-tempest-plugin, 0, Tempest Plugin for Neutron L2 Gateway., 2017-10-05T10:49:46+0000
+/project/oslotest/, oslotest, 4.4.1, Oslo test framework, 2020-09-11T19:22:48+0000
+/project/zuup/, zuup, 1.0.7, Command line to consult Openstack zuul status, 2018-06-14T15:18:39+0000
+/project/pyshaker/, pyshaker, 1.4.2, Distributed data-plane performance testing tool, 2021-01-26T15:13:46+0000
+/project/networking-mlnx-baremetal/, networking-mlnx-baremetal, 1.0.2, Neutron ML2 mechanism driver for Mellanox infiniband Pkey binding., 2020-11-06T08:53:41+0000
+/project/healthywork/, healthywork, 1.6.2, Work break reminder, 2019-02-23T10:19:47+0000
+/project/sushy/, sushy, 3.7.0, Sushy is a small Python library to communicate with Redfish based systems, 2021-03-03T06:45:50+0000
+/project/iotronic-ui/, iotronic-ui, 0.4.3, Iotronic plugin for the OpenStack Dashboard, 2019-02-07T11:22:40+0000
+/project/nova-lxd/, nova-lxd, 19.0.0, native lxd driver for openstack, 2019-04-12T10:32:09+0000
+/project/ovn-octavia-provider/, ovn-octavia-provider, 1.0.0, OpenStack Octavia integration with OVN, 2021-03-26T11:58:14+0000
+/project/python-octaviaclient/, python-octaviaclient, 2.3.0, Octavia client for OpenStack Load Balancing, 2021-03-11T11:09:52+0000
+/project/python-tackerclient/, python-tackerclient, 1.6.0, CLI and Client Library for OpenStack Tacker, 2021-03-11T19:56:57+0000
+/project/swaggertools/, swaggertools, 0.0.4, Merge many files swagger specification into one file., 2016-05-09T15:33:39+0000
+/project/python-k8sclient/, python-k8sclient, 0.4.0, This is Kubernetes API python client code. This code is generated by swagger-codegen. Kubernetes provide swagger-spec to generate client code for different versions. The specs live in Kubernetes repo., 2017-02-07T02:56:42+0000
+/project/gyan/, gyan, 0.0.0, Machine Learning Infrastructure on Openstack, 2018-09-04T17:02:40+0000
+/project/horizon-contrib/, horizon_contrib, 2017.10.0, Horizon Django tools., 2017-10-02T20:17:21+0000
+/project/ironic/, ironic, 17.0.1, OpenStack Bare Metal Provisioning, 2021-04-08T09:07:55+0000
+/project/rdopkg/, rdopkg, 1.4.0, RPM packaging automation tool, 2021-03-03T09:19:41+0000
+/project/heat-tempest-plugin/, heat-tempest-plugin, 1.2.0, OpenStack Orchestration Tempest Plugin, 2021-02-08T13:25:48+0000
+/project/gbptestheat/, gbptestheat, 2014.2, OpenStack Orchestration, 2014-09-27T01:52:04+0000
+/project/openstack-publicdns/, openstack-publicdns, 0.0.6, OpenStack public DNS plugins, 2019-08-12T17:12:32+0000
+/project/swiftwal/, swiftwal, 0.2.2, PostgreSQL backups, WAL archiving & PITR to OpenStack Swift, 2014-01-28T08:35:34+0000
+/project/openstack-voms-auth-type/, openstack-voms-auth-type, 3.0.1, VOMS-based authentication for OpenStack, 2019-02-04T14:57:20+0000
+/project/python-cinderclient/, python-cinderclient, 7.4.0, OpenStack Block Storage API Client Library, 2021-03-15T08:50:27+0000
+/project/bosi/, bosi, 4.7.8, Big Switch Networks OpenStack Installer, 2020-04-27T16:35:13+0000
+/project/kuryr-libnetwork/, kuryr-libnetwork, 7.0.0, Docker libnetwork driver for OpenStack Neutron, 2021-04-14T11:09:00+0000
+/project/os-client-config/, os-client-config, 2.1.0, OpenStack Client Configuation Library, 2020-04-02T18:39:11+0000
+/project/group-based-policy-ui/, group-based-policy-ui, 2015.2.5, Horizon modules for Group Based Policy, 2016-10-17T19:05:58+0000
+/project/mistral-tempest-tests/, mistral-tempest-tests, 1.2.0, Tempest plugin for Mistral project, 2021-01-18T22:32:56+0000
+/project/reno/, reno, 3.3.0, RElease NOtes manager, 2021-03-18T10:50:15+0000
+/project/os-vif-bigswitch/, os-vif-bigswitch, 12.0.2, Neutron OS-VIF plugin for Big Switch Networks SWL-VX, 2018-08-30T16:33:45+0000
+/project/python-openstackclient/, python-openstackclient, 5.5.0, OpenStack Command-line Client, 2021-03-20T09:18:49+0000
+/project/radware-nlbaas-v2-rocky-driver/, radware_nlbaas_v2_rocky_driver, 4.7.0.post2, Neutron LBaaS Radware driver for Openstack Rocky, 2019-03-04T07:58:48+0000
+/project/eom/, eom, 0.8.2, Experimental OpenStack WSGI Middleware, 2017-12-13T05:43:56+0000
+/project/networking-h3c/, networking-h3c, 0.1.0, H3C Vendor Code for OpenStack Neutron to integrate with H3C SDN controller, 2017-04-05T09:56:59+0000
+/project/python-adjutant/, python-adjutant, 2.0.0, An admin task workflow service for openstack., 2021-04-14T11:00:40+0000
+/project/gce-api/, gce-api, 3.0.0, OpenStack Gceapi Service, 2016-10-08T10:01:33+0000
+/project/ironic-oneviewd/, ironic-oneviewd, 1.2.0, Deamon service to enroll nodes to be used for the Ironic OneView Driver, 2018-02-02T14:13:52+0000
+/project/swauth/, swauth, 1.3.0, An alternative authentication system for Swift, 2017-12-09T16:31:14+0000
+/project/networking-midonet/, networking-midonet, 11.0.0, OpenStack MidoNet Neutron Plugin, 2020-10-14T10:22:03+0000
+/project/keystone/, keystone, 19.0.0, OpenStack Identity, 2021-04-14T11:11:10+0000
+/project/glance-store/, glance-store, 2.5.0, OpenStack Image Service Store Library, 2021-03-05T09:57:56+0000
+/project/vmware-vspc/, vmware-vspc, 0.0.3, Virtual Serial Port Concentrator for VMware instances., 2017-02-23T16:19:30+0000

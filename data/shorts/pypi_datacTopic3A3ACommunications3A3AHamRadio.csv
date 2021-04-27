@@ -1,0 +1,162 @@
+/project/macswitch/, MacSwitch, 0.1.6, Remote Antenna Switch, 2021-04-03T12:42:54+0000
+/project/tart-tools/, tart-tools, 0.2.0b11, Transient Array Radio Telescope Command Line Tools, 2021-04-12T21:47:44+0000
+/project/yawigle/, yawigle, 0.0.4, Yet another Wigle.net client API, 2021-02-28T16:26:33+0000
+/project/simplesoapy/, SimpleSoapy, 1.5.1, Simple pythonic wrapper for SoapySDR library, 2017-04-27T15:32:41+0000
+/project/pwrcheck/, pwrcheck, 0.0.1b2, Python PWRCheck Reader., 2018-01-23T15:10:55+0000
+/project/dolphinlog/, dolphinlog, 0.2.3, Yet another HAM radio logger using SQLite with ADIF-3 export support., 2016-01-10T00:41:20+0000
+/project/jt64common/, jt64common, 0.0.24, , 2019-07-15T07:47:07+0000
+/project/aprsd-slack-plugin/, aprsd-slack-plugin, 1.0.4, Amateur radio APRS daemon which listens for messages and responds, 2021-01-15T19:16:28+0000
+/project/quisk/, quisk, 4.1.80, QUISK is a Software Defined Radio (SDR) transceiver that can control various radio hardware., 2021-02-20T13:55:39+0000
+/project/aprsgate/, aprsgate, 1.0.0, Python APRS Gateway., 2016-12-14T22:19:27+0000
+/project/afsk/, afsk, 0.0.3, Bell 202 Audio Frequency Shift Keying encoder and APRS packet audio tools, 2014-04-09T02:09:22+0000
+/project/pylink-satcom/, pylink-satcom, 0.9, Python Link Budget System, 2020-09-20T03:32:11+0000
+/project/kiss/, kiss, 7.0.0, Python KISS Module., 2017-08-28T20:02:25+0000
+/project/necpp/, necpp, 1.7.3.5, Python Antenna Simulation Module (nec2++) C-style interface, 2019-08-29T13:54:58+0000
+/project/disko/, disko, 0.9.2b1, Discrete Sky Operator (DiSkO) Aperture Synthesis Radio Imaging, 2021-04-08T05:01:44+0000
+/project/satnogs-db/, satnogs-db, 1.23, SatNOGS DB, 2021-03-11T22:13:43+0000
+/project/adsbcot/, adsbcot, 3.0.1, ADS-B Cursor-on-Target Gateway., 2021-03-06T02:17:59+0000
+/project/satnogsclient/, satnogsclient, 0.9.1, SatNOGS Client, 2019-09-14T10:16:27+0000
+/project/adif-io/, adif-io, 0.0.3, Basic input of ADIF radio amateur log files., 2019-11-10T14:36:52+0000
+/project/call-to-dxcc/, call-to-dxcc, 0.0.1, Finds DXCC entry for given amateur callsign., 2019-11-10T14:24:54+0000
+/project/rigexpert-tool/, rigexpert-tool, 1.0.0, CLI tool to dump, plot, or convert RigExpert Antenna Analyzer impedance sweeps, 2016-10-05T12:05:58+0000
+/project/koch-trainer/, koch-trainer, 0.0.5, Koch method Morse code training program with Word Mode, Callsign Mode, and Random Character Mode, 2021-02-04T21:30:50+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/qspectrumanalyzer/, QSpectrumAnalyzer, 2.1.0, Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, rx_power, rtl_power, hackrf_sweep and other backends), 2017-03-21T16:48:20+0000
+/project/rtlsdr-scanner/, rtlsdr_scanner, 1.3.1, A simple spectrum analyser for scanning with a RTL-SDR compatible USB device, 2018-04-13T19:23:01+0000
+/project/faradayio/, faradayio, 0.0.4, FaradayRF TUN/TAP adapter, 2018-03-02T16:35:12+0000
+/project/morfeus/, morfeus, 0.3, Library to control moRFeus mixer/signal generator, 2018-12-02T03:34:31+0000
+/project/dmr-utils3/, dmr-utils3, 0.1.29, ETSI DMR (Digital Mobile Radio) Tier II Utilities, 2020-08-25T17:30:54+0000
+/project/jt64gentc/, jt64gentc, 0.0.25, , 2019-07-15T07:58:37+0000
+/project/ctyparser/, ctyparser, 2.2.0, A CTY.DAT parser for modern amateur radio programs., 2021-01-18T06:26:07+0000
+/project/callooktools/, callooktools, 1.0.0, callook.info API interface in Python, 2021-03-27T17:37:12+0000
+/project/pyfldigi/, pyfldigi, 0.4, Python library to control FLDIGI via XML-RPC, 2017-02-16T05:51:57+0000
+/project/hamutils/, hamutils, 0.2.0, Amateur radio utils library, 2017-05-11T12:17:01+0000
+/project/jt64config/, jt64config, 0.0.22, , 2019-07-15T02:17:27+0000
+/project/pyqrz/, pyQRZ, 0.1.0, Query QRZ.com Ham Radio License API, 2017-05-28T22:49:00+0000
+/project/aprscot/, aprscot, 4.0.0, APRS Cursor-on-Target Gateway., 2020-11-14T07:33:46+0000
+/project/hytera-homebrew-bridge/, hytera-homebrew-bridge, 2021.1, Connect Hytera IPSC repeater to MMDVM system such as HBlink, DMRGateway, 2021-01-01T10:37:40+0000
+/project/sa818/, sa818, 0.1.8, SA818 Programming Software, 2021-02-10T20:09:02+0000
+/project/pybombs/, PyBOMBS, 2.3.4, A meta-package manager to install software from source, or whatever the local package manager is. Designed for easy install of source trees for the GNU Radio project., 2020-09-04T21:46:46+0000
+/project/satnogs-config/, satnogs-config, 0.11, SatNOGS configuration utility, 2020-10-07T11:09:14+0000
+/project/hambot/, hambot, 1.0.0, HamBot - Slack Amateur (Ham) Radio Bot, 2017-02-01T21:52:30+0000
+/project/satnogsdecoders/, satnogsdecoders, 0.16.1, SatNOGS Decoders, 2019-09-06T11:39:12+0000
+/project/pysstv/, PySSTV, 0.5, Python classes for generating Slow-scan Television transmissions, 2021-04-19T14:19:06+0000
+/project/sweetmorse/, sweetmorse, 1.1.0, Morse code tools from read to write, analog to digital, 2017-09-07T02:32:07+0000
+/project/randwire/, randwire, 0.1.5, Random Length Antenna Calculator, 2021-02-03T22:55:25+0000
+/project/quisk-lppan-k3/, quisk_lppan_k3, 0.1.3, Hardware support for QUISK for the Elecraft K3, LP-PAN Panadapter, and fldigi, 2010-02-20T20:21:42+0000
+/project/apex-radio/, apex-radio, 0.0.5, APEX reference implementation., 2016-10-02T11:36:26+0000
+/project/codeplug/, codeplug, 0.2.0, codeplug decoder and builder for Motorola radios, 2018-01-24T07:55:41+0000
+/project/jt64version/, jt64version, 0.0.22, , 2019-07-15T02:20:47+0000
+/project/aprsd/, aprsd, 1.6.1, Amateur radio APRS daemon which listens for messages and responds, 2021-04-05T18:40:41+0000
+/project/satnogs-db-api-client/, satnogs-db-api-client, 1.23, SatNOGS DB API Client, 2021-03-11T22:13:18+0000
+/project/faradayio-cli/, faradayio-cli, 0.0.4, FaradayRF TUN/TAP adapter command line interface, 2018-03-02T16:46:46+0000
+/project/qrztools/, qrztools, 1.1.1, QRZ API interface in Python, 2021-03-17T12:51:11+0000
+/project/jt64env/, jt64env, 0.0.22, , 2019-07-15T02:18:26+0000
+/project/kiss2/, kiss2, 7.0.1, Python KISS Module V2., 2018-01-24T21:34:59+0000
+/project/tart2ms/, tart2ms, 0.1.4b4, Convert TART observation data to Measurement Sets, 2019-12-19T10:38:06+0000
+/project/satnogs-decoders/, satnogs-decoders, 1.21.0, SatNOGS Decoders, 2021-03-30T10:19:12+0000
+/project/aprslib/, aprslib, 0.6.47, Module for accessing APRS-IS and parsing APRS packets, 2019-10-26T19:18:03+0000
+/project/aioax25/, aioax25, 0.0.9, Asynchronous AX.25 interface in pure Python using asyncio, 2021-01-23T05:24:53+0000
+/project/pykiss/, pykiss, 0.2.1, Simple serial KISS library, 2021-03-14T14:19:35+0000
+/project/gridtools/, gridtools, 1.0.0.post1, A small Python library to convert between maidenhead grid locators and lat/long coördinates., 2021-01-18T06:42:32+0000
+/project/hamptt/, hamptt, 0.0.2, Implementations of Push-To-Tank circuit for ham radio transmitters like Baofeng UV-5R, 2020-06-24T10:31:03+0000
+/project/aprs/, aprs, 7.0.0, Python APRS Module., 2017-08-18T06:54:20+0000
+/project/soapy-power/, soapy_power, 1.6.1, Obtain power spectrum from SoapySDR devices (RTL-SDR, Airspy, SDRplay, HackRF, bladeRF, USRP, LimeSDR, etc.), 2017-04-26T15:36:42+0000
+/project/stratuxcot/, stratuxcot, 1.1.0, Stratux Cursor-on-Target Gateway., 2020-11-18T16:50:48+0000
+/project/pydv/, pydv, 2.0, D-STAR library and utilities in Python, 2019-04-05T20:17:36+0000
+/project/cabrillo/, cabrillo, 0.0.4, A Python library to parse Cabrillo-format amateur radio contest logs., 2019-11-25T22:56:44+0000
+/project/satnogs-client/, satnogs-client, 1.4, SatNOGS Client, 2020-10-05T17:40:24+0000
+/project/satnogs-network-api-client/, satnogs-network-api-client, 1.74, SatNOGS Network API Client, 2021-03-15T20:23:31+0000
+/project/rigcontrol/, rigcontrol, 0.3.16, Python rig control utilities and libraries for amateur radio equipment, 2015-02-21T22:31:38+0000
+/project/dmr-utils/, dmr-utils, 0.1.26, ETSI DMR (Digital Mobile Radio) Tier II Utilities, 2019-05-09T13:55:05+0000
+/project/pynec/, PyNEC, 1.7.3.6, Python Antenna Simulation Module (nec2++) object-oriented interface, 2020-05-13T23:37:11+0000
+/project/jt64setqt/, jt64setqt, 0.0.22, , 2019-07-15T02:20:09+0000
+/project/satnogs-network/, satnogs-network, 1.74, SatNOGS Network, 2021-03-15T20:23:38+0000
+/project/tart/, tart, 1.1.0b6, Transient Array Radio Telescope Imaging and Operation Library, 2020-10-05T10:43:51+0000
+/project/adsbxcot/, adsbxcot, 1.0.0, ADS-B Exchange Cursor-on-Target Gateway., 2020-11-14T07:37:50+0000
+/project/rf-monitor/, rf-monitor, 1.0.2, RF signal monitor, 2017-02-04T23:50:54+0000
+/project/kochmorse/, KochMorse, 2.0.0, Morse-tutor for Linux using the Koch-method (Python 3 + Gtk3)., 2014-10-13T14:19:40+0000
+/project/scom7330/, scom7330, 0.1.1, A tool to manipulate various data, including Audio Libraries (ex CustomAudioLib.bin) for the SCOM 7330 repeater, 2021-03-05T23:01:03+0000
+/project/loranode/, loranode, 0.0.4, Python 3 bindings for interfacing with LoRa nodes such as the RN2483., 2016-05-13T11:46:30+0000
+/project/koch/, koch, 0.0.3, Koch method Morse code training program, 2016-05-28T21:06:03+0000
+/project/macswitch/, MacSwitch, 0.1.6, Remote Antenna Switch, 2021-04-03T12:42:54+0000
+/project/tart-tools/, tart-tools, 0.2.0b11, Transient Array Radio Telescope Command Line Tools, 2021-04-12T21:47:44+0000
+/project/pylink-satcom/, pylink-satcom, 0.9, Python Link Budget System, 2020-09-20T03:32:11+0000
+/project/yawigle/, yawigle, 0.0.4, Yet another Wigle.net client API, 2021-02-28T16:26:33+0000
+/project/simplesoapy/, SimpleSoapy, 1.5.1, Simple pythonic wrapper for SoapySDR library, 2017-04-27T15:32:41+0000
+/project/pwrcheck/, pwrcheck, 0.0.1b2, Python PWRCheck Reader., 2018-01-23T15:10:55+0000
+/project/dolphinlog/, dolphinlog, 0.2.3, Yet another HAM radio logger using SQLite with ADIF-3 export support., 2016-01-10T00:41:20+0000
+/project/jt64common/, jt64common, 0.0.24, , 2019-07-15T07:47:07+0000
+/project/quisk/, quisk, 4.1.80, QUISK is a Software Defined Radio (SDR) transceiver that can control various radio hardware., 2021-02-20T13:55:39+0000
+/project/aprsgate/, aprsgate, 1.0.0, Python APRS Gateway., 2016-12-14T22:19:27+0000
+/project/afsk/, afsk, 0.0.3, Bell 202 Audio Frequency Shift Keying encoder and APRS packet audio tools, 2014-04-09T02:09:22+0000
+/project/kiss/, kiss, 7.0.0, Python KISS Module., 2017-08-28T20:02:25+0000
+/project/necpp/, necpp, 1.7.3.5, Python Antenna Simulation Module (nec2++) C-style interface, 2019-08-29T13:54:58+0000
+/project/aprsd-slack-plugin/, aprsd-slack-plugin, 1.0.4, Amateur radio APRS daemon which listens for messages and responds, 2021-01-15T19:16:28+0000
+/project/pybombs/, PyBOMBS, 2.3.4, A meta-package manager to install software from source, or whatever the local package manager is. Designed for easy install of source trees for the GNU Radio project., 2020-09-04T21:46:46+0000
+/project/adsbcot/, adsbcot, 3.0.1, ADS-B Cursor-on-Target Gateway., 2021-03-06T02:17:59+0000
+/project/satnogsclient/, satnogsclient, 0.9.1, SatNOGS Client, 2019-09-14T10:16:27+0000
+/project/satnogs-config/, satnogs-config, 0.11, SatNOGS configuration utility, 2020-10-07T11:09:14+0000
+/project/call-to-dxcc/, call-to-dxcc, 0.0.1, Finds DXCC entry for given amateur callsign., 2019-11-10T14:24:54+0000
+/project/qspectrumanalyzer/, QSpectrumAnalyzer, 2.1.0, Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, rx_power, rtl_power, hackrf_sweep and other backends), 2017-03-21T16:48:20+0000
+/project/rtlsdr-scanner/, rtlsdr_scanner, 1.3.1, A simple spectrum analyser for scanning with a RTL-SDR compatible USB device, 2018-04-13T19:23:01+0000
+/project/faradayio/, faradayio, 0.0.4, FaradayRF TUN/TAP adapter, 2018-03-02T16:35:12+0000
+/project/pysstv/, PySSTV, 0.5, Python classes for generating Slow-scan Television transmissions, 2021-04-19T14:19:06+0000
+/project/disko/, disko, 0.9.2b1, Discrete Sky Operator (DiSkO) Aperture Synthesis Radio Imaging, 2021-04-08T05:01:44+0000
+/project/callooktools/, callooktools, 1.0.0, callook.info API interface in Python, 2021-03-27T17:37:12+0000
+/project/pyfldigi/, pyfldigi, 0.4, Python library to control FLDIGI via XML-RPC, 2017-02-16T05:51:57+0000
+/project/hamutils/, hamutils, 0.2.0, Amateur radio utils library, 2017-05-11T12:17:01+0000
+/project/satnogs-db/, satnogs-db, 1.23, SatNOGS DB, 2021-03-11T22:13:43+0000
+/project/jt64config/, jt64config, 0.0.22, , 2019-07-15T02:17:27+0000
+/project/pyqrz/, pyQRZ, 0.1.0, Query QRZ.com Ham Radio License API, 2017-05-28T22:49:00+0000
+/project/aprscot/, aprscot, 4.0.0, APRS Cursor-on-Target Gateway., 2020-11-14T07:33:46+0000
+/project/hytera-homebrew-bridge/, hytera-homebrew-bridge, 2021.1, Connect Hytera IPSC repeater to MMDVM system such as HBlink, DMRGateway, 2021-01-01T10:37:40+0000
+/project/sa818/, sa818, 0.1.8, SA818 Programming Software, 2021-02-10T20:09:02+0000
+/project/adif-io/, adif-io, 0.0.3, Basic input of ADIF radio amateur log files., 2019-11-10T14:36:52+0000
+/project/rigexpert-tool/, rigexpert-tool, 1.0.0, CLI tool to dump, plot, or convert RigExpert Antenna Analyzer impedance sweeps, 2016-10-05T12:05:58+0000
+/project/koch-trainer/, koch-trainer, 0.0.5, Koch method Morse code training program with Word Mode, Callsign Mode, and Random Character Mode, 2021-02-04T21:30:50+0000
+/project/hambot/, hambot, 1.0.0, HamBot - Slack Amateur (Ham) Radio Bot, 2017-02-01T21:52:30+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/morfeus/, morfeus, 0.3, Library to control moRFeus mixer/signal generator, 2018-12-02T03:34:31+0000
+/project/satnogsdecoders/, satnogsdecoders, 0.16.1, SatNOGS Decoders, 2019-09-06T11:39:12+0000
+/project/dmr-utils3/, dmr-utils3, 0.1.29, ETSI DMR (Digital Mobile Radio) Tier II Utilities, 2020-08-25T17:30:54+0000
+/project/jt64gentc/, jt64gentc, 0.0.25, , 2019-07-15T07:58:37+0000
+/project/ctyparser/, ctyparser, 2.2.0, A CTY.DAT parser for modern amateur radio programs., 2021-01-18T06:26:07+0000
+/project/sweetmorse/, sweetmorse, 1.1.0, Morse code tools from read to write, analog to digital, 2017-09-07T02:32:07+0000
+/project/randwire/, randwire, 0.1.5, Random Length Antenna Calculator, 2021-02-03T22:55:25+0000
+/project/codeplug/, codeplug, 0.2.0, codeplug decoder and builder for Motorola radios, 2018-01-24T07:55:41+0000
+/project/jt64version/, jt64version, 0.0.22, , 2019-07-15T02:20:47+0000
+/project/quisk-lppan-k3/, quisk_lppan_k3, 0.1.3, Hardware support for QUISK for the Elecraft K3, LP-PAN Panadapter, and fldigi, 2010-02-20T20:21:42+0000
+/project/apex-radio/, apex-radio, 0.0.5, APEX reference implementation., 2016-10-02T11:36:26+0000
+/project/aprsd/, aprsd, 1.6.1, Amateur radio APRS daemon which listens for messages and responds, 2021-04-05T18:40:41+0000
+/project/satnogs-db-api-client/, satnogs-db-api-client, 1.23, SatNOGS DB API Client, 2021-03-11T22:13:18+0000
+/project/satnogs-network/, satnogs-network, 1.74, SatNOGS Network, 2021-03-15T20:23:38+0000
+/project/tart/, tart, 1.1.0b6, Transient Array Radio Telescope Imaging and Operation Library, 2020-10-05T10:43:51+0000
+/project/adsbxcot/, adsbxcot, 1.0.0, ADS-B Exchange Cursor-on-Target Gateway., 2020-11-14T07:37:50+0000
+/project/rf-monitor/, rf-monitor, 1.0.2, RF signal monitor, 2017-02-04T23:50:54+0000
+/project/rigcontrol/, rigcontrol, 0.3.16, Python rig control utilities and libraries for amateur radio equipment, 2015-02-21T22:31:38+0000
+/project/dmr-utils/, dmr-utils, 0.1.26, ETSI DMR (Digital Mobile Radio) Tier II Utilities, 2019-05-09T13:55:05+0000
+/project/stratuxcot/, stratuxcot, 1.1.0, Stratux Cursor-on-Target Gateway., 2020-11-18T16:50:48+0000
+/project/pydv/, pydv, 2.0, D-STAR library and utilities in Python, 2019-04-05T20:17:36+0000
+/project/cabrillo/, cabrillo, 0.0.4, A Python library to parse Cabrillo-format amateur radio contest logs., 2019-11-25T22:56:44+0000
+/project/satnogs-client/, satnogs-client, 1.4, SatNOGS Client, 2020-10-05T17:40:24+0000
+/project/satnogs-decoders/, satnogs-decoders, 1.21.0, SatNOGS Decoders, 2021-03-30T10:19:12+0000
+/project/aprslib/, aprslib, 0.6.47, Module for accessing APRS-IS and parsing APRS packets, 2019-10-26T19:18:03+0000
+/project/aioax25/, aioax25, 0.0.9, Asynchronous AX.25 interface in pure Python using asyncio, 2021-01-23T05:24:53+0000
+/project/gridtools/, gridtools, 1.0.0.post1, A small Python library to convert between maidenhead grid locators and lat/long coördinates., 2021-01-18T06:42:32+0000
+/project/hamptt/, hamptt, 0.0.2, Implementations of Push-To-Tank circuit for ham radio transmitters like Baofeng UV-5R, 2020-06-24T10:31:03+0000
+/project/faradayio-cli/, faradayio-cli, 0.0.4, FaradayRF TUN/TAP adapter command line interface, 2018-03-02T16:46:46+0000
+/project/kochmorse/, KochMorse, 2.0.0, Morse-tutor for Linux using the Koch-method (Python 3 + Gtk3)., 2014-10-13T14:19:40+0000
+/project/scom7330/, scom7330, 0.1.1, A tool to manipulate various data, including Audio Libraries (ex CustomAudioLib.bin) for the SCOM 7330 repeater, 2021-03-05T23:01:03+0000
+/project/loranode/, loranode, 0.0.4, Python 3 bindings for interfacing with LoRa nodes such as the RN2483., 2016-05-13T11:46:30+0000
+/project/koch/, koch, 0.0.3, Koch method Morse code training program, 2016-05-28T21:06:03+0000
+/project/satnogs-network-api-client/, satnogs-network-api-client, 1.74, SatNOGS Network API Client, 2021-03-15T20:23:31+0000
+/project/pynec/, PyNEC, 1.7.3.6, Python Antenna Simulation Module (nec2++) object-oriented interface, 2020-05-13T23:37:11+0000
+/project/jt64setqt/, jt64setqt, 0.0.22, , 2019-07-15T02:20:09+0000
+/project/aprs/, aprs, 7.0.0, Python APRS Module., 2017-08-18T06:54:20+0000
+/project/soapy-power/, soapy_power, 1.6.1, Obtain power spectrum from SoapySDR devices (RTL-SDR, Airspy, SDRplay, HackRF, bladeRF, USRP, LimeSDR, etc.), 2017-04-26T15:36:42+0000
+/project/pykiss/, pykiss, 0.2.1, Simple serial KISS library, 2021-03-14T14:19:35+0000
+/project/qrztools/, qrztools, 1.1.1, QRZ API interface in Python, 2021-03-17T12:51:11+0000
+/project/jt64env/, jt64env, 0.0.22, , 2019-07-15T02:18:26+0000
+/project/kiss2/, kiss2, 7.0.1, Python KISS Module V2., 2018-01-24T21:34:59+0000
+/project/koch/, koch, 0.0.3, Koch method Morse code training program, 2016-05-28T21:06:03+0000

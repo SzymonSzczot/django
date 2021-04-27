@@ -20,6 +20,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('chat/', include('chat.urls')),
     path('boards/', include('boards.urls')),
+    path('events/', include('events.urls')),
+    path('e/', include('search_engine.urls')),
 
     # path('api-auth/', include('rest_framework.urls'))
 ]

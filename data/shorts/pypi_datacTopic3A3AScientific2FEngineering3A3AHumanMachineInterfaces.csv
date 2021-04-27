@@ -1,0 +1,592 @@
+/project/milc/, milc, 1.3.0, Opinionated Batteries-Included Python 3 CLI Framework., 2021-03-28T16:42:19+0000
+/project/watson-streaming/, watson-streaming, 0.0.13, Speech to text transcription in real-time using IBM Watson, 2020-06-01T17:20:53+0000
+/project/sasa/, sasa, 0.2.0, SAIL/AIL Sentiment Analyzer, 2019-04-09T21:20:38+0000
+/project/wyrm/, Wyrm, 1.1.0, Toolbox for Brain Computer Interfacing Experiments., 2015-07-09T12:51:15+0000
+/project/nixtla/, nixtla, 5.3.7, Formulae-based annotation for Sign Language corpora, 2014-11-28T16:04:16+0000
+/project/regex4dummies/, regex4dummies, 1.4.6, A NLP library that simplifies pattern finding in strings, 2015-12-25T23:11:42+0000
+/project/pycm/, pycm, 3.1, Multi-class confusion matrix library in Python, 2021-03-11T15:52:20+0000
+/project/pytelemetrycli/, pytelemetrycli, 1.1.0, command-line interface for data visualization and communication with embedded devices, 2016-03-23T21:07:17+0000
+/project/sutime/, sutime, 1.0.1, A Python wrapper for Stanford CoreNLP's SUTime, 2020-11-03T09:15:00+0000
+/project/dragonfire/, dragonfire, 1.0.0, Dragonfire is an open source virtual assistant project for Ubuntu based Linux distributions, 2018-07-30T00:10:10+0000
+/project/stt/, stt, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:23:39+0000
+/project/endpointer/, endpointer, 0.0.4, A tool for transforming OpenAPI v3 specifications        into endpoint documentation, 2017-10-14T03:30:43+0000
+/project/kivymd/, kivymd, 0.104.1, Set of widgets for Kivy inspired by Google's Material Design, 2020-04-27T20:04:26+0000
+/project/gcpds-entropies/, gcpds-entropies, 0.1a0, , 2020-08-01T23:08:20+0000
+/project/davisinteractive/, davisinteractive, 1.0.4, Evaluation Framework for DAVIS Interactive Segmentation, 2020-04-19T11:54:51+0000
+/project/perke/, perke, 0.3.3, A keyphrase extractor for Persian, 2021-04-11T22:53:22+0000
+/project/kivymd-extensions-akivymd/, kivymd-extensions.akivymd, 1.2.5, A set of fancy widgets for KivyMD, 2020-11-28T12:47:11+0000
+/project/kivymd-extensions-example-extension/, kivymd-extensions.example-extension, 0.1.1, Example extension that adds beautiful button, 2020-11-01T10:35:50+0000
+/project/openbci/, openbci, 0.2.3, Hight level Python module for OpenBCI hardware by GCPDS., 2020-01-22T21:35:58+0000
+/project/pyforms-terminal/, PyForms-Terminal, 4.0.10, Pyforms terminal is a software layer, part of the Pyforms main library. This layer implements the execution of a Pyforms application in the terminal., 2019-07-09T16:11:14+0000
+/project/gazelib/, gazelib, 2.1.1, Software tools to manage and analyze data from eye-trackers, 2016-06-14T11:27:46+0000
+/project/hyperio/, hyperio, 0.1.6, Hyperio Hyperparameter Scanner for Keras, 2018-05-07T21:05:25+0000
+/project/nltk2-fixed/, nltk2-fixed, 2.0.6, Natural Language Toolkit, 2018-11-14T11:18:12+0000
+/project/nltk/, nltk, 3.6.2, Natural Language Toolkit, 2021-04-20T07:42:47+0000
+/project/saccademodel/, saccademodel, 0.1.0, A least-squares optimal method to find the saccadic reaction time and the saccade duration from tracked gaze points, 2015-12-09T13:49:17+0000
+/project/eegsynth/, eegsynth, 0.3.1, Converting real-time EEG into sounds, music and visual effects, 2020-04-11T10:48:43+0000
+/project/stt-tflite/, stt-tflite, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:28:52+0000
+/project/modbussharedmemory/, ModbusSharedMemory, 0.1.1, Shared memory concept known from PLC manner implemented over uModbus framework., 2019-05-23T16:09:00+0000
+/project/winspeech/, winspeech, 1.0.1, Speech recognition and synthesis module for Windows - Python 2 and 3., 2016-11-05T07:15:43+0000
+/project/skink/, Skink, 0.7.0, Control the DOM from Python using Websockets, 2014-10-25T14:43:23+0000
+/project/editobj3/, Editobj3, 0.1, An automatic dialog box generator for Python objects, supporting multiple graphical backends: Qt, GTK and HTML (single-user or with multiple users)., 2017-09-10T19:38:39+0000
+/project/volux/, volux, 0.9.17, High-level media/entertainment workflow automation platform, 2019-11-23T14:31:49+0000
+/project/pyrho/, PyRhO, 0.9.4, Fit and characterise rhodopsin photocurrents, 2016-03-04T12:34:46+0000
+/project/conreality/, conreality, 0.0.4, Conreality Software Development Kit (SDK) for Python, 2018-10-09T14:42:53+0000
+/project/semantic3/, semantic3, 1.0.2, Common Natural Language Processing Tasks for Python, 2017-06-18T03:46:49+0000
+/project/vwr/, vwr, 0.1.14, Python driver for VWR circulating baths., 2017-08-09T21:22:18+0000
+/project/musicbutler/, musicbutler, 0.1.7, A robot that receives voice commands to play albums from your MP3 collection, 2008-08-18T20:22:20+0000
+/project/pressagio/, pressagio, 0.1.6, A Python Library for statistical text prediction., 2019-11-15T11:57:18+0000
+/project/tripplite/, tripplite, 0.3.0, Python driver for TrippLite UPS battery backups., 2020-10-01T16:06:13+0000
+/project/pyapplesms/, PyAppleSMS, 1.0, Python module for Apple SMS (Sudden Motion Sensor), 2006-08-02T21:51:51+0000
+/project/pymodaq-plugins-newport/, pymodaq-plugins-newport, 0.0.3, Set of PyMoDAQ plugins for instruments from Newport (Conex, ESP100,...), 2021-02-10T22:28:44+0000
+/project/pybotics/, pybotics, 1.0.0, Python Toolbox for Robotics, 2020-08-17T18:36:10+0000
+/project/mozilla-voice-stt-cuda/, mozilla-voice-stt-cuda, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:04:22+0000
+/project/pymodaq-plugins-flim/, pymodaq-plugins-flim, 0.0.2, Set of PyMoDAQ plugins for FLIM Measurements (Fluorescence Lifetime Imaging Microscopy) (using a conjugation of Time-Correlated Single Photon Counting (TSCPC) and xy stages), 2021-02-10T22:10:36+0000
+/project/miot/, miot, 1.0.42, Modular Internet of Things, 2021-04-19T06:34:06+0000
+/project/pyhardware/, pyhardware, 0.0.12, Control of data acquisition with remote instruments using 
+    IVI-C or IVI-COM, Visa, and serial protocols., 2013-10-05T09:29:12+0000
+/project/pymodaq-plugins-oceaninsight/, pymodaq-plugins-oceaninsight, 0.0.2, Set of PyMoDAQ plugins for OceanInsight (OceanOptics) spectrometers, 2021-02-10T22:32:33+0000
+/project/gherkan/, gherkan, 0.0.9rc1.dev19, NL to Gherkin format translation tool, 2019-06-20T13:49:03+0000
+/project/richcontext-scholapi/, richcontext-scholapi, 1.2.0, Rich Context API integrations for federating discovery services and metadata exchange across multiple scholarly infrastructure providers, 2020-04-01T21:17:17+0000
+/project/python-gearbox/, python-gearbox, 0.1.2.a.dev, Python library for gear transmission design, 2015-05-03T06:58:30+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/bart-simulator/, bart-simulator, 0.2.1, Send event views to Google Analytics and Generator customers or products, 2020-11-07T23:38:56+0000
+/project/faderport/, faderport, 1.0.1, An abstract class to interface with a Presonus FaderPort., 2018-05-13T12:27:37+0000
+/project/axopy/, axopy, 0.2.3, Human-computer interface experimentation library, 2019-02-12T06:39:29+0000
+/project/pymodaq-plugins/, pymodaq-plugins, 3.1.1, Set of base PyMoDAQ plugins including Mock ones for development, 2021-03-23T16:45:33+0000
+/project/coronacaster/, Coronacaster, 0.2.0, Probabilistic Programming Forecasting for COVID-19 Cases, 2020-11-23T20:16:27+0000
+/project/midas/, midas, 0.4.3, Python driver for Honeywell Midas gas detectors., 2021-03-30T13:01:28+0000
+/project/pymodaq-plugins-picoquant/, pymodaq-plugins-picoquant, 0.0.2, Set of PyMoDAQ plugins for Picoquant instruments (TimeHarp260, ...), 2021-02-10T22:44:45+0000
+/project/fugue-icons/, fugue-icons, 3.5.6, Fugue Icons packaged for simple use in web apps., 2013-03-29T12:48:38+0000
+/project/deepspeech-gpu/, deepspeech-gpu, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:23:02+0000
+/project/pyniryo/, pyniryo, 1.0.4, Package to control Niryo Robot "Ned" through TCP, 2021-02-10T11:15:18+0000
+/project/cocopy/, CocoPy, 1.1.0rc, Python implementation of the famous CoCo/R LL(k) compiler generator., 2007-12-20T00:27:07+0000
+/project/watlow/, watlow, 0.2.5, Python driver for Watlow EZ-Zone temperature controllers., 2021-03-30T12:55:53+0000
+/project/radiant/, radiant, 3.2.2, Brython Framework, 2021-04-23T17:05:26+0000
+/project/pipilot/, PiPilot, 0.0.1, A software aircraft controller for RaspberryPi, 2018-03-12T19:52:26+0000
+/project/cpgw/, cpgw, 1.7.0, Cooper Gateway, 2020-12-18T18:37:27+0000
+/project/ukervi/, ukervi, 0.21.5,  This is a upython version of the Kervi framework. , 2019-11-05T22:15:48+0000
+/project/pymathics-natlang/, pymathics-natlang, 1.1.0, , 2020-12-22T17:50:35+0000
+/project/coloredlogs/, coloredlogs, 15.0, Colored terminal output for Python's logging module, 2020-12-10T13:10:51+0000
+/project/sherlok/, sherlok, 0.1.6, A Python client for Sherlok, 2015-11-17T13:50:06+0000
+/project/sartorius/, sartorius, 0.1.1, Python driver for Sartorius and Minebea Intec scales., 2020-05-26T18:40:33+0000
+/project/pymodaq-plugins-orsay/, pymodaq-plugins-orsay, 0.0.1, Hardware plugins for PyMoDAQ using the NiDAQmx framework (pydaqmx wrapper), 2020-11-05T15:01:15+0000
+/project/jgtextrank/, jgtextrank, 0.1.6, Yet another Python implementation of TextRank: package for the creation, manipulation, and study of TextRank algorithm based keywords extraction and summarisation, 2019-11-27T11:51:43+0000
+/project/cpmixer/, cpmixer, 0.8.1, Cross-platform module for controlling audio mixers, 2019-11-21T02:27:20+0000
+/project/audiomate/, audiomate, 6.0.0, Audiomate is a library for working with audio datasets., 2020-08-03T09:26:51+0000
+/project/pymodaq-plugins-thorlabs/, pymodaq-plugins-thorlabs, 0.0.2, Set of PyMoDAQ plugins for instruments from Thorlabs (Kinesis K10CR1 (stepper rotation actuator), Kinesis Flipper, Kinesis KSP100...), 2021-02-10T22:24:48+0000
+/project/personis/, personis, 0.933, Peronis user model library, 2012-10-19T15:00:22+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/rowordnet/, rowordnet, 1.1.0, Python API for the Romanian WordNet, 2020-08-06T10:47:09+0000
+/project/semantic/, semantic, 1.0.3, Common Natural Language Processing Tasks for Python, 2014-05-10T18:53:41+0000
+/project/mebo/, mebo, 0.1.0b1, Simple python interface to control the mebo toy robot, 2019-01-06T15:47:04+0000
+/project/pywinusb/, pywinusb, 0.4.2, A package that simplifies USB/HID communications on windows, 2016-12-12T04:32:54+0000
+/project/pytelemetry/, pytelemetry, 1.1.9, First class data visualization and communication with embedded devices, 2016-03-20T18:23:23+0000
+/project/hyperparameter-hunter/, hyperparameter-hunter, 3.0.0, Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries, 2019-08-06T08:52:20+0000
+/project/dedomena/, Dedomena, 0.0.5, A unified Data API for deep learning and data science, 2019-03-08T09:45:00+0000
+/project/mariocli/, mariocli, 0.0.1, Another package management tool; works well with endpointer., 2017-11-11T11:26:30+0000
+/project/django-bob/, django-bob, 1.12.0, A set of helper tags and templates for using bootstrap in django., 2015-04-23T09:45:52+0000
+/project/instruction-graph/, instruction-graph, 0.2.23, An implementation of Transferable Augmented Instruction Graph, 2018-06-14T20:53:15+0000
+/project/gamify/, gamify, 0.0.3, Gamified Deep Learning, 2019-08-25T10:41:14+0000
+/project/word2number/, word2number, 1.1, Convert number words eg. three hundred and forty two to numbers (342)., 2017-06-02T15:45:14+0000
+/project/cmctl/, cmctl, 1.0.6, Conductometer Control Tool, 2018-12-08T15:42:07+0000
+/project/units-converter/, units-converter, 0.0.1, Wave units converter, 2020-06-30T14:59:23+0000
+/project/perception-engineers-toolbox/, Perception-Engineers-Toolbox, 0.2.3, A toolbox for eye-tracking data processing and analysis, 2020-11-11T08:39:06+0000
+/project/huber/, huber, 0.3.2, Python driver for Huber recirculating baths., 2020-05-26T19:41:02+0000
+/project/athenavoice/, AthenaVoice, 1.0.0b1, Your personal voice assistant, 2016-02-04T00:32:17+0000
+/project/olimex-ekg-emg/, olimex-ekg-emg, 0.2.1, A package for gathering data from the Olimex EKG/EMG Shield., 2017-05-04T03:25:18+0000
+/project/gcpds/, gcpds, 0.1a1, , 2021-03-25T16:21:54+0000
+/project/pycantonese/, pycantonese, 3.2.3, PyCantonese: Cantonese Linguistics and NLP in Python, 2021-04-12T13:59:39+0000
+/project/tokenregex/, tokenregex, 0.1.14, NLP at your fingertips, 2016-11-07T21:44:17+0000
+/project/nbtransom/, nbtransom, 1.0.1, Machines and people collaborating together through Jupyter notebooks., 2017-06-25T18:03:22+0000
+/project/gcpds-filters/, gcpds-filters, 0.1a0, , 2021-03-24T17:03:09+0000
+/project/discodoc/, discodoc, 0.3.0, discodoc - create documents from Discourse content easily, 2019-08-13T02:30:27+0000
+/project/livedesktop/, livedesktop, 0.1.0, Bring your desktop wallpaper alive!, 2012-10-15T12:34:00+0000
+/project/koshort/, koshort, 0.4.1.7, koshort is a Python package for Korean internet spoken language crawling and processing... or maybe Korean domestic cat., 2018-06-09T08:41:32+0000
+/project/terkin-micropython-libraries/, terkin-micropython-libraries, 0.10.0, Terkin MicroPython runtime libraries, 2020-05-22T00:10:27+0000
+/project/easy-button/, easy-button, 1.0.0, Easily create interactible button objects in PyGame with just a few short lines of code., 2021-01-01T04:45:02+0000
+/project/colonel/, colonel, 2.0.1, A Python 3 library for handling CoNLL data formats, 2018-10-24T18:18:10+0000
+/project/talos/, talos, 1.0, Talos Hyperparameter Tuning for Keras, 2020-11-09T16:49:08+0000
+/project/pymodaq-plugins-amplitude/, pymodaq-plugins-amplitude, 0.0.2, Set of PyMoDAQ plugins for Amplitude Systems Lasers, 2021-02-10T20:43:21+0000
+/project/pyrgg/, pyrgg, 1.0, Python Random Graph Generator, 2021-01-11T16:16:53+0000
+/project/csvwlib/, csvwlib, 0.3.2, Python implementation of CSV on the Web, 2021-02-04T12:45:26+0000
+/project/ahio/, ahio, 1.0.25, I/O Communication Library, 2019-05-31T13:58:20+0000
+/project/fixationmodel/, fixationmodel, 0.1.3, A least-squares offline method to test if tracked gaze points resemble a fixation, 2015-12-09T12:39:19+0000
+/project/grafana-pandas-datasource/, grafana-pandas-datasource, 0.1.2, Serve Pandas dataframes to Grafana, 2020-12-27T10:19:06+0000
+/project/pyrealsense2/, pyrealsense2, 2.44.0.3073, Python Wrapper for Intel Realsense SDK 2.0., 2021-04-05T21:48:59+0000
+/project/wikimapper/, wikimapper, 0.1.5, Mapping Wikidata and Wikipedia entities to each other, 2019-04-26T13:34:51+0000
+/project/being/, being, 0.0.0, Robotic core for the PATHOS project., 2020-11-19T10:59:23+0000
+/project/kindred/, kindred, 2.7.8, A relation extraction toolkit for biomedical text mining, 2021-03-05T18:43:55+0000
+/project/wireviz-web/, wireviz-web, 0.2.0, A wrapper around WireViz for bringing it to the web. Easily document cables and wiring harnesses., 2021-01-11T15:07:03+0000
+/project/zodiac-sutime/, zodiac-sutime, 1.0.0, A Python wrapper for Stanford CoreNLP's SUTime, 2020-07-09T15:46:13+0000
+/project/beeactions/, beeactions, 1.0, Bee Behaviour Temporal Analysis, 2020-03-13T14:48:01+0000
+/project/eunjeon/, eunjeon, 0.4.0, Python interface for eunjeon project & mecab based morphological analyzer., 2019-01-17T00:42:22+0000
+/project/explainer/, explainer, 0.0.2dev, The first unified explainability toolkit for explainable software and hardware systems., 2019-01-24T23:56:17+0000
+/project/pymt/, PyMT, 0.5.1, A framework for making accelerated multitouch UI, 2010-09-06T21:04:31+0000
+/project/fastex/, fastex, 0.0.2, Python-based tool to quickly view data, 2018-06-01T18:59:00+0000
+/project/voicecom/, VoiceCom, 0.0.2rc2, An open source Voice-User-Interface (VUI), 2015-06-01T22:48:08+0000
+/project/katex/, katex, 0.0.4, Convert an image into KaTeX to use in Facebook Messenger, 2018-09-29T22:02:53+0000
+/project/kotori/, kotori, 0.26.6, Kotori is a data acquisition, processing and graphing toolkit for humans, 2021-02-17T14:53:25+0000
+/project/nifpga/, nifpga, 20.0.0, Python API for interacting with National Instrument's LabVIEW FPGA Devices, 2020-05-18T19:24:46+0000
+/project/polyscience/, polyscience, 0.1.16, Python driver for Polyscience circulating baths., 2019-02-10T01:44:04+0000
+/project/pymodaq-femto/, pymodaq-femto, 0.0.1, PyMoDAQ extension for femtosecond laser pulse characterization, 2021-03-18T20:20:25+0000
+/project/crowdtruth/, CrowdTruth, 2.1, Disagreement based metrics for the processing and evaluation of crowdsourced annotations, 2018-10-05T10:52:55+0000
+/project/phrasetree/, phrasetree, 0.0.8, Phrase Tree from Natural Language Toolkit, 2021-03-05T16:53:28+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/cpctl/, cpctl, 1.8.0, Cooper Control Tool, 2020-06-18T08:50:11+0000
+/project/tendril-framework/, tendril-framework, 0.1.0, An open-ended framework for handling information, to aid development, management, and production cycles, 2017-03-19T20:05:22+0000
+/project/deepspeech/, deepspeech, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:22:09+0000
+/project/tinkle/, tinkle, 0.0.1, Data Simplified, 2018-05-04T06:25:56+0000
+/project/agcli/, agcli, 1.5.1, A GUI that helps building instructions for the CLI, 2020-02-20T10:33:02+0000
+/project/arus/, arus, 1.1.22, Activity Recognition with Ubiquitous Sensing, 2021-02-04T00:09:46+0000
+/project/spnav/, spnav, 0.9, ctypes wrapper around libspnav, a client for reading events from a Space Navigator 3D mouse, 2011-09-16T15:41:14+0000
+/project/entropies/, entropies, 0.2, , 2020-07-26T03:47:23+0000
+/project/icusim/, ICUSIM, 0.2.0, Intensive Care Unit (ICU) Simulation, 2020-04-13T13:27:43+0000
+/project/pulr/, pulr, 0.1.8, Industrial protocols data puller, 2020-09-03T22:54:54+0000
+/project/textdistance/, textdistance, 4.2.1, Compute distance between the two texts., 2021-01-29T09:03:27+0000
+/project/wizardhat/, WizardHat, 0.2.1, Real-time processing and plotting of data streamed over LSL, with a focus on student-led BCI projects., 2018-11-19T22:13:22+0000
+/project/pysine/, pysine, 0.9.2, Allows to play single tones on the PyAudio sound output in real time, 2017-08-28T15:29:33+0000
+/project/openallure/, openallure, 0.1d17, Voice-and-vision enabled dialog system, 2010-05-13T04:57:41+0000
+/project/luis/, luis, 2.0.2, A Python interface to Microsoft LUIS., 2017-07-20T20:38:22+0000
+/project/butter-mas-api/, butter.mas-api, 0.13.2, Python Client API for Butter MAS platform, 2021-04-19T13:56:33+0000
+/project/bci-framework/, bci-framework, 1.0.dev7, A real-time tool for acquisition, analysis and stimuli delivery for OpenBCI., 2021-04-21T17:33:27+0000
+/project/pymodaq-pid-models/, pymodaq-pid-models, 0.0.4, PID models to use with PyMoDAQ, 2020-11-12T12:02:01+0000
+/project/pyforms-gui/, PyForms-GUI, 4.904.152, Pyforms is a Python framework to develop GUI applications based on pyqt, 2019-08-19T15:33:29+0000
+/project/instrumess/, instrumess, 0.2.0, Instrument drivers for PhDs in Photonics, 2020-02-25T15:43:41+0000
+/project/musestudio/, musestudio, 0.1.0, Import Muse recordings. Convert data to MNE and Pandas. View brain data in real time., 2021-02-26T09:55:54+0000
+/project/kervi-core/, kervi-core, 0.21.5,  Core components for the Kervi framework. , 2019-11-05T22:15:11+0000
+/project/arus-stream-metawear/, arus-stream-metawear, 1.0.4, arus plugin that helps creating stream for metawear devices, 2019-11-02T21:19:36+0000
+/project/thinkgear/, thinkgear, 0.2, thinkgear parses the ThinkGear protocol used by NeuroSky MindSet devices, 2009-10-15T22:54:22+0000
+/project/africanwordnet/, africanwordnet, 0.0.1, A library for African WordNet., 2020-11-25T16:46:54+0000
+/project/heyathena/, HeyAthena, 1.3.2, Your personal voice assistant, 2016-12-21T20:48:02+0000
+/project/pyrpl/, pyrpl, 0.9.3.6, DSP servo controller for quantum optics with the RedPitaya, 2017-08-29T15:02:59+0000
+/project/crowdtruth-fork/, crowdtruth-fork, 2.1.1, Disagreement based metrics for the processing and evaluation of crowdsourced annotations, 2021-04-14T05:55:31+0000
+/project/semi-ate/, Semi-ATE, 0.1.24, Framework for Semiconductor ATE testing projects, 2021-03-31T07:53:54+0000
+/project/pyosc/, pyOSC, 0.3.5b-5294, Simple OpenSoundControl module in Pure Python, 2008-08-14T15:08:07+0000
+/project/imhr/, imhr, 0.3.37, imhr: psychology and data science suite., 2019-06-02T22:15:17+0000
+/project/mozilla-voice-stt-tflite/, mozilla-voice-stt-tflite, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:03:47+0000
+/project/pyvad/, pyvad, 0.1.3, py-webrtcvad wrapper for trimming speech clips, 2021-01-17T00:05:58+0000
+/project/free/, free, 0.0.2, Free yourself from CAPTCHAs!, 2017-07-20T18:07:13+0000
+/project/alicat/, alicat, 0.2.10, Python driver for Alicat mass flow controllers., 2020-05-26T20:02:54+0000
+/project/pymodaq-plugins-piezoconcept/, pymodaq-plugins-piezoconcept, 0.0.3, Set of PyMoDAQ plugins for Actuators from Piezoconcept (Tested on the Bio200 XY stage. Include a version of the controller firmware emulating functions from PhysikInstrumente), 2021-02-11T20:03:33+0000
+/project/pyprofibus/, pyprofibus, 1.8, Python PROFIBUS module, 2020-09-13T08:22:05+0000
+/project/hafrenhaver/, HafrenHaver, 1.0.277, Goes on and on about the River Severn, 2021-02-10T03:47:37+0000
+/project/equilid/, Equilid, 1.0.1, Socially-Eqiutable Language Identification, 2017-07-31T18:19:10+0000
+/project/mfc/, mfc, 0.3.3, Python driver for MKS mass flow controllers., 2020-01-20T19:18:11+0000
+/project/nskipgrams/, nskipgrams, 0.3.0, A lightweight Python package to work with ngrams and skipgrams, 2021-03-29T03:51:09+0000
+/project/threeflex/, threeflex, 0.1.1, Python driver for Micromeritics 3Flex surface characterization analyzers., 2015-03-26T21:35:11+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/stt-gpu/, STT-gpu, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:28:53+0000
+/project/brooks-mfc/, brooks-mfc, 0.1.4, Python driver for Brooks Instrument mass flow controllers, 2020-07-30T22:08:12+0000
+/project/pymodaq-plugins-femto/, pymodaq-plugins-femto, 0.0.2, Plugin to simulate acquisition from ultrashort pulse measurement device based on the pypret package, 2021-03-18T20:18:09+0000
+/project/clickplc/, clickplc, 0.3.3, Python driver for Koyo Ethernet ClickPLCs., 2021-03-30T13:00:46+0000
+/project/liesl/, liesl, 0.3.4.8, Toolbox to receive and process LSL streams and handle XDF files., 2021-02-23T15:20:53+0000
+/project/apicast/, apicast, 0.8.3, Python client and HTTP service to access bee flight forecast information published by Deutscher Wetterdienst (DWD), the federal meteorological service in Germany., 2021-03-05T22:35:55+0000
+/project/wetterdienst/, wetterdienst, 0.17.0, Open weather data for humans, 2021-04-08T21:29:20+0000
+/project/tokenquery/, tokenquery, 0.1.1, Tokenquery - query language for tokens , 2017-01-31T00:59:56+0000
+/project/pyactcv/, pyactcv, 0.0.3, Combine the Cognitive Architecture ACT-R with user data, 2020-12-25T16:01:59+0000
+/project/a2d-diary/, a2d_diary, 0.1.5, A2D-Diary web app. Create and encode paper diaries automatically, 2017-11-11T17:37:39+0000
+/project/pyactms/, pyactms, 0.0.2, Enable mental simulation of multiple cognitive models within the Cognitive Architecture ACT-R, 2020-12-25T16:05:04+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/pymodaq-plugins-physik-instrumente/, pymodaq-plugins-physik-instrumente, 0.0.2, Set of PyMoDAQ plugins for Actuators from Physik Instumente (All the ones compatible with the GCS2 commands as well as the old 32bits MMC controller...), 2021-02-10T22:41:20+0000
+/project/speech/, speech, 0.5.2, A clean interface to Windows speech recognition and text-to-speech capabilities., 2009-02-27T14:32:06+0000
+/project/linguistica/, linguistica, 5.2.1, Linguistica 5: Unsupervised Learning of Linguistic Structure, 2018-10-12T13:15:51+0000
+/project/apiai-assistant/, apiai_assistant, 0.1.2, Create API.ai agents in a heartbeat, 2017-10-30T11:33:41+0000
+/project/pyivi/, pyivi, 0.0.8, Control of data acquisition with remote instruments using 
+    IVI-C or IVI-COM, Visa, and serial protocols., 2013-10-05T09:28:32+0000
+/project/camxes/, camxes, 0.2, Python interface to camxes., 2011-03-31T21:54:40+0000
+/project/mushu/, Mushu, 0.2, Brain Computer Interfacing signal acquisition software., 2014-05-20T15:44:33+0000
+/project/poio-api/, poio-api, 0.3.6, A Python Library to access and manipulate linguistically annotated corpus files., 2014-07-28T08:24:39+0000
+/project/nb-mermaid/, nb-mermaid, 0.1.0, Mermaid diagrams in the IPython Notebook, 2015-07-28T00:42:12+0000
+/project/kivycupertino/, kivycupertino, 0.0.1a0, iOS style widgets for Kivy, 2021-03-16T01:39:08+0000
+/project/konltk/, KoNLTK, 0.0.1, Korean Natural Language Toolkit, 2018-04-17T13:10:48+0000
+/project/pyinfluxql/, pyinfluxql, 0.1.3, A query generator for the SQL dialect of the Influx Query Language (InfluxQL), 2021-02-14T15:24:48+0000
+/project/pyinstruments/, pyinstruments, 0.4.5, Control of data acquisition with remote instruments using 
+    IVI-C or IVI-COM, Visa, and serial protocols., 2013-12-18T15:09:53+0000
+/project/pymodaq-plugin-manager/, pymodaq-plugin-manager, 0.0.13, Manager and interface to list, install or remove PyMoDAQ's plugins, 2021-03-18T12:43:00+0000
+/project/nudged/, nudged, 0.3.1, Estimate scale, rotation, and translation between two sets of 2D points e.g. for multi-touch gestures or calibration, 2016-02-26T18:07:41+0000
+/project/baratron/, baratron, 0.2.0, Python driver for MKS eBaratron capacitance manometers., 2019-09-03T14:51:31+0000
+/project/wordseg/, wordseg, 0.0.2, Word segmentation models, 2020-10-12T02:30:11+0000
+/project/zapf/, zapf, 0.1.0, Client library for the PILS specification, 2021-04-23T11:08:11+0000
+/project/c5py/, c5py, 0.3.4, Analysis and visualization tools for the Augmented Reality-based Corpus (ARbC). This corpus has been created in the research project 'Alignment in AR-based cooperation' which was a part of the Collaborative Research Centre 'Alignment in Communication' (CRC 673) under the project code C5., 2020-12-19T12:46:21+0000
+/project/kglab/, kglab, 0.3.0, A simple abstraction layer in Python for building knowledge graphs, 2021-04-24T07:19:23+0000
+/project/moirai/, moirai, 1.3.18, Digital Control Manager Backend, 2020-07-29T21:13:47+0000
+/project/booleano/, booleano, 1.1a2, Boolean Expressions Interpreter, 2018-04-20T08:23:18+0000
+/project/uncrumpled-kivy/, uncrumpled_kivy, 1.9.2.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2017-04-15T08:41:16+0000
+/project/blueair/, blueair, 1.0.0, Unofficial Python client for BlueAir air purifiers, 2020-12-21T13:11:15+0000
+/project/instamatic/, instamatic, 1.6.1, Python program for automated electron diffraction data collection, 2021-04-01T07:52:53+0000
+/project/pylangacq/, pylangacq, 0.13.1, PyLangAcq: Language Acquisition Research in Python, 2021-03-23T17:35:21+0000
+/project/webrtcvad-wheels/, webrtcvad-wheels, 2.0.10.post2, Python interface to the Google WebRTC Voice Activity Detector (VAD) [released with binary wheels!], 2020-01-31T11:58:46+0000
+/project/kervi/, kervi, 0.21.5,  A python framework for creating robotic and automation applications on Raspbery pi (and other platforms). UI is web based and generated on the fly based on configuration in python code. , 2019-11-05T22:15:16+0000
+/project/pyrealsense2-aarch64/, pyrealsense2-aarch64, 2.23.0, Python Wrapper for Intel Realsense SDK 2.0., 2019-06-27T08:10:09+0000
+/project/webrtcvad/, webrtcvad, 2.0.10, Python interface to the Google WebRTC Voice Activity Detector (VAD), 2017-01-07T23:05:18+0000
+/project/wrangle/, wrangle, 0.6.7, Wrangle - Data Preparation for Deep Learning, 2019-08-12T20:04:01+0000
+/project/terkin/, terkin, 0.10.0, A flexible data logger for MicroPython and CPython, 2020-05-22T00:10:29+0000
+/project/hpitclient/, hpitclient, 0.36, Python Client Libraries for HPIT., 2014-11-13T15:37:57+0000
+/project/productivity/, productivity, 0.4.4, Python driver for AutomationDirect Productivity Series PLCs., 2021-03-30T12:57:42+0000
+/project/erajs/, erajs, 0.1.0.181116.3, A game script engine for Era.js., 2018-11-15T08:01:10+0000
+/project/gcpds-utils/, gcpds-utils, 0.1a2, , 2020-10-15T21:57:30+0000
+/project/colouredlogs/, colouredlogs, 10.0.1, Coloured terminal output for Python's logging module, 2019-07-13T20:17:45+0000
+/project/udar/, udar, 0.1.8, Detailed part-of-speech tagger for (accented) Russian., 2021-04-22T22:55:04+0000
+/project/pymodaq-plugins-andor/, pymodaq-plugins-andor, 0.0.2, Set of PyMoDAQ plugins for Andor Camera (CCD camera using SDK2, SCMOS cameras using SDK3...), 2021-02-10T21:21:49+0000
+/project/wav2bin/, wav2bin, 1.3, Program to be used concurrently with Dennis Kodimer's CEC 222 lab., 2018-02-13T06:29:38+0000
+/project/openbci-stream/, openbci-stream, 1.0.0rc18, High level Python module for EEG/EMG/ECG acquisition and distributed streaming for OpenBCI Cyton board., 2021-04-21T17:30:36+0000
+/project/pytextrank/, pytextrank, 3.1.1, Python implementation of TextRank as a spaCy pipeline extension, for graph-based natural language work plus related knowledge graph practices; used for for phrase extraction and lightweight extractive summarization of text documents., 2021-03-25T19:46:28+0000
+/project/crslab/, crslab, 0.1.2.0, An Open-Source Toolkit for Building Conversational Recommender System(CRS), 2021-03-28T13:19:26+0000
+/project/pymensor/, pymensor, 0.0.2, Python driver for Mensor Modular Pressure Controllers., 2020-01-13T03:41:24+0000
+/project/quepy/, quepy, 0.2, A framework to convert natural language to database queries., 2013-09-10T18:02:23+0000
+/project/openxr/, openxr, 0.0.5, OpenXR bindings for Python., 2020-07-16T05:33:00+0000
+/project/pybridge/, pybridge, 1.0.1, Bridge for Python (Bridge is a light-weight portable Natural Language Processing Library), 2015-07-29T10:40:41+0000
+/project/pymodaq-spectro/, pymodaq-spectro, 1.0.0, Spectrometer Interface using PyMoDAQ, 2020-06-25T14:47:29+0000
+/project/pyopencv/, pyopencv, 2.1.0.wr1.2.0, PyOpenCV - A Python wrapper for OpenCV 2.x using Boost.Python and NumPy, 2010-09-25T15:47:59+0000
+/project/eyekit/, eyekit, 0.3.12, A Python package for analyzing reading behavior using eyetracking data, 2021-04-09T11:42:53+0000
+/project/pycocoa/, PyCocoa, 20.12.10, Basic Python binding to macOS' Objective-C Cocoa, 2020-12-08T19:46:10+0000
+/project/spmflex/, spmflex, 0.1.1, Python driver for Honeywell SPM Flex gas dectectors., 2019-06-07T21:33:04+0000
+/project/yalign/, yalign, 0.1.1, A tool to align comparable corpora, 2013-09-16T19:36:47+0000
+/project/kivymd-extensions-sweetalert/, kivymd-extensions.sweetalert, 0.1.5, Beautiful, responsive, customizable and accessible popup replacement, 2020-11-23T08:34:34+0000
+/project/eyetracker/, EyeTracker, 1.0.1, Python Eye Tracking & Recording Software, 2016-02-17T21:24:36+0000
+/project/zorb/, zorb, 0.1.5, Python SDK for the Zorb Engine, 2018-05-22T23:21:37+0000
+/project/signs/, signs, 0.3.1, Signs Text Processing for Deep Learning, 2020-07-22T12:37:39+0000
+/project/kivymd-extensions/, kivymd-extensions, 1.0.0, Additional packages for KivyMD library, 2020-11-01T08:53:17+0000
+/project/cocorpy27/, CocoRPy27, 1.4.1, Python implementation of the famous CoCo/R LL(k) compiler generator ported to Python., 2012-03-08T22:12:42+0000
+/project/paperstream/, paperstream, 1.1.0, PaperStream web app. Create and encode paper diaries or surveys automatically, 2018-06-02T20:04:35+0000
+/project/visionegg/, visionegg, 1.2.1, 2D/3D visual stimulus generation, 2009-07-21T10:41:59+0000
+/project/flirptu/, flirptu, 0.0.1a2, Controller for FLIR E-series pan-tilt units, 2018-06-27T18:36:13+0000
+/project/deep-disfluency/, deep-disfluency, 0.0.1, Deep Learning systems for training and testing disfluency detection and related tasks on speech data., 2018-09-22T21:14:13+0000
+/project/pymodaq-plugins-daqmx/, pymodaq-plugins-daqmx, 0.0.3, Hardware plugins for PyMoDAQ using the NiDAQmx framework (pydaqmx wrapper), 2021-02-10T21:46:36+0000
+/project/imagecast/, imagecast, 0.4.0, Imagecast is like ImageMagick but for Pythonistas. Optionally provides its features via HTTP API., 2021-03-06T12:00:21+0000
+/project/kickstart-avs/, kickstart-avs, 0.2.2, automate avs launch on raspberry pi, 2017-08-18T05:12:26+0000
+/project/kivy-jetson/, Kivy-jetson, 2.1.0.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2021-02-17T16:47:10+0000
+/project/pyphony/, pyphony, 0.1.0, pyphony is a library to handle lexica for ASR., 2020-01-03T22:12:22+0000
+/project/pymodaq-plugins-physical-measurements/, pymodaq-plugins-physical-measurements, 0.0.4, Set of PyMoDAQ plugins for various physical measurements: multimeter, lockin, oscilloscope, indus cameras..., 2021-02-10T22:19:56+0000
+/project/simplui/, simplui, 1.0.4, Light-weight GUI toolkit for pyglet, 2009-08-17T18:48:03+0000
+/project/dwdweather2/, dwdweather2, 0.14.0, Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany., 2020-07-03T12:51:14+0000
+/project/simple-nltk/, simple-nltk, 3.5, a simple version of the NLTK, 2021-01-25T05:40:18+0000
+/project/terrarium-capp/, terrarium-capp, 0.1.6, Adaptive Computer Aided Process Planner, 2019-11-20T16:29:20+0000
+/project/naturalsort/, naturalsort, 1.5.1, Simple natural order sorting API for Python, 2015-11-02T19:14:58+0000
+/project/pymodaq-plugins-horiba/, pymodaq-plugins-horiba, 0.0.2, Set of PyMoDAQ plugins for Horiba Instruments (Lapspec6TCP to communicate with labspec softaware using the AFM TCP/IP protocol), 2021-02-10T22:37:28+0000
+/project/virtualreality/, virtualreality, 0.1.2, python side of hobo_vr, 2020-11-19T09:50:36+0000
+/project/pyeeglab/, PyEEGLab, 0.10.0, Analyze and manipulate EEG data using PyEEGLab, 2020-09-28T15:51:56+0000
+/project/spoteno/, spoteno, 0.1.1, spoteno is a library for spoken text normalization for ASR, 2020-01-20T13:01:36+0000
+/project/pymodaq/, pymodaq, 3.1.2, Modular Data Acquisition with Python, 2021-04-15T19:36:19+0000
+/project/pystempel/, pystempel, 1.2.0, Polish stemmer., 2020-10-29T16:19:55+0000
+/project/pmk/, pmk, 0.43.4, An experiment control system for reproducible research., 2020-11-07T17:28:47+0000
+/project/botium/, botium, 1.0.1, ChatBot Building Framework for Python, 2018-03-10T15:40:58+0000
+/project/pymodaq-plugins-smaract/, pymodaq-plugins-smaract, 0.0.3, Set of PyMoDAQ plugins for linear actuators from Smaract(SLC positioners). MCS and MCS2 controllers are supported., 2021-04-23T09:25:55+0000
+/project/amfm-decompy/, AMFM-decompy, 1.0.11, Package containing the tools necessary for decomposing a speech signal into its modulated components, aka AM-FM decomposition., 2021-01-23T19:23:18+0000
+/project/ipapy/, ipapy, 0.0.9.0, ipapy is a Python module to work with IPA strings, 2019-05-05T22:27:35+0000
+/project/cp2azure/, cp2azure, 1.4.0, COOPER to Azure IoT Hub, 2020-12-19T15:12:21+0000
+/project/matrixdriver/, matrixdriver, 0.9.0, Driver for the 8x8 RPI-RGB-LED-Matrix based on the 74HC595 chip., 2017-09-10T12:26:39+0000
+/project/zettelkasten/, zettelkasten, 0.2.3, CLI interface for managing a folder based zettelkasten using emacs org-mode file zettels and a bibtex reference system, 2021-03-09T09:05:48+0000
+/project/boing/, boing, 0.3.1, Boing is a toolkit designed to support the development of multi-touchand gesture enabled applications.It enables to create pipelines for connecting different input sources tomultiple target destinations (e.g. applications, logs, etc.)  andeventually process the data before being dispatched., 2012-09-19T08:45:07+0000
+/project/dkpro-cassis/, dkpro-cassis, 0.5.2, UIMA CAS processing library in Python, 2021-04-12T13:46:10+0000
+/project/ipytangle/, ipytangle, 0.4.0, Tangle reactive documents in the IPython Notebook, 2015-06-10T04:35:17+0000
+/project/emily/, emily, 1.0.8, A highly customizable chatbot implemented in Python., 2017-04-29T16:40:51+0000
+/project/mozilla-voice-stt/, mozilla-voice-stt, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:03:35+0000
+/project/kivymd-extensions-filemanager/, kivymd-extensions.filemanager, 0.1.5, File manager for desktop, 2020-11-09T16:48:39+0000
+/project/graf-python/, graf-python, 0.3.1, Python implementation of the Graph Annotation Framework (GrAF), 2014-07-28T08:18:09+0000
+/project/vasuki/, vasuki, 0.3.2, Vasuki generates different kinds of random unique identifiers, tokens and words, 2019-07-04T08:52:36+0000
+/project/figurestream/, figurestream, 1.2.3, A Matplotlib.Figure fork with real-time plot streaming features., 2021-04-21T17:29:08+0000
+/project/pycomm3/, pycomm3, 1.1.1, A Python Ethernet/IP library for communicating with Allen-Bradley PLCs., 2021-04-16T12:55:12+0000
+/project/qdollar/, qdollar, 0.0.2, qdollar is the Python Implementation of $Q Super-Quick Recognizer, 2019-07-11T18:21:14+0000
+/project/deepspeech-tflite/, deepspeech-tflite, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:22:24+0000
+/project/asmo/, ASMO, 0.4, Attentive Self-Modifying Cognitive Architecture, 2016-03-18T04:03:46+0000
+/project/reiz/, Reiz, 3.5.1, A Python toolbox for visual and auditory stimulation based on pyglet and pylsl., 2020-02-25T14:17:34+0000
+/project/chatty/, Chatty, 0.2, A multi-platform chat bot framework, 2018-05-31T01:29:39+0000
+/project/milc/, milc, 1.3.0, Opinionated Batteries-Included Python 3 CLI Framework., 2021-03-28T16:42:19+0000
+/project/watson-streaming/, watson-streaming, 0.0.13, Speech to text transcription in real-time using IBM Watson, 2020-06-01T17:20:53+0000
+/project/sasa/, sasa, 0.2.0, SAIL/AIL Sentiment Analyzer, 2019-04-09T21:20:38+0000
+/project/wyrm/, Wyrm, 1.1.0, Toolbox for Brain Computer Interfacing Experiments., 2015-07-09T12:51:15+0000
+/project/nixtla/, nixtla, 5.3.7, Formulae-based annotation for Sign Language corpora, 2014-11-28T16:04:16+0000
+/project/regex4dummies/, regex4dummies, 1.4.6, A NLP library that simplifies pattern finding in strings, 2015-12-25T23:11:42+0000
+/project/pycm/, pycm, 3.1, Multi-class confusion matrix library in Python, 2021-03-11T15:52:20+0000
+/project/pytelemetrycli/, pytelemetrycli, 1.1.0, command-line interface for data visualization and communication with embedded devices, 2016-03-23T21:07:17+0000
+/project/sutime/, sutime, 1.0.1, A Python wrapper for Stanford CoreNLP's SUTime, 2020-11-03T09:15:00+0000
+/project/dragonfire/, dragonfire, 1.0.0, Dragonfire is an open source virtual assistant project for Ubuntu based Linux distributions, 2018-07-30T00:10:10+0000
+/project/stt/, stt, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:23:39+0000
+/project/endpointer/, endpointer, 0.0.4, A tool for transforming OpenAPI v3 specifications        into endpoint documentation, 2017-10-14T03:30:43+0000
+/project/kivymd/, kivymd, 0.104.1, Set of widgets for Kivy inspired by Google's Material Design, 2020-04-27T20:04:26+0000
+/project/gcpds-entropies/, gcpds-entropies, 0.1a0, , 2020-08-01T23:08:20+0000
+/project/davisinteractive/, davisinteractive, 1.0.4, Evaluation Framework for DAVIS Interactive Segmentation, 2020-04-19T11:54:51+0000
+/project/perke/, perke, 0.3.3, A keyphrase extractor for Persian, 2021-04-11T22:53:22+0000
+/project/kivymd-extensions-akivymd/, kivymd-extensions.akivymd, 1.2.6, A set of fancy widgets for KivyMD, 2021-04-25T19:08:46+0000
+/project/kivymd-extensions-example-extension/, kivymd-extensions.example-extension, 0.1.1, Example extension that adds beautiful button, 2020-11-01T10:35:50+0000
+/project/openbci/, openbci, 0.2.3, Hight level Python module for OpenBCI hardware by GCPDS., 2020-01-22T21:35:58+0000
+/project/vwr/, vwr, 0.1.14, Python driver for VWR circulating baths., 2017-08-09T21:22:18+0000
+/project/musicbutler/, musicbutler, 0.1.7, A robot that receives voice commands to play albums from your MP3 collection, 2008-08-18T20:22:20+0000
+/project/pressagio/, pressagio, 0.1.6, A Python Library for statistical text prediction., 2019-11-15T11:57:18+0000
+/project/modbussharedmemory/, ModbusSharedMemory, 0.1.1, Shared memory concept known from PLC manner implemented over uModbus framework., 2019-05-23T16:09:00+0000
+/project/winspeech/, winspeech, 1.0.1, Speech recognition and synthesis module for Windows - Python 2 and 3., 2016-11-05T07:15:43+0000
+/project/pymodaq-plugins-oceaninsight/, pymodaq-plugins-oceaninsight, 0.0.2, Set of PyMoDAQ plugins for OceanInsight (OceanOptics) spectrometers, 2021-02-10T22:32:33+0000
+/project/editobj3/, Editobj3, 0.1, An automatic dialog box generator for Python objects, supporting multiple graphical backends: Qt, GTK and HTML (single-user or with multiple users)., 2017-09-10T19:38:39+0000
+/project/volux/, volux, 0.9.17, High-level media/entertainment workflow automation platform, 2019-11-23T14:31:49+0000
+/project/pyrho/, PyRhO, 0.9.4, Fit and characterise rhodopsin photocurrents, 2016-03-04T12:34:46+0000
+/project/conreality/, conreality, 0.0.4, Conreality Software Development Kit (SDK) for Python, 2018-10-09T14:42:53+0000
+/project/semantic3/, semantic3, 1.0.2, Common Natural Language Processing Tasks for Python, 2017-06-18T03:46:49+0000
+/project/tripplite/, tripplite, 0.3.0, Python driver for TrippLite UPS battery backups., 2020-10-01T16:06:13+0000
+/project/pyapplesms/, PyAppleSMS, 1.0, Python module for Apple SMS (Sudden Motion Sensor), 2006-08-02T21:51:51+0000
+/project/pymodaq-plugins-newport/, pymodaq-plugins-newport, 0.0.3, Set of PyMoDAQ plugins for instruments from Newport (Conex, ESP100,...), 2021-02-10T22:28:44+0000
+/project/pybotics/, pybotics, 1.0.0, Python Toolbox for Robotics, 2020-08-17T18:36:10+0000
+/project/mozilla-voice-stt-cuda/, mozilla-voice-stt-cuda, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:04:22+0000
+/project/pymodaq-plugins-flim/, pymodaq-plugins-flim, 0.0.2, Set of PyMoDAQ plugins for FLIM Measurements (Fluorescence Lifetime Imaging Microscopy) (using a conjugation of Time-Correlated Single Photon Counting (TSCPC) and xy stages), 2021-02-10T22:10:36+0000
+/project/miot/, miot, 1.0.42, Modular Internet of Things, 2021-04-19T06:34:06+0000
+/project/pyforms-terminal/, PyForms-Terminal, 4.0.10, Pyforms terminal is a software layer, part of the Pyforms main library. This layer implements the execution of a Pyforms application in the terminal., 2019-07-09T16:11:14+0000
+/project/gazelib/, gazelib, 2.1.1, Software tools to manage and analyze data from eye-trackers, 2016-06-14T11:27:46+0000
+/project/pyhardware/, pyhardware, 0.0.12, Control of data acquisition with remote instruments using 
+    IVI-C or IVI-COM, Visa, and serial protocols., 2013-10-05T09:29:12+0000
+/project/hyperio/, hyperio, 0.1.6, Hyperio Hyperparameter Scanner for Keras, 2018-05-07T21:05:25+0000
+/project/nltk2-fixed/, nltk2-fixed, 2.0.6, Natural Language Toolkit, 2018-11-14T11:18:12+0000
+/project/nltk/, nltk, 3.6.2, Natural Language Toolkit, 2021-04-20T07:42:47+0000
+/project/saccademodel/, saccademodel, 0.1.0, A least-squares optimal method to find the saccadic reaction time and the saccade duration from tracked gaze points, 2015-12-09T13:49:17+0000
+/project/eegsynth/, eegsynth, 0.3.1, Converting real-time EEG into sounds, music and visual effects, 2020-04-11T10:48:43+0000
+/project/stt-tflite/, stt-tflite, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:28:52+0000
+/project/gherkan/, gherkan, 0.0.9rc1.dev19, NL to Gherkin format translation tool, 2019-06-20T13:49:03+0000
+/project/richcontext-scholapi/, richcontext-scholapi, 1.2.0, Rich Context API integrations for federating discovery services and metadata exchange across multiple scholarly infrastructure providers, 2020-04-01T21:17:17+0000
+/project/python-gearbox/, python-gearbox, 0.1.2.a.dev, Python library for gear transmission design, 2015-05-03T06:58:30+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/skink/, Skink, 0.7.0, Control the DOM from Python using Websockets, 2014-10-25T14:43:23+0000
+/project/beeactions/, beeactions, 1.0, Bee Behaviour Temporal Analysis, 2020-03-13T14:48:01+0000
+/project/eunjeon/, eunjeon, 0.4.0, Python interface for eunjeon project & mecab based morphological analyzer., 2019-01-17T00:42:22+0000
+/project/explainer/, explainer, 0.0.2dev, The first unified explainability toolkit for explainable software and hardware systems., 2019-01-24T23:56:17+0000
+/project/pymt/, PyMT, 0.5.1, A framework for making accelerated multitouch UI, 2010-09-06T21:04:31+0000
+/project/fastex/, fastex, 0.0.2, Python-based tool to quickly view data, 2018-06-01T18:59:00+0000
+/project/pymodaq-plugins-picoquant/, pymodaq-plugins-picoquant, 0.0.2, Set of PyMoDAQ plugins for Picoquant instruments (TimeHarp260, ...), 2021-02-10T22:44:45+0000
+/project/fugue-icons/, fugue-icons, 3.5.6, Fugue Icons packaged for simple use in web apps., 2013-03-29T12:48:38+0000
+/project/deepspeech-gpu/, deepspeech-gpu, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:23:02+0000
+/project/pyniryo/, pyniryo, 1.0.4, Package to control Niryo Robot "Ned" through TCP, 2021-02-10T11:15:18+0000
+/project/cocopy/, CocoPy, 1.1.0rc, Python implementation of the famous CoCo/R LL(k) compiler generator., 2007-12-20T00:27:07+0000
+/project/watlow/, watlow, 0.2.5, Python driver for Watlow EZ-Zone temperature controllers., 2021-03-30T12:55:53+0000
+/project/radiant/, radiant, 3.2.2, Brython Framework, 2021-04-23T17:05:26+0000
+/project/kotori/, kotori, 0.26.6, Kotori is a data acquisition, processing and graphing toolkit for humans, 2021-02-17T14:53:25+0000
+/project/nifpga/, nifpga, 20.0.0, Python API for interacting with National Instrument's LabVIEW FPGA Devices, 2020-05-18T19:24:46+0000
+/project/polyscience/, polyscience, 0.1.16, Python driver for Polyscience circulating baths., 2019-02-10T01:44:04+0000
+/project/pymodaq-femto/, pymodaq-femto, 0.0.1, PyMoDAQ extension for femtosecond laser pulse characterization, 2021-03-18T20:20:25+0000
+/project/crowdtruth/, CrowdTruth, 2.1, Disagreement based metrics for the processing and evaluation of crowdsourced annotations, 2018-10-05T10:52:55+0000
+/project/phrasetree/, phrasetree, 0.0.8, Phrase Tree from Natural Language Toolkit, 2021-03-05T16:53:28+0000
+/project/sherlok/, sherlok, 0.1.6, A Python client for Sherlok, 2015-11-17T13:50:06+0000
+/project/sartorius/, sartorius, 0.1.1, Python driver for Sartorius and Minebea Intec scales., 2020-05-26T18:40:33+0000
+/project/hyperparameter-hunter/, hyperparameter-hunter, 3.0.0, Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries, 2019-08-06T08:52:20+0000
+/project/dedomena/, Dedomena, 0.0.5, A unified Data API for deep learning and data science, 2019-03-08T09:45:00+0000
+/project/mariocli/, mariocli, 0.0.1, Another package management tool; works well with endpointer., 2017-11-11T11:26:30+0000
+/project/django-bob/, django-bob, 1.12.0, A set of helper tags and templates for using bootstrap in django., 2015-04-23T09:45:52+0000
+/project/instruction-graph/, instruction-graph, 0.2.23, An implementation of Transferable Augmented Instruction Graph, 2018-06-14T20:53:15+0000
+/project/gamify/, gamify, 0.0.3, Gamified Deep Learning, 2019-08-25T10:41:14+0000
+/project/word2number/, word2number, 1.1, Convert number words eg. three hundred and forty two to numbers (342)., 2017-06-02T15:45:14+0000
+/project/cmctl/, cmctl, 1.0.6, Conductometer Control Tool, 2018-12-08T15:42:07+0000
+/project/cpctl/, cpctl, 1.8.0, Cooper Control Tool, 2020-06-18T08:50:11+0000
+/project/tendril-framework/, tendril-framework, 0.1.0, An open-ended framework for handling information, to aid development, management, and production cycles, 2017-03-19T20:05:22+0000
+/project/deepspeech/, deepspeech, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:22:09+0000
+/project/tokenregex/, tokenregex, 0.1.14, NLP at your fingertips, 2016-11-07T21:44:17+0000
+/project/nbtransom/, nbtransom, 1.0.1, Machines and people collaborating together through Jupyter notebooks., 2017-06-25T18:03:22+0000
+/project/butter-mas-api/, butter.mas-api, 0.13.2, Python Client API for Butter MAS platform, 2021-04-19T13:56:33+0000
+/project/bci-framework/, bci-framework, 1.0.dev7, A real-time tool for acquisition, analysis and stimuli delivery for OpenBCI., 2021-04-21T17:33:27+0000
+/project/equilid/, Equilid, 1.0.1, Socially-Eqiutable Language Identification, 2017-07-31T18:19:10+0000
+/project/mfc/, mfc, 0.3.3, Python driver for MKS mass flow controllers., 2020-01-20T19:18:11+0000
+/project/nskipgrams/, nskipgrams, 0.3.0, A lightweight Python package to work with ngrams and skipgrams, 2021-03-29T03:51:09+0000
+/project/pymodaq-pid-models/, pymodaq-pid-models, 0.0.4, PID models to use with PyMoDAQ, 2020-11-12T12:02:01+0000
+/project/pyforms-gui/, PyForms-GUI, 4.904.152, Pyforms is a Python framework to develop GUI applications based on pyqt, 2019-08-19T15:33:29+0000
+/project/instrumess/, instrumess, 0.2.0, Instrument drivers for PhDs in Photonics, 2020-02-25T15:43:41+0000
+/project/gcpds-filters/, gcpds-filters, 0.1a0, , 2021-03-24T17:03:09+0000
+/project/discodoc/, discodoc, 0.3.0, discodoc - create documents from Discourse content easily, 2019-08-13T02:30:27+0000
+/project/livedesktop/, livedesktop, 0.1.0, Bring your desktop wallpaper alive!, 2012-10-15T12:34:00+0000
+/project/koshort/, koshort, 0.4.1.7, koshort is a Python package for Korean internet spoken language crawling and processing... or maybe Korean domestic cat., 2018-06-09T08:41:32+0000
+/project/terkin-micropython-libraries/, terkin-micropython-libraries, 0.10.0, Terkin MicroPython runtime libraries, 2020-05-22T00:10:27+0000
+/project/bart-simulator/, bart-simulator, 0.2.1, Send event views to Google Analytics and Generator customers or products, 2020-11-07T23:38:56+0000
+/project/faderport/, faderport, 1.0.1, An abstract class to interface with a Presonus FaderPort., 2018-05-13T12:27:37+0000
+/project/axopy/, axopy, 0.2.3, Human-computer interface experimentation library, 2019-02-12T06:39:29+0000
+/project/easy-button/, easy-button, 1.0.0, Easily create interactible button objects in PyGame with just a few short lines of code., 2021-01-01T04:45:02+0000
+/project/pymodaq-plugins/, pymodaq-plugins, 3.1.1, Set of base PyMoDAQ plugins including Mock ones for development, 2021-03-23T16:45:33+0000
+/project/coronacaster/, Coronacaster, 0.2.0, Probabilistic Programming Forecasting for COVID-19 Cases, 2020-11-23T20:16:27+0000
+/project/midas/, midas, 0.4.3, Python driver for Honeywell Midas gas detectors., 2021-03-30T13:01:28+0000
+/project/colonel/, colonel, 2.0.1, A Python 3 library for handling CoNLL data formats, 2018-10-24T18:18:10+0000
+/project/talos/, talos, 1.0, Talos Hyperparameter Tuning for Keras, 2020-11-09T16:49:08+0000
+/project/pymodaq-plugins-amplitude/, pymodaq-plugins-amplitude, 0.0.2, Set of PyMoDAQ plugins for Amplitude Systems Lasers, 2021-02-10T20:43:21+0000
+/project/pyrgg/, pyrgg, 1.0, Python Random Graph Generator, 2021-01-11T16:16:53+0000
+/project/csvwlib/, csvwlib, 0.3.2, Python implementation of CSV on the Web, 2021-02-04T12:45:26+0000
+/project/ahio/, ahio, 1.0.25, I/O Communication Library, 2019-05-31T13:58:20+0000
+/project/fixationmodel/, fixationmodel, 0.1.3, A least-squares offline method to test if tracked gaze points resemble a fixation, 2015-12-09T12:39:19+0000
+/project/grafana-pandas-datasource/, grafana-pandas-datasource, 0.1.2, Serve Pandas dataframes to Grafana, 2020-12-27T10:19:06+0000
+/project/pyrealsense2/, pyrealsense2, 2.44.0.3073, Python Wrapper for Intel Realsense SDK 2.0., 2021-04-05T21:48:59+0000
+/project/wikimapper/, wikimapper, 0.1.5, Mapping Wikidata and Wikipedia entities to each other, 2019-04-26T13:34:51+0000
+/project/being/, being, 0.0.0, Robotic core for the PATHOS project., 2020-11-19T10:59:23+0000
+/project/kindred/, kindred, 2.7.8, A relation extraction toolkit for biomedical text mining, 2021-03-05T18:43:55+0000
+/project/wireviz-web/, wireviz-web, 0.2.0, A wrapper around WireViz for bringing it to the web. Easily document cables and wiring harnesses., 2021-01-11T15:07:03+0000
+/project/zodiac-sutime/, zodiac-sutime, 1.0.0, A Python wrapper for Stanford CoreNLP's SUTime, 2020-07-09T15:46:13+0000
+/project/voicecom/, VoiceCom, 0.0.2rc2, An open source Voice-User-Interface (VUI), 2015-06-01T22:48:08+0000
+/project/katex/, katex, 0.0.4, Convert an image into KaTeX to use in Facebook Messenger, 2018-09-29T22:02:53+0000
+/project/pipilot/, PiPilot, 0.0.1, A software aircraft controller for RaspberryPi, 2018-03-12T19:52:26+0000
+/project/cpgw/, cpgw, 1.7.0, Cooper Gateway, 2020-12-18T18:37:27+0000
+/project/ukervi/, ukervi, 0.21.5,  This is a upython version of the Kervi framework. , 2019-11-05T22:15:48+0000
+/project/pymathics-natlang/, pymathics-natlang, 1.1.0, , 2020-12-22T17:50:35+0000
+/project/coloredlogs/, coloredlogs, 15.0, Colored terminal output for Python's logging module, 2020-12-10T13:10:51+0000
+/project/pymodaq-plugins-orsay/, pymodaq-plugins-orsay, 0.0.1, Hardware plugins for PyMoDAQ using the NiDAQmx framework (pydaqmx wrapper), 2020-11-05T15:01:15+0000
+/project/jgtextrank/, jgtextrank, 0.1.6, Yet another Python implementation of TextRank: package for the creation, manipulation, and study of TextRank algorithm based keywords extraction and summarisation, 2019-11-27T11:51:43+0000
+/project/cpmixer/, cpmixer, 0.8.1, Cross-platform module for controlling audio mixers, 2019-11-21T02:27:20+0000
+/project/audiomate/, audiomate, 6.0.0, Audiomate is a library for working with audio datasets., 2020-08-03T09:26:51+0000
+/project/pymodaq-plugins-thorlabs/, pymodaq-plugins-thorlabs, 0.0.2, Set of PyMoDAQ plugins for instruments from Thorlabs (Kinesis K10CR1 (stepper rotation actuator), Kinesis Flipper, Kinesis KSP100...), 2021-02-10T22:24:48+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/personis/, personis, 0.933, Peronis user model library, 2012-10-19T15:00:22+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/rowordnet/, rowordnet, 1.1.0, Python API for the Romanian WordNet, 2020-08-06T10:47:09+0000
+/project/semantic/, semantic, 1.0.3, Common Natural Language Processing Tasks for Python, 2014-05-10T18:53:41+0000
+/project/mebo/, mebo, 0.1.0b1, Simple python interface to control the mebo toy robot, 2019-01-06T15:47:04+0000
+/project/pywinusb/, pywinusb, 0.4.2, A package that simplifies USB/HID communications on windows, 2016-12-12T04:32:54+0000
+/project/pytelemetry/, pytelemetry, 1.1.9, First class data visualization and communication with embedded devices, 2016-03-20T18:23:23+0000
+/project/tinkle/, tinkle, 0.0.1, Data Simplified, 2018-05-04T06:25:56+0000
+/project/agcli/, agcli, 1.5.1, A GUI that helps building instructions for the CLI, 2020-02-20T10:33:02+0000
+/project/units-converter/, units-converter, 0.0.1, Wave units converter, 2020-06-30T14:59:23+0000
+/project/perception-engineers-toolbox/, Perception-Engineers-Toolbox, 0.2.3, A toolbox for eye-tracking data processing and analysis, 2020-11-11T08:39:06+0000
+/project/arus/, arus, 1.1.22, Activity Recognition with Ubiquitous Sensing, 2021-02-04T00:09:46+0000
+/project/spnav/, spnav, 0.9, ctypes wrapper around libspnav, a client for reading events from a Space Navigator 3D mouse, 2011-09-16T15:41:14+0000
+/project/entropies/, entropies, 0.2, , 2020-07-26T03:47:23+0000
+/project/icusim/, ICUSIM, 0.2.0, Intensive Care Unit (ICU) Simulation, 2020-04-13T13:27:43+0000
+/project/pulr/, pulr, 0.1.8, Industrial protocols data puller, 2020-09-03T22:54:54+0000
+/project/textdistance/, textdistance, 4.2.1, Compute distance between the two texts., 2021-01-29T09:03:27+0000
+/project/wizardhat/, WizardHat, 0.2.1, Real-time processing and plotting of data streamed over LSL, with a focus on student-led BCI projects., 2018-11-19T22:13:22+0000
+/project/huber/, huber, 0.3.2, Python driver for Huber recirculating baths., 2020-05-26T19:41:02+0000
+/project/athenavoice/, AthenaVoice, 1.0.0b1, Your personal voice assistant, 2016-02-04T00:32:17+0000
+/project/olimex-ekg-emg/, olimex-ekg-emg, 0.2.1, A package for gathering data from the Olimex EKG/EMG Shield., 2017-05-04T03:25:18+0000
+/project/pysine/, pysine, 0.9.2, Allows to play single tones on the PyAudio sound output in real time, 2017-08-28T15:29:33+0000
+/project/openallure/, openallure, 0.1d17, Voice-and-vision enabled dialog system, 2010-05-13T04:57:41+0000
+/project/luis/, luis, 2.0.2, A Python interface to Microsoft LUIS., 2017-07-20T20:38:22+0000
+/project/gcpds/, gcpds, 0.1a1, , 2021-03-25T16:21:54+0000
+/project/pycantonese/, pycantonese, 3.2.3, PyCantonese: Cantonese Linguistics and NLP in Python, 2021-04-12T13:59:39+0000
+/project/musestudio/, musestudio, 0.1.0, Import Muse recordings. Convert data to MNE and Pandas. View brain data in real time., 2021-02-26T09:55:54+0000
+/project/kervi-core/, kervi-core, 0.21.5,  Core components for the Kervi framework. , 2019-11-05T22:15:11+0000
+/project/arus-stream-metawear/, arus-stream-metawear, 1.0.4, arus plugin that helps creating stream for metawear devices, 2019-11-02T21:19:36+0000
+/project/thinkgear/, thinkgear, 0.2, thinkgear parses the ThinkGear protocol used by NeuroSky MindSet devices, 2009-10-15T22:54:22+0000
+/project/africanwordnet/, africanwordnet, 0.0.1, A library for African WordNet., 2020-11-25T16:46:54+0000
+/project/heyathena/, HeyAthena, 1.3.2, Your personal voice assistant, 2016-12-21T20:48:02+0000
+/project/pyrpl/, pyrpl, 0.9.3.6, DSP servo controller for quantum optics with the RedPitaya, 2017-08-29T15:02:59+0000
+/project/crowdtruth-fork/, crowdtruth-fork, 2.1.1, Disagreement based metrics for the processing and evaluation of crowdsourced annotations, 2021-04-14T05:55:31+0000
+/project/semi-ate/, Semi-ATE, 0.1.24, Framework for Semiconductor ATE testing projects, 2021-03-31T07:53:54+0000
+/project/pyosc/, pyOSC, 0.3.5b-5294, Simple OpenSoundControl module in Pure Python, 2008-08-14T15:08:07+0000
+/project/imhr/, imhr, 0.3.37, imhr: psychology and data science suite., 2019-06-02T22:15:17+0000
+/project/mozilla-voice-stt-tflite/, mozilla-voice-stt-tflite, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:03:47+0000
+/project/pyvad/, pyvad, 0.1.3, py-webrtcvad wrapper for trimming speech clips, 2021-01-17T00:05:58+0000
+/project/free/, free, 0.0.2, Free yourself from CAPTCHAs!, 2017-07-20T18:07:13+0000
+/project/alicat/, alicat, 0.2.10, Python driver for Alicat mass flow controllers., 2020-05-26T20:02:54+0000
+/project/pymodaq-plugins-piezoconcept/, pymodaq-plugins-piezoconcept, 0.0.3, Set of PyMoDAQ plugins for Actuators from Piezoconcept (Tested on the Bio200 XY stage. Include a version of the controller firmware emulating functions from PhysikInstrumente), 2021-02-11T20:03:33+0000
+/project/pyprofibus/, pyprofibus, 1.8, Python PROFIBUS module, 2020-09-13T08:22:05+0000
+/project/hafrenhaver/, HafrenHaver, 1.0.277, Goes on and on about the River Severn, 2021-02-10T03:47:37+0000
+/project/threeflex/, threeflex, 0.1.1, Python driver for Micromeritics 3Flex surface characterization analyzers., 2015-03-26T21:35:11+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/stt-gpu/, STT-gpu, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:28:53+0000
+/project/brooks-mfc/, brooks-mfc, 0.1.4, Python driver for Brooks Instrument mass flow controllers, 2020-07-30T22:08:12+0000
+/project/pymodaq-plugins-femto/, pymodaq-plugins-femto, 0.0.2, Plugin to simulate acquisition from ultrashort pulse measurement device based on the pypret package, 2021-03-18T20:18:09+0000
+/project/pystempel/, pystempel, 1.2.0, Polish stemmer., 2020-10-29T16:19:55+0000
+/project/pmk/, pmk, 0.43.4, An experiment control system for reproducible research., 2020-11-07T17:28:47+0000
+/project/pymodaq/, pymodaq, 3.1.2, Modular Data Acquisition with Python, 2021-04-15T19:36:19+0000
+/project/botium/, botium, 1.0.1, ChatBot Building Framework for Python, 2018-03-10T15:40:58+0000
+/project/pymodaq-plugins-smaract/, pymodaq-plugins-smaract, 0.0.3, Set of PyMoDAQ plugins for linear actuators from Smaract(SLC positioners). MCS and MCS2 controllers are supported., 2021-04-23T09:25:55+0000
+/project/amfm-decompy/, AMFM-decompy, 1.0.11, Package containing the tools necessary for decomposing a speech signal into its modulated components, aka AM-FM decomposition., 2021-01-23T19:23:18+0000
+/project/ipapy/, ipapy, 0.0.9.0, ipapy is a Python module to work with IPA strings, 2019-05-05T22:27:35+0000
+/project/cp2azure/, cp2azure, 1.4.0, COOPER to Azure IoT Hub, 2020-12-19T15:12:21+0000
+/project/matrixdriver/, matrixdriver, 0.9.0, Driver for the 8x8 RPI-RGB-LED-Matrix based on the 74HC595 chip., 2017-09-10T12:26:39+0000
+/project/zettelkasten/, zettelkasten, 0.2.3, CLI interface for managing a folder based zettelkasten using emacs org-mode file zettels and a bibtex reference system, 2021-03-09T09:05:48+0000
+/project/boing/, boing, 0.3.1, Boing is a toolkit designed to support the development of multi-touchand gesture enabled applications.It enables to create pipelines for connecting different input sources tomultiple target destinations (e.g. applications, logs, etc.)  andeventually process the data before being dispatched., 2012-09-19T08:45:07+0000
+/project/dkpro-cassis/, dkpro-cassis, 0.5.2, UIMA CAS processing library in Python, 2021-04-12T13:46:10+0000
+/project/emily/, emily, 1.0.8, A highly customizable chatbot implemented in Python., 2017-04-29T16:40:51+0000
+/project/mozilla-voice-stt/, mozilla-voice-stt, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:03:35+0000
+/project/graf-python/, graf-python, 0.3.1, Python implementation of the Graph Annotation Framework (GrAF), 2014-07-28T08:18:09+0000
+/project/vasuki/, vasuki, 0.3.2, Vasuki generates different kinds of random unique identifiers, tokens and words, 2019-07-04T08:52:36+0000
+/project/figurestream/, figurestream, 1.2.3, A Matplotlib.Figure fork with real-time plot streaming features., 2021-04-21T17:29:08+0000
+/project/kickstart-avs/, kickstart-avs, 0.2.2, automate avs launch on raspberry pi, 2017-08-18T05:12:26+0000
+/project/pyphony/, pyphony, 0.1.0, pyphony is a library to handle lexica for ASR., 2020-01-03T22:12:22+0000
+/project/konltk/, KoNLTK, 0.0.1, Korean Natural Language Toolkit, 2018-04-17T13:10:48+0000
+/project/pyinstruments/, pyinstruments, 0.4.5, Control of data acquisition with remote instruments using 
+    IVI-C or IVI-COM, Visa, and serial protocols., 2013-12-18T15:09:53+0000
+/project/pymodaq-plugin-manager/, pymodaq-plugin-manager, 0.0.13, Manager and interface to list, install or remove PyMoDAQ's plugins, 2021-03-18T12:43:00+0000
+/project/nudged/, nudged, 0.3.1, Estimate scale, rotation, and translation between two sets of 2D points e.g. for multi-touch gestures or calibration, 2016-02-26T18:07:41+0000
+/project/pyinfluxql/, pyinfluxql, 0.1.3, A query generator for the SQL dialect of the Influx Query Language (InfluxQL), 2021-02-14T15:24:48+0000
+/project/baratron/, baratron, 0.2.0, Python driver for MKS eBaratron capacitance manometers., 2019-09-03T14:51:31+0000
+/project/wordseg/, wordseg, 0.0.2, Word segmentation models, 2020-10-12T02:30:11+0000
+/project/zapf/, zapf, 0.1.0, Client library for the PILS specification, 2021-04-23T11:08:11+0000
+/project/c5py/, c5py, 0.3.4, Analysis and visualization tools for the Augmented Reality-based Corpus (ARbC). This corpus has been created in the research project 'Alignment in AR-based cooperation' which was a part of the Collaborative Research Centre 'Alignment in Communication' (CRC 673) under the project code C5., 2020-12-19T12:46:21+0000
+/project/kglab/, kglab, 0.3.0, A simple abstraction layer in Python for building knowledge graphs, 2021-04-24T07:19:23+0000
+/project/moirai/, moirai, 1.3.18, Digital Control Manager Backend, 2020-07-29T21:13:47+0000
+/project/booleano/, booleano, 1.1a2, Boolean Expressions Interpreter, 2018-04-20T08:23:18+0000
+/project/blueair/, blueair, 1.0.0, Unofficial Python client for BlueAir air purifiers, 2020-12-21T13:11:15+0000
+/project/instamatic/, instamatic, 1.6.1, Python program for automated electron diffraction data collection, 2021-04-01T07:52:53+0000
+/project/uncrumpled-kivy/, uncrumpled_kivy, 1.9.2.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2017-04-15T08:41:16+0000
+/project/pylangacq/, pylangacq, 0.13.1, PyLangAcq: Language Acquisition Research in Python, 2021-03-23T17:35:21+0000
+/project/webrtcvad-wheels/, webrtcvad-wheels, 2.0.10.post2, Python interface to the Google WebRTC Voice Activity Detector (VAD) [released with binary wheels!], 2020-01-31T11:58:46+0000
+/project/kervi/, kervi, 0.21.5,  A python framework for creating robotic and automation applications on Raspbery pi (and other platforms). UI is web based and generated on the fly based on configuration in python code. , 2019-11-05T22:15:16+0000
+/project/pyrealsense2-aarch64/, pyrealsense2-aarch64, 2.23.0, Python Wrapper for Intel Realsense SDK 2.0., 2019-06-27T08:10:09+0000
+/project/webrtcvad/, webrtcvad, 2.0.10, Python interface to the Google WebRTC Voice Activity Detector (VAD), 2017-01-07T23:05:18+0000
+/project/wrangle/, wrangle, 0.6.7, Wrangle - Data Preparation for Deep Learning, 2019-08-12T20:04:01+0000
+/project/terkin/, terkin, 0.10.0, A flexible data logger for MicroPython and CPython, 2020-05-22T00:10:29+0000
+/project/hpitclient/, hpitclient, 0.36, Python Client Libraries for HPIT., 2014-11-13T15:37:57+0000
+/project/productivity/, productivity, 0.4.4, Python driver for AutomationDirect Productivity Series PLCs., 2021-03-30T12:57:42+0000
+/project/erajs/, erajs, 0.1.0.181116.3, A game script engine for Era.js., 2018-11-15T08:01:10+0000
+/project/gcpds-utils/, gcpds-utils, 0.1a2, , 2020-10-15T21:57:30+0000
+/project/colouredlogs/, colouredlogs, 10.0.1, Coloured terminal output for Python's logging module, 2019-07-13T20:17:45+0000
+/project/udar/, udar, 0.1.8, Detailed part-of-speech tagger for (accented) Russian., 2021-04-22T22:55:04+0000
+/project/pymodaq-plugins-andor/, pymodaq-plugins-andor, 0.0.2, Set of PyMoDAQ plugins for Andor Camera (CCD camera using SDK2, SCMOS cameras using SDK3...), 2021-02-10T21:21:49+0000
+/project/wav2bin/, wav2bin, 1.3, Program to be used concurrently with Dennis Kodimer's CEC 222 lab., 2018-02-13T06:29:38+0000
+/project/openbci-stream/, openbci-stream, 1.0.0rc18, High level Python module for EEG/EMG/ECG acquisition and distributed streaming for OpenBCI Cyton board., 2021-04-21T17:30:36+0000
+/project/pytextrank/, pytextrank, 3.1.1, Python implementation of TextRank as a spaCy pipeline extension, for graph-based natural language work plus related knowledge graph practices; used for for phrase extraction and lightweight extractive summarization of text documents., 2021-03-25T19:46:28+0000
+/project/crslab/, crslab, 0.1.2.0, An Open-Source Toolkit for Building Conversational Recommender System(CRS), 2021-03-28T13:19:26+0000
+/project/pymensor/, pymensor, 0.0.2, Python driver for Mensor Modular Pressure Controllers., 2020-01-13T03:41:24+0000
+/project/quepy/, quepy, 0.2, A framework to convert natural language to database queries., 2013-09-10T18:02:23+0000
+/project/openxr/, openxr, 0.0.5, OpenXR bindings for Python., 2020-07-16T05:33:00+0000
+/project/pybridge/, pybridge, 1.0.1, Bridge for Python (Bridge is a light-weight portable Natural Language Processing Library), 2015-07-29T10:40:41+0000
+/project/pymodaq-spectro/, pymodaq-spectro, 1.0.0, Spectrometer Interface using PyMoDAQ, 2020-06-25T14:47:29+0000
+/project/pyopencv/, pyopencv, 2.1.0.wr1.2.0, PyOpenCV - A Python wrapper for OpenCV 2.x using Boost.Python and NumPy, 2010-09-25T15:47:59+0000
+/project/eyekit/, eyekit, 0.3.12, A Python package for analyzing reading behavior using eyetracking data, 2021-04-09T11:42:53+0000
+/project/pycocoa/, PyCocoa, 20.12.10, Basic Python binding to macOS' Objective-C Cocoa, 2020-12-08T19:46:10+0000
+/project/spmflex/, spmflex, 0.1.1, Python driver for Honeywell SPM Flex gas dectectors., 2019-06-07T21:33:04+0000
+/project/yalign/, yalign, 0.1.1, A tool to align comparable corpora, 2013-09-16T19:36:47+0000
+/project/kivymd-extensions-sweetalert/, kivymd-extensions.sweetalert, 0.1.5, Beautiful, responsive, customizable and accessible popup replacement, 2020-11-23T08:34:34+0000
+/project/eyetracker/, EyeTracker, 1.0.1, Python Eye Tracking & Recording Software, 2016-02-17T21:24:36+0000
+/project/zorb/, zorb, 0.1.5, Python SDK for the Zorb Engine, 2018-05-22T23:21:37+0000
+/project/signs/, signs, 0.3.1, Signs Text Processing for Deep Learning, 2020-07-22T12:37:39+0000
+/project/kivymd-extensions/, kivymd-extensions, 1.0.0, Additional packages for KivyMD library, 2020-11-01T08:53:17+0000
+/project/cocorpy27/, CocoRPy27, 1.4.1, Python implementation of the famous CoCo/R LL(k) compiler generator ported to Python., 2012-03-08T22:12:42+0000
+/project/paperstream/, paperstream, 1.1.0, PaperStream web app. Create and encode paper diaries or surveys automatically, 2018-06-02T20:04:35+0000
+/project/visionegg/, visionegg, 1.2.1, 2D/3D visual stimulus generation, 2009-07-21T10:41:59+0000
+/project/flirptu/, flirptu, 0.0.1a2, Controller for FLIR E-series pan-tilt units, 2018-06-27T18:36:13+0000
+/project/deep-disfluency/, deep-disfluency, 0.0.1, Deep Learning systems for training and testing disfluency detection and related tasks on speech data., 2018-09-22T21:14:13+0000
+/project/pymodaq-plugins-daqmx/, pymodaq-plugins-daqmx, 0.0.3, Hardware plugins for PyMoDAQ using the NiDAQmx framework (pydaqmx wrapper), 2021-02-10T21:46:36+0000
+/project/imagecast/, imagecast, 0.4.0, Imagecast is like ImageMagick but for Pythonistas. Optionally provides its features via HTTP API., 2021-03-06T12:00:21+0000
+/project/kickstart-avs/, kickstart-avs, 0.2.2, automate avs launch on raspberry pi, 2017-08-18T05:12:26+0000
+/project/kivy-jetson/, Kivy-jetson, 2.1.0.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2021-02-17T16:47:10+0000
+/project/pyphony/, pyphony, 0.1.0, pyphony is a library to handle lexica for ASR., 2020-01-03T22:12:22+0000
+/project/pymodaq-plugins-physical-measurements/, pymodaq-plugins-physical-measurements, 0.0.4, Set of PyMoDAQ plugins for various physical measurements: multimeter, lockin, oscilloscope, indus cameras..., 2021-02-10T22:19:56+0000
+/project/simplui/, simplui, 1.0.4, Light-weight GUI toolkit for pyglet, 2009-08-17T18:48:03+0000
+/project/dwdweather2/, dwdweather2, 0.14.0, Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany., 2020-07-03T12:51:14+0000
+/project/simple-nltk/, simple-nltk, 3.5, a simple version of the NLTK, 2021-01-25T05:40:18+0000
+/project/terrarium-capp/, terrarium-capp, 0.1.6, Adaptive Computer Aided Process Planner, 2019-11-20T16:29:20+0000
+/project/naturalsort/, naturalsort, 1.5.1, Simple natural order sorting API for Python, 2015-11-02T19:14:58+0000
+/project/pymodaq-plugins-horiba/, pymodaq-plugins-horiba, 0.0.2, Set of PyMoDAQ plugins for Horiba Instruments (Lapspec6TCP to communicate with labspec softaware using the AFM TCP/IP protocol), 2021-02-10T22:37:28+0000
+/project/virtualreality/, virtualreality, 0.1.2, python side of hobo_vr, 2020-11-19T09:50:36+0000
+/project/pyeeglab/, PyEEGLab, 0.10.0, Analyze and manipulate EEG data using PyEEGLab, 2020-09-28T15:51:56+0000
+/project/spoteno/, spoteno, 0.1.1, spoteno is a library for spoken text normalization for ASR, 2020-01-20T13:01:36+0000
+/project/pymodaq/, pymodaq, 3.1.2, Modular Data Acquisition with Python, 2021-04-15T19:36:19+0000
+/project/pystempel/, pystempel, 1.2.0, Polish stemmer., 2020-10-29T16:19:55+0000
+/project/pmk/, pmk, 0.43.4, An experiment control system for reproducible research., 2020-11-07T17:28:47+0000
+/project/botium/, botium, 1.0.1, ChatBot Building Framework for Python, 2018-03-10T15:40:58+0000
+/project/pymodaq-plugins-smaract/, pymodaq-plugins-smaract, 0.0.3, Set of PyMoDAQ plugins for linear actuators from Smaract(SLC positioners). MCS and MCS2 controllers are supported., 2021-04-23T09:25:55+0000
+/project/amfm-decompy/, AMFM-decompy, 1.0.11, Package containing the tools necessary for decomposing a speech signal into its modulated components, aka AM-FM decomposition., 2021-01-23T19:23:18+0000
+/project/ipapy/, ipapy, 0.0.9.0, ipapy is a Python module to work with IPA strings, 2019-05-05T22:27:35+0000
+/project/cp2azure/, cp2azure, 1.4.0, COOPER to Azure IoT Hub, 2020-12-19T15:12:21+0000
+/project/matrixdriver/, matrixdriver, 0.9.0, Driver for the 8x8 RPI-RGB-LED-Matrix based on the 74HC595 chip., 2017-09-10T12:26:39+0000
+/project/zettelkasten/, zettelkasten, 0.2.3, CLI interface for managing a folder based zettelkasten using emacs org-mode file zettels and a bibtex reference system, 2021-03-09T09:05:48+0000
+/project/boing/, boing, 0.3.1, Boing is a toolkit designed to support the development of multi-touchand gesture enabled applications.It enables to create pipelines for connecting different input sources tomultiple target destinations (e.g. applications, logs, etc.)  andeventually process the data before being dispatched., 2012-09-19T08:45:07+0000
+/project/dkpro-cassis/, dkpro-cassis, 0.5.2, UIMA CAS processing library in Python, 2021-04-12T13:46:10+0000
+/project/camxes/, camxes, 0.2, Python interface to camxes., 2011-03-31T21:54:40+0000
+/project/mushu/, Mushu, 0.2, Brain Computer Interfacing signal acquisition software., 2014-05-20T15:44:33+0000
+/project/poio-api/, poio-api, 0.3.6, A Python Library to access and manipulate linguistically annotated corpus files., 2014-07-28T08:24:39+0000
+/project/nb-mermaid/, nb-mermaid, 0.1.0, Mermaid diagrams in the IPython Notebook, 2015-07-28T00:42:12+0000
+/project/kivycupertino/, kivycupertino, 0.0.1a0, iOS style widgets for Kivy, 2021-03-16T01:39:08+0000
+/project/konltk/, KoNLTK, 0.0.1, Korean Natural Language Toolkit, 2018-04-17T13:10:48+0000
+/project/zapf/, zapf, 0.1.0, Client library for the PILS specification, 2021-04-23T11:08:11+0000
+/project/pyinstruments/, pyinstruments, 0.4.5, Control of data acquisition with remote instruments using 
+    IVI-C or IVI-COM, Visa, and serial protocols., 2013-12-18T15:09:53+0000
+/project/pymodaq-plugin-manager/, pymodaq-plugin-manager, 0.0.13, Manager and interface to list, install or remove PyMoDAQ's plugins, 2021-03-18T12:43:00+0000
+/project/nudged/, nudged, 0.3.1, Estimate scale, rotation, and translation between two sets of 2D points e.g. for multi-touch gestures or calibration, 2016-02-26T18:07:41+0000
+/project/pyinfluxql/, pyinfluxql, 0.1.3, A query generator for the SQL dialect of the Influx Query Language (InfluxQL), 2021-02-14T15:24:48+0000
+/project/baratron/, baratron, 0.2.0, Python driver for MKS eBaratron capacitance manometers., 2019-09-03T14:51:31+0000
+/project/wordseg/, wordseg, 0.0.2, Word segmentation models, 2020-10-12T02:30:11+0000

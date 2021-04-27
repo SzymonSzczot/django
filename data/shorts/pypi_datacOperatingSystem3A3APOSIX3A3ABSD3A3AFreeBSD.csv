@@ -1,0 +1,396 @@
+/project/fsnix/, fsnix, 0.2, Expose more advanced posix/file system APIs to Python, 2012-11-12T20:42:35+0000
+/project/ofunctions/, ofunctions, 2.0.3, Toolset with various file logging / network / checksumming / process functions, 2021-03-30T13:58:36+0000
+/project/kivymd/, kivymd, 0.104.1, Set of widgets for Kivy inspired by Google's Material Design, 2020-04-27T20:04:26+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/openlp/, OpenLP, 2.9.2, Open source Church presentation and lyrics projection application., 2020-12-21T18:27:11+0000
+/project/borgbackup/, borgbackup, 1.1.16, Deduplicated, encrypted, authenticated and compressed backups, 2021-03-22T21:44:05+0000
+/project/x84/, x84, 2.0.17, Framework for Telnet and SSH BBS or MUD server development with example default bbs board, 2020-06-17T12:51:31+0000
+/project/kivymd-extensions-akivymd/, kivymd-extensions.akivymd, 1.2.5, A set of fancy widgets for KivyMD, 2020-11-28T12:47:11+0000
+/project/maybe/, maybe, 0.4.0, See what a program does before deciding whether you really want it to happen., 2016-03-27T17:57:21+0000
+/project/setupjavax/, setupjavax, 0.1.38, Support Java extensions for setuptools / distutils., 2019-12-13T13:46:37+0000
+/project/cuts/, cuts, 0.37.7, Remove and/or rearrange sections from each line of a file(s)., 2015-07-26T21:23:19+0000
+/project/fintech/, fintech, 6.6.2, The Python FinTech package (SEPA, EBICS & more), 2021-03-16T00:48:02+0000
+/project/kivymd-extensions-example-extension/, kivymd-extensions.example-extension, 0.1.1, Example extension that adds beautiful button, 2020-11-01T10:35:50+0000
+/project/chicken-turtle-project/, chicken_turtle_project, 2.3.0, Python 3 project development tools, 2016-10-08T00:20:58+0000
+/project/mjail/, mjail, 0.3.0, Command line tool to create and manage FreeBSD jails, 2019-07-08T16:12:10+0000
+/project/ses2/, ses2, 0.1.9, Library for status/control of SES2 enclosure management devices, 2013-11-20T23:14:48+0000
+/project/sixfour/, sixfour, 1.3.3, base64 Image Encoder and Embedder for HTML, CSS, Markdown, LESS, SASS, 2013-11-21T13:34:00+0000
+/project/freezer-api/, freezer-api, 10.0.0, OpenStack Backup and Restore API Service, 2021-04-14T11:04:23+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/freebsd-ports/, FreeBSD-ports, 0.0.9, Parse FreeBSD Ports INDEX, provide search API, 2019-07-11T21:25:43+0000
+/project/openvas-tasks/, openvas_tasks, 1.1, Information and history receptor for OpenVAS tasks, 2015-06-20T15:32:26+0000
+/project/ofunctions-threading/, ofunctions.threading, 0.1.0, Threading decorator to run functions as threads, 2021-03-30T14:04:27+0000
+/project/viz-alchemy/, viz-alchemy, 0.0.1, Visualize database relationship for SQLAlchemy, 2020-12-07T16:02:39+0000
+/project/ffpyplayer/, ffpyplayer, 4.3.2, A cython implementation of an ffmpeg based player., 2020-10-14T23:56:01+0000
+/project/egenix-mxodbc-zopeda/, egenix-mxodbc-zopeda, 2.2.3, eGenix mxODBC Zope/Plone Database Adapter for Plone and Zope, 2015-09-11T18:36:59+0000
+/project/ofunctions-string-handling/, ofunctions.string-handling, 0.1.2, Simple string sanitization functions, 2021-03-30T14:04:04+0000
+/project/env2/, env2, 0.0.0, os.environ on steroids, 2017-11-10T20:41:58+0000
+/project/varbio/, varbio, 2.0.0, Bioinformatics utility library, 2017-09-27T09:29:56+0000
+/project/spiceypy/, spiceypy, 4.0.0, A Python Wrapper for the NAIF CSPICE Toolkit, 2020-12-08T02:53:55+0000
+/project/redislite/, redislite, 6.0.674960, Redis built into a python package, 2021-01-26T02:57:03+0000
+/project/uv/, uv, 0.0.3.dev1, Python LibUV CFFI Bindings, 2015-11-26T18:44:58+0000
+/project/zsm-lib/, zsm-lib, 0.2.1, ZFS Snapshot Manager Library, 2021-01-24T23:13:21+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/uhid-freebsd/, uhid-freebsd, 1.2.1, Get information on FreeBSD uhid devices., 2019-09-11T22:30:47+0000
+/project/pyspectator-tornado/, pyspectator_tornado, 1.1.2, pyspectator_tornado is a web-monitoring tool ported onTornado with pyspectator as a main monitoring module., 2017-04-14T21:52:28+0000
+/project/kernelchecker/, kernelchecker, 1.0.0, Linux kernel version scanner, 2016-05-24T22:07:55+0000
+/project/ofunctions-file-utils/, ofunctions.file-utils, 0.8.0, Various file handling of which get_files_recursive is the most advanced, 2021-04-06T10:08:52+0000
+/project/mathmakerlib/, mathmakerlib, 0.7.4, Collection of lualatex-printable mathematical objects, including geometric shapes., 2019-02-22T12:35:28+0000
+/project/iterfzf/, iterfzf, 0.5.0.20.0, Pythonic interface to fzf, 2020-02-09T14:54:20+0000
+/project/python-freezerclient/, python-freezerclient, 4.2.0, OpenStack Disaster Recovery API Client Library, 2021-01-18T22:02:28+0000
+/project/grafana-alerts/, grafana_alerts, 1.0.0.dev7, Alerting Module to use with Grafana metrics., 2015-07-27T18:35:36+0000
+/project/splitviewfuse/, splitviewfuse, 0.3.1, A fuse implementation for an segmented view on a given directory., 2016-10-30T15:39:28+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/hark/, hark, 1.0.0.dev3, a simple virtual machine management tool, 2016-08-04T12:30:40+0000
+/project/pilotmapreduce/, PilotMapReduce, 0.1.0, SAGA Pilot-Abstractions based MapReduce Implementation, 2012-11-06T06:48:43+0000
+/project/ofunctions-logger-utils/, ofunctions.logger-utils, 2.0.1, Shorthand for logger initialization, recording worst called loglevel and handling nice console output, 2021-03-30T14:01:09+0000
+/project/blackpanther-pydialog/, blackPanther-pydialog, 0.9.8, PyDialog [PyQt5] is a new dialog instead kdialog or zenity, 2018-12-03T22:21:19+0000
+/project/bitnfly/, bitnfly, 0.0.4, BitnFly is a mini API for working with bit flags, 2016-06-30T12:36:11+0000
+/project/graphillion/, Graphillion, 1.4, Fast, lightweight library for a huge number of graphs, 2020-11-04T14:31:02+0000
+/project/posix-ipc/, posix-ipc, 1.0.5, POSIX IPC primitives (semaphores, shared memory and message queues) for Python, 2020-10-11T00:40:52+0000
+/project/unidist/, unidist, 2010.10.15.0, unidist: Unified Distributed Computing contains: shared message queues, state, counters, locks, logging, and time series collection and graphing (RRD)., 2010-10-15T16:47:12+0000
+/project/daemonize/, daemonize, 2.5.0, Library to enable your code run as a daemon process on Unix-like systems., 2018-12-12T19:47:37+0000
+/project/configparser-crypt/, configparser-crypt, 0.6.2, Drop-in replacement for ConfigParser with encryption support, 2021-03-16T14:04:33+0000
+/project/caspyr/, caspyr, 1.1.1, Cinchingly awesome scripts of Pythonic rapture, 2019-08-01T23:19:27+0000
+/project/check-mount/, check-mount, 1.0.3, Nagios / Icinga plugin to check that mounts are present., 2019-12-12T15:32:16+0000
+/project/pkgdiff/, pkgdiff, 0.1, Compare FreeBSD pkg files by metadata., 2020-12-01T15:19:49+0000
+/project/hark-builder/, hark-builder, 1.0.0.dev6, tool to build hark images, 2016-07-24T06:52:11+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/sysctl/, sysctl, 0.2, Wrapper for the sysctl* system functions, 2014-06-20T01:26:16+0000
+/project/minefield/, minefield, 0.6, High performance Python WSGI Web Server, 2014-11-02T08:09:40+0000
+/project/certifi-system-store/, certifi-system-store, 3021.3.16, A certifi hack to use system trust store on Linux/FreeBSD, 2021-03-16T11:36:33+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/pydnet/, PyDNET, 1.0, Distribution Network Evaluation Tool, 2017-03-02T15:42:29+0000
+/project/pysendfile/, pysendfile, 2.0.1, A Python interface to sendfile(2), 2014-05-27T11:07:28+0000
+/project/layabout/, layabout, 1.0.2, A small event handling library on top of the Slack RTM API., 2020-01-12T04:10:04+0000
+/project/pyfuse3/, pyfuse3, 3.2.0, Python 3 bindings for libfuse 3 with async I/O support, 2020-12-30T20:03:06+0000
+/project/asyncio-railgun/, asyncio-railgun, 0.0.3, Library for easier asyncio concurrent tasks., 2019-06-23T20:22:51+0000
+/project/py3-bp/, py3-bp, 0.0.4, Ultimate template for new Python 3 projects, 2019-09-20T05:05:48+0000
+/project/platformids/, platformids, 0.1.39, Enumeration of operating systems and their releases., 2019-12-18T14:04:11+0000
+/project/aiengine/, aiengine, 1.6.1, AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine, 2016-10-04T21:03:46+0000
+/project/ifconfigpy/, ifconfigpy, 0.0.1.devr11, ifconfigpy is a python library to manipulate interfaces like ifconfig, 2014-06-24T22:46:47+0000
+/project/pymt/, PyMT, 0.5.1, A framework for making accelerated multitouch UI, 2010-09-06T21:04:31+0000
+/project/fmmap/, fmmap, 2.0.0, A fast reimplementation of mmap, 2020-06-03T18:22:51+0000
+/project/drupan/, drupan, 3.0.2, Drupan is a flexible static site generator helping you     to create blogs, single page applications or traditional websites., 2018-08-03T13:20:54+0000
+/project/esbackup/, esbackup, 0.2, Simple backup tool, 2011-11-02T05:51:55+0000
+/project/fdict/, fdict, 0.8.1, Easy out-of-core computing of recursive dict, 2017-08-08T19:01:56+0000
+/project/anyks-sc/, anyks-sc, 1.2.4, Smart language model, 2020-09-20T11:32:24+0000
+/project/py-rtprio/, py-rtprio, 1.3.1, rtprio(2) interface for altering process priority, 2016-12-03T05:59:14+0000
+/project/alignak/, alignak, 2.1.5, Alignak is a monitoring framework compatible with Nagios configuration and plugins, 2019-04-29T05:09:03+0000
+/project/routerchecker/, routerchecker, 1.1.0, Router firmware update scanner, 2016-05-24T13:09:13+0000
+/project/psutil/, psutil, 5.8.0, Cross-platform lib for process and system monitoring in Python., 2020-12-19T01:19:27+0000
+/project/py-make/, py-make, 0.1.1, Makefile execution powered by pure Python, 2019-01-21T00:18:55+0000
+/project/checkpkgaudit/, checkpkgaudit, 0.7.2, Check FreeBSD pkg audit Nagios|Icinga|shinken|etc plugin., 2017-06-05T19:38:45+0000
+/project/tqdm/, tqdm, 4.60.0, Fast, Extensible Progress Meter, 2021-04-06T01:23:21+0000
+/project/eddie-tool/, EDDIE-Tool, 1.0.0, The EDDIE Tool is a system and network monitoring, security, and performance analysis agent developed entirely in threaded Python. Its key features are portability, extendibility, and powerful configuration., 2009-09-28T14:19:16+0000
+/project/prwlock/, prwlock, 0.4.1, Native process-shared rwlock support for Python, 2020-05-28T13:37:06+0000
+/project/oonibackend/, oonibackend, 1.3.7, Open Observatory of Network Interference Backend, 2019-12-06T08:33:16+0000
+/project/easytextract/, easytextract, 1.1.5, Easy to use text extractor, from PDF, DOC, DOCX and other document types, using the awesome Textract, including if necessary using OCR (via Tesseract)., 2017-11-12T23:21:14+0000
+/project/csg-dicoms-anonymizer/, csg-dicoms-anonymizer, 1.4.2, Robust and easy to use generic dicoms anonymizer with demographics csv spreadsheet anonymization by hashed ids, 2018-02-17T14:44:12+0000
+/project/edison/, edison, 0.0.2, Absurdity as a Service, 2014-02-04T06:19:01+0000
+/project/ofunctions-csv/, ofunctions.csv, 0.2.0, CSV file reader with header management, fieldnames, delimiters and comment skipping, 2021-03-30T13:59:41+0000
+/project/yapytf/, yapytf, 0.5.7, Yet Another Python Terraform Wrapper, 2020-05-27T19:10:37+0000
+/project/pydstool/, PyDSTool, 0.91.0, Python dynamical systems simulation and modeling, 2020-01-31T20:46:21+0000
+/project/git-fame/, git-fame, 1.14.1, Pretty-print `git` repository collaborators sorted by contributions, 2021-03-01T22:16:22+0000
+/project/hookee/, hookee, 2.0.6, Command line webhooks, on demand., 2021-03-08T18:38:14+0000
+/project/freezer/, freezer, 10.0.0, The OpenStack Backup Restore and Disaster Recovery as a Service Platform, 2021-04-14T11:03:37+0000
+/project/confset/, confset, 0.1.0, A simple script to change or update package configurations, 2020-05-08T21:30:10+0000
+/project/psutil-extra/, psutil-extra, 0.2.0, Some helper functions to go along with the ones in psutil, 2020-08-03T20:17:49+0000
+/project/pypsutil/, pypsutil, 0.1.0, A partial reimplementation of psutil in pure Python using ctypes., 2020-09-01T02:12:23+0000
+/project/procblock/, procblock, 2010.10.15.0, problock is a logic and data tag processor and hardended execution environment., 2010-10-15T16:46:39+0000
+/project/zsm/, zsm, 0.2.1, ZFS Snapshot Manager, 2021-01-24T23:21:06+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/command-runner/, command-runner, 0.6.3, Platform agnostic command and shell execution tool, also allows UAC/sudo privilege elevation, 2021-03-15T15:28:07+0000
+/project/ofunctions-mailer/, ofunctions.mailer, 0.3.5, Mail sending function that handles encryption, authentication, bulk and split mail sending, 2021-02-11T01:10:18+0000
+/project/sasspython/, SassPython, 0.2.1, binding for libsass, 2012-08-08T08:02:26+0000
+/project/qtile/, qtile, 0.17.0, A pure-Python tiling window manager., 2021-02-13T18:46:35+0000
+/project/ofunctions-checksums/, ofunctions.checksums, 0.2.1, SHA256 Checksumming functions, checksum manifest file creation and verification, 2021-02-11T01:10:12+0000
+/project/botskeleton/, botskeleton, 3.3.6, A skeleton for content bots., 2019-07-03T04:55:42+0000
+/project/yatfs/, yatfs, 0.4.0, FUSE-based torrent-backed filesystem, 2018-02-01T09:39:13+0000
+/project/rhdndat/, rhdndat, 1.6.6, A www.romhacking.net dat creator and update checker., 2019-06-17T01:13:38+0000
+/project/namedtupledefs2/, namedtupledefs2, 0.1.21, Extended 'namedtuple' by default values., 2019-12-13T12:31:13+0000
+/project/ofunctions-bisection/, ofunctions.bisection, 0.2.1, Bisection function that allows callable to be tested with any list of arguments, 2021-02-11T01:10:11+0000
+/project/aifashion-sdk/, aifashion-sdk, 1.2.0, AIFashion® Python SDK, 2019-07-18T07:39:51+0000
+/project/ofunctions-misc/, ofunctions.misc, 1.0.0, Collection of various functions, 2021-02-11T01:10:19+0000
+/project/attic/, Attic, 0.16, Deduplicated backups, 2015-05-16T19:39:43+0000
+/project/jitterentropy/, jitterentropy, 0.1, Use libjitterentropy to get random bytes, 2019-10-22T01:51:09+0000
+/project/ofunctions-process/, ofunctions.process, 0.1.1, Shorthand for killing an entire process tree, 2021-02-11T01:10:23+0000
+/project/django-easy-app/, django-easy-app, 0.0.27, Extend django-admin to create apps that are easier to set, 2015-05-01T17:25:28+0000
+/project/monotonic-time/, monotonic-time, 2.1.0, monotonic time for Python 2 and 3, on Linux, FreeBSD, Mac OS X, and Windows., 2017-05-29T02:43:03+0000
+/project/pthat/, pthat, 1.0.1, A package containing the API for the PTHat by CNC Design Limited, 2020-12-01T01:35:06+0000
+/project/serviceping/, serviceping, 20.3.174593, A command line utility that provides a ping like interface for checking tcp/ssl ports and services, 2020-03-13T15:24:26+0000
+/project/accelerator/, accelerator, 2021.4.1.dev1, A tool for fast and reproducible processing of large amounts of data., 2021-04-01T18:54:36+0000
+/project/idem-bsd/, idem-bsd, 4.2, Vertical app merge components for Idem and grains support on BSD, 2020-09-14T17:17:28+0000
+/project/hark-imagestore/, hark-imagestore, 1.0.0.dev4, image store service for the hark tool, 2016-07-24T06:47:28+0000
+/project/ofunctions-platform/, ofunctions.platform, 1.0.1, Very basic platform identification, 2021-03-30T14:02:36+0000
+/project/pysed/, pysed, 0.7.8, CLI utility that parses and transforms text, 2015-07-03T20:03:34+0000
+/project/pytgram/, pytgram, 0.0.7, Library to create Telegram Bot based on Twisted, 2018-02-01T20:07:14+0000
+/project/gphoto2/, gphoto2, 2.2.4, Python interface to libgphoto2, 2020-11-09T18:56:18+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/pyngrok/, pyngrok, 5.0.5, A Python wrapper for ngrok., 2021-03-26T01:04:59+0000
+/project/bbarchivist/, bbarchivist, 4.0.0, BlackBerry OS tools, in Pythons, 2019-09-02T14:02:06+0000
+/project/anyks-lm/, anyks-lm, 3.4.9, Smart language model, 2020-09-20T11:29:41+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/uncrumpled-kivy/, uncrumpled_kivy, 1.9.2.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2017-04-15T08:41:16+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/ofunctions-delayed-keyboardinterrupt/, ofunctions.delayed-keyboardinterrupt, 0.1.0, Intercept CTRL+C signal in your Python code, 2021-02-11T01:10:13+0000
+/project/xattr/, xattr, 0.9.7, Python wrapper for extended filesystem attributes, 2019-12-02T22:37:23+0000
+/project/hypatia-engine/, hypatia_engine, 0.3.6, 2D action adventure game engine, 2015-12-06T02:55:12+0000
+/project/pylibacl/, pylibacl, 0.6.0, POSIX.1e ACLs for python, 2020-11-29T01:49:44+0000
+/project/pytil/, pytil, 7.0.0, Python 3 utility library, 2018-01-08T16:56:58+0000
+/project/distro/, distro, 1.5.0, Distro - an OS platform information API, 2020-03-30T21:22:46+0000
+/project/ofunctions-random/, ofunctions.random, 0.1.1, Simple random string generator including password generator, 2021-02-11T01:10:24+0000
+/project/encviewfuse/, encviewfuse, 0.3.0.post1, A fuse implementation of an encrypted view on a given directory., 2015-12-13T19:56:16+0000
+/project/dlipower/, dlipower, 1.0.176, Control digital loggers web power switch, 2018-06-16T07:34:24+0000
+/project/argopt/, argopt, 0.7.0, doc to argparse driven by docopt, 2021-03-01T16:51:30+0000
+/project/ooniprobe/, ooniprobe, 2.3.0, Network measurement tool foridentifying traffic manipulation and blocking., 2018-02-14T09:14:22+0000
+/project/pyramidueditor/, pyramidueditor, 1.0.1, A Pyramid application for Baidu Ueditor., 2015-06-05T09:52:25+0000
+/project/dropstar/, dropstar, 2010.10.14.0, dropSTAR: Drop Scripts, Templates and RPC.  A stand-alone HTTP server for mixing dynamic and static content with RPC calls.  Focused on system administration and automation tasks., 2010-10-14T18:22:11+0000
+/project/theonionbox/, theonionbox, 20.2, The Onion Box: Dashboard to monitor Tor node operations., 2020-01-19T16:46:06+0000
+/project/opencanary/, opencanary, 0.6.1, OpenCanary daemon, 2021-03-30T13:07:18+0000
+/project/pymmbfuse/, pymmbfuse, 0.7.4, Fuse driver for BBC Microcomputer DFS disk images and MMB disk bundles, 2020-05-11T17:10:58+0000
+/project/za-id-number/, za-id-number, 0.0.3, Library South African ID number validation and easy data extraction., 2021-01-20T17:25:10+0000
+/project/darfortie/, darfortie, 1.0.2, A utility that extends and simplifies using dar (Disk ARchive) for doing routine incremental backups., 2020-02-01T05:11:55+0000
+/project/fbsd-gpio/, fbsd_gpio, 0.5.0, cffi-based Python bindings for FreeBSD GPIO, 2016-04-02T22:34:36+0000
+/project/llfuse/, llfuse, 1.4.1, Python bindings for the low-level FUSE API, 2021-01-31T20:50:00+0000
+/project/kivymd-extensions-sweetalert/, kivymd-extensions.sweetalert, 0.1.5, Beautiful, responsive, customizable and accessible popup replacement, 2020-11-23T08:34:34+0000
+/project/mkbak-iterfzf/, mkbak-iterfzf, 0.7.0.25.1, Pythonic interface to fzf, 2021-02-09T20:43:21+0000
+/project/kivymd-extensions/, kivymd-extensions, 1.0.0, Additional packages for KivyMD library, 2020-11-01T08:53:17+0000
+/project/papa/, papa, 1.0.6, Simple socket and process kernel, 2016-01-20T22:53:19+0000
+/project/cryptidy/, cryptidy, 1.0.5, Python high level library for symmetric & asymmetric encryption, 2021-03-16T11:14:16+0000
+/project/mikroe-uhb/, mikroe-uhb, 0.2, USB HID Bootloader programmer for MikroElektronika devices, 2014-02-18T12:06:12+0000
+/project/kivy-jetson/, Kivy-jetson, 2.1.0.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2021-02-17T16:47:10+0000
+/project/prepnet/, prepnet, 0.2.0, Reconstructable preprocessor library, 2020-08-31T11:13:16+0000
+/project/ofunctions-json-sanitize/, ofunctions.json-sanitize, 0.1.1, Simple tool that filters unwanted characters including non printable from JSON objects, 2021-02-11T01:10:15+0000
+/project/teleme/, teleme, 0.1.0, An async, super simple Telegram Bot framework., 2020-05-22T13:16:07+0000
+/project/aiosmtpd/, aiosmtpd, 1.4.2, aiosmtpd - asyncio based SMTP server, 2021-03-08T04:32:36+0000
+/project/ofunctions-network/, ofunctions.network, 0.5.0, Network diagnostics, MTU probing, Public IP discovery, HTTP/HTTPS internet connectivty tests, ping, 2021-02-11T01:10:20+0000
+/project/nuitka/, Nuitka, 0.6.14.4, Python compiler with full language support and CPython compatibility, 2021-04-18T14:21:23+0000
+/project/namedtupledefs/, namedtupledefs, 0.1.21, Extended 'namedtuple' by default values., 2019-12-13T12:30:09+0000
+/project/pyramidueditor/, pyramidueditor, 1.0.1, A Pyramid application for Baidu Ueditor., 2015-06-05T09:52:25+0000
+/project/dropstar/, dropstar, 2010.10.14.0, dropSTAR: Drop Scripts, Templates and RPC.  A stand-alone HTTP server for mixing dynamic and static content with RPC calls.  Focused on system administration and automation tasks., 2010-10-14T18:22:11+0000
+/project/theonionbox/, theonionbox, 20.2, The Onion Box: Dashboard to monitor Tor node operations., 2020-01-19T16:46:06+0000
+/project/opencanary/, opencanary, 0.6.1, OpenCanary daemon, 2021-03-30T13:07:18+0000
+/project/pymmbfuse/, pymmbfuse, 0.7.4, Fuse driver for BBC Microcomputer DFS disk images and MMB disk bundles, 2020-05-11T17:10:58+0000
+/project/anyks-lm/, anyks-lm, 3.4.9, Smart language model, 2020-09-20T11:29:41+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/ofunctions-delayed-keyboardinterrupt/, ofunctions.delayed-keyboardinterrupt, 0.1.0, Intercept CTRL+C signal in your Python code, 2021-02-11T01:10:13+0000
+/project/xattr/, xattr, 0.9.7, Python wrapper for extended filesystem attributes, 2019-12-02T22:37:23+0000
+/project/dmoj/, dmoj, 3.0.1, The judge component of the DMOJ: Modern Online Judge platform, 2021-02-28T01:28:00+0000
+/project/pcp/, pcp, 1.2, Performance Co-Pilot collector, monitor and instrumentation APIs, 2017-05-31T06:54:19+0000
+/project/attic/, Attic, 0.16, Deduplicated backups, 2015-05-16T19:39:43+0000
+/project/jitterentropy/, jitterentropy, 0.1, Use libjitterentropy to get random bytes, 2019-10-22T01:51:09+0000
+/project/ofunctions-process/, ofunctions.process, 0.1.1, Shorthand for killing an entire process tree, 2021-02-11T01:10:23+0000
+/project/django-easy-app/, django-easy-app, 0.0.27, Extend django-admin to create apps that are easier to set, 2015-05-01T17:25:28+0000
+/project/pymaestro/, pymaestro, 0.1, Pololu Maestro USB SDK in pure Python, 2017-06-11T15:57:07+0000
+/project/pycsdl2/, pycsdl2, 2.0.0.0.dev5, Simple DirectMedia Layer, 2015-10-25T16:03:05+0000
+/project/ezjailremote/, ezjailremote, 0.2.2, a remote control and convenience wrapper for ezjail, 2013-05-03T12:56:47+0000
+/project/pymodbus3/, pymodbus3, 1.0.0, A fully featured modbus protocol stack in python, 2014-07-18T07:20:27+0000
+/project/kivymd-extensions-filemanager/, kivymd-extensions.filemanager, 0.1.5, File manager for desktop, 2020-11-09T16:48:39+0000
+/project/patroni/, patroni, 2.0.2, PostgreSQL High-Available orchestrator and CLI, 2021-02-22T13:49:40+0000
+/project/plow/, plow, 0.4.4, Python client for the Plow render farm, 2013-05-27T11:08:14+0000
+/project/monotonic-time/, monotonic-time, 2.1.0, monotonic time for Python 2 and 3, on Linux, FreeBSD, Mac OS X, and Windows., 2017-05-29T02:43:03+0000
+/project/ofunctions-service-control/, ofunctions.service-control, 0.1.3, Windows & Linux service control functions, 2021-03-30T14:03:42+0000
+/project/scp-marvin/, scp-marvin, 1.0.1, SCP Wiki entry retrieval script, 2015-11-10T18:39:57+0000
+/project/chicken-turtle-util/, chicken_turtle_util, 4.1.2, Python 3 utility library, 2017-06-12T14:15:19+0000
+/project/borgweb/, borgweb, 0.3.0, Browser-based user interface for BorgBackup, 2018-06-25T21:35:12+0000
+/project/fsnix/, fsnix, 0.2, Expose more advanced posix/file system APIs to Python, 2012-11-12T20:42:35+0000
+/project/ofunctions-threading/, ofunctions.threading, 0.1.0, Threading decorator to run functions as threads, 2021-03-30T14:04:27+0000
+/project/ofunctions/, ofunctions, 2.0.3, Toolset with various file logging / network / checksumming / process functions, 2021-03-30T13:58:36+0000
+/project/kivymd/, kivymd, 0.104.1, Set of widgets for Kivy inspired by Google's Material Design, 2020-04-27T20:04:26+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/openlp/, OpenLP, 2.9.2, Open source Church presentation and lyrics projection application., 2020-12-21T18:27:11+0000
+/project/borgbackup/, borgbackup, 1.1.16, Deduplicated, encrypted, authenticated and compressed backups, 2021-03-22T21:44:05+0000
+/project/x84/, x84, 2.0.17, Framework for Telnet and SSH BBS or MUD server development with example default bbs board, 2020-06-17T12:51:31+0000
+/project/kivymd-extensions-akivymd/, kivymd-extensions.akivymd, 1.2.6, A set of fancy widgets for KivyMD, 2021-04-25T19:08:46+0000
+/project/maybe/, maybe, 0.4.0, See what a program does before deciding whether you really want it to happen., 2016-03-27T17:57:21+0000
+/project/setupjavax/, setupjavax, 0.1.38, Support Java extensions for setuptools / distutils., 2019-12-13T13:46:37+0000
+/project/cuts/, cuts, 0.37.7, Remove and/or rearrange sections from each line of a file(s)., 2015-07-26T21:23:19+0000
+/project/fintech/, fintech, 6.6.2, The Python FinTech package (SEPA, EBICS & more), 2021-03-16T00:48:02+0000
+/project/kivymd-extensions-example-extension/, kivymd-extensions.example-extension, 0.1.1, Example extension that adds beautiful button, 2020-11-01T10:35:50+0000
+/project/ffpyplayer/, ffpyplayer, 4.3.2, A cython implementation of an ffmpeg based player., 2020-10-14T23:56:01+0000
+/project/freebsd-ports/, FreeBSD-ports, 0.0.9, Parse FreeBSD Ports INDEX, provide search API, 2019-07-11T21:25:43+0000
+/project/viz-alchemy/, viz-alchemy, 0.0.1, Visualize database relationship for SQLAlchemy, 2020-12-07T16:02:39+0000
+/project/egenix-mxodbc-zopeda/, egenix-mxodbc-zopeda, 2.2.3, eGenix mxODBC Zope/Plone Database Adapter for Plone and Zope, 2015-09-11T18:36:59+0000
+/project/ofunctions-string-handling/, ofunctions.string-handling, 0.1.2, Simple string sanitization functions, 2021-03-30T14:04:04+0000
+/project/env2/, env2, 0.0.0, os.environ on steroids, 2017-11-10T20:41:58+0000
+/project/chicken-turtle-project/, chicken_turtle_project, 2.3.0, Python 3 project development tools, 2016-10-08T00:20:58+0000
+/project/mjail/, mjail, 0.3.0, Command line tool to create and manage FreeBSD jails, 2019-07-08T16:12:10+0000
+/project/ses2/, ses2, 0.1.9, Library for status/control of SES2 enclosure management devices, 2013-11-20T23:14:48+0000
+/project/sixfour/, sixfour, 1.3.3, base64 Image Encoder and Embedder for HTML, CSS, Markdown, LESS, SASS, 2013-11-21T13:34:00+0000
+/project/freezer-api/, freezer-api, 10.0.0, OpenStack Backup and Restore API Service, 2021-04-14T11:04:23+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/varbio/, varbio, 2.0.0, Bioinformatics utility library, 2017-09-27T09:29:56+0000
+/project/openvas-tasks/, openvas_tasks, 1.1, Information and history receptor for OpenVAS tasks, 2015-06-20T15:32:26+0000
+/project/spiceypy/, spiceypy, 4.0.0, A Python Wrapper for the NAIF CSPICE Toolkit, 2020-12-08T02:53:55+0000
+/project/redislite/, redislite, 6.0.674960, Redis built into a python package, 2021-01-26T02:57:03+0000
+/project/platformids/, platformids, 0.1.39, Enumeration of operating systems and their releases., 2019-12-18T14:04:11+0000
+/project/aiengine/, aiengine, 1.6.1, AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine, 2016-10-04T21:03:46+0000
+/project/ifconfigpy/, ifconfigpy, 0.0.1.devr11, ifconfigpy is a python library to manipulate interfaces like ifconfig, 2014-06-24T22:46:47+0000
+/project/pymt/, PyMT, 0.5.1, A framework for making accelerated multitouch UI, 2010-09-06T21:04:31+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/uhid-freebsd/, uhid-freebsd, 1.2.1, Get information on FreeBSD uhid devices., 2019-09-11T22:30:47+0000
+/project/pyspectator-tornado/, pyspectator_tornado, 1.1.2, pyspectator_tornado is a web-monitoring tool ported onTornado with pyspectator as a main monitoring module., 2017-04-14T21:52:28+0000
+/project/fmmap/, fmmap, 2.0.0, A fast reimplementation of mmap, 2020-06-03T18:22:51+0000
+/project/drupan/, drupan, 3.0.2, Drupan is a flexible static site generator helping you     to create blogs, single page applications or traditional websites., 2018-08-03T13:20:54+0000
+/project/esbackup/, esbackup, 0.2, Simple backup tool, 2011-11-02T05:51:55+0000
+/project/fdict/, fdict, 0.8.1, Easy out-of-core computing of recursive dict, 2017-08-08T19:01:56+0000
+/project/anyks-sc/, anyks-sc, 1.2.4, Smart language model, 2020-09-20T11:32:24+0000
+/project/py-rtprio/, py-rtprio, 1.3.1, rtprio(2) interface for altering process priority, 2016-12-03T05:59:14+0000
+/project/alignak/, alignak, 2.1.5, Alignak is a monitoring framework compatible with Nagios configuration and plugins, 2019-04-29T05:09:03+0000
+/project/routerchecker/, routerchecker, 1.1.0, Router firmware update scanner, 2016-05-24T13:09:13+0000
+/project/hark/, hark, 1.0.0.dev3, a simple virtual machine management tool, 2016-08-04T12:30:40+0000
+/project/pilotmapreduce/, PilotMapReduce, 0.1.0, SAGA Pilot-Abstractions based MapReduce Implementation, 2012-11-06T06:48:43+0000
+/project/ofunctions-logger-utils/, ofunctions.logger-utils, 2.0.1, Shorthand for logger initialization, recording worst called loglevel and handling nice console output, 2021-03-30T14:01:09+0000
+/project/blackpanther-pydialog/, blackPanther-pydialog, 0.9.8, PyDialog [PyQt5] is a new dialog instead kdialog or zenity, 2018-12-03T22:21:19+0000
+/project/bitnfly/, bitnfly, 0.0.4, BitnFly is a mini API for working with bit flags, 2016-06-30T12:36:11+0000
+/project/graphillion/, Graphillion, 1.4, Fast, lightweight library for a huge number of graphs, 2020-11-04T14:31:02+0000
+/project/posix-ipc/, posix-ipc, 1.0.5, POSIX IPC primitives (semaphores, shared memory and message queues) for Python, 2020-10-11T00:40:52+0000
+/project/unidist/, unidist, 2010.10.15.0, unidist: Unified Distributed Computing contains: shared message queues, state, counters, locks, logging, and time series collection and graphing (RRD)., 2010-10-15T16:47:12+0000
+/project/checkpkgaudit/, checkpkgaudit, 0.7.2, Check FreeBSD pkg audit Nagios|Icinga|shinken|etc plugin., 2017-06-05T19:38:45+0000
+/project/tqdm/, tqdm, 4.60.0, Fast, Extensible Progress Meter, 2021-04-06T01:23:21+0000
+/project/hookee/, hookee, 2.0.6, Command line webhooks, on demand., 2021-03-08T18:38:14+0000
+/project/sysctl/, sysctl, 0.2, Wrapper for the sysctl* system functions, 2014-06-20T01:26:16+0000
+/project/psutil-extra/, psutil-extra, 0.2.0, Some helper functions to go along with the ones in psutil, 2020-08-03T20:17:49+0000
+/project/rhdndat/, rhdndat, 1.6.6, A www.romhacking.net dat creator and update checker., 2019-06-17T01:13:38+0000
+/project/pypsutil/, pypsutil, 0.1.0, A partial reimplementation of psutil in pure Python using ctypes., 2020-09-01T02:12:23+0000
+/project/procblock/, procblock, 2010.10.15.0, problock is a logic and data tag processor and hardended execution environment., 2010-10-15T16:46:39+0000
+/project/minefield/, minefield, 0.6, High performance Python WSGI Web Server, 2014-11-02T08:09:40+0000
+/project/certifi-system-store/, certifi-system-store, 3021.3.16, A certifi hack to use system trust store on Linux/FreeBSD, 2021-03-16T11:36:33+0000
+/project/uv/, uv, 0.0.3.dev1, Python LibUV CFFI Bindings, 2015-11-26T18:44:58+0000
+/project/zsm-lib/, zsm-lib, 0.2.1, ZFS Snapshot Manager Library, 2021-01-24T23:13:21+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/pydnet/, PyDNET, 1.0, Distribution Network Evaluation Tool, 2017-03-02T15:42:29+0000
+/project/pysendfile/, pysendfile, 2.0.1, A Python interface to sendfile(2), 2014-05-27T11:07:28+0000
+/project/layabout/, layabout, 1.0.2, A small event handling library on top of the Slack RTM API., 2020-01-12T04:10:04+0000
+/project/pyfuse3/, pyfuse3, 3.2.0, Python 3 bindings for libfuse 3 with async I/O support, 2020-12-30T20:03:06+0000
+/project/asyncio-railgun/, asyncio-railgun, 0.0.3, Library for easier asyncio concurrent tasks., 2019-06-23T20:22:51+0000
+/project/py3-bp/, py3-bp, 0.0.4, Ultimate template for new Python 3 projects, 2019-09-20T05:05:48+0000
+/project/kernelchecker/, kernelchecker, 1.0.0, Linux kernel version scanner, 2016-05-24T22:07:55+0000
+/project/ofunctions-file-utils/, ofunctions.file-utils, 0.8.0, Various file handling of which get_files_recursive is the most advanced, 2021-04-06T10:08:52+0000
+/project/mathmakerlib/, mathmakerlib, 0.7.4, Collection of lualatex-printable mathematical objects, including geometric shapes., 2019-02-22T12:35:28+0000
+/project/iterfzf/, iterfzf, 0.5.0.20.0, Pythonic interface to fzf, 2020-02-09T14:54:20+0000
+/project/python-freezerclient/, python-freezerclient, 4.2.0, OpenStack Disaster Recovery API Client Library, 2021-01-18T22:02:28+0000
+/project/psutil/, psutil, 5.8.0, Cross-platform lib for process and system monitoring in Python., 2020-12-19T01:19:27+0000
+/project/py-make/, py-make, 0.1.1, Makefile execution powered by pure Python, 2019-01-21T00:18:55+0000
+/project/grafana-alerts/, grafana_alerts, 1.0.0.dev7, Alerting Module to use with Grafana metrics., 2015-07-27T18:35:36+0000
+/project/splitviewfuse/, splitviewfuse, 0.3.1, A fuse implementation for an segmented view on a given directory., 2016-10-30T15:39:28+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/eddie-tool/, EDDIE-Tool, 1.0.0, The EDDIE Tool is a system and network monitoring, security, and performance analysis agent developed entirely in threaded Python. Its key features are portability, extendibility, and powerful configuration., 2009-09-28T14:19:16+0000
+/project/prwlock/, prwlock, 0.4.1, Native process-shared rwlock support for Python, 2020-05-28T13:37:06+0000
+/project/oonibackend/, oonibackend, 1.3.7, Open Observatory of Network Interference Backend, 2019-12-06T08:33:16+0000
+/project/easytextract/, easytextract, 1.1.5, Easy to use text extractor, from PDF, DOC, DOCX and other document types, using the awesome Textract, including if necessary using OCR (via Tesseract)., 2017-11-12T23:21:14+0000
+/project/csg-dicoms-anonymizer/, csg-dicoms-anonymizer, 1.4.2, Robust and easy to use generic dicoms anonymizer with demographics csv spreadsheet anonymization by hashed ids, 2018-02-17T14:44:12+0000
+/project/daemonize/, daemonize, 2.5.0, Library to enable your code run as a daemon process on Unix-like systems., 2018-12-12T19:47:37+0000
+/project/edison/, edison, 0.0.2, Absurdity as a Service, 2014-02-04T06:19:01+0000
+/project/ofunctions-csv/, ofunctions.csv, 0.2.0, CSV file reader with header management, fieldnames, delimiters and comment skipping, 2021-03-30T13:59:41+0000
+/project/yapytf/, yapytf, 0.5.7, Yet Another Python Terraform Wrapper, 2020-05-27T19:10:37+0000
+/project/pydstool/, PyDSTool, 0.91.0, Python dynamical systems simulation and modeling, 2020-01-31T20:46:21+0000
+/project/git-fame/, git-fame, 1.14.1, Pretty-print `git` repository collaborators sorted by contributions, 2021-03-01T22:16:22+0000
+/project/configparser-crypt/, configparser-crypt, 0.6.2, Drop-in replacement for ConfigParser with encryption support, 2021-03-16T14:04:33+0000
+/project/caspyr/, caspyr, 1.1.1, Cinchingly awesome scripts of Pythonic rapture, 2019-08-01T23:19:27+0000
+/project/check-mount/, check-mount, 1.0.3, Nagios / Icinga plugin to check that mounts are present., 2019-12-12T15:32:16+0000
+/project/pkgdiff/, pkgdiff, 0.1, Compare FreeBSD pkg files by metadata., 2020-12-01T15:19:49+0000
+/project/freezer/, freezer, 10.0.0, The OpenStack Backup Restore and Disaster Recovery as a Service Platform, 2021-04-14T11:03:37+0000
+/project/confset/, confset, 0.1.0, A simple script to change or update package configurations, 2020-05-08T21:30:10+0000
+/project/hark-builder/, hark-builder, 1.0.0.dev6, tool to build hark images, 2016-07-24T06:52:11+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/zsm/, zsm, 0.2.1, ZFS Snapshot Manager, 2021-01-24T23:21:06+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/command-runner/, command-runner, 0.6.3, Platform agnostic command and shell execution tool, also allows UAC/sudo privilege elevation, 2021-03-15T15:28:07+0000
+/project/ofunctions-mailer/, ofunctions.mailer, 0.3.5, Mail sending function that handles encryption, authentication, bulk and split mail sending, 2021-02-11T01:10:18+0000
+/project/sasspython/, SassPython, 0.2.1, binding for libsass, 2012-08-08T08:02:26+0000
+/project/ofunctions-checksums/, ofunctions.checksums, 0.2.1, SHA256 Checksumming functions, checksum manifest file creation and verification, 2021-02-11T01:10:12+0000
+/project/botskeleton/, botskeleton, 3.3.6, A skeleton for content bots., 2019-07-03T04:55:42+0000
+/project/yatfs/, yatfs, 0.4.0, FUSE-based torrent-backed filesystem, 2018-02-01T09:39:13+0000
+/project/namedtupledefs2/, namedtupledefs2, 0.1.21, Extended 'namedtuple' by default values., 2019-12-13T12:31:13+0000
+/project/qtile/, qtile, 0.17.0, A pure-Python tiling window manager., 2021-02-13T18:46:35+0000
+/project/ofunctions-bisection/, ofunctions.bisection, 0.2.1, Bisection function that allows callable to be tested with any list of arguments, 2021-02-11T01:10:11+0000
+/project/aifashion-sdk/, aifashion-sdk, 1.2.0, AIFashion® Python SDK, 2019-07-18T07:39:51+0000
+/project/ofunctions-misc/, ofunctions.misc, 1.0.0, Collection of various functions, 2021-02-11T01:10:19+0000
+/project/dmoj/, dmoj, 3.0.1, The judge component of the DMOJ: Modern Online Judge platform, 2021-02-28T01:28:00+0000
+/project/pcp/, pcp, 1.2, Performance Co-Pilot collector, monitor and instrumentation APIs, 2017-05-31T06:54:19+0000
+/project/attic/, Attic, 0.16, Deduplicated backups, 2015-05-16T19:39:43+0000
+/project/jitterentropy/, jitterentropy, 0.1, Use libjitterentropy to get random bytes, 2019-10-22T01:51:09+0000
+/project/ofunctions-process/, ofunctions.process, 0.1.1, Shorthand for killing an entire process tree, 2021-02-11T01:10:23+0000
+/project/pthat/, pthat, 1.0.1, A package containing the API for the PTHat by CNC Design Limited, 2020-12-01T01:35:06+0000
+/project/serviceping/, serviceping, 20.3.174593, A command line utility that provides a ping like interface for checking tcp/ssl ports and services, 2020-03-13T15:24:26+0000
+/project/accelerator/, accelerator, 2021.4.1.dev1, A tool for fast and reproducible processing of large amounts of data., 2021-04-01T18:54:36+0000
+/project/idem-bsd/, idem-bsd, 4.2, Vertical app merge components for Idem and grains support on BSD, 2020-09-14T17:17:28+0000
+/project/hark-imagestore/, hark-imagestore, 1.0.0.dev4, image store service for the hark tool, 2016-07-24T06:47:28+0000
+/project/ofunctions-platform/, ofunctions.platform, 1.0.1, Very basic platform identification, 2021-03-30T14:02:36+0000
+/project/pysed/, pysed, 0.7.8, CLI utility that parses and transforms text, 2015-07-03T20:03:34+0000
+/project/pytgram/, pytgram, 0.0.7, Library to create Telegram Bot based on Twisted, 2018-02-01T20:07:14+0000
+/project/gphoto2/, gphoto2, 2.2.4, Python interface to libgphoto2, 2020-11-09T18:56:18+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/pyngrok/, pyngrok, 5.0.5, A Python wrapper for ngrok., 2021-03-26T01:04:59+0000
+/project/bbarchivist/, bbarchivist, 4.0.0, BlackBerry OS tools, in Pythons, 2019-09-02T14:02:06+0000
+/project/anyks-lm/, anyks-lm, 3.4.9, Smart language model, 2020-09-20T11:29:41+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/uncrumpled-kivy/, uncrumpled_kivy, 1.9.2.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2017-04-15T08:41:16+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/ofunctions-delayed-keyboardinterrupt/, ofunctions.delayed-keyboardinterrupt, 0.1.0, Intercept CTRL+C signal in your Python code, 2021-02-11T01:10:13+0000
+/project/xattr/, xattr, 0.9.7, Python wrapper for extended filesystem attributes, 2019-12-02T22:37:23+0000
+/project/hypatia-engine/, hypatia_engine, 0.3.6, 2D action adventure game engine, 2015-12-06T02:55:12+0000
+/project/pylibacl/, pylibacl, 0.6.0, POSIX.1e ACLs for python, 2020-11-29T01:49:44+0000
+/project/pytil/, pytil, 7.0.0, Python 3 utility library, 2018-01-08T16:56:58+0000
+/project/distro/, distro, 1.5.0, Distro - an OS platform information API, 2020-03-30T21:22:46+0000
+/project/ofunctions-random/, ofunctions.random, 0.1.1, Simple random string generator including password generator, 2021-02-11T01:10:24+0000
+/project/encviewfuse/, encviewfuse, 0.3.0.post1, A fuse implementation of an encrypted view on a given directory., 2015-12-13T19:56:16+0000
+/project/dlipower/, dlipower, 1.0.176, Control digital loggers web power switch, 2018-06-16T07:34:24+0000
+/project/argopt/, argopt, 0.7.0, doc to argparse driven by docopt, 2021-03-01T16:51:30+0000
+/project/ooniprobe/, ooniprobe, 2.3.0, Network measurement tool foridentifying traffic manipulation and blocking., 2018-02-14T09:14:22+0000
+/project/pyramidueditor/, pyramidueditor, 1.0.1, A Pyramid application for Baidu Ueditor., 2015-06-05T09:52:25+0000
+/project/dropstar/, dropstar, 2010.10.14.0, dropSTAR: Drop Scripts, Templates and RPC.  A stand-alone HTTP server for mixing dynamic and static content with RPC calls.  Focused on system administration and automation tasks., 2010-10-14T18:22:11+0000
+/project/theonionbox/, theonionbox, 20.2, The Onion Box: Dashboard to monitor Tor node operations., 2020-01-19T16:46:06+0000
+/project/opencanary/, opencanary, 0.6.1, OpenCanary daemon, 2021-03-30T13:07:18+0000
+/project/pymmbfuse/, pymmbfuse, 0.7.4, Fuse driver for BBC Microcomputer DFS disk images and MMB disk bundles, 2020-05-11T17:10:58+0000
+/project/za-id-number/, za-id-number, 0.0.3, Library South African ID number validation and easy data extraction., 2021-01-20T17:25:10+0000
+/project/darfortie/, darfortie, 1.0.2, A utility that extends and simplifies using dar (Disk ARchive) for doing routine incremental backups., 2020-02-01T05:11:55+0000
+/project/fbsd-gpio/, fbsd_gpio, 0.5.0, cffi-based Python bindings for FreeBSD GPIO, 2016-04-02T22:34:36+0000
+/project/llfuse/, llfuse, 1.4.1, Python bindings for the low-level FUSE API, 2021-01-31T20:50:00+0000
+/project/kivymd-extensions-sweetalert/, kivymd-extensions.sweetalert, 0.1.5, Beautiful, responsive, customizable and accessible popup replacement, 2020-11-23T08:34:34+0000
+/project/mkbak-iterfzf/, mkbak-iterfzf, 0.7.0.25.1, Pythonic interface to fzf, 2021-02-09T20:43:21+0000
+/project/kivymd-extensions/, kivymd-extensions, 1.0.0, Additional packages for KivyMD library, 2020-11-01T08:53:17+0000
+/project/papa/, papa, 1.0.6, Simple socket and process kernel, 2016-01-20T22:53:19+0000
+/project/sysv-ipc/, sysv-ipc, 1.1.0, System V IPC primitives (semaphores, shared memory and message queues) for Python, 2021-01-17T19:07:39+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/xattr-compat/, xattr-compat, 1.0.0, Multi-platform extended attributes support, 2021-03-03T21:20:29+0000
+/project/bsdploy/, bsdploy, 2.3.0, A tool to remotely provision, configure and maintain FreeBSD jails, 2017-11-13T10:09:00+0000
+/project/pyssh-ctypes/, pyssh-ctypes, 0.3, Python bindings for libssh on top of ctypes, 2014-01-20T20:26:45+0000
+/project/autopalette/, autopalette, 0.1.0-2, Terminal palettes and themes, without tears., 2018-06-05T09:28:53+0000
+/project/py-capsicum-cffi/, py-capsicum-cffi, 3, Python interface to Capsicum, 2020-04-06T03:06:43+0000
+/project/dicksonui/, DicksonUI, 2.4.5, Lightweight And Full Featured Browser Based UI / GUI (Graphical User Interface Library), 2020-10-16T13:10:48+0000
+/project/cryptidy/, cryptidy, 1.0.5, Python high level library for symmetric & asymmetric encryption, 2021-03-16T11:14:16+0000
+/project/mikroe-uhb/, mikroe-uhb, 0.2, USB HID Bootloader programmer for MikroElektronika devices, 2014-02-18T12:06:12+0000
+/project/kivy-jetson/, Kivy-jetson, 2.1.0.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2021-02-17T16:47:10+0000
+/project/prepnet/, prepnet, 0.2.0, Reconstructable preprocessor library, 2020-08-31T11:13:16+0000
+/project/ofunctions-json-sanitize/, ofunctions.json-sanitize, 0.1.1, Simple tool that filters unwanted characters including non printable from JSON objects, 2021-02-11T01:10:15+0000
+/project/teleme/, teleme, 0.1.0, An async, super simple Telegram Bot framework., 2020-05-22T13:16:07+0000
+/project/aiosmtpd/, aiosmtpd, 1.4.2, aiosmtpd - asyncio based SMTP server, 2021-03-08T04:32:36+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/ofunctions-network/, ofunctions.network, 0.5.0, Network diagnostics, MTU probing, Public IP discovery, HTTP/HTTPS internet connectivty tests, ping, 2021-02-11T01:10:20+0000
+/project/nuitka/, Nuitka, 0.6.14.4, Python compiler with full language support and CPython compatibility, 2021-04-18T14:21:23+0000
+/project/namedtupledefs/, namedtupledefs, 0.1.21, Extended 'namedtuple' by default values., 2019-12-13T12:30:09+0000
+/project/unix-cred/, unix-cred, 0.2.1, A library that simplifies reading peer credentials from Unix domain sockets, 2021-01-08T19:10:52+0000
+/project/dmoj/, dmoj, 3.0.1, The judge component of the DMOJ: Modern Online Judge platform, 2021-02-28T01:28:00+0000
+/project/pcp/, pcp, 1.2, Performance Co-Pilot collector, monitor and instrumentation APIs, 2017-05-31T06:54:19+0000
+/project/attic/, Attic, 0.16, Deduplicated backups, 2015-05-16T19:39:43+0000
+/project/jitterentropy/, jitterentropy, 0.1, Use libjitterentropy to get random bytes, 2019-10-22T01:51:09+0000
+/project/ofunctions-process/, ofunctions.process, 0.1.1, Shorthand for killing an entire process tree, 2021-02-11T01:10:23+0000
+/project/django-easy-app/, django-easy-app, 0.0.27, Extend django-admin to create apps that are easier to set, 2015-05-01T17:25:28+0000
+/project/pymaestro/, pymaestro, 0.1, Pololu Maestro USB SDK in pure Python, 2017-06-11T15:57:07+0000
+/project/pycsdl2/, pycsdl2, 2.0.0.0.dev5, Simple DirectMedia Layer, 2015-10-25T16:03:05+0000
+/project/ezjailremote/, ezjailremote, 0.2.2, a remote control and convenience wrapper for ezjail, 2013-05-03T12:56:47+0000
+/project/kivymd-extensions-filemanager/, kivymd-extensions.filemanager, 0.1.5, File manager for desktop, 2020-11-09T16:48:39+0000
+/project/pymodbus3/, pymodbus3, 1.0.0, A fully featured modbus protocol stack in python, 2014-07-18T07:20:27+0000
+/project/patroni/, patroni, 2.0.2, PostgreSQL High-Available orchestrator and CLI, 2021-02-22T13:49:40+0000
+/project/plow/, plow, 0.4.4, Python client for the Plow render farm, 2013-05-27T11:08:14+0000
+/project/monotonic-time/, monotonic-time, 2.1.0, monotonic time for Python 2 and 3, on Linux, FreeBSD, Mac OS X, and Windows., 2017-05-29T02:43:03+0000
+/project/ofunctions-service-control/, ofunctions.service-control, 0.1.3, Windows & Linux service control functions, 2021-03-30T14:03:42+0000
+/project/scp-marvin/, scp-marvin, 1.0.1, SCP Wiki entry retrieval script, 2015-11-10T18:39:57+0000
+/project/chicken-turtle-util/, chicken_turtle_util, 4.1.2, Python 3 utility library, 2017-06-12T14:15:19+0000
+/project/borgweb/, borgweb, 0.3.0, Browser-based user interface for BorgBackup, 2018-06-25T21:35:12+0000

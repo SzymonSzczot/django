@@ -1,0 +1,188 @@
+/project/pglogmon/, pglogmon, 1.0.0, Tool to monitor postgresql CSV logs, 2017-04-11T13:01:44+0000
+/project/plp-ada/, plp.Ada, 0.0.0a1, Parser for Ada programming language., 2018-11-19T21:06:52+0000
+/project/plp-simula/, plp.Simula, 0.0.0a1, Parser for Simula67 programming language., 2018-11-19T14:51:13+0000
+/project/earthreader-web/, EarthReader-Web, 0.3.0, Earth Reader for Web, 2015-02-24T07:46:49+0000
+/project/wand/, Wand, 0.6.6, Ctypes-based simple MagickWand API binding for Python, 2021-02-28T12:46:37+0000
+/project/libcgroup/, libcgroup, 0.2.4, A library that handles Linux cgroups internally using the libcgroup shared library., 2019-03-29T18:24:36+0000
+/project/jtypes-rubicon/, jtypes.rubicon, 0.1.0a2, A bridge interface between Python and Java (ctypes/cffi-based rubicon-java), 2018-11-12T15:01:09+0000
+/project/plp-sql/, plp.SQL, 0.0.0a1, Parser for SQL query language., 2018-11-19T14:57:28+0000
+/project/jtypes-jpy/, jtypes.jpy, 0.10.0a3, Bi-directional Python-Java bridge (ctypes/cffi-based Jpy), 2018-11-13T13:43:50+0000
+/project/chicken-turtle-project/, chicken_turtle_project, 2.3.0, Python 3 project development tools, 2016-10-08T00:20:58+0000
+/project/vardef/, vardef, 0.1.0, Python decorator to turn a function into a variable definition, 2020-12-04T18:59:47+0000
+/project/typequery/, TypeQuery, 0.1.5, A simple and dirty way to define generic methods to existing types., 2016-06-22T18:19:25+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/btd-sphinx-autoprogram/, btd.sphinx.autoprogram, 0.1.6.post1, Documenting CLI programs, 2020-01-13T18:22:58+0000
+/project/sphinxcontrib-autoprogram/, sphinxcontrib-autoprogram, 0.1.7, Documenting CLI programs, 2021-02-10T17:16:03+0000
+/project/plp-java/, plp.Java, 0.0.0a1, Parser for Java programming language., 2018-11-19T13:45:21+0000
+/project/plp-oql/, plp.OQL, 0.0.0a1, Parser for OQL query language., 2018-11-19T20:57:32+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/varbio/, varbio, 2.0.0, Bioinformatics utility library, 2017-09-27T09:29:56+0000
+/project/hikari/, hikari, 2.0.0.dev100, A sane Discord API for Python 3 built on asyncio and good intentions, 2021-01-25T11:36:48+0000
+/project/plp-vb/, plp.VB, 0.0.0a1, Parser for VisualBasic programming language., 2018-11-19T21:27:21+0000
+/project/iso4217/, iso4217, 1.6.20180829, ISO 4217 currency data package for Python, 2019-10-12T19:05:28+0000
+/project/jtypes-jep/, jtypes.jep, 3.8.2a2, Java Embedded Python (ctypes/cffi-based Jep), 2018-11-14T07:39:54+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/plp-midl/, plp.MIDL, 0.0.0a1, Parser for MIDL Microsoft interface definition language., 2018-11-19T21:56:38+0000
+/project/tcafe-attending-bot/, tcafe-attending-bot, 0.1.1, Auto attending bot for TCafe, 2019-12-05T15:51:27+0000
+/project/plp-idl/, plp.IDL, 0.0.0a1, Parser for OMG IDL interface definition language., 2018-11-19T21:23:25+0000
+/project/aiofile-linux/, aiofile-linux, 0.1.0, Linux aio ABI wrapper, 2019-01-30T07:57:49+0000
+/project/slownie/, slownie, 1.1.2, Polish spelled-out numbers and amounts., 2020-10-18T05:21:33+0000
+/project/jtypes-javabridge/, jtypes.javabridge, 1.0.18b3, Python wrapper for the Java Native Interface (ctypes/cffi-based javabridge), 2018-11-12T15:00:15+0000
+/project/autologging/, Autologging, 1.3.2, Autologging makes logging and tracing Python classes easy., 2019-04-20T18:37:29+0000
+/project/iso-3166-1/, iso-3166-1, 0.0.3, ISO 3361-1 Country code package for Python, 2015-11-17T16:45:45+0000
+/project/jni/, jni, 1.0.0b17, Python bridge for the Java Native Interface., 2020-11-10T20:05:28+0000
+/project/qqt/, QQt, 1.1.1rc7, Wrapper for various PySide2/PyQt5 related packages., 2020-10-18T04:56:50+0000
+/project/jvm/, jvm, 0.5.0b3, Python bridge for the Java Virtual Machine., 2020-12-13T20:54:47+0000
+/project/sqlalchemy-utc/, SQLAlchemy-Utc, 0.11.0, SQLAlchemy type to store aware datetime values, 2020-11-13T02:43:12+0000
+/project/paebbels-sphinxcontrib-autoprogram/, Paebbels.sphinxcontrib.autoprogram, 0.1.6a1.post2, Documenting CLI programs, 2020-01-10T00:14:46+0000
+/project/jsonchecker/, jsonchecker, 0.8.0, Script that validates JSON files and checks for duplicate keys., 2016-02-09T09:50:41+0000
+/project/annotate/, annotate, 1.0.15, Decorator to set a function's __annotations__ like Py3., 2020-10-18T03:35:30+0000
+/project/niconico-translator/, niconico-translator, 0.1.5, Translating comments on Nico Nico Douga (ニコニコ動画)., 2015-09-19T14:23:10+0000
+/project/libsass/, libsass, 0.20.1, Sass for Python: A straightforward binding of libsass for Python., 2020-08-27T22:07:12+0000
+/project/jtypes-jython/, jtypes.jython, 0.0.3a3, Java Embedded Python (ctypes/cffi-based Jython), 2018-11-13T12:11:27+0000
+/project/crc-ct/, crc-ct, 1.1.0rc3, C and Python CRC calculations module., 2020-10-18T03:55:10+0000
+/project/jtypes-jcc/, jtypes.jcc, 2.22.0a8, PyLucene's Python to Java bridge (ctypes/cffi-based JCC), 2018-11-13T15:17:30+0000
+/project/encodingcontext/, encodingcontext, 0.9.0, A bad idea about the default encoding, 2012-09-25T04:05:28+0000
+/project/compose/, compose, 1.1.1, The classic ``compose``, with all the Pythonic features., 2020-04-21T05:23:08+0000
+/project/wandex/, wandex, 0.4.5, Ctypes-based simple MagickWand API binding for Python, 2018-04-25T15:21:51+0000
+/project/monthday/, monthday, 0.9.0, Date without year, 2015-11-28T20:16:58+0000
+/project/stackless-python/, stackless-python, 10.0, Installer for Stackless Python, 2013-03-29T11:12:45+0000
+/project/pyc-wheel/, pyc-wheel, 1.2.4, Compile all py files in a wheel to pyc files., 2020-10-18T04:44:22+0000
+/project/pcap-ct/, pcap-ct, 1.2.3b5, Python wrapper for the pcap library., 2020-10-18T04:32:39+0000
+/project/sasspython/, SassPython, 0.2.1, binding for libsass, 2012-08-08T08:02:26+0000
+/project/subtoml/, subtoml, 0.3.0, Sed for TOML: subtitute parts of a TOML file, 2017-08-28T16:02:41+0000
+/project/boxmath/, boxmath, 0.1.3, Simple image box arithmetic, 2013-08-06T14:54:55+0000
+/project/sqlalchemy-enum34/, SQLAlchemy-Enum34, 2.0.0, SQLAlchemy type to store standard enum.Enum value, 2021-04-14T04:30:04+0000
+/project/hikari-lightbulb/, hikari-lightbulb, 0.0.59, A simple to use command handler for Hikari, 2021-02-17T13:47:04+0000
+/project/thot/, thot, 1.1.0, A Python-Powered Static Site Generator, 2013-03-06T02:51:37+0000
+/project/lazylist/, lazylist, 0.9.0, Proxy list to a list-returning function, 2015-12-11T18:18:31+0000
+/project/sqlalchemy-imageattach/, SQLAlchemy-ImageAttach, 1.1.0, SQLAlchemy extension for attaching images to entity objects, 2017-10-09T20:25:16+0000
+/project/aglyph/, Aglyph, 3.0.0.post1, Aglyph is a Dependency Injection framework for Python., 2018-08-29T12:13:57+0000
+/project/plasticscm/, plasticscm, 0.2.0a5, Python package providing access to the PlasticSCM client API., 2020-10-18T04:39:12+0000
+/project/memorybuffer/, memorybuffer, 0.5.0b2, Python buffer protocol., 2020-10-18T04:25:19+0000
+/project/pghstore/, pghstore, 2.0.2, PostgreSQL hstore formatter, 2020-05-07T13:44:48+0000
+/project/pyheapdump/, pyheapdump, 0.2.8, Post-mortem debugging for Python programs, 2016-08-01T17:06:01+0000
+/project/svgmanip/, svgmanip, 0.0.10, `svgmanip` helps import and composite together existing SVG drawings. More information is available at the GitHub README., 2020-11-19T19:26:39+0000
+/project/fixqueue/, FixQueue, 0.1.1, Simplest Queue package to make a fixed size queue on your platform and apps. You just need to import and use FixQueue-based queues., 2016-03-22T16:51:05+0000
+/project/sphinx-fakeinv/, sphinx-fakeinv, 1.0.0, Generate fake Intersphinx inventory, 2016-09-18T18:39:01+0000
+/project/jtypes-py4j/, jtypes.py4j, 0.10.8a1, Enables Python to dynamically access arbitrary Java objects (ctypes/cffi-based Py4J), 2018-11-13T15:59:36+0000
+/project/plp-csharp/, plp.CSharp, 0.0.0a1, Parser for CSharp programming language., 2018-11-19T13:48:12+0000
+/project/linux-aio-bind/, linux-aio-bind, 1.0.0, Python binding for Linux AIO, 2019-01-22T16:05:40+0000
+/project/pytil/, pytil, 7.0.0, Python 3 utility library, 2018-01-08T16:56:58+0000
+/project/plp-c/, plp.C, 0.0.0a1, Parser for C programming language., 2018-11-19T13:42:29+0000
+/project/iso-20275/, iso-20275, 0.0.13, ISO 20275 Entity Legal Type package for Python, 2021-02-12T18:21:19+0000
+/project/libpcap/, libpcap, 1.10.0b15, Python binding for the libpcap C library., 2020-10-18T04:12:21+0000
+/project/jtypes-pyjnius/, jtypes.pyjnius, 1.1.4b4, Dynamic access to Java classes from Python (ctypes/cffi-based PyJNIus), 2018-11-12T15:01:32+0000
+/project/libcgroup-bind/, libcgroup-bind, 1.0.7, Python binding for libcgroup, 2019-03-29T17:13:32+0000
+/project/css-crawler/, css_crawler, 0.0.5, CSSCrawler is a Nagare application that parses CSSstyles from website URL and generate a color palette., 2013-03-16T21:23:46+0000
+/project/dicksonui/, DicksonUI, 2.4.5, Lightweight And Full Featured Browser Based UI / GUI (Graphical User Interface Library), 2020-10-16T13:10:48+0000
+/project/plp-cxx/, plp.CXX, 0.0.0a1, Parser for C++ programming language., 2018-11-19T14:55:14+0000
+/project/sider/, Sider, 0.3.1, A persistent object library based on Redis, 2015-08-16T12:04:55+0000
+/project/libearth/, libearth, 0.3.3, The shared common library for Earth Reader apps, 2014-11-05T18:30:33+0000
+/project/linux-aio/, linux-aio, 0.4.1, Linux aio ABI wrapper, 2019-01-29T12:07:01+0000
+/project/plp-cpp/, plp.CPP, 0.0.0a1, Parser for C programming language preprocessor., 2018-11-19T21:12:13+0000
+/project/jyplotter/, JyPlotter, 0.9.5, Graph plotting library with backends for different GUIs, 2017-09-02T19:55:05+0000
+/project/stringdist/, StringDist, 1.0.9, This package provides the stringdist module, which includes several functions for calculating string distances. Under the hood, a C extension module is preferentially used for optimal performance, with an automatic fallback to a Python implementation., 2017-05-11T07:54:52+0000
+/project/c99/, C99, 1.0.7, C99 headers and libraries that are missing from the C compilers for Python2., 2020-10-18T03:49:10+0000
+/project/let3/, let3, 1.0.15, Assign variables wherever, whenever you want., 2020-10-18T03:30:07+0000
+/project/jtypes-pyjava/, jtypes.pyjava, 0.1.5b2, A Python to Java bridge (ctypes/cffi-based PyJava)., 2020-11-11T08:54:16+0000
+/project/pysass/, pysass, 0.1.0, Sass CLI Python: A wrapper to libsass-python with watchdog capability., 2019-03-17T16:38:05+0000
+/project/jtypes-jpype/, jtypes.jpype, 0.6.3b3, A Python to Java bridge (ctypes/cffi-based JPype)., 2018-11-12T15:02:20+0000
+/project/libusb/, libusb, 1.0.23b7, Python binding for the libusb C library., 2020-11-19T08:44:56+0000
+/project/renumerate/, renumerate, 1.1.4, Reverse enumerate., 2020-10-18T05:01:31+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/chicken-turtle-util/, chicken_turtle_util, 4.1.2, Python 3 utility library, 2017-06-12T14:15:19+0000
+/project/pglogmon/, pglogmon, 1.0.0, Tool to monitor postgresql CSV logs, 2017-04-11T13:01:44+0000
+/project/plp-ada/, plp.Ada, 0.0.0a1, Parser for Ada programming language., 2018-11-19T21:06:52+0000
+/project/plp-simula/, plp.Simula, 0.0.0a1, Parser for Simula67 programming language., 2018-11-19T14:51:13+0000
+/project/earthreader-web/, EarthReader-Web, 0.3.0, Earth Reader for Web, 2015-02-24T07:46:49+0000
+/project/wand/, Wand, 0.6.6, Ctypes-based simple MagickWand API binding for Python, 2021-02-28T12:46:37+0000
+/project/libcgroup/, libcgroup, 0.2.4, A library that handles Linux cgroups internally using the libcgroup shared library., 2019-03-29T18:24:36+0000
+/project/plp-java/, plp.Java, 0.0.0a1, Parser for Java programming language., 2018-11-19T13:45:21+0000
+/project/btd-sphinx-autoprogram/, btd.sphinx.autoprogram, 0.1.6.post1, Documenting CLI programs, 2020-01-13T18:22:58+0000
+/project/sphinxcontrib-autoprogram/, sphinxcontrib-autoprogram, 0.1.7, Documenting CLI programs, 2021-02-10T17:16:03+0000
+/project/plp-oql/, plp.OQL, 0.0.0a1, Parser for OQL query language., 2018-11-19T20:57:32+0000
+/project/jtypes-rubicon/, jtypes.rubicon, 0.1.0a2, A bridge interface between Python and Java (ctypes/cffi-based rubicon-java), 2018-11-12T15:01:09+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/plp-sql/, plp.SQL, 0.0.0a1, Parser for SQL query language., 2018-11-19T14:57:28+0000
+/project/jtypes-jpy/, jtypes.jpy, 0.10.0a3, Bi-directional Python-Java bridge (ctypes/cffi-based Jpy), 2018-11-13T13:43:50+0000
+/project/chicken-turtle-project/, chicken_turtle_project, 2.3.0, Python 3 project development tools, 2016-10-08T00:20:58+0000
+/project/vardef/, vardef, 0.1.0, Python decorator to turn a function into a variable definition, 2020-12-04T18:59:47+0000
+/project/typequery/, TypeQuery, 0.1.5, A simple and dirty way to define generic methods to existing types., 2016-06-22T18:19:25+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/varbio/, varbio, 2.0.0, Bioinformatics utility library, 2017-09-27T09:29:56+0000
+/project/hikari/, hikari, 2.0.0.dev100, A sane Discord API for Python 3 built on asyncio and good intentions, 2021-01-25T11:36:48+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/plp-midl/, plp.MIDL, 0.0.0a1, Parser for MIDL Microsoft interface definition language., 2018-11-19T21:56:38+0000
+/project/crc-ct/, crc-ct, 1.1.0rc3, C and Python CRC calculations module., 2020-10-18T03:55:10+0000
+/project/tcafe-attending-bot/, tcafe-attending-bot, 0.1.1, Auto attending bot for TCafe, 2019-12-05T15:51:27+0000
+/project/plp-idl/, plp.IDL, 0.0.0a1, Parser for OMG IDL interface definition language., 2018-11-19T21:23:25+0000
+/project/aiofile-linux/, aiofile-linux, 0.1.0, Linux aio ABI wrapper, 2019-01-30T07:57:49+0000
+/project/iso-3166-1/, iso-3166-1, 0.0.3, ISO 3361-1 Country code package for Python, 2015-11-17T16:45:45+0000
+/project/jtypes-jcc/, jtypes.jcc, 2.22.0a8, PyLucene's Python to Java bridge (ctypes/cffi-based JCC), 2018-11-13T15:17:30+0000
+/project/jsonchecker/, jsonchecker, 0.8.0, Script that validates JSON files and checks for duplicate keys., 2016-02-09T09:50:41+0000
+/project/sqlalchemy-enum34/, SQLAlchemy-Enum34, 2.0.0, SQLAlchemy type to store standard enum.Enum value, 2021-04-14T04:30:04+0000
+/project/wandex/, wandex, 0.4.5, Ctypes-based simple MagickWand API binding for Python, 2018-04-25T15:21:51+0000
+/project/monthday/, monthday, 0.9.0, Date without year, 2015-11-28T20:16:58+0000
+/project/plp-vb/, plp.VB, 0.0.0a1, Parser for VisualBasic programming language., 2018-11-19T21:27:21+0000
+/project/annotate/, annotate, 1.0.15, Decorator to set a function's __annotations__ like Py3., 2020-10-18T03:35:30+0000
+/project/iso4217/, iso4217, 1.6.20180829, ISO 4217 currency data package for Python, 2019-10-12T19:05:28+0000
+/project/jtypes-jep/, jtypes.jep, 3.8.2a2, Java Embedded Python (ctypes/cffi-based Jep), 2018-11-14T07:39:54+0000
+/project/niconico-translator/, niconico-translator, 0.1.5, Translating comments on Nico Nico Douga (ニコニコ動画)., 2015-09-19T14:23:10+0000
+/project/libsass/, libsass, 0.20.1, Sass for Python: A straightforward binding of libsass for Python., 2020-08-27T22:07:12+0000
+/project/jtypes-jython/, jtypes.jython, 0.0.3a3, Java Embedded Python (ctypes/cffi-based Jython), 2018-11-13T12:11:27+0000
+/project/slownie/, slownie, 1.1.2, Polish spelled-out numbers and amounts., 2020-10-18T05:21:33+0000
+/project/jtypes-javabridge/, jtypes.javabridge, 1.0.18b3, Python wrapper for the Java Native Interface (ctypes/cffi-based javabridge), 2018-11-12T15:00:15+0000
+/project/autologging/, Autologging, 1.3.2, Autologging makes logging and tracing Python classes easy., 2019-04-20T18:37:29+0000
+/project/jni/, jni, 1.0.0b17, Python bridge for the Java Native Interface., 2020-11-10T20:05:28+0000
+/project/encodingcontext/, encodingcontext, 0.9.0, A bad idea about the default encoding, 2012-09-25T04:05:28+0000
+/project/qqt/, QQt, 1.1.1rc7, Wrapper for various PySide2/PyQt5 related packages., 2020-10-18T04:56:50+0000
+/project/jvm/, jvm, 0.5.0b3, Python bridge for the Java Virtual Machine., 2020-12-13T20:54:47+0000
+/project/sqlalchemy-utc/, SQLAlchemy-Utc, 0.11.0, SQLAlchemy type to store aware datetime values, 2020-11-13T02:43:12+0000
+/project/compose/, compose, 1.1.1, The classic ``compose``, with all the Pythonic features., 2020-04-21T05:23:08+0000
+/project/paebbels-sphinxcontrib-autoprogram/, Paebbels.sphinxcontrib.autoprogram, 0.1.6a1.post2, Documenting CLI programs, 2020-01-10T00:14:46+0000
+/project/stackless-python/, stackless-python, 10.0, Installer for Stackless Python, 2013-03-29T11:12:45+0000
+/project/pyc-wheel/, pyc-wheel, 1.2.4, Compile all py files in a wheel to pyc files., 2020-10-18T04:44:22+0000
+/project/pcap-ct/, pcap-ct, 1.2.3b5, Python wrapper for the pcap library., 2020-10-18T04:32:39+0000
+/project/sasspython/, SassPython, 0.2.1, binding for libsass, 2012-08-08T08:02:26+0000
+/project/subtoml/, subtoml, 0.3.0, Sed for TOML: subtitute parts of a TOML file, 2017-08-28T16:02:41+0000
+/project/boxmath/, boxmath, 0.1.3, Simple image box arithmetic, 2013-08-06T14:54:55+0000
+/project/hikari-lightbulb/, hikari-lightbulb, 0.0.59, A simple to use command handler for Hikari, 2021-02-17T13:47:04+0000
+/project/thot/, thot, 1.1.0, A Python-Powered Static Site Generator, 2013-03-06T02:51:37+0000
+/project/lazylist/, lazylist, 0.9.0, Proxy list to a list-returning function, 2015-12-11T18:18:31+0000
+/project/sqlalchemy-imageattach/, SQLAlchemy-ImageAttach, 1.1.0, SQLAlchemy extension for attaching images to entity objects, 2017-10-09T20:25:16+0000
+/project/aglyph/, Aglyph, 3.0.0.post1, Aglyph is a Dependency Injection framework for Python., 2018-08-29T12:13:57+0000
+/project/jtypes-jpype/, jtypes.jpype, 0.6.3b3, A Python to Java bridge (ctypes/cffi-based JPype)., 2018-11-12T15:02:20+0000
+/project/libusb/, libusb, 1.0.23b7, Python binding for the libusb C library., 2020-11-19T08:44:56+0000
+/project/renumerate/, renumerate, 1.1.4, Reverse enumerate., 2020-10-18T05:01:31+0000
+/project/sider/, Sider, 0.3.1, A persistent object library based on Redis, 2015-08-16T12:04:55+0000
+/project/libearth/, libearth, 0.3.3, The shared common library for Earth Reader apps, 2014-11-05T18:30:33+0000
+/project/linux-aio/, linux-aio, 0.4.1, Linux aio ABI wrapper, 2019-01-29T12:07:01+0000
+/project/libpcap/, libpcap, 1.10.0b15, Python binding for the libpcap C library., 2020-10-18T04:12:21+0000
+/project/fixqueue/, FixQueue, 0.1.1, Simplest Queue package to make a fixed size queue on your platform and apps. You just need to import and use FixQueue-based queues., 2016-03-22T16:51:05+0000
+/project/sphinx-fakeinv/, sphinx-fakeinv, 1.0.0, Generate fake Intersphinx inventory, 2016-09-18T18:39:01+0000
+/project/jtypes-py4j/, jtypes.py4j, 0.10.8a1, Enables Python to dynamically access arbitrary Java objects (ctypes/cffi-based Py4J), 2018-11-13T15:59:36+0000
+/project/plp-csharp/, plp.CSharp, 0.0.0a1, Parser for CSharp programming language., 2018-11-19T13:48:12+0000
+/project/linux-aio-bind/, linux-aio-bind, 1.0.0, Python binding for Linux AIO, 2019-01-22T16:05:40+0000
+/project/iso-20275/, iso-20275, 0.0.13, ISO 20275 Entity Legal Type package for Python, 2021-02-12T18:21:19+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/chicken-turtle-util/, chicken_turtle_util, 4.1.2, Python 3 utility library, 2017-06-12T14:15:19+0000
+/project/plp-cxx/, plp.CXX, 0.0.0a1, Parser for C++ programming language., 2018-11-19T14:55:14+0000
+/project/plp-cpp/, plp.CPP, 0.0.0a1, Parser for C programming language preprocessor., 2018-11-19T21:12:13+0000
+/project/jyplotter/, JyPlotter, 0.9.5, Graph plotting library with backends for different GUIs, 2017-09-02T19:55:05+0000
+/project/stringdist/, StringDist, 1.0.9, This package provides the stringdist module, which includes several functions for calculating string distances. Under the hood, a C extension module is preferentially used for optimal performance, with an automatic fallback to a Python implementation., 2017-05-11T07:54:52+0000
+/project/c99/, C99, 1.0.7, C99 headers and libraries that are missing from the C compilers for Python2., 2020-10-18T03:49:10+0000
+/project/libearth/, libearth, 0.3.3, The shared common library for Earth Reader apps, 2014-11-05T18:30:33+0000
+/project/linux-aio/, linux-aio, 0.4.1, Linux aio ABI wrapper, 2019-01-29T12:07:01+0000
+/project/plp-cpp/, plp.CPP, 0.0.0a1, Parser for C programming language preprocessor., 2018-11-19T21:12:13+0000
+/project/jyplotter/, JyPlotter, 0.9.5, Graph plotting library with backends for different GUIs, 2017-09-02T19:55:05+0000
+/project/stringdist/, StringDist, 1.0.9, This package provides the stringdist module, which includes several functions for calculating string distances. Under the hood, a C extension module is preferentially used for optimal performance, with an automatic fallback to a Python implementation., 2017-05-11T07:54:52+0000
+/project/c99/, C99, 1.0.7, C99 headers and libraries that are missing from the C compilers for Python2., 2020-10-18T03:49:10+0000
+/project/let3/, let3, 1.0.15, Assign variables wherever, whenever you want., 2020-10-18T03:30:07+0000
+/project/jtypes-pyjava/, jtypes.pyjava, 0.1.5b2, A Python to Java bridge (ctypes/cffi-based PyJava)., 2020-11-11T08:54:16+0000
+/project/pysass/, pysass, 0.1.0, Sass CLI Python: A wrapper to libsass-python with watchdog capability., 2019-03-17T16:38:05+0000
+/project/jtypes-jpype/, jtypes.jpype, 0.6.3b3, A Python to Java bridge (ctypes/cffi-based JPype)., 2018-11-12T15:02:20+0000
+/project/libusb/, libusb, 1.0.23b7, Python binding for the libusb C library., 2020-11-19T08:44:56+0000
+/project/renumerate/, renumerate, 1.1.4, Reverse enumerate., 2020-10-18T05:01:31+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/chicken-turtle-util/, chicken_turtle_util, 4.1.2, Python 3 utility library, 2017-06-12T14:15:19+0000

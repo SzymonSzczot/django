@@ -1,0 +1,934 @@
+/project/metabolexecutor/, metabolexecutor, 20.0.post1, Programmer friendly subprocess wrapper, 2018-09-10T21:34:09+0000
+/project/sarge/, sarge, 0.1.6, A wrapper for subprocess which provides command pipeline functionality., 2020-08-24T12:28:04+0000
+/project/argcompd/, argcompd, 0.9.0.1, A package providing automated shell completion support for argparse., 2017-01-23T15:59:52+0000
+/project/ufp/, ufp, 1.14, ufp 라이브러리 python 버전. 각종, 편리한 함수들의 모음., 2015-06-14T13:51:19+0000
+/project/batchexec/, batchexec, 0.0.5, Batch execute any task, with simple json config, 2021-02-26T22:42:20+0000
+/project/pyle/, pyle, 0.4.1, Use Python for shell one-liners., 2019-05-23T09:20:04+0000
+/project/swk-foreman/, swk_foreman, 0.0.2a6, Plugin for swk, enabling Foreman api, 2016-10-14T08:51:48+0000
+/project/jython-kernel/, jython-kernel, 2.0, A Jython kernel for Jupyter/IPython, 2018-04-02T02:13:32+0000
+/project/ofunctions/, ofunctions, 2.0.3, Toolset with various file logging / network / checksumming / process functions, 2021-03-30T13:58:36+0000
+/project/que/, que, 0.0.2, CSS selectors for parsing html on the command line, 2017-06-30T17:15:23+0000
+/project/rshell/, rshell, 0.0.30, A remote shell for working with MicroPython boards., 2021-03-01T22:24:24+0000
+/project/docker-banner-gen/, docker-banner-gen, 0.0.7, Command-line tool for generating bash.bashrc templates for docker with a custom banner., 2021-04-08T23:30:49+0000
+/project/unlocker/, unlocker, 2.2.0, CLI credentials manager, 2018-09-22T15:47:30+0000
+/project/pythoncolorize/, PythonColorize, 0.2, Simple module to colorize text on terminal, 2016-07-05T20:46:47+0000
+/project/xontrib-rerun/, xontrib-rerun, 0.11, Rerun previous commands, 2018-12-05T14:02:50+0000
+/project/xontrib-commands/, xontrib-commands, 0.2.7, Useful xonsh-shell commands/alias functions, 2021-04-18T11:55:03+0000
+/project/xontrib-back2dir/, xontrib-back2dir, 0.1.1, Return to the most recently used directory when starting the xonsh shell., 2021-04-07T08:20:05+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/jaffle/, jaffle, 0.2.4, Python app and process orchestration tool for development environment, 2018-06-17T06:02:59+0000
+/project/pydocker-tools/, pydocker-tools, 0.0.1, pydocker-tools is a set of tools to work around lengthy or piped command line tools for docker, 2017-03-31T08:23:54+0000
+/project/easysh/, easysh, 1.0.0, an easy to execute shell commands in Python., 2020-11-11T04:03:18+0000
+/project/rad/, rad, 0.1.2, A super easy console highlighter. Text goes in, color comes out., 2010-10-25T17:38:52+0000
+/project/postgres-kernel/, postgres_kernel, 0.2.2, A PostgreSQL kernel for IPython, 2018-12-01T20:34:04+0000
+/project/dna/, dna, 0.0.7, Generic python utilities, 2014-10-11T20:40:32+0000
+/project/nfasd/, nfasd, 1.4, fasd for neovim, 2021-01-22T16:11:46+0000
+/project/cheesemonger/, cheesemonger, 0.1, A bunch of tools for manipulating wheels, 2016-06-28T04:56:09+0000
+/project/saspy/, saspy, 3.6.6, A Python interface to SAS, 2021-03-11T19:05:22+0000
+/project/watchstat/, watchstat, 1.0.0, Execute a command whenever a file's status changes, 2021-03-19T18:22:37+0000
+/project/tmuxp/, tmuxp, 1.7.2, tmux session manager, 2021-02-03T16:15:22+0000
+/project/gunny/, gunny, 1.0.0b2, Python package for executing commands by following a directed graph, 2014-11-25T04:13:23+0000
+/project/apt-mirror-updater/, apt-mirror-updater, 7.2, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-04-17T22:28:13+0000
+/project/pymsgprompt/, PyMsgPrompt, 1.3.0, PyMsgPrompt is a python module to embed prompt functionality in your code.         Current Version of the module is 1.3.0, 2021-04-01T18:11:42+0000
+/project/remote-multicommand/, remote-multicommand, 0.1.3, Provides execution of multiple commands in multiple servers in parallel (multiple processes), 2016-11-17T17:30:09+0000
+/project/goto-dir/, goto-dir, 0.2.0, easy'n'fast cd'ing., 2013-04-11T01:10:11+0000
+/project/swk-casp/, swk_casp, 0.0.2a3, Plugin for swk, enabling casp api, 2016-02-16T21:41:57+0000
+/project/gistpy/, Gistpy, 0.2.1, Command line client for gist., 2014-07-10T08:33:00+0000
+/project/usbinfo/, usbinfo, 1.1.1, Module for introspecting USB devices on a system, 2018-11-20T00:24:48+0000
+/project/pywibeee/, pywibeee, 0.0.2, Command line interface (CLI) for WiBeee (old Mirubee) meter, 2019-10-07T22:14:00+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/sysexecute/, sysexecute, 1.1.9, A library for simplified executing of system commands, 2019-05-29T04:30:18+0000
+/project/kabaret-script-view/, kabaret.script-view, 1.1.1, Scritp view extension for the Kabaret framework, 2021-01-15T22:51:41+0000
+/project/asciinema/, asciinema, 2.0.2, Terminal session recorder, 2019-01-12T19:00:51+0000
+/project/tcl-kernel/, tcl_kernel, 0.0.5, A Tcl kernel for Jupyter, 2021-01-29T12:17:00+0000
+/project/hivy/, hivy, 0.0.6, This plugin provides a RESTFul interface to unide, 2014-02-17T08:37:17+0000
+/project/forwarg/, forwarg, 1.0.0, Parse and forward command-line arguments., 2018-01-21T10:26:08+0000
+/project/xontrib-apipenv/, xontrib-apipenv, 0.4.0, Auto activate a Pipenv virtual environment, 2019-05-29T10:51:35+0000
+/project/netcat/, netcat, 0.0.1a0, Netcat with cmd exec, connect, listen and (local/remote) port-forwarding modes., 2020-04-08T19:58:41+0000
+/project/pycliff/, pyCLiFF, 0.1, pyCLiFF, the Python Command Line Filter Framework is a simple tool designed to remove the boilerplate and annoyances from command line filters., 2009-08-21T00:11:17+0000
+/project/redssh/, redssh, 2.3.2, An SSH automation library., 2021-03-06T12:10:54+0000
+/project/pycommand/, pycommand, 0.4.0, Library / toolkit for creating command line programs with minimal effort., 2018-03-27T21:19:07+0000
+/project/isalt/, isalt, 2021.2.2, ISalt: Interactive Salt Programming, 2021-02-19T11:38:16+0000
+/project/echo360/, echo360, 2.0.3, Commandline tool for automated downloads of echo360 videos, 2020-05-29T13:44:24+0000
+/project/qpsh/, qpsh, 0.3, Call shell commands from python shell., 2018-06-12T15:20:50+0000
+/project/esctl/, esctl, 1.8.0, Easy to use CLI tool to manage Elasticsearch, preventing long curl commands., 2021-04-09T13:24:15+0000
+/project/shellp/, shellp, 0.2.1, An advanced and easy to configure shell, 2019-08-11T20:02:45+0000
+/project/ofunctions-threading/, ofunctions.threading, 0.1.0, Threading decorator to run functions as threads, 2021-03-30T14:04:27+0000
+/project/pyrcmd/, pyrcmd, 0.1.1, Python Remote Commands toolkit, 2016-02-19T00:33:43+0000
+/project/milvus-kernel/, milvus-kernel, 0.2.0, A milvus kernel for Jupyter., 2021-02-10T08:50:59+0000
+/project/pspman/, pspman, 1!1.4.0, Personal Simple Package Manager, 2021-03-30T12:10:52+0000
+/project/autond/, autond, 0.2.13, autond, 2020-12-04T11:40:16+0000
+/project/pycp/, pycp, 8.0.8, cp and mv with a progressbar, 2019-02-27T21:00:54+0000
+/project/windows-tools-users/, windows-tools.users, 1.1.0, Windows user lookups for SID/PySID/Username, 2021-03-24T17:28:29+0000
+/project/ofunctions-string-handling/, ofunctions.string-handling, 0.1.2, Simple string sanitization functions, 2021-03-30T14:04:04+0000
+/project/binary-refinery/, binary-refinery, 0.3.28, A toolkit to transform and refine (mostly) binary data., 2021-03-24T11:53:03+0000
+/project/pure/, pure, 2.0.0, Pretty, minimal and fast prompt for various shells, 2019-03-16T23:20:27+0000
+/project/xontrib-history-encrypt/, xontrib-history-encrypt, 0.0.9, History backend that can encrypt the xonsh shell commands history., 2021-03-09T14:27:40+0000
+/project/pathtub/, pathtub, 1.1.2, Reading and editing Windows PATH., 2020-04-12T16:31:03+0000
+/project/surfraw-tools/, surfraw-tools, 0.1.0, Command-line programs to make writing surfraw elvi easier, 2020-07-03T06:14:28+0000
+/project/click-shell/, click-shell, 2.0, An extension to click that easily turns your click app into a shell utility, 2020-02-19T01:30:18+0000
+/project/virtualfish/, virtualfish, 2.5.1, Fish shell tool for managing Python virtual environments, 2020-12-01T20:32:11+0000
+/project/cm-burn/, cm-burn, 0.3.2, A command to burn many SD cards for building PI clusters, 2019-12-12T20:09:05+0000
+/project/py-logwatcher/, py-logwatcher, 0.0.0, Python implementation of tail -- A log file watcher, 2017-12-04T20:48:16+0000
+/project/logtrail/, logtrail, 0.0.3, A fancy logger, 2017-06-01T05:00:27+0000
+/project/riposte/, riposte, 0.4.1, Package for wrapping applications inside a tailored interactive shell., 2020-10-11T13:45:16+0000
+/project/bash-timeout/, bash-timeout, 1.1.0, A command (and also bash function) to terminate another command after specified duration, 2018-06-23T04:54:04+0000
+/project/rpnparse/, rpnparse, 0.0.1, simple reverse polish notation parser to learn how to write parsers, 2017-09-03T18:23:51+0000
+/project/playerpiano/, PlayerPiano, 0.3.0, Amaze your friends by running Python doctests in a fake interactive shell, 2018-04-17T18:20:25+0000
+/project/radssh/, radssh, 1.1.2, RadSSH Module, 2018-05-24T18:52:32+0000
+/project/goear-dl/, goear_dl, 0.1.2, download songs from goear, 2016-01-16T13:25:45+0000
+/project/cachedcomplete/, cachedcomplete, 1.0.4, Cached wrapper for python argcomplete, 2020-05-31T06:42:59+0000
+/project/slprint11-pkg/, slprint11-pkg, 1.1, Simple module to display a text with a time interval between each characters., 2020-05-02T00:11:08+0000
+/project/shell/, shell, 1.0.1, A better way to run shell commands in Python., 2013-06-03T19:25:52+0000
+/project/pygmount/, pygmount, 0.9.3, Software for graphical mount network shares., 2014-04-03T12:26:59+0000
+/project/redlibssh2/, redlibssh2, 2.0.2, Super fast SSH library - bindings for libssh2, 2021-01-05T16:01:14+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/swk/, swk, 0.0.4a18, Extendable command line utility for sysadmins, 2016-03-03T20:36:30+0000
+/project/xontrib-ssh-agent/, xontrib-ssh-agent, 1.0.12, SSH agent integration for xonsh, 2020-04-05T19:17:04+0000
+/project/pycmdlinehistory/, pycmdlinehistory, 1.1.3, Save command line history and provide a command line completer for python., 2020-04-14T19:14:21+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/moreman/, moreman, 0.3.2, Man Pages for Commands without Man Pages, 2019-10-19T07:35:14+0000
+/project/apt-smart/, apt-smart, 7.1.3, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-05-31T07:14:08+0000
+/project/gshell-py/, gshell.py, 0.0.4, A straight port of glib/gshell.c to Python, 2019-07-05T21:08:44+0000
+/project/pyrcmd3/, pyrcmd3, 0.1.0, Python3 Remote Commands toolkit, 2016-03-03T23:20:15+0000
+/project/vcspull/, vcspull, 1.5.0, synchronize your projects via yaml / json files, 2020-08-11T11:45:56+0000
+/project/onlysnarf/, OnlySnarf, 3.0.4, OnlyFans Content Distribution Tool, 2021-02-14T20:13:56+0000
+/project/bein/, bein, 1.06, Miniature LIMS and workflow manager for bioinformatics, 2011-04-07T11:49:39+0000
+/project/cmenu/, cmenu, 1.0.0, A Python alternative to cmd.Cmd., 2018-01-21T10:30:50+0000
+/project/ripe/, ripe, 0.0.4, remove & reinstall python packages in one command, 2016-04-17T03:51:23+0000
+/project/xontrib-fzf-widgets/, xontrib-fzf-widgets, 0.0.4, fzf widgets for xonsh, 2020-10-16T10:43:06+0000
+/project/xontrib-cmd-done/, xontrib-cmd-done, 0.2.2, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-25T18:39:59+0000
+/project/oraide/, oraide, 0.4, A library to help presenters demonstrate terminal sessions hands-free., 2014-01-14T00:43:13+0000
+/project/moreshell/, moreshell, 0.1.0, createMORE IPython shell magic, 2019-08-19T18:48:32+0000
+/project/telnetsrv/, telnetsrv, 0.4, Telnet server handler library, 2012-12-02T05:52:32+0000
+/project/xontrib-prompt-bar/, xontrib-prompt-bar, 0.4.1, The bar theme for xonsh shell., 2021-04-18T05:46:39+0000
+/project/windows-tools-securityprivilege/, windows-tools.securityprivilege, 0.1.2, Privilege enable/disable functions, 2021-03-24T17:28:26+0000
+/project/sockclock/, sockclock, 0.0.1, temporarily override sockets default timeout, 2017-06-30T02:32:27+0000
+/project/xontrib-pyenv/, xontrib-pyenv, 1.0.4, Pyenv integration for xonsh, 2020-06-10T05:51:54+0000
+/project/recent2/, recent2, 1.0.2, Logs bash history to an sqlite database, 2020-11-07T09:13:58+0000
+/project/cocopy/, CocoPy, 1.1.0rc, Python implementation of the famous CoCo/R LL(k) compiler generator., 2007-12-20T00:27:07+0000
+/project/copy2hash/, copy2hash, 0.5, Copy or rename any file(s) to a hash-secured filename via terminal, 2020-05-22T15:47:58+0000
+/project/argsearch/, argsearch, 0.3.0, Run a command many times with different combinations of its inputs., 2020-10-19T06:55:38+0000
+/project/shcol/, shcol, 0.3, A shell columnizer, 2016-05-15T13:12:06+0000
+/project/pytekcoopbank/, pytekcoopbank, 0.2.0, "Unofficial Co-operative Bank of Kenya API Python SDK.", 2020-10-05T07:50:56+0000
+/project/xirion/, xirion, 1.0.19, Terminal session recorder, 2017-06-30T11:18:35+0000
+/project/xontrib-powerline-binding/, xontrib-powerline-binding, 0.3.1, Powerline binding for xonsh, 2020-10-03T10:47:58+0000
+/project/pansi/, pansi, 2020.7.3, ANSI escape code library for Python, 2020-07-09T15:33:05+0000
+/project/pyzshcomplete/, pyzshcomplete, 1.0.2, Tab completion for arbitraty python scripts in zsh, 2021-02-23T21:31:34+0000
+/project/ofunctions-file-utils/, ofunctions.file-utils, 0.8.0, Various file handling of which get_files_recursive is the most advanced, 2021-04-06T10:08:52+0000
+/project/argtyped/, argtyped, 0.3.0, Command line arguments, with types, 2021-01-09T03:10:31+0000
+/project/xontrib-hist-navigator/, xontrib-hist-navigator, 0.6.3, A Xonsh plugin to navigate between directories like fish's prevd/nextd, 2021-01-03T11:59:42+0000
+/project/executor/, executor, 23.2, Programmer friendly subprocess wrapper, 2020-11-19T12:55:59+0000
+/project/coloredlogs/, coloredlogs, 15.0, Colored terminal output for Python's logging module, 2020-12-10T13:10:51+0000
+/project/serf-membership/, serf_membership, 1.2, This is very simple script for election a leader (primary) from all members tagged with specific role., 2016-07-12T23:01:40+0000
+/project/shellrun/, shellrun, 3.1, running commands through a system shell, 2014-10-12T17:23:50+0000
+/project/windows-tools-bitlocker/, windows-tools.bitlocker, 0.1.5, Retrieve bitlocker status and protector keys for all drives, 2021-03-24T17:28:06+0000
+/project/envy/, envy, 0.2.0, safely and easily debug files deep in python virtualenvs, 2016-07-13T18:55:00+0000
+/project/erebo/, erebo, 1.1.23, Erebo is a VPN like a Proxy, 2019-11-05T10:03:35+0000
+/project/bashcalc/, bashcalc, 1.0, Instant calculating from the terminal into the terminal, 2020-06-09T20:14:49+0000
+/project/xontrib-linuxbrew/, xontrib-linuxbrew, 0.1.0, Add Homebrew's shell environment to xonsh on Linux, 2021-03-04T18:51:35+0000
+/project/pyplay/, pyplay, 1.0.5, Python Interactive Playground, 2011-04-24T02:22:44+0000
+/project/rockset/, rockset, 0.7.68, Rockset Python Client and `rock` CLI, 2021-02-11T19:08:34+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jetson-stats/, jetson-stats, 3.1.0, Interactive system-monitor and process viewer for all NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2], 2021-03-01T15:50:57+0000
+/project/pdiffcopy/, pdiffcopy, 1.0.1, Fast large file synchronization inspired by rsync, 2020-03-06T23:30:24+0000
+/project/parse-shebang/, parse-shebang, 0.0.22, Parse shebangs and return their components., 2016-11-10T13:18:43+0000
+/project/cloudmesh-abstract/, cloudmesh-abstract, 4.3.5, A command called abstract and foo for the cloudmesh shell, 2021-02-06T01:16:54+0000
+/project/sparqlkernel/, sparqlkernel, 1.3.0, A Jupyter kernel for SPARQL queries, 2020-07-30T10:08:12+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/sc-kernel/, sc-kernel, 0.3.2, , 2020-12-13T17:47:27+0000
+/project/shoper/, shoper, 1.3.1, Simple shell operator module, 2021-01-19T01:07:56+0000
+/project/ofunctions-logger-utils/, ofunctions.logger-utils, 2.0.1, Shorthand for logger initialization, recording worst called loglevel and handling nice console output, 2021-03-30T14:01:09+0000
+/project/flask-konch/, flask-konch, 2.0.0, An improved shell command for the Flask CLI, 2019-01-13T23:29:41+0000
+/project/xontrib-thefuck/, xontrib-thefuck, 0.3.6, Xonsh extension for thefuck, 2019-03-07T11:19:01+0000
+/project/hive-kernel/, hive-kernel, 0.3.1, A hive kernel for Jupyter., 2020-08-20T07:08:24+0000
+/project/cmdix/, cmdix, 0.3.1, Unix commands in Pure Python, 2021-03-02T03:40:55+0000
+/project/xontrib-repa-prompt/, xontrib-repa-prompt, 0.0.5, Custom prompt for xonsh, 2020-06-09T17:53:55+0000
+/project/mysql-kernel/, mysql-kernel, 0.3.0, A mysql kernel for Jupyter., 2020-08-20T07:25:25+0000
+/project/xontrib-output-search/, xontrib-output-search, 0.5.4, Get identifiers, names, paths, URLs and words from the previous command output and use them for the next command in xonsh., 2020-10-29T08:45:20+0000
+/project/pbt/, pbt, 1.1.0, Prompt decoration for ZSH and Bash written in Python, 2017-10-22T02:51:18+0000
+/project/argcomplete/, argcomplete, 1.12.3, Bash tab completion for argparse, 2021-04-19T15:48:18+0000
+/project/xontrib-histcpy/, xontrib-histcpy, 0.1, Useful aliases and shortcuts for extracting links and text from command output history in xonsh, 2019-05-23T09:43:48+0000
+/project/configparser-crypt/, configparser-crypt, 0.6.2, Drop-in replacement for ConfigParser with encryption support, 2021-03-16T14:04:33+0000
+/project/maicos/, maicos, 0.3, Analyse molecular dynamics simulations of interfacial and confined systems., 2021-03-03T22:34:54+0000
+/project/caspyr/, caspyr, 1.1.1, Cinchingly awesome scripts of Pythonic rapture, 2019-08-01T23:19:27+0000
+/project/xontrib-avox/, xontrib-avox, 0.8, Automatic voxes for projects, 2020-01-22T19:11:12+0000
+/project/lsbinit/, lsbinit, 0.1.post7, Linux init scripts handler, 2016-01-06T17:46:57+0000
+/project/pyrepeat/, pyrepeat, 2.0, Repeat command, 2017-04-18T01:24:18+0000
+/project/ipython/, ipython, 7.22.0, IPython: Productive Interactive Computing, 2021-03-27T00:51:13+0000
+/project/tmux-master/, tmux-master, 0.0, A tool that runs a master tmux session to control slave tmux sessions on the specified hosts, 2014-03-20T08:01:44+0000
+/project/goto-cd/, goto-cd, 1.0.1, Teleport to anywhere on your computer, 2019-04-20T13:40:06+0000
+/project/pcshell/, pcshell, 0.1.3, Easily create robust Shell applications in Python with this extension for Click & Prompt-Toolkit; built with Windows OS in mind., 2021-04-12T22:32:28+0000
+/project/pexpect/, pexpect, 4.8.0, Pexpect allows easy control of interactive console applications., 2020-01-21T16:37:03+0000
+/project/pygalume/, Pygalume, 0.2.5, Pygalume is a simple Python CLI to get lyrics, 2016-04-08T01:55:50+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/xontrib-z/, xontrib-z, 0.4, Tracks your most used directories, based on 'frecency'., 2018-10-16T23:47:21+0000
+/project/morepy/, morepy, 0.1.0, getMORE out of your everyday Python experience, 2019-08-26T08:56:26+0000
+/project/metakernel-bash/, metakernel_bash, 0.11.3, A Bash kernel for Jupyter/IPython, 2015-09-20T20:22:05+0000
+/project/sphinxnotes-snippet/, sphinxnotes-snippet, 1.0b5, Non-intrusive snippet manager for Sphinx documentation, 2021-04-20T15:55:59+0000
+/project/pysource/, pysource, 0.1.7, "source" and run python functions in bash, 2014-05-25T00:29:34+0000
+/project/powershellmagic/, powershellmagic, 0.1.0, IPython magic for Windows PowerShell, 2015-03-04T21:36:32+0000
+/project/asis/, asis, 0.3.0, Lightweight As-Is Server, 2016-07-22T18:16:57+0000
+/project/windows-tools-file-utils/, windows-tools.file-utils, 0.3.0, Windows NTFS & ReFS file ownership and ACL handling functions, 2021-03-24T17:28:11+0000
+/project/poeditor-client/, poeditor-client, 0.0.10, The POEditor Client, 2019-03-11T22:35:21+0000
+/project/pynews/, PyNews, 0.2, PyNews is a simple Python CLI to browse news from HN website, 2016-10-24T23:24:02+0000
+/project/cloudmesh-installer/, cloudmesh-installer, 4.4.28, A dynamic extensible CMD based command shell, 2021-03-26T21:47:42+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/cloudmesh-cmd5/, cloudmesh-cmd5, 4.3.18, A dynamic extensible CMD based command shell, 2021-02-21T13:46:17+0000
+/project/dosbox-screen/, dosbox-screen, 1.1.5, The Screen class lets you to do positioned writes to the dos terminal., 2019-09-08T20:30:12+0000
+/project/prettyjson/, prettyjson, 1.0.3, Command-line tool to validate and pretty-print JSON(just for the missing options in `json.tool`), 2019-07-20T14:11:27+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/xontrib-cmd-durations/, xontrib-cmd-durations, 0.2.4, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-26T07:47:01+0000
+/project/ttd/, ttd, 0.1.0, Time Till Done (ttd) is a simple progress bar for your long running Python scripts, 2016-11-10T15:57:03+0000
+/project/shellctx/, shellctx, 0.1.3, shell context helper, 2020-07-05T22:14:46+0000
+/project/pymod/, pymod, 0.2, Simple Environment Variable Manager, 2018-08-28T10:35:04+0000
+/project/telnetlib3/, telnetlib3, 1.0.4, Python 3 asyncio Telnet server and client Protocol library, 2021-02-04T02:55:11+0000
+/project/metakernel-python/, metakernel_python, 0.11.3, A Python kernel for Jupyter/IPython, 2015-09-20T20:21:39+0000
+/project/xontrib-cd/, xontrib-cd, 0.1.1, cd to any path without escaping in xonsh shell ('cd '→'cd! '), 2021-03-04T19:39:43+0000
+/project/achilterm/, Achilterm, 0.21, A lightweight UTF-8 web based terminal, 2016-08-08T01:25:07+0000
+/project/state-machine-db/, state-machine-db, 0.1, Provides the implementation of a configurable state machine, 2017-02-15T15:05:09+0000
+/project/printingpress/, printingpress, 0.3, Shameless name-grab for a possible future project, 2021-04-08T20:02:11+0000
+/project/konch/, konch, 4.3.0, CLI and configuration utility for the Python shell, optimized for simplicity and productivity., 2020-11-29T21:02:30+0000
+/project/ped/, ped, 2.1.0, Quickly open Python modules in your text editor., 2020-03-18T14:10:40+0000
+/project/ln-py/, ln.py, 1.0.0, symlinks made easier, 2020-05-05T15:21:32+0000
+/project/clachievements/, CLAchievements, 0.1.0, 🌟 Command Line Achievements — Make command line fun again! 🌟, 2016-10-24T10:02:11+0000
+/project/pytekdatamuse/, pytekdatamuse, 0.1.0, "Unofficial Python Wrapper for the Datamuse API.", 2020-11-08T01:55:51+0000
+/project/calysto-lc3/, calysto_lc3, 0.6, An LC-3 Assembly Language kernel for Jupyter based on MetaKernel, 2017-11-07T00:12:52+0000
+/project/pypyr/, pypyr, 4.5.0, task-runner for automation pipelines defined in yaml. cli & api., 2021-02-02T11:19:57+0000
+/project/keycloak-config-tool/, keycloak-config-tool, 0.0.7, This package allows for configuration based updates to Keycloak., 2020-11-16T17:37:52+0000
+/project/kdbq-kernel/, kdbq_kernel, 0.1, A Kdb/Q kernel for Jupyter, 2017-05-18T04:02:51+0000
+/project/pyvenvwrapper/, pyvenvwrapper, 1.0.0, pyvenvwrapper is a small and lightweight set of Bash script functions, that enhance the use of venv module for management of virtual environments., 2018-09-16T13:07:03+0000
+/project/cmdhelper/, cmdhelper, 0.2.11, Python utility for writing command line scripts with consistent look and feel., 2019-05-12T02:48:38+0000
+/project/yaspin/, yaspin, 1.5.0, Yet Another Terminal Spinner, 2021-03-21T19:19:50+0000
+/project/calysto-processing/, calysto_processing, 2.0.3, A ProcessingJS kernel for Jupyter, 2017-05-09T15:17:47+0000
+/project/cloudmesh-test/, cloudmesh-test, 4.3.2, A command to do a simple test to identify potential flaws before using cloudmesh, 2020-10-27T17:29:32+0000
+/project/deid/, deid, 0.2.24, deidentify dicom and other images with python and pydicom, 2020-12-01T20:04:51+0000
+/project/nephele/, nephele, 0.0.43, A shell for AWS, 2017-08-01T21:51:09+0000
+/project/pytekmomoapi/, pytekmomoapi, 1.0.1, "Unofficial MTN Mobile Money APIs Python SDK.", 2020-10-13T08:00:58+0000
+/project/ssh-paramiko/, ssh-paramiko, 0.1.2, Wrapper ssh using paramiko to interact with remote servers, 2016-11-17T16:17:29+0000
+/project/midonetclient/, midonetclient, 5.2.0, Midonet API client library for Python applications, 2016-07-08T14:12:27+0000
+/project/github-ssh-auth/, github-ssh-auth, 0.9.1, Authenticate SSH users keys with GitHub, 2019-04-09T23:35:47+0000
+/project/xonsh-kernel/, xonsh_kernel, 0.4.1, An Xonsh kernel for Jupyter, 2016-07-24T21:36:16+0000
+/project/xontrib-powerline3/, xontrib-powerline3, 0.3.1, Yet another powerline theme for xonsh with async prompt support., 2021-01-31T08:32:01+0000
+/project/w2j/, w2j, 0.4, A tool for migrating from WizNote to Joplin., 2021-03-02T11:18:34+0000
+/project/py-make/, py-make, 0.1.1, Makefile execution powered by pure Python, 2019-01-21T00:18:55+0000
+/project/itango/, itango, 0.1.8, An interactive Tango client, 2021-02-04T14:31:23+0000
+/project/metakernel-echo/, metakernel_echo, 0.11.3, A simple echo kernel for Jupyter/IPython, 2015-09-20T20:20:42+0000
+/project/envo/, envo, 0.8.5, Smart Environments handling - Define command hooks, file hooks and env variables in python and activate hot reloaded shells., 2020-06-25T14:44:00+0000
+/project/zsh-kernel/, zsh-kernel, 2.0, Z shell kernel for Jupyter, 2019-06-28T22:52:35+0000
+/project/pearl/, pearl, 2.3.7, Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX).It can be used for dotfiles, plugins, programs and any form of code accessible via git., 2021-04-05T23:57:06+0000
+/project/tqdm/, tqdm, 4.60.0, Fast, Extensible Progress Meter, 2021-04-06T01:23:21+0000
+/project/cihai-cli/, cihai-cli, 0.6.0, Command line frontend for the cihai CJK language library, 2020-08-09T19:41:36+0000
+/project/git-aggregator/, git-aggregator, 1.8.1, A library to aggregate git branches from different remotes into a consolidated one, 2020-08-28T15:35:12+0000
+/project/windows-tools-antivirus/, windows-tools.antivirus, 0.6.1, antivirus state and installed products retrieval, 2021-04-06T09:29:54+0000
+/project/zsh-jupyter-kernel/, zsh-jupyter-kernel, 3.2, Z shell kernel for Jupyter, 2019-09-05T20:28:59+0000
+/project/imongo-kernel/, imongo-kernel, 0.1.0, A MongoDB kernel for Jupyter, 2017-10-04T10:16:30+0000
+/project/agcli/, agcli, 1.5.1, A GUI that helps building instructions for the CLI, 2020-02-20T10:33:02+0000
+/project/fedora-devshell/, fedora-devshell, 0.1.1, Fedora Developer's Lunchbox, 2009-05-01T17:47:12+0000
+/project/ofunctions-csv/, ofunctions.csv, 0.2.0, CSV file reader with header management, fieldnames, delimiters and comment skipping, 2021-03-30T13:59:41+0000
+/project/ssh-python/, ssh-python, 0.9.0, libssh C library bindings for Python., 2020-12-18T09:52:13+0000
+/project/alx/, alx, 0.4.5, Swiss army knife for Shell, Cloud and DevOps., 2015-05-08T01:56:08+0000
+/project/cloudmesh-sys/, cloudmesh-sys, 4.3.3, A command called sys for the cloudmesh shell, 2020-10-27T17:21:03+0000
+/project/opsletsec2/, OpsletsEc2, 0.3.30, DevOps life helpers., 2016-02-11T11:14:50+0000
+/project/shed-sh/, shed_sh, 1.0.0, Don't run "curl | sh" again. Use "curl | shed" to verify scripts before running., 2015-01-02T23:57:22+0000
+/project/click-web/, click-web, 0.7.2, Serve click scripts over the web with minimal effort., 2021-04-07T13:43:25+0000
+/project/gnuplot-kernel/, gnuplot-kernel, 0.4.1, A gnuplot kernel for Jupyter, 2020-08-22T12:01:31+0000
+/project/windows-tools-server/, windows-tools.server, 0.1.1, Windows server identification functions, 2021-03-24T17:28:27+0000
+/project/git-fame/, git-fame, 1.14.1, Pretty-print `git` repository collaborators sorted by contributions, 2021-03-01T22:16:22+0000
+/project/pydba/, pydba, 1.2.1, Python tools for DBAs with deadlines!, 2015-11-30T14:38:54+0000
+/project/ssht/, ssht, 0.9.1, SSH client wrapper for easily connecting to hosts, 2019-06-18T12:59:58+0000
+/project/oscookie/, oscookie, 0.0.1, Cookie cutter for generating random operating systems and software, 2017-01-18T02:04:01+0000
+/project/frensh/, frensh, 0.1.0, Le french shell, 2013-07-07T09:36:12+0000
+/project/tutorterminal/, tutorterminal, 0.2, A tool to show terminal tutorials., 2020-03-12T16:15:41+0000
+/project/prompty/, prompty, 0.4.1, A command line prompt markup language, 2020-08-01T13:14:28+0000
+/project/xxh-xxh/, xxh-xxh, 0.8.7, Bring your favorite shell wherever you go through the ssh, 2021-03-14T15:46:20+0000
+/project/rlpython/, rlpython, 0.5, GNU Readline based Python REPL without any external dependencies, 2021-04-06T06:43:23+0000
+/project/shellish/, shellish, 5, A framework for CLI/shell programs., 2017-04-10T20:09:04+0000
+/project/py1cmd/, py1cmd, 0.3, Runs awk-like Python one-liners., 2015-12-13T01:11:17+0000
+/project/wasm-spec-kernel/, wasm-spec-kernel, 0.1.1, A Jupyter kernel for the Wasm reference interpreter, 2020-12-31T00:28:39+0000
+/project/windows-tools-installed-software/, windows-tools.installed-software, 0.5.4, List of installed software from Uninstall registry keys, 32 and 64 bits, 2021-03-24T17:28:15+0000
+/project/backquotes/, backquotes, 0.0.3, shell command invocation with backquotes, like Perl, Ruby., 2015-11-03T03:01:53+0000
+/project/scription/, scription, 0.86.4, simple script parameter parser, 2021-02-21T18:19:41+0000
+/project/som/, som, 0.2.3, stanford open modules for python, 2017-09-13T04:15:19+0000
+/project/michelson-kernel/, michelson-kernel, 0.1.6, Jupyter kernel for the Michelson language, 2020-04-06T13:20:40+0000
+/project/ptysh/, ptysh, 0.1.0, Python Teletype Shell, 2016-08-04T03:09:04+0000
+/project/xontrib-prompt-ret-code/, xontrib-prompt-ret-code, 1.0.1, Adds return code info to xonsh prompt., 2016-07-22T20:45:39+0000
+/project/takoshell/, takoshell, 0.2.8, Pythonic shell language and command prompt, 2020-06-08T20:52:27+0000
+/project/dotsecrets/, dotsecrets, 0.4, DotSecrets is a tool to facilitate storing your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow., 2020-07-15T20:16:15+0000
+/project/sheller/, sheller, 1.0.0, An even better way to run shell commands in Python., 2017-05-31T21:10:19+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/command-runner/, command-runner, 0.6.3, Platform agnostic command and shell execution tool, also allows UAC/sudo privilege elevation, 2021-03-15T15:28:07+0000
+/project/xontrib-onepath/, xontrib-onepath, 0.3.2, Associate files with app or alias and run it without preceding commands in xonsh shell., 2020-10-31T01:34:53+0000
+/project/xontrib-gitinfo/, xontrib-gitinfo, 0.1.0, Displays information on entering a git repository., 2019-12-22T16:08:47+0000
+/project/ofunctions-mailer/, ofunctions.mailer, 0.3.5, Mail sending function that handles encryption, authentication, bulk and split mail sending, 2021-02-11T01:10:18+0000
+/project/pearlcli/, pearlcli, 2.1.1, Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX).It can be used for dotfiles, plugins, programs and any form of code accessible via git., 2020-01-14T00:00:57+0000
+/project/pytekswift/, pytekswift, 0.1.2, "Database and Utilities for SWIFT (The Society for Worldwide Interbank Financial Telecommunication), a network that enables financial institutions worldwide to send and receive information about financial transactions in a secure, standardized and reliable environment.", 2020-11-22T23:25:55+0000
+/project/kusanagi/, kusanagi, 0.0.5, Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support., 2021-04-19T20:44:57+0000
+/project/kamaki/, kamaki, 0.16, A multipurpose, interactive command-line tool, and also a client development library for managing OpenStack clouds., 2017-10-18T12:47:13+0000
+/project/windows-tools/, windows-tools, 2.0.1, Toolset for antivirus, NTFS/ReFS ACLs, file ownership, registry, user handling...Well a lot of stuff, 2021-03-30T13:47:01+0000
+/project/ofunctions-checksums/, ofunctions.checksums, 0.2.1, SHA256 Checksumming functions, checksum manifest file creation and verification, 2021-02-11T01:10:12+0000
+/project/ssh2-python/, ssh2-python, 0.26.0, Super fast SSH library - bindings for libssh2, 2021-01-02T21:30:02+0000
+/project/pymailq/, pymailq, 0.9.0, Postfix queue control python tool, 2017-09-07T11:29:36+0000
+/project/metakernel/, metakernel, 0.27.5, Metakernel for Jupyter, 2020-11-09T20:39:53+0000
+/project/permset/, permset, 0.22, Simple standalone utility script to manage \*nix permissions on file and directory trees based on patterns., 2012-12-14T22:02:51+0000
+/project/xontrib-dotenv/, xontrib-dotenv, 0.1, Reads .env files into environment, 2016-06-15T11:15:15+0000
+/project/xontrib-pipeliner/, xontrib-pipeliner, 0.3.4, Easily process the lines using pipes in xonsh., 2021-04-07T05:15:32+0000
+/project/ofunctions-bisection/, ofunctions.bisection, 0.2.1, Bisection function that allows callable to be tested with any list of arguments, 2021-02-11T01:10:11+0000
+/project/watching-testrunner/, watching_testrunner, 1.1.0, Automatic test execution on file changes, 2013-12-20T22:19:14+0000
+/project/allanon/, Allanon, 0.2, A Web crawler that visit a predictable set of URLs, and automatically download resources you want from them, 2014-01-02T21:44:42+0000
+/project/longtroll/, longtroll, 1.0, Detect long-running processes and notify you when they're done., 2012-08-01T01:14:21+0000
+/project/windows-tools-registry/, windows-tools.registry, 0.5.1, Windows registry 32 and 64 bits simple API, 2021-03-24T17:28:24+0000
+/project/opsbot/, opsbot, 20.10.45, I'm Opsbot. I can help you create the best devops scripts., 2020-10-30T06:40:01+0000
+/project/ofunctions-misc/, ofunctions.misc, 1.0.0, Collection of various functions, 2021-02-11T01:10:19+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/gettimer/, getTimer, 0.1.2, Get python datetime objects from CLI users easily, 2016-02-14T00:58:13+0000
+/project/sty/, sty, 1.0.0rc1, String styling for your terminal, 2021-01-31T21:16:18+0000
+/project/bzr-bash-completion/, bzr-bash-completion, 1.2.0, Generate bash command line completion function for bzr, 2010-05-18T09:14:07+0000
+/project/iterpipes/, iterpipes, 0.4, Shell pipelines in Python using shell-like syntax, 2010-03-11T12:35:37+0000
+/project/xontrib-argcomplete/, xontrib-argcomplete, 0.3.2, Argcomplete support for python and xonsh scripts in xonsh shell., 2021-03-04T18:49:19+0000
+/project/cyberaide-bookmanager/, cyberaide-bookmanager, 0.2.35, Creating Books from content in different git and other cloud services., 2020-07-29T14:02:46+0000
+/project/yaop/, yaop, 0.1.1, Yet Another Option Parser (full fledged), 2016-06-05T23:51:15+0000
+/project/bein-htminilims/, bein-htminilims, 1.065, Web frontend to the MiniLIMS from bein, 2011-04-08T08:43:47+0000
+/project/ssh2-python3/, ssh2-python3, 0.22.6, Super fast SSH library - bindings for libssh2 and Python 3, 2020-12-28T10:35:32+0000
+/project/picat-kernel/, picat-kernel, 0.1, A Picat kernel for Jupyter, 2019-07-02T23:57:02+0000
+/project/xontrib-broot/, xontrib-broot, 0.1.0, broot support function for xonsh shell, 2020-11-25T15:52:30+0000
+/project/shell-jobrunner/, shell-jobrunner, 2.3.1, Shell-based job runner with logging, 2021-04-02T19:14:25+0000
+/project/calysto-hy/, calysto-hy, 0.1.1, A Hy kernel for Jupyter based on MetaKernel, 2018-08-30T15:32:32+0000
+/project/ofunctions-process/, ofunctions.process, 0.1.1, Shorthand for killing an entire process tree, 2021-02-11T01:10:23+0000
+/project/configo/, Configo, 1.4, Easy way to use existing JSON, XML or YAML config files from bash shell/scripts, 2016-07-05T12:22:33+0000
+/project/ofunctions-service-control/, ofunctions.service-control, 0.1.3, Windows & Linux service control functions, 2021-03-30T14:03:42+0000
+/project/cliask/, cliask, 0.0.4, A module for getting validated user input via the console, 2013-04-09T17:41:47+0000
+/project/ipicat/, ipicat, 0.2.0, A Picat extension for IPython and Jupyter Notebook, 2019-08-07T00:11:01+0000
+/project/lfm/, lfm, 3.1, Last File Manager is a powerful file manager for the UNIX console., 2017-06-25T17:13:14+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/pyramid-notebook/, pyramid-notebook, 0.3.0, Embed IPython Notebook shell on your Pyramid website, 2018-10-09T08:35:36+0000
+/project/batchq/, BatchQ, 0.1-2-pre-alpha, Python automatisation tools., 2012-03-23T14:12:52+0000
+/project/termplotlib/, termplotlib, 0.3.4, Plotting on the command line, 2021-02-15T12:43:16+0000
+/project/cloudmesh-cloud/, cloudmesh-cloud, 4.4.1, Cloudmesh Multicloud Cloud Plugins for Cloudmesh cmd5 CMD, 2020-10-15T17:10:15+0000
+/project/sas-kernel/, SAS-kernel, 2.4.6, A SAS kernel for Jupyter, 2021-04-14T19:49:27+0000
+/project/build-scenarist/, build-scenarist, 1.2.0, Make-like utility to execute platform-dependent scripts (scenarios) written in Python 3. Format of scenario-name consist information about platform it written. Scenarios consist of targets, 2021-02-01T10:28:14+0000
+/project/cftw/, cftw, 0.0.2, containers for the win is a module for container competitions, 2017-08-09T03:44:58+0000
+/project/ssher/, SSHer, 1.1, Multi ssh connection launcher, 2015-10-06T15:59:49+0000
+/project/sh-utils/, sh-utils, 0.9, some commands to simplify various things, 2016-02-02T05:46:57+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/asynctelnet/, asynctelnet, 0.2.5, Python 3 anyio Telnet server and client Protocol library, 2021-03-19T07:17:30+0000
+/project/python-shell/, python-shell, 1.0.4, Python Shell Wrapper library, 2020-04-06T22:08:49+0000
+/project/argopt/, argopt, 0.7.0, doc to argparse driven by docopt, 2021-03-01T16:51:30+0000
+/project/hashbang/, hashbang, 0.1.14, Turn Python functions into command line interfaces, 2019-06-14T06:10:09+0000
+/project/bashtools/, bashtools, 0.1.9, Bash Tools for Amazon Web Services, 2018-10-22T18:35:50+0000
+/project/noody-utils/, noody-utils, 1.0.1, Utility commands for manage Noody sessions from unix-like shell., 2011-05-26T14:33:29+0000
+/project/hdu/, hdu, 0.2.3.12, Human-friendly summary of disk usage., 2020-04-11T15:54:13+0000
+/project/jsonlike/, jsonlike, 0.0.2, repair and parse invalid but jsonlike content, 2017-01-19T02:32:01+0000
+/project/codelynx/, codelynx, 1.4.0, Terminal session recorder, 2017-05-21T16:42:05+0000
+/project/uniquepwd/, uniquepwd, 1.0.0, A module for getting short unique paths, 2017-01-03T22:41:43+0000
+/project/tmuxomatic/, tmuxomatic, 2.18, Intelligent tmux session management ... #tmux, 2015-07-03T20:24:01+0000
+/project/otrace/, otrace, 0.30.9, An object-oriented python debugger for nonlinear tracing, 2012-08-27T02:15:52+0000
+/project/windows-tools-powershell/, windows-tools.powershell, 0.3.1, PowerShell interpreter wrapper, 2021-03-24T17:28:20+0000
+/project/applause-tool/, applause-tool, 0.5.0, This package allows integration with Applause Inc. services., 2016-10-14T13:32:24+0000
+/project/tej/, tej, 0.6, Trivial Extensible Job-submission system, 2017-04-16T00:41:18+0000
+/project/nrepl/, nrepl, 0.1.7, Auto reload class with Clojure nREPL, 2021-03-04T05:44:24+0000
+/project/skulpt-python/, skulpt_python, 0.9.3, A Skulpt Python kernel in the browser for Jupyter, 2016-03-11T01:03:03+0000
+/project/cly/, cly, 0.9, A module for adding powerful text-based consoles to your application., 2007-12-09T15:23:44+0000
+/project/rockset-sqlcli/, rockset-sqlcli, 0.7.68, Rockset SQL REPL for `rock sql`, 2021-02-11T19:08:36+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/ofunctions-delayed-keyboardinterrupt/, ofunctions.delayed-keyboardinterrupt, 0.1.0, Intercept CTRL+C signal in your Python code, 2021-02-11T01:10:13+0000
+/project/kuob/, kuob, 1.0.1, a Fork of ASCIINEMA Terminal session recorder, 2020-04-11T15:02:44+0000
+/project/shellstats/, shellstats, 0.1, Show the most used shell commands., 2014-11-29T16:56:08+0000
+/project/cltools/, cltools, 0.5.0, Set of decorators of to create transform a class into a command-line tool., 2021-04-24T10:32:20+0000
+/project/matlab-kernel/, matlab-kernel, 0.16.11, , 2020-11-09T20:41:53+0000
+/project/scilab-kernel/, scilab-kernel, 0.9.10, A Jupyter kernel for Scilab., 2019-05-11T12:43:19+0000
+/project/x2x/, x2x, 0.9, commands to convert radixes, 2016-02-01T04:57:34+0000
+/project/pysftpserver/, pysftpserver, 1.4.0, An OpenSSH SFTP wrapper in Python., 2015-01-14T14:59:55+0000
+/project/bash-powerprompt/, bash-powerprompt, 0.1.0, Powerful dynamic bash prompt inspired by Vim Powerline, 2012-09-17T09:07:13+0000
+/project/pyutok/, pyutok, 1.1.2, Inspired by a tool I can not find anymore on the internet: utok 1.5. I use it to clean up path settings in large shell script configuration setups., 2020-12-31T13:35:25+0000
+/project/phen/, phen, 0.2.1, Decentralized platform for social applications, 2015-12-31T21:25:15+0000
+/project/ofunctions-random/, ofunctions.random, 0.1.1, Simple random string generator including password generator, 2021-02-11T01:10:24+0000
+/project/ipydb/, ipydb, 0.0.2, Turn your IPython console into a cross-database SQL client, 2014-09-22T03:24:33+0000
+/project/spellbook/, spellbook, 1.1.5, store and search command lines, 2016-02-11T15:37:09+0000
+/project/sparcli/, sparcli, 0.1.3, Visualize metrics as text in real-time (sparklines), 2020-03-01T03:00:41+0000
+/project/windows-tools-wmi-queries/, windows-tools.wmi-queries, 0.9.5, Windows WMI query wrapper, wmi timezone converters, 2021-04-06T09:30:00+0000
+/project/offsh-xxh/, offsh-xxh, 1.0.0, Bring your favorite shell wherever you go through the ssh. This is a fork from https://github.com/xxh/xxh with some extra featured designed for https://github.com/offsh/offshell, 2020-12-01T18:13:10+0000
+/project/colouredlogs/, colouredlogs, 10.0.1, Coloured terminal output for Python's logging module, 2019-07-13T20:17:45+0000
+/project/shellen/, shellen, 0.3.0, Interactive environment for crafting shellcodes. Also, it just can be used as a simple assembler/disassembler, 2018-09-13T17:31:14+0000
+/project/windows-tools-virtualization/, windows-tools.virtualization, 0.3.1, Simple virtualization platform identification for Windows guest, 2021-03-24T17:28:31+0000
+/project/pyvegan/, PyVegan, 0.1.3, PyVegan is a simple Python CLI to browse vegan recipes, 2017-08-12T16:16:02+0000
+/project/termtosvg/, termtosvg, 1.1.0, Record terminal sessions as SVG animations, 2020-01-18T20:09:17+0000
+/project/python-shell/, python-shell, 1.0.4, Python Shell Wrapper library, 2020-04-06T22:08:49+0000
+/project/argopt/, argopt, 0.7.0, doc to argparse driven by docopt, 2021-03-01T16:51:30+0000
+/project/hashbang/, hashbang, 0.1.14, Turn Python functions into command line interfaces, 2019-06-14T06:10:09+0000
+/project/calysto-bash/, calysto-bash, 0.2.2, A Jupyter kernel for Bash., 2019-09-09T10:18:37+0000
+/project/bombardier-cli/, bombardier_cli, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:39+0000
+/project/pycctek/, pycctek, 0.0.6, "Issuer Identification Number Database and Verification Utility Library. Luhn Algorithm, BIN Checker, Random Credit Card Generators.", 2020-11-04T18:45:21+0000
+/project/bashtools/, bashtools, 0.1.9, Bash Tools for Amazon Web Services, 2018-10-22T18:35:50+0000
+/project/noody-utils/, noody-utils, 1.0.1, Utility commands for manage Noody sessions from unix-like shell., 2011-05-26T14:33:29+0000
+/project/truce/, truce, 0.2.1, An experimental text editor and/or shell, 2015-05-02T03:33:46+0000
+/project/fzsl/, fzsl, 0.4, Fuzzy path searching for shells, 2016-02-06T05:58:05+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/pexpect-py3-patch/, pexpect-py3-patch, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:14:18+0000
+/project/cloudmesh-gui/, cloudmesh-gui, 4.3.2, A command called gui and foo for the cloudmesh shell, 2020-10-27T17:31:06+0000
+/project/xontrib-prompt-starship/, xontrib-prompt-starship, 0.2.0, Starship prompt in xonsh shell., 2021-03-13T00:47:51+0000
+/project/rash/, rash, 0.1.3, Rash Advances Shell History, 2015-06-12T21:24:13+0000
+/project/acfun/, acfun, 0.2, acfun video player, 2019-07-05T09:25:16+0000
+/project/muv/, muv, 0.0.7, View markdown file in command line, 2017-09-06T07:39:35+0000
+/project/sshkernel/, sshkernel, 0.11.0, SSH Kernel, 2020-09-28T09:01:28+0000
+/project/jumpssh/, jumpssh, 1.6.5, Python library for remote ssh calls through a gateway., 2020-11-06T17:52:50+0000
+/project/lordcommander/, lordcommander, 5.0.1, Run shell commands recursively throughout the predefined directories, 2020-10-05T07:19:51+0000
+/project/cocorpy27/, CocoRPy27, 1.4.1, Python implementation of the famous CoCo/R LL(k) compiler generator ported to Python., 2012-03-08T22:12:42+0000
+/project/xontrib-ergopack/, xontrib-ergopack, 0.1.4, Meta package that installs group of ergonomic xontribs in xonsh shell., 2021-03-08T07:17:53+0000
+/project/octave-kernel/, octave-kernel, 0.32.0, A Jupyter kernel for Octave., 2020-05-23T09:47:59+0000
+/project/kabaret-subprocess-manager/, kabaret.subprocess-manager, 1.0.7, Subprocess Management extension for the Kabaret framework, 2020-03-22T22:24:01+0000
+/project/tempenv/, tempenv, 0.2.0, Environment Variable Context Manager, 2019-10-08T12:17:09+0000
+/project/asciiplotlib/, asciiplotlib, 0.2.3, Plotting on the command line, 2019-09-26T17:31:28+0000
+/project/roundup-cli/, roundup-cli, 0.1, A Command Line Interface for Roundup, 2011-11-25T21:29:36+0000
+/project/asynccmd/, asynccmd, 0.2.4, Asyncio implementation of Cmd Python lib., 2017-01-02T15:39:32+0000
+/project/cryptidy/, cryptidy, 1.0.5, Python high level library for symmetric & asymmetric encryption, 2021-03-16T11:14:16+0000
+/project/pycoreutils/, pycoreutils, 0.0.6a, Coreutils in Pure Python, 2011-01-11T16:11:37+0000
+/project/oracle-kernel/, oracle-kernel, 0.1.0, A oracle kernel for Jupyter., 2021-01-04T02:24:24+0000
+/project/bashhistory/, bashhistory, 1.1.0, Common Python helper functions, 2020-06-25T18:55:22+0000
+/project/xontrib-hist-format/, xontrib-hist-format, 0.0.10, Format xonsh history to post it to Github or another page., 2020-11-06T10:47:17+0000
+/project/ofunctions-json-sanitize/, ofunctions.json-sanitize, 0.1.1, Simple tool that filters unwanted characters including non printable from JSON objects, 2021-02-11T01:10:15+0000
+/project/lpython/, lpython, 1.0.0a1, Linearly written Python scripts in a pipeline, 2021-02-17T17:15:45+0000
+/project/vex/, vex, 0.0.19, Run commands in a virtualenv, 2019-05-10T19:21:37+0000
+/project/pyarchey2/, pyarchey2, 2.0.5, PyArchey2 is a fork of PyArchey. It is an attempt to speed up PyArchey by introducing multithreading and dropping support for Python2., 2019-09-04T06:19:21+0000
+/project/pyful/, pyful, 0.2.2, Python file management utility, 2011-02-06T04:47:14+0000
+/project/venv-tools/, venv_tools, 0.2.2, A bunch of tools for using venvs (and virtualenvs) from python., 2019-09-15T08:41:59+0000
+/project/xontrib-syslog-shell-profiler/, xontrib-syslog-shell-profiler, 0.1.5, A Xonsh plugin to profile and log command execution to a syslog file., 2021-04-10T20:49:53+0000
+/project/xontrib-sh/, xontrib-sh, 0.3.0, Paste and run commands from bash, zsh, fish, tcsh, pwsh, cmd in xonsh shell., 2021-03-19T16:21:26+0000
+/project/daudin/, daudin, 0.0.19, A UNIX command-line shell based on Python, 2019-11-15T19:41:46+0000
+/project/ofunctions-network/, ofunctions.network, 0.5.0, Network diagnostics, MTU probing, Public IP discovery, HTTP/HTTPS internet connectivty tests, ping, 2021-02-11T01:10:20+0000
+/project/basskick/, basskick, 0.0.4, Blender Animation Studio System, 2020-01-09T17:16:32+0000
+/project/lpython/, lpython, 1.0.0a1, Linearly written Python scripts in a pipeline, 2021-02-17T17:15:45+0000
+/project/vex/, vex, 0.0.19, Run commands in a virtualenv, 2019-05-10T19:21:37+0000
+/project/pyarchey2/, pyarchey2, 2.0.5, PyArchey2 is a fork of PyArchey. It is an attempt to speed up PyArchey by introducing multithreading and dropping support for Python2., 2019-09-04T06:19:21+0000
+/project/pyful/, pyful, 0.2.2, Python file management utility, 2011-02-06T04:47:14+0000
+/project/venv-tools/, venv_tools, 0.2.2, A bunch of tools for using venvs (and virtualenvs) from python., 2019-09-15T08:41:59+0000
+/project/xontrib-syslog-shell-profiler/, xontrib-syslog-shell-profiler, 0.1.5, A Xonsh plugin to profile and log command execution to a syslog file., 2021-04-10T20:49:53+0000
+/project/xontrib-sh/, xontrib-sh, 0.3.0, Paste and run commands from bash, zsh, fish, tcsh, pwsh, cmd in xonsh shell., 2021-03-19T16:21:26+0000
+/project/pyramid-notebook/, pyramid-notebook, 0.3.0, Embed IPython Notebook shell on your Pyramid website, 2018-10-09T08:35:36+0000
+/project/batchq/, BatchQ, 0.1-2-pre-alpha, Python automatisation tools., 2012-03-23T14:12:52+0000
+/project/termplotlib/, termplotlib, 0.3.4, Plotting on the command line, 2021-02-15T12:43:16+0000
+/project/cloudmesh-cloud/, cloudmesh-cloud, 4.4.1, Cloudmesh Multicloud Cloud Plugins for Cloudmesh cmd5 CMD, 2020-10-15T17:10:15+0000
+/project/sas-kernel/, SAS-kernel, 2.4.6, A SAS kernel for Jupyter, 2021-04-14T19:49:27+0000
+/project/build-scenarist/, build-scenarist, 1.2.0, Make-like utility to execute platform-dependent scripts (scenarios) written in Python 3. Format of scenario-name consist information about platform it written. Scenarios consist of targets, 2021-02-01T10:28:14+0000
+/project/cftw/, cftw, 0.0.2, containers for the win is a module for container competitions, 2017-08-09T03:44:58+0000
+/project/ssher/, SSHer, 1.1, Multi ssh connection launcher, 2015-10-06T15:59:49+0000
+/project/daudin/, daudin, 0.0.19, A UNIX command-line shell based on Python, 2019-11-15T19:41:46+0000
+/project/sh-utils/, sh-utils, 0.9, some commands to simplify various things, 2016-02-02T05:46:57+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/ofunctions-network/, ofunctions.network, 0.5.0, Network diagnostics, MTU probing, Public IP discovery, HTTP/HTTPS internet connectivty tests, ping, 2021-02-11T01:10:20+0000
+/project/basskick/, basskick, 0.0.4, Blender Animation Studio System, 2020-01-09T17:16:32+0000
+/project/genzshcomp/, genzshcomp, 0.6.0, Automatic generated to zsh completion function, for Python's Option Parser Modules., 2020-03-11T02:57:55+0000
+/project/windows-tools-impersonate/, windows-tools.impersonate, 0.1.3, Python runas implementation, 2021-03-24T17:28:13+0000
+/project/doubleplusungood/, doubleplusungood, 0.1, Shameless name-grab for a possible future project, 2020-01-13T15:24:32+0000
+/project/cloudmesh-inventory/, cloudmesh-inventory, 4.3.8, A command called inventory and foo for the cloudmesh shell, 2021-03-29T01:33:44+0000
+/project/windows-tools-product-key/, windows-tools.product-key, 0.3.1, Retrieve Windows Product Keys, 2021-03-24T17:28:22+0000
+/project/cloudmesh-configuration/, cloudmesh-configuration, 4.3.7, A simple way to configure applications from yaml files., 2021-02-06T04:41:55+0000
+/project/redvty/, redvty, 0.0.1, VTY automation via SSH., 2019-11-15T15:17:17+0000
+/project/windows-tools-windows-firewall/, windows-tools.windows-firewall, 0.1.1, Windows firewall state retrieval, 2021-03-24T17:28:32+0000
+/project/dish/, dish, 0.0.0, A new, modern Unix shell implemented in pure Python with Flask-like configuration and extensibility, 2019-11-30T19:59:50+0000
+/project/hero/, hero, 0.3.2, Simple server environments set-up., 2016-04-24T15:22:23+0000
+/project/asynctelnet/, asynctelnet, 0.2.5, Python 3 anyio Telnet server and client Protocol library, 2021-03-19T07:17:30+0000
+/project/xontrib-argcomplete/, xontrib-argcomplete, 0.3.2, Argcomplete support for python and xonsh scripts in xonsh shell., 2021-03-04T18:49:19+0000
+/project/cyberaide-bookmanager/, cyberaide-bookmanager, 0.2.35, Creating Books from content in different git and other cloud services., 2020-07-29T14:02:46+0000
+/project/yaop/, yaop, 0.1.1, Yet Another Option Parser (full fledged), 2016-06-05T23:51:15+0000
+/project/bein-htminilims/, bein-htminilims, 1.065, Web frontend to the MiniLIMS from bein, 2011-04-08T08:43:47+0000
+/project/ssh2-python3/, ssh2-python3, 0.22.6, Super fast SSH library - bindings for libssh2 and Python 3, 2020-12-28T10:35:32+0000
+/project/imatlab/, imatlab, 0.4, A Juyter kernel for MATLAB., 2019-06-14T11:39:22+0000
+/project/picat-kernel/, picat-kernel, 0.1, A Picat kernel for Jupyter, 2019-07-02T23:57:02+0000
+/project/xontrib-broot/, xontrib-broot, 0.1.0, broot support function for xonsh shell, 2020-11-25T15:52:30+0000
+/project/shell-jobrunner/, shell-jobrunner, 2.3.1, Shell-based job runner with logging, 2021-04-02T19:14:25+0000
+/project/calysto-hy/, calysto-hy, 0.1.1, A Hy kernel for Jupyter based on MetaKernel, 2018-08-30T15:32:32+0000
+/project/ofunctions-process/, ofunctions.process, 0.1.1, Shorthand for killing an entire process tree, 2021-02-11T01:10:23+0000
+/project/configo/, Configo, 1.4, Easy way to use existing JSON, XML or YAML config files from bash shell/scripts, 2016-07-05T12:22:33+0000
+/project/autoargs/, autoargs, 0.0.2, Automatic Arg parsing, 2016-06-12T20:53:49+0000
+/project/pexpect-u/, pexpect-u, 2.5.1, Pexpect is a pure Python Expect. It allows easy control of other applications., 2011-12-10T23:09:52+0000
+/project/terminaloverflow/, terminaloverflow, 1.0.0, Visual terminal experience with mouse support, 2018-05-23T13:27:10+0000
+/project/scriptdoctest/, scriptdoctest, 0.3, Helper to test interactive shell snippet examples in documentation, 2018-05-29T13:27:26+0000
+/project/fencepy/, fencepy, 0.7.2, Standardized fencing off of python virtual environments on a per-project basis, 2016-03-13T20:06:59+0000
+/project/polysh/, polysh, 0.13, Control thousands of ssh sesions from a single prompt, 2020-05-11T19:30:48+0000
+/project/matrixtest/, MatrixTest, 1.2.0, A tool to facilitate matrix test via countless combination of arguments of a command line, 2021-04-03T06:19:44+0000
+/project/bombardier-server/, bombardier_server, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:29+0000
+/project/gitsane/, gitsane, 0.1.2, Command line utility for managing local git repositories, 2020-05-08T00:23:53+0000
+/project/libtmux/, libtmux, 0.8.5, scripting library / orm for tmux, 2020-10-25T16:16:36+0000
+/project/xontrib-macro-lib/, xontrib-macro-lib, 0.0.3, Library of the useful macroses for the xonsh shell., 2021-04-01T08:29:19+0000
+/project/windows-tools-logical-disks/, windows-tools.logical-disks, 0.1.2, Logical disk (partition) management functions, 2021-03-24T17:28:17+0000
+/project/uuid64/, uuid64, 0.2.0, Generate 64bit UUIDs, 2014-12-26T18:28:26+0000
+/project/advanced-ssh-config/, advanced-ssh-config, 1.1.0, Add some magic to SSH and .ssh/config, 2015-07-22T09:57:09+0000
+/project/doing/, doing, 1.0.0, doing implements hierarchical command lines, 2016-09-18T16:12:46+0000
+/project/envie/, envie, 0.4.36, Bash helpers for navigating and managing Python VirtualEnvs., 2017-12-04T10:10:06+0000
+/project/shell-pipes/, shell-pipes, 0.1.0, Extending Python syntax to implement shell commands as pipes using subprocess, 2021-02-05T04:39:15+0000
+/project/ofunctions-service-control/, ofunctions.service-control, 0.1.3, Windows & Linux service control functions, 2021-03-30T14:03:42+0000
+/project/cliask/, cliask, 0.0.4, A module for getting validated user input via the console, 2013-04-09T17:41:47+0000
+/project/elasticsearch-kernel/, elasticsearch-kernel, 0.1.0, A elasticsearch kernel for Jupyter., 2020-05-28T06:25:27+0000
+/project/tempenv/, tempenv, 0.2.0, Environment Variable Context Manager, 2019-10-08T12:17:09+0000
+/project/asciiplotlib/, asciiplotlib, 0.2.3, Plotting on the command line, 2019-09-26T17:31:28+0000
+/project/roundup-cli/, roundup-cli, 0.1, A Command Line Interface for Roundup, 2011-11-25T21:29:36+0000
+/project/asynccmd/, asynccmd, 0.2.4, Asyncio implementation of Cmd Python lib., 2017-01-02T15:39:32+0000
+/project/metabolexecutor/, metabolexecutor, 20.0.post1, Programmer friendly subprocess wrapper, 2018-09-10T21:34:09+0000
+/project/sarge/, sarge, 0.1.6, A wrapper for subprocess which provides command pipeline functionality., 2020-08-24T12:28:04+0000
+/project/argcompd/, argcompd, 0.9.0.1, A package providing automated shell completion support for argparse., 2017-01-23T15:59:52+0000
+/project/ufp/, ufp, 1.14, ufp 라이브러리 python 버전. 각종, 편리한 함수들의 모음., 2015-06-14T13:51:19+0000
+/project/batchexec/, batchexec, 0.0.5, Batch execute any task, with simple json config, 2021-02-26T22:42:20+0000
+/project/pyle/, pyle, 0.4.1, Use Python for shell one-liners., 2019-05-23T09:20:04+0000
+/project/shellp/, shellp, 0.2.1, An advanced and easy to configure shell, 2019-08-11T20:02:45+0000
+/project/ofunctions-threading/, ofunctions.threading, 0.1.0, Threading decorator to run functions as threads, 2021-03-30T14:04:27+0000
+/project/swk-foreman/, swk_foreman, 0.0.2a6, Plugin for swk, enabling Foreman api, 2016-10-14T08:51:48+0000
+/project/ofunctions/, ofunctions, 2.0.3, Toolset with various file logging / network / checksumming / process functions, 2021-03-30T13:58:36+0000
+/project/que/, que, 0.0.2, CSS selectors for parsing html on the command line, 2017-06-30T17:15:23+0000
+/project/rshell/, rshell, 0.0.30, A remote shell for working with MicroPython boards., 2021-03-01T22:24:24+0000
+/project/docker-banner-gen/, docker-banner-gen, 0.0.7, Command-line tool for generating bash.bashrc templates for docker with a custom banner., 2021-04-08T23:30:49+0000
+/project/unlocker/, unlocker, 2.2.0, CLI credentials manager, 2018-09-22T15:47:30+0000
+/project/pythoncolorize/, PythonColorize, 0.2, Simple module to colorize text on terminal, 2016-07-05T20:46:47+0000
+/project/xontrib-rerun/, xontrib-rerun, 0.11, Rerun previous commands, 2018-12-05T14:02:50+0000
+/project/xontrib-commands/, xontrib-commands, 0.2.7, Useful xonsh-shell commands/alias functions, 2021-04-18T11:55:03+0000
+/project/xontrib-back2dir/, xontrib-back2dir, 0.1.1, Return to the most recently used directory when starting the xonsh shell., 2021-04-07T08:20:05+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/jaffle/, jaffle, 0.2.4, Python app and process orchestration tool for development environment, 2018-06-17T06:02:59+0000
+/project/pydocker-tools/, pydocker-tools, 0.0.1, pydocker-tools is a set of tools to work around lengthy or piped command line tools for docker, 2017-03-31T08:23:54+0000
+/project/easysh/, easysh, 1.0.0, an easy to execute shell commands in Python., 2020-11-11T04:03:18+0000
+/project/rad/, rad, 0.1.2, A super easy console highlighter. Text goes in, color comes out., 2010-10-25T17:38:52+0000
+/project/postgres-kernel/, postgres_kernel, 0.2.2, A PostgreSQL kernel for IPython, 2018-12-01T20:34:04+0000
+/project/dna/, dna, 0.0.7, Generic python utilities, 2014-10-11T20:40:32+0000
+/project/nfasd/, nfasd, 1.4, fasd for neovim, 2021-01-22T16:11:46+0000
+/project/cheesemonger/, cheesemonger, 0.1, A bunch of tools for manipulating wheels, 2016-06-28T04:56:09+0000
+/project/saspy/, saspy, 3.6.6, A Python interface to SAS, 2021-03-11T19:05:22+0000
+/project/watchstat/, watchstat, 1.0.0, Execute a command whenever a file's status changes, 2021-03-19T18:22:37+0000
+/project/tmuxp/, tmuxp, 1.7.2, tmux session manager, 2021-02-03T16:15:22+0000
+/project/gunny/, gunny, 1.0.0b2, Python package for executing commands by following a directed graph, 2014-11-25T04:13:23+0000
+/project/milvus-kernel/, milvus-kernel, 0.2.0, A milvus kernel for Jupyter., 2021-02-10T08:50:59+0000
+/project/pspman/, pspman, 1!1.4.0, Personal Simple Package Manager, 2021-03-30T12:10:52+0000
+/project/rpnparse/, rpnparse, 0.0.1, simple reverse polish notation parser to learn how to write parsers, 2017-09-03T18:23:51+0000
+/project/tcl-kernel/, tcl_kernel, 0.0.5, A Tcl kernel for Jupyter, 2021-01-29T12:17:00+0000
+/project/pycliff/, pyCLiFF, 0.1, pyCLiFF, the Python Command Line Filter Framework is a simple tool designed to remove the boilerplate and annoyances from command line filters., 2009-08-21T00:11:17+0000
+/project/redssh/, redssh, 2.3.2, An SSH automation library., 2021-03-06T12:10:54+0000
+/project/cachedcomplete/, cachedcomplete, 1.0.4, Cached wrapper for python argcomplete, 2020-05-31T06:42:59+0000
+/project/slprint11-pkg/, slprint11-pkg, 1.1, Simple module to display a text with a time interval between each characters., 2020-05-02T00:11:08+0000
+/project/shell/, shell, 1.0.1, A better way to run shell commands in Python., 2013-06-03T19:25:52+0000
+/project/pyrcmd/, pyrcmd, 0.1.1, Python Remote Commands toolkit, 2016-02-19T00:33:43+0000
+/project/jython-kernel/, jython-kernel, 2.0, A Jython kernel for Jupyter/IPython, 2018-04-02T02:13:32+0000
+/project/autond/, autond, 0.2.13, autond, 2020-12-04T11:40:16+0000
+/project/pycp/, pycp, 8.0.8, cp and mv with a progressbar, 2019-02-27T21:00:54+0000
+/project/windows-tools-users/, windows-tools.users, 1.1.0, Windows user lookups for SID/PySID/Username, 2021-03-24T17:28:29+0000
+/project/ofunctions-string-handling/, ofunctions.string-handling, 0.1.2, Simple string sanitization functions, 2021-03-30T14:04:04+0000
+/project/apt-mirror-updater/, apt-mirror-updater, 7.2, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-04-17T22:28:13+0000
+/project/binary-refinery/, binary-refinery, 0.3.28, A toolkit to transform and refine (mostly) binary data., 2021-03-24T11:53:03+0000
+/project/pure/, pure, 2.0.0, Pretty, minimal and fast prompt for various shells, 2019-03-16T23:20:27+0000
+/project/xontrib-history-encrypt/, xontrib-history-encrypt, 0.0.9, History backend that can encrypt the xonsh shell commands history., 2021-03-09T14:27:40+0000
+/project/pathtub/, pathtub, 1.1.2, Reading and editing Windows PATH., 2020-04-12T16:31:03+0000
+/project/surfraw-tools/, surfraw-tools, 0.1.0, Command-line programs to make writing surfraw elvi easier, 2020-07-03T06:14:28+0000
+/project/click-shell/, click-shell, 2.0, An extension to click that easily turns your click app into a shell utility, 2020-02-19T01:30:18+0000
+/project/virtualfish/, virtualfish, 2.5.1, Fish shell tool for managing Python virtual environments, 2020-12-01T20:32:11+0000
+/project/cm-burn/, cm-burn, 0.3.2, A command to burn many SD cards for building PI clusters, 2019-12-12T20:09:05+0000
+/project/py-logwatcher/, py-logwatcher, 0.0.0, Python implementation of tail -- A log file watcher, 2017-12-04T20:48:16+0000
+/project/logtrail/, logtrail, 0.0.3, A fancy logger, 2017-06-01T05:00:27+0000
+/project/riposte/, riposte, 0.4.1, Package for wrapping applications inside a tailored interactive shell., 2020-10-11T13:45:16+0000
+/project/bash-timeout/, bash-timeout, 1.1.0, A command (and also bash function) to terminate another command after specified duration, 2018-06-23T04:54:04+0000
+/project/playerpiano/, PlayerPiano, 0.3.0, Amaze your friends by running Python doctests in a fake interactive shell, 2018-04-17T18:20:25+0000
+/project/radssh/, radssh, 1.1.2, RadSSH Module, 2018-05-24T18:52:32+0000
+/project/pymsgprompt/, PyMsgPrompt, 1.3.0, PyMsgPrompt is a python module to embed prompt functionality in your code.         Current Version of the module is 1.3.0, 2021-04-01T18:11:42+0000
+/project/remote-multicommand/, remote-multicommand, 0.1.3, Provides execution of multiple commands in multiple servers in parallel (multiple processes), 2016-11-17T17:30:09+0000
+/project/goto-dir/, goto-dir, 0.2.0, easy'n'fast cd'ing., 2013-04-11T01:10:11+0000
+/project/swk-casp/, swk_casp, 0.0.2a3, Plugin for swk, enabling casp api, 2016-02-16T21:41:57+0000
+/project/gistpy/, Gistpy, 0.2.1, Command line client for gist., 2014-07-10T08:33:00+0000
+/project/usbinfo/, usbinfo, 1.1.1, Module for introspecting USB devices on a system, 2018-11-20T00:24:48+0000
+/project/pywibeee/, pywibeee, 0.0.2, Command line interface (CLI) for WiBeee (old Mirubee) meter, 2019-10-07T22:14:00+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/sysexecute/, sysexecute, 1.1.9, A library for simplified executing of system commands, 2019-05-29T04:30:18+0000
+/project/kabaret-script-view/, kabaret.script-view, 1.1.1, Scritp view extension for the Kabaret framework, 2021-01-15T22:51:41+0000
+/project/asciinema/, asciinema, 2.0.2, Terminal session recorder, 2019-01-12T19:00:51+0000
+/project/hivy/, hivy, 0.0.6, This plugin provides a RESTFul interface to unide, 2014-02-17T08:37:17+0000
+/project/forwarg/, forwarg, 1.0.0, Parse and forward command-line arguments., 2018-01-21T10:26:08+0000
+/project/xontrib-apipenv/, xontrib-apipenv, 0.4.0, Auto activate a Pipenv virtual environment, 2019-05-29T10:51:35+0000
+/project/netcat/, netcat, 0.0.1a0, Netcat with cmd exec, connect, listen and (local/remote) port-forwarding modes., 2020-04-08T19:58:41+0000
+/project/goear-dl/, goear_dl, 0.1.2, download songs from goear, 2016-01-16T13:25:45+0000
+/project/pygmount/, pygmount, 0.9.3, Software for graphical mount network shares., 2014-04-03T12:26:59+0000
+/project/redlibssh2/, redlibssh2, 2.0.2, Super fast SSH library - bindings for libssh2, 2021-01-05T16:01:14+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/swk/, swk, 0.0.4a18, Extendable command line utility for sysadmins, 2016-03-03T20:36:30+0000
+/project/xontrib-ssh-agent/, xontrib-ssh-agent, 1.0.12, SSH agent integration for xonsh, 2020-04-05T19:17:04+0000
+/project/pycmdlinehistory/, pycmdlinehistory, 1.1.3, Save command line history and provide a command line completer for python., 2020-04-14T19:14:21+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/moreman/, moreman, 0.3.2, Man Pages for Commands without Man Pages, 2019-10-19T07:35:14+0000
+/project/pycommand/, pycommand, 0.4.0, Library / toolkit for creating command line programs with minimal effort., 2018-03-27T21:19:07+0000
+/project/isalt/, isalt, 2021.2.2, ISalt: Interactive Salt Programming, 2021-02-19T11:38:16+0000
+/project/echo360/, echo360, 2.0.3, Commandline tool for automated downloads of echo360 videos, 2020-05-29T13:44:24+0000
+/project/qpsh/, qpsh, 0.3, Call shell commands from python shell., 2018-06-12T15:20:50+0000
+/project/esctl/, esctl, 1.8.0, Easy to use CLI tool to manage Elasticsearch, preventing long curl commands., 2021-04-09T13:24:15+0000
+/project/apt-smart/, apt-smart, 7.1.3, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-05-31T07:14:08+0000
+/project/gshell-py/, gshell.py, 0.0.4, A straight port of glib/gshell.c to Python, 2019-07-05T21:08:44+0000
+/project/clachievements/, CLAchievements, 0.1.0, 🌟 Command Line Achievements — Make command line fun again! 🌟, 2016-10-24T10:02:11+0000
+/project/pytekdatamuse/, pytekdatamuse, 0.1.0, "Unofficial Python Wrapper for the Datamuse API.", 2020-11-08T01:55:51+0000
+/project/calysto-lc3/, calysto_lc3, 0.6, An LC-3 Assembly Language kernel for Jupyter based on MetaKernel, 2017-11-07T00:12:52+0000
+/project/pypyr/, pypyr, 4.5.0, task-runner for automation pipelines defined in yaml. cli & api., 2021-02-02T11:19:57+0000
+/project/keycloak-config-tool/, keycloak-config-tool, 0.0.7, This package allows for configuration based updates to Keycloak., 2020-11-16T17:37:52+0000
+/project/kdbq-kernel/, kdbq_kernel, 0.1, A Kdb/Q kernel for Jupyter, 2017-05-18T04:02:51+0000
+/project/pyvenvwrapper/, pyvenvwrapper, 1.0.0, pyvenvwrapper is a small and lightweight set of Bash script functions, that enhance the use of venv module for management of virtual environments., 2018-09-16T13:07:03+0000
+/project/moreshell/, moreshell, 0.1.0, createMORE IPython shell magic, 2019-08-19T18:48:32+0000
+/project/telnetsrv/, telnetsrv, 0.4, Telnet server handler library, 2012-12-02T05:52:32+0000
+/project/xontrib-prompt-bar/, xontrib-prompt-bar, 0.4.1, The bar theme for xonsh shell., 2021-04-18T05:46:39+0000
+/project/windows-tools-securityprivilege/, windows-tools.securityprivilege, 0.1.2, Privilege enable/disable functions, 2021-03-24T17:28:26+0000
+/project/sockclock/, sockclock, 0.0.1, temporarily override sockets default timeout, 2017-06-30T02:32:27+0000
+/project/xontrib-pyenv/, xontrib-pyenv, 1.0.4, Pyenv integration for xonsh, 2020-06-10T05:51:54+0000
+/project/recent2/, recent2, 1.0.2, Logs bash history to an sqlite database, 2020-11-07T09:13:58+0000
+/project/cocopy/, CocoPy, 1.1.0rc, Python implementation of the famous CoCo/R LL(k) compiler generator., 2007-12-20T00:27:07+0000
+/project/copy2hash/, copy2hash, 0.5, Copy or rename any file(s) to a hash-secured filename via terminal, 2020-05-22T15:47:58+0000
+/project/argsearch/, argsearch, 0.3.0, Run a command many times with different combinations of its inputs., 2020-10-19T06:55:38+0000
+/project/shcol/, shcol, 0.3, A shell columnizer, 2016-05-15T13:12:06+0000
+/project/pytekcoopbank/, pytekcoopbank, 0.2.0, "Unofficial Co-operative Bank of Kenya API Python SDK.", 2020-10-05T07:50:56+0000
+/project/cmdhelper/, cmdhelper, 0.2.11, Python utility for writing command line scripts with consistent look and feel., 2019-05-12T02:48:38+0000
+/project/yaspin/, yaspin, 1.5.0, Yet Another Terminal Spinner, 2021-03-21T19:19:50+0000
+/project/calysto-processing/, calysto_processing, 2.0.3, A ProcessingJS kernel for Jupyter, 2017-05-09T15:17:47+0000
+/project/cloudmesh-test/, cloudmesh-test, 4.3.2, A command to do a simple test to identify potential flaws before using cloudmesh, 2020-10-27T17:29:32+0000
+/project/deid/, deid, 0.2.24, deidentify dicom and other images with python and pydicom, 2020-12-01T20:04:51+0000
+/project/xirion/, xirion, 1.0.19, Terminal session recorder, 2017-06-30T11:18:35+0000
+/project/xontrib-powerline-binding/, xontrib-powerline-binding, 0.3.1, Powerline binding for xonsh, 2020-10-03T10:47:58+0000
+/project/pansi/, pansi, 2020.7.3, ANSI escape code library for Python, 2020-07-09T15:33:05+0000
+/project/pyzshcomplete/, pyzshcomplete, 1.0.2, Tab completion for arbitraty python scripts in zsh, 2021-02-23T21:31:34+0000
+/project/nephele/, nephele, 0.0.43, A shell for AWS, 2017-08-01T21:51:09+0000
+/project/pytekmomoapi/, pytekmomoapi, 1.0.1, "Unofficial MTN Mobile Money APIs Python SDK.", 2020-10-13T08:00:58+0000
+/project/ssh-paramiko/, ssh-paramiko, 0.1.2, Wrapper ssh using paramiko to interact with remote servers, 2016-11-17T16:17:29+0000
+/project/midonetclient/, midonetclient, 5.2.0, Midonet API client library for Python applications, 2016-07-08T14:12:27+0000
+/project/github-ssh-auth/, github-ssh-auth, 0.9.1, Authenticate SSH users keys with GitHub, 2019-04-09T23:35:47+0000
+/project/xonsh-kernel/, xonsh_kernel, 0.4.1, An Xonsh kernel for Jupyter, 2016-07-24T21:36:16+0000
+/project/shellrun/, shellrun, 3.1, running commands through a system shell, 2014-10-12T17:23:50+0000
+/project/windows-tools-bitlocker/, windows-tools.bitlocker, 0.1.5, Retrieve bitlocker status and protector keys for all drives, 2021-03-24T17:28:06+0000
+/project/parse-shebang/, parse-shebang, 0.0.22, Parse shebangs and return their components., 2016-11-10T13:18:43+0000
+/project/pdiffcopy/, pdiffcopy, 1.0.1, Fast large file synchronization inspired by rsync, 2020-03-06T23:30:24+0000
+/project/sparqlkernel/, sparqlkernel, 1.3.0, A Jupyter kernel for SPARQL queries, 2020-07-30T10:08:12+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/sc-kernel/, sc-kernel, 0.3.2, , 2020-12-13T17:47:27+0000
+/project/shoper/, shoper, 1.3.1, Simple shell operator module, 2021-01-19T01:07:56+0000
+/project/ofunctions-logger-utils/, ofunctions.logger-utils, 2.0.1, Shorthand for logger initialization, recording worst called loglevel and handling nice console output, 2021-03-30T14:01:09+0000
+/project/flask-konch/, flask-konch, 2.0.0, An improved shell command for the Flask CLI, 2019-01-13T23:29:41+0000
+/project/xontrib-thefuck/, xontrib-thefuck, 0.3.6, Xonsh extension for thefuck, 2019-03-07T11:19:01+0000
+/project/hive-kernel/, hive-kernel, 0.3.1, A hive kernel for Jupyter., 2020-08-20T07:08:24+0000
+/project/cmdix/, cmdix, 0.3.1, Unix commands in Pure Python, 2021-03-02T03:40:55+0000
+/project/xontrib-repa-prompt/, xontrib-repa-prompt, 0.0.5, Custom prompt for xonsh, 2020-06-09T17:53:55+0000
+/project/mysql-kernel/, mysql-kernel, 0.3.0, A mysql kernel for Jupyter., 2020-08-20T07:25:25+0000
+/project/xontrib-output-search/, xontrib-output-search, 0.5.4, Get identifiers, names, paths, URLs and words from the previous command output and use them for the next command in xonsh., 2020-10-29T08:45:20+0000
+/project/metakernel-echo/, metakernel_echo, 0.11.3, A simple echo kernel for Jupyter/IPython, 2015-09-20T20:20:42+0000
+/project/envo/, envo, 0.8.5, Smart Environments handling - Define command hooks, file hooks and env variables in python and activate hot reloaded shells., 2020-06-25T14:44:00+0000
+/project/zsh-kernel/, zsh-kernel, 2.0, Z shell kernel for Jupyter, 2019-06-28T22:52:35+0000
+/project/pearl/, pearl, 2.3.7, Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX).It can be used for dotfiles, plugins, programs and any form of code accessible via git., 2021-04-05T23:57:06+0000
+/project/tqdm/, tqdm, 4.60.0, Fast, Extensible Progress Meter, 2021-04-06T01:23:21+0000
+/project/cihai-cli/, cihai-cli, 0.6.0, Command line frontend for the cihai CJK language library, 2020-08-09T19:41:36+0000
+/project/git-aggregator/, git-aggregator, 1.8.1, A library to aggregate git branches from different remotes into a consolidated one, 2020-08-28T15:35:12+0000
+/project/xontrib-histcpy/, xontrib-histcpy, 0.1, Useful aliases and shortcuts for extracting links and text from command output history in xonsh, 2019-05-23T09:43:48+0000
+/project/ssh-python/, ssh-python, 0.9.0, libssh C library bindings for Python., 2020-12-18T09:52:13+0000
+/project/alx/, alx, 0.4.5, Swiss army knife for Shell, Cloud and DevOps., 2015-05-08T01:56:08+0000
+/project/pydba/, pydba, 1.2.1, Python tools for DBAs with deadlines!, 2015-11-30T14:38:54+0000
+/project/xontrib-z/, xontrib-z, 0.4, Tracks your most used directories, based on 'frecency'., 2018-10-16T23:47:21+0000
+/project/tutorterminal/, tutorterminal, 0.2, A tool to show terminal tutorials., 2020-03-12T16:15:41+0000
+/project/prompty/, prompty, 0.4.1, A command line prompt markup language, 2020-08-01T13:14:28+0000
+/project/morepy/, morepy, 0.1.0, getMORE out of your everyday Python experience, 2019-08-26T08:56:26+0000
+/project/metakernel/, metakernel, 0.27.5, Metakernel for Jupyter, 2020-11-09T20:39:53+0000
+/project/permset/, permset, 0.22, Simple standalone utility script to manage \*nix permissions on file and directory trees based on patterns., 2012-12-14T22:02:51+0000
+/project/xxh-xxh/, xxh-xxh, 0.8.7, Bring your favorite shell wherever you go through the ssh, 2021-03-14T15:46:20+0000
+/project/shellish/, shellish, 5, A framework for CLI/shell programs., 2017-04-10T20:09:04+0000
+/project/py1cmd/, py1cmd, 0.3, Runs awk-like Python one-liners., 2015-12-13T01:11:17+0000
+/project/wasm-spec-kernel/, wasm-spec-kernel, 0.1.1, A Jupyter kernel for the Wasm reference interpreter, 2020-12-31T00:28:39+0000
+/project/pyrcmd3/, pyrcmd3, 0.1.0, Python3 Remote Commands toolkit, 2016-03-03T23:20:15+0000
+/project/metakernel-bash/, metakernel_bash, 0.11.3, A Bash kernel for Jupyter/IPython, 2015-09-20T20:22:05+0000
+/project/sphinxnotes-snippet/, sphinxnotes-snippet, 1.0b5, Non-intrusive snippet manager for Sphinx documentation, 2021-04-20T15:55:59+0000
+/project/pysource/, pysource, 0.1.7, "source" and run python functions in bash, 2014-05-25T00:29:34+0000
+/project/powershellmagic/, powershellmagic, 0.1.0, IPython magic for Windows PowerShell, 2015-03-04T21:36:32+0000
+/project/asis/, asis, 0.3.0, Lightweight As-Is Server, 2016-07-22T18:16:57+0000
+/project/windows-tools-file-utils/, windows-tools.file-utils, 0.3.0, Windows NTFS & ReFS file ownership and ACL handling functions, 2021-03-24T17:28:11+0000
+/project/poeditor-client/, poeditor-client, 0.0.10, The POEditor Client, 2019-03-11T22:35:21+0000
+/project/vcspull/, vcspull, 1.5.0, synchronize your projects via yaml / json files, 2020-08-11T11:45:56+0000
+/project/onlysnarf/, OnlySnarf, 3.0.4, OnlyFans Content Distribution Tool, 2021-02-14T20:13:56+0000
+/project/bein/, bein, 1.06, Miniature LIMS and workflow manager for bioinformatics, 2011-04-07T11:49:39+0000
+/project/cmenu/, cmenu, 1.0.0, A Python alternative to cmd.Cmd., 2018-01-21T10:30:50+0000
+/project/ripe/, ripe, 0.0.4, remove & reinstall python packages in one command, 2016-04-17T03:51:23+0000
+/project/xontrib-fzf-widgets/, xontrib-fzf-widgets, 0.0.4, fzf widgets for xonsh, 2020-10-16T10:43:06+0000
+/project/xontrib-cmd-done/, xontrib-cmd-done, 0.2.2, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-25T18:39:59+0000
+/project/oraide/, oraide, 0.4, A library to help presenters demonstrate terminal sessions hands-free., 2014-01-14T00:43:13+0000
+/project/pynews/, PyNews, 0.2, PyNews is a simple Python CLI to browse news from HN website, 2016-10-24T23:24:02+0000
+/project/cloudmesh-installer/, cloudmesh-installer, 4.4.28, A dynamic extensible CMD based command shell, 2021-03-26T21:47:42+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/cloudmesh-cmd5/, cloudmesh-cmd5, 4.3.18, A dynamic extensible CMD based command shell, 2021-02-21T13:46:17+0000
+/project/dosbox-screen/, dosbox-screen, 1.1.5, The Screen class lets you to do positioned writes to the dos terminal., 2019-09-08T20:30:12+0000
+/project/prettyjson/, prettyjson, 1.0.3, Command-line tool to validate and pretty-print JSON(just for the missing options in `json.tool`), 2019-07-20T14:11:27+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/xontrib-cmd-durations/, xontrib-cmd-durations, 0.2.4, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-26T07:47:01+0000
+/project/ttd/, ttd, 0.1.0, Time Till Done (ttd) is a simple progress bar for your long running Python scripts, 2016-11-10T15:57:03+0000
+/project/shellctx/, shellctx, 0.1.3, shell context helper, 2020-07-05T22:14:46+0000
+/project/pymod/, pymod, 0.2, Simple Environment Variable Manager, 2018-08-28T10:35:04+0000
+/project/telnetlib3/, telnetlib3, 1.0.4, Python 3 asyncio Telnet server and client Protocol library, 2021-02-04T02:55:11+0000
+/project/metakernel-python/, metakernel_python, 0.11.3, A Python kernel for Jupyter/IPython, 2015-09-20T20:21:39+0000
+/project/xontrib-cd/, xontrib-cd, 0.1.1, cd to any path without escaping in xonsh shell ('cd '→'cd! '), 2021-03-04T19:39:43+0000
+/project/achilterm/, Achilterm, 0.21, A lightweight UTF-8 web based terminal, 2016-08-08T01:25:07+0000
+/project/state-machine-db/, state-machine-db, 0.1, Provides the implementation of a configurable state machine, 2017-02-15T15:05:09+0000
+/project/printingpress/, printingpress, 0.3, Shameless name-grab for a possible future project, 2021-04-08T20:02:11+0000
+/project/konch/, konch, 4.3.0, CLI and configuration utility for the Python shell, optimized for simplicity and productivity., 2020-11-29T21:02:30+0000
+/project/ped/, ped, 2.1.0, Quickly open Python modules in your text editor., 2020-03-18T14:10:40+0000
+/project/ln-py/, ln.py, 1.0.0, symlinks made easier, 2020-05-05T15:21:32+0000
+/project/ofunctions-file-utils/, ofunctions.file-utils, 0.8.0, Various file handling of which get_files_recursive is the most advanced, 2021-04-06T10:08:52+0000
+/project/argtyped/, argtyped, 0.3.0, Command line arguments, with types, 2021-01-09T03:10:31+0000
+/project/xontrib-hist-navigator/, xontrib-hist-navigator, 0.6.3, A Xonsh plugin to navigate between directories like fish's prevd/nextd, 2021-01-03T11:59:42+0000
+/project/executor/, executor, 23.2, Programmer friendly subprocess wrapper, 2020-11-19T12:55:59+0000
+/project/coloredlogs/, coloredlogs, 15.0, Colored terminal output for Python's logging module, 2020-12-10T13:10:51+0000
+/project/serf-membership/, serf_membership, 1.2, This is very simple script for election a leader (primary) from all members tagged with specific role., 2016-07-12T23:01:40+0000
+/project/envy/, envy, 0.2.0, safely and easily debug files deep in python virtualenvs, 2016-07-13T18:55:00+0000
+/project/erebo/, erebo, 1.1.23, Erebo is a VPN like a Proxy, 2019-11-05T10:03:35+0000
+/project/bashcalc/, bashcalc, 1.0, Instant calculating from the terminal into the terminal, 2020-06-09T20:14:49+0000
+/project/xontrib-linuxbrew/, xontrib-linuxbrew, 0.1.0, Add Homebrew's shell environment to xonsh on Linux, 2021-03-04T18:51:35+0000
+/project/pyplay/, pyplay, 1.0.5, Python Interactive Playground, 2011-04-24T02:22:44+0000
+/project/xontrib-powerline3/, xontrib-powerline3, 0.3.1, Yet another powerline theme for xonsh with async prompt support., 2021-01-31T08:32:01+0000
+/project/w2j/, w2j, 0.4, A tool for migrating from WizNote to Joplin., 2021-03-02T11:18:34+0000
+/project/py-make/, py-make, 0.1.1, Makefile execution powered by pure Python, 2019-01-21T00:18:55+0000
+/project/itango/, itango, 0.1.8, An interactive Tango client, 2021-02-04T14:31:23+0000
+/project/rockset/, rockset, 0.7.68, Rockset Python Client and `rock` CLI, 2021-02-11T19:08:34+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jetson-stats/, jetson-stats, 3.1.0, Interactive system-monitor and process viewer for all NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2], 2021-03-01T15:50:57+0000
+/project/cloudmesh-abstract/, cloudmesh-abstract, 4.3.5, A command called abstract and foo for the cloudmesh shell, 2021-02-06T01:16:54+0000
+/project/windows-tools-antivirus/, windows-tools.antivirus, 0.6.1, antivirus state and installed products retrieval, 2021-04-06T09:29:54+0000
+/project/zsh-jupyter-kernel/, zsh-jupyter-kernel, 3.2, Z shell kernel for Jupyter, 2019-09-05T20:28:59+0000
+/project/imongo-kernel/, imongo-kernel, 0.1.0, A MongoDB kernel for Jupyter, 2017-10-04T10:16:30+0000
+/project/agcli/, agcli, 1.5.1, A GUI that helps building instructions for the CLI, 2020-02-20T10:33:02+0000
+/project/pbt/, pbt, 1.1.0, Prompt decoration for ZSH and Bash written in Python, 2017-10-22T02:51:18+0000
+/project/argcomplete/, argcomplete, 1.12.3, Bash tab completion for argparse, 2021-04-19T15:48:18+0000
+/project/fedora-devshell/, fedora-devshell, 0.1.1, Fedora Developer's Lunchbox, 2009-05-01T17:47:12+0000
+/project/ofunctions-csv/, ofunctions.csv, 0.2.0, CSV file reader with header management, fieldnames, delimiters and comment skipping, 2021-03-30T13:59:41+0000
+/project/cloudmesh-sys/, cloudmesh-sys, 4.3.3, A command called sys for the cloudmesh shell, 2020-10-27T17:21:03+0000
+/project/opsletsec2/, OpsletsEc2, 0.3.30, DevOps life helpers., 2016-02-11T11:14:50+0000
+/project/shed-sh/, shed_sh, 1.0.0, Don't run "curl | sh" again. Use "curl | shed" to verify scripts before running., 2015-01-02T23:57:22+0000
+/project/click-web/, click-web, 0.7.2, Serve click scripts over the web with minimal effort., 2021-04-07T13:43:25+0000
+/project/gnuplot-kernel/, gnuplot-kernel, 0.4.1, A gnuplot kernel for Jupyter, 2020-08-22T12:01:31+0000
+/project/windows-tools-server/, windows-tools.server, 0.1.1, Windows server identification functions, 2021-03-24T17:28:27+0000
+/project/git-fame/, git-fame, 1.14.1, Pretty-print `git` repository collaborators sorted by contributions, 2021-03-01T22:16:22+0000
+/project/configparser-crypt/, configparser-crypt, 0.6.2, Drop-in replacement for ConfigParser with encryption support, 2021-03-16T14:04:33+0000
+/project/maicos/, maicos, 0.3, Analyse molecular dynamics simulations of interfacial and confined systems., 2021-03-03T22:34:54+0000
+/project/caspyr/, caspyr, 1.1.1, Cinchingly awesome scripts of Pythonic rapture, 2019-08-01T23:19:27+0000
+/project/xontrib-avox/, xontrib-avox, 0.8, Automatic voxes for projects, 2020-01-22T19:11:12+0000
+/project/lsbinit/, lsbinit, 0.1.post7, Linux init scripts handler, 2016-01-06T17:46:57+0000
+/project/pyrepeat/, pyrepeat, 2.0, Repeat command, 2017-04-18T01:24:18+0000
+/project/ipython/, ipython, 7.22.0, IPython: Productive Interactive Computing, 2021-03-27T00:51:13+0000
+/project/tmux-master/, tmux-master, 0.0, A tool that runs a master tmux session to control slave tmux sessions on the specified hosts, 2014-03-20T08:01:44+0000
+/project/goto-cd/, goto-cd, 1.0.1, Teleport to anywhere on your computer, 2019-04-20T13:40:06+0000
+/project/ssht/, ssht, 0.9.1, SSH client wrapper for easily connecting to hosts, 2019-06-18T12:59:58+0000
+/project/oscookie/, oscookie, 0.0.1, Cookie cutter for generating random operating systems and software, 2017-01-18T02:04:01+0000
+/project/pcshell/, pcshell, 0.1.3, Easily create robust Shell applications in Python with this extension for Click & Prompt-Toolkit; built with Windows OS in mind., 2021-04-12T22:32:28+0000
+/project/frensh/, frensh, 0.1.0, Le french shell, 2013-07-07T09:36:12+0000
+/project/pexpect/, pexpect, 4.8.0, Pexpect allows easy control of interactive console applications., 2020-01-21T16:37:03+0000
+/project/pygalume/, Pygalume, 0.2.5, Pygalume is a simple Python CLI to get lyrics, 2016-04-08T01:55:50+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/windows-tools-installed-software/, windows-tools.installed-software, 0.5.4, List of installed software from Uninstall registry keys, 32 and 64 bits, 2021-03-24T17:28:15+0000
+/project/backquotes/, backquotes, 0.0.3, shell command invocation with backquotes, like Perl, Ruby., 2015-11-03T03:01:53+0000
+/project/scription/, scription, 0.86.4, simple script parameter parser, 2021-02-21T18:19:41+0000
+/project/som/, som, 0.2.3, stanford open modules for python, 2017-09-13T04:15:19+0000
+/project/michelson-kernel/, michelson-kernel, 0.1.6, Jupyter kernel for the Michelson language, 2020-04-06T13:20:40+0000
+/project/ptysh/, ptysh, 0.1.0, Python Teletype Shell, 2016-08-04T03:09:04+0000
+/project/xontrib-prompt-ret-code/, xontrib-prompt-ret-code, 1.0.1, Adds return code info to xonsh prompt., 2016-07-22T20:45:39+0000
+/project/takoshell/, takoshell, 0.2.8, Pythonic shell language and command prompt, 2020-06-08T20:52:27+0000
+/project/dotsecrets/, dotsecrets, 0.4, DotSecrets is a tool to facilitate storing your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow., 2020-07-15T20:16:15+0000
+/project/sheller/, sheller, 1.0.0, An even better way to run shell commands in Python., 2017-05-31T21:10:19+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/command-runner/, command-runner, 0.6.3, Platform agnostic command and shell execution tool, also allows UAC/sudo privilege elevation, 2021-03-15T15:28:07+0000
+/project/xontrib-onepath/, xontrib-onepath, 0.3.2, Associate files with app or alias and run it without preceding commands in xonsh shell., 2020-10-31T01:34:53+0000
+/project/xontrib-gitinfo/, xontrib-gitinfo, 0.1.0, Displays information on entering a git repository., 2019-12-22T16:08:47+0000
+/project/ofunctions-mailer/, ofunctions.mailer, 0.3.5, Mail sending function that handles encryption, authentication, bulk and split mail sending, 2021-02-11T01:10:18+0000
+/project/pearlcli/, pearlcli, 2.1.1, Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX).It can be used for dotfiles, plugins, programs and any form of code accessible via git., 2020-01-14T00:00:57+0000
+/project/pytekswift/, pytekswift, 0.1.2, "Database and Utilities for SWIFT (The Society for Worldwide Interbank Financial Telecommunication), a network that enables financial institutions worldwide to send and receive information about financial transactions in a secure, standardized and reliable environment.", 2020-11-22T23:25:55+0000
+/project/kusanagi/, kusanagi, 0.0.5, Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support., 2021-04-19T20:44:57+0000
+/project/windows-tools/, windows-tools, 2.0.1, Toolset for antivirus, NTFS/ReFS ACLs, file ownership, registry, user handling...Well a lot of stuff, 2021-03-30T13:47:01+0000
+/project/ofunctions-checksums/, ofunctions.checksums, 0.2.1, SHA256 Checksumming functions, checksum manifest file creation and verification, 2021-02-11T01:10:12+0000
+/project/ssh2-python/, ssh2-python, 0.26.0, Super fast SSH library - bindings for libssh2, 2021-01-02T21:30:02+0000
+/project/pymailq/, pymailq, 0.9.0, Postfix queue control python tool, 2017-09-07T11:29:36+0000
+/project/xontrib-dotenv/, xontrib-dotenv, 0.1, Reads .env files into environment, 2016-06-15T11:15:15+0000
+/project/xontrib-pipeliner/, xontrib-pipeliner, 0.3.4, Easily process the lines using pipes in xonsh., 2021-04-07T05:15:32+0000
+/project/kamaki/, kamaki, 0.16, A multipurpose, interactive command-line tool, and also a client development library for managing OpenStack clouds., 2017-10-18T12:47:13+0000
+/project/ofunctions-bisection/, ofunctions.bisection, 0.2.1, Bisection function that allows callable to be tested with any list of arguments, 2021-02-11T01:10:11+0000
+/project/watching-testrunner/, watching_testrunner, 1.1.0, Automatic test execution on file changes, 2013-12-20T22:19:14+0000
+/project/allanon/, Allanon, 0.2, A Web crawler that visit a predictable set of URLs, and automatically download resources you want from them, 2014-01-02T21:44:42+0000
+/project/longtroll/, longtroll, 1.0, Detect long-running processes and notify you when they're done., 2012-08-01T01:14:21+0000
+/project/windows-tools-registry/, windows-tools.registry, 0.5.1, Windows registry 32 and 64 bits simple API, 2021-03-24T17:28:24+0000
+/project/opsbot/, opsbot, 20.10.45, I'm Opsbot. I can help you create the best devops scripts., 2020-10-30T06:40:01+0000
+/project/ofunctions-misc/, ofunctions.misc, 1.0.0, Collection of various functions, 2021-02-11T01:10:19+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/gettimer/, getTimer, 0.1.2, Get python datetime objects from CLI users easily, 2016-02-14T00:58:13+0000
+/project/sty/, sty, 1.0.0rc1, String styling for your terminal, 2021-01-31T21:16:18+0000
+/project/bzr-bash-completion/, bzr-bash-completion, 1.2.0, Generate bash command line completion function for bzr, 2010-05-18T09:14:07+0000
+/project/iterpipes/, iterpipes, 0.4, Shell pipelines in Python using shell-like syntax, 2010-03-11T12:35:37+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/windows-tools-office/, windows-tools.office, 0.1.1, Microsoft Office identification, works for click and run, o365 and elder versions, 2021-03-24T17:28:19+0000
+/project/suext/, suext, 0.0.3, Utility for showing any file extension and MIME type info. Support show files information in a directory as list or table., 2020-04-01T07:41:01+0000
+/project/lnmc/, lnmc, 1.0.6, Allows to create symbolic link in batches from a YAML file and consolidate them in a specific directory., 2021-03-28T21:08:51+0000
+/project/pwncat/, pwncat, 0.1.1, Netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell and port forwarding magic - and its  fully scriptable with Python (PSE)., 2021-03-27T21:56:05+0000
+/project/horascli/, horasCLI, 1.2.0, Simple CLI program to create a project hour schedule in markdown., 2018-11-28T07:12:00+0000
+/project/ashell/, ashell, 0.2, Add bashrc like functionality to adb, 2018-01-06T18:36:33+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/deployer/, deployer, 0.3.10, Library for automating system deployments, 2014-12-01T10:35:59+0000
+/project/pyxargs/, pyxargs, 1.2.8, A mostly complete implementation of xargs in python with some added features, 2020-02-02T05:18:33+0000
+/project/unwrapper/, unwrapper, 1.0.0, Unwrap JSON responses from callback fns, 2017-01-19T02:23:45+0000
+/project/redexpect/, redexpect, 2.0.3.post3, An SSH automation library using expect., 2019-11-23T16:57:58+0000
+/project/neatlog/, neatlog, 0.1.8, A neat logging configurator, 2021-02-21T18:45:46+0000
+/project/batchfile-py/, batchfile.py, 0.5, Run Windows batch files (.bat) using Python, 2020-10-29T03:51:08+0000
+/project/xontrib-macro-lib/, xontrib-macro-lib, 0.0.3, Library of the useful macroses for the xonsh shell., 2021-04-01T08:29:19+0000
+/project/windows-tools-logical-disks/, windows-tools.logical-disks, 0.1.2, Logical disk (partition) management functions, 2021-03-24T17:28:17+0000
+/project/envie/, envie, 0.4.36, Bash helpers for navigating and managing Python VirtualEnvs., 2017-12-04T10:10:06+0000
+/project/cliask/, cliask, 0.0.4, A module for getting validated user input via the console, 2013-04-09T17:41:47+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/cryptidy/, cryptidy, 1.0.5, Python high level library for symmetric & asymmetric encryption, 2021-03-16T11:14:16+0000
+/project/pycoreutils/, pycoreutils, 0.0.6a, Coreutils in Pure Python, 2011-01-11T16:11:37+0000
+/project/bashhistory/, bashhistory, 1.1.0, Common Python helper functions, 2020-06-25T18:55:22+0000
+/project/xontrib-hist-format/, xontrib-hist-format, 0.0.10, Format xonsh history to post it to Github or another page., 2020-11-06T10:47:17+0000
+/project/ofunctions-json-sanitize/, ofunctions.json-sanitize, 0.1.1, Simple tool that filters unwanted characters including non printable from JSON objects, 2021-02-11T01:10:15+0000
+/project/lpython/, lpython, 1.0.0a1, Linearly written Python scripts in a pipeline, 2021-02-17T17:15:45+0000
+/project/vex/, vex, 0.0.19, Run commands in a virtualenv, 2019-05-10T19:21:37+0000
+/project/pyarchey2/, pyarchey2, 2.0.5, PyArchey2 is a fork of PyArchey. It is an attempt to speed up PyArchey by introducing multithreading and dropping support for Python2., 2019-09-04T06:19:21+0000
+/project/pyful/, pyful, 0.2.2, Python file management utility, 2011-02-06T04:47:14+0000
+/project/venv-tools/, venv_tools, 0.2.2, A bunch of tools for using venvs (and virtualenvs) from python., 2019-09-15T08:41:59+0000
+/project/xontrib-syslog-shell-profiler/, xontrib-syslog-shell-profiler, 0.1.5, A Xonsh plugin to profile and log command execution to a syslog file., 2021-04-10T20:49:53+0000
+/project/xontrib-sh/, xontrib-sh, 0.3.0, Paste and run commands from bash, zsh, fish, tcsh, pwsh, cmd in xonsh shell., 2021-03-19T16:21:26+0000
+/project/pyramid-notebook/, pyramid-notebook, 0.3.0, Embed IPython Notebook shell on your Pyramid website, 2018-10-09T08:35:36+0000
+/project/batchq/, BatchQ, 0.1-2-pre-alpha, Python automatisation tools., 2012-03-23T14:12:52+0000
+/project/termplotlib/, termplotlib, 0.3.4, Plotting on the command line, 2021-02-15T12:43:16+0000
+/project/hdu/, hdu, 0.2.3.12, Human-friendly summary of disk usage., 2020-04-11T15:54:13+0000
+/project/jsonlike/, jsonlike, 0.0.2, repair and parse invalid but jsonlike content, 2017-01-19T02:32:01+0000
+/project/codelynx/, codelynx, 1.4.0, Terminal session recorder, 2017-05-21T16:42:05+0000
+/project/uniquepwd/, uniquepwd, 1.0.0, A module for getting short unique paths, 2017-01-03T22:41:43+0000
+/project/tmuxomatic/, tmuxomatic, 2.18, Intelligent tmux session management ... #tmux, 2015-07-03T20:24:01+0000
+/project/otrace/, otrace, 0.30.9, An object-oriented python debugger for nonlinear tracing, 2012-08-27T02:15:52+0000
+/project/windows-tools-powershell/, windows-tools.powershell, 0.3.1, PowerShell interpreter wrapper, 2021-03-24T17:28:20+0000
+/project/applause-tool/, applause-tool, 0.5.0, This package allows integration with Applause Inc. services., 2016-10-14T13:32:24+0000
+/project/tej/, tej, 0.6, Trivial Extensible Job-submission system, 2017-04-16T00:41:18+0000
+/project/nrepl/, nrepl, 0.1.7, Auto reload class with Clojure nREPL, 2021-03-04T05:44:24+0000
+/project/skulpt-python/, skulpt_python, 0.9.3, A Skulpt Python kernel in the browser for Jupyter, 2016-03-11T01:03:03+0000
+/project/cly/, cly, 0.9, A module for adding powerful text-based consoles to your application., 2007-12-09T15:23:44+0000
+/project/rockset-sqlcli/, rockset-sqlcli, 0.7.68, Rockset SQL REPL for `rock sql`, 2021-02-11T19:08:36+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/ofunctions-delayed-keyboardinterrupt/, ofunctions.delayed-keyboardinterrupt, 0.1.0, Intercept CTRL+C signal in your Python code, 2021-02-11T01:10:13+0000
+/project/kuob/, kuob, 1.0.1, a Fork of ASCIINEMA Terminal session recorder, 2020-04-11T15:02:44+0000
+/project/shellstats/, shellstats, 0.1, Show the most used shell commands., 2014-11-29T16:56:08+0000
+/project/cltools/, cltools, 0.5.0, Set of decorators of to create transform a class into a command-line tool., 2021-04-24T10:32:20+0000
+/project/matlab-kernel/, matlab-kernel, 0.16.11, , 2020-11-09T20:41:53+0000
+/project/scilab-kernel/, scilab-kernel, 0.9.10, A Jupyter kernel for Scilab., 2019-05-11T12:43:19+0000
+/project/x2x/, x2x, 0.9, commands to convert radixes, 2016-02-01T04:57:34+0000
+/project/pysftpserver/, pysftpserver, 1.4.0, An OpenSSH SFTP wrapper in Python., 2015-01-14T14:59:55+0000
+/project/bash-powerprompt/, bash-powerprompt, 0.1.0, Powerful dynamic bash prompt inspired by Vim Powerline, 2012-09-17T09:07:13+0000
+/project/pyutok/, pyutok, 1.1.2, Inspired by a tool I can not find anymore on the internet: utok 1.5. I use it to clean up path settings in large shell script configuration setups., 2020-12-31T13:35:25+0000
+/project/phen/, phen, 0.2.1, Decentralized platform for social applications, 2015-12-31T21:25:15+0000
+/project/ofunctions-random/, ofunctions.random, 0.1.1, Simple random string generator including password generator, 2021-02-11T01:10:24+0000
+/project/ipydb/, ipydb, 0.0.2, Turn your IPython console into a cross-database SQL client, 2014-09-22T03:24:33+0000
+/project/spellbook/, spellbook, 1.1.5, store and search command lines, 2016-02-11T15:37:09+0000
+/project/sparcli/, sparcli, 0.1.3, Visualize metrics as text in real-time (sparklines), 2020-03-01T03:00:41+0000
+/project/windows-tools-wmi-queries/, windows-tools.wmi-queries, 0.9.5, Windows WMI query wrapper, wmi timezone converters, 2021-04-06T09:30:00+0000
+/project/offsh-xxh/, offsh-xxh, 1.0.0, Bring your favorite shell wherever you go through the ssh. This is a fork from https://github.com/xxh/xxh with some extra featured designed for https://github.com/offsh/offshell, 2020-12-01T18:13:10+0000
+/project/colouredlogs/, colouredlogs, 10.0.1, Coloured terminal output for Python's logging module, 2019-07-13T20:17:45+0000
+/project/shellen/, shellen, 0.3.0, Interactive environment for crafting shellcodes. Also, it just can be used as a simple assembler/disassembler, 2018-09-13T17:31:14+0000
+/project/windows-tools-virtualization/, windows-tools.virtualization, 0.3.1, Simple virtualization platform identification for Windows guest, 2021-03-24T17:28:31+0000
+/project/pyvegan/, PyVegan, 0.1.3, PyVegan is a simple Python CLI to browse vegan recipes, 2017-08-12T16:16:02+0000
+/project/termtosvg/, termtosvg, 1.1.0, Record terminal sessions as SVG animations, 2020-01-18T20:09:17+0000
+/project/python-shell/, python-shell, 1.0.4, Python Shell Wrapper library, 2020-04-06T22:08:49+0000
+/project/argopt/, argopt, 0.7.0, doc to argparse driven by docopt, 2021-03-01T16:51:30+0000
+/project/hashbang/, hashbang, 0.1.14, Turn Python functions into command line interfaces, 2019-06-14T06:10:09+0000
+/project/calysto-bash/, calysto-bash, 0.2.2, A Jupyter kernel for Bash., 2019-09-09T10:18:37+0000
+/project/bombardier-cli/, bombardier_cli, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:39+0000
+/project/pycctek/, pycctek, 0.0.6, "Issuer Identification Number Database and Verification Utility Library. Luhn Algorithm, BIN Checker, Random Credit Card Generators.", 2020-11-04T18:45:21+0000
+/project/bashtools/, bashtools, 0.1.9, Bash Tools for Amazon Web Services, 2018-10-22T18:35:50+0000
+/project/noody-utils/, noody-utils, 1.0.1, Utility commands for manage Noody sessions from unix-like shell., 2011-05-26T14:33:29+0000
+/project/truce/, truce, 0.2.1, An experimental text editor and/or shell, 2015-05-02T03:33:46+0000
+/project/fzsl/, fzsl, 0.4, Fuzzy path searching for shells, 2016-02-06T05:58:05+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/pexpect-py3-patch/, pexpect-py3-patch, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:14:18+0000
+/project/cloudmesh-gui/, cloudmesh-gui, 4.3.2, A command called gui and foo for the cloudmesh shell, 2020-10-27T17:31:06+0000
+/project/xontrib-prompt-starship/, xontrib-prompt-starship, 0.2.0, Starship prompt in xonsh shell., 2021-03-13T00:47:51+0000
+/project/rash/, rash, 0.1.3, Rash Advances Shell History, 2015-06-12T21:24:13+0000
+/project/acfun/, acfun, 0.2, acfun video player, 2019-07-05T09:25:16+0000
+/project/muv/, muv, 0.0.7, View markdown file in command line, 2017-09-06T07:39:35+0000
+/project/sshkernel/, sshkernel, 0.11.0, SSH Kernel, 2020-09-28T09:01:28+0000
+/project/jumpssh/, jumpssh, 1.6.5, Python library for remote ssh calls through a gateway., 2020-11-06T17:52:50+0000
+/project/lordcommander/, lordcommander, 5.0.1, Run shell commands recursively throughout the predefined directories, 2020-10-05T07:19:51+0000
+/project/cocorpy27/, CocoRPy27, 1.4.1, Python implementation of the famous CoCo/R LL(k) compiler generator ported to Python., 2012-03-08T22:12:42+0000
+/project/xontrib-ergopack/, xontrib-ergopack, 0.1.4, Meta package that installs group of ergonomic xontribs in xonsh shell., 2021-03-08T07:17:53+0000
+/project/octave-kernel/, octave-kernel, 0.32.0, A Jupyter kernel for Octave., 2020-05-23T09:47:59+0000
+/project/kabaret-subprocess-manager/, kabaret.subprocess-manager, 1.0.7, Subprocess Management extension for the Kabaret framework, 2020-03-22T22:24:01+0000
+/project/asciiplotlib/, asciiplotlib, 0.2.3, Plotting on the command line, 2019-09-26T17:31:28+0000
+/project/roundup-cli/, roundup-cli, 0.1, A Command Line Interface for Roundup, 2011-11-25T21:29:36+0000
+/project/asynccmd/, asynccmd, 0.2.4, Asyncio implementation of Cmd Python lib., 2017-01-02T15:39:32+0000
+/project/ipicat/, ipicat, 0.2.0, A Picat extension for IPython and Jupyter Notebook, 2019-08-07T00:11:01+0000
+/project/lfm/, lfm, 3.1, Last File Manager is a powerful file manager for the UNIX console., 2017-06-25T17:13:14+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/oracle-kernel/, oracle-kernel, 0.1.0, A oracle kernel for Jupyter., 2021-01-04T02:24:24+0000
+/project/cftw/, cftw, 0.0.2, containers for the win is a module for container competitions, 2017-08-09T03:44:58+0000
+/project/ssher/, SSHer, 1.1, Multi ssh connection launcher, 2015-10-06T15:59:49+0000
+/project/daudin/, daudin, 0.0.19, A UNIX command-line shell based on Python, 2019-11-15T19:41:46+0000
+/project/sh-utils/, sh-utils, 0.9, some commands to simplify various things, 2016-02-02T05:46:57+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/ofunctions-network/, ofunctions.network, 0.5.0, Network diagnostics, MTU probing, Public IP discovery, HTTP/HTTPS internet connectivty tests, ping, 2021-02-11T01:10:20+0000
+/project/basskick/, basskick, 0.0.4, Blender Animation Studio System, 2020-01-09T17:16:32+0000
+/project/genzshcomp/, genzshcomp, 0.6.0, Automatic generated to zsh completion function, for Python's Option Parser Modules., 2020-03-11T02:57:55+0000
+/project/windows-tools-impersonate/, windows-tools.impersonate, 0.1.3, Python runas implementation, 2021-03-24T17:28:13+0000
+/project/doubleplusungood/, doubleplusungood, 0.1, Shameless name-grab for a possible future project, 2020-01-13T15:24:32+0000
+/project/windows-tools-product-key/, windows-tools.product-key, 0.3.1, Retrieve Windows Product Keys, 2021-03-24T17:28:22+0000
+/project/cloudmesh-configuration/, cloudmesh-configuration, 4.3.7, A simple way to configure applications from yaml files., 2021-02-06T04:41:55+0000
+/project/redvty/, redvty, 0.0.1, VTY automation via SSH., 2019-11-15T15:17:17+0000
+/project/vex/, vex, 0.0.19, Run commands in a virtualenv, 2019-05-10T19:21:37+0000
+/project/pyarchey2/, pyarchey2, 2.0.5, PyArchey2 is a fork of PyArchey. It is an attempt to speed up PyArchey by introducing multithreading and dropping support for Python2., 2019-09-04T06:19:21+0000
+/project/pyful/, pyful, 0.2.2, Python file management utility, 2011-02-06T04:47:14+0000
+/project/venv-tools/, venv_tools, 0.2.2, A bunch of tools for using venvs (and virtualenvs) from python., 2019-09-15T08:41:59+0000
+/project/xontrib-syslog-shell-profiler/, xontrib-syslog-shell-profiler, 0.1.5, A Xonsh plugin to profile and log command execution to a syslog file., 2021-04-10T20:49:53+0000
+/project/xontrib-sh/, xontrib-sh, 0.3.0, Paste and run commands from bash, zsh, fish, tcsh, pwsh, cmd in xonsh shell., 2021-03-19T16:21:26+0000
+/project/pyramid-notebook/, pyramid-notebook, 0.3.0, Embed IPython Notebook shell on your Pyramid website, 2018-10-09T08:35:36+0000
+/project/batchq/, BatchQ, 0.1-2-pre-alpha, Python automatisation tools., 2012-03-23T14:12:52+0000
+/project/termplotlib/, termplotlib, 0.3.4, Plotting on the command line, 2021-02-15T12:43:16+0000
+/project/cloudmesh-cloud/, cloudmesh-cloud, 4.4.1, Cloudmesh Multicloud Cloud Plugins for Cloudmesh cmd5 CMD, 2020-10-15T17:10:15+0000
+/project/sas-kernel/, SAS-kernel, 2.4.6, A SAS kernel for Jupyter, 2021-04-14T19:49:27+0000
+/project/build-scenarist/, build-scenarist, 1.2.0, Make-like utility to execute platform-dependent scripts (scenarios) written in Python 3. Format of scenario-name consist information about platform it written. Scenarios consist of targets, 2021-02-01T10:28:14+0000
+/project/cftw/, cftw, 0.0.2, containers for the win is a module for container competitions, 2017-08-09T03:44:58+0000
+/project/ssher/, SSHer, 1.1, Multi ssh connection launcher, 2015-10-06T15:59:49+0000
+/project/daudin/, daudin, 0.0.19, A UNIX command-line shell based on Python, 2019-11-15T19:41:46+0000
+/project/sh-utils/, sh-utils, 0.9, some commands to simplify various things, 2016-02-02T05:46:57+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/ofunctions-network/, ofunctions.network, 0.5.0, Network diagnostics, MTU probing, Public IP discovery, HTTP/HTTPS internet connectivty tests, ping, 2021-02-11T01:10:20+0000
+/project/basskick/, basskick, 0.0.4, Blender Animation Studio System, 2020-01-09T17:16:32+0000
+/project/genzshcomp/, genzshcomp, 0.6.0, Automatic generated to zsh completion function, for Python's Option Parser Modules., 2020-03-11T02:57:55+0000
+/project/windows-tools-impersonate/, windows-tools.impersonate, 0.1.3, Python runas implementation, 2021-03-24T17:28:13+0000
+/project/doubleplusungood/, doubleplusungood, 0.1, Shameless name-grab for a possible future project, 2020-01-13T15:24:32+0000
+/project/cloudmesh-inventory/, cloudmesh-inventory, 4.3.8, A command called inventory and foo for the cloudmesh shell, 2021-03-29T01:33:44+0000
+/project/windows-tools-product-key/, windows-tools.product-key, 0.3.1, Retrieve Windows Product Keys, 2021-03-24T17:28:22+0000
+/project/cloudmesh-configuration/, cloudmesh-configuration, 4.3.7, A simple way to configure applications from yaml files., 2021-02-06T04:41:55+0000
+/project/redvty/, redvty, 0.0.1, VTY automation via SSH., 2019-11-15T15:17:17+0000
+/project/windows-tools-windows-firewall/, windows-tools.windows-firewall, 0.1.1, Windows firewall state retrieval, 2021-03-24T17:28:32+0000
+/project/dish/, dish, 0.0.0, A new, modern Unix shell implemented in pure Python with Flask-like configuration and extensibility, 2019-11-30T19:59:50+0000
+/project/hero/, hero, 0.3.2, Simple server environments set-up., 2016-04-24T15:22:23+0000
+/project/asynctelnet/, asynctelnet, 0.2.5, Python 3 anyio Telnet server and client Protocol library, 2021-03-19T07:17:30+0000
+/project/bein-htminilims/, bein-htminilims, 1.065, Web frontend to the MiniLIMS from bein, 2011-04-08T08:43:47+0000
+/project/ssh2-python3/, ssh2-python3, 0.22.6, Super fast SSH library - bindings for libssh2 and Python 3, 2020-12-28T10:35:32+0000
+/project/xontrib-argcomplete/, xontrib-argcomplete, 0.3.2, Argcomplete support for python and xonsh scripts in xonsh shell., 2021-03-04T18:49:19+0000
+/project/yaop/, yaop, 0.1.1, Yet Another Option Parser (full fledged), 2016-06-05T23:51:15+0000
+/project/cyberaide-bookmanager/, cyberaide-bookmanager, 0.2.35, Creating Books from content in different git and other cloud services., 2020-07-29T14:02:46+0000
+/project/imatlab/, imatlab, 0.4, A Juyter kernel for MATLAB., 2019-06-14T11:39:22+0000
+/project/picat-kernel/, picat-kernel, 0.1, A Picat kernel for Jupyter, 2019-07-02T23:57:02+0000
+/project/xontrib-broot/, xontrib-broot, 0.1.0, broot support function for xonsh shell, 2020-11-25T15:52:30+0000
+/project/shell-jobrunner/, shell-jobrunner, 2.3.1, Shell-based job runner with logging, 2021-04-02T19:14:25+0000
+/project/calysto-hy/, calysto-hy, 0.1.1, A Hy kernel for Jupyter based on MetaKernel, 2018-08-30T15:32:32+0000
+/project/ofunctions-process/, ofunctions.process, 0.1.1, Shorthand for killing an entire process tree, 2021-02-11T01:10:23+0000
+/project/configo/, Configo, 1.4, Easy way to use existing JSON, XML or YAML config files from bash shell/scripts, 2016-07-05T12:22:33+0000
+/project/autoargs/, autoargs, 0.0.2, Automatic Arg parsing, 2016-06-12T20:53:49+0000
+/project/pexpect-u/, pexpect-u, 2.5.1, Pexpect is a pure Python Expect. It allows easy control of other applications., 2011-12-10T23:09:52+0000
+/project/terminaloverflow/, terminaloverflow, 1.0.0, Visual terminal experience with mouse support, 2018-05-23T13:27:10+0000
+/project/scriptdoctest/, scriptdoctest, 0.3, Helper to test interactive shell snippet examples in documentation, 2018-05-29T13:27:26+0000
+/project/fencepy/, fencepy, 0.7.2, Standardized fencing off of python virtual environments on a per-project basis, 2016-03-13T20:06:59+0000
+/project/polysh/, polysh, 0.13, Control thousands of ssh sesions from a single prompt, 2020-05-11T19:30:48+0000
+/project/matrixtest/, MatrixTest, 1.2.0, A tool to facilitate matrix test via countless combination of arguments of a command line, 2021-04-03T06:19:44+0000
+/project/bombardier-server/, bombardier_server, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:29+0000
+/project/gitsane/, gitsane, 0.1.2, Command line utility for managing local git repositories, 2020-05-08T00:23:53+0000
+/project/libtmux/, libtmux, 0.8.5, scripting library / orm for tmux, 2020-10-25T16:16:36+0000
+/project/xontrib-macro-lib/, xontrib-macro-lib, 0.0.3, Library of the useful macroses for the xonsh shell., 2021-04-01T08:29:19+0000
+/project/windows-tools-logical-disks/, windows-tools.logical-disks, 0.1.2, Logical disk (partition) management functions, 2021-03-24T17:28:17+0000
+/project/uuid64/, uuid64, 0.2.0, Generate 64bit UUIDs, 2014-12-26T18:28:26+0000
+/project/advanced-ssh-config/, advanced-ssh-config, 1.1.0, Add some magic to SSH and .ssh/config, 2015-07-22T09:57:09+0000
+/project/doing/, doing, 1.0.0, doing implements hierarchical command lines, 2016-09-18T16:12:46+0000
+/project/envie/, envie, 0.4.36, Bash helpers for navigating and managing Python VirtualEnvs., 2017-12-04T10:10:06+0000
+/project/shell-pipes/, shell-pipes, 0.1.0, Extending Python syntax to implement shell commands as pipes using subprocess, 2021-02-05T04:39:15+0000
+/project/ofunctions-service-control/, ofunctions.service-control, 0.1.3, Windows & Linux service control functions, 2021-03-30T14:03:42+0000
+/project/cliask/, cliask, 0.0.4, A module for getting validated user input via the console, 2013-04-09T17:41:47+0000
+/project/elasticsearch-kernel/, elasticsearch-kernel, 0.1.0, A elasticsearch kernel for Jupyter., 2020-05-28T06:25:27+0000
+/project/tempenv/, tempenv, 0.2.0, Environment Variable Context Manager, 2019-10-08T12:17:09+0000
+/project/asciiplotlib/, asciiplotlib, 0.2.3, Plotting on the command line, 2019-09-26T17:31:28+0000
+/project/roundup-cli/, roundup-cli, 0.1, A Command Line Interface for Roundup, 2011-11-25T21:29:36+0000
+/project/asynccmd/, asynccmd, 0.2.4, Asyncio implementation of Cmd Python lib., 2017-01-02T15:39:32+0000
+/project/rlpython/, rlpython, 0.6, GNU Readline based Python REPL without any external dependencies, 2021-04-26T07:15:52+0000

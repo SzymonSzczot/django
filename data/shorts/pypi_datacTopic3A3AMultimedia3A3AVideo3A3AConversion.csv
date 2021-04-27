@@ -1,0 +1,178 @@
+/project/arista/, arista, 0.9.3, An easy multimedia transcoder for GNOME, 2009-06-28T20:14:47+0000
+/project/shane/, shane, 18.8b2, A simple way to manage video files., 2018-08-20T09:39:15+0000
+/project/addletterboxcv/, addletterboxcv, 0.1.4, Add a letterbox to the video and scale it to the specified size., 2020-04-03T15:16:52+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/baserip/, baserip, 0.1, The alkali version of acidrip (ffmpeg based)., 2014-02-21T16:24:48+0000
+/project/caterpillar-hls/, caterpillar-hls, 1.1, Hardened HLS merger, 2020-06-14T10:20:23+0000
+/project/fffw/, fffw, 3.3.4, FFMPEG wrapper, 2021-03-19T05:43:03+0000
+/project/cloudinary/, cloudinary, 1.25.0, Python and Django SDK for Cloudinary, 2021-03-26T14:20:21+0000
+/project/mediakit/, mediakit, 0.5.1, Download YouTube videos fast, directly from the command line, 2021-02-22T15:25:20+0000
+/project/moviepy/, moviepy, 1.0.3, Video editing with Python, 2020-05-07T16:27:46+0000
+/project/dash-mediatools/, dash-mediatools, 0.9.0, Tools for MPEG-DASH media creation and analysis, 2019-03-11T15:11:06+0000
+/project/avpy/, Avpy, 0.1.3, ctypes binding for libav and ffmpeg, 2016-04-17T08:11:29+0000
+/project/batchmp/, batchmp, 0.99, Command-line tools for batch media processing, 2019-12-08T15:55:43+0000
+/project/yospacecds/, yospaceCDS, 1.1.0, Yospace CDS Webservice Client, 2012-07-20T12:26:15+0000
+/project/vectorai/, vectorai, 0.2.5, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-01-22T15:55:16+0000
+/project/avbroadcast/, avbroadcast, 0.8.0, avbroadcast - republish media streams for mass consumption, 2019-03-25T11:12:59+0000
+/project/ivolution/, Ivolution, 1.0, Timelapse creation using Face Recognition, 2012-08-03T07:17:20+0000
+/project/mkvtomp4/, mkvtomp4, 2.0, Convert H.264 mkv files to mp4 files playable on the PS3, and "correct" the, 2019-12-26T23:04:29+0000
+/project/klvdata/, klvdata, 0.0.3, A Python library for parsing MISB/STANAG 4609 Key Length Value (KLV) metadata., 2018-09-28T05:33:21+0000
+/project/mashdown/, mashdown, 0.1.1, Download and split a youtube mashup video in a list of tagged audio files, 2015-10-02T21:23:50+0000
+/project/filmcompress/, filmcompress, 0.4.4, This tool will bulk encode supported videos to HEVC (h.265) or AV1 format in given directory, with optional recursion and optional hardware acceleration., 2021-02-22T20:58:51+0000
+/project/avchd-toolkit/, avchd-toolkit, 0.4.2, Simple tools to help with prosumer cameras workflow (like working with Canon C100` files), 2016-06-12T19:25:48+0000
+/project/django-video-transcoding/, django-video-transcoding, 0.4.0, Simple video transcoding application for Django framework, 2021-04-09T10:19:55+0000
+/project/ocio-lut-prescription/, ocio-lut-prescription, 1.1.0, GUI wrapper of ociobakelut command., 2021-01-14T14:47:47+0000
+/project/glitchart/, GlitchArt, 1.0.0, Media Glitch Library for Python, 2019-03-05T16:17:04+0000
+/project/pymedia2-pyrana/, pymedia2-pyrana, 0.6.0, Package for simple manipulation of multimedia files, 2014-11-02T16:16:20+0000
+/project/pytransloadit/, pytransloadit, 0.1.12, A Python Integration for https://transloadit.com file uploading and encoding service., 2020-12-14T10:29:55+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/videotoframes/, videotoframes, 1.1.5, A simple Python script to break videos into frames., 2019-10-06T18:44:10+0000
+/project/qtfaststart/, qtfaststart, 1.8, Quicktime atom positioning in Python for fast streaming., 2013-08-08T01:29:08+0000
+/project/mediacurator/, MediaCurator, 0.0.7, MediaCurator is a Python command line tool to manage a media database., 2021-04-20T02:38:29+0000
+/project/av/, av, 8.0.3, Pythonic bindings for FFmpeg's libraries., 2021-01-23T10:44:53+0000
+/project/izdvd/, izdvd, 0.1.2, A set of python scripts for authoring DVDs and/or DVD menus with little or no user interaction., 2013-09-26T23:42:04+0000
+/project/music-album-creation/, music-album-creation, 1.3.1, A CLI application intending to automate offline music library building., 2019-11-02T13:43:46+0000
+/project/tesla-dashcam/, tesla-dashcam, 0.1.16, Python program to merge video files created by Tesla dashcam, 2019-11-15T18:58:59+0000
+/project/scenedetect/, scenedetect, 0.5.5, A cross-platform, OpenCV-based video scene detection program and Python library., 2021-01-17T23:36:26+0000
+/project/ts2avi/, ts2avi, 0.1.1, A TS to AVI converter based on mplayer, 2011-10-08T16:13:43+0000
+/project/picamview/, picamview, 0.0.2, Camera Viewer for the Raspberry Pi, 2017-02-15T13:03:15+0000
+/project/videojoiner/, videojoiner, 0.1.0, make video joining easy on windows, 2021-04-03T21:33:17+0000
+/project/qtfaststart2/, qtfaststart2, 2.1.1, Quicktime atom positioning in Python for fast streaming., 2021-02-11T04:32:58+0000
+/project/pymkv/, pymkv, 1.0.8, A Python wrapper for mkvmerge. It provides support for muxing, splitting, linking, chapters, tags, and attachments through the use of mkvmerge., 2020-10-17T19:51:53+0000
+/project/cptv/, cptv, 1.5.1, Python library for handling Cacophony Project Thermal Video (CPTV) files, 2021-03-07T20:16:11+0000
+/project/pyanimenc/, pyanimenc, 0.1a1, Audio/Video Transcoding Frontend, 2014-08-26T16:10:28+0000
+/project/2mp4/, 2mp4, 1.0.1, Simple utility to convert your video files into mp4s., 2016-04-24T22:45:47+0000
+/project/avsub/, avsub, 1.0.2, A simplified command-line interface for FFmpeg, 2021-04-12T00:18:47+0000
+/project/pysstv/, PySSTV, 0.5, Python classes for generating Slow-scan Television transmissions, 2021-04-19T14:19:06+0000
+/project/dvr-scan/, dvr-scan, 1.2.2, Tool for finding and extracting motion events in video files(e.g. security camera footage)., 2021-03-13T05:24:01+0000
+/project/vpl/, vpl, 0.0.4, Video Pipe Line, 2018-02-19T18:38:53+0000
+/project/pslipstream/, pslipstream, 0.4.0, The most informative Home-media backup solution., 2020-10-10T06:58:09+0000
+/project/madam/, MADAM, 0.21.2, Digital asset management library, 2021-04-11T13:59:19+0000
+/project/renderthreads/, renderthreads, 0.3.5, Package that enables easy command-line multithreaded rendering for Nuke., 2015-07-25T15:02:10+0000
+/project/vedit/, vedit, 0.0.3, Library for editing video by wrapping ffmpeg., 2016-11-23T04:47:23+0000
+/project/drt/, drt, 1.2.1, dvd copying and ripping management tool, 2020-03-07T20:10:37+0000
+/project/rtsptogo/, rtsptogo, 0.1.3, rtsptogo is a tivo togo proxy serving mp4 video over RSTP, 2010-05-15T03:36:19+0000
+/project/collective-transcode-daemon/, collective.transcode.daemon, 0.12, Video transcoding daemon, 2012-12-03T16:54:21+0000
+/project/moviepy-patch/, moviepy-patch, 1.0.1, Video editing with Python, 2020-02-26T04:35:31+0000
+/project/towebm/, towebm, 1.0.0, Python 3 scripts which use ffmpeg to convert videos to webm format (vp9+opus) or to convert audio to opus or vorbis., 2021-03-13T17:49:49+0000
+/project/lilypondtobandvideoconverter/, LilypondToBandVideoConverter, 0.4, Generator for Notation Videos from Lilypond Text, 2019-04-06T20:48:39+0000
+/project/nxtools/, nxtools, 1.5.1, A set of utilities and helpers for media processing and content management, 2021-04-16T10:42:07+0000
+/project/pytranscoder-ffmpeg/, pytranscoder-ffmpeg, 2.2.3, A ffmpeg workflow manager for transcoding, 2021-04-10T17:21:23+0000
+/project/pelican-dashify/, pelican-dashify, 0.1.2, Pelican-dashify let you to convert proper MPEG-DASH content generated from your videos with Pelican., 2019-05-04T21:01:22+0000
+/project/vectorhub/, vectorhub, 1.2.0, One liner to encode data into vectors with state-of-the-art models using tensorflow, pytorch and other open source libraries. Word2Vec, Image2Vec, BERT, etc, 2021-04-03T06:35:47+0000
+/project/pydvdcss/, pydvdcss, 1.3.2, Python wrapper for VideoLAN's libdvdcss., 2021-04-18T22:36:09+0000
+/project/videomass/, videomass, 3.4.2, Videomass is a cross-platform GUI for FFmpeg and youtube-dl, 2021-04-24T17:53:54+0000
+/project/gift-grab/, GIFT-Grab, 1708.post1, A C++ and NumPy-compatible Python API for acquiring, processing and encoding video streams in real time, 2017-10-12T07:30:50+0000
+/project/youtube2mp3/, youtube2mp3, 1.4.0, Commandline tool to convert youtube videos to tagged mp3 files, 2020-11-02T09:52:10+0000
+/project/tngems-aorta/, tngems-aorta, 0.1.0, Converts database notifications to domain events., 2014-10-03T19:33:29+0000
+/project/clip-by-openai/, clip-by-openai, 0.1.1.5, CLIP by OpenAI, 2021-01-31T06:08:13+0000
+/project/libtng/, libtng, 0.6.3, Library for the TNG Enterprise Management System, 2015-02-05T23:25:58+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/chrysalis/, chrysalis, 1.0.0, Chrysalis Python Cloud SDK for streaming live media, 2020-08-28T22:35:47+0000
+/project/ted2mkv/, ted2mkv, 1.1, Download and convert TED videos to MKV format, 2013-10-07T05:02:06+0000
+/project/gsteditor/, GstEditor, 0.1.0, GStreamer Graphical Pipeline Editor, 2009-05-01T18:37:57+0000
+/project/pyvid/, pyvid, 0.1.2, Video shrinker that uses ffmpeg., 2019-04-27T14:07:30+0000
+/project/av1transcoder/, av1transcoder, 0.4.1, Transcode video files to the AV1 format using ffmpeg and libaom-av1., 2020-04-30T09:32:29+0000
+/project/django-multimedia/, django-multimedia, 0.2.0, Encode and upload multimedia from the Django admin interface, 2015-04-23T21:29:08+0000
+/project/ffpb/, ffpb, 0.4.1, A progress bar for ffmpeg. Yay !, 2021-02-13T13:06:48+0000
+/project/x100http/, x100http, 0.2.7, web framework support customing file upload processing, 2015-07-31T02:59:49+0000
+/project/time-lapse/, time-lapse, 1.0.0.dev0, Time-lapse movie assembly, 2018-01-10T07:43:17+0000
+/project/tdh-twitch-utils/, tdh-twitch-utils, 1.5.2, Record, concatenate and synchronize Twitch live streams, 2021-04-04T00:10:15+0000
+/project/python-transcoded/, python-transcoded, 0.4.2, Daemon for transcoding audio/video with an http API written in python, 2018-07-19T18:16:54+0000
+/project/ffmpeg-progress/, ffmpeg-progress, 0.0.4, Get progress information for an ffmpeg process., 2019-11-04T06:25:58+0000
+/project/ravenc/, ravenc, 0.3-beta6, DVD Ripper and File Transcoder., 2015-01-02T11:20:18+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/unmanic/, unmanic, 0.0.4, A simple tool for optimising your video library to a single format, 2021-04-08T12:18:09+0000
+/project/gif-for-cli/, gif-for-cli, 1.1.2, Render an animated GIF to your command line terminal., 2019-07-26T21:35:28+0000
+/project/ffmpegio/, ffmpegio, 0.0.7, Read/write media files with FFmpeg, 2021-04-22T14:02:05+0000
+/project/vectorhub-nightly/, vectorhub-nightly, 1.2.0.2021.4.26.0.33.46.137766, One liner to encode data into vectors with state-of-the-art models using tensorflow, pytorch and other open source libraries. Word2Vec, Image2Vec, BERT, etc, 2021-04-26T00:33:47+0000
+/project/vectorai-nightly/, vectorai-nightly, 0.2.5.2021.4.26, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-04-26T00:44:01+0000
+/project/arista/, arista, 0.9.3, An easy multimedia transcoder for GNOME, 2009-06-28T20:14:47+0000
+/project/shane/, shane, 18.8b2, A simple way to manage video files., 2018-08-20T09:39:15+0000
+/project/addletterboxcv/, addletterboxcv, 0.1.4, Add a letterbox to the video and scale it to the specified size., 2020-04-03T15:16:52+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/ivolution/, Ivolution, 1.0, Timelapse creation using Face Recognition, 2012-08-03T07:17:20+0000
+/project/baserip/, baserip, 0.1, The alkali version of acidrip (ffmpeg based)., 2014-02-21T16:24:48+0000
+/project/caterpillar-hls/, caterpillar-hls, 1.1, Hardened HLS merger, 2020-06-14T10:20:23+0000
+/project/fffw/, fffw, 3.3.4, FFMPEG wrapper, 2021-03-19T05:43:03+0000
+/project/cloudinary/, cloudinary, 1.25.0, Python and Django SDK for Cloudinary, 2021-03-26T14:20:21+0000
+/project/mediakit/, mediakit, 0.5.1, Download YouTube videos fast, directly from the command line, 2021-02-22T15:25:20+0000
+/project/moviepy/, moviepy, 1.0.3, Video editing with Python, 2020-05-07T16:27:46+0000
+/project/avbroadcast/, avbroadcast, 0.8.0, avbroadcast - republish media streams for mass consumption, 2019-03-25T11:12:59+0000
+/project/avchd-toolkit/, avchd-toolkit, 0.4.2, Simple tools to help with prosumer cameras workflow (like working with Canon C100` files), 2016-06-12T19:25:48+0000
+/project/django-video-transcoding/, django-video-transcoding, 0.4.0, Simple video transcoding application for Django framework, 2021-04-09T10:19:55+0000
+/project/mkvtomp4/, mkvtomp4, 2.0, Convert H.264 mkv files to mp4 files playable on the PS3, and "correct" the, 2019-12-26T23:04:29+0000
+/project/klvdata/, klvdata, 0.0.3, A Python library for parsing MISB/STANAG 4609 Key Length Value (KLV) metadata., 2018-09-28T05:33:21+0000
+/project/mashdown/, mashdown, 0.1.1, Download and split a youtube mashup video in a list of tagged audio files, 2015-10-02T21:23:50+0000
+/project/dash-mediatools/, dash-mediatools, 0.9.0, Tools for MPEG-DASH media creation and analysis, 2019-03-11T15:11:06+0000
+/project/avpy/, Avpy, 0.1.3, ctypes binding for libav and ffmpeg, 2016-04-17T08:11:29+0000
+/project/batchmp/, batchmp, 0.99, Command-line tools for batch media processing, 2019-12-08T15:55:43+0000
+/project/yospacecds/, yospaceCDS, 1.1.0, Yospace CDS Webservice Client, 2012-07-20T12:26:15+0000
+/project/vectorai/, vectorai, 0.2.5, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-01-22T15:55:16+0000
+/project/filmcompress/, filmcompress, 0.4.4, This tool will bulk encode supported videos to HEVC (h.265) or AV1 format in given directory, with optional recursion and optional hardware acceleration., 2021-02-22T20:58:51+0000
+/project/ocio-lut-prescription/, ocio-lut-prescription, 1.1.0, GUI wrapper of ociobakelut command., 2021-01-14T14:47:47+0000
+/project/glitchart/, GlitchArt, 1.0.0, Media Glitch Library for Python, 2019-03-05T16:17:04+0000
+/project/pymedia2-pyrana/, pymedia2-pyrana, 0.6.0, Package for simple manipulation of multimedia files, 2014-11-02T16:16:20+0000
+/project/music-album-creation/, music-album-creation, 1.3.1, A CLI application intending to automate offline music library building., 2019-11-02T13:43:46+0000
+/project/tesla-dashcam/, tesla-dashcam, 0.1.16, Python program to merge video files created by Tesla dashcam, 2019-11-15T18:58:59+0000
+/project/scenedetect/, scenedetect, 0.5.5, A cross-platform, OpenCV-based video scene detection program and Python library., 2021-01-17T23:36:26+0000
+/project/ts2avi/, ts2avi, 0.1.1, A TS to AVI converter based on mplayer, 2011-10-08T16:13:43+0000
+/project/picamview/, picamview, 0.0.2, Camera Viewer for the Raspberry Pi, 2017-02-15T13:03:15+0000
+/project/videojoiner/, videojoiner, 0.1.0, make video joining easy on windows, 2021-04-03T21:33:17+0000
+/project/qtfaststart/, qtfaststart, 1.8, Quicktime atom positioning in Python for fast streaming., 2013-08-08T01:29:08+0000
+/project/vectorai-nightly/, vectorai-nightly, 0.2.5.2021.4.26, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-04-26T00:44:01+0000
+/project/pysstv/, PySSTV, 0.5, Python classes for generating Slow-scan Television transmissions, 2021-04-19T14:19:06+0000
+/project/dvr-scan/, dvr-scan, 1.2.2, Tool for finding and extracting motion events in video files(e.g. security camera footage)., 2021-03-13T05:24:01+0000
+/project/mediacurator/, MediaCurator, 0.0.7, MediaCurator is a Python command line tool to manage a media database., 2021-04-20T02:38:29+0000
+/project/av/, av, 8.0.3, Pythonic bindings for FFmpeg's libraries., 2021-01-23T10:44:53+0000
+/project/pytransloadit/, pytransloadit, 0.1.12, A Python Integration for https://transloadit.com file uploading and encoding service., 2020-12-14T10:29:55+0000
+/project/izdvd/, izdvd, 0.1.2, A set of python scripts for authoring DVDs and/or DVD menus with little or no user interaction., 2013-09-26T23:42:04+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/videotoframes/, videotoframes, 1.1.5, A simple Python script to break videos into frames., 2019-10-06T18:44:10+0000
+/project/qtfaststart2/, qtfaststart2, 2.1.1, Quicktime atom positioning in Python for fast streaming., 2021-02-11T04:32:58+0000
+/project/pymkv/, pymkv, 1.0.8, A Python wrapper for mkvmerge. It provides support for muxing, splitting, linking, chapters, tags, and attachments through the use of mkvmerge., 2020-10-17T19:51:53+0000
+/project/cptv/, cptv, 1.5.1, Python library for handling Cacophony Project Thermal Video (CPTV) files, 2021-03-07T20:16:11+0000
+/project/pyanimenc/, pyanimenc, 0.1a1, Audio/Video Transcoding Frontend, 2014-08-26T16:10:28+0000
+/project/2mp4/, 2mp4, 1.0.1, Simple utility to convert your video files into mp4s., 2016-04-24T22:45:47+0000
+/project/avsub/, avsub, 1.0.2, A simplified command-line interface for FFmpeg, 2021-04-12T00:18:47+0000
+/project/vpl/, vpl, 0.0.4, Video Pipe Line, 2018-02-19T18:38:53+0000
+/project/pslipstream/, pslipstream, 0.4.0, The most informative Home-media backup solution., 2020-10-10T06:58:09+0000
+/project/madam/, MADAM, 0.21.2, Digital asset management library, 2021-04-11T13:59:19+0000
+/project/renderthreads/, renderthreads, 0.3.5, Package that enables easy command-line multithreaded rendering for Nuke., 2015-07-25T15:02:10+0000
+/project/vedit/, vedit, 0.0.3, Library for editing video by wrapping ffmpeg., 2016-11-23T04:47:23+0000
+/project/ffmpegio/, ffmpegio, 0.0.7, Read/write media files with FFmpeg, 2021-04-22T14:02:05+0000
+/project/drt/, drt, 1.2.1, dvd copying and ripping management tool, 2020-03-07T20:10:37+0000
+/project/rtsptogo/, rtsptogo, 0.1.3, rtsptogo is a tivo togo proxy serving mp4 video over RSTP, 2010-05-15T03:36:19+0000
+/project/collective-transcode-daemon/, collective.transcode.daemon, 0.12, Video transcoding daemon, 2012-12-03T16:54:21+0000
+/project/moviepy-patch/, moviepy-patch, 1.0.1, Video editing with Python, 2020-02-26T04:35:31+0000
+/project/towebm/, towebm, 1.0.0, Python 3 scripts which use ffmpeg to convert videos to webm format (vp9+opus) or to convert audio to opus or vorbis., 2021-03-13T17:49:49+0000
+/project/lilypondtobandvideoconverter/, LilypondToBandVideoConverter, 0.4, Generator for Notation Videos from Lilypond Text, 2019-04-06T20:48:39+0000
+/project/nxtools/, nxtools, 1.5.1, A set of utilities and helpers for media processing and content management, 2021-04-16T10:42:07+0000
+/project/pytranscoder-ffmpeg/, pytranscoder-ffmpeg, 2.2.3, A ffmpeg workflow manager for transcoding, 2021-04-10T17:21:23+0000
+/project/pelican-dashify/, pelican-dashify, 0.1.2, Pelican-dashify let you to convert proper MPEG-DASH content generated from your videos with Pelican., 2019-05-04T21:01:22+0000
+/project/vectorhub/, vectorhub, 1.2.1, One liner to encode data into vectors with state-of-the-art models using tensorflow, pytorch and other open source libraries. Word2Vec, Image2Vec, BERT, etc, 2021-04-26T03:47:23+0000
+/project/pydvdcss/, pydvdcss, 1.3.2, Python wrapper for VideoLAN's libdvdcss., 2021-04-18T22:36:09+0000
+/project/videomass/, videomass, 3.4.2, Videomass is a cross-platform GUI for FFmpeg and youtube-dl, 2021-04-24T17:53:54+0000
+/project/gift-grab/, GIFT-Grab, 1708.post1, A C++ and NumPy-compatible Python API for acquiring, processing and encoding video streams in real time, 2017-10-12T07:30:50+0000
+/project/youtube2mp3/, youtube2mp3, 1.4.0, Commandline tool to convert youtube videos to tagged mp3 files, 2020-11-02T09:52:10+0000
+/project/tngems-aorta/, tngems-aorta, 0.1.0, Converts database notifications to domain events., 2014-10-03T19:33:29+0000
+/project/clip-by-openai/, clip-by-openai, 0.1.1.5, CLIP by OpenAI, 2021-01-31T06:08:13+0000
+/project/libtng/, libtng, 0.6.3, Library for the TNG Enterprise Management System, 2015-02-05T23:25:58+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/chrysalis/, chrysalis, 1.0.0, Chrysalis Python Cloud SDK for streaming live media, 2020-08-28T22:35:47+0000
+/project/ted2mkv/, ted2mkv, 1.1, Download and convert TED videos to MKV format, 2013-10-07T05:02:06+0000
+/project/gsteditor/, GstEditor, 0.1.0, GStreamer Graphical Pipeline Editor, 2009-05-01T18:37:57+0000
+/project/pyvid/, pyvid, 0.1.2, Video shrinker that uses ffmpeg., 2019-04-27T14:07:30+0000
+/project/av1transcoder/, av1transcoder, 0.4.1, Transcode video files to the AV1 format using ffmpeg and libaom-av1., 2020-04-30T09:32:29+0000
+/project/django-multimedia/, django-multimedia, 0.2.0, Encode and upload multimedia from the Django admin interface, 2015-04-23T21:29:08+0000
+/project/ffpb/, ffpb, 0.4.1, A progress bar for ffmpeg. Yay !, 2021-02-13T13:06:48+0000
+/project/x100http/, x100http, 0.2.7, web framework support customing file upload processing, 2015-07-31T02:59:49+0000
+/project/time-lapse/, time-lapse, 1.0.0.dev0, Time-lapse movie assembly, 2018-01-10T07:43:17+0000
+/project/tdh-twitch-utils/, tdh-twitch-utils, 1.5.2, Record, concatenate and synchronize Twitch live streams, 2021-04-04T00:10:15+0000
+/project/python-transcoded/, python-transcoded, 0.4.2, Daemon for transcoding audio/video with an http API written in python, 2018-07-19T18:16:54+0000
+/project/ffmpeg-progress/, ffmpeg-progress, 0.0.4, Get progress information for an ffmpeg process., 2019-11-04T06:25:58+0000
+/project/ravenc/, ravenc, 0.3-beta6, DVD Ripper and File Transcoder., 2015-01-02T11:20:18+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/vectorhub-nightly/, vectorhub-nightly, 1.2.0.2021.4.26.0.33.46.137766, One liner to encode data into vectors with state-of-the-art models using tensorflow, pytorch and other open source libraries. Word2Vec, Image2Vec, BERT, etc, 2021-04-26T00:33:47+0000
+/project/unmanic/, unmanic, 0.0.4, A simple tool for optimising your video library to a single format, 2021-04-08T12:18:09+0000
+/project/gif-for-cli/, gif-for-cli, 1.1.2, Render an animated GIF to your command line terminal., 2019-07-26T21:35:28+0000

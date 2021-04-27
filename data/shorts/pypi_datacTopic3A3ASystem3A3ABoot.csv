@@ -1,0 +1,124 @@
+/project/grub2-theme-preview/, grub2-theme-preview, 2.3.0, Preview a GRUB 2.x theme using KVM/QEMU, 2021-03-12T18:35:52+0000
+/project/marcobootstrap-backend/, marcobootstrap.backend, 0.0.3, The marcobootstrap utility, 2015-07-07T15:46:59+0000
+/project/superhooks/, superhooks, 0.6, superhooks plugin for supervisord, 2020-12-23T10:36:04+0000
+/project/timemon/, timemon, 1.0.0.dev0, timemon plugin for supervisord, 2017-03-13T08:52:28+0000
+/project/cloudmesh-base/, cloudmesh_base, 3.5.2, A set of simple base functions and classes useful for cloudmesh and other programs, 2016-01-13T21:37:00+0000
+/project/kdlaunchpad/, kdLaunchPad, 1.0.8, auto run some programs after system start, 2019-04-09T10:34:54+0000
+/project/pymbr/, pymbr, 1.0.3, A python module to manipulate and create MBRs., 2018-04-04T03:17:39+0000
+/project/s6/, s6, 2.2.2.0.post4, , 2017-05-30T17:51:37+0000
+/project/cloudmesh/, cloudmesh, 2.3.2, A tool to enable federated management of multiple clouds including Azure, AWS, Eucalyptus, OpenStack, 2015-06-04T20:39:33+0000
+/project/supervisor-console/, supervisor-console, 0.5.2, , 2020-08-17T21:12:00+0000
+/project/uzmq/, uzmq, 0.3.1, libuv interface for ZeroMQ, 2012-12-07T11:45:38+0000
+/project/configbutler/, configbutler, 0.1.4, Service to manage generation of server config from various configuration sources, 2018-05-28T12:05:34+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/systemdunitparser/, systemdunitparser, 0.1, Parser to read and create unit files for systemd, 2015-06-15T16:46:03+0000
+/project/bicti/, bicti, 0.1.1, Bicti, efficient startup script for within docker containers, 2014-09-03T00:29:01+0000
+/project/supervisor-twiddler/, supervisor_twiddler, 1.0.0, supervisor_twiddler RPC extension for Supervisor, 2014-02-02T22:24:47+0000
+/project/smartdc/, smartdc, 0.2.0, Experimental Joyent SmartDataCenter 6.5 & 7.0 CloudAPI connector using http-signature authentication via Requests, 2013-06-18T04:17:49+0000
+/project/chaperone/, chaperone, 0.3.9, Simple system init daemon for Docker-like environments, 2016-06-27T08:08:49+0000
+/project/supervisor-plus-cron/, supervisor-plus-cron, 1.0.15201, From 4.0.0.dev0: A system for controlling process state under UNIX, plus CRON!, 2015-07-19T14:39:33+0000
+/project/dots-linux/, dots-linux, 0.0.1, Linux System Manager., 2016-07-23T03:09:47+0000
+/project/pihat/, pihat, 0.0.6, Pi Hat ID EEPROM library, 2019-12-11T16:56:43+0000
+/project/cloudmesh-pbs/, cloudmesh_pbs, 2.2.6, A simple pbs queue management framework for multiple supercomputers, 2015-03-23T16:10:28+0000
+/project/superslacker/, superslacker, 0.4, superslacker plugin for supervisord, 2019-11-15T19:24:07+0000
+/project/supervisord-dependent-startup/, supervisord-dependent-startup, 1.4.0, A plugin for Supervisor that allows starting up services after dependent services have reached specific states. Based on ordered-startup-supervisord by Jason Corbett, 2019-10-09T12:11:09+0000
+/project/supervisor-lrn/, supervisor-lrn, 4.0.0, A system for controlling process state under UNIX, 2018-11-07T18:09:41+0000
+/project/awsornot/, awsornot, 1.1.2, Classes for logging and key/value that work identically whether running on AWS or not, 2018-03-27T23:42:55+0000
+/project/depthcharge/, depthcharge, 0.2.0, A U-Boot toolkit for security researchers and tinkerers, 2020-12-01T08:15:19+0000
+/project/initsystem/, initsystem, 0.2.0, init-system-agnostic way to start, stop and check statuses of services, 2020-06-13T12:57:22+0000
+/project/usrsvc/, usrsvc, 1.5.13, A service manager for running/managing/monitoring/auto-restarting daemons and services at the user (non-root) level, 2018-11-02T15:16:09+0000
+/project/amdfan/, amdfan, 0.1.9, Fan monitor and controller for AMD gpus in Linux, 2021-04-11T00:23:10+0000
+/project/arun/, arun, 0.0.1, Make asyncio service, 2016-04-22T17:19:38+0000
+/project/supervisor-discord/, supervisor-discord, 1.3, Connect supervisor to discord via webhooks, 2021-01-10T08:48:47+0000
+/project/papavisor/, papavisor, 0.1.0, papavisor package., 2016-02-14T15:54:33+0000
+/project/supervisor-win/, supervisor-win, 4.6.0, A system for controlling process state under WINDOWS, 2021-02-12T19:06:12+0000
+/project/cmsis-svd/, cmsis-svd, 0.4, CMSIS SVD data files and parser, 2016-08-11T16:29:38+0000
+/project/pibootctl/, pibootctl, 0.5.2, Boot configuration tool for the Raspberry Pi, 2020-09-14T08:53:52+0000
+/project/ordered-startup-supervisord/, ordered-startup-supervisord, 1.0.3, An event listener for supervisord that will start up items in order upon certain states., 2016-10-08T18:50:05+0000
+/project/fdeunlock/, fdeunlock, 0.7.1, Check and unlock full disk encrypted systems via ssh, 2017-04-01T08:05:53+0000
+/project/superlance/, superlance, 1.0.0, superlance plugins for supervisord, 2016-10-02T16:12:10+0000
+/project/gpt/, gpt, 0.2, GPT utils, 2019-03-04T10:55:34+0000
+/project/supervisor/, supervisor, 4.2.2, A system for controlling process state under UNIX, 2021-02-26T20:45:53+0000
+/project/supvisors/, supvisors, 0.5, A Control System for Distributed Applications, 2021-03-02T00:23:58+0000
+/project/initd/, initd, 0.0.1, initd: module for simplifying creation of initd daemons., 2008-08-17T23:31:35+0000
+/project/multivisor/, multivisor, 6.0.0, A centralized supervisor UI (web & CLI), 2020-12-01T13:22:40+0000
+/project/gaffer/, gaffer, 0.5.2, simple system process manager, 2013-10-19T12:50:29+0000
+/project/bootils/, bootils, 0.1.0.dev4, Bootils offers process boot-strapping utilities that support writing robust application/service launcher and process life-cycle management scripts., 2015-04-10T19:47:38+0000
+/project/deploy-ostree/, deploy-ostree, 1.3.0, Deploy and configure an OSTree commit, 2019-08-27T22:39:23+0000
+/project/superlance/, superlance, 1.0.0, superlance plugins for supervisord, 2016-10-02T16:12:10+0000
+/project/gpt/, gpt, 0.2, GPT utils, 2019-03-04T10:55:34+0000
+/project/journalwatch/, journalwatch, 1.1.0, A tool to get notified on error messages in the systemd journal, 2017-07-05T15:15:35+0000
+/project/pibootctl/, pibootctl, 0.5.2, Boot configuration tool for the Raspberry Pi, 2020-09-14T08:53:52+0000
+/project/marcobootstrap-slave/, marcobootstrap.slave, 0.0.18, The marcobootstrap slave, 2015-07-17T11:14:25+0000
+/project/refind-btrfs/, refind-btrfs, 0.3.7, Generate rEFInd manual boot stanzas from Btrfs snapshots, 2021-03-18T20:02:55+0000
+/project/fbtftp/, fbtftp, 0.4, A python3 framework to build dynamic TFTP servers, 2021-04-19T08:43:31+0000
+/project/ordered-startup-supervisord/, ordered-startup-supervisord, 1.0.3, An event listener for supervisord that will start up items in order upon certain states., 2016-10-08T18:50:05+0000
+/project/supervisor-cache/, supervisor_cache, 1.1.0, supervisor_cache RPC extension for supervisor, 2014-10-22T01:23:59+0000
+/project/fdeunlock/, fdeunlock, 0.7.1, Check and unlock full disk encrypted systems via ssh, 2017-04-01T08:05:53+0000
+/project/supervisor-win/, supervisor-win, 4.6.0, A system for controlling process state under WINDOWS, 2021-02-12T19:06:12+0000
+/project/modseccfg/, modseccfg, 0.7.3, Editor to tame mod_security rulesets, 2021-02-24T20:18:18+0000
+/project/supervisor-checks/, supervisor_checks, 0.8.1, Framework to build health checks for Supervisor-based services., 2018-08-01T18:19:49+0000
+/project/cmsis-svd/, cmsis-svd, 0.4, CMSIS SVD data files and parser, 2016-08-11T16:29:38+0000
+/project/tftp-pilot/, tftp-pilot, 0.2.0, Dynamic TFTP implementation for PXE Pilot. Based on fbtftp., 2020-04-09T11:40:40+0000
+/project/marcobootstrap-backend/, marcobootstrap.backend, 0.0.3, The marcobootstrap utility, 2015-07-07T15:46:59+0000
+/project/superhooks/, superhooks, 0.6, superhooks plugin for supervisord, 2020-12-23T10:36:04+0000
+/project/grub2-theme-preview/, grub2-theme-preview, 2.3.0, Preview a GRUB 2.x theme using KVM/QEMU, 2021-03-12T18:35:52+0000
+/project/pymbr/, pymbr, 1.0.3, A python module to manipulate and create MBRs., 2018-04-04T03:17:39+0000
+/project/s6/, s6, 2.2.2.0.post4, , 2017-05-30T17:51:37+0000
+/project/cloudmesh/, cloudmesh, 2.3.2, A tool to enable federated management of multiple clouds including Azure, AWS, Eucalyptus, OpenStack, 2015-06-04T20:39:33+0000
+/project/timemon/, timemon, 1.0.0.dev0, timemon plugin for supervisord, 2017-03-13T08:52:28+0000
+/project/cloudmesh-base/, cloudmesh_base, 3.5.2, A set of simple base functions and classes useful for cloudmesh and other programs, 2016-01-13T21:37:00+0000
+/project/supervisor-console/, supervisor-console, 0.5.2, , 2020-08-17T21:12:00+0000
+/project/kdlaunchpad/, kdLaunchPad, 1.0.8, auto run some programs after system start, 2019-04-09T10:34:54+0000
+/project/uzmq/, uzmq, 0.3.1, libuv interface for ZeroMQ, 2012-12-07T11:45:38+0000
+/project/pihat/, pihat, 0.0.6, Pi Hat ID EEPROM library, 2019-12-11T16:56:43+0000
+/project/systemdunitparser/, systemdunitparser, 0.1, Parser to read and create unit files for systemd, 2015-06-15T16:46:03+0000
+/project/superslacker/, superslacker, 0.4, superslacker plugin for supervisord, 2019-11-15T19:24:07+0000
+/project/bicti/, bicti, 0.1.1, Bicti, efficient startup script for within docker containers, 2014-09-03T00:29:01+0000
+/project/supervisord-dependent-startup/, supervisord-dependent-startup, 1.4.0, A plugin for Supervisor that allows starting up services after dependent services have reached specific states. Based on ordered-startup-supervisord by Jason Corbett, 2019-10-09T12:11:09+0000
+/project/supervisor-lrn/, supervisor-lrn, 4.0.0, A system for controlling process state under UNIX, 2018-11-07T18:09:41+0000
+/project/amdfan/, amdfan, 0.1.9, Fan monitor and controller for AMD gpus in Linux, 2021-04-11T00:23:10+0000
+/project/papavisor/, papavisor, 0.1.0, papavisor package., 2016-02-14T15:54:33+0000
+/project/smartdc/, smartdc, 0.2.0, Experimental Joyent SmartDataCenter 6.5 & 7.0 CloudAPI connector using http-signature authentication via Requests, 2013-06-18T04:17:49+0000
+/project/chaperone/, chaperone, 0.3.9, Simple system init daemon for Docker-like environments, 2016-06-27T08:08:49+0000
+/project/supervisor-plus-cron/, supervisor-plus-cron, 1.0.15201, From 4.0.0.dev0: A system for controlling process state under UNIX, plus CRON!, 2015-07-19T14:39:33+0000
+/project/dots-linux/, dots-linux, 0.0.1, Linux System Manager., 2016-07-23T03:09:47+0000
+/project/configbutler/, configbutler, 0.1.4, Service to manage generation of server config from various configuration sources, 2018-05-28T12:05:34+0000
+/project/cloudmesh-pbs/, cloudmesh_pbs, 2.2.6, A simple pbs queue management framework for multiple supercomputers, 2015-03-23T16:10:28+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/awsornot/, awsornot, 1.1.2, Classes for logging and key/value that work identically whether running on AWS or not, 2018-03-27T23:42:55+0000
+/project/depthcharge/, depthcharge, 0.2.0, A U-Boot toolkit for security researchers and tinkerers, 2020-12-01T08:15:19+0000
+/project/initsystem/, initsystem, 0.2.0, init-system-agnostic way to start, stop and check statuses of services, 2020-06-13T12:57:22+0000
+/project/supervisor-twiddler/, supervisor_twiddler, 1.0.0, supervisor_twiddler RPC extension for Supervisor, 2014-02-02T22:24:47+0000
+/project/usrsvc/, usrsvc, 1.5.13, A service manager for running/managing/monitoring/auto-restarting daemons and services at the user (non-root) level, 2018-11-02T15:16:09+0000
+/project/arun/, arun, 0.0.1, Make asyncio service, 2016-04-22T17:19:38+0000
+/project/supervisor-discord/, supervisor-discord, 1.3, Connect supervisor to discord via webhooks, 2021-01-10T08:48:47+0000
+/project/reverseip/, reverseip, 1.0.1, `reverseip` is a tool which can find possible domain names with the given ip(s)., 2014-09-11T11:45:28+0000
+/project/cdist/, cdist, 6.9.6, A Usable Configuration Management System, 2021-04-20T05:36:01+0000
+/project/etcdefaultparser/, etcDefaultParser, 1.0.0, A parser for /etc/default configuration files, 2012-06-27T21:22:31+0000
+/project/houston/, houston, 0.3.0, Application deployment on CoreOS clusters using fleetd and Consul, 2015-08-10T19:49:36+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/docuit/, docuit, 0.4, Docuit is a tool which makes sure your README stays up to date and simplifies getting the needed parts out of the README., 2016-05-12T21:31:56+0000
+/project/supervisor-healthcheck/, supervisor-healthcheck, 0.8.0, Framework to build health checks for Supervisor-based services, based on supervisor-checks, 2017-04-20T11:56:32+0000
+/project/supervisor/, supervisor, 4.2.2, A system for controlling process state under UNIX, 2021-02-26T20:45:53+0000
+/project/supvisors/, supvisors, 0.5, A Control System for Distributed Applications, 2021-03-02T00:23:58+0000
+/project/initd/, initd, 0.0.1, initd: module for simplifying creation of initd daemons., 2008-08-17T23:31:35+0000
+/project/multivisor/, multivisor, 6.0.0, A centralized supervisor UI (web & CLI), 2020-12-01T13:22:40+0000
+/project/gaffer/, gaffer, 0.5.2, simple system process manager, 2013-10-19T12:50:29+0000
+/project/bootils/, bootils, 0.1.0.dev4, Bootils offers process boot-strapping utilities that support writing robust application/service launcher and process life-cycle management scripts., 2015-04-10T19:47:38+0000
+/project/deploy-ostree/, deploy-ostree, 1.3.0, Deploy and configure an OSTree commit, 2019-08-27T22:39:23+0000
+/project/superlance/, superlance, 1.0.0, superlance plugins for supervisord, 2016-10-02T16:12:10+0000
+/project/gpt/, gpt, 0.2, GPT utils, 2019-03-04T10:55:34+0000
+/project/journalwatch/, journalwatch, 1.1.0, A tool to get notified on error messages in the systemd journal, 2017-07-05T15:15:35+0000
+/project/pibootctl/, pibootctl, 0.5.2, Boot configuration tool for the Raspberry Pi, 2020-09-14T08:53:52+0000
+/project/marcobootstrap-slave/, marcobootstrap.slave, 0.0.18, The marcobootstrap slave, 2015-07-17T11:14:25+0000
+/project/refind-btrfs/, refind-btrfs, 0.3.7, Generate rEFInd manual boot stanzas from Btrfs snapshots, 2021-03-18T20:02:55+0000
+/project/fbtftp/, fbtftp, 0.4, A python3 framework to build dynamic TFTP servers, 2021-04-19T08:43:31+0000
+/project/ordered-startup-supervisord/, ordered-startup-supervisord, 1.0.3, An event listener for supervisord that will start up items in order upon certain states., 2016-10-08T18:50:05+0000
+/project/supervisor-cache/, supervisor_cache, 1.1.0, supervisor_cache RPC extension for supervisor, 2014-10-22T01:23:59+0000
+/project/fdeunlock/, fdeunlock, 0.7.1, Check and unlock full disk encrypted systems via ssh, 2017-04-01T08:05:53+0000
+/project/supervisor-win/, supervisor-win, 4.6.0, A system for controlling process state under WINDOWS, 2021-02-12T19:06:12+0000
+/project/modseccfg/, modseccfg, 0.7.3, Editor to tame mod_security rulesets, 2021-02-24T20:18:18+0000
+/project/supervisor-checks/, supervisor_checks, 0.8.1, Framework to build health checks for Supervisor-based services., 2018-08-01T18:19:49+0000
+/project/cmsis-svd/, cmsis-svd, 0.4, CMSIS SVD data files and parser, 2016-08-11T16:29:38+0000
+/project/tftp-pilot/, tftp-pilot, 0.2.0, Dynamic TFTP implementation for PXE Pilot. Based on fbtftp., 2020-04-09T11:40:40+0000

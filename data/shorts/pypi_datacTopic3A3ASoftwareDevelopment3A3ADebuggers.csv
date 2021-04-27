@@ -1,0 +1,699 @@
+/project/wdb/, wdb, 3.3.0, An improbable web debugger through WebSockets (client only), 2019-09-16T09:25:54+0000
+/project/address-parser/, address-parser, 1.0.0, Address parser, 2019-06-18T16:42:29+0000
+/project/atkit/, atkit, 0.1.0, atkit (an Admin Took KIT) provides a suite of tools whose goal is "total knowledge" regarding the python environment and process., 2015-01-20T12:56:52+0000
+/project/pyfdp/, PyFDP, 1.1, FDP (Fast Debug Protocol) : KD client for debugging Windows VM without /DEBUG enabled., 2018-01-29T19:45:41+0000
+/project/reckless/, reckless, 0.3, An exception hook that can keep running code after a top-level exception occurs, 2014-03-09T23:02:40+0000
+/project/functiontrace/, functiontrace, 0.3.4, A profiling tool that traces your application's execution, 2020-11-05T09:22:55+0000
+/project/scriptlogger/, ScriptLogger, 1.0.3, A simple tool that helps with logging info during the process of running a script., 2014-10-29T09:45:25+0000
+/project/rebound-cli/, rebound-cli, 2.1.0, Command-line tool that automatically fetches Stack Overflow results after compiler errors, 2021-01-03T08:46:59+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/coroner/, coroner, 0.2.2, Wraps python invocations in code to do post-mortem debugging and sundry usefulnesses., 2010-10-21T21:13:02+0000
+/project/pdbx/, pdbx, 0.3.0, Remote PDB Debugger Based On PDB, 2013-08-19T03:19:04+0000
+/project/pycallgraph/, pycallgraph, 1.0.1, Python Call Graph is a library and command line tool that visualises the flow of your Python application.  See http://pycallgraph.slowchop.com/ for more information., 2013-09-17T10:27:01+0000
+/project/flask-board/, Flask-Board, 0.2.2, Build base flask app depends on template., 2021-01-07T10:46:11+0000
+/project/aserve/, aserve, 0.0.11, Asynchronously serve APIs, 2016-12-06T17:55:10+0000
+/project/yamllint/, yamllint, 1.26.1, A linter for YAML files., 2021-04-06T14:07:09+0000
+/project/setupjavax/, setupjavax, 0.1.38, Support Java extensions for setuptools / distutils., 2019-12-13T13:46:37+0000
+/project/pylibdebuginfod/, pylibdebuginfod, 0.2, Python bindings for libdebuginfod, 2021-04-08T11:33:52+0000
+/project/pwnscripts/, pwnscripts, 0.6.0, Simple pwntools QoL scripts, 2021-01-11T08:37:56+0000
+/project/gdbundle/, gdbundle, 0.0.4, Plugin Manager for GDB and LLDB, 2020-04-22T05:06:23+0000
+/project/natto/, natto, 0.1.7, Intended as a debug tool, natto returns a representation of python data structures as pretty HTML tables., 2011-07-29T14:07:10+0000
+/project/pybfd/, pybfd, 0.1.1, A Python interface to the GNU Binary File Descriptor (BFD) library., 2013-08-05T15:15:58+0000
+/project/pdbtextmatesupport2/, PdbTextMateSupport2, 0.5, Display source code in TextMate while debugging with pdb., 2010-09-25T01:38:08+0000
+/project/frida-tools/, frida-tools, 9.2.4, Frida CLI tools, 2021-04-15T09:27:23+0000
+/project/louistools/, LouisTools, 0.2.0, A very useful tool-set for data/operation/testing engineers, specialized in ETL and finance., 2020-06-16T09:38:38+0000
+/project/reflectivipy/, reflectivipy, 0.1.1, A Python Implementation of the Reflectivity API from the Pharo language, 2019-06-07T21:33:20+0000
+/project/django-debug-toolbar-http-client/, django-debug-toolbar-http-client, 0.94, A django-debug-toolbar panel that shows you http client request record, 2017-07-04T07:05:42+0000
+/project/moesifwsgi/, moesifwsgi, 1.3.3, Moesif Middleware for Python WSGI based platforms (Flask, Bottle & Others), 2021-03-19T18:33:18+0000
+/project/guppy3/, guppy3, 3.1.0, Guppy 3 -- Guppy-PE ported to Python 3, 2020-10-10T23:20:18+0000
+/project/davis/, davis, 0.3, Python Data Visualizer, 2018-02-11T08:45:24+0000
+/project/gdbundle-gdb-dashboard/, gdbundle-gdb-dashboard, 0.11.4.post1, gdbundle plugin for cyrus-and/gdb-dashboard, 2020-04-18T03:16:19+0000
+/project/pynaut/, pynaut, 0.2.13, A tool for recursively exploring arbitrary python objects., 2015-01-21T13:50:38+0000
+/project/rxt-backend-base/, rxt-backend-base, 0.4.0, Base backend for RxTender, 2017-10-18T20:57:41+0000
+/project/pyocd-pemicro/, pyocd-pemicro, 1.0.4, PyOCD debug probe plugin for PEMicro debug probes, 2021-04-10T19:09:58+0000
+/project/labeless/, labeless, 1.1.3.0, Labels/Comments synchronization between IDA PRO and dbg backend (OllyDbg1.10, OllyDbg 2.01, x64dbg) , Remote memory dumping tool (including x64-bit), Python scripting tool, 2019-09-03T10:37:50+0000
+/project/thonnyapp/, thonnyapp, 0.9.1, Launcher for Thonny (Python IDE for beginners), 2016-04-01T14:20:30+0000
+/project/ipdb/, ipdb, 0.13.7, IPython-enabled pdb, 2021-03-16T09:49:50+0000
+/project/jishaku/, jishaku, 1.20.0.220, A discord.py extension including useful tools for bot development and debugging., 2020-11-22T12:27:57+0000
+/project/django-debug-html-store/, django_debug_html_store, 0.0.2, `django_debug_html_store` is django debug tool., 2013-02-23T07:50:43+0000
+/project/wallclock/, wallclock, 1.0, A simple stack-based performance logger, 2012-05-28T14:51:29+0000
+/project/pwntools/, pwntools, 4.4.0, Pwntools CTF framework and exploit development library., 2021-03-29T10:34:24+0000
+/project/pstack/, pstack, 0.7.1, Tool to print python thread and greenlet stacks, 2018-03-27T17:48:31+0000
+/project/python-telegram-handler-proxy/, python-telegram-handler-proxy, 1.0.2, Fork a python logging handler that sends logs via Telegram Bot Api with proxy, 2018-04-16T16:56:22+0000
+/project/darkon/, darkon, 0.0.6, Performance hacking for your deep learning models, 2018-01-19T07:34:30+0000
+/project/django-dowser/, django-dowser, 0.1.8, Django fork of amazing memory leaks tracking application for python wsgi - the Dowser, 2019-03-04T00:11:28+0000
+/project/mufsim/, MufSim, 1.2.2, Muf language simulator and debugger., 2017-11-15T10:47:29+0000
+/project/logger-tt/, logger-tt, 1.5.2, Make logging simple, log even exception that you forgot to catch. Make multiprocessing logging becomes a breeze, 2020-11-09T07:31:21+0000
+/project/pdbsublimetextsupport/, PdbSublimeTextSupport, 0.2, Display source code in Sublime Text 2 while debugging with pdb., 2011-08-09T01:45:23+0000
+/project/pm-py/, pm.py, 2.0b4, Post-mortem debugging for Python programs, 2018-02-27T18:18:15+0000
+/project/xasm/, xasm, 1.1.1, Python cross-version byte-code assembler, 2020-10-27T09:17:30+0000
+/project/pyrasite/, pyrasite, 2.0, Inject code into a running Python process, 2012-05-09T17:11:32+0000
+/project/show/, show, 1.6.0, Debug print statements, done right. E.g. show(x), 2017-05-15T20:27:18+0000
+/project/drainhunter/, drainhunter, 0.2, Memory leaks investigation tool, 2011-03-11T15:07:28+0000
+/project/llvm-minusminus-emulator/, llvm-minusminus-emulator, 1.1.0, A simple hacky emulator/debugger for LLVM--, 2017-11-14T23:12:47+0000
+/project/tg-profiler/, tg-profiler, 0.1.5, A TurboGears 1 extension to profile applications in a lightweight manner, focusing on production profiling, 2015-09-10T17:30:47+0000
+/project/awaitwhat/, awaitwhat, 20.3, async/await introspection, 2020-07-16T04:26:54+0000
+/project/bugbuzz/, bugbuzz, 0.1.2, Easy to use web-base online debugger, 2015-06-07T20:33:46+0000
+/project/gdbfrontend/, gdbfrontend, 0.5.3, GDBFrontend is a easy, flexible and extensionable gui debugger., 2021-02-17T16:36:00+0000
+/project/wdb-server-aiohttp/, wdb.server.aiohttp, 1.0.0, An improbable web debugger through WebSockets (server), 2020-11-26T13:08:45+0000
+/project/winappdbg/, winappdbg, 1.5, Windows application debugging engine, 2013-12-20T12:55:54+0000
+/project/stapsdt/, stapsdt, 0.1.1, Create USDT probes and instrument your Python application dynamically, 2017-10-17T18:49:05+0000
+/project/pytrace/, pytrace, 0.2.4, pytrace is a fast python tracer. pytrace records function calls, arguments and return values. traces aid debugging, profiling and obviate logging., 2016-04-18T10:25:37+0000
+/project/lpfics/, lpfics, 0.0.1, LPFICS aims to enable to find ONE infeasible constraint set if a model is considered infeasible once resolved, 2021-01-05T21:56:21+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/u1db/, u1db, 0.1.4, Simple syncable document storage, 2012-09-26T17:43:51+0000
+/project/sisaptoolsdev/, sisaptoolsDev, 0.0.19, Eines per debugejar sisaptools (random-Stubs), 2021-01-11T12:35:44+0000
+/project/pdb-clone/, pdb-clone, 1.10.1, A clone of pdb, fast and with the remote debugging and attach features., 2018-04-04T22:41:09+0000
+/project/pydbgr/, pydbgr, 0.2.6, Modular Python Debugger, 2013-03-24T17:49:22+0000
+/project/pry-py/, pry.py, 0.1.1, Pry ruby-like interactive shell, written in Python, 2018-04-18T12:44:09+0000
+/project/yagmail-outlook/, yagmail-outlook, 0.9.178, A fork of yagmail to solve outlook compatiblity problem, 2017-07-03T01:39:09+0000
+/project/pysnooperdb/, PySnooperDB, 2.0.0, A poor man's debugger for Python., 2020-05-21T14:45:40+0000
+/project/spyobject/, SPyObject, 0.1.23, A debugging tool for analysing Python objects, 2019-12-01T05:24:01+0000
+/project/birdseye/, birdseye, 0.9.0, Graphical Python debugger which lets you easily view the values of all evaluated expressions, 2021-03-23T09:01:07+0000
+/project/trepanxpy/, trepanxpy, 1.0.3, GDB-like Debugger for x-python in the Trepan family, 2020-06-28T21:45:56+0000
+/project/moesif-aws-lambda/, moesif-aws-lambda, 1.0.7, Moesif Middleware to automatically log API calls from AWS Lambda functions, 2020-02-24T07:36:12+0000
+/project/traceback-with-variables/, traceback-with-variables, 2.0.1, Adds variables to python traceback. Simple, lightweight, controllable. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame in a stacktrace, showing every value. Dump locals environments after errors to console, files, and loggers. Works with Jupiter and IPython., 2021-01-05T13:28:03+0000
+/project/rxtender/, rxtender, 0.4.0, Reactive streams IPC and RPC code generator, 2017-09-08T20:43:40+0000
+/project/pyinstrument1/, pyinstrument1, 3.1.3, Call stack profiler for Python. Shows you why your code is slow!, 2020-06-30T14:16:35+0000
+/project/breakword/, breakword, 0.3.1, Mixing breakpoints with print debugging., 2020-11-02T17:10:28+0000
+/project/sortlog/, sortlog, 1.0.0, Command Line tool to sort log files based on time, 2020-02-23T22:40:38+0000
+/project/lutils/, lutils, 2.11.74, A Public Loitd Python Utility Library, 2020-08-23T10:03:17+0000
+/project/pyliveupdate/, pyliveupdate, 0.3.1, A tool to manipulate python code at runtime for logging, profiling, debugging, etc., 2020-03-24T07:57:10+0000
+/project/django-debug-toolbar-template-timings/, django-debug-toolbar-template-timings, 0.9, A django-debug-toolbar panel that shows you template rendering times for Django, 2018-02-24T04:13:56+0000
+/project/pugdebug/, pugdebug, 1.1.1, A standalone debugging client for PHP applications, 2021-03-11T14:28:36+0000
+/project/aioyagmail/, aioyagmail, 0.0.4, Yet Another GMAIL client, using AsyncIO, 2018-06-27T20:10:21+0000
+/project/nerdvision-serverless/, nerdvision-serverless, 1.2.2a2, The NerdVision Python agent for live debugging, dynamic logging and data monitoring., 2021-04-20T14:33:45+0000
+/project/winpdb-reborn/, winpdb-reborn, 2.0.0.1, A platform independent GPL Python debugger., 2020-08-26T06:06:06+0000
+/project/bprofile/, bprofile, 1.3.4, A wrapper around profile/cProfile, gprof2dot and dot,
+providing a simple context manager for profiling sections
+of Python code and producing visual graphs of profiling results., 2017-05-17T17:19:21+0000
+/project/pydevd-pycharm/, pydevd-pycharm, 211.7142.13, PyCharm Debugger (used in PyCharm and PyDev), 2021-04-22T13:00:09+0000
+/project/loctraceback/, loctraceback, 1.1.1, traceback with more exact location info, 2021-03-27T17:22:43+0000
+/project/django-marcus/, django-marcus, 1.0.5, Bilingual blog on Django, 2020-05-04T00:52:42+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jetson-stats/, jetson-stats, 3.1.0, Interactive system-monitor and process viewer for all NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2], 2021-03-01T15:50:57+0000
+/project/wxdebug/, wxdebug, 0.1, Xdebug viewer : displays PHP profiling output generated by Xdebug 2.x, 2006-05-12T23:59:25+0000
+/project/wdb-server/, wdb.server, 3.3.0, An improbable web debugger through WebSockets (server), 2019-09-16T09:25:33+0000
+/project/profiling/, profiling, 0.1.3, An interactive continuous Python profiler., 2017-06-28T06:10:15+0000
+/project/rowgenerators/, rowgenerators, 0.9.19, Generate row data from a variety of file formats, 2021-03-04T20:55:02+0000
+/project/siginfo/, siginfo, 0.9, A Python package to help debugging and monitoring python script, 2020-06-28T18:11:13+0000
+/project/overwatch/, overwatch, 2.0.0, Overwatch: Python Logging Browser., 2014-12-08T17:23:35+0000
+/project/winpdb/, winpdb, 1.4.9.2, A backward compatibility package to the official winpdb-reborn, a platform independent GPL Python debugger., 2020-08-26T06:09:07+0000
+/project/cant/, cant, 0.0, Can't Remember!, 2016-02-15T22:44:56+0000
+/project/django-projectname/, django-projectname, 1.0.0, django projectname, 2014-05-04T19:07:03+0000
+/project/gdbplotlib/, gdbplotlib, 0.2.0, Plotting and exporting of variables from GDB, 2020-07-20T21:29:20+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/rpdb/, rpdb, 0.1.6, pdb wrapper with remote access via tcp socket, 2016-01-05T22:24:37+0000
+/project/visdebug/, visdebug, 0.0.1, Visual utils for debugging, 2014-12-28T05:34:25+0000
+/project/debugpy/, debugpy, 1.2.1, An implementation of the Debug Adapter Protocol for Python, 2020-12-14T20:14:03+0000
+/project/faulthandler/, faulthandler, 3.2, Display the Python traceback on a crash, 2020-01-27T08:44:36+0000
+/project/pylg/, PyLg, 1.3.3, Python module to facilitate and automate the process of writing runtime logs., 2019-07-30T11:44:44+0000
+/project/comtool/, COMTool, 1.7.9, Cross platform serial debug assistant with GUI, 2019-06-27T02:48:38+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/botfly/, botfly, 0.8.0, Alternative Python debugger using prompt-toolkit., 2019-12-02T02:16:41+0000
+/project/pyvalid/, pyvalid, 1.0.4, The module, which allows easily validate function's input/output values., 2020-10-13T05:54:10+0000
+/project/products-permissioncomprehensible/, Products.PermissionComprehensible, 0.7, A tool that enables viewing roles and permissions in context., 2012-01-30T13:27:13+0000
+/project/django-auklet/, django-auklet, 0.5.0, Auklet performance monitoring agent for Django apps, 2018-11-26T15:06:02+0000
+/project/livereload/, livereload, 2.6.3, Python LiveReload is an awesome tool for web developers, 2020-08-22T15:31:53+0000
+/project/stack-data/, stack-data, 0.1.0, Extract data from python stack frames and tracebacks for informative displays, 2020-05-31T09:36:06+0000
+/project/pvdb/, pvdb, 0.2.6, Python visual debugger inspired by Philip Guo's Python Tutor, 2017-09-27T10:02:16+0000
+/project/pydevd/, pydevd, 2.4.1, PyDev.Debugger (used in PyDev, PyCharm and VSCode Python), 2021-04-13T10:37:45+0000
+/project/ntrace/, ntrace, 0.0.1, execution tracer that gives more output than trace.py, 2015-03-25T08:12:14+0000
+/project/yamllintelerir/, yamllintelerir, 1.17.14, A linter for YAML files., 2019-08-28T08:16:34+0000
+/project/kaaedit/, kaaedit, 0.53.0, kaa - console text editor., 2016-08-07T16:34:36+0000
+/project/cliche/, cliche, 0.7.46, A minimalistic CLI wrapper out to be the best, 2021-04-15T22:05:29+0000
+/project/trepan3k/, trepan3k, 1.2.4, GDB-like Python Debugger in the Trepan family, 2021-03-15T21:00:42+0000
+/project/mu-editor/, mu-editor, 1.0.3, A simple Python editor for beginner programmers., 2020-01-26T21:42:37+0000
+/project/pycallgraph3/, pycallgraph3, 1.1.4, Python Call Graph is a Python module that creates call graph visualizations for Python applications., 2020-07-21T16:18:09+0000
+/project/debuggingbook/, debuggingbook, 0.9.0, Code for 'The Debugging Book' (https://www.debuggingbook.org/), 2021-03-10T12:20:44+0000
+/project/explainer/, explainer, 0.0.2dev, The first unified explainability toolkit for explainable software and hardware systems., 2019-01-24T23:56:17+0000
+/project/skyline-cli/, skyline-cli, 0.5.0, Interactive in-editor performance profiling, visualization, and debugging for PyTorch neural networks., 2020-07-23T02:52:32+0000
+/project/gdbundle-voltron/, gdbundle-voltron, 0.1.7.post2, gdbundle plugin for snare/voltron, 2020-04-15T01:23:33+0000
+/project/httpdebug/, httpdebug, 30, Curl based http downloader with debug information, 2016-06-21T12:58:58+0000
+/project/pytest-ipdb/, pytest-ipdb, 0.1-prerelease2, A py.test plug-in to enable drop to ipdb debugger on test failure., 2014-09-02T21:03:24+0000
+/project/django-debugtools/, django-debugtools, 1.8, A toolbox of small utilities to assist Django development, 2020-03-15T13:30:38+0000
+/project/django-template-check/, django-template-check, 0.4.0, Perform (minimal) syntax checks for Django templates., 2020-10-02T17:46:39+0000
+/project/feedview/, feedview, 0.0.1, View a feed url with `feedview <URL>`, 2017-05-25T17:59:35+0000
+/project/ipdb-breakpoint/, ipdb-breakpoint, 0.1.dev1, Use ipdb as default when running `breakpoint()`., 2018-01-22T11:51:09+0000
+/project/dbug/, dbug, 1.2, Print tools for debuging, 2019-07-22T13:47:33+0000
+/project/pinguino/, pinguino, 12.0.40, Open Hardware Electronics Prototyping Platform, Open Source Integrated Development Environment (IDE), 2017-11-15T21:24:06+0000
+/project/isystem-connect/, isystem.connect, 9.21.9.0, isystem.connect for Python, 2021-04-19T06:19:49+0000
+/project/jnitrace/, jnitrace, 3.2.1, A tool for tracing use of the JNI in Android apps, 2021-02-27T16:01:31+0000
+/project/pyqbdi/, PyQBDI, 0.8.0, Python binding for QBDI, 2021-02-11T15:27:08+0000
+/project/python-gdb-ctrl/, python-gdb-ctrl, 1.0.1, A thin layer on top of GDB to control it programatically., 2020-07-28T01:56:09+0000
+/project/wtf/, wtf, 0.1, Post-mortem PDB handler, 2010-10-26T20:12:56+0000
+/project/pttools/, ptTools, 0.1.4, DSL for pattern matching on .py parse trees., 2013-07-31T19:22:52+0000
+/project/trio-inspector/, trio-inspector, 0.0.3, A browser-based monitor for Trio, 2019-03-15T08:01:30+0000
+/project/mincli/, mincli, 0.2.1, A minimalistic CLI wrapper out to be the best, 2020-02-18T23:03:52+0000
+/project/primer-kit/, primer-kit, 0.1.1a0, Primer is a lightweight toolbox for debugging and benchmarking Python code., 2020-03-03T20:07:34+0000
+/project/sidetrack/, sidetrack, 1.4.0, Simple debug tracing package for Python, 2021-03-04T16:30:42+0000
+/project/django-timelimit/, django-timelimit, 0.3, A Django template tag used to enforce render time limits within templates., 2019-06-04T22:36:48+0000
+/project/epdb/, epdb, 0.15.1, Enhanced Python Debugger, 2017-03-31T18:57:07+0000
+/project/rzpipe/, rzpipe, 0.1.0, Pipe interface for rizin, 2021-01-28T22:45:14+0000
+/project/nerdvision/, nerdvision, 1.2.1, The NerdVision Python agent for live debugging, dynamic logging and data monitoring., 2021-04-01T14:01:55+0000
+/project/libspl/, libspl, 0.2.0, Python utility library for the SPLIWACA project, 2020-03-17T18:39:47+0000
+/project/zipunicode/, ZipUnicode, 1.0.0, Fix unreadable file names when extracting zip file, 2020-05-30T04:08:50+0000
+/project/mio-lang/, mio-lang, 0.1.8, A Toy Programming Language written in Python, 2013-12-24T05:52:50+0000
+/project/products-purgemissingobjectinterfaces/, Products.PurgeMissingObjectInterfaces, 1.0.4a, A product for purging old and missing marker interfaces from objects, 2012-03-16T08:18:39+0000
+/project/pyparsing-helper/, pyparsing_helper, 0.1.2, GUI assistant for pyparsing, 2009-01-14T19:39:32+0000
+/project/pydia/, pydia, 1.0, Microsoft DIA (Debug Interface Access) Wrapper Module, 2008-05-16T18:06:04+0000
+/project/ptvsd/, ptvsd, 4.3.2, Remote debugging server for Python support in Visual Studio and Visual Studio Code, 2019-08-13T20:08:09+0000
+/project/cysignals/, cysignals, 1.10.3, Interrupt and signal handling for Cython, 2021-03-16T13:58:34+0000
+/project/placer/, placer, 0.0.7, Let's draw on /r/place!, 2017-04-03T12:35:03+0000
+/project/pdbbbeditsupport/, PdbBBEditSupport, 1.0.1, Display source code in BBEdit while debugging in pdb, 2012-05-24T02:36:05+0000
+/project/edkit-server/, edkit-server, 0.3.1, edkit server package for local usage, 2017-01-18T21:27:58+0000
+/project/xtrace/, xtrace, 0.5, Indented function trace in Xdebug format, 2014-02-17T15:19:23+0000
+/project/fireflask/, fireflask, 0.2.0, Simple, beautiful logging from Flask web apps to FireBug console, 2015-08-17T02:20:11+0000
+/project/rlpython/, rlpython, 0.5, GNU Readline based Python REPL without any external dependencies, 2021-04-06T06:43:23+0000
+/project/process-tracing/, process-tracing, 0.1.0a11, ptrace based process tracing utilities for python, 2017-08-30T11:00:26+0000
+/project/mocka/, mocka, 0.0.8, Mocka mocks APIs, 2016-08-06T01:02:41+0000
+/project/dbi/, dbi, 1.2.5, debugging interface module, 2018-12-13T11:42:04+0000
+/project/cproto/, cproto, 0.7.2, Chrome Debugging Protocol client, 2019-10-11T09:42:41+0000
+/project/sp-django-profiler/, sp-django-profiler, 1.0.0, Tools for profiling of code and Django queries, 2020-10-16T11:31:42+0000
+/project/drgn/, drgn, 0.0.11, Scriptable debugger library, 2021-04-03T09:04:31+0000
+/project/eww/, eww, 1.0.0, A pretty nifty debugger., 2014-09-01T22:22:56+0000
+/project/py3k-extension/, py3k_extension, 20081023, extension module backporting opcodes from python3k, 2008-10-23T18:32:51+0000
+/project/jccjmx/, jccjmx, 0.1, Java Management Extension (JMX) wrapper for JCC, 2012-05-07T14:09:42+0000
+/project/django-ponydebugger/, django-ponydebugger, 0.0.3, PonyDebugger support for Django, 2013-03-19T23:43:03+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/headercount/, headercount, 1.0.0, Count directly and indirectly included headers in a C/C++ project, 2017-11-29T22:05:13+0000
+/project/pyspresso/, pyspresso, 0.1, Python-based framework for debugging Java, 2016-06-14T21:57:30+0000
+/project/tox-ipdb-plugin/, tox-ipdb-plugin, 0.1, Tox plugin which installs ipdb in tox environments., 2020-02-26T10:39:26+0000
+/project/extended-yamllint/, extended-yamllint, 0.3, A linter for YAML files., 2017-01-19T09:28:13+0000
+/project/frida/, frida, 14.2.16, Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers, 2021-04-21T19:50:45+0000
+/project/ddtrace-graphql/, ddtrace-graphql, 0.2.0, Python library for tracing graphql calls with Datadog, 2019-06-21T19:28:21+0000
+/project/py-pal/, py-pal, 1.0.2, Estimate Asymptotic Runtime Complexity from Bytecode executions, 2021-04-12T12:24:46+0000
+/project/refcycle/, refcycle, 0.2.1, Find and visualise reference cycles between Python objects., 2017-06-27T20:06:35+0000
+/project/ikp3db/, ikp3db, 1.4.1, A hackable CPython 3.6+ remote debugger designed for the Web and online IDE integration. Fork of IKPdb., 2019-09-28T08:12:08+0000
+/project/pydump/, pydump, 1.2.0, Post-mortem debugging for Python programs, 2018-11-20T05:24:26+0000
+/project/gdb-tools/, gdb-tools, 1.3, Various tools to improve the gdb experience, 2019-08-04T12:44:59+0000
+/project/sky/, sky, 0.0.201, AI powered scraping in Python 3, 2018-09-01T22:08:00+0000
+/project/pygdb/, pygdb, 0.1.0.post2, Python extension for the GNU project debugger (GDB), 2020-03-06T14:31:26+0000
+/project/pystack-debugger/, pystack-debugger, 0.9.0, Tool to print python thread and greenlet stacks, 2018-12-20T05:31:35+0000
+/project/password-gen/, password_gen, 0.2.17, Generates strong memorable passwords., 2018-05-29T07:05:25+0000
+/project/tgfirebuglite/, TGFirebugLite, 1.0b, A TurboGears widgets wrapper for the Firebug Lite JavaScript Library., 2006-12-20T13:34:33+0000
+/project/aigoo/, aigoo, 0.0.2, Compiler error solution, 2020-05-31T15:11:02+0000
+/project/dbg2py/, dbg2py, 1.05a, PDB-like Client/Server Debugger (using multiprocessing), 2016-04-07T16:53:14+0000
+/project/tekek/, tekek, 0.2.6, An Asynchronous Remote and Local Debugging Tools, 2020-10-24T21:38:59+0000
+/project/pptop/, pptop, 0.6.11, Open, extensible Python injector/profiler/analyzer, 2020-12-24T22:37:31+0000
+/project/nostalgia/, nostalgia, 0.1.67, nostalgia enables to self-track and gain insights into your life, 2020-03-08T22:04:17+0000
+/project/codebook/, codebook, 1.2.2, Emacs minor mode for generating and interacting with jupyter notebooks, 2018-07-24T15:20:54+0000
+/project/semi-ate-stil/, Semi-ATE-STIL, 0.0.1, Standard Tester Interface Library [IEEE1450] with python, 2021-02-19T19:20:05+0000
+/project/pyhoe/, pyhoe, 0.0.1a5, A project skeleton generator., 2012-02-18T17:48:21+0000
+/project/catsass/, CatsAss, 1.1.3, Seriously the cats ass. Seriously., 2017-04-29T21:09:52+0000
+/project/rpcpdb/, rpcpdb, 0.4.5, Debug support for RPC servers, 2016-06-27T21:24:58+0000
+/project/pdbi/, pdbi, 0.1, Improved IPython-enabled pdb, 2016-01-01T14:51:54+0000
+/project/moesifapi/, moesifapi, 1.3.3, Moesif API Lib for Python, 2021-02-17T05:33:31+0000
+/project/blackmagic/, blackmagic, 0.0.2, A Python black magic library., 2017-08-13T01:22:48+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/imgtec-codescape/, imgtec.codescape, 8.6.5a1513346799, Codescape scripting interface, 2017-12-20T12:44:17+0000
+/project/pycallgraph2/, pycallgraph2, 1.1.3, Python Call Graph is a Python module that creates call graph visualizations for Python applications., 2019-07-01T20:03:19+0000
+/project/crtime/, crtime, 0.0.6, crtime: get creation time of files for any platform and no external dependencies., 2019-03-19T20:31:37+0000
+/project/vardbg/, vardbg, 0.11.7, A simple Python debugger and profiler that generates animated visualizations of program flow., 2020-02-04T05:55:15+0000
+/project/thonny/, thonny, 3.3.6, Python IDE for beginners, 2021-03-06T10:36:27+0000
+/project/rainbow-logging-handler/, rainbow_logging_handler, 2.2.2, Ultimate Python colorized logger with user-custom color, 2014-08-06T23:43:19+0000
+/project/gittyleaks/, gittyleaks, 0.0.31, Discover where your sensitive data has been leaked., 2020-02-27T18:31:37+0000
+/project/mem-edit/, mem-edit, 0.6, Multi-platform library for memory editing, 2021-04-09T02:51:36+0000
+/project/k0emu/, k0emu, 1.0.0, Renesas (NEC) 78K0 emulator, 2020-02-15T22:37:34+0000
+/project/pyconsole-util/, pyconsole-util, 1.0.1, A set of functions that print to the console in different formats for debugging, exploring, or printing nicely, 2019-01-14T05:20:16+0000
+/project/membug/, membug, 0.1, Small set of memory debugging tools, 2014-05-16T16:09:10+0000
+/project/mathinspector/, mathinspector, 0.9.3.post0, A visual programing environment for scientific computing with Python, 2021-02-23T17:29:31+0000
+/project/gittraffic/, gittraffic, 0.0.6, Follow your git traffic per package in a github repo, 2015-10-29T18:23:06+0000
+/project/hunter/, hunter, 3.3.2, Hunter is a flexible code tracing toolkit., 2021-03-26T01:29:45+0000
+/project/undname/, undname, 0.1.1, CFFI wrapper for wine undname module, 2018-05-02T17:15:14+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/ppretty/, ppretty, 1.3, Convert python objects to a human readable format, 2019-03-26T13:06:42+0000
+/project/sterm/, sterm, 6.0.1, A minimal serial / UART command line terminal that focus on being easy to use., 2020-03-07T08:16:58+0000
+/project/pdbme/, pdbme, 0.0.1, remote pdb which connects to developer, 2019-06-17T11:48:42+0000
+/project/pyheapdump/, pyheapdump, 0.2.8, Post-mortem debugging for Python programs, 2016-08-01T17:06:01+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/yagmail/, yagmail, 0.14.247, Yet Another GMAIL client, 2021-03-31T13:01:45+0000
+/project/sclogger/, sclogger, 1.1.41, simple colorized logger, 2017-05-09T19:17:06+0000
+/project/comparerr/, comparerr, 0.2.0, Comparerr is a tool which which analyzes two versions of python software versioned by git with pylint and shows you errors which you added and fixed., 2019-09-17T07:11:59+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/pdbtextmatesupport/, PdbTextMateSupport, 0.3, Display source code in TextMate while debugging with pdb., 2007-02-18T10:19:42+0000
+/project/tok/, tok, 0.1.14, Fast and customizable tokenizer, 2019-07-09T18:48:26+0000
+/project/mu-sb/, mu-sb, 0.0.1, Mu supporting Studuino:bit, 2019-06-28T02:41:15+0000
+/project/wsgiprofile/, WSGIProfile, 0.1dev, WSGI Middleware for embedding a rich profiler in web pages., 2008-09-15T10:12:46+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/otrace/, otrace, 0.30.9, An object-oriented python debugger for nonlinear tracing, 2012-08-27T02:15:52+0000
+/project/django-sql-stacktrace/, django-sql-stacktrace, 0.3.1, Pluggable application, which puts a python stack trace in the SQL query as a comment (useful for debugging), 2015-09-15T09:42:07+0000
+/project/pylint-runner/, pylint-runner, 0.6.0, Run pylint recursively on all py files in current and sub-directories, 2020-06-04T03:17:31+0000
+/project/slack-pdb/, slack-pdb, 2.0.4, Collaboratively debug your Python application in Slack, 2017-06-07T21:14:11+0000
+/project/qtarmsim/, qtarmsim, 0.5.3, Easy to use graphical ARM simulator, 2020-11-06T22:00:03+0000
+/project/gdbundle-example/, gdbundle-example, 0.0.2, Example gdbundle plugin, 2020-04-17T07:09:22+0000
+/project/robpol86-pytest-ipdb/, robpol86-pytest-ipdb, 0.0.1, pytest-ipdb installable from pip. Using this until https://github.com/mverteuil/pytest-ipdb/issues/9 is resolved., 2015-03-23T02:36:16+0000
+/project/efault/, efault, 1.0.0, TUI for DBG., 2020-07-27T22:59:42+0000
+/project/gdbplugins/, gdbplugins, 0.0.1.dev10, Make debugging of programs written in various languages easy., 2019-12-13T00:55:46+0000
+/project/vertool/, vertool, 1.1.1, The project versioning controller, 2020-05-08T08:37:57+0000
+/project/helpdev/, helpdev, 0.7.1, HelpDev - Extracts information about the Python environment easily., 2020-05-05T21:12:46+0000
+/project/interruptingcow/, interruptingcow, 0.8, A watchdog that interrupts long running code., 2018-02-27T19:40:48+0000
+/project/tipper/, tipper, 0.1, A utility for dumping stack traces of running Python processes, 2013-03-31T00:36:57+0000
+/project/elicit/, elicit, 1.7.1, Library for making command-style user interfaces., 2019-11-20T05:03:33+0000
+/project/dogslow/, dogslow, 1.2, A Django middleware that logs tracebacks of slow requests., 2018-01-04T20:28:03+0000
+/project/py65/, py65, 1.1.0, 6502 microprocessor simulation package, 2018-07-01T21:17:43+0000
+/project/pyrasite-gui/, pyrasite-gui, 2.0beta7, A graphical interface for interacting with running Python processes, 2012-03-20T21:41:05+0000
+/project/meliae/, meliae, 0.5.1, Python Memory Usage Analyzer, 2020-05-05T12:49:02+0000
+/project/ansible-playbook-debugger/, ansible-playbook-debugger, 0.2.4, Debugger for Ansible Playbook, 2016-03-19T02:37:43+0000
+/project/pylint-import-requirements/, pylint-import-requirements, 2.0.5, A pylint plugin to check that all imports have matching requirements specified, 2020-08-31T18:09:21+0000
+/project/trepan2/, trepan2, 1.2.3, GDB-like Python Debugger in the Trepan family, 2021-01-25T04:02:00+0000
+/project/sigdebug/, sigdebug, 0.1, Debug helpers responding to signals, 2011-09-25T02:08:39+0000
+/project/sysdm/, sysdm, 0.8.58, Scripts as a service. Builds on systemd., 2021-03-05T15:40:20+0000
+/project/pudb/, pudb, 2020.1, A full-screen, console-based Python debugger, 2020-12-21T04:20:59+0000
+/project/dbg/, dbg, 1.5.2, PDB-like Client/Server Debugger (using multiprocessing), 2016-06-05T22:55:38+0000
+/project/pybfd3/, pybfd3, 0.1.5, A Python (3.x compatible) interface to the GNU Binary File Descriptor (BFD) and opcodes library., 2020-09-09T11:02:52+0000
+/project/flamegraph/, flamegraph, 0.1, Statistical profiler which outputs in format suitable for FlameGraph, 2016-04-21T00:40:49+0000
+/project/rld/, rld, 0.1.1, A development tool for evaluation and interpretability of reinforcement learning agents., 2020-08-25T17:17:42+0000
+/project/pytest-bpdb/, pytest-bpdb, 0.1.4, A py.test plug-in to enable drop to bpdb debugger on test failure., 2015-01-19T08:06:15+0000
+/project/pyinstrument/, pyinstrument, 3.4.1, Call stack profiler for Python. Shows you why your code is slow!, 2021-02-19T09:56:50+0000
+/project/autostack/, autostack, 1.2.1, Automatically detect python errors and search Stack Overflow., 2020-04-12T02:12:46+0000
+/project/access-points/, access_points, 0.4.66, Scan your WiFi and get access point information and signal quality., 2019-09-08T22:32:03+0000
+/project/perfcounters/, perfcounters, 2.1.0, Easily add performance counters to your code, 2020-03-28T20:29:46+0000
+/project/dot-access/, dot_access, 0.0.1, Makes nested python objects easy to go through, 2017-09-22T21:09:59+0000
+/project/pdbtest/, pdbtest, 1.5, A unittest shim to make PDB debugging of test cases easy., 2019-03-14T01:17:32+0000
+/project/stxnext-pdb/, stxnext.pdb, 0.2.1, This is extended Python Debugger (pdb). It offers few very useful features that helps in debugging, especially zope2/zope3/plone instances., 2009-05-07T13:52:55+0000
+/project/ipdbx/, ipdbx, 1.0.4, IPython-enabled pdb with extra functionality and customisation, 2021-02-07T15:36:54+0000
+/project/genesis/, genesis, 0.0.0, AI based Genetic algorithm for data migration, 2018-05-23T23:11:16+0000
+/project/z3wingdbg/, z3wingdbg, 0.2.0, Wing IDE debugger integration for Zope3, 2006-09-01T14:30:37+0000
+/project/igit-debug/, igit-debug, 0.0.3, Inspection decorators, exception handler, formatting tools, a pretty logger, ..., 2020-06-14T15:06:12+0000
+/project/moser-pylint/, moser-pylint, 2.7.2, , 2020-07-17T08:44:17+0000
+/project/disptrace/, disptrace, 0.4, Generate Python trace log in HTML, 2012-08-11T07:14:33+0000
+/project/colour-valgrind/, colour-valgrind, 0.3.9, Wraps Valgrind to colour the output., 2018-08-03T22:14:33+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/guider/, guider, 3.9.81, A system-wide analyzer of performance, 2021-03-27T07:40:38+0000
+/project/printlog/, printlog, 0.0.5, Colorize your logs to spot them at a glance., 2021-03-21T23:54:27+0000
+/project/vivisect/, vivisect, 1.0.1, Pure python disassembler, debugger, emulator, and static analysis framework, 2021-04-05T16:10:00+0000
+/project/kaadbg/, kaadbg, 0.3.0, Remote debugger runner for kaa, 2013-12-21T09:25:57+0000
+/project/mallet-lldb/, mallet-lldb, 1.0a2, LLDB additions for iOS project., 2015-08-15T18:50:39+0000
+/project/pyinstrument-flame/, pyinstrument-flame, 1.0.2, An interactive SVG Flame Chart Renderer for pyinstrument., 2019-03-01T13:35:58+0000
+/project/markii/, markii, 0.4.6, MarkII is a development-mode error handler for Python web applications., 2017-07-24T14:46:59+0000
+/project/trepan/, trepan, 0.8.6, GDB-like Python Debugger in the Trepan family, 2018-03-08T13:56:28+0000
+/project/auklet/, auklet, 1.0.1, Auklet performance monitoring agent for Python IoT apps, 2018-10-16T16:57:14+0000
+/project/lode/, lode, 0.3.0, Tiny and minimalistic logging utility, 2014-09-21T15:19:53+0000
+/project/dwex/, dwex, 1.11, GUI viewer for DWARF debug information, 2021-02-15T22:14:59+0000
+/project/pyregs/, Pyregs, 0.1, Python 3 regular expressions debugger, 2013-05-29T10:39:15+0000
+/project/biocalc/, bioCalc, 1.1.0b0, biological calculator, 2018-03-31T08:14:58+0000
+/project/moesiftornado/, moesiftornado, 0.1.2, Moesif Middleware for Python Tornado based platforms, 2021-03-15T19:23:10+0000
+/project/ircpdb/, ircpdb, 1.8.1, Remotely and collaboratively debug your Python application via IRC, 2016-08-20T00:51:12+0000
+/project/bxdev/, bxdev, 0.5, BasicX development libraries, 2014-04-25T14:27:48+0000
+/project/dwarf-debugger/, dwarf-debugger, 1.1.1, Full featured multi arch/os debugger built on top of PyQt5 and frida, 2021-03-30T06:19:00+0000
+/project/python-telegram-handler/, python-telegram-handler, 2.2, A python logging handler that sends logs via Telegram Bot Api., 2019-08-19T14:59:43+0000
+/project/pyocd/, pyocd, 0.30.3, Cortex-M debugger for Python, 2021-03-31T18:32:59+0000
+/project/tinycalltrace/, tinycalltrace, 1.0.2, Simple call tree graph generator suitable for viewing with vim fold, 2018-06-16T07:49:59+0000
+/project/wingdbg/, WingDBG, 6.0.9, Zope2 to WingIDE debugging driver, 2018-03-27T09:30:33+0000
+/project/pyramid-pycallgraph/, pyramid_pycallgraph, 0.1.0, Pyramid tween to generate a callgraph image for every request, 2015-12-21T11:44:24+0000
+/project/pyringe/, pyringe, 1.0.2, Python debugger capable of attaching to processes, 2014-05-09T15:13:44+0000
+/project/moesifdjango/, moesifdjango, 2.0.3, Moesif Middleware for Python Django, 2021-03-31T01:50:42+0000
+/project/qwerty/, qwerty, 1.2.1, debugging interface module, 2018-12-10T09:04:04+0000
+/project/pysnooper/, PySnooper, 0.4.3, A poor man's debugger for Python., 2021-02-27T09:15:15+0000
+/project/uncompyle6/, uncompyle6, 3.7.4, Python cross-version byte-code decompiler, 2020-09-05T10:14:37+0000
+/project/xdis/, xdis, 5.0.9, Python cross-version byte-code disassembler and marshal routines, 2021-04-17T00:07:21+0000
+/project/rafi-mx/, rafi.mx, 0.2.18, Workspace/project-oriented tmux/git personal assistant., 2016-07-15T16:44:35+0000
+/project/pyxdebug/, pyxdebug, 1.2.5, PyXdebug is Xdebug format debugger for Python, 2011-11-30T10:55:46+0000
+/project/brython-dev/, brython-dev, 0.4.2, Brython developer tools, 2021-03-16T23:19:09+0000
+/project/cpyvke/, cpyvke, 1.2.10, A Kernel and variable explorer in Curses, 2020-10-15T16:39:16+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/django-profiler/, django-profiler, 2.0.0, util for profiling python code mainly in django projects, but can be used also on ordinary python code, 2013-09-11T10:24:06+0000
+/project/ikpdb/, ikpdb, 1.2.3, A hackable CPython remote debugger designed for the Web and online IDE integration., 2018-03-09T06:19:50+0000
+/project/space-tracer/, space-tracer, 4.4.0, Trade time for space when debugging your code., 2021-04-13T02:02:00+0000
+/project/yasdu/, yasdu, 1.0.0, Yet another stack/session dumper utility, 2020-09-21T14:13:36+0000
+/project/moesifpythonrequest/, moesifpythonrequest, 0.2.0, Moesif Python request, 2019-12-20T20:54:42+0000
+/project/kirahhe/, kirahhe, 0.2, Startup process catcher, 2018-09-10T12:21:37+0000
+/project/flask-wdb/, Flask-Wdb, 0.0.2, Integrate Wdb instead of Werkzeug debugger for Flask applications, 2013-06-30T02:53:10+0000
+/project/crlint/, crlint, 0.1.2, The project copyright linter, 2019-07-01T14:58:21+0000
+/project/manhole/, manhole, 1.8.0, Manhole is in-process service that will accept unix domain socket connections and present the, 2021-04-08T20:14:54+0000
+/project/mongoql-conv/, mongoql-conv, 0.4.1, Library to convert those MongoDB queries to something else, like a python expresion, a function or a Django Q object tree to be used with a ORM query., 2014-06-01T17:26:58+0000
+/project/discord-gui/, discord.gui, 1.0.2, A discord.py extension providing a GUI interface to monitor the bot and modify command settings, 2019-04-18T21:48:23+0000
+/project/nose-pudb/, nose-pudb, 1.0, A nose plugin for dropping into pudb on test errors or failures., 2014-06-29T10:27:16+0000
+/project/vimpdb/, vimpdb, 0.4.5, Vim and Pdb integration, 2011-04-27T23:30:53+0000
+/project/tbgrep/, tbgrep, 0.3.0, Extract Python Tracebacks from text, 2015-01-30T20:41:47+0000
+/project/tripod/, tripod, 0.1, A module that samples running scripts, logging tracebacks., 2012-08-29T19:29:53+0000
+/project/localproxy/, localproxy, 0.0.3, HTTP proxy server in twisted. If there is a directory with same name as target host (e.g.: www.example.com), contents of the directory are returned instead of making a request to the target host., 2015-01-11T01:27:23+0000
+/project/pytest-trepan/, pytest-trepan, 2.0.0, Pytest plugin for trepan debugger., 2018-07-28T20:27:46+0000
+/project/tokentracer/, tokenTracer, 0.0.1, Keycloak token endpoint packet sniffer for HTTP request/response authentication tokens, 2017-12-22T02:37:19+0000
+/project/python-gdb-mi/, python-gdb-mi, 2.0.1, A parser for GDB Machine Interface (MI) events., 2020-07-28T01:50:39+0000
+/project/scalene/, scalene, 1.3.2, Scalene: A high-resolution, low-overhead CPU, GPU, and memory profiler for Python, 2021-04-09T01:26:28+0000
+/project/web-pdb/, web-pdb, 1.5.6, Web interface for Python's built-in PDB debugger, 2020-12-31T09:23:03+0000
+/project/pdbeditorsupport/, PdbEditorSupport, 0.4.0, Display source code in your editor while debugging with pdb., 2018-07-31T10:14:02+0000
+/project/pdbpp/, pdbpp, 0.10.2, pdb++, a drop-in replacement for pdb, 2019-10-04T12:04:09+0000
+/project/xdb/, xdb, 0.0.0, One database API to use them all, 2016-01-04T19:07:03+0000
+/project/rfc-reader/, rfc_reader, 1.0, Consult download and search through IETF RFC documents from your terminal, 2016-06-14T21:12:51+0000
+/project/unidump/, unidump, 1.1.2, hexdump for your unicode data, 2017-03-19T19:48:26+0000
+/project/appmap/, appmap, 0.8.0, Create AppMap files by recording a Python application., 2021-04-04T20:34:13+0000
+/project/pytest-vscodedebug/, pytest-vscodedebug, 0.1.0, A pytest plugin to easily enable debugging tests within Visual Studio Code, 2020-12-04T22:38:40+0000
+/project/snoop/, snoop, 0.3.0, Powerful debugging tools for Python, 2021-03-26T18:41:23+0000
+/project/proxy-py/, proxy.py, 2.3.1, ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception capable proxy server focused on Network monitoring, controls & Application development, testing, debugging., 2021-01-10T16:59:31+0000
+/project/robotframework-lsp/, robotframework-lsp, 0.14.0, Language Server Protocol implementation for Robot Framework, 2021-04-14T17:28:08+0000
+/project/great-justice/, great-justice, 2012.7.0, Debug every ZIG, 2012-07-13T10:29:48+0000
+/project/pysnooper-g/, PySnooper-g, 0.1.0, A poor man's debugger for Python., 2019-04-26T06:49:59+0000
+/project/pylint/, pylint, 2.8.1, python code static checker, 2021-04-25T10:05:42+0000
+/project/wdb/, wdb, 3.3.0, An improbable web debugger through WebSockets (client only), 2019-09-16T09:25:54+0000
+/project/address-parser/, address-parser, 1.0.0, Address parser, 2019-06-18T16:42:29+0000
+/project/django-debug-html-store/, django_debug_html_store, 0.0.2, `django_debug_html_store` is django debug tool., 2013-02-23T07:50:43+0000
+/project/jishaku/, jishaku, 1.20.0.220, A discord.py extension including useful tools for bot development and debugging., 2020-11-22T12:27:57+0000
+/project/atkit/, atkit, 0.1.0, atkit (an Admin Took KIT) provides a suite of tools whose goal is "total knowledge" regarding the python environment and process., 2015-01-20T12:56:52+0000
+/project/pyfdp/, PyFDP, 1.1, FDP (Fast Debug Protocol) : KD client for debugging Windows VM without /DEBUG enabled., 2018-01-29T19:45:41+0000
+/project/reckless/, reckless, 0.3, An exception hook that can keep running code after a top-level exception occurs, 2014-03-09T23:02:40+0000
+/project/functiontrace/, functiontrace, 0.3.4, A profiling tool that traces your application's execution, 2020-11-05T09:22:55+0000
+/project/scriptlogger/, ScriptLogger, 1.0.3, A simple tool that helps with logging info during the process of running a script., 2014-10-29T09:45:25+0000
+/project/rebound-cli/, rebound-cli, 2.1.0, Command-line tool that automatically fetches Stack Overflow results after compiler errors, 2021-01-03T08:46:59+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/coroner/, coroner, 0.2.2, Wraps python invocations in code to do post-mortem debugging and sundry usefulnesses., 2010-10-21T21:13:02+0000
+/project/pdbx/, pdbx, 0.3.0, Remote PDB Debugger Based On PDB, 2013-08-19T03:19:04+0000
+/project/pycallgraph/, pycallgraph, 1.0.1, Python Call Graph is a library and command line tool that visualises the flow of your Python application.  See http://pycallgraph.slowchop.com/ for more information., 2013-09-17T10:27:01+0000
+/project/flask-board/, Flask-Board, 0.2.2, Build base flask app depends on template., 2021-01-07T10:46:11+0000
+/project/aserve/, aserve, 0.0.11, Asynchronously serve APIs, 2016-12-06T17:55:10+0000
+/project/yamllint/, yamllint, 1.26.1, A linter for YAML files., 2021-04-06T14:07:09+0000
+/project/setupjavax/, setupjavax, 0.1.38, Support Java extensions for setuptools / distutils., 2019-12-13T13:46:37+0000
+/project/pylibdebuginfod/, pylibdebuginfod, 0.2, Python bindings for libdebuginfod, 2021-04-08T11:33:52+0000
+/project/pwnscripts/, pwnscripts, 0.6.0, Simple pwntools QoL scripts, 2021-01-11T08:37:56+0000
+/project/gdbundle/, gdbundle, 0.0.4, Plugin Manager for GDB and LLDB, 2020-04-22T05:06:23+0000
+/project/natto/, natto, 0.1.7, Intended as a debug tool, natto returns a representation of python data structures as pretty HTML tables., 2011-07-29T14:07:10+0000
+/project/pstack/, pstack, 0.7.1, Tool to print python thread and greenlet stacks, 2018-03-27T17:48:31+0000
+/project/gdbundle-gdb-dashboard/, gdbundle-gdb-dashboard, 0.11.4.post1, gdbundle plugin for cyrus-and/gdb-dashboard, 2020-04-18T03:16:19+0000
+/project/pynaut/, pynaut, 0.2.13, A tool for recursively exploring arbitrary python objects., 2015-01-21T13:50:38+0000
+/project/rxt-backend-base/, rxt-backend-base, 0.4.0, Base backend for RxTender, 2017-10-18T20:57:41+0000
+/project/lpfics/, lpfics, 0.0.1, LPFICS aims to enable to find ONE infeasible constraint set if a model is considered infeasible once resolved, 2021-01-05T21:56:21+0000
+/project/wallclock/, wallclock, 1.0, A simple stack-based performance logger, 2012-05-28T14:51:29+0000
+/project/pwntools/, pwntools, 4.4.0, Pwntools CTF framework and exploit development library., 2021-03-29T10:34:24+0000
+/project/python-telegram-handler-proxy/, python-telegram-handler-proxy, 1.0.2, Fork a python logging handler that sends logs via Telegram Bot Api with proxy, 2018-04-16T16:56:22+0000
+/project/darkon/, darkon, 0.0.6, Performance hacking for your deep learning models, 2018-01-19T07:34:30+0000
+/project/django-dowser/, django-dowser, 0.1.8, Django fork of amazing memory leaks tracking application for python wsgi - the Dowser, 2019-03-04T00:11:28+0000
+/project/mufsim/, MufSim, 1.2.2, Muf language simulator and debugger., 2017-11-15T10:47:29+0000
+/project/logger-tt/, logger-tt, 1.5.2, Make logging simple, log even exception that you forgot to catch. Make multiprocessing logging becomes a breeze, 2020-11-09T07:31:21+0000
+/project/pdbsublimetextsupport/, PdbSublimeTextSupport, 0.2, Display source code in Sublime Text 2 while debugging with pdb., 2011-08-09T01:45:23+0000
+/project/pm-py/, pm.py, 2.0b4, Post-mortem debugging for Python programs, 2018-02-27T18:18:15+0000
+/project/xasm/, xasm, 1.1.1, Python cross-version byte-code assembler, 2020-10-27T09:17:30+0000
+/project/pyrasite/, pyrasite, 2.0, Inject code into a running Python process, 2012-05-09T17:11:32+0000
+/project/show/, show, 1.6.0, Debug print statements, done right. E.g. show(x), 2017-05-15T20:27:18+0000
+/project/drainhunter/, drainhunter, 0.2, Memory leaks investigation tool, 2011-03-11T15:07:28+0000
+/project/llvm-minusminus-emulator/, llvm-minusminus-emulator, 1.1.0, A simple hacky emulator/debugger for LLVM--, 2017-11-14T23:12:47+0000
+/project/tg-profiler/, tg-profiler, 0.1.5, A TurboGears 1 extension to profile applications in a lightweight manner, focusing on production profiling, 2015-09-10T17:30:47+0000
+/project/awaitwhat/, awaitwhat, 20.3, async/await introspection, 2020-07-16T04:26:54+0000
+/project/bugbuzz/, bugbuzz, 0.1.2, Easy to use web-base online debugger, 2015-06-07T20:33:46+0000
+/project/pybfd/, pybfd, 0.1.1, A Python interface to the GNU Binary File Descriptor (BFD) library., 2013-08-05T15:15:58+0000
+/project/pdbtextmatesupport2/, PdbTextMateSupport2, 0.5, Display source code in TextMate while debugging with pdb., 2010-09-25T01:38:08+0000
+/project/frida-tools/, frida-tools, 9.2.4, Frida CLI tools, 2021-04-15T09:27:23+0000
+/project/gdbfrontend/, gdbfrontend, 0.5.3, GDBFrontend is a easy, flexible and extensionable gui debugger., 2021-02-17T16:36:00+0000
+/project/louistools/, LouisTools, 0.2.0, A very useful tool-set for data/operation/testing engineers, specialized in ETL and finance., 2020-06-16T09:38:38+0000
+/project/reflectivipy/, reflectivipy, 0.1.1, A Python Implementation of the Reflectivity API from the Pharo language, 2019-06-07T21:33:20+0000
+/project/django-debug-toolbar-http-client/, django-debug-toolbar-http-client, 0.94, A django-debug-toolbar panel that shows you http client request record, 2017-07-04T07:05:42+0000
+/project/moesifwsgi/, moesifwsgi, 1.3.3, Moesif Middleware for Python WSGI based platforms (Flask, Bottle & Others), 2021-03-19T18:33:18+0000
+/project/guppy3/, guppy3, 3.1.0, Guppy 3 -- Guppy-PE ported to Python 3, 2020-10-10T23:20:18+0000
+/project/davis/, davis, 0.3, Python Data Visualizer, 2018-02-11T08:45:24+0000
+/project/wdb-server-aiohttp/, wdb.server.aiohttp, 1.0.0, An improbable web debugger through WebSockets (server), 2020-11-26T13:08:45+0000
+/project/winappdbg/, winappdbg, 1.5, Windows application debugging engine, 2013-12-20T12:55:54+0000
+/project/stapsdt/, stapsdt, 0.1.1, Create USDT probes and instrument your Python application dynamically, 2017-10-17T18:49:05+0000
+/project/pytrace/, pytrace, 0.2.4, pytrace is a fast python tracer. pytrace records function calls, arguments and return values. traces aid debugging, profiling and obviate logging., 2016-04-18T10:25:37+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/u1db/, u1db, 0.1.4, Simple syncable document storage, 2012-09-26T17:43:51+0000
+/project/sisaptoolsdev/, sisaptoolsDev, 0.0.19, Eines per debugejar sisaptools (random-Stubs), 2021-01-11T12:35:44+0000
+/project/pyocd-pemicro/, pyocd-pemicro, 1.0.4, PyOCD debug probe plugin for PEMicro debug probes, 2021-04-10T19:09:58+0000
+/project/labeless/, labeless, 1.1.3.0, Labels/Comments synchronization between IDA PRO and dbg backend (OllyDbg1.10, OllyDbg 2.01, x64dbg) , Remote memory dumping tool (including x64-bit), Python scripting tool, 2019-09-03T10:37:50+0000
+/project/thonnyapp/, thonnyapp, 0.9.1, Launcher for Thonny (Python IDE for beginners), 2016-04-01T14:20:30+0000
+/project/ipdb/, ipdb, 0.13.7, IPython-enabled pdb, 2021-03-16T09:49:50+0000
+/project/pdb-clone/, pdb-clone, 1.10.1, A clone of pdb, fast and with the remote debugging and attach features., 2018-04-04T22:41:09+0000
+/project/explainer/, explainer, 0.0.2dev, The first unified explainability toolkit for explainable software and hardware systems., 2019-01-24T23:56:17+0000
+/project/skyline-cli/, skyline-cli, 0.5.0, Interactive in-editor performance profiling, visualization, and debugging for PyTorch neural networks., 2020-07-23T02:52:32+0000
+/project/gdbundle-voltron/, gdbundle-voltron, 0.1.7.post2, gdbundle plugin for snare/voltron, 2020-04-15T01:23:33+0000
+/project/trepanxpy/, trepanxpy, 1.0.3, GDB-like Debugger for x-python in the Trepan family, 2020-06-28T21:45:56+0000
+/project/moesif-aws-lambda/, moesif-aws-lambda, 1.0.7, Moesif Middleware to automatically log API calls from AWS Lambda functions, 2020-02-24T07:36:12+0000
+/project/traceback-with-variables/, traceback-with-variables, 2.0.1, Adds variables to python traceback. Simple, lightweight, controllable. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame in a stacktrace, showing every value. Dump locals environments after errors to console, files, and loggers. Works with Jupiter and IPython., 2021-01-05T13:28:03+0000
+/project/rxtender/, rxtender, 0.4.0, Reactive streams IPC and RPC code generator, 2017-09-08T20:43:40+0000
+/project/pyinstrument1/, pyinstrument1, 3.1.3, Call stack profiler for Python. Shows you why your code is slow!, 2020-06-30T14:16:35+0000
+/project/breakword/, breakword, 0.3.1, Mixing breakpoints with print debugging., 2020-11-02T17:10:28+0000
+/project/httpdebug/, httpdebug, 30, Curl based http downloader with debug information, 2016-06-21T12:58:58+0000
+/project/pytest-ipdb/, pytest-ipdb, 0.1-prerelease2, A py.test plug-in to enable drop to ipdb debugger on test failure., 2014-09-02T21:03:24+0000
+/project/django-debugtools/, django-debugtools, 1.8, A toolbox of small utilities to assist Django development, 2020-03-15T13:30:38+0000
+/project/django-template-check/, django-template-check, 0.4.0, Perform (minimal) syntax checks for Django templates., 2020-10-02T17:46:39+0000
+/project/sortlog/, sortlog, 1.0.0, Command Line tool to sort log files based on time, 2020-02-23T22:40:38+0000
+/project/ipdb-breakpoint/, ipdb-breakpoint, 0.1.dev1, Use ipdb as default when running `breakpoint()`., 2018-01-22T11:51:09+0000
+/project/dbug/, dbug, 1.2, Print tools for debuging, 2019-07-22T13:47:33+0000
+/project/pinguino/, pinguino, 12.0.40, Open Hardware Electronics Prototyping Platform, Open Source Integrated Development Environment (IDE), 2017-11-15T21:24:06+0000
+/project/isystem-connect/, isystem.connect, 9.21.9.0, isystem.connect for Python, 2021-04-19T06:19:49+0000
+/project/jnitrace/, jnitrace, 3.2.1, A tool for tracing use of the JNI in Android apps, 2021-02-27T16:01:31+0000
+/project/pyqbdi/, PyQBDI, 0.8.0, Python binding for QBDI, 2021-02-11T15:27:08+0000
+/project/pugdebug/, pugdebug, 1.1.1, A standalone debugging client for PHP applications, 2021-03-11T14:28:36+0000
+/project/aioyagmail/, aioyagmail, 0.0.4, Yet Another GMAIL client, using AsyncIO, 2018-06-27T20:10:21+0000
+/project/rowgenerators/, rowgenerators, 0.9.19, Generate row data from a variety of file formats, 2021-03-04T20:55:02+0000
+/project/siginfo/, siginfo, 0.9, A Python package to help debugging and monitoring python script, 2020-06-28T18:11:13+0000
+/project/pylint/, pylint, 2.8.1, python code static checker, 2021-04-25T10:05:42+0000
+/project/overwatch/, overwatch, 2.0.0, Overwatch: Python Logging Browser., 2014-12-08T17:23:35+0000
+/project/winpdb/, winpdb, 1.4.9.2, A backward compatibility package to the official winpdb-reborn, a platform independent GPL Python debugger., 2020-08-26T06:09:07+0000
+/project/cant/, cant, 0.0, Can't Remember!, 2016-02-15T22:44:56+0000
+/project/trio-inspector/, trio-inspector, 0.0.3, A browser-based monitor for Trio, 2019-03-15T08:01:30+0000
+/project/mincli/, mincli, 0.2.1, A minimalistic CLI wrapper out to be the best, 2020-02-18T23:03:52+0000
+/project/primer-kit/, primer-kit, 0.1.1a0, Primer is a lightweight toolbox for debugging and benchmarking Python code., 2020-03-03T20:07:34+0000
+/project/botfly/, botfly, 0.8.0, Alternative Python debugger using prompt-toolkit., 2019-12-02T02:16:41+0000
+/project/pyvalid/, pyvalid, 1.0.4, The module, which allows easily validate function's input/output values., 2020-10-13T05:54:10+0000
+/project/edkit-server/, edkit-server, 0.3.1, edkit server package for local usage, 2017-01-18T21:27:58+0000
+/project/gdb-tools/, gdb-tools, 1.3, Various tools to improve the gdb experience, 2019-08-04T12:44:59+0000
+/project/sky/, sky, 0.0.201, AI powered scraping in Python 3, 2018-09-01T22:08:00+0000
+/project/pygdb/, pygdb, 0.1.0.post2, Python extension for the GNU project debugger (GDB), 2020-03-06T14:31:26+0000
+/project/pystack-debugger/, pystack-debugger, 0.9.0, Tool to print python thread and greenlet stacks, 2018-12-20T05:31:35+0000
+/project/password-gen/, password_gen, 0.2.17, Generates strong memorable passwords., 2018-05-29T07:05:25+0000
+/project/tgfirebuglite/, TGFirebugLite, 1.0b, A TurboGears widgets wrapper for the Firebug Lite JavaScript Library., 2006-12-20T13:34:33+0000
+/project/xtrace/, xtrace, 0.5, Indented function trace in Xdebug format, 2014-02-17T15:19:23+0000
+/project/fireflask/, fireflask, 0.2.0, Simple, beautiful logging from Flask web apps to FireBug console, 2015-08-17T02:20:11+0000
+/project/process-tracing/, process-tracing, 0.1.0a11, ptrace based process tracing utilities for python, 2017-08-30T11:00:26+0000
+/project/mocka/, mocka, 0.0.8, Mocka mocks APIs, 2016-08-06T01:02:41+0000
+/project/dbi/, dbi, 1.2.5, debugging interface module, 2018-12-13T11:42:04+0000
+/project/pydbgr/, pydbgr, 0.2.6, Modular Python Debugger, 2013-03-24T17:49:22+0000
+/project/pry-py/, pry.py, 0.1.1, Pry ruby-like interactive shell, written in Python, 2018-04-18T12:44:09+0000
+/project/yagmail-outlook/, yagmail-outlook, 0.9.178, A fork of yagmail to solve outlook compatiblity problem, 2017-07-03T01:39:09+0000
+/project/pysnooperdb/, PySnooperDB, 2.0.0, A poor man's debugger for Python., 2020-05-21T14:45:40+0000
+/project/spyobject/, SPyObject, 0.1.23, A debugging tool for analysing Python objects, 2019-12-01T05:24:01+0000
+/project/birdseye/, birdseye, 0.9.0, Graphical Python debugger which lets you easily view the values of all evaluated expressions, 2021-03-23T09:01:07+0000
+/project/products-permissioncomprehensible/, Products.PermissionComprehensible, 0.7, A tool that enables viewing roles and permissions in context., 2012-01-30T13:27:13+0000
+/project/django-auklet/, django-auklet, 0.5.0, Auklet performance monitoring agent for Django apps, 2018-11-26T15:06:02+0000
+/project/livereload/, livereload, 2.6.3, Python LiveReload is an awesome tool for web developers, 2020-08-22T15:31:53+0000
+/project/stack-data/, stack-data, 0.1.0, Extract data from python stack frames and tracebacks for informative displays, 2020-05-31T09:36:06+0000
+/project/pvdb/, pvdb, 0.2.6, Python visual debugger inspired by Philip Guo's Python Tutor, 2017-09-27T10:02:16+0000
+/project/pydevd/, pydevd, 2.4.1, PyDev.Debugger (used in PyDev, PyCharm and VSCode Python), 2021-04-13T10:37:45+0000
+/project/ntrace/, ntrace, 0.0.1, execution tracer that gives more output than trace.py, 2015-03-25T08:12:14+0000
+/project/yamllintelerir/, yamllintelerir, 1.17.14, A linter for YAML files., 2019-08-28T08:16:34+0000
+/project/kaaedit/, kaaedit, 0.53.0, kaa - console text editor., 2016-08-07T16:34:36+0000
+/project/cliche/, cliche, 0.7.46, A minimalistic CLI wrapper out to be the best, 2021-04-15T22:05:29+0000
+/project/trepan3k/, trepan3k, 1.2.4, GDB-like Python Debugger in the Trepan family, 2021-03-15T21:00:42+0000
+/project/mu-editor/, mu-editor, 1.0.3, A simple Python editor for beginner programmers., 2020-01-26T21:42:37+0000
+/project/pycallgraph3/, pycallgraph3, 1.1.4, Python Call Graph is a Python module that creates call graph visualizations for Python applications., 2020-07-21T16:18:09+0000
+/project/debuggingbook/, debuggingbook, 0.9.0, Code for 'The Debugging Book' (https://www.debuggingbook.org/), 2021-03-10T12:20:44+0000
+/project/feedview/, feedview, 0.0.1, View a feed url with `feedview <URL>`, 2017-05-25T17:59:35+0000
+/project/lutils/, lutils, 2.11.74, A Public Loitd Python Utility Library, 2020-08-23T10:03:17+0000
+/project/pyliveupdate/, pyliveupdate, 0.3.1, A tool to manipulate python code at runtime for logging, profiling, debugging, etc., 2020-03-24T07:57:10+0000
+/project/django-debug-toolbar-template-timings/, django-debug-toolbar-template-timings, 0.9, A django-debug-toolbar panel that shows you template rendering times for Django, 2018-02-24T04:13:56+0000
+/project/thglib/, thglib, 0.0.2.dev0, thg exploit framework and exploit development library., 2021-04-26T03:44:36+0000
+/project/nerdvision-serverless/, nerdvision-serverless, 1.2.2a2, The NerdVision Python agent for live debugging, dynamic logging and data monitoring., 2021-04-20T14:33:45+0000
+/project/winpdb-reborn/, winpdb-reborn, 2.0.0.1, A platform independent GPL Python debugger., 2020-08-26T06:06:06+0000
+/project/bprofile/, bprofile, 1.3.4, A wrapper around profile/cProfile, gprof2dot and dot,
+providing a simple context manager for profiling sections
+of Python code and producing visual graphs of profiling results., 2017-05-17T17:19:21+0000
+/project/pydevd-pycharm/, pydevd-pycharm, 211.7142.13, PyCharm Debugger (used in PyCharm and PyDev), 2021-04-22T13:00:09+0000
+/project/loctraceback/, loctraceback, 1.1.1, traceback with more exact location info, 2021-03-27T17:22:43+0000
+/project/python-gdb-ctrl/, python-gdb-ctrl, 1.0.1, A thin layer on top of GDB to control it programatically., 2020-07-28T01:56:09+0000
+/project/wtf/, wtf, 0.1, Post-mortem PDB handler, 2010-10-26T20:12:56+0000
+/project/pttools/, ptTools, 0.1.4, DSL for pattern matching on .py parse trees., 2013-07-31T19:22:52+0000
+/project/django-marcus/, django-marcus, 1.0.5, Bilingual blog on Django, 2020-05-04T00:52:42+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jetson-stats/, jetson-stats, 3.1.0, Interactive system-monitor and process viewer for all NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2], 2021-03-01T15:50:57+0000
+/project/wxdebug/, wxdebug, 0.1, Xdebug viewer : displays PHP profiling output generated by Xdebug 2.x, 2006-05-12T23:59:25+0000
+/project/wdb-server/, wdb.server, 3.3.0, An improbable web debugger through WebSockets (server), 2019-09-16T09:25:33+0000
+/project/profiling/, profiling, 0.1.3, An interactive continuous Python profiler., 2017-06-28T06:10:15+0000
+/project/sidetrack/, sidetrack, 1.4.0, Simple debug tracing package for Python, 2021-03-04T16:30:42+0000
+/project/django-timelimit/, django-timelimit, 0.3, A Django template tag used to enforce render time limits within templates., 2019-06-04T22:36:48+0000
+/project/epdb/, epdb, 0.15.1, Enhanced Python Debugger, 2017-03-31T18:57:07+0000
+/project/rzpipe/, rzpipe, 0.1.0, Pipe interface for rizin, 2021-01-28T22:45:14+0000
+/project/nerdvision/, nerdvision, 1.2.1, The NerdVision Python agent for live debugging, dynamic logging and data monitoring., 2021-04-01T14:01:55+0000
+/project/django-projectname/, django-projectname, 1.0.0, django projectname, 2014-05-04T19:07:03+0000
+/project/gdbplotlib/, gdbplotlib, 0.2.0, Plotting and exporting of variables from GDB, 2020-07-20T21:29:20+0000
+/project/libspl/, libspl, 0.2.0, Python utility library for the SPLIWACA project, 2020-03-17T18:39:47+0000
+/project/zipunicode/, ZipUnicode, 1.0.0, Fix unreadable file names when extracting zip file, 2020-05-30T04:08:50+0000
+/project/mio-lang/, mio-lang, 0.1.8, A Toy Programming Language written in Python, 2013-12-24T05:52:50+0000
+/project/products-purgemissingobjectinterfaces/, Products.PurgeMissingObjectInterfaces, 1.0.4a, A product for purging old and missing marker interfaces from objects, 2012-03-16T08:18:39+0000
+/project/pyparsing-helper/, pyparsing_helper, 0.1.2, GUI assistant for pyparsing, 2009-01-14T19:39:32+0000
+/project/pydia/, pydia, 1.0, Microsoft DIA (Debug Interface Access) Wrapper Module, 2008-05-16T18:06:04+0000
+/project/ptvsd/, ptvsd, 4.3.2, Remote debugging server for Python support in Visual Studio and Visual Studio Code, 2019-08-13T20:08:09+0000
+/project/cysignals/, cysignals, 1.10.3, Interrupt and signal handling for Cython, 2021-03-16T13:58:34+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/rpdb/, rpdb, 0.1.6, pdb wrapper with remote access via tcp socket, 2016-01-05T22:24:37+0000
+/project/visdebug/, visdebug, 0.0.1, Visual utils for debugging, 2014-12-28T05:34:25+0000
+/project/placer/, placer, 0.0.7, Let's draw on /r/place!, 2017-04-03T12:35:03+0000
+/project/pdbbbeditsupport/, PdbBBEditSupport, 1.0.1, Display source code in BBEdit while debugging in pdb, 2012-05-24T02:36:05+0000
+/project/debugpy/, debugpy, 1.2.1, An implementation of the Debug Adapter Protocol for Python, 2020-12-14T20:14:03+0000
+/project/faulthandler/, faulthandler, 3.2, Display the Python traceback on a crash, 2020-01-27T08:44:36+0000
+/project/pylg/, PyLg, 1.3.3, Python module to facilitate and automate the process of writing runtime logs., 2019-07-30T11:44:44+0000
+/project/comtool/, COMTool, 1.7.9, Cross platform serial debug assistant with GUI, 2019-06-27T02:48:38+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/cproto/, cproto, 0.7.2, Chrome Debugging Protocol client, 2019-10-11T09:42:41+0000
+/project/sp-django-profiler/, sp-django-profiler, 1.0.0, Tools for profiling of code and Django queries, 2020-10-16T11:31:42+0000
+/project/drgn/, drgn, 0.0.11, Scriptable debugger library, 2021-04-03T09:04:31+0000
+/project/eww/, eww, 1.0.0, A pretty nifty debugger., 2014-09-01T22:22:56+0000
+/project/py3k-extension/, py3k_extension, 20081023, extension module backporting opcodes from python3k, 2008-10-23T18:32:51+0000
+/project/jccjmx/, jccjmx, 0.1, Java Management Extension (JMX) wrapper for JCC, 2012-05-07T14:09:42+0000
+/project/django-ponydebugger/, django-ponydebugger, 0.0.3, PonyDebugger support for Django, 2013-03-19T23:43:03+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/headercount/, headercount, 1.0.0, Count directly and indirectly included headers in a C/C++ project, 2017-11-29T22:05:13+0000
+/project/pyspresso/, pyspresso, 0.1, Python-based framework for debugging Java, 2016-06-14T21:57:30+0000
+/project/tox-ipdb-plugin/, tox-ipdb-plugin, 0.1, Tox plugin which installs ipdb in tox environments., 2020-02-26T10:39:26+0000
+/project/extended-yamllint/, extended-yamllint, 0.3, A linter for YAML files., 2017-01-19T09:28:13+0000
+/project/frida/, frida, 14.2.16, Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers, 2021-04-21T19:50:45+0000
+/project/ddtrace-graphql/, ddtrace-graphql, 0.2.0, Python library for tracing graphql calls with Datadog, 2019-06-21T19:28:21+0000
+/project/py-pal/, py-pal, 1.0.2, Estimate Asymptotic Runtime Complexity from Bytecode executions, 2021-04-12T12:24:46+0000
+/project/ikp3db/, ikp3db, 1.4.1, A hackable CPython 3.6+ remote debugger designed for the Web and online IDE integration. Fork of IKPdb., 2019-09-28T08:12:08+0000
+/project/pydump/, pydump, 1.2.0, Post-mortem debugging for Python programs, 2018-11-20T05:24:26+0000
+/project/aigoo/, aigoo, 0.0.2, Compiler error solution, 2020-05-31T15:11:02+0000
+/project/refcycle/, refcycle, 0.2.1, Find and visualise reference cycles between Python objects., 2017-06-27T20:06:35+0000
+/project/dbg2py/, dbg2py, 1.05a, PDB-like Client/Server Debugger (using multiprocessing), 2016-04-07T16:53:14+0000
+/project/tekek/, tekek, 0.2.6, An Asynchronous Remote and Local Debugging Tools, 2020-10-24T21:38:59+0000
+/project/pptop/, pptop, 0.6.11, Open, extensible Python injector/profiler/analyzer, 2020-12-24T22:37:31+0000
+/project/nostalgia/, nostalgia, 0.1.67, nostalgia enables to self-track and gain insights into your life, 2020-03-08T22:04:17+0000
+/project/codebook/, codebook, 1.2.2, Emacs minor mode for generating and interacting with jupyter notebooks, 2018-07-24T15:20:54+0000
+/project/semi-ate-stil/, Semi-ATE-STIL, 0.0.1, Standard Tester Interface Library [IEEE1450] with python, 2021-02-19T19:20:05+0000
+/project/pyhoe/, pyhoe, 0.0.1a5, A project skeleton generator., 2012-02-18T17:48:21+0000
+/project/catsass/, CatsAss, 1.1.3, Seriously the cats ass. Seriously., 2017-04-29T21:09:52+0000
+/project/rpcpdb/, rpcpdb, 0.4.5, Debug support for RPC servers, 2016-06-27T21:24:58+0000
+/project/pdbi/, pdbi, 0.1, Improved IPython-enabled pdb, 2016-01-01T14:51:54+0000
+/project/moesifapi/, moesifapi, 1.3.3, Moesif API Lib for Python, 2021-02-17T05:33:31+0000
+/project/blackmagic/, blackmagic, 0.0.2, A Python black magic library., 2017-08-13T01:22:48+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/imgtec-codescape/, imgtec.codescape, 8.6.5a1513346799, Codescape scripting interface, 2017-12-20T12:44:17+0000
+/project/pycallgraph2/, pycallgraph2, 1.1.3, Python Call Graph is a Python module that creates call graph visualizations for Python applications., 2019-07-01T20:03:19+0000
+/project/crtime/, crtime, 0.0.6, crtime: get creation time of files for any platform and no external dependencies., 2019-03-19T20:31:37+0000
+/project/vardbg/, vardbg, 0.11.7, A simple Python debugger and profiler that generates animated visualizations of program flow., 2020-02-04T05:55:15+0000
+/project/thonny/, thonny, 3.3.6, Python IDE for beginners, 2021-03-06T10:36:27+0000
+/project/rainbow-logging-handler/, rainbow_logging_handler, 2.2.2, Ultimate Python colorized logger with user-custom color, 2014-08-06T23:43:19+0000
+/project/gittyleaks/, gittyleaks, 0.0.31, Discover where your sensitive data has been leaked., 2020-02-27T18:31:37+0000
+/project/mem-edit/, mem-edit, 0.6, Multi-platform library for memory editing, 2021-04-09T02:51:36+0000
+/project/k0emu/, k0emu, 1.0.0, Renesas (NEC) 78K0 emulator, 2020-02-15T22:37:34+0000
+/project/pyconsole-util/, pyconsole-util, 1.0.1, A set of functions that print to the console in different formats for debugging, exploring, or printing nicely, 2019-01-14T05:20:16+0000
+/project/membug/, membug, 0.1, Small set of memory debugging tools, 2014-05-16T16:09:10+0000
+/project/mathinspector/, mathinspector, 0.9.3.post0, A visual programing environment for scientific computing with Python, 2021-02-23T17:29:31+0000
+/project/gittraffic/, gittraffic, 0.0.6, Follow your git traffic per package in a github repo, 2015-10-29T18:23:06+0000
+/project/hunter/, hunter, 3.3.2, Hunter is a flexible code tracing toolkit., 2021-03-26T01:29:45+0000
+/project/undname/, undname, 0.1.1, CFFI wrapper for wine undname module, 2018-05-02T17:15:14+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/sterm/, sterm, 6.0.1, A minimal serial / UART command line terminal that focus on being easy to use., 2020-03-07T08:16:58+0000
+/project/pdbme/, pdbme, 0.0.1, remote pdb which connects to developer, 2019-06-17T11:48:42+0000
+/project/pyheapdump/, pyheapdump, 0.2.8, Post-mortem debugging for Python programs, 2016-08-01T17:06:01+0000
+/project/ppretty/, ppretty, 1.3, Convert python objects to a human readable format, 2019-03-26T13:06:42+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/yagmail/, yagmail, 0.14.247, Yet Another GMAIL client, 2021-03-31T13:01:45+0000
+/project/sclogger/, sclogger, 1.1.41, simple colorized logger, 2017-05-09T19:17:06+0000
+/project/comparerr/, comparerr, 0.2.0, Comparerr is a tool which which analyzes two versions of python software versioned by git with pylint and shows you errors which you added and fixed., 2019-09-17T07:11:59+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/pdbtextmatesupport/, PdbTextMateSupport, 0.3, Display source code in TextMate while debugging with pdb., 2007-02-18T10:19:42+0000
+/project/tok/, tok, 0.1.14, Fast and customizable tokenizer, 2019-07-09T18:48:26+0000
+/project/mu-sb/, mu-sb, 0.0.1, Mu supporting Studuino:bit, 2019-06-28T02:41:15+0000
+/project/wsgiprofile/, WSGIProfile, 0.1dev, WSGI Middleware for embedding a rich profiler in web pages., 2008-09-15T10:12:46+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/otrace/, otrace, 0.30.9, An object-oriented python debugger for nonlinear tracing, 2012-08-27T02:15:52+0000
+/project/django-sql-stacktrace/, django-sql-stacktrace, 0.3.1, Pluggable application, which puts a python stack trace in the SQL query as a comment (useful for debugging), 2015-09-15T09:42:07+0000
+/project/pylint-runner/, pylint-runner, 0.6.0, Run pylint recursively on all py files in current and sub-directories, 2020-06-04T03:17:31+0000
+/project/colour-valgrind/, colour-valgrind, 0.3.9, Wraps Valgrind to colour the output., 2018-08-03T22:14:33+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/mu-sb/, mu-sb, 0.0.1, Mu supporting Studuino:bit, 2019-06-28T02:41:15+0000
+/project/wsgiprofile/, WSGIProfile, 0.1dev, WSGI Middleware for embedding a rich profiler in web pages., 2008-09-15T10:12:46+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/otrace/, otrace, 0.30.9, An object-oriented python debugger for nonlinear tracing, 2012-08-27T02:15:52+0000
+/project/django-sql-stacktrace/, django-sql-stacktrace, 0.3.1, Pluggable application, which puts a python stack trace in the SQL query as a comment (useful for debugging), 2015-09-15T09:42:07+0000
+/project/pylint-runner/, pylint-runner, 0.6.0, Run pylint recursively on all py files in current and sub-directories, 2020-06-04T03:17:31+0000
+/project/slack-pdb/, slack-pdb, 2.0.4, Collaboratively debug your Python application in Slack, 2017-06-07T21:14:11+0000
+/project/qtarmsim/, qtarmsim, 0.5.3, Easy to use graphical ARM simulator, 2020-11-06T22:00:03+0000
+/project/dogslow/, dogslow, 1.2, A Django middleware that logs tracebacks of slow requests., 2018-01-04T20:28:03+0000
+/project/py65/, py65, 1.1.0, 6502 microprocessor simulation package, 2018-07-01T21:17:43+0000
+/project/pyrasite-gui/, pyrasite-gui, 2.0beta7, A graphical interface for interacting with running Python processes, 2012-03-20T21:41:05+0000
+/project/meliae/, meliae, 0.5.1, Python Memory Usage Analyzer, 2020-05-05T12:49:02+0000
+/project/ansible-playbook-debugger/, ansible-playbook-debugger, 0.2.4, Debugger for Ansible Playbook, 2016-03-19T02:37:43+0000
+/project/pylint-import-requirements/, pylint-import-requirements, 2.0.5, A pylint plugin to check that all imports have matching requirements specified, 2020-08-31T18:09:21+0000
+/project/imgtec-codescape/, imgtec.codescape, 8.6.5a1513346799, Codescape scripting interface, 2017-12-20T12:44:17+0000
+/project/pytest-trepan/, pytest-trepan, 2.0.0, Pytest plugin for trepan debugger., 2018-07-28T20:27:46+0000
+/project/tokentracer/, tokenTracer, 0.0.1, Keycloak token endpoint packet sniffer for HTTP request/response authentication tokens, 2017-12-22T02:37:19+0000
+/project/python-gdb-mi/, python-gdb-mi, 2.0.1, A parser for GDB Machine Interface (MI) events., 2020-07-28T01:50:39+0000
+/project/pdbeditorsupport/, PdbEditorSupport, 0.4.0, Display source code in your editor while debugging with pdb., 2018-07-31T10:14:02+0000
+/project/pdbpp/, pdbpp, 0.10.2, pdb++, a drop-in replacement for pdb, 2019-10-04T12:04:09+0000
+/project/rfc-reader/, rfc_reader, 1.0, Consult download and search through IETF RFC documents from your terminal, 2016-06-14T21:12:51+0000
+/project/unidump/, unidump, 1.1.2, hexdump for your unicode data, 2017-03-19T19:48:26+0000
+/project/appmap/, appmap, 0.8.0, Create AppMap files by recording a Python application., 2021-04-04T20:34:13+0000
+/project/pytest-vscodedebug/, pytest-vscodedebug, 0.1.0, A pytest plugin to easily enable debugging tests within Visual Studio Code, 2020-12-04T22:38:40+0000
+/project/snoop/, snoop, 0.3.0, Powerful debugging tools for Python, 2021-03-26T18:41:23+0000
+/project/proxy-py/, proxy.py, 2.3.1, ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception capable proxy server focused on Network monitoring, controls & Application development, testing, debugging., 2021-01-10T16:59:31+0000
+/project/robotframework-lsp/, robotframework-lsp, 0.14.0, Language Server Protocol implementation for Robot Framework, 2021-04-14T17:28:08+0000
+/project/great-justice/, great-justice, 2012.7.0, Debug every ZIG, 2012-07-13T10:29:48+0000
+/project/pysnooper-g/, PySnooper-g, 0.1.0, A poor man's debugger for Python., 2019-04-26T06:49:59+0000
+/project/auklet/, auklet, 1.0.1, Auklet performance monitoring agent for Python IoT apps, 2018-10-16T16:57:14+0000
+/project/lode/, lode, 0.3.0, Tiny and minimalistic logging utility, 2014-09-21T15:19:53+0000
+/project/dwex/, dwex, 1.11, GUI viewer for DWARF debug information, 2021-02-15T22:14:59+0000
+/project/python-telegram-handler/, python-telegram-handler, 2.2, A python logging handler that sends logs via Telegram Bot Api., 2019-08-19T14:59:43+0000
+/project/pyocd/, pyocd, 0.30.3, Cortex-M debugger for Python, 2021-03-31T18:32:59+0000
+/project/tinycalltrace/, tinycalltrace, 1.0.2, Simple call tree graph generator suitable for viewing with vim fold, 2018-06-16T07:49:59+0000
+/project/brython-dev/, brython-dev, 0.4.2, Brython developer tools, 2021-03-16T23:19:09+0000
+/project/cpyvke/, cpyvke, 1.2.10, A Kernel and variable explorer in Curses, 2020-10-15T16:39:16+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/django-profiler/, django-profiler, 2.0.0, util for profiling python code mainly in django projects, but can be used also on ordinary python code, 2013-09-11T10:24:06+0000
+/project/ikpdb/, ikpdb, 1.2.3, A hackable CPython remote debugger designed for the Web and online IDE integration., 2018-03-09T06:19:50+0000
+/project/space-tracer/, space-tracer, 4.4.0, Trade time for space when debugging your code., 2021-04-13T02:02:00+0000
+/project/yasdu/, yasdu, 1.0.0, Yet another stack/session dumper utility, 2020-09-21T14:13:36+0000
+/project/moesifpythonrequest/, moesifpythonrequest, 0.2.0, Moesif Python request, 2019-12-20T20:54:42+0000
+/project/kirahhe/, kirahhe, 0.2, Startup process catcher, 2018-09-10T12:21:37+0000
+/project/flask-wdb/, Flask-Wdb, 0.0.2, Integrate Wdb instead of Werkzeug debugger for Flask applications, 2013-06-30T02:53:10+0000
+/project/sigdebug/, sigdebug, 0.1, Debug helpers responding to signals, 2011-09-25T02:08:39+0000
+/project/sysdm/, sysdm, 0.8.58, Scripts as a service. Builds on systemd., 2021-03-05T15:40:20+0000
+/project/pudb/, pudb, 2020.1, A full-screen, console-based Python debugger, 2020-12-21T04:20:59+0000
+/project/dbg/, dbg, 1.5.2, PDB-like Client/Server Debugger (using multiprocessing), 2016-06-05T22:55:38+0000
+/project/pybfd3/, pybfd3, 0.1.5, A Python (3.x compatible) interface to the GNU Binary File Descriptor (BFD) and opcodes library., 2020-09-09T11:02:52+0000
+/project/autostack/, autostack, 1.2.1, Automatically detect python errors and search Stack Overflow., 2020-04-12T02:12:46+0000
+/project/access-points/, access_points, 0.4.66, Scan your WiFi and get access point information and signal quality., 2019-09-08T22:32:03+0000
+/project/perfcounters/, perfcounters, 2.1.0, Easily add performance counters to your code, 2020-03-28T20:29:46+0000
+/project/dot-access/, dot_access, 0.0.1, Makes nested python objects easy to go through, 2017-09-22T21:09:59+0000
+/project/pdbtest/, pdbtest, 1.5, A unittest shim to make PDB debugging of test cases easy., 2019-03-14T01:17:32+0000
+/project/stxnext-pdb/, stxnext.pdb, 0.2.1, This is extended Python Debugger (pdb). It offers few very useful features that helps in debugging, especially zope2/zope3/plone instances., 2009-05-07T13:52:55+0000
+/project/ipdbx/, ipdbx, 1.0.4, IPython-enabled pdb with extra functionality and customisation, 2021-02-07T15:36:54+0000
+/project/genesis/, genesis, 0.0.0, AI based Genetic algorithm for data migration, 2018-05-23T23:11:16+0000
+/project/tinycalltrace/, tinycalltrace, 1.0.2, Simple call tree graph generator suitable for viewing with vim fold, 2018-06-16T07:49:59+0000
+/project/wingdbg/, WingDBG, 6.0.9, Zope2 to WingIDE debugging driver, 2018-03-27T09:30:33+0000
+/project/pyramid-pycallgraph/, pyramid_pycallgraph, 0.1.0, Pyramid tween to generate a callgraph image for every request, 2015-12-21T11:44:24+0000
+/project/pyringe/, pyringe, 1.0.2, Python debugger capable of attaching to processes, 2014-05-09T15:13:44+0000
+/project/moesifdjango/, moesifdjango, 2.0.3, Moesif Middleware for Python Django, 2021-03-31T01:50:42+0000
+/project/qwerty/, qwerty, 1.2.1, debugging interface module, 2018-12-10T09:04:04+0000
+/project/pysnooper/, PySnooper, 0.4.3, A poor man's debugger for Python., 2021-02-27T09:15:15+0000
+/project/uncompyle6/, uncompyle6, 3.7.4, Python cross-version byte-code decompiler, 2020-09-05T10:14:37+0000
+/project/xdis/, xdis, 5.0.9, Python cross-version byte-code disassembler and marshal routines, 2021-04-17T00:07:21+0000
+/project/rafi-mx/, rafi.mx, 0.2.18, Workspace/project-oriented tmux/git personal assistant., 2016-07-15T16:44:35+0000
+/project/pyxdebug/, pyxdebug, 1.2.5, PyXdebug is Xdebug format debugger for Python, 2011-11-30T10:55:46+0000
+/project/brython-dev/, brython-dev, 0.4.2, Brython developer tools, 2021-03-16T23:19:09+0000
+/project/cpyvke/, cpyvke, 1.2.10, A Kernel and variable explorer in Curses, 2020-10-15T16:39:16+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/django-profiler/, django-profiler, 2.0.0, util for profiling python code mainly in django projects, but can be used also on ordinary python code, 2013-09-11T10:24:06+0000
+/project/ikpdb/, ikpdb, 1.2.3, A hackable CPython remote debugger designed for the Web and online IDE integration., 2018-03-09T06:19:50+0000
+/project/space-tracer/, space-tracer, 4.4.0, Trade time for space when debugging your code., 2021-04-13T02:02:00+0000
+/project/yasdu/, yasdu, 1.0.0, Yet another stack/session dumper utility, 2020-09-21T14:13:36+0000
+/project/moesifpythonrequest/, moesifpythonrequest, 0.2.0, Moesif Python request, 2019-12-20T20:54:42+0000
+/project/kirahhe/, kirahhe, 0.2, Startup process catcher, 2018-09-10T12:21:37+0000
+/project/flask-wdb/, Flask-Wdb, 0.0.2, Integrate Wdb instead of Werkzeug debugger for Flask applications, 2013-06-30T02:53:10+0000
+/project/crlint/, crlint, 0.1.2, The project copyright linter, 2019-07-01T14:58:21+0000
+/project/manhole/, manhole, 1.8.0, Manhole is in-process service that will accept unix domain socket connections and present the, 2021-04-08T20:14:54+0000
+/project/mongoql-conv/, mongoql-conv, 0.4.1, Library to convert those MongoDB queries to something else, like a python expresion, a function or a Django Q object tree to be used with a ORM query., 2014-06-01T17:26:58+0000
+/project/discord-gui/, discord.gui, 1.0.2, A discord.py extension providing a GUI interface to monitor the bot and modify command settings, 2019-04-18T21:48:23+0000
+/project/nose-pudb/, nose-pudb, 1.0, A nose plugin for dropping into pudb on test errors or failures., 2014-06-29T10:27:16+0000
+/project/vimpdb/, vimpdb, 0.4.5, Vim and Pdb integration, 2011-04-27T23:30:53+0000
+/project/tbgrep/, tbgrep, 0.3.0, Extract Python Tracebacks from text, 2015-01-30T20:41:47+0000
+/project/tripod/, tripod, 0.1, A module that samples running scripts, logging tracebacks., 2012-08-29T19:29:53+0000
+/project/localproxy/, localproxy, 0.0.3, HTTP proxy server in twisted. If there is a directory with same name as target host (e.g.: www.example.com), contents of the directory are returned instead of making a request to the target host., 2015-01-11T01:27:23+0000
+/project/pytest-trepan/, pytest-trepan, 2.0.0, Pytest plugin for trepan debugger., 2018-07-28T20:27:46+0000
+/project/tokentracer/, tokenTracer, 0.0.1, Keycloak token endpoint packet sniffer for HTTP request/response authentication tokens, 2017-12-22T02:37:19+0000
+/project/python-gdb-mi/, python-gdb-mi, 2.0.1, A parser for GDB Machine Interface (MI) events., 2020-07-28T01:50:39+0000
+/project/scalene/, scalene, 1.3.2, Scalene: A high-resolution, low-overhead CPU, GPU, and memory profiler for Python, 2021-04-09T01:26:28+0000
+/project/web-pdb/, web-pdb, 1.5.6, Web interface for Python's built-in PDB debugger, 2020-12-31T09:23:03+0000
+/project/pdbeditorsupport/, PdbEditorSupport, 0.4.0, Display source code in your editor while debugging with pdb., 2018-07-31T10:14:02+0000
+/project/pdbpp/, pdbpp, 0.10.2, pdb++, a drop-in replacement for pdb, 2019-10-04T12:04:09+0000
+/project/xdb/, xdb, 0.0.0, One database API to use them all, 2016-01-04T19:07:03+0000
+/project/rfc-reader/, rfc_reader, 1.0, Consult download and search through IETF RFC documents from your terminal, 2016-06-14T21:12:51+0000
+/project/unidump/, unidump, 1.1.2, hexdump for your unicode data, 2017-03-19T19:48:26+0000
+/project/appmap/, appmap, 0.8.0, Create AppMap files by recording a Python application., 2021-04-04T20:34:13+0000
+/project/pytest-vscodedebug/, pytest-vscodedebug, 0.1.0, A pytest plugin to easily enable debugging tests within Visual Studio Code, 2020-12-04T22:38:40+0000
+/project/snoop/, snoop, 0.3.0, Powerful debugging tools for Python, 2021-03-26T18:41:23+0000
+/project/proxy-py/, proxy.py, 2.3.1, ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception capable proxy server focused on Network monitoring, controls & Application development, testing, debugging., 2021-01-10T16:59:31+0000
+/project/robotframework-lsp/, robotframework-lsp, 0.14.0, Language Server Protocol implementation for Robot Framework, 2021-04-14T17:28:08+0000
+/project/great-justice/, great-justice, 2012.7.0, Debug every ZIG, 2012-07-13T10:29:48+0000
+/project/pysnooper-g/, PySnooper-g, 0.1.0, A poor man's debugger for Python., 2019-04-26T06:49:59+0000
+/project/rlpython/, rlpython, 0.6.1, GNU Readline based Python REPL without any external dependencies, 2021-04-26T07:29:09+0000

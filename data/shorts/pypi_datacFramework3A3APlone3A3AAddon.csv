@@ -1,0 +1,252 @@
+/project/collective-volto-subsites/, collective.volto.subsites, 1.0.0, Add Subsite content-type for Volto, 2020-12-15T10:25:12+0000
+/project/collective-fhirpath/, collective.fhirpath, 0.7.5, Plone powered provider for fhirpath, 2020-12-17T15:06:14+0000
+/project/products-easynewsletter/, Products.EasyNewsletter, 5.0.5, Powerful newsletter/mailing addon for Plone, 2021-04-23T05:50:02+0000
+/project/plone-app-multilingualindexes/, plone.app.multilingualindexes, 2.1, Multilingual Catalog Indexes for Plone, 2020-08-04T10:02:17+0000
+/project/collective-nitf/, collective.nitf, 2.1.1, A content type inspired on the IPTC's News Industry Text Format specification., 2021-04-15T14:32:43+0000
+/project/collective-easyformplugin-poll/, collective.easyformplugin.poll, 1.0a1, Poll support for EasyForm, 2020-06-04T22:37:43+0000
+/project/collective-ant/, collective.ant, 3.8, An add-on for Plone, 2020-01-14T11:51:08+0000
+/project/contenttypes-basic/, contenttypes.basic, 1.6.4, Basic content, behaviors, fields and widgets for Plone, 2020-11-11T11:45:16+0000
+/project/kcrw-tinymce-imagedrop/, kcrw.tinymce-imagedrop, 1.0.1, A Plone add-on that adds image drag and drop to TinyMCE 4 in Plone., 2020-11-25T05:02:31+0000
+/project/redturtle-voltoplugin-editablefooter/, redturtle.voltoplugin.editablefooter, 1.0.1, Add-on for Volto to manage four-columns footer, 2021-02-11T13:17:02+0000
+/project/imio-smartweb-core/, imio.smartweb.core, 1.0a3, Core product for iMio websites, 2021-04-23T14:26:50+0000
+/project/collective-contentrules-mailfromfield/, collective.contentrules.mailfromfield, 1.0.1, A Plone content rule for send e-mail to addresses taken from the content, 2021-03-10T13:26:23+0000
+/project/collective-documentviewer/, collective.documentviewer, 6.0.1, Document cloud's document viewer integration into plone., 2021-02-03T10:18:16+0000
+/project/plone-app-tiles/, plone.app.tiles, 3.2.1, Plone UI integration for plone.tiles, 2020-09-26T14:06:50+0000
+/project/collective-volto-dropdownmenu/, collective.volto.dropdownmenu, 1.0.4, Add-on for Volto to manage a dropdown menu., 2020-12-29T15:23:07+0000
+/project/design-plone-contenttypes/, design.plone.contenttypes, 2.0.6, DesignItalia contenty types, 2021-04-16T09:02:12+0000
+/project/collective-contentsync2/, collective.contentsync2, 1.0b3, Content sync between Plone sites, 2020-11-23T20:29:17+0000
+/project/collective-freeze/, collective.freeze, 1.6, An add-on for Plone, 2020-01-14T11:51:11+0000
+/project/collective-collectionfilter/, collective.collectionfilter, 3.4.2, Plone addon for filtering collection results., 2021-02-25T14:20:27+0000
+/project/imio-behavior-teleservices/, imio.behavior.teleservices, 1.0.3, Plone behavior to get (and set) global E-Guichet/Teleservices configuration into a Plone Application. Expose E-Guichet procedures in a select field., 2020-10-28T09:49:36+0000
+/project/eea-sentry/, eea.sentry, 1.4, Zope/Plone Sentry integration, 2019-12-02T12:43:08+0000
+/project/collective-gnd/, collective.gnd, 1.1, Plone addon which provides a GND resolver and a BEACON API., 2019-12-09T10:46:11+0000
+/project/souper-plone/, souper.plone, 1.3.1, Plone Souper Integration: Container for many lightweight queryable Records, 2021-02-13T15:30:45+0000
+/project/eea-progress-workflow/, eea.progress.workflow, 2.0, Workflow progress RestAPI, 2020-12-04T12:42:01+0000
+/project/design-plone-policy/, design.plone.policy, 1.1.0, Pacchetto per creare un sito Agid su Plone, 2021-03-24T11:02:51+0000
+/project/collective-contact-core/, collective.contact.core, 1.36, Core package for collective.contact add-ons, 2021-04-20T11:32:48+0000
+/project/ftw-slacker/, ftw.slacker, 1.1.0, Uses webhooks to post messages into a slack channel., 2019-11-27T11:28:47+0000
+/project/eea-dexterity-themes/, eea.dexterity.themes, 1.0, Environment Topics and subtopics, 2021-04-16T12:58:46+0000
+/project/eea-api-layout/, eea.api.layout, 3.0, RestAPI @layout endpoint, 2021-04-09T18:19:50+0000
+/project/imio-smartweb-locales/, imio.smartweb.locales, 1.0a2, Locales for iMio smartweb packages, 2021-04-22T14:54:00+0000
+/project/collective-easyformplugin-fields/, collective.easyformplugin.fields, 1.0b1, Extra fields for easyform, 2020-07-28T09:29:49+0000
+/project/collective-documentgenerator/, collective.documentgenerator, 3.21, Desktop document generation (.odt, .pdf, .doc, ...) based on appy framework (http://appyframework.org) and OpenOffice/LibreOffice, 2021-04-20T12:43:33+0000
+/project/collective-behavior-lastmodifier/, collective.behavior.lastmodifier, 1.0.0rc2, Adds a behavior that tracks down the last user that modified an object, 2021-03-11T14:13:56+0000
+/project/plone-app-imagecropping/, plone.app.imagecropping, 2.2.2, Crops Images in Plone manually using cropper JS library, 2020-03-11T14:34:45+0000
+/project/redturtle-bandi/, redturtle.bandi, 1.1.2, A product for announcements management based on rer.bandi, 2021-04-12T13:04:30+0000
+/project/eea-geolocation/, eea.geolocation, 1.4, Geonames settings EEA country groups/regions vocabularies, 2020-11-25T12:09:56+0000
+/project/collective-editablemenu/, collective.editablemenu, 2.3.0, A customizable dropdown menu, 2019-09-10T14:57:13+0000
+/project/collective-bookmarks/, collective.bookmarks, 1.1a1, Bookmarks/ favorites (internal) for Plone, 2021-03-05T14:37:40+0000
+/project/plone-gallery/, plone.gallery, 1.0.1, Photo gallery for Plone CMS., 2020-07-07T18:16:09+0000
+/project/contentrules-slack/, contentrules.slack, 1.0.1, Slack content rule action for Plone., 2020-04-24T22:15:42+0000
+/project/collective-campaignmonitor/, collective.campaignmonitor, 1.2.1, CampaingMonitor integration for Plone, 2020-07-14T14:49:29+0000
+/project/products-simplegroupsmanagement/, Products.SimpleGroupsManagement, 0.7.0, A Plone utility that let non-Manager users able to manage some (specific) groups, 2021-01-11T11:27:35+0000
+/project/collective-contract-management/, collective.contract-management, 2.0, Contract management for Plone. Kepp track of company contracts and there contract duration., 2020-02-17T10:30:37+0000
+/project/collective-z3cform-datagridfield/, collective.z3cform.datagridfield, 2.0, Fields with repeatable data grid (table-like) for z3.cform, 2021-03-29T14:51:47+0000
+/project/pas-plugins-ldap/, pas.plugins.ldap, 1.8.0, LDAP/AD Plugin for Plone/Zope PluggableAuthService (users+groups), 2020-06-11T05:49:04+0000
+/project/collective-reflex/, collective.reflex, 2.8, An add-on for Plone, 2020-01-09T02:41:20+0000
+/project/collective-geolocationbehavior/, collective.geolocationbehavior, 1.7.1, Dexterity behavior to add geographic locations to contents., 2020-07-10T16:28:24+0000
+/project/rer-solrpush/, rer.solrpush, 0.4.1, Prodotto per Regione Emilia-Romagna relativo all'indicizzazione dei contenuti con solr, 2021-03-26T07:14:34+0000
+/project/collective-splitsitemap/, collective.splitsitemap, 1.0.0, An add-on for Plone, 2020-09-25T19:07:28+0000
+/project/collective-templates/, collective.templates, 2.2, Plone add-on to host document templates, 2020-11-13T18:39:33+0000
+/project/collective-imagemaps/, collective.imagemaps, 1.0b3, Provides image map behavior for Dexterity types., 2021-02-24T15:02:45+0000
+/project/onlyoffice-connector/, onlyoffice.connector, 2.0.0, Plone ONLYOFFICE integration plugin, 2021-04-15T13:53:56+0000
+/project/collective-regjsonify/, collective.regjsonify, 0.3.0, Export Plone registry content to a JSON compatible Python structure, 2020-03-13T08:33:39+0000
+/project/sandia-conferencepolicy/, sandia.conferencepolicy, 1.0a7, Policy product for Sandia multiconference website, 2020-01-27T15:56:35+0000
+/project/collective-edtf-behavior/, collective.edtf-behavior, 1.0.3, A EDTF behavior for Plone., 2019-08-26T12:51:30+0000
+/project/collective-metadataaudit/, collective.metadataaudit, 1.0a1, Audit metadata changes, 2020-11-23T10:12:13+0000
+/project/redturtle-volto/, redturtle.volto, 1.3.0, Helper package to setup a RedTurtle's Plone site ready to work with Volto., 2021-04-19T08:04:35+0000
+/project/imio-prometheus/, imio.prometheus, 1.0.0, Add some iMio informations on prometheus metrics view, 2020-11-10T13:18:40+0000
+/project/redturtle-importer-volto/, redturtle.importer.volto, 1.0.0, Importer from an old Plone Site into a new one with Volto, 2020-12-18T11:05:51+0000
+/project/archetypes-multilingual/, archetypes.multilingual, 3.0.8, Multilingual support for archetypes., 2019-12-27T13:57:06+0000
+/project/imio-smartweb-policy/, imio.smartweb.policy, 1.0a2, Policies to setup imio.smartweb, 2021-04-22T14:51:36+0000
+/project/collective-relationhelpers/, collective.relationhelpers, 1.5, Helpers to manage, create, export and rebuild relations in Plone, 2021-04-19T07:39:31+0000
+/project/collective-contentalerts/, collective.contentalerts, 3.2.0, An add-on for Plone to get alerts about content, 2021-03-31T07:37:16+0000
+/project/cs-ploneformdemo/, cs.ploneformdemo, 1.0, An add-on for Plone to create a demo form with all available field types, 2021-02-22T08:31:41+0000
+/project/eea-dexterity-indicators/, eea.dexterity.indicators, 1.0, Dexterity Indicators, 2021-04-01T16:32:44+0000
+/project/plone-formwidget-recaptcha/, plone.formwidget.recaptcha, 2.3.0, ReCaptcha widget for Plone., 2021-03-01T12:09:17+0000
+/project/rer-sitesearch/, rer.sitesearch, 3.2.6, A product that change the base site search of Plone with some new features., 2020-09-21T14:58:39+0000
+/project/collective-pivot/, collective.pivot, 1.0a6, Display CGT Pivot informations, 2021-03-10T15:11:58+0000
+/project/affinitic-privatefolder/, affinitic.privatefolder, 1.0, Folderish content type with only one private state, 2020-01-21T13:34:56+0000
+/project/eea-faceted-inheritance/, eea.faceted.inheritance, 6.2, EEA Faceted Navigation extension that allow a faceted navigable object to inherit faceted configuration from another faceted navigable object., 2020-03-03T15:07:06+0000
+/project/plone-app-fhirfield/, plone.app.fhirfield, 4.2.0, FHIR field for Plone, 2020-12-07T13:19:41+0000
+/project/collective-messagesviewlet/, collective.messagesviewlet, 0.23, Add-on displaying manager defined messages in a viewlet, 2020-04-17T13:37:43+0000
+/project/collective-explicitacquisition/, collective.explicitacquisition, 2.0, Disallow access to acquired content outside the current path., 2021-02-05T11:10:40+0000
+/project/collective-portlet-existingcontent/, collective.portlet.existingcontent, 1.0.2, Existing Content Portlet, 2019-07-25T13:50:12+0000
+/project/plonemeeting-portal-core/, plonemeeting.portal.core, 1.2, Plonemeeting decisions publication portal, 2021-03-24T12:22:50+0000
+/project/imioweb-core/, imioweb.core, 1.0a3, Core package for imioweb, 2021-01-04T15:08:33+0000
+/project/rer-bandi/, rer.bandi, 4.1.1, A product for announcements management, 2020-12-03T11:24:57+0000
+/project/products-membrane/, Products.membrane, 5.0.2, Content-based users and groups for Plone, 2021-04-23T10:59:31+0000
+/project/plone-patternslib/, plone.patternslib, 1.2.1, An add-on to make patternslib patterns available within Plone 5., 2020-11-23T22:09:46+0000
+/project/eea-zotero/, eea.zotero, 1.3, Plone RestAPI endpoint for Zotero, 2020-10-19T10:31:46+0000
+/project/collective-consent/, collective.consent, 1.0b3, Provides a functionality to ask users for consent to different topics., 2021-02-09T18:46:59+0000
+/project/collective-z3cform-jsonwidget/, collective.z3cform.jsonwidget, 0.1.0, Custom widget to manage complex json data stored into a text field, 2021-02-09T12:31:50+0000
+/project/ideabox-theme/, ideabox.theme, 1.0.0, An add-on for Plone, 2021-01-06T08:29:43+0000
+/project/products-plonekeywordmanager/, Products.PloneKeywordManager, 3.0.3, Change, merge and delete keywords (subjects) in Plone., 2021-01-27T08:20:19+0000
+/project/collective-volto-blocksfield/, collective.volto.blocksfield, 1.0.1, Field that allows to use blocks instead rich text, 2021-03-25T12:59:45+0000
+/project/collective-embedcontent/, collective.embedcontent, 1.0a1, An add-on for Plone, 2020-07-08T03:05:32+0000
+/project/library-policy/, library.policy, 1.1.12, Policy for the installation of buildout.library, 2021-02-05T07:43:05+0000
+/project/redturtle-rssservice/, redturtle.rssservice, 0.1.0, An add-on for Plone, 2020-04-08T14:01:11+0000
+/project/collective-volto-secondarymenu/, collective.volto.secondarymenu, 1.0.3, Add-on for Volto to manage a secondary menu in dropdown one., 2021-03-02T07:50:33+0000
+/project/slc-outdated/, slc.outdated, 1.3.2, Mark and treat plone content as outdated, 2021-02-17T07:53:36+0000
+/project/collective-workspace/, collective.workspace, 3.0.0, Provide 'membership' in specific areas of a Plone Site, 2021-02-17T10:37:42+0000
+/project/collective-defaultexcludedfromnav/, collective.defaultexcludedfromnav, 1.0a1, An add-on for Plone, 2019-08-02T11:48:46+0000
+/project/collective-venue/, collective.venue, 4.1, Dexterity venue type for use with events., 2020-07-10T16:21:39+0000
+/project/collective-volto-socialsettings/, collective.volto.socialsettings, 0.1.2, Add-on for Volto to manage a list of social network links, 2021-02-11T13:15:24+0000
+/project/eea-cache/, eea.cache, 9.4, Tools and config for memcache related caching, 2020-03-10T16:41:46+0000
+/project/eea-facetednavigation/, eea.facetednavigation, 14.5, EEA Faceted Navigation, 2021-03-29T13:27:30+0000
+/project/collective-behavior-targetblank/, collective.behavior.targetblank, 1.0.1, A target blank option for Link content type, 2020-11-13T11:29:00+0000
+/project/collective-exportimport/, collective.exportimport, 1.0b1, An add-on for Plone to Export and import content, members, relations, translations and localroles., 2021-03-26T17:45:49+0000
+/project/collective-resume/, collective.resume, 1.8, An add-on for Plone, 2020-01-09T02:41:25+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/redturtle-prenotazioni/, redturtle.prenotazioni, 1.1.0, An add-on for Plone, 2020-12-15T08:27:06+0000
+/project/collective-volto-formsupport/, collective.volto.formsupport, 1.0.4, Add support for customizable forms in Volto, 2021-04-15T14:12:16+0000
+/project/collective-debug/, collective.debug, 1.0a3, A Plone debug view for introspecting the current context, user, roles and instance dict, 2020-11-23T08:53:22+0000
+/project/collective-remoteproxy/, collective.remoteproxy, 2.0, Proxy for remote content in Plone pages., 2021-02-05T16:20:55+0000
+/project/collective-pfg-signup/, collective.pfg.signup, 1.6.1, A PloneFormGen adapter that saves signup form, 2021-02-05T17:10:28+0000
+/project/collective-sortedcontrolpanels/, collective.sortedcontrolpanels, 1.0a1, sorts control panels alphabetically by title (broken since 2015, but will be in Plone 5.2.2), 2020-05-23T15:42:19+0000
+/project/collective-mustread/, collective.mustread, 2.0.0, Tracking user views on content items marked as must-read, 2020-01-27T08:07:50+0000
+/project/collective-impersonate/, collective.impersonate, 1.3, Allow administrator to impersonate another user, for debugging purposes., 2020-10-06T23:07:56+0000
+/project/collective-js-jqueryui/, collective.js.jqueryui, 2.1.8, JQueryUI ready for Plone, 2021-01-05T13:39:14+0000
+/project/rer-newsletterplugin-flask/, rer.newsletterplugin.flask, 0.1.0, Add-on per Plone collegato a rer.newsletter per inviare le mail usando un servizio Flask, 2020-07-21T07:50:01+0000
+/project/collective-renderfiletypes/, collective.renderfiletypes, 1.0b1, An addon to render file type information next to the links, 2020-07-13T08:50:35+0000
+/project/collective-behavior-relatedmedia/, collective.behavior.relatedmedia, 2.1.3, Adds Various configuration fields and viewlets to manage and show content related images and attachments, 2020-07-22T07:08:27+0000
+/project/rt-simpleslider/, rt.simpleslider, 1.3.4, A really simple Plone slider based on basic-slider.com, 2020-03-18T19:07:00+0000
+/project/cs-behavior-footerhtmlcode/, cs.behavior.footerhtmlcode, 1.0.1, An add-on providing a behavior that allows entering arbitrary HTML code to be shown in a portlet in LRF objects, 2019-11-21T12:01:09+0000
+/project/collective-venue/, collective.venue, 4.1, Dexterity venue type for use with events., 2020-07-10T16:21:39+0000
+/project/collective-volto-socialsettings/, collective.volto.socialsettings, 0.1.2, Add-on for Volto to manage a list of social network links, 2021-02-11T13:15:24+0000
+/project/eea-facetednavigation/, eea.facetednavigation, 14.5, EEA Faceted Navigation, 2021-03-29T13:27:30+0000
+/project/collective-behavior-targetblank/, collective.behavior.targetblank, 1.0.1, A target blank option for Link content type, 2020-11-13T11:29:00+0000
+/project/products-plonekeywordmanager/, Products.PloneKeywordManager, 3.0.3, Change, merge and delete keywords (subjects) in Plone., 2021-01-27T08:20:19+0000
+/project/collective-volto-blocksfield/, collective.volto.blocksfield, 1.0.1, Field that allows to use blocks instead rich text, 2021-03-25T12:59:45+0000
+/project/collective-embedcontent/, collective.embedcontent, 1.0a1, An add-on for Plone, 2020-07-08T03:05:32+0000
+/project/library-policy/, library.policy, 1.1.12, Policy for the installation of buildout.library, 2021-02-05T07:43:05+0000
+/project/redturtle-rssservice/, redturtle.rssservice, 0.1.0, An add-on for Plone, 2020-04-08T14:01:11+0000
+/project/slc-outdated/, slc.outdated, 1.3.2, Mark and treat plone content as outdated, 2021-02-17T07:53:36+0000
+/project/collective-workspace/, collective.workspace, 3.0.0, Provide 'membership' in specific areas of a Plone Site, 2021-02-17T10:37:42+0000
+/project/collective-defaultexcludedfromnav/, collective.defaultexcludedfromnav, 1.0a1, An add-on for Plone, 2019-08-02T11:48:46+0000
+/project/collective-volto-subsites/, collective.volto.subsites, 1.0.0, Add Subsite content-type for Volto, 2020-12-15T10:25:12+0000
+/project/collective-fhirpath/, collective.fhirpath, 0.7.5, Plone powered provider for fhirpath, 2020-12-17T15:06:14+0000
+/project/products-easynewsletter/, Products.EasyNewsletter, 5.0.5, Powerful newsletter/mailing addon for Plone, 2021-04-23T05:50:02+0000
+/project/plone-app-multilingualindexes/, plone.app.multilingualindexes, 2.1, Multilingual Catalog Indexes for Plone, 2020-08-04T10:02:17+0000
+/project/collective-nitf/, collective.nitf, 2.1.1, A content type inspired on the IPTC's News Industry Text Format specification., 2021-04-15T14:32:43+0000
+/project/collective-easyformplugin-poll/, collective.easyformplugin.poll, 1.0a1, Poll support for EasyForm, 2020-06-04T22:37:43+0000
+/project/collective-ant/, collective.ant, 3.8, An add-on for Plone, 2020-01-14T11:51:08+0000
+/project/contenttypes-basic/, contenttypes.basic, 1.6.4, Basic content, behaviors, fields and widgets for Plone, 2020-11-11T11:45:16+0000
+/project/kcrw-tinymce-imagedrop/, kcrw.tinymce-imagedrop, 1.0.1, A Plone add-on that adds image drag and drop to TinyMCE 4 in Plone., 2020-11-25T05:02:31+0000
+/project/redturtle-voltoplugin-editablefooter/, redturtle.voltoplugin.editablefooter, 1.0.1, Add-on for Volto to manage four-columns footer, 2021-02-11T13:17:02+0000
+/project/imio-smartweb-core/, imio.smartweb.core, 1.0a3, Core product for iMio websites, 2021-04-23T14:26:50+0000
+/project/collective-contentrules-mailfromfield/, collective.contentrules.mailfromfield, 1.0.1, A Plone content rule for send e-mail to addresses taken from the content, 2021-03-10T13:26:23+0000
+/project/collective-documentviewer/, collective.documentviewer, 6.0.1, Document cloud's document viewer integration into plone., 2021-02-03T10:18:16+0000
+/project/plone-app-tiles/, plone.app.tiles, 3.2.1, Plone UI integration for plone.tiles, 2020-09-26T14:06:50+0000
+/project/collective-volto-dropdownmenu/, collective.volto.dropdownmenu, 1.0.4, Add-on for Volto to manage a dropdown menu., 2020-12-29T15:23:07+0000
+/project/design-plone-contenttypes/, design.plone.contenttypes, 2.0.6, DesignItalia contenty types, 2021-04-16T09:02:12+0000
+/project/collective-contentsync2/, collective.contentsync2, 1.0b3, Content sync between Plone sites, 2020-11-23T20:29:17+0000
+/project/collective-freeze/, collective.freeze, 1.6, An add-on for Plone, 2020-01-14T11:51:11+0000
+/project/collective-collectionfilter/, collective.collectionfilter, 3.4.2, Plone addon for filtering collection results., 2021-02-25T14:20:27+0000
+/project/imio-behavior-teleservices/, imio.behavior.teleservices, 1.0.3, Plone behavior to get (and set) global E-Guichet/Teleservices configuration into a Plone Application. Expose E-Guichet procedures in a select field., 2020-10-28T09:49:36+0000
+/project/eea-sentry/, eea.sentry, 1.4, Zope/Plone Sentry integration, 2019-12-02T12:43:08+0000
+/project/collective-gnd/, collective.gnd, 1.1, Plone addon which provides a GND resolver and a BEACON API., 2019-12-09T10:46:11+0000
+/project/souper-plone/, souper.plone, 1.3.1, Plone Souper Integration: Container for many lightweight queryable Records, 2021-02-13T15:30:45+0000
+/project/eea-progress-workflow/, eea.progress.workflow, 2.0, Workflow progress RestAPI, 2020-12-04T12:42:01+0000
+/project/design-plone-policy/, design.plone.policy, 1.1.0, Pacchetto per creare un sito Agid su Plone, 2021-03-24T11:02:51+0000
+/project/collective-contact-core/, collective.contact.core, 1.36, Core package for collective.contact add-ons, 2021-04-20T11:32:48+0000
+/project/ftw-slacker/, ftw.slacker, 1.1.0, Uses webhooks to post messages into a slack channel., 2019-11-27T11:28:47+0000
+/project/eea-dexterity-themes/, eea.dexterity.themes, 1.0, Environment Topics and subtopics, 2021-04-16T12:58:46+0000
+/project/eea-api-layout/, eea.api.layout, 3.0, RestAPI @layout endpoint, 2021-04-09T18:19:50+0000
+/project/imio-smartweb-locales/, imio.smartweb.locales, 1.0a2, Locales for iMio smartweb packages, 2021-04-22T14:54:00+0000
+/project/collective-easyformplugin-fields/, collective.easyformplugin.fields, 1.0b1, Extra fields for easyform, 2020-07-28T09:29:49+0000
+/project/collective-documentgenerator/, collective.documentgenerator, 3.21, Desktop document generation (.odt, .pdf, .doc, ...) based on appy framework (http://appyframework.org) and OpenOffice/LibreOffice, 2021-04-20T12:43:33+0000
+/project/collective-behavior-lastmodifier/, collective.behavior.lastmodifier, 1.0.0rc2, Adds a behavior that tracks down the last user that modified an object, 2021-03-11T14:13:56+0000
+/project/plone-app-imagecropping/, plone.app.imagecropping, 2.2.2, Crops Images in Plone manually using cropper JS library, 2020-03-11T14:34:45+0000
+/project/redturtle-bandi/, redturtle.bandi, 1.1.2, A product for announcements management based on rer.bandi, 2021-04-12T13:04:30+0000
+/project/eea-geolocation/, eea.geolocation, 1.4, Geonames settings EEA country groups/regions vocabularies, 2020-11-25T12:09:56+0000
+/project/collective-editablemenu/, collective.editablemenu, 2.3.0, A customizable dropdown menu, 2019-09-10T14:57:13+0000
+/project/collective-bookmarks/, collective.bookmarks, 1.1a1, Bookmarks/ favorites (internal) for Plone, 2021-03-05T14:37:40+0000
+/project/plone-gallery/, plone.gallery, 1.0.1, Photo gallery for Plone CMS., 2020-07-07T18:16:09+0000
+/project/contentrules-slack/, contentrules.slack, 1.0.1, Slack content rule action for Plone., 2020-04-24T22:15:42+0000
+/project/collective-campaignmonitor/, collective.campaignmonitor, 1.2.1, CampaingMonitor integration for Plone, 2020-07-14T14:49:29+0000
+/project/products-simplegroupsmanagement/, Products.SimpleGroupsManagement, 0.7.0, A Plone utility that let non-Manager users able to manage some (specific) groups, 2021-01-11T11:27:35+0000
+/project/collective-contract-management/, collective.contract-management, 2.0, Contract management for Plone. Kepp track of company contracts and there contract duration., 2020-02-17T10:30:37+0000
+/project/collective-z3cform-datagridfield/, collective.z3cform.datagridfield, 2.0, Fields with repeatable data grid (table-like) for z3.cform, 2021-03-29T14:51:47+0000
+/project/pas-plugins-ldap/, pas.plugins.ldap, 1.8.0, LDAP/AD Plugin for Plone/Zope PluggableAuthService (users+groups), 2020-06-11T05:49:04+0000
+/project/collective-reflex/, collective.reflex, 2.8, An add-on for Plone, 2020-01-09T02:41:20+0000
+/project/collective-geolocationbehavior/, collective.geolocationbehavior, 1.7.1, Dexterity behavior to add geographic locations to contents., 2020-07-10T16:28:24+0000
+/project/rer-solrpush/, rer.solrpush, 0.4.1, Prodotto per Regione Emilia-Romagna relativo all'indicizzazione dei contenuti con solr, 2021-03-26T07:14:34+0000
+/project/collective-splitsitemap/, collective.splitsitemap, 1.0.0, An add-on for Plone, 2020-09-25T19:07:28+0000
+/project/collective-templates/, collective.templates, 2.2, Plone add-on to host document templates, 2020-11-13T18:39:33+0000
+/project/collective-imagemaps/, collective.imagemaps, 1.0b3, Provides image map behavior for Dexterity types., 2021-02-24T15:02:45+0000
+/project/onlyoffice-connector/, onlyoffice.connector, 2.0.0, Plone ONLYOFFICE integration plugin, 2021-04-15T13:53:56+0000
+/project/collective-regjsonify/, collective.regjsonify, 0.3.0, Export Plone registry content to a JSON compatible Python structure, 2020-03-13T08:33:39+0000
+/project/sandia-conferencepolicy/, sandia.conferencepolicy, 1.0a7, Policy product for Sandia multiconference website, 2020-01-27T15:56:35+0000
+/project/collective-edtf-behavior/, collective.edtf-behavior, 1.0.3, A EDTF behavior for Plone., 2019-08-26T12:51:30+0000
+/project/collective-metadataaudit/, collective.metadataaudit, 1.0a1, Audit metadata changes, 2020-11-23T10:12:13+0000
+/project/redturtle-volto/, redturtle.volto, 1.3.0, Helper package to setup a RedTurtle's Plone site ready to work with Volto., 2021-04-19T08:04:35+0000
+/project/imio-prometheus/, imio.prometheus, 1.0.0, Add some iMio informations on prometheus metrics view, 2020-11-10T13:18:40+0000
+/project/redturtle-importer-volto/, redturtle.importer.volto, 1.0.0, Importer from an old Plone Site into a new one with Volto, 2020-12-18T11:05:51+0000
+/project/archetypes-multilingual/, archetypes.multilingual, 3.0.8, Multilingual support for archetypes., 2019-12-27T13:57:06+0000
+/project/imio-smartweb-policy/, imio.smartweb.policy, 1.0a2, Policies to setup imio.smartweb, 2021-04-22T14:51:36+0000
+/project/collective-relationhelpers/, collective.relationhelpers, 1.5, Helpers to manage, create, export and rebuild relations in Plone, 2021-04-19T07:39:31+0000
+/project/collective-contentalerts/, collective.contentalerts, 3.2.0, An add-on for Plone to get alerts about content, 2021-03-31T07:37:16+0000
+/project/cs-ploneformdemo/, cs.ploneformdemo, 1.0, An add-on for Plone to create a demo form with all available field types, 2021-02-22T08:31:41+0000
+/project/eea-dexterity-indicators/, eea.dexterity.indicators, 1.0, Dexterity Indicators, 2021-04-01T16:32:44+0000
+/project/plone-formwidget-recaptcha/, plone.formwidget.recaptcha, 2.3.0, ReCaptcha widget for Plone., 2021-03-01T12:09:17+0000
+/project/rer-sitesearch/, rer.sitesearch, 3.2.6, A product that change the base site search of Plone with some new features., 2020-09-21T14:58:39+0000
+/project/collective-pivot/, collective.pivot, 1.0a6, Display CGT Pivot informations, 2021-03-10T15:11:58+0000
+/project/affinitic-privatefolder/, affinitic.privatefolder, 1.0, Folderish content type with only one private state, 2020-01-21T13:34:56+0000
+/project/eea-faceted-inheritance/, eea.faceted.inheritance, 6.2, EEA Faceted Navigation extension that allow a faceted navigable object to inherit faceted configuration from another faceted navigable object., 2020-03-03T15:07:06+0000
+/project/plone-app-fhirfield/, plone.app.fhirfield, 4.2.0, FHIR field for Plone, 2020-12-07T13:19:41+0000
+/project/collective-messagesviewlet/, collective.messagesviewlet, 0.23, Add-on displaying manager defined messages in a viewlet, 2020-04-17T13:37:43+0000
+/project/collective-explicitacquisition/, collective.explicitacquisition, 2.0, Disallow access to acquired content outside the current path., 2021-02-05T11:10:40+0000
+/project/collective-portlet-existingcontent/, collective.portlet.existingcontent, 1.0.2, Existing Content Portlet, 2019-07-25T13:50:12+0000
+/project/plonemeeting-portal-core/, plonemeeting.portal.core, 1.2, Plonemeeting decisions publication portal, 2021-03-24T12:22:50+0000
+/project/imioweb-core/, imioweb.core, 1.0a3, Core package for imioweb, 2021-01-04T15:08:33+0000
+/project/rer-bandi/, rer.bandi, 4.1.1, A product for announcements management, 2020-12-03T11:24:57+0000
+/project/products-membrane/, Products.membrane, 5.0.2, Content-based users and groups for Plone, 2021-04-23T10:59:31+0000
+/project/plone-patternslib/, plone.patternslib, 1.2.1, An add-on to make patternslib patterns available within Plone 5., 2020-11-23T22:09:46+0000
+/project/eea-zotero/, eea.zotero, 1.3, Plone RestAPI endpoint for Zotero, 2020-10-19T10:31:46+0000
+/project/collective-consent/, collective.consent, 1.0b3, Provides a functionality to ask users for consent to different topics., 2021-02-09T18:46:59+0000
+/project/collective-z3cform-jsonwidget/, collective.z3cform.jsonwidget, 0.1.0, Custom widget to manage complex json data stored into a text field, 2021-02-09T12:31:50+0000
+/project/ideabox-theme/, ideabox.theme, 1.0.0, An add-on for Plone, 2021-01-06T08:29:43+0000
+/project/products-plonekeywordmanager/, Products.PloneKeywordManager, 3.0.3, Change, merge and delete keywords (subjects) in Plone., 2021-01-27T08:20:19+0000
+/project/collective-volto-blocksfield/, collective.volto.blocksfield, 1.0.1, Field that allows to use blocks instead rich text, 2021-03-25T12:59:45+0000
+/project/collective-embedcontent/, collective.embedcontent, 1.0a1, An add-on for Plone, 2020-07-08T03:05:32+0000
+/project/library-policy/, library.policy, 1.1.12, Policy for the installation of buildout.library, 2021-02-05T07:43:05+0000
+/project/redturtle-rssservice/, redturtle.rssservice, 0.1.0, An add-on for Plone, 2020-04-08T14:01:11+0000
+/project/collective-volto-secondarymenu/, collective.volto.secondarymenu, 1.0.3, Add-on for Volto to manage a secondary menu in dropdown one., 2021-03-02T07:50:33+0000
+/project/slc-outdated/, slc.outdated, 1.3.2, Mark and treat plone content as outdated, 2021-02-17T07:53:36+0000
+/project/collective-workspace/, collective.workspace, 3.0.0, Provide 'membership' in specific areas of a Plone Site, 2021-02-17T10:37:42+0000
+/project/collective-defaultexcludedfromnav/, collective.defaultexcludedfromnav, 1.0a1, An add-on for Plone, 2019-08-02T11:48:46+0000
+/project/collective-venue/, collective.venue, 4.1, Dexterity venue type for use with events., 2020-07-10T16:21:39+0000
+/project/collective-volto-socialsettings/, collective.volto.socialsettings, 0.1.2, Add-on for Volto to manage a list of social network links, 2021-02-11T13:15:24+0000
+/project/eea-cache/, eea.cache, 9.4, Tools and config for memcache related caching, 2020-03-10T16:41:46+0000
+/project/eea-facetednavigation/, eea.facetednavigation, 14.5, EEA Faceted Navigation, 2021-03-29T13:27:30+0000
+/project/collective-behavior-targetblank/, collective.behavior.targetblank, 1.0.1, A target blank option for Link content type, 2020-11-13T11:29:00+0000
+/project/collective-exportimport/, collective.exportimport, 1.0b1, An add-on for Plone to Export and import content, members, relations, translations and localroles., 2021-03-26T17:45:49+0000
+/project/collective-resume/, collective.resume, 1.8, An add-on for Plone, 2020-01-09T02:41:25+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/redturtle-prenotazioni/, redturtle.prenotazioni, 1.1.0, An add-on for Plone, 2020-12-15T08:27:06+0000
+/project/collective-volto-formsupport/, collective.volto.formsupport, 1.0.4, Add support for customizable forms in Volto, 2021-04-15T14:12:16+0000
+/project/collective-debug/, collective.debug, 1.0a3, A Plone debug view for introspecting the current context, user, roles and instance dict, 2020-11-23T08:53:22+0000
+/project/collective-remoteproxy/, collective.remoteproxy, 2.0, Proxy for remote content in Plone pages., 2021-02-05T16:20:55+0000
+/project/collective-pfg-signup/, collective.pfg.signup, 1.6.1, A PloneFormGen adapter that saves signup form, 2021-02-05T17:10:28+0000
+/project/collective-sortedcontrolpanels/, collective.sortedcontrolpanels, 1.0a1, sorts control panels alphabetically by title (broken since 2015, but will be in Plone 5.2.2), 2020-05-23T15:42:19+0000
+/project/collective-mustread/, collective.mustread, 2.0.0, Tracking user views on content items marked as must-read, 2020-01-27T08:07:50+0000
+/project/collective-impersonate/, collective.impersonate, 1.3, Allow administrator to impersonate another user, for debugging purposes., 2020-10-06T23:07:56+0000
+/project/collective-js-jqueryui/, collective.js.jqueryui, 2.1.8, JQueryUI ready for Plone, 2021-01-05T13:39:14+0000
+/project/rer-newsletterplugin-flask/, rer.newsletterplugin.flask, 0.1.0, Add-on per Plone collegato a rer.newsletter per inviare le mail usando un servizio Flask, 2020-07-21T07:50:01+0000
+/project/collective-renderfiletypes/, collective.renderfiletypes, 1.0b1, An addon to render file type information next to the links, 2020-07-13T08:50:35+0000
+/project/collective-behavior-relatedmedia/, collective.behavior.relatedmedia, 2.1.3, Adds Various configuration fields and viewlets to manage and show content related images and attachments, 2020-07-22T07:08:27+0000
+/project/rt-simpleslider/, rt.simpleslider, 1.3.4, A really simple Plone slider based on basic-slider.com, 2020-03-18T19:07:00+0000
+/project/cs-behavior-footerhtmlcode/, cs.behavior.footerhtmlcode, 1.0.1, An add-on providing a behavior that allows entering arbitrary HTML code to be shown in a portlet in LRF objects, 2019-11-21T12:01:09+0000
+/project/collective-venue/, collective.venue, 4.1, Dexterity venue type for use with events., 2020-07-10T16:21:39+0000
+/project/collective-volto-socialsettings/, collective.volto.socialsettings, 0.1.2, Add-on for Volto to manage a list of social network links, 2021-02-11T13:15:24+0000
+/project/eea-facetednavigation/, eea.facetednavigation, 14.5, EEA Faceted Navigation, 2021-03-29T13:27:30+0000
+/project/collective-behavior-targetblank/, collective.behavior.targetblank, 1.0.1, A target blank option for Link content type, 2020-11-13T11:29:00+0000
+/project/products-plonekeywordmanager/, Products.PloneKeywordManager, 3.0.3, Change, merge and delete keywords (subjects) in Plone., 2021-01-27T08:20:19+0000
+/project/collective-volto-blocksfield/, collective.volto.blocksfield, 1.0.1, Field that allows to use blocks instead rich text, 2021-03-25T12:59:45+0000
+/project/collective-debug/, collective.debug, 1.0a3, A Plone debug view for introspecting the current context, user, roles and instance dict, 2020-11-23T08:53:22+0000
+/project/collective-remoteproxy/, collective.remoteproxy, 2.0, Proxy for remote content in Plone pages., 2021-02-05T16:20:55+0000
+/project/collective-pfg-signup/, collective.pfg.signup, 1.6.1, A PloneFormGen adapter that saves signup form, 2021-02-05T17:10:28+0000
+/project/collective-sortedcontrolpanels/, collective.sortedcontrolpanels, 1.0a1, sorts control panels alphabetically by title (broken since 2015, but will be in Plone 5.2.2), 2020-05-23T15:42:19+0000
+/project/collective-mustread/, collective.mustread, 2.0.0, Tracking user views on content items marked as must-read, 2020-01-27T08:07:50+0000
+/project/collective-impersonate/, collective.impersonate, 1.3, Allow administrator to impersonate another user, for debugging purposes., 2020-10-06T23:07:56+0000

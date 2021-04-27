@@ -1,0 +1,62 @@
+/project/yawinpty-extra/, yawinpty-extra, 0.1.0.dev1, yet another winpty binding for python (extra package), 2017-07-16T07:50:27+0000
+/project/osdetect/, OSDetect, 1.2, A simple helper module to get details on the current operating system platorm., 2018-09-25T12:21:17+0000
+/project/hdbcli/, hdbcli, 2.8.16, SAP HANA Python Client, 2021-04-20T15:08:27+0000
+/project/sqlalchemy-paradox/, sqlalchemy-paradox, 0.2.0, A SQLAlchemy dialect for Borland / Corel Paradox flat-file databases., 2021-03-10T18:57:36+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/pycomm/, pycomm, 1.0.8, A PLC communication library for Python, 2015-11-01T16:20:56+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/pyspectator-tornado/, pyspectator_tornado, 1.1.2, pyspectator_tornado is a web-monitoring tool ported onTornado with pyspectator as a main monitoring module., 2017-04-14T21:52:28+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pyce/, pyce, 2.0.0, Execute encrypted Python bytecode., 2018-09-22T06:34:42+0000
+/project/ryantest/, RyanTest, 0.1.0, A test programmes, 2019-03-03T14:29:34+0000
+/project/py3-bp/, py3-bp, 0.0.4, Ultimate template for new Python 3 projects, 2019-09-20T05:05:48+0000
+/project/yawinpty/, yawinpty, 0.4.3, yet another winpty binding for python, 2017-08-22T04:10:32+0000
+/project/psutil/, psutil, 5.8.0, Cross-platform lib for process and system monitoring in Python., 2020-12-19T01:19:27+0000
+/project/prwlock/, prwlock, 0.4.1, Native process-shared rwlock support for Python, 2020-05-28T13:37:06+0000
+/project/pmini/, pmini, 0.1.0, A test programmes, 2019-03-03T14:41:56+0000
+/project/sqlalchemy-dataflex/, sqlalchemy-dataflex, 0.1.5, A SQLAlchemy dialect for DataFlex flat-file databases., 2021-02-10T21:03:52+0000
+/project/sasspython/, SassPython, 0.2.1, binding for libsass, 2012-08-08T08:02:26+0000
+/project/yoctopuce/, yoctopuce, 1.10.44175, Yoctopuce python API, 2021-03-12T10:21:54+0000
+/project/vnpy/, vnpy, 1.9.2, A framework for developing Quantitative Trading programmes, 2018-12-29T02:21:27+0000
+/project/wmon/, wmon, 0.65, This Script return a plain text report with a complete system info., 2014-05-23T13:04:50+0000
+/project/cloudendure/, cloudendure, 0.3.5, Python wrapper and CLI for CloudEndure, 2020-06-05T16:59:21+0000
+/project/dicksonui/, DicksonUI, 2.4.5, Lightweight And Full Featured Browser Based UI / GUI (Graphical User Interface Library), 2020-10-16T13:10:48+0000
+/project/mswinprint/, MSWinPrint, 1.1, MSWinPrint, 2012-07-16T12:52:30+0000
+/project/pydivert/, pydivert, 2.1.0, Python binding to windivert driver, 2017-10-20T21:36:56+0000
+/project/pymodbus3/, pymodbus3, 1.0.0, A fully featured modbus protocol stack in python, 2014-07-18T07:20:27+0000
+/project/winping/, winping, 0.2.4, Ping implementation which utilizes Windows ICMP API, 2020-08-09T23:42:23+0000
+/project/chicken-turtle-util/, chicken_turtle_util, 4.1.2, Python 3 utility library, 2017-06-12T14:15:19+0000
+/project/pyramidueditor/, pyramidueditor, 1.0.1, A Pyramid application for Baidu Ueditor., 2015-06-05T09:52:25+0000
+/project/pytil/, pytil, 7.0.0, Python 3 utility library, 2018-01-08T16:56:58+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/yawinpty-extra/, yawinpty-extra, 0.1.0.dev1, yet another winpty binding for python (extra package), 2017-07-16T07:50:27+0000
+/project/osdetect/, OSDetect, 1.2, A simple helper module to get details on the current operating system platorm., 2018-09-25T12:21:17+0000
+/project/hdbcli/, hdbcli, 2.8.16, SAP HANA Python Client, 2021-04-20T15:08:27+0000
+/project/sqlalchemy-paradox/, sqlalchemy-paradox, 0.2.0, A SQLAlchemy dialect for Borland / Corel Paradox flat-file databases., 2021-03-10T18:57:36+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/pyspectator-tornado/, pyspectator_tornado, 1.1.2, pyspectator_tornado is a web-monitoring tool ported onTornado with pyspectator as a main monitoring module., 2017-04-14T21:52:28+0000
+/project/yawinpty/, yawinpty, 0.4.3, yet another winpty binding for python, 2017-08-22T04:10:32+0000
+/project/pycomm/, pycomm, 1.0.8, A PLC communication library for Python, 2015-11-01T16:20:56+0000
+/project/pyce/, pyce, 2.0.0, Execute encrypted Python bytecode., 2018-09-22T06:34:42+0000
+/project/ryantest/, RyanTest, 0.1.0, A test programmes, 2019-03-03T14:29:34+0000
+/project/py3-bp/, py3-bp, 0.0.4, Ultimate template for new Python 3 projects, 2019-09-20T05:05:48+0000
+/project/psutil/, psutil, 5.8.0, Cross-platform lib for process and system monitoring in Python., 2020-12-19T01:19:27+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/prwlock/, prwlock, 0.4.1, Native process-shared rwlock support for Python, 2020-05-28T13:37:06+0000
+/project/pmini/, pmini, 0.1.0, A test programmes, 2019-03-03T14:41:56+0000
+/project/sqlalchemy-dataflex/, sqlalchemy-dataflex, 0.1.5, A SQLAlchemy dialect for DataFlex flat-file databases., 2021-02-10T21:03:52+0000
+/project/sasspython/, SassPython, 0.2.1, binding for libsass, 2012-08-08T08:02:26+0000
+/project/yoctopuce/, yoctopuce, 1.10.44175, Yoctopuce python API, 2021-03-12T10:21:54+0000
+/project/vnpy/, vnpy, 1.9.2, A framework for developing Quantitative Trading programmes, 2018-12-29T02:21:27+0000
+/project/mswinprint/, MSWinPrint, 1.1, MSWinPrint, 2012-07-16T12:52:30+0000
+/project/pytil/, pytil, 7.0.0, Python 3 utility library, 2018-01-08T16:56:58+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/pyramidueditor/, pyramidueditor, 1.0.1, A Pyramid application for Baidu Ueditor., 2015-06-05T09:52:25+0000
+/project/dicksonui/, DicksonUI, 2.4.5, Lightweight And Full Featured Browser Based UI / GUI (Graphical User Interface Library), 2020-10-16T13:10:48+0000
+/project/wmon/, wmon, 0.65, This Script return a plain text report with a complete system info., 2014-05-23T13:04:50+0000
+/project/pydivert/, pydivert, 2.1.0, Python binding to windivert driver, 2017-10-20T21:36:56+0000
+/project/pymodbus3/, pymodbus3, 1.0.0, A fully featured modbus protocol stack in python, 2014-07-18T07:20:27+0000
+/project/winping/, winping, 0.2.4, Ping implementation which utilizes Windows ICMP API, 2020-08-09T23:42:23+0000
+/project/cloudendure/, cloudendure, 0.3.5, Python wrapper and CLI for CloudEndure, 2020-06-05T16:59:21+0000
+/project/chicken-turtle-util/, chicken_turtle_util, 4.1.2, Python 3 utility library, 2017-06-12T14:15:19+0000

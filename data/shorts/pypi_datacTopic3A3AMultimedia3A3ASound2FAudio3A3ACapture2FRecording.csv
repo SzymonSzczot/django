@@ -1,0 +1,104 @@
+/project/watson-streaming/, watson-streaming, 0.0.13, Speech to text transcription in real-time using IBM Watson, 2020-06-01T17:20:53+0000
+/project/spotify-ripper-fix/, spotify-ripper-fix, 2.11, a small ripper for Spotify that rips Spotify URIs to audio files, 2016-08-22T05:02:28+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/web-youtube-dl/, web-youtube-dl, 0.1.5, A web version of youtube-dl, 2020-10-06T04:03:08+0000
+/project/pycarla/, pycarla, 0.2.0, Use VST/LV2/etc. plugins with realtime abilities in Python, 2021-02-22T23:13:13+0000
+/project/miniaudio/, miniaudio, 1.43, python bindings for the miniaudio library and its decoders (mp3, flac, ogg vorbis, wav), 2021-03-25T20:05:09+0000
+/project/beheaded/, Beheaded, 1.2, Generic X window and recording for headless setups in Python., 2015-03-30T15:07:08+0000
+/project/ghettorecorder/, ghettorecorder, 0.7.16, Records radio to multiple files. Can search title. Run: (win 'pip'/tux 'pip3, py..3') 'pip install ghettorecorder' then 'pip show ghettorecorder' to find install Location: site-packages/ghettorecorder then 'python - m ghettorecorder.run' or 'python - m ghettorecorder.win' shows a Window, sudo apt-get install python3-tk, 2021-03-25T10:30:18+0000
+/project/mapsadam/, mapsadam, 0.2.21, Analog to Digital Audiovisual Machine, 2020-08-08T19:51:04+0000
+/project/glucid/, glucid, 0.5.1, Configure the Lucid 8824 AD/DA Audio Interface via              a Serial Connection, 2019-02-14T22:06:37+0000
+/project/imantics/, imantics, 0.1.12, Python package for managing image annotations, 2020-01-22T17:54:17+0000
+/project/hermes-audio-server/, hermes-audio-server, 0.2.0, An open source implementation of the audio server part of the Hermes protocol, 2019-06-04T16:32:36+0000
+/project/streamtuner2/, streamtuner2, 2.2.0, Streamtuner2 is an internet radio browser, 2017-01-01T21:48:37+0000
+/project/pymedia2-pyrana/, pymedia2-pyrana, 0.6.0, Package for simple manipulation of multimedia files, 2014-11-02T16:16:20+0000
+/project/pyalsaaudio/, pyalsaaudio, 0.9.0, ALSA bindings, 2020-07-13T20:09:32+0000
+/project/timeshift/, timeshift, 0.2, A python program for recording Internet radio streams and saving them for later listening, 2013-02-21T04:35:05+0000
+/project/pyo/, pyo, 1.0.3, Python module to build digital signal processing program., 2020-08-28T22:51:24+0000
+/project/stt-watson/, stt-watson, 1.0.3, Continuous speech to text using watson in python with websocket and record from microphone, 2016-01-29T14:15:25+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/streamrecord/, streamrecord, 0.9.1, Record and split an audio stream, 2017-10-17T13:26:52+0000
+/project/audiolazy/, audiolazy, 0.6, Real-Time Expressive Digital Signal Processing (DSP) Package for Python!, 2016-09-29T13:09:46+0000
+/project/javascriptwebscraper/, javascriptwebscraper, 0.1.0, javascript webscaper for youtube for Vexbot, 2016-07-09T18:58:08+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/sytad/, SYTAD, 0.1.3, Provides a simple terminal/scripting interface for downloading audio from YouTube via pafy. Works on Android through QPython., 2014-10-28T12:31:08+0000
+/project/rrec/, rrec, 0.1.1, automatically record your favourite program from WDR radio, 2015-04-12T18:29:15+0000
+/project/speechtotext/, speechtotext, 0.0.3, Text to Speech for python, 2016-07-12T03:56:08+0000
+/project/freeseer/, freeseer, 3.0.1, Video recording and streaming software, 2014-01-03T01:49:45+0000
+/project/music-score-creator/, music-score-creator, 0.9.1, Music score creator. Generate a music score from an audio., 2014-09-22T23:11:26+0000
+/project/spotify-onthego/, spotify-onthego, 1.0.9, Download Spotify songs and playlists (with YouTube), 2020-05-21T08:39:37+0000
+/project/project0/, Project0, 0.1.4, Offline vocal assistant and tts, 2020-10-08T22:08:34+0000
+/project/spaudio/, spaudio, 0.7.16, spAudio audio I/O library, 2019-05-04T17:32:09+0000
+/project/higrid/, higrid, 0.1.1, Hierarchical Grid Refinement (HiGRID): Multiple source DOA Estimation with Spherical Microphone Arrays, 2019-04-10T22:12:17+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/pytgcalls/, pytgcalls, 0.0.19, Library connecting python binding for tgcalls and pyrogram, 2021-04-18T16:51:01+0000
+/project/livingbio-pafy/, livingbio-pafy, 0.5.2.1, Retrieve YouTube content and metadata, 2017-12-13T01:46:01+0000
+/project/pylivestream/, pylivestream, 1.11.3, Livestream using FFmpeg to YouTube Live, Periscope, Facebook Live, Twitch, and many more, 2020-11-15T13:54:01+0000
+/project/kazam/, kazam, 1.5.5, A screencasting program created with design in mind., 2019-08-27T07:04:29+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/pafy/, pafy, 0.5.5, Retrieve YouTube content and metadata, 2019-11-22T07:14:11+0000
+/project/gsteditor/, GstEditor, 0.1.0, GStreamer Graphical Pipeline Editor, 2009-05-01T18:37:57+0000
+/project/soundcard/, SoundCard, 0.4.1, Play and record audio without resorting to CPython extensions, 2021-03-14T12:41:39+0000
+/project/pafy/, pafy, 0.5.5, Retrieve YouTube content and metadata, 2019-11-22T07:14:11+0000
+/project/gsteditor/, GstEditor, 0.1.0, GStreamer Graphical Pipeline Editor, 2009-05-01T18:37:57+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/microphone/, microphone, 0.3.1, Sending microphone data using ZeroMQ, 2018-05-23T01:46:44+0000
+/project/livingbio-pafy/, livingbio-pafy, 0.5.2.1, Retrieve YouTube content and metadata, 2017-12-13T01:46:01+0000
+/project/pylivestream/, pylivestream, 1.11.3, Livestream using FFmpeg to YouTube Live, Periscope, Facebook Live, Twitch, and many more, 2020-11-15T13:54:01+0000
+/project/spotify-onthego/, spotify-onthego, 1.0.9, Download Spotify songs and playlists (with YouTube), 2020-05-21T08:39:37+0000
+/project/higrid/, higrid, 0.1.1, Hierarchical Grid Refinement (HiGRID): Multiple source DOA Estimation with Spherical Microphone Arrays, 2019-04-10T22:12:17+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/spaudio/, spaudio, 0.7.16, spAudio audio I/O library, 2019-05-04T17:32:09+0000
+/project/ffmpegio/, ffmpegio, 0.0.7, Read/write media files with FFmpeg, 2021-04-22T14:02:05+0000
+/project/watson-streaming/, watson-streaming, 0.0.13, Speech to text transcription in real-time using IBM Watson, 2020-06-01T17:20:53+0000
+/project/spotify-ripper-fix/, spotify-ripper-fix, 2.11, a small ripper for Spotify that rips Spotify URIs to audio files, 2016-08-22T05:02:28+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/web-youtube-dl/, web-youtube-dl, 0.1.5, A web version of youtube-dl, 2020-10-06T04:03:08+0000
+/project/pycarla/, pycarla, 0.2.0, Use VST/LV2/etc. plugins with realtime abilities in Python, 2021-02-22T23:13:13+0000
+/project/miniaudio/, miniaudio, 1.43, python bindings for the miniaudio library and its decoders (mp3, flac, ogg vorbis, wav), 2021-03-25T20:05:09+0000
+/project/beheaded/, Beheaded, 1.2, Generic X window and recording for headless setups in Python., 2015-03-30T15:07:08+0000
+/project/glucid/, glucid, 0.5.1, Configure the Lucid 8824 AD/DA Audio Interface via              a Serial Connection, 2019-02-14T22:06:37+0000
+/project/imantics/, imantics, 0.1.12, Python package for managing image annotations, 2020-01-22T17:54:17+0000
+/project/hermes-audio-server/, hermes-audio-server, 0.2.0, An open source implementation of the audio server part of the Hermes protocol, 2019-06-04T16:32:36+0000
+/project/streamtuner2/, streamtuner2, 2.2.0, Streamtuner2 is an internet radio browser, 2017-01-01T21:48:37+0000
+/project/ghettorecorder/, ghettorecorder, 0.7.16, Records radio to multiple files. Can search title. Run: (win 'pip'/tux 'pip3, py..3') 'pip install ghettorecorder' then 'pip show ghettorecorder' to find install Location: site-packages/ghettorecorder then 'python - m ghettorecorder.run' or 'python - m ghettorecorder.win' shows a Window, sudo apt-get install python3-tk, 2021-03-25T10:30:18+0000
+/project/mapsadam/, mapsadam, 0.2.21, Analog to Digital Audiovisual Machine, 2020-08-08T19:51:04+0000
+/project/pymedia2-pyrana/, pymedia2-pyrana, 0.6.0, Package for simple manipulation of multimedia files, 2014-11-02T16:16:20+0000
+/project/pyalsaaudio/, pyalsaaudio, 0.9.0, ALSA bindings, 2020-07-13T20:09:32+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/streamrecord/, streamrecord, 0.9.1, Record and split an audio stream, 2017-10-17T13:26:52+0000
+/project/rrec/, rrec, 0.1.1, automatically record your favourite program from WDR radio, 2015-04-12T18:29:15+0000
+/project/timeshift/, timeshift, 0.2, A python program for recording Internet radio streams and saving them for later listening, 2013-02-21T04:35:05+0000
+/project/pyo/, pyo, 1.0.3, Python module to build digital signal processing program., 2020-08-28T22:51:24+0000
+/project/stt-watson/, stt-watson, 1.0.3, Continuous speech to text using watson in python with websocket and record from microphone, 2016-01-29T14:15:25+0000
+/project/javascriptwebscraper/, javascriptwebscraper, 0.1.0, javascript webscaper for youtube for Vexbot, 2016-07-09T18:58:08+0000
+/project/sytad/, SYTAD, 0.1.3, Provides a simple terminal/scripting interface for downloading audio from YouTube via pafy. Works on Android through QPython., 2014-10-28T12:31:08+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/audiolazy/, audiolazy, 0.6, Real-Time Expressive Digital Signal Processing (DSP) Package for Python!, 2016-09-29T13:09:46+0000
+/project/speechtotext/, speechtotext, 0.0.3, Text to Speech for python, 2016-07-12T03:56:08+0000
+/project/freeseer/, freeseer, 3.0.1, Video recording and streaming software, 2014-01-03T01:49:45+0000
+/project/music-score-creator/, music-score-creator, 0.9.1, Music score creator. Generate a music score from an audio., 2014-09-22T23:11:26+0000
+/project/ffmpegio/, ffmpegio, 0.0.7, Read/write media files with FFmpeg, 2021-04-22T14:02:05+0000
+/project/spotify-onthego/, spotify-onthego, 1.0.9, Download Spotify songs and playlists (with YouTube), 2020-05-21T08:39:37+0000
+/project/project0/, Project0, 0.1.4, Offline vocal assistant and tts, 2020-10-08T22:08:34+0000
+/project/spaudio/, spaudio, 0.7.16, spAudio audio I/O library, 2019-05-04T17:32:09+0000
+/project/higrid/, higrid, 0.1.1, Hierarchical Grid Refinement (HiGRID): Multiple source DOA Estimation with Spherical Microphone Arrays, 2019-04-10T22:12:17+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/pytgcalls/, pytgcalls, 0.0.19, Library connecting python binding for tgcalls and pyrogram, 2021-04-18T16:51:01+0000
+/project/livingbio-pafy/, livingbio-pafy, 0.5.2.1, Retrieve YouTube content and metadata, 2017-12-13T01:46:01+0000
+/project/pylivestream/, pylivestream, 1.11.3, Livestream using FFmpeg to YouTube Live, Periscope, Facebook Live, Twitch, and many more, 2020-11-15T13:54:01+0000
+/project/kazam/, kazam, 1.5.5, A screencasting program created with design in mind., 2019-08-27T07:04:29+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/pafy/, pafy, 0.5.5, Retrieve YouTube content and metadata, 2019-11-22T07:14:11+0000
+/project/gsteditor/, GstEditor, 0.1.0, GStreamer Graphical Pipeline Editor, 2009-05-01T18:37:57+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/microphone/, microphone, 0.3.1, Sending microphone data using ZeroMQ, 2018-05-23T01:46:44+0000
+/project/pamic/, pamic, 0.2.2, Funking up Pulseaudio microphone use, 2021-02-22T21:34:09+0000
+/project/tgcalls/, tgcalls, 0.0.12, A python binding for tgcalls, 2021-04-18T16:24:19+0000
+/project/pylisten/, pylisten, 0.1.1, A simple pyaudio microphone interface, 2018-07-27T18:19:24+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/pycsdl2/, pycsdl2, 2.0.0.0.dev5, Simple DirectMedia Layer, 2015-10-25T16:03:05+0000
+/project/evercam/, evercam, 0.1.3, UNKNOWN, 2014-01-20T09:45:24+0000
+/project/spotify-ripper-morgaroth/, spotify-ripper-morgaroth, 2.9.6, a small ripper for Spotify that rips Spotify URIs to audio files, 2016-06-25T13:59:27+0000
+/project/soundcard/, SoundCard, 0.4.1, Play and record audio without resorting to CPython extensions, 2021-03-14T12:41:39+0000

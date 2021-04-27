@@ -1,0 +1,158 @@
+/project/pyshop/, pyshop, 1.3.0, Private Python Package Index, 2017-06-29T19:47:07+0000
+/project/gdirsync/, Gdirsync, 0.1.0, Simple multi-platform file syncing tool, 2020-01-15T21:08:57+0000
+/project/backupy/, BackuPy, 1.9.2, A simple backup program in python with an emphasis on data integrity and transparent behaviour, 2021-02-15T04:11:16+0000
+/project/flickr-uploader/, flickr-uploader, 2.8.7, Upload a directory of media (pics/videos) to Flickr for showing off your pics on the WEB and as a backup of your local storage. flickr-uploader designed primarly for Synology Devices. Also works on Linux, Mac and Windows systems., 2018-10-01T13:20:09+0000
+/project/perplex/, perplex, 0.0.1, Perpetual Plex in the Cloud, 2018-12-23T05:33:08+0000
+/project/sneakersync/, sneakersync, 1.2.2, Synchronize files through the sneakernet, 2019-01-28T06:59:38+0000
+/project/lnsync/, lnsync, 0.7.0, Sync by content with hard link support, fast fdupes, and much more., 2021-02-14T13:55:35+0000
+/project/nimbstor/, nimbstor, 1.0.1, Store incrementally, compressed and encrypted data failsafe in filesystems, sFTP, WebDAV, IMAP or other backends., 2012-03-18T10:24:27+0000
+/project/dirsync/, dirsync, 2.2.5, Advanced directory tree synchronisation tool, 2020-07-31T23:21:46+0000
+/project/googledriveaccess/, googleDriveAccess, 0.1.6, update spreadsheet with OAuth2 and recursive upload to Google Drive ( supports OAuth2, Calendar, Gmail, geocoding, spreadsheet, etc ) and import-export Google Apps Script source code, 2014-08-07T17:04:21+0000
+/project/sync/, sync, 1.0.0, Python cile copy utility, 2014-12-14T05:42:24+0000
+/project/syncthing/, syncthing, 2.4.2, Python bindings to the Syncthing REST interface, targeting v0.14.44, 2020-07-26T20:10:17+0000
+/project/ipwb/, ipwb, 0.2020.7.10.1854, InterPlanetary Wayback (ipwb): Web Archive integration with IPFS, 2020-07-10T18:55:12+0000
+/project/tfatool/, tfatool, 2.5.0, Tools for synchronizing files to/from and configuring the Toshiba FlashAir wireless SD card, 2017-11-30T04:36:05+0000
+/project/replicate-github/, replicate-github, 1.0.0, Tool for maintaining mirrors of GitHub repos, 2017-09-14T22:07:23+0000
+/project/davbackup/, davbackup, 0.1.3, Make backups of a DAV Server., 2020-11-10T19:38:58+0000
+/project/aiosyncthing/, aiosyncthing, 0.5.1, Asynchronous Python client for the Syncthing REST API, 2021-04-10T09:43:55+0000
+/project/wsl-path-converter/, wsl-path-converter, 0.3.1, Convert between Linux and Windows path in WSL, 2019-08-05T13:04:54+0000
+/project/fit-ctu-gitlab-exporter/, fit-ctu-gitlab-exporter, 1.0.0, Tool for exporting projects from FIT CTU GitLab to GitHub, 2021-02-10T21:38:00+0000
+/project/giternity/, giternity, 0.5, Mirror git repositories and retrieve metadata for cgit., 2019-03-25T20:02:08+0000
+/project/cdxjgenerator/, cdxjGenerator, 0.0.1, Generate CDXJ TimeMaps for testing elsewhere, 2020-08-05T14:36:02+0000
+/project/ingit/, ingit, 0.4.8, git repository collection management tool, 2019-08-24T08:17:02+0000
+/project/abgleich/, abgleich, 0.0.7, zfs sync tool, 2020-08-05T10:03:35+0000
+/project/archive-to-s3/, archive-to-s3, 1.0.5, , 2019-11-07T22:24:43+0000
+/project/dupfilefind/, dupfilefind, 1.6.9, find files with identical contents, or print out a list of all files and their md5 sums and sizes, 2010-04-22T05:23:07+0000
+/project/vscode-dl/, vscode-dl, 1.0.2, Visual Studio Code and extensions downloader for offline installations, 2020-06-30T15:48:38+0000
+/project/morenines/, morenines, 1.1.0, A simple content change detector, 2016-05-01T20:52:09+0000
+/project/gitblobts/, gitblobts, 0.0.7, git-backed time-indexed blob storage, 2019-01-18T01:19:05+0000
+/project/lowatt-collect/, lowatt-collect, 1.1, collect arbitrary data, 2019-10-03T09:49:59+0000
+/project/poorbox/, poorbox, 0.1, Downloads a dropbox directory via the dropbox REST API. Downloads only the changed files. Useful for limited environments., 2013-02-24T02:23:20+0000
+/project/stormpath-migrate/, stormpath-migrate, 1.1.5, Migrate a Stormpath tenant from one place to another., 2017-01-17T19:38:57+0000
+/project/everlib/, everlib, 0.0.1, Everlasting media library backed by cloud storage, 2020-02-03T02:15:23+0000
+/project/boto-rsync/, boto_rsync, 0.8.1, An rsync-like wrapper for boto's S3 and Google Storage interfaces., 2012-02-16T01:27:20+0000
+/project/zfec/, zfec, 1.5.5, An efficient, portable erasure coding tool, 2020-11-12T14:03:44+0000
+/project/fmorgue/, fmorgue, 1.2, Mirror files to a remote server, regardless of their name., 2012-01-17T09:12:31+0000
+/project/opacify/, Opacify, 0.3.2, , 2019-01-26T07:20:47+0000
+/project/zfs-tools-zbackup/, zfs-tools-zbackup, 0.5.1, ZFS synchronization and snapshotting tools, 2018-12-13T22:39:20+0000
+/project/cfs-manager/, CFS-Manager, 1.3.0, A virtual filesystem for accessing storage on multiple cloud services., 2017-12-16T00:43:16+0000
+/project/a3m/, a3m, 0.5.0, Lightweight Archivematica, 2020-10-27T16:52:46+0000
+/project/backupmysystemusb2usb/, backupmysystemusb2usb, 1.0.4, Backup a usb key to another usb key with the same space disk, 2020-02-09T13:12:16+0000
+/project/zfs-tools/, zfs-tools, 0.5.1, ZFS synchronization and snapshotting tools, 2020-01-04T00:10:51+0000
+/project/refrapt/, Refrapt, 0.1.8, A tool to mirror Debian repositories for use as a local mirror., 2021-04-23T18:47:36+0000
+/project/literotica-dl/, literotica-dl, 0.0.3, A tool to download stories from Literotica, 2020-11-07T06:43:08+0000
+/project/pipa/, pipa, 0.1.0, Simple HTTPS PyPI server, 2014-03-26T11:27:31+0000
+/project/gridsync/, gridsync, 0.4.3, Synchronize local directories with Tahoe-LAFS storage grids., 2020-07-25T00:41:46+0000
+/project/repomirror/, repomirror, 1.0.4, Clone/mirror multiple Linux distro/BSD flavor/etc. repositories to a local server, 2020-07-07T17:33:39+0000
+/project/thin-man/, thin-man, 0.1.0.dev1, “Thin Man” backs up all metadata in your source tree of git repos., 2015-04-06T22:28:11+0000
+/project/curlwrapper/, curlwrapper, 0.1.110, curlwrapper (browser interface for curl), 2011-11-08T03:48:09+0000
+/project/aws-s3sync/, aws_s3sync, 1.0.1, A utility to sync data to/from AWS S3, 2017-05-02T11:26:46+0000
+/project/drt/, drt, 1.2.1, dvd copying and ripping management tool, 2020-03-07T20:10:37+0000
+/project/zyklop/, zyklop, 0.5.2, Rsync wrapper making syncing easy, 2013-02-12T03:02:11+0000
+/project/directsync/, directsync, 2.0.0, Compare(*diff*)/synchronize/backup/mirror folders quickly., 2020-11-14T10:43:01+0000
+/project/fdroid-mirror-monitor/, fdroid-mirror-monitor, 0.3.2, monitoring of known https://f-droid.org mirrors, 2020-06-17T12:25:39+0000
+/project/duplicity-backup-s3/, duplicity-backup-s3, 1.1.0, Duplicity backup to S3 for production servers using simple yaml config file., 2020-12-08T21:26:36+0000
+/project/tumdlr/, tumdlr, 0.2.0, A Tumblr image and video scraping utility, 2016-03-14T02:44:00+0000
+/project/creep/, creep, 0.3.5, Incremental FTP/SSH deployment tool, 2020-01-18T09:36:07+0000
+/project/gdrive-sync/, gdrive_sync, 0.6.1, Sync directories between your computer and Google Drive, 2014-11-10T20:20:52+0000
+/project/webcrystal/, webcrystal, 1.0.1, A website archival tool and format., 2016-04-18T06:04:16+0000
+/project/syncthingmanager/, syncthingmanager, 0.1.0, A commandline tool for configuring Syncthing, 2017-03-04T21:20:46+0000
+/project/allmydata-tahoe/, allmydata-tahoe, 1.10.2, secure, decentralized, fault-tolerant filesystem, 2015-07-31T02:49:28+0000
+/project/codemanager/, CodeManager, 1.0.0, Utility for automatic downloading, compiling and  installing softaware from internet., 2020-06-18T21:55:32+0000
+/project/aiophotoprism/, aiophotoprism, 0.1.1, Asynchronous Python client for the Photoprism REST API, 2021-03-07T10:02:18+0000
+/project/libzim/, libzim, 0.0.3.post0, A python-facing API for creating and interacting with ZIM files, 2020-07-03T10:42:26+0000
+/project/git-backup/, git-backup, 0.1.2, Script for backing up GitHub repositories, 2017-01-23T07:41:29+0000
+/project/mechanize/, mechanize, 0.4.5, Stateful programmatic web browsing., 2019-12-22T09:18:43+0000
+/project/getmagpi/, getmagpi, 0.3.4, A simple utility to synchronize free MagPi PDF content., 2017-09-06T04:00:02+0000
+/project/vscod/, vscod, 0.1.0, Download VSCode binaries and extensions offline., 2019-08-22T00:11:34+0000
+/project/pingit/, pingit, 0.1a1, PINGIT batch management tool for multiple nested git repositories, 2019-01-13T13:22:02+0000
+/project/gh-favs/, gh_favs, 3.2, A small script to clone and update all your watched GitHub projects, 2012-02-24T20:51:03+0000
+/project/backasa/, backasa, 0.9.5, A Picasa Web Albums backup utility, 2013-02-21T22:32:36+0000
+/project/jw-backup/, jw.backup, 1.0.21, A simple differential backup script for systems maintained by package managers with single-file manifests, 2016-02-02T11:08:32+0000
+/project/tahoe-lafs/, tahoe-lafs, 1.15.1, secure, decentralized, fault-tolerant file store, 2021-03-23T21:00:37+0000
+/project/syncere/, syncere, 0.8.0, Interactive rsync-based data synchronization., 2018-01-21T11:14:41+0000
+/project/sftpclone/, sftpclone, 1.2.2, A tool for cloning/syncing a local directory tree with an SFTP server., 2018-09-03T10:24:20+0000
+/project/mcs/, mcs, 0.3.7, Monticello repository synchronization tool, 2012-03-19T18:51:28+0000
+/project/dynamite-streams/, dynamite-streams, 0.0.1, A module to be used as an AWS Lambda function to keep postgres replicas of dynamodb tables., 2020-01-04T04:26:30+0000
+/project/magritte/, magritte, 0.2.0, Optimize image files and comic archives with external tools, 2016-12-22T21:30:02+0000
+/project/raingutter/, raingutter, 0.9, A diff/sync tool for MySQL databases, including Drupal., 2013-12-11T18:38:37+0000
+/project/jw-grbackup/, jw.grbackup, 0.9.7, Gentoo rsync backup -- a simple differential backup script for Gentoo Linux, 2015-12-13T13:57:24+0000
+/project/pyshop/, pyshop, 1.3.0, Private Python Package Index, 2017-06-29T19:47:07+0000
+/project/gdirsync/, Gdirsync, 0.1.0, Simple multi-platform file syncing tool, 2020-01-15T21:08:57+0000
+/project/backupy/, BackuPy, 1.9.2, A simple backup program in python with an emphasis on data integrity and transparent behaviour, 2021-02-15T04:11:16+0000
+/project/replicate-github/, replicate-github, 1.0.0, Tool for maintaining mirrors of GitHub repos, 2017-09-14T22:07:23+0000
+/project/davbackup/, davbackup, 0.1.3, Make backups of a DAV Server., 2020-11-10T19:38:58+0000
+/project/flickr-uploader/, flickr-uploader, 2.8.7, Upload a directory of media (pics/videos) to Flickr for showing off your pics on the WEB and as a backup of your local storage. flickr-uploader designed primarly for Synology Devices. Also works on Linux, Mac and Windows systems., 2018-10-01T13:20:09+0000
+/project/perplex/, perplex, 0.0.1, Perpetual Plex in the Cloud, 2018-12-23T05:33:08+0000
+/project/sneakersync/, sneakersync, 1.2.2, Synchronize files through the sneakernet, 2019-01-28T06:59:38+0000
+/project/lnsync/, lnsync, 0.7.0, Sync by content with hard link support, fast fdupes, and much more., 2021-02-14T13:55:35+0000
+/project/nimbstor/, nimbstor, 1.0.1, Store incrementally, compressed and encrypted data failsafe in filesystems, sFTP, WebDAV, IMAP or other backends., 2012-03-18T10:24:27+0000
+/project/dirsync/, dirsync, 2.2.5, Advanced directory tree synchronisation tool, 2020-07-31T23:21:46+0000
+/project/googledriveaccess/, googleDriveAccess, 0.1.6, update spreadsheet with OAuth2 and recursive upload to Google Drive ( supports OAuth2, Calendar, Gmail, geocoding, spreadsheet, etc ) and import-export Google Apps Script source code, 2014-08-07T17:04:21+0000
+/project/aiosyncthing/, aiosyncthing, 0.5.1, Asynchronous Python client for the Syncthing REST API, 2021-04-10T09:43:55+0000
+/project/wsl-path-converter/, wsl-path-converter, 0.3.1, Convert between Linux and Windows path in WSL, 2019-08-05T13:04:54+0000
+/project/fit-ctu-gitlab-exporter/, fit-ctu-gitlab-exporter, 1.0.0, Tool for exporting projects from FIT CTU GitLab to GitHub, 2021-02-10T21:38:00+0000
+/project/giternity/, giternity, 0.5, Mirror git repositories and retrieve metadata for cgit., 2019-03-25T20:02:08+0000
+/project/cdxjgenerator/, cdxjGenerator, 0.0.1, Generate CDXJ TimeMaps for testing elsewhere, 2020-08-05T14:36:02+0000
+/project/ingit/, ingit, 0.4.8, git repository collection management tool, 2019-08-24T08:17:02+0000
+/project/sync/, sync, 1.0.0, Python cile copy utility, 2014-12-14T05:42:24+0000
+/project/syncthing/, syncthing, 2.4.2, Python bindings to the Syncthing REST interface, targeting v0.14.44, 2020-07-26T20:10:17+0000
+/project/ipwb/, ipwb, 0.2020.7.10.1854, InterPlanetary Wayback (ipwb): Web Archive integration with IPFS, 2020-07-10T18:55:12+0000
+/project/tfatool/, tfatool, 2.5.0, Tools for synchronizing files to/from and configuring the Toshiba FlashAir wireless SD card, 2017-11-30T04:36:05+0000
+/project/archive-to-s3/, archive-to-s3, 1.0.5, , 2019-11-07T22:24:43+0000
+/project/dupfilefind/, dupfilefind, 1.6.9, find files with identical contents, or print out a list of all files and their md5 sums and sizes, 2010-04-22T05:23:07+0000
+/project/zfs-tools-zbackup/, zfs-tools-zbackup, 0.5.1, ZFS synchronization and snapshotting tools, 2018-12-13T22:39:20+0000
+/project/lowatt-collect/, lowatt-collect, 1.1, collect arbitrary data, 2019-10-03T09:49:59+0000
+/project/a3m/, a3m, 0.5.0, Lightweight Archivematica, 2020-10-27T16:52:46+0000
+/project/pipa/, pipa, 0.1.0, Simple HTTPS PyPI server, 2014-03-26T11:27:31+0000
+/project/stormpath-migrate/, stormpath-migrate, 1.1.5, Migrate a Stormpath tenant from one place to another., 2017-01-17T19:38:57+0000
+/project/abgleich/, abgleich, 0.0.7, zfs sync tool, 2020-08-05T10:03:35+0000
+/project/everlib/, everlib, 0.0.1, Everlasting media library backed by cloud storage, 2020-02-03T02:15:23+0000
+/project/boto-rsync/, boto_rsync, 0.8.1, An rsync-like wrapper for boto's S3 and Google Storage interfaces., 2012-02-16T01:27:20+0000
+/project/zfec/, zfec, 1.5.5, An efficient, portable erasure coding tool, 2020-11-12T14:03:44+0000
+/project/fmorgue/, fmorgue, 1.2, Mirror files to a remote server, regardless of their name., 2012-01-17T09:12:31+0000
+/project/opacify/, Opacify, 0.3.2, , 2019-01-26T07:20:47+0000
+/project/vscode-dl/, vscode-dl, 1.0.2, Visual Studio Code and extensions downloader for offline installations, 2020-06-30T15:48:38+0000
+/project/morenines/, morenines, 1.1.0, A simple content change detector, 2016-05-01T20:52:09+0000
+/project/cfs-manager/, CFS-Manager, 1.3.0, A virtual filesystem for accessing storage on multiple cloud services., 2017-12-16T00:43:16+0000
+/project/gitblobts/, gitblobts, 0.0.7, git-backed time-indexed blob storage, 2019-01-18T01:19:05+0000
+/project/backupmysystemusb2usb/, backupmysystemusb2usb, 1.0.4, Backup a usb key to another usb key with the same space disk, 2020-02-09T13:12:16+0000
+/project/zfs-tools/, zfs-tools, 0.5.1, ZFS synchronization and snapshotting tools, 2020-01-04T00:10:51+0000
+/project/refrapt/, Refrapt, 0.1.8, A tool to mirror Debian repositories for use as a local mirror., 2021-04-23T18:47:36+0000
+/project/literotica-dl/, literotica-dl, 0.0.3, A tool to download stories from Literotica, 2020-11-07T06:43:08+0000
+/project/gridsync/, gridsync, 0.4.3, Synchronize local directories with Tahoe-LAFS storage grids., 2020-07-25T00:41:46+0000
+/project/poorbox/, poorbox, 0.1, Downloads a dropbox directory via the dropbox REST API. Downloads only the changed files. Useful for limited environments., 2013-02-24T02:23:20+0000
+/project/repomirror/, repomirror, 1.0.4, Clone/mirror multiple Linux distro/BSD flavor/etc. repositories to a local server, 2020-07-07T17:33:39+0000
+/project/thin-man/, thin-man, 0.1.0.dev1, “Thin Man” backs up all metadata in your source tree of git repos., 2015-04-06T22:28:11+0000
+/project/curlwrapper/, curlwrapper, 0.1.110, curlwrapper (browser interface for curl), 2011-11-08T03:48:09+0000
+/project/aws-s3sync/, aws_s3sync, 1.0.1, A utility to sync data to/from AWS S3, 2017-05-02T11:26:46+0000
+/project/drt/, drt, 1.2.1, dvd copying and ripping management tool, 2020-03-07T20:10:37+0000
+/project/syncere/, syncere, 0.8.0, Interactive rsync-based data synchronization., 2018-01-21T11:14:41+0000
+/project/zyklop/, zyklop, 0.5.2, Rsync wrapper making syncing easy, 2013-02-12T03:02:11+0000
+/project/sftpclone/, sftpclone, 1.2.2, A tool for cloning/syncing a local directory tree with an SFTP server., 2018-09-03T10:24:20+0000
+/project/mcs/, mcs, 0.3.7, Monticello repository synchronization tool, 2012-03-19T18:51:28+0000
+/project/getmagpi/, getmagpi, 0.3.4, A simple utility to synchronize free MagPi PDF content., 2017-09-06T04:00:02+0000
+/project/vscod/, vscod, 0.1.0, Download VSCode binaries and extensions offline., 2019-08-22T00:11:34+0000
+/project/pingit/, pingit, 0.1a1, PINGIT batch management tool for multiple nested git repositories, 2019-01-13T13:22:02+0000
+/project/gh-favs/, gh_favs, 3.2, A small script to clone and update all your watched GitHub projects, 2012-02-24T20:51:03+0000
+/project/git-backup/, git-backup, 0.1.2, Script for backing up GitHub repositories, 2017-01-23T07:41:29+0000
+/project/webcrystal/, webcrystal, 1.0.1, A website archival tool and format., 2016-04-18T06:04:16+0000
+/project/syncthingmanager/, syncthingmanager, 0.1.0, A commandline tool for configuring Syncthing, 2017-03-04T21:20:46+0000
+/project/allmydata-tahoe/, allmydata-tahoe, 1.10.2, secure, decentralized, fault-tolerant filesystem, 2015-07-31T02:49:28+0000
+/project/codemanager/, CodeManager, 1.0.0, Utility for automatic downloading, compiling and  installing softaware from internet., 2020-06-18T21:55:32+0000
+/project/aiophotoprism/, aiophotoprism, 0.1.1, Asynchronous Python client for the Photoprism REST API, 2021-03-07T10:02:18+0000
+/project/libzim/, libzim, 0.0.3.post0, A python-facing API for creating and interacting with ZIM files, 2020-07-03T10:42:26+0000
+/project/dynamite-streams/, dynamite-streams, 0.0.1, A module to be used as an AWS Lambda function to keep postgres replicas of dynamodb tables., 2020-01-04T04:26:30+0000
+/project/magritte/, magritte, 0.2.0, Optimize image files and comic archives with external tools, 2016-12-22T21:30:02+0000
+/project/raingutter/, raingutter, 0.9, A diff/sync tool for MySQL databases, including Drupal., 2013-12-11T18:38:37+0000
+/project/jw-grbackup/, jw.grbackup, 0.9.7, Gentoo rsync backup -- a simple differential backup script for Gentoo Linux, 2015-12-13T13:57:24+0000
+/project/mechanize/, mechanize, 0.4.5, Stateful programmatic web browsing., 2019-12-22T09:18:43+0000
+/project/backasa/, backasa, 0.9.5, A Picasa Web Albums backup utility, 2013-02-21T22:32:36+0000
+/project/jw-backup/, jw.backup, 1.0.21, A simple differential backup script for systems maintained by package managers with single-file manifests, 2016-02-02T11:08:32+0000
+/project/tahoe-lafs/, tahoe-lafs, 1.15.1, secure, decentralized, fault-tolerant file store, 2021-03-23T21:00:37+0000
+/project/creep/, creep, 0.3.5, Incremental FTP/SSH deployment tool, 2020-01-18T09:36:07+0000
+/project/gdrive-sync/, gdrive_sync, 0.6.1, Sync directories between your computer and Google Drive, 2014-11-10T20:20:52+0000
+/project/directsync/, directsync, 2.0.0, Compare(*diff*)/synchronize/backup/mirror folders quickly., 2020-11-14T10:43:01+0000
+/project/fdroid-mirror-monitor/, fdroid-mirror-monitor, 0.3.2, monitoring of known https://f-droid.org mirrors, 2020-06-17T12:25:39+0000
+/project/duplicity-backup-s3/, duplicity-backup-s3, 1.1.0, Duplicity backup to S3 for production servers using simple yaml config file., 2020-12-08T21:26:36+0000
+/project/tumdlr/, tumdlr, 0.2.0, A Tumblr image and video scraping utility, 2016-03-14T02:44:00+0000

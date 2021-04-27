@@ -1,0 +1,1460 @@
+/project/pymatgen-diffusion/, pymatgen-diffusion, 2020.10.8, Add-on to pymatgen for diffusion analysis., 2020-10-08T20:26:52+0000
+/project/smiview/, smiview, 1.2.1, smiview is a command-line, text-mode tool to show the structure of a SMILES string., 2019-08-29T10:34:20+0000
+/project/isospecpy/, IsoSpecPy, 2.1.4, Python interface to IsoSpec++ isotopic envelope calculator library, 2020-12-10T13:50:10+0000
+/project/chemlab/, chemlab, 1.1, The python chemistry library you were waiting for, 2016-10-25T23:09:55+0000
+/project/sqnomad/, SQNomad, 0.2.3, NOMAD - A blackbox optimization software, 2021-03-30T22:43:39+0000
+/project/comp-chem-py/, comp-chem-py, 1.0, Computational chemistry library in python, 2018-09-22T17:39:50+0000
+/project/parse-fmt/, parse-fmt, 0.5.1, A Python parser for CASTEP fmt files (densities, potentials etc.), 2019-06-06T11:51:10+0000
+/project/pytzer/, Pytzer, 0.4.3, Pitzer model for chemical activities in aqueous solutions, 2019-09-11T10:34:36+0000
+/project/scripyt-mwfn/, scripyt-MWFN, 1.0.1, A package for Cheminformatics., 2020-11-10T12:16:07+0000
+/project/pybel-cx/, pybel-cx, 0.1.3, A PyBEL extension for interconversion with CX, 2019-10-04T08:10:42+0000
+/project/bapt/, bapt, 1.0.0, Band alignment plotting tool, 2017-10-20T12:32:33+0000
+/project/autochem/, autochem, 0.1.5, Automates creation and post-processing of quantum chemical calculations, 2020-09-24T12:11:17+0000
+/project/edbo/, edbo, 0.1.0, Experimental design via Bayesian optimization, 2020-11-18T16:04:09+0000
+/project/opem/, opem, 1.2, Open Source PEM Cell Simulation Tool, 2020-03-12T14:13:16+0000
+/project/mdbenchmark/, mdbenchmark, 3.0.1, Quickly generate, start and analyze benchmarks for your molecular dynamics simulations., 2020-10-09T14:42:37+0000
+/project/car2lammpsdata/, car2lammpsdata, 0.0.3, car2lammpsdata, 2019-07-18T09:31:32+0000
+/project/nmrml2isa/, nmrml2isa, 0.3.1, nmrml2isa - nmrML to ISA-Tab parsing tool, 2016-12-19T14:32:01+0000
+/project/pyjdx/, pyjdx, 0.0.1, A reader of JCAMP-DX spectral data files, 2015-08-06T16:45:26+0000
+/project/decaf-espresso/, decaf-espresso, 0.3.1, Light-weight ASE calculator wrapper for Quantum Espresso., 2018-11-08T08:17:14+0000
+/project/cwl-airflow/, cwl-airflow, 1.2.10, Python package to extend Airflow functionality with CWL v1.1 support, 2021-01-29T11:36:59+0000
+/project/mate-for-dummies/, MATE-for-Dummies, 0.5.2, MATE for Dummies. Scienta Omicron MATE Scripting System in Python, 2020-06-28T11:48:27+0000
+/project/chembl-migration-model/, chembl_migration_model, 0.9.6, Core ChEMBL python ORM model for data exports and migration, 2017-05-11T16:57:16+0000
+/project/kcfconvoy/, kcfconvoy, 0.0.5, KCF-Convoy: efficient Python package to convert KCF chemical substructure fingerprints, 2019-12-02T05:06:56+0000
+/project/uamc-qed/, uamc-qed, 1.0.2, Python implementation of the QED descriptor (Quantitative Estimation of Druglikeness), 2020-11-29T09:51:14+0000
+/project/achemkit/, AChemKit, 0.3.0, An Artificial Chemistry Tookit, 2011-09-09T12:32:34+0000
+/project/pystallone/, pystallone, 1.0.0b7, Python binding for Stallone java library, 2015-01-20T15:44:38+0000
+/project/qe-tools/, qe-tools, 1.1.4, A set of useful tools to manage Quantum ESPRESSO files, 2020-04-24T07:36:00+0000
+/project/pyglotaran-alias/, pyglotaran-alias, 0.0.5, Convenience module, which allows to use pyglotaran as alias in the CLI and imports, 2021-02-25T16:14:44+0000
+/project/optslope/, optslope, 0.1.0, OptSlope - A tool for metabolic engineering, based on the OptSlope algorithm, 2019-05-14T10:03:51+0000
+/project/periodictable/, periodictable, 1.6.0, Extensible periodic table of the elements, 2021-04-21T15:44:35+0000
+/project/mdshare/, mdshare, 0.4.1, Get easy access to our public data files., 2021-02-17T11:07:37+0000
+/project/rawautoparams/, rawautoparams, 0.0.5, Thermo/Finnigan .raw file format parameters reader, 2021-04-16T14:48:11+0000
+/project/pyprophet-cli/, pyprophet-cli, 0.0.19, tools for running pyoprohet on a computing cluster, 2016-01-04T17:36:57+0000
+/project/timspy/, timspy, 0.9.3, TimsPy: access for raw timsTOF Pro data for data scientists, 2020-12-10T10:54:07+0000
+/project/pymatgen/, pymatgen, 2022.0.6, Python Materials Genomics is a robust materials analysis code that defines core object representations for structures and molecules with support for many electronic structure codes. It is currently the core analysis code powering the Materials Project (https://www.materialsproject.org)., 2021-04-22T06:26:09+0000
+/project/ecsalinity/, ecsalinity, 1.0.2, Monitor hydroponic nutrient levels, salinity levels in aquariums or the ocean, saltwater pools, soil salinity, and water quality, 2017-09-09T04:42:30+0000
+/project/contact-map/, contact-map, 0.7.0, Contact maps based on MDTraj, 2020-10-28T09:56:07+0000
+/project/apstools/, apstools, 1.5.0, Various Python tools for use with the Bluesky Framework at the APS, 2021-04-02T20:49:42+0000
+/project/laudadriver/, LaudaDriver, 1.0.0a7, Simple helper to control the Lauda thermostat, 2017-05-22T13:46:44+0000
+/project/vipster/, vipster, 1.19.1, A pre- and post-processing toolkit for atomistic simulations., 2020-12-14T17:28:12+0000
+/project/cclib/, cclib, 1.7, cclib: parsers and algorithms for computational chemistry, 2021-01-05T00:33:23+0000
+/project/networkit/, networkit, 8.1, NetworKit is a toolbox for high-performance network analysis, 2021-02-23T17:32:14+0000
+/project/equilibrator-api/, equilibrator-api, 0.4.2, Calculation of standard thermodynamic potentials of biochemical reactions., 2021-03-24T09:25:04+0000
+/project/crem/, crem, 0.2.5, CReM: chemically reasonable mutations framework, 2021-02-21T13:36:27+0000
+/project/py-packman/, py-packman, 1.2.10, A software package for molecular PACKing and Motion ANalysis (PACKMAN), 2021-04-01T20:51:09+0000
+/project/pvtrace/, pvtrace, 2.1.6, Optical ray tracing for luminescent materials and spectral converter photovoltaic devices., 2020-11-18T23:07:02+0000
+/project/islatu/, islatu, 0.1.1, X-ray reflectometry reduction in Python., 2020-12-02T16:12:07+0000
+/project/waters/, waters, 0.0.4, Parsing MS data from Waters., 2020-09-20T11:28:17+0000
+/project/pyerepfit/, pyerepfit, 0.1, The python verion of the DFTB repulsive potential fitting tool, erepfit., 2018-09-27T07:07:35+0000
+/project/proteincsm/, proteincsm, 1.0.1, The Continuous Symmetry Measure for Proteins, 2019-04-07T19:40:36+0000
+/project/pdbsearch/, pdbsearch, 0.1.0, A library for searching for PDB structures using the official APIs., 2021-03-02T22:57:47+0000
+/project/nanome-ligand-focus/, nanome-ligand-focus, 0.0.1, Nanome Plugin to easily focus on a ligand, 2019-05-30T20:47:03+0000
+/project/chembl-core-db/, chembl_core_db, 0.9.22, Core ChEMBL python library, 2017-11-06T18:30:37+0000
+/project/deepqmc/, deepqmc, 0.3.0, Deep-learning quantum Monte Carlo for electrons in real space, 2021-01-27T15:58:12+0000
+/project/clusgeo/, clusgeo, 4.1.0, CLUSter GEOmetry tool for surface chemistry., 2019-01-09T16:19:29+0000
+/project/spec2nexus/, spec2nexus, 2021.1.8, Converts SPEC data files and scans into NeXus HDF5 files, 2020-11-10T21:18:24+0000
+/project/secat/, secat, 1.0.8, Size-Exclusion Chromatography Algorithmic Toolkit, 2020-07-31T14:37:28+0000
+/project/pybatchclassyfire/, pybatchclassyfire, 0.1.6, A python client for batch queries of the ClassyFire API, 2020-05-20T12:41:43+0000
+/project/sssom/, sssom, 0.14.14.dev0, Expansion of lookup tables for controlled terms, 2021-02-22T11:32:17+0000
+/project/thermochem/, thermochem, 0.8.0, Python utilities for thermodynamics and thermochemistry, 2020-04-30T01:56:33+0000
+/project/opan/, opan, 0.4rc1, Open Anharmonic -- A computational chemistry toolkit, 2016-06-30T02:00:11+0000
+/project/chemfiles/, chemfiles, 0.10.0, Read and write computational chemistry files, 2021-02-04T23:11:19+0000
+/project/unithandler/, unithandler, 1.5.0, numeric mimic classes with units, 2020-07-09T00:16:52+0000
+/project/pyrga/, pyrga, 0.0.3, Serial interface driver for SRS RGA (residual gas analyzer) mass-spectrometer, 2020-03-26T23:41:55+0000
+/project/pyco2sys/, PyCO2SYS, 1.6.0, Python implementation of CO2SYS, 2020-10-26T11:07:07+0000
+/project/tltsne/, tltsne, 0.0.2, Time-lagged t-SNE of molecular trajectories, 2020-04-21T16:00:32+0000
+/project/pyvasp/, pyvasp, 0.0.3, Multi-option command line tool for VASP, 2019-05-20T05:08:29+0000
+/project/scine-utilities/, scine-utilities, 3.0.0, Utilities used in all SCINE modules, 2020-11-27T06:53:38+0000
+/project/commongroups/, commongroups, 2017.4.4, Molecular structure-based classification of chemicals in known hazard groups, 2017-04-29T15:09:26+0000
+/project/proteinko/, proteinko, 5.0, Encode protein sequence as a distribution of its physicochemical properties, 2020-04-26T11:02:49+0000
+/project/ht/, ht, 1.0.1, Heat transfer component of Chemical Engineering Design Library (ChEDL), 2021-03-30T02:52:17+0000
+/project/soprano/, Soprano, 0.8.10, A Python library to crack crystals, 2021-01-18T12:28:14+0000
+/project/graphdot/, graphdot, 0.7.1, GPU-accelerated graph similarity algorithm library, 2021-03-25T18:15:25+0000
+/project/kgrid/, kgrid, 1.2.0, Reciprocal space sampling for atomistic crystal structures, 2021-04-01T21:15:05+0000
+/project/chemcoord/, chemcoord, 2.0.4, Python module for dealing with chemical coordinates., 2018-01-07T19:26:29+0000
+/project/biceps/, biceps, 2.0b0.post0, BICePs, 2021-02-05T18:56:33+0000
+/project/pyqentangle/, pyqentangle, 3.1.9, Quantum Entanglement in Python, 2021-04-10T18:19:16+0000
+/project/django-measurement/, django-measurement, 3.2.3, Convenient fields and classes for handling measurements, 2020-04-22T10:38:39+0000
+/project/nanome-vault/, nanome-vault, 2.2.2, A Nanome plugin that creates a web interface to upload files and make them available in Nanome, 2020-11-11T00:46:40+0000
+/project/kumaresh-package/, kumaresh_package, 1.0.0, Kumaresh project, 2014-01-29T05:54:06+0000
+/project/czmatchmaker/, czMatchmaker, 0.11, Maximum likelihood estimates of electron transfer reaction parameters., 2017-02-01T16:39:04+0000
+/project/doped/, doped, 0.0.3, Collection of Python modules & functions to perform and process solid-state defect calculations, 2021-01-09T13:02:10+0000
+/project/mdtraj/, mdtraj, 1.9.5, MDTraj: A modern, open library for the analysis of molecular dynamics trajectories, 2021-01-04T21:01:16+0000
+/project/equilib/, equilib, 0.0.1, Equilibrium solver for aqueous solutions, 2019-01-29T07:53:18+0000
+/project/oximachinerunner/, oximachinerunner, 1.4.0, Run the oximachine, 2021-02-23T10:18:44+0000
+/project/indra/, indra, 1.19.0, Integrated Network and Dynamical Reasoning Assembler, 2020-12-29T20:13:07+0000
+/project/molml/, molml, 0.9.0, An interface between molecules and machine learning, 2019-05-25T23:54:58+0000
+/project/slater/, slater, 0.0.0, A module for manipulating Slater determinants., 2019-04-02T01:55:10+0000
+/project/opentimspy/, opentimspy, 1.0.5, opentimspy: An open-source parser of Bruker Tims Data File (.tdf)., 2021-03-10T20:49:59+0000
+/project/ovito/, ovito, 3.4.4, A scientific data visualization and analysis software for particle-based simulations, 2021-03-12T10:04:29+0000
+/project/meeko/, meeko, 0.1.dev3, Python package for preparing small molecule for docking, 2021-02-17T18:51:44+0000
+/project/apav/, APAV, 1.1.1, A Python library for Atom Probe Tomography analysis, 2021-04-01T19:21:29+0000
+/project/groupfilter/, groupfilter, 0.2, A software tool for efficient filtering of Morpheus search engine results., 2015-04-07T15:07:53+0000
+/project/ipyatom/, ipyatom, 0.1.0, a package primarily for interfacing ase/pymatgen with ipyvolume/matplotlib, 2018-04-21T10:15:50+0000
+/project/reciprocalspaceship/, reciprocalspaceship, 0.9.6, Tools for exploring reciprocal space, 2021-03-29T14:20:55+0000
+/project/sciexpem-api/, SciExpeM-API, 2.0.2.4, Python wrapper for SciExpeM EndPoints, 2021-04-13T17:12:59+0000
+/project/cwl-airflow-parser/, cwl-airflow-parser, 1.0.20181213213631, Package extends Airflow functionality with CWL v1.0 support, 2018-12-13T21:46:28+0000
+/project/chemreps/, chemreps, 0.1.0, Molecular machine learning representations, 2019-06-28T15:05:02+0000
+/project/mcycle/, mcycle, 0.1.3, Power cycle sizing and analysis package, 2018-03-31T09:12:38+0000
+/project/rawquant/, RawQuant, 0.2.3, Package for extracting scan meta data and quantification information from Thermo .raw files, 2018-06-06T00:07:33+0000
+/project/mdciao/, mdciao, 0.0.1b1, mdciao: Analysis of Molecular Dynamics Simulations Using Residue Neighborhoods, 2021-04-23T12:31:53+0000
+/project/chemdataextractor/, ChemDataExtractor, 1.3.0, A toolkit for extracting chemical information from the scientific literature., 2017-02-03T00:12:04+0000
+/project/modnet/, modnet, 0.1.9, MODNet, the Material Optimal Descriptor Network for materials properties prediction., 2021-03-10T13:50:02+0000
+/project/pyopenms-nightly/, pyopenms-nightly, 2.6.0.dev20201012, Python wrapper for C++ LCMS library OpenMS, 2020-10-13T02:10:22+0000
+/project/dlpoly-py/, dlpoly-py, 0.2.0, dlpoly4 python module for file manipulation, 2021-02-28T12:11:24+0000
+/project/pytraj/, pytraj, 2.0.5, Python API for cpptraj: a data analysis package for biomolecular simulation, 2020-05-04T03:33:39+0000
+/project/pyteomics-cythonize/, pyteomics.cythonize, 0.2.2, An Cython-accelerated version of common pyteomics functions, 2018-11-15T13:32:23+0000
+/project/miniomm/, miniomm, 0.0.17, A simple OpenMM wrapper for common-case MD runs, 2021-03-22T09:36:21+0000
+/project/cix/, cix, 0.1, cheminformatics utilities, 2020-11-15T18:47:48+0000
+/project/mljr/, mljr, 0.51, Modified Lydersen-Joback-Reid method, 2021-01-22T00:11:26+0000
+/project/moltemplate/, moltemplate, 2.19.8, A general cross-platform text-based molecule builder for LAMMPS, 2021-04-09T03:04:44+0000
+/project/freud-analysis/, freud-analysis, 2.5.1, Powerful, efficient trajectory analysis in scientific Python., 2021-04-07T14:21:20+0000
+/project/teos10/, teos10, 0.0.1, Unofficial Python implementation of the TEOS-10 properties of water, 2020-05-07T10:30:10+0000
+/project/blitzcurve/, blitzcurve, 0.0.2, Time-resolved fluorescence anisotropy analysis., 2018-05-23T09:30:22+0000
+/project/bel-repository/, bel-repository, 0.1.2, A utility for loading data from repositories of BEL documents., 2020-05-01T14:46:43+0000
+/project/mdanalysis/, MDAnalysis, 1.0.1, An object-oriented toolkit to analyze molecular dynamics trajectories generated by CHARMM, Gromacs, NAMD, LAMMPS, or Amber., 2021-02-19T18:35:40+0000
+/project/scikit-time/, scikit-time, 0.0.0, Deep learning meets molecular dynamics., 2018-02-12T12:29:34+0000
+/project/pbxplore/, pbxplore, 1.4.0, PBxplore is a suite of tools dedicated to Protein Block analysis., 2021-01-27T08:03:44+0000
+/project/chembl-beaker/, chembl_beaker, 1.2.21, RDKit in the Bottle on Tornado, 2018-02-22T14:10:18+0000
+/project/pyemma/, pyEMMA, 2.5.9, PyEMMA: Emma's Markov Model Algorithms, 2021-02-26T14:24:50+0000
+/project/antivirals/, antivirals, 0.0.3, Finding antivirals for the novel coronavirus., 2020-07-10T17:20:33+0000
+/project/idaes-pse/, idaes-pse, 1.9.0, IDAES Process Systems Engineering Framework, 2021-03-04T02:23:22+0000
+/project/diffpy-srreal/, diffpy.srreal, 1.3.0, calculators for PDF, bond valence sum, and other quantities based on atom pair interaction., 2019-03-13T22:13:38+0000
+/project/chembl-webresource-client/, chembl-webresource-client, 0.10.3, Python client fot accessing ChEMBL webservices., 2021-04-13T11:49:22+0000
+/project/clickreaction/, ClickReaction, 0.3.1, A collection of chemical reaction formulations for use with rdkit. Requires rdkit., 2020-11-25T09:42:39+0000
+/project/nphil/, nphil, 0.1.5, NPHIL, 2021-03-11T15:53:14+0000
+/project/mandos/, mandos, 0.1.0, Get the biological targets of compounds., 2020-09-26T02:23:07+0000
+/project/gaussianrunner/, gaussianrunner, 1.0.21, A script to run Gaussian automatically., 2019-11-19T00:22:15+0000
+/project/bel-enrichment/, bel-enrichment, 0.0.5, A package for generating curation sheets for rationally enriching a BEL graph using INDRA and PyBEL., 2020-05-16T12:21:20+0000
+/project/embeddingdb/, embeddingdb, 0.0.1, A package for storing and querying knowledge graph embeddings, 2019-06-26T20:57:53+0000
+/project/nmrsim/, nmrsim, 0.5.1, A library for simulating nuclear magnetic resonance (NMR) spectra., 2020-05-10T18:36:25+0000
+/project/pyformattransformer/, PyFormatTransformer, 0.5, Generic framework for translating between scientific data formats, 2016-04-08T02:06:15+0000
+/project/kconmd/, kconmd, 1.0.17, Molecular dynamics (MD) simulations supported by k-Bags Convolutional Neural Network (kcon)., 2019-02-05T19:01:27+0000
+/project/scikit-quant/, scikit-quant, 0.8.2, Integrator for Python-based quantum computing software, 2021-03-30T06:48:05+0000
+/project/prolif/, prolif, 0.2.0, Protein-Ligand Interaction Fingerprints, 2018-04-30T18:16:06+0000
+/project/pychemia/, pychemia, 0.20.6.1, Python Framework for Materials Discovery and Design, 2020-06-02T03:25:22+0000
+/project/scikit-spectra/, scikit-spectra, 0.3.2.2, Spectroscopy in Python built on Pandas., 2015-05-13T20:36:11+0000
+/project/kymatio/, kymatio, 0.2.0, Wavelet scattering transforms in Python with GPU acceleration, 2020-03-17T02:37:04+0000
+/project/py3dmol/, py3Dmol, 0.9.1, An IPython interface for embedding 3Dmol.js views, 2020-11-23T21:26:38+0000
+/project/table-step/, table-step, 2021.2.12, A SEAMM plug-in for data tables in a flowchart., 2021-02-12T16:02:49+0000
+/project/pygamer/, pygamer, 2.0.5, PyGAMer: Geometry-preserving Adaptive Mesher, 2019-11-07T19:43:16+0000
+/project/hbp-knowledge/, hbp-knowledge, 0.0.7, Knowledge curated in BEL from full text during the Human Brain Pharmacome project, 2019-09-04T09:54:07+0000
+/project/pyepal/, pyepal, 0.6.1, PyePAL implemented the epsilon-PAL active learning algorithm, 2021-01-19T21:41:28+0000
+/project/syncfiles/, syncFiles, 0.0.1, Simple file synce., 2020-05-19T13:04:29+0000
+/project/pyobjcryst/, pyobjcryst, 2.1.0.post2, Python bindings to the ObjCryst++ library., 2019-03-11T19:45:27+0000
+/project/sygma/, SyGMa, 1.1.0, Systematic Generation of potential MetAbolites, 2017-02-07T22:58:11+0000
+/project/epic-mace/, epic-mace, 0.4.0, Python library and command-line tool for generation of 3D coordinates for complexes of d-/f-elements, 2021-01-31T23:50:37+0000
+/project/msspec/, msspec, 0.0.1, A simple module for basic mass-spectra operations., 2018-12-30T13:17:01+0000
+/project/easypqp/, easypqp, 0.1.11, EasyPQP: Simple library generation for OpenSWATH, 2021-03-16T06:53:27+0000
+/project/anncolvar/, anncolvar, 0.8, Coding collective variables by artificial neural networks, 2019-12-01T20:33:48+0000
+/project/koolstof/, koolstof, 0.0.15, Miscellaneous tools for marine carbonate chemistry and other such things, 2021-03-18T12:36:39+0000
+/project/fabio/, fabio, 0.11.0, Image IO for fable, 2021-01-05T15:23:43+0000
+/project/dockerasmus/, dockerasmus, 0.1.1, An easy to use docking library., 2017-05-02T19:44:52+0000
+/project/naivebayes/, NaiveBayes, 1.0.0, A Naive Bayes classifier, 2012-07-02T11:26:41+0000
+/project/nanome-url-loader/, nanome-url-loader, 0.1.0, An example Nanome Plugin to load files from a URL, 2019-11-21T00:09:56+0000
+/project/aiida-vasp/, aiida-vasp, 2.1.0, AiiDA Plugin for running VASP calculations., 2021-02-18T14:05:37+0000
+/project/boltztrap2/, BoltzTraP2, 20.7.1, band-structure interpolator and transport coefficient calculator, 2020-07-28T07:32:47+0000
+/project/ops-py/, ops.py, 0.1.0a2, Python Library for the Open PHACTS Platform API, 2014-07-30T15:15:09+0000
+/project/calkulate/, calkulate, 23.1.0, Seawater total alkalinity from titration data, 2021-03-29T11:05:38+0000
+/project/mpds-client/, mpds-client, 0.24, MPDS platform API client, 2020-09-14T18:29:16+0000
+/project/aiida-crystal17/, aiida-crystal17, 0.11.0, AiiDA plugin for running the CRYSTAL17 code, 2020-09-29T04:47:17+0000
+/project/materials/, materials, 0.1.5, Density, magnetic permeability etc. for a range of materials., 2017-12-07T09:52:54+0000
+/project/taurenmd/, taurenmd, 0.9.6, A command-line interface for analysis routines in Molecular Dynamics data., 2021-02-22T15:05:37+0000
+/project/cp2k-output-tools/, cp2k-output-tools, 0.3.1, Python tools to handle CP2K output files, 2020-09-08T11:12:26+0000
+/project/crystal-builder-step/, crystal-builder-step, 2021.2.10.1, A SEAMM plug-in for creating crystals from prototypes, including Strukturbericht designations., 2021-02-10T20:03:58+0000
+/project/nanome-rmsd/, nanome-rmsd, 1.0.1, Nanome Plugin for RMSD alignment, 2020-04-16T22:43:18+0000
+/project/pygaps/, pygaps, 3.1.0, A framework for processing adsorption data for porous materials., 2021-04-22T12:17:11+0000
+/project/sqcommon/, SQCommon, 0.3.2, SQCommon - skopt common optimizer API, 2020-11-30T23:57:57+0000
+/project/crocpy3/, CROCpy3, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2019-04-19T11:18:50+0000
+/project/pyked/, pyked, 0.4.1, Package for manipulating Chemical Kinetics Experimental Data (ChemKED) files., 2018-03-09T18:21:07+0000
+/project/pytim/, pytim, 0.8.4, Python Tool for Interfacial Molecules Analysis, 2020-07-06T20:09:52+0000
+/project/imolecule/, imolecule, 0.1.14, View molecules in the IPython notebook., 2020-01-03T15:51:33+0000
+/project/gimbal/, gimbal, 0.1.1, Tools for importing, creating, editing and querying molecular geometries, 2019-09-04T19:07:13+0000
+/project/osmolytes/, osmolytes, 1.3.0, This code attempts to predict the influence of osmolytes on protein stability, 2021-01-13T00:21:58+0000
+/project/orbkit/, orbkit, 1.1.0.dev2, A Toolbox for Post-Processing Quantum Chemical Wavefunction Data, 2020-03-05T16:56:24+0000
+/project/sxdm/, sxdm, 0.7.3, Tools for analyzing Scanning X-ray Diffraction Microscopy data, 2020-03-27T02:11:33+0000
+/project/sumo/, sumo, 2.2.3, Heavy weight plotting tools for ab initio solid-state calculations, 2021-04-15T16:45:11+0000
+/project/asedftk/, asedftk, 0.2.6, DFTK-based calculator for ASE, 2021-04-07T11:00:08+0000
+/project/pythoms/, pythoms, 2.2.6, A Python library to aid in the processing and interpretation of mass spectrometric data., 2021-03-23T23:11:44+0000
+/project/chorus/, Chorus, 0.9.0, Simple chemical structure modeling toolkit, 2018-07-09T04:02:20+0000
+/project/enzyme-cost-minimization/, enzyme-cost-minimization, 0.1.5, Enzyme Cost Minimization - a package for calculating the minimal enzyme cost of a metabolic pathway, 2018-11-09T12:48:58+0000
+/project/mfoutparser/, mfoutparser, 1.4.1, mfoutparser: efficient and convenient parsing of ModelFree output files., 2015-12-15T16:36:19+0000
+/project/nanome/, nanome, 0.24.0, Python API for Nanome Plugins, 2021-04-22T23:37:40+0000
+/project/cp2k-input-tools/, cp2k-input-tools, 0.5.1, Python tools to handle CP2K input files, 2020-05-12T10:29:58+0000
+/project/set-cell-step/, set-cell-step, 2021.2.12, A SEAMM plug-in for setting the periodic (unit) cell., 2021-02-12T12:33:45+0000
+/project/pymzml/, pymzml, 2.4.7, high-throughput mzML parsing, 2020-06-15T11:50:19+0000
+/project/biorefineries/, biorefineries, 2.20.2, Biorefinery models in BioSTEAM, 2021-04-11T13:20:51+0000
+/project/cc-catalog/, CC-CataLog, 0.1.330, Tools for computational catalyst research, 2018-08-21T14:23:11+0000
+/project/sirms/, sirms, 1.2.1, SiRMS: simplex representation of molecular structure, 2021-02-08T10:07:21+0000
+/project/vunits/, VUnits, 0.0.4, Virtual Kinetic Laboratory Units (VUnits), 2020-06-30T20:16:06+0000
+/project/kupp/, kupp, 0.0.2, A package for preprocessing a knowledge graph, 2019-05-07T09:24:56+0000
+/project/itcc/, itcc, 0.9.2, my collection of scripts on computational chemistry, 2008-05-17T16:08:51+0000
+/project/jsonextended/, jsonextended, 0.7.11, Extending the python json package functionality, 2019-06-18T03:07:04+0000
+/project/panedr/, panedr, 0.5.2, Read and manipulate Gromacs energy files, 2019-01-13T09:34:43+0000
+/project/mmcif-pdbx/, mmcif-pdbx, 2.0.1, Python utilities for PDBx/mmCIF storage model, 2021-04-24T21:30:12+0000
+/project/surface-crns/, surface-crns, 1.1, Simulation of chemical reaction networks (CRNs) on a surface, 2020-05-01T05:55:17+0000
+/project/mcerp3/, mcerp3, 1.0.3, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2018-08-30T22:06:03+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/neurommsig-knowledge/, neurommsig-knowledge, 0.0.1, Knowledge curated for NeuroMMSig during the AETIONOMY project, 2019-01-08T13:57:26+0000
+/project/soaplite/, soaplite, 1.0.3, fast lightweight smooth overlap atomic position (SOAP) calculator. see github.com/SINGROUP/SOAPLite for detailed documentations., 2019-04-03T14:17:25+0000
+/project/lmfit-varpro/, lmfit-varpro, 0.0.5, A variable projection implementation for Python/lmfit., 2018-08-09T15:11:43+0000
+/project/django-caddstat/, django-caddstat, 0.1, Bringing statistics to your CADD projects, 2013-09-17T00:00:55+0000
+/project/mudslide/, mudslide, 0.9.0, Package to simulate nonadiabatic molecular dynamics using trajectory methods, 2020-09-27T02:33:07+0000
+/project/chembl-webservices/, chembl_webservices, 2.7.3, Python package providing chembl web services API., 2018-01-19T16:08:32+0000
+/project/thunor/, thunor, 0.1.24, Dose response curve and drug induced proliferation (DIP) rate fits and visualisation, 2020-02-17T01:45:20+0000
+/project/thermosteam/, thermosteam, 0.24.10, BioSTEAM's Premier Thermodynamic Engine, 2021-04-08T11:14:15+0000
+/project/custodian/, custodian, 2021.2.8, A simple JIT job management framework in Python., 2021-02-08T17:30:42+0000
+/project/emigrate/, emigrate, 0.16.2, A package for simulating electrophoresis., 2015-09-14T06:21:45+0000
+/project/holoaverage/, holoaverage, 1.1.7, Reconstruction and averaging of off-axis electron holograms as obtained by transmission electron microscopes., 2020-05-05T17:11:04+0000
+/project/febiss/, Febiss, 0.9.0, Tool to ease GIST analysis and display and select FEBISS waters, 2021-02-25T19:00:13+0000
+/project/vina/, vina, 1.2.0.dev3, Python interface to AutoDock Vina, 2021-02-15T02:23:17+0000
+/project/sqimfil/, SQImFil, 0.3.7, ImFil - Implicit Filtering, 2020-11-30T23:58:39+0000
+/project/pyqms/, pyqms, 0.6.2, pyQms - Python module for accurate quantification of mass spectrometry data, 2019-06-03T12:48:00+0000
+/project/chemistry-tools/, chemistry-tools, 0.4.1, Python tools for analysis of chemical compounds., 2020-11-25T10:36:51+0000
+/project/pynnsmd/, pyNNsMD, 1.0.2, Neural Network for learning potential energy surface for molecular dynamics., 2021-03-21T12:18:50+0000
+/project/molreps/, molreps, 0.1.0, Molecular feature generation for machine learning, 2021-03-11T15:16:53+0000
+/project/iapws/, iapws, 1.5.2, Python implementation of standards from The InternationalAssociation for the Properties of Water and Steam, 2020-06-19T19:36:45+0000
+/project/mdsrv/, MDsrv, 0.3.5.post1, Server for coordinate trajectories from molecular dynamics simulations., 2019-10-09T09:40:59+0000
+/project/optimade-client/, optimade-client, 2021.3.29, Voilà/Jupyter client for searching through OPTIMADE databases., 2021-03-29T19:03:58+0000
+/project/lsld2/, lsld2, 0.0.4, TODO, 2021-03-12T17:22:02+0000
+/project/vodkas/, vodkas, 0.0.1, Syntactic sugar around Waters LC/IMS/MS pypeline., 2019-06-28T13:21:24+0000
+/project/fplore/, fplore, 0.3.1a1, FPLO run evaluation, 2019-02-12T14:59:00+0000
+/project/mrsimulator/, mrsimulator, 0.5.1, A python toolbox for simulating fast real-time solid-state NMR spectra., 2020-12-10T21:44:58+0000
+/project/ocelot-materials/, ocelot-materials, 0.0.6, (Under development). Ocelot is a framework for materials simulations., 2019-10-30T01:20:26+0000
+/project/biowardrobe-cwl-workflows/, biowardrobe-cwl-workflows, 1.0.20181213214400, Wrapped BioWardrobe's CWL files, 2018-12-13T21:44:31+0000
+/project/eclometer/, eclometer, 0.0.3, ECLometer serial interface, CLI and GUI app., 2021-03-19T14:26:04+0000
+/project/pymca5/, PyMca5, 5.6.5, Mapping and X-Ray Fluorescence Analysis, 2021-04-09T12:12:50+0000
+/project/aiida-crystal/, aiida-crystal, 0.1.0, AiiDA plugin for CRYSTAL17, 2019-10-15T15:46:02+0000
+/project/cassandra-step/, cassandra-step, 0.2.1, Cassandra is a Monte Carlo molecular simulation package., 2019-07-19T13:53:57+0000
+/project/maicos/, maicos, 0.3, Analyse molecular dynamics simulations of interfacial and confined systems., 2021-03-03T22:34:54+0000
+/project/msmtools/, msmtools, 1.2.6, MSMTools, 2021-02-11T00:21:03+0000
+/project/xylib-py-wheels/, xylib-py-wheels, 1.6.0, Built wheels for xylib-py by Marcin Wojdyr, 2020-08-04T21:04:25+0000
+/project/fatslim/, fatslim, 0.2.2, Python/MD Toolbox, 2020-01-30T17:07:22+0000
+/project/gmxbatch/, gmxbatch, 0.0.2.dev0, Python tools for writing GROMACS batch scripts, 2020-03-26T14:45:03+0000
+/project/aa2atom/, aa2atom, 1.25, Change amino-acidic sequence into counts of atoms., 2019-07-11T14:24:49+0000
+/project/uravu/, uravu, 1.2.4, Bayesian methods for analytical relationships, 2021-03-24T07:49:59+0000
+/project/biosteam/, biosteam, 2.27.7, The Biorefinery Simulation and Techno-Economic Analysis Modules, 2021-04-15T05:25:54+0000
+/project/aps-bluesky-tools/, APS-BlueSky-tools, 2019.103.0, Various Python tools for use with BlueSky at the APS, 2019-01-03T23:30:55+0000
+/project/tb2j/, TB2J, 0.6.0, TB2J: First principle to Heisenberg exchange J using tight-binding Green function method, 2021-04-04T08:43:14+0000
+/project/pyaaisc/, pyaaisc, 1.2, Python AAindex database scrape, 2020-04-16T11:04:19+0000
+/project/croc/, CROC, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2014-07-23T20:57:17+0000
+/project/seuif97/, seuif97, 1.1.1, IAPWS-IF97 high-speed shared library(Windows64/32,Linux64) in ANSI C,Python API, 2021-04-09T04:39:19+0000
+/project/gemmi/, gemmi, 0.4.5, library for structural biology, 2021-03-09T08:51:15+0000
+/project/fuzz/, fuzz, 0.1.1, Contains tools for modelling values with associated uncertainty., 2017-07-21T14:50:46+0000
+/project/pyteomics-pepxmltk/, pyteomics.pepxmltk, 0.3.1, A utility for creation of pepXML files from Python objects and TandemXML files., 2020-05-07T18:25:18+0000
+/project/easyleed/, EasyLEED, 2.5.2, Automated extraction of intensity-energy spectra from low-energy electron diffraction patterns, 2018-04-02T21:42:36+0000
+/project/cathub/, Cathub, 0.1.7, Python API for the Surface Reactions database on Catalysis-Hub.org, 2021-02-26T19:59:26+0000
+/project/pyfeat/, pyfeat, 0.3.2, The python free energy analysis toolkit, 2015-06-25T17:33:06+0000
+/project/iblackbox/, iblackbox, 0.0.1, Artificial Neural network potentials, 2017-07-18T04:24:17+0000
+/project/beatmap/, beatmap, 0.0.1, A tool for determining the valid P/P0 range in BET isotherms, 2020-10-31T14:04:47+0000
+/project/epam-indigo/, epam.indigo, 1.4.3, Indigo universal cheminformatics toolkit, 2020-12-29T03:19:37+0000
+/project/surfsci/, surfsci, 0.1.7, A suite of tools for handling surface science related data, 2019-06-04T19:30:29+0000
+/project/selventa-knowledge/, selventa-knowledge, 1.1.1, Selventa Large and Small Corpora via PyBEL, 2021-01-31T16:44:43+0000
+/project/pyberny/, pyberny, 0.6.3, Molecular/crystal structure optimizer, 2021-02-22T19:48:36+0000
+/project/chempy/, chempy, 0.8.1, ChemPy is a Python package useful for solving problems in chemistry., 2020-11-24T13:43:56+0000
+/project/hoggorm/, hoggorm, 0.13.3, Package for explorative multivariate statistics, 2019-07-11T07:16:44+0000
+/project/mdanalysisdata/, MDAnalysisData, 0.8.0, MDAnalysis example data, 2019-08-13T22:42:12+0000
+/project/aiida-gulp/, aiida-gulp, 0.10.0b5, AiiDA plugin for running the GULP MD code, 2019-10-30T18:14:38+0000
+/project/supercell-step/, supercell-step, 2021.2.12, A SEAMM plug-in for building supercells of periodic systems., 2021-02-12T15:38:11+0000
+/project/mumot/, mumot, 1.2.2, Multiscale Modelling Tool, 2020-06-08T12:54:33+0000
+/project/ejplugins/, ejplugins, 0.11.1, parser plugins for jsonextended, 2019-02-28T18:45:27+0000
+/project/vermouth/, vermouth, 0.7.0, , 2021-03-29T15:51:03+0000
+/project/mdanalysistests/, MDAnalysisTests, 1.0.1, MDAnalysis testsuite, 2021-02-28T14:18:46+0000
+/project/pycdt/, pycdt, 2.0.2, PyCDT is a python package to facilitate DFT calculations for point defects in solids, 2019-05-10T20:11:45+0000
+/project/pyboo/, pyboo, 1.0.0, A Python package to compute bond orientational order parameters, 2017-11-27T21:26:47+0000
+/project/esigen/, esigen, 0.0.4, Generate automated reports for computational chemistry calculations, 2018-04-08T16:39:21+0000
+/project/tilde/, tilde, 0.9.4, Materials informatics framework for ab initio data repositories, 2020-03-24T23:30:54+0000
+/project/pame/, PAME, 0.3.2, GUI for modeling nanoparticles on optical fiber with mixing/shell-filling models, 2015-05-13T19:59:39+0000
+/project/sqsnobfit/, SQSnobFit, 0.4.5, SnobFit - Stable Noisy Optimization by Branch and FIT, 2020-11-30T23:58:59+0000
+/project/pyromat/, PYroMat, 2.0.12, Thermodynamic properties in Python., 2019-01-04T22:30:48+0000
+/project/kinisi/, kinisi, 0.0.7, Uncertainty analysis and model comparison for atomistic molecular dynamics., 2021-04-02T10:54:45+0000
+/project/iorder/, iOrder, 0.0.3, A tool to characterize the local structure of liquid water by geometric order parameters, 2018-07-10T23:16:47+0000
+/project/nipals/, nipals, 0.5.2, A module for calculation of PCA with the NIPALS algorithm, 2020-03-04T13:48:22+0000
+/project/filter-los-csd/, filter-los-csd, 1.5.0, CML tool filtering line-of-sights contacts, 2020-12-19T00:02:48+0000
+/project/biowardrobe-airflow-plugins/, biowardrobe-airflow-plugins, 1.1.3, Add plugin workflows to BioWardrobe, 2019-01-23T20:30:17+0000
+/project/espei/, espei, 0.8.1, Fitting thermodynamic models with pycalphad., 2021-04-22T07:08:01+0000
+/project/pycalphad/, pycalphad, 0.8.4, CALPHAD tools for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria., 2020-10-28T21:53:00+0000
+/project/parsevasp/, parsevasp, 2.0.1, A general parser for VASP, 2021-01-23T07:28:28+0000
+/project/clinamen/, Clinamen, 0.2.0a3, Clinamen: a Python package for the first-principles systematic discovery of low-energy configurations in defective systems., 2021-02-11T11:37:34+0000
+/project/cluskit/, cluskit, 4.2.0, (Nano)CLUSter KIT for surface chemistry., 2019-08-02T13:10:55+0000
+/project/vtk/, vtk, 9.0.1, VTK is an open-source toolkit for 3D computer graphics, image processing, and visualization, 2020-06-24T17:36:11+0000
+/project/qm-scripts/, qm-scripts, 0.1.2, A set of scripts useful for analyzing outputs and setup inputs in quantum chemistry, 2018-05-16T14:42:50+0000
+/project/pyflowsheet/, pyflowsheet, 0.2.2, A Python library for creating process flow diagrams (PFD) for process engineering using SVG drawings., 2021-01-31T08:46:44+0000
+/project/chembl-clippy/, chembl_clippy, 0.1.6, A cross-platform chemical structure rendering desktop app., 2014-02-08T14:08:08+0000
+/project/psearch/, psearch, 0.0.4, PSearch: ligand-based pharmacophore modeling and screening, 2020-02-25T13:54:08+0000
+/project/aiida-phonopy/, aiida-phonopy, 0.3, AiiDA plugin for running phonon calculations using phonopy, 2020-10-08T09:32:20+0000
+/project/go2pdb/, go2pdb, 1.0.1, This code identifies Protein Data Bank (PDB) entries with specific Gene Ontology (GO) annotations., 2021-03-27T20:55:14+0000
+/project/pyteomics-biolccc/, pyteomics.biolccc, 1.5.0, Bindings for the libBioLCCC, 2012-02-09T21:16:30+0000
+/project/sagar/, sagar, 0.2.1, Structures of Alloys Generation And Recognition, 2019-04-30T04:48:56+0000
+/project/pyprism/, pyPRISM, 1.0.4, A python tool for Polymer Reference Interaction Site Model (PRISM) calculations, 2020-07-01T19:45:40+0000
+/project/pylipid/, pylipid, 1.4.7, PyLipID - A Python Library For Lipid Interaction Analysis, 2021-04-13T08:59:02+0000
+/project/dask-traj/, dask-traj, 0.2.2, Parallel MDTraj, using Dask, 2020-09-03T14:39:25+0000
+/project/gbasis/, gbasis, 0.1.4, , 2017-11-09T07:02:58+0000
+/project/correlationplus/, correlationplus, 0.1.9, A Python package to calculate, visualize and analyze dynamical correlations of proteins., 2021-04-01T14:44:20+0000
+/project/sciluigi/, sciluigi, 0.9.7, Helper library for writing dynamic, flexible workflows in luigi, 2020-05-27T15:27:49+0000
+/project/bce/, bce, 4.7.9647, A chemical equation balancer., 2018-02-02T23:33:19+0000
+/project/morganfingerprint/, MorganFingerprint, 1.20, , 2020-12-09T09:45:16+0000
+/project/pandas3js/, pandas3js, 0.2.0, a pandas dataframe interface for traitlets and pythreejs, 2017-07-13T05:55:14+0000
+/project/pep2prot/, pep2prot, 0.0.1, Turn a peptide report into a protein report., 2019-07-04T12:40:20+0000
+/project/reductus/, reductus, 0.1b2, Data reduction for neutron scattering, 2019-01-28T16:57:23+0000
+/project/moldesign/, moldesign, 0.7.3, The Molecular Design Toolkit: Dead-simple chemical simulation, visualization, and cloud computing in a notebook, 2016-10-17T20:04:00+0000
+/project/phaseshifts/, phaseshifts, 0.1.5-dev, Python-based version of the Barbieri/Van Hove phase shift calculation package for LEED/XPD modelling, 2014-09-04T21:30:43+0000
+/project/openbabel/, openbabel, 3.1.1.1, Python interface to the Open Babel chemistry library, 2020-05-23T09:33:22+0000
+/project/opentims-bruker-bridge/, opentims-bruker-bridge, 1.0.1, Bruker dll and so files., 2020-12-02T14:10:47+0000
+/project/uparma/, uparma, 0.4.0, uparma, 2021-04-14T10:01:31+0000
+/project/matador-db/, matador-db, 0.9.10, MATerial and Atomic Databases Of Refined structures., 2021-02-23T16:28:08+0000
+/project/equilibrator-pathway/, equilibrator-pathway, 0.4.1, Pathway analysis tools by eQuilibrator, 2021-02-17T12:35:13+0000
+/project/catkit-utils/, CatKit-utils, 0.0.2, Utilities for CatKit., 2018-08-07T07:18:18+0000
+/project/seamm-installer/, seamm-installer, 2021.3.17.1, The installer/updater for SEAMM (Simulation Environment for Atomistic and Molecular Simulations)., 2021-03-17T20:54:10+0000
+/project/thermohw/, thermohw, 0.7.1, Package for converting thermo homework assignments, 2021-01-12T16:29:32+0000
+/project/e3fp/, e3fp, 1.2.3, Molecular 3D fingerprinting, 2021-01-14T23:22:03+0000
+/project/aceto/, aceto, 0.0.5, Accelerated Charge and Energy Transfer Objects, 2017-09-21T09:43:47+0000
+/project/cgrtools/, CGRtools, 4.1.19, , 2021-04-10T08:36:37+0000
+/project/quantum-esperanto/, quantum-esperanto, 0.3, A fast parser of XML files output by VASP DFT code written in Cython., 2019-12-21T21:34:24+0000
+/project/thoipapy/, thoipapy, 1.2.0, Machine-learning prediction of residues driving homotypic transmembrane interactions., 2021-01-10T22:11:24+0000
+/project/pytram/, pytram, 0.3.0, The TRAM package, 2016-05-25T09:52:18+0000
+/project/iorodeo-potentiostat/, iorodeo-potentiostat, 0.0.4, Serial interface to IO Rodeo Potentiostat, 2021-04-15T16:04:00+0000
+/project/pybel-tools/, pybel-tools, 0.9.1, A cool pool of tools for BEL, 2021-01-31T23:36:55+0000
+/project/pysces/, pysces, 0.9.8.post1, The Python Simulator for Cellular Systems - simulation and analysis tools for modelling biological systems, 2020-05-14T21:05:10+0000
+/project/pyobo/, pyobo, 0.4.0, Handling and writing OBO, 2021-04-19T17:10:34+0000
+/project/unimod-mapper/, unimod-mapper, 0.4.2, unimod_mapper, 2021-04-15T09:10:56+0000
+/project/spinney/, Spinney, 0.9a2, Spinney: a Python package for assisting with first-principles simulations of point defects in solids., 2020-10-16T10:10:48+0000
+/project/stoichiograph/, Stoichiograph, 0.1.2, Spell words with elemental symbols from the periodic table ("He", "Cu", etc)., 2017-05-16T10:23:30+0000
+/project/py-perceptabat-cv/, py-perceptabat-cv, 1.2.2, Python wrapper and API for ACD/Percepta Batch with parallel processing support, 2020-10-19T13:49:40+0000
+/project/pdb-tools/, pdb-tools, 2.3.1, A swiss army knife for PDB files., 2021-03-16T04:29:41+0000
+/project/reoptimize/, reoptimize, 0.1.0a2, A tool to optimize reaction conditions for restriction enzyme digests of DNA, 2017-09-01T07:59:20+0000
+/project/helixvis/, helixvis, 1.0.1, Create 2-dimensional visualizations of alpha-helical peptide sequences, 2020-04-27T21:45:07+0000
+/project/gromacswrapper/, GromacsWrapper, 0.8.0, A python wrapper around the Gromacs tools., 2019-04-30T08:21:31+0000
+/project/maml-apps-rfxas/, maml-apps-rfxas, 2021.3.2, maml-apps-rfxas is a maml add-on to perform RF analysis of X-ray Absorption Spectra., 2021-03-02T23:35:37+0000
+/project/oximachine-featurizer/, oximachine-featurizer, 0.3.1, Mine MOF oxidation states and featurize metal sites., 2020-12-20T08:20:37+0000
+/project/nanome-workspace-manager/, nanome-workspace-manager, 0.1.1, Nanome Plugin allowing standalone VR headset users to save and load workspaces in a central location, 2019-09-26T04:21:35+0000
+/project/nanome-loaders/, nanome-loaders, 1.0.3, Nanome Plugin deploying a few molecule loaders integrated with Nanome, 2019-11-18T22:31:23+0000
+/project/qsdsan/, qsdsan, 0.2.3, Quantitative Sustainable Design for sanitation and resource recovery systems, 2021-04-24T21:13:37+0000
+/project/gopem/, gopem, 0.6, GOPEM is a graphical user interface of OPEM, 2020-03-16T17:27:11+0000
+/project/structurefingerprint/, StructureFingerprint, 1.25, , 2021-03-25T11:52:30+0000
+/project/standardiser/, standardiser, 0.1.9, Provides a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises., 2017-08-22T13:05:53+0000
+/project/nanome-realtime-scoring/, nanome-realtime-scoring, 0.2.5, Nanome Plugin displaying docking score of complexes in the workspace, in realtime, 2020-04-16T22:39:38+0000
+/project/aimdfragmentation/, aimdfragmentation, 1.0.29, AIMD Fragmentation Calculation, 2019-04-07T13:41:48+0000
+/project/pybel-jupyter/, pybel-jupyter, 0.3.0, A PyBEL extension for Jupyter notebooks, 2020-04-16T10:13:56+0000
+/project/chembl-business-model/, chembl_business_model, 0.8.1, Python package providing chembl webservices API., 2017-01-11T13:47:49+0000
+/project/cc-adsorber/, CC-Adsorber, 0.1.2, Tools for computational catalyst research, 2018-08-12T14:21:10+0000
+/project/cary-reader/, cary-reader, 0.3, Reads and processes Agilent Cary Eclipse Spectrophotometer csv files, 2019-10-16T12:22:53+0000
+/project/thermosolver/, thermosolver, 0.0.1, Under development, 2016-12-17T14:28:21+0000
+/project/midia/, MIDIA, 0.0.2, Description., 2019-11-21T15:11:20+0000
+/project/modifiednb/, ModifiedNB, 0.2, Laplace corrected modified naïve bayes model, 2019-01-22T11:23:36+0000
+/project/gc3pie/, gc3pie, 2.6.6, A Python library and simple command-line frontend for computational job submission to multiple resources., 2020-08-16T09:36:33+0000
+/project/pyframe/, PyFraME, 0.3.0, PyFraME: Python framework for Fragment-based Multiscale Embedding, 2020-05-11T21:10:07+0000
+/project/furious-fastas/, furious-fastas, 0.1.5, Module to update the fastas., 2019-07-30T16:22:35+0000
+/project/fullrmc/, fullrmc, 4.1.0, FUndamental Library Language for Reverse Monte Carlo or fullrmc is a molecular/atomic stochastic fitting platform to reverse modeling experimental data., 2020-01-29T16:13:04+0000
+/project/freenrgworkflows/, freenrgworkflows, 1.1.0, python package for analysis relative free energy calculations with Sire, 2019-09-16T17:51:14+0000
+/project/cowboe/, cowboe, 1.0.5, Construction Of Windows Based On Energy, 2021-04-22T19:03:27+0000
+/project/mep/, mep, 0.0.1, Minimal energy path tools for atomistic systems, 2019-08-09T20:14:43+0000
+/project/rta/, rta, 0.0.1, Retention Time Alignment for LC-IM-MS., 2018-04-16T09:51:10+0000
+/project/ommprotocol/, ommprotocol, 0.1.11, Easy to deploy MD protocols for OpenMM, 2018-09-07T15:27:17+0000
+/project/pydiffusion/, pydiffusion, 0.2.3, A Python library for diffusion simulation and data analysis, 2019-09-25T02:14:29+0000
+/project/chemfp-converters/, chemfp-converters, 0.9.1, Convert cheminformatics fingerprint files to/from the chemfp formats, 2018-03-07T21:33:16+0000
+/project/scikit-beam/, scikit-beam, 0.0.24, Data analysis tools for X-ray science, 2021-02-06T19:03:06+0000
+/project/gylm/, gylm, 0.0.1, Implementation of Gnl-Ylm-type 3d convolutional descriptors, 2021-03-01T11:15:30+0000
+/project/msai/, msAI, 1.3.1.dev0, Tools to create AI models for mass spectrometry data, 2019-11-07T03:42:24+0000
+/project/pynetmet/, PyNetMet, 1.0, Tools for analyzing networks and metabolic models., 2012-11-25T14:50:29+0000
+/project/forgi/, forgi, 2.0.2, RNA Graph Library, 2019-02-26T10:48:22+0000
+/project/cwl-airflow-tester/, cwl-airflow-tester, 1.0.20190620213659, Tester for cwl-airflow-parser, 2019-06-20T21:40:57+0000
+/project/geomepy/, geomepy, 1.0.1, A program to manipulate molecular geometries, 2018-02-20T14:51:38+0000
+/project/myokit/, myokit, 1.32.0, A simple interface to cardiac cellular electrophysiology, 2021-01-19T23:14:31+0000
+/project/symmetry/, symmetry, 0.1, Symmetry is a library for materials symmetry analysis., 2014-04-11T03:29:57+0000
+/project/molgrid/, molgrid, 0.2.1, Grid-based molecular modeling library, 2020-08-25T15:46:55+0000
+/project/robocrys/, robocrys, 0.2.6, Automatic generation of crystal structure descriptions, 2020-10-26T21:53:16+0000
+/project/sgdml/, sgdml, 0.4.10, Reference implementation of the GDML and sGDML force field models., 2021-02-04T13:37:11+0000
+/project/wlcsim/, wlcsim, 0.1.11, , 2020-11-01T08:11:55+0000
+/project/tamkin/, tamkin, 1.2.6, TAMkin is a post-processing toolkit for thermochemistry and kinetics analysis., 2019-09-12T07:21:41+0000
+/project/cimtools/, CIMtools, 4.0.8, , 2020-09-15T10:09:20+0000
+/project/mdinteract/, mdinteract, 0.2, A Pandas interface to the analysis of biomolecular structures with MD trajectory support, 2019-09-19T12:34:27+0000
+/project/standardizer/, standardizer, 0.1.7, Provides a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises., 2019-05-29T02:54:35+0000
+/project/diffpy-structure/, diffpy.structure, 3.0.1, Crystal structure container and parsers for structure formats., 2019-06-27T21:52:51+0000
+/project/veidt/, veidt, 0.0.2, Veidt is a deep learning library for materials science., 2017-09-18T20:20:51+0000
+/project/chemdataextractor-ide/, ChemDataExtractor-IDE, 1.3.2, A toolkit for extracting chemical information from the scientific literature., 2019-11-28T14:09:56+0000
+/project/please/, PLEASE, 0.9.8, Software for the analysis of Low Energy Electron Microscopy data, 2016-12-05T17:29:14+0000
+/project/pyilt2/, pyilt2, 0.9.8, A library to access the ILThermo v2.0 database., 2018-05-22T20:54:42+0000
+/project/pynumpress/, pynumpress, 0.0.5, A more pythonic wrapper around the MSNumpress library for mass spectrometry numerical data compression, 2019-06-23T01:09:53+0000
+/project/pygtop/, pygtop, 2.1.4, A Python wrapper for the Guide to PHARMACOLOGY API. It provides  a Python interface for access to the GtoP database., 2019-01-31T16:55:03+0000
+/project/loop-step/, loop-step, 2021.2.11, A SEAMM plug-in which provides loops in flowcharts., 2021-02-11T17:11:01+0000
+/project/bio2bel-adeptus/, bio2bel-adeptus, 0.0.1, Bio2BEL ADEPTUS., 2018-11-20T09:33:05+0000
+/project/pnictogen/, pnictogen, 0.4.3, A Python library and a command-line tool that creates input files for computational chemistry packages., 2019-08-28T21:00:28+0000
+/project/bw2qsd/, bw2qsd, 0.0.10, Bridging Brightway2 and QSD packages for LCA, 2021-04-20T17:31:01+0000
+/project/kgcnn/, kgcnn, 0.1.1, General Base Layers for Graph Convolutions with tensorflow.keras, 2021-04-10T10:16:54+0000
+/project/nisp/, NISP, 1.3.4, The Nanocluster Interpolation Scheme Program (NISP) is designed to perform an interpolation scheme that gives idea of the types of perfect, closed-shell and open-shell clusters for a cluster at selected sizes., 2021-04-22T08:08:51+0000
+/project/pyteck/, PyTeCK, 0.2.4, Evaluation of chemical kinetic models with experimental data, 2018-05-31T21:01:03+0000
+/project/adcc/, adcc, 0.15.7, adcc:  Seamlessly connect your host program to ADC, 2021-01-17T12:44:50+0000
+/project/qforce/, qforce, 0.4.2, Q-Force: Quantum mechanically augmented molecular force fields, 2021-02-17T15:53:19+0000
+/project/pdbeccdutils/, pdbeccdutils, 0.5.10, Toolkit to deal with wwPDB chemical components definitions for small molecules., 2021-04-15T15:32:21+0000
+/project/scikit-xray/, scikit-xray, 0.0.5.post0, Data analysis tools for X-ray science, 2016-03-04T10:31:07+0000
+/project/aiida-cusp/, aiida-cusp, 0.1.0b2, Custodian based VASP Plugin for AiiDA, 2020-08-06T15:42:39+0000
+/project/iodata/, iodata, 0.1.3, , 2017-11-11T03:24:18+0000
+/project/cirpy/, CIRpy, 1.0.2, Python wrapper for the NCI Chemical Identifier Resolver (CIR)., 2016-01-04T23:46:38+0000
+/project/beamspy/, beamspy, 1.1.0, Putative annotation of metabolites for mass spectrometry-based metabolomics datasets., 2021-02-19T16:48:18+0000
+/project/fluids/, fluids, 1.0.5, Fluid dynamics component of Chemical Engineering Design Library (ChEDL), 2021-04-22T02:13:17+0000
+/project/pymassspec/, PyMassSpec, 2.3.0, Python Toolkit for Mass Spectrometry, 2020-11-13T20:37:33+0000
+/project/pybaselines/, pybaselines, 0.2.0, A collection of algorithms for fitting the baseline of experimental data., 2021-04-02T22:15:24+0000
+/project/molstruct/, molstruct, 3.0.0, Convert chemical molecule data CSV files to structured data formats, 2021-04-21T20:52:57+0000
+/project/nanome-chemical-properties/, nanome-chemical-properties, 0.3.5, A Nanome plugin to display chemical properties for a complex using rdkit, 2020-03-06T00:06:42+0000
+/project/loprop/, LoProp, 0.3.4, LoProp: localized molecular properties, 2021-02-15T19:41:40+0000
+/project/mollib/, mollib, 1.0.9, , 2017-09-28T16:31:03+0000
+/project/nanostructureucph/, NanostructureUCPH, 0.1.1, Pakage for analyzing nanostructures, 2019-03-04T12:51:17+0000
+/project/pmutt/, pmutt, 1.2.21, Python Multiscale Thermochemistry Toolbox (pmutt), 2020-07-03T18:11:43+0000
+/project/dhtioc/, dhtioc, 1.1.1, Provide humidity and temperature using EPICS and Raspberry Pi., 2020-08-20T14:44:54+0000
+/project/modlamp/, modlamp, 4.3.0, python package for in silico peptide design and QSAR studies, 2021-02-25T17:58:49+0000
+/project/seamm-jobserver/, seamm-jobserver, 2020.12.7, seamm_jobserver, 2020-12-07T12:41:40+0000
+/project/cinfony-dist/, cinfony-dist, 1.2, cinfony: a common API to several cheminformatics toolkits, 2020-07-12T01:32:24+0000
+/project/metabolabpy/, metabolabpy, 0.6.26, Python package for data processing of NMR 1D and 2D metabolomics and metabolism tracing data, 2021-04-03T20:31:14+0000
+/project/molmod/, molmod, 1.4.8, MolMod is a collection of molecular modelling tools for python., 2020-06-16T11:37:59+0000
+/project/pyms-nist-search/, pyms-nist-search, 0.4.14, PyMassSpec extension for searching mass spectra using NIST's Mass Spectrum Search Engine, 2020-04-29T06:48:36+0000
+/project/aseqe/, aseqe, 0.3.4, Python API for the Quantum Espresso software, 2021-02-27T16:01:01+0000
+/project/xtp-job-control/, xtp-job-control, 0.1.1, Workflow engine to use the VOTCA-XTP library, 2019-03-07T15:52:06+0000
+/project/srbogrid/, srbogrid, 0.1.1, Package for calculating space-reduced bond-order grids for diatomics, 2017-02-21T13:23:00+0000
+/project/rocketsled/, rocketsled, 1.0.1.20200523, Black box optimization with Fireworks workflows, on rails, 2020-05-24T03:02:01+0000
+/project/pyms-agilent/, pyms-agilent, 0.1.2, PyMassSpec interface to Agilent .d datafiles, 2021-03-31T09:11:44+0000
+/project/aiida-optimade/, aiida-optimade, 0.17.0, Expose an AiiDA database according to the [OPTIMADE API specification](https://www.optimade.org)., 2021-03-05T17:21:50+0000
+/project/farseernmr/, farseernmr, 2.0.0.dev0, A software suite for automatic treatment, analysis and plotting of large and multivariable datasets of bioNMR peaklists., 2020-01-31T05:37:43+0000
+/project/raasaft/, raaSAFT, 0.6.4, Coarse-grained simulations with the SAFT-gamma Mie force field, 2016-01-21T13:42:06+0000
+/project/propka/, propka, 3.4.0, Heuristic pKa calculations with ligands, 2020-12-19T22:48:14+0000
+/project/ader/, ader, 1.2.1, The ADER method for solving any (potentially very stiff) hyperbolic system of PDEs, 2019-09-01T20:56:11+0000
+/project/peptidebuilder/, PeptideBuilder, 1.1.0, Create peptide PDB files with specified geometry, 2020-04-05T21:22:40+0000
+/project/prasopes/, prasopes, 0.0.55, Thermo/Finnigan .raw file viewer based on rawprasslib, 2021-04-16T14:47:09+0000
+/project/nanome-structure-prep/, nanome-structure-prep, 0.2.6, A Nanome plugin to clean up selected structures., 2020-06-23T18:04:55+0000
+/project/pygen-structures/, pygen-structures, 0.2.5, 3D molecular structure generation for MD simulation, 2020-04-29T11:43:17+0000
+/project/gtar/, gtar, 1.1.0, Read and write archive-based trajectory formats, 2020-11-06T14:16:27+0000
+/project/openpd/, openpd, 0.2.5, OpenPD, standing for Open Peptide Dynamics, is a python package for peptide dynamics simulation, 2021-02-17T11:57:16+0000
+/project/biomine/, BioMine, 0.9.5, Bioinformatics data-mining, 2018-05-03T03:16:39+0000
+/project/qmflows/, qmflows, 0.2.1, Automation of computations in quantum chemistry, 2017-11-16T15:20:20+0000
+/project/ionize/, ionize, 1.2.0, A package for calculating electrolyte properties., 2019-06-12T00:01:51+0000
+/project/spci/, spci, 1.1.1, SPCI: structural and physicochemical interpretation of QSAR models, 2021-03-23T10:34:22+0000
+/project/chemical-composition/, chemical-composition, 0.1.2, chemical_composition, 2021-03-22T12:15:09+0000
+/project/pycgtool/, pycgtool, 2.0.0a6, Generate coarse-grained molecular dynamics models from atomistic trajectories., 2020-11-22T18:47:15+0000
+/project/pegamoid/, Pegamoid, 2.6.1, Orbital viewer for OpenMolcas, 2020-10-21T07:31:29+0000
+/project/ocelot-quantum/, ocelot-quantum, 0.0.7, (Under development). Ocelot is a framework for quantum simulations., 2020-03-03T19:26:50+0000
+/project/nams/, NAMS, 0.9.2, NAMS is a module to calculate similarity between molecules based on the structural/topological relationships of each atom towards all the others within a molecule., 2013-11-14T03:46:19+0000
+/project/nanome-molecular-dynamics/, nanome-molecular-dynamics, 0.1.0, Nanome Plugin to run molecular dynamics simulation on a complex, 2020-01-16T20:03:58+0000
+/project/dftbplus-step/, dftbplus-step, 2021.2.10, A SEAMM plug-in for DFTB+, a fast quantum mechanical simulation code., 2021-02-10T19:01:33+0000
+/project/tims/, tims, 0.0.1, Description., 2020-01-24T10:08:13+0000
+/project/msproteomicstools/, msproteomicstools, 0.11.0, Tools for MS-based proteomics, 2019-07-16T21:16:06+0000
+/project/masstodon/, masstodon, 0.16, Investigate mass spectra for chemical substances, especially ETD products., 2019-02-07T08:20:54+0000
+/project/uparma-py/, uparma-py, 0.1.0, uparma, 2021-03-22T11:46:50+0000
+/project/pyglotaran/, pyglotaran, 0.3.3, The Glotaran fitting engine., 2021-03-18T20:47:32+0000
+/project/mmpdb/, mmpdb, 2.1, A package to identify matched molecular pairs and use them to predict property changes, 2018-05-09T18:21:13+0000
+/project/zeoliteclusterizer/, zeoliteclusterizer, 0.1.1, A python module built for rapid computational screening of catalysts on rigid structures, 2017-06-06T22:36:37+0000
+/project/pyeem/, pyeem, 0.2.0, Python library for the preprocessing, correction, deconvolution and analysis of Excitation Emission Matrices (EEMs)., 2020-10-31T19:24:40+0000
+/project/molpainter/, MolPainter, 1.1.2, Tool for drawing complex planar molecular systems of arbitrary composition and molecule placement, 2020-11-19T02:11:10+0000
+/project/pysimrel/, pysimrel, 0.6.0, Simulating data from linear model data, 2019-08-18T17:11:42+0000
+/project/popmodel/, popmodel, 0.4.0, Model molecular excited state populations over time, 2016-04-12T15:35:38+0000
+/project/pymca/, pymca, 5.6.5, pymca, 2021-04-09T13:32:27+0000
+/project/read-structure-step/, read-structure-step, 2021.2.12, A SEAMM plug-in to read common formats in computational chemistry, 2021-02-12T12:09:57+0000
+/project/xcal-raman/, xcal_raman, 0.1.5, Module for x-axis calibration of Raman spectrometers, 2014-09-10T14:42:29+0000
+/project/flashflood/, Flashflood, 0.13.0, HTTP API server builder for chemical database workflow, 2018-07-09T04:03:49+0000
+/project/psi4-step/, psi4-step, 2021.2.11, A SEAMM plug-in to setup, run and analyze quantum chemistry calculations using Psi4, 2021-02-11T23:51:20+0000
+/project/ezff/, EZFF, 0.9.4, Multiobjective forcefield optimization for Molecular Dynamics, 2019-04-04T01:30:06+0000
+/project/mddatasetbuilder/, mddatasetbuilder, 1.3.1, A script to make molecular dynamics (MD) datasets for neural networks from given LAMMPS trajectories automatically., 2021-03-29T05:40:28+0000
+/project/polyply/, polyply, 1.0.0, , 2020-12-07T15:54:44+0000
+/project/blender-chemicals/, blender-chemicals, 0.3.0, Imports chemicals into blender with open babel., 2020-04-03T20:46:44+0000
+/project/nanome-docking/, nanome-docking, 0.2.1, Nanome Plugin to dock ligands to a receptor, 2020-02-14T20:08:17+0000
+/project/epsproc/, ePSproc, 1.2.6, Post-processing suite for ePolyScat calculations (Matlab & Python)., 2020-09-14T13:33:58+0000
+/project/pymatgen-db/, pymatgen-db, 2019.3.28, Pymatgen-db is a database add-on for the Python Materials Genomics (pymatgen) materials analysis library., 2019-03-28T23:58:55+0000
+/project/pumml/, pumml, 0.0.2, Positive and Unlabeled Materials Machine Learning (pumml) is a code that uses semi-supervised positive and unlabeled (PU) machine learning to classify materials when data is incomplete and only examples of 'positive' materials are available., 2020-11-16T18:30:10+0000
+/project/ursgal/, ursgal, 0.6.8, ursgal, 2020-12-22T21:42:16+0000
+/project/phprobe/, phprobe, 1.0.0, Measure pH easily, 2017-10-02T06:59:03+0000
+/project/aa-stat/, AA-stat, 2.3, A utility for validation of peptide identification results in proteomics using amino acid counting., 2021-04-08T23:13:30+0000
+/project/organisms/, Organisms, 3.2.7.1, This program is designed to perform a genetic algorithm global optimisation for nanoclusters., 2021-03-25T09:48:48+0000
+/project/im-standardize-molecule/, im-standardize-molecule, 0.1.0, Utilities for Molecular Science, 2021-03-18T17:18:47+0000
+/project/chemo-standardizer/, chemo-standardizer, 0.1.7, Provides a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises., 2019-05-29T02:54:28+0000
+/project/pysundials/, pysundials, 2.3.0-rc4, Python wrappers for the SUite of Non-linear DIfferential and ALgebraic solvers (SUNDIALS)., 2014-10-13T08:20:37+0000
+/project/pyvib2/, pyvib2, 1.1, A program for analyzing vibrational motion and vibrational spectra, 2007-04-08T19:32:51+0000
+/project/mjdir/, mjdir, 0.1.1, Manager for job submission for queueing system, 2021-03-06T13:33:13+0000
+/project/openbabel-wheel/, openbabel-wheel, 3.1.1.5, Python interface to the Open Babel chemistry library, 2021-03-29T19:04:28+0000
+/project/molvs/, MolVS, 0.1.1, Molecule Validation and Standardization, 2018-04-11T18:50:44+0000
+/project/nrpcalc/, nrpcalc, 1.5.11, Non-Repetitive Parts Calculator - Automated design and discovery of non-repetitive genetic parts for engineering stable genetic systems, 2021-03-29T15:43:16+0000
+/project/biometal/, biometal, 0.1.0, Tools for dealing with metal binding sites., 2018-04-16T16:45:34+0000
+/project/megnet/, megnet, 1.2.8, MatErials Graph Networks for machine learning of molecules and crystals., 2021-03-20T01:10:45+0000
+/project/qmctorch/, qmctorch, 0.1.1, Pytorch Implementation of Quantum Monte Carlo, 2020-07-14T08:45:13+0000
+/project/thermopy/, thermopy, 0.5.4, Python package for thermodynamic calculations and units conversion., 2016-09-12T07:35:33+0000
+/project/chembl-core-model/, chembl_core_model, 0.9.26, Core ChEMBL python ORM model, 2018-01-10T11:48:01+0000
+/project/gillespy2/, gillespy2, 1.5.7, Python interface for Gillespie-style biochemical simulations, 2020-12-15T22:40:32+0000
+/project/scine-molassembler/, scine-molassembler, 1.0.0, Inorganic molecular graph interpretation, modification and conformer generation, 2020-11-27T10:16:57+0000
+/project/chem/, chem, 1.2.0, A helper library for chemistry calculations,used by the edx-platform, 2020-06-05T10:39:50+0000
+/project/crn/, crn, 0.1.0a2, A Python3.6+ CRN Simulator, 2018-02-05T18:30:40+0000
+/project/rmodel/, rmodel, 0.0.2, rmodel: simple statistical models that follow R-like naming conventions, 2020-06-01T13:31:25+0000
+/project/pylj/, pylj, 1.4.1, Simple teaching tool for classical MD simulation, 2021-02-17T12:13:41+0000
+/project/nbmolviz/, nbmolviz, 0.7.0, Notebook Molecular Visualization: ipywidgets-based molecular visualization for molecular structures, 2018-03-30T16:01:52+0000
+/project/amimspy/, amimspy, 0.1.0, Python package for processing acoustic mist ionization mass spectrometry-based metabolomics and lipidomics data, 2021-04-15T15:01:26+0000
+/project/chi1chi2/, chi1chi2, 0.8.0, set of scripts for calculating linear and nonlinear optical properties of organic crystals, 2021-02-21T21:20:50+0000
+/project/quickff/, QuickFF, 2.2.4, Python library to quickly derive force fields from ab initio training data., 2020-03-20T13:31:48+0000
+/project/access2thematrix/, access2theMatrix, 0.4.1, Scienta Omicron (NanoScience) (NanoTechnology) MATRIX Control System result file accessing tool, 2019-11-06T15:34:48+0000
+/project/atomium/, atomium, 1.0.9, A molecular modeller and file parser., 2021-02-04T01:46:22+0000
+/project/django-random-id-model/, django-random-id-model, 0.1.0, A django model abstract class for creating random int primary keys., 2020-11-14T19:10:23+0000
+/project/pyscience/, pyscience, 0.5.0, python science programming, 2019-05-04T17:06:01+0000
+/project/yywtestpackage/, yywtestpackage, 0.1.4, yywtestpackage just test package, 2020-09-22T16:23:42+0000
+/project/tanabesugano/, TanabeSugano, 1.1.2, A python-solver for Tanabe-Sugano and Energy-Correlation diagrams, 2021-01-10T16:48:59+0000
+/project/qubekit/, qubekit, 2.6.3, Quantum mechanical bespoke force field parameter generation, 2019-09-30T14:02:39+0000
+/project/mols2grid/, mols2grid, 0.0.5, Chemical viewer for 2D structures of small molecules, 2021-04-08T00:26:35+0000
+/project/ndb-adapter/, ndb_adapter, 1.3, Adapter for http://ndbserver.rutgers.edu/ created for biologists, bioinformatics etc., 2016-06-14T12:52:23+0000
+/project/ifermi/, ifermi, 0.2.6, Fermi surface plotting tool from DFT output, 2021-04-02T22:14:32+0000
+/project/pybel/, pybel, 0.15.3, Parsing, validation, compilation, and data exchange of Biological Expression Language (BEL), 2021-04-19T19:53:13+0000
+/project/aiida-crystal-dft/, aiida-crystal-dft, 0.4, Yet another AiiDA plugin for CRYSTAL code, mainly intended for use with the cloud infrastructures (currently, MPDS), 2020-03-09T19:43:23+0000
+/project/bhmm/, bhmm, 0.6.3, BHMM: A toolkit for Bayesian hidden Markov model analysis of single-molecule trajectories., 2018-06-14T16:53:58+0000
+/project/aqualibrium/, aqualibrium, 0.0.1, Equilibrium solver for aqueous solutions, 2019-02-07T15:49:52+0000
+/project/dlpdb/, dlpdb, 0.5.1, collect statistics from the entire PDB library, 2021-01-26T04:25:42+0000
+/project/spiepy/, SPIEPy, 0.2.0, SPIEPy (Scanning Probe Image Enchanter using Python) is a Python library to improve automatic processing of SPM images., 2017-10-09T12:04:35+0000
+/project/gratelpy/, GraTeLPy, 0.2.0.1, Graph theoretic linear stability analysis, 2014-07-28T14:55:27+0000
+/project/yaff/, yaff, 1.4.2, YAFF is yet another force-field code., 2017-08-30T18:27:55+0000
+/project/uamc-spectrophore/, uamc-spectrophore, 1.2.0, Python implementation of the spectrophore descriptor, 2020-12-19T07:02:48+0000
+/project/amc/, amc, 0.9.5, Automatic angular-momentum reduction, 2020-05-05T23:26:12+0000
+/project/buildh/, buildh, 1.2.0, Build hydrogens from a united-atom MD of lipids and calculate the order parameter., 2021-04-16T06:50:45+0000
+/project/md-utils/, md_utils, 0.10.0, Utility scripts for MD data, 2016-09-07T20:31:29+0000
+/project/freesasa/, freesasa, 2.1.0, Calculate solvent accessible surface areas of proteins, 2020-09-13T10:38:41+0000
+/project/longbow/, Longbow, 1.5.2, Biomolecular simulation remote job submission tool., 2018-09-28T15:15:49+0000
+/project/scoria/, scoria, 1.0.5, A lightweight molecule manipulation codebase., 2020-03-26T03:52:56+0000
+/project/punx/, punx, 0.2.5, Python Utilities for NeXus, 2020-06-29T23:46:05+0000
+/project/pynta-flow/, pynta-flow, 1.1.1, An automated workflow for reaction path exploration on metallic surfaces, 2021-04-23T12:20:02+0000
+/project/openpathsampling/, openpathsampling, 1.4.2, A Python package for path sampling simulations, 2021-01-30T12:58:05+0000
+/project/pytnt/, pytnt, 0.1.0, Read NMR data files in the TecMag .tnt file format, 2020-11-07T06:48:45+0000
+/project/mechwolf/, mechwolf, 0.1.1, Continuous flow process description, analysis, and automation, 2019-09-23T19:36:16+0000
+/project/chemfp/, chemfp, 1.6.1, Reference baseline for high-performance cheminformatics fingerprint search benchmarking, 2020-08-21T14:38:49+0000
+/project/pgradd/, pgradd, 2.1, Python package implements the Group Additivity (GA) method for estimating thermodynamic properties, 2020-08-27T14:36:38+0000
+/project/vispywrapper/, vispywrapper, 0.0.1, Description., 2021-03-31T06:31:58+0000
+/project/minedatabase/, minedatabase, 1.0.0, Metabolic In silico Network Expansions, 2020-05-06T16:34:20+0000
+/project/catkit/, CatKit, 0.5.4, General purpose tools for high-throughput catalysis., 2018-11-30T19:47:15+0000
+/project/instamatic/, instamatic, 1.6.1, Python program for automated electron diffraction data collection, 2021-04-01T07:52:53+0000
+/project/adg/, adg, 3.0.0, A powerful diagram generator and evaluator for many-body formalisms in physics and chemistry, 2021-02-15T17:00:06+0000
+/project/nanome-minimization/, nanome-minimization, 0.3.0, Nanome Plugin to run minimization on selected structures, 2020-05-11T21:54:07+0000
+/project/bio2bel/, bio2bel, 0.4.1, A framework for converting biological data sources to BEL, 2021-02-16T13:32:16+0000
+/project/keter/, keter, 0.0.1, Bioinformatics platform, 2020-09-15T01:25:53+0000
+/project/pyveu/, pyveu, 0.1.0, Package to work with experimental data with uncertainties and units, 2020-09-09T13:29:35+0000
+/project/pymcr/, pyMCR, 0.3.2, Multivariate Curve Resolution in Python, 2019-06-25T15:33:48+0000
+/project/biowardrobe-airflow-analysis/, biowardrobe-airflow-analysis, 1.0.20181214162558, Replaces BioWardrobe's backend with CWL Airflow, 2018-12-14T16:26:11+0000
+/project/nglview/, nglview, 3.0.1, IPython widget to interactively view molecular structures and trajectories., 2021-04-10T20:45:03+0000
+/project/bio-jade/, bio-jade, 1.0, A repository for modules and applications to aid in the design and analysis of Biological molecules, especially when working with Rosetta or PyRosetta., 2018-02-15T23:40:14+0000
+/project/dfttk/, dfttk, 0.3.1, Density functional theory workflows for finite temperature thermodynamics based on atomate workflows. Created by the Phases Research Lab, 2021-02-03T16:51:34+0000
+/project/pdb2pqr/, pdb2pqr, 3.1.0, Automates many of the common tasks of preparing structures for continuum solvation calculations as well as many other types of biomolecular structure modeling, analysis, and simulation., 2020-12-22T14:28:19+0000
+/project/mcerp/, mcerp, 0.12, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2019-01-09T09:32:35+0000
+/project/metadisassembler/, metadisassembler, 0.1.0, The Metabolic Disassembler, 2019-12-30T06:15:58+0000
+/project/icn3dpy/, icn3dpy, 2.24.0, An IPython interface for embedding iCn3D viewer, 2021-01-27T19:30:08+0000
+/project/pytojcamp/, pytojcamp, 0.1.0, , 2021-04-07T08:42:51+0000
+/project/mbuild/, mbuild, 0.10.9, mBuild: A hierarchical, component based molecule builder, 2020-09-16T20:38:43+0000
+/project/fisx/, fisx, 1.2.0, Quantitative X-Ray Fluorescence Analysis Support Library, 2020-11-08T17:24:42+0000
+/project/hoggormplot/, hoggormplot, 0.13.2, Plotting functions for visualisation of data analysis results from the hoggorm package, 2019-07-06T07:47:01+0000
+/project/pyopenms/, pyopenms, 2.6.0, Python wrapper for C++ LCMS library OpenMS, 2020-11-04T15:56:44+0000
+/project/abipy/, abipy, 0.9.0, Python package to automate ABINIT calculations and analyze the results., 2021-03-13T10:37:20+0000
+/project/reacnetgenerator/, reacnetgenerator, 1.4.164, Reaction Network Generator, 2021-04-02T03:31:37+0000
+/project/crystals/, crystals, 1.3.0, Data structures for crystallography, 2021-02-06T16:50:26+0000
+/project/biowardrobe-airflow-analysis/, biowardrobe-airflow-analysis, 1.0.20181214162558, Replaces BioWardrobe's backend with CWL Airflow, 2018-12-14T16:26:11+0000
+/project/bio-jade/, bio-jade, 1.0, A repository for modules and applications to aid in the design and analysis of Biological molecules, especially when working with Rosetta or PyRosetta., 2018-02-15T23:40:14+0000
+/project/dfttk/, dfttk, 0.3.1, Density functional theory workflows for finite temperature thermodynamics based on atomate workflows. Created by the Phases Research Lab, 2021-02-03T16:51:34+0000
+/project/pibronic/, pibronic, 0.3, Quantum Mechanical Computational Package, 2018-11-07T23:23:21+0000
+/project/glotaran/, glotaran, 0.1.0, The Glotaran fitting engine., 2020-06-14T13:30:41+0000
+/project/chemosanitizer/, chemosanitizer, 0.0.2, A python script to parallelize basic MolVS functions, 2020-10-06T09:36:19+0000
+/project/aimsgb/, aimsgb, 0.1.0, aimsgb is a python library for generatng the atomic coordinates of periodic grain boundaries.Copyright © 2018 The Regents of the University of California.All Rights Reserved. See more in Copyright., 2020-12-04T10:43:32+0000
+/project/curp/, curp, 1.2.1, Inter-residue Current calculation in Proteins from MD             trajectory, 2019-06-26T07:24:09+0000
+/project/insilicolynxdqi/, insilicolynxdqi, 1.0.0, Medicinal Chemistry tool for calculating drug suitability parameters of compounds., 2017-11-17T12:12:58+0000
+/project/galvani/, galvani, 0.2.0, Open and process battery charger log data files, 2020-10-31T07:10:59+0000
+/project/fchic/, fchic, 0.1.0, fchic is a minimal parser for Gaussian 16 formatted checkpoint files., 2021-04-15T22:32:34+0000
+/project/simetuc/, simetuc, 1.8.2, simetuc: Simulating Energy Transfer and Upconversion, 2018-07-26T16:38:40+0000
+/project/chembl-extras/, chembl_extras, 0.9.7, Python package providing extra collection of django custom management commands for use with ChEMBL and some classes for use in future, 2017-05-10T12:42:40+0000
+/project/insilicolynxdqi/, insilicolynxdqi, 1.0.0, Medicinal Chemistry tool for calculating drug suitability parameters of compounds., 2017-11-17T12:12:58+0000
+/project/galvani/, galvani, 0.2.0, Open and process battery charger log data files, 2020-10-31T07:10:59+0000
+/project/fchic/, fchic, 0.1.0, fchic is a minimal parser for Gaussian 16 formatted checkpoint files., 2021-04-15T22:32:34+0000
+/project/simetuc/, simetuc, 1.8.2, simetuc: Simulating Energy Transfer and Upconversion, 2018-07-26T16:38:40+0000
+/project/chembl-extras/, chembl_extras, 0.9.7, Python package providing extra collection of django custom management commands for use with ChEMBL and some classes for use in future, 2017-05-10T12:42:40+0000
+/project/lara-django/, lara-django, 0.2.6, LARA-django is a python django project of the Lab Automation Suite LARA - (lara.uni-greifswald.de/larasuite), 2020-04-10T12:22:09+0000
+/project/pbcpy/, pbcpy, 0.2.7, A toolbox to make it easier to deal with materials under periodc boundary conditions., 2018-02-22T01:12:20+0000
+/project/metabolinks/, metabolinks, 0.61, A set of tools for high-resolution MS metabolomics data analysis, 2021-01-19T19:22:52+0000
+/project/xylib-py/, xylib-py, 1.6.1, Python bindings to xylib, 2020-11-10T19:28:01+0000
+/project/mummichog/, mummichog, 2.4.4, Pathway and network analysis for metabolomics data, 2020-10-18T15:37:01+0000
+/project/activate-aiida/, activate-aiida, 0.3.0, a package to activate an aiida environment, from a yaml config file, 2020-04-09T23:24:10+0000
+/project/chemica/, chemica, 1.1.0, A simple library that takes chemistry to the next level., 2021-03-12T08:08:50+0000
+/project/datapipeline/, DataPipeline, 1.2, Importing and fitting tool for scientific text data., 2012-10-23T13:53:03+0000
+/project/insane/, insane, 1.0rc1, A versatile tool for building membranes and/or solvent with proteins., 2017-04-06T15:18:43+0000
+/project/pdom/, pdom, 1.0.0, Simulation toolkit for the Photocatalytic Degradation of Organic Molecules, 2020-07-21T10:27:27+0000
+/project/pyvalence/, pyvalence, 0.0.1.3, Package for processing analytical chemistry data., 2021-01-03T21:20:56+0000
+/project/surpriser/, Surpriser, 1.2.5, Surpriser object and some functions., 2020-12-25T12:56:00+0000
+/project/pymbd/, pymbd, 0.12.1, Many-body dispersion library, 2021-03-01T15:19:44+0000
+/project/prody/, ProDy, 2.0, A Python Package for Protein Dynamics Analysis, 2021-02-07T16:25:25+0000
+/project/pysb/, pysb, 1.12.0, Python Systems Biology modeling framework, 2021-03-17T20:53:34+0000
+/project/rtc/, rtc, 0.0.1, Retention Time Clustering for LC-IM-MS., 2018-12-17T22:33:52+0000
+/project/pychimera/, pychimera, 0.2.7, Use UCSF Chimera Python API in a standard Python 2.7 interpreter., 2019-02-13T10:15:17+0000
+/project/chemspipy/, ChemSpiPy, 2.0.0, A simple Python wrapper around the ChemSpider Web Services., 2018-09-09T21:06:30+0000
+/project/unitcalc/, unitcalc, 2.0.1, A Python Library for doing Scientific/Engineering mathematics, 2021-04-24T21:59:14+0000
+/project/gaml/, GAML, 1.2, Genetic Algorithm Machine Learning, 2021-04-23T20:12:59+0000
+/project/mcetl/, mcetl, 0.4.2, A small-scale Extract-Transform-Load framework focused on materials characterization., 2021-02-02T23:48:33+0000
+/project/maml/, maml, 2021.3.2, maml is a machine learning library for materials science., 2021-03-03T00:38:11+0000
+/project/aiida-gaussian-datatypes/, aiida-gaussian-datatypes, 0.4.0, AiiDA data plugin to manage gaussian datatypes (basis sets and pseudopotentials) as first-class citizens, 2021-04-16T13:40:16+0000
+/project/aarontools/, AaronTools, 1.0b10, Tools for measuring and manipulating molecular structures, 2021-04-20T21:23:34+0000
+/project/cppe/, cppe, 0.3.1, C++ and Python library for Polarizable Embedding, 2020-10-29T21:38:17+0000
+/project/reaktoro/, reaktoro, 1.2.2, The Python interface of the Reaktoro library., 2021-02-24T22:22:10+0000
+/project/edxia/, edxia, 0.1.8, SEM-BSE-EDS image analysis, 2020-12-16T09:03:24+0000
+/project/msaris/, msaris, 0.1.4b5, Python package to identify isotope patterns and their formulas, 2021-02-21T13:23:49+0000
+/project/umbrellaintegrate/, UmbrellaIntegrate, 0.41, The umbrella integration algorithm., 2018-04-04T20:12:37+0000
+/project/daltools/, daltools, 1.1.6, Daltools: utilities for extracting data from Dalton quantum chemistry calculations, 2021-04-21T13:12:31+0000
+/project/mlatom/, MLatom, 1.2.3, A Package for Atomistic Simulations with Machine Learning, 2021-03-01T02:36:52+0000
+/project/pniggli/, pniggli, 0.1.3, Structures of Alloys Generation And Recognition, 2019-04-25T10:57:57+0000
+/project/pychemkin/, pychemkin, 1.1.8, Chemical Kinetics Library, 2017-12-06T22:46:20+0000
+/project/exposan/, exposan, 0.0.10, Exposition of sanitation and resource recovery systems, 2021-04-24T20:53:47+0000
+/project/pymzml-tapir/, pymzml-tapir, 0.8.0, high-throughput mzML parsing, 2018-06-21T19:24:19+0000
+/project/mechanica/, mechanica, 0.0.30.dev4, Interactive physics simulation engine, 2021-04-20T06:25:08+0000
+/project/eccpy/, eccpy, 0.5.0, High-throughput calculation of EC50 values., 2020-10-01T21:07:40+0000
+/project/fs-ops/, fs-ops, 0.0.4, Description., 2020-02-14T12:01:24+0000
+/project/dynasor/, dynasor, 0.1.2, A tool for calculating dynamical structure factors, 2018-06-18T21:42:23+0000
+/project/pyvap/, pyvap, 0.1.1, Kinetic model of particle evaporation, 2017-08-25T20:13:55+0000
+/project/diffpy-pdfgui/, diffpy.pdfgui, 1.1.2, GUI for PDF simulation and structure refinement., 2017-02-09T20:23:40+0000
+/project/sumndx/, sumndx, 0.0.1.dev19, Quick summary of a Gromacs index file, 2018-07-31T06:49:49+0000
+/project/vga/, VGA, 1.3.6, Python package implements the Group Additivity (GA) method for estimating thermodynamic properties, 2019-05-15T19:36:03+0000
+/project/tidyms/, tidyms, 0.1.1, Tools for working with MS data in metabolomics, 2020-11-16T15:32:02+0000
+/project/pybiolccc/, pyBioLCCC, 1.3.0, Bindings for the libBioLCCC, 2011-02-18T13:08:22+0000
+/project/charger/, CharGer, 0.5.2, Characterization of Germline variants, 2018-01-11T21:14:09+0000
+/project/abiflows/, abiflows, 0.6, Framework for high-throughput calculations with ABINIT, 2020-05-29T09:38:15+0000
+/project/pysmiles/, pysmiles, 1.0.1, A lightweight SMILES reader and writer, 2020-06-25T14:27:04+0000
+/project/meisterinsitu/, MeisterInSitu, 2.0.0, A Python library to aid in the processing and interpretation of Hyper spectrometric data., 2019-05-25T10:21:00+0000
+/project/rotamerconvolvemd/, RotamerConvolveMD, 1.3.2, Analysis of spin label distances over structural ensembles, 2020-07-12T05:42:57+0000
+/project/scikit-chem/, scikit-chem, 0.0.6, A set of python modules for cheminformatics, 2016-08-08T01:00:33+0000
+/project/seekpath/, seekpath, 2.0.1, A module to obtain and visualize k-vector coefficients and obtain band paths in the Brillouin zone of crystal structures, 2020-05-17T11:09:16+0000
+/project/pyprophet/, pyprophet, 2.1.10, PyProphet: Semi-supervised learning and scoring of OpenSWATH results., 2021-02-22T13:10:06+0000
+/project/lightdock/, lightdock, 0.8.2, A macromolecular docking framework, 2021-01-18T16:34:26+0000
+/project/tb2j-openmx/, TB2J-OpenMX, 0.3.3, TB2J_OpenMX: TB2J interface to OpenMX, 2020-11-15T10:44:37+0000
+/project/pymatgen-analysis-diffusion/, pymatgen-analysis-diffusion, 2021.3.6, Add-on to pymatgen for diffusion analysis., 2021-03-06T16:14:08+0000
+/project/biobuilder/, biobuilder, 0.1.0, BioBuilder is used to create biology model in both all-atom and coarse-grained resolution, 2021-04-18T14:45:20+0000
+/project/thermo/, thermo, 0.2.3, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-15T03:18:28+0000
+/project/sumndx/, sumndx, 0.0.1.dev19, Quick summary of a Gromacs index file, 2018-07-31T06:49:49+0000
+/project/xanespy/, xanespy, 0.3.3, Tools for analyzing X-ray absorbance spectroscopy data, 2019-07-19T16:16:38+0000
+/project/vga/, VGA, 1.3.6, Python package implements the Group Additivity (GA) method for estimating thermodynamic properties, 2019-05-15T19:36:03+0000
+/project/tidyms/, tidyms, 0.1.1, Tools for working with MS data in metabolomics, 2020-11-16T15:32:02+0000
+/project/pybiolccc/, pyBioLCCC, 1.3.0, Bindings for the libBioLCCC, 2011-02-18T13:08:22+0000
+/project/charger/, CharGer, 0.5.2, Characterization of Germline variants, 2018-01-11T21:14:09+0000
+/project/abiflows/, abiflows, 0.6, Framework for high-throughput calculations with ABINIT, 2020-05-29T09:38:15+0000
+/project/pysmiles/, pysmiles, 1.0.1, A lightweight SMILES reader and writer, 2020-06-25T14:27:04+0000
+/project/meisterinsitu/, MeisterInSitu, 2.0.0, A Python library to aid in the processing and interpretation of Hyper spectrometric data., 2019-05-25T10:21:00+0000
+/project/rotamerconvolvemd/, RotamerConvolveMD, 1.3.2, Analysis of spin label distances over structural ensembles, 2020-07-12T05:42:57+0000
+/project/scikit-chem/, scikit-chem, 0.0.6, A set of python modules for cheminformatics, 2016-08-08T01:00:33+0000
+/project/seekpath/, seekpath, 2.0.1, A module to obtain and visualize k-vector coefficients and obtain band paths in the Brillouin zone of crystal structures, 2020-05-17T11:09:16+0000
+/project/pyprophet/, pyprophet, 2.1.10, PyProphet: Semi-supervised learning and scoring of OpenSWATH results., 2021-02-22T13:10:06+0000
+/project/lightdock/, lightdock, 0.8.2, A macromolecular docking framework, 2021-01-18T16:34:26+0000
+/project/tb2j-openmx/, TB2J-OpenMX, 0.3.3, TB2J_OpenMX: TB2J interface to OpenMX, 2020-11-15T10:44:37+0000
+/project/speview/, speview, 0.6.2, Program to display binary SPE files containing Raman spectra, 2014-10-14T13:21:28+0000
+/project/pdlsr/, pdLSR, 0.3.6, pdLSR: Pandas-aware least squares regression., 2016-07-24T22:07:50+0000
+/project/molecupy/, molecupy, 1.1.0, A Python molecular modeller with PDB parsing., 2017-01-29T22:45:28+0000
+/project/dimspy/, dimspy, 2.0.0, Python package for processing of direct-infusion mass spectrometry-based metabolomics and lipidomics data, 2020-04-27T00:08:22+0000
+/project/simpletraj/, simpletraj, 0.5, Lightweight coordinate-only trajectory reader based on code from GROMACS, MDAnalysis, VMD., 2016-10-05T04:48:55+0000
+/project/jax-unirep/, jax-unirep, 2.0.1, A performant and user-friendly reimplementation of UniRep in JAX., 2021-01-03T15:40:25+0000
+/project/scikit-nano/, scikit-nano, 0.3.21, Python toolkit for generating and analyzing nanostructure data, 2015-11-04T13:54:13+0000
+/project/pythia-learn/, pythia-learn, 0.3.0, Machine learning fingerprints for particle environments, 2020-02-26T16:17:38+0000
+/project/equilibrator-cache/, equilibrator-cache, 0.4.2, Cache application for compounds, reactions, and enzymes, 2021-03-16T09:50:16+0000
+/project/stimator/, stimator, 0.9.135, Analysis of ODE models with focus on model selection and parameter estimation., 2020-12-24T14:37:02+0000
+/project/molsystem/, molsystem, 2021.2.2, molsystem, 2021-02-02T10:46:36+0000
+/project/aspecd/, aspecd, 0.1.0, Framework for handling spectroscopic data., 2021-04-24T19:39:14+0000
+/project/tbwk-opener/, tbwk-opener, 0.1.0, An tool to open tbwk files generated by NanoDrop 2000, 2020-06-23T11:09:11+0000
+/project/spike-py/, spike-py, 0.99.21, The SPIKE program. A collaborative development for a FT-spectroscopy processing program, 2021-02-23T14:45:38+0000
+/project/d3r/, d3r, 1.12.0, Drug Design Data Resource CELPP Runner is an application to run the filtering, docking, and evaluation of new sequences from wwpdb, 2019-08-16T20:33:06+0000
+/project/thermotools/, thermotools, 0.2.7, lowlevel implementation toolbox for the analyis of multi-ensemble calculations, 2018-09-05T09:57:09+0000
+/project/kiwiii-server/, Kiwiii-server, 0.7.0, HTTP API server library for chemical database administration and computation, 2017-08-30T02:05:27+0000
+/project/stocal/, stocal, 1.2, simple rule-based stochastic simulation, 2018-08-10T11:08:28+0000
+/project/mzml2isa/, mzml2isa, 1.0.3, mzML file parser and converter to ISA-Tab, 2020-04-01T20:17:59+0000
+/project/iris-ued/, iris-ued, 5.3.0, Ultrafast electron diffraction data exploration, 2021-02-14T19:18:58+0000
+/project/soltrannet/, soltrannet, 1.0.0, Molecule attention transformer for predicting aqueous solubility (log S), 2021-03-17T16:47:10+0000
+/project/plams/, plams, 1.4, Python Library for Automating Molecular Simulations, 2019-03-28T14:22:03+0000
+/project/ms-peak-picker/, ms-peak-picker, 0.1.33, A library to pick peaks from mass spectral data, 2021-01-29T14:51:00+0000
+/project/atomic-hpc/, atomic-hpc, 0.4.0, A package for running multiple executable scripts on both local and remote hosts, configured using a YAML file, 2019-02-28T00:45:36+0000
+/project/surfgraph/, surfgraph, 0.3.1, A package for generating chemical environment graphs of surfaces, 2021-02-17T20:30:54+0000
+/project/diffpy-pdffit2/, diffpy.pdffit2, 1.2.0, PDFfit2 - real space structure refinement program., 2019-08-08T22:20:45+0000
+/project/povme/, povme, 3.0.35, POVME (Pocket VOlume MEasurer) is a Python package for extracting actionable information from ensembles of protein structures for use in drug design., 2017-09-06T04:32:18+0000
+/project/pybader/, pybader, 0.3.12, Threaded implementation of grid-based Bader charge analysis., 2020-08-10T17:21:52+0000
+/project/nanome-matryx/, nanome-matryx, 0.0.1, Nanome Plugin to interface with the Matryx Platform, 2019-07-26T22:57:43+0000
+/project/pydpc/, pydpc, 0.1.3, Python package for Density Peak-based Clustering, 2016-02-11T10:18:25+0000
+/project/diffpy-srmise/, diffpy.srmise, 0.5.2, Peak extraction and peak fitting tool for atomic pair distribution functions., 2015-07-01T15:33:17+0000
+/project/coho/, coho, 0.4, SMILES parser, 2019-01-19T03:34:02+0000
+/project/mmpdb/, mmpdb, 2.1, A package to identify matched molecular pairs and use them to predict property changes, 2018-05-09T18:21:13+0000
+/project/zeoliteclusterizer/, zeoliteclusterizer, 0.1.1, A python module built for rapid computational screening of catalysts on rigid structures, 2017-06-06T22:36:37+0000
+/project/pyeem/, pyeem, 0.2.0, Python library for the preprocessing, correction, deconvolution and analysis of Excitation Emission Matrices (EEMs)., 2020-10-31T19:24:40+0000
+/project/molpainter/, MolPainter, 1.1.2, Tool for drawing complex planar molecular systems of arbitrary composition and molecule placement, 2020-11-19T02:11:10+0000
+/project/pysimrel/, pysimrel, 0.6.0, Simulating data from linear model data, 2019-08-18T17:11:42+0000
+/project/chembl-migrate/, chembl_migrate, 0.8.4, Django custom management tool intended to perform data exports and migration of CheMBL database., 2017-01-11T10:09:42+0000
+/project/rawprasslib/, rawprasslib, 0.0.13, Thermo/Finnigan .raw file format reader, 2021-04-16T14:47:48+0000
+/project/ms1searchpy/, ms1searchpy, 2.1.5, A proteomics search engine for LC-MS1 spectra., 2021-02-01T17:14:17+0000
+/project/ase-notebook/, ase-notebook, 0.3.2, Highly configurable 2D (SVG) & 3D (threejs) visualisations for ASE/Pymatgen structures, within the Jupyter Notebook, 2020-04-09T10:48:39+0000
+/project/scoria-mda/, scoria_mda, 1.0.4, A lightweight molecule manipulation codebase., 2017-09-26T20:57:56+0000
+/project/physical-validation/, physical-validation, 1.0.0rc7, Physical validation of molecular simulation results, 2018-10-27T18:31:32+0000
+/project/xps/, xps, 0.2.1, X-Ray photonelectron spectroscopy (XPS) analysis tools, 2020-12-14T16:46:29+0000
+/project/pyteomics/, pyteomics, 4.4.2, A framework for proteomics data analysis., 2021-03-26T12:57:17+0000
+/project/diffpy-srfit/, diffpy.srfit, 3.0.0, SrFit - Structure refinement from diffraction data, 2019-03-14T21:37:56+0000
+/project/popmodel/, popmodel, 0.4.0, Model molecular excited state populations over time, 2016-04-12T15:35:38+0000
+/project/pymca/, pymca, 5.6.5, pymca, 2021-04-09T13:32:27+0000
+/project/read-structure-step/, read-structure-step, 2021.2.12, A SEAMM plug-in to read common formats in computational chemistry, 2021-02-12T12:09:57+0000
+/project/xcal-raman/, xcal_raman, 0.1.5, Module for x-axis calibration of Raman spectrometers, 2014-09-10T14:42:29+0000
+/project/flashflood/, Flashflood, 0.13.0, HTTP API server builder for chemical database workflow, 2018-07-09T04:03:49+0000
+/project/psi4-step/, psi4-step, 2021.2.11, A SEAMM plug-in to setup, run and analyze quantum chemistry calculations using Psi4, 2021-02-11T23:51:20+0000
+/project/ezff/, EZFF, 0.9.4, Multiobjective forcefield optimization for Molecular Dynamics, 2019-04-04T01:30:06+0000
+/project/scheil/, scheil, 0.1.4, Scheil-Gulliver simulations using pycalphad., 2020-11-14T21:52:39+0000
+/project/pychembldb/, pychembldb, 0.4.1, ChEMBLdb interface for Python, 2020-01-15T22:31:19+0000
+/project/valarpy/, valarpy, 2.2.0, Python ORM to talk to Valar., 2020-08-26T22:09:18+0000
+/project/relaxnmr/, relaxNMR, 0.0.1, 1D Proton NMR relaxometry analysis, 2020-09-13T13:14:31+0000
+/project/pytetgen/, pytetgen, 0.2.2, wrapper for the tetgen mesh generator, 2021-01-25T11:16:34+0000
+/project/rtc/, rtc, 0.0.1, Retention Time Clustering for LC-IM-MS., 2018-12-17T22:33:52+0000
+/project/pychimera/, pychimera, 0.2.7, Use UCSF Chimera Python API in a standard Python 2.7 interpreter., 2019-02-13T10:15:17+0000
+/project/chemspipy/, ChemSpiPy, 2.0.0, A simple Python wrapper around the ChemSpider Web Services., 2018-09-09T21:06:30+0000
+/project/unitcalc/, unitcalc, 2.0.1, A Python Library for doing Scientific/Engineering mathematics, 2021-04-24T21:59:14+0000
+/project/gaml/, GAML, 1.2, Genetic Algorithm Machine Learning, 2021-04-23T20:12:59+0000
+/project/mcetl/, mcetl, 0.4.2, A small-scale Extract-Transform-Load framework focused on materials characterization., 2021-02-02T23:48:33+0000
+/project/maml/, maml, 2021.3.2, maml is a machine learning library for materials science., 2021-03-03T00:38:11+0000
+/project/aiida-gaussian-datatypes/, aiida-gaussian-datatypes, 0.4.0, AiiDA data plugin to manage gaussian datatypes (basis sets and pseudopotentials) as first-class citizens, 2021-04-16T13:40:16+0000
+/project/aarontools/, AaronTools, 1.0b10, Tools for measuring and manipulating molecular structures, 2021-04-20T21:23:34+0000
+/project/cppe/, cppe, 0.3.1, C++ and Python library for Polarizable Embedding, 2020-10-29T21:38:17+0000
+/project/reaktoro/, reaktoro, 1.2.2, The Python interface of the Reaktoro library., 2021-02-24T22:22:10+0000
+/project/edxia/, edxia, 0.1.8, SEM-BSE-EDS image analysis, 2020-12-16T09:03:24+0000
+/project/msaris/, msaris, 0.1.4b5, Python package to identify isotope patterns and their formulas, 2021-02-21T13:23:49+0000
+/project/umbrellaintegrate/, UmbrellaIntegrate, 0.41, The umbrella integration algorithm., 2018-04-04T20:12:37+0000
+/project/daltools/, daltools, 1.1.6, Daltools: utilities for extracting data from Dalton quantum chemistry calculations, 2021-04-21T13:12:31+0000
+/project/mlatom/, MLatom, 1.2.3, A Package for Atomistic Simulations with Machine Learning, 2021-03-01T02:36:52+0000
+/project/pniggli/, pniggli, 0.1.3, Structures of Alloys Generation And Recognition, 2019-04-25T10:57:57+0000
+/project/mddatasetbuilder/, mddatasetbuilder, 1.3.1, A script to make molecular dynamics (MD) datasets for neural networks from given LAMMPS trajectories automatically., 2021-03-29T05:40:28+0000
+/project/polyply/, polyply, 1.0.0, , 2020-12-07T15:54:44+0000
+/project/blender-chemicals/, blender-chemicals, 0.3.0, Imports chemicals into blender with open babel., 2020-04-03T20:46:44+0000
+/project/nanome-docking/, nanome-docking, 0.2.1, Nanome Plugin to dock ligands to a receptor, 2020-02-14T20:08:17+0000
+/project/epsproc/, ePSproc, 1.2.6, Post-processing suite for ePolyScat calculations (Matlab & Python)., 2020-09-14T13:33:58+0000
+/project/plumed/, plumed, 2.7.1, Python interface to PLUMED, 2021-04-16T06:59:43+0000
+/project/pychemkin/, pychemkin, 1.1.8, Chemical Kinetics Library, 2017-12-06T22:46:20+0000
+/project/exposan/, exposan, 0.0.10, Exposition of sanitation and resource recovery systems, 2021-04-24T20:53:47+0000
+/project/pymzml-tapir/, pymzml-tapir, 0.8.0, high-throughput mzML parsing, 2018-06-21T19:24:19+0000
+/project/mechanica/, mechanica, 0.0.30.dev4, Interactive physics simulation engine, 2021-04-20T06:25:08+0000
+/project/eccpy/, eccpy, 0.5.0, High-throughput calculation of EC50 values., 2020-10-01T21:07:40+0000
+/project/fs-ops/, fs-ops, 0.0.4, Description., 2020-02-14T12:01:24+0000
+/project/dynasor/, dynasor, 0.1.2, A tool for calculating dynamical structure factors, 2018-06-18T21:42:23+0000
+/project/pyvap/, pyvap, 0.1.1, Kinetic model of particle evaporation, 2017-08-25T20:13:55+0000
+/project/diffpy-pdfgui/, diffpy.pdfgui, 1.1.2, GUI for PDF simulation and structure refinement., 2017-02-09T20:23:40+0000
+/project/esbmtk/, esbmtk, 0.4.3.0, An Earth Sciences Box Modeling Toolkit, 2021-04-25T14:39:28+0000
+/project/chemicals/, chemicals, 1.0.5, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-25T17:42:59+0000
+/project/pymatgen-diffusion/, pymatgen-diffusion, 2020.10.8, Add-on to pymatgen for diffusion analysis., 2020-10-08T20:26:52+0000
+/project/smiview/, smiview, 1.2.1, smiview is a command-line, text-mode tool to show the structure of a SMILES string., 2019-08-29T10:34:20+0000
+/project/isospecpy/, IsoSpecPy, 2.1.4, Python interface to IsoSpec++ isotopic envelope calculator library, 2020-12-10T13:50:10+0000
+/project/chemlab/, chemlab, 1.1, The python chemistry library you were waiting for, 2016-10-25T23:09:55+0000
+/project/sqnomad/, SQNomad, 0.2.3, NOMAD - A blackbox optimization software, 2021-03-30T22:43:39+0000
+/project/comp-chem-py/, comp-chem-py, 1.0, Computational chemistry library in python, 2018-09-22T17:39:50+0000
+/project/parse-fmt/, parse-fmt, 0.5.1, A Python parser for CASTEP fmt files (densities, potentials etc.), 2019-06-06T11:51:10+0000
+/project/pytzer/, Pytzer, 0.4.3, Pitzer model for chemical activities in aqueous solutions, 2019-09-11T10:34:36+0000
+/project/scripyt-mwfn/, scripyt-MWFN, 1.0.1, A package for Cheminformatics., 2020-11-10T12:16:07+0000
+/project/pybel-cx/, pybel-cx, 0.1.3, A PyBEL extension for interconversion with CX, 2019-10-04T08:10:42+0000
+/project/bapt/, bapt, 1.0.0, Band alignment plotting tool, 2017-10-20T12:32:33+0000
+/project/autochem/, autochem, 0.1.5, Automates creation and post-processing of quantum chemical calculations, 2020-09-24T12:11:17+0000
+/project/edbo/, edbo, 0.1.0, Experimental design via Bayesian optimization, 2020-11-18T16:04:09+0000
+/project/molml/, molml, 0.9.0, An interface between molecules and machine learning, 2019-05-25T23:54:58+0000
+/project/opem/, opem, 1.2, Open Source PEM Cell Simulation Tool, 2020-03-12T14:13:16+0000
+/project/mdbenchmark/, mdbenchmark, 3.0.1, Quickly generate, start and analyze benchmarks for your molecular dynamics simulations., 2020-10-09T14:42:37+0000
+/project/car2lammpsdata/, car2lammpsdata, 0.0.3, car2lammpsdata, 2019-07-18T09:31:32+0000
+/project/meeko/, meeko, 0.1.dev3, Python package for preparing small molecule for docking, 2021-02-17T18:51:44+0000
+/project/nmrml2isa/, nmrml2isa, 0.3.1, nmrml2isa - nmrML to ISA-Tab parsing tool, 2016-12-19T14:32:01+0000
+/project/pyjdx/, pyjdx, 0.0.1, A reader of JCAMP-DX spectral data files, 2015-08-06T16:45:26+0000
+/project/decaf-espresso/, decaf-espresso, 0.3.1, Light-weight ASE calculator wrapper for Quantum Espresso., 2018-11-08T08:17:14+0000
+/project/cwl-airflow/, cwl-airflow, 1.2.10, Python package to extend Airflow functionality with CWL v1.1 support, 2021-01-29T11:36:59+0000
+/project/mate-for-dummies/, MATE-for-Dummies, 0.5.2, MATE for Dummies. Scienta Omicron MATE Scripting System in Python, 2020-06-28T11:48:27+0000
+/project/chembl-migration-model/, chembl_migration_model, 0.9.6, Core ChEMBL python ORM model for data exports and migration, 2017-05-11T16:57:16+0000
+/project/kcfconvoy/, kcfconvoy, 0.0.5, KCF-Convoy: efficient Python package to convert KCF chemical substructure fingerprints, 2019-12-02T05:06:56+0000
+/project/uamc-qed/, uamc-qed, 1.0.2, Python implementation of the QED descriptor (Quantitative Estimation of Druglikeness), 2020-11-29T09:51:14+0000
+/project/achemkit/, AChemKit, 0.3.0, An Artificial Chemistry Tookit, 2011-09-09T12:32:34+0000
+/project/pystallone/, pystallone, 1.0.0b7, Python binding for Stallone java library, 2015-01-20T15:44:38+0000
+/project/qe-tools/, qe-tools, 1.1.4, A set of useful tools to manage Quantum ESPRESSO files, 2020-04-24T07:36:00+0000
+/project/pyglotaran-alias/, pyglotaran-alias, 0.0.5, Convenience module, which allows to use pyglotaran as alias in the CLI and imports, 2021-02-25T16:14:44+0000
+/project/optslope/, optslope, 0.1.0, OptSlope - A tool for metabolic engineering, based on the OptSlope algorithm, 2019-05-14T10:03:51+0000
+/project/periodictable/, periodictable, 1.6.0, Extensible periodic table of the elements, 2021-04-21T15:44:35+0000
+/project/mdshare/, mdshare, 0.4.1, Get easy access to our public data files., 2021-02-17T11:07:37+0000
+/project/rawautoparams/, rawautoparams, 0.0.5, Thermo/Finnigan .raw file format parameters reader, 2021-04-16T14:48:11+0000
+/project/pyprophet-cli/, pyprophet-cli, 0.0.19, tools for running pyoprohet on a computing cluster, 2016-01-04T17:36:57+0000
+/project/timspy/, timspy, 0.9.3, TimsPy: access for raw timsTOF Pro data for data scientists, 2020-12-10T10:54:07+0000
+/project/pymatgen/, pymatgen, 2022.0.6, Python Materials Genomics is a robust materials analysis code that defines core object representations for structures and molecules with support for many electronic structure codes. It is currently the core analysis code powering the Materials Project (https://www.materialsproject.org)., 2021-04-22T06:26:09+0000
+/project/ecsalinity/, ecsalinity, 1.0.2, Monitor hydroponic nutrient levels, salinity levels in aquariums or the ocean, saltwater pools, soil salinity, and water quality, 2017-09-09T04:42:30+0000
+/project/contact-map/, contact-map, 0.7.0, Contact maps based on MDTraj, 2020-10-28T09:56:07+0000
+/project/apstools/, apstools, 1.5.0, Various Python tools for use with the Bluesky Framework at the APS, 2021-04-02T20:49:42+0000
+/project/laudadriver/, LaudaDriver, 1.0.0a7, Simple helper to control the Lauda thermostat, 2017-05-22T13:46:44+0000
+/project/vipster/, vipster, 1.19.1, A pre- and post-processing toolkit for atomistic simulations., 2020-12-14T17:28:12+0000
+/project/cclib/, cclib, 1.7, cclib: parsers and algorithms for computational chemistry, 2021-01-05T00:33:23+0000
+/project/networkit/, networkit, 8.1, NetworKit is a toolbox for high-performance network analysis, 2021-02-23T17:32:14+0000
+/project/equilibrator-api/, equilibrator-api, 0.4.2, Calculation of standard thermodynamic potentials of biochemical reactions., 2021-03-24T09:25:04+0000
+/project/crem/, crem, 0.2.5, CReM: chemically reasonable mutations framework, 2021-02-21T13:36:27+0000
+/project/py-packman/, py-packman, 1.2.10, A software package for molecular PACKing and Motion ANalysis (PACKMAN), 2021-04-01T20:51:09+0000
+/project/pvtrace/, pvtrace, 2.1.6, Optical ray tracing for luminescent materials and spectral converter photovoltaic devices., 2020-11-18T23:07:02+0000
+/project/islatu/, islatu, 0.1.1, X-ray reflectometry reduction in Python., 2020-12-02T16:12:07+0000
+/project/waters/, waters, 0.0.4, Parsing MS data from Waters., 2020-09-20T11:28:17+0000
+/project/pyerepfit/, pyerepfit, 0.1, The python verion of the DFTB repulsive potential fitting tool, erepfit., 2018-09-27T07:07:35+0000
+/project/proteincsm/, proteincsm, 1.0.1, The Continuous Symmetry Measure for Proteins, 2019-04-07T19:40:36+0000
+/project/pdbsearch/, pdbsearch, 0.2.0, A library for searching for PDB structures using the official APIs., 2021-04-25T22:23:24+0000
+/project/apav/, APAV, 1.1.1, A Python library for Atom Probe Tomography analysis, 2021-04-01T19:21:29+0000
+/project/groupfilter/, groupfilter, 0.2, A software tool for efficient filtering of Morpheus search engine results., 2015-04-07T15:07:53+0000
+/project/ipyatom/, ipyatom, 0.1.0, a package primarily for interfacing ase/pymatgen with ipyvolume/matplotlib, 2018-04-21T10:15:50+0000
+/project/pyvasp/, pyvasp, 0.0.3, Multi-option command line tool for VASP, 2019-05-20T05:08:29+0000
+/project/chemcoord/, chemcoord, 2.0.4, Python module for dealing with chemical coordinates., 2018-01-07T19:26:29+0000
+/project/biceps/, biceps, 2.0b0.post0, BICePs, 2021-02-05T18:56:33+0000
+/project/pyqentangle/, pyqentangle, 3.1.9, Quantum Entanglement in Python, 2021-04-10T18:19:16+0000
+/project/idaes-pse/, idaes-pse, 1.9.0, IDAES Process Systems Engineering Framework, 2021-03-04T02:23:22+0000
+/project/diffpy-srreal/, diffpy.srreal, 1.3.0, calculators for PDF, bond valence sum, and other quantities based on atom pair interaction., 2019-03-13T22:13:38+0000
+/project/chembl-webresource-client/, chembl-webresource-client, 0.10.3, Python client fot accessing ChEMBL webservices., 2021-04-13T11:49:22+0000
+/project/clickreaction/, ClickReaction, 0.3.1, A collection of chemical reaction formulations for use with rdkit. Requires rdkit., 2020-11-25T09:42:39+0000
+/project/nphil/, nphil, 0.1.5, NPHIL, 2021-03-11T15:53:14+0000
+/project/mandos/, mandos, 0.1.0, Get the biological targets of compounds., 2020-09-26T02:23:07+0000
+/project/slater/, slater, 0.0.0, A module for manipulating Slater determinants., 2019-04-02T01:55:10+0000
+/project/opentimspy/, opentimspy, 1.0.5, opentimspy: An open-source parser of Bruker Tims Data File (.tdf)., 2021-03-10T20:49:59+0000
+/project/ovito/, ovito, 3.4.4, A scientific data visualization and analysis software for particle-based simulations, 2021-03-12T10:04:29+0000
+/project/reciprocalspaceship/, reciprocalspaceship, 0.9.6, Tools for exploring reciprocal space, 2021-03-29T14:20:55+0000
+/project/sciexpem-api/, SciExpeM-API, 2.0.2.4, Python wrapper for SciExpeM EndPoints, 2021-04-13T17:12:59+0000
+/project/cwl-airflow-parser/, cwl-airflow-parser, 1.0.20181213213631, Package extends Airflow functionality with CWL v1.0 support, 2018-12-13T21:46:28+0000
+/project/chemreps/, chemreps, 0.1.0, Molecular machine learning representations, 2019-06-28T15:05:02+0000
+/project/mcycle/, mcycle, 0.1.3, Power cycle sizing and analysis package, 2018-03-31T09:12:38+0000
+/project/rawquant/, RawQuant, 0.2.3, Package for extracting scan meta data and quantification information from Thermo .raw files, 2018-06-06T00:07:33+0000
+/project/mdciao/, mdciao, 0.0.1b1, mdciao: Analysis of Molecular Dynamics Simulations Using Residue Neighborhoods, 2021-04-23T12:31:53+0000
+/project/nanome-ligand-focus/, nanome-ligand-focus, 0.0.1, Nanome Plugin to easily focus on a ligand, 2019-05-30T20:47:03+0000
+/project/chemdataextractor/, ChemDataExtractor, 1.3.0, A toolkit for extracting chemical information from the scientific literature., 2017-02-03T00:12:04+0000
+/project/modnet/, modnet, 0.1.9, MODNet, the Material Optimal Descriptor Network for materials properties prediction., 2021-03-10T13:50:02+0000
+/project/pyopenms-nightly/, pyopenms-nightly, 2.6.0.dev20201012, Python wrapper for C++ LCMS library OpenMS, 2020-10-13T02:10:22+0000
+/project/dlpoly-py/, dlpoly-py, 0.2.0, dlpoly4 python module for file manipulation, 2021-02-28T12:11:24+0000
+/project/chembl-core-db/, chembl_core_db, 0.9.22, Core ChEMBL python library, 2017-11-06T18:30:37+0000
+/project/pytraj/, pytraj, 2.0.5, Python API for cpptraj: a data analysis package for biomolecular simulation, 2020-05-04T03:33:39+0000
+/project/pyteomics-cythonize/, pyteomics.cythonize, 0.2.2, An Cython-accelerated version of common pyteomics functions, 2018-11-15T13:32:23+0000
+/project/miniomm/, miniomm, 0.0.17, A simple OpenMM wrapper for common-case MD runs, 2021-03-22T09:36:21+0000
+/project/cix/, cix, 0.1, cheminformatics utilities, 2020-11-15T18:47:48+0000
+/project/mljr/, mljr, 0.51, Modified Lydersen-Joback-Reid method, 2021-01-22T00:11:26+0000
+/project/moltemplate/, moltemplate, 2.19.8, A general cross-platform text-based molecule builder for LAMMPS, 2021-04-09T03:04:44+0000
+/project/freud-analysis/, freud-analysis, 2.5.1, Powerful, efficient trajectory analysis in scientific Python., 2021-04-07T14:21:20+0000
+/project/teos10/, teos10, 0.0.1, Unofficial Python implementation of the TEOS-10 properties of water, 2020-05-07T10:30:10+0000
+/project/blitzcurve/, blitzcurve, 0.0.2, Time-resolved fluorescence anisotropy analysis., 2018-05-23T09:30:22+0000
+/project/deepqmc/, deepqmc, 0.3.0, Deep-learning quantum Monte Carlo for electrons in real space, 2021-01-27T15:58:12+0000
+/project/clusgeo/, clusgeo, 4.1.0, CLUSter GEOmetry tool for surface chemistry., 2019-01-09T16:19:29+0000
+/project/spec2nexus/, spec2nexus, 2021.1.8, Converts SPEC data files and scans into NeXus HDF5 files, 2020-11-10T21:18:24+0000
+/project/secat/, secat, 1.0.8, Size-Exclusion Chromatography Algorithmic Toolkit, 2020-07-31T14:37:28+0000
+/project/pybatchclassyfire/, pybatchclassyfire, 0.1.6, A python client for batch queries of the ClassyFire API, 2020-05-20T12:41:43+0000
+/project/sssom/, sssom, 0.14.14.dev0, Expansion of lookup tables for controlled terms, 2021-02-22T11:32:17+0000
+/project/thermochem/, thermochem, 0.8.0, Python utilities for thermodynamics and thermochemistry, 2020-04-30T01:56:33+0000
+/project/opan/, opan, 0.4rc1, Open Anharmonic -- A computational chemistry toolkit, 2016-06-30T02:00:11+0000
+/project/chemfiles/, chemfiles, 0.10.0, Read and write computational chemistry files, 2021-02-04T23:11:19+0000
+/project/bel-repository/, bel-repository, 0.1.2, A utility for loading data from repositories of BEL documents., 2020-05-01T14:46:43+0000
+/project/unithandler/, unithandler, 1.5.0, numeric mimic classes with units, 2020-07-09T00:16:52+0000
+/project/pyrga/, pyrga, 0.0.3, Serial interface driver for SRS RGA (residual gas analyzer) mass-spectrometer, 2020-03-26T23:41:55+0000
+/project/pyco2sys/, PyCO2SYS, 1.6.0, Python implementation of CO2SYS, 2020-10-26T11:07:07+0000
+/project/tltsne/, tltsne, 0.0.2, Time-lagged t-SNE of molecular trajectories, 2020-04-21T16:00:32+0000
+/project/scine-utilities/, scine-utilities, 3.0.0, Utilities used in all SCINE modules, 2020-11-27T06:53:38+0000
+/project/commongroups/, commongroups, 2017.4.4, Molecular structure-based classification of chemicals in known hazard groups, 2017-04-29T15:09:26+0000
+/project/proteinko/, proteinko, 5.0, Encode protein sequence as a distribution of its physicochemical properties, 2020-04-26T11:02:49+0000
+/project/ht/, ht, 1.0.1, Heat transfer component of Chemical Engineering Design Library (ChEDL), 2021-03-30T02:52:17+0000
+/project/soprano/, Soprano, 0.8.10, A Python library to crack crystals, 2021-01-18T12:28:14+0000
+/project/graphdot/, graphdot, 0.7.1, GPU-accelerated graph similarity algorithm library, 2021-03-25T18:15:25+0000
+/project/kgrid/, kgrid, 1.2.0, Reciprocal space sampling for atomistic crystal structures, 2021-04-01T21:15:05+0000
+/project/mdanalysis/, MDAnalysis, 1.0.1, An object-oriented toolkit to analyze molecular dynamics trajectories generated by CHARMM, Gromacs, NAMD, LAMMPS, or Amber., 2021-02-19T18:35:40+0000
+/project/scikit-time/, scikit-time, 0.0.0, Deep learning meets molecular dynamics., 2018-02-12T12:29:34+0000
+/project/pbxplore/, pbxplore, 1.4.0, PBxplore is a suite of tools dedicated to Protein Block analysis., 2021-01-27T08:03:44+0000
+/project/chembl-beaker/, chembl_beaker, 1.2.21, RDKit in the Bottle on Tornado, 2018-02-22T14:10:18+0000
+/project/pyemma/, pyEMMA, 2.5.9, PyEMMA: Emma's Markov Model Algorithms, 2021-02-26T14:24:50+0000
+/project/antivirals/, antivirals, 0.0.3, Finding antivirals for the novel coronavirus., 2020-07-10T17:20:33+0000
+/project/gaussianrunner/, gaussianrunner, 1.0.21, A script to run Gaussian automatically., 2019-11-19T00:22:15+0000
+/project/bel-enrichment/, bel-enrichment, 0.0.5, A package for generating curation sheets for rationally enriching a BEL graph using INDRA and PyBEL., 2020-05-16T12:21:20+0000
+/project/embeddingdb/, embeddingdb, 0.0.1, A package for storing and querying knowledge graph embeddings, 2019-06-26T20:57:53+0000
+/project/nmrsim/, nmrsim, 0.5.1, A library for simulating nuclear magnetic resonance (NMR) spectra., 2020-05-10T18:36:25+0000
+/project/pyformattransformer/, PyFormatTransformer, 0.5, Generic framework for translating between scientific data formats, 2016-04-08T02:06:15+0000
+/project/kconmd/, kconmd, 1.0.17, Molecular dynamics (MD) simulations supported by k-Bags Convolutional Neural Network (kcon)., 2019-02-05T19:01:27+0000
+/project/scikit-quant/, scikit-quant, 0.8.2, Integrator for Python-based quantum computing software, 2021-03-30T06:48:05+0000
+/project/prolif/, prolif, 0.2.0, Protein-Ligand Interaction Fingerprints, 2018-04-30T18:16:06+0000
+/project/pychemia/, pychemia, 0.20.6.1, Python Framework for Materials Discovery and Design, 2020-06-02T03:25:22+0000
+/project/scikit-spectra/, scikit-spectra, 0.3.2.2, Spectroscopy in Python built on Pandas., 2015-05-13T20:36:11+0000
+/project/kymatio/, kymatio, 0.2.0, Wavelet scattering transforms in Python with GPU acceleration, 2020-03-17T02:37:04+0000
+/project/py3dmol/, py3Dmol, 0.9.1, An IPython interface for embedding 3Dmol.js views, 2020-11-23T21:26:38+0000
+/project/django-measurement/, django-measurement, 3.2.3, Convenient fields and classes for handling measurements, 2020-04-22T10:38:39+0000
+/project/nanome-vault/, nanome-vault, 2.2.2, A Nanome plugin that creates a web interface to upload files and make them available in Nanome, 2020-11-11T00:46:40+0000
+/project/kumaresh-package/, kumaresh_package, 1.0.0, Kumaresh project, 2014-01-29T05:54:06+0000
+/project/czmatchmaker/, czMatchmaker, 0.11, Maximum likelihood estimates of electron transfer reaction parameters., 2017-02-01T16:39:04+0000
+/project/doped/, doped, 0.0.3, Collection of Python modules & functions to perform and process solid-state defect calculations, 2021-01-09T13:02:10+0000
+/project/mdtraj/, mdtraj, 1.9.5, MDTraj: A modern, open library for the analysis of molecular dynamics trajectories, 2021-01-04T21:01:16+0000
+/project/equilib/, equilib, 0.0.1, Equilibrium solver for aqueous solutions, 2019-01-29T07:53:18+0000
+/project/oximachinerunner/, oximachinerunner, 1.4.0, Run the oximachine, 2021-02-23T10:18:44+0000
+/project/indra/, indra, 1.19.0, Integrated Network and Dynamical Reasoning Assembler, 2020-12-29T20:13:07+0000
+/project/table-step/, table-step, 2021.2.12, A SEAMM plug-in for data tables in a flowchart., 2021-02-12T16:02:49+0000
+/project/pygamer/, pygamer, 2.0.5, PyGAMer: Geometry-preserving Adaptive Mesher, 2019-11-07T19:43:16+0000
+/project/hbp-knowledge/, hbp-knowledge, 0.0.7, Knowledge curated in BEL from full text during the Human Brain Pharmacome project, 2019-09-04T09:54:07+0000
+/project/pyepal/, pyepal, 0.6.1, PyePAL implemented the epsilon-PAL active learning algorithm, 2021-01-19T21:41:28+0000
+/project/syncfiles/, syncFiles, 0.0.1, Simple file synce., 2020-05-19T13:04:29+0000
+/project/pyobjcryst/, pyobjcryst, 2.1.0.post2, Python bindings to the ObjCryst++ library., 2019-03-11T19:45:27+0000
+/project/sygma/, SyGMa, 1.1.0, Systematic Generation of potential MetAbolites, 2017-02-07T22:58:11+0000
+/project/epic-mace/, epic-mace, 0.4.0, Python library and command-line tool for generation of 3D coordinates for complexes of d-/f-elements, 2021-01-31T23:50:37+0000
+/project/msspec/, msspec, 0.0.1, A simple module for basic mass-spectra operations., 2018-12-30T13:17:01+0000
+/project/nanome-url-loader/, nanome-url-loader, 0.1.0, An example Nanome Plugin to load files from a URL, 2019-11-21T00:09:56+0000
+/project/psearch/, psearch, 0.0.4, PSearch: ligand-based pharmacophore modeling and screening, 2020-02-25T13:54:08+0000
+/project/aiida-phonopy/, aiida-phonopy, 0.3, AiiDA plugin for running phonon calculations using phonopy, 2020-10-08T09:32:20+0000
+/project/go2pdb/, go2pdb, 1.0.1, This code identifies Protein Data Bank (PDB) entries with specific Gene Ontology (GO) annotations., 2021-03-27T20:55:14+0000
+/project/pyteomics-biolccc/, pyteomics.biolccc, 1.5.0, Bindings for the libBioLCCC, 2012-02-09T21:16:30+0000
+/project/sagar/, sagar, 0.2.1, Structures of Alloys Generation And Recognition, 2019-04-30T04:48:56+0000
+/project/pyprism/, pyPRISM, 1.0.4, A python tool for Polymer Reference Interaction Site Model (PRISM) calculations, 2020-07-01T19:45:40+0000
+/project/pylipid/, pylipid, 1.4.7, PyLipID - A Python Library For Lipid Interaction Analysis, 2021-04-13T08:59:02+0000
+/project/dask-traj/, dask-traj, 0.2.2, Parallel MDTraj, using Dask, 2020-09-03T14:39:25+0000
+/project/gbasis/, gbasis, 0.1.4, , 2017-11-09T07:02:58+0000
+/project/calkulate/, calkulate, 23.1.0, Seawater total alkalinity from titration data, 2021-03-29T11:05:38+0000
+/project/mpds-client/, mpds-client, 0.24, MPDS platform API client, 2020-09-14T18:29:16+0000
+/project/aiida-crystal17/, aiida-crystal17, 0.11.0, AiiDA plugin for running the CRYSTAL17 code, 2020-09-29T04:47:17+0000
+/project/materials/, materials, 0.1.5, Density, magnetic permeability etc. for a range of materials., 2017-12-07T09:52:54+0000
+/project/taurenmd/, taurenmd, 0.9.6, A command-line interface for analysis routines in Molecular Dynamics data., 2021-02-22T15:05:37+0000
+/project/cp2k-output-tools/, cp2k-output-tools, 0.3.1, Python tools to handle CP2K output files, 2020-09-08T11:12:26+0000
+/project/crystal-builder-step/, crystal-builder-step, 2021.2.10.1, A SEAMM plug-in for creating crystals from prototypes, including Strukturbericht designations., 2021-02-10T20:03:58+0000
+/project/nanome-rmsd/, nanome-rmsd, 1.0.1, Nanome Plugin for RMSD alignment, 2020-04-16T22:43:18+0000
+/project/pygaps/, pygaps, 3.1.0, A framework for processing adsorption data for porous materials., 2021-04-22T12:17:11+0000
+/project/sciluigi/, sciluigi, 0.9.7, Helper library for writing dynamic, flexible workflows in luigi, 2020-05-27T15:27:49+0000
+/project/bce/, bce, 4.7.9647, A chemical equation balancer., 2018-02-02T23:33:19+0000
+/project/morganfingerprint/, MorganFingerprint, 1.20, , 2020-12-09T09:45:16+0000
+/project/sqcommon/, SQCommon, 0.3.2, SQCommon - skopt common optimizer API, 2020-11-30T23:57:57+0000
+/project/crocpy3/, CROCpy3, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2019-04-19T11:18:50+0000
+/project/pyked/, pyked, 0.4.1, Package for manipulating Chemical Kinetics Experimental Data (ChemKED) files., 2018-03-09T18:21:07+0000
+/project/pytim/, pytim, 0.8.4, Python Tool for Interfacial Molecules Analysis, 2020-07-06T20:09:52+0000
+/project/imolecule/, imolecule, 0.1.14, View molecules in the IPython notebook., 2020-01-03T15:51:33+0000
+/project/gimbal/, gimbal, 0.1.1, Tools for importing, creating, editing and querying molecular geometries, 2019-09-04T19:07:13+0000
+/project/pandas3js/, pandas3js, 0.2.0, a pandas dataframe interface for traitlets and pythreejs, 2017-07-13T05:55:14+0000
+/project/pep2prot/, pep2prot, 0.0.1, Turn a peptide report into a protein report., 2019-07-04T12:40:20+0000
+/project/reductus/, reductus, 0.1b2, Data reduction for neutron scattering, 2019-01-28T16:57:23+0000
+/project/moldesign/, moldesign, 0.7.3, The Molecular Design Toolkit: Dead-simple chemical simulation, visualization, and cloud computing in a notebook, 2016-10-17T20:04:00+0000
+/project/phaseshifts/, phaseshifts, 0.1.5-dev, Python-based version of the Barbieri/Van Hove phase shift calculation package for LEED/XPD modelling, 2014-09-04T21:30:43+0000
+/project/openbabel/, openbabel, 3.1.1.1, Python interface to the Open Babel chemistry library, 2020-05-23T09:33:22+0000
+/project/opentims-bruker-bridge/, opentims-bruker-bridge, 1.0.1, Bruker dll and so files., 2020-12-02T14:10:47+0000
+/project/uparma/, uparma, 0.4.0, uparma, 2021-04-14T10:01:31+0000
+/project/matador-db/, matador-db, 0.9.10, MATerial and Atomic Databases Of Refined structures., 2021-02-23T16:28:08+0000
+/project/equilibrator-pathway/, equilibrator-pathway, 0.4.1, Pathway analysis tools by eQuilibrator, 2021-02-17T12:35:13+0000
+/project/catkit-utils/, CatKit-utils, 0.0.2, Utilities for CatKit., 2018-08-07T07:18:18+0000
+/project/osmolytes/, osmolytes, 1.3.0, This code attempts to predict the influence of osmolytes on protein stability, 2021-01-13T00:21:58+0000
+/project/orbkit/, orbkit, 1.1.0.dev2, A Toolbox for Post-Processing Quantum Chemical Wavefunction Data, 2020-03-05T16:56:24+0000
+/project/seamm-installer/, seamm-installer, 2021.3.17.1, The installer/updater for SEAMM (Simulation Environment for Atomistic and Molecular Simulations)., 2021-03-17T20:54:10+0000
+/project/thermohw/, thermohw, 0.7.1, Package for converting thermo homework assignments, 2021-01-12T16:29:32+0000
+/project/e3fp/, e3fp, 1.2.3, Molecular 3D fingerprinting, 2021-01-14T23:22:03+0000
+/project/aceto/, aceto, 0.0.5, Accelerated Charge and Energy Transfer Objects, 2017-09-21T09:43:47+0000
+/project/cgrtools/, CGRtools, 4.1.19, , 2021-04-10T08:36:37+0000
+/project/quantum-esperanto/, quantum-esperanto, 0.3, A fast parser of XML files output by VASP DFT code written in Cython., 2019-12-21T21:34:24+0000
+/project/thoipapy/, thoipapy, 1.2.0, Machine-learning prediction of residues driving homotypic transmembrane interactions., 2021-01-10T22:11:24+0000
+/project/chorus/, Chorus, 0.9.0, Simple chemical structure modeling toolkit, 2018-07-09T04:02:20+0000
+/project/enzyme-cost-minimization/, enzyme-cost-minimization, 0.1.5, Enzyme Cost Minimization - a package for calculating the minimal enzyme cost of a metabolic pathway, 2018-11-09T12:48:58+0000
+/project/mfoutparser/, mfoutparser, 1.4.1, mfoutparser: efficient and convenient parsing of ModelFree output files., 2015-12-15T16:36:19+0000
+/project/nanome/, nanome, 0.24.0, Python API for Nanome Plugins, 2021-04-22T23:37:40+0000
+/project/cp2k-input-tools/, cp2k-input-tools, 0.5.1, Python tools to handle CP2K input files, 2020-05-12T10:29:58+0000
+/project/set-cell-step/, set-cell-step, 2021.2.12, A SEAMM plug-in for setting the periodic (unit) cell., 2021-02-12T12:33:45+0000
+/project/pymzml/, pymzml, 2.4.7, high-throughput mzML parsing, 2020-06-15T11:50:19+0000
+/project/iorodeo-potentiostat/, iorodeo-potentiostat, 0.0.4, Serial interface to IO Rodeo Potentiostat, 2021-04-15T16:04:00+0000
+/project/soaplite/, soaplite, 1.0.3, fast lightweight smooth overlap atomic position (SOAP) calculator. see github.com/SINGROUP/SOAPLite for detailed documentations., 2019-04-03T14:17:25+0000
+/project/unimod-mapper/, unimod-mapper, 0.4.2, unimod_mapper, 2021-04-15T09:10:56+0000
+/project/pyobo/, pyobo, 0.4.0, Handling and writing OBO, 2021-04-19T17:10:34+0000
+/project/spinney/, Spinney, 0.9a2, Spinney: a Python package for assisting with first-principles simulations of point defects in solids., 2020-10-16T10:10:48+0000
+/project/thunor/, thunor, 0.1.24, Dose response curve and drug induced proliferation (DIP) rate fits and visualisation, 2020-02-17T01:45:20+0000
+/project/thermosteam/, thermosteam, 0.24.10, BioSTEAM's Premier Thermodynamic Engine, 2021-04-08T11:14:15+0000
+/project/custodian/, custodian, 2021.2.8, A simple JIT job management framework in Python., 2021-02-08T17:30:42+0000
+/project/emigrate/, emigrate, 0.16.2, A package for simulating electrophoresis., 2015-09-14T06:21:45+0000
+/project/holoaverage/, holoaverage, 1.1.7, Reconstruction and averaging of off-axis electron holograms as obtained by transmission electron microscopes., 2020-05-05T17:11:04+0000
+/project/febiss/, Febiss, 0.9.0, Tool to ease GIST analysis and display and select FEBISS waters, 2021-02-25T19:00:13+0000
+/project/vina/, vina, 1.2.0.dev3, Python interface to AutoDock Vina, 2021-02-15T02:23:17+0000
+/project/sqimfil/, SQImFil, 0.3.7, ImFil - Implicit Filtering, 2020-11-30T23:58:39+0000
+/project/pyqms/, pyqms, 0.6.2, pyQms - Python module for accurate quantification of mass spectrometry data, 2019-06-03T12:48:00+0000
+/project/chemistry-tools/, chemistry-tools, 0.4.1, Python tools for analysis of chemical compounds., 2020-11-25T10:36:51+0000
+/project/molreps/, molreps, 0.1.0, Molecular feature generation for machine learning, 2021-03-11T15:16:53+0000
+/project/iapws/, iapws, 1.5.2, Python implementation of standards from The InternationalAssociation for the Properties of Water and Steam, 2020-06-19T19:36:45+0000
+/project/stoichiograph/, Stoichiograph, 0.1.2, Spell words with elemental symbols from the periodic table ("He", "Cu", etc)., 2017-05-16T10:23:30+0000
+/project/pynnsmd/, pyNNsMD, 1.0.2, Neural Network for learning potential energy surface for molecular dynamics., 2021-03-21T12:18:50+0000
+/project/mdsrv/, MDsrv, 0.3.5.post1, Server for coordinate trajectories from molecular dynamics simulations., 2019-10-09T09:40:59+0000
+/project/py-perceptabat-cv/, py-perceptabat-cv, 1.2.2, Python wrapper and API for ACD/Percepta Batch with parallel processing support, 2020-10-19T13:49:40+0000
+/project/optimade-client/, optimade-client, 2021.3.29, Voilà/Jupyter client for searching through OPTIMADE databases., 2021-03-29T19:03:58+0000
+/project/pdb-tools/, pdb-tools, 2.3.1, A swiss army knife for PDB files., 2021-03-16T04:29:41+0000
+/project/reoptimize/, reoptimize, 0.1.0a2, A tool to optimize reaction conditions for restriction enzyme digests of DNA, 2017-09-01T07:59:20+0000
+/project/helixvis/, helixvis, 1.0.1, Create 2-dimensional visualizations of alpha-helical peptide sequences, 2020-04-27T21:45:07+0000
+/project/gromacswrapper/, GromacsWrapper, 0.8.0, A python wrapper around the Gromacs tools., 2019-04-30T08:21:31+0000
+/project/maml-apps-rfxas/, maml-apps-rfxas, 2021.3.2, maml-apps-rfxas is a maml add-on to perform RF analysis of X-ray Absorption Spectra., 2021-03-02T23:35:37+0000
+/project/oximachine-featurizer/, oximachine-featurizer, 0.3.1, Mine MOF oxidation states and featurize metal sites., 2020-12-20T08:20:37+0000
+/project/nanome-workspace-manager/, nanome-workspace-manager, 0.1.1, Nanome Plugin allowing standalone VR headset users to save and load workspaces in a central location, 2019-09-26T04:21:35+0000
+/project/nanome-loaders/, nanome-loaders, 1.0.3, Nanome Plugin deploying a few molecule loaders integrated with Nanome, 2019-11-18T22:31:23+0000
+/project/qsdsan/, qsdsan, 0.2.3, Quantitative Sustainable Design for sanitation and resource recovery systems, 2021-04-24T21:13:37+0000
+/project/gopem/, gopem, 0.6, GOPEM is a graphical user interface of OPEM, 2020-03-16T17:27:11+0000
+/project/lsld2/, lsld2, 0.0.4, TODO, 2021-03-12T17:22:02+0000
+/project/vodkas/, vodkas, 0.0.1, Syntactic sugar around Waters LC/IMS/MS pypeline., 2019-06-28T13:21:24+0000
+/project/tb2j/, TB2J, 0.6.0, TB2J: First principle to Heisenberg exchange J using tight-binding Green function method, 2021-04-04T08:43:14+0000
+/project/pyaaisc/, pyaaisc, 1.2, Python AAindex database scrape, 2020-04-16T11:04:19+0000
+/project/croc/, CROC, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2014-07-23T20:57:17+0000
+/project/seuif97/, seuif97, 1.1.1, IAPWS-IF97 high-speed shared library(Windows64/32,Linux64) in ANSI C,Python API, 2021-04-09T04:39:19+0000
+/project/pynetmet/, PyNetMet, 1.0, Tools for analyzing networks and metabolic models., 2012-11-25T14:50:29+0000
+/project/forgi/, forgi, 2.0.2, RNA Graph Library, 2019-02-26T10:48:22+0000
+/project/cwl-airflow-tester/, cwl-airflow-tester, 1.0.20190620213659, Tester for cwl-airflow-parser, 2019-06-20T21:40:57+0000
+/project/geomepy/, geomepy, 1.0.1, A program to manipulate molecular geometries, 2018-02-20T14:51:38+0000
+/project/myokit/, myokit, 1.32.0, A simple interface to cardiac cellular electrophysiology, 2021-01-19T23:14:31+0000
+/project/gemmi/, gemmi, 0.4.5, library for structural biology, 2021-03-09T08:51:15+0000
+/project/symmetry/, symmetry, 0.1, Symmetry is a library for materials symmetry analysis., 2014-04-11T03:29:57+0000
+/project/peptidebuilder/, PeptideBuilder, 1.1.0, Create peptide PDB files with specified geometry, 2020-04-05T21:22:40+0000
+/project/nanome-structure-prep/, nanome-structure-prep, 0.2.6, A Nanome plugin to clean up selected structures., 2020-06-23T18:04:55+0000
+/project/molgrid/, molgrid, 0.2.1, Grid-based molecular modeling library, 2020-08-25T15:46:55+0000
+/project/robocrys/, robocrys, 0.2.6, Automatic generation of crystal structure descriptions, 2020-10-26T21:53:16+0000
+/project/sgdml/, sgdml, 0.4.10, Reference implementation of the GDML and sGDML force field models., 2021-02-04T13:37:11+0000
+/project/wlcsim/, wlcsim, 0.1.11, , 2020-11-01T08:11:55+0000
+/project/tamkin/, tamkin, 1.2.6, TAMkin is a post-processing toolkit for thermochemistry and kinetics analysis., 2019-09-12T07:21:41+0000
+/project/cimtools/, CIMtools, 4.0.8, , 2020-09-15T10:09:20+0000
+/project/pygen-structures/, pygen-structures, 0.2.5, 3D molecular structure generation for MD simulation, 2020-04-29T11:43:17+0000
+/project/gtar/, gtar, 1.1.0, Read and write archive-based trajectory formats, 2020-11-06T14:16:27+0000
+/project/mdinteract/, mdinteract, 0.2, A Pandas interface to the analysis of biomolecular structures with MD trajectory support, 2019-09-19T12:34:27+0000
+/project/openpd/, openpd, 0.2.5, OpenPD, standing for Open Peptide Dynamics, is a python package for peptide dynamics simulation, 2021-02-17T11:57:16+0000
+/project/standardizer/, standardizer, 0.1.7, Provides a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises., 2019-05-29T02:54:35+0000
+/project/diffpy-structure/, diffpy.structure, 3.0.1, Crystal structure container and parsers for structure formats., 2019-06-27T21:52:51+0000
+/project/veidt/, veidt, 0.0.2, Veidt is a deep learning library for materials science., 2017-09-18T20:20:51+0000
+/project/chemdataextractor-ide/, ChemDataExtractor-IDE, 1.3.2, A toolkit for extracting chemical information from the scientific literature., 2019-11-28T14:09:56+0000
+/project/please/, PLEASE, 0.9.8, Software for the analysis of Low Energy Electron Microscopy data, 2016-12-05T17:29:14+0000
+/project/pyilt2/, pyilt2, 0.9.8, A library to access the ILThermo v2.0 database., 2018-05-22T20:54:42+0000
+/project/pynumpress/, pynumpress, 0.0.5, A more pythonic wrapper around the MSNumpress library for mass spectrometry numerical data compression, 2019-06-23T01:09:53+0000
+/project/fuzz/, fuzz, 0.1.1, Contains tools for modelling values with associated uncertainty., 2017-07-21T14:50:46+0000
+/project/pyteomics-pepxmltk/, pyteomics.pepxmltk, 0.3.1, A utility for creation of pepXML files from Python objects and TandemXML files., 2020-05-07T18:25:18+0000
+/project/easyleed/, EasyLEED, 2.5.2, Automated extraction of intensity-energy spectra from low-energy electron diffraction patterns, 2018-04-02T21:42:36+0000
+/project/cathub/, Cathub, 0.1.7, Python API for the Surface Reactions database on Catalysis-Hub.org, 2021-02-26T19:59:26+0000
+/project/pyfeat/, pyfeat, 0.3.2, The python free energy analysis toolkit, 2015-06-25T17:33:06+0000
+/project/iblackbox/, iblackbox, 0.0.1, Artificial Neural network potentials, 2017-07-18T04:24:17+0000
+/project/beatmap/, beatmap, 0.0.1, A tool for determining the valid P/P0 range in BET isotherms, 2020-10-31T14:04:47+0000
+/project/epam-indigo/, epam.indigo, 1.4.3, Indigo universal cheminformatics toolkit, 2020-12-29T03:19:37+0000
+/project/surfsci/, surfsci, 0.1.7, A suite of tools for handling surface science related data, 2019-06-04T19:30:29+0000
+/project/selventa-knowledge/, selventa-knowledge, 1.1.1, Selventa Large and Small Corpora via PyBEL, 2021-01-31T16:44:43+0000
+/project/pyberny/, pyberny, 0.6.3, Molecular/crystal structure optimizer, 2021-02-22T19:48:36+0000
+/project/chempy/, chempy, 0.8.1, ChemPy is a Python package useful for solving problems in chemistry., 2020-11-24T13:43:56+0000
+/project/easypqp/, easypqp, 0.1.11, EasyPQP: Simple library generation for OpenSWATH, 2021-03-16T06:53:27+0000
+/project/anncolvar/, anncolvar, 0.8, Coding collective variables by artificial neural networks, 2019-12-01T20:33:48+0000
+/project/koolstof/, koolstof, 0.0.15, Miscellaneous tools for marine carbonate chemistry and other such things, 2021-03-18T12:36:39+0000
+/project/hoggorm/, hoggorm, 0.13.3, Package for explorative multivariate statistics, 2019-07-11T07:16:44+0000
+/project/fabio/, fabio, 0.11.0, Image IO for fable, 2021-01-05T15:23:43+0000
+/project/dockerasmus/, dockerasmus, 0.1.1, An easy to use docking library., 2017-05-02T19:44:52+0000
+/project/naivebayes/, NaiveBayes, 1.0.0, A Naive Bayes classifier, 2012-07-02T11:26:41+0000
+/project/aiida-vasp/, aiida-vasp, 2.1.0, AiiDA Plugin for running VASP calculations., 2021-02-18T14:05:37+0000
+/project/boltztrap2/, BoltzTraP2, 20.7.1, band-structure interpolator and transport coefficient calculator, 2020-07-28T07:32:47+0000
+/project/ops-py/, ops.py, 0.1.0a2, Python Library for the Open PHACTS Platform API, 2014-07-30T15:15:09+0000
+/project/mdanalysisdata/, MDAnalysisData, 0.8.0, MDAnalysis example data, 2019-08-13T22:42:12+0000
+/project/aiida-gulp/, aiida-gulp, 0.10.0b5, AiiDA plugin for running the GULP MD code, 2019-10-30T18:14:38+0000
+/project/supercell-step/, supercell-step, 2021.2.12, A SEAMM plug-in for building supercells of periodic systems., 2021-02-12T15:38:11+0000
+/project/mumot/, mumot, 1.2.2, Multiscale Modelling Tool, 2020-06-08T12:54:33+0000
+/project/ejplugins/, ejplugins, 0.11.1, parser plugins for jsonextended, 2019-02-28T18:45:27+0000
+/project/vermouth/, vermouth, 0.7.0, , 2021-03-29T15:51:03+0000
+/project/mdanalysistests/, MDAnalysisTests, 1.0.1, MDAnalysis testsuite, 2021-02-28T14:18:46+0000
+/project/pycdt/, pycdt, 2.0.2, PyCDT is a python package to facilitate DFT calculations for point defects in solids, 2019-05-10T20:11:45+0000
+/project/pyboo/, pyboo, 1.0.0, A Python package to compute bond orientational order parameters, 2017-11-27T21:26:47+0000
+/project/esigen/, esigen, 0.0.4, Generate automated reports for computational chemistry calculations, 2018-04-08T16:39:21+0000
+/project/tilde/, tilde, 0.9.4, Materials informatics framework for ab initio data repositories, 2020-03-24T23:30:54+0000
+/project/pame/, PAME, 0.3.2, GUI for modeling nanoparticles on optical fiber with mixing/shell-filling models, 2015-05-13T19:59:39+0000
+/project/sqsnobfit/, SQSnobFit, 0.4.5, SnobFit - Stable Noisy Optimization by Branch and FIT, 2020-11-30T23:58:59+0000
+/project/pyromat/, PYroMat, 2.0.12, Thermodynamic properties in Python., 2019-01-04T22:30:48+0000
+/project/kinisi/, kinisi, 0.0.7, Uncertainty analysis and model comparison for atomistic molecular dynamics., 2021-04-02T10:54:45+0000
+/project/iorder/, iOrder, 0.0.3, A tool to characterize the local structure of liquid water by geometric order parameters, 2018-07-10T23:16:47+0000
+/project/nipals/, nipals, 0.5.2, A module for calculation of PCA with the NIPALS algorithm, 2020-03-04T13:48:22+0000
+/project/filter-los-csd/, filter-los-csd, 1.5.0, CML tool filtering line-of-sights contacts, 2020-12-19T00:02:48+0000
+/project/biowardrobe-airflow-plugins/, biowardrobe-airflow-plugins, 1.1.3, Add plugin workflows to BioWardrobe, 2019-01-23T20:30:17+0000
+/project/espei/, espei, 0.8.1, Fitting thermodynamic models with pycalphad., 2021-04-22T07:08:01+0000
+/project/pycalphad/, pycalphad, 0.8.4, CALPHAD tools for designing thermodynamic models, calculating phase diagrams and investigating phase equilibria., 2020-10-28T21:53:00+0000
+/project/parsevasp/, parsevasp, 2.0.1, A general parser for VASP, 2021-01-23T07:28:28+0000
+/project/clinamen/, Clinamen, 0.2.0a3, Clinamen: a Python package for the first-principles systematic discovery of low-energy configurations in defective systems., 2021-02-11T11:37:34+0000
+/project/cluskit/, cluskit, 4.2.0, (Nano)CLUSter KIT for surface chemistry., 2019-08-02T13:10:55+0000
+/project/vtk/, vtk, 9.0.1, VTK is an open-source toolkit for 3D computer graphics, image processing, and visualization, 2020-06-24T17:36:11+0000
+/project/qm-scripts/, qm-scripts, 0.1.2, A set of scripts useful for analyzing outputs and setup inputs in quantum chemistry, 2018-05-16T14:42:50+0000
+/project/pyflowsheet/, pyflowsheet, 0.2.2, A Python library for creating process flow diagrams (PFD) for process engineering using SVG drawings., 2021-01-31T08:46:44+0000
+/project/chembl-clippy/, chembl_clippy, 0.1.6, A cross-platform chemical structure rendering desktop app., 2014-02-08T14:08:08+0000
+/project/correlationplus/, correlationplus, 0.1.9, A Python package to calculate, visualize and analyze dynamical correlations of proteins., 2021-04-01T14:44:20+0000
+/project/sxdm/, sxdm, 0.7.3, Tools for analyzing Scanning X-ray Diffraction Microscopy data, 2020-03-27T02:11:33+0000
+/project/sumo/, sumo, 2.2.3, Heavy weight plotting tools for ab initio solid-state calculations, 2021-04-15T16:45:11+0000
+/project/asedftk/, asedftk, 0.2.6, DFTK-based calculator for ASE, 2021-04-07T11:00:08+0000
+/project/pythoms/, pythoms, 2.2.6, A Python library to aid in the processing and interpretation of mass spectrometric data., 2021-03-23T23:11:44+0000
+/project/biorefineries/, biorefineries, 2.20.2, Biorefinery models in BioSTEAM, 2021-04-11T13:20:51+0000
+/project/pytram/, pytram, 0.3.0, The TRAM package, 2016-05-25T09:52:18+0000
+/project/cc-catalog/, CC-CataLog, 0.1.330, Tools for computational catalyst research, 2018-08-21T14:23:11+0000
+/project/sirms/, sirms, 1.2.1, SiRMS: simplex representation of molecular structure, 2021-02-08T10:07:21+0000
+/project/vunits/, VUnits, 0.0.4, Virtual Kinetic Laboratory Units (VUnits), 2020-06-30T20:16:06+0000
+/project/kupp/, kupp, 0.0.2, A package for preprocessing a knowledge graph, 2019-05-07T09:24:56+0000
+/project/itcc/, itcc, 0.9.2, my collection of scripts on computational chemistry, 2008-05-17T16:08:51+0000
+/project/jsonextended/, jsonextended, 0.7.11, Extending the python json package functionality, 2019-06-18T03:07:04+0000
+/project/panedr/, panedr, 0.5.2, Read and manipulate Gromacs energy files, 2019-01-13T09:34:43+0000
+/project/mmcif-pdbx/, mmcif-pdbx, 2.0.1, Python utilities for PDBx/mmCIF storage model, 2021-04-24T21:30:12+0000
+/project/pybel-tools/, pybel-tools, 0.9.1, A cool pool of tools for BEL, 2021-01-31T23:36:55+0000
+/project/pysces/, pysces, 0.9.8.post1, The Python Simulator for Cellular Systems - simulation and analysis tools for modelling biological systems, 2020-05-14T21:05:10+0000
+/project/surface-crns/, surface-crns, 1.1, Simulation of chemical reaction networks (CRNs) on a surface, 2020-05-01T05:55:17+0000
+/project/mcerp3/, mcerp3, 1.0.3, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2018-08-30T22:06:03+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/neurommsig-knowledge/, neurommsig-knowledge, 0.0.1, Knowledge curated for NeuroMMSig during the AETIONOMY project, 2019-01-08T13:57:26+0000
+/project/lmfit-varpro/, lmfit-varpro, 0.0.5, A variable projection implementation for Python/lmfit., 2018-08-09T15:11:43+0000
+/project/django-caddstat/, django-caddstat, 0.1, Bringing statistics to your CADD projects, 2013-09-17T00:00:55+0000
+/project/mudslide/, mudslide, 0.9.0, Package to simulate nonadiabatic molecular dynamics using trajectory methods, 2020-09-27T02:33:07+0000
+/project/chembl-webservices/, chembl_webservices, 2.7.3, Python package providing chembl web services API., 2018-01-19T16:08:32+0000
+/project/structurefingerprint/, StructureFingerprint, 1.25, , 2021-03-25T11:52:30+0000
+/project/standardiser/, standardiser, 0.1.9, Provides a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises., 2017-08-22T13:05:53+0000
+/project/nanome-realtime-scoring/, nanome-realtime-scoring, 0.2.5, Nanome Plugin displaying docking score of complexes in the workspace, in realtime, 2020-04-16T22:39:38+0000
+/project/aimdfragmentation/, aimdfragmentation, 1.0.29, AIMD Fragmentation Calculation, 2019-04-07T13:41:48+0000
+/project/pybel-jupyter/, pybel-jupyter, 0.3.0, A PyBEL extension for Jupyter notebooks, 2020-04-16T10:13:56+0000
+/project/chembl-business-model/, chembl_business_model, 0.8.1, Python package providing chembl webservices API., 2017-01-11T13:47:49+0000
+/project/cc-adsorber/, CC-Adsorber, 0.1.2, Tools for computational catalyst research, 2018-08-12T14:21:10+0000
+/project/fplore/, fplore, 0.3.1a1, FPLO run evaluation, 2019-02-12T14:59:00+0000
+/project/cary-reader/, cary-reader, 0.3, Reads and processes Agilent Cary Eclipse Spectrophotometer csv files, 2019-10-16T12:22:53+0000
+/project/thermosolver/, thermosolver, 0.0.1, Under development, 2016-12-17T14:28:21+0000
+/project/midia/, MIDIA, 0.0.2, Description., 2019-11-21T15:11:20+0000
+/project/modifiednb/, ModifiedNB, 0.2, Laplace corrected modified naïve bayes model, 2019-01-22T11:23:36+0000
+/project/gc3pie/, gc3pie, 2.6.6, A Python library and simple command-line frontend for computational job submission to multiple resources., 2020-08-16T09:36:33+0000
+/project/pyframe/, PyFraME, 0.3.0, PyFraME: Python framework for Fragment-based Multiscale Embedding, 2020-05-11T21:10:07+0000
+/project/furious-fastas/, furious-fastas, 0.1.5, Module to update the fastas., 2019-07-30T16:22:35+0000
+/project/fullrmc/, fullrmc, 4.1.0, FUndamental Library Language for Reverse Monte Carlo or fullrmc is a molecular/atomic stochastic fitting platform to reverse modeling experimental data., 2020-01-29T16:13:04+0000
+/project/freenrgworkflows/, freenrgworkflows, 1.1.0, python package for analysis relative free energy calculations with Sire, 2019-09-16T17:51:14+0000
+/project/cowboe/, cowboe, 1.0.5, Construction Of Windows Based On Energy, 2021-04-22T19:03:27+0000
+/project/mep/, mep, 0.0.1, Minimal energy path tools for atomistic systems, 2019-08-09T20:14:43+0000
+/project/mrsimulator/, mrsimulator, 0.5.1, A python toolbox for simulating fast real-time solid-state NMR spectra., 2020-12-10T21:44:58+0000
+/project/ocelot-materials/, ocelot-materials, 0.0.6, (Under development). Ocelot is a framework for materials simulations., 2019-10-30T01:20:26+0000
+/project/biowardrobe-cwl-workflows/, biowardrobe-cwl-workflows, 1.0.20181213214400, Wrapped BioWardrobe's CWL files, 2018-12-13T21:44:31+0000
+/project/eclometer/, eclometer, 0.0.3, ECLometer serial interface, CLI and GUI app., 2021-03-19T14:26:04+0000
+/project/pymca5/, PyMca5, 5.6.5, Mapping and X-Ray Fluorescence Analysis, 2021-04-09T12:12:50+0000
+/project/aiida-crystal/, aiida-crystal, 0.1.0, AiiDA plugin for CRYSTAL17, 2019-10-15T15:46:02+0000
+/project/cassandra-step/, cassandra-step, 0.2.1, Cassandra is a Monte Carlo molecular simulation package., 2019-07-19T13:53:57+0000
+/project/maicos/, maicos, 0.3, Analyse molecular dynamics simulations of interfacial and confined systems., 2021-03-03T22:34:54+0000
+/project/msmtools/, msmtools, 1.2.6, MSMTools, 2021-02-11T00:21:03+0000
+/project/xylib-py-wheels/, xylib-py-wheels, 1.6.0, Built wheels for xylib-py by Marcin Wojdyr, 2020-08-04T21:04:25+0000
+/project/fatslim/, fatslim, 0.2.2, Python/MD Toolbox, 2020-01-30T17:07:22+0000
+/project/rta/, rta, 0.0.1, Retention Time Alignment for LC-IM-MS., 2018-04-16T09:51:10+0000
+/project/ommprotocol/, ommprotocol, 0.1.11, Easy to deploy MD protocols for OpenMM, 2018-09-07T15:27:17+0000
+/project/pydiffusion/, pydiffusion, 0.2.3, A Python library for diffusion simulation and data analysis, 2019-09-25T02:14:29+0000
+/project/chemfp-converters/, chemfp-converters, 0.9.1, Convert cheminformatics fingerprint files to/from the chemfp formats, 2018-03-07T21:33:16+0000
+/project/scikit-beam/, scikit-beam, 0.0.24, Data analysis tools for X-ray science, 2021-02-06T19:03:06+0000
+/project/gylm/, gylm, 0.0.1, Implementation of Gnl-Ylm-type 3d convolutional descriptors, 2021-03-01T11:15:30+0000
+/project/msai/, msAI, 1.3.1.dev0, Tools to create AI models for mass spectrometry data, 2019-11-07T03:42:24+0000
+/project/gmxbatch/, gmxbatch, 0.0.2.dev0, Python tools for writing GROMACS batch scripts, 2020-03-26T14:45:03+0000
+/project/aa2atom/, aa2atom, 1.25, Change amino-acidic sequence into counts of atoms., 2019-07-11T14:24:49+0000
+/project/uravu/, uravu, 1.2.4, Bayesian methods for analytical relationships, 2021-03-24T07:49:59+0000
+/project/biosteam/, biosteam, 2.27.7, The Biorefinery Simulation and Techno-Economic Analysis Modules, 2021-04-15T05:25:54+0000
+/project/aps-bluesky-tools/, APS-BlueSky-tools, 2019.103.0, Various Python tools for use with BlueSky at the APS, 2019-01-03T23:30:55+0000
+/project/pygtop/, pygtop, 2.1.4, A Python wrapper for the Guide to PHARMACOLOGY API. It provides  a Python interface for access to the GtoP database., 2019-01-31T16:55:03+0000
+/project/loop-step/, loop-step, 2021.2.11, A SEAMM plug-in which provides loops in flowcharts., 2021-02-11T17:11:01+0000
+/project/bio2bel-adeptus/, bio2bel-adeptus, 0.0.1, Bio2BEL ADEPTUS., 2018-11-20T09:33:05+0000
+/project/pnictogen/, pnictogen, 0.4.3, A Python library and a command-line tool that creates input files for computational chemistry packages., 2019-08-28T21:00:28+0000
+/project/bw2qsd/, bw2qsd, 0.0.10, Bridging Brightway2 and QSD packages for LCA, 2021-04-20T17:31:01+0000
+/project/kgcnn/, kgcnn, 0.1.1, General Base Layers for Graph Convolutions with tensorflow.keras, 2021-04-10T10:16:54+0000
+/project/nisp/, NISP, 1.3.4, The Nanocluster Interpolation Scheme Program (NISP) is designed to perform an interpolation scheme that gives idea of the types of perfect, closed-shell and open-shell clusters for a cluster at selected sizes., 2021-04-22T08:08:51+0000
+/project/pyteck/, PyTeCK, 0.2.4, Evaluation of chemical kinetic models with experimental data, 2018-05-31T21:01:03+0000
+/project/adcc/, adcc, 0.15.7, adcc:  Seamlessly connect your host program to ADC, 2021-01-17T12:44:50+0000
+/project/qforce/, qforce, 0.4.2, Q-Force: Quantum mechanically augmented molecular force fields, 2021-02-17T15:53:19+0000
+/project/pdbeccdutils/, pdbeccdutils, 0.5.10, Toolkit to deal with wwPDB chemical components definitions for small molecules., 2021-04-15T15:32:21+0000
+/project/scikit-xray/, scikit-xray, 0.0.5.post0, Data analysis tools for X-ray science, 2016-03-04T10:31:07+0000
+/project/aiida-cusp/, aiida-cusp, 0.1.0b2, Custodian based VASP Plugin for AiiDA, 2020-08-06T15:42:39+0000
+/project/iodata/, iodata, 0.1.3, , 2017-11-11T03:24:18+0000
+/project/cirpy/, CIRpy, 1.0.2, Python wrapper for the NCI Chemical Identifier Resolver (CIR)., 2016-01-04T23:46:38+0000
+/project/beamspy/, beamspy, 1.1.0, Putative annotation of metabolites for mass spectrometry-based metabolomics datasets., 2021-02-19T16:48:18+0000
+/project/fluids/, fluids, 1.0.5, Fluid dynamics component of Chemical Engineering Design Library (ChEDL), 2021-04-22T02:13:17+0000
+/project/pymassspec/, PyMassSpec, 2.3.0, Python Toolkit for Mass Spectrometry, 2020-11-13T20:37:33+0000
+/project/pybaselines/, pybaselines, 0.2.0, A collection of algorithms for fitting the baseline of experimental data., 2021-04-02T22:15:24+0000
+/project/molstruct/, molstruct, 3.0.0, Convert chemical molecule data CSV files to structured data formats, 2021-04-21T20:52:57+0000
+/project/nanome-chemical-properties/, nanome-chemical-properties, 0.3.5, A Nanome plugin to display chemical properties for a complex using rdkit, 2020-03-06T00:06:42+0000
+/project/loprop/, LoProp, 0.3.4, LoProp: localized molecular properties, 2021-02-15T19:41:40+0000
+/project/mollib/, mollib, 1.0.9, , 2017-09-28T16:31:03+0000
+/project/nanostructureucph/, NanostructureUCPH, 0.1.1, Pakage for analyzing nanostructures, 2019-03-04T12:51:17+0000
+/project/pmutt/, pmutt, 1.2.21, Python Multiscale Thermochemistry Toolbox (pmutt), 2020-07-03T18:11:43+0000
+/project/dhtioc/, dhtioc, 1.1.1, Provide humidity and temperature using EPICS and Raspberry Pi., 2020-08-20T14:44:54+0000
+/project/modlamp/, modlamp, 4.3.0, python package for in silico peptide design and QSAR studies, 2021-02-25T17:58:49+0000
+/project/esbmtk/, esbmtk, 0.4.3.0, An Earth Sciences Box Modeling Toolkit, 2021-04-25T14:39:28+0000
+/project/seamm-jobserver/, seamm-jobserver, 2020.12.7, seamm_jobserver, 2020-12-07T12:41:40+0000
+/project/molmod/, molmod, 1.4.8, MolMod is a collection of molecular modelling tools for python., 2020-06-16T11:37:59+0000
+/project/pyms-nist-search/, pyms-nist-search, 0.4.14, PyMassSpec extension for searching mass spectra using NIST's Mass Spectrum Search Engine, 2020-04-29T06:48:36+0000
+/project/aseqe/, aseqe, 0.3.4, Python API for the Quantum Espresso software, 2021-02-27T16:01:01+0000
+/project/xtp-job-control/, xtp-job-control, 0.1.1, Workflow engine to use the VOTCA-XTP library, 2019-03-07T15:52:06+0000
+/project/chemicals/, chemicals, 1.0.5, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-25T17:42:59+0000
+/project/srbogrid/, srbogrid, 0.1.1, Package for calculating space-reduced bond-order grids for diatomics, 2017-02-21T13:23:00+0000
+/project/rocketsled/, rocketsled, 1.0.1.20200523, Black box optimization with Fireworks workflows, on rails, 2020-05-24T03:02:01+0000
+/project/pyms-agilent/, pyms-agilent, 0.1.2, PyMassSpec interface to Agilent .d datafiles, 2021-03-31T09:11:44+0000
+/project/aiida-optimade/, aiida-optimade, 0.17.0, Expose an AiiDA database according to the [OPTIMADE API specification](https://www.optimade.org)., 2021-03-05T17:21:50+0000
+/project/farseernmr/, farseernmr, 2.0.0.dev0, A software suite for automatic treatment, analysis and plotting of large and multivariable datasets of bioNMR peaklists., 2020-01-31T05:37:43+0000
+/project/raasaft/, raaSAFT, 0.6.4, Coarse-grained simulations with the SAFT-gamma Mie force field, 2016-01-21T13:42:06+0000
+/project/propka/, propka, 3.4.0, Heuristic pKa calculations with ligands, 2020-12-19T22:48:14+0000
+/project/ader/, ader, 1.2.1, The ADER method for solving any (potentially very stiff) hyperbolic system of PDEs, 2019-09-01T20:56:11+0000
+/project/biomine/, BioMine, 0.9.5, Bioinformatics data-mining, 2018-05-03T03:16:39+0000
+/project/qmflows/, qmflows, 0.2.1, Automation of computations in quantum chemistry, 2017-11-16T15:20:20+0000
+/project/ionize/, ionize, 1.2.0, A package for calculating electrolyte properties., 2019-06-12T00:01:51+0000
+/project/cinfony-dist/, cinfony-dist, 1.2, cinfony: a common API to several cheminformatics toolkits, 2020-07-12T01:32:24+0000
+/project/metabolabpy/, metabolabpy, 0.6.26, Python package for data processing of NMR 1D and 2D metabolomics and metabolism tracing data, 2021-04-03T20:31:14+0000
+/project/spci/, spci, 1.1.1, SPCI: structural and physicochemical interpretation of QSAR models, 2021-03-23T10:34:22+0000
+/project/chemical-composition/, chemical-composition, 0.1.2, chemical_composition, 2021-03-22T12:15:09+0000
+/project/pycgtool/, pycgtool, 2.0.0a6, Generate coarse-grained molecular dynamics models from atomistic trajectories., 2020-11-22T18:47:15+0000
+/project/pegamoid/, Pegamoid, 2.6.1, Orbital viewer for OpenMolcas, 2020-10-21T07:31:29+0000
+/project/ocelot-quantum/, ocelot-quantum, 0.0.7, (Under development). Ocelot is a framework for quantum simulations., 2020-03-03T19:26:50+0000
+/project/nams/, NAMS, 0.9.2, NAMS is a module to calculate similarity between molecules based on the structural/topological relationships of each atom towards all the others within a molecule., 2013-11-14T03:46:19+0000
+/project/nanome-molecular-dynamics/, nanome-molecular-dynamics, 0.1.0, Nanome Plugin to run molecular dynamics simulation on a complex, 2020-01-16T20:03:58+0000
+/project/dftbplus-step/, dftbplus-step, 2021.2.10, A SEAMM plug-in for DFTB+, a fast quantum mechanical simulation code., 2021-02-10T19:01:33+0000
+/project/tims/, tims, 0.0.1, Description., 2020-01-24T10:08:13+0000
+/project/msproteomicstools/, msproteomicstools, 0.11.0, Tools for MS-based proteomics, 2019-07-16T21:16:06+0000
+/project/masstodon/, masstodon, 0.16, Investigate mass spectra for chemical substances, especially ETD products., 2019-02-07T08:20:54+0000
+/project/uparma-py/, uparma-py, 0.1.0, uparma, 2021-03-22T11:46:50+0000
+/project/pyglotaran/, pyglotaran, 0.3.3, The Glotaran fitting engine., 2021-03-18T20:47:32+0000
+/project/cc-dbgen/, CC-dbgen, 0.2.0, Tools for computational catalyst research, 2018-07-18T04:44:20+0000
+/project/cbmpy/, cbmpy, 0.8.0, CBMPy (http://cbmpy.sourceforge.net) is a platform for constraint based modelling and analysis. CBMPy implements popular analyses such as FBA, FVA, element/charge balancing, network analysis and model editing as well as advanced methods developed specifically for the ecosystem modelling., 2020-11-25T23:39:51+0000
+/project/component-contribution/, component-contribution, 0.4.2, Standard reaction Gibbs energy estimation for biochemical reactions., 2021-03-22T17:54:36+0000
+/project/sasmodels/, sasmodels, 1.0.5, sasmodels package, 2021-04-25T05:06:04+0000
+/project/bio2bel-hsdn/, bio2bel-hsdn, 0.0.1, Converts the human symptoms-disease network produced by Zhou and Himmelstein to BEL, 2018-11-20T10:18:49+0000
+/project/pyuvvis/, PyUvVis, 0.1.1-2, Pandas-based toolkit for spectral data analysis, primarily UVVis spectra for now., 2012-12-08T21:45:56+0000
+/project/nupxrd/, nupxrd, 0.3.1, Extract raw data from a .dat file generated on the XRD                   equipment, 2018-01-16T23:24:09+0000
+/project/msp2db/, msp2db, 0.0.9, Python package for converting msp to database, 2019-11-04T16:55:51+0000
+/project/aston/, Aston, 0.7.1, Mass/UV Spectral Analysis Program, 2020-10-29T04:23:40+0000
+/project/pubchempy/, PubChemPy, 1.0.4, A simple Python wrapper around the PubChem PUG REST API., 2017-04-11T18:36:14+0000
+/project/seq-to-first-iso/, seq-to-first-iso, 1.1.0, Compute first two isotopologues intensity from peptide sequence., 2019-12-19T10:50:21+0000
+/project/schrodinet/, schrodinet, 0.1.1, Solving the Schrodinger equation using RBF Neural Net, 2020-03-31T15:40:45+0000
+/project/bel-commons/, bel-commons, 0.3.1, A web application exposing core PyBEL functionalities, 2020-04-28T00:25:07+0000
+/project/pdb-prep/, pdb-prep, 0.1.0.0, pdb utils, 2020-02-25T19:43:23+0000
+/project/calibrate/, calibrate, 0.10.0, Interpolate using a calibration curve, 2017-04-16T09:52:13+0000
+/project/pymatgen-db/, pymatgen-db, 2019.3.28, Pymatgen-db is a database add-on for the Python Materials Genomics (pymatgen) materials analysis library., 2019-03-28T23:58:55+0000
+/project/scheil/, scheil, 0.1.4, Scheil-Gulliver simulations using pycalphad., 2020-11-14T21:52:39+0000
+/project/pychembldb/, pychembldb, 0.4.1, ChEMBLdb interface for Python, 2020-01-15T22:31:19+0000
+/project/pytetgen/, pytetgen, 0.2.2, wrapper for the tetgen mesh generator, 2021-01-25T11:16:34+0000
+/project/rtc/, rtc, 0.0.1, Retention Time Clustering for LC-IM-MS., 2018-12-17T22:33:52+0000
+/project/pychimera/, pychimera, 0.2.7, Use UCSF Chimera Python API in a standard Python 2.7 interpreter., 2019-02-13T10:15:17+0000
+/project/chemspipy/, ChemSpiPy, 2.0.0, A simple Python wrapper around the ChemSpider Web Services., 2018-09-09T21:06:30+0000
+/project/unitcalc/, unitcalc, 2.0.1, A Python Library for doing Scientific/Engineering mathematics, 2021-04-24T21:59:14+0000
+/project/gaml/, GAML, 1.2, Genetic Algorithm Machine Learning, 2021-04-23T20:12:59+0000
+/project/mcetl/, mcetl, 0.4.2, A small-scale Extract-Transform-Load framework focused on materials characterization., 2021-02-02T23:48:33+0000
+/project/maml/, maml, 2021.3.2, maml is a machine learning library for materials science., 2021-03-03T00:38:11+0000
+/project/aiida-gaussian-datatypes/, aiida-gaussian-datatypes, 0.4.0, AiiDA data plugin to manage gaussian datatypes (basis sets and pseudopotentials) as first-class citizens, 2021-04-16T13:40:16+0000
+/project/aarontools/, AaronTools, 1.0b10, Tools for measuring and manipulating molecular structures, 2021-04-20T21:23:34+0000
+/project/sumndx/, sumndx, 0.0.1.dev19, Quick summary of a Gromacs index file, 2018-07-31T06:49:49+0000
+/project/xanespy/, xanespy, 0.3.3, Tools for analyzing X-ray absorbance spectroscopy data, 2019-07-19T16:16:38+0000
+/project/vga/, VGA, 1.3.6, Python package implements the Group Additivity (GA) method for estimating thermodynamic properties, 2019-05-15T19:36:03+0000
+/project/tidyms/, tidyms, 0.1.1, Tools for working with MS data in metabolomics, 2020-11-16T15:32:02+0000
+/project/pybiolccc/, pyBioLCCC, 1.3.0, Bindings for the libBioLCCC, 2011-02-18T13:08:22+0000
+/project/abiflows/, abiflows, 0.6, Framework for high-throughput calculations with ABINIT, 2020-05-29T09:38:15+0000
+/project/pysmiles/, pysmiles, 1.0.1, A lightweight SMILES reader and writer, 2020-06-25T14:27:04+0000
+/project/meisterinsitu/, MeisterInSitu, 2.0.0, A Python library to aid in the processing and interpretation of Hyper spectrometric data., 2019-05-25T10:21:00+0000
+/project/rotamerconvolvemd/, RotamerConvolveMD, 1.3.2, Analysis of spin label distances over structural ensembles, 2020-07-12T05:42:57+0000
+/project/scikit-chem/, scikit-chem, 0.0.6, A set of python modules for cheminformatics, 2016-08-08T01:00:33+0000
+/project/seekpath/, seekpath, 2.0.1, A module to obtain and visualize k-vector coefficients and obtain band paths in the Brillouin zone of crystal structures, 2020-05-17T11:09:16+0000
+/project/pyprophet/, pyprophet, 2.1.10, PyProphet: Semi-supervised learning and scoring of OpenSWATH results., 2021-02-22T13:10:06+0000
+/project/lightdock/, lightdock, 0.8.2, A macromolecular docking framework, 2021-01-18T16:34:26+0000
+/project/tb2j-openmx/, TB2J-OpenMX, 0.3.3, TB2J_OpenMX: TB2J interface to OpenMX, 2020-11-15T10:44:37+0000
+/project/speview/, speview, 0.6.2, Program to display binary SPE files containing Raman spectra, 2014-10-14T13:21:28+0000
+/project/pdlsr/, pdLSR, 0.3.6, pdLSR: Pandas-aware least squares regression., 2016-07-24T22:07:50+0000
+/project/molecupy/, molecupy, 1.1.0, A Python molecular modeller with PDB parsing., 2017-01-29T22:45:28+0000
+/project/dimspy/, dimspy, 2.0.0, Python package for processing of direct-infusion mass spectrometry-based metabolomics and lipidomics data, 2020-04-27T00:08:22+0000
+/project/simpletraj/, simpletraj, 0.5, Lightweight coordinate-only trajectory reader based on code from GROMACS, MDAnalysis, VMD., 2016-10-05T04:48:55+0000
+/project/jax-unirep/, jax-unirep, 2.0.1, A performant and user-friendly reimplementation of UniRep in JAX., 2021-01-03T15:40:25+0000
+/project/scikit-nano/, scikit-nano, 0.3.21, Python toolkit for generating and analyzing nanostructure data, 2015-11-04T13:54:13+0000
+/project/pythia-learn/, pythia-learn, 0.3.0, Machine learning fingerprints for particle environments, 2020-02-26T16:17:38+0000
+/project/equilibrator-cache/, equilibrator-cache, 0.4.2, Cache application for compounds, reactions, and enzymes, 2021-03-16T09:50:16+0000
+/project/stimator/, stimator, 0.9.135, Analysis of ODE models with focus on model selection and parameter estimation., 2020-12-24T14:37:02+0000
+/project/molsystem/, molsystem, 2021.2.2, molsystem, 2021-02-02T10:46:36+0000
+/project/pyvalence/, pyvalence, 0.0.1.3, Package for processing analytical chemistry data., 2021-01-03T21:20:56+0000
+/project/surpriser/, Surpriser, 1.2.5, Surpriser object and some functions., 2020-12-25T12:56:00+0000
+/project/pymbd/, pymbd, 0.12.1, Many-body dispersion library, 2021-03-01T15:19:44+0000
+/project/pykeen/, pykeen, 1.4.0, A package for training and evaluating multimodal knowledge graph embeddings, 2021-03-04T16:04:59+0000
+/project/foyer/, foyer, 0.7.6, Foyer: Atomtyping and forcefield applying. , 2020-06-18T21:07:16+0000
+/project/pharmd/, pharmd, 0.1.1, PharMD: MD pharmacophores and virtual screening, 2019-12-16T08:42:30+0000
+/project/scaffoldgraph/, ScaffoldGraph, 1.1.1, ScaffoldGraph is an open-source cheminformatics library, built using RDKit and NetworkX for generating scaffold networks and scaffold trees., 2021-02-15T12:13:27+0000
+/project/bumps/, bumps, 0.8.0, Data fitting with bayesian uncertainty analysis, 2020-12-16T20:43:00+0000
+/project/octadist/, octadist, 3.0.0, OctaDist: A tool for calculating distortion parameters in molecule., 2021-03-08T22:52:18+0000
+/project/mbuild/, mbuild, 0.10.9, mBuild: A hierarchical, component based molecule builder, 2020-09-16T20:38:43+0000
+/project/fisx/, fisx, 1.2.0, Quantitative X-Ray Fluorescence Analysis Support Library, 2020-11-08T17:24:42+0000
+/project/hoggormplot/, hoggormplot, 0.13.2, Plotting functions for visualisation of data analysis results from the hoggorm package, 2019-07-06T07:47:01+0000
+/project/pyopenms/, pyopenms, 2.6.0, Python wrapper for C++ LCMS library OpenMS, 2020-11-04T15:56:44+0000
+/project/abipy/, abipy, 0.9.0, Python package to automate ABINIT calculations and analyze the results., 2021-03-13T10:37:20+0000
+/project/reacnetgenerator/, reacnetgenerator, 1.4.164, Reaction Network Generator, 2021-04-02T03:31:37+0000
+/project/crystals/, crystals, 1.3.0, Data structures for crystallography, 2021-02-06T16:50:26+0000
+/project/pychemy/, pychemy, 0.5.0, Helpers for handling chemical formulas in Python, 2019-02-14T17:52:44+0000
+/project/quantarhei/, quantarhei, 0.0.64, Quantarhei: Open Quantum System Theory for Molecular Systems, 2021-01-25T20:40:36+0000
+/project/pymem3dg/, pymem3dg, 0.0.3a3, PyMem3DG: Membrane Dynamics in 3D using Discrete Differential Geometry, 2020-10-12T20:15:46+0000
+/project/sode/, sode, 0.0.3, Python/Cython lib for solving Stochastic Ordinary Differential Equations, 2012-07-06T21:45:14+0000
+/project/look4bas/, look4bas, 0.3.1, Search for Gaussian basis sets, 2019-03-21T14:16:01+0000
+/project/refl1d/, refl1d, 0.8.14, 1-D reflectometry modeling, 2021-02-09T23:40:54+0000
+/project/igor2txt/, igor2txt, 0.1, Extract ASCII waves from Igor *.pxp, *.pxt & *.ibw files, 2014-08-03T11:38:49+0000
+/project/pgradd/, pgradd, 2.1, Python package implements the Group Additivity (GA) method for estimating thermodynamic properties, 2020-08-27T14:36:38+0000
+/project/vispywrapper/, vispywrapper, 0.0.1, Description., 2021-03-31T06:31:58+0000
+/project/instamatic/, instamatic, 1.6.1, Python program for automated electron diffraction data collection, 2021-04-01T07:52:53+0000
+/project/nanome-minimization/, nanome-minimization, 0.3.0, Nanome Plugin to run minimization on selected structures, 2020-05-11T21:54:07+0000
+/project/minedatabase/, minedatabase, 1.0.0, Metabolic In silico Network Expansions, 2020-05-06T16:34:20+0000
+/project/catkit/, CatKit, 0.5.4, General purpose tools for high-throughput catalysis., 2018-11-30T19:47:15+0000
+/project/adg/, adg, 3.0.0, A powerful diagram generator and evaluator for many-body formalisms in physics and chemistry, 2021-02-15T17:00:06+0000
+/project/bio2bel/, bio2bel, 0.4.1, A framework for converting biological data sources to BEL, 2021-02-16T13:32:16+0000
+/project/keter/, keter, 0.0.1, Bioinformatics platform, 2020-09-15T01:25:53+0000
+/project/pyveu/, pyveu, 0.1.0, Package to work with experimental data with uncertainties and units, 2020-09-09T13:29:35+0000
+/project/pymcr/, pyMCR, 0.3.2, Multivariate Curve Resolution in Python, 2019-06-25T15:33:48+0000
+/project/biowardrobe-airflow-analysis/, biowardrobe-airflow-analysis, 1.0.20181214162558, Replaces BioWardrobe's backend with CWL Airflow, 2018-12-14T16:26:11+0000
+/project/nglview/, nglview, 3.0.1, IPython widget to interactively view molecular structures and trajectories., 2021-04-10T20:45:03+0000
+/project/bio-jade/, bio-jade, 1.0, A repository for modules and applications to aid in the design and analysis of Biological molecules, especially when working with Rosetta or PyRosetta., 2018-02-15T23:40:14+0000
+/project/dfttk/, dfttk, 0.3.1, Density functional theory workflows for finite temperature thermodynamics based on atomate workflows. Created by the Phases Research Lab, 2021-02-03T16:51:34+0000
+/project/pdb2pqr/, pdb2pqr, 3.1.0, Automates many of the common tasks of preparing structures for continuum solvation calculations as well as many other types of biomolecular structure modeling, analysis, and simulation., 2020-12-22T14:28:19+0000
+/project/mcerp/, mcerp, 0.12, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2019-01-09T09:32:35+0000
+/project/metadisassembler/, metadisassembler, 0.1.0, The Metabolic Disassembler, 2019-12-30T06:15:58+0000
+/project/icn3dpy/, icn3dpy, 2.24.0, An IPython interface for embedding iCn3D viewer, 2021-01-27T19:30:08+0000
+/project/pytojcamp/, pytojcamp, 0.1.0, , 2021-04-07T08:42:51+0000
+/project/pydyno/, pydyno, 0.1.2, Dynamic analysis of systems biology models, 2021-04-20T20:25:02+0000
+/project/gmx-pes/, gmx-pes, 0.0.1a1, A package to compare Potential Energy Surfaces in Gromacs, 2018-07-25T20:38:00+0000
+/project/compyrtment/, Compyrtment, 0.5.6, A simple Python library for compartment models, 2020-05-16T14:38:45+0000
+/project/mogli/, mogli, 0.3.0, Simple visualization of molecules in python, 2017-03-10T08:06:51+0000
+/project/chembl-assay-network/, chembl_assay_network, 0.8.1, Python package generating compound co-occurance matrix for all assays from given document, 2017-01-11T10:29:48+0000
+/project/chemiscope/, chemiscope, 0.3.0b1, Helpers to generate JSON input files for the default chemiscope visualizer at https://chemiscope.org, 2020-11-20T17:36:08+0000
+/project/pyadaqsar/, pyADAqsar, 1.0.2, A cheminformatics package to perform Applicability Domain of molecular fingerprints based in similarity calculation., 2021-03-10T14:37:47+0000
+/project/old-pdb/, old-pdb, 1.1.0, This code reads and writes the old Protein Data Bank format., 2021-03-01T04:32:39+0000
+/project/phreeqpy/, phreeqpy, 0.4.0, Python tools for PHREEQC., 2021-01-23T21:31:52+0000
+/project/chembl-compatibility/, chembl_compatibility, 2.1.3, Compatibility layer for running webservices from outside ChEMBL, 2017-01-11T13:50:06+0000
+/project/svante/, svante, 0.1.0, Configurable Arrhenius plots with uncertainties and ratios, 2021-04-23T21:25:40+0000
+/project/ocelot-molecular/, ocelot-molecular, 0.0.1, (Under development). An extension for ocelot quantum software for classical molecular dynamics benchmarks., 2019-10-02T18:01:51+0000
+/project/galore/, galore, 0.6.1, Broadening and weighting for simulated spectra, 2018-11-19T18:00:49+0000
+/project/raspa2/, RASPA2, 2.0.3, A general purpose classical simulation package., 2016-03-02T23:17:09+0000
+/project/pygamess/, pygamess, 0.5.0, GAMESS wrapper for Python, 2020-09-13T05:53:32+0000
+/project/pibronic/, pibronic, 0.3, Quantum Mechanical Computational Package, 2018-11-07T23:23:21+0000
+/project/curp/, curp, 1.2.1, Inter-residue Current calculation in Proteins from MD             trajectory, 2019-06-26T07:24:09+0000
+/project/glotaran/, glotaran, 0.1.0, The Glotaran fitting engine., 2020-06-14T13:30:41+0000
+/project/insilicolynxdqi/, insilicolynxdqi, 1.0.0, Medicinal Chemistry tool for calculating drug suitability parameters of compounds., 2017-11-17T12:12:58+0000
+/project/chemosanitizer/, chemosanitizer, 0.0.2, A python script to parallelize basic MolVS functions, 2020-10-06T09:36:19+0000
+/project/aimsgb/, aimsgb, 0.1.0, aimsgb is a python library for generatng the atomic coordinates of periodic grain boundaries.Copyright © 2018 The Regents of the University of California.All Rights Reserved. See more in Copyright., 2020-12-04T10:43:32+0000
+/project/galvani/, galvani, 0.2.0, Open and process battery charger log data files, 2020-10-31T07:10:59+0000
+/project/fchic/, fchic, 0.1.0, fchic is a minimal parser for Gaussian 16 formatted checkpoint files., 2021-04-15T22:32:34+0000
+/project/simetuc/, simetuc, 1.8.2, simetuc: Simulating Energy Transfer and Upconversion, 2018-07-26T16:38:40+0000
+/project/chembl-extras/, chembl_extras, 0.9.7, Python package providing extra collection of django custom management commands for use with ChEMBL and some classes for use in future, 2017-05-10T12:42:40+0000
+/project/pycrystal/, pycrystal, 1.0.10, Utilities for ab initio modeling suite CRYSTAL, 2020-09-14T18:32:00+0000
+/project/carbonpy/, carbonpy, 0.52, A Python package which gives IUPAC names of chemical compounds, classifies them and more., 2020-06-12T23:41:36+0000
+/project/lara-django/, lara-django, 0.2.6, LARA-django is a python django project of the Lab Automation Suite LARA - (lara.uni-greifswald.de/larasuite), 2020-04-10T12:22:09+0000
+/project/pbcpy/, pbcpy, 0.2.7, A toolbox to make it easier to deal with materials under periodc boundary conditions., 2018-02-22T01:12:20+0000
+/project/metabolinks/, metabolinks, 0.61, A set of tools for high-resolution MS metabolomics data analysis, 2021-01-19T19:22:52+0000
+/project/xylib-py/, xylib-py, 1.6.1, Python bindings to xylib, 2020-11-10T19:28:01+0000
+/project/mummichog/, mummichog, 2.4.4, Pathway and network analysis for metabolomics data, 2020-10-18T15:37:01+0000
+/project/activate-aiida/, activate-aiida, 0.3.0, a package to activate an aiida environment, from a yaml config file, 2020-04-09T23:24:10+0000
+/project/chemica/, chemica, 1.1.0, A simple library that takes chemistry to the next level., 2021-03-12T08:08:50+0000
+/project/datapipeline/, DataPipeline, 1.2, Importing and fitting tool for scientific text data., 2012-10-23T13:53:03+0000
+/project/insane/, insane, 1.0rc1, A versatile tool for building membranes and/or solvent with proteins., 2017-04-06T15:18:43+0000
+/project/pdom/, pdom, 1.0.0, Simulation toolkit for the Photocatalytic Degradation of Organic Molecules, 2020-07-21T10:27:27+0000
+/project/pyvalence/, pyvalence, 0.0.1.3, Package for processing analytical chemistry data., 2021-01-03T21:20:56+0000
+/project/surpriser/, Surpriser, 1.2.5, Surpriser object and some functions., 2020-12-25T12:56:00+0000
+/project/pymbd/, pymbd, 0.12.1, Many-body dispersion library, 2021-03-01T15:19:44+0000
+/project/umbrellaintegrate/, UmbrellaIntegrate, 0.41, The umbrella integration algorithm., 2018-04-04T20:12:37+0000
+/project/daltools/, daltools, 1.1.6, Daltools: utilities for extracting data from Dalton quantum chemistry calculations, 2021-04-21T13:12:31+0000
+/project/mlatom/, MLatom, 1.2.3, A Package for Atomistic Simulations with Machine Learning, 2021-03-01T02:36:52+0000
+/project/pniggli/, pniggli, 0.1.3, Structures of Alloys Generation And Recognition, 2019-04-25T10:57:57+0000
+/project/mddatasetbuilder/, mddatasetbuilder, 1.3.1, A script to make molecular dynamics (MD) datasets for neural networks from given LAMMPS trajectories automatically., 2021-03-29T05:40:28+0000
+/project/polyply/, polyply, 1.0.0, , 2020-12-07T15:54:44+0000
+/project/blender-chemicals/, blender-chemicals, 0.3.0, Imports chemicals into blender with open babel., 2020-04-03T20:46:44+0000
+/project/nanome-docking/, nanome-docking, 0.2.1, Nanome Plugin to dock ligands to a receptor, 2020-02-14T20:08:17+0000
+/project/epsproc/, ePSproc, 1.2.6, Post-processing suite for ePolyScat calculations (Matlab & Python)., 2020-09-14T13:33:58+0000
+/project/plumed/, plumed, 2.7.1, Python interface to PLUMED, 2021-04-16T06:59:43+0000
+/project/pychemkin/, pychemkin, 1.1.8, Chemical Kinetics Library, 2017-12-06T22:46:20+0000
+/project/exposan/, exposan, 0.0.10, Exposition of sanitation and resource recovery systems, 2021-04-24T20:53:47+0000
+/project/pymzml-tapir/, pymzml-tapir, 0.8.0, high-throughput mzML parsing, 2018-06-21T19:24:19+0000
+/project/mechanica/, mechanica, 0.0.30.dev4, Interactive physics simulation engine, 2021-04-20T06:25:08+0000
+/project/eccpy/, eccpy, 0.5.0, High-throughput calculation of EC50 values., 2020-10-01T21:07:40+0000
+/project/fs-ops/, fs-ops, 0.0.4, Description., 2020-02-14T12:01:24+0000
+/project/dynasor/, dynasor, 0.1.2, A tool for calculating dynamical structure factors, 2018-06-18T21:42:23+0000
+/project/pyvap/, pyvap, 0.1.1, Kinetic model of particle evaporation, 2017-08-25T20:13:55+0000
+/project/diffpy-pdfgui/, diffpy.pdfgui, 1.1.2, GUI for PDF simulation and structure refinement., 2017-02-09T20:23:40+0000
+/project/opendiscovery/, OpenDiscovery, 2.5, Computational Drug Discovery Software, 2016-03-24T01:50:32+0000
+/project/uamc-spectrophore/, uamc-spectrophore, 1.2.0, Python implementation of the spectrophore descriptor, 2020-12-19T07:02:48+0000
+/project/amc/, amc, 0.9.5, Automatic angular-momentum reduction, 2020-05-05T23:26:12+0000
+/project/buildh/, buildh, 1.2.0, Build hydrogens from a united-atom MD of lipids and calculate the order parameter., 2021-04-16T06:50:45+0000
+/project/md-utils/, md_utils, 0.10.0, Utility scripts for MD data, 2016-09-07T20:31:29+0000
+/project/freesasa/, freesasa, 2.1.0, Calculate solvent accessible surface areas of proteins, 2020-09-13T10:38:41+0000
+/project/longbow/, Longbow, 1.5.2, Biomolecular simulation remote job submission tool., 2018-09-28T15:15:49+0000
+/project/scoria/, scoria, 1.0.5, A lightweight molecule manipulation codebase., 2020-03-26T03:52:56+0000
+/project/punx/, punx, 0.2.5, Python Utilities for NeXus, 2020-06-29T23:46:05+0000
+/project/pynta-flow/, pynta-flow, 1.1.1, An automated workflow for reaction path exploration on metallic surfaces, 2021-04-23T12:20:02+0000
+/project/openpathsampling/, openpathsampling, 1.4.2, A Python package for path sampling simulations, 2021-01-30T12:58:05+0000
+/project/pytnt/, pytnt, 0.1.0, Read NMR data files in the TecMag .tnt file format, 2020-11-07T06:48:45+0000
+/project/mechwolf/, mechwolf, 0.1.1, Continuous flow process description, analysis, and automation, 2019-09-23T19:36:16+0000
+/project/chemfp/, chemfp, 1.6.1, Reference baseline for high-performance cheminformatics fingerprint search benchmarking, 2020-08-21T14:38:49+0000
+/project/control-parameters-step/, control-parameters-step, 2021.2.10, A SEAMM plug-in for defining command-line parameters for a flowchart., 2021-02-10T00:58:25+0000
+/project/biomappings/, biomappings, 0.0.4, Curated and predicted mappings between biomedical identifiers in different namespaces, 2021-01-06T19:27:11+0000
+/project/sella/, Sella, 2.0.2, , 2020-12-11T22:46:14+0000
+/project/pyqudt/, pyqudt, 1.1.0, Python library for working with the QUDT (Quantity, Unit, Dimension and Type) ontology., 2020-04-10T03:56:55+0000
+/project/scfpy/, SCFpy, 0.2, A Simple restricted Hartree-Fock code, 2018-06-13T15:10:24+0000
+/project/candiy-lemon/, candiy-lemon, 0.3.0, Mine data from the PDB in minutes, 2020-06-02T16:30:30+0000
+/project/pytoxr/, pytoxr, 0.0.7, Tools for the analysis of data from ToxR experiments., 2018-07-31T23:25:03+0000
+/project/pyvap/, pyvap, 0.1.1, Kinetic model of particle evaporation, 2017-08-25T20:13:55+0000
+/project/diffpy-pdfgui/, diffpy.pdfgui, 1.1.2, GUI for PDF simulation and structure refinement., 2017-02-09T20:23:40+0000
+/project/opendiscovery/, OpenDiscovery, 2.5, Computational Drug Discovery Software, 2016-03-24T01:50:32+0000
+/project/pymatgen-analysis-diffusion/, pymatgen-analysis-diffusion, 2021.3.6, Add-on to pymatgen for diffusion analysis., 2021-03-06T16:14:08+0000
+/project/biobuilder/, biobuilder, 0.1.0, BioBuilder is used to create biology model in both all-atom and coarse-grained resolution, 2021-04-18T14:45:20+0000
+/project/thermo/, thermo, 0.2.3, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-15T03:18:28+0000
+/project/sumndx/, sumndx, 0.0.1.dev19, Quick summary of a Gromacs index file, 2018-07-31T06:49:49+0000
+/project/xanespy/, xanespy, 0.3.3, Tools for analyzing X-ray absorbance spectroscopy data, 2019-07-19T16:16:38+0000
+/project/vga/, VGA, 1.3.6, Python package implements the Group Additivity (GA) method for estimating thermodynamic properties, 2019-05-15T19:36:03+0000
+/project/tidyms/, tidyms, 0.1.1, Tools for working with MS data in metabolomics, 2020-11-16T15:32:02+0000
+/project/pybiolccc/, pyBioLCCC, 1.3.0, Bindings for the libBioLCCC, 2011-02-18T13:08:22+0000
+/project/charger/, CharGer, 0.5.2, Characterization of Germline variants, 2018-01-11T21:14:09+0000
+/project/abiflows/, abiflows, 0.6, Framework for high-throughput calculations with ABINIT, 2020-05-29T09:38:15+0000
+/project/pysmiles/, pysmiles, 1.0.1, A lightweight SMILES reader and writer, 2020-06-25T14:27:04+0000
+/project/meisterinsitu/, MeisterInSitu, 2.0.0, A Python library to aid in the processing and interpretation of Hyper spectrometric data., 2019-05-25T10:21:00+0000
+/project/rotamerconvolvemd/, RotamerConvolveMD, 1.3.2, Analysis of spin label distances over structural ensembles, 2020-07-12T05:42:57+0000
+/project/scikit-chem/, scikit-chem, 0.0.6, A set of python modules for cheminformatics, 2016-08-08T01:00:33+0000
+/project/seekpath/, seekpath, 2.0.1, A module to obtain and visualize k-vector coefficients and obtain band paths in the Brillouin zone of crystal structures, 2020-05-17T11:09:16+0000
+/project/pyprophet/, pyprophet, 2.1.10, PyProphet: Semi-supervised learning and scoring of OpenSWATH results., 2021-02-22T13:10:06+0000
+/project/lightdock/, lightdock, 0.8.2, A macromolecular docking framework, 2021-01-18T16:34:26+0000
+/project/tb2j-openmx/, TB2J-OpenMX, 0.3.3, TB2J_OpenMX: TB2J interface to OpenMX, 2020-11-15T10:44:37+0000
+/project/speview/, speview, 0.6.2, Program to display binary SPE files containing Raman spectra, 2014-10-14T13:21:28+0000
+/project/pdlsr/, pdLSR, 0.3.6, pdLSR: Pandas-aware least squares regression., 2016-07-24T22:07:50+0000
+/project/molecupy/, molecupy, 1.1.0, A Python molecular modeller with PDB parsing., 2017-01-29T22:45:28+0000
+/project/dimspy/, dimspy, 2.0.0, Python package for processing of direct-infusion mass spectrometry-based metabolomics and lipidomics data, 2020-04-27T00:08:22+0000
+/project/simpletraj/, simpletraj, 0.5, Lightweight coordinate-only trajectory reader based on code from GROMACS, MDAnalysis, VMD., 2016-10-05T04:48:55+0000
+/project/jax-unirep/, jax-unirep, 2.0.1, A performant and user-friendly reimplementation of UniRep in JAX., 2021-01-03T15:40:25+0000
+/project/scikit-nano/, scikit-nano, 0.3.21, Python toolkit for generating and analyzing nanostructure data, 2015-11-04T13:54:13+0000
+/project/pythia-learn/, pythia-learn, 0.3.0, Machine learning fingerprints for particle environments, 2020-02-26T16:17:38+0000
+/project/equilibrator-cache/, equilibrator-cache, 0.4.2, Cache application for compounds, reactions, and enzymes, 2021-03-16T09:50:16+0000
+/project/stimator/, stimator, 0.9.135, Analysis of ODE models with focus on model selection and parameter estimation., 2020-12-24T14:37:02+0000
+/project/molsystem/, molsystem, 2021.2.2, molsystem, 2021-02-02T10:46:36+0000
+/project/aspecd/, aspecd, 0.1.0, Framework for handling spectroscopic data., 2021-04-24T19:39:14+0000
+/project/tbwk-opener/, tbwk-opener, 0.1.0, An tool to open tbwk files generated by NanoDrop 2000, 2020-06-23T11:09:11+0000
+/project/spike-py/, spike-py, 0.99.21, The SPIKE program. A collaborative development for a FT-spectroscopy processing program, 2021-02-23T14:45:38+0000
+/project/d3r/, d3r, 1.12.0, Drug Design Data Resource CELPP Runner is an application to run the filtering, docking, and evaluation of new sequences from wwpdb, 2019-08-16T20:33:06+0000
+/project/thermotools/, thermotools, 0.2.7, lowlevel implementation toolbox for the analyis of multi-ensemble calculations, 2018-09-05T09:57:09+0000
+/project/kiwiii-server/, Kiwiii-server, 0.7.0, HTTP API server library for chemical database administration and computation, 2017-08-30T02:05:27+0000
+/project/stocal/, stocal, 1.2, simple rule-based stochastic simulation, 2018-08-10T11:08:28+0000
+/project/mzml2isa/, mzml2isa, 1.0.3, mzML file parser and converter to ISA-Tab, 2020-04-01T20:17:59+0000
+/project/iris-ued/, iris-ued, 5.3.0, Ultrafast electron diffraction data exploration, 2021-02-14T19:18:58+0000
+/project/soltrannet/, soltrannet, 1.0.0, Molecule attention transformer for predicting aqueous solubility (log S), 2021-03-17T16:47:10+0000
+/project/plams/, plams, 1.4, Python Library for Automating Molecular Simulations, 2019-03-28T14:22:03+0000
+/project/ms-peak-picker/, ms-peak-picker, 0.1.33, A library to pick peaks from mass spectral data, 2021-01-29T14:51:00+0000
+/project/atomic-hpc/, atomic-hpc, 0.4.0, A package for running multiple executable scripts on both local and remote hosts, configured using a YAML file, 2019-02-28T00:45:36+0000
+/project/surfgraph/, surfgraph, 0.3.1, A package for generating chemical environment graphs of surfaces, 2021-02-17T20:30:54+0000
+/project/diffpy-pdffit2/, diffpy.pdffit2, 1.2.0, PDFfit2 - real space structure refinement program., 2019-08-08T22:20:45+0000
+/project/povme/, povme, 3.0.35, POVME (Pocket VOlume MEasurer) is a Python package for extracting actionable information from ensembles of protein structures for use in drug design., 2017-09-06T04:32:18+0000
+/project/pybader/, pybader, 0.3.12, Threaded implementation of grid-based Bader charge analysis., 2020-08-10T17:21:52+0000
+/project/nanome-matryx/, nanome-matryx, 0.0.1, Nanome Plugin to interface with the Matryx Platform, 2019-07-26T22:57:43+0000
+/project/pydpc/, pydpc, 0.1.3, Python package for Density Peak-based Clustering, 2016-02-11T10:18:25+0000
+/project/diffpy-srmise/, diffpy.srmise, 0.5.2, Peak extraction and peak fitting tool for atomic pair distribution functions., 2015-07-01T15:33:17+0000
+/project/coho/, coho, 0.4, SMILES parser, 2019-01-19T03:34:02+0000
+/project/mmpdb/, mmpdb, 2.1, A package to identify matched molecular pairs and use them to predict property changes, 2018-05-09T18:21:13+0000
+/project/zeoliteclusterizer/, zeoliteclusterizer, 0.1.1, A python module built for rapid computational screening of catalysts on rigid structures, 2017-06-06T22:36:37+0000
+/project/pyeem/, pyeem, 0.2.0, Python library for the preprocessing, correction, deconvolution and analysis of Excitation Emission Matrices (EEMs)., 2020-10-31T19:24:40+0000
+/project/molpainter/, MolPainter, 1.1.2, Tool for drawing complex planar molecular systems of arbitrary composition and molecule placement, 2020-11-19T02:11:10+0000
+/project/pysimrel/, pysimrel, 0.6.0, Simulating data from linear model data, 2019-08-18T17:11:42+0000
+/project/chembl-migrate/, chembl_migrate, 0.8.4, Django custom management tool intended to perform data exports and migration of CheMBL database., 2017-01-11T10:09:42+0000
+/project/rawprasslib/, rawprasslib, 0.0.13, Thermo/Finnigan .raw file format reader, 2021-04-16T14:47:48+0000
+/project/gmx-pes/, gmx-pes, 0.0.1a1, A package to compare Potential Energy Surfaces in Gromacs, 2018-07-25T20:38:00+0000
+/project/insilicolynxdqi/, insilicolynxdqi, 1.0.0, Medicinal Chemistry tool for calculating drug suitability parameters of compounds., 2017-11-17T12:12:58+0000
+/project/simetuc/, simetuc, 1.8.2, simetuc: Simulating Energy Transfer and Upconversion, 2018-07-26T16:38:40+0000
+/project/chembl-extras/, chembl_extras, 0.9.7, Python package providing extra collection of django custom management commands for use with ChEMBL and some classes for use in future, 2017-05-10T12:42:40+0000
+/project/pycrystal/, pycrystal, 1.0.10, Utilities for ab initio modeling suite CRYSTAL, 2020-09-14T18:32:00+0000
+/project/cc-dbgen/, CC-dbgen, 0.2.0, Tools for computational catalyst research, 2018-07-18T04:44:20+0000
+/project/cbmpy/, cbmpy, 0.8.0, CBMPy (http://cbmpy.sourceforge.net) is a platform for constraint based modelling and analysis. CBMPy implements popular analyses such as FBA, FVA, element/charge balancing, network analysis and model editing as well as advanced methods developed specifically for the ecosystem modelling., 2020-11-25T23:39:51+0000
+/project/pyuvvis/, PyUvVis, 0.1.1-2, Pandas-based toolkit for spectral data analysis, primarily UVVis spectra for now., 2012-12-08T21:45:56+0000
+/project/nupxrd/, nupxrd, 0.3.1, Extract raw data from a .dat file generated on the XRD                   equipment, 2018-01-16T23:24:09+0000
+/project/msp2db/, msp2db, 0.0.9, Python package for converting msp to database, 2019-11-04T16:55:51+0000
+/project/aston/, Aston, 0.7.1, Mass/UV Spectral Analysis Program, 2020-10-29T04:23:40+0000
+/project/pubchempy/, PubChemPy, 1.0.4, A simple Python wrapper around the PubChem PUG REST API., 2017-04-11T18:36:14+0000
+/project/seq-to-first-iso/, seq-to-first-iso, 1.1.0, Compute first two isotopologues intensity from peptide sequence., 2019-12-19T10:50:21+0000
+/project/bel-commons/, bel-commons, 0.3.1, A web application exposing core PyBEL functionalities, 2020-04-28T00:25:07+0000
+/project/pdb-prep/, pdb-prep, 0.1.0.0, pdb utils, 2020-02-25T19:43:23+0000
+/project/calibrate/, calibrate, 0.10.0, Interpolate using a calibration curve, 2017-04-16T09:52:13+0000
+/project/pymatgen-db/, pymatgen-db, 2019.3.28, Pymatgen-db is a database add-on for the Python Materials Genomics (pymatgen) materials analysis library., 2019-03-28T23:58:55+0000
+/project/pumml/, pumml, 0.0.2, Positive and Unlabeled Materials Machine Learning (pumml) is a code that uses semi-supervised positive and unlabeled (PU) machine learning to classify materials when data is incomplete and only examples of 'positive' materials are available., 2020-11-16T18:30:10+0000
+/project/ursgal/, ursgal, 0.6.8, ursgal, 2020-12-22T21:42:16+0000
+/project/phprobe/, phprobe, 1.0.0, Measure pH easily, 2017-10-02T06:59:03+0000
+/project/pychimera/, pychimera, 0.2.7, Use UCSF Chimera Python API in a standard Python 2.7 interpreter., 2019-02-13T10:15:17+0000
+/project/chemspipy/, ChemSpiPy, 2.0.0, A simple Python wrapper around the ChemSpider Web Services., 2018-09-09T21:06:30+0000
+/project/unitcalc/, unitcalc, 2.0.1, A Python Library for doing Scientific/Engineering mathematics, 2021-04-24T21:59:14+0000
+/project/gaml/, GAML, 1.2, Genetic Algorithm Machine Learning, 2021-04-23T20:12:59+0000
+/project/mcetl/, mcetl, 0.4.2, A small-scale Extract-Transform-Load framework focused on materials characterization., 2021-02-02T23:48:33+0000
+/project/maml/, maml, 2021.3.2, maml is a machine learning library for materials science., 2021-03-03T00:38:11+0000
+/project/aiida-gaussian-datatypes/, aiida-gaussian-datatypes, 0.4.0, AiiDA data plugin to manage gaussian datatypes (basis sets and pseudopotentials) as first-class citizens, 2021-04-16T13:40:16+0000
+/project/aarontools/, AaronTools, 1.0b10, Tools for measuring and manipulating molecular structures, 2021-04-20T21:23:34+0000
+/project/cppe/, cppe, 0.3.1, C++ and Python library for Polarizable Embedding, 2020-10-29T21:38:17+0000
+/project/reaktoro/, reaktoro, 1.2.2, The Python interface of the Reaktoro library., 2021-02-24T22:22:10+0000
+/project/edxia/, edxia, 0.1.8, SEM-BSE-EDS image analysis, 2020-12-16T09:03:24+0000
+/project/msaris/, msaris, 0.1.4b5, Python package to identify isotope patterns and their formulas, 2021-02-21T13:23:49+0000
+/project/umbrellaintegrate/, UmbrellaIntegrate, 0.41, The umbrella integration algorithm., 2018-04-04T20:12:37+0000
+/project/daltools/, daltools, 1.1.6, Daltools: utilities for extracting data from Dalton quantum chemistry calculations, 2021-04-21T13:12:31+0000
+/project/mlatom/, MLatom, 1.2.3, A Package for Atomistic Simulations with Machine Learning, 2021-03-01T02:36:52+0000
+/project/pniggli/, pniggli, 0.1.3, Structures of Alloys Generation And Recognition, 2019-04-25T10:57:57+0000
+/project/mddatasetbuilder/, mddatasetbuilder, 1.3.1, A script to make molecular dynamics (MD) datasets for neural networks from given LAMMPS trajectories automatically., 2021-03-29T05:40:28+0000
+/project/polyply/, polyply, 1.0.0, , 2020-12-07T15:54:44+0000
+/project/blender-chemicals/, blender-chemicals, 0.3.0, Imports chemicals into blender with open babel., 2020-04-03T20:46:44+0000
+/project/nanome-docking/, nanome-docking, 0.2.1, Nanome Plugin to dock ligands to a receptor, 2020-02-14T20:08:17+0000
+/project/epsproc/, ePSproc, 1.2.6, Post-processing suite for ePolyScat calculations (Matlab & Python)., 2020-09-14T13:33:58+0000
+/project/plumed/, plumed, 2.7.1, Python interface to PLUMED, 2021-04-16T06:59:43+0000
+/project/pychemkin/, pychemkin, 1.1.8, Chemical Kinetics Library, 2017-12-06T22:46:20+0000
+/project/exposan/, exposan, 0.0.10, Exposition of sanitation and resource recovery systems, 2021-04-24T20:53:47+0000
+/project/pymzml-tapir/, pymzml-tapir, 0.8.0, high-throughput mzML parsing, 2018-06-21T19:24:19+0000
+/project/mechanica/, mechanica, 0.0.30.dev4, Interactive physics simulation engine, 2021-04-20T06:25:08+0000
+/project/eccpy/, eccpy, 0.5.0, High-throughput calculation of EC50 values., 2020-10-01T21:07:40+0000
+/project/fs-ops/, fs-ops, 0.0.4, Description., 2020-02-14T12:01:24+0000
+/project/dynasor/, dynasor, 0.1.2, A tool for calculating dynamical structure factors, 2018-06-18T21:42:23+0000
+/project/prasopes/, prasopes, 0.0.56, Thermo/Finnigan .raw file viewer based on rawprasslib, 2021-04-26T07:38:11+0000

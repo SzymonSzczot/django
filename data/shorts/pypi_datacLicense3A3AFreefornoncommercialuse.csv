@@ -1,0 +1,532 @@
+/project/pi-device-net/, pi-device-net, 0.1.20, A set of tools to operate a device network., 2021-03-30T20:32:14+0000
+/project/rabies/, rabies, 0.2.3, RABIES: Rodent Automated Bold Improvement of EPI Sequences., 2021-04-21T20:53:54+0000
+/project/quilt3distribute/, quilt3distribute, 0.1.3, A small wrapper around quilt3 to make distributing manifest style datasets even easier., 2019-11-20T19:21:53+0000
+/project/django-suit2/, django-suit2, 2.0a1, Modern theme for Django admin interface. (Making the latest updates available on Pypi), 2020-01-18T08:57:24+0000
+/project/django-suit/, django-suit, 0.2.28, Modern theme for Django admin interface., 2019-10-02T08:36:30+0000
+/project/c3s/, c3s, 1.0.0, Python Modules for XXXXXXXX, 2017-09-12T15:25:39+0000
+/project/nat/, nat, 0.4.3, Module to use the annotations created with NeuroCurator., 2018-08-22T12:53:57+0000
+/project/quantiphyse/, quantiphyse, 0.9.5.post24, Quantiphyse is a data viewer and analysis platform for volumetric medical imaging data, 2021-01-06T13:51:38+0000
+/project/functiontrace/, functiontrace, 0.3.4, A profiling tool that traces your application's execution, 2020-11-05T09:22:55+0000
+/project/adtlib/, ADTLib, 2.1.2, Automated Drum Trancription Library, 2018-01-17T17:14:28+0000
+/project/multifold/, multifold, 1.2.2, Python Package for RNA structure prediction analysis., 2014-12-11T21:59:06+0000
+/project/oxasl/, oxasl, 0.1.13, Python library for manipulating and modelling ASL data, 2021-03-05T14:42:16+0000
+/project/il2ds-log-parser/, il2ds-log-parser, 0.10.1, Parser of IL-2 FB Dedicated Server events log., 2014-03-19T14:49:44+0000
+/project/madmom/, madmom, 0.16.1, Python audio signal processing library, 2018-11-14T14:56:22+0000
+/project/aics-dask-utils/, aics-dask-utils, 0.2.0, Utility functions and documentation related to Dask and AICS, 2020-05-08T22:28:00+0000
+/project/nengolib/, nengolib, 0.5.2, Tools for robust dynamics in Nengo, 2019-09-10T14:06:00+0000
+/project/ngs-plumbing/, ngs_plumbing, 0.13.1, Plumbing for NGS data, 2014-04-12T18:07:40+0000
+/project/runman/, runman, 0.2.1, Mange runs of stochastic simulations, 2019-11-23T00:24:08+0000
+/project/scikits-bvp1lg/, scikits.bvp1lg, 0.2.9, Boundary value problem (legacy) solvers for ODEs, 2018-03-10T19:32:53+0000
+/project/serializejson/, serializejson, 0.2.0, A python library for fast serialization and deserialization of complex Python objects into JSON., 2021-02-18T20:36:09+0000
+/project/simulariumio/, simulariumio, 1.0.1, Simularium Conversion helps convert simulation outputs to the format consumed by the Simularium viewer., 2020-10-21T18:11:48+0000
+/project/nested-tar-archives-extractor/, nested.tar.archives.extractor, 1.1, A small tool for recursively extracting nested tar archives., 2011-07-04T12:20:31+0000
+/project/segmenter-model-zoo/, segmenter-model-zoo, 0.0.5, scripts and API for running Deep Learning models from segmenter, 2020-11-18T18:47:27+0000
+/project/vinorm/, vinorm, 2.0.7, Python package for text normalization, use for frontend of Text-to-speech Reseach, 2020-12-24T19:29:08+0000
+/project/datastep/, datastep, 0.1.9, A base class and utilities for creating steps in DAGs that are tied to large amounts of data., 2020-11-17T01:35:30+0000
+/project/d3gb/, D3GB, 1.1, Creates an interactive genome browser with python, 2017-04-05T16:15:19+0000
+/project/charm4py/, charm4py, 1.0, Charm4py Parallel Programming Framework, 2019-09-09T01:36:52+0000
+/project/laf-fabric/, laf-fabric, 4.8.4, Processor for Linguistic Annotation Framework ISO 24612:2012), applied to Biblical Hebrew, 2017-10-03T10:46:43+0000
+/project/dimer/, dimer, 0.1, Deep Models for Expression and Regulation, 2013-08-21T05:13:38+0000
+/project/pyfab/, pyfab, 0.3.5, Python interface to the Fabber toolkit for Bayesian model fitting, 2021-01-19T16:17:30+0000
+/project/fsl-pyfeeds/, fsl-pyfeeds, 0.9.5, FSL testing framework, 2020-07-15T17:15:14+0000
+/project/il2fb-ds-middleware/, il2fb-ds-middleware, 1.0.1, High-level access to IL-2 FB Dedicated Server, 2017-12-06T16:23:41+0000
+/project/visu/, visu, 2020.9, Data visualization, 2020-09-25T14:32:22+0000
+/project/porper/, porper, 0.3.0, Portable Permission Controller, 2017-10-31T22:12:06+0000
+/project/il2ds-difficulty/, il2ds-difficulty, 1.0.0, Convert integer value of IL-2 DS difficulty into informative dictionary., 2014-03-08T20:46:57+0000
+/project/soco-encoders/, soco-encoders, 0.2.9.2, Neural encoders for embedding diverse objects, 2021-01-09T18:00:03+0000
+/project/wiperf-poller/, wiperf-poller, 0.3.1, Poller for the wiperf utlity, 2021-01-29T15:34:36+0000
+/project/quantiphyse-dsc/, quantiphyse-dsc, 0.9.2, Quantiphyse plugin for DSC-MRI data, 2020-02-12T12:41:52+0000
+/project/django-asutheme/, django-asutheme, 0.2.7, Base templates for Django that adhere to ASU Web Standards., 2017-01-13T23:11:07+0000
+/project/avery/, Avery, 0.1.0, Miscellaneous packages, 2014-12-15T13:51:48+0000
+/project/rampedpyrox/, rampedpyrox, 1.0.3, Ramped PyrOx kinetic and isotope analysis, 2020-07-25T17:44:25+0000
+/project/tsnn/, tsnn, 0.1.3, Time Series Neural Networks (Keras wrapper), 2017-11-08T09:17:26+0000
+/project/getty-getter/, Getty-Getter, 0.0a, Getty ULAN scraping utilities, 2016-12-08T23:08:22+0000
+/project/cardisort/, cardisort, 0.1.1, Cardiac MR DICOM sorting, 2020-06-17T16:00:14+0000
+/project/django-jet/, django-jet, 1.0.8, Modern template for Django admin interface with improved functionality, 2018-10-18T06:34:50+0000
+/project/flask-jwt-trivial/, flask-jwt-trivial, 0.0.3, Pre-alpha, do not use. Provides Flask with *very basic* JavaScript Web Tokens, 2020-07-04T17:40:34+0000
+/project/pybiomaps/, PyBioMaps, 0.1.0, PyBioMaps is a framework to manage and visualize scientific data in a browser., 2012-04-04T15:45:49+0000
+/project/nengo-extras/, nengo-extras, 0.4.0, Lesser used features for the Nengo neural simulator, 2019-11-16T00:35:45+0000
+/project/mpymodcore/, mpymodcore, 0.0.19, mpymodcore, 2020-12-12T05:29:25+0000
+/project/synthego-ice/, synthego-ice, 1.2.0, Synthego - Inference of CRISPR Edits (ICE), 2019-11-22T23:48:03+0000
+/project/gwip/, gwip, 1.0.0, An automatic genome-wide imputation pipeline., 2015-04-30T19:54:11+0000
+/project/easytf/, easytf, 13.9, Tensorflow CS, 2017-12-18T23:57:45+0000
+/project/crocpy3/, CROCpy3, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2019-04-19T11:18:50+0000
+/project/quantiphyse-deeds/, quantiphyse-deeds, 0.8.dev7, Quantiphyse plugin for DEEDS registration method, 2020-04-06T06:41:18+0000
+/project/image-classifier-3d/, image-classifier-3d, 0.1.2, Python package for building 3d image classifier                  using deep neural networks, 2020-09-16T16:23:09+0000
+/project/suit-mailfactory/, suit_mailfactory, 028.011.0, django-mailfactory support for django-suit, 2014-06-09T12:17:08+0000
+/project/r-django-jet/, r-django-jet, 2.0.9, Modern template for Django admin interface with improved functionality, 2020-09-24T18:12:05+0000
+/project/eliservices-ga/, eliservices-ga, 0.1.0, Library containing functions for working with the ogn-network., 2021-04-20T16:06:55+0000
+/project/csfunctions/, CSFunctions, 3.7, CS Functions, 2018-04-09T11:00:28+0000
+/project/ckipneutools/, ckipneutools, 0.0.11, DEPRECATED, please shift to install and import 'ckiptagger', 2019-08-26T12:26:57+0000
+/project/minpubsub/, minpubsub, 0.3, A minimal PubSub messaging model with multiple persistence options - SQLite, MySQL, MongoDB, 2015-04-09T10:36:00+0000
+/project/pyboy/, pyboy, 1.4.1, , 2021-03-31T13:19:52+0000
+/project/komiker/, komiker, 1.0.9, Tutorial komiker-py: https://m.youtube.com/watch?v=wmlFLnWmaa0, 2021-02-28T19:51:32+0000
+/project/genipe/, genipe, 1.5.0, An automatic genome-wide imputation pipeline., 2021-02-11T17:03:31+0000
+/project/confargparse/, ConfArgParse, 1.1.20, An integrated argument/configuration file parser that follows the syntax of argparser, 2015-03-21T06:06:34+0000
+/project/quantiphyse-perfsim/, quantiphyse-perfsim, 0.0.2.post12, Quantiphyse plugin for simulating perfusion data, 2021-01-06T13:51:50+0000
+/project/jiten/, jiten, 1.0.0, japanese cli&web dictionary based on jmdict/kanjidic, 2021-02-20T16:09:33+0000
+/project/pyxmahjongg/, pyxmahjongg, 0.2.5, The classic UNIX xmahjongg for Python 3, 2017-04-14T12:59:17+0000
+/project/rngslib/, rngslib, 1.0.0, Python Modules for Next-Generation Sequencing Data Analysis., 2016-02-12T21:58:28+0000
+/project/il2ds-middleware/, il2ds-middleware, 0.10.3, High-level access to IL-2 FB Dedicated Server., 2014-06-24T16:30:27+0000
+/project/quantiphyse-asl/, quantiphyse-asl, 0.9.2.post3, Quantiphyse plugin for ASL-MRI data, 2020-06-18T14:25:48+0000
+/project/nengo-bones/, nengo-bones, 0.11.1, Tools for managing Nengo projects, 2020-04-13T16:41:29+0000
+/project/jni/, jni, 1.0.0b17, Python bridge for the Java Native Interface., 2020-11-10T20:05:28+0000
+/project/burst-detection/, burst_detection, 0.1.3, Detect bursts in batched data using Kleinbergs (2002) algorithm., 2018-01-05T05:37:42+0000
+/project/vmine/, vmine, 1.0.0.1, , 2019-04-16T04:08:41+0000
+/project/pycircos/, pycircos, 1.0.2, This Tools is Design for NGS Circos Plot with using Python., 2019-12-12T02:46:55+0000
+/project/isotopylog/, isotopylog, 0.0.5, Clumped isotope kinetic analysis, 2020-08-28T13:05:08+0000
+/project/exmatrix/, exmatrix, 0.1.1, A Python package to the ExMatrix method, supporting Random Forest models interpretability., 2021-04-18T22:04:14+0000
+/project/deltasimulator/, deltasimulator, 0.6.0, Runs Deltaflow programs on virtual platforms, 2021-04-09T11:41:14+0000
+/project/jvm/, jvm, 0.5.0b3, Python bridge for the Java Virtual Machine., 2020-12-13T20:54:47+0000
+/project/pytorch-spiking/, pytorch-spiking, 0.1.0, Spiking neuron integration for PyTorch, 2020-09-09T15:28:07+0000
+/project/breakwater/, breakwater, 1.0, A package for the conceptual design of breakwaters, 2020-07-20T18:24:03+0000
+/project/soco-mrc/, soco-mrc, 0.0.9, Neural machine reading comprehension models, 2020-11-22T03:27:53+0000
+/project/c6/, c6, 0.4.0, A toy center-based model of initial clustering, 2020-05-21T19:13:28+0000
+/project/ncshunter/, ncshunter, 0.1.0, Python Modules for Next-Generation Sequencing Data Analysis., 2015-10-21T15:55:06+0000
+/project/croc/, CROC, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2014-07-23T20:57:17+0000
+/project/bbbmon/, bbbmon, 0.1.32, A small CLI utility to monitor bbb usage, 2020-06-10T15:01:27+0000
+/project/pboost/, pboost, 0.5.4, Parallel Implementation of Boosting Algorithms with MPI., 2016-02-26T16:04:35+0000
+/project/basepair/, basepair, 1.7.0, Python client for Basepair's API, 2021-04-13T13:29:26+0000
+/project/xp-scenery-organizer/, xp-scenery-organizer, 0.0.1, A small package to organizer the X-plane's scenery_packs.ini file, 2020-10-19T01:59:31+0000
+/project/readerlib/, readerlib, 1.0, A binding for open().read() that provides the ability to read a few letters or more., 2012-08-07T15:43:35+0000
+/project/django-jet-new/, django-jet-new, 2.2.8, Modern template for Django admin interface with improved functionality, 2020-02-08T20:29:23+0000
+/project/aquachain-kv/, aquachain-kv, 0.0.1, Aquachain GUI wallet, 2018-06-21T10:35:02+0000
+/project/ies/, IES, 1.0.7, iPIPA, 2018-12-19T05:23:32+0000
+/project/quantiphyse-t1/, quantiphyse-t1, 0.9.1, Quantiphyse plugin for Bayesian T1 mapping, 2019-08-12T10:45:21+0000
+/project/rsq/, rsq, 2.0.2, Python Package for RNA structurome quantification analysis., 2015-03-19T20:20:34+0000
+/project/pytetris/, pytetris, 1.0.0, tetris game with ai made by pygame, 2020-06-06T11:20:37+0000
+/project/pygmidi/, pygmidi, 4.0.1, Python General MIDI representation for symbolic music data analysis, 2021-04-10T18:51:33+0000
+/project/keras-spiking/, keras-spiking, 0.2.0, Spiking neuron integration for Keras, 2021-02-18T15:41:57+0000
+/project/metmap/, metmap, 1.0.4, A tool for generating DNA MTase motif testing sequences, 2018-12-17T13:23:20+0000
+/project/chunkfile/, chunkfile, 1.0.0b2, A file-like interface backed by multiple smaller files., 2017-05-27T22:43:45+0000
+/project/summarizer4u/, summarizer4u, 0.3.7, Get your text summarized, 2020-03-03T10:28:42+0000
+/project/triadb/, triadb, 0.9.0, TRIADB - Self-Service Data Management and Analytics Framework, 2019-10-24T11:36:38+0000
+/project/ngslib/, ngslib, 1.1.20, Python Modules for Next-Generation Sequencing Data Analysis., 2017-05-31T14:22:08+0000
+/project/nengo-ocl/, nengo-ocl, 2.1.0, OpenCL-based simulator for Nengo neural models, 2020-11-23T21:03:15+0000
+/project/transfabric/, TransFabric, 1.0, TransFabric Parser, 2013-05-17T17:55:22+0000
+/project/colorweave/, colorweave, 0.3.2, Extract dominant colors from an image as a color palette, 2015-04-09T10:48:47+0000
+/project/oxasl-deblur/, oxasl-deblur, 0.0.7.post4, Python implementation of ASL deblurring algorithm, 2021-04-08T19:03:04+0000
+/project/nengo/, nengo, 3.1.0, Tools for building and simulating large-scale neural models, 2020-11-17T22:16:17+0000
+/project/django-jet-reboot/, django-jet-reboot, 1.1.1, Modern template for Django admin interface with improved functionality, 2020-12-28T19:55:55+0000
+/project/geobases3k/, GeoBases3K, 5.0.16, Data services and visualization - Python 3 version, 2013-05-13T09:27:10+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/automlsa2/, automlsa2, 0.7.1, Automated Multi-Locus Sequence Analysis tool, 2021-04-07T18:28:22+0000
+/project/skanetrafiken/, skanetrafiken, 2.2.0, Python wrapper for Skanetrafiken Open API, 2019-03-16T20:49:56+0000
+/project/pvshepherd/, pvshepherd, 0.9.9, Shepherd, 2021-04-19T23:36:45+0000
+/project/geobases/, GeoBases, 5.0.16, Data services and visualization, 2013-05-13T09:23:30+0000
+/project/soco-tokenizer/, soco-tokenizer, 1.2, Fast tokenizer, 2021-04-15T04:16:01+0000
+/project/ucis4eq/, ucis4eq, 0.0.20, , 2021-03-26T08:27:09+0000
+/project/pygridgain/, pygridgain, 1.3.1, GridGain binary client Python API, 2021-04-12T16:24:34+0000
+/project/upsetjs-jupyter-widget/, upsetjs-jupyter-widget, 1.9.0, UpSet.js is a re-implementation of UpSetR to create interactive set visualizations for more than three sets, 2021-02-17T18:26:00+0000
+/project/oxasl-mp/, oxasl-mp, 2.0.1, Python library for modelling multiphase ASL data, 2019-12-13T14:42:36+0000
+/project/aggregategithubcommits/, aggregateGithubCommits, 3.20200806, aggregateGithubCommits: Aggregate Github commit count by author and time., 2020-08-05T06:29:32+0000
+/project/selenium-update/, selenium-update, 0.0.0, Automate Selenium webdriver dependency set up, 2020-08-09T10:21:26+0000
+/project/oxasl-surfpvc/, oxasl-surfpvc, 0.0.2.post6, OXASL plugin for surface-based partial volume correction, 2020-10-02T18:35:34+0000
+/project/labmath/, labmath, 1.2.0, Module for basic math in the general vicinity of computational number theory, 2018-11-18T21:23:30+0000
+/project/mpymodcore-watering/, mpymodcore-watering, 0.0.9, mpymodcore, 2020-12-12T05:32:22+0000
+/project/geneparse/, geneparse, 0.8.1, A suite of parse for genotype formats., 2020-08-21T20:23:31+0000
+/project/txinvoke/, txinvoke, 0.1.0, Run inline callbacks from Twisted as Invoke tasks, 2015-04-07T06:07:51+0000
+/project/capitalism/, Capitalism, 0.2.50, A module for dispatching jobs, 2019-07-24T06:27:48+0000
+/project/viphoneme/, viphoneme, 2.0.1, Python package for convert text to phoneme ipa, use for cross language embedding Text-to-speech Reseach, 2020-12-25T03:37:15+0000
+/project/aicsimageprocessing/, aicsimageprocessing, 0.7.5, A generalized scientific image processing module from the Allen Institute for Cell Science., 2020-08-25T16:28:23+0000
+/project/deltalanguage/, deltalanguage, 0.6.0, Hosted programming language for Deltaflow, 2021-04-01T14:28:51+0000
+/project/ibpy-native/, ibpy-native, 1.0.5, Implementation of the native Python version of IB API, 2021-04-06T16:56:29+0000
+/project/pyazdvops/, pyazdvops, 1.0.4, Library for Azure DevOps API for Python, 2019-10-17T06:34:52+0000
+/project/prost/, prost, 0.7.60, An application to quantify and annotate miRNA expression., 2019-08-30T00:29:34+0000
+/project/suit-guardian/, suit_guardian, 028.120.0, django-guardian support for django-suit, 2014-06-09T11:55:49+0000
+/project/crapsim/, CrApsim, 0.0.1a0, Creates Apsim-Project files from given parameters and files., 2017-07-31T20:33:36+0000
+/project/asamba/, asamba, 1.0.8, Python interface to peform asteroseismic modelling with the asamba grid, 2017-06-21T10:55:59+0000
+/project/aicssegmentation/, aicssegmentation, 0.1.22, Part 1 of Allen Cell and Structure Segmenter, 2021-02-18T22:44:01+0000
+/project/plotoptix/, plotoptix, 0.13.3, Data visualisation in Python based on NVIDIA OptiX ray tracing framework., 2021-03-08T10:37:31+0000
+/project/quantiphyse-sv/, quantiphyse-sv, 0.9.1.post1, Quantiphyse plugin for supervoxel clustering, 2019-08-12T10:44:25+0000
+/project/brillixy/, brillixy, 0.6.1, Customizations for Django admin interface., 2013-04-07T08:30:42+0000
+/project/petgem/, petgem, 0.9, Parallel python code for electromagnetic modeling in geophysics using high-order nédélec finite elements, 2020-11-26T14:24:34+0000
+/project/maskslic/, maskslic, 0.3.3, Simple linear iterative clustering (SLIC) in a region of interest (ROI), 2019-07-09T12:58:26+0000
+/project/dupliganger/, dupliganger, 0.991, A reference-based, UMI-aware, 5ʹ-trimming-aware PCR duplicate removal pipeline., 2020-08-17T14:51:36+0000
+/project/django-suit-redactor-django2/, django-suit-redactor-django2, 0.5.1, Imperavi Redactor (WYSIWYG editor) integration app for Django admin. http://imperavi.com/redactor/, 2020-02-19T18:39:04+0000
+/project/quantiphyse-dce/, quantiphyse-dce, 0.9.2, Quantiphyse plugin for DCE-MRI data, 2020-04-17T10:36:17+0000
+/project/ask-for-password/, ask-for-password, 0.0.3, A GUI interface to get an user and a password list as [user,pass]., 2019-07-24T05:17:10+0000
+/project/pysight/, pysight, 0.12.2, Create images and volumes from photon lists generated by a multiscaler, 2020-12-20T10:20:15+0000
+/project/mtfit/, MTfit, 1.0.5, MTfit: Bayesian Moment Tensor Inversion Code, 2018-08-30T23:28:03+0000
+/project/oxasl-enable/, oxasl-enable, 0.0.2.post2, Python implementation of the ENABLE quality-based volume selection algorithm for ASL-MRI data, 2019-06-10T10:42:44+0000
+/project/hdpwordseg/, hdpwordseg, 1.1.9, HDP Word Segmentor, 2015-06-08T15:06:26+0000
+/project/cifrazia-django-jet/, cifrazia-django-jet, 1.1.4, Django-jet fork with Django@3.0+ support, 2021-04-21T12:46:56+0000
+/project/metonym/, metonym, 0.2, Getting better path similarity measures from wordnet by graphing the synsets, 2012-02-07T19:12:22+0000
+/project/sirad/, sirad, 0.3.1, Secure Infrastructure for Research with Administrative Data, 2020-09-24T18:56:21+0000
+/project/oxasl-multite/, oxasl-multite, 0.3.0, Python library for modelling multi-TE ASL data, 2020-02-04T16:09:08+0000
+/project/nengo-spa/, nengo-spa, 1.2.0, An implementation of the Semantic Pointer Architecture for Nengo, 2020-11-15T19:48:15+0000
+/project/genesis-sdk/, GeNESiS-SDK, 0.1.24, , 2019-12-10T14:34:44+0000
+/project/geobasespypy/, GeoBasesPypy, 5.0.16, Data services and visualization - Pypy version, 2013-05-13T09:25:55+0000
+/project/soco-doc-parser-python/, soco-doc-parser-python, 0.0.3, Python SDK for using SOCO platform, 2020-02-23T02:25:28+0000
+/project/fouriertransform/, fouriertransform, 0.0.8, FT-ICR MS peak assignment and data analysis, 2018-05-25T14:08:29+0000
+/project/mitywgs/, mitywgs, 0.2.1, A sensitive Mitochondrial variant detection pipeline from WGS data, 2021-02-05T21:23:07+0000
+/project/libzt/, libzt, 1.3.4b1, ZeroTier, 2021-03-18T01:15:49+0000
+/project/geobasesdev/, GeoBasesDev, 5.0.0, Data services and visualization - development version, 2013-03-13T15:52:50+0000
+/project/bm3d/, bm3d, 3.0.8, BM3D for correlated noise., 2021-02-02T00:24:42+0000
+/project/zeoliteclusterizer/, zeoliteclusterizer, 0.1.1, A python module built for rapid computational screening of catalysts on rigid structures, 2017-06-06T22:36:37+0000
+/project/datamart-geo/, datamart-geo, 0.2.1, Geographical location data, 2021-02-20T03:57:22+0000
+/project/dnnnlp/, dnnnlp, 1.1.4, Deep Neural Networks for Natural Language Processing classification or sequential task written by PyTorch., 2019-10-29T07:50:06+0000
+/project/keras-lmu/, keras-lmu, 0.3.1, Keras implementation of Legendre Memory Units, 2020-11-16T21:44:00+0000
+/project/django-jet-nwmqpa/, django-jet-nwmqpa, 1.0.8, Modern template for Django admin interface with improved functionality, 2019-12-06T13:57:31+0000
+/project/pi-touch-gui/, pi-touch-gui, 0.3.8, A graphic UI optimized for touch screens, 2021-03-04T20:25:45+0000
+/project/aics-tf-registration/, aics-tf-registration, 0.1.1, Rigid registration algorithm for generating training/testing data for transfer function model, 2020-11-23T04:25:55+0000
+/project/meshpy/, MeshPy, 2020.1, Triangular and Tetrahedral Mesh Generator, 2020-11-13T21:10:23+0000
+/project/nengo-loihi/, nengo-loihi, 1.0.0, Run Nengo models on the Loihi chip, 2021-01-21T16:27:52+0000
+/project/custom-jet/, custom-jet, 1.0.7, , 2021-04-08T19:27:01+0000
+/project/twitchx/, TwitchX, 1.2.7, Netchive Twitch Extension, 2021-02-01T10:32:32+0000
+/project/root2matplot/, root2matplot, 0.9.3.1, Tools for use with ROOT; deprecated in favor of rootplot, 2010-06-09T16:09:06+0000
+/project/neurocurator/, neurocurator, 0.4.4, Application to perform curation of neuroscientific literature., 2018-07-20T13:58:12+0000
+/project/genetest/, genetest, 0.5.0, A package to process and analyze genotypic and phenotypic data., 2019-02-28T14:29:12+0000
+/project/nuscenes-devkit/, nuscenes-devkit, 1.1.5, The official devkit of the nuScenes dataset (www.nuscenes.org)., 2021-04-20T10:25:49+0000
+/project/everysport/, everysport, 1.3.0, A Python wrapper for the Everysport API, 2020-08-16T06:53:10+0000
+/project/django-jet2/, django-jet2, 1.0.12, Next Generation of django-jet (Modern template for Django admin interface with improved functionality), 2020-04-17T07:13:20+0000
+/project/wine-deamonizer/, wine-deamonizer, 1.0.1, Run Windows processes under Wine as Unix daemons., 2014-01-02T14:39:54+0000
+/project/pixrypt-python/, pixrypt-python, 1.0.0, Pixrypt Text-Pixel Encoding/Decoding Backend, 2017-12-26T06:32:41+0000
+/project/soco-device/, soco-device, 0.0.5.2, Log memory usage and auto choose device for machine learning model inference, 2020-11-18T20:58:15+0000
+/project/scheduler-tools/, scheduler-tools, 0.1.5, Tools for composing interdependent tasks on a scheduler (i.e. SLURM), 2020-03-04T22:49:46+0000
+/project/trianglepy/, trianglepy, 0.0.7, Triangular Mesh Generator, 2018-03-13T04:12:00+0000
+/project/ask-for-color/, ask-for-color, 0.1.3, A GUI interface to get from the user a color string in RGB system., 2019-08-21T05:13:12+0000
+/project/data-pipelines/, data-pipelines, 0.1.0, Data Pipelines Framework, 2018-07-01T14:40:36+0000
+/project/soco-core-python/, soco-core-python, 0.14.5, Python SDK for using SOCO platform, 2020-07-01T06:00:01+0000
+/project/django-slick/, django-slick, 0.3.0, Slick responsive theme for Django admin., 2020-03-11T16:18:27+0000
+/project/get-assemblies/, get-assemblies, 0.8.1, NCBI E-utilities wrapper for assembly downloads, 2020-11-13T23:32:05+0000
+/project/django-jet-opt/, django-jet-opt, 1.0.8, Modern template for Django admin interface with improved functionality, 2019-07-07T10:03:32+0000
+/project/pyprintflow2/, pyprintflow2, 2.5.10, Manage integration of Noosh and Cumulus to provide integrated print project management, 2014-04-04T16:24:27+0000
+/project/nldsl/, nldsl, 0.15.4, A DSL for data science with a syntax similar to a natural language., 2019-12-18T19:12:42+0000
+/project/pyprt/, PyPRT, 1.2.0, Python bindings for the "Procedural Runtime" (PRT) of CityEngine by Esri., 2020-11-30T15:08:29+0000
+/project/mbin/, mbin, 1.1.1, mBin: a methylation-based binning framework for metagenomic SMRT sequencing reads, 2018-03-20T23:43:20+0000
+/project/oxasl-optpcasl/, oxasl-optpcasl, 0.0.3, Python library for optimizing multi-PLD pCASL acquisitions, 2020-12-01T14:30:36+0000
+/project/ec-ms/, EC-MS, 0.7.5, Analysis tools for electrochemistry and mass spectrometry and a lot in between, 2021-02-19T12:26:26+0000
+/project/baiduspider/, BaiduSpider, 0.1.13, BaiduSpider，一个爬取百度的利器, 2021-04-21T10:35:25+0000
+/project/pyscons/, PyScons, 1.0.95, An extension to Scons which enables dependency tracking on python script imports., 2019-09-12T21:26:58+0000
+/project/django-3-jet-zupit/, django-3-jet-zupit, 1.1.0, Modern template for Django-3 admin interface with improved functionality, 2020-09-18T08:23:14+0000
+/project/tx-logging/, tx-logging, 1.0.0, Extends Twisted log facilities., 2014-03-19T09:31:51+0000
+/project/django-3-jet/, django-3-jet, 1.0.8, Modern template for Django admin interface with improved functionality, 2020-02-27T11:30:22+0000
+/project/videoanalysis/, VideoAnalysis, 0.1.7, Widgets for analysis of worm videos, 2014-12-18T21:10:35+0000
+/project/quantiphyse-fabber/, quantiphyse-fabber, 0.9.1.post1, Quantiphyse plugin for Fabber Bayesian modelling tool, 2020-01-24T10:09:55+0000
+/project/django-ru-fields/, django-ru-fields, 0.1.0, specific russian fields, 2014-11-03T09:06:06+0000
+/project/aquachain-tk/, aquachain-tk, 0.0.4, Aquachain TK wallet for Python 3.6.5, 2018-06-28T11:30:44+0000
+/project/aquachain-py/, aquachain.py, 0.0.8, Aquachain for Python 3.6.5, 2018-06-28T09:19:35+0000
+/project/django-suit-redactor/, django-suit-redactor, 0.0.4, Imperavi Redactor (WYSIWYG editor) integration app for Django admin. http://imperavi.com/redactor/, 2016-04-27T13:00:49+0000
+/project/nimingcypher/, NimingCypher, 2.6.3, Encryption module for instant messaging, 2018-07-20T13:15:02+0000
+/project/nengo-sphinx-theme/, nengo-sphinx-theme, 20.9, Sphinx theme for Nengo project documentation pages, 2020-09-09T15:26:47+0000
+/project/j5r-mc/, j5r-mc, 0.3, Markov Chain manager., 2020-12-03T17:02:24+0000
+/project/mrrobot/, mrrobot, 1.0.3, Just another robot to automate the hacking process, 2020-02-24T18:23:49+0000
+/project/empanada/, empanada, 0.0.3, EMPANADA: a tool for evidence-based assignment of genes to pathways in metagenomic data, 2020-01-06T23:30:35+0000
+/project/parang/, Parang, 1.4.1, A set of clients for the Parlance Diplomacy Framework., 2009-08-30T02:21:18+0000
+/project/cuebeam/, cueBeam, 0.0.1, Simple acoustic interference and beam forming simulation based on Huygens principle, 2017-05-22T15:45:02+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/twitchx/, TwitchX, 1.2.7, Netchive Twitch Extension, 2021-02-01T10:32:32+0000
+/project/root2matplot/, root2matplot, 0.9.3.1, Tools for use with ROOT; deprecated in favor of rootplot, 2010-06-09T16:09:06+0000
+/project/neurocurator/, neurocurator, 0.4.4, Application to perform curation of neuroscientific literature., 2018-07-20T13:58:12+0000
+/project/topoly/, topoly, 0.9.12, This package provides a set of tools for modeling protein knots, lassos and other., 2021-04-14T15:25:29+0000
+/project/one-lin3r/, one-lin3r, 2.1, One-Lin3r is simple modular and light-weight framework gives you all the one-liners that you will need while penetration testing (Windows, Linux, macOS or even BSD systems) or hacking generally with a lot of new features to make all of this fully automated (ex: you won't even need to copy the one-liners)., 2020-03-26T21:00:18+0000
+/project/gtic/, gtic, 1.0.1, General Takeuchi Information Criterion, 2017-08-01T19:47:10+0000
+/project/fishtaco/, FishTaco, 1.1.4, FishTaco: a metagenomic computational framework, aiming to identify the taxa that are driving functional shifts in microbiomes., 2020-11-06T00:16:16+0000
+/project/lmu/, lmu, 0.3.0, LMU metapackage for installing various LMU implementations, 2020-11-07T00:09:08+0000
+/project/actk/, actk, 0.2.2, Automated Cell Toolkit, 2020-12-15T19:44:51+0000
+/project/dorkbot/, dorkbot, 0.2.3, Command-line tool to scan search results for vulnerabilities, 2020-05-01T16:15:58+0000
+/project/genetest/, genetest, 0.5.0, A package to process and analyze genotypic and phenotypic data., 2019-02-28T14:29:12+0000
+/project/nuscenes-devkit/, nuscenes-devkit, 1.1.5, The official devkit of the nuScenes dataset (www.nuscenes.org)., 2021-04-20T10:25:49+0000
+/project/bocks-ds/, bocks-ds, 0.2.1, DataSource Python SDK, 2020-04-14T18:21:53+0000
+/project/d3r/, d3r, 1.12.0, Drug Design Data Resource CELPP Runner is an application to run the filtering, docking, and evaluation of new sequences from wwpdb, 2019-08-16T20:33:06+0000
+/project/microscope-automation/, microscope-automation, 0.3.4, Automation software for the AICS Microscopes., 2021-03-19T23:52:14+0000
+/project/bcc2to/, bcc2to, 0.4.0rc2, Posfix plugin for individual list mail delivering, 2016-07-13T08:11:58+0000
+/project/nighthtr-django-3-jet/, nighthtr-django-3-jet, 1.0.8, Modern template for Django-3 admin interface with improved functionality, 2020-05-16T20:38:33+0000
+/project/pypf3/, pypf3, 3.0.3, Manage integration of Noosh and Cumulus to provide integrated print project management, 2014-08-15T14:03:50+0000
+/project/lj/, lj, 0.2, Python realization of LiveJournal (LJ) API.Checkout https://github.com/daniilr/python-lj for more info, 2016-01-05T05:39:02+0000
+/project/openbayes/, OpenBayes, 0.1.0, An OpenSource Python implementation of bayesian networks inspired by BNT., 2006-04-11T12:14:57+0000
+/project/limlearn/, limlearn, 1.0.0, Limit of Learning, 2017-08-03T02:50:55+0000
+/project/bm3d/, bm3d, 3.0.8, BM3D for correlated noise., 2021-02-02T00:24:42+0000
+/project/ec-ms/, EC-MS, 0.7.5, Analysis tools for electrochemistry and mass spectrometry and a lot in between, 2021-02-19T12:26:26+0000
+/project/baiduspider/, BaiduSpider, 0.1.13, BaiduSpider，一个爬取百度的利器, 2021-04-21T10:35:25+0000
+/project/pyscons/, PyScons, 1.0.95, An extension to Scons which enables dependency tracking on python script imports., 2019-09-12T21:26:58+0000
+/project/django-3-jet-zupit/, django-3-jet-zupit, 1.1.0, Modern template for Django-3 admin interface with improved functionality, 2020-09-18T08:23:14+0000
+/project/tx-logging/, tx-logging, 1.0.0, Extends Twisted log facilities., 2014-03-19T09:31:51+0000
+/project/quantiphyse-qbold/, quantiphyse-qbold, 0.9.1, Quantiphyse plugin for qBOLD-MRI data, 2019-08-12T10:42:25+0000
+/project/ribotish/, ribotish, 0.2.7, Python Modules for Riboseq data analysis., 2021-04-14T03:25:59+0000
+/project/aicsshparam/, aicsshparam, 0.1.1, Spherical harmonics parametrization for 3D starlike shapes, 2021-03-05T05:31:10+0000
+/project/pxpy/, pxpy, 1.0a68, discrete pairwise undirected graphical models, 2021-03-29T20:01:57+0000
+/project/tgshg/, tgshg, 1.0.1, A test small example package, 2019-03-19T03:54:48+0000
+/project/nengo-gui/, nengo-gui, 0.4.7, Web-based GUI for building and visualizing Nengo models., 2020-11-24T21:09:04+0000
+/project/nengo-dl/, nengo-dl, 3.4.0, Deep learning integration for Nengo, 2020-11-27T02:19:49+0000
+/project/rumor-tools/, rumor-tools, 0.0.2.dev1, A simple rumor detection lib for python, 2018-04-27T13:32:12+0000
+/project/roiwidgets/, ROIWidgets, 0.1.10, IPython notebook Region of Interest widgets, 2014-12-18T20:08:51+0000
+/project/aicscytoparam/, aicscytoparam, 0.1.2, Cytoplasm parameterization using spherical harmonics, 2021-02-12T23:20:59+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/quantiphyse-fsl/, quantiphyse-fsl, 0.9.2.post2, Quantiphyse plugin for FSL command line tools, 2020-07-06T10:44:02+0000
+/project/oxasl-ve/, oxasl-ve, 0.1.1.post2, Python library for manipulating and modelling ASL data, 2019-08-07T12:14:53+0000
+/project/everysport/, everysport, 1.3.0, A Python wrapper for the Everysport API, 2020-08-16T06:53:10+0000
+/project/django-jet2/, django-jet2, 1.0.12, Next Generation of django-jet (Modern template for Django admin interface with improved functionality), 2020-04-17T07:13:20+0000
+/project/industrialucn/, industrialucn, 0.1.7.2, Generic tool for numerical experiments, 2020-10-03T18:16:19+0000
+/project/blanksort/, blanksort, 0.0.8, The Python package for the BlankSort keyword extraction algorithm., 2020-09-30T18:45:41+0000
+/project/pycloudy/, pyCloudy, 0.9.10, Tools to manage Astronomical Cloudy photoionization code, 2020-07-03T19:24:06+0000
+/project/wine-deamonizer/, wine-deamonizer, 1.0.1, Run Windows processes under Wine as Unix daemons., 2014-01-02T14:39:54+0000
+/project/pixrypt-python/, pixrypt-python, 1.0.0, Pixrypt Text-Pixel Encoding/Decoding Backend, 2017-12-26T06:32:41+0000
+/project/yt-videos-list/, yt-videos-list, 0.5.5, YouTube bot to make a YouTube videos list (including all video titles and URLs uploaded by a channel) with end-to-end web scraping - no API tokens required. 🌟 Star this repo if you found it useful! 🌟, 2021-04-26T00:41:23+0000
+/project/pi-device-net/, pi-device-net, 0.1.20, A set of tools to operate a device network., 2021-03-30T20:32:14+0000
+/project/rabies/, rabies, 0.2.3, RABIES: Rodent Automated Bold Improvement of EPI Sequences., 2021-04-21T20:53:54+0000
+/project/quilt3distribute/, quilt3distribute, 0.1.3, A small wrapper around quilt3 to make distributing manifest style datasets even easier., 2019-11-20T19:21:53+0000
+/project/django-suit2/, django-suit2, 2.0a1, Modern theme for Django admin interface. (Making the latest updates available on Pypi), 2020-01-18T08:57:24+0000
+/project/django-suit/, django-suit, 0.2.28, Modern theme for Django admin interface., 2019-10-02T08:36:30+0000
+/project/nested-tar-archives-extractor/, nested.tar.archives.extractor, 1.1, A small tool for recursively extracting nested tar archives., 2011-07-04T12:20:31+0000
+/project/c3s/, c3s, 1.0.0, Python Modules for XXXXXXXX, 2017-09-12T15:25:39+0000
+/project/nat/, nat, 0.4.3, Module to use the annotations created with NeuroCurator., 2018-08-22T12:53:57+0000
+/project/quantiphyse/, quantiphyse, 0.9.5.post24, Quantiphyse is a data viewer and analysis platform for volumetric medical imaging data, 2021-01-06T13:51:38+0000
+/project/functiontrace/, functiontrace, 0.3.4, A profiling tool that traces your application's execution, 2020-11-05T09:22:55+0000
+/project/adtlib/, ADTLib, 2.1.2, Automated Drum Trancription Library, 2018-01-17T17:14:28+0000
+/project/multifold/, multifold, 1.2.2, Python Package for RNA structure prediction analysis., 2014-12-11T21:59:06+0000
+/project/oxasl/, oxasl, 0.1.13, Python library for manipulating and modelling ASL data, 2021-03-05T14:42:16+0000
+/project/il2ds-log-parser/, il2ds-log-parser, 0.10.1, Parser of IL-2 FB Dedicated Server events log., 2014-03-19T14:49:44+0000
+/project/madmom/, madmom, 0.16.1, Python audio signal processing library, 2018-11-14T14:56:22+0000
+/project/aics-dask-utils/, aics-dask-utils, 0.2.0, Utility functions and documentation related to Dask and AICS, 2020-05-08T22:28:00+0000
+/project/nengolib/, nengolib, 0.5.2, Tools for robust dynamics in Nengo, 2019-09-10T14:06:00+0000
+/project/ngs-plumbing/, ngs_plumbing, 0.13.1, Plumbing for NGS data, 2014-04-12T18:07:40+0000
+/project/vinorm/, vinorm, 2.0.7, Python package for text normalization, use for frontend of Text-to-speech Reseach, 2020-12-24T19:29:08+0000
+/project/wiperf-poller/, wiperf-poller, 0.3.1, Poller for the wiperf utlity, 2021-01-29T15:34:36+0000
+/project/segmenter-model-zoo/, segmenter-model-zoo, 0.0.5, scripts and API for running Deep Learning models from segmenter, 2020-11-18T18:47:27+0000
+/project/datastep/, datastep, 0.1.9, A base class and utilities for creating steps in DAGs that are tied to large amounts of data., 2020-11-17T01:35:30+0000
+/project/d3gb/, D3GB, 1.1, Creates an interactive genome browser with python, 2017-04-05T16:15:19+0000
+/project/charm4py/, charm4py, 1.0, Charm4py Parallel Programming Framework, 2019-09-09T01:36:52+0000
+/project/laf-fabric/, laf-fabric, 4.8.4, Processor for Linguistic Annotation Framework ISO 24612:2012), applied to Biblical Hebrew, 2017-10-03T10:46:43+0000
+/project/dimer/, dimer, 0.1, Deep Models for Expression and Regulation, 2013-08-21T05:13:38+0000
+/project/pyfab/, pyfab, 0.3.5, Python interface to the Fabber toolkit for Bayesian model fitting, 2021-01-19T16:17:30+0000
+/project/fsl-pyfeeds/, fsl-pyfeeds, 0.9.5, FSL testing framework, 2020-07-15T17:15:14+0000
+/project/il2fb-ds-middleware/, il2fb-ds-middleware, 1.0.1, High-level access to IL-2 FB Dedicated Server, 2017-12-06T16:23:41+0000
+/project/visu/, visu, 2020.9, Data visualization, 2020-09-25T14:32:22+0000
+/project/porper/, porper, 0.3.0, Portable Permission Controller, 2017-10-31T22:12:06+0000
+/project/runman/, runman, 0.2.1, Mange runs of stochastic simulations, 2019-11-23T00:24:08+0000
+/project/scikits-bvp1lg/, scikits.bvp1lg, 0.2.9, Boundary value problem (legacy) solvers for ODEs, 2018-03-10T19:32:53+0000
+/project/serializejson/, serializejson, 0.2.0, A python library for fast serialization and deserialization of complex Python objects into JSON., 2021-02-18T20:36:09+0000
+/project/simulariumio/, simulariumio, 1.0.1, Simularium Conversion helps convert simulation outputs to the format consumed by the Simularium viewer., 2020-10-21T18:11:48+0000
+/project/il2ds-difficulty/, il2ds-difficulty, 1.0.0, Convert integer value of IL-2 DS difficulty into informative dictionary., 2014-03-08T20:46:57+0000
+/project/soco-encoders/, soco-encoders, 0.2.9.2, Neural encoders for embedding diverse objects, 2021-01-09T18:00:03+0000
+/project/quantiphyse-dsc/, quantiphyse-dsc, 0.9.2, Quantiphyse plugin for DSC-MRI data, 2020-02-12T12:41:52+0000
+/project/django-asutheme/, django-asutheme, 0.2.7, Base templates for Django that adhere to ASU Web Standards., 2017-01-13T23:11:07+0000
+/project/avery/, Avery, 0.1.0, Miscellaneous packages, 2014-12-15T13:51:48+0000
+/project/rampedpyrox/, rampedpyrox, 1.0.3, Ramped PyrOx kinetic and isotope analysis, 2020-07-25T17:44:25+0000
+/project/tsnn/, tsnn, 0.1.3, Time Series Neural Networks (Keras wrapper), 2017-11-08T09:17:26+0000
+/project/getty-getter/, Getty-Getter, 0.0a, Getty ULAN scraping utilities, 2016-12-08T23:08:22+0000
+/project/nengo-ocl/, nengo-ocl, 2.1.0, OpenCL-based simulator for Nengo neural models, 2020-11-23T21:03:15+0000
+/project/transfabric/, TransFabric, 1.0, TransFabric Parser, 2013-05-17T17:55:22+0000
+/project/colorweave/, colorweave, 0.3.2, Extract dominant colors from an image as a color palette, 2015-04-09T10:48:47+0000
+/project/oxasl-deblur/, oxasl-deblur, 0.0.7.post4, Python implementation of ASL deblurring algorithm, 2021-04-08T19:03:04+0000
+/project/django-jet-reboot/, django-jet-reboot, 1.1.1, Modern template for Django admin interface with improved functionality, 2020-12-28T19:55:55+0000
+/project/nengo-extras/, nengo-extras, 0.4.0, Lesser used features for the Nengo neural simulator, 2019-11-16T00:35:45+0000
+/project/mpymodcore/, mpymodcore, 0.0.19, mpymodcore, 2020-12-12T05:29:25+0000
+/project/synthego-ice/, synthego-ice, 1.2.0, Synthego - Inference of CRISPR Edits (ICE), 2019-11-22T23:48:03+0000
+/project/gwip/, gwip, 1.0.0, An automatic genome-wide imputation pipeline., 2015-04-30T19:54:11+0000
+/project/easytf/, easytf, 13.9, Tensorflow CS, 2017-12-18T23:57:45+0000
+/project/crocpy3/, CROCpy3, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2019-04-19T11:18:50+0000
+/project/quantiphyse-deeds/, quantiphyse-deeds, 0.8.dev7, Quantiphyse plugin for DEEDS registration method, 2020-04-06T06:41:18+0000
+/project/geobases3k/, GeoBases3K, 5.0.16, Data services and visualization - Python 3 version, 2013-05-13T09:27:10+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/automlsa2/, automlsa2, 0.7.1, Automated Multi-Locus Sequence Analysis tool, 2021-04-07T18:28:22+0000
+/project/geobases/, GeoBases, 5.0.16, Data services and visualization, 2013-05-13T09:23:30+0000
+/project/r-django-jet/, r-django-jet, 2.0.9, Modern template for Django admin interface with improved functionality, 2020-09-24T18:12:05+0000
+/project/eliservices-ga/, eliservices-ga, 0.1.0, Library containing functions for working with the ogn-network., 2021-04-20T16:06:55+0000
+/project/csfunctions/, CSFunctions, 3.7, CS Functions, 2018-04-09T11:00:28+0000
+/project/ckipneutools/, ckipneutools, 0.0.11, DEPRECATED, please shift to install and import 'ckiptagger', 2019-08-26T12:26:57+0000
+/project/jiten/, jiten, 1.0.0, japanese cli&web dictionary based on jmdict/kanjidic, 2021-02-20T16:09:33+0000
+/project/pyxmahjongg/, pyxmahjongg, 0.2.5, The classic UNIX xmahjongg for Python 3, 2017-04-14T12:59:17+0000
+/project/il2ds-middleware/, il2ds-middleware, 0.10.3, High-level access to IL-2 FB Dedicated Server., 2014-06-24T16:30:27+0000
+/project/quantiphyse-asl/, quantiphyse-asl, 0.9.2.post3, Quantiphyse plugin for ASL-MRI data, 2020-06-18T14:25:48+0000
+/project/oxasl-mp/, oxasl-mp, 2.0.1, Python library for modelling multiphase ASL data, 2019-12-13T14:42:36+0000
+/project/oxasl-surfpvc/, oxasl-surfpvc, 0.0.2.post6, OXASL plugin for surface-based partial volume correction, 2020-10-02T18:35:34+0000
+/project/burst-detection/, burst_detection, 0.1.3, Detect bursts in batched data using Kleinbergs (2002) algorithm., 2018-01-05T05:37:42+0000
+/project/croc/, CROC, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2014-07-23T20:57:17+0000
+/project/plotoptix/, plotoptix, 0.13.3, Data visualisation in Python based on NVIDIA OptiX ray tracing framework., 2021-03-08T10:37:31+0000
+/project/quantiphyse-sv/, quantiphyse-sv, 0.9.1.post1, Quantiphyse plugin for supervoxel clustering, 2019-08-12T10:44:25+0000
+/project/sirad/, sirad, 0.3.1, Secure Infrastructure for Research with Administrative Data, 2020-09-24T18:56:21+0000
+/project/oxasl-multite/, oxasl-multite, 0.3.0, Python library for modelling multi-TE ASL data, 2020-02-04T16:09:08+0000
+/project/nengo-spa/, nengo-spa, 1.2.0, An implementation of the Semantic Pointer Architecture for Nengo, 2020-11-15T19:48:15+0000
+/project/brillixy/, brillixy, 0.6.1, Customizations for Django admin interface., 2013-04-07T08:30:42+0000
+/project/bbbmon/, bbbmon, 0.1.32, A small CLI utility to monitor bbb usage, 2020-06-10T15:01:27+0000
+/project/pboost/, pboost, 0.5.4, Parallel Implementation of Boosting Algorithms with MPI., 2016-02-26T16:04:35+0000
+/project/basepair/, basepair, 1.7.0, Python client for Basepair's API, 2021-04-13T13:29:26+0000
+/project/xp-scenery-organizer/, xp-scenery-organizer, 0.0.1, A small package to organizer the X-plane's scenery_packs.ini file, 2020-10-19T01:59:31+0000
+/project/cardisort/, cardisort, 0.1.1, Cardiac MR DICOM sorting, 2020-06-17T16:00:14+0000
+/project/django-jet/, django-jet, 1.0.8, Modern template for Django admin interface with improved functionality, 2018-10-18T06:34:50+0000
+/project/flask-jwt-trivial/, flask-jwt-trivial, 0.0.3, Pre-alpha, do not use. Provides Flask with *very basic* JavaScript Web Tokens, 2020-07-04T17:40:34+0000
+/project/pybiomaps/, PyBioMaps, 0.1.0, PyBioMaps is a framework to manage and visualize scientific data in a browser., 2012-04-04T15:45:49+0000
+/project/readerlib/, readerlib, 1.0, A binding for open().read() that provides the ability to read a few letters or more., 2012-08-07T15:43:35+0000
+/project/django-jet-new/, django-jet-new, 2.2.8, Modern template for Django admin interface with improved functionality, 2020-02-08T20:29:23+0000
+/project/aquachain-kv/, aquachain-kv, 0.0.1, Aquachain GUI wallet, 2018-06-21T10:35:02+0000
+/project/ies/, IES, 1.0.7, iPIPA, 2018-12-19T05:23:32+0000
+/project/quantiphyse-t1/, quantiphyse-t1, 0.9.1, Quantiphyse plugin for Bayesian T1 mapping, 2019-08-12T10:45:21+0000
+/project/rsq/, rsq, 2.0.2, Python Package for RNA structurome quantification analysis., 2015-03-19T20:20:34+0000
+/project/pytetris/, pytetris, 1.0.0, tetris game with ai made by pygame, 2020-06-06T11:20:37+0000
+/project/pygmidi/, pygmidi, 4.0.1, Python General MIDI representation for symbolic music data analysis, 2021-04-10T18:51:33+0000
+/project/keras-spiking/, keras-spiking, 0.2.0, Spiking neuron integration for Keras, 2021-02-18T15:41:57+0000
+/project/metmap/, metmap, 1.0.4, A tool for generating DNA MTase motif testing sequences, 2018-12-17T13:23:20+0000
+/project/chunkfile/, chunkfile, 1.0.0b2, A file-like interface backed by multiple smaller files., 2017-05-27T22:43:45+0000
+/project/summarizer4u/, summarizer4u, 0.3.7, Get your text summarized, 2020-03-03T10:28:42+0000
+/project/triadb/, triadb, 0.9.0, TRIADB - Self-Service Data Management and Analytics Framework, 2019-10-24T11:36:38+0000
+/project/ngslib/, ngslib, 1.1.20, Python Modules for Next-Generation Sequencing Data Analysis., 2017-05-31T14:22:08+0000
+/project/nengo/, nengo, 3.1.0, Tools for building and simulating large-scale neural models, 2020-11-17T22:16:17+0000
+/project/skanetrafiken/, skanetrafiken, 2.2.0, Python wrapper for Skanetrafiken Open API, 2019-03-16T20:49:56+0000
+/project/pvshepherd/, pvshepherd, 0.9.9, Shepherd, 2021-04-19T23:36:45+0000
+/project/image-classifier-3d/, image-classifier-3d, 0.1.2, Python package for building 3d image classifier                  using deep neural networks, 2020-09-16T16:23:09+0000
+/project/suit-mailfactory/, suit_mailfactory, 028.011.0, django-mailfactory support for django-suit, 2014-06-09T12:17:08+0000
+/project/minpubsub/, minpubsub, 0.3, A minimal PubSub messaging model with multiple persistence options - SQLite, MySQL, MongoDB, 2015-04-09T10:36:00+0000
+/project/pyboy/, pyboy, 1.4.1, , 2021-03-31T13:19:52+0000
+/project/komiker/, komiker, 1.0.9, Tutorial komiker-py: https://m.youtube.com/watch?v=wmlFLnWmaa0, 2021-02-28T19:51:32+0000
+/project/genipe/, genipe, 1.5.0, An automatic genome-wide imputation pipeline., 2021-02-11T17:03:31+0000
+/project/confargparse/, ConfArgParse, 1.1.20, An integrated argument/configuration file parser that follows the syntax of argparser, 2015-03-21T06:06:34+0000
+/project/quantiphyse-perfsim/, quantiphyse-perfsim, 0.0.2.post12, Quantiphyse plugin for simulating perfusion data, 2021-01-06T13:51:50+0000
+/project/soco-tokenizer/, soco-tokenizer, 1.2, Fast tokenizer, 2021-04-15T04:16:01+0000
+/project/ucis4eq/, ucis4eq, 0.0.20, , 2021-03-26T08:27:09+0000
+/project/pygridgain/, pygridgain, 1.3.1, GridGain binary client Python API, 2021-04-12T16:24:34+0000
+/project/upsetjs-jupyter-widget/, upsetjs-jupyter-widget, 1.9.0, UpSet.js is a re-implementation of UpSetR to create interactive set visualizations for more than three sets, 2021-02-17T18:26:00+0000
+/project/rngslib/, rngslib, 1.0.0, Python Modules for Next-Generation Sequencing Data Analysis., 2016-02-12T21:58:28+0000
+/project/jni/, jni, 1.0.0b17, Python bridge for the Java Native Interface., 2020-11-10T20:05:28+0000
+/project/nengo-bones/, nengo-bones, 0.11.1, Tools for managing Nengo projects, 2020-04-13T16:41:29+0000
+/project/aggregategithubcommits/, aggregateGithubCommits, 3.20200806, aggregateGithubCommits: Aggregate Github commit count by author and time., 2020-08-05T06:29:32+0000
+/project/selenium-update/, selenium-update, 0.0.0, Automate Selenium webdriver dependency set up, 2020-08-09T10:21:26+0000
+/project/labmath/, labmath, 1.2.0, Module for basic math in the general vicinity of computational number theory, 2018-11-18T21:23:30+0000
+/project/mpymodcore-watering/, mpymodcore-watering, 0.0.9, mpymodcore, 2020-12-12T05:32:22+0000
+/project/geneparse/, geneparse, 0.8.1, A suite of parse for genotype formats., 2020-08-21T20:23:31+0000
+/project/txinvoke/, txinvoke, 0.1.0, Run inline callbacks from Twisted as Invoke tasks, 2015-04-07T06:07:51+0000
+/project/capitalism/, Capitalism, 0.2.50, A module for dispatching jobs, 2019-07-24T06:27:48+0000
+/project/viphoneme/, viphoneme, 2.0.1, Python package for convert text to phoneme ipa, use for cross language embedding Text-to-speech Reseach, 2020-12-25T03:37:15+0000
+/project/aicsimageprocessing/, aicsimageprocessing, 0.7.5, A generalized scientific image processing module from the Allen Institute for Cell Science., 2020-08-25T16:28:23+0000
+/project/deltalanguage/, deltalanguage, 0.6.0, Hosted programming language for Deltaflow, 2021-04-01T14:28:51+0000
+/project/ibpy-native/, ibpy-native, 1.0.5, Implementation of the native Python version of IB API, 2021-04-06T16:56:29+0000
+/project/pyazdvops/, pyazdvops, 1.0.4, Library for Azure DevOps API for Python, 2019-10-17T06:34:52+0000
+/project/prost/, prost, 0.7.60, An application to quantify and annotate miRNA expression., 2019-08-30T00:29:34+0000
+/project/suit-guardian/, suit_guardian, 028.120.0, django-guardian support for django-suit, 2014-06-09T11:55:49+0000
+/project/crapsim/, CrApsim, 0.0.1a0, Creates Apsim-Project files from given parameters and files., 2017-07-31T20:33:36+0000
+/project/vmine/, vmine, 1.0.0.1, , 2019-04-16T04:08:41+0000
+/project/pycircos/, pycircos, 1.0.2, This Tools is Design for NGS Circos Plot with using Python., 2019-12-12T02:46:55+0000
+/project/isotopylog/, isotopylog, 0.0.5, Clumped isotope kinetic analysis, 2020-08-28T13:05:08+0000
+/project/exmatrix/, exmatrix, 0.1.1, A Python package to the ExMatrix method, supporting Random Forest models interpretability., 2021-04-18T22:04:14+0000
+/project/deltasimulator/, deltasimulator, 0.6.0, Runs Deltaflow programs on virtual platforms, 2021-04-09T11:41:14+0000
+/project/jvm/, jvm, 0.5.0b3, Python bridge for the Java Virtual Machine., 2020-12-13T20:54:47+0000
+/project/pytorch-spiking/, pytorch-spiking, 0.1.0, Spiking neuron integration for PyTorch, 2020-09-09T15:28:07+0000
+/project/breakwater/, breakwater, 1.0, A package for the conceptual design of breakwaters, 2020-07-20T18:24:03+0000
+/project/asamba/, asamba, 1.0.8, Python interface to peform asteroseismic modelling with the asamba grid, 2017-06-21T10:55:59+0000
+/project/aicssegmentation/, aicssegmentation, 0.1.22, Part 1 of Allen Cell and Structure Segmenter, 2021-02-18T22:44:01+0000
+/project/soco-mrc/, soco-mrc, 0.0.9, Neural machine reading comprehension models, 2020-11-22T03:27:53+0000
+/project/c6/, c6, 0.4.0, A toy center-based model of initial clustering, 2020-05-21T19:13:28+0000
+/project/ncshunter/, ncshunter, 0.1.0, Python Modules for Next-Generation Sequencing Data Analysis., 2015-10-21T15:55:06+0000
+/project/petgem/, petgem, 0.9, Parallel python code for electromagnetic modeling in geophysics using high-order nédélec finite elements, 2020-11-26T14:24:34+0000
+/project/maskslic/, maskslic, 0.3.3, Simple linear iterative clustering (SLIC) in a region of interest (ROI), 2019-07-09T12:58:26+0000
+/project/dupliganger/, dupliganger, 0.991, A reference-based, UMI-aware, 5ʹ-trimming-aware PCR duplicate removal pipeline., 2020-08-17T14:51:36+0000
+/project/django-suit-redactor-django2/, django-suit-redactor-django2, 0.5.1, Imperavi Redactor (WYSIWYG editor) integration app for Django admin. http://imperavi.com/redactor/, 2020-02-19T18:39:04+0000
+/project/quantiphyse-dce/, quantiphyse-dce, 0.9.2, Quantiphyse plugin for DCE-MRI data, 2020-04-17T10:36:17+0000
+/project/ask-for-password/, ask-for-password, 0.0.3, A GUI interface to get an user and a password list as [user,pass]., 2019-07-24T05:17:10+0000
+/project/pysight/, pysight, 0.12.2, Create images and volumes from photon lists generated by a multiscaler, 2020-12-20T10:20:15+0000
+/project/mtfit/, MTfit, 1.0.5, MTfit: Bayesian Moment Tensor Inversion Code, 2018-08-30T23:28:03+0000
+/project/oxasl-enable/, oxasl-enable, 0.0.2.post2, Python implementation of the ENABLE quality-based volume selection algorithm for ASL-MRI data, 2019-06-10T10:42:44+0000
+/project/hdpwordseg/, hdpwordseg, 1.1.9, HDP Word Segmentor, 2015-06-08T15:06:26+0000
+/project/cifrazia-django-jet/, cifrazia-django-jet, 1.1.4, Django-jet fork with Django@3.0+ support, 2021-04-21T12:46:56+0000
+/project/metonym/, metonym, 0.2, Getting better path similarity measures from wordnet by graphing the synsets, 2012-02-07T19:12:22+0000
+/project/genesis-sdk/, GeNESiS-SDK, 0.1.24, , 2019-12-10T14:34:44+0000
+/project/geobasespypy/, GeoBasesPypy, 5.0.16, Data services and visualization - Pypy version, 2013-05-13T09:25:55+0000
+/project/soco-doc-parser-python/, soco-doc-parser-python, 0.0.3, Python SDK for using SOCO platform, 2020-02-23T02:25:28+0000
+/project/fouriertransform/, fouriertransform, 0.0.8, FT-ICR MS peak assignment and data analysis, 2018-05-25T14:08:29+0000
+/project/mitywgs/, mitywgs, 0.2.1, A sensitive Mitochondrial variant detection pipeline from WGS data, 2021-02-05T21:23:07+0000
+/project/libzt/, libzt, 1.3.4b1, ZeroTier, 2021-03-18T01:15:49+0000
+/project/geobasesdev/, GeoBasesDev, 5.0.0, Data services and visualization - development version, 2013-03-13T15:52:50+0000
+/project/quantiphyse-qbold/, quantiphyse-qbold, 0.9.1, Quantiphyse plugin for qBOLD-MRI data, 2019-08-12T10:42:25+0000
+/project/ribotish/, ribotish, 0.2.7, Python Modules for Riboseq data analysis., 2021-04-14T03:25:59+0000
+/project/aicsshparam/, aicsshparam, 0.1.1, Spherical harmonics parametrization for 3D starlike shapes, 2021-03-05T05:31:10+0000
+/project/pxpy/, pxpy, 1.0a68, discrete pairwise undirected graphical models, 2021-03-29T20:01:57+0000
+/project/tgshg/, tgshg, 1.0.1, A test small example package, 2019-03-19T03:54:48+0000
+/project/nengo-gui/, nengo-gui, 0.4.7, Web-based GUI for building and visualizing Nengo models., 2020-11-24T21:09:04+0000
+/project/nengo-dl/, nengo-dl, 3.4.0, Deep learning integration for Nengo, 2020-11-27T02:19:49+0000
+/project/rumor-tools/, rumor-tools, 0.0.2.dev1, A simple rumor detection lib for python, 2018-04-27T13:32:12+0000
+/project/roiwidgets/, ROIWidgets, 0.1.10, IPython notebook Region of Interest widgets, 2014-12-18T20:08:51+0000
+/project/industrialucn/, industrialucn, 0.1.7.2, Generic tool for numerical experiments, 2020-10-03T18:16:19+0000
+/project/blanksort/, blanksort, 0.0.8, The Python package for the BlankSort keyword extraction algorithm., 2020-09-30T18:45:41+0000
+/project/pycloudy/, pyCloudy, 0.9.10, Tools to manage Astronomical Cloudy photoionization code, 2020-07-03T19:24:06+0000
+/project/aicscytoparam/, aicscytoparam, 0.1.2, Cytoplasm parameterization using spherical harmonics, 2021-02-12T23:20:59+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/quantiphyse-fsl/, quantiphyse-fsl, 0.9.2.post2, Quantiphyse plugin for FSL command line tools, 2020-07-06T10:44:02+0000
+/project/oxasl-ve/, oxasl-ve, 0.1.1.post2, Python library for manipulating and modelling ASL data, 2019-08-07T12:14:53+0000
+/project/neurocurator/, neurocurator, 0.4.4, Application to perform curation of neuroscientific literature., 2018-07-20T13:58:12+0000
+/project/topoly/, topoly, 0.9.12, This package provides a set of tools for modeling protein knots, lassos and other., 2021-04-14T15:25:29+0000
+/project/one-lin3r/, one-lin3r, 2.1, One-Lin3r is simple modular and light-weight framework gives you all the one-liners that you will need while penetration testing (Windows, Linux, macOS or even BSD systems) or hacking generally with a lot of new features to make all of this fully automated (ex: you won't even need to copy the one-liners)., 2020-03-26T21:00:18+0000
+/project/gtic/, gtic, 1.0.1, General Takeuchi Information Criterion, 2017-08-01T19:47:10+0000
+/project/fishtaco/, FishTaco, 1.1.4, FishTaco: a metagenomic computational framework, aiming to identify the taxa that are driving functional shifts in microbiomes., 2020-11-06T00:16:16+0000
+/project/lmu/, lmu, 0.3.0, LMU metapackage for installing various LMU implementations, 2020-11-07T00:09:08+0000
+/project/actk/, actk, 0.2.2, Automated Cell Toolkit, 2020-12-15T19:44:51+0000
+/project/dorkbot/, dorkbot, 0.2.3, Command-line tool to scan search results for vulnerabilities, 2020-05-01T16:15:58+0000
+/project/genetest/, genetest, 0.5.0, A package to process and analyze genotypic and phenotypic data., 2019-02-28T14:29:12+0000
+/project/nuscenes-devkit/, nuscenes-devkit, 1.1.5, The official devkit of the nuScenes dataset (www.nuscenes.org)., 2021-04-20T10:25:49+0000
+/project/cuebeam/, cueBeam, 0.0.1, Simple acoustic interference and beam forming simulation based on Huygens principle, 2017-05-22T15:45:02+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/ask-for-color/, ask-for-color, 0.1.3, A GUI interface to get from the user a color string in RGB system., 2019-08-21T05:13:12+0000
+/project/data-pipelines/, data-pipelines, 0.1.0, Data Pipelines Framework, 2018-07-01T14:40:36+0000
+/project/soco-core-python/, soco-core-python, 0.14.5, Python SDK for using SOCO platform, 2020-07-01T06:00:01+0000
+/project/django-slick/, django-slick, 0.3.0, Slick responsive theme for Django admin., 2020-03-11T16:18:27+0000
+/project/django-jet-opt/, django-jet-opt, 1.0.8, Modern template for Django admin interface with improved functionality, 2019-07-07T10:03:32+0000
+/project/get-assemblies/, get-assemblies, 0.8.1, NCBI E-utilities wrapper for assembly downloads, 2020-11-13T23:32:05+0000
+/project/pyprintflow2/, pyprintflow2, 2.5.10, Manage integration of Noosh and Cumulus to provide integrated print project management, 2014-04-04T16:24:27+0000
+/project/nldsl/, nldsl, 0.15.4, A DSL for data science with a syntax similar to a natural language., 2019-12-18T19:12:42+0000
+/project/pyprt/, PyPRT, 1.2.0, Python bindings for the "Procedural Runtime" (PRT) of CityEngine by Esri., 2020-11-30T15:08:29+0000
+/project/mbin/, mbin, 1.1.1, mBin: a methylation-based binning framework for metagenomic SMRT sequencing reads, 2018-03-20T23:43:20+0000
+/project/django-3-jet-zupit/, django-3-jet-zupit, 1.1.0, Modern template for Django-3 admin interface with improved functionality, 2020-09-18T08:23:14+0000
+/project/tx-logging/, tx-logging, 1.0.0, Extends Twisted log facilities., 2014-03-19T09:31:51+0000
+/project/django-3-jet/, django-3-jet, 1.0.8, Modern template for Django admin interface with improved functionality, 2020-02-27T11:30:22+0000
+/project/videoanalysis/, VideoAnalysis, 0.1.7, Widgets for analysis of worm videos, 2014-12-18T21:10:35+0000
+/project/quantiphyse-fabber/, quantiphyse-fabber, 0.9.1.post1, Quantiphyse plugin for Fabber Bayesian modelling tool, 2020-01-24T10:09:55+0000
+/project/quantiphyse-qbold/, quantiphyse-qbold, 0.9.1, Quantiphyse plugin for qBOLD-MRI data, 2019-08-12T10:42:25+0000
+/project/ribotish/, ribotish, 0.2.7, Python Modules for Riboseq data analysis., 2021-04-14T03:25:59+0000
+/project/slidegrubber/, slidegrubber, 2.7, Back up your SlideShare presentations to PDF., 2019-03-10T12:07:39+0000
+/project/nengo-loihi/, nengo-loihi, 1.0.0, Run Nengo models on the Loihi chip, 2021-01-21T16:27:52+0000
+/project/custom-jet/, custom-jet, 1.0.7, , 2021-04-08T19:27:01+0000
+/project/ehownet/, ehownet, 3.0.1, E-HowNet Utilities, 2021-01-26T07:02:03+0000
+/project/laser-ethereum/, laser-ethereum, 0.17.12, Symbolic Ethereum virtual machine, 2018-05-23T08:45:28+0000
+/project/monpa/, monpa, 0.3.2, MONPA is an end-to-end model to jointly conduct Chinese word segmentation, POS and NE labeling, 2020-11-02T09:49:47+0000
+/project/pymaclab/, pymaclab, 0.95.9, The Python Macroeconomics Laboratory, 2012-12-16T08:36:02+0000
+/project/parterre/, Parterre, 1.4.1, A set of variants for the Parlance Diplomacy Framework., 2009-08-30T01:55:02+0000
+/project/quantiphyse-cest/, quantiphyse-cest, 0.9.1, Quantiphyse plugin for CEST-MRI data, 2019-08-12T10:47:45+0000
+/project/flask-jsonapi-trivial/, flask-jsonapi-trivial, 0.2.5, Provides Flask with *very basic* JSONAPI.org compliance, 2020-07-04T13:57:27+0000
+/project/rs-django-jet/, rs-django-jet, 1.0.10, Fork of django-jet with Reckonsys customizations, 2019-02-16T07:14:50+0000
+/project/neurocurator/, neurocurator, 0.4.4, Application to perform curation of neuroscientific literature., 2018-07-20T13:58:12+0000
+/project/topoly/, topoly, 0.9.12, This package provides a set of tools for modeling protein knots, lassos and other., 2021-04-14T15:25:29+0000
+/project/one-lin3r/, one-lin3r, 2.1, One-Lin3r is simple modular and light-weight framework gives you all the one-liners that you will need while penetration testing (Windows, Linux, macOS or even BSD systems) or hacking generally with a lot of new features to make all of this fully automated (ex: you won't even need to copy the one-liners)., 2020-03-26T21:00:18+0000
+/project/gtic/, gtic, 1.0.1, General Takeuchi Information Criterion, 2017-08-01T19:47:10+0000
+/project/fishtaco/, FishTaco, 1.1.4, FishTaco: a metagenomic computational framework, aiming to identify the taxa that are driving functional shifts in microbiomes., 2020-11-06T00:16:16+0000
+/project/lmu/, lmu, 0.3.0, LMU metapackage for installing various LMU implementations, 2020-11-07T00:09:08+0000
+/project/actk/, actk, 0.2.2, Automated Cell Toolkit, 2020-12-15T19:44:51+0000
+/project/dorkbot/, dorkbot, 0.2.3, Command-line tool to scan search results for vulnerabilities, 2020-05-01T16:15:58+0000
+/project/genetest/, genetest, 0.5.0, A package to process and analyze genotypic and phenotypic data., 2019-02-28T14:29:12+0000
+/project/nuscenes-devkit/, nuscenes-devkit, 1.1.5, The official devkit of the nuScenes dataset (www.nuscenes.org)., 2021-04-20T10:25:49+0000
+/project/bocks-ds/, bocks-ds, 0.2.1, DataSource Python SDK, 2020-04-14T18:21:53+0000
+/project/d3r/, d3r, 1.12.0, Drug Design Data Resource CELPP Runner is an application to run the filtering, docking, and evaluation of new sequences from wwpdb, 2019-08-16T20:33:06+0000
+/project/microscope-automation/, microscope-automation, 0.3.4, Automation software for the AICS Microscopes., 2021-03-19T23:52:14+0000
+/project/bcc2to/, bcc2to, 0.4.0rc2, Posfix plugin for individual list mail delivering, 2016-07-13T08:11:58+0000
+/project/nighthtr-django-3-jet/, nighthtr-django-3-jet, 1.0.8, Modern template for Django-3 admin interface with improved functionality, 2020-05-16T20:38:33+0000
+/project/pypf3/, pypf3, 3.0.3, Manage integration of Noosh and Cumulus to provide integrated print project management, 2014-08-15T14:03:50+0000
+/project/lj/, lj, 0.2, Python realization of LiveJournal (LJ) API.Checkout https://github.com/daniilr/python-lj for more info, 2016-01-05T05:39:02+0000
+/project/openbayes/, OpenBayes, 0.1.0, An OpenSource Python implementation of bayesian networks inspired by BNT., 2006-04-11T12:14:57+0000
+/project/limlearn/, limlearn, 1.0.0, Limit of Learning, 2017-08-03T02:50:55+0000
+/project/bm3d/, bm3d, 3.0.8, BM3D for correlated noise., 2021-02-02T00:24:42+0000
+/project/zeoliteclusterizer/, zeoliteclusterizer, 0.1.1, A python module built for rapid computational screening of catalysts on rigid structures, 2017-06-06T22:36:37+0000
+/project/keras-lmu/, keras-lmu, 0.3.1, Keras implementation of Legendre Memory Units, 2020-11-16T21:44:00+0000
+/project/datamart-geo/, datamart-geo, 0.2.1, Geographical location data, 2021-02-20T03:57:22+0000
+/project/dnnnlp/, dnnnlp, 1.1.4, Deep Neural Networks for Natural Language Processing classification or sequential task written by PyTorch., 2019-10-29T07:50:06+0000
+/project/dictionaryapi/, DictionaryAPI, 0.1.0, The Merriam-Webster Dictionary API, 2018-11-20T08:56:53+0000
+/project/wyze-sdk/, wyze-sdk, 1.0.1, The Wyze Labs API Platform SDK for Python., 2021-04-23T12:29:58+0000
+/project/yt-videos-list/, yt-videos-list, 0.5.5, YouTube bot to make a YouTube videos list (including all video titles and URLs uploaded by a channel) with end-to-end web scraping - no API tokens required. 🌟 Star this repo if you found it useful! 🌟, 2021-04-26T00:41:23+0000
+/project/django-jet-nwmqpa/, django-jet-nwmqpa, 1.0.8, Modern template for Django admin interface with improved functionality, 2019-12-06T13:57:31+0000
+/project/pi-touch-gui/, pi-touch-gui, 0.3.8, A graphic UI optimized for touch screens, 2021-03-04T20:25:45+0000
+/project/aics-tf-registration/, aics-tf-registration, 0.1.1, Rigid registration algorithm for generating training/testing data for transfer function model, 2020-11-23T04:25:55+0000
+/project/meshpy/, MeshPy, 2020.1, Triangular and Tetrahedral Mesh Generator, 2020-11-13T21:10:23+0000
+/project/titelouze/, Titelouze, 0.1.2, Framework to easily build LilyPond books., 2012-07-05T00:44:24+0000
+/project/yars/, YARS, 1.0, Yet Another RSS downloader, 2010-08-14T17:30:37+0000
+/project/django-translatable-fields/, django-translatable-fields, 0.0.1, Translatable model fields for Django with admin integration, 2018-03-08T15:20:21+0000
+/project/sepmodules/, SEPModules, 0.1.1, SEPModules provides a handful of modules to aid in speeding up the production of small or medium-sized scripts., 2021-04-07T18:25:08+0000
+/project/slidegrubber/, slidegrubber, 2.7, Back up your SlideShare presentations to PDF., 2019-03-10T12:07:39+0000
+/project/nengo-loihi/, nengo-loihi, 1.0.0, Run Nengo models on the Loihi chip, 2021-01-21T16:27:52+0000
+/project/custom-jet/, custom-jet, 1.0.7, , 2021-04-08T19:27:01+0000
+/project/ehownet/, ehownet, 3.0.1, E-HowNet Utilities, 2021-01-26T07:02:03+0000
+/project/laser-ethereum/, laser-ethereum, 0.17.12, Symbolic Ethereum virtual machine, 2018-05-23T08:45:28+0000
+/project/monpa/, monpa, 0.3.2, MONPA is an end-to-end model to jointly conduct Chinese word segmentation, POS and NE labeling, 2020-11-02T09:49:47+0000
+/project/pymaclab/, pymaclab, 0.95.9, The Python Macroeconomics Laboratory, 2012-12-16T08:36:02+0000
+/project/parterre/, Parterre, 1.4.1, A set of variants for the Parlance Diplomacy Framework., 2009-08-30T01:55:02+0000
+/project/quantiphyse-cest/, quantiphyse-cest, 0.9.1, Quantiphyse plugin for CEST-MRI data, 2019-08-12T10:47:45+0000
+/project/flask-jsonapi-trivial/, flask-jsonapi-trivial, 0.2.5, Provides Flask with *very basic* JSONAPI.org compliance, 2020-07-04T13:57:27+0000
+/project/rs-django-jet/, rs-django-jet, 1.0.10, Fork of django-jet with Reckonsys customizations, 2019-02-16T07:14:50+0000

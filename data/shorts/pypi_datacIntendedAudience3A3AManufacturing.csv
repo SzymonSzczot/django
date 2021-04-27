@@ -1,0 +1,870 @@
+/project/times2/, times2, 0.8, Times2 is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2015-10-26T15:10:11+0000
+/project/vivid-root/, vivid-root, 0.0.1, Algorithm Classification Catalog, 2019-10-19T16:15:12+0000
+/project/imprint/, imprint, 0.1a1, Program for creating MS Word reports from data and content templates, 2019-04-03T23:44:26+0000
+/project/vg/, vg, 1.9.0, Linear algebra for humans: a very good vector-geometry and linear-algebra toolbelt, 2020-06-04T21:15:03+0000
+/project/html-reports/, html-reports, 0.2.0, Module to create static html reports, 2021-01-02T12:08:34+0000
+/project/pypdx/, pypdx, 0.0.1b3, Extract information from a PDX XML file into a SQLite or PostgreSQL database, 2018-01-31T00:09:54+0000
+/project/gnuhealth-webdav3-server/, gnuhealth-webdav3-server, 3.8.0, GNU Health WebDAV server for Python 3, 2021-02-14T20:48:15+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/trytond-sugarcrm/, trytond_sugarcrm, 2.6.1.0, SugarCRM Integration, 2013-06-19T12:28:59+0000
+/project/qtpyvcp/, qtpyvcp, 0.3.12, Qt and Python based Virtual Control Panel framework for LinuxCNC., 2021-02-10T20:49:02+0000
+/project/pyqalx/, pyqalx, 0.14.2, High-level interfaces to the qalx API, 2020-11-10T16:44:12+0000
+/project/trytond-stock-lot-unit/, trytond-stock-lot-unit, 5.8.1, Tryton module to define unit on stock lot, 2021-01-01T15:40:55+0000
+/project/pycm/, pycm, 3.1, Multi-class confusion matrix library in Python, 2021-03-11T15:52:20+0000
+/project/intercom/, Intercom, 0.2.3, Messaging system for Home automation, 2014-02-27T15:50:13+0000
+/project/python-sudeste/, python_sudeste, 0.1.8, Módulo informativo do evento: PythonSudeste 2018, 2018-03-03T16:10:09+0000
+/project/trytond-ebay/, trytond_ebay, 3.4.8.1, eBay Integration, 2015-06-10T04:17:53+0000
+/project/simplecv/, SimpleCV, 1.3, Make Computers See with SimpleCV, the Python Framework for Machine Vision, 2012-08-10T20:42:41+0000
+/project/trytond-nereid-image-transformation/, trytond_nereid_image_transformation, 4.0.0.1, Nereid Dynamic Image Resizing and transformation module, 2016-08-17T07:33:27+0000
+/project/tolliver/, tolliver, 0.1b, An application for dialing in CNC hole tolerances, 2016-07-11T06:18:21+0000
+/project/dash-auth/, dash-auth, 1.4.1, Dash Authorization Package., 2020-08-11T19:44:37+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/nidigital/, nidigital, 1.0.0, NI-Digital Pattern Driver Python API, 2021-03-02T15:58:56+0000
+/project/hdbcli/, hdbcli, 2.8.16, SAP HANA Python Client, 2021-04-20T15:08:27+0000
+/project/jobmanager-client/, jobmanager-client, 0.14.3, Job Manager Client, 2018-07-24T23:42:07+0000
+/project/paretochart/, paretochart, 1.0, Pareto chart for python (similar to Matlab's, but much more flexible), 2013-09-05T20:14:19+0000
+/project/trytond-product-cost-history/, trytond-product-cost-history, 5.8.1, Tryton module to historize product cost, 2021-01-01T15:30:11+0000
+/project/copper/, copper, 0.9.1, Module for interacting with electromechanical systems., 2019-08-20T06:43:09+0000
+/project/vpalette/, vpalette, 2.0.1, Utility to easily use material design colors, 2020-05-10T08:19:06+0000
+/project/laudadriver/, LaudaDriver, 1.0.0a7, Simple helper to control the Lauda thermostat, 2017-05-22T13:46:44+0000
+/project/bscc/, bscc, 1.0.0, A shiphandling simulator interface for digital shipyard, 2020-01-14T17:34:20+0000
+/project/trytond-project/, trytond-project, 5.8.2, Tryton module with projects, 2021-03-03T17:29:32+0000
+/project/ctui/, ctui, 0.7.3, The ctui is a library similar to Python's cmd, but with a curses-like user interface, 2020-08-22T01:55:18+0000
+/project/dash-tokamak/, dash-tokamak, 1.6.0, Dash without the annoying bits. Main goals of this fork are (1) to enable Python to write state data to arbitrary component props, not just ones defined by a specific component; and (2) support React-style functional property values by binding unary functional expressions to the global application state, executing them whenever the property is accessed., 2019-11-13T20:05:20+0000
+/project/zplgen/, zplgen, 0.0.6, A library to aid in generating ZPL2 code., 2019-08-06T18:09:45+0000
+/project/wire-skin/, wire-skin, 0.3, Construct a simple skin around a wire frame mesh in Blender., 2019-11-05T03:09:34+0000
+/project/uspto-opendata-python/, uspto-opendata-python, 0.8.3, uspto-opendata-python is a client library for accessing the USPTO Open Data APIs, 2019-03-13T23:15:02+0000
+/project/quartet-vrs/, quartet_vrs, 1.1.8, A GS1-compliant VRS interface for the open-source EPCIS QU4RTET platform., 2020-02-04T17:18:58+0000
+/project/rafcon/, rafcon, 0.14.6, Develop your robotic tasks with hierarchical state machines using an intuitive graphical user interface, 2020-08-04T11:02:27+0000
+/project/v-time/, v-time, 1.2.0, Time related functions, 2019-12-22T08:36:47+0000
+/project/quartet-capture/, quartet_capture, 3.6.0, A capture and queuing interface for QU4RTET., 2021-03-22T19:33:01+0000
+/project/eaglepy/, eaglepy, 1.0.3, Read, modify, and create Cadsoft EAGLE files, 2014-08-08T22:04:40+0000
+/project/thermochem/, thermochem, 0.8.0, Python utilities for thermodynamics and thermochemistry, 2020-04-30T01:56:33+0000
+/project/fcmaesray/, fcmaesray, 0.1.3, A multi-node Python 3 gradient-free optimization library., 2020-08-24T16:29:34+0000
+/project/usbinfo/, usbinfo, 1.1.1, Module for introspecting USB devices on a system, 2018-11-20T00:24:48+0000
+/project/nist-nestor/, nist-nestor, 0.4.4, Quantifying tacit human knowledge for Smart Manufacturing Maintenance, for maintnenance-based investigatory analysis, 2020-09-30T19:21:32+0000
+/project/hightime/, hightime, 0.2.0, Hightime Python API, 2020-05-07T21:19:33+0000
+/project/nidaqmx/, nidaqmx, 0.5.7, NI-DAQmx Python API, 2017-12-14T21:15:14+0000
+/project/colorpage/, colorpage, 1.0.0, One aid used to colorful web page, books, etc., 2020-01-21T09:01:24+0000
+/project/jobmanager-api/, jobmanager-api, 0.13.10, Job Manager API, 2018-07-24T23:32:03+0000
+/project/ht/, ht, 1.0.1, Heat transfer component of Chemical Engineering Design Library (ChEDL), 2021-03-30T02:52:17+0000
+/project/django-epic/, django-epic, 0.4.7, A Django app to manage electronic parts inventories for PCB manufacturing., 2020-12-05T17:08:08+0000
+/project/vectorai/, vectorai, 0.2.5, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-01-22T15:55:16+0000
+/project/nisyscfg/, nisyscfg, 0.0.2, NI System Configuration Python API, 2020-12-14T08:12:52+0000
+/project/benker/, Benker, 0.5.2, Easily convert your CALS, HTML, Formex4, Office Open XML (docx) tables from one format to another., 2019-11-25T16:39:45+0000
+/project/trytonzz-sale-salesman/, trytonzz_sale_salesman, 3.4.0, Tryton module. Add salesman in sale, 2014-11-21T09:26:22+0000
+/project/vc2-bit-widths/, vc2-bit-widths, 1.0.0, Software for computing required bit widths for implementations of the SMPTE ST 2042-1 VC-2 professional video codec., 2021-03-24T10:40:40+0000
+/project/avbroadcast/, avbroadcast, 0.8.0, avbroadcast - republish media streams for mass consumption, 2019-03-25T11:12:59+0000
+/project/exoedge/, exoedge, 21.1.18, ExoEdge is the Python library for interacting with Exosite's ExoSense Industrial IoT Solution., 2021-01-18T16:18:53+0000
+/project/trytond-stock-lot/, trytond-stock-lot, 5.8.2, Tryton module for lot of products, 2021-01-01T15:40:33+0000
+/project/polliwog/, polliwog, 0.12.0, 2D and 3D computational geometry library which scales from prototyping to production, 2019-11-26T00:30:40+0000
+/project/mqttwarn/, mqttwarn, 0.20.0, mqttwarn - subscribe to MQTT topics and notify pluggable services, 2020-10-20T09:57:08+0000
+/project/ctmodbus/, ctmodbus, 0.5.3, A highly flexible Modbus tool made for penetration testers, 2021-03-01T09:23:12+0000
+/project/kiwiclient/, kiwiclient, 1.0.11, Client to the online version of ISC-Kiwi stability engine, 2018-07-31T09:14:43+0000
+/project/niscope/, niscope, 1.3.3, NI-SCOPE Python API, 2021-03-02T15:59:47+0000
+/project/printrun/, Printrun, 2.0.0rc7, Host software for 3D printers, 2020-09-06T12:00:22+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/v-palette/, v-palette, 1.1.0, Utility to easily use material design colors, 2019-04-02T16:45:24+0000
+/project/ereuse-desktop-app/, ereuse-desktop-app, 0.1, Desktop App, 2018-05-30T15:11:24+0000
+/project/marbles-core/, marbles.core, 0.12.1, A unittest extension that provides additional information on test failure, 2020-08-03T02:02:10+0000
+/project/pingo/, pingo, 0.2.0, Generic API to control boards with programmable IO pins., 2014-08-13T02:07:19+0000
+/project/rpi2caster/, rpi2caster, 2.5.0, Machine control software for Monotype composition casters, 2018-12-20T16:45:13+0000
+/project/biensoxe/, biensoxe, 0.8.5, Library to parse and validate Vietnamese vehicle plate, 2020-05-28T06:44:05+0000
+/project/kepconfig/, kepconfig, 1.0.0, SDK package for Kepware Configuration API, 2021-03-22T20:44:55+0000
+/project/epcpyyes/, EPCPyYes, 2.0.5, EPCIS Python module for quickly developing EPCIS-enabled applications., 2020-01-23T20:21:23+0000
+/project/htrest/, htrest, 0.1.10, Heliotherm heat pump REST API, 2021-01-30T16:35:13+0000
+/project/sitcpy/, sitcpy, 0.1.1, Python Library for SiTCP, 2019-04-26T07:48:01+0000
+/project/trytond-production-work/, trytond-production-work, 5.8.1, Tryton module for production work, 2021-01-01T15:31:06+0000
+/project/patzilla/, patzilla, 0.169.3, PatZilla is a modular patent information research platform and data integration toolkit. It features a modern user interface and access to multiple data sources., 2019-11-01T18:59:51+0000
+/project/pybotics/, pybotics, 1.0.0, Python Toolbox for Robotics, 2020-08-17T18:36:10+0000
+/project/pytire/, pytire, 0.3.0, Python library to handle tire attributes., 2021-03-14T23:47:48+0000
+/project/trytond-nereid-auth-linkedin/, trytond_nereid_auth_linkedin, 3.4.1.0, Nereid User Authentication using LinkedIn, 2015-05-13T09:02:43+0000
+/project/quartet-output/, quartet_output, 3.2.0, Output logic for QU4RTET supply chain messaging., 2020-12-02T22:15:27+0000
+/project/wltp/, wltp, 0.1.2a0, wltp: generate WLTC gear-shifts based on vehicle characteristics, 2019-06-05T20:15:45+0000
+/project/pyjazz/, pyjazz, 0.2.1.99, Official Python client for Jazz, 2018-03-11T21:19:35+0000
+/project/ustubby/, ustubby, 0.1.1, Micropython c stub generator, 2019-08-08T07:21:57+0000
+/project/strup/, strup, 1.0.0, A package for unpacking int, float, string and bool objects from a text string., 2020-10-24T13:10:48+0000
+/project/openlabs-nereid-s3/, openlabs_nereid_s3, 3.4.2.0, Amazon S3 backend for Nereid Static Files, 2015-07-11T11:08:01+0000
+/project/nimodinst/, nimodinst, 1.3.3, NI-ModInst Python API, 2021-03-02T15:59:27+0000
+/project/sltoo/, sltoo, 25.0.4, rmtoo, 2020-12-21T21:20:08+0000
+/project/python-gearbox/, python-gearbox, 0.1.2.a.dev, Python library for gear transmission design, 2015-05-03T06:58:30+0000
+/project/cause-effect/, cause-effect, 0.2.0, A library for cause-effect relationships., 2016-10-20T23:20:42+0000
+/project/kalenis-user-view/, kalenis-user-view, 5.6.3, , 2021-01-12T16:14:11+0000
+/project/pylmi-sdp/, PyLMI-SDP, 0.2, Symbolic linear matrix inequalities (LMI) and semi-definiteprogramming (SDP) tools for Python, 2013-09-16T19:08:03+0000
+/project/pycomm/, pycomm, 1.0.8, A PLC communication library for Python, 2015-11-01T16:20:56+0000
+/project/ctserial/, ctserial, 0.4.0, A highly flexible serial interface tool made for penetration testers, 2021-04-23T22:39:22+0000
+/project/co2sim/, co2sim, 3.0.0, The Type-Approving vehicle simulator predicting NEDC CO2 emissions from WLTP, 2019-01-30T11:28:54+0000
+/project/zeffclient/, ZeffClient, 1.0.3, ZeffClient is a command line tool & library for working with Zeff AI Cloud API., 2020-01-22T18:52:31+0000
+/project/fuzzylogic/, fuzzylogic, 1.0.1, Fuzzy Logic for Python 3, 2021-04-05T23:21:06+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/iams/, iams, 0.0.1a0, An industial agent management system aiming to control agents for manufacturing units., 2020-01-08T07:58:30+0000
+/project/co2mpas-driver/, co2mpas-driver, 1.3.0, Co2mpas_driver implements the microsimulation free-flow acceleration model (MFC), able to accurately and consistently reproduce acceleration dynamics of light-duty vehicles, 2020-09-08T06:45:42+0000
+/project/trytond-project-invoice/, trytond-project-invoice, 5.8.1, Tryton module to invoice projects, 2021-01-01T15:32:22+0000
+/project/trytond-stock-supply-production/, trytond-stock-supply-production, 5.8.1, Tryton module for stock supply of production, 2021-01-01T15:43:04+0000
+/project/nyanping/, nyanping, 0.0.3, Improved graphical ping tool, 2018-07-20T16:00:59+0000
+/project/vc2-quantisation-matrices/, vc2-quantisation-matrices, 1.0.0, Routines for computing quantisation matrices for the SMPTE ST 2042-2 VC-2 professional video codec., 2021-03-24T11:02:06+0000
+/project/fuefit/, fuefit, 0.0.6, *fuefit* fits engine-maps on physical parameters, 2014-12-03T19:28:07+0000
+/project/ukervi/, ukervi, 0.21.5,  This is a upython version of the Kervi framework. , 2019-11-05T22:15:48+0000
+/project/trytond-company-work-time/, trytond-company-work-time, 5.8.1, Tryton module to add work time on company, 2021-01-01T15:26:21+0000
+/project/cqparts/, cqparts, 0.2.1, Hierarchical and deeply parametric models using cadquery, 2018-05-30T12:21:35+0000
+/project/fatamorgana/, fatamorgana, 0.11, OASIS layout format parser and writer, 2021-01-08T17:46:03+0000
+/project/stackups/, stackups, 1.2.5, Stack up analyis: calculate clearances between machinery parts., 2018-01-05T02:10:20+0000
+/project/elm327-emulator/, ELM327-emulator, 2.1.0, ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter, 2021-03-28T11:49:49+0000
+/project/trytond-party-vcarddav/, trytond_party_vcarddav, 4.2.0, Tryton module for CardDAV, 2016-11-28T15:32:00+0000
+/project/trytond-nereid-auth-github/, trytond_nereid_auth_github, 3.4.0.1, Nereid User Authentication using Github, 2015-05-13T09:01:04+0000
+/project/octoclient/, octoclient, 0.2.dev1, Client library for OctoPrint REST API, 2017-06-20T05:52:44+0000
+/project/pythonic/, Pythonic, 1.2, Graphical automation tool, 2021-04-08T06:01:52+0000
+/project/pyuniversallibrary/, PyUniversalLibrary, 20061020, UNKNOWN, 2006-10-21T03:51:22+0000
+/project/trytond-google-maps/, trytond-google-maps, 5.8.1, Tryton module to link addresses to Google Maps, 2021-01-01T15:27:38+0000
+/project/dcitools/, dcitools, 0.7.2, Digital Cinema related collection of tools for Python, 2019-05-02T17:49:51+0000
+/project/geminimotordrive/, GeminiMotorDrive, 0.2, Utilities to control Parker Hannifin Gemini stepper/servo motor drives., 2016-02-12T22:52:41+0000
+/project/mcerp3/, mcerp3, 1.0.3, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2018-08-30T22:06:03+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/trytond-calendar-scheduling/, trytond_calendar_scheduling, 4.2.0, Tryton module to add scheduling support on CalDAV, 2016-11-28T15:22:19+0000
+/project/flatcam/, flatcam, 0.8.5, 2D Computer-Aided PCB Manufacturing, 2018-06-07T11:36:55+0000
+/project/gnuhealth-caldav/, gnuhealth-caldav, 3.8.0, CalDAV package for GNU Health and Python3, 2021-02-14T20:43:24+0000
+/project/trytond-product-attribute/, trytond-product-attribute, 5.8.1, Tryton module with product attributes, 2021-01-01T15:29:29+0000
+/project/m-loop/, M-LOOP, 3.2.1, M-LOOP: Machine-learning online optimization package. A python package of automated optimization tools - enhanced with machine-learning - for quantum scientific experiments, computer controlled systems or other optimization tasks., 2021-01-14T05:35:52+0000
+/project/octorest/, octorest, 0.4, Client library for OctoPrint REST API, 2020-05-22T16:40:45+0000
+/project/thermosteam/, thermosteam, 0.24.10, BioSTEAM's Premier Thermodynamic Engine, 2021-04-08T11:14:15+0000
+/project/fio-prestashop/, fio_prestashop, 3.4.10.0, Prestashop integration with Tryton, 2016-05-06T15:19:03+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/trytond-stock-inventory-location/, trytond-stock-inventory-location, 5.8.1, Tryton module to create inventories by locations, 2021-01-01T15:40:01+0000
+/project/nidcpower/, nidcpower, 1.3.3, NI-DCPower Python API, 2021-03-02T15:58:47+0000
+/project/trytond-nereid-shipping/, trytond_nereid_shipping, 3.0.1.0, API to facilitate multiple shipping methods to integrate
+        with Nereid, 2014-11-05T10:35:03+0000
+/project/kalenis-lims/, kalenis-lims, 5.0.0, Kalenis LIMS & ERP, 2019-07-17T13:49:21+0000
+/project/pygcode/, pygcode, 0.2.1, Basic g-code parser, interpreter, and encoder library., 2017-10-11T12:05:08+0000
+/project/flexsolve/, flexsolve, 0.4.8, Flexible function solvers, 2021-03-31T01:46:42+0000
+/project/pi-sht1x/, Pi-Sht1x, 1.0.9, Python 3 library for Sensirion SHT1x series of temperature & humidity sensors for the Raspberry Pi., 2016-10-15T06:17:10+0000
+/project/ereuse-devicehub/, eReuse-DeviceHub, 0.1.1, DeviceHub is a system to manage devices focused in reusing them., 2016-11-12T10:41:06+0000
+/project/vc2-conformance/, vc2-conformance, 1.0.1, Conformance testing utilities for the VC-2 video codec., 2021-04-21T13:36:06+0000
+/project/threadplotter/, threadPlotter, 0.0.2b2, a toolkit for designing plotter-compatible embroidery patterns, 2020-06-28T17:14:14+0000
+/project/svgdatashapes/, SVGdatashapes, 0.3.62, Simple procedural library to create many types of plots and data displays in SVG for dynamic web pages. General purpose: biomedical, scientific, business., 2020-03-11T19:38:20+0000
+/project/winnow/, winnow, 0.1.4, Winnow is a JSON-schema based library for publishing and manipulating families of products., 2015-08-27T13:30:06+0000
+/project/octoprint/, OctoPrint, 1.5.3, The snappy web interface for your 3D printer, 2021-01-19T10:37:35+0000
+/project/sci-analysis/, sci-analysis, 2.2.1, An easy to use and powerful python-based data exploration and analysis tool, 2019-04-12T03:39:09+0000
+/project/npmanager/, npmanager, 1.0-5, The super easy way to install and manageNGINX, PHP and MariaDB, 2015-06-28T10:24:21+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/ur-cb2/, ur_cb2, 0.2, A package to interface with a UR CB2 Robot over TCP/IP, 2016-03-22T03:38:11+0000
+/project/emulica/, emulica, 1.0.2, Emulation of logistic systems, 2020-12-02T10:46:16+0000
+/project/fpi/, fpi, 0.1.1, Fluid-particle Interaction component of Chemical Engineering Design Library (ChEDL), 2016-04-04T02:56:58+0000
+/project/octoprint-dashboard/, octoprint-dashboard, 0.3.3, Runs server application for controlling multiple 3D printers with OctoPrint, 2017-10-30T21:51:36+0000
+/project/emailharvester/, EmailHarvester, 2.0.1, A tool to retrieve Domain email addresses from Search Engines, 2016-05-03T17:45:10+0000
+/project/biosteam/, biosteam, 2.27.7, The Biorefinery Simulation and Techno-Economic Analysis Modules, 2021-04-15T05:25:54+0000
+/project/gdstk/, gdstk, 0.4.0, Python module for creation and manipulation of GDSII files., 2021-04-11T13:13:20+0000
+/project/trytond-magento/, trytond_magento, 3.4.20.1, Tryton Magento Integration, 2016-07-08T08:02:26+0000
+/project/grafana-wtf/, grafana-wtf, 0.9.0, Grep through all Grafana entities in the spirit of git-wtf, 2019-11-06T01:46:35+0000
+/project/v-log/, v-log, 1.0.1, Colored log that also stores a properly formated csv., 2020-01-12T18:17:22+0000
+/project/quartet-epcis/, quartet_epcis, 3.1.0, Defines EPCIS models and XML parsing., 2021-02-25T18:24:07+0000
+/project/trytond-stock-supply-day/, trytond-stock-supply-day, 5.8.1, Tryton module to add supply weekdays, 2021-01-01T15:42:42+0000
+/project/thermocouples-reference/, thermocouples_reference, 0.20, Thermocouple emf reference functions, 2014-01-05T14:46:50+0000
+/project/trytond-webdav3/, trytond_webdav3, 4.2.3, GNU Health WebDAV server for Python 3, 2017-11-15T17:14:01+0000
+/project/trytond-purchase-shipment-cost/, trytond-purchase-shipment-cost, 5.8.1, Tryton module for purchase shipment cost, 2021-01-01T15:34:23+0000
+/project/infogen/, infogen, 1.0.0, Personal Information generator.Generate Person Data with all required infomation, 2013-04-22T09:17:27+0000
+/project/fcmaes/, fcmaes, 1.2.17, A Python 3 gradient-free optimization library., 2021-03-21T11:30:28+0000
+/project/terkin-micropython-libraries/, terkin-micropython-libraries, 0.10.0, Terkin MicroPython runtime libraries, 2020-05-22T00:10:27+0000
+/project/minesoft-patbase-client/, minesoft-patbase-client, 0.1.0, minesoft-patbase-client is a client library for accessing the Minesoft PatBase REST API, 2018-06-12T19:29:01+0000
+/project/htknx/, htknx, 0.2.0, Heliotherm heat pump KNX gateway, 2021-02-06T16:23:28+0000
+/project/pyrqa/, PyRQA, 8.0.0, Recurrence analysis in a massively parallel manner using the OpenCL framework., 2021-02-06T18:37:25+0000
+/project/trytond-prestashop/, trytond_prestashop, 2.8.0.1dev, Prestashop Integration, 2013-07-02T20:20:11+0000
+/project/proximity/, proximity, 0.2.0, Simple scenegraph for quickly debugging 3D meshes, polylines, and points, 2020-12-09T00:22:20+0000
+/project/pyrgg/, pyrgg, 1.0, Python Random Graph Generator, 2021-01-11T16:16:53+0000
+/project/vcrypto/, vcrypto, 2.0.0, Utility to easily store password/secrets, 2020-05-10T09:25:25+0000
+/project/cds-trytond-sale-tax-subdivision/, cds-trytond-sale-tax-subdivision, 4.6.1, Tryton module to apply sales tax based on subdivision, 2018-01-28T05:21:13+0000
+/project/aiomodbus/, aiomodbus, 0.3.3, Lightweight Modbus library using asyncio, 2020-10-02T06:45:49+0000
+/project/pyromat/, PYroMat, 2.0.12, Thermodynamic properties in Python., 2019-01-04T22:30:48+0000
+/project/trytond-stock-supply-forecast/, trytond-stock-supply-forecast, 5.8.1, Tryton module to add forecast to supply computation, 2021-01-01T15:42:53+0000
+/project/nixnet/, nixnet, 0.3.1, NI-XNET Python API, 2019-06-21T19:37:01+0000
+/project/iceman/, iceman, 0.3.4, A symmetric TLS library written in python, 2018-02-10T09:40:36+0000
+/project/fio-shipping-endicia/, fio_shipping_endicia, 4.0.0.5, Integration with USPS via Endicia for Tryton, 2016-11-15T11:42:01+0000
+/project/nise/, nise, 1.3.3, NI Switch Executive Python API, 2021-03-02T15:59:57+0000
+/project/trytond-bank/, trytond-bank, 5.8.1, Tryton module with banks, 2021-01-01T15:25:04+0000
+/project/trytond-project-plan/, trytond-project-plan, 5.8.1, Tryton module to add planning capabilities on projects, 2021-01-01T15:32:32+0000
+/project/trytond-electronic-mail-template/, trytond_electronic_mail_template, 2.4.0.2, Electronic mail template, 2012-06-05T13:24:37+0000
+/project/rmtoo/, rmtoo, 25.0.1, Free and OpenSource Requirements Management Tool, 2020-08-31T13:41:52+0000
+/project/lacecore/, lacecore, 0.8.0, Polygonal mesh library optimized for cloud computation., 2021-03-23T22:49:35+0000
+/project/adlink-usb/, adlink-usb, 0.0.1, Adlink USB DAQ driver, 2020-05-31T02:52:02+0000
+/project/fasvaorm/, fasvaorm, 0.8.3, fasvaorm is a ORM to access the database used within FASva., 2019-11-29T18:38:42+0000
+/project/trytond-party-siret/, trytond-party-siret, 5.8.1, Tryton module to add SIRET/SIREN on parties, 2021-01-01T15:29:05+0000
+/project/gdspy/, gdspy, 1.6.4, Python module for creating/importing/merging GDSII files., 2021-04-23T11:00:38+0000
+/project/deprecator/, deprecator, 0.3, Deprecator provides a decorator to easily depreate old code., 2015-06-03T17:36:13+0000
+/project/marbles/, marbles, 0.12.1, Read better test failures, 2020-08-03T02:02:08+0000
+/project/kotori/, kotori, 0.26.6, Kotori is a data acquisition, processing and graphing toolkit for humans, 2021-02-17T14:53:25+0000
+/project/python-can/, python-can, 3.3.4, Controller Area Network interface module for Python, 2020-10-04T20:06:20+0000
+/project/s3mpython/, S3MPython, 3.1.0.4, Python implementation of the S3Model https://datainsights.tech/S3Model/ specifications version: 3.1.0, 2018-11-24T13:04:43+0000
+/project/lpfgopt-lite/, lpfgopt-lite, 0.9.2, Leap Frog Optimizer - Lite Edition, 2019-04-26T20:26:26+0000
+/project/co2wui/, co2wui, 0.0.13, WebUI for co2mpas, 2019-11-08T09:32:37+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/serialbox/, serialbox, 2.3.4, Serial Number Distribution Made Easy., 2021-02-10T16:32:55+0000
+/project/bio-rtd/, bio-rtd, 0.7.2, Library for modeling residence time distributions (RTD) of integrated continuous biomanufacturing processes., 2020-04-10T19:43:43+0000
+/project/jp-cleanup/, jp-cleanup, 0.1.1, Cleanup Jupyter Notebook files, 2019-11-23T14:28:30+0000
+/project/robodk/, robodk, 5.2.1, RoboDK tools for simulating and programming industrial robots (implements the RoboDK API), 2021-03-06T21:49:08+0000
+/project/simpledash/, simpledash, 0.2.2, Library to simplify building Plotly Dash applications, 2020-03-08T19:52:56+0000
+/project/qsdsan/, qsdsan, 0.2.3, Quantitative Sustainable Design for sanitation and resource recovery systems, 2021-04-24T21:13:37+0000
+/project/citygml2stl/, citygml2stl, 0.1a1, CityGML to printable STL, 2015-06-22T16:38:01+0000
+/project/machball/, machball, 0.2.0, self-limited (ALD, ALE) reactive transport in nanostructures, 2020-08-02T20:49:36+0000
+/project/trytond-timesheet/, trytond-timesheet, 5.8.2, Tryton module with timesheets, 2021-02-19T20:25:55+0000
+/project/nisystemlink-configuration/, nisystemlink-configuration, 0.1.0, A command-line utility for managing SystemLink Server configurations, 2020-08-12T18:22:21+0000
+/project/jobmanager-common/, jobmanager-common, 0.13.10, Job Manager Common Library, 2018-10-08T16:11:52+0000
+/project/awlsim/, awlsim, 0.74.0, S7 compatible Programmable Logic Controller PLC/SPS (AWL, STL, FUP, FBD), 2020-09-13T08:47:02+0000
+/project/float-raster/, float-raster, 0.6, High-precision anti-aliasing polygon rasterizer, 2020-11-03T09:23:12+0000
+/project/eparsecis/, eparsecis, 3.1.0, Python lxml parsing for EPCIS Events., 2019-05-21T14:46:52+0000
+/project/optimisation/, Optimisation, 1.2, Cellular Optimisation Functions, 2017-08-28T09:19:12+0000
+/project/fastdbf/, fastdbf, 0.1.6, Read DBF Files with C and Python, fast., 2020-12-09T16:32:33+0000
+/project/thermosolver/, thermosolver, 0.0.1, Under development, 2016-12-17T14:28:21+0000
+/project/trytond-stock-package/, trytond-stock-package, 5.8.2, Tryton module for stock packaging, 2021-02-01T22:01:05+0000
+/project/kissats/, kissats, 1.0.0a5, A simple ATS, 2018-07-24T06:34:15+0000
+/project/trytond-product-cost-fifo/, trytond-product-cost-fifo, 5.8.1, Tryton module to add FIFO cost method, 2021-01-01T15:30:01+0000
+/project/trytond-purchase-invoice-line-standalone/, trytond-purchase-invoice-line-standalone, 5.8.1, Tryton module for standalone invoice line from purchase, 2021-01-01T15:33:28+0000
+/project/barcode-generator/, barcode-generator, 0.1rc15, Simple lightweight python barcode EAN generator. Output format SVG and ASCII, 2015-10-13T17:30:07+0000
+/project/kunteksto/, kunteksto, 2.1.0, The tool to translate your CSV data files into RDF, XML and JSON with full semantics and syntactic validation., 2018-12-28T05:50:41+0000
+/project/fio-ebay/, fio_ebay, 3.4.10.1, eBay Integration, 2016-04-04T11:34:07+0000
+/project/co2dice/, co2dice, 3.0.0, Polyvers's lib to derive subproject versions from tags on Git monorepos., 2019-01-30T11:27:32+0000
+/project/trytond-carrier/, trytond-carrier, 5.8.1, Tryton module with carriers, 2021-01-01T15:25:15+0000
+/project/dashserve/, dashserve, 0.1.7, develop and serve Plotly Dash apps in Jupyter Notebook, 2020-07-02T08:19:27+0000
+/project/trytond-currency/, trytond-currency, 5.8.1, Tryton module with currencies, 2021-01-01T15:26:43+0000
+/project/trytond-stock-forecast/, trytond-stock-forecast, 5.8.1, Tryton module with stock forecasts, 2021-01-01T15:39:50+0000
+/project/atiiaftt/, atiiaftt, 0.1.1, CFFI wrap of ATI-IA force-torque sensor transform c library, 2018-10-04T16:36:33+0000
+/project/nestor-qt/, nestor-qt, 0.3.2, Legacy (Qt5) GUI for the Nestor annotation tool, 2020-09-30T21:03:58+0000
+/project/knittingpattern/, knittingpattern, 0.1.19, Python library for knitting machines., 2016-08-21T10:29:01+0000
+/project/vectorai-nightly/, vectorai-nightly, 0.2.5.2021.4.25, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-04-25T00:44:31+0000
+/project/trytond-stock-split/, trytond-stock-split, 5.8.1, Tryton module to split stock move, 2021-01-01T15:42:21+0000
+/project/times/, times, 0.7, Times is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2014-08-24T06:13:20+0000
+/project/simple-websocket-server/, simple-websocket-server, 0.4.1, A simple WebSocket server, 2021-01-08T13:43:21+0000
+/project/kervi-core/, kervi-core, 0.21.5,  Core components for the Kervi framework. , 2019-11-05T22:15:11+0000
+/project/bw2qsd/, bw2qsd, 0.0.10, Bridging Brightway2 and QSD packages for LCA, 2021-04-20T17:31:01+0000
+/project/tessagon/, tessagon, 0.6, Tessellate your favorite 2D manifolds with triangles, hexagons, and other interesting patterns., 2019-11-06T03:19:59+0000
+/project/trytond-calendar/, trytond_calendar, 4.2.0, Tryton module for CalDAV, 2016-11-28T15:17:41+0000
+/project/cds-trytond-product-uri/, cds-trytond-product-uri, 4.6.1, Tryton module to add URI slugs to products, 2018-01-28T05:10:15+0000
+/project/wafer-map/, wafer-map, 1.1.2, Semiconductor Wafer Mapping, 2019-10-14T16:22:19+0000
+/project/pytkgen/, pytkgen, 1.7, Create Tkinter GUIs from JSON definition files., 2020-06-22T08:18:49+0000
+/project/fluids/, fluids, 1.0.5, Fluid dynamics component of Chemical Engineering Design Library (ChEDL), 2021-04-22T02:13:17+0000
+/project/sht-sensor/, sht-sensor, 18.4.2, Driver and command-line tool for Sensirion SHT1x and SHT7x sensors connected to GPIO pins., 2018-04-06T23:56:17+0000
+/project/cds-trytond-product-image/, cds-trytond-product-image, 4.6.1, Tryton module with product images, 2018-01-28T04:57:50+0000
+/project/trytond-electronic-mail/, trytond_electronic_mail, 2.6.1.0, EMail module for Tryton, 2013-08-01T13:58:04+0000
+/project/checkbox-ng/, checkbox-ng, 1.4.0, Checkbox - Command Line Test Runner, 2019-01-30T13:52:56+0000
+/project/marbles-mixins/, marbles.mixins, 0.12.1, Semantically-rich assertions for use in marbles and unittest test cases, 2020-08-03T02:02:11+0000
+/project/admesh/, admesh, 0.98.9, Python bindings for ADMesh, STL maipulation library, 2018-06-24T18:19:57+0000
+/project/cqparts-misc/, cqparts-misc, 0.1.0, Miscelaneous content library for cqparts, 2018-03-19T10:40:31+0000
+/project/ormm/, ormm, 0.0.3, A collection of Operations Research Models & Methods, 2020-08-09T12:43:44+0000
+/project/pyprofibus/, pyprofibus, 1.8, Python PROFIBUS module, 2020-09-13T08:22:05+0000
+/project/kicad-backannotate/, kicad-backannotate, 0.0.1, A back-annotation tool for Kicad EDA, 2018-01-20T22:07:25+0000
+/project/thermistor-utils/, thermistor-utils, 0.0.4, Steinhart -- Hart and Beta thermistor temperature model in Python and C. Implementation and utilities, 2019-12-09T10:56:20+0000
+/project/icecore/, icecore, 0.2.0.0, icecore C++ library python bindings, 2018-03-02T01:29:39+0000
+/project/rpi-piusv/, rpi-piusv, 0.1.0, Python module for RPI USV+ Raspberry Pi - USV+, 2020-05-17T16:46:05+0000
+/project/htheatpump/, htheatpump, 1.3.1, Easy-to-use Python communication module for Heliotherm heat pumps, 2021-01-20T19:33:26+0000
+/project/pidata/, PIdata, 0.2.2, An easy-to-use connector for the OSI PI historian, 2020-06-11T07:12:44+0000
+/project/v-crypt/, v-crypt, 1.0.4, Utility to easily store password/secrets., 2019-04-21T09:34:08+0000
+/project/python-snap7/, python-snap7, 1.0, Python wrapper for the snap7 library, 2021-01-19T15:43:24+0000
+/project/trytond-party/, trytond-party, 5.8.1, Tryton module with parties and addresses, 2021-01-01T15:28:43+0000
+/project/semi-ate-stil/, Semi-ATE-STIL, 0.0.1, Standard Tester Interface Library [IEEE1450] with python, 2021-02-19T19:20:05+0000
+/project/swapxy/, SwapXY, 0.3.0, Swap and/or reverse the X and Y axes used by the jog controls, 2020-07-28T21:45:26+0000
+/project/trytond-stock/, trytond-stock, 5.8.4, Tryton module for stock and inventory, 2021-04-16T17:11:44+0000
+/project/cqparts-fasteners/, cqparts-fasteners, 0.1.0, Nuts, Bolts and Screws content library for cqparts, 2018-03-19T09:17:33+0000
+/project/gdscad/, gdsCAD, 0.4.5, A simple Python package for creating or reading GDSII layout files., 2015-02-06T09:10:21+0000
+/project/mr-sim/, mr-sim, 0.3.0, A package for the simulation of abrasive material removal processes., 2021-04-08T04:00:00+0000
+/project/nitclk/, nitclk, 1.3.3, NI-TClk Python API, 2021-03-02T15:59:58+0000
+/project/pyzone/, pyzone, 1.0, Ctypes wrappers to manage Solaris zones in Python., 2011-07-12T11:13:23+0000
+/project/trytond-product-code/, trytond_product_code, 3.4.2.4, Tryton module for adding multiple product codes, 2016-04-07T11:33:05+0000
+/project/solidpinball/, solidpinball, 0.1.1, A digital fabrication framework for pinball machines using Python, 2019-08-05T08:16:35+0000
+/project/tsquared/, TSquared, 0.0.4, Python implementation of Hotelling's T2 for process monitoring, 2021-03-26T16:16:51+0000
+/project/vdd/, vdd, 0.3.2, Tools to assist value-driven design & decisions, 2019-08-11T18:31:57+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/cds-trytond-cms/, cds-trytond-cms, 4.6.2, Tryton module to add basic CMS capability, 2018-01-29T06:54:04+0000
+/project/pycomm3/, pycomm3, 1.1.1, A Python Ethernet/IP library for communicating with Allen-Bradley PLCs., 2021-04-16T12:55:12+0000
+/project/fasvautil/, fasvautil, 0.5.19, Project with utility functions used with FASva, 2019-11-07T22:59:32+0000
+/project/trytond-stock-consignment/, trytond-stock-consignment, 5.8.1, Tryton module to manage consignment stock, 2021-01-01T15:39:39+0000
+/project/photo2cnccut/, photo2cnccut, 0.1.0, Create g-code from photos., 2021-04-06T19:39:58+0000
+/project/ounce/, ounce, 1.1.0, A simple Python package to manipulate units, 2019-10-28T15:37:32+0000
+/project/imagecast/, imagecast, 0.4.0, Imagecast is like ImageMagick but for Pythonistas. Optionally provides its features via HTTP API., 2021-03-06T12:00:21+0000
+/project/thermo/, thermo, 0.2.3, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-15T03:18:28+0000
+/project/fio-amazon-mws/, fio_amazon_mws, 3.4.14.3, Amazon MWS Integration, 2016-01-12T16:45:13+0000
+/project/trytond-calendar-classification/, trytond_calendar_classification, 4.2.0, Tryton module to add classification access to events, 2016-11-28T15:31:02+0000
+/project/pyoptosigma/, pyOptoSigma, 0.1, Python module for operating stepping moter stages manufactured by OptoSigma and Sigma Koki., 2016-05-28T09:00:47+0000
+/project/coralogix-logger/, coralogix-logger, 2.0.4, Coralogix Python SDK, 2021-01-12T20:38:25+0000
+/project/trytonlq-account-personal/, trytonlq-account-personal, 5.6.0, Tryton module that provides a chart of accounts for personal accounting, 2020-05-08T23:14:58+0000
+/project/ctid-programmer/, CTid-programmer, 1.3.5, A graphical user interface for programming CTid sensors., 2020-12-01T23:16:29+0000
+/project/trytond-stock-product-location/, trytond-stock-product-location, 5.8.1, Tryton module to add default location on product, 2021-01-01T15:41:48+0000
+/project/dwdweather2/, dwdweather2, 0.14.0, Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany., 2020-07-03T12:51:14+0000
+/project/gridvid/, gridvid, 0.0.1, Allows you to put various grids on videos., 2020-09-17T23:19:52+0000
+/project/genelearn/, GeneLearn, 0.0.0, Metaoptimization of genetic algorithms for machine learning, 2020-06-28T12:35:33+0000
+/project/fio-nereid-s3/, fio_nereid_s3, 4.0.1.0, Amazon S3 backend for Nereid Static Files, 2018-05-29T09:44:00+0000
+/project/niswitch/, niswitch, 1.3.3, NI-SWITCH Python API, 2021-03-02T15:59:17+0000
+/project/dash/, dash, 1.20.0, A Python framework for building reactive web-apps. Developed by Plotly., 2021-04-08T22:19:49+0000
+/project/dev-mapper/, dev-mapper, 0.0.4, Device Mapper to convert the sys-pci-address to a device file, 2018-12-06T01:53:28+0000
+/project/django-ru-fields/, django-ru-fields, 0.1.0, specific russian fields, 2014-11-03T09:06:06+0000
+/project/datamax-printer/, datamax-printer, 0.1.1, Controll a datamax o'neil labelprinter using DPL, 2019-03-26T08:40:33+0000
+/project/modbus-proxy/, modbus-proxy, 0.4.1, ModBus TCP proxy, 2021-01-26T17:20:34+0000
+/project/adcopen/, adcopen, 1.0.26, Open-source python libraries for data integration with ADC equipment., 2021-04-24T13:35:15+0000
+/project/trytond-calendar-webdav3/, trytond_calendar_webdav3, 4.2.2, CalDAV module for GNU Health and Python3, 2017-11-15T17:14:10+0000
+/project/openscad-runner/, openscad-runner, 1.0.9, A Python library to interface with the OpenSCAD app., 2021-04-13T03:42:59+0000
+/project/tri-again/, tri-again, 0.1.4, Simple scenegraph for quickly debugging 3D meshes, polylines, and points, 2020-12-07T20:54:48+0000
+/project/robot2cam-calibration/, robot2cam_calibration, 0.1, A package to calibrate a robot arm to a camera, 2016-06-03T16:16:19+0000
+/project/toprammer/, toprammer, 0.17, TOP2049 Open Source programming suite, 2017-02-07T20:11:49+0000
+/project/trytond-production-routing/, trytond-production-routing, 5.8.1, Tryton module for production routing, 2021-01-01T15:30:44+0000
+/project/trytond-endicia-integration/, trytond_endicia_integration, 3.4.0.3, Integration with USPS via Endicia for Tryton, 2015-05-07T04:50:37+0000
+/project/motaword/, motaword, 0.9.1, Motaword Python SDK, 2016-02-03T17:58:39+0000
+/project/eems/, eems, 0.1.0.4b1, eems - easy energy monitoring system, 2016-02-11T21:25:31+0000
+/project/quartet-masterdata/, quartet_masterdata, 2.2.6, Models and APIs to support material, lot and location master data., 2020-12-15T19:38:26+0000
+/project/trytond-stock-supply/, trytond-stock-supply, 5.8.1, Tryton module for stock supply, 2021-01-01T15:42:31+0000
+/project/kniteditor/, kniteditor, 1.0.5, An editor for knitwork., 2016-11-14T21:10:20+0000
+/project/cuebeam/, cueBeam, 0.0.1, Simple acoustic interference and beam forming simulation based on Huygens principle, 2017-05-22T15:45:02+0000
+/project/pymadcad/, pymadcad, 0.7, Simple yet powerful CAD (Computer Aided Design) library, written with Python, 2021-03-16T15:56:33+0000
+/project/iec60063/, iec60063, 0.2, Generator for IEC60063 Preferred Values, 2021-03-26T04:19:55+0000
+/project/mechwolf/, mechwolf, 0.1.1, Continuous flow process description, analysis, and automation, 2019-09-23T19:36:16+0000
+/project/trytond-calendar-todo/, trytond_calendar_todo, 4.2.0, Tryton module to add TODO on CalDAV, 2016-11-28T15:32:50+0000
+/project/co2mpas/, co2mpas, 4.1.10, The Type-Approving vehicle simulator predicting NEDC CO2 emissions from WLTP, 2019-11-07T10:43:48+0000
+/project/noolite/, noolite, 1.4.0, Class for NooLite USB stick, 2016-03-31T17:25:37+0000
+/project/pytest-growl/, pytest-growl, 0.2, Growl notifications for pytest results., 2014-01-13T16:04:10+0000
+/project/kisspack/, kisspack, 1.0.0a2, A test package for KissATS, 2018-07-29T07:21:59+0000
+/project/pynterval/, pynterval, 0.3, A small flexible interval package, 2021-04-17T11:07:40+0000
+/project/uldaq/, uldaq, 1.2.1, Universal Library Python API for Measurement Computing DAQ devices, 2020-11-18T18:43:19+0000
+/project/salabim/, salabim, 21.0.3, discrete event simulation in Python, 2021-03-20T09:55:01+0000
+/project/trytonlq-authentication-totp/, trytonlq-authentication-totp, 5.6.0, Tryton module that allows users to use time based one time passwords as an authentication method, 2020-05-10T12:25:45+0000
+/project/pyandon/, pyandon, 0.1.2, Python module for interacting with a range of different andon light systems, 2021-03-30T12:41:58+0000
+/project/trytond-carrier-weight/, trytond-carrier-weight, 5.8.1, Tryton module to add cost method "on weight" on carrier, 2021-01-01T15:25:36+0000
+/project/businessowner-retriever/, businessowner-retriever, 2.0.1, Tool to retrieve list of Vietnamese registered business owners., 2020-02-25T12:39:34+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/python-networkdays/, python-networkdays, 1.0.2, Business days (workdays) between two date, like `NetworkDays` function used on spreadsheets and more., 2020-12-28T14:21:31+0000
+/project/roulier-gls-fr/, roulier-gls-fr, 0.1.0, Send parcels with GLS France delivery carrier. Carrier return parcel label and traceability url, 2019-05-16T15:17:15+0000
+/project/gastop/, gastop, 1.0.2, A Genetic Algorithm for Structural Design and Topological Optimization, 2019-01-15T23:06:37+0000
+/project/django-ru-fields/, django-ru-fields, 0.1.0, specific russian fields, 2014-11-03T09:06:06+0000
+/project/datamax-printer/, datamax-printer, 0.1.1, Controll a datamax o'neil labelprinter using DPL, 2019-03-26T08:40:33+0000
+/project/dash-holoniq-components/, dash-holoniq-components, 0.0.5, Custom components for use in Plotly Dash, 2019-09-27T07:33:59+0000
+/project/trytond-account-de-skr03/, trytond-account-de-skr03, 5.8.1, Tryton module with German chart of accounts SKR03, 2021-01-01T15:17:49+0000
+/project/trytond-account-invoice-line-standalone/, trytond-account-invoice-line-standalone, 5.8.1, Tryton module to have standalone invoice lines, 2021-01-01T15:20:08+0000
+/project/trytond-nereid-party-multi-user/, trytond_nereid_party_multi_user, 4.0.0.2, UNKNOWN, 2016-08-22T11:12:11+0000
+/project/modbus-proxy/, modbus-proxy, 0.4.1, ModBus TCP proxy, 2021-01-26T17:20:34+0000
+/project/trytond-product/, trytond-product, 5.8.2, Tryton module with products, 2021-04-16T17:34:17+0000
+/project/adcopen/, adcopen, 1.0.26, Open-source python libraries for data integration with ADC equipment., 2021-04-24T13:35:15+0000
+/project/trytond-calendar-webdav3/, trytond_calendar_webdav3, 4.2.2, CalDAV module for GNU Health and Python3, 2017-11-15T17:14:10+0000
+/project/openscad-runner/, openscad-runner, 1.0.9, A Python library to interface with the OpenSCAD app., 2021-04-13T03:42:59+0000
+/project/tri-again/, tri-again, 0.1.4, Simple scenegraph for quickly debugging 3D meshes, polylines, and points, 2020-12-07T20:54:48+0000
+/project/robot2cam-calibration/, robot2cam_calibration, 0.1, A package to calibrate a robot arm to a camera, 2016-06-03T16:16:19+0000
+/project/toprammer/, toprammer, 0.17, TOP2049 Open Source programming suite, 2017-02-07T20:11:49+0000
+/project/trytond-production-routing/, trytond-production-routing, 5.8.1, Tryton module for production routing, 2021-01-01T15:30:44+0000
+/project/trytond-endicia-integration/, trytond_endicia_integration, 3.4.0.3, Integration with USPS via Endicia for Tryton, 2015-05-07T04:50:37+0000
+/project/motaword/, motaword, 0.9.1, Motaword Python SDK, 2016-02-03T17:58:39+0000
+/project/eems/, eems, 0.1.0.4b1, eems - easy energy monitoring system, 2016-02-11T21:25:31+0000
+/project/quartet-masterdata/, quartet_masterdata, 2.2.6, Models and APIs to support material, lot and location master data., 2020-12-15T19:38:26+0000
+/project/trytond-stock-supply/, trytond-stock-supply, 5.8.1, Tryton module for stock supply, 2021-01-01T15:42:31+0000
+/project/kniteditor/, kniteditor, 1.0.5, An editor for knitwork., 2016-11-14T21:10:20+0000
+/project/cuebeam/, cueBeam, 0.0.1, Simple acoustic interference and beam forming simulation based on Huygens principle, 2017-05-22T15:45:02+0000
+/project/pymadcad/, pymadcad, 0.7, Simple yet powerful CAD (Computer Aided Design) library, written with Python, 2021-03-16T15:56:33+0000
+/project/iec60063/, iec60063, 0.2, Generator for IEC60063 Preferred Values, 2021-03-26T04:19:55+0000
+/project/mechwolf/, mechwolf, 0.1.1, Continuous flow process description, analysis, and automation, 2019-09-23T19:36:16+0000
+/project/trytond-calendar-todo/, trytond_calendar_todo, 4.2.0, Tryton module to add TODO on CalDAV, 2016-11-28T15:32:50+0000
+/project/co2mpas/, co2mpas, 4.1.10, The Type-Approving vehicle simulator predicting NEDC CO2 emissions from WLTP, 2019-11-07T10:43:48+0000
+/project/noolite/, noolite, 1.4.0, Class for NooLite USB stick, 2016-03-31T17:25:37+0000
+/project/pytest-growl/, pytest-growl, 0.2, Growl notifications for pytest results., 2014-01-13T16:04:10+0000
+/project/kisspack/, kisspack, 1.0.0a2, A test package for KissATS, 2018-07-29T07:21:59+0000
+/project/proc-plot/, proc-plot, 1.5, Trending for Process Control Data Analysis, 2020-10-08T00:42:25+0000
+/project/klamath/, klamath, 1.1, GDSII format reader/writer, 2021-04-12T21:00:24+0000
+/project/ounce/, ounce, 1.1.0, A simple Python package to manipulate units, 2019-10-28T15:37:32+0000
+/project/imagecast/, imagecast, 0.4.0, Imagecast is like ImageMagick but for Pythonistas. Optionally provides its features via HTTP API., 2021-03-06T12:00:21+0000
+/project/thermo/, thermo, 0.2.3, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-15T03:18:28+0000
+/project/fio-amazon-mws/, fio_amazon_mws, 3.4.14.3, Amazon MWS Integration, 2016-01-12T16:45:13+0000
+/project/mathopt/, mathopt, 0.1.1, Library for mathematical optimization for sympy, 2020-10-11T20:49:10+0000
+/project/pyaware/, pyaware, 4.0.1, Framework for reading connected devices and publishing to the AWARE cloud, 2021-03-29T01:56:04+0000
+/project/pydatalogger/, pydatalogger, 0.1.0, PyDatalogger - Data logging made easy, 2019-03-02T14:10:04+0000
+/project/trytond-project-revenue/, trytond-project-revenue, 5.8.1, Tryton module to add revenue on project, 2021-01-01T15:32:43+0000
+/project/trytond-timesheet-cost/, trytond-timesheet-cost, 5.8.1, Tryton module to add cost on timesheet, 2021-01-01T15:43:26+0000
+/project/libthither/, libthither, 0.10.3, Python Library for Thither.Direct, 2018-07-14T21:15:22+0000
+/project/trytond-carrier-percentage/, trytond-carrier-percentage, 5.8.1, Tryton module to add cost method "on percentage" on carrier, 2021-01-01T15:25:25+0000
+/project/processscheduler/, ProcessScheduler, 0.5.0, A package to solve resource-constrained scheduling problems using SMT theory/solver., 2021-04-23T14:05:51+0000
+/project/trytond-calendar-classification/, trytond_calendar_classification, 4.2.0, Tryton module to add classification access to events, 2016-11-28T15:31:02+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/trytond-nereid-auth-facebook/, trytond_nereid_auth_facebook, 3.4.1.0, Nereid User Authentication using Facebook, 2015-05-13T09:03:35+0000
+/project/muscad/, muscad, 0.4.0, Generating OpenSCAD from Python code, 2020-06-02T20:03:50+0000
+/project/vc2-data-tables/, vc2-data-tables, 1.0.0, Machine-readable constants and data tables for the SMPTE ST 2042-1 VC-2 professional video codec., 2021-03-24T10:33:08+0000
+/project/covertable/, covertable, 2.0.1, It makes combinations covering pairs for pairwise testing., 2020-06-02T17:33:52+0000
+/project/pyoptosigma/, pyOptoSigma, 0.1, Python module for operating stepping moter stages manufactured by OptoSigma and Sigma Koki., 2016-05-28T09:00:47+0000
+/project/coralogix-logger/, coralogix-logger, 2.0.4, Coralogix Python SDK, 2021-01-12T20:38:25+0000
+/project/trytonlq-account-personal/, trytonlq-account-personal, 5.6.0, Tryton module that provides a chart of accounts for personal accounting, 2020-05-08T23:14:58+0000
+/project/ctid-programmer/, CTid-programmer, 1.3.5, A graphical user interface for programming CTid sensors., 2020-12-01T23:16:29+0000
+/project/trytond-stock-product-location/, trytond-stock-product-location, 5.8.1, Tryton module to add default location on product, 2021-01-01T15:41:48+0000
+/project/dwdweather2/, dwdweather2, 0.14.0, Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany., 2020-07-03T12:51:14+0000
+/project/gridvid/, gridvid, 0.0.1, Allows you to put various grids on videos., 2020-09-17T23:19:52+0000
+/project/genelearn/, GeneLearn, 0.0.0, Metaoptimization of genetic algorithms for machine learning, 2020-06-28T12:35:33+0000
+/project/fio-nereid-s3/, fio_nereid_s3, 4.0.1.0, Amazon S3 backend for Nereid Static Files, 2018-05-29T09:44:00+0000
+/project/trytond-stock-location-sequence/, trytond-stock-location-sequence, 5.8.1, Tryton module to add sequence on location, 2021-01-01T15:40:22+0000
+/project/vtime/, vtime, 2.0.0, Time related functions, 2020-05-10T09:51:08+0000
+/project/niswitch/, niswitch, 1.3.3, NI-SWITCH Python API, 2021-03-02T15:59:17+0000
+/project/dash/, dash, 1.20.0, A Python framework for building reactive web-apps. Developed by Plotly., 2021-04-08T22:19:49+0000
+/project/pycg3d/, pycg3d, 0.0.1, A pure Python package for Computational Geometry in 3D, 2017-02-16T17:14:40+0000
+/project/virtualreality/, virtualreality, 0.1.2, python side of hobo_vr, 2020-11-19T09:50:36+0000
+/project/dev-mapper/, dev-mapper, 0.0.4, Device Mapper to convert the sys-pci-address to a device file, 2018-12-06T01:53:28+0000
+/project/pyzone/, pyzone, 1.0, Ctypes wrappers to manage Solaris zones in Python., 2011-07-12T11:13:23+0000
+/project/trytond-product-code/, trytond_product_code, 3.4.2.4, Tryton module for adding multiple product codes, 2016-04-07T11:33:05+0000
+/project/solidpinball/, solidpinball, 0.1.1, A digital fabrication framework for pinball machines using Python, 2019-08-05T08:16:35+0000
+/project/masque/, masque, 2.5, Lithography mask library, 2021-03-26T17:35:11+0000
+/project/pycam/, pycam, 0.6.4, Open Source CAM - Toolpath Generation for 3-Axis CNC machining, 2019-07-28T14:51:08+0000
+/project/tsquared/, TSquared, 0.0.4, Python implementation of Hotelling's T2 for process monitoring, 2021-03-26T16:16:51+0000
+/project/vdd/, vdd, 0.3.2, Tools to assist value-driven design & decisions, 2019-08-11T18:31:57+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/trytond-product-measurements/, trytond-product-measurements, 5.8.1, Tryton module to add measurements to product, 2021-01-01T15:31:28+0000
+/project/vectorhub-nightly/, vectorhub-nightly, 1.2.0.2021.4.25.0.33.47.273454, One liner to encode data into vectors with state-of-the-art models using tensorflow, pytorch and other open source libraries. Word2Vec, Image2Vec, BERT, etc, 2021-04-25T00:33:48+0000
+/project/niflexlogger-automation/, niflexlogger-automation, 0.1.0, NI FlexLogger Python API, 2020-12-11T20:35:41+0000
+/project/python-controlchart/, python-controlchart, 0.2.0, Creation of control charts with matplotlib, 2019-12-23T11:14:10+0000
+/project/lpfgopt/, lpfgopt, 1.0.1, Leap Frog Optimizer, 2020-07-08T22:06:42+0000
+/project/zyc/, zyc, 0.4.0, A GUI for searching and selecting parts and footprints for use in SKiDL., 2020-09-21T02:29:17+0000
+/project/pdxdisplay/, pdxdisplay, 0.0.1a2, Simple web application for viewing PDX (Product Data eXchange) XML files, 2018-02-02T02:40:51+0000
+/project/observablelist/, ObservableList, 0.0.3, Python library for a list with an observer interface., 2016-07-22T08:12:49+0000
+/project/nisystemlink-clients/, nisystemlink-clients, 0.1.3, NI-SystemLink Python API, 2020-12-16T18:55:23+0000
+/project/ayabinterface/, AYABInterface, 0.0.9, A Python library with the interface to the AYAB shield., 2016-08-21T12:04:21+0000
+/project/simantha/, simantha, 0.0.1, Simulation of Manufacturing Systems, 2020-12-22T13:28:38+0000
+/project/vasuki/, vasuki, 0.3.2, Vasuki generates different kinds of random unique identifiers, tokens and words, 2019-07-04T08:52:36+0000
+/project/fixate/, fixate, 0.5.4, Framework for hardware test fixtures and automated test environments, 2020-08-20T02:01:44+0000
+/project/vector-shortcuts/, vector-shortcuts, 0.2.1, Vector and linear algebra toolbelt for NumPy, 2019-08-26T14:36:56+0000
+/project/cds-trytond-cms/, cds-trytond-cms, 4.6.2, Tryton module to add basic CMS capability, 2018-01-29T06:54:04+0000
+/project/pycomm3/, pycomm3, 1.1.1, A Python Ethernet/IP library for communicating with Allen-Bradley PLCs., 2021-04-16T12:55:12+0000
+/project/fasvautil/, fasvautil, 0.5.19, Project with utility functions used with FASva, 2019-11-07T22:59:32+0000
+/project/trytond-stock-consignment/, trytond-stock-consignment, 5.8.1, Tryton module to manage consignment stock, 2021-01-01T15:39:39+0000
+/project/photo2cnccut/, photo2cnccut, 0.1.0, Create g-code from photos., 2021-04-06T19:39:58+0000
+/project/exposan/, exposan, 0.0.10, Exposition of sanitation and resource recovery systems, 2021-04-24T20:53:47+0000
+/project/openlabs-amazon-mws/, openlabs_amazon_mws, 3.4.5.0, Amazon MWS Integration, 2015-06-06T05:09:52+0000
+/project/trytond-production/, trytond-production, 5.8.2, Tryton module for production, 2021-04-16T17:30:55+0000
+/project/minimalmodbus/, minimalmodbus, 1.0.2, Easy-to-use Modbus RTU and Modbus ASCII implementation for Python, 2019-08-11T00:36:43+0000
+/project/nifgen/, nifgen, 1.3.3, NI-FGEN Python API, 2021-03-02T15:59:37+0000
+/project/rtapylysis/, rtapylysis, 0.3, Synchrotorn Rapid Thermal Annealing (RTA) X-ray Diffraction (XRD) Data Analysis Project, 2017-01-24T18:08:39+0000
+/project/vdropbox/, vdropbox, 0.2.4, Utilities to read/write python objects to/from dropbox, 2021-03-21T17:36:21+0000
+/project/meshlab-pickedpoints/, meshlab-pickedpoints, 1.0.0, Read and write MeshLab picked point (.pp) files, 2020-07-01T14:48:40+0000
+/project/openscad-docsgen/, openscad-docsgen, 1.4.0, A processor to generate Markdown code documentation from OpenSCAD source comments., 2021-04-25T07:57:11+0000
+/project/gerbolyze/, gerbolyze, 2.1.0, A high-resolution image-to-PCB converter. Gerbolyze plots SVG, PNG and JPG onto existing gerber files. It handles almost the full SVG spec and deals with text, path outlines, patterns, arbitrary paths with self-intersections and holes, etc. fully automatically. It can vectorize raster images both by contour tracing and by grayscale dithering. All processing is done at the vector level without intermediate conversions to raster images accurately preserving the input., 2021-04-25T16:50:24+0000
+/project/chemicals/, chemicals, 1.0.5, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-25T17:42:59+0000
+/project/times2/, times2, 0.8, Times2 is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2015-10-26T15:10:11+0000
+/project/vivid-root/, vivid-root, 0.0.1, Algorithm Classification Catalog, 2019-10-19T16:15:12+0000
+/project/imprint/, imprint, 0.1a1, Program for creating MS Word reports from data and content templates, 2019-04-03T23:44:26+0000
+/project/vg/, vg, 1.9.0, Linear algebra for humans: a very good vector-geometry and linear-algebra toolbelt, 2020-06-04T21:15:03+0000
+/project/html-reports/, html-reports, 0.2.0, Module to create static html reports, 2021-01-02T12:08:34+0000
+/project/pypdx/, pypdx, 0.0.1b3, Extract information from a PDX XML file into a SQLite or PostgreSQL database, 2018-01-31T00:09:54+0000
+/project/gnuhealth-webdav3-server/, gnuhealth-webdav3-server, 3.8.0, GNU Health WebDAV server for Python 3, 2021-02-14T20:48:15+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/trytond-sugarcrm/, trytond_sugarcrm, 2.6.1.0, SugarCRM Integration, 2013-06-19T12:28:59+0000
+/project/qtpyvcp/, qtpyvcp, 0.3.12, Qt and Python based Virtual Control Panel framework for LinuxCNC., 2021-02-10T20:49:02+0000
+/project/pyqalx/, pyqalx, 0.14.2, High-level interfaces to the qalx API, 2020-11-10T16:44:12+0000
+/project/trytond-stock-lot-unit/, trytond-stock-lot-unit, 5.8.1, Tryton module to define unit on stock lot, 2021-01-01T15:40:55+0000
+/project/pycm/, pycm, 3.1, Multi-class confusion matrix library in Python, 2021-03-11T15:52:20+0000
+/project/intercom/, Intercom, 0.2.3, Messaging system for Home automation, 2014-02-27T15:50:13+0000
+/project/python-sudeste/, python_sudeste, 0.1.8, Módulo informativo do evento: PythonSudeste 2018, 2018-03-03T16:10:09+0000
+/project/trytond-ebay/, trytond_ebay, 3.4.8.1, eBay Integration, 2015-06-10T04:17:53+0000
+/project/simplecv/, SimpleCV, 1.3, Make Computers See with SimpleCV, the Python Framework for Machine Vision, 2012-08-10T20:42:41+0000
+/project/trytond-nereid-image-transformation/, trytond_nereid_image_transformation, 4.0.0.1, Nereid Dynamic Image Resizing and transformation module, 2016-08-17T07:33:27+0000
+/project/tolliver/, tolliver, 0.1b, An application for dialing in CNC hole tolerances, 2016-07-11T06:18:21+0000
+/project/dash-auth/, dash-auth, 1.4.1, Dash Authorization Package., 2020-08-11T19:44:37+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/nidigital/, nidigital, 1.0.0, NI-Digital Pattern Driver Python API, 2021-03-02T15:58:56+0000
+/project/hdbcli/, hdbcli, 2.8.16, SAP HANA Python Client, 2021-04-20T15:08:27+0000
+/project/jobmanager-client/, jobmanager-client, 0.14.3, Job Manager Client, 2018-07-24T23:42:07+0000
+/project/paretochart/, paretochart, 1.0, Pareto chart for python (similar to Matlab's, but much more flexible), 2013-09-05T20:14:19+0000
+/project/trytond-product-cost-history/, trytond-product-cost-history, 5.8.1, Tryton module to historize product cost, 2021-01-01T15:30:11+0000
+/project/copper/, copper, 0.9.1, Module for interacting with electromechanical systems., 2019-08-20T06:43:09+0000
+/project/vpalette/, vpalette, 2.0.1, Utility to easily use material design colors, 2020-05-10T08:19:06+0000
+/project/laudadriver/, LaudaDriver, 1.0.0a7, Simple helper to control the Lauda thermostat, 2017-05-22T13:46:44+0000
+/project/bscc/, bscc, 1.0.0, A shiphandling simulator interface for digital shipyard, 2020-01-14T17:34:20+0000
+/project/trytond-project/, trytond-project, 5.8.2, Tryton module with projects, 2021-03-03T17:29:32+0000
+/project/ctui/, ctui, 0.7.3, The ctui is a library similar to Python's cmd, but with a curses-like user interface, 2020-08-22T01:55:18+0000
+/project/dash-tokamak/, dash-tokamak, 1.6.0, Dash without the annoying bits. Main goals of this fork are (1) to enable Python to write state data to arbitrary component props, not just ones defined by a specific component; and (2) support React-style functional property values by binding unary functional expressions to the global application state, executing them whenever the property is accessed., 2019-11-13T20:05:20+0000
+/project/zplgen/, zplgen, 0.0.6, A library to aid in generating ZPL2 code., 2019-08-06T18:09:45+0000
+/project/wire-skin/, wire-skin, 0.3, Construct a simple skin around a wire frame mesh in Blender., 2019-11-05T03:09:34+0000
+/project/uspto-opendata-python/, uspto-opendata-python, 0.8.3, uspto-opendata-python is a client library for accessing the USPTO Open Data APIs, 2019-03-13T23:15:02+0000
+/project/quartet-vrs/, quartet_vrs, 1.1.8, A GS1-compliant VRS interface for the open-source EPCIS QU4RTET platform., 2020-02-04T17:18:58+0000
+/project/rafcon/, rafcon, 0.14.6, Develop your robotic tasks with hierarchical state machines using an intuitive graphical user interface, 2020-08-04T11:02:27+0000
+/project/v-time/, v-time, 1.2.0, Time related functions, 2019-12-22T08:36:47+0000
+/project/quartet-capture/, quartet_capture, 3.6.0, A capture and queuing interface for QU4RTET., 2021-03-22T19:33:01+0000
+/project/eaglepy/, eaglepy, 1.0.3, Read, modify, and create Cadsoft EAGLE files, 2014-08-08T22:04:40+0000
+/project/thermochem/, thermochem, 0.8.0, Python utilities for thermodynamics and thermochemistry, 2020-04-30T01:56:33+0000
+/project/fcmaesray/, fcmaesray, 0.1.3, A multi-node Python 3 gradient-free optimization library., 2020-08-24T16:29:34+0000
+/project/usbinfo/, usbinfo, 1.1.1, Module for introspecting USB devices on a system, 2018-11-20T00:24:48+0000
+/project/nist-nestor/, nist-nestor, 0.4.4, Quantifying tacit human knowledge for Smart Manufacturing Maintenance, for maintnenance-based investigatory analysis, 2020-09-30T19:21:32+0000
+/project/hightime/, hightime, 0.2.0, Hightime Python API, 2020-05-07T21:19:33+0000
+/project/nidaqmx/, nidaqmx, 0.5.7, NI-DAQmx Python API, 2017-12-14T21:15:14+0000
+/project/colorpage/, colorpage, 1.0.0, One aid used to colorful web page, books, etc., 2020-01-21T09:01:24+0000
+/project/jobmanager-api/, jobmanager-api, 0.13.10, Job Manager API, 2018-07-24T23:32:03+0000
+/project/ht/, ht, 1.0.1, Heat transfer component of Chemical Engineering Design Library (ChEDL), 2021-03-30T02:52:17+0000
+/project/django-epic/, django-epic, 0.4.7, A Django app to manage electronic parts inventories for PCB manufacturing., 2020-12-05T17:08:08+0000
+/project/vectorai/, vectorai, 0.2.5, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-01-22T15:55:16+0000
+/project/nisyscfg/, nisyscfg, 0.0.2, NI System Configuration Python API, 2020-12-14T08:12:52+0000
+/project/benker/, Benker, 0.5.2, Easily convert your CALS, HTML, Formex4, Office Open XML (docx) tables from one format to another., 2019-11-25T16:39:45+0000
+/project/trytonzz-sale-salesman/, trytonzz_sale_salesman, 3.4.0, Tryton module. Add salesman in sale, 2014-11-21T09:26:22+0000
+/project/vc2-bit-widths/, vc2-bit-widths, 1.0.0, Software for computing required bit widths for implementations of the SMPTE ST 2042-1 VC-2 professional video codec., 2021-03-24T10:40:40+0000
+/project/avbroadcast/, avbroadcast, 0.8.0, avbroadcast - republish media streams for mass consumption, 2019-03-25T11:12:59+0000
+/project/exoedge/, exoedge, 21.1.18, ExoEdge is the Python library for interacting with Exosite's ExoSense Industrial IoT Solution., 2021-01-18T16:18:53+0000
+/project/trytond-stock-lot/, trytond-stock-lot, 5.8.2, Tryton module for lot of products, 2021-01-01T15:40:33+0000
+/project/polliwog/, polliwog, 0.12.0, 2D and 3D computational geometry library which scales from prototyping to production, 2019-11-26T00:30:40+0000
+/project/mqttwarn/, mqttwarn, 0.20.0, mqttwarn - subscribe to MQTT topics and notify pluggable services, 2020-10-20T09:57:08+0000
+/project/ctmodbus/, ctmodbus, 0.5.3, A highly flexible Modbus tool made for penetration testers, 2021-03-01T09:23:12+0000
+/project/kiwiclient/, kiwiclient, 1.0.11, Client to the online version of ISC-Kiwi stability engine, 2018-07-31T09:14:43+0000
+/project/niscope/, niscope, 1.3.3, NI-SCOPE Python API, 2021-03-02T15:59:47+0000
+/project/printrun/, Printrun, 2.0.0rc7, Host software for 3D printers, 2020-09-06T12:00:22+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/v-palette/, v-palette, 1.1.0, Utility to easily use material design colors, 2019-04-02T16:45:24+0000
+/project/ereuse-desktop-app/, ereuse-desktop-app, 0.1, Desktop App, 2018-05-30T15:11:24+0000
+/project/marbles-core/, marbles.core, 0.12.1, A unittest extension that provides additional information on test failure, 2020-08-03T02:02:10+0000
+/project/pingo/, pingo, 0.2.0, Generic API to control boards with programmable IO pins., 2014-08-13T02:07:19+0000
+/project/rpi2caster/, rpi2caster, 2.5.0, Machine control software for Monotype composition casters, 2018-12-20T16:45:13+0000
+/project/biensoxe/, biensoxe, 0.8.5, Library to parse and validate Vietnamese vehicle plate, 2020-05-28T06:44:05+0000
+/project/kepconfig/, kepconfig, 1.0.0, SDK package for Kepware Configuration API, 2021-03-22T20:44:55+0000
+/project/epcpyyes/, EPCPyYes, 2.0.5, EPCIS Python module for quickly developing EPCIS-enabled applications., 2020-01-23T20:21:23+0000
+/project/htrest/, htrest, 0.1.10, Heliotherm heat pump REST API, 2021-01-30T16:35:13+0000
+/project/sitcpy/, sitcpy, 0.1.1, Python Library for SiTCP, 2019-04-26T07:48:01+0000
+/project/trytond-production-work/, trytond-production-work, 5.8.1, Tryton module for production work, 2021-01-01T15:31:06+0000
+/project/patzilla/, patzilla, 0.169.3, PatZilla is a modular patent information research platform and data integration toolkit. It features a modern user interface and access to multiple data sources., 2019-11-01T18:59:51+0000
+/project/pybotics/, pybotics, 1.0.0, Python Toolbox for Robotics, 2020-08-17T18:36:10+0000
+/project/pytire/, pytire, 0.3.0, Python library to handle tire attributes., 2021-03-14T23:47:48+0000
+/project/trytond-nereid-auth-linkedin/, trytond_nereid_auth_linkedin, 3.4.1.0, Nereid User Authentication using LinkedIn, 2015-05-13T09:02:43+0000
+/project/quartet-output/, quartet_output, 3.2.0, Output logic for QU4RTET supply chain messaging., 2020-12-02T22:15:27+0000
+/project/wltp/, wltp, 0.1.2a0, wltp: generate WLTC gear-shifts based on vehicle characteristics, 2019-06-05T20:15:45+0000
+/project/pyjazz/, pyjazz, 0.2.1.99, Official Python client for Jazz, 2018-03-11T21:19:35+0000
+/project/ustubby/, ustubby, 0.1.1, Micropython c stub generator, 2019-08-08T07:21:57+0000
+/project/strup/, strup, 1.0.0, A package for unpacking int, float, string and bool objects from a text string., 2020-10-24T13:10:48+0000
+/project/openlabs-nereid-s3/, openlabs_nereid_s3, 3.4.2.0, Amazon S3 backend for Nereid Static Files, 2015-07-11T11:08:01+0000
+/project/nimodinst/, nimodinst, 1.3.3, NI-ModInst Python API, 2021-03-02T15:59:27+0000
+/project/sltoo/, sltoo, 25.0.4, rmtoo, 2020-12-21T21:20:08+0000
+/project/python-gearbox/, python-gearbox, 0.1.2.a.dev, Python library for gear transmission design, 2015-05-03T06:58:30+0000
+/project/cause-effect/, cause-effect, 0.2.0, A library for cause-effect relationships., 2016-10-20T23:20:42+0000
+/project/kalenis-user-view/, kalenis-user-view, 5.6.3, , 2021-01-12T16:14:11+0000
+/project/pylmi-sdp/, PyLMI-SDP, 0.2, Symbolic linear matrix inequalities (LMI) and semi-definiteprogramming (SDP) tools for Python, 2013-09-16T19:08:03+0000
+/project/pycomm/, pycomm, 1.0.8, A PLC communication library for Python, 2015-11-01T16:20:56+0000
+/project/ctserial/, ctserial, 0.4.0, A highly flexible serial interface tool made for penetration testers, 2021-04-23T22:39:22+0000
+/project/co2sim/, co2sim, 3.0.0, The Type-Approving vehicle simulator predicting NEDC CO2 emissions from WLTP, 2019-01-30T11:28:54+0000
+/project/zeffclient/, ZeffClient, 1.0.3, ZeffClient is a command line tool & library for working with Zeff AI Cloud API., 2020-01-22T18:52:31+0000
+/project/fuzzylogic/, fuzzylogic, 1.0.1, Fuzzy Logic for Python 3, 2021-04-05T23:21:06+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/iams/, iams, 0.0.1a0, An industial agent management system aiming to control agents for manufacturing units., 2020-01-08T07:58:30+0000
+/project/co2mpas-driver/, co2mpas-driver, 1.3.0, Co2mpas_driver implements the microsimulation free-flow acceleration model (MFC), able to accurately and consistently reproduce acceleration dynamics of light-duty vehicles, 2020-09-08T06:45:42+0000
+/project/trytond-project-invoice/, trytond-project-invoice, 5.8.1, Tryton module to invoice projects, 2021-01-01T15:32:22+0000
+/project/trytond-stock-supply-production/, trytond-stock-supply-production, 5.8.1, Tryton module for stock supply of production, 2021-01-01T15:43:04+0000
+/project/nyanping/, nyanping, 0.0.3, Improved graphical ping tool, 2018-07-20T16:00:59+0000
+/project/vc2-quantisation-matrices/, vc2-quantisation-matrices, 1.0.0, Routines for computing quantisation matrices for the SMPTE ST 2042-2 VC-2 professional video codec., 2021-03-24T11:02:06+0000
+/project/fuefit/, fuefit, 0.0.6, *fuefit* fits engine-maps on physical parameters, 2014-12-03T19:28:07+0000
+/project/ukervi/, ukervi, 0.21.5,  This is a upython version of the Kervi framework. , 2019-11-05T22:15:48+0000
+/project/trytond-company-work-time/, trytond-company-work-time, 5.8.1, Tryton module to add work time on company, 2021-01-01T15:26:21+0000
+/project/cqparts/, cqparts, 0.2.1, Hierarchical and deeply parametric models using cadquery, 2018-05-30T12:21:35+0000
+/project/fatamorgana/, fatamorgana, 0.11, OASIS layout format parser and writer, 2021-01-08T17:46:03+0000
+/project/stackups/, stackups, 1.2.5, Stack up analyis: calculate clearances between machinery parts., 2018-01-05T02:10:20+0000
+/project/elm327-emulator/, ELM327-emulator, 2.1.0, ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter, 2021-03-28T11:49:49+0000
+/project/trytond-party-vcarddav/, trytond_party_vcarddav, 4.2.0, Tryton module for CardDAV, 2016-11-28T15:32:00+0000
+/project/trytond-nereid-auth-github/, trytond_nereid_auth_github, 3.4.0.1, Nereid User Authentication using Github, 2015-05-13T09:01:04+0000
+/project/octoclient/, octoclient, 0.2.dev1, Client library for OctoPrint REST API, 2017-06-20T05:52:44+0000
+/project/pythonic/, Pythonic, 1.2, Graphical automation tool, 2021-04-08T06:01:52+0000
+/project/pyuniversallibrary/, PyUniversalLibrary, 20061020, UNKNOWN, 2006-10-21T03:51:22+0000
+/project/trytond-google-maps/, trytond-google-maps, 5.8.1, Tryton module to link addresses to Google Maps, 2021-01-01T15:27:38+0000
+/project/dcitools/, dcitools, 0.7.2, Digital Cinema related collection of tools for Python, 2019-05-02T17:49:51+0000
+/project/geminimotordrive/, GeminiMotorDrive, 0.2, Utilities to control Parker Hannifin Gemini stepper/servo motor drives., 2016-02-12T22:52:41+0000
+/project/mcerp3/, mcerp3, 1.0.3, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2018-08-30T22:06:03+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/trytond-calendar-scheduling/, trytond_calendar_scheduling, 4.2.0, Tryton module to add scheduling support on CalDAV, 2016-11-28T15:22:19+0000
+/project/flatcam/, flatcam, 0.8.5, 2D Computer-Aided PCB Manufacturing, 2018-06-07T11:36:55+0000
+/project/gnuhealth-caldav/, gnuhealth-caldav, 3.8.0, CalDAV package for GNU Health and Python3, 2021-02-14T20:43:24+0000
+/project/trytond-product-attribute/, trytond-product-attribute, 5.8.1, Tryton module with product attributes, 2021-01-01T15:29:29+0000
+/project/m-loop/, M-LOOP, 3.2.1, M-LOOP: Machine-learning online optimization package. A python package of automated optimization tools - enhanced with machine-learning - for quantum scientific experiments, computer controlled systems or other optimization tasks., 2021-01-14T05:35:52+0000
+/project/octorest/, octorest, 0.4, Client library for OctoPrint REST API, 2020-05-22T16:40:45+0000
+/project/thermosteam/, thermosteam, 0.24.10, BioSTEAM's Premier Thermodynamic Engine, 2021-04-08T11:14:15+0000
+/project/fio-prestashop/, fio_prestashop, 3.4.10.0, Prestashop integration with Tryton, 2016-05-06T15:19:03+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/trytond-stock-inventory-location/, trytond-stock-inventory-location, 5.8.1, Tryton module to create inventories by locations, 2021-01-01T15:40:01+0000
+/project/nidcpower/, nidcpower, 1.3.3, NI-DCPower Python API, 2021-03-02T15:58:47+0000
+/project/trytond-nereid-shipping/, trytond_nereid_shipping, 3.0.1.0, API to facilitate multiple shipping methods to integrate
+        with Nereid, 2014-11-05T10:35:03+0000
+/project/kalenis-lims/, kalenis-lims, 5.0.0, Kalenis LIMS & ERP, 2019-07-17T13:49:21+0000
+/project/pygcode/, pygcode, 0.2.1, Basic g-code parser, interpreter, and encoder library., 2017-10-11T12:05:08+0000
+/project/flexsolve/, flexsolve, 0.4.8, Flexible function solvers, 2021-03-31T01:46:42+0000
+/project/pi-sht1x/, Pi-Sht1x, 1.0.9, Python 3 library for Sensirion SHT1x series of temperature & humidity sensors for the Raspberry Pi., 2016-10-15T06:17:10+0000
+/project/ereuse-devicehub/, eReuse-DeviceHub, 0.1.1, DeviceHub is a system to manage devices focused in reusing them., 2016-11-12T10:41:06+0000
+/project/vc2-conformance/, vc2-conformance, 1.0.1, Conformance testing utilities for the VC-2 video codec., 2021-04-21T13:36:06+0000
+/project/threadplotter/, threadPlotter, 0.0.2b2, a toolkit for designing plotter-compatible embroidery patterns, 2020-06-28T17:14:14+0000
+/project/svgdatashapes/, SVGdatashapes, 0.3.62, Simple procedural library to create many types of plots and data displays in SVG for dynamic web pages. General purpose: biomedical, scientific, business., 2020-03-11T19:38:20+0000
+/project/winnow/, winnow, 0.1.4, Winnow is a JSON-schema based library for publishing and manipulating families of products., 2015-08-27T13:30:06+0000
+/project/octoprint/, OctoPrint, 1.5.3, The snappy web interface for your 3D printer, 2021-01-19T10:37:35+0000
+/project/sci-analysis/, sci-analysis, 2.2.1, An easy to use and powerful python-based data exploration and analysis tool, 2019-04-12T03:39:09+0000
+/project/npmanager/, npmanager, 1.0-5, The super easy way to install and manageNGINX, PHP and MariaDB, 2015-06-28T10:24:21+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/ur-cb2/, ur_cb2, 0.2, A package to interface with a UR CB2 Robot over TCP/IP, 2016-03-22T03:38:11+0000
+/project/emulica/, emulica, 1.0.2, Emulation of logistic systems, 2020-12-02T10:46:16+0000
+/project/fpi/, fpi, 0.1.1, Fluid-particle Interaction component of Chemical Engineering Design Library (ChEDL), 2016-04-04T02:56:58+0000
+/project/octoprint-dashboard/, octoprint-dashboard, 0.3.3, Runs server application for controlling multiple 3D printers with OctoPrint, 2017-10-30T21:51:36+0000
+/project/emailharvester/, EmailHarvester, 2.0.1, A tool to retrieve Domain email addresses from Search Engines, 2016-05-03T17:45:10+0000
+/project/biosteam/, biosteam, 2.27.7, The Biorefinery Simulation and Techno-Economic Analysis Modules, 2021-04-15T05:25:54+0000
+/project/gdstk/, gdstk, 0.4.0, Python module for creation and manipulation of GDSII files., 2021-04-11T13:13:20+0000
+/project/trytond-magento/, trytond_magento, 3.4.20.1, Tryton Magento Integration, 2016-07-08T08:02:26+0000
+/project/grafana-wtf/, grafana-wtf, 0.9.0, Grep through all Grafana entities in the spirit of git-wtf, 2019-11-06T01:46:35+0000
+/project/v-log/, v-log, 1.0.1, Colored log that also stores a properly formated csv., 2020-01-12T18:17:22+0000
+/project/quartet-epcis/, quartet_epcis, 3.1.0, Defines EPCIS models and XML parsing., 2021-02-25T18:24:07+0000
+/project/trytond-stock-supply-day/, trytond-stock-supply-day, 5.8.1, Tryton module to add supply weekdays, 2021-01-01T15:42:42+0000
+/project/thermocouples-reference/, thermocouples_reference, 0.20, Thermocouple emf reference functions, 2014-01-05T14:46:50+0000
+/project/trytond-webdav3/, trytond_webdav3, 4.2.3, GNU Health WebDAV server for Python 3, 2017-11-15T17:14:01+0000
+/project/trytond-purchase-shipment-cost/, trytond-purchase-shipment-cost, 5.8.1, Tryton module for purchase shipment cost, 2021-01-01T15:34:23+0000
+/project/infogen/, infogen, 1.0.0, Personal Information generator.Generate Person Data with all required infomation, 2013-04-22T09:17:27+0000
+/project/fcmaes/, fcmaes, 1.2.17, A Python 3 gradient-free optimization library., 2021-03-21T11:30:28+0000
+/project/terkin-micropython-libraries/, terkin-micropython-libraries, 0.10.0, Terkin MicroPython runtime libraries, 2020-05-22T00:10:27+0000
+/project/minesoft-patbase-client/, minesoft-patbase-client, 0.1.0, minesoft-patbase-client is a client library for accessing the Minesoft PatBase REST API, 2018-06-12T19:29:01+0000
+/project/htknx/, htknx, 0.2.0, Heliotherm heat pump KNX gateway, 2021-02-06T16:23:28+0000
+/project/pyrqa/, PyRQA, 8.0.0, Recurrence analysis in a massively parallel manner using the OpenCL framework., 2021-02-06T18:37:25+0000
+/project/trytond-prestashop/, trytond_prestashop, 2.8.0.1dev, Prestashop Integration, 2013-07-02T20:20:11+0000
+/project/proximity/, proximity, 0.2.0, Simple scenegraph for quickly debugging 3D meshes, polylines, and points, 2020-12-09T00:22:20+0000
+/project/pyrgg/, pyrgg, 1.0, Python Random Graph Generator, 2021-01-11T16:16:53+0000
+/project/vcrypto/, vcrypto, 2.0.0, Utility to easily store password/secrets, 2020-05-10T09:25:25+0000
+/project/cds-trytond-sale-tax-subdivision/, cds-trytond-sale-tax-subdivision, 4.6.1, Tryton module to apply sales tax based on subdivision, 2018-01-28T05:21:13+0000
+/project/aiomodbus/, aiomodbus, 0.3.3, Lightweight Modbus library using asyncio, 2020-10-02T06:45:49+0000
+/project/pyromat/, PYroMat, 2.0.12, Thermodynamic properties in Python., 2019-01-04T22:30:48+0000
+/project/trytond-stock-supply-forecast/, trytond-stock-supply-forecast, 5.8.1, Tryton module to add forecast to supply computation, 2021-01-01T15:42:53+0000
+/project/nixnet/, nixnet, 0.3.1, NI-XNET Python API, 2019-06-21T19:37:01+0000
+/project/iceman/, iceman, 0.3.4, A symmetric TLS library written in python, 2018-02-10T09:40:36+0000
+/project/fio-shipping-endicia/, fio_shipping_endicia, 4.0.0.5, Integration with USPS via Endicia for Tryton, 2016-11-15T11:42:01+0000
+/project/nise/, nise, 1.3.3, NI Switch Executive Python API, 2021-03-02T15:59:57+0000
+/project/trytond-bank/, trytond-bank, 5.8.1, Tryton module with banks, 2021-01-01T15:25:04+0000
+/project/trytond-project-plan/, trytond-project-plan, 5.8.1, Tryton module to add planning capabilities on projects, 2021-01-01T15:32:32+0000
+/project/trytond-electronic-mail-template/, trytond_electronic_mail_template, 2.4.0.2, Electronic mail template, 2012-06-05T13:24:37+0000
+/project/rmtoo/, rmtoo, 25.0.1, Free and OpenSource Requirements Management Tool, 2020-08-31T13:41:52+0000
+/project/lacecore/, lacecore, 0.8.0, Polygonal mesh library optimized for cloud computation., 2021-03-23T22:49:35+0000
+/project/adlink-usb/, adlink-usb, 0.0.1, Adlink USB DAQ driver, 2020-05-31T02:52:02+0000
+/project/fasvaorm/, fasvaorm, 0.8.3, fasvaorm is a ORM to access the database used within FASva., 2019-11-29T18:38:42+0000
+/project/trytond-party-siret/, trytond-party-siret, 5.8.1, Tryton module to add SIRET/SIREN on parties, 2021-01-01T15:29:05+0000
+/project/gdspy/, gdspy, 1.6.4, Python module for creating/importing/merging GDSII files., 2021-04-23T11:00:38+0000
+/project/deprecator/, deprecator, 0.3, Deprecator provides a decorator to easily depreate old code., 2015-06-03T17:36:13+0000
+/project/marbles/, marbles, 0.12.1, Read better test failures, 2020-08-03T02:02:08+0000
+/project/kotori/, kotori, 0.26.6, Kotori is a data acquisition, processing and graphing toolkit for humans, 2021-02-17T14:53:25+0000
+/project/python-can/, python-can, 3.3.4, Controller Area Network interface module for Python, 2020-10-04T20:06:20+0000
+/project/s3mpython/, S3MPython, 3.1.0.4, Python implementation of the S3Model https://datainsights.tech/S3Model/ specifications version: 3.1.0, 2018-11-24T13:04:43+0000
+/project/lpfgopt-lite/, lpfgopt-lite, 0.9.2, Leap Frog Optimizer - Lite Edition, 2019-04-26T20:26:26+0000
+/project/co2wui/, co2wui, 0.0.13, WebUI for co2mpas, 2019-11-08T09:32:37+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/serialbox/, serialbox, 2.3.4, Serial Number Distribution Made Easy., 2021-02-10T16:32:55+0000
+/project/bio-rtd/, bio-rtd, 0.7.2, Library for modeling residence time distributions (RTD) of integrated continuous biomanufacturing processes., 2020-04-10T19:43:43+0000
+/project/jp-cleanup/, jp-cleanup, 0.1.1, Cleanup Jupyter Notebook files, 2019-11-23T14:28:30+0000
+/project/robodk/, robodk, 5.2.1, RoboDK tools for simulating and programming industrial robots (implements the RoboDK API), 2021-03-06T21:49:08+0000
+/project/simpledash/, simpledash, 0.2.2, Library to simplify building Plotly Dash applications, 2020-03-08T19:52:56+0000
+/project/qsdsan/, qsdsan, 0.2.3, Quantitative Sustainable Design for sanitation and resource recovery systems, 2021-04-24T21:13:37+0000
+/project/citygml2stl/, citygml2stl, 0.1a1, CityGML to printable STL, 2015-06-22T16:38:01+0000
+/project/machball/, machball, 0.2.0, self-limited (ALD, ALE) reactive transport in nanostructures, 2020-08-02T20:49:36+0000
+/project/trytond-timesheet/, trytond-timesheet, 5.8.2, Tryton module with timesheets, 2021-02-19T20:25:55+0000
+/project/nisystemlink-configuration/, nisystemlink-configuration, 0.1.0, A command-line utility for managing SystemLink Server configurations, 2020-08-12T18:22:21+0000
+/project/jobmanager-common/, jobmanager-common, 0.13.10, Job Manager Common Library, 2018-10-08T16:11:52+0000
+/project/awlsim/, awlsim, 0.74.0, S7 compatible Programmable Logic Controller PLC/SPS (AWL, STL, FUP, FBD), 2020-09-13T08:47:02+0000
+/project/float-raster/, float-raster, 0.6, High-precision anti-aliasing polygon rasterizer, 2020-11-03T09:23:12+0000
+/project/eparsecis/, eparsecis, 3.1.0, Python lxml parsing for EPCIS Events., 2019-05-21T14:46:52+0000
+/project/optimisation/, Optimisation, 1.2, Cellular Optimisation Functions, 2017-08-28T09:19:12+0000
+/project/fastdbf/, fastdbf, 0.1.6, Read DBF Files with C and Python, fast., 2020-12-09T16:32:33+0000
+/project/thermosolver/, thermosolver, 0.0.1, Under development, 2016-12-17T14:28:21+0000
+/project/trytond-stock-package/, trytond-stock-package, 5.8.2, Tryton module for stock packaging, 2021-02-01T22:01:05+0000
+/project/kissats/, kissats, 1.0.0a5, A simple ATS, 2018-07-24T06:34:15+0000
+/project/trytond-product-cost-fifo/, trytond-product-cost-fifo, 5.8.1, Tryton module to add FIFO cost method, 2021-01-01T15:30:01+0000
+/project/trytond-purchase-invoice-line-standalone/, trytond-purchase-invoice-line-standalone, 5.8.1, Tryton module for standalone invoice line from purchase, 2021-01-01T15:33:28+0000
+/project/barcode-generator/, barcode-generator, 0.1rc15, Simple lightweight python barcode EAN generator. Output format SVG and ASCII, 2015-10-13T17:30:07+0000
+/project/kunteksto/, kunteksto, 2.1.0, The tool to translate your CSV data files into RDF, XML and JSON with full semantics and syntactic validation., 2018-12-28T05:50:41+0000
+/project/fio-ebay/, fio_ebay, 3.4.10.1, eBay Integration, 2016-04-04T11:34:07+0000
+/project/co2dice/, co2dice, 3.0.0, Polyvers's lib to derive subproject versions from tags on Git monorepos., 2019-01-30T11:27:32+0000
+/project/trytond-carrier/, trytond-carrier, 5.8.1, Tryton module with carriers, 2021-01-01T15:25:15+0000
+/project/dashserve/, dashserve, 0.1.7, develop and serve Plotly Dash apps in Jupyter Notebook, 2020-07-02T08:19:27+0000
+/project/trytond-currency/, trytond-currency, 5.8.1, Tryton module with currencies, 2021-01-01T15:26:43+0000
+/project/trytond-stock-forecast/, trytond-stock-forecast, 5.8.1, Tryton module with stock forecasts, 2021-01-01T15:39:50+0000
+/project/atiiaftt/, atiiaftt, 0.1.1, CFFI wrap of ATI-IA force-torque sensor transform c library, 2018-10-04T16:36:33+0000
+/project/nestor-qt/, nestor-qt, 0.3.2, Legacy (Qt5) GUI for the Nestor annotation tool, 2020-09-30T21:03:58+0000
+/project/knittingpattern/, knittingpattern, 0.1.19, Python library for knitting machines., 2016-08-21T10:29:01+0000
+/project/trytond-stock-split/, trytond-stock-split, 5.8.1, Tryton module to split stock move, 2021-01-01T15:42:21+0000
+/project/times/, times, 0.7, Times is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2014-08-24T06:13:20+0000
+/project/simple-websocket-server/, simple-websocket-server, 0.4.1, A simple WebSocket server, 2021-01-08T13:43:21+0000
+/project/kervi-core/, kervi-core, 0.21.5,  Core components for the Kervi framework. , 2019-11-05T22:15:11+0000
+/project/bw2qsd/, bw2qsd, 0.0.10, Bridging Brightway2 and QSD packages for LCA, 2021-04-20T17:31:01+0000
+/project/tessagon/, tessagon, 0.6, Tessellate your favorite 2D manifolds with triangles, hexagons, and other interesting patterns., 2019-11-06T03:19:59+0000
+/project/trytond-calendar/, trytond_calendar, 4.2.0, Tryton module for CalDAV, 2016-11-28T15:17:41+0000
+/project/cds-trytond-product-uri/, cds-trytond-product-uri, 4.6.1, Tryton module to add URI slugs to products, 2018-01-28T05:10:15+0000
+/project/wafer-map/, wafer-map, 1.1.2, Semiconductor Wafer Mapping, 2019-10-14T16:22:19+0000
+/project/pytkgen/, pytkgen, 1.7, Create Tkinter GUIs from JSON definition files., 2020-06-22T08:18:49+0000
+/project/fluids/, fluids, 1.0.5, Fluid dynamics component of Chemical Engineering Design Library (ChEDL), 2021-04-22T02:13:17+0000
+/project/sht-sensor/, sht-sensor, 18.4.2, Driver and command-line tool for Sensirion SHT1x and SHT7x sensors connected to GPIO pins., 2018-04-06T23:56:17+0000
+/project/cds-trytond-product-image/, cds-trytond-product-image, 4.6.1, Tryton module with product images, 2018-01-28T04:57:50+0000
+/project/trytond-electronic-mail/, trytond_electronic_mail, 2.6.1.0, EMail module for Tryton, 2013-08-01T13:58:04+0000
+/project/checkbox-ng/, checkbox-ng, 1.4.0, Checkbox - Command Line Test Runner, 2019-01-30T13:52:56+0000
+/project/marbles-mixins/, marbles.mixins, 0.12.1, Semantically-rich assertions for use in marbles and unittest test cases, 2020-08-03T02:02:11+0000
+/project/admesh/, admesh, 0.98.9, Python bindings for ADMesh, STL maipulation library, 2018-06-24T18:19:57+0000
+/project/cqparts-misc/, cqparts-misc, 0.1.0, Miscelaneous content library for cqparts, 2018-03-19T10:40:31+0000
+/project/ormm/, ormm, 0.0.3, A collection of Operations Research Models & Methods, 2020-08-09T12:43:44+0000
+/project/pyprofibus/, pyprofibus, 1.8, Python PROFIBUS module, 2020-09-13T08:22:05+0000
+/project/kicad-backannotate/, kicad-backannotate, 0.0.1, A back-annotation tool for Kicad EDA, 2018-01-20T22:07:25+0000
+/project/thermistor-utils/, thermistor-utils, 0.0.4, Steinhart -- Hart and Beta thermistor temperature model in Python and C. Implementation and utilities, 2019-12-09T10:56:20+0000
+/project/icecore/, icecore, 0.2.0.0, icecore C++ library python bindings, 2018-03-02T01:29:39+0000
+/project/rpi-piusv/, rpi-piusv, 0.1.0, Python module for RPI USV+ Raspberry Pi - USV+, 2020-05-17T16:46:05+0000
+/project/htheatpump/, htheatpump, 1.3.1, Easy-to-use Python communication module for Heliotherm heat pumps, 2021-01-20T19:33:26+0000
+/project/pidata/, PIdata, 0.2.2, An easy-to-use connector for the OSI PI historian, 2020-06-11T07:12:44+0000
+/project/v-crypt/, v-crypt, 1.0.4, Utility to easily store password/secrets., 2019-04-21T09:34:08+0000
+/project/python-snap7/, python-snap7, 1.0, Python wrapper for the snap7 library, 2021-01-19T15:43:24+0000
+/project/trytond-party/, trytond-party, 5.8.1, Tryton module with parties and addresses, 2021-01-01T15:28:43+0000
+/project/semi-ate-stil/, Semi-ATE-STIL, 0.0.1, Standard Tester Interface Library [IEEE1450] with python, 2021-02-19T19:20:05+0000
+/project/swapxy/, SwapXY, 0.3.0, Swap and/or reverse the X and Y axes used by the jog controls, 2020-07-28T21:45:26+0000
+/project/trytond-stock/, trytond-stock, 5.8.4, Tryton module for stock and inventory, 2021-04-16T17:11:44+0000
+/project/cqparts-fasteners/, cqparts-fasteners, 0.1.0, Nuts, Bolts and Screws content library for cqparts, 2018-03-19T09:17:33+0000
+/project/gdscad/, gdsCAD, 0.4.5, A simple Python package for creating or reading GDSII layout files., 2015-02-06T09:10:21+0000
+/project/mr-sim/, mr-sim, 0.3.0, A package for the simulation of abrasive material removal processes., 2021-04-08T04:00:00+0000
+/project/nitclk/, nitclk, 1.3.3, NI-TClk Python API, 2021-03-02T15:59:58+0000
+/project/rogeriopradoj-paretochart/, rogeriopradoj-paretochart, 2.0.0, Pareto chart for python (similar to Matlab's, but much more flexible)  - Fork from @tintrinh, 2019-06-16T13:15:34+0000
+/project/wltp-gearshift/, wltp-gearshift, 1.1.1, Gearshift tool implement the Sub-Annex 1 and Sub-Annex 2 of theCOMMISSION REGULATION (EU) 2017/1151 of 1 June 2017 - Annex XXI, 2021-04-22T16:44:58+0000
+/project/cqparts-bearings/, cqparts-bearings, 0.1.0, Bearings content library for cqparts, 2018-03-19T02:33:21+0000
+/project/dexpy/, dexpy, 0.12, dexpy: Design of Experiments (DOE) for Python., 2017-06-12T22:33:15+0000
+/project/deviceutils/, deviceutils, 0.1.4, Python Device Interaction Utilities, 2014-05-29T16:49:09+0000
+/project/trytond-sale-stock-quantity/, trytond-sale-stock-quantity, 5.8.1, Tryton module to add stock warning on sale, 2021-01-01T15:38:08+0000
+/project/mindtree/, MindTree, 1.0.0-a002, Notes organizer/Outliner/PIM for Python 2.5., 2008-08-07T15:13:24+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/parsim/, parsim, 2.1.0.post1, A tool for working with parameterized simulation models, 2020-08-03T11:07:58+0000
+/project/robotframework-kicadlibrary/, robotframework-kicadlibrary, 2.0.1, Robot Framework KiCAD library, 2020-09-14T11:45:07+0000
+/project/plainbox/, plainbox, 0.38.0, Toolkit for software and hardware integration testing, 2017-11-16T11:21:33+0000
+/project/osc2mqtt/, osc2mqtt, 0.2b2, An OSC to MQTT bridge based on pyliblo and paho-mqtt., 2015-10-09T00:27:44+0000
+/project/django-epic-sample/, django-epic-sample, 0.4.0, A minimal Django project to demonstrate EPIC functionality., 2019-10-08T16:31:15+0000
+/project/isotel-idm/, isotel-idm, 1.0b21, A python framework for the ISOTEL Data-acquisition & Metering Smart Gateway for easy integration with Internet of Things., 2019-11-26T21:06:07+0000
+/project/trytond-webdav/, trytond_webdav, 4.2.1, Tryton module for webdav, 2017-02-06T22:10:12+0000
+/project/trytond-stock-lot-sled/, trytond-stock-lot-sled, 5.8.1, Tryton module for shelf life expiration date of product lots, 2021-01-01T15:40:43+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/pytinyexr/, pytinyexr, 0.9.1, Python bindings for TinyEXR(OpenEXR loader/saver), 2020-04-26T11:50:01+0000
+/project/pyinfluxql/, pyinfluxql, 0.1.3, A query generator for the SQL dialect of the Influx Query Language (InfluxQL), 2021-02-14T15:24:48+0000
+/project/grafanimate/, grafanimate, 0.5.5, Animate timeseries data with Grafana, 2019-02-04T02:11:24+0000
+/project/dj-plotly-dash/, dj-plotly-dash, 0.17.0, A Python framework for building reactive web-apps. Developed by Plotly., 2020-12-17T21:26:19+0000
+/project/pymba/, pymba, 0.3.7, Pymba is a Python wrapper for Allied Vision's Vimba C API., 2020-06-16T06:00:19+0000
+/project/trytond-country/, trytond-country, 5.8.1, Tryton module with countries, 2021-01-01T15:26:32+0000
+/project/trytond-sale-shipment-cost/, trytond-sale-shipment-cost, 5.8.3, Tryton module for sale shipment cost, 2021-04-16T17:18:42+0000
+/project/pandalone/, pandalone, 0.5.0, pandalone: process data-trees with relocatable-paths, 2020-08-31T08:56:22+0000
+/project/pdfimpose/, pdfimpose, 1.1.0, Perform imposition of a PDF file., 2019-02-12T18:38:07+0000
+/project/trytond-elastic-search/, trytond_elastic_search, 4.0.0.4, Tryton module for Elastic Search, 2016-09-06T17:10:45+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/instrumentkit/, instrumentkit, 0.6.0, Test and measurement communication library, 2020-01-13T02:36:51+0000
+/project/pysemantic/, pysemantic, v0.1.1, A traits based data validation module for pandas data structures., 2015-07-01T14:22:33+0000
+/project/co2gui/, co2gui, 3.0.0, Polyvers's lib to derive subproject versions from tags on Git monorepos., 2019-01-30T11:27:42+0000
+/project/trytonzz-sale-shop/, trytonzz_sale_shop, 3.4.1, Tryton module to manage shops - users in sale, 2014-12-18T07:23:50+0000
+/project/dash-cytoscape/, dash-cytoscape, 0.2.0, A Component Library for Dash aimed at facilitating network visualization in Python, wrapped around Cytoscape.js, 2020-07-13T20:34:40+0000
+/project/sigfig/, sigfig, 1.1.8, Python library for rounding numbers (with expected results), 2019-11-27T20:53:27+0000
+/project/pynterval/, pynterval, 0.3, A small flexible interval package, 2021-04-17T11:07:40+0000
+/project/robot2cam-calibration/, robot2cam_calibration, 0.1, A package to calibrate a robot arm to a camera, 2016-06-03T16:16:19+0000
+/project/toprammer/, toprammer, 0.17, TOP2049 Open Source programming suite, 2017-02-07T20:11:49+0000
+/project/trytond-production-routing/, trytond-production-routing, 5.8.1, Tryton module for production routing, 2021-01-01T15:30:44+0000
+/project/trytond-endicia-integration/, trytond_endicia_integration, 3.4.0.3, Integration with USPS via Endicia for Tryton, 2015-05-07T04:50:37+0000
+/project/motaword/, motaword, 0.9.1, Motaword Python SDK, 2016-02-03T17:58:39+0000
+/project/eems/, eems, 0.1.0.4b1, eems - easy energy monitoring system, 2016-02-11T21:25:31+0000
+/project/quartet-masterdata/, quartet_masterdata, 2.2.6, Models and APIs to support material, lot and location master data., 2020-12-15T19:38:26+0000
+/project/trytond-stock-supply/, trytond-stock-supply, 5.8.1, Tryton module for stock supply, 2021-01-01T15:42:31+0000
+/project/kniteditor/, kniteditor, 1.0.5, An editor for knitwork., 2016-11-14T21:10:20+0000
+/project/cuebeam/, cueBeam, 0.0.1, Simple acoustic interference and beam forming simulation based on Huygens principle, 2017-05-22T15:45:02+0000
+/project/pymadcad/, pymadcad, 0.7, Simple yet powerful CAD (Computer Aided Design) library, written with Python, 2021-03-16T15:56:33+0000
+/project/iec60063/, iec60063, 0.2, Generator for IEC60063 Preferred Values, 2021-03-26T04:19:55+0000
+/project/mechwolf/, mechwolf, 0.1.1, Continuous flow process description, analysis, and automation, 2019-09-23T19:36:16+0000
+/project/trytond-calendar-todo/, trytond_calendar_todo, 4.2.0, Tryton module to add TODO on CalDAV, 2016-11-28T15:32:50+0000
+/project/co2mpas/, co2mpas, 4.1.10, The Type-Approving vehicle simulator predicting NEDC CO2 emissions from WLTP, 2019-11-07T10:43:48+0000
+/project/noolite/, noolite, 1.4.0, Class for NooLite USB stick, 2016-03-31T17:25:37+0000
+/project/pytest-growl/, pytest-growl, 0.2, Growl notifications for pytest results., 2014-01-13T16:04:10+0000
+/project/kisspack/, kisspack, 1.0.0a2, A test package for KissATS, 2018-07-29T07:21:59+0000
+/project/pynterval/, pynterval, 0.3, A small flexible interval package, 2021-04-17T11:07:40+0000
+/project/yywtestpackage/, yywtestpackage, 0.1.4, yywtestpackage just test package, 2020-09-22T16:23:42+0000
+/project/trytonlq-authentication-totp/, trytonlq-authentication-totp, 5.6.0, Tryton module that allows users to use time based one time passwords as an authentication method, 2020-05-10T12:25:45+0000
+/project/pyandon/, pyandon, 0.1.2, Python module for interacting with a range of different andon light systems, 2021-03-30T12:41:58+0000
+/project/trytond-carrier-weight/, trytond-carrier-weight, 5.8.1, Tryton module to add cost method "on weight" on carrier, 2021-01-01T15:25:36+0000
+/project/businessowner-retriever/, businessowner-retriever, 2.0.1, Tool to retrieve list of Vietnamese registered business owners., 2020-02-25T12:39:34+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/python-networkdays/, python-networkdays, 1.0.2, Business days (workdays) between two date, like `NetworkDays` function used on spreadsheets and more., 2020-12-28T14:21:31+0000
+/project/roulier-gls-fr/, roulier-gls-fr, 0.1.0, Send parcels with GLS France delivery carrier. Carrier return parcel label and traceability url, 2019-05-16T15:17:15+0000
+/project/gastop/, gastop, 1.0.2, A Genetic Algorithm for Structural Design and Topological Optimization, 2019-01-15T23:06:37+0000
+/project/django-ru-fields/, django-ru-fields, 0.1.0, specific russian fields, 2014-11-03T09:06:06+0000
+/project/datamax-printer/, datamax-printer, 0.1.1, Controll a datamax o'neil labelprinter using DPL, 2019-03-26T08:40:33+0000
+/project/dash-holoniq-components/, dash-holoniq-components, 0.0.5, Custom components for use in Plotly Dash, 2019-09-27T07:33:59+0000
+/project/trytond-account-de-skr03/, trytond-account-de-skr03, 5.8.1, Tryton module with German chart of accounts SKR03, 2021-01-01T15:17:49+0000
+/project/trytond-account-invoice-line-standalone/, trytond-account-invoice-line-standalone, 5.8.1, Tryton module to have standalone invoice lines, 2021-01-01T15:20:08+0000
+/project/trytond-nereid-party-multi-user/, trytond_nereid_party_multi_user, 4.0.0.2, UNKNOWN, 2016-08-22T11:12:11+0000
+/project/modbus-proxy/, modbus-proxy, 0.4.1, ModBus TCP proxy, 2021-01-26T17:20:34+0000
+/project/trytond-product/, trytond-product, 5.8.2, Tryton module with products, 2021-04-16T17:34:17+0000
+/project/adcopen/, adcopen, 1.0.26, Open-source python libraries for data integration with ADC equipment., 2021-04-24T13:35:15+0000
+/project/trytond-calendar-webdav3/, trytond_calendar_webdav3, 4.2.2, CalDAV module for GNU Health and Python3, 2017-11-15T17:14:10+0000
+/project/openscad-runner/, openscad-runner, 1.0.9, A Python library to interface with the OpenSCAD app., 2021-04-13T03:42:59+0000
+/project/tri-again/, tri-again, 0.1.4, Simple scenegraph for quickly debugging 3D meshes, polylines, and points, 2020-12-07T20:54:48+0000
+/project/robot2cam-calibration/, robot2cam_calibration, 0.1, A package to calibrate a robot arm to a camera, 2016-06-03T16:16:19+0000
+/project/toprammer/, toprammer, 0.17, TOP2049 Open Source programming suite, 2017-02-07T20:11:49+0000
+/project/trytond-production-routing/, trytond-production-routing, 5.8.1, Tryton module for production routing, 2021-01-01T15:30:44+0000
+/project/trytond-endicia-integration/, trytond_endicia_integration, 3.4.0.3, Integration with USPS via Endicia for Tryton, 2015-05-07T04:50:37+0000
+/project/motaword/, motaword, 0.9.1, Motaword Python SDK, 2016-02-03T17:58:39+0000
+/project/eems/, eems, 0.1.0.4b1, eems - easy energy monitoring system, 2016-02-11T21:25:31+0000
+/project/quartet-masterdata/, quartet_masterdata, 2.2.6, Models and APIs to support material, lot and location master data., 2020-12-15T19:38:26+0000
+/project/trytond-stock-supply/, trytond-stock-supply, 5.8.1, Tryton module for stock supply, 2021-01-01T15:42:31+0000
+/project/kniteditor/, kniteditor, 1.0.5, An editor for knitwork., 2016-11-14T21:10:20+0000
+/project/cuebeam/, cueBeam, 0.0.1, Simple acoustic interference and beam forming simulation based on Huygens principle, 2017-05-22T15:45:02+0000
+/project/pymadcad/, pymadcad, 0.7, Simple yet powerful CAD (Computer Aided Design) library, written with Python, 2021-03-16T15:56:33+0000
+/project/iec60063/, iec60063, 0.2, Generator for IEC60063 Preferred Values, 2021-03-26T04:19:55+0000
+/project/mechwolf/, mechwolf, 0.1.1, Continuous flow process description, analysis, and automation, 2019-09-23T19:36:16+0000
+/project/trytond-calendar-todo/, trytond_calendar_todo, 4.2.0, Tryton module to add TODO on CalDAV, 2016-11-28T15:32:50+0000
+/project/co2mpas/, co2mpas, 4.1.10, The Type-Approving vehicle simulator predicting NEDC CO2 emissions from WLTP, 2019-11-07T10:43:48+0000
+/project/noolite/, noolite, 1.4.0, Class for NooLite USB stick, 2016-03-31T17:25:37+0000
+/project/pytest-growl/, pytest-growl, 0.2, Growl notifications for pytest results., 2014-01-13T16:04:10+0000
+/project/kisspack/, kisspack, 1.0.0a2, A test package for KissATS, 2018-07-29T07:21:59+0000
+/project/proc-plot/, proc-plot, 1.5, Trending for Process Control Data Analysis, 2020-10-08T00:42:25+0000
+/project/klamath/, klamath, 1.1, GDSII format reader/writer, 2021-04-12T21:00:24+0000
+/project/trytond-project-revenue/, trytond-project-revenue, 5.8.1, Tryton module to add revenue on project, 2021-01-01T15:32:43+0000
+/project/trytond-timesheet-cost/, trytond-timesheet-cost, 5.8.1, Tryton module to add cost on timesheet, 2021-01-01T15:43:26+0000
+/project/libthither/, libthither, 0.10.3, Python Library for Thither.Direct, 2018-07-14T21:15:22+0000
+/project/trytond-carrier-percentage/, trytond-carrier-percentage, 5.8.1, Tryton module to add cost method "on percentage" on carrier, 2021-01-01T15:25:25+0000
+/project/processscheduler/, ProcessScheduler, 0.5.0, A package to solve resource-constrained scheduling problems using SMT theory/solver., 2021-04-23T14:05:51+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/trytond-nereid-auth-facebook/, trytond_nereid_auth_facebook, 3.4.1.0, Nereid User Authentication using Facebook, 2015-05-13T09:03:35+0000
+/project/muscad/, muscad, 0.4.0, Generating OpenSCAD from Python code, 2020-06-02T20:03:50+0000
+/project/vc2-data-tables/, vc2-data-tables, 1.0.0, Machine-readable constants and data tables for the SMPTE ST 2042-1 VC-2 professional video codec., 2021-03-24T10:33:08+0000
+/project/covertable/, covertable, 2.0.1, It makes combinations covering pairs for pairwise testing., 2020-06-02T17:33:52+0000
+/project/trytond-stock-location-sequence/, trytond-stock-location-sequence, 5.8.1, Tryton module to add sequence on location, 2021-01-01T15:40:22+0000
+/project/vtime/, vtime, 2.0.0, Time related functions, 2020-05-10T09:51:08+0000
+/project/pycg3d/, pycg3d, 0.0.1, A pure Python package for Computational Geometry in 3D, 2017-02-16T17:14:40+0000
+/project/virtualreality/, virtualreality, 0.1.2, python side of hobo_vr, 2020-11-19T09:50:36+0000
+/project/dash-holoniq-components/, dash-holoniq-components, 0.0.5, Custom components for use in Plotly Dash, 2019-09-27T07:33:59+0000
+/project/trytond-account-de-skr03/, trytond-account-de-skr03, 5.8.1, Tryton module with German chart of accounts SKR03, 2021-01-01T15:17:49+0000
+/project/trytond-account-invoice-line-standalone/, trytond-account-invoice-line-standalone, 5.8.1, Tryton module to have standalone invoice lines, 2021-01-01T15:20:08+0000
+/project/trytond-nereid-party-multi-user/, trytond_nereid_party_multi_user, 4.0.0.2, UNKNOWN, 2016-08-22T11:12:11+0000
+/project/trytond-product/, trytond-product, 5.8.2, Tryton module with products, 2021-04-16T17:34:17+0000
+/project/rafcon-task-planner-plugin/, rafcon-task-planner-plugin, 1.5.2, The RAFCON Task Planner Plugin (RTPP) is a plugin to interface arbitrary pddl planner and automate the state machine generation process., 2020-02-28T09:52:54+0000
+/project/nidmm/, nidmm, 1.3.3, NI-DMM Python API, 2021-03-02T15:59:05+0000
+/project/trytond-nereid-payment/, trytond_nereid_payment, 3.0.2.0, Nereid payment gateway (Deprecated), 2014-06-19T05:24:47+0000
+/project/amigocloud/, amigocloud, 1.2.5, Python client for the AmigoCloud REST API, 2020-11-12T19:21:35+0000
+/project/koradctl/, koradctl, 0.7, Control utility for Korad / Tenma power supplies, 2021-01-19T17:24:15+0000
+/project/kervi/, kervi, 0.21.5,  A python framework for creating robotic and automation applications on Raspbery pi (and other platforms). UI is web based and generated on the fly based on configuration in python code. , 2019-11-05T22:15:16+0000
+/project/terkin/, terkin, 0.10.0, A flexible data logger for MicroPython and CPython, 2020-05-22T00:10:29+0000
+/project/dash-vtk/, dash-vtk, 0.0.9, React based declarative usage of vtk.js for Dash, 2021-04-16T20:43:12+0000
+/project/trytond-company/, trytond-company, 5.8.1, Tryton module with companies and employees, 2021-01-01T15:26:11+0000
+/project/mcerp/, mcerp, 0.12, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2019-01-09T09:32:35+0000
+/project/gbboxcli/, gbboxcli, 0.2.11, Command-line interface for gbbox, 2016-11-23T06:53:55+0000
+/project/uldaq/, uldaq, 1.2.1, Universal Library Python API for Measurement Computing DAQ devices, 2020-11-18T18:43:19+0000
+/project/salabim/, salabim, 21.0.3, discrete event simulation in Python, 2021-03-20T09:55:01+0000
+/project/trytonlq-authentication-totp/, trytonlq-authentication-totp, 5.6.0, Tryton module that allows users to use time based one time passwords as an authentication method, 2020-05-10T12:25:45+0000
+/project/pyandon/, pyandon, 0.1.2, Python module for interacting with a range of different andon light systems, 2021-03-30T12:41:58+0000
+/project/trytond-carrier-weight/, trytond-carrier-weight, 5.8.1, Tryton module to add cost method "on weight" on carrier, 2021-01-01T15:25:36+0000
+/project/businessowner-retriever/, businessowner-retriever, 2.0.1, Tool to retrieve list of Vietnamese registered business owners., 2020-02-25T12:39:34+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/python-networkdays/, python-networkdays, 1.0.2, Business days (workdays) between two date, like `NetworkDays` function used on spreadsheets and more., 2020-12-28T14:21:31+0000
+/project/wltp-gearshift/, wltp-gearshift, 1.1.1, Gearshift tool implement the Sub-Annex 1 and Sub-Annex 2 of theCOMMISSION REGULATION (EU) 2017/1151 of 1 June 2017 - Annex XXI, 2021-04-22T16:44:58+0000
+/project/cqparts-bearings/, cqparts-bearings, 0.1.0, Bearings content library for cqparts, 2018-03-19T02:33:21+0000
+/project/vdd/, vdd, 0.3.2, Tools to assist value-driven design & decisions, 2019-08-11T18:31:57+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/trytond-product-measurements/, trytond-product-measurements, 5.8.1, Tryton module to add measurements to product, 2021-01-01T15:31:28+0000
+/project/niflexlogger-automation/, niflexlogger-automation, 0.1.0, NI FlexLogger Python API, 2020-12-11T20:35:41+0000
+/project/python-controlchart/, python-controlchart, 0.2.0, Creation of control charts with matplotlib, 2019-12-23T11:14:10+0000
+/project/lpfgopt/, lpfgopt, 1.0.1, Leap Frog Optimizer, 2020-07-08T22:06:42+0000
+/project/zyc/, zyc, 0.4.0, A GUI for searching and selecting parts and footprints for use in SKiDL., 2020-09-21T02:29:17+0000
+/project/pdxdisplay/, pdxdisplay, 0.0.1a2, Simple web application for viewing PDX (Product Data eXchange) XML files, 2018-02-02T02:40:51+0000
+/project/observablelist/, ObservableList, 0.0.3, Python library for a list with an observer interface., 2016-07-22T08:12:49+0000
+/project/nisystemlink-clients/, nisystemlink-clients, 0.1.3, NI-SystemLink Python API, 2020-12-16T18:55:23+0000
+/project/ayabinterface/, AYABInterface, 0.0.9, A Python library with the interface to the AYAB shield., 2016-08-21T12:04:21+0000
+/project/simantha/, simantha, 0.0.1, Simulation of Manufacturing Systems, 2020-12-22T13:28:38+0000
+/project/vasuki/, vasuki, 0.3.2, Vasuki generates different kinds of random unique identifiers, tokens and words, 2019-07-04T08:52:36+0000
+/project/fixate/, fixate, 0.5.4, Framework for hardware test fixtures and automated test environments, 2020-08-20T02:01:44+0000
+/project/vector-shortcuts/, vector-shortcuts, 0.2.1, Vector and linear algebra toolbelt for NumPy, 2019-08-26T14:36:56+0000
+/project/cds-trytond-cms/, cds-trytond-cms, 4.6.2, Tryton module to add basic CMS capability, 2018-01-29T06:54:04+0000
+/project/pycomm3/, pycomm3, 1.1.1, A Python Ethernet/IP library for communicating with Allen-Bradley PLCs., 2021-04-16T12:55:12+0000
+/project/fasvautil/, fasvautil, 0.5.19, Project with utility functions used with FASva, 2019-11-07T22:59:32+0000
+/project/trytond-stock-consignment/, trytond-stock-consignment, 5.8.1, Tryton module to manage consignment stock, 2021-01-01T15:39:39+0000
+/project/photo2cnccut/, photo2cnccut, 0.1.0, Create g-code from photos., 2021-04-06T19:39:58+0000
+/project/exposan/, exposan, 0.0.10, Exposition of sanitation and resource recovery systems, 2021-04-24T20:53:47+0000
+/project/openlabs-amazon-mws/, openlabs_amazon_mws, 3.4.5.0, Amazon MWS Integration, 2015-06-06T05:09:52+0000
+/project/trytond-production/, trytond-production, 5.8.2, Tryton module for production, 2021-04-16T17:30:55+0000
+/project/minimalmodbus/, minimalmodbus, 1.0.2, Easy-to-use Modbus RTU and Modbus ASCII implementation for Python, 2019-08-11T00:36:43+0000
+/project/nifgen/, nifgen, 1.3.3, NI-FGEN Python API, 2021-03-02T15:59:37+0000
+/project/rtapylysis/, rtapylysis, 0.3, Synchrotorn Rapid Thermal Annealing (RTA) X-ray Diffraction (XRD) Data Analysis Project, 2017-01-24T18:08:39+0000
+/project/vdropbox/, vdropbox, 0.2.4, Utilities to read/write python objects to/from dropbox, 2021-03-21T17:36:21+0000
+/project/meshlab-pickedpoints/, meshlab-pickedpoints, 1.0.0, Read and write MeshLab picked point (.pp) files, 2020-07-01T14:48:40+0000
+/project/openscad-docsgen/, openscad-docsgen, 1.4.0, A processor to generate Markdown code documentation from OpenSCAD source comments., 2021-04-25T07:57:11+0000
+/project/gerbolyze/, gerbolyze, 2.1.0, A high-resolution image-to-PCB converter. Gerbolyze plots SVG, PNG and JPG onto existing gerber files. It handles almost the full SVG spec and deals with text, path outlines, patterns, arbitrary paths with self-intersections and holes, etc. fully automatically. It can vectorize raster images both by contour tracing and by grayscale dithering. All processing is done at the vector level without intermediate conversions to raster images accurately preserving the input., 2021-04-25T16:50:24+0000
+/project/chemicals/, chemicals, 1.0.5, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-25T17:42:59+0000
+/project/vectorhub-nightly/, vectorhub-nightly, 1.2.0.2021.4.26.0.33.46.137766, One liner to encode data into vectors with state-of-the-art models using tensorflow, pytorch and other open source libraries. Word2Vec, Image2Vec, BERT, etc, 2021-04-26T00:33:47+0000
+/project/vectorai-nightly/, vectorai-nightly, 0.2.5.2021.4.26, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-04-26T00:44:01+0000
+/project/vectorhub/, vectorhub, 1.2.1, One liner to encode data into vectors with state-of-the-art models using tensorflow, pytorch and other open source libraries. Word2Vec, Image2Vec, BERT, etc, 2021-04-26T03:47:23+0000

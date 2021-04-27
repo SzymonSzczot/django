@@ -1,0 +1,518 @@
+/project/archipel-agent-action-scheduler/, archipel-agent-action-scheduler, 0.6.0beta, Creation and management of planified tasks for hypervisors and virtual machines, 2013-03-21T01:25:16+0000
+/project/pywmihandler/, pyWmiHandler, 0.1.1, Most common used WMI queries and functions wrapper, 2020-12-21T11:16:36+0000
+/project/batchexec/, batchexec, 0.0.5, Batch execute any task, with simple json config, 2021-02-26T22:42:20+0000
+/project/distroscraper/, distroscraper, 1.0.2, Scrape Linux Distro torrents and add to Transmission automatically, 2020-09-13T16:55:32+0000
+/project/cloudooo/, cloudooo, 1.2.3, XML-RPC document conversion server, 2011-04-01T13:35:56+0000
+/project/eduvpn-client/, eduvpn-client, 2.0.0, eduVPN client, 2021-04-16T08:41:09+0000
+/project/psi/, PSI, 0.3b3, Python System Information, 2020-04-19T11:40:53+0000
+/project/py-splice/, py-splice, 1.0.2, A Python interface to splice(2), 2018-11-30T18:39:41+0000
+/project/ddctrans/, ddctrans, 0.0.0, , 2020-06-01T02:31:53+0000
+/project/ofunctions/, ofunctions, 2.0.3, Toolset with various file logging / network / checksumming / process functions, 2021-03-30T13:58:36+0000
+/project/drb-client/, drb-client, 0.4.0, Distributed Randomness Beacon client, 2020-01-26T16:37:50+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/notesviewer/, notesviewer, 0.9.5.2.10, notesviewer, 2020-06-09T02:18:44+0000
+/project/systemd/, systemd, 0.16.1, Python systemd wrapper, 2018-03-01T12:03:39+0000
+/project/homehubrpi/, homehubRPi, 1.0.0, A small home hub example package, 2020-11-10T14:15:58+0000
+/project/archipel-agent-hypervisor-network/, archipel-agent-hypervisor-network, 0.6.0beta, Manage libvirt networks, 2013-03-21T01:25:13+0000
+/project/seccomplite/, seccomplite, 0.1.0a3, lightweight libseccomp2 python bridge, 2016-11-17T08:53:08+0000
+/project/libcgroup/, libcgroup, 0.2.4, A library that handles Linux cgroups internally using the libcgroup shared library., 2019-03-29T18:24:36+0000
+/project/archipel-agent-hypervisor-platformrequest/, archipel-agent-hypervisor-platformrequest, 0.6.0beta, Manage platform wide operation requests, 2013-03-21T01:24:43+0000
+/project/archipel-core/, archipel-core, 0.6.0beta, Base framework of Archipel., 2013-03-21T01:25:10+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/mjail/, mjail, 0.3.0, Command line tool to create and manage FreeBSD jails, 2019-07-08T16:12:10+0000
+/project/wenvkernel/, wenvkernel, 0.0.1, Jupyter kernel for Python on Wine, 2020-07-20T10:43:10+0000
+/project/exoedge-linuxstats/, exoedge-linuxstats, 20.7.29, An ExoEdge source for displaying linux hardware statistics and metrics., 2020-07-29T17:38:26+0000
+/project/machinestate/, MachineState, 0.5.0, Gather machine state and dump it as JSON document, 2021-03-23T12:39:24+0000
+/project/negotiator-common/, negotiator-common, 0.12.2, Scriptable KVM/QEMU guest agent (common functionality), 2019-12-11T15:22:30+0000
+/project/lshid/, lshid, 0.2.2, , 2020-11-15T19:19:20+0000
+/project/os-sys-linux/, os-sys-linux, 0.0.0.dev0, a big lib with many usefull tools and it are not only os and sys tools..., 2020-01-04T10:12:51+0000
+/project/ofunctions-threading/, ofunctions.threading, 0.1.0, Threading decorator to run functions as threads, 2021-03-30T14:04:27+0000
+/project/justoptions-gui/, justoptions-gui, 0.1.0, GUI library for exhibiting options, 2016-05-19T02:27:16+0000
+/project/pyudev/, pyudev, 0.22.0, A libudev binding, 2020-01-27T16:02:38+0000
+/project/i2cdev/, i2cdev, 1.2.4, Simple I2C Library for linux, 2015-03-23T22:25:28+0000
+/project/syskit/, syskit, 0.2.1, System information for pedants, 2020-04-19T11:34:02+0000
+/project/windows-tools-users/, windows-tools.users, 1.1.0, Windows user lookups for SID/PySID/Username, 2021-03-24T17:28:29+0000
+/project/pymbr/, pymbr, 1.0.3, A python module to manipulate and create MBRs., 2018-04-04T03:17:39+0000
+/project/ofunctions-string-handling/, ofunctions.string-handling, 0.1.2, Simple string sanitization functions, 2021-03-30T14:04:04+0000
+/project/justbytes/, justbytes, 0.15, computing with and displaying bytes, 2020-12-17T14:12:45+0000
+/project/murano-client/, murano-client, 20.9.17, Murano Device Client is the primary library for communicating with the Exosite Murano Platform., 2020-09-17T21:31:51+0000
+/project/pyl0n/, pyl0n, 0.0.7, Use psutils to send data to Graphite Backend, 2014-08-25T16:39:48+0000
+/project/tcpliveplot/, tcpliveplot, 0.2.7, Realtime-visualization of TCP flows logged by TCPlog., 2016-11-04T14:50:44+0000
+/project/exoedge-ethernetip/, exoedge-ethernetip, 0.1.0, An ExoEdge source for EtherNet/IP., 2020-08-03T15:50:29+0000
+/project/exoedge-simulator/, exoedge-simulator, 19.10.21, An ExoEdge source for simulating data., 2019-10-21T15:05:03+0000
+/project/ftrace/, ftrace, 0.0.1, library for reading ftrace data, 2020-05-25T08:12:13+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/habitatos/, HabitatOS, 0.9.0, Analog space habitat operating system., 2017-10-11T01:05:40+0000
+/project/pyfs/, pyfs, 0.0.8, a pythonic file system wrapper for humans, 2016-02-26T14:41:07+0000
+/project/procfs3/, procfs3, 0.1.3, Python API for the Linux /proc virtual filesystem, 2012-08-29T12:00:09+0000
+/project/poline/, poline, 0.6, Python one-liners: Awk-like one-liners for python, 2017-04-03T04:21:16+0000
+/project/virtualvideo/, virtualvideo, 0.1.6, virtualvideo allows you to write simple programs that feed images to a v4l2loopback device, 2020-06-01T09:12:32+0000
+/project/xenballoond/, xenballoond, 1.0.0, Xen virtual machine ballooning daemon, 2011-08-05T08:41:58+0000
+/project/realtimekql/, realtimekql, 2.1.3, A module for exploring real-time streams of events, 2021-04-20T00:05:36+0000
+/project/windows-tools-securityprivilege/, windows-tools.securityprivilege, 0.1.2, Privilege enable/disable functions, 2021-03-24T17:28:26+0000
+/project/archipel-agent/, archipel-agent, 0.6.0beta, The hypervisor's agent part of Archipel, 2013-03-21T01:25:06+0000
+/project/launchpadtools/, launchpadtools, 0.7.1, Tools for submitting packages to Ubuntu Launchpad, 2019-06-02T07:41:14+0000
+/project/pyreduce/, pyreduce, 1.0.1, Reduce Python programs, 2018-12-05T06:43:01+0000
+/project/exoedge-opcua/, exoedge-opcua, 1.0.0, An ExoEdge source for interfacing with OPC UA devices., 2021-04-19T15:49:55+0000
+/project/pysphere3/, pysphere3, 0.1.8, Python API for interacting with the vSphere Web Services SDK, 2019-11-17T00:29:29+0000
+/project/ofunctions-file-utils/, ofunctions.file-utils, 0.8.0, Various file handling of which get_files_recursive is the most advanced, 2021-04-06T10:08:52+0000
+/project/ipv6/, ipv6, 0.1, Advanced IPv6 Socket Manipulation for Python, 2015-09-08T20:55:18+0000
+/project/kernelconfig/, kernelconfig, 0.3.4, Generate custom Linux kernel configurations from curated sources, 2020-01-03T00:50:02+0000
+/project/ioctl/, ioctl, 0.2.1, , 2021-02-25T16:17:23+0000
+/project/aiofile-linux/, aiofile-linux, 0.1.0, Linux aio ABI wrapper, 2019-01-30T07:57:49+0000
+/project/windows-tools-bitlocker/, windows-tools.bitlocker, 0.1.5, Retrieve bitlocker status and protector keys for all drives, 2021-03-24T17:28:06+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jetson-stats/, jetson-stats, 3.1.0, Interactive system-monitor and process viewer for all NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2], 2021-03-01T15:50:57+0000
+/project/sysdfiles/, sysdfiles, 0.2.0, systemd configuration file access, 2018-12-10T07:10:47+0000
+/project/cysystemd/, cysystemd, 1.4.8, SystemD wrapper in Cython, 2021-02-09T11:22:07+0000
+/project/zfs-clone-manager/, zfs-clone-manager, 3.4.0, Tool to manage ZFS clones with history metadata, 2021-03-05T10:28:16+0000
+/project/ofunctions-logger-utils/, ofunctions.logger-utils, 2.0.1, Shorthand for logger initialization, recording worst called loglevel and handling nice console output, 2021-03-30T14:01:09+0000
+/project/lets-connect-client/, lets-connect-client, 1.1, Let's Connect! client, 2020-04-21T12:56:35+0000
+/project/tuxpub/, tuxpub, 0.1.9, The Serverless File Server, 2021-04-21T08:40:37+0000
+/project/pi-sht1x/, Pi-Sht1x, 1.0.9, Python 3 library for Sensirion SHT1x series of temperature & humidity sensors for the Raspberry Pi., 2016-10-15T06:17:10+0000
+/project/veripypi/, veripypi, 0.1a0, TODO, 2018-12-19T10:25:57+0000
+/project/configparser-crypt/, configparser-crypt, 0.6.2, Drop-in replacement for ConfigParser with encryption support, 2021-03-16T14:04:33+0000
+/project/wenv/, wenv, 0.2.1, Running Python on Wine, 2020-07-10T17:59:06+0000
+/project/archipel-agent-vmparking/, archipel-agent-vmparking, 0.6.0beta, Handle the virtual machine parking, 2013-03-21T01:25:52+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/asciibox/, asciibox, 0.4.0, Render ASCII boxes and arrows as images., 2015-07-20T12:08:57+0000
+/project/lxman/, lxman, 0.1.0, Making WSL a better system, 2017-12-02T18:38:58+0000
+/project/archipel-agent-hypervisor-geolocalization/, archipel-agent-hypervisor-geolocalization, 0.6.0beta, Make hypervisor able to locate themselves in the world, 2013-03-21T01:25:47+0000
+/project/netlink/, NetLink, 0.1, Pure-Python client for the Linux NetLink interface, 2016-02-15T23:43:51+0000
+/project/windows-tools-file-utils/, windows-tools.file-utils, 0.3.0, Windows NTFS & ReFS file ownership and ACL handling functions, 2021-03-24T17:28:11+0000
+/project/cidrize/, cidrize, 2.0.0, Cidrize parses IPv4/IPv6 addresses, CIDRs, ranges, and wildcard matches & attempts to return a valid list of IP addresses, 2021-03-31T05:54:36+0000
+/project/kliko/, kliko, 0.8, Scientific Compute Container Spec Parser, 2017-01-11T10:10:08+0000
+/project/negotiator-host/, negotiator-host, 0.12.2, Scriptable KVM/QEMU guest agent (host side of things), 2019-12-11T15:22:35+0000
+/project/pysendfile/, pysendfile, 2.0.1, A Python interface to sendfile(2), 2014-05-27T11:07:28+0000
+/project/zugbruecke/, zugbruecke, 0.0.15, Calling routines in Windows DLLs from Python scripts running under Linux, MacOS or BSD, 2020-07-10T15:05:20+0000
+/project/py-discover/, py-discover, 0.1.1, Discover nodes in different Cloud providers, 2017-12-07T07:30:14+0000
+/project/tpool/, TPool, 1.3, Thread Pool for Python 2 and 3, 2021-04-21T03:37:36+0000
+/project/clickgen/, clickgen, 1.1.9, The hassle-free cursor building toolbox 🧰, 2021-03-22T10:05:03+0000
+/project/cpunetlog/, cpunetlog, 1.1.1, Display, log and plot CPU utilization and network throughput, 2018-03-07T20:40:04+0000
+/project/libnl3/, libnl3, 0.3.0, Pure Python port of the Netlink protocol library suite, 2021-02-05T07:03:46+0000
+/project/azurectl/, azurectl, 3.0.1, Manage Azure PubCloud Service, 2017-08-08T14:59:33+0000
+/project/archipel-agent-vmcasting/, archipel-agent-vmcasting, 0.6.0beta, Manage all stuff about vmcasting, 2013-03-21T01:24:53+0000
+/project/aiofile/, aiofile, 3.5.0, Asynchronous file operations., 2021-03-02T15:39:38+0000
+/project/pydevdag/, pydevDAG, 0.7, storage inspection library, 2016-05-25T14:40:12+0000
+/project/exoedge-modbus/, exoedge-modbus, 20.6.26, An ExoEdge source for interfacing with Modbus devices., 2020-06-26T18:30:10+0000
+/project/bytesize/, bytesize, 0.4, computing with and displaying bytes, 2015-12-07T15:20:22+0000
+/project/tcconfig/, tcconfig, 0.26.0, tcconfig is a tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth)., 2020-07-25T06:34:08+0000
+/project/hubd/, hubd, 0.1, Real-time JSON MVC Framework, 2012-02-17T07:05:45+0000
+/project/pymodule/, pymodule, 0.2a0, Python module interface, 2019-09-09T14:46:18+0000
+/project/patchtools/, patchtools, 1.0.5, Linux kernel patch evaluator, 2014-11-06T23:31:33+0000
+/project/ddcros/, ddcros, 0.0.0, , 2020-06-01T03:24:20+0000
+/project/archipel-agent-xmppserver/, archipel-agent-xmppserver, 0.6.0beta, Can manage Ejabberd Server using XMLRPC module, 2013-03-21T01:24:57+0000
+/project/ld/, ld, 0.5.0, Linux Distribution - a Linux OS platform information API, 2016-03-28T20:10:58+0000
+/project/psutil/, psutil, 5.8.0, Cross-platform lib for process and system monitoring in Python., 2020-12-19T01:19:27+0000
+/project/uwsgidns/, uwsgidns, 1.0.1, Dinamically route to localhost request for uWSGI locally subscribed domains., 2015-06-05T11:20:56+0000
+/project/aiocarbon/, aiocarbon, 0.15.2, Asynchronous client for carbon., 2020-05-27T15:26:31+0000
+/project/windows-tools-antivirus/, windows-tools.antivirus, 0.6.1, antivirus state and installed products retrieval, 2021-04-06T09:29:54+0000
+/project/prwlock/, prwlock, 0.4.1, Native process-shared rwlock support for Python, 2020-05-28T13:37:06+0000
+/project/negotiator-guest/, negotiator-guest, 0.12.2, Scriptable KVM/QEMU guest agent (guest side of things), 2019-12-11T15:22:40+0000
+/project/ofunctions-csv/, ofunctions.csv, 0.2.0, CSV file reader with header management, fieldnames, delimiters and comment skipping, 2021-03-30T13:59:41+0000
+/project/os-sys/, os-sys, 2.1.4, a big lib with many usefull tools and it are not only os and sys tools..., 2019-12-10T20:06:28+0000
+/project/python-uinput/, python-uinput, 0.11.2, Pythonic API to Linux uinput kernel module., 2016-09-18T18:48:57+0000
+/project/windows-tools-server/, windows-tools.server, 0.1.1, Windows server identification functions, 2021-03-24T17:28:27+0000
+/project/python-hosts/, python-hosts, 1.0.1, A hosts file manager library written in python, 2020-10-03T15:00:19+0000
+/project/acl/, acl, 0.2, Network access control list parsing library., 2013-03-01T17:16:21+0000
+/project/hidraw/, hidraw, 0.1, hidraw Linux module, 2010-02-21T18:27:53+0000
+/project/uhid/, uhid, 0.0.1, , 2021-02-25T23:42:32+0000
+/project/vmguestlib/, vmguestlib, 0.1.2, Python API for interacting with VMware's VMGuestLib SDK, 2013-12-11T23:35:23+0000
+/project/justbases-gui/, justbases-gui, 0.1.0, exhibiting the display options of the justbases package, 2016-05-20T13:53:13+0000
+/project/windows-tools-installed-software/, windows-tools.installed-software, 0.5.4, List of installed software from Uninstall registry keys, 32 and 64 bits, 2021-03-24T17:28:15+0000
+/project/archipel-agent-hypervisor-health/, archipel-agent-hypervisor-health, 0.6.0beta, Get health of hypervisors, 2013-03-21T01:25:38+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/command-runner/, command-runner, 0.6.3, Platform agnostic command and shell execution tool, also allows UAC/sudo privilege elevation, 2021-03-15T15:28:07+0000
+/project/draxoft-auth-pam/, draxoft.auth.pam, 0.1.2, Provides a Python-style interface to PAM's C API., 2012-07-15T13:11:36+0000
+/project/ofunctions-mailer/, ofunctions.mailer, 0.3.5, Mail sending function that handles encryption, authentication, bulk and split mail sending, 2021-02-11T01:10:18+0000
+/project/sht-sensor/, sht-sensor, 18.4.2, Driver and command-line tool for Sensirion SHT1x and SHT7x sensors connected to GPIO pins., 2018-04-06T23:56:17+0000
+/project/ddm/, ddm, 0.0.1, This is a package for AI, 2020-08-11T07:34:36+0000
+/project/winstrument/, winstrument, 0.1.1, , 2020-07-27T20:59:29+0000
+/project/windows-tools/, windows-tools, 2.0.1, Toolset for antivirus, NTFS/ReFS ACLs, file ownership, registry, user handling...Well a lot of stuff, 2021-03-30T13:47:01+0000
+/project/brocade-tool/, brocade-tool, 0.1.11, Monitors Brocades, 2015-03-20T21:44:27+0000
+/project/pyhostman/, pyhostman, 0.1.3, A CLI to manage a hosts file, 2019-09-23T21:09:23+0000
+/project/ofunctions-checksums/, ofunctions.checksums, 0.2.1, SHA256 Checksumming functions, checksum manifest file creation and verification, 2021-02-11T01:10:12+0000
+/project/letsconnect-client/, letsconnect-client, 1.0rc16, Let's Connect! client, 2018-08-10T11:39:13+0000
+/project/printk-timestamp-converter/, printk-timestamp-converter, 4.0.0, Utility for printing dmesg/kmsg/printk timestamps, taking into account drift., 2018-08-05T02:04:27+0000
+/project/archipel-agent-virtualmachine-vnc/, archipel-agent-virtualmachine-vnc, 0.6.0beta, manage VNC screen connection, 2013-03-21T01:25:23+0000
+/project/printdevdag/, printdevDAG, 0.1, facilities for printing a device graph, 2016-05-20T17:52:35+0000
+/project/ofunctions-bisection/, ofunctions.bisection, 0.2.1, Bisection function that allows callable to be tested with any list of arguments, 2021-02-11T01:10:11+0000
+/project/taran/, taran, 0.0.1, An orchestration framework, 2016-08-14T12:38:53+0000
+/project/scapy-nflog-capture/, scapy-nflog-capture, 13.05.0, Driver for scapy to allow capturing packets via Linux NFLOG interface, 2013-05-13T06:34:29+0000
+/project/windows-tools-registry/, windows-tools.registry, 0.5.1, Windows registry 32 and 64 bits simple API, 2021-03-24T17:28:24+0000
+/project/opsbot/, opsbot, 20.10.45, I'm Opsbot. I can help you create the best devops scripts., 2020-10-30T06:40:01+0000
+/project/ofunctions-misc/, ofunctions.misc, 1.0.0, Collection of various functions, 2021-02-11T01:10:19+0000
+/project/netscaler-tool/, netscaler-tool, 1.27.4, Nitro API tool for managing NetScalers., 2015-01-21T00:44:43+0000
+/project/watchdogdev/, watchdogdev, 1.0.0, Implementation of Linux watchdog device API, 2020-02-28T10:48:24+0000
+/project/cgroup-utils/, cgroup-utils, 0.8, Utility tools for control groups of Linux, 2019-12-16T16:16:19+0000
+/project/packme/, packme, 0.7.0, Helper app for building and running packer templates, 2020-03-23T08:19:44+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/windows-tools-office/, windows-tools.office, 0.1.1, Microsoft Office identification, works for click and run, o365 and elder versions, 2021-03-24T17:28:19+0000
+/project/cdist/, cdist, 6.9.6, A Usable Configuration Management System, 2021-04-20T05:36:01+0000
+/project/proc/, proc, 1.0, Simple interface to Linux process information, 2020-04-25T23:37:11+0000
+/project/macos-speech/, macos-speech, 1.1.0, Leverage the macOS `say` command into you scripts, 2020-06-13T21:05:16+0000
+/project/userdocker/, userdocker, 2.0.0, userdocker allows admins to grant restricted docker command access to users., 2017-10-17T08:53:29+0000
+/project/perf-class/, perf-class, 1.0.2, A tool to mep perf script events to classes of events using regex, 2020-12-01T14:39:06+0000
+/project/apercal/, apercal, 2.1, Scientific Compute Container Spec Parser, 2019-01-16T10:08:08+0000
+/project/kconfiglib/, kconfiglib, 14.1.0, A flexible Python Kconfig implementation, 2020-01-31T06:40:47+0000
+/project/houston/, houston, 0.3.0, Application deployment on CoreOS clusters using fleetd and Consul, 2015-08-10T19:49:36+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/kiwi-obs-plugin/, kiwi-obs-plugin, 0.1.5, KIWI - OBS Plugin, 2021-04-18T08:09:32+0000
+/project/kiwi-keg/, kiwi-keg, 0.0.6, KEG - Image Composition Tool, 2021-04-15T13:42:20+0000
+/project/hammer/, hammer, 0.1, Hammer is a framework for managing load-balancer configuration, 2012-06-07T17:43:09+0000
+/project/tuxsuite/, tuxsuite, 0.23.0, The fun Linux kernel development service, 2021-03-18T18:52:05+0000
+/project/build-scenarist/, build-scenarist, 1.2.0, Make-like utility to execute platform-dependent scripts (scenarios) written in Python 3. Format of scenario-name consist information about platform it written. Scenarios consist of targets, 2021-02-01T10:28:14+0000
+/project/cirrus-client/, cirrus-client, 0.2.1.1, Global Maksimum Cirrus Client API., 2021-01-10T21:37:53+0000
+/project/python-osinfo/, python_osinfo, 0.2.2, Python OS information retriever., 2015-11-25T11:54:25+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/dev-mapper/, dev-mapper, 0.0.4, Device Mapper to convert the sys-pci-address to a device file, 2018-12-06T01:53:28+0000
+/project/procfs/, procfs, 0.5.0, Python API for the Linux /proc virtual filesystem, 2014-07-30T00:09:20+0000
+/project/tuxbuild/, tuxbuild, 0.12.0, The fun Linux kernel builder, 2021-01-18T20:42:27+0000
+/project/vagrant-debian/, vagrant-debian, 1.0.9, Create vagrant virtualbox from Debian ISO cd, 2021-02-08T00:33:31+0000
+/project/winregal/, winregal, 1.0.1, A Modern Python wrapper for the Windows registry, 2017-02-12T20:47:55+0000
+/project/pysp/, pysp, 0.0.10, Python-Support-Package, 2019-10-28T12:36:15+0000
+/project/netscaler-api/, netscaler-api, 0.2.3, NetScaler API is a Python interface for interacting with Citrix NetScaler application delivery controllers, utilizing the SOAP API to execute commands., 2012-07-11T16:03:42+0000
+/project/ddcmaker/, ddcmaker, 0.0.30, This is a package for Raspberry pie system of maker, 2020-09-30T01:47:00+0000
+/project/salt-confd/, salt-confd, 2019.9.0a1, Lightweight Salt package for confd-style management of local application configuration files, 2019-09-05T11:08:20+0000
+/project/salt-sproxy/, salt-sproxy, 2020.10.2, Salt plugin for managing devices and applications, without running (Proxy) Minions, 2020-11-02T18:07:57+0000
+/project/libcgroup-bind/, libcgroup-bind, 1.0.7, Python binding for libcgroup, 2019-03-29T17:13:32+0000
+/project/statux/, statux, 0.1.2, Python module for hardware and system monitoring, 2020-09-12T17:59:14+0000
+/project/yk-totp/, yk-totp, 0.1.6, A CLI tool to generate TOTP values from a password protected YubiKey by storing the password in the system-protected keyring., 2021-01-20T07:40:15+0000
+/project/cielcg/, cielcg, 0.0.0.1, alternative cgroup-tools (cgexec) implementation for both cgroup v1 and v2 (cgroup2), 2021-04-06T01:32:07+0000
+/project/graphite-metrics/, graphite-metrics, 15.03.0, Standalone Graphite metric data collectors for various stuff thats not (or poorly) handled by other monitoring daemons, 2015-03-16T06:21:31+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/guider/, guider, 3.9.81, A system-wide analyzer of performance, 2021-03-27T07:40:38+0000
+/project/py-capsicum-cffi/, py-capsicum-cffi, 3, Python interface to Capsicum, 2020-04-06T03:06:43+0000
+/project/cve-bot/, cve-bot, 0.0.5, CVE Telegram bot., 2021-03-24T13:36:45+0000
+/project/iwant/, iwant, 1.0.14, CLI based decentralized peer to peer file sharing, 2017-06-27T18:23:27+0000
+/project/autokernel/, autokernel, 0.9.9, A tool to autodetect and manage kernel configuration options, 2021-02-24T13:05:17+0000
+/project/tcp-probe/, tcp-probe, 0.0.3, Tools for tracing TCP in Linux, 2020-03-09T23:20:59+0000
+/project/ifalg/, ifalg, 0.2, Library to interface with the Linux kernel crypto API, 2015-05-13T23:49:03+0000
+/project/linux-aio-bind/, linux-aio-bind, 1.0.0, Python binding for Linux AIO, 2019-01-22T16:05:40+0000
+/project/jptokenpreprocessing/, JpTokenPreprocessing, 0.1.5a2, JpTokenPreprocessing is Python library for token preprocessing., 2015-10-12T13:53:20+0000
+/project/os-sys-php/, os-sys-php, 2019.10.13, a big lib with many usefull tools and it are not only os and sys tools..., 2019-10-14T04:22:05+0000
+/project/tcpinfo/, tcpinfo, 0.2.2, TCPinfo is a Python3 extension written in C to collect information about TCP-sockets via Linux's inet_diag interface, 2017-02-16T16:46:36+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/apercal/, apercal, 2.1, Scientific Compute Container Spec Parser, 2019-01-16T10:08:08+0000
+/project/ripserplusplus/, ripserplusplus, 1.0.8, Python binding for Ripser++., 2021-02-27T03:53:09+0000
+/project/parseudev/, parseudev, 0.7.0, parsing of udev and sysfs artifacts, 2016-04-05T16:56:16+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/trigger/, trigger, 1.6.0, Trigger is a framework and suite of tools for configuring network devices, 2017-03-08T18:32:52+0000
+/project/windows-tools-logical-disks/, windows-tools.logical-disks, 0.1.2, Logical disk (partition) management functions, 2021-03-24T17:28:17+0000
+/project/kiwi-boxed-plugin/, kiwi-boxed-plugin, 0.2.8, KIWI - Boxed Build Plugin, 2021-04-19T09:21:34+0000
+/project/justbytes-gui/, justbytes-gui, 0.3.0, exhibiting the display options of the justbytes package, 2016-05-19T12:08:07+0000
+/project/tcplog/, tcplog, 0.2.10, Tool to log and analyze TCP flows., 2018-10-25T23:52:20+0000
+/project/rebasehelper/, rebasehelper, 0.24.0, This tool helps you rebase your package to the latest version, 2021-02-10T18:43:00+0000
+/project/tftp-pilot/, tftp-pilot, 0.2.0, Dynamic TFTP implementation for PXE Pilot. Based on fbtftp., 2020-04-09T11:40:40+0000
+/project/archipel-agent-virtualmachine-oomkiller/, archipel-agent-virtualmachine-oomkiller, 0.6.0beta, Manage OOM Killer prevention, 2013-03-21T01:24:36+0000
+/project/trappy/, TRAPpy, 6.0.1, Trace Analysis and Plotting, 2021-03-25T11:51:39+0000
+/project/cryptidy/, cryptidy, 1.0.5, Python high level library for symmetric & asymmetric encryption, 2021-03-16T11:14:16+0000
+/project/minimega/, minimega, 2.7, Python API for minimega, 2021-02-01T14:18:09+0000
+/project/serviceinstaller/, serviceinstaller, 0.1.3, A flexible service installer, currently compatible with Linux Systemd., 2020-06-19T12:07:42+0000
+/project/archipel-agent-virtualmachine-storage/, archipel-agent-virtualmachine-storage, 0.6.0beta, Manage virtual machine storages, 2013-03-21T01:24:49+0000
+/project/ofunctions-json-sanitize/, ofunctions.json-sanitize, 0.1.1, Simple tool that filters unwanted characters including non printable from JSON objects, 2021-02-11T01:10:15+0000
+/project/linux-aio/, linux-aio, 0.4.1, Linux aio ABI wrapper, 2019-01-29T12:07:01+0000
+/project/stronghold/, stronghold, 1.5, Securely configure your Mac from the terminal., 2018-05-30T03:23:19+0000
+/project/livecodingtv-publisher/, livecodingtv-publisher, 0.0.6, A livecodingtv streaming tool, 2015-03-03T20:11:27+0000
+/project/ofunctions-network/, ofunctions.network, 0.5.0, Network diagnostics, MTU probing, Public IP discovery, HTTP/HTTPS internet connectivty tests, ping, 2021-02-11T01:10:20+0000
+/project/carnifex/, carnifex, 0.2.5, Execute commands and run processes locally and remote, 2017-03-30T18:40:48+0000
+/project/windows-tools-impersonate/, windows-tools.impersonate, 0.1.3, Python runas implementation, 2021-03-24T17:28:13+0000
+/project/windows-tools-product-key/, windows-tools.product-key, 0.3.1, Retrieve Windows Product Keys, 2021-03-24T17:28:22+0000
+/project/tuxsuite/, tuxsuite, 0.23.0, The fun Linux kernel development service, 2021-03-18T18:52:05+0000
+/project/build-scenarist/, build-scenarist, 1.2.0, Make-like utility to execute platform-dependent scripts (scenarios) written in Python 3. Format of scenario-name consist information about platform it written. Scenarios consist of targets, 2021-02-01T10:28:14+0000
+/project/cirrus-client/, cirrus-client, 0.2.1.1, Global Maksimum Cirrus Client API., 2021-01-10T21:37:53+0000
+/project/stronghold/, stronghold, 1.5, Securely configure your Mac from the terminal., 2018-05-30T03:23:19+0000
+/project/livecodingtv-publisher/, livecodingtv-publisher, 0.0.6, A livecodingtv streaming tool, 2015-03-03T20:11:27+0000
+/project/python-osinfo/, python_osinfo, 0.2.2, Python OS information retriever., 2015-11-25T11:54:25+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/ofunctions-network/, ofunctions.network, 0.5.0, Network diagnostics, MTU probing, Public IP discovery, HTTP/HTTPS internet connectivty tests, ping, 2021-02-11T01:10:20+0000
+/project/carnifex/, carnifex, 0.2.5, Execute commands and run processes locally and remote, 2017-03-30T18:40:48+0000
+/project/windows-tools-impersonate/, windows-tools.impersonate, 0.1.3, Python runas implementation, 2021-03-24T17:28:13+0000
+/project/windows-tools-product-key/, windows-tools.product-key, 0.3.1, Retrieve Windows Product Keys, 2021-03-24T17:28:22+0000
+/project/scandir/, scandir, 1.10.0, scandir, a better directory iterator and faster os.walk(), 2019-03-09T17:58:19+0000
+/project/lxd-tools/, lxd-tools, 0.2.0, Some useful LXD console tools., 2020-12-01T11:55:12+0000
+/project/windows-tools-windows-firewall/, windows-tools.windows-firewall, 0.1.1, Windows firewall state retrieval, 2021-03-24T17:28:32+0000
+/project/dev-mapper/, dev-mapper, 0.0.4, Device Mapper to convert the sys-pci-address to a device file, 2018-12-06T01:53:28+0000
+/project/pybone/, pybone, 0.0.1.dev20140817185617, Python library for managing beagleboard hardware I/O, 2014-08-17T18:57:21+0000
+/project/saractl/, saractl, 0.1, S.A.R.A.'s userspace utilities., 2017-11-21T17:29:50+0000
+/project/ripserplusplus/, ripserplusplus, 1.0.8, Python binding for Ripser++., 2021-02-27T03:53:09+0000
+/project/winlogreader/, WinLogReader, 1.1, Fixed one bug, Added new features and methods., 2009-05-11T08:23:19+0000
+/project/hollowpoint/, hollowpoint, 0.1, Hollowpoint, 2013-06-16T20:54:50+0000
+/project/ofunctions-process/, ofunctions.process, 0.1.1, Shorthand for killing an entire process tree, 2021-02-11T01:10:23+0000
+/project/aio-pipe/, aio-pipe, 0.1.1, POSIX Pipe async helper, 2017-08-15T15:07:17+0000
+/project/parseudev/, parseudev, 0.7.0, parsing of udev and sysfs artifacts, 2016-04-05T16:56:16+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/trigger/, trigger, 1.6.0, Trigger is a framework and suite of tools for configuring network devices, 2017-03-08T18:32:52+0000
+/project/windows-tools-logical-disks/, windows-tools.logical-disks, 0.1.2, Logical disk (partition) management functions, 2021-03-24T17:28:17+0000
+/project/kiwi-boxed-plugin/, kiwi-boxed-plugin, 0.2.8, KIWI - Boxed Build Plugin, 2021-04-19T09:21:34+0000
+/project/justbytes-gui/, justbytes-gui, 0.3.0, exhibiting the display options of the justbytes package, 2016-05-19T12:08:07+0000
+/project/tcplog/, tcplog, 0.2.10, Tool to log and analyze TCP flows., 2018-10-25T23:52:20+0000
+/project/rebasehelper/, rebasehelper, 0.24.0, This tool helps you rebase your package to the latest version, 2021-02-10T18:43:00+0000
+/project/preadwrite/, preadwrite, 0.0.1, pread, pwrite interface for pypy 6.0, 2020-08-26T04:44:08+0000
+/project/ofunctions-service-control/, ofunctions.service-control, 0.1.3, Windows & Linux service control functions, 2021-03-30T14:03:42+0000
+/project/cmsis-svd/, cmsis-svd, 0.4, CMSIS SVD data files and parser, 2016-08-11T16:29:38+0000
+/project/exoedge-fileio/, exoedge-fileio, 20.8.3, An ExoEdge source for reading and writing files., 2020-08-03T15:41:02+0000
+/project/vlcli/, vlcli, 0.1, Command Line Interface to VeraxLabs REST API, 2014-05-17T15:48:01+0000
+/project/unixdump/, unixdump, 1.0.0, eBPF-based tcpdump-alike for Unix domain sockets, 2019-03-04T16:33:10+0000
+/project/tftp-pilot/, tftp-pilot, 0.2.0, Dynamic TFTP implementation for PXE Pilot. Based on fbtftp., 2020-04-09T11:40:40+0000
+/project/archipel-agent-virtualmachine-oomkiller/, archipel-agent-virtualmachine-oomkiller, 0.6.0beta, Manage OOM Killer prevention, 2013-03-21T01:24:36+0000
+/project/trappy/, TRAPpy, 6.0.1, Trace Analysis and Plotting, 2021-03-25T11:51:39+0000
+/project/archipel-agent-action-scheduler/, archipel-agent-action-scheduler, 0.6.0beta, Creation and management of planified tasks for hypervisors and virtual machines, 2013-03-21T01:25:16+0000
+/project/pywmihandler/, pyWmiHandler, 0.1.1, Most common used WMI queries and functions wrapper, 2020-12-21T11:16:36+0000
+/project/batchexec/, batchexec, 0.0.5, Batch execute any task, with simple json config, 2021-02-26T22:42:20+0000
+/project/distroscraper/, distroscraper, 1.0.2, Scrape Linux Distro torrents and add to Transmission automatically, 2020-09-13T16:55:32+0000
+/project/cloudooo/, cloudooo, 1.2.3, XML-RPC document conversion server, 2011-04-01T13:35:56+0000
+/project/eduvpn-client/, eduvpn-client, 2.0.0, eduVPN client, 2021-04-16T08:41:09+0000
+/project/psi/, PSI, 0.3b3, Python System Information, 2020-04-19T11:40:53+0000
+/project/py-splice/, py-splice, 1.0.2, A Python interface to splice(2), 2018-11-30T18:39:41+0000
+/project/os-sys-linux/, os-sys-linux, 0.0.0.dev0, a big lib with many usefull tools and it are not only os and sys tools..., 2020-01-04T10:12:51+0000
+/project/ofunctions-threading/, ofunctions.threading, 0.1.0, Threading decorator to run functions as threads, 2021-03-30T14:04:27+0000
+/project/ddctrans/, ddctrans, 0.0.0, , 2020-06-01T02:31:53+0000
+/project/ofunctions/, ofunctions, 2.0.3, Toolset with various file logging / network / checksumming / process functions, 2021-03-30T13:58:36+0000
+/project/drb-client/, drb-client, 0.4.0, Distributed Randomness Beacon client, 2020-01-26T16:37:50+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/notesviewer/, notesviewer, 0.9.5.2.10, notesviewer, 2020-06-09T02:18:44+0000
+/project/systemd/, systemd, 0.16.1, Python systemd wrapper, 2018-03-01T12:03:39+0000
+/project/homehubrpi/, homehubRPi, 1.0.0, A small home hub example package, 2020-11-10T14:15:58+0000
+/project/archipel-agent-hypervisor-network/, archipel-agent-hypervisor-network, 0.6.0beta, Manage libvirt networks, 2013-03-21T01:25:13+0000
+/project/seccomplite/, seccomplite, 0.1.0a3, lightweight libseccomp2 python bridge, 2016-11-17T08:53:08+0000
+/project/libcgroup/, libcgroup, 0.2.4, A library that handles Linux cgroups internally using the libcgroup shared library., 2019-03-29T18:24:36+0000
+/project/archipel-agent-hypervisor-platformrequest/, archipel-agent-hypervisor-platformrequest, 0.6.0beta, Manage platform wide operation requests, 2013-03-21T01:24:43+0000
+/project/archipel-core/, archipel-core, 0.6.0beta, Base framework of Archipel., 2013-03-21T01:25:10+0000
+/project/i2cdev/, i2cdev, 1.2.4, Simple I2C Library for linux, 2015-03-23T22:25:28+0000
+/project/syskit/, syskit, 0.2.1, System information for pedants, 2020-04-19T11:34:02+0000
+/project/justbytes/, justbytes, 0.15, computing with and displaying bytes, 2020-12-17T14:12:45+0000
+/project/justoptions-gui/, justoptions-gui, 0.1.0, GUI library for exhibiting options, 2016-05-19T02:27:16+0000
+/project/pyudev/, pyudev, 0.22.0, A libudev binding, 2020-01-27T16:02:38+0000
+/project/windows-tools-users/, windows-tools.users, 1.1.0, Windows user lookups for SID/PySID/Username, 2021-03-24T17:28:29+0000
+/project/pymbr/, pymbr, 1.0.3, A python module to manipulate and create MBRs., 2018-04-04T03:17:39+0000
+/project/ofunctions-string-handling/, ofunctions.string-handling, 0.1.2, Simple string sanitization functions, 2021-03-30T14:04:04+0000
+/project/murano-client/, murano-client, 20.9.17, Murano Device Client is the primary library for communicating with the Exosite Murano Platform., 2020-09-17T21:31:51+0000
+/project/pyl0n/, pyl0n, 0.0.7, Use psutils to send data to Graphite Backend, 2014-08-25T16:39:48+0000
+/project/tcpliveplot/, tcpliveplot, 0.2.7, Realtime-visualization of TCP flows logged by TCPlog., 2016-11-04T14:50:44+0000
+/project/exoedge-ethernetip/, exoedge-ethernetip, 0.1.0, An ExoEdge source for EtherNet/IP., 2020-08-03T15:50:29+0000
+/project/exoedge-simulator/, exoedge-simulator, 19.10.21, An ExoEdge source for simulating data., 2019-10-21T15:05:03+0000
+/project/ftrace/, ftrace, 0.0.1, library for reading ftrace data, 2020-05-25T08:12:13+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/mjail/, mjail, 0.3.0, Command line tool to create and manage FreeBSD jails, 2019-07-08T16:12:10+0000
+/project/wenvkernel/, wenvkernel, 0.0.1, Jupyter kernel for Python on Wine, 2020-07-20T10:43:10+0000
+/project/exoedge-linuxstats/, exoedge-linuxstats, 20.7.29, An ExoEdge source for displaying linux hardware statistics and metrics., 2020-07-29T17:38:26+0000
+/project/habitatos/, HabitatOS, 0.9.0, Analog space habitat operating system., 2017-10-11T01:05:40+0000
+/project/pyfs/, pyfs, 0.0.8, a pythonic file system wrapper for humans, 2016-02-26T14:41:07+0000
+/project/procfs3/, procfs3, 0.1.3, Python API for the Linux /proc virtual filesystem, 2012-08-29T12:00:09+0000
+/project/poline/, poline, 0.6, Python one-liners: Awk-like one-liners for python, 2017-04-03T04:21:16+0000
+/project/virtualvideo/, virtualvideo, 0.1.6, virtualvideo allows you to write simple programs that feed images to a v4l2loopback device, 2020-06-01T09:12:32+0000
+/project/machinestate/, MachineState, 0.5.0, Gather machine state and dump it as JSON document, 2021-03-23T12:39:24+0000
+/project/negotiator-common/, negotiator-common, 0.12.2, Scriptable KVM/QEMU guest agent (common functionality), 2019-12-11T15:22:30+0000
+/project/lshid/, lshid, 0.2.2, , 2020-11-15T19:19:20+0000
+/project/libnl3/, libnl3, 0.3.0, Pure Python port of the Netlink protocol library suite, 2021-02-05T07:03:46+0000
+/project/realtimekql/, realtimekql, 2.1.3, A module for exploring real-time streams of events, 2021-04-20T00:05:36+0000
+/project/windows-tools-securityprivilege/, windows-tools.securityprivilege, 0.1.2, Privilege enable/disable functions, 2021-03-24T17:28:26+0000
+/project/archipel-agent/, archipel-agent, 0.6.0beta, The hypervisor's agent part of Archipel, 2013-03-21T01:25:06+0000
+/project/launchpadtools/, launchpadtools, 0.7.1, Tools for submitting packages to Ubuntu Launchpad, 2019-06-02T07:41:14+0000
+/project/pyreduce/, pyreduce, 1.0.1, Reduce Python programs, 2018-12-05T06:43:01+0000
+/project/archipel-agent-vmcasting/, archipel-agent-vmcasting, 0.6.0beta, Manage all stuff about vmcasting, 2013-03-21T01:24:53+0000
+/project/exoedge-opcua/, exoedge-opcua, 1.0.0, An ExoEdge source for interfacing with OPC UA devices., 2021-04-19T15:49:55+0000
+/project/aiofile/, aiofile, 3.5.0, Asynchronous file operations., 2021-03-02T15:39:38+0000
+/project/pydevdag/, pydevDAG, 0.7, storage inspection library, 2016-05-25T14:40:12+0000
+/project/exoedge-modbus/, exoedge-modbus, 20.6.26, An ExoEdge source for interfacing with Modbus devices., 2020-06-26T18:30:10+0000
+/project/bytesize/, bytesize, 0.4, computing with and displaying bytes, 2015-12-07T15:20:22+0000
+/project/tcconfig/, tcconfig, 0.26.0, tcconfig is a tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth)., 2020-07-25T06:34:08+0000
+/project/hubd/, hubd, 0.1, Real-time JSON MVC Framework, 2012-02-17T07:05:45+0000
+/project/pymodule/, pymodule, 0.2a0, Python module interface, 2019-09-09T14:46:18+0000
+/project/patchtools/, patchtools, 1.0.5, Linux kernel patch evaluator, 2014-11-06T23:31:33+0000
+/project/aiofile-linux/, aiofile-linux, 0.1.0, Linux aio ABI wrapper, 2019-01-30T07:57:49+0000
+/project/windows-tools-bitlocker/, windows-tools.bitlocker, 0.1.5, Retrieve bitlocker status and protector keys for all drives, 2021-03-24T17:28:06+0000
+/project/sysdfiles/, sysdfiles, 0.2.0, systemd configuration file access, 2018-12-10T07:10:47+0000
+/project/zfs-clone-manager/, zfs-clone-manager, 3.4.0, Tool to manage ZFS clones with history metadata, 2021-03-05T10:28:16+0000
+/project/ofunctions-logger-utils/, ofunctions.logger-utils, 2.0.1, Shorthand for logger initialization, recording worst called loglevel and handling nice console output, 2021-03-30T14:01:09+0000
+/project/lets-connect-client/, lets-connect-client, 1.1, Let's Connect! client, 2020-04-21T12:56:35+0000
+/project/tuxpub/, tuxpub, 0.1.9, The Serverless File Server, 2021-04-21T08:40:37+0000
+/project/uwsgidns/, uwsgidns, 1.0.1, Dinamically route to localhost request for uWSGI locally subscribed domains., 2015-06-05T11:20:56+0000
+/project/pi-sht1x/, Pi-Sht1x, 1.0.9, Python 3 library for Sensirion SHT1x series of temperature & humidity sensors for the Raspberry Pi., 2016-10-15T06:17:10+0000
+/project/python-hosts/, python-hosts, 1.0.1, A hosts file manager library written in python, 2020-10-03T15:00:19+0000
+/project/asciibox/, asciibox, 0.4.0, Render ASCII boxes and arrows as images., 2015-07-20T12:08:57+0000
+/project/lxman/, lxman, 0.1.0, Making WSL a better system, 2017-12-02T18:38:58+0000
+/project/archipel-agent-hypervisor-geolocalization/, archipel-agent-hypervisor-geolocalization, 0.6.0beta, Make hypervisor able to locate themselves in the world, 2013-03-21T01:25:47+0000
+/project/vmguestlib/, vmguestlib, 0.1.2, Python API for interacting with VMware's VMGuestLib SDK, 2013-12-11T23:35:23+0000
+/project/printk-timestamp-converter/, printk-timestamp-converter, 4.0.0, Utility for printing dmesg/kmsg/printk timestamps, taking into account drift., 2018-08-05T02:04:27+0000
+/project/justbases-gui/, justbases-gui, 0.1.0, exhibiting the display options of the justbases package, 2016-05-20T13:53:13+0000
+/project/netlink/, NetLink, 0.1, Pure-Python client for the Linux NetLink interface, 2016-02-15T23:43:51+0000
+/project/windows-tools-file-utils/, windows-tools.file-utils, 0.3.0, Windows NTFS & ReFS file ownership and ACL handling functions, 2021-03-24T17:28:11+0000
+/project/cidrize/, cidrize, 2.0.0, Cidrize parses IPv4/IPv6 addresses, CIDRs, ranges, and wildcard matches & attempts to return a valid list of IP addresses, 2021-03-31T05:54:36+0000
+/project/xenballoond/, xenballoond, 1.0.0, Xen virtual machine ballooning daemon, 2011-08-05T08:41:58+0000
+/project/kliko/, kliko, 0.8, Scientific Compute Container Spec Parser, 2017-01-11T10:10:08+0000
+/project/negotiator-host/, negotiator-host, 0.12.2, Scriptable KVM/QEMU guest agent (host side of things), 2019-12-11T15:22:35+0000
+/project/pysendfile/, pysendfile, 2.0.1, A Python interface to sendfile(2), 2014-05-27T11:07:28+0000
+/project/zugbruecke/, zugbruecke, 0.0.15, Calling routines in Windows DLLs from Python scripts running under Linux, MacOS or BSD, 2020-07-10T15:05:20+0000
+/project/py-discover/, py-discover, 0.1.1, Discover nodes in different Cloud providers, 2017-12-07T07:30:14+0000
+/project/tpool/, TPool, 1.3, Thread Pool for Python 2 and 3, 2021-04-21T03:37:36+0000
+/project/clickgen/, clickgen, 1.1.9, The hassle-free cursor building toolbox 🧰, 2021-03-22T10:05:03+0000
+/project/cpunetlog/, cpunetlog, 1.1.1, Display, log and plot CPU utilization and network throughput, 2018-03-07T20:40:04+0000
+/project/azurectl/, azurectl, 3.0.1, Manage Azure PubCloud Service, 2017-08-08T14:59:33+0000
+/project/pysphere3/, pysphere3, 0.1.8, Python API for interacting with the vSphere Web Services SDK, 2019-11-17T00:29:29+0000
+/project/ofunctions-file-utils/, ofunctions.file-utils, 0.8.0, Various file handling of which get_files_recursive is the most advanced, 2021-04-06T10:08:52+0000
+/project/ipv6/, ipv6, 0.1, Advanced IPv6 Socket Manipulation for Python, 2015-09-08T20:55:18+0000
+/project/kernelconfig/, kernelconfig, 0.3.4, Generate custom Linux kernel configurations from curated sources, 2020-01-03T00:50:02+0000
+/project/ioctl/, ioctl, 0.2.1, , 2021-02-25T16:17:23+0000
+/project/ddcros/, ddcros, 0.0.0, , 2020-06-01T03:24:20+0000
+/project/archipel-agent-xmppserver/, archipel-agent-xmppserver, 0.6.0beta, Can manage Ejabberd Server using XMLRPC module, 2013-03-21T01:24:57+0000
+/project/ld/, ld, 0.5.0, Linux Distribution - a Linux OS platform information API, 2016-03-28T20:10:58+0000
+/project/psutil/, psutil, 5.8.0, Cross-platform lib for process and system monitoring in Python., 2020-12-19T01:19:27+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jetson-stats/, jetson-stats, 3.1.0, Interactive system-monitor and process viewer for all NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2], 2021-03-01T15:50:57+0000
+/project/cysystemd/, cysystemd, 1.4.8, SystemD wrapper in Cython, 2021-02-09T11:22:07+0000
+/project/aiocarbon/, aiocarbon, 0.15.2, Asynchronous client for carbon., 2020-05-27T15:26:31+0000
+/project/windows-tools-antivirus/, windows-tools.antivirus, 0.6.1, antivirus state and installed products retrieval, 2021-04-06T09:29:54+0000
+/project/prwlock/, prwlock, 0.4.1, Native process-shared rwlock support for Python, 2020-05-28T13:37:06+0000
+/project/negotiator-guest/, negotiator-guest, 0.12.2, Scriptable KVM/QEMU guest agent (guest side of things), 2019-12-11T15:22:40+0000
+/project/veripypi/, veripypi, 0.1a0, TODO, 2018-12-19T10:25:57+0000
+/project/ofunctions-csv/, ofunctions.csv, 0.2.0, CSV file reader with header management, fieldnames, delimiters and comment skipping, 2021-03-30T13:59:41+0000
+/project/os-sys/, os-sys, 2.1.4, a big lib with many usefull tools and it are not only os and sys tools..., 2019-12-10T20:06:28+0000
+/project/python-uinput/, python-uinput, 0.11.2, Pythonic API to Linux uinput kernel module., 2016-09-18T18:48:57+0000
+/project/windows-tools-server/, windows-tools.server, 0.1.1, Windows server identification functions, 2021-03-24T17:28:27+0000
+/project/configparser-crypt/, configparser-crypt, 0.6.2, Drop-in replacement for ConfigParser with encryption support, 2021-03-16T14:04:33+0000
+/project/acl/, acl, 0.2, Network access control list parsing library., 2013-03-01T17:16:21+0000
+/project/hidraw/, hidraw, 0.1, hidraw Linux module, 2010-02-21T18:27:53+0000
+/project/uhid/, uhid, 0.0.1, , 2021-02-25T23:42:32+0000
+/project/wenv/, wenv, 0.2.1, Running Python on Wine, 2020-07-10T17:59:06+0000
+/project/archipel-agent-vmparking/, archipel-agent-vmparking, 0.6.0beta, Handle the virtual machine parking, 2013-03-21T01:25:52+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/windows-tools-installed-software/, windows-tools.installed-software, 0.5.4, List of installed software from Uninstall registry keys, 32 and 64 bits, 2021-03-24T17:28:15+0000
+/project/archipel-agent-hypervisor-health/, archipel-agent-hypervisor-health, 0.6.0beta, Get health of hypervisors, 2013-03-21T01:25:38+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/command-runner/, command-runner, 0.6.3, Platform agnostic command and shell execution tool, also allows UAC/sudo privilege elevation, 2021-03-15T15:28:07+0000
+/project/draxoft-auth-pam/, draxoft.auth.pam, 0.1.2, Provides a Python-style interface to PAM's C API., 2012-07-15T13:11:36+0000
+/project/ofunctions-mailer/, ofunctions.mailer, 0.3.5, Mail sending function that handles encryption, authentication, bulk and split mail sending, 2021-02-11T01:10:18+0000
+/project/sht-sensor/, sht-sensor, 18.4.2, Driver and command-line tool for Sensirion SHT1x and SHT7x sensors connected to GPIO pins., 2018-04-06T23:56:17+0000
+/project/ddm/, ddm, 0.0.1, This is a package for AI, 2020-08-11T07:34:36+0000
+/project/windows-tools/, windows-tools, 2.0.1, Toolset for antivirus, NTFS/ReFS ACLs, file ownership, registry, user handling...Well a lot of stuff, 2021-03-30T13:47:01+0000
+/project/brocade-tool/, brocade-tool, 0.1.11, Monitors Brocades, 2015-03-20T21:44:27+0000
+/project/pyhostman/, pyhostman, 0.1.3, A CLI to manage a hosts file, 2019-09-23T21:09:23+0000
+/project/ofunctions-checksums/, ofunctions.checksums, 0.2.1, SHA256 Checksumming functions, checksum manifest file creation and verification, 2021-02-11T01:10:12+0000
+/project/letsconnect-client/, letsconnect-client, 1.0rc16, Let's Connect! client, 2018-08-10T11:39:13+0000
+/project/archipel-agent-virtualmachine-vnc/, archipel-agent-virtualmachine-vnc, 0.6.0beta, manage VNC screen connection, 2013-03-21T01:25:23+0000
+/project/winstrument/, winstrument, 0.1.1, , 2020-07-27T20:59:29+0000
+/project/printdevdag/, printdevDAG, 0.1, facilities for printing a device graph, 2016-05-20T17:52:35+0000
+/project/ofunctions-bisection/, ofunctions.bisection, 0.2.1, Bisection function that allows callable to be tested with any list of arguments, 2021-02-11T01:10:11+0000
+/project/taran/, taran, 0.0.1, An orchestration framework, 2016-08-14T12:38:53+0000
+/project/scapy-nflog-capture/, scapy-nflog-capture, 13.05.0, Driver for scapy to allow capturing packets via Linux NFLOG interface, 2013-05-13T06:34:29+0000
+/project/windows-tools-registry/, windows-tools.registry, 0.5.1, Windows registry 32 and 64 bits simple API, 2021-03-24T17:28:24+0000
+/project/opsbot/, opsbot, 20.10.45, I'm Opsbot. I can help you create the best devops scripts., 2020-10-30T06:40:01+0000
+/project/ofunctions-misc/, ofunctions.misc, 1.0.0, Collection of various functions, 2021-02-11T01:10:19+0000
+/project/netscaler-tool/, netscaler-tool, 1.27.4, Nitro API tool for managing NetScalers., 2015-01-21T00:44:43+0000
+/project/watchdogdev/, watchdogdev, 1.0.0, Implementation of Linux watchdog device API, 2020-02-28T10:48:24+0000
+/project/cgroup-utils/, cgroup-utils, 0.8, Utility tools for control groups of Linux, 2019-12-16T16:16:19+0000
+/project/packme/, packme, 0.7.0, Helper app for building and running packer templates, 2020-03-23T08:19:44+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/windows-tools-office/, windows-tools.office, 0.1.1, Microsoft Office identification, works for click and run, o365 and elder versions, 2021-03-24T17:28:19+0000
+/project/cdist/, cdist, 6.9.6, A Usable Configuration Management System, 2021-04-20T05:36:01+0000
+/project/proc/, proc, 1.0, Simple interface to Linux process information, 2020-04-25T23:37:11+0000
+/project/macos-speech/, macos-speech, 1.1.0, Leverage the macOS `say` command into you scripts, 2020-06-13T21:05:16+0000
+/project/userdocker/, userdocker, 2.0.0, userdocker allows admins to grant restricted docker command access to users., 2017-10-17T08:53:29+0000
+/project/perf-class/, perf-class, 1.0.2, A tool to mep perf script events to classes of events using regex, 2020-12-01T14:39:06+0000
+/project/apercal/, apercal, 2.1, Scientific Compute Container Spec Parser, 2019-01-16T10:08:08+0000
+/project/kconfiglib/, kconfiglib, 14.1.0, A flexible Python Kconfig implementation, 2020-01-31T06:40:47+0000
+/project/houston/, houston, 0.3.0, Application deployment on CoreOS clusters using fleetd and Consul, 2015-08-10T19:49:36+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/kiwi-obs-plugin/, kiwi-obs-plugin, 0.1.5, KIWI - OBS Plugin, 2021-04-18T08:09:32+0000
+/project/ctypes-windows-sdk/, ctypes-windows-sdk, 0.0.9, Ctypes port of Windows SDK, 2021-03-30T10:16:40+0000
+/project/winrt/, winrt, 1.0.21033.1, Access Windows Runtime APIs from Python, 2021-02-03T00:18:30+0000
+/project/bart-py/, bart-py, 2.0.0, Behavioural Analysis and Regression Toolkit, 2017-12-05T23:27:35+0000
+/project/upparat/, upparat, 1.12, Update Service for AWS IoT Core, 2020-12-03T14:32:13+0000
+/project/ofunctions-platform/, ofunctions.platform, 1.0.1, Very basic platform identification, 2021-03-30T14:02:36+0000
+/project/pyfstab/, pyfstab, 0.1.1, Fstab parsing and formatting library, 2020-04-11T09:00:35+0000
+/project/windows-tools-bitness/, windows-tools.bitness, 0.1.1, bitness identification for Windows based on environment, 2021-03-24T17:28:09+0000
+/project/ppool/, PPool, 1.0.0, A Pool for Processes in Python with locks, 2018-09-26T07:00:37+0000
+/project/archipel-agent-virtualmachine-snapshoting/, archipel-agent-virtualmachine-snapshoting, 0.6.0beta, Manage snapshoting for virtual machines, 2013-03-21T01:25:33+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/roller/, roller, 2.0.0, Kernel rolling helper, 2017-10-29T03:02:30+0000
+/project/iwant/, iwant, 1.0.14, CLI based decentralized peer to peer file sharing, 2017-06-27T18:23:27+0000
+/project/autokernel/, autokernel, 0.9.9, A tool to autodetect and manage kernel configuration options, 2021-02-24T13:05:17+0000
+/project/tcp-probe/, tcp-probe, 0.0.3, Tools for tracing TCP in Linux, 2020-03-09T23:20:59+0000
+/project/pysphere/, pysphere, 0.1.7, Python API for interacting with the vSphere Web Services SDK, 2012-10-02T12:53:48+0000
+/project/windows-tools-powershell/, windows-tools.powershell, 0.3.1, PowerShell interpreter wrapper, 2021-03-24T17:28:20+0000
+/project/shallow-backup/, shallow-backup, 5.0.1, Easily create lightweight backups of installed packages, dotfiles, and more., 2020-05-14T11:39:34+0000
+/project/kiwi/, kiwi, 9.23.27, KIWI - Appliance Builder (next generation), 2021-04-20T09:01:28+0000
+/project/ofunctions-delayed-keyboardinterrupt/, ofunctions.delayed-keyboardinterrupt, 0.1.0, Intercept CTRL+C signal in your Python code, 2021-02-11T01:10:13+0000
+/project/filezen/, Filezen, 1.5.3, An Intelligent file organizer module that reads your file storing pattern, 2020-09-25T05:44:27+0000
+/project/ifalg/, ifalg, 0.2, Library to interface with the Linux kernel crypto API, 2015-05-13T23:49:03+0000
+/project/linux-aio-bind/, linux-aio-bind, 1.0.0, Python binding for Linux AIO, 2019-01-22T16:05:40+0000
+/project/pyhurd/, PyHurd, 0.0.0a6, Pytonish GNU/Hurd, 2008-12-30T18:47:29+0000
+/project/jptokenpreprocessing/, JpTokenPreprocessing, 0.1.5a2, JpTokenPreprocessing is Python library for token preprocessing., 2015-10-12T13:53:20+0000
+/project/fwmacro/, fwmacro, 0.9.6, Firewall macro compiler, 2016-11-25T14:39:36+0000
+/project/distro/, distro, 1.5.0, Distro - an OS platform information API, 2020-03-30T21:22:46+0000
+/project/ofunctions-random/, ofunctions.random, 0.1.1, Simple random string generator including password generator, 2021-02-11T01:10:24+0000
+/project/linuxns-rel/, linuxns-rel, 1.0.6, Linux namespace relationships library, 2020-01-08T15:55:34+0000
+/project/windows-tools-wmi-queries/, windows-tools.wmi-queries, 0.9.5, Windows WMI query wrapper, wmi timezone converters, 2021-04-06T09:30:00+0000
+/project/windows-tools-virtualization/, windows-tools.virtualization, 0.3.1, Simple virtualization platform identification for Windows guest, 2021-03-24T17:28:31+0000
+/project/os-sys-php/, os-sys-php, 2019.10.13, a big lib with many usefull tools and it are not only os and sys tools..., 2019-10-14T04:22:05+0000
+/project/tcpinfo/, tcpinfo, 0.2.2, TCPinfo is a Python3 extension written in C to collect information about TCP-sockets via Linux's inet_diag interface, 2017-02-16T16:46:36+0000
+/project/procfs/, procfs, 0.5.0, Python API for the Linux /proc virtual filesystem, 2014-07-30T00:09:20+0000
+/project/tuxbuild/, tuxbuild, 0.12.0, The fun Linux kernel builder, 2021-01-18T20:42:27+0000
+/project/fnfqueue/, fnfqueue, 1.1.1, Fast python library encapsulating the nfqueue netlink interface., 2019-07-18T09:33:37+0000
+/project/deploy-ostree/, deploy-ostree, 1.3.0, Deploy and configure an OSTree commit, 2019-08-27T22:39:23+0000
+/project/vagrant-debian/, vagrant-debian, 1.0.9, Create vagrant virtualbox from Debian ISO cd, 2021-02-08T00:33:31+0000
+/project/winregal/, winregal, 1.0.1, A Modern Python wrapper for the Windows registry, 2017-02-12T20:47:55+0000
+/project/pysp/, pysp, 0.0.10, Python-Support-Package, 2019-10-28T12:36:15+0000
+/project/netscaler-api/, netscaler-api, 0.2.3, NetScaler API is a Python interface for interacting with Citrix NetScaler application delivery controllers, utilizing the SOAP API to execute commands., 2012-07-11T16:03:42+0000
+/project/ddcmaker/, ddcmaker, 0.0.30, This is a package for Raspberry pie system of maker, 2020-09-30T01:47:00+0000
+/project/salt-confd/, salt-confd, 2019.9.0a1, Lightweight Salt package for confd-style management of local application configuration files, 2019-09-05T11:08:20+0000
+/project/salt-sproxy/, salt-sproxy, 2020.10.2, Salt plugin for managing devices and applications, without running (Proxy) Minions, 2020-11-02T18:07:57+0000
+/project/libcgroup-bind/, libcgroup-bind, 1.0.7, Python binding for libcgroup, 2019-03-29T17:13:32+0000
+/project/statux/, statux, 0.1.2, Python module for hardware and system monitoring, 2020-09-12T17:59:14+0000
+/project/yk-totp/, yk-totp, 0.1.6, A CLI tool to generate TOTP values from a password protected YubiKey by storing the password in the system-protected keyring., 2021-01-20T07:40:15+0000
+/project/cielcg/, cielcg, 0.0.0.1, alternative cgroup-tools (cgexec) implementation for both cgroup v1 and v2 (cgroup2), 2021-04-06T01:32:07+0000
+/project/graphite-metrics/, graphite-metrics, 15.03.0, Standalone Graphite metric data collectors for various stuff thats not (or poorly) handled by other monitoring daemons, 2015-03-16T06:21:31+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/guider/, guider, 3.9.81, A system-wide analyzer of performance, 2021-03-27T07:40:38+0000
+/project/py-capsicum-cffi/, py-capsicum-cffi, 3, Python interface to Capsicum, 2020-04-06T03:06:43+0000
+/project/cve-bot/, cve-bot, 0.0.5, CVE Telegram bot., 2021-03-24T13:36:45+0000
+/project/kiwi-keg/, kiwi-keg, 0.0.6, KEG - Image Composition Tool, 2021-04-15T13:42:20+0000
+/project/hammer/, hammer, 0.1, Hammer is a framework for managing load-balancer configuration, 2012-06-07T17:43:09+0000
+/project/cryptidy/, cryptidy, 1.0.5, Python high level library for symmetric & asymmetric encryption, 2021-03-16T11:14:16+0000
+/project/minimega/, minimega, 2.7, Python API for minimega, 2021-02-01T14:18:09+0000
+/project/serviceinstaller/, serviceinstaller, 0.1.3, A flexible service installer, currently compatible with Linux Systemd., 2020-06-19T12:07:42+0000
+/project/archipel-agent-virtualmachine-storage/, archipel-agent-virtualmachine-storage, 0.6.0beta, Manage virtual machine storages, 2013-03-21T01:24:49+0000
+/project/ofunctions-json-sanitize/, ofunctions.json-sanitize, 0.1.1, Simple tool that filters unwanted characters including non printable from JSON objects, 2021-02-11T01:10:15+0000
+/project/linux-aio/, linux-aio, 0.4.1, Linux aio ABI wrapper, 2019-01-29T12:07:01+0000
+/project/salt-sproxy/, salt-sproxy, 2020.10.2, Salt plugin for managing devices and applications, without running (Proxy) Minions, 2020-11-02T18:07:57+0000
+/project/libcgroup-bind/, libcgroup-bind, 1.0.7, Python binding for libcgroup, 2019-03-29T17:13:32+0000
+/project/statux/, statux, 0.1.2, Python module for hardware and system monitoring, 2020-09-12T17:59:14+0000
+/project/yk-totp/, yk-totp, 0.1.6, A CLI tool to generate TOTP values from a password protected YubiKey by storing the password in the system-protected keyring., 2021-01-20T07:40:15+0000
+/project/guider/, guider, 3.9.81, A system-wide analyzer of performance, 2021-03-27T07:40:38+0000
+/project/py-capsicum-cffi/, py-capsicum-cffi, 3, Python interface to Capsicum, 2020-04-06T03:06:43+0000
+/project/cve-bot/, cve-bot, 0.0.5, CVE Telegram bot., 2021-03-24T13:36:45+0000
+/project/iwant/, iwant, 1.0.14, CLI based decentralized peer to peer file sharing, 2017-06-27T18:23:27+0000
+/project/autokernel/, autokernel, 0.9.9, A tool to autodetect and manage kernel configuration options, 2021-02-24T13:05:17+0000
+/project/tcp-probe/, tcp-probe, 0.0.3, Tools for tracing TCP in Linux, 2020-03-09T23:20:59+0000
+/project/pyhurd/, PyHurd, 0.0.0a6, Pytonish GNU/Hurd, 2008-12-30T18:47:29+0000
+/project/fwmacro/, fwmacro, 0.9.6, Firewall macro compiler, 2016-11-25T14:39:36+0000
+/project/distro/, distro, 1.5.0, Distro - an OS platform information API, 2020-03-30T21:22:46+0000
+/project/ofunctions-random/, ofunctions.random, 0.1.1, Simple random string generator including password generator, 2021-02-11T01:10:24+0000
+/project/linuxns-rel/, linuxns-rel, 1.0.6, Linux namespace relationships library, 2020-01-08T15:55:34+0000
+/project/tcpinfo/, tcpinfo, 0.2.2, TCPinfo is a Python3 extension written in C to collect information about TCP-sockets via Linux's inet_diag interface, 2017-02-16T16:46:36+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/windows-tools-office/, windows-tools.office, 0.1.1, Microsoft Office identification, works for click and run, o365 and elder versions, 2021-03-24T17:28:19+0000
+/project/cdist/, cdist, 6.9.6, A Usable Configuration Management System, 2021-04-20T05:36:01+0000
+/project/proc/, proc, 1.0, Simple interface to Linux process information, 2020-04-25T23:37:11+0000
+/project/ofunctions-process/, ofunctions.process, 0.1.1, Shorthand for killing an entire process tree, 2021-02-11T01:10:23+0000
+/project/aio-pipe/, aio-pipe, 0.1.1, POSIX Pipe async helper, 2017-08-15T15:07:17+0000
+/project/parseudev/, parseudev, 0.7.0, parsing of udev and sysfs artifacts, 2016-04-05T16:56:16+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/trigger/, trigger, 1.6.0, Trigger is a framework and suite of tools for configuring network devices, 2017-03-08T18:32:52+0000
+/project/windows-tools-logical-disks/, windows-tools.logical-disks, 0.1.2, Logical disk (partition) management functions, 2021-03-24T17:28:17+0000
+/project/kiwi-boxed-plugin/, kiwi-boxed-plugin, 0.2.8, KIWI - Boxed Build Plugin, 2021-04-19T09:21:34+0000
+/project/justbytes-gui/, justbytes-gui, 0.3.0, exhibiting the display options of the justbytes package, 2016-05-19T12:08:07+0000
+/project/tcplog/, tcplog, 0.2.10, Tool to log and analyze TCP flows., 2018-10-25T23:52:20+0000
+/project/rebasehelper/, rebasehelper, 0.24.0, This tool helps you rebase your package to the latest version, 2021-02-10T18:43:00+0000
+/project/preadwrite/, preadwrite, 0.0.1, pread, pwrite interface for pypy 6.0, 2020-08-26T04:44:08+0000
+/project/ofunctions-service-control/, ofunctions.service-control, 0.1.3, Windows & Linux service control functions, 2021-03-30T14:03:42+0000
+/project/cmsis-svd/, cmsis-svd, 0.4, CMSIS SVD data files and parser, 2016-08-11T16:29:38+0000
+/project/exoedge-fileio/, exoedge-fileio, 20.8.3, An ExoEdge source for reading and writing files., 2020-08-03T15:41:02+0000
+/project/vlcli/, vlcli, 0.1, Command Line Interface to VeraxLabs REST API, 2014-05-17T15:48:01+0000
+/project/unixdump/, unixdump, 1.0.0, eBPF-based tcpdump-alike for Unix domain sockets, 2019-03-04T16:33:10+0000
+/project/tftp-pilot/, tftp-pilot, 0.2.0, Dynamic TFTP implementation for PXE Pilot. Based on fbtftp., 2020-04-09T11:40:40+0000
+/project/archipel-agent-virtualmachine-oomkiller/, archipel-agent-virtualmachine-oomkiller, 0.6.0beta, Manage OOM Killer prevention, 2013-03-21T01:24:36+0000
+/project/trappy/, TRAPpy, 6.0.1, Trace Analysis and Plotting, 2021-03-25T11:51:39+0000

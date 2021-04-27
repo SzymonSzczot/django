@@ -1,0 +1,236 @@
+/project/scrapinghub-entrypoint-scrapy/, scrapinghub-entrypoint-scrapy, 0.12.1, Scrapy entrypoint for Scrapinghub job runner, 2021-02-05T10:10:27+0000
+/project/scrapy-sqlitem/, scrapy-sqlitem, 0.1.2, Scrapy extension to save items to a sql database, 2015-08-15T21:45:43+0000
+/project/scrapybox/, scrapybox, 0.1, A Scrapy GUI, 2016-03-28T18:03:12+0000
+/project/scrapx/, Scrapx, 2.4.1, A customized version of Scrapy, 2021-02-15T15:36:46+0000
+/project/scrapy-random-useragent/, scrapy-random-useragent, 0.2, Scrapy Middleware to set a random User-Agent for every Request., 2016-06-11T07:41:55+0000
+/project/scrapy-do-heroku/, scrapy-do-heroku, 0.4.1, A daemon for scheduling Scrapy spiders, 2020-04-28T23:51:19+0000
+/project/scrapy-jsonrpc-api/, scrapy-jsonrpc-api, 1.0.0, Scrapy extenstion to control spiders using JSON-RPC By Allen, 2021-01-17T10:37:47+0000
+/project/spider-feeder/, spider-feeder, 0.3.0, spider-feeder is a library to help loading inputs to scrapy spiders., 2020-01-13T20:19:02+0000
+/project/scrapy-puppeteer-client/, scrapy-puppeteer-client, 0.0.5, A library to use Puppeteer-managed browser in Scrapy spiders, 2020-11-23T23:28:47+0000
+/project/scrapy-db-pipeline/, scrapy-db-pipeline, 1.1, persist item to the database table, 2019-12-09T02:45:28+0000
+/project/scrapy-save-as-pdf/, scrapy-save-as-pdf, 0.2.1, Pipeline to Download PDF or Save page as PDF for scrapy item, 2021-01-26T03:34:55+0000
+/project/scrapy-rss-exporter/, scrapy-rss-exporter, 0.2, An RSS Exporter for Scrapy, 2020-01-11T19:22:47+0000
+/project/scrapy-s3pipeline/, scrapy-s3pipeline, 0.7.0, Scrapy pipeline to store chunked items into Amazon S3 or Google Clous Storage bucket, 2021-01-31T08:17:34+0000
+/project/scrapy-wayback-machine/, scrapy-wayback-machine, 1.0.3, A Scrapy middleware for scraping Wayback Machine snapshots from archive.org., 2021-03-31T00:01:10+0000
+/project/scrapy-httpproxy/, Scrapy-Httpproxy, 0.0.5, A middleware of http proxy for Scrapy, 2018-08-01T05:01:36+0000
+/project/scrapy-do/, scrapy-do, 0.5.0, A daemon for scheduling Scrapy spiders, 2020-12-24T16:55:00+0000
+/project/scrapyjs/, scrapyjs, 0.2, JavaScript support for Scrapy using Splash, 2016-03-25T23:07:59+0000
+/project/scrapy-sqspipeline/, scrapy-sqspipeline, 1.0.0, , 2020-03-28T05:43:11+0000
+/project/scrapy-rotated-proxy/, scrapy-rotated-proxy, 0.1.5, A middleware to change proxy rotated for Scrapy, 2018-08-23T04:18:38+0000
+/project/scrapy-state/, scrapy-state, 0.0.1, Scrapy state between job runs, 2020-07-02T05:40:17+0000
+/project/zpspider/, zpspider, 0.1, A high-level Web Crawling and Web Scraping framework, 2019-08-22T02:58:48+0000
+/project/scrapy-httpcache/, scrapy-httpcache, 0.0.5, A middleware to cache http response for Scrapy, 2018-05-09T10:00:07+0000
+/project/hepcrawl/, hepcrawl, 13.0.31, Scrapy project for feeds into INSPIRE-HEP (http://inspirehep.net)., 2021-04-21T13:10:29+0000
+/project/scrapy-item/, scrapy-item, 0.0.3, Item with general/unknown/dynamic fields, 2020-07-01T18:10:20+0000
+/project/rotating-free-proxies/, rotating-free-proxies, 0.1.2, Rotating proxies for Scrapy, 2020-05-28T12:45:44+0000
+/project/pyxspider/, pyxspider, 1.2, A high-level Web Crawling and Web Scraping framework, 2019-11-26T10:13:53+0000
+/project/scrapy-script/, scrapy-script, 1.0.0, Run a Scrapy spider programmatically from a script or a Celery task - no project required., 2020-05-18T01:24:35+0000
+/project/scrapy-prometheus/, scrapy-prometheus, 0.4.4, Exporting scrapy stats as prometheus metrics through pushgateway service, 2017-09-16T16:19:02+0000
+/project/scrapy-crawl-once/, scrapy-crawl-once, 0.1.1, Scrapy middleware which allows to crawl only new content, 2017-03-03T20:28:33+0000
+/project/scrapy-link-filter/, scrapy-link-filter, 0.2.0, Scrapy Middleware that allows a Scrapy Spider to filter requests., 2019-12-12T13:17:11+0000
+/project/scraprom/, scraprom, 1.0.2, Scrapy stats collector for prometheus, 2019-03-26T12:30:53+0000
+/project/scrapyu/, scrapyu, 0.1.12, Scrapy utils, 2020-01-10T06:35:35+0000
+/project/spidermon/, spidermon, 1.15.0, Spidermon is a framework to build monitors for Scrapy spiders., 2021-04-07T00:54:00+0000
+/project/scrapy-mingle/, Scrapy_mingle, 0.1.30, Some useful tools for Scrapy, 2017-11-17T08:07:57+0000
+/project/music-scraper/, music_scraper, 1.1.0, Gets Songs from the web and allows users to download the same, 2016-07-29T16:10:44+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/scrapy-webshare/, scrapy-webshare, 0.1.0, Webshare middleware for Scrapy, 2019-03-06T20:23:29+0000
+/project/scrapy3/, Scrapy3, 1.0.1, A high-level Web Crawling and Web Scraping framework, 2018-08-24T09:35:14+0000
+/project/scrapy-poet/, scrapy-poet, 0.2.0, Page Object pattern for Scrapy, 2021-02-22T14:56:24+0000
+/project/imagebot/, imagebot, 1.2.1, A web bot to crawl websites and scrape images., 2015-07-13T13:02:54+0000
+/project/scrapy-proxy-validation/, scrapy-proxy-validation, 0.0.4, , 2017-11-02T03:43:04+0000
+/project/scrapy-headless/, scrapy-headless, 0.0.1, Download Handler for using Scrapy with headless browsers, 2020-02-11T13:56:05+0000
+/project/scrapy-pipeline-mongodb/, scrapy-pipeline-mongodb, 0.0.7, , 2017-12-23T06:54:39+0000
+/project/scrapy-plyvel/, scrapy-plyvel, 0.1.1, Scrapy cache storage using plyvel, 2018-11-12T11:24:47+0000
+/project/scrapy-mysql-pipeline/, scrapy-mysql-pipeline, 2019.7.19, Asynchronous mysql Scrapy item pipeline, 2019-07-19T21:01:58+0000
+/project/scrapy-crawlera/, scrapy-crawlera, 1.7.2, Crawlera middleware for Scrapy, 2020-12-01T14:24:13+0000
+/project/scrapy-mongoengine-item/, scrapy-mongoengine-item, 0.1.5, Scrapy extension to write scraped items using MongoEngine documents, 2019-05-29T08:13:07+0000
+/project/scrapy-itemagic/, scrapy-itemagic, 0.2.4, Scrapy item parsing tools., 2015-05-09T23:10:33+0000
+/project/scrapy-hls/, scrapy-hls, 0.1, scrapy integration for m3u8 files, 2021-04-25T00:04:28+0000
+/project/scrapy-rss/, scrapy-rss, 0.2.3, RSS Tools for Scrapy Framework, 2021-04-10T14:33:04+0000
+/project/scrapy-count-filter/, scrapy-count-filter, 0.2.0, Scrapy Middleware for limiting requests based on a counter., 2019-12-12T13:29:59+0000
+/project/scrapy-playwright/, scrapy-playwright, 0.0.3, Playwright integration for Scrapy, 2021-02-22T16:47:54+0000
+/project/scrapy-sink/, scrapy-sink, 0.1.2, Pipeline to post scrapy item to your url, 2021-01-19T09:17:15+0000
+/project/scrapy-domain-delay/, scrapy-domain-delay, 0.0.4, This package provides a way to let you set different delay for different website, using the Scrapy framework., 2020-09-13T06:20:56+0000
+/project/scrapy-save-to-qiniu/, scrapy-save-to-qiniu, 0.2.0, Pipeline to save scrapy item field attachment to qiniu, 2020-11-26T07:07:27+0000
+/project/cyberplant-scrapy/, cyberplant-Scrapy, 1.2.0.dev2, A high-level Web Crawling and Web Scraping framework, 2016-06-17T04:10:52+0000
+/project/bspider/, bspider, 0.0.8, A high-level distributed crawling framework Git: https://github.com/littlebai3618/bspider, 2020-07-13T08:26:06+0000
+/project/scrapy-extensions/, scrapy-extensions, 0.2.0, A collection of Scrapy extensions and other utilities, 2020-04-15T05:23:36+0000
+/project/rentier-scrapy-proxy-rotator/, rentier-scrapy-proxy-rotator, 0.6.2, Rentier Analytics Scrapy Proxy Rotator, 2019-02-21T16:48:41+0000
+/project/scrapy-zenscrape/, scrapy-zenscrape, 0.0.3, Scrapy middleware for Zenscrape, 2020-09-15T16:44:15+0000
+/project/scrapy-promise/, scrapy-promise, 0.0.6, Promise-style workflow for Scrapy, 2020-09-11T02:06:04+0000
+/project/scrapy-multifeedexporter/, scrapy-multifeedexporter, 0.1.1, Export scraped items of different types to multiple feeds., 2014-10-07T13:25:50+0000
+/project/scrapy-kafka-export/, scrapy-kafka-export, 0.1.1, Export Scrapy items to Kafka, 2017-08-28T09:46:06+0000
+/project/yy-spider/, yy-spider, 1.0.0, 一个增量式爬虫系统, 2018-01-16T07:20:47+0000
+/project/board-game-scraper/, board-game-scraper, 2.13.0, Board games data scraping and processing from BoardGameGeek and more!, 2020-11-14T20:58:09+0000
+/project/scrapy-beautifulsoup/, scrapy-beautifulsoup, 0.0.2, Simple Scrapy middleware to process non-well-formed HTML with BeautifulSoup, 2016-09-26T18:09:31+0000
+/project/scrapy-scrapingbee/, scrapy-scrapingbee, 0.0.3, JavaScript support and proxy rotation for Scrapy with ScrapingBee, 2021-04-12T11:38:57+0000
+/project/free/, free, 0.0.2, Free yourself from CAPTCHAs!, 2017-07-20T18:07:13+0000
+/project/hero-crawl/, hero-crawl, 0.1.4, Helpers for Scrapy and Flask on Heroku, 2016-10-28T17:18:53+0000
+/project/sriram-proxy-pool/, sriram-proxy-pool, 0.2.2, SDT scrapy proxy pool, 2020-02-13T04:17:06+0000
+/project/scrapy-slackbot/, scrapy-slackbot, 0.2.0, A Scrapy extension to send notification to the Slack channel., 2018-06-26T13:34:28+0000
+/project/scrapy-random-useragent-pro/, scrapy-random-useragent-pro, 1.0.0, A random user-agent for all your needs, 2019-12-03T14:59:09+0000
+/project/scrapy-pyppeteer/, scrapy-pyppeteer, 0.0.15, Pyppeteer integration for Scrapy, 2021-02-26T14:00:28+0000
+/project/stickymeta/, stickymeta, 0.0.5, Handy tools to maintain persistent meta values between requests in Scrapy spiders, 2017-01-29T00:37:45+0000
+/project/itemadapter/, itemadapter, 0.2.0, Common interface for data container classes, 2020-11-06T12:55:18+0000
+/project/scrapy-kinesispipeline/, scrapy-kinesispipeline, 0.3.9, Scrapy pipeline to store aggregated items into AWS Kinesis, 2019-02-25T15:09:45+0000
+/project/scrapy-djangoitem/, scrapy-djangoitem, 1.1.1, Scrapy extension to write scraped items using Django models, 2016-05-04T16:45:08+0000
+/project/scrapy-splash/, scrapy-splash, 0.7.2, JavaScript support for Scrapy using Splash, 2017-03-29T23:13:43+0000
+/project/scrapy-useragents/, Scrapy-UserAgents, 0.0.1, A middleware to change user-agent in request for Scrapy, 2017-09-21T09:23:49+0000
+/project/scrapy-grpc/, scrapy-grpc, 1.0, Scrapy extension to control spiders using gRPC, 2017-09-27T07:37:50+0000
+/project/scrapy-autoextract/, scrapy-autoextract, 0.5.2, Scrapinghub AutoExtract API integration for Scrapy, 2021-01-27T18:00:53+0000
+/project/scrapy-rotating-proxies/, scrapy-rotating-proxies, 0.6.2, Rotating proxies for Scrapy, 2019-05-25T13:55:41+0000
+/project/scrapy-jsonrpc/, scrapy-jsonrpc, 0.3.0, Scrapy extenstion to control spiders using JSON-RPC, 2015-04-13T17:58:39+0000
+/project/scrapy-feedexporter-sftp/, scrapy-feedexporter-sftp, 1.0.4, Scrapy extension Feed Exporter Storage Backend to export items to an SFTP server, 2016-01-15T16:18:19+0000
+/project/scrapy-random-ua/, scrapy-random-ua, 0.3, Scrapy Middleware to set a random User-Agent for every Request., 2018-01-16T09:40:16+0000
+/project/wayback-machine-scraper/, wayback-machine-scraper, 1.0.8, A command-line utility for scraping Wayback Machine snapshots from archive.org., 2021-02-15T19:31:10+0000
+/project/scrapy-memcached-cache/, scrapy-memcached-cache, 0.0.3, Memcached HTTP cache storage backend for Scrapy, 2018-06-24T16:06:51+0000
+/project/scrapy-feedstreaming/, scrapy-feedstreaming, 0.0.1, Based on scrapy.extensions.feedexport.FeedExporter to live stream data, 2020-07-12T06:40:38+0000
+/project/china-district/, china-district, 0.0.5, an useful tool for getting Chinese district data from GaodeMap, 2020-01-15T07:46:50+0000
+/project/scrapy-feedexporter-azure-blob/, scrapy-feedexporter-azure-blob, 0.2, Scrapy extension Feed Exporter Storage Backend to export items to a Azure blob container, 2016-06-19T20:20:06+0000
+/project/scrapy-fake-useragent/, scrapy-fake-useragent, 1.4.4, Use a random User-Agent provided by fake-useragent for every request, 2020-08-15T16:27:21+0000
+/project/take/, take, 0.2.0, A DSL for extracting data from a web page., 2015-04-15T08:19:23+0000
+/project/scrapy-nc/, scrapy_nc, 0.2.13, Scrapy plugins in NoCode, 2021-04-21T10:14:55+0000
+/project/finscraper/, finscraper, 0.1.1b0, Web scraping API for Finnish websites, 2020-11-21T22:49:19+0000
+/project/scrapy-botproxy/, scrapy-botproxy, 1.0.1, BotProxy (IP Rotating HTTP proxy) downloader middlewarefor Scrapy, 2017-12-18T19:56:05+0000
+/project/scrapy-qiniu/, scrapy-qiniu, 0.1.2, Scrapy pipeline extension for qiniu.com, 2015-12-26T11:15:21+0000
+/project/webcomix/, webcomix, 3.4.1, Webcomic downloader, 2020-12-13T19:36:55+0000
+/project/scrapy-prometheus-exporter/, scrapy-prometheus-exporter, 1.0.2, Scrapy extension to export stats to Prometheus, 2017-09-17T05:11:45+0000
+/project/scrapy-eagle/, scrapy-eagle, 0.0.37, Run Scrapy Distributed, 2016-10-28T17:32:20+0000
+/project/scrapy-user-agents/, scrapy-user-agents, 0.1.1, Automatically pick an User-Agent for every request, 2018-10-23T23:33:41+0000
+/project/scrapy-cookies/, Scrapy-Cookies, 0.3, A middleware of cookies persistence for Scrapy, 2018-10-11T11:36:21+0000
+/project/scrapy-eagle/, scrapy-eagle, 0.0.37, Run Scrapy Distributed, 2016-10-28T17:32:20+0000
+/project/scrapy-user-agents/, scrapy-user-agents, 0.1.1, Automatically pick an User-Agent for every request, 2018-10-23T23:33:41+0000
+/project/scrapy-streamitem/, scrapy-streamitem, 0.1.0, Scrapy support for working with streamcorpus Stream Items, 2014-12-23T19:02:06+0000
+/project/scrapy-fake-useragent-fix/, scrapy-fake-useragent-fix, 0.1.1, Use a random User-Agent provided by fake-useragent for every request, 2018-10-11T16:42:33+0000
+/project/scrapy-rotating-proxies/, scrapy-rotating-proxies, 0.6.2, Rotating proxies for Scrapy, 2019-05-25T13:55:41+0000
+/project/scrapy-jsonrpc/, scrapy-jsonrpc, 0.3.0, Scrapy extenstion to control spiders using JSON-RPC, 2015-04-13T17:58:39+0000
+/project/scrapy-random-ua/, scrapy-random-ua, 0.3, Scrapy Middleware to set a random User-Agent for every Request., 2018-01-16T09:40:16+0000
+/project/wayback-machine-scraper/, wayback-machine-scraper, 1.0.8, A command-line utility for scraping Wayback Machine snapshots from archive.org., 2021-02-15T19:31:10+0000
+/project/scrapy-memcached-cache/, scrapy-memcached-cache, 0.0.3, Memcached HTTP cache storage backend for Scrapy, 2018-06-24T16:06:51+0000
+/project/scrapy-feedstreaming/, scrapy-feedstreaming, 0.0.1, Based on scrapy.extensions.feedexport.FeedExporter to live stream data, 2020-07-12T06:40:38+0000
+/project/china-district/, china-district, 0.0.5, an useful tool for getting Chinese district data from GaodeMap, 2020-01-15T07:46:50+0000
+/project/scrapy-feedexporter-azure-blob/, scrapy-feedexporter-azure-blob, 0.2, Scrapy extension Feed Exporter Storage Backend to export items to a Azure blob container, 2016-06-19T20:20:06+0000
+/project/scrapy-fake-useragent/, scrapy-fake-useragent, 1.4.4, Use a random User-Agent provided by fake-useragent for every request, 2020-08-15T16:27:21+0000
+/project/scrapy-splash/, scrapy-splash, 0.7.2, JavaScript support for Scrapy using Splash, 2017-03-29T23:13:43+0000
+/project/scrapy-useragents/, Scrapy-UserAgents, 0.0.1, A middleware to change user-agent in request for Scrapy, 2017-09-21T09:23:49+0000
+/project/scrapy-grpc/, scrapy-grpc, 1.0, Scrapy extension to control spiders using gRPC, 2017-09-27T07:37:50+0000
+/project/scrapy-autoextract/, scrapy-autoextract, 0.5.2, Scrapinghub AutoExtract API integration for Scrapy, 2021-01-27T18:00:53+0000
+/project/scrapinghub-entrypoint-scrapy/, scrapinghub-entrypoint-scrapy, 0.12.1, Scrapy entrypoint for Scrapinghub job runner, 2021-02-05T10:10:27+0000
+/project/scrapy-sqlitem/, scrapy-sqlitem, 0.1.2, Scrapy extension to save items to a sql database, 2015-08-15T21:45:43+0000
+/project/scrapybox/, scrapybox, 0.1, A Scrapy GUI, 2016-03-28T18:03:12+0000
+/project/scrapx/, Scrapx, 2.4.1, A customized version of Scrapy, 2021-02-15T15:36:46+0000
+/project/scrapy-random-useragent/, scrapy-random-useragent, 0.2, Scrapy Middleware to set a random User-Agent for every Request., 2016-06-11T07:41:55+0000
+/project/scrapy-do-heroku/, scrapy-do-heroku, 0.4.1, A daemon for scheduling Scrapy spiders, 2020-04-28T23:51:19+0000
+/project/scrapy-jsonrpc-api/, scrapy-jsonrpc-api, 1.0.0, Scrapy extenstion to control spiders using JSON-RPC By Allen, 2021-01-17T10:37:47+0000
+/project/spider-feeder/, spider-feeder, 0.3.0, spider-feeder is a library to help loading inputs to scrapy spiders., 2020-01-13T20:19:02+0000
+/project/scrapy-puppeteer-client/, scrapy-puppeteer-client, 0.0.5, A library to use Puppeteer-managed browser in Scrapy spiders, 2020-11-23T23:28:47+0000
+/project/scrapy-db-pipeline/, scrapy-db-pipeline, 1.1, persist item to the database table, 2019-12-09T02:45:28+0000
+/project/scrapyjs/, scrapyjs, 0.2, JavaScript support for Scrapy using Splash, 2016-03-25T23:07:59+0000
+/project/scrapy-sqspipeline/, scrapy-sqspipeline, 1.0.0, , 2020-03-28T05:43:11+0000
+/project/scrapy-rotated-proxy/, scrapy-rotated-proxy, 0.1.5, A middleware to change proxy rotated for Scrapy, 2018-08-23T04:18:38+0000
+/project/scrapy-wayback-machine/, scrapy-wayback-machine, 1.0.3, A Scrapy middleware for scraping Wayback Machine snapshots from archive.org., 2021-03-31T00:01:10+0000
+/project/scrapy-httpproxy/, Scrapy-Httpproxy, 0.0.5, A middleware of http proxy for Scrapy, 2018-08-01T05:01:36+0000
+/project/scrapy-do/, scrapy-do, 0.5.0, A daemon for scheduling Scrapy spiders, 2020-12-24T16:55:00+0000
+/project/scrapy-state/, scrapy-state, 0.0.1, Scrapy state between job runs, 2020-07-02T05:40:17+0000
+/project/scrapy-save-as-pdf/, scrapy-save-as-pdf, 0.2.1, Pipeline to Download PDF or Save page as PDF for scrapy item, 2021-01-26T03:34:55+0000
+/project/scrapy-rss-exporter/, scrapy-rss-exporter, 0.2, An RSS Exporter for Scrapy, 2020-01-11T19:22:47+0000
+/project/scrapy-s3pipeline/, scrapy-s3pipeline, 0.7.0, Scrapy pipeline to store chunked items into Amazon S3 or Google Clous Storage bucket, 2021-01-31T08:17:34+0000
+/project/zpspider/, zpspider, 0.1, A high-level Web Crawling and Web Scraping framework, 2019-08-22T02:58:48+0000
+/project/scrapy-httpcache/, scrapy-httpcache, 0.0.5, A middleware to cache http response for Scrapy, 2018-05-09T10:00:07+0000
+/project/hepcrawl/, hepcrawl, 13.0.31, Scrapy project for feeds into INSPIRE-HEP (http://inspirehep.net)., 2021-04-21T13:10:29+0000
+/project/scrapy-mysql-pipeline/, scrapy-mysql-pipeline, 2019.7.19, Asynchronous mysql Scrapy item pipeline, 2019-07-19T21:01:58+0000
+/project/scrapy-crawlera/, scrapy-crawlera, 1.7.2, Crawlera middleware for Scrapy, 2020-12-01T14:24:13+0000
+/project/scrapy-crawl-once/, scrapy-crawl-once, 0.1.1, Scrapy middleware which allows to crawl only new content, 2017-03-03T20:28:33+0000
+/project/scrapy-link-filter/, scrapy-link-filter, 0.2.0, Scrapy Middleware that allows a Scrapy Spider to filter requests., 2019-12-12T13:17:11+0000
+/project/scrapy-mongoengine-item/, scrapy-mongoengine-item, 0.1.5, Scrapy extension to write scraped items using MongoEngine documents, 2019-05-29T08:13:07+0000
+/project/scrapy-hls/, scrapy-hls, 0.1, scrapy integration for m3u8 files, 2021-04-25T00:04:28+0000
+/project/scrapy-rss/, scrapy-rss, 0.2.3, RSS Tools for Scrapy Framework, 2021-04-10T14:33:04+0000
+/project/scrapy-count-filter/, scrapy-count-filter, 0.2.0, Scrapy Middleware for limiting requests based on a counter., 2019-12-12T13:29:59+0000
+/project/scrapy-playwright/, scrapy-playwright, 0.0.3, Playwright integration for Scrapy, 2021-02-22T16:47:54+0000
+/project/scraprom/, scraprom, 1.0.2, Scrapy stats collector for prometheus, 2019-03-26T12:30:53+0000
+/project/scrapyu/, scrapyu, 0.1.12, Scrapy utils, 2020-01-10T06:35:35+0000
+/project/scrapy-webshare/, scrapy-webshare, 0.1.0, Webshare middleware for Scrapy, 2019-03-06T20:23:29+0000
+/project/scrapy3/, Scrapy3, 1.0.1, A high-level Web Crawling and Web Scraping framework, 2018-08-24T09:35:14+0000
+/project/scrapy-poet/, scrapy-poet, 0.2.0, Page Object pattern for Scrapy, 2021-02-22T14:56:24+0000
+/project/scrapy-sink/, scrapy-sink, 0.1.2, Pipeline to post scrapy item to your url, 2021-01-19T09:17:15+0000
+/project/hero-crawl/, hero-crawl, 0.1.4, Helpers for Scrapy and Flask on Heroku, 2016-10-28T17:18:53+0000
+/project/scrapy-kafka-export/, scrapy-kafka-export, 0.1.1, Export Scrapy items to Kafka, 2017-08-28T09:46:06+0000
+/project/scrapy-plyvel/, scrapy-plyvel, 0.1.1, Scrapy cache storage using plyvel, 2018-11-12T11:24:47+0000
+/project/scrapy-item/, scrapy-item, 0.0.3, Item with general/unknown/dynamic fields, 2020-07-01T18:10:20+0000
+/project/rotating-free-proxies/, rotating-free-proxies, 0.1.2, Rotating proxies for Scrapy, 2020-05-28T12:45:44+0000
+/project/pyxspider/, pyxspider, 1.2, A high-level Web Crawling and Web Scraping framework, 2019-11-26T10:13:53+0000
+/project/scrapy-script/, scrapy-script, 1.0.0, Run a Scrapy spider programmatically from a script or a Celery task - no project required., 2020-05-18T01:24:35+0000
+/project/scrapy-prometheus/, scrapy-prometheus, 0.4.4, Exporting scrapy stats as prometheus metrics through pushgateway service, 2017-09-16T16:19:02+0000
+/project/scrapy-itemagic/, scrapy-itemagic, 0.2.4, Scrapy item parsing tools., 2015-05-09T23:10:33+0000
+/project/spidermon/, spidermon, 1.15.0, Spidermon is a framework to build monitors for Scrapy spiders., 2021-04-07T00:54:00+0000
+/project/scrapy-mingle/, Scrapy_mingle, 0.1.30, Some useful tools for Scrapy, 2017-11-17T08:07:57+0000
+/project/music-scraper/, music_scraper, 1.1.0, Gets Songs from the web and allows users to download the same, 2016-07-29T16:10:44+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/scrapy-domain-delay/, scrapy-domain-delay, 0.0.4, This package provides a way to let you set different delay for different website, using the Scrapy framework., 2020-09-13T06:20:56+0000
+/project/scrapy-save-to-qiniu/, scrapy-save-to-qiniu, 0.2.0, Pipeline to save scrapy item field attachment to qiniu, 2020-11-26T07:07:27+0000
+/project/cyberplant-scrapy/, cyberplant-Scrapy, 1.2.0.dev2, A high-level Web Crawling and Web Scraping framework, 2016-06-17T04:10:52+0000
+/project/bspider/, bspider, 0.0.8, A high-level distributed crawling framework Git: https://github.com/littlebai3618/bspider, 2020-07-13T08:26:06+0000
+/project/scrapy-extensions/, scrapy-extensions, 0.2.0, A collection of Scrapy extensions and other utilities, 2020-04-15T05:23:36+0000
+/project/imagebot/, imagebot, 1.2.1, A web bot to crawl websites and scrape images., 2015-07-13T13:02:54+0000
+/project/rentier-scrapy-proxy-rotator/, rentier-scrapy-proxy-rotator, 0.6.2, Rentier Analytics Scrapy Proxy Rotator, 2019-02-21T16:48:41+0000
+/project/scrapy-zenscrape/, scrapy-zenscrape, 0.0.3, Scrapy middleware for Zenscrape, 2020-09-15T16:44:15+0000
+/project/scrapy-promise/, scrapy-promise, 0.0.6, Promise-style workflow for Scrapy, 2020-09-11T02:06:04+0000
+/project/scrapy-proxy-validation/, scrapy-proxy-validation, 0.0.4, , 2017-11-02T03:43:04+0000
+/project/scrapy-headless/, scrapy-headless, 0.0.1, Download Handler for using Scrapy with headless browsers, 2020-02-11T13:56:05+0000
+/project/scrapy-multifeedexporter/, scrapy-multifeedexporter, 0.1.1, Export scraped items of different types to multiple feeds., 2014-10-07T13:25:50+0000
+/project/scrapy-pipeline-mongodb/, scrapy-pipeline-mongodb, 0.0.7, , 2017-12-23T06:54:39+0000
+/project/yy-spider/, yy-spider, 1.0.0, 一个增量式爬虫系统, 2018-01-16T07:20:47+0000
+/project/board-game-scraper/, board-game-scraper, 2.13.0, Board games data scraping and processing from BoardGameGeek and more!, 2020-11-14T20:58:09+0000
+/project/scrapy-beautifulsoup/, scrapy-beautifulsoup, 0.0.2, Simple Scrapy middleware to process non-well-formed HTML with BeautifulSoup, 2016-09-26T18:09:31+0000
+/project/scrapy-scrapingbee/, scrapy-scrapingbee, 0.0.3, JavaScript support and proxy rotation for Scrapy with ScrapingBee, 2021-04-12T11:38:57+0000
+/project/free/, free, 0.0.2, Free yourself from CAPTCHAs!, 2017-07-20T18:07:13+0000
+/project/sriram-proxy-pool/, sriram-proxy-pool, 0.2.2, SDT scrapy proxy pool, 2020-02-13T04:17:06+0000
+/project/scrapy-slackbot/, scrapy-slackbot, 0.2.0, A Scrapy extension to send notification to the Slack channel., 2018-06-26T13:34:28+0000
+/project/scrapy-random-useragent-pro/, scrapy-random-useragent-pro, 1.0.0, A random user-agent for all your needs, 2019-12-03T14:59:09+0000
+/project/scrapy-pyppeteer/, scrapy-pyppeteer, 0.0.15, Pyppeteer integration for Scrapy, 2021-02-26T14:00:28+0000
+/project/stickymeta/, stickymeta, 0.0.5, Handy tools to maintain persistent meta values between requests in Scrapy spiders, 2017-01-29T00:37:45+0000
+/project/itemadapter/, itemadapter, 0.2.0, Common interface for data container classes, 2020-11-06T12:55:18+0000
+/project/scrapy-kinesispipeline/, scrapy-kinesispipeline, 0.3.9, Scrapy pipeline to store aggregated items into AWS Kinesis, 2019-02-25T15:09:45+0000
+/project/scrapy-djangoitem/, scrapy-djangoitem, 1.1.1, Scrapy extension to write scraped items using Django models, 2016-05-04T16:45:08+0000
+/project/scrapy-splash/, scrapy-splash, 0.7.2, JavaScript support for Scrapy using Splash, 2017-03-29T23:13:43+0000
+/project/scrapy-useragents/, Scrapy-UserAgents, 0.0.1, A middleware to change user-agent in request for Scrapy, 2017-09-21T09:23:49+0000
+/project/scrapy-grpc/, scrapy-grpc, 1.0, Scrapy extension to control spiders using gRPC, 2017-09-27T07:37:50+0000
+/project/scrapy-autoextract/, scrapy-autoextract, 0.5.2, Scrapinghub AutoExtract API integration for Scrapy, 2021-01-27T18:00:53+0000
+/project/scrapy-rotating-proxies/, scrapy-rotating-proxies, 0.6.2, Rotating proxies for Scrapy, 2019-05-25T13:55:41+0000
+/project/scrapy-jsonrpc/, scrapy-jsonrpc, 0.3.0, Scrapy extenstion to control spiders using JSON-RPC, 2015-04-13T17:58:39+0000
+/project/scrapy-feedexporter-sftp/, scrapy-feedexporter-sftp, 1.0.4, Scrapy extension Feed Exporter Storage Backend to export items to an SFTP server, 2016-01-15T16:18:19+0000
+/project/scrapy-random-ua/, scrapy-random-ua, 0.3, Scrapy Middleware to set a random User-Agent for every Request., 2018-01-16T09:40:16+0000
+/project/wayback-machine-scraper/, wayback-machine-scraper, 1.0.8, A command-line utility for scraping Wayback Machine snapshots from archive.org., 2021-02-15T19:31:10+0000
+/project/scrapy-memcached-cache/, scrapy-memcached-cache, 0.0.3, Memcached HTTP cache storage backend for Scrapy, 2018-06-24T16:06:51+0000
+/project/scrapy-feedstreaming/, scrapy-feedstreaming, 0.0.1, Based on scrapy.extensions.feedexport.FeedExporter to live stream data, 2020-07-12T06:40:38+0000
+/project/china-district/, china-district, 0.0.5, an useful tool for getting Chinese district data from GaodeMap, 2020-01-15T07:46:50+0000
+/project/scrapy-feedexporter-azure-blob/, scrapy-feedexporter-azure-blob, 0.2, Scrapy extension Feed Exporter Storage Backend to export items to a Azure blob container, 2016-06-19T20:20:06+0000
+/project/scrapy-fake-useragent/, scrapy-fake-useragent, 1.4.4, Use a random User-Agent provided by fake-useragent for every request, 2020-08-15T16:27:21+0000
+/project/take/, take, 0.2.0, A DSL for extracting data from a web page., 2015-04-15T08:19:23+0000
+/project/scrapy-nc/, scrapy_nc, 0.2.13, Scrapy plugins in NoCode, 2021-04-21T10:14:55+0000
+/project/finscraper/, finscraper, 0.1.1b0, Web scraping API for Finnish websites, 2020-11-21T22:49:19+0000
+/project/scrapy-botproxy/, scrapy-botproxy, 1.0.1, BotProxy (IP Rotating HTTP proxy) downloader middlewarefor Scrapy, 2017-12-18T19:56:05+0000
+/project/scrapy-qiniu/, scrapy-qiniu, 0.1.2, Scrapy pipeline extension for qiniu.com, 2015-12-26T11:15:21+0000
+/project/webcomix/, webcomix, 3.4.1, Webcomic downloader, 2020-12-13T19:36:55+0000
+/project/scrapy-prometheus-exporter/, scrapy-prometheus-exporter, 1.0.2, Scrapy extension to export stats to Prometheus, 2017-09-17T05:11:45+0000
+/project/scrapy-eagle/, scrapy-eagle, 0.0.37, Run Scrapy Distributed, 2016-10-28T17:32:20+0000
+/project/scrapy-user-agents/, scrapy-user-agents, 0.1.1, Automatically pick an User-Agent for every request, 2018-10-23T23:33:41+0000
+/project/scrapy-cookies/, Scrapy-Cookies, 0.3, A middleware of cookies persistence for Scrapy, 2018-10-11T11:36:21+0000
+/project/scrapy-user-agents/, scrapy-user-agents, 0.1.1, Automatically pick an User-Agent for every request, 2018-10-23T23:33:41+0000
+/project/take/, take, 0.2.0, A DSL for extracting data from a web page., 2015-04-15T08:19:23+0000
+/project/scrapy-nc/, scrapy_nc, 0.2.13, Scrapy plugins in NoCode, 2021-04-21T10:14:55+0000
+/project/finscraper/, finscraper, 0.1.1b0, Web scraping API for Finnish websites, 2020-11-21T22:49:19+0000
+/project/scrapy-botproxy/, scrapy-botproxy, 1.0.1, BotProxy (IP Rotating HTTP proxy) downloader middlewarefor Scrapy, 2017-12-18T19:56:05+0000
+/project/scrapy-qiniu/, scrapy-qiniu, 0.1.2, Scrapy pipeline extension for qiniu.com, 2015-12-26T11:15:21+0000
+/project/webcomix/, webcomix, 3.4.1, Webcomic downloader, 2020-12-13T19:36:55+0000
+/project/scrapy-prometheus-exporter/, scrapy-prometheus-exporter, 1.0.2, Scrapy extension to export stats to Prometheus, 2017-09-17T05:11:45+0000
+/project/wayback-machine-scraper/, wayback-machine-scraper, 1.0.8, A command-line utility for scraping Wayback Machine snapshots from archive.org., 2021-02-15T19:31:10+0000
+/project/scrapy-memcached-cache/, scrapy-memcached-cache, 0.0.3, Memcached HTTP cache storage backend for Scrapy, 2018-06-24T16:06:51+0000
+/project/itemadapter/, itemadapter, 0.2.0, Common interface for data container classes, 2020-11-06T12:55:18+0000
+/project/scrapy-kinesispipeline/, scrapy-kinesispipeline, 0.3.9, Scrapy pipeline to store aggregated items into AWS Kinesis, 2019-02-25T15:09:45+0000
+/project/scrapy-djangoitem/, scrapy-djangoitem, 1.1.1, Scrapy extension to write scraped items using Django models, 2016-05-04T16:45:08+0000
+/project/scrapy-splash/, scrapy-splash, 0.7.2, JavaScript support for Scrapy using Splash, 2017-03-29T23:13:43+0000
+/project/scrapy-useragents/, Scrapy-UserAgents, 0.0.1, A middleware to change user-agent in request for Scrapy, 2017-09-21T09:23:49+0000
+/project/scrapy-grpc/, scrapy-grpc, 1.0, Scrapy extension to control spiders using gRPC, 2017-09-27T07:37:50+0000
+/project/scrapy-autoextract/, scrapy-autoextract, 0.5.2, Scrapinghub AutoExtract API integration for Scrapy, 2021-01-27T18:00:53+0000

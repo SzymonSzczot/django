@@ -1,0 +1,178 @@
+/project/archipel-agent-action-scheduler/, archipel-agent-action-scheduler, 0.6.0beta, Creation and management of planified tasks for hypervisors and virtual machines, 2013-03-21T01:25:16+0000
+/project/dwload-server/, dwload_server, 0.4.0, DWLOAD server implemented in Python, 2014-11-20T13:20:44+0000
+/project/parsines/, parsines, 1.0.0a2, A library for reading iNES formatted NES ROM files., 2015-04-01T16:57:45+0000
+/project/archipel-agent-hypervisor-network/, archipel-agent-hypervisor-network, 0.6.0beta, Manage libvirt networks, 2013-03-21T01:25:13+0000
+/project/archipel-agent-hypervisor-platformrequest/, archipel-agent-hypervisor-platformrequest, 0.6.0beta, Manage platform wide operation requests, 2013-03-21T01:24:43+0000
+/project/pymathbitprecise/, pyMathBitPrecise, 0.9, number types of variable bit size and utils for bit manipulations, 2021-01-01T18:30:28+0000
+/project/archipel-core/, archipel-core, 0.6.0beta, Base framework of Archipel., 2013-03-21T01:25:10+0000
+/project/picostack/, picostack, 0.1.10, A super lightweight KVM virtualization manager, 2014-07-03T12:19:54+0000
+/project/pycocotb/, pycocotb, 1.1, RTL simulator API, 2020-12-27T20:40:18+0000
+/project/icemu/, icemu, 0.4.0, Emulate Integrated Circuits, 2017-10-31T17:17:41+0000
+/project/mikemech/, mikemech, 0.9.3, Tool for command line virtual machines, 2020-03-18T23:21:12+0000
+/project/llvm-minusminus-emulator/, llvm-minusminus-emulator, 1.1.0, A simple hacky emulator/debugger for LLVM--, 2017-11-14T23:12:47+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/pseudomethod/, pseudomethod, 2008.12.20, call almost any function on-the-fly as a method, 2009-01-04T10:10:11+0000
+/project/pyresidfp/, pyresidfp, 0.3, Emulates the SID sound-chip, 2021-02-07T20:46:11+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/dotstar-emulator/, DotStar_Emulator, 0.2, DotStar_Emulator is a Adafruit_DotStar LED strip emulator to speed up development of controller software., 2015-09-26T02:27:29+0000
+/project/mininet/, mininet, 2.3.0.dev6, Process-based OpenFlow emulator, 2020-09-24T00:57:10+0000
+/project/archipel-agent/, archipel-agent, 0.6.0beta, The hypervisor's agent part of Archipel, 2013-03-21T01:25:06+0000
+/project/pyturing/, pyturing, 0.1dev, A simple Turing machine simulator using Python., 2014-04-17T05:03:25+0000
+/project/pysphere3/, pysphere3, 0.1.8, Python API for interacting with the vSphere Web Services SDK, 2019-11-17T00:29:29+0000
+/project/mockssh/, MockSSH, 1.4.5, MockSSH: Mock an SSH server and all commands it supports., 2017-01-15T21:55:26+0000
+/project/elm327-emulator/, ELM327-emulator, 2.1.0, ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter, 2021-03-28T11:49:49+0000
+/project/hwt/, hwt, 3.7, hdl synthesis toolkit, 2020-11-02T08:37:23+0000
+/project/pyboy/, pyboy, 1.4.1, , 2021-03-31T13:19:52+0000
+/project/quick-qemu/, quick-qemu, 0.4.1, Quick start qemu machines, 2019-12-14T18:59:13+0000
+/project/znail/, znail, 0.5.0, Network Emulator, 2019-09-11T11:29:38+0000
+/project/virtualbox/, virtualbox, 2.1.1, Complete implementation of VirtualBox's COM API with a Pythonic interface, 2020-10-26T19:16:14+0000
+/project/pyvbox/, pyvbox, 2.1.1, Complete implementation of VirtualBox's COM API with a Pythonic interface, 2020-10-26T19:18:05+0000
+/project/deltasimulator/, deltasimulator, 0.6.0, Runs Deltaflow programs on virtual platforms, 2021-04-09T11:41:14+0000
+/project/archipel-agent-vmparking/, archipel-agent-vmparking, 0.6.0beta, Handle the virtual machine parking, 2013-03-21T01:25:52+0000
+/project/fake-ubersmith/, fake-ubersmith, 0.39.0, Fake Ubersmith python web server, 2019-12-26T19:00:17+0000
+/project/archipel-agent-hypervisor-geolocalization/, archipel-agent-hypervisor-geolocalization, 0.6.0beta, Make hypervisor able to locate themselves in the world, 2013-03-21T01:25:47+0000
+/project/zx/, zx, 0.7.0, ZX Spectrum Emulator for Researchers and Developers, 2020-05-25T18:12:58+0000
+/project/dragonlib/, dragonlib, 0.1.7, Library around 6809 computers like Dragon 32/64, CoCo..., 2015-08-21T20:37:04+0000
+/project/rpi-backlight-emulator/, rpi-backlight-emulator, 1.2.0, Raspberry Pi 7" LCD emulator for rpi-backlight, 2019-08-12T16:38:57+0000
+/project/amitools/, amitools, 0.6.0, A package to support development with classic Amiga m68k systems, 2021-04-13T19:49:13+0000
+/project/kliko/, kliko, 0.8, Scientific Compute Container Spec Parser, 2017-01-11T10:10:08+0000
+/project/mech/, mech, 0.7.6, Tool for command line virtual machines, 2018-07-06T16:56:58+0000
+/project/pcbasic/, pcbasic, 2.0.3, A free, cross-platform emulator for the GW-BASIC family of interpreters., 2020-09-26T18:37:49+0000
+/project/archipel-agent-vmcasting/, archipel-agent-vmcasting, 0.6.0beta, Manage all stuff about vmcasting, 2013-03-21T01:24:53+0000
+/project/reproserver/, reproserver, 0.7, A web application reproducing ReproZip packages in the cloud. Runs on Kubernetes, 2019-08-28T22:26:58+0000
+/project/j2dx/, j2dx, 0.1.0, Use your Android phone as a virtual Xbox 360 controller or DualShock 4 gamepad on your Windows or Linux PC. This is the server that runs on Windows or Linux., 2019-08-09T18:42:00+0000
+/project/archipel-agent-xmppserver/, archipel-agent-xmppserver, 0.6.0beta, Can manage Ejabberd Server using XMLRPC module, 2013-03-21T01:24:57+0000
+/project/epygma/, epygma, 0.2.0, Settable Python simulator for WWII ENIGMA device, 2017-07-05T20:25:36+0000
+/project/pydocker/, pydocker, 1.0.5, Easy generator Dockerfile for humans., 2019-06-15T11:26:39+0000
+/project/awlsim/, awlsim, 0.74.0, S7 compatible Programmable Logic Controller PLC/SPS (AWL, STL, FUP, FBD), 2020-09-13T08:47:02+0000
+/project/zebracorn/, zebracorn, 0.0.1, A Unicorn CPU emulator fork customized for the zelos binary emulator., 2020-08-04T21:49:17+0000
+/project/vrtneopixel/, vrtneopixel, 1.1.3, A WS2812 matrix emulator, 2017-01-18T14:47:27+0000
+/project/fcdstools/, fcdstools, 0.1.0, Famicom Disk System disk image manipulation, 2017-12-19T18:20:21+0000
+/project/vmguestlib/, vmguestlib, 0.1.2, Python API for interacting with VMware's VMGuestLib SDK, 2013-12-11T23:35:23+0000
+/project/pyibis-ami/, PyIBIS-AMI, 2.2.2, Facilitates working directly with IBIS-AMI DLLs from the Python command prompt., 2017-09-26T13:33:53+0000
+/project/hwtlib/, hwtLib, 2.8, library of hardware components and test for HWToolkit framework (hwt, FPGA devel. tools), 2019-11-08T15:17:25+0000
+/project/ebbbe/, ebbbe, 0.2.0, An emulation of of Ben Eater's 8-bit breadboard computer (https://eater.net/8bit/), 2017-06-01T11:07:43+0000
+/project/archipel-agent-hypervisor-health/, archipel-agent-hypervisor-health, 0.6.0beta, Get health of hypervisors, 2013-03-21T01:25:38+0000
+/project/pyvc/, pyVC, 1.3.0, A set of Python tools for virtual cluster computing, 2007-09-12T23:38:18+0000
+/project/archipel-agent-virtualmachine-vnc/, archipel-agent-virtualmachine-vnc, 0.6.0beta, manage VNC screen connection, 2013-03-21T01:25:23+0000
+/project/fs-uae-wrapper/, fs-uae-wrapper, 0.8.1, Automate archives and state for fs-uae, 2017-06-19T18:31:28+0000
+/project/jetson-emulator/, jetson-emulator, 1.0.0, Emulator of NVIDIA Jetson AI-computer for makers, learners, developers and students, 2020-10-19T10:00:07+0000
+/project/shapy-tc/, shapy-tc, 0.1, Netlink and network emulation framework - TC only version, 2011-05-16T08:40:07+0000
+/project/archipel-agent-virtualmachine-snapshoting/, archipel-agent-virtualmachine-snapshoting, 0.6.0beta, Manage snapshoting for virtual machines, 2013-03-21T01:25:33+0000
+/project/p2pem/, P2PEM, 0.1, General emulation framework for testing of peer-to-peer applications aiming to be highly usable, configurable and extensible., 2011-05-24T21:45:50+0000
+/project/pysphere/, pysphere, 0.1.7, Python API for interacting with the vSphere Web Services SDK, 2012-10-02T12:53:48+0000
+/project/qtarmsim/, qtarmsim, 0.5.3, Easy to use graphical ARM simulator, 2020-11-06T22:00:03+0000
+/project/py65/, py65, 1.1.0, 6502 microprocessor simulation package, 2018-07-01T21:17:43+0000
+/project/gmsaas/, gmsaas, 1.6.1, Universal Command Line Interface for Genymotion Cloud SaaS, 2021-01-13T13:55:22+0000
+/project/armsim/, armsim, 0.1development, ARM Simulator for Linux, 2009-05-09T13:10:44+0000
+/project/z80/, z80, 0.1a2, Fast and flexible i8080/Z80 Emulator, 2020-10-17T10:44:34+0000
+/project/pydigitalwavetools/, pyDigitalWaveTools, 1.0, Library for operations with VCD and other digital wave files, 2020-11-02T00:47:13+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/ps3-update-dl/, ps3-update-dl, 0.0.1.post2, Download all updates for a given PS3 game, 2020-09-16T13:48:58+0000
+/project/blinkt-sim/, blinkt-sim, 1.0.0, Simulates Pimoroni's Blinkt! using pygame., 2018-01-14T17:47:38+0000
+/project/pythonoberon/, PythonOberon, 0.1.0, A hardware emulator for the Oberon RISC processor., 2019-05-14T06:34:07+0000
+/project/fake-switches/, fake-switches, 1.3.9, A pluggable switch/router command-line simulator, 2019-03-21T19:20:30+0000
+/project/dragonpyemulator/, dragonpyemulator, 0.7.0, Emulator for 6809 CPU based system like Dragon 32 / CoCo written in Python..., 2020-10-01T11:27:20+0000
+/project/minimega/, minimega, 2.7, Python API for minimega, 2021-02-01T14:18:09+0000
+/project/archipel-agent-virtualmachine-storage/, archipel-agent-virtualmachine-storage, 0.6.0beta, Manage virtual machine storages, 2013-03-21T01:24:49+0000
+/project/pympf/, pympf, 1.0.4, An arbitrary precision IEEE-754 implementation in Python, 2020-05-20T08:42:11+0000
+/project/shapy-tc/, shapy-tc, 0.1, Netlink and network emulation framework - TC only version, 2011-05-16T08:40:07+0000
+/project/mc6809/, mc6809, 0.6.0, MC6809 CPU emulator written in Python, 2020-02-10T20:30:25+0000
+/project/shapy/, ShaPy, 1.0.1, Netlink and network emulation framework, 2013-03-18T01:06:20+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/brainy-mind/, brainy-mind, 0.2.1, brainy is a nimble workflow managing tool which is a part of iBRAIN framework for scientific computation primarily applied for BigData analysis in context of HPC and HTS, 2015-04-12T13:40:09+0000
+/project/cot/, cot, 2.2.1, Common OVF Tool, 2019-12-04T15:45:49+0000
+/project/bare68k/, bare68k, 0.1.2, A package to create m68k system emulators, 2017-08-13T18:35:22+0000
+/project/tzxtools/, tzxtools, 1.7.0, A tool collection for processing tzx files, 2021-02-28T11:41:34+0000
+/project/eightdad/, eightdad, 0.0.1, Chip-8 interpreter that might one day also have other tools, 2020-05-29T07:38:33+0000
+/project/nes-py/, nes-py, 8.1.6, An NES Emulator and OpenAI Gym interface, 2020-08-26T18:42:22+0000
+/project/archipel-agent-virtualmachine-oomkiller/, archipel-agent-virtualmachine-oomkiller, 0.6.0beta, Manage OOM Killer prevention, 2013-03-21T01:24:36+0000
+/project/archipel-agent-action-scheduler/, archipel-agent-action-scheduler, 0.6.0beta, Creation and management of planified tasks for hypervisors and virtual machines, 2013-03-21T01:25:16+0000
+/project/dwload-server/, dwload_server, 0.4.0, DWLOAD server implemented in Python, 2014-11-20T13:20:44+0000
+/project/parsines/, parsines, 1.0.0a2, A library for reading iNES formatted NES ROM files., 2015-04-01T16:57:45+0000
+/project/archipel-agent-hypervisor-network/, archipel-agent-hypervisor-network, 0.6.0beta, Manage libvirt networks, 2013-03-21T01:25:13+0000
+/project/archipel-agent-hypervisor-platformrequest/, archipel-agent-hypervisor-platformrequest, 0.6.0beta, Manage platform wide operation requests, 2013-03-21T01:24:43+0000
+/project/pymathbitprecise/, pyMathBitPrecise, 0.9, number types of variable bit size and utils for bit manipulations, 2021-01-01T18:30:28+0000
+/project/archipel-core/, archipel-core, 0.6.0beta, Base framework of Archipel., 2013-03-21T01:25:10+0000
+/project/icemu/, icemu, 0.4.0, Emulate Integrated Circuits, 2017-10-31T17:17:41+0000
+/project/mikemech/, mikemech, 0.9.3, Tool for command line virtual machines, 2020-03-18T23:21:12+0000
+/project/llvm-minusminus-emulator/, llvm-minusminus-emulator, 1.1.0, A simple hacky emulator/debugger for LLVM--, 2017-11-14T23:12:47+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/picostack/, picostack, 0.1.10, A super lightweight KVM virtualization manager, 2014-07-03T12:19:54+0000
+/project/pycocotb/, pycocotb, 1.1, RTL simulator API, 2020-12-27T20:40:18+0000
+/project/pseudomethod/, pseudomethod, 2008.12.20, call almost any function on-the-fly as a method, 2009-01-04T10:10:11+0000
+/project/pyresidfp/, pyresidfp, 0.3, Emulates the SID sound-chip, 2021-02-07T20:46:11+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/archipel-agent/, archipel-agent, 0.6.0beta, The hypervisor's agent part of Archipel, 2013-03-21T01:25:06+0000
+/project/pyturing/, pyturing, 0.1dev, A simple Turing machine simulator using Python., 2014-04-17T05:03:25+0000
+/project/archipel-agent-vmcasting/, archipel-agent-vmcasting, 0.6.0beta, Manage all stuff about vmcasting, 2013-03-21T01:24:53+0000
+/project/reproserver/, reproserver, 0.7, A web application reproducing ReproZip packages in the cloud. Runs on Kubernetes, 2019-08-28T22:26:58+0000
+/project/j2dx/, j2dx, 0.1.0, Use your Android phone as a virtual Xbox 360 controller or DualShock 4 gamepad on your Windows or Linux PC. This is the server that runs on Windows or Linux., 2019-08-09T18:42:00+0000
+/project/elm327-emulator/, ELM327-emulator, 2.1.0, ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter, 2021-03-28T11:49:49+0000
+/project/hwt/, hwt, 3.7, hdl synthesis toolkit, 2020-11-02T08:37:23+0000
+/project/znail/, znail, 0.5.0, Network Emulator, 2019-09-11T11:29:38+0000
+/project/archipel-agent-hypervisor-geolocalization/, archipel-agent-hypervisor-geolocalization, 0.6.0beta, Make hypervisor able to locate themselves in the world, 2013-03-21T01:25:47+0000
+/project/zx/, zx, 0.7.0, ZX Spectrum Emulator for Researchers and Developers, 2020-05-25T18:12:58+0000
+/project/fcdstools/, fcdstools, 0.1.0, Famicom Disk System disk image manipulation, 2017-12-19T18:20:21+0000
+/project/vmguestlib/, vmguestlib, 0.1.2, Python API for interacting with VMware's VMGuestLib SDK, 2013-12-11T23:35:23+0000
+/project/pyvc/, pyVC, 1.3.0, A set of Python tools for virtual cluster computing, 2007-09-12T23:38:18+0000
+/project/pyibis-ami/, PyIBIS-AMI, 2.2.2, Facilitates working directly with IBIS-AMI DLLs from the Python command prompt., 2017-09-26T13:33:53+0000
+/project/dotstar-emulator/, DotStar_Emulator, 0.2, DotStar_Emulator is a Adafruit_DotStar LED strip emulator to speed up development of controller software., 2015-09-26T02:27:29+0000
+/project/dragonlib/, dragonlib, 0.1.7, Library around 6809 computers like Dragon 32/64, CoCo..., 2015-08-21T20:37:04+0000
+/project/mininet/, mininet, 2.3.0.dev6, Process-based OpenFlow emulator, 2020-09-24T00:57:10+0000
+/project/rpi-backlight-emulator/, rpi-backlight-emulator, 1.2.0, Raspberry Pi 7" LCD emulator for rpi-backlight, 2019-08-12T16:38:57+0000
+/project/amitools/, amitools, 0.6.0, A package to support development with classic Amiga m68k systems, 2021-04-13T19:49:13+0000
+/project/kliko/, kliko, 0.8, Scientific Compute Container Spec Parser, 2017-01-11T10:10:08+0000
+/project/mech/, mech, 0.7.6, Tool for command line virtual machines, 2018-07-06T16:56:58+0000
+/project/pcbasic/, pcbasic, 2.0.3, A free, cross-platform emulator for the GW-BASIC family of interpreters., 2020-09-26T18:37:49+0000
+/project/pysphere3/, pysphere3, 0.1.8, Python API for interacting with the vSphere Web Services SDK, 2019-11-17T00:29:29+0000
+/project/mockssh/, MockSSH, 1.4.5, MockSSH: Mock an SSH server and all commands it supports., 2017-01-15T21:55:26+0000
+/project/pyboy/, pyboy, 1.4.1, , 2021-03-31T13:19:52+0000
+/project/archipel-agent-xmppserver/, archipel-agent-xmppserver, 0.6.0beta, Can manage Ejabberd Server using XMLRPC module, 2013-03-21T01:24:57+0000
+/project/quick-qemu/, quick-qemu, 0.4.1, Quick start qemu machines, 2019-12-14T18:59:13+0000
+/project/epygma/, epygma, 0.2.0, Settable Python simulator for WWII ENIGMA device, 2017-07-05T20:25:36+0000
+/project/pydocker/, pydocker, 1.0.5, Easy generator Dockerfile for humans., 2019-06-15T11:26:39+0000
+/project/awlsim/, awlsim, 0.74.0, S7 compatible Programmable Logic Controller PLC/SPS (AWL, STL, FUP, FBD), 2020-09-13T08:47:02+0000
+/project/virtualbox/, virtualbox, 2.1.1, Complete implementation of VirtualBox's COM API with a Pythonic interface, 2020-10-26T19:16:14+0000
+/project/zebracorn/, zebracorn, 0.0.1, A Unicorn CPU emulator fork customized for the zelos binary emulator., 2020-08-04T21:49:17+0000
+/project/vrtneopixel/, vrtneopixel, 1.1.3, A WS2812 matrix emulator, 2017-01-18T14:47:27+0000
+/project/pyvbox/, pyvbox, 2.1.1, Complete implementation of VirtualBox's COM API with a Pythonic interface, 2020-10-26T19:18:05+0000
+/project/deltasimulator/, deltasimulator, 0.6.0, Runs Deltaflow programs on virtual platforms, 2021-04-09T11:41:14+0000
+/project/archipel-agent-vmparking/, archipel-agent-vmparking, 0.6.0beta, Handle the virtual machine parking, 2013-03-21T01:25:52+0000
+/project/fake-ubersmith/, fake-ubersmith, 0.39.0, Fake Ubersmith python web server, 2019-12-26T19:00:17+0000
+/project/hwtlib/, hwtLib, 2.8, library of hardware components and test for HWToolkit framework (hwt, FPGA devel. tools), 2019-11-08T15:17:25+0000
+/project/ebbbe/, ebbbe, 0.2.0, An emulation of of Ben Eater's 8-bit breadboard computer (https://eater.net/8bit/), 2017-06-01T11:07:43+0000
+/project/archipel-agent-hypervisor-health/, archipel-agent-hypervisor-health, 0.6.0beta, Get health of hypervisors, 2013-03-21T01:25:38+0000
+/project/archipel-agent-virtualmachine-vnc/, archipel-agent-virtualmachine-vnc, 0.6.0beta, manage VNC screen connection, 2013-03-21T01:25:23+0000
+/project/fs-uae-wrapper/, fs-uae-wrapper, 0.8.1, Automate archives and state for fs-uae, 2017-06-19T18:31:28+0000
+/project/jetson-emulator/, jetson-emulator, 1.0.0, Emulator of NVIDIA Jetson AI-computer for makers, learners, developers and students, 2020-10-19T10:00:07+0000
+/project/userdocker/, userdocker, 2.0.0, userdocker allows admins to grant restricted docker command access to users., 2017-10-17T08:53:29+0000
+/project/mc6809/, mc6809, 0.6.0, MC6809 CPU emulator written in Python, 2020-02-10T20:30:25+0000
+/project/brainy-mind/, brainy-mind, 0.2.1, brainy is a nimble workflow managing tool which is a part of iBRAIN framework for scientific computation primarily applied for BigData analysis in context of HPC and HTS, 2015-04-12T13:40:09+0000
+/project/cot/, cot, 2.2.1, Common OVF Tool, 2019-12-04T15:45:49+0000
+/project/dragonpyemulator/, dragonpyemulator, 0.7.0, Emulator for 6809 CPU based system like Dragon 32 / CoCo written in Python..., 2020-10-01T11:27:20+0000
+/project/archipel-agent-virtualmachine-storage/, archipel-agent-virtualmachine-storage, 0.6.0beta, Manage virtual machine storages, 2013-03-21T01:24:49+0000
+/project/pympf/, pympf, 1.0.4, An arbitrary precision IEEE-754 implementation in Python, 2020-05-20T08:42:11+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/p2pem/, P2PEM, 0.1, General emulation framework for testing of peer-to-peer applications aiming to be highly usable, configurable and extensible., 2011-05-24T21:45:50+0000
+/project/pysphere/, pysphere, 0.1.7, Python API for interacting with the vSphere Web Services SDK, 2012-10-02T12:53:48+0000
+/project/qtarmsim/, qtarmsim, 0.5.3, Easy to use graphical ARM simulator, 2020-11-06T22:00:03+0000
+/project/py65/, py65, 1.1.0, 6502 microprocessor simulation package, 2018-07-01T21:17:43+0000
+/project/gmsaas/, gmsaas, 1.6.1, Universal Command Line Interface for Genymotion Cloud SaaS, 2021-01-13T13:55:22+0000
+/project/shapy/, ShaPy, 1.0.1, Netlink and network emulation framework, 2013-03-18T01:06:20+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/bare68k/, bare68k, 0.1.2, A package to create m68k system emulators, 2017-08-13T18:35:22+0000
+/project/tzxtools/, tzxtools, 1.7.0, A tool collection for processing tzx files, 2021-02-28T11:41:34+0000
+/project/eightdad/, eightdad, 0.0.1, Chip-8 interpreter that might one day also have other tools, 2020-05-29T07:38:33+0000
+/project/nes-py/, nes-py, 8.1.6, An NES Emulator and OpenAI Gym interface, 2020-08-26T18:42:22+0000
+/project/archipel-agent-virtualmachine-oomkiller/, archipel-agent-virtualmachine-oomkiller, 0.6.0beta, Manage OOM Killer prevention, 2013-03-21T01:24:36+0000
+/project/fake-switches/, fake-switches, 1.3.9, A pluggable switch/router command-line simulator, 2019-03-21T19:20:30+0000
+/project/minimega/, minimega, 2.7, Python API for minimega, 2021-02-01T14:18:09+0000
+/project/armsim/, armsim, 0.1development, ARM Simulator for Linux, 2009-05-09T13:10:44+0000
+/project/z80/, z80, 0.1a2, Fast and flexible i8080/Z80 Emulator, 2020-10-17T10:44:34+0000
+/project/pydigitalwavetools/, pyDigitalWaveTools, 1.0, Library for operations with VCD and other digital wave files, 2020-11-02T00:47:13+0000
+/project/ps3-update-dl/, ps3-update-dl, 0.0.1.post2, Download all updates for a given PS3 game, 2020-09-16T13:48:58+0000
+/project/blinkt-sim/, blinkt-sim, 1.0.0, Simulates Pimoroni's Blinkt! using pygame., 2018-01-14T17:47:38+0000
+/project/pythonoberon/, PythonOberon, 0.1.0, A hardware emulator for the Oberon RISC processor., 2019-05-14T06:34:07+0000
+/project/userdocker/, userdocker, 2.0.0, userdocker allows admins to grant restricted docker command access to users., 2017-10-17T08:53:29+0000
+/project/archipel-agent-virtualmachine-snapshoting/, archipel-agent-virtualmachine-snapshoting, 0.6.0beta, Manage snapshoting for virtual machines, 2013-03-21T01:25:33+0000

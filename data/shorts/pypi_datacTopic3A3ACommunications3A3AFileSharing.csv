@@ -1,0 +1,384 @@
+/project/rtorrent-python/, rtorrent-python, 0.2.9, A simple rTorrent interface written in Python, 2012-04-10T23:52:54+0000
+/project/distroscraper/, distroscraper, 1.0.2, Scrape Linux Distro torrents and add to Transmission automatically, 2020-09-13T16:55:32+0000
+/project/filebridging/, filebridging, 0.0.9, Share files via a bridge server using TCP over SSL and end-to-end encryption., 2020-04-19T18:43:50+0000
+/project/sneakersync/, sneakersync, 1.2.2, Synchronize files through the sneakernet, 2019-01-28T06:59:38+0000
+/project/pyload-ng/, pyload-ng, 0.5.0a9.dev806, The free and open-source Download Manager written in pure Python, 2020-11-06T11:36:41+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/errol/, errol, 2.1.0, Errol is a file sender that rely on inotify. It can be used to watch a directory and automatically transfer the new files (or modified ones) with XMPP., 2021-03-13T13:44:25+0000
+/project/juicebox-cli/, juicebox-cli, 2.0.0, Juicebox CLI, 2019-03-04T15:38:44+0000
+/project/qbittorrentui/, qbittorrentui, 0.2.3, Console UI for qBittorrent v4.1+, 2021-04-19T20:52:48+0000
+/project/mp-auth/, mp-auth, 0.3, Add Multi-provider auth for various providers, 2020-01-03T21:11:34+0000
+/project/mayan-edms/, mayan-edms, 3.5.8, Free Open Source Electronic Document Management System, 2021-04-15T00:27:24+0000
+/project/shareinator/, shareinator, 0.0.1, Share files using ssh on same network, 2017-07-12T11:10:19+0000
+/project/shup/, shup, 0.2.0, File sharing (images, code snippets, movies...) made easy., 2018-01-26T16:48:56+0000
+/project/syncrypt/, syncrypt, 0.6.0, Syncrypt client, 2019-12-08T12:16:49+0000
+/project/btn/, btn, 1.0.1, API and local cache for broadcasthe.net, 2018-02-01T09:38:08+0000
+/project/kindlepy/, kindlepy, 1.0.0, CLI tool for mailing your documents to your kindle device., 2016-12-24T20:15:11+0000
+/project/dartui/, DarTui, 1.1.0, An rTorrent web interface with a focus on simplicity, speed and responsiveness, 2012-04-16T22:27:31+0000
+/project/gitsync/, GitSync, 0.2, Use git to sync a project directory on an OS X client with a remote server., 2014-10-17T21:03:46+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/libnfs/, libnfs, 1.0.post4, NFS client for Python., 2016-11-06T22:55:10+0000
+/project/ptree/, ptree, 0.3, Work with PairTree file system convention, 2020-08-27T14:11:21+0000
+/project/netcat/, netcat, 0.0.1a0, Netcat with cmd exec, connect, listen and (local/remote) port-forwarding modes., 2020-04-08T19:58:41+0000
+/project/accorder/, accorder, 20.11.1, Accorder makes Calibre library portable as standalone webapp and ready to be shared at Memory of the World Library., 2020-11-02T21:20:59+0000
+/project/sharepointio/, sharepointio, 0.0.2, An easy use of Office365-REST-Python-Client to download/upload/list sharepoint files, 2021-03-16T12:34:59+0000
+/project/py3createtorrent/, py3createtorrent, 1.0.0, Create torrents via command line!, 2021-01-11T17:18:54+0000
+/project/py-wasapi-client/, py-wasapi-client, 1.1.0, A client for the Archive-It and Webrecorder WASAPI Data Transer API, 2019-10-18T21:15:55+0000
+/project/seedboxtools/, seedboxtools, 1.2.11, A tool to automate downloading finished torrents from a seedbox, 2013-09-18T07:15:18+0000
+/project/gitsynclib/, GitSyncLib, 0.1.4, GitSyncLib is a library that supports GitSync., 2014-10-17T21:12:14+0000
+/project/onionshare-cli/, onionshare-cli, 2.3.1, OnionShare lets you securely and anonymously send and receive files. It works by starting a web server, making it accessible as a Tor onion service, and generating an unguessable web address so others can download files from you, or upload files to you. It does _not_ require setting up a separate server or using a third party file-sharing service., 2021-02-22T22:14:26+0000
+/project/wsl-path-converter/, wsl-path-converter, 0.3.1, Convert between Linux and Windows path in WSL, 2019-08-05T13:04:54+0000
+/project/nfs4-share/, nfs4-share, 0.3.1, Share data without data duplication using nfs4_acls and hard links, 2020-07-02T12:54:24+0000
+/project/metpx-sarracenia/, metpx-sarracenia, 2.21.4, Subscribe, Acquire, and Re-Advertise products., 2021-04-17T07:49:51+0000
+/project/pubpaste/, pubpaste, 0.2, , 2020-05-06T03:58:00+0000
+/project/bilidrive/, BiliDrive, 2019.12.22, ☁️ 哔哩哔哩云，支持任意文件的全速上传与下载, 2019-12-22T13:02:41+0000
+/project/ffsend/, ffsend, 0.1.3, A Firefox Send client., 2020-01-11T02:26:19+0000
+/project/encrypted-config/, encrypted-config, 0.1.2, Partially encrypted configuration library/tool., 2019-05-24T06:54:43+0000
+/project/transmissionrpc-ng/, transmissionrpc-ng, 0.14.1, Python module that implements the Transmission BitTorent client RPC protocol., 2020-04-28T20:00:33+0000
+/project/cz-urnnbn-api/, cz-urnnbn-api, 0.2.6, API for the Czech URN:NBN resolver (https://resolver.nkp.cz)., 2015-10-12T12:38:41+0000
+/project/mayan-edms-ng/, mayan-edms-ng, 3.0.2, Free Open Source Electronic Document Management System, 2018-03-22T23:48:01+0000
+/project/thegekko/, theGekko, 1.0.0, Make SFTP syncing "easy-peasy lizard squeezy"., 2018-03-21T13:33:28+0000
+/project/pyclone-module/, pyclone-module, 1.53.5, Python interface for rclone, 2020-10-14T20:49:18+0000
+/project/ztfy-sendit/, ztfy.sendit, 0.1.20, ZTFY application used to share files, 2017-11-15T09:20:07+0000
+/project/pytransloadit/, pytransloadit, 0.1.12, A Python Integration for https://transloadit.com file uploading and encoding service., 2020-12-14T10:29:55+0000
+/project/gallerize/, Gallerize, 0.3.2, Create a static HTML/CSS image gallery from a bunch of images., 2015-08-09T18:25:56+0000
+/project/nilo-webgallery/, nilo.webgallery, 0.2.5, A simple http server serving a web gallery out of a directory structure., 2009-04-07T17:33:31+0000
+/project/servefile/, servefile, 0.5.1, Serve files from shell via a small HTTP server, 2020-09-29T23:47:52+0000
+/project/djamazing/, djamazing, 0.1.0, Safe storage for django using AWS S3+CloudFront, 2018-02-05T13:58:13+0000
+/project/blacksap/, blacksap, 1.7.1, Track torrent RSS feeds, 2020-02-05T14:52:10+0000
+/project/nzbsort/, nzbsort, 0.1.1, NZB files alpha sorter, 2010-05-09T06:51:09+0000
+/project/twx-botapi/, twx.botapi, 3.6.2, Unofficial Telegram Bot API Library and Client, 2018-05-27T06:41:10+0000
+/project/flatbencode/, flatbencode, 0.2.1, Fast, safe and non-recursive implementation of Bittorrent bencoding for Python 3, 2016-10-22T11:12:32+0000
+/project/iatorrent/, iaTorrent, 0.1.4, This module can be used to snatch torrents for each collection object from a given Internet archive collection., 2013-02-06T03:38:05+0000
+/project/sftpman-gtk/, sftpman-gtk, 1.0.3, A GTK frontend for SftpMan, which helps you mount SFTP file systems., 2019-04-12T07:32:30+0000
+/project/imsto-client/, imsto_client, 1.0.4, imsto-go client in python, include wrapper of django storage, 2014-05-22T10:24:29+0000
+/project/tvlinker/, tvlinker, 4.0.0.post5, Scene-RLS TV show link scraper integrated w/ real-debrid to unrestrict links + support for download managers: Built-in (window/linux), Aria2 RPC Daemon (windows/linux), Internet Download Manager (windows), KGet (linux), Persepolis (windows/linux) and pyLoad (windows/linux)., 2017-06-27T21:32:31+0000
+/project/mayan-credentials/, mayan-credentials, 1.2, Credentials, 2021-02-23T15:44:24+0000
+/project/flaskup/, flaskup, 0.3.2, A simple Flask application to share files., 2014-06-13T12:01:55+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/transmissionrpc/, transmissionrpc, 0.11, Python module that implements the Transmission bittorent client RPC protocol., 2013-10-14T22:22:13+0000
+/project/ttr-aws-utils-s3/, ttr.aws.utils.s3, 0.5.4, CLI to list and fetch objects from versioned S3 buckets. Plus get tmp url., 2020-12-19T20:28:31+0000
+/project/gitblobts/, gitblobts, 0.0.7, git-backed time-indexed blob storage, 2019-01-18T01:19:05+0000
+/project/sftpman/, sftpman, 1.1.3, A command-line application that helps you mount SFTP file systems., 2020-03-14T15:50:29+0000
+/project/syncme/, syncme, 0.1.4, Simple rsync wrapper, 2018-06-07T16:32:07+0000
+/project/babtools-gnutella/, babtools_gnutella, 0.1, Tools for Gnutella., 2008-07-25T08:11:20+0000
+/project/nusbot/, nusbot, 0.3.3, adc bot annoucing changes in filelist of hub's users, 2015-09-20T09:19:26+0000
+/project/asyncfileserver/, asyncfileserver, 0.2.0, File Server, 2020-10-28T08:25:14+0000
+/project/tator-tuspy/, tator-tuspy, 0.2.5, Fork of a Python client for the tus resumable upload protocol ->  http://tus.io, 2020-05-20T18:01:04+0000
+/project/transmission-fluid/, transmission-fluid, 0.6, A Python wrapper for Transmission's RPC interface, 2014-04-26T16:41:46+0000
+/project/mayan-dropbox/, mayan-dropbox, 1.0.0, Dropbox importer, 2020-09-07T08:17:59+0000
+/project/escale/, escale, 0.7.11, Escale - Client-to-client synchronization based on external relay storage, 2020-12-16T11:55:02+0000
+/project/datalad/, datalad, 0.14.2, data distribution geared toward scientific datasets, 2021-04-14T23:00:53+0000
+/project/nattraverso/, nattraverso, 0.1.1, A NAT Traversal library, 2005-08-30T15:48:46+0000
+/project/ant/, ant, 0.1.0, Python implementation of the ANT, ANT+, and ANT-FS protocols (http://www.thisisant.com/)., 2011-10-07T19:18:15+0000
+/project/scenery/, scenery, 1.0.1, A pattern-based scene release renamer, 2020-08-08T17:04:13+0000
+/project/owo/, owo, 2.2.2, Python API wrapper for api.awau.moe, 2017-05-02T12:05:04+0000
+/project/poorbox/, poorbox, 0.1, Downloads a dropbox directory via the dropbox REST API. Downloads only the changed files. Useful for limited environments., 2013-02-24T02:23:20+0000
+/project/desktop-drive/, desktop-drive, 0.3a1, Bash-like file operations on Google Drives "mounted" on the local filesystem., 2017-01-15T16:53:51+0000
+/project/bpaste/, bpaste, 1.0.1, Code snippet uploader for bpaste.net, 2016-01-25T01:18:24+0000
+/project/transmissionclient/, TransmissionClient, 0.1, Python bindings for the Transmission BitTorrent Client, 2007-08-06T22:36:51+0000
+/project/dcnnt/, dcnnt, 0.4.0, UI-less tool to connect Android phone with desktop, 2021-02-14T21:54:50+0000
+/project/guardata/, guardata, 0.2.2, Desktop client for a modern and trustless data cloud storage service, 2021-03-30T18:13:12+0000
+/project/bargate/, bargate, 1.5.9, Open source modern web interface for SMB file servers, 2018-01-25T18:34:15+0000
+/project/kryptal/, kryptal, 0.1.18, Manage encrypted file systems, for example to encrypt your cloud storage., 2020-10-11T11:03:08+0000
+/project/dropthebeat/, DropTheBeat, 1.0, Music sharing using Dropbox., 2016-08-01T19:02:07+0000
+/project/folan/, folan, 2.0.0, Sharing files over LAN, 2020-04-25T02:35:27+0000
+/project/cdndrive/, CDNDrive, 2021.2.24.0, ☁️ CDNDrive，支持任意文件的全速上传与下载, 2021-02-24T12:20:17+0000
+/project/storageapi/, storageapi, 0.2.2, http://getstorage.net for Python, 2013-05-06T00:30:57+0000
+/project/bagit/, bagit, 1.8.1, Create and validate BagIt packages, 2021-02-08T18:53:20+0000
+/project/solan/, solan, 0.1.1, Solan, 2020-06-11T11:19:00+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/zfs-tools-zbackup/, zfs-tools-zbackup, 0.5.1, ZFS synchronization and snapshotting tools, 2018-12-13T22:39:20+0000
+/project/bagit-profile/, bagit-profile, 1.3.1,  This module can be used to validate BagitProfiles., 2020-03-24T13:09:29+0000
+/project/minidlnaindicator/, minidlnaindicator, 0.5.5, MiniDLNA Indicator, 2017-09-08T16:05:54+0000
+/project/pycbox/, pycbox, 0.0.3, Web interface for directory listings and picture gallery, 2017-09-06T14:02:19+0000
+/project/orchstr8/, orchstr8, 0.0.5, Services orchestration and testing library for torba and electrumx based projects., 2018-10-09T04:23:32+0000
+/project/pearsend/, pearsend, 0.0.3, A simple CLI client for peer-to-peer file or message sending, 2017-12-11T04:44:01+0000
+/project/globusonline-transfer-api-client/, globusonline-transfer-api-client, 0.10.18, Globus Online Transfer API client library, 2016-01-06T19:15:25+0000
+/project/deluge-client-sync/, deluge-client-sync, 1.0.0, A synchronous API to deluge using normal python code (no TwistedMatrix, no asyncio), 2018-02-01T09:38:22+0000
+/project/btdht/, btdht, 0.3.3, efficent full implementation of the bittorent mainline dht, 2019-09-14T09:35:22+0000
+/project/pymktorrent/, pymktorrent, 0.3, Torrent metadata (.torrent) creation utility and library, 2008-10-15T00:03:22+0000
+/project/websharecli/, websharecli, 2.0.2, webshare.cz CLI downloader, 2021-03-01T21:24:40+0000
+/project/mayan-document-classifier/, mayan-document-classifier, 1.0.2, Document classifier, 2021-03-04T19:45:53+0000
+/project/zfs-tools/, zfs-tools, 0.5.1, ZFS synchronization and snapshotting tools, 2020-01-04T00:10:51+0000
+/project/cli-pylinx/, cli-pylinx, 1.3.1, A lightweight CLI for uploading and managing your files on a linx-server instance., 2020-11-06T10:38:08+0000
+/project/hattifnatt/, hattifnatt, 0.2.1, Push directory to Telegram channel, 2019-04-23T13:14:07+0000
+/project/syncle/, syncle, 0.1, Single file synchronization tool, 2012-11-17T10:23:36+0000
+/project/twx/, twx, 0.5a5, Abstraction Layer Over Telegram's Bot API and MTProto Chat Potocols, 2015-06-30T01:35:08+0000
+/project/pybooklib/, pybooklib, 1.2, Create, upload, and use Python project templates., 2021-01-19T14:03:45+0000
+/project/dropme/, dropme, 1.1.0, CLI tool for managing Dropbox environment., 2017-12-25T18:02:27+0000
+/project/emonoda/, emonoda, 2.1.32, A set of tools to organize and manage your torrents, 2021-02-21T21:07:00+0000
+/project/raincoat-jackett/, raincoat-jackett, 0.9, Raincoat is a tool to search torrents using Jackett and send them to your client., 2021-03-05T04:17:46+0000
+/project/clouds/, clouds, 0.1.a.dev, UNKNOWN, 2013-08-16T08:44:23+0000
+/project/gridsync/, gridsync, 0.4.3, Synchronize local directories with Tahoe-LAFS storage grids., 2020-07-25T00:41:46+0000
+/project/dnuos/, dnuos, 1.0.11, A tool for creating lists of music collections, 2013-03-31T00:35:33+0000
+/project/pyintralinks/, pyintralinks, 0.1.1, A python client for intralinks api., 2017-06-18T03:20:07+0000
+/project/bilidriveex/, BiliDriveEx, 2020.3.9.3, ☁️ 哔哩哔哩云 Ex，支持任意文件的全速上传与下载, 2020-03-10T10:03:16+0000
+/project/mayan-shareable-links/, mayan-shareable-links, 1.0, Shareable links, 2020-12-31T22:16:17+0000
+/project/python-tweetphoto/, python-tweetphoto, 0.2, A python wrapper around the TweetPhoto API, 2010-01-24T05:34:02+0000
+/project/qbittorrent-api/, qbittorrent-api, 2021.4.20, Python client for qBittorrent v4.1+ Web API, 2021-04-11T23:07:46+0000
+/project/magma/, magma, 0.3.9, MAGnet MAnifest Management - Readout and create lists of magnets in yaml format., 2008-06-16T09:25:30+0000
+/project/yatfs/, yatfs, 0.4.0, FUSE-based torrent-backed filesystem, 2018-02-01T09:39:13+0000
+/project/remofile/, remofile, 1.0.0.dev6, Quick and easy-to-use alternative to FTP, 2018-12-02T00:42:24+0000
+/project/youtube-dl-helper/, youtube-dl-helper, 0.0.13, A tool to automate YouTube downloads via drag and drop, 2020-10-26T02:11:40+0000
+/project/choppy/, choppy, 0.0.5, Partition, encrypt, decrypt, and reassemble files., 2018-01-29T00:39:24+0000
+/project/mulehashdb/, MuleHashDB, 0.1.1, An aMule Hash Database Management Tool, 2006-02-06T19:01:51+0000
+/project/tuspy/, tuspy, 0.2.4, A Python client for the tus resumable upload protocol ->  http://tus.io, 2019-01-14T12:44:36+0000
+/project/youtube-music-uploader/, youtube-music-uploader, 1.1.0, Youtube Music package to upload your music library to Youtube Music, 2021-01-17T04:15:58+0000
+/project/pcs-api/, pcs-api, 1.0.2, A library that gives a uniform API to several personal cloud files storage providers (Dropbox, Google Drive...), 2014-09-18T15:51:27+0000
+/project/minus/, minus, 1.2, Python library & command-line utility which interacts with the minus.com (http://minus.com) file sharing service *** Note: This no longer works due to changes in the service ***, 2013-08-24T20:18:05+0000
+/project/pyrocore/, pyrocore, 0.5.3, PyroCore - Python Torrent Tools Core Package, 2017-06-11T13:26:43+0000
+/project/bitdust-p2p/, bitdust-p2p, 0.0.3, BitDust is new software framework to build distributed and secure peer-to-peer applications., 2020-09-15T19:26:40+0000
+/project/aliyunoss2-autoupload/, aliyunoss2-autoupload, 0.1, Monitor files by wildcard patterns, upload them to ALIYUN OSS, then move to backup directory., 2018-06-28T09:33:56+0000
+/project/pwncat/, pwncat, 0.1.1, Netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell and port forwarding magic - and its  fully scriptable with Python (PSE)., 2021-03-27T21:56:05+0000
+/project/bepasty-client-cli/, bepasty-client-cli, 0.3.0, Command Line Client for the Bepasty Pastebin, 2015-10-22T13:24:47+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/rtcsig/, rtcsig, 0.2, This is a Django App for handle the session exchanging of a WebRTC peer interconnection, 2015-03-07T00:51:17+0000
+/project/pleaseshare/, pleaseshare, 0.5, A file-sharing web application, 2015-02-06T11:49:32+0000
+/project/uguu/, uguu, 1.2.0, generate Flexget config files, 2013-02-14T23:58:58+0000
+/project/bayfiles/, bayfiles, 0.0.3, A library to upload files to bayfiles.com, 2013-03-11T21:26:30+0000
+/project/torrentmediasearcher/, TorrentMediaSearcher, 1.0.3, Fetches TV and movie magnet links from various torrent providers, 2014-04-17T18:53:31+0000
+/project/maisie/, Maisie, 0.1.6, User-oriented system for painless managing, storing, sharing, organizing and deploying Machine Learning models., 2019-07-17T11:20:54+0000
+/project/new-rtorrent-python/, new-rtorrent-python, 1.0.1a0, A simple rTorrent interface written in Python, 2020-09-07T18:55:37+0000
+/project/mayan-importer/, mayan-importer, 1.12.1, Mayan EDMS importer, 2021-03-04T19:08:33+0000
+/project/iwant/, iwant, 1.0.14, CLI based decentralized peer to peer file sharing, 2017-06-27T18:23:27+0000
+/project/share-file-qr/, share-file-qr, 0.1.2, Share files from the terminal of your computer to a smartphone by scanning a QR code., 2018-03-25T19:35:38+0000
+/project/paradise/, paradise, 0.3.0, A file sharing and media streaming utility for local network, 2020-11-25T21:05:12+0000
+/project/sendclient/, sendclient, 0.2.0, Unofficial Firefox Send client, 2018-04-08T12:31:59+0000
+/project/tuspy/, tuspy, 0.2.4, A Python client for the tus resumable upload protocol ->  http://tus.io, 2019-01-14T12:44:36+0000
+/project/minus/, minus, 1.2, Python library & command-line utility which interacts with the minus.com (http://minus.com) file sharing service *** Note: This no longer works due to changes in the service ***, 2013-08-24T20:18:05+0000
+/project/rtorrent-migrate/, rtorrent-migrate, 1.0.0, rTorrent migration utility, 2020-10-12T03:23:35+0000
+/project/yars/, YARS, 1.0, Yet Another RSS downloader, 2010-08-14T17:30:37+0000
+/project/nyaalib/, nyaalib, 0.0.6, Python library for Nyaa, 2015-03-05T08:13:32+0000
+/project/pydirl/, pydirl, 0.3.2, Quick file sharing solution, 2017-05-17T15:39:48+0000
+/project/throw/, throw, 0.1-9-g9350, Simply share files from the command line, 2011-03-07T12:36:35+0000
+/project/billabong/, Billabong, 0.2.5, Personal Encrypted file storage, backup and sharing, 2015-08-24T20:31:58+0000
+/project/leakylan/, leakylan, 0.2.1, Simple File sharing Service over LAN., 2021-04-02T12:02:52+0000
+/project/bhej/, bhej, 0.1.7, Share files like a dev., 2020-11-29T19:12:12+0000
+/project/updog/, updog, 1.4, Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth., 2020-02-19T03:29:35+0000
+/project/nova6/, nova6, 2.0.1, A torrent search engine based on qBittorrent's, 2017-08-02T19:50:36+0000
+/project/udp-filetransfer/, udp-filetransfer, 0.4.5, Reliable filetransfer over UDP, 2019-08-16T06:19:16+0000
+/project/xunlei/, xunlei, 0.1.2, Basic API for Xunlei Lixian, 2012-05-05T01:45:59+0000
+/project/httpshare/, httpshare, 1.0.8, Q&D file transfer utility using an ephemeral HTTP service, 2020-02-19T20:53:28+0000
+/project/hyp-server/, hyp-server, 1.2.0, Hyperminimal https server, 2016-01-01T23:23:33+0000
+/project/bcloud/, bcloud, 3.8.2, Baidu Pan client for Linux Desktop users, 2015-12-25T17:51:43+0000
+/project/thoryvos/, thoryvos, 1.0.4, The All-In One Cryptographic Toolkit, 2021-01-08T12:55:44+0000
+/project/pysendcast/, pySendCast, 0.1.3, A pure Python cross-platform program to send and receive data over local area network(LAN) with on-the-fly gzip streaming and broadcasting, 2020-09-22T08:57:46+0000
+/project/pysmb/, pysmb, 1.2.6, pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines, 2020-12-09T06:44:23+0000
+/project/promus/, promus, 0.1.2, Remote manager to handle git commands., 2014-08-22T22:03:42+0000
+/project/yatfsrpc/, YatfsRpc, 1.0.1, RPC helper plugin for YATFS., 2018-02-01T09:37:55+0000
+/project/tarball-httpd/, tarball-httpd, 0.0.3, Simple http server, streaming directories as tarballs., 2020-08-24T17:46:59+0000
+/project/connectio/, connectIO, 0.0.3, A simple module for sending data across the internet!, 2020-01-30T21:20:47+0000
+/project/django-xmpp-http-upload/, django-xmpp-http-upload, 1.0.0, Provides XEP-0363: HTTP File Upload, 2020-03-21T17:58:59+0000
+/project/tvbutler/, tvbutler, 0.1b1, tvbutler reads RSS feeds from http://tvtorrents.com and downloads torrents of new episodes for you in your preferred quality, 2011-01-12T00:20:57+0000
+/project/youtube-music-uploader/, youtube-music-uploader, 1.1.0, Youtube Music package to upload your music library to Youtube Music, 2021-01-17T04:15:58+0000
+/project/pcs-api/, pcs-api, 1.0.2, A library that gives a uniform API to several personal cloud files storage providers (Dropbox, Google Drive...), 2014-09-18T15:51:27+0000
+/project/pyrocore/, pyrocore, 0.5.3, PyroCore - Python Torrent Tools Core Package, 2017-06-11T13:26:43+0000
+/project/bitdust-p2p/, bitdust-p2p, 0.0.3, BitDust is new software framework to build distributed and secure peer-to-peer applications., 2020-09-15T19:26:40+0000
+/project/aliyunoss2-autoupload/, aliyunoss2-autoupload, 0.1, Monitor files by wildcard patterns, upload them to ALIYUN OSS, then move to backup directory., 2018-06-28T09:33:56+0000
+/project/pwncat/, pwncat, 0.1.1, Netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell and port forwarding magic - and its  fully scriptable with Python (PSE)., 2021-03-27T21:56:05+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/filedropper/, FileDropper, 0.2, Easy access to FileDropper.com, 2009-06-23T09:43:53+0000
+/project/httpshare/, httpshare, 1.0.8, Q&D file transfer utility using an ephemeral HTTP service, 2020-02-19T20:53:28+0000
+/project/hyp-server/, hyp-server, 1.2.0, Hyperminimal https server, 2016-01-01T23:23:33+0000
+/project/deplatformer-webapp/, deplatformer-webapp, 0.1.8, Flask webapp for the deplatformer platform, 2020-11-11T11:28:39+0000
+/project/benparse/, benparse, 1.0.2, Bencode parser, 2020-10-06T18:22:08+0000
+/project/xmpp-backends/, xmpp-backends, 0.8.0, A set of classes with common interfaces to communicate with XMPP servers., 2020-03-22T15:03:59+0000
+/project/rtorrent-migrate/, rtorrent-migrate, 1.0.0, rTorrent migration utility, 2020-10-12T03:23:35+0000
+/project/yars/, YARS, 1.0, Yet Another RSS downloader, 2010-08-14T17:30:37+0000
+/project/nyaalib/, nyaalib, 0.0.6, Python library for Nyaa, 2015-03-05T08:13:32+0000
+/project/movie-blog-search-engine/, movie-blog-search-engine, 0.5, Search on movie-blog for download links, 2020-10-21T07:27:32+0000
+/project/pydirl/, pydirl, 0.3.2, Quick file sharing solution, 2017-05-17T15:39:48+0000
+/project/rtorrent-python/, rtorrent-python, 0.2.9, A simple rTorrent interface written in Python, 2012-04-10T23:52:54+0000
+/project/distroscraper/, distroscraper, 1.0.2, Scrape Linux Distro torrents and add to Transmission automatically, 2020-09-13T16:55:32+0000
+/project/filebridging/, filebridging, 0.0.9, Share files via a bridge server using TCP over SSL and end-to-end encryption., 2020-04-19T18:43:50+0000
+/project/sneakersync/, sneakersync, 1.2.2, Synchronize files through the sneakernet, 2019-01-28T06:59:38+0000
+/project/pyload-ng/, pyload-ng, 0.5.0a9.dev806, The free and open-source Download Manager written in pure Python, 2020-11-06T11:36:41+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/errol/, errol, 2.1.0, Errol is a file sender that rely on inotify. It can be used to watch a directory and automatically transfer the new files (or modified ones) with XMPP., 2021-03-13T13:44:25+0000
+/project/juicebox-cli/, juicebox-cli, 2.0.0, Juicebox CLI, 2019-03-04T15:38:44+0000
+/project/qbittorrentui/, qbittorrentui, 0.2.3, Console UI for qBittorrent v4.1+, 2021-04-19T20:52:48+0000
+/project/mp-auth/, mp-auth, 0.3, Add Multi-provider auth for various providers, 2020-01-03T21:11:34+0000
+/project/mayan-edms/, mayan-edms, 3.5.8, Free Open Source Electronic Document Management System, 2021-04-15T00:27:24+0000
+/project/shareinator/, shareinator, 0.0.1, Share files using ssh on same network, 2017-07-12T11:10:19+0000
+/project/shup/, shup, 0.2.0, File sharing (images, code snippets, movies...) made easy., 2018-01-26T16:48:56+0000
+/project/syncrypt/, syncrypt, 0.6.0, Syncrypt client, 2019-12-08T12:16:49+0000
+/project/btn/, btn, 1.0.1, API and local cache for broadcasthe.net, 2018-02-01T09:38:08+0000
+/project/kindlepy/, kindlepy, 1.0.0, CLI tool for mailing your documents to your kindle device., 2016-12-24T20:15:11+0000
+/project/wsl-path-converter/, wsl-path-converter, 0.3.1, Convert between Linux and Windows path in WSL, 2019-08-05T13:04:54+0000
+/project/accorder/, accorder, 20.11.1, Accorder makes Calibre library portable as standalone webapp and ready to be shared at Memory of the World Library., 2020-11-02T21:20:59+0000
+/project/transmissionrpc-ng/, transmissionrpc-ng, 0.14.1, Python module that implements the Transmission BitTorent client RPC protocol., 2020-04-28T20:00:33+0000
+/project/gitsynclib/, GitSyncLib, 0.1.4, GitSyncLib is a library that supports GitSync., 2014-10-17T21:12:14+0000
+/project/onionshare-cli/, onionshare-cli, 2.3.1, OnionShare lets you securely and anonymously send and receive files. It works by starting a web server, making it accessible as a Tor onion service, and generating an unguessable web address so others can download files from you, or upload files to you. It does _not_ require setting up a separate server or using a third party file-sharing service., 2021-02-22T22:14:26+0000
+/project/nfs4-share/, nfs4-share, 0.3.1, Share data without data duplication using nfs4_acls and hard links, 2020-07-02T12:54:24+0000
+/project/metpx-sarracenia/, metpx-sarracenia, 2.21.4, Subscribe, Acquire, and Re-Advertise products., 2021-04-17T07:49:51+0000
+/project/dartui/, DarTui, 1.1.0, An rTorrent web interface with a focus on simplicity, speed and responsiveness, 2012-04-16T22:27:31+0000
+/project/pubpaste/, pubpaste, 0.2, , 2020-05-06T03:58:00+0000
+/project/bilidrive/, BiliDrive, 2019.12.22, ☁️ 哔哩哔哩云，支持任意文件的全速上传与下载, 2019-12-22T13:02:41+0000
+/project/ffsend/, ffsend, 0.1.3, A Firefox Send client., 2020-01-11T02:26:19+0000
+/project/gitsync/, GitSync, 0.2, Use git to sync a project directory on an OS X client with a remote server., 2014-10-17T21:03:46+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/libnfs/, libnfs, 1.0.post4, NFS client for Python., 2016-11-06T22:55:10+0000
+/project/ptree/, ptree, 0.3, Work with PairTree file system convention, 2020-08-27T14:11:21+0000
+/project/netcat/, netcat, 0.0.1a0, Netcat with cmd exec, connect, listen and (local/remote) port-forwarding modes., 2020-04-08T19:58:41+0000
+/project/encrypted-config/, encrypted-config, 0.1.2, Partially encrypted configuration library/tool., 2019-05-24T06:54:43+0000
+/project/cz-urnnbn-api/, cz-urnnbn-api, 0.2.6, API for the Czech URN:NBN resolver (https://resolver.nkp.cz)., 2015-10-12T12:38:41+0000
+/project/mayan-edms-ng/, mayan-edms-ng, 3.0.2, Free Open Source Electronic Document Management System, 2018-03-22T23:48:01+0000
+/project/sharepointio/, sharepointio, 0.0.2, An easy use of Office365-REST-Python-Client to download/upload/list sharepoint files, 2021-03-16T12:34:59+0000
+/project/py3createtorrent/, py3createtorrent, 1.0.0, Create torrents via command line!, 2021-01-11T17:18:54+0000
+/project/py-wasapi-client/, py-wasapi-client, 1.1.0, A client for the Archive-It and Webrecorder WASAPI Data Transer API, 2019-10-18T21:15:55+0000
+/project/seedboxtools/, seedboxtools, 1.2.11, A tool to automate downloading finished torrents from a seedbox, 2013-09-18T07:15:18+0000
+/project/thegekko/, theGekko, 1.0.0, Make SFTP syncing "easy-peasy lizard squeezy"., 2018-03-21T13:33:28+0000
+/project/pyclone-module/, pyclone-module, 1.53.5, Python interface for rclone, 2020-10-14T20:49:18+0000
+/project/storageapi/, storageapi, 0.2.2, http://getstorage.net for Python, 2013-05-06T00:30:57+0000
+/project/bagit/, bagit, 1.8.1, Create and validate BagIt packages, 2021-02-08T18:53:20+0000
+/project/gallerize/, Gallerize, 0.3.2, Create a static HTML/CSS image gallery from a bunch of images., 2015-08-09T18:25:56+0000
+/project/nilo-webgallery/, nilo.webgallery, 0.2.5, A simple http server serving a web gallery out of a directory structure., 2009-04-07T17:33:31+0000
+/project/servefile/, servefile, 0.5.1, Serve files from shell via a small HTTP server, 2020-09-29T23:47:52+0000
+/project/djamazing/, djamazing, 0.1.0, Safe storage for django using AWS S3+CloudFront, 2018-02-05T13:58:13+0000
+/project/solan/, solan, 0.1.1, Solan, 2020-06-11T11:19:00+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/zfs-tools-zbackup/, zfs-tools-zbackup, 0.5.1, ZFS synchronization and snapshotting tools, 2018-12-13T22:39:20+0000
+/project/minidlnaindicator/, minidlnaindicator, 0.5.5, MiniDLNA Indicator, 2017-09-08T16:05:54+0000
+/project/pycbox/, pycbox, 0.0.3, Web interface for directory listings and picture gallery, 2017-09-06T14:02:19+0000
+/project/orchstr8/, orchstr8, 0.0.5, Services orchestration and testing library for torba and electrumx based projects., 2018-10-09T04:23:32+0000
+/project/pearsend/, pearsend, 0.0.3, A simple CLI client for peer-to-peer file or message sending, 2017-12-11T04:44:01+0000
+/project/blacksap/, blacksap, 1.7.1, Track torrent RSS feeds, 2020-02-05T14:52:10+0000
+/project/globusonline-transfer-api-client/, globusonline-transfer-api-client, 0.10.18, Globus Online Transfer API client library, 2016-01-06T19:15:25+0000
+/project/deluge-client-sync/, deluge-client-sync, 1.0.0, A synchronous API to deluge using normal python code (no TwistedMatrix, no asyncio), 2018-02-01T09:38:22+0000
+/project/flatbencode/, flatbencode, 0.2.1, Fast, safe and non-recursive implementation of Bittorrent bencoding for Python 3, 2016-10-22T11:12:32+0000
+/project/iatorrent/, iaTorrent, 0.1.4, This module can be used to snatch torrents for each collection object from a given Internet archive collection., 2013-02-06T03:38:05+0000
+/project/sftpman-gtk/, sftpman-gtk, 1.0.3, A GTK frontend for SftpMan, which helps you mount SFTP file systems., 2019-04-12T07:32:30+0000
+/project/pymktorrent/, pymktorrent, 0.3, Torrent metadata (.torrent) creation utility and library, 2008-10-15T00:03:22+0000
+/project/transmissionrpc/, transmissionrpc, 0.11, Python module that implements the Transmission bittorent client RPC protocol., 2013-10-14T22:22:13+0000
+/project/syncme/, syncme, 0.1.4, Simple rsync wrapper, 2018-06-07T16:32:07+0000
+/project/babtools-gnutella/, babtools_gnutella, 0.1, Tools for Gnutella., 2008-07-25T08:11:20+0000
+/project/nusbot/, nusbot, 0.3.3, adc bot annoucing changes in filelist of hub's users, 2015-09-20T09:19:26+0000
+/project/asyncfileserver/, asyncfileserver, 0.2.0, File Server, 2020-10-28T08:25:14+0000
+/project/tator-tuspy/, tator-tuspy, 0.2.5, Fork of a Python client for the tus resumable upload protocol ->  http://tus.io, 2020-05-20T18:01:04+0000
+/project/transmission-fluid/, transmission-fluid, 0.6, A Python wrapper for Transmission's RPC interface, 2014-04-26T16:41:46+0000
+/project/mayan-dropbox/, mayan-dropbox, 1.0.0, Dropbox importer, 2020-09-07T08:17:59+0000
+/project/datalad/, datalad, 0.14.2, data distribution geared toward scientific datasets, 2021-04-14T23:00:53+0000
+/project/bpaste/, bpaste, 1.0.1, Code snippet uploader for bpaste.net, 2016-01-25T01:18:24+0000
+/project/dnuos/, dnuos, 1.0.11, A tool for creating lists of music collections, 2013-03-31T00:35:33+0000
+/project/remofile/, remofile, 1.0.0.dev6, Quick and easy-to-use alternative to FTP, 2018-12-02T00:42:24+0000
+/project/transmissionclient/, TransmissionClient, 0.1, Python bindings for the Transmission BitTorrent Client, 2007-08-06T22:36:51+0000
+/project/ztfy-sendit/, ztfy.sendit, 0.1.20, ZTFY application used to share files, 2017-11-15T09:20:07+0000
+/project/pytransloadit/, pytransloadit, 0.1.12, A Python Integration for https://transloadit.com file uploading and encoding service., 2020-12-14T10:29:55+0000
+/project/dcnnt/, dcnnt, 0.4.0, UI-less tool to connect Android phone with desktop, 2021-02-14T21:54:50+0000
+/project/guardata/, guardata, 0.2.2, Desktop client for a modern and trustless data cloud storage service, 2021-03-30T18:13:12+0000
+/project/bargate/, bargate, 1.5.9, Open source modern web interface for SMB file servers, 2018-01-25T18:34:15+0000
+/project/kryptal/, kryptal, 0.1.18, Manage encrypted file systems, for example to encrypt your cloud storage., 2020-10-11T11:03:08+0000
+/project/dropthebeat/, DropTheBeat, 1.0, Music sharing using Dropbox., 2016-08-01T19:02:07+0000
+/project/folan/, folan, 2.0.0, Sharing files over LAN, 2020-04-25T02:35:27+0000
+/project/cdndrive/, CDNDrive, 2021.2.24.0, ☁️ CDNDrive，支持任意文件的全速上传与下载, 2021-02-24T12:20:17+0000
+/project/bagit-profile/, bagit-profile, 1.3.1,  This module can be used to validate BagitProfiles., 2020-03-24T13:09:29+0000
+/project/nzbsort/, nzbsort, 0.1.1, NZB files alpha sorter, 2010-05-09T06:51:09+0000
+/project/twx-botapi/, twx.botapi, 3.6.2, Unofficial Telegram Bot API Library and Client, 2018-05-27T06:41:10+0000
+/project/imsto-client/, imsto_client, 1.0.4, imsto-go client in python, include wrapper of django storage, 2014-05-22T10:24:29+0000
+/project/tvlinker/, tvlinker, 4.0.0.post5, Scene-RLS TV show link scraper integrated w/ real-debrid to unrestrict links + support for download managers: Built-in (window/linux), Aria2 RPC Daemon (windows/linux), Internet Download Manager (windows), KGet (linux), Persepolis (windows/linux) and pyLoad (windows/linux)., 2017-06-27T21:32:31+0000
+/project/mayan-credentials/, mayan-credentials, 1.2, Credentials, 2021-02-23T15:44:24+0000
+/project/btdht/, btdht, 0.3.3, efficent full implementation of the bittorent mainline dht, 2019-09-14T09:35:22+0000
+/project/flaskup/, flaskup, 0.3.2, A simple Flask application to share files., 2014-06-13T12:01:55+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/ttr-aws-utils-s3/, ttr.aws.utils.s3, 0.5.4, CLI to list and fetch objects from versioned S3 buckets. Plus get tmp url., 2020-12-19T20:28:31+0000
+/project/gitblobts/, gitblobts, 0.0.7, git-backed time-indexed blob storage, 2019-01-18T01:19:05+0000
+/project/sftpman/, sftpman, 1.1.3, A command-line application that helps you mount SFTP file systems., 2020-03-14T15:50:29+0000
+/project/escale/, escale, 0.7.11, Escale - Client-to-client synchronization based on external relay storage, 2020-12-16T11:55:02+0000
+/project/websharecli/, websharecli, 2.0.2, webshare.cz CLI downloader, 2021-03-01T21:24:40+0000
+/project/mayan-document-classifier/, mayan-document-classifier, 1.0.2, Document classifier, 2021-03-04T19:45:53+0000
+/project/zfs-tools/, zfs-tools, 0.5.1, ZFS synchronization and snapshotting tools, 2020-01-04T00:10:51+0000
+/project/cli-pylinx/, cli-pylinx, 1.3.1, A lightweight CLI for uploading and managing your files on a linx-server instance., 2020-11-06T10:38:08+0000
+/project/hattifnatt/, hattifnatt, 0.2.1, Push directory to Telegram channel, 2019-04-23T13:14:07+0000
+/project/syncle/, syncle, 0.1, Single file synchronization tool, 2012-11-17T10:23:36+0000
+/project/twx/, twx, 0.5a5, Abstraction Layer Over Telegram's Bot API and MTProto Chat Potocols, 2015-06-30T01:35:08+0000
+/project/pybooklib/, pybooklib, 1.2, Create, upload, and use Python project templates., 2021-01-19T14:03:45+0000
+/project/dropme/, dropme, 1.1.0, CLI tool for managing Dropbox environment., 2017-12-25T18:02:27+0000
+/project/emonoda/, emonoda, 2.1.32, A set of tools to organize and manage your torrents, 2021-02-21T21:07:00+0000
+/project/raincoat-jackett/, raincoat-jackett, 0.9, Raincoat is a tool to search torrents using Jackett and send them to your client., 2021-03-05T04:17:46+0000
+/project/clouds/, clouds, 0.1.a.dev, UNKNOWN, 2013-08-16T08:44:23+0000
+/project/gridsync/, gridsync, 0.4.3, Synchronize local directories with Tahoe-LAFS storage grids., 2020-07-25T00:41:46+0000
+/project/nattraverso/, nattraverso, 0.1.1, A NAT Traversal library, 2005-08-30T15:48:46+0000
+/project/ant/, ant, 0.1.0, Python implementation of the ANT, ANT+, and ANT-FS protocols (http://www.thisisant.com/)., 2011-10-07T19:18:15+0000
+/project/scenery/, scenery, 1.0.1, A pattern-based scene release renamer, 2020-08-08T17:04:13+0000
+/project/owo/, owo, 2.2.2, Python API wrapper for api.awau.moe, 2017-05-02T12:05:04+0000
+/project/poorbox/, poorbox, 0.1, Downloads a dropbox directory via the dropbox REST API. Downloads only the changed files. Useful for limited environments., 2013-02-24T02:23:20+0000
+/project/desktop-drive/, desktop-drive, 0.3a1, Bash-like file operations on Google Drives "mounted" on the local filesystem., 2017-01-15T16:53:51+0000
+/project/pyintralinks/, pyintralinks, 0.1.1, A python client for intralinks api., 2017-06-18T03:20:07+0000
+/project/bilidriveex/, BiliDriveEx, 2020.3.9.3, ☁️ 哔哩哔哩云 Ex，支持任意文件的全速上传与下载, 2020-03-10T10:03:16+0000
+/project/mayan-shareable-links/, mayan-shareable-links, 1.0, Shareable links, 2020-12-31T22:16:17+0000
+/project/python-tweetphoto/, python-tweetphoto, 0.2, A python wrapper around the TweetPhoto API, 2010-01-24T05:34:02+0000
+/project/qbittorrent-api/, qbittorrent-api, 2021.4.20, Python client for qBittorrent v4.1+ Web API, 2021-04-11T23:07:46+0000
+/project/yatfs/, yatfs, 0.4.0, FUSE-based torrent-backed filesystem, 2018-02-01T09:39:13+0000
+/project/magma/, magma, 0.3.9, MAGnet MAnifest Management - Readout and create lists of magnets in yaml format., 2008-06-16T09:25:30+0000
+/project/youtube-dl-helper/, youtube-dl-helper, 0.0.13, A tool to automate YouTube downloads via drag and drop, 2020-10-26T02:11:40+0000
+/project/choppy/, choppy, 0.0.5, Partition, encrypt, decrypt, and reassemble files., 2018-01-29T00:39:24+0000
+/project/mulehashdb/, MuleHashDB, 0.1.1, An aMule Hash Database Management Tool, 2006-02-06T19:01:51+0000
+/project/benparse/, benparse, 1.0.2, Bencode parser, 2020-10-06T18:22:08+0000
+/project/xmpp-backends/, xmpp-backends, 0.8.0, A set of classes with common interfaces to communicate with XMPP servers., 2020-03-22T15:03:59+0000
+/project/yars/, YARS, 1.0, Yet Another RSS downloader, 2010-08-14T17:30:37+0000
+/project/nyaalib/, nyaalib, 0.0.6, Python library for Nyaa, 2015-03-05T08:13:32+0000
+/project/leakylan/, leakylan, 0.2.1, Simple File sharing Service over LAN., 2021-04-02T12:02:52+0000
+/project/bhej/, bhej, 0.1.7, Share files like a dev., 2020-11-29T19:12:12+0000
+/project/updog/, updog, 1.4, Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth., 2020-02-19T03:29:35+0000
+/project/srfp/, srfp, 0.1.0, Client for the Simple Read-only File Protocol, 2014-11-15T03:34:15+0000
+/project/podpy/, podpy, 1.0.0, podpy is a simple small-footprint podcatcher planned to
+ be expanded to be a full-fledged podcast client, 2014-03-29T17:38:24+0000
+/project/blobs/, blobs, 0.1dev, Blobs is a simple web-based file server., 2008-02-19T18:10:51+0000
+/project/share-file-qr/, share-file-qr, 0.1.2, Share files from the terminal of your computer to a smartphone by scanning a QR code., 2018-03-25T19:35:38+0000
+/project/pysendcast/, pySendCast, 0.1.3, A pure Python cross-platform program to send and receive data over local area network(LAN) with on-the-fly gzip streaming and broadcasting, 2020-09-22T08:57:46+0000
+/project/pysmb/, pysmb, 1.2.6, pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines, 2020-12-09T06:44:23+0000
+/project/promus/, promus, 0.1.2, Remote manager to handle git commands., 2014-08-22T22:03:42+0000
+/project/paradise/, paradise, 0.3.0, A file sharing and media streaming utility for local network, 2020-11-25T21:05:12+0000
+/project/metpx-sr3/, metpx-sr3, 3.0.6, Subscribe, Acquire, and Re-Advertise products., 2021-04-09T17:21:30+0000
+/project/libre/, libre, 1.2, A Python based open data API engine., 2013-12-15T15:07:49+0000
+/project/shiva/, shiva, 0.10.0, A RESTful API to your music collection, 2015-06-27T10:16:56+0000
+/project/pbar/, Pbar, 1.0, Progress bar to watch file size, 2013-07-25T04:10:37+0000
+/project/copyparty/, copyparty, 0.10.15, http file sharing hub, 2021-04-24T02:09:24+0000
+/project/mayan-importer/, mayan-importer, 1.12.1, Mayan EDMS importer, 2021-03-04T19:08:33+0000
+/project/iwant/, iwant, 1.0.14, CLI based decentralized peer to peer file sharing, 2017-06-27T18:23:27+0000
+/project/share-file-qr/, share-file-qr, 0.1.2, Share files from the terminal of your computer to a smartphone by scanning a QR code., 2018-03-25T19:35:38+0000
+/project/pysendcast/, pySendCast, 0.1.3, A pure Python cross-platform program to send and receive data over local area network(LAN) with on-the-fly gzip streaming and broadcasting, 2020-09-22T08:57:46+0000
+/project/pysmb/, pysmb, 1.2.6, pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines, 2020-12-09T06:44:23+0000
+/project/promus/, promus, 0.1.2, Remote manager to handle git commands., 2014-08-22T22:03:42+0000
+/project/paradise/, paradise, 0.3.0, A file sharing and media streaming utility for local network, 2020-11-25T21:05:12+0000
+/project/yatfsrpc/, YatfsRpc, 1.0.1, RPC helper plugin for YATFS., 2018-02-01T09:37:55+0000
+/project/tarball-httpd/, tarball-httpd, 0.0.3, Simple http server, streaming directories as tarballs., 2020-08-24T17:46:59+0000
+/project/connectio/, connectIO, 0.0.3, A simple module for sending data across the internet!, 2020-01-30T21:20:47+0000
+/project/django-xmpp-http-upload/, django-xmpp-http-upload, 1.0.0, Provides XEP-0363: HTTP File Upload, 2020-03-21T17:58:59+0000
+/project/tvbutler/, tvbutler, 0.1b1, tvbutler reads RSS feeds from http://tvtorrents.com and downloads torrents of new episodes for you in your preferred quality, 2011-01-12T00:20:57+0000
+/project/sendclient/, sendclient, 0.2.0, Unofficial Firefox Send client, 2018-04-08T12:31:59+0000
+/project/bcloud/, bcloud, 3.8.2, Baidu Pan client for Linux Desktop users, 2015-12-25T17:51:43+0000
+/project/thoryvos/, thoryvos, 1.0.4, The All-In One Cryptographic Toolkit, 2021-01-08T12:55:44+0000
+/project/zget/, zget, 0.11.1, Zeroconf based peer to peer file transfer, 2016-12-12T11:31:13+0000
+/project/autotorrent/, autotorrent, 1.7.1, AutoTorrent allows easy cross-seeding, 2019-12-30T20:59:14+0000
+/project/srfp/, srfp, 0.1.0, Client for the Simple Read-only File Protocol, 2014-11-15T03:34:15+0000
+/project/awftp/, awftp, 1.1.5, awftp - a FTP-style client for HCP Anywhere, 2017-11-16T13:46:29+0000
+/project/gimmethat/, GimmeThat, 3.0, A file transfer tool, 2019-03-22T05:39:51+0000
+/project/tuspyclient/, tuspyclient, 0.1a1, A Python client for the tus resumable upload protocol ->  http://tus.io, 2016-10-13T06:52:41+0000
+/project/podpy/, podpy, 1.0.0, podpy is a simple small-footprint podcatcher planned to
+ be expanded to be a full-fledged podcast client, 2014-03-29T17:38:24+0000
+/project/blobs/, blobs, 0.1dev, Blobs is a simple web-based file server., 2008-02-19T18:10:51+0000
+/project/aioupnp/, aioupnp, 0.0.18, UPnP for asyncio, 2020-11-03T00:31:48+0000
+/project/gdoc-down/, gdoc-down, 0.0.10, Download Google documents to files, 2020-07-20T03:06:52+0000
+/project/maisie/, Maisie, 0.1.6, User-oriented system for painless managing, storing, sharing, organizing and deploying Machine Learning models., 2019-07-17T11:20:54+0000
+/project/new-rtorrent-python/, new-rtorrent-python, 1.0.1a0, A simple rTorrent interface written in Python, 2020-09-07T18:55:37+0000
+/project/throw/, throw, 0.1-9-g9350, Simply share files from the command line, 2011-03-07T12:36:35+0000
+/project/billabong/, Billabong, 0.2.5, Personal Encrypted file storage, backup and sharing, 2015-08-24T20:31:58+0000
+/project/leakylan/, leakylan, 0.2.1, Simple File sharing Service over LAN., 2021-04-02T12:02:52+0000
+/project/bhej/, bhej, 0.1.7, Share files like a dev., 2020-11-29T19:12:12+0000
+/project/updog/, updog, 1.4, Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth., 2020-02-19T03:29:35+0000
+/project/nova6/, nova6, 2.0.1, A torrent search engine based on qBittorrent's, 2017-08-02T19:50:36+0000
+/project/udp-filetransfer/, udp-filetransfer, 0.4.5, Reliable filetransfer over UDP, 2019-08-16T06:19:16+0000
+/project/xunlei/, xunlei, 0.1.2, Basic API for Xunlei Lixian, 2012-05-05T01:45:59+0000
+/project/filedropper/, FileDropper, 0.2, Easy access to FileDropper.com, 2009-06-23T09:43:53+0000
+/project/httpshare/, httpshare, 1.0.8, Q&D file transfer utility using an ephemeral HTTP service, 2020-02-19T20:53:28+0000
+/project/hyp-server/, hyp-server, 1.2.0, Hyperminimal https server, 2016-01-01T23:23:33+0000
+/project/deplatformer-webapp/, deplatformer-webapp, 0.1.8, Flask webapp for the deplatformer platform, 2020-11-11T11:28:39+0000
+/project/benparse/, benparse, 1.0.2, Bencode parser, 2020-10-06T18:22:08+0000
+/project/xmpp-backends/, xmpp-backends, 0.8.0, A set of classes with common interfaces to communicate with XMPP servers., 2020-03-22T15:03:59+0000
+/project/rtorrent-migrate/, rtorrent-migrate, 1.0.0, rTorrent migration utility, 2020-10-12T03:23:35+0000
+/project/yars/, YARS, 1.0, Yet Another RSS downloader, 2010-08-14T17:30:37+0000
+/project/nyaalib/, nyaalib, 0.0.6, Python library for Nyaa, 2015-03-05T08:13:32+0000
+/project/movie-blog-search-engine/, movie-blog-search-engine, 0.5, Search on movie-blog for download links, 2020-10-21T07:27:32+0000
+/project/pydirl/, pydirl, 0.3.2, Quick file sharing solution, 2017-05-17T15:39:48+0000

@@ -1,0 +1,798 @@
+/project/collective-glossary/, collective.glossary, 1.0b1, A Dexterity-based content type to define a glossary and its terms., 2016-12-20T00:31:39+0000
+/project/collective-taskqueue/, collective.taskqueue, 1.0, Asyncore-based asynchronous task queue for Plone, 2020-02-10T13:47:27+0000
+/project/kitconcept-voltodemo/, kitconcept.voltodemo, 2.2, , 2019-12-03T11:07:03+0000
+/project/products-plonelanguagetool/, Products.PloneLanguageTool, 3.2.10, PloneLanguageTool allows you to set the available languages in your Plone site, select various fallback mechanisms, and control the use of flags for language selection and translations., 2020-04-22T22:18:16+0000
+/project/experimental-noacquisition/, experimental.noacquisition, 1.0.0b9, No acquistion during publish traverse, 2020-07-02T09:54:06+0000
+/project/library-theme/, library.theme, 1.1.6, A theme for buildout.library, 2020-11-19T09:00:05+0000
+/project/ftw-upgrade/, ftw.upgrade, 3.0.4, An upgrade control panel and upgrade helpers for plone upgrades., 2021-01-21T18:22:06+0000
+/project/kitconcept-seo/, kitconcept.seo, 1.4.0, SEO optimizations plugin for Plone, 2020-04-08T15:21:49+0000
+/project/ftw-logo/, ftw.logo, 1.0.5, ftw.logo, 2020-07-30T09:14:19+0000
+/project/collective-getfeed/, collective.getfeed, 1.0.0a7, , 2019-06-04T20:01:10+0000
+/project/plone-scale/, plone.scale, 3.1.2, Image scaling, 2020-09-07T20:20:36+0000
+/project/plonetheme-spot/, plonetheme.spot, 1.2.3, A theme for Plone 5.x, 2017-11-20T18:09:29+0000
+/project/collective-ploneboard/, collective.ploneboard, 1.0.0a1, Web board for the Plone Content Management System, 2018-11-28T10:14:23+0000
+/project/collective-catalogcleanup/, collective.catalogcleanup, 1.10.0, Remove outdated items from the catalog, 2020-02-08T16:48:10+0000
+/project/ftw-profilehook/, ftw.profilehook, 1.3.0, A Plone addon providing a hook for executing code when a generic setup profile is installed., 2018-09-28T14:02:00+0000
+/project/plone-autoform/, plone.autoform, 1.9.0, Tools to construct z3c.form forms, 2020-04-20T19:28:03+0000
+/project/collective-fingerpointing/, collective.fingerpointing, 1.8.2, Keep track of different events and write them down to an audit log., 2020-03-16T22:09:30+0000
+/project/collective-slick/, collective.slick, 0.2.1, Add slick carousel css and js resources to your Plone 5 site, 2018-07-04T11:17:39+0000
+/project/ftw-copymovepatches/, ftw.copymovepatches, 2.0.0, ftw.copymovepatches, 2019-07-15T13:55:57+0000
+/project/plone-memoize/, plone.memoize, 2.1.0, Decorators for caching the values of functions and methods, 2020-04-20T21:01:58+0000
+/project/collective-behavior-altimage/, collective.behavior.altimage, 1.0.0b1, Plone behavior for adding an alternative image, next to the lead image, 2019-11-01T15:04:35+0000
+/project/plone-indexer/, plone.indexer, 1.0.7, Hooks to facilitate managing custom index values in Zope 2/CMF applications, 2020-04-20T20:31:45+0000
+/project/collective-smartlink/, collective.smartlink, 1.1.0, An add-on for Plone 5, 2020-03-06T14:09:25+0000
+/project/ftw-catalogdoctor/, ftw.catalogdoctor, 1.2.0, ftw.catalogdoctor, 2020-10-06T09:39:50+0000
+/project/rer-subsites/, rer.subsites, 1.4.1, Subsites for ER portals, 2018-09-21T13:16:53+0000
+/project/plone-formwidget-contenttree/, plone.formwidget.contenttree, 1.2.0, AJAX selection widget for Plone, 2020-01-27T14:31:13+0000
+/project/plone-app-intid/, plone.app.intid, 1.1.4, Installation and migration support for five.intid within Plone/CMF, 2020-04-20T10:32:53+0000
+/project/ftw-iframefix/, ftw.iframefix, 2.0.1, ftw.iframefix, 2019-09-16T14:32:22+0000
+/project/ftw-news/, ftw.news, 1.16.0, Provides dexterity content types for news articles., 2021-03-30T19:30:11+0000
+/project/plonetheme-future-imperfect/, plonetheme.future_imperfect, 1.0.1, A theme for Plone 5.x, 2017-11-20T18:39:15+0000
+/project/products-cmfdifftool/, Products.CMFDiffTool, 3.3.2, Diff tool for Plone, 2020-09-21T14:48:12+0000
+/project/products-plonehotfix20171128/, Products.PloneHotfix20171128, 1.0, Various Plone hotfixes, 2017-11-28, 2017-11-28T15:02:16+0000
+/project/kcrw-tinymce-imagedrop/, kcrw.tinymce-imagedrop, 1.0.1, A Plone add-on that adds image drag and drop to TinyMCE 4 in Plone., 2020-11-25T05:02:31+0000
+/project/plone-app-querystring/, plone.app.querystring, 1.4.14, A queryparser, querybuilder and extra helper tools, to parse stored queries to actual results, used in new style Plone collections, 2020-07-17T14:35:26+0000
+/project/redturtle-tiles-tileoftiles/, redturtle.tiles.tileoftiles, 1.0.1, Tile that renders a tile manager, 2020-03-06T15:56:46+0000
+/project/collective-documentviewer/, collective.documentviewer, 6.0.1, Document cloud's document viewer integration into plone., 2021-02-03T10:18:16+0000
+/project/plone-app-tiles/, plone.app.tiles, 3.2.1, Plone UI integration for plone.tiles, 2020-09-26T14:06:50+0000
+/project/plone-uuid/, plone.uuid, 1.0.6, UUIDs for content items, 2020-04-22T21:29:54+0000
+/project/ftw-casauth/, ftw.casauth, 1.3.1, Plone PAS plugin for authentication against CAS., 2021-02-05T08:54:56+0000
+/project/plone-tiles/, plone.tiles, 2.3.0, APIs for managing tiles, 2020-09-07T20:24:06+0000
+/project/ftw-events/, ftw.events, 1.15.1, Events with simplelayout., 2020-09-03T07:30:06+0000
+/project/products-isurlinportal/, Products.isurlinportal, 1.1.1, Replacement for isURLInPortal method in Plone, 2020-09-07T20:25:57+0000
+/project/dexterity-membrane/, dexterity.membrane, 2.1.0, Dexterity content and behaviors to integrate with membrane., 2019-06-01T09:37:35+0000
+/project/plone-login/, plone.login, 1.0rc1, Plone Login System, 2018-06-18T11:56:26+0000
+/project/collective-lastmodifier/, collective.lastmodifier, 2.0.0, Extends Plone content with metadata about the last modifier, 2019-10-23T05:36:23+0000
+/project/cciaa-intranetworkflow/, cciaa.intranetworkflow, 3.0.0, Workflow of the CCIAA - C4P project, 2020-03-06T11:36:28+0000
+/project/collective-collectionfilter/, collective.collectionfilter, 3.4.2, Plone addon for filtering collection results., 2021-02-25T14:20:27+0000
+/project/collective-dexteritytextindexer/, collective.dexteritytextindexer, 2.4.0, Dynamic SearchableText index for dexterity content types, 2020-01-24T10:32:10+0000
+/project/ftw-dictstorage/, ftw.dictstorage, 1.3.0, Provides a layer for storing key / value paires., 2019-11-11T15:17:05+0000
+/project/products-statusmessages/, Products.statusmessages, 5.0.5, statusmessages provides an easy way of handling internationalized status messages managed via an BrowserRequest adapter storing status messages in client-side cookies., 2020-04-22T22:22:24+0000
+/project/collective-eeafaceted-z3ctable/, collective.eeafaceted.z3ctable, 2.13, Package proposant un type de colonne compatible avec eea.facetednavigation, 2021-01-06T09:16:13+0000
+/project/eea-sentry/, eea.sentry, 1.4, Zope/Plone Sentry integration, 2019-12-02T12:43:08+0000
+/project/collective-disclaimer/, collective.disclaimer, 1.0b1, Show a disclaimer the first time a user visits a site., 2018-12-08T17:31:07+0000
+/project/plone-registry/, plone.registry, 1.2.0, Registry for application settings (like debconf/ about:config), 2021-04-23T07:20:26+0000
+/project/plone-app-versioningbehavior/, plone.app.versioningbehavior, 1.4.2, Provides a behavior for using CMFEditions with dexterity content types, 2021-02-16T16:57:12+0000
+/project/collective-eeafaceted-collectionwidget/, collective.eeafaceted.collectionwidget, 1.11, eea.facetednavigation widget that enables selecting a collection (among several) as base filter, 2020-05-28T13:05:04+0000
+/project/ftw-publisher-receiver/, ftw.publisher.receiver, 2.3.3, Staging and publishing addon for Plone contents., 2020-07-30T09:22:34+0000
+/project/collective-lazysizes/, collective.lazysizes, 4.1.6, Integration of lazysizes, a lightweight lazy loader, into Plone., 2019-03-13T03:24:28+0000
+/project/plone-portlet-collection/, plone.portlet.collection, 3.3.6, A portlet that fetches results from a collection, 2021-02-16T16:50:54+0000
+/project/unikold-connector/, unikold.connector, 1.0a3, Plone addon for making persistent SOAP requests, 2019-04-23T09:45:06+0000
+/project/redturtle-drawio/, redturtle.drawio, 0.1.0, Draw.io viewer for Plone, 2018-07-02T07:49:10+0000
+/project/plone-jsonserializer/, plone.jsonserializer, 0.9.10, JSON serialization/deserialization adapters for Plone., 2020-07-01T13:29:28+0000
+/project/plone-recipe-sublimetext/, plone.recipe.sublimetext, 1.3.0, SublimeText configuration for buildout-based Python projects, 2019-02-04T12:16:30+0000
+/project/collective-editmodeswitcher/, collective.editmodeswitcher, 1.1.0, Allows to toggle edit mode in Plone, 2019-10-15T06:35:46+0000
+/project/plone-app-contentmenu/, plone.app.contentmenu, 2.3.2, Plone's content menu implementation, 2020-07-17T14:23:18+0000
+/project/collective-behavior-talcondition/, collective.behavior.talcondition, 0.12, This package contains a Dexterity behavior and AT schemaextender to add a TAL condition on a content type., 2021-04-20T10:26:08+0000
+/project/experimental-bwtools/, experimental.bwtools, 0.2.0, Experimental bandwidth tools, 2017-03-03T07:43:50+0000
+/project/souper-plone/, souper.plone, 1.3.1, Plone Souper Integration: Container for many lightweight queryable Records, 2021-02-13T15:30:45+0000
+/project/operun-contactform/, operun.contactform, 1.0.0a4, A Plone Contact-Form Add-On., 2019-06-18T09:38:29+0000
+/project/redturtle-gallery/, redturtle.gallery, 2.3.0, Plone addon that adds a gallery view with a carousel made with slick., 2020-07-21T10:59:59+0000
+/project/plone-event/, plone.event, 1.4.1, Event and calendaring related tools not bound to Plone, 2020-04-20T20:08:57+0000
+/project/ftw-solr/, ftw.solr, 2.9.3, Solr integration for Plone, 2021-04-22T09:27:43+0000
+/project/products-mimetypesregistry/, Products.MimetypesRegistry, 2.1.8, MIME type handling for Zope, 2020-09-21T14:50:58+0000
+/project/collective-searchandreplace/, collective.searchandreplace, 8.1.1, Batch Search and Replace, 2021-01-11T13:29:26+0000
+/project/collective-cookiecuttr/, collective.cookiecuttr, 1.0.1, Integration package for cookiecuttr, european guidelines, 2020-01-17T20:36:14+0000
+/project/collective-geo-zugmap/, collective.geo.zugmap, 1.0.6, Zugmap Layer for collective.geo, 2019-11-11T12:26:26+0000
+/project/plone-contentrules/, plone.contentrules, 2.1.0, Plone ContentRules Engine, 2020-09-07T11:18:11+0000
+/project/ftw-collectionblock/, ftw.collectionblock, 1.2.3, ftw.collectionblock, 2020-01-09T10:04:32+0000
+/project/collective-feedaggregator/, collective.feedaggregator, 1.0a2, A feed aggregator content type for Plone., 2016-09-27T00:18:56+0000
+/project/zopyx-plone-persistentlogger/, zopyx.plone.persistentlogger, 0.4.9.1, Persistent logging for Plone objects, 2021-03-30T13:29:08+0000
+/project/ftw-activity/, ftw.activity, 2.5.2, An activity feed for Plone., 2021-02-26T09:38:20+0000
+/project/ftw-slacker/, ftw.slacker, 1.1.0, Uses webhooks to post messages into a slack channel., 2019-11-27T11:28:47+0000
+/project/collective-portlet-carousel/, collective.portlet.carousel, 1.1.3, Carousel for collective.panels, 2018-01-31T11:21:52+0000
+/project/ftw-pdfgenerator/, ftw.pdfgenerator, 1.6.9, A library for generating PDF representations of Plone objects with LaTeX., 2020-03-11T12:46:53+0000
+/project/collective-autopublishing/, collective.autopublishing, 1.0.3, Publishes and retracts on effective or expired dates., 2019-07-18T12:41:33+0000
+/project/collective-restapi-navigationtree/, collective.restapi.navigationtree, 1.0a1, Provides a REST endpoint to query the site's navigation tree, 2018-03-12T22:07:09+0000
+/project/collective-liveblog/, collective.liveblog, 1.2b2, A liveblogging solution for Plone., 2017-08-23T21:49:50+0000
+/project/collective-documentgenerator/, collective.documentgenerator, 3.21, Desktop document generation (.odt, .pdf, .doc, ...) based on appy framework (http://appyframework.org) and OpenOffice/LibreOffice, 2021-04-20T12:43:33+0000
+/project/ideabox-diazotheme-spirit/, ideabox.diazotheme.spirit, 1.2.8, Spirit theme for Ideabox, 2020-11-19T09:25:35+0000
+/project/plone-intelligenttext/, plone.intelligenttext, 3.1.0, Provides transforms from text/x-web-intelligent to text/html and vice versa., 2020-04-20T20:40:19+0000
+/project/visaplan-plone-infohubs/, visaplan.plone.infohubs, 1.2.0, A mini language for reuse of information, 2020-12-16T16:10:33+0000
+/project/ftw-geo/, ftw.geo, 1.4.2, Integration package for collective.geo.* packages., 2019-10-23T14:19:21+0000
+/project/collective-mailchimp/, collective.mailchimp, 3.1.0, MailChimp integration for Plone., 2020-01-13T13:13:58+0000
+/project/plone-app-debugtoolbar/, plone.app.debugtoolbar, 1.2.2, Debug toolbar for Plone, 2020-04-20T10:16:40+0000
+/project/plone-app-openid/, plone.app.openid, 2.2.3, Plone OpenID authentication support, 2019-03-29T15:01:55+0000
+/project/plone-app-imagecropping/, plone.app.imagecropping, 2.2.2, Crops Images in Plone manually using cropper JS library, 2020-03-11T14:34:45+0000
+/project/collective-deletepermission/, collective.deletepermission, 1.5.0, Implements a new permission 'Delete portal content', 2019-09-09T12:06:37+0000
+/project/collective-webhook/, collective.webhook, 0.3.0, Webhook content rule action, 2018-12-05T13:01:19+0000
+/project/collective-behavior-amp/, collective.behavior.amp, 1.0a3, Support for Accelerated Mobile Pages (AMP) on Dexterity-based content types., 2017-04-13T22:35:17+0000
+/project/collective-testimony/, collective.testimony, 1.0a1, An add-on for Plone, 2020-08-19T11:59:19+0000
+/project/ftw-htmlblock/, ftw.htmlblock, 1.1.3, A block rendering unescaped HTML to be used on a content page powered by ftw.simplelayout, 2020-10-02T12:39:46+0000
+/project/plone-app-uuid/, plone.app.uuid, 2.0.2, Plone integration for the basic plone.uuid package, 2020-04-20T10:55:43+0000
+/project/plonetheme-barcelonetang/, plonetheme.barcelonetang, 0.5, The Barceloneta NG Theme for Plone 5., 2018-01-08T18:55:40+0000
+/project/collective-tiles-advancedstatic/, collective.tiles.advancedstatic, 1.1.0, Advanced static tile for plone mosaic, 2019-05-30T13:54:44+0000
+/project/plonetheme-booster/, plonetheme.booster, 1.0.8, A theme for Plone 5.x, 2017-11-20T18:15:00+0000
+/project/pas-plugins-authomatic/, pas.plugins.authomatic, 1.0b1, Provides OAuth2/ OpenID login for Plone using Authomatic., 2017-11-20T16:03:02+0000
+/project/products-validation/, Products.validation, 2.1.3, Data validation package for Zope, 2020-06-24T12:34:19+0000
+/project/collective-fgrcon-pgeasyform/, collective.fgrcon.pgeasyform, 1.1, Extend collective.easyform with a handler for Postgresql, 2019-06-19T14:21:42+0000
+/project/plone-formwidget-relateditems/, plone.formwidget.relateditems, 0.2, An advanced related items widget for Plone., 2018-01-18T15:01:37+0000
+/project/iw-rejectanonymous/, iw.rejectanonymous, 1.2.5, Disallow access to a Plone site and its children if user is anonymous, 2019-10-18T07:57:47+0000
+/project/collective-editablemenu/, collective.editablemenu, 2.3.0, A customizable dropdown menu, 2019-09-10T14:57:13+0000
+/project/plone-gallery/, plone.gallery, 1.0.1, Photo gallery for Plone CMS., 2020-07-07T18:16:09+0000
+/project/collective-handlebars/, collective.handlebars, 1.4.1, Handlebars for Plone, 2018-10-22T14:06:11+0000
+/project/zopyx-ipsumplone/, zopyx.ipsumplone, 0.3.18, Lorem ipsum text and image demo content for Plone, 2019-07-15T17:40:40+0000
+/project/plone-keyring/, plone.keyring, 3.1.3, Manage secrets, 2020-09-07T11:24:04+0000
+/project/osha-oira/, osha.oira, 6.2.20, Euphorie customisations for OSHA-OiRA site., 2021-04-21T07:37:11+0000
+/project/collective-campaignmonitor/, collective.campaignmonitor, 1.2.1, CampaingMonitor integration for Plone, 2020-07-14T14:49:29+0000
+/project/products-simplegroupsmanagement/, Products.SimpleGroupsManagement, 0.7.0, A Plone utility that let non-Manager users able to manage some (specific) groups, 2021-01-11T11:27:35+0000
+/project/collective-privacy/, collective.privacy, 1.1.0a1, An add-on for Plone that provides functionality for better complying with the EU's General Data Protection Regulations and ePrivacy Regulations, 2020-05-12T10:52:39+0000
+/project/ftw-simplelayout/, ftw.simplelayout, 2.8.1, SimpleLayout provides block based content pages, 2021-04-02T13:05:59+0000
+/project/redturtle-tiles-management/, redturtle.tiles.management, 2.2.0, An alternative method for handling and showing tiles, 2021-01-27T10:41:52+0000
+/project/ps-plone-zmi/, ps.plone.zmi, 0.4, ZMI customizations for Plone instances., 2016-10-20T14:42:06+0000
+/project/collective-contract-management/, collective.contract-management, 2.0, Contract management for Plone. Kepp track of company contracts and there contract duration., 2020-02-17T10:30:37+0000
+/project/collective-linguatags/, collective.linguatags, 1.1, Multilingual Keywords for Plone, 2019-09-16T14:18:15+0000
+/project/ftw-book/, ftw.book, 4.1.10, Produce books with Plone and export them in a high quality PDF., 2021-04-01T15:11:39+0000
+/project/collective-z3cform-datagridfield/, collective.z3cform.datagridfield, 2.0, Fields with repeatable data grid (table-like) for z3.cform, 2021-03-29T14:51:47+0000
+/project/collective-simplewiki/, collective.simplewiki, 1.0.1, Simple wiki linking syntax support for Plone, 2017-01-06T23:15:05+0000
+/project/ftw-publisher-core/, ftw.publisher.core, 2.14.5, Staging and publishing addon for Plone contents., 2020-10-12T08:46:09+0000
+/project/collective-expandcollapse-tile/, collective.expandcollapse.tile, 1.0.1, Add ability to expand/collapse a tile with a specified CSS class, 2021-04-06T08:11:03+0000
+/project/pas-plugins-ldap/, pas.plugins.ldap, 1.8.0, LDAP/AD Plugin for Plone/Zope PluggableAuthService (users+groups), 2020-06-11T05:49:04+0000
+/project/collective-folderprotection/, collective-folderprotection, 2.3, , 2021-01-11T16:54:45+0000
+/project/collective-geolocationbehavior/, collective.geolocationbehavior, 1.7.1, Dexterity behavior to add geographic locations to contents., 2020-07-10T16:28:24+0000
+/project/plone-app-locales/, plone.app.locales, 5.1.28, Translation files for Plone, 2021-02-20T10:27:37+0000
+/project/readset-i18n/, readset.i18n, 1.0, This package provides a Normalizer for Chinese character, 2018-08-24T09:24:36+0000
+/project/imio-gdpr/, imio.gdpr, 1.1.0, View and configuration panel to set GDPR information, 2020-10-28T09:44:44+0000
+/project/borg-localrole/, borg.localrole, 3.1.8, A PAS plugin which can manage local roles via an adapter lookup on the current context, 2020-04-20T19:13:08+0000
+/project/rer-solrpush/, rer.solrpush, 0.4.1, Prodotto per Regione Emilia-Romagna relativo all'indicizzazione dei contenuti con solr, 2021-03-26T07:14:34+0000
+/project/plone-formwidget-querystring/, plone.formwidget.querystring, 1.1.10, A widget for composing a Query string/search., 2017-08-09T15:28:56+0000
+/project/lineage-controlpanels/, lineage.controlpanels, 1.0a1, Plone controlpanels for Lineage sites, 2016-10-06T14:43:25+0000
+/project/collective-analyticspanel/, collective.analyticspanel, 0.6.1, Add more control over the inclusion of JavaScript analytics code of your Plone site, 2017-09-15T14:04:01+0000
+/project/onlyoffice-connector/, onlyoffice.connector, 2.0.0, Plone ONLYOFFICE integration plugin, 2021-04-15T13:53:56+0000
+/project/archetypes-referencebrowserwidget/, archetypes.referencebrowserwidget, 2.5.11, A referencebrowser implementation for Archetypes, 2020-03-21T00:38:23+0000
+/project/collective-outputfilters-enhancelinks/, collective.outputfilters.enhancelinks, 1.1.4, An additional outputfilter that enhance file and image links informations in rich text, 2020-10-08T10:58:33+0000
+/project/experimental-nodtml/, experimental.nodtml, 1.2, Patch DocumentTemplate to not return any content., 2016-11-14T11:45:23+0000
+/project/plone-formwidget-geolocation/, plone.formwidget.geolocation, 2.2.2, Geolocation field and widget, 2020-07-10T16:24:57+0000
+/project/ftw-tabbedview/, ftw.tabbedview, 4.2.1, A generic tabbed view for plone content types., 2020-10-23T07:30:01+0000
+/project/ftw-topics/, ftw.topics, 2.1.1, Create subject trees in Plone, 2020-09-07T06:58:07+0000
+/project/products-autousermakerpasplugin/, Products.AutoUserMakerPASPlugin, 2.1.1, Automatically create PAS users when authentication in Plone, 2017-02-01T11:00:27+0000
+/project/plonetheme-cleanblog/, plonetheme.cleanblog, 1.2.3, A theme for Plone 5.x, 2017-11-20T18:03:33+0000
+/project/pas-plugins-cauthomatic/, pas.plugins.cauthomatic, 1.1.2, Provides OAuth2/ OpenID login for Plone using Authomatic., 2019-11-22T09:23:45+0000
+/project/collective-edtf-behavior/, collective.edtf-behavior, 1.0.3, A EDTF behavior for Plone., 2019-08-26T12:51:30+0000
+/project/collective-metadataaudit/, collective.metadataaudit, 1.0a1, Audit metadata changes, 2020-11-23T10:12:13+0000
+/project/ftw-bridge-client/, ftw.bridge.client, 1.1.1, Adds ftw.bridge support to plone., 2019-12-14T15:51:13+0000
+/project/pas-plugins-headers/, pas.plugins.headers, 1.3.1, PAS plugin for authentication based on request headers, 2020-04-03T11:03:45+0000
+/project/ftw-candlestick/, ftw.candlestick, 1.1.5, ftw.candlestick, 2020-10-26T13:57:02+0000
+/project/ftw-redirector/, ftw.redirector, 1.1.2, Plone addon for redirects, 2020-01-09T09:44:30+0000
+/project/plone-formwidget-multifile/, plone.formwidget.multifile, 2.0, z3c.form widget for adding multiple files, 2016-08-31T11:02:16+0000
+/project/collective-solr/, collective.solr, 8.4.2, Solr integration for external indexing and searching., 2021-04-08T14:13:00+0000
+/project/plone-openid/, plone.openid, 2.0.5, OpenID authentication support for PAS, 2019-03-29T14:41:44+0000
+/project/ftw-zipexport/, ftw.zipexport, 1.6.4, Zip export for Plone, 2019-09-19T10:22:36+0000
+/project/ftw-protectinactive/, ftw.protectinactive, 2.1.0, Protects inactive plone content from unauthorized access., 2021-03-08T19:08:48+0000
+/project/ftw-builder/, ftw.builder, 2.0.0, Builder pattern for creating Plone objects in tests, 2019-12-04T16:42:38+0000
+/project/collective-embeddedpage/, collective.embeddedpage, 2.2.0, Add-on to embed remote HTML pages into the Plone CMS, 2021-04-14T13:01:08+0000
+/project/ftw-sliderblock/, ftw.sliderblock, 2.1.1, An image slider block to be used on a content page powered by ftw.simplelayout, 2020-08-05T14:41:22+0000
+/project/ftw-statusmap/, ftw.statusmap, 1.6.0, A plone view listing objects and review states in a tree., 2019-10-21T06:52:01+0000
+/project/ftw-footer/, ftw.footer, 1.2.1, Adds portlet columns as footer to Plone., 2020-01-09T09:11:04+0000
+/project/plone-session/, plone.session, 3.7.5, Session based auth tkt authentication for Zope, 2020-06-24T12:16:37+0000
+/project/collective-ifttt/, collective.ifttt, 1.0.2, This addon is developed to make use of IFTTT webhook with Plone, 2018-08-14T09:41:26+0000
+/project/collective-googleanalytics/, collective.googleanalytics, 1.6.1, Tools for pulling statistics from Google Analytics., 2017-08-22T19:44:00+0000
+/project/plone-app-lockingbehavior/, plone.app.lockingbehavior, 1.0.7, Locking integration for dexterity content objects., 2020-04-20T10:37:36+0000
+/project/archetypes-multilingual/, archetypes.multilingual, 3.0.8, Multilingual support for archetypes., 2019-12-27T13:57:06+0000
+/project/collective-denyroles/, collective.denyroles, 1.0.0b2, Plone PAS patch for denying access to editors and managers, 2019-09-17T10:29:42+0000
+/project/ftw-referencewidget/, ftw.referencewidget, 3.0.3, A reference browser widget (Maintainer Timon Tschanz), 2021-03-31T13:18:58+0000
+/project/plone-app-mosaic/, plone.app.mosaic, 2.2.3, Plone Mosaic Site Builder and Site Layout, 2020-07-02T07:35:46+0000
+/project/collective-tiles-sliders/, collective.tiles.sliders, 1.0.0, A collection of slider tiles for Mosaic., 2019-02-07T15:51:33+0000
+/project/products-placelesstranslationservice/, Products.PlacelessTranslationService, 2.0.7, PTS provides a way of internationalizing (i18n'ing) and localizing (l10n'ing) software for Zope 2., 2017-02-12T21:07:00+0000
+/project/euphorie/, Euphorie, 11.6.11, Euphorie Risk Assessment tool, 2021-04-21T08:57:37+0000
+/project/cs-portlet-calendar/, cs.portlet.calendar, 1.0, Calendar portlet using fullcalendar.io, 2017-04-04T13:38:53+0000
+/project/collective-sortedlisting/, collective.sortedlisting, 1.0a4, Sorted listings in Plone, 2017-11-09T06:06:03+0000
+/project/products-resourceregistries/, Products.ResourceRegistries, 3.0.8, Registry for managing CSS and JS, 2020-08-17T12:00:35+0000
+/project/plone-app-jsonfield/, plone.app.jsonfield, 1.0.0a3, JSON field for Plone, 2018-01-22T18:32:37+0000
+/project/plone-directives-form/, plone.directives.form, 2.0.3, Grok-like directives configuring forms, 2017-05-09T15:21:03+0000
+/project/plone-rest/, plone.rest, 1.6.2, Plone support for HTTP verbs., 2021-02-20T08:03:11+0000
+/project/plone-formwidget-recaptcha/, plone.formwidget.recaptcha, 2.3.0, ReCaptcha widget for Plone., 2021-03-01T12:09:17+0000
+/project/rer-sitesearch/, rer.sitesearch, 3.2.6, A product that change the base site search of Plone with some new features., 2020-09-21T14:58:39+0000
+/project/plone-app-imaging/, plone.app.imaging, 2.1.1, User-configurable, blob-aware image scaling for Plone., 2019-10-09T14:07:15+0000
+/project/webcouturier-dropdownmenu/, webcouturier.dropdownmenu, 3.0.2, Dropdown menus for global navigation in Plone, 2018-03-22T14:56:21+0000
+/project/affinitic-privatefolder/, affinitic.privatefolder, 1.0, Folderish content type with only one private state, 2020-01-21T13:34:56+0000
+/project/eea-faceted-inheritance/, eea.faceted.inheritance, 6.2, EEA Faceted Navigation extension that allow a faceted navigable object to inherit faceted configuration from another faceted navigable object., 2020-03-03T15:07:06+0000
+/project/plone-app-changeownership/, plone.app.changeownership, 1.0, Change Plone objects ownership, 2019-09-02T20:42:37+0000
+/project/interaktiv-id4me/, interaktiv.id4me, 1.1.1, ID4Me Plugin for Plone 5.x, 2019-03-27T10:28:53+0000
+/project/ftw-keywordwidget/, ftw.keywordwidget, 2.2.2, A z3c form keyword widget using select2., 2020-05-28T09:04:29+0000
+/project/plone-app-dexterity/, plone.app.dexterity, 2.6.9, Dexterity is a content type framework for CMF  applications, with particular emphasis on Plone. It can be viewed as an alternative to Archetypes that is more light-weight and modular., 2021-01-08T17:53:46+0000
+/project/collective-listingviews/, collective.listingviews, 1.0.1, Listing views, 2019-01-17T17:33:35+0000
+/project/collective-noindexing/, collective.noindexing, 2.0.0, Ignore all indexing operations, 2019-11-20T10:02:54+0000
+/project/rg-prenotazioni/, rg.prenotazioni, 4.0, RenoGalliera prenotazioni, 2020-08-12T21:16:26+0000
+/project/collective-revisionmanager/, collective.revisionmanager, 1.0.0, Manage CMFEditions Histories, 2020-08-18T09:53:28+0000
+/project/plone-formwidget-autocomplete/, plone.formwidget.autocomplete, 1.4.0, AJAX selection widget for Plone, 2020-01-27T14:19:12+0000
+/project/plonemeeting-portal-core/, plonemeeting.portal.core, 1.2, Plonemeeting decisions publication portal, 2021-03-24T12:22:50+0000
+/project/ftw-trash/, ftw.trash, 1.7.3, A Plone addon introducing a trash with restore functionality., 2020-01-07T08:17:06+0000
+/project/plone-caching/, plone.caching, 1.2.2, Zope 2 integration for z3c.caching, 2020-04-20T19:59:40+0000
+/project/ps-plone-realestatefont/, ps.plone.realestatefont, 0.4, Real Estate icon font., 2016-11-21T14:09:20+0000
+/project/ftw-globalstatusmessage/, ftw.globalstatusmessage, 1.7.3, Shows a global message on every site., 2020-07-28T15:04:41+0000
+/project/ftw-servicenavigation/, ftw.servicenavigation, 1.3.2, , 2021-04-01T14:04:59+0000
+/project/plonetheme-blueberry/, plonetheme.blueberry, 1.11.5, A Plone 4 / 5 theme, 2020-12-11T18:35:16+0000
+/project/nuplone/, NuPlone, 1.6.3, A new user interface for Plone, 2020-05-26T10:32:49+0000
+/project/plone-schema/, plone.schema, 1.3.0, Plone specific extensions and fields for zope schematas, 2021-03-24T08:47:26+0000
+/project/ftw-publisher-controlling/, ftw.publisher.controlling, 1.3.0, An ftw.publisher addon for statistics on published objects in a workflow based setup., 2019-11-11T11:07:51+0000
+/project/ftw-permissionmanager/, ftw.permissionmanager, 3.0.2, , 2020-11-13T17:43:18+0000
+/project/izug-refegovservice/, izug.refegovservice, 3.1.5, RefEgovService for izug/zug.ch, 2021-01-21T16:18:54+0000
+/project/plone-batching/, plone.batching, 1.1.7, Batching facilities used in Plone., 2021-03-02T21:42:44+0000
+/project/plone-app-i18n/, plone.app.i18n, 3.0.6, Plone specific i18n extensions., 2020-04-20T10:31:32+0000
+/project/rer-bandi/, rer.bandi, 4.1.1, A product for announcements management, 2020-12-03T11:24:57+0000
+/project/experimental-publishtraverse/, experimental.publishtraverse, 1.1, Experimental PublishTraverse implementation., 2016-11-17T18:15:28+0000
+/project/ftw-publisher-sender/, ftw.publisher.sender, 2.14.1, Staging and publishing addon for Plone contents., 2020-07-30T09:24:12+0000
+/project/ftw-subsite/, ftw.subsite, 2.7.9, , 2021-03-30T07:23:50+0000
+/project/collective-newsticker/, collective.newsticker, 2.1b2, A horizontal, text-based display dedicated to presenting headlines on a site., 2018-04-23T19:35:49+0000
+/project/ftw-calendar/, ftw.calendar, 3.1.2, Calendar view based on fullcalendar, 2019-09-12T10:04:27+0000
+/project/collective-immediatecreate/, collective.immediatecreate, 1.0a3, Create dexterity items immediatly and skips add form., 2018-11-07T09:27:55+0000
+/project/iaweb-mosaic/, iaweb.mosaic, 1.0.0, An add-on for Plone, 2021-01-04T15:01:11+0000
+/project/plonetheme-business-casual/, plonetheme.business-casual, 1.1, A theme for Plone 5.x, 2017-11-20T18:33:56+0000
+/project/ftw-contentstats/, ftw.contentstats, 1.2.0, Collect and display content statistics for Plone sites, 2020-05-04T15:15:39+0000
+/project/uwosh-oie-studyabroadtheme/, uwosh.oie.studyabroadtheme, 1.0.6, Plone theme for UW Oshkosh Office of International Education, 2020-10-20T14:48:33+0000
+/project/collective-siteimprove/, collective.siteimprove, 1.0.6, Siteimprove integration for Plone, 2020-07-10T01:43:24+0000
+/project/plone-locking/, plone.locking, 2.2.4, webdav locking support, 2020-04-20T20:53:32+0000
+/project/collective-videolink/, collective.videolink, 5.0a5, Display link content type as embedded video, provide a video gallery view, 2018-03-16T12:52:53+0000
+/project/plone-patternslib/, plone.patternslib, 1.2.1, An add-on to make patternslib patterns available within Plone 5., 2020-11-23T22:09:46+0000
+/project/plone-formwidget-datetime/, plone.formwidget.datetime, 1.3.5, Datetime widgets for Plone, 2019-08-29T19:53:52+0000
+/project/ps-plone-mls/, ps.plone.mls, 0.16, Propertyshelf MLS Plone Embedding., 2020-03-18T01:52:23+0000
+/project/collective-restrictportlets/, collective.restrictportlets, 1.0a1, Restrict addable portlet types, 2017-08-14T12:43:29+0000
+/project/collective-consent/, collective.consent, 1.0b3, Provides a functionality to ask users for consent to different topics., 2021-02-09T18:46:59+0000
+/project/theme-habas34/, theme.habas34, 1.0a1, Theme for Habas34 real esate, 2019-01-27T09:52:04+0000
+/project/pas-plugins-memberpropertytogroup/, pas.plugins.memberpropertytogroup, 1.1, Plone PAS plugin to create virtual groups based on member properties., 2018-03-05T14:44:11+0000
+/project/plone-app-registry/, plone.app.registry, 1.7.8, Zope 2 and Plone  integration for plone.registry, 2021-01-08T17:50:48+0000
+/project/ftw-faqblock/, ftw.faqblock, 1.2.0, ftw.faqblock, 2020-07-23T14:03:48+0000
+/project/fhir-heart/, fhir.heart, 1.0.0a1, Health Relationship Trust Profile (HEART) implementation for FHIR (Fast Healthcare Interoperability Resources) compliance for Healthcare System., 2017-12-21T19:01:08+0000
+/project/collective-lineage/, collective.lineage, 2.3, The microsite creation product for Plone, 2020-02-16T21:10:04+0000
+/project/collective-multitheme/, collective.multitheme, 1.0, A (Multi) Theme for Plone 5, 2018-05-31T05:12:46+0000
+/project/ideabox-theme/, ideabox.theme, 1.0.0, An add-on for Plone, 2021-01-06T08:29:43+0000
+/project/redturtle-exporter-base/, redturtle.exporter.base, 1.3.0, Json exporter base for Plone, 2021-02-01T08:21:03+0000
+/project/ims-zip/, ims.zip, 4.2.1, zip and unzip folder contents, 2021-04-21T20:52:06+0000
+/project/ftw-gopip/, ftw.gopip, 1.1.0, Speed up getObjPositionInParent index in Plone, 2017-11-28T08:59:00+0000
+/project/kitconcept-volto/, kitconcept.volto, 2.2.1, Volto integration add-on for Plone, 2021-04-21T16:28:33+0000
+/project/products-plonekeywordmanager/, Products.PloneKeywordManager, 3.0.3, Change, merge and delete keywords (subjects) in Plone., 2021-01-27T08:20:19+0000
+/project/collective-elasticsearch/, collective.elasticsearch, 3.0.4, elasticsearch integration with plone, 2019-08-22T14:10:55+0000
+/project/plone-app-referenceablebehavior/, plone.app.referenceablebehavior, 0.7.8, Referenceable dexterity type behavior, 2020-04-20T10:46:07+0000
+/project/collective-embedcontent/, collective.embedcontent, 1.0a1, An add-on for Plone, 2020-07-08T03:05:32+0000
+/project/collective-fgrcon-portletadmin/, collective.fgrcon.portletadmin, 1.2, A Plone utility for inspecting and manipulating context  portlet assignments, 2018-04-18T14:15:38+0000
+/project/ftw-inflator/, ftw.inflator, 1.12.1, Plone site setup wizard with content creation and bundle system for predefined configurations., 2019-11-26T15:15:01+0000
+/project/ftw-publisher-monitor/, ftw.publisher.monitor, 2.0.3, An ftw.publisher addon for monitoring the publisher queue and alerting when there is a problem., 2020-09-01T14:45:57+0000
+/project/pp-connector-plone/, pp.connector.plone, 1.0.5, Produce & Publisher Plone Client Connector, 2018-12-12T07:39:00+0000
+/project/jazkarta-abtesttile/, jazkarta.abtesttile, 1.1, Plone Mosaic Tile for A/B Testing content changes, 2019-05-09T00:11:24+0000
+/project/ftw-addressblock/, ftw.addressblock, 2.0.2, ftw.addressblock, 2020-05-28T15:39:39+0000
+/project/ftw-contentnav/, ftw.contentnav, 1.1.0, Provides a content navigation behavior, which allows you to show sub content by category., 2019-10-23T12:42:59+0000
+/project/design-plone-theme/, design.plone.theme, 5.1.2, Theme for Italia Design System, 2021-04-16T15:14:17+0000
+/project/plone-portlet-static/, plone.portlet.static, 3.1.6, An editable static HTML portlet for Plone., 2020-09-21T14:44:03+0000
+/project/pas-plugins-trustedproxyauth/, pas.plugins.trustedproxyauth, 1.3.0, Authenticates requests coming from a reverse proxy doing user authentication., 2019-10-25T06:42:14+0000
+/project/ftw-journal/, ftw.journal, 1.3.0, Journaling infrastructure for plone, 2019-09-05T06:40:42+0000
+/project/plone-directives-tiles/, plone.directives.tiles, 1.2, Grokkers for plone.tiles, 2018-03-09T23:25:44+0000
+/project/collective-js-throttledebounce/, collective.js.throttledebounce, 1.3.2, Installs the throttle / debounce plugin, 2019-12-18T10:25:24+0000
+/project/plone-app-workflowmanager/, plone.app.workflowmanager, 2.1.2, A workflow manager for Plone, 2019-02-20T19:00:16+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/xmldirector-plonecore/, xmldirector.plonecore, 2.1.1, XML-Director , 2017-07-23T13:59:54+0000
+/project/collective-mtrsetup/, collective.mtrsetup, 1.6.0, Extension for GenericSetup, adding support for import / export of mimetypes_registry, 2019-10-23T06:02:07+0000
+/project/bda-plone-ajax/, bda.plone.ajax, 2.0, bdajax integration for Plone., 2019-03-10T22:07:02+0000
+/project/rt-lastmodifier/, rt.lastmodifier, 1.1.1, Extends features and shown data in Plone document byline section, 2020-07-02T13:29:39+0000
+/project/plone-jsonapi-routes/, plone.jsonapi.routes, 0.9.4, Plone JSON API -- Routes, 2017-10-17T11:11:40+0000
+/project/collective-themefragments/, collective.themefragments, 2.12, Theme fragments for plone.app.theming, 2019-07-26T08:49:28+0000
+/project/slc-xliff/, slc.xliff, 3.0, A framework to allow im and export of xliff files for translations, 2020-04-29T10:14:43+0000
+/project/collective-easyform/, collective.easyform, 3.0.5, Forms for Plone, 2020-11-17T21:08:46+0000
+/project/ftw-colorbox/, ftw.colorbox, 1.6.4, An image gallery for Plone using ColorBox, 2020-06-05T07:50:18+0000
+/project/redturtle-lookup/, redturtle.lookup, 3.1.0, List products information for different Plone sites in a single instance, 2019-02-11T16:03:21+0000
+/project/collective-js-datatables/, collective.js.datatables, 4.1.2, Plone Integration of jquery.dataTables plugin, 2016-09-21T08:05:18+0000
+/project/ftw-datepicker/, ftw.datepicker, 1.6.2, A z3c.form datepicker widget (Maintainer Thomas Buchberger), 2020-07-30T07:35:53+0000
+/project/plone-app-redirector/, plone.app.redirector, 2.2.1, redirection tool, 2020-04-20T10:42:16+0000
+/project/ps-plone-mlstiles/, ps.plone.mlstiles, 1.2.1, Tiles support for the Propertyshelf MLS Plone Embedding., 2020-02-28T17:49:30+0000
+/project/collective-behavior-gallery/, collective.behavior.gallery, 1.0b1, Add a gallery of images to Folderish content types, 2021-03-12T12:00:16+0000
+/project/plone-restapi/, plone.restapi, 7.3.2, plone.restapi is a RESTful hypermedia API for Plone., 2021-04-07T11:43:35+0000
+/project/ftw-testbrowser/, ftw.testbrowser, 2.1.2, A test browser for Zope and Plone., 2020-07-28T09:10:10+0000
+/project/plonetheme-barceloneta/, plonetheme.barceloneta, 2.1.10, The default theme for Plone 5., 2020-11-11T21:48:01+0000
+/project/ftw-slider/, ftw.slider, 3.4.5, Slider content type for Plone., 2020-10-02T12:40:45+0000
+/project/plone-alterego/, plone.alterego, 1.1.5, Low level support for dynamic modules, 2020-04-20T09:22:43+0000
+/project/collective-excelexport/, collective.excelexport, 1.8.2, Export dexterity contents in an excel file, one column by field, 2020-02-27T15:45:50+0000
+/project/lineage-registry/, lineage.registry, 1.5, Lineage Add-On: Child Site Local Plone Registry, 2020-02-26T12:00:17+0000
+/project/eea-graylogger/, eea.graylogger, 2.0, GELF (Graylog Extended Log Format) for Zope, 2019-12-02T16:33:16+0000
+/project/plone-mls-listing/, plone.mls.listing, 1.20, Plone support for MLS Listings., 2020-03-09T22:44:41+0000
+/project/collective-tiles-githubgist/, collective.tiles.githubgist, 0.2.1, A tile that shows Gists from GitHub., 2017-07-28T14:12:57+0000
+/project/ftw-table/, ftw.table, 1.22.0, Table generator utility for use within zope., 2019-03-06T09:37:32+0000
+/project/collective-behavior-seo/, collective.behavior.seo, 1.0.1, An add-on for Plone, 2020-09-09T22:14:45+0000
+/project/ftw-mobile/, ftw.mobile, 2.2.1, Mobile navigation and a basic infrastructure for mobile buttons on a Plone site., 2021-02-19T14:48:31+0000
+/project/collective-faceted-map/, collective.faceted.map, 1.0b6, Map view for eea.facetednavigation, 2020-09-11T13:39:14+0000
+/project/ftw-autofeature/, ftw.autofeature, 1.1.0, ftw.autofeature automatically registers ZCML features., 2019-09-25T13:00:20+0000
+/project/collective-ttwpo/, collective.ttwpo, 1.0b5, Manage your PO Translation Files TTW and Sync with Translationservices, 2017-11-15T16:39:43+0000
+/project/eea-cache/, eea.cache, 9.4, Tools and config for memcache related caching, 2020-03-10T16:41:46+0000
+/project/collective-eeafaceted-dashboard/, collective.eeafaceted.dashboard, 0.16, This package is the glue between different packages offering a usable and integrated dashboard application, 2021-04-20T12:27:44+0000
+/project/collective-wfeffectiverange/, collective.wfeffectiverange, 2.0.0, Workflowed effective range (Plone/Dexterity), 2016-12-08T15:45:16+0000
+/project/collective-recipe-vscode/, collective.recipe.vscode, 0.1.6, Visual Studio Code configuration for buildout-based Python projects, 2020-07-15T14:18:47+0000
+/project/collective-registration/, collective.registration, 1.0, Allow users to subscribe to events (with several periods), 2020-05-06T16:45:52+0000
+/project/yafowil-plone/, yafowil.plone, 3.0.0, Plone Integration with YAFOWIL, 2019-02-19T10:12:04+0000
+/project/ftw-contacts/, ftw.contacts, 1.10.5, Provides a contact-contenttype, 2020-11-25T21:03:49+0000
+/project/collective-faq/, collective.faq, 1.2.0, Plone addon package for managing FAQ sections, 2020-09-06T20:30:50+0000
+/project/ftw-iframeblock/, ftw.iframeblock, 1.6.2, A block for ftw.simplelayout, 2020-05-29T08:13:03+0000
+/project/ps-plone-fotorama/, ps.plone.fotorama, 4.6.4.3, Fotorama slideshow for Plone., 2016-11-21T14:41:30+0000
+/project/plone-mls-core/, plone.mls.core, 0.7, Plone support for the Propertyshelf MLS., 2017-12-12T13:00:09+0000
+/project/collective-exportimport/, collective.exportimport, 1.0b1, An add-on for Plone to Export and import content, members, relations, translations and localroles., 2021-03-26T17:45:49+0000
+/project/plonetheme-sunburst/, plonetheme.sunburst, 1.5.5, The default theme for Plone 4., 2020-04-22T21:40:56+0000
+/project/plone-browserlayer/, plone.browserlayer, 2.2.4, Browser layer management for Zope 2 applications, 2020-09-07T11:16:29+0000
+/project/plone-stringinterp/, plone.stringinterp, 1.3.3, Adaptable string interpolation, 2020-09-07T20:22:31+0000
+/project/rc-tiles-collection/, rc.tiles.collection, 1.1.6, A tile that shows a set of collection results with a customizable layout, 2018-12-10T17:44:53+0000
+/project/collective-iconifiednavigation/, collective.iconifiednavigation, 1.0.1, Add content icons in portal_tabs menu, 2020-01-23T09:05:50+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/xmldirector-plonecore/, xmldirector.plonecore, 2.1.1, XML-Director , 2017-07-23T13:59:54+0000
+/project/collective-mtrsetup/, collective.mtrsetup, 1.6.0, Extension for GenericSetup, adding support for import / export of mimetypes_registry, 2019-10-23T06:02:07+0000
+/project/bda-plone-ajax/, bda.plone.ajax, 2.0, bdajax integration for Plone., 2019-03-10T22:07:02+0000
+/project/rt-lastmodifier/, rt.lastmodifier, 1.1.1, Extends features and shown data in Plone document byline section, 2020-07-02T13:29:39+0000
+/project/plone-jsonapi-routes/, plone.jsonapi.routes, 0.9.4, Plone JSON API -- Routes, 2017-10-17T11:11:40+0000
+/project/collective-themefragments/, collective.themefragments, 2.12, Theme fragments for plone.app.theming, 2019-07-26T08:49:28+0000
+/project/slc-xliff/, slc.xliff, 3.0, A framework to allow im and export of xliff files for translations, 2020-04-29T10:14:43+0000
+/project/collective-easyform/, collective.easyform, 3.0.5, Forms for Plone, 2020-11-17T21:08:46+0000
+/project/ftw-colorbox/, ftw.colorbox, 1.6.4, An image gallery for Plone using ColorBox, 2020-06-05T07:50:18+0000
+/project/redturtle-lookup/, redturtle.lookup, 3.1.0, List products information for different Plone sites in a single instance, 2019-02-11T16:03:21+0000
+/project/collective-js-datatables/, collective.js.datatables, 4.1.2, Plone Integration of jquery.dataTables plugin, 2016-09-21T08:05:18+0000
+/project/ftw-datepicker/, ftw.datepicker, 1.6.2, A z3c.form datepicker widget (Maintainer Thomas Buchberger), 2020-07-30T07:35:53+0000
+/project/plone-app-redirector/, plone.app.redirector, 2.2.1, redirection tool, 2020-04-20T10:42:16+0000
+/project/ps-plone-mlstiles/, ps.plone.mlstiles, 1.2.1, Tiles support for the Propertyshelf MLS Plone Embedding., 2020-02-28T17:49:30+0000
+/project/collective-behavior-gallery/, collective.behavior.gallery, 1.0b1, Add a gallery of images to Folderish content types, 2021-03-12T12:00:16+0000
+/project/plone-restapi/, plone.restapi, 7.3.2, plone.restapi is a RESTful hypermedia API for Plone., 2021-04-07T11:43:35+0000
+/project/ftw-testbrowser/, ftw.testbrowser, 2.1.2, A test browser for Zope and Plone., 2020-07-28T09:10:10+0000
+/project/plonetheme-barceloneta/, plonetheme.barceloneta, 2.1.10, The default theme for Plone 5., 2020-11-11T21:48:01+0000
+/project/ftw-slider/, ftw.slider, 3.4.5, Slider content type for Plone., 2020-10-02T12:40:45+0000
+/project/plone-alterego/, plone.alterego, 1.1.5, Low level support for dynamic modules, 2020-04-20T09:22:43+0000
+/project/collective-excelexport/, collective.excelexport, 1.8.2, Export dexterity contents in an excel file, one column by field, 2020-02-27T15:45:50+0000
+/project/lineage-registry/, lineage.registry, 1.5, Lineage Add-On: Child Site Local Plone Registry, 2020-02-26T12:00:17+0000
+/project/eea-graylogger/, eea.graylogger, 2.0, GELF (Graylog Extended Log Format) for Zope, 2019-12-02T16:33:16+0000
+/project/plone-mls-listing/, plone.mls.listing, 1.20, Plone support for MLS Listings., 2020-03-09T22:44:41+0000
+/project/collective-tiles-githubgist/, collective.tiles.githubgist, 0.2.1, A tile that shows Gists from GitHub., 2017-07-28T14:12:57+0000
+/project/plone-recipe-zeoserver/, plone.recipe.zeoserver, 2.0.3, ZC Buildout recipe for installing a ZEO server, 2020-08-13T23:18:59+0000
+/project/redomino-tokenrole/, redomino.tokenrole, 1.1.1, This product allows you to share roles about a specific Plone content to an unregistered user through a link., 2019-01-06T06:51:19+0000
+/project/collective-superfish/, collective.superfish, 2.0, A suckerfish/superfish integration into plone, 2018-08-02T09:05:09+0000
+/project/spirit-plone-sitemanagement/, spirit.plone.sitemanagement, 0.3, Control your Plone sites from one management screen., 2017-05-16T11:32:41+0000
+/project/ims-fieldupdater/, ims.fieldupdater, 2.0.2, Update all objects in Plone based on a schema/field strategy, 2020-06-04T16:00:18+0000
+/project/plone-recipe-alltests/, plone.recipe.alltests, 1.5.2, Buildout recipe for running tests isolated at package boundaries, 2020-04-20T23:04:17+0000
+/project/castle-cms/, castle.cms, 2.6.31, CastleCMS Plone distribution main package, 2021-04-21T01:43:29+0000
+/project/collective-disqus/, collective.disqus, 2.2.1, Integration of Disqus comments platform API into Plone., 2018-10-09T19:29:42+0000
+/project/cioppino-twothumbs/, cioppino.twothumbs, 2.2.0, Rating widget based on thumbs up and down., 2019-10-09T14:23:42+0000
+/project/collective-js-jqueryui/, collective.js.jqueryui, 2.1.8, JQueryUI ready for Plone, 2021-01-05T13:39:14+0000
+/project/kitconcept-dsgvo/, kitconcept.dsgvo, 1.3.0, DSGVO / GDPR compliance for Plone, 2020-06-03T09:29:11+0000
+/project/wildcard-media/, wildcard.media, 2.1.0, HTML5 audio and video integration with plone, 2020-02-06T14:11:23+0000
+/project/lineage-themeselection/, lineage.themeselection, 2.1, Lineage Add-On: Theme Selection on Subsites, 2019-03-26T13:47:43+0000
+/project/plone-api/, plone.api, 1.10.4, A Plone API., 2020-09-28T10:15:34+0000
+/project/collective-eeafaceted-layoutwidget/, collective.eeafaceted.layoutwidget, 1.0a1, Layout widget for eea.facetednavigation, 2018-09-17T19:04:19+0000
+/project/products-portaltransforms/, Products.PortalTransforms, 3.1.10, MIME based content transformations, 2020-09-21T14:53:20+0000
+/project/collective-tiles-rssmixer/, collective.tiles.rssmixer, 0.1.1, Provides a tile that fetch RSS feeds from multiple sources, 2019-03-28T11:03:42+0000
+/project/plone-behavior/, plone.behavior, 1.4.0, Infrastructure for maintaining a registry of available behaviors, 2020-09-07T11:13:50+0000
+/project/collective-behavior-relatedmedia/, collective.behavior.relatedmedia, 2.1.3, Adds Various configuration fields and viewlets to manage and show content related images and attachments, 2020-07-22T07:08:27+0000
+/project/collective-badge/, collective.badge, 1.0.1, A basic member badge system for Plone, 2017-03-04T19:46:47+0000
+/project/redturtle-agidtheme/, redturtle.agidtheme, 2.2.3, Theme for Italia Design System, 2018-08-06T12:12:08+0000
+/project/bobtemplates-migration/, bobtemplates.migration, 0.3, Templates for Plone projects., 2019-08-16T22:53:02+0000
+/project/kitconcept-richpage/, kitconcept.richpage, 1.1.0, Folderish page with rich content, 2020-02-20T10:40:53+0000
+/project/ftw-tika/, ftw.tika, 2.10.0, Apache Tika integration for Plone using portal transforms., 2019-09-04T08:48:05+0000
+/project/plone-app-upgrade/, plone.app.upgrade, 2.0.38, Upgrade machinery for Plone., 2021-03-02T21:47:29+0000
+/project/collective-rating/, collective.rating, 1.1.0, A Plone product to rate content types, 2020-03-06T13:56:04+0000
+/project/plone-formwidget-recurrence/, plone.formwidget.recurrence, 2.1.4, Recurrence widget for Plone, 2020-04-20T20:24:47+0000
+/project/cs-behavior-footerhtmlcode/, cs.behavior.footerhtmlcode, 1.0.1, An add-on providing a behavior that allows entering arbitrary HTML code to be shown in a portlet in LRF objects, 2019-11-21T12:01:09+0000
+/project/ftw-oidcauth/, ftw.oidcauth, 1.0.2, A PAS plugin for authentication of users in Plone using OIDC., 2020-09-07T06:40:58+0000
+/project/ftw-tagging/, ftw.tagging, 2.0.1, Tagging add-on for Plone, 2019-12-16T07:32:13+0000
+/project/ftw-testing/, ftw.testing, 2.0.6, Provides some testing helpers and an advanced MockTestCase., 2020-05-28T09:39:48+0000
+/project/ftw-chameleon/, ftw.chameleon, 1.3.0, Enhance Chameleon templating engine integration into Plone, 2019-10-01T09:21:10+0000
+/project/plone-app-customerize/, plone.app.customerize, 1.3.11, Integrate five.customerize into Plone., 2020-04-20T10:15:24+0000
+/project/plone-app-workflowmanager/, plone.app.workflowmanager, 2.1.2, A workflow manager for Plone, 2019-02-20T19:00:16+0000
+/project/collective-eeafaceted-batchactions/, collective.eeafaceted.batchactions, 1.6, This package provides batch actions for eea.facetednavigation dashboard, 2020-12-21T16:29:50+0000
+/project/kitconcept-glossary/, kitconcept.glossary, 1.1.0, Plone add-on product to define a glossary., 2020-10-30T01:05:00+0000
+/project/collective-geotransform/, collective.geotransform, 2.0, Gracefully email obfuscation for Plone, 2020-11-18T09:25:01+0000
+/project/operun-crm/, operun.crm, 2.3.0, The operun CRM webapp project., 2019-02-04T16:51:15+0000
+/project/collective-behavior-banner/, collective.behavior.banner, 1.3, An add-on for Plone, 2021-01-22T09:07:40+0000
+/project/collective-taxonomy/, collective.taxonomy, 2.0.1, Create, edit and use hierarchical taxonomies in Plone!, 2020-07-04T07:09:42+0000
+/project/plone-app-iterate/, plone.app.iterate, 3.3.15, check-out/check-in staging for Plone, 2020-09-07T11:01:28+0000
+/project/collective-logbook/, collective.logbook, 1.0.0, Advanced Persistent Error Log, 2020-04-29T12:08:32+0000
+/project/plone-app-blocks/, plone.app.blocks, 4.3.2, Implements the in-Plone blocks rendering process, 2019-10-18T10:31:33+0000
+/project/collective-vocabularies-technology/, collective.vocabularies.technology, 1.0.3, Plone vocabularies for tech terms, 2018-09-09T02:18:58+0000
+/project/plone-portlet-static/, plone.portlet.static, 3.1.6, An editable static HTML portlet for Plone., 2020-09-21T14:44:03+0000
+/project/pas-plugins-trustedproxyauth/, pas.plugins.trustedproxyauth, 1.3.0, Authenticates requests coming from a reverse proxy doing user authentication., 2019-10-25T06:42:14+0000
+/project/ftw-journal/, ftw.journal, 1.3.0, Journaling infrastructure for plone, 2019-09-05T06:40:42+0000
+/project/plone-directives-tiles/, plone.directives.tiles, 1.2, Grokkers for plone.tiles, 2018-03-09T23:25:44+0000
+/project/collective-js-throttledebounce/, collective.js.throttledebounce, 1.3.2, Installs the throttle / debounce plugin, 2019-12-18T10:25:24+0000
+/project/collective-easyformplugin-registration/, collective.easyformplugin.registration, 1.0.0, Add a behavior to collective.easyform to manage registration forms, 2020-03-06T13:16:55+0000
+/project/collective-ogtags/, collective.ogtags, 2.0.1, OpenGraph for plone5, 2018-11-16T12:52:07+0000
+/project/ftw-publisher-monitor/, ftw.publisher.monitor, 2.0.3, An ftw.publisher addon for monitoring the publisher queue and alerting when there is a problem., 2020-09-01T14:45:57+0000
+/project/collective-pwexpiry/, collective.pwexpiry, 0.15.1, Emulate Active Directory password complexity requirements                   in Plone, 2019-12-10T15:42:23+0000
+/project/collective-cover/, collective.cover, 2.2.3, A sane, working, editor-friendly way of creating front pages and other composite pages. Working now, for mere mortals., 2021-02-02T18:49:40+0000
+/project/collective-contentrules-mailtogroup/, collective.contentrules.mailtogroup, 1.6.3, Send e-mail to groups and members defined in the action., 2018-10-05T11:30:26+0000
+/project/visaplan-zope-inputmacros/, visaplan.zope.inputmacros, 1.3.0.dev2, Generic METAL macros for input fields, 2020-10-22T11:16:39+0000
+/project/collective-workspace/, collective.workspace, 3.0.0, Provide 'membership' in specific areas of a Plone Site, 2021-02-17T10:37:42+0000
+/project/collective-defaultexcludedfromnav/, collective.defaultexcludedfromnav, 1.0a1, An add-on for Plone, 2019-08-02T11:48:46+0000
+/project/zopyx-plone-cassandra/, zopyx.plone.cassandra, 0.5.0, Show all assigned local roles within a subtree for any Plone 5 site, 2019-03-19T12:19:34+0000
+/project/plone-portlets/, plone.portlets, 2.3.2, An extension of zope.viewlet to support dynamic portlets, 2020-04-20T23:00:10+0000
+/project/collective-notifications/, collective.notifications, 1.2, Provides notifications for users., 2020-01-07T16:55:19+0000
+/project/plone-app-collection/, plone.app.collection, 1.2.8, This package adds 'saved search' functionality to Plone., 2020-03-21T01:01:37+0000
+/project/ftw-theming/, ftw.theming, 2.1.2, , 2020-11-25T20:31:59+0000
+/project/collective-glossary/, collective.glossary, 1.0b1, A Dexterity-based content type to define a glossary and its terms., 2016-12-20T00:31:39+0000
+/project/collective-taskqueue/, collective.taskqueue, 1.0, Asyncore-based asynchronous task queue for Plone, 2020-02-10T13:47:27+0000
+/project/kitconcept-voltodemo/, kitconcept.voltodemo, 2.2, , 2019-12-03T11:07:03+0000
+/project/products-plonelanguagetool/, Products.PloneLanguageTool, 3.2.10, PloneLanguageTool allows you to set the available languages in your Plone site, select various fallback mechanisms, and control the use of flags for language selection and translations., 2020-04-22T22:18:16+0000
+/project/dexterity-membrane/, dexterity.membrane, 2.1.0, Dexterity content and behaviors to integrate with membrane., 2019-06-01T09:37:35+0000
+/project/products-isurlinportal/, Products.isurlinportal, 1.1.1, Replacement for isURLInPortal method in Plone, 2020-09-07T20:25:57+0000
+/project/experimental-noacquisition/, experimental.noacquisition, 1.0.0b9, No acquistion during publish traverse, 2020-07-02T09:54:06+0000
+/project/library-theme/, library.theme, 1.1.6, A theme for buildout.library, 2020-11-19T09:00:05+0000
+/project/ftw-upgrade/, ftw.upgrade, 3.0.4, An upgrade control panel and upgrade helpers for plone upgrades., 2021-01-21T18:22:06+0000
+/project/kitconcept-seo/, kitconcept.seo, 1.4.0, SEO optimizations plugin for Plone, 2020-04-08T15:21:49+0000
+/project/ftw-logo/, ftw.logo, 1.0.5, ftw.logo, 2020-07-30T09:14:19+0000
+/project/collective-getfeed/, collective.getfeed, 1.0.0a7, , 2019-06-04T20:01:10+0000
+/project/plone-scale/, plone.scale, 3.1.2, Image scaling, 2020-09-07T20:20:36+0000
+/project/plonetheme-spot/, plonetheme.spot, 1.2.3, A theme for Plone 5.x, 2017-11-20T18:09:29+0000
+/project/collective-ploneboard/, collective.ploneboard, 1.0.0a1, Web board for the Plone Content Management System, 2018-11-28T10:14:23+0000
+/project/collective-catalogcleanup/, collective.catalogcleanup, 1.10.0, Remove outdated items from the catalog, 2020-02-08T16:48:10+0000
+/project/ftw-profilehook/, ftw.profilehook, 1.3.0, A Plone addon providing a hook for executing code when a generic setup profile is installed., 2018-09-28T14:02:00+0000
+/project/plone-autoform/, plone.autoform, 1.9.0, Tools to construct z3c.form forms, 2020-04-20T19:28:03+0000
+/project/collective-fingerpointing/, collective.fingerpointing, 1.8.2, Keep track of different events and write them down to an audit log., 2020-03-16T22:09:30+0000
+/project/collective-slick/, collective.slick, 0.2.1, Add slick carousel css and js resources to your Plone 5 site, 2018-07-04T11:17:39+0000
+/project/ftw-copymovepatches/, ftw.copymovepatches, 2.0.0, ftw.copymovepatches, 2019-07-15T13:55:57+0000
+/project/plone-memoize/, plone.memoize, 2.1.0, Decorators for caching the values of functions and methods, 2020-04-20T21:01:58+0000
+/project/collective-behavior-altimage/, collective.behavior.altimage, 1.0.0b1, Plone behavior for adding an alternative image, next to the lead image, 2019-11-01T15:04:35+0000
+/project/plone-indexer/, plone.indexer, 1.0.7, Hooks to facilitate managing custom index values in Zope 2/CMF applications, 2020-04-20T20:31:45+0000
+/project/collective-smartlink/, collective.smartlink, 1.1.0, An add-on for Plone 5, 2020-03-06T14:09:25+0000
+/project/ftw-catalogdoctor/, ftw.catalogdoctor, 1.2.0, ftw.catalogdoctor, 2020-10-06T09:39:50+0000
+/project/rer-subsites/, rer.subsites, 1.4.1, Subsites for ER portals, 2018-09-21T13:16:53+0000
+/project/plone-formwidget-contenttree/, plone.formwidget.contenttree, 1.2.0, AJAX selection widget for Plone, 2020-01-27T14:31:13+0000
+/project/plone-app-intid/, plone.app.intid, 1.1.4, Installation and migration support for five.intid within Plone/CMF, 2020-04-20T10:32:53+0000
+/project/ftw-iframefix/, ftw.iframefix, 2.0.1, ftw.iframefix, 2019-09-16T14:32:22+0000
+/project/ftw-news/, ftw.news, 1.16.0, Provides dexterity content types for news articles., 2021-03-30T19:30:11+0000
+/project/collective-collectionfilter/, collective.collectionfilter, 3.4.2, Plone addon for filtering collection results., 2021-02-25T14:20:27+0000
+/project/collective-dexteritytextindexer/, collective.dexteritytextindexer, 2.4.0, Dynamic SearchableText index for dexterity content types, 2020-01-24T10:32:10+0000
+/project/ftw-dictstorage/, ftw.dictstorage, 1.3.0, Provides a layer for storing key / value paires., 2019-11-11T15:17:05+0000
+/project/plone-app-tiles/, plone.app.tiles, 3.2.1, Plone UI integration for plone.tiles, 2020-09-26T14:06:50+0000
+/project/souper-plone/, souper.plone, 1.3.1, Plone Souper Integration: Container for many lightweight queryable Records, 2021-02-13T15:30:45+0000
+/project/operun-contactform/, operun.contactform, 1.0.0a4, A Plone Contact-Form Add-On., 2019-06-18T09:38:29+0000
+/project/redturtle-gallery/, redturtle.gallery, 2.3.0, Plone addon that adds a gallery view with a carousel made with slick., 2020-07-21T10:59:59+0000
+/project/plone-event/, plone.event, 1.4.1, Event and calendaring related tools not bound to Plone, 2020-04-20T20:08:57+0000
+/project/plone-login/, plone.login, 1.0rc1, Plone Login System, 2018-06-18T11:56:26+0000
+/project/collective-lastmodifier/, collective.lastmodifier, 2.0.0, Extends Plone content with metadata about the last modifier, 2019-10-23T05:36:23+0000
+/project/cciaa-intranetworkflow/, cciaa.intranetworkflow, 3.0.0, Workflow of the CCIAA - C4P project, 2020-03-06T11:36:28+0000
+/project/products-statusmessages/, Products.statusmessages, 5.0.5, statusmessages provides an easy way of handling internationalized status messages managed via an BrowserRequest adapter storing status messages in client-side cookies., 2020-04-22T22:22:24+0000
+/project/collective-eeafaceted-z3ctable/, collective.eeafaceted.z3ctable, 2.13, Package proposant un type de colonne compatible avec eea.facetednavigation, 2021-01-06T09:16:13+0000
+/project/eea-sentry/, eea.sentry, 1.4, Zope/Plone Sentry integration, 2019-12-02T12:43:08+0000
+/project/collective-disclaimer/, collective.disclaimer, 1.0b1, Show a disclaimer the first time a user visits a site., 2018-12-08T17:31:07+0000
+/project/plonetheme-future-imperfect/, plonetheme.future_imperfect, 1.0.1, A theme for Plone 5.x, 2017-11-20T18:39:15+0000
+/project/plone-registry/, plone.registry, 1.2.0, Registry for application settings (like debconf/ about:config), 2021-04-23T07:20:26+0000
+/project/plone-app-versioningbehavior/, plone.app.versioningbehavior, 1.4.2, Provides a behavior for using CMFEditions with dexterity content types, 2021-02-16T16:57:12+0000
+/project/collective-eeafaceted-collectionwidget/, collective.eeafaceted.collectionwidget, 1.11, eea.facetednavigation widget that enables selecting a collection (among several) as base filter, 2020-05-28T13:05:04+0000
+/project/ftw-publisher-receiver/, ftw.publisher.receiver, 2.3.3, Staging and publishing addon for Plone contents., 2020-07-30T09:22:34+0000
+/project/collective-lazysizes/, collective.lazysizes, 4.1.6, Integration of lazysizes, a lightweight lazy loader, into Plone., 2019-03-13T03:24:28+0000
+/project/plone-portlet-collection/, plone.portlet.collection, 3.3.6, A portlet that fetches results from a collection, 2021-02-16T16:50:54+0000
+/project/unikold-connector/, unikold.connector, 1.0a3, Plone addon for making persistent SOAP requests, 2019-04-23T09:45:06+0000
+/project/redturtle-drawio/, redturtle.drawio, 0.1.0, Draw.io viewer for Plone, 2018-07-02T07:49:10+0000
+/project/plone-jsonserializer/, plone.jsonserializer, 0.9.10, JSON serialization/deserialization adapters for Plone., 2020-07-01T13:29:28+0000
+/project/plone-recipe-sublimetext/, plone.recipe.sublimetext, 1.3.0, SublimeText configuration for buildout-based Python projects, 2019-02-04T12:16:30+0000
+/project/collective-editmodeswitcher/, collective.editmodeswitcher, 1.1.0, Allows to toggle edit mode in Plone, 2019-10-15T06:35:46+0000
+/project/products-cmfdifftool/, Products.CMFDiffTool, 3.3.2, Diff tool for Plone, 2020-09-21T14:48:12+0000
+/project/products-plonehotfix20171128/, Products.PloneHotfix20171128, 1.0, Various Plone hotfixes, 2017-11-28, 2017-11-28T15:02:16+0000
+/project/kcrw-tinymce-imagedrop/, kcrw.tinymce-imagedrop, 1.0.1, A Plone add-on that adds image drag and drop to TinyMCE 4 in Plone., 2020-11-25T05:02:31+0000
+/project/plone-app-querystring/, plone.app.querystring, 1.4.14, A queryparser, querybuilder and extra helper tools, to parse stored queries to actual results, used in new style Plone collections, 2020-07-17T14:35:26+0000
+/project/redturtle-tiles-tileoftiles/, redturtle.tiles.tileoftiles, 1.0.1, Tile that renders a tile manager, 2020-03-06T15:56:46+0000
+/project/collective-documentviewer/, collective.documentviewer, 6.0.1, Document cloud's document viewer integration into plone., 2021-02-03T10:18:16+0000
+/project/plone-app-contentmenu/, plone.app.contentmenu, 2.3.2, Plone's content menu implementation, 2020-07-17T14:23:18+0000
+/project/collective-behavior-talcondition/, collective.behavior.talcondition, 0.12, This package contains a Dexterity behavior and AT schemaextender to add a TAL condition on a content type., 2021-04-20T10:26:08+0000
+/project/experimental-bwtools/, experimental.bwtools, 0.2.0, Experimental bandwidth tools, 2017-03-03T07:43:50+0000
+/project/ftw-solr/, ftw.solr, 2.9.3, Solr integration for Plone, 2021-04-22T09:27:43+0000
+/project/products-mimetypesregistry/, Products.MimetypesRegistry, 2.1.8, MIME type handling for Zope, 2020-09-21T14:50:58+0000
+/project/collective-searchandreplace/, collective.searchandreplace, 8.1.1, Batch Search and Replace, 2021-01-11T13:29:26+0000
+/project/collective-cookiecuttr/, collective.cookiecuttr, 1.0.1, Integration package for cookiecuttr, european guidelines, 2020-01-17T20:36:14+0000
+/project/collective-geo-zugmap/, collective.geo.zugmap, 1.0.6, Zugmap Layer for collective.geo, 2019-11-11T12:26:26+0000
+/project/plone-uuid/, plone.uuid, 1.0.6, UUIDs for content items, 2020-04-22T21:29:54+0000
+/project/ftw-casauth/, ftw.casauth, 1.3.1, Plone PAS plugin for authentication against CAS., 2021-02-05T08:54:56+0000
+/project/plone-tiles/, plone.tiles, 2.3.0, APIs for managing tiles, 2020-09-07T20:24:06+0000
+/project/ftw-events/, ftw.events, 1.15.1, Events with simplelayout., 2020-09-03T07:30:06+0000
+/project/plone-contentrules/, plone.contentrules, 2.1.0, Plone ContentRules Engine, 2020-09-07T11:18:11+0000
+/project/ftw-collectionblock/, ftw.collectionblock, 1.2.3, ftw.collectionblock, 2020-01-09T10:04:32+0000
+/project/collective-feedaggregator/, collective.feedaggregator, 1.0a2, A feed aggregator content type for Plone., 2016-09-27T00:18:56+0000
+/project/zopyx-plone-persistentlogger/, zopyx.plone.persistentlogger, 0.4.9.1, Persistent logging for Plone objects, 2021-03-30T13:29:08+0000
+/project/ftw-protectinactive/, ftw.protectinactive, 2.1.0, Protects inactive plone content from unauthorized access., 2021-03-08T19:08:48+0000
+/project/ftw-builder/, ftw.builder, 2.0.0, Builder pattern for creating Plone objects in tests, 2019-12-04T16:42:38+0000
+/project/collective-embeddedpage/, collective.embeddedpage, 2.2.0, Add-on to embed remote HTML pages into the Plone CMS, 2021-04-14T13:01:08+0000
+/project/collective-liveblog/, collective.liveblog, 1.2b2, A liveblogging solution for Plone., 2017-08-23T21:49:50+0000
+/project/collective-documentgenerator/, collective.documentgenerator, 3.21, Desktop document generation (.odt, .pdf, .doc, ...) based on appy framework (http://appyframework.org) and OpenOffice/LibreOffice, 2021-04-20T12:43:33+0000
+/project/ideabox-diazotheme-spirit/, ideabox.diazotheme.spirit, 1.2.8, Spirit theme for Ideabox, 2020-11-19T09:25:35+0000
+/project/plone-intelligenttext/, plone.intelligenttext, 3.1.0, Provides transforms from text/x-web-intelligent to text/html and vice versa., 2020-04-20T20:40:19+0000
+/project/ftw-sliderblock/, ftw.sliderblock, 2.1.1, An image slider block to be used on a content page powered by ftw.simplelayout, 2020-08-05T14:41:22+0000
+/project/ftw-statusmap/, ftw.statusmap, 1.6.0, A plone view listing objects and review states in a tree., 2019-10-21T06:52:01+0000
+/project/visaplan-plone-infohubs/, visaplan.plone.infohubs, 1.2.0, A mini language for reuse of information, 2020-12-16T16:10:33+0000
+/project/ftw-geo/, ftw.geo, 1.4.2, Integration package for collective.geo.* packages., 2019-10-23T14:19:21+0000
+/project/collective-mailchimp/, collective.mailchimp, 3.1.0, MailChimp integration for Plone., 2020-01-13T13:13:58+0000
+/project/ftw-footer/, ftw.footer, 1.2.1, Adds portlet columns as footer to Plone., 2020-01-09T09:11:04+0000
+/project/plone-session/, plone.session, 3.7.5, Session based auth tkt authentication for Zope, 2020-06-24T12:16:37+0000
+/project/collective-ifttt/, collective.ifttt, 1.0.2, This addon is developed to make use of IFTTT webhook with Plone, 2018-08-14T09:41:26+0000
+/project/collective-googleanalytics/, collective.googleanalytics, 1.6.1, Tools for pulling statistics from Google Analytics., 2017-08-22T19:44:00+0000
+/project/archetypes-multilingual/, archetypes.multilingual, 3.0.8, Multilingual support for archetypes., 2019-12-27T13:57:06+0000
+/project/collective-denyroles/, collective.denyroles, 1.0.0b2, Plone PAS patch for denying access to editors and managers, 2019-09-17T10:29:42+0000
+/project/ftw-referencewidget/, ftw.referencewidget, 3.0.3, A reference browser widget (Maintainer Timon Tschanz), 2021-03-31T13:18:58+0000
+/project/plone-app-debugtoolbar/, plone.app.debugtoolbar, 1.2.2, Debug toolbar for Plone, 2020-04-20T10:16:40+0000
+/project/plone-app-openid/, plone.app.openid, 2.2.3, Plone OpenID authentication support, 2019-03-29T15:01:55+0000
+/project/plone-app-mosaic/, plone.app.mosaic, 2.2.3, Plone Mosaic Site Builder and Site Layout, 2020-07-02T07:35:46+0000
+/project/collective-tiles-sliders/, collective.tiles.sliders, 1.0.0, A collection of slider tiles for Mosaic., 2019-02-07T15:51:33+0000
+/project/products-placelesstranslationservice/, Products.PlacelessTranslationService, 2.0.7, PTS provides a way of internationalizing (i18n'ing) and localizing (l10n'ing) software for Zope 2., 2017-02-12T21:07:00+0000
+/project/euphorie/, Euphorie, 11.6.11, Euphorie Risk Assessment tool, 2021-04-21T08:57:37+0000
+/project/cs-portlet-calendar/, cs.portlet.calendar, 1.0, Calendar portlet using fullcalendar.io, 2017-04-04T13:38:53+0000
+/project/collective-sortedlisting/, collective.sortedlisting, 1.0a4, Sorted listings in Plone, 2017-11-09T06:06:03+0000
+/project/products-resourceregistries/, Products.ResourceRegistries, 3.0.8, Registry for managing CSS and JS, 2020-08-17T12:00:35+0000
+/project/ftw-htmlblock/, ftw.htmlblock, 1.1.3, A block rendering unescaped HTML to be used on a content page powered by ftw.simplelayout, 2020-10-02T12:39:46+0000
+/project/plone-app-uuid/, plone.app.uuid, 2.0.2, Plone integration for the basic plone.uuid package, 2020-04-20T10:55:43+0000
+/project/plonetheme-barcelonetang/, plonetheme.barcelonetang, 0.5, The Barceloneta NG Theme for Plone 5., 2018-01-08T18:55:40+0000
+/project/collective-tiles-advancedstatic/, collective.tiles.advancedstatic, 1.1.0, Advanced static tile for plone mosaic, 2019-05-30T13:54:44+0000
+/project/plonetheme-booster/, plonetheme.booster, 1.0.8, A theme for Plone 5.x, 2017-11-20T18:15:00+0000
+/project/collective-campaignmonitor/, collective.campaignmonitor, 1.2.1, CampaingMonitor integration for Plone, 2020-07-14T14:49:29+0000
+/project/products-simplegroupsmanagement/, Products.SimpleGroupsManagement, 0.7.0, A Plone utility that let non-Manager users able to manage some (specific) groups, 2021-01-11T11:27:35+0000
+/project/collective-privacy/, collective.privacy, 1.1.0a1, An add-on for Plone that provides functionality for better complying with the EU's General Data Protection Regulations and ePrivacy Regulations, 2020-05-12T10:52:39+0000
+/project/ftw-simplelayout/, ftw.simplelayout, 2.8.1, SimpleLayout provides block based content pages, 2021-04-02T13:05:59+0000
+/project/redturtle-tiles-management/, redturtle.tiles.management, 2.2.0, An alternative method for handling and showing tiles, 2021-01-27T10:41:52+0000
+/project/ps-plone-zmi/, ps.plone.zmi, 0.4, ZMI customizations for Plone instances., 2016-10-20T14:42:06+0000
+/project/collective-contract-management/, collective.contract-management, 2.0, Contract management for Plone. Kepp track of company contracts and there contract duration., 2020-02-17T10:30:37+0000
+/project/collective-linguatags/, collective.linguatags, 1.1, Multilingual Keywords for Plone, 2019-09-16T14:18:15+0000
+/project/collective-z3cform-datagridfield/, collective.z3cform.datagridfield, 2.0, Fields with repeatable data grid (table-like) for z3.cform, 2021-03-29T14:51:47+0000
+/project/collective-simplewiki/, collective.simplewiki, 1.0.1, Simple wiki linking syntax support for Plone, 2017-01-06T23:15:05+0000
+/project/ftw-publisher-core/, ftw.publisher.core, 2.14.5, Staging and publishing addon for Plone contents., 2020-10-12T08:46:09+0000
+/project/plone-app-imaging/, plone.app.imaging, 2.1.1, User-configurable, blob-aware image scaling for Plone., 2019-10-09T14:07:15+0000
+/project/webcouturier-dropdownmenu/, webcouturier.dropdownmenu, 3.0.2, Dropdown menus for global navigation in Plone, 2018-03-22T14:56:21+0000
+/project/affinitic-privatefolder/, affinitic.privatefolder, 1.0, Folderish content type with only one private state, 2020-01-21T13:34:56+0000
+/project/eea-faceted-inheritance/, eea.faceted.inheritance, 6.2, EEA Faceted Navigation extension that allow a faceted navigable object to inherit faceted configuration from another faceted navigable object., 2020-03-03T15:07:06+0000
+/project/plone-app-changeownership/, plone.app.changeownership, 1.0, Change Plone objects ownership, 2019-09-02T20:42:37+0000
+/project/interaktiv-id4me/, interaktiv.id4me, 1.1.1, ID4Me Plugin for Plone 5.x, 2019-03-27T10:28:53+0000
+/project/plone-app-locales/, plone.app.locales, 5.1.28, Translation files for Plone, 2021-02-20T10:27:37+0000
+/project/readset-i18n/, readset.i18n, 1.0, This package provides a Normalizer for Chinese character, 2018-08-24T09:24:36+0000
+/project/imio-gdpr/, imio.gdpr, 1.1.0, View and configuration panel to set GDPR information, 2020-10-28T09:44:44+0000
+/project/borg-localrole/, borg.localrole, 3.1.8, A PAS plugin which can manage local roles via an adapter lookup on the current context, 2020-04-20T19:13:08+0000
+/project/rer-solrpush/, rer.solrpush, 0.4.1, Prodotto per Regione Emilia-Romagna relativo all'indicizzazione dei contenuti con solr, 2021-03-26T07:14:34+0000
+/project/plone-caching/, plone.caching, 1.2.2, Zope 2 integration for z3c.caching, 2020-04-20T19:59:40+0000
+/project/plone-formwidget-geolocation/, plone.formwidget.geolocation, 2.2.2, Geolocation field and widget, 2020-07-10T16:24:57+0000
+/project/ftw-tabbedview/, ftw.tabbedview, 4.2.1, A generic tabbed view for plone content types., 2020-10-23T07:30:01+0000
+/project/ftw-topics/, ftw.topics, 2.1.1, Create subject trees in Plone, 2020-09-07T06:58:07+0000
+/project/ftw-publisher-controlling/, ftw.publisher.controlling, 1.3.0, An ftw.publisher addon for statistics on published objects in a workflow based setup., 2019-11-11T11:07:51+0000
+/project/ftw-permissionmanager/, ftw.permissionmanager, 3.0.2, , 2020-11-13T17:43:18+0000
+/project/izug-refegovservice/, izug.refegovservice, 3.1.5, RefEgovService for izug/zug.ch, 2021-01-21T16:18:54+0000
+/project/plone-batching/, plone.batching, 1.1.7, Batching facilities used in Plone., 2021-03-02T21:42:44+0000
+/project/collective-restrictportlets/, collective.restrictportlets, 1.0a1, Restrict addable portlet types, 2017-08-14T12:43:29+0000
+/project/plone-app-i18n/, plone.app.i18n, 3.0.6, Plone specific i18n extensions., 2020-04-20T10:31:32+0000
+/project/rer-bandi/, rer.bandi, 4.1.1, A product for announcements management, 2020-12-03T11:24:57+0000
+/project/experimental-publishtraverse/, experimental.publishtraverse, 1.1, Experimental PublishTraverse implementation., 2016-11-17T18:15:28+0000
+/project/collective-consent/, collective.consent, 1.0b3, Provides a functionality to ask users for consent to different topics., 2021-02-09T18:46:59+0000
+/project/theme-habas34/, theme.habas34, 1.0a1, Theme for Habas34 real esate, 2019-01-27T09:52:04+0000
+/project/ftw-publisher-sender/, ftw.publisher.sender, 2.14.1, Staging and publishing addon for Plone contents., 2020-07-30T09:24:12+0000
+/project/ftw-activity/, ftw.activity, 2.5.2, An activity feed for Plone., 2021-02-26T09:38:20+0000
+/project/products-autousermakerpasplugin/, Products.AutoUserMakerPASPlugin, 2.1.1, Automatically create PAS users when authentication in Plone, 2017-02-01T11:00:27+0000
+/project/plonetheme-cleanblog/, plonetheme.cleanblog, 1.2.3, A theme for Plone 5.x, 2017-11-20T18:03:33+0000
+/project/ftw-slacker/, ftw.slacker, 1.1.0, Uses webhooks to post messages into a slack channel., 2019-11-27T11:28:47+0000
+/project/collective-portlet-carousel/, collective.portlet.carousel, 1.1.3, Carousel for collective.panels, 2018-01-31T11:21:52+0000
+/project/ftw-pdfgenerator/, ftw.pdfgenerator, 1.6.9, A library for generating PDF representations of Plone objects with LaTeX., 2020-03-11T12:46:53+0000
+/project/collective-autopublishing/, collective.autopublishing, 1.0.3, Publishes and retracts on effective or expired dates., 2019-07-18T12:41:33+0000
+/project/pas-plugins-cauthomatic/, pas.plugins.cauthomatic, 1.1.2, Provides OAuth2/ OpenID login for Plone using Authomatic., 2019-11-22T09:23:45+0000
+/project/collective-edtf-behavior/, collective.edtf-behavior, 1.0.3, A EDTF behavior for Plone., 2019-08-26T12:51:30+0000
+/project/collective-metadataaudit/, collective.metadataaudit, 1.0a1, Audit metadata changes, 2020-11-23T10:12:13+0000
+/project/ftw-bridge-client/, ftw.bridge.client, 1.1.1, Adds ftw.bridge support to plone., 2019-12-14T15:51:13+0000
+/project/pas-plugins-headers/, pas.plugins.headers, 1.3.1, PAS plugin for authentication based on request headers, 2020-04-03T11:03:45+0000
+/project/collective-restapi-navigationtree/, collective.restapi.navigationtree, 1.0a1, Provides a REST endpoint to query the site's navigation tree, 2018-03-12T22:07:09+0000
+/project/ftw-candlestick/, ftw.candlestick, 1.1.5, ftw.candlestick, 2020-10-26T13:57:02+0000
+/project/ftw-redirector/, ftw.redirector, 1.1.2, Plone addon for redirects, 2020-01-09T09:44:30+0000
+/project/plone-formwidget-multifile/, plone.formwidget.multifile, 2.0, z3c.form widget for adding multiple files, 2016-08-31T11:02:16+0000
+/project/collective-solr/, collective.solr, 8.4.2, Solr integration for external indexing and searching., 2021-04-08T14:13:00+0000
+/project/plone-openid/, plone.openid, 2.0.5, OpenID authentication support for PAS, 2019-03-29T14:41:44+0000
+/project/ftw-zipexport/, ftw.zipexport, 1.6.4, Zip export for Plone, 2019-09-19T10:22:36+0000
+/project/plone-app-lockingbehavior/, plone.app.lockingbehavior, 1.0.7, Locking integration for dexterity content objects., 2020-04-20T10:37:36+0000
+/project/plone-app-imagecropping/, plone.app.imagecropping, 2.2.2, Crops Images in Plone manually using cropper JS library, 2020-03-11T14:34:45+0000
+/project/collective-deletepermission/, collective.deletepermission, 1.5.0, Implements a new permission 'Delete portal content', 2019-09-09T12:06:37+0000
+/project/collective-webhook/, collective.webhook, 0.3.0, Webhook content rule action, 2018-12-05T13:01:19+0000
+/project/collective-behavior-amp/, collective.behavior.amp, 1.0a3, Support for Accelerated Mobile Pages (AMP) on Dexterity-based content types., 2017-04-13T22:35:17+0000
+/project/collective-testimony/, collective.testimony, 1.0a1, An add-on for Plone, 2020-08-19T11:59:19+0000
+/project/collective-fgrcon-pgeasyform/, collective.fgrcon.pgeasyform, 1.1, Extend collective.easyform with a handler for Postgresql, 2019-06-19T14:21:42+0000
+/project/plone-formwidget-relateditems/, plone.formwidget.relateditems, 0.2, An advanced related items widget for Plone., 2018-01-18T15:01:37+0000
+/project/pas-plugins-authomatic/, pas.plugins.authomatic, 1.0b1, Provides OAuth2/ OpenID login for Plone using Authomatic., 2017-11-20T16:03:02+0000
+/project/products-validation/, Products.validation, 2.1.3, Data validation package for Zope, 2020-06-24T12:34:19+0000
+/project/iw-rejectanonymous/, iw.rejectanonymous, 1.2.5, Disallow access to a Plone site and its children if user is anonymous, 2019-10-18T07:57:47+0000
+/project/collective-editablemenu/, collective.editablemenu, 2.3.0, A customizable dropdown menu, 2019-09-10T14:57:13+0000
+/project/plone-gallery/, plone.gallery, 1.0.1, Photo gallery for Plone CMS., 2020-07-07T18:16:09+0000
+/project/collective-handlebars/, collective.handlebars, 1.4.1, Handlebars for Plone, 2018-10-22T14:06:11+0000
+/project/plone-app-jsonfield/, plone.app.jsonfield, 1.0.0a3, JSON field for Plone, 2018-01-22T18:32:37+0000
+/project/plone-directives-form/, plone.directives.form, 2.0.3, Grok-like directives configuring forms, 2017-05-09T15:21:03+0000
+/project/plone-rest/, plone.rest, 1.6.2, Plone support for HTTP verbs., 2021-02-20T08:03:11+0000
+/project/plone-formwidget-recaptcha/, plone.formwidget.recaptcha, 2.3.0, ReCaptcha widget for Plone., 2021-03-01T12:09:17+0000
+/project/rer-sitesearch/, rer.sitesearch, 3.2.6, A product that change the base site search of Plone with some new features., 2020-09-21T14:58:39+0000
+/project/zopyx-ipsumplone/, zopyx.ipsumplone, 0.3.18, Lorem ipsum text and image demo content for Plone, 2019-07-15T17:40:40+0000
+/project/plone-keyring/, plone.keyring, 3.1.3, Manage secrets, 2020-09-07T11:24:04+0000
+/project/osha-oira/, osha.oira, 6.2.20, Euphorie customisations for OSHA-OiRA site., 2021-04-21T07:37:11+0000
+/project/ftw-book/, ftw.book, 4.1.10, Produce books with Plone and export them in a high quality PDF., 2021-04-01T15:11:39+0000
+/project/ftw-keywordwidget/, ftw.keywordwidget, 2.2.2, A z3c form keyword widget using select2., 2020-05-28T09:04:29+0000
+/project/plone-app-dexterity/, plone.app.dexterity, 2.6.9, Dexterity is a content type framework for CMF  applications, with particular emphasis on Plone. It can be viewed as an alternative to Archetypes that is more light-weight and modular., 2021-01-08T17:53:46+0000
+/project/collective-listingviews/, collective.listingviews, 1.0.1, Listing views, 2019-01-17T17:33:35+0000
+/project/collective-expandcollapse-tile/, collective.expandcollapse.tile, 1.0.1, Add ability to expand/collapse a tile with a specified CSS class, 2021-04-06T08:11:03+0000
+/project/pas-plugins-ldap/, pas.plugins.ldap, 1.8.0, LDAP/AD Plugin for Plone/Zope PluggableAuthService (users+groups), 2020-06-11T05:49:04+0000
+/project/collective-folderprotection/, collective-folderprotection, 2.3, , 2021-01-11T16:54:45+0000
+/project/collective-geolocationbehavior/, collective.geolocationbehavior, 1.7.1, Dexterity behavior to add geographic locations to contents., 2020-07-10T16:28:24+0000
+/project/plone-formwidget-querystring/, plone.formwidget.querystring, 1.1.10, A widget for composing a Query string/search., 2017-08-09T15:28:56+0000
+/project/collective-noindexing/, collective.noindexing, 2.0.0, Ignore all indexing operations, 2019-11-20T10:02:54+0000
+/project/rg-prenotazioni/, rg.prenotazioni, 4.0, RenoGalliera prenotazioni, 2020-08-12T21:16:26+0000
+/project/collective-revisionmanager/, collective.revisionmanager, 1.0.0, Manage CMFEditions Histories, 2020-08-18T09:53:28+0000
+/project/plone-formwidget-autocomplete/, plone.formwidget.autocomplete, 1.4.0, AJAX selection widget for Plone, 2020-01-27T14:19:12+0000
+/project/plonemeeting-portal-core/, plonemeeting.portal.core, 1.2, Plonemeeting decisions publication portal, 2021-03-24T12:22:50+0000
+/project/ftw-trash/, ftw.trash, 1.7.3, A Plone addon introducing a trash with restore functionality., 2020-01-07T08:17:06+0000
+/project/lineage-controlpanels/, lineage.controlpanels, 1.0a1, Plone controlpanels for Lineage sites, 2016-10-06T14:43:25+0000
+/project/ps-plone-realestatefont/, ps.plone.realestatefont, 0.4, Real Estate icon font., 2016-11-21T14:09:20+0000
+/project/ftw-globalstatusmessage/, ftw.globalstatusmessage, 1.7.3, Shows a global message on every site., 2020-07-28T15:04:41+0000
+/project/ftw-servicenavigation/, ftw.servicenavigation, 1.3.2, , 2021-04-01T14:04:59+0000
+/project/plonetheme-blueberry/, plonetheme.blueberry, 1.11.5, A Plone 4 / 5 theme, 2020-12-11T18:35:16+0000
+/project/nuplone/, NuPlone, 1.6.3, A new user interface for Plone, 2020-05-26T10:32:49+0000
+/project/plone-schema/, plone.schema, 1.3.0, Plone specific extensions and fields for zope schematas, 2021-03-24T08:47:26+0000
+/project/collective-analyticspanel/, collective.analyticspanel, 0.6.1, Add more control over the inclusion of JavaScript analytics code of your Plone site, 2017-09-15T14:04:01+0000
+/project/onlyoffice-connector/, onlyoffice.connector, 2.0.0, Plone ONLYOFFICE integration plugin, 2021-04-15T13:53:56+0000
+/project/archetypes-referencebrowserwidget/, archetypes.referencebrowserwidget, 2.5.11, A referencebrowser implementation for Archetypes, 2020-03-21T00:38:23+0000
+/project/collective-outputfilters-enhancelinks/, collective.outputfilters.enhancelinks, 1.1.4, An additional outputfilter that enhance file and image links informations in rich text, 2020-10-08T10:58:33+0000
+/project/experimental-nodtml/, experimental.nodtml, 1.2, Patch DocumentTemplate to not return any content., 2016-11-14T11:45:23+0000
+/project/ftw-subsite/, ftw.subsite, 2.7.9, , 2021-03-30T07:23:50+0000
+/project/collective-newsticker/, collective.newsticker, 2.1b2, A horizontal, text-based display dedicated to presenting headlines on a site., 2018-04-23T19:35:49+0000
+/project/ftw-calendar/, ftw.calendar, 3.1.2, Calendar view based on fullcalendar, 2019-09-12T10:04:27+0000
+/project/collective-immediatecreate/, collective.immediatecreate, 1.0a3, Create dexterity items immediatly and skips add form., 2018-11-07T09:27:55+0000
+/project/iaweb-mosaic/, iaweb.mosaic, 1.0.0, An add-on for Plone, 2021-01-04T15:01:11+0000
+/project/plonetheme-business-casual/, plonetheme.business-casual, 1.1, A theme for Plone 5.x, 2017-11-20T18:33:56+0000
+/project/ftw-contentstats/, ftw.contentstats, 1.2.0, Collect and display content statistics for Plone sites, 2020-05-04T15:15:39+0000
+/project/uwosh-oie-studyabroadtheme/, uwosh.oie.studyabroadtheme, 1.0.6, Plone theme for UW Oshkosh Office of International Education, 2020-10-20T14:48:33+0000
+/project/collective-siteimprove/, collective.siteimprove, 1.0.6, Siteimprove integration for Plone, 2020-07-10T01:43:24+0000
+/project/collective-videolink/, collective.videolink, 5.0a5, Display link content type as embedded video, provide a video gallery view, 2018-03-16T12:52:53+0000
+/project/plone-patternslib/, plone.patternslib, 1.2.1, An add-on to make patternslib patterns available within Plone 5., 2020-11-23T22:09:46+0000
+/project/plone-formwidget-datetime/, plone.formwidget.datetime, 1.3.5, Datetime widgets for Plone, 2019-08-29T19:53:52+0000
+/project/ps-plone-mls/, ps.plone.mls, 0.16, Propertyshelf MLS Plone Embedding., 2020-03-18T01:52:23+0000
+/project/pas-plugins-memberpropertytogroup/, pas.plugins.memberpropertytogroup, 1.1, Plone PAS plugin to create virtual groups based on member properties., 2018-03-05T14:44:11+0000
+/project/plone-locking/, plone.locking, 2.2.4, webdav locking support, 2020-04-20T20:53:32+0000
+/project/plone-app-registry/, plone.app.registry, 1.7.8, Zope 2 and Plone  integration for plone.registry, 2021-01-08T17:50:48+0000
+/project/ftw-faqblock/, ftw.faqblock, 1.2.0, ftw.faqblock, 2020-07-23T14:03:48+0000
+/project/fhir-heart/, fhir.heart, 1.0.0a1, Health Relationship Trust Profile (HEART) implementation for FHIR (Fast Healthcare Interoperability Resources) compliance for Healthcare System., 2017-12-21T19:01:08+0000
+/project/collective-lineage/, collective.lineage, 2.3, The microsite creation product for Plone, 2020-02-16T21:10:04+0000
+/project/collective-multitheme/, collective.multitheme, 1.0, A (Multi) Theme for Plone 5, 2018-05-31T05:12:46+0000
+/project/ideabox-theme/, ideabox.theme, 1.0.0, An add-on for Plone, 2021-01-06T08:29:43+0000
+/project/redturtle-exporter-base/, redturtle.exporter.base, 1.3.0, Json exporter base for Plone, 2021-02-01T08:21:03+0000
+/project/ims-zip/, ims.zip, 4.2.1, zip and unzip folder contents, 2021-04-21T20:52:06+0000
+/project/kitconcept-volto/, kitconcept.volto, 2.2.1, Volto integration add-on for Plone, 2021-04-21T16:28:33+0000
+/project/products-plonekeywordmanager/, Products.PloneKeywordManager, 3.0.3, Change, merge and delete keywords (subjects) in Plone., 2021-01-27T08:20:19+0000
+/project/collective-elasticsearch/, collective.elasticsearch, 3.0.4, elasticsearch integration with plone, 2019-08-22T14:10:55+0000
+/project/plone-app-referenceablebehavior/, plone.app.referenceablebehavior, 0.7.8, Referenceable dexterity type behavior, 2020-04-20T10:46:07+0000
+/project/collective-embedcontent/, collective.embedcontent, 1.0a1, An add-on for Plone, 2020-07-08T03:05:32+0000
+/project/collective-fgrcon-portletadmin/, collective.fgrcon.portletadmin, 1.2, A Plone utility for inspecting and manipulating context  portlet assignments, 2018-04-18T14:15:38+0000
+/project/ftw-inflator/, ftw.inflator, 1.12.1, Plone site setup wizard with content creation and bundle system for predefined configurations., 2019-11-26T15:15:01+0000
+/project/ftw-publisher-monitor/, ftw.publisher.monitor, 2.0.3, An ftw.publisher addon for monitoring the publisher queue and alerting when there is a problem., 2020-09-01T14:45:57+0000
+/project/pp-connector-plone/, pp.connector.plone, 1.0.5, Produce & Publisher Plone Client Connector, 2018-12-12T07:39:00+0000
+/project/jazkarta-abtesttile/, jazkarta.abtesttile, 1.1, Plone Mosaic Tile for A/B Testing content changes, 2019-05-09T00:11:24+0000
+/project/ftw-addressblock/, ftw.addressblock, 2.0.2, ftw.addressblock, 2020-05-28T15:39:39+0000
+/project/design-plone-theme/, design.plone.theme, 5.1.2, Theme for Italia Design System, 2021-04-16T15:14:17+0000
+/project/plone-portlet-static/, plone.portlet.static, 3.1.6, An editable static HTML portlet for Plone., 2020-09-21T14:44:03+0000
+/project/pas-plugins-trustedproxyauth/, pas.plugins.trustedproxyauth, 1.3.0, Authenticates requests coming from a reverse proxy doing user authentication., 2019-10-25T06:42:14+0000
+/project/ftw-journal/, ftw.journal, 1.3.0, Journaling infrastructure for plone, 2019-09-05T06:40:42+0000
+/project/plone-directives-tiles/, plone.directives.tiles, 1.2, Grokkers for plone.tiles, 2018-03-09T23:25:44+0000
+/project/collective-js-throttledebounce/, collective.js.throttledebounce, 1.3.2, Installs the throttle / debounce plugin, 2019-12-18T10:25:24+0000
+/project/ftw-contentnav/, ftw.contentnav, 1.1.0, Provides a content navigation behavior, which allows you to show sub content by category., 2019-10-23T12:42:59+0000
+/project/collective-easyformplugin-registration/, collective.easyformplugin.registration, 1.0.0, Add a behavior to collective.easyform to manage registration forms, 2020-03-06T13:16:55+0000
+/project/collective-pwexpiry/, collective.pwexpiry, 0.15.1, Emulate Active Directory password complexity requirements                   in Plone, 2019-12-10T15:42:23+0000
+/project/collective-ogtags/, collective.ogtags, 2.0.1, OpenGraph for plone5, 2018-11-16T12:52:07+0000
+/project/collective-cover/, collective.cover, 2.2.3, A sane, working, editor-friendly way of creating front pages and other composite pages. Working now, for mere mortals., 2021-02-02T18:49:40+0000
+/project/collective-contentrules-mailtogroup/, collective.contentrules.mailtogroup, 1.6.3, Send e-mail to groups and members defined in the action., 2018-10-05T11:30:26+0000
+/project/visaplan-zope-inputmacros/, visaplan.zope.inputmacros, 1.3.0.dev2, Generic METAL macros for input fields, 2020-10-22T11:16:39+0000
+/project/collective-workspace/, collective.workspace, 3.0.0, Provide 'membership' in specific areas of a Plone Site, 2021-02-17T10:37:42+0000
+/project/collective-defaultexcludedfromnav/, collective.defaultexcludedfromnav, 1.0a1, An add-on for Plone, 2019-08-02T11:48:46+0000
+/project/zopyx-plone-cassandra/, zopyx.plone.cassandra, 0.5.0, Show all assigned local roles within a subtree for any Plone 5 site, 2019-03-19T12:19:34+0000
+/project/plone-portlets/, plone.portlets, 2.3.2, An extension of zope.viewlet to support dynamic portlets, 2020-04-20T23:00:10+0000
+/project/collective-notifications/, collective.notifications, 1.2, Provides notifications for users., 2020-01-07T16:55:19+0000
+/project/ftw-theming/, ftw.theming, 2.1.2, , 2020-11-25T20:31:59+0000
+/project/plone-app-collection/, plone.app.collection, 1.2.8, This package adds 'saved search' functionality to Plone., 2020-03-21T01:01:37+0000
+/project/ftw-table/, ftw.table, 1.22.0, Table generator utility for use within zope., 2019-03-06T09:37:32+0000
+/project/collective-behavior-seo/, collective.behavior.seo, 1.0.1, An add-on for Plone, 2020-09-09T22:14:45+0000
+/project/ftw-mobile/, ftw.mobile, 2.2.1, Mobile navigation and a basic infrastructure for mobile buttons on a Plone site., 2021-02-19T14:48:31+0000
+/project/collective-faceted-map/, collective.faceted.map, 1.0b6, Map view for eea.facetednavigation, 2020-09-11T13:39:14+0000
+/project/ftw-autofeature/, ftw.autofeature, 1.1.0, ftw.autofeature automatically registers ZCML features., 2019-09-25T13:00:20+0000
+/project/collective-ttwpo/, collective.ttwpo, 1.0b5, Manage your PO Translation Files TTW and Sync with Translationservices, 2017-11-15T16:39:43+0000
+/project/products-printingmailhost/, Products.PrintingMailHost, 1.1.5, A monkey patch to send MailHost messages to standard out, 2020-11-02T14:30:55+0000
+/project/collective-venue/, collective.venue, 4.1, Dexterity venue type for use with events., 2020-07-10T16:21:39+0000
+/project/products-plonehotfix20200121/, Products.PloneHotfix20200121, 1.1, Various Plone hotfixes, 2020-01-21, 2020-02-11T22:47:25+0000
+/project/kitconcept-timeline/, kitconcept.timeline, 1.0.0a4, Plone add-on that allows to create a timeline., 2019-06-04T04:12:04+0000
+/project/eea-cache/, eea.cache, 9.4, Tools and config for memcache related caching, 2020-03-10T16:41:46+0000
+/project/collective-eeafaceted-dashboard/, collective.eeafaceted.dashboard, 0.16, This package is the glue between different packages offering a usable and integrated dashboard application, 2021-04-20T12:27:44+0000
+/project/ftwbook-graphicblock/, ftwbook.graphicblock, 3.1.2, Addon for `ftw.book` providing a graphics block for including PDF documents in the book., 2020-02-12T09:59:58+0000
+/project/collective-wfeffectiverange/, collective.wfeffectiverange, 2.0.0, Workflowed effective range (Plone/Dexterity), 2016-12-08T15:45:16+0000
+/project/collective-document-hide-summary/, collective.document-hide-summary, 1.1.1, An add-on for Plone that lets you hide a Document's title, summary (description), or both, 2016-11-29T04:01:29+0000
+/project/plone-theme/, plone.theme, 3.0.7, Tools for managing themes in CMF and Plone sites, 2020-04-22T21:25:56+0000
+/project/plone-app-standardtiles/, plone.app.standardtiles, 2.4.0, Tiles for plone.app.blocks page composition, 2021-03-24T07:55:33+0000
+/project/collective-recipe-vscode/, collective.recipe.vscode, 0.1.6, Visual Studio Code configuration for buildout-based Python projects, 2020-07-15T14:18:47+0000
+/project/visaplan-zope-reldb/, visaplan.zope.reldb, 1.0.0.dev2, Configure a Data source name for Zope, 2020-10-16T13:00:55+0000
+/project/eea-facetednavigation/, eea.facetednavigation, 14.5, EEA Faceted Navigation, 2021-03-29T13:27:30+0000
+/project/collective-registration/, collective.registration, 1.0, Allow users to subscribe to events (with several periods), 2020-05-06T16:45:52+0000
+/project/yafowil-plone/, yafowil.plone, 3.0.0, Plone Integration with YAFOWIL, 2019-02-19T10:12:04+0000
+/project/ftw-contacts/, ftw.contacts, 1.10.5, Provides a contact-contenttype, 2020-11-25T21:03:49+0000
+/project/collective-folderishtypes/, collective.folderishtypes, 3.0.0, Folderish News Item, Document and Event as replacement for default types., 2019-12-17T10:26:12+0000
+/project/collective-contentexport/, collective.contentexport, 1.1, Plone add-on to export dexterity content in various formats, 2018-03-27T12:38:18+0000
+/project/castle-theme/, castle.theme, 1.0.6, CastleCMS Theme Package, 2020-02-21T21:27:59+0000
+/project/spirit-plone-theming/, spirit.plone.theming, 0.9, Theming extensions for Plone Websites., 2019-03-07T09:25:15+0000
+/project/collective-faq/, collective.faq, 1.2.0, Plone addon package for managing FAQ sections, 2020-09-06T20:30:50+0000
+/project/ftw-iframeblock/, ftw.iframeblock, 1.6.2, A block for ftw.simplelayout, 2020-05-29T08:13:03+0000
+/project/ps-plone-fotorama/, ps.plone.fotorama, 4.6.4.3, Fotorama slideshow for Plone., 2016-11-21T14:41:30+0000
+/project/plone-mls-core/, plone.mls.core, 0.7, Plone support for the Propertyshelf MLS., 2017-12-12T13:00:09+0000
+/project/collective-exportimport/, collective.exportimport, 1.0b1, An add-on for Plone to Export and import content, members, relations, translations and localroles., 2021-03-26T17:45:49+0000
+/project/plonetheme-sunburst/, plonetheme.sunburst, 1.5.5, The default theme for Plone 4., 2020-04-22T21:40:56+0000
+/project/plone-browserlayer/, plone.browserlayer, 2.2.4, Browser layer management for Zope 2 applications, 2020-09-07T11:16:29+0000
+/project/plone-stringinterp/, plone.stringinterp, 1.3.3, Adaptable string interpolation, 2020-09-07T20:22:31+0000
+/project/rc-tiles-collection/, rc.tiles.collection, 1.1.6, A tile that shows a set of collection results with a customizable layout, 2018-12-10T17:44:53+0000
+/project/collective-iconifiednavigation/, collective.iconifiednavigation, 1.0.1, Add content icons in portal_tabs menu, 2020-01-23T09:05:50+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/xmldirector-plonecore/, xmldirector.plonecore, 2.1.1, XML-Director , 2017-07-23T13:59:54+0000
+/project/collective-mtrsetup/, collective.mtrsetup, 1.6.0, Extension for GenericSetup, adding support for import / export of mimetypes_registry, 2019-10-23T06:02:07+0000
+/project/bda-plone-ajax/, bda.plone.ajax, 2.0, bdajax integration for Plone., 2019-03-10T22:07:02+0000
+/project/rt-lastmodifier/, rt.lastmodifier, 1.1.1, Extends features and shown data in Plone document byline section, 2020-07-02T13:29:39+0000
+/project/plone-jsonapi-routes/, plone.jsonapi.routes, 0.9.4, Plone JSON API -- Routes, 2017-10-17T11:11:40+0000
+/project/collective-themefragments/, collective.themefragments, 2.12, Theme fragments for plone.app.theming, 2019-07-26T08:49:28+0000
+/project/slc-xliff/, slc.xliff, 3.0, A framework to allow im and export of xliff files for translations, 2020-04-29T10:14:43+0000
+/project/collective-easyform/, collective.easyform, 3.0.5, Forms for Plone, 2020-11-17T21:08:46+0000
+/project/ftw-colorbox/, ftw.colorbox, 1.6.4, An image gallery for Plone using ColorBox, 2020-06-05T07:50:18+0000
+/project/redturtle-lookup/, redturtle.lookup, 3.1.0, List products information for different Plone sites in a single instance, 2019-02-11T16:03:21+0000
+/project/bobtemplates-migration/, bobtemplates.migration, 0.3, Templates for Plone projects., 2019-08-16T22:53:02+0000
+/project/kitconcept-richpage/, kitconcept.richpage, 1.1.0, Folderish page with rich content, 2020-02-20T10:40:53+0000
+/project/ftw-tika/, ftw.tika, 2.10.0, Apache Tika integration for Plone using portal transforms., 2019-09-04T08:48:05+0000
+/project/plone-app-upgrade/, plone.app.upgrade, 2.0.38, Upgrade machinery for Plone., 2021-03-02T21:47:29+0000
+/project/collective-rating/, collective.rating, 1.1.0, A Plone product to rate content types, 2020-03-06T13:56:04+0000
+/project/plone-formwidget-recurrence/, plone.formwidget.recurrence, 2.1.4, Recurrence widget for Plone, 2020-04-20T20:24:47+0000
+/project/ftw-oidcauth/, ftw.oidcauth, 1.0.2, A PAS plugin for authentication of users in Plone using OIDC., 2020-09-07T06:40:58+0000
+/project/ftw-tagging/, ftw.tagging, 2.0.1, Tagging add-on for Plone, 2019-12-16T07:32:13+0000
+/project/ftw-testing/, ftw.testing, 2.0.6, Provides some testing helpers and an advanced MockTestCase., 2020-05-28T09:39:48+0000
+/project/ftw-chameleon/, ftw.chameleon, 1.3.0, Enhance Chameleon templating engine integration into Plone, 2019-10-01T09:21:10+0000
+/project/plone-app-customerize/, plone.app.customerize, 1.3.11, Integrate five.customerize into Plone., 2020-04-20T10:15:24+0000
+/project/plone-app-workflowmanager/, plone.app.workflowmanager, 2.1.2, A workflow manager for Plone, 2019-02-20T19:00:16+0000
+/project/collective-eeafaceted-batchactions/, collective.eeafaceted.batchactions, 1.6, This package provides batch actions for eea.facetednavigation dashboard, 2020-12-21T16:29:50+0000
+/project/plone-browserlayer/, plone.browserlayer, 2.2.4, Browser layer management for Zope 2 applications, 2020-09-07T11:16:29+0000
+/project/plone-stringinterp/, plone.stringinterp, 1.3.3, Adaptable string interpolation, 2020-09-07T20:22:31+0000
+/project/rc-tiles-collection/, rc.tiles.collection, 1.1.6, A tile that shows a set of collection results with a customizable layout, 2018-12-10T17:44:53+0000
+/project/collective-iconifiednavigation/, collective.iconifiednavigation, 1.0.1, Add content icons in portal_tabs menu, 2020-01-23T09:05:50+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/xmldirector-plonecore/, xmldirector.plonecore, 2.1.1, XML-Director , 2017-07-23T13:59:54+0000
+/project/collective-mtrsetup/, collective.mtrsetup, 1.6.0, Extension for GenericSetup, adding support for import / export of mimetypes_registry, 2019-10-23T06:02:07+0000
+/project/castle-cms/, castle.cms, 2.6.31, CastleCMS Plone distribution main package, 2021-04-21T01:43:29+0000
+/project/plone-recipe-alltests/, plone.recipe.alltests, 1.5.2, Buildout recipe for running tests isolated at package boundaries, 2020-04-20T23:04:17+0000
+/project/collective-disqus/, collective.disqus, 2.2.1, Integration of Disqus comments platform API into Plone., 2018-10-09T19:29:42+0000
+/project/cioppino-twothumbs/, cioppino.twothumbs, 2.2.0, Rating widget based on thumbs up and down., 2019-10-09T14:23:42+0000
+/project/collective-js-jqueryui/, collective.js.jqueryui, 2.1.8, JQueryUI ready for Plone, 2021-01-05T13:39:14+0000
+/project/kitconcept-dsgvo/, kitconcept.dsgvo, 1.3.0, DSGVO / GDPR compliance for Plone, 2020-06-03T09:29:11+0000
+/project/wildcard-media/, wildcard.media, 2.1.0, HTML5 audio and video integration with plone, 2020-02-06T14:11:23+0000
+/project/lineage-themeselection/, lineage.themeselection, 2.1, Lineage Add-On: Theme Selection on Subsites, 2019-03-26T13:47:43+0000
+/project/plone-api/, plone.api, 1.10.4, A Plone API., 2020-09-28T10:15:34+0000
+/project/collective-eeafaceted-layoutwidget/, collective.eeafaceted.layoutwidget, 1.0a1, Layout widget for eea.facetednavigation, 2018-09-17T19:04:19+0000
+/project/products-portaltransforms/, Products.PortalTransforms, 3.1.10, MIME based content transformations, 2020-09-21T14:53:20+0000
+/project/collective-tiles-rssmixer/, collective.tiles.rssmixer, 0.1.1, Provides a tile that fetch RSS feeds from multiple sources, 2019-03-28T11:03:42+0000
+/project/plone-behavior/, plone.behavior, 1.4.0, Infrastructure for maintaining a registry of available behaviors, 2020-09-07T11:13:50+0000
+/project/collective-behavior-relatedmedia/, collective.behavior.relatedmedia, 2.1.3, Adds Various configuration fields and viewlets to manage and show content related images and attachments, 2020-07-22T07:08:27+0000
+/project/collective-badge/, collective.badge, 1.0.1, A basic member badge system for Plone, 2017-03-04T19:46:47+0000
+/project/redturtle-agidtheme/, redturtle.agidtheme, 2.2.3, Theme for Italia Design System, 2018-08-06T12:12:08+0000
+/project/bobtemplates-migration/, bobtemplates.migration, 0.3, Templates for Plone projects., 2019-08-16T22:53:02+0000
+/project/kitconcept-richpage/, kitconcept.richpage, 1.1.0, Folderish page with rich content, 2020-02-20T10:40:53+0000
+/project/ftw-tika/, ftw.tika, 2.10.0, Apache Tika integration for Plone using portal transforms., 2019-09-04T08:48:05+0000
+/project/plone-app-upgrade/, plone.app.upgrade, 2.0.38, Upgrade machinery for Plone., 2021-03-02T21:47:29+0000
+/project/collective-rating/, collective.rating, 1.1.0, A Plone product to rate content types, 2020-03-06T13:56:04+0000
+/project/plone-formwidget-recurrence/, plone.formwidget.recurrence, 2.1.4, Recurrence widget for Plone, 2020-04-20T20:24:47+0000
+/project/cs-behavior-footerhtmlcode/, cs.behavior.footerhtmlcode, 1.0.1, An add-on providing a behavior that allows entering arbitrary HTML code to be shown in a portlet in LRF objects, 2019-11-21T12:01:09+0000
+/project/ftw-oidcauth/, ftw.oidcauth, 1.0.2, A PAS plugin for authentication of users in Plone using OIDC., 2020-09-07T06:40:58+0000
+/project/ftw-tagging/, ftw.tagging, 2.0.1, Tagging add-on for Plone, 2019-12-16T07:32:13+0000
+/project/ftw-testing/, ftw.testing, 2.0.6, Provides some testing helpers and an advanced MockTestCase., 2020-05-28T09:39:48+0000
+/project/ftw-chameleon/, ftw.chameleon, 1.3.0, Enhance Chameleon templating engine integration into Plone, 2019-10-01T09:21:10+0000
+/project/plone-app-customerize/, plone.app.customerize, 1.3.11, Integrate five.customerize into Plone., 2020-04-20T10:15:24+0000
+/project/plone-app-workflowmanager/, plone.app.workflowmanager, 2.1.2, A workflow manager for Plone, 2019-02-20T19:00:16+0000
+/project/collective-eeafaceted-batchactions/, collective.eeafaceted.batchactions, 1.6, This package provides batch actions for eea.facetednavigation dashboard, 2020-12-21T16:29:50+0000
+/project/ftw-gopip/, ftw.gopip, 1.1.0, Speed up getObjPositionInParent index in Plone, 2017-11-28T08:59:00+0000
+/project/kitconcept-glossary/, kitconcept.glossary, 1.1.0, Plone add-on product to define a glossary., 2020-10-30T01:05:00+0000
+/project/collective-geotransform/, collective.geotransform, 2.0, Gracefully email obfuscation for Plone, 2020-11-18T09:25:01+0000
+/project/operun-crm/, operun.crm, 2.3.0, The operun CRM webapp project., 2019-02-04T16:51:15+0000
+/project/collective-behavior-banner/, collective.behavior.banner, 1.3, An add-on for Plone, 2021-01-22T09:07:40+0000
+/project/collective-taxonomy/, collective.taxonomy, 2.0.1, Create, edit and use hierarchical taxonomies in Plone!, 2020-07-04T07:09:42+0000
+/project/plone-app-iterate/, plone.app.iterate, 3.3.15, check-out/check-in staging for Plone, 2020-09-07T11:01:28+0000
+/project/collective-logbook/, collective.logbook, 1.0.0, Advanced Persistent Error Log, 2020-04-29T12:08:32+0000
+/project/plone-app-blocks/, plone.app.blocks, 4.3.2, Implements the in-Plone blocks rendering process, 2019-10-18T10:31:33+0000
+/project/collective-vocabularies-technology/, collective.vocabularies.technology, 1.0.3, Plone vocabularies for tech terms, 2018-09-09T02:18:58+0000
+/project/plone-app-drafts/, plone.app.drafts, 1.1.3, Low-level container for draft content, 2019-02-10T16:11:18+0000
+/project/collective-instancebehavior/, collective.instancebehavior, 0.5, Enable behaviors per content type instance., 2021-04-16T06:29:14+0000
+/project/plone-app-event/, plone.app.event, 3.2.10, The Plone calendar framework, 2020-11-17T16:48:49+0000
+/project/plone-oidc/, plone.oidc, 1.0.0a2, OpenID Connect implementation in Plone, 2018-07-20T17:00:57+0000
+/project/collective-debug/, collective.debug, 1.0a3, A Plone debug view for introspecting the current context, user, roles and instance dict, 2020-11-23T08:53:22+0000
+/project/nti-contentratings/, nti.contentratings, 1.2.0, A small Zope 3 package (which also works with Zope 2.10+ and Five) that allows you to attach ratings to content., 2021-04-13T18:03:38+0000
+/project/ideabox-restapi/, ideabox.restapi, 1.0b3, Rest service for ideabox, 2021-02-15T17:13:41+0000
+/project/rc-customcontent/, rc.customcontent, 1.0a2, An add-on for Plone that embeds the PDF in file view, 2018-11-19T17:27:21+0000
+/project/ftw-file/, ftw.file, 2.5.0, A file content type for gov usecases, 2020-11-10T15:10:30+0000
+/project/pp-client-plone/, pp.client-plone, 0.4.7, Produce & Publisher Plone Client Connector, 2018-01-19T15:04:57+0000
+/project/collective-pfg-signup/, collective.pfg.signup, 1.6.1, A PloneFormGen adapter that saves signup form, 2021-02-05T17:10:28+0000
+/project/collective-iamisearch/, collective.iamisearch, 1.1.1, Adds 'I am' and 'I search' dropdown menus in Plone, 2019-11-27T20:59:59+0000
+/project/plone-transformchain/, plone.transformchain, 2.0.2, Hook into repoze.zope2 that allows third party packages to register a sequence of hooks that will be allowed to modify the response before it is returned to the browser, 2020-04-22T21:28:35+0000
+/project/ftw-lawgiver/, ftw.lawgiver, 1.17.5, Generate your Plone workflows by describing it in plain text with a DSL., 2020-07-27T08:45:16+0000
+/project/bda-plone-gtm/, bda.plone.gtm, 1.0a1, Google Tag Manager Intergation, 2018-06-06T16:19:06+0000
+/project/cs-linguacopier/, cs.linguacopier, 1.1, Content-copier useful to copy basic content from one language-tree to another to start working with the whole content-tree, 2021-03-22T07:46:25+0000
+/project/cciaa-modulistica/, cciaa.modulistica, 3.0.1, An additional view for Plone folders, to improve management of repositories of files, 2020-03-06T11:47:15+0000
+/project/collective-mustread/, collective.mustread, 2.0.0, Tracking user views on content items marked as must-read, 2020-01-27T08:07:50+0000
+/project/collective-impersonate/, collective.impersonate, 1.3, Allow administrator to impersonate another user, for debugging purposes., 2020-10-06T23:07:56+0000

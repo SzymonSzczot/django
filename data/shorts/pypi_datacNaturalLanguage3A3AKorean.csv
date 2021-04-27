@@ -1,0 +1,148 @@
+/project/hannakageul/, hannakageul, 0.1.2, Hangeul - Kana encoding converter, 2017-04-09T16:19:03+0000
+/project/hangul-korean/, hangul-korean, 1.0rc2, Word segmentation for the Korean Language, 2021-01-20T08:29:57+0000
+/project/base30-korean/, base30-korean, 0.0.2, crockford base32를 한국어 실정에 맞게 변형한 base30, 2017-07-25T02:47:21+0000
+/project/flask-kinesis/, Flask-kinesis, 0.1.8, Flask plugin for aws kinesis stream, 2017-03-11T10:40:12+0000
+/project/koapy/, koapy, 0.3.4, Kiwoom Open Api Python, 2021-03-28T23:47:28+0000
+/project/hangul-utils/, hangul-utils, 0.4.5, An integrated library for Korean preprocessing., 2020-06-19T10:00:07+0000
+/project/ko-po-check/, ko-po-check, 0.98.0, Korean PO checker, 2018-08-23T04:23:58+0000
+/project/test-kkimj/, test-kkimj, 0.1.1, HC-SR04 Python module via Serial protocol, 2021-03-21T02:57:02+0000
+/project/kartrider/, KartRider, 0.6.0, KartRider Open API Python wrapper, 2020-11-27T14:03:08+0000
+/project/dismantler-python/, dismantler-python, 0.0.2, This module dismantles python code to parse tree, token, symbols and reproduces it to dictionary and string., 2018-07-16T08:10:22+0000
+/project/deeqnlpy/, deeqnlpy, 0.9.4, The deeq nlp python client library, 2021-03-07T02:45:07+0000
+/project/korean/, korean, 0.1.9, A library for Korean morphology, 2020-05-25T12:44:00+0000
+/project/kr-school-meal/, kr-school-meal, 0.0.2, Korea School Meal, 2020-03-23T11:04:30+0000
+/project/performancefuzzer/, PerformanceFuzzer, 0.0.3, PerformanceFuzzer, 2021-03-22T08:01:41+0000
+/project/nikl/, nikl, 1.1.0, Preprocess NIKL(National Institute of Korean Language) Corpus files, 2020-04-20T06:59:49+0000
+/project/hc-sr04/, HC-SR04, 0.3.1, HC-SR04 Python module via Serial protocol, 2021-03-22T15:34:44+0000
+/project/tcafe-attending-bot/, tcafe-attending-bot, 0.1.1, Auto attending bot for TCafe, 2019-12-05T15:51:27+0000
+/project/eacal/, eacal, 0.0.3, Python modules for accessing East Asia calendars (Sexagenary cycle, Solar term, etc.), 2015-05-17T06:14:41+0000
+/project/covid-vaccine-stat/, covid-vaccine-stat, 0.0.2,  공공데이터 포털 ( [data.go.kr](https://www.data.go.kr/) ) 에서 제공하는 코로나19 예방접종 실적 통계 데이터 조회 서비스 API Wrapper , 2021-03-31T09:29:50+0000
+/project/cjklib/, cjklib, 0.3.2, Han character library for CJKV languages, 2012-05-21T22:39:16+0000
+/project/quickspacer/, quickspacer, 1.0.4, Korean spacing correction model that aims for fast speed and moderate accuracy., 2020-11-26T14:15:10+0000
+/project/jetserve-standard-library-py/, jetserve-standard-library-py, 0.0.3, jetserve_standard_library_py is IN-HOUSE python standard library for jetserve development team.(team 1), 2021-03-03T08:50:19+0000
+/project/python-mecab-ko/, python-mecab-ko, 1.0.11, A python binding for mecab-ko, 2021-01-10T07:20:03+0000
+/project/smartformat-korean/, smartformat_korean, 0.0.5, SmartFormat extension for Korean, 2017-06-22T05:48:53+0000
+/project/djbver/, djbver, 0.0.2, djbver, 2020-06-18T11:49:15+0000
+/project/epostkr/, epostkr, 0.1, a client for epost.kr OpenAPI, 2012-03-17T17:20:40+0000
+/project/baruda/, baruda, 0.1.3, Fix and normalize Korean Jamo typos, 2020-04-04T18:01:32+0000
+/project/cjklib3/, cjklib3, 0.0.3, Han character library for CJKV languages, 2021-03-31T19:43:16+0000
+/project/xing-plus/, xing-plus, 1.0.2, more easy eBEST INVESTMENT API, 2016-03-02T16:25:16+0000
+/project/pangu/, pangu, 4.0.6.1, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-02-08T18:17:28+0000
+/project/twitter-korean/, twitter-korean, 0.1.0.dev527, Python port to the normalizer in https://github.com/twitter/twitter-korean-text, 2016-04-20T08:14:57+0000
+/project/pyko/, pyko, 0.4.2, Korean Text Processor, 2020-04-09T07:05:08+0000
+/project/twkorean/, twkorean, 0.1.5, Python interface to twitter-korean-text, a Korean morphological analyzer., 2014-12-21T13:48:04+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/wammu/, wammu, 0.44, Wammu Mobile Phone Manager, 2018-01-05T14:40:34+0000
+/project/kakaobot-py/, kakaobot.py, 1.1, API wrapper for Kakaotalk written in Python., 2018-08-27T06:02:25+0000
+/project/korean-school/, korean-school, 1.0, 이 파이썬 래퍼는 NEIS OpenAPI를 위하여 제작된 라이브러리 입니다., 2021-03-19T06:26:02+0000
+/project/chatterbox-py/, chatterbox.py, 0.2.5, Python library for Kakaotalk chatbot, 2018-07-27T04:37:16+0000
+/project/kotka/, kotka, 0.1.1, Korean Obfuscation ToolKit Advanced, 2020-07-26T09:59:01+0000
+/project/kornum/, korNum, 0.0.2.2, change Korean tex number <---> Arabian number, 2020-06-04T01:50:38+0000
+/project/mecab-ko-dic/, mecab-ko-dic, 1.0.0, mecab-ko-dic packaged for Python, 2021-02-19T20:41:22+0000
+/project/tispoon/, tispoon, 1.0.9, Tistory blogging library using open API, 2020-07-18T20:24:33+0000
+/project/korea-school-meal/, korea-school-meal, 0.0.1, Korea School Meal, 2020-03-23T10:32:29+0000
+/project/koach/, koach, 1.1.0, korean spell checker, 2016-11-15T13:04:01+0000
+/project/hypua2jamo/, hypua2jamo, 0.5.1, Convert Hanyang-PUA code to unicode Hangul Jamo, i.e., Syllable-Initial-Peak-Final Encoding (첫가끝 코드)., 2020-05-08T08:35:30+0000
+/project/uotp/, uotp, 0.4.0, μOTP+: The next generation OTP toolkit, 2017-12-23T11:22:37+0000
+/project/pykomoran/, PyKomoran, 0.1.5, PyKomoran is Python wrapper for KOMORAN, KOrean MORphical ANalyzer., 2019-04-18T15:44:07+0000
+/project/jjaljup/, jjaljup, 0.0.7, Downloads images in your favorite tweets., 2014-07-01T07:52:20+0000
+/project/open-korean-text-python/, open-korean-text-python, 1.0.0, Python interface to Open Korean Text Processor, 2017-12-06T16:09:46+0000
+/project/datahelper/, datahelper, 0.0.4, JavaScript lodash-style Python data utility library, 2018-12-24T03:32:20+0000
+/project/fasthangul/, fasthangul, 1.0.0a2, , 2020-05-14T15:16:03+0000
+/project/tossi/, tossi, 0.3.1, Supports Korean particles, 2018-01-23T11:27:44+0000
+/project/nforge-migration/, nforge-migration, 1.1.0.post2, Migrate nForge project to GitHub, 2016-11-21T07:37:27+0000
+/project/autowinpy/, autowinpy, 0.4.1, Foreground automation support for Windows OS, 2019-12-27T04:39:57+0000
+/project/turbolucene/, TurboLucene, 0.2.2, TurboLucene is a TurboGears extension that allows applications to easily use the PyLucene full-text search engine., 2007-05-17T02:10:23+0000
+/project/iso8583-module/, ISO8583-Module, 1.3, ISO8583 LIBRARY, 2013-10-07T13:09:18+0000
+/project/josa/, josa, 0.0.8, Appends the correct korean postposition, 2012-10-09T16:52:48+0000
+/project/pangu2/, pangu2, 5.0, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-08-02T07:48:50+0000
+/project/ninchanese-cjklib/, ninchanese-cjklib, 0.4.1, Han character library for CJKV languages, 2021-03-20T18:02:07+0000
+/project/hangul-jamo/, hangul-jamo, 1.0.0, A library to compose and decompose Hangul syllables using Hangul jamo characters, 2017-11-27T12:43:02+0000
+/project/docutils/, docutils, 0.17.1, Docutils -- Python Documentation Utilities, 2021-04-17T14:13:24+0000
+/project/jamotools/, jamotools, 0.1.10, A library for Korean Jamo split and vectorize., 2018-03-21T04:33:46+0000
+/project/openkoreantext/, OpenkoreanText, 0.2.6, Python interface to open-korean-text, a Korean morphological analyzer., 2017-09-05T23:21:43+0000
+/project/tekorrect/, tekorrect, 0.0.3, 用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。, 2020-01-09T07:32:08+0000
+/project/ideograph/, ideograph, 1.1.0, Tool for finding ideographic (e.g. Han) characters from their components, 2019-03-31T00:30:13+0000
+/project/usbserial/, USBSerial, 1.1.0, HC-USBSerial Python library via Serial protocol, using pySerial library as API, 2021-03-24T09:59:34+0000
+/project/polyglot/, polyglot, 16.7.4, Polyglot is a natural language pipeline that supports massive multilingual applications., 2016-07-03T20:05:40+0000
+/project/toclo/, toclo, 1.1.25, A todo list command line program in Python., 2018-06-05T15:46:44+0000
+/project/hangulize/, hangulize, 0.0.9, Korean Alphabet Transcription, 2017-04-18T23:56:27+0000
+/project/pyopendart/, pyopendart, 0.3.0, 전자공시시스템 DART 파이썬 API (for Humans), 2021-03-01T05:46:14+0000
+/project/koalanlp/, koalanlp, 2.1.6, Python wrapper for KoalaNLP, 2020-09-29T01:30:35+0000
+/project/klay4py/, klay4py, 0.3, KLAY4py is for python user considering to use KLAY., 2019-03-26T06:53:44+0000
+/project/mapsipy/, mapsipy, 2021.4.22.post3, MVVM UI Framework for Python and Brython, 2021-04-23T05:29:50+0000
+/project/krwftgen/, krwftgen, 0.1.1, Korean webfont generator using Google Fonts + Korean, 2019-07-27T15:28:34+0000
+/project/hannakageul/, hannakageul, 0.1.2, Hangeul - Kana encoding converter, 2017-04-09T16:19:03+0000
+/project/hangul-korean/, hangul-korean, 1.0rc2, Word segmentation for the Korean Language, 2021-01-20T08:29:57+0000
+/project/base30-korean/, base30-korean, 0.0.2, crockford base32를 한국어 실정에 맞게 변형한 base30, 2017-07-25T02:47:21+0000
+/project/koapy/, koapy, 0.3.4, Kiwoom Open Api Python, 2021-03-28T23:47:28+0000
+/project/hangul-utils/, hangul-utils, 0.4.5, An integrated library for Korean preprocessing., 2020-06-19T10:00:07+0000
+/project/ko-po-check/, ko-po-check, 0.98.0, Korean PO checker, 2018-08-23T04:23:58+0000
+/project/test-kkimj/, test-kkimj, 0.1.1, HC-SR04 Python module via Serial protocol, 2021-03-21T02:57:02+0000
+/project/kartrider/, KartRider, 0.6.0, KartRider Open API Python wrapper, 2020-11-27T14:03:08+0000
+/project/flask-kinesis/, Flask-kinesis, 0.1.8, Flask plugin for aws kinesis stream, 2017-03-11T10:40:12+0000
+/project/dismantler-python/, dismantler-python, 0.0.2, This module dismantles python code to parse tree, token, symbols and reproduces it to dictionary and string., 2018-07-16T08:10:22+0000
+/project/deeqnlpy/, deeqnlpy, 0.9.4, The deeq nlp python client library, 2021-03-07T02:45:07+0000
+/project/performancefuzzer/, PerformanceFuzzer, 0.0.3, PerformanceFuzzer, 2021-03-22T08:01:41+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/hc-sr04/, HC-SR04, 0.3.1, HC-SR04 Python module via Serial protocol, 2021-03-22T15:34:44+0000
+/project/tcafe-attending-bot/, tcafe-attending-bot, 0.1.1, Auto attending bot for TCafe, 2019-12-05T15:51:27+0000
+/project/quickspacer/, quickspacer, 1.0.4, Korean spacing correction model that aims for fast speed and moderate accuracy., 2020-11-26T14:15:10+0000
+/project/jetserve-standard-library-py/, jetserve-standard-library-py, 0.0.3, jetserve_standard_library_py is IN-HOUSE python standard library for jetserve development team.(team 1), 2021-03-03T08:50:19+0000
+/project/python-mecab-ko/, python-mecab-ko, 1.0.11, A python binding for mecab-ko, 2021-01-10T07:20:03+0000
+/project/korean-school/, korean-school, 1.0, 이 파이썬 래퍼는 NEIS OpenAPI를 위하여 제작된 라이브러리 입니다., 2021-03-19T06:26:02+0000
+/project/open-korean-text-python/, open-korean-text-python, 1.0.0, Python interface to Open Korean Text Processor, 2017-12-06T16:09:46+0000
+/project/hypua2jamo/, hypua2jamo, 0.5.1, Convert Hanyang-PUA code to unicode Hangul Jamo, i.e., Syllable-Initial-Peak-Final Encoding (첫가끝 코드)., 2020-05-08T08:35:30+0000
+/project/baruda/, baruda, 0.1.3, Fix and normalize Korean Jamo typos, 2020-04-04T18:01:32+0000
+/project/cjklib3/, cjklib3, 0.0.3, Han character library for CJKV languages, 2021-03-31T19:43:16+0000
+/project/xing-plus/, xing-plus, 1.0.2, more easy eBEST INVESTMENT API, 2016-03-02T16:25:16+0000
+/project/pangu/, pangu, 4.0.6.1, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-02-08T18:17:28+0000
+/project/korean/, korean, 0.1.9, A library for Korean morphology, 2020-05-25T12:44:00+0000
+/project/kr-school-meal/, kr-school-meal, 0.0.2, Korea School Meal, 2020-03-23T11:04:30+0000
+/project/twitter-korean/, twitter-korean, 0.1.0.dev527, Python port to the normalizer in https://github.com/twitter/twitter-korean-text, 2016-04-20T08:14:57+0000
+/project/pyko/, pyko, 0.4.2, Korean Text Processor, 2020-04-09T07:05:08+0000
+/project/twkorean/, twkorean, 0.1.5, Python interface to twitter-korean-text, a Korean morphological analyzer., 2014-12-21T13:48:04+0000
+/project/nikl/, nikl, 1.1.0, Preprocess NIKL(National Institute of Korean Language) Corpus files, 2020-04-20T06:59:49+0000
+/project/eacal/, eacal, 0.0.3, Python modules for accessing East Asia calendars (Sexagenary cycle, Solar term, etc.), 2015-05-17T06:14:41+0000
+/project/covid-vaccine-stat/, covid-vaccine-stat, 0.0.2,  공공데이터 포털 ( [data.go.kr](https://www.data.go.kr/) ) 에서 제공하는 코로나19 예방접종 실적 통계 데이터 조회 서비스 API Wrapper , 2021-03-31T09:29:50+0000
+/project/wammu/, wammu, 0.44, Wammu Mobile Phone Manager, 2018-01-05T14:40:34+0000
+/project/kakaobot-py/, kakaobot.py, 1.1, API wrapper for Kakaotalk written in Python., 2018-08-27T06:02:25+0000
+/project/cjklib/, cjklib, 0.3.2, Han character library for CJKV languages, 2012-05-21T22:39:16+0000
+/project/chatterbox-py/, chatterbox.py, 0.2.5, Python library for Kakaotalk chatbot, 2018-07-27T04:37:16+0000
+/project/kotka/, kotka, 0.1.1, Korean Obfuscation ToolKit Advanced, 2020-07-26T09:59:01+0000
+/project/kornum/, korNum, 0.0.2.2, change Korean tex number <---> Arabian number, 2020-06-04T01:50:38+0000
+/project/smartformat-korean/, smartformat_korean, 0.0.5, SmartFormat extension for Korean, 2017-06-22T05:48:53+0000
+/project/mecab-ko-dic/, mecab-ko-dic, 1.0.0, mecab-ko-dic packaged for Python, 2021-02-19T20:41:22+0000
+/project/tispoon/, tispoon, 1.0.9, Tistory blogging library using open API, 2020-07-18T20:24:33+0000
+/project/korea-school-meal/, korea-school-meal, 0.0.1, Korea School Meal, 2020-03-23T10:32:29+0000
+/project/djbver/, djbver, 0.0.2, djbver, 2020-06-18T11:49:15+0000
+/project/epostkr/, epostkr, 0.1, a client for epost.kr OpenAPI, 2012-03-17T17:20:40+0000
+/project/koach/, koach, 1.1.0, korean spell checker, 2016-11-15T13:04:01+0000
+/project/uotp/, uotp, 0.4.0, μOTP+: The next generation OTP toolkit, 2017-12-23T11:22:37+0000
+/project/pykomoran/, PyKomoran, 0.1.5, PyKomoran is Python wrapper for KOMORAN, KOrean MORphical ANalyzer., 2019-04-18T15:44:07+0000
+/project/jjaljup/, jjaljup, 0.0.7, Downloads images in your favorite tweets., 2014-07-01T07:52:20+0000
+/project/datahelper/, datahelper, 0.0.4, JavaScript lodash-style Python data utility library, 2018-12-24T03:32:20+0000
+/project/fasthangul/, fasthangul, 1.0.0a2, , 2020-05-14T15:16:03+0000
+/project/tossi/, tossi, 0.3.1, Supports Korean particles, 2018-01-23T11:27:44+0000
+/project/nforge-migration/, nforge-migration, 1.1.0.post2, Migrate nForge project to GitHub, 2016-11-21T07:37:27+0000
+/project/autowinpy/, autowinpy, 0.4.1, Foreground automation support for Windows OS, 2019-12-27T04:39:57+0000
+/project/turbolucene/, TurboLucene, 0.2.2, TurboLucene is a TurboGears extension that allows applications to easily use the PyLucene full-text search engine., 2007-05-17T02:10:23+0000
+/project/iso8583-module/, ISO8583-Module, 1.3, ISO8583 LIBRARY, 2013-10-07T13:09:18+0000
+/project/toclo/, toclo, 1.1.25, A todo list command line program in Python., 2018-06-05T15:46:44+0000
+/project/josa/, josa, 0.0.8, Appends the correct korean postposition, 2012-10-09T16:52:48+0000
+/project/pangu2/, pangu2, 5.0, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-08-02T07:48:50+0000
+/project/ninchanese-cjklib/, ninchanese-cjklib, 0.4.1, Han character library for CJKV languages, 2021-03-20T18:02:07+0000
+/project/krwftgen/, krwftgen, 0.1.1, Korean webfont generator using Google Fonts + Korean, 2019-07-27T15:28:34+0000
+/project/koalanlp/, koalanlp, 2.1.6, Python wrapper for KoalaNLP, 2020-09-29T01:30:35+0000
+/project/openkoreantext/, OpenkoreanText, 0.2.6, Python interface to open-korean-text, a Korean morphological analyzer., 2017-09-05T23:21:43+0000
+/project/tekorrect/, tekorrect, 0.0.3, 用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。, 2020-01-09T07:32:08+0000
+/project/ideograph/, ideograph, 1.1.0, Tool for finding ideographic (e.g. Han) characters from their components, 2019-03-31T00:30:13+0000
+/project/polyglot/, polyglot, 16.7.4, Polyglot is a natural language pipeline that supports massive multilingual applications., 2016-07-03T20:05:40+0000
+/project/toclo/, toclo, 1.1.25, A todo list command line program in Python., 2018-06-05T15:46:44+0000
+/project/docutils/, docutils, 0.17.1, Docutils -- Python Documentation Utilities, 2021-04-17T14:13:24+0000
+/project/fasthangul/, fasthangul, 1.0.0a2, , 2020-05-14T15:16:03+0000
+/project/tossi/, tossi, 0.3.1, Supports Korean particles, 2018-01-23T11:27:44+0000
+/project/nforge-migration/, nforge-migration, 1.1.0.post2, Migrate nForge project to GitHub, 2016-11-21T07:37:27+0000
+/project/autowinpy/, autowinpy, 0.4.1, Foreground automation support for Windows OS, 2019-12-27T04:39:57+0000
+/project/turbolucene/, TurboLucene, 0.2.2, TurboLucene is a TurboGears extension that allows applications to easily use the PyLucene full-text search engine., 2007-05-17T02:10:23+0000
+/project/iso8583-module/, ISO8583-Module, 1.3, ISO8583 LIBRARY, 2013-10-07T13:09:18+0000

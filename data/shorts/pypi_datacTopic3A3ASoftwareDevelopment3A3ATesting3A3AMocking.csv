@@ -1,0 +1,102 @@
+/project/decoy/, decoy, 1.2.0, Opinionated, typed stubbing and verification library for Python, 2021-01-05T23:29:37+0000
+/project/mock-protocol/, mock-protocol, 1.0.0, A unittest mock library than understands annotations, 2020-11-10T04:02:18+0000
+/project/stackuchin/, stackuchin, 1.6.0, CLI for Stackuchin - Automatically create, update and delete AWS CloudFormation stacks in multiple AWS accounts and regions at the same time, 2021-03-22T12:36:58+0000
+/project/django-mock-queries/, django-mock-queries, 2.1.6, A django library for mocking queryset functions in memory for testing, 2021-02-21T23:30:59+0000
+/project/pytest-simple-settings/, pytest-simple-settings, 0.1.5, simple-settings plugin for pytest, 2020-11-17T10:20:07+0000
+/project/ev3sim/, ev3sim, 2.1.6, Simulate ev3dev programs in Python, 2021-04-16T00:23:57+0000
+/project/flake8-patch/, flake8-patch, 0.1.0, A flake8 plugin checking for mocking issues., 2020-10-03T02:11:53+0000
+/project/expectise/, expectise, 1.0.1, Mocking API and function calls in Python - inspired by Ruby's RSpec-Mocks., 2020-12-28T22:58:05+0000
+/project/mockerena/, mockerena, 1.3.1, Self-hosting data mocking service, 2019-12-11T17:13:39+0000
+/project/esp32-machine-emulator/, esp32-machine-emulator, 1.1.3, esp32 machine package for test-driving code off-chip, 2019-08-27T18:26:29+0000
+/project/boto3-mocking/, boto3-mocking, 0.1.1, Simplify mocking AWS access through boto3, 2021-02-12T19:39:00+0000
+/project/advice/, advice, 0.1.0, Aspect-oriented programming, 2018-08-17T10:11:02+0000
+/project/chex/, chex, 0.0.6, Chex: Testing made fun, in JAX!, 2021-03-25T15:29:04+0000
+/project/dammy/, dammy, 1.1.0, Generate fake data for any purpose, 2020-02-26T09:20:20+0000
+/project/unittest-additions/, unittest-additions, 0.1.3, Additional features to extend python unittest and mock., 2019-02-20T04:35:50+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/specify/, specify, 0.0.9, A spec tool to describe your classes, 2019-02-14T18:33:47+0000
+/project/pytest-testslide/, pytest-testslide, 2.6.3, TestSlide fixture for pytest, 2021-01-07T15:59:09+0000
+/project/requests-asserts/, requests-asserts, 0.1.2, The library to help test your HTTP requests using unittests, 2019-11-09T18:29:29+0000
+/project/aop/, aop, 0.2.0, Aspect-oriented programming, 2018-08-20T11:36:38+0000
+/project/gomjabbar/, gomjabbar, 0.2.0, NGSPICE Code Model Testing, 2018-12-18T12:48:16+0000
+/project/pactman/, pactman, 2.28.0, Tools for creating and verifying consumer driven contracts using the Pact framework., 2020-05-10T00:50:11+0000
+/project/puaa/, puaa, 0.3.2, Python UAA test server, 2019-09-30T02:50:28+0000
+/project/loose-server/, loose-server, 1.0.0, Dynamically configurable server, 2019-06-08T09:54:26+0000
+/project/lobotomy/, lobotomy, 0.3.5, Boto3 low-level client mocking library., 2021-02-16T18:24:55+0000
+/project/nextmock/, nextmock, 0.0.1, NextMock is an enhanced mock for unittest.mock.Mock, 2021-01-31T07:48:58+0000
+/project/har-server/, har-server, 0.0.1, Programmable HTTP server for testing, 2018-12-23T19:37:01+0000
+/project/mimid/, mimid, 0.0.8, Modern mocking library for Python., 2020-12-02T23:16:32+0000
+/project/rallf/, rallf, 0.4.5, rallf.com Software Development Kit (SDK), 2019-03-14T11:57:00+0000
+/project/mimus/, mimus, 0.0.0, create mock service with ease, 2020-01-02T02:48:50+0000
+/project/prophepy/, prophepy, 0.0.4, Python mocks made for humans, 2019-02-14T18:32:04+0000
+/project/pytest-serverless/, pytest-serverless, 0.13.3, Automatically mocks resources from serverless.yml in pytest using moto., 2021-02-20T21:27:14+0000
+/project/sargilo/, sargilo, 0.1.7, 💾 Data loader for Humans, 2020-03-30T16:31:20+0000
+/project/unmock/, unmock, 0.1.2, The Unmock Python clent, 2019-04-09T12:25:40+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/pytest-localftpserver/, pytest-localftpserver, 1.1.2, A PyTest plugin which provides an FTP fixture for your tests, 2021-01-27T13:59:38+0000
+/project/async-solipsism/, async-solipsism, 0.2, Asyncio event loop that doesn't interact with the outside world, 2020-08-09T12:05:37+0000
+/project/django-skivvy/, django-skivvy, 0.1.12, Write faster integration tests for Django views – with less code., 2019-04-02T18:20:00+0000
+/project/testslide/, TestSlide, 2.6.3, A test framework for Python that makes mocking and iterating over code with tests a breeze, 2020-11-12T14:40:57+0000
+/project/mocktail/, mocktail, 0.0.4, Non-alcoholic Mockito-style when-then utilities for unittest.mock, 2020-08-19T07:36:56+0000
+/project/django-whatever/, django-whatever, 0.3.1, Unobtrusive test models creation for django., 2020-10-12T23:54:48+0000
+/project/aioresponses/, aioresponses, 0.7.2, Mock out requests made by ClientSession from aiohttp package, 2021-03-09T08:12:49+0000
+/project/pytruth/, pytruth, 1.1.0, Provides unittest assertions in a fluent style., 2020-02-28T18:49:16+0000
+/project/rethinkdb-mock/, rethinkdb-mock, 0.10.0, A pure-python in-memory mock of rethinkdb (formerly MockThink), 2021-03-03T14:17:07+0000
+/project/russian-names/, russian-names, 0.1.2, Russian names generator, 2019-04-23T11:12:13+0000
+/project/mock-aerohive/, mock-aerohive, 0.0.2, A mock SSH server emulating Aerohive devices, 2018-06-17T18:43:39+0000
+/project/elio-liar/, elio-liar, 1.0, A source of random but realistic looking data the elioWay., 2019-11-12T14:07:27+0000
+/project/cli-test-helpers/, cli-test-helpers, 1.0.1, Useful helpers for writing tests for your Python CLI program., 2019-10-28T22:02:25+0000
+/project/yamas/, yamas, 0.2.1, Yamas - Yet Another Mock API Server, 2019-11-07T07:00:15+0000
+/project/mockselector/, mockselector, 0.2.3, Mock subclass of BaseSelector, 2020-08-17T07:02:13+0000
+/project/rungutan/, rungutan, 1.8.0, CLI for Rungutan - the first API Load Testing SaaS platform worldwide, 100% Serverless, which  helps you simulate workflows to emulate user experience, so it's easier to design workflow oriented strategies., 2021-04-16T11:28:45+0000
+/project/decoy/, decoy, 1.2.0, Opinionated, typed stubbing and verification library for Python, 2021-01-05T23:29:37+0000
+/project/mock-protocol/, mock-protocol, 1.0.0, A unittest mock library than understands annotations, 2020-11-10T04:02:18+0000
+/project/stackuchin/, stackuchin, 1.6.0, CLI for Stackuchin - Automatically create, update and delete AWS CloudFormation stacks in multiple AWS accounts and regions at the same time, 2021-03-22T12:36:58+0000
+/project/django-mock-queries/, django-mock-queries, 2.1.6, A django library for mocking queryset functions in memory for testing, 2021-02-21T23:30:59+0000
+/project/pytest-simple-settings/, pytest-simple-settings, 0.1.5, simple-settings plugin for pytest, 2020-11-17T10:20:07+0000
+/project/ev3sim/, ev3sim, 2.1.6, Simulate ev3dev programs in Python, 2021-04-16T00:23:57+0000
+/project/flake8-patch/, flake8-patch, 0.1.0, A flake8 plugin checking for mocking issues., 2020-10-03T02:11:53+0000
+/project/expectise/, expectise, 1.0.1, Mocking API and function calls in Python - inspired by Ruby's RSpec-Mocks., 2020-12-28T22:58:05+0000
+/project/mockerena/, mockerena, 1.3.1, Self-hosting data mocking service, 2019-12-11T17:13:39+0000
+/project/esp32-machine-emulator/, esp32-machine-emulator, 1.1.3, esp32 machine package for test-driving code off-chip, 2019-08-27T18:26:29+0000
+/project/boto3-mocking/, boto3-mocking, 0.1.1, Simplify mocking AWS access through boto3, 2021-02-12T19:39:00+0000
+/project/advice/, advice, 0.1.0, Aspect-oriented programming, 2018-08-17T10:11:02+0000
+/project/chex/, chex, 0.0.6, Chex: Testing made fun, in JAX!, 2021-03-25T15:29:04+0000
+/project/dammy/, dammy, 1.1.0, Generate fake data for any purpose, 2020-02-26T09:20:20+0000
+/project/unittest-additions/, unittest-additions, 0.1.3, Additional features to extend python unittest and mock., 2019-02-20T04:35:50+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/specify/, specify, 0.0.9, A spec tool to describe your classes, 2019-02-14T18:33:47+0000
+/project/pytest-testslide/, pytest-testslide, 2.6.3, TestSlide fixture for pytest, 2021-01-07T15:59:09+0000
+/project/requests-asserts/, requests-asserts, 0.1.2, The library to help test your HTTP requests using unittests, 2019-11-09T18:29:29+0000
+/project/aop/, aop, 0.2.0, Aspect-oriented programming, 2018-08-20T11:36:38+0000
+/project/gomjabbar/, gomjabbar, 0.2.0, NGSPICE Code Model Testing, 2018-12-18T12:48:16+0000
+/project/pactman/, pactman, 2.28.0, Tools for creating and verifying consumer driven contracts using the Pact framework., 2020-05-10T00:50:11+0000
+/project/puaa/, puaa, 0.3.2, Python UAA test server, 2019-09-30T02:50:28+0000
+/project/loose-server/, loose-server, 1.0.0, Dynamically configurable server, 2019-06-08T09:54:26+0000
+/project/lobotomy/, lobotomy, 0.3.5, Boto3 low-level client mocking library., 2021-02-16T18:24:55+0000
+/project/nextmock/, nextmock, 0.0.1, NextMock is an enhanced mock for unittest.mock.Mock, 2021-01-31T07:48:58+0000
+/project/har-server/, har-server, 0.0.1, Programmable HTTP server for testing, 2018-12-23T19:37:01+0000
+/project/mimid/, mimid, 0.0.8, Modern mocking library for Python., 2020-12-02T23:16:32+0000
+/project/rallf/, rallf, 0.4.5, rallf.com Software Development Kit (SDK), 2019-03-14T11:57:00+0000
+/project/mimus/, mimus, 0.0.0, create mock service with ease, 2020-01-02T02:48:50+0000
+/project/prophepy/, prophepy, 0.0.4, Python mocks made for humans, 2019-02-14T18:32:04+0000
+/project/pytest-serverless/, pytest-serverless, 0.13.3, Automatically mocks resources from serverless.yml in pytest using moto., 2021-02-20T21:27:14+0000
+/project/sargilo/, sargilo, 0.1.7, 💾 Data loader for Humans, 2020-03-30T16:31:20+0000
+/project/cli-test-helpers/, cli-test-helpers, 1.0.1, Useful helpers for writing tests for your Python CLI program., 2019-10-28T22:02:25+0000
+/project/yamas/, yamas, 0.2.1, Yamas - Yet Another Mock API Server, 2019-11-07T07:00:15+0000
+/project/mock-aerohive/, mock-aerohive, 0.0.2, A mock SSH server emulating Aerohive devices, 2018-06-17T18:43:39+0000
+/project/django-whatever/, django-whatever, 0.3.1, Unobtrusive test models creation for django., 2020-10-12T23:54:48+0000
+/project/aioresponses/, aioresponses, 0.7.2, Mock out requests made by ClientSession from aiohttp package, 2021-03-09T08:12:49+0000
+/project/pytruth/, pytruth, 1.1.0, Provides unittest assertions in a fluent style., 2020-02-28T18:49:16+0000
+/project/rethinkdb-mock/, rethinkdb-mock, 0.10.0, A pure-python in-memory mock of rethinkdb (formerly MockThink), 2021-03-03T14:17:07+0000
+/project/mockselector/, mockselector, 0.2.3, Mock subclass of BaseSelector, 2020-08-17T07:02:13+0000
+/project/rungutan/, rungutan, 1.8.0, CLI for Rungutan - the first API Load Testing SaaS platform worldwide, 100% Serverless, which  helps you simulate workflows to emulate user experience, so it's easier to design workflow oriented strategies., 2021-04-16T11:28:45+0000
+/project/russian-names/, russian-names, 0.1.2, Russian names generator, 2019-04-23T11:12:13+0000
+/project/elio-liar/, elio-liar, 1.0, A source of random but realistic looking data the elioWay., 2019-11-12T14:07:27+0000
+/project/mocktail/, mocktail, 0.0.4, Non-alcoholic Mockito-style when-then utilities for unittest.mock, 2020-08-19T07:36:56+0000
+/project/async-solipsism/, async-solipsism, 0.2, Asyncio event loop that doesn't interact with the outside world, 2020-08-09T12:05:37+0000
+/project/django-skivvy/, django-skivvy, 0.1.12, Write faster integration tests for Django views – with less code., 2019-04-02T18:20:00+0000
+/project/testslide/, TestSlide, 2.6.3, A test framework for Python that makes mocking and iterating over code with tests a breeze, 2020-11-12T14:40:57+0000
+/project/unmock/, unmock, 0.1.2, The Unmock Python clent, 2019-04-09T12:25:40+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/pytest-localftpserver/, pytest-localftpserver, 1.1.2, A PyTest plugin which provides an FTP fixture for your tests, 2021-01-27T13:59:38+0000

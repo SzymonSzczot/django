@@ -1,0 +1,222 @@
+/project/zope-cooties/, zope.cooties, 40.5, Give the haters more to hate., 2013-07-29T20:13:41+0000
+/project/jslibs/, jslibs, 0.10, A package which does stuff with js libs, 2012-04-11T09:24:56+0000
+/project/itcase-sphinx-theme/, itcase-sphinx-theme, 0.3.1, ITCase Sphinx themes for documentation styling., 2017-10-05T08:26:43+0000
+/project/kotti-group-manager/, kotti-group-manager, 0.1.1.dev0, An add-on for Kotti that helps to manage groups, 2018-09-20T04:15:02+0000
+/project/kotti/, Kotti, 2.0.5, A high-level, Pythonic web application framework based on Pyramid and SQLAlchemy.  It includes an extensible Content Management System called the Kotti CMS., 2021-03-16T14:53:19+0000
+/project/guillotine/, guillotine, 0.1, A middleware for proper handling of HEAD requests., 2011-05-20T16:44:12+0000
+/project/pyramid-multildap/, pyramid-multildap, 0.2a6, pyramid_multildap, 2020-02-14T14:36:06+0000
+/project/pyramid-jinja2/, pyramid-jinja2, 2.8, Jinja2 template bindings for the Pyramid web framework, 2019-01-25T19:53:07+0000
+/project/gcurl/, Gcurl, 1.0, The descusr web application development framework, a gevent curl project, 2013-01-07T09:30:50+0000
+/project/aiopyramid/, aiopyramid, 0.4.1, Tools for running pyramid using asyncio., 2017-06-05T00:24:30+0000
+/project/kotti-pdf/, kotti_pdf, 0.4.3, PDF content type for Kotti, 2017-05-12T02:30:18+0000
+/project/pyramid-pystache/, pyramid_pystache, 0.2, Mustache template bindings using Pystache for the Pyramid web framework, 2015-05-24T00:16:24+0000
+/project/kotti-audit/, kotti-audit, 1.1.5, Audit Log for Kotti, 2020-03-24T20:56:51+0000
+/project/kotti-content-proxy/, kotti_content_proxy, 0.4.1, A content type that proxies other content in a Kotti site, 2016-01-11T12:59:54+0000
+/project/pyramid-handlers/, pyramid_handlers, 0.5, Pyramid handlers emulate Pylons 1 controllers, 2012-03-20T18:24:33+0000
+/project/sitesearcher/, sitesearcher, 0.1a2, A command line tool that creates fulltext search indexes of your favourite websites on your machine, and allows you to search them locally, 2016-09-05T21:31:07+0000
+/project/repoze-bfg-jinja2/, repoze.bfg.jinja2, 0.6, Jinja2 template bindings for repoze.bfg, 2009-11-30T18:15:51+0000
+/project/netaccess-perfmetrics/, netaccess_perfmetrics, 2.3, Send performance metrics about Python code to Statsd, 2015-10-22T05:29:52+0000
+/project/kotti-theme-sbadmin/, kotti_theme_sbadmin, 0.1.1, SB Admin theme for Kotti, 2016-10-24T08:43:17+0000
+/project/kotti-contenttypes/, kotti_contenttypes, 0.1.15, Additional content types for Kotti, 2017-10-06T06:41:49+0000
+/project/pyramid-chameleon/, pyramid_chameleon, 0.3, pyramid_chameleon, 2014-07-01T17:47:35+0000
+/project/substanced/, substanced, 1.0.post1, An application server built using Pyramid, 2018-11-09T19:58:34+0000
+/project/zodburi/, zodburi, 2.4.0, Construct ZODB storage instances from URIs., 2019-01-11T20:07:57+0000
+/project/pyramid-lawn/, pyramid_lawn, 1.1, Tell the kids to get off your lawn., 2016-07-14T15:19:33+0000
+/project/translationstring/, translationstring, 1.4, Utility library for i18n relied on by various Repoze and Pyramid packages, 2020-07-09T11:58:30+0000
+/project/kotti-solr/, kotti_solr, 0.1.1, Solr integration for Kotti, 2015-01-24T20:04:55+0000
+/project/pyramid-bpython/, pyramid_bpython, 0.1, pyramid bpython pshell, 2015-10-21T07:00:49+0000
+/project/kotti-migration/, kotti_migration, 0.1.3, Allow kotti content type to be imported and exported from a kotti site, 2017-05-23T01:38:51+0000
+/project/pylons-sphinx-themes/, pylons-sphinx-themes, 1.0.13, Sphinx themes for Pylons Project documentation., 2020-11-30T11:28:25+0000
+/project/kotti-backend/, kotti_backend, 0.2.0, Turns Kotti CMS into a private content administration area, 2015-07-08T21:21:30+0000
+/project/kotti-site-settings/, kotti_site_settings, 0.2.2, Add on for Kotti, 2016-06-16T08:38:51+0000
+/project/kotti-feed/, kotti_feed, 0.2, Add RSS feed generation to your Kotti site, 2015-01-24T19:58:13+0000
+/project/kemmering/, kemmering, 1.0.3, Super simple XMLish tags, 2017-08-08T20:53:50+0000
+/project/octomotron/, octomotron, 0.2, A tool for rapid deployment of multiple evluation copies of a web application based on different git branches., 2012-11-19T19:02:46+0000
+/project/kotti-navigation/, kotti_navigation, 0.5, Add a configurable navigation to your Kotti site, 2016-02-26T13:34:58+0000
+/project/pyramid-extdirect/, pyramid-extdirect, 0.6.1, ExtDirect Implementation for Pyramid, 2021-03-09T14:16:57+0000
+/project/pyramid-tm/, pyramid-tm, 2.4, A package which allows Pyramid requests to join the active transaction, 2020-01-06T16:12:13+0000
+/project/pyramid-layout/, pyramid_layout, 1.0, Pyramid add-on for facilitating UI layout, 2014-08-29T12:57:05+0000
+/project/kotti-docit/, kotti_docit, 1.0.0, Documentation site for your Kotti site, 2018-05-30T23:22:15+0000
+/project/deform/, deform, 2.0.15, Form library with advanced features like nested forms, 2020-12-10T12:40:05+0000
+/project/kotti-restful-api/, kotti_restful_api, 0.1.1, Restful API for Kotti, 2016-12-20T21:24:05+0000
+/project/churro/, churro, 1.0a3, Simple object persistence using JSON and AcidFS., 2013-03-14T15:12:08+0000
+/project/repoze-pgtextindex/, repoze.pgtextindex, 1.4, Text index for repoze.catalog based on PostgreSQL 8.4+, 2015-06-20T20:53:05+0000
+/project/acidfs/, acidfs, 1.0, ACID semantics for the filesystem., 2013-01-03T21:43:49+0000
+/project/pyramid-clamav/, pyramid-clamav, 0.7, A tween checking file uploads for viruses using clamav., 2020-01-10T19:16:11+0000
+/project/pylons-debugtoolbar/, pylons_debugtoolbar, 0.1.3, A package which provides an interactive HTML debugger for Pylons application development, 2012-10-29T07:14:26+0000
+/project/pyramid-ldap3/, pyramid-ldap3, 0.4.2, pyramid_ldap3, 2020-03-06T14:40:37+0000
+/project/pyramid-mako/, pyramid-mako, 1.1.0, Mako template bindings for the Pyramid web framework, 2019-08-18T23:47:53+0000
+/project/pyramid-amon/, pyramid_amon, 0.1, Pyramid add-on for Amon application and system monitoring toolkit., 2012-10-31T04:56:53+0000
+/project/kotti-paster/, kotti_paster, 0.2, Paster AddOn Template for Kotti, 2013-10-18T10:46:32+0000
+/project/pyramid-zodbconn/, pyramid_zodbconn, 0.8.1, Provide integration betwen Pyramid and ZODB, 2017-07-26T18:34:35+0000
+/project/kotti-media/, kotti_media, 0.6, Add media content to your Kotti site, 2014-11-11T11:42:40+0000
+/project/limone-zodb/, limone_zodb, 0.1a2, ZODB persistence for Limone content types., 2011-08-09T16:21:22+0000
+/project/kotti-etherpad/, kotti_etherpad, 0.4, Etherpad integration into your Kotti site, 2012-11-20T21:44:37+0000
+/project/pyramid-exclog/, pyramid_exclog, 1.0, A package which logs to a Python logger when an exception is raised by a Pyramid application, 2017-04-09T17:35:21+0000
+/project/slowlog/, slowlog, 0.9, Log and graph slow Pyramid and WSGI apps, 2012-09-22T18:00:20+0000
+/project/droplets/, droplets, 1.2.0, Library for building Ansible dynamic inventories for Digital Ocean., 2018-01-12T13:58:02+0000
+/project/pyramid-snippets/, pyramid_snippets, 0.2, UNKNOWN, 2012-05-25T10:48:57+0000
+/project/kotti-bootswatch/, kotti_bootswatch, 0.1.2, Kotti bootswatch theme / theme generator, 2014-12-31T10:06:31+0000
+/project/kotti-mapreduce/, kotti_mapreduce, 0.2.0, The MapReduce addon for Kotti sites, 2012-08-27T18:25:48+0000
+/project/drequests/, drequests, 1.3, The descusr web application development framework, a drequests project, 2013-01-08T02:56:23+0000
+/project/compoze/, compoze, 1.0, Build package indexes, 2013-02-10T16:23:03+0000
+/project/repoze-lru/, repoze.lru, 0.7, A tiny LRU cache implementation and decorator, 2017-09-07T05:01:00+0000
+/project/pyramid-ipython/, pyramid_ipython, 0.2, pyramid ipython pshell, 2016-07-26T15:28:35+0000
+/project/kotti-gallery/, kotti_gallery, 0.2.2, Add an image gallery to your Kotti site, 2013-02-18T16:08:10+0000
+/project/perfmetrics/, perfmetrics, 3.1.0, Send performance metrics about Python code to Statsd, 2021-02-04T18:26:25+0000
+/project/kotti-google-analytics/, kotti_google_analytics, 1.2.1, Google Analytics for Kotti, 2017-06-09T12:06:04+0000
+/project/kotti-util/, kotti_util, 0.1.2, Utilities for Kotti, 2017-12-21T08:03:55+0000
+/project/pyramid-basicauth/, pyramid_basicauth, 0.0, Pyramid plugin for HTTP Basic access authentication, 2012-01-06T19:54:00+0000
+/project/kotti-calendar/, kotti_calendar, 0.8.2, Add a calendar to your Kotti site, 2015-01-07T15:47:17+0000
+/project/kotti-blog/, kotti_blog, 0.4, Add a simple blog to your Kotti site, 2013-10-20T00:09:06+0000
+/project/pyramid-yards/, pyramid-yards, 0.16, Pyramid Request Parameter Validation, 2021-02-10T20:45:10+0000
+/project/pyramid-zcml/, pyramid-zcml, 1.2.0, Zope Config Markup Language support for Pyramid, 2019-01-09T20:58:18+0000
+/project/pyramid-openid/, pyramid-openid, 0.3.4, A view for pyramid that functions as an OpenID consumer., 2011-01-13T08:44:30+0000
+/project/kotti-lms-theme/, kotti_lms_theme, 0.1.4, LMS theme for Kotti, 2017-01-26T20:53:03+0000
+/project/zhtest/, zhtest, 1.0, The descusr web application development framework, a Pylons project, 2013-01-06T09:43:42+0000
+/project/kotti-image/, kotti-image, 2.0.0, Image content type for Kotti, 2020-11-20T16:12:46+0000
+/project/wwitzel-scaffolds/, wwitzel_scaffolds, 0.5, Custom scaffolds for the Pyramid web application development framework, 2013-09-25T19:47:10+0000
+/project/pyramid-csrf-multi-scheme/, pyramid-csrf-multi-scheme, 0.1.1, Provides for creating independent csrf tokens for the http and https schemes, 2021-03-26T17:08:35+0000
+/project/pydomain/, pydomain, 1.1, The descusr web application development framework, a Pylons project, 2013-01-07T07:56:48+0000
+/project/limone/, limone, 0.1a5, Content type system based on colander schemas., 2011-09-01T16:12:54+0000
+/project/pyramid-ldap/, pyramid_ldap, 0.3.1.post1, pyramid_ldap, 2018-05-15T21:23:59+0000
+/project/pyramid/, pyramid, 2.0, The Pyramid Web Framework, a Pylons project, 2021-03-01T03:27:45+0000
+/project/mypytest/, mypytest, 1.0, The descusr web application development framework, a Pylons project, 2013-01-06T07:12:10+0000
+/project/kotti-toolkit/, kotti-toolkit, 1.0.2, Utilities for Kotti, 2018-09-19T21:12:21+0000
+/project/pyramid-subscribers-beaker-https-session/, pyramid_subscribers_beaker_https_session, 0.1.2, provides for a 'session_https' secure session object, 2015-11-14T03:13:11+0000
+/project/repoze-bfg/, repoze.bfg, 1.3, The repoze.bfg web application framework, 2010-11-01T16:45:45+0000
+/project/kotti-socialbuttons/, kotti_socialbuttons, 0.1a3, Social media buttons add on for Kotti, 2016-07-21T13:37:04+0000
+/project/pyramid-asyncio/, pyramid-asyncio, 0.2, Pyramid Asyncio Glue, 2017-05-07T11:34:04+0000
+/project/pyloger/, pyloger, 1.0, The descusr web application development framework, a syslog project, 2013-01-07T08:35:43+0000
+/project/kotti-bstable/, kotti-bstable, 1.0.2, Bootstraptable for Kotti, 2020-03-24T08:48:55+0000
+/project/pyramid-debugtoolbar/, pyramid-debugtoolbar, 4.9, A package which provides an interactive HTML debugger for Pyramid application development, 2020-11-25T05:21:32+0000
+/project/pyramid-pycallgraph/, pyramid_pycallgraph, 0.1.0, Pyramid tween to generate a callgraph image for every request, 2015-12-21T11:44:24+0000
+/project/django-unisender/, django-unisender, 0.1.6, Django admin unisender integration, 2014-08-27T08:55:20+0000
+/project/repoze-bfg-mako/, repoze.bfg.mako, 0.3, Mako template bindings for repoze.bfg, 2010-09-19T13:57:50+0000
+/project/kotti-quiz/, kotti_quiz, 0.1, Quiz Content Type for Kotti, 2014-09-30T14:39:41+0000
+/project/pyramid-jqm/, pyramid_jqm, 0.3, a package which provides "starter" scaffolding for creating a jQuery Mobile Pyramid application., 2012-04-17T11:48:10+0000
+/project/kotti-gsd/, kotti_gsd, 0.1.0, Add Gitlab Service Desk to your Kotti site, 2017-05-31T22:45:04+0000
+/project/kotti-history/, kotti_history, 0.1.0, Add track the viewership and searches for the various contenttype in Kotti, 2017-01-06T18:23:24+0000
+/project/pyramid-nacl-session/, pyramid-nacl-session, 1.0.0, Encrypted session cookie serializer for Pyramid, 2020-08-17T23:10:54+0000
+/project/kotti-video/, kotti_video, 0.2, Add videos to your Kotti site, 2012-06-20T15:29:45+0000
+/project/kotti-survey/, kotti_survey, 0.2.8, PDF content type for Kotti, 2016-07-11T21:12:33+0000
+/project/kotti-controlpanel/, kotti_controlpanel, 1.0.9, Settings configuration for Kotti, 2017-06-09T07:19:30+0000
+/project/kotti-alert/, kotti-alert, 0.3.1, Alert content type for Kotti, 2019-09-18T19:14:35+0000
+/project/kotti-theme-readable/, kotti_theme_readable, 0.4, Readable theme from http://bootswatch.com/readable/ for Kotti, 2012-11-29T19:13:31+0000
+/project/pyramid-fas-openid/, pyramid-fas-openid, 0.4.0, A view for pyramid that functions as an OpenID consumer., 2020-10-27T16:06:45+0000
+/project/kotti-twitter/, kotti_twitter, 0.5, Add twitter widgets to your Kotti site, 2013-01-07T09:22:51+0000
+/project/pyramid-versionbadge/, pyramid_versionbadge, 0.3, A tween which renders a badge on the page indicating the version., 2018-12-03T09:06:46+0000
+/project/colander/, colander, 1.8.3, A simple schema-based serialization and deserialization library, 2020-11-28T21:19:34+0000
+/project/kotti-image-gallery/, kotti_image_gallery, 0.3.2, Add an image gallery to your Kotti site, 2012-05-04T09:29:14+0000
+/project/sphinx-links/, sphinx-links, 0.0.7, Added external links to Sphinx project as :l:`name of link`., 2017-09-18T05:08:53+0000
+/project/zope-cooties/, zope.cooties, 40.5, Give the haters more to hate., 2013-07-29T20:13:41+0000
+/project/pyramid-pystache/, pyramid_pystache, 0.2, Mustache template bindings using Pystache for the Pyramid web framework, 2015-05-24T00:16:24+0000
+/project/itcase-sphinx-theme/, itcase-sphinx-theme, 0.3.1, ITCase Sphinx themes for documentation styling., 2017-10-05T08:26:43+0000
+/project/kotti-group-manager/, kotti-group-manager, 0.1.1.dev0, An add-on for Kotti that helps to manage groups, 2018-09-20T04:15:02+0000
+/project/kotti/, Kotti, 2.0.5, A high-level, Pythonic web application framework based on Pyramid and SQLAlchemy.  It includes an extensible Content Management System called the Kotti CMS., 2021-03-16T14:53:19+0000
+/project/guillotine/, guillotine, 0.1, A middleware for proper handling of HEAD requests., 2011-05-20T16:44:12+0000
+/project/kotti-audit/, kotti-audit, 1.1.5, Audit Log for Kotti, 2020-03-24T20:56:51+0000
+/project/aiopyramid/, aiopyramid, 0.4.1, Tools for running pyramid using asyncio., 2017-06-05T00:24:30+0000
+/project/kotti-pdf/, kotti_pdf, 0.4.3, PDF content type for Kotti, 2017-05-12T02:30:18+0000
+/project/jslibs/, jslibs, 0.10, A package which does stuff with js libs, 2012-04-11T09:24:56+0000
+/project/kotti-content-proxy/, kotti_content_proxy, 0.4.1, A content type that proxies other content in a Kotti site, 2016-01-11T12:59:54+0000
+/project/pyramid-handlers/, pyramid_handlers, 0.5, Pyramid handlers emulate Pylons 1 controllers, 2012-03-20T18:24:33+0000
+/project/sitesearcher/, sitesearcher, 0.1a2, A command line tool that creates fulltext search indexes of your favourite websites on your machine, and allows you to search them locally, 2016-09-05T21:31:07+0000
+/project/pyramid-multildap/, pyramid-multildap, 0.2a6, pyramid_multildap, 2020-02-14T14:36:06+0000
+/project/pyramid-jinja2/, pyramid-jinja2, 2.8, Jinja2 template bindings for the Pyramid web framework, 2019-01-25T19:53:07+0000
+/project/gcurl/, Gcurl, 1.0, The descusr web application development framework, a gevent curl project, 2013-01-07T09:30:50+0000
+/project/kotti-restful-api/, kotti_restful_api, 0.1.1, Restful API for Kotti, 2016-12-20T21:24:05+0000
+/project/churro/, churro, 1.0a3, Simple object persistence using JSON and AcidFS., 2013-03-14T15:12:08+0000
+/project/kotti-theme-sbadmin/, kotti_theme_sbadmin, 0.1.1, SB Admin theme for Kotti, 2016-10-24T08:43:17+0000
+/project/kotti-contenttypes/, kotti_contenttypes, 0.1.15, Additional content types for Kotti, 2017-10-06T06:41:49+0000
+/project/pyramid-chameleon/, pyramid_chameleon, 0.3, pyramid_chameleon, 2014-07-01T17:47:35+0000
+/project/substanced/, substanced, 1.0.post1, An application server built using Pyramid, 2018-11-09T19:58:34+0000
+/project/zodburi/, zodburi, 2.4.0, Construct ZODB storage instances from URIs., 2019-01-11T20:07:57+0000
+/project/repoze-pgtextindex/, repoze.pgtextindex, 1.4, Text index for repoze.catalog based on PostgreSQL 8.4+, 2015-06-20T20:53:05+0000
+/project/pyramid-lawn/, pyramid_lawn, 1.1, Tell the kids to get off your lawn., 2016-07-14T15:19:33+0000
+/project/acidfs/, acidfs, 1.0, ACID semantics for the filesystem., 2013-01-03T21:43:49+0000
+/project/pyramid-clamav/, pyramid-clamav, 0.7, A tween checking file uploads for viruses using clamav., 2020-01-10T19:16:11+0000
+/project/pylons-debugtoolbar/, pylons_debugtoolbar, 0.1.3, A package which provides an interactive HTML debugger for Pylons application development, 2012-10-29T07:14:26+0000
+/project/pyramid-ldap3/, pyramid-ldap3, 0.4.2, pyramid_ldap3, 2020-03-06T14:40:37+0000
+/project/translationstring/, translationstring, 1.4, Utility library for i18n relied on by various Repoze and Pyramid packages, 2020-07-09T11:58:30+0000
+/project/kotti-solr/, kotti_solr, 0.1.1, Solr integration for Kotti, 2015-01-24T20:04:55+0000
+/project/pyramid-amon/, pyramid_amon, 0.1, Pyramid add-on for Amon application and system monitoring toolkit., 2012-10-31T04:56:53+0000
+/project/kotti-paster/, kotti_paster, 0.2, Paster AddOn Template for Kotti, 2013-10-18T10:46:32+0000
+/project/pyramid-zodbconn/, pyramid_zodbconn, 0.8.1, Provide integration betwen Pyramid and ZODB, 2017-07-26T18:34:35+0000
+/project/kotti-media/, kotti_media, 0.6, Add media content to your Kotti site, 2014-11-11T11:42:40+0000
+/project/pyramid-extdirect/, pyramid-extdirect, 0.6.1, ExtDirect Implementation for Pyramid, 2021-03-09T14:16:57+0000
+/project/compoze/, compoze, 1.0, Build package indexes, 2013-02-10T16:23:03+0000
+/project/pyramid-tm/, pyramid-tm, 2.4, A package which allows Pyramid requests to join the active transaction, 2020-01-06T16:12:13+0000
+/project/pyramid-layout/, pyramid_layout, 1.0, Pyramid add-on for facilitating UI layout, 2014-08-29T12:57:05+0000
+/project/repoze-bfg-jinja2/, repoze.bfg.jinja2, 0.6, Jinja2 template bindings for repoze.bfg, 2009-11-30T18:15:51+0000
+/project/netaccess-perfmetrics/, netaccess_perfmetrics, 2.3, Send performance metrics about Python code to Statsd, 2015-10-22T05:29:52+0000
+/project/kotti-docit/, kotti_docit, 1.0.0, Documentation site for your Kotti site, 2018-05-30T23:22:15+0000
+/project/deform/, deform, 2.0.15, Form library with advanced features like nested forms, 2020-12-10T12:40:05+0000
+/project/pyramid-bpython/, pyramid_bpython, 0.1, pyramid bpython pshell, 2015-10-21T07:00:49+0000
+/project/kotti-migration/, kotti_migration, 0.1.3, Allow kotti content type to be imported and exported from a kotti site, 2017-05-23T01:38:51+0000
+/project/pylons-sphinx-themes/, pylons-sphinx-themes, 1.0.13, Sphinx themes for Pylons Project documentation., 2020-11-30T11:28:25+0000
+/project/kotti-backend/, kotti_backend, 0.2.0, Turns Kotti CMS into a private content administration area, 2015-07-08T21:21:30+0000
+/project/pyramid-mako/, pyramid-mako, 1.1.0, Mako template bindings for the Pyramid web framework, 2019-08-18T23:47:53+0000
+/project/kotti-site-settings/, kotti_site_settings, 0.2.2, Add on for Kotti, 2016-06-16T08:38:51+0000
+/project/limone-zodb/, limone_zodb, 0.1a2, ZODB persistence for Limone content types., 2011-08-09T16:21:22+0000
+/project/kotti-etherpad/, kotti_etherpad, 0.4, Etherpad integration into your Kotti site, 2012-11-20T21:44:37+0000
+/project/pyramid-exclog/, pyramid_exclog, 1.0, A package which logs to a Python logger when an exception is raised by a Pyramid application, 2017-04-09T17:35:21+0000
+/project/slowlog/, slowlog, 0.9, Log and graph slow Pyramid and WSGI apps, 2012-09-22T18:00:20+0000
+/project/droplets/, droplets, 1.2.0, Library for building Ansible dynamic inventories for Digital Ocean., 2018-01-12T13:58:02+0000
+/project/kotti-feed/, kotti_feed, 0.2, Add RSS feed generation to your Kotti site, 2015-01-24T19:58:13+0000
+/project/kemmering/, kemmering, 1.0.3, Super simple XMLish tags, 2017-08-08T20:53:50+0000
+/project/pyramid-snippets/, pyramid_snippets, 0.2, UNKNOWN, 2012-05-25T10:48:57+0000
+/project/kotti-bootswatch/, kotti_bootswatch, 0.1.2, Kotti bootswatch theme / theme generator, 2014-12-31T10:06:31+0000
+/project/kotti-mapreduce/, kotti_mapreduce, 0.2.0, The MapReduce addon for Kotti sites, 2012-08-27T18:25:48+0000
+/project/octomotron/, octomotron, 0.2, A tool for rapid deployment of multiple evluation copies of a web application based on different git branches., 2012-11-19T19:02:46+0000
+/project/kotti-navigation/, kotti_navigation, 0.5, Add a configurable navigation to your Kotti site, 2016-02-26T13:34:58+0000
+/project/drequests/, drequests, 1.3, The descusr web application development framework, a drequests project, 2013-01-08T02:56:23+0000
+/project/repoze-lru/, repoze.lru, 0.7, A tiny LRU cache implementation and decorator, 2017-09-07T05:01:00+0000
+/project/kotti-gallery/, kotti_gallery, 0.2.2, Add an image gallery to your Kotti site, 2013-02-18T16:08:10+0000
+/project/perfmetrics/, perfmetrics, 3.1.0, Send performance metrics about Python code to Statsd, 2021-02-04T18:26:25+0000
+/project/kotti-google-analytics/, kotti_google_analytics, 1.2.1, Google Analytics for Kotti, 2017-06-09T12:06:04+0000
+/project/kotti-util/, kotti_util, 0.1.2, Utilities for Kotti, 2017-12-21T08:03:55+0000
+/project/pyramid-basicauth/, pyramid_basicauth, 0.0, Pyramid plugin for HTTP Basic access authentication, 2012-01-06T19:54:00+0000
+/project/pyramid-ipython/, pyramid_ipython, 0.2, pyramid ipython pshell, 2016-07-26T15:28:35+0000
+/project/kotti-calendar/, kotti_calendar, 0.8.2, Add a calendar to your Kotti site, 2015-01-07T15:47:17+0000
+/project/kotti-blog/, kotti_blog, 0.4, Add a simple blog to your Kotti site, 2013-10-20T00:09:06+0000
+/project/pyramid-yards/, pyramid-yards, 0.16, Pyramid Request Parameter Validation, 2021-02-10T20:45:10+0000
+/project/pyramid-zcml/, pyramid-zcml, 1.2.0, Zope Config Markup Language support for Pyramid, 2019-01-09T20:58:18+0000
+/project/pyramid-openid/, pyramid-openid, 0.3.4, A view for pyramid that functions as an OpenID consumer., 2011-01-13T08:44:30+0000
+/project/kotti-lms-theme/, kotti_lms_theme, 0.1.4, LMS theme for Kotti, 2017-01-26T20:53:03+0000
+/project/zhtest/, zhtest, 1.0, The descusr web application development framework, a Pylons project, 2013-01-06T09:43:42+0000
+/project/kotti-image/, kotti-image, 2.0.0, Image content type for Kotti, 2020-11-20T16:12:46+0000
+/project/wwitzel-scaffolds/, wwitzel_scaffolds, 0.5, Custom scaffolds for the Pyramid web application development framework, 2013-09-25T19:47:10+0000
+/project/pyramid-csrf-multi-scheme/, pyramid-csrf-multi-scheme, 0.1.1, Provides for creating independent csrf tokens for the http and https schemes, 2021-03-26T17:08:35+0000
+/project/pydomain/, pydomain, 1.1, The descusr web application development framework, a Pylons project, 2013-01-07T07:56:48+0000
+/project/limone/, limone, 0.1a5, Content type system based on colander schemas., 2011-09-01T16:12:54+0000
+/project/pyramid-ldap/, pyramid_ldap, 0.3.1.post1, pyramid_ldap, 2018-05-15T21:23:59+0000
+/project/pyramid/, pyramid, 2.0, The Pyramid Web Framework, a Pylons project, 2021-03-01T03:27:45+0000
+/project/mypytest/, mypytest, 1.0, The descusr web application development framework, a Pylons project, 2013-01-06T07:12:10+0000
+/project/kotti-toolkit/, kotti-toolkit, 1.0.2, Utilities for Kotti, 2018-09-19T21:12:21+0000
+/project/pyramid-subscribers-beaker-https-session/, pyramid_subscribers_beaker_https_session, 0.1.2, provides for a 'session_https' secure session object, 2015-11-14T03:13:11+0000
+/project/repoze-bfg/, repoze.bfg, 1.3, The repoze.bfg web application framework, 2010-11-01T16:45:45+0000
+/project/kotti-socialbuttons/, kotti_socialbuttons, 0.1a3, Social media buttons add on for Kotti, 2016-07-21T13:37:04+0000
+/project/pyramid-asyncio/, pyramid-asyncio, 0.2, Pyramid Asyncio Glue, 2017-05-07T11:34:04+0000
+/project/pyloger/, pyloger, 1.0, The descusr web application development framework, a syslog project, 2013-01-07T08:35:43+0000
+/project/kotti-bstable/, kotti-bstable, 1.0.2, Bootstraptable for Kotti, 2020-03-24T08:48:55+0000
+/project/pyramid-debugtoolbar/, pyramid-debugtoolbar, 4.9, A package which provides an interactive HTML debugger for Pyramid application development, 2020-11-25T05:21:32+0000
+/project/pyramid-pycallgraph/, pyramid_pycallgraph, 0.1.0, Pyramid tween to generate a callgraph image for every request, 2015-12-21T11:44:24+0000
+/project/django-unisender/, django-unisender, 0.1.6, Django admin unisender integration, 2014-08-27T08:55:20+0000
+/project/repoze-bfg-mako/, repoze.bfg.mako, 0.3, Mako template bindings for repoze.bfg, 2010-09-19T13:57:50+0000
+/project/kotti-quiz/, kotti_quiz, 0.1, Quiz Content Type for Kotti, 2014-09-30T14:39:41+0000
+/project/pyramid-jqm/, pyramid_jqm, 0.3, a package which provides "starter" scaffolding for creating a jQuery Mobile Pyramid application., 2012-04-17T11:48:10+0000
+/project/kotti-gsd/, kotti_gsd, 0.1.0, Add Gitlab Service Desk to your Kotti site, 2017-05-31T22:45:04+0000
+/project/kotti-history/, kotti_history, 0.1.0, Add track the viewership and searches for the various contenttype in Kotti, 2017-01-06T18:23:24+0000
+/project/pyramid-nacl-session/, pyramid-nacl-session, 1.0.0, Encrypted session cookie serializer for Pyramid, 2020-08-17T23:10:54+0000
+/project/repoze-bfg/, repoze.bfg, 1.3, The repoze.bfg web application framework, 2010-11-01T16:45:45+0000
+/project/kotti-socialbuttons/, kotti_socialbuttons, 0.1a3, Social media buttons add on for Kotti, 2016-07-21T13:37:04+0000
+/project/pyramid-asyncio/, pyramid-asyncio, 0.2, Pyramid Asyncio Glue, 2017-05-07T11:34:04+0000
+/project/pyramid-zcml/, pyramid-zcml, 1.2.0, Zope Config Markup Language support for Pyramid, 2019-01-09T20:58:18+0000
+/project/pyramid-openid/, pyramid-openid, 0.3.4, A view for pyramid that functions as an OpenID consumer., 2011-01-13T08:44:30+0000
+/project/kotti-lms-theme/, kotti_lms_theme, 0.1.4, LMS theme for Kotti, 2017-01-26T20:53:03+0000
+/project/zhtest/, zhtest, 1.0, The descusr web application development framework, a Pylons project, 2013-01-06T09:43:42+0000
+/project/kotti-image/, kotti-image, 2.0.0, Image content type for Kotti, 2020-11-20T16:12:46+0000
+/project/wwitzel-scaffolds/, wwitzel_scaffolds, 0.5, Custom scaffolds for the Pyramid web application development framework, 2013-09-25T19:47:10+0000
+/project/pyramid-csrf-multi-scheme/, pyramid-csrf-multi-scheme, 0.1.1, Provides for creating independent csrf tokens for the http and https schemes, 2021-03-26T17:08:35+0000
+/project/pydomain/, pydomain, 1.1, The descusr web application development framework, a Pylons project, 2013-01-07T07:56:48+0000

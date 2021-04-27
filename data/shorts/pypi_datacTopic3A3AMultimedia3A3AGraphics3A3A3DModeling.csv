@@ -1,0 +1,218 @@
+/project/entente/, entente, 0.11.0, Work with polygonal meshes which have vertex-wise correspondence, 2019-12-05T19:28:07+0000
+/project/vg/, vg, 1.9.0, Linear algebra for humans: a very good vector-geometry and linear-algebra toolbelt, 2020-06-04T21:15:03+0000
+/project/gumby/, gumby, 0.4.0, Stretch polygonal meshes in segments along an axis, 2018-09-10T06:09:32+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/glglue/, glglue, 1.1.0, The glue code which mediates between OpenGL and some GUI, 2019-08-23T23:41:25+0000
+/project/wire-skin/, wire-skin, 0.3, Construct a simple skin around a wire frame mesh in Blender., 2019-11-05T03:09:34+0000
+/project/bpy-optix/, bpy-optix, 2.82, Blender with Optix support as a python module, 2020-06-23T23:59:22+0000
+/project/ivisual/, IVisual, 0.2.88, VPython visual inline for IPython Notebook, 2016-02-10T21:40:36+0000
+/project/tangible/, tangible, 0.2.2, A Python library to convert data into tangible 3D models., 2013-12-21T15:05:49+0000
+/project/polliwog/, polliwog, 0.12.0, 2D and 3D computational geometry library which scales from prototyping to production, 2019-11-26T00:30:40+0000
+/project/vmf-tool/, vmf-tool, 0.1.0, A library for interpreting & editing .vmf files, 2020-10-03T22:45:09+0000
+/project/pyfastnoisesimd/, pyfastnoisesimd, 0.4.2, Python Fast Noise with SIMD, 2021-03-31T03:34:28+0000
+/project/bpy-cuda/, bpy-cuda, 2.82, Blender with CUDA support as a python module, 2020-06-23T23:39:34+0000
+/project/pyformex/, pyformex, 0.9.0, program to create 3D geometry from Python scripts., 2013-06-04T08:17:01+0000
+/project/moltemplate/, moltemplate, 2.19.8, A general cross-platform text-based molecule builder for LAMMPS, 2021-04-09T03:04:44+0000
+/project/zmesh/, zmesh, 0.5.0, Multilabel marching cubes and simplification of volumetric data., 2021-04-19T19:22:06+0000
+/project/pylo/, pylo, 0.91.2, Large-scale Visualization Data Storage, 2010-01-31T13:53:11+0000
+/project/kymatio/, kymatio, 0.2.0, Wavelet scattering transforms in Python with GPU acceleration, 2020-03-17T02:37:04+0000
+/project/maxpytest/, maxpytest, 1.0.3, Command line utility for using the Pytest testing framework in 3ds Max, 2019-02-24T13:22:27+0000
+/project/morphsnakes/, morphsnakes, 2.0.1, Morphological Snakes, 2018-10-14T11:41:45+0000
+/project/previz/, previz, 1.0.2, Previz REST API python wrapper, 2018-02-26T13:25:00+0000
+/project/nomenclate/, nomenclate, 2.4.4, A tool for generating strings based on a preset naming convention., 2018-04-03T21:13:21+0000
+/project/moderngl-beta/, ModernGL-beta, 5.0.2, ModernGL: PyOpenGL alternative, 2017-11-21T05:42:23+0000
+/project/ldraw/, ldraw, 0.11, A package for creating LDraw format files., 2008-07-13T15:41:37+0000
+/project/fake-bpy-module-2-83/, fake-bpy-module-2.83, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:06+0000
+/project/fake-bpy-module-2-79/, fake-bpy-module-2.79, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:06+0000
+/project/pypcd/, pypcd, 0.1.1, Read and write PCL .pcd files in python., 2018-03-16T03:52:07+0000
+/project/islpy/, islpy, 2021.1, Wrapper around isl, an integer set library, 2021-04-07T20:45:35+0000
+/project/argus-gui/, argus-gui, 2.1.dev3, Tools for 3D camera calibration and reconstruction with graphical user interfaces, 2019-02-19T14:36:08+0000
+/project/cqparts/, cqparts, 0.2.1, Hierarchical and deeply parametric models using cadquery, 2018-05-30T12:21:35+0000
+/project/hobart-svg/, hobart-svg, 0.4.1, Render polygons, polylines, and mesh cross sections to SVG, 2020-12-07T20:50:20+0000
+/project/bpy-build/, bpy-build, 2.1.0, Find Blender sources in version control, create build scripts, 2020-11-18T02:01:27+0000
+/project/genproctrees/, GenProcTrees, 0.0.1.dev1, Procedurally generate semi-realistic trees, 2018-04-22T13:25:56+0000
+/project/qr2scad/, qr2scad, 0.7.2, QR code to OpenSCAD converter, 2013-07-20T20:57:47+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/img2scad/, img2scad, 0.4, Image to OpenSCAD converter, 2014-10-18T18:38:51+0000
+/project/sketchfab/, sketchfab, 0.0.8, Sketchfab client, 2019-10-23T22:14:48+0000
+/project/pymeshio/, pymeshio, 3.0.1, 3d model io library for mqo, pmd, pmx, vmd and vpd, 2017-12-30T18:49:40+0000
+/project/pi3d/, pi3d, 2.44, pi3d OpenGLES2 3D graphics library, 2021-03-30T13:06:43+0000
+/project/argus/, argus, 0.0.11, Helper routines for using multiple, inexpensive calibrated and synchronized cameras for 3D scientific use., 2019-03-01T20:22:20+0000
+/project/vmi/, vmi, 0.6.15, Visual Medical Innovation powered by WANGYiping, 2021-03-09T08:15:24+0000
+/project/proximity/, proximity, 0.2.0, Simple scenegraph for quickly debugging 3D meshes, polylines, and points, 2020-12-09T00:22:20+0000
+/project/pymcubes/, PyMCubes, 0.1.2, Marching cubes for Python, 2020-09-05T15:18:04+0000
+/project/gcodeutils/, gcodeutils, 1.3.2, Reprap oriented gcode utilities, 2016-06-20T15:44:00+0000
+/project/fake-bpy-module-2-80/, fake-bpy-module-2.80, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:09+0000
+/project/bpy/, bpy, 2.82.1, Blender as a python module, 2020-06-27T22:45:41+0000
+/project/vtk/, vtk, 9.0.1, VTK is an open-source toolkit for 3D computer graphics, image processing, and visualization, 2020-06-24T17:36:11+0000
+/project/lacecore/, lacecore, 0.8.0, Polygonal mesh library optimized for cloud computation., 2021-03-23T22:49:35+0000
+/project/flat/, Flat, 0.3.2, Generative infrastructure for Python, 2020-08-30T22:07:20+0000
+/project/chunky3d/, chunky3d, 0.1.5, A 3D array-like NumPy-based data structure for large sparsely-populated volumes, 2020-12-31T18:16:35+0000
+/project/co2tools/, co2tools, 0.1.1, Easily automate generating 3D models from DXF files and merge DXF files for CO2 laser cutting, 2021-03-01T04:36:21+0000
+/project/open3d/, open3d, 0.12.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-25T00:12:28+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/pyhesive/, pyhesive, 0.2.3, Insert cohesive elements into any mesh, 2021-04-14T03:12:32+0000
+/project/psivisual/, PsiVisual, 0.1.08, Test Stuff, 2014-08-24T20:44:55+0000
+/project/seam-erasure/, seam-erasure, 1.0.5, Seamlessly erase seams from your favorite 3D models., 2020-01-29T17:53:28+0000
+/project/pyscad/, PySCAD, 0.1, Python based OpenSCAD framework, 2015-07-14T17:23:28+0000
+/project/hobart/, hobart, 0.2.1, Render polygons, polylines, and mesh cross sections to SVG, 2019-12-05T21:49:53+0000
+/project/pymetis/, PyMetis, 2020.1, A Graph Partitioning Package, 2020-08-23T18:31:45+0000
+/project/vpython/, vpython, 7.6.1, VPython for Jupyter Notebook, 2020-02-18T04:12:38+0000
+/project/fake-bge-module-0-2-5/, fake-bge-module-0.2.5, 20200804, Collection of the fake Blender Game Engine (BGE) Python API module for the code completion., 2020-08-04T08:34:31+0000
+/project/tessagon/, tessagon, 0.6, Tessellate your favorite 2D manifolds with triangles, hexagons, and other interesting patterns., 2019-11-06T03:19:59+0000
+/project/open3d-python/, open3d-python, 0.7.0.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2019-06-06T21:45:31+0000
+/project/pystl/, pystl, 0.1.1, Simple Python package to write STL files for 3D printing., 2016-07-08T06:16:56+0000
+/project/admesh/, admesh, 0.98.9, Python bindings for ADMesh, STL maipulation library, 2018-06-24T18:19:57+0000
+/project/cqparts-misc/, cqparts-misc, 0.1.0, Miscelaneous content library for cqparts, 2018-03-19T10:40:31+0000
+/project/fake-blender-api-2-79/, fake-blender-api-2.79, 0.3.1, Fake Blender 2.79 Python API for code completion, including BGE, 2020-04-24T00:00:28+0000
+/project/height2obj/, height2obj, 0.9.0, Converts heightmap to 3d mesh., 2018-09-18T07:24:26+0000
+/project/fake-bpy-module-2-90/, fake-bpy-module-2.90, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:03+0000
+/project/cqparts-fasteners/, cqparts-fasteners, 0.1.0, Nuts, Bolts and Screws content library for cqparts, 2018-03-19T09:17:33+0000
+/project/py-fbx/, py-fbx, 0.1.1, A simple-to-use Python wrapper for FBX, now with included libraries for even less setup (Windows 32 bit Only :( ), 2020-05-28T13:25:22+0000
+/project/fake-bpy-module-2-82/, fake-bpy-module-2.82, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:56+0000
+/project/cqparts-bearings/, cqparts-bearings, 0.1.0, Bearings content library for cqparts, 2018-03-19T02:33:21+0000
+/project/splipy/, Splipy, 1.4.0, Spline modelling library for Python, 2020-03-31T08:51:20+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/pytinyexr/, pytinyexr, 0.9.1, Python bindings for TinyEXR(OpenEXR loader/saver), 2020-04-26T11:50:01+0000
+/project/cloudviewer/, cloudViewer, 0.3.7, ['cloudViewer is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-16T05:46:07+0000
+/project/ivisual-alt/, IVisual-alt, 0.2.4, VPython visual inline for IPython Notebook, 2015-09-23T05:22:35+0000
+/project/pyvisfile/, pyvisfile, 2021.1, Large-scale Visualization Data Storage, 2021-03-10T18:57:08+0000
+/project/trianglepy/, trianglepy, 0.0.7, Triangular Mesh Generator, 2018-03-13T04:12:00+0000
+/project/df3tools/, df3tools, 0.1.0, Tools to convert Pov-Ray DF3 files to set of images and vice versa, 2017-12-03T16:53:58+0000
+/project/octadist/, octadist, 3.0.0, OctaDist: A tool for calculating distortion parameters in molecule., 2021-03-08T22:52:18+0000
+/project/pyprt/, PyPRT, 1.2.0, Python bindings for the "Procedural Runtime" (PRT) of CityEngine by Esri., 2020-11-30T15:08:29+0000
+/project/dxf/, dxf, 1.1.1, Python library to generate DXF drawing files (CAD), 2011-04-10T14:24:26+0000
+/project/pyffi/, PyFFI, 2.2.3, Processing block structured binary files., 2018-09-23T14:59:55+0000
+/project/sba/, sba, 1.6.8, wrapper for Lourakis' sparse bundle adjustment C library, 2017-08-08T22:22:43+0000
+/project/bpycv/, bpycv, 0.2.39, Computer vision utils for Blender., 2021-04-16T07:24:27+0000
+/project/vfxwindow/, vfxwindow, 1.6.1, Qt window class for designing tools to be compatible between multiple VFX programs., 2021-02-11T17:57:40+0000
+/project/gltf/, gltf, 0.7.2, Load, modify, and save GLTF files., 2021-03-10T23:31:07+0000
+/project/openscad-runner/, openscad-runner, 1.0.9, A Python library to interface with the OpenSCAD app., 2021-04-13T03:42:59+0000
+/project/tri-again/, tri-again, 0.1.4, Simple scenegraph for quickly debugging 3D meshes, polylines, and points, 2020-12-07T20:54:48+0000
+/project/fake-bpy-module-2-91/, fake-bpy-module-2.91, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:02+0000
+/project/dasty/, dasty, 0.1, Dasty: data structure for multi-models and multi-resolutions 3D scenes, 2007-06-26T12:09:01+0000
+/project/ounce/, ounce, 1.1.0, A simple Python package to manipulate units, 2019-10-28T15:37:32+0000
+/project/asciiporn/, asciiporn, 2009.05.01, view color images & 3d scientific plots in ssh terminal   (screenshots using putty ssh terminal included), 2009-05-10T04:52:03+0000
+/project/muscad/, muscad, 0.4.0, Generating OpenSCAD from Python code, 2020-06-02T20:03:50+0000
+/project/fake-bpy-module-2-92/, fake-bpy-module-2.92, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:57+0000
+/project/solidpinball/, solidpinball, 0.1.1, A digital fabrication framework for pinball machines using Python, 2019-08-05T08:16:35+0000
+/project/gltfutils/, gltfutils, 0.0.1, A set of python libraries for reading, manipulating, and saving gltf files., 2019-11-20T04:00:31+0000
+/project/meshpy/, MeshPy, 2020.1, Triangular and Tetrahedral Mesh Generator, 2020-11-13T21:10:23+0000
+/project/pyffi/, PyFFI, 2.2.3, Processing block structured binary files., 2018-09-23T14:59:55+0000
+/project/fake-bpy-module-2-82/, fake-bpy-module-2.82, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:56+0000
+/project/cqparts-bearings/, cqparts-bearings, 0.1.0, Bearings content library for cqparts, 2018-03-19T02:33:21+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/pytinyexr/, pytinyexr, 0.9.1, Python bindings for TinyEXR(OpenEXR loader/saver), 2020-04-26T11:50:01+0000
+/project/cloudviewer/, cloudViewer, 0.3.7, ['cloudViewer is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-16T05:46:07+0000
+/project/ivisual-alt/, IVisual-alt, 0.2.4, VPython visual inline for IPython Notebook, 2015-09-23T05:22:35+0000
+/project/pyvisfile/, pyvisfile, 2021.1, Large-scale Visualization Data Storage, 2021-03-10T18:57:08+0000
+/project/openscad-docsgen/, openscad-docsgen, 1.4.0, A processor to generate Markdown code documentation from OpenSCAD source comments., 2021-04-25T07:57:11+0000
+/project/entente/, entente, 0.11.0, Work with polygonal meshes which have vertex-wise correspondence, 2019-12-05T19:28:07+0000
+/project/vg/, vg, 1.9.0, Linear algebra for humans: a very good vector-geometry and linear-algebra toolbelt, 2020-06-04T21:15:03+0000
+/project/gumby/, gumby, 0.4.0, Stretch polygonal meshes in segments along an axis, 2018-09-10T06:09:32+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/glglue/, glglue, 1.1.0, The glue code which mediates between OpenGL and some GUI, 2019-08-23T23:41:25+0000
+/project/wire-skin/, wire-skin, 0.3, Construct a simple skin around a wire frame mesh in Blender., 2019-11-05T03:09:34+0000
+/project/pyfastnoisesimd/, pyfastnoisesimd, 0.4.2, Python Fast Noise with SIMD, 2021-03-31T03:34:28+0000
+/project/pylo/, pylo, 0.91.2, Large-scale Visualization Data Storage, 2010-01-31T13:53:11+0000
+/project/vmf-tool/, vmf-tool, 0.1.0, A library for interpreting & editing .vmf files, 2020-10-03T22:45:09+0000
+/project/bpy-cuda/, bpy-cuda, 2.82, Blender with CUDA support as a python module, 2020-06-23T23:39:34+0000
+/project/pyformex/, pyformex, 0.9.0, program to create 3D geometry from Python scripts., 2013-06-04T08:17:01+0000
+/project/moltemplate/, moltemplate, 2.19.8, A general cross-platform text-based molecule builder for LAMMPS, 2021-04-09T03:04:44+0000
+/project/bpy-optix/, bpy-optix, 2.82, Blender with Optix support as a python module, 2020-06-23T23:59:22+0000
+/project/ivisual/, IVisual, 0.2.88, VPython visual inline for IPython Notebook, 2016-02-10T21:40:36+0000
+/project/zmesh/, zmesh, 0.5.0, Multilabel marching cubes and simplification of volumetric data., 2021-04-19T19:22:06+0000
+/project/kymatio/, kymatio, 0.2.0, Wavelet scattering transforms in Python with GPU acceleration, 2020-03-17T02:37:04+0000
+/project/tangible/, tangible, 0.2.2, A Python library to convert data into tangible 3D models., 2013-12-21T15:05:49+0000
+/project/polliwog/, polliwog, 0.12.0, 2D and 3D computational geometry library which scales from prototyping to production, 2019-11-26T00:30:40+0000
+/project/maxpytest/, maxpytest, 1.0.3, Command line utility for using the Pytest testing framework in 3ds Max, 2019-02-24T13:22:27+0000
+/project/morphsnakes/, morphsnakes, 2.0.1, Morphological Snakes, 2018-10-14T11:41:45+0000
+/project/previz/, previz, 1.0.2, Previz REST API python wrapper, 2018-02-26T13:25:00+0000
+/project/moderngl-beta/, ModernGL-beta, 5.0.2, ModernGL: PyOpenGL alternative, 2017-11-21T05:42:23+0000
+/project/ldraw/, ldraw, 0.11, A package for creating LDraw format files., 2008-07-13T15:41:37+0000
+/project/fake-bpy-module-2-83/, fake-bpy-module-2.83, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:06+0000
+/project/fake-bpy-module-2-79/, fake-bpy-module-2.79, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:06+0000
+/project/pypcd/, pypcd, 0.1.1, Read and write PCL .pcd files in python., 2018-03-16T03:52:07+0000
+/project/islpy/, islpy, 2021.1, Wrapper around isl, an integer set library, 2021-04-07T20:45:35+0000
+/project/flat/, Flat, 0.3.2, Generative infrastructure for Python, 2020-08-30T22:07:20+0000
+/project/chunky3d/, chunky3d, 0.1.5, A 3D array-like NumPy-based data structure for large sparsely-populated volumes, 2020-12-31T18:16:35+0000
+/project/open3d/, open3d, 0.12.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-25T00:12:28+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/hobart-svg/, hobart-svg, 0.4.1, Render polygons, polylines, and mesh cross sections to SVG, 2020-12-07T20:50:20+0000
+/project/img2scad/, img2scad, 0.4, Image to OpenSCAD converter, 2014-10-18T18:38:51+0000
+/project/sketchfab/, sketchfab, 0.0.8, Sketchfab client, 2019-10-23T22:14:48+0000
+/project/pyhesive/, pyhesive, 0.2.3, Insert cohesive elements into any mesh, 2021-04-14T03:12:32+0000
+/project/hobart/, hobart, 0.2.1, Render polygons, polylines, and mesh cross sections to SVG, 2019-12-05T21:49:53+0000
+/project/pymetis/, PyMetis, 2020.1, A Graph Partitioning Package, 2020-08-23T18:31:45+0000
+/project/fake-bpy-module-2-90/, fake-bpy-module-2.90, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:03+0000
+/project/vpython/, vpython, 7.6.1, VPython for Jupyter Notebook, 2020-02-18T04:12:38+0000
+/project/fake-bge-module-0-2-5/, fake-bge-module-0.2.5, 20200804, Collection of the fake Blender Game Engine (BGE) Python API module for the code completion., 2020-08-04T08:34:31+0000
+/project/nomenclate/, nomenclate, 2.4.4, A tool for generating strings based on a preset naming convention., 2018-04-03T21:13:21+0000
+/project/proximity/, proximity, 0.2.0, Simple scenegraph for quickly debugging 3D meshes, polylines, and points, 2020-12-09T00:22:20+0000
+/project/pymcubes/, PyMCubes, 0.1.2, Marching cubes for Python, 2020-09-05T15:18:04+0000
+/project/gcodeutils/, gcodeutils, 1.3.2, Reprap oriented gcode utilities, 2016-06-20T15:44:00+0000
+/project/fake-bpy-module-2-80/, fake-bpy-module-2.80, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:09+0000
+/project/bpy/, bpy, 2.82.1, Blender as a python module, 2020-06-27T22:45:41+0000
+/project/vtk/, vtk, 9.0.1, VTK is an open-source toolkit for 3D computer graphics, image processing, and visualization, 2020-06-24T17:36:11+0000
+/project/lacecore/, lacecore, 0.8.0, Polygonal mesh library optimized for cloud computation., 2021-03-23T22:49:35+0000
+/project/co2tools/, co2tools, 0.1.1, Easily automate generating 3D models from DXF files and merge DXF files for CO2 laser cutting, 2021-03-01T04:36:21+0000
+/project/argus-gui/, argus-gui, 2.1.dev3, Tools for 3D camera calibration and reconstruction with graphical user interfaces, 2019-02-19T14:36:08+0000
+/project/cqparts/, cqparts, 0.2.1, Hierarchical and deeply parametric models using cadquery, 2018-05-30T12:21:35+0000
+/project/bpy-build/, bpy-build, 2.1.0, Find Blender sources in version control, create build scripts, 2020-11-18T02:01:27+0000
+/project/genproctrees/, GenProcTrees, 0.0.1.dev1, Procedurally generate semi-realistic trees, 2018-04-22T13:25:56+0000
+/project/qr2scad/, qr2scad, 0.7.2, QR code to OpenSCAD converter, 2013-07-20T20:57:47+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/psivisual/, PsiVisual, 0.1.08, Test Stuff, 2014-08-24T20:44:55+0000
+/project/seam-erasure/, seam-erasure, 1.0.5, Seamlessly erase seams from your favorite 3D models., 2020-01-29T17:53:28+0000
+/project/pymeshio/, pymeshio, 3.0.1, 3d model io library for mqo, pmd, pmx, vmd and vpd, 2017-12-30T18:49:40+0000
+/project/pi3d/, pi3d, 2.44, pi3d OpenGLES2 3D graphics library, 2021-03-30T13:06:43+0000
+/project/pyscad/, PySCAD, 0.1, Python based OpenSCAD framework, 2015-07-14T17:23:28+0000
+/project/argus/, argus, 0.0.11, Helper routines for using multiple, inexpensive calibrated and synchronized cameras for 3D scientific use., 2019-03-01T20:22:20+0000
+/project/vmi/, vmi, 0.6.15, Visual Medical Innovation powered by WANGYiping, 2021-03-09T08:15:24+0000
+/project/tessagon/, tessagon, 0.6, Tessellate your favorite 2D manifolds with triangles, hexagons, and other interesting patterns., 2019-11-06T03:19:59+0000
+/project/open3d-python/, open3d-python, 0.7.0.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2019-06-06T21:45:31+0000
+/project/pystl/, pystl, 0.1.1, Simple Python package to write STL files for 3D printing., 2016-07-08T06:16:56+0000
+/project/admesh/, admesh, 0.98.9, Python bindings for ADMesh, STL maipulation library, 2018-06-24T18:19:57+0000
+/project/cqparts-misc/, cqparts-misc, 0.1.0, Miscelaneous content library for cqparts, 2018-03-19T10:40:31+0000
+/project/fake-blender-api-2-79/, fake-blender-api-2.79, 0.3.1, Fake Blender 2.79 Python API for code completion, including BGE, 2020-04-24T00:00:28+0000
+/project/openscad-docsgen/, openscad-docsgen, 1.4.1, A processor to generate Markdown code documentation from OpenSCAD source comments., 2021-04-25T08:40:10+0000
+/project/height2obj/, height2obj, 0.9.0, Converts heightmap to 3d mesh., 2018-09-18T07:24:26+0000
+/project/cqparts-fasteners/, cqparts-fasteners, 0.1.0, Nuts, Bolts and Screws content library for cqparts, 2018-03-19T09:17:33+0000
+/project/py-fbx/, py-fbx, 0.1.1, A simple-to-use Python wrapper for FBX, now with included libraries for even less setup (Windows 32 bit Only :( ), 2020-05-28T13:25:22+0000
+/project/solidpinball/, solidpinball, 0.1.1, A digital fabrication framework for pinball machines using Python, 2019-08-05T08:16:35+0000
+/project/gltfutils/, gltfutils, 0.0.1, A set of python libraries for reading, manipulating, and saving gltf files., 2019-11-20T04:00:31+0000
+/project/meshpy/, MeshPy, 2020.1, Triangular and Tetrahedral Mesh Generator, 2020-11-13T21:10:23+0000
+/project/fake-bpy-module-2-81/, fake-bpy-module-2.81, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:57+0000
+/project/rds-graphile-worker-client/, rds-graphile-worker-client, 0.1.1, A small, simple client for adding jobs to the graphile-worker job queue on RDS postgresql database, 2020-12-14T05:05:26+0000
+/project/pysomo/, pysomo, 0.0.6, A small solid modeling library., 2020-09-06T23:20:33+0000
+/project/bsp-tool/, bsp-tool, 0.2.2, A library for .bsp file analysis & modification, 2020-10-10T09:54:20+0000
+/project/vector-shortcuts/, vector-shortcuts, 0.2.1, Vector and linear algebra toolbelt for NumPy, 2019-08-26T14:36:56+0000
+/project/trianglepy/, trianglepy, 0.0.7, Triangular Mesh Generator, 2018-03-13T04:12:00+0000
+/project/df3tools/, df3tools, 0.1.0, Tools to convert Pov-Ray DF3 files to set of images and vice versa, 2017-12-03T16:53:58+0000
+/project/octadist/, octadist, 3.0.0, OctaDist: A tool for calculating distortion parameters in molecule., 2021-03-08T22:52:18+0000
+/project/pyprt/, PyPRT, 1.2.0, Python bindings for the "Procedural Runtime" (PRT) of CityEngine by Esri., 2020-11-30T15:08:29+0000
+/project/dxf/, dxf, 1.1.1, Python library to generate DXF drawing files (CAD), 2011-04-10T14:24:26+0000
+/project/pyffi/, PyFFI, 2.2.3, Processing block structured binary files., 2018-09-23T14:59:55+0000
+/project/sba/, sba, 1.6.8, wrapper for Lourakis' sparse bundle adjustment C library, 2017-08-08T22:22:43+0000
+/project/bpycv/, bpycv, 0.2.39, Computer vision utils for Blender., 2021-04-16T07:24:27+0000
+/project/vfxwindow/, vfxwindow, 1.6.1, Qt window class for designing tools to be compatible between multiple VFX programs., 2021-02-11T17:57:40+0000
+/project/gltf/, gltf, 0.7.2, Load, modify, and save GLTF files., 2021-03-10T23:31:07+0000
+/project/openscad-runner/, openscad-runner, 1.0.9, A Python library to interface with the OpenSCAD app., 2021-04-13T03:42:59+0000
+/project/tri-again/, tri-again, 0.1.4, Simple scenegraph for quickly debugging 3D meshes, polylines, and points, 2020-12-07T20:54:48+0000
+/project/fake-bpy-module-2-91/, fake-bpy-module-2.91, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:02+0000
+/project/dasty/, dasty, 0.1, Dasty: data structure for multi-models and multi-resolutions 3D scenes, 2007-06-26T12:09:01+0000
+/project/ounce/, ounce, 1.1.0, A simple Python package to manipulate units, 2019-10-28T15:37:32+0000
+/project/asciiporn/, asciiporn, 2009.05.01, view color images & 3d scientific plots in ssh terminal   (screenshots using putty ssh terminal included), 2009-05-10T04:52:03+0000
+/project/muscad/, muscad, 0.4.0, Generating OpenSCAD from Python code, 2020-06-02T20:03:50+0000
+/project/fake-bpy-module-2-92/, fake-bpy-module-2.92, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:57+0000
+/project/solidpinball/, solidpinball, 0.1.1, A digital fabrication framework for pinball machines using Python, 2019-08-05T08:16:35+0000
+/project/gltfutils/, gltfutils, 0.0.1, A set of python libraries for reading, manipulating, and saving gltf files., 2019-11-20T04:00:31+0000
+/project/meshpy/, MeshPy, 2020.1, Triangular and Tetrahedral Mesh Generator, 2020-11-13T21:10:23+0000
+/project/fake-bpy-module-2-78/, fake-bpy-module-2.78, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:10+0000
+/project/fake-bpy-module-2-81/, fake-bpy-module-2.81, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:57+0000
+/project/rds-graphile-worker-client/, rds-graphile-worker-client, 0.1.1, A small, simple client for adding jobs to the graphile-worker job queue on RDS postgresql database, 2020-12-14T05:05:26+0000
+/project/pysomo/, pysomo, 0.0.6, A small solid modeling library., 2020-09-06T23:20:33+0000
+/project/bsp-tool/, bsp-tool, 0.2.2, A library for .bsp file analysis & modification, 2020-10-10T09:54:20+0000
+/project/vector-shortcuts/, vector-shortcuts, 0.2.1, Vector and linear algebra toolbelt for NumPy, 2019-08-26T14:36:56+0000
+/project/scikit-vectors/, scikit-vectors, 0.6.5, Functions to create n-dimensional vector classes, 2019-04-19T03:01:09+0000
+/project/meshlab-pickedpoints/, meshlab-pickedpoints, 1.0.0, Read and write MeshLab picked point (.pp) files, 2020-07-01T14:48:40+0000

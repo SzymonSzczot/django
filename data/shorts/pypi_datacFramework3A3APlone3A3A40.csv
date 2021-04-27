@@ -1,0 +1,646 @@
+/project/collective-diggdigg/, collective.diggdigg, 1.0, DiggDigg for Plone, 2013-01-02T11:17:34+0000
+/project/collective-rtvideo-vimeo/, collective.rtvideo.vimeo, 0.2.0, The Vimeo Plone support for RedTurtle Video, 2014-12-01T14:27:42+0000
+/project/collective-portlet-fancyboxgallery/, collective.portlet.fancyboxgallery, 1.0, Gallery portlet for Plone, 2012-12-06T22:21:16+0000
+/project/eea-similarity/, eea.similarity, 2.2, A package that suggests similar titles to one being added, 2019-01-29T19:36:49+0000
+/project/collective-galleriffic/, collective.galleriffic, 1.1.6, Galleriffic integration into Plone, 2013-08-07T11:55:17+0000
+/project/eea-app-visualization/, eea.app.visualization, 12.7, Visualization API, 2020-12-21T22:25:18+0000
+/project/comuneimola-compensi/, comuneimola.compensi, 1.3, Fees management for the town of Imola - Under Italian Law, the institutional websites of the cities shall contain a detailed list of the amounts of all the contracts (herein we will use the term "fees") drawn up with external professionals. This product implements Plone with two new custom archetypes, "Fees Area" and "Fee"., 2013-02-14T16:48:51+0000
+/project/collective-clipboardupload/, collective.clipboardupload, 1.0, Allows uploading images into Plone site by pasting them into TinyMCE WYSIWYG editor, 2013-07-30T09:15:15+0000
+/project/collective-js-easing/, collective.js.easing, 1.0, JQuery easing plugin registration for the Plone CMS, 2012-01-04T20:20:29+0000
+/project/products-atgooglevideo/, Products.ATGoogleVideo, 0.9.1, Use YouTube and Google Video on a Plone Site., 2012-04-05T13:12:22+0000
+/project/collective-prettyphoto/, collective.prettyphoto, 0.6, prettyPhoto integration for Plone., 2016-02-10T09:21:21+0000
+/project/collective-js-imagesloaded/, collective.js.imagesloaded, 2.1, Register JQuery imagesloaded plugin in Plone resource registry, 2012-10-20T13:28:56+0000
+/project/collective-geo-file/, collective.geo.file, 0.6, An openlayers view for KML, KMZ and GPX files, 2013-08-30T09:22:55+0000
+/project/collective-captchacontactinfo/, collective.captchacontactinfo, 2.0.5, A simple customization for Plone contact-info that add recaptcha for anonymous users, 2021-02-03T13:28:00+0000
+/project/collective-geo-json/, collective.geo.json, 0.4.1, Collective Geo GeoJson output, 2018-01-09T11:19:46+0000
+/project/collective-btrees/, collective.btrees, 1.1, Add btrees in annotations, 2012-06-05T17:23:23+0000
+/project/quintagroup-plonegooglesitemaps/, quintagroup.plonegooglesitemaps, 1.8.2, Allows Plone websites to get better visibility for Google search engine, 2013-04-22T12:59:46+0000
+/project/products-zsparqlmethod/, Products.ZSPARQLMethod, 2.3, Zope product for making SPARQL queries, simiar to ZSQLMethod, 2020-08-05T10:14:45+0000
+/project/collective-js-highslide/, collective.js.highslide, 1.0, Register highslide jquery plugin into plone resource registry, 2012-01-04T20:30:57+0000
+/project/eea-versions/, eea.versions, 12.3, EEA versions, 2020-09-18T18:37:17+0000
+/project/collective-etherpad/, collective.etherpad, 1.1.2, Etherpad-lite integration in Plone, 2013-09-26T13:00:20+0000
+/project/templer-core/, templer.core, 1.0b4, Core functionality for the templer tool, 2012-05-18T05:33:19+0000
+/project/collective-baseline/, collective.baseline, 1.0, Add a baseline to the header, 2012-09-13T10:07:09+0000
+/project/products-atcustomizableview/, Products.ATCustomizableView, 0.5.0, A product that change the standard Plone behavior of the "Display" menu, 2013-10-01T16:47:57+0000
+/project/collective-registry/, collective.registry, 1.0, Extend plone.app.registry by implementing IRegistry with an adapter on context, 2012-01-30T20:04:57+0000
+/project/collective-geo-fastkml/, collective.geo.fastkml, 0.3, Generate KML with fastkml for collective.geo, 2013-09-05T11:42:44+0000
+/project/quills-app/, quills.app, 1.8.1, The Quills blogging suite. Contains code shared between Products.Quills and  Products.QuillsEnabled., 2016-12-27T21:32:13+0000
+/project/products-plonehotfix20171128/, Products.PloneHotfix20171128, 1.0, Various Plone hotfixes, 2017-11-28, 2017-11-28T15:02:16+0000
+/project/collective-ptg-fancybox/, collective.ptg.fancybox, 1.2, UNKNOWN, 2016-02-04T13:01:28+0000
+/project/collective-sharerizer/, collective.sharerizer, 1.4, A package to inject Web 2.0 style sharing buttons into Plone's document_actions., 2012-11-29T15:44:29+0000
+/project/collective-js-twittertext/, collective.js.twittertext, 1.0, Add twitter-text.js library to Plone's resource registry, 2012-01-19T12:57:14+0000
+/project/collective-portlet-ngcollection/, collective.portlet.ngcollection, 1.5, Extends plone collection portlet in order to allow assigning different views for each newly created portlet through it's edit form, 2015-10-27T15:01:24+0000
+/project/vs-jquerybookmarks/, vs.jquerybookmarks, 0.1.5, jquery.bookmark integration with Plone 4, 2012-06-02T12:32:35+0000
+/project/collective-datatablesviews/, collective.datatablesviews, 1.1, various datatables views for plone content types (collections atm), 2012-11-20T08:06:22+0000
+/project/collective-geo-polymaps/, collective.geo.polymaps, 0.1, Collective Geo Polymaps integation, 2012-02-24T11:14:56+0000
+/project/collective-blog-portlets/, collective.blog.portlets, 1.6, Archive view and portlet, 2014-04-18T16:25:46+0000
+/project/eea-google/, eea.google, 5.8, This package contains useful tools for talking with Google Analytics, 2019-01-29T17:38:53+0000
+/project/collective-rtvideo-youtube/, collective.rtvideo.youtube, 0.3.1, The YouTube Plone support for RedTurtle Video, 2014-12-01T14:29:14+0000
+/project/eea-faceted-tool/, eea.faceted.tool, 5.7, EEA Faceted Tool, 2021-04-09T07:29:54+0000
+/project/collective-portlet-actions/, collective.portlet.actions, 1.2.3.post1, A portlet that provides the links of an action category, 2016-06-10T10:36:47+0000
+/project/collective-fbshare/, collective.fbshare, 0.3.2, Provide some additional Open Graph meta tag in your Plone site, so share items on Facebook will be simpler, 2016-04-19T06:55:27+0000
+/project/c2-patch-plone4year2021/, c2.patch.plone4year2021, 1.0, This product is monkey patching selected year problem after 2021 for Plone 4, 2020-11-17T08:16:59+0000
+/project/collective-fancyboxgallery/, collective.fancyboxgallery, 1.0, Gallery view for Plone using jquery.fancybox, 2012-12-06T22:17:40+0000
+/project/templer-buildout/, templer.buildout, 1.0b1, Templer system extensions for buildouts and buildout recipes, 2012-05-18T05:56:42+0000
+/project/collective-depositbox/, collective.depositbox, 1.3, Put stuff in a box, get it out again with the secret, 2015-09-01T16:33:05+0000
+/project/redturtle-logoswitch/, redturtle.logoswitch, 1.1.0, Allows users to change plone portal logo from a given images list, 2013-07-08T15:58:06+0000
+/project/rt-zptformfield/, rt.zptformfield, 0.2.1, Some ZPT macros for Zope/Plone HTML forms development, 2015-09-08T15:21:07+0000
+/project/eea-depiction/, eea.depiction, 8.4, EEA Depiction (formerly valentine.imagescales), 2021-04-16T09:20:52+0000
+/project/egenix-mxodbc-zopeda/, egenix-mxodbc-zopeda, 2.2.3, eGenix mxODBC Zope/Plone Database Adapter for Plone and Zope, 2015-09-11T18:36:59+0000
+/project/cirb-blog/, cirb.blog, 1.0a3, Blog project for CIRB, 2013-01-18T12:11:23+0000
+/project/eea-alchemy/, eea.alchemy, 7.3, EEA Alchemy allows you to bulk auto-discover geographical coverage, temporal coverage, keywords and more, 2019-01-29T14:14:05+0000
+/project/collective-optimage/, collective.optimage, 0.1.0a, Optimize Plone content images for Web usage, 2012-06-30T16:43:42+0000
+/project/collective-datagridcolumns/, collective.datagridcolumns, 0.7.0, Additional columns for Plone and DataGridField, 2015-05-22T16:08:53+0000
+/project/templer-localcommands/, templer.localcommands, 1.0b2, Templer system framework for local commands, 2012-05-20T22:45:06+0000
+/project/collective-metarobots/, collective.metarobots, 1.1.1, Add meta tag robots to Plone, 2012-09-03T14:59:04+0000
+/project/jquery-pyproxy/, jquery.pyproxy, 0.5, A simple python egg and jquery plugin to easily use JQuery in Django/Plone/.. websites., 2013-09-24T11:04:24+0000
+/project/ftw-quota/, ftw.quota, 1.0, Quota support for archetypes containers., 2012-06-14T10:10:35+0000
+/project/zopyx-smartprintng-plone/, zopyx.smartprintng.plone, 2.1.27, Produce & Publisher server integration with Plone, 2015-02-17T07:26:35+0000
+/project/collective-mollie/, collective.mollie, 0.3, Wrapper for the Mollie iDeal API, 2012-10-31T16:31:04+0000
+/project/collective-configviews/, collective.configviews, 3.1.0, Manage configuration of browser views, 2016-08-23T13:41:01+0000
+/project/collective-navigationtoggle/, collective.navigationtoggle, 1.0.3, Expand/collapse feature for specific Plone navigation entries, in an unobtrusive way, 2020-05-05T06:34:27+0000
+/project/collective-externalimageeditor/, collective.externalimageeditor, 1.6, Addon product for plone to edit images on online webservices, 2012-02-13T14:06:22+0000
+/project/ftw-keywordoverlay/, ftw.keywordoverlay, 1.2.1, Puts a nice overlay over Archetypes' default keywordwidget for plone., 2012-05-16T14:58:37+0000
+/project/sc-pfg-brazilianfields/, sc.pfg.brazilianfields, 1.1.1, A collection Brazilian fields to be used with PloneFormGen, 2012-08-01T19:30:26+0000
+/project/collective-regexredirector/, collective.regexredirector, 0.2.3, Addon for plone.app.redirector concerning regex redirector, 2015-05-26T08:06:35+0000
+/project/eea-googlecharts/, eea.googlecharts, 20.9, Configurator for GoogleCharts, 2020-12-21T22:24:01+0000
+/project/collective-linguafaq/, collective.linguafaq, 0.5, A simple multilanguage faq, 2012-07-03T14:36:46+0000
+/project/collective-mass-subscriptions/, collective.mass_subscriptions, 0.1.1, Give to Plone administrators a form where is possible to subscribe multiple users in a single operation, 2017-11-27T09:15:17+0000
+/project/redturtle-sqlcontents/, redturtle.sqlcontents, 0.9.1, RedTurtle - SQL Contents, 2013-07-29T10:10:19+0000
+/project/p4a-plonecalendar/, p4a.plonecalendar, 2.1, Plone4Artists calendar add-on for Plone, 2013-05-21T13:52:35+0000
+/project/quintagroup-megamenu/, quintagroup.megamenu, 1.5.3, Mega menu for Plone, 2015-04-02T14:06:52+0000
+/project/eea-faceted-vocabularies/, eea.faceted.vocabularies, 6.9, EEA Faceted Vocabularies, 2019-04-04T21:21:55+0000
+/project/plone-intelligenttext/, plone.intelligenttext, 3.1.0, Provides transforms from text/x-web-intelligent to text/html and vice versa., 2020-04-20T20:40:19+0000
+/project/collective-portlet-categories/, collective.portlet.categories, 1.0, Categories portlet for Plone, 2013-02-15T11:20:05+0000
+/project/collective-taxonomysupport/, collective.taxonomysupport, 1.4.1, Add support for taxonomies to Plone contents as a news tag-like field, 2016-06-30T06:14:55+0000
+/project/bg-solr/, bg.solr, 0.2, bg.solr, 2011-12-13T05:11:48+0000
+/project/collective-cmcicpaiement/, collective.cmcicpaiement, 1.0b1, CM CIC Paiement for Plone, 2013-01-22T13:15:02+0000
+/project/collective-mailchimp/, collective.mailchimp, 3.1.0, MailChimp integration for Plone., 2020-01-13T13:13:58+0000
+/project/collective-blog-view/, collective.blog.view, 1.5.2, A blog view for folders., 2013-10-19T09:51:40+0000
+/project/collective-wpadmin/, collective.wpadmin, 1.0a3, Wordpress like admin page, 2013-01-17T12:41:54+0000
+/project/bise-diazotheme/, bise.diazotheme, 1.4.dev0, Bise Theme for Diazo, 2018-12-27T15:47:05+0000
+/project/eea-progressbar/, eea.progressbar, 4.5, Progress bar based on current document review_state, 2019-08-19T12:03:23+0000
+/project/quintagroup-formlib-captcha/, quintagroup.formlib.captcha, 1.4.3, Captcha field for formlib based on quintagroup.captcha.core package, 2014-06-11T12:06:02+0000
+/project/collective-powertoken-view/, collective.powertoken.view, 0.1.0, View and content access add-ons for collective.powertoken support for Plone, 2012-01-11T08:34:03+0000
+/project/collective-portlet-organization/, collective.portlet.organization, 1.0, Portlet to display an organization, 2012-09-02T14:02:08+0000
+/project/cciaa-topic-view/, cciaa.topic-view, 1.2.1, Additional view for Collection in Plone, with a common C2P/C3P CCIAA layout, 2018-10-15T13:18:40+0000
+/project/redturtle-portlets-inspector/, redturtle.portlets.inspector, 1.0.0, Redturtle Portlets Inspector, 2013-11-26T13:29:48+0000
+/project/iw-rejectanonymous/, iw.rejectanonymous, 1.2.5, Disallow access to a Plone site and its children if user is anonymous, 2019-10-18T07:57:47+0000
+/project/collective-portlet-lingualinks/, collective.portlet.lingualinks, 1.1, A portlet to provide links to translated content, 2012-04-17T06:50:28+0000
+/project/collective-singing/, collective.singing, 0.7.6, A Zope 3 library for sending notifications and newsletters, 2019-10-22T13:56:00+0000
+/project/collective-contentrules-mailtorole/, collective.contentrules.mailtorole, 1.7, Send e-mail to users having a role on the object, 2013-08-12T09:32:02+0000
+/project/eea-geotags/, eea.geotags, 12.0, EEA Geotags package redefines the location field in Plone. Right now in Plone location field is a free text field. EEA Geotags lets you easy define locations using a map picker and http://geonames.org geographical database., 2021-04-17T12:40:13+0000
+/project/collective-transform-ppt-xl/, collective.transform.ppt-xl, 0.1, Powerpoint and Excel to HTML transformation, 2012-06-13T07:03:39+0000
+/project/collective-mediaelementjs/, collective.mediaelementjs, 0.4.3, A simple integration of the MediaElementJS video player for Plone., 2016-12-03T17:18:52+0000
+/project/eea-epub/, eea.epub, 7.4, Publish Plone content in epub form, 2018-09-07T11:02:53+0000
+/project/collective-jqcookie/, collective.jqcookie, 1.1.0, Collective jqcookie Package (Maintainer: Victor baumann), 2014-02-12T15:51:10+0000
+/project/zopyx-ipsumplone/, zopyx.ipsumplone, 0.3.18, Lorem ipsum text and image demo content for Plone, 2019-07-15T17:40:40+0000
+/project/collective-doormat/, collective.doormat, 0.1, Adds a doormat viewlet and installs it in the Plone
+      footer. The links and text in the doormat are manageable in the
+      control panel, 2011-12-15T12:08:50+0000
+/project/archetypes-linguakeywordwidget/, archetypes.linguakeywordwidget, 1.1, Archetypes keyword widget with multilanguage support, 2013-01-16T14:21:26+0000
+/project/plonetheme-responsive1140/, plonetheme.responsive1140, 1.1, A responsive theme for Plone, 2012-02-17T13:23:23+0000
+/project/collective-favoriting/, collective.favoriting, 1.0.2, Favoriting internal content, 2013-06-05T08:16:37+0000
+/project/templer-plone/, templer.plone, 1.0b4, Templer system extensions for plone add-on development, 2013-02-10T13:59:04+0000
+/project/collective-powertoken-workflow/, collective.powertoken.workflow, 0.2.0, Workflow add-ons for collective.powertoken support for Plone, 2012-02-15T14:56:02+0000
+/project/collective-azindexpage/, collective.azindexpage, 1.0.3, Create a A-Z index page for Plone, 2013-02-15T10:54:48+0000
+/project/collective-setdefaulteditor/, collective.setdefaulteditor, 1.5, Set the default editor in Plone for all existing members., 2013-09-13T13:33:57+0000
+/project/products-brfieldsandwidgets/, Products.BrFieldsAndWidgets, 1.2.2, Brazilian fields and widgets to be used with Plone and Archetypes, 2012-08-10T20:24:29+0000
+/project/collective-dancingcustomtemplates/, collective.dancingcustomtemplates, 1.0.0, A product that customize some templates for S&D, 2012-11-09T16:00:29+0000
+/project/collective-flexitopic/, collective.flexitopic, 0.7.1, Searchable Collections with Flexigrid, 2014-08-28T10:47:02+0000
+/project/collective-facebook-instantarticles/, collective.facebook.instantarticles, 1.0.1, Plone plugin for Facebook's instant articles integration, 2018-10-19T10:06:09+0000
+/project/eea-annotator/, eea.annotator, 4.6, EEA Annotator, 2020-05-26T14:04:41+0000
+/project/collective-tablepage/, collective.tablepage, 0.10.6, A Plone page with an editable table as main content, 2015-07-31T13:47:06+0000
+/project/ftw-treeview/, ftw.treeview, 1.2.0, Adds a navigation treeview widget to plone., 2014-10-24T16:34:43+0000
+/project/eea-tags/, eea.tags, 6.4, EEA Tags, 2019-01-29T21:05:14+0000
+/project/zopehealthwatcher/, ZopeHealthWatcher, 0.9.0, ZopeHealthWatcher allows you to monitor and debug the threads of a Zope application., 2016-01-03T12:33:20+0000
+/project/solgema-fullcalendar/, Solgema.fullcalendar, 2.3.6, A complete implementation of Adam Shaw FullCalendar into Plone., 2016-04-05T12:27:13+0000
+/project/collective-js-jwplayer/, collective.js.jwplayer, 6.4.3359, JWPlayer resource for Plone, 2013-05-10T08:15:55+0000
+/project/collective-analyticspanel/, collective.analyticspanel, 0.6.1, Add more control over the inclusion of JavaScript analytics code of your Plone site, 2017-09-15T14:04:01+0000
+/project/rer-fix13603/, rer.fix13603, 1.0.0, Patch for deletion by acquisition in Plone<4.3.3, 2014-06-24T06:57:06+0000
+/project/rt-atmigrator/, rt.atmigrator, 0.1.0, A tool that allows to migrate objects from a content-type to another, 2013-03-12T14:32:10+0000
+/project/collective-stringinterp-text/, collective.stringinterp.text, 0.3, Additional string interpolation for Plone: add content text in your contentrule e-mail messages, 2017-11-07T17:36:18+0000
+/project/redturtle-monkey/, redturtle.monkey, 1.3.0, MailChimp integration for Plone., 2017-03-27T15:00:26+0000
+/project/eea-sparql/, eea.sparql, 7.4, Wrapper for Products.ZSPARQLMethod, 2020-03-03T13:55:37+0000
+/project/collective-ptg-picasa/, collective.ptg.picasa, 0.1.1, Add on collective.plonetruegallery to aggregate from picasa, 2012-11-07T15:20:10+0000
+/project/products-carousel/, Products.Carousel, 3.0.2, Carousel allows you to add user-configurable rotating banners to any section of a Plone site., 2017-04-11T15:05:35+0000
+/project/collective-anonymousview/, collective.anonymousview, 1.1, Allow a loggedin user to view a page as an anonymous user, 2012-08-02T10:05:09+0000
+/project/auslfe-formonline-pfgadapter/, auslfe.formonline.pfgadapter, 0.7.2, An adapter for PloneFormGen that add to Plone a way for manage online forms submission, 2014-10-28T13:38:52+0000
+/project/products-refbiblioparser/, Products.RefBiblioParser, 1.2, Addon for CMFBibliographyAT to parse/export REF files., 2012-03-26T01:02:10+0000
+/project/eea-rabbitmq-client/, eea.rabbitmq.client, 1.9, Python RabbitMQ client, 2020-05-13T11:19:13+0000
+/project/quintagroup-substyle/, quintagroup.substyle, 1.3, Styles for site subsections, 2013-11-21T15:56:10+0000
+/project/eea-jquery/, eea.jquery, 11.2, jQuery library and plugins for Plone, 2020-03-03T13:57:46+0000
+/project/eea-daviz/, eea.daviz, 12.4, EEA DaViz is a plone product which uses Exhibit and Google Charts API to easily create data visualizations based on data from csv/tsv, JSON, SPARQL endpoints and more., 2020-02-28T16:52:12+0000
+/project/collective-portlet-group/, collective.portlet.group, 2.0, A portlet to display member of a group, 2012-09-03T15:50:31+0000
+/project/pd-contentrules-sms/, pd.contentrules.sms, 1.0.2, Add on for the Plone booking product rg.prenotazioni that adds a conten trule to send SMS, 2015-08-10T08:41:35+0000
+/project/ftw-dashboard-portlets-postit/, ftw.dashboard.portlets.postit, 1.4.0, Postit portlet for the dashboard, 2015-07-07T13:29:35+0000
+/project/collective-diffbot/, collective.diffbot, 1.0, difbot.com wrapper for Plone usage, 2013-02-13T16:54:05+0000
+/project/collective-portlet-shelf/, collective.portlet.shelf, 1.3, collective.portlet.shelf is a portlet for Plone 4 that allows to display Collection's results in a carousel portlet browsing them by subcollections., 2014-01-21T10:37:00+0000
+/project/vs-event/, vs.event, 0.3.1, An extended event content-type for Plone (and Plone4Artists calendar), 2011-12-05T18:55:37+0000
+/project/collective-portlet-sitemap/, collective.portlet.sitemap, 1.0.5, Plone 3 and 4 navigation portlet extended, 2012-10-15T08:08:39+0000
+/project/collective-portaltabs/, collective.portaltabs, 0.4.0, Manage site's portal tabs from Plone interface in a simple way, 2014-07-25T12:00:05+0000
+/project/pas-plugins-velruse/, pas.plugins.velruse, 0.1.0a1, PAS plugin for Plone. Allow users to login using social networks through Velruse, 2014-05-14T14:52:13+0000
+/project/pmr2-oauth/, pmr2.oauth, 0.6.1, OAuth PAS Plugin, OAuth 1.0 provider for Plone., 2017-01-13T05:04:42+0000
+/project/collective-js-detectmobilebrowsers/, collective.js.detectmobilebrowsers, 1.0, Add detectmobilebrowsers script to plone resource registry, 2013-03-28T09:47:32+0000
+/project/products-plonesoftwarecenter/, Products.PloneSoftwareCenter, 1.6.4, PloneSoftwareCenter is a tool that keeps track of software projects, 2012-09-27T13:43:40+0000
+/project/plone-app-async/, plone.app.async, 1.7.0, Integration package for zc.async allowing asynchronous operations in Plone, 2016-02-25T22:09:47+0000
+/project/wildcard-readonly/, wildcard.readonly, 1.0, Easily setup readonly zeo clients, 2014-02-27T14:21:13+0000
+/project/collective-categories/, collective.categories, 1.0, Add categories to Plone, 2013-01-11T14:38:18+0000
+/project/monet-calendar-location/, monet.calendar.location, 0.4.1, Add Italian features to monet.calendar.event, 2012-01-04T09:48:44+0000
+/project/collective-contentrules-yearmonth/, collective.contentrules.yearmonth, 1.1, Moves contents to a choosen directory/YEAR/MONTH, 2013-01-07T16:58:31+0000
+/project/collective-pygal-plonestats/, collective.pygal.plonestats, 0.1, Simple plone portalindex statistics with pygal, 2012-04-02T10:17:11+0000
+/project/rt-calendarinandout/, rt.calendarinandout, 1.2.0, A LinesWidget-like for Plone, used for selecting dates, 2014-02-19T15:17:04+0000
+/project/collective-fontawesome/, collective.fontawesome, 1.1, Font Awesome for Plone, 2018-08-01T09:16:57+0000
+/project/collective-portlet-oembed/, collective.portlet.oembed, 1.2.1, Portlet waiting for an external link displayed using oembed/embedly, 2013-01-02T15:37:32+0000
+/project/products-ploneboardnotify/, Products.PloneboardNotify, 0.5.0, A configurable Plone product for sending e-mails when new messages are added to Ploneboard forums, 2013-05-12T17:29:24+0000
+/project/quintagroup-captcha-core/, quintagroup.captcha.core, 0.4.3, A core package of simple captcha implementation, 2013-07-17T12:17:32+0000
+/project/vs-flexigridsearch/, vs.flexigridsearch, 1.0.1, Plone  search results through flexigrid, 2013-06-04T07:35:46+0000
+/project/collective-js-ckeditor/, collective.js.ckeditor, 4.0.3, Just register ckeditor resources to Plone registry, 2013-04-29T10:36:03+0000
+/project/collective-js-simplecart/, collective.js.simplecart, 1.0, SimpleCart(js) for Plone, 2012-07-27T21:38:32+0000
+/project/wildcard-uberoverride/, wildcard.uberoverride, 1.0a1, UNKNOWN, 2013-05-16T21:05:34+0000
+/project/plonetheme-corporatevira/, plonetheme.corporatevira, 1.0, A Plone 4 theme based on plonetheme.corporatemale., 2013-06-06T07:09:19+0000
+/project/collective-geo-wms/, collective.geo.wms, 0.2, WMS Support for Collective Geo, 2013-10-30T07:22:32+0000
+/project/cs-portlet-aemet/, cs.portlet.aemet, 1.4.1, A portlet to show the weather via AEMET, 2018-02-01T07:50:40+0000
+/project/eea-icons/, eea.icons, 3.3, EEA Icons used throughout the EEA sites, 2019-05-20T15:57:06+0000
+/project/collective-portlet-socialnetworks/, collective.portlet.socialnetworks, 1.2, Social networks to follow, 2013-01-18T10:00:30+0000
+/project/eea-downloads/, eea.downloads, 2.1, EEA Downloads Media Storage, 2019-01-29T16:04:44+0000
+/project/plone-app-changeownership/, plone.app.changeownership, 1.0, Change Plone objects ownership, 2019-09-02T20:42:37+0000
+/project/products-reflecto/, Products.Reflecto, 3.0.6, Access the filesystem from Plone, 2014-06-05T21:11:00+0000
+/project/collective-login-monitor/, collective.login_monitor, 0.4, Store and monitor login access to your Plone site, 2015-08-21T07:11:49+0000
+/project/products-ploneglossary/, Products.PloneGlossary, 1.7.3, Highlight Plone content terms, mouseover shows the term definition as tooltip., 2017-04-11T15:54:03+0000
+/project/collective-portlet-embed/, collective.portlet.embed, 1.3.0, Embed an HTML snippet in a Plone portlet, 2017-09-14T06:54:46+0000
+/project/collective-js-galleriffic/, collective.js.galleriffic, 1.1, JQuery galleriffic javascript integration as browser resource, 2013-01-31T13:13:53+0000
+/project/vs-tdi/, vs.tdi, 0.3.2, vs.tdi (tabbed document interface), 2012-03-19T16:55:34+0000
+/project/collective-brasil-vocab/, collective.brasil.vocab, 0.8, A Zope 3 vocabulary implementation of brasil.vocab, 2011-12-21T01:04:47+0000
+/project/products-plonearticle/, Products.PloneArticle, 4.2.0, A Plone document including images, attachments and links, with a free choice of layout., 2012-02-08T15:15:26+0000
+/project/eea-pdf/, eea.pdf, 9.3, Download as PDF, 2020-09-18T18:38:25+0000
+/project/collective-js-fancybox/, collective.js.fancybox, 1.3.4.1, Fancybox libraries for Plone, 2012-01-04T20:24:08+0000
+/project/collective-prettydate/, collective.prettydate, 1.2.2, Represents a date on a relative format so, instead of '01/02/2012', it would be displayed as '4 hours ago', 'yesterday' or 'last week', which is easier to read and understand for most people., 2014-11-12T18:28:12+0000
+/project/collective-filteredlocking/, collective.filteredlocking, 1.2.0, A new specific permission that allows unlock of Plone contents, 2014-05-15T14:49:12+0000
+/project/eea-forms/, eea.forms, 7.8, EEA forms - Custom AT widgets and fields, 2020-06-19T18:31:16+0000
+/project/collective-geo-index/, collective.geo.index, 0.1, spatialindex for collective.geo, 2012-02-16T10:06:30+0000
+/project/experimental-pietimemenu/, experimental.pietimemenu, 0.1, Experimental Radial (Pie) Menu for time input, 2012-02-16T11:47:12+0000
+/project/collective-captionmanager/, collective.captionmanager, 1.0, Caption manager for Plone, 2012-08-07T06:57:12+0000
+/project/collective-langdet/, collective.langdet, 0.1, Language detection of content, 2012-06-13T06:58:52+0000
+/project/contentratings/, contentratings, 1.2.1, A small Zope 3 package (which also works with Zope 2.10+ and Five) that allows you to attach ratings to content., 2017-03-15T17:54:08+0000
+/project/collective-error-detector/, collective.error.detector, 0.1.0b1, The package looks for requests which cause an error. It's a part of https://github.com/potar/dagger, 2013-06-25T11:59:48+0000
+/project/quintagroup-z3cform-captcha/, quintagroup.z3cform.captcha, 1.0.3, Captcha field for z3cform based on quintagroup.captcha.core package, 2013-07-19T12:21:06+0000
+/project/zest-commentcleanup/, zest.commentcleanup, 1.6, Quickly remove lots of spam comments from your Plone Site, 2013-05-13T12:56:11+0000
+/project/auslfe-portlet-multimedia/, auslfe.portlet.multimedia, 1.0.1, A simple Plone multimedia Portlet with an eye to accessibility, 2014-10-29T15:01:58+0000
+/project/collective-contentrules-mail/, collective.contentrules.mail, 0.7, Flexible mail content rule, 2016-03-17T12:53:30+0000
+/project/vs-contentnavigation/, vs.contentnavigation, 0.2.3, vs.contentnavigation, 2014-01-13T06:26:20+0000
+/project/products-extrememanagement/, Products.eXtremeManagement, 2.1, Project administration which supports the eXtreme Programming methodology., 2016-08-01T06:50:10+0000
+/project/collective-masonry/, collective.masonry, 1.2.2, Integrate Masonry to Plone, 2013-01-23T14:49:58+0000
+/project/collective-powertoken-core/, collective.powertoken.core, 0.3.0, A mechanism for bypass Plone security, performing operations normally unauthorized, if a secret token is know (core package), 2012-02-15T14:46:27+0000
+/project/collective-js-masonry/, collective.js.masonry, 1.0, Register jquery.massonry to Plone resource registry, 2012-10-20T11:56:07+0000
+/project/redturtle-portlet-content/, redturtle.portlet.content, 2.0.0, A generic portlet that allows to show various parts of a document, like title, description, text, image and comments., 2017-09-13T15:32:02+0000
+/project/collective-portlet-twittermultistream/, collective.portlet.twittermultistream, 1.2, Twitter Multi Stream portlet for Plone, 2013-01-02T16:05:24+0000
+/project/collective-oembed/, collective.oembed, 2.0.1, oembed integration of consumers and provider for Plone, 2013-12-09T14:34:40+0000
+/project/products-addremovewidget/, Products.AddRemoveWidget, 1.5.2, AddRemoveWidget + ComboBoxWidget for Plone, 2017-01-31T11:13:22+0000
+/project/collective-js-timeago/, collective.js.timeago, 1.1, Register JQuery timeago plugin into Plone resource registry, 2012-12-04T11:06:38+0000
+/project/collective-contentrules-subscription/, collective.contentrules.subscription, 0.1.0, A Plone content rule for send e-mail to addresses taken from a subscription list, 2013-05-10T06:51:29+0000
+/project/quintagroup-transmogrifier/, quintagroup.transmogrifier, 0.5, Plone blueprints for collective.transmogrifier pipelines., 2013-08-23T10:32:39+0000
+/project/collective-dancefloor/, collective.dancefloor, 1.0.3, S&D extension to allow local newsletters, 2015-12-02T16:22:29+0000
+/project/collective-linguaanalytics/, collective.linguaanalytics, 1.0, Google Analytics specialized for MultiLanguage sites, 2012-12-06T12:45:17+0000
+/project/products-faq/, Products.Faq, 1.3.2, FAQ - An AT contenttype for Plone, 2013-08-26T14:07:24+0000
+/project/collective-cdn-multiplehostnames/, collective.cdn.multiplehostnames, 0.6, Multiple Hostnames CDN support for Plone, 2012-08-01T19:26:20+0000
+/project/redturtle-imagedevent/, redturtle.imagedevent, 1.0.2, A replacement of the Event content type for Plone, with image field and separate keyword and event type fields., 2013-12-16T08:06:44+0000
+/project/collective-js-mousewheel/, collective.js.mousewheel, 1.0, Add JQuery Mousewheel plugin to the Plone CMS resource registry, 2012-01-04T20:33:08+0000
+/project/collective-plonefinder/, collective.plonefinder, 1.3.1, A finder to search/select portal objects for Plone, 2018-03-26T11:20:30+0000
+/project/eea-exhibit/, eea.exhibit, 8.9, EEA Exhibit provides Simile Widgets Exhibit JS libraries as Zope 3 resources., 2018-09-10T12:48:04+0000
+/project/eea-async-manager/, eea.async.manager, 2.1, zc.async queue manager, 2019-11-28T19:04:09+0000
+/project/pas-plugins-aselect/, pas.plugins.aselect, 1.5, PAS Plugin for authentication with A-Select, 2012-10-14T01:44:00+0000
+/project/collective-picturefill/, collective.picturefill, 1.2, PictureFill for Plone, 2013-04-29T14:56:19+0000
+/project/collective-easyslider/, collective.easyslider, 1.4.1, The product will allow you to apply an easyslider to any page with the ability to create each slide using a WYSIWYG editor. It also provides a slider view for Folders and Collections., 2014-01-14T02:53:43+0000
+/project/products-googlecoop/, Products.googlecoop, 2.1, Google Coop for Plone makes it easy for you to integrate a Google Co-op Custom Search engine in your plone site., 2011-11-30T11:42:29+0000
+/project/experimental-securityindexing/, experimental.securityindexing, 0.6, Optimises indexing of object security for a Plone site., 2014-06-04T13:20:54+0000
+/project/dateable-chronos/, dateable.chronos, 1.0, Dateable calendaring views, 2013-05-21T13:50:01+0000
+/project/mr-inquisition/, mr.inquisition, 0.2, A package to help with exploring a Plone site., 2015-08-04T10:47:25+0000
+/project/collective-maildigest/, collective.maildigest, 1.0, Users can subscribe on a mail digest about activity in a Plone Folder, 2014-10-10T08:39:53+0000
+/project/plone-app-transmogrifier/, plone.app.transmogrifier, 1.4.2, Plone blueprints for collective.transmogrifier pipelines, 2019-09-24T09:01:32+0000
+/project/collective-videoanysurfer/, collective.videoanysurfer, 1.0.8, Youtube Integration to be AnySurfer compliant, 2013-07-04T07:09:06+0000
+/project/collective-portlet-discussion/, collective.portlet.discussion, 1.2.6, A simple Plone portlet to show a list of comments, 2019-05-13T12:39:30+0000
+/project/zest-social/, zest.social, 1.3, Zest Social Bookmarking, 2012-09-12T16:07:54+0000
+/project/eea-eggmonkey/, eea.eggmonkey, 4.5, Automate releasing eggs with jarn.mkrelease, 2018-02-23T16:22:47+0000
+/project/collective-js-videojs/, collective.js.videojs, 5.8.8, Get twitter videojs as browser resources, 2016-04-14T12:24:11+0000
+/project/collective-js-foundation/, collective.js.foundation, 4.1.6, Foundation for Plone, 2013-05-08T13:18:45+0000
+/project/quintagroup-plonetabs/, quintagroup.plonetabs, 1.0, Quintagroup Plone Tabs, 2014-02-25T12:12:38+0000
+/project/collective-readitlater/, collective.readitlater, 1.1.0, No time ? Read it later !, 2013-08-05T14:32:10+0000
+/project/collective-portlet-localcontents/, collective.portlet.localcontents, 0.3.0, A local navigation for Plone, that shows only contents in current folder, 2012-11-21T14:18:22+0000
+/project/collective-blog-star/, collective.blog.star, 1.2.1, Blog suite for Plone, 2013-10-19T09:55:51+0000
+/project/collective-portlet-contact/, collective.portlet.contact, 1.1.2, Display LDAP contacts in Plone portlets., 2013-12-09T14:55:08+0000
+/project/collective-tinymceplugins-advfilelinks/, collective.tinymceplugins.advfilelinks, 1.3.2, An advanced Plone TinyMCE plugin for handling links to files, 2014-12-10T15:33:47+0000
+/project/collective-favorites/, collective.favorites, 1.1.7, An extensible favorites system for Plone, with a portlet, 2015-04-03T09:19:24+0000
+/project/collective-contactauthor/, collective.contactauthor, 1.1.0, A customization for Plone author form: anonymous users can send message to authors with captcha protection, 2014-09-01T12:20:48+0000
+/project/collective-js-galleria/, collective.js.galleria, 1.2.5, UNKNOWN, 2013-01-26T17:09:05+0000
+/project/collective-singingnotify/, collective.singingnotify, 1.0.3, A plugin for Singing&Dancing that notify users unsubscriptions, 2015-12-02T16:32:36+0000
+/project/rt-filenotindexed/, rt.filenotindexed, 0.2.0, Force Plone to not index your files in SearchableText, 2015-09-02T10:37:11+0000
+/project/collective-themeswitcher/, collective.themeswitcher, 1.0a2, Theme switcher, 2013-04-29T15:17:55+0000
+/project/collective-contextualcontactinfo/, collective.contextualcontactinfo, 0.1.0, Add the information about the context in contact-info message of your Plone Site, 2012-06-15T09:09:16+0000
+/project/collective-randomcontent/, collective.randomcontent, 1.0, Redirect to random content, especially images., 2012-07-19T17:26:10+0000
+/project/collective-js-fileupload/, collective.js.fileupload, 9.12.3.post2, Integration of  jQuery File Upload, an open source File Upload widget with multiple file selection, in Plone., 2016-04-22T13:43:49+0000
+/project/products-plonehotfix20200121/, Products.PloneHotfix20200121, 1.1, Various Plone hotfixes, 2020-01-21, 2020-02-11T22:47:25+0000
+/project/collective-js-fileupload/, collective.js.fileupload, 9.12.3.post2, Integration of  jQuery File Upload, an open source File Upload widget with multiple file selection, in Plone., 2016-04-22T13:43:49+0000
+/project/eea-cache/, eea.cache, 9.4, Tools and config for memcache related caching, 2020-03-10T16:41:46+0000
+/project/collective-portlet-colorcollection/, collective.portlet.colorcollection, 0.3.0, Replace some code of the Plone collection portlet to add links color, 2013-02-13T16:49:14+0000
+/project/collective-tinymceplugins-embedly/, collective.tinymceplugins.embedly, 1.0.2, Integration of the Embedly TinyMCE plugin with Plone, 2016-11-05T18:31:51+0000
+/project/auslfe-formonline-content/, auslfe.formonline.content, 0.8.1, The Form Online content type for Plone, 2012-10-03T14:03:10+0000
+/project/vs-contentpopup/, vs.contentpopup, 0.2.4, vs.contentpopup, 2012-04-17T02:36:41+0000
+/project/collective-geo-opensearch/, collective.geo.opensearch, 0.4, opensearch for plone maps (collective.geo), 2013-06-10T13:12:38+0000
+/project/quintagroup-plonecomments/, quintagroup.plonecomments, 4.1.9, Plone Comments, 2013-01-16T11:00:38+0000
+/project/redturtle-video/, redturtle.video, 1.1.1, Video content types for Plone; use collective.flowplayer but also pluggable with external services. - Forward compatibility shim version, for easily migrate to wildcard.media, 2015-08-17T09:01:44+0000
+/project/products-datagridfield/, Products.DataGridField, 1.9.6, A table input component for Plone., 2017-02-21T17:05:12+0000
+/project/collective-itvalidators/, collective.itvalidators, 1.0.0, A set of Archetypes validators for Plone, some for Italian specific needs, others useful for all, 2012-11-12T13:51:19+0000
+/project/collective-z3cform-chosen/, collective.z3cform.chosen, 1.2.2, chosen widget for z3cform (both chosen & ajax version), 2021-04-20T14:05:21+0000
+/project/collective-overridemailrecipients/, collective.overridemailrecipients, 1.0.2, UNKNOWN, 2013-03-08T14:49:43+0000
+/project/collective-localrolesdatatables/, collective.localrolesdatatables, 1.0.1, View / export localroles of all or parts of the site, 2012-08-08T14:31:58+0000
+/project/collective-sortmyfolder/, collective.sortmyfolder, 1.0.7, Reveal some not-so-hidden Plone feature for sorting your folders, 2014-04-08T07:39:06+0000
+/project/collective-footerportletmanager/, collective.footerportletmanager, 1.0, Footer portlet manager for Plone, 2012-10-10T16:49:54+0000
+/project/collective-sugarcrm/, collective.sugarcrm, 1.2.1, SugarCRM components for Plone, 2013-12-09T10:42:49+0000
+/project/collective-ptg-flickr/, collective.ptg.flickr, 0.1.1, Add on collective.plonetruegallery to aggregate from flickr, 2012-11-07T15:19:42+0000
+/project/nti-contentratings/, nti.contentratings, 1.2.0, A small Zope 3 package (which also works with Zope 2.10+ and Five) that allows you to attach ratings to content., 2021-04-13T18:03:38+0000
+/project/collective-csv2atvocabularymanager/, collective.csv2atvocabularymanager, 0.1.1, Plone utility for importing your ATVocabularyManager vocabularies from CSV sources (with LinguaPlone support), 2012-11-13T09:05:35+0000
+/project/mr-crabby/, mr.crabby, 1.5, Mr. Crabby is your blue crabby friend for Plone., 2012-03-26T07:09:54+0000
+/project/collective-stringinterp-smartlink/, collective.stringinterp.smartlink, 0.3, Plone string interpolation override for URLs, with backend-frontend support, 2013-08-02T15:35:00+0000
+/project/collective-linguadomains/, collective.linguadomains, 1.1, Manage translated domains for Plone, 2013-01-17T13:09:44+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/collective-celery/, collective.celery, 1.1.4, Celery for Plone, 2018-12-07T02:43:28+0000
+/project/collective-js-enquire/, collective.js.enquire, 1.5.6, Add enquire.js to Plone resource registry, 2013-03-21T17:25:30+0000
+/project/quintagroup-seoptimizer/, quintagroup.seoptimizer, 4.3, Quintagroup Search Engine Optimization Tool, 2013-09-18T11:34:05+0000
+/project/collective-pygal-core/, collective.pygal.core, 0.1, Pygal dynamic SVG charting library integration for plone, 2012-04-02T10:16:12+0000
+/project/collective-transform-kml/, collective.transform.kml, 0.1, Transform KML to HTML, 2012-06-13T07:06:11+0000
+/project/collective-js-datatables/, collective.js.datatables, 4.1.2, Plone Integration of jquery.dataTables plugin, 2016-09-21T08:05:18+0000
+/project/collective-js-jquerymobile/, collective.js.jquerymobile, 1.3.1.1, JQuery mobile integration in Plone, 2013-04-16T14:36:51+0000
+/project/collective-js-pikachoose/, collective.js.pikachoose, 1.1, JQuery pickachoose plugin as browser resource, 2012-06-05T10:36:43+0000
+/project/collective-portlet-keywords/, collective.portlet.keywords, 1.0.1, Keywords portlet for Plone, 2013-02-15T12:56:17+0000
+/project/products-atvocabularymanager/, Products.ATVocabularyManager, 1.6.7, Vocabulary library Plone. Central, Pluggable, TTW, with IMS VDEX Support, 2015-07-30T11:29:20+0000
+/project/eea-uberlisting/, eea.uberlisting, 3.1, Plone product for ajax display of available templates for the given content type, 2019-01-29T20:13:44+0000
+/project/collective-sendaspdf/, collective.sendaspdf, 3.0, An open source product for Plone to download or email a page seen by the user as a PDF file., 2015-06-24T17:28:45+0000
+/project/redturtle-gritterize/, redturtle.gritterize, 0.9.3, Plone integration with Gritter, 2013-09-23T09:48:44+0000
+/project/eea-graylogger/, eea.graylogger, 2.0, GELF (Graylog Extended Log Format) for Zope, 2019-12-02T16:33:16+0000
+/project/quintagroup-dropdownmenu/, quintagroup.dropdownmenu, 1.3.4, Multilevel portal dropdown menu for Plone sites., 2015-06-09T12:43:51+0000
+/project/experimental-gracefulblobmissing/, experimental.gracefulblobmissing, 0.5.0, Patch for Plone. Don't raise errors for file contents with missing BLOB file, 2018-12-14T13:43:59+0000
+/project/experimental-securityindexing/, experimental.securityindexing, 0.6, Optimises indexing of object security for a Plone site., 2014-06-04T13:20:54+0000
+/project/products-quills/, Products.Quills, 1.8.1, A Blogging Suite for Plone., 2016-12-27T21:14:28+0000
+/project/eea-converter/, eea.converter, 12.9, SVG, PNG, PDF converters using external tools as ImageMagick, 2020-03-31T16:40:13+0000
+/project/collective-js-chosen/, collective.js.chosen, 1.4, Integrate chosen and ajaxchosen in plone, 2013-03-25T11:33:46+0000
+/project/collective-geo-exif/, collective.geo.exif, 0.1, Geoannotate Images with EXIF information, 2013-08-30T09:50:24+0000
+/project/collective-vaporisation/, collective.vaporisation, 1.3.7, Plone portlet for vaporisation tagcloud, 2015-02-17T16:45:44+0000
+/project/collective-ckeditor/, collective.ckeditor, 4.9.1, CKEditor for Plone, 2021-02-12T14:35:38+0000
+/project/dateable-chronos/, dateable.chronos, 1.0, Dateable calendaring views, 2013-05-21T13:50:01+0000
+/project/mr-inquisition/, mr.inquisition, 0.2, A package to help with exploring a Plone site., 2015-08-04T10:47:25+0000
+/project/cciaa-portlet-calendar/, cciaa.portlet.calendar, 1.3.0, Alternative calendar portlet for Plone that perform some additional search, 2013-11-20T15:37:46+0000
+/project/collective-maildigest/, collective.maildigest, 1.0, Users can subscribe on a mail digest about activity in a Plone Folder, 2014-10-10T08:39:53+0000
+/project/plone-app-transmogrifier/, plone.app.transmogrifier, 1.4.2, Plone blueprints for collective.transmogrifier pipelines, 2019-09-24T09:01:32+0000
+/project/collective-videoanysurfer/, collective.videoanysurfer, 1.0.8, Youtube Integration to be AnySurfer compliant, 2013-07-04T07:09:06+0000
+/project/collective-portlet-discussion/, collective.portlet.discussion, 1.2.6, A simple Plone portlet to show a list of comments, 2019-05-13T12:39:30+0000
+/project/rer-giunta/, rer.giunta, 1.1.3, An Archetype for alderman informations, 2015-12-03T12:30:58+0000
+/project/collective-randomheaderimage/, collective.randomheaderimage, 0.1.0, Provide a random header to display into the header, 2012-01-19T15:59:58+0000
+/project/adi-bookmark/, adi.bookmark, 0.2, Store bookmarks to a Plone-site or -folder., 2017-04-27T12:59:44+0000
+/project/eea-relations/, eea.relations, 11.7, EEA Possible Relations. This package provides a flexible way to manage relations in a Plone site. it provides a new reference browser widget and a central management interface for relations, their labels and requirements., 2021-03-29T15:52:37+0000
+/project/eea-exhibit/, eea.exhibit, 8.9, EEA Exhibit provides Simile Widgets Exhibit JS libraries as Zope 3 resources., 2018-09-10T12:48:04+0000
+/project/eea-async-manager/, eea.async.manager, 2.1, zc.async queue manager, 2019-11-28T19:04:09+0000
+/project/pas-plugins-aselect/, pas.plugins.aselect, 1.5, PAS Plugin for authentication with A-Select, 2012-10-14T01:44:00+0000
+/project/collective-picturefill/, collective.picturefill, 1.2, PictureFill for Plone, 2013-04-29T14:56:19+0000
+/project/products-datagridfield/, Products.DataGridField, 1.9.6, A table input component for Plone., 2017-02-21T17:05:12+0000
+/project/collective-itvalidators/, collective.itvalidators, 1.0.0, A set of Archetypes validators for Plone, some for Italian specific needs, others useful for all, 2012-11-12T13:51:19+0000
+/project/collective-z3cform-chosen/, collective.z3cform.chosen, 1.2.2, chosen widget for z3cform (both chosen & ajax version), 2021-04-20T14:05:21+0000
+/project/collective-overridemailrecipients/, collective.overridemailrecipients, 1.0.2, UNKNOWN, 2013-03-08T14:49:43+0000
+/project/collective-localrolesdatatables/, collective.localrolesdatatables, 1.0.1, View / export localroles of all or parts of the site, 2012-08-08T14:31:58+0000
+/project/collective-sortmyfolder/, collective.sortmyfolder, 1.0.7, Reveal some not-so-hidden Plone feature for sorting your folders, 2014-04-08T07:39:06+0000
+/project/collective-footerportletmanager/, collective.footerportletmanager, 1.0, Footer portlet manager for Plone, 2012-10-10T16:49:54+0000
+/project/collective-sugarcrm/, collective.sugarcrm, 1.2.1, SugarCRM components for Plone, 2013-12-09T10:42:49+0000
+/project/collective-ptg-flickr/, collective.ptg.flickr, 0.1.1, Add on collective.plonetruegallery to aggregate from flickr, 2012-11-07T15:19:42+0000
+/project/nti-contentratings/, nti.contentratings, 1.2.0, A small Zope 3 package (which also works with Zope 2.10+ and Five) that allows you to attach ratings to content., 2021-04-13T18:03:38+0000
+/project/collective-csv2atvocabularymanager/, collective.csv2atvocabularymanager, 0.1.1, Plone utility for importing your ATVocabularyManager vocabularies from CSV sources (with LinguaPlone support), 2012-11-13T09:05:35+0000
+/project/products-autorolefromhostheader/, Products.AutoRoleFromHostHeader, 1.0.1, Plone PAS plugin for adding roles (or groups) to anonymous or logged-in visitors looking for HTTP Headers., 2021-01-28T09:47:10+0000
+/project/slc-linguatools/, slc.linguatools, 1.4.4, A set of tools that simplify handling multilingual content in Plone based on LinguaPlone, 2013-12-06T14:43:01+0000
+/project/collective-js-ui-multiselect/, collective.js.ui.multiselect, 1.0.1, Integrates the multiselect widget into plone., 2014-09-23T10:15:51+0000
+/project/collective-easyslider/, collective.easyslider, 1.4.1, The product will allow you to apply an easyslider to any page with the ability to create each slide using a WYSIWYG editor. It also provides a slider view for Folders and Collections., 2014-01-14T02:53:43+0000
+/project/products-googlecoop/, Products.googlecoop, 2.1, Google Coop for Plone makes it easy for you to integrate a Google Co-op Custom Search engine in your plone site., 2011-11-30T11:42:29+0000
+/project/cciaa-modulistica/, cciaa.modulistica, 3.0.1, An additional view for Plone folders, to improve management of repositories of files, 2020-03-06T11:47:15+0000
+/project/collective-js-fitvids/, collective.js.fitvids, 1.0.0, FitVids.js for Plone, 2012-05-17T14:07:01+0000
+/project/rt-filenotindexed/, rt.filenotindexed, 0.2.0, Force Plone to not index your files in SearchableText, 2015-09-02T10:37:11+0000
+/project/collective-diggdigg/, collective.diggdigg, 1.0, DiggDigg for Plone, 2013-01-02T11:17:34+0000
+/project/collective-rtvideo-vimeo/, collective.rtvideo.vimeo, 0.2.0, The Vimeo Plone support for RedTurtle Video, 2014-12-01T14:27:42+0000
+/project/collective-fbshare/, collective.fbshare, 0.3.2, Provide some additional Open Graph meta tag in your Plone site, so share items on Facebook will be simpler, 2016-04-19T06:55:27+0000
+/project/collective-portlet-fancyboxgallery/, collective.portlet.fancyboxgallery, 1.0, Gallery portlet for Plone, 2012-12-06T22:21:16+0000
+/project/eea-similarity/, eea.similarity, 2.2, A package that suggests similar titles to one being added, 2019-01-29T19:36:49+0000
+/project/collective-galleriffic/, collective.galleriffic, 1.1.6, Galleriffic integration into Plone, 2013-08-07T11:55:17+0000
+/project/eea-app-visualization/, eea.app.visualization, 12.7, Visualization API, 2020-12-21T22:25:18+0000
+/project/comuneimola-compensi/, comuneimola.compensi, 1.3, Fees management for the town of Imola - Under Italian Law, the institutional websites of the cities shall contain a detailed list of the amounts of all the contracts (herein we will use the term "fees") drawn up with external professionals. This product implements Plone with two new custom archetypes, "Fees Area" and "Fee"., 2013-02-14T16:48:51+0000
+/project/collective-clipboardupload/, collective.clipboardupload, 1.0, Allows uploading images into Plone site by pasting them into TinyMCE WYSIWYG editor, 2013-07-30T09:15:15+0000
+/project/collective-js-easing/, collective.js.easing, 1.0, JQuery easing plugin registration for the Plone CMS, 2012-01-04T20:20:29+0000
+/project/products-atgooglevideo/, Products.ATGoogleVideo, 0.9.1, Use YouTube and Google Video on a Plone Site., 2012-04-05T13:12:22+0000
+/project/collective-prettyphoto/, collective.prettyphoto, 0.6, prettyPhoto integration for Plone., 2016-02-10T09:21:21+0000
+/project/collective-js-imagesloaded/, collective.js.imagesloaded, 2.1, Register JQuery imagesloaded plugin in Plone resource registry, 2012-10-20T13:28:56+0000
+/project/collective-geo-file/, collective.geo.file, 0.6, An openlayers view for KML, KMZ and GPX files, 2013-08-30T09:22:55+0000
+/project/collective-captchacontactinfo/, collective.captchacontactinfo, 2.0.5, A simple customization for Plone contact-info that add recaptcha for anonymous users, 2021-02-03T13:28:00+0000
+/project/collective-geo-json/, collective.geo.json, 0.4.1, Collective Geo GeoJson output, 2018-01-09T11:19:46+0000
+/project/collective-btrees/, collective.btrees, 1.1, Add btrees in annotations, 2012-06-05T17:23:23+0000
+/project/quintagroup-plonegooglesitemaps/, quintagroup.plonegooglesitemaps, 1.8.2, Allows Plone websites to get better visibility for Google search engine, 2013-04-22T12:59:46+0000
+/project/products-zsparqlmethod/, Products.ZSPARQLMethod, 2.3, Zope product for making SPARQL queries, simiar to ZSQLMethod, 2020-08-05T10:14:45+0000
+/project/collective-js-highslide/, collective.js.highslide, 1.0, Register highslide jquery plugin into plone resource registry, 2012-01-04T20:30:57+0000
+/project/eea-versions/, eea.versions, 12.3, EEA versions, 2020-09-18T18:37:17+0000
+/project/collective-etherpad/, collective.etherpad, 1.1.2, Etherpad-lite integration in Plone, 2013-09-26T13:00:20+0000
+/project/templer-core/, templer.core, 1.0b4, Core functionality for the templer tool, 2012-05-18T05:33:19+0000
+/project/collective-baseline/, collective.baseline, 1.0, Add a baseline to the header, 2012-09-13T10:07:09+0000
+/project/products-atcustomizableview/, Products.ATCustomizableView, 0.5.0, A product that change the standard Plone behavior of the "Display" menu, 2013-10-01T16:47:57+0000
+/project/rt-zptformfield/, rt.zptformfield, 0.2.1, Some ZPT macros for Zope/Plone HTML forms development, 2015-09-08T15:21:07+0000
+/project/eea-depiction/, eea.depiction, 8.4, EEA Depiction (formerly valentine.imagescales), 2021-04-16T09:20:52+0000
+/project/collective-datatablesviews/, collective.datatablesviews, 1.1, various datatables views for plone content types (collections atm), 2012-11-20T08:06:22+0000
+/project/eea-google/, eea.google, 5.8, This package contains useful tools for talking with Google Analytics, 2019-01-29T17:38:53+0000
+/project/collective-rtvideo-youtube/, collective.rtvideo.youtube, 0.3.1, The YouTube Plone support for RedTurtle Video, 2014-12-01T14:29:14+0000
+/project/c2-patch-plone4year2021/, c2.patch.plone4year2021, 1.0, This product is monkey patching selected year problem after 2021 for Plone 4, 2020-11-17T08:16:59+0000
+/project/collective-fancyboxgallery/, collective.fancyboxgallery, 1.0, Gallery view for Plone using jquery.fancybox, 2012-12-06T22:17:40+0000
+/project/templer-buildout/, templer.buildout, 1.0b1, Templer system extensions for buildouts and buildout recipes, 2012-05-18T05:56:42+0000
+/project/collective-depositbox/, collective.depositbox, 1.3, Put stuff in a box, get it out again with the secret, 2015-09-01T16:33:05+0000
+/project/redturtle-logoswitch/, redturtle.logoswitch, 1.1.0, Allows users to change plone portal logo from a given images list, 2013-07-08T15:58:06+0000
+/project/egenix-mxodbc-zopeda/, egenix-mxodbc-zopeda, 2.2.3, eGenix mxODBC Zope/Plone Database Adapter for Plone and Zope, 2015-09-11T18:36:59+0000
+/project/cirb-blog/, cirb.blog, 1.0a3, Blog project for CIRB, 2013-01-18T12:11:23+0000
+/project/collective-registry/, collective.registry, 1.0, Extend plone.app.registry by implementing IRegistry with an adapter on context, 2012-01-30T20:04:57+0000
+/project/eea-alchemy/, eea.alchemy, 7.3, EEA Alchemy allows you to bulk auto-discover geographical coverage, temporal coverage, keywords and more, 2019-01-29T14:14:05+0000
+/project/collective-geo-fastkml/, collective.geo.fastkml, 0.3, Generate KML with fastkml for collective.geo, 2013-09-05T11:42:44+0000
+/project/quills-app/, quills.app, 1.8.1, The Quills blogging suite. Contains code shared between Products.Quills and  Products.QuillsEnabled., 2016-12-27T21:32:13+0000
+/project/collective-optimage/, collective.optimage, 0.1.0a, Optimize Plone content images for Web usage, 2012-06-30T16:43:42+0000
+/project/collective-datagridcolumns/, collective.datagridcolumns, 0.7.0, Additional columns for Plone and DataGridField, 2015-05-22T16:08:53+0000
+/project/templer-localcommands/, templer.localcommands, 1.0b2, Templer system framework for local commands, 2012-05-20T22:45:06+0000
+/project/collective-metarobots/, collective.metarobots, 1.1.1, Add meta tag robots to Plone, 2012-09-03T14:59:04+0000
+/project/jquery-pyproxy/, jquery.pyproxy, 0.5, A simple python egg and jquery plugin to easily use JQuery in Django/Plone/.. websites., 2013-09-24T11:04:24+0000
+/project/ftw-quota/, ftw.quota, 1.0, Quota support for archetypes containers., 2012-06-14T10:10:35+0000
+/project/products-plonehotfix20171128/, Products.PloneHotfix20171128, 1.0, Various Plone hotfixes, 2017-11-28, 2017-11-28T15:02:16+0000
+/project/collective-ptg-fancybox/, collective.ptg.fancybox, 1.2, UNKNOWN, 2016-02-04T13:01:28+0000
+/project/collective-sharerizer/, collective.sharerizer, 1.4, A package to inject Web 2.0 style sharing buttons into Plone's document_actions., 2012-11-29T15:44:29+0000
+/project/zopyx-smartprintng-plone/, zopyx.smartprintng.plone, 2.1.27, Produce & Publisher server integration with Plone, 2015-02-17T07:26:35+0000
+/project/collective-js-twittertext/, collective.js.twittertext, 1.0, Add twitter-text.js library to Plone's resource registry, 2012-01-19T12:57:14+0000
+/project/collective-portlet-ngcollection/, collective.portlet.ngcollection, 1.5, Extends plone collection portlet in order to allow assigning different views for each newly created portlet through it's edit form, 2015-10-27T15:01:24+0000
+/project/vs-jquerybookmarks/, vs.jquerybookmarks, 0.1.5, jquery.bookmark integration with Plone 4, 2012-06-02T12:32:35+0000
+/project/collective-geo-polymaps/, collective.geo.polymaps, 0.1, Collective Geo Polymaps integation, 2012-02-24T11:14:56+0000
+/project/collective-blog-portlets/, collective.blog.portlets, 1.6, Archive view and portlet, 2014-04-18T16:25:46+0000
+/project/collective-mollie/, collective.mollie, 0.3, Wrapper for the Mollie iDeal API, 2012-10-31T16:31:04+0000
+/project/collective-configviews/, collective.configviews, 3.1.0, Manage configuration of browser views, 2016-08-23T13:41:01+0000
+/project/collective-navigationtoggle/, collective.navigationtoggle, 1.0.3, Expand/collapse feature for specific Plone navigation entries, in an unobtrusive way, 2020-05-05T06:34:27+0000
+/project/collective-externalimageeditor/, collective.externalimageeditor, 1.6, Addon product for plone to edit images on online webservices, 2012-02-13T14:06:22+0000
+/project/ftw-keywordoverlay/, ftw.keywordoverlay, 1.2.1, Puts a nice overlay over Archetypes' default keywordwidget for plone., 2012-05-16T14:58:37+0000
+/project/eea-faceted-tool/, eea.faceted.tool, 5.7, EEA Faceted Tool, 2021-04-09T07:29:54+0000
+/project/collective-portlet-actions/, collective.portlet.actions, 1.2.3.post1, A portlet that provides the links of an action category, 2016-06-10T10:36:47+0000
+/project/sc-pfg-brazilianfields/, sc.pfg.brazilianfields, 1.1.1, A collection Brazilian fields to be used with PloneFormGen, 2012-08-01T19:30:26+0000
+/project/collective-regexredirector/, collective.regexredirector, 0.2.3, Addon for plone.app.redirector concerning regex redirector, 2015-05-26T08:06:35+0000
+/project/eea-googlecharts/, eea.googlecharts, 20.9, Configurator for GoogleCharts, 2020-12-21T22:24:01+0000
+/project/pas-plugins-velruse/, pas.plugins.velruse, 0.1.0a1, PAS plugin for Plone. Allow users to login using social networks through Velruse, 2014-05-14T14:52:13+0000
+/project/pmr2-oauth/, pmr2.oauth, 0.6.1, OAuth PAS Plugin, OAuth 1.0 provider for Plone., 2017-01-13T05:04:42+0000
+/project/collective-js-detectmobilebrowsers/, collective.js.detectmobilebrowsers, 1.0, Add detectmobilebrowsers script to plone resource registry, 2013-03-28T09:47:32+0000
+/project/products-plonesoftwarecenter/, Products.PloneSoftwareCenter, 1.6.4, PloneSoftwareCenter is a tool that keeps track of software projects, 2012-09-27T13:43:40+0000
+/project/plone-app-async/, plone.app.async, 1.7.0, Integration package for zc.async allowing asynchronous operations in Plone, 2016-02-25T22:09:47+0000
+/project/wildcard-readonly/, wildcard.readonly, 1.0, Easily setup readonly zeo clients, 2014-02-27T14:21:13+0000
+/project/collective-categories/, collective.categories, 1.0, Add categories to Plone, 2013-01-11T14:38:18+0000
+/project/collective-contentrules-yearmonth/, collective.contentrules.yearmonth, 1.1, Moves contents to a choosen directory/YEAR/MONTH, 2013-01-07T16:58:31+0000
+/project/collective-mass-subscriptions/, collective.mass_subscriptions, 0.1.1, Give to Plone administrators a form where is possible to subscribe multiple users in a single operation, 2017-11-27T09:15:17+0000
+/project/p4a-plonecalendar/, p4a.plonecalendar, 2.1, Plone4Artists calendar add-on for Plone, 2013-05-21T13:52:35+0000
+/project/quintagroup-megamenu/, quintagroup.megamenu, 1.5.3, Mega menu for Plone, 2015-04-02T14:06:52+0000
+/project/eea-faceted-vocabularies/, eea.faceted.vocabularies, 6.9, EEA Faceted Vocabularies, 2019-04-04T21:21:55+0000
+/project/plone-intelligenttext/, plone.intelligenttext, 3.1.0, Provides transforms from text/x-web-intelligent to text/html and vice versa., 2020-04-20T20:40:19+0000
+/project/collective-pygal-plonestats/, collective.pygal.plonestats, 0.1, Simple plone portalindex statistics with pygal, 2012-04-02T10:17:11+0000
+/project/rt-calendarinandout/, rt.calendarinandout, 1.2.0, A LinesWidget-like for Plone, used for selecting dates, 2014-02-19T15:17:04+0000
+/project/collective-fontawesome/, collective.fontawesome, 1.1, Font Awesome for Plone, 2018-08-01T09:16:57+0000
+/project/collective-portlet-categories/, collective.portlet.categories, 1.0, Categories portlet for Plone, 2013-02-15T11:20:05+0000
+/project/collective-taxonomysupport/, collective.taxonomysupport, 1.4.1, Add support for taxonomies to Plone contents as a news tag-like field, 2016-06-30T06:14:55+0000
+/project/bg-solr/, bg.solr, 0.2, bg.solr, 2011-12-13T05:11:48+0000
+/project/collective-cmcicpaiement/, collective.cmcicpaiement, 1.0b1, CM CIC Paiement for Plone, 2013-01-22T13:15:02+0000
+/project/collective-mailchimp/, collective.mailchimp, 3.1.0, MailChimp integration for Plone., 2020-01-13T13:13:58+0000
+/project/collective-portlet-oembed/, collective.portlet.oembed, 1.2.1, Portlet waiting for an external link displayed using oembed/embedly, 2013-01-02T15:37:32+0000
+/project/products-ploneboardnotify/, Products.PloneboardNotify, 0.5.0, A configurable Plone product for sending e-mails when new messages are added to Ploneboard forums, 2013-05-12T17:29:24+0000
+/project/quintagroup-captcha-core/, quintagroup.captcha.core, 0.4.3, A core package of simple captcha implementation, 2013-07-17T12:17:32+0000
+/project/vs-flexigridsearch/, vs.flexigridsearch, 1.0.1, Plone  search results through flexigrid, 2013-06-04T07:35:46+0000
+/project/collective-js-simplecart/, collective.js.simplecart, 1.0, SimpleCart(js) for Plone, 2012-07-27T21:38:32+0000
+/project/wildcard-uberoverride/, wildcard.uberoverride, 1.0a1, UNKNOWN, 2013-05-16T21:05:34+0000
+/project/collective-blog-view/, collective.blog.view, 1.5.2, A blog view for folders., 2013-10-19T09:51:40+0000
+/project/plonetheme-corporatevira/, plonetheme.corporatevira, 1.0, A Plone 4 theme based on plonetheme.corporatemale., 2013-06-06T07:09:19+0000
+/project/collective-geo-wms/, collective.geo.wms, 0.2, WMS Support for Collective Geo, 2013-10-30T07:22:32+0000
+/project/cs-portlet-aemet/, cs.portlet.aemet, 1.4.1, A portlet to show the weather via AEMET, 2018-02-01T07:50:40+0000
+/project/bise-diazotheme/, bise.diazotheme, 1.4.dev0, Bise Theme for Diazo, 2018-12-27T15:47:05+0000
+/project/eea-progressbar/, eea.progressbar, 4.5, Progress bar based on current document review_state, 2019-08-19T12:03:23+0000
+/project/quintagroup-formlib-captcha/, quintagroup.formlib.captcha, 1.4.3, Captcha field for formlib based on quintagroup.captcha.core package, 2014-06-11T12:06:02+0000
+/project/collective-powertoken-view/, collective.powertoken.view, 0.1.0, View and content access add-ons for collective.powertoken support for Plone, 2012-01-11T08:34:03+0000
+/project/archetypes-linguakeywordwidget/, archetypes.linguakeywordwidget, 1.1, Archetypes keyword widget with multilanguage support, 2013-01-16T14:21:26+0000
+/project/plonetheme-responsive1140/, plonetheme.responsive1140, 1.1, A responsive theme for Plone, 2012-02-17T13:23:23+0000
+/project/collective-favoriting/, collective.favoriting, 1.0.2, Favoriting internal content, 2013-06-05T08:16:37+0000
+/project/templer-plone/, templer.plone, 1.0b4, Templer system extensions for plone add-on development, 2013-02-10T13:59:04+0000
+/project/collective-powertoken-workflow/, collective.powertoken.workflow, 0.2.0, Workflow add-ons for collective.powertoken support for Plone, 2012-02-15T14:56:02+0000
+/project/collective-azindexpage/, collective.azindexpage, 1.0.3, Create a A-Z index page for Plone, 2013-02-15T10:54:48+0000
+/project/collective-setdefaulteditor/, collective.setdefaulteditor, 1.5, Set the default editor in Plone for all existing members., 2013-09-13T13:33:57+0000
+/project/products-brfieldsandwidgets/, Products.BrFieldsAndWidgets, 1.2.2, Brazilian fields and widgets to be used with Plone and Archetypes, 2012-08-10T20:24:29+0000
+/project/collective-dancingcustomtemplates/, collective.dancingcustomtemplates, 1.0.0, A product that customize some templates for S&D, 2012-11-09T16:00:29+0000
+/project/eea-icons/, eea.icons, 3.3, EEA Icons used throughout the EEA sites, 2019-05-20T15:57:06+0000
+/project/collective-portlet-socialnetworks/, collective.portlet.socialnetworks, 1.2, Social networks to follow, 2013-01-18T10:00:30+0000
+/project/eea-downloads/, eea.downloads, 2.1, EEA Downloads Media Storage, 2019-01-29T16:04:44+0000
+/project/plone-app-changeownership/, plone.app.changeownership, 1.0, Change Plone objects ownership, 2019-09-02T20:42:37+0000
+/project/eea-sparql/, eea.sparql, 7.4, Wrapper for Products.ZSPARQLMethod, 2020-03-03T13:55:37+0000
+/project/collective-geo-index/, collective.geo.index, 0.1, spatialindex for collective.geo, 2012-02-16T10:06:30+0000
+/project/experimental-pietimemenu/, experimental.pietimemenu, 0.1, Experimental Radial (Pie) Menu for time input, 2012-02-16T11:47:12+0000
+/project/redturtle-portlet-content/, redturtle.portlet.content, 2.0.0, A generic portlet that allows to show various parts of a document, like title, description, text, image and comments., 2017-09-13T15:32:02+0000
+/project/collective-portlet-twittermultistream/, collective.portlet.twittermultistream, 1.2, Twitter Multi Stream portlet for Plone, 2013-01-02T16:05:24+0000
+/project/collective-captionmanager/, collective.captionmanager, 1.0, Caption manager for Plone, 2012-08-07T06:57:12+0000
+/project/collective-langdet/, collective.langdet, 0.1, Language detection of content, 2012-06-13T06:58:52+0000
+/project/contentratings/, contentratings, 1.2.1, A small Zope 3 package (which also works with Zope 2.10+ and Five) that allows you to attach ratings to content., 2017-03-15T17:54:08+0000
+/project/collective-ptg-picasa/, collective.ptg.picasa, 0.1.1, Add on collective.plonetruegallery to aggregate from picasa, 2012-11-07T15:20:10+0000
+/project/products-carousel/, Products.Carousel, 3.0.2, Carousel allows you to add user-configurable rotating banners to any section of a Plone site., 2017-04-11T15:05:35+0000
+/project/collective-anonymousview/, collective.anonymousview, 1.1, Allow a loggedin user to view a page as an anonymous user, 2012-08-02T10:05:09+0000
+/project/auslfe-formonline-pfgadapter/, auslfe.formonline.pfgadapter, 0.7.2, An adapter for PloneFormGen that add to Plone a way for manage online forms submission, 2014-10-28T13:38:52+0000
+/project/collective-linguafaq/, collective.linguafaq, 0.5, A simple multilanguage faq, 2012-07-03T14:36:46+0000
+/project/products-refbiblioparser/, Products.RefBiblioParser, 1.2, Addon for CMFBibliographyAT to parse/export REF files., 2012-03-26T01:02:10+0000
+/project/eea-rabbitmq-client/, eea.rabbitmq.client, 1.9, Python RabbitMQ client, 2020-05-13T11:19:13+0000
+/project/quintagroup-substyle/, quintagroup.substyle, 1.3, Styles for site subsections, 2013-11-21T15:56:10+0000
+/project/eea-jquery/, eea.jquery, 11.2, jQuery library and plugins for Plone, 2020-03-03T13:57:46+0000
+/project/eea-daviz/, eea.daviz, 12.4, EEA DaViz is a plone product which uses Exhibit and Google Charts API to easily create data visualizations based on data from csv/tsv, JSON, SPARQL endpoints and more., 2020-02-28T16:52:12+0000
+/project/collective-portlet-group/, collective.portlet.group, 2.0, A portlet to display member of a group, 2012-09-03T15:50:31+0000
+/project/pd-contentrules-sms/, pd.contentrules.sms, 1.0.2, Add on for the Plone booking product rg.prenotazioni that adds a conten trule to send SMS, 2015-08-10T08:41:35+0000
+/project/ftw-dashboard-portlets-postit/, ftw.dashboard.portlets.postit, 1.4.0, Postit portlet for the dashboard, 2015-07-07T13:29:35+0000
+/project/collective-diffbot/, collective.diffbot, 1.0, difbot.com wrapper for Plone usage, 2013-02-13T16:54:05+0000
+/project/collective-portlet-shelf/, collective.portlet.shelf, 1.3, collective.portlet.shelf is a portlet for Plone 4 that allows to display Collection's results in a carousel portlet browsing them by subcollections., 2014-01-21T10:37:00+0000
+/project/vs-event/, vs.event, 0.3.1, An extended event content-type for Plone (and Plone4Artists calendar), 2011-12-05T18:55:37+0000
+/project/collective-portaltabs/, collective.portaltabs, 0.4.0, Manage site's portal tabs from Plone interface in a simple way, 2014-07-25T12:00:05+0000
+/project/collective-portlet-sitemap/, collective.portlet.sitemap, 1.0.5, Plone 3 and 4 navigation portlet extended, 2012-10-15T08:08:39+0000
+/project/monet-calendar-location/, monet.calendar.location, 0.4.1, Add Italian features to monet.calendar.event, 2012-01-04T09:48:44+0000
+/project/redturtle-sqlcontents/, redturtle.sqlcontents, 0.9.1, RedTurtle - SQL Contents, 2013-07-29T10:10:19+0000
+/project/collective-js-ckeditor/, collective.js.ckeditor, 4.0.3, Just register ckeditor resources to Plone registry, 2013-04-29T10:36:03+0000
+/project/collective-wpadmin/, collective.wpadmin, 1.0a3, Wordpress like admin page, 2013-01-17T12:41:54+0000
+/project/collective-portlet-organization/, collective.portlet.organization, 1.0, Portlet to display an organization, 2012-09-02T14:02:08+0000
+/project/cciaa-topic-view/, cciaa.topic-view, 1.2.1, Additional view for Collection in Plone, with a common C2P/C3P CCIAA layout, 2018-10-15T13:18:40+0000
+/project/redturtle-portlets-inspector/, redturtle.portlets.inspector, 1.0.0, Redturtle Portlets Inspector, 2013-11-26T13:29:48+0000
+/project/iw-rejectanonymous/, iw.rejectanonymous, 1.2.5, Disallow access to a Plone site and its children if user is anonymous, 2019-10-18T07:57:47+0000
+/project/collective-portlet-lingualinks/, collective.portlet.lingualinks, 1.1, A portlet to provide links to translated content, 2012-04-17T06:50:28+0000
+/project/collective-singing/, collective.singing, 0.7.6, A Zope 3 library for sending notifications and newsletters, 2019-10-22T13:56:00+0000
+/project/collective-contentrules-mailtorole/, collective.contentrules.mailtorole, 1.7, Send e-mail to users having a role on the object, 2013-08-12T09:32:02+0000
+/project/eea-geotags/, eea.geotags, 12.0, EEA Geotags package redefines the location field in Plone. Right now in Plone location field is a free text field. EEA Geotags lets you easy define locations using a map picker and http://geonames.org geographical database., 2021-04-17T12:40:13+0000
+/project/collective-transform-ppt-xl/, collective.transform.ppt-xl, 0.1, Powerpoint and Excel to HTML transformation, 2012-06-13T07:03:39+0000
+/project/collective-mediaelementjs/, collective.mediaelementjs, 0.4.3, A simple integration of the MediaElementJS video player for Plone., 2016-12-03T17:18:52+0000
+/project/eea-epub/, eea.epub, 7.4, Publish Plone content in epub form, 2018-09-07T11:02:53+0000
+/project/collective-jqcookie/, collective.jqcookie, 1.1.0, Collective jqcookie Package (Maintainer: Victor baumann), 2014-02-12T15:51:10+0000
+/project/zopyx-ipsumplone/, zopyx.ipsumplone, 0.3.18, Lorem ipsum text and image demo content for Plone, 2019-07-15T17:40:40+0000
+/project/collective-doormat/, collective.doormat, 0.1, Adds a doormat viewlet and installs it in the Plone
+      footer. The links and text in the doormat are manageable in the
+      control panel, 2011-12-15T12:08:50+0000
+/project/products-reflecto/, Products.Reflecto, 3.0.6, Access the filesystem from Plone, 2014-06-05T21:11:00+0000
+/project/collective-login-monitor/, collective.login_monitor, 0.4, Store and monitor login access to your Plone site, 2015-08-21T07:11:49+0000
+/project/products-ploneglossary/, Products.PloneGlossary, 1.7.3, Highlight Plone content terms, mouseover shows the term definition as tooltip., 2017-04-11T15:54:03+0000
+/project/collective-flexitopic/, collective.flexitopic, 0.7.1, Searchable Collections with Flexigrid, 2014-08-28T10:47:02+0000
+/project/collective-portlet-embed/, collective.portlet.embed, 1.3.0, Embed an HTML snippet in a Plone portlet, 2017-09-14T06:54:46+0000
+/project/collective-js-galleriffic/, collective.js.galleriffic, 1.1, JQuery galleriffic javascript integration as browser resource, 2013-01-31T13:13:53+0000
+/project/vs-tdi/, vs.tdi, 0.3.2, vs.tdi (tabbed document interface), 2012-03-19T16:55:34+0000
+/project/collective-brasil-vocab/, collective.brasil.vocab, 0.8, A Zope 3 vocabulary implementation of brasil.vocab, 2011-12-21T01:04:47+0000
+/project/products-plonearticle/, Products.PloneArticle, 4.2.0, A Plone document including images, attachments and links, with a free choice of layout., 2012-02-08T15:15:26+0000
+/project/eea-pdf/, eea.pdf, 9.3, Download as PDF, 2020-09-18T18:38:25+0000
+/project/collective-js-fancybox/, collective.js.fancybox, 1.3.4.1, Fancybox libraries for Plone, 2012-01-04T20:24:08+0000
+/project/collective-prettydate/, collective.prettydate, 1.2.2, Represents a date on a relative format so, instead of '01/02/2012', it would be displayed as '4 hours ago', 'yesterday' or 'last week', which is easier to read and understand for most people., 2014-11-12T18:28:12+0000
+/project/collective-facebook-instantarticles/, collective.facebook.instantarticles, 1.0.1, Plone plugin for Facebook's instant articles integration, 2018-10-19T10:06:09+0000
+/project/eea-annotator/, eea.annotator, 4.6, EEA Annotator, 2020-05-26T14:04:41+0000
+/project/collective-tablepage/, collective.tablepage, 0.10.6, A Plone page with an editable table as main content, 2015-07-31T13:47:06+0000
+/project/ftw-treeview/, ftw.treeview, 1.2.0, Adds a navigation treeview widget to plone., 2014-10-24T16:34:43+0000
+/project/eea-tags/, eea.tags, 6.4, EEA Tags, 2019-01-29T21:05:14+0000
+/project/zopehealthwatcher/, ZopeHealthWatcher, 0.9.0, ZopeHealthWatcher allows you to monitor and debug the threads of a Zope application., 2016-01-03T12:33:20+0000
+/project/solgema-fullcalendar/, Solgema.fullcalendar, 2.3.6, A complete implementation of Adam Shaw FullCalendar into Plone., 2016-04-05T12:27:13+0000
+/project/collective-js-jwplayer/, collective.js.jwplayer, 6.4.3359, JWPlayer resource for Plone, 2013-05-10T08:15:55+0000
+/project/collective-filteredlocking/, collective.filteredlocking, 1.2.0, A new specific permission that allows unlock of Plone contents, 2014-05-15T14:49:12+0000
+/project/eea-forms/, eea.forms, 7.8, EEA forms - Custom AT widgets and fields, 2020-06-19T18:31:16+0000
+/project/collective-analyticspanel/, collective.analyticspanel, 0.6.1, Add more control over the inclusion of JavaScript analytics code of your Plone site, 2017-09-15T14:04:01+0000
+/project/rer-fix13603/, rer.fix13603, 1.0.0, Patch for deletion by acquisition in Plone<4.3.3, 2014-06-24T06:57:06+0000
+/project/rt-atmigrator/, rt.atmigrator, 0.1.0, A tool that allows to migrate objects from a content-type to another, 2013-03-12T14:32:10+0000
+/project/collective-stringinterp-text/, collective.stringinterp.text, 0.3, Additional string interpolation for Plone: add content text in your contentrule e-mail messages, 2017-11-07T17:36:18+0000
+/project/redturtle-monkey/, redturtle.monkey, 1.3.0, MailChimp integration for Plone., 2017-03-27T15:00:26+0000
+/project/collective-error-detector/, collective.error.detector, 0.1.0b1, The package looks for requests which cause an error. It's a part of https://github.com/potar/dagger, 2013-06-25T11:59:48+0000
+/project/quintagroup-z3cform-captcha/, quintagroup.z3cform.captcha, 1.0.3, Captcha field for z3cform based on quintagroup.captcha.core package, 2013-07-19T12:21:06+0000
+/project/zest-commentcleanup/, zest.commentcleanup, 1.6, Quickly remove lots of spam comments from your Plone Site, 2013-05-13T12:56:11+0000
+/project/vs-contentnavigation/, vs.contentnavigation, 0.2.3, vs.contentnavigation, 2014-01-13T06:26:20+0000
+/project/products-extrememanagement/, Products.eXtremeManagement, 2.1, Project administration which supports the eXtreme Programming methodology., 2016-08-01T06:50:10+0000
+/project/collective-masonry/, collective.masonry, 1.2.2, Integrate Masonry to Plone, 2013-01-23T14:49:58+0000
+/project/collective-powertoken-core/, collective.powertoken.core, 0.3.0, A mechanism for bypass Plone security, performing operations normally unauthorized, if a secret token is know (core package), 2012-02-15T14:46:27+0000
+/project/collective-js-masonry/, collective.js.masonry, 1.0, Register jquery.massonry to Plone resource registry, 2012-10-20T11:56:07+0000
+/project/collective-oembed/, collective.oembed, 2.0.1, oembed integration of consumers and provider for Plone, 2013-12-09T14:34:40+0000
+/project/products-addremovewidget/, Products.AddRemoveWidget, 1.5.2, AddRemoveWidget + ComboBoxWidget for Plone, 2017-01-31T11:13:22+0000
+/project/collective-js-timeago/, collective.js.timeago, 1.1, Register JQuery timeago plugin into Plone resource registry, 2012-12-04T11:06:38+0000
+/project/auslfe-portlet-multimedia/, auslfe.portlet.multimedia, 1.0.1, A simple Plone multimedia Portlet with an eye to accessibility, 2014-10-29T15:01:58+0000
+/project/collective-contentrules-mail/, collective.contentrules.mail, 0.7, Flexible mail content rule, 2016-03-17T12:53:30+0000
+/project/collective-contentrules-subscription/, collective.contentrules.subscription, 0.1.0, A Plone content rule for send e-mail to addresses taken from a subscription list, 2013-05-10T06:51:29+0000
+/project/quintagroup-transmogrifier/, quintagroup.transmogrifier, 0.5, Plone blueprints for collective.transmogrifier pipelines., 2013-08-23T10:32:39+0000
+/project/collective-dancefloor/, collective.dancefloor, 1.0.3, S&D extension to allow local newsletters, 2015-12-02T16:22:29+0000
+/project/collective-linguaanalytics/, collective.linguaanalytics, 1.0, Google Analytics specialized for MultiLanguage sites, 2012-12-06T12:45:17+0000
+/project/products-faq/, Products.Faq, 1.3.2, FAQ - An AT contenttype for Plone, 2013-08-26T14:07:24+0000
+/project/collective-cdn-multiplehostnames/, collective.cdn.multiplehostnames, 0.6, Multiple Hostnames CDN support for Plone, 2012-08-01T19:26:20+0000
+/project/redturtle-imagedevent/, redturtle.imagedevent, 1.0.2, A replacement of the Event content type for Plone, with image field and separate keyword and event type fields., 2013-12-16T08:06:44+0000
+/project/collective-js-mousewheel/, collective.js.mousewheel, 1.0, Add JQuery Mousewheel plugin to the Plone CMS resource registry, 2012-01-04T20:33:08+0000
+/project/collective-plonefinder/, collective.plonefinder, 1.3.1, A finder to search/select portal objects for Plone, 2018-03-26T11:20:30+0000
+/project/auslfe-formonline-content/, auslfe.formonline.content, 0.8.1, The Form Online content type for Plone, 2012-10-03T14:03:10+0000
+/project/vs-contentpopup/, vs.contentpopup, 0.2.4, vs.contentpopup, 2012-04-17T02:36:41+0000
+/project/collective-portlet-videoanysurfer/, collective.portlet.videoanysurfer, 1.0.3, Portlet to display video compliant with anysurfer, 2013-07-02T12:30:52+0000
+/project/collective-taghelper/, collective.taghelper, 0.3.1, The act of tagging content is tedious and humans will often fail to do it. Taghelper examines the content and extracts the keywords that are most relevant., 2011-12-19T13:12:35+0000
+/project/collective-geo-opensearch/, collective.geo.opensearch, 0.4, opensearch for plone maps (collective.geo), 2013-06-10T13:12:38+0000
+/project/quintagroup-plonecomments/, quintagroup.plonecomments, 4.1.9, Plone Comments, 2013-01-16T11:00:38+0000
+/project/collective-cdn-core/, collective.cdn.core, 0.6, CDN support for Plone, 2012-08-01T18:02:37+0000
+/project/collective-geo-faceted/, collective.geo.faceted, 1.0.3, A map view for a facetednav, 2017-07-11T06:47:34+0000
+/project/redturtle-video/, redturtle.video, 1.1.1, Video content types for Plone; use collective.flowplayer but also pluggable with external services. - Forward compatibility shim version, for easily migrate to wildcard.media, 2015-08-17T09:01:44+0000
+/project/products-imageeditor/, Products.ImageEditor, 3.0.0, adds a "Image Editor" link near the image widget  allowing the user to rotate, flip, blur, compress, change contrast & brightness, sharpen, add drop shadows, crop, resize an image, save as, and apply sepia., 2013-03-20T13:05:31+0000
+/project/collective-blog-feeds/, collective.blog.feeds, 2.1, Provides several syndication feed types for standard folders., 2013-05-27T10:02:39+0000
+/project/redturtle-portlet-collection/, redturtle.portlet.collection, 1.0.0, A simple collection portlet for Plone, where you manually choose your skins template id, 2017-09-13T15:28:46+0000
+/project/collective-js-bootstrap/, collective.js.bootstrap, 3.3.7, Get twitter bootstrap as browser resources, 2020-05-28T09:20:51+0000
+/project/zest-social/, zest.social, 1.3, Zest Social Bookmarking, 2012-09-12T16:07:54+0000
+/project/eea-eggmonkey/, eea.eggmonkey, 4.5, Automate releasing eggs with jarn.mkrelease, 2018-02-23T16:22:47+0000
+/project/collective-js-videojs/, collective.js.videojs, 5.8.8, Get twitter videojs as browser resources, 2016-04-14T12:24:11+0000
+/project/collective-js-foundation/, collective.js.foundation, 4.1.6, Foundation for Plone, 2013-05-08T13:18:45+0000
+/project/quintagroup-plonetabs/, quintagroup.plonetabs, 1.0, Quintagroup Plone Tabs, 2014-02-25T12:12:38+0000
+/project/collective-readitlater/, collective.readitlater, 1.1.0, No time ? Read it later !, 2013-08-05T14:32:10+0000
+/project/collective-portlet-localcontents/, collective.portlet.localcontents, 0.3.0, A local navigation for Plone, that shows only contents in current folder, 2012-11-21T14:18:22+0000
+/project/collective-blog-star/, collective.blog.star, 1.2.1, Blog suite for Plone, 2013-10-19T09:55:51+0000
+/project/collective-portlet-contact/, collective.portlet.contact, 1.1.2, Display LDAP contacts in Plone portlets., 2013-12-09T14:55:08+0000
+/project/collective-tinymceplugins-advfilelinks/, collective.tinymceplugins.advfilelinks, 1.3.2, An advanced Plone TinyMCE plugin for handling links to files, 2014-12-10T15:33:47+0000
+/project/collective-favorites/, collective.favorites, 1.1.7, An extensible favorites system for Plone, with a portlet, 2015-04-03T09:19:24+0000
+/project/collective-contactauthor/, collective.contactauthor, 1.1.0, A customization for Plone author form: anonymous users can send message to authors with captcha protection, 2014-09-01T12:20:48+0000
+/project/collective-js-galleria/, collective.js.galleria, 1.2.5, UNKNOWN, 2013-01-26T17:09:05+0000
+/project/collective-singingnotify/, collective.singingnotify, 1.0.3, A plugin for Singing&Dancing that notify users unsubscriptions, 2015-12-02T16:32:36+0000
+/project/rt-filenotindexed/, rt.filenotindexed, 0.2.0, Force Plone to not index your files in SearchableText, 2015-09-02T10:37:11+0000
+/project/collective-themeswitcher/, collective.themeswitcher, 1.0a2, Theme switcher, 2013-04-29T15:17:55+0000
+/project/collective-contextualcontactinfo/, collective.contextualcontactinfo, 0.1.0, Add the information about the context in contact-info message of your Plone Site, 2012-06-15T09:09:16+0000
+/project/collective-randomcontent/, collective.randomcontent, 1.0, Redirect to random content, especially images., 2012-07-19T17:26:10+0000
+/project/collective-js-fileupload/, collective.js.fileupload, 9.12.3.post2, Integration of  jQuery File Upload, an open source File Upload widget with multiple file selection, in Plone., 2016-04-22T13:43:49+0000
+/project/products-plonehotfix20200121/, Products.PloneHotfix20200121, 1.1, Various Plone hotfixes, 2020-01-21, 2020-02-11T22:47:25+0000
+/project/products-smartcolorwidget/, Products.SmartColorWidget, 1.1.5, Smart color picker widget for Archetypes, 2013-06-12T13:36:20+0000
+/project/eea-cache/, eea.cache, 9.4, Tools and config for memcache related caching, 2020-03-10T16:41:46+0000
+/project/products-maps/, Products.Maps, 3.3, A simple, easy to use Plone integration with Google Maps, 2013-04-05T15:39:46+0000
+/project/collective-js-oembed/, collective.js.oembed, 1.0a, JQuery oembed plistred in the Plone resource registry, 2012-01-02T16:28:43+0000
+/project/monet-calendar-event/, monet.calendar.event, 0.5.4, An advanced Event type for Plone with additional date fields and features like days exceptions and week days, 2014-10-23T07:19:25+0000
+/project/collective-portlet-colorcollection/, collective.portlet.colorcollection, 0.3.0, Replace some code of the Plone collection portlet to add links color, 2013-02-13T16:49:14+0000
+/project/collective-request-player/, collective.request.player, 0.1.0b1, The package replays requests. It's a part of https://github.com/potar/dagger, 2013-07-03T11:13:48+0000
+/project/collective-gallery/, collective.gallery, 2.0.1, Base gallery for plone with external services support, 2014-03-04T12:26:43+0000
+/project/collective-geo-flexitopic/, collective.geo.flexitopic, 0.5, Flexitopic for collective.geo, 2013-12-04T14:07:25+0000
+/project/collective-linguasitemap/, collective.linguasitemap, 1.0, Sitemap for MultiLanguage Plone site using LinguaPlone, 2012-12-06T12:57:17+0000
+/project/products-facultystaffdirectory/, Products.FacultyStaffDirectory, 5.0, Provides content types for creating and organizing personnel directories within educational institutions. Integrates with Plone's users and groups infrastructure and supports an extensibility framework for custom requirements., 2017-01-10T05:05:01+0000
+/project/collective-portlet-itemview/, collective.portlet.itemview, 1.4, A portlet where you can select one item, and render it with a view, 2012-09-02T15:21:18+0000
+/project/collective-contentrules-imaging/, collective.contentrules.imaging, 1.0, Plone content rules related to imaging, 2013-01-03T13:22:31+0000
+/project/collective-timedevents/, collective.timedevents, 1.0.4, Plone/Zope time based event mechanism, 2017-04-07T20:23:58+0000
+/project/collective-multilingualtools/, collective.multilingualtools, 0.1.2, A set of tools that simplify handling multilingual content in Plone using plone.app.multilingual., 2014-03-25T10:25:09+0000
+/project/redturtle-custommenu-factories/, redturtle.custommenu.factories, 0.3.1, Customize the Plone "add portal content" menu, 2015-02-24T11:30:18+0000
+/project/collective-contacts/, collective.contacts, 1.5.2, Address book product for Plone, 2012-06-12T18:02:37+0000
+/project/collective-z3cform-html5widgets/, collective.z3cform.html5widgets, 0.1, HTML5 widgets for Plone, 2013-03-21T17:29:19+0000
+/project/collective-tinymceplugins-embedly/, collective.tinymceplugins.embedly, 1.0.2, Integration of the Embedly TinyMCE plugin with Plone, 2016-11-05T18:31:51+0000
+/project/collective-referencedatagridfield/, collective.referencedatagridfield, 0.5.3, Mix of Reference and DataGrid Fields, 2013-01-11T12:37:20+0000
+/project/mr-crabby/, mr.crabby, 1.5, Mr. Crabby is your blue crabby friend for Plone., 2012-03-26T07:09:54+0000
+/project/collective-stringinterp-smartlink/, collective.stringinterp.smartlink, 0.3, Plone string interpolation override for URLs, with backend-frontend support, 2013-08-02T15:35:00+0000
+/project/collective-linguadomains/, collective.linguadomains, 1.1, Manage translated domains for Plone, 2013-01-17T13:09:44+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/collective-celery/, collective.celery, 1.1.4, Celery for Plone, 2018-12-07T02:43:28+0000
+/project/collective-js-enquire/, collective.js.enquire, 1.5.6, Add enquire.js to Plone resource registry, 2013-03-21T17:25:30+0000
+/project/quintagroup-seoptimizer/, quintagroup.seoptimizer, 4.3, Quintagroup Search Engine Optimization Tool, 2013-09-18T11:34:05+0000
+/project/collective-pygal-core/, collective.pygal.core, 0.1, Pygal dynamic SVG charting library integration for plone, 2012-04-02T10:16:12+0000
+/project/collective-transform-kml/, collective.transform.kml, 0.1, Transform KML to HTML, 2012-06-13T07:06:11+0000
+/project/collective-js-datatables/, collective.js.datatables, 4.1.2, Plone Integration of jquery.dataTables plugin, 2016-09-21T08:05:18+0000
+/project/collective-js-jquerymobile/, collective.js.jquerymobile, 1.3.1.1, JQuery mobile integration in Plone, 2013-04-16T14:36:51+0000
+/project/collective-js-pikachoose/, collective.js.pikachoose, 1.1, JQuery pickachoose plugin as browser resource, 2012-06-05T10:36:43+0000
+/project/collective-portlet-keywords/, collective.portlet.keywords, 1.0.1, Keywords portlet for Plone, 2013-02-15T12:56:17+0000
+/project/products-atvocabularymanager/, Products.ATVocabularyManager, 1.6.7, Vocabulary library Plone. Central, Pluggable, TTW, with IMS VDEX Support, 2015-07-30T11:29:20+0000
+/project/eea-uberlisting/, eea.uberlisting, 3.1, Plone product for ajax display of available templates for the given content type, 2019-01-29T20:13:44+0000
+/project/collective-sendaspdf/, collective.sendaspdf, 3.0, An open source product for Plone to download or email a page seen by the user as a PDF file., 2015-06-24T17:28:45+0000
+/project/redturtle-gritterize/, redturtle.gritterize, 0.9.3, Plone integration with Gritter, 2013-09-23T09:48:44+0000
+/project/eea-graylogger/, eea.graylogger, 2.0, GELF (Graylog Extended Log Format) for Zope, 2019-12-02T16:33:16+0000
+/project/quintagroup-dropdownmenu/, quintagroup.dropdownmenu, 1.3.4, Multilevel portal dropdown menu for Plone sites., 2015-06-09T12:43:51+0000
+/project/experimental-gracefulblobmissing/, experimental.gracefulblobmissing, 0.5.0, Patch for Plone. Don't raise errors for file contents with missing BLOB file, 2018-12-14T13:43:59+0000
+/project/experimental-securityindexing/, experimental.securityindexing, 0.6, Optimises indexing of object security for a Plone site., 2014-06-04T13:20:54+0000
+/project/products-quills/, Products.Quills, 1.8.1, A Blogging Suite for Plone., 2016-12-27T21:14:28+0000
+/project/eea-converter/, eea.converter, 12.9, SVG, PNG, PDF converters using external tools as ImageMagick, 2020-03-31T16:40:13+0000
+/project/collective-js-chosen/, collective.js.chosen, 1.4, Integrate chosen and ajaxchosen in plone, 2013-03-25T11:33:46+0000
+/project/collective-geo-exif/, collective.geo.exif, 0.1, Geoannotate Images with EXIF information, 2013-08-30T09:50:24+0000
+/project/collective-vaporisation/, collective.vaporisation, 1.3.7, Plone portlet for vaporisation tagcloud, 2015-02-17T16:45:44+0000
+/project/collective-ckeditor/, collective.ckeditor, 4.9.1, CKEditor for Plone, 2021-02-12T14:35:38+0000
+/project/dateable-chronos/, dateable.chronos, 1.0, Dateable calendaring views, 2013-05-21T13:50:01+0000
+/project/mr-inquisition/, mr.inquisition, 0.2, A package to help with exploring a Plone site., 2015-08-04T10:47:25+0000
+/project/cciaa-portlet-calendar/, cciaa.portlet.calendar, 1.3.0, Alternative calendar portlet for Plone that perform some additional search, 2013-11-20T15:37:46+0000
+/project/collective-maildigest/, collective.maildigest, 1.0, Users can subscribe on a mail digest about activity in a Plone Folder, 2014-10-10T08:39:53+0000
+/project/plone-app-transmogrifier/, plone.app.transmogrifier, 1.4.2, Plone blueprints for collective.transmogrifier pipelines, 2019-09-24T09:01:32+0000
+/project/collective-videoanysurfer/, collective.videoanysurfer, 1.0.8, Youtube Integration to be AnySurfer compliant, 2013-07-04T07:09:06+0000
+/project/collective-portlet-discussion/, collective.portlet.discussion, 1.2.6, A simple Plone portlet to show a list of comments, 2019-05-13T12:39:30+0000
+/project/rer-giunta/, rer.giunta, 1.1.3, An Archetype for alderman informations, 2015-12-03T12:30:58+0000
+/project/collective-randomheaderimage/, collective.randomheaderimage, 0.1.0, Provide a random header to display into the header, 2012-01-19T15:59:58+0000
+/project/adi-bookmark/, adi.bookmark, 0.2, Store bookmarks to a Plone-site or -folder., 2017-04-27T12:59:44+0000
+/project/eea-relations/, eea.relations, 11.7, EEA Possible Relations. This package provides a flexible way to manage relations in a Plone site. it provides a new reference browser widget and a central management interface for relations, their labels and requirements., 2021-03-29T15:52:37+0000
+/project/eea-exhibit/, eea.exhibit, 8.9, EEA Exhibit provides Simile Widgets Exhibit JS libraries as Zope 3 resources., 2018-09-10T12:48:04+0000
+/project/eea-async-manager/, eea.async.manager, 2.1, zc.async queue manager, 2019-11-28T19:04:09+0000
+/project/collective-picturefill/, collective.picturefill, 1.2, PictureFill for Plone, 2013-04-29T14:56:19+0000
+/project/pas-plugins-aselect/, pas.plugins.aselect, 1.5, PAS Plugin for authentication with A-Select, 2012-10-14T01:44:00+0000
+/project/products-datagridfield/, Products.DataGridField, 1.9.6, A table input component for Plone., 2017-02-21T17:05:12+0000
+/project/collective-itvalidators/, collective.itvalidators, 1.0.0, A set of Archetypes validators for Plone, some for Italian specific needs, others useful for all, 2012-11-12T13:51:19+0000
+/project/collective-z3cform-chosen/, collective.z3cform.chosen, 1.2.2, chosen widget for z3cform (both chosen & ajax version), 2021-04-20T14:05:21+0000
+/project/collective-overridemailrecipients/, collective.overridemailrecipients, 1.0.2, UNKNOWN, 2013-03-08T14:49:43+0000
+/project/collective-localrolesdatatables/, collective.localrolesdatatables, 1.0.1, View / export localroles of all or parts of the site, 2012-08-08T14:31:58+0000
+/project/collective-sortmyfolder/, collective.sortmyfolder, 1.0.7, Reveal some not-so-hidden Plone feature for sorting your folders, 2014-04-08T07:39:06+0000
+/project/collective-footerportletmanager/, collective.footerportletmanager, 1.0, Footer portlet manager for Plone, 2012-10-10T16:49:54+0000
+/project/collective-sugarcrm/, collective.sugarcrm, 1.2.1, SugarCRM components for Plone, 2013-12-09T10:42:49+0000
+/project/collective-ptg-flickr/, collective.ptg.flickr, 0.1.1, Add on collective.plonetruegallery to aggregate from flickr, 2012-11-07T15:19:42+0000
+/project/nti-contentratings/, nti.contentratings, 1.2.0, A small Zope 3 package (which also works with Zope 2.10+ and Five) that allows you to attach ratings to content., 2021-04-13T18:03:38+0000
+/project/collective-csv2atvocabularymanager/, collective.csv2atvocabularymanager, 0.1.1, Plone utility for importing your ATVocabularyManager vocabularies from CSV sources (with LinguaPlone support), 2012-11-13T09:05:35+0000
+/project/products-autorolefromhostheader/, Products.AutoRoleFromHostHeader, 1.0.1, Plone PAS plugin for adding roles (or groups) to anonymous or logged-in visitors looking for HTTP Headers., 2021-01-28T09:47:10+0000
+/project/slc-linguatools/, slc.linguatools, 1.4.4, A set of tools that simplify handling multilingual content in Plone based on LinguaPlone, 2013-12-06T14:43:01+0000
+/project/collective-js-ui-multiselect/, collective.js.ui.multiselect, 1.0.1, Integrates the multiselect widget into plone., 2014-09-23T10:15:51+0000
+/project/collective-easyslider/, collective.easyslider, 1.4.1, The product will allow you to apply an easyslider to any page with the ability to create each slide using a WYSIWYG editor. It also provides a slider view for Folders and Collections., 2014-01-14T02:53:43+0000
+/project/products-googlecoop/, Products.googlecoop, 2.1, Google Coop for Plone makes it easy for you to integrate a Google Co-op Custom Search engine in your plone site., 2011-11-30T11:42:29+0000
+/project/cciaa-modulistica/, cciaa.modulistica, 3.0.1, An additional view for Plone folders, to improve management of repositories of files, 2020-03-06T11:47:15+0000
+/project/collective-js-fitvids/, collective.js.fitvids, 1.0.0, FitVids.js for Plone, 2012-05-17T14:07:01+0000
+/project/collective-classifieds/, collective.classifieds, 1.7, Add classifieds to your Plone intranet or website., 2014-05-26T14:03:40+0000

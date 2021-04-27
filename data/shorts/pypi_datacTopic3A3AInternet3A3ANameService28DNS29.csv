@@ -1,0 +1,400 @@
+/project/phen-dns/, phen.dns, 0.1.1, Domain Name Server for Phen, 2016-01-01T21:20:30+0000
+/project/pydns/, pydns, 2.3.6, Python DNS library, 2012-02-03T23:23:19+0000
+/project/hapi-vendor-dyn/, hapi-vendor-dyn, 0.0.1, DynEct Adapter for HyperDNS HAPI, 2014-07-10T04:09:19+0000
+/project/tdns/, tdns, 0.2.0, An asynchronous Tornado wrapper for pycares, 2016-06-06T15:54:11+0000
+/project/ipaserver/, ipaserver, 4.8.9, Dummy package for FreeIPA, 2020-08-20T10:53:39+0000
+/project/ipalib/, ipalib, 4.8.9, FreeIPA common python library, 2020-08-20T10:53:32+0000
+/project/buddyns/, BuddyNS, 2.0.3, A python client library to easily consume BuddyNS.com's API, 2020-05-03T15:17:57+0000
+/project/dnszone/, dnszone, 2.0.2, Easy Zone - DNS Zone abstraction module, 2020-02-28T19:51:04+0000
+/project/dnsdb2/, dnsdb2, 1.1.3, Client for DNSDB API version 2 with Flexible Search, 2021-02-25T19:13:24+0000
+/project/sahuwai/, sahuwai, 0.1, RRDA REST DNS API client., 2014-06-11T06:12:39+0000
+/project/dnstk/, dnstk, 0.1.1, Python DNS toolkit, 2012-08-09T14:42:24+0000
+/project/doapi/, doapi, 0.2.0, DigitalOcean API library & CLI, 2016-08-30T15:57:22+0000
+/project/domain-park/, domain-park, 0.2.0, DNS server for parking domains securely, 2021-02-13T05:39:09+0000
+/project/dnscherry/, dnscherry, 0.1.3, A simple web application to manage DNS zones, 2015-11-23T19:23:35+0000
+/project/rosterusertools/, RosterUserTools, 0.17, RosterUserTools are a set of command line tools for Roster, 2012-08-02T21:09:22+0000
+/project/dynhost/, DynHost, 1.0.5, Multiple DynDNS updating script, 2017-08-06T09:55:25+0000
+/project/nic-api/, nic-api, 0.2.3, NIC.RU API wrapper library, 2020-09-15T20:35:13+0000
+/project/metasyntactic/, metasyntactic, 1.0.14, metasyntactic - Themed metasyntactic variables names, 2020-01-09T20:57:57+0000
+/project/yawast/, yawast, 0.11.0, The YAWAST Antecedent Web Application Security Toolkit, 2020-01-02T19:40:42+0000
+/project/umbr-api/, umbr-api, 1.0.3, Cisco Umbrella APIs wrapper and command-line utility, 2019-05-08T14:30:57+0000
+/project/lets-do-dns/, lets-do-dns, 0.10.3, A letsencrypt certbot auth/cleanup hook program engineered to handle hostname ownership authentication via DigitalOcean's DNS system., 2017-07-21T03:14:37+0000
+/project/pydig/, pydig, 0.3.0, Python wrapper library for the 'dig' command line tool, 2020-05-09T20:51:30+0000
+/project/ipatests/, ipatests, 4.8.9, Dummy package for FreeIPA, 2020-08-20T10:53:42+0000
+/project/domainmagic/, domainmagic, 0.0.9, Python library for all sorts of domain lookup related stuff (rbl lookups, extractors etc), 2018-05-30T08:46:42+0000
+/project/designate-tempest-plugin/, designate-tempest-plugin, 0.11.0, OpenStack DNS As A Service (Designate) Functional Tests, 2021-03-29T09:08:37+0000
+/project/vinyldns-python/, vinyldns-python, 0.9.6, Python client library for VinylDNS, 2020-08-20T21:34:55+0000
+/project/bwf/, bwf, 0.0.1, Bing Website Finder (bwf) adds websites to a list of company names from the commandline., 2019-02-12T20:20:14+0000
+/project/content-hash/, content-hash, 1.1.1, Python implementation of EIP 1577 content hash, 2019-12-14T13:20:58+0000
+/project/minidns/, minidns, 0.3, Simple DNS Server with REST API, for localhost only, 2013-09-11T17:40:51+0000
+/project/designate/, designate, 12.0.0, DNS as a Service, 2021-04-14T11:03:20+0000
+/project/nsupdate/, nsupdate, 0.12.0, A dynamic DNS update service, 2018-11-18T22:16:26+0000
+/project/cfddns/, cfddns, 1.5.0, DDNS client for Cloudflare DNS, 2021-03-23T06:08:01+0000
+/project/pyspf/, pyspf, 2.0.14, SPF (Sender Policy Framework) implemented in Python., 2020-01-02T02:54:37+0000
+/project/hurricanedns/, hurricanedns, 1.0.2, Hurricane Electric DNS python library, 2017-09-22T04:18:38+0000
+/project/dns-blackhole/, dns-blackhole, 0.12, A generic DNS black hole zone generator, 2017-09-26T18:23:19+0000
+/project/strangle/, Strangle, 0.3.1, Library for comprehending DNS messages using BIND parsing, 2008-08-17T13:23:39+0000
+/project/ensauction/, ensauction, 0.1.0b0, Ethereum Name Service Auction, in Python, 2018-09-17T22:17:52+0000
+/project/dynectdns-proxy/, DynectDNS-proxy, 0.5, Dynect REST API wrapper with proxy support, 2015-06-18T21:16:56+0000
+/project/ub-split-map/, ub-split-map, 0.2.0, A python module for Unbound to dynamically map external IPs to internal RFC 1918 addresses to avoid split-horizon DNS, 2020-02-05T22:10:22+0000
+/project/certbot-dns-njalla/, certbot-dns-njalla, 1.0.0, Njalla DNS Authenticator plugin for Certbot, 2020-10-17T09:51:08+0000
+/project/hapi-client/, hapi-client, 0.9.1, HyperDNS HAPI Client Libraries and CLI Tools, 2014-10-16T01:34:45+0000
+/project/gandi-update-dns/, gandi-update-dns, 0.1.6, Yet another tool to update DNS zone in gandi provider, 2020-04-20T08:52:28+0000
+/project/3xsd/, 3xsd, 0.0.26, 3xsd is a native epoll server serving TCP/UDP connections, a high performance static web server, a failover dns server, a http-based distributed file server, a load-balance proxy-cache server, and a warp-drive server. Written in python, take the full power of multi-cores., 2016-10-29T06:32:20+0000
+/project/ovh-dynhost/, ovh-dynhost, 0.5, A script to update the OVH DynHost with your current public IP, 2020-11-25T00:16:13+0000
+/project/trparse/, trparse, 0.3.0, Traceroute parser, 2019-05-26T16:38:05+0000
+/project/certbot-dns-glesys/, certbot-dns-glesys, 2.0.0, GleSYS DNS authentication plugin for Certbot, 2020-12-28T14:20:11+0000
+/project/ipaclient/, ipaclient, 4.8.9, FreeIPA client library, 2020-08-20T10:53:29+0000
+/project/hapi-vendor-toolkit/, hapi-vendor-toolkit, 0.0.2, HyperDNS Vendor Development Toolkit toolkit, 2014-10-15T06:28:50+0000
+/project/wizard-whois/, wizard-whois, 2.5.9, Module for retrieving and parsing the WHOIS data for a domain. Supports most domains. Fork of pythonwhois-alt and whois_alt as we need quick bug fixes, 2020-11-28T16:02:03+0000
+/project/dnspython3/, dnspython3, 1.15.0, A DNS toolkit for Python 3.x, 2016-09-30T22:32:12+0000
+/project/cloudflaredns-backup/, cloudflaredns-backup, 1.8, CloudFlare DNS backup to BIND files, 2016-03-01T06:45:53+0000
+/project/gollama/, gollama, 1.1.0, Django implementation for golink, 2020-07-26T02:44:21+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/dnstest/, dnstest, 0.1.0a0, A cli tool for testing DNS records match a provided yaml config file, 2019-04-21T12:36:14+0000
+/project/dnspx/, dnspx, 0.1.9, DNS proxy query service tool, 2021-01-27T16:13:42+0000
+/project/rpz-manager/, rpz-manager, 0.2, Block ads and malicious domains with response policy zones, 2020-06-10T00:57:14+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/idna/, idna, 3.1, Internationalized Domain Names in Applications (IDNA), 2021-01-04T16:20:02+0000
+/project/libknot/, libknot, 3.0.5, Python bindings for libknot, 2021-03-25T10:24:47+0000
+/project/fess-up/, fess_up, 1.1.3, DNS record scraper, 2016-02-03T13:50:09+0000
+/project/gandip/, gandip, 3.0.0, Keep your gandi DNS records up to date with your current IP, 2019-07-22T06:46:39+0000
+/project/dkimpy/, dkimpy, 1.0.5, DKIM (DomainKeys Identified Mail), ARC (Authenticated Receive Chain), and TLSRPT (TLS Report) email signing and verification, 2020-08-09T02:51:36+0000
+/project/py3dns/, py3dns, 3.2.1, Python 3 DNS library, 2019-09-04T12:24:45+0000
+/project/doh-proxy/, doh-proxy, 0.0.9, A client and proxy implementation of https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-13, 2019-07-04T09:21:25+0000
+/project/rosterconfigmanager/, RosterConfigManager, 0.17, RosterConfigManager is a Bind9 config importer/exporter for Roster, 2012-08-02T21:08:31+0000
+/project/goog-dns/, goog_dns, 0.0.4, Python program to update Google Dynamic DNS. Useful for cronjob or some other automated mechanism., 2015-01-28T01:56:10+0000
+/project/cidrize/, cidrize, 2.0.0, Cidrize parses IPv4/IPv6 addresses, CIDRs, ranges, and wildcard matches & attempts to return a valid list of IP addresses, 2021-03-31T05:54:36+0000
+/project/dnsdiag/, dnsdiag, 2.0.1, DNS Measurement, Troubleshooting and Security Auditing Toolset (ping, traceroute), 2021-04-09T00:15:57+0000
+/project/mcddns/, mcddns, 1.1.2, Industrial-strength dynamic DNS client, 2021-02-17T23:33:20+0000
+/project/dnsrewriteproxy/, dnsrewriteproxy, 0.0.16, A DNS proxy server that conditionally rewrites and filters A record requests, 2020-02-08T09:37:17+0000
+/project/noipy/, noipy, 1.5.3, Command line tool for DDNS IP address updating., 2020-02-09T21:38:57+0000
+/project/pynonamedomain/, pynonamedomain, 1.0.3, Unofficial NonameDomain API module/client, 2021-01-02T17:53:08+0000
+/project/afraid/, afraid, 0.1-dev, A simple client for the afraid.org dynamic DNS service, 2011-12-22T07:08:20+0000
+/project/certbot-loopia/, certbot-loopia, 0.2.0, Loopia DNS authentication plugin for Certbot, 2017-08-21T11:01:58+0000
+/project/dns-shark/, dns-shark, 1.0.2, A simple DNS resolver that can resolve a domain name to either an IPv4 or IPv6 address., 2020-01-20T02:49:04+0000
+/project/easyzone3/, easyzone3, 1.2.3, Easy Zone - DNS Zone abstraction module, 2015-03-11T01:48:49+0000
+/project/python-syra/, python-syra, 0.5.3, Client for the Syra API., 2019-12-04T21:58:49+0000
+/project/django-powerdns-manager/, django-powerdns-manager, 0.2.9a1, django-powerdns-manager is a web based PowerDNS administration panel., 2016-03-18T09:22:04+0000
+/project/vertex/, Vertex, 0.3.1, Divmod Vertex is the first implementation of the Q2Q protocol, which is a peer-to-peer communication protocol for establishing stream-based communication between named endpoints., 2015-03-05T04:30:47+0000
+/project/aiodnsresolver/, aiodnsresolver, 0.0.151, Pure asyncio Python DNS resolver, 2020-01-21T16:09:57+0000
+/project/desec-dns-api/, desec-dns-api, 1.3.0, Wrapper for desec DNS API, 2020-08-06T12:27:36+0000
+/project/django-powerdns-models/, django-powerdns-models, 1.0, PowerDNS models for Django, 2018-10-10T11:40:34+0000
+/project/hyperdns-hal/, hyperdns-hal, 0.9.1, HyperDNS HAL Utilities, 2014-10-30T14:45:46+0000
+/project/infoblox/, infoblox, 1.1.1, Interface and CLI application for Infoblox NIOS, 2013-11-26T21:01:05+0000
+/project/dynectdns/, DynectDNS, 0.3, Dynect REST API wrapper, 2012-10-05T18:23:34+0000
+/project/pdnssync/, pdnssync, 0.4, PowerDNS sync tool, 2015-05-04T21:36:05+0000
+/project/openvpn2dns/, openvpn2dns, 1.1.0, DNS server in python serving openvpn status files as dns zones, 2015-02-14T20:53:04+0000
+/project/gordon-dns-gcp/, gordon-dns-gcp, 0.0.1.dev38, GCP Plugins for Gordon and Gordon Janitor, 2021-04-13T20:32:04+0000
+/project/uwsgidns/, uwsgidns, 1.0.1, Dinamically route to localhost request for uWSGI locally subscribed domains., 2015-06-05T11:20:56+0000
+/project/berserker-resolver/, berserker_resolver, 2.0.1, Fast mass dns resolver which can bypass loadbalancers, 2015-08-08T02:23:31+0000
+/project/certbot-glesys/, certbot-glesys, 0.2.0, GleSYS DNS authentication plugin for Certbot, 2018-04-23T17:15:35+0000
+/project/dnslib/, dnslib, 0.9.14, Simple library to encode/decode DNS wire-format packets, 2020-06-09T08:18:09+0000
+/project/orbi-dnsmasq/, orbi-dnsmasq, 2.0.0, Use selenium and telnet to automate orbi router's dnsmasq, 2020-12-28T11:07:58+0000
+/project/hyperdns-flask/, hyperdns-flask, 0.9.4, HyperDNS Flask Utilities, 2014-11-01T12:16:52+0000
+/project/dynect-client/, dynect-client, 0.2.15, Dynect REST API Client for adding/removing domains, 2014-03-04T14:39:15+0000
+/project/transip-dns/, transip-dns, 1.0.0, TransIP Dns record management script, 2021-02-05T23:38:21+0000
+/project/quackdns/, quackdns, 0.3.1, Keeps your DuckDNS IP information updated., 2019-01-28T09:56:35+0000
+/project/pylresolv/, pylresolv, 0.2, DNS querying through libc libresolv.so using ctypes, 2019-07-03T10:32:22+0000
+/project/dyndnsc/, dyndnsc, 0.6.1, dynamic dns (dyndns) update client with support for multiple protocols, 2021-04-02T05:55:24+0000
+/project/py-resolv/, py-resolv, 0.2.0, A synchronous and asynchronous DNS client library, 2013-02-14T00:23:43+0000
+/project/dnspython/, dnspython, 2.1.0, DNS toolkit, 2021-01-07T17:23:58+0000
+/project/localzone/, localzone, 0.9.8, A simple library for managing DNS zones., 2021-01-20T02:57:34+0000
+/project/pihole5-list-tool/, pihole5-list-tool, 0.6.0, A tool for quickly and easily bulk adding allowlists and ad/blocklists to a Pi-hole 5 installation, 2020-10-25T07:23:15+0000
+/project/soa/, soa, 0.2.0, Arrowhead core services, 2016-07-12T10:28:28+0000
+/project/gdns/, gDNS, 0.1.4, Google DNS-over-HTTPS, 2017-09-18T22:28:54+0000
+/project/r53-dyndns/, r53-dyndns, 0.4.0, Route53 dynamic DNS agent, 2020-07-05T18:31:39+0000
+/project/publicsuffix2/, publicsuffix2, 2.20191221, Get a public suffix for a domain name using the Public Suffix List. Forked from and using the same API as the publicsuffix package., 2019-12-21T11:30:41+0000
+/project/zonecreate/, zonecreate, 0.1, zonecreate are some helper scripts for generating zone files, 2013-02-16T06:22:34+0000
+/project/hyperdns-netdns/, hyperdns-netdns, 0.9.0, HyperDNS DNS Utilities, 2014-10-19T07:09:17+0000
+/project/dovedns/, dovedns, 1.0.1, DoveDNS is a library for interfacing with Linode DNSManager, using Twisted., 2013-06-05T13:52:12+0000
+/project/dyndnsc-growl/, dyndnsc-growl, 0.1, plugin for dyndnsc providing growl desktop notifications, 2018-01-14T19:42:18+0000
+/project/dyn-python/, dyn-python, 1.0, Dyn Python SDK, 2014-07-14T16:13:39+0000
+/project/dyndnsc-macosnotify/, dyndnsc-macosnotify, 0.1, plugin for dyndnsc providing macos desktop notifications, 2018-01-14T19:39:05+0000
+/project/quart-doh/, quart-doh, 0.1.0, A client and proxy implementation of https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-13, 2019-10-07T19:59:06+0000
+/project/publicsuffix/, publicsuffix, 1.1.1, Get a public suffix for a domain name using the Public Suffix List., 2019-12-01T13:44:51+0000
+/project/zoner/, zoner, 1.4.1, A DNS zone management web application., 2009-04-30T07:17:52+0000
+/project/pythonwhois-alt/, pythonwhois-alt, 2.4.4, Module for retrieving and parsing the WHOIS data for a domain. Supports most domains. No dependencies., 2019-05-07T12:57:03+0000
+/project/dns-sprockets/, dns-sprockets, 2.0.0, Command-line DNS Zone validation tool, 2020-04-03T05:58:28+0000
+/project/pkb-client/, pkb-client, 1.1, Unofficial client for the Porkbun API, 2021-04-01T11:42:10+0000
+/project/publicsuffixlist/, publicsuffixlist, 0.7.7, publicsuffixlist implement, 2021-01-16T13:35:48+0000
+/project/dnsknife/, dnsknife, 0.12, DNS tools, 2019-10-22T14:16:23+0000
+/project/pynamecom/, pynamecom, 0.1.4, Python Library for Name.com v4 API, 2019-09-17T09:30:00+0000
+/project/giu/, giu, 0.2.0, Gandi LiveDNS Updater - commnand line tool to keep your dynamic ip up to date, 2020-12-25T22:57:57+0000
+/project/dnsimple-zoneimport/, dnsimple-zoneimport, 0.1.1, A script that allows you to import a Bind zone file into your DNSimple account., 2013-06-25T15:00:06+0000
+/project/he-update/, he_update, 1.1, Hurricane Electric tunnel endpoint and dyndns updater, 2015-12-08T22:36:47+0000
+/project/cfdns/, cfdns, 0.1.1, Command line tool for manipulating DNS of CloudFlare hosted domains, 2017-04-23T21:29:15+0000
+/project/easyzone/, easyzone, 1.2.2, Easy Zone - DNS Zone abstraction module, 2011-05-22T11:58:10+0000
+/project/psl/, psl, 2021.1.4, Mozilla Public Suffix list as a Python package and updated daily, 2021-01-04T20:20:19+0000
+/project/ens/, ens, 0.6.1, Ethereum Name Service, made easy in Python, 2017-10-04T14:55:53+0000
+/project/psl-dns/, psl-dns, 1.0.3, Query the Public Suffix List (PSL) via DNS and check the PSL status of a domain., 2020-11-06T16:51:36+0000
+/project/doh-cli/, doh-cli, 0.6, a simple DNS-over-HTTPS client, 2021-03-25T06:20:18+0000
+/project/ipaplatform/, ipaplatform, 4.8.9, FreeIPA platform, 2020-08-20T10:53:35+0000
+/project/namesync/, namesync, 0.4, Sync DNS records stored in a flat file format to your DNS provider., 2015-08-11T22:29:37+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/asyncdns2/, asyncdns2, 0.1.3, Pure Python asynchronous DNS via asyncio, 2018-07-07T17:26:00+0000
+/project/certbot-anx/, certbot-anx, 0.1, ANX DNS authentication plugin for Certbot, 2019-08-10T19:33:28+0000
+/project/nimi/, nimi, 0.2.0, Painless Dynamic DNS with AWS, 2019-09-23T22:01:16+0000
+/project/hapi-vendor-ultra/, hapi-vendor-ultra, 0.9.0, Neustar UltraDNS Adapter for HyperDNS HAPI, 2014-10-15T12:42:36+0000
+/project/domainr/, domainr, 1.0.0, Dead-Simple way to interact with Domai.nr JSON API, 2012-04-24T01:41:31+0000
+/project/dns-lexicon/, dns-lexicon, 3.5.6, Manipulate DNS records on various DNS providers in a standardized/agnostic way, 2021-03-28T12:31:10+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/ns1-python/, ns1-python, 0.16.0, Python SDK for the NS1 DNS platform, 2020-05-18T20:41:24+0000
+/project/django-powerdns-dnssec/, django-powerdns-dnssec, 0.9.3, PowerDNS administration app for Django, 2013-03-27T13:32:49+0000
+/project/googdns/, googdns, 0.0.5, Python program to update Google Dynamic DNS. Useful for cronjob or some other automated mechanism., 2015-02-07T13:34:03+0000
+/project/desec-dns-cli/, desec-dns-cli, 0.0.3, CLI for desec DNS API, 2020-03-02T21:19:35+0000
+/project/certbot-pdns/, certbot-pdns, 1.2.0, Certbot DNS authenticator, 2018-06-06T12:57:31+0000
+/project/adns/, adns, 1.4-py1, An interface to GNU adns - python3 port, 2013-12-03T06:46:16+0000
+/project/gandyns/, gandyns, 1.0.1, Update gandi DNS record with current public IP, 2018-04-13T02:06:02+0000
+/project/pr0cks/, pr0cks, 0.2.1, Transparent proxy in python, 2020-06-01T21:53:13+0000
+/project/das7pad-dns-lexicon/, das7pad-dns-lexicon, 3.5.1.post1, Manipulate DNS records on various DNS providers in a standardized/agnostic way, 2020-11-20T13:56:32+0000
+/project/greendns/, greendns, 0.9.14, A non-poisonous and CDN-friendly Recursive DNS Resolver, 2019-06-05T15:40:28+0000
+/project/iijdns/, iijdns, 0.0.2, python library(API wrapper) for IIJ DNS service, 2015-02-10T11:20:01+0000
+/project/cfdns/, cfdns, 0.1.1, Command line tool for manipulating DNS of CloudFlare hosted domains, 2017-04-23T21:29:15+0000
+/project/ens/, ens, 0.6.1, Ethereum Name Service, made easy in Python, 2017-10-04T14:55:53+0000
+/project/sender-policy-flattener/, sender-policy-flattener, 0.2.4, Condense SPF records to network blocks to avoid DNS Lookup Limits, 2021-03-23T00:19:52+0000
+/project/hapi-vendor-r53/, hapi-vendor-r53, 0.9.0, Route53 Adapter for HyperDNS HAPI, 2014-10-15T13:27:02+0000
+/project/pydyndns/, pydyndns, 1.1.0, Sends dynamic DNS updates to a DNS server., 2020-12-22T02:25:36+0000
+/project/cfdyndns-updater/, cfdyndns-updater, 0.1.0, A script to keep the values in the Cloudflare DDNS service in sync with your local dynamic IP address., 2018-10-14T21:34:59+0000
+/project/certbot-dns-safedns/, certbot-dns-safedns, 0.1.14, SafeDNS Authenticator plugin for Certbot, 2020-11-04T10:49:40+0000
+/project/rostercore/, RosterCore, 0.17, RosterCore contains the Core and  DB libraries for Roster, 2012-08-02T21:08:02+0000
+/project/iijdns/, iijdns, 0.0.2, python library(API wrapper) for IIJ DNS service, 2015-02-10T11:20:01+0000
+/project/gordon-dns/, gordon-dns, 0.0.1.dev10, Event-driven Cloud DNS, 2020-09-23T16:58:30+0000
+/project/edgemanage/, edgemanage, 2.0.7, HTTP availability management tool, 2016-03-19T18:57:31+0000
+/project/certbot-dns-inwx/, certbot-dns-inwx, 2.1.3, INWX DNS Authenticator plugin for Certbot, 2021-03-06T17:01:06+0000
+/project/getdns/, getdns, v1.0.0b1, Python bindings for getdns, 2016-03-31T18:16:41+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/ns1-python/, ns1-python, 0.16.0, Python SDK for the NS1 DNS platform, 2020-05-18T20:41:24+0000
+/project/django-powerdns-dnssec/, django-powerdns-dnssec, 0.9.3, PowerDNS administration app for Django, 2013-03-27T13:32:49+0000
+/project/googdns/, googdns, 0.0.5, Python program to update Google Dynamic DNS. Useful for cronjob or some other automated mechanism., 2015-02-07T13:34:03+0000
+/project/desec-dns-cli/, desec-dns-cli, 0.0.3, CLI for desec DNS API, 2020-03-02T21:19:35+0000
+/project/certbot-pdns/, certbot-pdns, 1.2.0, Certbot DNS authenticator, 2018-06-06T12:57:31+0000
+/project/adns/, adns, 1.4-py1, An interface to GNU adns - python3 port, 2013-12-03T06:46:16+0000
+/project/encrypted-dns/, encrypted-dns, 1.2.0, DNS-over-HTTPS and DNS-over-TLS server and forwarder., 2020-05-14T17:14:08+0000
+/project/certbot-dns-safedns/, certbot-dns-safedns, 0.1.14, SafeDNS Authenticator plugin for Certbot, 2020-11-04T10:49:40+0000
+/project/rostercore/, RosterCore, 0.17, RosterCore contains the Core and  DB libraries for Roster, 2012-08-02T21:08:02+0000
+/project/doth-dns/, DoTH-DNS, 7.0.0, DoTH-DNS gives you great control over your DNS traffic, 2020-02-16T12:33:28+0000
+/project/django-powerdns/, django-powerdns, 0.2, PowerDNS administration module for Django, 2010-05-23T12:28:39+0000
+/project/rosterserver/, RosterServer, 0.17, RosterServer is a XML/RPC Server for Roster., 2012-08-02T21:09:00+0000
+/project/multidns/, multidns, 1.0.6, relay DNS requests to multiple servers and returns the fastest answer, 2017-02-24T09:35:12+0000
+/project/tonicdnscli/, tonicdnscli, 0.10, TonicDNS CLI tool, 2013-04-01T10:22:42+0000
+/project/octodns-lexicon/, octodns-lexicon, 0.1.dev4, Lexicon provider for OctoDNS, 2020-07-08T17:41:57+0000
+/project/z42/, z42, 0.0.2, Zeroconf (mDNS) for Amazon EC2, 2015-12-30T18:17:44+0000
+/project/ipa/, ipa, 4.8.9, Dummy package for FreeIPA, 2020-08-20T10:53:26+0000
+/project/dyn/, dyn, 1.8.1, Dyn REST API wrapper, 2018-01-02T17:59:43+0000
+/project/easyzone/, easyzone, 1.2.2, Easy Zone - DNS Zone abstraction module, 2011-05-22T11:58:10+0000
+/project/psl/, psl, 2021.1.4, Mozilla Public Suffix list as a Python package and updated daily, 2021-01-04T20:20:19+0000
+/project/psl-dns/, psl-dns, 1.0.3, Query the Public Suffix List (PSL) via DNS and check the PSL status of a domain., 2020-11-06T16:51:36+0000
+/project/doh-cli/, doh-cli, 0.6, a simple DNS-over-HTTPS client, 2021-03-25T06:20:18+0000
+/project/ipaplatform/, ipaplatform, 4.8.9, FreeIPA platform, 2020-08-20T10:53:35+0000
+/project/namesync/, namesync, 0.4, Sync DNS records stored in a flat file format to your DNS provider., 2015-08-11T22:29:37+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/asyncdns2/, asyncdns2, 0.1.3, Pure Python asynchronous DNS via asyncio, 2018-07-07T17:26:00+0000
+/project/certbot-anx/, certbot-anx, 0.1, ANX DNS authentication plugin for Certbot, 2019-08-10T19:33:28+0000
+/project/nimi/, nimi, 0.2.0, Painless Dynamic DNS with AWS, 2019-09-23T22:01:16+0000
+/project/hapi-vendor-ultra/, hapi-vendor-ultra, 0.9.0, Neustar UltraDNS Adapter for HyperDNS HAPI, 2014-10-15T12:42:36+0000
+/project/domainr/, domainr, 1.0.0, Dead-Simple way to interact with Domai.nr JSON API, 2012-04-24T01:41:31+0000
+/project/dns-lexicon/, dns-lexicon, 3.5.6, Manipulate DNS records on various DNS providers in a standardized/agnostic way, 2021-03-28T12:31:10+0000
+/project/dnslink/, dnslink, 1.0.3, Python implementation of DNSLink protocol, 2019-12-14T13:19:31+0000
+/project/gordon-janitor/, gordon-janitor, 0.0.1.dev7, DNS record reconciliation for Gordon: Event-driven Cloud DNS, 2018-11-16T22:16:43+0000
+/project/freeipa/, freeipa, 4.8.9, Dummy package for FreeIPA, 2020-08-20T10:53:23+0000
+/project/phen-dns/, phen.dns, 0.1.1, Domain Name Server for Phen, 2016-01-01T21:20:30+0000
+/project/pydns/, pydns, 2.3.6, Python DNS library, 2012-02-03T23:23:19+0000
+/project/hapi-vendor-dyn/, hapi-vendor-dyn, 0.0.1, DynEct Adapter for HyperDNS HAPI, 2014-07-10T04:09:19+0000
+/project/tdns/, tdns, 0.2.0, An asynchronous Tornado wrapper for pycares, 2016-06-06T15:54:11+0000
+/project/ipaserver/, ipaserver, 4.8.9, Dummy package for FreeIPA, 2020-08-20T10:53:39+0000
+/project/ipalib/, ipalib, 4.8.9, FreeIPA common python library, 2020-08-20T10:53:32+0000
+/project/buddyns/, BuddyNS, 2.0.3, A python client library to easily consume BuddyNS.com's API, 2020-05-03T15:17:57+0000
+/project/dnszone/, dnszone, 2.0.2, Easy Zone - DNS Zone abstraction module, 2020-02-28T19:51:04+0000
+/project/dnsdb2/, dnsdb2, 1.1.3, Client for DNSDB API version 2 with Flexible Search, 2021-02-25T19:13:24+0000
+/project/sahuwai/, sahuwai, 0.1, RRDA REST DNS API client., 2014-06-11T06:12:39+0000
+/project/dnstk/, dnstk, 0.1.1, Python DNS toolkit, 2012-08-09T14:42:24+0000
+/project/doapi/, doapi, 0.2.0, DigitalOcean API library & CLI, 2016-08-30T15:57:22+0000
+/project/cfddns/, cfddns, 1.5.0, DDNS client for Cloudflare DNS, 2021-03-23T06:08:01+0000
+/project/pydig/, pydig, 0.3.0, Python wrapper library for the 'dig' command line tool, 2020-05-09T20:51:30+0000
+/project/ipatests/, ipatests, 4.8.9, Dummy package for FreeIPA, 2020-08-20T10:53:42+0000
+/project/domainmagic/, domainmagic, 0.0.9, Python library for all sorts of domain lookup related stuff (rbl lookups, extractors etc), 2018-05-30T08:46:42+0000
+/project/designate-tempest-plugin/, designate-tempest-plugin, 0.11.0, OpenStack DNS As A Service (Designate) Functional Tests, 2021-03-29T09:08:37+0000
+/project/vinyldns-python/, vinyldns-python, 0.9.6, Python client library for VinylDNS, 2020-08-20T21:34:55+0000
+/project/bwf/, bwf, 0.0.1, Bing Website Finder (bwf) adds websites to a list of company names from the commandline., 2019-02-12T20:20:14+0000
+/project/content-hash/, content-hash, 1.1.1, Python implementation of EIP 1577 content hash, 2019-12-14T13:20:58+0000
+/project/minidns/, minidns, 0.3, Simple DNS Server with REST API, for localhost only, 2013-09-11T17:40:51+0000
+/project/designate/, designate, 12.0.0, DNS as a Service, 2021-04-14T11:03:20+0000
+/project/nsupdate/, nsupdate, 0.12.0, A dynamic DNS update service, 2018-11-18T22:16:26+0000
+/project/domain-park/, domain-park, 0.2.0, DNS server for parking domains securely, 2021-02-13T05:39:09+0000
+/project/dnscherry/, dnscherry, 0.1.3, A simple web application to manage DNS zones, 2015-11-23T19:23:35+0000
+/project/rosterusertools/, RosterUserTools, 0.17, RosterUserTools are a set of command line tools for Roster, 2012-08-02T21:09:22+0000
+/project/dynhost/, DynHost, 1.0.5, Multiple DynDNS updating script, 2017-08-06T09:55:25+0000
+/project/nic-api/, nic-api, 0.2.3, NIC.RU API wrapper library, 2020-09-15T20:35:13+0000
+/project/metasyntactic/, metasyntactic, 1.0.14, metasyntactic - Themed metasyntactic variables names, 2020-01-09T20:57:57+0000
+/project/yawast/, yawast, 0.11.0, The YAWAST Antecedent Web Application Security Toolkit, 2020-01-02T19:40:42+0000
+/project/umbr-api/, umbr-api, 1.0.3, Cisco Umbrella APIs wrapper and command-line utility, 2019-05-08T14:30:57+0000
+/project/lets-do-dns/, lets-do-dns, 0.10.3, A letsencrypt certbot auth/cleanup hook program engineered to handle hostname ownership authentication via DigitalOcean's DNS system., 2017-07-21T03:14:37+0000
+/project/pyspf/, pyspf, 2.0.14, SPF (Sender Policy Framework) implemented in Python., 2020-01-02T02:54:37+0000
+/project/hurricanedns/, hurricanedns, 1.0.2, Hurricane Electric DNS python library, 2017-09-22T04:18:38+0000
+/project/dns-blackhole/, dns-blackhole, 0.12, A generic DNS black hole zone generator, 2017-09-26T18:23:19+0000
+/project/strangle/, Strangle, 0.3.1, Library for comprehending DNS messages using BIND parsing, 2008-08-17T13:23:39+0000
+/project/ensauction/, ensauction, 0.1.0b0, Ethereum Name Service Auction, in Python, 2018-09-17T22:17:52+0000
+/project/dynectdns-proxy/, DynectDNS-proxy, 0.5, Dynect REST API wrapper with proxy support, 2015-06-18T21:16:56+0000
+/project/easyzone3/, easyzone3, 1.2.3, Easy Zone - DNS Zone abstraction module, 2015-03-11T01:48:49+0000
+/project/hapi-client/, hapi-client, 0.9.1, HyperDNS HAPI Client Libraries and CLI Tools, 2014-10-16T01:34:45+0000
+/project/gandi-update-dns/, gandi-update-dns, 0.1.6, Yet another tool to update DNS zone in gandi provider, 2020-04-20T08:52:28+0000
+/project/3xsd/, 3xsd, 0.0.26, 3xsd is a native epoll server serving TCP/UDP connections, a high performance static web server, a failover dns server, a http-based distributed file server, a load-balance proxy-cache server, and a warp-drive server. Written in python, take the full power of multi-cores., 2016-10-29T06:32:20+0000
+/project/ovh-dynhost/, ovh-dynhost, 0.5, A script to update the OVH DynHost with your current public IP, 2020-11-25T00:16:13+0000
+/project/trparse/, trparse, 0.3.0, Traceroute parser, 2019-05-26T16:38:05+0000
+/project/vertex/, Vertex, 0.3.1, Divmod Vertex is the first implementation of the Q2Q protocol, which is a peer-to-peer communication protocol for establishing stream-based communication between named endpoints., 2015-03-05T04:30:47+0000
+/project/aiodnsresolver/, aiodnsresolver, 0.0.151, Pure asyncio Python DNS resolver, 2020-01-21T16:09:57+0000
+/project/desec-dns-api/, desec-dns-api, 1.3.0, Wrapper for desec DNS API, 2020-08-06T12:27:36+0000
+/project/django-powerdns-models/, django-powerdns-models, 1.0, PowerDNS models for Django, 2018-10-10T11:40:34+0000
+/project/hyperdns-hal/, hyperdns-hal, 0.9.1, HyperDNS HAL Utilities, 2014-10-30T14:45:46+0000
+/project/infoblox/, infoblox, 1.1.1, Interface and CLI application for Infoblox NIOS, 2013-11-26T21:01:05+0000
+/project/dynectdns/, DynectDNS, 0.3, Dynect REST API wrapper, 2012-10-05T18:23:34+0000
+/project/pdnssync/, pdnssync, 0.4, PowerDNS sync tool, 2015-05-04T21:36:05+0000
+/project/openvpn2dns/, openvpn2dns, 1.1.0, DNS server in python serving openvpn status files as dns zones, 2015-02-14T20:53:04+0000
+/project/ipaclient/, ipaclient, 4.8.9, FreeIPA client library, 2020-08-20T10:53:29+0000
+/project/wizard-whois/, wizard-whois, 2.5.9, Module for retrieving and parsing the WHOIS data for a domain. Supports most domains. Fork of pythonwhois-alt and whois_alt as we need quick bug fixes, 2020-11-28T16:02:03+0000
+/project/rpz-manager/, rpz-manager, 0.2, Block ads and malicious domains with response policy zones, 2020-06-10T00:57:14+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/idna/, idna, 3.1, Internationalized Domain Names in Applications (IDNA), 2021-01-04T16:20:02+0000
+/project/libknot/, libknot, 3.0.5, Python bindings for libknot, 2021-03-25T10:24:47+0000
+/project/fess-up/, fess_up, 1.1.3, DNS record scraper, 2016-02-03T13:50:09+0000
+/project/berserker-resolver/, berserker_resolver, 2.0.1, Fast mass dns resolver which can bypass loadbalancers, 2015-08-08T02:23:31+0000
+/project/uwsgidns/, uwsgidns, 1.0.1, Dinamically route to localhost request for uWSGI locally subscribed domains., 2015-06-05T11:20:56+0000
+/project/certbot-glesys/, certbot-glesys, 0.2.0, GleSYS DNS authentication plugin for Certbot, 2018-04-23T17:15:35+0000
+/project/dnslib/, dnslib, 0.9.14, Simple library to encode/decode DNS wire-format packets, 2020-06-09T08:18:09+0000
+/project/transip-dns/, transip-dns, 1.0.0, TransIP Dns record management script, 2021-02-05T23:38:21+0000
+/project/gandip/, gandip, 3.0.0, Keep your gandi DNS records up to date with your current IP, 2019-07-22T06:46:39+0000
+/project/dkimpy/, dkimpy, 1.0.5, DKIM (DomainKeys Identified Mail), ARC (Authenticated Receive Chain), and TLSRPT (TLS Report) email signing and verification, 2020-08-09T02:51:36+0000
+/project/py-resolv/, py-resolv, 0.2.0, A synchronous and asynchronous DNS client library, 2013-02-14T00:23:43+0000
+/project/pihole5-list-tool/, pihole5-list-tool, 0.6.0, A tool for quickly and easily bulk adding allowlists and ad/blocklists to a Pi-hole 5 installation, 2020-10-25T07:23:15+0000
+/project/dyndnsc-macosnotify/, dyndnsc-macosnotify, 0.1, plugin for dyndnsc providing macos desktop notifications, 2018-01-14T19:39:05+0000
+/project/quart-doh/, quart-doh, 0.1.0, A client and proxy implementation of https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-13, 2019-10-07T19:59:06+0000
+/project/publicsuffix/, publicsuffix, 1.1.1, Get a public suffix for a domain name using the Public Suffix List., 2019-12-01T13:44:51+0000
+/project/soa/, soa, 0.2.0, Arrowhead core services, 2016-07-12T10:28:28+0000
+/project/goog-dns/, goog_dns, 0.0.4, Python program to update Google Dynamic DNS. Useful for cronjob or some other automated mechanism., 2015-01-28T01:56:10+0000
+/project/cidrize/, cidrize, 2.0.0, Cidrize parses IPv4/IPv6 addresses, CIDRs, ranges, and wildcard matches & attempts to return a valid list of IP addresses, 2021-03-31T05:54:36+0000
+/project/dnsdiag/, dnsdiag, 2.0.1, DNS Measurement, Troubleshooting and Security Auditing Toolset (ping, traceroute), 2021-04-09T00:15:57+0000
+/project/mcddns/, mcddns, 1.1.2, Industrial-strength dynamic DNS client, 2021-02-17T23:33:20+0000
+/project/ub-split-map/, ub-split-map, 0.2.0, A python module for Unbound to dynamically map external IPs to internal RFC 1918 addresses to avoid split-horizon DNS, 2020-02-05T22:10:22+0000
+/project/certbot-dns-njalla/, certbot-dns-njalla, 1.0.0, Njalla DNS Authenticator plugin for Certbot, 2020-10-17T09:51:08+0000
+/project/dnsrewriteproxy/, dnsrewriteproxy, 0.0.16, A DNS proxy server that conditionally rewrites and filters A record requests, 2020-02-08T09:37:17+0000
+/project/noipy/, noipy, 1.5.3, Command line tool for DDNS IP address updating., 2020-02-09T21:38:57+0000
+/project/pynonamedomain/, pynonamedomain, 1.0.3, Unofficial NonameDomain API module/client, 2021-01-02T17:53:08+0000
+/project/afraid/, afraid, 0.1-dev, A simple client for the afraid.org dynamic DNS service, 2011-12-22T07:08:20+0000
+/project/certbot-loopia/, certbot-loopia, 0.2.0, Loopia DNS authentication plugin for Certbot, 2017-08-21T11:01:58+0000
+/project/dns-shark/, dns-shark, 1.0.2, A simple DNS resolver that can resolve a domain name to either an IPv4 or IPv6 address., 2020-01-20T02:49:04+0000
+/project/python-syra/, python-syra, 0.5.3, Client for the Syra API., 2019-12-04T21:58:49+0000
+/project/django-powerdns-manager/, django-powerdns-manager, 0.2.9a1, django-powerdns-manager is a web based PowerDNS administration panel., 2016-03-18T09:22:04+0000
+/project/certbot-dns-glesys/, certbot-dns-glesys, 2.0.0, GleSYS DNS authentication plugin for Certbot, 2020-12-28T14:20:11+0000
+/project/hapi-vendor-toolkit/, hapi-vendor-toolkit, 0.0.2, HyperDNS Vendor Development Toolkit toolkit, 2014-10-15T06:28:50+0000
+/project/dnspython3/, dnspython3, 1.15.0, A DNS toolkit for Python 3.x, 2016-09-30T22:32:12+0000
+/project/cloudflaredns-backup/, cloudflaredns-backup, 1.8, CloudFlare DNS backup to BIND files, 2016-03-01T06:45:53+0000
+/project/gollama/, gollama, 1.1.0, Django implementation for golink, 2020-07-26T02:44:21+0000
+/project/gordon-dns-gcp/, gordon-dns-gcp, 0.0.1.dev38, GCP Plugins for Gordon and Gordon Janitor, 2021-04-13T20:32:04+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/dnstest/, dnstest, 0.1.0a0, A cli tool for testing DNS records match a provided yaml config file, 2019-04-21T12:36:14+0000
+/project/dnspx/, dnspx, 0.1.9, DNS proxy query service tool, 2021-01-27T16:13:42+0000
+/project/orbi-dnsmasq/, orbi-dnsmasq, 2.0.0, Use selenium and telnet to automate orbi router's dnsmasq, 2020-12-28T11:07:58+0000
+/project/hyperdns-flask/, hyperdns-flask, 0.9.4, HyperDNS Flask Utilities, 2014-11-01T12:16:52+0000
+/project/dynect-client/, dynect-client, 0.2.15, Dynect REST API Client for adding/removing domains, 2014-03-04T14:39:15+0000
+/project/quackdns/, quackdns, 0.3.1, Keeps your DuckDNS IP information updated., 2019-01-28T09:56:35+0000
+/project/pylresolv/, pylresolv, 0.2, DNS querying through libc libresolv.so using ctypes, 2019-07-03T10:32:22+0000
+/project/dyndnsc/, dyndnsc, 0.6.1, dynamic dns (dyndns) update client with support for multiple protocols, 2021-04-02T05:55:24+0000
+/project/py3dns/, py3dns, 3.2.1, Python 3 DNS library, 2019-09-04T12:24:45+0000
+/project/dnspython/, dnspython, 2.1.0, DNS toolkit, 2021-01-07T17:23:58+0000
+/project/localzone/, localzone, 0.9.8, A simple library for managing DNS zones., 2021-01-20T02:57:34+0000
+/project/doh-proxy/, doh-proxy, 0.0.9, A client and proxy implementation of https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-13, 2019-07-04T09:21:25+0000
+/project/rosterconfigmanager/, RosterConfigManager, 0.17, RosterConfigManager is a Bind9 config importer/exporter for Roster, 2012-08-02T21:08:31+0000
+/project/gdns/, gDNS, 0.1.4, Google DNS-over-HTTPS, 2017-09-18T22:28:54+0000
+/project/r53-dyndns/, r53-dyndns, 0.4.0, Route53 dynamic DNS agent, 2020-07-05T18:31:39+0000
+/project/publicsuffix2/, publicsuffix2, 2.20191221, Get a public suffix for a domain name using the Public Suffix List. Forked from and using the same API as the publicsuffix package., 2019-12-21T11:30:41+0000
+/project/zonecreate/, zonecreate, 0.1, zonecreate are some helper scripts for generating zone files, 2013-02-16T06:22:34+0000
+/project/hyperdns-netdns/, hyperdns-netdns, 0.9.0, HyperDNS DNS Utilities, 2014-10-19T07:09:17+0000
+/project/dovedns/, dovedns, 1.0.1, DoveDNS is a library for interfacing with Linode DNSManager, using Twisted., 2013-06-05T13:52:12+0000
+/project/dyndnsc-growl/, dyndnsc-growl, 0.1, plugin for dyndnsc providing growl desktop notifications, 2018-01-14T19:42:18+0000
+/project/dyn-python/, dyn-python, 1.0, Dyn Python SDK, 2014-07-14T16:13:39+0000
+/project/pythonwhois-alt/, pythonwhois-alt, 2.4.4, Module for retrieving and parsing the WHOIS data for a domain. Supports most domains. No dependencies., 2019-05-07T12:57:03+0000
+/project/zoner/, zoner, 1.4.1, A DNS zone management web application., 2009-04-30T07:17:52+0000
+/project/dns-sprockets/, dns-sprockets, 2.0.0, Command-line DNS Zone validation tool, 2020-04-03T05:58:28+0000
+/project/pkb-client/, pkb-client, 1.1, Unofficial client for the Porkbun API, 2021-04-01T11:42:10+0000
+/project/publicsuffixlist/, publicsuffixlist, 0.7.7, publicsuffixlist implement, 2021-01-16T13:35:48+0000
+/project/dnsknife/, dnsknife, 0.12, DNS tools, 2019-10-22T14:16:23+0000
+/project/pynamecom/, pynamecom, 0.1.4, Python Library for Name.com v4 API, 2019-09-17T09:30:00+0000
+/project/giu/, giu, 0.2.0, Gandi LiveDNS Updater - commnand line tool to keep your dynamic ip up to date, 2020-12-25T22:57:57+0000
+/project/dnsimple-zoneimport/, dnsimple-zoneimport, 0.1.1, A script that allows you to import a Bind zone file into your DNSimple account., 2013-06-25T15:00:06+0000
+/project/he-update/, he_update, 1.1, Hurricane Electric tunnel endpoint and dyndns updater, 2015-12-08T22:36:47+0000
+/project/cfdns/, cfdns, 0.1.1, Command line tool for manipulating DNS of CloudFlare hosted domains, 2017-04-23T21:29:15+0000
+/project/easyzone/, easyzone, 1.2.2, Easy Zone - DNS Zone abstraction module, 2011-05-22T11:58:10+0000
+/project/psl/, psl, 2021.1.4, Mozilla Public Suffix list as a Python package and updated daily, 2021-01-04T20:20:19+0000
+/project/ens/, ens, 0.6.1, Ethereum Name Service, made easy in Python, 2017-10-04T14:55:53+0000
+/project/psl-dns/, psl-dns, 1.0.3, Query the Public Suffix List (PSL) via DNS and check the PSL status of a domain., 2020-11-06T16:51:36+0000
+/project/doh-cli/, doh-cli, 0.6, a simple DNS-over-HTTPS client, 2021-03-25T06:20:18+0000
+/project/ipaplatform/, ipaplatform, 4.8.9, FreeIPA platform, 2020-08-20T10:53:35+0000
+/project/namesync/, namesync, 0.4, Sync DNS records stored in a flat file format to your DNS provider., 2015-08-11T22:29:37+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/asyncdns2/, asyncdns2, 0.1.3, Pure Python asynchronous DNS via asyncio, 2018-07-07T17:26:00+0000
+/project/certbot-anx/, certbot-anx, 0.1, ANX DNS authentication plugin for Certbot, 2019-08-10T19:33:28+0000
+/project/nimi/, nimi, 0.2.0, Painless Dynamic DNS with AWS, 2019-09-23T22:01:16+0000
+/project/hapi-vendor-ultra/, hapi-vendor-ultra, 0.9.0, Neustar UltraDNS Adapter for HyperDNS HAPI, 2014-10-15T12:42:36+0000
+/project/domainr/, domainr, 1.0.0, Dead-Simple way to interact with Domai.nr JSON API, 2012-04-24T01:41:31+0000
+/project/dns-lexicon/, dns-lexicon, 3.5.6, Manipulate DNS records on various DNS providers in a standardized/agnostic way, 2021-03-28T12:31:10+0000
+/project/dnslink/, dnslink, 1.0.3, Python implementation of DNSLink protocol, 2019-12-14T13:19:31+0000
+/project/gordon-janitor/, gordon-janitor, 0.0.1.dev7, DNS record reconciliation for Gordon: Event-driven Cloud DNS, 2018-11-16T22:16:43+0000
+/project/freeipa/, freeipa, 4.8.9, Dummy package for FreeIPA, 2020-08-20T10:53:23+0000
+/project/gandyns/, gandyns, 1.0.1, Update gandi DNS record with current public IP, 2018-04-13T02:06:02+0000
+/project/pr0cks/, pr0cks, 0.2.1, Transparent proxy in python, 2020-06-01T21:53:13+0000
+/project/das7pad-dns-lexicon/, das7pad-dns-lexicon, 3.5.1.post1, Manipulate DNS records on various DNS providers in a standardized/agnostic way, 2020-11-20T13:56:32+0000
+/project/ipapython/, ipapython, 4.8.9, FreeIPA python support library, 2020-08-20T10:53:37+0000
+/project/ppds/, ppds, 0.0.1.dev3, Private Peer Domain Syndication, 2017-09-14T17:19:10+0000
+/project/whois-alt/, whois-alt, 2.5.0, Module for retrieving and parsing the WHOIS data for a domain. Supports most domains. No dependencies. Fork of pythonwhois-alt as we need quick bug fixes, 2020-04-10T19:05:36+0000
+/project/world/, world, 4.1.1, "world -- top level domain code mappings", 2019-11-27T02:07:44+0000
+/project/greendns/, greendns, 0.9.14, A non-poisonous and CDN-friendly Recursive DNS Resolver, 2019-06-05T15:40:28+0000
+/project/certbot-dns-local/, certbot-dns-local, 0.1.1, Domain registrar agnostic authenticator plugin for certbot, 2020-04-30T11:23:02+0000
+/project/fqdn/, fqdn, 1.5.1, Validates fully-qualified domain names against RFC 1123, so that they are acceptable to modern bowsers, 2021-03-11T07:16:28+0000
+/project/wile/, wile, 1.0.6, A stripped down Let's Encrypt (ACME) client, 2018-12-15T17:31:39+0000
+/project/python-designateclient/, python-designateclient, 4.2.0, OpenStack DNS-as-a-Service - Client, 2021-01-25T20:41:44+0000
+/project/python-zonediff/, python-zonediff, 1.0, Library and commandline tool to create logical diffs of zonefiles, 2012-03-10T18:43:19+0000
+/project/octodns-lexicon/, octodns-lexicon, 0.1.dev4, Lexicon provider for OctoDNS, 2020-07-08T17:41:57+0000
+/project/z42/, z42, 0.0.2, Zeroconf (mDNS) for Amazon EC2, 2015-12-30T18:17:44+0000
+/project/ipa/, ipa, 4.8.9, Dummy package for FreeIPA, 2020-08-20T10:53:26+0000
+/project/dyn/, dyn, 1.8.1, Dyn REST API wrapper, 2018-01-02T17:59:43+0000
+/project/iijdns/, iijdns, 0.0.2, python library(API wrapper) for IIJ DNS service, 2015-02-10T11:20:01+0000
+/project/gordon-dns/, gordon-dns, 0.0.1.dev10, Event-driven Cloud DNS, 2020-09-23T16:58:30+0000
+/project/edgemanage/, edgemanage, 2.0.7, HTTP availability management tool, 2016-03-19T18:57:31+0000
+/project/certbot-dns-inwx/, certbot-dns-inwx, 2.1.3, INWX DNS Authenticator plugin for Certbot, 2021-03-06T17:01:06+0000
+/project/getdns/, getdns, v1.0.0b1, Python bindings for getdns, 2016-03-31T18:16:41+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/ns1-python/, ns1-python, 0.16.0, Python SDK for the NS1 DNS platform, 2020-05-18T20:41:24+0000
+/project/django-powerdns-dnssec/, django-powerdns-dnssec, 0.9.3, PowerDNS administration app for Django, 2013-03-27T13:32:49+0000
+/project/googdns/, googdns, 0.0.5, Python program to update Google Dynamic DNS. Useful for cronjob or some other automated mechanism., 2015-02-07T13:34:03+0000
+/project/desec-dns-cli/, desec-dns-cli, 0.0.3, CLI for desec DNS API, 2020-03-02T21:19:35+0000
+/project/certbot-pdns/, certbot-pdns, 1.2.0, Certbot DNS authenticator, 2018-06-06T12:57:31+0000
+/project/adns/, adns, 1.4-py1, An interface to GNU adns - python3 port, 2013-12-03T06:46:16+0000
+/project/encrypted-dns/, encrypted-dns, 1.2.0, DNS-over-HTTPS and DNS-over-TLS server and forwarder., 2020-05-14T17:14:08+0000
+/project/certbot-dns-safedns/, certbot-dns-safedns, 0.1.14, SafeDNS Authenticator plugin for Certbot, 2020-11-04T10:49:40+0000
+/project/rostercore/, RosterCore, 0.17, RosterCore contains the Core and  DB libraries for Roster, 2012-08-02T21:08:02+0000
+/project/doth-dns/, DoTH-DNS, 7.0.0, DoTH-DNS gives you great control over your DNS traffic, 2020-02-16T12:33:28+0000
+/project/django-powerdns/, django-powerdns, 0.2, PowerDNS administration module for Django, 2010-05-23T12:28:39+0000
+/project/rosterserver/, RosterServer, 0.17, RosterServer is a XML/RPC Server for Roster., 2012-08-02T21:09:00+0000
+/project/multidns/, multidns, 1.0.6, relay DNS requests to multiple servers and returns the fastest answer, 2017-02-24T09:35:12+0000
+/project/tonicdnscli/, tonicdnscli, 0.10, TonicDNS CLI tool, 2013-04-01T10:22:42+0000
+/project/dnsviz/, dnsviz, 0.9.3, DNS analysis and visualization tool suite, 2021-03-11T23:09:58+0000
+/project/dockerns/, dockerns, 0.0.2, Docker Service DNS Server, 2014-03-12T12:57:05+0000
+/project/digsec/, digsec, 0.6, dig like command line utility to understand DNSSEC, 2020-05-14T14:30:14+0000
+/project/devns/, devns, 0.5.0, Pure Python DNS server for developers, 2018-04-23T18:45:17+0000
+/project/pdns-remotebackend/, Pdns_Remotebackend, 0.7, Support package for PowerDNS remotebackend, 2018-07-06T15:06:10+0000
+/project/atingebla/, atingebla, 0.2.1, Gandi DNS auto-updater, 2017-08-07T17:38:50+0000
+/project/knot-keystore/, knot-keystore, 0.1.0, A tool for safely archiving knot dnssec key material to azure., 2019-07-07T23:30:14+0000
+/project/pydnstest/, pydnstest, 0.4.0, Tool to test DNS changes on a staging server and verify in production, 2017-12-24T14:00:21+0000
+/project/nserver/, nserver, 0.1.0, DNS Name Server Framework, 2021-02-13T05:21:40+0000
+/project/certbot-dns-cloudns/, certbot-dns-cloudns, 0.4.0, ClouDNS DNS Authenticator plugin for Certbot, 2021-02-28T01:15:34+0000
+/project/godaddypy/, GoDaddyPy, 2.3.3, A very simple python client used to update the IP address in A records for GoDaddy managed domains., 2020-02-04T04:36:08+0000
+/project/hacklib/, hacklib, 0.1.6, Toolkit for hacking enthusiasts using Python., 2016-09-30T07:28:36+0000
+/project/dnsyo/, dnsyo, 2.0.7, Query over 1500 global DNS servers and colate their results. Track the propagation of your domains around the world., 2015-09-22T19:02:37+0000
+/project/sender-policy-flattener/, sender-policy-flattener, 0.2.4, Condense SPF records to network blocks to avoid DNS Lookup Limits, 2021-03-23T00:19:52+0000
+/project/saruman/, saruman, 0.3.0, A firewall that leverage AMQP workqueue ! Build by iresam for iresam !, 2016-01-03T18:29:28+0000
+/project/hapi-vendor-r53/, hapi-vendor-r53, 0.9.0, Route53 Adapter for HyperDNS HAPI, 2014-10-15T13:27:02+0000
+/project/pydyndns/, pydyndns, 1.1.0, Sends dynamic DNS updates to a DNS server., 2020-12-22T02:25:36+0000
+/project/cfdyndns-updater/, cfdyndns-updater, 0.1.0, A script to keep the values in the Cloudflare DDNS service in sync with your local dynamic IP address., 2018-10-14T21:34:59+0000
+/project/certbot-netdot/, certbot-netdot, 0.1.1, Netdot DNS authentication plugin for Certbot, 2020-05-15T14:13:52+0000
+/project/django-doh/, django-doh, 0.1.0, A simple Django app to serve DOH., 2019-10-07T05:14:15+0000

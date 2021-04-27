@@ -1,0 +1,324 @@
+/project/bottle/, bottle, 0.12.19, Fast and simple WSGI-framework for small web-applications., 2020-11-11T18:51:24+0000
+/project/thegiant/, thegiant, 1.2.1, A wsgi server that speaks Redis written in C., 2013-03-30T01:19:59+0000
+/project/gunicorn/, gunicorn, 20.1.0, WSGI HTTP Server for UNIX, 2021-03-27T01:54:37+0000
+/project/openfisca-web-api/, OpenFisca-Web-API, 8.2.0, Web API for OpenFisca, 2018-05-01T15:26:53+0000
+/project/pooled-processmixin/, pooled-ProcessMixIn, 0.0.1, A Pool of processes and threads Mix-in for socketserver., 2019-03-09T18:41:10+0000
+/project/fiole/, fiole, 0.4.1, The handy Python web framework., 2014-07-03T07:31:40+0000
+/project/cyclone/, cyclone, 1.3, Non-blocking web server for Python. Tornado API as a Twisted protocol., 2019-09-18T22:54:51+0000
+/project/victims-web/, victims-web, 2.2.1, Victims Web Service, 2017-08-01T09:07:25+0000
+/project/bjoern-cli/, bjoern-cli, 0.0.1, A convenient command line wrapper around bjoern web server, 2019-10-10T15:26:00+0000
+/project/fapws3/, fapws3, 0.11.dev, Fast Asynchronous Python Web Server, 2012-04-14T10:35:24+0000
+/project/anyblok-pyramid-rest-api/, anyblok_pyramid_rest_api, 0.7.0, Tools to build rest api's, 2020-12-07T15:58:48+0000
+/project/watson-filters/, watson-filters, 1.0.1, Modify and convert values into something else., 2017-03-23T04:06:25+0000
+/project/cheroot-cc/, cheroot-cc, 6.5.4, Highly-optimized, pure-python HTTP server, 2019-04-25T15:58:40+0000
+/project/pyaler/, pyaler, 0.3, A restfull application to control your arduino devices, 2010-07-24T16:01:57+0000
+/project/j25framework/, j25framework, 0.5.8, A highly scalable REST application development framework, 2012-08-12T10:18:52+0000
+/project/apicore/, apicore, 1.2.1, Core lib for REST API, 2018-02-11T23:37:18+0000
+/project/pywb/, pywb, 2.5.0, Pywb Webrecorder web archive replay and capture tools, 2021-01-27T06:48:02+0000
+/project/efreet/, Efreet, 1.0, Remote Object Daemon Server and Client, 2014-02-25T18:39:57+0000
+/project/reply/, reply, 0.2, Test your front-end calls easily!, 2016-09-20T22:45:59+0000
+/project/lorax/, lorax, 0.94.86, lorax -- speaks for the (phylogenetic) trees., 2018-08-23T20:24:44+0000
+/project/django-ddp/, django-ddp, 0.19.1, Django/PostgreSQL implementation of the Meteor server., 2016-01-28T05:19:57+0000
+/project/wsgidav/, WsgiDAV, 3.1.0, Generic and extendable WebDAV server based on WSGI, 2021-01-04T21:29:00+0000
+/project/rocket/, rocket, 1.2.8, Modern, multi-threaded and extensible web server., 2017-12-04T04:11:00+0000
+/project/pywayback/, pywayback, 0.10.9.1, Python WayBack for web archive replay and live web proxy, 2015-10-21T22:32:29+0000
+/project/wfastcgi/, wfastcgi, 3.0.0, An IIS-Python bridge based on WSGI and FastCGI., 2017-03-08T17:02:38+0000
+/project/ewer/, ewer, 0.13.dev0, Async Fork of Fast and simple WSGI-framework for small web-applications., 2016-08-13T19:44:06+0000
+/project/pheme/, pheme, 21.4rc4, report-generation-service, 2021-03-02T07:36:04+0000
+/project/mamba-framework/, mamba-framework, 0.3.5, Mamba is a high-level RAD Web Applications framework based on Twisted Web that uses Storm ORM as database access layer, 2013-05-06T22:01:05+0000
+/project/flup6/, flup6, 1.1.1, Random assortment of WSGI servers, 2015-07-31T17:08:58+0000
+/project/ws4py/, ws4py, 0.5.1, WebSocket client and server library for Python 2 and 3 as well as PyPy, 2018-02-28T17:40:47+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/webtest/, WebTest, 2.0.35, Helper to test WSGI applications, 2020-04-27T14:09:57+0000
+/project/webskewer-http/, webskewer.http, 0.1.0, An HTTP/1.1 compliant WSGI server that uses a greenlet-based scheduling model, 2009-02-05T04:25:41+0000
+/project/hal9k-api/, Hal9k-API, 0.1.2, The HackerLab 9000 API Server., 2020-07-27T19:41:50+0000
+/project/tfserve/, tfserve, 0.3, Serve TF models simple and easy as an HTTP API server., 2018-10-29T16:06:04+0000
+/project/sansio-multipart/, sansio-multipart, 0.3, Parser for multipart/form-data., 2019-06-14T00:35:40+0000
+/project/apiguard/, apiguard, 0.0.1, alone oauth2 server, 2019-09-05T16:07:17+0000
+/project/receptacle/, receptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-05T16:54:13+0000
+/project/gevent-fastcgi/, gevent-fastcgi, 1.1.0.0, FastCGI/WSGI client and server implemented using gevent library, 2019-12-19T09:36:02+0000
+/project/anyblok-pyramid/, anyblok_pyramid, 1.2.0, Web Server Pyramid for AnyBlok, 2020-12-03T10:17:15+0000
+/project/lathermail/, lathermail, 0.4.2, SMTP Server with API for email testing inspired by mailtrap and maildump, 2020-08-21T11:47:29+0000
+/project/halweb/, HalWeb, 0.6.0, Halicea Web Framework(HalWeb) is an Appengine MVC web framework for real easy, understandable and rapid development, 2012-01-06T03:12:06+0000
+/project/mod-wsgi/, mod-wsgi, 4.7.1, Installer for Apache/mod_wsgi., 2020-02-16T23:05:48+0000
+/project/django-wsgiserver/, django-wsgiserver, 0.6.10, django-wsgiserver installs a web server for Django using CherryPy's WSGI server., 2011-08-22T07:41:58+0000
+/project/reserve/, reserve, 0.3, Python server. Redesigned., 2012-10-28T15:47:39+0000
+/project/pooledprocessmixin/, PooledProcessMixIn, 0.0.2, A Pool of processes and threads Mix-in for socketserver., 2012-08-10T20:23:40+0000
+/project/ceptacle/, ceptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-08T21:45:45+0000
+/project/watson-assets/, watson-assets, 1.0.7, Manage publicly available assets within your application., 2017-02-02T06:58:51+0000
+/project/ezt/, ezt, 1.1, EaZy Templating for Python., 2020-04-19T18:24:06+0000
+/project/atlassian-httptest/, atlassian-httptest, 0.8, A real live HTTP server to use in tests, 2018-05-29T21:10:55+0000
+/project/webpie/, webpie, 5.2.2, A set of useful tools built on top of standard Python threading module, 2021-04-21T20:24:37+0000
+/project/webtest-plus/, webtest-plus, 1.0.0, An extension of WebTest with useful extras, including requests-style authentication., 2017-05-12T02:31:01+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/wsgit/, WSGIT, 0.3.1, WSGI Server on TCP, 2014-10-16T20:53:25+0000
+/project/cherrypy/, CherryPy, 18.6.0, Object-Oriented HTTP framework, 2020-04-17T18:29:30+0000
+/project/bottle-mold/, bottle-mold, 0.0.3.dev1, Remove the boilerplate template from your bottle web services., 2019-05-29T19:40:58+0000
+/project/paste/, Paste, 3.5.0, Tools for using a Web Server Gateway Interface stack, 2020-10-12T12:48:32+0000
+/project/gaesynkit/, gaesynkit, 1.0.0a2, Google App Engine Datastore/Local Storage Synchronization Framework, 2011-04-12T20:10:17+0000
+/project/azf-wsgi/, azf-wsgi, 0.3.1, Azure Functions WSGI implementation [deprecated], 2020-03-08T11:43:02+0000
+/project/minefield/, minefield, 0.6, High performance Python WSGI Web Server, 2014-11-02T08:09:40+0000
+/project/ohoh/, ohoh, 0.1.0, A debug server for WSGI apps., 2015-07-26T23:36:25+0000
+/project/gunicorn-packaged-by-james/, gunicorn-packaged-by-james, 20.0.4, WSGI HTTP Server for UNIX, 2021-01-14T05:55:34+0000
+/project/wsgi-module/, wsgi_module, 4.0b4, A simplified launcher for WSGI applications using Apache/mod_wsgi., 2013-07-05T12:20:10+0000
+/project/pyrainbow/, pyrainbow, 0.0.7, Rainbow is a micro-framework for Python RPC+Pub/Sub communication over WebSockets., 2015-11-30T12:28:01+0000
+/project/eyefi/, eyefi, 0.2, EyeFi Server Framework, 2012-03-03T22:35:06+0000
+/project/pyjoyment/, Pyjoyment, 0.0.1, An asynchronous, event driver web framework for the Python programming language., 2016-03-27T12:12:49+0000
+/project/rss-to-graphql/, rss-to-graphql, 0.0.1, A microservice proxy to convert an rss feed to a GraphQL API endpoint, 2021-04-19T18:52:42+0000
+/project/hendrix/, hendrix, 3.4.0, Pure python web server, based on Twisted, providing the One Obvious Way to do async and offbeat network traffic with django and other WSGI apps., 2020-08-18T19:33:08+0000
+/project/whirl/, whirl, 0.8.0, A collection of tools for making websites in Python, 2014-07-27T04:46:19+0000
+/project/machinerry/, machinerry, 0.2.5, CherryPy-based framework for running tasks repeatedly., 2018-06-09T00:11:31+0000
+/project/galaxyservers/, galaxyservers, 0.1.1, Runners for Galaxyproject, 2013-07-01T12:06:38+0000
+/project/cogen/, cogen, 0.2.1, Coroutines and asynchronous I/O using enhanced generators         from python 2.5, including a enhanced WSGI server., 2009-01-16T22:05:03+0000
+/project/sqlchain/, sqlchain, 0.2.10, Compact SQL layer for Bitcoin blockchain., 2018-11-10T23:26:16+0000
+/project/multipart/, multipart, 0.2.4, Parser for multipart/form-data., 2021-01-27T17:59:00+0000
+/project/cherrypy-cgiserver/, cherrypy-cgiserver, 0.3.6, Python CGI Server - Perfect To Deliver PHP Files Within A Python CherryPy Application, 2016-08-25T13:57:27+0000
+/project/pyruvate/, pyruvate, 1.0.0, WSGI server implemented in Rust., 2021-03-24T10:56:20+0000
+/project/pants/, pants, 1.0.1, An asynchronous networking library for Python., 2013-11-08T03:29:41+0000
+/project/mod-wsgi-standalone/, mod-wsgi-standalone, 4.7.1, Installer for Apache/mod_wsgi., 2020-02-16T23:05:51+0000
+/project/gunicorn-console/, gunicorn-console, 0.1.16, A curses application for managing gunicorn processes., 2013-07-17T11:48:49+0000
+/project/binner/, Binner, 0.3.0, Calculate bin sizes for items. Easy!, 2018-01-20T00:15:28+0000
+/project/normalize-css/, normalize.css, 2.3.4, A modern, HTML5-ready alternative to CSS resets, 2020-10-10T06:15:02+0000
+/project/sticker/, sticker, 0.0.5, Sticker is a powerful yet boilerplate-free alternative to writing your web API., 2018-03-29T08:49:05+0000
+/project/selwsgi/, selwsgi, 0.1, A simple library to wrap wsgi apps in an evironment suitable to be unit tested with Selenium WebDriver, 2013-08-30T18:49:52+0000
+/project/nfapws/, nfapws, 0.3.2, Fast Asynchronous Python Web Server, 2009-08-21T06:21:28+0000
+/project/watson-dev/, watson-dev, 3.0.1, Work with WSGI applications locally., 2016-12-14T05:31:30+0000
+/project/vial-http/, vial-http, 0.2.3, WSGI based HTTP nano-framework, 2021-02-28T19:28:18+0000
+/project/invenio-devserver/, invenio-devserver, 0.13, An HTTP server for Invenio with automatic code reloading, 2014-03-06T17:18:31+0000
+/project/mqttasgi/, mqttasgi, 0.2.0, MQTT ASGI Protocol Server, 2020-05-18T17:29:11+0000
+/project/zato-invoke-retry/, zato-invoke-retry, 1.1.1, Zato 1.1 service providing invoke_retry & invoke_async_methods for retrying invocations, blockingly or in background (https://zato.io/docs/index.html), 2013-07-09T18:11:27+0000
+/project/django-hotsauce/, django-hotsauce, 1.2.2, Scalable and heterogeneous web toolkit sitting on top of Django and others, 2020-06-30T16:40:02+0000
+/project/instant-api/, instant-api, 0.2.0, Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!, 2020-07-02T11:56:11+0000
+/project/sharkradar/, sharkradar, 1.2.0, Lightweight micro service registry and discovery tool, compatible with any HTTP based microservice, 2019-08-25T13:56:50+0000
+/project/razorbird/, razorbird, 0.2.1, A WSGI server based on Rust Hyper, 2020-07-11T22:02:09+0000
+/project/krcg-api/, krcg-api, 2.7, "Web API for VTES cards and TWDA.",, 2021-03-02T18:46:11+0000
+/project/watson-filesystem/, watson-filesystem, 2.0.0, Abstracted filesystems for Watson., 2017-06-13T06:51:25+0000
+/project/cheroot-ccwienk/, cheroot-ccwienk, 6.5.4, Highly-optimized, pure-python HTTP server, 2019-04-25T15:55:44+0000
+/project/nanoasgi/, NanoASGI, 0.0.5, Fast and simple ASGI-framework for small web-applications., 2021-01-02T02:31:47+0000
+/project/bobo/, bobo, 2.4.0, Web application framework for the impatient, 2017-05-17T15:10:12+0000
+/project/serveit/, ServeIt, 0.0.9, Machine learning prediction serving, 2018-08-29T00:37:11+0000
+/project/flowdas-oliver/, flowdas.oliver, 0.4.0, Oliver: A pretty fast WSGI server, 2019-02-25T23:25:01+0000
+/project/pulsar/, pulsar, 2.0.2, Event driven concurrent framework for Python, 2017-12-29T13:11:51+0000
+/project/aiida-optimade/, aiida-optimade, 0.17.0, Expose an AiiDA database according to the [OPTIMADE API specification](https://www.optimade.org)., 2021-03-05T17:21:50+0000
+/project/fake-uwsgi/, fake-uwsgi, 1.1.0, A Python module that attempts to fake out the uwsgi module exposed to uWSGI application. When testing applications outside uWSGI, for example Flask, this module can provide some functionality of the uwsgi module., 2021-01-25T22:29:44+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/bottle-stone/, bottle-stone, 0.1.0, Plugin to use the Stone IDL with Bottle., 2016-11-27T03:39:17+0000
+/project/cheroot/, cheroot, 8.5.2, Highly-optimized, pure-python HTTP server, 2021-01-18T16:04:21+0000
+/project/pyuwsgi/, pyuwsgi, 2.0.19.1.post0, The uWSGI server, 2020-09-23T03:23:37+0000
+/project/gates/, Gates, v1.0.0.beta, Minimal, fast and intuitive REST HTTP services in python, 2012-06-08T23:10:06+0000
+/project/webtest-casperjs/, webtest-casperjs, 0.2, Use casperjs with WebTest, 2015-03-30T13:56:18+0000
+/project/glashammer/, Glashammer, 0.2.1, Full stack web framework, 2009-03-31T11:33:21+0000
+/project/django-rt/, django-rt, 0.3.1, A framework for implementing real-time APIs in Django web applications, 2016-05-29T16:58:11+0000
+/project/meinheld/, meinheld, 1.0.2, High performance asynchronous Python WSGI Web Server, 2020-05-17T13:09:14+0000
+/project/wsgid/, wsgid, 0.9, WSGI Server with SSL, code reloading., 2009-07-14T23:45:48+0000
+/project/ysanic/, ySanic, 0.1.0, ySanic subclass with some addons to sanic, 2018-12-22T02:08:30+0000
+/project/kwsgi/, kwsgi, 0.0.2, Yet another WSGI server implementation., 2018-09-29T16:26:05+0000
+/project/support/, support, 0.0.1, An evented server framework designed for building scalable and introspectable services. Built at PayPal, based on gevent., 2015-03-17T07:56:55+0000
+/project/mod-wsgi-httpd/, mod-wsgi-httpd, 2.4.46.1, Installer for Apache httpd server., 2020-10-31T09:33:55+0000
+/project/watson-cache/, watson-cache, 1.1.0, Caching strategies for the web., 2014-12-26T04:10:07+0000
+/project/shiva/, shiva, 0.10.0, A RESTful API to your music collection, 2015-06-27T10:16:56+0000
+/project/zato-client/, zato-client, 3.1.2, Python API client for Zato - ESB, SOA, REST, APIs and Cloud Integrations in Python (https://zato.io), 2020-08-11T18:12:45+0000
+/project/wsgitools/, wsgitools, 0.3.1, a set of tools working with WSGI (see PEP 333), 2020-03-10T15:04:50+0000
+/project/typhoonae/, typhoonae, 0.2.0, Typhoon App Engine., 2010-12-12T22:56:18+0000
+/project/pentacle/, pentacle, 0.4, An O-O P2P RPC protocol and application framework., 2012-01-18T18:51:58+0000
+/project/tincanframework/, TinCanFramework, 0.1.1, Simple code-behind WSGI framework for small web-applications, implemented on top of bottle., 2019-07-15T20:37:17+0000
+/project/apptrace/, apptrace, 0.2.3, WSGI middleware to measure the memory footprint of GAE Python applications., 2011-07-20T23:39:56+0000
+/project/wsgiserver/, WSGIserver, 1.3, A high-speed, production ready, thread pooled, generic WSGI server with SSL support, 2016-09-29T02:32:40+0000
+/project/django-rt/, django-rt, 0.3.1, A framework for implementing real-time APIs in Django web applications, 2016-05-29T16:58:11+0000
+/project/meinheld/, meinheld, 1.0.2, High performance asynchronous Python WSGI Web Server, 2020-05-17T13:09:14+0000
+/project/ysanic/, ySanic, 0.1.0, ySanic subclass with some addons to sanic, 2018-12-22T02:08:30+0000
+/project/watson-cors/, watson-cors, 1.0.0, CORS support for watson-framework., 2017-08-16T01:27:54+0000
+/project/wasmite/, wasmite, 0.2.1, Wasmite: Webassembly is the future but now it has a testing toolchain, 2021-02-21T14:14:01+0000
+/project/tgbot/, tgbot, 0.31, Framework to build a Telegram Bot based on a UWSGI Server, 2016-01-25T17:00:47+0000
+/project/reloadwsgi/, ReloadWSGI, 0.3, Robust WSGI auto-reloading for development., 2010-11-18T04:21:48+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/httoop/, httoop, 0.0, object oriented HTTP protocol library, 2020-11-03T13:42:33+0000
+/project/gunicorn-pipe/, gunicorn-pipe, 19.10.1, Gunicorn with concurrent support for HTTP Pipeline requests, 2021-01-08T07:17:35+0000
+/project/bottle-dev/, bottle-dev, 0.13.2, Fast and simple WSGI-framework for small web-applications., 2020-10-30T18:54:33+0000
+/project/clastic/, clastic, 20.0.0, A functional Python web framework that streamlines explicit development practices while eliminating global state., 2020-03-08T02:31:13+0000
+/project/blidec-paste/, blidec-paste, 3.2.4, Tools for using a Web Server Gateway Interface stack, 2019-11-25T17:48:41+0000
+/project/gefr/, gefr, 0.3, A suite of WSGI bridges to Java servers., 2011-06-27T13:26:59+0000
+/project/ladon/, ladon, 1.0.7, Serve your python methods to several web service interfaces at once, including JSON-WSP, SOAP and JSON-RPC., 2020-12-02T08:05:46+0000
+/project/cps110bottle/, cps110bottle, 0.13.dev2, A minor modification to the Python bottle framework suitable for student use., 2017-12-22T16:35:03+0000
+/project/watson-validators/, watson-validators, 1.0.6, Validate and verify arbitrary values., 2017-06-08T01:15:25+0000
+/project/dbnomics-api/, DBnomics-API, 22.1.5, DBnomics Web API, 2021-03-03T08:42:54+0000
+/project/kobin/, kobin, 0.1.10, Type Hints friendly WSGI Framework for Python3., 2017-03-19T18:30:18+0000
+/project/cony/, cony, 0.2.0, "Cony" is a tool to write smart bookmarks in python and to share them across all your browsers and with a group of people or the whole world. This project inspired by Facebook's bunny1., 2011-02-02T23:36:36+0000
+/project/bjoern/, bjoern, 3.1.0, A screamingly fast Python 2 + 3 WSGI server written in C., 2019-11-03T09:45:13+0000
+/project/rocket-errbot/, rocket-errbot, 1.2.5, Modern, Multi-threaded, Comet-Friendly WSGI Web Server, 2016-02-26T20:00:21+0000
+/project/flup-py3/, flup-py3, 1.0.3, Random assortment of WSGI servers, 2018-02-08T23:42:56+0000
+/project/watson-cors/, watson-cors, 1.0.0, CORS support for watson-framework., 2017-08-16T01:27:54+0000
+/project/rainbow-saddle/, rainbow-saddle, 0.4.0, A wrapper around gunicorn to handle graceful restarts correctly, 2016-10-05T11:51:19+0000
+/project/woodstove/, woodstove, 0.1.1, A framework for writing HTTP service APIs, 2016-06-10T03:26:11+0000
+/project/rutter/, rutter, 0.3, Py3k-compatible fork of Paste's urlmap, 2020-08-10T20:17:00+0000
+/project/flipflop/, flipflop, 1.0, FastCGI wrapper for WSGI applications, 2014-02-20T23:20:52+0000
+/project/wasmite/, wasmite, 0.2.1, Wasmite: Webassembly is the future but now it has a testing toolchain, 2021-02-21T14:14:01+0000
+/project/tgbot/, tgbot, 0.31, Framework to build a Telegram Bot based on a UWSGI Server, 2016-01-25T17:00:47+0000
+/project/reloadwsgi/, ReloadWSGI, 0.3, Robust WSGI auto-reloading for development., 2010-11-18T04:21:48+0000
+/project/poorhttp/, PoorHTTP, 1.0.0, Http/WSGI server for Python, 2019-09-06T07:29:10+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/httoop/, httoop, 0.0, object oriented HTTP protocol library, 2020-11-03T13:42:33+0000
+/project/gunicorn-pipe/, gunicorn-pipe, 19.10.1, Gunicorn with concurrent support for HTTP Pipeline requests, 2021-01-08T07:17:35+0000
+/project/bottle/, bottle, 0.12.19, Fast and simple WSGI-framework for small web-applications., 2020-11-11T18:51:24+0000
+/project/thegiant/, thegiant, 1.2.1, A wsgi server that speaks Redis written in C., 2013-03-30T01:19:59+0000
+/project/gunicorn/, gunicorn, 20.1.0, WSGI HTTP Server for UNIX, 2021-03-27T01:54:37+0000
+/project/openfisca-web-api/, OpenFisca-Web-API, 8.2.0, Web API for OpenFisca, 2018-05-01T15:26:53+0000
+/project/django-ddp/, django-ddp, 0.19.1, Django/PostgreSQL implementation of the Meteor server., 2016-01-28T05:19:57+0000
+/project/rocket/, rocket, 1.2.8, Modern, multi-threaded and extensible web server., 2017-12-04T04:11:00+0000
+/project/fiole/, fiole, 0.4.1, The handy Python web framework., 2014-07-03T07:31:40+0000
+/project/cyclone/, cyclone, 1.3, Non-blocking web server for Python. Tornado API as a Twisted protocol., 2019-09-18T22:54:51+0000
+/project/victims-web/, victims-web, 2.2.1, Victims Web Service, 2017-08-01T09:07:25+0000
+/project/bjoern-cli/, bjoern-cli, 0.0.1, A convenient command line wrapper around bjoern web server, 2019-10-10T15:26:00+0000
+/project/webskewer-http/, webskewer.http, 0.1.0, An HTTP/1.1 compliant WSGI server that uses a greenlet-based scheduling model, 2009-02-05T04:25:41+0000
+/project/wsgidav/, WsgiDAV, 3.1.0, Generic and extendable WebDAV server based on WSGI, 2021-01-04T21:29:00+0000
+/project/pooled-processmixin/, pooled-ProcessMixIn, 0.0.1, A Pool of processes and threads Mix-in for socketserver., 2019-03-09T18:41:10+0000
+/project/pywayback/, pywayback, 0.10.9.1, Python WayBack for web archive replay and live web proxy, 2015-10-21T22:32:29+0000
+/project/wfastcgi/, wfastcgi, 3.0.0, An IIS-Python bridge based on WSGI and FastCGI., 2017-03-08T17:02:38+0000
+/project/fapws3/, fapws3, 0.11.dev, Fast Asynchronous Python Web Server, 2012-04-14T10:35:24+0000
+/project/anyblok-pyramid-rest-api/, anyblok_pyramid_rest_api, 0.7.0, Tools to build rest api's, 2020-12-07T15:58:48+0000
+/project/ewer/, ewer, 0.13.dev0, Async Fork of Fast and simple WSGI-framework for small web-applications., 2016-08-13T19:44:06+0000
+/project/pheme/, pheme, 21.4rc4, report-generation-service, 2021-03-02T07:36:04+0000
+/project/mamba-framework/, mamba-framework, 0.3.5, Mamba is a high-level RAD Web Applications framework based on Twisted Web that uses Storm ORM as database access layer, 2013-05-06T22:01:05+0000
+/project/flup6/, flup6, 1.1.1, Random assortment of WSGI servers, 2015-07-31T17:08:58+0000
+/project/ws4py/, ws4py, 0.5.1, WebSocket client and server library for Python 2 and 3 as well as PyPy, 2018-02-28T17:40:47+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/watson-filters/, watson-filters, 1.0.1, Modify and convert values into something else., 2017-03-23T04:06:25+0000
+/project/cheroot-cc/, cheroot-cc, 6.5.4, Highly-optimized, pure-python HTTP server, 2019-04-25T15:58:40+0000
+/project/pyaler/, pyaler, 0.3, A restfull application to control your arduino devices, 2010-07-24T16:01:57+0000
+/project/j25framework/, j25framework, 0.5.8, A highly scalable REST application development framework, 2012-08-12T10:18:52+0000
+/project/apicore/, apicore, 1.2.1, Core lib for REST API, 2018-02-11T23:37:18+0000
+/project/pywb/, pywb, 2.5.0, Pywb Webrecorder web archive replay and capture tools, 2021-01-27T06:48:02+0000
+/project/webtest/, WebTest, 2.0.35, Helper to test WSGI applications, 2020-04-27T14:09:57+0000
+/project/hal9k-api/, Hal9k-API, 0.1.2, The HackerLab 9000 API Server., 2020-07-27T19:41:50+0000
+/project/efreet/, Efreet, 1.0, Remote Object Daemon Server and Client, 2014-02-25T18:39:57+0000
+/project/reply/, reply, 0.2, Test your front-end calls easily!, 2016-09-20T22:45:59+0000
+/project/lorax/, lorax, 0.94.86, lorax -- speaks for the (phylogenetic) trees., 2018-08-23T20:24:44+0000
+/project/tfserve/, tfserve, 0.3, Serve TF models simple and easy as an HTTP API server., 2018-10-29T16:06:04+0000
+/project/receptacle/, receptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-05T16:54:13+0000
+/project/sqlchain/, sqlchain, 0.2.10, Compact SQL layer for Bitcoin blockchain., 2018-11-10T23:26:16+0000
+/project/multipart/, multipart, 0.2.4, Parser for multipart/form-data., 2021-01-27T17:59:00+0000
+/project/cherrypy-cgiserver/, cherrypy-cgiserver, 0.3.6, Python CGI Server - Perfect To Deliver PHP Files Within A Python CherryPy Application, 2016-08-25T13:57:27+0000
+/project/pyruvate/, pyruvate, 1.0.0, WSGI server implemented in Rust., 2021-03-24T10:56:20+0000
+/project/lathermail/, lathermail, 0.4.2, SMTP Server with API for email testing inspired by mailtrap and maildump, 2020-08-21T11:47:29+0000
+/project/halweb/, HalWeb, 0.6.0, Halicea Web Framework(HalWeb) is an Appengine MVC web framework for real easy, understandable and rapid development, 2012-01-06T03:12:06+0000
+/project/mod-wsgi/, mod-wsgi, 4.7.1, Installer for Apache/mod_wsgi., 2020-02-16T23:05:48+0000
+/project/django-wsgiserver/, django-wsgiserver, 0.6.10, django-wsgiserver installs a web server for Django using CherryPy's WSGI server., 2011-08-22T07:41:58+0000
+/project/pants/, pants, 1.0.1, An asynchronous networking library for Python., 2013-11-08T03:29:41+0000
+/project/mod-wsgi-standalone/, mod-wsgi-standalone, 4.7.1, Installer for Apache/mod_wsgi., 2020-02-16T23:05:51+0000
+/project/binner/, Binner, 0.3.0, Calculate bin sizes for items. Easy!, 2018-01-20T00:15:28+0000
+/project/normalize-css/, normalize.css, 2.3.4, A modern, HTML5-ready alternative to CSS resets, 2020-10-10T06:15:02+0000
+/project/sticker/, sticker, 0.0.5, Sticker is a powerful yet boilerplate-free alternative to writing your web API., 2018-03-29T08:49:05+0000
+/project/selwsgi/, selwsgi, 0.1, A simple library to wrap wsgi apps in an evironment suitable to be unit tested with Selenium WebDriver, 2013-08-30T18:49:52+0000
+/project/pooledprocessmixin/, PooledProcessMixIn, 0.0.2, A Pool of processes and threads Mix-in for socketserver., 2012-08-10T20:23:40+0000
+/project/wsgit/, WSGIT, 0.3.1, WSGI Server on TCP, 2014-10-16T20:53:25+0000
+/project/watson-dev/, watson-dev, 3.0.1, Work with WSGI applications locally., 2016-12-14T05:31:30+0000
+/project/azf-wsgi/, azf-wsgi, 0.3.1, Azure Functions WSGI implementation [deprecated], 2020-03-08T11:43:02+0000
+/project/krcg-api/, krcg-api, 2.7, "Web API for VTES cards and TWDA.",, 2021-03-02T18:46:11+0000
+/project/watson-filesystem/, watson-filesystem, 2.0.0, Abstracted filesystems for Watson., 2017-06-13T06:51:25+0000
+/project/minefield/, minefield, 0.6, High performance Python WSGI Web Server, 2014-11-02T08:09:40+0000
+/project/ohoh/, ohoh, 0.1.0, A debug server for WSGI apps., 2015-07-26T23:36:25+0000
+/project/gunicorn-packaged-by-james/, gunicorn-packaged-by-james, 20.0.4, WSGI HTTP Server for UNIX, 2021-01-14T05:55:34+0000
+/project/wsgi-module/, wsgi_module, 4.0b4, A simplified launcher for WSGI applications using Apache/mod_wsgi., 2013-07-05T12:20:10+0000
+/project/sansio-multipart/, sansio-multipart, 0.3, Parser for multipart/form-data., 2019-06-14T00:35:40+0000
+/project/apiguard/, apiguard, 0.0.1, alone oauth2 server, 2019-09-05T16:07:17+0000
+/project/gevent-fastcgi/, gevent-fastcgi, 1.1.0.0, FastCGI/WSGI client and server implemented using gevent library, 2019-12-19T09:36:02+0000
+/project/anyblok-pyramid/, anyblok_pyramid, 1.2.0, Web Server Pyramid for AnyBlok, 2020-12-03T10:17:15+0000
+/project/pyrainbow/, pyrainbow, 0.0.7, Rainbow is a micro-framework for Python RPC+Pub/Sub communication over WebSockets., 2015-11-30T12:28:01+0000
+/project/eyefi/, eyefi, 0.2, EyeFi Server Framework, 2012-03-03T22:35:06+0000
+/project/pyjoyment/, Pyjoyment, 0.0.1, An asynchronous, event driver web framework for the Python programming language., 2016-03-27T12:12:49+0000
+/project/rss-to-graphql/, rss-to-graphql, 0.0.1, A microservice proxy to convert an rss feed to a GraphQL API endpoint, 2021-04-19T18:52:42+0000
+/project/hendrix/, hendrix, 3.4.0, Pure python web server, based on Twisted, providing the One Obvious Way to do async and offbeat network traffic with django and other WSGI apps., 2020-08-18T19:33:08+0000
+/project/whirl/, whirl, 0.8.0, A collection of tools for making websites in Python, 2014-07-27T04:46:19+0000
+/project/machinerry/, machinerry, 0.2.5, CherryPy-based framework for running tasks repeatedly., 2018-06-09T00:11:31+0000
+/project/galaxyservers/, galaxyservers, 0.1.1, Runners for Galaxyproject, 2013-07-01T12:06:38+0000
+/project/cogen/, cogen, 0.2.1, Coroutines and asynchronous I/O using enhanced generators         from python 2.5, including a enhanced WSGI server., 2009-01-16T22:05:03+0000
+/project/gunicorn-console/, gunicorn-console, 0.1.16, A curses application for managing gunicorn processes., 2013-07-17T11:48:49+0000
+/project/reserve/, reserve, 0.3, Python server. Redesigned., 2012-10-28T15:47:39+0000
+/project/ceptacle/, ceptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-08T21:45:45+0000
+/project/watson-assets/, watson-assets, 1.0.7, Manage publicly available assets within your application., 2017-02-02T06:58:51+0000
+/project/ezt/, ezt, 1.1, EaZy Templating for Python., 2020-04-19T18:24:06+0000
+/project/atlassian-httptest/, atlassian-httptest, 0.8, A real live HTTP server to use in tests, 2018-05-29T21:10:55+0000
+/project/webpie/, webpie, 5.2.2, A set of useful tools built on top of standard Python threading module, 2021-04-21T20:24:37+0000
+/project/nfapws/, nfapws, 0.3.2, Fast Asynchronous Python Web Server, 2009-08-21T06:21:28+0000
+/project/webtest-plus/, webtest-plus, 1.0.0, An extension of WebTest with useful extras, including requests-style authentication., 2017-05-12T02:31:01+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/vial-http/, vial-http, 0.2.3, WSGI based HTTP nano-framework, 2021-02-28T19:28:18+0000
+/project/invenio-devserver/, invenio-devserver, 0.13, An HTTP server for Invenio with automatic code reloading, 2014-03-06T17:18:31+0000
+/project/mqttasgi/, mqttasgi, 0.2.0, MQTT ASGI Protocol Server, 2020-05-18T17:29:11+0000
+/project/zato-invoke-retry/, zato-invoke-retry, 1.1.1, Zato 1.1 service providing invoke_retry & invoke_async_methods for retrying invocations, blockingly or in background (https://zato.io/docs/index.html), 2013-07-09T18:11:27+0000
+/project/django-hotsauce/, django-hotsauce, 1.2.2, Scalable and heterogeneous web toolkit sitting on top of Django and others, 2020-06-30T16:40:02+0000
+/project/cherrypy/, CherryPy, 18.6.0, Object-Oriented HTTP framework, 2020-04-17T18:29:30+0000
+/project/bottle-mold/, bottle-mold, 0.0.3.dev1, Remove the boilerplate template from your bottle web services., 2019-05-29T19:40:58+0000
+/project/paste/, Paste, 3.5.0, Tools for using a Web Server Gateway Interface stack, 2020-10-12T12:48:32+0000
+/project/instant-api/, instant-api, 0.2.0, Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods!, 2020-07-02T11:56:11+0000
+/project/sharkradar/, sharkradar, 1.2.0, Lightweight micro service registry and discovery tool, compatible with any HTTP based microservice, 2019-08-25T13:56:50+0000
+/project/razorbird/, razorbird, 0.2.1, A WSGI server based on Rust Hyper, 2020-07-11T22:02:09+0000
+/project/gaesynkit/, gaesynkit, 1.0.0a2, Google App Engine Datastore/Local Storage Synchronization Framework, 2011-04-12T20:10:17+0000
+/project/cheroot-ccwienk/, cheroot-ccwienk, 6.5.4, Highly-optimized, pure-python HTTP server, 2019-04-25T15:55:44+0000
+/project/nanoasgi/, NanoASGI, 0.0.5, Fast and simple ASGI-framework for small web-applications., 2021-01-02T02:31:47+0000
+/project/bobo/, bobo, 2.4.0, Web application framework for the impatient, 2017-05-17T15:10:12+0000
+/project/serveit/, ServeIt, 0.0.9, Machine learning prediction serving, 2018-08-29T00:37:11+0000
+/project/flowdas-oliver/, flowdas.oliver, 0.4.0, Oliver: A pretty fast WSGI server, 2019-02-25T23:25:01+0000
+/project/pulsar/, pulsar, 2.0.2, Event driven concurrent framework for Python, 2017-12-29T13:11:51+0000
+/project/aiida-optimade/, aiida-optimade, 0.17.0, Expose an AiiDA database according to the [OPTIMADE API specification](https://www.optimade.org)., 2021-03-05T17:21:50+0000
+/project/fake-uwsgi/, fake-uwsgi, 1.1.0, A Python module that attempts to fake out the uwsgi module exposed to uWSGI application. When testing applications outside uWSGI, for example Flask, this module can provide some functionality of the uwsgi module., 2021-01-25T22:29:44+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/bottle-stone/, bottle-stone, 0.1.0, Plugin to use the Stone IDL with Bottle., 2016-11-27T03:39:17+0000
+/project/cheroot/, cheroot, 8.5.2, Highly-optimized, pure-python HTTP server, 2021-01-18T16:04:21+0000
+/project/pyuwsgi/, pyuwsgi, 2.0.19.1.post0, The uWSGI server, 2020-09-23T03:23:37+0000
+/project/gates/, Gates, v1.0.0.beta, Minimal, fast and intuitive REST HTTP services in python, 2012-06-08T23:10:06+0000
+/project/webtest-casperjs/, webtest-casperjs, 0.2, Use casperjs with WebTest, 2015-03-30T13:56:18+0000
+/project/glashammer/, Glashammer, 0.2.1, Full stack web framework, 2009-03-31T11:33:21+0000
+/project/django-rt/, django-rt, 0.3.1, A framework for implementing real-time APIs in Django web applications, 2016-05-29T16:58:11+0000
+/project/meinheld/, meinheld, 1.0.2, High performance asynchronous Python WSGI Web Server, 2020-05-17T13:09:14+0000
+/project/wsgid/, wsgid, 0.9, WSGI Server with SSL, code reloading., 2009-07-14T23:45:48+0000
+/project/ysanic/, ySanic, 0.1.0, ySanic subclass with some addons to sanic, 2018-12-22T02:08:30+0000
+/project/kwsgi/, kwsgi, 0.0.2, Yet another WSGI server implementation., 2018-09-29T16:26:05+0000
+/project/support/, support, 0.0.1, An evented server framework designed for building scalable and introspectable services. Built at PayPal, based on gevent., 2015-03-17T07:56:55+0000
+/project/mod-wsgi-httpd/, mod-wsgi-httpd, 2.4.46.1, Installer for Apache httpd server., 2020-10-31T09:33:55+0000
+/project/watson-cache/, watson-cache, 1.1.0, Caching strategies for the web., 2014-12-26T04:10:07+0000
+/project/shiva/, shiva, 0.10.0, A RESTful API to your music collection, 2015-06-27T10:16:56+0000
+/project/coal-mine/, coal-mine, 0.5.0, Coal Mine - Periodic task execution monitor, 2021-04-14T21:37:26+0000
+/project/apptrace/, apptrace, 0.2.3, WSGI middleware to measure the memory footprint of GAE Python applications., 2011-07-20T23:39:56+0000
+/project/canari/, canari, 3.3.10, Canari Framework - Maltego rapid transform development and execution framework., 2019-02-25T21:38:57+0000
+/project/pasteuwsgi/, pasteuwsgi, 0.1.8, Paster command to use uwsgi as server for local development, 2011-07-15T19:30:56+0000
+/project/asyncore-wsgi/, asyncore-wsgi, 0.0.9, Asynchronous WSGI and WebSocket server based on asyncore module, 2018-12-11T18:40:36+0000
+/project/wsgiserver/, WSGIserver, 1.3, A high-speed, production ready, thread pooled, generic WSGI server with SSL support, 2016-09-29T02:32:40+0000
+/project/ghast/, ghast, 0.1.0, Graylog HTTP Alert Script Triggerer (ghast), 2019-04-01T17:46:04+0000
+/project/zato-client/, zato-client, 3.1.2, Python API client for Zato - ESB, SOA, REST, APIs and Cloud Integrations in Python (https://zato.io), 2020-08-11T18:12:45+0000
+/project/wsgitools/, wsgitools, 0.3.1, a set of tools working with WSGI (see PEP 333), 2020-03-10T15:04:50+0000
+/project/typhoonae/, typhoonae, 0.2.0, Typhoon App Engine., 2010-12-12T22:56:18+0000
+/project/pentacle/, pentacle, 0.4, An O-O P2P RPC protocol and application framework., 2012-01-18T18:51:58+0000
+/project/tincanframework/, TinCanFramework, 0.1.1, Simple code-behind WSGI framework for small web-applications, implemented on top of bottle., 2019-07-15T20:37:17+0000
+/project/zato-common/, zato-common, 3.1.1, Constants and utils common across the whole of Zato ESB and app server (https://zato.io), 2019-02-17T09:48:26+0000
+/project/mongrel2-wsgi/, mongrel2_wsgi, 0.3dev, Mongrel2 handler to WSGI., 2010-12-01T04:41:12+0000
+/project/bottle-dev/, bottle-dev, 0.13.2, Fast and simple WSGI-framework for small web-applications., 2020-10-30T18:54:33+0000
+/project/clastic/, clastic, 20.0.0, A functional Python web framework that streamlines explicit development practices while eliminating global state., 2020-03-08T02:31:13+0000
+/project/blidec-paste/, blidec-paste, 3.2.4, Tools for using a Web Server Gateway Interface stack, 2019-11-25T17:48:41+0000
+/project/flup/, flup, 1.0.3, Random assortment of WSGI servers (py3), 2018-02-07T21:55:35+0000
+/project/grout/, grout, 2.0.1, A flexible schema framework for geospatial data., 2019-01-24T20:00:07+0000
+/project/janitor/, Janitor, 0.1.1, Simple HTTP Server behind the OAuth, 2013-07-15T04:04:34+0000
+/project/gefr/, gefr, 0.3, A suite of WSGI bridges to Java servers., 2011-06-27T13:26:59+0000
+/project/ladon/, ladon, 1.0.7, Serve your python methods to several web service interfaces at once, including JSON-WSP, SOAP and JSON-RPC., 2020-12-02T08:05:46+0000
+/project/cps110bottle/, cps110bottle, 0.13.dev2, A minor modification to the Python bottle framework suitable for student use., 2017-12-22T16:35:03+0000
+/project/watson-validators/, watson-validators, 1.0.6, Validate and verify arbitrary values., 2017-06-08T01:15:25+0000
+/project/dbnomics-api/, DBnomics-API, 22.1.5, DBnomics Web API, 2021-03-03T08:42:54+0000
+/project/kobin/, kobin, 0.1.10, Type Hints friendly WSGI Framework for Python3., 2017-03-19T18:30:18+0000
+/project/cony/, cony, 0.2.0, "Cony" is a tool to write smart bookmarks in python and to share them across all your browsers and with a group of people or the whole world. This project inspired by Facebook's bunny1., 2011-02-02T23:36:36+0000
+/project/bjoern/, bjoern, 3.1.0, A screamingly fast Python 2 + 3 WSGI server written in C., 2019-11-03T09:45:13+0000
+/project/rocket-errbot/, rocket-errbot, 1.2.5, Modern, Multi-threaded, Comet-Friendly WSGI Web Server, 2016-02-26T20:00:21+0000
+/project/flup-py3/, flup-py3, 1.0.3, Random assortment of WSGI servers, 2018-02-08T23:42:56+0000
+/project/watson-cors/, watson-cors, 1.0.0, CORS support for watson-framework., 2017-08-16T01:27:54+0000
+/project/rainbow-saddle/, rainbow-saddle, 0.4.0, A wrapper around gunicorn to handle graceful restarts correctly, 2016-10-05T11:51:19+0000
+/project/woodstove/, woodstove, 0.1.1, A framework for writing HTTP service APIs, 2016-06-10T03:26:11+0000
+/project/rutter/, rutter, 0.3, Py3k-compatible fork of Paste's urlmap, 2020-08-10T20:17:00+0000
+/project/flipflop/, flipflop, 1.0, FastCGI wrapper for WSGI applications, 2014-02-20T23:20:52+0000
+/project/wasmite/, wasmite, 0.2.1, Wasmite: Webassembly is the future but now it has a testing toolchain, 2021-02-21T14:14:01+0000
+/project/tgbot/, tgbot, 0.31, Framework to build a Telegram Bot based on a UWSGI Server, 2016-01-25T17:00:47+0000
+/project/reloadwsgi/, ReloadWSGI, 0.3, Robust WSGI auto-reloading for development., 2010-11-18T04:21:48+0000
+/project/poorhttp/, PoorHTTP, 1.0.0, Http/WSGI server for Python, 2019-09-06T07:29:10+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/httoop/, httoop, 0.0, object oriented HTTP protocol library, 2020-11-03T13:42:33+0000
+/project/gunicorn-pipe/, gunicorn-pipe, 19.10.1, Gunicorn with concurrent support for HTTP Pipeline requests, 2021-01-08T07:17:35+0000

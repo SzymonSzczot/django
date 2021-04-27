@@ -1,0 +1,542 @@
+/project/stanfordkarel/, stanfordkarel, 0.2.5, Official Stanford Karel library used in CS 106A, 2021-04-17T18:17:22+0000
+/project/milc/, milc, 1.3.0, Opinionated Batteries-Included Python 3 CLI Framework., 2021-03-28T16:42:19+0000
+/project/graphene-elastic/, graphene-elastic, 0.7, Graphene Elasticsearch (DSL) integration, 2021-03-08T23:52:43+0000
+/project/blankly/, Blankly, 0.1.9a0, Cryptocurrency bot development platform, 2021-04-18T14:48:50+0000
+/project/fx-bin/, fx-bin, 0.4.0, A common bin collection for my own usage, 2021-04-02T15:21:11+0000
+/project/django-sos/, django-sos, 0.0.1.dev2, A Django helper library, 2021-01-17T01:27:10+0000
+/project/tyrannosaurus/, tyrannosaurus, 0.9.7, Generate beautifully modern Python projects with seamless, GitHub-based CI/CD and loads of integrations., 2021-04-04T07:14:08+0000
+/project/pylookup/, PyLookup, 0.1.3, PyLookup - Fuzzy-matching table autofill tool, 2021-03-23T04:35:24+0000
+/project/grid-royale/, grid-royale, 0.2.5, GridRoyale - A life simulation for exploring social dynamics, 2021-02-20T19:34:26+0000
+/project/doomgit/, doomgit, 0.1.0, A CLI tool to download any file or directory from GitHub., 2021-04-18T23:24:31+0000
+/project/pygindex/, pygindex, 0.1.0, PyGIndex - Python library/framework, 2021-04-20T13:26:13+0000
+/project/pymessagelib/, pymessagelib, 0.2.7, Give structure to hexadecimal messages., 2021-03-22T14:18:58+0000
+/project/tutor-discovery/, tutor-discovery, 11.0.2, A Tutor plugin for course discovery, the Open edX service for providing access to consolidated course and program metadata, 2021-02-04T12:08:08+0000
+/project/telepotpro/, telepotpro, 13.1, Python framework for Telegram Bot API, 2021-03-09T15:29:49+0000
+/project/about-time/, about-time, 3.1.1, Easily measure timing and throughput of code blocks, with beautiful human friendly representations., 2021-01-10T20:00:50+0000
+/project/awesomeversion/, awesomeversion, 21.4.0, One version package to rule them all, One version package to find them, One version package to bring them all, and in the darkness bind them., 2021-04-04T15:46:16+0000
+/project/tutor-license/, tutor-license, 11.0.0, Tutor license management plugin, 2020-11-26T15:18:10+0000
+/project/flake8-typing-only-imports/, flake8-typing-only-imports, 0.2.2, A flake8 plugin to flag imports exclusively used for type annotations, 2021-03-15T00:20:48+0000
+/project/torchinfo/, torchinfo, 0.0.9, Model summary in PyTorch, based off of the original torchsummary., 2021-04-10T06:36:29+0000
+/project/py-devtools-builtin/, py-devtools-builtin, 1.0.0, Add devtools.debug() to python builtins, 2021-01-04T20:46:32+0000
+/project/tcolorpy/, tcolorpy, 0.0.9, tcolopy is a Python library to apply true color for terminal text., 2021-03-27T05:14:07+0000
+/project/rak-net/, rak-net, 1.6, Podrum's RakNet library., 2021-04-17T13:27:50+0000
+/project/sphinxcontrib-autoprogram/, sphinxcontrib-autoprogram, 0.1.7, Documenting CLI programs, 2021-02-10T17:16:03+0000
+/project/srtcleaner/, srtcleaner, 1.1.1, Clean up SRT subtitle files removing ads and misplaced credits., 2021-02-26T21:57:52+0000
+/project/chess/, chess, 1.5.0, A chess library with move generation and validation, Polyglot opening book probing, PGN reading and writing, Gaviota tablebase probing, Syzygy tablebase probing, and XBoard/UCI engine communication., 2021-04-07T08:46:13+0000
+/project/toxicblend/, toxicblend, 0.1.0, Generated protobuffer files for toxicblend, 2021-04-24T17:03:32+0000
+/project/pylambdex/, pylambdex, 1.0.0, A library to write multi-line anonymous functions., 2021-03-03T09:20:33+0000
+/project/devicely/, devicely, 0.2.5, Read multiple signals from different sources., 2021-03-24T14:17:46+0000
+/project/asdicts/, asdicts, 1.1.0, Missed utilities for working with Python dictionaries, 2021-01-26T21:51:30+0000
+/project/pvpn/, pvpn, 0.2.5, Python VPN server., 2021-02-16T15:40:44+0000
+/project/smali/, smali, 0.2.5, A library for parsing and unparsing smali files for programatic modification, 2021-03-07T00:28:06+0000
+/project/pdrepr/, pdrepr, 0.1.1, eval-able string representation of pandas objects, 2021-02-14T11:28:44+0000
+/project/ros-type-tokens/, ros-type-tokens, 0.1.0, Type tokens for ROS types, 2021-01-24T15:18:25+0000
+/project/python-ddns/, python-ddns, 3.0.0, A DDNS client that updates providers with host machine's current IP., 2021-02-18T01:40:38+0000
+/project/decision-tree-typed/, decision-tree-typed, 0.1.0, A statically typed python decision tree module, 2021-04-06T04:25:24+0000
+/project/aioprocessing/, aioprocessing, 1.1.0, A Python 3.5+ library that integrates the multiprocessing module with asyncio., 2020-12-07T17:00:39+0000
+/project/compileall2/, compileall2, 0.7.2, Enhanced Python `compileall` module, 2020-12-08T15:59:22+0000
+/project/ssm-dox/, ssm-dox, 0.1.1, CLI tool for building and publishing SSM Documents., 2021-03-10T13:15:02+0000
+/project/brunns-matchers/, brunns-matchers, 2.5.0, Custom PyHamcrest matchers, 2020-11-25T14:09:34+0000
+/project/spacedinvaders/, spacedinvaders, 0.0.5, A textual, terminal spin on an arcade classic, 2020-11-30T13:41:40+0000
+/project/gate-ws/, gate-ws, 0.2.0, Gate.io WebSocket V4 Python SDK, 2021-04-23T09:38:13+0000
+/project/archey4/, archey4, 4.11.0, Archey is a simple system information tool written in Python, 2021-03-21T08:21:44+0000
+/project/dunsync/, dunsync, 0.1.1, Identical to unsync, but supports cpu-bound continuation functions, 2021-04-19T21:28:34+0000
+/project/pycdr/, pycdr, 0.1.5, Python CDR serialization, 2021-03-17T09:24:34+0000
+/project/dinao/, dinao, 1.0.2, A simple database API, 2021-01-16T12:27:11+0000
+/project/pyfs-message/, pyfs-message, 1.0.2, Feishu Message Module for Python., 2021-03-24T16:51:02+0000
+/project/mbtest/, mbtest, 2.7.0, Python wrapper & utils for the Mountebank over the wire test double tool., 2021-02-16T14:11:27+0000
+/project/assignment-autograder/, assignment-autograder, 2.14.3, Automatic assignment grading for instructor use in programming courses, 2021-01-08T23:57:00+0000
+/project/webtest-sanic/, webtest-sanic, 0.3.0, webtest-sanic provides integration of WebTest with sanic applications, 2021-01-22T15:37:25+0000
+/project/source-aggregation/, source-aggregation, 0.2.0, An API wrapper for the Source Aggregation Service., 2021-04-21T12:34:53+0000
+/project/hikari/, hikari, 2.0.0.dev100, A sane Discord API for Python 3 built on asyncio and good intentions, 2021-01-25T11:36:48+0000
+/project/sticknauta/, stickNAUTA, 2.0.0, Simple managing interface for ETECSA Nauta., 2021-04-24T04:52:22+0000
+/project/typingx/, typingx, 0.5.3, Extend typing package functionalities, 2021-03-13T09:21:14+0000
+/project/pyloss/, pyloss, 0.1.0, Loss classes for use on Image-based Machine Learning, 2021-01-09T07:42:14+0000
+/project/lesting-http/, lesting.http, 0.1.0, A comprehensive HTTP client, 2021-01-11T12:28:39+0000
+/project/tutor-notes/, tutor-notes, 11.0.0, A Tutor plugin for student notes, 2020-12-09T23:34:51+0000
+/project/datasciencelab/, DataScienceLab, 0.1.7, Building blocks for common data science work, 2021-03-15T11:47:58+0000
+/project/tatsu/, tatsu, 5.6.1, TatSu takes a grammar in a variation of EBNF as input, and outputs a memoizing PEG/Packrat parser in Python., 2021-03-22T21:16:25+0000
+/project/coconut-develop/, coconut-develop, 1.5.0.post0.dev26, Simple, elegant, Pythonic functional programming., 2021-04-23T22:25:01+0000
+/project/ambient-archiver/, ambient-archiver, 0.1.3, Archive your data from ambientweather.net, 2021-04-25T04:51:14+0000
+/project/aws-kinesis-consumer/, aws-kinesis-consumer, 1.4.0, Consume an AWS Kinesis Data Stream to look over the records from a terminal, 2021-03-23T21:04:40+0000
+/project/srimpy/, srimpy, 0.6.3, Wrapper scripts for Srim analysis and multi-processing, 2021-02-21T22:17:43+0000
+/project/manokit/, manokit, 1.2.1, An easy-to-use, purely native email sender, 2021-04-01T12:51:18+0000
+/project/yitizi/, yitizi, 0.1.1, Input a Chinese character. Output all the variant characters of it., 2021-03-24T09:00:46+0000
+/project/django-datatable-view/, django-datatable-view, 2.1.5, This package is used in conjunction with the jQuery plugin (http://http://datatables.net/), and supports state-saving detection with (http://datatables.net/plug-ins/api).  The package consists of a class-based view, and a small collection of utilities for rendering table data from models., 2021-04-23T20:46:13+0000
+/project/sphobjinv/, sphobjinv, 2.1, Sphinx objects.inv Inspection/Manipulation Tool, 2021-04-14T16:26:04+0000
+/project/tidytwitter/, tidytwitter, 0.1.5, Delete your old tweets and favorites using the Twitter API, 2021-04-25T04:48:04+0000
+/project/wechatpayv3/, wechatpayv3, 1.0.1, 微信支付接口V3版python库(python sdk for wechatpay v3), 2021-04-24T09:17:41+0000
+/project/posmatch/, posmatch, 0.3.0, Positional subpattern matching for custom classes., 2021-03-25T14:12:44+0000
+/project/aiostaticmap/, aiostaticmap, 0.1.0, A small, python-based library for creating map images with lines and markers., 2021-04-21T20:11:47+0000
+/project/pyrogram-aiopg-storage/, pyrogram-aiopg-storage, 0.1, aiopg storage for pyrogram, 2021-04-14T22:38:01+0000
+/project/pythonic/, Pythonic, 1.2, Graphical automation tool, 2021-04-08T06:01:52+0000
+/project/gethash/, gethash, 3.9, A set of command-line tools that can generate or check various hash values, 2021-04-09T14:42:00+0000
+/project/iters-py/, iters.py, 0.10.1, Rich Iterators for Python., 2021-04-18T14:27:28+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/yappi/, yappi, 1.3.2, Yet Another Python Profiler, 2020-11-27T15:28:40+0000
+/project/fraction-literal/, fraction-literal, 0.0.1, Experimental syntax for fraction literals, 2020-10-24T12:00:13+0000
+/project/pokertools/, pokertools, 0.0.3.dev14, A Python package for various poker tools, 2021-03-25T22:55:34+0000
+/project/pvsfunc/, pvsfunc, 3.16.1, PHOENiX's compilation of VapourSynth Script's and Functions, 2021-04-01T21:05:03+0000
+/project/pywikibot/, pywikibot, 6.1.0, Python MediaWiki Bot Framework, 2021-04-17T17:03:43+0000
+/project/pytest-pyramid/, pytest-pyramid, 1.0.0, pytest_pyramid - provides fixtures for testing pyramid applications with pytest test suite, 2021-02-26T16:14:15+0000
+/project/koishi/, koishi, 1.1.4, Python wrapper for the unofficial scraped API of the satori testing system., 2021-04-04T18:47:22+0000
+/project/lawrouge/, lawrouge, 2.0.0, Chinese Text Summary Evaluation Utilities, 2020-12-24T14:53:52+0000
+/project/flake8-name-migrations/, flake8-name-migrations, 0.1.0, Flake8 hook for reminding you to give your Django migrations human readable names, 2021-03-28T13:06:23+0000
+/project/wpapi/, wpapi, 0.0.2, Python WordPress API, 2021-04-06T00:26:30+0000
+/project/git-workflow/, git-workflow, 0.1.5, Utilities for streamlining our git workflow., 2021-04-21T18:28:14+0000
+/project/sqlitecls/, SQLiteCls, 1.0.0, SQLite API wrapped into a class with automatic DB schema initialisation and PRAGMA execution upon connection, 2021-04-21T15:26:42+0000
+/project/blake2signer/, blake2signer, 1.2.0, A library to use Blake2 in keyed hashing mode to sign and verify signed data, 2021-04-24T14:53:36+0000
+/project/tutor-ecommerce/, tutor-ecommerce, 11.0.2, A Tutor plugin for Open edX Ecommerce, 2021-03-17T14:34:14+0000
+/project/coverage/, coverage, 5.5, Code coverage measurement for Python, 2021-02-28T20:12:09+0000
+/project/tutor-minio/, tutor-minio, 11.0.0, A Tutor plugin for object storage in MinIO, 2020-12-09T23:34:03+0000
+/project/pike-smb2/, pike-smb2, 0.3.12, Pure python SMB client, 2021-04-08T01:33:30+0000
+/project/cert-chain-resolver/, cert-chain-resolver, 1.0.1, Resolve / obtain the certificate intermediates of a x509 cert, 2021-01-03T11:10:37+0000
+/project/autocert/, autocert, 0.0.7, Automatic TLS cert issuance and renewal for Python web apps, 2021-03-28T17:49:35+0000
+/project/cans/, cans, 0.1.3, Robust, composable, functional containers, 2021-04-17T10:41:01+0000
+/project/airslate/, airslate, 0.2.1, Official Python client library for the airSlate API v1, 2021-02-07T22:52:50+0000
+/project/streamtools-ultimate-testing/, streamtools-ultimate-testing, 0.9.0.5, A vastly improved replacement for print(), input() and file handling for broad area of use cases - TESTING RELEASE., 2020-12-15T19:50:37+0000
+/project/tojyutping/, ToJyutping, 0.1.7, 粵語拼音自動標註工具 Cantonese Pronunciation Automatic Labeling Tool, 2020-11-17T07:37:20+0000
+/project/unittest-parallel/, unittest-parallel, 1.0.6, Parallel unit test runner with coverage support, 2021-04-13T19:04:34+0000
+/project/easy-button/, easy-button, 1.0.0, Easily create interactible button objects in PyGame with just a few short lines of code., 2021-01-01T04:45:02+0000
+/project/snakeoil/, snakeoil, 0.9.6, misc common functionality and useful optimizations, 2021-03-26T22:11:01+0000
+/project/sane-out/, sane-out, 0.2.1, A lightweight library for clean console output, 2021-03-23T15:33:24+0000
+/project/perfting-setuptools/, perfting.setuptools, 1.1.2, better setuptools with type hinting support, 2021-04-02T09:06:58+0000
+/project/bulma-py/, bulma.py, 0.8.0, Small Compiler for Bulma and Extensions., 2021-04-18T14:51:03+0000
+/project/ytdlmusic/, ytdlmusic, 1.9.0, ytdlmusic is a command-line program to search and download music files from YouTube without use browser., 2021-04-23T21:15:13+0000
+/project/pytest-discord/, pytest-discord, 0.0.7, A pytest plugin to notify test results to a Discord channel., 2021-03-20T15:43:46+0000
+/project/dj-crt-mgr/, dj-crt-mgr, 0.4.0, Django Certificate Manager, 2021-03-16T19:44:06+0000
+/project/friendly-traceback/, friendly-traceback, 0.2.41, Friendlier tracebacks in any language., 2021-03-06T16:52:37+0000
+/project/scaleapi/, scaleapi, 2.0.4, The official Python client library for Scale AI, the Data Platform for AI, 2021-04-16T15:55:48+0000
+/project/bitarray/, bitarray, 2.0.1, efficient arrays of booleans -- C extension, 2021-04-19T22:42:56+0000
+/project/calls/, calls, 0.0.1, Utilities for callables, 2021-04-06T07:50:22+0000
+/project/zepben-evolve/, zepben.evolve, 0.22.0, Python SDK for interacting with the Evolve platform, 2021-02-12T01:01:27+0000
+/project/rpyc/, rpyc, 5.0.1, Remote Python Call (RPyC), a transparent and symmetric RPC library, 2021-01-11T19:26:24+0000
+/project/pyppmd/, pyppmd, 0.13.0, PPMd compression/decompression library, 2021-04-22T14:01:31+0000
+/project/datagovindia/, datagovindia, 0.3, Python API-wrapper for Government of India’s Open Government Data (OGD) platform - data.gov.in, 2021-04-20T12:51:38+0000
+/project/django-extra-checks/, django-extra-checks, 0.11.0, Collection of useful checks for Django Checks Framework, 2021-04-06T22:55:43+0000
+/project/gameframe/, gameframe, 0.0.4.dev8, A Python package for various game implementations, 2021-03-15T02:38:56+0000
+/project/refitt/, refitt, 0.16.3, The Recommender Engine for Intelligent Transient Tracking., 2021-04-16T20:03:14+0000
+/project/streamtools-ultimate/, streamtools-ultimate, 0.9.0, A vastly improved replacement for print(), input() and file handling for broad area of use cases., 2020-12-12T15:44:30+0000
+/project/flexceptions/, Flexceptions, 0.1.3, Python Flexible Exceptions Library, 2021-01-23T01:30:24+0000
+/project/spiel/, spiel, 0.1.2, A framework for building and presenting richly-styled presentations in your terminal using Python., 2021-04-17T19:52:53+0000
+/project/dj-pkcs7/, dj-pkcs7, 0.11.2, Django PKCS7 parser, 2021-03-21T11:39:44+0000
+/project/cacao-accounting/, cacao-accounting, 0.0.1.dev20210403, Software contable para micro, pequeñas y medianas empresas., 2021-04-03T19:02:10+0000
+/project/exoplanetpy/, ExoplanetPy, 0.1.1, Package for multiple exoplanet system modelling, 2020-10-19T21:21:22+0000
+/project/draftjs-exporter/, draftjs-exporter, 4.1.2, Library to convert rich text from Draft.js raw ContentState to HTML, 2021-03-29T11:32:27+0000
+/project/schema-markdown/, schema-markdown, 0.9.15, Human-friendly schema definition language and schema validator, 2021-04-13T18:58:10+0000
+/project/kiss-headers/, kiss-headers, 2.3.0, Python package for object oriented headers, HTTP/1.1 style. Parser and serializer for http headers., 2021-02-02T22:01:50+0000
+/project/hahaha-utils/, hahaha-utils, 1.0.5, HAHAHA Python3 Utils, 2021-04-22T05:57:21+0000
+/project/sphinx-autodoc-typehints/, sphinx-autodoc-typehints, 1.12.0, Type hints (PEP 484) support for the Sphinx autodoc extension, 2021-04-15T00:21:35+0000
+/project/hotpot-km/, hotpot-km, 0.2.2, Hotpot - Jupyter kernel manager helpers, 2021-03-31T09:06:06+0000
+/project/mllint/, mllint, 0.5.1, Linter for Machine Learning projects, 2021-04-15T19:14:41+0000
+/project/transip-dns/, transip-dns, 1.0.0, TransIP Dns record management script, 2021-02-05T23:38:21+0000
+/project/colabgymrender/, colabgymrender, 1.0.8, A wrapper for rendering OpenAI Gym environments in Google Colab, 2021-02-08T21:15:16+0000
+/project/pypac/, PyPAC, 0.15.0, Proxy auto-config and auto-discovery for Python., 2021-02-28T07:20:03+0000
+/project/pytest-order/, pytest-order, 0.11.0, pytest plugin to run your tests in a specific order, 2021-04-11T11:33:00+0000
+/project/flake8-type-checking/, flake8-type-checking, 1.0.0, A flake8 plugin for managing type-checking imports & forward references, 2021-04-04T14:40:55+0000
+/project/geograph/, geograph, 0.0.1, Group Team Challenge 2021 - Biodiversity Team, 2021-03-25T18:29:47+0000
+/project/nuxeo/, nuxeo, 5.0.0, Nuxeo REST API Python client, 2021-03-04T17:56:10+0000
+/project/ghapi-conversion/, ghapi-conversion, 0.0.7, CLI to replace HTTP GET on GitHub API with clones, 2021-03-16T10:06:16+0000
+/project/perfect-hash/, perfect-hash, 0.4.2, creating perfect minimal hash function, 2021-04-07T17:43:31+0000
+/project/desfiddle/, DESfiddle, 1.0.0, A python package that offers high flexibility for implementing and experimenting with non-classical DES., 2021-04-23T15:37:59+0000
+/project/teedoc/, teedoc, 1.12.5, doc site generator with multiple doc support, 2021-04-22T02:50:04+0000
+/project/repo-helper-rtd/, repo-helper-rtd, 0.1.0, Manage ReadTheDocs documentation with repo-helper., 2020-12-11T09:23:39+0000
+/project/sidekick-properties/, sidekick-properties, 0.1.0, Lazy properties and attributes for sidekick., 2021-04-03T19:53:15+0000
+/project/rgb-to-hex/, rgb-to-hex, 0.0.5, BU KÜTÜPHANE 'TKİNTER' KÜTÜPHANESİNDE 'RGB' RENK KODLARINI KULLANABİLMEK İÇİN YAZILMIŞTIR, 2021-02-21T13:03:04+0000
+/project/okaeri-sdk/, okaeri-sdk, 1.2.4, Okaeri Services SDK, 2021-03-20T07:43:43+0000
+/project/opti/, opti, 1.0.17, A module for easy python, 2021-01-31T00:54:24+0000
+/project/pingparsing/, pingparsing, 1.3.0, pingparsing is a CLI-tool/Python-library parser and transmitter for ping command., 2021-03-27T17:18:53+0000
+/project/libmsf/, libmsf, 0.1.2, Python Metasploit Library, 2021-04-21T15:47:59+0000
+/project/rodi/, rodi, 1.1.1, Implementation of dependency injection for Python 3, 2021-02-23T22:16:58+0000
+/project/brunns-builder/, brunns-builder, 0.6.0, Test object builders., 2020-11-26T10:10:43+0000
+/project/pauseonlock/, pauseonlock, 0.1.0, Pause/Resume your media players on screen locking/unlocking, 2021-03-20T21:39:54+0000
+/project/mdmm/, mdmm, 0.1.3, The Modified Differential Multiplier Method (MDMM) for PyTorch., 2021-02-02T23:28:56+0000
+/project/simplecep/, simplecep, 0.1.1, Fetch CEP addresses consistently using Correios API, third-party APIs as fallbacks and cache the results., 2021-03-29T04:37:30+0000
+/project/smtpc/, smtpc, 0.9.2, , 2021-04-08T13:18:41+0000
+/project/hpl-rv-gen/, hpl-rv-gen, 0.1.2, Runtime monitor generator based on HPL properties, 2021-03-11T10:12:22+0000
+/project/watchdog/, watchdog, 2.0.3, Filesystem events monitoring, 2021-04-22T17:57:30+0000
+/project/gstore/, gstore, 0.4.0, Synchronize GitHub repositories made easy, 2021-02-19T07:53:50+0000
+/project/tutor-xqueue/, tutor-xqueue, 11.0.1, A Tutor plugin for Xqueue (external grading system), 2021-01-07T14:26:39+0000
+/project/sopel-dns/, sopel-dns, 0.3.1, A DNS lookup plugin for Sopel IRC bots, 2021-03-05T07:33:40+0000
+/project/nbt-utils/, nbt-utils, 1.1, Podrum's NBT library., 2021-04-01T21:04:39+0000
+/project/match-ref/, match-ref, 1.0.1, Use top-level variable references in match cases, 2021-04-08T19:28:57+0000
+/project/lesting-thrift/, lesting.thrift, 0.1.0, Lesting Apache Thrift, 2021-01-11T12:34:00+0000
+/project/py-https/, py-https, 0.0.2.1, A simple python https server, 2021-03-14T23:10:26+0000
+/project/minesweeper-toollib/, minesweeper-toollib, 1.0.4, , 2021-04-24T16:08:19+0000
+/project/officeextractor/, officeextractor, 0.1.1, officeextractor extracts media files (images, videos, music) from Microsoft Office and LibreOffice files., 2020-12-01T10:01:19+0000
+/project/hata/, hata, 1.1.69, A powerful asynchronous library for creating Discord bots in Python., 2021-04-24T01:18:33+0000
+/project/gd-graph/, gd.graph, 0.1.1, Plotting Graphs in Geometry Dash., 2021-04-18T15:36:56+0000
+/project/aiohttp-sqlalchemy/, aiohttp-sqlalchemy, 0.1b1, SQLAlchemy >= 1.4 support for aiohttp., 2021-04-20T12:26:13+0000
+/project/olxbrasil/, olxbrasil, 0.2.4, Biblioteca para scrapping da Olx Brasil (olx.com.br), 2021-04-10T20:54:30+0000
+/project/confidential-ml-utils/, confidential-ml-utils, 0.9.0, Utilities for confidential machine learning, 2021-04-09T18:59:09+0000
+/project/pinhop/, pinhop, 0.1.2, Timehop for Pinboard, 2021-04-25T04:40:57+0000
+/project/flake8-prettycount/, flake8-prettycount, 0.1.1, Wrapper around flake8 providing a formatted count at the end., 2020-11-26T11:19:24+0000
+/project/pyinstaller-extractor/, pyinstaller-extractor, 1.0.1, Pyinstaller Extractor, 2020-12-18T03:03:48+0000
+/project/hpl-specs/, hpl-specs, 0.2.1, HAROS Property Specification Language, 2021-02-08T17:44:47+0000
+/project/bitarray-ph4/, bitarray-ph4, 1.9.1, efficient arrays of booleans -- C extension, 2021-04-01T11:53:14+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/math2/, math2, 0.0.2.dev4, A Python package for various math functions, 2021-03-29T03:11:36+0000
+/project/fiscalyear/, fiscalyear, 0.3.1, Utilities for managing the fiscal calendar, 2021-02-07T16:44:24+0000
+/project/formelsammlung/, formelsammlung, 5.0.0, Collection of different functions, 2021-02-06T21:57:16+0000
+/project/sigmage/, sigmage, 0.0.1a1, A Python package for signing images to mark the original creators, 2021-03-07T01:18:11+0000
+/project/pytest-subprocess/, pytest-subprocess, 1.1.0, A plugin to fake subprocess for pytest, 2021-04-18T12:09:03+0000
+/project/random-word/, Random-Word, 1.0.7, This is a simple python package to generate random english words, 2021-02-11T01:19:10+0000
+/project/archfx-cloud/, archfx-cloud, 0.10.2, Python client for https://archfx.io, 2021-04-06T20:08:21+0000
+/project/envcon/, envcon, 0.1.9, envcon: environment variables parsing using type-hints, 2021-04-20T16:48:17+0000
+/project/flake8-match/, flake8-match, 1.0.0, flake8 plugin which forbids match statements (PEP 634), 2021-02-09T22:44:39+0000
+/project/easymunk-physics/, easymunk-physics, 0.9.2, Easymunk is a easy-to-use pythonic 2d physics library, 2021-04-04T15:48:39+0000
+/project/hap-python/, HAP-python, 3.4.1, HomeKit Accessory Protocol implementation in python, 2021-03-28T19:34:58+0000
+/project/datadings/, datadings, 3.1.0, datadings is a collection of tools to prepare datasets for machine learning. It's easy to use, space-efficient, and blazingly fast., 2021-03-15T14:38:32+0000
+/project/fcryptor/, fcryptor, 1.0.6, python package that encrypt/decrypt files by key., 2020-11-09T17:21:33+0000
+/project/blueair/, blueair, 1.0.0, Unofficial Python client for BlueAir air purifiers, 2020-12-21T13:11:15+0000
+/project/datatest/, datatest, 0.11.1, Test driven data-wrangling and data validation., 2021-01-04T03:39:40+0000
+/project/typepy/, typepy, 1.1.5, typepy is a Python library for variable type checker/validator/converter at a run time., 2021-04-11T12:45:06+0000
+/project/typeguard/, typeguard, 2.12.0, Run-time type checker for Python, 2021-04-01T18:09:22+0000
+/project/typed-ast/, typed-ast, 1.4.3, a fork of Python 2 and 3 ast modules with type comment support, 2021-04-11T23:57:00+0000
+/project/ruled-password-generator/, ruled-password-generator, 1.0.1, Password generator with customizable rules., 2021-03-24T07:54:25+0000
+/project/jsonschema2popo2/, JSONSchema2PoPo2, 2.2.3, Converts a JSON Schema to a Plain Old Python Object class, 2021-04-09T22:33:15+0000
+/project/python-postx/, python-postx, 1.0.4, PostX is a package that provides a simple interface for posting messages to multiple platforms., 2021-04-13T16:53:38+0000
+/project/aftership/, aftership, 1.2.1, The python SDK of AfterShip API, 2021-03-26T06:39:14+0000
+/project/decimal-literal/, decimal-literal, 0.0.1, Experimental syntax for decimal literals, 2020-10-24T12:25:47+0000
+/project/configframework/, ConfigFramework, 2.0.8, A small framework to build your flexible project configurations, 2021-04-23T17:32:04+0000
+/project/pgo/, pgo, 0.2.2, Profile guided optimization for Python extensions, 2021-03-21T15:28:45+0000
+/project/unitcalc/, unitcalc, 2.0.1, A Python Library for doing Scientific/Engineering mathematics, 2021-04-24T21:59:14+0000
+/project/ircbuilder/, ircbuilder, 0.0.11, Python API for Minetest server with irc_builder mod, 2021-01-07T20:30:03+0000
+/project/object-explore/, object-explore, 0.1.9, Powerful human readable version of dir()., 2021-03-28T17:11:39+0000
+/project/sql-smith/, sql-smith, 1.0.0, sql-smith is an SQL query builder with zero dependencies and a fluent interface., 2021-04-24T17:14:27+0000
+/project/mailserver-admin/, mailserver-admin, 0.9.0, Webapp to manage mail server domains, users and aliases., 2021-03-26T14:40:47+0000
+/project/elmax/, elmax, 0.1.1, Python client for the Elmax CLoud, 2021-02-28T22:37:02+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/pyminesweeper/, pyminesweeper, 1.0.1, All algorithms of minesweeper, 2021-04-24T14:47:53+0000
+/project/klogpy/, klogpy, 0.1.0, Python implementation of klog format for time tracking, 2021-04-01T13:42:43+0000
+/project/spellwise/, spellwise, 0.8.1, 🚀 Extremely fast spelling checker and suggester in Python!, 2021-04-07T20:26:05+0000
+/project/djangelo/, djangelo, 0.1.4, Tracking and rating Django Model activities with ELO system, 2020-12-22T17:56:14+0000
+/project/krakenexapi/, krakenexapi, 0.0.1, A Kraken Exchange API adapter., 2020-12-27T02:24:32+0000
+/project/auxiliary/, auxiliary, 0.0.2.dev20, A Python package for various helper and utility functions, 2021-04-03T23:30:32+0000
+/project/mwot/, mwot, 0.0.0.dev0, An esolang, 2021-04-16T17:26:20+0000
+/project/yourbase/, yourbase, 4.5.11, Skip tests based on tracing data, 2021-04-23T21:55:07+0000
+/project/mqtt-randompub/, mqtt-randompub, 0.2.2, Tool for generating MQTT messages on various topics, 2021-02-03T11:57:26+0000
+/project/consnet/, consnet, 1.0.5, A general toolkit for human-object interaction detection, 2021-04-19T17:00:38+0000
+/project/drf-openapi-tester/, drf-openapi-tester, 1.3.5, Test utility for validating OpenAPI response documentation, 2021-02-28T12:16:03+0000
+/project/mudpy/, mudpy, 0.3.0, The mudpy MUD server engine., 2020-10-08T23:56:48+0000
+/project/djangelo/, djangelo, 0.1.4, Tracking and rating Django Model activities with ELO system, 2020-12-22T17:56:14+0000
+/project/krakenexapi/, krakenexapi, 0.0.1, A Kraken Exchange API adapter., 2020-12-27T02:24:32+0000
+/project/braces-py/, braces.py, 0.3.0, Braces for Python Programming Language., 2021-04-18T14:21:31+0000
+/project/auxiliary/, auxiliary, 0.0.2.dev20, A Python package for various helper and utility functions, 2021-04-03T23:30:32+0000
+/project/mwot/, mwot, 0.0.0.dev0, An esolang, 2021-04-16T17:26:20+0000
+/project/yourbase/, yourbase, 4.5.11, Skip tests based on tracing data, 2021-04-23T21:55:07+0000
+/project/mqtt-randompub/, mqtt-randompub, 0.2.2, Tool for generating MQTT messages on various topics, 2021-02-03T11:57:26+0000
+/project/fastapi-authz/, fastapi-authz, 0.0.5, An authorization middleware for FastAPI that supports ACL, RBAC, ABAC, based on PyCasbin, 2021-03-03T16:40:02+0000
+/project/sickchill/, sickchill, 2021.4.10, Automatic Video Library Manager for TV Shows, 2021-04-10T08:37:15+0000
+/project/consnet/, consnet, 1.0.5, A general toolkit for human-object interaction detection, 2021-04-19T17:00:38+0000
+/project/drf-openapi-tester/, drf-openapi-tester, 1.3.5, Test utility for validating OpenAPI response documentation, 2021-02-28T12:16:03+0000
+/project/sphinx-autodoc-defaultargs/, sphinx-autodoc-defaultargs, 0.1.1, Automatic generation of default arguments for the Sphinx autodoc extension., 2021-04-01T18:14:16+0000
+/project/pyramid-decoy/, pyramid-decoy, 0.2.0, pyramid_decoy, a simple pyramid app, which solely purpose is to redirect traffic away to configured location, 2021-03-04T17:18:52+0000
+/project/python-parallel-hierarchy/, python-parallel-hierarchy, 0.5.1, A utility for creating a parallel class hierarchy based on a primary set of classes., 2021-04-14T21:22:09+0000
+/project/space-tracer/, space-tracer, 4.4.0, Trade time for space when debugging your code., 2021-04-13T02:02:00+0000
+/project/zsh-history-to-fish/, zsh-history-to-fish, 0.3.0, Bring your ZSH history to Fish shell., 2021-01-25T05:40:09+0000
+/project/cyclonedds/, cyclonedds, 0.1.0, Cyclone DDS Python binding, 2021-03-05T12:57:44+0000
+/project/tutor-openedx/, tutor-openedx, 11.2.6, The docker-based Open edX distribution designed for peace of mind, 2021-04-09T08:53:20+0000
+/project/bsdiff4/, bsdiff4, 1.2.1, binary diff and patch using the BSDIFF4-format, 2021-04-11T05:45:02+0000
+/project/turtex/, turtex, 0.0.2, Extension to turtle module., 2021-04-05T16:07:24+0000
+/project/transformer-discord-notifier/, transformer-discord-notifier, 0.5.1, A Discord Notifier to send progress updates, params and results to a Discord channel., 2021-02-04T18:12:09+0000
+/project/mathfunctions/, MathFunctions, 0.4, Programmatically Create and Manipulate Mathematical Functions, 2021-03-23T16:02:38+0000
+/project/expliot/, expliot, 0.9.7, Expliot - IoT security testing and exploitation framework, 2021-03-26T21:29:48+0000
+/project/vowing/, vowing, 0.3.5, 'Vowing' is an alternative to Python's built in async/await system that has been inspired by Javascript's Promise., 2021-03-30T13:10:12+0000
+/project/semaphore-win-ctypes/, semaphore-win-ctypes, 0.1.2, A ctypes wrapper for Windows Semaphore Objects, 2021-03-14T18:41:07+0000
+/project/lesting-api/, lesting.api, 0.0.1, Lesting API discovery, 2021-01-10T06:32:28+0000
+/project/mongo-schema/, mongo-schema, 1.0.0.post0, Schema validator for MongoDB's JSON Schema variant, 2021-04-20T15:24:30+0000
+/project/logics/, logics, 1.0.1, Logics is a Python framework for mathematical logic, 2021-03-27T17:21:17+0000
+/project/python-sanity-html/, python-sanity-html, 0.0.4, HTML renderer for Sanity's Portable Text format, 2021-04-19T10:33:23+0000
+/project/configframework/, ConfigFramework, 2.0.8, A small framework to build your flexible project configurations, 2021-04-23T17:32:04+0000
+/project/pgo/, pgo, 0.2.2, Profile guided optimization for Python extensions, 2021-03-21T15:28:45+0000
+/project/unitcalc/, unitcalc, 2.0.1, A Python Library for doing Scientific/Engineering mathematics, 2021-04-24T21:59:14+0000
+/project/ircbuilder/, ircbuilder, 0.0.11, Python API for Minetest server with irc_builder mod, 2021-01-07T20:30:03+0000
+/project/object-explore/, object-explore, 0.1.9, Powerful human readable version of dir()., 2021-03-28T17:11:39+0000
+/project/sql-smith/, sql-smith, 1.0.0, sql-smith is an SQL query builder with zero dependencies and a fluent interface., 2021-04-24T17:14:27+0000
+/project/mailserver-admin/, mailserver-admin, 0.9.0, Webapp to manage mail server domains, users and aliases., 2021-03-26T14:40:47+0000
+/project/elmax/, elmax, 0.1.1, Python client for the Elmax CLoud, 2021-02-28T22:37:02+0000
+/project/unalix/, Unalix, 0.6, Small, dependency-free, fast Python package for removing tracking fields from URLs., 2021-04-13T17:57:37+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/envcon/, envcon, 0.1.9, envcon: environment variables parsing using type-hints, 2021-04-20T16:48:17+0000
+/project/flake8-match/, flake8-match, 1.0.0, flake8 plugin which forbids match statements (PEP 634), 2021-02-09T22:44:39+0000
+/project/easymunk-physics/, easymunk-physics, 0.9.2, Easymunk is a easy-to-use pythonic 2d physics library, 2021-04-04T15:48:39+0000
+/project/tensorbay/, tensorbay, 1.2.2, Graviti TensorBay Python SDK, 2021-04-25T06:40:43+0000
+/project/curlylint/, curlylint, 0.13.0, {{ 🎀}} Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid, 2021-04-25T08:12:50+0000
+/project/ffmpegio/, ffmpegio, 0.0.7, Read/write media files with FFmpeg, 2021-04-22T14:02:05+0000
+/project/emcpy/, emcpy, 0.1.4, A python package to get information on the minecraft server EarthMC, 2021-04-25T14:38:55+0000
+/project/spoof/, spoof, 1.5.1, HTTP server for testing environments, 2021-04-10T23:49:58+0000
+/project/chemicals/, chemicals, 1.0.5, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-25T17:42:59+0000
+/project/pygitscrum/, pygitscrum, 0.4.3, pygitscrum, 2021-04-25T18:57:45+0000
+/project/clippercard/, clippercard, 202104.25.2, Unofficial Python API for Clipper Card (transportation pass used in the SF Bay Area), 2021-04-25T20:08:36+0000
+/project/stanfordkarel/, stanfordkarel, 0.2.5, Official Stanford Karel library used in CS 106A, 2021-04-17T18:17:22+0000
+/project/milc/, milc, 1.3.0, Opinionated Batteries-Included Python 3 CLI Framework., 2021-03-28T16:42:19+0000
+/project/graphene-elastic/, graphene-elastic, 0.7, Graphene Elasticsearch (DSL) integration, 2021-03-08T23:52:43+0000
+/project/blankly/, Blankly, 0.1.9a0, Cryptocurrency bot development platform, 2021-04-18T14:48:50+0000
+/project/fx-bin/, fx-bin, 0.4.0, A common bin collection for my own usage, 2021-04-02T15:21:11+0000
+/project/django-sos/, django-sos, 0.0.1.dev2, A Django helper library, 2021-01-17T01:27:10+0000
+/project/tyrannosaurus/, tyrannosaurus, 0.9.7, Generate beautifully modern Python projects with seamless, GitHub-based CI/CD and loads of integrations., 2021-04-04T07:14:08+0000
+/project/pylookup/, PyLookup, 0.1.3, PyLookup - Fuzzy-matching table autofill tool, 2021-03-23T04:35:24+0000
+/project/grid-royale/, grid-royale, 0.2.5, GridRoyale - A life simulation for exploring social dynamics, 2021-02-20T19:34:26+0000
+/project/doomgit/, doomgit, 0.1.0, A CLI tool to download any file or directory from GitHub., 2021-04-18T23:24:31+0000
+/project/pygindex/, pygindex, 0.1.0, PyGIndex - Python library/framework, 2021-04-20T13:26:13+0000
+/project/pymessagelib/, pymessagelib, 0.2.7, Give structure to hexadecimal messages., 2021-03-22T14:18:58+0000
+/project/tutor-discovery/, tutor-discovery, 11.0.2, A Tutor plugin for course discovery, the Open edX service for providing access to consolidated course and program metadata, 2021-02-04T12:08:08+0000
+/project/telepotpro/, telepotpro, 13.1, Python framework for Telegram Bot API, 2021-03-09T15:29:49+0000
+/project/about-time/, about-time, 3.1.1, Easily measure timing and throughput of code blocks, with beautiful human friendly representations., 2021-01-10T20:00:50+0000
+/project/awesomeversion/, awesomeversion, 21.4.0, One version package to rule them all, One version package to find them, One version package to bring them all, and in the darkness bind them., 2021-04-04T15:46:16+0000
+/project/tutor-license/, tutor-license, 11.0.0, Tutor license management plugin, 2020-11-26T15:18:10+0000
+/project/flake8-typing-only-imports/, flake8-typing-only-imports, 0.2.2, A flake8 plugin to flag imports exclusively used for type annotations, 2021-03-15T00:20:48+0000
+/project/torchinfo/, torchinfo, 0.0.9, Model summary in PyTorch, based off of the original torchsummary., 2021-04-10T06:36:29+0000
+/project/py-devtools-builtin/, py-devtools-builtin, 1.0.0, Add devtools.debug() to python builtins, 2021-01-04T20:46:32+0000
+/project/tcolorpy/, tcolorpy, 0.0.9, tcolopy is a Python library to apply true color for terminal text., 2021-03-27T05:14:07+0000
+/project/rak-net/, rak-net, 1.6, Podrum's RakNet library., 2021-04-17T13:27:50+0000
+/project/sphinxcontrib-autoprogram/, sphinxcontrib-autoprogram, 0.1.7, Documenting CLI programs, 2021-02-10T17:16:03+0000
+/project/srtcleaner/, srtcleaner, 1.1.1, Clean up SRT subtitle files removing ads and misplaced credits., 2021-02-26T21:57:52+0000
+/project/chess/, chess, 1.5.0, A chess library with move generation and validation, Polyglot opening book probing, PGN reading and writing, Gaviota tablebase probing, Syzygy tablebase probing, and XBoard/UCI engine communication., 2021-04-07T08:46:13+0000
+/project/toxicblend/, toxicblend, 0.1.0, Generated protobuffer files for toxicblend, 2021-04-24T17:03:32+0000
+/project/pylambdex/, pylambdex, 1.0.0, A library to write multi-line anonymous functions., 2021-03-03T09:20:33+0000
+/project/devicely/, devicely, 0.2.5, Read multiple signals from different sources., 2021-03-24T14:17:46+0000
+/project/asdicts/, asdicts, 1.1.0, Missed utilities for working with Python dictionaries, 2021-01-26T21:51:30+0000
+/project/pvpn/, pvpn, 0.2.5, Python VPN server., 2021-02-16T15:40:44+0000
+/project/smali/, smali, 0.2.5, A library for parsing and unparsing smali files for programatic modification, 2021-03-07T00:28:06+0000
+/project/pdrepr/, pdrepr, 0.1.1, eval-able string representation of pandas objects, 2021-02-14T11:28:44+0000
+/project/ros-type-tokens/, ros-type-tokens, 0.1.0, Type tokens for ROS types, 2021-01-24T15:18:25+0000
+/project/python-ddns/, python-ddns, 3.0.0, A DDNS client that updates providers with host machine's current IP., 2021-02-18T01:40:38+0000
+/project/decision-tree-typed/, decision-tree-typed, 0.1.0, A statically typed python decision tree module, 2021-04-06T04:25:24+0000
+/project/aioprocessing/, aioprocessing, 1.1.0, A Python 3.5+ library that integrates the multiprocessing module with asyncio., 2020-12-07T17:00:39+0000
+/project/compileall2/, compileall2, 0.7.2, Enhanced Python `compileall` module, 2020-12-08T15:59:22+0000
+/project/ssm-dox/, ssm-dox, 0.1.1, CLI tool for building and publishing SSM Documents., 2021-03-10T13:15:02+0000
+/project/brunns-matchers/, brunns-matchers, 2.5.0, Custom PyHamcrest matchers, 2020-11-25T14:09:34+0000
+/project/spacedinvaders/, spacedinvaders, 0.0.5, A textual, terminal spin on an arcade classic, 2020-11-30T13:41:40+0000
+/project/gate-ws/, gate-ws, 0.2.0, Gate.io WebSocket V4 Python SDK, 2021-04-23T09:38:13+0000
+/project/archey4/, archey4, 4.11.0, Archey is a simple system information tool written in Python, 2021-03-21T08:21:44+0000
+/project/dunsync/, dunsync, 0.1.1, Identical to unsync, but supports cpu-bound continuation functions, 2021-04-19T21:28:34+0000
+/project/pycdr/, pycdr, 0.1.5, Python CDR serialization, 2021-03-17T09:24:34+0000
+/project/dinao/, dinao, 1.0.2, A simple database API, 2021-01-16T12:27:11+0000
+/project/pyfs-message/, pyfs-message, 1.0.2, Feishu Message Module for Python., 2021-03-24T16:51:02+0000
+/project/mbtest/, mbtest, 2.7.0, Python wrapper & utils for the Mountebank over the wire test double tool., 2021-02-16T14:11:27+0000
+/project/assignment-autograder/, assignment-autograder, 2.14.3, Automatic assignment grading for instructor use in programming courses, 2021-01-08T23:57:00+0000
+/project/webtest-sanic/, webtest-sanic, 0.3.0, webtest-sanic provides integration of WebTest with sanic applications, 2021-01-22T15:37:25+0000
+/project/source-aggregation/, source-aggregation, 0.2.0, An API wrapper for the Source Aggregation Service., 2021-04-21T12:34:53+0000
+/project/hikari/, hikari, 2.0.0.dev100, A sane Discord API for Python 3 built on asyncio and good intentions, 2021-01-25T11:36:48+0000
+/project/sticknauta/, stickNAUTA, 2.0.0, Simple managing interface for ETECSA Nauta., 2021-04-24T04:52:22+0000
+/project/typingx/, typingx, 0.5.3, Extend typing package functionalities, 2021-03-13T09:21:14+0000
+/project/pyloss/, pyloss, 0.1.0, Loss classes for use on Image-based Machine Learning, 2021-01-09T07:42:14+0000
+/project/lesting-http/, lesting.http, 0.1.0, A comprehensive HTTP client, 2021-01-11T12:28:39+0000
+/project/tutor-notes/, tutor-notes, 11.0.0, A Tutor plugin for student notes, 2020-12-09T23:34:51+0000
+/project/datasciencelab/, DataScienceLab, 0.1.7, Building blocks for common data science work, 2021-03-15T11:47:58+0000
+/project/tatsu/, tatsu, 5.6.1, TatSu takes a grammar in a variation of EBNF as input, and outputs a memoizing PEG/Packrat parser in Python., 2021-03-22T21:16:25+0000
+/project/coconut-develop/, coconut-develop, 1.5.0.post0.dev26, Simple, elegant, Pythonic functional programming., 2021-04-23T22:25:01+0000
+/project/ambient-archiver/, ambient-archiver, 0.1.3, Archive your data from ambientweather.net, 2021-04-25T04:51:14+0000
+/project/aws-kinesis-consumer/, aws-kinesis-consumer, 1.4.0, Consume an AWS Kinesis Data Stream to look over the records from a terminal, 2021-03-23T21:04:40+0000
+/project/srimpy/, srimpy, 0.6.3, Wrapper scripts for Srim analysis and multi-processing, 2021-02-21T22:17:43+0000
+/project/manokit/, manokit, 1.2.1, An easy-to-use, purely native email sender, 2021-04-01T12:51:18+0000
+/project/yitizi/, yitizi, 0.1.1, Input a Chinese character. Output all the variant characters of it., 2021-03-24T09:00:46+0000
+/project/django-datatable-view/, django-datatable-view, 2.1.5, This package is used in conjunction with the jQuery plugin (http://http://datatables.net/), and supports state-saving detection with (http://datatables.net/plug-ins/api).  The package consists of a class-based view, and a small collection of utilities for rendering table data from models., 2021-04-23T20:46:13+0000
+/project/sphobjinv/, sphobjinv, 2.1, Sphinx objects.inv Inspection/Manipulation Tool, 2021-04-14T16:26:04+0000
+/project/tidytwitter/, tidytwitter, 0.1.5, Delete your old tweets and favorites using the Twitter API, 2021-04-25T04:48:04+0000
+/project/wechatpayv3/, wechatpayv3, 1.0.1, 微信支付接口V3版python库(python sdk for wechatpay v3), 2021-04-24T09:17:41+0000
+/project/posmatch/, posmatch, 0.3.0, Positional subpattern matching for custom classes., 2021-03-25T14:12:44+0000
+/project/aiostaticmap/, aiostaticmap, 0.1.0, A small, python-based library for creating map images with lines and markers., 2021-04-21T20:11:47+0000
+/project/pyrogram-aiopg-storage/, pyrogram-aiopg-storage, 0.1, aiopg storage for pyrogram, 2021-04-14T22:38:01+0000
+/project/pythonic/, Pythonic, 1.2, Graphical automation tool, 2021-04-08T06:01:52+0000
+/project/gethash/, gethash, 3.9, A set of command-line tools that can generate or check various hash values, 2021-04-09T14:42:00+0000
+/project/iters-py/, iters.py, 0.10.1, Rich Iterators for Python., 2021-04-18T14:27:28+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/yappi/, yappi, 1.3.2, Yet Another Python Profiler, 2020-11-27T15:28:40+0000
+/project/fraction-literal/, fraction-literal, 0.0.1, Experimental syntax for fraction literals, 2020-10-24T12:00:13+0000
+/project/pokertools/, pokertools, 0.0.3.dev14, A Python package for various poker tools, 2021-03-25T22:55:34+0000
+/project/pvsfunc/, pvsfunc, 3.16.1, PHOENiX's compilation of VapourSynth Script's and Functions, 2021-04-01T21:05:03+0000
+/project/pywikibot/, pywikibot, 6.1.0, Python MediaWiki Bot Framework, 2021-04-17T17:03:43+0000
+/project/pytest-pyramid/, pytest-pyramid, 1.0.0, pytest_pyramid - provides fixtures for testing pyramid applications with pytest test suite, 2021-02-26T16:14:15+0000
+/project/koishi/, koishi, 1.1.4, Python wrapper for the unofficial scraped API of the satori testing system., 2021-04-04T18:47:22+0000
+/project/lawrouge/, lawrouge, 2.0.0, Chinese Text Summary Evaluation Utilities, 2020-12-24T14:53:52+0000
+/project/flake8-name-migrations/, flake8-name-migrations, 0.1.0, Flake8 hook for reminding you to give your Django migrations human readable names, 2021-03-28T13:06:23+0000
+/project/wpapi/, wpapi, 0.0.2, Python WordPress API, 2021-04-06T00:26:30+0000
+/project/git-workflow/, git-workflow, 0.1.5, Utilities for streamlining our git workflow., 2021-04-21T18:28:14+0000
+/project/sqlitecls/, SQLiteCls, 1.0.0, SQLite API wrapped into a class with automatic DB schema initialisation and PRAGMA execution upon connection, 2021-04-21T15:26:42+0000
+/project/blake2signer/, blake2signer, 1.2.0, A library to use Blake2 in keyed hashing mode to sign and verify signed data, 2021-04-24T14:53:36+0000
+/project/tutor-ecommerce/, tutor-ecommerce, 11.0.2, A Tutor plugin for Open edX Ecommerce, 2021-03-17T14:34:14+0000
+/project/coverage/, coverage, 5.5, Code coverage measurement for Python, 2021-02-28T20:12:09+0000
+/project/tutor-minio/, tutor-minio, 11.0.0, A Tutor plugin for object storage in MinIO, 2020-12-09T23:34:03+0000
+/project/pike-smb2/, pike-smb2, 0.3.12, Pure python SMB client, 2021-04-08T01:33:30+0000
+/project/cert-chain-resolver/, cert-chain-resolver, 1.0.1, Resolve / obtain the certificate intermediates of a x509 cert, 2021-01-03T11:10:37+0000
+/project/autocert/, autocert, 0.0.7, Automatic TLS cert issuance and renewal for Python web apps, 2021-03-28T17:49:35+0000
+/project/cans/, cans, 0.1.3, Robust, composable, functional containers, 2021-04-17T10:41:01+0000
+/project/airslate/, airslate, 0.2.1, Official Python client library for the airSlate API v1, 2021-02-07T22:52:50+0000
+/project/streamtools-ultimate-testing/, streamtools-ultimate-testing, 0.9.0.5, A vastly improved replacement for print(), input() and file handling for broad area of use cases - TESTING RELEASE., 2020-12-15T19:50:37+0000
+/project/tojyutping/, ToJyutping, 0.1.7, 粵語拼音自動標註工具 Cantonese Pronunciation Automatic Labeling Tool, 2020-11-17T07:37:20+0000
+/project/unittest-parallel/, unittest-parallel, 1.0.6, Parallel unit test runner with coverage support, 2021-04-13T19:04:34+0000
+/project/easy-button/, easy-button, 1.0.0, Easily create interactible button objects in PyGame with just a few short lines of code., 2021-01-01T04:45:02+0000
+/project/snakeoil/, snakeoil, 0.9.6, misc common functionality and useful optimizations, 2021-03-26T22:11:01+0000
+/project/sane-out/, sane-out, 0.2.1, A lightweight library for clean console output, 2021-03-23T15:33:24+0000
+/project/perfting-setuptools/, perfting.setuptools, 1.1.2, better setuptools with type hinting support, 2021-04-02T09:06:58+0000
+/project/bulma-py/, bulma.py, 0.8.0, Small Compiler for Bulma and Extensions., 2021-04-18T14:51:03+0000
+/project/ytdlmusic/, ytdlmusic, 1.9.0, ytdlmusic is a command-line program to search and download music files from YouTube without use browser., 2021-04-23T21:15:13+0000
+/project/pytest-discord/, pytest-discord, 0.0.7, A pytest plugin to notify test results to a Discord channel., 2021-03-20T15:43:46+0000
+/project/dj-crt-mgr/, dj-crt-mgr, 0.4.0, Django Certificate Manager, 2021-03-16T19:44:06+0000
+/project/friendly-traceback/, friendly-traceback, 0.2.41, Friendlier tracebacks in any language., 2021-03-06T16:52:37+0000
+/project/scaleapi/, scaleapi, 2.0.4, The official Python client library for Scale AI, the Data Platform for AI, 2021-04-16T15:55:48+0000
+/project/bitarray/, bitarray, 2.0.1, efficient arrays of booleans -- C extension, 2021-04-19T22:42:56+0000
+/project/calls/, calls, 0.0.1, Utilities for callables, 2021-04-06T07:50:22+0000
+/project/zepben-evolve/, zepben.evolve, 0.22.0, Python SDK for interacting with the Evolve platform, 2021-02-12T01:01:27+0000
+/project/rpyc/, rpyc, 5.0.1, Remote Python Call (RPyC), a transparent and symmetric RPC library, 2021-01-11T19:26:24+0000
+/project/pyppmd/, pyppmd, 0.13.0, PPMd compression/decompression library, 2021-04-22T14:01:31+0000
+/project/datagovindia/, datagovindia, 0.3, Python API-wrapper for Government of India’s Open Government Data (OGD) platform - data.gov.in, 2021-04-20T12:51:38+0000
+/project/django-extra-checks/, django-extra-checks, 0.11.0, Collection of useful checks for Django Checks Framework, 2021-04-06T22:55:43+0000
+/project/gameframe/, gameframe, 0.0.4.dev8, A Python package for various game implementations, 2021-03-15T02:38:56+0000
+/project/refitt/, refitt, 0.16.3, The Recommender Engine for Intelligent Transient Tracking., 2021-04-16T20:03:14+0000
+/project/streamtools-ultimate/, streamtools-ultimate, 0.9.0, A vastly improved replacement for print(), input() and file handling for broad area of use cases., 2020-12-12T15:44:30+0000
+/project/flexceptions/, Flexceptions, 0.1.3, Python Flexible Exceptions Library, 2021-01-23T01:30:24+0000
+/project/spiel/, spiel, 0.1.2, A framework for building and presenting richly-styled presentations in your terminal using Python., 2021-04-17T19:52:53+0000
+/project/dj-pkcs7/, dj-pkcs7, 0.11.2, Django PKCS7 parser, 2021-03-21T11:39:44+0000
+/project/cacao-accounting/, cacao-accounting, 0.0.1.dev20210403, Software contable para micro, pequeñas y medianas empresas., 2021-04-03T19:02:10+0000
+/project/exoplanetpy/, ExoplanetPy, 0.1.1, Package for multiple exoplanet system modelling, 2020-10-19T21:21:22+0000
+/project/draftjs-exporter/, draftjs-exporter, 4.1.2, Library to convert rich text from Draft.js raw ContentState to HTML, 2021-03-29T11:32:27+0000
+/project/schema-markdown/, schema-markdown, 0.9.15, Human-friendly schema definition language and schema validator, 2021-04-13T18:58:10+0000
+/project/kiss-headers/, kiss-headers, 2.3.0, Python package for object oriented headers, HTTP/1.1 style. Parser and serializer for http headers., 2021-02-02T22:01:50+0000
+/project/hahaha-utils/, hahaha-utils, 1.0.5, HAHAHA Python3 Utils, 2021-04-22T05:57:21+0000
+/project/sphinx-autodoc-typehints/, sphinx-autodoc-typehints, 1.12.0, Type hints (PEP 484) support for the Sphinx autodoc extension, 2021-04-15T00:21:35+0000
+/project/hotpot-km/, hotpot-km, 0.2.2, Hotpot - Jupyter kernel manager helpers, 2021-03-31T09:06:06+0000
+/project/mllint/, mllint, 0.5.1, Linter for Machine Learning projects, 2021-04-15T19:14:41+0000
+/project/transip-dns/, transip-dns, 1.0.0, TransIP Dns record management script, 2021-02-05T23:38:21+0000
+/project/colabgymrender/, colabgymrender, 1.0.8, A wrapper for rendering OpenAI Gym environments in Google Colab, 2021-02-08T21:15:16+0000
+/project/pypac/, PyPAC, 0.15.0, Proxy auto-config and auto-discovery for Python., 2021-02-28T07:20:03+0000
+/project/pytest-order/, pytest-order, 0.11.0, pytest plugin to run your tests in a specific order, 2021-04-11T11:33:00+0000
+/project/flake8-type-checking/, flake8-type-checking, 1.0.0, A flake8 plugin for managing type-checking imports & forward references, 2021-04-04T14:40:55+0000
+/project/geograph/, geograph, 0.0.1, Group Team Challenge 2021 - Biodiversity Team, 2021-03-25T18:29:47+0000
+/project/nuxeo/, nuxeo, 5.0.0, Nuxeo REST API Python client, 2021-03-04T17:56:10+0000
+/project/ghapi-conversion/, ghapi-conversion, 0.0.7, CLI to replace HTTP GET on GitHub API with clones, 2021-03-16T10:06:16+0000
+/project/perfect-hash/, perfect-hash, 0.4.2, creating perfect minimal hash function, 2021-04-07T17:43:31+0000
+/project/desfiddle/, DESfiddle, 1.0.0, A python package that offers high flexibility for implementing and experimenting with non-classical DES., 2021-04-23T15:37:59+0000
+/project/teedoc/, teedoc, 1.12.5, doc site generator with multiple doc support, 2021-04-22T02:50:04+0000
+/project/repo-helper-rtd/, repo-helper-rtd, 0.1.0, Manage ReadTheDocs documentation with repo-helper., 2020-12-11T09:23:39+0000
+/project/sidekick-properties/, sidekick-properties, 0.1.0, Lazy properties and attributes for sidekick., 2021-04-03T19:53:15+0000
+/project/rgb-to-hex/, rgb-to-hex, 0.0.5, BU KÜTÜPHANE 'TKİNTER' KÜTÜPHANESİNDE 'RGB' RENK KODLARINI KULLANABİLMEK İÇİN YAZILMIŞTIR, 2021-02-21T13:03:04+0000
+/project/okaeri-sdk/, okaeri-sdk, 1.2.4, Okaeri Services SDK, 2021-03-20T07:43:43+0000
+/project/opti/, opti, 1.0.17, A module for easy python, 2021-01-31T00:54:24+0000
+/project/pingparsing/, pingparsing, 1.3.0, pingparsing is a CLI-tool/Python-library parser and transmitter for ping command., 2021-03-27T17:18:53+0000
+/project/libmsf/, libmsf, 0.1.2, Python Metasploit Library, 2021-04-21T15:47:59+0000
+/project/rodi/, rodi, 1.1.1, Implementation of dependency injection for Python 3, 2021-02-23T22:16:58+0000
+/project/brunns-builder/, brunns-builder, 0.6.0, Test object builders., 2020-11-26T10:10:43+0000
+/project/pauseonlock/, pauseonlock, 0.1.0, Pause/Resume your media players on screen locking/unlocking, 2021-03-20T21:39:54+0000
+/project/mdmm/, mdmm, 0.1.3, The Modified Differential Multiplier Method (MDMM) for PyTorch., 2021-02-02T23:28:56+0000
+/project/simplecep/, simplecep, 0.1.1, Fetch CEP addresses consistently using Correios API, third-party APIs as fallbacks and cache the results., 2021-03-29T04:37:30+0000
+/project/smtpc/, smtpc, 0.9.2, , 2021-04-08T13:18:41+0000
+/project/hpl-rv-gen/, hpl-rv-gen, 0.1.2, Runtime monitor generator based on HPL properties, 2021-03-11T10:12:22+0000
+/project/watchdog/, watchdog, 2.0.3, Filesystem events monitoring, 2021-04-22T17:57:30+0000
+/project/gstore/, gstore, 0.4.0, Synchronize GitHub repositories made easy, 2021-02-19T07:53:50+0000
+/project/tutor-xqueue/, tutor-xqueue, 11.0.1, A Tutor plugin for Xqueue (external grading system), 2021-01-07T14:26:39+0000
+/project/sopel-dns/, sopel-dns, 0.3.1, A DNS lookup plugin for Sopel IRC bots, 2021-03-05T07:33:40+0000
+/project/nbt-utils/, nbt-utils, 1.1, Podrum's NBT library., 2021-04-01T21:04:39+0000
+/project/match-ref/, match-ref, 1.0.1, Use top-level variable references in match cases, 2021-04-08T19:28:57+0000
+/project/lesting-thrift/, lesting.thrift, 0.1.0, Lesting Apache Thrift, 2021-01-11T12:34:00+0000
+/project/py-https/, py-https, 0.0.2.1, A simple python https server, 2021-03-14T23:10:26+0000
+/project/minesweeper-toollib/, minesweeper-toollib, 1.0.4, , 2021-04-24T16:08:19+0000
+/project/officeextractor/, officeextractor, 0.1.1, officeextractor extracts media files (images, videos, music) from Microsoft Office and LibreOffice files., 2020-12-01T10:01:19+0000
+/project/hata/, hata, 1.1.69, A powerful asynchronous library for creating Discord bots in Python., 2021-04-24T01:18:33+0000
+/project/gd-graph/, gd.graph, 0.1.1, Plotting Graphs in Geometry Dash., 2021-04-18T15:36:56+0000
+/project/aiohttp-sqlalchemy/, aiohttp-sqlalchemy, 0.1b1, SQLAlchemy >= 1.4 support for aiohttp., 2021-04-20T12:26:13+0000
+/project/olxbrasil/, olxbrasil, 0.2.4, Biblioteca para scrapping da Olx Brasil (olx.com.br), 2021-04-10T20:54:30+0000
+/project/confidential-ml-utils/, confidential-ml-utils, 0.9.0, Utilities for confidential machine learning, 2021-04-09T18:59:09+0000
+/project/pinhop/, pinhop, 0.1.2, Timehop for Pinboard, 2021-04-25T04:40:57+0000
+/project/flake8-prettycount/, flake8-prettycount, 0.1.1, Wrapper around flake8 providing a formatted count at the end., 2020-11-26T11:19:24+0000
+/project/pyinstaller-extractor/, pyinstaller-extractor, 1.0.1, Pyinstaller Extractor, 2020-12-18T03:03:48+0000
+/project/hpl-specs/, hpl-specs, 0.2.1, HAROS Property Specification Language, 2021-02-08T17:44:47+0000
+/project/bitarray-ph4/, bitarray-ph4, 1.9.1, efficient arrays of booleans -- C extension, 2021-04-01T11:53:14+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/math2/, math2, 0.0.2.dev4, A Python package for various math functions, 2021-03-29T03:11:36+0000
+/project/fiscalyear/, fiscalyear, 0.3.1, Utilities for managing the fiscal calendar, 2021-02-07T16:44:24+0000
+/project/formelsammlung/, formelsammlung, 5.0.0, Collection of different functions, 2021-02-06T21:57:16+0000
+/project/friendly/, friendly, 0.3.43, Friendlier tracebacks in any language., 2021-04-11T11:03:23+0000
+/project/charset-normalizer/, charset-normalizer, 1.3.6, The Real First Universal Charset Detector. No Cpp Bindings, Using Voodoo and Magical Artifacts., 2021-02-09T00:05:14+0000
+/project/template-specialize/, template-specialize, 0.9.4, Recursive template file specializer., 2021-04-13T19:02:06+0000
+/project/pydoodle/, pydoodle, 1.0.2, An API wrapper of Jdoodle.com, 2021-04-06T10:01:14+0000
+/project/pywechatpay/, pywechatpay, 0.0.3, Python SDK for WechatPay V3, 2021-04-13T13:46:52+0000
+/project/binary-utils/, binary-utils, 1.3, Podrum's Binary Utilities., 2021-04-10T18:15:02+0000
+/project/mudpy/, mudpy, 0.3.0, The mudpy MUD server engine., 2020-10-08T23:56:48+0000
+/project/hap-python/, HAP-python, 3.4.1, HomeKit Accessory Protocol implementation in python, 2021-03-28T19:34:58+0000
+/project/datadings/, datadings, 3.1.0, datadings is a collection of tools to prepare datasets for machine learning. It's easy to use, space-efficient, and blazingly fast., 2021-03-15T14:38:32+0000
+/project/typed-ast/, typed-ast, 1.4.3, a fork of Python 2 and 3 ast modules with type comment support, 2021-04-11T23:57:00+0000
+/project/chisel/, chisel, 0.9.128, Light-weight WSGI application framework, schema-validated JSON APIs, and API documentation., 2021-04-13T18:53:43+0000
+/project/ddsmt/, ddSMT, 0.0, A delta debugger for SMT-LIBv2 files, 2021-01-05T11:22:16+0000
+/project/pyhaversion/, pyhaversion, 21.3.0, Get the latest Home Assistant version from various sources., 2021-03-29T08:50:23+0000
+/project/minesweeper-toollib/, minesweeper-toollib, 1.0.4, , 2021-04-24T16:08:19+0000
+/project/olxbrasil/, olxbrasil, 0.2.4, Biblioteca para scrapping da Olx Brasil (olx.com.br), 2021-04-10T20:54:30+0000
+/project/flake8-prettycount/, flake8-prettycount, 0.1.1, Wrapper around flake8 providing a formatted count at the end., 2020-11-26T11:19:24+0000
+/project/expliot/, expliot, 0.9.7, Expliot - IoT security testing and exploitation framework, 2021-03-26T21:29:48+0000
+/project/vowing/, vowing, 0.3.5, 'Vowing' is an alternative to Python's built in async/await system that has been inspired by Javascript's Promise., 2021-03-30T13:10:12+0000
+/project/logics/, logics, 1.0.1, Logics is a Python framework for mathematical logic, 2021-03-27T17:21:17+0000
+/project/python-sanity-html/, python-sanity-html, 0.0.4, HTML renderer for Sanity's Portable Text format, 2021-04-19T10:33:23+0000
+/project/rhymetagger/, rhymetagger, 0.2.9, A simple collocation-driven recognition of rhymes, 2021-03-02T18:46:34+0000
+/project/heritrix3/, heritrix3, 0.4.1, A internetarchive/heritrix3 python REST API client., 2021-01-19T16:37:45+0000
+/project/jutest/, jutest, 1.0.0, Library for easy testing CSV data using Jupyter notebook, 2021-04-16T13:01:23+0000
+/project/flake8-annotations/, flake8-annotations, 2.6.2, Flake8 Type Annotation Checks, 2021-04-01T13:38:59+0000
+/project/sqspy/, sqspy, 1.0.0, AWS SQS utility package for producing and consuming messages, 2021-03-27T17:47:18+0000
+/project/pytest-unordered/, pytest-unordered, 0.4.1, Test equality of unordered collections in pytest, 2021-03-28T10:22:41+0000
+/project/chisel/, chisel, 0.9.128, Light-weight WSGI application framework, schema-validated JSON APIs, and API documentation., 2021-04-13T18:53:43+0000
+/project/ddsmt/, ddSMT, 0.0, A delta debugger for SMT-LIBv2 files, 2021-01-05T11:22:16+0000
+/project/pyhaversion/, pyhaversion, 21.3.0, Get the latest Home Assistant version from various sources., 2021-03-29T08:50:23+0000
+/project/thoryvos/, thoryvos, 1.0.4, The All-In One Cryptographic Toolkit, 2021-01-08T12:55:44+0000
+/project/dj-smail/, dj-smail, 0.7.0, Simple S/MIME e-mails with Django, 2021-03-16T19:44:11+0000
+/project/humanmark/, humanmark, 0.4.1, Human-friendly markdown., 2021-03-09T06:04:03+0000
+/project/poetry-date-version-plugin/, poetry-date-version-plugin, 2021.6.4-3, , 2021-04-06T09:31:05+0000
+/project/future-typing/, future-typing, 0.4.0, Backport for type hinting generics in standard collections and union types as X | Y, 2021-03-30T23:31:20+0000
+/project/friendly/, friendly, 0.3.43, Friendlier tracebacks in any language., 2021-04-11T11:03:23+0000
+/project/charset-normalizer/, charset-normalizer, 1.3.6, The Real First Universal Charset Detector. No Cpp Bindings, Using Voodoo and Magical Artifacts., 2021-02-09T00:05:14+0000
+/project/template-specialize/, template-specialize, 0.9.4, Recursive template file specializer., 2021-04-13T19:02:06+0000
+/project/pydoodle/, pydoodle, 1.0.2, An API wrapper of Jdoodle.com, 2021-04-06T10:01:14+0000
+/project/pywechatpay/, pywechatpay, 0.0.3, Python SDK for WechatPay V3, 2021-04-13T13:46:52+0000
+/project/binary-utils/, binary-utils, 1.3, Podrum's Binary Utilities., 2021-04-10T18:15:02+0000
+/project/mudpy/, mudpy, 0.3.0, The mudpy MUD server engine., 2020-10-08T23:56:48+0000
+/project/djangelo/, djangelo, 0.1.4, Tracking and rating Django Model activities with ELO system, 2020-12-22T17:56:14+0000
+/project/krakenexapi/, krakenexapi, 0.0.1, A Kraken Exchange API adapter., 2020-12-27T02:24:32+0000
+/project/braces-py/, braces.py, 0.3.0, Braces for Python Programming Language., 2021-04-18T14:21:31+0000
+/project/auxiliary/, auxiliary, 0.0.2.dev20, A Python package for various helper and utility functions, 2021-04-03T23:30:32+0000
+/project/mwot/, mwot, 0.0.0.dev0, An esolang, 2021-04-16T17:26:20+0000
+/project/yourbase/, yourbase, 4.5.11, Skip tests based on tracing data, 2021-04-23T21:55:07+0000
+/project/mqtt-randompub/, mqtt-randompub, 0.2.2, Tool for generating MQTT messages on various topics, 2021-02-03T11:57:26+0000
+/project/fastapi-authz/, fastapi-authz, 0.0.5, An authorization middleware for FastAPI that supports ACL, RBAC, ABAC, based on PyCasbin, 2021-03-03T16:40:02+0000
+/project/sickchill/, sickchill, 2021.4.10, Automatic Video Library Manager for TV Shows, 2021-04-10T08:37:15+0000
+/project/consnet/, consnet, 1.0.5, A general toolkit for human-object interaction detection, 2021-04-19T17:00:38+0000
+/project/drf-openapi-tester/, drf-openapi-tester, 1.3.5, Test utility for validating OpenAPI response documentation, 2021-02-28T12:16:03+0000
+/project/sphinx-autodoc-defaultargs/, sphinx-autodoc-defaultargs, 0.1.1, Automatic generation of default arguments for the Sphinx autodoc extension., 2021-04-01T18:14:16+0000
+/project/pyramid-decoy/, pyramid-decoy, 0.2.0, pyramid_decoy, a simple pyramid app, which solely purpose is to redirect traffic away to configured location, 2021-03-04T17:18:52+0000
+/project/python-parallel-hierarchy/, python-parallel-hierarchy, 0.5.1, A utility for creating a parallel class hierarchy based on a primary set of classes., 2021-04-14T21:22:09+0000
+/project/space-tracer/, space-tracer, 4.4.0, Trade time for space when debugging your code., 2021-04-13T02:02:00+0000
+/project/zsh-history-to-fish/, zsh-history-to-fish, 0.3.0, Bring your ZSH history to Fish shell., 2021-01-25T05:40:09+0000
+/project/cyclonedds/, cyclonedds, 0.1.0, Cyclone DDS Python binding, 2021-03-05T12:57:44+0000
+/project/tutor-openedx/, tutor-openedx, 11.2.6, The docker-based Open edX distribution designed for peace of mind, 2021-04-09T08:53:20+0000
+/project/bsdiff4/, bsdiff4, 1.2.1, binary diff and patch using the BSDIFF4-format, 2021-04-11T05:45:02+0000
+/project/flake8-annotations/, flake8-annotations, 2.6.2, Flake8 Type Annotation Checks, 2021-04-01T13:38:59+0000
+/project/sqspy/, sqspy, 1.0.0, AWS SQS utility package for producing and consuming messages, 2021-03-27T17:47:18+0000
+/project/pytest-unordered/, pytest-unordered, 0.4.1, Test equality of unordered collections in pytest, 2021-03-28T10:22:41+0000
+/project/officeextractor/, officeextractor, 0.1.1, officeextractor extracts media files (images, videos, music) from Microsoft Office and LibreOffice files., 2020-12-01T10:01:19+0000
+/project/hata/, hata, 1.1.69, A powerful asynchronous library for creating Discord bots in Python., 2021-04-24T01:18:33+0000
+/project/gd-graph/, gd.graph, 0.1.1, Plotting Graphs in Geometry Dash., 2021-04-18T15:36:56+0000
+/project/aiohttp-sqlalchemy/, aiohttp-sqlalchemy, 0.1b1, SQLAlchemy >= 1.4 support for aiohttp., 2021-04-20T12:26:13+0000
+/project/confidential-ml-utils/, confidential-ml-utils, 0.9.0, Utilities for confidential machine learning, 2021-04-09T18:59:09+0000
+/project/pinhop/, pinhop, 0.1.2, Timehop for Pinboard, 2021-04-25T04:40:57+0000
+/project/pyinstaller-extractor/, pyinstaller-extractor, 1.0.1, Pyinstaller Extractor, 2020-12-18T03:03:48+0000
+/project/bitarray-ph4/, bitarray-ph4, 1.9.1, efficient arrays of booleans -- C extension, 2021-04-01T11:53:14+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/math2/, math2, 0.0.2.dev4, A Python package for various math functions, 2021-03-29T03:11:36+0000
+/project/fiscalyear/, fiscalyear, 0.3.1, Utilities for managing the fiscal calendar, 2021-02-07T16:44:24+0000
+/project/formelsammlung/, formelsammlung, 5.0.0, Collection of different functions, 2021-02-06T21:57:16+0000
+/project/sigmage/, sigmage, 0.0.1a1, A Python package for signing images to mark the original creators, 2021-03-07T01:18:11+0000
+/project/pytest-subprocess/, pytest-subprocess, 1.1.0, A plugin to fake subprocess for pytest, 2021-04-18T12:09:03+0000
+/project/random-word/, Random-Word, 1.0.7, This is a simple python package to generate random english words, 2021-02-11T01:19:10+0000
+/project/archfx-cloud/, archfx-cloud, 0.10.2, Python client for https://archfx.io, 2021-04-06T20:08:21+0000
+/project/hpl-specs/, hpl-specs, 0.2.1, HAROS Property Specification Language, 2021-02-08T17:44:47+0000
+/project/pyminesweeper/, pyminesweeper, 1.0.1, All algorithms of minesweeper, 2021-04-24T14:47:53+0000
+/project/klogpy/, klogpy, 0.1.0, Python implementation of klog format for time tracking, 2021-04-01T13:42:43+0000
+/project/spellwise/, spellwise, 0.8.1, 🚀 Extremely fast spelling checker and suggester in Python!, 2021-04-07T20:26:05+0000
+/project/tensorbay/, tensorbay, 1.2.2, Graviti TensorBay Python SDK, 2021-04-25T06:40:43+0000
+/project/curlylint/, curlylint, 0.13.0, {{ 🎀}} Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid, 2021-04-25T08:12:50+0000
+/project/ffmpegio/, ffmpegio, 0.0.7, Read/write media files with FFmpeg, 2021-04-22T14:02:05+0000
+/project/emcpy/, emcpy, 0.1.4, A python package to get information on the minecraft server EarthMC, 2021-04-25T14:38:55+0000
+/project/spoof/, spoof, 1.5.1, HTTP server for testing environments, 2021-04-10T23:49:58+0000
+/project/chemicals/, chemicals, 1.0.5, Chemical properties component of Chemical Engineering Design Library (ChEDL), 2021-04-25T17:42:59+0000
+/project/pygitscrum/, pygitscrum, 0.4.3, pygitscrum, 2021-04-25T18:57:45+0000
+/project/clippercard/, clippercard, 202104.25.2, Unofficial Python API for Clipper Card (transportation pass used in the SF Bay Area), 2021-04-25T20:08:36+0000

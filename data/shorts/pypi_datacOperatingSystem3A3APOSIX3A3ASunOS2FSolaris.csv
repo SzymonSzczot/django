@@ -1,0 +1,210 @@
+/project/psi/, PSI, 0.3b3, Python System Information, 2020-04-19T11:40:53+0000
+/project/subprocess32/, subprocess32, 3.5.4, A backport of the subprocess module from Python 3 for use on 2.x., 2019-05-20T22:14:16+0000
+/project/mpi4py/, mpi4py, 3.0.3, Python bindings for MPI, 2019-11-04T13:04:29+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/x84/, x84, 2.0.17, Framework for Telnet and SSH BBS or MUD server development with example default bbs board, 2020-06-17T12:51:31+0000
+/project/setupjavax/, setupjavax, 0.1.38, Support Java extensions for setuptools / distutils., 2019-12-13T13:46:37+0000
+/project/chicken-turtle-project/, chicken_turtle_project, 2.3.0, Python 3 project development tools, 2016-10-08T00:20:58+0000
+/project/yospacecds/, yospaceCDS, 1.1.0, Yospace CDS Webservice Client, 2012-07-20T12:26:15+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/viz-alchemy/, viz-alchemy, 0.0.1, Visualize database relationship for SQLAlchemy, 2020-12-07T16:02:39+0000
+/project/syskit/, syskit, 0.2.1, System information for pedants, 2020-04-19T11:34:02+0000
+/project/pysys/, PySys, 1.6.1, Python System Test Framework, 2020-08-14T17:14:54+0000
+/project/varbio/, varbio, 2.0.0, Bioinformatics utility library, 2017-09-27T09:29:56+0000
+/project/eventfabric/, eventfabric, 0.1.0, Event Fabric API client library, 2013-08-06T11:14:55+0000
+/project/jmaster/, JMaster, 1.0.3, JMaster, contest parser and tester for CodeForces, 2018-01-10T13:02:37+0000
+/project/daxfi/, DAXFi, 1.1, configure different kinds of firewalls in a consistent way., 2007-05-16T18:58:40+0000
+/project/redislite/, redislite, 6.0.674960, Redis built into a python package, 2021-01-26T02:57:03+0000
+/project/pyclone-module/, pyclone-module, 1.53.5, Python interface for rclone, 2020-10-14T20:49:18+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/pysourceinfo/, pysourceinfo, 0.1.32, Utilities for simplified gain of runtime information on source code  and binary locations., 2018-06-14T20:10:16+0000
+/project/pyspectator-tornado/, pyspectator_tornado, 1.1.2, pyspectator_tornado is a web-monitoring tool ported onTornado with pyspectator as a main monitoring module., 2017-04-14T21:52:28+0000
+/project/mod-wsgi/, mod-wsgi, 4.7.1, Installer for Apache/mod_wsgi., 2020-02-16T23:05:48+0000
+/project/pyfilesysobjects/, pyfilesysobjects, 0.1.33, Standard conformant utilities for resource paths of file systems and URIs., 2018-06-15T07:45:33+0000
+/project/python-crontab/, python-crontab, 2.5.1, Python Crontab API, 2020-05-17T17:15:41+0000
+/project/pymzml/, pymzml, 2.4.7, high-throughput mzML parsing, 2020-06-15T11:50:19+0000
+/project/subprocess32-ext/, subprocess32-ext, 3.2.8.2, A backport of the subprocess module from Python 3.2/3.3 for use on 2.x., 2017-05-09T14:52:23+0000
+/project/python-libdrizzle/, python-libdrizzle, 0.08.2, Python wrapper of libdrizzle, 2010-03-22T07:04:49+0000
+/project/grafana-alerts/, grafana_alerts, 1.0.0.dev7, Alerting Module to use with Grafana metrics., 2015-07-27T18:35:36+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pilotmapreduce/, PilotMapReduce, 0.1.0, SAGA Pilot-Abstractions based MapReduce Implementation, 2012-11-06T06:48:43+0000
+/project/idem-solaris/, idem-solaris, 4.2, Vertical app merge components for Idem and grains support on Solaris, 2020-09-14T17:25:33+0000
+/project/pyqms/, pyqms, 0.6.2, pyQms - Python module for accurate quantification of mass spectrometry data, 2019-06-03T12:48:00+0000
+/project/posix-ipc/, posix-ipc, 1.0.5, POSIX IPC primitives (semaphores, shared memory and message queues) for Python, 2020-10-11T00:40:52+0000
+/project/caspyr/, caspyr, 1.1.1, Cinchingly awesome scripts of Pythonic rapture, 2019-08-01T23:19:27+0000
+/project/savreaderwriter/, savReaderWriter, 3.4.2, Read and write SPSS files, 2016-04-12T17:55:07+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/manifold/, Manifold, 0.2.0, An SMF service manifest creation tool., 2009-03-24T09:11:04+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/pysendfile/, pysendfile, 2.0.1, A Python interface to sendfile(2), 2014-05-27T11:07:28+0000
+/project/hostlists/, hostlists, 0.10.669819, Python module to generate lists of hosts from various sources that is extensible via plugins., 2020-12-21T19:52:00+0000
+/project/platformids/, platformids, 0.1.39, Enumeration of operating systems and their releases., 2019-12-18T14:04:11+0000
+/project/fmmap/, fmmap, 2.0.0, A fast reimplementation of mmap, 2020-06-03T18:22:51+0000
+/project/uparma/, uparma, 0.4.0, uparma, 2021-04-14T10:01:31+0000
+/project/pyinstallercustom/, PyInstallerCustom, 3.5, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-20T18:01:05+0000
+/project/mod-wsgi-standalone/, mod-wsgi-standalone, 4.7.1, Installer for Apache/mod_wsgi., 2020-02-16T23:05:51+0000
+/project/fdict/, fdict, 0.8.1, Easy out-of-core computing of recursive dict, 2017-08-08T19:01:56+0000
+/project/psutil/, psutil, 5.8.0, Cross-platform lib for process and system monitoring in Python., 2020-12-19T01:19:27+0000
+/project/py-make/, py-make, 0.1.1, Makefile execution powered by pure Python, 2019-01-21T00:18:55+0000
+/project/unimod-mapper/, unimod-mapper, 0.4.2, unimod_mapper, 2021-04-15T09:10:56+0000
+/project/tqdm/, tqdm, 4.60.0, Fast, Extensible Progress Meter, 2021-04-06T01:23:21+0000
+/project/eddie-tool/, EDDIE-Tool, 1.0.0, The EDDIE Tool is a system and network monitoring, security, and performance analysis agent developed entirely in threaded Python. Its key features are portability, extendibility, and powerful configuration., 2009-09-28T14:19:16+0000
+/project/easytextract/, easytextract, 1.1.5, Easy to use text extractor, from PDF, DOC, DOCX and other document types, using the awesome Textract, including if necessary using OCR (via Tesseract)., 2017-11-12T23:21:14+0000
+/project/csg-dicoms-anonymizer/, csg-dicoms-anonymizer, 1.4.2, Robust and easy to use generic dicoms anonymizer with demographics csv spreadsheet anonymization by hashed ids, 2018-02-17T14:44:12+0000
+/project/edison/, edison, 0.0.2, Absurdity as a Service, 2014-02-04T06:19:01+0000
+/project/git-fame/, git-fame, 1.14.1, Pretty-print `git` repository collaborators sorted by contributions, 2021-03-01T22:16:22+0000
+/project/confset/, confset, 0.1.0, A simple script to change or update package configurations, 2020-05-08T21:30:10+0000
+/project/sconsider/, SConsider, 0.3.21, scons build system extension, 2020-12-16T14:07:41+0000
+/project/psutil-extra/, psutil-extra, 0.2.0, Some helper functions to go along with the ones in psutil, 2020-08-03T20:17:49+0000
+/project/pypsutil/, pypsutil, 0.1.0, A partial reimplementation of psutil in pure Python using ctypes., 2020-09-01T02:12:23+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/adapya-adabas/, adapya-adabas, 1.0.4, adapya-adabas - Software AG Adabas Database API for Python, 2019-12-06T19:00:35+0000
+/project/namedtupledefs2/, namedtupledefs2, 0.1.21, Extended 'namedtuple' by default values., 2019-12-13T12:31:13+0000
+/project/chemical-composition/, chemical-composition, 0.1.2, chemical_composition, 2021-03-22T12:15:09+0000
+/project/aifashion-sdk/, aifashion-sdk, 1.2.0, AIFashion® Python SDK, 2019-07-18T07:39:51+0000
+/project/ydcv/, ydcv, 0.7, YouDao Console Version, a simple wrapper for Youdao API, 2019-04-25T11:28:54+0000
+/project/uparma-py/, uparma-py, 0.1.0, uparma, 2021-03-22T11:46:50+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/wiredtiger/, wiredtiger, 10.0.0, high performance, scalable, production quality, NoSQL, Open Source extensible platform for data management, 2021-04-12T04:11:41+0000
+/project/afsutil/, afsutil, 0.8.9, Utilities to setup OpenAFS clients and servers, 2020-08-26T13:08:12+0000
+/project/ursgal/, ursgal, 0.6.8, ursgal, 2020-12-22T21:42:16+0000
+/project/mod-wsgi-httpd/, mod-wsgi-httpd, 2.4.46.1, Installer for Apache httpd server., 2020-10-31T09:33:55+0000
+/project/serviceping/, serviceping, 20.3.174593, A command line utility that provides a ping like interface for checking tcp/ssl ports and services, 2020-03-13T15:24:26+0000
+/project/pygamma/, pygamma, 4.3.4, A Python wrapper for the GAMMA C++ Library., 2021-03-03T17:43:39+0000
+/project/zfslib/, zfslib, 0.9, ZFS Python Library, 2021-01-02T05:04:21+0000
+/project/python3-libdrizzle/, python3-libdrizzle, 0.3.0, Python3 wrapper of libdrizzle, 2009-10-07T19:02:47+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/octadist/, octadist, 3.0.0, OctaDist: A tool for calculating distortion parameters in molecule., 2021-03-08T22:52:18+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/pytil/, pytil, 7.0.0, Python 3 utility library, 2018-01-08T16:56:58+0000
+/project/dlipower/, dlipower, 1.0.176, Control digital loggers web power switch, 2018-06-16T07:34:24+0000
+/project/argopt/, argopt, 0.7.0, doc to argparse driven by docopt, 2021-03-01T16:51:30+0000
+/project/pymmbfuse/, pymmbfuse, 0.7.4, Fuse driver for BBC Microcomputer DFS disk images and MMB disk bundles, 2020-05-11T17:10:58+0000
+/project/sysv-ipc/, sysv-ipc, 1.1.0, System V IPC primitives (semaphores, shared memory and message queues) for Python, 2021-01-17T19:07:39+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/dicksonui/, DicksonUI, 2.4.5, Lightweight And Full Featured Browser Based UI / GUI (Graphical User Interface Library), 2020-10-16T13:10:48+0000
+/project/pyinstaller/, pyinstaller, 4.3, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-17T04:46:48+0000
+/project/prepnet/, prepnet, 0.2.0, Reconstructable preprocessor library, 2020-08-31T11:13:16+0000
+/project/uptime/, uptime, 3.0.1, Cross-platform uptime library, 2013-10-07T14:19:57+0000
+/project/fsquota/, FsQuota, 0.1.0, Interface to file system quotas on UNIX platforms, 2020-04-20T18:23:36+0000
+/project/adapya-era/, adapya-era, 1.0.2, adapya-era - services library of the Event Replicator for Adabas, 2019-12-13T12:18:01+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/namedtupledefs/, namedtupledefs, 0.1.21, Extended 'namedtuple' by default values., 2019-12-13T12:30:09+0000
+/project/unix-cred/, unix-cred, 0.2.1, A library that simplifies reading peer credentials from Unix domain sockets, 2021-01-08T19:10:52+0000
+/project/tldr/, tldr, 1.2.1, command line client for tldr, 2021-04-01T21:56:05+0000
+/project/pyzone/, pyzone, 1.0, Ctypes wrappers to manage Solaris zones in Python., 2011-07-12T11:13:23+0000
+/project/pcp/, pcp, 1.2, Performance Co-Pilot collector, monitor and instrumentation APIs, 2017-05-31T06:54:19+0000
+/project/django-easy-app/, django-easy-app, 0.0.27, Extend django-admin to create apps that are easier to set, 2015-05-01T17:25:28+0000
+/project/pymaestro/, pymaestro, 0.1, Pololu Maestro USB SDK in pure Python, 2017-06-11T15:57:07+0000
+/project/pymodbus3/, pymodbus3, 1.0.0, A fully featured modbus protocol stack in python, 2014-07-18T07:20:27+0000
+/project/xssd/, xssd, 0.9.2, Validating python structures based on XSD Subset rules., 2019-06-12T19:49:45+0000
+/project/pymzml-tapir/, pymzml-tapir, 0.8.0, high-throughput mzML parsing, 2018-06-21T19:24:19+0000
+/project/adapya-entirex/, adapya-entirex, 1.0.1, adapya-entirex - Persistent messaging with webMethods EntireX Broker, 2019-12-12T12:43:48+0000
+/project/chicken-turtle-util/, chicken_turtle_util, 4.1.2, Python 3 utility library, 2017-06-12T14:15:19+0000
+/project/psi/, PSI, 0.3b3, Python System Information, 2020-04-19T11:40:53+0000
+/project/mpi4py/, mpi4py, 3.0.3, Python bindings for MPI, 2019-11-04T13:04:29+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/x84/, x84, 2.0.17, Framework for Telnet and SSH BBS or MUD server development with example default bbs board, 2020-06-17T12:51:31+0000
+/project/setupjavax/, setupjavax, 0.1.38, Support Java extensions for setuptools / distutils., 2019-12-13T13:46:37+0000
+/project/syskit/, syskit, 0.2.1, System information for pedants, 2020-04-19T11:34:02+0000
+/project/jmaster/, JMaster, 1.0.3, JMaster, contest parser and tester for CodeForces, 2018-01-10T13:02:37+0000
+/project/subprocess32/, subprocess32, 3.5.4, A backport of the subprocess module from Python 3 for use on 2.x., 2019-05-20T22:14:16+0000
+/project/viz-alchemy/, viz-alchemy, 0.0.1, Visualize database relationship for SQLAlchemy, 2020-12-07T16:02:39+0000
+/project/pysys/, PySys, 1.6.1, Python System Test Framework, 2020-08-14T17:14:54+0000
+/project/chicken-turtle-project/, chicken_turtle_project, 2.3.0, Python 3 project development tools, 2016-10-08T00:20:58+0000
+/project/yospacecds/, yospaceCDS, 1.1.0, Yospace CDS Webservice Client, 2012-07-20T12:26:15+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/varbio/, varbio, 2.0.0, Bioinformatics utility library, 2017-09-27T09:29:56+0000
+/project/eventfabric/, eventfabric, 0.1.0, Event Fabric API client library, 2013-08-06T11:14:55+0000
+/project/daxfi/, DAXFi, 1.1, configure different kinds of firewalls in a consistent way., 2007-05-16T18:58:40+0000
+/project/redislite/, redislite, 6.0.674960, Redis built into a python package, 2021-01-26T02:57:03+0000
+/project/pyclone-module/, pyclone-module, 1.53.5, Python interface for rclone, 2020-10-14T20:49:18+0000
+/project/platformids/, platformids, 0.1.39, Enumeration of operating systems and their releases., 2019-12-18T14:04:11+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/pysourceinfo/, pysourceinfo, 0.1.32, Utilities for simplified gain of runtime information on source code  and binary locations., 2018-06-14T20:10:16+0000
+/project/pyspectator-tornado/, pyspectator_tornado, 1.1.2, pyspectator_tornado is a web-monitoring tool ported onTornado with pyspectator as a main monitoring module., 2017-04-14T21:52:28+0000
+/project/mod-wsgi/, mod-wsgi, 4.7.1, Installer for Apache/mod_wsgi., 2020-02-16T23:05:48+0000
+/project/pyfilesysobjects/, pyfilesysobjects, 0.1.33, Standard conformant utilities for resource paths of file systems and URIs., 2018-06-15T07:45:33+0000
+/project/fmmap/, fmmap, 2.0.0, A fast reimplementation of mmap, 2020-06-03T18:22:51+0000
+/project/uparma/, uparma, 0.4.0, uparma, 2021-04-14T10:01:31+0000
+/project/pyinstallercustom/, PyInstallerCustom, 3.5, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-20T18:01:05+0000
+/project/mod-wsgi-standalone/, mod-wsgi-standalone, 4.7.1, Installer for Apache/mod_wsgi., 2020-02-16T23:05:51+0000
+/project/fdict/, fdict, 0.8.1, Easy out-of-core computing of recursive dict, 2017-08-08T19:01:56+0000
+/project/python-crontab/, python-crontab, 2.5.1, Python Crontab API, 2020-05-17T17:15:41+0000
+/project/pymzml/, pymzml, 2.4.7, high-throughput mzML parsing, 2020-06-15T11:50:19+0000
+/project/unimod-mapper/, unimod-mapper, 0.4.2, unimod_mapper, 2021-04-15T09:10:56+0000
+/project/pilotmapreduce/, PilotMapReduce, 0.1.0, SAGA Pilot-Abstractions based MapReduce Implementation, 2012-11-06T06:48:43+0000
+/project/idem-solaris/, idem-solaris, 4.2, Vertical app merge components for Idem and grains support on Solaris, 2020-09-14T17:25:33+0000
+/project/pyqms/, pyqms, 0.6.2, pyQms - Python module for accurate quantification of mass spectrometry data, 2019-06-03T12:48:00+0000
+/project/posix-ipc/, posix-ipc, 1.0.5, POSIX IPC primitives (semaphores, shared memory and message queues) for Python, 2020-10-11T00:40:52+0000
+/project/tqdm/, tqdm, 4.60.0, Fast, Extensible Progress Meter, 2021-04-06T01:23:21+0000
+/project/manifold/, Manifold, 0.2.0, An SMF service manifest creation tool., 2009-03-24T09:11:04+0000
+/project/psutil-extra/, psutil-extra, 0.2.0, Some helper functions to go along with the ones in psutil, 2020-08-03T20:17:49+0000
+/project/pypsutil/, pypsutil, 0.1.0, A partial reimplementation of psutil in pure Python using ctypes., 2020-09-01T02:12:23+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/pysendfile/, pysendfile, 2.0.1, A Python interface to sendfile(2), 2014-05-27T11:07:28+0000
+/project/hostlists/, hostlists, 0.10.669819, Python module to generate lists of hosts from various sources that is extensible via plugins., 2020-12-21T19:52:00+0000
+/project/subprocess32-ext/, subprocess32-ext, 3.2.8.2, A backport of the subprocess module from Python 3.2/3.3 for use on 2.x., 2017-05-09T14:52:23+0000
+/project/python-libdrizzle/, python-libdrizzle, 0.08.2, Python wrapper of libdrizzle, 2010-03-22T07:04:49+0000
+/project/psutil/, psutil, 5.8.0, Cross-platform lib for process and system monitoring in Python., 2020-12-19T01:19:27+0000
+/project/py-make/, py-make, 0.1.1, Makefile execution powered by pure Python, 2019-01-21T00:18:55+0000
+/project/grafana-alerts/, grafana_alerts, 1.0.0.dev7, Alerting Module to use with Grafana metrics., 2015-07-27T18:35:36+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/eddie-tool/, EDDIE-Tool, 1.0.0, The EDDIE Tool is a system and network monitoring, security, and performance analysis agent developed entirely in threaded Python. Its key features are portability, extendibility, and powerful configuration., 2009-09-28T14:19:16+0000
+/project/easytextract/, easytextract, 1.1.5, Easy to use text extractor, from PDF, DOC, DOCX and other document types, using the awesome Textract, including if necessary using OCR (via Tesseract)., 2017-11-12T23:21:14+0000
+/project/csg-dicoms-anonymizer/, csg-dicoms-anonymizer, 1.4.2, Robust and easy to use generic dicoms anonymizer with demographics csv spreadsheet anonymization by hashed ids, 2018-02-17T14:44:12+0000
+/project/edison/, edison, 0.0.2, Absurdity as a Service, 2014-02-04T06:19:01+0000
+/project/git-fame/, git-fame, 1.14.1, Pretty-print `git` repository collaborators sorted by contributions, 2021-03-01T22:16:22+0000
+/project/caspyr/, caspyr, 1.1.1, Cinchingly awesome scripts of Pythonic rapture, 2019-08-01T23:19:27+0000
+/project/savreaderwriter/, savReaderWriter, 3.4.2, Read and write SPSS files, 2016-04-12T17:55:07+0000
+/project/confset/, confset, 0.1.0, A simple script to change or update package configurations, 2020-05-08T21:30:10+0000
+/project/sconsider/, SConsider, 0.3.21, scons build system extension, 2020-12-16T14:07:41+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/adapya-adabas/, adapya-adabas, 1.0.4, adapya-adabas - Software AG Adabas Database API for Python, 2019-12-06T19:00:35+0000
+/project/namedtupledefs2/, namedtupledefs2, 0.1.21, Extended 'namedtuple' by default values., 2019-12-13T12:31:13+0000
+/project/chemical-composition/, chemical-composition, 0.1.2, chemical_composition, 2021-03-22T12:15:09+0000
+/project/aifashion-sdk/, aifashion-sdk, 1.2.0, AIFashion® Python SDK, 2019-07-18T07:39:51+0000
+/project/ydcv/, ydcv, 0.7, YouDao Console Version, a simple wrapper for Youdao API, 2019-04-25T11:28:54+0000
+/project/uparma-py/, uparma-py, 0.1.0, uparma, 2021-03-22T11:46:50+0000
+/project/pyzone/, pyzone, 1.0, Ctypes wrappers to manage Solaris zones in Python., 2011-07-12T11:13:23+0000
+/project/pcp/, pcp, 1.2, Performance Co-Pilot collector, monitor and instrumentation APIs, 2017-05-31T06:54:19+0000
+/project/prepnet/, prepnet, 0.2.0, Reconstructable preprocessor library, 2020-08-31T11:13:16+0000
+/project/uptime/, uptime, 3.0.1, Cross-platform uptime library, 2013-10-07T14:19:57+0000
+/project/pymmbfuse/, pymmbfuse, 0.7.4, Fuse driver for BBC Microcomputer DFS disk images and MMB disk bundles, 2020-05-11T17:10:58+0000
+/project/sysv-ipc/, sysv-ipc, 1.1.0, System V IPC primitives (semaphores, shared memory and message queues) for Python, 2021-01-17T19:07:39+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/octadist/, octadist, 3.0.0, OctaDist: A tool for calculating distortion parameters in molecule., 2021-03-08T22:52:18+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/dlipower/, dlipower, 1.0.176, Control digital loggers web power switch, 2018-06-16T07:34:24+0000
+/project/django-easy-app/, django-easy-app, 0.0.27, Extend django-admin to create apps that are easier to set, 2015-05-01T17:25:28+0000
+/project/pymaestro/, pymaestro, 0.1, Pololu Maestro USB SDK in pure Python, 2017-06-11T15:57:07+0000
+/project/pytil/, pytil, 7.0.0, Python 3 utility library, 2018-01-08T16:56:58+0000
+/project/dlipower/, dlipower, 1.0.176, Control digital loggers web power switch, 2018-06-16T07:34:24+0000
+/project/tldr/, tldr, 1.2.1, command line client for tldr, 2021-04-01T21:56:05+0000
+/project/argopt/, argopt, 0.7.0, doc to argparse driven by docopt, 2021-03-01T16:51:30+0000
+/project/pymmbfuse/, pymmbfuse, 0.7.4, Fuse driver for BBC Microcomputer DFS disk images and MMB disk bundles, 2020-05-11T17:10:58+0000
+/project/sysv-ipc/, sysv-ipc, 1.1.0, System V IPC primitives (semaphores, shared memory and message queues) for Python, 2021-01-17T19:07:39+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/dicksonui/, DicksonUI, 2.4.5, Lightweight And Full Featured Browser Based UI / GUI (Graphical User Interface Library), 2020-10-16T13:10:48+0000
+/project/pyinstaller/, pyinstaller, 4.3, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-17T04:46:48+0000
+/project/prepnet/, prepnet, 0.2.0, Reconstructable preprocessor library, 2020-08-31T11:13:16+0000
+/project/uptime/, uptime, 3.0.1, Cross-platform uptime library, 2013-10-07T14:19:57+0000
+/project/fsquota/, FsQuota, 0.1.0, Interface to file system quotas on UNIX platforms, 2020-04-20T18:23:36+0000
+/project/adapya-era/, adapya-era, 1.0.2, adapya-era - services library of the Event Replicator for Adabas, 2019-12-13T12:18:01+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/namedtupledefs/, namedtupledefs, 0.1.21, Extended 'namedtuple' by default values., 2019-12-13T12:30:09+0000
+/project/unix-cred/, unix-cred, 0.2.1, A library that simplifies reading peer credentials from Unix domain sockets, 2021-01-08T19:10:52+0000
+/project/pyzone/, pyzone, 1.0, Ctypes wrappers to manage Solaris zones in Python., 2011-07-12T11:13:23+0000
+/project/pcp/, pcp, 1.2, Performance Co-Pilot collector, monitor and instrumentation APIs, 2017-05-31T06:54:19+0000
+/project/django-easy-app/, django-easy-app, 0.0.27, Extend django-admin to create apps that are easier to set, 2015-05-01T17:25:28+0000
+/project/pymaestro/, pymaestro, 0.1, Pololu Maestro USB SDK in pure Python, 2017-06-11T15:57:07+0000
+/project/pymodbus3/, pymodbus3, 1.0.0, A fully featured modbus protocol stack in python, 2014-07-18T07:20:27+0000
+/project/xssd/, xssd, 0.9.2, Validating python structures based on XSD Subset rules., 2019-06-12T19:49:45+0000
+/project/pymzml-tapir/, pymzml-tapir, 0.8.0, high-throughput mzML parsing, 2018-06-21T19:24:19+0000
+/project/adapya-entirex/, adapya-entirex, 1.0.1, adapya-entirex - Persistent messaging with webMethods EntireX Broker, 2019-12-12T12:43:48+0000
+/project/chicken-turtle-util/, chicken_turtle_util, 4.1.2, Python 3 utility library, 2017-06-12T14:15:19+0000

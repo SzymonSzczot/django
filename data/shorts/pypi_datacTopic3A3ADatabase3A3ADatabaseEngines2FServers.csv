@@ -1,0 +1,652 @@
+/project/vivid-root/, vivid-root, 0.0.1, Algorithm Classification Catalog, 2019-10-19T16:15:12+0000
+/project/pysqlite/, pysqlite, 2.8.3, DB-API 2.0 interface for SQLite 3.x, 2016-08-30T21:38:00+0000
+/project/python-monetdb/, python-monetdb, 11.19.3.2, Native MonetDB client Python API, 2015-01-07T15:27:09+0000
+/project/vulkn/, vulkn, 19.0.10, The environmentally friendly petabyte scale Python eco-system built on Yandex ClickHouse, 2020-03-02T09:50:32+0000
+/project/kd-samba/, kd-samba, 0.1.dev0, Web interface for managing samba users, 2020-12-04T11:25:33+0000
+/project/basalt/, basalt, 0.2.9, Graph API powered by RocksDB persistent key-value store for fast storage, 2020-02-19T15:10:59+0000
+/project/prql/, prql, 0.1.12, An interpreted relational query language that compiles to SQL, 2020-11-17T16:14:01+0000
+/project/pymldb/, pymldb, 0.8.1, Python interface to MLDB, 2017-01-24T17:09:31+0000
+/project/sqlite3dbm/, sqlite3dbm, 0.1.4, sqlite-backed dictionary, 2011-08-17T22:48:30+0000
+/project/lmdb-monero/, lmdb-monero, 1.0, Universal Python binding for the LMDB 'Lightning' Database, 2020-05-14T10:09:40+0000
+/project/hypermorph/, hypermorph, 0.1.2, HyperMorph - operational API for information management and data transformations-analytics, 2020-08-26T11:04:05+0000
+/project/nemoa/, nemoa, 0.5.582, Enterprise Machine-Learning and Predictive Analytics, 2019-07-09T18:13:56+0000
+/project/plyvel-wx/, plyvel-wx, 0.9.2, Add the max_file_size parameter, base on plyvel 0.9, 2017-01-05T02:58:39+0000
+/project/dbschema/, dbschema, 1.4.3, Schema migration made easy, 2019-11-19T00:15:56+0000
+/project/datadotworld/, datadotworld, 1.7.0, Python library for data.world, 2019-07-06T00:50:52+0000
+/project/python-org/, python_org, 0.0.4, Fast most-functional organizer for org-mode., 2012-12-11T08:03:13+0000
+/project/sage-engine/, sage-engine, 2.3.0, Sage: a preemptive SPARQL query engine for online Knowledge Graphs, 2021-04-19T18:38:51+0000
+/project/yakt/, yakt, 0.1.dev0, Yet another keysigning tool, 2018-02-05T05:55:50+0000
+/project/rdfutils/, rdfutils, 0.1, Thin wrapper functions to work with an RDF store based on the Redland C library & Python bindings (python-librdf), 2013-04-22T07:56:19+0000
+/project/elevator/, Elevator, 0.5, On disk key/value store based on levelDB backend, 2013-02-21T16:51:17+0000
+/project/dark/, dark, 0.7.1, Data Analysis and Reporting Kit (DARK), 2011-10-11T14:02:41+0000
+/project/plyvel/, plyvel, 1.3.0, Plyvel, a fast and feature-rich Python interface to LevelDB, 2020-10-10T12:06:04+0000
+/project/motorengine-bitfield/, motorengine-bitfield, 1.0.0, Custom field type for storing and retrieving bit-packed flags as enums., 2017-06-23T04:11:46+0000
+/project/target-typo-proxy/, target-typo-proxy, 0.1.0, Typo is the intelligent data quality barrier for enterprise information systems. The Typo target proxy communicates with Singer taps, consumes data that conforms to the Singer JSON specification, and provides data quality services to data in motion., 2019-12-30T23:14:36+0000
+/project/mysql-python/, MySQL-python, 1.2.5, Python interface to MySQL, 2014-01-02T19:42:35+0000
+/project/ddbmock/, ddbmock, 1.0.3, Amazon DynamoDB mock implementation, 2013-06-05T18:37:29+0000
+/project/streamlit-jina/, streamlit-jina, 0.1.8, Streamlit component for Jina neural search, 2021-02-16T15:13:55+0000
+/project/chartio/, chartio, 6.0.1, Setup wizard and connection client for connecting MySQL/PostgreSQL databases to Chartio, 2015-05-22T00:39:22+0000
+/project/monetdblite/, monetdblite, 0.6.4, Embedded MonetDB Python Database., 2020-05-18T15:47:53+0000
+/project/dbf-read-iffy/, dbf_read_iffy, 1.0.2, Read from dbf's if codepage is unsupported by modules dbf and codecs (895 cz Kamenicky, ..)., 2016-08-18T09:59:19+0000
+/project/ruruki/, ruruki, 1.4.2, Ruruki is a lightweight in-memory graph database which is ideal if you need a temporary graph database, or just doing a proof of concept and need a fast and reliable graph database., 2017-05-20T04:38:22+0000
+/project/egenix-mxodbc/, egenix-mxodbc, 3.3.6, eGenix mxODBC - Python ODBC Database Interface, 2016-11-16T16:42:59+0000
+/project/webapp2-static/, webapp2_static, 0.1, Simple handler to Serve static files on non Google App Engine (GAE) webapp2 environments, 2012-03-22T20:15:55+0000
+/project/preql-lang/, preql-lang, 0.2.1, An interpreted relational query language that compiles to SQL, 2021-03-12T19:46:04+0000
+/project/spws-2010/, SPWS_2010, 0.1.5, Python Interface to SharePoint 2010 Web Services, 2018-01-24T22:47:35+0000
+/project/schevoweb/, SchevoWeb, 1.0a2, Schevo tools for web development, 2006-10-24T20:39:05+0000
+/project/sqlalchemy-paradox/, sqlalchemy-paradox, 0.2.0, A SQLAlchemy dialect for Borland / Corel Paradox flat-file databases., 2021-03-10T18:57:36+0000
+/project/alchemist-stack/, alchemist-stack, 0.1.0.dev1, A Thread-Safe, Multi-Session/Multi-Connection Model-Repository-Context base for SQL Alchemy, 2018-04-24T19:34:08+0000
+/project/pysqlcipher/, pysqlcipher, 2.6.10, DB-API 2.0 interface for SQLCIPHER 3.x, 2017-04-13T18:56:17+0000
+/project/pgorm/, pgorm, 0.0.1, An ambitious PostgreSQL ORM in pure python using dataclasses, type hints, asyncio, 2019-08-08T06:54:15+0000
+/project/pybase-db/, pybase-db, 0.5.0, PyBase is a database manager for multiple filetypes including SQLite3. Very poweful, simple and effective., 2020-12-06T03:03:02+0000
+/project/mysql-python-vincent/, MySQL-python-vincent, 1.2.5, Python interface to MySQL, 2018-10-26T10:45:21+0000
+/project/graphique/, graphique, 0.3, GraphQL service for arrow tables and parquet data sets., 2021-02-01T00:18:01+0000
+/project/efreet/, Efreet, 1.0, Remote Object Daemon Server and Client, 2014-02-25T18:39:57+0000
+/project/image-match-altamente/, image-match-altamente, 1.1.2, image_match is a simple package for finding approximate image matches from a corpus., 2019-08-23T05:48:40+0000
+/project/pgindexrebuild/, pgindexrebuild, 0.16.0, , 2020-01-07T14:32:52+0000
+/project/doqu/, doqu, 0.28.2, Document-query: models for schema-less databases., 2013-01-07T23:46:18+0000
+/project/qrnr/, qrnr, 0.1.0, a tool to issue queries to databases in CLI using sqlalchemy., 2017-10-23T19:28:23+0000
+/project/sasync/, sAsync, 0.9.3, SQLAlchemy done Asynchronously: Twisted-friendly access to an SQL database., 2018-04-21T00:57:03+0000
+/project/djangolytics-client/, djangolytics-client, 0.1, ALPHA - don't use!, 2012-12-03T05:40:16+0000
+/project/agentsmith/, agentsmith, 2.0.2, Neo4j monitor, 2019-07-05T13:03:58+0000
+/project/django-model-values/, django-model-values, 1.3, Taking the O out of ORM., 2021-04-03T15:25:56+0000
+/project/tantipy/, tantipy, 0.1.2, , 2021-01-03T20:45:53+0000
+/project/egenix-mxodbc-zopeda/, egenix-mxodbc-zopeda, 2.2.3, eGenix mxODBC Zope/Plone Database Adapter for Plone and Zope, 2015-09-11T18:36:59+0000
+/project/monetdbe/, monetdbe, 0.9, MonetDBe - the Python embedded MonetDB, 2020-10-23T15:04:13+0000
+/project/pymssql-linux/, pymssql-linux, 2.1.6, DB-API interface to Microsoft SQL Server for Python. (new Cython-based version), 2020-06-06T08:37:17+0000
+/project/mongobox/, mongobox, 0.1.8, Run sandboxed Mongo DB instance from a python application., 2018-10-24T14:00:03+0000
+/project/funnel-web/, funnel-web, 2.0.0, Graph and visualize a module's dependencies., 2016-07-21T12:52:07+0000
+/project/dj-mongo-reader2/, dj-mongo-reader2, 1.2.0, A Django app can be used to query and render MongoDB data, 2019-10-30T07:15:28+0000
+/project/vertica-python/, vertica-python, 1.0.1, A native Python client for the Vertica database., 2020-12-04T11:39:01+0000
+/project/pg-chameleon-web/, pg-chameleon-web, 0.1.dev0, Web interface for pg_chameleon, 2020-05-01T12:50:00+0000
+/project/wq-db/, wq.db, 1.2.1, Django design patterns and REST API for citizen science field data collection., 2020-09-02T05:10:10+0000
+/project/stellaris/, stellaris, 0.3.2, Stellaris is a metadata management service., 2010-12-21T11:19:18+0000
+/project/data-wizard/, data-wizard, 1.3.0, Interactive web-based wizard for importing structured data into Django models., 2020-02-21T01:06:18+0000
+/project/dw-python-monetdb-async/, dw-python-monetdb-async, 12.0.2, Native MonetDB client Python API, 2018-07-24T18:38:58+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/neural-search/, neural-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:28:02+0000
+/project/jina-search/, jina-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:35:25+0000
+/project/pybloomfilter/, pybloomfilter, 1.0, bloomfilter for Python, 2009-12-30T07:25:28+0000
+/project/vmn-image-match/, vmn-image-match, 0.0.2, image_match is a simple package for finding approximate image matches from a corpus., 2020-01-25T07:02:40+0000
+/project/karellen-sqlite/, karellen-sqlite, 0.0.3, Karellen Sqlite Extensions, 2017-01-16T21:25:23+0000
+/project/accessmysqlconverter/, accessmysqlconverter, 2.0.0, A package to convert MS Access (.mdb, .accdb) into a SQL file (Optionally with It's data), 2021-01-09T18:57:59+0000
+/project/mappa/, Mappa, 0.1.0, Topic Maps Engine, 2007-07-01T15:13:13+0000
+/project/trajectory/, trajectory, 0.1.1, Trajectory data lossy compression format based on Google's Encoded Polyline Algorithm Format, 2020-02-24T17:31:53+0000
+/project/sqlcipher3-binary/, sqlcipher3-binary, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:19:34+0000
+/project/yamldb/, yamldb, 0.0.13, A database with yaml files as backend, 2021-02-27T13:09:35+0000
+/project/python-utilities-jsm/, python-utilities-jsm, 1.0.2, Myriad python utilities., 2021-04-14T03:11:04+0000
+/project/pynndb2/, pynndb2, 2.2.9, Database library for Python based on LMDB storage engine, 2021-03-21T16:13:01+0000
+/project/pg-batch/, pg-batch, 1.1, Run large PostgreSQL UPDATE and DELETE queries with small batches to prevent locks, 2018-05-24T01:47:45+0000
+/project/vera/, vera, 1.0.0, Reference implementation of the ERAV data model for citizen science. ERAV is an extension to EAV with support for maintaining multi-faceted provenance metadata for an entity., 2017-09-14T15:40:58+0000
+/project/mal-analytics/, mal-analytics, 0.3.0, , 2019-02-21T14:58:32+0000
+/project/agmodeling/, agmodeling, 0.4, Statistical modeling tools, to unify model creation and scoring based on python, 2019-09-02T12:11:51+0000
+/project/trough/, Trough, 0.1.5, , 2020-10-22T21:22:36+0000
+/project/atsd-client/, atsd-client, 3.0.6, Axibase Time Series Database API Client for Python, 2021-03-03T04:47:59+0000
+/project/maprdb/, maprdb, 0.0.3, API to work with MapR DB. Wrapper of Java API., 2017-08-05T01:17:17+0000
+/project/setix/, setix, 0.8.3, Fast data structures for finding intersecting sets and similar strings, 2014-02-02T18:52:31+0000
+/project/djmodels/, DJModels, 0.0.6, Use Django Models in any Python Web Framework, 2019-02-16T10:36:40+0000
+/project/pymongo-inmemory/, pymongo-inmemory, 0.2.0, A mongo mocking library with an ephemeral MongoDB running in memory., 2021-03-22T21:40:42+0000
+/project/lacquer/, lacquer, 0.1.2, A SQL Parser based on the parser in the presto project, 2017-08-17T20:37:29+0000
+/project/duckdb/, duckdb, 0.2.5, DuckDB embedded database, 2021-03-10T14:06:31+0000
+/project/mongauth/, mongauth, 1.0.1, User Authentication with MongoDB, 2011-08-29T09:55:13+0000
+/project/probably/, probably, 1.1.2, Probably: Simple Probabilistic Data Structures, 2021-02-26T14:12:20+0000
+/project/target-datadotworld/, target-datadotworld, 1.0.1, Singer target for data.world, 2018-06-08T20:59:13+0000
+/project/flask-ruko/, Flask-Ruko, 1.0.0, A Flask extension to connect to a Ruko database, 2019-07-05T00:15:44+0000
+/project/rockset/, rockset, 0.7.68, Rockset Python Client and `rock` CLI, 2021-02-11T19:08:34+0000
+/project/thinker/, thinker, 1.1.1, Rethinkdb wrapper for asyncio, 2017-06-21T21:28:01+0000
+/project/wafer-thin-mint/, wafer-thin-mint, 1.0.13, client service API DB ORM to connect with a service running TastyPie, 2014-09-25T08:56:06+0000
+/project/repcloud/, repcloud, 0.1a1, PostgreSQL repacker without need, 2019-11-26T15:02:22+0000
+/project/sqlalchemy-helpers/, sqlalchemy_helpers, 0.1.0, Helper functions for comfortable working with SQLAlchemy., 2017-09-18T19:58:06+0000
+/project/lakesuperior/, lakesuperior, 1.0.0a21, A Linked Data Platform repository sever., 2019-04-10T03:36:59+0000
+/project/objectbox/, objectbox, 0.2.0, ObjectBox is a superfast database for objects, 2020-09-09T10:58:48+0000
+/project/upoints/, upoints, 0.12.2, Modules for working with points on Earth, 2014-02-20T21:38:50+0000
+/project/oursql/, oursql, 0.9.3.2, MySQL bindings for python., 2016-05-15T13:20:07+0000
+/project/presto-query-predictor/, presto-query-predictor, 0.1.4, A query predictor pipeline and service to predict resource usages of Presto queries, 2020-09-19T22:20:39+0000
+/project/pg-ninja/, pg_ninja, 2.0.0a1, MySQL to PostgreSQL replica and migration, 2018-07-27T14:03:09+0000
+/project/toothpick/, toothpick, 1.8.3, Mapping documents to objects, 2014-04-05T20:47:18+0000
+/project/pybloom-mirror/, pybloom-mirror, 2.0.0, PyBloom: A Probabilistic data structure., 2015-11-19T08:43:48+0000
+/project/siqueries/, siqueries, 1.0.8, Setup wizard and connection client for connecting MySQL/PostgreSQL databases to siqueries.com, 2013-10-03T08:56:53+0000
+/project/tinydb-smartcache/, tinydb-smartcache, 2.0.0, A smarter query cache for TinyDB, 2020-08-25T18:31:08+0000
+/project/rian/, rian, 0.5.583, Enterprise Machine-Learning and Predictive Analytics, 2019-09-10T05:35:00+0000
+/project/pynndb/, pynndb, 1.1.5, Database library for Python based on LMDB storage engine, 2019-12-08T14:49:58+0000
+/project/pgsanity/, pgsanity, 0.2.9, Check syntax of sql for PostgreSQL, 2017-04-24T12:30:26+0000
+/project/datatables-mongoengine/, datatables-mongoengine, 0.1.7, MongoEngine QuerySet class for populating DataTables from MongoEngine., 2021-02-03T13:03:46+0000
+/project/pynndb-shell/, pynndb-shell, 1.0.9, Database library for Python based on LMDB storage engine, 2020-04-21T11:28:16+0000
+/project/mtna-rds/, mtna-rds, 0.2.16, A library to query the Rich Data Services API framework developed by MTNA, 2020-07-16T15:48:33+0000
+/project/key-value-db/, key-value-db, 1.1.7, Light weight package to quickly and easily manage, load, update and save key-value type database, 2020-01-23T12:20:50+0000
+/project/schevozodb/, SchevoZodb, 3.1a1, ZODB3 storage backend for Schevo, 2008-01-19T22:21:37+0000
+/project/wsql/, wsql, 1.2.13, Asynchronous Python interface to MySQL, 2016-03-04T10:02:03+0000
+/project/pystaggrelite3/, pystaggrelite3, 0.1.3, Pure Python sqlite3 statistics aggregate functions, 2011-05-14T06:12:48+0000
+/project/vivid-node/, vivid-node, 0.5.583, Enterprise Machine-Learning and Predictive Analytics, 2019-09-23T09:24:56+0000
+/project/arrdem-datalog-shell/, arrdem.datalog.shell, 0.0.2, A shell for my datalog engine, 2019-06-18T18:31:42+0000
+/project/pymssql-py38/, pymssql-py38, 2.1.4, DB-API interface to Microsoft SQL Server for Python. (new Cython-based version), 2019-11-12T15:17:04+0000
+/project/pybloom/, pybloom, 1.1, PyBloom: A Probabilistic data structure, 2011-03-13T19:42:35+0000
+/project/minislite/, minislite, 0.99, Mini and Secure SQLite ORM, 2020-04-12T12:22:31+0000
+/project/r3c/, R3C, 2.1.0, R3C: The Blockchain of confidential data & things., 2019-11-21T22:55:18+0000
+/project/dsdbmanager/, dsdbmanager, 1.0.5, Manage your data science databases, 2020-08-24T17:48:44+0000
+/project/saiive-chain/, saiive.chain, 2.3.1.0, BigchainDB: The Blockchain Database, 2020-12-04T12:37:07+0000
+/project/arbalest/, arbalest, 1.6.2, Arbalest orchestrates bulk data loading for Amazon Redshift, 2015-10-27T13:50:58+0000
+/project/rainstorm/, rainstorm, 0.0.2, A python ORM with an edge, 2016-10-27T22:58:51+0000
+/project/gnes/, gnes, 0.0.47, GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network., 2019-11-06T10:12:58+0000
+/project/agstream/, agstream, 1.0.2, Agriscope python library to access data, 2021-03-31T14:43:06+0000
+/project/omego/, omego, 0.7.0, OME installation and administration tool, 2019-11-11T14:39:34+0000
+/project/huoguoml/, huoguoml, 0.0.1, A platform for managing and serving Machine Learning types., 2021-02-18T19:03:49+0000
+/project/triadb/, triadb, 0.9.0, TRIADB - Self-Service Data Management and Analytics Framework, 2019-10-24T11:36:38+0000
+/project/lmdb/, lmdb, 1.2.1, Universal Python binding for the LMDB 'Lightning' Database, 2021-04-19T19:17:21+0000
+/project/sqlchain/, sqlchain, 0.2.10, Compact SQL layer for Bitcoin blockchain., 2018-11-10T23:26:16+0000
+/project/poserbox/, poserbox, 0.0.1, Run sandboxed Poser instance from a python application., 2014-09-22T18:25:59+0000
+/project/pymssql-plus/, pymssql-plus, 0.1.1, DB-API interface to Microsoft SQL Server for Python. (new Cython-based version), 2020-12-21T08:20:55+0000
+/project/cockatrice/, cockatrice, 0.7.1, Full text search and indexing server., 2019-01-15T00:02:58+0000
+/project/temboard-agent/, temboard-agent, 7.6, PostgreSQL Remote Control Agent, 2021-02-10T15:35:34+0000
+/project/sql2csv/, sql2csv, 1.3, Run MySQL and PostgreSQL queries and store result in CSV, 2021-01-13T14:39:40+0000
+/project/arrdem-datalog/, arrdem.datalog, 2.0.1, A Datalog engine, 2020-07-19T14:23:55+0000
+/project/adhocracy-pysqlite/, adhocracy-pysqlite, 2.6.3, DB-API 2.0 interface for SQLite 3.x, 2013-10-26T14:21:38+0000
+/project/nefertari-mongodb/, nefertari_mongodb, 0.4.2, mongodb engine for nefertari, 2016-05-17T05:37:38+0000
+/project/submit-cgap/, submit-cgap, 0.7.3, Support for uploading file submissions to the Clinical Genomics Analysis Platform (CGAP)., 2021-01-12T07:58:58+0000
+/project/image-match-tso/, image-match-tso, 1.1.4, image_match_tso is a simple package for finding approximate image matches from a corpus., 2020-08-06T08:16:16+0000
+/project/deet/, deet, 0.1.11, Universal Data Mapper, 2019-09-09T17:36:37+0000
+/project/bigquery-fdw/, bigquery-fdw, 1.8, BigQuery Foreign Data Wrapper for PostgreSQL, 2021-01-23T19:37:00+0000
+/project/sqlalchemy-monetdb/, sqlalchemy_monetdb, 1.0.0, SQLAlchemy dialect for MonetDB, 2017-10-25T13:56:58+0000
+/project/pysqlite3/, pysqlite3, 0.4.6, DB-API 2.0 interface for Sqlite 3.x, 2021-04-06T12:58:04+0000
+/project/graphility/, graphility, 0.0.1, Pure-python NoSQL database., 2020-10-18T15:08:34+0000
+/project/mysqlclient/, mysqlclient, 2.0.3, Python interface to MySQL, 2021-01-01T13:11:39+0000
+/project/mongogrant/, mongogrant, 0.3.1, Generate and grant credentials for MongoDB databases, 2020-03-30T21:50:57+0000
+/project/pynndb2cli/, pynndb2cli, 2.0.5, PyNNDB2 CLI, 2021-03-23T19:02:06+0000
+/project/pyvttbl/, pyvttbl, 0.5.2.2, Multidimensional pivot tables, data processing, statistical computation, 2013-01-31T20:22:44+0000
+/project/django-gvar/, django-gvar, 0.1.0a0, Django extension which adds model fields to store multi-dimensional Gaussian random variables., 2020-06-17T16:47:11+0000
+/project/pymodels/, pymodels, 0.18.3, Python models for schema-less databases., 2010-05-01T03:46:34+0000
+/project/hypothesis-sqlalchemy/, hypothesis-sqlalchemy, 0.3.2, ``hypothesis`` strategies for generating ``SQLAlchemy`` objects., 2020-03-12T18:37:51+0000
+/project/pyoxigraph/, pyoxigraph, 0.2.3, Python bindings of Oxigraph, a SPARQL database and RDF toolkit, 2021-04-11T08:40:45+0000
+/project/sqlalchemy-views/, sqlalchemy-views, 0.3.0, Adds CreateView and DropView constructs to SQLAlchemy, 2021-03-31T15:12:30+0000
+/project/tinydb-appengine/, tinydb-appengine, 1.0.6, TinyDB Extension for AppEngine, 2019-02-08T16:22:07+0000
+/project/espressodb/, espressodb, 1.2.1, Science database interface using Django as the content manager., 2020-07-27T11:02:59+0000
+/project/tinydb/, tinydb, 4.4.0, TinyDB is a tiny, document oriented database optimized for your happiness :), 2021-02-11T19:31:24+0000
+/project/django-pg-current-timestamp/, django-pg-current-timestamp, 0.2.4, Add true postgresql `CURRENT_TIMESTAMP` support to Django + PostgreSQL, 2014-09-19T21:15:43+0000
+/project/quit-store/, quit-store, 0.24.0, Distributed Version Control for RDF Knowledge Bases, 2019-12-11T13:19:33+0000
+/project/totable/, totable, 0.1, Cython wrapper for tokyo cabinet table, 2010-01-07T18:10:26+0000
+/project/elastic-neural-search/, elastic-neural-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:35:12+0000
+/project/schevosql/, SchevoSql, 1.0a1, Schevo tools for SQL databases, 2006-06-01T14:42:03+0000
+/project/garuda/, garuda, 0.0.1, Automagically Exposing Djagno ORM over gRPC for microservices written in any other languages, 2018-08-17T06:32:21+0000
+/project/sqlalchemy-dataflex/, sqlalchemy-dataflex, 0.1.5, A SQLAlchemy dialect for DataFlex flat-file databases., 2021-02-10T21:03:52+0000
+/project/optimade/, optimade, 0.14.0, Tools for implementing and consuming OPTIMADE APIs., 2021-03-26T01:56:53+0000
+/project/pgdumplib/, pgdumplib, 3.1.0, Python3 library for working with pg_dump files, 2020-02-06T21:16:59+0000
+/project/pysqlcipher3/, pysqlcipher3, 1.0.4, DB-API 2.0 interface for SQLCIPHER 3.x, 2021-04-24T22:17:34+0000
+/project/pandb/, pandb, 0.1.11, Universal Data Mapper, 2019-09-09T16:19:06+0000
+/project/opentick/, opentick, 1.2.0, OpenTick SDK, 2019-10-29T06:53:46+0000
+/project/helios-client/, helios-client, 0.3.dev20200304, Pure python 3 module to communicate with a Helios server., 2020-03-05T03:29:52+0000
+/project/models/, models, 0.9.3, Python models for schema-less databases., 2010-02-20T19:44:16+0000
+/project/ruko/, ruko, 0.1.2, A dead simple high performance JSON database, 2020-01-10T06:55:17+0000
+/project/ruruki-eye/, ruruki-eye, 0.1.3, Ruruki Eye is a visualizer for Ruruki (In Memory Graph Tool), 2017-06-08T12:18:33+0000
+/project/pyroclast/, pyroclast, 1.0.1, Basic Python-based data server for exposing flat table and object hierarchy files via REST-ful queries, 2015-12-04T21:26:30+0000
+/project/lbindex/, LBIndex, 0.1.1, Indexer Daemon for the neo-lightbase service, 2013-06-28T19:24:56+0000
+/project/image-match/, image-match, 1.1.2, image_match is a simple package for finding approximate image matches from a corpus., 2017-02-13T14:54:47+0000
+/project/nagios-sql/, nagios-sql, 0.8.1, Nagios plugin with sqlchecks, 2019-12-09T17:27:50+0000
+/project/fooster-db/, fooster-db, 0.9.0, a human-readable, magic database in Python, 2020-10-17T19:00:00+0000
+/project/pysqlite3-binary/, pysqlite3-binary, 0.4.6, DB-API 2.0 interface for Sqlite 3.x, 2021-04-06T13:05:13+0000
+/project/tensorflow-search/, tensorflow-search, 0.6.8, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-14T18:37:59+0000
+/project/aiida-optimade/, aiida-optimade, 0.17.0, Expose an AiiDA database according to the [OPTIMADE API specification](https://www.optimade.org)., 2021-03-05T17:21:50+0000
+/project/pymysqlpool/, PyMysqlPool, 1.0.9, python practical mysql pool -motivation from=>[lost connection to MySQL server during query]  base on mysql-connector support fixed | dynamic pool, 2018-05-23T06:58:48+0000
+/project/sql-to-ibis/, sql-to-ibis, 0.4.0, A package for converting sql into ibis expressions, 2021-04-18T17:36:10+0000
+/project/oursql3/, oursql3, 0.9.4, MySQL bindings for python., 2016-05-15T13:25:52+0000
+/project/pyspatialite/, pyspatialite, 3.0.1-alpha-0, DB-API 2.0 interface for SQLite 3.x with Spatialite 3.0.1, 2013-11-22T19:21:48+0000
+/project/json-config/, json_config, 2.0.1, A convenience utility for working with JSON config files., 2016-01-01T22:48:56+0000
+/project/unqlite/, unqlite, 0.9.2, Fast Python bindings for the UnQLite embedded NoSQL database., 2020-11-26T16:20:48+0000
+/project/egenix-mxodbc-connect-client/, egenix-mxodbc-connect-client, 2.1.5, eGenix mxODBC Connect Client for Python, 2015-10-23T08:41:04+0000
+/project/vec-search/, vec-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:28:21+0000
+/project/wsql-sdk/, wsql_sdk, 0.3.17, The chain of tools, that to make work with SQL easier, 2016-03-28T10:28:23+0000
+/project/sqlite-rx/, sqlite-rx, 1.0.1, Python SQLite Client and Server, 2020-12-31T21:26:47+0000
+/project/dwcontents/, dwcontents, 1.0.0b5, Jupyter contents manager for data.world, 2018-04-09T20:52:50+0000
+/project/docu/, docu, 0.24.0, Python models for schema-less databases., 2010-09-16T18:08:31+0000
+/project/spinta/, spinta, 0.1.14, A platform for describing, extracting, transforming, loading and serving open data., 2021-04-15T16:25:22+0000
+/project/schevo/, Schevo, 3.0, Next-generation DBMS, 2007-03-21T18:55:08+0000
+/project/libschevo/, libschevo, 4.1, Next-generation Object-Oriented DBMS, 2019-03-31T12:09:41+0000
+/project/snovault/, snovault, 1.0.56, Snovault Hybrid Object Relational Database Framework, 2021-04-08T21:19:36+0000
+/project/pytorch-search/, pytorch-search, 0.6.8, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-14T18:38:42+0000
+/project/cozydb/, cozydb, 0.1.9, cozydb is a cozy mysqlclient wrapper, 2017-09-15T10:53:18+0000
+/project/f2python/, F2python, 1.5.0, The F2 DBMS written in Python. Needs ZODB and ZEO to run., 2017-04-10T19:55:01+0000
+/project/hypertable/, hypertable, 0.9.8.10, Open source C++ Bigtable implementation, 2015-12-23T04:07:26+0000
+/project/sqlibrist/, sqlibrist, 0.1.10, Simple tool for managing DB structure, automating patch creation for DB structure migration., 2016-09-06T08:37:23+0000
+/project/pghoard/, pghoard, 2.1.0, PostgreSQL automatic backup/restore service daemon, 2019-05-27T11:02:41+0000
+/project/mysql-python-embedded/, MySQL-python-embedded, 1.2.7, Python interface to MySQL, 2014-10-14T20:44:42+0000
+/project/pystore/, PyStore, 0.1.22, Fast data store for Pandas timeseries data, 2020-09-27T18:07:23+0000
+/project/sqlcipher3/, sqlcipher3, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:09:48+0000
+/project/match3d/, match3d, 0.0.1, match3d allows you to store and search 3D models (STL files)for similar designs., 2016-05-19T16:10:39+0000
+/project/cache-requests/, cache_requests, 4.0.0, Simple. Powerful. Persistent LRU caching for the requests library., 2015-12-26T04:06:12+0000
+/project/oxrdflib/, oxrdflib, 0.2.0, rdflib stores based on pyoxigraph, 2021-01-07T21:29:09+0000
+/project/pyngrok/, pyngrok, 5.0.5, A Python wrapper for ngrok., 2021-03-26T01:04:59+0000
+/project/pydatalog/, pyDatalog, 0.17.1, A pure-python implementation of Datalog, a truly declarative language derived from Prolog., 2016-01-24T21:36:05+0000
+/project/pytwis/, pytwis, 0.5.1, A twitter-toy-clone backend using Python and Redis, 2018-06-10T07:37:34+0000
+/project/deepint/, deepint, 1.1, deepint is a python package to work with Deep Intelligence in a more easy and intuitive way., 2021-02-26T09:47:06+0000
+/project/yaml-structureddata/, yaml-structureddata, 5.1, A YAML based database with types., 2020-05-28T09:31:22+0000
+/project/eruptr/, eruptr, 20.12.3, Data needs a Makefile., 2020-12-01T12:05:32+0000
+/project/py2neo/, py2neo, 2021.0.1, Python client library and toolkit for Neo4j, 2021-02-22T00:21:36+0000
+/project/dipus/, dipus, 0.0.5, Dipus is a simple full-text search server using Whoosh for Sphinx, 2012-09-05T09:14:25+0000
+/project/sitesync/, sitesync, 1.0.3, Script to sync db and/or data from remote host, 2018-05-10T06:28:39+0000
+/project/pymonetdb/, pymonetdb, 1.4.1, Native MonetDB client Python API, 2020-12-17T13:04:49+0000
+/project/rockset-sqlcli/, rockset-sqlcli, 0.7.68, Rockset SQL REPL for `rock sql`, 2021-02-11T19:08:36+0000
+/project/norman/, norman, 0.7.2, Norman is a framework for advanced data structures in python using
+an database-like approach.  The range of potential applications is wide,
+for example in-memory databases, multi-keyed dictionaries or node graphs., 2014-02-20T09:54:10+0000
+/project/redisobjects/, redisobjects, 0.7.8, Object-oriented wrapper for aioredis., 2019-10-06T18:33:10+0000
+/project/jardin/, jardin, 0.22.5, A Pandas dataframe-based ORM, 2021-03-23T09:33:23+0000
+/project/phen/, phen, 0.2.1, Decentralized platform for social applications, 2015-12-31T21:25:15+0000
+/project/breezedb/, breezedb, 1.2.0, A simple file-based database engine, 2014-01-01T20:31:48+0000
+/project/spatialite/, spatialite, 0.0.3, Wrapper of sqlite3 module which adds SpatiaLite support., 2019-02-25T11:49:13+0000
+/project/pglookout/, pglookout, 1.4.0, PostgreSQL replication monitoring and failover daemon, 2017-06-08T07:43:17+0000
+/project/mastertables/, mastertables, 1.1.0, A Python package to interact with the mastertables.athento.com public API, 2018-07-10T09:52:47+0000
+/project/pybloom-live/, pybloom_live, 3.0.0, Bloom filter: A Probabilistic data structure, 2018-07-22T09:20:07+0000
+/project/python-tkvdb/, python-tkvdb, 0.1.0, Cython wrapper for tkvdb radix trie key-value database, 2021-04-13T22:36:04+0000
+/project/pymamba/, pymamba, 0.3.0, Database library for Python based on LMDB storage engine, 2017-09-21T15:47:40+0000
+/project/mysql-batch/, mysql-batch, 1.2, Run large MySQL UPDATE and DELETE queries with small batches to prevent table/row-level locks, 2018-05-24T01:19:01+0000
+/project/pympx/, PyMPX, 1.1.8, Metapraxis Empower python API, 2020-08-25T10:33:51+0000
+/project/nefertari-sqla/, nefertari_sqla, 0.4.2, sqla engine for nefertari, 2016-05-17T05:37:33+0000
+/project/wq/, wq, 1.2.1, A modular framework for citizen science field data collection via offline-capable mobile web apps., 2020-09-02T08:14:40+0000
+/project/pyarango/, pyArango, 1.3.4, An easy to use python driver for ArangoDB with built-in validation, 2020-03-24T04:58:11+0000
+/project/temboard/, temboard, 7.6, temBoard User Interface., 2021-02-10T15:28:11+0000
+/project/mysql-client/, mysql-client, 0.0.1, A modern mysql client driver for modern python, 2019-03-20T01:23:16+0000
+/project/temporenc/, temporenc, 0.1.0, Python library for the temporenc format, 2014-10-24T14:54:28+0000
+/project/obj-tables/, obj-tables, 1.0.14, Tools for creating and reusing high-quality spreadsheets, 2020-09-08T14:17:44+0000
+/project/torethink/, torethink, 1.3.2, Rethinkdb Wrapper For Tornado Framework, 2017-07-08T14:16:42+0000
+/project/schevopolicy/, SchevoPolicy, 1.0a1, Context-sensitive security policy enforcement for Schevo databases, 2008-01-20T17:33:49+0000
+/project/wallace/, Wallace, 0.9.1, An API for modeling data with psycopg2, redis-py, and pymongo., 2017-03-08T04:46:37+0000
+/project/mongo-datatables/, mongo-datatables, 0.3.0, Classes for connecting DataTables and Editor to MongoDB, 2019-07-17T17:50:51+0000
+/project/mytsgraph/, mytsgraph, 1.0.1, MySQL table space monitoring., 2017-01-19T15:30:04+0000
+/project/dj-mongo-reader/, dj-mongo-reader, 0.98, A Django app can be used to query and render MongoDB data, 2015-10-06T18:22:22+0000
+/project/copycat/, copycat, 0.2a, copycat - simple, transparent and non-intrusive python persistence, 2011-04-20T20:16:40+0000
+/project/cubrid-python/, CUBRID-Python, 9.3.0, This is a Python Connector for CUBRID Database 9.3.0, 2014-05-15T10:25:39+0000
+/project/pymssql-nikcub/, pymssql-nikcub, 2.2.0, DB-API interface to Microsoft SQL Server for Python. (new Cython-based version), 2017-03-12T16:25:11+0000
+/project/chronicdb/, chronicdb, 3.7.4, The ChronicDB command-line client., 2012-03-21T23:48:46+0000
+/project/powderbooking/, powderbooking, 0.6.0, RESTful API backend for the Powderbooking application, 2021-01-08T23:24:12+0000
+/project/dynamic-pybloom/, dynamic-pybloom, 3.2.0, Dynamic Pybloom: A Suite of Probabilistic Data Structures, 2017-05-08T15:41:58+0000
+/project/jinad/, jinad, 0.0.7, Jinad is the daemon tool for running Jina on remote machines. Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2021-01-05T19:50:49+0000
+/project/django-ewiz/, django-ewiz, 1.5.4, A non-relational Django database backend that utilizes EnterpriseWizard's REST interface., 2016-04-29T20:52:32+0000
+/project/deepdesk/, DeepDesk, 0.1.2, Flexible data storage, with indexing, templates and validation, 2014-05-10T21:09:16+0000
+/project/preserve/, preserve, 0.1.2a0, A simple key/value store with multiple backends., 2021-04-14T18:48:48+0000
+/project/mrsdb2/, mrsdb2, 2.3.1, The quick, rich, serverless, and efficient json-like Python 3 document database., 2020-06-08T14:08:22+0000
+/project/macapi/, macapi, 1.0.5, scripts written to interact with mongodb cloud api, 2019-01-08T06:25:04+0000
+/project/datashaping/, datashaping, 0.3.2, A pythonic query API for structured data., 2009-07-13T19:31:27+0000
+/project/tap-typo/, tap-typo, 0.2.0, Typo is the intelligent data quality barrier for enterprise information systems. The Typo tap retrieves results and data from the Typo platform., 2020-05-08T14:31:57+0000
+/project/nanodb/, nanodb, 0.4.3, In memory database for geolocated and temporal data, 2014-12-24T04:39:55+0000
+/project/target-typo/, target-typo, 0.1.0, Typo is the intelligent data quality barrier for enterprise information systems. The Typo target communicates with Singer taps, and consumes data that conforms to the Singer JSON specification., 2019-12-30T23:12:00+0000
+/project/mysql-python-glb/, MySQL-python-glb, 1.2.6, Python interface to MySQL, 2015-02-02T19:51:57+0000
+/project/caterpillar/, caterpillar, 0.15.10, Text retrieval and analytics engine., 2019-02-13T02:10:53+0000
+/project/schevowsgi/, SchevoWsgi, 1.0a1, Schevo tools for WSGI, 2008-01-20T16:02:17+0000
+/project/twitabit/, Twitabit, 1.0a1, Simple example application using Schevo, 2008-01-19T19:19:50+0000
+/project/schevogears/, SchevoGears, 1.0a1, Schevo tools for TurboGears, 2006-06-01T14:41:40+0000
+/project/konfiger/, konfiger, 1.2.4, Light weight package to manage key value based configuration and data files for Python, 2020-08-22T17:34:47+0000
+/project/py-mdbm/, py-mdbm, 0.1.0a, The Python interface to the MDBM key-value store., 2018-01-23T14:05:25+0000
+/project/grout/, grout, 2.0.1, A flexible schema framework for geospatial data., 2019-01-24T20:00:07+0000
+/project/pypreval/, PyPreval, 0.0.0, object prevalence service, 2008-02-21T13:39:03+0000
+/project/sqlite3dict/, sqlite3dict, 1.0.1, Wrapper around sqlite3 to work with dictionaries, 2020-03-02T12:01:09+0000
+/project/dataclay/, dataClay, 2.5, Python library for dataClay, 2020-11-05T20:48:39+0000
+/project/cryptoconditions/, cryptoconditions, 0.8.0, Multi-algorithm, multi-level, multi-signature format for expressing conditions and fulfillments according to the Interledger Protocol (ILP)., 2018-10-20T17:55:24+0000
+/project/psycopgbinary/, psycopgbinary, 0.0.1, Reference for psycopg2-binary, but with name usable in import, 2020-11-05T01:30:16+0000
+/project/bpluspy/, BplusPy, 1.0, BplusDotNet python implementation, 2013-01-25T18:36:39+0000
+/project/aiopg-sqlite/, aiopg-sqlite, 0.0.1a0, Drop-in replacement for aiopg for various (mostly test) purposes, 2017-08-02T09:16:15+0000
+/project/yedb/, yedb, 0.2.4, Rugged embedded and client/server key/value database, 2021-02-24T09:44:08+0000
+/project/mobilitydb-sqlalchemy/, mobilitydb-sqlalchemy, 0.4, MobilityDB extensions to SQLAlchemy, 2020-09-02T06:31:22+0000
+/project/dataclay/, dataClay, 2.5, Python library for dataClay, 2020-11-05T20:48:39+0000
+/project/tf-search/, tf-search, 0.6.6, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-12T22:27:19+0000
+/project/bloomfpy/, bloomfpy, 1.1.0, bloomfpy: Bloom Filter implementation for python, a probabilistic data structure, 2019-11-14T13:45:11+0000
+/project/nekoyume/, nekoyume, 0.1.4, Decentralized MMORPG based on Dungeon World, 2018-10-17T12:06:58+0000
+/project/python-ridc/, python-ridc, 0.2.1, Python connector for Ridc, 2014-01-10T18:12:03+0000
+/project/cryptoconditions/, cryptoconditions, 0.8.0, Multi-algorithm, multi-level, multi-signature format for expressing conditions and fulfillments according to the Interledger Protocol (ILP)., 2018-10-20T17:55:24+0000
+/project/rabadb/, rabaDB, 2.0, Store, Search, Modify your objects easily. You're welcome., 2020-03-04T23:32:56+0000
+/project/mongomultimaster/, MongoMultiMaster, 0.0.4dev, Multimaster replication for MongoDB, 2012-07-13T16:05:47+0000
+/project/vivid-db/, vivid-db, 0.1.11, Universal Data Mapper, 2019-09-23T11:48:57+0000
+/project/yas3/, yas3, 1.0, Yet another simple S3 management tool for python., 2020-11-03T17:33:44+0000
+/project/filedict/, filedict, 0.0.8, Fast & simple key-value storage., 2016-12-27T22:33:25+0000
+/project/rpq/, rpq, 2.2, Simple Redis work queue with added features (priorities, pop multiple items at once), 2020-02-26T03:06:57+0000
+/project/monitor-mysql-overflows/, monitor-mysql-overflows, 1.1.1, MySQL utilities to detect integer like columns overflows, 2015-03-26T11:01:20+0000
+/project/simpledict/, simpledict, 0.2.6, Simple dictionary wrapper, 2012-04-23T20:29:01+0000
+/project/jardb/, jardb, 0.0.5, A small Document Oriented Databse, 2018-01-22T12:51:05+0000
+/project/outcome-pysqlite3-binary/, outcome-pysqlite3-binary, 0.4.5, DB-API 2.0 interface for Sqlite 3.x, 2021-01-21T09:47:07+0000
+/project/redisbox/, redisbox, 0.0.1, Run sandboxed Redis instance from a python application., 2014-08-22T02:20:43+0000
+/project/codernitydb3/, codernitydb3, 0.6.0, Pure python, embedded, fast, schema-less, NoSQL database, 2020-07-31T15:42:06+0000
+/project/gina/, gina, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:27:28+0000
+/project/pglite/, pglite, 1.0.13, PostgreSQLite, 2020-09-01T08:16:49+0000
+/project/grapheekdb/, grapheekdb, 0.0.25, GrapheekDB is a pure Python graph database which is fast and lightweight, 2020-10-05T15:11:09+0000
+/project/pg-chameleon/, pg-chameleon, 2.0.16, MySQL to PostgreSQL replica and migration, 2020-09-23T16:21:24+0000
+/project/pymssql/, pymssql, 2.2.1, DB-API interface to Microsoft SQL Server for Python. (new Cython-based version), 2021-04-16T01:27:44+0000
+/project/dcicsnovault/, dcicsnovault, 4.7.4, Storage support for 4DN Data Portals., 2021-04-12T16:12:00+0000
+/project/rewind/, rewind, 0.3.1, Rewind is a (CQRS) event store that talks ZeroMQ., 2012-12-16T23:33:02+0000
+/project/plyvel-win32/, plyvel-win32, 1.3.0, Plyvel, a fast and feature-rich Python interface to LevelDB, 2021-01-22T07:02:34+0000
+/project/twindb-table-compare/, twindb-table-compare, 3.0.3, TwinDB Table Compare reads percona.checksums from the master and slave and shows what records are difference if there are any inconsistencies., 2020-09-13T22:18:29+0000
+/project/wiki-monkey/, wiki-monkey, 5.3.0, Wiki Monkey - MediaWiki bot and editor-assistant user script., 2021-04-15T09:25:31+0000
+/project/deepdesk/, DeepDesk, 0.1.2, Flexible data storage, with indexing, templates and validation, 2014-05-10T21:09:16+0000
+/project/preserve/, preserve, 0.1.2a0, A simple key/value store with multiple backends., 2021-04-14T18:48:48+0000
+/project/tinydb-serialization/, tinydb-serialization, 2.1.0, Serialization for objects that TinyDB otherwise couldn't handle, 2021-01-23T15:25:14+0000
+/project/pyfilemaker2/, pyfilemaker2, 0.2.1, Python Object Wrapper for FileMaker Server XML Interface, 2021-02-16T14:53:29+0000
+/project/progress-sa/, progress_sa, 0.4.1, Minimal SQLAlchemy dialect for OpenEdge 10/Progress., 2012-06-14T15:18:13+0000
+/project/mrsdb2/, mrsdb2, 2.3.1, The quick, rich, serverless, and efficient json-like Python 3 document database., 2020-06-08T14:08:22+0000
+/project/macapi/, macapi, 1.0.5, scripts written to interact with mongodb cloud api, 2019-01-08T06:25:04+0000
+/project/datashaping/, datashaping, 0.3.2, A pythonic query API for structured data., 2009-07-13T19:31:27+0000
+/project/sqlalchemy-pydantic-orm/, sqlalchemy-pydantic-orm, 0.1.0, CRUD operations on nested SQLAlchemy ORM-models using Pydantic, 2021-04-25T16:30:30+0000
+/project/jina/, jina, 1.1.10, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2021-04-25T23:04:12+0000
+/project/vivid-root/, vivid-root, 0.0.1, Algorithm Classification Catalog, 2019-10-19T16:15:12+0000
+/project/pysqlite/, pysqlite, 2.8.3, DB-API 2.0 interface for SQLite 3.x, 2016-08-30T21:38:00+0000
+/project/python-monetdb/, python-monetdb, 11.19.3.2, Native MonetDB client Python API, 2015-01-07T15:27:09+0000
+/project/vulkn/, vulkn, 19.0.10, The environmentally friendly petabyte scale Python eco-system built on Yandex ClickHouse, 2020-03-02T09:50:32+0000
+/project/kd-samba/, kd-samba, 0.1.dev0, Web interface for managing samba users, 2020-12-04T11:25:33+0000
+/project/basalt/, basalt, 0.2.9, Graph API powered by RocksDB persistent key-value store for fast storage, 2020-02-19T15:10:59+0000
+/project/prql/, prql, 0.1.12, An interpreted relational query language that compiles to SQL, 2020-11-17T16:14:01+0000
+/project/pymldb/, pymldb, 0.8.1, Python interface to MLDB, 2017-01-24T17:09:31+0000
+/project/djangolytics-client/, djangolytics-client, 0.1, ALPHA - don't use!, 2012-12-03T05:40:16+0000
+/project/sqlite3dbm/, sqlite3dbm, 0.1.4, sqlite-backed dictionary, 2011-08-17T22:48:30+0000
+/project/hypermorph/, hypermorph, 0.1.2, HyperMorph - operational API for information management and data transformations-analytics, 2020-08-26T11:04:05+0000
+/project/nemoa/, nemoa, 0.5.582, Enterprise Machine-Learning and Predictive Analytics, 2019-07-09T18:13:56+0000
+/project/plyvel-wx/, plyvel-wx, 0.9.2, Add the max_file_size parameter, base on plyvel 0.9, 2017-01-05T02:58:39+0000
+/project/dbschema/, dbschema, 1.4.3, Schema migration made easy, 2019-11-19T00:15:56+0000
+/project/datadotworld/, datadotworld, 1.7.0, Python library for data.world, 2019-07-06T00:50:52+0000
+/project/python-org/, python_org, 0.0.4, Fast most-functional organizer for org-mode., 2012-12-11T08:03:13+0000
+/project/sage-engine/, sage-engine, 2.3.0, Sage: a preemptive SPARQL query engine for online Knowledge Graphs, 2021-04-19T18:38:51+0000
+/project/yakt/, yakt, 0.1.dev0, Yet another keysigning tool, 2018-02-05T05:55:50+0000
+/project/rdfutils/, rdfutils, 0.1, Thin wrapper functions to work with an RDF store based on the Redland C library & Python bindings (python-librdf), 2013-04-22T07:56:19+0000
+/project/elevator/, Elevator, 0.5, On disk key/value store based on levelDB backend, 2013-02-21T16:51:17+0000
+/project/dark/, dark, 0.7.1, Data Analysis and Reporting Kit (DARK), 2011-10-11T14:02:41+0000
+/project/plyvel/, plyvel, 1.3.0, Plyvel, a fast and feature-rich Python interface to LevelDB, 2020-10-10T12:06:04+0000
+/project/motorengine-bitfield/, motorengine-bitfield, 1.0.0, Custom field type for storing and retrieving bit-packed flags as enums., 2017-06-23T04:11:46+0000
+/project/target-typo-proxy/, target-typo-proxy, 0.1.0, Typo is the intelligent data quality barrier for enterprise information systems. The Typo target proxy communicates with Singer taps, consumes data that conforms to the Singer JSON specification, and provides data quality services to data in motion., 2019-12-30T23:14:36+0000
+/project/mysql-python/, MySQL-python, 1.2.5, Python interface to MySQL, 2014-01-02T19:42:35+0000
+/project/ddbmock/, ddbmock, 1.0.3, Amazon DynamoDB mock implementation, 2013-06-05T18:37:29+0000
+/project/streamlit-jina/, streamlit-jina, 0.1.8, Streamlit component for Jina neural search, 2021-02-16T15:13:55+0000
+/project/chartio/, chartio, 6.0.1, Setup wizard and connection client for connecting MySQL/PostgreSQL databases to Chartio, 2015-05-22T00:39:22+0000
+/project/agentsmith/, agentsmith, 2.0.2, Neo4j monitor, 2019-07-05T13:03:58+0000
+/project/django-model-values/, django-model-values, 1.3, Taking the O out of ORM., 2021-04-03T15:25:56+0000
+/project/tantipy/, tantipy, 0.1.2, , 2021-01-03T20:45:53+0000
+/project/pybase-db/, pybase-db, 0.5.0, PyBase is a database manager for multiple filetypes including SQLite3. Very poweful, simple and effective., 2020-12-06T03:03:02+0000
+/project/vmn-image-match/, vmn-image-match, 0.0.2, image_match is a simple package for finding approximate image matches from a corpus., 2020-01-25T07:02:40+0000
+/project/lmdb-monero/, lmdb-monero, 1.0, Universal Python binding for the LMDB 'Lightning' Database, 2020-05-14T10:09:40+0000
+/project/egenix-mxodbc-zopeda/, egenix-mxodbc-zopeda, 2.2.3, eGenix mxODBC Zope/Plone Database Adapter for Plone and Zope, 2015-09-11T18:36:59+0000
+/project/monetdbe/, monetdbe, 0.9, MonetDBe - the Python embedded MonetDB, 2020-10-23T15:04:13+0000
+/project/pymssql-linux/, pymssql-linux, 2.1.6, DB-API interface to Microsoft SQL Server for Python. (new Cython-based version), 2020-06-06T08:37:17+0000
+/project/mongobox/, mongobox, 0.1.8, Run sandboxed Mongo DB instance from a python application., 2018-10-24T14:00:03+0000
+/project/funnel-web/, funnel-web, 2.0.0, Graph and visualize a module's dependencies., 2016-07-21T12:52:07+0000
+/project/dj-mongo-reader2/, dj-mongo-reader2, 1.2.0, A Django app can be used to query and render MongoDB data, 2019-10-30T07:15:28+0000
+/project/vertica-python/, vertica-python, 1.0.1, A native Python client for the Vertica database., 2020-12-04T11:39:01+0000
+/project/monetdblite/, monetdblite, 0.6.4, Embedded MonetDB Python Database., 2020-05-18T15:47:53+0000
+/project/pg-chameleon-web/, pg-chameleon-web, 0.1.dev0, Web interface for pg_chameleon, 2020-05-01T12:50:00+0000
+/project/wq-db/, wq.db, 1.2.1, Django design patterns and REST API for citizen science field data collection., 2020-09-02T05:10:10+0000
+/project/stellaris/, stellaris, 0.3.2, Stellaris is a metadata management service., 2010-12-21T11:19:18+0000
+/project/data-wizard/, data-wizard, 1.3.0, Interactive web-based wizard for importing structured data into Django models., 2020-02-21T01:06:18+0000
+/project/dw-python-monetdb-async/, dw-python-monetdb-async, 12.0.2, Native MonetDB client Python API, 2018-07-24T18:38:58+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/dbf-read-iffy/, dbf_read_iffy, 1.0.2, Read from dbf's if codepage is unsupported by modules dbf and codecs (895 cz Kamenicky, ..)., 2016-08-18T09:59:19+0000
+/project/ruruki/, ruruki, 1.4.2, Ruruki is a lightweight in-memory graph database which is ideal if you need a temporary graph database, or just doing a proof of concept and need a fast and reliable graph database., 2017-05-20T04:38:22+0000
+/project/egenix-mxodbc/, egenix-mxodbc, 3.3.6, eGenix mxODBC - Python ODBC Database Interface, 2016-11-16T16:42:59+0000
+/project/webapp2-static/, webapp2_static, 0.1, Simple handler to Serve static files on non Google App Engine (GAE) webapp2 environments, 2012-03-22T20:15:55+0000
+/project/preql-lang/, preql-lang, 0.2.1, An interpreted relational query language that compiles to SQL, 2021-03-12T19:46:04+0000
+/project/spws-2010/, SPWS_2010, 0.1.5, Python Interface to SharePoint 2010 Web Services, 2018-01-24T22:47:35+0000
+/project/schevoweb/, SchevoWeb, 1.0a2, Schevo tools for web development, 2006-10-24T20:39:05+0000
+/project/sqlalchemy-paradox/, sqlalchemy-paradox, 0.2.0, A SQLAlchemy dialect for Borland / Corel Paradox flat-file databases., 2021-03-10T18:57:36+0000
+/project/alchemist-stack/, alchemist-stack, 0.1.0.dev1, A Thread-Safe, Multi-Session/Multi-Connection Model-Repository-Context base for SQL Alchemy, 2018-04-24T19:34:08+0000
+/project/pysqlcipher/, pysqlcipher, 2.6.10, DB-API 2.0 interface for SQLCIPHER 3.x, 2017-04-13T18:56:17+0000
+/project/pgorm/, pgorm, 0.0.1, An ambitious PostgreSQL ORM in pure python using dataclasses, type hints, asyncio, 2019-08-08T06:54:15+0000
+/project/sqlalchemy-pydantic-orm/, sqlalchemy-pydantic-orm, 0.1.0, CRUD operations on nested SQLAlchemy ORM-models using Pydantic, 2021-04-25T16:30:30+0000
+/project/neural-search/, neural-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:28:02+0000
+/project/jina-search/, jina-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:35:25+0000
+/project/pybloomfilter/, pybloomfilter, 1.0, bloomfilter for Python, 2009-12-30T07:25:28+0000
+/project/karellen-sqlite/, karellen-sqlite, 0.0.3, Karellen Sqlite Extensions, 2017-01-16T21:25:23+0000
+/project/mysql-python-vincent/, MySQL-python-vincent, 1.2.5, Python interface to MySQL, 2018-10-26T10:45:21+0000
+/project/graphique/, graphique, 0.3, GraphQL service for arrow tables and parquet data sets., 2021-02-01T00:18:01+0000
+/project/efreet/, Efreet, 1.0, Remote Object Daemon Server and Client, 2014-02-25T18:39:57+0000
+/project/image-match-altamente/, image-match-altamente, 1.1.2, image_match is a simple package for finding approximate image matches from a corpus., 2019-08-23T05:48:40+0000
+/project/pgindexrebuild/, pgindexrebuild, 0.16.0, , 2020-01-07T14:32:52+0000
+/project/doqu/, doqu, 0.28.2, Document-query: models for schema-less databases., 2013-01-07T23:46:18+0000
+/project/qrnr/, qrnr, 0.1.0, a tool to issue queries to databases in CLI using sqlalchemy., 2017-10-23T19:28:23+0000
+/project/sasync/, sAsync, 0.9.3, SQLAlchemy done Asynchronously: Twisted-friendly access to an SQL database., 2018-04-21T00:57:03+0000
+/project/lmdb/, lmdb, 1.2.1, Universal Python binding for the LMDB 'Lightning' Database, 2021-04-19T19:17:21+0000
+/project/sqlchain/, sqlchain, 0.2.10, Compact SQL layer for Bitcoin blockchain., 2018-11-10T23:26:16+0000
+/project/poserbox/, poserbox, 0.0.1, Run sandboxed Poser instance from a python application., 2014-09-22T18:25:59+0000
+/project/pymssql-plus/, pymssql-plus, 0.1.1, DB-API interface to Microsoft SQL Server for Python. (new Cython-based version), 2020-12-21T08:20:55+0000
+/project/cockatrice/, cockatrice, 0.7.1, Full text search and indexing server., 2019-01-15T00:02:58+0000
+/project/temboard-agent/, temboard-agent, 7.6, PostgreSQL Remote Control Agent, 2021-02-10T15:35:34+0000
+/project/trajectory/, trajectory, 0.1.1, Trajectory data lossy compression format based on Google's Encoded Polyline Algorithm Format, 2020-02-24T17:31:53+0000
+/project/sqlcipher3-binary/, sqlcipher3-binary, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:19:34+0000
+/project/yamldb/, yamldb, 0.0.13, A database with yaml files as backend, 2021-02-27T13:09:35+0000
+/project/python-utilities-jsm/, python-utilities-jsm, 1.0.2, Myriad python utilities., 2021-04-14T03:11:04+0000
+/project/pynndb2/, pynndb2, 2.2.9, Database library for Python based on LMDB storage engine, 2021-03-21T16:13:01+0000
+/project/sql2csv/, sql2csv, 1.3, Run MySQL and PostgreSQL queries and store result in CSV, 2021-01-13T14:39:40+0000
+/project/arrdem-datalog/, arrdem.datalog, 2.0.1, A Datalog engine, 2020-07-19T14:23:55+0000
+/project/nefertari-mongodb/, nefertari_mongodb, 0.4.2, mongodb engine for nefertari, 2016-05-17T05:37:38+0000
+/project/pg-batch/, pg-batch, 1.1, Run large PostgreSQL UPDATE and DELETE queries with small batches to prevent locks, 2018-05-24T01:47:45+0000
+/project/vera/, vera, 1.0.0, Reference implementation of the ERAV data model for citizen science. ERAV is an extension to EAV with support for maintaining multi-faceted provenance metadata for an entity., 2017-09-14T15:40:58+0000
+/project/submit-cgap/, submit-cgap, 0.7.3, Support for uploading file submissions to the Clinical Genomics Analysis Platform (CGAP)., 2021-01-12T07:58:58+0000
+/project/image-match-tso/, image-match-tso, 1.1.4, image_match_tso is a simple package for finding approximate image matches from a corpus., 2020-08-06T08:16:16+0000
+/project/deet/, deet, 0.1.11, Universal Data Mapper, 2019-09-09T17:36:37+0000
+/project/bigquery-fdw/, bigquery-fdw, 1.8, BigQuery Foreign Data Wrapper for PostgreSQL, 2021-01-23T19:37:00+0000
+/project/sqlalchemy-monetdb/, sqlalchemy_monetdb, 1.0.0, SQLAlchemy dialect for MonetDB, 2017-10-25T13:56:58+0000
+/project/pysqlite3/, pysqlite3, 0.4.6, DB-API 2.0 interface for Sqlite 3.x, 2021-04-06T12:58:04+0000
+/project/graphility/, graphility, 0.0.1, Pure-python NoSQL database., 2020-10-18T15:08:34+0000
+/project/mysqlclient/, mysqlclient, 2.0.3, Python interface to MySQL, 2021-01-01T13:11:39+0000
+/project/mongogrant/, mongogrant, 0.3.1, Generate and grant credentials for MongoDB databases, 2020-03-30T21:50:57+0000
+/project/pynndb2cli/, pynndb2cli, 2.0.5, PyNNDB2 CLI, 2021-03-23T19:02:06+0000
+/project/pyvttbl/, pyvttbl, 0.5.2.2, Multidimensional pivot tables, data processing, statistical computation, 2013-01-31T20:22:44+0000
+/project/maprdb/, maprdb, 0.0.3, API to work with MapR DB. Wrapper of Java API., 2017-08-05T01:17:17+0000
+/project/setix/, setix, 0.8.3, Fast data structures for finding intersecting sets and similar strings, 2014-02-02T18:52:31+0000
+/project/djmodels/, DJModels, 0.0.6, Use Django Models in any Python Web Framework, 2019-02-16T10:36:40+0000
+/project/pymongo-inmemory/, pymongo-inmemory, 0.2.0, A mongo mocking library with an ephemeral MongoDB running in memory., 2021-03-22T21:40:42+0000
+/project/lacquer/, lacquer, 0.1.2, A SQL Parser based on the parser in the presto project, 2017-08-17T20:37:29+0000
+/project/sqlalchemy-helpers/, sqlalchemy_helpers, 0.1.0, Helper functions for comfortable working with SQLAlchemy., 2017-09-18T19:58:06+0000
+/project/lakesuperior/, lakesuperior, 1.0.0a21, A Linked Data Platform repository sever., 2019-04-10T03:36:59+0000
+/project/objectbox/, objectbox, 0.2.0, ObjectBox is a superfast database for objects, 2020-09-09T10:58:48+0000
+/project/upoints/, upoints, 0.12.2, Modules for working with points on Earth, 2014-02-20T21:38:50+0000
+/project/oursql/, oursql, 0.9.3.2, MySQL bindings for python., 2016-05-15T13:20:07+0000
+/project/presto-query-predictor/, presto-query-predictor, 0.1.4, A query predictor pipeline and service to predict resource usages of Presto queries, 2020-09-19T22:20:39+0000
+/project/sqlalchemy-views/, sqlalchemy-views, 0.3.0, Adds CreateView and DropView constructs to SQLAlchemy, 2021-03-31T15:12:30+0000
+/project/tinydb-appengine/, tinydb-appengine, 1.0.6, TinyDB Extension for AppEngine, 2019-02-08T16:22:07+0000
+/project/pybloom-mirror/, pybloom-mirror, 2.0.0, PyBloom: A Probabilistic data structure., 2015-11-19T08:43:48+0000
+/project/siqueries/, siqueries, 1.0.8, Setup wizard and connection client for connecting MySQL/PostgreSQL databases to siqueries.com, 2013-10-03T08:56:53+0000
+/project/tinydb-smartcache/, tinydb-smartcache, 2.0.0, A smarter query cache for TinyDB, 2020-08-25T18:31:08+0000
+/project/elastic-neural-search/, elastic-neural-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:35:12+0000
+/project/models/, models, 0.9.3, Python models for schema-less databases., 2010-02-20T19:44:16+0000
+/project/pymysqlpool/, PyMysqlPool, 1.0.9, python practical mysql pool -motivation from=>[lost connection to MySQL server during query]  base on mysql-connector support fixed | dynamic pool, 2018-05-23T06:58:48+0000
+/project/sql-to-ibis/, sql-to-ibis, 0.4.0, A package for converting sql into ibis expressions, 2021-04-18T17:36:10+0000
+/project/ruruki-eye/, ruruki-eye, 0.1.3, Ruruki Eye is a visualizer for Ruruki (In Memory Graph Tool), 2017-06-08T12:18:33+0000
+/project/pystaggrelite3/, pystaggrelite3, 0.1.3, Pure Python sqlite3 statistics aggregate functions, 2011-05-14T06:12:48+0000
+/project/vivid-node/, vivid-node, 0.5.583, Enterprise Machine-Learning and Predictive Analytics, 2019-09-23T09:24:56+0000
+/project/arrdem-datalog-shell/, arrdem.datalog.shell, 0.0.2, A shell for my datalog engine, 2019-06-18T18:31:42+0000
+/project/pymssql-py38/, pymssql-py38, 2.1.4, DB-API interface to Microsoft SQL Server for Python. (new Cython-based version), 2019-11-12T15:17:04+0000
+/project/pybloom/, pybloom, 1.1, PyBloom: A Probabilistic data structure, 2011-03-13T19:42:35+0000
+/project/minislite/, minislite, 0.99, Mini and Secure SQLite ORM, 2020-04-12T12:22:31+0000
+/project/accessmysqlconverter/, accessmysqlconverter, 2.0.0, A package to convert MS Access (.mdb, .accdb) into a SQL file (Optionally with It's data), 2021-01-09T18:57:59+0000
+/project/mappa/, Mappa, 0.1.0, Topic Maps Engine, 2007-07-01T15:13:13+0000
+/project/r3c/, R3C, 2.1.0, R3C: The Blockchain of confidential data & things., 2019-11-21T22:55:18+0000
+/project/dsdbmanager/, dsdbmanager, 1.0.5, Manage your data science databases, 2020-08-24T17:48:44+0000
+/project/saiive-chain/, saiive.chain, 2.3.1.0, BigchainDB: The Blockchain Database, 2020-12-04T12:37:07+0000
+/project/arbalest/, arbalest, 1.6.2, Arbalest orchestrates bulk data loading for Amazon Redshift, 2015-10-27T13:50:58+0000
+/project/rainstorm/, rainstorm, 0.0.2, A python ORM with an edge, 2016-10-27T22:58:51+0000
+/project/gnes/, gnes, 0.0.47, GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network., 2019-11-06T10:12:58+0000
+/project/agstream/, agstream, 1.0.2, Agriscope python library to access data, 2021-03-31T14:43:06+0000
+/project/omego/, omego, 0.7.0, OME installation and administration tool, 2019-11-11T14:39:34+0000
+/project/huoguoml/, huoguoml, 0.0.1, A platform for managing and serving Machine Learning types., 2021-02-18T19:03:49+0000
+/project/triadb/, triadb, 0.9.0, TRIADB - Self-Service Data Management and Analytics Framework, 2019-10-24T11:36:38+0000
+/project/adhocracy-pysqlite/, adhocracy-pysqlite, 2.6.3, DB-API 2.0 interface for SQLite 3.x, 2013-10-26T14:21:38+0000
+/project/mal-analytics/, mal-analytics, 0.3.0, , 2019-02-21T14:58:32+0000
+/project/agmodeling/, agmodeling, 0.4, Statistical modeling tools, to unify model creation and scoring based on python, 2019-09-02T12:11:51+0000
+/project/trough/, Trough, 0.1.5, , 2020-10-22T21:22:36+0000
+/project/atsd-client/, atsd-client, 3.0.6, Axibase Time Series Database API Client for Python, 2021-03-03T04:47:59+0000
+/project/duckdb/, duckdb, 0.2.5, DuckDB embedded database, 2021-03-10T14:06:31+0000
+/project/mongauth/, mongauth, 1.0.1, User Authentication with MongoDB, 2011-08-29T09:55:13+0000
+/project/probably/, probably, 1.1.2, Probably: Simple Probabilistic Data Structures, 2021-02-26T14:12:20+0000
+/project/target-datadotworld/, target-datadotworld, 1.0.1, Singer target for data.world, 2018-06-08T20:59:13+0000
+/project/flask-ruko/, Flask-Ruko, 1.0.0, A Flask extension to connect to a Ruko database, 2019-07-05T00:15:44+0000
+/project/django-gvar/, django-gvar, 0.1.0a0, Django extension which adds model fields to store multi-dimensional Gaussian random variables., 2020-06-17T16:47:11+0000
+/project/pymodels/, pymodels, 0.18.3, Python models for schema-less databases., 2010-05-01T03:46:34+0000
+/project/hypothesis-sqlalchemy/, hypothesis-sqlalchemy, 0.3.2, ``hypothesis`` strategies for generating ``SQLAlchemy`` objects., 2020-03-12T18:37:51+0000
+/project/pyoxigraph/, pyoxigraph, 0.2.3, Python bindings of Oxigraph, a SPARQL database and RDF toolkit, 2021-04-11T08:40:45+0000
+/project/rockset/, rockset, 0.7.68, Rockset Python Client and `rock` CLI, 2021-02-11T19:08:34+0000
+/project/thinker/, thinker, 1.1.1, Rethinkdb wrapper for asyncio, 2017-06-21T21:28:01+0000
+/project/wafer-thin-mint/, wafer-thin-mint, 1.0.13, client service API DB ORM to connect with a service running TastyPie, 2014-09-25T08:56:06+0000
+/project/repcloud/, repcloud, 0.1a1, PostgreSQL repacker without need, 2019-11-26T15:02:22+0000
+/project/espressodb/, espressodb, 1.2.1, Science database interface using Django as the content manager., 2020-07-27T11:02:59+0000
+/project/tinydb/, tinydb, 4.4.0, TinyDB is a tiny, document oriented database optimized for your happiness :), 2021-02-11T19:31:24+0000
+/project/django-pg-current-timestamp/, django-pg-current-timestamp, 0.2.4, Add true postgresql `CURRENT_TIMESTAMP` support to Django + PostgreSQL, 2014-09-19T21:15:43+0000
+/project/pg-ninja/, pg_ninja, 2.0.0a1, MySQL to PostgreSQL replica and migration, 2018-07-27T14:03:09+0000
+/project/toothpick/, toothpick, 1.8.3, Mapping documents to objects, 2014-04-05T20:47:18+0000
+/project/quit-store/, quit-store, 0.24.0, Distributed Version Control for RDF Knowledge Bases, 2019-12-11T13:19:33+0000
+/project/totable/, totable, 0.1, Cython wrapper for tokyo cabinet table, 2010-01-07T18:10:26+0000
+/project/schevosql/, SchevoSql, 1.0a1, Schevo tools for SQL databases, 2006-06-01T14:42:03+0000
+/project/garuda/, garuda, 0.0.1, Automagically Exposing Djagno ORM over gRPC for microservices written in any other languages, 2018-08-17T06:32:21+0000
+/project/sqlalchemy-dataflex/, sqlalchemy-dataflex, 0.1.5, A SQLAlchemy dialect for DataFlex flat-file databases., 2021-02-10T21:03:52+0000
+/project/rian/, rian, 0.5.583, Enterprise Machine-Learning and Predictive Analytics, 2019-09-10T05:35:00+0000
+/project/pynndb/, pynndb, 1.1.5, Database library for Python based on LMDB storage engine, 2019-12-08T14:49:58+0000
+/project/pgsanity/, pgsanity, 0.2.9, Check syntax of sql for PostgreSQL, 2017-04-24T12:30:26+0000
+/project/datatables-mongoengine/, datatables-mongoengine, 0.1.7, MongoEngine QuerySet class for populating DataTables from MongoEngine., 2021-02-03T13:03:46+0000
+/project/pynndb-shell/, pynndb-shell, 1.0.9, Database library for Python based on LMDB storage engine, 2020-04-21T11:28:16+0000
+/project/mtna-rds/, mtna-rds, 0.2.16, A library to query the Rich Data Services API framework developed by MTNA, 2020-07-16T15:48:33+0000
+/project/optimade/, optimade, 0.14.0, Tools for implementing and consuming OPTIMADE APIs., 2021-03-26T01:56:53+0000
+/project/pgdumplib/, pgdumplib, 3.1.0, Python3 library for working with pg_dump files, 2020-02-06T21:16:59+0000
+/project/key-value-db/, key-value-db, 1.1.7, Light weight package to quickly and easily manage, load, update and save key-value type database, 2020-01-23T12:20:50+0000
+/project/pysqlcipher3/, pysqlcipher3, 1.0.4, DB-API 2.0 interface for SQLCIPHER 3.x, 2021-04-24T22:17:34+0000
+/project/pandb/, pandb, 0.1.11, Universal Data Mapper, 2019-09-09T16:19:06+0000
+/project/opentick/, opentick, 1.2.0, OpenTick SDK, 2019-10-29T06:53:46+0000
+/project/helios-client/, helios-client, 0.3.dev20200304, Pure python 3 module to communicate with a Helios server., 2020-03-05T03:29:52+0000
+/project/schevozodb/, SchevoZodb, 3.1a1, ZODB3 storage backend for Schevo, 2008-01-19T22:21:37+0000
+/project/wsql/, wsql, 1.2.13, Asynchronous Python interface to MySQL, 2016-03-04T10:02:03+0000
+/project/ruko/, ruko, 0.1.2, A dead simple high performance JSON database, 2020-01-10T06:55:17+0000
+/project/pyroclast/, pyroclast, 1.0.1, Basic Python-based data server for exposing flat table and object hierarchy files via REST-ful queries, 2015-12-04T21:26:30+0000
+/project/lbindex/, LBIndex, 0.1.1, Indexer Daemon for the neo-lightbase service, 2013-06-28T19:24:56+0000
+/project/image-match/, image-match, 1.1.2, image_match is a simple package for finding approximate image matches from a corpus., 2017-02-13T14:54:47+0000
+/project/nagios-sql/, nagios-sql, 0.8.1, Nagios plugin with sqlchecks, 2019-12-09T17:27:50+0000
+/project/fooster-db/, fooster-db, 0.9.0, a human-readable, magic database in Python, 2020-10-17T19:00:00+0000
+/project/pysqlite3-binary/, pysqlite3-binary, 0.4.6, DB-API 2.0 interface for Sqlite 3.x, 2021-04-06T13:05:13+0000
+/project/tensorflow-search/, tensorflow-search, 0.6.8, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-14T18:37:59+0000
+/project/aiida-optimade/, aiida-optimade, 0.17.0, Expose an AiiDA database according to the [OPTIMADE API specification](https://www.optimade.org)., 2021-03-05T17:21:50+0000
+/project/oursql3/, oursql3, 0.9.4, MySQL bindings for python., 2016-05-15T13:25:52+0000
+/project/pyspatialite/, pyspatialite, 3.0.1-alpha-0, DB-API 2.0 interface for SQLite 3.x with Spatialite 3.0.1, 2013-11-22T19:21:48+0000
+/project/json-config/, json_config, 2.0.1, A convenience utility for working with JSON config files., 2016-01-01T22:48:56+0000
+/project/unqlite/, unqlite, 0.9.2, Fast Python bindings for the UnQLite embedded NoSQL database., 2020-11-26T16:20:48+0000
+/project/egenix-mxodbc-connect-client/, egenix-mxodbc-connect-client, 2.1.5, eGenix mxODBC Connect Client for Python, 2015-10-23T08:41:04+0000
+/project/vec-search/, vec-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:28:21+0000
+/project/wsql-sdk/, wsql_sdk, 0.3.17, The chain of tools, that to make work with SQL easier, 2016-03-28T10:28:23+0000
+/project/sqlite-rx/, sqlite-rx, 1.0.1, Python SQLite Client and Server, 2020-12-31T21:26:47+0000
+/project/rpq/, rpq, 2.2, Simple Redis work queue with added features (priorities, pop multiple items at once), 2020-02-26T03:06:57+0000
+/project/monitor-mysql-overflows/, monitor-mysql-overflows, 1.1.1, MySQL utilities to detect integer like columns overflows, 2015-03-26T11:01:20+0000
+/project/spinta/, spinta, 0.1.14, A platform for describing, extracting, transforming, loading and serving open data., 2021-04-15T16:25:22+0000
+/project/schevo/, Schevo, 3.0, Next-generation DBMS, 2007-03-21T18:55:08+0000
+/project/libschevo/, libschevo, 4.1, Next-generation Object-Oriented DBMS, 2019-03-31T12:09:41+0000
+/project/snovault/, snovault, 1.0.56, Snovault Hybrid Object Relational Database Framework, 2021-04-08T21:19:36+0000
+/project/pytorch-search/, pytorch-search, 0.6.8, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-14T18:38:42+0000
+/project/cozydb/, cozydb, 0.1.9, cozydb is a cozy mysqlclient wrapper, 2017-09-15T10:53:18+0000
+/project/f2python/, F2python, 1.5.0, The F2 DBMS written in Python. Needs ZODB and ZEO to run., 2017-04-10T19:55:01+0000
+/project/hypertable/, hypertable, 0.9.8.10, Open source C++ Bigtable implementation, 2015-12-23T04:07:26+0000
+/project/sqlibrist/, sqlibrist, 0.1.10, Simple tool for managing DB structure, automating patch creation for DB structure migration., 2016-09-06T08:37:23+0000
+/project/pghoard/, pghoard, 2.1.0, PostgreSQL automatic backup/restore service daemon, 2019-05-27T11:02:41+0000
+/project/mysql-python-embedded/, MySQL-python-embedded, 1.2.7, Python interface to MySQL, 2014-10-14T20:44:42+0000
+/project/sqlcipher3/, sqlcipher3, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:09:48+0000
+/project/pystore/, PyStore, 0.1.22, Fast data store for Pandas timeseries data, 2020-09-27T18:07:23+0000
+/project/match3d/, match3d, 0.0.1, match3d allows you to store and search 3D models (STL files)for similar designs., 2016-05-19T16:10:39+0000
+/project/cache-requests/, cache_requests, 4.0.0, Simple. Powerful. Persistent LRU caching for the requests library., 2015-12-26T04:06:12+0000
+/project/oxrdflib/, oxrdflib, 0.2.0, rdflib stores based on pyoxigraph, 2021-01-07T21:29:09+0000
+/project/pyngrok/, pyngrok, 5.0.5, A Python wrapper for ngrok., 2021-03-26T01:04:59+0000
+/project/pydatalog/, pyDatalog, 0.17.1, A pure-python implementation of Datalog, a truly declarative language derived from Prolog., 2016-01-24T21:36:05+0000
+/project/pytwis/, pytwis, 0.5.1, A twitter-toy-clone backend using Python and Redis, 2018-06-10T07:37:34+0000
+/project/deepint/, deepint, 1.1, deepint is a python package to work with Deep Intelligence in a more easy and intuitive way., 2021-02-26T09:47:06+0000
+/project/yaml-structureddata/, yaml-structureddata, 5.1, A YAML based database with types., 2020-05-28T09:31:22+0000
+/project/eruptr/, eruptr, 20.12.3, Data needs a Makefile., 2020-12-01T12:05:32+0000
+/project/py2neo/, py2neo, 2021.0.1, Python client library and toolkit for Neo4j, 2021-02-22T00:21:36+0000
+/project/dipus/, dipus, 0.0.5, Dipus is a simple full-text search server using Whoosh for Sphinx, 2012-09-05T09:14:25+0000
+/project/sitesync/, sitesync, 1.0.3, Script to sync db and/or data from remote host, 2018-05-10T06:28:39+0000
+/project/pymonetdb/, pymonetdb, 1.4.1, Native MonetDB client Python API, 2020-12-17T13:04:49+0000
+/project/rockset-sqlcli/, rockset-sqlcli, 0.7.68, Rockset SQL REPL for `rock sql`, 2021-02-11T19:08:36+0000
+/project/norman/, norman, 0.7.2, Norman is a framework for advanced data structures in python using
+an database-like approach.  The range of potential applications is wide,
+for example in-memory databases, multi-keyed dictionaries or node graphs., 2014-02-20T09:54:10+0000
+/project/redisobjects/, redisobjects, 0.7.8, Object-oriented wrapper for aioredis., 2019-10-06T18:33:10+0000
+/project/jardin/, jardin, 0.22.5, A Pandas dataframe-based ORM, 2021-03-23T09:33:23+0000
+/project/phen/, phen, 0.2.1, Decentralized platform for social applications, 2015-12-31T21:25:15+0000
+/project/breezedb/, breezedb, 1.2.0, A simple file-based database engine, 2014-01-01T20:31:48+0000
+/project/spatialite/, spatialite, 0.0.3, Wrapper of sqlite3 module which adds SpatiaLite support., 2019-02-25T11:49:13+0000
+/project/pglookout/, pglookout, 1.4.0, PostgreSQL replication monitoring and failover daemon, 2017-06-08T07:43:17+0000
+/project/mastertables/, mastertables, 1.1.0, A Python package to interact with the mastertables.athento.com public API, 2018-07-10T09:52:47+0000
+/project/pybloom-live/, pybloom_live, 3.0.0, Bloom filter: A Probabilistic data structure, 2018-07-22T09:20:07+0000
+/project/python-tkvdb/, python-tkvdb, 0.1.0, Cython wrapper for tkvdb radix trie key-value database, 2021-04-13T22:36:04+0000
+/project/pymamba/, pymamba, 0.3.0, Database library for Python based on LMDB storage engine, 2017-09-21T15:47:40+0000
+/project/pympx/, PyMPX, 1.1.8, Metapraxis Empower python API, 2020-08-25T10:33:51+0000
+/project/mysql-batch/, mysql-batch, 1.2, Run large MySQL UPDATE and DELETE queries with small batches to prevent table/row-level locks, 2018-05-24T01:19:01+0000
+/project/sitesync/, sitesync, 1.0.3, Script to sync db and/or data from remote host, 2018-05-10T06:28:39+0000
+/project/pymonetdb/, pymonetdb, 1.4.1, Native MonetDB client Python API, 2020-12-17T13:04:49+0000
+/project/rockset-sqlcli/, rockset-sqlcli, 0.7.68, Rockset SQL REPL for `rock sql`, 2021-02-11T19:08:36+0000
+/project/norman/, norman, 0.7.2, Norman is a framework for advanced data structures in python using
+an database-like approach.  The range of potential applications is wide,
+for example in-memory databases, multi-keyed dictionaries or node graphs., 2014-02-20T09:54:10+0000
+/project/redisobjects/, redisobjects, 0.7.8, Object-oriented wrapper for aioredis., 2019-10-06T18:33:10+0000
+/project/jardin/, jardin, 0.22.5, A Pandas dataframe-based ORM, 2021-03-23T09:33:23+0000
+/project/pglookout/, pglookout, 1.4.0, PostgreSQL replication monitoring and failover daemon, 2017-06-08T07:43:17+0000
+/project/mastertables/, mastertables, 1.1.0, A Python package to interact with the mastertables.athento.com public API, 2018-07-10T09:52:47+0000
+/project/pybloom-live/, pybloom_live, 3.0.0, Bloom filter: A Probabilistic data structure, 2018-07-22T09:20:07+0000
+/project/python-tkvdb/, python-tkvdb, 0.1.0, Cython wrapper for tkvdb radix trie key-value database, 2021-04-13T22:36:04+0000
+/project/pymamba/, pymamba, 0.3.0, Database library for Python based on LMDB storage engine, 2017-09-21T15:47:40+0000
+/project/pympx/, PyMPX, 1.1.8, Metapraxis Empower python API, 2020-08-25T10:33:51+0000
+/project/mysql-batch/, mysql-batch, 1.2, Run large MySQL UPDATE and DELETE queries with small batches to prevent table/row-level locks, 2018-05-24T01:19:01+0000
+/project/dwcontents/, dwcontents, 1.0.0b5, Jupyter contents manager for data.world, 2018-04-09T20:52:50+0000
+/project/gina/, gina, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:27:28+0000
+/project/pg-chameleon/, pg-chameleon, 2.0.16, MySQL to PostgreSQL replica and migration, 2020-09-23T16:21:24+0000
+/project/plyvel-win32/, plyvel-win32, 1.3.0, Plyvel, a fast and feature-rich Python interface to LevelDB, 2021-01-22T07:02:34+0000
+/project/twindb-table-compare/, twindb-table-compare, 3.0.3, TwinDB Table Compare reads percona.checksums from the master and slave and shows what records are difference if there are any inconsistencies., 2020-09-13T22:18:29+0000
+/project/wiki-monkey/, wiki-monkey, 5.3.0, Wiki Monkey - MediaWiki bot and editor-assistant user script., 2021-04-15T09:25:31+0000
+/project/deepdesk/, DeepDesk, 0.1.2, Flexible data storage, with indexing, templates and validation, 2014-05-10T21:09:16+0000
+/project/django-ewiz/, django-ewiz, 1.5.4, A non-relational Django database backend that utilizes EnterpriseWizard's REST interface., 2016-04-29T20:52:32+0000
+/project/pyfilemaker/, PyFileMaker, 3.3, Python Object Wrapper for FileMaker Server XML Interface, 2016-03-08T13:57:55+0000
+/project/bigchaindb/, BigchainDB, 2.2.2, BigchainDB: The Blockchain Database, 2020-09-29T16:54:13+0000
+/project/tap-typo/, tap-typo, 0.2.0, Typo is the intelligent data quality barrier for enterprise information systems. The Typo tap retrieves results and data from the Typo platform., 2020-05-08T14:31:57+0000
+/project/swcdb/, swcdb, 0.4.19.0, The SWC-DB Python Package, 2021-03-24T12:13:45+0000
+/project/python-lmdb/, python-lmdb, 1.0.0b1, simple lmdb bindings written using ctypes, 2013-09-17T13:31:03+0000
+/project/pgawedge/, pgawedge, 0.2.0, sqlalchemy postgresql adapter and utilities., 2018-10-26T18:39:45+0000
+/project/nanodb/, nanodb, 0.4.3, In memory database for geolocated and temporal data, 2014-12-24T04:39:55+0000
+/project/target-typo/, target-typo, 0.1.0, Typo is the intelligent data quality barrier for enterprise information systems. The Typo target communicates with Singer taps, and consumes data that conforms to the Singer JSON specification., 2019-12-30T23:12:00+0000
+/project/mysql-python-glb/, MySQL-python-glb, 1.2.6, Python interface to MySQL, 2015-02-02T19:51:57+0000
+/project/caterpillar/, caterpillar, 0.15.10, Text retrieval and analytics engine., 2019-02-13T02:10:53+0000
+/project/schevowsgi/, SchevoWsgi, 1.0a1, Schevo tools for WSGI, 2008-01-20T16:02:17+0000
+/project/twitabit/, Twitabit, 1.0a1, Simple example application using Schevo, 2008-01-19T19:19:50+0000
+/project/schevogears/, SchevoGears, 1.0a1, Schevo tools for TurboGears, 2006-06-01T14:41:40+0000
+/project/konfiger/, konfiger, 1.2.4, Light weight package to manage key value based configuration and data files for Python, 2020-08-22T17:34:47+0000
+/project/py-mdbm/, py-mdbm, 0.1.0a, The Python interface to the MDBM key-value store., 2018-01-23T14:05:25+0000
+/project/grout/, grout, 2.0.1, A flexible schema framework for geospatial data., 2019-01-24T20:00:07+0000
+/project/pypreval/, PyPreval, 0.0.0, object prevalence service, 2008-02-21T13:39:03+0000
+/project/sqlite3dict/, sqlite3dict, 1.0.1, Wrapper around sqlite3 to work with dictionaries, 2020-03-02T12:01:09+0000
+/project/pymlx/, pymlx, 0.1.1, Yet another machine learning framework, 2018-09-19T06:44:31+0000
+/project/mongomultimaster/, MongoMultiMaster, 0.0.4dev, Multimaster replication for MongoDB, 2012-07-13T16:05:47+0000
+/project/vivid-db/, vivid-db, 0.1.11, Universal Data Mapper, 2019-09-23T11:48:57+0000
+/project/yas3/, yas3, 1.0, Yet another simple S3 management tool for python., 2020-11-03T17:33:44+0000
+/project/filedict/, filedict, 0.0.8, Fast & simple key-value storage., 2016-12-27T22:33:25+0000
+/project/nefertari-sqla/, nefertari_sqla, 0.4.2, sqla engine for nefertari, 2016-05-17T05:37:33+0000
+/project/wq/, wq, 1.2.1, A modular framework for citizen science field data collection via offline-capable mobile web apps., 2020-09-02T08:14:40+0000
+/project/pyarango/, pyArango, 1.3.4, An easy to use python driver for ArangoDB with built-in validation, 2020-03-24T04:58:11+0000
+/project/temboard/, temboard, 7.6, temBoard User Interface., 2021-02-10T15:28:11+0000
+/project/mysql-client/, mysql-client, 0.0.1, A modern mysql client driver for modern python, 2019-03-20T01:23:16+0000
+/project/temporenc/, temporenc, 0.1.0, Python library for the temporenc format, 2014-10-24T14:54:28+0000
+/project/wallace/, Wallace, 0.9.1, An API for modeling data with psycopg2, redis-py, and pymongo., 2017-03-08T04:46:37+0000
+/project/mongo-datatables/, mongo-datatables, 0.3.0, Classes for connecting DataTables and Editor to MongoDB, 2019-07-17T17:50:51+0000
+/project/mytsgraph/, mytsgraph, 1.0.1, MySQL table space monitoring., 2017-01-19T15:30:04+0000
+/project/dj-mongo-reader/, dj-mongo-reader, 0.98, A Django app can be used to query and render MongoDB data, 2015-10-06T18:22:22+0000
+/project/copycat/, copycat, 0.2a, copycat - simple, transparent and non-intrusive python persistence, 2011-04-20T20:16:40+0000
+/project/cubrid-python/, CUBRID-Python, 9.3.0, This is a Python Connector for CUBRID Database 9.3.0, 2014-05-15T10:25:39+0000
+/project/pymssql-nikcub/, pymssql-nikcub, 2.2.0, DB-API interface to Microsoft SQL Server for Python. (new Cython-based version), 2017-03-12T16:25:11+0000
+/project/chronicdb/, chronicdb, 3.7.4, The ChronicDB command-line client., 2012-03-21T23:48:46+0000
+/project/powderbooking/, powderbooking, 0.6.0, RESTful API backend for the Powderbooking application, 2021-01-08T23:24:12+0000
+/project/django-ewiz/, django-ewiz, 1.5.4, A non-relational Django database backend that utilizes EnterpriseWizard's REST interface., 2016-04-29T20:52:32+0000
+/project/pyfilemaker/, PyFileMaker, 3.3, Python Object Wrapper for FileMaker Server XML Interface, 2016-03-08T13:57:55+0000
+/project/bigchaindb/, BigchainDB, 2.2.2, BigchainDB: The Blockchain Database, 2020-09-29T16:54:13+0000
+/project/oxrdflib/, oxrdflib, 0.2.0, rdflib stores based on pyoxigraph, 2021-01-07T21:29:09+0000
+/project/phen/, phen, 0.2.1, Decentralized platform for social applications, 2015-12-31T21:25:15+0000
+/project/breezedb/, breezedb, 1.2.0, A simple file-based database engine, 2014-01-01T20:31:48+0000
+/project/spatialite/, spatialite, 0.0.3, Wrapper of sqlite3 module which adds SpatiaLite support., 2019-02-25T11:49:13+0000
+/project/docu/, docu, 0.24.0, Python models for schema-less databases., 2010-09-16T18:08:31+0000
+/project/spinta/, spinta, 0.1.14, A platform for describing, extracting, transforming, loading and serving open data., 2021-04-15T16:25:22+0000
+/project/schevo/, Schevo, 3.0, Next-generation DBMS, 2007-03-21T18:55:08+0000
+/project/libschevo/, libschevo, 4.1, Next-generation Object-Oriented DBMS, 2019-03-31T12:09:41+0000
+/project/snovault/, snovault, 1.0.56, Snovault Hybrid Object Relational Database Framework, 2021-04-08T21:19:36+0000
+/project/pytorch-search/, pytorch-search, 0.6.8, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-14T18:38:42+0000
+/project/cozydb/, cozydb, 0.1.9, cozydb is a cozy mysqlclient wrapper, 2017-09-15T10:53:18+0000
+/project/f2python/, F2python, 1.5.0, The F2 DBMS written in Python. Needs ZODB and ZEO to run., 2017-04-10T19:55:01+0000
+/project/hypertable/, hypertable, 0.9.8.10, Open source C++ Bigtable implementation, 2015-12-23T04:07:26+0000
+/project/sqlibrist/, sqlibrist, 0.1.10, Simple tool for managing DB structure, automating patch creation for DB structure migration., 2016-09-06T08:37:23+0000
+/project/pghoard/, pghoard, 2.1.0, PostgreSQL automatic backup/restore service daemon, 2019-05-27T11:02:41+0000
+/project/mysql-python-embedded/, MySQL-python-embedded, 1.2.7, Python interface to MySQL, 2014-10-14T20:44:42+0000
+/project/sqlcipher3/, sqlcipher3, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:09:48+0000
+/project/pystore/, PyStore, 0.1.22, Fast data store for Pandas timeseries data, 2020-09-27T18:07:23+0000
+/project/match3d/, match3d, 0.0.1, match3d allows you to store and search 3D models (STL files)for similar designs., 2016-05-19T16:10:39+0000
+/project/cache-requests/, cache_requests, 4.0.0, Simple. Powerful. Persistent LRU caching for the requests library., 2015-12-26T04:06:12+0000
+/project/jina/, jina, 1.1.10, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2021-04-25T23:04:12+0000

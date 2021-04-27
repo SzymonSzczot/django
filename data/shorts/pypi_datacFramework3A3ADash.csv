@@ -1,0 +1,222 @@
+/project/dash-extensions/, dash-extensions, 0.0.53, Extensions for Plotly Dash., 2021-04-24T14:08:22+0000
+/project/dash-echarts/, dash-echarts, 0.0.9, echarts for dash, 2021-04-19T22:57:01+0000
+/project/datepicker-by-inclusion/, datepicker-by-inclusion, 0.0.2, Adapts react-datepicker for use in Dash, specifically to bring in the includeDates functionality, 2020-06-21T16:56:21+0000
+/project/databricks-dash/, databricks-dash, 0.0.1, A Public stub for databricks-dash by Plotly, 2021-03-06T00:31:07+0000
+/project/dash-renderjson/, dash-renderjson, 0.0.1, Render dicts/json files with Dash, 2020-07-20T11:18:21+0000
+/project/dash-tokamak/, dash-tokamak, 1.6.0, Dash without the annoying bits. Main goals of this fork are (1) to enable Python to write state data to arbitrary component props, not just ones defined by a specific component; and (2) support React-style functional property values by binding unary functional expressions to the global application state, executing them whenever the property is accessed., 2019-11-13T20:05:20+0000
+/project/dash-arcgis/, dash-arcgis, 0.0.1, A Public stub for dash-arcgis by Plotly, 2021-03-06T00:29:37+0000
+/project/dash-mp-components/, dash-mp-components, 0.2.11, Dash components for the Materials Project, 2021-04-14T18:19:26+0000
+/project/dash-react-wordcloud/, dash-react-wordcloud, 0.0.1, A Dash wrapper for react-wordcloud by chrisrzhou (https://github.com/chrisrzhou/react-wordcloud), which itself is a React wrapper for D3 Wordcloud (https://www.d3-graph-gallery.com/wordcloud)., 2020-05-22T18:26:21+0000
+/project/dash-transcrypt/, dash-transcrypt, 0.0.6, Transcrypt bindings for Plotly Dash., 2020-09-03T18:56:38+0000
+/project/apexdash/, apexdash, 0.0.2, Project Description, 2020-11-04T10:08:47+0000
+/project/date-filter-dash/, date-filter-dash, 0.0.6, the dash date filter, 2021-03-01T12:20:48+0000
+/project/dapitokc/, dapitokc, 0.0.4, Passes a token from any browser to dash server, 2020-10-22T12:02:35+0000
+/project/explainerdashboard/, explainerdashboard, 0.3.4, Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models., 2021-04-13T18:16:10+0000
+/project/dash-traverser-component/, dash-traverser-component, 0.0.2, A dash component for visulising an MDSplus (https://www.mdsplus.org/) database, 2020-11-14T16:31:46+0000
+/project/porta-play/, porta-play, 0.0.1, An advanced media player for plotly dash., 2021-03-25T03:09:08+0000
+/project/submit-button/, submit-button, 0.0.1, the submit button, 2021-03-04T07:57:03+0000
+/project/dash-user-analytics/, dash-user-analytics, 0.0.1, A Public stub for dash-user-analytics by Plotly, 2021-03-06T00:30:48+0000
+/project/react-table-dash/, react-table-dash, 0.0.3, Dash component based on React Table v6, 2020-02-24T18:16:34+0000
+/project/dash-carbon-components/, dash-carbon-components, 0.1.1, Dash Components using IBM's Carbon Design System https://github.com/carbon-design-system, 2021-04-23T19:02:21+0000
+/project/random-publication-test/, random-publication-test, 0.0.5, Project Description, 2020-03-10T00:06:04+0000
+/project/dash-deck/, dash-deck, 0.0.1, A Dash Component wrapping deck.gl, 2020-09-04T01:40:28+0000
+/project/webviz-subsurface-components/, webviz-subsurface-components, 0.4.1, Custom Dash components for use in Webviz, 2021-02-19T12:30:19+0000
+/project/dash-useful-components/, dash-useful-components, 0.1.0, Additional useful components for Dash, 2020-07-16T14:54:53+0000
+/project/pivot-table/, pivot-table, 0.0.1, the pivot dash component, 2021-04-22T13:34:04+0000
+/project/vcp-beuth/, vcp-beuth, 0.0.1, Project Description, 2020-06-26T12:23:40+0000
+/project/example-component/, example-component, 0.0.1, Project Description, 2020-03-27T14:28:00+0000
+/project/dash-keyed-file-browser/, dash-keyed-file-browser, 0.0.2, Dash Component for react-keyed-file-browser, 2020-05-16T22:49:00+0000
+/project/dash-cool-components/, dash-cool-components, 0.1.5, Cool React components, wrapped for Plotly Dash, 2020-12-07T12:17:10+0000
+/project/dash-notes/, dash-notes, 0.0.1, A Public stub for dash-notes by Plotly, 2021-03-04T03:09:47+0000
+/project/dash-ant-design-components/, dash-ant-design-components, 0.0.2, AntDesign components for Plotly Dash, 2020-10-27T06:05:42+0000
+/project/webviz-core-components/, webviz-core-components, 0.3.2, Core components for webviz-config, 2021-04-09T13:57:41+0000
+/project/dash-extendable-graph/, dash-extendable-graph, 1.3.0, A Dash Graph component modified to support use of figure.data-structured input to extend and/or add traces., 2021-04-17T14:33:18+0000
+/project/dash-devextreme/, dash-devextreme, 0.14.14, Wrapper of DevExtreme components for Plotly Dash, 2021-04-15T10:46:19+0000
+/project/dash-treebeard/, dash-treebeard, 0.0.1, Dash Tree View Component. Data-Driven, Fast, Efficient and Customisable. Based on react-treebeard., 2020-01-24T11:10:03+0000
+/project/mcldashauthfb/, mcldashauthfb, 0.0.1, facebook authentication for dash, 2020-01-26T00:53:26+0000
+/project/dash-update-data-components/, dash-update-data-components, 0.0.1, This is a library to update multiples traces in one graph using dash plotly in python, 2020-07-10T16:33:23+0000
+/project/denis-dash-components/, denis-dash-components, 0.0.1, A few components, not yet available, 2020-10-26T12:30:39+0000
+/project/dash-lumino-components/, dash-lumino-components, 0.0.5, Lumino (JupyterLab) components for Plotly Dash, 2020-11-29T16:33:40+0000
+/project/dash-dthree/, dash-dthree, 0.0.9, a leaflet module to be used visualizing animation polylines in dash(ps.the name dash_dthree was made wrong), 2021-03-29T00:59:39+0000
+/project/dash-rabix/, dash-rabix, 0.0.1, Dash component for viewing CWL workflows using Rabix SVG., 2020-03-02T19:50:46+0000
+/project/jupyter-plotly-dash/, jupyter-plotly-dash, 0.4.3, Interactive Jupyter use of plotly dash apps, 2021-01-07T02:40:42+0000
+/project/dash-embedded/, dash-embedded, 0.0.1, A Public stub for dash-embedded by Plotly, 2021-03-06T00:30:10+0000
+/project/musicfox-dash-components/, musicfox-dash-components, 0.0.70, Dash components from your favorite mmusic valuation software company [Musicfox](https://musicfox.io), 2020-02-17T03:05:55+0000
+/project/dpd-uploader/, dpd-uploader, 2.1.1, Django Plotly Dash Uploader Component for Large Files using Resumablejs, 2020-12-26T22:20:25+0000
+/project/dash-chakraui-components/, dash-chakraui-components, 0.0.4, Chakra UI components for Dash, 2021-03-29T13:49:26+0000
+/project/infinite-scroll-boolean/, infinite-scroll-boolean, 0.0.1, Boolean waypoint component for infinite scrolling in dash, 2020-07-29T16:53:56+0000
+/project/materialdashboard/, materialdashboard, 0.3.0, Dashboard with a material design, 2021-03-03T20:39:16+0000
+/project/htexpr/, htexpr, 0.1.0, htexpr compiles an html string into a Python expression, 2020-06-21T19:24:38+0000
+/project/dash-antd-components/, dash-antd-components, 0.0.1rc2, Antd components for Plotly Dash, 2020-04-17T12:45:34+0000
+/project/dash-editor/, dash-editor, 0.0.2, the chart editor, 2020-12-15T12:34:48+0000
+/project/date-range-filter/, date-range-filter, 0.0.2, pick the time filter and range filter, 2020-10-27T06:46:44+0000
+/project/webviz-config/, webviz-config, 0.2.9, Configuration file support for webviz, 2021-02-23T19:14:37+0000
+/project/dashforfaceauth/, dashforfaceauth, 0.0.1, dash for facebook authentication, 2020-01-25T22:30:21+0000
+/project/idom-dash/, idom-dash, 0.0.3, A custom component for Dash that uses IDOM, 2021-04-02T19:41:16+0000
+/project/dash-interactive-graphviz/, dash-interactive-graphviz, 0.3.0, An interactive graphviz viewer for Dash, 2021-01-24T20:04:00+0000
+/project/dash-draggable/, dash-draggable, 0.0.2, A Dash component for building draggable and resizable grid layouts. Based on the wel known react-grid-layout., 2021-01-09T14:23:08+0000
+/project/dash-split-pane/, dash-split-pane, 1.0.0, A split pane for dash based on react split pane., 2019-12-11T13:39:52+0000
+/project/dash-bootstrap-components/, dash-bootstrap-components, 0.12.0, Bootstrap themed components for use in Plotly Dash, 2021-03-21T18:12:32+0000
+/project/vis-sunburst-clock/, vis-sunburst-clock, 0.0.2, Project Description, 2021-03-21T09:32:52+0000
+/project/simpledash/, simpledash, 0.2.2, Library to simplify building Plotly Dash applications, 2020-03-08T19:52:56+0000
+/project/dwcl/, dwcl, 1.0.3, A Dash Component that catches a the window close event and updates it's status. This can be used to stop the Dash server when the user closes his window, which is useful when using Dash apps as part of a multi step a workflow., 2021-01-13T07:13:37+0000
+/project/webviz-subsurface/, webviz-subsurface, 0.2.0, Webviz config plugins for subsurface data, 2021-03-28T21:11:08+0000
+/project/dash-labs/, dash-labs, 0.1.0, Experimental enhancements for potential inclusion in Dash, 2021-04-16T11:37:28+0000
+/project/dash-design-kit/, dash-design-kit, 0.0.1, A Public stub for dash-design-kit by Plotly, 2021-03-06T00:29:57+0000
+/project/dash-archer/, dash-archer, 0.1.0, Dash component for react-archer, 2019-12-05T15:28:13+0000
+/project/dash-facebook-login/, dash-facebook-login, 0.0.2, A Facebook Login component for Plotly Dash, 2020-11-06T19:53:19+0000
+/project/dash-material-ui/, dash-material-ui, 0.1.2, Material UI components for Dash, 2020-12-29T17:43:31+0000
+/project/nx-graph/, nx-graph, 0.0.1, Project Description, 2020-11-19T14:06:51+0000
+/project/vega-component/, vega-component, 0.0.1, A component to render vega specs, 2020-09-25T07:49:05+0000
+/project/dash-textarea-autocomplete/, dash-textarea-autocomplete, 1.0.1, Dash component wrapper for `react-textarea-autocomplete`, 2021-04-14T13:33:07+0000
+/project/zhy-dash-comp/, zhy-dash-comp, 0.0.2, Project Description, 2020-02-24T05:11:40+0000
+/project/dash-ace/, dash-ace, 0.2.1, Dash Ace Editor Component, 2020-01-04T18:34:50+0000
+/project/modellogger/, modellogger, 0.2.3, Modelloger is a Python library for storing model's profile and rapid inter model comparision., 2020-06-13T20:20:03+0000
+/project/dash-heatmap/, dash-heatmap, 0.0.1, Warehouse product moves heatmap, 2020-07-31T15:35:50+0000
+/project/django-plotly-dash/, django-plotly-dash, 1.6.3, Django use of plotly dash apps through template tags, 2021-03-28T06:21:00+0000
+/project/dash-obj-in-3dmesh/, dash-obj-in-3dmesh, 0.4.0, Some tools for getting Wavefront OBJ files into a Plotly Dash 3dmesh graph, 2020-06-07T04:04:44+0000
+/project/dash-google-charts/, dash-google-charts, 0.0.3, Google Charts for Plotly Dash, 2020-05-08T07:06:12+0000
+/project/dash-video-component/, dash-video-component, 0.0.1, Video Component for Dash, 2020-03-01T13:59:57+0000
+/project/zdc/, zdc, 0.0.2, Custom component from antd, 2020-04-12T12:36:30+0000
+/project/dash-mqtt/, dash-mqtt, 0.0.2, dash_mqtt is a Dash component library for adding MQTT messaging functionality to your Dash apps., 2021-01-19T05:25:52+0000
+/project/dash-component-unload/, dash-component-unload, 0.0.2, Simple dash component to listen on unload event, 2020-06-19T14:42:32+0000
+/project/dash-simple-map/, dash-simple-map, 0.0.3, Project Description, 2021-03-08T14:34:19+0000
+/project/select-filter/, select-filter, 0.0.3, the selected date filter, 2021-04-10T09:15:15+0000
+/project/dj-plotly-dash/, dj-plotly-dash, 0.17.0, A Python framework for building reactive web-apps. Developed by Plotly., 2020-12-17T21:26:19+0000
+/project/cook-components/, cook-components, 0.0.1, cook medical project dash components, 2020-07-09T13:22:20+0000
+/project/dash-editable-div/, dash-editable-div, 0.0.2, Editable HTML component for enhanced TextArea components, 2021-01-31T20:53:09+0000
+/project/interactivemap/, interactivemap, 0.0.1, interactive world Map with zoom and selecting functions, 2020-08-02T20:12:53+0000
+/project/dash-snapshots/, dash-snapshots, 0.0.1, A Public stub for dash-snapshots by Plotly, 2021-03-06T00:30:26+0000
+/project/dash-ant-design-date-picker/, dash-ant-design-date-picker, 0.0.2, Date range picker for Dash, based on Ant Design's RangePicker, 2020-05-24T13:10:44+0000
+/project/dash-extra-ui-components/, dash-extra-ui-components, 0.0.2, A collection of useful UI components for building interactive Dash applications., 2020-04-28T18:32:05+0000
+/project/dash-tabulator/, dash-tabulator, 0.4.2, Dash Plotly component providing Tabulator tables, 2021-02-28T23:35:10+0000
+/project/dash-grid/, dash-grid, 0.0.7, the grid of the dash, 2021-03-08T08:01:48+0000
+/project/dash-dropdown-tree-select/, dash-dropdown-tree-select, 1.0.0, A Dash component for react-dropdown-tree-select, 2020-12-27T17:25:01+0000
+/project/dash-mention-input/, dash-mention-input, 0.0.6, Input with @mention support, 2020-06-15T08:06:44+0000
+/project/dash-shap-components/, dash-shap-components, 0.0.2, Wrapper for using shap plots with dash, 2021-02-21T09:39:35+0000
+/project/dash-calendar/, dash-calendar, 0.0.3, a calendar datepicker component for dash, 2021-03-28T05:41:12+0000
+/project/steinloss/, steinloss, 0.3.6, Package loss measuring tool, 2021-01-29T10:12:50+0000
+/project/vote-card/, vote-card, 0.0.1, Custom voting component, 2020-02-12T19:49:35+0000
+/project/dash-ace-persistent/, dash-ace-persistent, 0.3.4, Dash Ace Editor Component with persistence, 2020-04-03T23:07:09+0000
+/project/echarts-integration/, echarts-integration, 0.0.1, Add a echarts component to load json data, 2020-08-06T19:46:33+0000
+/project/dash-jsme/, dash-jsme, 0.0.3, Project Description, 2020-11-23T17:30:58+0000
+/project/dash-calendar/, dash-calendar, 0.0.3, a calendar datepicker component for dash, 2021-03-28T05:41:12+0000
+/project/dash-extra-ui-components/, dash-extra-ui-components, 0.0.2, A collection of useful UI components for building interactive Dash applications., 2020-04-28T18:32:05+0000
+/project/dash-editable-div/, dash-editable-div, 0.0.2, Editable HTML component for enhanced TextArea components, 2021-01-31T20:53:09+0000
+/project/interactivemap/, interactivemap, 0.0.1, interactive world Map with zoom and selecting functions, 2020-08-02T20:12:53+0000
+/project/dash-snapshots/, dash-snapshots, 0.0.1, A Public stub for dash-snapshots by Plotly, 2021-03-06T00:30:26+0000
+/project/dash-ant-design-date-picker/, dash-ant-design-date-picker, 0.0.2, Date range picker for Dash, based on Ant Design's RangePicker, 2020-05-24T13:10:44+0000
+/project/dj-plotly-dash/, dj-plotly-dash, 0.17.0, A Python framework for building reactive web-apps. Developed by Plotly., 2020-12-17T21:26:19+0000
+/project/cook-components/, cook-components, 0.0.1, cook medical project dash components, 2020-07-09T13:22:20+0000
+/project/dash-uploader/, dash-uploader, 0.5.0, Upload large files using resumable.js, 2021-04-25T21:43:33+0000
+/project/dash-extensions/, dash-extensions, 0.0.53, Extensions for Plotly Dash., 2021-04-24T14:08:22+0000
+/project/dash-echarts/, dash-echarts, 0.0.9, echarts for dash, 2021-04-19T22:57:01+0000
+/project/datepicker-by-inclusion/, datepicker-by-inclusion, 0.0.2, Adapts react-datepicker for use in Dash, specifically to bring in the includeDates functionality, 2020-06-21T16:56:21+0000
+/project/databricks-dash/, databricks-dash, 0.0.1, A Public stub for databricks-dash by Plotly, 2021-03-06T00:31:07+0000
+/project/dash-renderjson/, dash-renderjson, 0.0.1, Render dicts/json files with Dash, 2020-07-20T11:18:21+0000
+/project/dash-tokamak/, dash-tokamak, 1.6.0, Dash without the annoying bits. Main goals of this fork are (1) to enable Python to write state data to arbitrary component props, not just ones defined by a specific component; and (2) support React-style functional property values by binding unary functional expressions to the global application state, executing them whenever the property is accessed., 2019-11-13T20:05:20+0000
+/project/explainerdashboard/, explainerdashboard, 0.3.4, Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models., 2021-04-13T18:16:10+0000
+/project/react-table-dash/, react-table-dash, 0.0.3, Dash component based on React Table v6, 2020-02-24T18:16:34+0000
+/project/date-filter-dash/, date-filter-dash, 0.0.6, the dash date filter, 2021-03-01T12:20:48+0000
+/project/dapitokc/, dapitokc, 0.0.4, Passes a token from any browser to dash server, 2020-10-22T12:02:35+0000
+/project/dash-traverser-component/, dash-traverser-component, 0.0.2, A dash component for visulising an MDSplus (https://www.mdsplus.org/) database, 2020-11-14T16:31:46+0000
+/project/porta-play/, porta-play, 0.0.1, An advanced media player for plotly dash., 2021-03-25T03:09:08+0000
+/project/submit-button/, submit-button, 0.0.1, the submit button, 2021-03-04T07:57:03+0000
+/project/dash-user-analytics/, dash-user-analytics, 0.0.1, A Public stub for dash-user-analytics by Plotly, 2021-03-06T00:30:48+0000
+/project/dash-arcgis/, dash-arcgis, 0.0.1, A Public stub for dash-arcgis by Plotly, 2021-03-06T00:29:37+0000
+/project/dash-mp-components/, dash-mp-components, 0.2.11, Dash components for the Materials Project, 2021-04-14T18:19:26+0000
+/project/dash-react-wordcloud/, dash-react-wordcloud, 0.0.1, A Dash wrapper for react-wordcloud by chrisrzhou (https://github.com/chrisrzhou/react-wordcloud), which itself is a React wrapper for D3 Wordcloud (https://www.d3-graph-gallery.com/wordcloud)., 2020-05-22T18:26:21+0000
+/project/dash-transcrypt/, dash-transcrypt, 0.0.6, Transcrypt bindings for Plotly Dash., 2020-09-03T18:56:38+0000
+/project/apexdash/, apexdash, 0.0.2, Project Description, 2020-11-04T10:08:47+0000
+/project/dash-carbon-components/, dash-carbon-components, 0.1.1, Dash Components using IBM's Carbon Design System https://github.com/carbon-design-system, 2021-04-23T19:02:21+0000
+/project/random-publication-test/, random-publication-test, 0.0.5, Project Description, 2020-03-10T00:06:04+0000
+/project/dash-deck/, dash-deck, 0.0.1, A Dash Component wrapping deck.gl, 2020-09-04T01:40:28+0000
+/project/date-range-filter/, date-range-filter, 0.0.2, pick the time filter and range filter, 2020-10-27T06:46:44+0000
+/project/webviz-config/, webviz-config, 0.2.9, Configuration file support for webviz, 2021-02-23T19:14:37+0000
+/project/dash-keyed-file-browser/, dash-keyed-file-browser, 0.0.2, Dash Component for react-keyed-file-browser, 2020-05-16T22:49:00+0000
+/project/dash-cool-components/, dash-cool-components, 0.1.5, Cool React components, wrapped for Plotly Dash, 2020-12-07T12:17:10+0000
+/project/dash-notes/, dash-notes, 0.0.1, A Public stub for dash-notes by Plotly, 2021-03-04T03:09:47+0000
+/project/dashforfaceauth/, dashforfaceauth, 0.0.1, dash for facebook authentication, 2020-01-25T22:30:21+0000
+/project/idom-dash/, idom-dash, 0.0.3, A custom component for Dash that uses IDOM, 2021-04-02T19:41:16+0000
+/project/dash-ant-design-components/, dash-ant-design-components, 0.0.2, AntDesign components for Plotly Dash, 2020-10-27T06:05:42+0000
+/project/webviz-core-components/, webviz-core-components, 0.3.2, Core components for webviz-config, 2021-04-09T13:57:41+0000
+/project/dash-draggable/, dash-draggable, 0.0.2, A Dash component for building draggable and resizable grid layouts. Based on the wel known react-grid-layout., 2021-01-09T14:23:08+0000
+/project/dash-split-pane/, dash-split-pane, 1.0.0, A split pane for dash based on react split pane., 2019-12-11T13:39:52+0000
+/project/dash-lumino-components/, dash-lumino-components, 0.0.5, Lumino (JupyterLab) components for Plotly Dash, 2020-11-29T16:33:40+0000
+/project/dash-dthree/, dash-dthree, 0.0.9, a leaflet module to be used visualizing animation polylines in dash(ps.the name dash_dthree was made wrong), 2021-03-29T00:59:39+0000
+/project/dash-rabix/, dash-rabix, 0.0.1, Dash component for viewing CWL workflows using Rabix SVG., 2020-03-02T19:50:46+0000
+/project/jupyter-plotly-dash/, jupyter-plotly-dash, 0.4.3, Interactive Jupyter use of plotly dash apps, 2021-01-07T02:40:42+0000
+/project/dash-embedded/, dash-embedded, 0.0.1, A Public stub for dash-embedded by Plotly, 2021-03-06T00:30:10+0000
+/project/musicfox-dash-components/, musicfox-dash-components, 0.0.70, Dash components from your favorite mmusic valuation software company [Musicfox](https://musicfox.io), 2020-02-17T03:05:55+0000
+/project/vis-sunburst-clock/, vis-sunburst-clock, 0.0.2, Project Description, 2021-03-21T09:32:52+0000
+/project/simpledash/, simpledash, 0.2.2, Library to simplify building Plotly Dash applications, 2020-03-08T19:52:56+0000
+/project/dash-design-kit/, dash-design-kit, 0.0.1, A Public stub for dash-design-kit by Plotly, 2021-03-06T00:29:57+0000
+/project/materialdashboard/, materialdashboard, 0.3.0, Dashboard with a material design, 2021-03-03T20:39:16+0000
+/project/vega-component/, vega-component, 0.0.1, A component to render vega specs, 2020-09-25T07:49:05+0000
+/project/dash-textarea-autocomplete/, dash-textarea-autocomplete, 1.0.1, Dash component wrapper for `react-textarea-autocomplete`, 2021-04-14T13:33:07+0000
+/project/zhy-dash-comp/, zhy-dash-comp, 0.0.2, Project Description, 2020-02-24T05:11:40+0000
+/project/webviz-subsurface-components/, webviz-subsurface-components, 0.4.1, Custom Dash components for use in Webviz, 2021-02-19T12:30:19+0000
+/project/htexpr/, htexpr, 0.1.0, htexpr compiles an html string into a Python expression, 2020-06-21T19:24:38+0000
+/project/dash-useful-components/, dash-useful-components, 0.1.0, Additional useful components for Dash, 2020-07-16T14:54:53+0000
+/project/pivot-table/, pivot-table, 0.0.1, the pivot dash component, 2021-04-22T13:34:04+0000
+/project/vcp-beuth/, vcp-beuth, 0.0.1, Project Description, 2020-06-26T12:23:40+0000
+/project/example-component/, example-component, 0.0.1, Project Description, 2020-03-27T14:28:00+0000
+/project/dash-antd-components/, dash-antd-components, 0.0.1rc2, Antd components for Plotly Dash, 2020-04-17T12:45:34+0000
+/project/dash-editor/, dash-editor, 0.0.2, the chart editor, 2020-12-15T12:34:48+0000
+/project/dash-interactive-graphviz/, dash-interactive-graphviz, 0.3.0, An interactive graphviz viewer for Dash, 2021-01-24T20:04:00+0000
+/project/dash-extendable-graph/, dash-extendable-graph, 1.3.0, A Dash Graph component modified to support use of figure.data-structured input to extend and/or add traces., 2021-04-17T14:33:18+0000
+/project/dash-devextreme/, dash-devextreme, 0.14.14, Wrapper of DevExtreme components for Plotly Dash, 2021-04-15T10:46:19+0000
+/project/dash-treebeard/, dash-treebeard, 0.0.1, Dash Tree View Component. Data-Driven, Fast, Efficient and Customisable. Based on react-treebeard., 2020-01-24T11:10:03+0000
+/project/mcldashauthfb/, mcldashauthfb, 0.0.1, facebook authentication for dash, 2020-01-26T00:53:26+0000
+/project/dash-update-data-components/, dash-update-data-components, 0.0.1, This is a library to update multiples traces in one graph using dash plotly in python, 2020-07-10T16:33:23+0000
+/project/dash-uploader/, dash-uploader, 0.5.0, Upload large files using resumable.js, 2021-04-25T21:43:33+0000
+/project/denis-dash-components/, denis-dash-components, 0.0.1, A few components, not yet available, 2020-10-26T12:30:39+0000
+/project/dwcl/, dwcl, 1.0.3, A Dash Component that catches a the window close event and updates it's status. This can be used to stop the Dash server when the user closes his window, which is useful when using Dash apps as part of a multi step a workflow., 2021-01-13T07:13:37+0000
+/project/webviz-subsurface/, webviz-subsurface, 0.2.0, Webviz config plugins for subsurface data, 2021-03-28T21:11:08+0000
+/project/dpd-uploader/, dpd-uploader, 2.1.1, Django Plotly Dash Uploader Component for Large Files using Resumablejs, 2020-12-26T22:20:25+0000
+/project/dash-labs/, dash-labs, 0.1.0, Experimental enhancements for potential inclusion in Dash, 2021-04-16T11:37:28+0000
+/project/dash-archer/, dash-archer, 0.1.0, Dash component for react-archer, 2019-12-05T15:28:13+0000
+/project/dash-facebook-login/, dash-facebook-login, 0.0.2, A Facebook Login component for Plotly Dash, 2020-11-06T19:53:19+0000
+/project/dash-chakraui-components/, dash-chakraui-components, 0.0.4, Chakra UI components for Dash, 2021-03-29T13:49:26+0000
+/project/infinite-scroll-boolean/, infinite-scroll-boolean, 0.0.1, Boolean waypoint component for infinite scrolling in dash, 2020-07-29T16:53:56+0000
+/project/dash-material-ui/, dash-material-ui, 0.1.2, Material UI components for Dash, 2020-12-29T17:43:31+0000
+/project/nx-graph/, nx-graph, 0.0.1, Project Description, 2020-11-19T14:06:51+0000
+/project/dash-ace/, dash-ace, 0.2.1, Dash Ace Editor Component, 2020-01-04T18:34:50+0000
+/project/modellogger/, modellogger, 0.2.3, Modelloger is a Python library for storing model's profile and rapid inter model comparision., 2020-06-13T20:20:03+0000
+/project/dash-heatmap/, dash-heatmap, 0.0.1, Warehouse product moves heatmap, 2020-07-31T15:35:50+0000
+/project/django-plotly-dash/, django-plotly-dash, 1.6.3, Django use of plotly dash apps through template tags, 2021-03-28T06:21:00+0000
+/project/dash-obj-in-3dmesh/, dash-obj-in-3dmesh, 0.4.0, Some tools for getting Wavefront OBJ files into a Plotly Dash 3dmesh graph, 2020-06-07T04:04:44+0000
+/project/dash-google-charts/, dash-google-charts, 0.0.3, Google Charts for Plotly Dash, 2020-05-08T07:06:12+0000
+/project/dash-video-component/, dash-video-component, 0.0.1, Video Component for Dash, 2020-03-01T13:59:57+0000
+/project/zdc/, zdc, 0.0.2, Custom component from antd, 2020-04-12T12:36:30+0000
+/project/dash-mqtt/, dash-mqtt, 0.0.2, dash_mqtt is a Dash component library for adding MQTT messaging functionality to your Dash apps., 2021-01-19T05:25:52+0000
+/project/dash-component-unload/, dash-component-unload, 0.0.2, Simple dash component to listen on unload event, 2020-06-19T14:42:32+0000
+/project/dash-simple-map/, dash-simple-map, 0.0.3, Project Description, 2021-03-08T14:34:19+0000
+/project/select-filter/, select-filter, 0.0.3, the selected date filter, 2021-04-10T09:15:15+0000
+/project/dj-plotly-dash/, dj-plotly-dash, 0.17.0, A Python framework for building reactive web-apps. Developed by Plotly., 2020-12-17T21:26:19+0000
+/project/cook-components/, cook-components, 0.0.1, cook medical project dash components, 2020-07-09T13:22:20+0000
+/project/dash-editable-div/, dash-editable-div, 0.0.2, Editable HTML component for enhanced TextArea components, 2021-01-31T20:53:09+0000
+/project/interactivemap/, interactivemap, 0.0.1, interactive world Map with zoom and selecting functions, 2020-08-02T20:12:53+0000
+/project/dash-snapshots/, dash-snapshots, 0.0.1, A Public stub for dash-snapshots by Plotly, 2021-03-06T00:30:26+0000
+/project/dash-ant-design-date-picker/, dash-ant-design-date-picker, 0.0.2, Date range picker for Dash, based on Ant Design's RangePicker, 2020-05-24T13:10:44+0000
+/project/dash-extra-ui-components/, dash-extra-ui-components, 0.0.2, A collection of useful UI components for building interactive Dash applications., 2020-04-28T18:32:05+0000
+/project/dash-tabulator/, dash-tabulator, 0.4.2, Dash Plotly component providing Tabulator tables, 2021-02-28T23:35:10+0000
+/project/dash-grid/, dash-grid, 0.0.7, the grid of the dash, 2021-03-08T08:01:48+0000
+/project/dash-dropdown-tree-select/, dash-dropdown-tree-select, 1.0.0, A Dash component for react-dropdown-tree-select, 2020-12-27T17:25:01+0000
+/project/dash-mention-input/, dash-mention-input, 0.0.6, Input with @mention support, 2020-06-15T08:06:44+0000
+/project/dash-shap-components/, dash-shap-components, 0.0.2, Wrapper for using shap plots with dash, 2021-02-21T09:39:35+0000
+/project/dash-calendar/, dash-calendar, 0.0.3, a calendar datepicker component for dash, 2021-03-28T05:41:12+0000
+/project/steinloss/, steinloss, 0.3.6, Package loss measuring tool, 2021-01-29T10:12:50+0000
+/project/vote-card/, vote-card, 0.0.1, Custom voting component, 2020-02-12T19:49:35+0000
+/project/dash-ace-persistent/, dash-ace-persistent, 0.3.4, Dash Ace Editor Component with persistence, 2020-04-03T23:07:09+0000
+/project/event-timeline/, event-timeline, 0.0.1, event based timeline, 2020-10-27T10:27:15+0000
+/project/dash-tour-component/, dash-tour-component, 0.0.2, Tour component for Dash (made by plotly) to give your dash app a tour, 2020-09-26T14:24:33+0000
+/project/dash/, dash, 1.20.0, A Python framework for building reactive web-apps. Developed by Plotly., 2021-04-08T22:19:49+0000
+/project/dash-datetimepicker/, dash-datetimepicker, 0.0.4, Dash component to select date and times, 2020-10-13T16:52:57+0000
+/project/dash-trich-components/, dash-trich-components, 0.0.9, Trich.ai components library for Dash Plotly, 2021-02-11T18:57:26+0000
+/project/nx-express/, nx-express, 0.0.2, A Network Graph for Dash, 2020-12-03T20:20:49+0000
+/project/score-component/, score-component, 0.4.9, React music components for my own project, 2020-07-28T06:11:20+0000
+/project/echarts-integration/, echarts-integration, 0.0.1, Add a echarts component to load json data, 2020-08-06T19:46:33+0000
+/project/dash-jsme/, dash-jsme, 0.0.3, Project Description, 2020-11-23T17:30:58+0000
+/project/dash-lazylog/, dash-lazylog, 0.0.2, Dash wrapper for react-lazylog: https://www.npmjs.com/package/react-lazylog, 2020-02-24T15:21:54+0000
+/project/dash-bootstrap-components/, dash-bootstrap-components, 0.12.0, Bootstrap themed components for use in Plotly Dash, 2021-03-21T18:12:32+0000

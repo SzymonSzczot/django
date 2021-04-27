@@ -1,0 +1,232 @@
+/project/cubicweb-rememberme/, cubicweb-rememberme, 1.2.0, implementation of the Remember Me feature for the CubicWeb framework, 2020-11-20T10:42:13+0000
+/project/cubicweb-mandrill/, cubicweb-mandrill, 0.4.0, Mandrill Integration cube, 2015-02-24T23:29:57+0000
+/project/cubicweb-apycot/, cubicweb-apycot, 1.10.0, Continuous testing / integration tool for the CubicWeb framework, 2010-07-28T10:10:03+0000
+/project/cubicweb-sioc/, cubicweb-sioc, 0.2.2, Specific views for SIOC (Semantically-Interlinked Online Communities), 2019-11-22T13:20:01+0000
+/project/cubicweb-subprocess/, cubicweb-subprocess, 1.0.0, This cube helps to manage and monitor subprocesses., 2020-04-21T13:13:59+0000
+/project/cubicweb-mediaplayer/, cubicweb-mediaplayer, 0.2.2, provide a schema and API for sound and media files with a html5 player, 2016-12-22T12:13:35+0000
+/project/cubicweb-awstats/, cubicweb-awstats, 0.3.0, cubicweb integrated awstats frontend, 2017-09-27T08:44:49+0000
+/project/cubicweb-pyramid/, cubicweb-pyramid, 0.5.0, Add the 'pyramid' command to cubicweb-ctl, 2017-01-03T08:46:53+0000
+/project/cubicweb-nazcaui/, cubicweb-nazcaui, 0.3.1, A cube for a nazca usage example, 2014-12-11T20:15:45+0000
+/project/cubicweb-collaboration/, cubicweb-collaboration, 1.1.0, Cube for providing facilities for cooperative entity handling, 2017-10-17T08:49:04+0000
+/project/cubicweb-skillmat/, cubicweb-skillmat, 0.10.0, skill matrix component for the CubicWeb framework, 2019-04-23T13:56:18+0000
+/project/cubicweb-tagsinput/, cubicweb-tagsinput, 0.2.4, Provides https://github.com/timschlechter/bootstrap-tagsinput based widgets, 2014-09-29T13:53:44+0000
+/project/cubicweb-keyword/, cubicweb-keyword, 1.9.0, classification schemes system for the Cubicweb framework, 2018-09-03T10:29:21+0000
+/project/cubicweb-book/, cubicweb-book, 0.8.2, component to describe books for the CubicWeb framework, 2019-10-16T06:59:44+0000
+/project/cubicweb-vcwiki/, cubicweb-vcwiki, 0.4.1, Version controlled wiki component for the CubicWeb framework, 2017-01-05T21:59:40+0000
+/project/cubicweb-forum/, cubicweb-forum, 0.1.1, forum, 2014-03-14T14:09:45+0000
+/project/cubicweb-medicalexp/, cubicweb-medicalexp, 0.12.3, Cube for managing medical experiment data, 2014-10-24T15:01:20+0000
+/project/cubicweb-comment/, cubicweb-comment, 1.14.1, commenting system for the CubicWeb framework, 2019-05-23T13:02:01+0000
+/project/cubicweb-eac/, cubicweb-eac, 0.9.1, Implementation of Encoded Archival Context for CubicWeb, 2019-11-28T10:20:56+0000
+/project/cwclientlib/, cwclientlib, 1.1.0, A Python library to easily build CubicWeb clients, 2020-10-14T16:32:07+0000
+/project/cubicweb-leaflet/, cubicweb-leaflet, 0.8.0, Cube for leaflet map, see http://leafletjs.com/, 2018-06-13T16:22:28+0000
+/project/cubicweb-relationwidget/, cubicweb-relationwidget, 0.5.2, Provide a generic and ergonomic relation widget, 2019-09-24T14:25:36+0000
+/project/cubicweb-oauth/, cubicweb-oauth, 0.3.1, External service (Facebook, Twitter, Google+, etc) Authentication, 2014-07-03T10:23:18+0000
+/project/cubicweb-localperms/, cubicweb-localperms, 0.4.0, allow definition of local permissions, 2019-03-13T15:52:48+0000
+/project/cubicweb-fastimport/, cubicweb-fastimport, 0.2.1, Faster-than-baseline entities and relation insertions, 2014-11-26T17:33:54+0000
+/project/cubicweb-tag/, cubicweb-tag, 1.9.2, tag component for the CubicWeb framework, 2019-03-06T09:01:58+0000
+/project/cubicweb-uitest/, cubicweb-uitest, 0.1.0, easy demo styles, 2015-04-03T11:14:07+0000
+/project/cubicweb-inlinedit/, cubicweb-inlinedit, 1.4.0, Extension of the `reledit` builtin feature, 2018-08-02T10:04:37+0000
+/project/cubicweb-event/, cubicweb-event, 1.4.0, event component for the CubicWeb framework, 2019-03-05T13:36:49+0000
+/project/cubicweb-frbr/, cubicweb-frbr, 0.1.1, Cube for FRBR vocabulary (works, expressions, manifestations, ...), 2014-05-23T09:34:40+0000
+/project/cubicweb-sherpa/, cubicweb-sherpa, 0.11.0, SEDA v2 profile generator, 2017-12-19T16:51:36+0000
+/project/cubicweb-jsonschema/, cubicweb-jsonschema, 0.7.0, JSON Schema for CubicWeb, 2019-11-27T09:09:37+0000
+/project/cubicweb-sentry/, cubicweb-sentry, 0.5.0, support for Sentry (getsentry.com), 2019-09-18T07:42:22+0000
+/project/cubicweb-fluid-design-system/, cubicweb-fluid-design-system, 1.7.5, , 2021-03-22T15:28:09+0000
+/project/cubicweb-registration/, cubicweb-registration, 0.8.0, public registration component for the CubicWeb framework, 2020-11-20T13:59:42+0000
+/project/cubicweb-geocoding/, cubicweb-geocoding, 0.3.0, geocoding views such as google maps, 2019-03-05T13:24:55+0000
+/project/cubicweb-faq/, cubicweb-faq, 0.2.0, Frequently Asked Questions, 2014-03-14T12:19:07+0000
+/project/cubicweb-graphql/, cubicweb-graphql, 0.2.0, GraphQL for CubicWeb, 2020-04-29T13:43:05+0000
+/project/cubicweb-addressbook/, cubicweb-addressbook, 1.10.2, address book component for the CubicWeb framework, 2020-01-17T16:18:28+0000
+/project/cubicweb-invoice/, cubicweb-invoice, 0.9.1, invoice component for the CubicWeb framework, 2019-10-01T16:24:02+0000
+/project/cubicweb-saml/, cubicweb-saml, 0.3.1, SAML2 authentifier, 2020-02-06T12:01:17+0000
+/project/cubicweb-timeline/, cubicweb-timeline, 0.1.0, basic support for SIMILE's timeline widgets, 2015-07-08T08:07:43+0000
+/project/cubicweb-signedrequest/, cubicweb-signedrequest, 1.0.0, rest api for cubicweb, 2020-10-07T08:08:51+0000
+/project/cubicweb-fckeditorcompat/, cubicweb-fckeditorcompat, 0.4.0, contains fckeditor 1:2.6.6-3 code, 2019-07-05T14:26:56+0000
+/project/cubicweb-transactionlog/, cubicweb-transactionlog, 0.3.0, Collect entities and relations modifications happening in transactions., 2014-11-26T10:19:03+0000
+/project/cubicweb-datacat/, cubicweb-datacat, 0.14.0, Data catalog, 2017-12-14T17:04:05+0000
+/project/cubicweb-task/, cubicweb-task, 1.9.0, task component for the CubicWeb framework, 2019-03-05T13:40:32+0000
+/project/cubicweb-jsonb/, cubicweb-jsonb, 0.2.0, Add jsonb type to CubicWeb, 2020-11-02T14:30:20+0000
+/project/cubicweb-piwik/, cubicweb-piwik, 0.2.0, component to piwik trackers into the CubicWeb framework, 2020-03-10T08:28:10+0000
+/project/cubicweb-card/, cubicweb-card, 1.1.2, card/wiki component for the CubicWeb framework, 2019-03-06T08:56:08+0000
+/project/cubicweb-timesheet/, cubicweb-timesheet, 0.17.1, record who did what and when for the CubicWeb framework, 2020-10-12T10:54:47+0000
+/project/cubicweb-vcreview/, cubicweb-vcreview, 2.4.0, patch review system on top of vcsfile, 2016-03-02T10:08:06+0000
+/project/cubicweb-semnews/, cubicweb-semnews, 0.2.0, Cube for news storage and analysis, 2014-03-28T10:46:28+0000
+/project/cubicweb-preview/, cubicweb-preview, 1.5.0, Enables adding a preview button in your forms, 2019-10-15T16:25:38+0000
+/project/cubicweb-folder/, cubicweb-folder, 2.1.1, folder component for the CubicWeb framework, 2019-11-22T09:06:33+0000
+/project/cubicweb-clinipath/, cubicweb-clinipath, 0.2.2, Cube for modeling and handling of clinical pathology data, 2014-09-24T14:28:14+0000
+/project/cubicweb-workorder/, cubicweb-workorder, 0.12.2, workorder component for the CubicWeb framework, 2020-11-03T10:48:10+0000
+/project/cubicweb-oaipmh/, cubicweb-oaipmh, 0.6.4, OAI-PMH server for CubicWeb, 2020-09-03T12:33:22+0000
+/project/cubicweb-slickgrid/, cubicweb-slickgrid, 1.2.3, Table view rendered using the SlickGrid_ JavaScript library., 2021-01-13T15:07:03+0000
+/project/cubicweb-nosylist/, cubicweb-nosylist, 0.7.1, roundup like nosylist component for the CubicWeb framework, 2019-10-17T14:05:31+0000
+/project/cubicweb-postgis/, cubicweb-postgis, 0.7.1, Test for postgis, 2021-01-07T14:15:45+0000
+/project/cubicweb-oauth2/, cubicweb-oauth2, 0.3.0, Oauth2/OpenID authentication for cubicweb, 2021-01-29T14:12:31+0000
+/project/cubicweb-forge/, cubicweb-forge, 1.13.0, software forge component for the CubicWeb framework, 2016-12-06T14:32:14+0000
+/project/cubicweb-s3storage/, cubicweb-s3storage, 3.0.0, A Cubicweb Storage that stores the data on S3, 2021-03-17T16:15:48+0000
+/project/cubicweb-nazca/, cubicweb-nazca, 0.1.0, A cube for a nazca usage example, 2014-04-08T17:02:02+0000
+/project/cubicweb-searchui/, cubicweb-searchui, 0.4.1, set of ui components to ease data browsing, 2019-03-06T13:17:00+0000
+/project/cubicweb-fresh/, cubicweb-fresh, 0.7.1, expense tracking application built on the CubicWeb framework, 2015-06-08T13:25:44+0000
+/project/cubicweb-intranet/, cubicweb-intranet, 1.2.0, an intranet built on the CubicWeb framework, 2019-03-05T13:55:02+0000
+/project/cubicweb-seo/, cubicweb-seo, 0.3.0, search engine optimisation with robotstxt and sitemaps, 2020-03-05T15:33:19+0000
+/project/cubicweb-seda/, cubicweb-seda, 0.17.6, Data Exchange Standard for Archival, 2020-11-25T19:59:13+0000
+/project/cubicweb-blog/, cubicweb-blog, 1.14.1, blogging component for the CubicWeb framework, 2020-08-12T10:04:04+0000
+/project/cubicweb-processing/, cubicweb-processing, 0.10.0, cube that describes simple data processing workflows, 2020-04-21T13:16:27+0000
+/project/cubicweb-squareui/, cubicweb-squareui, 1.1.3, data-centric user interface for cubicweb based on bootstrap, 2020-11-20T13:51:21+0000
+/project/cubicweb-prov/, cubicweb-prov, 0.4.1, The PROV Ontology, 2019-10-01T07:47:23+0000
+/project/cubicweb-wireit/, cubicweb-wireit, 1.0.0, WireIt workflow store for the CubicWeb framework, 2020-04-21T13:23:01+0000
+/project/cubicweb-person/, cubicweb-person, 1.11.0, person component for the CubicWeb framework, 2019-03-05T13:31:14+0000
+/project/cubicweb-link/, cubicweb-link, 1.9.1, link component for the CubicWeb framework, 2019-11-22T14:44:46+0000
+/project/cubicweb-trustedauth/, cubicweb-trustedauth, 0.6.0, authentication plugin for cubicweb instances behind a trusted reverse proxy managing authentication  (eg. apache + kerberos), 2019-10-15T16:29:30+0000
+/project/cubicweb-vcrs/, cubicweb-vcrs, 0.2.1, vcreview statistics, 2017-01-06T12:02:03+0000
+/project/cubicweb-fds/, cubicweb-fds, 1.6.5, , 2021-02-24T13:58:17+0000
+/project/cubicweb-calendar/, cubicweb-calendar, 0.11.1, calendar component for the CubicWeb framework, 2020-03-04T15:36:34+0000
+/project/cubicweb-ckanpublish/, cubicweb-ckanpublish, 0.2.0, Publish data to a CKAN instance, 2015-01-26T13:27:04+0000
+/project/cubicweb-wsme/, cubicweb-wsme, 0.3.0, Easily build a webservice API on top of a cubic web database", 2015-09-09T16:20:56+0000
+/project/cubicweb-iprogress/, cubicweb-iprogress, 0.3.0, some adapters and view for stuff progressing to reach a milestone, 2019-04-23T13:50:35+0000
+/project/cubicweb-conference/, cubicweb-conference, 0.15.0, conference component for the CubicWeb framework, 2021-03-16T16:35:54+0000
+/project/cubicweb-bootstrap/, cubicweb-bootstrap, 1.6.7, , 2021-03-25T12:48:54+0000
+/project/cubicweb-saem-ref/, cubicweb-saem-ref, 1.0.0, Référenciel de Système d'Archivage Électronique Mutualisé, 2019-11-28T08:54:18+0000
+/project/cubicweb-celery/, cubicweb-celery, 0.4.0, Celery cube, 2019-02-07T14:09:20+0000
+/project/cubicweb-rqlcontroller/, cubicweb-rqlcontroller, 0.7.1, restfull rql edition capabilities, 2020-05-29T09:19:05+0000
+/project/cubicweb-treeview/, cubicweb-treeview, 0.1.2, tree-building adapters, widgets, views, 2019-06-25T14:03:29+0000
+/project/cubicweb-company/, cubicweb-company, 0.8.1, company component for the CubicWeb framework, 2019-10-01T16:52:20+0000
+/project/cubicweb-accidents/, cubicweb-accidents, 0.1.0, UNKNOWN, 2014-04-29T08:47:27+0000
+/project/cubicweb-expense/, cubicweb-expense, 0.9.0, expense component for the CubicWeb framework, 2019-05-16T11:44:45+0000
+/project/cubicweb-varnish/, cubicweb-varnish, 0.5.1, cubicweb varnish helper, 2019-04-24T10:05:37+0000
+/project/cubicweb-activitystream/, cubicweb-activitystream, 0.2.0, activity streams, 2019-07-18T10:14:58+0000
+/project/cubicweb-email/, cubicweb-email, 1.13.1, email component for the CubicWeb framework, 2019-07-18T11:58:20+0000
+/project/cubicweb-osmfrance/, cubicweb-osmfrance, 0.2.2, Shapefiles (french regions, departements, cantons, communes) from OpenStreetMap, 2014-11-03T18:18:57+0000
+/project/cubicweb-elasticsearch/, cubicweb-elasticsearch, 0.10.0, Simple ElasticSearch indexing integration for CubicWeb, 2021-03-24T15:05:40+0000
+/project/cubicweb-dataio/, cubicweb-dataio, 0.7.0, Cube for data input/output, import and export, 2016-04-12T15:22:13+0000
+/project/cubicweb-skos/, cubicweb-skos, 1.6.0, "SKOS implementation for cubicweb", 2019-09-27T13:28:34+0000
+/project/cubicweb-ner/, cubicweb-ner, 0.1.0, Cube for named entities source and recognition (NER)., 2014-03-14T13:56:10+0000
+/project/cubicweb-workcase/, cubicweb-workcase, 0.8.0, workcase component for the CubicWeb framework, 2019-05-16T11:48:35+0000
+/project/cubicweb-dataprocessing/, cubicweb-dataprocessing, 0.3.0, Data validation and transformation process, 2019-07-31T08:58:12+0000
+/project/cubicweb-basket/, cubicweb-basket, 1.5.1, shopping cart component for the CubicWeb framework, 2016-03-14T16:24:20+0000
+/project/cubicweb-celery/, cubicweb-celery, 0.4.0, Celery cube, 2019-02-07T14:09:20+0000
+/project/cubicweb-rqlcontroller/, cubicweb-rqlcontroller, 0.7.1, restfull rql edition capabilities, 2020-05-29T09:19:05+0000
+/project/cubicweb-company/, cubicweb-company, 0.8.1, company component for the CubicWeb framework, 2019-10-01T16:52:20+0000
+/project/cubicweb-accidents/, cubicweb-accidents, 0.1.0, UNKNOWN, 2014-04-29T08:47:27+0000
+/project/cubicweb-expense/, cubicweb-expense, 0.9.0, expense component for the CubicWeb framework, 2019-05-16T11:44:45+0000
+/project/cubicweb-varnish/, cubicweb-varnish, 0.5.1, cubicweb varnish helper, 2019-04-24T10:05:37+0000
+/project/cubicweb-vcrs/, cubicweb-vcrs, 0.2.1, vcreview statistics, 2017-01-06T12:02:03+0000
+/project/cubicweb-calendar/, cubicweb-calendar, 0.11.1, calendar component for the CubicWeb framework, 2020-03-04T15:36:34+0000
+/project/cubicweb-wsme/, cubicweb-wsme, 0.3.0, Easily build a webservice API on top of a cubic web database", 2015-09-09T16:20:56+0000
+/project/cubicweb-ckanpublish/, cubicweb-ckanpublish, 0.2.0, Publish data to a CKAN instance, 2015-01-26T13:27:04+0000
+/project/cubicweb-iprogress/, cubicweb-iprogress, 0.3.0, some adapters and view for stuff progressing to reach a milestone, 2019-04-23T13:50:35+0000
+/project/cubicweb-conference/, cubicweb-conference, 0.15.0, conference component for the CubicWeb framework, 2021-03-16T16:35:54+0000
+/project/cubicweb-rememberme/, cubicweb-rememberme, 1.2.0, implementation of the Remember Me feature for the CubicWeb framework, 2020-11-20T10:42:13+0000
+/project/cubicweb-mandrill/, cubicweb-mandrill, 0.4.0, Mandrill Integration cube, 2015-02-24T23:29:57+0000
+/project/cubicweb-apycot/, cubicweb-apycot, 1.10.0, Continuous testing / integration tool for the CubicWeb framework, 2010-07-28T10:10:03+0000
+/project/cubicweb-sioc/, cubicweb-sioc, 0.2.2, Specific views for SIOC (Semantically-Interlinked Online Communities), 2019-11-22T13:20:01+0000
+/project/cubicweb-subprocess/, cubicweb-subprocess, 1.0.0, This cube helps to manage and monitor subprocesses., 2020-04-21T13:13:59+0000
+/project/cubicweb-mediaplayer/, cubicweb-mediaplayer, 0.2.2, provide a schema and API for sound and media files with a html5 player, 2016-12-22T12:13:35+0000
+/project/cubicweb-awstats/, cubicweb-awstats, 0.3.0, cubicweb integrated awstats frontend, 2017-09-27T08:44:49+0000
+/project/cubicweb-pyramid/, cubicweb-pyramid, 0.5.0, Add the 'pyramid' command to cubicweb-ctl, 2017-01-03T08:46:53+0000
+/project/cubicweb-nazcaui/, cubicweb-nazcaui, 0.3.1, A cube for a nazca usage example, 2014-12-11T20:15:45+0000
+/project/cubicweb-collaboration/, cubicweb-collaboration, 1.1.0, Cube for providing facilities for cooperative entity handling, 2017-10-17T08:49:04+0000
+/project/cubicweb-skillmat/, cubicweb-skillmat, 0.10.0, skill matrix component for the CubicWeb framework, 2019-04-23T13:56:18+0000
+/project/cubicweb-tagsinput/, cubicweb-tagsinput, 0.2.4, Provides https://github.com/timschlechter/bootstrap-tagsinput based widgets, 2014-09-29T13:53:44+0000
+/project/cubicweb-keyword/, cubicweb-keyword, 1.9.0, classification schemes system for the Cubicweb framework, 2018-09-03T10:29:21+0000
+/project/cubicweb-book/, cubicweb-book, 0.8.2, component to describe books for the CubicWeb framework, 2019-10-16T06:59:44+0000
+/project/cubicweb-vcwiki/, cubicweb-vcwiki, 0.4.1, Version controlled wiki component for the CubicWeb framework, 2017-01-05T21:59:40+0000
+/project/cubicweb-forum/, cubicweb-forum, 0.1.1, forum, 2014-03-14T14:09:45+0000
+/project/cubicweb-medicalexp/, cubicweb-medicalexp, 0.12.3, Cube for managing medical experiment data, 2014-10-24T15:01:20+0000
+/project/cubicweb-comment/, cubicweb-comment, 1.14.1, commenting system for the CubicWeb framework, 2019-05-23T13:02:01+0000
+/project/cubicweb-eac/, cubicweb-eac, 0.9.1, Implementation of Encoded Archival Context for CubicWeb, 2019-11-28T10:20:56+0000
+/project/cwclientlib/, cwclientlib, 1.1.0, A Python library to easily build CubicWeb clients, 2020-10-14T16:32:07+0000
+/project/cubicweb-leaflet/, cubicweb-leaflet, 0.8.0, Cube for leaflet map, see http://leafletjs.com/, 2018-06-13T16:22:28+0000
+/project/cubicweb-relationwidget/, cubicweb-relationwidget, 0.5.2, Provide a generic and ergonomic relation widget, 2019-09-24T14:25:36+0000
+/project/cubicweb-oauth/, cubicweb-oauth, 0.3.1, External service (Facebook, Twitter, Google+, etc) Authentication, 2014-07-03T10:23:18+0000
+/project/cubicweb-localperms/, cubicweb-localperms, 0.4.0, allow definition of local permissions, 2019-03-13T15:52:48+0000
+/project/cubicweb-fastimport/, cubicweb-fastimport, 0.2.1, Faster-than-baseline entities and relation insertions, 2014-11-26T17:33:54+0000
+/project/cubicweb-tag/, cubicweb-tag, 1.9.2, tag component for the CubicWeb framework, 2019-03-06T09:01:58+0000
+/project/cubicweb-uitest/, cubicweb-uitest, 0.1.0, easy demo styles, 2015-04-03T11:14:07+0000
+/project/cubicweb-inlinedit/, cubicweb-inlinedit, 1.4.0, Extension of the `reledit` builtin feature, 2018-08-02T10:04:37+0000
+/project/cubicweb-event/, cubicweb-event, 1.4.0, event component for the CubicWeb framework, 2019-03-05T13:36:49+0000
+/project/cubicweb-frbr/, cubicweb-frbr, 0.1.1, Cube for FRBR vocabulary (works, expressions, manifestations, ...), 2014-05-23T09:34:40+0000
+/project/cubicweb-sherpa/, cubicweb-sherpa, 0.11.0, SEDA v2 profile generator, 2017-12-19T16:51:36+0000
+/project/cubicweb-jsonschema/, cubicweb-jsonschema, 0.7.0, JSON Schema for CubicWeb, 2019-11-27T09:09:37+0000
+/project/cubicweb-sentry/, cubicweb-sentry, 0.5.0, support for Sentry (getsentry.com), 2019-09-18T07:42:22+0000
+/project/cubicweb-fluid-design-system/, cubicweb-fluid-design-system, 1.7.5, , 2021-03-22T15:28:09+0000
+/project/cubicweb-registration/, cubicweb-registration, 0.8.0, public registration component for the CubicWeb framework, 2020-11-20T13:59:42+0000
+/project/cubicweb-geocoding/, cubicweb-geocoding, 0.3.0, geocoding views such as google maps, 2019-03-05T13:24:55+0000
+/project/cubicweb-faq/, cubicweb-faq, 0.2.0, Frequently Asked Questions, 2014-03-14T12:19:07+0000
+/project/cubicweb-graphql/, cubicweb-graphql, 0.2.0, GraphQL for CubicWeb, 2020-04-29T13:43:05+0000
+/project/cubicweb-addressbook/, cubicweb-addressbook, 1.10.2, address book component for the CubicWeb framework, 2020-01-17T16:18:28+0000
+/project/cubicweb-invoice/, cubicweb-invoice, 0.9.1, invoice component for the CubicWeb framework, 2019-10-01T16:24:02+0000
+/project/cubicweb-saml/, cubicweb-saml, 0.3.1, SAML2 authentifier, 2020-02-06T12:01:17+0000
+/project/cubicweb-timeline/, cubicweb-timeline, 0.1.0, basic support for SIMILE's timeline widgets, 2015-07-08T08:07:43+0000
+/project/cubicweb-signedrequest/, cubicweb-signedrequest, 1.0.0, rest api for cubicweb, 2020-10-07T08:08:51+0000
+/project/cubicweb-fckeditorcompat/, cubicweb-fckeditorcompat, 0.4.0, contains fckeditor 1:2.6.6-3 code, 2019-07-05T14:26:56+0000
+/project/cubicweb-transactionlog/, cubicweb-transactionlog, 0.3.0, Collect entities and relations modifications happening in transactions., 2014-11-26T10:19:03+0000
+/project/cubicweb-datacat/, cubicweb-datacat, 0.14.0, Data catalog, 2017-12-14T17:04:05+0000
+/project/cubicweb-task/, cubicweb-task, 1.9.0, task component for the CubicWeb framework, 2019-03-05T13:40:32+0000
+/project/cubicweb-jsonb/, cubicweb-jsonb, 0.2.0, Add jsonb type to CubicWeb, 2020-11-02T14:30:20+0000
+/project/cubicweb-piwik/, cubicweb-piwik, 0.2.0, component to piwik trackers into the CubicWeb framework, 2020-03-10T08:28:10+0000
+/project/cubicweb-card/, cubicweb-card, 1.1.2, card/wiki component for the CubicWeb framework, 2019-03-06T08:56:08+0000
+/project/cubicweb-timesheet/, cubicweb-timesheet, 0.17.1, record who did what and when for the CubicWeb framework, 2020-10-12T10:54:47+0000
+/project/cubicweb-vcreview/, cubicweb-vcreview, 2.4.0, patch review system on top of vcsfile, 2016-03-02T10:08:06+0000
+/project/cubicweb-semnews/, cubicweb-semnews, 0.2.0, Cube for news storage and analysis, 2014-03-28T10:46:28+0000
+/project/cubicweb-preview/, cubicweb-preview, 1.5.0, Enables adding a preview button in your forms, 2019-10-15T16:25:38+0000
+/project/cubicweb-folder/, cubicweb-folder, 2.1.1, folder component for the CubicWeb framework, 2019-11-22T09:06:33+0000
+/project/cubicweb-clinipath/, cubicweb-clinipath, 0.2.2, Cube for modeling and handling of clinical pathology data, 2014-09-24T14:28:14+0000
+/project/cubicweb-workorder/, cubicweb-workorder, 0.12.2, workorder component for the CubicWeb framework, 2020-11-03T10:48:10+0000
+/project/cubicweb-oaipmh/, cubicweb-oaipmh, 0.6.4, OAI-PMH server for CubicWeb, 2020-09-03T12:33:22+0000
+/project/cubicweb-slickgrid/, cubicweb-slickgrid, 1.2.3, Table view rendered using the SlickGrid_ JavaScript library., 2021-01-13T15:07:03+0000
+/project/cubicweb-nosylist/, cubicweb-nosylist, 0.7.1, roundup like nosylist component for the CubicWeb framework, 2019-10-17T14:05:31+0000
+/project/cubicweb-postgis/, cubicweb-postgis, 0.7.1, Test for postgis, 2021-01-07T14:15:45+0000
+/project/cubicweb-oauth2/, cubicweb-oauth2, 0.3.0, Oauth2/OpenID authentication for cubicweb, 2021-01-29T14:12:31+0000
+/project/cubicweb-forge/, cubicweb-forge, 1.13.0, software forge component for the CubicWeb framework, 2016-12-06T14:32:14+0000
+/project/cubicweb-s3storage/, cubicweb-s3storage, 3.0.0, A Cubicweb Storage that stores the data on S3, 2021-03-17T16:15:48+0000
+/project/cubicweb-nazca/, cubicweb-nazca, 0.1.0, A cube for a nazca usage example, 2014-04-08T17:02:02+0000
+/project/cubicweb-searchui/, cubicweb-searchui, 0.4.1, set of ui components to ease data browsing, 2019-03-06T13:17:00+0000
+/project/cubicweb-fresh/, cubicweb-fresh, 0.7.1, expense tracking application built on the CubicWeb framework, 2015-06-08T13:25:44+0000
+/project/cubicweb-intranet/, cubicweb-intranet, 1.2.0, an intranet built on the CubicWeb framework, 2019-03-05T13:55:02+0000
+/project/cubicweb-seo/, cubicweb-seo, 0.3.0, search engine optimisation with robotstxt and sitemaps, 2020-03-05T15:33:19+0000
+/project/cubicweb-seda/, cubicweb-seda, 0.17.6, Data Exchange Standard for Archival, 2020-11-25T19:59:13+0000
+/project/cubicweb-blog/, cubicweb-blog, 1.14.1, blogging component for the CubicWeb framework, 2020-08-12T10:04:04+0000
+/project/cubicweb-processing/, cubicweb-processing, 0.10.0, cube that describes simple data processing workflows, 2020-04-21T13:16:27+0000
+/project/cubicweb-squareui/, cubicweb-squareui, 1.1.3, data-centric user interface for cubicweb based on bootstrap, 2020-11-20T13:51:21+0000
+/project/cubicweb-prov/, cubicweb-prov, 0.4.1, The PROV Ontology, 2019-10-01T07:47:23+0000
+/project/cubicweb-wireit/, cubicweb-wireit, 1.0.0, WireIt workflow store for the CubicWeb framework, 2020-04-21T13:23:01+0000
+/project/cubicweb-person/, cubicweb-person, 1.11.0, person component for the CubicWeb framework, 2019-03-05T13:31:14+0000
+/project/cubicweb-link/, cubicweb-link, 1.9.1, link component for the CubicWeb framework, 2019-11-22T14:44:46+0000
+/project/cubicweb-trustedauth/, cubicweb-trustedauth, 0.6.0, authentication plugin for cubicweb instances behind a trusted reverse proxy managing authentication  (eg. apache + kerberos), 2019-10-15T16:29:30+0000
+/project/cubicweb-vcrs/, cubicweb-vcrs, 0.2.1, vcreview statistics, 2017-01-06T12:02:03+0000
+/project/cubicweb-fds/, cubicweb-fds, 1.6.5, , 2021-02-24T13:58:17+0000
+/project/cubicweb-calendar/, cubicweb-calendar, 0.11.1, calendar component for the CubicWeb framework, 2020-03-04T15:36:34+0000
+/project/cubicweb-ckanpublish/, cubicweb-ckanpublish, 0.2.0, Publish data to a CKAN instance, 2015-01-26T13:27:04+0000
+/project/cubicweb-wsme/, cubicweb-wsme, 0.3.0, Easily build a webservice API on top of a cubic web database", 2015-09-09T16:20:56+0000
+/project/cubicweb-iprogress/, cubicweb-iprogress, 0.3.0, some adapters and view for stuff progressing to reach a milestone, 2019-04-23T13:50:35+0000
+/project/cubicweb-conference/, cubicweb-conference, 0.15.0, conference component for the CubicWeb framework, 2021-03-16T16:35:54+0000
+/project/cubicweb-bootstrap/, cubicweb-bootstrap, 1.6.7, , 2021-03-25T12:48:54+0000
+/project/cubicweb-saem-ref/, cubicweb-saem-ref, 1.0.0, Référenciel de Système d'Archivage Électronique Mutualisé, 2019-11-28T08:54:18+0000
+/project/cubicweb-celery/, cubicweb-celery, 0.4.0, Celery cube, 2019-02-07T14:09:20+0000
+/project/cubicweb-rqlcontroller/, cubicweb-rqlcontroller, 0.7.1, restfull rql edition capabilities, 2020-05-29T09:19:05+0000
+/project/cubicweb-treeview/, cubicweb-treeview, 0.1.2, tree-building adapters, widgets, views, 2019-06-25T14:03:29+0000
+/project/cubicweb-company/, cubicweb-company, 0.8.1, company component for the CubicWeb framework, 2019-10-01T16:52:20+0000
+/project/cubicweb-accidents/, cubicweb-accidents, 0.1.0, UNKNOWN, 2014-04-29T08:47:27+0000
+/project/cubicweb-expense/, cubicweb-expense, 0.9.0, expense component for the CubicWeb framework, 2019-05-16T11:44:45+0000
+/project/cubicweb-varnish/, cubicweb-varnish, 0.5.1, cubicweb varnish helper, 2019-04-24T10:05:37+0000
+/project/cubicweb-activitystream/, cubicweb-activitystream, 0.2.0, activity streams, 2019-07-18T10:14:58+0000
+/project/cubicweb-email/, cubicweb-email, 1.13.1, email component for the CubicWeb framework, 2019-07-18T11:58:20+0000
+/project/cubicweb-osmfrance/, cubicweb-osmfrance, 0.2.2, Shapefiles (french regions, departements, cantons, communes) from OpenStreetMap, 2014-11-03T18:18:57+0000
+/project/cubicweb-elasticsearch/, cubicweb-elasticsearch, 0.10.0, Simple ElasticSearch indexing integration for CubicWeb, 2021-03-24T15:05:40+0000
+/project/cubicweb-dataio/, cubicweb-dataio, 0.7.0, Cube for data input/output, import and export, 2016-04-12T15:22:13+0000
+/project/cubicweb-skos/, cubicweb-skos, 1.6.0, "SKOS implementation for cubicweb", 2019-09-27T13:28:34+0000
+/project/cubicweb-pwd-policy/, cubicweb-pwd-policy, 1.1.0, Password policy for cubicweb applications, 2019-11-27T08:01:26+0000
+/project/cubicweb-forgotpwd/, cubicweb-forgotpwd, 0.9.1, password recovery component for the CubicWeb framework, 2019-06-26T13:08:20+0000
+/project/cubicweb-ner/, cubicweb-ner, 0.1.0, Cube for named entities source and recognition (NER)., 2014-03-14T13:56:10+0000
+/project/cubicweb-workcase/, cubicweb-workcase, 0.8.0, workcase component for the CubicWeb framework, 2019-05-16T11:48:35+0000
+/project/cubicweb-file/, cubicweb-file, 2.3.0, file component for the CubicWeb framework, 2019-09-17T12:51:27+0000
+/project/cubicweb-dataprocessing/, cubicweb-dataprocessing, 0.3.0, Data validation and transformation process, 2019-07-31T08:58:12+0000
+/project/cubicweb-basket/, cubicweb-basket, 1.5.1, shopping cart component for the CubicWeb framework, 2016-03-14T16:24:20+0000
+/project/cubicweb-jsonld/, cubicweb-jsonld, 0.1.0, jsonld views for cubicweb, 2015-06-04T21:16:27+0000
+/project/cubicweb-vtimeline/, cubicweb-vtimeline, 0.6.0, VeriteCo / TimelineJS cube, 2019-09-24T13:57:00+0000
+/project/cubicweb-massmailing/, cubicweb-massmailing, 0.2.0, Mass mailing handling: send mail to entities adaptable to IEmailable, 2019-07-18T11:38:12+0000
+/project/cubicweb-celerytask/, cubicweb-celerytask, 0.7.5, Run and monitor celery tasks, 2021-03-30T14:10:18+0000
+/project/cubicweb-ckeditor/, cubicweb-ckeditor, 0.2.0, WYSIWYG js editor with ckeditor, 2020-11-20T13:45:46+0000
+/project/cubicweb-jqplot/, cubicweb-jqplot, 0.5.0, views wrapping jqPlot graphic library, 2019-07-18T11:35:47+0000
+/project/cubicweb-vcsfile/, cubicweb-vcsfile, 2.5.0, component to integrate version control systems data into the CubicWeb framework, 2019-03-05T14:19:14+0000
+/project/cubicweb-compound/, cubicweb-compound, 0.7.1, Library cube to handle assemblies of composite entities, 2019-10-01T07:50:20+0000
+/project/cubicweb-simplefacet/, cubicweb-simplefacet, 1.0.0, Cube adding another display for facets., 2019-10-16T14:07:04+0000

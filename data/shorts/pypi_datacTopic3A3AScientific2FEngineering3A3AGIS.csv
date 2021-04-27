@@ -1,0 +1,1621 @@
+/project/overpass2/, overpass2, 0.6.3, Python wrapper for the OpenStreetMap Overpass API, 2019-10-02T22:30:38+0000
+/project/pygoogleearth/, pygoogleearth, 0.0.2, Python wrapper for Google Earth COM API, 2009-10-08T06:11:42+0000
+/project/richdem/, richdem, 0.3.4, High-Performance Terrain Analysis, 2018-07-13T20:03:49+0000
+/project/gdal2mbtiles/, gdal2mbtiles, 2.1.2, Converts a GDAL-readable dataset into an MBTiles file.This is used to generate web maps., 2020-02-05T16:44:38+0000
+/project/region-grow/, region-grow, 1.0.4, Creates a new polygon locally given a set of points using a region grow algorithm approach and a satellite image in GeoTIFF format. The polygon output format is ESRI Shapefile, 2020-11-29T21:50:03+0000
+/project/prcoords/, prcoords, 1.0.2, Public Domain library for rectifying Chinese coordinates (gcj-02/bd-09), 2019-08-17T05:35:37+0000
+/project/geolinks/, geolinks, 0.2.0, Utilities to deal with geospatial links, 2015-09-05T16:22:56+0000
+/project/khooshe/, Khooshe, 0.2, Big GeoSptial Data Points Visualization Tool, 2016-04-14T20:36:19+0000
+/project/python-sld/, python-sld, 1.0.9, A simple python library that enables dynamic SLD creation and manipulation., 2012-09-10T15:04:39+0000
+/project/rio-tiler-crs/, rio-tiler-crs, 2.0.2, A rio-tiler plugin to create tile for arbitraty grid, 2020-06-05T04:32:38+0000
+/project/collective-geo-openlayers/, collective.geo.openlayers, 4.0, openlayers support for Plone, 2019-01-23T10:47:32+0000
+/project/osmalchemy/, OSMAlchemy, 0.1.5, OpenStreetMap to SQLAlchemy bridge, 2018-02-09T16:00:00+0000
+/project/geoai-gdal/, geoai-GDAL, 3.1.2, GDAL: Geospatial Data Abstraction Library, 2021-04-22T12:49:38+0000
+/project/smmsat/, SMMSAT, 0.1.0, Soft Matter Molecular Simulation Analysis Toolkit., 2018-10-31T22:28:17+0000
+/project/motu-client/, motu-client, 1.7.00, Extract and download gridded data through a python command line from Motu web server. Used in CMEMS context http://marine.copernicus.eu/, 2018-10-04T07:48:15+0000
+/project/buzzard/, buzzard, 0.6.5, GIS files manipulations, 2020-10-26T19:50:53+0000
+/project/snkit/, snkit, 1.6.0, a spatial networks toolkit, 2019-08-19T14:24:27+0000
+/project/s1tiling/, S1Tiling, 0.2.0rc2, On demand Ortho-rectification of Sentinel-1 data on Sentinel-2 grid., 2021-03-01T08:09:55+0000
+/project/addok-france/, addok-france, 1.1.0, Add France specific string processors., 2017-05-12T16:09:51+0000
+/project/osmread/, osmread, 0.2, Simple library for reading OpenStreetMap XML and PBF data files, 2017-04-09T12:28:21+0000
+/project/gpx2spatialite/, gpx2spatialite, 0.8.2, gpx2spatialite, 2016-01-30T14:55:01+0000
+/project/geodestic/, geodestic, 0.2.2, A Cython implementation of android.location.Location.computeDistanceAndBearing(), 2015-07-20T15:36:03+0000
+/project/geographiclib/, geographiclib, 1.50, The geodesic routines from GeographicLib, 2019-09-24T13:12:06+0000
+/project/s5a/, s5a, 0.4, Sentinel-5 Algorithms, 2020-01-16T15:49:02+0000
+/project/access-jamessaxon/, access-jamessaxon, 1.0.0, Calculate spatial accessibility metrics., 2019-10-29T19:38:07+0000
+/project/mapchete-numpy/, mapchete-numpy, 0.1, Mapchete NumPy read/write extension, 2017-02-01T14:56:26+0000
+/project/pygeoj/, PyGeoj, 1.0.0, A simple Python GeoJSON file reader and writer., 2018-09-13T06:07:48+0000
+/project/ghome/, ghome, 0.0.3, Simple CLI for Google Home & Mini, 2021-03-08T16:03:35+0000
+/project/county-adjacency/, county-adjacency, 0.1.3, This package provides adjacency information for US counties (or their equivalent)., 2020-12-30T21:28:24+0000
+/project/shapeobject/, shapeObject, 0.4.0, Create an objected from a shapefile with shapely compatible geometry, 2021-01-08T17:37:02+0000
+/project/unrasterize/, unrasterize, 1.0.0, A simple API for lossfully converting raster datasets to GeoJSON., 2018-04-25T18:18:33+0000
+/project/mapsnap/, mapsnap, 1.0.1, Apple Maps Web Snapshots on Python, 2020-09-08T01:08:56+0000
+/project/eodag-sentinelsat/, eodag-sentinelsat, 0.3.0, Sentinelsat plugin to EODAG (https://github.com/CS-SI/eodag), 2021-03-26T15:20:26+0000
+/project/stetl/, Stetl, 2.0, Transformation and conversion framework (ETL) mainly for geospatial data, 2019-04-11T14:51:49+0000
+/project/ppygis/, PPyGIS, 0.2, PostGIS adapter for Psycopg, 2011-04-13T16:16:00+0000
+/project/radiant-mlhub/, radiant-mlhub, 0.1.2, A Python client for Radiant MLHub, 2021-03-10T19:53:37+0000
+/project/maskmypy/, maskmypy, 0.0.3, Geographic masking tools for spatial data anonymization, 2020-06-23T02:26:20+0000
+/project/gmaltcli/, gmaltcli, 1.1.0, Download, extract and import HGT data into a SQL database, 2017-08-14T10:55:33+0000
+/project/dggrid4py/, dggrid4py, 0.2.3, a Python library to run highlevel functions of DGGRIDv7, 2020-10-29T07:15:01+0000
+/project/collective-geo-file/, collective.geo.file, 0.6, An openlayers view for KML, KMZ and GPX files, 2013-08-30T09:22:55+0000
+/project/gryd/, Gryd, 2.0.0, Efficient great circle computation and projection library for x86 or x64 platform on Windows or Ubuntu., 2021-01-04T21:31:43+0000
+/project/pytest-falcon/, pytest-falcon, 0.4.2, Pytest helpers for Falcon., 2016-09-07T12:31:59+0000
+/project/encpoly/, encpoly, 0.2.0, Library for encoding/decoding geographic coordinates using Google's Encoded Polyline Algorithm, 2019-03-19T12:30:18+0000
+/project/fmeclient/, fmeclient, 0.0.1, FME Server Client, 2019-07-23T21:41:53+0000
+/project/ky-sdk/, ky-sdk, 0.0.1, KuaYue Express Python SDK, 2019-12-13T08:21:53+0000
+/project/terra-submersa-cli/, terra-submersa-cli, 0.0.8, Command Line Interface to interact with Terra Submersa data, 2017-12-21T05:52:28+0000
+/project/pygeoc/, PyGeoC, 0.3.1, Python for GeoComputation, 2019-11-03T09:27:53+0000
+/project/terracotta/, terracotta, 0.7.0, A modern XYZ tile server written in Python, 2020-07-01T09:56:26+0000
+/project/geoserver-restconfig/, geoserver-restconfig, 2.0.4.8, GeoServer REST Configuration, 2020-10-31T22:30:09+0000
+/project/pycql/, pycql, 0.0.12, pycql is a pure Python parser implementation of the OGC CQL standard, 2021-03-23T08:50:33+0000
+/project/subdivide/, subdivide, 1.0.1, Subdivides lines by several methods., 2019-10-11T07:55:30+0000
+/project/pygbdx/, pygbdx, 0.0.3, GBDX Simple CLI, 2018-10-18T16:08:17+0000
+/project/davies/, davies, 0.1.2, Package for manipulating cave survey data, 2017-06-12T05:19:14+0000
+/project/laspy/, laspy, 1.7.0, Native Python ASPRS LAS read/write library, 2020-03-13T20:58:15+0000
+/project/parsewkt/, parsewkt, 0.1dev, WKT Parser, 2013-10-25T13:59:46+0000
+/project/cron-wrapper/, cron-wrapper, 0.1.0, A cron job wrapper to add some missing features (locks, timeouts, random sleeps, env loading..., 2021-02-12T09:37:34+0000
+/project/jxl2txt/, jxl2txt, 0.1.1, Python library to convert Trimble JobXML files using XSLT, 2019-03-26T18:12:37+0000
+/project/falcon-multipart/, falcon-multipart, 0.2.0, Multipart form parsing for Falcon., 2017-05-12T15:48:42+0000
+/project/wpserver/, WPServer, 1.0, a web mapping transformation library, 2007-12-23T05:53:49+0000
+/project/cartopy/, Cartopy, 0.19.0.post1, A cartographic python library with Matplotlib support for visualisation, 2021-04-23T16:49:22+0000
+/project/to4326/, to4326, 1.0.2, , 2021-02-13T02:39:24+0000
+/project/collective-geo-fastkml/, collective.geo.fastkml, 0.3, Generate KML with fastkml for collective.geo, 2013-09-05T11:42:44+0000
+/project/taobao-sdk/, taobao-sdk, 0.0.5, TaoBao SDK, 2019-07-03T09:14:27+0000
+/project/ackbar/, Ackbar, 0.2, A Python program to assess Key Biodiversity Areas (KBA) delimitation., 2021-04-06T23:33:51+0000
+/project/tilelogs/, tilelogs, 0.2.0, , 2021-03-27T04:52:40+0000
+/project/wq-app/, wq.app, 1.2.0, Offline-capable HTML5 web and hybrid apps for citizen science field data collection., 2020-01-22T07:12:47+0000
+/project/libais/, libais, 0.17, Automatic Identification System decoding - ship tracking, 2018-01-17T18:22:52+0000
+/project/sweden-crs-transformations/, sweden-crs-transformations, 1.0.0, Python library for transformation of geographic coordinates between WGS84 and the Swedish coordinate reference systems SWEREF99 and RT90, 2021-04-10T17:34:51+0000
+/project/pivotal-geopy/, pivotal-geopy, 1.0.0, Python Geocoding Toolbox, 2018-04-24T20:39:47+0000
+/project/pyspatiotemporalgeom/, pyspatiotemporalgeom, 0.2.7.5, Spatiotemporal geometry libray. Curently a pure python library, not explicitly focused on speed., 2016-06-28T20:41:57+0000
+/project/osmoapi/, osmoapi, 0.1, OpenStreetMap OAuth API, 2016-05-12T14:22:04+0000
+/project/collective-geo-settings/, collective.geo.settings, 4.0, collective.geo settings, 2019-01-23T13:18:07+0000
+/project/dask-geomodeling/, dask-geomodeling, 2.3.4, On-the-fly operations on geographical maps., 2021-02-08T10:34:20+0000
+/project/django-shapes/, django-shapes, 0.2.0, Upload and export shapefiles using GeoDjango., 2010-02-12T01:42:00+0000
+/project/collective-geo-polymaps/, collective.geo.polymaps, 0.1, Collective Geo Polymaps integation, 2012-02-24T11:14:56+0000
+/project/imposm-parser/, imposm.parser, 1.0.7, Fast and easy OpenStreetMap XML/PBF parser., 2015-01-10T13:16:30+0000
+/project/goesdownloader/, goesdownloader, 0.0.16, A python library that allow to download the netcdf images of the NOAA CLASS (Comprehensive Large Array-Data Stewardship System)., 2016-01-09T03:03:05+0000
+/project/twd97/, twd97, 0.1.1, Python converter between TWD97 and WGS84, 2014-10-22T03:27:33+0000
+/project/plantpy/, plantpy, 0.0.4, Plant Village Survey Export: Simple CLI, 2020-06-02T06:23:44+0000
+/project/mapboxgl-notebook/, mapboxgl-notebook, 0.7, MapboxGL ipython renderer, 2019-04-10T16:46:18+0000
+/project/hexcover/, hexcover, 0.4.0, Given a centroid and side length, tile an area with regular flat hexagons, 2019-06-30T18:40:47+0000
+/project/cartoview-2/, cartoview-2, 0.2a15, A GIS Web Mapping Application Market. Create, share, and visualize GIS Web Mapping Applications, 2019-04-18T11:14:42+0000
+/project/django-measurement/, django-measurement, 3.2.3, Convenient fields and classes for handling measurements, 2020-04-22T10:38:39+0000
+/project/overpass/, overpass, 0.7, Python wrapper for the OpenStreetMap Overpass API, 2019-12-10T21:54:50+0000
+/project/pyshtools/, pyshtools, 4.8, SHTOOLS - Spherical Harmonic Tools, 2021-01-26T09:42:23+0000
+/project/geojson-pydantic/, geojson-pydantic, 0.2.2, Pydantic data models for the GeoJSON spec, 2020-12-29T19:24:45+0000
+/project/opendem/, opendem, 0.0.23, Very simple API to download, merge, resample, project DEM tiles from AWS and Thredds, 2018-08-27T02:56:51+0000
+/project/usig-normalizador-amba-p32/, usig-normalizador-amba-P32, 1.2.5, Normalizador de Direcciones AMBA, 2018-12-20T15:32:31+0000
+/project/psy-view/, psy-view, 0.1.0, ncview-like interface to psyplot, 2020-11-12T05:56:05+0000
+/project/country-bounding-boxes/, country-bounding-boxes, 0.2.3, Library of bounding boxes of countries (and associated data), 2015-07-14T15:34:56+0000
+/project/django-location/, django-location, 2.1.1, Gather, store, and display real-time location information from Foursquare, iCloud, and more., 2013-12-24T01:59:45+0000
+/project/geomag/, geomag, 0.9.2015, Magnetic variation/declination, 2014-12-17T16:30:00+0000
+/project/retriever/, retriever, 3.0.0, Data Retriever, 2020-07-16T20:24:51+0000
+/project/catchments/, catchments, 1.1.1, Python wrapper for multiple APIs, that provide catchments-areas, 2017-05-03T22:19:27+0000
+/project/spint/, spint, 1.0.7, SPatial INTeraction models, 2020-09-09T02:31:44+0000
+/project/hydrograph-py/, Hydrograph-py, 1.0.1, Hydrological python package for hydrograph analysis, 2019-12-18T04:12:42+0000
+/project/pykml1/, pykml1, 1.0.0, Python KML library with updates for Python 3, 2020-12-20T00:54:01+0000
+/project/mapchete-safe/, mapchete-safe, 0.7, Mapchete SAFE file read extension, 2017-12-22T11:05:11+0000
+/project/pygeometa/, pygeometa, 0.6.0, pygeometa is a Python package to generate metadata for geospatial datasets, 2021-01-16T14:43:47+0000
+/project/pyinterpolate/, pyinterpolate, 0.2.2.post2, Spatial interpolation Python module, 2021-03-10T19:50:10+0000
+/project/c2cwsgiutils/, c2cwsgiutils, 4.1.1, Common utilities for Camptocamp WSGI applications, 2021-01-06T10:02:09+0000
+/project/s2geometry/, s2geometry, 0.9.0, Computational geometry and spatial indexing on the sphere, 2019-12-25T05:21:32+0000
+/project/errorgeopy/, errorgeopy, 1.0.1, Python geocoding in a disagreeing world, 2017-07-12T09:44:23+0000
+/project/arcgis/, arcgis, 1.8.5.post3, ArcGIS API for Python, 2021-04-12T03:28:09+0000
+/project/ppipe/, ppipe, 0.4.9, Planet API Pipeline & Google Earth Engine Batch Assets Manager with Addons, 2019-10-26T13:58:11+0000
+/project/shingle/, shingle, 2.2.0, Generation of boundary representation and mesh spatial discretisations from arbitrary geophysical fields., 2018-07-14T22:25:10+0000
+/project/sknni/, sknni, 1.0.0, Spherical k-nearest neighbors interpolation, 2019-04-30T20:29:23+0000
+/project/sentinel5dl/, sentinel5dl, 1.0, Sentinel-5p Downloader, 2020-01-12T18:26:10+0000
+/project/ibmpairs/, ibmpairs, 0.1.3, open source Python modules for the IBM PAIRS Geoscope platform, 2021-02-24T17:20:15+0000
+/project/txmap/, TxMap, 0.0.7, A hepler tools for tencent map api, 2018-11-21T11:55:32+0000
+/project/pywps/, pywps, 4.4.2, PyWPS is an implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python., 2021-03-31T09:57:53+0000
+/project/products-doormat/, Products.Doormat, 1.2, Adds a doormat viewlet and installs it in the Plone footer. The links and text in the doormat are manageable as content., 2016-08-22T09:14:43+0000
+/project/ieo/, ieo, 1.1.1, Irish Earth Observation library., 2018-03-15T17:49:18+0000
+/project/smarttap/, smarttap, 1.0.0, Public transport smart card data analysis software, 2017-04-17T08:48:52+0000
+/project/wq-db/, wq.db, 1.2.1, Django design patterns and REST API for citizen science field data collection., 2020-09-02T05:10:10+0000
+/project/spopt/, spopt, 0.1.1, Spatial Optimization in PySAL, 2021-01-31T22:24:21+0000
+/project/data-wizard/, data-wizard, 1.3.0, Interactive web-based wizard for importing structured data into Django models., 2020-02-21T01:06:18+0000
+/project/gpsimage/, gpsimage, 0.0.2, Retrieves GPS data from Geo-referenced images made easy, 2014-08-18T23:44:22+0000
+/project/pbasemap/, pbasemap, 0.1.0, Tool to download Planet Monthly Mosaic Quads, 2019-06-25T04:44:35+0000
+/project/pyoscar/, pyoscar, 0.3.0, Pythonic API to WMO OSCAR Web Services, 2021-02-01T14:55:24+0000
+/project/h3/, h3, 3.7.2, Hierarchical hexagonal geospatial indexing system, 2021-03-02T05:03:54+0000
+/project/lue/, lue, 0.1.0, The LUE Python package allows you to perform I/O to the LUE Scientific Database, which is an HDF5 binary data format, 2017-04-04T12:02:12+0000
+/project/asf-granule-util/, asf-granule-util, 0.0.62, Library for handling sentinel granules, 2018-08-16T01:24:53+0000
+/project/klvdata/, klvdata, 0.0.3, A Python library for parsing MISB/STANAG 4609 Key Length Value (KLV) metadata., 2018-09-28T05:33:21+0000
+/project/botwinick-gis/, botwinick-gis, 0.0.3, GIS support package, 2021-02-02T19:38:01+0000
+/project/satadd/, satadd, 0.0.4, Simple CLI for piping Planet, Satellogic, GEE & GBDX Assets, 2018-10-18T14:26:03+0000
+/project/utm/, utm, 0.7.0, Bidirectional UTM-WGS84 converter for python, 2020-11-25T11:56:40+0000
+/project/walkscore-frontend/, walkscore_frontend, 0.3, Front-end (scraper API) for the Walkscore website, 2015-04-13T07:58:31+0000
+/project/eodag/, eodag, 2.2.0, Earth Observation Data Access Gateway, 2021-03-26T14:04:27+0000
+/project/tri/, tri, 0.3, (Constrained) Delaunay Triangulation of Planar Straight Line Graphs (pure Python), 2015-07-30T08:14:02+0000
+/project/tilematrix/, tilematrix, 0.20, helps handling tile pyramids, 2019-04-10T17:28:04+0000
+/project/globsim/, globsim, 2.0.1, Using global reanalysis data for local permafrost simulation, 2020-11-04T21:43:01+0000
+/project/wps-remote/, wps-remote, 2.15.0, A library that allows users to publish their executables as GeoServer WPS Processes through the XMPP protocol, 2018-11-15T09:39:20+0000
+/project/aliyun-sms/, aliyun-sms, 0.0.4, Aliyun Sms Python SDK, 2020-07-11T09:14:16+0000
+/project/pydynamo/, pydynamo, 0.1.4, Python library for communicating with dynamo db !, 2015-09-20T17:21:56+0000
+/project/osmiter/, osmiter, 1.1.1, Library for reading OSM XML/GZ/BZ2/PBF files, 2021-01-28T12:23:49+0000
+/project/rindcalc/, rindcalc, 3.0.0, Rindcalc is an open source python package created to calculateremote-sensing indices and composites., 2020-08-07T03:18:21+0000
+/project/colouringmap/, colouringmap, 0.0.3, a mapping tool for generating choropleth map from map data (shpfile), by breaking sequential values into groups, or beforehand prepared category/level., 2017-08-28T09:22:20+0000
+/project/ogr2wkt/, ogr2wkt, 0.0.2, Convert (Fiona-supported) OGR data sources to plaintext WKT., 2020-04-09T05:01:05+0000
+/project/django-loci/, django-loci, 0.4.2, Reusable django-app for outdoor and indoor mapping, 2021-03-16T22:45:44+0000
+/project/rio-tiler/, rio-tiler, 2.0.7, User friendly Rasterio plugin to read raster datasets., 2021-04-01T20:05:01+0000
+/project/py-projectmill/, py-projectmill, 0.2.2, Python port of https://github.com/mapbox/projectmill, 2012-12-26T19:27:15+0000
+/project/zgeo-spatialindex/, zgeo.spatialindex, 0.3, Spatial index for Zope, 2008-02-19T18:47:18+0000
+/project/addok-getbyid/, addok-getbyid, 0.0.7, , 2019-11-18T08:09:16+0000
+/project/geocortex-reporting-client/, geocortex-reporting-client, 1.1.0, A Python client for running Geocortex Reporting jobs., 2021-01-23T00:55:56+0000
+/project/nsfsearch/, nsfsearch, 0.0.1, NSF Awards API Simple CLI, 2019-04-16T15:53:47+0000
+/project/gpsdio-sort/, gpsdio-sort, 0.1, A CLI plugin for `gpsdio` that sorts messages in arbitrarily large files according to an arbitrary set of columns., 2015-05-29T14:45:36+0000
+/project/oocprocess/, oocprocess, 0.2.3, Out-of-core Processing, 2020-07-31T03:57:02+0000
+/project/eehelper/, eehelper, 0.1.5, Helper library for Google Earth Engine python API scripts, 2021-03-14T06:07:14+0000
+/project/pygpsclient/, PyGPSClient, 1.0.5, PyGPSClient GNSS/GPS Graphical Client, 2021-04-24T07:57:15+0000
+/project/cgpolyencode/, cGPolyEncode, 0.1.1, Google Maps Polyline encoding (C++ extension), 2009-11-17T21:28:05+0000
+/project/fio-buffer/, fio-buffer, 0.1.1, A Fiona CLI plugin for buffering geometries., 2015-07-22T01:18:28+0000
+/project/bmi-arcgis-restapi/, bmi-arcgis-restapi, 2.0.2, Package for working with ArcGIS REST API, 2020-11-13T14:26:07+0000
+/project/gps-py3-shim/, gps-py3-shim, 3.17.5, gpsd client library (python3 port), 2018-05-18T21:46:58+0000
+/project/geoval/, geoval, 0.1.5, geoval - python based geodata evaluation package, 2017-03-13T16:44:15+0000
+/project/protobuf-gis/, protobuf-gis, 1.0.3, GIS ProtoBuf module, 2017-08-13T19:49:55+0000
+/project/gpolyencode/, GPolyEncode, 0.1.1, Google Maps Polyline encoding (pure Python), 2009-11-17T21:28:12+0000
+/project/spaten/, spaten, 0.4.1, Spaten File Format Library, 2019-02-14T14:21:30+0000
+/project/pexver/, pexver, 0.0.1, Excel spreadsheet verifier., 2019-07-24T08:43:10+0000
+/project/georeverse/, Georeverse, 0.3, Find the best estimate of city, state and country for a given latitude and longitude., 2016-10-20T20:30:18+0000
+/project/embtest/, embtest, 0.0.1, A light-weight testing module that enables users to write testing code along writing the actual code, 2018-08-29T05:14:33+0000
+/project/ml-descriptor/, ml-descriptor, 0.0.1, A simple descriptor, 2018-11-05T15:18:37+0000
+/project/mapproxy/, MapProxy, 1.13.0, An accelerating proxy for tile and web map services, 2020-11-19T09:23:10+0000
+/project/terraref-terrautils/, terraref-terrautils, 1.1.2, TERRA-REF workflow utilities, 2018-03-30T14:30:18+0000
+/project/apls/, apls, 0.1.0, CosmiQ Works APLS Metric Implementation, 2019-05-21T23:05:13+0000
+/project/vectorformats/, vectorformats, 0.1, geographic data serialization/deserialization library, 2009-04-03T18:45:09+0000
+/project/gispy/, gispy, 0.0.10, GIS functions with GDAL/OGR, 2019-11-01T15:49:18+0000
+/project/aceso/, aceso, 0.1.0, Lightweight package to calculate 2SFCA and other measures of spatial accessibility, 2018-05-10T17:18:18+0000
+/project/pykml/, pykml, 0.2.0, Python KML library, 2019-10-25T19:46:18+0000
+/project/nik2img/, nik2img, 0.8.0, A command line style renderer for the Mapnik C++/Python mapping toolkit, 2011-10-26T23:26:03+0000
+/project/esrijson/, esrijson, 0.4.4, Bindings and utilities for EsriJSON, 2020-09-03T10:14:35+0000
+/project/swatpy/, swatpy, 0.1.5, A Python package to run, control/manipulate and analyse SWAT2012 models, 2020-10-29T06:35:54+0000
+/project/hyo-bagexplorer/, hyo.bagexplorer, 0.5.7, An application to browse and manage BAG files., 2018-06-21T12:30:56+0000
+/project/addok-trigrams/, addok-trigrams, 1.1.1, Trigram based algorithm for Addok., 2018-07-19T09:14:41+0000
+/project/pysal/, pysal, 2.4.0, A library of spatial analysis functions., 2021-02-02T02:59:42+0000
+/project/hex-utils/, hex-utils, 0.4.5, Utilities for ASCII encoded hexagonal rasters (HexASCII), 2020-09-10T12:43:26+0000
+/project/cartocss-doc-parser/, cartocss-doc-parser, 0.2.10, CartoCSS documentation parser., 2021-02-01T19:57:17+0000
+/project/microbarometer/, microbarometer, 0.1.0, Read SEED microbarometer data and plot., 2018-08-15T05:29:59+0000
+/project/pysep/, pySEP, 1.0.11, Pacote Open Source desenvolvido no Brasil para modelar e simular Sistemas Elétricos de Potência. Open Source Package developed in Brazil to model and simulate Electric Power Systems, 2020-06-19T03:14:59+0000
+/project/bounds/, bounds, 0.0.5, Very simple API return geographic or projected coordinates from raster or iterable, 2018-10-18T17:35:38+0000
+/project/noaadata-py/, noaadata-py, 0.45, Encode/decode NOAA co-ops marine data and marine AIS, 2013-03-03T02:30:43+0000
+/project/zgeo-plone-kml/, zgeo.plone.kml, 0.2, KML for Plone content, 2008-09-12T03:55:40+0000
+/project/rio-viz/, rio-viz, 0.6.1, Visualize Cloud Optimized GeoTIFF in browser, 2021-04-08T16:49:55+0000
+/project/mapcanvasgtk/, MapCanvasGTK, 0.0.1, A PyGtk (PyGObject) widget for adding a map to your application, 2020-07-25T20:00:27+0000
+/project/esda/, esda, 2.3.6, Exploratory Spatial Data Analysis., 2021-01-20T17:55:22+0000
+/project/ogr-utils/, ogr_utils, 1.2, conveniance utilities for ogr, 2014-08-27T12:35:42+0000
+/project/gps3/, gps3, 0.33.3, Python 2.7-3.5 clients for gpsd, 2016-09-04T03:19:06+0000
+/project/trajectory/, trajectory, 0.1.1, Trajectory data lossy compression format based on Google's Encoded Polyline Algorithm Format, 2020-02-24T17:31:53+0000
+/project/color-balance/, color_balance, 0.1.112, Color balancing, 2016-05-20T20:25:47+0000
+/project/tilemapbase/, tilemapbase, 0.4.7, Use OpenStreetMap tiles as basemaps in python / matplotlib, 2021-01-15T22:09:18+0000
+/project/learn2map/, learn2map, 0.7.0, Spatial mapping from remote sensing data, 2020-06-22T04:40:24+0000
+/project/ggeocoder/, ggeocoder, 1.0.1, A Python library for working with Google Geocoding API V3., 2011-10-21T14:40:43+0000
+/project/solaris/, solaris, 0.4.0, CosmiQ Works Geospatial Machine Learning Analysis Toolkit, 2020-08-21T18:51:20+0000
+/project/pysptools/, pysptools, 0.15.0, A hyperspectral imaging tools box, 2018-10-12T15:53:45+0000
+/project/pylusat/, pylusat, 0.3.4, Python for Land-use suitability analysis tools, 2021-04-25T01:20:07+0000
+/project/gdecomp/, gdecomp, 1.0.6, Gaussian Decompostion of a LiDAR Waveform, 2020-05-07T10:49:39+0000
+/project/vera/, vera, 1.0.0, Reference implementation of the ERAV data model for citizen science. ERAV is an extension to EAV with support for maintaining multi-faceted provenance metadata for an entity., 2017-09-14T15:40:58+0000
+/project/natcap-rios/, natcap.rios, 1.1.16, Resource Investment Optimization System, 2016-09-13T18:19:13+0000
+/project/tilecloud/, tilecloud, 1.5.2, Tools for managing tiles, 2021-04-01T10:00:07+0000
+/project/pclip/, pclip, 0.2.8, Planet Clip-Ship Tools CLI, 2018-08-28T14:41:33+0000
+/project/eoxserver/, EOxServer, 0.4.0, EOxServer is a server for Earth Observation (EO) data, 2016-04-21T10:16:44+0000
+/project/geodaisy/, geodaisy, 0.1.1, Python GeoJSON, WKT, and __geo_interface__ made easy., 2018-04-09T11:04:12+0000
+/project/gpxslicer/, gpxslicer, 0.1.0, Slice up gpx tracks based on distance from the start or custom waypoints, 2020-01-24T23:40:01+0000
+/project/zip-code-radius/, zip-code-radius, 0.0.1, Generate minimum sets of zip codes, based on a radius, that can be used in a series of searches to cover the entire USA, 2015-02-16T00:48:14+0000
+/project/foolib/, foolib, 0.0.1, Does something foo, 2014-05-22T13:01:07+0000
+/project/pysupercluster/, pysupercluster, 0.7.6, A fast geospatial point clustering module., 2018-10-26T08:53:01+0000
+/project/splot/, splot, 1.1.3, Visual analytics for spatial analysis with PySAL., 2020-03-23T12:01:11+0000
+/project/studio/, Studio, 0.5.1, Web-based administration interface for MapServer, 2011-03-13T16:07:09+0000
+/project/pyows/, pyows, 0.2.0, OWS utilities, 2020-08-03T11:57:47+0000
+/project/mercantile/, mercantile, 1.2.1, Web mercator XYZ tile utilities, 2021-04-21T14:42:39+0000
+/project/django-geoportail/, django-geoportail, 0.4.6, Add maps and photos from the French National Geographic Institute to GeoDjango, 2010-12-22T10:51:47+0000
+/project/pyunicorn/, pyunicorn, 0.6.1, Unified complex network and recurrence analysis toolbox, 2019-06-21T08:33:48+0000
+/project/gpf3/, gpf3, 0.3.2, Geocom Python Framework for ArcPy (Esri ArcGIS Pro)., 2020-02-21T16:24:41+0000
+/project/s2cell/, s2cell, 1.4.0, Minimal Python S2 Geometry cell ID, token and lat/lon conversion library, 2021-01-05T23:02:03+0000
+/project/geopython/, geopython, 1.0.0, Vanity package for geopython projects, 2021-02-07T12:28:59+0000
+/project/access/, access, 1.1.3, Calculate spatial accessibility metrics., 2020-12-15T20:24:20+0000
+/project/psycopg-postgis2/, psycopg-postgis2, 0.0.2, Pyscopg helpers to work with PostGIS., 2016-11-28T11:25:46+0000
+/project/natcap-invest/, natcap.invest, 3.9.0, InVEST Ecosystem Service models, 2020-12-12T01:43:49+0000
+/project/inasafe-cli/, inasafe-cli, 1.0.7, Realistic natural hazard impact scenarios for better planning, preparedness and response activities., 2017-09-18T09:07:02+0000
+/project/tobler/, tobler, 0.7.0, TOBLER: Areal Interpolation, 2021-01-31T23:22:53+0000
+/project/hdxpop/, hdxpop, 0.0.4, Simple tool to download High Resolution Population Density Maps from Humanitarian Data Exchange, 2021-03-16T05:20:00+0000
+/project/owlet/, owlet, 0.8.3, A Geospatial Python Package for Field Researchers, 2020-05-19T06:27:42+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pyshp/, pyshp, 2.1.3, Pure Python read/write support for ESRI Shapefile format, 2021-01-14T14:12:50+0000
+/project/python-geoio/, python-geoio, 0.1.1, Python bindings for the geo.io API., 2014-03-26T19:16:10+0000
+/project/python-mobilitydb/, python-mobilitydb, 0.1.1, A database adapter to access MobilityDB from Python, 2020-01-12T18:38:52+0000
+/project/telluric/, telluric, 0.13.6, Interactive geospatial data manipulation in Python, 2021-04-23T13:35:12+0000
+/project/airwing-autopublish/, airwing_autopublish, 1.0.5, GeoServer REST Configuration, 2015-12-16T03:07:38+0000
+/project/tilechips/, tilechips, 0.0.2, A python package to create raster tiles for deep learning training image chips, 2021-03-02T09:05:51+0000
+/project/oneworld/, oneworld, 1.0.4, Python mapping made easy, 2021-02-18T22:38:12+0000
+/project/entity-extract/, entity_extract, 0.0.1, Used for the entity extraction of a text and a corpora and to comapre and reduce entity lists, 2017-10-31T09:56:09+0000
+/project/cgal-bindings/, cgal-bindings, 1.2, Uses SWIG to generate bindings so you can use certain CGAL classes in Python., 2018-04-17T18:39:32+0000
+/project/simplekml/, simplekml, 1.3.5, A Simple KML creator, 2020-04-02T12:19:41+0000
+/project/plpygis/, plpygis, 0.2.0, PostGIS Python tools, 2020-02-21T20:23:22+0000
+/project/nikweb/, Nikweb, 0.1.0, A GeoJSON web service for Mapnik, 2009-09-30T18:37:33+0000
+/project/spice-hsi/, SPICE-HSI, 1.4, GatorSense Sparsity Promoting Iterated Constrained Endmembers Toolkit - Python Implementation, 2020-06-24T19:37:08+0000
+/project/gtfslib/, gtfslib, 1.0.0, GTFS database library, 2017-04-13T14:59:11+0000
+/project/noaaclass/, noaaclass, 0.0.23, A python library that allow to request images to the NOAA CLASS (Comprehensive Large Array-Data Stewardship System)., 2016-03-30T17:36:21+0000
+/project/earthengine-api/, earthengine-api, 0.1.262, Earth Engine Python API, 2021-04-21T21:59:55+0000
+/project/tormetron/, tormetron, 0.0.dev3, Download, save and process rainfall radar images from AEMET, 2019-09-25T15:52:01+0000
+/project/geoalchemy/, GeoAlchemy, 0.7.2, Using SQLAlchemy with Spatial Databases, 2013-04-09T11:25:17+0000
+/project/fractopo/, fractopo, 0.0.2, Brittle Geology Analysis Toolkit, 2021-03-22T16:44:10+0000
+/project/pyzsf/, pyzsf, 0.1.0, Model for salt intrusion through shipping locks., 2021-04-06T19:31:07+0000
+/project/datacube/, datacube, 1.8.3, An analysis environment for satellite and other earth observation data, 2020-08-18T04:09:37+0000
+/project/upoints/, upoints, 0.12.2, Modules for working with points on Earth, 2014-02-20T21:38:50+0000
+/project/picoraster/, picoraster, 0.0.2, Lazy raster band processing, 2019-03-11T01:39:03+0000
+/project/latimes-pluggablemaps-lametrorail/, latimes-pluggablemaps-lametrorail, 0.1, L.A. Times Pluggable Maps: L.A. Metro Rail, 2011-05-07T21:47:04+0000
+/project/pyandexmap/, pyandexmap, 0.0.2, Scripts for get data from yandex map API, 2012-02-03T10:19:15+0000
+/project/hyo-soundspeed/, hyo.soundspeed, 2018.1.1, A library and an application to manage sound speed profiles., 2018-02-17T17:17:58+0000
+/project/rio-ds-mask/, rio-ds-mask, 1.2, Extract an image's dataset-level mask and write to a new file., 2018-02-11T04:06:24+0000
+/project/qgmap/, qgmap, 0.2, Google Map widget for PySyde/PyQt4, 2014-04-19T21:39:57+0000
+/project/geompreds/, geompreds, 1.0.2, Adaptive Precision Floating-Point Arithmetic and Fast Robust Predicates for Computational Geometry for Python, 2017-04-24T12:06:59+0000
+/project/moody/, moody, 0.2.0, A basic CLI to download data from the Mars ODE PDS Node, 2021-01-03T16:10:09+0000
+/project/coord-convert/, coord-convert, 0.2.1, china mars coordinate convertor., 2019-09-16T15:59:44+0000
+/project/traffic/, traffic, 2.5, A toolbox for manipulating and analysing air traffic data, 2020-11-11T00:14:12+0000
+/project/koordinates/, koordinates, 0.5.3, A Python client library for a number of Koordinates web APIs, 2020-05-20T02:15:39+0000
+/project/nvector/, nvector, 0.7.6, Solves all kinds of geographical position calculations., 2020-12-18T02:49:27+0000
+/project/giokoda/, giokoda, 0.1.2, A utility for geocoding csv files., 2015-02-10T10:43:06+0000
+/project/pygeocoder/, pygeocoder, 1.2.5, Python interface for Google Geocoding API V3. Can be used to easily geocode, reverse geocode, validate and format addresses., 2014-06-13T08:33:49+0000
+/project/attitude/, Attitude, 0.5.0, Attitude computes the orientations of planes from point data., 2019-10-11T08:00:04+0000
+/project/insightgis/, insightgis, 0.0.1, Welcome to InsightGIS., 2019-01-29T18:30:48+0000
+/project/sphy/, SPHY, 2.2.1, Spatial Processes in HYdrology (SPHY) model, 2019-05-26T09:07:24+0000
+/project/beachfront/, beachfront, 0.2.5, library extracting coastline regions from raster data, 2018-05-29T03:33:31+0000
+/project/tilelite/, tilelite, 0.1.5, Lightweight WSGI tile-server, written in Python, using Mapnik rendering and designed to serve tiles in the OSM/Google scheme., 2011-03-19T00:12:17+0000
+/project/pyle38/, pyle38, 0.1.0, Async python client for Tile38, 2021-04-08T06:50:05+0000
+/project/pymapkit/, PyMapKit, 0.1.4, A Python based open-source mapping toolkit, 2020-09-06T21:22:29+0000
+/project/uk-postcode-utils/, uk-postcode-utils, 1.1, Functions for handling UK postcodes., 2020-07-15T12:28:49+0000
+/project/zgeo-plone-atom/, zgeo.plone.atom, 0.2, Plone specific Atom syndication with GeoRSS, 2008-09-12T05:22:46+0000
+/project/eclipsescraper/, eclipsescraper, 0.3, Python module for scraping NASA's eclipse site into usable CZML documents, 2015-03-10T18:31:18+0000
+/project/stems/, stems, 0.0.4, Spatio-temporal Tools for Earth Monitoring Science, 2019-08-06T21:19:22+0000
+/project/yacluster/, yacluster, 1.0.0, Distance-based clustering tool, 2016-07-04T09:44:38+0000
+/project/qgsctx/, qgsctx, 0.1, Helps launching QGIS plugins as standalone applications, 2013-06-02T15:50:46+0000
+/project/pyubx2/, pyubx2, 1.0.9, UBX Protocol Parser, 2021-04-19T18:01:29+0000
+/project/senergy/, senergy, 0.0.5, description, 2019-03-18T19:50:32+0000
+/project/pyepr/, pyepr, 1.0.1, Python ENVISAT Product Reader API, 2020-03-07T12:26:52+0000
+/project/ziptastic-python/, ziptastic-python, 1.0.0b2, Official GetZiptastic.com library., 2018-03-23T03:26:48+0000
+/project/boto-scripts/, boto-scripts, 0.0.1, Does something foo, 2015-05-18T10:26:33+0000
+/project/monet-mapsviewlet/, monet.mapsviewlet, 0.6.2, A viewlet for Plone that show up a Google Maps using the document location field. Also can handle KML files using related contents., 2012-01-04T10:44:57+0000
+/project/histview/, HistView, 0.0.1, Does something and then we make money, 2015-11-18T20:10:39+0000
+/project/epsg-ident/, epsg-ident, 0.1.1, Quickly get the EPSG code from a .prj file or WKT, 2016-05-06T15:17:04+0000
+/project/pogeo/, pogeo, 0.3.0, Fast geography package., 2017-04-16T09:53:40+0000
+/project/gisdata/, gisdata, 0.5.4, Sample data and metadata for GIS packages, 2012-10-05T11:28:17+0000
+/project/skeletonizer/, skeletonizer, 0.0.1.dev1, Hydraulic network skeletonizer, 2018-02-25T22:31:20+0000
+/project/s2reader3/, s2reader3, 0.6.3, simple Python 3 metadata reader for Sentinel-2 SAFE files (Level-1C and Level-2A), derived from old unsupported Python 2 s2reader3 of https://github.com/ungarj/s2reader.git, 2021-04-16T11:25:24+0000
+/project/terkin-micropython-libraries/, terkin-micropython-libraries, 0.10.0, Terkin MicroPython runtime libraries, 2020-05-22T00:10:27+0000
+/project/cedar-datacube/, cedar-datacube, 0.0.4, Creator for Analysis Ready Data (ARD), 2019-08-26T17:48:58+0000
+/project/rastachimp/, rastachimp, 0.3, Tools for topological processing of polygons vectorized from rasters, 2019-06-12T09:55:06+0000
+/project/rasterio/, rasterio, 1.2.2, Fast and direct raster I/O for use with Numpy and SciPy, 2021-04-07T12:41:17+0000
+/project/scipolate/, scipolate, 0.1.3, helper for running different scipy 2D interpolations, 2019-04-08T09:47:53+0000
+/project/descartes/, descartes, 1.1.0, Use geometric objects as matplotlib paths and patches, 2017-01-17T15:37:01+0000
+/project/owslib/, OWSLib, 0.23.0, OGC Web Service utility library, 2021-02-05T18:11:06+0000
+/project/rtree/, Rtree, 0.9.7, R-Tree spatial index for Python GIS, 2020-12-24T15:38:56+0000
+/project/anprx/, anprx, 0.1.2, Create, visualise and leverage networks of ANPR cameras on the road network., 2018-11-08T12:05:07+0000
+/project/itmlogic/, itmlogic, 0.1, Longley-Rice irregular terrain propagation model, 2019-07-18T10:17:41+0000
+/project/geebam/, geebam, 0.1.7, Google Earth Engine Batch Assets Manager, 2019-10-29T16:02:04+0000
+/project/bgeo-catasto/, bgeo.catasto, 0.3.1, Italian land registry utilities, 2016-03-15T14:06:40+0000
+/project/geodesiclinestogis/, GeodesicLinesToGIS, 0.5.0, Computes geodesic lines from start point to end point and stores them in a GIS file (Shapefile and GeoJSON). The problem of geodesic lines crossing antimeridian is solved., 2017-03-13T01:10:31+0000
+/project/geoalchemy2/, GeoAlchemy2, 0.8.5, Using SQLAlchemy with Spatial Databases, 2021-03-31T06:07:18+0000
+/project/modapsclient/, modapsclient, 0.1.1, A client for the NASA MODAPS web service, 2018-03-28T04:13:39+0000
+/project/terraref-stereo-rgb/, terraref-stereo-rgb, 1.1.0, TERRA-REF stereo RGB camera science package, 2018-09-07T14:28:30+0000
+/project/gpxdata/, gpxdata, 1.2.1, Object-Oriented representation of GPX documents and conversion utilities between GPX, KML and OVL, 2015-12-16T21:41:30+0000
+/project/h3ronpy/, h3ronpy, 0.10.0, python bindings for h3ron, 2021-04-24T17:56:28+0000
+/project/shp2postgis/, shp2postgis, 0.2.7, shapefile to sql converter., 2020-12-04T06:07:31+0000
+/project/espatools/, espatools, 0.1.1, Landsat raster file I/O, 2020-12-05T19:32:01+0000
+/project/collective-geo-contentlocations/, collective.geo.contentlocations, 3.2, geo reference for plone contents, 2019-01-23T10:44:36+0000
+/project/cw-eval/, cw-eval, 1.0.0, Provide Evaluation Metrics for Machine Learning Challenges, 2019-01-04T20:51:52+0000
+/project/grafana-pandas-datasource/, grafana-pandas-datasource, 0.1.2, Serve Pandas dataframes to Grafana, 2020-12-27T10:19:06+0000
+/project/kaola/, kaola, 0.0.9, Kaola Python SDK, 2020-01-05T06:06:04+0000
+/project/dgm1/, dgm1, 0.0.4, DEM from NRW (Germany), 2020-07-03T06:57:23+0000
+/project/tilecache/, TileCache, 2.11, a web map tile caching system, 2010-10-15T11:35:03+0000
+/project/aerofiles/, aerofiles, 1.0.0, waypoint, task, tracklog readers and writers for aviation, 2018-11-04T12:48:26+0000
+/project/prosail/, prosail, 2.0.5, PROSPECT, SAIL and PROSAIL Python wrappers, 2019-04-01T15:41:04+0000
+/project/xiaohongshu/, xiaohongshu, 0.0.3, Xiaohongshu Python SDK, 2019-06-27T09:19:19+0000
+/project/geoconvert/, geoconvert, 0.4.0, A small geospatial dataset converter package, 2019-04-20T13:36:31+0000
+/project/etrm/, etrm, 0.0.1, Model evapotranspiraton using soil, remote sensing, and meteorology inputs, 2018-09-23T16:32:37+0000
+/project/walkscore-api-binding/, walkscore-api-binding, 0.2.2, Unofficial WalkScore API binding, 2015-08-03T05:21:08+0000
+/project/gisrastertools/, gisrastertools, 0.1, Tools for working with Geographical Information System Rasters, 2014-12-01T03:53:15+0000
+/project/fastkml-klinden/, fastkml-klinden, 0.11, Fast KML processing in python (forked from https://github.com/cleder/fastkml), 2018-04-12T20:33:02+0000
+/project/psyplot/, psyplot, 1.3.1, Python package for interactive data visualization, 2020-10-29T13:46:40+0000
+/project/python-safe/, python-safe, 1.1.2, Spatial Analysis Functional Engine, 2013-05-27T21:07:12+0000
+/project/rtc-tools-channel-flow/, rtc-tools-channel-flow, 1.1.0, Simple and hydraulic Modelica routing models for RTC-Tools 2., 2019-09-06T11:36:05+0000
+/project/raster-tester/, raster-tester, 0.11.0, Tools for testing rasters, 2018-06-15T21:31:12+0000
+/project/open-telemetry-kit/, open-telemetry-kit, 0.2.6.2, Open source package for extracting and parsing telemetry associated with video streams and converting to common formats., 2021-02-11T18:10:20+0000
+/project/pytess/, Pytess, 1.0.0, Pure Python tessellation of points into polygons, including Delauney/Thiessin, and Voronoi polygons., 2018-09-13T05:38:29+0000
+/project/osgridconverter/, OSGridConverter, 0.1.3, Library to convert co-ordinates between the (UK) Ordnance Survey National Grid and latitude/longitude, 2017-07-31T16:00:27+0000
+/project/pywcmp/, pywcmp, 0.2.0, A Python implementation of the test suite for WMO Core Metadata Profile, 2021-03-19T13:53:01+0000
+/project/geolucidate/, geolucidate, 0.4, Parse free-form geographic coordinates in text, and automatically generate links and metadata., 2011-07-08T19:18:51+0000
+/project/pynmea2/, pynmea2, 1.18.0, Python library for the NMEA 0183 protcol, 2021-04-13T03:17:29+0000
+/project/gpf/, gpf, 0.9.6, Geocom Python Framework for ArcPy (Esri ArcGIS)., 2020-02-27T16:52:12+0000
+/project/pytides2/, pytides2, 0.0.5, fork of pytides by sam cox, compatible with newer version of python, 2020-11-27T06:32:36+0000
+/project/rstoolkit/, RStoolkit, 1.0.7, A powerful and useful package for remote sensing image&video preocessing., 2018-05-15T10:01:37+0000
+/project/area/, area, 1.1.1, Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox'sgeojson-area for Python, 2018-10-31T14:22:29+0000
+/project/holey/, holey, 2018.11, Geometry predicates written in python, optimised with numba, 2018-11-03T08:22:06+0000
+/project/hparam/, hparam, 0.1.4, A light-weight container for hyperparmeter management, 2018-04-08T15:35:46+0000
+/project/region/, region, 0.2.1, Package offering regionalization algorithms, 2020-01-26T22:31:31+0000
+/project/cpruntime/, cpruntime, 0.0.7, python module for cloudpi, 2014-05-09T05:50:12+0000
+/project/daylight/, daylight, 0.1.3, Python bindings to libdaylight, 2020-06-14T18:24:51+0000
+/project/neat-eo/, neat-EO, 0.0.2, Computer Vision framework for GeoSpatial Imagery, 2020-02-23T15:51:14+0000
+/project/pygdaltools/, pygdaltools, 1.3.2, Python wrapper for Gdal/OGR command line tools, 2021-02-23T16:17:43+0000
+/project/geosardine/, geosardine, 0.10.2, Spatial operations extend fiona and rasterio, 2020-12-18T11:32:18+0000
+/project/redfearn/, redfearn, 1.0.4, Converts between latitude/longitude and grid coordinates using Redfearn's Formula, 2015-09-18T00:52:23+0000
+/project/icoscp/, icoscp, 0.1.6, Access to ICOS data objects hosted at https://data.icos-cp.eu, 2021-03-29T20:31:27+0000
+/project/geomancer/, geomancer, 1.1.0, Automated Geospatial Feature Engineering Library, 2019-05-06T01:58:35+0000
+/project/cartoview/, cartoview, 1.31, Cartoview is a GIS web mapping application framework to     easily share and deploy apps based on Geonode, 2021-04-21T13:07:33+0000
+/project/satelliteimage/, SatelliteImage, 0.1.28, Simple API provides a class to process satellite images, 2018-09-28T20:42:49+0000
+/project/kotori/, kotori, 0.26.6, Kotori is a data acquisition, processing and graphing toolkit for humans, 2021-02-17T14:53:25+0000
+/project/rasterinlay/, RasterInLay, 0.1.2rc0, Modifies a raster by constraining the distribution within specified areas using data from another raster., 2020-12-29T12:56:41+0000
+/project/inpoly/, inpoly, 0.2.0, Fast point(s)-in-polygon queries., 2020-12-20T01:06:09+0000
+/project/hm-render-landez/, hm-render-landez, 0.0.2, Render a map for a given area to paper using landez and mapnik, 2019-10-26T09:51:23+0000
+/project/pyoints/, pyoints, 0.2.0a3, A Python package for point cloud, voxel and raster processing., 2018-11-09T17:26:40+0000
+/project/climata/, climata, 0.5.0, Loads climate and hydrology data from ACIS (NOAA RCCs), CoCoRaHS, Hydromet (USBR), SNOTEL AWDB (NRCS) and NWIS (USGS)., 2017-09-14T17:10:33+0000
+/project/pygeo2x/, pygeo2x, 0.0.1, Geophysical and GIS toolbox, 2019-05-18T19:14:36+0000
+/project/elevationapi/, elevationapi, 1.0.3, Get the elevation of any land point on Earth using elevationapi.xyz, 2016-12-24T12:03:35+0000
+/project/usgs-topo-tiler/, usgs-topo-tiler, 0.2.0, rio-tiler plugin to read mercator tiles from USGS Topo Quads, 2020-05-12T05:46:48+0000
+/project/metio/, metio, 0.0.22, Very simple API to download gridded meteorology data from the web, 2018-08-27T02:53:25+0000
+/project/mapclassify/, mapclassify, 2.4.2, Classification Schemes for Choropleth Maps., 2020-12-22T23:35:31+0000
+/project/transformation-algebra/, transformation-algebra, 0.1.2, Type inference for transformation algebras., 2021-04-23T17:55:47+0000
+/project/uscensus/, uscensus, 0.2.4, US Census API discovery wrappers, 2021-04-22T00:22:38+0000
+/project/ba-tools/, ba-tools, 0.8.4, Feature engineering using ArcGIS Pro with Business Analyst for using quantitative Geography with Machine Learning., 2020-08-10T19:09:09+0000
+/project/kvadratnet/, kvadratnet, 0.3.0, Python tools for working with the Danish Kvadratnet tiling scheme., 2017-03-27T19:42:01+0000
+/project/collective-geo-wms/, collective.geo.wms, 0.2, WMS Support for Collective Geo, 2013-10-30T07:22:32+0000
+/project/kmsgrid/, kmsgrid, 1.1.0, Read and convert grids from KMS., 2017-10-18T19:05:08+0000
+/project/geonode-extract/, geonode-extract, 0.4.2, Extract data from a geonode and put it in a folder, 2012-09-18T15:35:48+0000
+/project/tilesizer/, tilesizer, 0.0.2, , 2020-05-29T01:53:52+0000
+/project/django-wms/, django-wms, 0.1.12, Mapscript based WMS framework for GeoDjango, 2016-04-26T11:38:19+0000
+/project/libedooon/, libedooon, 0.2.3, A Python wrap for Edooon RESTful APIs., 2017-04-25T02:09:21+0000
+/project/pointpats/, pointpats, 2.2.0, Methods and Functions for planar point pattern analysis, 2020-07-27T23:37:48+0000
+/project/pyvoronoi/, pyvoronoi, 1.0.5, Cython wrapper for the Boost Voronoi library (version 1.59.0), 2017-10-02T01:25:16+0000
+/project/geoarea/, geoarea, 0.1.3, Calculate the area from latitude longitude coordinates list, 2019-07-25T20:51:35+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/rhessysworkflows/, rhessysworkflows, 1.34, Libraries and command-line scripts for performing RHESSys data preparation workflows., 2016-07-12T01:09:20+0000
+/project/datacube-wps/, datacube-wps, 0.4.7, datacube-wps is an implementation of the Web Processing Service standard from the Open Geospatial Consortium., 2021-02-26T05:19:14+0000
+/project/museotoolbox/, museotoolbox, 0.13.6, Raster and vector tools for Remote Sensing and Classification, built upon gdal library, 2020-07-19T06:09:07+0000
+/project/stations/, stations, 0.0.0, A python service that allow to manage the ground stations., 2015-01-09T01:15:13+0000
+/project/pygtiff/, pyGTiff, 1.0.3, Convenience class for handling geotiffs (and potentially other formats) through GDAL, 2014-11-18T20:31:20+0000
+/project/geotiler/, geotiler, 0.14.4, GeoTiler - library to create maps using tiles from a map provider, 2020-04-21T18:50:07+0000
+/project/djangorestframework-mvt/, djangorestframework-mvt, 0.2.5,  A Django REST Framework extension for creating views that serialize model data to Google Protobuf encoded Map Box Vector Tiles via Postgres. , 2020-11-11T19:11:08+0000
+/project/hydroffice-soundspeed/, hydroffice.soundspeed, 2017.0.0, A library and an application to manage sound speed profiles., 2017-03-18T02:56:10+0000
+/project/dymax/, dymax, 1.1.2, Dymaxion Fuller Projection Utilities, 2019-07-29T03:04:08+0000
+/project/geomodels/, geomodels, 1.0.0b4, Python package for Earth data models management, 2019-12-31T19:56:41+0000
+/project/geopyspark/, geopyspark, 0.4.3, Python bindings for GeoTrellis, 2018-12-11T16:24:11+0000
+/project/shapestats/, shapestats, 0.2.4, tools & methods to measure shape regularity, 2018-08-07T04:23:59+0000
+/project/polycircles/, polycircles, 0.3.7, Polycircles: WGS84 Circle approximations using polygons, 2016-07-03T17:59:19+0000
+/project/gpsdataanalyzer/, GpsDataAnalyzer, 0.3.0, A simple Python toolkit to analyze GPS data, 2020-07-23T15:23:21+0000
+/project/rasterstats/, rasterstats, 0.15.0, Summarize geospatial raster datasets based on vector geometries, 2020-07-11T16:15:49+0000
+/project/grids/, grids, 0.5, Tools for extracting time series subsets from n-dimensional arrays in several storage formats., 2021-03-20T23:12:31+0000
+/project/django-munigeo/, django-munigeo, 0.3.6, A Django app for processing municipality-related geospatial data., 2020-06-05T12:02:55+0000
+/project/stac-py/, stac.py, 0.9.0.post11, Python Client Library for STAC., 2021-04-22T17:13:55+0000
+/project/dataplunger/, dataplunger, 0.1.0, Extract, Transform, Load, 2014-05-13T19:00:28+0000
+/project/geojsonvt/, geojsonvt, 0.1.0, A Python port of JS GeoJSON-VT for generating vector map tiles., 2018-04-26T17:02:39+0000
+/project/prospect/, prospect, 0.1.0, Archaeological survey simulation, 2021-02-03T03:21:17+0000
+/project/rio-terrain/, rio-terrain, 0.0.29, Rasterio CLI plugin to perform common operations on single-band elevation rasters, 2020-07-31T04:32:57+0000
+/project/cubicweb-postgis/, cubicweb-postgis, 0.7.1, Test for postgis, 2021-01-07T14:15:45+0000
+/project/gpx-linesman/, gpx-linesman, 0.3.0, Command line tool for measuring the straightness of a gpx track, 2021-01-24T17:19:22+0000
+/project/geomet/, geomet, 0.3.0, GeoJSON <-> WKT/WKB conversion utilities, 2020-12-29T00:48:27+0000
+/project/gdal-utils/, gdal-utils, 3.3.0.6, gdal-utils: An extension library for GDAL - Geospatial Data Abstraction Library, 2021-03-27T14:57:17+0000
+/project/segregation/, segregation, 1.5.0, Analytics for spatial and non-spatial segregation in Python., 2020-12-30T03:30:50+0000
+/project/cdochain/, cdochain, 0.2b3, Easy chaining of cdo methods., 2016-06-28T13:18:58+0000
+/project/rads/, rads, 0.1.0.post0, Python front end for the Radar Altimeter Database System., 2019-08-22T18:54:16+0000
+/project/straditize/, straditize, 0.1.3, Python package for digitizing pollen diagrams, 2019-09-20T13:41:55+0000
+/project/mgrs/, mgrs, 1.4.0, MGRS coordinate conversion for Python, 2020-10-01T16:19:07+0000
+/project/esmvalcore/, ESMValCore, 2.2.0, ESMValCore: A community tool for pre-processing data from Earth system models in CMIP and running analysis scripts., 2021-02-10T11:39:45+0000
+/project/pymeos/, pymeos, 0.1.1, Python bindings to MEOS, 2020-09-02T05:47:21+0000
+/project/hexwatershed/, hexwatershed, 0.1.0, Python interface for the HexWatershed model., 2021-04-16T16:19:08+0000
+/project/mapfish/, mapfish, 2.2, The MapFish web-mapping framework., 2011-06-23T11:55:56+0000
+/project/terraref-laser3d/, terraref-laser3d, 1.8.0, TERRA-REF laser 3D scanner science package, 2019-01-08T18:48:24+0000
+/project/pecuzal-embedding/, pecuzal-embedding, 1.3.1, PECUZAL automatic embedding of uni- and multivariate time series, 2021-03-18T10:19:41+0000
+/project/nik4/, Nik4, 1.7.0, Command-line interface to a Mapnik rendering toolkit, 2021-03-27T19:48:30+0000
+/project/asap-stereo/, asap-stereo, 0.1.0, A high level CLI and reproduceable workflow for the Ames Stereo Pipeline, 2020-12-02T19:06:29+0000
+/project/wumappy/, WuMapPy, 0.32, Graphical user interface for sub-surface geophysical survey data processing, 2019-08-20T16:11:58+0000
+/project/spiderosm/, spiderosm, 0.4.3, GIS conflation tool for matching street networks., 2015-03-01T19:49:35+0000
+/project/lidario/, lidario, 0.3.0, High-level python library to manipulate LIDAR raster and point cloud, 2020-12-12T16:25:10+0000
+/project/gpras/, GPRas, 0.1.1, algorithms for measuring concentration distribution in a spatial network., 2017-02-17T17:05:02+0000
+/project/geosoupml/, geosoupML, 0.1.56, Machine Learning support for geosoup, 2021-01-09T12:20:54+0000
+/project/terrautils/, terrautils, 1.5.5, TERRA-REF workflow utilities, 2019-11-11T14:46:57+0000
+/project/spaghetti/, spaghetti, 1.5.6, Analysis of Network-constrained Spatial Data, 2021-01-04T20:50:13+0000
+/project/skylinespolyencode/, SkyLinesPolyEncode, 0.1.3, SkyLines Polyline encoding (C++ extension), 2013-10-03T12:49:50+0000
+/project/spatial-efd/, spatial-efd, 1.2.1, Spatial elliptical fourier analysis, 2020-03-04T17:55:21+0000
+/project/geeup/, geeup, 0.4.6, Simple Client for Earth Engine Uploads with Selenium Support, 2021-04-11T21:46:41+0000
+/project/mapchete-xarray/, mapchete-xarray, 0.4, Mapchete xarray output driver, 2020-05-07T15:51:07+0000
+/project/pysoilmap/, pysoilmap, 0.1.0, Tools for performing Digital Soil Mapping (DSM) with python., 2021-04-15T14:43:32+0000
+/project/geograph/, geograph, 0.0.1, Group Team Challenge 2021 - Biodiversity Team, 2021-03-25T18:29:47+0000
+/project/twmaps/, twMaps, 0.1a0.dev-r720, Web map widgets, 2007-03-30T07:20:37+0000
+/project/zgeo-plone-geographer/, zgeo.plone.geographer, 0.1.1, Geographic annotation for Plone, 2008-09-04T15:00:07+0000
+/project/transporthours/, transporthours, 0.0.4, Package for handling public transport routes opening hours from OpenStreetMap, 2020-08-03T14:50:37+0000
+/project/pipelineutils/, pipelineutils, 1.0.7, Drone pipeline workflow utilities, 2019-06-27T22:15:43+0000
+/project/collective-geo-index/, collective.geo.index, 0.1, spatialindex for collective.geo, 2012-02-16T10:06:30+0000
+/project/collective-geo-bundle/, collective.geo.bundle, 2.3, Plone Maps (collective.geo), 2015-05-02T15:16:27+0000
+/project/brtools/, brtools, 0.0.1, Does something and then we make money, 2015-11-18T20:20:30+0000
+/project/pyverm/, pyverm, 0.3.0, Modul for geodetic and surveying calculations, 2019-12-12T15:20:58+0000
+/project/pyjpmesh/, pyjpmesh, 1.1.0, Japan grid square code (JIS X 0410) utility for Python., 2016-09-05T14:42:09+0000
+/project/fews-io/, fews-io, 0.0.1, Library for communicating with Delft-FEWS, 2021-03-11T13:10:03+0000
+/project/tilecloud-chain/, tilecloud-chain, 1.16.1, Tools to generate tiles from WMS or Mapnik, to S3, Berkeley DB, MBTiles, or local filesystem in WMTS layout using Amazon cloud services., 2021-04-13T12:16:28+0000
+/project/transitfeed/, transitfeed, 1.2.16, GTFS library and tools, 2018-01-24T06:27:02+0000
+/project/segy-lite/, segy-lite, 0.0.4, Lightweight SEGY Reading and Plotting Tool, 2020-06-14T01:50:36+0000
+/project/ft2gee/, ft2gee, 0.0.1, Fusion table to EE tables CLI, 2019-01-28T04:36:54+0000
+/project/easyrules/, easyrules, 0.0.1, A simple rules engine, 2020-10-02T04:36:13+0000
+/project/pybng/, PyBNG, 0.1.8, A library to convert BNG/OSNG coordinates, 2020-03-10T15:24:29+0000
+/project/sat-search/, sat-search, 0.3.0, A python client for sat-api, 2020-08-21T21:30:17+0000
+/project/bycyclecore/, byCycleCore, 0.4a0.dev-r1054, byCycle Core Services, 2008-09-22T21:41:25+0000
+/project/c2cciutils/, c2cciutils, 1.0, Common utilities for Camptocamp CI, 2021-03-08T09:22:02+0000
+/project/gmsdk/, gmsdk, 0.2.2, Python SDK for communicating Delhivery's - Warehouse Management System APIs for Order / Product / Supplier, 2015-04-07T07:10:31+0000
+/project/luo/, luo, 0.0.3, tools for luo, 2019-01-30T07:47:40+0000
+/project/pypath-fpa/, pypath-fpa, 0.2.9, Fast Pathfinding Algorithm, 2020-10-22T14:37:55+0000
+/project/gpx-converter/, gpx-converter, 1.7.3, Python package for manipulating gpx files and easily convert gpx to other different formats., 2020-12-27T13:00:12+0000
+/project/pysiss/, pysiss, 0.0.4, A pythonic interface to Spatial Information Services Stack (SISS) services, 2015-01-19T03:57:19+0000
+/project/pyproj/, pyproj, 3.0.1, Python interface to PROJ (cartographic projections and coordinate transformations library), 2021-03-05T03:17:13+0000
+/project/qgsgl/, qgsgl, 0.1.2, Convert QGIS project into webmapgl style, 2019-06-21T14:16:14+0000
+/project/epsg-constants/, epsg-constants, 10.11.0, Python constants with EPSG numbers for coordinate reference systems, based on EPSG dataset v10.011, 2021-04-08T23:31:27+0000
+/project/opusxml/, opusxml, 0.0.1, Python library to read and convert OPUSXML files, 2019-03-26T18:09:47+0000
+/project/cogdumper/, cogdumper, 1.1.0, , 2018-04-25T02:36:41+0000
+/project/imposm/, imposm, 2.6.0, OpenStreetMap importer for PostGIS., 2015-01-10T13:15:07+0000
+/project/python-cicero/, python-cicero, 0.1.0, Python wrapper for Azavea's Cicero API, 2014-01-22T18:43:23+0000
+/project/picogeojson/, picogeojson, 0.7.0, RFC-7946 compliant GeoJSON parser and emitter, 2018-08-04T03:41:41+0000
+/project/usig-normalizador-amba/, usig-normalizador-amba, 1.3.0, Normalizador de Direcciones AMBA, 2019-01-10T15:43:55+0000
+/project/django-raster/, django-raster, 0.8, Raster file implementation for Django based on PostGis, 2020-03-01T16:12:54+0000
+/project/itsim-scripts/, itsim-scripts, 0.5.0, Scripts for processing GTFS and Shape files for Itsim., 2020-07-15T14:39:31+0000
+/project/py-geohex3/, py-geohex3, 1.0.0, geohex v3.2 python implementation, 2017-04-17T03:06:05+0000
+/project/cropmask/, cropmask, 0.1, AI for Earth project to map center pivots and monitor crop water use., 2019-07-29T20:22:55+0000
+/project/latlon-utils/, latlon-utils, 0.0.5, Retrieve WorldClim climate and other information for lat-lon grid cells, 2019-11-13T22:16:59+0000
+/project/pyepsg/, pyepsg, 0.4.0, Easy access to the EPSG database via http://epsg.io/, 2018-11-26T10:28:17+0000
+/project/msjson/, msjson, 0.2.2, Converting UMN Mapserver mapscript objects from and to json, 2011-09-20T08:42:55+0000
+/project/geojson/, geojson, 2.5.0, Python bindings and utilities for GeoJSON, 2019-08-09T20:32:15+0000
+/project/snimar-pycsw/, snimar-pycsw, 2.1.2, pycsw implementation for the SNIMar project, 2017-02-23T15:41:17+0000
+/project/geo58/, geo58, 1.0.0b1, Yet another short-link specification for geo-coordinates., 2019-10-02T21:03:27+0000
+/project/tapitas/, tapitas, 0.0.5, A data exploration and visualization algorithm for understanding diffusion process., 2018-10-22T15:10:13+0000
+/project/asciimap/, asciimap, 1.0.0, Print countries in ASCII Art based on Natural Earth shape files., 2019-07-20T17:06:36+0000
+/project/inequality/, inequality, 1.0.0, Spatial inequality analysis for PySAL A library of spatial analysis functions., 2018-10-31T22:24:17+0000
+/project/pyswath/, pyswath, 2.0.4, package that provide tools to extract swath profiles from a raster map, 2020-05-15T16:03:57+0000
+/project/geobr/, geobr, 0.1.7, geobr: Loads Shapefiles of Official Spatial Data Sets of Brazil, 2020-07-14T17:25:26+0000
+/project/dgp-lib/, dgp-lib, 1.0.0b2, Library of functions for importing and processing gravity data, 2020-07-17T21:53:59+0000
+/project/addok/, addok, 1.0.2, Search engine for address. Only address., 2017-08-26T05:53:02+0000
+/project/pb-tool/, pb-tool, 3.1.0, Plugin build tool for QGIS: A tool to aid in QGIS Python plugin development, 2019-11-24T01:51:39+0000
+/project/autils/, Autils, 0.3.8, A hepler tools for kevin kong, 2020-04-25T13:15:20+0000
+/project/cartes/, cartes, 0.2, A generic toolbox for building maps in Python, 2021-04-04T21:34:38+0000
+/project/ogn-client/, ogn-client, 1.1.0, A python module for the Open Glider Network, 2021-04-06T07:05:38+0000
+/project/pygeodesy/, PyGeodesy, 21.4.21, Pure Python geodesy tools, 2021-04-18T17:51:51+0000
+/project/rtc-tools/, rtc-tools, 2.4.2, Toolbox for control and optimization of water systems., 2020-09-21T08:21:55+0000
+/project/satellite-image/, satellite_image, 0.1.1, Simple API provides a class to process satellite images, 2018-03-02T23:43:55+0000
+/project/pdal/, PDAL, 2.3.7, Point cloud data processing, 2021-01-19T16:15:26+0000
+/project/latimes-pluggablemaps-usstates/, latimes-pluggablemaps-usstates, 0.1, L.A. Times Pluggable Maps: U.S. States, 2011-10-02T23:54:39+0000
+/project/bcdata/, bcdata, 0.4.5, Python tools for quick access to DataBC geo-data available via WFS, 2021-04-06T21:22:46+0000
+/project/geonode-ows-endpoints/, geonode-ows-endpoints, 0.2, GeoNode OWS listing. Exposes url which lists all OWS endpoints used by layers., 2017-09-13T15:49:37+0000
+/project/pyqtree/, Pyqtree, 1.0.0, A pure Python quad tree spatial index for GIS or rendering usage., 2018-09-14T06:09:23+0000
+/project/met4dream/, met4dream, 1.5, ROMS-Norkyst800m Metocean Data Extraction and Analysis, 2017-04-03T22:46:36+0000
+/project/expressgui/, expressgui, 1.0.1, ExpressVPN Gui, 2017-08-31T08:12:51+0000
+/project/stack-composed/, stack-composed, 18.11.29, Compute and generate the composed of a raster images stack, 2018-11-29T23:33:21+0000
+/project/guessproj/, guessproj, 0.5, Script for guessing parameters of cartographic projection, 2016-07-28T12:19:13+0000
+/project/asf-search/, asf-search, 0.4.0, Python wrapper for ASF's SearchAPI, 2021-04-16T02:42:32+0000
+/project/great-circle-calculator/, great-circle-calculator, 1.2.0, A collection of functions to calculate attributes of the great circle, 2021-03-04T17:44:38+0000
+/project/cogeotiff/, cogeotiff, 0.1.4, Cloud Optimized GeoTiff utility tools., 2019-03-27T14:11:59+0000
+/project/cometts/, CometTS, 1.2.0, Time series trend analysis tools for user defined polygons in any time series of overhead imagery, 2019-09-16T17:54:48+0000
+/project/zmapio/, zmapio, 0.6.0, Python library for reading and writing map gridded data using ZMAP Plus ASCII Grid format, 2020-06-23T10:02:56+0000
+/project/glabtop2-py/, GlabTop2-py, 2.0.2, GlabTop2 (Glacier bed Topography) model, 2021-01-01T22:02:27+0000
+/project/tidegravity/, tidegravity, 0.4.0b1, Tide gravitational correction based on I.M. Longman's Formulas for Computing the Tidal Accelerations Due to the Moon and the Sun, 2020-06-08T03:17:21+0000
+/project/kdn-sdk/, kdn-sdk, 0.2.1, KDN Python SDK, 2021-04-20T02:52:51+0000
+/project/pygeoprocessing/, pygeoprocessing, 2.1.2, PyGeoprocessing: Geoprocessing routines for GIS, 2020-12-04T00:53:58+0000
+/project/addok-sqlite-store/, addok-sqlite-store, 1.0.0, Store documents in Sqlite., 2017-04-18T14:36:20+0000
+/project/nx-spatial/, nx_spatial, 0.6dev, Additional GIS focused functions for networkx graphs., 2011-07-15T03:35:21+0000
+/project/georasters/, georasters, 0.5.23, Tools for working with Geographical Information System Rasters, 2021-02-22T14:55:56+0000
+/project/django-zillow-neighborhoods/, django-zillow-neighborhoods, 0.8.0, Django app for importing and querying Zillow's neighborhood data, 2013-08-06T17:13:58+0000
+/project/osmnx/, osmnx, 1.0.1, Retrieve, model, analyze, and visualize OpenStreetMap street networks and other spatial data, 2021-01-13T20:17:35+0000
+/project/esmvaltool-sample-data/, ESMValTool-sample-data, 0.0.3, ESMValTool sample data, 2021-02-10T10:58:07+0000
+/project/karta/, karta, 0.9.1, Geospatial analysis in Python, 2019-01-24T06:47:46+0000
+/project/spglm/, spglm, 1.0.8, sparse generalized linear models, 2020-09-08T20:47:44+0000
+/project/glacier-length/, glacier-length, 1.1, extract centerline from glacier, 2019-11-13T02:40:45+0000
+/project/fgdb2postgis/, fgdb2postgis, 0.3.6, ESRI file geodatabase to PostGIS converter, 2020-05-12T08:33:38+0000
+/project/madrona/, madrona, 4.1, A software framework for effective place-based decision making, 2013-07-24T20:46:00+0000
+/project/example-pkg-eischaefer/, example-pkg-eischaefer, 0.0.12, A small example package, 2019-03-12T00:03:49+0000
+/project/landsat578/, Landsat578, 0.5.1, Very simple API to download Landsat data from Landsat 1 - 5, 7, and 8 from Google, 2018-09-11T23:41:38+0000
+/project/geolink-formatter/, geolink-formatter, 2.0.0, OEREBlex geoLink Formatter, 2021-04-12T06:16:54+0000
+/project/neighborhoods/, neighborhoods, 0.5, Lon/lat to Neighborhood for Humans, 2015-08-24T19:23:33+0000
+/project/museopheno/, museopheno, 0.1.1, Time series and spectral indices management for Remote Sensing Sensors, 2020-08-28T13:47:49+0000
+/project/lazperf/, lazperf, 1.5, Point cloud data compression, 2020-10-02T14:17:36+0000
+/project/rio-tiler-pds/, rio-tiler-pds, 0.5.0, Get mercator tile from cloud hosted dataset such as CBERS-4, Sentinel-2, Sentinel-1 and Landsat-8 AWS PDS, 2021-02-02T18:06:11+0000
+/project/spaghettini/, spaghettini, 0.0.7, A config manager that encourage people not to write spaghetti code, 2019-07-18T15:47:29+0000
+/project/qgis-plugin-ci/, qgis-plugin-ci, 1.8.4, Let QGIS-plugin-ci package and release your QGIS plugins for you. Have a tea or go hiking meanwhile., 2020-09-07T07:42:29+0000
+/project/zenpi/, zenpi, 0.0.1, Simple Zenodo API Client Implementation, 2020-03-04T05:19:11+0000
+/project/radproc/, radproc, 0.1.4, Library for RADOLAN composite processing, analysis and data exchange with ArcGIS., 2019-01-14T15:48:50+0000
+/project/openlr/, openlr, 1.0.1, OpenLR Python Implementation, 2020-05-25T07:50:40+0000
+/project/wikimapia-api/, wikimapia_api, 0.1.0.dev3, Wikimapia API Python Implementation, 2015-04-21T09:36:06+0000
+/project/nmeaanalyzer/, nmeaanalyzer, 0.0.4, Python library for the NMEA 0183 analyzer, 2020-01-13T01:02:10+0000
+/project/ukis-pysat/, ukis-pysat, 1.2.0, generic classes and functions to query, access and process multi-spectral and SAR satellite images, 2021-04-07T14:44:59+0000
+/project/quadtree/, Quadtree, 0.1.2, Quadtree spatial index for Python GIS, 2007-01-27T16:42:44+0000
+/project/podpac/, podpac, 2.2.1, Pipeline for Observational Data Processing, Analysis, and Collaboration, 2020-07-14T14:49:19+0000
+/project/gdal/, GDAL, 3.2.2, GDAL: Geospatial Data Abstraction Library, 2021-03-10T14:11:02+0000
+/project/fio-area/, fio-area, 0.1.0, Fiona CLI plugin to calculate areas, 2018-06-08T17:35:26+0000
+/project/tool-aws/, tool-aws, 0.2.2, AWS scripts for geoadmin, 2020-02-12T15:47:01+0000
+/project/porder/, porder, 0.8.1, Simple CLI for Planet Orders v2, 2021-03-29T01:53:21+0000
+/project/ssebop/, ssebop, 0.0.3, The Operational Simplified Surface Energy Balance, 2018-09-11T23:09:24+0000
+/project/pygdal/, pygdal, 3.2.2.7, Virtualenv and setuptools friendly version of standard GDAL python bindings, 2021-04-08T21:42:22+0000
+/project/gispython/, GISPython, 53.2, Additional tools for administering and automating different ArcPy and ArcGIS Server geoprocessing operations. Package is intended for use with ArcGIS 10.2.1 and later (has been tested on ArcGIS 10.3.1, ArcGIS 10.4, ArcGIS 10.5, ArcGIS 10.6.1), 2021-03-26T12:34:29+0000
+/project/pyinfluxql/, pyinfluxql, 0.1.3, A query generator for the SQL dialect of the Influx Query Language (InfluxQL), 2021-02-14T15:24:48+0000
+/project/geo-sampling/, geo-sampling, 0.0.9, Scripts for sampling Geo data sets by the specific region name, 2018-06-07T03:54:46+0000
+/project/daynight2geojson/, daynight2geojson, 0.1, Get day and night global geometry and dumps to a GeoJSON file. Builded on top of Matplotlib Basemap Toolkit Library., 2015-07-01T23:47:45+0000
+/project/pymodis/, pyModis, 2.2.0, Python library for MODIS data, 2020-11-19T13:20:19+0000
+/project/gntools/, gntools, 0.9.8, GEONIS toolset for the Geocom Python Framework (Esri ArcGIS)., 2020-01-17T12:54:54+0000
+/project/pygeoapi/, pygeoapi, 0.10.1, pygeoapi provides an API to geospatial data, 2021-03-18T16:22:00+0000
+/project/geopy/, geopy, 2.1.0, Python Geocoding Toolbox, 2020-12-27T13:12:21+0000
+/project/vtzero/, vtzero, 0.0.1b1, Python wrapper for vtzero C++ library., 2019-04-17T18:51:11+0000
+/project/aether/, aether, 0.3.37, Welcome to the Aether Platform, 2019-02-13T19:59:24+0000
+/project/pygeoif/, pygeoif, 0.7, A basic implementation of the __geo_interface__, 2017-05-04T15:46:11+0000
+/project/toureditor/, toureditor, 1.3.1, Editor for GPX/CRP tour files and height profiles.
+
+Generates nicer output if matplotlib is installed., 2012-05-20T20:33:24+0000
+/project/dwdweather2/, dwdweather2, 0.14.0, Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany., 2020-07-03T12:51:14+0000
+/project/pygeoexif/, pygeoexif, 0.0.1, Simply get latitude and longitude from an image's EXIF data, 2015-09-02T17:54:33+0000
+/project/damagescanner/, damagescanner, 0.4.5, Damage assessment tool for natural disasters, 2020-09-15T07:04:14+0000
+/project/zgeo-atom/, zgeo.atom, 0.4.1, Atom syndication and AtomPub with GeoRSS, 2008-09-03T05:03:06+0000
+/project/mobilitydb-sqlalchemy/, mobilitydb-sqlalchemy, 0.4, MobilityDB extensions to SQLAlchemy, 2020-09-02T06:31:22+0000
+/project/pynmeagps/, pynmeagps, 1.0.0, NMEA Protocol Parser, 2021-04-24T07:24:20+0000
+/project/geolocator/, geolocator, 0.1.1, geolocator library: locate places and calculate distances between them, 2006-03-06T21:55:20+0000
+/project/django-census-places/, django-census-places, 1.2.6, Use city (and census designated place) boundaries provided by the United States Census, 2014-02-06T02:42:48+0000
+/project/geosnap/, geosnap, 0.6.0, Geospatial Neighborhood Analysis Package, 2021-03-23T22:24:42+0000
+/project/gdal2mbt/, gdal2mbt, 0.4.1, Create MBTiles from GDAL files., 2014-12-10T23:22:49+0000
+/project/jd/, jd, 0.0.1, JD Python SDK, 2019-06-27T09:16:22+0000
+/project/django-munigeo-turku/, django-munigeo-turku, 0.3.6, A Django app for processing municipality-related geospatial data., 2021-03-11T08:05:15+0000
+/project/stestdata/, stestdata, 0.1.0, Variety of remote sensing data for testing, 2016-06-10T20:26:10+0000
+/project/cjio/, cjio, 0.6.8, CLI to process and manipulate CityJSON files, 2021-03-19T16:13:20+0000
+/project/imposm-geocoder/, imposm.geocoder, 0.1.3, Imposm Geocoder for OSM-Data, 2012-03-28T11:52:47+0000
+/project/asf-hyp3/, asf-hyp3, 3.0.3, Api for ASF's hyp3 system, 2019-08-15T16:43:56+0000
+/project/gtfs-py/, gtfs.py, 0.1, A simple python library for parsing, editing and writing GTFS files, 2018-08-05T07:21:06+0000
+/project/rio-tiler-mosaic/, rio-tiler-mosaic, 0.0.1.dev5, A rio-tiler plugin to create mosaic tiles., 2020-07-27T18:41:50+0000
+/project/dhm-module-example/, dhm-module-example, 0.0.1, Example that plugs into dhm_module_base, 2020-05-19T12:11:25+0000
+/project/rio-tiler-mvt/, rio-tiler-mvt, 0.0.1.dev2, A rio-tiler plugin to encode tile array to MVT, 2021-04-06T14:33:39+0000
+/project/pydrop/, pydrop, 0.0.6, Python Client for Digital Ocean Droplets, 2019-11-13T00:07:09+0000
+/project/regionmask/, regionmask, 0.6.2, plotting and creation of masks for spatial regions, 2021-01-24T18:16:57+0000
+/project/pygeojson/, pygeojson, 0.2.0, GeoJSON library for Python with types, 2020-05-31T19:04:07+0000
+/project/zgeo-geographer/, zgeo.geographer, 0.3.1, Geographic annotation for Zope, 2008-09-03T05:01:29+0000
+/project/ecohydrolib/, ecohydrolib, 1.29, Libraries and command-line scripts for performing ecohydrology data preparation workflows., 2015-07-02T21:34:27+0000
+/project/overpassify/, overpassify, 1.2.2, A tool to more easily develop queries of OpenStreetMap, 2018-07-07T08:14:59+0000
+/project/drapery/, drapery, 0.0.3, Python library and CLI tool to convert 2D geometries to 3D given an elevation source, 2019-03-26T19:32:18+0000
+/project/stac-tiler/, stac-tiler, 0.0rc2, A rio-tiler plugin to handle STAC items, 2020-06-05T04:39:34+0000
+/project/totalopenstation/, totalopenstation, 0.5.2, Download and export survey data from your total station, 2020-11-09T22:17:28+0000
+/project/sf-sdk/, sf-sdk, 1.0.1, Shunfeng Express Python SDK, 2020-10-20T06:57:12+0000
+/project/hikingmap/, hikingmap, 0.1.0, A script to calculate the minimum amount of pages needed to render one or more GPX tracks, 2020-10-30T12:55:42+0000
+/project/gsconfig/, gsconfig, 1.0.10, GeoServer REST Configuration, 2018-07-19T16:55:45+0000
+/project/keytree/, keytree, 1.1.0, KML utilities for the ElementTree API, 2020-04-26T19:33:46+0000
+/project/pyrasterframes/, pyrasterframes, 0.9.1, Access and process geospatial raster data in PySpark DataFrames, 2021-03-31T20:29:59+0000
+/project/spart-python/, SPART-python, 1.0.9, Python implementation of the SPART optical radiative transfer model., 2020-09-04T18:07:32+0000
+/project/osmapi/, osmapi, 1.3.0, Python wrapper for the OSM API, 2020-10-04T23:04:05+0000
+/project/emissionsapi-worldmap-creator/, emissionsapi-worldmap-creator, 0.3, Emissions API's World Map image creator, 2021-01-04T20:03:57+0000
+/project/pywps-json/, pywps-json, 4.2.9.8, PyWPS is an implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python., 2021-03-16T11:59:57+0000
+/project/maidenhead/, maidenhead, 1.6.0, Maidenhead Locator, Lat Lon coordinate convertor, 2021-02-10T03:40:48+0000
+/project/postal/, postal, 1.1.9, Python bindings to libpostal for fast international address parsing/normalization, 2020-07-21T03:23:02+0000
+/project/collective-geo-mapwidget/, collective.geo.mapwidget, 3.1, collective.geo mapwidget, 2019-01-23T10:07:05+0000
+/project/postgis/, postgis, 1.0.4, Pyscopg and asyncpg helpers to work with PostGIS., 2017-08-25T15:17:37+0000
+/project/geolib/, geolib, 1.0.7, A library for geohash encoding, decoding and associated functions, 2019-05-04T22:20:17+0000
+/project/ogr2pbf/, ogr2pbf, 0.1.2, A tool for converting ogr-readable files like shapefiles into .osm or .pbf data, 2020-11-01T15:45:41+0000
+/project/terkin/, terkin, 0.10.0, A flexible data logger for MicroPython and CPython, 2020-05-22T00:10:29+0000
+/project/rhessyscalibrator/, rhessyscalibrator, 2.1.0, Libraries and command-line scripts for handling RHESSys model calibration., 2016-01-11T19:29:03+0000
+/project/wtss/, wtss, 0.7.0.post3, Python Client Library for WTSS., 2021-03-29T20:11:17+0000
+/project/collective-geo-flexitopic/, collective.geo.flexitopic, 0.5, Flexitopic for collective.geo, 2013-12-04T14:07:25+0000
+/project/dhm-module-base/, dhm-module-base, 0.0.1, Module that other Click-plugins can plug into, 2020-05-19T09:23:13+0000
+/project/django-sld/, django-sld, 1.0.7, A simple django library that generates SLD documents from geographic models., 2012-10-11T14:40:37+0000
+/project/mapcode/, mapcode, 2.5.5.0, A Python module to do mapcode encoding and decoding. See http://www.mapcode.com for more information., 2019-09-20T11:41:15+0000
+/project/surficial/, surficial, 0.0.2, Python library and CLI tools to support analysis of stream long-profiles, 2017-05-06T16:33:03+0000
+/project/pyquadkey2/, pyquadkey2, 0.2.0, Python implementation of geographical tiling using QuadKeys as proposed by Microsoft, 2019-11-08T08:17:23+0000
+/project/cw-tiler/, cw-tiler, 0.2.0, Get UTM tiles for SpaceNet Dataset or arbitrary GeoTiffs, 2018-12-11T22:20:44+0000
+/project/pygdal-chm/, pygdal-chm, 3.2.2.7, Virtualenv and setuptools friendly version of standard GDAL python bindings, 2021-03-30T19:02:07+0000
+/project/poolmanager/, poolmanager, 0.2.1, Simple pool manager, 2020-09-03T10:19:32+0000
+/project/gsrest/, gsrest, 0.2.1, GeoServer python REST API client, 2020-06-09T15:19:05+0000
+/project/arcrstats/, ArcRstats, 0.8.alpha, geostatistical functions linking ESRI ArcGIS to R statistics packages, 2006-05-06T05:38:43+0000
+/project/pycon/, pycon, 0.0.2, pycon is a Python dictionary that provides attribute-style access, 2018-09-26T18:41:27+0000
+/project/pymil/, pymil, 0.2.0, A basic Open-source Carte internationale du Monde au Millionième nomenclature encoder., 2017-08-15T02:12:30+0000
+/project/gee2drive/, gee2drive, 0.1.0, Google Earth Engine to Drive Export Manager, 2019-11-12T14:52:44+0000
+/project/mapchete/, mapchete, 0.38, Tile-based geodata processing using rasterio & Fiona, 2020-12-10T15:21:15+0000
+/project/represent-boundaries/, represent-boundaries, 0.9.4, A web API to geographic boundaries loaded from shapefiles, packaged as a Django app., 2019-01-09T13:40:36+0000
+/project/gdalos/, gdalos, 0.54.0, a simple gdal translate/warp/addo python wrapper for raster batch processing, 2021-03-07T11:08:24+0000
+/project/pycsw/, pycsw, 2.6.0, pycsw is an OGC CSW server implementation written in Python, 2020-12-05T13:45:19+0000
+/project/shelley/, Shelley, 0.0.1, Simple map drawing, 2009-10-12T12:34:56+0000
+/project/wq/, wq, 1.2.1, A modular framework for citizen science field data collection via offline-capable mobile web apps., 2020-09-02T08:14:40+0000
+/project/polyfinder/, polyfinder, 0.1, UNKNOWN, 2012-09-17T04:26:31+0000
+/project/pyroutelib3/, pyroutelib3, 1.7.0, Library for simple routing on OSM data, 2021-01-29T01:07:23+0000
+/project/xarray-stac/, xarray-stac, 0.0.21b0, , 2020-10-14T03:47:30+0000
+/project/hyo2-bag/, hyo2.bag, 1.0.0, A package to manage Bathymetric Attributed Grid (BAG) data files., 2018-12-02T20:06:02+0000
+/project/latimes-pluggablemaps-uscounties/, latimes-pluggablemaps-uscounties, alpha-0.172, L.A. Times Pluggable Maps: U.S. Counties, 2010-11-23T05:52:49+0000
+/project/spectral/, spectral, 0.22.2, Spectral Python (SPy) is a Python module for hyperspectral image processing., 2021-03-31T19:44:01+0000
+/project/pykrige/, PyKrige, 1.6.0, Kriging Toolkit for Python., 2021-04-04T07:43:19+0000
+/project/pymartini/, pymartini, 0.3.2, A Python port of Martini for fast terrain mesh generation, 2020-09-25T15:55:47+0000
+/project/cjio/, cjio, 0.6.8, CLI to process and manipulate CityJSON files, 2021-03-19T16:13:20+0000
+/project/imposm-geocoder/, imposm.geocoder, 0.1.3, Imposm Geocoder for OSM-Data, 2012-03-28T11:52:47+0000
+/project/asf-hyp3/, asf-hyp3, 3.0.3, Api for ASF's hyp3 system, 2019-08-15T16:43:56+0000
+/project/gtfs-py/, gtfs.py, 0.1, A simple python library for parsing, editing and writing GTFS files, 2018-08-05T07:21:06+0000
+/project/rio-tiler-mosaic/, rio-tiler-mosaic, 0.0.1.dev5, A rio-tiler plugin to create mosaic tiles., 2020-07-27T18:41:50+0000
+/project/dhm-module-example/, dhm-module-example, 0.0.1, Example that plugs into dhm_module_base, 2020-05-19T12:11:25+0000
+/project/geoai-rasterio/, geoai-rasterio, 1.0.27, Fast and direct raster I/O for use with Numpy and SciPy, 2019-09-10T06:37:49+0000
+/project/mgrspy/, mgrspy, 0.3.1, Convert WGS84 coordinates to MGRS and back, 2020-01-13T22:04:21+0000
+/project/psy-reg/, psy-reg, 1.3.0, Psyplot plugin for visualizing and calculating regression plots, 2020-10-13T09:26:17+0000
+/project/rio-tiler-mvt/, rio-tiler-mvt, 0.0.1.dev2, A rio-tiler plugin to encode tile array to MVT, 2021-04-06T14:33:39+0000
+/project/pydrop/, pydrop, 0.0.6, Python Client for Digital Ocean Droplets, 2019-11-13T00:07:09+0000
+/project/regionmask/, regionmask, 0.6.2, plotting and creation of masks for spatial regions, 2021-01-24T18:16:57+0000
+/project/pygeojson/, pygeojson, 0.2.0, GeoJSON library for Python with types, 2020-05-31T19:04:07+0000
+/project/zgeo-geographer/, zgeo.geographer, 0.3.1, Geographic annotation for Zope, 2008-09-03T05:01:29+0000
+/project/ecohydrolib/, ecohydrolib, 1.29, Libraries and command-line scripts for performing ecohydrology data preparation workflows., 2015-07-02T21:34:27+0000
+/project/overpassify/, overpassify, 1.2.2, A tool to more easily develop queries of OpenStreetMap, 2018-07-07T08:14:59+0000
+/project/drapery/, drapery, 0.0.3, Python library and CLI tool to convert 2D geometries to 3D given an elevation source, 2019-03-26T19:32:18+0000
+/project/stac-tiler/, stac-tiler, 0.0rc2, A rio-tiler plugin to handle STAC items, 2020-06-05T04:39:34+0000
+/project/totalopenstation/, totalopenstation, 0.5.2, Download and export survey data from your total station, 2020-11-09T22:17:28+0000
+/project/sf-sdk/, sf-sdk, 1.0.1, Shunfeng Express Python SDK, 2020-10-20T06:57:12+0000
+/project/hikingmap/, hikingmap, 0.1.0, A script to calculate the minimum amount of pages needed to render one or more GPX tracks, 2020-10-30T12:55:42+0000
+/project/gsconfig/, gsconfig, 1.0.10, GeoServer REST Configuration, 2018-07-19T16:55:45+0000
+/project/keytree/, keytree, 1.1.0, KML utilities for the ElementTree API, 2020-04-26T19:33:46+0000
+/project/pyrasterframes/, pyrasterframes, 0.9.1, Access and process geospatial raster data in PySpark DataFrames, 2021-03-31T20:29:59+0000
+/project/spart-python/, SPART-python, 1.0.9, Python implementation of the SPART optical radiative transfer model., 2020-09-04T18:07:32+0000
+/project/osmapi/, osmapi, 1.3.0, Python wrapper for the OSM API, 2020-10-04T23:04:05+0000
+/project/emissionsapi-worldmap-creator/, emissionsapi-worldmap-creator, 0.3, Emissions API's World Map image creator, 2021-01-04T20:03:57+0000
+/project/mapscript/, mapscript, 7.6.0, MapServer Python MapScript bindings, 2020-06-17T10:55:58+0000
+/project/rioxarray/, rioxarray, 0.3.1, rasterio xarray extension., 2021-03-01T16:06:58+0000
+/project/girs/, girs, 0.1.2, gdal/ogr wrapper, 2019-01-31T15:37:20+0000
+/project/tigernet/, tigernet, 0.2.3, Network Topology via TIGER/Line Edges, 2021-01-23T01:17:22+0000
+/project/redis-websocket-api/, redis-websocket-api, 0.2.1, Redis-over-WebSocket API on top of websockets and aioredis, 2019-12-05T11:17:52+0000
+/project/pymap3d/, pymap3d, 2.6.1, pure Python (no prereqs) coordinate conversions, following convention of several popular Matlab routines., 2021-04-13T05:30:34+0000
+/project/bng-latlon/, bng-latlon, 1.0.2, Converts british national grid (OSBG36) to lat lon (WGS84) and vice versa., 2020-11-12T14:20:08+0000
+/project/mapmatching/, mapmatching, 0.1.5, A map matching library, 2020-01-17T19:00:13+0000
+/project/pyterra/, pyTerra, 0.9, Terraserver Module for Python, 2012-03-11T03:32:49+0000
+/project/stitches-gis/, stitches-gis, 1.0.0, A task runner for GRASS GIS, 2019-05-10T18:59:10+0000
+/project/choropleth-gen/, choropleth-gen, 0.2, Choropleth generator for QGIS and other SLD able software., 2017-02-06T17:07:36+0000
+/project/greyhound/, greyhound, 0.0.2, Convenience API for interacting with Greyhound point cloud web services, 2016-06-20T16:56:02+0000
+/project/wq-io/, wq.io, 1.1.0, Consistent iterable API for reading and writing to external datasets, 2018-06-12T19:16:38+0000
+/project/pymaps/, pymaps, 0.1.0, Make beautiful maps with Google Maps JS API and Python, 2018-02-27T20:04:17+0000
+/project/download-water-data/, download-water-data, 0.4.0, Downloader for the Global Surface Water Data of the Copernicus Programme, 2021-04-19T11:28:52+0000
+/project/geoformat/, geoformat, 20210423, Geoformat is a GDAL/OGR library overlayer, 2021-04-23T14:14:11+0000
+/project/simplification/, simplification, 0.5.12, Fast linestring simplification using RDP or Visvalingam-Whyatt and a Rust binary, 2021-02-09T09:03:20+0000
+/project/robosat-pink/, RoboSat.pink, 0.0.2, Computer Vision framework for GeoSpatial Imagery, 2020-02-23T15:47:24+0000
+/project/alipay-sdk/, alipay-sdk, 0.0.1, AliPay Python SDK, 2019-11-07T03:03:24+0000
+/project/strix/, strix, 0.7.3, A Python Package for field-based GIS work, 2020-05-19T03:40:48+0000
+/project/rtc-tools-water-allocation/, rtc-tools-water-allocation, 0.0.1, Water allocation models for RTC-Tools 2., 2019-01-17T20:15:45+0000
+/project/australian-ntv2-grid-conversion/, australian_ntv2_grid_conversion, 1.1.5, Converts between Australian coordinate systems AGD66/AGD84 and GDA94 using ntv2 grid files, 2015-09-18T00:18:14+0000
+/project/psy-maps/, psy-maps, 1.3.2, Psyplot plugin for visualization on a map, 2020-11-12T04:51:22+0000
+/project/pigps/, PiGPS, 0.1.1, GPS library for consuming location data from serial interface, 2017-09-07T13:40:42+0000
+/project/ukis-csmask/, ukis-csmask, 0.1.2, masks clouds and cloud shadows in Sentinel-2, Landsat-8, Landsat-7 and Landsat-5 images, 2021-01-21T11:53:14+0000
+/project/osgb/, osgb, 1.0.0, osgb - high-precision geographic coordinate conversion for Great Britain, based on Ordnance Survey data, 2018-06-10T16:40:51+0000
+/project/lc8-download/, lc8_download, 0.3.0, Library to download Landsat imagery from AWS or Google
+      Earth Engine servers, 2016-02-17T19:01:33+0000
+/project/osgeo-manager/, osgeo-manager, 0.2.0, Cartoview is a GIS web mapping application framework to     easily share and deploy apps based on Geonode, 2018-12-07T02:40:18+0000
+/project/salem/, salem, 0.3.4, Geoscientific data I/O and map projections, 2021-03-24T22:47:14+0000
+/project/geodata/, geodata, 1.7.1, Provide a place lookup gazeteer based on files from geonames.org, 2020-04-12T04:14:49+0000
+/project/hm-render-mapnik/, hm-render-mapnik, 0.0.2, Render a map for a given area to paper using mapnik, 2019-10-24T19:43:05+0000
+/project/shapely-geojson/, shapely-geojson, 0.0.1, Feature and FeatureCollection for Shapely., 2018-02-24T18:56:28+0000
+/project/asarapi/, asarapi, 0.6, Search and download ERS-1, ERS-2, and Envisat products., 2018-11-17T19:26:36+0000
+/project/collective-geo-exif/, collective.geo.exif, 0.1, Geoannotate Images with EXIF information, 2013-08-30T09:50:24+0000
+/project/mapnik/, mapnik, 0.1, Python bindings for Mapnik, 2015-05-04T21:12:42+0000
+/project/gtfspy/, gtfspy, 0.0.4, Python package for analyzing public transport timetables, 2017-12-05T08:54:19+0000
+/project/robosat-pink/, RoboSat.pink, 0.0.2, Computer Vision framework for GeoSpatial Imagery, 2020-02-23T15:47:24+0000
+/project/alipay-sdk/, alipay-sdk, 0.0.1, AliPay Python SDK, 2019-11-07T03:03:24+0000
+/project/strix/, strix, 0.7.3, A Python Package for field-based GIS work, 2020-05-19T03:40:48+0000
+/project/rtc-tools-water-allocation/, rtc-tools-water-allocation, 0.0.1, Water allocation models for RTC-Tools 2., 2019-01-17T20:15:45+0000
+/project/australian-ntv2-grid-conversion/, australian_ntv2_grid_conversion, 1.1.5, Converts between Australian coordinate systems AGD66/AGD84 and GDA94 using ntv2 grid files, 2015-09-18T00:18:14+0000
+/project/psy-maps/, psy-maps, 1.3.2, Psyplot plugin for visualization on a map, 2020-11-12T04:51:22+0000
+/project/pigps/, PiGPS, 0.1.1, GPS library for consuming location data from serial interface, 2017-09-07T13:40:42+0000
+/project/ukis-csmask/, ukis-csmask, 0.1.2, masks clouds and cloud shadows in Sentinel-2, Landsat-8, Landsat-7 and Landsat-5 images, 2021-01-21T11:53:14+0000
+/project/osgb/, osgb, 1.0.0, osgb - high-precision geographic coordinate conversion for Great Britain, based on Ordnance Survey data, 2018-06-10T16:40:51+0000
+/project/lc8-download/, lc8_download, 0.3.0, Library to download Landsat imagery from AWS or Google
+      Earth Engine servers, 2016-02-17T19:01:33+0000
+/project/osgeo-manager/, osgeo-manager, 0.2.0, Cartoview is a GIS web mapping application framework to     easily share and deploy apps based on Geonode, 2018-12-07T02:40:18+0000
+/project/salem/, salem, 0.3.4, Geoscientific data I/O and map projections, 2021-03-24T22:47:14+0000
+/project/geodata/, geodata, 1.7.1, Provide a place lookup gazeteer based on files from geonames.org, 2020-04-12T04:14:49+0000
+/project/hm-render-mapnik/, hm-render-mapnik, 0.0.2, Render a map for a given area to paper using mapnik, 2019-10-24T19:43:05+0000
+/project/shapely-geojson/, shapely-geojson, 0.0.1, Feature and FeatureCollection for Shapely., 2018-02-24T18:56:28+0000
+/project/asarapi/, asarapi, 0.6, Search and download ERS-1, ERS-2, and Envisat products., 2018-11-17T19:26:36+0000
+/project/collective-geo-exif/, collective.geo.exif, 0.1, Geoannotate Images with EXIF information, 2013-08-30T09:50:24+0000
+/project/mapnik/, mapnik, 0.1, Python bindings for Mapnik, 2015-05-04T21:12:42+0000
+/project/aliquoter/, aliquoter, 0.0.1, Aliquot Mogrifier, 2013-01-07T22:45:33+0000
+/project/pygohome/, pygohome, 0.2.1, A 100% personal route optimizer in a known environment based on experience., 2020-12-24T14:28:00+0000
+/project/cuuats-datamodel/, cuuats.datamodel, 0.2.0, A lightweight data access layer for ArcGIS, 2018-06-07T14:27:56+0000
+/project/maxarcat/, maxarcat, 0.9.3, Maxar Catalog Python client, 2020-11-25T00:34:41+0000
+/project/goescalibration/, goescalibration, 0.0.11, A python library that allow to calibrate netcdf images of the NOAA CLASS (Comprehensive Large Array-Data Stewardship System)., 2016-01-09T01:17:22+0000
+/project/transport-co2/, transport-co2, 0.3.0, Calculate CO2 emissions for personal mobility., 2020-05-20T08:32:50+0000
+/project/rios-preprocessor/, rios_preprocessor, 0.2.3, Preprocessor for the Natural Capital Project's RIOS software package, 2019-10-17T13:20:56+0000
+/project/osm-clipper/, osm-clipper, 0.1.0, Small python tool to clip pre-defined areas from the planet osm file., 2020-07-20T15:00:53+0000
+/project/libpysal/, libpysal, 4.4.0, Core components of PySAL A library of spatial analysis functions., 2021-01-31T21:05:27+0000
+/project/django-brasil-municipios/, django-brasil-municipios, 0.6, A GeoDjango app with all Brazilian municipalities and their geographical polygons, with data downloaded from the IBGE (Brazilian Institute of Geography and Statistics) website., 2017-03-19T04:09:44+0000
+/project/solar-radiation-model/, solar_radiation_model, 0.0.20, A python script that estimates the solar radiation at the soil level., 2015-12-07T18:14:29+0000
+/project/psycopg-postgis/, psycopg-postgis, 0.4.0, Deprecated. Use postgis package instead., 2017-06-23T16:29:14+0000
+/project/rio-color/, rio-color, 1.0.2, Color correction plugin for rasterio, 2021-01-19T17:19:28+0000
+/project/geosoup/, geosoup, 0.1.78, Geospatial data manipulation using GDAL in python, 2021-01-07T12:13:26+0000
+/project/arcticdem/, arcticdem, 0.2.0, ArcticDEM Batch Download & Processing Tools, 2020-08-13T06:25:58+0000
+/project/gomezengine/, GomezEngine, 0.3, The GomezErzEngine, 2019-03-10T23:29:10+0000
+/project/fab-geoalchemy/, fab-geoalchemy, 0.1.6, Plugin to implement Geoalchemy fields in Flask Appbuilder, 2018-09-30T11:14:38+0000
+/project/addok-fr/, addok-fr, 1.0.1, Add French specific string processors., 2017-06-14T10:43:08+0000
+/project/geojsplit/, geojsplit, 0.1.2, A python implementation of the npm package geojsplit. Used to split GeoJSON files into smaller pieces., 2019-10-06T04:17:22+0000
+/project/aether/, aether, 0.3.37, Welcome to the Aether Platform, 2019-02-13T19:59:24+0000
+/project/pygeoif/, pygeoif, 0.7, A basic implementation of the __geo_interface__, 2017-05-04T15:46:11+0000
+/project/toureditor/, toureditor, 1.3.1, Editor for GPX/CRP tour files and height profiles.
+
+Generates nicer output if matplotlib is installed., 2012-05-20T20:33:24+0000
+/project/dwdweather2/, dwdweather2, 0.14.0, Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany., 2020-07-03T12:51:14+0000
+/project/pygeoexif/, pygeoexif, 0.0.1, Simply get latitude and longitude from an image's EXIF data, 2015-09-02T17:54:33+0000
+/project/damagescanner/, damagescanner, 0.4.5, Damage assessment tool for natural disasters, 2020-09-15T07:04:14+0000
+/project/zgeo-atom/, zgeo.atom, 0.4.1, Atom syndication and AtomPub with GeoRSS, 2008-09-03T05:03:06+0000
+/project/mobilitydb-sqlalchemy/, mobilitydb-sqlalchemy, 0.4, MobilityDB extensions to SQLAlchemy, 2020-09-02T06:31:22+0000
+/project/starlight/, starlight, 0.0.1, Starlight. Making better satellite analytics possible., 2019-01-29T18:32:15+0000
+/project/sentinelpy/, sentinelpy, 0.1.0, Queries ESA Sentinel APIs for products, 2020-12-08T10:17:20+0000
+/project/pynmeagps/, pynmeagps, 1.0.0, NMEA Protocol Parser, 2021-04-24T07:24:20+0000
+/project/geolocator/, geolocator, 0.1.1, geolocator library: locate places and calculate distances between them, 2006-03-06T21:55:20+0000
+/project/django-census-places/, django-census-places, 1.2.6, Use city (and census designated place) boundaries provided by the United States Census, 2014-02-06T02:42:48+0000
+/project/geodesic-api/, geodesic-api, 0.0.3, Geodesic Python API, 2021-02-19T20:53:53+0000
+/project/lightningtrace/, lightningtrace, 0.1.2, Quickly contour a digital elevation model using rasterio and matplotlib, 2016-04-06T00:25:28+0000
+/project/createcloudmap/, CreateCloudMap, 0.9.13, Create a cloud map for xplanet using satellite images from the Dundee Satellite Receiving Station, 2019-02-08T21:44:11+0000
+/project/folium/, folium, 0.12.1, Make beautiful maps with Leaflet.js & Python, 2021-01-18T17:29:40+0000
+/project/these-united-states/, these-united-states, 1.0.1.19, Utility library for performing reverse geocoding of states in the United States of America, 2020-09-10T22:29:16+0000
+/project/sptrans/, sptrans, 0.1.0, Python library for the SPTrans API. Read the docs here: http://sptrans.readthedocs.org/, 2013-10-31T06:15:33+0000
+/project/rio-glui/, rio-glui, 1.0.6, Inspect CloudOptimized Geotiff using Mapbox GL JS, 2019-02-19T23:05:54+0000
+/project/mgwr/, mgwr, 2.1.2, multiscale geographically weighted regression, 2020-09-08T21:23:24+0000
+/project/sf-oms-sdk/, sf-oms-sdk, 0.0.2, Shunfeng OMS Python SDK, 2020-11-25T07:10:03+0000
+/project/terkin/, terkin, 0.10.0, A flexible data logger for MicroPython and CPython, 2020-05-22T00:10:29+0000
+/project/rhessyscalibrator/, rhessyscalibrator, 2.1.0, Libraries and command-line scripts for handling RHESSys model calibration., 2016-01-11T19:29:03+0000
+/project/wtss/, wtss, 0.7.0.post3, Python Client Library for WTSS., 2021-03-29T20:11:17+0000
+/project/collective-geo-flexitopic/, collective.geo.flexitopic, 0.5, Flexitopic for collective.geo, 2013-12-04T14:07:25+0000
+/project/dhm-module-base/, dhm-module-base, 0.0.1, Module that other Click-plugins can plug into, 2020-05-19T09:23:13+0000
+/project/django-sld/, django-sld, 1.0.7, A simple django library that generates SLD documents from geographic models., 2012-10-11T14:40:37+0000
+/project/mapcode/, mapcode, 2.5.5.0, A Python module to do mapcode encoding and decoding. See http://www.mapcode.com for more information., 2019-09-20T11:41:15+0000
+/project/surficial/, surficial, 0.0.2, Python library and CLI tools to support analysis of stream long-profiles, 2017-05-06T16:33:03+0000
+/project/pyquadkey2/, pyquadkey2, 0.2.0, Python implementation of geographical tiling using QuadKeys as proposed by Microsoft, 2019-11-08T08:17:23+0000
+/project/cw-tiler/, cw-tiler, 0.2.0, Get UTM tiles for SpaceNet Dataset or arbitrary GeoTiffs, 2018-12-11T22:20:44+0000
+/project/pygdal-chm/, pygdal-chm, 3.2.2.7, Virtualenv and setuptools friendly version of standard GDAL python bindings, 2021-03-30T19:02:07+0000
+/project/poolmanager/, poolmanager, 0.2.1, Simple pool manager, 2020-09-03T10:19:32+0000
+/project/gsrest/, gsrest, 0.2.1, GeoServer python REST API client, 2020-06-09T15:19:05+0000
+/project/arcrstats/, ArcRstats, 0.8.alpha, geostatistical functions linking ESRI ArcGIS to R statistics packages, 2006-05-06T05:38:43+0000
+/project/pycon/, pycon, 0.0.2, pycon is a Python dictionary that provides attribute-style access, 2018-09-26T18:41:27+0000
+/project/pymil/, pymil, 0.2.0, A basic Open-source Carte internationale du Monde au Millionième nomenclature encoder., 2017-08-15T02:12:30+0000
+/project/gee2drive/, gee2drive, 0.1.0, Google Earth Engine to Drive Export Manager, 2019-11-12T14:52:44+0000
+/project/apicast/, apicast, 0.8.3, Python client and HTTP service to access bee flight forecast information published by Deutscher Wetterdienst (DWD), the federal meteorological service in Germany., 2021-03-05T22:35:55+0000
+/project/wetterdienst/, wetterdienst, 0.17.0, Open weather data for humans, 2021-04-08T21:29:20+0000
+/project/osmcha/, osmcha, 0.8.2, Python package to detect suspicious OpenStreetMap changesets, 2020-10-16T10:21:21+0000
+/project/geobeam/, geobeam, 0.1.3, geobeam adds GIS capabilities to your Apache Beam pipelines, 2021-02-06T08:57:10+0000
+/project/geetakeout/, geetakeout, 0.1, Google Earth Engine Takeout Tool, 2018-05-21T02:17:25+0000
+/project/shapely/, Shapely, 1.7.1, Geometric objects, predicates, and operations, 2020-08-20T23:30:36+0000
+/project/m79commons/, m79commons, 1.2.4, minus79's commons lib, 2015-10-02T10:09:23+0000
+/project/inasafe-parameters/, inasafe-parameters, 2.0.0, A generic package for capturing and validating user parameters, 2018-08-08T03:52:18+0000
+/project/sentinelsat/, sentinelsat, 0.14, Utility to search and download Copernicus Sentinel satellite images, 2020-06-12T07:08:37+0000
+/project/gdaltokmz/, gdaltokmz, 1.0, Allows conversion from GDAL-supported raster geographic formats to the KMZ format used by the free Google Earth client., 2007-03-26T21:05:10+0000
+/project/coordstring/, coordstring, 0.2.0, Fast collection for geospatial coordinates, 2017-10-21T23:25:17+0000
+/project/django-editor-ymaps/, django-editor-ymaps, 2.1.21, Creating and editing Yandex maps., 2020-10-17T10:06:52+0000
+/project/wikimapia-api/, wikimapia_api, 0.1.0.dev3, Wikimapia API Python Implementation, 2015-04-21T09:36:06+0000
+/project/nmeaanalyzer/, nmeaanalyzer, 0.0.4, Python library for the NMEA 0183 analyzer, 2020-01-13T01:02:10+0000
+/project/ukis-pysat/, ukis-pysat, 1.2.0, generic classes and functions to query, access and process multi-spectral and SAR satellite images, 2021-04-07T14:44:59+0000
+/project/podpac/, podpac, 2.2.1, Pipeline for Observational Data Processing, Analysis, and Collaboration, 2020-07-14T14:49:19+0000
+/project/gdal/, GDAL, 3.2.2, GDAL: Geospatial Data Abstraction Library, 2021-03-10T14:11:02+0000
+/project/fio-area/, fio-area, 0.1.0, Fiona CLI plugin to calculate areas, 2018-06-08T17:35:26+0000
+/project/tool-aws/, tool-aws, 0.2.2, AWS scripts for geoadmin, 2020-02-12T15:47:01+0000
+/project/porder/, porder, 0.8.1, Simple CLI for Planet Orders v2, 2021-03-29T01:53:21+0000
+/project/ssebop/, ssebop, 0.0.3, The Operational Simplified Surface Energy Balance, 2018-09-11T23:09:24+0000
+/project/pygdal/, pygdal, 3.2.2.7, Virtualenv and setuptools friendly version of standard GDAL python bindings, 2021-04-08T21:42:22+0000
+/project/gispython/, GISPython, 53.2, Additional tools for administering and automating different ArcPy and ArcGIS Server geoprocessing operations. Package is intended for use with ArcGIS 10.2.1 and later (has been tested on ArcGIS 10.3.1, ArcGIS 10.4, ArcGIS 10.5, ArcGIS 10.6.1), 2021-03-26T12:34:29+0000
+/project/numgeo/, numgeo, 0.0.1a0, A geospatial package to support skeletonization, 2019-03-20T09:07:52+0000
+/project/stratify/, stratify, 0.1.1, Vectorized interpolators that are especially useful for Nd vertical interpolation/stratification of atmospheric and oceanographic datasets, 2019-09-11T16:17:36+0000
+/project/momepy/, momepy, 0.4.3, Urban Morphology Measuring Toolkit, 2021-02-16T22:00:00+0000
+/project/radiometric-normalization/, radiometric_normalization, 0.1.175, Radiometric Normalization, 2018-03-23T17:26:10+0000
+/project/psy-simple/, psy-simple, 1.3.1, Psyplot plugin for simple visualization tasks, 2020-10-29T13:48:15+0000
+/project/pystac-client/, pystac-client, 0.1.1, Python library for working with Spatiotemporal Asset Catalog (STAC)., 2021-04-17T00:00:05+0000
+/project/noaadem/, noaadem, 0.0.16, A python library that simplify the access to the NOAA digitalelevation map., 2015-07-10T02:41:04+0000
+/project/fiona/, Fiona, 1.8.19, Fiona reads and writes spatial data files, 2021-04-07T21:56:49+0000
+/project/py-staticmaps/, py-staticmaps, 0.4.0, Create static map images (SVG, PNG) with markers, geodesic lines, ..., 2021-03-27T09:41:24+0000
+/project/bycycletripplanner/, byCycleTripPlanner, 0.4a0.dev-r1056, byCycle Trip Planner, 2008-09-22T21:41:38+0000
+/project/openlr/, openlr, 1.0.1, OpenLR Python Implementation, 2020-05-25T07:50:40+0000
+/project/collective-geo-geographer/, collective.geo.geographer, 2.1, Geographic annotation for Plone, 2016-10-26T06:16:52+0000
+/project/gsconfig-py3/, gsconfig-py3, 1.0.8, GeoServer REST Configuration, 2020-05-27T07:55:07+0000
+/project/gpxtools/, gpxtools, 0.2.1, Command line tools useful to manipulate GPX files., 2010-02-15T18:14:06+0000
+/project/linketurbidity/, linketurbidity, 0.0.6, A python library that simplify the access to the linketurbidity index., 2015-07-10T00:34:55+0000
+/project/wasdi/, wasdi, 0.6.2, The Wasdi Python library, 2021-03-10T18:01:59+0000
+/project/motuclient/, motuclient, 1.8.8, Extract and download gridded data through a python command line from Motu web server. Used in CMEMS context http://marine.copernicus.eu/, 2021-02-19T11:06:36+0000
+/project/zgeo-kml/, zgeo.kml, 0.4, Google Earth KML for Zope, 2008-09-12T03:54:40+0000
+/project/pyreproj/, pyreproj, 2.0.0, Python Reprojector, 2019-10-31T07:36:39+0000
+/project/czml/, czml, 0.3.3, Read and write CZML in Python, 2016-11-30T18:49:27+0000
+/project/gmalthgtparser/, gmalthgtparser, 1.1.0, Parse HGT files, 2017-06-04T17:32:13+0000
+/project/orangery/, orangery, 0.4.3, Python library to support analysis of topographic cross-sections, 2019-03-26T17:50:19+0000
+/project/django-neighborhoods/, django-neighborhoods, 2.0.1, Get neighborhood information for your coordinates., 2014-02-14T23:13:44+0000
+/project/itertable/, itertable, 2.0.0, Iterable API for tabular datasets including CSV, XLS, XML, & JSON., 2019-12-06T01:50:32+0000
+/project/pypolyline/, pypolyline, 0.2.5, Fast Google Polyline encoding and decoding using Rust FFI, 2021-04-25T20:14:19+0000
+/project/overpass2/, overpass2, 0.6.3, Python wrapper for the OpenStreetMap Overpass API, 2019-10-02T22:30:38+0000
+/project/pygoogleearth/, pygoogleearth, 0.0.2, Python wrapper for Google Earth COM API, 2009-10-08T06:11:42+0000
+/project/richdem/, richdem, 0.3.4, High-Performance Terrain Analysis, 2018-07-13T20:03:49+0000
+/project/gdal2mbtiles/, gdal2mbtiles, 2.1.2, Converts a GDAL-readable dataset into an MBTiles file.This is used to generate web maps., 2020-02-05T16:44:38+0000
+/project/region-grow/, region-grow, 1.0.4, Creates a new polygon locally given a set of points using a region grow algorithm approach and a satellite image in GeoTIFF format. The polygon output format is ESRI Shapefile, 2020-11-29T21:50:03+0000
+/project/prcoords/, prcoords, 1.0.2, Public Domain library for rectifying Chinese coordinates (gcj-02/bd-09), 2019-08-17T05:35:37+0000
+/project/geolinks/, geolinks, 0.2.0, Utilities to deal with geospatial links, 2015-09-05T16:22:56+0000
+/project/khooshe/, Khooshe, 0.2, Big GeoSptial Data Points Visualization Tool, 2016-04-14T20:36:19+0000
+/project/python-sld/, python-sld, 1.0.9, A simple python library that enables dynamic SLD creation and manipulation., 2012-09-10T15:04:39+0000
+/project/rio-tiler-crs/, rio-tiler-crs, 2.0.2, A rio-tiler plugin to create tile for arbitraty grid, 2020-06-05T04:32:38+0000
+/project/collective-geo-openlayers/, collective.geo.openlayers, 4.0, openlayers support for Plone, 2019-01-23T10:47:32+0000
+/project/osmalchemy/, OSMAlchemy, 0.1.5, OpenStreetMap to SQLAlchemy bridge, 2018-02-09T16:00:00+0000
+/project/geoai-gdal/, geoai-GDAL, 3.1.2, GDAL: Geospatial Data Abstraction Library, 2021-04-22T12:49:38+0000
+/project/smmsat/, SMMSAT, 0.1.0, Soft Matter Molecular Simulation Analysis Toolkit., 2018-10-31T22:28:17+0000
+/project/motu-client/, motu-client, 1.7.00, Extract and download gridded data through a python command line from Motu web server. Used in CMEMS context http://marine.copernicus.eu/, 2018-10-04T07:48:15+0000
+/project/buzzard/, buzzard, 0.6.5, GIS files manipulations, 2020-10-26T19:50:53+0000
+/project/snkit/, snkit, 1.6.0, a spatial networks toolkit, 2019-08-19T14:24:27+0000
+/project/s1tiling/, S1Tiling, 0.2.0rc2, On demand Ortho-rectification of Sentinel-1 data on Sentinel-2 grid., 2021-03-01T08:09:55+0000
+/project/addok-france/, addok-france, 1.1.0, Add France specific string processors., 2017-05-12T16:09:51+0000
+/project/opendem/, opendem, 0.0.23, Very simple API to download, merge, resample, project DEM tiles from AWS and Thredds, 2018-08-27T02:56:51+0000
+/project/usig-normalizador-amba-p32/, usig-normalizador-amba-P32, 1.2.5, Normalizador de Direcciones AMBA, 2018-12-20T15:32:31+0000
+/project/psy-view/, psy-view, 0.1.0, ncview-like interface to psyplot, 2020-11-12T05:56:05+0000
+/project/geodestic/, geodestic, 0.2.2, A Cython implementation of android.location.Location.computeDistanceAndBearing(), 2015-07-20T15:36:03+0000
+/project/pykml1/, pykml1, 1.0.0, Python KML library with updates for Python 3, 2020-12-20T00:54:01+0000
+/project/geographiclib/, geographiclib, 1.50, The geodesic routines from GeographicLib, 2019-09-24T13:12:06+0000
+/project/s5a/, s5a, 0.4, Sentinel-5 Algorithms, 2020-01-16T15:49:02+0000
+/project/access-jamessaxon/, access-jamessaxon, 1.0.0, Calculate spatial accessibility metrics., 2019-10-29T19:38:07+0000
+/project/mapchete-numpy/, mapchete-numpy, 0.1, Mapchete NumPy read/write extension, 2017-02-01T14:56:26+0000
+/project/pygeoj/, PyGeoj, 1.0.0, A simple Python GeoJSON file reader and writer., 2018-09-13T06:07:48+0000
+/project/ghome/, ghome, 0.0.3, Simple CLI for Google Home & Mini, 2021-03-08T16:03:35+0000
+/project/county-adjacency/, county-adjacency, 0.1.3, This package provides adjacency information for US counties (or their equivalent)., 2020-12-30T21:28:24+0000
+/project/shapeobject/, shapeObject, 0.4.0, Create an objected from a shapefile with shapely compatible geometry, 2021-01-08T17:37:02+0000
+/project/unrasterize/, unrasterize, 1.0.0, A simple API for lossfully converting raster datasets to GeoJSON., 2018-04-25T18:18:33+0000
+/project/mapsnap/, mapsnap, 1.0.1, Apple Maps Web Snapshots on Python, 2020-09-08T01:08:56+0000
+/project/eodag-sentinelsat/, eodag-sentinelsat, 0.3.0, Sentinelsat plugin to EODAG (https://github.com/CS-SI/eodag), 2021-03-26T15:20:26+0000
+/project/stetl/, Stetl, 2.0, Transformation and conversion framework (ETL) mainly for geospatial data, 2019-04-11T14:51:49+0000
+/project/ppygis/, PPyGIS, 0.2, PostGIS adapter for Psycopg, 2011-04-13T16:16:00+0000
+/project/radiant-mlhub/, radiant-mlhub, 0.1.2, A Python client for Radiant MLHub, 2021-03-10T19:53:37+0000
+/project/maskmypy/, maskmypy, 0.0.3, Geographic masking tools for spatial data anonymization, 2020-06-23T02:26:20+0000
+/project/gmaltcli/, gmaltcli, 1.1.0, Download, extract and import HGT data into a SQL database, 2017-08-14T10:55:33+0000
+/project/dggrid4py/, dggrid4py, 0.2.3, a Python library to run highlevel functions of DGGRIDv7, 2020-10-29T07:15:01+0000
+/project/collective-geo-file/, collective.geo.file, 0.6, An openlayers view for KML, KMZ and GPX files, 2013-08-30T09:22:55+0000
+/project/gryd/, Gryd, 2.0.0, Efficient great circle computation and projection library for x86 or x64 platform on Windows or Ubuntu., 2021-01-04T21:31:43+0000
+/project/pytest-falcon/, pytest-falcon, 0.4.2, Pytest helpers for Falcon., 2016-09-07T12:31:59+0000
+/project/encpoly/, encpoly, 0.2.0, Library for encoding/decoding geographic coordinates using Google's Encoded Polyline Algorithm, 2019-03-19T12:30:18+0000
+/project/fmeclient/, fmeclient, 0.0.1, FME Server Client, 2019-07-23T21:41:53+0000
+/project/ky-sdk/, ky-sdk, 0.0.1, KuaYue Express Python SDK, 2019-12-13T08:21:53+0000
+/project/terra-submersa-cli/, terra-submersa-cli, 0.0.8, Command Line Interface to interact with Terra Submersa data, 2017-12-21T05:52:28+0000
+/project/pygeoc/, PyGeoC, 0.3.1, Python for GeoComputation, 2019-11-03T09:27:53+0000
+/project/terracotta/, terracotta, 0.7.0, A modern XYZ tile server written in Python, 2020-07-01T09:56:26+0000
+/project/geoserver-restconfig/, geoserver-restconfig, 2.0.4.8, GeoServer REST Configuration, 2020-10-31T22:30:09+0000
+/project/pycql/, pycql, 0.0.12, pycql is a pure Python parser implementation of the OGC CQL standard, 2021-03-23T08:50:33+0000
+/project/subdivide/, subdivide, 1.0.1, Subdivides lines by several methods., 2019-10-11T07:55:30+0000
+/project/pygbdx/, pygbdx, 0.0.3, GBDX Simple CLI, 2018-10-18T16:08:17+0000
+/project/davies/, davies, 0.1.2, Package for manipulating cave survey data, 2017-06-12T05:19:14+0000
+/project/laspy/, laspy, 1.7.0, Native Python ASPRS LAS read/write library, 2020-03-13T20:58:15+0000
+/project/parsewkt/, parsewkt, 0.1dev, WKT Parser, 2013-10-25T13:59:46+0000
+/project/cron-wrapper/, cron-wrapper, 0.1.0, A cron job wrapper to add some missing features (locks, timeouts, random sleeps, env loading..., 2021-02-12T09:37:34+0000
+/project/jxl2txt/, jxl2txt, 0.1.1, Python library to convert Trimble JobXML files using XSLT, 2019-03-26T18:12:37+0000
+/project/falcon-multipart/, falcon-multipart, 0.2.0, Multipart form parsing for Falcon., 2017-05-12T15:48:42+0000
+/project/wpserver/, WPServer, 1.0, a web mapping transformation library, 2007-12-23T05:53:49+0000
+/project/mapchete-safe/, mapchete-safe, 0.7, Mapchete SAFE file read extension, 2017-12-22T11:05:11+0000
+/project/pygeometa/, pygeometa, 0.6.0, pygeometa is a Python package to generate metadata for geospatial datasets, 2021-01-16T14:43:47+0000
+/project/pyinterpolate/, pyinterpolate, 0.2.2.post2, Spatial interpolation Python module, 2021-03-10T19:50:10+0000
+/project/c2cwsgiutils/, c2cwsgiutils, 4.1.1, Common utilities for Camptocamp WSGI applications, 2021-01-06T10:02:09+0000
+/project/s2geometry/, s2geometry, 0.9.0, Computational geometry and spatial indexing on the sphere, 2019-12-25T05:21:32+0000
+/project/errorgeopy/, errorgeopy, 1.0.1, Python geocoding in a disagreeing world, 2017-07-12T09:44:23+0000
+/project/arcgis/, arcgis, 1.8.5.post3, ArcGIS API for Python, 2021-04-12T03:28:09+0000
+/project/ppipe/, ppipe, 0.4.9, Planet API Pipeline & Google Earth Engine Batch Assets Manager with Addons, 2019-10-26T13:58:11+0000
+/project/shingle/, shingle, 2.2.0, Generation of boundary representation and mesh spatial discretisations from arbitrary geophysical fields., 2018-07-14T22:25:10+0000
+/project/sknni/, sknni, 1.0.0, Spherical k-nearest neighbors interpolation, 2019-04-30T20:29:23+0000
+/project/sentinel5dl/, sentinel5dl, 1.0, Sentinel-5p Downloader, 2020-01-12T18:26:10+0000
+/project/mapboxgl-notebook/, mapboxgl-notebook, 0.7, MapboxGL ipython renderer, 2019-04-10T16:46:18+0000
+/project/hexcover/, hexcover, 0.4.0, Given a centroid and side length, tile an area with regular flat hexagons, 2019-06-30T18:40:47+0000
+/project/cartoview-2/, cartoview-2, 0.2a15, A GIS Web Mapping Application Market. Create, share, and visualize GIS Web Mapping Applications, 2019-04-18T11:14:42+0000
+/project/nsfsearch/, nsfsearch, 0.0.1, NSF Awards API Simple CLI, 2019-04-16T15:53:47+0000
+/project/gpsdio-sort/, gpsdio-sort, 0.1, A CLI plugin for `gpsdio` that sorts messages in arbitrarily large files according to an arbitrary set of columns., 2015-05-29T14:45:36+0000
+/project/oocprocess/, oocprocess, 0.2.3, Out-of-core Processing, 2020-07-31T03:57:02+0000
+/project/osmread/, osmread, 0.2, Simple library for reading OpenStreetMap XML and PBF data files, 2017-04-09T12:28:21+0000
+/project/gpx2spatialite/, gpx2spatialite, 0.8.2, gpx2spatialite, 2016-01-30T14:55:01+0000
+/project/geojson-pydantic/, geojson-pydantic, 0.2.2, Pydantic data models for the GeoJSON spec, 2020-12-29T19:24:45+0000
+/project/country-bounding-boxes/, country-bounding-boxes, 0.2.3, Library of bounding boxes of countries (and associated data), 2015-07-14T15:34:56+0000
+/project/django-location/, django-location, 2.1.1, Gather, store, and display real-time location information from Foursquare, iCloud, and more., 2013-12-24T01:59:45+0000
+/project/geomag/, geomag, 0.9.2015, Magnetic variation/declination, 2014-12-17T16:30:00+0000
+/project/retriever/, retriever, 3.0.0, Data Retriever, 2020-07-16T20:24:51+0000
+/project/catchments/, catchments, 1.1.1, Python wrapper for multiple APIs, that provide catchments-areas, 2017-05-03T22:19:27+0000
+/project/spint/, spint, 1.0.7, SPatial INTeraction models, 2020-09-09T02:31:44+0000
+/project/hydrograph-py/, Hydrograph-py, 1.0.1, Hydrological python package for hydrograph analysis, 2019-12-18T04:12:42+0000
+/project/ibmpairs/, ibmpairs, 0.1.3, open source Python modules for the IBM PAIRS Geoscope platform, 2021-02-24T17:20:15+0000
+/project/txmap/, TxMap, 0.0.7, A hepler tools for tencent map api, 2018-11-21T11:55:32+0000
+/project/pywps/, pywps, 4.4.2, PyWPS is an implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python., 2021-03-31T09:57:53+0000
+/project/cartopy/, Cartopy, 0.19.0.post1, A cartographic python library with Matplotlib support for visualisation, 2021-04-23T16:49:22+0000
+/project/to4326/, to4326, 1.0.2, , 2021-02-13T02:39:24+0000
+/project/collective-geo-fastkml/, collective.geo.fastkml, 0.3, Generate KML with fastkml for collective.geo, 2013-09-05T11:42:44+0000
+/project/products-doormat/, Products.Doormat, 1.2, Adds a doormat viewlet and installs it in the Plone footer. The links and text in the doormat are manageable as content., 2016-08-22T09:14:43+0000
+/project/ieo/, ieo, 1.1.1, Irish Earth Observation library., 2018-03-15T17:49:18+0000
+/project/smarttap/, smarttap, 1.0.0, Public transport smart card data analysis software, 2017-04-17T08:48:52+0000
+/project/wq-db/, wq.db, 1.2.1, Django design patterns and REST API for citizen science field data collection., 2020-09-02T05:10:10+0000
+/project/spopt/, spopt, 0.1.1, Spatial Optimization in PySAL, 2021-01-31T22:24:21+0000
+/project/data-wizard/, data-wizard, 1.3.0, Interactive web-based wizard for importing structured data into Django models., 2020-02-21T01:06:18+0000
+/project/taobao-sdk/, taobao-sdk, 0.0.5, TaoBao SDK, 2019-07-03T09:14:27+0000
+/project/gpsimage/, gpsimage, 0.0.2, Retrieves GPS data from Geo-referenced images made easy, 2014-08-18T23:44:22+0000
+/project/pbasemap/, pbasemap, 0.1.0, Tool to download Planet Monthly Mosaic Quads, 2019-06-25T04:44:35+0000
+/project/pyoscar/, pyoscar, 0.3.0, Pythonic API to WMO OSCAR Web Services, 2021-02-01T14:55:24+0000
+/project/h3/, h3, 3.7.2, Hierarchical hexagonal geospatial indexing system, 2021-03-02T05:03:54+0000
+/project/lue/, lue, 0.1.0, The LUE Python package allows you to perform I/O to the LUE Scientific Database, which is an HDF5 binary data format, 2017-04-04T12:02:12+0000
+/project/asf-granule-util/, asf-granule-util, 0.0.62, Library for handling sentinel granules, 2018-08-16T01:24:53+0000
+/project/klvdata/, klvdata, 0.0.3, A Python library for parsing MISB/STANAG 4609 Key Length Value (KLV) metadata., 2018-09-28T05:33:21+0000
+/project/botwinick-gis/, botwinick-gis, 0.0.3, GIS support package, 2021-02-02T19:38:01+0000
+/project/satadd/, satadd, 0.0.4, Simple CLI for piping Planet, Satellogic, GEE & GBDX Assets, 2018-10-18T14:26:03+0000
+/project/utm/, utm, 0.7.0, Bidirectional UTM-WGS84 converter for python, 2020-11-25T11:56:40+0000
+/project/walkscore-frontend/, walkscore_frontend, 0.3, Front-end (scraper API) for the Walkscore website, 2015-04-13T07:58:31+0000
+/project/eodag/, eodag, 2.2.0, Earth Observation Data Access Gateway, 2021-03-26T14:04:27+0000
+/project/tri/, tri, 0.3, (Constrained) Delaunay Triangulation of Planar Straight Line Graphs (pure Python), 2015-07-30T08:14:02+0000
+/project/tilematrix/, tilematrix, 0.20, helps handling tile pyramids, 2019-04-10T17:28:04+0000
+/project/globsim/, globsim, 2.0.1, Using global reanalysis data for local permafrost simulation, 2020-11-04T21:43:01+0000
+/project/wps-remote/, wps-remote, 2.15.0, A library that allows users to publish their executables as GeoServer WPS Processes through the XMPP protocol, 2018-11-15T09:39:20+0000
+/project/aliyun-sms/, aliyun-sms, 0.0.4, Aliyun Sms Python SDK, 2020-07-11T09:14:16+0000
+/project/pydynamo/, pydynamo, 0.1.4, Python library for communicating with dynamo db !, 2015-09-20T17:21:56+0000
+/project/ackbar/, Ackbar, 0.2, A Python program to assess Key Biodiversity Areas (KBA) delimitation., 2021-04-06T23:33:51+0000
+/project/tilelogs/, tilelogs, 0.2.0, , 2021-03-27T04:52:40+0000
+/project/wq-app/, wq.app, 1.2.0, Offline-capable HTML5 web and hybrid apps for citizen science field data collection., 2020-01-22T07:12:47+0000
+/project/libais/, libais, 0.17, Automatic Identification System decoding - ship tracking, 2018-01-17T18:22:52+0000
+/project/sweden-crs-transformations/, sweden-crs-transformations, 1.0.0, Python library for transformation of geographic coordinates between WGS84 and the Swedish coordinate reference systems SWEREF99 and RT90, 2021-04-10T17:34:51+0000
+/project/pivotal-geopy/, pivotal-geopy, 1.0.0, Python Geocoding Toolbox, 2018-04-24T20:39:47+0000
+/project/pyspatiotemporalgeom/, pyspatiotemporalgeom, 0.2.7.5, Spatiotemporal geometry libray. Curently a pure python library, not explicitly focused on speed., 2016-06-28T20:41:57+0000
+/project/osmoapi/, osmoapi, 0.1, OpenStreetMap OAuth API, 2016-05-12T14:22:04+0000
+/project/osmiter/, osmiter, 1.1.1, Library for reading OSM XML/GZ/BZ2/PBF files, 2021-01-28T12:23:49+0000
+/project/collective-geo-settings/, collective.geo.settings, 4.0, collective.geo settings, 2019-01-23T13:18:07+0000
+/project/dask-geomodeling/, dask-geomodeling, 2.3.4, On-the-fly operations on geographical maps., 2021-02-08T10:34:20+0000
+/project/django-shapes/, django-shapes, 0.2.0, Upload and export shapefiles using GeoDjango., 2010-02-12T01:42:00+0000
+/project/collective-geo-polymaps/, collective.geo.polymaps, 0.1, Collective Geo Polymaps integation, 2012-02-24T11:14:56+0000
+/project/imposm-parser/, imposm.parser, 1.0.7, Fast and easy OpenStreetMap XML/PBF parser., 2015-01-10T13:16:30+0000
+/project/goesdownloader/, goesdownloader, 0.0.16, A python library that allow to download the netcdf images of the NOAA CLASS (Comprehensive Large Array-Data Stewardship System)., 2016-01-09T03:03:05+0000
+/project/twd97/, twd97, 0.1.1, Python converter between TWD97 and WGS84, 2014-10-22T03:27:33+0000
+/project/plantpy/, plantpy, 0.0.4, Plant Village Survey Export: Simple CLI, 2020-06-02T06:23:44+0000
+/project/rindcalc/, rindcalc, 3.0.0, Rindcalc is an open source python package created to calculateremote-sensing indices and composites., 2020-08-07T03:18:21+0000
+/project/colouringmap/, colouringmap, 0.0.3, a mapping tool for generating choropleth map from map data (shpfile), by breaking sequential values into groups, or beforehand prepared category/level., 2017-08-28T09:22:20+0000
+/project/ogr2wkt/, ogr2wkt, 0.0.2, Convert (Fiona-supported) OGR data sources to plaintext WKT., 2020-04-09T05:01:05+0000
+/project/django-loci/, django-loci, 0.4.2, Reusable django-app for outdoor and indoor mapping, 2021-03-16T22:45:44+0000
+/project/rio-tiler/, rio-tiler, 2.0.7, User friendly Rasterio plugin to read raster datasets., 2021-04-01T20:05:01+0000
+/project/py-projectmill/, py-projectmill, 0.2.2, Python port of https://github.com/mapbox/projectmill, 2012-12-26T19:27:15+0000
+/project/zgeo-spatialindex/, zgeo.spatialindex, 0.3, Spatial index for Zope, 2008-02-19T18:47:18+0000
+/project/addok-getbyid/, addok-getbyid, 0.0.7, , 2019-11-18T08:09:16+0000
+/project/geocortex-reporting-client/, geocortex-reporting-client, 1.1.0, A Python client for running Geocortex Reporting jobs., 2021-01-23T00:55:56+0000
+/project/eehelper/, eehelper, 0.1.5, Helper library for Google Earth Engine python API scripts, 2021-03-14T06:07:14+0000
+/project/pygpsclient/, PyGPSClient, 1.0.5, PyGPSClient GNSS/GPS Graphical Client, 2021-04-24T07:57:15+0000
+/project/cgpolyencode/, cGPolyEncode, 0.1.1, Google Maps Polyline encoding (C++ extension), 2009-11-17T21:28:05+0000
+/project/fio-buffer/, fio-buffer, 0.1.1, A Fiona CLI plugin for buffering geometries., 2015-07-22T01:18:28+0000
+/project/bmi-arcgis-restapi/, bmi-arcgis-restapi, 2.0.2, Package for working with ArcGIS REST API, 2020-11-13T14:26:07+0000
+/project/gps-py3-shim/, gps-py3-shim, 3.17.5, gpsd client library (python3 port), 2018-05-18T21:46:58+0000
+/project/geoval/, geoval, 0.1.5, geoval - python based geodata evaluation package, 2017-03-13T16:44:15+0000
+/project/protobuf-gis/, protobuf-gis, 1.0.3, GIS ProtoBuf module, 2017-08-13T19:49:55+0000
+/project/gpolyencode/, GPolyEncode, 0.1.1, Google Maps Polyline encoding (pure Python), 2009-11-17T21:28:12+0000
+/project/spaten/, spaten, 0.4.1, Spaten File Format Library, 2019-02-14T14:21:30+0000
+/project/pexver/, pexver, 0.0.1, Excel spreadsheet verifier., 2019-07-24T08:43:10+0000
+/project/georeverse/, Georeverse, 0.3, Find the best estimate of city, state and country for a given latitude and longitude., 2016-10-20T20:30:18+0000
+/project/django-measurement/, django-measurement, 3.2.3, Convenient fields and classes for handling measurements, 2020-04-22T10:38:39+0000
+/project/overpass/, overpass, 0.7, Python wrapper for the OpenStreetMap Overpass API, 2019-12-10T21:54:50+0000
+/project/pyshtools/, pyshtools, 4.8, SHTOOLS - Spherical Harmonic Tools, 2021-01-26T09:42:23+0000
+/project/embtest/, embtest, 0.0.1, A light-weight testing module that enables users to write testing code along writing the actual code, 2018-08-29T05:14:33+0000
+/project/ml-descriptor/, ml-descriptor, 0.0.1, A simple descriptor, 2018-11-05T15:18:37+0000
+/project/mapproxy/, MapProxy, 1.13.0, An accelerating proxy for tile and web map services, 2020-11-19T09:23:10+0000
+/project/terraref-terrautils/, terraref-terrautils, 1.1.2, TERRA-REF workflow utilities, 2018-03-30T14:30:18+0000
+/project/apls/, apls, 0.1.0, CosmiQ Works APLS Metric Implementation, 2019-05-21T23:05:13+0000
+/project/gisrastertools/, gisrastertools, 0.1, Tools for working with Geographical Information System Rasters, 2014-12-01T03:53:15+0000
+/project/fastkml-klinden/, fastkml-klinden, 0.11, Fast KML processing in python (forked from https://github.com/cleder/fastkml), 2018-04-12T20:33:02+0000
+/project/psyplot/, psyplot, 1.3.1, Python package for interactive data visualization, 2020-10-29T13:46:40+0000
+/project/python-safe/, python-safe, 1.1.2, Spatial Analysis Functional Engine, 2013-05-27T21:07:12+0000
+/project/rtc-tools-channel-flow/, rtc-tools-channel-flow, 1.1.0, Simple and hydraulic Modelica routing models for RTC-Tools 2., 2019-09-06T11:36:05+0000
+/project/raster-tester/, raster-tester, 0.11.0, Tools for testing rasters, 2018-06-15T21:31:12+0000
+/project/open-telemetry-kit/, open-telemetry-kit, 0.2.6.2, Open source package for extracting and parsing telemetry associated with video streams and converting to common formats., 2021-02-11T18:10:20+0000
+/project/pytess/, Pytess, 1.0.0, Pure Python tessellation of points into polygons, including Delauney/Thiessin, and Voronoi polygons., 2018-09-13T05:38:29+0000
+/project/osgridconverter/, OSGridConverter, 0.1.3, Library to convert co-ordinates between the (UK) Ordnance Survey National Grid and latitude/longitude, 2017-07-31T16:00:27+0000
+/project/pywcmp/, pywcmp, 0.2.0, A Python implementation of the test suite for WMO Core Metadata Profile, 2021-03-19T13:53:01+0000
+/project/geolucidate/, geolucidate, 0.4, Parse free-form geographic coordinates in text, and automatically generate links and metadata., 2011-07-08T19:18:51+0000
+/project/bounds/, bounds, 0.0.5, Very simple API return geographic or projected coordinates from raster or iterable, 2018-10-18T17:35:38+0000
+/project/noaadata-py/, noaadata-py, 0.45, Encode/decode NOAA co-ops marine data and marine AIS, 2013-03-03T02:30:43+0000
+/project/zgeo-plone-kml/, zgeo.plone.kml, 0.2, KML for Plone content, 2008-09-12T03:55:40+0000
+/project/rio-viz/, rio-viz, 0.6.1, Visualize Cloud Optimized GeoTIFF in browser, 2021-04-08T16:49:55+0000
+/project/mapcanvasgtk/, MapCanvasGTK, 0.0.1, A PyGtk (PyGObject) widget for adding a map to your application, 2020-07-25T20:00:27+0000
+/project/esda/, esda, 2.3.6, Exploratory Spatial Data Analysis., 2021-01-20T17:55:22+0000
+/project/ogr-utils/, ogr_utils, 1.2, conveniance utilities for ogr, 2014-08-27T12:35:42+0000
+/project/gps3/, gps3, 0.33.3, Python 2.7-3.5 clients for gpsd, 2016-09-04T03:19:06+0000
+/project/trajectory/, trajectory, 0.1.1, Trajectory data lossy compression format based on Google's Encoded Polyline Algorithm Format, 2020-02-24T17:31:53+0000
+/project/color-balance/, color_balance, 0.1.112, Color balancing, 2016-05-20T20:25:47+0000
+/project/pynmea2/, pynmea2, 1.18.0, Python library for the NMEA 0183 protcol, 2021-04-13T03:17:29+0000
+/project/gpf/, gpf, 0.9.6, Geocom Python Framework for ArcPy (Esri ArcGIS)., 2020-02-27T16:52:12+0000
+/project/pytides2/, pytides2, 0.0.5, fork of pytides by sam cox, compatible with newer version of python, 2020-11-27T06:32:36+0000
+/project/tilemapbase/, tilemapbase, 0.4.7, Use OpenStreetMap tiles as basemaps in python / matplotlib, 2021-01-15T22:09:18+0000
+/project/learn2map/, learn2map, 0.7.0, Spatial mapping from remote sensing data, 2020-06-22T04:40:24+0000
+/project/ggeocoder/, ggeocoder, 1.0.1, A Python library for working with Google Geocoding API V3., 2011-10-21T14:40:43+0000
+/project/solaris/, solaris, 0.4.0, CosmiQ Works Geospatial Machine Learning Analysis Toolkit, 2020-08-21T18:51:20+0000
+/project/pysptools/, pysptools, 0.15.0, A hyperspectral imaging tools box, 2018-10-12T15:53:45+0000
+/project/pylusat/, pylusat, 0.3.4, Python for Land-use suitability analysis tools, 2021-04-25T01:20:07+0000
+/project/rstoolkit/, RStoolkit, 1.0.7, A powerful and useful package for remote sensing image&video preocessing., 2018-05-15T10:01:37+0000
+/project/area/, area, 1.1.1, Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox'sgeojson-area for Python, 2018-10-31T14:22:29+0000
+/project/holey/, holey, 2018.11, Geometry predicates written in python, optimised with numba, 2018-11-03T08:22:06+0000
+/project/hparam/, hparam, 0.1.4, A light-weight container for hyperparmeter management, 2018-04-08T15:35:46+0000
+/project/region/, region, 0.2.1, Package offering regionalization algorithms, 2020-01-26T22:31:31+0000
+/project/cpruntime/, cpruntime, 0.0.7, python module for cloudpi, 2014-05-09T05:50:12+0000
+/project/daylight/, daylight, 0.1.3, Python bindings to libdaylight, 2020-06-14T18:24:51+0000
+/project/neat-eo/, neat-EO, 0.0.2, Computer Vision framework for GeoSpatial Imagery, 2020-02-23T15:51:14+0000
+/project/pygdaltools/, pygdaltools, 1.3.2, Python wrapper for Gdal/OGR command line tools, 2021-02-23T16:17:43+0000
+/project/geosardine/, geosardine, 0.10.2, Spatial operations extend fiona and rasterio, 2020-12-18T11:32:18+0000
+/project/redfearn/, redfearn, 1.0.4, Converts between latitude/longitude and grid coordinates using Redfearn's Formula, 2015-09-18T00:52:23+0000
+/project/icoscp/, icoscp, 0.1.6, Access to ICOS data objects hosted at https://data.icos-cp.eu, 2021-03-29T20:31:27+0000
+/project/geomancer/, geomancer, 1.1.0, Automated Geospatial Feature Engineering Library, 2019-05-06T01:58:35+0000
+/project/cartoview/, cartoview, 1.31, Cartoview is a GIS web mapping application framework to     easily share and deploy apps based on Geonode, 2021-04-21T13:07:33+0000
+/project/rasterinlay/, RasterInLay, 0.1.2rc0, Modifies a raster by constraining the distribution within specified areas using data from another raster., 2020-12-29T12:56:41+0000
+/project/kotori/, kotori, 0.26.6, Kotori is a data acquisition, processing and graphing toolkit for humans, 2021-02-17T14:53:25+0000
+/project/inpoly/, inpoly, 0.2.0, Fast point(s)-in-polygon queries., 2020-12-20T01:06:09+0000
+/project/hm-render-landez/, hm-render-landez, 0.0.2, Render a map for a given area to paper using landez and mapnik, 2019-10-26T09:51:23+0000
+/project/pyoints/, pyoints, 0.2.0a3, A Python package for point cloud, voxel and raster processing., 2018-11-09T17:26:40+0000
+/project/climata/, climata, 0.5.0, Loads climate and hydrology data from ACIS (NOAA RCCs), CoCoRaHS, Hydromet (USBR), SNOTEL AWDB (NRCS) and NWIS (USGS)., 2017-09-14T17:10:33+0000
+/project/gdecomp/, gdecomp, 1.0.6, Gaussian Decompostion of a LiDAR Waveform, 2020-05-07T10:49:39+0000
+/project/vera/, vera, 1.0.0, Reference implementation of the ERAV data model for citizen science. ERAV is an extension to EAV with support for maintaining multi-faceted provenance metadata for an entity., 2017-09-14T15:40:58+0000
+/project/pygeo2x/, pygeo2x, 0.0.1, Geophysical and GIS toolbox, 2019-05-18T19:14:36+0000
+/project/elevationapi/, elevationapi, 1.0.3, Get the elevation of any land point on Earth using elevationapi.xyz, 2016-12-24T12:03:35+0000
+/project/usgs-topo-tiler/, usgs-topo-tiler, 0.2.0, rio-tiler plugin to read mercator tiles from USGS Topo Quads, 2020-05-12T05:46:48+0000
+/project/metio/, metio, 0.0.22, Very simple API to download gridded meteorology data from the web, 2018-08-27T02:53:25+0000
+/project/mapclassify/, mapclassify, 2.4.2, Classification Schemes for Choropleth Maps., 2020-12-22T23:35:31+0000
+/project/transformation-algebra/, transformation-algebra, 0.1.2, Type inference for transformation algebras., 2021-04-23T17:55:47+0000
+/project/uscensus/, uscensus, 0.2.4, US Census API discovery wrappers, 2021-04-22T00:22:38+0000
+/project/ba-tools/, ba-tools, 0.8.4, Feature engineering using ArcGIS Pro with Business Analyst for using quantitative Geography with Machine Learning., 2020-08-10T19:09:09+0000
+/project/kvadratnet/, kvadratnet, 0.3.0, Python tools for working with the Danish Kvadratnet tiling scheme., 2017-03-27T19:42:01+0000
+/project/collective-geo-wms/, collective.geo.wms, 0.2, WMS Support for Collective Geo, 2013-10-30T07:22:32+0000
+/project/kmsgrid/, kmsgrid, 1.1.0, Read and convert grids from KMS., 2017-10-18T19:05:08+0000
+/project/geonode-extract/, geonode-extract, 0.4.2, Extract data from a geonode and put it in a folder, 2012-09-18T15:35:48+0000
+/project/tilesizer/, tilesizer, 0.0.2, , 2020-05-29T01:53:52+0000
+/project/django-wms/, django-wms, 0.1.12, Mapscript based WMS framework for GeoDjango, 2016-04-26T11:38:19+0000
+/project/libedooon/, libedooon, 0.2.3, A Python wrap for Edooon RESTful APIs., 2017-04-25T02:09:21+0000
+/project/pointpats/, pointpats, 2.2.0, Methods and Functions for planar point pattern analysis, 2020-07-27T23:37:48+0000
+/project/foolib/, foolib, 0.0.1, Does something foo, 2014-05-22T13:01:07+0000
+/project/pysupercluster/, pysupercluster, 0.7.6, A fast geospatial point clustering module., 2018-10-26T08:53:01+0000
+/project/splot/, splot, 1.1.3, Visual analytics for spatial analysis with PySAL., 2020-03-23T12:01:11+0000
+/project/studio/, Studio, 0.5.1, Web-based administration interface for MapServer, 2011-03-13T16:07:09+0000
+/project/pyows/, pyows, 0.2.0, OWS utilities, 2020-08-03T11:57:47+0000
+/project/mercantile/, mercantile, 1.2.1, Web mercator XYZ tile utilities, 2021-04-21T14:42:39+0000
+/project/django-geoportail/, django-geoportail, 0.4.6, Add maps and photos from the French National Geographic Institute to GeoDjango, 2010-12-22T10:51:47+0000
+/project/pyunicorn/, pyunicorn, 0.6.1, Unified complex network and recurrence analysis toolbox, 2019-06-21T08:33:48+0000
+/project/python-geoio/, python-geoio, 0.1.1, Python bindings for the geo.io API., 2014-03-26T19:16:10+0000
+/project/museotoolbox/, museotoolbox, 0.13.6, Raster and vector tools for Remote Sensing and Classification, built upon gdal library, 2020-07-19T06:09:07+0000
+/project/cgal-bindings/, cgal-bindings, 1.2, Uses SWIG to generate bindings so you can use certain CGAL classes in Python., 2018-04-17T18:39:32+0000
+/project/simplekml/, simplekml, 1.3.5, A Simple KML creator, 2020-04-02T12:19:41+0000
+/project/plpygis/, plpygis, 0.2.0, PostGIS Python tools, 2020-02-21T20:23:22+0000
+/project/nikweb/, Nikweb, 0.1.0, A GeoJSON web service for Mapnik, 2009-09-30T18:37:33+0000
+/project/spice-hsi/, SPICE-HSI, 1.4, GatorSense Sparsity Promoting Iterated Constrained Endmembers Toolkit - Python Implementation, 2020-06-24T19:37:08+0000
+/project/gtfslib/, gtfslib, 1.0.0, GTFS database library, 2017-04-13T14:59:11+0000
+/project/noaaclass/, noaaclass, 0.0.23, A python library that allow to request images to the NOAA CLASS (Comprehensive Large Array-Data Stewardship System)., 2016-03-30T17:36:21+0000
+/project/earthengine-api/, earthengine-api, 0.1.262, Earth Engine Python API, 2021-04-21T21:59:55+0000
+/project/tormetron/, tormetron, 0.0.dev3, Download, save and process rainfall radar images from AEMET, 2019-09-25T15:52:01+0000
+/project/geoalchemy/, GeoAlchemy, 0.7.2, Using SQLAlchemy with Spatial Databases, 2013-04-09T11:25:17+0000
+/project/fractopo/, fractopo, 0.0.2, Brittle Geology Analysis Toolkit, 2021-03-22T16:44:10+0000
+/project/pyzsf/, pyzsf, 0.1.0, Model for salt intrusion through shipping locks., 2021-04-06T19:31:07+0000
+/project/datacube/, datacube, 1.8.3, An analysis environment for satellite and other earth observation data, 2020-08-18T04:09:37+0000
+/project/upoints/, upoints, 0.12.2, Modules for working with points on Earth, 2014-02-20T21:38:50+0000
+/project/pygtiff/, pyGTiff, 1.0.3, Convenience class for handling geotiffs (and potentially other formats) through GDAL, 2014-11-18T20:31:20+0000
+/project/djangorestframework-mvt/, djangorestframework-mvt, 0.2.5,  A Django REST Framework extension for creating views that serialize model data to Google Protobuf encoded Map Box Vector Tiles via Postgres. , 2020-11-11T19:11:08+0000
+/project/stations/, stations, 0.0.0, A python service that allow to manage the ground stations., 2015-01-09T01:15:13+0000
+/project/geotiler/, geotiler, 0.14.4, GeoTiler - library to create maps using tiles from a map provider, 2020-04-21T18:50:07+0000
+/project/picoraster/, picoraster, 0.0.2, Lazy raster band processing, 2019-03-11T01:39:03+0000
+/project/latimes-pluggablemaps-lametrorail/, latimes-pluggablemaps-lametrorail, 0.1, L.A. Times Pluggable Maps: L.A. Metro Rail, 2011-05-07T21:47:04+0000
+/project/pyandexmap/, pyandexmap, 0.0.2, Scripts for get data from yandex map API, 2012-02-03T10:19:15+0000
+/project/hydroffice-soundspeed/, hydroffice.soundspeed, 2017.0.0, A library and an application to manage sound speed profiles., 2017-03-18T02:56:10+0000
+/project/dymax/, dymax, 1.1.2, Dymaxion Fuller Projection Utilities, 2019-07-29T03:04:08+0000
+/project/geomodels/, geomodels, 1.0.0b4, Python package for Earth data models management, 2019-12-31T19:56:41+0000
+/project/geopyspark/, geopyspark, 0.4.3, Python bindings for GeoTrellis, 2018-12-11T16:24:11+0000
+/project/shapestats/, shapestats, 0.2.4, tools & methods to measure shape regularity, 2018-08-07T04:23:59+0000
+/project/polycircles/, polycircles, 0.3.7, Polycircles: WGS84 Circle approximations using polygons, 2016-07-03T17:59:19+0000
+/project/gpsdataanalyzer/, GpsDataAnalyzer, 0.3.0, A simple Python toolkit to analyze GPS data, 2020-07-23T15:23:21+0000
+/project/rasterstats/, rasterstats, 0.15.0, Summarize geospatial raster datasets based on vector geometries, 2020-07-11T16:15:49+0000
+/project/grids/, grids, 0.5, Tools for extracting time series subsets from n-dimensional arrays in several storage formats., 2021-03-20T23:12:31+0000
+/project/rio-ds-mask/, rio-ds-mask, 1.2, Extract an image's dataset-level mask and write to a new file., 2018-02-11T04:06:24+0000
+/project/pecuzal-embedding/, pecuzal-embedding, 1.3.1, PECUZAL automatic embedding of uni- and multivariate time series, 2021-03-18T10:19:41+0000
+/project/yacluster/, yacluster, 1.0.0, Distance-based clustering tool, 2016-07-04T09:44:38+0000
+/project/qgsctx/, qgsctx, 0.1, Helps launching QGIS plugins as standalone applications, 2013-06-02T15:50:46+0000
+/project/transporthours/, transporthours, 0.0.4, Package for handling public transport routes opening hours from OpenStreetMap, 2020-08-03T14:50:37+0000
+/project/pipelineutils/, pipelineutils, 1.0.7, Drone pipeline workflow utilities, 2019-06-27T22:15:43+0000
+/project/collective-geo-index/, collective.geo.index, 0.1, spatialindex for collective.geo, 2012-02-16T10:06:30+0000
+/project/collective-geo-bundle/, collective.geo.bundle, 2.3, Plone Maps (collective.geo), 2015-05-02T15:16:27+0000
+/project/brtools/, brtools, 0.0.1, Does something and then we make money, 2015-11-18T20:20:30+0000
+/project/pyverm/, pyverm, 0.3.0, Modul for geodetic and surveying calculations, 2019-12-12T15:20:58+0000
+/project/pyjpmesh/, pyjpmesh, 1.1.0, Japan grid square code (JIS X 0410) utility for Python., 2016-09-05T14:42:09+0000
+/project/fews-io/, fews-io, 0.0.1, Library for communicating with Delft-FEWS, 2021-03-11T13:10:03+0000
+/project/tilecloud-chain/, tilecloud-chain, 1.16.1, Tools to generate tiles from WMS or Mapnik, to S3, Berkeley DB, MBTiles, or local filesystem in WMTS layout using Amazon cloud services., 2021-04-13T12:16:28+0000
+/project/transitfeed/, transitfeed, 1.2.16, GTFS library and tools, 2018-01-24T06:27:02+0000
+/project/geobr/, geobr, 0.1.7, geobr: Loads Shapefiles of Official Spatial Data Sets of Brazil, 2020-07-14T17:25:26+0000
+/project/dgp-lib/, dgp-lib, 1.0.0b2, Library of functions for importing and processing gravity data, 2020-07-17T21:53:59+0000
+/project/addok/, addok, 1.0.2, Search engine for address. Only address., 2017-08-26T05:53:02+0000
+/project/pb-tool/, pb-tool, 3.1.0, Plugin build tool for QGIS: A tool to aid in QGIS Python plugin development, 2019-11-24T01:51:39+0000
+/project/ft2gee/, ft2gee, 0.0.1, Fusion table to EE tables CLI, 2019-01-28T04:36:54+0000
+/project/easyrules/, easyrules, 0.0.1, A simple rules engine, 2020-10-02T04:36:13+0000
+/project/pybng/, PyBNG, 0.1.8, A library to convert BNG/OSNG coordinates, 2020-03-10T15:24:29+0000
+/project/sat-search/, sat-search, 0.3.0, A python client for sat-api, 2020-08-21T21:30:17+0000
+/project/bycyclecore/, byCycleCore, 0.4a0.dev-r1054, byCycle Core Services, 2008-09-22T21:41:25+0000
+/project/gispy/, gispy, 0.0.10, GIS functions with GDAL/OGR, 2019-11-01T15:49:18+0000
+/project/aceso/, aceso, 0.1.0, Lightweight package to calculate 2SFCA and other measures of spatial accessibility, 2018-05-10T17:18:18+0000
+/project/pykml/, pykml, 0.2.0, Python KML library, 2019-10-25T19:46:18+0000
+/project/nik2img/, nik2img, 0.8.0, A command line style renderer for the Mapnik C++/Python mapping toolkit, 2011-10-26T23:26:03+0000
+/project/pyubx2/, pyubx2, 1.0.9, UBX Protocol Parser, 2021-04-19T18:01:29+0000
+/project/senergy/, senergy, 0.0.5, description, 2019-03-18T19:50:32+0000
+/project/pyepr/, pyepr, 1.0.1, Python ENVISAT Product Reader API, 2020-03-07T12:26:52+0000
+/project/ziptastic-python/, ziptastic-python, 1.0.0b2, Official GetZiptastic.com library., 2018-03-23T03:26:48+0000
+/project/boto-scripts/, boto-scripts, 0.0.1, Does something foo, 2015-05-18T10:26:33+0000
+/project/monet-mapsviewlet/, monet.mapsviewlet, 0.6.2, A viewlet for Plone that show up a Google Maps using the document location field. Also can handle KML files using related contents., 2012-01-04T10:44:57+0000
+/project/histview/, HistView, 0.0.1, Does something and then we make money, 2015-11-18T20:10:39+0000
+/project/epsg-ident/, epsg-ident, 0.1.1, Quickly get the EPSG code from a .prj file or WKT, 2016-05-06T15:17:04+0000
+/project/pogeo/, pogeo, 0.3.0, Fast geography package., 2017-04-16T09:53:40+0000
+/project/gisdata/, gisdata, 0.5.4, Sample data and metadata for GIS packages, 2012-10-05T11:28:17+0000
+/project/skeletonizer/, skeletonizer, 0.0.1.dev1, Hydraulic network skeletonizer, 2018-02-25T22:31:20+0000
+/project/vectorformats/, vectorformats, 0.1, geographic data serialization/deserialization library, 2009-04-03T18:45:09+0000
+/project/s2reader3/, s2reader3, 0.6.3, simple Python 3 metadata reader for Sentinel-2 SAFE files (Level-1C and Level-2A), derived from old unsupported Python 2 s2reader3 of https://github.com/ungarj/s2reader.git, 2021-04-16T11:25:24+0000
+/project/terkin-micropython-libraries/, terkin-micropython-libraries, 0.10.0, Terkin MicroPython runtime libraries, 2020-05-22T00:10:27+0000
+/project/cedar-datacube/, cedar-datacube, 0.0.4, Creator for Analysis Ready Data (ARD), 2019-08-26T17:48:58+0000
+/project/esrijson/, esrijson, 0.4.4, Bindings and utilities for EsriJSON, 2020-09-03T10:14:35+0000
+/project/swatpy/, swatpy, 0.1.5, A Python package to run, control/manipulate and analyse SWAT2012 models, 2020-10-29T06:35:54+0000
+/project/hyo-bagexplorer/, hyo.bagexplorer, 0.5.7, An application to browse and manage BAG files., 2018-06-21T12:30:56+0000
+/project/addok-trigrams/, addok-trigrams, 1.1.1, Trigram based algorithm for Addok., 2018-07-19T09:14:41+0000
+/project/pysal/, pysal, 2.4.0, A library of spatial analysis functions., 2021-02-02T02:59:42+0000
+/project/hex-utils/, hex-utils, 0.4.5, Utilities for ASCII encoded hexagonal rasters (HexASCII), 2020-09-10T12:43:26+0000
+/project/cartocss-doc-parser/, cartocss-doc-parser, 0.2.10, CartoCSS documentation parser., 2021-02-01T19:57:17+0000
+/project/microbarometer/, microbarometer, 0.1.0, Read SEED microbarometer data and plot., 2018-08-15T05:29:59+0000
+/project/pysep/, pySEP, 1.0.11, Pacote Open Source desenvolvido no Brasil para modelar e simular Sistemas Elétricos de Potência. Open Source Package developed in Brazil to model and simulate Electric Power Systems, 2020-06-19T03:14:59+0000
+/project/rastachimp/, rastachimp, 0.3, Tools for topological processing of polygons vectorized from rasters, 2019-06-12T09:55:06+0000
+/project/rasterio/, rasterio, 1.2.2, Fast and direct raster I/O for use with Numpy and SciPy, 2021-04-07T12:41:17+0000
+/project/scipolate/, scipolate, 0.1.3, helper for running different scipy 2D interpolations, 2019-04-08T09:47:53+0000
+/project/descartes/, descartes, 1.1.0, Use geometric objects as matplotlib paths and patches, 2017-01-17T15:37:01+0000
+/project/owslib/, OWSLib, 0.23.0, OGC Web Service utility library, 2021-02-05T18:11:06+0000
+/project/rtree/, Rtree, 0.9.7, R-Tree spatial index for Python GIS, 2020-12-24T15:38:56+0000
+/project/anprx/, anprx, 0.1.2, Create, visualise and leverage networks of ANPR cameras on the road network., 2018-11-08T12:05:07+0000
+/project/itmlogic/, itmlogic, 0.1, Longley-Rice irregular terrain propagation model, 2019-07-18T10:17:41+0000
+/project/geebam/, geebam, 0.1.7, Google Earth Engine Batch Assets Manager, 2019-10-29T16:02:04+0000
+/project/bgeo-catasto/, bgeo.catasto, 0.3.1, Italian land registry utilities, 2016-03-15T14:06:40+0000
+/project/geodesiclinestogis/, GeodesicLinesToGIS, 0.5.0, Computes geodesic lines from start point to end point and stores them in a GIS file (Shapefile and GeoJSON). The problem of geodesic lines crossing antimeridian is solved., 2017-03-13T01:10:31+0000
+/project/geoalchemy2/, GeoAlchemy2, 0.8.5, Using SQLAlchemy with Spatial Databases, 2021-03-31T06:07:18+0000
+/project/modapsclient/, modapsclient, 0.1.1, A client for the NASA MODAPS web service, 2018-03-28T04:13:39+0000
+/project/terraref-stereo-rgb/, terraref-stereo-rgb, 1.1.0, TERRA-REF stereo RGB camera science package, 2018-09-07T14:28:30+0000
+/project/gpxdata/, gpxdata, 1.2.1, Object-Oriented representation of GPX documents and conversion utilities between GPX, KML and OVL, 2015-12-16T21:41:30+0000
+/project/h3ronpy/, h3ronpy, 0.10.0, python bindings for h3ron, 2021-04-24T17:56:28+0000
+/project/shp2postgis/, shp2postgis, 0.2.7, shapefile to sql converter., 2020-12-04T06:07:31+0000
+/project/espatools/, espatools, 0.1.1, Landsat raster file I/O, 2020-12-05T19:32:01+0000
+/project/collective-geo-contentlocations/, collective.geo.contentlocations, 3.2, geo reference for plone contents, 2019-01-23T10:44:36+0000
+/project/cw-eval/, cw-eval, 1.0.0, Provide Evaluation Metrics for Machine Learning Challenges, 2019-01-04T20:51:52+0000
+/project/grafana-pandas-datasource/, grafana-pandas-datasource, 0.1.2, Serve Pandas dataframes to Grafana, 2020-12-27T10:19:06+0000
+/project/kaola/, kaola, 0.0.9, Kaola Python SDK, 2020-01-05T06:06:04+0000
+/project/dgm1/, dgm1, 0.0.4, DEM from NRW (Germany), 2020-07-03T06:57:23+0000
+/project/tilecache/, TileCache, 2.11, a web map tile caching system, 2010-10-15T11:35:03+0000
+/project/aerofiles/, aerofiles, 1.0.0, waypoint, task, tracklog readers and writers for aviation, 2018-11-04T12:48:26+0000
+/project/prosail/, prosail, 2.0.5, PROSPECT, SAIL and PROSAIL Python wrappers, 2019-04-01T15:41:04+0000
+/project/xiaohongshu/, xiaohongshu, 0.0.3, Xiaohongshu Python SDK, 2019-06-27T09:19:19+0000
+/project/geoconvert/, geoconvert, 0.4.0, A small geospatial dataset converter package, 2019-04-20T13:36:31+0000
+/project/etrm/, etrm, 0.0.1, Model evapotranspiraton using soil, remote sensing, and meteorology inputs, 2018-09-23T16:32:37+0000
+/project/walkscore-api-binding/, walkscore-api-binding, 0.2.2, Unofficial WalkScore API binding, 2015-08-03T05:21:08+0000
+/project/satelliteimage/, SatelliteImage, 0.1.28, Simple API provides a class to process satellite images, 2018-09-28T20:42:49+0000
+/project/natcap-rios/, natcap.rios, 1.1.16, Resource Investment Optimization System, 2016-09-13T18:19:13+0000
+/project/tilecloud/, tilecloud, 1.5.2, Tools for managing tiles, 2021-04-01T10:00:07+0000
+/project/pclip/, pclip, 0.2.8, Planet Clip-Ship Tools CLI, 2018-08-28T14:41:33+0000
+/project/eoxserver/, EOxServer, 0.4.0, EOxServer is a server for Earth Observation (EO) data, 2016-04-21T10:16:44+0000
+/project/geodaisy/, geodaisy, 0.1.1, Python GeoJSON, WKT, and __geo_interface__ made easy., 2018-04-09T11:04:12+0000
+/project/gpxslicer/, gpxslicer, 0.1.0, Slice up gpx tracks based on distance from the start or custom waypoints, 2020-01-24T23:40:01+0000
+/project/zip-code-radius/, zip-code-radius, 0.0.1, Generate minimum sets of zip codes, based on a radius, that can be used in a series of searches to cover the entire USA, 2015-02-16T00:48:14+0000
+/project/gpf3/, gpf3, 0.3.2, Geocom Python Framework for ArcPy (Esri ArcGIS Pro)., 2020-02-21T16:24:41+0000
+/project/s2cell/, s2cell, 1.4.0, Minimal Python S2 Geometry cell ID, token and lat/lon conversion library, 2021-01-05T23:02:03+0000
+/project/geopython/, geopython, 1.0.0, Vanity package for geopython projects, 2021-02-07T12:28:59+0000
+/project/access/, access, 1.1.3, Calculate spatial accessibility metrics., 2020-12-15T20:24:20+0000
+/project/psycopg-postgis2/, psycopg-postgis2, 0.0.2, Pyscopg helpers to work with PostGIS., 2016-11-28T11:25:46+0000
+/project/natcap-invest/, natcap.invest, 3.9.0, InVEST Ecosystem Service models, 2020-12-12T01:43:49+0000
+/project/inasafe-cli/, inasafe-cli, 1.0.7, Realistic natural hazard impact scenarios for better planning, preparedness and response activities., 2017-09-18T09:07:02+0000
+/project/tobler/, tobler, 0.7.0, TOBLER: Areal Interpolation, 2021-01-31T23:22:53+0000
+/project/hdxpop/, hdxpop, 0.0.4, Simple tool to download High Resolution Population Density Maps from Humanitarian Data Exchange, 2021-03-16T05:20:00+0000
+/project/pyvoronoi/, pyvoronoi, 1.0.5, Cython wrapper for the Boost Voronoi library (version 1.59.0), 2017-10-02T01:25:16+0000
+/project/geoarea/, geoarea, 0.1.3, Calculate the area from latitude longitude coordinates list, 2019-07-25T20:51:35+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/rhessysworkflows/, rhessysworkflows, 1.34, Libraries and command-line scripts for performing RHESSys data preparation workflows., 2016-07-12T01:09:20+0000
+/project/datacube-wps/, datacube-wps, 0.4.7, datacube-wps is an implementation of the Web Processing Service standard from the Open Geospatial Consortium., 2021-02-26T05:19:14+0000
+/project/owlet/, owlet, 0.8.3, A Geospatial Python Package for Field Researchers, 2020-05-19T06:27:42+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pyshp/, pyshp, 2.1.3, Pure Python read/write support for ESRI Shapefile format, 2021-01-14T14:12:50+0000
+/project/python-mobilitydb/, python-mobilitydb, 0.1.1, A database adapter to access MobilityDB from Python, 2020-01-12T18:38:52+0000
+/project/telluric/, telluric, 0.13.6, Interactive geospatial data manipulation in Python, 2021-04-23T13:35:12+0000
+/project/airwing-autopublish/, airwing_autopublish, 1.0.5, GeoServer REST Configuration, 2015-12-16T03:07:38+0000
+/project/tilechips/, tilechips, 0.0.2, A python package to create raster tiles for deep learning training image chips, 2021-03-02T09:05:51+0000
+/project/oneworld/, oneworld, 1.0.4, Python mapping made easy, 2021-02-18T22:38:12+0000
+/project/entity-extract/, entity_extract, 0.0.1, Used for the entity extraction of a text and a corpora and to comapre and reduce entity lists, 2017-10-31T09:56:09+0000
+/project/django-munigeo/, django-munigeo, 0.3.6, A Django app for processing municipality-related geospatial data., 2020-06-05T12:02:55+0000
+/project/stac-py/, stac.py, 0.9.0.post11, Python Client Library for STAC., 2021-04-22T17:13:55+0000
+/project/dataplunger/, dataplunger, 0.1.0, Extract, Transform, Load, 2014-05-13T19:00:28+0000
+/project/geojsonvt/, geojsonvt, 0.1.0, A Python port of JS GeoJSON-VT for generating vector map tiles., 2018-04-26T17:02:39+0000
+/project/prospect/, prospect, 0.1.0, Archaeological survey simulation, 2021-02-03T03:21:17+0000
+/project/rio-terrain/, rio-terrain, 0.0.29, Rasterio CLI plugin to perform common operations on single-band elevation rasters, 2020-07-31T04:32:57+0000
+/project/cubicweb-postgis/, cubicweb-postgis, 0.7.1, Test for postgis, 2021-01-07T14:15:45+0000
+/project/gpx-linesman/, gpx-linesman, 0.3.0, Command line tool for measuring the straightness of a gpx track, 2021-01-24T17:19:22+0000
+/project/geomet/, geomet, 0.3.0, GeoJSON <-> WKT/WKB conversion utilities, 2020-12-29T00:48:27+0000
+/project/gdal-utils/, gdal-utils, 3.3.0.6, gdal-utils: An extension library for GDAL - Geospatial Data Abstraction Library, 2021-03-27T14:57:17+0000
+/project/segregation/, segregation, 1.5.0, Analytics for spatial and non-spatial segregation in Python., 2020-12-30T03:30:50+0000
+/project/cdochain/, cdochain, 0.2b3, Easy chaining of cdo methods., 2016-06-28T13:18:58+0000
+/project/rads/, rads, 0.1.0.post0, Python front end for the Radar Altimeter Database System., 2019-08-22T18:54:16+0000
+/project/straditize/, straditize, 0.1.3, Python package for digitizing pollen diagrams, 2019-09-20T13:41:55+0000
+/project/hyo-soundspeed/, hyo.soundspeed, 2018.1.1, A library and an application to manage sound speed profiles., 2018-02-17T17:17:58+0000
+/project/qgmap/, qgmap, 0.2, Google Map widget for PySyde/PyQt4, 2014-04-19T21:39:57+0000
+/project/mgrs/, mgrs, 1.4.0, MGRS coordinate conversion for Python, 2020-10-01T16:19:07+0000
+/project/esmvalcore/, ESMValCore, 2.2.0, ESMValCore: A community tool for pre-processing data from Earth system models in CMIP and running analysis scripts., 2021-02-10T11:39:45+0000
+/project/pymeos/, pymeos, 0.1.1, Python bindings to MEOS, 2020-09-02T05:47:21+0000
+/project/hexwatershed/, hexwatershed, 0.1.0, Python interface for the HexWatershed model., 2021-04-16T16:19:08+0000
+/project/mapfish/, mapfish, 2.2, The MapFish web-mapping framework., 2011-06-23T11:55:56+0000
+/project/terraref-laser3d/, terraref-laser3d, 1.8.0, TERRA-REF laser 3D scanner science package, 2019-01-08T18:48:24+0000
+/project/nik4/, Nik4, 1.7.0, Command-line interface to a Mapnik rendering toolkit, 2021-03-27T19:48:30+0000
+/project/asap-stereo/, asap-stereo, 0.1.0, A high level CLI and reproduceable workflow for the Ames Stereo Pipeline, 2020-12-02T19:06:29+0000
+/project/wumappy/, WuMapPy, 0.32, Graphical user interface for sub-surface geophysical survey data processing, 2019-08-20T16:11:58+0000
+/project/spiderosm/, spiderosm, 0.4.3, GIS conflation tool for matching street networks., 2015-03-01T19:49:35+0000
+/project/lidario/, lidario, 0.3.0, High-level python library to manipulate LIDAR raster and point cloud, 2020-12-12T16:25:10+0000
+/project/gpras/, GPRas, 0.1.1, algorithms for measuring concentration distribution in a spatial network., 2017-02-17T17:05:02+0000
+/project/geosoupml/, geosoupML, 0.1.56, Machine Learning support for geosoup, 2021-01-09T12:20:54+0000
+/project/terrautils/, terrautils, 1.5.5, TERRA-REF workflow utilities, 2019-11-11T14:46:57+0000
+/project/spaghetti/, spaghetti, 1.5.6, Analysis of Network-constrained Spatial Data, 2021-01-04T20:50:13+0000
+/project/skylinespolyencode/, SkyLinesPolyEncode, 0.1.3, SkyLines Polyline encoding (C++ extension), 2013-10-03T12:49:50+0000
+/project/spatial-efd/, spatial-efd, 1.2.1, Spatial elliptical fourier analysis, 2020-03-04T17:55:21+0000
+/project/geeup/, geeup, 0.4.6, Simple Client for Earth Engine Uploads with Selenium Support, 2021-04-11T21:46:41+0000
+/project/mapchete-xarray/, mapchete-xarray, 0.4, Mapchete xarray output driver, 2020-05-07T15:51:07+0000
+/project/geompreds/, geompreds, 1.0.2, Adaptive Precision Floating-Point Arithmetic and Fast Robust Predicates for Computational Geometry for Python, 2017-04-24T12:06:59+0000
+/project/moody/, moody, 0.2.0, A basic CLI to download data from the Mars ODE PDS Node, 2021-01-03T16:10:09+0000
+/project/coord-convert/, coord-convert, 0.2.1, china mars coordinate convertor., 2019-09-16T15:59:44+0000
+/project/traffic/, traffic, 2.5, A toolbox for manipulating and analysing air traffic data, 2020-11-11T00:14:12+0000
+/project/koordinates/, koordinates, 0.5.3, A Python client library for a number of Koordinates web APIs, 2020-05-20T02:15:39+0000
+/project/nvector/, nvector, 0.7.6, Solves all kinds of geographical position calculations., 2020-12-18T02:49:27+0000
+/project/giokoda/, giokoda, 0.1.2, A utility for geocoding csv files., 2015-02-10T10:43:06+0000
+/project/pygeocoder/, pygeocoder, 1.2.5, Python interface for Google Geocoding API V3. Can be used to easily geocode, reverse geocode, validate and format addresses., 2014-06-13T08:33:49+0000
+/project/attitude/, Attitude, 0.5.0, Attitude computes the orientations of planes from point data., 2019-10-11T08:00:04+0000
+/project/insightgis/, insightgis, 0.0.1, Welcome to InsightGIS., 2019-01-29T18:30:48+0000
+/project/pysoilmap/, pysoilmap, 0.1.0, Tools for performing Digital Soil Mapping (DSM) with python., 2021-04-15T14:43:32+0000
+/project/geograph/, geograph, 0.0.1, Group Team Challenge 2021 - Biodiversity Team, 2021-03-25T18:29:47+0000
+/project/twmaps/, twMaps, 0.1a0.dev-r720, Web map widgets, 2007-03-30T07:20:37+0000
+/project/zgeo-plone-geographer/, zgeo.plone.geographer, 0.1.1, Geographic annotation for Plone, 2008-09-04T15:00:07+0000
+/project/sphy/, SPHY, 2.2.1, Spatial Processes in HYdrology (SPHY) model, 2019-05-26T09:07:24+0000
+/project/beachfront/, beachfront, 0.2.5, library extracting coastline regions from raster data, 2018-05-29T03:33:31+0000
+/project/tilelite/, tilelite, 0.1.5, Lightweight WSGI tile-server, written in Python, using Mapnik rendering and designed to serve tiles in the OSM/Google scheme., 2011-03-19T00:12:17+0000
+/project/pyle38/, pyle38, 0.1.0, Async python client for Tile38, 2021-04-08T06:50:05+0000
+/project/pymapkit/, PyMapKit, 0.1.4, A Python based open-source mapping toolkit, 2020-09-06T21:22:29+0000
+/project/uk-postcode-utils/, uk-postcode-utils, 1.1, Functions for handling UK postcodes., 2020-07-15T12:28:49+0000
+/project/zgeo-plone-atom/, zgeo.plone.atom, 0.2, Plone specific Atom syndication with GeoRSS, 2008-09-12T05:22:46+0000
+/project/eclipsescraper/, eclipsescraper, 0.3, Python module for scraping NASA's eclipse site into usable CZML documents, 2015-03-10T18:31:18+0000
+/project/stems/, stems, 0.0.4, Spatio-temporal Tools for Earth Monitoring Science, 2019-08-06T21:19:22+0000
+/project/segy-lite/, segy-lite, 0.0.4, Lightweight SEGY Reading and Plotting Tool, 2020-06-14T01:50:36+0000
+/project/gmsdk/, gmsdk, 0.2.2, Python SDK for communicating Delhivery's - Warehouse Management System APIs for Order / Product / Supplier, 2015-04-07T07:10:31+0000
+/project/luo/, luo, 0.0.3, tools for luo, 2019-01-30T07:47:40+0000
+/project/pypath-fpa/, pypath-fpa, 0.2.9, Fast Pathfinding Algorithm, 2020-10-22T14:37:55+0000
+/project/gpx-converter/, gpx-converter, 1.7.3, Python package for manipulating gpx files and easily convert gpx to other different formats., 2020-12-27T13:00:12+0000
+/project/pysiss/, pysiss, 0.0.4, A pythonic interface to Spatial Information Services Stack (SISS) services, 2015-01-19T03:57:19+0000
+/project/pyproj/, pyproj, 3.0.1, Python interface to PROJ (cartographic projections and coordinate transformations library), 2021-03-05T03:17:13+0000
+/project/qgsgl/, qgsgl, 0.1.2, Convert QGIS project into webmapgl style, 2019-06-21T14:16:14+0000
+/project/epsg-constants/, epsg-constants, 10.11.0, Python constants with EPSG numbers for coordinate reference systems, based on EPSG dataset v10.011, 2021-04-08T23:31:27+0000
+/project/opusxml/, opusxml, 0.0.1, Python library to read and convert OPUSXML files, 2019-03-26T18:09:47+0000
+/project/cogdumper/, cogdumper, 1.1.0, , 2018-04-25T02:36:41+0000
+/project/imposm/, imposm, 2.6.0, OpenStreetMap importer for PostGIS., 2015-01-10T13:15:07+0000
+/project/python-cicero/, python-cicero, 0.1.0, Python wrapper for Azavea's Cicero API, 2014-01-22T18:43:23+0000
+/project/picogeojson/, picogeojson, 0.7.0, RFC-7946 compliant GeoJSON parser and emitter, 2018-08-04T03:41:41+0000
+/project/usig-normalizador-amba/, usig-normalizador-amba, 1.3.0, Normalizador de Direcciones AMBA, 2019-01-10T15:43:55+0000
+/project/django-raster/, django-raster, 0.8, Raster file implementation for Django based on PostGis, 2020-03-01T16:12:54+0000
+/project/itsim-scripts/, itsim-scripts, 0.5.0, Scripts for processing GTFS and Shape files for Itsim., 2020-07-15T14:39:31+0000
+/project/py-geohex3/, py-geohex3, 1.0.0, geohex v3.2 python implementation, 2017-04-17T03:06:05+0000
+/project/cropmask/, cropmask, 0.1, AI for Earth project to map center pivots and monitor crop water use., 2019-07-29T20:22:55+0000
+/project/latlon-utils/, latlon-utils, 0.0.5, Retrieve WorldClim climate and other information for lat-lon grid cells, 2019-11-13T22:16:59+0000
+/project/pyepsg/, pyepsg, 0.4.0, Easy access to the EPSG database via http://epsg.io/, 2018-11-26T10:28:17+0000
+/project/geojson/, geojson, 2.5.0, Python bindings and utilities for GeoJSON, 2019-08-09T20:32:15+0000
+/project/snimar-pycsw/, snimar-pycsw, 2.1.2, pycsw implementation for the SNIMar project, 2017-02-23T15:41:17+0000
+/project/geo58/, geo58, 1.0.0b1, Yet another short-link specification for geo-coordinates., 2019-10-02T21:03:27+0000
+/project/tapitas/, tapitas, 0.0.5, A data exploration and visualization algorithm for understanding diffusion process., 2018-10-22T15:10:13+0000
+/project/asciimap/, asciimap, 1.0.0, Print countries in ASCII Art based on Natural Earth shape files., 2019-07-20T17:06:36+0000
+/project/inequality/, inequality, 1.0.0, Spatial inequality analysis for PySAL A library of spatial analysis functions., 2018-10-31T22:24:17+0000
+/project/pyswath/, pyswath, 2.0.4, package that provide tools to extract swath profiles from a raster map, 2020-05-15T16:03:57+0000
+/project/autils/, Autils, 0.3.8, A hepler tools for kevin kong, 2020-04-25T13:15:20+0000
+/project/cartes/, cartes, 0.2, A generic toolbox for building maps in Python, 2021-04-04T21:34:38+0000
+/project/ogn-client/, ogn-client, 1.1.0, A python module for the Open Glider Network, 2021-04-06T07:05:38+0000
+/project/pygeodesy/, PyGeodesy, 21.4.21, Pure Python geodesy tools, 2021-04-18T17:51:51+0000
+/project/msjson/, msjson, 0.2.2, Converting UMN Mapserver mapscript objects from and to json, 2011-09-20T08:42:55+0000
+/project/rtc-tools/, rtc-tools, 2.4.2, Toolbox for control and optimization of water systems., 2020-09-21T08:21:55+0000
+/project/satellite-image/, satellite_image, 0.1.1, Simple API provides a class to process satellite images, 2018-03-02T23:43:55+0000
+/project/pdal/, PDAL, 2.3.7, Point cloud data processing, 2021-01-19T16:15:26+0000
+/project/latimes-pluggablemaps-usstates/, latimes-pluggablemaps-usstates, 0.1, L.A. Times Pluggable Maps: U.S. States, 2011-10-02T23:54:39+0000
+/project/bcdata/, bcdata, 0.4.5, Python tools for quick access to DataBC geo-data available via WFS, 2021-04-06T21:22:46+0000
+/project/geonode-ows-endpoints/, geonode-ows-endpoints, 0.2, GeoNode OWS listing. Exposes url which lists all OWS endpoints used by layers., 2017-09-13T15:49:37+0000
+/project/pyqtree/, Pyqtree, 1.0.0, A pure Python quad tree spatial index for GIS or rendering usage., 2018-09-14T06:09:23+0000
+/project/met4dream/, met4dream, 1.5, ROMS-Norkyst800m Metocean Data Extraction and Analysis, 2017-04-03T22:46:36+0000
+/project/expressgui/, expressgui, 1.0.1, ExpressVPN Gui, 2017-08-31T08:12:51+0000
+/project/stack-composed/, stack-composed, 18.11.29, Compute and generate the composed of a raster images stack, 2018-11-29T23:33:21+0000
+/project/guessproj/, guessproj, 0.5, Script for guessing parameters of cartographic projection, 2016-07-28T12:19:13+0000
+/project/asf-search/, asf-search, 0.4.0, Python wrapper for ASF's SearchAPI, 2021-04-16T02:42:32+0000
+/project/great-circle-calculator/, great-circle-calculator, 1.2.0, A collection of functions to calculate attributes of the great circle, 2021-03-04T17:44:38+0000
+/project/cogeotiff/, cogeotiff, 0.1.4, Cloud Optimized GeoTiff utility tools., 2019-03-27T14:11:59+0000
+/project/cometts/, CometTS, 1.2.0, Time series trend analysis tools for user defined polygons in any time series of overhead imagery, 2019-09-16T17:54:48+0000
+/project/zmapio/, zmapio, 0.6.0, Python library for reading and writing map gridded data using ZMAP Plus ASCII Grid format, 2020-06-23T10:02:56+0000
+/project/glabtop2-py/, GlabTop2-py, 2.0.2, GlabTop2 (Glacier bed Topography) model, 2021-01-01T22:02:27+0000
+/project/tidegravity/, tidegravity, 0.4.0b1, Tide gravitational correction based on I.M. Longman's Formulas for Computing the Tidal Accelerations Due to the Moon and the Sun, 2020-06-08T03:17:21+0000
+/project/kdn-sdk/, kdn-sdk, 0.2.1, KDN Python SDK, 2021-04-20T02:52:51+0000
+/project/pygeoprocessing/, pygeoprocessing, 2.1.2, PyGeoprocessing: Geoprocessing routines for GIS, 2020-12-04T00:53:58+0000
+/project/addok-sqlite-store/, addok-sqlite-store, 1.0.0, Store documents in Sqlite., 2017-04-18T14:36:20+0000
+/project/nx-spatial/, nx_spatial, 0.6dev, Additional GIS focused functions for networkx graphs., 2011-07-15T03:35:21+0000
+/project/georasters/, georasters, 0.5.23, Tools for working with Geographical Information System Rasters, 2021-02-22T14:55:56+0000
+/project/django-zillow-neighborhoods/, django-zillow-neighborhoods, 0.8.0, Django app for importing and querying Zillow's neighborhood data, 2013-08-06T17:13:58+0000
+/project/osmnx/, osmnx, 1.0.1, Retrieve, model, analyze, and visualize OpenStreetMap street networks and other spatial data, 2021-01-13T20:17:35+0000
+/project/esmvaltool-sample-data/, ESMValTool-sample-data, 0.0.3, ESMValTool sample data, 2021-02-10T10:58:07+0000
+/project/karta/, karta, 0.9.1, Geospatial analysis in Python, 2019-01-24T06:47:46+0000
+/project/spglm/, spglm, 1.0.8, sparse generalized linear models, 2020-09-08T20:47:44+0000
+/project/etlhelper/, etlhelper, 0.9.6, A Python library to simplify data transfer between databases., 2020-12-15T11:52:50+0000
+/project/geomark/, geomark, 0.1.1, Tools for manipulating Geomark datasets, 2017-12-27T21:42:05+0000
+/project/pyagg/, PyAgg, 0.3.0, Simple user-oriented graphics drawing and image manipulation., 2020-06-15T10:16:04+0000
+/project/glacier-length/, glacier-length, 1.1, extract centerline from glacier, 2019-11-13T02:40:45+0000
+/project/fgdb2postgis/, fgdb2postgis, 0.3.6, ESRI file geodatabase to PostGIS converter, 2020-05-12T08:33:38+0000
+/project/madrona/, madrona, 4.1, A software framework for effective place-based decision making, 2013-07-24T20:46:00+0000
+/project/example-pkg-eischaefer/, example-pkg-eischaefer, 0.0.12, A small example package, 2019-03-12T00:03:49+0000
+/project/landsat578/, Landsat578, 0.5.1, Very simple API to download Landsat data from Landsat 1 - 5, 7, and 8 from Google, 2018-09-11T23:41:38+0000
+/project/geolink-formatter/, geolink-formatter, 2.0.0, OEREBlex geoLink Formatter, 2021-04-12T06:16:54+0000
+/project/neighborhoods/, neighborhoods, 0.5, Lon/lat to Neighborhood for Humans, 2015-08-24T19:23:33+0000
+/project/museopheno/, museopheno, 0.1.1, Time series and spectral indices management for Remote Sensing Sensors, 2020-08-28T13:47:49+0000
+/project/lazperf/, lazperf, 1.5, Point cloud data compression, 2020-10-02T14:17:36+0000
+/project/rio-tiler-pds/, rio-tiler-pds, 0.5.0, Get mercator tile from cloud hosted dataset such as CBERS-4, Sentinel-2, Sentinel-1 and Landsat-8 AWS PDS, 2021-02-02T18:06:11+0000
+/project/spaghettini/, spaghettini, 0.0.7, A config manager that encourage people not to write spaghetti code, 2019-07-18T15:47:29+0000
+/project/qgis-plugin-ci/, qgis-plugin-ci, 1.8.4, Let QGIS-plugin-ci package and release your QGIS plugins for you. Have a tea or go hiking meanwhile., 2020-09-07T07:42:29+0000
+/project/radproc/, radproc, 0.1.4, Library for RADOLAN composite processing, analysis and data exchange with ArcGIS., 2019-01-14T15:48:50+0000
+/project/ukis-pysat/, ukis-pysat, 1.2.0, generic classes and functions to query, access and process multi-spectral and SAR satellite images, 2021-04-07T14:44:59+0000
+/project/quadtree/, Quadtree, 0.1.2, Quadtree spatial index for Python GIS, 2007-01-27T16:42:44+0000
+/project/podpac/, podpac, 2.2.1, Pipeline for Observational Data Processing, Analysis, and Collaboration, 2020-07-14T14:49:19+0000
+/project/gdal/, GDAL, 3.2.2, GDAL: Geospatial Data Abstraction Library, 2021-03-10T14:11:02+0000
+/project/fio-area/, fio-area, 0.1.0, Fiona CLI plugin to calculate areas, 2018-06-08T17:35:26+0000
+/project/tool-aws/, tool-aws, 0.2.2, AWS scripts for geoadmin, 2020-02-12T15:47:01+0000
+/project/porder/, porder, 0.8.1, Simple CLI for Planet Orders v2, 2021-03-29T01:53:21+0000
+/project/ssebop/, ssebop, 0.0.3, The Operational Simplified Surface Energy Balance, 2018-09-11T23:09:24+0000
+/project/pygdal/, pygdal, 3.2.2.7, Virtualenv and setuptools friendly version of standard GDAL python bindings, 2021-04-08T21:42:22+0000
+/project/gispython/, GISPython, 53.2, Additional tools for administering and automating different ArcPy and ArcGIS Server geoprocessing operations. Package is intended for use with ArcGIS 10.2.1 and later (has been tested on ArcGIS 10.3.1, ArcGIS 10.4, ArcGIS 10.5, ArcGIS 10.6.1), 2021-03-26T12:34:29+0000
+/project/geo-sampling/, geo-sampling, 0.0.9, Scripts for sampling Geo data sets by the specific region name, 2018-06-07T03:54:46+0000
+/project/daynight2geojson/, daynight2geojson, 0.1, Get day and night global geometry and dumps to a GeoJSON file. Builded on top of Matplotlib Basemap Toolkit Library., 2015-07-01T23:47:45+0000
+/project/pymodis/, pyModis, 2.2.0, Python library for MODIS data, 2020-11-19T13:20:19+0000
+/project/gntools/, gntools, 0.9.8, GEONIS toolset for the Geocom Python Framework (Esri ArcGIS)., 2020-01-17T12:54:54+0000
+/project/pygeoapi/, pygeoapi, 0.10.1, pygeoapi provides an API to geospatial data, 2021-03-18T16:22:00+0000
+/project/geopy/, geopy, 2.1.0, Python Geocoding Toolbox, 2020-12-27T13:12:21+0000
+/project/pyinfluxql/, pyinfluxql, 0.1.3, A query generator for the SQL dialect of the Influx Query Language (InfluxQL), 2021-02-14T15:24:48+0000
+/project/vtzero/, vtzero, 0.0.1b1, Python wrapper for vtzero C++ library., 2019-04-17T18:51:11+0000
+/project/keras-spatial/, keras-spatial, 1.0.7, Keras Data Generator class for remote spatial data., 2021-01-06T00:24:48+0000
+/project/geocoder/, geocoder, 1.38.1, Geocoder is a simple and consistent geocoding library., 2018-04-04T12:34:47+0000
+/project/itsim-project-creation-library/, itsim-project-creation-library, 0.3.0, Library for processing GTFS and Shape files for Itsim., 2020-07-15T14:36:26+0000
+/project/cogconverter/, cogconverter, 0.2.2, Utility to convert raster dataset to Cloud Optimized GeoTIFFs, 2019-06-12T06:39:21+0000
+/project/centerline/, centerline, 0.6.3, Calculate the centerline of a polygon, 2020-01-02T14:28:41+0000
+/project/gottengeography/, GottenGeography, 1.1, Automagically geotag photos with GPX data., 2012-05-07T06:02:37+0000
+/project/collective-geo-kml/, collective.geo.kml, 3.3, Kml view for collective.geo, 2016-10-24T06:25:51+0000
+/project/ogrtools/, ogrtools, 0.7.3, Collection of libraries and tools built with the Python API of OGR., 2016-03-21T16:22:52+0000
+/project/de9im/, de9im, 0.1, Dimensionally  Extended 9-Intersections Matrix utilities, 2010-03-31T11:27:15+0000
+/project/netcdf/, netcdf, 0.2.1, A python library that allow to use one or multiple NetCDF files in a transparent way through polimorphic methods., 2015-12-06T22:35:13+0000
+/project/polar2grid/, polar2grid, 2.4.1, Library and scripts to remap satellite data to a grid, 2021-01-19T15:58:21+0000
+/project/gatilegrid/, gatilegrid, 0.2.0, Popular tile grids and grids API for web mapping applications, 2020-09-03T10:13:08+0000
+/project/gmalthgtparser/, gmalthgtparser, 1.1.0, Parse HGT files, 2017-06-04T17:32:13+0000
+/project/orangery/, orangery, 0.4.3, Python library to support analysis of topographic cross-sections, 2019-03-26T17:50:19+0000
+/project/django-neighborhoods/, django-neighborhoods, 2.0.1, Get neighborhood information for your coordinates., 2014-02-14T23:13:44+0000
+/project/itertable/, itertable, 2.0.0, Iterable API for tabular datasets including CSV, XLS, XML, & JSON., 2019-12-06T01:50:32+0000
+/project/convertbng/, convertbng, 0.6.25, Fast lon, lat to and from ETRS89 and BNG (OSGB36) using the OS OSTN15 transform via Rust FFI, 2020-09-22T14:10:44+0000
+/project/circ/, circ, 0.0.1, A basic CLI to make mosaic vrts using ctx imagery, 2018-01-18T00:19:08+0000
+/project/giddy/, giddy, 2.3.3, GIDDY: GeospatIal Distribution DYnamics, 2020-06-10T04:59:42+0000
+/project/sentinel-s3/, sentinel-s3, 0.8.0, Python libraries for extracting Sentinel-2's metadata from Amazon S3, 2017-02-07T17:46:46+0000
+/project/data-xray/, data_xray, 0.4.0.dev0, Pythonic cure for the hyperspectral morass, 2020-08-13T18:41:54+0000
+/project/osmxtract/, osmxtract, 0.0.1, Extract vector and raster data from OSM., 2018-06-12T19:24:52+0000
+/project/geojsplit/, geojsplit, 0.1.2, A python implementation of the npm package geojsplit. Used to split GeoJSON files into smaller pieces., 2019-10-06T04:17:22+0000
+/project/aether/, aether, 0.3.37, Welcome to the Aether Platform, 2019-02-13T19:59:24+0000
+/project/pygeoif/, pygeoif, 0.7, A basic implementation of the __geo_interface__, 2017-05-04T15:46:11+0000
+/project/toureditor/, toureditor, 1.3.1, Editor for GPX/CRP tour files and height profiles.
+
+Generates nicer output if matplotlib is installed., 2012-05-20T20:33:24+0000
+/project/dwdweather2/, dwdweather2, 0.14.0, Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany., 2020-07-03T12:51:14+0000
+/project/pygeoexif/, pygeoexif, 0.0.1, Simply get latitude and longitude from an image's EXIF data, 2015-09-02T17:54:33+0000
+/project/dhm-module-example/, dhm-module-example, 0.0.1, Example that plugs into dhm_module_base, 2020-05-19T12:11:25+0000
+/project/geoai-rasterio/, geoai-rasterio, 1.0.27, Fast and direct raster I/O for use with Numpy and SciPy, 2019-09-10T06:37:49+0000
+/project/mgrspy/, mgrspy, 0.3.1, Convert WGS84 coordinates to MGRS and back, 2020-01-13T22:04:21+0000
+/project/psy-reg/, psy-reg, 1.3.0, Psyplot plugin for visualizing and calculating regression plots, 2020-10-13T09:26:17+0000
+/project/rio-tiler-mvt/, rio-tiler-mvt, 0.0.1.dev2, A rio-tiler plugin to encode tile array to MVT, 2021-04-06T14:33:39+0000
+/project/pydrop/, pydrop, 0.0.6, Python Client for Digital Ocean Droplets, 2019-11-13T00:07:09+0000
+/project/regionmask/, regionmask, 0.6.2, plotting and creation of masks for spatial regions, 2021-01-24T18:16:57+0000
+/project/pygeojson/, pygeojson, 0.2.0, GeoJSON library for Python with types, 2020-05-31T19:04:07+0000
+/project/zgeo-geographer/, zgeo.geographer, 0.3.1, Geographic annotation for Zope, 2008-09-03T05:01:29+0000
+/project/ecohydrolib/, ecohydrolib, 1.29, Libraries and command-line scripts for performing ecohydrology data preparation workflows., 2015-07-02T21:34:27+0000
+/project/overpassify/, overpassify, 1.2.2, A tool to more easily develop queries of OpenStreetMap, 2018-07-07T08:14:59+0000
+/project/mapmatching/, mapmatching, 0.1.5, A map matching library, 2020-01-17T19:00:13+0000
+/project/pyterra/, pyTerra, 0.9, Terraserver Module for Python, 2012-03-11T03:32:49+0000
+/project/stitches-gis/, stitches-gis, 1.0.0, A task runner for GRASS GIS, 2019-05-10T18:59:10+0000
+/project/choropleth-gen/, choropleth-gen, 0.2, Choropleth generator for QGIS and other SLD able software., 2017-02-06T17:07:36+0000
+/project/greyhound/, greyhound, 0.0.2, Convenience API for interacting with Greyhound point cloud web services, 2016-06-20T16:56:02+0000
+/project/pypolyline/, pypolyline, 0.2.5, Fast Google Polyline encoding and decoding using Rust FFI, 2021-04-25T20:14:19+0000
+/project/wq-io/, wq.io, 1.1.0, Consistent iterable API for reading and writing to external datasets, 2018-06-12T19:16:38+0000
+/project/data-xray/, data_xray, 0.4.0.dev0, Pythonic cure for the hyperspectral morass, 2020-08-13T18:41:54+0000
+/project/osmxtract/, osmxtract, 0.0.1, Extract vector and raster data from OSM., 2018-06-12T19:24:52+0000
+/project/point-on-earth/, point-on-earth, 0.0.1, Generate a geo point on land., 2018-04-29T12:02:32+0000
+/project/pydataweaver/, pydataweaver, 1.0.0, Pydata Weaver, 2019-07-09T14:30:10+0000
+/project/pydggrid/, pydggrid, 0.0.16, Python wrapper for DGGRID, 2019-12-08T23:36:03+0000
+/project/django-portland-oregon-addresses/, django-portland-oregon-addresses, 1.0.1, Geocode as many addreses in Portland, OR as you would like., 2012-07-30T02:39:49+0000
+/project/aws-sat-api/, aws-sat-api, 2.0.2, , 2018-08-13T15:05:25+0000
+/project/worldmill/, WorldMill, 0.1, Access and transform geospatial feature data, 2007-11-16T22:51:32+0000
+/project/ept-python/, ept-python, 0.3, , 2019-09-17T19:46:33+0000
+/project/liblas/, libLAS, 1.8.1, LAS 1.0/1.1/1.2 LiDAR data format translation, 2016-08-23T21:29:14+0000
+/project/tilekiln/, tilekiln, 0.0.6, , 2021-01-14T23:29:27+0000
+/project/gn-gsimporter/, gn-gsimporter, 2.0.1, GeoNode GeoServer Importer Client, 2020-05-20T15:40:07+0000
+/project/psyplot-gui/, psyplot-gui, 1.3.0, Graphical user interface for the psyplot package, 2020-10-01T12:34:22+0000
+/project/inasafe-core/, inasafe-core, 4.4.0, Realistic natural hazard impact scenarios for better planning, preparedness and response activities., 2018-06-05T15:17:06+0000
+/project/hugin/, hugin, 0.2.2, HuginEO - Machine Learning for Earth Observation experimentation tool, 2019-12-17T19:16:14+0000
+/project/pankus/, pankus, 3.1.1, Spatial planning software, 2019-02-18T13:17:55+0000
+/project/natcap-opal/, natcap.opal, 1.1.0, Decision support tool for mitigating development impacts to ecosystem services, 2015-11-12T23:30:01+0000
+/project/amigocloud/, amigocloud, 1.2.5, Python client for the AmigoCloud REST API, 2020-11-12T19:21:35+0000
+/project/spreg/, spreg, 1.2.2, PySAL Spatial Econometrics Package, 2021-01-15T19:15:25+0000
+/project/mapfish-plugin-client/, mapfish.plugin.client, 0.2, Client plugin of the MapFish Framework., 2010-09-02T12:29:21+0000
+/project/postal/, postal, 1.1.9, Python bindings to libpostal for fast international address parsing/normalization, 2020-07-21T03:23:02+0000
+/project/collective-geo-mapwidget/, collective.geo.mapwidget, 3.1, collective.geo mapwidget, 2019-01-23T10:07:05+0000
+/project/pywps-json/, pywps-json, 4.2.9.8, PyWPS is an implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python., 2021-03-16T11:59:57+0000
+/project/maidenhead/, maidenhead, 1.6.0, Maidenhead Locator, Lat Lon coordinate convertor, 2021-02-10T03:40:48+0000
+/project/postgis/, postgis, 1.0.4, Pyscopg and asyncpg helpers to work with PostGIS., 2017-08-25T15:17:37+0000
+/project/geolib/, geolib, 1.0.7, A library for geohash encoding, decoding and associated functions, 2019-05-04T22:20:17+0000
+/project/surficial/, surficial, 0.0.2, Python library and CLI tools to support analysis of stream long-profiles, 2017-05-06T16:33:03+0000
+/project/pyquadkey2/, pyquadkey2, 0.2.0, Python implementation of geographical tiling using QuadKeys as proposed by Microsoft, 2019-11-08T08:17:23+0000
+/project/cw-tiler/, cw-tiler, 0.2.0, Get UTM tiles for SpaceNet Dataset or arbitrary GeoTiffs, 2018-12-11T22:20:44+0000
+/project/pygdal-chm/, pygdal-chm, 3.2.2.7, Virtualenv and setuptools friendly version of standard GDAL python bindings, 2021-03-30T19:02:07+0000
+/project/poolmanager/, poolmanager, 0.2.1, Simple pool manager, 2020-09-03T10:19:32+0000
+/project/gsrest/, gsrest, 0.2.1, GeoServer python REST API client, 2020-06-09T15:19:05+0000
+/project/arcrstats/, ArcRstats, 0.8.alpha, geostatistical functions linking ESRI ArcGIS to R statistics packages, 2006-05-06T05:38:43+0000
+/project/pycon/, pycon, 0.0.2, pycon is a Python dictionary that provides attribute-style access, 2018-09-26T18:41:27+0000
+/project/pymil/, pymil, 0.2.0, A basic Open-source Carte internationale du Monde au Millionième nomenclature encoder., 2017-08-15T02:12:30+0000
+/project/gee2drive/, gee2drive, 0.1.0, Google Earth Engine to Drive Export Manager, 2019-11-12T14:52:44+0000
+/project/rio-tiler-mosaic/, rio-tiler-mosaic, 0.0.1.dev5, A rio-tiler plugin to create mosaic tiles., 2020-07-27T18:41:50+0000
+/project/dhm-module-example/, dhm-module-example, 0.0.1, Example that plugs into dhm_module_base, 2020-05-19T12:11:25+0000
+/project/geoai-rasterio/, geoai-rasterio, 1.0.27, Fast and direct raster I/O for use with Numpy and SciPy, 2019-09-10T06:37:49+0000
+/project/mgrspy/, mgrspy, 0.3.1, Convert WGS84 coordinates to MGRS and back, 2020-01-13T22:04:21+0000
+/project/psy-reg/, psy-reg, 1.3.0, Psyplot plugin for visualizing and calculating regression plots, 2020-10-13T09:26:17+0000
+/project/rio-tiler-mvt/, rio-tiler-mvt, 0.0.1.dev2, A rio-tiler plugin to encode tile array to MVT, 2021-04-06T14:33:39+0000
+/project/pydrop/, pydrop, 0.0.6, Python Client for Digital Ocean Droplets, 2019-11-13T00:07:09+0000
+/project/regionmask/, regionmask, 0.6.2, plotting and creation of masks for spatial regions, 2021-01-24T18:16:57+0000
+/project/pygeojson/, pygeojson, 0.2.0, GeoJSON library for Python with types, 2020-05-31T19:04:07+0000
+/project/zgeo-geographer/, zgeo.geographer, 0.3.1, Geographic annotation for Zope, 2008-09-03T05:01:29+0000
+/project/ecohydrolib/, ecohydrolib, 1.29, Libraries and command-line scripts for performing ecohydrology data preparation workflows., 2015-07-02T21:34:27+0000
+/project/overpassify/, overpassify, 1.2.2, A tool to more easily develop queries of OpenStreetMap, 2018-07-07T08:14:59+0000
+/project/drapery/, drapery, 0.0.3, Python library and CLI tool to convert 2D geometries to 3D given an elevation source, 2019-03-26T19:32:18+0000
+/project/stac-tiler/, stac-tiler, 0.0rc2, A rio-tiler plugin to handle STAC items, 2020-06-05T04:39:34+0000
+/project/totalopenstation/, totalopenstation, 0.5.2, Download and export survey data from your total station, 2020-11-09T22:17:28+0000
+/project/sf-sdk/, sf-sdk, 1.0.1, Shunfeng Express Python SDK, 2020-10-20T06:57:12+0000
+/project/hikingmap/, hikingmap, 0.1.0, A script to calculate the minimum amount of pages needed to render one or more GPX tracks, 2020-10-30T12:55:42+0000
+/project/gsconfig/, gsconfig, 1.0.10, GeoServer REST Configuration, 2018-07-19T16:55:45+0000
+/project/keytree/, keytree, 1.1.0, KML utilities for the ElementTree API, 2020-04-26T19:33:46+0000
+/project/pyrasterframes/, pyrasterframes, 0.9.1, Access and process geospatial raster data in PySpark DataFrames, 2021-03-31T20:29:59+0000
+/project/fiona/, Fiona, 1.8.19, Fiona reads and writes spatial data files, 2021-04-07T21:56:49+0000
+/project/py-staticmaps/, py-staticmaps, 0.4.0, Create static map images (SVG, PNG) with markers, geodesic lines, ..., 2021-03-27T09:41:24+0000
+/project/bycycletripplanner/, byCycleTripPlanner, 0.4a0.dev-r1056, byCycle Trip Planner, 2008-09-22T21:41:38+0000
+/project/openlr/, openlr, 1.0.1, OpenLR Python Implementation, 2020-05-25T07:50:40+0000
+/project/collective-geo-geographer/, collective.geo.geographer, 2.1, Geographic annotation for Plone, 2016-10-26T06:16:52+0000
+/project/gsconfig-py3/, gsconfig-py3, 1.0.8, GeoServer REST Configuration, 2020-05-27T07:55:07+0000
+/project/gpxtools/, gpxtools, 0.2.1, Command line tools useful to manipulate GPX files., 2010-02-15T18:14:06+0000
+/project/linketurbidity/, linketurbidity, 0.0.6, A python library that simplify the access to the linketurbidity index., 2015-07-10T00:34:55+0000
+/project/wasdi/, wasdi, 0.6.2, The Wasdi Python library, 2021-03-10T18:01:59+0000
+/project/motuclient/, motuclient, 1.8.8, Extract and download gridded data through a python command line from Motu web server. Used in CMEMS context http://marine.copernicus.eu/, 2021-02-19T11:06:36+0000
+/project/zgeo-kml/, zgeo.kml, 0.4, Google Earth KML for Zope, 2008-09-12T03:54:40+0000
+/project/pyreproj/, pyreproj, 2.0.0, Python Reprojector, 2019-10-31T07:36:39+0000
+/project/czml/, czml, 0.3.3, Read and write CZML in Python, 2016-11-30T18:49:27+0000
+/project/addok-csv/, addok-csv, 1.0.1, Add CSV support to your Addok instance., 2017-05-12T16:08:19+0000
+/project/tzgeo/, tzgeo, 0.0.4, Get the timezone for a location, 2016-11-16T18:03:26+0000
+/project/pynamical/, pynamical, 0.3.1, Model, simulate, and visualize discrete nonlinear dynamical systems, 2021-01-01T16:09:08+0000
+/project/python-omgeo/, python-omgeo, 6.0.4, Geocoding Library using ESRI, Google, Bing Maps, US Census, OpenStreetMap, Pelias, and MapQuest geocoders, 2019-12-20T04:56:33+0000
+/project/pgsql2gist/, pgsql2gist, 0.3.0, Create maps using the Github Gist API as GeoJSON or TopoJSON, directly from PostGIS., 2014-01-18T22:46:07+0000
+/project/pysda/, pysda, 0.1.6, A suite for diffusion analysis algorithms., 2020-01-12T13:43:22+0000
+/project/elevation/, elevation, 1.1.3, Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM., 2021-04-08T10:07:47+0000
+/project/hypothesis-geojson/, hypothesis-geojson, 0.1, Hypothesis extension for testing with GeoJSON, 2017-06-22T15:25:15+0000
+/project/invar/, invar, 0.1.0, Scripts for generating images from Mapnik configuration and storing them on S3., 2015-03-31T15:20:47+0000
+/project/django-mapit/, django-mapit, 3.0, A web service for mapping postcodes and points to current or past administrative area information and polygons., 2020-11-23T09:35:04+0000
+/project/gwr/, gwr, 1.0.1, geographically weighted regression, 2018-05-04T16:59:08+0000
+/project/pvgeo/, PVGeo, 2.1.0, Geoscientific visualization tools for VTK and ParaView, 2019-10-27T23:10:49+0000
+/project/raster2xyz/, raster2xyz, 0.1.3, Alternative and faster (vectorized) version of gdal2xyz.py, 2017-03-13T02:40:20+0000
+/project/geologicaltoolbox/, GeologicalToolbox, 0.3.1b3, A python module for processing and storing geological data., 2021-02-24T13:30:14+0000
+/project/pgsql2gist/, pgsql2gist, 0.3.0, Create maps using the Github Gist API as GeoJSON or TopoJSON, directly from PostGIS., 2014-01-18T22:46:07+0000
+/project/pysda/, pysda, 0.1.6, A suite for diffusion analysis algorithms., 2020-01-12T13:43:22+0000
+/project/elevation/, elevation, 1.1.3, Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM., 2021-04-08T10:07:47+0000
+/project/etl2osm/, etl2osm, 0.2.0, Extract, Transform and Load to OpenStreetMap., 2016-09-09T13:25:29+0000
+/project/pyspatial/, pyspatial, 0.2.4, Data structures for working with (geo)spatial data, 2017-09-10T21:06:16+0000
+/project/esmvaltool/, ESMValTool, 2.2.0, ESMValTool: A community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP., 2021-02-25T14:21:26+0000
+/project/sridentify/, sridentify, 0.8.0, Identify the EPSG code from a .prj file, 2019-04-27T19:32:20+0000
+/project/pobatch/, pobatch, 0.0.8, porder wrapper for Ordersv2 Batch Client, 2019-11-11T01:39:28+0000
+/project/geogrids/, geogrids, 1.1.0, A Python implementation of the npm geogrids library - utilities for working with Global Discrete Geodetic Grids (GDGGs), 2019-04-21T08:25:41+0000
+/project/stac-validator/, stac-validator, 1.0.1, A package to validate STAC files, 2020-09-03T17:29:29+0000
+/project/geoformat/, geoformat, 20210423, Geoformat is a GDAL/OGR library overlayer, 2021-04-23T14:14:11+0000
+/project/simplification/, simplification, 0.5.12, Fast linestring simplification using RDP or Visvalingam-Whyatt and a Rust binary, 2021-02-09T09:03:20+0000
+/project/gtfspy/, gtfspy, 0.0.4, Python package for analyzing public transport timetables, 2017-12-05T08:54:19+0000
+/project/robosat-pink/, RoboSat.pink, 0.0.2, Computer Vision framework for GeoSpatial Imagery, 2020-02-23T15:47:24+0000
+/project/alipay-sdk/, alipay-sdk, 0.0.1, AliPay Python SDK, 2019-11-07T03:03:24+0000
+/project/strix/, strix, 0.7.3, A Python Package for field-based GIS work, 2020-05-19T03:40:48+0000
+/project/rtc-tools-water-allocation/, rtc-tools-water-allocation, 0.0.1, Water allocation models for RTC-Tools 2., 2019-01-17T20:15:45+0000
+/project/australian-ntv2-grid-conversion/, australian_ntv2_grid_conversion, 1.1.5, Converts between Australian coordinate systems AGD66/AGD84 and GDA94 using ntv2 grid files, 2015-09-18T00:18:14+0000
+/project/psy-maps/, psy-maps, 1.3.2, Psyplot plugin for visualization on a map, 2020-11-12T04:51:22+0000
+/project/pigps/, PiGPS, 0.1.1, GPS library for consuming location data from serial interface, 2017-09-07T13:40:42+0000
+/project/ukis-csmask/, ukis-csmask, 0.1.2, masks clouds and cloud shadows in Sentinel-2, Landsat-8, Landsat-7 and Landsat-5 images, 2021-01-21T11:53:14+0000
+/project/osgb/, osgb, 1.0.0, osgb - high-precision geographic coordinate conversion for Great Britain, based on Ordnance Survey data, 2018-06-10T16:40:51+0000
+/project/lc8-download/, lc8_download, 0.3.0, Library to download Landsat imagery from AWS or Google
+      Earth Engine servers, 2016-02-17T19:01:33+0000
+/project/osgeo-manager/, osgeo-manager, 0.2.0, Cartoview is a GIS web mapping application framework to     easily share and deploy apps based on Geonode, 2018-12-07T02:40:18+0000
+/project/salem/, salem, 0.3.4, Geoscientific data I/O and map projections, 2021-03-24T22:47:14+0000
+/project/geodata/, geodata, 1.7.1, Provide a place lookup gazeteer based on files from geonames.org, 2020-04-12T04:14:49+0000
+/project/hm-render-mapnik/, hm-render-mapnik, 0.0.2, Render a map for a given area to paper using mapnik, 2019-10-24T19:43:05+0000
+/project/shapely-geojson/, shapely-geojson, 0.0.1, Feature and FeatureCollection for Shapely., 2018-02-24T18:56:28+0000
+/project/asarapi/, asarapi, 0.6, Search and download ERS-1, ERS-2, and Envisat products., 2018-11-17T19:26:36+0000
+/project/collective-geo-exif/, collective.geo.exif, 0.1, Geoannotate Images with EXIF information, 2013-08-30T09:50:24+0000
+/project/mapnik/, mapnik, 0.1, Python bindings for Mapnik, 2015-05-04T21:12:42+0000
+/project/aliquoter/, aliquoter, 0.0.1, Aliquot Mogrifier, 2013-01-07T22:45:33+0000
+/project/pygohome/, pygohome, 0.2.1, A 100% personal route optimizer in a known environment based on experience., 2020-12-24T14:28:00+0000
+/project/cuuats-datamodel/, cuuats.datamodel, 0.2.0, A lightweight data access layer for ArcGIS, 2018-06-07T14:27:56+0000
+/project/maxarcat/, maxarcat, 0.9.3, Maxar Catalog Python client, 2020-11-25T00:34:41+0000
+/project/goescalibration/, goescalibration, 0.0.11, A python library that allow to calibrate netcdf images of the NOAA CLASS (Comprehensive Large Array-Data Stewardship System)., 2016-01-09T01:17:22+0000
+/project/transport-co2/, transport-co2, 0.3.0, Calculate CO2 emissions for personal mobility., 2020-05-20T08:32:50+0000
+/project/rios-preprocessor/, rios_preprocessor, 0.2.3, Preprocessor for the Natural Capital Project's RIOS software package, 2019-10-17T13:20:56+0000
+/project/osm-clipper/, osm-clipper, 0.1.0, Small python tool to clip pre-defined areas from the planet osm file., 2020-07-20T15:00:53+0000
+/project/libpysal/, libpysal, 4.4.0, Core components of PySAL A library of spatial analysis functions., 2021-01-31T21:05:27+0000
+/project/django-brasil-municipios/, django-brasil-municipios, 0.6, A GeoDjango app with all Brazilian municipalities and their geographical polygons, with data downloaded from the IBGE (Brazilian Institute of Geography and Statistics) website., 2017-03-19T04:09:44+0000
+/project/solar-radiation-model/, solar_radiation_model, 0.0.20, A python script that estimates the solar radiation at the soil level., 2015-12-07T18:14:29+0000
+/project/psycopg-postgis/, psycopg-postgis, 0.4.0, Deprecated. Use postgis package instead., 2017-06-23T16:29:14+0000
+/project/rio-color/, rio-color, 1.0.2, Color correction plugin for rasterio, 2021-01-19T17:19:28+0000
+/project/geosoup/, geosoup, 0.1.78, Geospatial data manipulation using GDAL in python, 2021-01-07T12:13:26+0000
+/project/arcticdem/, arcticdem, 0.2.0, ArcticDEM Batch Download & Processing Tools, 2020-08-13T06:25:58+0000
+/project/gomezengine/, GomezEngine, 0.3, The GomezErzEngine, 2019-03-10T23:29:10+0000
+/project/fab-geoalchemy/, fab-geoalchemy, 0.1.6, Plugin to implement Geoalchemy fields in Flask Appbuilder, 2018-09-30T11:14:38+0000
+/project/addok-fr/, addok-fr, 1.0.1, Add French specific string processors., 2017-06-14T10:43:08+0000
+/project/geojsplit/, geojsplit, 0.1.2, A python implementation of the npm package geojsplit. Used to split GeoJSON files into smaller pieces., 2019-10-06T04:17:22+0000
+/project/aether/, aether, 0.3.37, Welcome to the Aether Platform, 2019-02-13T19:59:24+0000
+/project/pygeoif/, pygeoif, 0.7, A basic implementation of the __geo_interface__, 2017-05-04T15:46:11+0000
+/project/toureditor/, toureditor, 1.3.1, Editor for GPX/CRP tour files and height profiles.
+
+Generates nicer output if matplotlib is installed., 2012-05-20T20:33:24+0000
+/project/gsconfig/, gsconfig, 1.0.10, GeoServer REST Configuration, 2018-07-19T16:55:45+0000
+/project/keytree/, keytree, 1.1.0, KML utilities for the ElementTree API, 2020-04-26T19:33:46+0000
+/project/pyrasterframes/, pyrasterframes, 0.9.1, Access and process geospatial raster data in PySpark DataFrames, 2021-03-31T20:29:59+0000
+/project/spart-python/, SPART-python, 1.0.9, Python implementation of the SPART optical radiative transfer model., 2020-09-04T18:07:32+0000
+/project/osmapi/, osmapi, 1.3.0, Python wrapper for the OSM API, 2020-10-04T23:04:05+0000
+/project/emissionsapi-worldmap-creator/, emissionsapi-worldmap-creator, 0.3, Emissions API's World Map image creator, 2021-01-04T20:03:57+0000
+/project/mapscript/, mapscript, 7.6.0, MapServer Python MapScript bindings, 2020-06-17T10:55:58+0000
+/project/rioxarray/, rioxarray, 0.3.1, rasterio xarray extension., 2021-03-01T16:06:58+0000
+/project/girs/, girs, 0.1.2, gdal/ogr wrapper, 2019-01-31T15:37:20+0000
+/project/tigernet/, tigernet, 0.2.3, Network Topology via TIGER/Line Edges, 2021-01-23T01:17:22+0000
+/project/redis-websocket-api/, redis-websocket-api, 0.2.1, Redis-over-WebSocket API on top of websockets and aioredis, 2019-12-05T11:17:52+0000
+/project/pymap3d/, pymap3d, 2.6.1, pure Python (no prereqs) coordinate conversions, following convention of several popular Matlab routines., 2021-04-13T05:30:34+0000
+/project/bng-latlon/, bng-latlon, 1.0.2, Converts british national grid (OSBG36) to lat lon (WGS84) and vice versa., 2020-11-12T14:20:08+0000
+/project/pymaps/, pymaps, 0.1.0, Make beautiful maps with Google Maps JS API and Python, 2018-02-27T20:04:17+0000
+/project/download-water-data/, download-water-data, 0.4.0, Downloader for the Global Surface Water Data of the Copernicus Programme, 2021-04-19T11:28:52+0000
+/project/mapboxgl/, mapboxgl, 0.10.2, MapboxGL plugin for Jupyter Notebooks, 2019-06-02T15:18:57+0000
+/project/hypothesis-geojson/, hypothesis-geojson, 0.1, Hypothesis extension for testing with GeoJSON, 2017-06-22T15:25:15+0000
+/project/invar/, invar, 0.1.0, Scripts for generating images from Mapnik configuration and storing them on S3., 2015-03-31T15:20:47+0000
+/project/django-mapit/, django-mapit, 3.0, A web service for mapping postcodes and points to current or past administrative area information and polygons., 2020-11-23T09:35:04+0000
+/project/gwr/, gwr, 1.0.1, geographically weighted regression, 2018-05-04T16:59:08+0000
+/project/rtc-tools-hydraulic-structures/, rtc-tools-hydraulic-structures, 2.0.0a12, Hydraulic structures models for RTC-Tools 2., 2020-09-18T13:08:03+0000
+/project/geosnap/, geosnap, 0.6.0, Geospatial Neighborhood Analysis Package, 2021-03-23T22:24:42+0000
+/project/gdal2mbt/, gdal2mbt, 0.4.1, Create MBTiles from GDAL files., 2014-12-10T23:22:49+0000
+/project/jd/, jd, 0.0.1, JD Python SDK, 2019-06-27T09:16:22+0000
+/project/django-munigeo-turku/, django-munigeo-turku, 0.3.6, A Django app for processing municipality-related geospatial data., 2021-03-11T08:05:15+0000
+/project/stestdata/, stestdata, 0.1.0, Variety of remote sensing data for testing, 2016-06-10T20:26:10+0000
+/project/rio-cogeo/, rio-cogeo, 2.1.4, Cloud Optimized GeoTIFF (COGEO) creation plugin for rasterio, 2021-03-31T15:07:24+0000
+/project/karta/, karta, 0.9.1, Geospatial analysis in Python, 2019-01-24T06:47:46+0000
+/project/spglm/, spglm, 1.0.8, sparse generalized linear models, 2020-09-08T20:47:44+0000
+/project/etlhelper/, etlhelper, 0.9.6, A Python library to simplify data transfer between databases., 2020-12-15T11:52:50+0000
+/project/geomark/, geomark, 0.1.1, Tools for manipulating Geomark datasets, 2017-12-27T21:42:05+0000
+/project/pyagg/, PyAgg, 0.3.0, Simple user-oriented graphics drawing and image manipulation., 2020-06-15T10:16:04+0000
+/project/glacier-length/, glacier-length, 1.1, extract centerline from glacier, 2019-11-13T02:40:45+0000
+/project/fgdb2postgis/, fgdb2postgis, 0.3.6, ESRI file geodatabase to PostGIS converter, 2020-05-12T08:33:38+0000
+/project/madrona/, madrona, 4.1, A software framework for effective place-based decision making, 2013-07-24T20:46:00+0000
+/project/example-pkg-eischaefer/, example-pkg-eischaefer, 0.0.12, A small example package, 2019-03-12T00:03:49+0000
+/project/landsat578/, Landsat578, 0.5.1, Very simple API to download Landsat data from Landsat 1 - 5, 7, and 8 from Google, 2018-09-11T23:41:38+0000
+/project/geolink-formatter/, geolink-formatter, 2.0.0, OEREBlex geoLink Formatter, 2021-04-12T06:16:54+0000
+/project/neighborhoods/, neighborhoods, 0.5, Lon/lat to Neighborhood for Humans, 2015-08-24T19:23:33+0000
+/project/museopheno/, museopheno, 0.1.1, Time series and spectral indices management for Remote Sensing Sensors, 2020-08-28T13:47:49+0000
+/project/lazperf/, lazperf, 1.5, Point cloud data compression, 2020-10-02T14:17:36+0000
+/project/rio-tiler-pds/, rio-tiler-pds, 0.5.0, Get mercator tile from cloud hosted dataset such as CBERS-4, Sentinel-2, Sentinel-1 and Landsat-8 AWS PDS, 2021-02-02T18:06:11+0000
+/project/spaghettini/, spaghettini, 0.0.7, A config manager that encourage people not to write spaghetti code, 2019-07-18T15:47:29+0000
+/project/qgis-plugin-ci/, qgis-plugin-ci, 1.8.4, Let QGIS-plugin-ci package and release your QGIS plugins for you. Have a tea or go hiking meanwhile., 2020-09-07T07:42:29+0000
+/project/zenpi/, zenpi, 0.0.1, Simple Zenodo API Client Implementation, 2020-03-04T05:19:11+0000
+/project/radproc/, radproc, 0.1.4, Library for RADOLAN composite processing, analysis and data exchange with ArcGIS., 2019-01-14T15:48:50+0000
+/project/pydem/, pyDEM, 0.2.0, Software for calculating Topographic Wetness Index (TWI), 2017-07-26T15:42:31+0000
+/project/hyo-bag/, hyo.bag, 0.5.7, A package to manage Bathymetric Attributed Grid (BAG) data files., 2018-06-21T12:20:32+0000
+/project/morecantile/, morecantile, 2.1.0, Construct and use map tile grids (a.k.a TileMatrixSet / TMS)., 2020-12-16T23:13:09+0000
+/project/s2reader/, s2reader, 0.5, simple metadata reader for Sentinel-2 SAFE files, 2017-10-05T08:57:44+0000
+/project/mapboxutil/, mapboxutil, 1.0.0, Module with utility functions to generate static choropleth maps with Mapbox, 2021-03-30T08:51:55+0000
+/project/geomatics/, geomatics, 0.12, Tools for extracting time series from n-dimensional arrays in many formats and file format conversions, 2020-08-21T21:41:25+0000
+/project/geeadd/, geeadd, 0.5.4, Google Earth Engine Batch Assets Manager with Addons, 2021-03-15T03:58:29+0000
+/project/carst/, carst, 2.0.0a1, Cryoshpere And Remote Sensing Toolkit, 2021-03-10T01:43:46+0000
+/project/geoparquet/, geoparquet, 0.0.3, GeoPandas API for Parquet file format., 2019-10-11T23:51:52+0000
+/project/rio-cloudmask/, rio-cloudmask, 0.3.0, Cloud masking plugin for rasterio, 2017-06-26T16:06:59+0000
+/project/geospatial-learn/, geospatial-learn, 0.129, geospatial-learn is a Python module for using scikit-learn andxgb models with geo-spatial data, chiefly raster and vectorformats., 2017-12-11T12:06:15+0000
+/project/eodag-cube/, eodag-cube, 0.1.1, Data access for EODAG, 2021-01-15T14:54:47+0000
+/project/quantized-mesh-encoder/, quantized-mesh-encoder, 0.3.1, A fast Python Quantized Mesh encoder, 2020-10-19T16:07:34+0000
+/project/pyimpute/, pyimpute, 0.2, Utilities for applying scikit-learn to spatial datasets, 2020-11-01T14:55:18+0000
+/project/numgeo/, numgeo, 0.0.1a0, A geospatial package to support skeletonization, 2019-03-20T09:07:52+0000
+/project/stratify/, stratify, 0.1.1, Vectorized interpolators that are especially useful for Nd vertical interpolation/stratification of atmospheric and oceanographic datasets, 2019-09-11T16:17:36+0000
+/project/momepy/, momepy, 0.4.3, Urban Morphology Measuring Toolkit, 2021-02-16T22:00:00+0000
+/project/radiometric-normalization/, radiometric_normalization, 0.1.175, Radiometric Normalization, 2018-03-23T17:26:10+0000
+/project/psy-simple/, psy-simple, 1.3.1, Psyplot plugin for simple visualization tasks, 2020-10-29T13:48:15+0000
+/project/pystac-client/, pystac-client, 0.1.1, Python library for working with Spatiotemporal Asset Catalog (STAC)., 2021-04-17T00:00:05+0000
+/project/noaadem/, noaadem, 0.0.16, A python library that simplify the access to the NOAA digitalelevation map., 2015-07-10T02:41:04+0000
+/project/fiona/, Fiona, 1.8.19, Fiona reads and writes spatial data files, 2021-04-07T21:56:49+0000
+/project/py-staticmaps/, py-staticmaps, 0.4.0, Create static map images (SVG, PNG) with markers, geodesic lines, ..., 2021-03-27T09:41:24+0000
+/project/bycycletripplanner/, byCycleTripPlanner, 0.4a0.dev-r1056, byCycle Trip Planner, 2008-09-22T21:41:38+0000
+/project/openlr/, openlr, 1.0.1, OpenLR Python Implementation, 2020-05-25T07:50:40+0000
+/project/collective-geo-geographer/, collective.geo.geographer, 2.1, Geographic annotation for Plone, 2016-10-26T06:16:52+0000
+/project/gsconfig-py3/, gsconfig-py3, 1.0.8, GeoServer REST Configuration, 2020-05-27T07:55:07+0000
+/project/gpxtools/, gpxtools, 0.2.1, Command line tools useful to manipulate GPX files., 2010-02-15T18:14:06+0000
+/project/linketurbidity/, linketurbidity, 0.0.6, A python library that simplify the access to the linketurbidity index., 2015-07-10T00:34:55+0000
+/project/wasdi/, wasdi, 0.6.2, The Wasdi Python library, 2021-03-10T18:01:59+0000
+/project/motuclient/, motuclient, 1.8.8, Extract and download gridded data through a python command line from Motu web server. Used in CMEMS context http://marine.copernicus.eu/, 2021-02-19T11:06:36+0000
+/project/zgeo-kml/, zgeo.kml, 0.4, Google Earth KML for Zope, 2008-09-12T03:54:40+0000
+/project/pyreproj/, pyreproj, 2.0.0, Python Reprojector, 2019-10-31T07:36:39+0000
+/project/czml/, czml, 0.3.3, Read and write CZML in Python, 2016-11-30T18:49:27+0000
+/project/addok-csv/, addok-csv, 1.0.1, Add CSV support to your Addok instance., 2017-05-12T16:08:19+0000
+/project/tzgeo/, tzgeo, 0.0.4, Get the timezone for a location, 2016-11-16T18:03:26+0000
+/project/pynamical/, pynamical, 0.3.1, Model, simulate, and visualize discrete nonlinear dynamical systems, 2021-01-01T16:09:08+0000
+/project/python-omgeo/, python-omgeo, 6.0.4, Geocoding Library using ESRI, Google, Bing Maps, US Census, OpenStreetMap, Pelias, and MapQuest geocoders, 2019-12-20T04:56:33+0000
+/project/c2cciutils/, c2cciutils, 1.0, Common utilities for Camptocamp CI, 2021-03-08T09:22:02+0000

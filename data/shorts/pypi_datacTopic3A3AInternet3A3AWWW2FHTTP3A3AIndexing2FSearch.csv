@@ -1,0 +1,726 @@
+/project/spyda/, spyda, 0.0.2, Spyda - Python Spider Tool and Library, 2013-11-19T04:46:32+0000
+/project/maybedont/, MaybeDont, 0.1.1, A component that tried to avoid downloading duplicate content, 2018-02-05T10:16:54+0000
+/project/dosie/, Dosie, 0.0.3, A search engine that makes knowledge a resource, and creates liberation with information sharing, 2019-03-11T13:22:59+0000
+/project/django-admin-visualsearch/, django-admin-visualsearch, 1.2, Visualsearch.js for Django admin, 2013-08-20T19:49:47+0000
+/project/uclacatalog/, uclacatalog, 1.1.0, A Python library to retrieve course and section information from the UCLA Registrar, 2020-07-29T22:56:01+0000
+/project/pyexifinfo-ivc/, pyexifinfo-ivc, 0.4.2, Simple Metadata extraction using Exiftool, 2019-08-06T15:07:27+0000
+/project/fanyi/, fanyi, 0.1, Simple command line translator, supports translation between Chinese and English., 2014-08-07T06:05:17+0000
+/project/thepiratebay/, ThePirateBay, 1.3.0, Unofficial Python API for ThePirateBay., 2013-12-18T22:26:51+0000
+/project/ebpub/, ebpub, 1.2, Core models and views for OpenBlock (hyperlocal news for Django), 2012-05-24T17:24:17+0000
+/project/epguide/, epguide, 1.0, Python Electronic TV Guide Downloader and XMLTV exporter, 2009-10-03T18:28:02+0000
+/project/snowballstemmer/, snowballstemmer, 2.1.0, This package provides 29 stemmers for 28 languages generated from Snowball algorithms., 2021-01-21T11:43:00+0000
+/project/pycloner/, pycloner, 0.1.0, pycloner is a package that tries to help in the process of manually crawling a website., 2017-07-04T13:30:24+0000
+/project/mapsnap/, mapsnap, 1.0.1, Apple Maps Web Snapshots on Python, 2020-09-08T01:08:56+0000
+/project/earthreader-web/, EarthReader-Web, 0.3.0, Earth Reader for Web, 2015-02-24T07:46:49+0000
+/project/raspstat/, Raspstat, 0.1.1, Python wrapper to get system stats in linux, 2014-10-22T22:21:21+0000
+/project/chilescrapper/, chilescrapper, 0.1.2, Compact scraping library for the major newspapers of Chile, 2020-07-18T20:42:30+0000
+/project/filmaster/, filmaster, 0.0.7, Discord bot that scours TMDB for film info, 2020-02-16T22:58:19+0000
+/project/deepify/, deepify, 0.3.2, Deepify - A set of GPLv3+ libraries to deal with Deepweb connections., 2016-03-17T07:30:45+0000
+/project/repoze-catalog/, repoze.catalog, 0.9.0, Searching and indexing based on zope.index, 2019-03-07T14:54:52+0000
+/project/streamlit-jina/, streamlit-jina, 0.1.8, Streamlit component for Jina neural search, 2021-02-16T15:13:55+0000
+/project/pa-scraper/, pa-scraper, 0.2.4, Python wrapper for Prompt API's Scraper API, 2020-10-06T04:44:38+0000
+/project/django-webmention/, django-webmention, 2.0.2, A pluggable implementation of webmention for Django projects, 2021-02-14T18:09:28+0000
+/project/zagoload/, zagoload, 0.5.1, Download files(http,ftp). Supports: cache, uniform access to remote and local files, 2016-10-22T19:56:29+0000
+/project/pyelasticsearch/, pyelasticsearch, 1.4.1, Flexible, high-scale API to elasticsearch, 2018-04-02T16:58:32+0000
+/project/nik/, nik, 0.1.0, A simplistic, versatile companion to browse, navigate and visualize your text-based Zettelkasten., 2020-05-28T10:34:31+0000
+/project/sunburnt/, sunburnt, 0.6, Python interface to Solr, 2012-01-01T16:33:14+0000
+/project/py3solr/, py3Solr, 0.1.0, Python3 client for Apache Solr, 2019-10-28T07:00:45+0000
+/project/archivebox/, archivebox, 0.6.2, The self-hosted internet archive., 2021-04-13T08:04:21+0000
+/project/duckduckpy/, duckduckpy, 0.2, Library for querying the instant answer API of DuckDuckGo search engine., 2016-11-21T11:38:43+0000
+/project/elasticmagic-qf-attrs/, elasticmagic-qf-attrs, 0.1.1, , 2020-04-22T11:44:52+0000
+/project/zicbee/, zicbee, 0.8, A simple & powerful distributed Music database engine, 2009-05-05T17:36:07+0000
+/project/pyskyscanner/, pySkyscanner, 1.0.1, A basic wrapper for the Python Realtime Flight Price API, 2017-11-12T10:19:12+0000
+/project/vectorai/, vectorai, 0.2.5, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-01-22T15:55:16+0000
+/project/hypatia/, hypatia, 0.3, Python package for searching and indexing, 2014-06-13T03:56:48+0000
+/project/graphique/, graphique, 0.3, GraphQL service for arrow tables and parquet data sets., 2021-02-01T00:18:01+0000
+/project/django-el/, django-el, 0.2.2, Django elasticsearch integration., 2015-11-18T17:04:08+0000
+/project/django-easy-seo/, django-easy-seo, 0.4.8, Adds generic SEO fields for objects in your site, 2019-03-25T05:50:30+0000
+/project/ddgr/, ddgr, 1.9, DuckDuckGo from the terminal, 2020-07-26T00:05:34+0000
+/project/solrapi/, SolrAPI, 1.2.0, Python implementation of the main operation in the Solr API Rest, 2017-08-25T14:28:13+0000
+/project/text-sentence/, text-sentence, 0.14, text-sentence is text tokenizer and sentence splitter, 2010-06-21T13:18:19+0000
+/project/kueventparser/, kueventparser, 3.0.1, event parser of kyoto-univ., 2019-07-26T12:50:16+0000
+/project/tantipy/, tantipy, 0.1.2, , 2021-01-03T20:45:53+0000
+/project/bwf/, bwf, 0.0.1, Bing Website Finder (bwf) adds websites to a list of company names from the commandline., 2019-02-12T20:20:14+0000
+/project/score-es/, score.es, 0.3.0, ElasticSearch integration for The SCORE Framework, 2018-04-04T14:19:35+0000
+/project/chemdataextractor/, ChemDataExtractor, 1.3.0, A toolkit for extracting chemical information from the scientific literature., 2017-02-03T00:12:04+0000
+/project/swiftea-crawler/, swiftea-crawler, 1.1.3, Swiftea's Open Source Web Crawler, 2019-08-13T18:28:37+0000
+/project/nboost/, nboost, 0.3.9, Nboost is a scalable, search-api-boosting platform for developing and deploying automated SOTA models more relevant search results., 2020-06-12T20:05:15+0000
+/project/score-es6/, score.es6, 0.0.3, ElasticSearch integration for The SCORE Framework, 2018-07-26T15:03:33+0000
+/project/buku/, buku, 4.5, Bookmark manager like a text-based mini-web., 2020-12-29T23:00:17+0000
+/project/sitesearcher/, sitesearcher, 0.1a2, A command line tool that creates fulltext search indexes of your favourite websites on your machine, and allows you to search them locally, 2016-09-05T21:31:07+0000
+/project/textpipe-pattern/, textpipe-pattern, 3.6.1, Web mining module for Python., 2019-03-27T12:16:53+0000
+/project/ddg3/, ddg3, 0.6.6, Library for querying the Duck Duck Go API, updated for python3, 2017-08-24T13:26:40+0000
+/project/neural-search/, neural-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:28:02+0000
+/project/mangadl/, MangaDL, 0.2a1, A general purpose Manga scraping utility, 2015-07-01T12:49:21+0000
+/project/jina-search/, jina-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:35:25+0000
+/project/reader/, reader, 1.16, A minimal feed reader library., 2021-03-29T08:47:01+0000
+/project/imagesoup/, imagesoup, 0.1.0, A Python library designed for quick search and downloading images., 2017-09-11T17:28:22+0000
+/project/proxy-middleware/, proxy-middleware, 0.2.0, Scrapy http proxy middleware that gets proxy parameters from settings, 2017-05-29T16:15:41+0000
+/project/allmusic/, allmusic, 0.0.1, AllMusic review scraper, 2018-10-19T17:33:14+0000
+/project/pypygo/, pypygo, 0.1.1, A Python wrapper for the DuckDuckGo instant answer API, 2014-07-02T16:48:03+0000
+/project/django-searchify/, django-searchify, 0.4, Search integration for Django with a focus on indexing, 2012-07-20T17:04:41+0000
+/project/carson-tool-historicalweathertw/, carson-tool.HistoricalWeatherTW, 4.1.0, Bezier curve simulation (including reductions the dimension from 3 to 2), 2020-02-07T09:30:32+0000
+/project/datamart-rest/, datamart-rest, 0.2.5, Client library for DataMart's REST API, 2020-04-09T21:21:13+0000
+/project/doublify-toolkit/, doublify-toolkit, 0.5.2, Doublify API toolkit for Python, 2017-04-13T23:12:00+0000
+/project/googlesuggest/, GoogleSuggest, 1.0.0, This module will help you to grab the Google suggestion for some expression, 2010-11-07T03:06:01+0000
+/project/lunasync/, lunasync, 0.1.4, Keep downloaded booru searches up-to-date, similar to Danbooru subscriptions., 2018-11-21T00:19:39+0000
+/project/blekko/, blekko, 0.1.1, bindings for the Blekko search engine API, 2012-05-25T01:59:59+0000
+/project/hypercouch/, hypercouch, 0.3, Full Text Indexing for CouchDB, 2009-03-13T20:09:21+0000
+/project/super-taxi-api/, super-taxi-api, 0.0.3, Simple taxi booking api, 2020-08-10T12:10:31+0000
+/project/excel2json-3/, excel2json-3, 0.1.6, Convert Excel Sheet into JSON file., 2018-08-09T18:39:03+0000
+/project/mappa/, Mappa, 0.1.0, Topic Maps Engine, 2007-07-01T15:13:13+0000
+/project/sunburnt-python3/, sunburnt-python3, 0.8.1, Python interface to Solr, 2019-11-15T15:10:59+0000
+/project/piratebay/, piratebay, 0.3.1, A python interface to thepiratebay dot org., 2010-09-01T18:50:04+0000
+/project/plush/, plush, 0.3.0, Python LUcene SHell., 2007-04-12T08:37:38+0000
+/project/pyseoanalyzer/, pyseoanalyzer, 4.0.4, An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any technical SEO issues., 2021-01-18T20:40:08+0000
+/project/djambase/, DjamBase, 1.0.16, A Thin JamBase API Client library for Django/Python Applications., 2016-01-26T22:08:49+0000
+/project/fanfictionapi/, FanfictionAPI, 1.0, Library for scraping data from fanfiction.net, 2015-06-29T02:03:28+0000
+/project/duckduckgo/, duckduckgo, 0.1, Library for querying the Duck Duck Go API, 2010-03-18T08:45:01+0000
+/project/oauthbrowser/, OAuthBrowser, 0.0.1, OAuthBrowser is module to do authentications and web scraping., 2020-04-30T22:02:25+0000
+/project/faapi/, faapi, 2.19.1, Python module to implement API-like functionality for the FurAffinity.net website., 2021-04-24T22:12:45+0000
+/project/phenodata/, phenodata, 0.11.0, phenodata is a data acquisition and manipulation toolkit for open access phenology data, 2020-12-29T17:25:08+0000
+/project/lunafind/, lunafind, 0.5.5, Search, filter, inspect, download posts from Danbooru and local folders., 2020-08-25T09:02:12+0000
+/project/wiki-bot/, wiki-bot, 1.3.1, A random wikipedia page generator., 2018-05-09T02:27:40+0000
+/project/pyniland/, pyniland, 1.0.1, Niland API Client for Python, 2016-09-07T15:28:01+0000
+/project/htmltotext/, htmltotext, 0.7.3, Extract text and some metainfo from HTML, coping with malformed pages as well as possible., 2008-12-15T15:34:00+0000
+/project/mrkoll-scraper/, mrkoll-scraper, 0.3.2, mrkoll.se scraper & RSS generator, 2020-08-27T21:03:12+0000
+/project/phonetics/, phonetics, 1.0.5, Compute phonetic key of strings for indexing or fuzzy matching, 2018-03-23T15:38:37+0000
+/project/rockset/, rockset, 0.7.68, Rockset Python Client and `rock` CLI, 2021-02-11T19:08:34+0000
+/project/music-scraper/, music_scraper, 1.1.0, Gets Songs from the web and allows users to download the same, 2016-07-29T16:10:44+0000
+/project/exoskeleton/, exoskeleton, 1.2.5, A library to create a bot / spider / crawler., 2021-04-18T07:45:06+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/redsolutioncms-django-seo/, redsolutioncms.django-seo, 0.3.5, Adds generic SEO fields for objects in your site or specific urls, 2012-05-12T08:05:08+0000
+/project/datamart-nyu/, datamart-nyu, 0.2.5, Client library for NYU's DataMart system, 2020-04-09T21:32:43+0000
+/project/w2m/, w2m, 0.2, www spider producing an adjacency matrix, 2012-01-02T09:51:39+0000
+/project/elasticmagic/, elasticmagic, 0.1.0b0, Python orm for elasticsearch., 2021-04-21T09:45:01+0000
+/project/awstwitter/, awstwitter, 1.0.3, A Python module to make it easy to connect to twitter from AWS, 2017-11-15T04:41:25+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/gank/, gank, 0.0.1, A simple example, 2019-10-18T15:20:46+0000
+/project/wapiti3/, wapiti3, 3.0.4, A web application vulnerability scanner, 2021-02-20T15:03:19+0000
+/project/dp2rathena/, dp2rathena, 0.3.4, Convert Divine-Pride API data to rAthena YAML, 2021-02-15T13:51:38+0000
+/project/hypy/, Hypy, 1.0.1, Pythonic wrapper for Hyper Estraier, 2019-12-14T05:51:01+0000
+/project/lieparse/, lieparse, 1.1.0, HTML parser ant text retriever using user defined rule set, 2020-03-02T22:02:25+0000
+/project/fence/, fence, 0.0.3, BitCoin trending and trading bot, 2013-01-26T21:28:36+0000
+/project/rephunt/, rephunt, 0.1.2, Reputation enhancer for Stack Exchange, 2019-04-28T15:06:43+0000
+/project/downloader/, downloader, 0.98, Download URLs using a compressed disk cache and a random throttling interval., 2016-07-20T17:05:10+0000
+/project/imagebot/, imagebot, 1.2.1, A web bot to crawl websites and scrape images., 2015-07-13T13:02:54+0000
+/project/img-lurker/, img-lurker, 1.0.1, Web gallery downloader, 2019-12-07T23:39:22+0000
+/project/hackernews/, HackerNews, 2.0.0, Python API for Hacker News., 2014-05-12T17:50:52+0000
+/project/yamlious/, yamlious, 0.2.1, Build voluptuous schema from yaml files, 2016-03-23T10:55:07+0000
+/project/pynav2/, pynav2, 2.1, Headless programmatic web browser on top of Requests and Beautiful Soup, 2019-01-25T21:39:57+0000
+/project/medium-search/, Medium-Search, 0.0.5, Search Medium stories using Python, 2020-12-19T14:17:36+0000
+/project/tweeql2solr/, tweeql2solr, 0.1, tweeql2solr - store tweets in solr, 2011-01-14T13:10:58+0000
+/project/mtglib/, mtglib, 0.1, Magic the Gathering Python library, 2016-12-14T17:24:48+0000
+/project/patternfork-nosql/, patternfork-nosql, 3.6, Web mining module for Python., 2020-08-25T20:36:32+0000
+/project/redtube/, redtube, 0.5.0, Python module to access RedTube API, 2012-10-20T20:03:13+0000
+/project/keyfree/, keyfree, 1.0.0, An authentication proxy for Amazon Elasticsearch Service, 2016-11-13T13:47:00+0000
+/project/xapian-haystack/, xapian-haystack, 2.1.1, A Xapian backend for Haystack, 2017-05-22T16:34:23+0000
+/project/discodoc/, discodoc, 0.3.0, discodoc - create documents from Discourse content easily, 2019-08-13T02:30:27+0000
+/project/pysolr-aio/, pysolr-aio, 3.8.1.1, Lightweight Python client for Apache Solr, 2020-02-20T20:58:28+0000
+/project/backache/, backache, 0.0.7, Docido software development kit for Python, 2015-10-23T10:51:06+0000
+/project/zicbee-mplayer/, zicbee-mplayer, 0.9.1, MPlayer backend for zicbee project, 2010-06-14T19:45:00+0000
+/project/pyramid-rawes/, pyramid_rawes, 0.5.1, Rawes bindings for pyramid, 2014-09-26T20:36:34+0000
+/project/duckduckgo2/, duckduckgo2, 0.242, Library for querying the DuckDuckGo API, 2013-06-03T00:44:02+0000
+/project/spidy-web-crawler/, spidy-web-crawler, 1.6.5, Spidy is the simple, easy to use command line web crawler., 2018-01-25T01:01:26+0000
+/project/rets-python/, rets-python, 0.4.5, rets-python, 2020-08-02T08:00:51+0000
+/project/gnes/, gnes, 0.0.47, GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network., 2019-11-06T10:12:58+0000
+/project/mensa-kl-cli/, mensa-kl-cli, 0.1, , 2019-03-18T13:58:02+0000
+/project/soft-404/, soft-404, 0.4.0, A classifier for detecting soft 404 pages, 2020-09-03T20:40:29+0000
+/project/yarr-client/, yarr.client, 0.2.1, Web-based client for Yarr!, 2015-09-11T12:01:26+0000
+/project/grafana-pandas-datasource/, grafana-pandas-datasource, 0.1.2, Serve Pandas dataframes to Grafana, 2020-12-27T10:19:06+0000
+/project/pypes/, pypes, 1.1.0, An actor based programming framework, 2010-03-05T22:57:21+0000
+/project/pattern/, Pattern, 3.6, Web mining module for Python., 2018-08-18T17:48:04+0000
+/project/docido-sdk/, docido-sdk, 0.3.5, Docido software development kit for Python, 2017-06-26T08:02:13+0000
+/project/adsutils/, adsutils, 1.0.33, A Python tool with some general ADS utilities, 2016-10-11T15:18:53+0000
+/project/zicbee-gst/, zicbee-gst, 0.6.1, Gstreamer backend for zicbee project, 2010-06-14T19:42:13+0000
+/project/noncrawl/, noncrawl, 0.1, A web crawler creating link soups, 2010-07-28T20:58:05+0000
+/project/serpextract-meiqia/, serpextract-meiqia, 2019.1.15.0, Easy extraction of keywords from search engine results pages (SERPs)., 2019-03-15T04:09:11+0000
+/project/webchanges/, webchanges, 3.4.1, Check web (or commands) for changes since last run and notify., 2021-04-17T06:45:28+0000
+/project/uk-covid19/, uk-covid19, 1.2.2, SDK for the COVID-19 API (Coronavirus Dashboard in the UK), 2021-04-22T13:18:37+0000
+/project/phils-amazon-price-tracker/, Phils-Amazon-Price-Tracker, 1.2.0.dev1, An Amazon Product Price Tracker, 2016-07-13T16:54:30+0000
+/project/tpb/, tpb, 1.3.6, Unofficial Python API for ThePirateBay., 2019-12-24T15:50:09+0000
+/project/cockatrice/, cockatrice, 0.7.1, Full text search and indexing server., 2019-01-15T00:02:58+0000
+/project/bungee/, bungee, 0.1, Python models and query expressions for ElasticSearch, 2013-07-08T06:43:23+0000
+/project/ze/, ze, 0.0.17.dev1, Scaper to lager portal of news in Brazil., 2017-04-19T03:17:50+0000
+/project/sunny/, sunny, 0.0.4, Minimalistic interface to Solr., 2013-07-15T12:22:53+0000
+/project/datatreegrab/, DataTreeGrab, 1.04.00, Node-Tree based data extraction, 2017-07-10T23:46:14+0000
+/project/bing-commerce-search/, bing-commerce-search, 1.0.0, Microsoft Bing for Commerce ingestion SDK for Python, 2020-03-06T19:35:09+0000
+/project/manticoresearch/, manticoresearch, 1.0.5, Python client for Manticore Search, 2020-12-03T15:31:13+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/blyrics/, blyrics, 1.1, Python client for the GENIUS API -     Also for getting latest articles and charts, 2020-05-28T02:11:02+0000
+/project/dicio/, Dicio, 1.3.0, Unofficial Python API for Dicio., 2019-10-27T14:43:02+0000
+/project/lightnovelapi/, lightnovelapi, 0.2, Client sided API to light novel hosters, 2020-01-06T13:43:51+0000
+/project/serpextract/, serpextract, 0.7.2, Easy extraction of keywords from search engine results pages (SERPs)., 2021-04-21T14:39:25+0000
+/project/proxybroker/, proxybroker, 0.3.2, [Finder/Checker/Server] Finds public proxies from multiple sources and concurrently checks them. Supports HTTP(S) and SOCKS4/5., 2019-03-12T19:47:46+0000
+/project/gamefaqs-py/, gamefaqs-py, 0.2.8, Retrieve and manage game data from GameFAQS., 2015-09-14T02:16:54+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/curious/, curious, 1.2.0, Graph-based data exploration tool, 2018-04-06T15:40:17+0000
+/project/collective-opensearch/, collective.opensearch, 1.6, Collective Opensearch Collective.opensearch adds the ability to produce search results in the simple OpenSearch format., 2017-11-20T12:48:43+0000
+/project/coinmetrics/, coinmetrics, 0.2.5, An unofficial library to standardize queries to the Coin Metrics (coinmetrics.io) API., 2020-04-25T23:35:45+0000
+/project/galerts/, galerts, 0.1.5, Python libary for managing Google Alerts, 2009-12-10T22:53:10+0000
+/project/eventregistry/, eventregistry, 8.9, A package that can be used to query information in Event Registry (http://eventregistry.org/), 2020-10-21T16:39:19+0000
+/project/lyricsmaster/, lyricsmaster, 2.8.1, LyricsMaster is a library for downloading lyrics from multiple lyrics providers. LyricWiki, AzLyrics, Genius, Lyrics007, MusixMatch and other lyrics provider are available, 2019-04-07T13:56:22+0000
+/project/tldsearcher/, tldsearcher, 1.2.0, A tool for finding TLDs for domains, 2020-09-07T08:18:05+0000
+/project/lkd/, lkd, 2, UNKNOWN, 2013-12-14T18:42:27+0000
+/project/pokeycrawl/, pokeycrawl, 0.1.1a5, A python webcrawler, 2016-06-13T18:25:38+0000
+/project/products-zcatalog/, Products.ZCatalog, 6.0, Zope's indexing and search solution., 2020-10-08T06:21:02+0000
+/project/pysolarized/, PySolarized, 1.4.1, A simple library for accessing Apache Solr full-text search engine. Allows updating and queries overmultiple cores., 2014-05-28T08:21:37+0000
+/project/forager/, forager, 1.15.3, A utility for finding feeds on websites, 2020-06-20T09:13:37+0000
+/project/creepy/, creepy, 0.1.6, Dead simple web crawler for Python, 2016-04-24T07:08:45+0000
+/project/ebookkit/, ebookkit, 0.0.1, helps creating ebooks, 2014-04-22T18:46:25+0000
+/project/selenium-update/, selenium-update, 0.0.0, Automate Selenium webdriver dependency set up, 2020-08-09T10:21:26+0000
+/project/autologin/, autologin, 0.1.4, A utility for finding login links, forms and autologging into websites with a set of valid credentials., 2017-05-24T08:49:17+0000
+/project/crawlerdetect/, crawlerdetect, 0.1.4, CrawlerDetect is a Python class for detecting bots/crawlers/spiders via the user agent., 2019-08-16T07:46:31+0000
+/project/elastic-neural-search/, elastic-neural-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:35:12+0000
+/project/muncher/, muncher, 0.0.1, Food API, 2021-03-18T20:46:18+0000
+/project/jina/, jina, 1.1.9, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2021-04-21T11:24:46+0000
+/project/kerko/, Kerko, 0.7.1, A Flask blueprint that provides a faceted search interface for bibliographies based on Zotero., 2021-02-05T00:15:55+0000
+/project/python-ted/, python-ted, 0.0.6, Python library for the University of Edinburgh's T@Ed Timetabling Service, 2014-03-19T02:45:03+0000
+/project/searchtester/, searchtester, 0.6, Simple system for testing search results, and using that to measure effectiveness of your current search ranking, 2011-06-14T14:07:12+0000
+/project/cleversession/, cleversession, 0.0.1a1, A CleverDict subclass to handle selenium webbrowser sessions, 2021-01-06T07:35:54+0000
+/project/thetrove-downloader/, thetrove-downloader, 1.0.2, Download utility for thetrove.is, 2021-03-08T07:24:08+0000
+/project/down-frab-videos/, down-frab-videos, 0.5.7, Download videos and lecture attachments from CCC events, 2019-12-30T13:06:31+0000
+/project/ducker/, ducker, 2.0.1, Program that lets you search with DuckDuckGo from the command line., 2017-04-08T17:56:30+0000
+/project/helios-client/, helios-client, 0.3.dev20200304, Pure python 3 module to communicate with a Helios server., 2020-03-05T03:29:52+0000
+/project/pydemo/, pydemo, 0.0.1, A simple example, 2019-09-15T08:01:27+0000
+/project/collective-geo-index/, collective.geo.index, 0.1, spatialindex for collective.geo, 2012-02-16T10:06:30+0000
+/project/estraiernative/, estraiernative, 0.2, Python native binding for Hyper Estraier, 2007-04-19T15:23:24+0000
+/project/tarantula/, tarantula, 1.1.0b1, Movie Indexer, 2012-01-11T11:18:22+0000
+/project/vectorai-nightly/, vectorai-nightly, 0.2.5.2021.4.25, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-04-25T00:44:31+0000
+/project/esclient/, ESClient, 0.5.8, A lightweight Python client for ElasticSearch, including a dump and import tool for indexes, 2014-04-21T20:30:08+0000
+/project/microsearch/, microsearch, 1.0.0, A small search library., 2012-02-23T06:51:28+0000
+/project/cardify/, cardify, 0.1.0, Cardify - A set of GPLv3+ libraries to deal with carding information., 2016-03-19T17:11:39+0000
+/project/crawlerdetect-coreteam/, crawlerdetect-coreteam, 0.1.5, CrawlerDetect is a Python class for detecting bots/crawlers/spiders via the user agent., 2020-10-15T06:52:24+0000
+/project/vigil-cli/, vigil-cli, 0.3, Automatically monitor websites for changes, 2019-02-09T20:00:58+0000
+/project/nhentai-downloader/, nhentai-downloader, 0.5.5.2, Nhentai doujinshi fetcher and downloader, 2019-08-08T22:48:29+0000
+/project/chemdataextractor-ide/, ChemDataExtractor-IDE, 1.3.2, A toolkit for extracting chemical information from the scientific literature., 2019-11-28T14:09:56+0000
+/project/animapy/, Animapy, 1.5.3.1, An anime API for python, 2014-11-22T12:54:35+0000
+/project/pylastica/, pylastica, 1.3.0.0, Python port of Nicolas Ruflin's Elastica PHP library, 2014-07-23T23:46:26+0000
+/project/cheshire3/, cheshire3, 1.1.8, Cheshire3 Search and Retrieval Engine and Information Framework, 2014-07-24T15:06:22+0000
+/project/spotify-podcast-rss/, spotify-podcast-rss, 0.3.2, RSS for Spotify podcasts, 2020-06-30T19:57:55+0000
+/project/pyes-fatisar/, pyes-fatisar, 5.0.0, Python Elastic Search driver, 2017-04-07T22:40:51+0000
+/project/sphinxtools/, sphinxtools, 0.2, Paver tasks for Sphinx Search server, 2011-01-21T17:14:44+0000
+/project/pysolr/, pysolr, 3.9.0, Lightweight Python client for Apache Solr, 2020-04-17T20:16:24+0000
+/project/translitua/, translitua, 1.3.1, Official transliteration for ukrainian language, 2020-05-11T14:24:09+0000
+/project/tensorflow-search/, tensorflow-search, 0.6.8, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-14T18:37:59+0000
+/project/properly-rets/, properly-rets, 0.5.13, properly-rets, 2020-06-19T21:23:28+0000
+/project/curlwrapper/, curlwrapper, 0.1.110, curlwrapper (browser interface for curl), 2011-11-08T03:48:09+0000
+/project/lupyne/, lupyne, 2.5, Pythonic search engine based on PyLucene., 2020-11-24T23:16:06+0000
+/project/pitchfork/, pitchfork, 0.1.5, Unofficial API for pitchfork.com reviews, 2018-08-20T18:16:12+0000
+/project/osrframework/, osrframework, 0.20.4, OSRFramework - A set of AGPLv3+ OSINT tools developed by i3visio analysts for online research., 2021-02-11T13:29:33+0000
+/project/odls-client/, odls.client, 0.1, A Python client for ODLS, 2010-12-21T10:20:14+0000
+/project/osrframework-server/, osrframework-server, 0.18.0a4, OSRFramework Server - A HTTP server writen in Python to interact with OSRFramework., 2017-12-03T18:32:46+0000
+/project/lunakit/, lunakit, 0.4.9.post3, Obsolete - See https://pypi.org/project/lunafind instead., 2018-11-10T00:37:37+0000
+/project/scrapeswa/, scrapeswa, 0.0.4, A Simple Scraper for Southwest Airlines, 2019-02-07T08:16:02+0000
+/project/pug/, pug, 0.1.22, Meta package to install the PDX Python User Group utilities., 2015-04-16T00:19:56+0000
+/project/zicbee-vlc/, zicbee-vlc, 0.9.2, VLC backend for zicbee project, 2010-06-14T19:43:38+0000
+/project/ottawacityjobs/, OttawaCityJobs, 0.1.3, Yet another ottawa city jobs scrapper, 2015-11-10T18:44:52+0000
+/project/addic7ed/, addic7ed, 1.1.5, Addic7ed scraper written in Python to download subtitles (almost) automatically, 2017-03-20T09:45:24+0000
+/project/simpleaudioindexer/, SimpleAudioIndexer, 1.0.0, Indexes audio files and searches for words/phrases or matches regex patterns within them., 2017-02-12T00:02:50+0000
+/project/vec-search/, vec-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:28:21+0000
+/project/downloader-py3/, downloader-py3, 1.0.2, Download URLs using a compressed disk cache and a random throttling interval., 2018-06-21T11:04:53+0000
+/project/inelastic/, inelastic, 0.2.4, Print an Elasticsearch inverted index as a CSV table or JSON object., 2019-08-08T23:18:53+0000
+/project/pyexifinfo/, pyexifinfo, 0.4.0, Simple Metadata extraction using Exiftool, 2016-10-08T07:17:11+0000
+/project/zicbee-mpris/, zicbee-mpris, 1.0, MPRIS backend for zicbee project, 2012-06-06T19:22:48+0000
+/project/hausastemmer/, hausastemmer, 1.0, Hausa language stemmer (Bimba et al., 2015), 2016-12-06T17:12:58+0000
+/project/asyncproxybroker/, asyncproxybroker, 0.0.2, Library to asynchronously find and use public proxies from multiple sources., 2021-01-02T14:42:41+0000
+/project/duckduckgo3/, duckduckgo3, 0.242, Library for querying the DuckDuckGo API, 2020-01-25T10:18:21+0000
+/project/gina/, gina, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:27:28+0000
+/project/torfy/, torfy, 0.2.1, Torfy - A set of GPLv3+ libraries to deal with Tor connections., 2016-03-06T22:00:36+0000
+/project/django-multilingual-search/, django-multilingual-search, 2.4.1, A drop-in replacement for the Haystack Elasticsearch backend which allows multilingual indexes for Django., 2016-11-20T19:50:11+0000
+/project/pholcidae/, pholcidae, 0.0.3, pholcidae - Tiny python web crawler library, 2012-12-28T15:30:55+0000
+/project/hntop/, hntop, 0.0.10, Python wrapper over HackerNews Firebase API, 2016-04-07T17:43:04+0000
+/project/movie-blog-search-engine/, movie-blog-search-engine, 0.5, Search on movie-blog for download links, 2020-10-21T07:27:32+0000
+/project/mechanize/, mechanize, 0.4.5, Stateful programmatic web browsing., 2019-12-22T09:18:43+0000
+/project/esbench/, esbench, 0.2.3, Elasticsearch performance benchmark tool, 2014-01-22T00:53:09+0000
+/project/ebdata/, ebdata, 1.2, Data scraper infrastructure for OpenBlock (hyperlocal news for Django), 2012-05-24T17:27:38+0000
+/project/recommendy/, recommendy, 0.0.2, Python3 recommendation system, 2015-07-11T07:50:42+0000
+/project/getty/, getty, 0.2.0, Getty Images Bank API Client, 2012-11-05T16:16:48+0000
+/project/pyramid-es/, pyramid_es, 0.3.1, Elasticsearch integration for Pyramid., 2014-12-01T05:50:32+0000
+/project/algoliasearchasync/, algoliasearchasync, 1.3.2, Algolia Search Asyncronous API Client for Python, 2018-04-26T07:30:37+0000
+/project/django-prefetch-id/, django-prefetch-id, 0.0.1, Fetch next Django model id (sequence number) by Model or Table., 2018-08-19T05:21:33+0000
+/project/by-get/, by_get, 0.2.1, BY image getter, 2017-01-09T21:14:13+0000
+/project/ze-the-scraper/, ze-the-scraper, 0.0.17.dev1, Scaper to lager portal of news in Brazil., 2017-04-19T03:17:37+0000
+/project/django-seo/, django-seo, 0.3.5, Adds generic SEO fields for objects in your site or specific urls, 2012-05-12T08:06:52+0000
+/project/domainr/, domainr, 1.0.0, Dead-Simple way to interact with Domai.nr JSON API, 2012-04-24T01:41:31+0000
+/project/pug-dj/, pug-dj, 0.0.18, # pug-dj, 2015-04-02T21:57:14+0000
+/project/aiosolr/, aiosolr, 3.3.2, Lightweight Python client for Apache Solr., 2021-02-19T22:49:33+0000
+/project/pysolr-tornado/, pysolr-tornado, 4.0.1, A library to access Solr via Tornado coroutines., 2016-06-20T20:40:12+0000
+/project/purestemmer/, purestemmer, 0.1.1, Pure-Python implementations of the Snowball stemmers, 2014-08-08T11:45:33+0000
+/project/spcli/, spcli, 1.0.3, Search Startpage.com from the terminal., 2019-10-10T09:43:07+0000
+/project/leak/, leak, 1.2.0, Show available releases for package, 2018-10-11T08:46:41+0000
+/project/kisscartoon-api/, kisscartoon-api, 0.1, The unofficial API for KissCartoon websites, 2017-04-16T21:39:13+0000
+/project/autologin-middleware/, autologin-middleware, 0.1.6, A Scrapy middleware to use with autologin, 2017-04-05T12:46:12+0000
+/project/poogle/, Poogle, 0.1.0, Poogle is a Google scraping library and command line utility for Python., 2015-11-30T22:49:41+0000
+/project/animelyrics/, animelyrics, 0.1.0, Library to extract song lyrics from www.animelyrics.com, 2019-06-23T09:16:40+0000
+/project/gnosis-utils/, Gnosis_Utils, 1.2.2, Modules and Utilities for XML Documents and Other Miscellany, 2015-02-25T05:10:29+0000
+/project/dubizzle/, dubizzle, 0.1, A scraping-based API for Dubizzle., 2015-02-06T23:00:30+0000
+/project/pyufc/, pyufc, 0.11, A Python wrapper for API access to the UFC fighter roster, 2016-02-02T14:44:21+0000
+/project/pyroonga/, pyroonga, 0.5.2, Python interface for groonga, 2013-09-17T04:29:28+0000
+/project/falocalrepo/, falocalrepo, 3.23.11, Pure Python program to download any user's gallery, scraps, favorites, and journals from FurAffinity in an easily handled database., 2021-04-23T23:01:55+0000
+/project/dingonyms/, dingonyms, 0.5, fetch synonyms from various web services, 2021-03-04T15:09:00+0000
+/project/python3-redtube/, python3-redtube, 0.5.0, module to access RedTube API - updated to Python 3, 2017-05-16T00:58:56+0000
+/project/xxkcd/, xxkcd, 1.4.0, An (unofficial) Python wrapper around xkcd APIs, 2019-03-26T22:08:41+0000
+/project/django-xappy/, django-xappy, 0.1, Bridges the Xappy/Xapian search engine library with the Django web framework., 2008-08-13T18:12:15+0000
+/project/pynav/, pynav, 1.0, Python programmatic web browser to fetch data and test web sites, 2018-10-11T19:28:06+0000
+/project/sphinx-fakeinv/, sphinx-fakeinv, 1.0.0, Generate fake Intersphinx inventory, 2016-09-18T18:39:01+0000
+/project/kolibri-opensearch-plugin/, kolibri-opensearch-plugin, 0.0.2, Kolibri plugin to provide an OpenSearch compatible API, 2020-02-20T18:22:12+0000
+/project/pyllage/, pyllage, 0.1.2, A web scraping tool in Python 3, 2013-04-06T08:32:53+0000
+/project/tv-grab-py-api/, tv_grab_py_API, 1.0.7, xlmtv API based on JSON datafiles, 2017-07-11T02:30:02+0000
+/project/pitchfork-api/, pitchfork-api, 0.0.4, Unofficial API for pitchfork.com reviews, maintained version of pitchfork, 2018-08-17T18:10:29+0000
+/project/tpblite/, tpblite, 0.7.1, The Unofficial Pirate Bay Lightweight Python API, 2021-03-24T09:51:23+0000
+/project/pattern3/, pattern3, 3.0.0, Web mining module for Python., 2017-03-13T21:55:59+0000
+/project/soft404/, soft404, 0.2.1, A classifier for detecting soft 404 pages, 2017-05-22T20:51:01+0000
+/project/obdemo/, obdemo, 1.2, Demo website configuration for OpenBlock (hyperlocal news for Django), 2012-05-24T17:29:27+0000
+/project/rockset-sqlcli/, rockset-sqlcli, 0.7.68, Rockset SQL REPL for `rock sql`, 2021-02-11T19:08:36+0000
+/project/bypaxpan/, bypaxpan, 0.1, Ferramenta para bypassar análises de processamento de linguagem natural :knife:, 2020-11-24T19:53:39+0000
+/project/osrframework-console/, osrframework-console, 0.18.0, OSRFramework Console - A terminal-based user interface to interact with OSRFramework utils., 2018-02-04T19:00:18+0000
+/project/algoliasearch/, algoliasearch, 2.4.0, Algolia Search API Client for Python., 2020-08-10T08:45:40+0000
+/project/postal/, postal, 1.1.9, Python bindings to libpostal for fast international address parsing/normalization, 2020-07-21T03:23:02+0000
+/project/youtube-sm/, youtube-sm, 2021.4.13, Youtube subscription manager, 2021-04-13T15:06:56+0000
+/project/py-web-search/, py-web-search, 0.2.4, A Python module to fetch and parse results from different search engines., 2016-01-09T05:08:11+0000
+/project/yt-videos-list/, yt-videos-list, 0.5.4, Get YouTube videos (all titles and URLs) with end-to-end web scraping API. 🌟 Star this repo if you found it useful! 🌟, 2021-02-22T00:20:23+0000
+/project/getrails/, getrails, 3.1, Tool of OSINT and Dork hacking that work with Google and Duckduckgo, 2020-12-16T19:48:04+0000
+/project/django-rest-fuzzysearch/, django-rest-fuzzysearch, 0.5.1, Fuzzy Search for Django REST Framework, 2017-09-02T16:14:01+0000
+/project/parsero/, parsero, 0.81, A Python based Robots.txt audit tool, 2014-09-29T11:21:16+0000
+/project/dsw-tdk/, dsw-tdk, 2.13.0, Data Stewardship Wizard Template Development Toolkit, 2021-04-24T15:48:45+0000
+/project/polymr/, polymr, 1.0.0, Index and search lots of small documents, 2018-03-01T01:24:21+0000
+/project/mtg/, mtg, 1.6.1, Console-based access to the Gatherer Magic Card Database., 2016-05-17T15:26:32+0000
+/project/django-seo2/, django-seo2, 1.0.1, A framework for managing SEO metadata in Django., 2016-01-05T08:51:10+0000
+/project/salted/, salted, 0.6.1, Smart, Asynchronous Link Tester with Database backend, 2021-01-22T19:02:39+0000
+/project/calcpkg/, calcpkg, 2.0.1, ticalc.org package manager, 2014-07-22T00:57:51+0000
+/project/pyes/, pyes, 0.99.6, Python Elastic Search driver, 2015-10-18T12:27:38+0000
+/project/nyaalib/, nyaalib, 0.0.6, Python library for Nyaa, 2015-03-05T08:13:32+0000
+/project/oktavia/, oktavia, 0.5.0, High performance pure Python/JavaScript search engine, 2014-10-26T13:31:00+0000
+/project/solrq/, solrq, 1.1.1, Python Solr query utility, 2017-03-05T15:49:02+0000
+/project/solrcloudpy/, solrcloudpy, 4.0.1, python library for interacting with SolrCloud, 2020-02-12T13:32:17+0000
+/project/dinsort/, dinsort, 0.2, Sort terms according to German DIN., 2015-10-14T12:46:38+0000
+/project/pyrailgun/, pyrailgun, 0.26, Fast Crawler For Python, 2014-06-10T12:34:02+0000
+/project/obadmin/, obadmin, 1.2, Setup and administrative tools for OpenBlock (hyperlocal news for Django), 2012-05-24T17:28:44+0000
+/project/elseql/, elseql, 0.3.0, SQL-like command line client for ElasticSearch, 2018-02-07T02:04:55+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/take/, take, 0.2.0, A DSL for extracting data from a web page., 2015-04-15T08:19:23+0000
+/project/django-statistic/, django-statistic, 1.0, Statistic for django models, 2013-08-26T15:44:40+0000
+/project/hacker-news/, hacker_news, 2.1.4, Python wrapper for Hacker News API., 2015-05-22T09:33:25+0000
+/project/esdocs/, esdocs, 0.6.2, Serialization & bulk indexing package for Elasticsearch; based on elasticsearch-dsl.py, supports multi-processing, Django, 2019-06-28T20:37:23+0000
+/project/searchyt/, searchyt, 0.1.1, Lightweight Python 3 library for searching youtube videos without API key, 2019-10-27T18:02:11+0000
+/project/censys-maltego/, censys-maltego, 2.0.0b1, This package provides an interface into Censys from Maltego., 2021-04-22T14:13:21+0000
+/project/zerodbext-catalog/, zerodbext.catalog, 0.8.4, Searching and indexing based on zope.index. Fork of repoze.catalog, 2016-03-12T22:03:19+0000
+/project/cpydemo/, cpydemo, 0.0.1, A simple example, 2019-09-15T08:13:42+0000
+/project/moodle-dl/, moodle-dl, 2.1.2.5, A Moodle downloader that downloads course content fast from Moodle (eg. lecture pdfs), 2021-03-08T10:10:23+0000
+/project/django-slug-lookup/, django-slug-lookup, 0.0.2, Django model string field lookup by automatically(internally) treating string as a slug., 2018-08-19T05:15:52+0000
+/project/score-es7/, score.es7, 0.0.2, ElasticSearch integration for The SCORE Framework, 2021-01-05T15:03:14+0000
+/project/text-hr/, text-hr, 0.20, Morphological/Inflection/Lemmatization Engine for Croatian language, POS tagger, stopwords, 2020-05-07T16:10:05+0000
+/project/jinad/, jinad, 0.0.7, Jinad is the daemon tool for running Jina on remote machines. Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2021-01-05T19:50:49+0000
+/project/elasticsearch2-haystack/, elasticsearch2-haystack, 0.1, An elasticsearch2 compatible backend for Haystack, 2016-12-05T17:45:25+0000
+/project/mechanize/, mechanize, 0.4.5, Stateful programmatic web browsing., 2019-12-22T09:18:43+0000
+/project/esbench/, esbench, 0.2.3, Elasticsearch performance benchmark tool, 2014-01-22T00:53:09+0000
+/project/ebdata/, ebdata, 1.2, Data scraper infrastructure for OpenBlock (hyperlocal news for Django), 2012-05-24T17:27:38+0000
+/project/recommendy/, recommendy, 0.0.2, Python3 recommendation system, 2015-07-11T07:50:42+0000
+/project/getty/, getty, 0.2.0, Getty Images Bank API Client, 2012-11-05T16:16:48+0000
+/project/obadmin/, obadmin, 1.2, Setup and administrative tools for OpenBlock (hyperlocal news for Django), 2012-05-24T17:28:44+0000
+/project/elseql/, elseql, 0.3.0, SQL-like command line client for ElasticSearch, 2018-02-07T02:04:55+0000
+/project/sdmenu/, sdmenu, 1.0.0, A simple way to query UC San Diego's HDH dining halls, 2021-02-18T19:34:07+0000
+/project/torvend/, torvend, 0.0.1, A framework for public torrent vendor scrapers, 2017-12-19T14:48:18+0000
+/project/libearth/, libearth, 0.3.3, The shared common library for Earth Reader apps, 2014-11-05T18:30:33+0000
+/project/pyramid-es/, pyramid_es, 0.3.1, Elasticsearch integration for Pyramid., 2014-12-01T05:50:32+0000
+/project/algoliasearchasync/, algoliasearchasync, 1.3.2, Algolia Search Asyncronous API Client for Python, 2018-04-26T07:30:37+0000
+/project/edge-genome/, edge-genome, 2.18.0, Genome Engineering Tool, 2021-04-16T19:12:25+0000
+/project/pystemmer/, PyStemmer, 2.0.1, Snowball stemming algorithms, for information retrieval, 2020-07-15T11:51:49+0000
+/project/digiglass/, digiglass, 1.0.4, Search Digi-Key from your terminal, 2015-05-21T20:54:05+0000
+/project/nova6/, nova6, 2.0.1, A torrent search engine based on qBittorrent's, 2017-08-02T19:50:36+0000
+/project/muchspace/, muchspace, 0.3.2, A CLI utility in python3 to calulate total disk space required for media links, 2018-06-12T04:51:38+0000
+/project/tf-search/, tf-search, 0.6.6, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-12T22:27:19+0000
+/project/csquery/, csquery, 0.1.4, A simple query builder for Amazon Cloudsearch structured query parser., 2015-11-25T04:23:21+0000
+/project/extract-html-diff/, extract-html-diff, 0.1.0, Extract difference between two html pages, 2017-02-20T16:27:48+0000
+/project/hacklib/, hacklib, 0.1.6, Toolkit for hacking enthusiasts using Python., 2016-09-30T07:28:36+0000
+/project/convert2json/, convert2json, 0.0.2, Convert compatible python data types, CSV, XLSX, XLS files to JSON string., 2018-08-08T08:03:52+0000
+/project/asyncproxybroker/, asyncproxybroker, 0.0.2, Library to asynchronously find and use public proxies from multiple sources., 2021-01-02T14:42:41+0000
+/project/yt-videos-list/, yt-videos-list, 0.5.4, Get YouTube videos (all titles and URLs) with end-to-end web scraping API. 🌟 Star this repo if you found it useful! 🌟, 2021-02-22T00:20:23+0000
+/project/getrails/, getrails, 3.1, Tool of OSINT and Dork hacking that work with Google and Duckduckgo, 2020-12-16T19:48:04+0000
+/project/duckduckgo3/, duckduckgo3, 0.242, Library for querying the DuckDuckGo API, 2020-01-25T10:18:21+0000
+/project/gina/, gina, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:27:28+0000
+/project/django-rest-fuzzysearch/, django-rest-fuzzysearch, 0.5.1, Fuzzy Search for Django REST Framework, 2017-09-02T16:14:01+0000
+/project/parsero/, parsero, 0.81, A Python based Robots.txt audit tool, 2014-09-29T11:21:16+0000
+/project/dsw-tdk/, dsw-tdk, 2.13.0, Data Stewardship Wizard Template Development Toolkit, 2021-04-24T15:48:45+0000
+/project/polymr/, polymr, 1.0.0, Index and search lots of small documents, 2018-03-01T01:24:21+0000
+/project/mtg/, mtg, 1.6.1, Console-based access to the Gatherer Magic Card Database., 2016-05-17T15:26:32+0000
+/project/django-seo2/, django-seo2, 1.0.1, A framework for managing SEO metadata in Django., 2016-01-05T08:51:10+0000
+/project/salted/, salted, 0.6.1, Smart, Asynchronous Link Tester with Database backend, 2021-01-22T19:02:39+0000
+/project/calcpkg/, calcpkg, 2.0.1, ticalc.org package manager, 2014-07-22T00:57:51+0000
+/project/pyes/, pyes, 0.99.6, Python Elastic Search driver, 2015-10-18T12:27:38+0000
+/project/nyaalib/, nyaalib, 0.0.6, Python library for Nyaa, 2015-03-05T08:13:32+0000
+/project/oktavia/, oktavia, 0.5.0, High performance pure Python/JavaScript search engine, 2014-10-26T13:31:00+0000
+/project/torfy/, torfy, 0.2.1, Torfy - A set of GPLv3+ libraries to deal with Tor connections., 2016-03-06T22:00:36+0000
+/project/django-multilingual-search/, django-multilingual-search, 2.4.1, A drop-in replacement for the Haystack Elasticsearch backend which allows multilingual indexes for Django., 2016-11-20T19:50:11+0000
+/project/pholcidae/, pholcidae, 0.0.3, pholcidae - Tiny python web crawler library, 2012-12-28T15:30:55+0000
+/project/hntop/, hntop, 0.0.10, Python wrapper over HackerNews Firebase API, 2016-04-07T17:43:04+0000
+/project/movie-blog-search-engine/, movie-blog-search-engine, 0.5, Search on movie-blog for download links, 2020-10-21T07:27:32+0000
+/project/solrq/, solrq, 1.1.1, Python Solr query utility, 2017-03-05T15:49:02+0000
+/project/solrcloudpy/, solrcloudpy, 4.0.1, python library for interacting with SolrCloud, 2020-02-12T13:32:17+0000
+/project/dinsort/, dinsort, 0.2, Sort terms according to German DIN., 2015-10-14T12:46:38+0000
+/project/pyrailgun/, pyrailgun, 0.26, Fast Crawler For Python, 2014-06-10T12:34:02+0000
+/project/duckduckgo-search/, duckduckgo-search, 0.3, Duckduckgo.com search results, 2021-04-25T20:40:32+0000
+/project/spyda/, spyda, 0.0.2, Spyda - Python Spider Tool and Library, 2013-11-19T04:46:32+0000
+/project/maybedont/, MaybeDont, 0.1.1, A component that tried to avoid downloading duplicate content, 2018-02-05T10:16:54+0000
+/project/dosie/, Dosie, 0.0.3, A search engine that makes knowledge a resource, and creates liberation with information sharing, 2019-03-11T13:22:59+0000
+/project/django-admin-visualsearch/, django-admin-visualsearch, 1.2, Visualsearch.js for Django admin, 2013-08-20T19:49:47+0000
+/project/uclacatalog/, uclacatalog, 1.1.0, A Python library to retrieve course and section information from the UCLA Registrar, 2020-07-29T22:56:01+0000
+/project/pyexifinfo-ivc/, pyexifinfo-ivc, 0.4.2, Simple Metadata extraction using Exiftool, 2019-08-06T15:07:27+0000
+/project/fanyi/, fanyi, 0.1, Simple command line translator, supports translation between Chinese and English., 2014-08-07T06:05:17+0000
+/project/thepiratebay/, ThePirateBay, 1.3.0, Unofficial Python API for ThePirateBay., 2013-12-18T22:26:51+0000
+/project/ebpub/, ebpub, 1.2, Core models and views for OpenBlock (hyperlocal news for Django), 2012-05-24T17:24:17+0000
+/project/epguide/, epguide, 1.0, Python Electronic TV Guide Downloader and XMLTV exporter, 2009-10-03T18:28:02+0000
+/project/snowballstemmer/, snowballstemmer, 2.1.0, This package provides 29 stemmers for 28 languages generated from Snowball algorithms., 2021-01-21T11:43:00+0000
+/project/pycloner/, pycloner, 0.1.0, pycloner is a package that tries to help in the process of manually crawling a website., 2017-07-04T13:30:24+0000
+/project/mapsnap/, mapsnap, 1.0.1, Apple Maps Web Snapshots on Python, 2020-09-08T01:08:56+0000
+/project/earthreader-web/, EarthReader-Web, 0.3.0, Earth Reader for Web, 2015-02-24T07:46:49+0000
+/project/raspstat/, Raspstat, 0.1.1, Python wrapper to get system stats in linux, 2014-10-22T22:21:21+0000
+/project/chilescrapper/, chilescrapper, 0.1.2, Compact scraping library for the major newspapers of Chile, 2020-07-18T20:42:30+0000
+/project/filmaster/, filmaster, 0.0.7, Discord bot that scours TMDB for film info, 2020-02-16T22:58:19+0000
+/project/deepify/, deepify, 0.3.2, Deepify - A set of GPLv3+ libraries to deal with Deepweb connections., 2016-03-17T07:30:45+0000
+/project/repoze-catalog/, repoze.catalog, 0.9.0, Searching and indexing based on zope.index, 2019-03-07T14:54:52+0000
+/project/streamlit-jina/, streamlit-jina, 0.1.8, Streamlit component for Jina neural search, 2021-02-16T15:13:55+0000
+/project/pa-scraper/, pa-scraper, 0.2.4, Python wrapper for Prompt API's Scraper API, 2020-10-06T04:44:38+0000
+/project/django-webmention/, django-webmention, 2.0.2, A pluggable implementation of webmention for Django projects, 2021-02-14T18:09:28+0000
+/project/zagoload/, zagoload, 0.5.1, Download files(http,ftp). Supports: cache, uniform access to remote and local files, 2016-10-22T19:56:29+0000
+/project/pyelasticsearch/, pyelasticsearch, 1.4.1, Flexible, high-scale API to elasticsearch, 2018-04-02T16:58:32+0000
+/project/nik/, nik, 0.1.0, A simplistic, versatile companion to browse, navigate and visualize your text-based Zettelkasten., 2020-05-28T10:34:31+0000
+/project/sunburnt/, sunburnt, 0.6, Python interface to Solr, 2012-01-01T16:33:14+0000
+/project/py3solr/, py3Solr, 0.1.0, Python3 client for Apache Solr, 2019-10-28T07:00:45+0000
+/project/archivebox/, archivebox, 0.6.2, The self-hosted internet archive., 2021-04-13T08:04:21+0000
+/project/duckduckpy/, duckduckpy, 0.2, Library for querying the instant answer API of DuckDuckGo search engine., 2016-11-21T11:38:43+0000
+/project/elasticmagic-qf-attrs/, elasticmagic-qf-attrs, 0.1.1, , 2020-04-22T11:44:52+0000
+/project/zicbee/, zicbee, 0.8, A simple & powerful distributed Music database engine, 2009-05-05T17:36:07+0000
+/project/pyskyscanner/, pySkyscanner, 1.0.1, A basic wrapper for the Python Realtime Flight Price API, 2017-11-12T10:19:12+0000
+/project/vectorai/, vectorai, 0.2.5, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-01-22T15:55:16+0000
+/project/hypatia/, hypatia, 0.3, Python package for searching and indexing, 2014-06-13T03:56:48+0000
+/project/graphique/, graphique, 0.3, GraphQL service for arrow tables and parquet data sets., 2021-02-01T00:18:01+0000
+/project/django-el/, django-el, 0.2.2, Django elasticsearch integration., 2015-11-18T17:04:08+0000
+/project/django-easy-seo/, django-easy-seo, 0.4.8, Adds generic SEO fields for objects in your site, 2019-03-25T05:50:30+0000
+/project/ddgr/, ddgr, 1.9, DuckDuckGo from the terminal, 2020-07-26T00:05:34+0000
+/project/solrapi/, SolrAPI, 1.2.0, Python implementation of the main operation in the Solr API Rest, 2017-08-25T14:28:13+0000
+/project/text-sentence/, text-sentence, 0.14, text-sentence is text tokenizer and sentence splitter, 2010-06-21T13:18:19+0000
+/project/kueventparser/, kueventparser, 3.0.1, event parser of kyoto-univ., 2019-07-26T12:50:16+0000
+/project/tantipy/, tantipy, 0.1.2, , 2021-01-03T20:45:53+0000
+/project/bwf/, bwf, 0.0.1, Bing Website Finder (bwf) adds websites to a list of company names from the commandline., 2019-02-12T20:20:14+0000
+/project/score-es/, score.es, 0.3.0, ElasticSearch integration for The SCORE Framework, 2018-04-04T14:19:35+0000
+/project/chemdataextractor/, ChemDataExtractor, 1.3.0, A toolkit for extracting chemical information from the scientific literature., 2017-02-03T00:12:04+0000
+/project/swiftea-crawler/, swiftea-crawler, 1.1.3, Swiftea's Open Source Web Crawler, 2019-08-13T18:28:37+0000
+/project/nboost/, nboost, 0.3.9, Nboost is a scalable, search-api-boosting platform for developing and deploying automated SOTA models more relevant search results., 2020-06-12T20:05:15+0000
+/project/score-es6/, score.es6, 0.0.3, ElasticSearch integration for The SCORE Framework, 2018-07-26T15:03:33+0000
+/project/buku/, buku, 4.5, Bookmark manager like a text-based mini-web., 2020-12-29T23:00:17+0000
+/project/sitesearcher/, sitesearcher, 0.1a2, A command line tool that creates fulltext search indexes of your favourite websites on your machine, and allows you to search them locally, 2016-09-05T21:31:07+0000
+/project/textpipe-pattern/, textpipe-pattern, 3.6.1, Web mining module for Python., 2019-03-27T12:16:53+0000
+/project/ddg3/, ddg3, 0.6.6, Library for querying the Duck Duck Go API, updated for python3, 2017-08-24T13:26:40+0000
+/project/neural-search/, neural-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:28:02+0000
+/project/mangadl/, MangaDL, 0.2a1, A general purpose Manga scraping utility, 2015-07-01T12:49:21+0000
+/project/jina-search/, jina-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:35:25+0000
+/project/reader/, reader, 1.16, A minimal feed reader library., 2021-03-29T08:47:01+0000
+/project/imagesoup/, imagesoup, 0.1.0, A Python library designed for quick search and downloading images., 2017-09-11T17:28:22+0000
+/project/proxy-middleware/, proxy-middleware, 0.2.0, Scrapy http proxy middleware that gets proxy parameters from settings, 2017-05-29T16:15:41+0000
+/project/allmusic/, allmusic, 0.0.1, AllMusic review scraper, 2018-10-19T17:33:14+0000
+/project/pypygo/, pypygo, 0.1.1, A Python wrapper for the DuckDuckGo instant answer API, 2014-07-02T16:48:03+0000
+/project/django-searchify/, django-searchify, 0.4, Search integration for Django with a focus on indexing, 2012-07-20T17:04:41+0000
+/project/carson-tool-historicalweathertw/, carson-tool.HistoricalWeatherTW, 4.1.0, Bezier curve simulation (including reductions the dimension from 3 to 2), 2020-02-07T09:30:32+0000
+/project/datamart-rest/, datamart-rest, 0.2.5, Client library for DataMart's REST API, 2020-04-09T21:21:13+0000
+/project/doublify-toolkit/, doublify-toolkit, 0.5.2, Doublify API toolkit for Python, 2017-04-13T23:12:00+0000
+/project/googlesuggest/, GoogleSuggest, 1.0.0, This module will help you to grab the Google suggestion for some expression, 2010-11-07T03:06:01+0000
+/project/lunasync/, lunasync, 0.1.4, Keep downloaded booru searches up-to-date, similar to Danbooru subscriptions., 2018-11-21T00:19:39+0000
+/project/blekko/, blekko, 0.1.1, bindings for the Blekko search engine API, 2012-05-25T01:59:59+0000
+/project/hypercouch/, hypercouch, 0.3, Full Text Indexing for CouchDB, 2009-03-13T20:09:21+0000
+/project/super-taxi-api/, super-taxi-api, 0.0.3, Simple taxi booking api, 2020-08-10T12:10:31+0000
+/project/excel2json-3/, excel2json-3, 0.1.6, Convert Excel Sheet into JSON file., 2018-08-09T18:39:03+0000
+/project/mappa/, Mappa, 0.1.0, Topic Maps Engine, 2007-07-01T15:13:13+0000
+/project/sunburnt-python3/, sunburnt-python3, 0.8.1, Python interface to Solr, 2019-11-15T15:10:59+0000
+/project/piratebay/, piratebay, 0.3.1, A python interface to thepiratebay dot org., 2010-09-01T18:50:04+0000
+/project/plush/, plush, 0.3.0, Python LUcene SHell., 2007-04-12T08:37:38+0000
+/project/pyseoanalyzer/, pyseoanalyzer, 4.0.4, An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any technical SEO issues., 2021-01-18T20:40:08+0000
+/project/djambase/, DjamBase, 1.0.16, A Thin JamBase API Client library for Django/Python Applications., 2016-01-26T22:08:49+0000
+/project/fanfictionapi/, FanfictionAPI, 1.0, Library for scraping data from fanfiction.net, 2015-06-29T02:03:28+0000
+/project/duckduckgo/, duckduckgo, 0.1, Library for querying the Duck Duck Go API, 2010-03-18T08:45:01+0000
+/project/oauthbrowser/, OAuthBrowser, 0.0.1, OAuthBrowser is module to do authentications and web scraping., 2020-04-30T22:02:25+0000
+/project/faapi/, faapi, 2.19.1, Python module to implement API-like functionality for the FurAffinity.net website., 2021-04-24T22:12:45+0000
+/project/phenodata/, phenodata, 0.11.0, phenodata is a data acquisition and manipulation toolkit for open access phenology data, 2020-12-29T17:25:08+0000
+/project/lunafind/, lunafind, 0.5.5, Search, filter, inspect, download posts from Danbooru and local folders., 2020-08-25T09:02:12+0000
+/project/wiki-bot/, wiki-bot, 1.3.1, A random wikipedia page generator., 2018-05-09T02:27:40+0000
+/project/pyniland/, pyniland, 1.0.1, Niland API Client for Python, 2016-09-07T15:28:01+0000
+/project/htmltotext/, htmltotext, 0.7.3, Extract text and some metainfo from HTML, coping with malformed pages as well as possible., 2008-12-15T15:34:00+0000
+/project/mrkoll-scraper/, mrkoll-scraper, 0.3.2, mrkoll.se scraper & RSS generator, 2020-08-27T21:03:12+0000
+/project/phonetics/, phonetics, 1.0.5, Compute phonetic key of strings for indexing or fuzzy matching, 2018-03-23T15:38:37+0000
+/project/rockset/, rockset, 0.7.68, Rockset Python Client and `rock` CLI, 2021-02-11T19:08:34+0000
+/project/music-scraper/, music_scraper, 1.1.0, Gets Songs from the web and allows users to download the same, 2016-07-29T16:10:44+0000
+/project/exoskeleton/, exoskeleton, 1.2.5, A library to create a bot / spider / crawler., 2021-04-18T07:45:06+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/redsolutioncms-django-seo/, redsolutioncms.django-seo, 0.3.5, Adds generic SEO fields for objects in your site or specific urls, 2012-05-12T08:05:08+0000
+/project/datamart-nyu/, datamart-nyu, 0.2.5, Client library for NYU's DataMart system, 2020-04-09T21:32:43+0000
+/project/w2m/, w2m, 0.2, www spider producing an adjacency matrix, 2012-01-02T09:51:39+0000
+/project/elasticmagic/, elasticmagic, 0.1.0b0, Python orm for elasticsearch., 2021-04-21T09:45:01+0000
+/project/awstwitter/, awstwitter, 1.0.3, A Python module to make it easy to connect to twitter from AWS, 2017-11-15T04:41:25+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/gank/, gank, 0.0.1, A simple example, 2019-10-18T15:20:46+0000
+/project/wapiti3/, wapiti3, 3.0.4, A web application vulnerability scanner, 2021-02-20T15:03:19+0000
+/project/dp2rathena/, dp2rathena, 0.3.4, Convert Divine-Pride API data to rAthena YAML, 2021-02-15T13:51:38+0000
+/project/hypy/, Hypy, 1.0.1, Pythonic wrapper for Hyper Estraier, 2019-12-14T05:51:01+0000
+/project/lieparse/, lieparse, 1.1.0, HTML parser ant text retriever using user defined rule set, 2020-03-02T22:02:25+0000
+/project/fence/, fence, 0.0.3, BitCoin trending and trading bot, 2013-01-26T21:28:36+0000
+/project/rephunt/, rephunt, 0.1.2, Reputation enhancer for Stack Exchange, 2019-04-28T15:06:43+0000
+/project/downloader/, downloader, 0.98, Download URLs using a compressed disk cache and a random throttling interval., 2016-07-20T17:05:10+0000
+/project/imagebot/, imagebot, 1.2.1, A web bot to crawl websites and scrape images., 2015-07-13T13:02:54+0000
+/project/img-lurker/, img-lurker, 1.0.1, Web gallery downloader, 2019-12-07T23:39:22+0000
+/project/hackernews/, HackerNews, 2.0.0, Python API for Hacker News., 2014-05-12T17:50:52+0000
+/project/yamlious/, yamlious, 0.2.1, Build voluptuous schema from yaml files, 2016-03-23T10:55:07+0000
+/project/pynav2/, pynav2, 2.1, Headless programmatic web browser on top of Requests and Beautiful Soup, 2019-01-25T21:39:57+0000
+/project/medium-search/, Medium-Search, 0.0.5, Search Medium stories using Python, 2020-12-19T14:17:36+0000
+/project/tweeql2solr/, tweeql2solr, 0.1, tweeql2solr - store tweets in solr, 2011-01-14T13:10:58+0000
+/project/mtglib/, mtglib, 0.1, Magic the Gathering Python library, 2016-12-14T17:24:48+0000
+/project/patternfork-nosql/, patternfork-nosql, 3.6, Web mining module for Python., 2020-08-25T20:36:32+0000
+/project/redtube/, redtube, 0.5.0, Python module to access RedTube API, 2012-10-20T20:03:13+0000
+/project/keyfree/, keyfree, 1.0.0, An authentication proxy for Amazon Elasticsearch Service, 2016-11-13T13:47:00+0000
+/project/xapian-haystack/, xapian-haystack, 2.1.1, A Xapian backend for Haystack, 2017-05-22T16:34:23+0000
+/project/discodoc/, discodoc, 0.3.0, discodoc - create documents from Discourse content easily, 2019-08-13T02:30:27+0000
+/project/pysolr-aio/, pysolr-aio, 3.8.1.1, Lightweight Python client for Apache Solr, 2020-02-20T20:58:28+0000
+/project/backache/, backache, 0.0.7, Docido software development kit for Python, 2015-10-23T10:51:06+0000
+/project/zicbee-mplayer/, zicbee-mplayer, 0.9.1, MPlayer backend for zicbee project, 2010-06-14T19:45:00+0000
+/project/pyramid-rawes/, pyramid_rawes, 0.5.1, Rawes bindings for pyramid, 2014-09-26T20:36:34+0000
+/project/duckduckgo2/, duckduckgo2, 0.242, Library for querying the DuckDuckGo API, 2013-06-03T00:44:02+0000
+/project/spidy-web-crawler/, spidy-web-crawler, 1.6.5, Spidy is the simple, easy to use command line web crawler., 2018-01-25T01:01:26+0000
+/project/rets-python/, rets-python, 0.4.5, rets-python, 2020-08-02T08:00:51+0000
+/project/gnes/, gnes, 0.0.47, GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network., 2019-11-06T10:12:58+0000
+/project/mensa-kl-cli/, mensa-kl-cli, 0.1, , 2019-03-18T13:58:02+0000
+/project/soft-404/, soft-404, 0.4.0, A classifier for detecting soft 404 pages, 2020-09-03T20:40:29+0000
+/project/yarr-client/, yarr.client, 0.2.1, Web-based client for Yarr!, 2015-09-11T12:01:26+0000
+/project/grafana-pandas-datasource/, grafana-pandas-datasource, 0.1.2, Serve Pandas dataframes to Grafana, 2020-12-27T10:19:06+0000
+/project/pypes/, pypes, 1.1.0, An actor based programming framework, 2010-03-05T22:57:21+0000
+/project/pattern/, Pattern, 3.6, Web mining module for Python., 2018-08-18T17:48:04+0000
+/project/docido-sdk/, docido-sdk, 0.3.5, Docido software development kit for Python, 2017-06-26T08:02:13+0000
+/project/adsutils/, adsutils, 1.0.33, A Python tool with some general ADS utilities, 2016-10-11T15:18:53+0000
+/project/zicbee-gst/, zicbee-gst, 0.6.1, Gstreamer backend for zicbee project, 2010-06-14T19:42:13+0000
+/project/noncrawl/, noncrawl, 0.1, A web crawler creating link soups, 2010-07-28T20:58:05+0000
+/project/serpextract-meiqia/, serpextract-meiqia, 2019.1.15.0, Easy extraction of keywords from search engine results pages (SERPs)., 2019-03-15T04:09:11+0000
+/project/webchanges/, webchanges, 3.4.1, Check web (or commands) for changes since last run and notify., 2021-04-17T06:45:28+0000
+/project/uk-covid19/, uk-covid19, 1.2.2, SDK for the COVID-19 API (Coronavirus Dashboard in the UK), 2021-04-22T13:18:37+0000
+/project/phils-amazon-price-tracker/, Phils-Amazon-Price-Tracker, 1.2.0.dev1, An Amazon Product Price Tracker, 2016-07-13T16:54:30+0000
+/project/tpb/, tpb, 1.3.6, Unofficial Python API for ThePirateBay., 2019-12-24T15:50:09+0000
+/project/cockatrice/, cockatrice, 0.7.1, Full text search and indexing server., 2019-01-15T00:02:58+0000
+/project/bungee/, bungee, 0.1, Python models and query expressions for ElasticSearch, 2013-07-08T06:43:23+0000
+/project/ze/, ze, 0.0.17.dev1, Scaper to lager portal of news in Brazil., 2017-04-19T03:17:50+0000
+/project/sunny/, sunny, 0.0.4, Minimalistic interface to Solr., 2013-07-15T12:22:53+0000
+/project/datatreegrab/, DataTreeGrab, 1.04.00, Node-Tree based data extraction, 2017-07-10T23:46:14+0000
+/project/bing-commerce-search/, bing-commerce-search, 1.0.0, Microsoft Bing for Commerce ingestion SDK for Python, 2020-03-06T19:35:09+0000
+/project/manticoresearch/, manticoresearch, 1.0.5, Python client for Manticore Search, 2020-12-03T15:31:13+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/blyrics/, blyrics, 1.1, Python client for the GENIUS API -     Also for getting latest articles and charts, 2020-05-28T02:11:02+0000
+/project/dicio/, Dicio, 1.3.0, Unofficial Python API for Dicio., 2019-10-27T14:43:02+0000
+/project/lightnovelapi/, lightnovelapi, 0.2, Client sided API to light novel hosters, 2020-01-06T13:43:51+0000
+/project/serpextract/, serpextract, 0.7.2, Easy extraction of keywords from search engine results pages (SERPs)., 2021-04-21T14:39:25+0000
+/project/proxybroker/, proxybroker, 0.3.2, [Finder/Checker/Server] Finds public proxies from multiple sources and concurrently checks them. Supports HTTP(S) and SOCKS4/5., 2019-03-12T19:47:46+0000
+/project/gamefaqs-py/, gamefaqs-py, 0.2.8, Retrieve and manage game data from GameFAQS., 2015-09-14T02:16:54+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/curious/, curious, 1.2.0, Graph-based data exploration tool, 2018-04-06T15:40:17+0000
+/project/collective-opensearch/, collective.opensearch, 1.6, Collective Opensearch Collective.opensearch adds the ability to produce search results in the simple OpenSearch format., 2017-11-20T12:48:43+0000
+/project/coinmetrics/, coinmetrics, 0.2.5, An unofficial library to standardize queries to the Coin Metrics (coinmetrics.io) API., 2020-04-25T23:35:45+0000
+/project/galerts/, galerts, 0.1.5, Python libary for managing Google Alerts, 2009-12-10T22:53:10+0000
+/project/eventregistry/, eventregistry, 8.9, A package that can be used to query information in Event Registry (http://eventregistry.org/), 2020-10-21T16:39:19+0000
+/project/lyricsmaster/, lyricsmaster, 2.8.1, LyricsMaster is a library for downloading lyrics from multiple lyrics providers. LyricWiki, AzLyrics, Genius, Lyrics007, MusixMatch and other lyrics provider are available, 2019-04-07T13:56:22+0000
+/project/tldsearcher/, tldsearcher, 1.2.0, A tool for finding TLDs for domains, 2020-09-07T08:18:05+0000
+/project/lkd/, lkd, 2, UNKNOWN, 2013-12-14T18:42:27+0000
+/project/pokeycrawl/, pokeycrawl, 0.1.1a5, A python webcrawler, 2016-06-13T18:25:38+0000
+/project/products-zcatalog/, Products.ZCatalog, 6.0, Zope's indexing and search solution., 2020-10-08T06:21:02+0000
+/project/pysolarized/, PySolarized, 1.4.1, A simple library for accessing Apache Solr full-text search engine. Allows updating and queries overmultiple cores., 2014-05-28T08:21:37+0000
+/project/forager/, forager, 1.15.3, A utility for finding feeds on websites, 2020-06-20T09:13:37+0000
+/project/creepy/, creepy, 0.1.6, Dead simple web crawler for Python, 2016-04-24T07:08:45+0000
+/project/ebookkit/, ebookkit, 0.0.1, helps creating ebooks, 2014-04-22T18:46:25+0000
+/project/selenium-update/, selenium-update, 0.0.0, Automate Selenium webdriver dependency set up, 2020-08-09T10:21:26+0000
+/project/autologin/, autologin, 0.1.4, A utility for finding login links, forms and autologging into websites with a set of valid credentials., 2017-05-24T08:49:17+0000
+/project/crawlerdetect/, crawlerdetect, 0.1.4, CrawlerDetect is a Python class for detecting bots/crawlers/spiders via the user agent., 2019-08-16T07:46:31+0000
+/project/elastic-neural-search/, elastic-neural-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:35:12+0000
+/project/muncher/, muncher, 0.0.1, Food API, 2021-03-18T20:46:18+0000
+/project/kerko/, Kerko, 0.7.1, A Flask blueprint that provides a faceted search interface for bibliographies based on Zotero., 2021-02-05T00:15:55+0000
+/project/python-ted/, python-ted, 0.0.6, Python library for the University of Edinburgh's T@Ed Timetabling Service, 2014-03-19T02:45:03+0000
+/project/searchtester/, searchtester, 0.6, Simple system for testing search results, and using that to measure effectiveness of your current search ranking, 2011-06-14T14:07:12+0000
+/project/cleversession/, cleversession, 0.0.1a1, A CleverDict subclass to handle selenium webbrowser sessions, 2021-01-06T07:35:54+0000
+/project/thetrove-downloader/, thetrove-downloader, 1.0.2, Download utility for thetrove.is, 2021-03-08T07:24:08+0000
+/project/down-frab-videos/, down-frab-videos, 0.5.7, Download videos and lecture attachments from CCC events, 2019-12-30T13:06:31+0000
+/project/ducker/, ducker, 2.0.1, Program that lets you search with DuckDuckGo from the command line., 2017-04-08T17:56:30+0000
+/project/helios-client/, helios-client, 0.3.dev20200304, Pure python 3 module to communicate with a Helios server., 2020-03-05T03:29:52+0000
+/project/pydemo/, pydemo, 0.0.1, A simple example, 2019-09-15T08:01:27+0000
+/project/collective-geo-index/, collective.geo.index, 0.1, spatialindex for collective.geo, 2012-02-16T10:06:30+0000
+/project/estraiernative/, estraiernative, 0.2, Python native binding for Hyper Estraier, 2007-04-19T15:23:24+0000
+/project/tarantula/, tarantula, 1.1.0b1, Movie Indexer, 2012-01-11T11:18:22+0000
+/project/esclient/, ESClient, 0.5.8, A lightweight Python client for ElasticSearch, including a dump and import tool for indexes, 2014-04-21T20:30:08+0000
+/project/microsearch/, microsearch, 1.0.0, A small search library., 2012-02-23T06:51:28+0000
+/project/cardify/, cardify, 0.1.0, Cardify - A set of GPLv3+ libraries to deal with carding information., 2016-03-19T17:11:39+0000
+/project/crawlerdetect-coreteam/, crawlerdetect-coreteam, 0.1.5, CrawlerDetect is a Python class for detecting bots/crawlers/spiders via the user agent., 2020-10-15T06:52:24+0000
+/project/vigil-cli/, vigil-cli, 0.3, Automatically monitor websites for changes, 2019-02-09T20:00:58+0000
+/project/nhentai-downloader/, nhentai-downloader, 0.5.5.2, Nhentai doujinshi fetcher and downloader, 2019-08-08T22:48:29+0000
+/project/chemdataextractor-ide/, ChemDataExtractor-IDE, 1.3.2, A toolkit for extracting chemical information from the scientific literature., 2019-11-28T14:09:56+0000
+/project/animapy/, Animapy, 1.5.3.1, An anime API for python, 2014-11-22T12:54:35+0000
+/project/pylastica/, pylastica, 1.3.0.0, Python port of Nicolas Ruflin's Elastica PHP library, 2014-07-23T23:46:26+0000
+/project/cheshire3/, cheshire3, 1.1.8, Cheshire3 Search and Retrieval Engine and Information Framework, 2014-07-24T15:06:22+0000
+/project/spotify-podcast-rss/, spotify-podcast-rss, 0.3.2, RSS for Spotify podcasts, 2020-06-30T19:57:55+0000
+/project/pyes-fatisar/, pyes-fatisar, 5.0.0, Python Elastic Search driver, 2017-04-07T22:40:51+0000
+/project/sphinxtools/, sphinxtools, 0.2, Paver tasks for Sphinx Search server, 2011-01-21T17:14:44+0000
+/project/pysolr/, pysolr, 3.9.0, Lightweight Python client for Apache Solr, 2020-04-17T20:16:24+0000
+/project/translitua/, translitua, 1.3.1, Official transliteration for ukrainian language, 2020-05-11T14:24:09+0000
+/project/tensorflow-search/, tensorflow-search, 0.6.8, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-14T18:37:59+0000
+/project/properly-rets/, properly-rets, 0.5.13, properly-rets, 2020-06-19T21:23:28+0000
+/project/curlwrapper/, curlwrapper, 0.1.110, curlwrapper (browser interface for curl), 2011-11-08T03:48:09+0000
+/project/lupyne/, lupyne, 2.5, Pythonic search engine based on PyLucene., 2020-11-24T23:16:06+0000
+/project/pitchfork/, pitchfork, 0.1.5, Unofficial API for pitchfork.com reviews, 2018-08-20T18:16:12+0000
+/project/osrframework/, osrframework, 0.20.4, OSRFramework - A set of AGPLv3+ OSINT tools developed by i3visio analysts for online research., 2021-02-11T13:29:33+0000
+/project/odls-client/, odls.client, 0.1, A Python client for ODLS, 2010-12-21T10:20:14+0000
+/project/osrframework-server/, osrframework-server, 0.18.0a4, OSRFramework Server - A HTTP server writen in Python to interact with OSRFramework., 2017-12-03T18:32:46+0000
+/project/lunakit/, lunakit, 0.4.9.post3, Obsolete - See https://pypi.org/project/lunafind instead., 2018-11-10T00:37:37+0000
+/project/scrapeswa/, scrapeswa, 0.0.4, A Simple Scraper for Southwest Airlines, 2019-02-07T08:16:02+0000
+/project/pug/, pug, 0.1.22, Meta package to install the PDX Python User Group utilities., 2015-04-16T00:19:56+0000
+/project/zicbee-vlc/, zicbee-vlc, 0.9.2, VLC backend for zicbee project, 2010-06-14T19:43:38+0000
+/project/ottawacityjobs/, OttawaCityJobs, 0.1.3, Yet another ottawa city jobs scrapper, 2015-11-10T18:44:52+0000
+/project/addic7ed/, addic7ed, 1.1.5, Addic7ed scraper written in Python to download subtitles (almost) automatically, 2017-03-20T09:45:24+0000
+/project/simpleaudioindexer/, SimpleAudioIndexer, 1.0.0, Indexes audio files and searches for words/phrases or matches regex patterns within them., 2017-02-12T00:02:50+0000
+/project/vec-search/, vec-search, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:28:21+0000
+/project/downloader-py3/, downloader-py3, 1.0.2, Download URLs using a compressed disk cache and a random throttling interval., 2018-06-21T11:04:53+0000
+/project/inelastic/, inelastic, 0.2.4, Print an Elasticsearch inverted index as a CSV table or JSON object., 2019-08-08T23:18:53+0000
+/project/pyexifinfo/, pyexifinfo, 0.4.0, Simple Metadata extraction using Exiftool, 2016-10-08T07:17:11+0000
+/project/zicbee-mpris/, zicbee-mpris, 1.0, MPRIS backend for zicbee project, 2012-06-06T19:22:48+0000
+/project/hausastemmer/, hausastemmer, 1.0, Hausa language stemmer (Bimba et al., 2015), 2016-12-06T17:12:58+0000
+/project/asyncproxybroker/, asyncproxybroker, 0.0.2, Library to asynchronously find and use public proxies from multiple sources., 2021-01-02T14:42:41+0000
+/project/duckduckgo3/, duckduckgo3, 0.242, Library for querying the DuckDuckGo API, 2020-01-25T10:18:21+0000
+/project/gina/, gina, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:27:28+0000
+/project/torfy/, torfy, 0.2.1, Torfy - A set of GPLv3+ libraries to deal with Tor connections., 2016-03-06T22:00:36+0000
+/project/django-multilingual-search/, django-multilingual-search, 2.4.1, A drop-in replacement for the Haystack Elasticsearch backend which allows multilingual indexes for Django., 2016-11-20T19:50:11+0000
+/project/pholcidae/, pholcidae, 0.0.3, pholcidae - Tiny python web crawler library, 2012-12-28T15:30:55+0000
+/project/hntop/, hntop, 0.0.10, Python wrapper over HackerNews Firebase API, 2016-04-07T17:43:04+0000
+/project/movie-blog-search-engine/, movie-blog-search-engine, 0.5, Search on movie-blog for download links, 2020-10-21T07:27:32+0000
+/project/mechanize/, mechanize, 0.4.5, Stateful programmatic web browsing., 2019-12-22T09:18:43+0000
+/project/esbench/, esbench, 0.2.3, Elasticsearch performance benchmark tool, 2014-01-22T00:53:09+0000
+/project/ebdata/, ebdata, 1.2, Data scraper infrastructure for OpenBlock (hyperlocal news for Django), 2012-05-24T17:27:38+0000
+/project/recommendy/, recommendy, 0.0.2, Python3 recommendation system, 2015-07-11T07:50:42+0000
+/project/getty/, getty, 0.2.0, Getty Images Bank API Client, 2012-11-05T16:16:48+0000
+/project/pyramid-es/, pyramid_es, 0.3.1, Elasticsearch integration for Pyramid., 2014-12-01T05:50:32+0000
+/project/algoliasearchasync/, algoliasearchasync, 1.3.2, Algolia Search Asyncronous API Client for Python, 2018-04-26T07:30:37+0000
+/project/edge-genome/, edge-genome, 2.18.0, Genome Engineering Tool, 2021-04-16T19:12:25+0000
+/project/pystemmer/, PyStemmer, 2.0.1, Snowball stemming algorithms, for information retrieval, 2020-07-15T11:51:49+0000
+/project/ze-the-scraper/, ze-the-scraper, 0.0.17.dev1, Scaper to lager portal of news in Brazil., 2017-04-19T03:17:37+0000
+/project/django-seo/, django-seo, 0.3.5, Adds generic SEO fields for objects in your site or specific urls, 2012-05-12T08:06:52+0000
+/project/domainr/, domainr, 1.0.0, Dead-Simple way to interact with Domai.nr JSON API, 2012-04-24T01:41:31+0000
+/project/pug-dj/, pug-dj, 0.0.18, # pug-dj, 2015-04-02T21:57:14+0000
+/project/aiosolr/, aiosolr, 3.3.2, Lightweight Python client for Apache Solr., 2021-02-19T22:49:33+0000
+/project/pysolr-tornado/, pysolr-tornado, 4.0.1, A library to access Solr via Tornado coroutines., 2016-06-20T20:40:12+0000
+/project/purestemmer/, purestemmer, 0.1.1, Pure-Python implementations of the Snowball stemmers, 2014-08-08T11:45:33+0000
+/project/spcli/, spcli, 1.0.3, Search Startpage.com from the terminal., 2019-10-10T09:43:07+0000
+/project/leak/, leak, 1.2.0, Show available releases for package, 2018-10-11T08:46:41+0000
+/project/kisscartoon-api/, kisscartoon-api, 0.1, The unofficial API for KissCartoon websites, 2017-04-16T21:39:13+0000
+/project/autologin-middleware/, autologin-middleware, 0.1.6, A Scrapy middleware to use with autologin, 2017-04-05T12:46:12+0000
+/project/poogle/, Poogle, 0.1.0, Poogle is a Google scraping library and command line utility for Python., 2015-11-30T22:49:41+0000
+/project/animelyrics/, animelyrics, 0.1.0, Library to extract song lyrics from www.animelyrics.com, 2019-06-23T09:16:40+0000
+/project/gnosis-utils/, Gnosis_Utils, 1.2.2, Modules and Utilities for XML Documents and Other Miscellany, 2015-02-25T05:10:29+0000
+/project/dubizzle/, dubizzle, 0.1, A scraping-based API for Dubizzle., 2015-02-06T23:00:30+0000
+/project/pyufc/, pyufc, 0.11, A Python wrapper for API access to the UFC fighter roster, 2016-02-02T14:44:21+0000
+/project/pyroonga/, pyroonga, 0.5.2, Python interface for groonga, 2013-09-17T04:29:28+0000
+/project/falocalrepo/, falocalrepo, 3.23.11, Pure Python program to download any user's gallery, scraps, favorites, and journals from FurAffinity in an easily handled database., 2021-04-23T23:01:55+0000
+/project/dingonyms/, dingonyms, 0.5, fetch synonyms from various web services, 2021-03-04T15:09:00+0000
+/project/python3-redtube/, python3-redtube, 0.5.0, module to access RedTube API - updated to Python 3, 2017-05-16T00:58:56+0000
+/project/xxkcd/, xxkcd, 1.4.0, An (unofficial) Python wrapper around xkcd APIs, 2019-03-26T22:08:41+0000
+/project/django-xappy/, django-xappy, 0.1, Bridges the Xappy/Xapian search engine library with the Django web framework., 2008-08-13T18:12:15+0000
+/project/pynav/, pynav, 1.0, Python programmatic web browser to fetch data and test web sites, 2018-10-11T19:28:06+0000
+/project/sphinx-fakeinv/, sphinx-fakeinv, 1.0.0, Generate fake Intersphinx inventory, 2016-09-18T18:39:01+0000
+/project/kolibri-opensearch-plugin/, kolibri-opensearch-plugin, 0.0.2, Kolibri plugin to provide an OpenSearch compatible API, 2020-02-20T18:22:12+0000
+/project/pyllage/, pyllage, 0.1.2, A web scraping tool in Python 3, 2013-04-06T08:32:53+0000
+/project/tv-grab-py-api/, tv_grab_py_API, 1.0.7, xlmtv API based on JSON datafiles, 2017-07-11T02:30:02+0000
+/project/pitchfork-api/, pitchfork-api, 0.0.4, Unofficial API for pitchfork.com reviews, maintained version of pitchfork, 2018-08-17T18:10:29+0000
+/project/tpblite/, tpblite, 0.7.1, The Unofficial Pirate Bay Lightweight Python API, 2021-03-24T09:51:23+0000
+/project/pattern3/, pattern3, 3.0.0, Web mining module for Python., 2017-03-13T21:55:59+0000
+/project/soft404/, soft404, 0.2.1, A classifier for detecting soft 404 pages, 2017-05-22T20:51:01+0000
+/project/obdemo/, obdemo, 1.2, Demo website configuration for OpenBlock (hyperlocal news for Django), 2012-05-24T17:29:27+0000
+/project/rockset-sqlcli/, rockset-sqlcli, 0.7.68, Rockset SQL REPL for `rock sql`, 2021-02-11T19:08:36+0000
+/project/bypaxpan/, bypaxpan, 0.1, Ferramenta para bypassar análises de processamento de linguagem natural :knife:, 2020-11-24T19:53:39+0000
+/project/osrframework-console/, osrframework-console, 0.18.0, OSRFramework Console - A terminal-based user interface to interact with OSRFramework utils., 2018-02-04T19:00:18+0000
+/project/algoliasearch/, algoliasearch, 2.4.0, Algolia Search API Client for Python., 2020-08-10T08:45:40+0000
+/project/postal/, postal, 1.1.9, Python bindings to libpostal for fast international address parsing/normalization, 2020-07-21T03:23:02+0000
+/project/youtube-sm/, youtube-sm, 2021.4.13, Youtube subscription manager, 2021-04-13T15:06:56+0000
+/project/censys/, censys, 1.1.1, An easy-to-use and lightweight API wrapper for the Censys Search Engine (censys.io)., 2021-02-23T19:08:41+0000
+/project/bbb-dl/, bbb-dl, 0.7.2, Big Blue Button Downloader that downloads a BBB lesson as MP4 video, 2021-03-25T12:24:49+0000
+/project/visualsnoop/, visualsnoop, 0.2, VisualSnoop Client module for Python, 2015-01-29T22:08:23+0000
+/project/sitemap/, sitemap, 20191121, Sitemap library, 2019-11-20T06:36:21+0000
+/project/orchid/, Orchid, 1.1, Generic Multi Threaded Web Crawler, 2007-04-02T13:09:44+0000
+/project/libzim/, libzim, 0.0.3.post0, A python-facing API for creating and interacting with ZIM files, 2020-07-03T10:42:26+0000
+/project/jobtimize/, Jobtimize, 0.0.5a2, Collect and standardize data on job posting platforms., 2020-09-30T13:21:08+0000
+/project/zicbee-lib/, zicbee-lib, 0.7.3, Base client libraries for zicbee project, 2011-01-18T11:25:07+0000
+/project/debmans/, debmans, 1.0.0, Extract and render manuals from Debian packages, 2016-11-22T04:44:19+0000
+/project/sentence-splitter/, sentence-splitter, 1.4, Text to sentence splitter using heuristic algorithm by Philipp Koehn and Josh Schroeder, 2019-01-14T17:11:23+0000
+/project/relevance/, relevance, 0.5.0, Relevance, Full-stack search engine, core module., 2017-12-08T06:31:48+0000
+/project/ultimate-sitemap-parser/, ultimate-sitemap-parser, 0.5, Ultimate Sitemap Parser, 2019-07-31T11:15:46+0000
+/project/cleverweb/, cleverweb, 0.0.1a1, A collection of methods used by CleverSession for accessing common sites using selenium., 2021-01-06T07:52:19+0000
+/project/url-summary/, url-summary, 0.0.4, Display a summary of urls in a notebook, 2017-05-11T12:51:26+0000
+/project/mariner/, mariner, 1.5.1, Navigate torrents in CLI, 2021-02-07T14:13:14+0000
+/project/ciag-robot/, ciag-robot, 0.3.0, Python Library to Build Web Robots, 2021-01-07T17:33:11+0000
+/project/scrapper/, Scrapper, 0.9.5, Scrapper is small, Python web scraping library, 2017-02-04T10:24:07+0000
+/project/metated/, metaTED, 2.1.5, Creates metalink files of TED talks for easier downloading, 2019-08-27T19:59:12+0000
+/project/quintagroup-seoptimizer/, quintagroup.seoptimizer, 4.3, Quintagroup Search Engine Optimization Tool, 2013-09-18T11:34:05+0000
+/project/clip-by-openai/, clip-by-openai, 0.1.1.5, CLIP by OpenAI, 2021-01-31T06:08:13+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/take/, take, 0.2.0, A DSL for extracting data from a web page., 2015-04-15T08:19:23+0000
+/project/django-statistic/, django-statistic, 1.0, Statistic for django models, 2013-08-26T15:44:40+0000
+/project/hacker-news/, hacker_news, 2.1.4, Python wrapper for Hacker News API., 2015-05-22T09:33:25+0000
+/project/esdocs/, esdocs, 0.6.2, Serialization & bulk indexing package for Elasticsearch; based on elasticsearch-dsl.py, supports multi-processing, Django, 2019-06-28T20:37:23+0000
+/project/searchyt/, searchyt, 0.1.1, Lightweight Python 3 library for searching youtube videos without API key, 2019-10-27T18:02:11+0000
+/project/censys-maltego/, censys-maltego, 2.0.0b1, This package provides an interface into Censys from Maltego., 2021-04-22T14:13:21+0000
+/project/zerodbext-catalog/, zerodbext.catalog, 0.8.4, Searching and indexing based on zope.index. Fork of repoze.catalog, 2016-03-12T22:03:19+0000
+/project/cpydemo/, cpydemo, 0.0.1, A simple example, 2019-09-15T08:13:42+0000
+/project/moodle-dl/, moodle-dl, 2.1.2.5, A Moodle downloader that downloads course content fast from Moodle (eg. lecture pdfs), 2021-03-08T10:10:23+0000
+/project/django-slug-lookup/, django-slug-lookup, 0.0.2, Django model string field lookup by automatically(internally) treating string as a slug., 2018-08-19T05:15:52+0000
+/project/score-es7/, score.es7, 0.0.2, ElasticSearch integration for The SCORE Framework, 2021-01-05T15:03:14+0000
+/project/text-hr/, text-hr, 0.20, Morphological/Inflection/Lemmatization Engine for Croatian language, POS tagger, stopwords, 2020-05-07T16:10:05+0000
+/project/jinad/, jinad, 0.0.7, Jinad is the daemon tool for running Jina on remote machines. Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2021-01-05T19:50:49+0000
+/project/elasticsearch2-haystack/, elasticsearch2-haystack, 0.1, An elasticsearch2 compatible backend for Haystack, 2016-12-05T17:45:25+0000
+/project/mechanize/, mechanize, 0.4.5, Stateful programmatic web browsing., 2019-12-22T09:18:43+0000
+/project/esbench/, esbench, 0.2.3, Elasticsearch performance benchmark tool, 2014-01-22T00:53:09+0000
+/project/ebdata/, ebdata, 1.2, Data scraper infrastructure for OpenBlock (hyperlocal news for Django), 2012-05-24T17:27:38+0000
+/project/recommendy/, recommendy, 0.0.2, Python3 recommendation system, 2015-07-11T07:50:42+0000
+/project/getty/, getty, 0.2.0, Getty Images Bank API Client, 2012-11-05T16:16:48+0000
+/project/obadmin/, obadmin, 1.2, Setup and administrative tools for OpenBlock (hyperlocal news for Django), 2012-05-24T17:28:44+0000
+/project/elseql/, elseql, 0.3.0, SQL-like command line client for ElasticSearch, 2018-02-07T02:04:55+0000
+/project/sdmenu/, sdmenu, 1.0.0, A simple way to query UC San Diego's HDH dining halls, 2021-02-18T19:34:07+0000
+/project/torvend/, torvend, 0.0.1, A framework for public torrent vendor scrapers, 2017-12-19T14:48:18+0000
+/project/libearth/, libearth, 0.3.3, The shared common library for Earth Reader apps, 2014-11-05T18:30:33+0000
+/project/pyramid-es/, pyramid_es, 0.3.1, Elasticsearch integration for Pyramid., 2014-12-01T05:50:32+0000
+/project/algoliasearchasync/, algoliasearchasync, 1.3.2, Algolia Search Asyncronous API Client for Python, 2018-04-26T07:30:37+0000
+/project/edge-genome/, edge-genome, 2.18.0, Genome Engineering Tool, 2021-04-16T19:12:25+0000
+/project/pystemmer/, PyStemmer, 2.0.1, Snowball stemming algorithms, for information retrieval, 2020-07-15T11:51:49+0000
+/project/digiglass/, digiglass, 1.0.4, Search Digi-Key from your terminal, 2015-05-21T20:54:05+0000
+/project/nova6/, nova6, 2.0.1, A torrent search engine based on qBittorrent's, 2017-08-02T19:50:36+0000
+/project/muchspace/, muchspace, 0.3.2, A CLI utility in python3 to calulate total disk space required for media links, 2018-06-12T04:51:38+0000
+/project/tf-search/, tf-search, 0.6.6, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-12T22:27:19+0000
+/project/csquery/, csquery, 0.1.4, A simple query builder for Amazon Cloudsearch structured query parser., 2015-11-25T04:23:21+0000
+/project/extract-html-diff/, extract-html-diff, 0.1.0, Extract difference between two html pages, 2017-02-20T16:27:48+0000
+/project/hacklib/, hacklib, 0.1.6, Toolkit for hacking enthusiasts using Python., 2016-09-30T07:28:36+0000
+/project/convert2json/, convert2json, 0.0.2, Convert compatible python data types, CSV, XLSX, XLS files to JSON string., 2018-08-08T08:03:52+0000
+/project/asyncproxybroker/, asyncproxybroker, 0.0.2, Library to asynchronously find and use public proxies from multiple sources., 2021-01-02T14:42:41+0000
+/project/getrails/, getrails, 3.1, Tool of OSINT and Dork hacking that work with Google and Duckduckgo, 2020-12-16T19:48:04+0000
+/project/duckduckgo3/, duckduckgo3, 0.242, Library for querying the DuckDuckGo API, 2020-01-25T10:18:21+0000
+/project/gina/, gina, 0.6.3, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2020-10-03T21:27:28+0000
+/project/django-rest-fuzzysearch/, django-rest-fuzzysearch, 0.5.1, Fuzzy Search for Django REST Framework, 2017-09-02T16:14:01+0000
+/project/parsero/, parsero, 0.81, A Python based Robots.txt audit tool, 2014-09-29T11:21:16+0000
+/project/dsw-tdk/, dsw-tdk, 2.13.0, Data Stewardship Wizard Template Development Toolkit, 2021-04-24T15:48:45+0000
+/project/polymr/, polymr, 1.0.0, Index and search lots of small documents, 2018-03-01T01:24:21+0000
+/project/mtg/, mtg, 1.6.1, Console-based access to the Gatherer Magic Card Database., 2016-05-17T15:26:32+0000
+/project/django-seo2/, django-seo2, 1.0.1, A framework for managing SEO metadata in Django., 2016-01-05T08:51:10+0000
+/project/salted/, salted, 0.6.1, Smart, Asynchronous Link Tester with Database backend, 2021-01-22T19:02:39+0000
+/project/calcpkg/, calcpkg, 2.0.1, ticalc.org package manager, 2014-07-22T00:57:51+0000
+/project/pyes/, pyes, 0.99.6, Python Elastic Search driver, 2015-10-18T12:27:38+0000
+/project/nyaalib/, nyaalib, 0.0.6, Python library for Nyaa, 2015-03-05T08:13:32+0000
+/project/oktavia/, oktavia, 0.5.0, High performance pure Python/JavaScript search engine, 2014-10-26T13:31:00+0000
+/project/torfy/, torfy, 0.2.1, Torfy - A set of GPLv3+ libraries to deal with Tor connections., 2016-03-06T22:00:36+0000
+/project/django-multilingual-search/, django-multilingual-search, 2.4.1, A drop-in replacement for the Haystack Elasticsearch backend which allows multilingual indexes for Django., 2016-11-20T19:50:11+0000
+/project/pholcidae/, pholcidae, 0.0.3, pholcidae - Tiny python web crawler library, 2012-12-28T15:30:55+0000
+/project/hntop/, hntop, 0.0.10, Python wrapper over HackerNews Firebase API, 2016-04-07T17:43:04+0000
+/project/movie-blog-search-engine/, movie-blog-search-engine, 0.5, Search on movie-blog for download links, 2020-10-21T07:27:32+0000
+/project/solrq/, solrq, 1.1.1, Python Solr query utility, 2017-03-05T15:49:02+0000
+/project/solrcloudpy/, solrcloudpy, 4.0.1, python library for interacting with SolrCloud, 2020-02-12T13:32:17+0000
+/project/dinsort/, dinsort, 0.2, Sort terms according to German DIN., 2015-10-14T12:46:38+0000
+/project/pyrailgun/, pyrailgun, 0.26, Fast Crawler For Python, 2014-06-10T12:34:02+0000
+/project/duckduckgo-search/, duckduckgo-search, 0.3, Duckduckgo.com search results, 2021-04-25T20:40:32+0000
+/project/jina/, jina, 1.1.10, Jina is the cloud-native neural search solution powered by the state-of-the-art AI and deep learning, 2021-04-25T23:04:12+0000
+/project/yt-videos-list/, yt-videos-list, 0.5.5, YouTube bot to make a YouTube videos list (including all video titles and URLs uploaded by a channel) with end-to-end web scraping - no API tokens required. 🌟 Star this repo if you found it useful! 🌟, 2021-04-26T00:41:23+0000
+/project/vectorai-nightly/, vectorai-nightly, 0.2.5.2021.4.26, A Python framework for building vector based applications. Encode, query and analyse data using vectors., 2021-04-26T00:44:01+0000

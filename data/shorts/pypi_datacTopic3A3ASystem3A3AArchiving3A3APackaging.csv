@@ -1,0 +1,360 @@
+/project/vanguardistas-pydebdep/, vanguardistas.pydebdep, 0.1.2, Make egg dependency information available for Debian packaging, 2009-06-05T11:23:03+0000
+/project/meta-package-manager/, meta-package-manager, 3.6.0, CLI unifying Homebrew, apt, Chocolatey, Pip, NPM, Composer and the like., 2021-01-03T15:08:16+0000
+/project/pyshop/, pyshop, 1.3.0, Private Python Package Index, 2017-06-29T19:47:07+0000
+/project/setuptools-autover/, setuptools-autover, 1.0.2, Automatic package version numbering from version control, 2020-04-10T03:39:23+0000
+/project/py2exe2msi/, py2exe2msi, 0.0.2, An easy way to create Windows standalone applications in Python, 2011-12-21T13:43:04+0000
+/project/microarchiver/, microarchiver, 1.12.0, Archives articles from microPublication.org, 2021-04-17T00:20:08+0000
+/project/pyipcmi/, pyIPCMI, 1.1.5, An IP Core Management Infrastructure written in Python - pyIPCMI., 2019-10-13T23:30:09+0000
+/project/minideblib/, minideblib, 0.6.21.29, Access to deb files and repositories, 2008-05-07T20:50:03+0000
+/project/srcinfo/, srcinfo, 0.0.8, A small library to parse .SRCINFO files, 2016-04-13T18:18:11+0000
+/project/pydebsign/, pydebsign, 0.1.5, yet another library of debsign, 2015-08-25T06:47:04+0000
+/project/nimbstor/, nimbstor, 1.0.1, Store incrementally, compressed and encrypted data failsafe in filesystems, sFTP, WebDAV, IMAP or other backends., 2012-03-18T10:24:27+0000
+/project/osc/, osc, 0.167.2, openSUSE commander, 2020-02-13T14:02:00+0000
+/project/tarwalker/, tarwalker, 1.1, A library to walk through tar archives, simplifying use by handling listing and decompression., 2018-09-16T03:08:23+0000
+/project/pi/, pi, 0.1.2, Simpler python package installation, 2014-05-05T14:43:11+0000
+/project/slpkg/, slpkg, 3.9.1, Package manager for Slackware installations, 2021-01-02T15:45:53+0000
+/project/whey/, whey, 0.0.13, A simple Python wheel builder for simple projects., 2021-04-20T18:20:58+0000
+/project/devpi-builder/, devpi-builder, 5.0.1, Devpi-builder takes a requirements.txt and incrementally fills a devpi index with wheels of the listed python packages., 2020-09-09T10:05:42+0000
+/project/cmake-build-extension/, cmake-build-extension, 0.1, Setuptools extension to build and package CMake projects, 2020-11-19T17:27:12+0000
+/project/uvalde/, uvalde, 0.3.0, Yum repository management tool, 2019-04-05T02:18:52+0000
+/project/targzstream/, targzstream, 1.1, An extension to tarfile to allow adding files to a tarfile, without the need to write to disk first.  It also allows data to be compressed as it is added to the tarfile, for large files or data that might be generated on the fly.  Note that the output file object must support "seek()", hence the output must be an uncompressed tar file.  Currently, only GZip is supported for compression., 2017-09-23T16:40:49+0000
+/project/d2to1/, d2to1, 0.2.12.post1, Allows using distutils2-like setup.cfg files for a package's metadata with a distribute/setuptools setup.py, 2015-10-02T18:24:34+0000
+/project/pip-faster/, pip-faster, 1.0rc6.dev4, Quickly and exactly synchronize a virtualenv with a requirements.txt, 2016-02-12T22:41:09+0000
+/project/aury/, aury, 1.1.3, AUR (archlinux) packages maintenance made easy via PyPi lookup, 2016-01-30T08:21:27+0000
+/project/pony-express/, pony-express, 0.2.5a2, General purpose package and dependency manager based on MongoDB, 2017-05-20T09:19:23+0000
+/project/accretion-cli/, accretion-cli, 0.1.0, Accretion CloudFormation template artifact_builder., 2019-06-18T07:51:07+0000
+/project/script2package/, script2package, 1.1.0, UNKNOWN, 2016-12-15T09:08:37+0000
+/project/humpty/, humpty, 0.2.1, A tool to convert python wheels to eggs, 2017-12-18T23:06:20+0000
+/project/jinja2-render/, jinja2-render, 1.2, jinja2-render – A CLI tool to render Jinja2 templates, 2020-08-24T12:28:52+0000
+/project/pex/, pex, 2.1.40, The PEX packaging toolchain., 2021-04-22T01:13:16+0000
+/project/collective-zestreleaser-aftercheckoutaction/, collective.zestreleaser.aftercheckoutaction, 0.1.0, Execute a user defined shell action after clean checkout, 2012-09-12T12:51:58+0000
+/project/libversion/, libversion, 1.2.3, Python bindings for libversion, 2021-03-10T13:08:06+0000
+/project/apkkit/, apkkit, 0.6.0.1, Manipulate APK packages and repositories from Python, 2018-05-24T04:48:14+0000
+/project/apt-histo/, apt-histo, 0.20201220b0, Read /var/log/apt/history.log.* and display it usefully, 2020-12-20T14:43:59+0000
+/project/apt-repoman/, apt-repoman, 1.0.7, A high performance Debian APT repository based on Amazon Web Services, 2020-09-08T01:43:58+0000
+/project/nifi-deploy/, nifi-deploy, 0.1.9, Easy CLI tool for exporting and importing Nifi templates to and from XML files., 2018-04-12T14:02:26+0000
+/project/eggtestinfo/, eggtestinfo, 0.3, Add test information to .egg-info, 2011-03-10T19:55:14+0000
+/project/mkarchive/, mkarchive, 0.5.2, Create Linux self-executables & installers based on 'dialog', 2021-02-28T17:26:11+0000
+/project/chakraversiontracker/, chakraversiontracker, 1.2.1.20160917, Software to detect packages in rolling repositories of Chakra that are out of date., 2016-09-17T18:06:02+0000
+/project/pybagit/, pybagit, 1.5.2, A library for dealing with BagIt packages., 2015-09-28T15:16:39+0000
+/project/batfish/, batfish, 0.0.2, A DigitalOcean shell, API and CLI interface, 2014-09-17T17:57:41+0000
+/project/bootstrap-py/, bootstrap-py, 1.0.2, Bootstrap Python package, 2020-09-19T05:53:22+0000
+/project/exodus-bundler/, exodus-bundler, 2.0.4, The exodus application bundler., 2021-02-19T22:25:41+0000
+/project/extension-helpers/, extension-helpers, 0.1, Utilities for building and installing packages in the Astropy ecosystem, 2019-12-18T12:29:23+0000
+/project/gocept-zestreleaser-customupload/, gocept.zestreleaser.customupload, 3.0, Plug-in for zest.releaser to allow uploading the created egg via SCP or SFTP to configurable destinations., 2017-11-20T15:04:06+0000
+/project/conda-pack/, conda-pack, 0.6.0, Package conda environments for redistribution, 2021-04-23T10:08:33+0000
+/project/django-repomgmt/, django-repomgmt, 0.1.1, APT repo management, buildd, etc., 2012-11-02T13:05:43+0000
+/project/excel2json-3/, excel2json-3, 0.1.6, Convert Excel Sheet into JSON file., 2018-08-09T18:39:03+0000
+/project/astropy-helpers/, astropy-helpers, 4.0.1, Utilities for building and installing packages in the Astropy ecosystem, 2019-12-16T20:27:02+0000
+/project/pip-upgrade-pkgs/, pip-upgrade-pkgs, 0.0.1, A single command to upgrade outdated "pip install --user" packages., 2018-11-24T19:39:07+0000
+/project/copr-cli/, copr-cli, 1.93, CLI tool to run copr, 2021-03-17T12:48:06+0000
+/project/graphitespark/, GraphiteSpark, 0.3, graphitespark, 2015-12-16T04:50:51+0000
+/project/xmm/, xmm, 0.8.0, A package manager for Xonotic., 2016-12-22T21:22:01+0000
+/project/pkgbuilder/, pkgbuilder, 4.3.0, An AUR helper (and library) in Python 3., 2019-01-12T15:06:08+0000
+/project/pkgwat-api/, pkgwat.api, 0.13, Python API for querying the fedora packages webapp, 2019-07-11T14:24:46+0000
+/project/vcsver/, vcsver, 0.1, Automatic package version numbering from version control, 2020-12-19T15:44:56+0000
+/project/bundleman/, bundleman, 1.3.0, Manage svn bundle releasing., 2009-03-26T19:53:20+0000
+/project/easypypi/, easypypi, 2.0.6, By FAR the easiest and quickest way to publish your Python creations on PyPI so other people can just `pip install your_script`., 2021-01-30T02:58:05+0000
+/project/van-pydeb/, van.pydeb, 1.3.3, Make egg metadata information available for Debian packaging, 2011-08-10T14:00:16+0000
+/project/bombardier-client/, bombardier_client, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:22+0000
+/project/stsci-distutils/, stsci.distutils, 0.3.7, distutils/packaging-related utilities used by some of STScI's packages, 2013-12-23T23:22:43+0000
+/project/treeshaker/, treeshaker, 0.0.3, A tree-shaking tool for Python., 2020-05-16T21:40:44+0000
+/project/dongsam/, dongsam, 0.1, Python Utils Pacakage, 2018-12-28T09:16:54+0000
+/project/pipgrip/, pipgrip, 0.6.7, Lightweight pip dependency resolver with deptree preview functionality based on the PubGrub algorithm, 2021-02-28T16:09:43+0000
+/project/spirofs/, spirofs, 0.3, Salt Fileserver handling dynamic saltenvs and discrete deployments from CI/CD., 2021-04-08T05:00:57+0000
+/project/pkgdiff/, pkgdiff, 0.1, Compare FreeBSD pkg files by metadata., 2020-12-01T15:19:49+0000
+/project/pycurlb/, pycurlb, 0.2.2, attr: pycurlb.__doc__, 2020-04-24T12:39:53+0000
+/project/snakepit/, snakepit, 185, Package Python software as an RPM including all dependencies (even the interpreter)., 2016-03-17T13:18:20+0000
+/project/distinfo/, distinfo, 0.2.0, Extract metadata from Python source distributions, 2018-07-20T22:34:05+0000
+/project/pexpect/, pexpect, 4.8.0, Pexpect allows easy control of interactive console applications., 2020-01-21T16:37:03+0000
+/project/nvchecker/, nvchecker, 2.3, New version checker for software, 2021-03-19T05:45:25+0000
+/project/randomio2/, randomio2, 0.1, attr: randomio.__doc__, 2019-06-18T14:56:06+0000
+/project/setuptools/, setuptools, 56.0.0, Easily download, build, install, upgrade, and uninstall Python packages, 2021-04-09T00:24:04+0000
+/project/makeapt/, makeapt, 1.0a2, Debian APT repositories generator, 2018-10-14T14:52:42+0000
+/project/dephell-archive/, dephell-archive, 0.1.7, pathlib for archives, 2020-05-30T14:55:54+0000
+/project/rocrate/, rocrate, 0.4.0, RO-Crate metadata generator/parser, 2021-04-20T14:18:57+0000
+/project/cmaketools/, cmaketools, 0.1.6, Seamless integration of Cmake build system to setuptools/distutils, 2020-08-12T21:51:25+0000
+/project/erp5-utils-dists/, erp5.utils.dists, 0.0.1dev-r42989, This library aims to provide utility scripts to manipulate BT5 compress and repositories creation., 2011-02-03T14:48:16+0000
+/project/django-xstatic/, django-xstatic, 0.0.2, Django helpers to use XStatic packages in Django projects, 2014-03-24T18:47:21+0000
+/project/pybombs/, PyBOMBS, 2.3.4, A meta-package manager to install software from source, or whatever the local package manager is. Designed for easy install of source trees for the GNU Radio project., 2020-09-04T21:46:46+0000
+/project/container-check/, container-check, 1.0.7, Tool for checking and updating rpm based containers., 2018-05-14T17:32:13+0000
+/project/py-everything/, py-everything, 1.2.0, A python module containing all the basic functions and classes for python. From simple addition to advanced file encryption., 2021-03-22T11:43:41+0000
+/project/py2deb/, py2deb, 5.0, Python to Debian package converter, 2020-08-04T23:59:31+0000
+/project/spruce-pkg/, Spruce-pkg, 0.1.3, Packaging, 2014-01-24T20:33:37+0000
+/project/cs-zestreleaser-changelog/, cs.zestreleaser.changelog, 1.1, Dump the last commit logs into the CHANGES file, 2021-02-02T12:06:23+0000
+/project/vcs-repo-mgr/, vcs-repo-mgr, 4.2, Version control repository manager, 2018-04-26T09:31:06+0000
+/project/pkgwat-cli/, pkgwat.cli, 0.13, CLI tool for querying the fedora packages webapp, 2019-07-11T14:35:52+0000
+/project/pikaur/, pikaur, 1.6.16.2, AUR helper with minimal dependencies, 2021-02-13T01:21:35+0000
+/project/distutilazy/, distutilazy, 0.5.1, Extra distutils commands, 2018-08-04T19:50:13+0000
+/project/playdeliver/, playdeliver, 1.1.1, google play store delivering tool, 2015-04-09T07:49:21+0000
+/project/a3m/, a3m, 0.5.0, Lightweight Archivematica, 2020-10-27T16:52:46+0000
+/project/berth/, berth, 1.3.5, Utility to generate package files using Docker containers, 2017-05-05T09:22:58+0000
+/project/ovh/, ovh, 0.5.0, "Official OVH.com API wrapper", 2018-12-14T12:13:53+0000
+/project/rt-zestreleaser-pypilocal/, rt.zestreleaser.pypilocal, 0.1, Plugin for zest.releaser to allow putting the created egg in a standard buildout folder, 2013-01-30T15:06:29+0000
+/project/bombardier-core/, bombardier_core, 1.10-783, Open Source Configuration management and package delivery: shared components, 2011-03-07T23:11:06+0000
+/project/pyproject-devenv/, pyproject-devenv, 0.1.0, Create virtual environments using pyproject.toml metadata., 2021-04-21T10:00:42+0000
+/project/arcp/, arcp, 0.2.1, arcp (Archive and Package) URI parser and generator, 2020-02-12T12:05:05+0000
+/project/rustybits/, rustybits, 0.0.2, , 2020-01-19T21:35:16+0000
+/project/bindep/, bindep, 2.9.0, Binary dependency utility, 2021-02-05T23:24:48+0000
+/project/zipls/, zipls, 0.2, A script to zip your playlists, 2011-01-23T00:53:59+0000
+/project/me2-packager/, me2-packager, 0.0.5, me2-pack is the packaging component of me2, 2013-02-04T19:29:51+0000
+/project/distribute/, distribute, 0.7.3, distribute legacy wrapper, 2013-07-05T17:53:04+0000
+/project/deb-pkg-tools/, deb-pkg-tools, 8.4, Debian packaging tools, 2021-03-09T13:48:47+0000
+/project/mkrecipe/, mkrecipe, 0.2.0, A tool to create recipes for building conda packages from distributions on PyPI., 2021-04-17T10:15:12+0000
+/project/package-controller/, package-controller, 3.2.1, A CLI tool that acts as a wrapper for various other programs to make updating and publishing python and node packages easier, 2019-07-07T02:58:11+0000
+/project/pybuilder-emr-plugin/, pybuilder-emr-plugin, 1.1.0, PyBuilder plugin to handle Amazon EMR functionality, 2017-11-28T23:01:48+0000
+/project/wheel/, wheel, 0.36.2, A built-package format for Python, 2020-12-13T18:09:07+0000
+/project/deckhand/, deckhand, 1.0.1, A Collection of development tools, 2019-07-05T16:58:59+0000
+/project/symlink-gardener/, symlink-gardener, 0.2.3, A symlink farm manager akin to GNU Stow, 2019-03-08T23:40:54+0000
+/project/apkg/, apkg, 0.0.2, minimalist cross-distro packaging automation tool, 2021-04-23T11:10:48+0000
+/project/cs-zestreleaser-upload/, cs.zestreleaser.upload, 2.0, zest.releaser plugin to enter from the command-line the destination of the upload, 2020-02-26T12:23:21+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/pip-accel/, pip-accel, 0.43, Accelerator for pip, the Python package manager, 2016-03-14T12:52:31+0000
+/project/pybuilder-aws-plugin/, pybuilder_aws_plugin, 183, PyBuilder plugin to handle AWS functionality, 2016-06-23T09:13:00+0000
+/project/setuptools-gitver/, setuptools-gitver, 1.1.0, Simple Git version plugin for setuptools, 2017-05-10T06:17:00+0000
+/project/pypitoken/, pypitoken, 3.0.2, Manipulate PyPI API tokens, 2021-03-18T18:52:54+0000
+/project/debmans/, debmans, 1.0.0, Extract and render manuals from Debian packages, 2016-11-22T04:44:19+0000
+/project/pip-upgrade-outdated/, pip-upgrade-outdated, 1.5, Command-line tool to updated outdated python packages, 2019-01-16T00:08:40+0000
+/project/yarg/, yarg, 0.1.9, A semi hard Cornish cheese, also queries PyPI (PyPI client), 2014-08-11T22:01:32+0000
+/project/pexpect-py3-patch/, pexpect-py3-patch, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:14:18+0000
+/project/upmcli/, upmcli, 0.0.1, Universal Package Manager, 2017-11-18T06:50:05+0000
+/project/nexus-uploader/, nexus_uploader, 1.0.17, CLI tool to upload Python packages listed in a requirements.txt file into a Sonatype Nexus (from Pypi), and return the list of the artifact URLs, 2018-05-16T15:43:02+0000
+/project/sluggard/, sluggard, 1.0.0, directory packaging tool, 2020-05-07T07:08:12+0000
+/project/codemanager/, CodeManager, 1.0.0, Utility for automatic downloading, compiling and  installing softaware from internet., 2020-06-18T21:55:32+0000
+/project/pypackage/, pypackage, 0.2.6, Pypackage looks to package python without writing a setup.py, 2016-04-25T10:57:19+0000
+/project/spruce-project/, Spruce-project, 0.1.3, Project inspection, management, and administration, 2014-01-24T20:35:08+0000
+/project/pydpkg/, pydpkg, 1.5.0, A python library for parsing debian package control headers and comparing version strings, 2020-11-23T15:52:55+0000
+/project/distutils2-py3/, Distutils2-py3, 1.0a5.dev0, Python Packaging Library, 2012-10-25T15:43:05+0000
+/project/zip-files/, zip-files, 0.4.1, Command line utilities for creating zip files, 2021-04-21T17:25:17+0000
+/project/setl/, setl, 0.10.0, Packaging tool for PEP 518 projects with Setuptools backend., 2020-03-11T17:16:25+0000
+/project/peeper/, Peeper, 0.1, Peep inside a Python sdist tarball/zip and find its dirty requirements., 2014-10-20T10:34:42+0000
+/project/packthing/, packthing, 1.2.0, Write once, package everywhere, 2020-05-10T06:26:30+0000
+/project/wheelfile/, wheelfile, 0.0.3, API for inspecting and creating .whl files, 2021-03-28T01:42:34+0000
+/project/dimgx/, dimgx, 0.2.4, Docker IMaGe layer eXtractor (and flattener), 2017-03-12T03:52:25+0000
+/project/debmans/, debmans, 1.0.0, Extract and render manuals from Debian packages, 2016-11-22T04:44:19+0000
+/project/bombardier-cli/, bombardier_cli, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:39+0000
+/project/pip-upgrade-outdated/, pip-upgrade-outdated, 1.5, Command-line tool to updated outdated python packages, 2019-01-16T00:08:40+0000
+/project/yarg/, yarg, 0.1.9, A semi hard Cornish cheese, also queries PyPI (PyPI client), 2014-08-11T22:01:32+0000
+/project/pexpect-py3-patch/, pexpect-py3-patch, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:14:18+0000
+/project/upmcli/, upmcli, 0.0.1, Universal Package Manager, 2017-11-18T06:50:05+0000
+/project/hcm/, hcm, 0.14, HDL Component Manager, 2019-08-11T14:02:13+0000
+/project/debocker/, debocker, 0.2.1, debocker is a Debian packages builder using docker, 2016-06-28T07:27:01+0000
+/project/stick/, stick, 0.5.4, Collection of utilities for publishing Python packages to PyPI-compatible indexes hosted on S3., 2020-02-28T20:55:53+0000
+/project/products-pluginregistry/, Products.PluginRegistry, 1.9, Configure application plugins based on interfaces, 2021-03-19T14:30:34+0000
+/project/autoversion-pbr/, autoversion-pbr, 0.1.2, , 2016-11-15T18:53:21+0000
+/project/django-slug-lookup/, django-slug-lookup, 0.0.2, Django model string field lookup by automatically(internally) treating string as a slug., 2018-08-19T05:15:52+0000
+/project/products-genericsetup/, Products.GenericSetup, 2.1.1, Read Zope configuration state from profile dirs / tarballs, 2021-03-02T09:11:45+0000
+/project/versiontracker/, versiontracker, 2.1.4.20190921, Web scrapping software to keep track of the latest stable version of different software., 2019-09-21T12:36:16+0000
+/project/xstatic/, XStatic, 1.0.2, XStatic base package with minimal support code, 2018-09-18T17:49:48+0000
+/project/ego-boost/, ego-boost, 0.1.2, Package to track your module's download statistics, 2011-08-26T07:29:00+0000
+/project/cwlprov/, cwlprov, 0.1.1, cwlprov API for Python, 2018-10-25T10:31:24+0000
+/project/apkg/, apkg, 0.0.2, minimalist cross-distro packaging automation tool, 2021-04-23T11:10:48+0000
+/project/cs-zestreleaser-upload/, cs.zestreleaser.upload, 2.0, zest.releaser plugin to enter from the command-line the destination of the upload, 2020-02-26T12:23:21+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/pip-accel/, pip-accel, 0.43, Accelerator for pip, the Python package manager, 2016-03-14T12:52:31+0000
+/project/python-stripzip/, python-stripzip, 1.0.0, strip zip timestamps for reproducible builds, 2020-04-04T17:30:27+0000
+/project/whey-pth/, whey-pth, 0.0.3, Extension to whey to support .pth files., 2021-04-06T09:33:21+0000
+/project/vishop/, vishop, 0.0.2, Vishop is command line VIM script publisher client., 2020-07-04T08:36:11+0000
+/project/devpi-plumber/, devpi-plumber, 0.5.1, Mario, the devpi-plumber, helps to automate and test large devpi installations., 2019-08-06T11:14:18+0000
+/project/repo-helper/, repo-helper, 2021.3.31, A tool to manage configuration files, build scripts etc. across multiple projects., 2021-03-31T11:20:53+0000
+/project/pybuilder-aws-plugin/, pybuilder_aws_plugin, 183, PyBuilder plugin to handle AWS functionality, 2016-06-23T09:13:00+0000
+/project/setuptools-gitver/, setuptools-gitver, 1.1.0, Simple Git version plugin for setuptools, 2017-05-10T06:17:00+0000
+/project/van-reposync/, van.reposync, 1.0.1, Mirror a pypi-style egg repository from a debian APT repository, 2009-06-15T13:52:33+0000
+/project/pypitoken/, pypitoken, 3.0.2, Manipulate PyPI API tokens, 2021-03-18T18:52:54+0000
+/project/convert2json/, convert2json, 0.0.2, Convert compatible python data types, CSV, XLSX, XLS files to JSON string., 2018-08-08T08:03:52+0000
+/project/package-controller/, package-controller, 3.2.1, A CLI tool that acts as a wrapper for various other programs to make updating and publishing python and node packages easier, 2019-07-07T02:58:11+0000
+/project/ownrepo/, ownrepo, 0.1b5, Simple, easy-to-setup private Python packages repository, 2015-03-10T20:10:02+0000
+/project/pip-save/, pip-save, 0.2.0, A wrapper around pip to add `npm --save` style functionality to pip, 2016-09-20T19:38:08+0000
+/project/accretion-workers/, accretion-workers, 0.1.0, Accretion workers., 2019-06-18T07:46:48+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/rt-factory/, rt-factory, 0.2.4, Pythonic wrapper for the artifactory API, 2017-10-26T15:22:17+0000
+/project/resources-example/, resources-example, 0.2, An example project demonstrating various ways to access data files in Python package, 2020-08-26T04:25:57+0000
+/project/bombardier-server/, bombardier_server, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:29+0000
+/project/pyproject-parser/, pyproject-parser, 0.2.1, Parser for 'pyproject.toml', 2021-04-20T20:16:11+0000
+/project/pyil-converter/, pyil-converter, 0.6.6.9, Convert files to the format you want!, 2016-11-08T23:37:25+0000
+/project/setuphelpers/, setuphelpers, 0.1.2, Setuptools helper functions, 2017-10-11T14:55:53+0000
+/project/pybuilder-emr-plugin/, pybuilder-emr-plugin, 1.1.0, PyBuilder plugin to handle Amazon EMR functionality, 2017-11-28T23:01:48+0000
+/project/wheel/, wheel, 0.36.2, A built-package format for Python, 2020-12-13T18:09:07+0000
+/project/deckhand/, deckhand, 1.0.1, A Collection of development tools, 2019-07-05T16:58:59+0000
+/project/symlink-gardener/, symlink-gardener, 0.2.3, A symlink farm manager akin to GNU Stow, 2019-03-08T23:40:54+0000
+/project/snap-helpers/, snap-helpers, 0.2.0, Helpers for interacting with the Snap system within a Snap, 2019-11-20T22:09:21+0000
+/project/vanguardistas-pydebdep/, vanguardistas.pydebdep, 0.1.2, Make egg dependency information available for Debian packaging, 2009-06-05T11:23:03+0000
+/project/meta-package-manager/, meta-package-manager, 3.6.0, CLI unifying Homebrew, apt, Chocolatey, Pip, NPM, Composer and the like., 2021-01-03T15:08:16+0000
+/project/pyshop/, pyshop, 1.3.0, Private Python Package Index, 2017-06-29T19:47:07+0000
+/project/setuptools-autover/, setuptools-autover, 1.0.2, Automatic package version numbering from version control, 2020-04-10T03:39:23+0000
+/project/py2exe2msi/, py2exe2msi, 0.0.2, An easy way to create Windows standalone applications in Python, 2011-12-21T13:43:04+0000
+/project/microarchiver/, microarchiver, 1.12.0, Archives articles from microPublication.org, 2021-04-17T00:20:08+0000
+/project/pyipcmi/, pyIPCMI, 1.1.5, An IP Core Management Infrastructure written in Python - pyIPCMI., 2019-10-13T23:30:09+0000
+/project/minideblib/, minideblib, 0.6.21.29, Access to deb files and repositories, 2008-05-07T20:50:03+0000
+/project/srcinfo/, srcinfo, 0.0.8, A small library to parse .SRCINFO files, 2016-04-13T18:18:11+0000
+/project/pydebsign/, pydebsign, 0.1.5, yet another library of debsign, 2015-08-25T06:47:04+0000
+/project/nimbstor/, nimbstor, 1.0.1, Store incrementally, compressed and encrypted data failsafe in filesystems, sFTP, WebDAV, IMAP or other backends., 2012-03-18T10:24:27+0000
+/project/osc/, osc, 0.167.2, openSUSE commander, 2020-02-13T14:02:00+0000
+/project/tarwalker/, tarwalker, 1.1, A library to walk through tar archives, simplifying use by handling listing and decompression., 2018-09-16T03:08:23+0000
+/project/pi/, pi, 0.1.2, Simpler python package installation, 2014-05-05T14:43:11+0000
+/project/slpkg/, slpkg, 3.9.1, Package manager for Slackware installations, 2021-01-02T15:45:53+0000
+/project/whey/, whey, 0.0.13, A simple Python wheel builder for simple projects., 2021-04-20T18:20:58+0000
+/project/script2package/, script2package, 1.1.0, UNKNOWN, 2016-12-15T09:08:37+0000
+/project/humpty/, humpty, 0.2.1, A tool to convert python wheels to eggs, 2017-12-18T23:06:20+0000
+/project/exodus-bundler/, exodus-bundler, 2.0.4, The exodus application bundler., 2021-02-19T22:25:41+0000
+/project/extension-helpers/, extension-helpers, 0.1, Utilities for building and installing packages in the Astropy ecosystem, 2019-12-18T12:29:23+0000
+/project/pony-express/, pony-express, 0.2.5a2, General purpose package and dependency manager based on MongoDB, 2017-05-20T09:19:23+0000
+/project/accretion-cli/, accretion-cli, 0.1.0, Accretion CloudFormation template artifact_builder., 2019-06-18T07:51:07+0000
+/project/jinja2-render/, jinja2-render, 1.2, jinja2-render – A CLI tool to render Jinja2 templates, 2020-08-24T12:28:52+0000
+/project/pex/, pex, 2.1.40, The PEX packaging toolchain., 2021-04-22T01:13:16+0000
+/project/collective-zestreleaser-aftercheckoutaction/, collective.zestreleaser.aftercheckoutaction, 0.1.0, Execute a user defined shell action after clean checkout, 2012-09-12T12:51:58+0000
+/project/libversion/, libversion, 1.2.3, Python bindings for libversion, 2021-03-10T13:08:06+0000
+/project/apkkit/, apkkit, 0.6.0.1, Manipulate APK packages and repositories from Python, 2018-05-24T04:48:14+0000
+/project/apt-histo/, apt-histo, 0.20201220b0, Read /var/log/apt/history.log.* and display it usefully, 2020-12-20T14:43:59+0000
+/project/apt-repoman/, apt-repoman, 1.0.7, A high performance Debian APT repository based on Amazon Web Services, 2020-09-08T01:43:58+0000
+/project/nifi-deploy/, nifi-deploy, 0.1.9, Easy CLI tool for exporting and importing Nifi templates to and from XML files., 2018-04-12T14:02:26+0000
+/project/eggtestinfo/, eggtestinfo, 0.3, Add test information to .egg-info, 2011-03-10T19:55:14+0000
+/project/devpi-builder/, devpi-builder, 5.0.1, Devpi-builder takes a requirements.txt and incrementally fills a devpi index with wheels of the listed python packages., 2020-09-09T10:05:42+0000
+/project/cmake-build-extension/, cmake-build-extension, 0.1, Setuptools extension to build and package CMake projects, 2020-11-19T17:27:12+0000
+/project/uvalde/, uvalde, 0.3.0, Yum repository management tool, 2019-04-05T02:18:52+0000
+/project/targzstream/, targzstream, 1.1, An extension to tarfile to allow adding files to a tarfile, without the need to write to disk first.  It also allows data to be compressed as it is added to the tarfile, for large files or data that might be generated on the fly.  Note that the output file object must support "seek()", hence the output must be an uncompressed tar file.  Currently, only GZip is supported for compression., 2017-09-23T16:40:49+0000
+/project/d2to1/, d2to1, 0.2.12.post1, Allows using distutils2-like setup.cfg files for a package's metadata with a distribute/setuptools setup.py, 2015-10-02T18:24:34+0000
+/project/mkarchive/, mkarchive, 0.5.2, Create Linux self-executables & installers based on 'dialog', 2021-02-28T17:26:11+0000
+/project/chakraversiontracker/, chakraversiontracker, 1.2.1.20160917, Software to detect packages in rolling repositories of Chakra that are out of date., 2016-09-17T18:06:02+0000
+/project/pybagit/, pybagit, 1.5.2, A library for dealing with BagIt packages., 2015-09-28T15:16:39+0000
+/project/batfish/, batfish, 0.0.2, A DigitalOcean shell, API and CLI interface, 2014-09-17T17:57:41+0000
+/project/bootstrap-py/, bootstrap-py, 1.0.2, Bootstrap Python package, 2020-09-19T05:53:22+0000
+/project/gocept-zestreleaser-customupload/, gocept.zestreleaser.customupload, 3.0, Plug-in for zest.releaser to allow uploading the created egg via SCP or SFTP to configurable destinations., 2017-11-20T15:04:06+0000
+/project/pip-faster/, pip-faster, 1.0rc6.dev4, Quickly and exactly synchronize a virtualenv with a requirements.txt, 2016-02-12T22:41:09+0000
+/project/aury/, aury, 1.1.3, AUR (archlinux) packages maintenance made easy via PyPi lookup, 2016-01-30T08:21:27+0000
+/project/conda-pack/, conda-pack, 0.6.0, Package conda environments for redistribution, 2021-04-23T10:08:33+0000
+/project/django-xstatic/, django-xstatic, 0.0.2, Django helpers to use XStatic packages in Django projects, 2014-03-24T18:47:21+0000
+/project/pybombs/, PyBOMBS, 2.3.4, A meta-package manager to install software from source, or whatever the local package manager is. Designed for easy install of source trees for the GNU Radio project., 2020-09-04T21:46:46+0000
+/project/pip-upgrade-pkgs/, pip-upgrade-pkgs, 0.0.1, A single command to upgrade outdated "pip install --user" packages., 2018-11-24T19:39:07+0000
+/project/copr-cli/, copr-cli, 1.93, CLI tool to run copr, 2021-03-17T12:48:06+0000
+/project/container-check/, container-check, 1.0.7, Tool for checking and updating rpm based containers., 2018-05-14T17:32:13+0000
+/project/py2deb/, py2deb, 5.0, Python to Debian package converter, 2020-08-04T23:59:31+0000
+/project/graphitespark/, GraphiteSpark, 0.3, graphitespark, 2015-12-16T04:50:51+0000
+/project/spruce-pkg/, Spruce-pkg, 0.1.3, Packaging, 2014-01-24T20:33:37+0000
+/project/cs-zestreleaser-changelog/, cs.zestreleaser.changelog, 1.1, Dump the last commit logs into the CHANGES file, 2021-02-02T12:06:23+0000
+/project/pkgbuilder/, pkgbuilder, 4.3.0, An AUR helper (and library) in Python 3., 2019-01-12T15:06:08+0000
+/project/pkgwat-api/, pkgwat.api, 0.13, Python API for querying the fedora packages webapp, 2019-07-11T14:24:46+0000
+/project/vcsver/, vcsver, 0.1, Automatic package version numbering from version control, 2020-12-19T15:44:56+0000
+/project/bundleman/, bundleman, 1.3.0, Manage svn bundle releasing., 2009-03-26T19:53:20+0000
+/project/dongsam/, dongsam, 0.1, Python Utils Pacakage, 2018-12-28T09:16:54+0000
+/project/pipgrip/, pipgrip, 0.6.7, Lightweight pip dependency resolver with deptree preview functionality based on the PubGrub algorithm, 2021-02-28T16:09:43+0000
+/project/a3m/, a3m, 0.5.0, Lightweight Archivematica, 2020-10-27T16:52:46+0000
+/project/randomio2/, randomio2, 0.1, attr: randomio.__doc__, 2019-06-18T14:56:06+0000
+/project/setuptools/, setuptools, 56.0.0, Easily download, build, install, upgrade, and uninstall Python packages, 2021-04-09T00:24:04+0000
+/project/pyproject-devenv/, pyproject-devenv, 0.1.0, Create virtual environments using pyproject.toml metadata., 2021-04-21T10:00:42+0000
+/project/arcp/, arcp, 0.2.1, arcp (Archive and Package) URI parser and generator, 2020-02-12T12:05:05+0000
+/project/rustybits/, rustybits, 0.0.2, , 2020-01-19T21:35:16+0000
+/project/makeapt/, makeapt, 1.0a2, Debian APT repositories generator, 2018-10-14T14:52:42+0000
+/project/dephell-archive/, dephell-archive, 0.1.7, pathlib for archives, 2020-05-30T14:55:54+0000
+/project/django-repomgmt/, django-repomgmt, 0.1.1, APT repo management, buildd, etc., 2012-11-02T13:05:43+0000
+/project/excel2json-3/, excel2json-3, 0.1.6, Convert Excel Sheet into JSON file., 2018-08-09T18:39:03+0000
+/project/astropy-helpers/, astropy-helpers, 4.0.1, Utilities for building and installing packages in the Astropy ecosystem, 2019-12-16T20:27:02+0000
+/project/rocrate/, rocrate, 0.4.0, RO-Crate metadata generator/parser, 2021-04-20T14:18:57+0000
+/project/cmaketools/, cmaketools, 0.1.6, Seamless integration of Cmake build system to setuptools/distutils, 2020-08-12T21:51:25+0000
+/project/erp5-utils-dists/, erp5.utils.dists, 0.0.1dev-r42989, This library aims to provide utility scripts to manipulate BT5 compress and repositories creation., 2011-02-03T14:48:16+0000
+/project/py-everything/, py-everything, 1.2.0, A python module containing all the basic functions and classes for python. From simple addition to advanced file encryption., 2021-03-22T11:43:41+0000
+/project/xmm/, xmm, 0.8.0, A package manager for Xonotic., 2016-12-22T21:22:01+0000
+/project/vcs-repo-mgr/, vcs-repo-mgr, 4.2, Version control repository manager, 2018-04-26T09:31:06+0000
+/project/easypypi/, easypypi, 2.0.6, By FAR the easiest and quickest way to publish your Python creations on PyPI so other people can just `pip install your_script`., 2021-01-30T02:58:05+0000
+/project/van-pydeb/, van.pydeb, 1.3.3, Make egg metadata information available for Debian packaging, 2011-08-10T14:00:16+0000
+/project/pkgwat-cli/, pkgwat.cli, 0.13, CLI tool for querying the fedora packages webapp, 2019-07-11T14:35:52+0000
+/project/pikaur/, pikaur, 1.6.16.2, AUR helper with minimal dependencies, 2021-02-13T01:21:35+0000
+/project/distutilazy/, distutilazy, 0.5.1, Extra distutils commands, 2018-08-04T19:50:13+0000
+/project/playdeliver/, playdeliver, 1.1.1, google play store delivering tool, 2015-04-09T07:49:21+0000
+/project/bombardier-client/, bombardier_client, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:22+0000
+/project/stsci-distutils/, stsci.distutils, 0.3.7, distutils/packaging-related utilities used by some of STScI's packages, 2013-12-23T23:22:43+0000
+/project/treeshaker/, treeshaker, 0.0.3, A tree-shaking tool for Python., 2020-05-16T21:40:44+0000
+/project/berth/, berth, 1.3.5, Utility to generate package files using Docker containers, 2017-05-05T09:22:58+0000
+/project/ovh/, ovh, 0.5.0, "Official OVH.com API wrapper", 2018-12-14T12:13:53+0000
+/project/rt-zestreleaser-pypilocal/, rt.zestreleaser.pypilocal, 0.1, Plugin for zest.releaser to allow putting the created egg in a standard buildout folder, 2013-01-30T15:06:29+0000
+/project/spirofs/, spirofs, 0.3, Salt Fileserver handling dynamic saltenvs and discrete deployments from CI/CD., 2021-04-08T05:00:57+0000
+/project/pkgdiff/, pkgdiff, 0.1, Compare FreeBSD pkg files by metadata., 2020-12-01T15:19:49+0000
+/project/pycurlb/, pycurlb, 0.2.2, attr: pycurlb.__doc__, 2020-04-24T12:39:53+0000
+/project/snakepit/, snakepit, 185, Package Python software as an RPM including all dependencies (even the interpreter)., 2016-03-17T13:18:20+0000
+/project/bombardier-core/, bombardier_core, 1.10-783, Open Source Configuration management and package delivery: shared components, 2011-03-07T23:11:06+0000
+/project/distinfo/, distinfo, 0.2.0, Extract metadata from Python source distributions, 2018-07-20T22:34:05+0000
+/project/pexpect/, pexpect, 4.8.0, Pexpect allows easy control of interactive console applications., 2020-01-21T16:37:03+0000
+/project/nvchecker/, nvchecker, 2.3, New version checker for software, 2021-03-19T05:45:25+0000
+/project/bindep/, bindep, 2.9.0, Binary dependency utility, 2021-02-05T23:24:48+0000
+/project/zipls/, zipls, 0.2, A script to zip your playlists, 2011-01-23T00:53:59+0000
+/project/me2-packager/, me2-packager, 0.0.5, me2-pack is the packaging component of me2, 2013-02-04T19:29:51+0000
+/project/distribute/, distribute, 0.7.3, distribute legacy wrapper, 2013-07-05T17:53:04+0000
+/project/deb-pkg-tools/, deb-pkg-tools, 8.4, Debian packaging tools, 2021-03-09T13:48:47+0000
+/project/mkrecipe/, mkrecipe, 0.2.0, A tool to create recipes for building conda packages from distributions on PyPI., 2021-04-17T10:15:12+0000
+/project/package-controller/, package-controller, 3.2.1, A CLI tool that acts as a wrapper for various other programs to make updating and publishing python and node packages easier, 2019-07-07T02:58:11+0000
+/project/ownrepo/, ownrepo, 0.1b5, Simple, easy-to-setup private Python packages repository, 2015-03-10T20:10:02+0000
+/project/pip-save/, pip-save, 0.2.0, A wrapper around pip to add `npm --save` style functionality to pip, 2016-09-20T19:38:08+0000
+/project/accretion-workers/, accretion-workers, 0.1.0, Accretion workers., 2019-06-18T07:46:48+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/rt-factory/, rt-factory, 0.2.4, Pythonic wrapper for the artifactory API, 2017-10-26T15:22:17+0000
+/project/resources-example/, resources-example, 0.2, An example project demonstrating various ways to access data files in Python package, 2020-08-26T04:25:57+0000
+/project/pyil-converter/, pyil-converter, 0.6.6.9, Convert files to the format you want!, 2016-11-08T23:37:25+0000
+/project/pip-accel/, pip-accel, 0.43, Accelerator for pip, the Python package manager, 2016-03-14T12:52:31+0000
+/project/python-stripzip/, python-stripzip, 1.0.0, strip zip timestamps for reproducible builds, 2020-04-04T17:30:27+0000
+/project/whey-pth/, whey-pth, 0.0.3, Extension to whey to support .pth files., 2021-04-06T09:33:21+0000
+/project/vishop/, vishop, 0.0.2, Vishop is command line VIM script publisher client., 2020-07-04T08:36:11+0000
+/project/devpi-plumber/, devpi-plumber, 0.5.1, Mario, the devpi-plumber, helps to automate and test large devpi installations., 2019-08-06T11:14:18+0000
+/project/repo-helper/, repo-helper, 2021.3.31, A tool to manage configuration files, build scripts etc. across multiple projects., 2021-03-31T11:20:53+0000
+/project/pybuilder-aws-plugin/, pybuilder_aws_plugin, 183, PyBuilder plugin to handle AWS functionality, 2016-06-23T09:13:00+0000
+/project/setuptools-gitver/, setuptools-gitver, 1.1.0, Simple Git version plugin for setuptools, 2017-05-10T06:17:00+0000
+/project/autoversion-pbr/, autoversion-pbr, 0.1.2, , 2016-11-15T18:53:21+0000
+/project/django-slug-lookup/, django-slug-lookup, 0.0.2, Django model string field lookup by automatically(internally) treating string as a slug., 2018-08-19T05:15:52+0000
+/project/products-genericsetup/, Products.GenericSetup, 2.1.1, Read Zope configuration state from profile dirs / tarballs, 2021-03-02T09:11:45+0000
+/project/devpi-cleaner/, devpi-cleaner, 0.3.0, Enables batch removal of packages from a devpi server., 2021-02-05T12:03:08+0000
+/project/nexus-uploader/, nexus_uploader, 1.0.17, CLI tool to upload Python packages listed in a requirements.txt file into a Sonatype Nexus (from Pypi), and return the list of the artifact URLs, 2018-05-16T15:43:02+0000
+/project/sluggard/, sluggard, 1.0.0, directory packaging tool, 2020-05-07T07:08:12+0000
+/project/codemanager/, CodeManager, 1.0.0, Utility for automatic downloading, compiling and  installing softaware from internet., 2020-06-18T21:55:32+0000
+/project/zip-files/, zip-files, 0.4.1, Command line utilities for creating zip files, 2021-04-21T17:25:17+0000
+/project/setl/, setl, 0.10.0, Packaging tool for PEP 518 projects with Setuptools backend., 2020-03-11T17:16:25+0000
+/project/peeper/, Peeper, 0.1, Peep inside a Python sdist tarball/zip and find its dirty requirements., 2014-10-20T10:34:42+0000
+/project/packthing/, packthing, 1.2.0, Write once, package everywhere, 2020-05-10T06:26:30+0000
+/project/setuptools-dso/, setuptools-dso, 1.7, setuptools extension to build non-python shared libraries, 2020-05-20T03:17:51+0000
+/project/bombardier-server/, bombardier_server, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:29+0000
+/project/pyproject-parser/, pyproject-parser, 0.2.1, Parser for 'pyproject.toml', 2021-04-20T20:16:11+0000
+/project/setuphelpers/, setuphelpers, 0.1.2, Setuptools helper functions, 2017-10-11T14:55:53+0000
+/project/pybuilder-emr-plugin/, pybuilder-emr-plugin, 1.1.0, PyBuilder plugin to handle Amazon EMR functionality, 2017-11-28T23:01:48+0000
+/project/wheel/, wheel, 0.36.2, A built-package format for Python, 2020-12-13T18:09:07+0000
+/project/deckhand/, deckhand, 1.0.1, A Collection of development tools, 2019-07-05T16:58:59+0000
+/project/symlink-gardener/, symlink-gardener, 0.2.3, A symlink farm manager akin to GNU Stow, 2019-03-08T23:40:54+0000
+/project/snap-helpers/, snap-helpers, 0.2.0, Helpers for interacting with the Snap system within a Snap, 2019-11-20T22:09:21+0000
+/project/apkg/, apkg, 0.0.2, minimalist cross-distro packaging automation tool, 2021-04-23T11:10:48+0000
+/project/debocker/, debocker, 0.2.1, debocker is a Debian packages builder using docker, 2016-06-28T07:27:01+0000
+/project/stick/, stick, 0.5.4, Collection of utilities for publishing Python packages to PyPI-compatible indexes hosted on S3., 2020-02-28T20:55:53+0000
+/project/products-pluginregistry/, Products.PluginRegistry, 1.9, Configure application plugins based on interfaces, 2021-03-19T14:30:34+0000
+/project/autoversion-pbr/, autoversion-pbr, 0.1.2, , 2016-11-15T18:53:21+0000
+/project/django-slug-lookup/, django-slug-lookup, 0.0.2, Django model string field lookup by automatically(internally) treating string as a slug., 2018-08-19T05:15:52+0000
+/project/products-genericsetup/, Products.GenericSetup, 2.1.1, Read Zope configuration state from profile dirs / tarballs, 2021-03-02T09:11:45+0000
+/project/versiontracker/, versiontracker, 2.1.4.20190921, Web scrapping software to keep track of the latest stable version of different software., 2019-09-21T12:36:16+0000
+/project/xstatic/, XStatic, 1.0.2, XStatic base package with minimal support code, 2018-09-18T17:49:48+0000
+/project/ego-boost/, ego-boost, 0.1.2, Package to track your module's download statistics, 2011-08-26T07:29:00+0000
+/project/cwlprov/, cwlprov, 0.1.1, cwlprov API for Python, 2018-10-25T10:31:24+0000
+/project/apkg/, apkg, 0.0.2, minimalist cross-distro packaging automation tool, 2021-04-23T11:10:48+0000
+/project/cs-zestreleaser-upload/, cs.zestreleaser.upload, 2.0, zest.releaser plugin to enter from the command-line the destination of the upload, 2020-02-26T12:23:21+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/pip-accel/, pip-accel, 0.43, Accelerator for pip, the Python package manager, 2016-03-14T12:52:31+0000
+/project/python-stripzip/, python-stripzip, 1.0.0, strip zip timestamps for reproducible builds, 2020-04-04T17:30:27+0000
+/project/whey-pth/, whey-pth, 0.0.3, Extension to whey to support .pth files., 2021-04-06T09:33:21+0000
+/project/vishop/, vishop, 0.0.2, Vishop is command line VIM script publisher client., 2020-07-04T08:36:11+0000
+/project/devpi-plumber/, devpi-plumber, 0.5.1, Mario, the devpi-plumber, helps to automate and test large devpi installations., 2019-08-06T11:14:18+0000
+/project/repo-helper/, repo-helper, 2021.3.31, A tool to manage configuration files, build scripts etc. across multiple projects., 2021-03-31T11:20:53+0000
+/project/pybuilder-aws-plugin/, pybuilder_aws_plugin, 183, PyBuilder plugin to handle AWS functionality, 2016-06-23T09:13:00+0000
+/project/setuptools-gitver/, setuptools-gitver, 1.1.0, Simple Git version plugin for setuptools, 2017-05-10T06:17:00+0000
+/project/van-reposync/, van.reposync, 1.0.1, Mirror a pypi-style egg repository from a debian APT repository, 2009-06-15T13:52:33+0000
+/project/pypitoken/, pypitoken, 3.0.2, Manipulate PyPI API tokens, 2021-03-18T18:52:54+0000
+/project/convert2json/, convert2json, 0.0.2, Convert compatible python data types, CSV, XLSX, XLS files to JSON string., 2018-08-08T08:03:52+0000
+/project/package-controller/, package-controller, 3.2.1, A CLI tool that acts as a wrapper for various other programs to make updating and publishing python and node packages easier, 2019-07-07T02:58:11+0000
+/project/ownrepo/, ownrepo, 0.1b5, Simple, easy-to-setup private Python packages repository, 2015-03-10T20:10:02+0000
+/project/pip-save/, pip-save, 0.2.0, A wrapper around pip to add `npm --save` style functionality to pip, 2016-09-20T19:38:08+0000
+/project/accretion-workers/, accretion-workers, 0.1.0, Accretion workers., 2019-06-18T07:46:48+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/rt-factory/, rt-factory, 0.2.4, Pythonic wrapper for the artifactory API, 2017-10-26T15:22:17+0000
+/project/resources-example/, resources-example, 0.2, An example project demonstrating various ways to access data files in Python package, 2020-08-26T04:25:57+0000
+/project/bombardier-server/, bombardier_server, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:29+0000
+/project/pyproject-parser/, pyproject-parser, 0.2.1, Parser for 'pyproject.toml', 2021-04-20T20:16:11+0000
+/project/pyil-converter/, pyil-converter, 0.6.6.9, Convert files to the format you want!, 2016-11-08T23:37:25+0000
+/project/setuphelpers/, setuphelpers, 0.1.2, Setuptools helper functions, 2017-10-11T14:55:53+0000
+/project/pybuilder-emr-plugin/, pybuilder-emr-plugin, 1.1.0, PyBuilder plugin to handle Amazon EMR functionality, 2017-11-28T23:01:48+0000
+/project/wheel/, wheel, 0.36.2, A built-package format for Python, 2020-12-13T18:09:07+0000
+/project/deckhand/, deckhand, 1.0.1, A Collection of development tools, 2019-07-05T16:58:59+0000
+/project/symlink-gardener/, symlink-gardener, 0.2.3, A symlink farm manager akin to GNU Stow, 2019-03-08T23:40:54+0000
+/project/snap-helpers/, snap-helpers, 0.2.0, Helpers for interacting with the Snap system within a Snap, 2019-11-20T22:09:21+0000

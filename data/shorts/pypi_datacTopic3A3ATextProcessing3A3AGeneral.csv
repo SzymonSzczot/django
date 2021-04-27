@@ -1,0 +1,846 @@
+/project/seafilecontentmanager/, SeafileContentManager, 0.1.2, ContentManager using Seafile's WebAPI, 2020-06-04T10:31:34+0000
+/project/tabula-py/, tabula-py, 2.2.0, Simple wrapper for tabula-java, read tables from PDF into DataFrame, 2020-09-03T13:50:58+0000
+/project/libshorttext/, libshorttext, 1.1.0.0, LibShortText is an open source tool for short-text classification and analysis. It can handle the classification of, for example, titles, questions, sentences, and short messages, 2015-09-29T13:26:02+0000
+/project/anagrammer/, Anagrammer, 1.1, Anagramming tools., 2006-11-29T08:59:31+0000
+/project/ufp/, ufp, 1.14, ufp 라이브러리 python 버전. 각종, 편리한 함수들의 모음., 2015-06-14T13:51:19+0000
+/project/mwtypes/, mwtypes, 0.3.2, A set of types for processing MediaWiki data., 2019-06-14T19:36:37+0000
+/project/csvutils/, csvutils, 0.1, Transformation utilities for csv (or csv-like) generated rows, 2007-12-15T19:22:38+0000
+/project/regex4dummies/, regex4dummies, 1.4.6, A NLP library that simplifies pattern finding in strings, 2015-12-25T23:11:42+0000
+/project/pushdown/, pushdown, 0.6.7, A fork form lark-parser, a modern parsing library, 2018-10-28T23:16:53+0000
+/project/vader-sentiment/, vader-sentiment, 3.2.1.1, VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains., 2019-01-08T10:00:51+0000
+/project/konval/, konval, 0.3dev, Routines for data validation & conversion, 2011-08-02T14:07:05+0000
+/project/pithy/, pithy, 0.0.13, Pithy is a collection of utility libraries for Python 3., 2020-05-06T16:09:48+0000
+/project/fortranformat/, fortranformat, 1.0.1, Mimics Fortran textual IO in Python, 2021-04-06T13:36:08+0000
+/project/bibolamazi-gui/, bibolamazi_gui, 3.0beta3, Prepare consistent BibTeX files for your LaTeX documents, 2015-05-11T10:05:21+0000
+/project/seqgentools/, seqgentools, 0.0.16, Sequence Generation Tools inspired by Python itertools., 2019-03-20T16:44:15+0000
+/project/luhn-algorithm-validator/, Luhn_Algorithm_Validator, 1.0.1, Luhn Account Number Validator, 2015-08-19T15:21:23+0000
+/project/bistring/, bistring, 0.4.0, Bidirectionally transformed strings, 2019-09-10T13:36:42+0000
+/project/seq-re/, seq-re, 0.2.1, 2-dimensional Sequence Regular Expression (SEQ RE), 2017-04-25T11:53:10+0000
+/project/piglatin/, piglatin, 1.0.6, Converts text to Pig Latin, 2020-01-07T06:13:58+0000
+/project/uctools/, uctools, 1.3.0, Unicode tools., 2020-07-14T11:26:59+0000
+/project/markups/, Markups, 3.1.1, A wrapper around various text markups, 2021-03-05T16:58:12+0000
+/project/webtimer/, webtimer, 0.0.2, Measures download times of web page resources., 2014-03-31T05:04:29+0000
+/project/cpytraceafl-regex/, cpytraceafl-regex, 0.2.0, A modified version of mrab-regex with added cpytraceafl instrumentation, 2020-06-19T21:34:20+0000
+/project/nlpia-bot/, nlpia_bot, 0.2.14, "An open framework and dataset for building a distributed-agent chatbot based on _Natural Language Processing in Action_.", 2020-03-18T22:09:16+0000
+/project/textnorm/, textnorm, 1.2, A simple package for normalizing whitespace and Unicode composition forms in Python 3 strings, 2020-05-07T09:34:04+0000
+/project/perke/, perke, 0.3.3, A keyphrase extractor for Persian, 2021-04-11T22:53:22+0000
+/project/py-openthesaurus/, py-openthesaurus, 1.0.5, Python wrapper for obtaining synonyms in the German language from OpenThesaurus, 2021-02-10T11:35:10+0000
+/project/cuts/, cuts, 0.37.7, Remove and/or rearrange sections from each line of a file(s)., 2015-07-26T21:23:19+0000
+/project/pyanyapi/, pyanyapi, 0.6.1, Tools for convenient interface creation over various types of data in a declarative way., 2017-11-07T10:38:23+0000
+/project/jelleprebenlol/, jelleprebenlol, 1.0.5, short desc, 2018-09-05T20:28:57+0000
+/project/deltas/, deltas, 0.6.2, An experimental diff library for generating operation deltas that represent the difference between two sequences of comparable items., 2021-01-04T03:19:37+0000
+/project/moments/, Moments, 2.0, Python package to process personal notes stored as moments log files, 2012-09-27T12:49:00+0000
+/project/py3o-formats/, py3o.formats, 0.3, Formats declarations for py3o, 2015-06-02T14:36:03+0000
+/project/ttg/, ttg, 0.1.dev3, Thai Text Generator library, 2020-05-26T10:43:40+0000
+/project/haggis/, haggis, 0.1a1, General purpose utility library, 2019-04-03T23:22:51+0000
+/project/percentcoding/, percentcoding, 0.1, percentcoding: fast percent encoding and decoding, 2011-03-13T22:21:27+0000
+/project/pyin/, pyin, 0.5.4, It's like sed, but Python!, 2015-08-04T03:52:50+0000
+/project/awkg/, awkg, 0.3.0, awkg is an awk-like text-processing tool powered by python language, 2019-08-01T22:52:06+0000
+/project/ko-nltk/, ko-nltk, 0.1, , 2018-04-18T07:01:07+0000
+/project/pa-scraper/, pa-scraper, 0.2.4, Python wrapper for Prompt API's Scraper API, 2020-10-06T04:44:38+0000
+/project/isbnlib-sbn/, isbnlib-sbn, 0.0.1, A plugin for isbnlib that pulls metadata from the Servizio Bibliotecario Nazionale (https://opac.sbn.it Italy), 2020-11-16T15:18:04+0000
+/project/decode-image/, decode_image, 1.0.0.5, Simple Command line and module for Decode/Encode Image File, 2015-06-25T09:44:31+0000
+/project/grako/, grako, 3.99.9, Grako takes a grammar in a variation of EBNF as input, and outputs a memoizing PEG/Packrat parser in Python., 2017-05-06T21:49:36+0000
+/project/md2gemini/, md2gemini, 1.8.1, Convert Markdown to the Gemini text format, 2020-12-08T20:56:28+0000
+/project/nltk2-fixed/, nltk2-fixed, 2.0.6, Natural Language Toolkit, 2018-11-14T11:18:12+0000
+/project/nltk/, nltk, 3.6.2, Natural Language Toolkit, 2021-04-20T07:42:47+0000
+/project/contex/, contex, 3.1.1, Contextual string manipulation, 2015-08-23T16:38:35+0000
+/project/emoji-extractor/, emoji-extractor, 1.0.19, Extract, detect and count emoji, 2021-02-15T20:56:07+0000
+/project/beancount2ledger/, beancount2ledger, 1.3, Beancount to Ledger converter, 2020-11-13T12:06:26+0000
+/project/elfws/, elfws, 0.4, EDA Log File Warning Suppressor, 2020-05-31T17:48:51+0000
+/project/catex/, CaTeX, 0.0.10, Concatenates LateX documents., 2016-08-06T22:02:31+0000
+/project/csscompressor/, csscompressor, 0.9.5, A python port of YUI CSS Compressor, 2017-11-26T21:13:08+0000
+/project/hammurabi/, hammurabi, 0.11.1, Hammurabi is an extensible CLI tool responsible for enforcing user-defined rules on a git repository., 2020-10-21T04:52:32+0000
+/project/pydatcom/, PyDatcom, 0.2.5, A python interface for DATCOM. Provides export/ parsing capabilities., 2012-08-18T20:48:02+0000
+/project/cloudtb/, cloudtb, 0.2.2, Open source methods to solve common problems, 2015-03-06T23:17:38+0000
+/project/pureyaml/, pureyaml, 0.1.0, Yet another yaml parser, in pure python., 2015-12-28T20:31:16+0000
+/project/pytextseg/, pytextseg, 0.2.0, Python module for text segmentation., 2012-03-31T04:47:10+0000
+/project/codewhisper/, codewhisper, 1.0.1, Dynamic parsing library, 2020-11-29T23:54:34+0000
+/project/dayone-export/, dayone_export, 1.0.0, Export Day One journal using Jinja2 templates, 2018-05-09T03:01:02+0000
+/project/elastictabstops/, ElasticTabstops, 1.0.0, Converts text indented/aligned with elastic tabstops, 2013-10-20T12:42:53+0000
+/project/luapatt/, luapatt, 0.9.0b5, Python implementation of Lua-style pattern matching, 2015-12-28T05:57:05+0000
+/project/parse2csv/, parse2csv, 0.1.4, A command-line tool to parse multiple files for named, 2018-06-05T17:07:06+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/anyascii/, anyascii, 0.2.0, Unicode to ASCII transliteration, 2021-04-18T08:33:15+0000
+/project/pressagio/, pressagio, 0.1.6, A Python Library for statistical text prediction., 2019-11-15T11:57:18+0000
+/project/jshint-scanner/, jshint-scanner, 1.0.0, Extracts Javascript from files and scans with Jshint., 2016-02-26T22:30:36+0000
+/project/mwpersistence/, mwpersistence, 0.2.4, A set of utilities for measuring content persistence and tracking authorship in MediaWiki revisions., 2015-11-17T20:57:52+0000
+/project/isbn-hyphenate/, isbn_hyphenate, 1.0.4, a Python library to add hyphens in the right place to an ISBN (International Standard Book Number), 2016-02-20T16:47:02+0000
+/project/dhelp/, dhelp, 0.0.5, DH Python tools for scraping web pages, pre-processing data, and performing nlp analysis quickly., 2018-05-24T13:25:53+0000
+/project/releaselogparser/, releaselogparser, 1.0.2, Release log parser., 2018-11-05T15:10:16+0000
+/project/asprise-ocr-sdk-python-api/, asprise_ocr_sdk_python_api, 15.3.0.8, Asprise OCR (optical character recognition) and barcode recognition SDK is a high performance royalty-free Python API library. It converts images (JPEG, PNG, TIFF, PDF, etc) into text, xml, searchable PDF or editable RTF/Word formats. Data capture are supported for processing documents like invoices and forms., 2015-06-18T07:32:51+0000
+/project/mzbench-api-client/, mzbench_api_client, 0.2.5, MZBench client lib, 2017-09-15T23:51:15+0000
+/project/pdfmate/, pdfmate, 0.4.9, Pyppeteer-based async python wrapper to convert html to pdf, 2020-12-06T12:56:36+0000
+/project/textteaser/, textteaser, 0.3, A package for summarizing text using the TextTeaser API, 2013-09-03T04:43:29+0000
+/project/chompjs/, chompjs, 1.1.2, Parsing JavaScript objects into Python dictionaries, 2021-04-24T23:57:09+0000
+/project/pdfkit/, pdfkit, 0.6.1, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2017-01-09T15:44:16+0000
+/project/pithytools/, pithytools, 0.0.1, Pithytools is a collection of command line utilities., 2020-05-06T16:10:08+0000
+/project/django-richtexteditor/, django-richtexteditor, 0.0.1.dev3, Django Rich Text Editor with many flavors, 2020-07-22T16:25:32+0000
+/project/fontstyle/, fontstyle, 1.0.1.2, Print prettier terminal strings., 2017-02-01T00:41:04+0000
+/project/fne-todo/, FNE-todo, 0.1.1, Simple command-line Todo app., 2019-09-04T12:55:20+0000
+/project/corpussearch/, corpussearch, 0.0.16, Tools for loading and analyzing large text corpora., 2018-12-07T13:53:10+0000
+/project/opensearch/, opensearch, 0.9.2, Interact with opensearch services, 2012-03-06T19:03:04+0000
+/project/webarticle2text/, webarticle2text, 3.0.2, Extracts the main article text from a webpage., 2017-06-28T02:16:39+0000
+/project/pytrec-eval-git/, pytrec-eval-git, 0.5, Provides Python bindings for popular Information Retrieval measures implemented within trec_eval., 2020-06-09T18:57:19+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/tmpy/, tmpy, 0.0.4, a text mining framework in Python, 2014-05-06T13:26:05+0000
+/project/art/, art, 5.1, ASCII Art Library For Python, 2020-11-30T17:28:25+0000
+/project/ezno-convert/, ezno-convert, 0.0.5b4, Convert office files quickly and easily through CLI, GUI, or windows explorer context menu, 2021-02-10T05:35:47+0000
+/project/xhtml2pdf/, xhtml2pdf, 0.2.5, PDF generator using HTML and CSS, 2020-10-08T18:57:39+0000
+/project/any2fixed/, any2fixed, 0.3.1, A tool to generate fixed length files from a list of python instances, 2015-07-27T10:54:14+0000
+/project/bibolamazigui/, bibolamazigui, 4.4, Prepare consistent BibTeX files for your LaTeX documents, 2020-11-01T21:38:54+0000
+/project/pyxurls/, pyxurls, 0.1.2, A regular expression based URL extractor which extracts URLs from text., 2021-01-15T05:27:44+0000
+/project/parsing/, parsing, 1.6.1, A pure-Python module that implements an LR(1) parser generator, as well as CFSM and GLR parser drivers., 2019-01-09T00:49:02+0000
+/project/pyreplace/, pyreplace, 1.0, Recursively find and replace in file names and contents., 2011-08-25T03:20:03+0000
+/project/asphalt-templating/, asphalt-templating, 2.0.1, Templating component for the Asphalt framework, 2017-06-04T12:39:41+0000
+/project/vit/, vit, 2.1.0, Visual Interactive Taskwarrior full-screen terminal interface, 2021-02-28T21:22:20+0000
+/project/prettystring/, prettystring, 0.1.1, Build ANSI color encoded strings with ease., 2016-12-09T20:23:29+0000
+/project/sectile/, sectile, 0.3, Multidimensional file stitcher, 2020-08-02T08:13:44+0000
+/project/rxpy/, RXPY, 0.1.0, A Regular Expression Library for Python, 2010-06-29T07:36:44+0000
+/project/isbnlib-bnf/, isbnlib-bnf, 1.0.1, A plugin for isbnlib that pulls metadata from BnF Catalogue General (France)., 2020-05-25T18:29:02+0000
+/project/tatsu/, tatsu, 5.6.1, TatSu takes a grammar in a variation of EBNF as input, and outputs a memoizing PEG/Packrat parser in Python., 2021-03-22T21:16:25+0000
+/project/cocopy/, CocoPy, 1.1.0rc, Python implementation of the famous CoCo/R LL(k) compiler generator., 2007-12-20T00:27:07+0000
+/project/tproc/, tproc, 1.0a2, A small yet powerful text processor, 2018-11-03T18:38:46+0000
+/project/cltk/, cltk, 1.0.11, The Classical Language Toolkit, 2021-04-13T02:45:30+0000
+/project/mydesire/, mydesire, 0.0.1, Korean version of loremipsum, 2014-10-09T08:36:12+0000
+/project/cmdparser/, cmdparser, 1.0.1, Command parsing extensions to the cmd module., 2013-01-14T14:37:34+0000
+/project/linecounter/, linecounter, 1.3.2, linecounter for files, 2015-07-21T22:06:03+0000
+/project/mediawiki-utilities/, mediawiki-utilities, 0.4.18, A set of utilities for extracting and processing MediaWiki data., 2015-09-10T19:00:32+0000
+/project/konlp/, konlp, 0.0.8, Korean Natural Language Toolkit, 2018-05-04T05:21:33+0000
+/project/opentabulate/, opentabulate, 2.1.1, Tabulates structured data into a mergeable CSV format, 2020-07-15T00:03:30+0000
+/project/sherlok/, sherlok, 0.1.6, A Python client for Sherlok, 2015-11-17T13:50:06+0000
+/project/random-pesel/, random-pesel, 1.0, Random PESEL number generator, 2020-03-13T15:53:50+0000
+/project/unmatcher/, unmatcher, 0.1.4, Regular expression reverser for Python, 2017-09-16T12:34:11+0000
+/project/gxsphinx/, GxSphinx, 1.0.0, Python documentation generator, 2020-08-04T03:07:53+0000
+/project/normalize-cz-unicode/, normalize_cz_unicode, 1.0.1, Take unicode string, leave czech characters, normalize rest., 2015-05-21T13:53:33+0000
+/project/wikiclass/, wikiclass, 0.3.2, A library for performing automatic detection of assessment classes of Wikipedia articles., 2017-01-07T19:18:27+0000
+/project/jgtextrank/, jgtextrank, 0.1.6, Yet another Python implementation of TextRank: package for the creation, manipulation, and study of TextRank algorithm based keywords extraction and summarisation, 2019-11-27T11:51:43+0000
+/project/markdown-textwrap/, markdown-textwrap, 0.2.1, Text wrap Markdown Documents, 2018-05-06T13:08:01+0000
+/project/ibis/, ibis, 3.2.0, A template engine for people who enjoy the simpler things in life., 2021-03-27T18:22:35+0000
+/project/esprima/, esprima, 4.0.1, ECMAScript parsing infrastructure for multipurpose analysis in Python, 2018-08-24T13:59:11+0000
+/project/orange3-textable/, Orange3-Textable, 3.1.9, Textable add-on for Orange 3 data mining software package., 2021-04-15T05:49:10+0000
+/project/phonetics/, phonetics, 1.0.5, Compute phonetic key of strings for indexing or fuzzy matching, 2018-03-23T15:38:37+0000
+/project/gns-deb-diff/, gns-deb-diff, 0.1.1, Documents difference between gNewsSense and Debian., 2017-03-02T00:53:53+0000
+/project/convert2geojson/, convert2geojson, 0.0.2, Tools for converting dataframes to GeoJSON format., 2018-09-18T12:00:48+0000
+/project/textmining3/, textmining3, 1.1.0, Text Mining Utilities for Python 3, 2018-10-13T10:26:28+0000
+/project/optionset/, optionset, 20.10.23, A lightweight tool for conducting parameter studies., 2020-10-23T11:33:09+0000
+/project/rowordnet/, rowordnet, 1.1.0, Python API for the Romanian WordNet, 2020-08-06T10:47:09+0000
+/project/terminalprinter/, TerminalPrinter, 1.5.2, 终端图片、文字生成器, 2019-12-01T01:44:25+0000
+/project/django-autoslug-iplweb/, django-autoslug-iplweb, 1.9.5, An automated slug field for Django., 2019-10-21T14:58:15+0000
+/project/konlp-test/, konlp-test, 0.0.7.dev1, Korean Natural Language Toolkit, 2018-04-24T12:00:20+0000
+/project/biblib/, biblib, 0.1.3, A library to handle BibTeX bibliographic data., 2018-03-22T09:25:05+0000
+/project/lark/, lark, 0.11.1, a modern parsing library, 2020-11-16T19:48:10+0000
+/project/parsimonious/, parsimonious, 0.8.1, (Soon to be) the fastest pure-Python PEG parser I could muster, 2018-06-21T01:50:51+0000
+/project/meaningcloud-python/, MeaningCloud-python, 2.0.0, Official Python SDK for MeaningCloud APIs, 2020-09-15T08:52:46+0000
+/project/mwxml/, mwxml, 0.3.3, A set of utilities for processing MediaWiki XML dump data., 2017-07-02T16:22:42+0000
+/project/isbntools/, isbntools, 4.3.27, app and framework for 'all things ISBN' (International Standard Book Number) including metadata, descriptions, covers... ., 2021-04-13T11:34:28+0000
+/project/tvsongs/, tvsongs, 0.5, Find and listen to songs featured in TV shows., 2017-04-29T20:51:46+0000
+/project/mathsolver/, mathsolver, 0.1.0, Decode natural language to solve mathemathical calculations, 2019-02-11T07:33:06+0000
+/project/plyplus/, PlyPlus, 0.7.5, a friendly yet powerful LR-parser written in Python, 2017-02-07T15:03:59+0000
+/project/text-tools/, text-tools, 1.0.0, Various tools for manipulating text, 2019-06-29T16:24:45+0000
+/project/tablet/, tablet, 0.9.3, A tiny spreadsheet-like data structure and tool, 2012-07-23T14:34:34+0000
+/project/imgkit/, imgkit, 1.2.2, Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt, 2021-04-10T13:49:38+0000
+/project/traceanalyzer/, traceanalyzer, 1.0.4, This library  provides analyzing and plotting functions for ns2 trace file in Python., 2019-11-18T05:47:57+0000
+/project/json-diff/, json-diff, 1.5.0, Generates diff between two JSON files, 2019-08-25T19:43:51+0000
+/project/markdown-link-style/, markdown-link-style, 0.2.1, Switch between inline and footnote link style in markdown documents., 2020-07-11T22:29:30+0000
+/project/pyngram/, pyngram, 1.0.1, A simple Python n-gram calculator, 2010-05-21T23:33:37+0000
+/project/transformers-domain-adaptation/, transformers-domain-adaptation, 0.3.1, Adapt Transformer-based language models to new text domains, 2021-01-22T19:21:03+0000
+/project/emoji-country-flag/, emoji-country-flag, 1.2.4, En/Decode unicode country flags emoji, 2021-03-15T19:46:43+0000
+/project/marcup/, marcup, 0.5, manage create/update/deletes marc feeds, 2008-12-14T02:53:13+0000
+/project/json-nn/, json-nn, 1.0.0, JSON parser, powered by Tensorflow., 2017-02-19T02:10:25+0000
+/project/jsre/, jsre, 1.1.1, Regular expression module for forensics and big data, 2018-12-12T20:18:09+0000
+/project/pycantonese/, pycantonese, 3.2.3, PyCantonese: Cantonese Linguistics and NLP in Python, 2021-04-12T13:59:39+0000
+/project/isbnlib-oclc/, isbnlib-oclc, 0.0.1.post1, DISCONTINUED! A plugin for isbnlib that pulls metadata from classify.oclc.org., 2019-05-09T09:31:35+0000
+/project/tokenregex/, tokenregex, 0.1.14, NLP at your fingertips, 2016-11-07T21:44:17+0000
+/project/nlcodec/, nlcodec, 0.3.1, nlcodec is a collection of encoding schemes for natural language sequences.  nlcodec.db is a efficient storage and retrieval layer for integer sequences of varying lengths., 2021-02-24T21:03:34+0000
+/project/python-tr/, python-tr, 0.1.2, A Pure-Python implementation of the tr algorithm, 2016-03-11T00:15:28+0000
+/project/vader-multi/, vader-multi, 3.2.2.1, VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains., 2019-10-29T12:37:11+0000
+/project/bvill-apdft/, bvill.apdft, 0.1.0a1, Another PDF Tool helps you quickly operate on PDF files with actions such as rotate, merging, and splitting via the command-line. Currently only supports merging., 2020-04-26T22:23:35+0000
+/project/uniprop/, uniprop, 1.6, 'uniprop' provides the Unicode properties of codepoints similar to those of the unicodedata module., 2020-06-21T01:41:51+0000
+/project/timetravel/, timetravel, 1.0, A time machine for your calendar., 2016-11-08T21:12:17+0000
+/project/names-comparator/, names_comparator, 1.0.0, Simple tool to compare almost similar names which are coming from the same source (for example list of all company owners and officers of that company). Helps to cluster together persons with a slight difference in name spelling/typos. Better suited for Cyrillic names, but should work everywhere, 2019-09-27T14:56:11+0000
+/project/awkupy/, awkupy, 0.1.0b0, A simple Python interface and IPython/Jupyter magic for AWK, 2020-04-13T14:01:20+0000
+/project/koshort/, koshort, 0.4.1.7, koshort is a Python package for Korean internet spoken language crawling and processing... or maybe Korean domestic cat., 2018-06-09T08:41:32+0000
+/project/pangu/, pangu, 4.0.6.1, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-02-08T18:17:28+0000
+/project/dynamictableprint/, dynamictableprint, 1.0.3, Wrapper around TablePrint to adjust columns to the window size, 2018-07-09T00:47:35+0000
+/project/thai2transformers/, thai2transformers, 0.1.2, Pretraining transformer based Thai language models, 2021-03-20T02:36:01+0000
+/project/nlup/, nlup, 0.8, ('Core libraries for natural language processing',), 2018-12-27T23:18:29+0000
+/project/partpy/, partpy, 1.2.4, Parser Tools in Python, a collection of tools for hand writing lexers and parsers., 2013-08-13T12:56:06+0000
+/project/eav-django/, eav-django, 1.4.7, a reusable Django application which implements the Entity-Attribute-Value data model., 2014-10-03T21:30:42+0000
+/project/bestia/, bestia, 3.6, A collection of tools for building dynamic Command-Line applications, 2020-11-22T15:50:36+0000
+/project/pyjson5/, pyjson5, 1.5.0, JSON5 serializer and parser for Python 3 written in Cython., 2021-03-11T20:44:23+0000
+/project/porterstemmer/, PorterStemmer, 0.5, Porter Stemmer for Python, 2012-07-24T05:44:38+0000
+/project/isbnlib-mcues/, isbnlib-mcues, 0.0.3, A plugin for isbnlib that pulls metadata from Ministerio de Cultura (Spain)., 2020-11-16T15:22:55+0000
+/project/py3o-fusion/, py3o.fusion, 0.8.9, A Fusion server that will transform your py3o.template into final LibreOffice documents, 2018-07-03T15:36:38+0000
+/project/lc-django-autoslug/, lc-django-autoslug, 1.9.5, An automated slug field for Django., 2020-05-11T08:38:04+0000
+/project/num2fawords/, num2fawords, 1.1, A tool to convert numbers (int, float) into Persian words, 2018-01-17T11:27:39+0000
+/project/eztemplate/, eztemplate, 0.3.0, Simple templating program to generate plain text (like config files) from name-value pairs., 2016-02-29T06:58:42+0000
+/project/humanize/, humanize, 3.4.1, Python humanize utilities, 2021-04-12T15:40:06+0000
+/project/dropcols/, dropcols, 1.0.1.0, Filter a CSV file, extracting columns selected by name or position., 2011-10-05T13:08:46+0000
+/project/rst2textile/, rst2textile, 0.2.1, rst2textile is docutils textile writer convert reStructuredText(rst) to Textile format., 2014-10-04T09:54:22+0000
+/project/kindred/, kindred, 2.7.8, A relation extraction toolkit for biomedical text mining, 2021-03-05T18:43:55+0000
+/project/patentpy/, patentpy, 0.1.0, A project taking USPTO bulk patent data and converting it to rectangular format using pybind11, 2021-03-08T04:05:20+0000
+/project/querycsv/, querycsv, 0.3.0.0, Execute SQL code against data contained in one or more comma-separated-value (CSV) files., 2011-09-04T16:04:33+0000
+/project/eunjeon/, eunjeon, 0.4.0, Python interface for eunjeon project & mecab based morphological analyzer., 2019-01-17T00:42:22+0000
+/project/unilyze/, unilyze, 0.2.1, Get detailed unicode information about characters and text, 2020-07-23T06:23:03+0000
+/project/tokipona/, tokipona, 0.1b0, A package for dealing with toki pona: vim syntax highlighting, tokipona wordnets, analysis of the vocabulary, synthesis of texts, 2018-02-12T16:37:54+0000
+/project/mycapytain/, MyCapytain, 3.0.2, Library for CTS APIs and CapiTainS guidelines in Python, 2020-04-28T09:13:39+0000
+/project/mwevents/, mwevents, 0.1.0, Standardized public MediaWiki events for tools and Science., 2014-08-03T17:46:29+0000
+/project/smallparts/, smallparts, 1.0.0, A humble collection of convenience modules for use with Python 3, 2020-10-15T13:49:34+0000
+/project/design-explorer/, design-explorer, 0.3, Design Explorer, 2018-06-17T21:48:01+0000
+/project/python-stdnum-do/, python-stdnum-do, 1.14, Python module to handle standardized numbers and codes, 2020-12-11T22:29:22+0000
+/project/sourpuss/, sourpuss, 0.3, Like feeding pickles to a cat(1), 2018-10-02T02:26:00+0000
+/project/collective-classification/, collective.classification, 0.1b2, Content classification/clustering through language processing, 2010-08-05T18:56:01+0000
+/project/german-foodemoji/, german-foodemoji, 1.1.9, Decorate German text with food specific emojis, 2021-03-19T12:52:20+0000
+/project/kennyg/, kennyg, 0.1.6, KennyG SAX Handler, 2014-08-24T19:25:21+0000
+/project/shortcodes/, shortcodes, 5.1.1, A library for parsing customizable WordPress-style shortcodes., 2021-03-10T10:15:50+0000
+/project/deep-utils-dynamodb/, deep-utils.dynamodb, 1.0.0, Dynamodb helpers for DEEP, 2020-08-17T06:49:29+0000
+/project/asha/, asha, 0.0.4, An unicode and ascii colour, emotes, art and loader library for terminals., 2020-01-15T11:02:49+0000
+/project/pugnlp/, pugnlp, 0.2.6, Python Natural Language Processing by and for the Python User Group in Portland, OR, 2020-06-26T17:54:57+0000
+/project/bitermplus/, bitermplus, 0.6.4, Biterm Topic Model, 2021-04-18T09:49:51+0000
+/project/intervaltree/, intervaltree, 3.1.0, Editable interval tree data structure for Python 2 and 3, 2020-08-03T08:01:11+0000
+/project/booktool/, booktool, 0.7.0, eBook (EPUB and Audiobook) management tool, 2021-02-21T13:29:38+0000
+/project/graph-talk/, graph-talk, 0.3.1, Library for structured information processing: parsing, interpreting, converting, etc., 2014-11-23T10:27:47+0000
+/project/phrasetree/, phrasetree, 0.0.8, Phrase Tree from Natural Language Toolkit, 2021-03-05T16:53:28+0000
+/project/cdifflib/, cdifflib, 1.2.5, C implementation of parts of difflib, 2019-05-08T13:57:10+0000
+/project/django-autoslug/, django-autoslug, 1.9.8, An automated slug field for Django., 2020-07-22T08:27:57+0000
+/project/htk-lite/, htk-lite, 1.0.0, Python utilities by Hacktoolkit., 2020-01-24T18:33:24+0000
+/project/curious/, curious, 1.2.0, Graph-based data exploration tool, 2018-04-06T15:40:17+0000
+/project/eventregistry/, eventregistry, 8.9, A package that can be used to query information in Event Registry (http://eventregistry.org/), 2020-10-21T16:39:19+0000
+/project/keyserver/, keyserver, 1.0.0.3, Command line Pub key generator from keyserver.ubuntu.com, 2015-06-25T22:14:31+0000
+/project/twps/, twps, 2.0.2, TWPS: (T)ext (W)ith (P)ython (S)nippets preprocessor, 2020-01-25T23:23:48+0000
+/project/indexconfigparser/, IndexConfigParser, 1.2, Python library to parse config files that require indexing, 2013-07-09T03:59:56+0000
+/project/viz/, viz, 0.0.5, Data visualization in the terminal, 2014-01-18T13:51:55+0000
+/project/junkdetect/, junkdetect, 0.1.2, Junk Not-Junk Detector, 2020-06-18T23:51:39+0000
+/project/keywordtree/, keywordtree, 0.1.6, , 2019-06-02T22:19:39+0000
+/project/ooopy/, OOoPy, 2.0, OOoPy: Modify OpenOffice.org documents in Python, 2020-02-06T21:58:50+0000
+/project/test-packaging/, test-packaging, 0.1.6, Test of packaging., 2020-08-21T14:25:49+0000
+/project/pythaisa/, pythaisa, 0.2.1, Python Thai Sentiment Analysis, 2019-09-21T05:21:46+0000
+/project/comma/, comma, 0.5.3, Python CSV, and delimiter-spaced files, for humans!, 2020-08-08T02:29:48+0000
+/project/rst2txt/, rst2txt, 1.1.0, Convert reStructuredText to plain text, 2019-02-28T12:00:00+0000
+/project/deep-utils-deduplication/, deep-utils.deduplication, 1.0.8, Document deduplication package for DEEP, 2020-11-02T16:09:46+0000
+/project/ooopy-alt/, OOoPy-alt, 1.11, OOoPy: Modify OpenOffice.org documents in Python, 2017-08-30T17:19:08+0000
+/project/biomedicus/, biomedicus, 3.0b10, A biomedical and clinical NLP engine., 2021-03-11T00:50:31+0000
+/project/rextract/, rextract, 1.1.0, Powerful commandline tool to extract and manipulate strings using regular exressions, 2018-03-13T03:34:00+0000
+/project/vadersentiment-swedish/, vaderSentiment-swedish, 1.0.3, VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains., 2019-10-27T14:03:38+0000
+/project/pywekaclassifiers/, pywekaclassifiers, 0.0.3, A Python wrapper for the Weka data mining library., 2018-12-28T19:26:38+0000
+/project/nlp-profiler/, nlp-profiler, 0.0.3, A simple NLP library allows profiling datasets with one or more text columns., 2020-12-13T19:20:01+0000
+/project/ucs-detect/, ucs-detect, 0.0.4, Detects the Unicode Version of an interactive terminal for export, 2020-06-20T18:31:02+0000
+/project/phrase/, phrase, 0.0.10, Phrase: generates phrases given a corpus, 2014-10-02T19:18:39+0000
+/project/hooktest/, HookTest, 1.3.1, Hook Test Script for GitHub/CapiTainS repositories based on MyCapytain 3.0.0 or higher, 2020-01-23T08:40:35+0000
+/project/bundled-pdfkit/, bundled-pdfkit, 0.6.1, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2019-11-18T08:09:16+0000
+/project/pymarc/, pymarc, 4.1.0, Read, write and modify MARC bibliographic data, 2021-03-30T15:12:22+0000
+/project/laonlp/, LaoNLP, 0.2.dev1, Lao Natural Language Processing library, 2021-03-03T14:59:38+0000
+/project/pymarkovtextgenerator/, PyMarkovTextGenerator, 1.0.2, Random text generator base on Markov chains., 2014-05-22T14:34:25+0000
+/project/isbnlib/, isbnlib, 3.10.7, Extract, clean, transform, hyphenate and metadata for ISBNs (International Standard Book Number)., 2021-04-12T09:50:06+0000
+/project/mwdiffs/, mwdiffs, 0.0.2, A set of utilities for processing revision diffs from MediaWiki data., 2015-09-28T20:40:45+0000
+/project/pdf-rules/, pdf-rules, 1.0.0, Tools to turn a PDF into a CSV, pythonically, 2020-08-24T10:35:52+0000
+/project/penelope/, penelope, 3.1.3.0, Penelope is a multi-tool for creating, editing and converting dictionaries, especially for eReader devices, 2016-09-23T09:27:17+0000
+/project/cwsharp/, cwsharp, 0.2, Chinese Words Segementations, 2017-11-10T04:44:59+0000
+/project/pdfkit-async/, pdfkit-async, 0.7.2, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2020-05-09T21:02:10+0000
+/project/africanwordnet/, africanwordnet, 0.0.1, A library for African WordNet., 2020-11-25T16:46:54+0000
+/project/varas/, Varas, 1.1, Pratt parser framework, 2012-04-24T14:46:42+0000
+/project/icd10-c2cdc/, icd10-c2cdc, 0.0.2, Converts ICD-10 codes to CDC/NCHS Selected Causes of Death codes., 2020-12-12T21:59:19+0000
+/project/boolrule/, boolrule, 0.3.2, Simple boolean expression evaluation engine, 2020-10-22T12:32:24+0000
+/project/txt2mobi3-app/, txt2mobi3-app, 0.2.1, A PyQt5 application for converting Chinese novel txt files into Kindle mobi files., 2018-11-05T06:26:20+0000
+/project/regex/, regex, 2021.4.4, Alternative regular expression module, to replace re., 2021-04-04T16:50:49+0000
+/project/languagedet/, languagedet, 0.1.1, Python clases for detecting languges., 2013-11-20T05:40:27+0000
+/project/molstruct/, molstruct, 3.0.0, Convert chemical molecule data CSV files to structured data formats, 2021-04-21T20:52:57+0000
+/project/bitlyclip/, bitlyclip, 0.2.2, bit.ly-fy a url in the X clipboard, 2012-08-29T19:20:08+0000
+/project/hdpwordseg/, hdpwordseg, 1.1.9, HDP Word Segmentor, 2015-06-08T15:06:26+0000
+/project/csvgen/, csvgen, 1.0.0, A command line CSV data output generator for testing, 2018-03-31T20:13:39+0000
+/project/txt2mobi3/, txt2mobi3, 0.2.12, Convert Chinese novel txt files into Kindle mobi files., 2018-11-05T05:47:42+0000
+/project/nlpia/, nlpia, 0.5.2, Natural Language Processing in Action examples, data, and utilities, 2020-07-03T17:59:37+0000
+/project/qtwekawrapper/, QtWekaWrapper, 0.0.3, A Python wrapper for the Weka graphics ., 2018-12-28T22:45:01+0000
+/project/smoothtables/, smoothtables, 1.0.0, A module to generate tables and panels with box drawing borders., 2021-04-11T21:35:51+0000
+/project/ssg/, ssg, 0.0.6, Thai syllable segmentation using Conditional Random Fields, 2019-10-03T09:56:09+0000
+/project/pyalgs/, pyalgs, 0.0.13, Python implementation of algorithms on string handling, data structure, graph processing, etc, 2017-05-26T05:54:06+0000
+/project/nskipgrams/, nskipgrams, 0.3.0, A lightweight Python package to work with ngrams and skipgrams, 2021-03-29T03:51:09+0000
+/project/newmm-tokenizer/, newmm-tokenizer, 0.2.1, Standalone Dictionary-based, Maximum Matching + Thai Character Cluster (newmm) tokenizer extracted from PyThaiNLP, 2020-10-26T09:29:25+0000
+/project/pdfgen/, pdfgen, 1.0.5, Pyppeteer-based async python wrapper to convert html to pdf, 2020-08-12T18:11:24+0000
+/project/pandoccompose/, PandocCompose, 0.0.8, PandocCompose lets you manage your documentation base using Pandoc, 2020-04-17T11:20:40+0000
+/project/rank-eval/, rank-eval, 0.0.1, A collection of fast ranking evaluation metrics built with Numba, 2021-04-02T18:17:48+0000
+/project/ssv/, ssv, 0.1.1, SSV stands for separator separated values., 2016-05-29T13:40:50+0000
+/project/clip-the-gym/, clip-the-gym, 0.0.2, Helper script to download audio from youtube for the gym, 2012-09-06T14:54:51+0000
+/project/ucrypt/, ucrypt, 1.0.4, An encryption/compression utility for data files., 2017-01-13T23:52:02+0000
+/project/mysqltsv/, mysqltsv, 0.0.7, TSV Reader for the MySQL dialect., 2016-01-30T18:40:14+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/jsontextmc/, jsontextmc, 2.0.3, JSONTextMC converts legacy color codes to the modern JSON format., 2020-08-27T03:18:48+0000
+/project/creadoc/, creadoc, 0.0.5, Дизайнер отчетов на основе Stimulsoft Report Js, 2016-06-15T08:46:30+0000
+/project/humps/, humps, 0.2.2, camelCase converter, 2018-03-13T09:10:15+0000
+/project/ja-sentence-segmenter/, ja-sentence-segmenter, 0.0.2, sentence segmenter for japanese text, 2020-02-22T16:09:25+0000
+/project/chkcsv/, chkcsv, 1.2.0, Checks the format of a CSV file with respect to a specifed set of column names and types., 2020-01-26T19:42:11+0000
+/project/bag/, bag, 3.1.0, A library for several purposes, including javascript i18n and stuff for the Pyramid web framework., 2021-01-26T19:16:15+0000
+/project/isbnlib-dnb/, isbnlib-dnb, 0.0.4, A plugin for isbnlib that pulls metadata from the Deutsche National Bibliothek (Germany), 2020-11-16T15:21:49+0000
+/project/marcx/, marcx, 0.2.11, MARC record manipulation library based on pymarc, 2020-02-20T15:53:05+0000
+/project/smc-bibencodings/, smc.bibencodings, 0.1, ISO-5426 (MAB2) and MARC (USMARC, ANSEL) encodings for Python., 2012-07-15T16:51:09+0000
+/project/kitchen/, kitchen, 1.2.6, Kitchen contains a cornucopia of useful code, 2019-05-14T19:52:35+0000
+/project/names-translator/, names_translator, 1.2.3, Automatic translation and transliteration of ukrainian names into Russian and English + some extra tools to deal with mixed languages, etc, 2020-10-12T10:16:23+0000
+/project/tokenquery/, tokenquery, 0.1.1, Tokenquery - query language for tokens , 2017-01-31T00:59:56+0000
+/project/rewrapped/, rewrapped, 0.5.0, Class wrappers for regular expressions with proper fields for match groups., 2018-02-26T19:45:42+0000
+/project/isbnlib-worldcat2/, isbnlib-worldcat2, 0.1.2, An isbnlib plugin for the WorldCat service (https://www.worldcat.org/)., 2019-05-15T17:38:19+0000
+/project/wu/, wu, 0.0.0, Writeup is a markup language that transforms to HTML., 2019-05-24T14:49:17+0000
+/project/chopro/, chopro, 0.2.0, Utilities for manipulating, converting, and rendering ChoPro/ChordPro text, 2020-01-03T06:12:47+0000
+/project/convert2utf/, convert2utf, 1.3.2, A one-line command that converts source code files into UTF-8 or UTF-8-BOM., 2018-12-25T14:26:27+0000
+/project/weka/, weka, 1.0.6, A Python wrapper for the Weka data mining library., 2019-04-09T18:30:37+0000
+/project/ctrfoobar2000/, ctrfoobar2000, 1.2.0.2, Control Foobar2000 with python + Command line, 2015-06-28T14:47:33+0000
+/project/linguistica/, linguistica, 5.2.1, Linguistica 5: Unsupervised Learning of Linguistic Structure, 2018-10-12T13:15:51+0000
+/project/django-autoslugged/, django-autoslugged, 2.0.0.post0, An automated slug field for Django., 2020-05-25T16:43:29+0000
+/project/pycompressor/, pycompressor, 0.0.2, Python implementation of a string compressor, 2017-06-04T05:18:44+0000
+/project/journalist/, journalist, 0.0.3, App to write journal digitally, 2018-01-03T15:16:05+0000
+/project/mwcli/, mwcli, 0.0.3, Utilities for processing MediaWiki on the command line., 2020-01-14T19:11:39+0000
+/project/json-transporter/, json-transporter, 0.2.3, A JSON data transporter, 2015-08-31T21:26:40+0000
+/project/poio-api/, poio-api, 0.3.6, A Python Library to access and manipulate linguistically annotated corpus files., 2014-07-28T08:24:39+0000
+/project/repchar/, repchar, 1.0.2, Simple reporter for characters used in a file, 2018-05-03T17:06:26+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/news-corpus-builder/, news-corpus-builder, 0.1.4, Quickly build a news/web corpus with specifc topics or terms automatically from Google News or by specifying                 article links in a file. This module automatically extracts the body and title from each article and saves                the result to either flatfiles or sqlite database., 2015-10-03T02:47:03+0000
+/project/querycsv-redux/, querycsv-redux, 4.1.0, Execute SQL code against data contained in one or more comma-separated-value (CSV) files., 2016-09-28T02:03:55+0000
+/project/openfst/, openfst, 1.6.9, Python wrapper for OpenFst, 2018-07-27T03:16:52+0000
+/project/tangled-up-in-unicode/, tangled-up-in-unicode, 0.0.7, Access to the Unicode Character Database (UCD), 2021-03-09T18:48:01+0000
+/project/rosie/, rosie, 1.1.4, Rosie Pattern Language (replaces regex for data mining and text search), 2019-10-08T20:42:07+0000
+/project/simpletail/, simpletail, 1.0.0, Read file in reverse order, 2019-05-28T12:08:51+0000
+/project/mufi/, mufi, 0.3.0, Mufi: simple music finder for command-line, 2021-03-06T11:21:11+0000
+/project/pysed/, pysed, 0.7.8, CLI utility that parses and transforms text, 2015-07-03T20:03:34+0000
+/project/wordseg/, wordseg, 0.0.2, Word segmentation models, 2020-10-12T02:30:11+0000
+/project/python-stdnum/, python-stdnum, 1.16, Python module to handle standardized numbers and codes, 2021-02-06T16:35:07+0000
+/project/filesequence/, filesequence, 0.1.12, Write to an indexed sequence of files using the standard Python file API, 2013-09-14T22:16:12+0000
+/project/msparser/, msparser, 1.4, Valgrind massif.out parser, 2012-10-27T14:53:14+0000
+/project/pygreppy/, pygreppy, 1.0.0, Tool for searching in python source code, 2018-01-11T22:03:19+0000
+/project/mendeley2biblatex/, mendeley2biblatex, 0.1.8, A tool to convert your Mendeley to a biblatex library, 2016-07-20T14:14:19+0000
+/project/animelyrics/, animelyrics, 0.1.0, Library to extract song lyrics from www.animelyrics.com, 2019-06-23T09:16:40+0000
+/project/xhtml2pdf-legacy/, xhtml2pdf-legacy, 3.0.38, PDF generator using HTML and CSS, 2017-06-26T08:32:34+0000
+/project/nlptools/, nlptools, 0.5.1, Unix inspired utilities for Natural Language Processing, 2017-07-31T18:50:00+0000
+/project/ppeg/, PPeg, 0.9.4, A Python port of Lua's LPeg pattern matching library, 2015-11-15T21:04:16+0000
+/project/th-simple-preprocessor/, th-simple-preprocessor, 0.4.0, Simple Thai Preprocess Functions, 2021-03-01T08:09:10+0000
+/project/pangu2/, pangu2, 5.0, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-08-02T07:48:50+0000
+/project/plywood/, plywood, 2.1.0, A template language grammar inspired by the Python code aesthetic, 2019-07-24T19:37:05+0000
+/project/phablytics/, phablytics, 3.0.1, Analytics, metrics, and reports for Phabricator (https://phacility.com/phabricator/)., 2021-04-07T03:00:25+0000
+/project/gibberish-detector/, gibberish-detector, 0.1.1, Detects gibberish strings., 2021-03-04T15:05:57+0000
+/project/iter8/, iter8, 0.0.3, More itertools, 2017-10-22T20:58:54+0000
+/project/sqlint/, sqlint, 0.2.4, Simple Sql Linter, 2019-10-22T16:36:23+0000
+/project/rangeen/, rangeen, 0.0.1, An unicode and ascii colour, emotes, art and loader library for terminals., 2020-01-11T16:08:54+0000
+/project/bibolamazi/, bibolamazi, 4.4, Prepare consistent BibTeX files for your LaTeX documents, 2020-11-01T21:38:38+0000
+/project/publicstatic/, publicstatic, 0.7.8.4, Yet another static website builder. A good one., 2014-04-07T13:03:44+0000
+/project/kadot/, Kadot, 0.1.9, Kadot, unsupervised natural language processing., 2017-07-31T17:14:46+0000
+/project/dpline/, dpline, 1.3, dpline is tool to remove duplicate lines from file, 2015-09-19T05:16:01+0000
+/project/marcx/, marcx, 0.2.11, MARC record manipulation library based on pymarc, 2020-02-20T15:53:05+0000
+/project/smc-bibencodings/, smc.bibencodings, 0.1, ISO-5426 (MAB2) and MARC (USMARC, ANSEL) encodings for Python., 2012-07-15T16:51:09+0000
+/project/kitchen/, kitchen, 1.2.6, Kitchen contains a cornucopia of useful code, 2019-05-14T19:52:35+0000
+/project/weka/, weka, 1.0.6, A Python wrapper for the Weka data mining library., 2019-04-09T18:30:37+0000
+/project/ctrfoobar2000/, ctrfoobar2000, 1.2.0.2, Control Foobar2000 with python + Command line, 2015-06-28T14:47:33+0000
+/project/linguistica/, linguistica, 5.2.1, Linguistica 5: Unsupervised Learning of Linguistic Structure, 2018-10-12T13:15:51+0000
+/project/django-autoslugged/, django-autoslugged, 2.0.0.post0, An automated slug field for Django., 2020-05-25T16:43:29+0000
+/project/unpdf/, unpdf, 0.0.1, Extract text from PDF., 2017-10-10T13:55:28+0000
+/project/emoji2text/, emoji2text, 0.1.7, Can't handle emoji? Use this to treat them as plain strings, according to the description provided by unicode., 2018-04-21T23:14:44+0000
+/project/fnetodo/, FNEtodo, 0.1.1, Simple command-line Todo app., 2019-09-04T10:51:41+0000
+/project/textfairy/, textfairy, 0.1.0, textfairy converts your text to UTF-8, 2016-07-17T00:43:57+0000
+/project/tableprint/, tableprint, 0.9.1, Pretty console printing of tabular data, 2020-08-09T23:56:25+0000
+/project/sphinx/, Sphinx, 3.5.4, Python documentation generator, 2021-04-11T11:27:38+0000
+/project/find-best-string/, find-best-string, 0.1.0, Finds the best matching string in a larger string., 2018-09-11T00:02:07+0000
+/project/pylatexenc/, pylatexenc, 2.10, Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion, 2021-04-06T07:56:07+0000
+/project/celery-geolocator/, celery_geolocator, 0.0.11, Celery Geolocator, 2014-09-11T22:35:33+0000
+/project/interlinears/, Interlinears, 0.2, Pretty-printing of linguistic interlinears, 2014-04-17T20:13:02+0000
+/project/konlpy/, konlpy, 0.5.2, Python package for Korean natural language processing., 2019-12-03T08:19:18+0000
+/project/tekorrect/, tekorrect, 0.0.3, 用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。, 2020-01-09T07:32:08+0000
+/project/articlequality/, articlequality, 0.4.2, A library for performing automatic detection of assessment classes of Wikipedia articles., 2020-04-17T20:16:07+0000
+/project/teax/, teax, 0.0.dev1, Command line utilities for TeX. Arm yourself with secret powers!, 2016-02-03T22:03:50+0000
+/project/notifydict/, notifydict, 0.1.2, a dictionary which will fire a callback if its changed, 2018-07-15T08:56:52+0000
+/project/pybridge/, pybridge, 1.0.1, Bridge for Python (Bridge is a light-weight portable Natural Language Processing Library), 2015-07-29T10:40:41+0000
+/project/spongemock/, spongemock, 0.3.4, Mock some text like spongebob would. mOCk SoMe TexT lIKe SpONGebOb wOuLd., 2017-05-19T20:39:12+0000
+/project/rdfframework/, rdfframework, 0.0.38, Application builder for KnowledgeLinks.io RDF applications., 2018-05-08T14:39:06+0000
+/project/awk/, awk, 1.2.1, A library to provide advanced awk-like functionalities for file manipulation in Python., 2016-11-03T02:23:45+0000
+/project/money-parser/, money-parser, 0.0.1, Price and currency parsing utility, 2017-12-17T19:27:07+0000
+/project/marc2bib/, marc2bib, 0.1.4, Easily convert MARC bibliographic records to BibTeX entries, 2015-08-06T02:35:31+0000
+/project/textbot/, textbot, 0.1.0, Read a column of strings from csv, parse wordnet pos_tags to lemmas, enumerate most_common lemmas, weight strings via top scoring lemmas, 2017-08-01T13:36:46+0000
+/project/lsf-lions-sectioned-format/, lsf-lions-sectioned-format, 2021.1.20, Read/write LSF plain-text container format files, 2021-01-20T15:44:13+0000
+/project/cocorpy27/, CocoRPy27, 1.4.1, Python implementation of the famous CoCo/R LL(k) compiler generator ported to Python., 2012-03-08T22:12:42+0000
+/project/isbnlib-loc/, isbnlib-loc, 1.0.1, A plugin for isbnlib that pulls metadata from LoC (Library of Congress US)., 2020-12-05T14:47:30+0000
+/project/twilight/, twilight, 0.3.10, Twitter (crawling) tools., 2014-05-05T14:59:29+0000
+/project/pdf2textbox/, pdf2textbox, 0.4.3, A PDF-to-text converter based on pdfminer2, 2019-03-01T18:26:24+0000
+/project/pythainlp/, pythainlp, 2.3.1, Thai Natural Language Processing library, 2021-04-04T17:29:45+0000
+/project/freediscovery/, freediscovery, 1.3.1, Open source software for E-Discovery and Information Retrieval, 2018-05-22T22:36:50+0000
+/project/bluesearch/, bluesearch, 0.1.1, Blue Brain text mining toolbox for semantic search and information extraction, 2021-03-26T13:55:58+0000
+/project/naturalsort/, naturalsort, 1.5.1, Simple natural order sorting API for Python, 2015-11-02T19:14:58+0000
+/project/koalanlp/, koalanlp, 2.1.6, Python wrapper for KoalaNLP, 2020-09-29T01:30:35+0000
+/project/pyindent/, pyindent, 0.2.1, A multi-line indenter, 2015-03-31T18:45:36+0000
+/project/mwtext/, mwtext, 0.2.1, A set of utilities for processing MediaWiki text., 2020-06-22T21:59:03+0000
+/project/grakopp/, grakopp, 0.1.0, Grako++ is a packrat parser runtime for Grako, written in C++., 2014-08-02T20:19:29+0000
+/project/lark-parser/, lark-parser, 0.11.2, a modern parsing library, 2021-02-16T14:50:13+0000
+/project/constantine/, Constantine, 1.2.3, Automatic event poster generator, 2017-04-27T19:16:11+0000
+/project/pytextrank/, pytextrank, 3.1.1, Python implementation of TextRank as a spaCy pipeline extension, for graph-based natural language work plus related knowledge graph practices; used for for phrase extraction and lightweight extractive summarization of text documents., 2021-03-25T19:46:28+0000
+/project/celery-geolocator/, celery_geolocator, 0.0.11, Celery Geolocator, 2014-09-11T22:35:33+0000
+/project/interlinears/, Interlinears, 0.2, Pretty-printing of linguistic interlinears, 2014-04-17T20:13:02+0000
+/project/konlpy/, konlpy, 0.5.2, Python package for Korean natural language processing., 2019-12-03T08:19:18+0000
+/project/tekorrect/, tekorrect, 0.0.3, 用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。, 2020-01-09T07:32:08+0000
+/project/articlequality/, articlequality, 0.4.2, A library for performing automatic detection of assessment classes of Wikipedia articles., 2020-04-17T20:16:07+0000
+/project/plywood/, plywood, 2.1.0, A template language grammar inspired by the Python code aesthetic, 2019-07-24T19:37:05+0000
+/project/phablytics/, phablytics, 3.0.1, Analytics, metrics, and reports for Phabricator (https://phacility.com/phabricator/)., 2021-04-07T03:00:25+0000
+/project/gibberish-detector/, gibberish-detector, 0.1.1, Detects gibberish strings., 2021-03-04T15:05:57+0000
+/project/iter8/, iter8, 0.0.3, More itertools, 2017-10-22T20:58:54+0000
+/project/sqlint/, sqlint, 0.2.4, Simple Sql Linter, 2019-10-22T16:36:23+0000
+/project/async-imgkit/, async-imgkit, 0.0.5, Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt, 2021-01-18T00:00:24+0000
+/project/pysie/, pysie, 0.0.2, Python implementation of a statistical inference engine, 2017-06-15T16:16:12+0000
+/project/edge-genome/, edge-genome, 2.18.0, Genome Engineering Tool, 2021-04-16T19:12:25+0000
+/project/awessome/, awessome, 0.0.14, awessome, 2020-10-30T18:32:48+0000
+/project/simple-nltk/, simple-nltk, 3.5, a simple version of the NLTK, 2021-01-25T05:40:18+0000
+/project/freediscovery/, freediscovery, 1.3.1, Open source software for E-Discovery and Information Retrieval, 2018-05-22T22:36:50+0000
+/project/dorthrithil-mediawiki-utilities/, dorthrithil-mediawiki-utilities, 0.4.18, A set of utilities for extracting and processing MediaWiki data., 2016-05-04T10:39:50+0000
+/project/isbnlib-porbase/, isbnlib-porbase, 1.0.1, A plugin for isbnlib that pulls metadata from porbase (urn.porbase.org Portugal)., 2020-05-30T09:48:57+0000
+/project/bluesearch/, bluesearch, 0.1.1, Blue Brain text mining toolbox for semantic search and information extraction, 2021-03-26T13:55:58+0000
+/project/naturalsort/, naturalsort, 1.5.1, Simple natural order sorting API for Python, 2015-11-02T19:14:58+0000
+/project/koalanlp/, koalanlp, 2.1.6, Python wrapper for KoalaNLP, 2020-09-29T01:30:35+0000
+/project/pyindent/, pyindent, 0.2.1, A multi-line indenter, 2015-03-31T18:45:36+0000
+/project/mwtext/, mwtext, 0.2.1, A set of utilities for processing MediaWiki text., 2020-06-22T21:59:03+0000
+/project/starro/, starro, 1.0.10, The package objective is to mischaracterize sensitive data from this through blinding masks using asterisk, 2021-04-20T05:09:50+0000
+/project/tssplit/, tssplit, 1.0.4, Trivial split for strings with quotes and escaped characters, 2020-03-29T16:55:20+0000
+/project/pystempel/, pystempel, 1.2.0, Polish stemmer., 2020-10-29T16:19:55+0000
+/project/unpdf/, unpdf, 0.0.1, Extract text from PDF., 2017-10-10T13:55:28+0000
+/project/blowdrycss/, blowdrycss, 1.0.3, The atomic CSS compiler, 2018-03-08T00:51:04+0000
+/project/erl-terms/, erl_terms, 0.1.5, Erlang term read library, 2017-08-14T21:56:57+0000
+/project/visie/, visie, 0.1.0, Visie is a simple initialism enumerator. It helps you name things., 2019-02-06T03:33:12+0000
+/project/sar-tool/, sar-tool, 1.0.3, Search and replace tool that outputs a diff compatible with patch, 2015-05-28T12:51:50+0000
+/project/emoji2text/, emoji2text, 0.1.7, Can't handle emoji? Use this to treat them as plain strings, according to the description provided by unicode., 2018-04-21T23:14:44+0000
+/project/test20201020/, test20201020, 0.0.1, test, 2020-10-20T18:09:24+0000
+/project/fnetodo/, FNEtodo, 0.1.1, Simple command-line Todo app., 2019-09-04T10:51:41+0000
+/project/textfairy/, textfairy, 0.1.0, textfairy converts your text to UTF-8, 2016-07-17T00:43:57+0000
+/project/tableprint/, tableprint, 0.9.1, Pretty console printing of tabular data, 2020-08-09T23:56:25+0000
+/project/sphinx/, Sphinx, 3.5.4, Python documentation generator, 2021-04-11T11:27:38+0000
+/project/find-best-string/, find-best-string, 0.1.0, Finds the best matching string in a larger string., 2018-09-11T00:02:07+0000
+/project/pylatexenc/, pylatexenc, 2.10, Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion, 2021-04-06T07:56:07+0000
+/project/graf-python/, graf-python, 0.3.1, Python implementation of the Graph Annotation Framework (GrAF), 2014-07-28T08:18:09+0000
+/project/boltun/, boltun, 0.6.0, Generate massive datasets from a single template file, 2018-11-23T17:53:57+0000
+/project/ll-core/, ll-core, 1.11.1, LivingLogic base package: ansistyle, color, make, sisyphus, xpit, url, xml_codec, 2008-01-11T13:47:18+0000
+/project/mtap/, mtap, 0.8.3, A framework for distributed text analysis using gRPC and microservices-based architecture., 2021-03-11T00:15:09+0000
+/project/unidump/, unidump, 1.1.2, hexdump for your unicode data, 2017-03-19T19:48:26+0000
+/project/plusminus/, plusminus, 0.4.0,  +/- plusminus is a module that builds on the pyparsing infixNotation helper method to build easy-to-code and easy-to-use parsers for parsing and evaluating infix arithmetic expressions. plusminus's ArithmeticParser class includes separate parse and evaluate methods, handling operator precedence, override with parentheses, presence or absence of whitespace, built-in functions, and pre-defined and user-defined variables, functions, and operators., 2020-08-30T16:37:55+0000
+/project/lttl/, LTTL, 2.0.12, LangTech Text Library (LTTL) for text processing and analysis, 2020-09-17T07:09:33+0000
+/project/flattery/, flattery, 0.1, flattery - fast flattening and unflattening of nested Python data, 2011-03-13T22:34:02+0000
+/project/orange-textable/, Orange-Textable, 2.0.1, Textable add-on for Orange 2.7 data mining software package., 2017-01-31T10:25:52+0000
+/project/easyban/, easyban, 0.1, easyBAN to IBAN converter via Blockstack, 2016-03-31T00:16:21+0000
+/project/pyrser/, pyrser, 0.2.0, Pyrser a pragmatic PEG parsing tool, 2017-06-06T12:21:59+0000
+/project/afmt/, afmt, 0.0.5, ANSI escape code formatter, 2019-09-29T14:05:48+0000
+/project/omterms/, omterms, 0.1.4, A customizable keyword extraction package., 2018-05-12T21:59:06+0000
+/project/vsg/, vsg, 3.1.0, VHDL Style Guide, 2021-04-25T16:27:09+0000
+/project/seafilecontentmanager/, SeafileContentManager, 0.1.2, ContentManager using Seafile's WebAPI, 2020-06-04T10:31:34+0000
+/project/tabula-py/, tabula-py, 2.2.0, Simple wrapper for tabula-java, read tables from PDF into DataFrame, 2020-09-03T13:50:58+0000
+/project/libshorttext/, libshorttext, 1.1.0.0, LibShortText is an open source tool for short-text classification and analysis. It can handle the classification of, for example, titles, questions, sentences, and short messages, 2015-09-29T13:26:02+0000
+/project/anagrammer/, Anagrammer, 1.1, Anagramming tools., 2006-11-29T08:59:31+0000
+/project/ufp/, ufp, 1.14, ufp 라이브러리 python 버전. 각종, 편리한 함수들의 모음., 2015-06-14T13:51:19+0000
+/project/mwtypes/, mwtypes, 0.3.2, A set of types for processing MediaWiki data., 2019-06-14T19:36:37+0000
+/project/csvutils/, csvutils, 0.1, Transformation utilities for csv (or csv-like) generated rows, 2007-12-15T19:22:38+0000
+/project/regex4dummies/, regex4dummies, 1.4.6, A NLP library that simplifies pattern finding in strings, 2015-12-25T23:11:42+0000
+/project/pushdown/, pushdown, 0.6.7, A fork form lark-parser, a modern parsing library, 2018-10-28T23:16:53+0000
+/project/vader-sentiment/, vader-sentiment, 3.2.1.1, VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains., 2019-01-08T10:00:51+0000
+/project/konval/, konval, 0.3dev, Routines for data validation & conversion, 2011-08-02T14:07:05+0000
+/project/pithy/, pithy, 0.0.13, Pithy is a collection of utility libraries for Python 3., 2020-05-06T16:09:48+0000
+/project/fortranformat/, fortranformat, 1.0.1, Mimics Fortran textual IO in Python, 2021-04-06T13:36:08+0000
+/project/bibolamazi-gui/, bibolamazi_gui, 3.0beta3, Prepare consistent BibTeX files for your LaTeX documents, 2015-05-11T10:05:21+0000
+/project/seqgentools/, seqgentools, 0.0.16, Sequence Generation Tools inspired by Python itertools., 2019-03-20T16:44:15+0000
+/project/luhn-algorithm-validator/, Luhn_Algorithm_Validator, 1.0.1, Luhn Account Number Validator, 2015-08-19T15:21:23+0000
+/project/bistring/, bistring, 0.4.0, Bidirectionally transformed strings, 2019-09-10T13:36:42+0000
+/project/seq-re/, seq-re, 0.2.1, 2-dimensional Sequence Regular Expression (SEQ RE), 2017-04-25T11:53:10+0000
+/project/piglatin/, piglatin, 1.0.6, Converts text to Pig Latin, 2020-01-07T06:13:58+0000
+/project/uctools/, uctools, 1.3.0, Unicode tools., 2020-07-14T11:26:59+0000
+/project/markups/, Markups, 3.1.1, A wrapper around various text markups, 2021-03-05T16:58:12+0000
+/project/webtimer/, webtimer, 0.0.2, Measures download times of web page resources., 2014-03-31T05:04:29+0000
+/project/cpytraceafl-regex/, cpytraceafl-regex, 0.2.0, A modified version of mrab-regex with added cpytraceafl instrumentation, 2020-06-19T21:34:20+0000
+/project/nlpia-bot/, nlpia_bot, 0.2.14, "An open framework and dataset for building a distributed-agent chatbot based on _Natural Language Processing in Action_.", 2020-03-18T22:09:16+0000
+/project/textnorm/, textnorm, 1.2, A simple package for normalizing whitespace and Unicode composition forms in Python 3 strings, 2020-05-07T09:34:04+0000
+/project/perke/, perke, 0.3.3, A keyphrase extractor for Persian, 2021-04-11T22:53:22+0000
+/project/py-openthesaurus/, py-openthesaurus, 1.0.5, Python wrapper for obtaining synonyms in the German language from OpenThesaurus, 2021-02-10T11:35:10+0000
+/project/cuts/, cuts, 0.37.7, Remove and/or rearrange sections from each line of a file(s)., 2015-07-26T21:23:19+0000
+/project/pyanyapi/, pyanyapi, 0.6.1, Tools for convenient interface creation over various types of data in a declarative way., 2017-11-07T10:38:23+0000
+/project/jelleprebenlol/, jelleprebenlol, 1.0.5, short desc, 2018-09-05T20:28:57+0000
+/project/deltas/, deltas, 0.6.2, An experimental diff library for generating operation deltas that represent the difference between two sequences of comparable items., 2021-01-04T03:19:37+0000
+/project/moments/, Moments, 2.0, Python package to process personal notes stored as moments log files, 2012-09-27T12:49:00+0000
+/project/py3o-formats/, py3o.formats, 0.3, Formats declarations for py3o, 2015-06-02T14:36:03+0000
+/project/ttg/, ttg, 0.1.dev3, Thai Text Generator library, 2020-05-26T10:43:40+0000
+/project/haggis/, haggis, 0.1a1, General purpose utility library, 2019-04-03T23:22:51+0000
+/project/percentcoding/, percentcoding, 0.1, percentcoding: fast percent encoding and decoding, 2011-03-13T22:21:27+0000
+/project/pyin/, pyin, 0.5.4, It's like sed, but Python!, 2015-08-04T03:52:50+0000
+/project/awkg/, awkg, 0.3.0, awkg is an awk-like text-processing tool powered by python language, 2019-08-01T22:52:06+0000
+/project/ko-nltk/, ko-nltk, 0.1, , 2018-04-18T07:01:07+0000
+/project/pa-scraper/, pa-scraper, 0.2.4, Python wrapper for Prompt API's Scraper API, 2020-10-06T04:44:38+0000
+/project/isbnlib-sbn/, isbnlib-sbn, 0.0.1, A plugin for isbnlib that pulls metadata from the Servizio Bibliotecario Nazionale (https://opac.sbn.it Italy), 2020-11-16T15:18:04+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/anyascii/, anyascii, 0.2.0, Unicode to ASCII transliteration, 2021-04-18T08:33:15+0000
+/project/pressagio/, pressagio, 0.1.6, A Python Library for statistical text prediction., 2019-11-15T11:57:18+0000
+/project/pydatcom/, PyDatcom, 0.2.5, A python interface for DATCOM. Provides export/ parsing capabilities., 2012-08-18T20:48:02+0000
+/project/cloudtb/, cloudtb, 0.2.2, Open source methods to solve common problems, 2015-03-06T23:17:38+0000
+/project/elastictabstops/, ElasticTabstops, 1.0.0, Converts text indented/aligned with elastic tabstops, 2013-10-20T12:42:53+0000
+/project/luapatt/, luapatt, 0.9.0b5, Python implementation of Lua-style pattern matching, 2015-12-28T05:57:05+0000
+/project/parse2csv/, parse2csv, 0.1.4, A command-line tool to parse multiple files for named, 2018-06-05T17:07:06+0000
+/project/jshint-scanner/, jshint-scanner, 1.0.0, Extracts Javascript from files and scans with Jshint., 2016-02-26T22:30:36+0000
+/project/mwpersistence/, mwpersistence, 0.2.4, A set of utilities for measuring content persistence and tracking authorship in MediaWiki revisions., 2015-11-17T20:57:52+0000
+/project/isbn-hyphenate/, isbn_hyphenate, 1.0.4, a Python library to add hyphens in the right place to an ISBN (International Standard Book Number), 2016-02-20T16:47:02+0000
+/project/dhelp/, dhelp, 0.0.5, DH Python tools for scraping web pages, pre-processing data, and performing nlp analysis quickly., 2018-05-24T13:25:53+0000
+/project/vsg/, vsg, 3.1.0, VHDL Style Guide, 2021-04-25T16:27:09+0000
+/project/releaselogparser/, releaselogparser, 1.0.2, Release log parser., 2018-11-05T15:10:16+0000
+/project/asprise-ocr-sdk-python-api/, asprise_ocr_sdk_python_api, 15.3.0.8, Asprise OCR (optical character recognition) and barcode recognition SDK is a high performance royalty-free Python API library. It converts images (JPEG, PNG, TIFF, PDF, etc) into text, xml, searchable PDF or editable RTF/Word formats. Data capture are supported for processing documents like invoices and forms., 2015-06-18T07:32:51+0000
+/project/mzbench-api-client/, mzbench_api_client, 0.2.5, MZBench client lib, 2017-09-15T23:51:15+0000
+/project/pdfmate/, pdfmate, 0.4.9, Pyppeteer-based async python wrapper to convert html to pdf, 2020-12-06T12:56:36+0000
+/project/textteaser/, textteaser, 0.3, A package for summarizing text using the TextTeaser API, 2013-09-03T04:43:29+0000
+/project/chompjs/, chompjs, 1.1.2, Parsing JavaScript objects into Python dictionaries, 2021-04-24T23:57:09+0000
+/project/pdfkit/, pdfkit, 0.6.1, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2017-01-09T15:44:16+0000
+/project/pithytools/, pithytools, 0.0.1, Pithytools is a collection of command line utilities., 2020-05-06T16:10:08+0000
+/project/decode-image/, decode_image, 1.0.0.5, Simple Command line and module for Decode/Encode Image File, 2015-06-25T09:44:31+0000
+/project/grako/, grako, 3.99.9, Grako takes a grammar in a variation of EBNF as input, and outputs a memoizing PEG/Packrat parser in Python., 2017-05-06T21:49:36+0000
+/project/md2gemini/, md2gemini, 1.8.1, Convert Markdown to the Gemini text format, 2020-12-08T20:56:28+0000
+/project/nltk2-fixed/, nltk2-fixed, 2.0.6, Natural Language Toolkit, 2018-11-14T11:18:12+0000
+/project/nltk/, nltk, 3.6.2, Natural Language Toolkit, 2021-04-20T07:42:47+0000
+/project/contex/, contex, 3.1.1, Contextual string manipulation, 2015-08-23T16:38:35+0000
+/project/emoji-extractor/, emoji-extractor, 1.0.19, Extract, detect and count emoji, 2021-02-15T20:56:07+0000
+/project/beancount2ledger/, beancount2ledger, 1.3, Beancount to Ledger converter, 2020-11-13T12:06:26+0000
+/project/elfws/, elfws, 0.4, EDA Log File Warning Suppressor, 2020-05-31T17:48:51+0000
+/project/catex/, CaTeX, 0.0.10, Concatenates LateX documents., 2016-08-06T22:02:31+0000
+/project/csscompressor/, csscompressor, 0.9.5, A python port of YUI CSS Compressor, 2017-11-26T21:13:08+0000
+/project/hammurabi/, hammurabi, 0.11.1, Hammurabi is an extensible CLI tool responsible for enforcing user-defined rules on a git repository., 2020-10-21T04:52:32+0000
+/project/django-richtexteditor/, django-richtexteditor, 0.0.1.dev3, Django Rich Text Editor with many flavors, 2020-07-22T16:25:32+0000
+/project/fontstyle/, fontstyle, 1.0.1.2, Print prettier terminal strings., 2017-02-01T00:41:04+0000
+/project/fne-todo/, FNE-todo, 0.1.1, Simple command-line Todo app., 2019-09-04T12:55:20+0000
+/project/corpussearch/, corpussearch, 0.0.16, Tools for loading and analyzing large text corpora., 2018-12-07T13:53:10+0000
+/project/opensearch/, opensearch, 0.9.2, Interact with opensearch services, 2012-03-06T19:03:04+0000
+/project/webarticle2text/, webarticle2text, 3.0.2, Extracts the main article text from a webpage., 2017-06-28T02:16:39+0000
+/project/pytrec-eval-git/, pytrec-eval-git, 0.5, Provides Python bindings for popular Information Retrieval measures implemented within trec_eval., 2020-06-09T18:57:19+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/pureyaml/, pureyaml, 0.1.0, Yet another yaml parser, in pure python., 2015-12-28T20:31:16+0000
+/project/pytextseg/, pytextseg, 0.2.0, Python module for text segmentation., 2012-03-31T04:47:10+0000
+/project/codewhisper/, codewhisper, 1.0.1, Dynamic parsing library, 2020-11-29T23:54:34+0000
+/project/dayone-export/, dayone_export, 1.0.0, Export Day One journal using Jinja2 templates, 2018-05-09T03:01:02+0000
+/project/tmpy/, tmpy, 0.0.4, a text mining framework in Python, 2014-05-06T13:26:05+0000
+/project/partpy/, partpy, 1.2.4, Parser Tools in Python, a collection of tools for hand writing lexers and parsers., 2013-08-13T12:56:06+0000
+/project/eunjeon/, eunjeon, 0.4.0, Python interface for eunjeon project & mecab based morphological analyzer., 2019-01-17T00:42:22+0000
+/project/unilyze/, unilyze, 0.2.1, Get detailed unicode information about characters and text, 2020-07-23T06:23:03+0000
+/project/tokipona/, tokipona, 0.1b0, A package for dealing with toki pona: vim syntax highlighting, tokipona wordnets, analysis of the vocabulary, synthesis of texts, 2018-02-12T16:37:54+0000
+/project/mycapytain/, MyCapytain, 3.0.2, Library for CTS APIs and CapiTainS guidelines in Python, 2020-04-28T09:13:39+0000
+/project/mwevents/, mwevents, 0.1.0, Standardized public MediaWiki events for tools and Science., 2014-08-03T17:46:29+0000
+/project/smallparts/, smallparts, 1.0.0, A humble collection of convenience modules for use with Python 3, 2020-10-15T13:49:34+0000
+/project/design-explorer/, design-explorer, 0.3, Design Explorer, 2018-06-17T21:48:01+0000
+/project/sourpuss/, sourpuss, 0.3, Like feeding pickles to a cat(1), 2018-10-02T02:26:00+0000
+/project/collective-classification/, collective.classification, 0.1b2, Content classification/clustering through language processing, 2010-08-05T18:56:01+0000
+/project/prettystring/, prettystring, 0.1.1, Build ANSI color encoded strings with ease., 2016-12-09T20:23:29+0000
+/project/sectile/, sectile, 0.3, Multidimensional file stitcher, 2020-08-02T08:13:44+0000
+/project/rxpy/, RXPY, 0.1.0, A Regular Expression Library for Python, 2010-06-29T07:36:44+0000
+/project/isbnlib-bnf/, isbnlib-bnf, 1.0.1, A plugin for isbnlib that pulls metadata from BnF Catalogue General (France)., 2020-05-25T18:29:02+0000
+/project/tatsu/, tatsu, 5.6.1, TatSu takes a grammar in a variation of EBNF as input, and outputs a memoizing PEG/Packrat parser in Python., 2021-03-22T21:16:25+0000
+/project/cocopy/, CocoPy, 1.1.0rc, Python implementation of the famous CoCo/R LL(k) compiler generator., 2007-12-20T00:27:07+0000
+/project/german-foodemoji/, german-foodemoji, 1.1.9, Decorate German text with food specific emojis, 2021-03-19T12:52:20+0000
+/project/tproc/, tproc, 1.0a2, A small yet powerful text processor, 2018-11-03T18:38:46+0000
+/project/cltk/, cltk, 1.0.11, The Classical Language Toolkit, 2021-04-13T02:45:30+0000
+/project/kennyg/, kennyg, 0.1.6, KennyG SAX Handler, 2014-08-24T19:25:21+0000
+/project/shortcodes/, shortcodes, 5.1.1, A library for parsing customizable WordPress-style shortcodes., 2021-03-10T10:15:50+0000
+/project/deep-utils-dynamodb/, deep-utils.dynamodb, 1.0.0, Dynamodb helpers for DEEP, 2020-08-17T06:49:29+0000
+/project/asha/, asha, 0.0.4, An unicode and ascii colour, emotes, art and loader library for terminals., 2020-01-15T11:02:49+0000
+/project/bitermplus/, bitermplus, 0.6.4, Biterm Topic Model, 2021-04-18T09:49:51+0000
+/project/intervaltree/, intervaltree, 3.1.0, Editable interval tree data structure for Python 2 and 3, 2020-08-03T08:01:11+0000
+/project/booktool/, booktool, 0.7.0, eBook (EPUB and Audiobook) management tool, 2021-02-21T13:29:38+0000
+/project/graph-talk/, graph-talk, 0.3.1, Library for structured information processing: parsing, interpreting, converting, etc., 2014-11-23T10:27:47+0000
+/project/phrasetree/, phrasetree, 0.0.8, Phrase Tree from Natural Language Toolkit, 2021-03-05T16:53:28+0000
+/project/cdifflib/, cdifflib, 1.2.5, C implementation of parts of difflib, 2019-05-08T13:57:10+0000
+/project/konlp/, konlp, 0.0.8, Korean Natural Language Toolkit, 2018-05-04T05:21:33+0000
+/project/opentabulate/, opentabulate, 2.1.1, Tabulates structured data into a mergeable CSV format, 2020-07-15T00:03:30+0000
+/project/sherlok/, sherlok, 0.1.6, A Python client for Sherlok, 2015-11-17T13:50:06+0000
+/project/random-pesel/, random-pesel, 1.0, Random PESEL number generator, 2020-03-13T15:53:50+0000
+/project/unmatcher/, unmatcher, 0.1.4, Regular expression reverser for Python, 2017-09-16T12:34:11+0000
+/project/gxsphinx/, GxSphinx, 1.0.0, Python documentation generator, 2020-08-04T03:07:53+0000
+/project/normalize-cz-unicode/, normalize_cz_unicode, 1.0.1, Take unicode string, leave czech characters, normalize rest., 2015-05-21T13:53:33+0000
+/project/htk-lite/, htk-lite, 1.0.0, Python utilities by Hacktoolkit., 2020-01-24T18:33:24+0000
+/project/terminalprinter/, TerminalPrinter, 1.5.2, 终端图片、文字生成器, 2019-12-01T01:44:25+0000
+/project/konlp-test/, konlp-test, 0.0.7.dev1, Korean Natural Language Toolkit, 2018-04-24T12:00:20+0000
+/project/biblib/, biblib, 0.1.3, A library to handle BibTeX bibliographic data., 2018-03-22T09:25:05+0000
+/project/lark/, lark, 0.11.1, a modern parsing library, 2020-11-16T19:48:10+0000
+/project/parsimonious/, parsimonious, 0.8.1, (Soon to be) the fastest pure-Python PEG parser I could muster, 2018-06-21T01:50:51+0000
+/project/meaningcloud-python/, MeaningCloud-python, 2.0.0, Official Python SDK for MeaningCloud APIs, 2020-09-15T08:52:46+0000
+/project/mwxml/, mwxml, 0.3.3, A set of utilities for processing MediaWiki XML dump data., 2017-07-02T16:22:42+0000
+/project/isbntools/, isbntools, 4.3.27, app and framework for 'all things ISBN' (International Standard Book Number) including metadata, descriptions, covers... ., 2021-04-13T11:34:28+0000
+/project/eventregistry/, eventregistry, 8.9, A package that can be used to query information in Event Registry (http://eventregistry.org/), 2020-10-21T16:39:19+0000
+/project/keyserver/, keyserver, 1.0.0.3, Command line Pub key generator from keyserver.ubuntu.com, 2015-06-25T22:14:31+0000
+/project/twps/, twps, 2.0.2, TWPS: (T)ext (W)ith (P)ython (S)nippets preprocessor, 2020-01-25T23:23:48+0000
+/project/indexconfigparser/, IndexConfigParser, 1.2, Python library to parse config files that require indexing, 2013-07-09T03:59:56+0000
+/project/text-tools/, text-tools, 1.0.0, Various tools for manipulating text, 2019-06-29T16:24:45+0000
+/project/tablet/, tablet, 0.9.3, A tiny spreadsheet-like data structure and tool, 2012-07-23T14:34:34+0000
+/project/isbnlib-oclc/, isbnlib-oclc, 0.0.1.post1, DISCONTINUED! A plugin for isbnlib that pulls metadata from classify.oclc.org., 2019-05-09T09:31:35+0000
+/project/tokenregex/, tokenregex, 0.1.14, NLP at your fingertips, 2016-11-07T21:44:17+0000
+/project/nlcodec/, nlcodec, 0.3.1, nlcodec is a collection of encoding schemes for natural language sequences.  nlcodec.db is a efficient storage and retrieval layer for integer sequences of varying lengths., 2021-02-24T21:03:34+0000
+/project/pymarkovtextgenerator/, PyMarkovTextGenerator, 1.0.2, Random text generator base on Markov chains., 2014-05-22T14:34:25+0000
+/project/isbnlib/, isbnlib, 3.10.7, Extract, clean, transform, hyphenate and metadata for ISBNs (International Standard Book Number)., 2021-04-12T09:50:06+0000
+/project/mwdiffs/, mwdiffs, 0.0.2, A set of utilities for processing revision diffs from MediaWiki data., 2015-09-28T20:40:45+0000
+/project/nskipgrams/, nskipgrams, 0.3.0, A lightweight Python package to work with ngrams and skipgrams, 2021-03-29T03:51:09+0000
+/project/pdf-rules/, pdf-rules, 1.0.0, Tools to turn a PDF into a CSV, pythonically, 2020-08-24T10:35:52+0000
+/project/newmm-tokenizer/, newmm-tokenizer, 0.2.1, Standalone Dictionary-based, Maximum Matching + Thai Character Cluster (newmm) tokenizer extracted from PyThaiNLP, 2020-10-26T09:29:25+0000
+/project/penelope/, penelope, 3.1.3.0, Penelope is a multi-tool for creating, editing and converting dictionaries, especially for eReader devices, 2016-09-23T09:27:17+0000
+/project/cwsharp/, cwsharp, 0.2, Chinese Words Segementations, 2017-11-10T04:44:59+0000
+/project/pdfkit-async/, pdfkit-async, 0.7.2, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2020-05-09T21:02:10+0000
+/project/art/, art, 5.1, ASCII Art Library For Python, 2020-11-30T17:28:25+0000
+/project/ezno-convert/, ezno-convert, 0.0.5b4, Convert office files quickly and easily through CLI, GUI, or windows explorer context menu, 2021-02-10T05:35:47+0000
+/project/xhtml2pdf/, xhtml2pdf, 0.2.5, PDF generator using HTML and CSS, 2020-10-08T18:57:39+0000
+/project/python-tr/, python-tr, 0.1.2, A Pure-Python implementation of the tr algorithm, 2016-03-11T00:15:28+0000
+/project/vader-multi/, vader-multi, 3.2.2.1, VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains., 2019-10-29T12:37:11+0000
+/project/bvill-apdft/, bvill.apdft, 0.1.0a1, Another PDF Tool helps you quickly operate on PDF files with actions such as rotate, merging, and splitting via the command-line. Currently only supports merging., 2020-04-26T22:23:35+0000
+/project/uniprop/, uniprop, 1.6, 'uniprop' provides the Unicode properties of codepoints similar to those of the unicodedata module., 2020-06-21T01:41:51+0000
+/project/timetravel/, timetravel, 1.0, A time machine for your calendar., 2016-11-08T21:12:17+0000
+/project/names-comparator/, names_comparator, 1.0.0, Simple tool to compare almost similar names which are coming from the same source (for example list of all company owners and officers of that company). Helps to cluster together persons with a slight difference in name spelling/typos. Better suited for Cyrillic names, but should work everywhere, 2019-09-27T14:56:11+0000
+/project/awkupy/, awkupy, 0.1.0b0, A simple Python interface and IPython/Jupyter magic for AWK, 2020-04-13T14:01:20+0000
+/project/koshort/, koshort, 0.4.1.7, koshort is a Python package for Korean internet spoken language crawling and processing... or maybe Korean domestic cat., 2018-06-09T08:41:32+0000
+/project/pangu/, pangu, 4.0.6.1, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-02-08T18:17:28+0000
+/project/any2fixed/, any2fixed, 0.3.1, A tool to generate fixed length files from a list of python instances, 2015-07-27T10:54:14+0000
+/project/bibolamazigui/, bibolamazigui, 4.4, Prepare consistent BibTeX files for your LaTeX documents, 2020-11-01T21:38:54+0000
+/project/pyxurls/, pyxurls, 0.1.2, A regular expression based URL extractor which extracts URLs from text., 2021-01-15T05:27:44+0000
+/project/parsing/, parsing, 1.6.1, A pure-Python module that implements an LR(1) parser generator, as well as CFSM and GLR parser drivers., 2019-01-09T00:49:02+0000
+/project/pyreplace/, pyreplace, 1.0, Recursively find and replace in file names and contents., 2011-08-25T03:20:03+0000
+/project/asphalt-templating/, asphalt-templating, 2.0.1, Templating component for the Asphalt framework, 2017-06-04T12:39:41+0000
+/project/dynamictableprint/, dynamictableprint, 1.0.3, Wrapper around TablePrint to adjust columns to the window size, 2018-07-09T00:47:35+0000
+/project/thai2transformers/, thai2transformers, 0.1.2, Pretraining transformer based Thai language models, 2021-03-20T02:36:01+0000
+/project/nlup/, nlup, 0.8, ('Core libraries for natural language processing',), 2018-12-27T23:18:29+0000
+/project/eav-django/, eav-django, 1.4.7, a reusable Django application which implements the Entity-Attribute-Value data model., 2014-10-03T21:30:42+0000
+/project/bestia/, bestia, 3.6, A collection of tools for building dynamic Command-Line applications, 2020-11-22T15:50:36+0000
+/project/pyjson5/, pyjson5, 1.5.0, JSON5 serializer and parser for Python 3 written in Cython., 2021-03-11T20:44:23+0000
+/project/porterstemmer/, PorterStemmer, 0.5, Porter Stemmer for Python, 2012-07-24T05:44:38+0000
+/project/vit/, vit, 2.1.0, Visual Interactive Taskwarrior full-screen terminal interface, 2021-02-28T21:22:20+0000
+/project/isbnlib-mcues/, isbnlib-mcues, 0.0.3, A plugin for isbnlib that pulls metadata from Ministerio de Cultura (Spain)., 2020-11-16T15:22:55+0000
+/project/py3o-fusion/, py3o.fusion, 0.8.9, A Fusion server that will transform your py3o.template into final LibreOffice documents, 2018-07-03T15:36:38+0000
+/project/lc-django-autoslug/, lc-django-autoslug, 1.9.5, An automated slug field for Django., 2020-05-11T08:38:04+0000
+/project/num2fawords/, num2fawords, 1.1, A tool to convert numbers (int, float) into Persian words, 2018-01-17T11:27:39+0000
+/project/eztemplate/, eztemplate, 0.3.0, Simple templating program to generate plain text (like config files) from name-value pairs., 2016-02-29T06:58:42+0000
+/project/humanize/, humanize, 3.4.1, Python humanize utilities, 2021-04-12T15:40:06+0000
+/project/dropcols/, dropcols, 1.0.1.0, Filter a CSV file, extracting columns selected by name or position., 2011-10-05T13:08:46+0000
+/project/rst2textile/, rst2textile, 0.2.1, rst2textile is docutils textile writer convert reStructuredText(rst) to Textile format., 2014-10-04T09:54:22+0000
+/project/kindred/, kindred, 2.7.8, A relation extraction toolkit for biomedical text mining, 2021-03-05T18:43:55+0000
+/project/patentpy/, patentpy, 0.1.0, A project taking USPTO bulk patent data and converting it to rectangular format using pybind11, 2021-03-08T04:05:20+0000
+/project/querycsv/, querycsv, 0.3.0.0, Execute SQL code against data contained in one or more comma-separated-value (CSV) files., 2011-09-04T16:04:33+0000
+/project/python-stdnum-do/, python-stdnum-do, 1.14, Python module to handle standardized numbers and codes, 2020-12-11T22:29:22+0000
+/project/pugnlp/, pugnlp, 0.2.6, Python Natural Language Processing by and for the Python User Group in Portland, OR, 2020-06-26T17:54:57+0000
+/project/mydesire/, mydesire, 0.0.1, Korean version of loremipsum, 2014-10-09T08:36:12+0000
+/project/cmdparser/, cmdparser, 1.0.1, Command parsing extensions to the cmd module., 2013-01-14T14:37:34+0000
+/project/linecounter/, linecounter, 1.3.2, linecounter for files, 2015-07-21T22:06:03+0000
+/project/mediawiki-utilities/, mediawiki-utilities, 0.4.18, A set of utilities for extracting and processing MediaWiki data., 2015-09-10T19:00:32+0000
+/project/wikiclass/, wikiclass, 0.3.2, A library for performing automatic detection of assessment classes of Wikipedia articles., 2017-01-07T19:18:27+0000
+/project/jgtextrank/, jgtextrank, 0.1.6, Yet another Python implementation of TextRank: package for the creation, manipulation, and study of TextRank algorithm based keywords extraction and summarisation, 2019-11-27T11:51:43+0000
+/project/markdown-textwrap/, markdown-textwrap, 0.2.1, Text wrap Markdown Documents, 2018-05-06T13:08:01+0000
+/project/ibis/, ibis, 3.2.0, A template engine for people who enjoy the simpler things in life., 2021-03-27T18:22:35+0000
+/project/esprima/, esprima, 4.0.1, ECMAScript parsing infrastructure for multipurpose analysis in Python, 2018-08-24T13:59:11+0000
+/project/orange3-textable/, Orange3-Textable, 3.1.9, Textable add-on for Orange 3 data mining software package., 2021-04-15T05:49:10+0000
+/project/phonetics/, phonetics, 1.0.5, Compute phonetic key of strings for indexing or fuzzy matching, 2018-03-23T15:38:37+0000
+/project/django-autoslug/, django-autoslug, 1.9.8, An automated slug field for Django., 2020-07-22T08:27:57+0000
+/project/curious/, curious, 1.2.0, Graph-based data exploration tool, 2018-04-06T15:40:17+0000
+/project/gns-deb-diff/, gns-deb-diff, 0.1.1, Documents difference between gNewsSense and Debian., 2017-03-02T00:53:53+0000
+/project/convert2geojson/, convert2geojson, 0.0.2, Tools for converting dataframes to GeoJSON format., 2018-09-18T12:00:48+0000
+/project/textmining3/, textmining3, 1.1.0, Text Mining Utilities for Python 3, 2018-10-13T10:26:28+0000
+/project/optionset/, optionset, 20.10.23, A lightweight tool for conducting parameter studies., 2020-10-23T11:33:09+0000
+/project/rowordnet/, rowordnet, 1.1.0, Python API for the Romanian WordNet, 2020-08-06T10:47:09+0000
+/project/django-autoslug-iplweb/, django-autoslug-iplweb, 1.9.5, An automated slug field for Django., 2019-10-21T14:58:15+0000
+/project/tvsongs/, tvsongs, 0.5, Find and listen to songs featured in TV shows., 2017-04-29T20:51:46+0000
+/project/viz/, viz, 0.0.5, Data visualization in the terminal, 2014-01-18T13:51:55+0000
+/project/junkdetect/, junkdetect, 0.1.2, Junk Not-Junk Detector, 2020-06-18T23:51:39+0000
+/project/keywordtree/, keywordtree, 0.1.6, , 2019-06-02T22:19:39+0000
+/project/ooopy/, OOoPy, 2.0, OOoPy: Modify OpenOffice.org documents in Python, 2020-02-06T21:58:50+0000
+/project/test-packaging/, test-packaging, 0.1.6, Test of packaging., 2020-08-21T14:25:49+0000
+/project/pythaisa/, pythaisa, 0.2.1, Python Thai Sentiment Analysis, 2019-09-21T05:21:46+0000
+/project/comma/, comma, 0.5.3, Python CSV, and delimiter-spaced files, for humans!, 2020-08-08T02:29:48+0000
+/project/mathsolver/, mathsolver, 0.1.0, Decode natural language to solve mathemathical calculations, 2019-02-11T07:33:06+0000
+/project/plyplus/, PlyPlus, 0.7.5, a friendly yet powerful LR-parser written in Python, 2017-02-07T15:03:59+0000
+/project/rst2txt/, rst2txt, 1.1.0, Convert reStructuredText to plain text, 2019-02-28T12:00:00+0000
+/project/deep-utils-deduplication/, deep-utils.deduplication, 1.0.8, Document deduplication package for DEEP, 2020-11-02T16:09:46+0000
+/project/ooopy-alt/, OOoPy-alt, 1.11, OOoPy: Modify OpenOffice.org documents in Python, 2017-08-30T17:19:08+0000
+/project/biomedicus/, biomedicus, 3.0b10, A biomedical and clinical NLP engine., 2021-03-11T00:50:31+0000
+/project/rextract/, rextract, 1.1.0, Powerful commandline tool to extract and manipulate strings using regular exressions, 2018-03-13T03:34:00+0000
+/project/vadersentiment-swedish/, vaderSentiment-swedish, 1.0.3, VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains., 2019-10-27T14:03:38+0000
+/project/pywekaclassifiers/, pywekaclassifiers, 0.0.3, A Python wrapper for the Weka data mining library., 2018-12-28T19:26:38+0000
+/project/nlp-profiler/, nlp-profiler, 0.0.3, A simple NLP library allows profiling datasets with one or more text columns., 2020-12-13T19:20:01+0000
+/project/ucs-detect/, ucs-detect, 0.0.4, Detects the Unicode Version of an interactive terminal for export, 2020-06-20T18:31:02+0000
+/project/phrase/, phrase, 0.0.10, Phrase: generates phrases given a corpus, 2014-10-02T19:18:39+0000
+/project/hooktest/, HookTest, 1.3.1, Hook Test Script for GitHub/CapiTainS repositories based on MyCapytain 3.0.0 or higher, 2020-01-23T08:40:35+0000
+/project/bundled-pdfkit/, bundled-pdfkit, 0.6.1, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2019-11-18T08:09:16+0000
+/project/pymarc/, pymarc, 4.1.0, Read, write and modify MARC bibliographic data, 2021-03-30T15:12:22+0000
+/project/laonlp/, LaoNLP, 0.2.dev1, Lao Natural Language Processing library, 2021-03-03T14:59:38+0000
+/project/imgkit/, imgkit, 1.2.2, Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt, 2021-04-10T13:49:38+0000
+/project/traceanalyzer/, traceanalyzer, 1.0.4, This library  provides analyzing and plotting functions for ns2 trace file in Python., 2019-11-18T05:47:57+0000
+/project/json-diff/, json-diff, 1.5.0, Generates diff between two JSON files, 2019-08-25T19:43:51+0000
+/project/markdown-link-style/, markdown-link-style, 0.2.1, Switch between inline and footnote link style in markdown documents., 2020-07-11T22:29:30+0000
+/project/pyngram/, pyngram, 1.0.1, A simple Python n-gram calculator, 2010-05-21T23:33:37+0000
+/project/transformers-domain-adaptation/, transformers-domain-adaptation, 0.3.1, Adapt Transformer-based language models to new text domains, 2021-01-22T19:21:03+0000
+/project/emoji-country-flag/, emoji-country-flag, 1.2.4, En/Decode unicode country flags emoji, 2021-03-15T19:46:43+0000
+/project/marcup/, marcup, 0.5, manage create/update/deletes marc feeds, 2008-12-14T02:53:13+0000
+/project/json-nn/, json-nn, 1.0.0, JSON parser, powered by Tensorflow., 2017-02-19T02:10:25+0000
+/project/jsre/, jsre, 1.1.1, Regular expression module for forensics and big data, 2018-12-12T20:18:09+0000
+/project/pycantonese/, pycantonese, 3.2.3, PyCantonese: Cantonese Linguistics and NLP in Python, 2021-04-12T13:59:39+0000
+/project/africanwordnet/, africanwordnet, 0.0.1, A library for African WordNet., 2020-11-25T16:46:54+0000
+/project/varas/, Varas, 1.1, Pratt parser framework, 2012-04-24T14:46:42+0000
+/project/icd10-c2cdc/, icd10-c2cdc, 0.0.2, Converts ICD-10 codes to CDC/NCHS Selected Causes of Death codes., 2020-12-12T21:59:19+0000
+/project/boolrule/, boolrule, 0.3.2, Simple boolean expression evaluation engine, 2020-10-22T12:32:24+0000
+/project/txt2mobi3-app/, txt2mobi3-app, 0.2.1, A PyQt5 application for converting Chinese novel txt files into Kindle mobi files., 2018-11-05T06:26:20+0000
+/project/regex/, regex, 2021.4.4, Alternative regular expression module, to replace re., 2021-04-04T16:50:49+0000
+/project/languagedet/, languagedet, 0.1.1, Python clases for detecting languges., 2013-11-20T05:40:27+0000
+/project/molstruct/, molstruct, 3.0.0, Convert chemical molecule data CSV files to structured data formats, 2021-04-21T20:52:57+0000
+/project/bitlyclip/, bitlyclip, 0.2.2, bit.ly-fy a url in the X clipboard, 2012-08-29T19:20:08+0000
+/project/hdpwordseg/, hdpwordseg, 1.1.9, HDP Word Segmentor, 2015-06-08T15:06:26+0000
+/project/csvgen/, csvgen, 1.0.0, A command line CSV data output generator for testing, 2018-03-31T20:13:39+0000
+/project/txt2mobi3/, txt2mobi3, 0.2.12, Convert Chinese novel txt files into Kindle mobi files., 2018-11-05T05:47:42+0000
+/project/nlpia/, nlpia, 0.5.2, Natural Language Processing in Action examples, data, and utilities, 2020-07-03T17:59:37+0000
+/project/qtwekawrapper/, QtWekaWrapper, 0.0.3, A Python wrapper for the Weka graphics ., 2018-12-28T22:45:01+0000
+/project/smoothtables/, smoothtables, 1.0.0, A module to generate tables and panels with box drawing borders., 2021-04-11T21:35:51+0000
+/project/ssg/, ssg, 0.0.6, Thai syllable segmentation using Conditional Random Fields, 2019-10-03T09:56:09+0000
+/project/pyalgs/, pyalgs, 0.0.13, Python implementation of algorithms on string handling, data structure, graph processing, etc, 2017-05-26T05:54:06+0000
+/project/pdfgen/, pdfgen, 1.0.5, Pyppeteer-based async python wrapper to convert html to pdf, 2020-08-12T18:11:24+0000
+/project/pandoccompose/, PandocCompose, 0.0.8, PandocCompose lets you manage your documentation base using Pandoc, 2020-04-17T11:20:40+0000
+/project/rank-eval/, rank-eval, 0.0.1, A collection of fast ranking evaluation metrics built with Numba, 2021-04-02T18:17:48+0000
+/project/ssv/, ssv, 0.1.1, SSV stands for separator separated values., 2016-05-29T13:40:50+0000
+/project/clip-the-gym/, clip-the-gym, 0.0.2, Helper script to download audio from youtube for the gym, 2012-09-06T14:54:51+0000
+/project/ucrypt/, ucrypt, 1.0.4, An encryption/compression utility for data files., 2017-01-13T23:52:02+0000
+/project/mysqltsv/, mysqltsv, 0.0.7, TSV Reader for the MySQL dialect., 2016-01-30T18:40:14+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/jsontextmc/, jsontextmc, 2.0.3, JSONTextMC converts legacy color codes to the modern JSON format., 2020-08-27T03:18:48+0000
+/project/creadoc/, creadoc, 0.0.5, Дизайнер отчетов на основе Stimulsoft Report Js, 2016-06-15T08:46:30+0000
+/project/humps/, humps, 0.2.2, camelCase converter, 2018-03-13T09:10:15+0000
+/project/ja-sentence-segmenter/, ja-sentence-segmenter, 0.0.2, sentence segmenter for japanese text, 2020-02-22T16:09:25+0000
+/project/chkcsv/, chkcsv, 1.2.0, Checks the format of a CSV file with respect to a specifed set of column names and types., 2020-01-26T19:42:11+0000
+/project/bag/, bag, 3.1.0, A library for several purposes, including javascript i18n and stuff for the Pyramid web framework., 2021-01-26T19:16:15+0000
+/project/isbnlib-dnb/, isbnlib-dnb, 0.0.4, A plugin for isbnlib that pulls metadata from the Deutsche National Bibliothek (Germany), 2020-11-16T15:21:49+0000
+/project/kitchen/, kitchen, 1.2.6, Kitchen contains a cornucopia of useful code, 2019-05-14T19:52:35+0000
+/project/names-translator/, names_translator, 1.2.3, Automatic translation and transliteration of ukrainian names into Russian and English + some extra tools to deal with mixed languages, etc, 2020-10-12T10:16:23+0000
+/project/tokenquery/, tokenquery, 0.1.1, Tokenquery - query language for tokens , 2017-01-31T00:59:56+0000
+/project/rewrapped/, rewrapped, 0.5.0, Class wrappers for regular expressions with proper fields for match groups., 2018-02-26T19:45:42+0000
+/project/isbnlib-worldcat2/, isbnlib-worldcat2, 0.1.2, An isbnlib plugin for the WorldCat service (https://www.worldcat.org/)., 2019-05-15T17:38:19+0000
+/project/wu/, wu, 0.0.0, Writeup is a markup language that transforms to HTML., 2019-05-24T14:49:17+0000
+/project/chopro/, chopro, 0.2.0, Utilities for manipulating, converting, and rendering ChoPro/ChordPro text, 2020-01-03T06:12:47+0000
+/project/convert2utf/, convert2utf, 1.3.2, A one-line command that converts source code files into UTF-8 or UTF-8-BOM., 2018-12-25T14:26:27+0000
+/project/weka/, weka, 1.0.6, A Python wrapper for the Weka data mining library., 2019-04-09T18:30:37+0000
+/project/ctrfoobar2000/, ctrfoobar2000, 1.2.0.2, Control Foobar2000 with python + Command line, 2015-06-28T14:47:33+0000
+/project/linguistica/, linguistica, 5.2.1, Linguistica 5: Unsupervised Learning of Linguistic Structure, 2018-10-12T13:15:51+0000
+/project/django-autoslugged/, django-autoslugged, 2.0.0.post0, An automated slug field for Django., 2020-05-25T16:43:29+0000
+/project/pycompressor/, pycompressor, 0.0.2, Python implementation of a string compressor, 2017-06-04T05:18:44+0000
+/project/journalist/, journalist, 0.0.3, App to write journal digitally, 2018-01-03T15:16:05+0000
+/project/mwcli/, mwcli, 0.0.3, Utilities for processing MediaWiki on the command line., 2020-01-14T19:11:39+0000
+/project/json-transporter/, json-transporter, 0.2.3, A JSON data transporter, 2015-08-31T21:26:40+0000
+/project/poio-api/, poio-api, 0.3.6, A Python Library to access and manipulate linguistically annotated corpus files., 2014-07-28T08:24:39+0000
+/project/repchar/, repchar, 1.0.2, Simple reporter for characters used in a file, 2018-05-03T17:06:26+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/news-corpus-builder/, news-corpus-builder, 0.1.4, Quickly build a news/web corpus with specifc topics or terms automatically from Google News or by specifying                 article links in a file. This module automatically extracts the body and title from each article and saves                the result to either flatfiles or sqlite database., 2015-10-03T02:47:03+0000
+/project/openfst/, openfst, 1.6.9, Python wrapper for OpenFst, 2018-07-27T03:16:52+0000
+/project/tangled-up-in-unicode/, tangled-up-in-unicode, 0.0.7, Access to the Unicode Character Database (UCD), 2021-03-09T18:48:01+0000
+/project/rosie/, rosie, 1.1.4, Rosie Pattern Language (replaces regex for data mining and text search), 2019-10-08T20:42:07+0000
+/project/querycsv-redux/, querycsv-redux, 4.1.0, Execute SQL code against data contained in one or more comma-separated-value (CSV) files., 2016-09-28T02:03:55+0000
+/project/simpletail/, simpletail, 1.0.0, Read file in reverse order, 2019-05-28T12:08:51+0000
+/project/rdfframework/, rdfframework, 0.0.38, Application builder for KnowledgeLinks.io RDF applications., 2018-05-08T14:39:06+0000
+/project/twilight/, twilight, 0.3.10, Twitter (crawling) tools., 2014-05-05T14:59:29+0000
+/project/pdf2textbox/, pdf2textbox, 0.4.3, A PDF-to-text converter based on pdfminer2, 2019-03-01T18:26:24+0000
+/project/pythainlp/, pythainlp, 2.3.1, Thai Natural Language Processing library, 2021-04-04T17:29:45+0000
+/project/fuzzy/, Fuzzy, 1.2.2, Fast Python phonetic algorithms, 2017-10-16T22:09:04+0000
+/project/task-allocator/, Task_allocator, 1.0.2, This program takes commandline input for the datafile from where configuration will be fetched., 2015-05-17T17:07:40+0000
+/project/pangu2/, pangu2, 5.0, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-08-02T07:48:50+0000
+/project/plywood/, plywood, 2.1.0, A template language grammar inspired by the Python code aesthetic, 2019-07-24T19:37:05+0000
+/project/phablytics/, phablytics, 3.0.1, Analytics, metrics, and reports for Phabricator (https://phacility.com/phabricator/)., 2021-04-07T03:00:25+0000
+/project/gibberish-detector/, gibberish-detector, 0.1.1, Detects gibberish strings., 2021-03-04T15:05:57+0000
+/project/iter8/, iter8, 0.0.3, More itertools, 2017-10-22T20:58:54+0000
+/project/sqlint/, sqlint, 0.2.4, Simple Sql Linter, 2019-10-22T16:36:23+0000
+/project/textmining/, textmining, 1.0, Python Text Mining Utilities, 2010-11-01T21:03:08+0000
+/project/test-konlp/, test-konlp, 0.0.1, Korean Natural Language Toolkit, 2018-04-20T06:38:52+0000
+/project/pylangacq/, pylangacq, 0.13.1, PyLangAcq: Language Acquisition Research in Python, 2021-03-23T17:35:21+0000
+/project/hdlparse/, hdlparse, 1.0.4, HDL parser, 2017-10-19T03:50:25+0000
+/project/orange-textable-prototypes/, Orange-Textable-Prototypes, 0.1.6, Extra widgets for the Textable text analysis package., 2016-09-20T21:10:01+0000
+/project/pytrec-eval/, pytrec-eval, 0.5, Provides Python bindings for popular Information Retrieval measures implemented within trec_eval., 2020-09-07T18:31:57+0000
+/project/bibolamazi/, bibolamazi, 4.4, Prepare consistent BibTeX files for your LaTeX documents, 2020-11-01T21:38:38+0000
+/project/metapy/, metapy, 0.2.13, Python bindings for MeTA, 2018-08-06T01:17:33+0000
+/project/drylib/, drylib, 0.0.1, DRYlib for Python, 2018-10-09T14:41:04+0000
+/project/cvt2utf/, cvt2utf, 1.3.2, A one-line command that converts source code files into UTF-8 or UTF-8-BOM., 2019-01-04T12:04:47+0000
+/project/ll-xist/, ll-xist, 5.65, Extensible HTML/XML generator, cross-platform templating language, Oracle utilities and various other tools, 2021-01-13T11:06:10+0000
+/project/publicstatic/, publicstatic, 0.7.8.4, Yet another static website builder. A good one., 2014-04-07T13:03:44+0000
+/project/dpline/, dpline, 1.3, dpline is tool to remove duplicate lines from file, 2015-09-19T05:16:01+0000
+/project/kadot/, Kadot, 0.1.9, Kadot, unsupervised natural language processing., 2017-07-31T17:14:46+0000
+/project/marcx/, marcx, 0.2.11, MARC record manipulation library based on pymarc, 2020-02-20T15:53:05+0000
+/project/smc-bibencodings/, smc.bibencodings, 0.1, ISO-5426 (MAB2) and MARC (USMARC, ANSEL) encodings for Python., 2012-07-15T16:51:09+0000
+/project/kitchen/, kitchen, 1.2.6, Kitchen contains a cornucopia of useful code, 2019-05-14T19:52:35+0000
+/project/test20201020/, test20201020, 0.0.1, test, 2020-10-20T18:09:24+0000
+/project/fnetodo/, FNEtodo, 0.1.1, Simple command-line Todo app., 2019-09-04T10:51:41+0000
+/project/textfairy/, textfairy, 0.1.0, textfairy converts your text to UTF-8, 2016-07-17T00:43:57+0000
+/project/tableprint/, tableprint, 0.9.1, Pretty console printing of tabular data, 2020-08-09T23:56:25+0000
+/project/boltun/, boltun, 0.6.0, Generate massive datasets from a single template file, 2018-11-23T17:53:57+0000
+/project/ll-core/, ll-core, 1.11.1, LivingLogic base package: ansistyle, color, make, sisyphus, xpit, url, xml_codec, 2008-01-11T13:47:18+0000
+/project/mtap/, mtap, 0.8.3, A framework for distributed text analysis using gRPC and microservices-based architecture., 2021-03-11T00:15:09+0000
+/project/unidump/, unidump, 1.1.2, hexdump for your unicode data, 2017-03-19T19:48:26+0000
+/project/plusminus/, plusminus, 0.4.0,  +/- plusminus is a module that builds on the pyparsing infixNotation helper method to build easy-to-code and easy-to-use parsers for parsing and evaluating infix arithmetic expressions. plusminus's ArithmeticParser class includes separate parse and evaluate methods, handling operator precedence, override with parentheses, presence or absence of whitespace, built-in functions, and pre-defined and user-defined variables, functions, and operators., 2020-08-30T16:37:55+0000
+/project/lttl/, LTTL, 2.0.12, LangTech Text Library (LTTL) for text processing and analysis, 2020-09-17T07:09:33+0000
+/project/flattery/, flattery, 0.1, flattery - fast flattening and unflattening of nested Python data, 2011-03-13T22:34:02+0000
+/project/celery-geolocator/, celery_geolocator, 0.0.11, Celery Geolocator, 2014-09-11T22:35:33+0000
+/project/interlinears/, Interlinears, 0.2, Pretty-printing of linguistic interlinears, 2014-04-17T20:13:02+0000
+/project/konlpy/, konlpy, 0.5.2, Python package for Korean natural language processing., 2019-12-03T08:19:18+0000
+/project/tekorrect/, tekorrect, 0.0.3, 用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。, 2020-01-09T07:32:08+0000
+/project/articlequality/, articlequality, 0.4.2, A library for performing automatic detection of assessment classes of Wikipedia articles., 2020-04-17T20:16:07+0000
+/project/teax/, teax, 0.0.dev1, Command line utilities for TeX. Arm yourself with secret powers!, 2016-02-03T22:03:50+0000
+/project/notifydict/, notifydict, 0.1.2, a dictionary which will fire a callback if its changed, 2018-07-15T08:56:52+0000
+/project/pybridge/, pybridge, 1.0.1, Bridge for Python (Bridge is a light-weight portable Natural Language Processing Library), 2015-07-29T10:40:41+0000
+/project/spongemock/, spongemock, 0.3.4, Mock some text like spongebob would. mOCk SoMe TexT lIKe SpONGebOb wOuLd., 2017-05-19T20:39:12+0000
+/project/rdfframework/, rdfframework, 0.0.38, Application builder for KnowledgeLinks.io RDF applications., 2018-05-08T14:39:06+0000
+/project/awk/, awk, 1.2.1, A library to provide advanced awk-like functionalities for file manipulation in Python., 2016-11-03T02:23:45+0000
+/project/money-parser/, money-parser, 0.0.1, Price and currency parsing utility, 2017-12-17T19:27:07+0000
+/project/marc2bib/, marc2bib, 0.1.4, Easily convert MARC bibliographic records to BibTeX entries, 2015-08-06T02:35:31+0000
+/project/textbot/, textbot, 0.1.0, Read a column of strings from csv, parse wordnet pos_tags to lemmas, enumerate most_common lemmas, weight strings via top scoring lemmas, 2017-08-01T13:36:46+0000
+/project/lsf-lions-sectioned-format/, lsf-lions-sectioned-format, 2021.1.20, Read/write LSF plain-text container format files, 2021-01-20T15:44:13+0000
+/project/cocorpy27/, CocoRPy27, 1.4.1, Python implementation of the famous CoCo/R LL(k) compiler generator ported to Python., 2012-03-08T22:12:42+0000
+/project/isbnlib-loc/, isbnlib-loc, 1.0.1, A plugin for isbnlib that pulls metadata from LoC (Library of Congress US)., 2020-12-05T14:47:30+0000
+/project/twilight/, twilight, 0.3.10, Twitter (crawling) tools., 2014-05-05T14:59:29+0000
+/project/pdf2textbox/, pdf2textbox, 0.4.3, A PDF-to-text converter based on pdfminer2, 2019-03-01T18:26:24+0000
+/project/pythainlp/, pythainlp, 2.3.1, Thai Natural Language Processing library, 2021-04-04T17:29:45+0000
+/project/fuzzy/, Fuzzy, 1.2.2, Fast Python phonetic algorithms, 2017-10-16T22:09:04+0000
+/project/task-allocator/, Task_allocator, 1.0.2, This program takes commandline input for the datafile from where configuration will be fetched., 2015-05-17T17:07:40+0000
+/project/bibcat/, bibcat, 2.4.0, BIBCAT RDF Framework Application, 2018-08-22T13:44:00+0000
+/project/citableclass/, citableclass, 0.0.21, Tool for data request to Edition Topoi, 2018-12-07T13:42:50+0000
+/project/regex20200220/, regex20200220, 2020.2.20.3, Alternative regular expression module, to replace re., 2020-06-30T06:58:26+0000
+/project/pyjsbsim/, PyJSBSim, 0.5.6, A python interface for JSBSim using Cython., 2013-04-03T19:50:38+0000
+/project/sphinx-intl/, sphinx-intl, 2.0.1, Sphinx utility that make it easy to translate and to apply translation., 2020-04-27T16:36:08+0000
+/project/mtdata/, mtdata, 0.2.8, mtdata is a tool to download datasets for machine translation, 2021-01-27T00:52:19+0000
+/project/lambdax/, LambdaX, 0.2, A lambda replacement which is shorter, pickle-able, and cooler., 2013-01-03T18:11:19+0000
+/project/pymarcspec/, pymarcspec, 0.0.3, Search pymarc.Record using a string expression, 2021-03-12T17:37:13+0000
+/project/any2csv/, any2csv, 0.3.6, A tool to generate csv file from a list of python instances, 2017-07-18T11:42:16+0000
+/project/chomsky/, chomsky, 2.0.0, Another language grammar parser.  Inspired by modgrammar and pyparsing, 2019-06-05T10:47:02+0000
+/project/asciimatics/, asciimatics, 1.13.0, A cross-platform package to replace curses (mouse/keyboard input & text colours/positioning) and create ASCII animations, 2021-04-05T16:32:43+0000
+/project/jaro-winkler/, jaro-winkler, 2.0.1, Original, standard and customisable versions of the Jaro-Winkler functions., 2021-03-09T07:17:15+0000
+/project/daot/, daot, 0.7.4, the dao to programming, lisp meets prolog in python., 2011-11-10T07:31:09+0000
+/project/fcomments/, fcomments, 0.1.3, Script for commenting in/out lines in file., 2017-09-03T19:54:07+0000
+/project/htk/, htk, 1.3.0, Python utilities by Hacktoolkit., 2020-08-29T04:51:18+0000
+/project/rscase/, rscase, 1.1.1, Python package for string case formatting; implemented in Rust., 2020-02-18T22:21:42+0000
+/project/python-templet/, python-templet, 4.0.0, Lightweight string templating via function decorator., 2016-01-08T15:15:35+0000
+/project/idgen/, idgen, 0.0.1, Generate encrypted identifiers, 2011-11-17T17:28:49+0000
+/project/async-imgkit/, async-imgkit, 0.0.5, Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt, 2021-01-18T00:00:24+0000
+/project/pysie/, pysie, 0.0.2, Python implementation of a statistical inference engine, 2017-06-15T16:16:12+0000
+/project/edge-genome/, edge-genome, 2.18.0, Genome Engineering Tool, 2021-04-16T19:12:25+0000
+/project/awessome/, awessome, 0.0.14, awessome, 2020-10-30T18:32:48+0000
+/project/simple-nltk/, simple-nltk, 3.5, a simple version of the NLTK, 2021-01-25T05:40:18+0000
+/project/freediscovery/, freediscovery, 1.3.1, Open source software for E-Discovery and Information Retrieval, 2018-05-22T22:36:50+0000
+/project/dorthrithil-mediawiki-utilities/, dorthrithil-mediawiki-utilities, 0.4.18, A set of utilities for extracting and processing MediaWiki data., 2016-05-04T10:39:50+0000
+/project/isbnlib-porbase/, isbnlib-porbase, 1.0.1, A plugin for isbnlib that pulls metadata from porbase (urn.porbase.org Portugal)., 2020-05-30T09:48:57+0000
+/project/bluesearch/, bluesearch, 0.1.1, Blue Brain text mining toolbox for semantic search and information extraction, 2021-03-26T13:55:58+0000
+/project/naturalsort/, naturalsort, 1.5.1, Simple natural order sorting API for Python, 2015-11-02T19:14:58+0000
+/project/koalanlp/, koalanlp, 2.1.6, Python wrapper for KoalaNLP, 2020-09-29T01:30:35+0000
+/project/pyindent/, pyindent, 0.2.1, A multi-line indenter, 2015-03-31T18:45:36+0000
+/project/mwtext/, mwtext, 0.2.1, A set of utilities for processing MediaWiki text., 2020-06-22T21:59:03+0000
+/project/starro/, starro, 1.0.10, The package objective is to mischaracterize sensitive data from this through blinding masks using asterisk, 2021-04-20T05:09:50+0000
+/project/tssplit/, tssplit, 1.0.4, Trivial split for strings with quotes and escaped characters, 2020-03-29T16:55:20+0000
+/project/pystempel/, pystempel, 1.2.0, Polish stemmer., 2020-10-29T16:19:55+0000
+/project/unpdf/, unpdf, 0.0.1, Extract text from PDF., 2017-10-10T13:55:28+0000
+/project/blowdrycss/, blowdrycss, 1.0.3, The atomic CSS compiler, 2018-03-08T00:51:04+0000
+/project/erl-terms/, erl_terms, 0.1.5, Erlang term read library, 2017-08-14T21:56:57+0000
+/project/visie/, visie, 0.1.0, Visie is a simple initialism enumerator. It helps you name things., 2019-02-06T03:33:12+0000
+/project/sar-tool/, sar-tool, 1.0.3, Search and replace tool that outputs a diff compatible with patch, 2015-05-28T12:51:50+0000
+/project/test20201020/, test20201020, 0.0.1, test, 2020-10-20T18:09:24+0000
+/project/emoji2text/, emoji2text, 0.1.7, Can't handle emoji? Use this to treat them as plain strings, according to the description provided by unicode., 2018-04-21T23:14:44+0000
+/project/fnetodo/, FNEtodo, 0.1.1, Simple command-line Todo app., 2019-09-04T10:51:41+0000
+/project/textfairy/, textfairy, 0.1.0, textfairy converts your text to UTF-8, 2016-07-17T00:43:57+0000
+/project/tableprint/, tableprint, 0.9.1, Pretty console printing of tabular data, 2020-08-09T23:56:25+0000
+/project/sphinx/, Sphinx, 3.5.4, Python documentation generator, 2021-04-11T11:27:38+0000
+/project/find-best-string/, find-best-string, 0.1.0, Finds the best matching string in a larger string., 2018-09-11T00:02:07+0000
+/project/pylatexenc/, pylatexenc, 2.10, Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion, 2021-04-06T07:56:07+0000
+/project/graf-python/, graf-python, 0.3.1, Python implementation of the Graph Annotation Framework (GrAF), 2014-07-28T08:18:09+0000
+/project/boltun/, boltun, 0.6.0, Generate massive datasets from a single template file, 2018-11-23T17:53:57+0000
+/project/ll-core/, ll-core, 1.11.1, LivingLogic base package: ansistyle, color, make, sisyphus, xpit, url, xml_codec, 2008-01-11T13:47:18+0000
+/project/mtap/, mtap, 0.8.3, A framework for distributed text analysis using gRPC and microservices-based architecture., 2021-03-11T00:15:09+0000
+/project/unidump/, unidump, 1.1.2, hexdump for your unicode data, 2017-03-19T19:48:26+0000
+/project/plusminus/, plusminus, 0.4.0,  +/- plusminus is a module that builds on the pyparsing infixNotation helper method to build easy-to-code and easy-to-use parsers for parsing and evaluating infix arithmetic expressions. plusminus's ArithmeticParser class includes separate parse and evaluate methods, handling operator precedence, override with parentheses, presence or absence of whitespace, built-in functions, and pre-defined and user-defined variables, functions, and operators., 2020-08-30T16:37:55+0000
+/project/lttl/, LTTL, 2.0.12, LangTech Text Library (LTTL) for text processing and analysis, 2020-09-17T07:09:33+0000
+/project/th-simple-preprocessor/, th-simple-preprocessor, 0.4.1, Simple Thai Preprocess Functions, 2021-04-26T06:54:30+0000
+/project/flattery/, flattery, 0.1, flattery - fast flattening and unflattening of nested Python data, 2011-03-13T22:34:02+0000
+/project/orange-textable/, Orange-Textable, 2.0.1, Textable add-on for Orange 2.7 data mining software package., 2017-01-31T10:25:52+0000
+/project/easyban/, easyban, 0.1, easyBAN to IBAN converter via Blockstack, 2016-03-31T00:16:21+0000
+/project/afmt/, afmt, 0.0.5, ANSI escape code formatter, 2019-09-29T14:05:48+0000
+/project/omterms/, omterms, 0.1.4, A customizable keyword extraction package., 2018-05-12T21:59:06+0000
+/project/th-simple-preprocessor/, th-simple-preprocessor, 0.4.1, Simple Thai Preprocess Functions, 2021-04-26T06:54:30+0000

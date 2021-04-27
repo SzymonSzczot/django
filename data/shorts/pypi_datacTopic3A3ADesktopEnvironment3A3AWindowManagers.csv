@@ -1,0 +1,90 @@
+/project/pystiler/, pystiler, 0.4.1, Python simple tiler for non-tiling window managers, 2018-01-01T21:09:56+0000
+/project/pytest-qt/, pytest-qt, 3.3.0, pytest support for PyQt and PySide applications, 2019-12-07T13:38:10+0000
+/project/text-based-switcher/, text-based-switcher, 0.0.2.dev0, Text-based window switcher for Unity, 2015-07-23T15:51:42+0000
+/project/cterm/, cterm, 0.0.9, Fork your input to multiple Terminal windows, 2020-01-20T12:02:50+0000
+/project/event-simulate/, event-simulate, 1.0.4, 模拟键盘,鼠标事件的Python包。A Python package simulating keyboard and mouse eventsAuthor: 七分诚意, 2021-03-27T06:07:11+0000
+/project/ws-grid-pager/, ws-grid-pager, 0.2, A workspace grid pager for EMWH-compliant window-managers, 2016-01-22T15:41:30+0000
+/project/i3menu/, i3menu, 3.0, a set of menus based on Rofi or dmenu to interact with i3wm, 2016-03-04T19:03:17+0000
+/project/ffsuspend/, ffsuspend, 0.1, Suspend processes when X window not visible (i3-wm only), 2020-06-04T14:00:51+0000
+/project/yawttk/, yawTtk, 1.0.5, yawTtk is a Python wrapper for Tile. It provides classes which allow the display, positioning and control of native look'n feel widgets., 2017-07-23T21:56:35+0000
+/project/arknightspaintingextract/, ArknightsPaintingExtract, 1.2.1, an tool to work with arknights Texture2D, 2019-06-22T14:26:56+0000
+/project/qtile-plasma/, qtile-plasma, 1.5.6, A flexible, tree-based layout for Qtile, 2021-02-21T06:28:25+0000
+/project/desktop3/, desktop3, 0.5.3, Simple desktop integration for Python., 2019-08-19T14:12:17+0000
+/project/py3status-ups-battery-status/, py3status-ups-battery-status, 0.1.2, py3status module to show the status of a UPS battery, 2021-03-07T05:07:22+0000
+/project/pi3-switch/, pi3-switch, 0.5.2, More advanced workspace switcher for i3., 2018-09-10T17:41:58+0000
+/project/asyncluster/, AsynCluster, 0.3, Asynchronous cluster management based on the Twisted framework, with evolutionary computing tools for asynchronous node processing., 2008-03-23T05:10:55+0000
+/project/i3pystatus/, i3pystatus, 3.35, A complete replacement for i3status, 2016-08-31T16:19:58+0000
+/project/freetile/, freetile, 0.1.3, freely tiling script for X, 2019-10-17T04:59:00+0000
+/project/ethmenu/, ethmenu, 2.0.4, Simple menu, 2020-10-23T15:19:11+0000
+/project/i3pystatus-anybar/, i3pystatus_anybar, 1.0, AnyBar widget for i3pystatus, 2015-03-17T14:06:55+0000
+/project/xkbgroup/, xkbgroup, 0.2.0, Query and change XKB layout state, 2017-10-06T01:42:25+0000
+/project/pywlroots/, pywlroots, 0.2.6, Python binding to the wlroots library using cffi, 2021-04-24T15:12:59+0000
+/project/windownow/, windownow, 0.9.6, Switch desktop's windows by typing their titles, name, etc., 2013-01-14T12:04:23+0000
+/project/desktop/, desktop, 0.4.2, Simple desktop integration for Python, 2014-01-04T23:31:10+0000
+/project/py3status-amdfan/, py3status-amdfan, 0.1.0, py3status monitor show amdgpu fan speeds and temp, 2021-04-11T00:31:19+0000
+/project/pywingo/, pywingo, 0.0.12, Provide access to wingo via sockets, 2016-07-09T12:36:35+0000
+/project/py3status-cpu-governor/, py3status-cpu-governor, 0.1.2, py3status monitor to show the state of your cpu governor, 2021-03-07T05:07:06+0000
+/project/pytyle1x/, pytyle1x, 1.0.1, A tiling manager for EWMH compliant window managers, 2021-04-07T15:18:10+0000
+/project/tomaatti/, tomaatti, 0.5.0, Pomodoro timer with i3 integration, 2018-10-10T10:34:41+0000
+/project/qtile/, qtile, 0.17.0, A pure-Python tiling window manager., 2021-02-13T18:46:35+0000
+/project/pauseonlock/, pauseonlock, 0.1.0, Pause/Resume your media players on screen locking/unlocking, 2021-03-20T21:39:54+0000
+/project/pywayland/, pywayland, 0.4.1, Python bindings for the libwayland library written in pure Python, 2021-04-21T23:57:27+0000
+/project/i3-workscreen/, i3-workscreen, 1.0.0, i3wm - assign workspaces to correct display outputs based on multi-scenario multi-monitor configuration, 2020-04-08T18:21:26+0000
+/project/enaml-extensions/, enaml-extensions, 0.1.0, Enaml extra widgets and extensions, 2015-06-30T21:15:07+0000
+/project/py3status-github-notifications/, py3status-github-notifications, 0.1.0, py3status module to show your Github notifications, 2021-03-10T04:40:05+0000
+/project/pypie/, pypie, 0.1, devilspie clone based on wnck and pygtk, 2010-03-11T18:34:20+0000
+/project/cwmctrl/, cwmctrl, 0.0.1, Bindings for wmctrl, 2018-04-26T14:25:25+0000
+/project/rofi-tmuxp/, rofi-tmuxp, 0.1.0, Rofi script to launch tmuxp sessions, 2019-09-25T20:28:03+0000
+/project/kitti3/, kitti3, 0.2.6, Kitti3 - Kitty drop down terminal service for i3wm, 2020-04-05T01:14:26+0000
+/project/xatk/, xatk, 0.2.2, keyboard-driven window switcher for X11, 2017-03-17T19:41:07+0000
+/project/py3tree/, py3tree, 0.0.3, Display the i3 tree for the current or all workspaces, 2018-08-06T00:31:10+0000
+/project/py3tree/, py3tree, 0.0.3, Display the i3 tree for the current or all workspaces, 2018-08-06T00:31:10+0000
+/project/enaml-extensions/, enaml-extensions, 0.1.0, Enaml extra widgets and extensions, 2015-06-30T21:15:07+0000
+/project/pypie/, pypie, 0.1, devilspie clone based on wnck and pygtk, 2010-03-11T18:34:20+0000
+/project/cwmctrl/, cwmctrl, 0.0.1, Bindings for wmctrl, 2018-04-26T14:25:25+0000
+/project/rofi-tmuxp/, rofi-tmuxp, 0.1.0, Rofi script to launch tmuxp sessions, 2019-09-25T20:28:03+0000
+/project/pystiler/, pystiler, 0.4.1, Python simple tiler for non-tiling window managers, 2018-01-01T21:09:56+0000
+/project/pytest-qt/, pytest-qt, 3.3.0, pytest support for PyQt and PySide applications, 2019-12-07T13:38:10+0000
+/project/text-based-switcher/, text-based-switcher, 0.0.2.dev0, Text-based window switcher for Unity, 2015-07-23T15:51:42+0000
+/project/cterm/, cterm, 0.0.9, Fork your input to multiple Terminal windows, 2020-01-20T12:02:50+0000
+/project/event-simulate/, event-simulate, 1.0.4, 模拟键盘,鼠标事件的Python包。A Python package simulating keyboard and mouse eventsAuthor: 七分诚意, 2021-03-27T06:07:11+0000
+/project/ws-grid-pager/, ws-grid-pager, 0.2, A workspace grid pager for EMWH-compliant window-managers, 2016-01-22T15:41:30+0000
+/project/i3menu/, i3menu, 3.0, a set of menus based on Rofi or dmenu to interact with i3wm, 2016-03-04T19:03:17+0000
+/project/ffsuspend/, ffsuspend, 0.1, Suspend processes when X window not visible (i3-wm only), 2020-06-04T14:00:51+0000
+/project/yawttk/, yawTtk, 1.0.5, yawTtk is a Python wrapper for Tile. It provides classes which allow the display, positioning and control of native look'n feel widgets., 2017-07-23T21:56:35+0000
+/project/arknightspaintingextract/, ArknightsPaintingExtract, 1.2.1, an tool to work with arknights Texture2D, 2019-06-22T14:26:56+0000
+/project/qtile-plasma/, qtile-plasma, 1.5.6, A flexible, tree-based layout for Qtile, 2021-02-21T06:28:25+0000
+/project/desktop3/, desktop3, 0.5.3, Simple desktop integration for Python., 2019-08-19T14:12:17+0000
+/project/py3status-ups-battery-status/, py3status-ups-battery-status, 0.1.2, py3status module to show the status of a UPS battery, 2021-03-07T05:07:22+0000
+/project/pi3-switch/, pi3-switch, 0.5.2, More advanced workspace switcher for i3., 2018-09-10T17:41:58+0000
+/project/asyncluster/, AsynCluster, 0.3, Asynchronous cluster management based on the Twisted framework, with evolutionary computing tools for asynchronous node processing., 2008-03-23T05:10:55+0000
+/project/i3pystatus/, i3pystatus, 3.35, A complete replacement for i3status, 2016-08-31T16:19:58+0000
+/project/freetile/, freetile, 0.1.3, freely tiling script for X, 2019-10-17T04:59:00+0000
+/project/ethmenu/, ethmenu, 2.0.4, Simple menu, 2020-10-23T15:19:11+0000
+/project/i3pystatus-anybar/, i3pystatus_anybar, 1.0, AnyBar widget for i3pystatus, 2015-03-17T14:06:55+0000
+/project/xkbgroup/, xkbgroup, 0.2.0, Query and change XKB layout state, 2017-10-06T01:42:25+0000
+/project/pywlroots/, pywlroots, 0.2.6, Python binding to the wlroots library using cffi, 2021-04-24T15:12:59+0000
+/project/windownow/, windownow, 0.9.6, Switch desktop's windows by typing their titles, name, etc., 2013-01-14T12:04:23+0000
+/project/desktop/, desktop, 0.4.2, Simple desktop integration for Python, 2014-01-04T23:31:10+0000
+/project/py3status-amdfan/, py3status-amdfan, 0.1.0, py3status monitor show amdgpu fan speeds and temp, 2021-04-11T00:31:19+0000
+/project/pywingo/, pywingo, 0.0.12, Provide access to wingo via sockets, 2016-07-09T12:36:35+0000
+/project/py3status-cpu-governor/, py3status-cpu-governor, 0.1.2, py3status monitor to show the state of your cpu governor, 2021-03-07T05:07:06+0000
+/project/pytyle1x/, pytyle1x, 1.0.1, A tiling manager for EWMH compliant window managers, 2021-04-07T15:18:10+0000
+/project/tomaatti/, tomaatti, 0.5.0, Pomodoro timer with i3 integration, 2018-10-10T10:34:41+0000
+/project/qtile/, qtile, 0.17.0, A pure-Python tiling window manager., 2021-02-13T18:46:35+0000
+/project/pauseonlock/, pauseonlock, 0.1.0, Pause/Resume your media players on screen locking/unlocking, 2021-03-20T21:39:54+0000
+/project/pywayland/, pywayland, 0.4.1, Python bindings for the libwayland library written in pure Python, 2021-04-21T23:57:27+0000
+/project/i3-workscreen/, i3-workscreen, 1.0.0, i3wm - assign workspaces to correct display outputs based on multi-scenario multi-monitor configuration, 2020-04-08T18:21:26+0000
+/project/enaml-extensions/, enaml-extensions, 0.1.0, Enaml extra widgets and extensions, 2015-06-30T21:15:07+0000
+/project/py3status-github-notifications/, py3status-github-notifications, 0.1.0, py3status module to show your Github notifications, 2021-03-10T04:40:05+0000
+/project/pypie/, pypie, 0.1, devilspie clone based on wnck and pygtk, 2010-03-11T18:34:20+0000
+/project/cwmctrl/, cwmctrl, 0.0.1, Bindings for wmctrl, 2018-04-26T14:25:25+0000
+/project/rofi-tmuxp/, rofi-tmuxp, 0.1.0, Rofi script to launch tmuxp sessions, 2019-09-25T20:28:03+0000
+/project/kitti3/, kitti3, 0.2.6, Kitti3 - Kitty drop down terminal service for i3wm, 2020-04-05T01:14:26+0000
+/project/xatk/, xatk, 0.2.2, keyboard-driven window switcher for X11, 2017-03-17T19:41:07+0000
+/project/py3tree/, py3tree, 0.0.3, Display the i3 tree for the current or all workspaces, 2018-08-06T00:31:10+0000
+/project/py3status-http-monitor/, py3status-http-monitor, 0.1.2, py3status http monitor show the status of http endpoints, 2021-03-25T22:35:34+0000
+/project/pi3-smart-workspace/, pi3-smart-workspace, 0.1.21, Simple program that looks through the i3 config and finds the bound workspaces for each output, and then opening that workspace on the output, that the mouse is currently on., 2020-11-22T17:56:05+0000
+/project/python-specbar/, python-specbar, 0.3, Simple module to build a statusbar for spectrwm., 2012-11-02T08:00:03+0000
+/project/pydwm/, pydwm, 0.1.4, A simple python wrapper around DWM., 2019-10-11T22:08:36+0000
+/project/orcsome/, orcsome, 0.6, Scripting extension for NETWM compliant window managers, 2017-02-27T19:23:27+0000

@@ -1,0 +1,518 @@
+/project/numrep/, NumRep, 0.1.3, A module to represent numbers by their place value., 2015-12-21T14:54:44+0000
+/project/django-helpdesk/, django-helpdesk, 0.2.23, Django-powered ticket tracker for your helpdesk, 2020-11-12T07:06:05+0000
+/project/zvt-ccxt/, zvt-ccxt, 0.0.6, ccxt cryptocurrency plugin for zvt, 2020-07-18T01:40:05+0000
+/project/mds-party-fieldaddon/, mds_party_fieldaddon, 4.6.1, Tryton module to add some fields to the party-type, 2017-12-15T09:10:22+0000
+/project/luhn-algorithm-validator/, Luhn_Algorithm_Validator, 1.0.1, Luhn Account Number Validator, 2015-08-19T15:21:23+0000
+/project/rlohe/, RLOHE, 0.0.1, Rare-Label-One-Hot Encoder with Threshold Implementation and Python Package., 2020-11-02T12:20:06+0000
+/project/roundup/, roundup, 2.0.0, A simple-to-use and -install issue-tracking system with command-line, web and e-mail interfaces. Highly customisable., 2020-07-13T13:15:12+0000
+/project/gparams/, gparams, 1.0.2, A kit to process the parameters of the GeneDock workflow (help for batch delivery)., 2019-06-05T05:17:06+0000
+/project/paretochart/, paretochart, 1.0, Pareto chart for python (similar to Matlab's, but much more flexible), 2013-09-05T20:14:19+0000
+/project/flask-board/, Flask-Board, 0.2.2, Build base flask app depends on template., 2021-01-07T10:46:11+0000
+/project/footprintsapi/, footprintsapi, 1.0.5, API wrapper for the BMC (Numara) Footprints SOAP API, 2020-04-05T23:05:45+0000
+/project/autogluon-tabular/, autogluon.tabular, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:47+0000
+/project/just/, just, 0.7.134, Automatically just read and write files based on extension., 2021-04-17T17:29:39+0000
+/project/lino-amici/, lino-amici, 20.12.0, A Lino application for managing family contacts, 2020-12-26T09:39:23+0000
+/project/dcard-spider/, dcard-spider, 0.3.0, A spider for Dcard through its newest API., 2017-05-26T12:46:01+0000
+/project/autoguru/, autoguru, 0.0.1, Question Answering for FAQs with Natural Language Processing, 2020-03-30T03:16:15+0000
+/project/citellus/, citellus, 1.3.3.20210421115858, Utility for running set of tests against a Live System or a snapshot/sosreport, 2021-04-21T11:59:03+0000
+/project/metadate/, metadate, 0.5.77, All your date are belong to us, 2020-09-10T19:32:48+0000
+/project/encrypthashpassword/, EncryptHashPassword, 1.0.1, Use your domain, password and extra salt to encrypt password, 2015-10-27T10:36:27+0000
+/project/natura/, natura, 0.0.63, Find money / currencies talk, 2018-07-28T13:52:35+0000
+/project/infocyteapiquery/, infocyteapiquery, 1.1.15, Used to get API data from Infocyte Cloud Instances into the pandas DataFrame, 2021-04-20T08:05:18+0000
+/project/magic-reader/, magic_reader, 1.3.1, Read requests/files/dbs without importing external libraries with simple exact command., 2017-03-24T12:29:32+0000
+/project/shadowchain/, shadowChain, 0.0.3, A proxy tool, 2019-04-13T10:08:23+0000
+/project/proxmox-tools/, proxmox-tools, 1.4, prox is a command line interface to rapidly deploy LXC containers on proxmox from a remote host using proxmox REST API, 2018-12-13T13:28:22+0000
+/project/mds-account-statement-matching-invoice/, mds-account-statement-matching-invoice, 5.4.0, Tryton module for automatic matching of unpaid invoices when importing bank statements., 2020-08-12T10:03:00+0000
+/project/articutapi/, ArticutAPI, 1.0.9, Articut NLP system provides not only finest results on Chinese word segmentaion (CWS), Part-of-Speech tagging (POS) and Named Entity Recogintion tagging (NER), but also the fastest online API service in the NLP industry., 2021-02-19T06:45:08+0000
+/project/products-plonemeeting/, Products.PloneMeeting, 4.1.28.24, Official meetings management, 2021-04-23T12:28:19+0000
+/project/aleat3/, aleat3, 0.2.4.post1, An aleatory syntaxes package. Third generation., 2021-04-13T16:19:46+0000
+/project/solrapi/, SolrAPI, 1.2.0, Python implementation of the main operation in the Solr API Rest, 2017-08-25T14:28:13+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/ska-encryption/, ska-encryption, 1.1, Symmetric-key algorithms., 2014-09-04T11:30:58+0000
+/project/afilnet/, afilnet, 1.0.1, This package is an easy way to use send sms, email and voice(texto-to-speech) using Afilnet services, 2016-07-01T16:58:32+0000
+/project/coalition/, coalition, 0.0.0.dev5, A suite of office tools developed in Python., 2017-04-25T14:36:46+0000
+/project/bytesviewapi/, bytesviewapi, 0.1.5, Python library for bytesview client-API Call, 2021-04-01T13:31:30+0000
+/project/beedumper/, beedumper, 0.1.6, Exporting SupportBee data for better integration with other ticketing tools, 2019-07-11T13:13:24+0000
+/project/mds-account-invoice-confirmpost/, mds-account-invoice-confirmpost, 5.0.0, Queries a confirmation if you post an invoice., 2019-03-22T12:56:50+0000
+/project/autogluon-text/, autogluon.text, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:58+0000
+/project/selfusepy/, selfusepy, 0.1.0, Self-Use Python lib, 2020-10-15T05:46:33+0000
+/project/quickpip/, quickpip, 0.0.4, Uses WiFi to tell you where you are, 2016-10-09T09:49:36+0000
+/project/reactor/, reactor, 0.1.4, Reactor.am python client, 2015-03-30T12:51:05+0000
+/project/flashday/, flashday, 0.3.0, Flashday event Django app, 2021-04-07T05:39:44+0000
+/project/siemkit/, siemkit, 0.0.17, Open-Source Community Tools for SIEM, 2020-08-31T13:52:01+0000
+/project/yakut/, yakut, 0.5.3, Simple CLI tool for diagnostics and debugging of UAVCAN networks., 2021-04-23T17:47:02+0000
+/project/alfacoins-api-python/, alfacoins-api-python, 0.1.3, ALFAcoins API Python 3.6+ Library, 2019-11-26T07:14:09+0000
+/project/cause-effect/, cause-effect, 0.2.0, A library for cause-effect relationships., 2016-10-20T23:20:42+0000
+/project/zen/, Zen, 0.1, A simple way to access the ZenDesk v2 API via Python., 2014-05-07T15:21:47+0000
+/project/kqlmagic/, Kqlmagic, 0.1.113.post1, Kqlmagic: Microsoft Azure Monitor magic extension to Jupyter notebook, 2020-06-21T23:28:52+0000
+/project/gottwall/, gottwall, 0.4.2, GottWall is scalable realtime metrics collecting and aggregation platform and service, 2013-05-12T19:13:59+0000
+/project/yagmail-outlook/, yagmail-outlook, 0.9.178, A fork of yagmail to solve outlook compatiblity problem, 2017-07-03T01:39:09+0000
+/project/socialhub/, socialhub, 1.0.0, API client for socialhub.io, 2020-05-14T10:39:26+0000
+/project/mds-account-de-skr04/, mds-account-de-skr04, 5.4.0, Tryton module with German chart of accounts SKR04, 2019-12-11T10:04:18+0000
+/project/performline/, performline, 1.0.3, Client library for using the public PerformLine Compliance API, 2018-05-23T19:20:02+0000
+/project/mds-project-durationcolumn/, mds-project-durationcolumn, 4.8.0, Tryton module to add a duration-column to the list of projects, 2018-10-05T10:01:47+0000
+/project/auto-extract/, auto_extract, 0.0.9, Automatically extract content., 2020-03-08T21:59:38+0000
+/project/md2pdf/, md2pdf, 0.5, md2pdf, a Markdown to PDF conversion tool, 2021-01-21T20:25:51+0000
+/project/lino-avanti/, lino-avanti, 21.2.1, Manage the integration course of immigrants in East Belgium, 2021-02-13T15:31:52+0000
+/project/squp/, squp, 0.1.8, A backend engine for Squarespace that uses splinter/selenium for automated data entry, 2019-08-31T20:49:33+0000
+/project/aioyagmail/, aioyagmail, 0.0.4, Yet Another GMAIL client, using AsyncIO, 2018-06-27T20:10:21+0000
+/project/risu/, risu, 1.0.4.0.20200817095401, Utility for running set of tests against a Live System or a snapshot/sosreport, 2020-08-17T09:54:08+0000
+/project/autogluon-core/, autogluon.core, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:41+0000
+/project/mcerp3/, mcerp3, 1.0.3, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2018-08-30T22:06:03+0000
+/project/rundoc/, rundoc, 0.4.5, A command-line utility that runs code blocks from markdown files., 2020-10-19T10:07:53+0000
+/project/django-rfmizer/, django-rfmizer, 0.2, A django based automaton do a sms messaging., 2020-10-10T20:56:41+0000
+/project/gtui/, gtui, 0.1.1, Simple Task Scheduler & Executor with Friendly Text User Interface, 2019-11-12T09:48:55+0000
+/project/pyxarf/, pyxarf, 0.1.0, pyxarf - easy x-arf report generation, 2019-08-12T14:26:01+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/mallard-ducktype/, mallard-ducktype, 1.0.2, Parse Ducktype files and convert them to Mallard., 2019-07-21T18:59:34+0000
+/project/keymojiapi/, KeyMojiAPI, 1.0.3, KeyMoji sentimental analysis system differs from other "amature-tagged" and "pure-ML/DL" text sentimental analysis solutions in many ways. KeyMoji combines "syntactic structure information", "formal semantics" and "lexical semantic model" in one calculating process to estimate the sentimental bias and distributions of sentiments in texts., 2021-04-09T08:32:34+0000
+/project/mercadobitcoin/, mercadobitcoin, 0.6.0, A Python wrapper for Mercado Bitcoin API, 2019-03-14T00:23:34+0000
+/project/zms3/, ZMS3, 3.3.3, ZMS: Simplified Content Modelling, 2017-01-04T21:22:30+0000
+/project/autogluon-features/, autogluon.features, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:44+0000
+/project/word2number/, word2number, 1.1, Convert number words eg. three hundred and forty two to numbers (342)., 2017-06-02T15:45:14+0000
+/project/mds-currency-rate-import-ecb/, mds-currency-rate-import-ecb, 5.4.1, Tryton module for periodically importing exchange rates of the EURO from the ECB., 2020-10-13T09:23:53+0000
+/project/td-watson/, td-watson, 2.0.0, A wonderful CLI to track your time!, 2021-03-19T09:56:38+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/pyprivnote/, pyPrivnote, 0.0.1a1, A Python Interface to Privnote service, 2017-04-17T12:16:09+0000
+/project/zvdata/, zvdata, 1.2.3, an extendable library for recording and analyzing data, 2020-03-21T12:42:05+0000
+/project/mds-employee-timetracking/, mds-employee-timetracking, 5.0.24, Tryton module for time tracking of a employee, 2020-02-18T11:59:02+0000
+/project/deadcheck/, deadcheck, 0.0.3.3.1, Deadlink Check Utility using Python Modules, 2015-03-10T07:11:56+0000
+/project/emailharvester/, EmailHarvester, 2.0.1, A tool to retrieve Domain email addresses from Search Engines, 2016-05-03T17:45:10+0000
+/project/mds-account-pos-soldproducts/, mds_account_pos_soldproducts, 0.2.0, Tryton module to show sold products, 2017-11-24T11:20:57+0000
+/project/mds-party-notes/, mds-party-notes, 5.0.0, Tryton module to add a notes page to the party type, 2019-01-17T12:19:42+0000
+/project/spoj/, spoj, 0.0.20, command line tool for spoj.com, 2013-02-14T13:23:59+0000
+/project/pyflat/, pyflat, 0.2.1, Python library to transform objects into positional flat string lines, 2020-06-23T22:31:17+0000
+/project/contacthub-sdk-python/, contacthub-sdk-python, 0.2, This is the official Python SDK for Contacthub REST API. This SDK easily allows to access your data on Contacthub, making the authentication immediate and simplifying read/write operations., 2018-02-22T18:26:25+0000
+/project/readerlib/, readerlib, 1.0, A binding for open().read() that provides the ability to read a few letters or more., 2012-08-07T15:43:35+0000
+/project/django-prosoul/, django-prosoul, 0.4.0, Prosoul is a software quality models manager to create, import/export, view and edit models, 2018-10-03T19:22:46+0000
+/project/alignak-webui/, alignak-webui, 0.12.2, Alignak - Web User Interface, 2019-04-29T05:50:17+0000
+/project/iceman/, iceman, 0.3.4, A symmetric TLS library written in python, 2018-02-10T09:40:36+0000
+/project/cliche/, cliche, 0.7.46, A minimalistic CLI wrapper out to be the best, 2021-04-15T22:05:29+0000
+/project/apnswrapper/, APNSWrapper, 0.6.1, This is wrapper for Apple Push Notification Service., 2010-05-19T18:40:16+0000
+/project/fastlang/, fastlang, 0.0.4, Fast Detection of Language without Dependencies, 2017-03-11T19:14:50+0000
+/project/lino-noi/, lino-noi, 21.2.0, The Lino application used by the Lino team for managing their work on the Lino project, 2021-02-25T09:27:30+0000
+/project/mds-account-statement-fints/, mds-account-statement-fints, 4.8.7, Tryton module for importing bank statements via Internet from your bank using the FinTS-3 protocol., 2018-08-22T10:34:14+0000
+/project/mds-periodic-invoice/, mds-periodic-invoice, 4.6.0, Tryton module to create periodic invoices, 2017-12-19T10:35:46+0000
+/project/jsonfromschema/, jsonfromschema, 0.1.4, An implementation of JSON data generator from JSON Schema for Python, 2020-11-13T13:41:44+0000
+/project/deprecator/, deprecator, 0.3, Deprecator provides a decorator to easily depreate old code., 2015-06-03T17:36:13+0000
+/project/petropy/, petropy, 0.1.6, A package to calculate petrophysical properties for formation evaluation., 2018-02-15T16:16:27+0000
+/project/mijnsimpel/, MijnSimpel, 0.5, Python Client to Mijn Simpel, 2020-09-17T00:46:53+0000
+/project/feedview/, feedview, 0.0.1, View a feed url with `feedview <URL>`, 2017-05-25T17:59:35+0000
+/project/baruwa/, baruwa, 2.0.9, Ajax enabled MailScanner web frontend, 2015-08-29T09:50:59+0000
+/project/s3mpython/, S3MPython, 3.1.0.4, Python implementation of the S3Model https://datainsights.tech/S3Model/ specifications version: 3.1.0, 2018-11-24T13:04:43+0000
+/project/mockle/, mockle, 0.0.3, Auto Mocking + Pickle, 2016-10-30T15:16:13+0000
+/project/h2o/, h2o, 3.32.1.1, H2O, Fast Scalable Machine Learning, for python, 2021-03-25T20:43:28+0000
+/project/alignak/, alignak, 2.1.5, Alignak is a monitoring framework compatible with Nagios configuration and plugins, 2019-04-29T05:09:03+0000
+/project/pirsclock-full/, PiRSClock-Full, 2.0, Raspberry Pi Radio Studio Clock with Studio Indicators, 2014-01-21T04:31:25+0000
+/project/directory-tree/, directory-tree, 0.0.2, Utility Package that displays out the Tree Structure of a Particular Directory., 2020-10-15T18:26:25+0000
+/project/a2pcej/, a2pcej, 0.2.3, a2pcej, "convert Alphabet to Phonetic Code in English and Japanease.", 2018-01-16T08:57:09+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/mds-pim-calendar/, mds-pim-calendar, 5.0.0, a Tryton calendar module, 2019-03-18T16:54:15+0000
+/project/autogluon-vision/, autogluon.vision, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:07:01+0000
+/project/app-store-reviews-reader/, app-store-reviews-reader, 1.0, To fetch app store reviews from publicly available RSS feeds, 2021-01-16T11:03:36+0000
+/project/mincli/, mincli, 0.2.1, A minimalistic CLI wrapper out to be the best, 2020-02-18T23:03:52+0000
+/project/mds-lang-extension/, mds-lang-extension, 5.0.0, Tryton module to add many language definitions for Tryton, 2019-12-16T10:25:13+0000
+/project/namanager/, namanager, 0.3.2, A file or/and directory name manager which could determinenames are/aren't expectable, and you could also automatically rename it., 2018-05-23T05:48:16+0000
+/project/ispmanccp/, ISPManCCP, 0.0.1alpha3.1, Customer Control Panel for ISPMan, 2007-01-13T22:47:47+0000
+/project/mtwaffle/, mtwaffle, 0.7, Magnetotelluric data analysis, 2018-10-07T04:40:15+0000
+/project/paste-it/, paste_it, 0.1.2, a cli script and tiny library to upload files to pastebin, 2021-04-13T04:36:40+0000
+/project/zato-invoke-retry/, zato-invoke-retry, 1.1.1, Zato 1.1 service providing invoke_retry & invoke_async_methods for retrying invocations, blockingly or in background (https://zato.io/docs/index.html), 2013-07-09T18:11:27+0000
+/project/instagrampictures/, instagramPictures, 1.3.1, Script for downloading pictures from instagram.com, 2017-05-10T21:12:11+0000
+/project/barcode-generator/, barcode-generator, 0.1rc15, Simple lightweight python barcode EAN generator. Output format SVG and ASCII, 2015-10-13T17:30:07+0000
+/project/jqdatapy/, jqdatapy, 0.1.5, unified,modular quantitative system for human beings, 2021-03-01T09:30:36+0000
+/project/kunteksto/, kunteksto, 2.1.0, The tool to translate your CSV data files into RDF, XML and JSON with full semantics and syntactic validation., 2018-12-28T05:50:41+0000
+/project/kks/, kks, 1.1.2, a pithy and elegant python static blog, 2015-10-11T12:13:24+0000
+/project/placer/, placer, 0.0.7, Let's draw on /r/place!, 2017-04-03T12:35:03+0000
+/project/paginateit/, paginateit, 1.1.1, Used to paginate REST API Calls / Mostly on MultiThreaded API Calls via Python, 2021-04-08T20:49:31+0000
+/project/bugs-everywhere/, bugs-everywhere, 1.1.1, Bugtracker supporting distributed revision control, 2013-06-28T16:26:05+0000
+/project/eastmoneypy/, eastmoneypy, 0.0.7, python lib for operating eastmoney, 2021-02-02T03:39:27+0000
+/project/lino-algus/, lino-algus, 0.2.0, A template for new Lino applications, 2018-10-29T09:37:22+0000
+/project/dbinfo/, dbinfo, 0.1.beta2, Database Information Tool, 2014-03-27T03:44:33+0000
+/project/lino-care/, lino-care, 20.1.0, A database for managing a network of helpers., 2020-01-03T05:44:15+0000
+/project/mds-account-invoice-deliverydate/, mds-account-invoice-deliverydate, 4.6.0, Tryton module to add delivery-date to invoices, 2017-12-15T11:30:46+0000
+/project/sky/, sky, 0.0.201, AI powered scraping in Python 3, 2018-09-01T22:08:00+0000
+/project/whereami/, whereami, 0.4.85, Uses WiFi to tell you where you are, 2017-10-21T09:40:26+0000
+/project/bipbop-microservices/, bipbop-microservices, 0.0.8, IPC between BIPBOP APPs, 2020-06-18T23:45:04+0000
+/project/icecore/, icecore, 0.2.0.0, icecore C++ library python bindings, 2018-03-02T01:29:39+0000
+/project/mds-account-pos-movelines/, mds_account_pos_movelines, 0.1.2, Tryton module to show move lines, 2017-06-12T07:39:23+0000
+/project/bell/, bell, 0.5.6, Realtime anomalies detection based on statsd, for periodic time series., 2014-08-07T08:41:09+0000
+/project/chzip/, chzip, 0.1, Switzerland ZIP codes and town names, 2013-08-27T19:17:36+0000
+/project/ripsaw/, ripsaw, 0.0.7, cut logs into bits, 2018-06-06T02:06:07+0000
+/project/ufload/, ufload, 0.274, Unifield loader, 2021-04-21T15:52:11+0000
+/project/nostalgia/, nostalgia, 0.1.67, nostalgia enables to self-track and gain insights into your life, 2020-03-08T22:04:17+0000
+/project/dns-sprockets/, dns-sprockets, 2.0.0, Command-line DNS Zone validation tool, 2020-04-03T05:58:28+0000
+/project/yoctopuce/, yoctopuce, 1.10.44175, Yoctopuce python API, 2021-03-12T10:21:54+0000
+/project/pynamecom/, pynamecom, 0.1.4, Python Library for Name.com v4 API, 2019-09-17T09:30:00+0000
+/project/mds-account-invoice-line-twocolumn/, mds-account-invoice-line-twocolumn, 5.0.0, Tryton modules to add a two-column-line-type to invoices., 2020-02-12T11:33:54+0000
+/project/shrynk/, shrynk, 0.2.25, Using Machine Learning to learn how to Compress, 2020-04-26T22:39:31+0000
+/project/moear/, moear, 1.0.0a2, 用来实现对网络文章的爬取、mobi打包、并推送到Kindle设备上, 2018-04-12T13:46:06+0000
+/project/rogeriopradoj-paretochart/, rogeriopradoj-paretochart, 2.0.0, Pareto chart for python (similar to Matlab's, but much more flexible)  - Fork from @tintrinh, 2019-06-16T13:15:34+0000
+/project/crtime/, crtime, 0.0.6, crtime: get creation time of files for any platform and no external dependencies., 2019-03-19T20:31:37+0000
+/project/hypnoapnswrapper/, HypnoAPNSWrapper, 0.3-7, This is wrapper for Apple Push Notification Service., 2009-11-17T20:16:04+0000
+/project/pirsclock-basic/, PiRSClock-Basic, 1.0, Raspberry Pi Radio Studio Clock Basic Version, 2013-09-30T21:55:41+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/gittyleaks/, gittyleaks, 0.0.31, Discover where your sensitive data has been leaked., 2020-02-27T18:31:37+0000
+/project/querycontacts/, querycontacts, 2.0.0, Query network abuse contacts on the command-line for a given ip address on abuse-contacts.abusix.zone, 2020-11-13T13:57:36+0000
+/project/email-service/, email-service, 1.1.0, Package to integrate different email services with your application in just three lines of code., 2020-12-31T21:24:23+0000
+/project/sleipnir-shell/, sleipnir.shell, 0.2.2, A logistic system, 2013-03-20T21:11:29+0000
+/project/gittraffic/, gittraffic, 0.0.6, Follow your git traffic per package in a github repo, 2015-10-29T18:23:06+0000
+/project/laos-boats/, laos-boats, 0.9.17, Bayesian Optimization Structure Search, 2019-08-16T08:53:40+0000
+/project/olliepy/, olliepy, 0.2.7, OlliePy is a python package which can help data scientists in exploring their data and evaluating and analysing their machine learning experiments by utilising the power and structure of modern web applications. The data scientist only needs to provide the data and any required information and OlliePy will generate the rest., 2021-02-07T15:06:41+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/lokai/, Lokai, 0.3, Extendable Business Process Management Application, 2012-07-10T15:36:33+0000
+/project/rux/, rux, 0.6.6, Micro & Fast static blog generator based on markdown, 2015-04-18T11:23:01+0000
+/project/autogluon-mxnet/, autogluon.mxnet, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:51+0000
+/project/keygen-yocto/, keygen-yocto, 2.0.0, A simple tool to generate and verify license keys for your app., 2020-10-26T23:29:19+0000
+/project/mds-sale-line-twocolumn/, mds-sale-line-twocolumn, 5.0.3, Tryton modules to add a two-column-line-type to sales., 2020-02-19T08:42:00+0000
+/project/syscon/, syscon, 0.8, System remote control via local network, 2011-07-27T16:32:41+0000
+/project/radicale-sirius-plugin/, radicale-sirius-plugin, 0.3.0, Access CVUT Fit Sirius Service using caldav, 2019-01-15T01:17:52+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/mds-account-aged-balance-defaults/, mds-account-aged-balance-defaults, 5.0.0, Tryton module to add defaults to the aged-balance-sheet in accounting., 2020-02-24T11:11:33+0000
+/project/yagmail/, yagmail, 0.14.247, Yet Another GMAIL client, 2021-03-31T13:01:45+0000
+/project/nf/, nf, 1.4.0, Simple command line tool to make notification after target program finished work, 2020-03-21T17:03:38+0000
+/project/pyzayo/, pyzayo, 0.5.0, Zayo API python client, 2020-08-05T18:11:35+0000
+/project/plone-app-workflowmanager-overhaul/, plone.app.workflowmanager-overhaul, 1.2a1, A workflow manager for Plone, 2015-02-12T22:17:01+0000
+/project/django-cv/, django-cv, 0.7, Resume mangement application allowing PDF export., 2016-06-27T00:13:57+0000
+/project/datahaven/, datahaven, rev8784, Distributed encrypted backup utility, 2014-06-05T06:28:50+0000
+/project/tok/, tok, 0.1.14, Fast and customizable tokenizer, 2019-07-09T18:48:26+0000
+/project/xylose/, xylose, 1.35.4, A SciELO library to abstract a JSON data structure that is a product of the ISIS2JSON conversion using the ISIS2JSON type 3 data model., 2019-05-09T13:47:41+0000
+/project/mds-party-admin-edit/, mds-party-admin-edit, 5.0.0, Tryton module to allow edit of some fields on party, 2020-01-14T13:48:14+0000
+/project/mqspeak/, mqspeak, 0.2.1, MQTT bridge, 2016-07-10T12:45:25+0000
+/project/tok/, tok, 0.1.14, Fast and customizable tokenizer, 2019-07-09T18:48:26+0000
+/project/mds-party-admin-edit/, mds-party-admin-edit, 5.0.0, Tryton module to allow edit of some fields on party, 2020-01-14T13:48:14+0000
+/project/mqspeak/, mqspeak, 0.2.1, MQTT bridge, 2016-07-10T12:45:25+0000
+/project/kqlmagiccustom/, KqlmagicCustom, 0.1.114.dev26, Kqlmagic: Microsoft Azure Monitor magic extension to Jupyter notebook (Custom Dependencies), 2021-04-14T13:44:17+0000
+/project/lino-vilma/, lino-vilma, 20.1, A Lino application for managing village contacts, 2020-01-06T15:10:21+0000
+/project/roulier-gls-fr/, roulier-gls-fr, 0.1.0, Send parcels with GLS France delivery carrier. Carrier return parcel label and traceability url, 2019-05-16T15:17:15+0000
+/project/shrynk/, shrynk, 0.2.25, Using Machine Learning to learn how to Compress, 2020-04-26T22:39:31+0000
+/project/moear/, moear, 1.0.0a2, 用来实现对网络文章的爬取、mobi打包、并推送到Kindle设备上, 2018-04-12T13:46:06+0000
+/project/rogeriopradoj-paretochart/, rogeriopradoj-paretochart, 2.0.0, Pareto chart for python (similar to Matlab's, but much more flexible)  - Fork from @tintrinh, 2019-06-16T13:15:34+0000
+/project/pirsclock-basic/, PiRSClock-Basic, 1.0, Raspberry Pi Radio Studio Clock Basic Version, 2013-09-30T21:55:41+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/gittyleaks/, gittyleaks, 0.0.31, Discover where your sensitive data has been leaked., 2020-02-27T18:31:37+0000
+/project/pyaboleto/, pyaboleto, 0.1, O pyaboleto e um componente de boleto bancario em Python que oferece um conjunto de classes para gerar os dados dos boletos e não os templates. O pyaboleto é uma reescrita do YaBoleto PHP desenvolvido pela umbrelaTech., 2015-07-15T13:43:43+0000
+/project/utix/, utix, 0.1, initial release, 2020-05-03T05:07:06+0000
+/project/simple-cloudflare-ddns/, simple-cloudflare-ddns, 4.0.0, A super simple cli tool to update dns records, 2021-01-13T11:01:45+0000
+/project/python-controlchart/, python-controlchart, 0.2.0, Creation of control charts with matplotlib, 2019-12-23T11:14:10+0000
+/project/alfacoins/, alfacoins, 0.1.0a2, ALFACoins API library, 2019-02-14T11:18:56+0000
+/project/xdb/, xdb, 0.0.0, One database API to use them all, 2016-01-04T19:07:03+0000
+/project/mds-import-product/, mds-import-product, 5.2.2, Tryton module to import csv-file to product, 2020-01-21T10:25:38+0000
+/project/directory-organizer/, directory-organizer, 1.0.5, Utility Package that organizes and moves the specific file types to its type Specific Directories, 2020-10-05T18:53:32+0000
+/project/dot-access/, dot_access, 0.0.1, Makes nested python objects easy to go through, 2017-09-22T21:09:59+0000
+/project/justdb/, justdb, 0.0.14, Just a thread/process-safe, file-based, fast, database., 2017-06-21T20:12:37+0000
+/project/genesis/, genesis, 0.0.0, AI based Genetic algorithm for data migration, 2018-05-23T23:11:16+0000
+/project/lf-backup/, lf-backup, 0.4.5, lf-backup is a tool for backing up large files to object storage
+, e.g. swift., 2017-01-19T07:01:35+0000
+/project/motaword/, motaword, 0.9.1, Motaword Python SDK, 2016-02-03T17:58:39+0000
+/project/registrobr/, RegistroBR, 0.5, A custom library for contacting the RegistroBR API, 2014-11-25T19:29:59+0000
+/project/yourtool/, yourtool, 0.0.1, Uses WiFi to tell you where you are, 2016-10-08T16:56:10+0000
+/project/natural-money/, natural_money, 0.0.4, Find money / currencies talk, 2016-08-20T18:33:28+0000
+/project/mds-timesheet-invoiced/, mds-timesheet-invoiced, 4.8.1, Tryton module to add a invoiced tab to timesheet table., 2018-10-10T11:44:32+0000
+/project/zvt/, zvt, 0.9.3, unified,modular quant framework for human beings, 2021-03-01T10:42:49+0000
+/project/pytest-growl/, pytest-growl, 0.2, Growl notifications for pytest results., 2014-01-13T16:04:10+0000
+/project/obsei/, obsei, 0.0.7, Observe PoI text data from the various sources, segment it and then inform about it, 2021-03-27T21:38:50+0000
+/project/lasio/, lasio, 0.29, Read/write well data from Log ASCII Standard (LAS) files, 2021-04-14T04:03:57+0000
+/project/zato-common/, zato-common, 3.1.1, Constants and utils common across the whole of Zato ESB and app server (https://zato.io), 2019-02-17T09:48:26+0000
+/project/ezreal/, ezreal, 1.0a2, An application of services., 2020-06-30T17:05:15+0000
+/project/tickettree/, TicketTree, 0.9, A Trac plugin to display tickets in a tree, organized based on structured ticket titles., 2011-05-30T16:14:27+0000
+/project/fooltrader/, fooltrader, 0.0.1a1, Open source quantitative framework for Humans, 2018-03-13T07:50:36+0000
+/project/django-helpdesk3000/, django-helpdesk3000, 0.3.4, Django-powered ticket tracker for your helpdesk, 2017-12-20T23:11:48+0000
+/project/libthither/, libthither, 0.10.3, Python Library for Thither.Direct, 2018-07-14T21:15:22+0000
+/project/textsearch/, textsearch, 0.0.21, Find strings/words in text; convenience and C speed, 2021-02-07T14:41:25+0000
+/project/rafi-mx/, rafi.mx, 0.2.18, Workspace/project-oriented tmux/git personal assistant., 2016-07-15T16:44:35+0000
+/project/swift-commander/, swift-commander, 1.5.0, swift commander (swc) is a wrapper for curl and python-swift to access openstack swift cloud storage systems., 2020-11-09T08:30:50+0000
+/project/alignak-app/, alignak_app, 1.4.4, Desktop application, with system tray, for Alignak monitoring solution, 2018-05-15T09:20:54+0000
+/project/gdmetro-flowon/, gdmetro-flowon, 0.1.3, An automated production tool provided by the GeneDock team., 2019-08-28T07:12:31+0000
+/project/ad2openldap/, ad2openldap, 1.0.2, ad2openldap is a lighweight Active Directory to Openldap replicator that helps replacing an IAM solution such as Centrify, 2018-10-05T21:49:30+0000
+/project/nextnanopy/, nextnanopy, 0.1.9, Useful tools to interface the nextnano software (https://www.nextnano.com/), 2020-12-16T16:51:55+0000
+/project/haws/, haws, 1.0.11, A Python CLI to sanity check the AWS setup for LeanIX Cloud Intelligence Scans, 2021-04-19T19:45:50+0000
+/project/plone-app-workflowmanager/, plone.app.workflowmanager, 2.1.2, A workflow manager for Plone, 2019-02-20T19:00:16+0000
+/project/mds-writing-serialletter/, mds_writing_serialletter, 4.6.1, Tryton module to write serial letters for paper-based newsletters, 2017-12-15T14:36:03+0000
+/project/pyupc-ean/, PyUPC-EAN, 2.7.19, A barcode library/module for python., 2019-12-03T10:38:54+0000
+/project/pyaboleto/, pyaboleto, 0.1, O pyaboleto e um componente de boleto bancario em Python que oferece um conjunto de classes para gerar os dados dos boletos e não os templates. O pyaboleto é uma reescrita do YaBoleto PHP desenvolvido pela umbrelaTech., 2015-07-15T13:43:43+0000
+/project/atgfe/, atgfe, 0.2.60, Automated Transparent Genetic Feature Engineering or ATgfe, 2020-06-01T13:37:48+0000
+/project/oscillo/, oscillo, 1.0.0, Record the system load at the execution of the command line and display it graphically, 2019-05-23T09:11:16+0000
+/project/mds-pim-memos/, mds-pim-memos, 5.0.0, Tryton module to store memos, 2020-07-03T10:09:17+0000
+/project/lino-tera/, lino-tera, 20.10.0, A Lino application for managing therapeutic centres, 2020-10-15T16:11:19+0000
+/project/floraconcierge-client/, floraconcierge-client, 0.7.52, FloraExpress API python client library. www.floraexpress.ru, 2016-11-14T15:48:46+0000
+/project/bitcointrade/, bitcointrade, 0.7.0, A Python wrapper for Bitcointrade API, 2019-02-04T20:09:47+0000
+/project/warped/, warped, 0.1.3, A webbased wrapper for the argument parser in Python, 2017-05-31T13:32:11+0000
+/project/utix/, utix, 0.1, initial release, 2020-05-03T05:07:06+0000
+/project/simple-cloudflare-ddns/, simple-cloudflare-ddns, 4.0.0, A super simple cli tool to update dns records, 2021-01-13T11:01:45+0000
+/project/python-controlchart/, python-controlchart, 0.2.0, Creation of control charts with matplotlib, 2019-12-23T11:14:10+0000
+/project/alfacoins/, alfacoins, 0.1.0a2, ALFACoins API library, 2019-02-14T11:18:56+0000
+/project/xdb/, xdb, 0.0.0, One database API to use them all, 2016-01-04T19:07:03+0000
+/project/mds-import-product/, mds-import-product, 5.2.2, Tryton module to import csv-file to product, 2020-01-21T10:25:38+0000
+/project/directory-organizer/, directory-organizer, 1.0.5, Utility Package that organizes and moves the specific file types to its type Specific Directories, 2020-10-05T18:53:32+0000
+/project/poorhttp/, PoorHTTP, 1.0.0, Http/WSGI server for Python, 2019-09-06T07:29:10+0000
+/project/dsv/, dsv, 0.0.7, Automagically read/wrte csv., 2017-02-03T12:14:11+0000
+/project/khipu/, khipu, 0.0.5, A client for the khipu API., 2015-07-09T03:05:01+0000
+/project/commcaretranslationchecker/, CommcareTranslationChecker, 0.9.7, Command line tool to check that Bulk Translation files for CommCare apps have consistent <output value.../> tags across translations., 2020-07-27T14:22:50+0000
+/project/gmls/, gmls, 0.1.2, GitHub Markdown Local Server., 2017-01-11T02:58:08+0000
+/project/tg-feedback-bot-ru/, tg-feedback-bot-ru, 0.2.8, Telegram feedback bot, 2020-11-26T16:52:10+0000
+/project/easyban/, easyban, 0.1, easyBAN to IBAN converter via Blockstack, 2016-03-31T00:16:21+0000
+/project/sleipnir-frontends-handset/, sleipnir.frontends.handset, 0.0.91, UX experience for Nokia N900 (Handset) and Meego, 2011-07-02T16:51:23+0000
+/project/mneme/, mneme, 0.201, A powerful note-taking format with a web viewer/editor., 2014-05-19T03:25:19+0000
+/project/ilms-nthu/, ilms-nthu, 0.2.8, iLms-NTHU API. An iLMS client for students, assistants and developers., 2018-06-08T05:38:42+0000
+/project/contractions/, contractions, 0.0.48, Fixes contractions such as `you're` to you `are`, 2021-02-07T14:44:27+0000
+/project/ywh2bt/, ywh2bt, 2.2.0, ywh2bt - YesWeHack to Bug Tracker, 2021-04-05T08:46:15+0000
+/project/autogluon/, autogluon, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:07:04+0000
+/project/numrep/, NumRep, 0.1.3, A module to represent numbers by their place value., 2015-12-21T14:54:44+0000
+/project/django-helpdesk/, django-helpdesk, 0.2.23, Django-powered ticket tracker for your helpdesk, 2020-11-12T07:06:05+0000
+/project/zvt-ccxt/, zvt-ccxt, 0.0.6, ccxt cryptocurrency plugin for zvt, 2020-07-18T01:40:05+0000
+/project/proxmox-tools/, proxmox-tools, 1.4, prox is a command line interface to rapidly deploy LXC containers on proxmox from a remote host using proxmox REST API, 2018-12-13T13:28:22+0000
+/project/mds-party-fieldaddon/, mds_party_fieldaddon, 4.6.1, Tryton module to add some fields to the party-type, 2017-12-15T09:10:22+0000
+/project/luhn-algorithm-validator/, Luhn_Algorithm_Validator, 1.0.1, Luhn Account Number Validator, 2015-08-19T15:21:23+0000
+/project/rlohe/, RLOHE, 0.0.1, Rare-Label-One-Hot Encoder with Threshold Implementation and Python Package., 2020-11-02T12:20:06+0000
+/project/roundup/, roundup, 2.0.0, A simple-to-use and -install issue-tracking system with command-line, web and e-mail interfaces. Highly customisable., 2020-07-13T13:15:12+0000
+/project/gparams/, gparams, 1.0.2, A kit to process the parameters of the GeneDock workflow (help for batch delivery)., 2019-06-05T05:17:06+0000
+/project/paretochart/, paretochart, 1.0, Pareto chart for python (similar to Matlab's, but much more flexible), 2013-09-05T20:14:19+0000
+/project/flask-board/, Flask-Board, 0.2.2, Build base flask app depends on template., 2021-01-07T10:46:11+0000
+/project/footprintsapi/, footprintsapi, 1.0.5, API wrapper for the BMC (Numara) Footprints SOAP API, 2020-04-05T23:05:45+0000
+/project/autogluon-tabular/, autogluon.tabular, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:47+0000
+/project/just/, just, 0.7.134, Automatically just read and write files based on extension., 2021-04-17T17:29:39+0000
+/project/lino-amici/, lino-amici, 20.12.0, A Lino application for managing family contacts, 2020-12-26T09:39:23+0000
+/project/aleat3/, aleat3, 0.2.4.post1, An aleatory syntaxes package. Third generation., 2021-04-13T16:19:46+0000
+/project/solrapi/, SolrAPI, 1.2.0, Python implementation of the main operation in the Solr API Rest, 2017-08-25T14:28:13+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/ska-encryption/, ska-encryption, 1.1, Symmetric-key algorithms., 2014-09-04T11:30:58+0000
+/project/magic-reader/, magic_reader, 1.3.1, Read requests/files/dbs without importing external libraries with simple exact command., 2017-03-24T12:29:32+0000
+/project/yakut/, yakut, 0.5.3, Simple CLI tool for diagnostics and debugging of UAVCAN networks., 2021-04-23T17:47:02+0000
+/project/mds-account-statement-matching-invoice/, mds-account-statement-matching-invoice, 5.4.0, Tryton module for automatic matching of unpaid invoices when importing bank statements., 2020-08-12T10:03:00+0000
+/project/articutapi/, ArticutAPI, 1.0.9, Articut NLP system provides not only finest results on Chinese word segmentaion (CWS), Part-of-Speech tagging (POS) and Named Entity Recogintion tagging (NER), but also the fastest online API service in the NLP industry., 2021-02-19T06:45:08+0000
+/project/products-plonemeeting/, Products.PloneMeeting, 4.1.28.24, Official meetings management, 2021-04-23T12:28:19+0000
+/project/afilnet/, afilnet, 1.0.1, This package is an easy way to use send sms, email and voice(texto-to-speech) using Afilnet services, 2016-07-01T16:58:32+0000
+/project/coalition/, coalition, 0.0.0.dev5, A suite of office tools developed in Python., 2017-04-25T14:36:46+0000
+/project/dcard-spider/, dcard-spider, 0.3.0, A spider for Dcard through its newest API., 2017-05-26T12:46:01+0000
+/project/autoguru/, autoguru, 0.0.1, Question Answering for FAQs with Natural Language Processing, 2020-03-30T03:16:15+0000
+/project/bytesviewapi/, bytesviewapi, 0.1.5, Python library for bytesview client-API Call, 2021-04-01T13:31:30+0000
+/project/beedumper/, beedumper, 0.1.6, Exporting SupportBee data for better integration with other ticketing tools, 2019-07-11T13:13:24+0000
+/project/mds-account-invoice-confirmpost/, mds-account-invoice-confirmpost, 5.0.0, Queries a confirmation if you post an invoice., 2019-03-22T12:56:50+0000
+/project/autogluon-text/, autogluon.text, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:58+0000
+/project/selfusepy/, selfusepy, 0.1.0, Self-Use Python lib, 2020-10-15T05:46:33+0000
+/project/quickpip/, quickpip, 0.0.4, Uses WiFi to tell you where you are, 2016-10-09T09:49:36+0000
+/project/reactor/, reactor, 0.1.4, Reactor.am python client, 2015-03-30T12:51:05+0000
+/project/citellus/, citellus, 1.3.3.20210421115858, Utility for running set of tests against a Live System or a snapshot/sosreport, 2021-04-21T11:59:03+0000
+/project/flashday/, flashday, 0.3.0, Flashday event Django app, 2021-04-07T05:39:44+0000
+/project/metadate/, metadate, 0.5.77, All your date are belong to us, 2020-09-10T19:32:48+0000
+/project/encrypthashpassword/, EncryptHashPassword, 1.0.1, Use your domain, password and extra salt to encrypt password, 2015-10-27T10:36:27+0000
+/project/natura/, natura, 0.0.63, Find money / currencies talk, 2018-07-28T13:52:35+0000
+/project/infocyteapiquery/, infocyteapiquery, 1.1.15, Used to get API data from Infocyte Cloud Instances into the pandas DataFrame, 2021-04-20T08:05:18+0000
+/project/siemkit/, siemkit, 0.0.17, Open-Source Community Tools for SIEM, 2020-08-31T13:52:01+0000
+/project/alfacoins-api-python/, alfacoins-api-python, 0.1.3, ALFAcoins API Python 3.6+ Library, 2019-11-26T07:14:09+0000
+/project/cause-effect/, cause-effect, 0.2.0, A library for cause-effect relationships., 2016-10-20T23:20:42+0000
+/project/zen/, Zen, 0.1, A simple way to access the ZenDesk v2 API via Python., 2014-05-07T15:21:47+0000
+/project/shadowchain/, shadowChain, 0.0.3, A proxy tool, 2019-04-13T10:08:23+0000
+/project/kqlmagic/, Kqlmagic, 0.1.113.post1, Kqlmagic: Microsoft Azure Monitor magic extension to Jupyter notebook, 2020-06-21T23:28:52+0000
+/project/gottwall/, gottwall, 0.4.2, GottWall is scalable realtime metrics collecting and aggregation platform and service, 2013-05-12T19:13:59+0000
+/project/lino-noi/, lino-noi, 21.2.0, The Lino application used by the Lino team for managing their work on the Lino project, 2021-02-25T09:27:30+0000
+/project/mds-account-statement-fints/, mds-account-statement-fints, 4.8.7, Tryton module for importing bank statements via Internet from your bank using the FinTS-3 protocol., 2018-08-22T10:34:14+0000
+/project/performline/, performline, 1.0.3, Client library for using the public PerformLine Compliance API, 2018-05-23T19:20:02+0000
+/project/mds-periodic-invoice/, mds-periodic-invoice, 4.6.0, Tryton module to create periodic invoices, 2017-12-19T10:35:46+0000
+/project/jsonfromschema/, jsonfromschema, 0.1.4, An implementation of JSON data generator from JSON Schema for Python, 2020-11-13T13:41:44+0000
+/project/deprecator/, deprecator, 0.3, Deprecator provides a decorator to easily depreate old code., 2015-06-03T17:36:13+0000
+/project/petropy/, petropy, 0.1.6, A package to calculate petrophysical properties for formation evaluation., 2018-02-15T16:16:27+0000
+/project/mijnsimpel/, MijnSimpel, 0.5, Python Client to Mijn Simpel, 2020-09-17T00:46:53+0000
+/project/baruwa/, baruwa, 2.0.9, Ajax enabled MailScanner web frontend, 2015-08-29T09:50:59+0000
+/project/s3mpython/, S3MPython, 3.1.0.4, Python implementation of the S3Model https://datainsights.tech/S3Model/ specifications version: 3.1.0, 2018-11-24T13:04:43+0000
+/project/mockle/, mockle, 0.0.3, Auto Mocking + Pickle, 2016-10-30T15:16:13+0000
+/project/h2o/, h2o, 3.32.1.1, H2O, Fast Scalable Machine Learning, for python, 2021-03-25T20:43:28+0000
+/project/alignak/, alignak, 2.1.5, Alignak is a monitoring framework compatible with Nagios configuration and plugins, 2019-04-29T05:09:03+0000
+/project/md2pdf/, md2pdf, 0.5, md2pdf, a Markdown to PDF conversion tool, 2021-01-21T20:25:51+0000
+/project/lino-avanti/, lino-avanti, 21.2.1, Manage the integration course of immigrants in East Belgium, 2021-02-13T15:31:52+0000
+/project/squp/, squp, 0.1.8, A backend engine for Squarespace that uses splinter/selenium for automated data entry, 2019-08-31T20:49:33+0000
+/project/aioyagmail/, aioyagmail, 0.0.4, Yet Another GMAIL client, using AsyncIO, 2018-06-27T20:10:21+0000
+/project/gtui/, gtui, 0.1.1, Simple Task Scheduler & Executor with Friendly Text User Interface, 2019-11-12T09:48:55+0000
+/project/pyxarf/, pyxarf, 0.1.0, pyxarf - easy x-arf report generation, 2019-08-12T14:26:01+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/mallard-ducktype/, mallard-ducktype, 1.0.2, Parse Ducktype files and convert them to Mallard., 2019-07-21T18:59:34+0000
+/project/keymojiapi/, KeyMojiAPI, 1.0.3, KeyMoji sentimental analysis system differs from other "amature-tagged" and "pure-ML/DL" text sentimental analysis solutions in many ways. KeyMoji combines "syntactic structure information", "formal semantics" and "lexical semantic model" in one calculating process to estimate the sentimental bias and distributions of sentiments in texts., 2021-04-09T08:32:34+0000
+/project/mercadobitcoin/, mercadobitcoin, 0.6.0, A Python wrapper for Mercado Bitcoin API, 2019-03-14T00:23:34+0000
+/project/zms3/, ZMS3, 3.3.3, ZMS: Simplified Content Modelling, 2017-01-04T21:22:30+0000
+/project/autogluon-features/, autogluon.features, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:44+0000
+/project/word2number/, word2number, 1.1, Convert number words eg. three hundred and forty two to numbers (342)., 2017-06-02T15:45:14+0000
+/project/a2pcej/, a2pcej, 0.2.3, a2pcej, "convert Alphabet to Phonetic Code in English and Japanease.", 2018-01-16T08:57:09+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/mds-pim-calendar/, mds-pim-calendar, 5.0.0, a Tryton calendar module, 2019-03-18T16:54:15+0000
+/project/autogluon-vision/, autogluon.vision, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:07:01+0000
+/project/app-store-reviews-reader/, app-store-reviews-reader, 1.0, To fetch app store reviews from publicly available RSS feeds, 2021-01-16T11:03:36+0000
+/project/mincli/, mincli, 0.2.1, A minimalistic CLI wrapper out to be the best, 2020-02-18T23:03:52+0000
+/project/sky/, sky, 0.0.201, AI powered scraping in Python 3, 2018-09-01T22:08:00+0000
+/project/paginateit/, paginateit, 1.1.1, Used to paginate REST API Calls / Mostly on MultiThreaded API Calls via Python, 2021-04-08T20:49:31+0000
+/project/bipbop-microservices/, bipbop-microservices, 0.0.8, IPC between BIPBOP APPs, 2020-06-18T23:45:04+0000
+/project/whereami/, whereami, 0.4.85, Uses WiFi to tell you where you are, 2017-10-21T09:40:26+0000
+/project/bugs-everywhere/, bugs-everywhere, 1.1.1, Bugtracker supporting distributed revision control, 2013-06-28T16:26:05+0000
+/project/eastmoneypy/, eastmoneypy, 0.0.7, python lib for operating eastmoney, 2021-02-02T03:39:27+0000
+/project/yagmail-outlook/, yagmail-outlook, 0.9.178, A fork of yagmail to solve outlook compatiblity problem, 2017-07-03T01:39:09+0000
+/project/socialhub/, socialhub, 1.0.0, API client for socialhub.io, 2020-05-14T10:39:26+0000
+/project/spoj/, spoj, 0.0.20, command line tool for spoj.com, 2013-02-14T13:23:59+0000
+/project/mds-account-de-skr04/, mds-account-de-skr04, 5.4.0, Tryton module with German chart of accounts SKR04, 2019-12-11T10:04:18+0000
+/project/pyflat/, pyflat, 0.2.1, Python library to transform objects into positional flat string lines, 2020-06-23T22:31:17+0000
+/project/contacthub-sdk-python/, contacthub-sdk-python, 0.2, This is the official Python SDK for Contacthub REST API. This SDK easily allows to access your data on Contacthub, making the authentication immediate and simplifying read/write operations., 2018-02-22T18:26:25+0000
+/project/readerlib/, readerlib, 1.0, A binding for open().read() that provides the ability to read a few letters or more., 2012-08-07T15:43:35+0000
+/project/django-prosoul/, django-prosoul, 0.4.0, Prosoul is a software quality models manager to create, import/export, view and edit models, 2018-10-03T19:22:46+0000
+/project/alignak-webui/, alignak-webui, 0.12.2, Alignak - Web User Interface, 2019-04-29T05:50:17+0000
+/project/iceman/, iceman, 0.3.4, A symmetric TLS library written in python, 2018-02-10T09:40:36+0000
+/project/cliche/, cliche, 0.7.46, A minimalistic CLI wrapper out to be the best, 2021-04-15T22:05:29+0000
+/project/apnswrapper/, APNSWrapper, 0.6.1, This is wrapper for Apple Push Notification Service., 2010-05-19T18:40:16+0000
+/project/fastlang/, fastlang, 0.0.4, Fast Detection of Language without Dependencies, 2017-03-11T19:14:50+0000
+/project/feedview/, feedview, 0.0.1, View a feed url with `feedview <URL>`, 2017-05-25T17:59:35+0000
+/project/mds-project-durationcolumn/, mds-project-durationcolumn, 4.8.0, Tryton module to add a duration-column to the list of projects, 2018-10-05T10:01:47+0000
+/project/auto-extract/, auto_extract, 0.0.9, Automatically extract content., 2020-03-08T21:59:38+0000
+/project/risu/, risu, 1.0.4.0.20200817095401, Utility for running set of tests against a Live System or a snapshot/sosreport, 2020-08-17T09:54:08+0000
+/project/autogluon-core/, autogluon.core, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:41+0000
+/project/pirsclock-full/, PiRSClock-Full, 2.0, Raspberry Pi Radio Studio Clock with Studio Indicators, 2014-01-21T04:31:25+0000
+/project/directory-tree/, directory-tree, 0.0.2, Utility Package that displays out the Tree Structure of a Particular Directory., 2020-10-15T18:26:25+0000
+/project/mcerp3/, mcerp3, 1.0.3, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2018-08-30T22:06:03+0000
+/project/rundoc/, rundoc, 0.4.5, A command-line utility that runs code blocks from markdown files., 2020-10-19T10:07:53+0000
+/project/django-rfmizer/, django-rfmizer, 0.2, A django based automaton do a sms messaging., 2020-10-10T20:56:41+0000
+/project/mds-lang-extension/, mds-lang-extension, 5.0.0, Tryton module to add many language definitions for Tryton, 2019-12-16T10:25:13+0000
+/project/namanager/, namanager, 0.3.2, A file or/and directory name manager which could determinenames are/aren't expectable, and you could also automatically rename it., 2018-05-23T05:48:16+0000
+/project/ispmanccp/, ISPManCCP, 0.0.1alpha3.1, Customer Control Panel for ISPMan, 2007-01-13T22:47:47+0000
+/project/mds-currency-rate-import-ecb/, mds-currency-rate-import-ecb, 5.4.1, Tryton module for periodically importing exchange rates of the EURO from the ECB., 2020-10-13T09:23:53+0000
+/project/mtwaffle/, mtwaffle, 0.7, Magnetotelluric data analysis, 2018-10-07T04:40:15+0000
+/project/paste-it/, paste_it, 0.1.2, a cli script and tiny library to upload files to pastebin, 2021-04-13T04:36:40+0000
+/project/zato-invoke-retry/, zato-invoke-retry, 1.1.1, Zato 1.1 service providing invoke_retry & invoke_async_methods for retrying invocations, blockingly or in background (https://zato.io/docs/index.html), 2013-07-09T18:11:27+0000
+/project/instagrampictures/, instagramPictures, 1.3.1, Script for downloading pictures from instagram.com, 2017-05-10T21:12:11+0000
+/project/barcode-generator/, barcode-generator, 0.1rc15, Simple lightweight python barcode EAN generator. Output format SVG and ASCII, 2015-10-13T17:30:07+0000
+/project/jqdatapy/, jqdatapy, 0.1.5, unified,modular quantitative system for human beings, 2021-03-01T09:30:36+0000
+/project/kunteksto/, kunteksto, 2.1.0, The tool to translate your CSV data files into RDF, XML and JSON with full semantics and syntactic validation., 2018-12-28T05:50:41+0000
+/project/kks/, kks, 1.1.2, a pithy and elegant python static blog, 2015-10-11T12:13:24+0000
+/project/td-watson/, td-watson, 2.0.0, A wonderful CLI to track your time!, 2021-03-19T09:56:38+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/placer/, placer, 0.0.7, Let's draw on /r/place!, 2017-04-03T12:35:03+0000
+/project/pyprivnote/, pyPrivnote, 0.0.1a1, A Python Interface to Privnote service, 2017-04-17T12:16:09+0000
+/project/zvdata/, zvdata, 1.2.3, an extendable library for recording and analyzing data, 2020-03-21T12:42:05+0000
+/project/mds-employee-timetracking/, mds-employee-timetracking, 5.0.24, Tryton module for time tracking of a employee, 2020-02-18T11:59:02+0000
+/project/deadcheck/, deadcheck, 0.0.3.3.1, Deadlink Check Utility using Python Modules, 2015-03-10T07:11:56+0000
+/project/emailharvester/, EmailHarvester, 2.0.1, A tool to retrieve Domain email addresses from Search Engines, 2016-05-03T17:45:10+0000
+/project/mds-account-pos-soldproducts/, mds_account_pos_soldproducts, 0.2.0, Tryton module to show sold products, 2017-11-24T11:20:57+0000
+/project/mds-party-notes/, mds-party-notes, 5.0.0, Tryton module to add a notes page to the party type, 2019-01-17T12:19:42+0000
+/project/lino-algus/, lino-algus, 0.2.0, A template for new Lino applications, 2018-10-29T09:37:22+0000
+/project/dbinfo/, dbinfo, 0.1.beta2, Database Information Tool, 2014-03-27T03:44:33+0000
+/project/lino-care/, lino-care, 20.1.0, A database for managing a network of helpers., 2020-01-03T05:44:15+0000
+/project/mds-account-invoice-deliverydate/, mds-account-invoice-deliverydate, 4.6.0, Tryton module to add delivery-date to invoices, 2017-12-15T11:30:46+0000
+/project/icecore/, icecore, 0.2.0.0, icecore C++ library python bindings, 2018-03-02T01:29:39+0000
+/project/mds-account-pos-movelines/, mds_account_pos_movelines, 0.1.2, Tryton module to show move lines, 2017-06-12T07:39:23+0000
+/project/bell/, bell, 0.5.6, Realtime anomalies detection based on statsd, for periodic time series., 2014-08-07T08:41:09+0000
+/project/chzip/, chzip, 0.1, Switzerland ZIP codes and town names, 2013-08-27T19:17:36+0000
+/project/ripsaw/, ripsaw, 0.0.7, cut logs into bits, 2018-06-06T02:06:07+0000
+/project/ufload/, ufload, 0.274, Unifield loader, 2021-04-21T15:52:11+0000
+/project/nostalgia/, nostalgia, 0.1.67, nostalgia enables to self-track and gain insights into your life, 2020-03-08T22:04:17+0000
+/project/dns-sprockets/, dns-sprockets, 2.0.0, Command-line DNS Zone validation tool, 2020-04-03T05:58:28+0000
+/project/yoctopuce/, yoctopuce, 1.10.44175, Yoctopuce python API, 2021-03-12T10:21:54+0000
+/project/pynamecom/, pynamecom, 0.1.4, Python Library for Name.com v4 API, 2019-09-17T09:30:00+0000
+/project/autogluon/, autogluon, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:07:04+0000
+/project/mds-account-invoice-line-twocolumn/, mds-account-invoice-line-twocolumn, 5.0.0, Tryton modules to add a two-column-line-type to invoices., 2020-02-12T11:33:54+0000
+/project/moear/, moear, 1.0.0a2, 用来实现对网络文章的爬取、mobi打包、并推送到Kindle设备上, 2018-04-12T13:46:06+0000
+/project/rogeriopradoj-paretochart/, rogeriopradoj-paretochart, 2.0.0, Pareto chart for python (similar to Matlab's, but much more flexible)  - Fork from @tintrinh, 2019-06-16T13:15:34+0000
+/project/crtime/, crtime, 0.0.6, crtime: get creation time of files for any platform and no external dependencies., 2019-03-19T20:31:37+0000
+/project/hypnoapnswrapper/, HypnoAPNSWrapper, 0.3-7, This is wrapper for Apple Push Notification Service., 2009-11-17T20:16:04+0000
+/project/pirsclock-basic/, PiRSClock-Basic, 1.0, Raspberry Pi Radio Studio Clock Basic Version, 2013-09-30T21:55:41+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/gittyleaks/, gittyleaks, 0.0.31, Discover where your sensitive data has been leaked., 2020-02-27T18:31:37+0000
+/project/querycontacts/, querycontacts, 2.0.0, Query network abuse contacts on the command-line for a given ip address on abuse-contacts.abusix.zone, 2020-11-13T13:57:36+0000
+/project/email-service/, email-service, 1.1.0, Package to integrate different email services with your application in just three lines of code., 2020-12-31T21:24:23+0000
+/project/sleipnir-shell/, sleipnir.shell, 0.2.2, A logistic system, 2013-03-20T21:11:29+0000
+/project/gittraffic/, gittraffic, 0.0.6, Follow your git traffic per package in a github repo, 2015-10-29T18:23:06+0000
+/project/laos-boats/, laos-boats, 0.9.17, Bayesian Optimization Structure Search, 2019-08-16T08:53:40+0000
+/project/olliepy/, olliepy, 0.2.7, OlliePy is a python package which can help data scientists in exploring their data and evaluating and analysing their machine learning experiments by utilising the power and structure of modern web applications. The data scientist only needs to provide the data and any required information and OlliePy will generate the rest., 2021-02-07T15:06:41+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/lokai/, Lokai, 0.3, Extendable Business Process Management Application, 2012-07-10T15:36:33+0000
+/project/rux/, rux, 0.6.6, Micro & Fast static blog generator based on markdown, 2015-04-18T11:23:01+0000
+/project/autogluon-mxnet/, autogluon.mxnet, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:51+0000
+/project/keygen-yocto/, keygen-yocto, 2.0.0, A simple tool to generate and verify license keys for your app., 2020-10-26T23:29:19+0000
+/project/mds-sale-line-twocolumn/, mds-sale-line-twocolumn, 5.0.3, Tryton modules to add a two-column-line-type to sales., 2020-02-19T08:42:00+0000
+/project/syscon/, syscon, 0.8, System remote control via local network, 2011-07-27T16:32:41+0000
+/project/radicale-sirius-plugin/, radicale-sirius-plugin, 0.3.0, Access CVUT Fit Sirius Service using caldav, 2019-01-15T01:17:52+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/mds-account-aged-balance-defaults/, mds-account-aged-balance-defaults, 5.0.0, Tryton module to add defaults to the aged-balance-sheet in accounting., 2020-02-24T11:11:33+0000
+/project/yagmail/, yagmail, 0.14.247, Yet Another GMAIL client, 2021-03-31T13:01:45+0000
+/project/nf/, nf, 1.4.0, Simple command line tool to make notification after target program finished work, 2020-03-21T17:03:38+0000
+/project/pyzayo/, pyzayo, 0.5.0, Zayo API python client, 2020-08-05T18:11:35+0000
+/project/plone-app-workflowmanager-overhaul/, plone.app.workflowmanager-overhaul, 1.2a1, A workflow manager for Plone, 2015-02-12T22:17:01+0000
+/project/django-cv/, django-cv, 0.7, Resume mangement application allowing PDF export., 2016-06-27T00:13:57+0000
+/project/datahaven/, datahaven, rev8784, Distributed encrypted backup utility, 2014-06-05T06:28:50+0000
+/project/lasio/, lasio, 0.29, Read/write well data from Log ASCII Standard (LAS) files, 2021-04-14T04:03:57+0000
+/project/tok/, tok, 0.1.14, Fast and customizable tokenizer, 2019-07-09T18:48:26+0000
+/project/xylose/, xylose, 1.35.4, A SciELO library to abstract a JSON data structure that is a product of the ISIS2JSON conversion using the ISIS2JSON type 3 data model., 2019-05-09T13:47:41+0000
+/project/mds-party-admin-edit/, mds-party-admin-edit, 5.0.0, Tryton module to allow edit of some fields on party, 2020-01-14T13:48:14+0000
+/project/mqspeak/, mqspeak, 0.2.1, MQTT bridge, 2016-07-10T12:45:25+0000
+/project/kqlmagiccustom/, KqlmagicCustom, 0.1.114.dev26, Kqlmagic: Microsoft Azure Monitor magic extension to Jupyter notebook (Custom Dependencies), 2021-04-14T13:44:17+0000
+/project/lino-vilma/, lino-vilma, 20.1, A Lino application for managing village contacts, 2020-01-06T15:10:21+0000
+/project/autogluon-extra/, autogluon.extra, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:54+0000
+/project/mds-purchase-line-twocolumn/, mds-purchase-line-twocolumn, 5.0.4, Tryton modules to add a two-column-line-type to purchases., 2020-02-27T15:44:36+0000
+/project/ice-control/, ice.control, 0.4.0, System Administration and Site Management for BlueBream, 2010-08-27T10:40:11+0000
+/project/pylogrus/, pylogrus, 0.4.0, PyLogrus is a structured logger for Python, 2018-06-24T13:55:52+0000
+/project/helpdev/, helpdev, 0.7.1, HelpDev - Extracts information about the Python environment easily., 2020-05-05T21:12:46+0000
+/project/mcerp/, mcerp, 0.12, Real-time latin-hypercube-sampling-based Monte Carlo Error Propagation, 2019-01-09T09:32:35+0000
+/project/duck/, duck, 0.1, Parse Ducktype files and convert them to Mallard., 2014-12-03T16:01:39+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/python-networkdays/, python-networkdays, 1.0.2, Business days (workdays) between two date, like `NetworkDays` function used on spreadsheets and more., 2020-12-28T14:21:31+0000
+/project/reddit-rss-reader/, reddit-rss-reader, 1.1, A Wrapper around Reddit RSS feed, 2021-01-30T23:03:13+0000
+/project/roulier-gls-fr/, roulier-gls-fr, 0.1.0, Send parcels with GLS France delivery carrier. Carrier return parcel label and traceability url, 2019-05-16T15:17:15+0000
+/project/shrynk/, shrynk, 0.2.25, Using Machine Learning to learn how to Compress, 2020-04-26T22:39:31+0000
+/project/mds-writing-serialletter/, mds_writing_serialletter, 4.6.1, Tryton module to write serial letters for paper-based newsletters, 2017-12-15T14:36:03+0000
+/project/pyupc-ean/, PyUPC-EAN, 2.7.19, A barcode library/module for python., 2019-12-03T10:38:54+0000
+/project/sysdm/, sysdm, 0.8.58, Scripts as a service. Builds on systemd., 2021-03-05T15:40:20+0000
+/project/aquarius/, Aquarius, 0.1, Aquarium IoT, 2016-01-13T01:08:34+0000
+/project/loco/, loco, 0.1.32, Share localhost through SSH., 2019-02-09T23:05:44+0000
+/project/django-hatstall/, django-hatstall, 0.1, A Django app to manage identities in Sorting Hat., 2018-04-05T09:52:13+0000
+/project/zato-client/, zato-client, 3.1.2, Python API client for Zato - ESB, SOA, REST, APIs and Cloud Integrations in Python (https://zato.io), 2020-08-11T18:12:45+0000
+/project/access-points/, access_points, 0.4.66, Scan your WiFi and get access point information and signal quality., 2019-09-08T22:32:03+0000
+/project/spojcmd/, spojcmd, 0.3, command line tool for spoj.com, 2014-03-06T19:57:42+0000
+/project/dot-access/, dot_access, 0.0.1, Makes nested python objects easy to go through, 2017-09-22T21:09:59+0000
+/project/justdb/, justdb, 0.0.14, Just a thread/process-safe, file-based, fast, database., 2017-06-21T20:12:37+0000
+/project/genesis/, genesis, 0.0.0, AI based Genetic algorithm for data migration, 2018-05-23T23:11:16+0000
+/project/lf-backup/, lf-backup, 0.4.5, lf-backup is a tool for backing up large files to object storage
+, e.g. swift., 2017-01-19T07:01:35+0000
+/project/motaword/, motaword, 0.9.1, Motaword Python SDK, 2016-02-03T17:58:39+0000
+/project/registrobr/, RegistroBR, 0.5, A custom library for contacting the RegistroBR API, 2014-11-25T19:29:59+0000
+/project/yourtool/, yourtool, 0.0.1, Uses WiFi to tell you where you are, 2016-10-08T16:56:10+0000
+/project/natural-money/, natural_money, 0.0.4, Find money / currencies talk, 2016-08-20T18:33:28+0000
+/project/mds-timesheet-invoiced/, mds-timesheet-invoiced, 4.8.1, Tryton module to add a invoiced tab to timesheet table., 2018-10-10T11:44:32+0000
+/project/zvt/, zvt, 0.9.3, unified,modular quant framework for human beings, 2021-03-01T10:42:49+0000
+/project/pytest-growl/, pytest-growl, 0.2, Growl notifications for pytest results., 2014-01-13T16:04:10+0000
+/project/obsei/, obsei, 0.0.7, Observe PoI text data from the various sources, segment it and then inform about it, 2021-03-27T21:38:50+0000
+/project/zato-common/, zato-common, 3.1.1, Constants and utils common across the whole of Zato ESB and app server (https://zato.io), 2019-02-17T09:48:26+0000
+/project/ezreal/, ezreal, 1.0a2, An application of services., 2020-06-30T17:05:15+0000
+/project/tickettree/, TicketTree, 0.9, A Trac plugin to display tickets in a tree, organized based on structured ticket titles., 2011-05-30T16:14:27+0000
+/project/fooltrader/, fooltrader, 0.0.1a1, Open source quantitative framework for Humans, 2018-03-13T07:50:36+0000
+/project/django-helpdesk3000/, django-helpdesk3000, 0.3.4, Django-powered ticket tracker for your helpdesk, 2017-12-20T23:11:48+0000
+/project/libthither/, libthither, 0.10.3, Python Library for Thither.Direct, 2018-07-14T21:15:22+0000
+/project/textsearch/, textsearch, 0.0.21, Find strings/words in text; convenience and C speed, 2021-02-07T14:41:25+0000
+/project/rafi-mx/, rafi.mx, 0.2.18, Workspace/project-oriented tmux/git personal assistant., 2016-07-15T16:44:35+0000
+/project/swift-commander/, swift-commander, 1.5.0, swift commander (swc) is a wrapper for curl and python-swift to access openstack swift cloud storage systems., 2020-11-09T08:30:50+0000
+/project/alignak-app/, alignak_app, 1.4.4, Desktop application, with system tray, for Alignak monitoring solution, 2018-05-15T09:20:54+0000
+/project/gdmetro-flowon/, gdmetro-flowon, 0.1.3, An automated production tool provided by the GeneDock team., 2019-08-28T07:12:31+0000
+/project/ad2openldap/, ad2openldap, 1.0.2, ad2openldap is a lighweight Active Directory to Openldap replicator that helps replacing an IAM solution such as Centrify, 2018-10-05T21:49:30+0000
+/project/nextnanopy/, nextnanopy, 0.1.9, Useful tools to interface the nextnano software (https://www.nextnano.com/), 2020-12-16T16:51:55+0000
+/project/haws/, haws, 1.0.11, A Python CLI to sanity check the AWS setup for LeanIX Cloud Intelligence Scans, 2021-04-19T19:45:50+0000
+/project/plone-app-workflowmanager/, plone.app.workflowmanager, 2.1.2, A workflow manager for Plone, 2019-02-20T19:00:16+0000
+/project/pyaboleto/, pyaboleto, 0.1, O pyaboleto e um componente de boleto bancario em Python que oferece um conjunto de classes para gerar os dados dos boletos e não os templates. O pyaboleto é uma reescrita do YaBoleto PHP desenvolvido pela umbrelaTech., 2015-07-15T13:43:43+0000
+/project/atgfe/, atgfe, 0.2.60, Automated Transparent Genetic Feature Engineering or ATgfe, 2020-06-01T13:37:48+0000
+/project/oscillo/, oscillo, 1.0.0, Record the system load at the execution of the command line and display it graphically, 2019-05-23T09:11:16+0000
+/project/mds-pim-memos/, mds-pim-memos, 5.0.0, Tryton module to store memos, 2020-07-03T10:09:17+0000
+/project/lino-tera/, lino-tera, 20.10.0, A Lino application for managing therapeutic centres, 2020-10-15T16:11:19+0000
+/project/floraconcierge-client/, floraconcierge-client, 0.7.52, FloraExpress API python client library. www.floraexpress.ru, 2016-11-14T15:48:46+0000
+/project/bitcointrade/, bitcointrade, 0.7.0, A Python wrapper for Bitcointrade API, 2019-02-04T20:09:47+0000
+/project/warped/, warped, 0.1.3, A webbased wrapper for the argument parser in Python, 2017-05-31T13:32:11+0000
+/project/utix/, utix, 0.1, initial release, 2020-05-03T05:07:06+0000
+/project/laos-boats/, laos-boats, 0.9.17, Bayesian Optimization Structure Search, 2019-08-16T08:53:40+0000
+/project/olliepy/, olliepy, 0.2.7, OlliePy is a python package which can help data scientists in exploring their data and evaluating and analysing their machine learning experiments by utilising the power and structure of modern web applications. The data scientist only needs to provide the data and any required information and OlliePy will generate the rest., 2021-02-07T15:06:41+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/lokai/, Lokai, 0.3, Extendable Business Process Management Application, 2012-07-10T15:36:33+0000
+/project/rux/, rux, 0.6.6, Micro & Fast static blog generator based on markdown, 2015-04-18T11:23:01+0000
+/project/autogluon-mxnet/, autogluon.mxnet, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:51+0000
+/project/keygen-yocto/, keygen-yocto, 2.0.0, A simple tool to generate and verify license keys for your app., 2020-10-26T23:29:19+0000
+/project/mds-sale-line-twocolumn/, mds-sale-line-twocolumn, 5.0.3, Tryton modules to add a two-column-line-type to sales., 2020-02-19T08:42:00+0000
+/project/syscon/, syscon, 0.8, System remote control via local network, 2011-07-27T16:32:41+0000
+/project/radicale-sirius-plugin/, radicale-sirius-plugin, 0.3.0, Access CVUT Fit Sirius Service using caldav, 2019-01-15T01:17:52+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/mds-account-aged-balance-defaults/, mds-account-aged-balance-defaults, 5.0.0, Tryton module to add defaults to the aged-balance-sheet in accounting., 2020-02-24T11:11:33+0000
+/project/yagmail/, yagmail, 0.14.247, Yet Another GMAIL client, 2021-03-31T13:01:45+0000
+/project/nf/, nf, 1.4.0, Simple command line tool to make notification after target program finished work, 2020-03-21T17:03:38+0000
+/project/pyzayo/, pyzayo, 0.5.0, Zayo API python client, 2020-08-05T18:11:35+0000
+/project/plone-app-workflowmanager-overhaul/, plone.app.workflowmanager-overhaul, 1.2a1, A workflow manager for Plone, 2015-02-12T22:17:01+0000
+/project/django-cv/, django-cv, 0.7, Resume mangement application allowing PDF export., 2016-06-27T00:13:57+0000
+/project/datahaven/, datahaven, rev8784, Distributed encrypted backup utility, 2014-06-05T06:28:50+0000

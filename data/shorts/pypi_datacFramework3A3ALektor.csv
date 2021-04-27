@@ -1,0 +1,106 @@
+/project/lektor-cssbuild/, lektor-cssbuild, 0.3.1, A Lektor plugin for building CSS files, 2019-08-10T18:45:11+0000
+/project/lektor-bibtex-support/, lektor-bibtex-support, 0.1.1, Bibtex file support to easily include publication lists., 2018-05-26T21:19:46+0000
+/project/lektor-markdown-header-anchors/, lektor-markdown-header-anchors, 0.3.1, Lektor plugin that adds anchors and table of contents to markdown headers., 2019-01-25T17:03:44+0000
+/project/lektor-netlify-lfs-resize-url/, lektor-netlify-lfs-resize-url, 0.1.2, Convert image URLs to Netlify LFS resize URLs., 2019-06-09T22:00:36+0000
+/project/lektor-netlify/, lektor-netlify, 0.3, Lektor plugin to publish your site with Netlify., 2019-03-18T18:42:47+0000
+/project/lektor-limit-dependencies/, lektor-limit-dependencies, 0.1, Lektor plugin to limit dependencies created by queries, 2021-02-05T21:32:24+0000
+/project/lektor/, Lektor, 3.2.0, A static content management system., 2020-08-20T23:34:31+0000
+/project/lektor-make/, lektor-make, 0.2, Run `make lektor` for custom build systems., 2018-05-14T10:03:28+0000
+/project/lektor-simplemde/, lektor-simplemde, 0.6, Plugin integrating SimpleMDE into Lektor admin, 2020-12-18T15:47:32+0000
+/project/lektor-creative-commons/, lektor-creative-commons, 0.6.0, Lektor plugin to add Creative Commons license to your pages, 2018-10-14T03:15:27+0000
+/project/lektor-broken-links/, lektor-broken-links, 0.1, Find all the broken links in your Lektor site!, 2020-08-25T10:52:18+0000
+/project/lektor-asciidoctor/, lektor-asciidoctor, 0.1, Adds AsciiDoc field type to Lektor., 2018-09-18T16:29:59+0000
+/project/lektor-chameleon/, lektor-chameleon, 0.5.1, Chameleon support for templating in Lektor., 2019-08-11T16:00:19+0000
+/project/lektor-disqus-comments/, lektor-disqus-comments, 0.4.1, Lektor plugin to add Disqus comments to a website., 2019-01-25T17:18:35+0000
+/project/lektor-jsminify/, lektor-jsminify, 1.4.1, JS minifier for Lektor. Based on rjsmin., 2019-08-21T17:21:22+0000
+/project/lektor-scsscompile/, lektor-scsscompile, 1.3.0, SASS compiler for Lektor, thats based on libsass., 2020-01-11T14:14:16+0000
+/project/lektor-markdown-admonition/, lektor-markdown-admonition, 0.3.1, Adds basic admonition tag support to Markdown., 2019-01-27T21:42:04+0000
+/project/lektor-git-src-publisher/, lektor-git-src-publisher, 0.3, Simple plugin to use Lektor to abstract away git usage., 2020-08-17T14:17:53+0000
+/project/lektor-pythonmarkdown/, lektor-pythonmarkdown, 1.2, Add pythonmarkdownn field type to Lektor to make use of python-markdown as a renderer., 2019-01-27T13:41:24+0000
+/project/lektor-datetime-helpers/, lektor-datetime-helpers, 0.3.2, Lektor plugin to help with dates and times, 2020-11-20T00:46:17+0000
+/project/lektor-twitter-embed/, lektor-twitter-embed, 0.1.0, Lektor template filter to convert twitter links to embeds, 2021-02-25T19:17:01+0000
+/project/lektor-index-pages/, lektor-index-pages, 0.1, Lektor plugin to generate blog-like index pages, 2021-02-06T01:31:08+0000
+/project/lektor-scss/, lektor-scss, 1.4.0, Lektor plugin to compile css out of sass - based on libsass, 2021-01-24T15:00:20+0000
+/project/lektor-tags/, lektor-tags, 0.3, Lektor plugin to add tags., 2018-12-15T02:14:14+0000
+/project/lektor-gitlab/, lektor-gitlab, 0.1.0, Query the Gitlab API right from your Lektor templates, 2018-06-25T07:41:09+0000
+/project/lektor-leaflet-geojson/, lektor-leaflet-geojson, 0.1.0, Lektor template filter to convert geojson objects to Leaflet maps, 2021-03-02T20:58:22+0000
+/project/lektor-treeify/, lektor-treeify, 1.2, Plugin generate tree data structure from your flat menu model, 2020-04-20T15:58:23+0000
+/project/lektor-polymorphic-type/, lektor-polymorphic-type, 0.1, Add polymorphic field type to Lektor, 2021-02-05T21:46:17+0000
+/project/lektor-yandex-metrica/, lektor-yandex-metrica, 0.1.2, Adds support for Yandex Metrica to Lektor CMS, 2018-05-12T13:18:57+0000
+/project/lektor-s3/, lektor-s3, 0.5.1, Lektor plugin to support publishing to S3, 2018-05-11T21:04:52+0000
+/project/lektor-root-relative-path/, lektor-root-relative-path, 0.2.1, Root relative path plugin for Lektor, 2018-09-24T01:40:43+0000
+/project/lektor-tinymce/, lektor-tinymce, 0.3, Lektor Plugin for TinyMCE Text Editor use., 2020-10-03T09:34:43+0000
+/project/lektor-webpack-support/, lektor-webpack-support, 0.5, Super simple Lektor plugin that runs a webpack watcher, 2018-05-12T18:45:26+0000
+/project/lektor-youtube-embed/, lektor-youtube-embed, 0.1.1, Lektor template filter to convert youtube links to embeds, 2021-02-22T18:44:56+0000
+/project/lektorlib/, lektorlib, 0.1, A few bits which are potentially useful to developers of Lektor plugins, 2021-02-05T21:11:28+0000
+/project/lektor-atom/, lektor-atom, 0.3.1, Lektor plugin that generates Atom feeds., 2020-05-11T21:38:36+0000
+/project/lektor-jinja-content/, lektor-jinja-content, 0.4.3, Render content fields with Jinja2., 2019-05-18T21:02:26+0000
+/project/lektor-strip-html-tags/, lektor-strip-html-tags, 0.3.1, Strip HTML tags, effectively turning HTML into plain text., 2019-05-19T03:39:32+0000
+/project/lektor-slugify/, lektor-slugify, 0.4, Lektor plugin that adds a slugify Jinja filter., 2018-12-15T18:12:31+0000
+/project/lektor-git-timestamp/, lektor-git-timestamp, 0.1, Lektor type to deduce page modification time from git, 2021-02-05T22:06:54+0000
+/project/lektor-webpack-html-helper/, lektor-webpack-html-helper, 0.1.3, Observes the assets directory for html files and copies them into the templates folder., 2019-08-18T09:30:01+0000
+/project/lektor-surge/, lektor-surge, 0.3, Lektor plugin to publish your site to surge.sh, 2018-05-13T17:53:14+0000
+/project/lektor-jinja-content/, lektor-jinja-content, 0.4.3, Render content fields with Jinja2., 2019-05-18T21:02:26+0000
+/project/lektor-strip-html-tags/, lektor-strip-html-tags, 0.3.1, Strip HTML tags, effectively turning HTML into plain text., 2019-05-19T03:39:32+0000
+/project/lektor-atom/, lektor-atom, 0.3.1, Lektor plugin that generates Atom feeds., 2020-05-11T21:38:36+0000
+/project/lektor-markdown-image-attrs/, lektor-markdown-image-attrs, 0.1b1, Extend Lektor’s Markdown syntax to allow setting arbitrary HTML attributes on images and links., 2021-02-14T23:25:18+0000
+/project/lektor-natural-language/, lektor-natural-language, 0.3.1, Adds NLTK based template filters., 2019-05-18T21:14:02+0000
+/project/lektor-qiniu/, lektor-qiniu, 0.1.3, A plugin for lektor to deploy to qiniu cloud, Use qiniu://<bucket>[/name_of_dir] to deploy to a bucket, 2019-09-05T01:51:44+0000
+/project/lektor-mistune-smartypants/, lektor-mistune-smartypants, 1.0, Adds curly quotes to your markdown paragraphs and headings., 2020-01-03T18:33:01+0000
+/project/lektorlib/, lektorlib, 0.1, A few bits which are potentially useful to developers of Lektor plugins, 2021-02-05T21:11:28+0000
+/project/lektor-git-timestamp/, lektor-git-timestamp, 0.1, Lektor type to deduce page modification time from git, 2021-02-05T22:06:54+0000
+/project/lektor-markdown-highlighter/, lektor-markdown-highlighter, 0.3.1, Lektor plugin that adds syntax highlighting for markdown blocks with Pygments., 2019-01-25T16:39:36+0000
+/project/lektor-gulp/, lektor-gulp, 0.3.2, A simple Lektor plugin for gulp, 2018-05-29T12:30:06+0000
+/project/lektor-cssbuild/, lektor-cssbuild, 0.3.1, A Lektor plugin for building CSS files, 2019-08-10T18:45:11+0000
+/project/lektor-markdown-header-anchors/, lektor-markdown-header-anchors, 0.3.1, Lektor plugin that adds anchors and table of contents to markdown headers., 2019-01-25T17:03:44+0000
+/project/lektor-bibtex-support/, lektor-bibtex-support, 0.1.1, Bibtex file support to easily include publication lists., 2018-05-26T21:19:46+0000
+/project/lektor-netlify-lfs-resize-url/, lektor-netlify-lfs-resize-url, 0.1.2, Convert image URLs to Netlify LFS resize URLs., 2019-06-09T22:00:36+0000
+/project/lektor-netlify/, lektor-netlify, 0.3, Lektor plugin to publish your site with Netlify., 2019-03-18T18:42:47+0000
+/project/lektor-git-src-publisher/, lektor-git-src-publisher, 0.3, Simple plugin to use Lektor to abstract away git usage., 2020-08-17T14:17:53+0000
+/project/lektor/, Lektor, 3.2.0, A static content management system., 2020-08-20T23:34:31+0000
+/project/lektor-make/, lektor-make, 0.2, Run `make lektor` for custom build systems., 2018-05-14T10:03:28+0000
+/project/lektor-simplemde/, lektor-simplemde, 0.6, Plugin integrating SimpleMDE into Lektor admin, 2020-12-18T15:47:32+0000
+/project/lektor-pythonmarkdown/, lektor-pythonmarkdown, 1.2, Add pythonmarkdownn field type to Lektor to make use of python-markdown as a renderer., 2019-01-27T13:41:24+0000
+/project/lektor-datetime-helpers/, lektor-datetime-helpers, 0.3.2, Lektor plugin to help with dates and times, 2020-11-20T00:46:17+0000
+/project/lektor-creative-commons/, lektor-creative-commons, 0.6.0, Lektor plugin to add Creative Commons license to your pages, 2018-10-14T03:15:27+0000
+/project/lektor-broken-links/, lektor-broken-links, 0.1, Find all the broken links in your Lektor site!, 2020-08-25T10:52:18+0000
+/project/lektor-asciidoctor/, lektor-asciidoctor, 0.1, Adds AsciiDoc field type to Lektor., 2018-09-18T16:29:59+0000
+/project/lektor-chameleon/, lektor-chameleon, 0.5.1, Chameleon support for templating in Lektor., 2019-08-11T16:00:19+0000
+/project/lektor-tinymce/, lektor-tinymce, 0.3, Lektor Plugin for TinyMCE Text Editor use., 2020-10-03T09:34:43+0000
+/project/lektor-treeify/, lektor-treeify, 1.2, Plugin generate tree data structure from your flat menu model, 2020-04-20T15:58:23+0000
+/project/lektor-polymorphic-type/, lektor-polymorphic-type, 0.1, Add polymorphic field type to Lektor, 2021-02-05T21:46:17+0000
+/project/lektor-scsscompile/, lektor-scsscompile, 1.3.0, SASS compiler for Lektor, thats based on libsass., 2020-01-11T14:14:16+0000
+/project/lektor-limit-dependencies/, lektor-limit-dependencies, 0.1, Lektor plugin to limit dependencies created by queries, 2021-02-05T21:32:24+0000
+/project/lektor-markdown-admonition/, lektor-markdown-admonition, 0.3.1, Adds basic admonition tag support to Markdown., 2019-01-27T21:42:04+0000
+/project/lektor-twitter-embed/, lektor-twitter-embed, 0.1.0, Lektor template filter to convert twitter links to embeds, 2021-02-25T19:17:01+0000
+/project/lektor-index-pages/, lektor-index-pages, 0.1, Lektor plugin to generate blog-like index pages, 2021-02-06T01:31:08+0000
+/project/lektor-scss/, lektor-scss, 1.4.0, Lektor plugin to compile css out of sass - based on libsass, 2021-01-24T15:00:20+0000
+/project/lektor-tags/, lektor-tags, 0.3, Lektor plugin to add tags., 2018-12-15T02:14:14+0000
+/project/lektor-gitlab/, lektor-gitlab, 0.1.0, Query the Gitlab API right from your Lektor templates, 2018-06-25T07:41:09+0000
+/project/lektor-disqus-comments/, lektor-disqus-comments, 0.4.1, Lektor plugin to add Disqus comments to a website., 2019-01-25T17:18:35+0000
+/project/lektor-leaflet-geojson/, lektor-leaflet-geojson, 0.1.0, Lektor template filter to convert geojson objects to Leaflet maps, 2021-03-02T20:58:22+0000
+/project/lektor-jsminify/, lektor-jsminify, 1.4.1, JS minifier for Lektor. Based on rjsmin., 2019-08-21T17:21:22+0000
+/project/lektor-yandex-metrica/, lektor-yandex-metrica, 0.1.2, Adds support for Yandex Metrica to Lektor CMS, 2018-05-12T13:18:57+0000
+/project/lektor-s3/, lektor-s3, 0.5.1, Lektor plugin to support publishing to S3, 2018-05-11T21:04:52+0000
+/project/lektor-root-relative-path/, lektor-root-relative-path, 0.2.1, Root relative path plugin for Lektor, 2018-09-24T01:40:43+0000
+/project/lektor-webpack-support/, lektor-webpack-support, 0.5, Super simple Lektor plugin that runs a webpack watcher, 2018-05-12T18:45:26+0000
+/project/lektor-youtube-embed/, lektor-youtube-embed, 0.1.1, Lektor template filter to convert youtube links to embeds, 2021-02-22T18:44:56+0000
+/project/lektor-webdav/, lektor-webdav, 0.1.1.post5, Lektor plugin to get a list of files from a WebDAV server, 2018-05-19T19:14:19+0000
+/project/lektor-slugify/, lektor-slugify, 0.4, Lektor plugin that adds a slugify Jinja filter., 2018-12-15T18:12:31+0000
+/project/lektor-responsive-image/, lektor-responsive-image, 0.1a1, Lektor plugin to help with multi-resolution responsive images, 2021-02-13T23:56:43+0000
+/project/lektor-asciidoc/, lektor-asciidoc, 0.3, Adds AsciiDoc field type to Lektor., 2018-05-13T17:35:37+0000
+/project/lektor-nl2br/, lektor-nl2br, 0.1.1, Lektor template filter to convert linebreaks to <br> tags, 2021-02-22T18:44:45+0000
+/project/lektor-webpack-html-helper/, lektor-webpack-html-helper, 0.1.3, Observes the assets directory for html files and copies them into the templates folder., 2019-08-18T09:30:01+0000
+/project/lektor-expression-type/, lektor-expression-type, 0.1, Add jinja-evaluated types to Lektor, 2021-02-05T22:37:40+0000
+/project/lektor-surge/, lektor-surge, 0.3, Lektor plugin to publish your site to surge.sh, 2018-05-13T17:53:14+0000
+/project/lektor-jinja-content/, lektor-jinja-content, 0.4.3, Render content fields with Jinja2., 2019-05-18T21:02:26+0000
+/project/lektor-strip-html-tags/, lektor-strip-html-tags, 0.3.1, Strip HTML tags, effectively turning HTML into plain text., 2019-05-19T03:39:32+0000
+/project/lektor-atom/, lektor-atom, 0.3.1, Lektor plugin that generates Atom feeds., 2020-05-11T21:38:36+0000
+/project/lektor-markdown-image-attrs/, lektor-markdown-image-attrs, 0.1b1, Extend Lektor’s Markdown syntax to allow setting arbitrary HTML attributes on images and links., 2021-02-14T23:25:18+0000
+/project/lektor-natural-language/, lektor-natural-language, 0.3.1, Adds NLTK based template filters., 2019-05-18T21:14:02+0000
+/project/lektor-qiniu/, lektor-qiniu, 0.1.3, A plugin for lektor to deploy to qiniu cloud, Use qiniu://<bucket>[/name_of_dir] to deploy to a bucket, 2019-09-05T01:51:44+0000
+/project/lektor-mistune-smartypants/, lektor-mistune-smartypants, 1.0, Adds curly quotes to your markdown paragraphs and headings., 2020-01-03T18:33:01+0000
+/project/lektorlib/, lektorlib, 0.1, A few bits which are potentially useful to developers of Lektor plugins, 2021-02-05T21:11:28+0000
+/project/lektor-git-timestamp/, lektor-git-timestamp, 0.1, Lektor type to deduce page modification time from git, 2021-02-05T22:06:54+0000
+/project/lektor-markdown-highlighter/, lektor-markdown-highlighter, 0.3.1, Lektor plugin that adds syntax highlighting for markdown blocks with Pygments., 2019-01-25T16:39:36+0000
+/project/lektor-gulp/, lektor-gulp, 0.3.2, A simple Lektor plugin for gulp, 2018-05-29T12:30:06+0000

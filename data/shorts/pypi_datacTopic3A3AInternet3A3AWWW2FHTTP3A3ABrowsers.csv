@@ -1,0 +1,324 @@
+/project/pyjx-html5/, pyjx-html5, 0.1.0, Access web browser APIs from Python., 2014-04-10T03:39:13+0000
+/project/dosie/, Dosie, 0.0.3, A search engine that makes knowledge a resource, and creates liberation with information sharing, 2019-03-11T13:22:59+0000
+/project/pywad/, pywad, 0.1.4, The Python Web Auto Drive framework using selenium.webdriver., 2015-03-16T09:38:54+0000
+/project/thepiratebay/, ThePirateBay, 1.3.0, Unofficial Python API for ThePirateBay., 2013-12-18T22:26:51+0000
+/project/web-playground/, web-playground, 0.0.1, Demo web application for testing purposes, 2018-11-18T22:17:47+0000
+/project/scrapybox/, scrapybox, 0.1, A Scrapy GUI, 2016-03-28T18:03:12+0000
+/project/chrome-remote-shell/, chrome_remote_shell, 1.2, Client for talking to the Google Chrome remote shell port, 2011-04-25T18:08:28+0000
+/project/webappify/, WebAppify, 0.3, Create desktop apps of your favourite websites, 2017-08-11T17:43:24+0000
+/project/py2web/, Py2Web, 1.0.6, A python package to perform HTTP requests to websites and render their content., 2021-01-04T14:34:46+0000
+/project/webbrowserdownloader/, webbrowserdownloader, 0.1, webbrowserdownloader is a wrapper for selenium browser, 2018-12-02T12:46:41+0000
+/project/immureii/, immureii, 0.42.10, Immure Iniquitous Intent, 2021-03-22T23:10:15+0000
+/project/beheaded/, Beheaded, 1.2, Generic X window and recording for headless setups in Python., 2015-03-30T15:07:08+0000
+/project/mechanoid/, mechanoid, 0.6.9, Python Programmatic Web Browser, 2006-03-30T01:34:19+0000
+/project/insta-browser/, insta_browser, 0.8.6.1, parsing/automation instagram.com, 2018-06-30T21:43:58+0000
+/project/facebook-timezones/, facebook-timezones, 0.2, Helpers for using timezones in the Facebook Graph API., 2020-05-13T22:35:42+0000
+/project/automancy/, Automancy, 0.5.1, , 2020-10-21T18:18:09+0000
+/project/majel/, majel, 0.4.0, A front-end for Mycroft that allows you to do cool things like stream video or surf the web., 2021-03-16T22:16:23+0000
+/project/sst/, sst, 0.2.4, SST - Web Test Framework, 2013-07-30T21:01:24+0000
+/project/django-ddp/, django-ddp, 0.19.1, Django/PostgreSQL implementation of the Meteor server., 2016-01-28T05:19:57+0000
+/project/kage/, kage, 0.0.1, kage, 2017-08-17T12:26:00+0000
+/project/randua/, randua, 0.0.1, Random User Agent string generator, 2014-06-05T15:59:55+0000
+/project/war2maff/, war2maff, 0.2.0, Web archives conversion from WAR (by Konqueror) to Mozilla’s MAFF, 2014-12-09T21:56:10+0000
+/project/httpclient/, httpclient, 0.0.2, A headless HTTP browser., 2011-09-13T11:58:38+0000
+/project/crx-unpack/, crx-unpack, 0.1.4, Unpack .crx files the way Chrome does, 2017-06-19T19:19:25+0000
+/project/python-spidermonkey/, python-spidermonkey, 0.0.10, JavaScript / Python bridge., 2011-02-17T03:33:39+0000
+/project/streamtuner2/, streamtuner2, 2.2.0, Streamtuner2 is an internet radio browser, 2017-01-01T21:48:37+0000
+/project/django-richtexteditor/, django-richtexteditor, 0.0.1.dev3, Django Rich Text Editor with many flavors, 2020-07-22T16:25:32+0000
+/project/browserhistory/, browserhistory, 0.1.2, A simple module to extract browsers's history., 2019-02-10T16:31:11+0000
+/project/selene/, selene, 1.0.2, Concise API for selenium in Python + Ajax support + PageObjects (Selenide port from Java to Python), 2020-02-17T13:32:07+0000
+/project/lxmlmechanize/, lxmlmechanize, 0.0.3, UNKNOWN, 2015-11-16T09:48:52+0000
+/project/log4django/, log4django, 0.9.1, log4django is full features logging platform for django applications., 2014-09-09T14:32:35+0000
+/project/django-manifest/, django-manifest, 0.2.1, A kickstarter for Django Web Framework projects that supports both legacy frontend and javascript technolohies using REST API., 2019-10-15T22:01:45+0000
+/project/googlesuggest/, GoogleSuggest, 1.0.0, This module will help you to grab the Google suggestion for some expression, 2010-11-07T03:06:01+0000
+/project/ruamel-bws/, ruamel.bws, 0.3.4, browser restore to workspace, 2020-09-07T14:44:12+0000
+/project/shuiyuan/, shuiyuan, 0.0.2, small package description, 2018-10-20T16:06:13+0000
+/project/gocept-webtoken/, gocept.webtoken, 3.1.post1, Wrapper around JWT tokens and the Zope Component Architecture (ZCA)., 2020-04-08T08:22:15+0000
+/project/cleverutils/, cleverutils, 0.21, Some handy Python utilities and code snippets used repeatedly by the author and considered beginner to intermediate level of difficulty.  Published just in case they're of use to other Pythonistas somehwere, some time., 2020-12-17T19:46:36+0000
+/project/oauthbrowser/, OAuthBrowser, 0.0.1, OAuthBrowser is module to do authentications and web scraping., 2020-04-30T22:02:25+0000
+/project/lesspy/, lesspy, 0.1, Helps compile collections of LESS files into CSS files
+
+    * Given a source directory, recursively finds LESS (.less/lss/.css) files
+    * Saves compiled CSS files to a destination path, using the same directory
+      structure as the source., 2011-09-26T06:34:00+0000
+/project/ebook-homebrew/, ebook-homebrew, 2.1.4, Rename image file to only digit name and convert ebook files., 2019-09-28T14:52:59+0000
+/project/pyppeteer-crawler/, pyppeteer-crawler, 2.8.9, Fault tolerant, stealthy, distributed web crawling with Pyppeteer., 2021-04-01T15:17:13+0000
+/project/squp/, squp, 0.1.8, A backend engine for Squarespace that uses splinter/selenium for automated data entry, 2019-08-31T20:49:33+0000
+/project/galacteek/, galacteek, 0.5.0, Browser for the distributed web, 2021-03-16T17:55:02+0000
+/project/austere/, austere, 0.2.0, a default browser switcher based on material conditions & contexts, 2016-03-20T02:46:32+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/maninex/, maninex, 0.4, An extension manager to replace Google's WebStore, 2018-03-17T17:38:19+0000
+/project/gambit-bromine/, gambit-bromine, 0.3.1, Pythonic web testing, 2019-06-05T12:37:25+0000
+/project/zope-testrecorder/, zope.testrecorder, 0.4, Test recorder for functional tests, 2010-04-15T03:15:40+0000
+/project/pywebber/, pywebber, 5.0, Common tools employed in web development, 2018-04-21T09:09:25+0000
+/project/boxofficemojo/, BoxOfficeMojo, 0.0.9, Unofficial Python API for Box Office Mojo., 2014-12-20T22:33:36+0000
+/project/img-lurker/, img-lurker, 1.0.1, Web gallery downloader, 2019-12-07T23:39:22+0000
+/project/hackernews/, HackerNews, 2.0.0, Python API for Hacker News., 2014-05-12T17:50:52+0000
+/project/pynav2/, pynav2, 2.1, Headless programmatic web browser on top of Requests and Beautiful Soup, 2019-01-25T21:39:57+0000
+/project/browthon-reborn/, Browthon-Reborn, 1.0.1, A webbrowser made with Python and PySide2, 2019-10-09T08:07:14+0000
+/project/dizzer/, dizzer, 0.1.2, Weird text encoder / decoder. Gives reversible, human-readable and lossless encoding., 2020-09-22T10:10:25+0000
+/project/constractor/, constractor, 0.1.0, Smart web page content extractor., 2013-11-03T22:53:48+0000
+/project/pyjx/, pyjx, 0.1.3, Python to JavaScript translator and runtime., 2014-04-09T21:47:55+0000
+/project/deadcheck/, deadcheck, 0.0.3.3.1, Deadlink Check Utility using Python Modules, 2015-03-10T07:11:56+0000
+/project/flask-desktop-ui/, flask-desktop-ui, 0.3, Desktop web user interface using Flask APP as backend, 2020-11-16T05:39:51+0000
+/project/insta-meter/, insta-meter, 0.0.2, library for gathering any instagram account statistic, 2018-06-30T21:37:49+0000
+/project/browsercookiejar/, browsercookiejar, 0.1, CookieJar for browsers, 2014-08-30T09:22:34+0000
+/project/react-ssr/, react-ssr, 5.0.0, , 2020-02-17T22:09:43+0000
+/project/pyomegle/, pyomegle, 1.7, Python API for Omegle webchat, 2020-08-31T03:36:31+0000
+/project/whirl/, whirl, 0.8.0, A collection of tools for making websites in Python, 2014-07-27T04:46:19+0000
+/project/pyppeteer-cluster/, pyppeteer-cluster, 0.0.6, Fault tolerant, stealthy, distributed web crawling with Pyppeteer., 2021-04-14T23:38:50+0000
+/project/tpb/, tpb, 1.3.6, Unofficial Python API for ThePirateBay., 2019-12-24T15:50:09+0000
+/project/django-mobile-utils/, django_mobile_utils, 0.9, , 2011-03-22T04:29:12+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/eilat-web-browser/, eilat-web-browser, 1.5.5, QtWebKit based web browser, 2014-09-11T16:04:38+0000
+/project/dicio/, Dicio, 1.3.0, Unofficial Python API for Dicio., 2019-10-27T14:43:02+0000
+/project/weboob-qt/, weboob-qt, 2.0, Weboob, Web Outside Of Browsers, 2020-03-27T19:11:00+0000
+/project/mousikofidi/, MousikoFidi, 0.23, MousikoFidi: Your Music Cloud, 2019-12-01T20:25:16+0000
+/project/lkd/, lkd, 2, UNKNOWN, 2013-12-14T18:42:27+0000
+/project/rallf/, rallf, 0.4.5, rallf.com Software Development Kit (SDK), 2019-03-14T11:57:00+0000
+/project/pyppeteer-spider/, pyppeteer-spider, 1.1.1, A stealthy asynchronous (optionally distributed) spider running Chrome, Headless Chrome, Chromium, or Headless Chromium, 2020-07-11T12:14:30+0000
+/project/zelenium/, zelenium, 1.0.3, New Selenium framework for Python with base pages and elements, 2020-04-26T11:38:35+0000
+/project/psyko/, psyko, 0.0.1, A Python port of Taiko, 2019-08-22T15:06:06+0000
+/project/cookiedough/, cookiedough, 0.3.0, browser and install GUI for cookiecutter templates, 2021-04-06T09:11:49+0000
+/project/elementium/, elementium, 2.0.2, Browser testing done right., 2019-11-06T12:45:43+0000
+/project/cleversession/, cleversession, 0.0.1a1, A CleverDict subclass to handle selenium webbrowser sessions, 2021-01-06T07:35:54+0000
+/project/yawrap/, yawrap, 0.4.10, simple generator of complex html reports, 2020-01-30T09:53:46+0000
+/project/flask-robohash/, flask-robohash, 1.0, robohash.org avatars that you can use with the microframework Flask., 2015-04-04T21:12:54+0000
+/project/cproto/, cproto, 0.7.2, Chrome Debugging Protocol client, 2019-10-11T09:42:41+0000
+/project/django-p3p/, django-p3p, 1.2.0, Django P3P makes it easier to set P3P HTTP headers to prevent session loss., 2016-03-22T18:25:24+0000
+/project/pyjx-gwt/, pyjx-gwt, 0.1.0, Port of Google Web Toolkit to Python., 2014-04-10T14:45:03+0000
+/project/firefed/, firefed, 0.1.14, A tool for Firefox profile analysis, data extraction, forensics and hardening, 2018-08-16T22:00:46+0000
+/project/django-badbrowser/, django-badbrowser, 1.0.7, Browser detection (including browser upgrade notices) for Django, 2012-03-16T10:37:15+0000
+/project/free/, free, 0.0.2, Free yourself from CAPTCHAs!, 2017-07-20T18:07:13+0000
+/project/curlwrapper/, curlwrapper, 0.1.110, curlwrapper (browser interface for curl), 2011-11-08T03:48:09+0000
+/project/pitchfork/, pitchfork, 0.1.5, Unofficial API for pitchfork.com reviews, 2018-08-20T18:16:12+0000
+/project/pomace/, pomace, 0.7.9, Dynamic page objects for browser automation., 2021-04-17T12:25:24+0000
+/project/woob/, woob, 3.0, Woob, Web Outside Of Browsers, 2021-04-11T12:52:02+0000
+/project/testgen4web-python/, TestGen4Web-Python, 0.2.1, A pure-python set of translators for TestGen4Web, 2006-11-09T07:11:01+0000
+/project/epic-games-bot/, epic-games-bot, 1.0.2, Purchase free promotional offers on Epic Games with the Playwright API, 2021-02-13T16:22:33+0000
+/project/django-wysiwyg/, django-wysiwyg, 0.8.0, django-wysiwyg, 2016-08-17T16:17:05+0000
+/project/django-quilljs/, django-quilljs, 0.0.2, Easily use Quill.js in your django admin., 2019-02-09T20:43:56+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/selenium-aurelia/, selenium-aurelia, 0.1.1, Wrapper around selenium driver to ease testing of Aurelia based applications., 2017-05-30T13:34:33+0000
+/project/privacyfighter/, privacyfighter, 3.0.0, Privacy-Fighter: A Browser Setup For Increased Privacy And Security, 2020-04-29T02:19:23+0000
+/project/scrapy-random-useragent-pro/, scrapy-random-useragent-pro, 1.0.0, A random user-agent for all your needs, 2019-12-03T14:59:09+0000
+/project/pybrowscap/, pybrowscap, 2.0, detects browsers capabilities and features like css, java, javascript etc., 2012-06-01T20:22:29+0000
+/project/scrapingant-client/, scrapingant-client, 0.3.4, Official python client for the ScrapingAnt API., 2021-04-21T17:25:29+0000
+/project/rsw/, rsw, 2015.12.24, Command-line tool to facilitate usage of revshareworks.com, 2015-12-24T08:48:08+0000
+/project/gidler/, gidler, 0.0.2, gidler, 2016-04-25T10:38:25+0000
+/project/wsgiapptools/, wsgiapptools, 0.5.2, Collection of WSGI application tools including notification messages and cookie handling, 2010-03-11T16:31:18+0000
+/project/pychrome/, pychrome, 0.2.3, A Python Package for the Google Chrome Dev Protocol, 2019-05-07T14:43:13+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/vturesults/, VTUResults, 2.0.1, Python Package for accessing VTU Results., 2015-07-29T15:38:58+0000
+/project/django-testhook/, django-testhook, 1.0.2, A Django template tag to enable testhook attributes on HTML elements., 2017-05-17T14:54:50+0000
+/project/captcha-harvester/, captcha-harvester, 2.1.1, Solve captchas yourself without having to pay for services like 2captcha for use in automated projects., 2020-08-27T03:30:17+0000
+/project/streaming-form-data/, streaming-form-data, 1.8.1, Streaming parser for multipart/form-data, 2021-01-30T10:00:32+0000
+/project/kisscartoon-api/, kisscartoon-api, 0.1, The unofficial API for KissCartoon websites, 2017-04-16T21:39:13+0000
+/project/pyreq/, pyreq, 1.2.0, A console based http client with syntax higlighting, 2016-03-15T15:50:21+0000
+/project/textnow-bot/, textnow-bot, 1.0.6, Send text messages on TextNow with the Playwright API, 2021-02-07T23:41:10+0000
+/project/pynav/, pynav, 1.0, Python programmatic web browser to fetch data and test web sites, 2018-10-11T19:28:06+0000
+/project/freshy-server/, freshy-server, 0.2.3, Page refresh tool for web developers., 2012-03-03T22:02:17+0000
+/project/pitchfork-api/, pitchfork-api, 0.0.4, Unofficial API for pitchfork.com reviews, maintained version of pitchfork, 2018-08-17T18:10:29+0000
+/project/tpblite/, tpblite, 0.7.1, The Unofficial Pirate Bay Lightweight Python API, 2021-03-24T09:51:23+0000
+/project/xplant/, xplant, 1.0.0, Tree model markup builder., 2020-07-10T20:19:30+0000
+/project/folderbrowser/, folderbrowser, 0.1.4, Lightweight webserver to browse folder and its contents on a webbrowser, 2021-01-24T14:40:07+0000
+/project/cefpython3/, cefpython3, 66.1, GUI toolkit for embedding a Chromium widget in desktop applications, 2021-02-16T20:11:57+0000
+/project/distbot/, distbot, 2.8.9, Distributed (browser-based) web scraping in Python with automatic error handling and recovery and detection prevention., 2021-01-23T16:30:01+0000
+/project/django-gcframe/, django-gcframe, 1.1, Django middleware and decorators for working with Google Chrome Frame., 2013-02-27T22:26:30+0000
+/project/teracy-django-html5-boilerplate/, teracy-django-html5-boilerplate, 0.3.0, html5-boilerplate Django wrapper application, 2013-11-14T08:45:02+0000
+/project/page-objects/, page-objects, 1.1.0, Page Objects for Python, 2014-12-08T18:38:02+0000
+/project/crawler-cluster/, crawler-cluster, 0.1.3, Fault tolerant, stealthy, distributed web crawling., 2021-04-20T02:30:58+0000
+/project/cleverweb/, cleverweb, 0.0.1a1, A collection of methods used by CleverSession for accessing common sites using selenium., 2021-01-06T07:52:19+0000
+/project/pyderweb/, PyderWeb, 0.0.1, PyderWeb "the robot spider of web", 2007-11-30T21:03:30+0000
+/project/qutebrowser/, qutebrowser, 2.2.0, A keyboard-driven, vim-like browser based on PyQt5., 2021-04-13T10:07:16+0000
+/project/hacker-news/, hacker_news, 2.1.4, Python wrapper for Hacker News API., 2015-05-22T09:33:25+0000
+/project/compress-pyscripts/, compress_pyscripts, 0.0.1, Compression related scripts, 2013-05-18T06:46:12+0000
+/project/elemental/, elemental, 0.4.0, Faster, easier and more robust Selenium automation., 2021-02-17T13:04:16+0000
+/project/https-everywhere/, https-everywhere, 0.2.2, Privacy for Pythons. Requests adapters for HTTPS, including HSTS preloading and HTTPS Everywhere rules, 2020-03-22T18:02:40+0000
+/project/mechanize/, mechanize, 0.4.5, Stateful programmatic web browsing., 2019-12-22T09:18:43+0000
+/project/usethis-django-bootstrap/, usethis-django-bootstrap, 3.3.5.3, Bootstrap 3.3.5 for Django with themes and theme chooser., 2015-09-15T23:27:50+0000
+/project/django-mobi/, django-mobi, 0.1.7, Django middleware and view decorator to detect phones and small-screen devices, 2013-11-17T15:29:39+0000
+/project/selene-kentastik/, selene-kentastik, 1.0.0a16, Concise API for selenium in Python + Ajax support + PageObjects (Selenide port from Java to Python), 2019-12-16T16:21:58+0000
+/project/pastebot/, pastebot, 0.1.2, pastebot, 2017-09-12T01:29:44+0000
+/project/citeulike-api/, citeulike_api, 0.1.3dev, a python api for http://citeulike.org/, 2011-03-16T02:42:01+0000
+/project/needle/, needle, 0.5.0, Automated testing for your CSS., 2017-04-02T23:28:24+0000
+/project/airium/, airium, 0.2.2, Easy and quick html builder with natural syntax correspondence (python->html). No templates needed. Serves pure pythonic library with no dependencies., 2021-01-31T00:01:00+0000
+/project/django-pybrowscap/, django-pybrowscap, 1.0.0, django-pybrowscap is django middleware with support for pybrowscap, 2013-06-23T13:23:26+0000
+/project/behave-webdriver/, behave-webdriver, 0.3.0, Selenium webdriver step library for behave BDD testing, 2019-05-22T00:27:13+0000
+/project/weboob/, weboob, 2.0, Weboob, Web Outside Of Browsers, 2020-02-13T00:00:13+0000
+/project/playwright/, playwright, 1.10.0, A high-level API to automate web browsers, 2021-03-24T21:37:06+0000
+/project/alfajor/, alfajor, 0.1, Tasty functional testing., 2010-06-25T05:28:53+0000
+/project/html2pdf-server/, html2pdf-server, 1.2.2, HTTP server that renders HTML to PDF, 2017-01-31T06:53:06+0000
+/project/django-donottrack/, django-donottrack, 0.1, Django utilities for honoring the Do Not Track HTTP header., 2013-03-12T13:34:29+0000
+/project/wasmite/, wasmite, 0.2.1, Wasmite: Webassembly is the future but now it has a testing toolchain, 2021-02-21T14:14:01+0000
+/project/bookmark-merger/, bookmark_merger, 0.2.4, code for merging multiple firefox bookmark.html files, 2015-06-28T20:22:00+0000
+/project/jike/, jike, 0.5.0, Jike Metro 🚇 : Jike Python SDK, 2018-05-13T13:40:56+0000
+/project/amitu-websocket-client/, amitu-websocket-client, 0.1.0, WebSocket Client Library, 2011-12-17T00:52:45+0000
+/project/pbm/, pbm, 0.6.4, pbm works with Chromium bookmarks JSON., 2016-04-29T02:04:17+0000
+/project/preview-markup/, preview-markup, 0.3.3, Live preview Markdown and reStructuredText files as HTML in a web browser, 2018-04-12T05:55:15+0000
+/project/bprc/, bprc, 0.7.0, Batch Processing RESTful Client, 2016-08-21T18:26:50+0000
+/project/motorise/, motorise, 0.2.0, A toy for automating interaction with websites like mechanize, 2019-10-26T04:20:20+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/proxy-py/, proxy.py, 2.3.1, ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception capable proxy server focused on Network monitoring, controls & Application development, testing, debugging., 2021-01-10T16:59:31+0000
+/project/pyjx-html5/, pyjx-html5, 0.1.0, Access web browser APIs from Python., 2014-04-10T03:39:13+0000
+/project/dosie/, Dosie, 0.0.3, A search engine that makes knowledge a resource, and creates liberation with information sharing, 2019-03-11T13:22:59+0000
+/project/sst/, sst, 0.2.4, SST - Web Test Framework, 2013-07-30T21:01:24+0000
+/project/django-ddp/, django-ddp, 0.19.1, Django/PostgreSQL implementation of the Meteor server., 2016-01-28T05:19:57+0000
+/project/pywad/, pywad, 0.1.4, The Python Web Auto Drive framework using selenium.webdriver., 2015-03-16T09:38:54+0000
+/project/thepiratebay/, ThePirateBay, 1.3.0, Unofficial Python API for ThePirateBay., 2013-12-18T22:26:51+0000
+/project/web-playground/, web-playground, 0.0.1, Demo web application for testing purposes, 2018-11-18T22:17:47+0000
+/project/scrapybox/, scrapybox, 0.1, A Scrapy GUI, 2016-03-28T18:03:12+0000
+/project/chrome-remote-shell/, chrome_remote_shell, 1.2, Client for talking to the Google Chrome remote shell port, 2011-04-25T18:08:28+0000
+/project/webappify/, WebAppify, 0.3, Create desktop apps of your favourite websites, 2017-08-11T17:43:24+0000
+/project/py2web/, Py2Web, 1.0.6, A python package to perform HTTP requests to websites and render their content., 2021-01-04T14:34:46+0000
+/project/webbrowserdownloader/, webbrowserdownloader, 0.1, webbrowserdownloader is a wrapper for selenium browser, 2018-12-02T12:46:41+0000
+/project/immureii/, immureii, 0.42.10, Immure Iniquitous Intent, 2021-03-22T23:10:15+0000
+/project/beheaded/, Beheaded, 1.2, Generic X window and recording for headless setups in Python., 2015-03-30T15:07:08+0000
+/project/randua/, randua, 0.0.1, Random User Agent string generator, 2014-06-05T15:59:55+0000
+/project/browserhistory/, browserhistory, 0.1.2, A simple module to extract browsers's history., 2019-02-10T16:31:11+0000
+/project/kage/, kage, 0.0.1, kage, 2017-08-17T12:26:00+0000
+/project/war2maff/, war2maff, 0.2.0, Web archives conversion from WAR (by Konqueror) to Mozilla’s MAFF, 2014-12-09T21:56:10+0000
+/project/mechanoid/, mechanoid, 0.6.9, Python Programmatic Web Browser, 2006-03-30T01:34:19+0000
+/project/httpclient/, httpclient, 0.0.2, A headless HTTP browser., 2011-09-13T11:58:38+0000
+/project/crx-unpack/, crx-unpack, 0.1.4, Unpack .crx files the way Chrome does, 2017-06-19T19:19:25+0000
+/project/python-spidermonkey/, python-spidermonkey, 0.0.10, JavaScript / Python bridge., 2011-02-17T03:33:39+0000
+/project/streamtuner2/, streamtuner2, 2.2.0, Streamtuner2 is an internet radio browser, 2017-01-01T21:48:37+0000
+/project/insta-browser/, insta_browser, 0.8.6.1, parsing/automation instagram.com, 2018-06-30T21:43:58+0000
+/project/facebook-timezones/, facebook-timezones, 0.2, Helpers for using timezones in the Facebook Graph API., 2020-05-13T22:35:42+0000
+/project/automancy/, Automancy, 0.5.1, , 2020-10-21T18:18:09+0000
+/project/majel/, majel, 0.4.0, A front-end for Mycroft that allows you to do cool things like stream video or surf the web., 2021-03-16T22:16:23+0000
+/project/django-richtexteditor/, django-richtexteditor, 0.0.1.dev3, Django Rich Text Editor with many flavors, 2020-07-22T16:25:32+0000
+/project/selene/, selene, 1.0.2, Concise API for selenium in Python + Ajax support + PageObjects (Selenide port from Java to Python), 2020-02-17T13:32:07+0000
+/project/lxmlmechanize/, lxmlmechanize, 0.0.3, UNKNOWN, 2015-11-16T09:48:52+0000
+/project/log4django/, log4django, 0.9.1, log4django is full features logging platform for django applications., 2014-09-09T14:32:35+0000
+/project/django-manifest/, django-manifest, 0.2.1, A kickstarter for Django Web Framework projects that supports both legacy frontend and javascript technolohies using REST API., 2019-10-15T22:01:45+0000
+/project/googlesuggest/, GoogleSuggest, 1.0.0, This module will help you to grab the Google suggestion for some expression, 2010-11-07T03:06:01+0000
+/project/cleverutils/, cleverutils, 0.21, Some handy Python utilities and code snippets used repeatedly by the author and considered beginner to intermediate level of difficulty.  Published just in case they're of use to other Pythonistas somehwere, some time., 2020-12-17T19:46:36+0000
+/project/pyppeteer-cluster/, pyppeteer-cluster, 0.0.6, Fault tolerant, stealthy, distributed web crawling with Pyppeteer., 2021-04-14T23:38:50+0000
+/project/tpb/, tpb, 1.3.6, Unofficial Python API for ThePirateBay., 2019-12-24T15:50:09+0000
+/project/oauthbrowser/, OAuthBrowser, 0.0.1, OAuthBrowser is module to do authentications and web scraping., 2020-04-30T22:02:25+0000
+/project/django-mobile-utils/, django_mobile_utils, 0.9, , 2011-03-22T04:29:12+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/eilat-web-browser/, eilat-web-browser, 1.5.5, QtWebKit based web browser, 2014-09-11T16:04:38+0000
+/project/lesspy/, lesspy, 0.1, Helps compile collections of LESS files into CSS files
+
+    * Given a source directory, recursively finds LESS (.less/lss/.css) files
+    * Saves compiled CSS files to a destination path, using the same directory
+      structure as the source., 2011-09-26T06:34:00+0000
+/project/ebook-homebrew/, ebook-homebrew, 2.1.4, Rename image file to only digit name and convert ebook files., 2019-09-28T14:52:59+0000
+/project/dicio/, Dicio, 1.3.0, Unofficial Python API for Dicio., 2019-10-27T14:43:02+0000
+/project/pyppeteer-crawler/, pyppeteer-crawler, 2.8.9, Fault tolerant, stealthy, distributed web crawling with Pyppeteer., 2021-04-01T15:17:13+0000
+/project/squp/, squp, 0.1.8, A backend engine for Squarespace that uses splinter/selenium for automated data entry, 2019-08-31T20:49:33+0000
+/project/galacteek/, galacteek, 0.5.0, Browser for the distributed web, 2021-03-16T17:55:02+0000
+/project/maninex/, maninex, 0.4, An extension manager to replace Google's WebStore, 2018-03-17T17:38:19+0000
+/project/gambit-bromine/, gambit-bromine, 0.3.1, Pythonic web testing, 2019-06-05T12:37:25+0000
+/project/zope-testrecorder/, zope.testrecorder, 0.4, Test recorder for functional tests, 2010-04-15T03:15:40+0000
+/project/weboob-qt/, weboob-qt, 2.0, Weboob, Web Outside Of Browsers, 2020-03-27T19:11:00+0000
+/project/mousikofidi/, MousikoFidi, 0.23, MousikoFidi: Your Music Cloud, 2019-12-01T20:25:16+0000
+/project/flask-desktop-ui/, flask-desktop-ui, 0.3, Desktop web user interface using Flask APP as backend, 2020-11-16T05:39:51+0000
+/project/yawrap/, yawrap, 0.4.10, simple generator of complex html reports, 2020-01-30T09:53:46+0000
+/project/pomace/, pomace, 0.7.9, Dynamic page objects for browser automation., 2021-04-17T12:25:24+0000
+/project/woob/, woob, 3.0, Woob, Web Outside Of Browsers, 2021-04-11T12:52:02+0000
+/project/testgen4web-python/, TestGen4Web-Python, 0.2.1, A pure-python set of translators for TestGen4Web, 2006-11-09T07:11:01+0000
+/project/flask-robohash/, flask-robohash, 1.0, robohash.org avatars that you can use with the microframework Flask., 2015-04-04T21:12:54+0000
+/project/insta-meter/, insta-meter, 0.0.2, library for gathering any instagram account statistic, 2018-06-30T21:37:49+0000
+/project/ruamel-bws/, ruamel.bws, 0.3.4, browser restore to workspace, 2020-09-07T14:44:12+0000
+/project/shuiyuan/, shuiyuan, 0.0.2, small package description, 2018-10-20T16:06:13+0000
+/project/gocept-webtoken/, gocept.webtoken, 3.1.post1, Wrapper around JWT tokens and the Zope Component Architecture (ZCA)., 2020-04-08T08:22:15+0000
+/project/browsercookiejar/, browsercookiejar, 0.1, CookieJar for browsers, 2014-08-30T09:22:34+0000
+/project/react-ssr/, react-ssr, 5.0.0, , 2020-02-17T22:09:43+0000
+/project/pyomegle/, pyomegle, 1.7, Python API for Omegle webchat, 2020-08-31T03:36:31+0000
+/project/whirl/, whirl, 0.8.0, A collection of tools for making websites in Python, 2014-07-27T04:46:19+0000
+/project/austere/, austere, 0.2.0, a default browser switcher based on material conditions & contexts, 2016-03-20T02:46:32+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/lkd/, lkd, 2, UNKNOWN, 2013-12-14T18:42:27+0000
+/project/rallf/, rallf, 0.4.5, rallf.com Software Development Kit (SDK), 2019-03-14T11:57:00+0000
+/project/pywebber/, pywebber, 5.0, Common tools employed in web development, 2018-04-21T09:09:25+0000
+/project/boxofficemojo/, BoxOfficeMojo, 0.0.9, Unofficial Python API for Box Office Mojo., 2014-12-20T22:33:36+0000
+/project/pyppeteer-spider/, pyppeteer-spider, 1.1.1, A stealthy asynchronous (optionally distributed) spider running Chrome, Headless Chrome, Chromium, or Headless Chromium, 2020-07-11T12:14:30+0000
+/project/zelenium/, zelenium, 1.0.3, New Selenium framework for Python with base pages and elements, 2020-04-26T11:38:35+0000
+/project/psyko/, psyko, 0.0.1, A Python port of Taiko, 2019-08-22T15:06:06+0000
+/project/cookiedough/, cookiedough, 0.3.0, browser and install GUI for cookiecutter templates, 2021-04-06T09:11:49+0000
+/project/elementium/, elementium, 2.0.2, Browser testing done right., 2019-11-06T12:45:43+0000
+/project/img-lurker/, img-lurker, 1.0.1, Web gallery downloader, 2019-12-07T23:39:22+0000
+/project/hackernews/, HackerNews, 2.0.0, Python API for Hacker News., 2014-05-12T17:50:52+0000
+/project/pynav2/, pynav2, 2.1, Headless programmatic web browser on top of Requests and Beautiful Soup, 2019-01-25T21:39:57+0000
+/project/browthon-reborn/, Browthon-Reborn, 1.0.1, A webbrowser made with Python and PySide2, 2019-10-09T08:07:14+0000
+/project/dizzer/, dizzer, 0.1.2, Weird text encoder / decoder. Gives reversible, human-readable and lossless encoding., 2020-09-22T10:10:25+0000
+/project/constractor/, constractor, 0.1.0, Smart web page content extractor., 2013-11-03T22:53:48+0000
+/project/cleversession/, cleversession, 0.0.1a1, A CleverDict subclass to handle selenium webbrowser sessions, 2021-01-06T07:35:54+0000
+/project/pyjx/, pyjx, 0.1.3, Python to JavaScript translator and runtime., 2014-04-09T21:47:55+0000
+/project/deadcheck/, deadcheck, 0.0.3.3.1, Deadlink Check Utility using Python Modules, 2015-03-10T07:11:56+0000
+/project/cproto/, cproto, 0.7.2, Chrome Debugging Protocol client, 2019-10-11T09:42:41+0000
+/project/django-p3p/, django-p3p, 1.2.0, Django P3P makes it easier to set P3P HTTP headers to prevent session loss., 2016-03-22T18:25:24+0000
+/project/django-badbrowser/, django-badbrowser, 1.0.7, Browser detection (including browser upgrade notices) for Django, 2012-03-16T10:37:15+0000
+/project/free/, free, 0.0.2, Free yourself from CAPTCHAs!, 2017-07-20T18:07:13+0000
+/project/curlwrapper/, curlwrapper, 0.1.110, curlwrapper (browser interface for curl), 2011-11-08T03:48:09+0000
+/project/pitchfork/, pitchfork, 0.1.5, Unofficial API for pitchfork.com reviews, 2018-08-20T18:16:12+0000
+/project/epic-games-bot/, epic-games-bot, 1.0.2, Purchase free promotional offers on Epic Games with the Playwright API, 2021-02-13T16:22:33+0000
+/project/pyjx-gwt/, pyjx-gwt, 0.1.0, Port of Google Web Toolkit to Python., 2014-04-10T14:45:03+0000
+/project/firefed/, firefed, 0.1.14, A tool for Firefox profile analysis, data extraction, forensics and hardening, 2018-08-16T22:00:46+0000
+/project/django-wysiwyg/, django-wysiwyg, 0.8.0, django-wysiwyg, 2016-08-17T16:17:05+0000
+/project/django-quilljs/, django-quilljs, 0.0.2, Easily use Quill.js in your django admin., 2019-02-09T20:43:56+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/selenium-aurelia/, selenium-aurelia, 0.1.1, Wrapper around selenium driver to ease testing of Aurelia based applications., 2017-05-30T13:34:33+0000
+/project/privacyfighter/, privacyfighter, 3.0.0, Privacy-Fighter: A Browser Setup For Increased Privacy And Security, 2020-04-29T02:19:23+0000
+/project/scrapy-random-useragent-pro/, scrapy-random-useragent-pro, 1.0.0, A random user-agent for all your needs, 2019-12-03T14:59:09+0000
+/project/pybrowscap/, pybrowscap, 2.0, detects browsers capabilities and features like css, java, javascript etc., 2012-06-01T20:22:29+0000
+/project/scrapingant-client/, scrapingant-client, 0.3.4, Official python client for the ScrapingAnt API., 2021-04-21T17:25:29+0000
+/project/rsw/, rsw, 2015.12.24, Command-line tool to facilitate usage of revshareworks.com, 2015-12-24T08:48:08+0000
+/project/gidler/, gidler, 0.0.2, gidler, 2016-04-25T10:38:25+0000
+/project/wsgiapptools/, wsgiapptools, 0.5.2, Collection of WSGI application tools including notification messages and cookie handling, 2010-03-11T16:31:18+0000
+/project/pychrome/, pychrome, 0.2.3, A Python Package for the Google Chrome Dev Protocol, 2019-05-07T14:43:13+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/vturesults/, VTUResults, 2.0.1, Python Package for accessing VTU Results., 2015-07-29T15:38:58+0000
+/project/django-testhook/, django-testhook, 1.0.2, A Django template tag to enable testhook attributes on HTML elements., 2017-05-17T14:54:50+0000
+/project/captcha-harvester/, captcha-harvester, 2.1.1, Solve captchas yourself without having to pay for services like 2captcha for use in automated projects., 2020-08-27T03:30:17+0000
+/project/streaming-form-data/, streaming-form-data, 1.8.1, Streaming parser for multipart/form-data, 2021-01-30T10:00:32+0000
+/project/kisscartoon-api/, kisscartoon-api, 0.1, The unofficial API for KissCartoon websites, 2017-04-16T21:39:13+0000
+/project/pyreq/, pyreq, 1.2.0, A console based http client with syntax higlighting, 2016-03-15T15:50:21+0000
+/project/textnow-bot/, textnow-bot, 1.0.6, Send text messages on TextNow with the Playwright API, 2021-02-07T23:41:10+0000
+/project/pynav/, pynav, 1.0, Python programmatic web browser to fetch data and test web sites, 2018-10-11T19:28:06+0000
+/project/freshy-server/, freshy-server, 0.2.3, Page refresh tool for web developers., 2012-03-03T22:02:17+0000
+/project/pitchfork-api/, pitchfork-api, 0.0.4, Unofficial API for pitchfork.com reviews, maintained version of pitchfork, 2018-08-17T18:10:29+0000
+/project/tpblite/, tpblite, 0.7.1, The Unofficial Pirate Bay Lightweight Python API, 2021-03-24T09:51:23+0000
+/project/xplant/, xplant, 1.0.0, Tree model markup builder., 2020-07-10T20:19:30+0000
+/project/folderbrowser/, folderbrowser, 0.1.4, Lightweight webserver to browse folder and its contents on a webbrowser, 2021-01-24T14:40:07+0000
+/project/cefpython3/, cefpython3, 66.1, GUI toolkit for embedding a Chromium widget in desktop applications, 2021-02-16T20:11:57+0000
+/project/distbot/, distbot, 2.8.9, Distributed (browser-based) web scraping in Python with automatic error handling and recovery and detection prevention., 2021-01-23T16:30:01+0000
+/project/django-gcframe/, django-gcframe, 1.1, Django middleware and decorators for working with Google Chrome Frame., 2013-02-27T22:26:30+0000
+/project/teracy-django-html5-boilerplate/, teracy-django-html5-boilerplate, 0.3.0, html5-boilerplate Django wrapper application, 2013-11-14T08:45:02+0000
+/project/page-objects/, page-objects, 1.1.0, Page Objects for Python, 2014-12-08T18:38:02+0000
+/project/crawler-cluster/, crawler-cluster, 0.1.3, Fault tolerant, stealthy, distributed web crawling., 2021-04-20T02:30:58+0000
+/project/cleverweb/, cleverweb, 0.0.1a1, A collection of methods used by CleverSession for accessing common sites using selenium., 2021-01-06T07:52:19+0000
+/project/pyderweb/, PyderWeb, 0.0.1, PyderWeb "the robot spider of web", 2007-11-30T21:03:30+0000
+/project/qutebrowser/, qutebrowser, 2.2.0, A keyboard-driven, vim-like browser based on PyQt5., 2021-04-13T10:07:16+0000
+/project/hacker-news/, hacker_news, 2.1.4, Python wrapper for Hacker News API., 2015-05-22T09:33:25+0000
+/project/compress-pyscripts/, compress_pyscripts, 0.0.1, Compression related scripts, 2013-05-18T06:46:12+0000
+/project/elemental/, elemental, 0.4.0, Faster, easier and more robust Selenium automation., 2021-02-17T13:04:16+0000
+/project/https-everywhere/, https-everywhere, 0.2.2, Privacy for Pythons. Requests adapters for HTTPS, including HSTS preloading and HTTPS Everywhere rules, 2020-03-22T18:02:40+0000
+/project/mechanize/, mechanize, 0.4.5, Stateful programmatic web browsing., 2019-12-22T09:18:43+0000
+/project/usethis-django-bootstrap/, usethis-django-bootstrap, 3.3.5.3, Bootstrap 3.3.5 for Django with themes and theme chooser., 2015-09-15T23:27:50+0000
+/project/django-mobi/, django-mobi, 0.1.7, Django middleware and view decorator to detect phones and small-screen devices, 2013-11-17T15:29:39+0000
+/project/selene-kentastik/, selene-kentastik, 1.0.0a16, Concise API for selenium in Python + Ajax support + PageObjects (Selenide port from Java to Python), 2019-12-16T16:21:58+0000
+/project/pastebot/, pastebot, 0.1.2, pastebot, 2017-09-12T01:29:44+0000
+/project/citeulike-api/, citeulike_api, 0.1.3dev, a python api for http://citeulike.org/, 2011-03-16T02:42:01+0000
+/project/needle/, needle, 0.5.0, Automated testing for your CSS., 2017-04-02T23:28:24+0000
+/project/airium/, airium, 0.2.2, Easy and quick html builder with natural syntax correspondence (python->html). No templates needed. Serves pure pythonic library with no dependencies., 2021-01-31T00:01:00+0000
+/project/django-pybrowscap/, django-pybrowscap, 1.0.0, django-pybrowscap is django middleware with support for pybrowscap, 2013-06-23T13:23:26+0000
+/project/behave-webdriver/, behave-webdriver, 0.3.0, Selenium webdriver step library for behave BDD testing, 2019-05-22T00:27:13+0000
+/project/weboob/, weboob, 2.0, Weboob, Web Outside Of Browsers, 2020-02-13T00:00:13+0000
+/project/playwright/, playwright, 1.10.0, A high-level API to automate web browsers, 2021-03-24T21:37:06+0000
+/project/alfajor/, alfajor, 0.1, Tasty functional testing., 2010-06-25T05:28:53+0000
+/project/html2pdf-server/, html2pdf-server, 1.2.2, HTTP server that renders HTML to PDF, 2017-01-31T06:53:06+0000
+/project/django-donottrack/, django-donottrack, 0.1, Django utilities for honoring the Do Not Track HTTP header., 2013-03-12T13:34:29+0000
+/project/wasmite/, wasmite, 0.2.1, Wasmite: Webassembly is the future but now it has a testing toolchain, 2021-02-21T14:14:01+0000
+/project/bookmark-merger/, bookmark_merger, 0.2.4, code for merging multiple firefox bookmark.html files, 2015-06-28T20:22:00+0000
+/project/jike/, jike, 0.5.0, Jike Metro 🚇 : Jike Python SDK, 2018-05-13T13:40:56+0000
+/project/amitu-websocket-client/, amitu-websocket-client, 0.1.0, WebSocket Client Library, 2011-12-17T00:52:45+0000
+/project/pbm/, pbm, 0.6.4, pbm works with Chromium bookmarks JSON., 2016-04-29T02:04:17+0000
+/project/preview-markup/, preview-markup, 0.3.3, Live preview Markdown and reStructuredText files as HTML in a web browser, 2018-04-12T05:55:15+0000
+/project/bprc/, bprc, 0.7.0, Batch Processing RESTful Client, 2016-08-21T18:26:50+0000
+/project/motorise/, motorise, 0.2.0, A toy for automating interaction with websites like mechanize, 2019-10-26T04:20:20+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/proxy-py/, proxy.py, 2.3.1, ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception capable proxy server focused on Network monitoring, controls & Application development, testing, debugging., 2021-01-10T16:59:31+0000

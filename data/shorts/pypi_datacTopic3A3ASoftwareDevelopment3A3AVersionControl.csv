@@ -1,0 +1,1438 @@
+/project/kids-file/, kids.file, 0.0.7, Kids file management library., 2019-04-02T13:20:55+0000
+/project/gitlab-registry-usage-rest/, gitlab-registry-usage-rest, 0.3.2, A restful web service for querying the repository sizes of a GitLab registry., 2021-03-17T06:45:37+0000
+/project/od-client/, od-client, 0.1.0, Python client for Oxford Dictionaries API, 2018-08-13T23:30:12+0000
+/project/repocribro-badges/, repocribro-badges, 0.1, Extension of repocribro for assigning badges to repositories, 2020-12-26T09:04:54+0000
+/project/fogbugz-bis/, fogbugz-bis, 1.1, Python library for interacting with the FogBugz API, 2019-04-17T13:59:37+0000
+/project/gitdh/, gitdh, 0.7.4, Tool to automatically deploy git commits using post-receive hooks and cron jobs, 2015-09-06T15:55:15+0000
+/project/git-lint/, git-lint, 0.1.2, Git Lint, 2018-05-24T18:10:15+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/python-git-info/, python-git-info, 0.7, Get git information repository, directly from .git, 2021-04-20T11:06:59+0000
+/project/giterm/, giterm, 0.6.5, A terminal-based GUI client for Git, 2017-04-16T08:12:24+0000
+/project/vcstool/, vcstool, 0.2.15, vcstool provides a command line tool to invoke vcs commands on multiple repositories., 2020-10-26T23:21:15+0000
+/project/car2lammpsdata/, car2lammpsdata, 0.0.3, car2lammpsdata, 2019-07-18T09:31:32+0000
+/project/turnstile-core/, turnstile-core, 2.2.1, Turnstile - Local Git Hooks, 2017-07-01T12:44:03+0000
+/project/fs-crawler/, fs-crawler, 0.2.0, FamilySearch Crawler - extracts files for RedBlackGraph ingestion, 2020-09-02T15:12:21+0000
+/project/pithy/, pithy, 0.0.13, Pithy is a collection of utility libraries for Python 3., 2020-05-06T16:09:48+0000
+/project/infrae-i18nextract/, infrae.i18nextract, 1.3.1, Buildout recipe to extract i18n files in Silva, 2013-05-23T11:40:01+0000
+/project/gitsup/, gitsup, 0.3.0, Git submodule updater, 2019-11-17T16:19:14+0000
+/project/autohooks-gk-fork-wip/, autohooks-gk-fork-wip, 2.2.1.dev100, Library for managing git hooks, 2020-12-03T02:16:41+0000
+/project/pybitbucket37/, pybitbucket37, 0.0.2, A Python wrapper for the Bitbucket API, 2020-10-02T06:39:06+0000
+/project/git-meta/, git-meta, 0.2.1, Git repository manager, 2020-12-20T17:37:10+0000
+/project/jig/, jig, 0.1.11, Check your code for stuff before you `git commit`, 2015-02-28T17:20:20+0000
+/project/pytest-mercurial/, pytest-mercurial, 0.1.0, pytest plugin to write integration tests for projects using Mercurial Python internals, 2020-11-21T21:10:35+0000
+/project/hg-versions/, hg-versions, 0.4.1, display the version information for Mercurial and all installed extensions, 2012-02-08T22:46:10+0000
+/project/autohooks-plugin-isort/, autohooks-plugin-isort, 1.0.0, Autohooks plugin for include sorting via isort, 2019-08-26T09:50:03+0000
+/project/bzr-colo/, bzr-colo, 0.4.0, Work with colocated Bazaar branches using current technology., 2012-01-31T03:40:01+0000
+/project/dcc/, dcc, 0.1.0, Django Contributing Commons.
+
+Django-CC makes contributing to PyPI packages a breeze.
+It will download the package source code and sets you up
+so you can focus on developing amazing new features., 2016-02-09T11:05:16+0000
+/project/github-action-template/, github-action-template, 0.0.1, A light template and boilerplate generator for GitHub actions written in Python 3.8+, 2020-12-09T16:46:39+0000
+/project/setuptools-subversion/, setuptools_subversion, 3.1, Setuptools revision control system plugin for Subversion, 2012-10-15T10:04:06+0000
+/project/spark-tensorflow-distributor/, spark-tensorflow-distributor, 0.1.0, This package helps users do distributed training with TensorFlow on their Spark clusters., 2020-06-30T21:26:27+0000
+/project/glhooks/, glhooks, 0.1.0, Service for automatic updating of git repositories from GitLab., 2014-01-14T15:11:18+0000
+/project/mu-repo/, mu-repo, 1.8.1, Tool to work with multiple git repositories, 2020-10-12T13:17:28+0000
+/project/mercurial-all-paths/, mercurial_all_paths, 1.2.1, Mercurial allpaths extension, 2020-06-27T22:41:35+0000
+/project/git-toggle/, git-toggle, 0.1.1, Toggle Git remotes between https and ssh., 2021-03-30T08:57:29+0000
+/project/pyipcmi/, pyIPCMI, 1.1.5, An IP Core Management Infrastructure written in Python - pyIPCMI., 2019-10-13T23:30:09+0000
+/project/tshistory/, tshistory, 0.12.3, Timeseries store with version control, 2020-12-11T15:36:09+0000
+/project/lairucrem/, lairucrem, 5.3.0, A simple and powerful text-based interactive user interface for Mercurial, 2021-01-21T19:59:44+0000
+/project/githubbot/, githubbot, 0.4.2, Automatically labels repositories' issues or pull requests on GitHub., 2016-10-29T13:52:07+0000
+/project/githooks/, githooks, 0.5, Set of Git hooks for pep8, pyflakes, jslint and trac integration, 2011-12-06T12:29:41+0000
+/project/gitflow/, gitflow, 0.5.1, Git extensions to provide high-level repository operations for Vincent Driessen's branching model., 2013-02-16T17:10:56+0000
+/project/pybitbucket-fork/, pybitbucket_fork, 0.12.2, Fork of a Python wrapper for the Bitbucket API, 2017-04-29T22:48:43+0000
+/project/p4python/, p4python, 2020.1.2056111, P4Python - Python interface to Perforce API, 2020-12-16T16:32:08+0000
+/project/npmdownloader/, npmdownloader, 1.2.1, NPM Package Downloader, 2020-07-18T06:57:22+0000
+/project/sci-api-req/, sci-api-req, 0.2.1, Provider for scientific APIs, 2019-08-29T19:41:25+0000
+/project/immureii/, immureii, 0.42.10, Immure Iniquitous Intent, 2021-03-22T23:10:15+0000
+/project/giup/, GIUP, 1.0.0, Interactively and hierarchically perform git merges across branches and run commands in between., 2021-01-31T22:57:50+0000
+/project/django-exception-blame/, django-exception-blame, 0.1.1, Show blame in a exception., 2016-04-14T23:20:37+0000
+/project/pyvcs/, pyvcs, 0.2.0, A lightweight abstraction layer over multiple VCSs., 2009-07-12T15:26:54+0000
+/project/gitup/, gitup, 0.5.1, Easily update multiple git repositories at once, 2019-09-20T04:38:09+0000
+/project/git-scan/, git-scan, 0.2.1, Scan local or remote git repositories for history divergent from origin, 2019-07-15T01:16:54+0000
+/project/git-remote-dropbox/, git-remote-dropbox, 1.1.4, A transparent bidirectional bridge between Git and Dropbox, 2020-12-18T21:58:33+0000
+/project/tracemaildigestplugin/, TracEmailDigestPlugin, 0.1, Email notifications & daily digests for tickets in Trac, 2011-09-06T11:17:53+0000
+/project/pypi-server/, pypi-server, 0.4.8, Tornado PyPi server, 2018-10-14T18:11:16+0000
+/project/zoom/, zoom, 0.0.15, Distributed project management, 2016-02-18T06:23:35+0000
+/project/git-upload/, git-upload, 0.0.6, A tool to upload patches to a git or gerrit repository, 2018-01-11T06:32:50+0000
+/project/version-merger/, version-merger, 1.0.3, Automatically track and save regularly changing files., 2016-03-08T07:32:36+0000
+/project/gitman/, gitman, 2.3.2, A language-agnostic dependency manager using Git., 2021-04-08T13:03:01+0000
+/project/hublatest/, HubLatest, 0.1.3, Script to automatically download latest release from GitHub repos, 2020-04-25T14:32:45+0000
+/project/setuptools-git-ls-files/, setuptools-git-ls-files, 0.1.2, Use git to list all files, including submodules, 2020-02-15T18:56:15+0000
+/project/refclone/, refclone, 0.1, A wrapper for "git clone" that keeps git repo directories organized, 2018-07-08T13:01:31+0000
+/project/unpushed/, unpushed, 1.3.0, Scan version control for uncommitted and unpushed changes, 2018-03-15T11:38:52+0000
+/project/git-goggles/, git-goggles, 0.2.12, A series of GIT utilities to streamline working with remote branches and reviewing code. You can think of git-goggles as 'git branch -a' on steroids. Just install and run 'git goggles', 2011-11-23T16:54:35+0000
+/project/reposync/, reposync, 0.8.0, Organize git repositories., 2020-02-09T14:39:47+0000
+/project/hgnested/, hgnested, 0.8, Mercurial extension to work with nested repositories, 2016-08-10T08:01:27+0000
+/project/gitlsfiles/, gitlsfiles, 0.1.1, setuptools integration for Git, 2007-09-27T23:39:33+0000
+/project/chewy/, chewy, 0.4, Python script to manage CMake modules, 2013-12-03T12:42:42+0000
+/project/gitrecipe/, gitrecipe, 0.0.2, Simple buildout recipe for downloading git repositories. It uses system git command and its syntax, 2012-02-20T06:24:48+0000
+/project/django-vcs/, django-vcs, 0.1, A pluggable django application to allow browsing of code repositories., 2009-07-05T17:08:18+0000
+/project/trac/, Trac, 1.4.2, Integrated SCM, wiki, issue tracker and project environment, 2020-06-17T05:27:31+0000
+/project/anybox-pg-odoo/, anybox.pg.odoo, 0.6, Postgresql database snapshot versionning tool, 2014-11-02T10:13:55+0000
+/project/automergetool/, automergetool, 0.3.0, A tool to simplify the process of solving conflicts after a git merge, rebase or cherry-pick., 2018-01-18T19:14:57+0000
+/project/rc-cli/, rc-cli, 0.4.1, RoseCloud CLI, 2019-03-28T19:29:00+0000
+/project/replicate-github/, replicate-github, 1.0.0, Tool for maintaining mirrors of GitHub repos, 2017-09-14T22:07:23+0000
+/project/pyghub/, PyGHub, 0.0.4, A github module for Python, 2020-11-02T20:19:10+0000
+/project/pony-express/, pony-express, 0.2.5a2, General purpose package and dependency manager based on MongoDB, 2017-05-20T09:19:23+0000
+/project/geospade/, geospade, 0.1.0, A place for classes and properties of raster and vector geometries and their geospatial operations alike., 2021-04-19T13:05:33+0000
+/project/omnizart/, omnizart, 0.3.2, Omniscient Mozart, being able to transcribe everything in the music., 2021-02-13T09:27:16+0000
+/project/ghupdatesecret/, ghupdatesecret, 0.0.2, A command-line utility to update GitHub repository secrets., 2020-08-01T09:16:39+0000
+/project/post-review/, post-review, 1.3.0, unified command line interface for posting code reviews and merge requests, 2017-08-08T15:01:33+0000
+/project/fossilpy/, fossilpy, 0.3.1, Simple pure-python library for reading Fossil repositories., 2019-12-28T12:29:28+0000
+/project/arca/, arca, 0.3.3, A library for running Python functions (callables) from git repositories in various states of isolation with integrating caching., 2019-12-10T21:52:22+0000
+/project/dotignore/, dotignore, 0.0.2, Command line tool to generate ignore files, 2020-09-18T10:26:18+0000
+/project/tcversioner/, tcversioner, 2.16.0.0.post6, Use version control tags to discover version numbers, 2017-12-12T23:06:23+0000
+/project/glica/, glica, 0.4.7, GitLab Instant Changelog Assurance (GLICA) for ensuring up-to-date CHANGELOG.md files!, 2018-12-30T05:44:39+0000
+/project/fit-ctu-gitlab-exporter/, fit-ctu-gitlab-exporter, 1.0.0, Tool for exporting projects from FIT CTU GitLab to GitHub, 2021-02-10T21:38:00+0000
+/project/version-utils/, version_utils, 0.3.0, Library for parsing system package strings and comparing package versions, 2016-07-16T00:21:14+0000
+/project/dzonegit/, dzonegit, 0.14, Git hooks to manage a repository of DNS zones, 2020-05-26T09:16:26+0000
+/project/git-devbliss/, git_devbliss, 2.0.6, Tool supporting the devbliss Git/GitHub Workflow, 2014-10-22T08:21:10+0000
+/project/thin-deployer/, Thin-Deployer, 1.1.0, Webhook handler that can be used to deploy on push for example, 2019-04-15T12:34:54+0000
+/project/tracbzr/, TracBzr, 0.4.2, Bazaar plugin for Trac, 2010-11-01T13:46:39+0000
+/project/gerrit-hooks/, gerrit-hooks, 2.0.0, Utility for writing Gerrit Hooks in python, 2018-11-23T22:24:58+0000
+/project/giternity/, giternity, 0.5, Mirror git repositories and retrieve metadata for cgit., 2019-03-25T20:02:08+0000
+/project/gir/, gir, 0.0.0, git interactive rebase todo list editor, 2015-05-28T02:34:08+0000
+/project/git-up/, git-up, 2.0.2, A python implementation of 'git up', 2020-12-30T13:42:29+0000
+/project/gitversion/, gitversion, 2.1.3, Utility to get the git version of a package., 2014-02-19T16:32:40+0000
+/project/klaus/, klaus, 1.5.2, The first Git web viewer that Just Works™., 2020-02-29T15:40:44+0000
+/project/libversion/, libversion, 1.2.3, Python bindings for libversion, 2021-03-10T13:08:06+0000
+/project/hgsubversion/, hgsubversion, 1.9.3, hgsubversion is a Mercurial extension for working with Subversion repositories., 2018-11-03T03:35:50+0000
+/project/ingit/, ingit, 0.4.8, git repository collection management tool, 2019-08-24T08:17:02+0000
+/project/fragmap/, fragmap, 0.3.1, Visualize a timeline of Git commit changes on a grid, 2019-09-05T18:49:40+0000
+/project/gitk-class-diagram/, gitk-class-diagram, 1.0.0, Class diagrams based on commit diffs, 2020-02-22T14:40:33+0000
+/project/galactica-terminus/, galactica-terminus, 0.5rc6, TODO, 2020-11-18T13:14:15+0000
+/project/scmver/, scmver, 1.1, A package version manager based on SCM tags, 2020-11-04T12:43:30+0000
+/project/pythonfetch/, pythonfetch, 0.11.5, Python and system information command-line tool, 2021-04-20T17:48:51+0000
+/project/pithytools/, pithytools, 0.0.1, Pithytools is a collection of command line utilities., 2020-05-06T16:10:08+0000
+/project/git-multimail/, git-multimail, 1.5.0.post1, Send notification emails for Git pushes, 2019-01-21T20:31:51+0000
+/project/pythonrlsa/, pythonRLSA, 1.0.0, Python Run Length Smoothing Algorithm for Document Processing, 2021-02-06T11:33:55+0000
+/project/silver-platter/, silver-platter, 0.4.1, Automatic merge proposal creeator, 2021-02-17T22:45:15+0000
+/project/checkpoint/, Checkpoint, 0.1, Checkpoint is a simple media archive management system., 2009-01-08T22:29:15+0000
+/project/django-crispy-views/, django-crispy-views, 1.0.1, crispy views for django., 2020-10-05T08:21:00+0000
+/project/gitprivacy/, gitprivacy, 2.0.0, Git wrapper redacting author and committer dates., 2020-08-10T13:06:50+0000
+/project/patchouli/, patchouli, 0.1.2, Interactive patch file splitting tool, 2015-09-21T07:44:42+0000
+/project/meldutils/, meldutils, 2.1.0, Graphical recursive file diffing (Meld, VS Code), good for managing templates across lots of repos / projects, 2020-12-21T22:21:22+0000
+/project/mummify/, mummify, 1.3.0, Version control for machine learning, 2020-08-20T02:40:31+0000
+/project/github-repo-opener/, github-repo-opener, 0.1.2, A tool to open your GitHub repository page quickly., 2018-10-16T03:05:25+0000
+/project/simple-spiders/, simple-spiders, 0.1.5, A simple web crawling framework., 2019-03-12T07:52:29+0000
+/project/git-deps/, git-deps, 1.1.0, automatically detect dependencies between git commits, 2021-04-04T00:05:55+0000
+/project/z3c-setuptools-mercurial/, z3c.setuptools_mercurial, 1.1.1, Mercurial File Finder Plugin for Setuptools, 2010-08-30T21:03:06+0000
+/project/dev-pipeline-git/, dev-pipeline-git, 0.4.4, git plugin for dev-pipeline, 2019-12-04T07:01:10+0000
+/project/batman/, Batman, 0.7.0, A deployment toolbelt, 2013-09-20T21:35:36+0000
+/project/gwsa/, gwsa, 1.1.3, git workspace automation, 2018-12-25T01:08:29+0000
+/project/diff-hilite/, diff-hilite, 2.0, Diff wrapper/filter for intra-line changes highlighting, 2020-06-26T09:32:53+0000
+/project/setuptools-requirements-vcs-version/, setuptools-requirements-vcs-version, 0.1.0, Extract package version from requirements.txt VCS URLs, 2017-05-29T14:46:09+0000
+/project/ecnunetwork/, ecnunetwork, 1.1.6, A script to connect to Internet at East China Normal University (ECNU)., 2019-07-23T09:35:10+0000
+/project/tidyextractors/, tidyextractors, 0.3.4, A collection of tools for extracting data into tidy DataFrames., 2017-06-30T18:04:56+0000
+/project/gaussianrunner/, gaussianrunner, 1.0.21, A script to run Gaussian automatically., 2019-11-19T00:22:15+0000
+/project/clincher/, clincher, 1.0, Clincher is a tool for checking that all the commits in a git repo are signed, 2018-10-22T19:48:13+0000
+/project/jet/, jet, 1.0, A simple to use, yet powerful version control system, 2015-05-09T13:22:19+0000
+/project/cspace-hgsite/, cspace-HgSite, 1.1, Serve a web site straight out of a Mercurial repository, 2013-06-09T15:01:33+0000
+/project/lethe/, lethe, 0.11, Git-based snapshotting, 2021-02-07T03:22:16+0000
+/project/southwark/, southwark, 0.8.1, Extensions to the Dulwich Git library., 2021-03-17T23:18:59+0000
+/project/aimelia/, Aimelia, 15, Aimelia command-line client, 2017-04-02T17:41:30+0000
+/project/kconmd/, kconmd, 1.0.17, Molecular dynamics (MD) simulations supported by k-Bags Convolutional Neural Network (kcon)., 2019-02-05T19:01:27+0000
+/project/bzr-automirror/, bzr-automirror, 0.1.0, Automatically mirror Bazaar branches on every change., 2009-11-25T17:29:05+0000
+/project/pbsmonitor/, pbsmonitor, 1.0.6, A PBS job monitor powered by CoolQ., 2019-02-06T13:32:28+0000
+/project/huobitrade/, huobitrade, 0.5.6, HuoBi Trading Framwork(python), 2019-07-15T01:14:29+0000
+/project/veranda/, veranda, 0.1.1, veranda is a place for IO related classes and operations dealing with vector and raster data., 2021-02-08T16:14:31+0000
+/project/mercurialrecipe/, MercurialRecipe, 0.1.3, zc.buildout recipe for cloning and/or pulling a Mercurial repository, 2009-06-08T16:16:54+0000
+/project/autohooks/, autohooks, 21.3.0, Library for managing git hooks, 2021-03-29T15:09:23+0000
+/project/setuptools-scm-semver/, setuptools-scm-semver, 0.1.3, the blessed package to manage your versions by scm tags, 2019-06-27T07:44:28+0000
+/project/jfrog2pypi/, jfrog2pypi, 0.1.2, Jfrog Artifactory python modules loader, 2021-04-01T16:49:05+0000
+/project/laika-deploy/, laika-deploy, 0.6, A command-line utility for easy and reliable management of manual deployments from Git repositories, 2020-09-22T01:41:45+0000
+/project/hglib/, hglib, 2.6.1, Mercurial Python library, 2020-09-15T09:00:18+0000
+/project/git-recipe/, git-recipe, 0.2.7, Simple buildout recipe for downloading git repositories. It uses system git command and its syntax, 2019-07-15T02:44:33+0000
+/project/githc/, githc, 0.1.1, Git history checkout tool, 2020-07-07T22:48:47+0000
+/project/wpsync/, wpsync, 1.0.1, A tool to sync the WordPress SVN with your Git (or SVN) repository., 2015-06-04T20:18:47+0000
+/project/gh-commander/, gh-commander, 0.1.0.dev20150322, GitHub Commander – A tool to access the GitHub APIv3 from the CLI and automate otherwise tedious tasks., 2015-03-22T18:17:32+0000
+/project/repocribro-file/, repocribro-file, 0.1, Repocribro extension allowing getting repo information from defined file, 2020-12-26T09:04:27+0000
+/project/synchg/, SyncHg, 1.0.0, A simple script & library to handle syncing remote mercuial repositories, 2013-01-24T22:21:13+0000
+/project/gitcher/, gitcher, 3.2, The git profile switcher., 2020-04-18T17:32:58+0000
+/project/python-kacl/, python-kacl, 0.2.21, Pyhton module and CLI tool for validating and modifying Changelogs in "keep-a-changelog" format", 2021-03-31T13:27:39+0000
+/project/git-adapter/, git-adapter, 0.2.5, A Python interface to the Git command line., 2020-09-28T18:26:08+0000
+/project/mcrepogen/, MCREPOGEN, 0.3, Markov Chain Repository Generator, 2009-11-04T20:25:43+0000
+/project/miniver/, miniver, 0.7.0, minimal versioning tool, 2020-08-15T23:01:34+0000
+/project/gibra/, gibra, 1.0.4, Git Binary Repository Assistant, 2018-04-04T19:21:41+0000
+/project/moprofiler/, moprofiler, 1.1.0, 综合性能分析工具，集成了内存使用、执行时间的分析器，及秒表打点工具, 2019-02-20T08:39:18+0000
+/project/git-imerge/, git-imerge, 1.2.0, Incremental merge for git, 2020-09-20T13:41:52+0000
+/project/redsolutioncms-django-utilities/, redsolutioncms.django-utilities, 0.1.5, Django's set of utilities. Includes admin ImageField with preview, override for username,
+Localized date filter, ConsoleException middleware and broken link highlight template., 2012-04-09T10:48:59+0000
+/project/git-edit-index/, git-edit-index, 0.6, A git command that opens an editor to stage or unstage files., 2019-07-21T12:55:56+0000
+/project/cmp-version/, cmp_version, 3.0.0, A script and python module to compare version numbers. Use this to compare the version strings of packages, modules, really anything., 2018-04-18T00:42:37+0000
+/project/sally/, sally, 0.1.0, A command line tool to check the status of repositories in all subdirectories, 2015-01-02T03:39:06+0000
+/project/povies/, povies, 1.1.2, Python wrapper for YTS.ag, 2017-10-10T10:09:29+0000
+/project/semver-tool/, semver-tool, 3.0.4, semantic version helper tool, 2019-06-03T21:36:35+0000
+/project/dcso-portal-python-sdk/, dcso-portal-python-sdk, 1.0.0b4, DCSO Portal SDK, 2021-02-08T19:04:29+0000
+/project/cli-github/, cli-github, 1.0.9, Github inside the Command Line, 2015-07-19T07:43:58+0000
+/project/stellar/, stellar, 0.4.5, stellar is a tool for creating and restoring database snapshots, 2018-04-17T07:00:21+0000
+/project/diff-highlight-tokens/, diff-highlight-tokens, 0.2.0, A command line tool to apply language-specific highlighting to git diffs, 2016-08-13T20:42:02+0000
+/project/git-sweep/, git-sweep, 0.1.1, Clean up branches from your Git remotes, 2012-03-28T13:23:47+0000
+/project/hgapi/, hgapi, 1.7.4, Python API to Mercurial using the command-line interface, 2017-10-17T15:40:47+0000
+/project/nu-gitflow/, nu-gitflow, 1.0.2, Git extensions to provide high-level repository operations for Vincent Driessen's branching model., 2016-06-15T18:27:19+0000
+/project/gitchecker/, gitchecker, 2.0.0, Python GIT tool to check pending changes and get last commit info, 2018-07-17T11:25:03+0000
+/project/paige-gitflow/, paige-gitflow, 1.0.3, Git extensions to provide high-level repository operations for Vincent Driessen's branching model., 2020-11-09T18:30:00+0000
+/project/setupmeta/, setupmeta, 3.1.0, Simplify your setup.py, 2021-04-15T18:20:38+0000
+/project/bundleman/, bundleman, 1.3.0, Manage svn bundle releasing., 2009-03-26T19:53:20+0000
+/project/mercurial-all-dirs/, mercurial_all_dirs, 1.1.2, Mercurial All Dirs Extension, 2021-04-02T07:45:30+0000
+/project/rosrepo/, rosrepo, 3.0.90, Manage ROS workspaces with multiple Gitlab repositories, 2020-01-22T15:54:26+0000
+/project/req-update/, req-update, 1.5.0, Req Update, 2021-04-04T02:31:06+0000
+/project/pygithubutils/, pygithubutils, 1.0.2, Manage large 1..1000 user teams for classroom and insitutions with GitHub API calls., 2020-05-10T18:09:44+0000
+/project/salsita-gitflow/, salsita-gitflow, 1.6.0, Git extensions to provide high-level repository operations for Vincent Driessen's branching model., 2015-05-21T14:41:04+0000
+/project/easypypi/, easypypi, 2.0.6, By FAR the easiest and quickest way to publish your Python creations on PyPI so other people can just `pip install your_script`., 2021-01-30T02:58:05+0000
+/project/github-binary-upload/, github-binary-upload, 0.1.7, github-binary-upload is a utility for publishing releases from tags with attached files on GitHub., 2020-09-29T09:24:55+0000
+/project/yorm/, YORM, 1.6.2, Automatic object-YAML mapping for Python., 2019-03-23T23:16:50+0000
+/project/vulners/, vulners, 1.5.11, Python library and command-line utility for Vulners (https://vulners.com), 2021-02-03T07:47:21+0000
+/project/flying/, flying, 0.0.6, Cli tools for manage releases, 2018-05-14T05:53:37+0000
+/project/ore-recipe-svnlib/, ore.recipe.svnlib, 0.1.6, Buildout recipe for compiling python subversion bindings, 2008-11-18T14:06:04+0000
+/project/githubrelease/, githubrelease, 1.5.8, githubrelease is a CLI to easily manage GitHub releases, assets and references, 2018-04-08T19:46:36+0000
+/project/gbp/, gbp, 0.9.22, Suite to help with Debian packages in Git repositories, 2021-02-01T11:06:55+0000
+/project/daversy/, daversy, 0.3.4, Daversy is a source control tool for relational databases., 2016-01-15T06:03:08+0000
+/project/ansible-collections-python-dist-boo/, ansible-collections.python.dist.boo, 0.1.2, Example Ansible Collection containing 'boo' Ansible module, 2020-03-13T11:32:41+0000
+/project/repo/, repo, 0.1.0, repo: handle complex repository workflow in a repeatable way, 2013-08-09T16:19:55+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/repocribro-pages/, repocribro-pages, 0.1, Extension of repocribro for custom static pages, 2020-12-26T09:05:15+0000
+/project/git-github-reflog/, git-github-reflog, 0.0.1, reflog like interaction with Github, 2015-08-31T17:04:39+0000
+/project/quart-github-webhook/, quart-github-webhook, 0.3, Very simple, but powerful, microframework for writing Github webhooks in Python, 2020-03-11T05:23:24+0000
+/project/gitblobts/, gitblobts, 0.0.7, git-backed time-indexed blob storage, 2019-01-18T01:19:05+0000
+/project/logpose/, logpose, 0.0.1b2, A python log library for data science, 2018-04-15T15:56:32+0000
+/project/list-github-repos/, list-github-repos, 0.2, A utility that lists the repos from a GitHub profile, 2019-01-04T15:36:35+0000
+/project/clearml/, clearml, 0.17.5, ClearML - Auto-Magical Experiment Manager, Version Control, and MLOps for AI, 2021-03-16T14:57:31+0000
+/project/git-blackhole/, git-blackhole, 0.1.0.post1, Continuous backup and recoverable trash can for Git, 2017-12-13T07:37:22+0000
+/project/banksync/, banksync, 0.9.4, A library for manipulating banks of git repositories, 2019-05-29T04:23:48+0000
+/project/pristine-lfs/, pristine-lfs, 20210404.0, a pristine-tar replacement that works with Git LFS, 2021-04-04T19:28:15+0000
+/project/gitver/, gitver, 0.3.1, Simple version string management for git, 2014-01-19T15:22:15+0000
+/project/hglist/, hglist, 0.3, An ls command for Mercurial, 2012-12-13T16:39:47+0000
+/project/moear-api-common/, moear-api-common, 1.0.2.post2, 为MoEar扩展插件提供接口定义以及通用组件, 2018-04-08T14:03:43+0000
+/project/mercurial-on-remote/, mercurial_on_remote, 1.0.3, Mercurial OnRemote Extension, 2021-04-02T07:37:36+0000
+/project/dulwich/, dulwich, 0.20.21, Python Git Library, 2021-03-25T23:39:40+0000
+/project/mercurial/, mercurial, 5.7.1, Fast scalable distributed SCM (revision control, version control) system, 2021-03-09T05:51:36+0000
+/project/git-remote-couch/, git-remote-couch, 0.1a2, a git-remote-helper that allows you to push source code into a CouchDB, 2010-08-11T13:11:44+0000
+/project/forkfeed/, forkfeed, 0.1.4, Utility do build atom feeds for all commits in all forks of your projects on GitHub., 2011-03-25T07:47:11+0000
+/project/pytest-gitignore/, pytest-gitignore, 1.3, py.test plugin to ignore the same files as git, 2015-07-17T14:50:16+0000
+/project/prometheus-xmpp-alerts/, prometheus-xmpp-alerts, 0.5.1, Prometheus XMPP Alerts hook, 2021-03-09T15:23:54+0000
+/project/git-workflow/, git-workflow, 0.1.5, Utilities for streamlining our git workflow., 2021-04-21T18:28:14+0000
+/project/word2number/, word2number, 1.1, Convert number words eg. three hundred and forty two to numbers (342)., 2017-06-02T15:45:14+0000
+/project/cgitize/, cgitize, 1.1, Mirror your git repositories and make them cgit-ready, 2021-04-18T17:18:50+0000
+/project/pipdatedd/, pipdatedd, 0.3.3, pip update helpers, 2019-08-03T16:59:05+0000
+/project/katversion/, katversion, 1.1, Reliable git-based versioning for Python packages, 2020-07-27T09:01:41+0000
+/project/git-svn-helpers/, git-svn-helpers, 0.9, Command-line tools to make git-svn simple, 2012-03-11T19:06:35+0000
+/project/hgshelve/, hgshelve, 0.1, Shelve Extension for Mercurial, 2012-11-09T13:19:41+0000
+/project/datalad/, datalad, 0.14.2, data distribution geared toward scientific datasets, 2021-04-14T23:00:53+0000
+/project/amqpdeliver/, AMQPDeliver, 0.1, Asynchronous file transfer using AMQP, 2011-09-06T11:05:50+0000
+/project/gitlist/, gitlist, 0.1.1, Displays the state of your local Git repositories., 2021-03-01T07:02:37+0000
+/project/git-jock/, git-jock, 0.2.1, Git helper for multi-repository management, 2021-01-19T20:57:47+0000
+/project/whatthepatch-graingert/, whatthepatch-graingert, 0.0.6, A patch parsing library., 2017-04-10T20:43:31+0000
+/project/dvdev/, DVDev, 0.1.3, DVDev - Distributed Development - tools for Open Source Software, 2009-04-19T22:09:33+0000
+/project/tracburndownplugin/, TracBurndownPlugin, 0.1, Burndown chart plugin for milestones in Trac, 2011-09-06T11:17:49+0000
+/project/gitflow-easyrelease/, gitflow-easyrelease, 0.3.2, Shortcuts for git flow release with semver support, 2018-03-11T16:48:48+0000
+/project/github-webhook/, github-webhook, 1.0.4, Very simple, but powerful, microframework for writing Github webhooks in Python, 2020-03-06T11:34:07+0000
+/project/anyvcs/, anyvcs, 1.4.0, An abstraction layer for multiple version control systems., 2014-08-11T15:20:13+0000
+/project/git-remote-run/, git-remote-run, 1.2, Allows running custom commands on a git remote., 2019-02-08T12:11:12+0000
+/project/displaytext/, DisplayText, 1.0.2, Make text display easy. Based on 'More' and 'Less'., 2014-06-25T20:22:09+0000
+/project/git-cleaner/, git-cleaner, 0.3.4, Cleanup merged branches with notification to last committer., 2018-11-29T00:22:11+0000
+/project/hg-delivery/, hg-delivery, 1.1.5, HgDelivery is an easy way to deliver products  for Mercurial and Git with a built in push/pull server, as well as repositories comparison, 2020-04-13T20:02:29+0000
+/project/pyprivnote/, pyPrivnote, 0.0.1a1, A Python Interface to Privnote service, 2017-04-17T12:16:09+0000
+/project/cicli/, cicli, 0.1.4, CiCLI is a CircleCI command line tool., 2015-01-20T15:04:53+0000
+/project/ubiml-agent/, ubiml-agent, 0.0.0a0, ubiml-agent - temporary placeholder, 2020-10-16T11:33:46+0000
+/project/spokennumbers/, spokennumbers, 1.0.0, Generate spoken numbers mp3 files used for Memory Competitions, 2019-10-26T21:31:02+0000
+/project/hookmeup/, hookmeup, 1.0.5, A Git hook to automate your Pipenv and Django workflows, 2018-12-20T10:49:09+0000
+/project/repocheck/, repocheck, 1.0.0, Check the status of code repositories under a root directory., 2018-01-21T10:52:49+0000
+/project/hg-confman/, hg-confman, 2.0.0, , 2021-02-23T17:12:29+0000
+/project/django-klaus/, django-klaus, 0.1.1, Git web viewer app for django., 2013-12-01T09:45:02+0000
+/project/transmission-rpc/, transmission-rpc, 3.2.4, Python module that implements the Transmission bittorent client RPC protocol, 2021-03-09T15:12:46+0000
+/project/git-timestamp/, git-timestamp, 1.0.6, GIT Timestamping client for Zeitgitter, 2021-01-01T15:08:27+0000
+/project/gcg/, gcg, 0.2.0, Git Changelog Generator, 2019-07-09T19:48:36+0000
+/project/vcstools/, vcstools, 0.1.42, VCS/SCM source control library for svn, git, hg, and bzr, 2019-08-07T18:30:05+0000
+/project/gitchart/, gitchart, 1.5, Generate statistic charts on Git repositories., 2020-03-07T13:41:39+0000
+/project/gitchangelog-vt/, gitchangelog-vt, 3.0.9, gitchangelog-vt is a custom version of gitchangelog that generates a changelog thanks to git log., 2020-03-10T15:05:52+0000
+/project/confluence-junction/, confluence-junction, 0.1.1, Publish to and manage Confluence spaces with markdown files tracked in Git., 2021-03-05T23:51:29+0000
+/project/svn-ignore/, SVN-Ignore, 1.2.2, A utility that provides .svnignore functionality similar to GIT, 2016-08-22T20:25:49+0000
+/project/git-bigstore/, git-bigstore, 2.0.2, Track big files with Git., 2019-03-12T20:54:57+0000
+/project/pccc/, pccc, 0.4.3, Python Conventional Commit Checker, 2021-04-11T15:34:38+0000
+/project/repostat-app/, repostat-app, 2.2.0, Desktop git repository analyser and report creator., 2020-06-26T14:40:31+0000
+/project/hgflow-official/, hgflow-official, 0.9.8.6, Mercurial plugin to support the generalized Driessen branching model, 2020-12-29T21:30:59+0000
+/project/github-pr-form/, github-pr-form, 0.1.1, A small python utility for generating forms from the command line and adding them to GitHub pull requests or issues, while tracking them in a secondary github repo., 2014-11-12T05:32:51+0000
+/project/gitnotifs/, gitnotifs, 0.2.2, notification scripts/module for git repositories, 2012-12-06T16:10:51+0000
+/project/metarepo/, metarepo, 0.1.2, Git Meta Repository Manager, 2020-09-17T19:22:10+0000
+/project/git-hash/, git-hash, 1.0.2, Create commit hash by mask, 2021-04-22T10:35:29+0000
+/project/setuptools-git/, setuptools-git, 1.2, Setuptools revision control system plugin for Git, 2017-02-18T00:24:34+0000
+/project/django-utilities/, django-utilities, 0.1.5, Django's set of utilities. Includes admin ImageField with preview, override for username,
+Localized date filter, ConsoleException middleware and broken link highlight template., 2012-04-09T10:49:48+0000
+/project/git-ctm/, git-ctm, 0.2.0, Git commit time machine., 2018-02-09T12:02:29+0000
+/project/uncommitted/, uncommitted, 2.4, Scan filesystem for changes not committed to version control, 2021-01-10T22:15:47+0000
+/project/svnchecker/, svnchecker, 0.3, SVNChecker is a framework for Subversion hook scripts., 2008-07-20T19:55:54+0000
+/project/svnfiltereddump/, svnfiltereddump, 1.2, Extracts parts from Subversion repositories, 2015-01-07T14:39:23+0000
+/project/verfun/, verfun, 0.2.1, Verfun is a util for generating a checksum for a python function, 2020-01-01T22:02:14+0000
+/project/forkedthanks/, forkedthanks, 0.1.0, Thanks with a ⭐️ the projects you forked, 2018-05-26T00:58:36+0000
+/project/monoml-agent/, monoml-agent, 0.0.0a0, monoml-agent - temporary placeholder, 2020-10-16T11:33:33+0000
+/project/as3ninja/, as3ninja, 0.5.1, AS3 Ninja is a templating and validation engine for your AS3 declarations providing a CLI and Swagger REST API, 2020-08-09T16:10:30+0000
+/project/pida/, pida, 0.6.2, An integrated development environment that reuses tools such as Vim, and all version control systems., 2010-08-04T16:42:51+0000
+/project/setuptools-sky/, setuptools_sky, 0.1.7, the blessed package to manage your versions by scm tags, 2018-09-26T12:35:03+0000
+/project/maildiff/, maildiff, 1.3.2, Package to email color git diff, 2018-05-27T07:37:03+0000
+/project/git-x/, git-x, 0.3.202010061414, git-x - a set of handy git extensions., 2020-10-06T03:26:06+0000
+/project/watdarepo/, watdarepo, 0.3.0, Determines type and host of a repo., 2013-09-17T19:54:30+0000
+/project/lolologist/, lolologist, 0.5.5, A utility that automatically generates an image macro from your webcam whenever you commit to a git repository., 2016-06-16T01:15:30+0000
+/project/version-query/, version-query, 1.1.0, Package version query toolkit for Python, 2020-02-05T08:54:29+0000
+/project/movielst/, movielst, 2.5.0, Everything about your movies within the command line., 2019-05-05T14:48:24+0000
+/project/git-bars/, git-bars, 1.7, A utility for visualising git commit activity as bars on the terminal, 2020-05-27T18:16:41+0000
+/project/dulwich-tree/, dulwich-tree, 0.1.0, Library to help make and commit modifications to a tree with Dulwich., 2019-04-05T12:05:18+0000
+/project/sapling/, sapling, 0.0.11, A git porcelain to manage bidirectional subtree syncing with foreign git repositories, 2014-04-21T23:18:22+0000
+/project/download-gitignore/, download-gitignore, 2.0.1, A Python CLI program to download .gitignore files from Github's repository, 2020-07-14T01:47:30+0000
+/project/mohand-plugin-otp/, mohand-plugin-otp, 1.0.0.post0, MoHand插件，用以提供定制化的一次性密码生成服务, 2018-05-27T14:10:47+0000
+/project/python-veracity/, python-veracity, 0.0.11, Python wrapper for Veracity's command-line interface., 2014-01-27T01:22:26+0000
+/project/hangar/, hangar, 0.5.2, Hangar is version control for tensor data. Commit, branch, merge, revert, and collaborate in the data-defined software era., 2020-05-08T18:28:05+0000
+/project/python-version-info/, python-version-info, 0.0.6, Easy way to find out and display VCS versions of your projects, 2014-10-23T14:19:29+0000
+/project/py-versioning/, py_versioning, 1.0.0, Set of tools helping in versioning projects, 2015-01-25T19:07:33+0000
+/project/eazysvn/, eazysvn, 1.15.1, Make simple revision merges and branch switching much easier, 2019-04-23T10:19:09+0000
+/project/qiq/, qiq, 0.5, qiq is the thin layer over pip with a few rules., 2018-12-11T15:29:40+0000
+/project/dns-shark/, dns-shark, 1.0.2, A simple DNS resolver that can resolve a domain name to either an IPv4 or IPv6 address., 2020-01-20T02:49:04+0000
+/project/carboncopy/, carboncopy, 0.0.1, A small CLI utility to keep your repositories up-to-date with their templates, 2020-01-05T20:33:49+0000
+/project/gitifyhg/, gitifyhg, 0.8.4, Use git as client for hg repos, 2013-11-09T23:22:53+0000
+/project/gitfaces/, gitfaces, 0.3.0, Fetch contributor avatars for a GitHub repository, 2020-09-15T09:52:34+0000
+/project/git-rsrc/, git-rsrc, 0.1.0, Manage git repo from a distant location (within the same machine), 2017-12-12T22:38:31+0000
+/project/autoblockchainify/, autoblockchainify, 0.9.5, Turn a directory into a git-based Blockchain, 2021-01-17T08:55:27+0000
+/project/git-delete-merged-branches/, git-delete-merged-branches, 6.0.5, Command-line tool to delete merged Git branches, 2020-10-07T15:19:21+0000
+/project/django-versions/, django-versions, 1.0.1, A django application to enable versioning of data stored in Django models., 2010-08-17T21:32:39+0000
+/project/heptapod/, heptapod, 2.6.2, Heptapod server-side Mercurial hooks, extension, etc., 2021-04-15T20:56:51+0000
+/project/dikort/, dikort, 0.2.1, Commit messages checking tool., 2021-03-18T10:51:39+0000
+/project/ggci/, ggci, 0.3.0, GitLab Google Chat Integration, 2021-04-15T08:24:22+0000
+/project/pubdiff/, Pubdiff, 0.0.8, Easy, anonymous, and public code diffs, 2011-05-07T08:57:33+0000
+/project/gitpm/, gitpm, 0.7.1, Efficient code-base management based on git., 2021-01-02T07:23:12+0000
+/project/svnpuppy/, svnpuppy, 0.0.1, Subversion backup script, 2009-04-02T06:31:35+0000
+/project/odyssey/, odyssey, 1.0.2, A Multi-SCM Multi-Repository Workspace Management Framework, 2020-06-15T06:32:18+0000
+/project/autohooks-plugin-black/, autohooks-plugin-black, 1.2.0, Autohooks plugin for code formatting via black, 2019-11-21T11:39:08+0000
+/project/lcg-neuro-plx/, lcg-neuro-plx, 0.3.1, Parsing of PLX neurophysiological data files in Python, 2019-08-07T15:15:56+0000
+/project/tshistory-rest/, tshistory-rest, 0.9.1, Timeseries histories http front, 2020-09-22T14:46:37+0000
+/project/allgit/, allgit, 1.0, Powerful "git multiplexer" for easily working with many repositories, 2021-02-11T21:13:36+0000
+/project/git-orm/, git-orm, 0.4, object-relational mapper for the git object store, 2014-01-20T20:52:57+0000
+/project/glerbl/, glerbl, 0.1.1, Glerbl manages git hooks., 2019-03-11T17:04:36+0000
+/project/ignorelib/, ignorelib, 0.3.0, Use the syntax and semantics of gitignore with custom ignore file names and locations, 2020-10-27T15:29:28+0000
+/project/gitsnapshot/, gitsnapshot, 0.1.2, Python module to simplify loading of snapshot of git repository, 2020-05-25T17:24:37+0000
+/project/bibu/, bibu, 0.2.0, A Bitbucket command line client, 2020-04-26T09:33:35+0000
+/project/repo-helper-github/, repo-helper-github, 0.7.0, Manage GitHub repositories with repo-helper., 2021-04-07T17:12:00+0000
+/project/gitrisky/, gitrisky, 0.1.3, Predict code bug risk with git metadata, 2019-12-08T19:36:11+0000
+/project/setuptools-hg/, setuptools_hg, 0.4, Setuptools/distribute plugin for finding files under Mercurial version control., 2012-02-02T14:45:44+0000
+/project/gitlab-job-guard/, gitlab-job-guard, 0.0.4.3, Guard gitlab jobs from multiple simultaneous executions, 2019-04-17T00:58:39+0000
+/project/simiotics-s3/, simiotics-s3, 0.2.1, Simiotics S3 integration, 2019-09-23T09:09:51+0000
+/project/git-anon/, git-anon, 0.1.1, Anonymous Git with Signatures, 2021-04-14T16:19:36+0000
+/project/breezy/, breezy, 3.1.0, Friendly distributed version control system, 2020-06-09T02:16:47+0000
+/project/mercurial-bitbucketize/, mercurial_bitbucketize, 0.9.4, Mercurial Bitbucketize Extension, 2020-06-27T22:39:21+0000
+/project/sempylver/, sempylver, 1.4.5, A simple tool for tracking the semantic version of projects, 2018-01-02T15:44:09+0000
+/project/simple-git-deploy/, simple-git-deploy, 0.6, A command-line utility for easy and reliable management of manual deployments from Git repositories, 2020-09-22T01:58:02+0000
+/project/ore-svn/, ore.svn, 1.0.5, An object oriented api for subversion with support for r/w, 2008-05-07T19:45:15+0000
+/project/dpxdt/, dpxdt, 0.1.5, Screenshot diff tool, 2014-10-20T20:06:37+0000
+/project/dulwichtest/, dulwichTest, 0.18.7, Python Git Library, 2017-12-08T15:32:22+0000
+/project/vcs-repo-mgr/, vcs-repo-mgr, 4.2, Version control repository manager, 2018-04-26T09:31:06+0000
+/project/whatthepatch/, whatthepatch, 1.0.2, A patch parsing and application library., 2021-02-06T03:01:20+0000
+/project/fastimport/, fastimport, 0.9.11, VCS fastimport/fastexport parser, 2021-04-12T01:00:28+0000
+/project/customdeps/, CustomDeps, 0.0.2, Manages modules paths and allows importing specific versions of modules designated by Git commit hashes, 2021-04-18T11:41:17+0000
+/project/gitpatrol/, gitpatrol, 0.0.2, Flexible Git Pre-Commit Hooks, 2015-06-23T14:26:31+0000
+/project/git-reviewers/, git-reviewers, 0.13.3, Suggest reviewers for your git branch, 2021-01-04T02:13:14+0000
+/project/hglock/, hglock, 0.5.4, This extension implements a centralized file-based locking scheme for Mercurial., 2014-04-02T08:37:22+0000
+/project/weaveml-agent/, weaveml-agent, 0.0.0a0, weaveml-agent - temporary placeholder, 2020-10-16T11:33:52+0000
+/project/hgtools/, hgtools, 8.2.1, Classes and setuptools plugin for Mercurial and Git repositories, 2020-11-07T00:55:43+0000
+/project/ask-lang/, ask-lang, 1.2.0, Ask is a modern open-source transpiled programming language, designed for building backend services and APIs. Ask reduces the amount of needed boilerplate code for setting up things like database connections and authentication to virtually zero lines., 2021-03-13T06:34:55+0000
+/project/kids-sh/, kids.sh, 0.0.8, Kids shell command call wrapper, 2018-04-09T13:28:44+0000
+/project/gitaflow/, gitaflow, 0.1, Implementation of git branching model, alternative to git-flow, 2015-02-14T15:07:24+0000
+/project/medali/, medali, 0.1.1, medali is responsible for parsing, tagging and interpreting product metadata, 2021-03-15T10:47:43+0000
+/project/xunique/, xUnique, 4.1.4, A converter of the Xcode project file to make merging it much easier in VCS, 2016-04-07T08:16:52+0000
+/project/svnpublish/, svnpublish, 2.12, Enables powerful automation from a subversion repository., 2014-02-19T21:26:23+0000
+/project/bzr/, bzr, 2.7.0, Friendly distributed version control system, 2016-02-07T17:08:53+0000
+/project/natcap-versioner/, natcap.versioner, 0.5.0, PEP440-compliant Git and hg versioning, 2016-11-15T05:12:53+0000
+/project/nurovo-agent/, nurovo-agent, 0.0.0a0, nurovo-agent - temporary placeholder, 2020-10-16T11:33:40+0000
+/project/tshistory-client/, tshistory-client, 0.7.3, Timeseries histories python client (server side: tshistory_rest), 2021-02-04T17:31:26+0000
+/project/hg-fingerprint/, hg_fingerprint, 0.1.6, Better archive fingerprint file composition., 2020-06-18T03:22:25+0000
+/project/pycrastinate/, pycrastinate, 0.1.0, Keep your TODO, FIXME, etc. under control by triggering actions, generating reports, date/author/custom filtering, automated e-mails and more, 2014-06-15T19:20:56+0000
+/project/program-versions/, program-versions, 1.5.2, Know version changes of your favorites projects in your terminal., 2018-06-11T18:57:41+0000
+/project/archub/, archub, 1.0.0a8, , 2018-04-08T18:19:28+0000
+/project/marche/, marche, 0.1.2, MaRChE, 2021-04-08T18:27:38+0000
+/project/tshistory-alias/, tshistory-alias, 0.6.0, Computed timeseries on top of the `tshistory` package, 2019-10-28T09:50:28+0000
+/project/aimdfragmentation/, aimdfragmentation, 1.0.29, AIMD Fragmentation Calculation, 2019-04-07T13:41:48+0000
+/project/git-spindle/, git-spindle, 4.0.1, Git subcommands for integrating with central services like github, gitlab and bitbucket, 2021-01-14T07:02:51+0000
+/project/gicowa/, gicowa, 1.2.5, GitHub Commit Watcher, 2015-10-19T21:03:59+0000
+/project/datacommon/, datacommon, 1.1.7, A simple framework about data analysis., 2019-06-05T10:09:48+0000
+/project/ongeza/, ongeza, 1.12.2, Your Semantic Versioning personal assistant, 2018-06-27T18:50:48+0000
+/project/mflux-ai/, mflux-ai, 0.7.0, The Python client for MFlux.ai, 2020-01-14T08:53:28+0000
+/project/ubiml/, ubiml, 0.0.0a0, ubiml - temporary placeholder, 2020-10-16T11:33:43+0000
+/project/mllint/, mllint, 0.5.1, Linter for Machine Learning projects, 2021-04-15T19:14:41+0000
+/project/github-report/, github-report, 0.1, Generates a report of metadata about repositories for a GitHub user or organization, 2020-06-26T22:03:05+0000
+/project/gitsub/, gitsub, 0.2.3, Track git repositories updates, 2016-04-07T05:18:22+0000
+/project/selenium-update/, selenium-update, 0.0.0, Automate Selenium webdriver dependency set up, 2020-08-09T10:21:26+0000
+/project/git-profiles/, git-profiles, 1.1.3, Python package that helps you easily manage and switch between multiple git profiles., 2019-09-08T15:42:01+0000
+/project/hg-importfs/, hg-importfs, 1.3.2, import a set of files from a file-system into a repository, 2012-12-03T20:15:31+0000
+/project/svnlib/, svnlib, 0.1.4.1a0, , 2018-08-03T09:57:53+0000
+/project/gitget-pm/, gitget-pm, 2.3.0, A package manager for git repositories., 2019-12-23T14:02:45+0000
+/project/nomad/, nomad, 1.20, simple sql migration tool to save you from becoming mad, 2018-03-01T21:03:33+0000
+/project/goblet/, goblet, 0.3.5, Git web interface using libgit2 and flask, 2014-05-25T16:58:22+0000
+/project/git-guilt/, git-guilt, 0.33, git-guilt provides information on the transfer of ownership in a Git repository, 2016-12-25T10:08:04+0000
+/project/quit-store/, quit-store, 0.24.0, Distributed Version Control for RDF Knowledge Bases, 2019-12-11T13:19:33+0000
+/project/aino-mutations/, aino-mutations, 0.1.0.0, Mutating for evolution using Django and Mercurial, 2010-04-05T23:59:46+0000
+/project/codemetrics/, codemetrics, 0.11.3, SCM mining utility classes, 2021-01-30T16:05:51+0000
+/project/diff-highlight/, diff-highlight, 1.2.0, pretty diff highlighter; emphasis changed words in diff, 2016-02-07T04:54:14+0000
+/project/kallithea/, Kallithea, 0.6.3, Kallithea is a fast and powerful management tool for Mercurial and Git with a built in push/pull server, full text search and code-review., 2020-12-02T20:35:04+0000
+/project/pygit/, pygit, 0.1, Pythonic bindings for git, 2008-06-25T19:37:54+0000
+/project/gitrepo/, gitrepo, 2.8.0.post1, Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow., 2021-03-19T10:22:51+0000
+/project/mercurial-testhelpers/, mercurial-testhelpers, 0.5.0, Helpers to write Python tests involving Python internals of Mercurial, 2021-02-17T14:04:49+0000
+/project/gitorg/, gitorg, 0.8.0, Use git for organizations!, 2017-12-02T18:28:59+0000
+/project/setuptools-scm/, setuptools-scm, 6.0.1, the blessed package to manage your versions by scm tags, 2021-03-17T14:18:59+0000
+/project/mapgitconfig/, MapGitConfig, 1.1, Git Config Wrapper, 2015-03-13T10:23:55+0000
+/project/hooktest/, HookTest, 1.3.1, Hook Test Script for GitHub/CapiTainS repositories based on MyCapytain 3.0.0 or higher, 2020-01-23T08:40:35+0000
+/project/yoyo-database-migrations/, yoyo-database-migrations, 0.1.0, Database migrations with SQL, 2020-01-22T15:19:30+0000
+/project/blohg/, blohg, 0.13, A Mercurial (or Git) based blogging engine, 2014-06-10T00:58:15+0000
+/project/line-protocol-parser/, line-protocol-parser, 1.1.0, Parse InfluxDB line protocol string into Python dictionary, 2020-09-05T13:28:58+0000
+/project/braumeister/, Braumeister, 0.3.4, Easy release bulding, combining JIRA and git, 2018-10-30T11:18:13+0000
+/project/requests-ntlm3/, requests-ntlm3, 6.1.3b1, The HTTP NTLM proxy and/or server authentication library., 2020-02-19T12:46:46+0000
+/project/asamba/, asamba, 1.0.8, Python interface to peform asteroseismic modelling with the asamba grid, 2017-06-21T10:55:59+0000
+/project/dev-pipeline-scm/, dev-pipeline-scm, 0.4.0, scm tooling for dev-pipeline, 2019-01-21T04:41:35+0000
+/project/github-publish/, github_publish, 1.0.0, GitHub publisher, 2017-07-01T08:44:16+0000
+/project/gitlab-registry-usage/, gitlab-registry-usage, 0.3.2, This is a package for querying the size of repositories in a GitLab registry., 2021-03-17T08:22:25+0000
+/project/gitbuglink/, gitbuglink, 0.0.2, The stupid commit-bug traceability linker for the stupid content tracker, 2015-05-02T16:43:46+0000
+/project/autohooks-plugin-pylint/, autohooks-plugin-pylint, 1.2.0, Autohooks plugin for code linting via pylint, 2019-11-22T08:39:15+0000
+/project/mygithub/, mygithub, 0.0.1, My GitHub productivity scripts, 2013-06-30T22:12:03+0000
+/project/carp-api/, carp-api, 0.1.1, Carp-Api is an extension on top of flask micro-framework, it allows to build endpoints and sort outs exception handling. Allowing developers to just start coding restful-api and not be concerned by standard and mundane fuff., 2020-02-03T11:52:57+0000
+/project/p-unity/, p-unity, 0.42.202104180000, { Programming : Unity }, 2021-04-18T01:18:45+0000
+/project/splitconflict/, splitconflict, 0.9, Helper script to extract the three versions of a SVK conflicted file., 2007-04-24T12:08:35+0000
+/project/domina/, domina, 0.1.0a3, Game AI script framework for MMORTS screeps.com, 2020-12-06T20:17:40+0000
+/project/huawei-modem-py-api-client-through-proxy/, huawei-modem-py-api-client-through-proxy, 0.0.8, huaweisms is a python api client for Huawei Modems., 2020-08-14T12:20:39+0000
+/project/py-deployer/, py-deployer, 1.6.4, Py Deployer is a lightweight package to execute zero-downtime deployment on Linux servers., 2021-02-12T15:27:03+0000
+/project/redkyn-grader/, redkyn-grader, 0.1.1, A grading framework for evaluating programming assignments, 2020-01-10T20:28:33+0000
+/project/repoman-scm/, repoman-scm, 0.7.1, Library and tools to manage pools of code repositories, 2014-09-05T10:54:19+0000
+/project/github-status-checker/, github-status-checker, 1.0.2, Python module/tool for checking the status of GitHub., 2020-04-03T18:32:34+0000
+/project/ket/, ket, 0.0.4, Bitbucket workflows in your terminal, 2019-04-28T14:23:57+0000
+/project/hgcampfire/, hgcampfire, 0.3.2, Mercurial hook to report incoming changesets to Campfire chatroom, 2012-10-03T13:36:21+0000
+/project/watchman/, watchman, 0.0.8, watchman: version control status management made easy., 2016-12-02T03:09:14+0000
+/project/cbp/, cbp, 1.1.3, A small CLI tool to infer the clone URL by the current path and arguments., 2018-10-22T05:35:44+0000
+/project/vcs-mirrors/, vcs-mirrors, 0.0.7, , 2018-04-23T12:47:02+0000
+/project/dotsecrets/, dotsecrets, 0.4, DotSecrets is a tool to facilitate storing your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow., 2020-07-15T20:16:15+0000
+/project/hgwebinit/, hgwebinit, 0.1.0, Mercurial hgweb init support., 2013-01-27T05:44:57+0000
+/project/git-gitlab/, git-gitlab, 0.6.0, Git extension commandline for GitLab API v3, 2017-05-25T19:25:34+0000
+/project/hg-request-pull/, hg-request-pull, 0.5.1, generate a summary of pending changes, 2014-04-07T16:46:26+0000
+/project/clearml-session/, clearml-session, 0.3.4, clearml-session - CLI for launching JupyterLab / VSCode on a remote machine, 2021-04-12T00:39:42+0000
+/project/poetry-dynamic-versioning/, poetry-dynamic-versioning, 0.12.6, Plugin for Poetry to enable dynamic versioning based on VCS tags, 2021-04-19T18:36:38+0000
+/project/vgit/, vgit, 0.2, a sleek terminal user interface for git, 2017-08-24T02:23:59+0000
+/project/hgwebplus/, hgwebplus, 0.6.3, Mercurial plugin to add additional functionality to hgweb, 2020-11-03T06:17:04+0000
+/project/git-sweep3k/, git-sweep3k, 0.3.1, Clean up branches from your Git remotes, 2014-08-30T02:00:06+0000
+/project/lisense/, lisense, 1.1.0, Sensible repository licensing for Humans, 2015-04-07T06:56:05+0000
+/project/pysvnbot/, pysvnbot, 0.0.4, Subversion commit log tracking bot, 2007-12-02T15:25:13+0000
+/project/thin-man/, thin-man, 0.1.0.dev1, “Thin Man” backs up all metadata in your source tree of git repos., 2015-04-06T22:28:11+0000
+/project/pum/, pum, 0.9.12, Postgres upgrade manager, 2020-10-01T16:59:48+0000
+/project/dev-pipeline-bootstrap/, dev-pipeline-bootstrap, 0.4.0, build tooling for dev-pipeline, 2019-01-21T04:41:01+0000
+/project/python-andromeda/, python-andromeda, 1.0.5.2, OpenStack Repository Management Tool., 2015-08-05T19:51:05+0000
+/project/moviemon/, moviemon, 1.0.11, Everything about your movies within the command line., 2016-02-01T16:03:32+0000
+/project/webstarts/, webstarts, 2.9.0, Entry point for modern flask/gunicorn/sentry/celery web applications, 2017-10-27T03:11:07+0000
+/project/mercurial-extension-utils/, mercurial_extension_utils, 1.5.1, Mercurial Extension Utils, 2020-06-27T22:20:57+0000
+/project/spruce-sniffer/, spruce-sniffer, 0.1.5, spruce sniffer is a versatile network sniffer, 2019-04-23T03:09:57+0000
+/project/git-clog/, git-clog, 0.2.5, git-clog outputs the commit graph of the current Git repository and colorizes commit symbols by interpreting the first six commit hash digits as an RGB color value., 2020-04-25T10:33:04+0000
+/project/qct/, qct, 0.8, Commit Tool, 2007-01-20T03:55:13+0000
+/project/python-git/, python-git, 2018.2.1, Automate boring git tasks, 2019-01-08T18:39:34+0000
+/project/gstore/, gstore, 0.4.0, Synchronize GitHub repositories made easy, 2021-02-19T07:53:50+0000
+/project/gitserve/, gitserve, 0.2.0, A helper tool for git that mimics mercurial's serve command, 2008-04-28T10:33:20+0000
+/project/sslcommerz-sdk/, sslcommerz-sdk, 1.0.2, Sslcommerz SDK for python, 2021-01-13T16:41:42+0000
+/project/versionah/, versionah, 0.16.0, Simple version specification management, 2017-11-25T10:04:58+0000
+/project/adfdeployer/, ADFDeployer, 1.0.0a2, Continuously deploy an Azure Data Factory repository., 2020-01-14T15:47:30+0000
+/project/jinja2-github/, jinja2-github, 0.1.1, Jinja2 Extension for rendering GitHub project properties, 2018-08-05T04:22:14+0000
+/project/mlhook/, mlhook, 0.0.0a0, mlhook - temporary placeholder, 2020-10-16T11:33:25+0000
+/project/mkmr/, mkmr, 0.0.35, Collection of tools for dealing with GitLab Merge Requests, with an Alpine flavour., 2020-12-12T19:22:55+0000
+/project/git-up-all/, git-up-all, 0.3.2.6, Run git-up trough a json list of repos, 2017-02-27T14:42:49+0000
+/project/hgmonitor/, hgmonitor, 0.5, mercurial repository monitoring and handling as a group, 2012-07-26T01:26:56+0000
+/project/gita/, gita, 0.13.4, Manage multiple git repos with sanity, 2021-03-29T02:01:24+0000
+/project/committer/, committer, 0.2.7, Unified command line interface for git, mercurial and subversion., 2015-02-02T18:25:51+0000
+/project/gitless/, gitless, 0.8.8, A version control system built on top of Git, 2019-05-28T20:56:52+0000
+/project/odfit/, odfit, 0.6.2, Produces textual information based on the contents of OpenDocument Format files and other archives., 2010-10-27T08:54:40+0000
+/project/gitbackhub/, gitbackhub, 0.2.0, A script to backup / mirror GitHub repositories., 2020-02-07T21:10:30+0000
+/project/astrophysix/, astrophysix, 0.5.0, Astrophysical simulation project documentation package, 2021-02-11T15:22:55+0000
+/project/ferrypick/, ferrypick, 0.1.dev2, Apply patches from Fedora dist git to different components., 2020-06-01T23:21:12+0000
+/project/hgsvn/, hgsvn, 0.6.0, A set of scripts to work locally on Subversion checkouts using Mercurial, 2020-07-16T08:57:58+0000
+/project/bzr-bash-completion/, bzr-bash-completion, 1.2.0, Generate bash command line completion function for bzr, 2010-05-18T09:14:07+0000
+/project/hghudson/, hghudson, 0.1.1dev, Mercurial integration with Hudson, 2010-10-16T17:38:30+0000
+/project/fork-github-repo/, fork-github-repo, 1.2.0, Fork, clone, add remote and branch a GitHub repo, 2018-11-01T21:12:43+0000
+/project/gitsecret/, gitsecret, 0.1.0, Python wrapper for git-secret., 2018-10-30T08:47:24+0000
+/project/moear/, moear, 1.0.0a2, 用来实现对网络文章的爬取、mobi打包、并推送到Kindle设备上, 2018-04-12T13:46:06+0000
+/project/git-project/, git-project, 0.0.19, Manage projects in a git repository, 2021-04-23T18:03:12+0000
+/project/git-r/, git-r, 0.1.4, Manage git repo from a distant location (within the same machine), 2017-12-13T14:13:56+0000
+/project/auto-tag/, auto-tag, 0.8.2, Automatically tag a branch based on commit message, 2020-06-28T08:07:13+0000
+/project/git-revise/, git-revise, 0.6.0, Efficiently update, split, and rearrange git commits, 2020-06-07T21:46:38+0000
+/project/localbitcoins/, localbitcoins, 1.0, Simple wrapper for localbitcoins.com API, 2019-07-16T15:59:08+0000
+/project/gitignore-cli/, gitignore-cli, 1.0.4, gitignore cli downloader, 2020-03-18T13:21:14+0000
+/project/gitlabform/, gitlabform, 1.21.0, Specialized "configuration as a code" tool for GitLab projects, groups and more using hierarchical configuration written in YAML, 2021-04-02T07:12:21+0000
+/project/bzrsync/, bzrsync, 0.2, Tool to automatically synchronize Bazaar repositories between multiple nodes, 2011-05-27T14:58:10+0000
+/project/mugit/, mugit, 1.1.1, Git multi-repository workspace management tool, 2020-06-16T05:59:37+0000
+/project/pygsa/, pygsa, 0.1, your_name_here, 2019-06-19T07:59:55+0000
+/project/extract-dtb/, extract-dtb, 1.2.2, Tool to split a kernel image with appended dtbs into separated kernel and dtb files., 2021-03-19T12:08:28+0000
+/project/hg-convert-prcs-extension/, hg-convert-prcs-extension, 2.0.0, PRCS source for the Mercurial convert extension., 2020-04-19T05:56:17+0000
+/project/pysvnmanager/, pySvnManager, 0.5.2dev-r188, SVN authz web management tools., 2010-10-08T01:45:19+0000
+/project/ml-experiment/, ml-experiment, 0.0.7, Machine Learning Experiment Framework, 2021-04-11T15:19:22+0000
+/project/infrae-subversion/, infrae.subversion, 1.4.5, Buildout recipe for checking out from subversion, 2009-01-29T11:03:26+0000
+/project/py3status-github-notifications/, py3status-github-notifications, 0.1.0, py3status module to show your Github notifications, 2021-03-10T04:40:05+0000
+/project/torchstruct/, torchstruct, 0.1.6, , 2020-03-02T14:54:58+0000
+/project/app-d/, app-d, 0.2.3, Automated Python Push-Deploy, 2017-01-30T07:57:15+0000
+/project/gitconfig/, gitconfig, 1.0.2, Gitconfig class and gitconfig variable for ~/.gitconfig, 2018-05-16T00:29:14+0000
+/project/git-version/, git-version, 1.5, Make git version information (e.g. git tag name, git commit id, ...) available to your C++ or python source files. A simple use case scenario is to output this version information when the application is called with "--version"., 2015-09-21T15:09:27+0000
+/project/subvertpy/, subvertpy, 0.11.0, Alternative Python bindings for Subversion, 2021-01-11T01:15:09+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/git-archive-all/, git-archive-all, 1.23.0, Archive git repository with its submodules., 2021-01-29T23:08:43+0000
+/project/selenic/, selenic, 0.14.0, Some selenium infrastructure for testing., 2019-08-06T19:12:22+0000
+/project/cvs2hg/, cvs2hg, 3.0.1, cvs2hg repository converter (based on cvs2svn), 2020-07-05T13:29:41+0000
+/project/git-project-core-plugins/, git-project-core-plugins, 0.0.18, Core functionality for git-project, 2021-03-23T18:07:19+0000
+/project/csemver/, csemver, 0.1.0, Object orientied optimized variant of the semver package, 2019-02-10T11:16:53+0000
+/project/stellar-p2p/, stellar-p2p, 0.4.5.1, stellar-p2p is a modified version of stellar, a tool for creating and restoring database snapshots, 2017-12-11T20:51:46+0000
+/project/git-easy-crypt/, git-easy-crypt, 1.0.4, The easy way to encrypt/decrypt private files in the git repo., 2019-01-25T09:31:27+0000
+/project/github3apps-py/, github3apps.py, 0.2.2, Access the Github API as an Application, 2021-02-10T07:10:27+0000
+/project/gitvier/, gitvier, 0.1.1, A component manager based where your components live in Git., 2017-05-13T20:57:31+0000
+/project/ubidump/, ubidump, 1.0.0, Commandline tool for viewing or extracting UBIFS images., 2020-11-09T09:01:09+0000
+/project/zn/, zn, 0.0.1, Zinc, 2019-01-31T00:43:06+0000
+/project/musdex/, musdex, 17.9.13, musdex -- VCS-aware zip archive tool, 2017-09-13T03:44:07+0000
+/project/smug/, smug, 0.6b1, smugly superior to wikis, 2009-07-14T21:10:17+0000
+/project/repoguard/, repoguard, 0.3.0.dev, RepoGuard is a framework for Subversion hook scripts., 2019-08-23T03:20:23+0000
+/project/git-repo-cli/, git-repo-cli, 1.2.0, Utils to easily create/delete/rename repository., 2020-04-14T18:54:44+0000
+/project/yoyo-migrations/, yoyo-migrations, 7.3.1, Database migrations with SQL, 2021-01-18T15:13:38+0000
+/project/leak/, leak, 1.2.0, Show available releases for package, 2018-10-11T08:46:41+0000
+/project/workflow-sandbox/, workflow-sandbox, 0.5.0, Testing GitHub actions, Cirrus CI, documentation, and publishing releases of Python packages., 2020-05-21T03:48:13+0000
+/project/pybitbucket/, pybitbucket, 0.12.0, A Python wrapper for the Bitbucket API, 2016-12-02T23:20:19+0000
+/project/scd/, scd, 1.2.3, Something Completely different, 2017-02-14T14:56:06+0000
+/project/git-test/, git-test, 0.1.0, Run automated tests against a range of Git commits and keep track of the results, 2020-07-10T14:56:46+0000
+/project/import-git-files/, import-git-files, 0.1.0, Import files from git repositories to local destinations., 2020-07-13T16:53:45+0000
+/project/hg-github/, hg-github, 0.1.5, A Mercurial extension for working with GitHub repositories, 2014-07-13T01:08:32+0000
+/project/hg-commit-sanity/, hg-commit-sanity, 0.0.1, Mercurial extension to do sanity checks on commits., 2013-08-22T18:18:47+0000
+/project/fogbugz/, fogbugz, 1.0.6, Python library for interacting with the FogBugz API, 2016-11-01T14:47:06+0000
+/project/redblackgraph/, RedBlackGraph, 0.3.15, Red Black Graph, 2020-04-17T23:14:14+0000
+/project/vcs-extras/, vcs_extras, 0.1.5, extra commands for working with vcstool, 2017-02-05T12:53:39+0000
+/project/roboversion/, roboversion, 2.0.0, Automated project versioning using Git repository state, 2020-10-21T10:36:49+0000
+/project/hgreview/, hgreview, 0.4, Mercurial extension to work with rietveld codereview, 2015-11-15T20:29:48+0000
+/project/github-tool/, github-tool, 1.0.1, Commandline search tool for github, 2021-01-23T15:36:09+0000
+/project/gdm/, GDM, 0.8.2, A language-agnostic, 2016-02-24T14:56:41+0000
+/project/whodidwhat/, whodidwhat, 0.0.5, Package for filtering vcs repositories, 2017-04-27T07:20:03+0000
+/project/octomachinery/, octomachinery, 0.3.6, Invisible engine driving octobot machines. Simple, yet powerful., 2021-04-01T00:08:08+0000
+/project/codereview/, CodeReview, 1.0.0, CodeReview is a Python 3 / Qt5 GUI to perform code review on files and Git repositories., 2017-12-20T15:31:13+0000
+/project/dynamic-nappy/, dynamic-nappy, 0.0.0, dynamic non-atomic parser (python), 2019-12-28T00:49:18+0000
+/project/mercurial-keyring/, mercurial_keyring, 1.4.1, Mercurial Keyring Extension, 2021-04-21T21:55:14+0000
+/project/git-browse/, git-browse, 2.9.2, Open repositories, directories, and files in the browser, 2021-02-23T07:50:00+0000
+/project/pybuilder-scm-ver-plugin/, pybuilder-scm-ver-plugin, 0.1.1, pybuilder plugin to set project from SCM, 2020-05-26T09:39:00+0000
+/project/releasecmd/, releasecmd, 0.4.0, releasecmd is a release subcommand for setup.py (setuptools.setup). the subcommand create a git tag and push, and upload packages to PyPI., 2021-03-17T17:26:08+0000
+/project/reacnetgenerator/, reacnetgenerator, 1.4.164, Reaction Network Generator, 2021-04-02T03:31:37+0000
+/project/monoml/, monoml, 0.0.0a0, monoml - temporary placeholder, 2020-10-16T11:33:31+0000
+/project/django-indisposable/, django_indisposable, 1.0.0, Disallow disposable email addresses in Django EmailField, 2018-04-23T12:45:48+0000
+/project/estimators/, estimators, 0.1.0.dev0, Machine Learning Version Control made Simple, 2016-10-29T20:38:33+0000
+/project/gitools/, Gitools, 1.5.1, A handy tool to modify git history, 2021-02-17T15:15:41+0000
+/project/mercurial-path-pattern/, mercurial_path_pattern, 1.4.2, Mercurial Path Pattern Extension, 2021-01-14T15:29:52+0000
+/project/git-circle/, git-circle, 0.0.9, CircleCI git extension, 2016-10-31T13:54:47+0000
+/project/webdiff/, webdiff, 0.15.0, Two-column web-based git difftool, 2020-10-04T14:42:32+0000
+/project/git-pretty/, git-pretty, 0.1.2, An implementation of Justin Hileman's chart from "Changing History, or How to Git Pretty", 2017-05-13T15:55:47+0000
+/project/aiohglib/, aiohglib, 1.4, Mercurial Python asynchronous library, 2020-10-29T10:13:48+0000
+/project/git-dropshare/, git-dropshare, 0.1.4, Git plus Dropbox sharing for binary documents., 2018-04-05T06:16:29+0000
+/project/gitsshgen/, gitsshgen, 1.2.3, Automatic generation of SSH keys for VCS, 2020-06-09T04:57:11+0000
+/project/tartufo/, tartufo, 2.4.0, tartufo is a tool for scanning git repositories for secrets/passwords/high-entropy data, 2021-03-05T15:30:28+0000
+/project/git-author/, git-author, 0.1.0, git-author, a git command for managing multiple authors, 2019-02-06T15:40:13+0000
+/project/prcslib/, prcslib, 4.1, Python API for PRCS., 2020-04-11T20:29:48+0000
+/project/git-big/, git-big, 0.7.1, Git Big is a command line extension to Git for managing Write Once Read Many (WORM) files., 2018-08-01T01:16:09+0000
+/project/git-crecord/, git-crecord, 20201025.0, interactively select chunks to commit with Git, 2020-10-25T11:37:41+0000
+/project/automation/, automation, 0.6.1, A Django-specific implementation of Fabric, 2013-08-27T21:34:06+0000
+/project/flask-github-webhook/, flask-github-webhook, 0.2.0, Flask extension for github-webhooks, 2020-07-22T15:24:04+0000
+/project/regulagity/, regulagity, 0.0.2, A tool for measuring the activity of a git repo using a variety of single summary statistics, 2020-01-24T03:08:15+0000
+/project/selfupdate/, selfupdate, 0.2.0, Python project that allow scripts to easily and safely update themselves if they are in a git repo, 2020-09-09T14:31:49+0000
+/project/critic-review/, critic-review, 2.0.1, The Critic code review system, 2017-11-14T18:30:36+0000
+/project/git-export-hardlink/, git_export_hardlink, 0.1.0, Git export command that reuses already existing exports and hardlinks files from them., 2013-02-14T08:16:11+0000
+/project/maisie/, Maisie, 0.1.6, User-oriented system for painless managing, storing, sharing, organizing and deploying Machine Learning models., 2019-07-17T11:20:54+0000
+/project/dulwich-windows/, dulwich-windows, 0.9.8, Python Git Library, 2014-12-23T18:21:51+0000
+/project/python-tia/, python-tia, 0.0.0, tia: The generic Test Impact Analysis (TIA) preprocessor for test tools., 2018-09-06T21:22:55+0000
+/project/rainingman/, rainingman, 0.1.14, Raining is a collection of scripts that gather informatio about your packages, 2016-11-07T12:29:08+0000
+/project/hgversion/, hgversion, 0.1.8, automatic version generator from a mercurial repository, 2008-07-03T20:37:00+0000
+/project/onlinecourses-ooo/, onlinecourses-ooo, 0.1.0b2, My personal scraper for https://onlinecourses.ooo, 2017-10-28T16:27:42+0000
+/project/turnstile-codevalidator/, turnstile-codevalidator, 1.1, Turnstile-Codevalidator - Codevalidator check and command for turnstile, 2015-06-30T11:53:26+0000
+/project/git-pr-linear-merge/, git-pr-linear-merge, 1.0.0a2, A command line utility to list and merge GitHub pull requests while maintaining linear history, 2021-04-23T16:08:38+0000
+/project/zuul-client/, zuul-client, 0.0.4, A client for the Zuul Gating System, 2021-02-02T22:22:04+0000
+/project/vcs-extras/, vcs_extras, 0.1.5, extra commands for working with vcstool, 2017-02-05T12:53:39+0000
+/project/roboversion/, roboversion, 2.0.0, Automated project versioning using Git repository state, 2020-10-21T10:36:49+0000
+/project/hgreview/, hgreview, 0.4, Mercurial extension to work with rietveld codereview, 2015-11-15T20:29:48+0000
+/project/github-tool/, github-tool, 1.0.1, Commandline search tool for github, 2021-01-23T15:36:09+0000
+/project/whodidwhat/, whodidwhat, 0.0.5, Package for filtering vcs repositories, 2017-04-27T07:20:03+0000
+/project/octomachinery/, octomachinery, 0.3.6, Invisible engine driving octobot machines. Simple, yet powerful., 2021-04-01T00:08:08+0000
+/project/codereview/, CodeReview, 1.0.0, CodeReview is a Python 3 / Qt5 GUI to perform code review on files and Git repositories., 2017-12-20T15:31:13+0000
+/project/dynamic-nappy/, dynamic-nappy, 0.0.0, dynamic non-atomic parser (python), 2019-12-28T00:49:18+0000
+/project/mercurial-keyring/, mercurial_keyring, 1.4.1, Mercurial Keyring Extension, 2021-04-21T21:55:14+0000
+/project/git-browse/, git-browse, 2.9.2, Open repositories, directories, and files in the browser, 2021-02-23T07:50:00+0000
+/project/pybuilder-scm-ver-plugin/, pybuilder-scm-ver-plugin, 0.1.1, pybuilder plugin to set project from SCM, 2020-05-26T09:39:00+0000
+/project/releasecmd/, releasecmd, 0.4.0, releasecmd is a release subcommand for setup.py (setuptools.setup). the subcommand create a git tag and push, and upload packages to PyPI., 2021-03-17T17:26:08+0000
+/project/reacnetgenerator/, reacnetgenerator, 1.4.164, Reaction Network Generator, 2021-04-02T03:31:37+0000
+/project/git-pretty/, git-pretty, 0.1.2, An implementation of Justin Hileman's chart from "Changing History, or How to Git Pretty", 2017-05-13T15:55:47+0000
+/project/limigrations/, limigrations, 1.1.1, Lightweight migrations system for python / sqlite3, 2021-04-04T23:52:34+0000
+/project/gitmanager/, gitmanager, 0.1.1, A tool for managing multiple git projects., 2017-10-31T23:21:48+0000
+/project/git-me-the-url/, git-me-the-url, 1.0.0, Generate sharable links to your Git source, 2019-10-30T06:02:01+0000
+/project/factual-patchwork/, factual-patchwork, 1.0.0, Dependency Monitoring Solution, 2017-08-17T17:24:03+0000
+/project/spruce-project/, Spruce-project, 0.1.3, Project inspection, management, and administration, 2014-01-24T20:35:08+0000
+/project/database-factory/, database-factory, 1.0.2, Database Factory;, 2021-04-05T09:33:09+0000
+/project/bombardier-cli/, bombardier_cli, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:39+0000
+/project/git-cat/, git-cat, 1.0.0, GitCat: herding a catalogue of git repositories, 2021-04-06T00:47:02+0000
+/project/comet-git-pure/, comet-git-pure, 0.19.16, Python Git Library, 2020-04-20T10:21:40+0000
+/project/pycvs/, pycvs, 0.0.3, A Python client for CVS projects, 2019-09-09T19:53:32+0000
+/project/git-track/, Git-Track, 0.1, Minimal Bug Tracking For Git., 2011-08-16T13:06:29+0000
+/project/animemon/, animemon, 0.1.1, Everything about your anime within the command line., 2016-03-16T13:19:47+0000
+/project/pypi-on-github-indexer/, pypi-on-github-indexer, 0.1.1, Proprietary package publisher to the GitHub index repository., 2019-10-16T12:14:26+0000
+/project/revbranch/, revbranch, 0.4.1, Attach branch names to git revisions, to help understand repository history, 2020-10-18T08:21:51+0000
+/project/rcs4cvs2svn/, rcs4cvs2svn, 1.2, prepare RCS project for processing with cvs2svn, 2011-10-26T18:10:13+0000
+/project/versionfinder/, versionfinder, 1.1.1, Python package to find the version of another package, whether installed via pip, setuptools or git., 2020-09-18T16:32:30+0000
+/project/versionner/, versionner, 1.5.3, versionner helps manipulating version of the project., 2020-02-25T15:39:30+0000
+/project/python-git-wrapper/, python-git-wrapper, 0.9.0.post2, Simple git wrapper for python, 2020-05-16T10:03:13+0000
+/project/tsview/, tsview, 0.11.2, Plugin to `tshistory` which provides a `view` subcommand to visualize time series from a repository and a flask blueprint, 2020-12-11T16:14:46+0000
+/project/isconf/, isconf, 4.2.8.253, Infrastructure configuration management tool, 2015-02-25T04:38:18+0000
+/project/ensemble-pkg/, ensemble-pkg, 0.0.3, Combine models, easily., 2019-08-04T07:19:59+0000
+/project/tshistory-editor/, tshistory-editor, 0.8.2, Web tool to edit time series, 2020-07-30T15:02:39+0000
+/project/trains-jupyter-plugin/, trains-jupyter-plugin, 0.2.1, Jupyter extension to enable users to commit & push notebooks to a git repo, 2019-11-29T00:32:54+0000
+/project/pyrseas/, Pyrseas, 0.9.1, Utilities to assist in database schema versioning, 2020-04-14T21:00:06+0000
+/project/autogit/, autogit, 0.0.3, autosave using git, 2013-09-23T15:21:54+0000
+/project/chronicdb/, chronicdb, 3.7.4, The ChronicDB command-line client., 2012-03-21T23:48:46+0000
+/project/restore-commit-times/, restore_commit_times, 0.5, Restore files mtime from Git commit times, 2016-02-01T12:08:46+0000
+/project/cloneall/, cloneall, 1.4, Clone GitHub repositories, 2015-04-21T22:58:37+0000
+/project/gitconsensus/, gitconsensus, 0.8.0, Automate Github Pull Requests using Reactions, 2019-09-15T22:20:17+0000
+/project/jin-py/, Jin-Py, 1.0.31, A git/mercurial flavored wrapper for rsync., 2019-04-02T09:10:32+0000
+/project/lordcommander/, lordcommander, 5.0.1, Run shell commands recursively throughout the predefined directories, 2020-10-05T07:19:51+0000
+/project/prtgitlog/, prtgitlog, 0.1.18, A script to print 'git log' output in a concise informative format, 2019-07-29T13:27:41+0000
+/project/gbrestructure/, GBRestructure, 0.4.3, A CLI tool to help with multi-team Git branching strategies, 2017-01-13T20:38:22+0000
+/project/curmit/, curmit, 1.0, Grabs text from a URL and commits it., 2015-10-04T01:38:24+0000
+/project/gitkeep2/, gitkeep2, 1.0.0.post1, A tiny utility to force empty directories into a Git repo., 2018-12-22T00:26:29+0000
+/project/git-backup/, git-backup, 0.1.2, Script for backing up GitHub repositories, 2017-01-23T07:41:29+0000
+/project/versionary/, versionary, 0.4, Code versioning decorator, 2017-09-20T06:56:32+0000
+/project/scc/, scc, 0.15.1, OME tools for managing the git(hub) workflow, 2021-01-07T09:57:12+0000
+/project/seashells/, seashells, 0.1.2, The official client for Seashells.io, 2017-07-09T02:30:46+0000
+/project/better-than-you-found-it/, Better-Than-You-Found-It, 0.9.1, PEP8 clean only the parts of the files which you have touched since the last commit, a previous commit or (the merge-base of) a branch., 2014-10-06T04:41:34+0000
+/project/huawei-modem-api-client/, huawei-modem-api-client, 1.1.1, huaweisms is a python api client for Huawei Modems., 2021-02-08T11:29:18+0000
+/project/tartufo/, tartufo, 2.4.0, tartufo is a tool for scanning git repositories for secrets/passwords/high-entropy data, 2021-03-05T15:30:28+0000
+/project/git-author/, git-author, 0.1.0, git-author, a git command for managing multiple authors, 2019-02-06T15:40:13+0000
+/project/prcslib/, prcslib, 4.1, Python API for PRCS., 2020-04-11T20:29:48+0000
+/project/git-big/, git-big, 0.7.1, Git Big is a command line extension to Git for managing Write Once Read Many (WORM) files., 2018-08-01T01:16:09+0000
+/project/git-crecord/, git-crecord, 20201025.0, interactively select chunks to commit with Git, 2020-10-25T11:37:41+0000
+/project/git-svn-clone-externals/, git-svn-clone-externals, 1.1.6, Clone an svn checkout in a tree of nested git-svn repos and helper tools, 2016-09-21T07:15:22+0000
+/project/mohand/, mohand, 1.2.0, 通用自动化处理工具, 2019-12-15T06:44:04+0000
+/project/vci/, vci, 0.2.8, version control management from an index of listed workspaces, 2021-04-01T14:43:17+0000
+/project/trains/, trains, 0.16.4, TRAINS - Auto-Magical Experiment Manager & Version Control for AI, 2020-12-10T10:59:49+0000
+/project/gitlab-mr/, gitlab-mr, 0.3.0, Console utility to create gitlab merge requests., 2017-09-20T15:05:47+0000
+/project/migrations/, migrations, 0.1.1, Yet another Python migration tool, 2016-11-01T12:24:25+0000
+/project/hg-autohooks/, hg-autohooks, 0.1.0, Mercurial Autohooks Extension, 2015-05-22T00:23:58+0000
+/project/setuptools-dummy/, setuptools_dummy, 0.1.0.4, Setuptools Dummy Filefinder, 2010-01-12T15:50:44+0000
+/project/tshistory-formula/, tshistory-formula, 0.8.1, Computed timeseries plugin for `tshistory`, 2021-01-19T14:03:20+0000
+/project/mlhook-agent/, mlhook-agent, 0.0.0a0, mlhook-agent - temporary placeholder, 2020-10-16T11:33:27+0000
+/project/yourbase/, yourbase, 4.5.11, Skip tests based on tracing data, 2021-04-23T21:55:07+0000
+/project/simplediff/, simplediff, 1.0, Diff library with a dead-simple interface, 2012-09-05T18:28:31+0000
+/project/pyjamas-gitweb/, Pyjamas-GitWeb, 0.1, Web and Desktop (standalone application) Git repository browser, 2012-04-18T10:39:40+0000
+/project/repo-helper/, repo-helper, 2021.3.31, A tool to manage configuration files, build scripts etc. across multiple projects., 2021-03-31T11:20:53+0000
+/project/pingit/, pingit, 0.1a1, PINGIT batch management tool for multiple nested git repositories, 2019-01-13T13:22:02+0000
+/project/gh-favs/, gh_favs, 3.2, A small script to clone and update all your watched GitHub projects, 2012-02-24T20:51:03+0000
+/project/kids-vcs/, kids.vcs, 0.0.3, Kids VCS management library., 2019-04-02T14:05:12+0000
+/project/nbfilter/, nbfilter, 1.1.0, Filter .ipynb (nbformat) files to improve integration with version control systems (VCS), 2018-09-26T18:00:53+0000
+/project/svnwrap/, svnwrap, 0.8.2, Wrapper script for Subversion command-line client, 2020-02-17T15:46:46+0000
+/project/setuptools-rust/, setuptools-rust, 0.12.1, Setuptools Rust extension plugin, 2021-03-11T09:31:03+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/mohand/, mohand, 1.2.0, 通用自动化处理工具, 2019-12-15T06:44:04+0000
+/project/gst/, gst, 0.1.0, Git status tool, 2020-05-22T08:46:31+0000
+/project/vci/, vci, 0.2.8, version control management from an index of listed workspaces, 2021-04-01T14:43:17+0000
+/project/trains/, trains, 0.16.4, TRAINS - Auto-Magical Experiment Manager & Version Control for AI, 2020-12-10T10:59:49+0000
+/project/gitlab-mr/, gitlab-mr, 0.3.0, Console utility to create gitlab merge requests., 2017-09-20T15:05:47+0000
+/project/migrations/, migrations, 0.1.1, Yet another Python migration tool, 2016-11-01T12:24:25+0000
+/project/hg-autohooks/, hg-autohooks, 0.1.0, Mercurial Autohooks Extension, 2015-05-22T00:23:58+0000
+/project/setuptools-dummy/, setuptools_dummy, 0.1.0.4, Setuptools Dummy Filefinder, 2010-01-12T15:50:44+0000
+/project/tshistory-formula/, tshistory-formula, 0.8.1, Computed timeseries plugin for `tshistory`, 2021-01-19T14:03:20+0000
+/project/mlhook-agent/, mlhook-agent, 0.0.0a0, mlhook-agent - temporary placeholder, 2020-10-16T11:33:27+0000
+/project/yourbase/, yourbase, 4.5.11, Skip tests based on tracing data, 2021-04-23T21:55:07+0000
+/project/simplediff/, simplediff, 1.0, Diff library with a dead-simple interface, 2012-09-05T18:28:31+0000
+/project/pyjamas-gitweb/, Pyjamas-GitWeb, 0.1, Web and Desktop (standalone application) Git repository browser, 2012-04-18T10:39:40+0000
+/project/repo-helper/, repo-helper, 2021.3.31, A tool to manage configuration files, build scripts etc. across multiple projects., 2021-03-31T11:20:53+0000
+/project/pingit/, pingit, 0.1a1, PINGIT batch management tool for multiple nested git repositories, 2019-01-13T13:22:02+0000
+/project/gh-favs/, gh_favs, 3.2, A small script to clone and update all your watched GitHub projects, 2012-02-24T20:51:03+0000
+/project/sspider/, sspider, 1.3.5, A simple web crawling framework., 2019-06-05T01:02:22+0000
+/project/gickup/, gickup, 1.0, Automatic git backup script for multiple repositories, 2017-05-10T18:54:58+0000
+/project/saffron-cli/, saffron-cli, 0.1.11, blockchain artifact development tools, 2017-09-20T04:57:06+0000
+/project/flask-cognito-auth/, flask-cognito-auth, 1.0.5, Flask Cognito Authentication, 2021-03-16T13:00:18+0000
+/project/bugzillatools/, bugzillatools, 0.5.5, Bugzilla CLI client, XML-RPC binding and VCS plugins, 2015-04-25T08:13:13+0000
+/project/conventional/, conventional, 0.5.3, No frills command-line tool for processing structured commits., 2020-08-06T03:13:46+0000
+/project/gitinspector/, gitinspector, 0.3.2, A statistical analysis tool for git repositories., 2015-08-05T16:34:45+0000
+/project/autohooks-plugin-autopep8/, autohooks-plugin-autopep8, 0.0.4, Autohooks plugin for code formatting via autopep8, 2019-05-02T12:27:40+0000
+/project/mohand-plugin-expect/, mohand-plugin-expect, 1.0.6, MoHand插件，用以提供可自动控制其他终端应用的任务支持, 2018-10-07T12:29:43+0000
+/project/kids-vcs/, kids.vcs, 0.0.3, Kids VCS management library., 2019-04-02T14:05:12+0000
+/project/nbfilter/, nbfilter, 1.1.0, Filter .ipynb (nbformat) files to improve integration with version control systems (VCS), 2018-09-26T18:00:53+0000
+/project/hiss-cli/, hiss-cli, 0.0.6, Python database migration tool based on git's design., 2017-11-22T18:18:23+0000
+/project/git-branchless/, git-branchless, 0.0.5, Efficiently manage Git branches without leaving your local branch, 2021-04-24T18:53:22+0000
+/project/gitflow-wotw/, gitflow-wotw, 0.2.0, gitflow-avh in Python via pygit2, 2018-03-12T01:21:06+0000
+/project/tshistory-supervision/, tshistory-supervision, 0.9.2, Provide a supervision mechanism over `tshistory`, 2020-12-11T15:55:01+0000
+/project/django-sslcommerz/, django-sslcommerz, 1.0.0a0, , 2020-07-25T07:52:18+0000
+/project/mercurial-dynamic-username/, mercurial_dynamic_username, 1.1.1, Mercurial Dynamic Username Extension, 2020-06-27T22:34:26+0000
+/project/svnwrap/, svnwrap, 0.8.2, Wrapper script for Subversion command-line client, 2020-02-17T15:46:46+0000
+/project/setuptools-rust/, setuptools-rust, 0.12.1, Setuptools Rust extension plugin, 2021-03-11T09:31:03+0000
+/project/git-quotes/, git-quotes, 0.0.1, Add beautiful quotes to your commits automatically, 2018-04-21T17:35:52+0000
+/project/zalando-turnstile/, zalando-turnstile, 2.0, Turnstile - Zalando Local Git Hooks (META PACKAGE), 2015-06-14T18:00:52+0000
+/project/git-punchcard/, git-punchcard, 2.0.3, punchcard generator for git commit frequencies, 2019-10-30T23:49:53+0000
+/project/flask-cognito-extended/, Flask-Cognito-Extended, 0.2.7, Extended Cognito integration with Flask, 2021-02-14T11:53:06+0000
+/project/p4swamp/, p4swamp, 0.5, A pure Python wrapper for the Perforce command-line client, 2019-03-04T18:48:00+0000
+/project/scunch/, scunch, 0.5.8, Update svn working copy from folder., 2012-05-08T20:44:13+0000
+/project/smoking-gun/, smoking-gun, 1.0.2, The log capturing library., 2020-01-15T21:53:26+0000
+/project/dojo-referee/, dojo-referee, 0.1.0, Just another Coding Dojo assistant tool (but with GUI), 2018-09-02T22:55:40+0000
+/project/kallithea-auth-container-internal/, kallithea-auth-container-internal, 1.4, Kallithea authentication plugin that accepts both container and internal authentication sources, 2016-06-30T13:57:30+0000
+/project/git-id/, git-id, 1.1.2, An ID manager for git, 2020-12-02T14:42:14+0000
+/project/package-controller/, package-controller, 3.2.1, A CLI tool that acts as a wrapper for various other programs to make updating and publishing python and node packages easier, 2019-07-07T02:58:11+0000
+/project/simplegitweb/, simplegitweb, 0.1.6.1, A Python git web server that base on dulwich lib, 2018-07-01T21:19:28+0000
+/project/finsim/, finsim, 0.6.7, Financial simulation and inference, 2021-04-20T17:27:55+0000
+/project/zeitgitterd/, zeitgitterd, 1.0.5, Zeitgitter timestamping server, 2021-03-06T10:19:38+0000
+/project/repocribro/, repocribro, 0.1.2, Extensible sifting tool for information from GitHub repositories, 2017-02-15T08:13:08+0000
+/project/mcs/, mcs, 0.3.7, Monticello repository synchronization tool, 2012-03-19T18:51:28+0000
+/project/enversion/, enversion, 0.2.17, Enterprise Subversion Framework, 2015-03-10T19:13:28+0000
+/project/pyperforce/, PyPerforce, 0.3a1, A Python interface for the Perforce SCM, 2006-08-01T06:18:19+0000
+/project/thingitwrapper/, thingitwrapper, 0.1, Wrapper for git command line tool. For now functionality is limited to git commands needed for git-aflow project., 2015-02-14T14:59:44+0000
+/project/vcversioner/, vcversioner, 2.16.0.0, Use version control tags to discover version numbers, 2016-04-12T15:18:26+0000
+/project/pet-debian/, pet-debian, 1.2.74, PET is a collection of scripts that gather informatio about your packages, 2016-06-27T21:06:36+0000
+/project/python-gist/, python-gist, 0.10.3, Manage github gists, 2021-04-10T20:01:11+0000
+/project/git-sweep-merged-and-stale/, git-sweep-merged-and-stale, 1.0b1, Clean up branches from your Git remotes, 2021-03-04T23:25:47+0000
+/project/requests-ntlm2/, requests-ntlm2, 6.3.1, The HTTP NTLM proxy and/or server authentication library., 2021-02-08T14:06:22+0000
+/project/clearml-serving/, clearml-serving, 0.3.1, clearml-serving - Model-Serving Orchestration and Repository Solution, 2021-04-12T00:30:03+0000
+/project/gitconflict/, gitconflict, 0.1, Git merge-conflicts checker, 2015-02-14T15:03:07+0000
+/project/kevin/, kevin, 0.6, Self-hostable continuous integration toolkit, 2018-09-19T20:58:04+0000
+/project/tshistory-xl/, tshistory-xl, 0.2.0, Light client for excel/tshistory, 2020-12-11T17:36:57+0000
+/project/lektor-git-timestamp/, lektor-git-timestamp, 0.1, Lektor type to deduce page modification time from git, 2021-02-05T22:06:54+0000
+/project/bombardier-server/, bombardier_server, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:29+0000
+/project/cico/, cico, 0.1.8, deploy CI results to git, 2018-07-09T15:21:39+0000
+/project/fork2gitlab/, fork2gitlab, 0.1.1, A script to help forking a project to gitlab and keeping it updated downstream, 2020-04-13T21:11:57+0000
+/project/caribou/, caribou, 0.2.1, python migrations for sqlite databases, 2009-11-15T19:04:50+0000
+/project/git-jira-attacher/, git-jira-attacher, 0.1, Utility for integrating Git and JIRA workflows, 2009-07-28T20:16:09+0000
+/project/git-repo/, git-repo, 1.10.3, Tool for managing repository services from your git CLI tool, 2017-11-18T19:40:27+0000
+/project/gitchangelog/, gitchangelog, 3.0.4, gitchangelog generates a changelog thanks to git log., 2018-12-21T14:01:05+0000
+/project/assigner/, assigner, 3.1.1, Automatically assign programming homework to students on GitLab, 2021-03-01T16:39:54+0000
+/project/poetry-scmver/, poetry-scmver, 0.1.2.dev6, Plugin for Poetry to enable dynamic versioning based on VCS tags for semver, 2019-12-16T14:22:55+0000
+/project/moear-spider-zhihudaily/, moear-spider-zhihudaily, 1.1.1, MoEar爬虫功能扩展插件 - 知乎日报, 2018-06-17T04:17:56+0000
+/project/vee/, vee, 1.0.0.dev0, Versioned Execution Environments, 2020-08-18T14:42:50+0000
+/project/pep8radius/, pep8radius, 0.9.2, PEP8 clean only the parts of the files which you have touched since the last commit, a previous commit or (the merge-base of) a branch., 2015-04-13T06:14:32+0000
+/project/ufmt/, ufmt, 1.2.1, Safe, atomic formatting with black and µsort, 2021-04-13T06:13:07+0000
+/project/moear-package-mobi/, moear-package-mobi, 1.1.2.post0, MoEar打包功能扩展插件 - Mobi, 2018-06-17T02:06:14+0000
+/project/mddatasetbuilder/, mddatasetbuilder, 1.3.1, A script to make molecular dynamics (MD) datasets for neural networks from given LAMMPS trajectories automatically., 2021-03-29T05:40:28+0000
+/project/pybitbucket/, pybitbucket, 0.12.0, A Python wrapper for the Bitbucket API, 2016-12-02T23:20:19+0000
+/project/scd/, scd, 1.2.3, Something Completely different, 2017-02-14T14:56:06+0000
+/project/git-test/, git-test, 0.1.0, Run automated tests against a range of Git commits and keep track of the results, 2020-07-10T14:56:46+0000
+/project/import-git-files/, import-git-files, 0.1.0, Import files from git repositories to local destinations., 2020-07-13T16:53:45+0000
+/project/hg-github/, hg-github, 0.1.5, A Mercurial extension for working with GitHub repositories, 2014-07-13T01:08:32+0000
+/project/hg-commit-sanity/, hg-commit-sanity, 0.0.1, Mercurial extension to do sanity checks on commits., 2013-08-22T18:18:47+0000
+/project/fogbugz/, fogbugz, 1.0.6, Python library for interacting with the FogBugz API, 2016-11-01T14:47:06+0000
+/project/redblackgraph/, RedBlackGraph, 0.3.15, Red Black Graph, 2020-04-17T23:14:14+0000
+/project/yamlwrap/, yamlwrap, 1.0.0, VCS-friendly documents in YAML, 2021-04-25T13:43:28+0000
+/project/sqlalchemy-pydantic-orm/, sqlalchemy-pydantic-orm, 0.1.0, CRUD operations on nested SQLAlchemy ORM-models using Pydantic, 2021-04-25T16:30:30+0000
+/project/nbstripout/, nbstripout, 0.4.0, Strips outputs from Jupyter and IPython notebooks, 2021-04-25T17:41:05+0000
+/project/django-yamldoc/, django-yamldoc, 1.0.0, Quoins for static sites, 2021-04-25T19:24:06+0000
+/project/yt-videos-list/, yt-videos-list, 0.5.5, YouTube bot to make a YouTube videos list (including all video titles and URLs uploaded by a channel) with end-to-end web scraping - no API tokens required. 🌟 Star this repo if you found it useful! 🌟, 2021-04-26T00:41:23+0000
+/project/kids-file/, kids.file, 0.0.7, Kids file management library., 2019-04-02T13:20:55+0000
+/project/gitlab-registry-usage-rest/, gitlab-registry-usage-rest, 0.3.2, A restful web service for querying the repository sizes of a GitLab registry., 2021-03-17T06:45:37+0000
+/project/od-client/, od-client, 0.1.0, Python client for Oxford Dictionaries API, 2018-08-13T23:30:12+0000
+/project/repocribro-badges/, repocribro-badges, 0.1, Extension of repocribro for assigning badges to repositories, 2020-12-26T09:04:54+0000
+/project/fogbugz-bis/, fogbugz-bis, 1.1, Python library for interacting with the FogBugz API, 2019-04-17T13:59:37+0000
+/project/gitdh/, gitdh, 0.7.4, Tool to automatically deploy git commits using post-receive hooks and cron jobs, 2015-09-06T15:55:15+0000
+/project/git-lint/, git-lint, 0.1.2, Git Lint, 2018-05-24T18:10:15+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/giterm/, giterm, 0.6.5, A terminal-based GUI client for Git, 2017-04-16T08:12:24+0000
+/project/automergetool/, automergetool, 0.3.0, A tool to simplify the process of solving conflicts after a git merge, rebase or cherry-pick., 2018-01-18T19:14:57+0000
+/project/rc-cli/, rc-cli, 0.4.1, RoseCloud CLI, 2019-03-28T19:29:00+0000
+/project/replicate-github/, replicate-github, 1.0.0, Tool for maintaining mirrors of GitHub repos, 2017-09-14T22:07:23+0000
+/project/vcstool/, vcstool, 0.2.15, vcstool provides a command line tool to invoke vcs commands on multiple repositories., 2020-10-26T23:21:15+0000
+/project/car2lammpsdata/, car2lammpsdata, 0.0.3, car2lammpsdata, 2019-07-18T09:31:32+0000
+/project/turnstile-core/, turnstile-core, 2.2.1, Turnstile - Local Git Hooks, 2017-07-01T12:44:03+0000
+/project/fs-crawler/, fs-crawler, 0.2.0, FamilySearch Crawler - extracts files for RedBlackGraph ingestion, 2020-09-02T15:12:21+0000
+/project/pithy/, pithy, 0.0.13, Pithy is a collection of utility libraries for Python 3., 2020-05-06T16:09:48+0000
+/project/infrae-i18nextract/, infrae.i18nextract, 1.3.1, Buildout recipe to extract i18n files in Silva, 2013-05-23T11:40:01+0000
+/project/gitsup/, gitsup, 0.3.0, Git submodule updater, 2019-11-17T16:19:14+0000
+/project/autohooks-gk-fork-wip/, autohooks-gk-fork-wip, 2.2.1.dev100, Library for managing git hooks, 2020-12-03T02:16:41+0000
+/project/pybitbucket37/, pybitbucket37, 0.0.2, A Python wrapper for the Bitbucket API, 2020-10-02T06:39:06+0000
+/project/git-meta/, git-meta, 0.2.1, Git repository manager, 2020-12-20T17:37:10+0000
+/project/jig/, jig, 0.1.11, Check your code for stuff before you `git commit`, 2015-02-28T17:20:20+0000
+/project/pytest-mercurial/, pytest-mercurial, 0.1.0, pytest plugin to write integration tests for projects using Mercurial Python internals, 2020-11-21T21:10:35+0000
+/project/hg-versions/, hg-versions, 0.4.1, display the version information for Mercurial and all installed extensions, 2012-02-08T22:46:10+0000
+/project/autohooks-plugin-isort/, autohooks-plugin-isort, 1.0.0, Autohooks plugin for include sorting via isort, 2019-08-26T09:50:03+0000
+/project/bzr-colo/, bzr-colo, 0.4.0, Work with colocated Bazaar branches using current technology., 2012-01-31T03:40:01+0000
+/project/dcc/, dcc, 0.1.0, Django Contributing Commons.
+
+Django-CC makes contributing to PyPI packages a breeze.
+It will download the package source code and sets you up
+so you can focus on developing amazing new features., 2016-02-09T11:05:16+0000
+/project/github-action-template/, github-action-template, 0.0.1, A light template and boilerplate generator for GitHub actions written in Python 3.8+, 2020-12-09T16:46:39+0000
+/project/setuptools-subversion/, setuptools_subversion, 3.1, Setuptools revision control system plugin for Subversion, 2012-10-15T10:04:06+0000
+/project/spark-tensorflow-distributor/, spark-tensorflow-distributor, 0.1.0, This package helps users do distributed training with TensorFlow on their Spark clusters., 2020-06-30T21:26:27+0000
+/project/glhooks/, glhooks, 0.1.0, Service for automatic updating of git repositories from GitLab., 2014-01-14T15:11:18+0000
+/project/mu-repo/, mu-repo, 1.8.1, Tool to work with multiple git repositories, 2020-10-12T13:17:28+0000
+/project/mercurial-all-paths/, mercurial_all_paths, 1.2.1, Mercurial allpaths extension, 2020-06-27T22:41:35+0000
+/project/git-toggle/, git-toggle, 0.1.1, Toggle Git remotes between https and ssh., 2021-03-30T08:57:29+0000
+/project/pyipcmi/, pyIPCMI, 1.1.5, An IP Core Management Infrastructure written in Python - pyIPCMI., 2019-10-13T23:30:09+0000
+/project/tshistory/, tshistory, 0.12.3, Timeseries store with version control, 2020-12-11T15:36:09+0000
+/project/lairucrem/, lairucrem, 5.3.0, A simple and powerful text-based interactive user interface for Mercurial, 2021-01-21T19:59:44+0000
+/project/githubbot/, githubbot, 0.4.2, Automatically labels repositories' issues or pull requests on GitHub., 2016-10-29T13:52:07+0000
+/project/githooks/, githooks, 0.5, Set of Git hooks for pep8, pyflakes, jslint and trac integration, 2011-12-06T12:29:41+0000
+/project/gitflow/, gitflow, 0.5.1, Git extensions to provide high-level repository operations for Vincent Driessen's branching model., 2013-02-16T17:10:56+0000
+/project/pybitbucket-fork/, pybitbucket_fork, 0.12.2, Fork of a Python wrapper for the Bitbucket API, 2017-04-29T22:48:43+0000
+/project/p4python/, p4python, 2020.1.2056111, P4Python - Python interface to Perforce API, 2020-12-16T16:32:08+0000
+/project/npmdownloader/, npmdownloader, 1.2.1, NPM Package Downloader, 2020-07-18T06:57:22+0000
+/project/sci-api-req/, sci-api-req, 0.2.1, Provider for scientific APIs, 2019-08-29T19:41:25+0000
+/project/immureii/, immureii, 0.42.10, Immure Iniquitous Intent, 2021-03-22T23:10:15+0000
+/project/giup/, GIUP, 1.0.0, Interactively and hierarchically perform git merges across branches and run commands in between., 2021-01-31T22:57:50+0000
+/project/django-exception-blame/, django-exception-blame, 0.1.1, Show blame in a exception., 2016-04-14T23:20:37+0000
+/project/pyvcs/, pyvcs, 0.2.0, A lightweight abstraction layer over multiple VCSs., 2009-07-12T15:26:54+0000
+/project/gitup/, gitup, 0.5.1, Easily update multiple git repositories at once, 2019-09-20T04:38:09+0000
+/project/git-scan/, git-scan, 0.2.1, Scan local or remote git repositories for history divergent from origin, 2019-07-15T01:16:54+0000
+/project/tcversioner/, tcversioner, 2.16.0.0.post6, Use version control tags to discover version numbers, 2017-12-12T23:06:23+0000
+/project/glica/, glica, 0.4.7, GitLab Instant Changelog Assurance (GLICA) for ensuring up-to-date CHANGELOG.md files!, 2018-12-30T05:44:39+0000
+/project/trac/, Trac, 1.4.2, Integrated SCM, wiki, issue tracker and project environment, 2020-06-17T05:27:31+0000
+/project/git-deps/, git-deps, 1.1.0, automatically detect dependencies between git commits, 2021-04-04T00:05:55+0000
+/project/z3c-setuptools-mercurial/, z3c.setuptools_mercurial, 1.1.1, Mercurial File Finder Plugin for Setuptools, 2010-08-30T21:03:06+0000
+/project/dev-pipeline-git/, dev-pipeline-git, 0.4.4, git plugin for dev-pipeline, 2019-12-04T07:01:10+0000
+/project/batman/, Batman, 0.7.0, A deployment toolbelt, 2013-09-20T21:35:36+0000
+/project/gwsa/, gwsa, 1.1.3, git workspace automation, 2018-12-25T01:08:29+0000
+/project/diff-hilite/, diff-hilite, 2.0, Diff wrapper/filter for intra-line changes highlighting, 2020-06-26T09:32:53+0000
+/project/pyghub/, PyGHub, 0.0.4, A github module for Python, 2020-11-02T20:19:10+0000
+/project/pony-express/, pony-express, 0.2.5a2, General purpose package and dependency manager based on MongoDB, 2017-05-20T09:19:23+0000
+/project/geospade/, geospade, 0.1.0, A place for classes and properties of raster and vector geometries and their geospatial operations alike., 2021-04-19T13:05:33+0000
+/project/omnizart/, omnizart, 0.3.2, Omniscient Mozart, being able to transcribe everything in the music., 2021-02-13T09:27:16+0000
+/project/ghupdatesecret/, ghupdatesecret, 0.0.2, A command-line utility to update GitHub repository secrets., 2020-08-01T09:16:39+0000
+/project/post-review/, post-review, 1.3.0, unified command line interface for posting code reviews and merge requests, 2017-08-08T15:01:33+0000
+/project/fossilpy/, fossilpy, 0.3.1, Simple pure-python library for reading Fossil repositories., 2019-12-28T12:29:28+0000
+/project/arca/, arca, 0.3.3, A library for running Python functions (callables) from git repositories in various states of isolation with integrating caching., 2019-12-10T21:52:22+0000
+/project/dotignore/, dotignore, 0.0.2, Command line tool to generate ignore files, 2020-09-18T10:26:18+0000
+/project/fit-ctu-gitlab-exporter/, fit-ctu-gitlab-exporter, 1.0.0, Tool for exporting projects from FIT CTU GitLab to GitHub, 2021-02-10T21:38:00+0000
+/project/version-utils/, version_utils, 0.3.0, Library for parsing system package strings and comparing package versions, 2016-07-16T00:21:14+0000
+/project/dzonegit/, dzonegit, 0.14, Git hooks to manage a repository of DNS zones, 2020-05-26T09:16:26+0000
+/project/git-devbliss/, git_devbliss, 2.0.6, Tool supporting the devbliss Git/GitHub Workflow, 2014-10-22T08:21:10+0000
+/project/thin-deployer/, Thin-Deployer, 1.1.0, Webhook handler that can be used to deploy on push for example, 2019-04-15T12:34:54+0000
+/project/tracbzr/, TracBzr, 0.4.2, Bazaar plugin for Trac, 2010-11-01T13:46:39+0000
+/project/gerrit-hooks/, gerrit-hooks, 2.0.0, Utility for writing Gerrit Hooks in python, 2018-11-23T22:24:58+0000
+/project/giternity/, giternity, 0.5, Mirror git repositories and retrieve metadata for cgit., 2019-03-25T20:02:08+0000
+/project/gir/, gir, 0.0.0, git interactive rebase todo list editor, 2015-05-28T02:34:08+0000
+/project/git-up/, git-up, 2.0.2, A python implementation of 'git up', 2020-12-30T13:42:29+0000
+/project/gitversion/, gitversion, 2.1.3, Utility to get the git version of a package., 2014-02-19T16:32:40+0000
+/project/git-remote-dropbox/, git-remote-dropbox, 1.1.4, A transparent bidirectional bridge between Git and Dropbox, 2020-12-18T21:58:33+0000
+/project/tracemaildigestplugin/, TracEmailDigestPlugin, 0.1, Email notifications & daily digests for tickets in Trac, 2011-09-06T11:17:53+0000
+/project/pypi-server/, pypi-server, 0.4.8, Tornado PyPi server, 2018-10-14T18:11:16+0000
+/project/klaus/, klaus, 1.5.2, The first Git web viewer that Just Works™., 2020-02-29T15:40:44+0000
+/project/libversion/, libversion, 1.2.3, Python bindings for libversion, 2021-03-10T13:08:06+0000
+/project/hgsubversion/, hgsubversion, 1.9.3, hgsubversion is a Mercurial extension for working with Subversion repositories., 2018-11-03T03:35:50+0000
+/project/ingit/, ingit, 0.4.8, git repository collection management tool, 2019-08-24T08:17:02+0000
+/project/fragmap/, fragmap, 0.3.1, Visualize a timeline of Git commit changes on a grid, 2019-09-05T18:49:40+0000
+/project/gitk-class-diagram/, gitk-class-diagram, 1.0.0, Class diagrams based on commit diffs, 2020-02-22T14:40:33+0000
+/project/galactica-terminus/, galactica-terminus, 0.5rc6, TODO, 2020-11-18T13:14:15+0000
+/project/scmver/, scmver, 1.1, A package version manager based on SCM tags, 2020-11-04T12:43:30+0000
+/project/pythonfetch/, pythonfetch, 0.11.5, Python and system information command-line tool, 2021-04-20T17:48:51+0000
+/project/pithytools/, pithytools, 0.0.1, Pithytools is a collection of command line utilities., 2020-05-06T16:10:08+0000
+/project/git-multimail/, git-multimail, 1.5.0.post1, Send notification emails for Git pushes, 2019-01-21T20:31:51+0000
+/project/pythonrlsa/, pythonRLSA, 1.0.0, Python Run Length Smoothing Algorithm for Document Processing, 2021-02-06T11:33:55+0000
+/project/silver-platter/, silver-platter, 0.4.1, Automatic merge proposal creeator, 2021-02-17T22:45:15+0000
+/project/checkpoint/, Checkpoint, 0.1, Checkpoint is a simple media archive management system., 2009-01-08T22:29:15+0000
+/project/django-crispy-views/, django-crispy-views, 1.0.1, crispy views for django., 2020-10-05T08:21:00+0000
+/project/gitprivacy/, gitprivacy, 2.0.0, Git wrapper redacting author and committer dates., 2020-08-10T13:06:50+0000
+/project/zoom/, zoom, 0.0.15, Distributed project management, 2016-02-18T06:23:35+0000
+/project/git-upload/, git-upload, 0.0.6, A tool to upload patches to a git or gerrit repository, 2018-01-11T06:32:50+0000
+/project/version-merger/, version-merger, 1.0.3, Automatically track and save regularly changing files., 2016-03-08T07:32:36+0000
+/project/gitman/, gitman, 2.3.2, A language-agnostic dependency manager using Git., 2021-04-08T13:03:01+0000
+/project/hublatest/, HubLatest, 0.1.3, Script to automatically download latest release from GitHub repos, 2020-04-25T14:32:45+0000
+/project/setuptools-git-ls-files/, setuptools-git-ls-files, 0.1.2, Use git to list all files, including submodules, 2020-02-15T18:56:15+0000
+/project/refclone/, refclone, 0.1, A wrapper for "git clone" that keeps git repo directories organized, 2018-07-08T13:01:31+0000
+/project/unpushed/, unpushed, 1.3.0, Scan version control for uncommitted and unpushed changes, 2018-03-15T11:38:52+0000
+/project/git-goggles/, git-goggles, 0.2.12, A series of GIT utilities to streamline working with remote branches and reviewing code. You can think of git-goggles as 'git branch -a' on steroids. Just install and run 'git goggles', 2011-11-23T16:54:35+0000
+/project/reposync/, reposync, 0.8.0, Organize git repositories., 2020-02-09T14:39:47+0000
+/project/hgnested/, hgnested, 0.8, Mercurial extension to work with nested repositories, 2016-08-10T08:01:27+0000
+/project/gitlsfiles/, gitlsfiles, 0.1.1, setuptools integration for Git, 2007-09-27T23:39:33+0000
+/project/chewy/, chewy, 0.4, Python script to manage CMake modules, 2013-12-03T12:42:42+0000
+/project/gitrecipe/, gitrecipe, 0.0.2, Simple buildout recipe for downloading git repositories. It uses system git command and its syntax, 2012-02-20T06:24:48+0000
+/project/django-vcs/, django-vcs, 0.1, A pluggable django application to allow browsing of code repositories., 2009-07-05T17:08:18+0000
+/project/sqlalchemy-pydantic-orm/, sqlalchemy-pydantic-orm, 0.1.0, CRUD operations on nested SQLAlchemy ORM-models using Pydantic, 2021-04-25T16:30:30+0000
+/project/patchouli/, patchouli, 0.1.2, Interactive patch file splitting tool, 2015-09-21T07:44:42+0000
+/project/meldutils/, meldutils, 2.1.0, Graphical recursive file diffing (Meld, VS Code), good for managing templates across lots of repos / projects, 2020-12-21T22:21:22+0000
+/project/mummify/, mummify, 1.3.0, Version control for machine learning, 2020-08-20T02:40:31+0000
+/project/github-repo-opener/, github-repo-opener, 0.1.2, A tool to open your GitHub repository page quickly., 2018-10-16T03:05:25+0000
+/project/simple-spiders/, simple-spiders, 0.1.5, A simple web crawling framework., 2019-03-12T07:52:29+0000
+/project/setuptools-requirements-vcs-version/, setuptools-requirements-vcs-version, 0.1.0, Extract package version from requirements.txt VCS URLs, 2017-05-29T14:46:09+0000
+/project/ecnunetwork/, ecnunetwork, 1.1.6, A script to connect to Internet at East China Normal University (ECNU)., 2019-07-23T09:35:10+0000
+/project/tidyextractors/, tidyextractors, 0.3.4, A collection of tools for extracting data into tidy DataFrames., 2017-06-30T18:04:56+0000
+/project/gaussianrunner/, gaussianrunner, 1.0.21, A script to run Gaussian automatically., 2019-11-19T00:22:15+0000
+/project/clincher/, clincher, 1.0, Clincher is a tool for checking that all the commits in a git repo are signed, 2018-10-22T19:48:13+0000
+/project/jet/, jet, 1.0, A simple to use, yet powerful version control system, 2015-05-09T13:22:19+0000
+/project/cspace-hgsite/, cspace-HgSite, 1.1, Serve a web site straight out of a Mercurial repository, 2013-06-09T15:01:33+0000
+/project/lethe/, lethe, 0.11, Git-based snapshotting, 2021-02-07T03:22:16+0000
+/project/southwark/, southwark, 0.8.1, Extensions to the Dulwich Git library., 2021-03-17T23:18:59+0000
+/project/aimelia/, Aimelia, 15, Aimelia command-line client, 2017-04-02T17:41:30+0000
+/project/kconmd/, kconmd, 1.0.17, Molecular dynamics (MD) simulations supported by k-Bags Convolutional Neural Network (kcon)., 2019-02-05T19:01:27+0000
+/project/bzr-automirror/, bzr-automirror, 0.1.0, Automatically mirror Bazaar branches on every change., 2009-11-25T17:29:05+0000
+/project/pbsmonitor/, pbsmonitor, 1.0.6, A PBS job monitor powered by CoolQ., 2019-02-06T13:32:28+0000
+/project/huobitrade/, huobitrade, 0.5.6, HuoBi Trading Framwork(python), 2019-07-15T01:14:29+0000
+/project/veranda/, veranda, 0.1.1, veranda is a place for IO related classes and operations dealing with vector and raster data., 2021-02-08T16:14:31+0000
+/project/anybox-pg-odoo/, anybox.pg.odoo, 0.6, Postgresql database snapshot versionning tool, 2014-11-02T10:13:55+0000
+/project/gitifyhg/, gitifyhg, 0.8.4, Use git as client for hg repos, 2013-11-09T23:22:53+0000
+/project/gitfaces/, gitfaces, 0.3.0, Fetch contributor avatars for a GitHub repository, 2020-09-15T09:52:34+0000
+/project/git-rsrc/, git-rsrc, 0.1.0, Manage git repo from a distant location (within the same machine), 2017-12-12T22:38:31+0000
+/project/autoblockchainify/, autoblockchainify, 0.9.5, Turn a directory into a git-based Blockchain, 2021-01-17T08:55:27+0000
+/project/git-delete-merged-branches/, git-delete-merged-branches, 6.0.5, Command-line tool to delete merged Git branches, 2020-10-07T15:19:21+0000
+/project/django-versions/, django-versions, 1.0.1, A django application to enable versioning of data stored in Django models., 2010-08-17T21:32:39+0000
+/project/heptapod/, heptapod, 2.6.2, Heptapod server-side Mercurial hooks, extension, etc., 2021-04-15T20:56:51+0000
+/project/dikort/, dikort, 0.2.1, Commit messages checking tool., 2021-03-18T10:51:39+0000
+/project/ggci/, ggci, 0.3.0, GitLab Google Chat Integration, 2021-04-15T08:24:22+0000
+/project/gitpm/, gitpm, 0.7.1, Efficient code-base management based on git., 2021-01-02T07:23:12+0000
+/project/svnpuppy/, svnpuppy, 0.0.1, Subversion backup script, 2009-04-02T06:31:35+0000
+/project/gh-commander/, gh-commander, 0.1.0.dev20150322, GitHub Commander – A tool to access the GitHub APIv3 from the CLI and automate otherwise tedious tasks., 2015-03-22T18:17:32+0000
+/project/repocribro-file/, repocribro-file, 0.1, Repocribro extension allowing getting repo information from defined file, 2020-12-26T09:04:27+0000
+/project/synchg/, SyncHg, 1.0.0, A simple script & library to handle syncing remote mercuial repositories, 2013-01-24T22:21:13+0000
+/project/gitcher/, gitcher, 3.2, The git profile switcher., 2020-04-18T17:32:58+0000
+/project/python-kacl/, python-kacl, 0.2.21, Pyhton module and CLI tool for validating and modifying Changelogs in "keep-a-changelog" format", 2021-03-31T13:27:39+0000
+/project/git-adapter/, git-adapter, 0.2.5, A Python interface to the Git command line., 2020-09-28T18:26:08+0000
+/project/mcrepogen/, MCREPOGEN, 0.3, Markov Chain Repository Generator, 2009-11-04T20:25:43+0000
+/project/miniver/, miniver, 0.7.0, minimal versioning tool, 2020-08-15T23:01:34+0000
+/project/gibra/, gibra, 1.0.4, Git Binary Repository Assistant, 2018-04-04T19:21:41+0000
+/project/moprofiler/, moprofiler, 1.1.0, 综合性能分析工具，集成了内存使用、执行时间的分析器，及秒表打点工具, 2019-02-20T08:39:18+0000
+/project/git-imerge/, git-imerge, 1.2.0, Incremental merge for git, 2020-09-20T13:41:52+0000
+/project/redsolutioncms-django-utilities/, redsolutioncms.django-utilities, 0.1.5, Django's set of utilities. Includes admin ImageField with preview, override for username,
+Localized date filter, ConsoleException middleware and broken link highlight template., 2012-04-09T10:48:59+0000
+/project/git-edit-index/, git-edit-index, 0.6, A git command that opens an editor to stage or unstage files., 2019-07-21T12:55:56+0000
+/project/cmp-version/, cmp_version, 3.0.0, A script and python module to compare version numbers. Use this to compare the version strings of packages, modules, really anything., 2018-04-18T00:42:37+0000
+/project/sally/, sally, 0.1.0, A command line tool to check the status of repositories in all subdirectories, 2015-01-02T03:39:06+0000
+/project/povies/, povies, 1.1.2, Python wrapper for YTS.ag, 2017-10-10T10:09:29+0000
+/project/semver-tool/, semver-tool, 3.0.4, semantic version helper tool, 2019-06-03T21:36:35+0000
+/project/dcso-portal-python-sdk/, dcso-portal-python-sdk, 1.0.0b4, DCSO Portal SDK, 2021-02-08T19:04:29+0000
+/project/cli-github/, cli-github, 1.0.9, Github inside the Command Line, 2015-07-19T07:43:58+0000
+/project/odyssey/, odyssey, 1.0.2, A Multi-SCM Multi-Repository Workspace Management Framework, 2020-06-15T06:32:18+0000
+/project/autohooks-plugin-black/, autohooks-plugin-black, 1.2.0, Autohooks plugin for code formatting via black, 2019-11-21T11:39:08+0000
+/project/lcg-neuro-plx/, lcg-neuro-plx, 0.3.1, Parsing of PLX neurophysiological data files in Python, 2019-08-07T15:15:56+0000
+/project/tshistory-rest/, tshistory-rest, 0.9.1, Timeseries histories http front, 2020-09-22T14:46:37+0000
+/project/allgit/, allgit, 1.0, Powerful "git multiplexer" for easily working with many repositories, 2021-02-11T21:13:36+0000
+/project/git-orm/, git-orm, 0.4, object-relational mapper for the git object store, 2014-01-20T20:52:57+0000
+/project/glerbl/, glerbl, 0.1.1, Glerbl manages git hooks., 2019-03-11T17:04:36+0000
+/project/ignorelib/, ignorelib, 0.3.0, Use the syntax and semantics of gitignore with custom ignore file names and locations, 2020-10-27T15:29:28+0000
+/project/gitsnapshot/, gitsnapshot, 0.1.2, Python module to simplify loading of snapshot of git repository, 2020-05-25T17:24:37+0000
+/project/repo-helper-github/, repo-helper-github, 0.7.0, Manage GitHub repositories with repo-helper., 2021-04-07T17:12:00+0000
+/project/stellar/, stellar, 0.4.5, stellar is a tool for creating and restoring database snapshots, 2018-04-17T07:00:21+0000
+/project/gitrisky/, gitrisky, 0.1.3, Predict code bug risk with git metadata, 2019-12-08T19:36:11+0000
+/project/setuptools-hg/, setuptools_hg, 0.4, Setuptools/distribute plugin for finding files under Mercurial version control., 2012-02-02T14:45:44+0000
+/project/gitlab-job-guard/, gitlab-job-guard, 0.0.4.3, Guard gitlab jobs from multiple simultaneous executions, 2019-04-17T00:58:39+0000
+/project/simiotics-s3/, simiotics-s3, 0.2.1, Simiotics S3 integration, 2019-09-23T09:09:51+0000
+/project/git-anon/, git-anon, 0.1.1, Anonymous Git with Signatures, 2021-04-14T16:19:36+0000
+/project/breezy/, breezy, 3.1.0, Friendly distributed version control system, 2020-06-09T02:16:47+0000
+/project/mercurial-bitbucketize/, mercurial_bitbucketize, 0.9.4, Mercurial Bitbucketize Extension, 2020-06-27T22:39:21+0000
+/project/sempylver/, sempylver, 1.4.5, A simple tool for tracking the semantic version of projects, 2018-01-02T15:44:09+0000
+/project/simple-git-deploy/, simple-git-deploy, 0.6, A command-line utility for easy and reliable management of manual deployments from Git repositories, 2020-09-22T01:58:02+0000
+/project/ore-svn/, ore.svn, 1.0.5, An object oriented api for subversion with support for r/w, 2008-05-07T19:45:15+0000
+/project/dpxdt/, dpxdt, 0.1.5, Screenshot diff tool, 2014-10-20T20:06:37+0000
+/project/dulwichtest/, dulwichTest, 0.18.7, Python Git Library, 2017-12-08T15:32:22+0000
+/project/setupmeta/, setupmeta, 3.1.0, Simplify your setup.py, 2021-04-15T18:20:38+0000
+/project/bundleman/, bundleman, 1.3.0, Manage svn bundle releasing., 2009-03-26T19:53:20+0000
+/project/mercurial-all-dirs/, mercurial_all_dirs, 1.1.2, Mercurial All Dirs Extension, 2021-04-02T07:45:30+0000
+/project/rosrepo/, rosrepo, 3.0.90, Manage ROS workspaces with multiple Gitlab repositories, 2020-01-22T15:54:26+0000
+/project/req-update/, req-update, 1.5.0, Req Update, 2021-04-04T02:31:06+0000
+/project/pygithubutils/, pygithubutils, 1.0.2, Manage large 1..1000 user teams for classroom and insitutions with GitHub API calls., 2020-05-10T18:09:44+0000
+/project/medali/, medali, 0.1.1, medali is responsible for parsing, tagging and interpreting product metadata, 2021-03-15T10:47:43+0000
+/project/clearml/, clearml, 0.17.5, ClearML - Auto-Magical Experiment Manager, Version Control, and MLOps for AI, 2021-03-16T14:57:31+0000
+/project/git-blackhole/, git-blackhole, 0.1.0.post1, Continuous backup and recoverable trash can for Git, 2017-12-13T07:37:22+0000
+/project/banksync/, banksync, 0.9.4, A library for manipulating banks of git repositories, 2019-05-29T04:23:48+0000
+/project/pristine-lfs/, pristine-lfs, 20210404.0, a pristine-tar replacement that works with Git LFS, 2021-04-04T19:28:15+0000
+/project/django-yamldoc/, django-yamldoc, 1.0.0, Quoins for static sites, 2021-04-25T19:24:06+0000
+/project/gitver/, gitver, 0.3.1, Simple version string management for git, 2014-01-19T15:22:15+0000
+/project/hglist/, hglist, 0.3, An ls command for Mercurial, 2012-12-13T16:39:47+0000
+/project/moear-api-common/, moear-api-common, 1.0.2.post2, 为MoEar扩展插件提供接口定义以及通用组件, 2018-04-08T14:03:43+0000
+/project/mercurial-on-remote/, mercurial_on_remote, 1.0.3, Mercurial OnRemote Extension, 2021-04-02T07:37:36+0000
+/project/dulwich/, dulwich, 0.20.21, Python Git Library, 2021-03-25T23:39:40+0000
+/project/mercurial/, mercurial, 5.7.1, Fast scalable distributed SCM (revision control, version control) system, 2021-03-09T05:51:36+0000
+/project/git-remote-couch/, git-remote-couch, 0.1a2, a git-remote-helper that allows you to push source code into a CouchDB, 2010-08-11T13:11:44+0000
+/project/forkfeed/, forkfeed, 0.1.4, Utility do build atom feeds for all commits in all forks of your projects on GitHub., 2011-03-25T07:47:11+0000
+/project/xunique/, xUnique, 4.1.4, A converter of the Xcode project file to make merging it much easier in VCS, 2016-04-07T08:16:52+0000
+/project/svnpublish/, svnpublish, 2.12, Enables powerful automation from a subversion repository., 2014-02-19T21:26:23+0000
+/project/pytest-gitignore/, pytest-gitignore, 1.3, py.test plugin to ignore the same files as git, 2015-07-17T14:50:16+0000
+/project/prometheus-xmpp-alerts/, prometheus-xmpp-alerts, 0.5.1, Prometheus XMPP Alerts hook, 2021-03-09T15:23:54+0000
+/project/git-workflow/, git-workflow, 0.1.5, Utilities for streamlining our git workflow., 2021-04-21T18:28:14+0000
+/project/word2number/, word2number, 1.1, Convert number words eg. three hundred and forty two to numbers (342)., 2017-06-02T15:45:14+0000
+/project/bzr/, bzr, 2.7.0, Friendly distributed version control system, 2016-02-07T17:08:53+0000
+/project/natcap-versioner/, natcap.versioner, 0.5.0, PEP440-compliant Git and hg versioning, 2016-11-15T05:12:53+0000
+/project/nurovo-agent/, nurovo-agent, 0.0.0a0, nurovo-agent - temporary placeholder, 2020-10-16T11:33:40+0000
+/project/tshistory-client/, tshistory-client, 0.7.3, Timeseries histories python client (server side: tshistory_rest), 2021-02-04T17:31:26+0000
+/project/hg-fingerprint/, hg_fingerprint, 0.1.6, Better archive fingerprint file composition., 2020-06-18T03:22:25+0000
+/project/pycrastinate/, pycrastinate, 0.1.0, Keep your TODO, FIXME, etc. under control by triggering actions, generating reports, date/author/custom filtering, automated e-mails and more, 2014-06-15T19:20:56+0000
+/project/datalad/, datalad, 0.14.2, data distribution geared toward scientific datasets, 2021-04-14T23:00:53+0000
+/project/amqpdeliver/, AMQPDeliver, 0.1, Asynchronous file transfer using AMQP, 2011-09-06T11:05:50+0000
+/project/gitlist/, gitlist, 0.1.1, Displays the state of your local Git repositories., 2021-03-01T07:02:37+0000
+/project/diff-highlight/, diff-highlight, 1.2.0, pretty diff highlighter; emphasis changed words in diff, 2016-02-07T04:54:14+0000
+/project/spokennumbers/, spokennumbers, 1.0.0, Generate spoken numbers mp3 files used for Memory Competitions, 2019-10-26T21:31:02+0000
+/project/repocheck/, repocheck, 1.0.0, Check the status of code repositories under a root directory., 2018-01-21T10:52:49+0000
+/project/gitlab-registry-usage/, gitlab-registry-usage, 0.3.2, This is a package for querying the size of repositories in a GitLab registry., 2021-03-17T08:22:25+0000
+/project/gitbuglink/, gitbuglink, 0.0.2, The stupid commit-bug traceability linker for the stupid content tracker, 2015-05-02T16:43:46+0000
+/project/autohooks-plugin-pylint/, autohooks-plugin-pylint, 1.2.0, Autohooks plugin for code linting via pylint, 2019-11-22T08:39:15+0000
+/project/mygithub/, mygithub, 0.0.1, My GitHub productivity scripts, 2013-06-30T22:12:03+0000
+/project/python-andromeda/, python-andromeda, 1.0.5.2, OpenStack Repository Management Tool., 2015-08-05T19:51:05+0000
+/project/moviemon/, moviemon, 1.0.11, Everything about your movies within the command line., 2016-02-01T16:03:32+0000
+/project/webstarts/, webstarts, 2.9.0, Entry point for modern flask/gunicorn/sentry/celery web applications, 2017-10-27T03:11:07+0000
+/project/mercurial-extension-utils/, mercurial_extension_utils, 1.5.1, Mercurial Extension Utils, 2020-06-27T22:20:57+0000
+/project/carp-api/, carp-api, 0.1.1, Carp-Api is an extension on top of flask micro-framework, it allows to build endpoints and sort outs exception handling. Allowing developers to just start coding restful-api and not be concerned by standard and mundane fuff., 2020-02-03T11:52:57+0000
+/project/p-unity/, p-unity, 0.42.202104180000, { Programming : Unity }, 2021-04-18T01:18:45+0000
+/project/splitconflict/, splitconflict, 0.9, Helper script to extract the three versions of a SVK conflicted file., 2007-04-24T12:08:35+0000
+/project/domina/, domina, 0.1.0a3, Game AI script framework for MMORTS screeps.com, 2020-12-06T20:17:40+0000
+/project/spruce-sniffer/, spruce-sniffer, 0.1.5, spruce sniffer is a versatile network sniffer, 2019-04-23T03:09:57+0000
+/project/huawei-modem-py-api-client-through-proxy/, huawei-modem-py-api-client-through-proxy, 0.0.8, huaweisms is a python api client for Huawei Modems., 2020-08-14T12:20:39+0000
+/project/py-deployer/, py-deployer, 1.6.4, Py Deployer is a lightweight package to execute zero-downtime deployment on Linux servers., 2021-02-12T15:27:03+0000
+/project/redkyn-grader/, redkyn-grader, 0.1.1, A grading framework for evaluating programming assignments, 2020-01-10T20:28:33+0000
+/project/repoman-scm/, repoman-scm, 0.7.1, Library and tools to manage pools of code repositories, 2014-09-05T10:54:19+0000
+/project/github-status-checker/, github-status-checker, 1.0.2, Python module/tool for checking the status of GitHub., 2020-04-03T18:32:34+0000
+/project/hg-confman/, hg-confman, 2.0.0, , 2021-02-23T17:12:29+0000
+/project/django-klaus/, django-klaus, 0.1.1, Git web viewer app for django., 2013-12-01T09:45:02+0000
+/project/transmission-rpc/, transmission-rpc, 3.2.4, Python module that implements the Transmission bittorent client RPC protocol, 2021-03-09T15:12:46+0000
+/project/git-timestamp/, git-timestamp, 1.0.6, GIT Timestamping client for Zeitgitter, 2021-01-01T15:08:27+0000
+/project/gcg/, gcg, 0.2.0, Git Changelog Generator, 2019-07-09T19:48:36+0000
+/project/vcstools/, vcstools, 0.1.42, VCS/SCM source control library for svn, git, hg, and bzr, 2019-08-07T18:30:05+0000
+/project/gitchart/, gitchart, 1.5, Generate statistic charts on Git repositories., 2020-03-07T13:41:39+0000
+/project/gitchangelog-vt/, gitchangelog-vt, 3.0.9, gitchangelog-vt is a custom version of gitchangelog that generates a changelog thanks to git log., 2020-03-10T15:05:52+0000
+/project/confluence-junction/, confluence-junction, 0.1.1, Publish to and manage Confluence spaces with markdown files tracked in Git., 2021-03-05T23:51:29+0000
+/project/svn-ignore/, SVN-Ignore, 1.2.2, A utility that provides .svnignore functionality similar to GIT, 2016-08-22T20:25:49+0000
+/project/git-bigstore/, git-bigstore, 2.0.2, Track big files with Git., 2019-03-12T20:54:57+0000
+/project/pccc/, pccc, 0.4.3, Python Conventional Commit Checker, 2021-04-11T15:34:38+0000
+/project/repostat-app/, repostat-app, 2.2.0, Desktop git repository analyser and report creator., 2020-06-26T14:40:31+0000
+/project/hgflow-official/, hgflow-official, 0.9.8.6, Mercurial plugin to support the generalized Driessen branching model, 2020-12-29T21:30:59+0000
+/project/mercurialrecipe/, MercurialRecipe, 0.1.3, zc.buildout recipe for cloning and/or pulling a Mercurial repository, 2009-06-08T16:16:54+0000
+/project/autohooks/, autohooks, 21.3.0, Library for managing git hooks, 2021-03-29T15:09:23+0000
+/project/setuptools-scm-semver/, setuptools-scm-semver, 0.1.3, the blessed package to manage your versions by scm tags, 2019-06-27T07:44:28+0000
+/project/jfrog2pypi/, jfrog2pypi, 0.1.2, Jfrog Artifactory python modules loader, 2021-04-01T16:49:05+0000
+/project/laika-deploy/, laika-deploy, 0.6, A command-line utility for easy and reliable management of manual deployments from Git repositories, 2020-09-22T01:41:45+0000
+/project/hglib/, hglib, 2.6.1, Mercurial Python library, 2020-09-15T09:00:18+0000
+/project/git-recipe/, git-recipe, 0.2.7, Simple buildout recipe for downloading git repositories. It uses system git command and its syntax, 2019-07-15T02:44:33+0000
+/project/githc/, githc, 0.1.1, Git history checkout tool, 2020-07-07T22:48:47+0000
+/project/wpsync/, wpsync, 1.0.1, A tool to sync the WordPress SVN with your Git (or SVN) repository., 2015-06-04T20:18:47+0000
+/project/github-pr-form/, github-pr-form, 0.1.1, A small python utility for generating forms from the command line and adding them to GitHub pull requests or issues, while tracking them in a secondary github repo., 2014-11-12T05:32:51+0000
+/project/gitnotifs/, gitnotifs, 0.2.2, notification scripts/module for git repositories, 2012-12-06T16:10:51+0000
+/project/metarepo/, metarepo, 0.1.2, Git Meta Repository Manager, 2020-09-17T19:22:10+0000
+/project/git-hash/, git-hash, 1.0.2, Create commit hash by mask, 2021-04-22T10:35:29+0000
+/project/setuptools-git/, setuptools-git, 1.2, Setuptools revision control system plugin for Git, 2017-02-18T00:24:34+0000
+/project/django-utilities/, django-utilities, 0.1.5, Django's set of utilities. Includes admin ImageField with preview, override for username,
+Localized date filter, ConsoleException middleware and broken link highlight template., 2012-04-09T10:49:48+0000
+/project/git-ctm/, git-ctm, 0.2.0, Git commit time machine., 2018-02-09T12:02:29+0000
+/project/uncommitted/, uncommitted, 2.4, Scan filesystem for changes not committed to version control, 2021-01-10T22:15:47+0000
+/project/svnchecker/, svnchecker, 0.3, SVNChecker is a framework for Subversion hook scripts., 2008-07-20T19:55:54+0000
+/project/svnfiltereddump/, svnfiltereddump, 1.2, Extracts parts from Subversion repositories, 2015-01-07T14:39:23+0000
+/project/verfun/, verfun, 0.2.1, Verfun is a util for generating a checksum for a python function, 2020-01-01T22:02:14+0000
+/project/forkedthanks/, forkedthanks, 0.1.0, Thanks with a ⭐️ the projects you forked, 2018-05-26T00:58:36+0000
+/project/monoml-agent/, monoml-agent, 0.0.0a0, monoml-agent - temporary placeholder, 2020-10-16T11:33:33+0000
+/project/as3ninja/, as3ninja, 0.5.1, AS3 Ninja is a templating and validation engine for your AS3 declarations providing a CLI and Swagger REST API, 2020-08-09T16:10:30+0000
+/project/pida/, pida, 0.6.2, An integrated development environment that reuses tools such as Vim, and all version control systems., 2010-08-04T16:42:51+0000
+/project/setuptools-sky/, setuptools_sky, 0.1.7, the blessed package to manage your versions by scm tags, 2018-09-26T12:35:03+0000
+/project/maildiff/, maildiff, 1.3.2, Package to email color git diff, 2018-05-27T07:37:03+0000
+/project/git-x/, git-x, 0.3.202010061414, git-x - a set of handy git extensions., 2020-10-06T03:26:06+0000
+/project/watdarepo/, watdarepo, 0.3.0, Determines type and host of a repo., 2013-09-17T19:54:30+0000
+/project/lolologist/, lolologist, 0.5.5, A utility that automatically generates an image macro from your webcam whenever you commit to a git repository., 2016-06-16T01:15:30+0000
+/project/version-query/, version-query, 1.1.0, Package version query toolkit for Python, 2020-02-05T08:54:29+0000
+/project/movielst/, movielst, 2.5.0, Everything about your movies within the command line., 2019-05-05T14:48:24+0000
+/project/git-bars/, git-bars, 1.7, A utility for visualising git commit activity as bars on the terminal, 2020-05-27T18:16:41+0000
+/project/dulwich-tree/, dulwich-tree, 0.1.0, Library to help make and commit modifications to a tree with Dulwich., 2019-04-05T12:05:18+0000
+/project/sapling/, sapling, 0.0.11, A git porcelain to manage bidirectional subtree syncing with foreign git repositories, 2014-04-21T23:18:22+0000
+/project/download-gitignore/, download-gitignore, 2.0.1, A Python CLI program to download .gitignore files from Github's repository, 2020-07-14T01:47:30+0000
+/project/mohand-plugin-otp/, mohand-plugin-otp, 1.0.0.post0, MoHand插件，用以提供定制化的一次性密码生成服务, 2018-05-27T14:10:47+0000
+/project/python-veracity/, python-veracity, 0.0.11, Python wrapper for Veracity's command-line interface., 2014-01-27T01:22:26+0000
+/project/hangar/, hangar, 0.5.2, Hangar is version control for tensor data. Commit, branch, merge, revert, and collaborate in the data-defined software era., 2020-05-08T18:28:05+0000
+/project/python-version-info/, python-version-info, 0.0.6, Easy way to find out and display VCS versions of your projects, 2014-10-23T14:19:29+0000
+/project/py-versioning/, py_versioning, 1.0.0, Set of tools helping in versioning projects, 2015-01-25T19:07:33+0000
+/project/eazysvn/, eazysvn, 1.15.1, Make simple revision merges and branch switching much easier, 2019-04-23T10:19:09+0000
+/project/qiq/, qiq, 0.5, qiq is the thin layer over pip with a few rules., 2018-12-11T15:29:40+0000
+/project/dns-shark/, dns-shark, 1.0.2, A simple DNS resolver that can resolve a domain name to either an IPv4 or IPv6 address., 2020-01-20T02:49:04+0000
+/project/carboncopy/, carboncopy, 0.0.1, A small CLI utility to keep your repositories up-to-date with their templates, 2020-01-05T20:33:49+0000
+/project/pubdiff/, Pubdiff, 0.0.8, Easy, anonymous, and public code diffs, 2011-05-07T08:57:33+0000
+/project/bibu/, bibu, 0.2.0, A Bitbucket command line client, 2020-04-26T09:33:35+0000
+/project/diff-highlight-tokens/, diff-highlight-tokens, 0.2.0, A command line tool to apply language-specific highlighting to git diffs, 2016-08-13T20:42:02+0000
+/project/git-sweep/, git-sweep, 0.1.1, Clean up branches from your Git remotes, 2012-03-28T13:23:47+0000
+/project/hgapi/, hgapi, 1.7.4, Python API to Mercurial using the command-line interface, 2017-10-17T15:40:47+0000
+/project/nu-gitflow/, nu-gitflow, 1.0.2, Git extensions to provide high-level repository operations for Vincent Driessen's branching model., 2016-06-15T18:27:19+0000
+/project/gitchecker/, gitchecker, 2.0.0, Python GIT tool to check pending changes and get last commit info, 2018-07-17T11:25:03+0000
+/project/paige-gitflow/, paige-gitflow, 1.0.3, Git extensions to provide high-level repository operations for Vincent Driessen's branching model., 2020-11-09T18:30:00+0000
+/project/vcs-repo-mgr/, vcs-repo-mgr, 4.2, Version control repository manager, 2018-04-26T09:31:06+0000
+/project/whatthepatch/, whatthepatch, 1.0.2, A patch parsing and application library., 2021-02-06T03:01:20+0000
+/project/salsita-gitflow/, salsita-gitflow, 1.6.0, Git extensions to provide high-level repository operations for Vincent Driessen's branching model., 2015-05-21T14:41:04+0000
+/project/easypypi/, easypypi, 2.0.6, By FAR the easiest and quickest way to publish your Python creations on PyPI so other people can just `pip install your_script`., 2021-01-30T02:58:05+0000
+/project/github-binary-upload/, github-binary-upload, 0.1.7, github-binary-upload is a utility for publishing releases from tags with attached files on GitHub., 2020-09-29T09:24:55+0000
+/project/yorm/, YORM, 1.6.2, Automatic object-YAML mapping for Python., 2019-03-23T23:16:50+0000
+/project/vulners/, vulners, 1.5.11, Python library and command-line utility for Vulners (https://vulners.com), 2021-02-03T07:47:21+0000
+/project/flying/, flying, 0.0.6, Cli tools for manage releases, 2018-05-14T05:53:37+0000
+/project/ore-recipe-svnlib/, ore.recipe.svnlib, 0.1.6, Buildout recipe for compiling python subversion bindings, 2008-11-18T14:06:04+0000
+/project/githubrelease/, githubrelease, 1.5.8, githubrelease is a CLI to easily manage GitHub releases, assets and references, 2018-04-08T19:46:36+0000
+/project/gbp/, gbp, 0.9.22, Suite to help with Debian packages in Git repositories, 2021-02-01T11:06:55+0000
+/project/daversy/, daversy, 0.3.4, Daversy is a source control tool for relational databases., 2016-01-15T06:03:08+0000
+/project/fastimport/, fastimport, 0.9.11, VCS fastimport/fastexport parser, 2021-04-12T01:00:28+0000
+/project/customdeps/, CustomDeps, 0.0.2, Manages modules paths and allows importing specific versions of modules designated by Git commit hashes, 2021-04-18T11:41:17+0000
+/project/gitpatrol/, gitpatrol, 0.0.2, Flexible Git Pre-Commit Hooks, 2015-06-23T14:26:31+0000
+/project/git-reviewers/, git-reviewers, 0.13.3, Suggest reviewers for your git branch, 2021-01-04T02:13:14+0000
+/project/hglock/, hglock, 0.5.4, This extension implements a centralized file-based locking scheme for Mercurial., 2014-04-02T08:37:22+0000
+/project/weaveml-agent/, weaveml-agent, 0.0.0a0, weaveml-agent - temporary placeholder, 2020-10-16T11:33:52+0000
+/project/hgtools/, hgtools, 8.2.1, Classes and setuptools plugin for Mercurial and Git repositories, 2020-11-07T00:55:43+0000
+/project/ask-lang/, ask-lang, 1.2.0, Ask is a modern open-source transpiled programming language, designed for building backend services and APIs. Ask reduces the amount of needed boilerplate code for setting up things like database connections and authentication to virtually zero lines., 2021-03-13T06:34:55+0000
+/project/kids-sh/, kids.sh, 0.0.8, Kids shell command call wrapper, 2018-04-09T13:28:44+0000
+/project/gitaflow/, gitaflow, 0.1, Implementation of git branching model, alternative to git-flow, 2015-02-14T15:07:24+0000
+/project/ansible-collections-python-dist-boo/, ansible-collections.python.dist.boo, 0.1.2, Example Ansible Collection containing 'boo' Ansible module, 2020-03-13T11:32:41+0000
+/project/repo/, repo, 0.1.0, repo: handle complex repository workflow in a repeatable way, 2013-08-09T16:19:55+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/repocribro-pages/, repocribro-pages, 0.1, Extension of repocribro for custom static pages, 2020-12-26T09:05:15+0000
+/project/git-github-reflog/, git-github-reflog, 0.0.1, reflog like interaction with Github, 2015-08-31T17:04:39+0000
+/project/quart-github-webhook/, quart-github-webhook, 0.3, Very simple, but powerful, microframework for writing Github webhooks in Python, 2020-03-11T05:23:24+0000
+/project/gitblobts/, gitblobts, 0.0.7, git-backed time-indexed blob storage, 2019-01-18T01:19:05+0000
+/project/logpose/, logpose, 0.0.1b2, A python log library for data science, 2018-04-15T15:56:32+0000
+/project/list-github-repos/, list-github-repos, 0.2, A utility that lists the repos from a GitHub profile, 2019-01-04T15:36:35+0000
+/project/program-versions/, program-versions, 1.5.2, Know version changes of your favorites projects in your terminal., 2018-06-11T18:57:41+0000
+/project/archub/, archub, 1.0.0a8, , 2018-04-08T18:19:28+0000
+/project/marche/, marche, 0.1.2, MaRChE, 2021-04-08T18:27:38+0000
+/project/tshistory-alias/, tshistory-alias, 0.6.0, Computed timeseries on top of the `tshistory` package, 2019-10-28T09:50:28+0000
+/project/aimdfragmentation/, aimdfragmentation, 1.0.29, AIMD Fragmentation Calculation, 2019-04-07T13:41:48+0000
+/project/git-spindle/, git-spindle, 4.0.1, Git subcommands for integrating with central services like github, gitlab and bitbucket, 2021-01-14T07:02:51+0000
+/project/gicowa/, gicowa, 1.2.5, GitHub Commit Watcher, 2015-10-19T21:03:59+0000
+/project/datacommon/, datacommon, 1.1.7, A simple framework about data analysis., 2019-06-05T10:09:48+0000
+/project/ongeza/, ongeza, 1.12.2, Your Semantic Versioning personal assistant, 2018-06-27T18:50:48+0000
+/project/mflux-ai/, mflux-ai, 0.7.0, The Python client for MFlux.ai, 2020-01-14T08:53:28+0000
+/project/ubiml/, ubiml, 0.0.0a0, ubiml - temporary placeholder, 2020-10-16T11:33:43+0000
+/project/mllint/, mllint, 0.5.1, Linter for Machine Learning projects, 2021-04-15T19:14:41+0000
+/project/github-report/, github-report, 0.1, Generates a report of metadata about repositories for a GitHub user or organization, 2020-06-26T22:03:05+0000
+/project/gitsub/, gitsub, 0.2.3, Track git repositories updates, 2016-04-07T05:18:22+0000
+/project/selenium-update/, selenium-update, 0.0.0, Automate Selenium webdriver dependency set up, 2020-08-09T10:21:26+0000
+/project/git-profiles/, git-profiles, 1.1.3, Python package that helps you easily manage and switch between multiple git profiles., 2019-09-08T15:42:01+0000
+/project/hg-importfs/, hg-importfs, 1.3.2, import a set of files from a file-system into a repository, 2012-12-03T20:15:31+0000
+/project/svnlib/, svnlib, 0.1.4.1a0, , 2018-08-03T09:57:53+0000
+/project/gitget-pm/, gitget-pm, 2.3.0, A package manager for git repositories., 2019-12-23T14:02:45+0000
+/project/nomad/, nomad, 1.20, simple sql migration tool to save you from becoming mad, 2018-03-01T21:03:33+0000
+/project/goblet/, goblet, 0.3.5, Git web interface using libgit2 and flask, 2014-05-25T16:58:22+0000
+/project/cgitize/, cgitize, 1.1, Mirror your git repositories and make them cgit-ready, 2021-04-18T17:18:50+0000
+/project/pipdatedd/, pipdatedd, 0.3.3, pip update helpers, 2019-08-03T16:59:05+0000
+/project/katversion/, katversion, 1.1, Reliable git-based versioning for Python packages, 2020-07-27T09:01:41+0000
+/project/git-svn-helpers/, git-svn-helpers, 0.9, Command-line tools to make git-svn simple, 2012-03-11T19:06:35+0000
+/project/hgshelve/, hgshelve, 0.1, Shelve Extension for Mercurial, 2012-11-09T13:19:41+0000
+/project/git-guilt/, git-guilt, 0.33, git-guilt provides information on the transfer of ownership in a Git repository, 2016-12-25T10:08:04+0000
+/project/quit-store/, quit-store, 0.24.0, Distributed Version Control for RDF Knowledge Bases, 2019-12-11T13:19:33+0000
+/project/aino-mutations/, aino-mutations, 0.1.0.0, Mutating for evolution using Django and Mercurial, 2010-04-05T23:59:46+0000
+/project/codemetrics/, codemetrics, 0.11.3, SCM mining utility classes, 2021-01-30T16:05:51+0000
+/project/kallithea/, Kallithea, 0.6.3, Kallithea is a fast and powerful management tool for Mercurial and Git with a built in push/pull server, full text search and code-review., 2020-12-02T20:35:04+0000
+/project/pygit/, pygit, 0.1, Pythonic bindings for git, 2008-06-25T19:37:54+0000
+/project/gitrepo/, gitrepo, 2.8.0.post1, Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow., 2021-03-19T10:22:51+0000
+/project/mercurial-testhelpers/, mercurial-testhelpers, 0.5.0, Helpers to write Python tests involving Python internals of Mercurial, 2021-02-17T14:04:49+0000
+/project/gitorg/, gitorg, 0.8.0, Use git for organizations!, 2017-12-02T18:28:59+0000
+/project/setuptools-scm/, setuptools-scm, 6.0.1, the blessed package to manage your versions by scm tags, 2021-03-17T14:18:59+0000
+/project/mapgitconfig/, MapGitConfig, 1.1, Git Config Wrapper, 2015-03-13T10:23:55+0000
+/project/hooktest/, HookTest, 1.3.1, Hook Test Script for GitHub/CapiTainS repositories based on MyCapytain 3.0.0 or higher, 2020-01-23T08:40:35+0000
+/project/yoyo-database-migrations/, yoyo-database-migrations, 0.1.0, Database migrations with SQL, 2020-01-22T15:19:30+0000
+/project/blohg/, blohg, 0.13, A Mercurial (or Git) based blogging engine, 2014-06-10T00:58:15+0000
+/project/line-protocol-parser/, line-protocol-parser, 1.1.0, Parse InfluxDB line protocol string into Python dictionary, 2020-09-05T13:28:58+0000
+/project/git-jock/, git-jock, 0.2.1, Git helper for multi-repository management, 2021-01-19T20:57:47+0000
+/project/whatthepatch-graingert/, whatthepatch-graingert, 0.0.6, A patch parsing library., 2017-04-10T20:43:31+0000
+/project/dvdev/, DVDev, 0.1.3, DVDev - Distributed Development - tools for Open Source Software, 2009-04-19T22:09:33+0000
+/project/tracburndownplugin/, TracBurndownPlugin, 0.1, Burndown chart plugin for milestones in Trac, 2011-09-06T11:17:49+0000
+/project/gitflow-easyrelease/, gitflow-easyrelease, 0.3.2, Shortcuts for git flow release with semver support, 2018-03-11T16:48:48+0000
+/project/github-webhook/, github-webhook, 1.0.4, Very simple, but powerful, microframework for writing Github webhooks in Python, 2020-03-06T11:34:07+0000
+/project/anyvcs/, anyvcs, 1.4.0, An abstraction layer for multiple version control systems., 2014-08-11T15:20:13+0000
+/project/git-remote-run/, git-remote-run, 1.2, Allows running custom commands on a git remote., 2019-02-08T12:11:12+0000
+/project/displaytext/, DisplayText, 1.0.2, Make text display easy. Based on 'More' and 'Less'., 2014-06-25T20:22:09+0000
+/project/git-cleaner/, git-cleaner, 0.3.4, Cleanup merged branches with notification to last committer., 2018-11-29T00:22:11+0000
+/project/braumeister/, Braumeister, 0.3.4, Easy release bulding, combining JIRA and git, 2018-10-30T11:18:13+0000
+/project/requests-ntlm3/, requests-ntlm3, 6.1.3b1, The HTTP NTLM proxy and/or server authentication library., 2020-02-19T12:46:46+0000
+/project/asamba/, asamba, 1.0.8, Python interface to peform asteroseismic modelling with the asamba grid, 2017-06-21T10:55:59+0000
+/project/dev-pipeline-scm/, dev-pipeline-scm, 0.4.0, scm tooling for dev-pipeline, 2019-01-21T04:41:35+0000
+/project/github-publish/, github_publish, 1.0.0, GitHub publisher, 2017-07-01T08:44:16+0000
+/project/hg-delivery/, hg-delivery, 1.1.5, HgDelivery is an easy way to deliver products  for Mercurial and Git with a built in push/pull server, as well as repositories comparison, 2020-04-13T20:02:29+0000
+/project/pyprivnote/, pyPrivnote, 0.0.1a1, A Python Interface to Privnote service, 2017-04-17T12:16:09+0000
+/project/cicli/, cicli, 0.1.4, CiCLI is a CircleCI command line tool., 2015-01-20T15:04:53+0000
+/project/ubiml-agent/, ubiml-agent, 0.0.0a0, ubiml-agent - temporary placeholder, 2020-10-16T11:33:46+0000
+/project/hookmeup/, hookmeup, 1.0.5, A Git hook to automate your Pipenv and Django workflows, 2018-12-20T10:49:09+0000
+/project/ket/, ket, 0.0.4, Bitbucket workflows in your terminal, 2019-04-28T14:23:57+0000
+/project/hgcampfire/, hgcampfire, 0.3.2, Mercurial hook to report incoming changesets to Campfire chatroom, 2012-10-03T13:36:21+0000
+/project/watchman/, watchman, 0.0.8, watchman: version control status management made easy., 2016-12-02T03:09:14+0000
+/project/cbp/, cbp, 1.1.3, A small CLI tool to infer the clone URL by the current path and arguments., 2018-10-22T05:35:44+0000
+/project/vcs-mirrors/, vcs-mirrors, 0.0.7, , 2018-04-23T12:47:02+0000
+/project/dotsecrets/, dotsecrets, 0.4, DotSecrets is a tool to facilitate storing your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory similar to Stow., 2020-07-15T20:16:15+0000
+/project/hgwebinit/, hgwebinit, 0.1.0, Mercurial hgweb init support., 2013-01-27T05:44:57+0000
+/project/git-gitlab/, git-gitlab, 0.6.0, Git extension commandline for GitLab API v3, 2017-05-25T19:25:34+0000
+/project/hg-request-pull/, hg-request-pull, 0.5.1, generate a summary of pending changes, 2014-04-07T16:46:26+0000
+/project/clearml-session/, clearml-session, 0.3.4, clearml-session - CLI for launching JupyterLab / VSCode on a remote machine, 2021-04-12T00:39:42+0000
+/project/poetry-dynamic-versioning/, poetry-dynamic-versioning, 0.12.6, Plugin for Poetry to enable dynamic versioning based on VCS tags, 2021-04-19T18:36:38+0000
+/project/vgit/, vgit, 0.2, a sleek terminal user interface for git, 2017-08-24T02:23:59+0000
+/project/hgwebplus/, hgwebplus, 0.6.3, Mercurial plugin to add additional functionality to hgweb, 2020-11-03T06:17:04+0000
+/project/git-sweep3k/, git-sweep3k, 0.3.1, Clean up branches from your Git remotes, 2014-08-30T02:00:06+0000
+/project/lisense/, lisense, 1.1.0, Sensible repository licensing for Humans, 2015-04-07T06:56:05+0000
+/project/pysvnbot/, pysvnbot, 0.0.4, Subversion commit log tracking bot, 2007-12-02T15:25:13+0000
+/project/thin-man/, thin-man, 0.1.0.dev1, “Thin Man” backs up all metadata in your source tree of git repos., 2015-04-06T22:28:11+0000
+/project/pum/, pum, 0.9.12, Postgres upgrade manager, 2020-10-01T16:59:48+0000
+/project/dev-pipeline-bootstrap/, dev-pipeline-bootstrap, 0.4.0, build tooling for dev-pipeline, 2019-01-21T04:41:01+0000
+/project/git-clog/, git-clog, 0.2.5, git-clog outputs the commit graph of the current Git repository and colorizes commit symbols by interpreting the first six commit hash digits as an RGB color value., 2020-04-25T10:33:04+0000
+/project/qct/, qct, 0.8, Commit Tool, 2007-01-20T03:55:13+0000
+/project/python-git/, python-git, 2018.2.1, Automate boring git tasks, 2019-01-08T18:39:34+0000
+/project/adfdeployer/, ADFDeployer, 1.0.0a2, Continuously deploy an Azure Data Factory repository., 2020-01-14T15:47:30+0000
+/project/gstore/, gstore, 0.4.0, Synchronize GitHub repositories made easy, 2021-02-19T07:53:50+0000
+/project/gitserve/, gitserve, 0.2.0, A helper tool for git that mimics mercurial's serve command, 2008-04-28T10:33:20+0000
+/project/sslcommerz-sdk/, sslcommerz-sdk, 1.0.2, Sslcommerz SDK for python, 2021-01-13T16:41:42+0000
+/project/versionah/, versionah, 0.16.0, Simple version specification management, 2017-11-25T10:04:58+0000
+/project/jinja2-github/, jinja2-github, 0.1.1, Jinja2 Extension for rendering GitHub project properties, 2018-08-05T04:22:14+0000
+/project/mlhook/, mlhook, 0.0.0a0, mlhook - temporary placeholder, 2020-10-16T11:33:25+0000
+/project/mkmr/, mkmr, 0.0.35, Collection of tools for dealing with GitLab Merge Requests, with an Alpine flavour., 2020-12-12T19:22:55+0000
+/project/git-up-all/, git-up-all, 0.3.2.6, Run git-up trough a json list of repos, 2017-02-27T14:42:49+0000
+/project/hgmonitor/, hgmonitor, 0.5, mercurial repository monitoring and handling as a group, 2012-07-26T01:26:56+0000
+/project/gita/, gita, 0.13.4, Manage multiple git repos with sanity, 2021-03-29T02:01:24+0000
+/project/committer/, committer, 0.2.7, Unified command line interface for git, mercurial and subversion., 2015-02-02T18:25:51+0000
+/project/gitless/, gitless, 0.8.8, A version control system built on top of Git, 2019-05-28T20:56:52+0000
+/project/odfit/, odfit, 0.6.2, Produces textual information based on the contents of OpenDocument Format files and other archives., 2010-10-27T08:54:40+0000
+/project/gitbackhub/, gitbackhub, 0.2.0, A script to backup / mirror GitHub repositories., 2020-02-07T21:10:30+0000
+/project/astrophysix/, astrophysix, 0.5.0, Astrophysical simulation project documentation package, 2021-02-11T15:22:55+0000
+/project/ferrypick/, ferrypick, 0.1.dev2, Apply patches from Fedora dist git to different components., 2020-06-01T23:21:12+0000
+/project/hgsvn/, hgsvn, 0.6.0, A set of scripts to work locally on Subversion checkouts using Mercurial, 2020-07-16T08:57:58+0000
+/project/bzr-bash-completion/, bzr-bash-completion, 1.2.0, Generate bash command line completion function for bzr, 2010-05-18T09:14:07+0000
+/project/hghudson/, hghudson, 0.1.1dev, Mercurial integration with Hudson, 2010-10-16T17:38:30+0000
+/project/fork-github-repo/, fork-github-repo, 1.2.0, Fork, clone, add remote and branch a GitHub repo, 2018-11-01T21:12:43+0000
+/project/gitsecret/, gitsecret, 0.1.0, Python wrapper for git-secret., 2018-10-30T08:47:24+0000
+/project/repocribro/, repocribro, 0.1.2, Extensible sifting tool for information from GitHub repositories, 2017-02-15T08:13:08+0000
+/project/dojo-referee/, dojo-referee, 0.1.0, Just another Coding Dojo assistant tool (but with GUI), 2018-09-02T22:55:40+0000
+/project/kallithea-auth-container-internal/, kallithea-auth-container-internal, 1.4, Kallithea authentication plugin that accepts both container and internal authentication sources, 2016-06-30T13:57:30+0000
+/project/git-id/, git-id, 1.1.2, An ID manager for git, 2020-12-02T14:42:14+0000
+/project/package-controller/, package-controller, 3.2.1, A CLI tool that acts as a wrapper for various other programs to make updating and publishing python and node packages easier, 2019-07-07T02:58:11+0000
+/project/simplegitweb/, simplegitweb, 0.1.6.1, A Python git web server that base on dulwich lib, 2018-07-01T21:19:28+0000
+/project/zeitgitterd/, zeitgitterd, 1.0.5, Zeitgitter timestamping server, 2021-03-06T10:19:38+0000
+/project/finsim/, finsim, 0.6.7, Financial simulation and inference, 2021-04-20T17:27:55+0000
+/project/mcs/, mcs, 0.3.7, Monticello repository synchronization tool, 2012-03-19T18:51:28+0000
+/project/enversion/, enversion, 0.2.17, Enterprise Subversion Framework, 2015-03-10T19:13:28+0000
+/project/pyperforce/, PyPerforce, 0.3a1, A Python interface for the Perforce SCM, 2006-08-01T06:18:19+0000
+/project/yt-videos-list/, yt-videos-list, 0.5.5, YouTube bot to make a YouTube videos list (including all video titles and URLs uploaded by a channel) with end-to-end web scraping - no API tokens required. 🌟 Star this repo if you found it useful! 🌟, 2021-04-26T00:41:23+0000
+/project/thingitwrapper/, thingitwrapper, 0.1, Wrapper for git command line tool. For now functionality is limited to git commands needed for git-aflow project., 2015-02-14T14:59:44+0000
+/project/ml-experiment/, ml-experiment, 0.0.7, Machine Learning Experiment Framework, 2021-04-11T15:19:22+0000
+/project/infrae-subversion/, infrae.subversion, 1.4.5, Buildout recipe for checking out from subversion, 2009-01-29T11:03:26+0000
+/project/py3status-github-notifications/, py3status-github-notifications, 0.1.0, py3status module to show your Github notifications, 2021-03-10T04:40:05+0000
+/project/torchstruct/, torchstruct, 0.1.6, , 2020-03-02T14:54:58+0000
+/project/app-d/, app-d, 0.2.3, Automated Python Push-Deploy, 2017-01-30T07:57:15+0000
+/project/gitconfig/, gitconfig, 1.0.2, Gitconfig class and gitconfig variable for ~/.gitconfig, 2018-05-16T00:29:14+0000
+/project/git-version/, git-version, 1.5, Make git version information (e.g. git tag name, git commit id, ...) available to your C++ or python source files. A simple use case scenario is to output this version information when the application is called with "--version"., 2015-09-21T15:09:27+0000
+/project/subvertpy/, subvertpy, 0.11.0, Alternative Python bindings for Subversion, 2021-01-11T01:15:09+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/git-archive-all/, git-archive-all, 1.23.0, Archive git repository with its submodules., 2021-01-29T23:08:43+0000
+/project/selenic/, selenic, 0.14.0, Some selenium infrastructure for testing., 2019-08-06T19:12:22+0000
+/project/cvs2hg/, cvs2hg, 3.0.1, cvs2hg repository converter (based on cvs2svn), 2020-07-05T13:29:41+0000
+/project/git-project-core-plugins/, git-project-core-plugins, 0.0.18, Core functionality for git-project, 2021-03-23T18:07:19+0000
+/project/csemver/, csemver, 0.1.0, Object orientied optimized variant of the semver package, 2019-02-10T11:16:53+0000
+/project/stellar-p2p/, stellar-p2p, 0.4.5.1, stellar-p2p is a modified version of stellar, a tool for creating and restoring database snapshots, 2017-12-11T20:51:46+0000
+/project/git-easy-crypt/, git-easy-crypt, 1.0.4, The easy way to encrypt/decrypt private files in the git repo., 2019-01-25T09:31:27+0000
+/project/gitvier/, gitvier, 0.1.1, A component manager based where your components live in Git., 2017-05-13T20:57:31+0000
+/project/zn/, zn, 0.0.1, Zinc, 2019-01-31T00:43:06+0000
+/project/github3apps-py/, github3apps.py, 0.2.2, Access the Github API as an Application, 2021-02-10T07:10:27+0000
+/project/ubidump/, ubidump, 1.0.0, Commandline tool for viewing or extracting UBIFS images., 2020-11-09T09:01:09+0000
+/project/musdex/, musdex, 17.9.13, musdex -- VCS-aware zip archive tool, 2017-09-13T03:44:07+0000
+/project/smug/, smug, 0.6b1, smugly superior to wikis, 2009-07-14T21:10:17+0000
+/project/repoguard/, repoguard, 0.3.0.dev, RepoGuard is a framework for Subversion hook scripts., 2019-08-23T03:20:23+0000
+/project/git-repo-cli/, git-repo-cli, 1.2.0, Utils to easily create/delete/rename repository., 2020-04-14T18:54:44+0000
+/project/yoyo-migrations/, yoyo-migrations, 7.3.1, Database migrations with SQL, 2021-01-18T15:13:38+0000
+/project/leak/, leak, 1.2.0, Show available releases for package, 2018-10-11T08:46:41+0000
+/project/workflow-sandbox/, workflow-sandbox, 0.5.0, Testing GitHub actions, Cirrus CI, documentation, and publishing releases of Python packages., 2020-05-21T03:48:13+0000
+/project/pybitbucket/, pybitbucket, 0.12.0, A Python wrapper for the Bitbucket API, 2016-12-02T23:20:19+0000
+/project/scd/, scd, 1.2.3, Something Completely different, 2017-02-14T14:56:06+0000
+/project/git-test/, git-test, 0.1.0, Run automated tests against a range of Git commits and keep track of the results, 2020-07-10T14:56:46+0000
+/project/import-git-files/, import-git-files, 0.1.0, Import files from git repositories to local destinations., 2020-07-13T16:53:45+0000
+/project/hg-github/, hg-github, 0.1.5, A Mercurial extension for working with GitHub repositories, 2014-07-13T01:08:32+0000
+/project/hg-commit-sanity/, hg-commit-sanity, 0.0.1, Mercurial extension to do sanity checks on commits., 2013-08-22T18:18:47+0000
+/project/fogbugz/, fogbugz, 1.0.6, Python library for interacting with the FogBugz API, 2016-11-01T14:47:06+0000
+/project/redblackgraph/, RedBlackGraph, 0.3.15, Red Black Graph, 2020-04-17T23:14:14+0000
+/project/zuul-client/, zuul-client, 0.0.4, A client for the Zuul Gating System, 2021-02-02T22:22:04+0000
+/project/vcs-extras/, vcs_extras, 0.1.5, extra commands for working with vcstool, 2017-02-05T12:53:39+0000
+/project/roboversion/, roboversion, 2.0.0, Automated project versioning using Git repository state, 2020-10-21T10:36:49+0000
+/project/hgreview/, hgreview, 0.4, Mercurial extension to work with rietveld codereview, 2015-11-15T20:29:48+0000
+/project/yamlwrap/, yamlwrap, 1.0.0, VCS-friendly documents in YAML, 2021-04-25T13:43:28+0000
+/project/scc/, scc, 0.15.1, OME tools for managing the git(hub) workflow, 2021-01-07T09:57:12+0000
+/project/seashells/, seashells, 0.1.2, The official client for Seashells.io, 2017-07-09T02:30:46+0000
+/project/better-than-you-found-it/, Better-Than-You-Found-It, 0.9.1, PEP8 clean only the parts of the files which you have touched since the last commit, a previous commit or (the merge-base of) a branch., 2014-10-06T04:41:34+0000
+/project/huawei-modem-api-client/, huawei-modem-api-client, 1.1.1, huaweisms is a python api client for Huawei Modems., 2021-02-08T11:29:18+0000
+/project/tartufo/, tartufo, 2.4.0, tartufo is a tool for scanning git repositories for secrets/passwords/high-entropy data, 2021-03-05T15:30:28+0000
+/project/git-author/, git-author, 0.1.0, git-author, a git command for managing multiple authors, 2019-02-06T15:40:13+0000
+/project/prcslib/, prcslib, 4.1, Python API for PRCS., 2020-04-11T20:29:48+0000
+/project/git-big/, git-big, 0.7.1, Git Big is a command line extension to Git for managing Write Once Read Many (WORM) files., 2018-08-01T01:16:09+0000
+/project/git-crecord/, git-crecord, 20201025.0, interactively select chunks to commit with Git, 2020-10-25T11:37:41+0000
+/project/automation/, automation, 0.6.1, A Django-specific implementation of Fabric, 2013-08-27T21:34:06+0000
+/project/flask-github-webhook/, flask-github-webhook, 0.2.0, Flask extension for github-webhooks, 2020-07-22T15:24:04+0000
+/project/gdm/, GDM, 0.8.2, A language-agnostic, 2016-02-24T14:56:41+0000
+/project/whodidwhat/, whodidwhat, 0.0.5, Package for filtering vcs repositories, 2017-04-27T07:20:03+0000
+/project/octomachinery/, octomachinery, 0.3.6, Invisible engine driving octobot machines. Simple, yet powerful., 2021-04-01T00:08:08+0000
+/project/codereview/, CodeReview, 1.0.0, CodeReview is a Python 3 / Qt5 GUI to perform code review on files and Git repositories., 2017-12-20T15:31:13+0000
+/project/dynamic-nappy/, dynamic-nappy, 0.0.0, dynamic non-atomic parser (python), 2019-12-28T00:49:18+0000
+/project/mercurial-keyring/, mercurial_keyring, 1.4.1, Mercurial Keyring Extension, 2021-04-21T21:55:14+0000
+/project/git-browse/, git-browse, 2.9.2, Open repositories, directories, and files in the browser, 2021-02-23T07:50:00+0000
+/project/pybuilder-scm-ver-plugin/, pybuilder-scm-ver-plugin, 0.1.1, pybuilder plugin to set project from SCM, 2020-05-26T09:39:00+0000
+/project/releasecmd/, releasecmd, 0.4.0, releasecmd is a release subcommand for setup.py (setuptools.setup). the subcommand create a git tag and push, and upload packages to PyPI., 2021-03-17T17:26:08+0000
+/project/git-dropshare/, git-dropshare, 0.1.4, Git plus Dropbox sharing for binary documents., 2018-04-05T06:16:29+0000
+/project/gitsshgen/, gitsshgen, 1.2.3, Automatic generation of SSH keys for VCS, 2020-06-09T04:57:11+0000
+/project/promus/, promus, 0.1.2, Remote manager to handle git commands., 2014-08-22T22:03:42+0000
+/project/gitmanager/, gitmanager, 0.1.1, A tool for managing multiple git projects., 2017-10-31T23:21:48+0000
+/project/limigrations/, limigrations, 1.1.1, Lightweight migrations system for python / sqlite3, 2021-04-04T23:52:34+0000
+/project/git-me-the-url/, git-me-the-url, 1.0.0, Generate sharable links to your Git source, 2019-10-30T06:02:01+0000
+/project/factual-patchwork/, factual-patchwork, 1.0.0, Dependency Monitoring Solution, 2017-08-17T17:24:03+0000
+/project/nurovo/, nurovo, 0.0.0a0, nurovo - temporary placeholder, 2020-10-16T11:33:37+0000
+/project/svneverever/, svneverever, 1.5.0, Tool collecting path entries across SVN history, 2020-03-01T14:12:36+0000
+/project/spruce-project/, Spruce-project, 0.1.3, Project inspection, management, and administration, 2014-01-24T20:35:08+0000
+/project/lpdistutils/, lpdistutils, 0.1, Distutils commands for working with Launchpad and Bazaar., 2010-07-16T22:02:44+0000
+/project/cluebzrserver/, ClueBzrServer, 0.2, A standalone server application for serving up Bazaar repositories over HTTP, 2009-03-01T16:39:26+0000
+/project/mercurial-update-version/, mercurial_update_version, 1.1.1, Mercurial Update Version Extension, 2020-06-27T22:26:43+0000
+/project/gtbump/, gtbump, 0.3.0, git-tag-bump: a simple utility for quickly bumping Git semver tags, 2021-01-30T07:37:50+0000
+/project/git-fetch-gitignore/, git-fetch-gitignore, 0.0.2, Fetch .gitignore files from GitHub, 2018-10-30T08:10:13+0000
+/project/pygit2/, pygit2, 1.5.0, Python bindings for libgit2., 2021-01-23T19:00:47+0000
+/project/gitctl/, gitctl, 2.0a8, A particular Git workflow implementation with a development/staging/production code-flow model and support for multiple repositories as part of a larger project., 2011-04-11T07:43:25+0000
+/project/gitticket/, gitticket, 0.5.1, Git and issue tracking system integration, 2013-06-21T23:25:47+0000
+/project/source-over-ssh/, source-over-ssh, 0.3, source repository management server over ssh, 2011-06-26T19:48:34+0000
+/project/ssh-server-audit/, ssh-server-audit, 1.0.2, Performs validation of remote filesystem integrity and executes health checks. Supports self-repair commands, 2019-05-04T09:24:32+0000
+/project/attribution/, attribution, 1.5.2, Generate changelogs based on tag messages and shortlogs, 2021-03-25T06:07:13+0000
+/project/weaveml/, weaveml, 0.0.0a0, weaveml - temporary placeholder, 2020-10-16T11:33:49+0000
+/project/gitstery-generator/, gitstery-generator, 1.0.1, A Git murder mystery, 2020-03-14T14:13:16+0000
+/project/qibuild/, qibuild, 3.15, The Meta Build Framework, 2020-07-15T13:26:08+0000
+/project/crafts/, crafts, 0.0.0, Crafts is a set of custom build tools., 2019-05-24T15:07:50+0000
+/project/github-tools/, github-tools, 0.1.7, Helpers for Python package hosting at GitHub, 2009-07-18T14:18:39+0000
+/project/meep/, meep, 1.0.6, Very light-weight task runner, 2018-09-21T20:02:43+0000
+/project/open-project-linter/, open-project-linter, 1.0.1, Automatic checklist for open source project best practices., 2017-03-04T02:52:53+0000
+/project/spaste/, spaste, 0.0.3, The official client for spaste.io, 2020-04-06T15:17:45+0000
+/project/whatsmyversion/, whatsmyversion, 0.0.5.post3, Making versioning easy, 2015-09-08T19:08:16+0000
+/project/svyn/, svyn, 0.1.2, Convenience functions for svn, 2016-02-19T21:27:35+0000
+/project/git-svnmodule/, git-svnmodule, 0.1.2, use SVN repositories like Git submodules, 2016-04-17T18:33:37+0000
+/project/url2vapi/, url2vapi, 1.2, Tools extracts constant elements from url (for example version), 2018-03-12T20:45:18+0000
+/project/dataworkspaces/, dataworkspaces, 1.4.0, Easy management of source data, intermediate data, and results for data science projects, 2020-12-21T03:23:02+0000
+/project/database-factory/, database-factory, 1.0.2, Database Factory;, 2021-04-05T09:33:09+0000
+/project/yeoda/, yeoda, 0.2.1, yeoda provides lower and higher-level data cube classes to work with well-defined and well-structured earth observation data., 2021-03-15T12:09:36+0000
+/project/yaclog/, yaclog, 0.3.2, Yet another changelog CLI tool., 2021-04-24T21:04:13+0000
+/project/git-gerp/, git-gerp, 0.1.1, git grep wrapper for arguments re-ordering, that can use options after filenames, 2018-04-21T23:58:28+0000
+/project/seashells-sc/, seashells-sc, 0.1.6, The official client for Seashells.io, 2019-09-24T09:29:20+0000
+/project/smoking-gun/, smoking-gun, 1.0.2, The log capturing library., 2020-01-15T21:53:26+0000
+/project/hgwatchman/, hgwatchman, 0.5.4, Watchman integration for Mercurial, 2015-09-04T19:45:00+0000
+/project/git-deploy/, git_deploy, 0.3.0dev-20140209, Tool to manage using git as a deployment management tool, 2014-02-09T20:14:26+0000
+/project/git-explode/, git-explode, 0.0.1, Explode linear sequence of commits into topic branches, 2018-05-20T21:06:40+0000
+/project/bombardier-cli/, bombardier_cli, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:39+0000
+/project/git-cat/, git-cat, 1.0.0, GitCat: herding a catalogue of git repositories, 2021-04-06T00:47:02+0000
+/project/comet-git-pure/, comet-git-pure, 0.19.16, Python Git Library, 2020-04-20T10:21:40+0000
+/project/pycvs/, pycvs, 0.0.3, A Python client for CVS projects, 2019-09-09T19:53:32+0000
+/project/git-track/, Git-Track, 0.1, Minimal Bug Tracking For Git., 2011-08-16T13:06:29+0000
+/project/animemon/, animemon, 0.1.1, Everything about your anime within the command line., 2016-03-16T13:19:47+0000
+/project/pypi-on-github-indexer/, pypi-on-github-indexer, 0.1.1, Proprietary package publisher to the GitHub index repository., 2019-10-16T12:14:26+0000
+/project/nbstripout/, nbstripout, 0.4.0, Strips outputs from Jupyter and IPython notebooks, 2021-04-25T17:41:05+0000
+/project/revbranch/, revbranch, 0.4.1, Attach branch names to git revisions, to help understand repository history, 2020-10-18T08:21:51+0000
+/project/rcs4cvs2svn/, rcs4cvs2svn, 1.2, prepare RCS project for processing with cvs2svn, 2011-10-26T18:10:13+0000
+/project/versionfinder/, versionfinder, 1.1.1, Python package to find the version of another package, whether installed via pip, setuptools or git., 2020-09-18T16:32:30+0000
+/project/versionner/, versionner, 1.5.3, versionner helps manipulating version of the project., 2020-02-25T15:39:30+0000
+/project/python-git-wrapper/, python-git-wrapper, 0.9.0.post2, Simple git wrapper for python, 2020-05-16T10:03:13+0000
+/project/tsview/, tsview, 0.11.2, Plugin to `tshistory` which provides a `view` subcommand to visualize time series from a repository and a flask blueprint, 2020-12-11T16:14:46+0000
+/project/isconf/, isconf, 4.2.8.253, Infrastructure configuration management tool, 2015-02-25T04:38:18+0000
+/project/ensemble-pkg/, ensemble-pkg, 0.0.3, Combine models, easily., 2019-08-04T07:19:59+0000
+/project/tshistory-editor/, tshistory-editor, 0.8.2, Web tool to edit time series, 2020-07-30T15:02:39+0000
+/project/trains-jupyter-plugin/, trains-jupyter-plugin, 0.2.1, Jupyter extension to enable users to commit & push notebooks to a git repo, 2019-11-29T00:32:54+0000
+/project/pyrseas/, Pyrseas, 0.9.1, Utilities to assist in database schema versioning, 2020-04-14T21:00:06+0000
+/project/autogit/, autogit, 0.0.3, autosave using git, 2013-09-23T15:21:54+0000
+/project/chronicdb/, chronicdb, 3.7.4, The ChronicDB command-line client., 2012-03-21T23:48:46+0000
+/project/restore-commit-times/, restore_commit_times, 0.5, Restore files mtime from Git commit times, 2016-02-01T12:08:46+0000
+/project/cloneall/, cloneall, 1.4, Clone GitHub repositories, 2015-04-21T22:58:37+0000
+/project/gitconsensus/, gitconsensus, 0.8.0, Automate Github Pull Requests using Reactions, 2019-09-15T22:20:17+0000
+/project/jin-py/, Jin-Py, 1.0.31, A git/mercurial flavored wrapper for rsync., 2019-04-02T09:10:32+0000
+/project/lordcommander/, lordcommander, 5.0.1, Run shell commands recursively throughout the predefined directories, 2020-10-05T07:19:51+0000
+/project/prtgitlog/, prtgitlog, 0.1.18, A script to print 'git log' output in a concise informative format, 2019-07-29T13:27:41+0000
+/project/gbrestructure/, GBRestructure, 0.4.3, A CLI tool to help with multi-team Git branching strategies, 2017-01-13T20:38:22+0000
+/project/curmit/, curmit, 1.0, Grabs text from a URL and commits it., 2015-10-04T01:38:24+0000
+/project/gitkeep2/, gitkeep2, 1.0.0.post1, A tiny utility to force empty directories into a Git repo., 2018-12-22T00:26:29+0000
+/project/git-backup/, git-backup, 0.1.2, Script for backing up GitHub repositories, 2017-01-23T07:41:29+0000
+/project/versionary/, versionary, 0.4, Code versioning decorator, 2017-09-20T06:56:32+0000
+/project/scc/, scc, 0.15.1, OME tools for managing the git(hub) workflow, 2021-01-07T09:57:12+0000
+/project/seashells/, seashells, 0.1.2, The official client for Seashells.io, 2017-07-09T02:30:46+0000
+/project/better-than-you-found-it/, Better-Than-You-Found-It, 0.9.1, PEP8 clean only the parts of the files which you have touched since the last commit, a previous commit or (the merge-base of) a branch., 2014-10-06T04:41:34+0000
+/project/huawei-modem-api-client/, huawei-modem-api-client, 1.1.1, huaweisms is a python api client for Huawei Modems., 2021-02-08T11:29:18+0000
+/project/tartufo/, tartufo, 2.4.0, tartufo is a tool for scanning git repositories for secrets/passwords/high-entropy data, 2021-03-05T15:30:28+0000
+/project/tshistory-supervision/, tshistory-supervision, 0.9.2, Provide a supervision mechanism over `tshistory`, 2020-12-11T15:55:01+0000
+/project/django-sslcommerz/, django-sslcommerz, 1.0.0a0, , 2020-07-25T07:52:18+0000
+/project/mercurial-dynamic-username/, mercurial_dynamic_username, 1.1.1, Mercurial Dynamic Username Extension, 2020-06-27T22:34:26+0000
+/project/svnwrap/, svnwrap, 0.8.2, Wrapper script for Subversion command-line client, 2020-02-17T15:46:46+0000
+/project/setuptools-rust/, setuptools-rust, 0.12.1, Setuptools Rust extension plugin, 2021-03-11T09:31:03+0000
+/project/git-quotes/, git-quotes, 0.0.1, Add beautiful quotes to your commits automatically, 2018-04-21T17:35:52+0000
+/project/zalando-turnstile/, zalando-turnstile, 2.0, Turnstile - Zalando Local Git Hooks (META PACKAGE), 2015-06-14T18:00:52+0000
+/project/git-punchcard/, git-punchcard, 2.0.3, punchcard generator for git commit frequencies, 2019-10-30T23:49:53+0000
+/project/flask-cognito-extended/, Flask-Cognito-Extended, 0.2.7, Extended Cognito integration with Flask, 2021-02-14T11:53:06+0000
+/project/p4swamp/, p4swamp, 0.5, A pure Python wrapper for the Perforce command-line client, 2019-03-04T18:48:00+0000
+/project/scunch/, scunch, 0.5.8, Update svn working copy from folder., 2012-05-08T20:44:13+0000
+/project/smoking-gun/, smoking-gun, 1.0.2, The log capturing library., 2020-01-15T21:53:26+0000
+/project/hgwatchman/, hgwatchman, 0.5.4, Watchman integration for Mercurial, 2015-09-04T19:45:00+0000
+/project/git-deploy/, git_deploy, 0.3.0dev-20140209, Tool to manage using git as a deployment management tool, 2014-02-09T20:14:26+0000
+/project/git-explode/, git-explode, 0.0.1, Explode linear sequence of commits into topic branches, 2018-05-20T21:06:40+0000
+/project/bombardier-cli/, bombardier_cli, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:39+0000
+/project/git-cat/, git-cat, 1.0.0, GitCat: herding a catalogue of git repositories, 2021-04-06T00:47:02+0000
+/project/comet-git-pure/, comet-git-pure, 0.19.16, Python Git Library, 2020-04-20T10:21:40+0000
+/project/pycvs/, pycvs, 0.0.3, A Python client for CVS projects, 2019-09-09T19:53:32+0000
+/project/git-track/, Git-Track, 0.1, Minimal Bug Tracking For Git., 2011-08-16T13:06:29+0000
+/project/versiontools/, versiontools, 1.9.1, Smart replacement for plain tuple used in __version__, 2012-03-13T01:24:01+0000
+/project/setuptools-bzr/, setuptools_bzr, 2.2, setuptools plugin for bzr, 2014-01-09T23:21:57+0000
+/project/gitlab2prov/, gitlab2prov, 0.4.1, Extract provenance information (W3C PROV) from GitLab projects., 2021-04-23T12:44:18+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/mohand/, mohand, 1.2.0, 通用自动化处理工具, 2019-12-15T06:44:04+0000
+/project/gst/, gst, 0.1.0, Git status tool, 2020-05-22T08:46:31+0000
+/project/vci/, vci, 0.2.8, version control management from an index of listed workspaces, 2021-04-01T14:43:17+0000
+/project/trains/, trains, 0.16.4, TRAINS - Auto-Magical Experiment Manager & Version Control for AI, 2020-12-10T10:59:49+0000
+/project/gitlab-mr/, gitlab-mr, 0.3.0, Console utility to create gitlab merge requests., 2017-09-20T15:05:47+0000
+/project/migrations/, migrations, 0.1.1, Yet another Python migration tool, 2016-11-01T12:24:25+0000
+/project/hg-autohooks/, hg-autohooks, 0.1.0, Mercurial Autohooks Extension, 2015-05-22T00:23:58+0000
+/project/setuptools-dummy/, setuptools_dummy, 0.1.0.4, Setuptools Dummy Filefinder, 2010-01-12T15:50:44+0000
+/project/tshistory-formula/, tshistory-formula, 0.8.1, Computed timeseries plugin for `tshistory`, 2021-01-19T14:03:20+0000
+/project/mlhook-agent/, mlhook-agent, 0.0.0a0, mlhook-agent - temporary placeholder, 2020-10-16T11:33:27+0000
+/project/yourbase/, yourbase, 4.5.11, Skip tests based on tracing data, 2021-04-23T21:55:07+0000
+/project/simplediff/, simplediff, 1.0, Diff library with a dead-simple interface, 2012-09-05T18:28:31+0000
+/project/pyjamas-gitweb/, Pyjamas-GitWeb, 0.1, Web and Desktop (standalone application) Git repository browser, 2012-04-18T10:39:40+0000
+/project/repo-helper/, repo-helper, 2021.3.31, A tool to manage configuration files, build scripts etc. across multiple projects., 2021-03-31T11:20:53+0000
+/project/pingit/, pingit, 0.1a1, PINGIT batch management tool for multiple nested git repositories, 2019-01-13T13:22:02+0000
+/project/gh-favs/, gh_favs, 3.2, A small script to clone and update all your watched GitHub projects, 2012-02-24T20:51:03+0000
+/project/sspider/, sspider, 1.3.5, A simple web crawling framework., 2019-06-05T01:02:22+0000
+/project/gickup/, gickup, 1.0, Automatic git backup script for multiple repositories, 2017-05-10T18:54:58+0000
+/project/saffron-cli/, saffron-cli, 0.1.11, blockchain artifact development tools, 2017-09-20T04:57:06+0000
+/project/flask-cognito-auth/, flask-cognito-auth, 1.0.5, Flask Cognito Authentication, 2021-03-16T13:00:18+0000
+/project/bugzillatools/, bugzillatools, 0.5.5, Bugzilla CLI client, XML-RPC binding and VCS plugins, 2015-04-25T08:13:13+0000
+/project/conventional/, conventional, 0.5.3, No frills command-line tool for processing structured commits., 2020-08-06T03:13:46+0000
+/project/gitinspector/, gitinspector, 0.3.2, A statistical analysis tool for git repositories., 2015-08-05T16:34:45+0000
+/project/autohooks-plugin-autopep8/, autohooks-plugin-autopep8, 0.0.4, Autohooks plugin for code formatting via autopep8, 2019-05-02T12:27:40+0000
+/project/mohand-plugin-expect/, mohand-plugin-expect, 1.0.6, MoHand插件，用以提供可自动控制其他终端应用的任务支持, 2018-10-07T12:29:43+0000
+/project/kids-vcs/, kids.vcs, 0.0.3, Kids VCS management library., 2019-04-02T14:05:12+0000
+/project/nbfilter/, nbfilter, 1.1.0, Filter .ipynb (nbformat) files to improve integration with version control systems (VCS), 2018-09-26T18:00:53+0000
+/project/hiss-cli/, hiss-cli, 0.0.6, Python database migration tool based on git's design., 2017-11-22T18:18:23+0000
+/project/git-branchless/, git-branchless, 0.0.5, Efficiently manage Git branches without leaving your local branch, 2021-04-24T18:53:22+0000
+/project/gitflow-wotw/, gitflow-wotw, 0.2.0, gitflow-avh in Python via pygit2, 2018-03-12T01:21:06+0000
+/project/tshistory-supervision/, tshistory-supervision, 0.9.2, Provide a supervision mechanism over `tshistory`, 2020-12-11T15:55:01+0000
+/project/django-sslcommerz/, django-sslcommerz, 1.0.0a0, , 2020-07-25T07:52:18+0000
+/project/mercurial-dynamic-username/, mercurial_dynamic_username, 1.1.1, Mercurial Dynamic Username Extension, 2020-06-27T22:34:26+0000
+/project/svnwrap/, svnwrap, 0.8.2, Wrapper script for Subversion command-line client, 2020-02-17T15:46:46+0000
+/project/setuptools-rust/, setuptools-rust, 0.12.1, Setuptools Rust extension plugin, 2021-03-11T09:31:03+0000
+/project/git-quotes/, git-quotes, 0.0.1, Add beautiful quotes to your commits automatically, 2018-04-21T17:35:52+0000
+/project/zalando-turnstile/, zalando-turnstile, 2.0, Turnstile - Zalando Local Git Hooks (META PACKAGE), 2015-06-14T18:00:52+0000
+/project/git-punchcard/, git-punchcard, 2.0.3, punchcard generator for git commit frequencies, 2019-10-30T23:49:53+0000
+/project/flask-cognito-extended/, Flask-Cognito-Extended, 0.2.7, Extended Cognito integration with Flask, 2021-02-14T11:53:06+0000
+/project/p4swamp/, p4swamp, 0.5, A pure Python wrapper for the Perforce command-line client, 2019-03-04T18:48:00+0000
+/project/scunch/, scunch, 0.5.8, Update svn working copy from folder., 2012-05-08T20:44:13+0000
+/project/dojo-referee/, dojo-referee, 0.1.0, Just another Coding Dojo assistant tool (but with GUI), 2018-09-02T22:55:40+0000
+/project/kallithea-auth-container-internal/, kallithea-auth-container-internal, 1.4, Kallithea authentication plugin that accepts both container and internal authentication sources, 2016-06-30T13:57:30+0000
+/project/git-id/, git-id, 1.1.2, An ID manager for git, 2020-12-02T14:42:14+0000
+/project/package-controller/, package-controller, 3.2.1, A CLI tool that acts as a wrapper for various other programs to make updating and publishing python and node packages easier, 2019-07-07T02:58:11+0000
+/project/gitsecret/, gitsecret, 0.1.0, Python wrapper for git-secret., 2018-10-30T08:47:24+0000
+/project/simplegitweb/, simplegitweb, 0.1.6.1, A Python git web server that base on dulwich lib, 2018-07-01T21:19:28+0000
+/project/zeitgitterd/, zeitgitterd, 1.0.5, Zeitgitter timestamping server, 2021-03-06T10:19:38+0000
+/project/finsim/, finsim, 0.6.7, Financial simulation and inference, 2021-04-20T17:27:55+0000
+/project/repocribro/, repocribro, 0.1.2, Extensible sifting tool for information from GitHub repositories, 2017-02-15T08:13:08+0000
+/project/mcs/, mcs, 0.3.7, Monticello repository synchronization tool, 2012-03-19T18:51:28+0000
+/project/enversion/, enversion, 0.2.17, Enterprise Subversion Framework, 2015-03-10T19:13:28+0000
+/project/pyperforce/, PyPerforce, 0.3a1, A Python interface for the Perforce SCM, 2006-08-01T06:18:19+0000
+/project/yt-videos-list/, yt-videos-list, 0.5.5, YouTube bot to make a YouTube videos list (including all video titles and URLs uploaded by a channel) with end-to-end web scraping - no API tokens required. 🌟 Star this repo if you found it useful! 🌟, 2021-04-26T00:41:23+0000
+/project/thingitwrapper/, thingitwrapper, 0.1, Wrapper for git command line tool. For now functionality is limited to git commands needed for git-aflow project., 2015-02-14T14:59:44+0000
+/project/vcversioner/, vcversioner, 2.16.0.0, Use version control tags to discover version numbers, 2016-04-12T15:18:26+0000
+/project/torchstruct/, torchstruct, 0.1.6, , 2020-03-02T14:54:58+0000
+/project/app-d/, app-d, 0.2.3, Automated Python Push-Deploy, 2017-01-30T07:57:15+0000
+/project/gitconfig/, gitconfig, 1.0.2, Gitconfig class and gitconfig variable for ~/.gitconfig, 2018-05-16T00:29:14+0000
+/project/git-version/, git-version, 1.5, Make git version information (e.g. git tag name, git commit id, ...) available to your C++ or python source files. A simple use case scenario is to output this version information when the application is called with "--version"., 2015-09-21T15:09:27+0000
+/project/subvertpy/, subvertpy, 0.11.0, Alternative Python bindings for Subversion, 2021-01-11T01:15:09+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/git-archive-all/, git-archive-all, 1.23.0, Archive git repository with its submodules., 2021-01-29T23:08:43+0000
+/project/selenic/, selenic, 0.14.0, Some selenium infrastructure for testing., 2019-08-06T19:12:22+0000
+/project/cvs2hg/, cvs2hg, 3.0.1, cvs2hg repository converter (based on cvs2svn), 2020-07-05T13:29:41+0000
+/project/git-project-core-plugins/, git-project-core-plugins, 0.0.18, Core functionality for git-project, 2021-03-23T18:07:19+0000
+/project/csemver/, csemver, 0.1.0, Object orientied optimized variant of the semver package, 2019-02-10T11:16:53+0000
+/project/stellar-p2p/, stellar-p2p, 0.4.5.1, stellar-p2p is a modified version of stellar, a tool for creating and restoring database snapshots, 2017-12-11T20:51:46+0000
+/project/git-easy-crypt/, git-easy-crypt, 1.0.4, The easy way to encrypt/decrypt private files in the git repo., 2019-01-25T09:31:27+0000
+/project/gitvier/, gitvier, 0.1.1, A component manager based where your components live in Git., 2017-05-13T20:57:31+0000
+/project/zn/, zn, 0.0.1, Zinc, 2019-01-31T00:43:06+0000
+/project/github3apps-py/, github3apps.py, 0.2.2, Access the Github API as an Application, 2021-02-10T07:10:27+0000
+/project/ubidump/, ubidump, 1.0.0, Commandline tool for viewing or extracting UBIFS images., 2020-11-09T09:01:09+0000
+/project/musdex/, musdex, 17.9.13, musdex -- VCS-aware zip archive tool, 2017-09-13T03:44:07+0000
+/project/smug/, smug, 0.6b1, smugly superior to wikis, 2009-07-14T21:10:17+0000
+/project/repoguard/, repoguard, 0.3.0.dev, RepoGuard is a framework for Subversion hook scripts., 2019-08-23T03:20:23+0000
+/project/git-repo-cli/, git-repo-cli, 1.2.0, Utils to easily create/delete/rename repository., 2020-04-14T18:54:44+0000
+/project/yoyo-migrations/, yoyo-migrations, 7.3.1, Database migrations with SQL, 2021-01-18T15:13:38+0000
+/project/leak/, leak, 1.2.0, Show available releases for package, 2018-10-11T08:46:41+0000
+/project/workflow-sandbox/, workflow-sandbox, 0.5.0, Testing GitHub actions, Cirrus CI, documentation, and publishing releases of Python packages., 2020-05-21T03:48:13+0000
+/project/pybitbucket/, pybitbucket, 0.12.0, A Python wrapper for the Bitbucket API, 2016-12-02T23:20:19+0000
+/project/scd/, scd, 1.2.3, Something Completely different, 2017-02-14T14:56:06+0000
+/project/git-test/, git-test, 0.1.0, Run automated tests against a range of Git commits and keep track of the results, 2020-07-10T14:56:46+0000
+/project/import-git-files/, import-git-files, 0.1.0, Import files from git repositories to local destinations., 2020-07-13T16:53:45+0000
+/project/hg-github/, hg-github, 0.1.5, A Mercurial extension for working with GitHub repositories, 2014-07-13T01:08:32+0000
+/project/hg-commit-sanity/, hg-commit-sanity, 0.0.1, Mercurial extension to do sanity checks on commits., 2013-08-22T18:18:47+0000
+/project/fogbugz/, fogbugz, 1.0.6, Python library for interacting with the FogBugz API, 2016-11-01T14:47:06+0000
+/project/redblackgraph/, RedBlackGraph, 0.3.15, Red Black Graph, 2020-04-17T23:14:14+0000
+/project/python-git-info/, python-git-info, 0.7, Get git information repository, directly from .git, 2021-04-20T11:06:59+0000

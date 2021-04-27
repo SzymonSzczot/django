@@ -1,0 +1,64 @@
+/project/zexceptions/, zExceptions, 4.1, zExceptions contains common exceptions used in Zope., 2018-10-05T12:48:22+0000
+/project/plone-memoize/, plone.memoize, 2.1.0, Decorators for caching the values of functions and methods, 2020-04-20T21:01:58+0000
+/project/products-zsparqlmethod/, Products.ZSPARQLMethod, 2.3, Zope product for making SPARQL queries, simiar to ZSQLMethod, 2020-08-05T10:14:45+0000
+/project/products-cmfdefault/, Products.CMFDefault, 2.3.0, Default product for the Zope Content Management Framework, 2021-02-04T13:28:39+0000
+/project/souper-plone/, souper.plone, 1.3.1, Plone Souper Integration: Container for many lightweight queryable Records, 2021-02-13T15:30:45+0000
+/project/ftw-slacker/, ftw.slacker, 1.1.0, Uses webhooks to post messages into a slack channel., 2019-11-27T11:28:47+0000
+/project/products-daterangeinrangeindex/, Products.DateRangeInRangeIndex, 2.0.1, Zope index to query a daterange on objects with a daterange, 2019-03-21T07:19:28+0000
+/project/pas-plugins-ldap/, pas.plugins.ldap, 1.8.0, LDAP/AD Plugin for Plone/Zope PluggableAuthService (users+groups), 2020-06-11T05:49:04+0000
+/project/collective-zodbdebug/, collective.zodbdebug, 0.0.1, Tools to debug a ZODB., 2019-07-03T14:58:56+0000
+/project/zlog/, zLOG, 3.1, A general logging facility, 2020-11-18T13:47:55+0000
+/project/five-taskqueue/, five.taskqueue, 0.4.0, Zope2 integration of z3c.taskqueue, 2018-11-16T10:45:16+0000
+/project/eea-faceted-inheritance/, eea.faceted.inheritance, 6.2, EEA Faceted Navigation extension that allow a faceted navigable object to inherit faceted configuration from another faceted navigable object., 2020-03-03T15:07:06+0000
+/project/z3c-jbot/, z3c.jbot, 1.1.0, Drop-in template overrides., 2020-09-20T07:28:40+0000
+/project/authencoding/, AuthEncoding, 4.2.1, Framework for handling LDAP style password hashes., 2021-04-08T07:27:00+0000
+/project/products-btreefolder2/, Products.BTreeFolder2, 4.2, A BTree based implementation for Zope 2's OFS., 2019-03-08T13:03:31+0000
+/project/pp-connector-plone/, pp.connector.plone, 1.0.5, Produce & Publisher Plone Client Connector, 2018-12-12T07:39:00+0000
+/project/visaplan-zope-inputmacros/, visaplan.zope.inputmacros, 1.3.0.dev2, Generic METAL macros for input fields, 2020-10-22T11:16:39+0000
+/project/z3c-checkversions/, z3c.checkversions, 1.2, Find newer package versions on PyPI, 2020-04-13T19:33:52+0000
+/project/z3c-ptcompat/, z3c.ptcompat, 2.2.0, Zope-compatible page template engine based on Chameleon., 2019-01-27T14:54:53+0000
+/project/eea-cache/, eea.cache, 9.4, Tools and config for memcache related caching, 2020-03-10T16:41:46+0000
+/project/visaplan-zope-reldb/, visaplan.zope.reldb, 1.0.0.dev2, Configure a Data source name for Zope, 2020-10-16T13:00:55+0000
+/project/eea-facetednavigation/, eea.facetednavigation, 14.5, EEA Faceted Navigation, 2021-03-29T13:27:30+0000
+/project/yafowil-plone/, yafowil.plone, 3.0.0, Plone Integration with YAFOWIL, 2019-02-19T10:12:04+0000
+/project/products-zopeversioncontrol/, Products.ZopeVersionControl, 2.0.0, Zope Version Control, 2020-03-09T21:12:58+0000
+/project/products-zmysqlda/, Products.ZMySQLDA, 4.10, MySQL Zope adapter., 2021-03-30T06:55:28+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/bda-plone-ajax/, bda.plone.ajax, 2.0, bdajax integration for Plone., 2019-03-10T22:07:02+0000
+/project/eea-graylogger/, eea.graylogger, 2.0, GELF (Graylog Extended Log Format) for Zope, 2019-12-02T16:33:16+0000
+/project/collective-js-jqueryui/, collective.js.jqueryui, 2.1.8, JQueryUI ready for Plone, 2021-01-05T13:39:14+0000
+/project/products-ldapuserfolder/, Products.LDAPUserFolder, 3.1, A LDAP-enabled Zope 2 user folder, 2019-01-21T02:15:48+0000
+/project/collective-taxonomy/, collective.taxonomy, 2.0.1, Create, edit and use hierarchical taxonomies in Plone!, 2020-07-04T07:09:42+0000
+/project/zodbupdate/, zodbupdate, 1.5, Update ZODB class references for moved or renamed classes., 2020-07-28T06:03:29+0000
+/project/zexceptions/, zExceptions, 4.1, zExceptions contains common exceptions used in Zope., 2018-10-05T12:48:22+0000
+/project/plone-memoize/, plone.memoize, 2.1.0, Decorators for caching the values of functions and methods, 2020-04-20T21:01:58+0000
+/project/products-zsparqlmethod/, Products.ZSPARQLMethod, 2.3, Zope product for making SPARQL queries, simiar to ZSQLMethod, 2020-08-05T10:14:45+0000
+/project/products-cmfdefault/, Products.CMFDefault, 2.3.0, Default product for the Zope Content Management Framework, 2021-02-04T13:28:39+0000
+/project/souper-plone/, souper.plone, 1.3.1, Plone Souper Integration: Container for many lightweight queryable Records, 2021-02-13T15:30:45+0000
+/project/ftw-slacker/, ftw.slacker, 1.1.0, Uses webhooks to post messages into a slack channel., 2019-11-27T11:28:47+0000
+/project/products-daterangeinrangeindex/, Products.DateRangeInRangeIndex, 2.0.1, Zope index to query a daterange on objects with a daterange, 2019-03-21T07:19:28+0000
+/project/pas-plugins-ldap/, pas.plugins.ldap, 1.8.0, LDAP/AD Plugin for Plone/Zope PluggableAuthService (users+groups), 2020-06-11T05:49:04+0000
+/project/collective-zodbdebug/, collective.zodbdebug, 0.0.1, Tools to debug a ZODB., 2019-07-03T14:58:56+0000
+/project/zlog/, zLOG, 3.1, A general logging facility, 2020-11-18T13:47:55+0000
+/project/five-taskqueue/, five.taskqueue, 0.4.0, Zope2 integration of z3c.taskqueue, 2018-11-16T10:45:16+0000
+/project/eea-faceted-inheritance/, eea.faceted.inheritance, 6.2, EEA Faceted Navigation extension that allow a faceted navigable object to inherit faceted configuration from another faceted navigable object., 2020-03-03T15:07:06+0000
+/project/z3c-jbot/, z3c.jbot, 1.1.0, Drop-in template overrides., 2020-09-20T07:28:40+0000
+/project/authencoding/, AuthEncoding, 4.2.1, Framework for handling LDAP style password hashes., 2021-04-08T07:27:00+0000
+/project/products-btreefolder2/, Products.BTreeFolder2, 4.2, A BTree based implementation for Zope 2's OFS., 2019-03-08T13:03:31+0000
+/project/collective-taxonomy/, collective.taxonomy, 2.0.1, Create, edit and use hierarchical taxonomies in Plone!, 2020-07-04T07:09:42+0000
+/project/zodbupdate/, zodbupdate, 1.5, Update ZODB class references for moved or renamed classes., 2020-07-28T06:03:29+0000
+/project/products-ldapuserfolder/, Products.LDAPUserFolder, 3.1, A LDAP-enabled Zope 2 user folder, 2019-01-21T02:15:48+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/bda-plone-ajax/, bda.plone.ajax, 2.0, bdajax integration for Plone., 2019-03-10T22:07:02+0000
+/project/visaplan-zope-reldb/, visaplan.zope.reldb, 1.0.0.dev2, Configure a Data source name for Zope, 2020-10-16T13:00:55+0000
+/project/eea-facetednavigation/, eea.facetednavigation, 14.5, EEA Faceted Navigation, 2021-03-29T13:27:30+0000
+/project/yafowil-plone/, yafowil.plone, 3.0.0, Plone Integration with YAFOWIL, 2019-02-19T10:12:04+0000
+/project/products-zopeversioncontrol/, Products.ZopeVersionControl, 2.0.0, Zope Version Control, 2020-03-09T21:12:58+0000
+/project/products-zmysqlda/, Products.ZMySQLDA, 4.10, MySQL Zope adapter., 2021-03-30T06:55:28+0000
+/project/eea-aliases/, eea.aliases, 1.5, zodbupdate aliases, 2020-08-14T08:46:24+0000
+/project/bda-plone-ajax/, bda.plone.ajax, 2.0, bdajax integration for Plone., 2019-03-10T22:07:02+0000
+/project/eea-graylogger/, eea.graylogger, 2.0, GELF (Graylog Extended Log Format) for Zope, 2019-12-02T16:33:16+0000
+/project/collective-js-jqueryui/, collective.js.jqueryui, 2.1.8, JQueryUI ready for Plone, 2021-01-05T13:39:14+0000
+/project/products-ldapuserfolder/, Products.LDAPUserFolder, 3.1, A LDAP-enabled Zope 2 user folder, 2019-01-21T02:15:48+0000
+/project/collective-taxonomy/, collective.taxonomy, 2.0.1, Create, edit and use hierarchical taxonomies in Plone!, 2020-07-04T07:09:42+0000
+/project/zodbupdate/, zodbupdate, 1.5, Update ZODB class references for moved or renamed classes., 2020-07-28T06:03:29+0000

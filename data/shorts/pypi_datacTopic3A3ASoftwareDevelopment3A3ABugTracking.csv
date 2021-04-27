@@ -1,0 +1,390 @@
+/project/asparagus/, asparagus, 0.1.0, Django middleware to log object leaks, 2017-01-09T11:26:55+0000
+/project/bugwarrior/, bugwarrior, 1.8.0, Sync github, bitbucket, and trac issues with taskwarrior, 2020-12-11T15:58:28+0000
+/project/milestonemaker/, milestonemaker, 1.0.5, Create milestones in GitHub automatically, 2018-04-26T19:21:27+0000
+/project/fogbugz-bis/, fogbugz-bis, 1.1, Python library for interacting with the FogBugz API, 2019-04-17T13:59:37+0000
+/project/django-helpdesk/, django-helpdesk, 0.2.23, Django-powered ticket tracker for your helpdesk, 2020-11-12T07:06:05+0000
+/project/deft/, Deft, 0.2.0, Easy Distributed Feature Tracking, 2011-07-23T00:01:15+0000
+/project/django-todo/, django-todo, 2.4.9, A multi-user, multi-group task management and assignment system for Django., 2019-09-19T06:27:19+0000
+/project/yamltrak/, YAMLTrak, 0.6.3, YAMLTrak ('yt is on top of hg'), the issue tracker that uses mercurial as a database, 2009-04-19T19:11:28+0000
+/project/survol/, survol, 1.0.31, Exploring legacy IT systems, 2020-11-26T07:29:40+0000
+/project/dj-migration-test/, dj-migration-test, 0.3.1, Django migration test module, 2020-06-05T19:40:20+0000
+/project/asanatogithub/, AsanaToGithub, 1.0.0, Simple script to copy items from Asana to Github issues, 2012-12-31T15:02:46+0000
+/project/megaplan/, megaplan, 1.4, Python interface to megaplan.ru API, 2013-11-11T09:30:19+0000
+/project/viztracer/, viztracer, 0.12.3, A debugging and profiling tool that can trace and visualize python code execution, 2021-04-05T03:08:01+0000
+/project/roundup/, roundup, 2.0.0, A simple-to-use and -install issue-tracking system with command-line, web and e-mail interfaces. Highly customisable., 2020-07-13T13:15:12+0000
+/project/ticketus/, ticketus, 0.6.0, Ticketus is a simple, no-frills ticketing system for helpdesks., 2015-01-16T03:24:57+0000
+/project/jira-cli/, jira-cli, 3.0, command line utility for interacting with jira, 2020-11-23T04:55:33+0000
+/project/appenlight/, appenlight, 2.0.0rc1, appenlight, 2019-04-13T21:37:55+0000
+/project/immureii/, immureii, 0.42.10, Immure Iniquitous Intent, 2021-03-22T23:10:15+0000
+/project/lino-amici/, lino-amici, 20.12.0, A Lino application for managing family contacts, 2020-12-26T09:39:23+0000
+/project/bugspots/, bugspots, 0.1, Identify hot spots in a codebase with the bug prediction algorithm used at Google., 2011-12-31T01:03:49+0000
+/project/tracemaildigestplugin/, TracEmailDigestPlugin, 0.1, Email notifications & daily digests for tickets in Trac, 2011-09-06T11:17:53+0000
+/project/ml-apis/, ML-APIs, 0.0.3, A package for google ML_APIs., 2020-01-02T12:46:14+0000
+/project/basecamp/, basecamp, 0.0.12, Almost complete warapper around the Basecamp API., 2012-03-12T12:52:22+0000
+/project/news-fetch/, news-fetch, 0.2.8, news-fetch is an open source easy-to-use news extractor and basic nlp (cleaning_text, keywords, summary) comes handy that just works, 2021-01-29T15:59:25+0000
+/project/pyditz/, pyditz, 0.11, Python implementation of Ditz (http://rubygems.org/gems/ditz)., 2020-05-29T16:09:10+0000
+/project/trac/, Trac, 1.4.2, Integrated SCM, wiki, issue tracker and project environment, 2020-06-17T05:27:31+0000
+/project/squash/, squash, 0.5.0alpha, A distributed, highly configurable issue tracking system., 2009-03-25T01:03:24+0000
+/project/smacom/, smacom, 1.0.2, SamaCOM a Python Package extends main framework functionalities, 2020-06-23T21:13:54+0000
+/project/logprism/, logprism, 0.1.2, Prism – Colourise log files (with ANSI characters codes), 2013-03-31T12:41:42+0000
+/project/github-cli/, github-cli, 1.0.0, A command-line interface to the GitHub Issues API v2., 2011-11-08T20:13:19+0000
+/project/sentry-lark/, sentry-lark, 0.0.1, Plugin for Sentry which allows sending notification via Lark messenger., 2019-08-13T17:43:36+0000
+/project/timemory/, timemory, 3.1.0, Lightweight cross-language instrumentation API for C, C++, Python, Fortran, and CUDA which allows arbitrarily bundling tools together into a single performance analysis handle, 2020-07-11T01:12:43+0000
+/project/resourcereservation/, ResourceReservation, 1.0.4, Resource Reservation plugin for Trac, 2011-05-19T10:14:25+0000
+/project/quickcloud/, quickcloud, 0.1.3, Cloud Manager of QuickCorp, 2018-03-25T22:29:04+0000
+/project/pyramid-ratchet/, pyramid_ratchet, 0.3.4, Ratchet.io notifier plugin for Pyramid, 2012-12-01T03:11:13+0000
+/project/ratchet/, ratchet, 0.4.1, Ratchet.io generic python library, 2013-02-20T21:43:08+0000
+/project/ecasb2share/, ecasb2share, 0.0.1b16, ecasb2share provides a python library to interact with B2SHARE REST API., 2019-04-17T14:48:25+0000
+/project/teamlab/, teamlab, 0.2, Python interface to TeamLab API, 2012-12-11T20:48:14+0000
+/project/rollbar-udp-agent/, rollbar-udp-agent, 0.0.15, Rollbar server-side UDP agent, 2015-05-27T09:48:15+0000
+/project/issue-watcher/, issue-watcher, 3.0.0, Python test cases watching when an issue is closed and failing a test to let you know fixed functionality is available., 2021-01-04T21:39:37+0000
+/project/gri/, gri, 0.6.1, Git Review Interface for Gerrit and Github, 2020-11-23T12:09:23+0000
+/project/python-otrs/, python-otrs, 0.4.3, A programmatic interface to OTRS SOAP API., 2017-08-21T17:00:45+0000
+/project/gitbot/, gitbot, 0.5, Automatically label GitHub issues based on regexp rules., 2016-11-08T15:12:56+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/githubflow/, githubflow, 0.3, A command line interface to githubuses the github apis commandline., 2014-05-25T09:24:06+0000
+/project/logger-helper/, logger-helper, 0.1.0, A simple way to gather verbose logs from your application!, 2018-02-16T16:41:52+0000
+/project/qcrash/, qcrash, 0.2.0, A crash report framework for PyQt/PySide applications, 2016-05-02T15:55:02+0000
+/project/imdby/, imdby, 0.1.5, Python package to access the IMDb's database, 2020-04-10T17:58:15+0000
+/project/needforcryptography/, NeedForCryptography, 1.05, Python cryptographic tools and ciphers, 2014-06-27T02:17:53+0000
+/project/treeoflife/, treeoflife, 0.0.4, A Tree of your Life (end-user application), 2014-03-22T06:04:56+0000
+/project/mltrace/, mltrace, 0.1, Lineage and tracing for ML pipelines, 2021-04-14T20:02:51+0000
+/project/hellonoushi/, helloNoushi, 0.0.1, say hello, 2020-10-21T21:59:27+0000
+/project/salt-lint/, salt-lint, 0.5.2, A command-line utility that checks for best practices in SaltStack., 2021-01-29T19:36:37+0000
+/project/rollbar/, rollbar, 0.15.2, Easy and powerful exception tracking with Rollbar. Send messages and exceptions with arbitrary context, get back aggregates, and debug production issues quickly., 2021-01-25T20:56:03+0000
+/project/cartman/, cartman, 0.3.0, trac command-line tools, 2020-03-14T20:47:48+0000
+/project/github-push-issues/, github-push-issues, 0.3, Create GitHub issues based on local templates., 2015-04-16T22:57:43+0000
+/project/ansible-lint/, ansible-lint, 5.0.7, Checks playbooks for practices and behaviour that could potentially be improved, 2021-04-07T14:29:07+0000
+/project/tracgviz/, TracGViz, 1.3.4, Trac Data Sources for Google Visualization API. Embed iGoogle gadgets using WikiFormatting., 2009-07-30T19:54:24+0000
+/project/twcli/, twcli, 2.0, TaskWorkshop CLI, 2013-05-10T14:15:57+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/storyboard-api/, storyboard-api, 1.1.0, StoryBoard Task Tracker API Service, 2020-03-28T14:53:30+0000
+/project/python-debianbts/, python-debianbts, 3.1.0, Python interface to Debian's Bug Tracking System, 2020-12-18T10:47:32+0000
+/project/tracbasicmacros/, TracBasicMacros, 1.0.2, Simple but useful Trac macros, 2010-07-19T19:43:38+0000
+/project/siginfo/, siginfo, 0.9, A Python package to help debugging and monitoring python script, 2020-06-28T18:11:13+0000
+/project/chainedsct/, chainedSCT, 0.0.2, Blockchain-Based Smart Contact Tracing, 2021-02-07T01:38:57+0000
+/project/amqpdeliver/, AMQPDeliver, 0.1, Asynchronous file transfer using AMQP, 2011-09-06T11:05:50+0000
+/project/cramunit/, CramUnit, 0.8, Tool to create Unittests/Xunit output from cram (*.t) tests., 2014-01-31T10:38:25+0000
+/project/grq/, grq, 0.1.dev1, ..., 2020-11-20T13:39:42+0000
+/project/dvdev/, DVDev, 0.1.3, DVDev - Distributed Development - tools for Open Source Software, 2009-04-19T22:09:33+0000
+/project/tracburndownplugin/, TracBurndownPlugin, 0.1, Burndown chart plugin for milestones in Trac, 2011-09-06T11:17:49+0000
+/project/issue/, issue, 0.1.5, Simple issue tracker to use with VCS, 2014-01-07T20:51:09+0000
+/project/django-task-manager/, django-task-manager, 0.1, A multi-user, multi-team task management and assignment system for Django., 2019-03-30T16:59:02+0000
+/project/deadcheck/, deadcheck, 0.0.3.3.1, Deadlink Check Utility using Python Modules, 2015-03-10T07:11:56+0000
+/project/loggerpy/, loggerpy, 2.1.1, The simplest Python logger for everyday tasks., 2021-01-16T16:17:48+0000
+/project/filestat/, filestat, 0.2.3, A command line library for file monitoring., 2019-05-11T20:15:11+0000
+/project/tracmacostheme/, TracMacOSTheme, 1.0.3, Trac theme to make it look like Mac OS, 2010-12-20T20:25:28+0000
+/project/gcg/, gcg, 0.2.0, Git Changelog Generator, 2019-07-09T19:48:36+0000
+/project/helga-bugzilla/, helga-bugzilla, 1.3.2, bugzilla plugin for helga, 2018-06-25T22:05:04+0000
+/project/hawkcatcher/, hawkcatcher, 2.0.0, Python errors Catcher module for Hawk., 2020-03-17T15:29:05+0000
+/project/svnchecker/, svnchecker, 0.3, SVNChecker is a framework for Subversion hook scripts., 2008-07-20T19:55:54+0000
+/project/django-audit-tools/, django-audit-tools, 0.4.0, Django application that provides a set of tools for auditing requests and models and improve logging, 2016-01-19T23:39:15+0000
+/project/searchable-collection/, searchable_collection, 0.0.3, A searchable list implementation, written entirely in python., 2017-12-05T07:54:09+0000
+/project/logstash-python-formatter/, logstash-python-formatter, 0.1.2, Python formatter for working with Logstash json filters., 2019-09-11T08:51:22+0000
+/project/mg-conveyor/, mg-conveyor, 1.0.0, A tool for having a sequential execution of plugins, 2015-02-03T09:32:35+0000
+/project/explainer/, explainer, 0.0.2dev, The first unified explainability toolkit for explainable software and hardware systems., 2019-01-24T23:56:17+0000
+/project/lino-noi/, lino-noi, 21.2.0, The Lino application used by the Lino team for managing their work on the Lino project, 2021-02-25T09:27:30+0000
+/project/pivotaltracker/, pivotaltracker, 0.0.3, pivotaltracker is a Pythonic wrapper around the PivotalTracker API, 2009-07-04T03:12:31+0000
+/project/timezone-logging/, timezone-logging, 0.1, Logging with timezone, 2017-10-13T05:57:16+0000
+/project/gcal2redmine/, gcal2redmine, 0.3.0.post2, Fill Redmine time tracker from a Google Calendar, 2019-07-30T15:03:09+0000
+/project/sentry-telegram/, sentry-telegram, 0.4.0, Plugin for Sentry which allows sending notification via Telegram messenger., 2019-04-28T18:20:12+0000
+/project/mangotrac/, MangoTrac, 0.6, Issue Tracker based on the Django admin app, 2014-08-25T16:00:52+0000
+/project/v1pysdk/, v1pysdk, 0.6.2, VersionOne API client, 2018-07-02T22:45:26+0000
+/project/uxml2object/, uxml2object, 0.1, Quick Corp uXML2Object, 2017-08-04T16:21:23+0000
+/project/qgis2to3/, qgis2to3, 0.5, Tools to help porting QGIS Plugins from api v2 to api v3, 2018-05-09T12:00:12+0000
+/project/jiradls/, jiradls, 1.0, A JIRA command line interface for the DLS instance, 2020-11-13T14:16:40+0000
+/project/telefeeder/, telefeeder, 0.0.1, A simple python script to send your RSS feeds to your Telegram channel, 2020-10-08T09:55:17+0000
+/project/pycrastinate/, pycrastinate, 0.1.0, Keep your TODO, FIXME, etc. under control by triggering actions, generating reports, date/author/custom filtering, automated e-mails and more, 2014-06-15T19:20:56+0000
+/project/archub/, archub, 1.0.0a8, , 2018-04-08T18:19:28+0000
+/project/tratihubis/, tratihubis, 0.5, convert Trac tickets to Github issues, 2013-02-16T20:15:27+0000
+/project/cubicweb-forge/, cubicweb-forge, 1.13.0, software forge component for the CubicWeb framework, 2016-12-06T14:32:14+0000
+/project/tweety/, tweety, 0.1.6, Python package which to access the Twitter database without API, 2019-07-09T16:52:27+0000
+/project/ensurecvs/, ensurecvs, 1.0.3, Find important upstream fixes, 2020-02-07T18:30:08+0000
+/project/webkit2png/, webkit2png, 0.8.2, Takes snapshot of webpages using Webkit and Qt4, 2010-05-12T20:47:53+0000
+/project/rollbar-agent/, rollbar-agent, 0.4.4, Rollbar server-side agent, 2020-09-23T16:20:01+0000
+/project/haiku-errors/, haiku-errors, 0.3.0, Haiku error messages for Python, 2016-10-17T10:26:26+0000
+/project/p-unity/, p-unity, 0.42.202104180000, { Programming : Unity }, 2021-04-18T01:18:45+0000
+/project/simplegetargs/, SimpleGetArgs, 0.0.3, Test to Publish the Command Line, 2020-11-04T01:41:49+0000
+/project/bugs-everywhere/, bugs-everywhere, 1.1.1, Bugtracker supporting distributed revision control, 2013-06-28T16:26:05+0000
+/project/kivyunittest/, kivyunittest, 0.1.8, Unittesting for Kivy framework, 2017-09-13T21:21:43+0000
+/project/diagnostics/, diagnostics, 0.2.4, Alternative to Python's module `cgitb` with template inspired by Nette and Django, 2014-04-14T07:26:03+0000
+/project/lino-algus/, lino-algus, 0.2.0, A template for new Lino applications, 2018-10-29T09:37:22+0000
+/project/bushy/, bushy, 0.2.5, A git workflow plugin., 2011-07-08T22:50:11+0000
+/project/sentry-wxwork/, sentry-wxwork, 1.2.0, Plugin for Sentry which integrates with WeChat Work., 2021-02-03T06:23:06+0000
+/project/lino-care/, lino-care, 20.1.0, A database for managing a network of helpers., 2020-01-03T05:44:15+0000
+/project/spc/, spc, 0.3, Statistical Process Control library for monitoring process behaviour, 2009-01-26T05:28:05+0000
+/project/products-issuedealer/, Products.IssueDealer, 0.9.140, The Issue Dealer is an application for managing information. It is currently used by organizations and individuals to manage day-to-day tasks and information., 2015-02-13T03:09:12+0000
+/project/python-andromeda/, python-andromeda, 1.0.5.2, OpenStack Repository Management Tool., 2015-08-05T19:51:05+0000
+/project/inary/, inary, 1.4.2-1, Inary (Special Package Manager), 2020-11-01T17:55:55+0000
+/project/smampp/, smaMPP, 1.0.1, Sama Python Package is a project that extends main framework functionalities, 2020-06-23T16:43:51+0000
+/project/sentry-telegram-py3/, sentry-telegram-py3, 0.5.0, Plugin for Sentry which allows sending notification via Telegram messenger., 2021-03-16T09:44:17+0000
+/project/gisrep/, gisrep, 0.2.3, The command line Github issues reporter, 2018-03-28T11:56:19+0000
+/project/hive-bt/, hive-bt, 0.0.4, Hive is a distributed bug tracker., 2019-06-27T14:57:01+0000
+/project/cykle/, cykle, 0.2.10, CLI for the happy coding process, 2016-12-20T07:41:25+0000
+/project/ymir/, ymir, 0.22, an automation tool for your automation tools, 2016-08-03T08:20:23+0000
+/project/django-issue-synchronisation/, django-issue-synchronisation, 0.1.6, Issue synchronisation for django applications, 2011-03-16T13:11:45+0000
+/project/gitssue/, Gitssue, 2.0.0, Manage your issues from the command line., 2018-06-23T13:19:41+0000
+/project/timethat/, timethat, 1.1.5, A human friendly time calculator for functions and code blocks, 2019-12-19T21:17:22+0000
+/project/gitli/, gitli, 0.4, Simple issue management for git, 2011-03-19T12:35:34+0000
+/project/txbugzilla/, txbugzilla, 2.0.0, Twisted API for Bugzilla, 2019-01-22T17:20:47+0000
+/project/ratchet-agent/, ratchet-agent, 0.2.4, Ratchet.io server-side agent, 2012-12-12T02:33:08+0000
+/project/apminsight-site24x7-py/, apminsight-site24x7-py, 1.0.0, site24x7 monitoring package, 2021-01-29T12:55:11+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/ndblite/, ndblite, 0.1.1, Quick Corp ndblite, 2018-01-09T15:58:13+0000
+/project/lokai/, Lokai, 0.3, Extendable Business Process Management Application, 2012-07-10T15:36:33+0000
+/project/flawless/, flawless, 0.4.5, Python Error Monitoring and Reporting, 2020-06-25T00:44:35+0000
+/project/jiracli/, jiracli, 0.4.12, command line interface for jira, 2019-07-03T05:02:12+0000
+/project/repoguard/, repoguard, 0.3.0.dev, RepoGuard is a framework for Subversion hook scripts., 2019-08-23T03:20:23+0000
+/project/pyclark/, pyClark, 0.0.1, Remote error reporting that helps save the day, 2018-04-26T13:32:11+0000
+/project/report-hub-cli/, report-hub-cli, 0.0.3, Cli for ReportHub server, 2019-04-27T21:51:58+0000
+/project/utuby/, utuby, 0.7, Python package which to access the YouTube database without API, 2019-05-30T13:33:05+0000
+/project/pbcommand/, pbcommand, 0.3.29, Library and Tools for interfacing to PacBio pbsmrtpipe workflow engine., 2016-06-14T22:43:36+0000
+/project/fogbugz/, fogbugz, 1.0.6, Python library for interacting with the FogBugz API, 2016-11-01T14:47:06+0000
+/project/sentry-wechatwork/, sentry-wechatwork, 0.0.1, Plugin for Sentry which allows sending notification via WechatWork messenger., 2019-08-13T17:44:27+0000
+/project/lino-vilma/, lino-vilma, 20.1, A Lino application for managing village contacts, 2020-01-06T15:10:21+0000
+/project/mingle/, mingle, 0.1.7, Get lines from a number of log files with different time-stamp formats in chronological order, 2017-11-25T01:45:15+0000
+/project/blink2png/, blink2png, 0.9.3, To take snapshot of web pages using Blink Engine and Qt5, 2020-04-03T11:37:41+0000
+/project/jira-rabbitmq-webhook/, jira-rabbitmq-webhook, 0.1.2, A microservice for retranslating Jira webhooks to a RabbitMQ server, 2021-02-16T14:03:58+0000
+/project/roundup2bitbucket/, roundup2bitbucket, 0.1, Convert Roundup data to Bitbucket's issue tracker, 2015-01-17T16:53:17+0000
+/project/pygraf/, pygraf, 1.02, Python Graph library, 2015-10-15T12:42:42+0000
+/project/pympler/, Pympler, 0.9, A development tool to measure, monitor and analyze the memory behavior of Python objects., 2020-10-14T20:27:50+0000
+/project/trac-mattermost/, trac-mattermost, 0.1, Trac notifications in Mattermost, 2015-12-27T12:55:20+0000
+/project/sentry-telegram-aputilov/, sentry-telegram-aputilov, 0.4.13, Plugin for Sentry which allows sending notification via Telegram messenger., 2020-01-10T12:15:01+0000
+/project/helpdev/, helpdev, 0.7.1, HelpDev - Extracts information about the Python environment easily., 2020-05-05T21:12:46+0000
+/project/gitticket/, gitticket, 0.5.1, Git and issue tracking system integration, 2013-06-21T23:25:47+0000
+/project/django-ratchet/, django-ratchet, 0.3.5, Ratchet.io plugin for django, 2012-11-21T19:14:54+0000
+/project/autograph/, autograph, 1.0.0, A Django application for managing signature/autograph data., 2013-06-08T10:04:52+0000
+/project/redmine-to-omnifocus/, redmine-to-omnifocus, 1.0, Import Redmine issues into OmniFocus, 2012-02-09T10:14:30+0000
+/project/gitissius/, Gitissius, 0.1.6, Distributed bug tracking for Git., 2011-11-20T23:14:14+0000
+/project/qtbe/, QtBE, 0.2, Graphical user interface for bugtracker "Bugs Everywhere" supporting distributed revision control, 2011-08-14T17:51:27+0000
+/project/osearch/, osearch, 0.1.0, Search nested lists and dicts, 2020-07-06T07:55:47+0000
+/project/rak-arth/, rak_arth, 1.5.4, it does arthimatical operations, 2017-01-20T09:21:11+0000
+/project/firepython/, FirePython, 0.9.0, Python logging console integrated into Firebug, 2010-10-25T13:16:55+0000
+/project/git-track/, Git-Track, 0.1, Minimal Bug Tracking For Git., 2011-08-16T13:06:29+0000
+/project/faradaysec/, faradaysec, 3.14.4, Collaborative Penetration Test and Vulnerability Management Platform https://www.faradaysec.com, 2021-04-16T16:32:06+0000
+/project/yqn-pytorch-framework/, yqn-pytorch-framework, 0.2.3, YQN Pytorch Framework, 2020-10-13T02:06:27+0000
+/project/pagerdutyapi/, pagerdutyapi, 0.4.1, PagerDuty support, mostly reporting alerts, 2016-03-22T18:24:02+0000
+/project/amptrac/, amptrac, 0.1, Client for twisted's amp interface to trac, 2013-06-13T01:38:33+0000
+/project/nose-regression/, nose-regression, 1.0, A simple regression testing plugin for nose., 2011-08-15T19:54:11+0000
+/project/benibasiccalc/, BeniBasicCalc, 1.0, A very basic Calculator, 2020-10-20T20:40:33+0000
+/project/hubugs/, hubugs, 0.19.0, Simple client for GitHub issues, 2018-11-27T16:04:30+0000
+/project/printlog/, printlog, 0.0.5, Colorize your logs to spot them at a glance., 2021-03-21T23:54:27+0000
+/project/rainingman/, rainingman, 0.1.14, Raining is a collection of scripts that gather informatio about your packages, 2016-11-07T12:29:08+0000
+/project/static-parameters/, static_parameters, 0.4, Simple decorators to raise a TypeError, if paramates type not satisfied, 2018-07-15T07:20:05+0000
+/project/namemod/, namemod, 0.1.1, A console tool for renaming files or folders., 2014-07-04T10:25:55+0000
+/project/curtis/, curtis, 0.2, A simple sentry cli, 2018-07-30T09:13:00+0000
+/project/django-helpdesk3000/, django-helpdesk3000, 0.3.4, Django-powered ticket tracker for your helpdesk, 2017-12-20T23:11:48+0000
+/project/bugzillatools/, bugzillatools, 0.5.5, Bugzilla CLI client, XML-RPC binding and VCS plugins, 2015-04-25T08:13:13+0000
+/project/brython-dev/, brython-dev, 0.4.2, Brython developer tools, 2021-03-16T23:19:09+0000
+/project/django-profiler/, django-profiler, 2.0.0, util for profiling python code mainly in django projects, but can be used also on ordinary python code, 2013-09-11T10:24:06+0000
+/project/drupdates/, Drupdates, 1.5.1, , 2015-10-19T02:11:31+0000
+/project/redmine-to-omnifocus/, redmine-to-omnifocus, 1.0, Import Redmine issues into OmniFocus, 2012-02-09T10:14:30+0000
+/project/txbugzilla/, txbugzilla, 2.0.0, Twisted API for Bugzilla, 2019-01-22T17:20:47+0000
+/project/ratchet-agent/, ratchet-agent, 0.2.4, Ratchet.io server-side agent, 2012-12-12T02:33:08+0000
+/project/apminsight-site24x7-py/, apminsight-site24x7-py, 1.0.0, site24x7 monitoring package, 2021-01-29T12:55:11+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/ndblite/, ndblite, 0.1.1, Quick Corp ndblite, 2018-01-09T15:58:13+0000
+/project/lokai/, Lokai, 0.3, Extendable Business Process Management Application, 2012-07-10T15:36:33+0000
+/project/flawless/, flawless, 0.4.5, Python Error Monitoring and Reporting, 2020-06-25T00:44:35+0000
+/project/jiracli/, jiracli, 0.4.12, command line interface for jira, 2019-07-03T05:02:12+0000
+/project/repoguard/, repoguard, 0.3.0.dev, RepoGuard is a framework for Subversion hook scripts., 2019-08-23T03:20:23+0000
+/project/pyclark/, pyClark, 0.0.1, Remote error reporting that helps save the day, 2018-04-26T13:32:11+0000
+/project/report-hub-cli/, report-hub-cli, 0.0.3, Cli for ReportHub server, 2019-04-27T21:51:58+0000
+/project/utuby/, utuby, 0.7, Python package which to access the YouTube database without API, 2019-05-30T13:33:05+0000
+/project/pbcommand/, pbcommand, 0.3.29, Library and Tools for interfacing to PacBio pbsmrtpipe workflow engine., 2016-06-14T22:43:36+0000
+/project/fogbugz/, fogbugz, 1.0.6, Python library for interacting with the FogBugz API, 2016-11-01T14:47:06+0000
+/project/asparagus/, asparagus, 0.1.0, Django middleware to log object leaks, 2017-01-09T11:26:55+0000
+/project/bugwarrior/, bugwarrior, 1.8.0, Sync github, bitbucket, and trac issues with taskwarrior, 2020-12-11T15:58:28+0000
+/project/milestonemaker/, milestonemaker, 1.0.5, Create milestones in GitHub automatically, 2018-04-26T19:21:27+0000
+/project/fogbugz-bis/, fogbugz-bis, 1.1, Python library for interacting with the FogBugz API, 2019-04-17T13:59:37+0000
+/project/django-helpdesk/, django-helpdesk, 0.2.23, Django-powered ticket tracker for your helpdesk, 2020-11-12T07:06:05+0000
+/project/deft/, Deft, 0.2.0, Easy Distributed Feature Tracking, 2011-07-23T00:01:15+0000
+/project/django-todo/, django-todo, 2.4.9, A multi-user, multi-group task management and assignment system for Django., 2019-09-19T06:27:19+0000
+/project/survol/, survol, 1.0.31, Exploring legacy IT systems, 2020-11-26T07:29:40+0000
+/project/dj-migration-test/, dj-migration-test, 0.3.1, Django migration test module, 2020-06-05T19:40:20+0000
+/project/asanatogithub/, AsanaToGithub, 1.0.0, Simple script to copy items from Asana to Github issues, 2012-12-31T15:02:46+0000
+/project/megaplan/, megaplan, 1.4, Python interface to megaplan.ru API, 2013-11-11T09:30:19+0000
+/project/viztracer/, viztracer, 0.12.3, A debugging and profiling tool that can trace and visualize python code execution, 2021-04-05T03:08:01+0000
+/project/roundup/, roundup, 2.0.0, A simple-to-use and -install issue-tracking system with command-line, web and e-mail interfaces. Highly customisable., 2020-07-13T13:15:12+0000
+/project/ticketus/, ticketus, 0.6.0, Ticketus is a simple, no-frills ticketing system for helpdesks., 2015-01-16T03:24:57+0000
+/project/jira-cli/, jira-cli, 3.0, command line utility for interacting with jira, 2020-11-23T04:55:33+0000
+/project/appenlight/, appenlight, 2.0.0rc1, appenlight, 2019-04-13T21:37:55+0000
+/project/immureii/, immureii, 0.42.10, Immure Iniquitous Intent, 2021-03-22T23:10:15+0000
+/project/lino-amici/, lino-amici, 20.12.0, A Lino application for managing family contacts, 2020-12-26T09:39:23+0000
+/project/bugspots/, bugspots, 0.1, Identify hot spots in a codebase with the bug prediction algorithm used at Google., 2011-12-31T01:03:49+0000
+/project/sentry-lark/, sentry-lark, 0.0.1, Plugin for Sentry which allows sending notification via Lark messenger., 2019-08-13T17:43:36+0000
+/project/pyditz/, pyditz, 0.11, Python implementation of Ditz (http://rubygems.org/gems/ditz)., 2020-05-29T16:09:10+0000
+/project/trac/, Trac, 1.4.2, Integrated SCM, wiki, issue tracker and project environment, 2020-06-17T05:27:31+0000
+/project/smacom/, smacom, 1.0.2, SamaCOM a Python Package extends main framework functionalities, 2020-06-23T21:13:54+0000
+/project/logprism/, logprism, 0.1.2, Prism – Colourise log files (with ANSI characters codes), 2013-03-31T12:41:42+0000
+/project/github-cli/, github-cli, 1.0.0, A command-line interface to the GitHub Issues API v2., 2011-11-08T20:13:19+0000
+/project/yamltrak/, YAMLTrak, 0.6.3, YAMLTrak ('yt is on top of hg'), the issue tracker that uses mercurial as a database, 2009-04-19T19:11:28+0000
+/project/timemory/, timemory, 3.1.0, Lightweight cross-language instrumentation API for C, C++, Python, Fortran, and CUDA which allows arbitrarily bundling tools together into a single performance analysis handle, 2020-07-11T01:12:43+0000
+/project/tracemaildigestplugin/, TracEmailDigestPlugin, 0.1, Email notifications & daily digests for tickets in Trac, 2011-09-06T11:17:53+0000
+/project/ml-apis/, ML-APIs, 0.0.3, A package for google ML_APIs., 2020-01-02T12:46:14+0000
+/project/basecamp/, basecamp, 0.0.12, Almost complete warapper around the Basecamp API., 2012-03-12T12:52:22+0000
+/project/resourcereservation/, ResourceReservation, 1.0.4, Resource Reservation plugin for Trac, 2011-05-19T10:14:25+0000
+/project/quickcloud/, quickcloud, 0.1.3, Cloud Manager of QuickCorp, 2018-03-25T22:29:04+0000
+/project/pyramid-ratchet/, pyramid_ratchet, 0.3.4, Ratchet.io notifier plugin for Pyramid, 2012-12-01T03:11:13+0000
+/project/ratchet/, ratchet, 0.4.1, Ratchet.io generic python library, 2013-02-20T21:43:08+0000
+/project/ecasb2share/, ecasb2share, 0.0.1b16, ecasb2share provides a python library to interact with B2SHARE REST API., 2019-04-17T14:48:25+0000
+/project/teamlab/, teamlab, 0.2, Python interface to TeamLab API, 2012-12-11T20:48:14+0000
+/project/rollbar-udp-agent/, rollbar-udp-agent, 0.0.15, Rollbar server-side UDP agent, 2015-05-27T09:48:15+0000
+/project/news-fetch/, news-fetch, 0.2.8, news-fetch is an open source easy-to-use news extractor and basic nlp (cleaning_text, keywords, summary) comes handy that just works, 2021-01-29T15:59:25+0000
+/project/issue-watcher/, issue-watcher, 3.0.0, Python test cases watching when an issue is closed and failing a test to let you know fixed functionality is available., 2021-01-04T21:39:37+0000
+/project/gri/, gri, 0.6.1, Git Review Interface for Gerrit and Github, 2020-11-23T12:09:23+0000
+/project/python-otrs/, python-otrs, 0.4.3, A programmatic interface to OTRS SOAP API., 2017-08-21T17:00:45+0000
+/project/gitbot/, gitbot, 0.5, Automatically label GitHub issues based on regexp rules., 2016-11-08T15:12:56+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/squash/, squash, 0.5.0alpha, A distributed, highly configurable issue tracking system., 2009-03-25T01:03:24+0000
+/project/githubflow/, githubflow, 0.3, A command line interface to githubuses the github apis commandline., 2014-05-25T09:24:06+0000
+/project/imdby/, imdby, 0.1.5, Python package to access the IMDb's database, 2020-04-10T17:58:15+0000
+/project/explainer/, explainer, 0.0.2dev, The first unified explainability toolkit for explainable software and hardware systems., 2019-01-24T23:56:17+0000
+/project/lino-noi/, lino-noi, 21.2.0, The Lino application used by the Lino team for managing their work on the Lino project, 2021-02-25T09:27:30+0000
+/project/pivotaltracker/, pivotaltracker, 0.0.3, pivotaltracker is a Pythonic wrapper around the PivotalTracker API, 2009-07-04T03:12:31+0000
+/project/gcal2redmine/, gcal2redmine, 0.3.0.post2, Fill Redmine time tracker from a Google Calendar, 2019-07-30T15:03:09+0000
+/project/treeoflife/, treeoflife, 0.0.4, A Tree of your Life (end-user application), 2014-03-22T06:04:56+0000
+/project/sentry-telegram/, sentry-telegram, 0.4.0, Plugin for Sentry which allows sending notification via Telegram messenger., 2019-04-28T18:20:12+0000
+/project/mltrace/, mltrace, 0.1, Lineage and tracing for ML pipelines, 2021-04-14T20:02:51+0000
+/project/mangotrac/, MangoTrac, 0.6, Issue Tracker based on the Django admin app, 2014-08-25T16:00:52+0000
+/project/v1pysdk/, v1pysdk, 0.6.2, VersionOne API client, 2018-07-02T22:45:26+0000
+/project/uxml2object/, uxml2object, 0.1, Quick Corp uXML2Object, 2017-08-04T16:21:23+0000
+/project/hellonoushi/, helloNoushi, 0.0.1, say hello, 2020-10-21T21:59:27+0000
+/project/jiradls/, jiradls, 1.0, A JIRA command line interface for the DLS instance, 2020-11-13T14:16:40+0000
+/project/salt-lint/, salt-lint, 0.5.2, A command-line utility that checks for best practices in SaltStack., 2021-01-29T19:36:37+0000
+/project/telefeeder/, telefeeder, 0.0.1, A simple python script to send your RSS feeds to your Telegram channel, 2020-10-08T09:55:17+0000
+/project/cartman/, cartman, 0.3.0, trac command-line tools, 2020-03-14T20:47:48+0000
+/project/github-push-issues/, github-push-issues, 0.3, Create GitHub issues based on local templates., 2015-04-16T22:57:43+0000
+/project/storyboard-api/, storyboard-api, 1.1.0, StoryBoard Task Tracker API Service, 2020-03-28T14:53:30+0000
+/project/python-debianbts/, python-debianbts, 3.1.0, Python interface to Debian's Bug Tracking System, 2020-12-18T10:47:32+0000
+/project/tracbasicmacros/, TracBasicMacros, 1.0.2, Simple but useful Trac macros, 2010-07-19T19:43:38+0000
+/project/siginfo/, siginfo, 0.9, A Python package to help debugging and monitoring python script, 2020-06-28T18:11:13+0000
+/project/chainedsct/, chainedSCT, 0.0.2, Blockchain-Based Smart Contact Tracing, 2021-02-07T01:38:57+0000
+/project/pycrastinate/, pycrastinate, 0.1.0, Keep your TODO, FIXME, etc. under control by triggering actions, generating reports, date/author/custom filtering, automated e-mails and more, 2014-06-15T19:20:56+0000
+/project/amqpdeliver/, AMQPDeliver, 0.1, Asynchronous file transfer using AMQP, 2011-09-06T11:05:50+0000
+/project/filestat/, filestat, 0.2.3, A command line library for file monitoring., 2019-05-11T20:15:11+0000
+/project/haiku-errors/, haiku-errors, 0.3.0, Haiku error messages for Python, 2016-10-17T10:26:26+0000
+/project/python-andromeda/, python-andromeda, 1.0.5.2, OpenStack Repository Management Tool., 2015-08-05T19:51:05+0000
+/project/p-unity/, p-unity, 0.42.202104180000, { Programming : Unity }, 2021-04-18T01:18:45+0000
+/project/simplegetargs/, SimpleGetArgs, 0.0.3, Test to Publish the Command Line, 2020-11-04T01:41:49+0000
+/project/bugs-everywhere/, bugs-everywhere, 1.1.1, Bugtracker supporting distributed revision control, 2013-06-28T16:26:05+0000
+/project/tracmacostheme/, TracMacOSTheme, 1.0.3, Trac theme to make it look like Mac OS, 2010-12-20T20:25:28+0000
+/project/gcg/, gcg, 0.2.0, Git Changelog Generator, 2019-07-09T19:48:36+0000
+/project/helga-bugzilla/, helga-bugzilla, 1.3.2, bugzilla plugin for helga, 2018-06-25T22:05:04+0000
+/project/hawkcatcher/, hawkcatcher, 2.0.0, Python errors Catcher module for Hawk., 2020-03-17T15:29:05+0000
+/project/logger-helper/, logger-helper, 0.1.0, A simple way to gather verbose logs from your application!, 2018-02-16T16:41:52+0000
+/project/qcrash/, qcrash, 0.2.0, A crash report framework for PyQt/PySide applications, 2016-05-02T15:55:02+0000
+/project/needforcryptography/, NeedForCryptography, 1.05, Python cryptographic tools and ciphers, 2014-06-27T02:17:53+0000
+/project/svnchecker/, svnchecker, 0.3, SVNChecker is a framework for Subversion hook scripts., 2008-07-20T19:55:54+0000
+/project/django-audit-tools/, django-audit-tools, 0.4.0, Django application that provides a set of tools for auditing requests and models and improve logging, 2016-01-19T23:39:15+0000
+/project/searchable-collection/, searchable_collection, 0.0.3, A searchable list implementation, written entirely in python., 2017-12-05T07:54:09+0000
+/project/logstash-python-formatter/, logstash-python-formatter, 0.1.2, Python formatter for working with Logstash json filters., 2019-09-11T08:51:22+0000
+/project/mg-conveyor/, mg-conveyor, 1.0.0, A tool for having a sequential execution of plugins, 2015-02-03T09:32:35+0000
+/project/timezone-logging/, timezone-logging, 0.1, Logging with timezone, 2017-10-13T05:57:16+0000
+/project/qgis2to3/, qgis2to3, 0.5, Tools to help porting QGIS Plugins from api v2 to api v3, 2018-05-09T12:00:12+0000
+/project/rollbar/, rollbar, 0.15.2, Easy and powerful exception tracking with Rollbar. Send messages and exceptions with arbitrary context, get back aggregates, and debug production issues quickly., 2021-01-25T20:56:03+0000
+/project/ansible-lint/, ansible-lint, 5.0.7, Checks playbooks for practices and behaviour that could potentially be improved, 2021-04-07T14:29:07+0000
+/project/tracgviz/, TracGViz, 1.3.4, Trac Data Sources for Google Visualization API. Embed iGoogle gadgets using WikiFormatting., 2009-07-30T19:54:24+0000
+/project/twcli/, twcli, 2.0, TaskWorkshop CLI, 2013-05-10T14:15:57+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/archub/, archub, 1.0.0a8, , 2018-04-08T18:19:28+0000
+/project/tratihubis/, tratihubis, 0.5, convert Trac tickets to Github issues, 2013-02-16T20:15:27+0000
+/project/cubicweb-forge/, cubicweb-forge, 1.13.0, software forge component for the CubicWeb framework, 2016-12-06T14:32:14+0000
+/project/tweety/, tweety, 0.1.6, Python package which to access the Twitter database without API, 2019-07-09T16:52:27+0000
+/project/ensurecvs/, ensurecvs, 1.0.3, Find important upstream fixes, 2020-02-07T18:30:08+0000
+/project/cramunit/, CramUnit, 0.8, Tool to create Unittests/Xunit output from cram (*.t) tests., 2014-01-31T10:38:25+0000
+/project/grq/, grq, 0.1.dev1, ..., 2020-11-20T13:39:42+0000
+/project/dvdev/, DVDev, 0.1.3, DVDev - Distributed Development - tools for Open Source Software, 2009-04-19T22:09:33+0000
+/project/tracburndownplugin/, TracBurndownPlugin, 0.1, Burndown chart plugin for milestones in Trac, 2011-09-06T11:17:49+0000
+/project/issue/, issue, 0.1.5, Simple issue tracker to use with VCS, 2014-01-07T20:51:09+0000
+/project/webkit2png/, webkit2png, 0.8.2, Takes snapshot of webpages using Webkit and Qt4, 2010-05-12T20:47:53+0000
+/project/rollbar-agent/, rollbar-agent, 0.4.4, Rollbar server-side agent, 2020-09-23T16:20:01+0000
+/project/django-task-manager/, django-task-manager, 0.1, A multi-user, multi-team task management and assignment system for Django., 2019-03-30T16:59:02+0000
+/project/deadcheck/, deadcheck, 0.0.3.3.1, Deadlink Check Utility using Python Modules, 2015-03-10T07:11:56+0000
+/project/loggerpy/, loggerpy, 2.1.1, The simplest Python logger for everyday tasks., 2021-01-16T16:17:48+0000
+/project/kivyunittest/, kivyunittest, 0.1.8, Unittesting for Kivy framework, 2017-09-13T21:21:43+0000
+/project/diagnostics/, diagnostics, 0.2.4, Alternative to Python's module `cgitb` with template inspired by Nette and Django, 2014-04-14T07:26:03+0000
+/project/lino-algus/, lino-algus, 0.2.0, A template for new Lino applications, 2018-10-29T09:37:22+0000
+/project/bushy/, bushy, 0.2.5, A git workflow plugin., 2011-07-08T22:50:11+0000
+/project/sentry-wxwork/, sentry-wxwork, 1.2.0, Plugin for Sentry which integrates with WeChat Work., 2021-02-03T06:23:06+0000
+/project/lino-care/, lino-care, 20.1.0, A database for managing a network of helpers., 2020-01-03T05:44:15+0000
+/project/spc/, spc, 0.3, Statistical Process Control library for monitoring process behaviour, 2009-01-26T05:28:05+0000
+/project/products-issuedealer/, Products.IssueDealer, 0.9.140, The Issue Dealer is an application for managing information. It is currently used by organizations and individuals to manage day-to-day tasks and information., 2015-02-13T03:09:12+0000
+/project/inary/, inary, 1.4.2-1, Inary (Special Package Manager), 2020-11-01T17:55:55+0000
+/project/smampp/, smaMPP, 1.0.1, Sama Python Package is a project that extends main framework functionalities, 2020-06-23T16:43:51+0000
+/project/sentry-telegram-py3/, sentry-telegram-py3, 0.5.0, Plugin for Sentry which allows sending notification via Telegram messenger., 2021-03-16T09:44:17+0000
+/project/gisrep/, gisrep, 0.2.3, The command line Github issues reporter, 2018-03-28T11:56:19+0000
+/project/hive-bt/, hive-bt, 0.0.4, Hive is a distributed bug tracker., 2019-06-27T14:57:01+0000
+/project/cykle/, cykle, 0.2.10, CLI for the happy coding process, 2016-12-20T07:41:25+0000
+/project/minisentry/, minisentry, 0.0.1, MiniSentry. Stripped Sentry replacement for development, 2018-04-13T16:16:36+0000
+/project/github-issues-tools/, github-issues-tools, 0.1.0, Tools for GitHub issues, 2018-05-22T14:47:18+0000
+/project/secondpython/, secondpython, 0.0.1, second pypi, 2016-12-17T09:44:55+0000
+/project/pet-debian/, pet-debian, 1.2.74, PET is a collection of scripts that gather informatio about your packages, 2016-06-27T21:06:36+0000
+/project/task-indicator/, task-indicator, 1.40, TaskWarrior indicator applet, 2014-12-01T07:08:45+0000
+/project/rss2jira/, rss2jira, 0.1.22, Create JIRA issues from RSS entries matching key terms., 2014-07-07T20:32:16+0000
+/project/git-jira-attacher/, git-jira-attacher, 0.1, Utility for integrating Git and JIRA workflows, 2009-07-28T20:16:09+0000
+/project/clubhouse-lib/, clubhouse-lib, 1.0.0, The unofficial Python client library for the Clubhouse API., 2020-02-24T21:56:24+0000
+/project/namemod/, namemod, 0.1.1, A console tool for renaming files or folders., 2014-07-04T10:25:55+0000
+/project/django-helpdesk3000/, django-helpdesk3000, 0.3.4, Django-powered ticket tracker for your helpdesk, 2017-12-20T23:11:48+0000
+/project/bugzillatools/, bugzillatools, 0.5.5, Bugzilla CLI client, XML-RPC binding and VCS plugins, 2015-04-25T08:13:13+0000
+/project/faradaysec/, faradaysec, 3.14.4, Collaborative Penetration Test and Vulnerability Management Platform https://www.faradaysec.com, 2021-04-16T16:32:06+0000
+/project/benibasiccalc/, BeniBasicCalc, 1.0, A very basic Calculator, 2020-10-20T20:40:33+0000
+/project/sentry-wechatwork/, sentry-wechatwork, 0.0.1, Plugin for Sentry which allows sending notification via WechatWork messenger., 2019-08-13T17:44:27+0000
+/project/lino-vilma/, lino-vilma, 20.1, A Lino application for managing village contacts, 2020-01-06T15:10:21+0000
+/project/mingle/, mingle, 0.1.7, Get lines from a number of log files with different time-stamp formats in chronological order, 2017-11-25T01:45:15+0000
+/project/blink2png/, blink2png, 0.9.3, To take snapshot of web pages using Blink Engine and Qt5, 2020-04-03T11:37:41+0000
+/project/jira-rabbitmq-webhook/, jira-rabbitmq-webhook, 0.1.2, A microservice for retranslating Jira webhooks to a RabbitMQ server, 2021-02-16T14:03:58+0000
+/project/roundup2bitbucket/, roundup2bitbucket, 0.1, Convert Roundup data to Bitbucket's issue tracker, 2015-01-17T16:53:17+0000
+/project/pygraf/, pygraf, 1.02, Python Graph library, 2015-10-15T12:42:42+0000
+/project/pympler/, Pympler, 0.9, A development tool to measure, monitor and analyze the memory behavior of Python objects., 2020-10-14T20:27:50+0000
+/project/trac-mattermost/, trac-mattermost, 0.1, Trac notifications in Mattermost, 2015-12-27T12:55:20+0000
+/project/redmine-to-omnifocus/, redmine-to-omnifocus, 1.0, Import Redmine issues into OmniFocus, 2012-02-09T10:14:30+0000
+/project/gitissius/, Gitissius, 0.1.6, Distributed bug tracking for Git., 2011-11-20T23:14:14+0000
+/project/ymir/, ymir, 0.22, an automation tool for your automation tools, 2016-08-03T08:20:23+0000
+/project/django-issue-synchronisation/, django-issue-synchronisation, 0.1.6, Issue synchronisation for django applications, 2011-03-16T13:11:45+0000
+/project/gitssue/, Gitssue, 2.0.0, Manage your issues from the command line., 2018-06-23T13:19:41+0000
+/project/joca/, joca, 1.4.2, Sync project lead with ical (for on call assignees), 2018-11-19T20:16:07+0000
+/project/sphinxcontrib-github-alt/, sphinxcontrib_github_alt, 1.2, Link to GitHub issues, pull requests, commits and users from Sphinx docs., 2020-04-27T09:12:42+0000
+/project/sentry-logger/, sentry_logger, 1.0, Basic helper for logging function / class based errors to sentry.io, 2017-06-02T18:53:41+0000
+/project/ywh2bt/, ywh2bt, 2.2.0, ywh2bt - YesWeHack to Bug Tracker, 2021-04-05T08:46:15+0000
+/project/roundup-cli/, roundup-cli, 0.1, A Command Line Interface for Roundup, 2011-11-25T21:29:36+0000
+/project/git-tessera/, git-tessera, 0.00.04, git intransic issue tracking, 2014-08-12T19:00:59+0000
+/project/static-parameters/, static_parameters, 0.4, Simple decorators to raise a TypeError, if paramates type not satisfied, 2018-07-15T07:20:05+0000
+/project/curtis/, curtis, 0.2, A simple sentry cli, 2018-07-30T09:13:00+0000
+/project/brython-dev/, brython-dev, 0.4.2, Brython developer tools, 2021-03-16T23:19:09+0000
+/project/django-profiler/, django-profiler, 2.0.0, util for profiling python code mainly in django projects, but can be used also on ordinary python code, 2013-09-11T10:24:06+0000
+/project/rak-arth/, rak_arth, 1.5.4, it does arthimatical operations, 2017-01-20T09:21:11+0000
+/project/firepython/, FirePython, 0.9.0, Python logging console integrated into Firebug, 2010-10-25T13:16:55+0000
+/project/git-track/, Git-Track, 0.1, Minimal Bug Tracking For Git., 2011-08-16T13:06:29+0000
+/project/faradaysec/, faradaysec, 3.14.4, Collaborative Penetration Test and Vulnerability Management Platform https://www.faradaysec.com, 2021-04-16T16:32:06+0000
+/project/yqn-pytorch-framework/, yqn-pytorch-framework, 0.2.3, YQN Pytorch Framework, 2020-10-13T02:06:27+0000
+/project/pagerdutyapi/, pagerdutyapi, 0.4.1, PagerDuty support, mostly reporting alerts, 2016-03-22T18:24:02+0000
+/project/amptrac/, amptrac, 0.1, Client for twisted's amp interface to trac, 2013-06-13T01:38:33+0000
+/project/nose-regression/, nose-regression, 1.0, A simple regression testing plugin for nose., 2011-08-15T19:54:11+0000
+/project/benibasiccalc/, BeniBasicCalc, 1.0, A very basic Calculator, 2020-10-20T20:40:33+0000
+/project/hubugs/, hubugs, 0.19.0, Simple client for GitHub issues, 2018-11-27T16:04:30+0000
+/project/printlog/, printlog, 0.0.5, Colorize your logs to spot them at a glance., 2021-03-21T23:54:27+0000
+/project/rainingman/, rainingman, 0.1.14, Raining is a collection of scripts that gather informatio about your packages, 2016-11-07T12:29:08+0000
+/project/git-tessera/, git-tessera, 0.00.04, git intransic issue tracking, 2014-08-12T19:00:59+0000
+/project/static-parameters/, static_parameters, 0.4, Simple decorators to raise a TypeError, if paramates type not satisfied, 2018-07-15T07:20:05+0000
+/project/namemod/, namemod, 0.1.1, A console tool for renaming files or folders., 2014-07-04T10:25:55+0000
+/project/curtis/, curtis, 0.2, A simple sentry cli, 2018-07-30T09:13:00+0000
+/project/django-helpdesk3000/, django-helpdesk3000, 0.3.4, Django-powered ticket tracker for your helpdesk, 2017-12-20T23:11:48+0000
+/project/bugzillatools/, bugzillatools, 0.5.5, Bugzilla CLI client, XML-RPC binding and VCS plugins, 2015-04-25T08:13:13+0000
+/project/brython-dev/, brython-dev, 0.4.2, Brython developer tools, 2021-03-16T23:19:09+0000
+/project/django-profiler/, django-profiler, 2.0.0, util for profiling python code mainly in django projects, but can be used also on ordinary python code, 2013-09-11T10:24:06+0000
+/project/gitli/, gitli, 0.4, Simple issue management for git, 2011-03-19T12:35:34+0000
+/project/txbugzilla/, txbugzilla, 2.0.0, Twisted API for Bugzilla, 2019-01-22T17:20:47+0000
+/project/ratchet-agent/, ratchet-agent, 0.2.4, Ratchet.io server-side agent, 2012-12-12T02:33:08+0000
+/project/apminsight-site24x7-py/, apminsight-site24x7-py, 1.0.0, site24x7 monitoring package, 2021-01-29T12:55:11+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/lokai/, Lokai, 0.3, Extendable Business Process Management Application, 2012-07-10T15:36:33+0000
+/project/flawless/, flawless, 0.4.5, Python Error Monitoring and Reporting, 2020-06-25T00:44:35+0000
+/project/ndblite/, ndblite, 0.1.1, Quick Corp ndblite, 2018-01-09T15:58:13+0000
+/project/jiracli/, jiracli, 0.4.12, command line interface for jira, 2019-07-03T05:02:12+0000
+/project/repoguard/, repoguard, 0.3.0.dev, RepoGuard is a framework for Subversion hook scripts., 2019-08-23T03:20:23+0000
+/project/pyclark/, pyClark, 0.0.1, Remote error reporting that helps save the day, 2018-04-26T13:32:11+0000
+/project/report-hub-cli/, report-hub-cli, 0.0.3, Cli for ReportHub server, 2019-04-27T21:51:58+0000
+/project/utuby/, utuby, 0.7, Python package which to access the YouTube database without API, 2019-05-30T13:33:05+0000
+/project/pbcommand/, pbcommand, 0.3.29, Library and Tools for interfacing to PacBio pbsmrtpipe workflow engine., 2016-06-14T22:43:36+0000
+/project/fogbugz/, fogbugz, 1.0.6, Python library for interacting with the FogBugz API, 2016-11-01T14:47:06+0000

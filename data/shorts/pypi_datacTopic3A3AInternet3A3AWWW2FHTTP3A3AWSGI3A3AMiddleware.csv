@@ -1,0 +1,590 @@
+/project/snafu/, snafu, 0.0.3, Swiss Army Knife of Serverless Computing, 2018-07-01T06:42:00+0000
+/project/tet-fanstatic/, tet.fanstatic, 0.1, Fanstatic integration for tet, 2015-09-06T13:33:32+0000
+/project/bottle/, bottle, 0.12.19, Fast and simple WSGI-framework for small web-applications., 2020-11-11T18:51:24+0000
+/project/wsgigzip/, wsgigzip, 0.1.4, Decorator for flup's gzip compression WSGI middleware., 2016-04-29T17:19:31+0000
+/project/falconjsonio/, falconjsonio, 1.0.2, JSON-Schema input and output for Falcon, 2017-06-06T11:15:13+0000
+/project/wsgiwatch/, wsgiwatch, 0.1.2, Synchronously rebuild assets for a WSGI application in response to source file changes, 2016-07-21T20:53:10+0000
+/project/whiff/, whiff, 1.1, WHIFF: WSGI HTTP Integrated Filesystem Frames, 2013-07-09T21:19:15+0000
+/project/django-secureadmin/, django-secureadmin, 1.4, Django-SecureAdmin send verification mail when user last and new ip not equals., 2015-04-27T10:19:30+0000
+/project/artichoke/, artichoke, 0.4.3, Simple and Lightweight WSGI Web Framework, 2013-03-12T13:52:05+0000
+/project/chocs/, chocs, 0.17.1, Lightweight and powerful wsgi rest framework for rapid building applications based on wsgi servers., 2021-04-08T14:19:28+0000
+/project/django-adminrestrict/, django-adminrestrict, 3.0, Restrict admin pages using simple IP address rules, 2020-12-11T03:32:42+0000
+/project/fiole/, fiole, 0.4.1, The handy Python web framework., 2014-07-03T07:31:40+0000
+/project/barmanapi/, barmanapi, 0.3, This project convert from BARMAN command to RESTful api. Barman API support full future and all versions of BARMAN., 2016-06-24T11:41:30+0000
+/project/django-visits/, django-visits, 0.1.6, Visit counter for Django, 2014-06-16T03:01:50+0000
+/project/pynba/, pynba, 0.5.5, lightweight timers and wsgi middleware to monitor performance in production systems, 2015-09-08T16:42:34+0000
+/project/wsgiview/, wsgiview, 0.2.1, Use TurboGears template plug-ins anywhere WSGI runs, 2007-01-02T00:03:47+0000
+/project/whitenoise/, whitenoise, 5.2.0, Radically simplified static file serving for WSGI applications, 2020-08-04T09:33:38+0000
+/project/wsgioauth/, wsgioauth, 0.3, A WSGI OAuth for working with OAuth from the consumer and service provider
+perspective. Contains a middleware for protected WSGI applications with an
+associated administration application. Provides a simple library to help
+consumers integrate OAuth protected resources into their applications., 2010-01-25T19:26:56+0000
+/project/debugheaders/, DebugHeaders, 0.1, Debug headers (and bodies) of WSGI requests and responses, 2010-05-13T05:09:33+0000
+/project/watson-filters/, watson-filters, 1.0.1, Modify and convert values into something else., 2017-03-23T04:06:25+0000
+/project/alloyclient/, alloyclient, 1.0.0, Alloy Client, 2015-04-07T20:26:14+0000
+/project/j25framework/, j25framework, 0.5.8, A highly scalable REST application development framework, 2012-08-12T10:18:52+0000
+/project/tw2-core/, tw2.core, 2.3.0, The runtime components for ToscaWidgets 2, a web widget toolkit., 2020-09-12T09:41:08+0000
+/project/spynach/, spynach, 0.3, Simple and Lightweight WSGI Web Framework, 2013-02-08T22:22:31+0000
+/project/django-auth-pubtkt/, django-auth-pubtkt, 2.0.1, Implementation of mod_auth_pubtkt as Django middleware, 2018-03-10T20:35:45+0000
+/project/pywb/, pywb, 2.5.0, Pywb Webrecorder web archive replay and capture tools, 2021-01-27T06:48:02+0000
+/project/jadelesscoffee-middleware/, jadelesscoffee-middleware, 0.3.0, WSGI middleware class that executes the Node.js JadeLessCoffee compiler on a `src` folder in the JLC_DIRS environment variable., 2013-07-10T11:51:08+0000
+/project/pynipap/, pynipap, 0.29.5, a Python NIPAP client library, 2016-10-08T21:21:40+0000
+/project/who-ldap/, who_ldap, 4.0.0, LDAP plugin for repoze.who, 2018-03-23T22:37:26+0000
+/project/wsgi-kerberos/, WSGI-Kerberos, 1.0.1, Kerberos authentication support in WSGI Middleware, 2021-01-19T03:14:16+0000
+/project/django-dataporten/, django-dataporten, 0.4.0, A simple Django app to fetch and parse data from Dataporten., 2019-04-07T10:42:29+0000
+/project/js-tinymce/, js.tinymce, 4.5.4, Fanstatic packaging of TinyMCE, 2017-03-07T08:42:57+0000
+/project/repoze-urispace/, repoze.urispace, 0.3.2, Library / middleware for URI-based assertions, 2009-07-13T23:18:07+0000
+/project/js-jquery-sortable/, js.jquery_sortable, 0.9.13, Fanstatic packaging of jQuery Sortable, 2017-02-23T19:38:36+0000
+/project/webtestrecorder/, WebTestRecorder, 0.1.1, Record activity from a WSGI application, and generate WebTest tests from that record, 2011-11-10T17:14:20+0000
+/project/django-auth-spnego/, django-auth-spnego, 0.1.1, SPNEGO Kerberos authentication middleware for django, 2017-09-05T12:39:07+0000
+/project/pywayback/, pywayback, 0.10.9.1, Python WayBack for web archive replay and live web proxy, 2015-10-21T22:32:29+0000
+/project/uamobile/, uamobile, 0.2.16, WSGIUserAgentMobile - mobile user agent string parser for WSGI applications, 2011-02-10T06:20:09+0000
+/project/factored/, factored, 4.0.10, A WSGI app that allows you to add another factor of authentication to any application server., 2019-01-07T15:02:32+0000
+/project/print-json-middleware/, print_json_middleware, 0.1.1, JSON prettyprinter WSGI middleware, 2013-03-20T15:53:56+0000
+/project/isisdm/, isisdm, 0.2.3, ISIS-DM allows programmers to express constraints and functionality similar to those of the CDS/ISIS Field Definition Table and the CDS/ISIS Formatting Language, but in contemporary, object-oriented programming languages., 2011-11-25T19:15:35+0000
+/project/pymvc/, pymvc, 0.1.3, MVC framework for Python, 2018-07-26T09:26:35+0000
+/project/ewer/, ewer, 0.13.dev0, Async Fork of Fast and simple WSGI-framework for small web-applications., 2016-08-13T19:44:06+0000
+/project/swaggerit/, swaggerit, 0.14.1, A Framework featuring Swagger, SQLAlchemy and Redis, 2018-09-20T19:28:07+0000
+/project/falcon-prometheus/, falcon-prometheus, 0.1.0, Falcon Framework Prometheus Middleware, 2018-09-19T15:02:48+0000
+/project/pyramid-ratchet/, pyramid_ratchet, 0.3.4, Ratchet.io notifier plugin for Pyramid, 2012-12-01T03:11:13+0000
+/project/ws4py/, ws4py, 0.5.1, WebSocket client and server library for Python 2 and 3 as well as PyPy, 2018-02-28T17:40:47+0000
+/project/flask-oslolog/, flask-oslolog, 0.1, This project wraps the existing oslo.log library to providerequest logging and logger access within flask.., 2017-04-10T13:30:38+0000
+/project/rollbar-udp-agent/, rollbar-udp-agent, 0.0.15, Rollbar server-side UDP agent, 2015-05-27T09:48:15+0000
+/project/wheezy-web/, wheezy.web, 3.0.1, A lightweight, high performance, high concurrency WSGI web framework with the key features to build modern, efficient web, 2020-12-30T09:01:26+0000
+/project/databrowse/, databrowse, 0.8.4, An Extensible Data Management Platform, 2020-03-20T19:31:12+0000
+/project/django-multihost/, django-multihost, 0.3, Simple multihost handling for Django, 2012-12-07T14:27:18+0000
+/project/tfserve/, tfserve, 0.3, Serve TF models simple and easy as an HTTP API server., 2018-10-29T16:06:04+0000
+/project/xsendfile-middleware/, xsendfile_middleware, 0.1.1, WSGI middleware to send files using X-Accel-Redirect, 2016-10-28T23:26:02+0000
+/project/django-autodemo/, django-autodemo, 0.1.0, Demo mode to allow arbitrary authentication on website., 2017-04-22T18:08:24+0000
+/project/faas-converter/, faas-converter, 0.0.3, Function as a service converter, 2018-03-12T13:34:48+0000
+/project/wsgiproxy/, WSGIProxy, 0.2.2, HTTP proxying tools for WSGI apps, 2010-06-10T21:47:40+0000
+/project/django-http2-push/, django-http2-push, 0.0b2, A simple way to add Header LINK, 2018-09-22T15:07:45+0000
+/project/sansio-multipart/, sansio-multipart, 0.3, Parser for multipart/form-data., 2019-06-14T00:35:40+0000
+/project/django-ssl-admin/, django-ssl-admin, 1.1.4, Django middleware to make the admin https only., 2014-12-28T13:46:28+0000
+/project/falcon-caching/, falcon-caching, 0.3.4, Falcon-Caching - a caching module for the Falcon web framework, 2021-04-13T22:29:22+0000
+/project/receptacle/, receptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-05T16:54:13+0000
+/project/raptorizemw/, raptorizemw, 0.2.1, Every WSGI app is better with a raptor., 2014-11-18T21:25:40+0000
+/project/falcon-stats/, falcon-stats, 0.5, A simple middleware to gather request-response statistics from the falcon REST framework, 2017-07-12T16:03:08+0000
+/project/wsgi-oauth2/, wsgi-oauth2, 0.2.2, Simple WSGI middleware for OAuth 2.0, 2020-09-16T21:13:01+0000
+/project/nova-limits/, nova_limits, 0.6.1, Nova-specific rate-limit class for turnstile, 2012-10-02T21:24:12+0000
+/project/flask-blitzdb/, flask-blitzdb, 0.1, Flask extension for blitzdb, 2014-09-15T03:56:37+0000
+/project/barrelhouse/, barrelhouse, 0.3, WSGI OpenID authentication handler, 2010-04-18T08:37:08+0000
+/project/ckanext-logstash/, ckanext-logstash, 0.0.2, Logstash support for CKAN, 2019-09-12T17:45:37+0000
+/project/django-fluentd-requests-logging/, django-fluentd-requests-logging, 0.5.12, A little JSON-over-HTTP Django request log export for fluentd, 2017-03-13T17:11:33+0000
+/project/repoze-errorlog/, repoze.errorlog, 1.1, Error logging and reporting middleware, 2016-06-03T18:35:11+0000
+/project/wsgize/, wsgize, 0.4, WSGI without the WSGI, 2007-01-06T23:14:50+0000
+/project/ckanext-sentry/, ckanext-sentry, 0.0.2, Sentry support for CKAN, 2015-10-19T13:22:29+0000
+/project/iw-thumbs/, iw.thumbs, 1.2, A wsgi middleware to generate and serve image thumbnails., 2008-11-22T14:35:03+0000
+/project/ceptacle/, ceptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-08T21:45:45+0000
+/project/watson-assets/, watson-assets, 1.0.7, Manage publicly available assets within your application., 2017-02-02T06:58:51+0000
+/project/ezt/, ezt, 1.1, EaZy Templating for Python., 2020-04-19T18:24:06+0000
+/project/webpie/, webpie, 5.2.2, A set of useful tools built on top of standard Python threading module, 2021-04-21T20:24:37+0000
+/project/wafflehaus-neutron/, wafflehaus.neutron, 0.1.4, A collection of middleware for openstack neutron, 2016-06-27T17:18:53+0000
+/project/codingsoho-tracking/, codingsoho-tracking, 0.4.3, Basic visitor tracking and blacklisting for Django, 2018-10-01T10:00:19+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/request-id/, request-id, 1.0.1, Attach a unique identifier to every WSGI request., 2020-10-07T04:30:30+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/session-fernet-asgi/, session-fernet-asgi, 0.2, , 2020-05-25T13:40:27+0000
+/project/tw2-devtools/, tw2.devtools, 2.2.0.4, The development tools for ToscaWidgets 2, a web widget toolkit., 2013-09-20T13:35:45+0000
+/project/snapsearch-client-python/, snapsearch-client-python, 0.0.9, Pythonic HTTP Client and Middleware Library for SnapSearch, 2017-04-14T07:52:49+0000
+/project/secure-cookie/, secure-cookie, 0.1.0, Secure cookie and session interface for WSGI applications., 2020-02-26T00:19:58+0000
+/project/aiohttp-middlewares/, aiohttp-middlewares, 1.1.0, Collection of useful middlewares for aiohttp applications., 2020-04-21T17:53:17+0000
+/project/flask-keystone/, flask-keystone, 0.2, This project wraps the existing keystone middleware to provide courtesy user functions within an API., 2017-05-15T20:40:03+0000
+/project/wfront/, WFront, 0.4, A WSGI front-door dispatcher., 2008-12-29T00:47:07+0000
+/project/pyramid-di/, pyramid-di, 0.4.1, Dependency injection stuff for Pyramid, 2021-03-19T13:01:52+0000
+/project/qc-statusmessage/, qc.statusmessage, 1.0b3, WSGI Middleware for displaying status messages, 2009-07-20T15:08:34+0000
+/project/hug-middleware-cors/, hug-middleware-cors, 1.0.0, CORS middleware for the hug framework, 2016-12-20T11:56:49+0000
+/project/django-user-tracking/, django-user-tracking, 0.4.11, Basic visitor tracking and blacklisting for Django, 2014-10-07T20:38:29+0000
+/project/fresco-sqlalchemy/, fresco-sqlalchemy, 0.1, Fresco/SQLAlchemy integration, 2016-06-30T09:17:09+0000
+/project/bottle-mold/, bottle-mold, 0.0.3.dev1, Remove the boilerplate template from your bottle web services., 2019-05-29T19:40:58+0000
+/project/paste/, Paste, 3.5.0, Tools for using a Web Server Gateway Interface stack, 2020-10-12T12:48:32+0000
+/project/webdispatch/, WebDispatch, 1.3, dispatch request on wsgi application., 2014-11-18T14:58:32+0000
+/project/wtf-otp/, WTF-OTP, 0.7.0, One-Time Password for WTForms, 2020-08-05T13:18:10+0000
+/project/django-tracking-jl/, django-tracking-jl, 0.5.8, Basic visitor tracking and blacklisting for Django, 2015-10-23T11:41:04+0000
+/project/wsgilog/, wsgilog, 0.3.1, WSGI logging and event reporting middleware, 2015-10-17T16:05:05+0000
+/project/django-request-logs/, django-request-logs, 0.1.0, Access logging for Django, the right way, 2017-10-16T15:24:20+0000
+/project/django-fallback-view/, django-fallback-view, 0.2.0, Middleware that returns a fallback view when the URL matches anything that isnt specified>, 2019-10-03T04:41:32+0000
+/project/keyfree/, keyfree, 1.0.0, An authentication proxy for Amazon Elasticsearch Service, 2016-11-13T13:47:00+0000
+/project/ohoh/, ohoh, 0.1.0, A debug server for WSGI apps., 2015-07-26T23:36:25+0000
+/project/linesman/, linesman, 0.3.2, WSGI Profiling middleware, 2016-05-20T23:06:27+0000
+/project/deliverance/, Deliverance, 0.6.1, Deliverance transforms HTML to theme pages, 2012-05-28T13:57:46+0000
+/project/ckanext-oauth2/, ckanext-oauth2, 0.7.0, OAuth2 support for CKAN, 2019-04-12T11:39:27+0000
+/project/wsgiheaders/, wsgiheaders, 0.2, Adding and replacing response headers, 2009-01-11T20:08:50+0000
+/project/brightcontent/, BrightContent, 0.1, Bright Content is Python Weblog software built from reusable components., 2006-09-02T17:36:32+0000
+/project/wsgi-request-logger-bepro/, wsgi-request-logger-bepro, 0.4.7, Apache-like combined logging for WSGI Web Applications, 2020-07-07T15:56:00+0000
+/project/wsgiserialize/, wsgiserialize, 0.3, Simple object serialization middleware for WSGI., 2006-12-16T17:58:11+0000
+/project/pyrainbow/, pyrainbow, 0.0.7, Rainbow is a micro-framework for Python RPC+Pub/Sub communication over WebSockets., 2015-11-30T12:28:01+0000
+/project/oauth-middleware/, oauth-middleware, 0.3.3, Simple flask_oauthlib based middleware for WSGI app to preform oauth, 2016-07-27T15:06:35+0000
+/project/falcon-middleware-beaker/, falcon_middleware_beaker, 0.0.1, Beaker integration for falcon / hug, 2018-04-01T19:40:10+0000
+/project/repoze-who-plugins-openid/, repoze.who.plugins.openid, 0.5.3, An OpenID plugin for repoze.who, 2010-11-09T13:32:48+0000
+/project/whirl/, whirl, 0.8.0, A collection of tools for making websites in Python, 2014-07-27T04:46:19+0000
+/project/django-axes-login-actions/, django-axes-login-actions, 1.3.0, Perform one or more actions if someone performed a login, e.g. to the admin interface., 2020-04-22T09:36:28+0000
+/project/repoze-urchin/, repoze.urchin, 0.2, WSGI middleware for Google analytics, 2011-10-10T22:02:42+0000
+/project/dastools/, dastools, 0.5, dastools: Tools to work with data generated by DAS systems, 2021-01-11T18:15:04+0000
+/project/emulaterest/, emulaterest, 0.2, WSGI middleware that does Rails style PUT and DELETE request emulation, 2013-04-27T19:04:36+0000
+/project/tusfilter/, tusfilter, 0.5.1, python wsgi filter for tus protocol 1.0.0, 2015-11-02T12:36:48+0000
+/project/repoze-retry/, repoze.retry, 1.5, Middleware which implements a retryable exceptions, 2020-08-27T22:01:04+0000
+/project/cykooz-thumbs/, cykooz.thumbs, 0.3.1, WSGI middleware for image resizing, 2010-12-09T11:19:04+0000
+/project/flask-restinpeace/, flask-restinpeace, 1.4.0, Create Flask REST APIs in peace., 2019-11-29T16:47:27+0000
+/project/multipart/, multipart, 0.2.4, Parser for multipart/form-data., 2021-01-27T17:59:00+0000
+/project/wsgi-microservice-middleware/, wsgi-microservice-middleware, 0.1.6, WSGI Microservice Middleware, 2020-07-21T16:58:48+0000
+/project/cherrypy-cgiserver/, cherrypy-cgiserver, 0.3.6, Python CGI Server - Perfect To Deliver PHP Files Within A Python CherryPy Application, 2016-08-25T13:57:27+0000
+/project/filtercoffee/, filtercoffee, 0.3, A simple WSGI Middleware for compiling CoffeeScript to JavaScript on the fly, 2012-02-01T18:50:03+0000
+/project/wsgiauth/, wsgiauth, 0.1, WSGI authentication middleware, 2006-10-30T19:11:42+0000
+/project/binner/, Binner, 0.3.0, Calculate bin sizes for items. Easy!, 2018-01-20T00:15:28+0000
+/project/normalize-css/, normalize.css, 2.3.4, A modern, HTML5-ready alternative to CSS resets, 2020-10-10T06:15:02+0000
+/project/talisker-fork/, talisker-fork, 0.10.1, A common WSGI stack, 2017-06-01T15:45:23+0000
+/project/wafflehaus-iweb/, wafflehaus.iweb, 0.2.0, A collection of waffles for iWeb, 2015-12-16T18:48:42+0000
+/project/fedmsg-middleware/, fedmsg_middleware, 0.0.3, WSGI middleware for display fedmsg messages., 2012-10-27T00:22:47+0000
+/project/wsgiakismet/, wsgiakismet, 0.1, Akismet SPAM blocking WSGI middleware., 2006-11-21T21:39:05+0000
+/project/wsgi-listener/, wsgi_listener, 0.1, WSGI listener middleware for WSGI Web Applications inspired by the, 2019-10-20T19:37:50+0000
+/project/hprose/, hprose, 1.4.3, Hprose is a High Performance Remote Object Service Engine., 2015-03-23T05:58:35+0000
+/project/django-urlprepend/, django-urlprepend, 0.4.6, This Django application you to prepend a string to your django app urls useful if you need to change themes based on url., 2015-07-23T15:15:06+0000
+/project/watson-dev/, watson-dev, 3.0.1, Work with WSGI applications locally., 2016-12-14T05:31:30+0000
+/project/afpy-ldap/, afpy.ldap, 1.0, This module provide an easy way to deal with ldap stuff in python., 2010-10-05T01:03:44+0000
+/project/wsgiunproxy/, WsgiUnproxy, 1.0, Unproxy WSGI middleware, 2011-08-18T14:24:26+0000
+/project/language-middleware/, language_middleware, 0.6, This Wsgi middleware, takes the language from urls similiar to '/es/documents' or from the Accept language header., 2016-02-02T01:57:56+0000
+/project/wheezy-http/, wheezy.http, 3.0.1, A lightweight http request-response library, 2020-12-30T08:48:00+0000
+/project/rollbar-agent/, rollbar-agent, 0.4.4, Rollbar server-side agent, 2020-09-23T16:20:01+0000
+/project/falcon-limiter/, falcon-limiter, 0.1.2, Falcon-Limiter - a rate limiting module for the Falcon web framework, 2020-10-14T20:29:24+0000
+/project/wsgiform/, wsgiform, 0.3, WSGI form parsing and validation middleware, 2006-12-10T20:14:18+0000
+/project/fanstatic/, fanstatic, 1.1, Flexible static resources for web applications, 2019-01-22T08:13:14+0000
+/project/kudzu/, Kudzu, 0.1, Set of utilities for better logging in WSGI applications, 2016-05-02T13:44:22+0000
+/project/devauth/, DevAuth, 0.1.2, Authentication for developer access to applications, 2010-09-23T17:51:13+0000
+/project/django-redirect-middleware/, django-redirect-middleware, 0.0.1, Remake of standart Django redirect middleware, 2012-06-01T09:11:46+0000
+/project/watson-filesystem/, watson-filesystem, 2.0.0, Abstracted filesystems for Watson., 2017-06-13T06:51:25+0000
+/project/middlestorm/, middlestorm, 0.8.1, Middleware for use Storm ORM in WSGI applications, 2010-04-19T09:22:26+0000
+/project/islay-auth/, islay.auth, 0.1, An unobtrusive authentication framework for WSGI stacks., 2010-07-21T22:44:59+0000
+/project/webob/, WebOb, 1.8.7, WSGI request and response object, 2021-02-18T06:55:16+0000
+/project/manhattan/, manhattan, 0.2, Robust Server-Side Analytics, 2014-01-23T09:43:13+0000
+/project/urlrelay/, urlrelay, 0.7.1, Simple RESTful WSGI URL dispatcher., 2009-01-15T02:34:23+0000
+/project/nanoasgi/, NanoASGI, 0.0.5, Fast and simple ASGI-framework for small web-applications., 2021-01-02T02:31:47+0000
+/project/bark/, bark, 0.1.0, WSGI logging middleware, 2013-01-11T21:20:23+0000
+/project/rhetoric/, Rhetoric, 0.2.3, Pyramid-like routes for Django projects, 2015-06-03T08:38:11+0000
+/project/who-dev/, who_dev, 0.0.2, A developer-mode plugin for repoze.who, 2016-06-22T21:53:54+0000
+/project/zc-wsgisessions/, zc.wsgisessions, 0.5.1, ZC WSGI sessions, 2013-06-13T00:46:09+0000
+/project/auth-pubtkt/, auth_pubtkt, 0.1, This software implements mod_auth_pubtkt authentication for Python world., 2011-03-25T03:29:33+0000
+/project/repoze-whoplugins-zodb/, repoze.whoplugins.zodb, 1.0.1, ZODB authenticator and metadata plugin for repoze.who, 2010-11-12T20:11:46+0000
+/project/wsgitrml2pdf/, wsgitrml2pdf, 0.0.1, wsgitrml2pdf is wsgi middleware to convert trml text to pdf., 2010-03-03T13:27:33+0000
+/project/django-auth-mac/, django-auth_mac, 0.1.2, Basic Django implementation of the draft RFC ietf-oauth-v2-http-mac-01, 2012-02-16T01:46:00+0000
+/project/toscawidgets/, ToscaWidgets, 0.9.12, Web widget creation toolkit based on TurboGears widgets, 2011-07-14T16:38:29+0000
+/project/yet-another-django-profiler/, yet-another-django-profiler, 1.1.0, Django middleware for performance profiling directly from the browser, 2017-01-11T03:41:01+0000
+/project/pyramid-oauthlib/, pyramid-oauthlib, 0.4.2, Pyramid OAuthLib integration, 2020-09-07T21:53:30+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/saladedefruits/, SaladeDeFruits, 0.8, A skinning middleware, 2010-04-05T12:56:46+0000
+/project/areciboware/, areciboware, 1.0b1, Arecibo error logging WSGI middleware, 2010-07-27T07:40:32+0000
+/project/fogbugzmiddleware/, FogBugzMiddleware, 1.2, FogBugz Middleware for Django, 2010-12-15T20:15:50+0000
+/project/bottle-stone/, bottle-stone, 0.1.0, Plugin to use the Stone IDL with Bottle., 2016-11-27T03:39:17+0000
+/project/negotiate/, negotiate, 0.0.1, Negotiate: smart, simple content negotiation for Python web applications, 2012-04-02T00:26:45+0000
+/project/pagecache/, pagecache, 0.1.1, Page caching WSGI middleware, 2010-08-13T19:34:03+0000
+/project/beaker/, Beaker, 1.11.0, A Session and Caching library with WSGI Middleware, 2019-08-26T22:02:01+0000
+/project/cleaver/, cleaver, 0.1.0, Bloody simple A/B testing for Python WSGI applications, 2015-03-30T17:50:39+0000
+/project/tet-raven/, tet_raven, 0.1, Unearthly intelligent batteries-included application framework built on Pyramid, 2016-07-21T15:06:06+0000
+/project/matcha/, matcha, 0.3, A WSGI dispatcher., 2013-10-15T14:33:26+0000
+/project/proxyprefix/, proxyprefix, 0.1.3, Prefix SCRIPT_NAME with X-Forwarded-Prefix header, 2019-10-04T09:11:15+0000
+/project/gates/, Gates, v1.0.0.beta, Minimal, fast and intuitive REST HTTP services in python, 2012-06-08T23:10:06+0000
+/project/repoze-what-plugins-couchdbkit/, repoze.what.plugins.couchdbkit, 0.2, repoze.what plugin for couchdbkit, 2010-02-14T20:02:28+0000
+/project/glashammer/, Glashammer, 0.2.1, Full stack web framework, 2009-03-31T11:33:21+0000
+/project/pastedeploy/, PasteDeploy, 2.1.1, Load, configure, and compose WSGI applications and servers, 2020-10-12T18:57:11+0000
+/project/deliverance-rewrite/, Deliverance.Rewrite, 0.6.3, Deliverance transforms HTML to theme pages, fork with separate header rewrite, 2013-01-01T05:16:34+0000
+/project/ratchet-agent/, ratchet-agent, 0.2.4, Ratchet.io server-side agent, 2012-12-12T02:33:08+0000
+/project/turnstile/, turnstile, 0.6.1, Distributed rate-limiting middleware, 2012-10-02T21:24:12+0000
+/project/django-livejs2/, django-livejs2, 1.0, Integrate live.js into django site, 2012-10-13T01:22:22+0000
+/project/support/, support, 0.0.1, An evented server framework designed for building scalable and introspectable services. Built at PayPal, based on gevent., 2015-03-17T07:56:55+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/js-ngupload/, js.ngupload, 0.3.0, Fanstatic packaging of ngUpload, 2013-03-11T09:26:34+0000
+/project/js-jquery-maskedinput/, js.jquery_maskedinput, 1.4.1, Fanstatic packaging of jquery.maskedinput, 2017-02-23T11:56:40+0000
+/project/django-windowsauth/, django-windowsauth, 1.4.0, Easy integration and deployment of Django projects into Windows Environments., 2021-02-20T04:12:29+0000
+/project/pyas2/, pyAS2, 0.4.6, A pythonic AS2 application for file tranfers., 2019-04-17T11:30:21+0000
+/project/django-throttling/, django-throttling, 0.0.1, Basic throttling app for Django, 2013-08-12T18:58:33+0000
+/project/watson-cache/, watson-cache, 1.1.0, Caching strategies for the web., 2014-12-26T04:10:07+0000
+/project/repoze-dvselect/, repoze.dvselect, 0.1.2, Select Deliverance rules / theme based on URI, 2009-07-11T17:10:36+0000
+/project/falcon-autocrud/, falcon-autocrud, 1.0.37, Makes RESTful CRUD easier, 2020-05-04T02:51:22+0000
+/project/poorwsgi/, PoorWSGI, 2.3.4, Poor WSGI connector for Python, 2021-03-12T09:15:09+0000
+/project/js-jquery-maskmoney/, js.jquery_maskmoney, 3.0.2, Fanstatic packaging of jQuery-maskMoney, 2017-02-23T11:49:23+0000
+/project/mother-webapps-framework/, mother-webapps-framework, 0.1.0, Mother - Web Applications Framework, 2011-06-20T20:20:45+0000
+/project/django-hotsauce-oauthclient/, django-hotsauce-oauthclient, 0.3, Simple WSGI middleware for OAuth 2.0, 2019-03-31T12:14:26+0000
+/project/pyriform/, pyriform, 0.5, Connect the requests library to your WSGI app without using sockets., 2017-09-05T12:55:12+0000
+/project/authgoogle-middleware/, authgoogle-middleware, 0.2.4, Google authentication middleware, 2012-07-26T12:16:49+0000
+/project/wsgiprofile/, WSGIProfile, 0.1dev, WSGI Middleware for embedding a rich profiler in web pages., 2008-09-15T10:12:46+0000
+/project/objgraph-middleware/, objgraph_middleware, 0.2, Memory data logging middleware, 2013-05-31T02:35:50+0000
+/project/django-sslify-admin/, django-sslify-admin, 0.5.0, Force SSL on your Django admin site., 2014-07-03T14:18:28+0000
+/project/heroku-bouncer/, heroku-bouncer, 1.3, WSGI middleware that requires Heroku OAuth for all requests., 2015-02-06T19:43:07+0000
+/project/repoze-who-plugins-cas/, repoze.who.plugins.cas, 0.2.2, CAS plugin for repoze.who by Makina Corpus, 2013-04-25T07:24:41+0000
+/project/django-restricted-paths/, django-restricted-paths, 1.4.0, Restricts access to specific urls to staff only by responding with a specific view or raising a 404, 2019-09-18T10:42:29+0000
+/project/canari/, canari, 3.3.10, Canari Framework - Maltego rapid transform development and execution framework., 2019-02-25T21:38:57+0000
+/project/flask-behind-proxy/, flask-behind-proxy, 0.1.1, Flask middleware to fix HTTPS redirection behind reverse proxy., 2019-02-19T07:15:46+0000
+/project/wafflehaus/, wafflehaus, 0.3.6, A collection of middleware for openstack, 2016-06-22T16:33:12+0000
+/project/django-ratchet/, django-ratchet, 0.3.5, Ratchet.io plugin for django, 2012-11-21T19:14:54+0000
+/project/werkzeug/, Werkzeug, 1.0.1, The comprehensive WSGI web application library., 2020-03-31T18:03:34+0000
+/project/wesgi/, wesgi, 0.12, A WSGI middleware which processes ESI directives, 2016-10-06T13:29:24+0000
+/project/django-access-logger/, django-access-logger, 0.4.2, Access logging for Django, the right way, 2017-10-31T18:00:08+0000
+/project/wsgi-wovn/, wsgi_wovn, 0.0.3, WSGI middleware for translating application by WOVN.io. A port of wovnjava., 2017-04-08T02:41:03+0000
+/project/wsgi-static-middleware/, wsgi-static-middleware, 0.1.2, WSGI Middleware for serving static files, 2017-01-02T17:54:31+0000
+/project/django-hotsauce-oauthclient/, django-hotsauce-oauthclient, 0.3, Simple WSGI middleware for OAuth 2.0, 2019-03-31T12:14:26+0000
+/project/wsgi-static-middleware/, wsgi-static-middleware, 0.1.2, WSGI Middleware for serving static files, 2017-01-02T17:54:31+0000
+/project/django-adminrestrict-cdsp/, django-adminrestrict-CDSP, 1.0.3, Django admin restriction, 2017-03-21T15:03:13+0000
+/project/matcha/, matcha, 0.3, A WSGI dispatcher., 2013-10-15T14:33:26+0000
+/project/proxyprefix/, proxyprefix, 0.1.3, Prefix SCRIPT_NAME with X-Forwarded-Prefix header, 2019-10-04T09:11:15+0000
+/project/pastedeploy/, PasteDeploy, 2.1.1, Load, configure, and compose WSGI applications and servers, 2020-10-12T18:57:11+0000
+/project/deliverance-rewrite/, Deliverance.Rewrite, 0.6.3, Deliverance transforms HTML to theme pages, fork with separate header rewrite, 2013-01-01T05:16:34+0000
+/project/watson-cors/, watson-cors, 1.0.0, CORS support for watson-framework., 2017-08-16T01:27:54+0000
+/project/waitforit/, WaitForIt, 0.2, Provide an intermediate response when a WSGI application slow to respond, 2007-05-28T18:46:54+0000
+/project/httpexceptor/, httpexceptor, 1.4.0, WSGI middleware to handle HTTP responses using exceptions, 2016-02-22T14:41:11+0000
+/project/django-tracking/, django-tracking, 0.4.1, Basic visitor tracking and blacklisting for Django, 2012-11-19T16:14:42+0000
+/project/tet/, tet, 0.3.2, Unearthly intelligent batteries-included application framework built on Pyramid, 2017-08-30T21:50:51+0000
+/project/falcon-auth0/, falcon-auth0, 1.0.9, Auth0 Authorization Middleware for The Falcon Web Framework, 2018-05-09T14:15:56+0000
+/project/django-table-renderers/, django-table-renderers, 1.0.0, Simple django rest framework renderers for converting python representations to tables to .xlsx or a group of .tgz'd .csv files., 2020-03-06T16:35:39+0000
+/project/repoze-browserid/, repoze.browserid, 0.3, repoze.browserid WSGI middleware tags browsers with an identifier cookie for use in sessioning and otherbrowser-identity-sensitive systems., 2010-04-26T18:23:06+0000
+/project/wasmite/, wasmite, 0.2.1, Wasmite: Webassembly is the future but now it has a testing toolchain, 2021-02-21T14:14:01+0000
+/project/iscool-e-pynba/, iscool_e.pynba, 0.5.0, lightweight timers and wsgi middleware to monitor performance in production systems, 2015-06-18T14:58:22+0000
+/project/backlash/, backlash, 0.3.1, Standalone WebOb port of the Werkzeug Debugger with Python3 support meant to replace WebError in future TurboGears2, 2020-05-06T21:35:38+0000
+/project/django-sslify/, django-sslify, 0.2.7, Force SSL on your Django site., 2015-04-06T03:02:33+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/httoop/, httoop, 0.0, object oriented HTTP protocol library, 2020-11-03T13:42:33+0000
+/project/wsgistate/, wsgistate, 0.4.2, WSGI session and caching middleware., 2007-10-23T00:38:54+0000
+/project/bottle-dev/, bottle-dev, 0.13.2, Fast and simple WSGI-framework for small web-applications., 2020-10-30T18:54:33+0000
+/project/xsltemplates/, XSLTemplates, 0.6.1, An XSLT based template system for WSGI applications., 2008-04-04T03:12:59+0000
+/project/clastic/, clastic, 20.0.0, A functional Python web framework that streamlines explicit development practices while eliminating global state., 2020-03-08T02:31:13+0000
+/project/repoze-vhm3/, repoze.vhm3, 0.15, repoze virtual hosting middleware., 2018-02-14T13:48:35+0000
+/project/blidec-paste/, blidec-paste, 3.2.4, Tools for using a Web Server Gateway Interface stack, 2019-11-25T17:48:41+0000
+/project/flask-xsrf/, flask-xsrf, 1.0.2, flask extension for defending against cross-site request forgery attacks (xsrf/csrf), by protecting flask endpoints with uniquely generated tokens for each request., 2016-02-29T20:39:53+0000
+/project/schevowsgi/, SchevoWsgi, 1.0a1, Schevo tools for WSGI, 2008-01-20T16:02:17+0000
+/project/repoze-evolution/, repoze.evolution, 0.6, Version-number-controlled evolution for database changes, 2013-05-20T19:17:25+0000
+/project/js-fineuploader/, js.fineuploader, 5.14.0, Fanstatic packaging of Fine Uploader, 2017-02-23T09:54:37+0000
+/project/ulif-openoffice/, ulif.openoffice, 1.1.1, Run OpenOffice as web service., 2015-07-23T16:03:51+0000
+/project/wsgi-request-logger/, wsgi-request-logger, 0.4.6, Apache-like combined logging for WSGI Web Applications, 2016-10-08T09:13:48+0000
+/project/myreco/, myreco, 0.65.5, A Recommendations Framework, 2018-10-09T21:25:54+0000
+/project/wafflehaus-nova/, wafflehaus.nova, 0.1.1dev, A collection of middleware for openstack nova, 2014-07-08T18:47:52+0000
+/project/cps110bottle/, cps110bottle, 0.13.dev2, A minor modification to the Python bottle framework suitable for student use., 2017-12-22T16:35:03+0000
+/project/watson-validators/, watson-validators, 1.0.6, Validate and verify arbitrary values., 2017-06-08T01:15:25+0000
+/project/wsgi-statsd/, wsgi-statsd, 0.3.1, WSGI middleware for statsd timing, 2015-01-22T14:46:34+0000
+/project/wsgioauth-zodb/, wsgioauth.zodb, 0.2, A package that implements OAuth with ZODB storage., 2010-01-25T20:40:33+0000
+/project/tentacles/, tentacles, 0.1.1, Object-Relational Mapping (ORM), 2011-06-11T21:28:47+0000
+/project/cps110bottle/, cps110bottle, 0.13.dev2, A minor modification to the Python bottle framework suitable for student use., 2017-12-22T16:35:03+0000
+/project/watson-validators/, watson-validators, 1.0.6, Validate and verify arbitrary values., 2017-06-08T01:15:25+0000
+/project/kobin/, kobin, 0.1.10, Type Hints friendly WSGI Framework for Python3., 2017-03-19T18:30:18+0000
+/project/wsgi-statsd/, wsgi-statsd, 0.3.1, WSGI middleware for statsd timing, 2015-01-22T14:46:34+0000
+/project/instana/, instana, 1.32.1, 🐍 Python Distributed Tracing & Metrics Sensor for Instana, 2021-04-16T09:52:54+0000
+/project/watson-cors/, watson-cors, 1.0.0, CORS support for watson-framework., 2017-08-16T01:27:54+0000
+/project/waitforit/, WaitForIt, 0.2, Provide an intermediate response when a WSGI application slow to respond, 2007-05-28T18:46:54+0000
+/project/httpexceptor/, httpexceptor, 1.4.0, WSGI middleware to handle HTTP responses using exceptions, 2016-02-22T14:41:11+0000
+/project/falcon-auth2/, falcon-auth2, 0.0.2, Falcon authentication middleware that supports multiple authentication types., 2020-07-26T12:02:34+0000
+/project/repoze-who-plugins-metadata-cache/, repoze.who.plugins.metadata_cache, 0.1, Metadata caching plugin for repoze.who, 2013-04-24T06:39:11+0000
+/project/rutter/, rutter, 0.3, Py3k-compatible fork of Paste's urlmap, 2020-08-10T20:17:00+0000
+/project/wheezy-captcha/, wheezy.captcha, 3.0.1, A lightweight captcha library, 2020-12-30T09:07:26+0000
+/project/amnesia/, amnesia, 0.2.0, Amnesia eases web development by reloading WSGI apps and imported modules before each request., 2010-05-17T19:58:05+0000
+/project/repoze-debug/, repoze.debug, 1.1, Forensic debugging WSGI middleware, 2016-06-03T17:02:37+0000
+/project/falcon-swagger/, falcon-swagger, 0.14.4, A Falcon Framework extension featuring Swagger, SQLAlchemy and Redis, 2016-12-20T21:49:55+0000
+/project/django-tracking/, django-tracking, 0.4.1, Basic visitor tracking and blacklisting for Django, 2012-11-19T16:14:42+0000
+/project/tet/, tet, 0.3.2, Unearthly intelligent batteries-included application framework built on Pyramid, 2017-08-30T21:50:51+0000
+/project/falcon-auth0/, falcon-auth0, 1.0.9, Auth0 Authorization Middleware for The Falcon Web Framework, 2018-05-09T14:15:56+0000
+/project/django-table-renderers/, django-table-renderers, 1.0.0, Simple django rest framework renderers for converting python representations to tables to .xlsx or a group of .tgz'd .csv files., 2020-03-06T16:35:39+0000
+/project/repoze-browserid/, repoze.browserid, 0.3, repoze.browserid WSGI middleware tags browsers with an identifier cookie for use in sessioning and otherbrowser-identity-sensitive systems., 2010-04-26T18:23:06+0000
+/project/wasmite/, wasmite, 0.2.1, Wasmite: Webassembly is the future but now it has a testing toolchain, 2021-02-21T14:14:01+0000
+/project/iscool-e-pynba/, iscool_e.pynba, 0.5.0, lightweight timers and wsgi middleware to monitor performance in production systems, 2015-06-18T14:58:22+0000
+/project/backlash/, backlash, 0.3.1, Standalone WebOb port of the Werkzeug Debugger with Python3 support meant to replace WebError in future TurboGears2, 2020-05-06T21:35:38+0000
+/project/django-sslify/, django-sslify, 0.2.7, Force SSL on your Django site., 2015-04-06T03:02:33+0000
+/project/weberror/, WebError, 0.13.1, Web Error handling and exception catching, 2016-04-10T01:48:47+0000
+/project/tet-deform/, tet.deform, 0.1.1, Deform integration for tet, 2016-07-24T14:13:59+0000
+/project/repoze-tm/, repoze.tm, 0.9, Zope-like transaction manager via WSGI middleware, 2009-01-07T01:25:38+0000
+/project/maitai/, maitai, 0.2, Handy WSGI Middleware Utilities, 2012-09-27T06:03:08+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/httoop/, httoop, 0.0, object oriented HTTP protocol library, 2020-11-03T13:42:33+0000
+/project/wsgistate/, wsgistate, 0.4.2, WSGI session and caching middleware., 2007-10-23T00:38:54+0000
+/project/snafu/, snafu, 0.0.3, Swiss Army Knife of Serverless Computing, 2018-07-01T06:42:00+0000
+/project/tet-fanstatic/, tet.fanstatic, 0.1, Fanstatic integration for tet, 2015-09-06T13:33:32+0000
+/project/bottle/, bottle, 0.12.19, Fast and simple WSGI-framework for small web-applications., 2020-11-11T18:51:24+0000
+/project/wsgigzip/, wsgigzip, 0.1.4, Decorator for flup's gzip compression WSGI middleware., 2016-04-29T17:19:31+0000
+/project/falconjsonio/, falconjsonio, 1.0.2, JSON-Schema input and output for Falcon, 2017-06-06T11:15:13+0000
+/project/wsgiwatch/, wsgiwatch, 0.1.2, Synchronously rebuild assets for a WSGI application in response to source file changes, 2016-07-21T20:53:10+0000
+/project/whiff/, whiff, 1.1, WHIFF: WSGI HTTP Integrated Filesystem Frames, 2013-07-09T21:19:15+0000
+/project/js-jquery-sortable/, js.jquery_sortable, 0.9.13, Fanstatic packaging of jQuery Sortable, 2017-02-23T19:38:36+0000
+/project/django-secureadmin/, django-secureadmin, 1.4, Django-SecureAdmin send verification mail when user last and new ip not equals., 2015-04-27T10:19:30+0000
+/project/uamobile/, uamobile, 0.2.16, WSGIUserAgentMobile - mobile user agent string parser for WSGI applications, 2011-02-10T06:20:09+0000
+/project/factored/, factored, 4.0.10, A WSGI app that allows you to add another factor of authentication to any application server., 2019-01-07T15:02:32+0000
+/project/artichoke/, artichoke, 0.4.3, Simple and Lightweight WSGI Web Framework, 2013-03-12T13:52:05+0000
+/project/chocs/, chocs, 0.17.1, Lightweight and powerful wsgi rest framework for rapid building applications based on wsgi servers., 2021-04-08T14:19:28+0000
+/project/django-adminrestrict/, django-adminrestrict, 3.0, Restrict admin pages using simple IP address rules, 2020-12-11T03:32:42+0000
+/project/fiole/, fiole, 0.4.1, The handy Python web framework., 2014-07-03T07:31:40+0000
+/project/barmanapi/, barmanapi, 0.3, This project convert from BARMAN command to RESTful api. Barman API support full future and all versions of BARMAN., 2016-06-24T11:41:30+0000
+/project/django-visits/, django-visits, 0.1.6, Visit counter for Django, 2014-06-16T03:01:50+0000
+/project/pynba/, pynba, 0.5.5, lightweight timers and wsgi middleware to monitor performance in production systems, 2015-09-08T16:42:34+0000
+/project/wsgiview/, wsgiview, 0.2.1, Use TurboGears template plug-ins anywhere WSGI runs, 2007-01-02T00:03:47+0000
+/project/whitenoise/, whitenoise, 5.2.0, Radically simplified static file serving for WSGI applications, 2020-08-04T09:33:38+0000
+/project/wsgioauth/, wsgioauth, 0.3, A WSGI OAuth for working with OAuth from the consumer and service provider
+perspective. Contains a middleware for protected WSGI applications with an
+associated administration application. Provides a simple library to help
+consumers integrate OAuth protected resources into their applications., 2010-01-25T19:26:56+0000
+/project/isisdm/, isisdm, 0.2.3, ISIS-DM allows programmers to express constraints and functionality similar to those of the CDS/ISIS Field Definition Table and the CDS/ISIS Formatting Language, but in contemporary, object-oriented programming languages., 2011-11-25T19:15:35+0000
+/project/who-ldap/, who_ldap, 4.0.0, LDAP plugin for repoze.who, 2018-03-23T22:37:26+0000
+/project/wsgi-kerberos/, WSGI-Kerberos, 1.0.1, Kerberos authentication support in WSGI Middleware, 2021-01-19T03:14:16+0000
+/project/webtestrecorder/, WebTestRecorder, 0.1.1, Record activity from a WSGI application, and generate WebTest tests from that record, 2011-11-10T17:14:20+0000
+/project/django-auth-spnego/, django-auth-spnego, 0.1.1, SPNEGO Kerberos authentication middleware for django, 2017-09-05T12:39:07+0000
+/project/pywayback/, pywayback, 0.10.9.1, Python WayBack for web archive replay and live web proxy, 2015-10-21T22:32:29+0000
+/project/print-json-middleware/, print_json_middleware, 0.1.1, JSON prettyprinter WSGI middleware, 2013-03-20T15:53:56+0000
+/project/pymvc/, pymvc, 0.1.3, MVC framework for Python, 2018-07-26T09:26:35+0000
+/project/debugheaders/, DebugHeaders, 0.1, Debug headers (and bodies) of WSGI requests and responses, 2010-05-13T05:09:33+0000
+/project/ewer/, ewer, 0.13.dev0, Async Fork of Fast and simple WSGI-framework for small web-applications., 2016-08-13T19:44:06+0000
+/project/swaggerit/, swaggerit, 0.14.1, A Framework featuring Swagger, SQLAlchemy and Redis, 2018-09-20T19:28:07+0000
+/project/falcon-prometheus/, falcon-prometheus, 0.1.0, Falcon Framework Prometheus Middleware, 2018-09-19T15:02:48+0000
+/project/pyramid-ratchet/, pyramid_ratchet, 0.3.4, Ratchet.io notifier plugin for Pyramid, 2012-12-01T03:11:13+0000
+/project/ws4py/, ws4py, 0.5.1, WebSocket client and server library for Python 2 and 3 as well as PyPy, 2018-02-28T17:40:47+0000
+/project/flask-oslolog/, flask-oslolog, 0.1, This project wraps the existing oslo.log library to providerequest logging and logger access within flask.., 2017-04-10T13:30:38+0000
+/project/rollbar-udp-agent/, rollbar-udp-agent, 0.0.15, Rollbar server-side UDP agent, 2015-05-27T09:48:15+0000
+/project/watson-filters/, watson-filters, 1.0.1, Modify and convert values into something else., 2017-03-23T04:06:25+0000
+/project/alloyclient/, alloyclient, 1.0.0, Alloy Client, 2015-04-07T20:26:14+0000
+/project/j25framework/, j25framework, 0.5.8, A highly scalable REST application development framework, 2012-08-12T10:18:52+0000
+/project/tw2-core/, tw2.core, 2.3.0, The runtime components for ToscaWidgets 2, a web widget toolkit., 2020-09-12T09:41:08+0000
+/project/spynach/, spynach, 0.3, Simple and Lightweight WSGI Web Framework, 2013-02-08T22:22:31+0000
+/project/django-auth-pubtkt/, django-auth-pubtkt, 2.0.1, Implementation of mod_auth_pubtkt as Django middleware, 2018-03-10T20:35:45+0000
+/project/pywb/, pywb, 2.5.0, Pywb Webrecorder web archive replay and capture tools, 2021-01-27T06:48:02+0000
+/project/jadelesscoffee-middleware/, jadelesscoffee-middleware, 0.3.0, WSGI middleware class that executes the Node.js JadeLessCoffee compiler on a `src` folder in the JLC_DIRS environment variable., 2013-07-10T11:51:08+0000
+/project/pynipap/, pynipap, 0.29.5, a Python NIPAP client library, 2016-10-08T21:21:40+0000
+/project/wheezy-web/, wheezy.web, 3.0.1, A lightweight, high performance, high concurrency WSGI web framework with the key features to build modern, efficient web, 2020-12-30T09:01:26+0000
+/project/databrowse/, databrowse, 0.8.4, An Extensible Data Management Platform, 2020-03-20T19:31:12+0000
+/project/django-multihost/, django-multihost, 0.3, Simple multihost handling for Django, 2012-12-07T14:27:18+0000
+/project/django-dataporten/, django-dataporten, 0.4.0, A simple Django app to fetch and parse data from Dataporten., 2019-04-07T10:42:29+0000
+/project/js-tinymce/, js.tinymce, 4.5.4, Fanstatic packaging of TinyMCE, 2017-03-07T08:42:57+0000
+/project/repoze-urispace/, repoze.urispace, 0.3.2, Library / middleware for URI-based assertions, 2009-07-13T23:18:07+0000
+/project/tfserve/, tfserve, 0.3, Serve TF models simple and easy as an HTTP API server., 2018-10-29T16:06:04+0000
+/project/receptacle/, receptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-05T16:54:13+0000
+/project/cykooz-thumbs/, cykooz.thumbs, 0.3.1, WSGI middleware for image resizing, 2010-12-09T11:19:04+0000
+/project/flask-restinpeace/, flask-restinpeace, 1.4.0, Create Flask REST APIs in peace., 2019-11-29T16:47:27+0000
+/project/multipart/, multipart, 0.2.4, Parser for multipart/form-data., 2021-01-27T17:59:00+0000
+/project/cherrypy-cgiserver/, cherrypy-cgiserver, 0.3.6, Python CGI Server - Perfect To Deliver PHP Files Within A Python CherryPy Application, 2016-08-25T13:57:27+0000
+/project/falcon-stats/, falcon-stats, 0.5, A simple middleware to gather request-response statistics from the falcon REST framework, 2017-07-12T16:03:08+0000
+/project/wsgi-oauth2/, wsgi-oauth2, 0.2.2, Simple WSGI middleware for OAuth 2.0, 2020-09-16T21:13:01+0000
+/project/nova-limits/, nova_limits, 0.6.1, Nova-specific rate-limit class for turnstile, 2012-10-02T21:24:12+0000
+/project/wsgiauth/, wsgiauth, 0.1, WSGI authentication middleware, 2006-10-30T19:11:42+0000
+/project/flask-blitzdb/, flask-blitzdb, 0.1, Flask extension for blitzdb, 2014-09-15T03:56:37+0000
+/project/binner/, Binner, 0.3.0, Calculate bin sizes for items. Easy!, 2018-01-20T00:15:28+0000
+/project/normalize-css/, normalize.css, 2.3.4, A modern, HTML5-ready alternative to CSS resets, 2020-10-10T06:15:02+0000
+/project/talisker-fork/, talisker-fork, 0.10.1, A common WSGI stack, 2017-06-01T15:45:23+0000
+/project/wafflehaus-iweb/, wafflehaus.iweb, 0.2.0, A collection of waffles for iWeb, 2015-12-16T18:48:42+0000
+/project/ckanext-logstash/, ckanext-logstash, 0.0.2, Logstash support for CKAN, 2019-09-12T17:45:37+0000
+/project/django-fluentd-requests-logging/, django-fluentd-requests-logging, 0.5.12, A little JSON-over-HTTP Django request log export for fluentd, 2017-03-13T17:11:33+0000
+/project/repoze-errorlog/, repoze.errorlog, 1.1, Error logging and reporting middleware, 2016-06-03T18:35:11+0000
+/project/wsgize/, wsgize, 0.4, WSGI without the WSGI, 2007-01-06T23:14:50+0000
+/project/wsgi-listener/, wsgi_listener, 0.1, WSGI listener middleware for WSGI Web Applications inspired by the, 2019-10-20T19:37:50+0000
+/project/snapsearch-client-python/, snapsearch-client-python, 0.0.9, Pythonic HTTP Client and Middleware Library for SnapSearch, 2017-04-14T07:52:49+0000
+/project/secure-cookie/, secure-cookie, 0.1.0, Secure cookie and session interface for WSGI applications., 2020-02-26T00:19:58+0000
+/project/aiohttp-middlewares/, aiohttp-middlewares, 1.1.0, Collection of useful middlewares for aiohttp applications., 2020-04-21T17:53:17+0000
+/project/flask-keystone/, flask-keystone, 0.2, This project wraps the existing keystone middleware to provide courtesy user functions within an API., 2017-05-15T20:40:03+0000
+/project/wfront/, WFront, 0.4, A WSGI front-door dispatcher., 2008-12-29T00:47:07+0000
+/project/pyramid-di/, pyramid-di, 0.4.1, Dependency injection stuff for Pyramid, 2021-03-19T13:01:52+0000
+/project/django-urlprepend/, django-urlprepend, 0.4.6, This Django application you to prepend a string to your django app urls useful if you need to change themes based on url., 2015-07-23T15:15:06+0000
+/project/watson-dev/, watson-dev, 3.0.1, Work with WSGI applications locally., 2016-12-14T05:31:30+0000
+/project/language-middleware/, language_middleware, 0.6, This Wsgi middleware, takes the language from urls similiar to '/es/documents' or from the Accept language header., 2016-02-02T01:57:56+0000
+/project/falcon-limiter/, falcon-limiter, 0.1.2, Falcon-Limiter - a rate limiting module for the Falcon web framework, 2020-10-14T20:29:24+0000
+/project/wsgiform/, wsgiform, 0.3, WSGI form parsing and validation middleware, 2006-12-10T20:14:18+0000
+/project/fanstatic/, fanstatic, 1.1, Flexible static resources for web applications, 2019-01-22T08:13:14+0000
+/project/kudzu/, Kudzu, 0.1, Set of utilities for better logging in WSGI applications, 2016-05-02T13:44:22+0000
+/project/devauth/, DevAuth, 0.1.2, Authentication for developer access to applications, 2010-09-23T17:51:13+0000
+/project/django-redirect-middleware/, django-redirect-middleware, 0.0.1, Remake of standart Django redirect middleware, 2012-06-01T09:11:46+0000
+/project/wsgitrml2pdf/, wsgitrml2pdf, 0.0.1, wsgitrml2pdf is wsgi middleware to convert trml text to pdf., 2010-03-03T13:27:33+0000
+/project/django-auth-mac/, django-auth_mac, 0.1.2, Basic Django implementation of the draft RFC ietf-oauth-v2-http-mac-01, 2012-02-16T01:46:00+0000
+/project/watson-filesystem/, watson-filesystem, 2.0.0, Abstracted filesystems for Watson., 2017-06-13T06:51:25+0000
+/project/middlestorm/, middlestorm, 0.8.1, Middleware for use Storm ORM in WSGI applications, 2010-04-19T09:22:26+0000
+/project/islay-auth/, islay.auth, 0.1, An unobtrusive authentication framework for WSGI stacks., 2010-07-21T22:44:59+0000
+/project/django-fallback-view/, django-fallback-view, 0.2.0, Middleware that returns a fallback view when the URL matches anything that isnt specified>, 2019-10-03T04:41:32+0000
+/project/keyfree/, keyfree, 1.0.0, An authentication proxy for Amazon Elasticsearch Service, 2016-11-13T13:47:00+0000
+/project/ohoh/, ohoh, 0.1.0, A debug server for WSGI apps., 2015-07-26T23:36:25+0000
+/project/linesman/, linesman, 0.3.2, WSGI Profiling middleware, 2016-05-20T23:06:27+0000
+/project/xsendfile-middleware/, xsendfile_middleware, 0.1.1, WSGI middleware to send files using X-Accel-Redirect, 2016-10-28T23:26:02+0000
+/project/deliverance/, Deliverance, 0.6.1, Deliverance transforms HTML to theme pages, 2012-05-28T13:57:46+0000
+/project/ckanext-oauth2/, ckanext-oauth2, 0.7.0, OAuth2 support for CKAN, 2019-04-12T11:39:27+0000
+/project/wsgiheaders/, wsgiheaders, 0.2, Adding and replacing response headers, 2009-01-11T20:08:50+0000
+/project/brightcontent/, BrightContent, 0.1, Bright Content is Python Weblog software built from reusable components., 2006-09-02T17:36:32+0000
+/project/django-autodemo/, django-autodemo, 0.1.0, Demo mode to allow arbitrary authentication on website., 2017-04-22T18:08:24+0000
+/project/faas-converter/, faas-converter, 0.0.3, Function as a service converter, 2018-03-12T13:34:48+0000
+/project/wsgiproxy/, WSGIProxy, 0.2.2, HTTP proxying tools for WSGI apps, 2010-06-10T21:47:40+0000
+/project/django-http2-push/, django-http2-push, 0.0b2, A simple way to add Header LINK, 2018-09-22T15:07:45+0000
+/project/sansio-multipart/, sansio-multipart, 0.3, Parser for multipart/form-data., 2019-06-14T00:35:40+0000
+/project/django-ssl-admin/, django-ssl-admin, 1.1.4, Django middleware to make the admin https only., 2014-12-28T13:46:28+0000
+/project/wsgi-request-logger-bepro/, wsgi-request-logger-bepro, 0.4.7, Apache-like combined logging for WSGI Web Applications, 2020-07-07T15:56:00+0000
+/project/falcon-caching/, falcon-caching, 0.3.4, Falcon-Caching - a caching module for the Falcon web framework, 2021-04-13T22:29:22+0000
+/project/raptorizemw/, raptorizemw, 0.2.1, Every WSGI app is better with a raptor., 2014-11-18T21:25:40+0000
+/project/wsgiserialize/, wsgiserialize, 0.3, Simple object serialization middleware for WSGI., 2006-12-16T17:58:11+0000
+/project/pyrainbow/, pyrainbow, 0.0.7, Rainbow is a micro-framework for Python RPC+Pub/Sub communication over WebSockets., 2015-11-30T12:28:01+0000
+/project/oauth-middleware/, oauth-middleware, 0.3.3, Simple flask_oauthlib based middleware for WSGI app to preform oauth, 2016-07-27T15:06:35+0000
+/project/falcon-middleware-beaker/, falcon_middleware_beaker, 0.0.1, Beaker integration for falcon / hug, 2018-04-01T19:40:10+0000
+/project/repoze-who-plugins-openid/, repoze.who.plugins.openid, 0.5.3, An OpenID plugin for repoze.who, 2010-11-09T13:32:48+0000
+/project/whirl/, whirl, 0.8.0, A collection of tools for making websites in Python, 2014-07-27T04:46:19+0000
+/project/django-axes-login-actions/, django-axes-login-actions, 1.3.0, Perform one or more actions if someone performed a login, e.g. to the admin interface., 2020-04-22T09:36:28+0000
+/project/repoze-urchin/, repoze.urchin, 0.2, WSGI middleware for Google analytics, 2011-10-10T22:02:42+0000
+/project/dastools/, dastools, 0.5, dastools: Tools to work with data generated by DAS systems, 2021-01-11T18:15:04+0000
+/project/emulaterest/, emulaterest, 0.2, WSGI middleware that does Rails style PUT and DELETE request emulation, 2013-04-27T19:04:36+0000
+/project/tusfilter/, tusfilter, 0.5.1, python wsgi filter for tus protocol 1.0.0, 2015-11-02T12:36:48+0000
+/project/repoze-retry/, repoze.retry, 1.5, Middleware which implements a retryable exceptions, 2020-08-27T22:01:04+0000
+/project/wsgi-microservice-middleware/, wsgi-microservice-middleware, 0.1.6, WSGI Microservice Middleware, 2020-07-21T16:58:48+0000
+/project/filtercoffee/, filtercoffee, 0.3, A simple WSGI Middleware for compiling CoffeeScript to JavaScript on the fly, 2012-02-01T18:50:03+0000
+/project/barrelhouse/, barrelhouse, 0.3, WSGI OpenID authentication handler, 2010-04-18T08:37:08+0000
+/project/ckanext-sentry/, ckanext-sentry, 0.0.2, Sentry support for CKAN, 2015-10-19T13:22:29+0000
+/project/iw-thumbs/, iw.thumbs, 1.2, A wsgi middleware to generate and serve image thumbnails., 2008-11-22T14:35:03+0000
+/project/ceptacle/, ceptacle, 0.4, An O-O P2P RPC protocol and application framework., 2014-06-08T21:45:45+0000
+/project/watson-assets/, watson-assets, 1.0.7, Manage publicly available assets within your application., 2017-02-02T06:58:51+0000
+/project/ezt/, ezt, 1.1, EaZy Templating for Python., 2020-04-19T18:24:06+0000
+/project/webpie/, webpie, 5.2.2, A set of useful tools built on top of standard Python threading module, 2021-04-21T20:24:37+0000
+/project/wafflehaus-neutron/, wafflehaus.neutron, 0.1.4, A collection of middleware for openstack neutron, 2016-06-27T17:18:53+0000
+/project/fedmsg-middleware/, fedmsg_middleware, 0.0.3, WSGI middleware for display fedmsg messages., 2012-10-27T00:22:47+0000
+/project/wsgiakismet/, wsgiakismet, 0.1, Akismet SPAM blocking WSGI middleware., 2006-11-21T21:39:05+0000
+/project/hprose/, hprose, 1.4.3, Hprose is a High Performance Remote Object Service Engine., 2015-03-23T05:58:35+0000
+/project/codingsoho-tracking/, codingsoho-tracking, 0.4.3, Basic visitor tracking and blacklisting for Django, 2018-10-01T10:00:19+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/request-id/, request-id, 1.0.1, Attach a unique identifier to every WSGI request., 2020-10-07T04:30:30+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/session-fernet-asgi/, session-fernet-asgi, 0.2, , 2020-05-25T13:40:27+0000
+/project/tw2-devtools/, tw2.devtools, 2.2.0.4, The development tools for ToscaWidgets 2, a web widget toolkit., 2013-09-20T13:35:45+0000
+/project/afpy-ldap/, afpy.ldap, 1.0, This module provide an easy way to deal with ldap stuff in python., 2010-10-05T01:03:44+0000
+/project/wsgiunproxy/, WsgiUnproxy, 1.0, Unproxy WSGI middleware, 2011-08-18T14:24:26+0000
+/project/qc-statusmessage/, qc.statusmessage, 1.0b3, WSGI Middleware for displaying status messages, 2009-07-20T15:08:34+0000
+/project/hug-middleware-cors/, hug-middleware-cors, 1.0.0, CORS middleware for the hug framework, 2016-12-20T11:56:49+0000
+/project/django-user-tracking/, django-user-tracking, 0.4.11, Basic visitor tracking and blacklisting for Django, 2014-10-07T20:38:29+0000
+/project/fresco-sqlalchemy/, fresco-sqlalchemy, 0.1, Fresco/SQLAlchemy integration, 2016-06-30T09:17:09+0000
+/project/bottle-mold/, bottle-mold, 0.0.3.dev1, Remove the boilerplate template from your bottle web services., 2019-05-29T19:40:58+0000
+/project/paste/, Paste, 3.5.0, Tools for using a Web Server Gateway Interface stack, 2020-10-12T12:48:32+0000
+/project/wheezy-http/, wheezy.http, 3.0.1, A lightweight http request-response library, 2020-12-30T08:48:00+0000
+/project/rollbar-agent/, rollbar-agent, 0.4.4, Rollbar server-side agent, 2020-09-23T16:20:01+0000
+/project/webdispatch/, WebDispatch, 1.3, dispatch request on wsgi application., 2014-11-18T14:58:32+0000
+/project/wtf-otp/, WTF-OTP, 0.7.0, One-Time Password for WTForms, 2020-08-05T13:18:10+0000
+/project/django-tracking-jl/, django-tracking-jl, 0.5.8, Basic visitor tracking and blacklisting for Django, 2015-10-23T11:41:04+0000
+/project/wsgilog/, wsgilog, 0.3.1, WSGI logging and event reporting middleware, 2015-10-17T16:05:05+0000
+/project/django-request-logs/, django-request-logs, 0.1.0, Access logging for Django, the right way, 2017-10-16T15:24:20+0000
+/project/webob/, WebOb, 1.8.7, WSGI request and response object, 2021-02-18T06:55:16+0000
+/project/manhattan/, manhattan, 0.2, Robust Server-Side Analytics, 2014-01-23T09:43:13+0000
+/project/urlrelay/, urlrelay, 0.7.1, Simple RESTful WSGI URL dispatcher., 2009-01-15T02:34:23+0000
+/project/nanoasgi/, NanoASGI, 0.0.5, Fast and simple ASGI-framework for small web-applications., 2021-01-02T02:31:47+0000
+/project/bark/, bark, 0.1.0, WSGI logging middleware, 2013-01-11T21:20:23+0000
+/project/rhetoric/, Rhetoric, 0.2.3, Pyramid-like routes for Django projects, 2015-06-03T08:38:11+0000
+/project/who-dev/, who_dev, 0.0.2, A developer-mode plugin for repoze.who, 2016-06-22T21:53:54+0000
+/project/auth-pubtkt/, auth_pubtkt, 0.1, This software implements mod_auth_pubtkt authentication for Python world., 2011-03-25T03:29:33+0000
+/project/repoze-whoplugins-zodb/, repoze.whoplugins.zodb, 1.0.1, ZODB authenticator and metadata plugin for repoze.who, 2010-11-12T20:11:46+0000
+/project/toscawidgets/, ToscaWidgets, 0.9.12, Web widget creation toolkit based on TurboGears widgets, 2011-07-14T16:38:29+0000
+/project/yet-another-django-profiler/, yet-another-django-profiler, 1.1.0, Django middleware for performance profiling directly from the browser, 2017-01-11T03:41:01+0000
+/project/zc-wsgisessions/, zc.wsgisessions, 0.5.1, ZC WSGI sessions, 2013-06-13T00:46:09+0000
+/project/pyramid-oauthlib/, pyramid-oauthlib, 0.4.2, Pyramid OAuthLib integration, 2020-09-07T21:53:30+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/saladedefruits/, SaladeDeFruits, 0.8, A skinning middleware, 2010-04-05T12:56:46+0000
+/project/areciboware/, areciboware, 1.0b1, Arecibo error logging WSGI middleware, 2010-07-27T07:40:32+0000
+/project/fogbugzmiddleware/, FogBugzMiddleware, 1.2, FogBugz Middleware for Django, 2010-12-15T20:15:50+0000
+/project/bottle-stone/, bottle-stone, 0.1.0, Plugin to use the Stone IDL with Bottle., 2016-11-27T03:39:17+0000
+/project/negotiate/, negotiate, 0.0.1, Negotiate: smart, simple content negotiation for Python web applications, 2012-04-02T00:26:45+0000
+/project/pagecache/, pagecache, 0.1.1, Page caching WSGI middleware, 2010-08-13T19:34:03+0000
+/project/beaker/, Beaker, 1.11.0, A Session and Caching library with WSGI Middleware, 2019-08-26T22:02:01+0000
+/project/cleaver/, cleaver, 0.1.0, Bloody simple A/B testing for Python WSGI applications, 2015-03-30T17:50:39+0000
+/project/tet-raven/, tet_raven, 0.1, Unearthly intelligent batteries-included application framework built on Pyramid, 2016-07-21T15:06:06+0000
+/project/proxyprefix/, proxyprefix, 0.1.3, Prefix SCRIPT_NAME with X-Forwarded-Prefix header, 2019-10-04T09:11:15+0000
+/project/waitforit/, WaitForIt, 0.2, Provide an intermediate response when a WSGI application slow to respond, 2007-05-28T18:46:54+0000
+/project/httpexceptor/, httpexceptor, 1.4.0, WSGI middleware to handle HTTP responses using exceptions, 2016-02-22T14:41:11+0000
+/project/falcon-auth2/, falcon-auth2, 0.0.2, Falcon authentication middleware that supports multiple authentication types., 2020-07-26T12:02:34+0000
+/project/repoze-who-plugins-metadata-cache/, repoze.who.plugins.metadata_cache, 0.1, Metadata caching plugin for repoze.who, 2013-04-24T06:39:11+0000
+/project/rutter/, rutter, 0.3, Py3k-compatible fork of Paste's urlmap, 2020-08-10T20:17:00+0000
+/project/falcon-swagger/, falcon-swagger, 0.14.4, A Falcon Framework extension featuring Swagger, SQLAlchemy and Redis, 2016-12-20T21:49:55+0000
+/project/django-tracking/, django-tracking, 0.4.1, Basic visitor tracking and blacklisting for Django, 2012-11-19T16:14:42+0000
+/project/tet/, tet, 0.3.2, Unearthly intelligent batteries-included application framework built on Pyramid, 2017-08-30T21:50:51+0000
+/project/iscool-e-pynba/, iscool_e.pynba, 0.5.0, lightweight timers and wsgi middleware to monitor performance in production systems, 2015-06-18T14:58:22+0000
+/project/django-sslify/, django-sslify, 0.2.7, Force SSL on your Django site., 2015-04-06T03:02:33+0000
+/project/bottle-dev/, bottle-dev, 0.13.2, Fast and simple WSGI-framework for small web-applications., 2020-10-30T18:54:33+0000
+/project/xsltemplates/, XSLTemplates, 0.6.1, An XSLT based template system for WSGI applications., 2008-04-04T03:12:59+0000
+/project/clastic/, clastic, 20.0.0, A functional Python web framework that streamlines explicit development practices while eliminating global state., 2020-03-08T02:31:13+0000
+/project/repoze-vhm3/, repoze.vhm3, 0.15, repoze virtual hosting middleware., 2018-02-14T13:48:35+0000
+/project/blidec-paste/, blidec-paste, 3.2.4, Tools for using a Web Server Gateway Interface stack, 2019-11-25T17:48:41+0000
+/project/flask-xsrf/, flask-xsrf, 1.0.2, flask extension for defending against cross-site request forgery attacks (xsrf/csrf), by protecting flask endpoints with uniquely generated tokens for each request., 2016-02-29T20:39:53+0000
+/project/schevowsgi/, SchevoWsgi, 1.0a1, Schevo tools for WSGI, 2008-01-20T16:02:17+0000
+/project/repoze-evolution/, repoze.evolution, 0.6, Version-number-controlled evolution for database changes, 2013-05-20T19:17:25+0000
+/project/js-fineuploader/, js.fineuploader, 5.14.0, Fanstatic packaging of Fine Uploader, 2017-02-23T09:54:37+0000
+/project/ulif-openoffice/, ulif.openoffice, 1.1.1, Run OpenOffice as web service., 2015-07-23T16:03:51+0000
+/project/wsgi-request-logger/, wsgi-request-logger, 0.4.6, Apache-like combined logging for WSGI Web Applications, 2016-10-08T09:13:48+0000
+/project/wsgi-lineprof/, wsgi-lineprof, 0.13.0, WSGI middleware for line-by-line profiling, 2021-02-01T13:49:32+0000
+/project/myreco/, myreco, 0.65.5, A Recommendations Framework, 2018-10-09T21:25:54+0000
+/project/wafflehaus-nova/, wafflehaus.nova, 0.1.1dev, A collection of middleware for openstack nova, 2014-07-08T18:47:52+0000
+/project/repoze-vhm/, repoze.vhm, 0.16, repoze virtual hosting middleware., 2020-07-28T18:44:20+0000
+/project/pymobiledetect/, pymobiledetect, 1.3.2, Detect mobile and tablet browsers, 2018-05-10T22:36:42+0000
+/project/falcon-epdb/, falcon-epdb, 1.1.2, Interactive debugging for your Falco apps, 2019-02-07T00:51:38+0000
+/project/tentacles/, tentacles, 0.1.1, Object-Relational Mapping (ORM), 2011-06-11T21:28:47+0000
+/project/hammock-rest/, hammock-rest, 0.0.1, A good place to REST, 2016-04-21T05:49:32+0000
+/project/gimlet/, gimlet, 0.5.2, Simple High-Performance WSGI Sessions, 2015-04-08T00:29:22+0000
+/project/wsgitools/, wsgitools, 0.3.1, a set of tools working with WSGI (see PEP 333), 2020-03-10T15:04:50+0000
+/project/pywsse/, pywsse, 0.1.5.2, WSSE Authentication for various server and client backends., 2018-05-01T16:17:53+0000
+/project/django-compression-middleware/, django-compression-middleware, 0.4.1, Django middleware to compress responses using several algorithms., 2020-03-07T16:42:50+0000
+/project/js-jquery-maskmoney/, js.jquery_maskmoney, 3.0.2, Fanstatic packaging of jQuery-maskMoney, 2017-02-23T11:49:23+0000
+/project/mother-webapps-framework/, mother-webapps-framework, 0.1.0, Mother - Web Applications Framework, 2011-06-20T20:20:45+0000
+/project/django-hotsauce-oauthclient/, django-hotsauce-oauthclient, 0.3, Simple WSGI middleware for OAuth 2.0, 2019-03-31T12:14:26+0000
+/project/pyriform/, pyriform, 0.5, Connect the requests library to your WSGI app without using sockets., 2017-09-05T12:55:12+0000
+/project/authgoogle-middleware/, authgoogle-middleware, 0.2.4, Google authentication middleware, 2012-07-26T12:16:49+0000
+/project/wsgiprofile/, WSGIProfile, 0.1dev, WSGI Middleware for embedding a rich profiler in web pages., 2008-09-15T10:12:46+0000
+/project/objgraph-middleware/, objgraph_middleware, 0.2, Memory data logging middleware, 2013-05-31T02:35:50+0000
+/project/django-adminrestrict-cdsp/, django-adminrestrict-CDSP, 1.0.3, Django admin restriction, 2017-03-21T15:03:13+0000
+/project/wsgioauth-zodb/, wsgioauth.zodb, 0.2, A package that implements OAuth with ZODB storage., 2010-01-25T20:40:33+0000
+/project/tentacles/, tentacles, 0.1.1, Object-Relational Mapping (ORM), 2011-06-11T21:28:47+0000
+/project/hammock-rest/, hammock-rest, 0.0.1, A good place to REST, 2016-04-21T05:49:32+0000
+/project/wsgi-sslify/, wsgi-sslify, 1.0.1, WSGI middleware to force HTTPS., 2015-02-05T17:45:07+0000
+/project/falcon-marshmallow/, falcon-marshmallow, 0.3.0, Automatic Marshmallow (De)serialization in Falcon, 2019-09-07T16:58:22+0000
+/project/gp-fileupload/, gp.fileupload, 1.2, A WSGI middleware to get some stats on large files upload,and provide a progress bar for your users, 2012-09-03T13:38:21+0000
+/project/styrofoam/, styrofoam, 1.0.0a3, Smart and lightweight WSGI router for running multiple separate WSGI apps, 2019-05-24T03:12:44+0000
+/project/repoze-lemonade/, repoze.lemonade, 0.7.6, repoze.lemonade is a collection of utilties that make it possible
+to create Zope CMF-like applications without requiring any particular
+persistence mechanism. It makes use of the Zope component architecture., 2012-03-30T03:32:37+0000
+/project/gimlet/, gimlet, 0.5.2, Simple High-Performance WSGI Sessions, 2015-04-08T00:29:22+0000
+/project/wsgitools/, wsgitools, 0.3.1, a set of tools working with WSGI (see PEP 333), 2020-03-10T15:04:50+0000
+/project/pywsse/, pywsse, 0.1.5.2, WSSE Authentication for various server and client backends., 2018-05-01T16:17:53+0000
+/project/django-compression-middleware/, django-compression-middleware, 0.4.1, Django middleware to compress responses using several algorithms., 2020-03-07T16:42:50+0000
+/project/tool/, tool, 0.8.0, A compact modular conf/web/console framework., 2011-11-25T13:50:46+0000
+/project/pentacle/, pentacle, 0.4, An O-O P2P RPC protocol and application framework., 2012-01-18T18:51:58+0000
+/project/barrel/, barrel, 0.1.3, Flexible WSGI authentication and authorization tools., 2008-06-29T07:50:15+0000
+/project/scielo-django-extensions/, scielo-django-extensions, 0.4, Extensions commonly used in SciELO for bibliographic metadata management., 2012-10-31T18:11:14+0000
+/project/tincanframework/, TinCanFramework, 0.1.1, Simple code-behind WSGI framework for small web-applications, implemented on top of bottle., 2019-07-15T20:37:17+0000
+/project/repoze-tm2/, repoze.tm2, 2.1, Per-request transactions via WSGI middleware, 2016-06-03T17:58:45+0000
+/project/diazo/, diazo, 1.4.0, Diazo implements a Deliverance like language using a pure XSLT engine. With Diazo, you "compile" your theme and ruleset in one step, then use a superfast/simple transform on each request thereafter. Alternatively, compile your theme during development, check it into version control, and not touch Diazo during deployment., 2020-04-20T08:07:02+0000
+/project/bottle-dev/, bottle-dev, 0.13.2, Fast and simple WSGI-framework for small web-applications., 2020-10-30T18:54:33+0000
+/project/xsltemplates/, XSLTemplates, 0.6.1, An XSLT based template system for WSGI applications., 2008-04-04T03:12:59+0000
+/project/clastic/, clastic, 20.0.0, A functional Python web framework that streamlines explicit development practices while eliminating global state., 2020-03-08T02:31:13+0000
+/project/repoze-vhm3/, repoze.vhm3, 0.15, repoze virtual hosting middleware., 2018-02-14T13:48:35+0000
+/project/blidec-paste/, blidec-paste, 3.2.4, Tools for using a Web Server Gateway Interface stack, 2019-11-25T17:48:41+0000
+/project/flask-xsrf/, flask-xsrf, 1.0.2, flask extension for defending against cross-site request forgery attacks (xsrf/csrf), by protecting flask endpoints with uniquely generated tokens for each request., 2016-02-29T20:39:53+0000
+/project/schevowsgi/, SchevoWsgi, 1.0a1, Schevo tools for WSGI, 2008-01-20T16:02:17+0000
+/project/repoze-evolution/, repoze.evolution, 0.6, Version-number-controlled evolution for database changes, 2013-05-20T19:17:25+0000
+/project/js-fineuploader/, js.fineuploader, 5.14.0, Fanstatic packaging of Fine Uploader, 2017-02-23T09:54:37+0000
+/project/ulif-openoffice/, ulif.openoffice, 1.1.1, Run OpenOffice as web service., 2015-07-23T16:03:51+0000
+/project/wsgi-request-logger/, wsgi-request-logger, 0.4.6, Apache-like combined logging for WSGI Web Applications, 2016-10-08T09:13:48+0000
+/project/wsgi-lineprof/, wsgi-lineprof, 0.13.0, WSGI middleware for line-by-line profiling, 2021-02-01T13:49:32+0000
+/project/myreco/, myreco, 0.65.5, A Recommendations Framework, 2018-10-09T21:25:54+0000
+/project/wafflehaus-nova/, wafflehaus.nova, 0.1.1dev, A collection of middleware for openstack nova, 2014-07-08T18:47:52+0000
+/project/repoze-vhm/, repoze.vhm, 0.16, repoze virtual hosting middleware., 2020-07-28T18:44:20+0000
+/project/pymobiledetect/, pymobiledetect, 1.3.2, Detect mobile and tablet browsers, 2018-05-10T22:36:42+0000
+/project/falcon-epdb/, falcon-epdb, 1.1.2, Interactive debugging for your Falco apps, 2019-02-07T00:51:38+0000
+/project/pickey/, pickey, 0.1.2, A class and a WSGI application which can generate authentication key picture., 2008-07-12T10:46:31+0000
+/project/talisker/, talisker, 0.19.0, A common WSGI stack, 2020-09-07T14:44:10+0000
+/project/cleverharold/, CleverHarold, 0.1, Experimental Web Framework, 2006-08-02T12:13:43+0000
+/project/cps110bottle/, cps110bottle, 0.13.dev2, A minor modification to the Python bottle framework suitable for student use., 2017-12-22T16:35:03+0000
+/project/watson-validators/, watson-validators, 1.0.6, Validate and verify arbitrary values., 2017-06-08T01:15:25+0000
+/project/kobin/, kobin, 0.1.10, Type Hints friendly WSGI Framework for Python3., 2017-03-19T18:30:18+0000
+/project/wsgi-statsd/, wsgi-statsd, 0.3.1, WSGI middleware for statsd timing, 2015-01-22T14:46:34+0000
+/project/instana/, instana, 1.32.1, 🐍 Python Distributed Tracing & Metrics Sensor for Instana, 2021-04-16T09:52:54+0000
+/project/watson-cors/, watson-cors, 1.0.0, CORS support for watson-framework., 2017-08-16T01:27:54+0000
+/project/waitforit/, WaitForIt, 0.2, Provide an intermediate response when a WSGI application slow to respond, 2007-05-28T18:46:54+0000
+/project/httpexceptor/, httpexceptor, 1.4.0, WSGI middleware to handle HTTP responses using exceptions, 2016-02-22T14:41:11+0000
+/project/falcon-auth2/, falcon-auth2, 0.0.2, Falcon authentication middleware that supports multiple authentication types., 2020-07-26T12:02:34+0000
+/project/repoze-who-plugins-metadata-cache/, repoze.who.plugins.metadata_cache, 0.1, Metadata caching plugin for repoze.who, 2013-04-24T06:39:11+0000
+/project/rutter/, rutter, 0.3, Py3k-compatible fork of Paste's urlmap, 2020-08-10T20:17:00+0000
+/project/wheezy-captcha/, wheezy.captcha, 3.0.1, A lightweight captcha library, 2020-12-30T09:07:26+0000
+/project/amnesia/, amnesia, 0.2.0, Amnesia eases web development by reloading WSGI apps and imported modules before each request., 2010-05-17T19:58:05+0000
+/project/repoze-debug/, repoze.debug, 1.1, Forensic debugging WSGI middleware, 2016-06-03T17:02:37+0000
+/project/falcon-swagger/, falcon-swagger, 0.14.4, A Falcon Framework extension featuring Swagger, SQLAlchemy and Redis, 2016-12-20T21:49:55+0000
+/project/django-tracking/, django-tracking, 0.4.1, Basic visitor tracking and blacklisting for Django, 2012-11-19T16:14:42+0000
+/project/tet/, tet, 0.3.2, Unearthly intelligent batteries-included application framework built on Pyramid, 2017-08-30T21:50:51+0000
+/project/falcon-auth0/, falcon-auth0, 1.0.9, Auth0 Authorization Middleware for The Falcon Web Framework, 2018-05-09T14:15:56+0000
+/project/django-table-renderers/, django-table-renderers, 1.0.0, Simple django rest framework renderers for converting python representations to tables to .xlsx or a group of .tgz'd .csv files., 2020-03-06T16:35:39+0000
+/project/repoze-browserid/, repoze.browserid, 0.3, repoze.browserid WSGI middleware tags browsers with an identifier cookie for use in sessioning and otherbrowser-identity-sensitive systems., 2010-04-26T18:23:06+0000
+/project/ratchet-agent/, ratchet-agent, 0.2.4, Ratchet.io server-side agent, 2012-12-12T02:33:08+0000
+/project/turnstile/, turnstile, 0.6.1, Distributed rate-limiting middleware, 2012-10-02T21:24:12+0000
+/project/django-livejs2/, django-livejs2, 1.0, Integrate live.js into django site, 2012-10-13T01:22:22+0000
+/project/support/, support, 0.0.1, An evented server framework designed for building scalable and introspectable services. Built at PayPal, based on gevent., 2015-03-17T07:56:55+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/js-ngupload/, js.ngupload, 0.3.0, Fanstatic packaging of ngUpload, 2013-03-11T09:26:34+0000
+/project/js-jquery-maskedinput/, js.jquery_maskedinput, 1.4.1, Fanstatic packaging of jquery.maskedinput, 2017-02-23T11:56:40+0000
+/project/django-windowsauth/, django-windowsauth, 1.4.0, Easy integration and deployment of Django projects into Windows Environments., 2021-02-20T04:12:29+0000
+/project/pyas2/, pyAS2, 0.4.6, A pythonic AS2 application for file tranfers., 2019-04-17T11:30:21+0000
+/project/django-throttling/, django-throttling, 0.0.1, Basic throttling app for Django, 2013-08-12T18:58:33+0000
+/project/watson-cache/, watson-cache, 1.1.0, Caching strategies for the web., 2014-12-26T04:10:07+0000

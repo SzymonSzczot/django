@@ -1,0 +1,42 @@
+/project/mailman-hyperkitty/, mailman-hyperkitty, 1.1.0, Mailman archiver plugin for HyperKitty, 2017-05-26T10:00:26+0000
+/project/django-pgpmailman/, django-pgpmailman, 0.1.0, A web interface for the GNU Mailman PGP plugin., 2017-08-23T21:48:48+0000
+/project/madmimi/, MadMimi, 1.3, Python client for Mad Mimi, 2011-06-24T16:31:31+0000
+/project/drip-py/, drip-py, 0.1, A Python wrapper for getdrip.com REST API., 2017-01-14T09:48:53+0000
+/project/askbot-tuanpa/, askbot-tuanpa, 0.7.48, Question and Answer forum, like StackOverflow, written in python and Django, 2014-01-13T07:33:06+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/django-mailman3/, django-mailman3, 1.3.5, Django library to help interaction with Mailman, 2021-01-15T19:15:18+0000
+/project/iccommunity-mailman/, iccommunity.mailman, 1.0-dev-r371, A product with Mailman interface for Plone, 2008-10-06T17:46:06+0000
+/project/django-sympa/, django-sympa, 0.1.1, Add a view to interact with sympa, 2015-07-22T10:15:09+0000
+/project/askbot-selimgul/, askbot-selimgul, 0.11.0, Question and Answer forum, like StackOverflow, written in python and Django, 2021-03-26T12:07:36+0000
+/project/kittystore/, KittyStore, 0.9.3, A storage engine for GNU Mailman v3 archives, 2014-06-12T09:16:20+0000
+/project/postorius/, postorius, 1.3.4, A web user interface for GNU Mailman, 2021-02-03T01:48:06+0000
+/project/hyperkitty/, HyperKitty, 1.3.4, A web interface to access GNU Mailman v3 archives, 2021-02-03T01:48:33+0000
+/project/mailman-pgp/, mailman-pgp, 0.3.0, A PGP plugin for the GNU Mailman mailing list manager, 2017-08-23T21:31:19+0000
+/project/mailman-public-inbox/, mailman-public-inbox, 0.1.0, Mailman archiver plugin for Public Inbox, 2021-01-03T12:51:57+0000
+/project/bcc2to/, bcc2to, 0.4.0rc2, Posfix plugin for individual list mail delivering, 2016-07-13T08:11:58+0000
+/project/askbot/, askbot, 0.11.1, Question and Answer forum, like StackOverflow, written in python and Django, 2020-10-25T23:15:38+0000
+/project/createsend/, createsend, 6.1.2, A library which implements the complete functionality of the Campaign Monitor API., 2021-02-10T03:42:44+0000
+/project/sch-askbot/, sch-askbot, 1.0.1, Question and Answer forum, like StackOverflow, written in python and Django, 2018-12-12T09:13:31+0000
+/project/askbot-tuan/, askbot-tuan, 1.5, Question and Answer forum, like StackOverflow, written in python and Django, 2014-01-22T10:21:34+0000
+/project/mailman/, mailman, 3.3.4, Mailman -- the GNU mailing list manager, 2021-03-22T03:54:53+0000
+/project/mailman-hyperkitty/, mailman-hyperkitty, 1.1.0, Mailman archiver plugin for HyperKitty, 2017-05-26T10:00:26+0000
+/project/django-pgpmailman/, django-pgpmailman, 0.1.0, A web interface for the GNU Mailman PGP plugin., 2017-08-23T21:48:48+0000
+/project/madmimi/, MadMimi, 1.3, Python client for Mad Mimi, 2011-06-24T16:31:31+0000
+/project/drip-py/, drip-py, 0.1, A Python wrapper for getdrip.com REST API., 2017-01-14T09:48:53+0000
+/project/iccommunity-mailman/, iccommunity.mailman, 1.0-dev-r371, A product with Mailman interface for Plone, 2008-10-06T17:46:06+0000
+/project/askbot-tuanpa/, askbot-tuanpa, 0.7.48, Question and Answer forum, like StackOverflow, written in python and Django, 2014-01-13T07:33:06+0000
+/project/django-mailman3/, django-mailman3, 1.3.5, Django library to help interaction with Mailman, 2021-01-15T19:15:18+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/django-sympa/, django-sympa, 0.1.1, Add a view to interact with sympa, 2015-07-22T10:15:09+0000
+/project/askbot-selimgul/, askbot-selimgul, 0.11.0, Question and Answer forum, like StackOverflow, written in python and Django, 2021-03-26T12:07:36+0000
+/project/kittystore/, KittyStore, 0.9.3, A storage engine for GNU Mailman v3 archives, 2014-06-12T09:16:20+0000
+/project/postorius/, postorius, 1.3.4, A web user interface for GNU Mailman, 2021-02-03T01:48:06+0000
+/project/hyperkitty/, HyperKitty, 1.3.4, A web interface to access GNU Mailman v3 archives, 2021-02-03T01:48:33+0000
+/project/mailman-pgp/, mailman-pgp, 0.3.0, A PGP plugin for the GNU Mailman mailing list manager, 2017-08-23T21:31:19+0000
+/project/mailman-public-inbox/, mailman-public-inbox, 0.1.0, Mailman archiver plugin for Public Inbox, 2021-01-03T12:51:57+0000
+/project/bcc2to/, bcc2to, 0.4.0rc2, Posfix plugin for individual list mail delivering, 2016-07-13T08:11:58+0000
+/project/askbot/, askbot, 0.11.1, Question and Answer forum, like StackOverflow, written in python and Django, 2020-10-25T23:15:38+0000
+/project/createsend/, createsend, 6.1.2, A library which implements the complete functionality of the Campaign Monitor API., 2021-02-10T03:42:44+0000
+/project/sch-askbot/, sch-askbot, 1.0.1, Question and Answer forum, like StackOverflow, written in python and Django, 2018-12-12T09:13:31+0000
+/project/askbot-tuan/, askbot-tuan, 1.5, Question and Answer forum, like StackOverflow, written in python and Django, 2014-01-22T10:21:34+0000
+/project/kittystore/, KittyStore, 0.9.3, A storage engine for GNU Mailman v3 archives, 2014-06-12T09:16:20+0000

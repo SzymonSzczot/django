@@ -1,0 +1,209 @@
+/project/sanpera/, sanpera, 0.1.1, Image manipulation library, powered by ImageMagick, 2012-05-14T00:14:55+0000
+/project/omnic/, omnic, 0.1.16, Mostly stateless microservice framework for generating on-the-fly thumbs and previews of a wide variety of file types., 2017-10-10T21:24:51+0000
+/project/gdal2mbtiles/, gdal2mbtiles, 2.1.2, Converts a GDAL-readable dataset into an MBTiles file.This is used to generate web maps., 2020-02-05T16:44:38+0000
+/project/picopt/, picopt, 2.2.1, A multi format lossless image optimizer that uses external tools, 2020-10-30T03:28:05+0000
+/project/folstamp/, folstamp, 1.2, Generate custom macOS folder icons., 2019-10-27T12:26:52+0000
+/project/exifrenamer/, exifrenamer, 0.3.1, Organize photos based on timestamp metadata., 2013-12-28T23:10:51+0000
+/project/gfdiffbrowsers/, gfdiffbrowsers, 0.1.7, Diff two sets of fonts in different browsers, 2020-03-18T17:42:34+0000
+/project/rfc2397/, rfc2397, 1.0b2, A Python RFC2397 ("data url") implementation, 2012-01-03T12:54:46+0000
+/project/simlin/, simlin, 0.0.2.1, Simple Image Manipulator for Linux, 2019-04-17T11:05:25+0000
+/project/simplecv/, SimpleCV, 1.3, Make Computers See with SimpleCV, the Python Framework for Machine Vision, 2012-08-10T20:42:41+0000
+/project/cu2qu/, cu2qu, 1.6.7, Cubic-to-quadratic bezier curve conversion, 2020-02-07T13:26:27+0000
+/project/undrp/, undrp, 0.2.0, Convert DRP-formatted Barnes & Noble e-books to a portable format, 2014-09-27T22:41:56+0000
+/project/ufonormalizer/, ufonormalizer, 0.5.3, Script to normalize the XML and other data inside of a UFO., 2020-12-28T16:19:54+0000
+/project/cloudinary/, cloudinary, 1.25.0, Python and Django SDK for Cloudinary, 2021-03-26T14:20:21+0000
+/project/batchphoto/, batchphoto, 0.0.2.dev0, Python library for batch processing of photos, 2017-04-27T11:10:35+0000
+/project/gaaqoo/, gaaqoo, 0.9.3, Convert images into ones suitable for digital photo frames., 2016-09-22T06:10:00+0000
+/project/fontmake/, fontmake, 2.4.0, Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType)., 2021-03-24T12:26:52+0000
+/project/sixfoh/, sixfoh, 0.1.3, Generates base sixfoh-encoded images for yer websites., 2012-06-28T19:55:36+0000
+/project/willow/, Willow, 1.4, A Python image library that sits on top of Pillow, Wand and OpenCV, 2020-05-26T09:53:57+0000
+/project/pagebot/, pagebot, 1.0.3, Scripted page layout framework for Python., 2021-01-14T19:02:55+0000
+/project/tikzplotlib/, tikzplotlib, 0.9.8, Convert matplotlib figures into TikZ/PGFPlots, 2021-02-11T16:51:50+0000
+/project/web-mage/, web-mage, 0.2.0, Small package that optimizes images for the web., 2019-08-01T13:59:31+0000
+/project/sixfour/, sixfour, 1.3.3, base64 Image Encoder and Embedder for HTML, CSS, Markdown, LESS, SASS, 2013-11-21T13:34:00+0000
+/project/pyrecoil/, pyrecoil, 0.3.2, Python bindings for RECOIL, the Retro Computer Image Library, 2020-10-30T20:03:52+0000
+/project/keepluggable/, keepluggable, 0.9.0, Manages storage of images and other files, with metadata. Also offers an HTTP API done on Pyramid., 2021-02-01T15:10:30+0000
+/project/favicons/, favicons, 0.0.9, Favicon generator for Python 3 with strongly typed sync & async APIs, CLI, & HTML generation., 2020-10-05T06:44:28+0000
+/project/mapboxgl-notebook/, mapboxgl-notebook, 0.7, MapboxGL ipython renderer, 2019-04-10T16:46:18+0000
+/project/thumbnailer/, thumbnailer, 1.1.0, Module to turn images into thumbnails., 2017-08-10T05:09:00+0000
+/project/hocr-spec/, hocr-spec, 0.2.0, Implementation of the hOCR specs, 2020-01-03T11:24:00+0000
+/project/picamraw/, picamraw, 1.2.64, Library for extracting raw bayer data from a Raspberry Pi JPEG+RAW file, 2018-12-20T00:33:28+0000
+/project/weasyprint/, weasyprint, 52.5, The Awesome Document Factory, 2021-04-17T15:22:49+0000
+/project/pillow-avif-plugin/, pillow-avif-plugin, 1.1.0, A pillow plugin that adds avif support via libavif, 2021-04-11T23:20:31+0000
+/project/drawio2pdf/, drawio2pdf, 0.0.0, Scrpit to convert your beautiful draw.io drawings into pdfs., 2021-03-06T16:40:55+0000
+/project/visio2img/, visio2img, 1.3.0, MS-Visio file (.vsd, .vsdx) to images converter, 2016-05-17T13:56:22+0000
+/project/roofer/, roofer, 0.0.2, Recover an image from the tiles (deep zoom format) generated from this image., 2014-06-18T20:52:35+0000
+/project/pyimgbatch/, pyimgbatch, 0.2.7, PyImgBatch is a batch image processor for python including a command line interface., 2019-11-10T18:21:42+0000
+/project/crx-unpack/, crx-unpack, 0.1.4, Unpack .crx files the way Chrome does, 2017-06-19T19:19:25+0000
+/project/hocr-tools/, hocr-tools, 1.1.1, Advanced tools for hOCR integration, 2017-01-23T14:28:41+0000
+/project/mkpreview/, mkpreview, 0.7.0, mkpreview creates previews from movie files Support for all FFMPEG video types., 2020-02-21T13:20:20+0000
+/project/ocio-lut-prescription/, ocio-lut-prescription, 1.1.0, GUI wrapper of ociobakelut command., 2021-01-14T14:47:47+0000
+/project/glitchart/, GlitchArt, 1.0.0, Media Glitch Library for Python, 2019-03-05T16:17:04+0000
+/project/pymedia2-pyrana/, pymedia2-pyrana, 0.6.0, Package for simple manipulation of multimedia files, 2014-11-02T16:16:20+0000
+/project/skia-pathops/, skia-pathops, 0.6.0.post2, Python access to operations on paths using the Skia library, 2021-02-09T16:12:53+0000
+/project/photosorter/, photosorter, 1.0.5, Photo organizing app, 2015-08-03T15:45:13+0000
+/project/thunagen/, thunagen, 0.3.8, Google Cloud function to generate thumbnail for images in Google Storage., 2020-03-17T10:54:04+0000
+/project/cairosvg/, CairoSVG, 2.5.2, A Simple SVG Converter based on Cairo, 2021-03-06T15:23:00+0000
+/project/psdtojpg/, psdtojpg, 0.1.0, Convert one or more PSD files to JPG format. Thumbnail and optimize them, or don't., 2014-07-21T02:31:23+0000
+/project/img2txt/, img2txt, 2008.11.20, superseded by asciiporn, http://pypi.python.org/pypi/asciiporn, 2008-11-22T01:30:19+0000
+/project/nikwus/, Nikwus, 0.5.4, Automatically sprite images in CSS files, 2014-08-22T15:03:23+0000
+/project/color-balance/, color_balance, 0.1.112, Color balancing, 2016-05-20T20:25:47+0000
+/project/pypcd/, pypcd, 0.1.1, Read and write PCL .pcd files in python., 2018-03-16T03:52:07+0000
+/project/imgserve/, imgserve, 0.2, Imgserve is a daemon program to provide common image processing service, 2009-08-22T14:08:47+0000
+/project/network2tikz/, network2tikz, 0.1.8, A converter that takes a network (cnet, igraph, networkx, pathpy, ...) and creates a tikz-network for smooth integration into LaTeX., 2018-11-07T07:28:52+0000
+/project/graphviz2drawio/, graphviz2drawio, 0.2.0, Convert graphviz (dot) files into draw.io (mxGraph) format, 2020-01-22T01:05:52+0000
+/project/mospy/, mospy, 1.0.0, Application to create Mosaic, 2017-01-02T12:24:56+0000
+/project/python-hpgl/, python-hpgl, 0.1.0, HPGL parsing library, 2015-02-24T10:56:15+0000
+/project/pagebotosx/, pagebotosx, 1.0.3, OS X only contexts for PageBot., 2021-01-14T20:24:19+0000
+/project/qr2scad/, qr2scad, 0.7.2, QR code to OpenSCAD converter, 2013-07-20T20:57:47+0000
+/project/python-djvulibre/, python-djvulibre, 0.8.6, Python support for the DjVu image format, 2021-03-04T20:30:02+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/tiffany/, tiffany, 0.6.7, Tiffany -- read/write/arrange any multi-page Tiff, any compression, 2015-01-28T20:19:12+0000
+/project/canvasvg/, canvasvg, 1.0.5, Save Tkinter Canvas in SVG file, 2017-02-16T10:01:38+0000
+/project/img2scad/, img2scad, 0.4, Image to OpenSCAD converter, 2014-10-18T18:38:51+0000
+/project/colorharmonies/, colorharmonies, 1.0.5, Library to generate all your color harmonies with simplicity!, 2017-07-31T13:21:54+0000
+/project/txttobitmap/, txttobitmap, 1.0.1, Simple script that converts given file to a bitmap, 2016-04-27T19:35:31+0000
+/project/rio-ds-mask/, rio-ds-mask, 1.2, Extract an image's dataset-level mask and write to a new file., 2018-02-11T04:06:24+0000
+/project/c64img/, c64img, 3.1, Image processing and converter for C64 graphic formats, 2018-06-17T13:02:31+0000
+/project/webp/, webp, 0.1.0, Python bindings for WebP, 2020-09-07T23:29:33+0000
+/project/coord-convert/, coord-convert, 0.2.1, china mars coordinate convertor., 2019-09-16T15:59:44+0000
+/project/pillow-scripts/, pillow-scripts, 5.0.0, Python Imaging Library (Fork) Scripts, 2018-01-01T21:24:39+0000
+/project/django-dynamic-sprites/, django-dynamic-sprites, 0.1.3, A way to generate sprites based on objects created by the application user., 2012-05-04T02:43:28+0000
+/project/rawhdr/, rawhdr, 0.5.3, A simple HDR image merger, 2020-02-16T19:57:07+0000
+/project/django-stdimage/, django-stdimage, 5.3.0, Django Standarized Image Field, 2021-03-26T09:48:43+0000
+/project/psd2svg/, psd2svg, 0.2.3, Convert PSD file to SVG file, 2020-04-23T02:53:52+0000
+/project/rasterio/, rasterio, 1.2.2, Fast and direct raster I/O for use with Numpy and SciPy, 2021-04-07T12:41:17+0000
+/project/woff2otf/, woff2otf, 1.0.1, Python library to convert WOFF fonts to OTF format, 2017-04-11T21:15:53+0000
+/project/eyefi/, eyefi, 0.2, EyeFi Server Framework, 2012-03-03T22:35:06+0000
+/project/gifted/, gifted, 0.0.3, Gif creation and manipulation tool, 2015-11-15T03:22:22+0000
+/project/kraconvert/, kraconvert, 0.2, Konverts Krita .kra files into PNG and JPEG., 2015-10-04T12:09:26+0000
+/project/psdtoolsx/, psdtoolsx, 19.5.0, Python package for working with Adobe Photoshop PSD files, 2020-10-29T18:40:20+0000
+/project/pymaging-psd/, pymaging-psd, 0.7, PSD support for Pymaging, 2012-11-07T19:36:09+0000
+/project/pillow-mbm/, pillow-mbm, 0.1.2, A pillow plugin that adds support for KSP's MBM textures, 2021-04-13T21:28:22+0000
+/project/pstake/, pstake, 0.3.4, PSTricks converter, 2015-05-05T10:36:27+0000
+/project/html2image/, html2image, 1.1.1, Package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files., 2020-12-10T14:17:14+0000
+/project/fits-viewer/, fits-viewer, 0.5.dev2, A lightweight FITS file viewer, 2017-09-21T14:48:18+0000
+/project/halftone/, halftone, 0.0.1, Image halftoning, 2020-11-22T16:05:12+0000
+/project/adept/, Adept, 0.0.2, Simple binding for Adept, 2014-03-26T12:42:54+0000
+/project/tesserpy/, tesserpy, 1.1.2, Python interface to the Tesseract library, 2014-12-11T23:33:06+0000
+/project/monoshape/, monoshape, 1.2, Extracts monochromatic shapes., 2019-10-27T12:26:59+0000
+/project/glyphslib/, glyphsLib, 5.3.2, A bridge from Glyphs source files (.glyphs) to UFOs, 2021-01-28T11:04:09+0000
+/project/paperwork/, paperwork, 2.0.2, Using scanner and OCR to grep dead trees the easy way, 2021-01-01T15:25:12+0000
+/project/flat/, Flat, 0.3.2, Generative infrastructure for Python, 2020-08-30T22:07:20+0000
+/project/otf2ttf/, otf2ttf, 0.2, command-line tool for converting OTF to TTF, 2019-09-10T06:56:00+0000
+/project/pyvips/, pyvips, 2.1.14, binding for the libvips image processing library, API mode, 2020-12-18T11:44:57+0000
+/project/optimize-images/, optimize-images, 1.4.0, A command-line interface (CLI) utility written in pure Python to help you reduce the file size of images., 2020-11-01T23:00:54+0000
+/project/pil-lite/, Pil-Lite, 0.1.1, Python Imaging Library Lite, 2020-02-20T11:31:42+0000
+/project/open3d/, open3d, 0.12.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-25T00:12:28+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/collective-croppingimagefield/, collective.croppingimagefield, 0.1beta, Provides an image field that can crop, zoom or scale an image instead of just scaling it, 2009-07-21T01:06:40+0000
+/project/pillow/, Pillow, 8.2.0, Python Imaging Library (Fork), 2021-04-01T20:53:21+0000
+/project/sizeify/, sizeify, 1.1.2, official client for sizeify, the image resizing and hosting service, 2015-10-20T20:17:13+0000
+/project/float-raster/, float-raster, 0.6, High-precision anti-aliasing polygon rasterizer, 2020-11-03T09:23:12+0000
+/project/gperf/, gperf, 0.2, Graphing from sysstat sar data into time-based graph, 2012-05-07T09:35:14+0000
+/project/imfun/, imfun, 0.1.1, Convert an image to cartoon, 2021-01-05T15:24:53+0000
+/project/psautohint/, psautohint, 2.3.0, Python wrapper for Adobe's PostScript autohinter, 2021-02-23T17:35:15+0000
+/project/ftcbz/, ftcbz, 2.3.2, A script to archive multiple comic book dir to .cbz format, 2016-01-01T12:06:11+0000
+/project/open3d-python/, open3d-python, 0.7.0.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2019-06-06T21:45:31+0000
+/project/iiif-prezi/, iiif-prezi, 0.3.0, IIIF Presentation API implementation, 2019-10-18T00:32:40+0000
+/project/madam/, MADAM, 0.21.2, Digital asset management library, 2021-04-11T13:59:19+0000
+/project/fontpens/, fontPens, 0.2.4, A collection of classes implementing the pen protocol for manipulating glyphs., 2018-12-15T19:08:55+0000
+/project/asciisciit/, asciisciit, 0.3.0, asciisciit is a Python toolbox for displaying and converting images, movies, and camera feeds into ascii., 2018-10-25T06:42:50+0000
+/project/imagehelper/, imagehelper, 0.5.3, Simple utilites for image resizing and uploading and stuff like that., 2021-04-07T19:38:53+0000
+/project/renderthreads/, renderthreads, 0.3.5, Package that enables easy command-line multithreaded rendering for Nuke., 2015-07-25T15:02:10+0000
+/project/pyocr/, pyocr, 0.8, A Python wrapper for OCR engines (Tesseract, Cuneiform, etc), 2021-01-01T16:01:07+0000
+/project/cogeotiff/, cogeotiff, 0.1.4, Cloud Optimized GeoTiff utility tools., 2019-03-27T14:11:59+0000
+/project/pyhide/, pyhide, 1.0.0, Use steganography to hide data in images., 2020-02-09T14:55:15+0000
+/project/bag/, bag, 3.1.0, A library for several purposes, including javascript i18n and stuff for the Pyramid web framework., 2021-01-26T19:16:15+0000
+/project/svg2rlg/, svg2rlg, 0.3, Convert SVG to Reportlab drawing, 2010-11-03T11:19:04+0000
+/project/arbytmap/, arbytmap, 1.1.2, A texture manipulation module for python 3., 2020-10-31T22:25:52+0000
+/project/texoid/, texoid, 0.2, LaTeX math rendering server., 2018-12-19T04:47:29+0000
+/project/fontcrunch/, FontCrunch, 0.1.0rc1, fontcrunch, 2021-03-04T18:28:13+0000
+/project/py-avataaars/, py-avataaars, 1.1.2, Python Avatar generator library, 2021-02-16T13:38:14+0000
+/project/qasm2image/, qasm2image, 0.8.0, An OpenQASM visualisation tool, 2018-10-09T14:25:53+0000
+/project/gdaltokmz/, gdaltokmz, 1.0, Allows conversion from GDAL-supported raster geographic formats to the KMZ format used by the free Google Earth client., 2007-03-26T21:05:10+0000
+/project/excel2img/, excel2img, 1.4.0, Save ranges from Excel documents as images, 2018-12-21T19:00:07+0000
+/project/dxf2svg/, dxf2svg, 0.1.1, Dxf to svg converter, 2018-07-24T21:09:05+0000
+/project/pygiflossy/, pygiflossy, 0.2.2, Gifsicle with superpowers like LZW compression, 2016-11-28T19:55:07+0000
+/project/pypillowfight/, pypillowfight, 0.3.0, Library containing various image processing algorithms, 2019-10-09T10:35:08+0000
+/project/ufo2otf/, ufo2otf, 0.2.2, Take UFO font sources and generate OTF’s and webfonts, 2013-11-01T12:33:51+0000
+/project/pyresizeimage/, PyResizeImage, 0.9.6, Resize images, and pad them to give an exact size image, 2013-08-27T11:12:31+0000
+/project/cloudviewer/, cloudViewer, 0.3.7, ['cloudViewer is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-16T05:46:07+0000
+/project/pypotrace/, pypotrace, 0.3, potrace Python bindings, 2021-02-05T17:05:41+0000
+/project/image-tools/, image-tools, 1.0.0, Various tools for manipulating images, 2019-06-29T15:51:24+0000
+/project/tesserocr/, tesserocr, 2.5.1, A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython, 2020-03-17T17:45:44+0000
+/project/iiif/, iiif, 1.0.9, IIIF Image API reference implementation, 2020-04-16T14:12:26+0000
+/project/pdfserenitynow/, pdfserenitynow, 0.6.7, Create TIFs and JPGs from crappy PDFs, 2013-06-13T23:22:28+0000
+/project/paperwork-shell/, paperwork-shell, 2.0.2, Paperwork's shell interface, 2021-01-01T15:24:45+0000
+/project/kdu-jp2/, kdu-jp2, 1.2, Batch conversion to JP2 using kdu_compress, 2020-07-31T11:05:43+0000
+/project/django-deepzoom/, django-deepzoom, 3.0.3, A simple Django app to create deep zoom tiled images., 2015-05-24T04:15:14+0000
+/project/tifinity/, tifinity, 0.3.0, Framework and helpful utilities for working with TIFFs, 2020-02-04T13:33:56+0000
+/project/omnigraffle-stencil/, omnigraffle-stencil, 1.1.0, Tool to create OmniGraffle stencils from SVG icons, 2020-12-30T22:52:51+0000
+/project/cykooz-heif/, cykooz.heif, 0.10.4, A decoder of HEIF format of images, 2021-02-03T18:52:13+0000
+/project/gif2xls/, gif2xls, 0.2.2, Convert GIF images into XLS files., 2016-08-19T05:37:42+0000
+/project/exiflow/, exiflow, 0.4.5.17, A set of tools including a little GUI to provide a complete digital photo workflow for Unixes, using EXIF headers as the central information repository., 2015-05-05T13:23:36+0000
+/project/psp-scan/, psp-scan, 0.9, Python package for working with Paintshop Pro files, 2016-09-06T13:12:53+0000
+/project/pyconizr/, pyconizr, 0.1b2, Generate sprites from SVG icons, 2015-01-28T04:24:25+0000
+/project/bl2-skingen/, BL2-skingen, 1.3.0, Utility to generate png files from Borderlands 2 in-game skin files., 2020-02-06T20:35:45+0000
+/project/tesseract-ocr/, tesseract-ocr, 0.0.1, A Python wrapper for Tesseract, 2015-10-06T12:15:42+0000
+/project/matplotlib2tikz/, matplotlib2tikz, 0.7.6, Convert matplotlib figures into TikZ/PGFPlots, 2019-10-17T19:10:04+0000
+/project/dxf/, dxf, 1.1.1, Python library to generate DXF drawing files (CAD), 2011-04-10T14:24:26+0000
+/project/convcolors/, convcolors, 1.0.0, Convert colors between different color spaces., 2020-09-18T09:05:51+0000
+/project/psd-tools3/, psd-tools3, 1.8.2, Fork of psd-tools for working with Adobe Photoshop PSD files, 2018-10-01T15:11:06+0000
+/project/imagemonk/, imagemonk, 0.0.0, HTTP server for uploading images and generating thumbnails, 2020-12-22T03:05:32+0000
+/project/omelette/, Omelette, 1.1.6, Python Imaging Library, 2010-10-18T20:14:21+0000
+/project/psd-tools/, psd-tools, 1.9.17, Python package for working with Adobe Photoshop PSD files, 2021-01-20T23:17:52+0000
+/project/svglib/, svglib, 1.1.0, A pure-Python library for reading and converting SVG, 2021-04-10T09:22:06+0000
+/project/dehinter/, dehinter, 3.0.0, A tool for the removal of TrueType instruction sets (hints) in fonts, 2021-04-22T14:25:33+0000
+/project/mritopng/, mritopng, 2.2, Easily convert MRI filed based on the DICOM format to a PNG image, 2018-09-13T18:50:07+0000
+/project/tngems-aorta/, tngems-aorta, 0.1.0, Converts database notifications to domain events., 2014-10-03T19:33:29+0000
+/project/goulib/, Goulib, 2.0.9, library of useful Python code for scientific + technical applications, 2020-09-01T11:52:01+0000
+/project/pygifme/, pygifme, 0.1, pygifme is a simple command line tool to generate animated GIFs., 2013-04-01T00:31:07+0000
+/project/geoai-rasterio/, geoai-rasterio, 1.0.27, Fast and direct raster I/O for use with Numpy and SciPy, 2019-09-10T06:37:49+0000
+/project/trivector/, trivector, 1.1.1, Convert an image into a SVG vector image composed of triangular sectors., 2019-02-28T17:45:57+0000
+/project/ufoprocessor/, ufoProcessor, 1.9.0, Read, write and generate UFOs with designspace data., 2020-03-24T16:33:43+0000
+/project/prwm/, prwm, 0.0.1, Packed Raw WebGL Model (PRWM) exporter in python, 2018-09-28T15:45:31+0000
+/project/libtng/, libtng, 0.6.3, Library for the TNG Enterprise Management System, 2015-02-05T23:25:58+0000
+/project/paperwork-backend/, paperwork-backend, 2.0.2, Paperwork's backend, 2021-01-01T15:24:35+0000
+/project/python-bioformats/, python-bioformats, 4.0.4, Read and write life sciences file formats, 2021-02-16T15:46:56+0000
+/project/compreffor/, compreffor, 0.5.1, A CFF subroutinizer for fontTools., 2020-12-27T18:59:16+0000
+/project/pyrasterframes/, pyrasterframes, 0.9.1, Access and process geospatial raster data in PySpark DataFrames, 2021-03-31T20:29:59+0000
+/project/swatch/, swatch, 0.4.0, a parser for adobe swatch exchange files, 2014-04-16T17:14:16+0000
+/project/fontparts/, fontParts, 0.9.10, An API for interacting with the parts of fonts during the font development process., 2021-03-09T22:24:43+0000
+/project/greyhound/, greyhound, 0.0.2, Convenience API for interacting with Greyhound point cloud web services, 2016-06-20T16:56:02+0000
+/project/remarkable-highlights/, remarkable-highlights, 0.1.3, Extract highlights from PDFs exported from the reMarkable web interface., 2020-04-23T04:29:31+0000
+/project/mapboxgl/, mapboxgl, 0.10.2, MapboxGL plugin for Jupyter Notebooks, 2019-06-02T15:18:57+0000
+/project/svglatex/, svglatex, 0.0.2, Include Inkscape graphics in LaTeX., 2020-12-31T21:07:22+0000
+/project/mutatormath/, MutatorMath, 3.0.1, Python for piecewise linear interpolation in multiple dimensions with multiple, arbitrarily placed, masters., 2020-04-24T09:23:31+0000
+/project/comicslicer/, comicslicer, 0.0.1, slices a comic, 2014-04-25T12:45:19+0000
+/project/fonttools/, fonttools, 4.22.0, Tools to manipulate font files, 2021-04-01T10:20:39+0000
+/project/pdfrw/, pdfrw, 0.4, PDF file reader/writer library, 2017-09-18T10:08:02+0000
+/project/pyconizr/, pyconizr, 0.1b2, Generate sprites from SVG icons, 2015-01-28T04:24:25+0000
+/project/bl2-skingen/, BL2-skingen, 1.3.0, Utility to generate png files from Borderlands 2 in-game skin files., 2020-02-06T20:35:45+0000
+/project/tesseract-ocr/, tesseract-ocr, 0.0.1, A Python wrapper for Tesseract, 2015-10-06T12:15:42+0000
+/project/dxf/, dxf, 1.1.1, Python library to generate DXF drawing files (CAD), 2011-04-10T14:24:26+0000
+/project/convcolors/, convcolors, 1.0.0, Convert colors between different color spaces., 2020-09-18T09:05:51+0000
+/project/psd-tools3/, psd-tools3, 1.8.2, Fork of psd-tools for working with Adobe Photoshop PSD files, 2018-10-01T15:11:06+0000
+/project/imagemonk/, imagemonk, 0.0.0, HTTP server for uploading images and generating thumbnails, 2020-12-22T03:05:32+0000
+/project/omelette/, Omelette, 1.1.6, Python Imaging Library, 2010-10-18T20:14:21+0000
+/project/psd-tools/, psd-tools, 1.9.17, Python package for working with Adobe Photoshop PSD files, 2021-01-20T23:17:52+0000
+/project/svglib/, svglib, 1.1.0, A pure-Python library for reading and converting SVG, 2021-04-10T09:22:06+0000
+/project/dehinter/, dehinter, 3.0.0, A tool for the removal of TrueType instruction sets (hints) in fonts, 2021-04-22T14:25:33+0000
+/project/mritopng/, mritopng, 2.2, Easily convert MRI filed based on the DICOM format to a PNG image, 2018-09-13T18:50:07+0000
+/project/qasm2image/, qasm2image, 0.8.0, An OpenQASM visualisation tool, 2018-10-09T14:25:53+0000
+/project/gdaltokmz/, gdaltokmz, 1.0, Allows conversion from GDAL-supported raster geographic formats to the KMZ format used by the free Google Earth client., 2007-03-26T21:05:10+0000
+/project/excel2img/, excel2img, 1.4.0, Save ranges from Excel documents as images, 2018-12-21T19:00:07+0000
+/project/pygiflossy/, pygiflossy, 0.2.2, Gifsicle with superpowers like LZW compression, 2016-11-28T19:55:07+0000
+/project/ufo2otf/, ufo2otf, 0.2.2, Take UFO font sources and generate OTF’s and webfonts, 2013-11-01T12:33:51+0000
+/project/pyresizeimage/, PyResizeImage, 0.9.6, Resize images, and pad them to give an exact size image, 2013-08-27T11:12:31+0000
+/project/cloudviewer/, cloudViewer, 0.3.7, ['cloudViewer is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-16T05:46:07+0000
+/project/pypotrace/, pypotrace, 0.3, potrace Python bindings, 2021-02-05T17:05:41+0000
+/project/radiometric-normalization/, radiometric_normalization, 0.1.175, Radiometric Normalization, 2018-03-23T17:26:10+0000
+/project/gif-for-cli/, gif-for-cli, 1.1.2, Render an animated GIF to your command line terminal., 2019-07-26T21:35:28+0000
+/project/imgii/, imgii, 0.3.1, Very simple conversion of images to text., 2016-05-17T15:34:43+0000
+/project/magritte/, magritte, 0.2.0, Optimize image files and comic archives with external tools, 2016-12-22T21:30:02+0000
+/project/palpageproducer/, palpageproducer, 1.2.1, Palette page producer, 2020-07-18T09:19:43+0000
+/project/pycapella/, pycapella, 0.1.6, Python SDK for capella.pics, 2018-08-12T11:42:33+0000
+/project/ocrd-fork-tesserocr/, ocrd-fork-tesserocr, 3.0.0rc2, A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython, 2019-07-18T08:57:09+0000
+/project/pytestshot/, pytestshot, 0.2, Automated tests for Python/GTK using screenshots and image processing, 2017-06-06T12:47:58+0000
+/project/optimize-images-x/, optimize-images-x, 0.9.1b0, A desktop app written in Python, that exposes and unlocks the full power of Optimize Images in a nice graphical user interface, to help you reduce the file size of images., 2021-04-25T21:36:28+0000

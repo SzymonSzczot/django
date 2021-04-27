@@ -1,0 +1,60 @@
+/project/napari-aicsimageio/, napari-aicsimageio, 0.2.0, AICSImageIO bindings for napari, 2020-12-14T07:30:26+0000
+/project/napping/, napping, 0.1.7, Control point mapping and coordination transformation using napari, 2021-03-15T23:01:07+0000
+/project/napari-nikon-nd2/, napari-nikon-nd2, 0.1.3, Opens Nikon ND2 files into napari., 2021-02-03T21:55:34+0000
+/project/napari-hdf5-labels-io/, napari-hdf5-labels-io, 0.2.dev13, Napari plugin to store set of layers in a .h5 file. Label layer are stored in a sparse representation, 2021-04-07T12:15:01+0000
+/project/affinder/, affinder, 0.2.0, Quickly find the affine matrix mapping one image to another using manual correspondence points annotation, 2021-03-25T00:53:48+0000
+/project/napari-btrack-reader/, napari-btrack-reader, 0.1.0, A plugin to load btrack files, 2020-11-05T10:23:48+0000
+/project/napari-medical-image-formats/, napari-medical-image-formats, 0.3.6, A Plugin in order to read medical image formats such as DICOM and NIfTI, 2021-04-24T14:22:51+0000
+/project/napari-cellfinder/, napari-cellfinder, 0.2.1, Visualise cellfinder results with napari, 2021-01-14T15:41:12+0000
+/project/napari-console/, napari-console, 0.0.3, A plugin that adds a console to napari, 2021-02-14T17:53:30+0000
+/project/brainreg-segment/, brainreg-segment, 0.2.6, Manual segmentation of 3D brain structures in a common anatomical space, 2021-04-21T12:48:07+0000
+/project/napari-demo/, napari-demo, 0.0.1, demo plugin, 2021-01-27T19:22:41+0000
+/project/cellfinder-napari/, cellfinder-napari, 0.0.2, Efficient cell detection in large images, 2021-01-26T14:04:22+0000
+/project/napari-yapic-prediction/, napari-yapic-prediction, 0.1.dev78, Napari widget plugin to perform yapic model segmentation prediction in the napari window, 2021-04-21T14:05:54+0000
+/project/brainglobe-napari-io/, brainglobe-napari-io, 0.0.2, Read and write files from the BrainGlobe neuroanatomy suite, 2021-03-12T17:35:22+0000
+/project/napari-mri/, napari-mri, 0.1.0, A simple plugin to use with napari for 3D-viewing of                  Magnetic Resonance Imaging file formats, 2021-03-21T06:12:30+0000
+/project/napari-compressed-labels-io/, napari-compressed-labels-io, 0.0.2, Plugin exploring different options for reading and writing compressed and portable labels layers in napari., 2021-03-03T20:41:59+0000
+/project/napari-em-reader/, napari-em-reader, 0.1.0, A napari plugin to read .em files, 2021-02-23T14:51:15+0000
+/project/napari-czifile2/, napari-czifile2, 0.2.1, Carl Zeiss Image (.czi) file support for napari, 2021-04-17T21:09:43+0000
+/project/napari-dv/, napari-dv, 0.2.5, Deltavision/MRC file reader for napari, 2021-01-27T23:48:58+0000
+/project/napari-dzi-zarr/, napari-dzi-zarr, 0.1.2, An experimental plugin for viewing Deep Zoom Images (DZI) with napari and zarr., 2021-04-06T14:13:16+0000
+/project/elastix-napari/, elastix-napari, 0.1.3, A toolbox for rigid and nonrigid registration of images., 2021-04-16T07:17:16+0000
+/project/napari-animation/, napari-animation, 0.0.1rc2, A plugin to make animations with napari, 2021-04-23T16:11:20+0000
+/project/partseg/, PartSeg, 0.13.4, PartSeg is python GUI for bio imaging analysis especially nucleus analysis,, 2021-04-17T15:28:42+0000
+/project/napari-imc/, napari-imc, 0.5.3, Imaging Mass Cytometry (IMC) file type support for napari, 2021-03-15T22:07:59+0000
+/project/napari-dv/, napari-dv, 0.2.5, Deltavision/MRC file reader for napari, 2021-01-27T23:48:58+0000
+/project/napari-dzi-zarr/, napari-dzi-zarr, 0.1.2, An experimental plugin for viewing Deep Zoom Images (DZI) with napari and zarr., 2021-04-06T14:13:16+0000
+/project/napari-lazy-openslide/, napari-lazy-openslide, 0.2.0, A plugin to lazily load multiscale whole-slide images with openslide and dask., 2021-01-30T19:48:17+0000
+/project/napari-video/, napari_video, 0.2.6, napari plugin for reading videos., 2021-03-16T11:36:22+0000
+/project/misic-napari-plugin/, misic-napari-plugin, 0.1.1, segmentation of bacteria, 2021-04-09T08:21:41+0000
+/project/napari-czifile2/, napari-czifile2, 0.2.1, Carl Zeiss Image (.czi) file support for napari, 2021-04-17T21:09:43+0000
+/project/napari-aicsimageio/, napari-aicsimageio, 0.2.0, AICSImageIO bindings for napari, 2020-12-14T07:30:26+0000
+/project/napping/, napping, 0.1.7, Control point mapping and coordination transformation using napari, 2021-03-15T23:01:07+0000
+/project/affinder/, affinder, 0.2.0, Quickly find the affine matrix mapping one image to another using manual correspondence points annotation, 2021-03-25T00:53:48+0000
+/project/napari-btrack-reader/, napari-btrack-reader, 0.1.0, A plugin to load btrack files, 2020-11-05T10:23:48+0000
+/project/napari-nikon-nd2/, napari-nikon-nd2, 0.1.3, Opens Nikon ND2 files into napari., 2021-02-03T21:55:34+0000
+/project/napari-hdf5-labels-io/, napari-hdf5-labels-io, 0.2.dev13, Napari plugin to store set of layers in a .h5 file. Label layer are stored in a sparse representation, 2021-04-07T12:15:01+0000
+/project/napari-medical-image-formats/, napari-medical-image-formats, 0.3.6, A Plugin in order to read medical image formats such as DICOM and NIfTI, 2021-04-24T14:22:51+0000
+/project/napari-console/, napari-console, 0.0.3, A plugin that adds a console to napari, 2021-02-14T17:53:30+0000
+/project/brainreg-segment/, brainreg-segment, 0.2.6, Manual segmentation of 3D brain structures in a common anatomical space, 2021-04-21T12:48:07+0000
+/project/cellfinder-napari/, cellfinder-napari, 0.0.2, Efficient cell detection in large images, 2021-01-26T14:04:22+0000
+/project/napari-cellfinder/, napari-cellfinder, 0.2.1, Visualise cellfinder results with napari, 2021-01-14T15:41:12+0000
+/project/napari-demo/, napari-demo, 0.0.1, demo plugin, 2021-01-27T19:22:41+0000
+/project/napari-yapic-prediction/, napari-yapic-prediction, 0.1.dev78, Napari widget plugin to perform yapic model segmentation prediction in the napari window, 2021-04-21T14:05:54+0000
+/project/brainglobe-napari-io/, brainglobe-napari-io, 0.0.2, Read and write files from the BrainGlobe neuroanatomy suite, 2021-03-12T17:35:22+0000
+/project/napari-mri/, napari-mri, 0.1.0, A simple plugin to use with napari for 3D-viewing of                  Magnetic Resonance Imaging file formats, 2021-03-21T06:12:30+0000
+/project/napari-compressed-labels-io/, napari-compressed-labels-io, 0.0.2, Plugin exploring different options for reading and writing compressed and portable labels layers in napari., 2021-03-03T20:41:59+0000
+/project/napari-em-reader/, napari-em-reader, 0.1.0, A napari plugin to read .em files, 2021-02-23T14:51:15+0000
+/project/napari-brainreg/, napari-brainreg, 0.2.3, Visualise brainreg registration output, 2020-11-13T13:48:23+0000
+/project/napari-lazy-openslide/, napari-lazy-openslide, 0.2.0, A plugin to lazily load multiscale whole-slide images with openslide and dask., 2021-01-30T19:48:17+0000
+/project/napari-imc/, napari-imc, 0.5.3, Imaging Mass Cytometry (IMC) file type support for napari, 2021-03-15T22:07:59+0000
+/project/misic-napari-plugin/, misic-napari-plugin, 0.1.1, segmentation of bacteria, 2021-04-09T08:21:41+0000
+/project/napari-animation/, napari-animation, 0.0.1rc2, A plugin to make animations with napari, 2021-04-23T16:11:20+0000
+/project/partseg/, PartSeg, 0.13.4, PartSeg is python GUI for bio imaging analysis especially nucleus analysis,, 2021-04-17T15:28:42+0000
+/project/napari-imc/, napari-imc, 0.5.3, Imaging Mass Cytometry (IMC) file type support for napari, 2021-03-15T22:07:59+0000
+/project/ome-zarr/, ome-zarr, 0.0.18, Implementation of images in Zarr files., 2021-04-24T09:52:11+0000
+/project/napari-lazy-openslide/, napari-lazy-openslide, 0.2.0, A plugin to lazily load multiscale whole-slide images with openslide and dask., 2021-01-30T19:48:17+0000
+/project/napari-video/, napari_video, 0.2.6, napari plugin for reading videos., 2021-03-16T11:36:22+0000
+/project/nd2-dask/, nd2-dask, 0.0.5, Plugin to load nd2 data into napari, 2021-02-04T05:18:13+0000
+/project/elastix-napari/, elastix-napari, 0.1.3, A toolbox for rigid and nonrigid registration of images., 2021-04-16T07:17:16+0000
+/project/napari-brainreg/, napari-brainreg, 0.2.3, Visualise brainreg registration output, 2020-11-13T13:48:23+0000

@@ -1,0 +1,272 @@
+/project/dice-sim/, dice-sim, 1.0.0, Simulate various dice throw situations, 2018-02-26T18:54:02+0000
+/project/no-thanks/, no-thanks, 0.1.2, An implementation of Thorsten Gimmler's card game No Thanks!, 2020-02-25T12:25:21+0000
+/project/chessql/, chessql, 2.0, Chess Query Language (cql) parser, 2020-07-26T12:05:53+0000
+/project/spellbot/, spellbot, 5.28.3, The Discord bot for SpellTable, 2021-04-22T04:11:29+0000
+/project/minipoker/, minipoker, 0.0.3, Poker Game, 2016-02-13T19:59:19+0000
+/project/rstgo/, rstgo, 0.2.2, A package to render go diagrams and embed them in reStructuredText documents, 2012-11-29T20:42:39+0000
+/project/sgfmill/, sgfmill, 1.1.1, Library for reading and writing files using Smart Game Format (SGF)., 2018-05-20T15:19:01+0000
+/project/py6nimmt/, py6Nimmt, 0.1.2, 6 Nimmt! cardgame, 2017-04-07T12:01:30+0000
+/project/exp1572/, exp1572, 1.0.1.10.4, Game "1572: The Lost Expedition", 2019-06-01T16:44:17+0000
+/project/boardgame2/, boardgame2, 0.0.5, 2-player zero-sum board game extension for OpenAI Gym., 2019-04-01T14:57:54+0000
+/project/proxyprinter/, proxyprinter, 0.3.2, Generate card game mockups from .ods spreadsheets, 2020-01-08T06:37:30+0000
+/project/newsuntest/, NewsunTest, 2.0.1, my pip test, 2019-11-17T14:57:42+0000
+/project/chess/, chess, 1.5.0, A chess library with move generation and validation, Polyglot opening book probing, PGN reading and writing, Gaviota tablebase probing, Syzygy tablebase probing, and XBoard/UCI engine communication., 2021-04-07T08:46:13+0000
+/project/tictactoelib/, tictactoelib, 0.2.4, Ultimate Tic Tac Toe game logic (Lua and Python bindings), 2014-04-28T07:39:41+0000
+/project/fairyfishnet/, fairyfishnet, 1.15.50, Distributed Fairy-Stockfish analysis for pychess-variants, 2021-04-21T09:18:23+0000
+/project/galgenmaennchen/, galgenmaennchen, 0.3.0, Ein Galgenmännchenspiel für dich., 2020-03-24T10:51:45+0000
+/project/ap-games/, ap-games, 0.0.2, Games Tic-Tac-Toe and Reversi with CLI., 2020-08-20T08:07:49+0000
+/project/tournamentmaster/, TournamentMaster, 3.1.0, CLI for running tournaments between chess engines, 2017-06-12T12:57:23+0000
+/project/dice/, dice, 3.1.2, A library for parsing and evaluating dice notation, 2021-04-07T22:10:31+0000
+/project/freegames/, freegames, 2.3.2, Free Games, 2019-12-31T05:06:46+0000
+/project/dicewars-pygame/, dicewars-pygame, 0.3.0, DiceWars game GUI, based on pygame and dicewars, 2021-02-10T16:38:50+0000
+/project/die/, die, 0.2.0, Library for simulating dice, dice rolls, and stats on dice., 2012-08-26T03:51:44+0000
+/project/sgftree/, sgftree, 0.0.4, A package to work with SGF files, 2020-05-04T13:39:30+0000
+/project/parlance/, Parlance, 1.4.1, A framework for playing the Diplomacy board game over a network., 2009-08-30T02:31:12+0000
+/project/pygtp/, pygtp, 0.4, Python library for Go Text Protocol controllers and engines, 2017-02-14T23:50:47+0000
+/project/board-game-utils/, board-game-utils, 0.1.0, Various board game utilities., 2021-03-01T22:21:38+0000
+/project/jubatu/, jubatu, 0.1.0, XMPP gaming client, 2008-02-12T21:30:56+0000
+/project/boggleboard/, boggleboard, 1.0.5, Manipulate and analyse anagrams and variations of Boggle boards., 2010-10-08T16:45:14+0000
+/project/pgn2fixture/, pgn2fixture, 1.0, A very simple PGN to Django fixture converter., 2021-03-18T18:47:22+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pycross/, PyCross, 0.3.3, Singleplayer/Multiplayer Tic-Tac-Toe game, 2014-11-17T13:09:24+0000
+/project/shisensho/, shisensho, 0.9.12, Shisen Sho Game, 2017-01-20T11:25:33+0000
+/project/pykhet/, pykhet, 0.18, A general library for the board game khet, 2017-02-24T05:40:12+0000
+/project/agario-bot/, agario-bot, 0.7, Just small python bot client for socket-based agario, 2018-03-30T09:05:46+0000
+/project/xo/, xo, 1.0.0, A Tic-tac-toe CLI game and library., 2016-09-09T14:30:58+0000
+/project/chessboard/, chessboard, 1.5.4, CLI to solve combinatoric chess puzzles., 2017-08-11T15:17:52+0000
+/project/stockfish/, stockfish, 3.14.0, Wraps the open-source Stockfish chess engine for easy integration into python., 2021-04-04T14:18:34+0000
+/project/jcchess/, jcchess, 0.0.1, A Chess GUI, 2017-09-16T06:47:07+0000
+/project/lex-game/, lex-game, 0.0.3, LEX is Martin Gardner's Hexapawn where matchboxes are Excel files, 2020-09-26T12:46:07+0000
+/project/word2number/, word2number, 1.1, Convert number words eg. three hundred and forty two to numbers (342)., 2017-06-02T15:45:14+0000
+/project/reconchess/, reconchess, 1.6.7, A python package for building Reconnaissance Chess players, 2020-08-10T13:25:39+0000
+/project/django-bingo/, django-bingo, 1.6.0, Bingo, 2015-09-05T10:35:06+0000
+/project/zero-play/, zero-play, 0.4.0, Teach a computer to play any game, 2020-11-15T20:11:17+0000
+/project/normalizepgn/, normalizePGN, 0.1.1, Helper scripts to fix PGN meta-data before importing them to Chess DB (like SCID), 2016-03-21T21:02:47+0000
+/project/sgf/, sgf, 0.5, Python library for reading and writing Smart Game Format, 2016-03-21T07:48:53+0000
+/project/pymagcore/, pymagcore, 0.1.0, 程序员的战争, 2019-05-29T14:30:26+0000
+/project/chess-annotator/, chess-annotator, 1.1.4, adds comments and analysis to chess games, 2019-08-26T03:49:20+0000
+/project/klotski/, Klotski, 1.3, A brain-teaser game, 2020-09-10T19:38:17+0000
+/project/connect4/, connect4, 0.0.3, N-in-a-row Game, 2016-02-04T00:20:42+0000
+/project/apologies/, apologies, 0.1.33, Python code to play a game similar to Sorry, 2021-02-18T01:56:51+0000
+/project/dixit/, Dixit, 0.1.1, Fan server for the board game Dixit, 2020-07-10T14:52:03+0000
+/project/jdhp-tictactoe/, jdhp-tictactoe, 0.8.dev1, Play the classic Tic-Tac-Toe game., 2016-12-31T00:04:00+0000
+/project/hichesslib/, hichesslib, 1.2.10.3,  Cross-platform Python chess GUI library based on PySide2 and python_chess. , 2020-07-13T06:25:55+0000
+/project/mctest/, mctest, 0.0.2, 程序员的战争, 2019-05-29T13:48:35+0000
+/project/fishnet/, fishnet, 1.18.2, Distributed Stockfish analysis for lichess.org, 2020-11-28T16:48:16+0000
+/project/pair/, pair, 0.2.3, a ladder pairing/matching library, 2017-05-09T00:18:18+0000
+/project/uxbgtk/, UXBgtk, 1.1, A Gtk version of the Mines game intended for casual play., 2015-05-27T21:35:42+0000
+/project/django-bingo-autotopic/, django-bingo-autotopic, 1.0.4, Bingo Autotopic, 2015-07-23T21:05:36+0000
+/project/ajedrez-asir/, ajedrez-asir, 0.1, ajedrez online para ASIR, 2018-06-24T11:51:53+0000
+/project/apibiubiu/, ApiBiuBiu, 0.0.2, unittestAndMultiprocessing, 2020-07-06T15:20:54+0000
+/project/gomill/, gomill, 0.8.3, Tools for testing and tuning Go-playing programs, 2019-03-14T21:03:32+0000
+/project/board-game-recommender/, board-game-recommender, 2.1.3, Board games recommender engine, 2020-10-22T10:55:38+0000
+/project/diplomacy/, diplomacy, 1.1.2, Diplomacy: DATC-Compliant Game Engine with Web Interface, 2020-04-13T12:15:42+0000
+/project/stratumgs/, stratumgs, 0.1.1, A turn based game engine designed to pit autonomous players against each other., 2016-05-28T16:32:49+0000
+/project/cjy/, cjy, 1.6, Make your own character using radical sequences!, 2020-07-21T14:36:08+0000
+/project/d20/, d20, 1.1.0, A formal grammar-based dice parser and roller for D&D and other dice systems., 2021-03-25T22:28:17+0000
+/project/pyword/, pyword, 1.0, What's My Word, 2013-12-20T19:27:42+0000
+/project/board-game-scraper/, board-game-scraper, 2.13.0, Board games data scraping and processing from BoardGameGeek and more!, 2020-11-14T20:58:09+0000
+/project/xdice/, xdice, 1.2.1, The swiss knife for Dice roll : Command line, API (documented!), advanced dice notation parser, compilable patterns...etc., 2020-01-16T15:17:35+0000
+/project/python-2048a/, python-2048a, 0.0.0, A game engine for 2048, 2014-03-23T10:49:31+0000
+/project/pelmanism/, pelmanism, 1.1, Pelmanism Memory Game, 2020-11-25T22:30:22+0000
+/project/ygoprodeck/, ygoprodeck, 1.0.6, Python wrapper for the YGOProDeck API., 2021-02-07T16:42:19+0000
+/project/jjc-card-game/, jjc-card-game, 0.0.3, A very simple card game, 2019-10-27T02:27:09+0000
+/project/python-mahjong/, python-mahjong, 1.0.0, Abstract away the logic of mahjong games., 2021-01-25T19:54:24+0000
+/project/tictactoe-py/, tictactoe-py, 1.0.0, Yet another Python Tic-Tac-Toe library, 2015-03-30T04:22:29+0000
+/project/bggcli/, bggcli, 0.9, Command Line Interface for BoardGameGeek.com, 2015-07-05T19:06:34+0000
+/project/slugathon/, slugathon, 0.1-20120727040741-5027075, Fantasy battle board game, 2012-07-27T04:07:47+0000
+/project/elzzur/, elzzur, 0.0.1.0, elzzur solves a Ruzzle board, listing all the valid words with their scores., 2016-05-11T11:54:55+0000
+/project/pymastermind/, pymastermind, 1.2, A Python package designed to play, develop strategies/algorithms, and implement the classic MasterMind board game., 2019-09-07T20:12:18+0000
+/project/chesspos/, chesspos, 0.1.2, A library for manipulating, learning and searching chess positions, 2021-04-05T20:56:50+0000
+/project/lootgenerator/, lootgenerator, 0.2.0, Tabletop RPG loot generator, 2018-02-04T22:45:06+0000
+/project/reversi/, Reversi, 1.2.1, A version of the Reversi board game intended for casual play., 2015-05-29T18:27:32+0000
+/project/mxgames/, mxgames, 1.7.2, free python games written by pygame, 2018-12-17T04:04:24+0000
+/project/flexirpg/, flexirpg, 1.98.4, Flexible RPG virtual tabletop application, 2021-04-05T16:55:50+0000
+/project/py-battleship/, py-battleship, 1.3.2, This is a simple, but super cool Battleship game. Lets Play!!!, 2019-01-26T19:41:56+0000
+/project/kakuro/, kakuro, 1.0.0, Library to represent and solve Kakuro puzzles., 2010-05-20T18:19:22+0000
+/project/dangeruxb/, DangerUXB, 1.0, A version of the Mines game intended for casual play., 2012-08-28T09:52:03+0000
+/project/chesstab/, chesstab, 4.3.2, Database for chess games, 2021-01-02T21:45:35+0000
+/project/warmahordes-opendata/, warmahordes-opendata, 0.1.3, WARMACHINE® and HORDES® Open Data, 2021-04-15T21:56:49+0000
+/project/othello/, othello, 1.0b1, Implementation of Othello/Reversi for AI course instruction, 2011-09-24T22:10:41+0000
+/project/python-damas/, python-damas, 1.0.2, Uma biblioteca do jogo de damas., 2021-03-23T03:15:33+0000
+/project/stackitdecklist/, StackItDecklist, 1.4.0, Generates visual decklists for various TCGs, 2017-08-11T03:44:32+0000
+/project/pystockfish/, pystockfish, 1.0.1, Wraps the open-source Stockfish chess engine for easy integration into python., 2015-09-25T20:55:02+0000
+/project/rputils/, rputils, 0.151, An application for dice rolling and reading PDF files., 2013-03-28T11:16:15+0000
+/project/gameclock/, gameclock, 5.1, The Gameclock, 2016-09-04T23:58:10+0000
+/project/katrain/, KaTrain, 1.8.4, Go/Baduk/Weiqi playing and teaching app with a variety of AIs, 2021-04-11T16:29:04+0000
+/project/freegames-extended/, freegames-extended, 2.3.3, A extended version of package ``freegames``, 2020-11-28T06:47:27+0000
+/project/oc-chess-club/, oc-chess-club, 1.0.1, CLI to manage tournaments and players for a chess club, 2021-04-19T15:01:28+0000
+/project/dicewars/, dicewars, 0.2.0, Backend for DiceWars games/servers, 2021-02-08T18:37:39+0000
+/project/python-shogi/, python-shogi, 1.0.12, A pure Python shogi library with move generation and validation and handling of common formats., 2021-01-01T16:13:41+0000
+/project/tich-me/, tich-me, 0.1.3, , 2019-05-19T15:48:23+0000
+/project/parang/, Parang, 1.4.1, A set of clients for the Parlance Diplomacy Framework., 2009-08-30T02:21:18+0000
+/project/gamerec/, gamerec, 0.1.0, Library to process 2 players' games recordings (only chess now), 2016-02-06T17:27:58+0000
+/project/apologiesserver/, apologiesserver, 0.1.19, Websocket server to interactively play the Apologies game, 2021-02-18T01:58:58+0000
+/project/rummikubconsole/, RummikubConsole, 1.2.1, Rummikub solver console with multi-game support and persistence., 2021-04-09T09:09:43+0000
+/project/samuel/, samuel, 0.1.9, A Draughts Program, 2019-02-10T22:13:40+0000
+/project/othellotk/, othellotk, 0.1.1, Edax gui to play Othello against the Edax engine, 2015-09-17T15:28:38+0000
+/project/chessproblem-ui/, chessproblem.ui, 1.2.0, The user interface to edit chessproblems for tex files using the chess-problem-diagrams latex style., 2017-02-10T15:20:54+0000
+/project/aei/, AEI, 1.2, Arimaa Engine Interface tools, 2015-09-10T02:01:57+0000
+/project/python-lichess/, python-lichess, 0.9, A client for the lichess.org API, 2019-07-14T14:16:43+0000
+/project/shibumi/, shibumi, 0.4.0, Simple board games hiding complexity, 2020-11-15T23:20:20+0000
+/project/txwerewolves/, txwerewolves, 0.6.3, Networked adaption of the Werewolves party game for 3-10 players., 2019-09-12T12:09:47+0000
+/project/deep-blue-talks/, deep-blue-talks, 0.2.2, bestow speech unto chess engines, 2015-05-15T14:16:14+0000
+/project/scrabble/, scrabble, 1.3, Scrabble game with move recovery and best move analysis, 2018-01-02T17:59:21+0000
+/project/ninarow/, ninarow, 0.0.3, N-in-a-row Game, 2016-01-24T00:00:49+0000
+/project/ovid/, ovid, 0.6.0, Text metamorphosis toolbox', 2021-04-17T14:51:20+0000
+/project/pgn-read/, pgn-read, 2.0.2, Portable Game Notation (PGN) parser, 2021-01-02T21:45:40+0000
+/project/jubatu-chess/, jubatu-chess, 0.1.0, Jubatu chess plugin, 2008-02-12T21:32:56+0000
+/project/python-chess-toc/, python-chess-toc, 0.1.1, Create a graphical table of contents for chess games with engine analysis, 2019-03-30T15:28:17+0000
+/project/sgftree-gelya/, sgftree-Gelya, 0.0.1, A package to work with SGF files, 2020-04-28T07:30:04+0000
+/project/sgftree-gelya/, sgftree-Gelya, 0.0.1, A package to work with SGF files, 2020-04-28T07:30:04+0000
+/project/katrain/, KaTrain, 1.8.4, Go/Baduk/Weiqi playing and teaching app with a variety of AIs, 2021-04-11T16:29:04+0000
+/project/freegames-extended/, freegames-extended, 2.3.3, A extended version of package ``freegames``, 2020-11-28T06:47:27+0000
+/project/oc-chess-club/, oc-chess-club, 1.0.1, CLI to manage tournaments and players for a chess club, 2021-04-19T15:01:28+0000
+/project/chesstab/, chesstab, 4.3.2, Database for chess games, 2021-01-02T21:45:35+0000
+/project/warmahordes-opendata/, warmahordes-opendata, 0.1.3, WARMACHINE® and HORDES® Open Data, 2021-04-15T21:56:49+0000
+/project/othello/, othello, 1.0b1, Implementation of Othello/Reversi for AI course instruction, 2011-09-24T22:10:41+0000
+/project/python-damas/, python-damas, 1.0.2, Uma biblioteca do jogo de damas., 2021-03-23T03:15:33+0000
+/project/stackitdecklist/, StackItDecklist, 1.4.0, Generates visual decklists for various TCGs, 2017-08-11T03:44:32+0000
+/project/pystockfish/, pystockfish, 1.0.1, Wraps the open-source Stockfish chess engine for easy integration into python., 2015-09-25T20:55:02+0000
+/project/neuralknight/, neuralknight, 1.0.2, A Chess-playing AI, 2018-07-11T21:42:22+0000
+/project/dicebox/, dicebox, 0.4.0, A simple python DSL for dice., 2020-05-03T16:45:19+0000
+/project/reversi/, Reversi, 1.2.1, A version of the Reversi board game intended for casual play., 2015-05-29T18:27:32+0000
+/project/mxgames/, mxgames, 1.7.2, free python games written by pygame, 2018-12-17T04:04:24+0000
+/project/flexirpg/, flexirpg, 1.98.4, Flexible RPG virtual tabletop application, 2021-04-05T16:55:50+0000
+/project/py-battleship/, py-battleship, 1.3.2, This is a simple, but super cool Battleship game. Lets Play!!!, 2019-01-26T19:41:56+0000
+/project/dice-sim/, dice-sim, 1.0.0, Simulate various dice throw situations, 2018-02-26T18:54:02+0000
+/project/no-thanks/, no-thanks, 0.1.2, An implementation of Thorsten Gimmler's card game No Thanks!, 2020-02-25T12:25:21+0000
+/project/fairyfishnet/, fairyfishnet, 1.15.50, Distributed Fairy-Stockfish analysis for pychess-variants, 2021-04-21T09:18:23+0000
+/project/chessql/, chessql, 2.0, Chess Query Language (cql) parser, 2020-07-26T12:05:53+0000
+/project/spellbot/, spellbot, 5.28.3, The Discord bot for SpellTable, 2021-04-22T04:11:29+0000
+/project/minipoker/, minipoker, 0.0.3, Poker Game, 2016-02-13T19:59:19+0000
+/project/rstgo/, rstgo, 0.2.2, A package to render go diagrams and embed them in reStructuredText documents, 2012-11-29T20:42:39+0000
+/project/sgfmill/, sgfmill, 1.1.1, Library for reading and writing files using Smart Game Format (SGF)., 2018-05-20T15:19:01+0000
+/project/py6nimmt/, py6Nimmt, 0.1.2, 6 Nimmt! cardgame, 2017-04-07T12:01:30+0000
+/project/exp1572/, exp1572, 1.0.1.10.4, Game "1572: The Lost Expedition", 2019-06-01T16:44:17+0000
+/project/boardgame2/, boardgame2, 0.0.5, 2-player zero-sum board game extension for OpenAI Gym., 2019-04-01T14:57:54+0000
+/project/chess/, chess, 1.5.0, A chess library with move generation and validation, Polyglot opening book probing, PGN reading and writing, Gaviota tablebase probing, Syzygy tablebase probing, and XBoard/UCI engine communication., 2021-04-07T08:46:13+0000
+/project/sgftree/, sgftree, 0.0.4, A package to work with SGF files, 2020-05-04T13:39:30+0000
+/project/parlance/, Parlance, 1.4.1, A framework for playing the Diplomacy board game over a network., 2009-08-30T02:31:12+0000
+/project/galgenmaennchen/, galgenmaennchen, 0.3.0, Ein Galgenmännchenspiel für dich., 2020-03-24T10:51:45+0000
+/project/ap-games/, ap-games, 0.0.2, Games Tic-Tac-Toe and Reversi with CLI., 2020-08-20T08:07:49+0000
+/project/tournamentmaster/, TournamentMaster, 3.1.0, CLI for running tournaments between chess engines, 2017-06-12T12:57:23+0000
+/project/dice/, dice, 3.1.2, A library for parsing and evaluating dice notation, 2021-04-07T22:10:31+0000
+/project/proxyprinter/, proxyprinter, 0.3.2, Generate card game mockups from .ods spreadsheets, 2020-01-08T06:37:30+0000
+/project/newsuntest/, NewsunTest, 2.0.1, my pip test, 2019-11-17T14:57:42+0000
+/project/freegames/, freegames, 2.3.2, Free Games, 2019-12-31T05:06:46+0000
+/project/dicewars-pygame/, dicewars-pygame, 0.3.0, DiceWars game GUI, based on pygame and dicewars, 2021-02-10T16:38:50+0000
+/project/die/, die, 0.2.0, Library for simulating dice, dice rolls, and stats on dice., 2012-08-26T03:51:44+0000
+/project/tictactoelib/, tictactoelib, 0.2.4, Ultimate Tic Tac Toe game logic (Lua and Python bindings), 2014-04-28T07:39:41+0000
+/project/pygtp/, pygtp, 0.4, Python library for Go Text Protocol controllers and engines, 2017-02-14T23:50:47+0000
+/project/board-game-utils/, board-game-utils, 0.1.0, Various board game utilities., 2021-03-01T22:21:38+0000
+/project/jdhp-tictactoe/, jdhp-tictactoe, 0.8.dev1, Play the classic Tic-Tac-Toe game., 2016-12-31T00:04:00+0000
+/project/hichesslib/, hichesslib, 1.2.10.3,  Cross-platform Python chess GUI library based on PySide2 and python_chess. , 2020-07-13T06:25:55+0000
+/project/mctest/, mctest, 0.0.2, 程序员的战争, 2019-05-29T13:48:35+0000
+/project/fishnet/, fishnet, 1.18.2, Distributed Stockfish analysis for lichess.org, 2020-11-28T16:48:16+0000
+/project/jubatu/, jubatu, 0.1.0, XMPP gaming client, 2008-02-12T21:30:56+0000
+/project/pykhet/, pykhet, 0.18, A general library for the board game khet, 2017-02-24T05:40:12+0000
+/project/agario-bot/, agario-bot, 0.7, Just small python bot client for socket-based agario, 2018-03-30T09:05:46+0000
+/project/xo/, xo, 1.0.0, A Tic-tac-toe CLI game and library., 2016-09-09T14:30:58+0000
+/project/chessboard/, chessboard, 1.5.4, CLI to solve combinatoric chess puzzles., 2017-08-11T15:17:52+0000
+/project/stockfish/, stockfish, 3.14.0, Wraps the open-source Stockfish chess engine for easy integration into python., 2021-04-04T14:18:34+0000
+/project/jcchess/, jcchess, 0.0.1, A Chess GUI, 2017-09-16T06:47:07+0000
+/project/lex-game/, lex-game, 0.0.3, LEX is Martin Gardner's Hexapawn where matchboxes are Excel files, 2020-09-26T12:46:07+0000
+/project/word2number/, word2number, 1.1, Convert number words eg. three hundred and forty two to numbers (342)., 2017-06-02T15:45:14+0000
+/project/django-bingo-autotopic/, django-bingo-autotopic, 1.0.4, Bingo Autotopic, 2015-07-23T21:05:36+0000
+/project/diplomacy/, diplomacy, 1.1.2, Diplomacy: DATC-Compliant Game Engine with Web Interface, 2020-04-13T12:15:42+0000
+/project/pelmanism/, pelmanism, 1.1, Pelmanism Memory Game, 2020-11-25T22:30:22+0000
+/project/ygoprodeck/, ygoprodeck, 1.0.6, Python wrapper for the YGOProDeck API., 2021-02-07T16:42:19+0000
+/project/jjc-card-game/, jjc-card-game, 0.0.3, A very simple card game, 2019-10-27T02:27:09+0000
+/project/python-mahjong/, python-mahjong, 1.0.0, Abstract away the logic of mahjong games., 2021-01-25T19:54:24+0000
+/project/cjy/, cjy, 1.6, Make your own character using radical sequences!, 2020-07-21T14:36:08+0000
+/project/chess-annotator/, chess-annotator, 1.1.4, adds comments and analysis to chess games, 2019-08-26T03:49:20+0000
+/project/klotski/, Klotski, 1.3, A brain-teaser game, 2020-09-10T19:38:17+0000
+/project/connect4/, connect4, 0.0.3, N-in-a-row Game, 2016-02-04T00:20:42+0000
+/project/apologies/, apologies, 0.1.33, Python code to play a game similar to Sorry, 2021-02-18T01:56:51+0000
+/project/dixit/, Dixit, 0.1.1, Fan server for the board game Dixit, 2020-07-10T14:52:03+0000
+/project/boggleboard/, boggleboard, 1.0.5, Manipulate and analyse anagrams and variations of Boggle boards., 2010-10-08T16:45:14+0000
+/project/pgn2fixture/, pgn2fixture, 1.0, A very simple PGN to Django fixture converter., 2021-03-18T18:47:22+0000
+/project/pair/, pair, 0.2.3, a ladder pairing/matching library, 2017-05-09T00:18:18+0000
+/project/uxbgtk/, UXBgtk, 1.1, A Gtk version of the Mines game intended for casual play., 2015-05-27T21:35:42+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pycross/, PyCross, 0.3.3, Singleplayer/Multiplayer Tic-Tac-Toe game, 2014-11-17T13:09:24+0000
+/project/shisensho/, shisensho, 0.9.12, Shisen Sho Game, 2017-01-20T11:25:33+0000
+/project/ajedrez-asir/, ajedrez-asir, 0.1, ajedrez online para ASIR, 2018-06-24T11:51:53+0000
+/project/apibiubiu/, ApiBiuBiu, 0.0.2, unittestAndMultiprocessing, 2020-07-06T15:20:54+0000
+/project/gomill/, gomill, 0.8.3, Tools for testing and tuning Go-playing programs, 2019-03-14T21:03:32+0000
+/project/reconchess/, reconchess, 1.6.7, A python package for building Reconnaissance Chess players, 2020-08-10T13:25:39+0000
+/project/django-bingo/, django-bingo, 1.6.0, Bingo, 2015-09-05T10:35:06+0000
+/project/zero-play/, zero-play, 0.4.0, Teach a computer to play any game, 2020-11-15T20:11:17+0000
+/project/normalizepgn/, normalizePGN, 0.1.1, Helper scripts to fix PGN meta-data before importing them to Chess DB (like SCID), 2016-03-21T21:02:47+0000
+/project/board-game-recommender/, board-game-recommender, 2.1.3, Board games recommender engine, 2020-10-22T10:55:38+0000
+/project/sgf/, sgf, 0.5, Python library for reading and writing Smart Game Format, 2016-03-21T07:48:53+0000
+/project/pymagcore/, pymagcore, 0.1.0, 程序员的战争, 2019-05-29T14:30:26+0000
+/project/stratumgs/, stratumgs, 0.1.1, A turn based game engine designed to pit autonomous players against each other., 2016-05-28T16:32:49+0000
+/project/d20/, d20, 1.1.0, A formal grammar-based dice parser and roller for D&D and other dice systems., 2021-03-25T22:28:17+0000
+/project/pyword/, pyword, 1.0, What's My Word, 2013-12-20T19:27:42+0000
+/project/board-game-scraper/, board-game-scraper, 2.13.0, Board games data scraping and processing from BoardGameGeek and more!, 2020-11-14T20:58:09+0000
+/project/xdice/, xdice, 1.2.1, The swiss knife for Dice roll : Command line, API (documented!), advanced dice notation parser, compilable patterns...etc., 2020-01-16T15:17:35+0000
+/project/python-2048a/, python-2048a, 0.0.0, A game engine for 2048, 2014-03-23T10:49:31+0000
+/project/tictactoe-py/, tictactoe-py, 1.0.0, Yet another Python Tic-Tac-Toe library, 2015-03-30T04:22:29+0000
+/project/bggcli/, bggcli, 0.9, Command Line Interface for BoardGameGeek.com, 2015-07-05T19:06:34+0000
+/project/slugathon/, slugathon, 0.1-20120727040741-5027075, Fantasy battle board game, 2012-07-27T04:07:47+0000
+/project/elzzur/, elzzur, 0.0.1.0, elzzur solves a Ruzzle board, listing all the valid words with their scores., 2016-05-11T11:54:55+0000
+/project/pymastermind/, pymastermind, 1.2, A Python package designed to play, develop strategies/algorithms, and implement the classic MasterMind board game., 2019-09-07T20:12:18+0000
+/project/chesspos/, chesspos, 0.1.2, A library for manipulating, learning and searching chess positions, 2021-04-05T20:56:50+0000
+/project/abalone/, abalone, 0.1, Abalone strategy game, 2010-09-23T21:43:45+0000
+/project/boardgamegeek2/, boardgamegeek2, 1.0.1, A Python interface to boardgamegeek.com's API, 2019-02-04T11:21:58+0000
+/project/boardgamegeek/, boardgamegeek, 0.13.2, A Python interface to boardgamegeek.com's API, 2015-12-19T20:13:45+0000
+/project/papageorge/, papageorge, 0.1.1, Simple client for the Free Internet Chess Server, 2015-09-07T08:29:02+0000
+/project/aei/, AEI, 1.2, Arimaa Engine Interface tools, 2015-09-10T02:01:57+0000
+/project/python-lichess/, python-lichess, 0.9, A client for the lichess.org API, 2019-07-14T14:16:43+0000
+/project/shibumi/, shibumi, 0.4.0, Simple board games hiding complexity, 2020-11-15T23:20:20+0000
+/project/txwerewolves/, txwerewolves, 0.6.3, Networked adaption of the Werewolves party game for 3-10 players., 2019-09-12T12:09:47+0000
+/project/apologiesserver/, apologiesserver, 0.1.19, Websocket server to interactively play the Apologies game, 2021-02-18T01:58:58+0000
+/project/rummikubconsole/, RummikubConsole, 1.2.1, Rummikub solver console with multi-game support and persistence., 2021-04-09T09:09:43+0000
+/project/kakuro/, kakuro, 1.0.0, Library to represent and solve Kakuro puzzles., 2010-05-20T18:19:22+0000
+/project/dangeruxb/, DangerUXB, 1.0, A version of the Mines game intended for casual play., 2012-08-28T09:52:03+0000
+/project/othello/, othello, 1.0b1, Implementation of Othello/Reversi for AI course instruction, 2011-09-24T22:10:41+0000
+/project/python-damas/, python-damas, 1.0.2, Uma biblioteca do jogo de damas., 2021-03-23T03:15:33+0000
+/project/stackitdecklist/, StackItDecklist, 1.4.0, Generates visual decklists for various TCGs, 2017-08-11T03:44:32+0000
+/project/pystockfish/, pystockfish, 1.0.1, Wraps the open-source Stockfish chess engine for easy integration into python., 2015-09-25T20:55:02+0000
+/project/rputils/, rputils, 0.151, An application for dice rolling and reading PDF files., 2013-03-28T11:16:15+0000
+/project/gameclock/, gameclock, 5.1, The Gameclock, 2016-09-04T23:58:10+0000
+/project/neuralknight/, neuralknight, 1.0.2, A Chess-playing AI, 2018-07-11T21:42:22+0000
+/project/pydice/, pydice, 1.0.1b4, Tools for simulating dice and die-rolling, 2015-05-22T21:59:33+0000
+/project/abalone-boai/, abalone-boai, 1.0.0, A Python implementation of the board game intended to be played by artificial intelligence, 2020-03-31T15:53:43+0000
+/project/multi-elo/, multi-elo, 2.0.0, ELO score calculator for more than two players, 2019-12-30T21:13:38+0000
+/project/tictactoexxl/, tictactoexxl, 1.0.1, A tic-tac-toe game with xxl fun, 2014-08-23T17:57:25+0000
+/project/gshogi/, gshogi, 0.5.1, A Shogi Program (Japanese Chess), 2017-09-18T17:53:34+0000
+/project/parterre/, Parterre, 1.4.1, A set of variants for the Parlance Diplomacy Framework., 2009-08-30T01:55:02+0000
+/project/edsudoku/, edsudoku, 2.0.2, Utility and website for generating solvable sudoku puzzles, 2015-09-15T22:12:17+0000
+/project/django-bingo-tweets/, django-bingo-tweets, 1.1.0, Bingo Tweets, 2020-03-01T14:25:15+0000
+/project/xiangqi-setup/, xiangqi-setup, 2.0.0, Command line tool to generate razor-sharp Xiangqi (Chinese chess) setup graphics, 2021-02-08T20:05:18+0000
+/project/privatizace/, privatizace, 0.1.0, Logical game, a homage to the old game Velká privatizace, 2016-12-09T03:13:43+0000
+/project/deep-blue-talks/, deep-blue-talks, 0.2.2, bestow speech unto chess engines, 2015-05-15T14:16:14+0000
+/project/scrabble/, scrabble, 1.3, Scrabble game with move recovery and best move analysis, 2018-01-02T17:59:21+0000
+/project/ninarow/, ninarow, 0.0.3, N-in-a-row Game, 2016-01-24T00:00:49+0000
+/project/ovid/, ovid, 0.6.0, Text metamorphosis toolbox', 2021-04-17T14:51:20+0000
+/project/pgn-read/, pgn-read, 2.0.2, Portable Game Notation (PGN) parser, 2021-01-02T21:45:40+0000
+/project/jubatu-chess/, jubatu-chess, 0.1.0, Jubatu chess plugin, 2008-02-12T21:32:56+0000
+/project/python-chess-toc/, python-chess-toc, 0.1.1, Create a graphical table of contents for chess games with engine analysis, 2019-03-30T15:28:17+0000
+/project/sgftree-gelya/, sgftree-Gelya, 0.0.1, A package to work with SGF files, 2020-04-28T07:30:04+0000
+/project/katrain/, KaTrain, 1.8.4, Go/Baduk/Weiqi playing and teaching app with a variety of AIs, 2021-04-11T16:29:04+0000
+/project/freegames-extended/, freegames-extended, 2.3.3, A extended version of package ``freegames``, 2020-11-28T06:47:27+0000
+/project/oc-chess-club/, oc-chess-club, 1.0.1, CLI to manage tournaments and players for a chess club, 2021-04-19T15:01:28+0000
+/project/sgftree-gelya/, sgftree-Gelya, 0.0.1, A package to work with SGF files, 2020-04-28T07:30:04+0000
+/project/pymastermind/, pymastermind, 1.2, A Python package designed to play, develop strategies/algorithms, and implement the classic MasterMind board game., 2019-09-07T20:12:18+0000
+/project/chesspos/, chesspos, 0.1.2, A library for manipulating, learning and searching chess positions, 2021-04-05T20:56:50+0000
+/project/abalone/, abalone, 0.1, Abalone strategy game, 2010-09-23T21:43:45+0000
+/project/boardgamegeek2/, boardgamegeek2, 1.0.1, A Python interface to boardgamegeek.com's API, 2019-02-04T11:21:58+0000
+/project/boardgamegeek/, boardgamegeek, 0.13.2, A Python interface to boardgamegeek.com's API, 2015-12-19T20:13:45+0000
+/project/pydice/, pydice, 1.0.1b4, Tools for simulating dice and die-rolling, 2015-05-22T21:59:33+0000
+/project/papageorge/, papageorge, 0.1.1, Simple client for the Free Internet Chess Server, 2015-09-07T08:29:02+0000
+/project/abalone-boai/, abalone-boai, 1.0.0, A Python implementation of the board game intended to be played by artificial intelligence, 2020-03-31T15:53:43+0000
+/project/multi-elo/, multi-elo, 2.0.0, ELO score calculator for more than two players, 2019-12-30T21:13:38+0000
+/project/tictactoexxl/, tictactoexxl, 1.0.1, A tic-tac-toe game with xxl fun, 2014-08-23T17:57:25+0000
+/project/gshogi/, gshogi, 0.5.1, A Shogi Program (Japanese Chess), 2017-09-18T17:53:34+0000
+/project/parterre/, Parterre, 1.4.1, A set of variants for the Parlance Diplomacy Framework., 2009-08-30T01:55:02+0000
+/project/edsudoku/, edsudoku, 2.0.2, Utility and website for generating solvable sudoku puzzles, 2015-09-15T22:12:17+0000
+/project/django-bingo-tweets/, django-bingo-tweets, 1.1.0, Bingo Tweets, 2020-03-01T14:25:15+0000
+/project/xiangqi-setup/, xiangqi-setup, 2.0.0, Command line tool to generate razor-sharp Xiangqi (Chinese chess) setup graphics, 2021-02-08T20:05:18+0000

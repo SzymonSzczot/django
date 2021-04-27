@@ -1,0 +1,270 @@
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/fruitloop/, fruitloop, 0.6, 3D Graphics Engine for CAVE VR setups, 2017-09-01T13:02:47+0000
+/project/twitchoglc/, twitchoglc, 2.0.1, Quake-style PK3/BSP(3) file loader, 2019-11-22T18:22:44+0000
+/project/cioclarisse/, cioclarisse, 0.1.13, Clarisse plugin for Conductor Cloud Rendering Platform., 2021-03-17T01:47:07+0000
+/project/openglcontext-qt/, OpenGLContext_qt, 1.0.0a3, PyQt4/PySide context for OpenGLContext, 2013-10-07T04:26:32+0000
+/project/pyimagevideo/, pyimagevideo, 1.0.1, Demos of OpenCV, read/write videos, etc., 2019-05-29T08:16:56+0000
+/project/threevis/, threevis, 0.1.0.post25, Visualize meshes, point clouds, and other geometry in a Jupyter Notebook, 2018-03-22T08:31:51+0000
+/project/redner-test/, redner-test, 0.0.1, Differentiable rendering without approximation., 2020-02-02T22:17:59+0000
+/project/opengl-registry/, opengl-registry, 0.3.1, A simple tool for extracting information from the OpenGL API Registry, 2021-02-08T01:05:47+0000
+/project/lavavu-osmesa/, lavavu-osmesa, 1.8.11, Python interface to LavaVu OpenGL 3D scientific visualisation utilities, 2021-04-25T02:57:44+0000
+/project/bpy-optix/, bpy-optix, 2.82, Blender with Optix support as a python module, 2020-06-23T23:59:22+0000
+/project/panda3d/, Panda3D, 1.10.9, Panda3D is a framework for 3D rendering and game development for Python and C++ programs., 2021-03-26T11:05:37+0000
+/project/raysect/, raysect, 0.7.0, A Ray-tracing Framework for Science and Engineering, 2020-11-07T23:34:27+0000
+/project/ivisual/, IVisual, 0.2.88, VPython visual inline for IPython Notebook, 2016-02-10T21:40:36+0000
+/project/peng3d/, peng3d, 1.11.0, Python and pyglet based 3D Engine and toolkit, 2021-01-16T13:16:54+0000
+/project/bpy-cuda/, bpy-cuda, 2.82, Blender with CUDA support as a python module, 2020-06-23T23:39:34+0000
+/project/redner-gpu/, redner-gpu, 0.4.28, Differentiable rendering without approximation., 2020-09-11T18:35:59+0000
+/project/pyformex/, pyformex, 0.9.0, program to create 3D geometry from Python scripts., 2013-06-04T08:17:01+0000
+/project/maxpytest/, maxpytest, 1.0.3, Command line utility for using the Pytest testing framework in 3ds Max, 2019-02-24T13:22:27+0000
+/project/menpo-pyvrml97/, menpo-PyVRML97, 2.3.0a4, VRML97 Scenegraph model for Python, 2014-03-20T11:04:40+0000
+/project/glfw-cffi/, glfw-cffi, 0.2.0, Foreign Function Interface wrapper for GLFW v3.x, 2016-11-25T03:59:34+0000
+/project/moderngl-beta/, ModernGL-beta, 5.0.2, ModernGL: PyOpenGL alternative, 2017-11-21T05:42:23+0000
+/project/fake-bpy-module-2-83/, fake-bpy-module-2.83, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:06+0000
+/project/fake-bpy-module-2-79/, fake-bpy-module-2.79, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:06+0000
+/project/pyvrml97-accelerate/, PyVRML97-accelerate, 2.3.0b1, Scenegraph acceleration code for PyVRML97, 2014-03-21T03:37:03+0000
+/project/pytecplot/, pytecplot, 1.3.3, A python interface to Tecplot 360, 2021-01-11T22:47:23+0000
+/project/glad/, glad, 0.1.34, Multi-Language GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs., 2020-09-07T19:56:10+0000
+/project/cqparts/, cqparts, 0.2.1, Hierarchical and deeply parametric models using cadquery, 2018-05-30T12:21:35+0000
+/project/client-render/, client-render, 0.71, , 2020-07-18T19:13:37+0000
+/project/bpy-build/, bpy-build, 2.1.0, Find Blender sources in version control, create build scripts, 2020-11-18T02:01:27+0000
+/project/harfang/, harfang, 1.2.0, Game/Visualization library, 2019-02-10T08:24:48+0000
+/project/pg/, pg, 0.1, Python OpenGL Graphics Framework, 2014-09-07T02:46:21+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/cioc4d/, cioc4d, 0.2.8, C4D plugin for Conductor Cloud Rendering Platform., 2021-03-17T01:00:26+0000
+/project/lavavu/, lavavu, 1.8.11, Python interface to LavaVu OpenGL 3D scientific visualisation utilities, 2021-04-25T03:03:04+0000
+/project/python-cg/, python-cg, 0.1.3, Python wrapper for NVidia Cg Toolkit, 2013-04-10T09:22:40+0000
+/project/sketchfab/, sketchfab, 0.0.8, Sketchfab client, 2019-10-23T22:14:48+0000
+/project/pi3d/, pi3d, 2.44, pi3d OpenGLES2 3D graphics library, 2021-03-30T13:06:43+0000
+/project/openglcontext/, OpenGLContext, 2.3.0b1, Demonstration and testing contexts for PyOpenGL/OpenGL-ctypes, 2014-03-21T03:37:44+0000
+/project/glcontext/, glcontext, 2.3.3, Portable OpenGL Context, 2021-03-13T15:25:43+0000
+/project/openvr/, openvr, 1.16.801, Unofficial python bindings for Valve OpenVR SDK, 2021-02-26T00:32:36+0000
+/project/vmi/, vmi, 0.6.15, Visual Medical Innovation powered by WANGYiping, 2021-03-09T08:15:24+0000
+/project/fake-bpy-module-2-80/, fake-bpy-module-2.80, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:09+0000
+/project/gridlock/, gridlock, 0.5, Coupled gridding library, 2021-01-09T07:18:04+0000
+/project/bpy/, bpy, 2.82.1, Blender as a python module, 2020-06-27T22:45:41+0000
+/project/vtk/, vtk, 9.0.1, VTK is an open-source toolkit for 3D computer graphics, image processing, and visualization, 2020-06-24T17:36:11+0000
+/project/pymt/, PyMT, 0.5.1, A framework for making accelerated multitouch UI, 2010-09-06T21:04:31+0000
+/project/insight/, insight, 0.140514, Make streaming of your Blender cameras, 2014-05-15T06:43:10+0000
+/project/layerview/, layerview, 0.1.5, LayerView is a G-code visualizer and inspector., 2021-02-26T15:07:49+0000
+/project/flat/, Flat, 0.3.2, Generative infrastructure for Python, 2020-08-30T22:07:20+0000
+/project/moderngl-window/, moderngl-window, 2.3.0, A cross platform helper library for ModernGL making window creation and resource loading simple, 2020-10-24T12:33:38+0000
+/project/open3d/, open3d, 0.12.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-25T00:12:28+0000
+/project/balazarbrothers/, BalazarBrothers, 1.1, A 3D action/puzzle game., 2019-01-12T12:13:34+0000
+/project/ratcave/, ratcave, 1.0.0, 3D Graphics Engine for Scientific, Video Game, and VR Applications., 2020-06-14T19:26:53+0000
+/project/redner/, redner, 0.4.28, Differentiable rendering without approximation., 2020-09-11T18:35:49+0000
+/project/pygl2d/, PyGL2D, 0.3.7, A 2D Graphics Library for PyGame and PyOpenGL., 2012-10-19T15:06:11+0000
+/project/cyglfw3/, cyglfw3, 3.1.0.2, Python bindings for GLFW 3+ using Cython, 2015-10-04T23:37:12+0000
+/project/psivisual/, PsiVisual, 0.1.08, Test Stuff, 2014-08-24T20:44:55+0000
+/project/conductor-maya/, conductor.maya, 0.1.6, Maya plugin for Conductor Cloud Rendering Platform., 2020-04-27T05:52:26+0000
+/project/ciotemplate/, ciotemplate, 0.1.2, Angle bracket template expansion, 2021-03-26T16:18:30+0000
+/project/pyscad/, PySCAD, 0.1, Python based OpenSCAD framework, 2015-07-14T17:23:28+0000
+/project/pyopengl-accelerate/, PyOpenGL-accelerate, 3.1.5, Acceleration code for PyOpenGL, 2020-01-04T02:33:32+0000
+/project/ciocore/, ciocore, 1.0.0, Core functionality for Conductor's client tools, 2021-04-17T17:42:04+0000
+/project/plotoptix/, plotoptix, 0.13.3, Data visualisation in Python based on NVIDIA OptiX ray tracing framework., 2021-03-08T10:37:31+0000
+/project/pyorama/, pyorama, 0.0.2, A performant game engine written in cython., 2020-03-11T20:29:49+0000
+/project/vpython/, vpython, 7.6.1, VPython for Jupyter Notebook, 2020-02-18T04:12:38+0000
+/project/fake-bge-module-0-2-5/, fake-bge-module-0.2.5, 20200804, Collection of the fake Blender Game Engine (BGE) Python API module for the code completion., 2020-08-04T08:34:31+0000
+/project/morphotester/, MorphoTester, 1.0.1, A scientific computing application for measuring topographic shape in 3D anatomical data., 2015-10-02T22:28:24+0000
+/project/pywavefront/, PyWavefront, 1.3.3, Python library for importing Wavefront .obj files, 2020-12-10T04:21:56+0000
+/project/pygly/, pygly, 20121125, Pyglet based 3D Framework, 2012-11-25T02:10:41+0000
+/project/open3d-python/, open3d-python, 0.7.0.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2019-06-06T21:45:31+0000
+/project/conductor-core/, conductor.core, 0.1.2, Core functionality for Conductor's client tools, 2020-04-24T18:44:13+0000
+/project/cqparts-misc/, cqparts-misc, 0.1.0, Miscelaneous content library for cqparts, 2018-03-19T10:40:31+0000
+/project/ciomaya/, ciomaya, 0.2.1, Maya plugin for Conductor Cloud Rendering Platform., 2021-03-25T15:53:04+0000
+/project/fake-blender-api-2-79/, fake-blender-api-2.79, 0.3.1, Fake Blender 2.79 Python API for code completion, including BGE, 2020-04-24T00:00:28+0000
+/project/pyoptix/, pyoptix, 0.10.1, Python wrapper for NVIDIA OptiX, 2017-02-27T04:07:52+0000
+/project/ntracer/, ntracer, 0.10.3, A hyper-spacial ray-tracing library, 2021-02-21T03:59:07+0000
+/project/fake-bpy-module-2-90/, fake-bpy-module-2.90, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:03+0000
+/project/luxcorerender-opencl/, luxcorerender-opencl, 2.0, LuxCore API, 2018-05-06T09:40:48+0000
+/project/renderthreads/, renderthreads, 0.3.5, Package that enables easy command-line multithreaded rendering for Nuke., 2015-07-25T15:02:10+0000
+/project/pegamoid/, Pegamoid, 2.6.1, Orbital viewer for OpenMolcas, 2020-10-21T07:31:29+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/cqparts-fasteners/, cqparts-fasteners, 0.1.0, Nuts, Bolts and Screws content library for cqparts, 2018-03-19T09:17:33+0000
+/project/cioseq/, cioseq, 0.1.13, Manage sequences of frame numbers., 2021-03-26T16:32:00+0000
+/project/ogre-python/, ogre-python, 1.12.12, Object-Oriented Graphics Rendering Engine - python package, 2021-04-21T20:21:31+0000
+/project/fake-bpy-module-2-78/, fake-bpy-module-2.78, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:10+0000
+/project/opendr/, opendr, 0.78, opendr, 2019-03-14T08:01:18+0000
+/project/light-field-distance/, light-field-distance, 0.0.9, light-field-distance is a BSD-licensed package for calculating Light Field Distance from two Wavefront OBJ meshes using OpenGL, 2020-06-12T08:14:12+0000
+/project/surface-reconstruction/, surface-reconstruction, 0.1.3, Import a point cloud file and perform poisson 3D surface reconstruction algorithm, integrated with third-party libraries (e.g. open3d, pymeshlab...), 2021-03-23T18:25:09+0000
+/project/vfxwindow/, vfxwindow, 1.6.1, Qt window class for designing tools to be compatible between multiple VFX programs., 2021-02-11T17:57:40+0000
+/project/prwm/, prwm, 0.0.1, Packed Raw WebGL Model (PRWM) exporter in python, 2018-09-28T15:45:31+0000
+/project/pyopengltk/, pyopengltk, 0.0.3, An opengl frame for pyopengl-tkinter based on ctype, 2019-10-14T10:07:19+0000
+/project/pybgfx/, pybgfx, 1.0.1.dev4, Python bindings for bgfx., 2016-02-17T14:41:52+0000
+/project/pyvrml97/, PyVRML97, 2.3.1, VRML97 Scenegraph model for Python, 2019-12-01T17:23:14+0000
+/project/openscad-runner/, openscad-runner, 1.0.9, A Python library to interface with the OpenSCAD app., 2021-04-13T03:42:59+0000
+/project/ciomax/, ciomax, 0.2.9, Max plugin for Conductor Cloud Rendering Platform., 2021-03-17T02:01:36+0000
+/project/fake-bpy-module-2-91/, fake-bpy-module-2.91, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:02+0000
+/project/visionegg/, visionegg, 1.2.1, 2D/3D visual stimulus generation, 2009-07-21T10:41:59+0000
+/project/dasty/, dasty, 0.1, Dasty: data structure for multi-models and multi-resolutions 3D scenes, 2007-06-26T12:09:01+0000
+/project/pyvulkan/, pyVulkan, 0.9, vulkan API bindings for Python, 2016-10-22T22:52:53+0000
+/project/vulk/, vulk, 0.2.0, Vulk: Advanced 3D engine, 2016-12-27T08:03:38+0000
+/project/slune/, Slune, 1.0.16, A 3D racing and car-crashing game in Python, with multiplayer mode., 2019-01-12T12:11:44+0000
+/project/bpycv/, bpycv, 0.2.39, Computer vision utils for Blender., 2021-04-16T07:24:27+0000
+/project/jupylet/, jupylet, 0.8.7, Python game programming in Jupyter notebooks., 2021-02-01T17:33:08+0000
+/project/openxr/, openxr, 0.0.5, OpenXR bindings for Python., 2020-07-16T05:33:00+0000
+/project/vfxwindow/, vfxwindow, 1.6.1, Qt window class for designing tools to be compatible between multiple VFX programs., 2021-02-11T17:57:40+0000
+/project/prwm/, prwm, 0.0.1, Packed Raw WebGL Model (PRWM) exporter in python, 2018-09-28T15:45:31+0000
+/project/pyopengltk/, pyopengltk, 0.0.3, An opengl frame for pyopengl-tkinter based on ctype, 2019-10-14T10:07:19+0000
+/project/pybgfx/, pybgfx, 1.0.1.dev4, Python bindings for bgfx., 2016-02-17T14:41:52+0000
+/project/pyvrml97/, PyVRML97, 2.3.1, VRML97 Scenegraph model for Python, 2019-12-01T17:23:14+0000
+/project/openscad-runner/, openscad-runner, 1.0.9, A Python library to interface with the OpenSCAD app., 2021-04-13T03:42:59+0000
+/project/ciomax/, ciomax, 0.2.9, Max plugin for Conductor Cloud Rendering Platform., 2021-03-17T02:01:36+0000
+/project/fake-bpy-module-2-91/, fake-bpy-module-2.91, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:02+0000
+/project/visionegg/, visionegg, 1.2.1, 2D/3D visual stimulus generation, 2009-07-21T10:41:59+0000
+/project/dasty/, dasty, 0.1, Dasty: data structure for multi-models and multi-resolutions 3D scenes, 2007-06-26T12:09:01+0000
+/project/pyvulkan/, pyVulkan, 0.9, vulkan API bindings for Python, 2016-10-22T22:52:53+0000
+/project/soya3/, Soya3, 0.1, A practical high-level object-oriented 3D engine for Python., 2014-09-06T17:35:49+0000
+/project/moderngl/, moderngl, 5.6.4, ModernGL: High performance rendering for Python 3, 2021-02-19T00:53:01+0000
+/project/kivy-jetson/, Kivy-jetson, 2.1.0.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2021-02-17T16:47:10+0000
+/project/asciiporn/, asciiporn, 2009.05.01, view color images & 3d scientific plots in ssh terminal   (screenshots using putty ssh terminal included), 2009-05-10T04:52:03+0000
+/project/fake-bpy-module-2-92/, fake-bpy-module-2.92, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:57+0000
+/project/bpycv/, bpycv, 0.2.39, Computer vision utils for Blender., 2021-04-16T07:24:27+0000
+/project/jupylet/, jupylet, 0.8.7, Python game programming in Jupyter notebooks., 2021-02-01T17:33:08+0000
+/project/openxr/, openxr, 0.0.5, OpenXR bindings for Python., 2020-07-16T05:33:00+0000
+/project/vulk/, vulk, 0.2.0, Vulk: Advanced 3D engine, 2016-12-27T08:03:38+0000
+/project/slune/, Slune, 1.0.16, A 3D racing and car-crashing game in Python, with multiplayer mode., 2019-01-12T12:11:44+0000
+/project/zerogravity/, zerogravity, 0.2.0, A python3 polygon mesh to game render library using dokerized blender 3D creation software as backend., 2017-09-04T01:43:44+0000
+/project/fake-bpy-module-2-82/, fake-bpy-module-2.82, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:56+0000
+/project/cqparts-bearings/, cqparts-bearings, 0.1.0, Bearings content library for cqparts, 2018-03-19T02:33:21+0000
+/project/soya/, Soya, 0.16, A practical high-level object-oriented 3D engine for Python., 2019-01-12T12:11:22+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/cloudviewer/, cloudViewer, 0.3.7, ['cloudViewer is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-16T05:46:07+0000
+/project/glitter/, glitter, 0.1.7, Intuitive OpenGL wrappers, 2014-04-11T09:26:12+0000
+/project/ivisual-alt/, IVisual-alt, 0.2.4, VPython visual inline for IPython Notebook, 2015-09-23T05:22:35+0000
+/project/openscad-docsgen/, openscad-docsgen, 1.4.0, A processor to generate Markdown code documentation from OpenSCAD source comments., 2021-04-25T07:57:11+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/fruitloop/, fruitloop, 0.6, 3D Graphics Engine for CAVE VR setups, 2017-09-01T13:02:47+0000
+/project/peng3d/, peng3d, 1.11.0, Python and pyglet based 3D Engine and toolkit, 2021-01-16T13:16:54+0000
+/project/twitchoglc/, twitchoglc, 2.0.1, Quake-style PK3/BSP(3) file loader, 2019-11-22T18:22:44+0000
+/project/cioclarisse/, cioclarisse, 0.1.13, Clarisse plugin for Conductor Cloud Rendering Platform., 2021-03-17T01:47:07+0000
+/project/openglcontext-qt/, OpenGLContext_qt, 1.0.0a3, PyQt4/PySide context for OpenGLContext, 2013-10-07T04:26:32+0000
+/project/pyimagevideo/, pyimagevideo, 1.0.1, Demos of OpenCV, read/write videos, etc., 2019-05-29T08:16:56+0000
+/project/threevis/, threevis, 0.1.0.post25, Visualize meshes, point clouds, and other geometry in a Jupyter Notebook, 2018-03-22T08:31:51+0000
+/project/redner-test/, redner-test, 0.0.1, Differentiable rendering without approximation., 2020-02-02T22:17:59+0000
+/project/opengl-registry/, opengl-registry, 0.3.1, A simple tool for extracting information from the OpenGL API Registry, 2021-02-08T01:05:47+0000
+/project/bpy-cuda/, bpy-cuda, 2.82, Blender with CUDA support as a python module, 2020-06-23T23:39:34+0000
+/project/lavavu-osmesa/, lavavu-osmesa, 1.8.11, Python interface to LavaVu OpenGL 3D scientific visualisation utilities, 2021-04-25T02:57:44+0000
+/project/redner-gpu/, redner-gpu, 0.4.28, Differentiable rendering without approximation., 2020-09-11T18:35:59+0000
+/project/pyformex/, pyformex, 0.9.0, program to create 3D geometry from Python scripts., 2013-06-04T08:17:01+0000
+/project/bpy-optix/, bpy-optix, 2.82, Blender with Optix support as a python module, 2020-06-23T23:59:22+0000
+/project/panda3d/, Panda3D, 1.10.9, Panda3D is a framework for 3D rendering and game development for Python and C++ programs., 2021-03-26T11:05:37+0000
+/project/raysect/, raysect, 0.7.0, A Ray-tracing Framework for Science and Engineering, 2020-11-07T23:34:27+0000
+/project/ivisual/, IVisual, 0.2.88, VPython visual inline for IPython Notebook, 2016-02-10T21:40:36+0000
+/project/maxpytest/, maxpytest, 1.0.3, Command line utility for using the Pytest testing framework in 3ds Max, 2019-02-24T13:22:27+0000
+/project/menpo-pyvrml97/, menpo-PyVRML97, 2.3.0a4, VRML97 Scenegraph model for Python, 2014-03-20T11:04:40+0000
+/project/pymt/, PyMT, 0.5.1, A framework for making accelerated multitouch UI, 2010-09-06T21:04:31+0000
+/project/insight/, insight, 0.140514, Make streaming of your Blender cameras, 2014-05-15T06:43:10+0000
+/project/layerview/, layerview, 0.1.5, LayerView is a G-code visualizer and inspector., 2021-02-26T15:07:49+0000
+/project/moderngl-beta/, ModernGL-beta, 5.0.2, ModernGL: PyOpenGL alternative, 2017-11-21T05:42:23+0000
+/project/fake-bpy-module-2-83/, fake-bpy-module-2.83, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:06+0000
+/project/fake-bpy-module-2-79/, fake-bpy-module-2.79, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:06+0000
+/project/pyvrml97-accelerate/, PyVRML97-accelerate, 2.3.0b1, Scenegraph acceleration code for PyVRML97, 2014-03-21T03:37:03+0000
+/project/flat/, Flat, 0.3.2, Generative infrastructure for Python, 2020-08-30T22:07:20+0000
+/project/moderngl-window/, moderngl-window, 2.3.0, A cross platform helper library for ModernGL making window creation and resource loading simple, 2020-10-24T12:33:38+0000
+/project/pytecplot/, pytecplot, 1.3.3, A python interface to Tecplot 360, 2021-01-11T22:47:23+0000
+/project/open3d/, open3d, 0.12.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-25T00:12:28+0000
+/project/balazarbrothers/, BalazarBrothers, 1.1, A 3D action/puzzle game., 2019-01-12T12:13:34+0000
+/project/ratcave/, ratcave, 1.0.0, 3D Graphics Engine for Scientific, Video Game, and VR Applications., 2020-06-14T19:26:53+0000
+/project/client-render/, client-render, 0.71, , 2020-07-18T19:13:37+0000
+/project/cioc4d/, cioc4d, 0.2.8, C4D plugin for Conductor Cloud Rendering Platform., 2021-03-17T01:00:26+0000
+/project/lavavu/, lavavu, 1.8.11, Python interface to LavaVu OpenGL 3D scientific visualisation utilities, 2021-04-25T03:03:04+0000
+/project/python-cg/, python-cg, 0.1.3, Python wrapper for NVidia Cg Toolkit, 2013-04-10T09:22:40+0000
+/project/sketchfab/, sketchfab, 0.0.8, Sketchfab client, 2019-10-23T22:14:48+0000
+/project/cyglfw3/, cyglfw3, 3.1.0.2, Python bindings for GLFW 3+ using Cython, 2015-10-04T23:37:12+0000
+/project/plotoptix/, plotoptix, 0.13.3, Data visualisation in Python based on NVIDIA OptiX ray tracing framework., 2021-03-08T10:37:31+0000
+/project/fake-bpy-module-2-90/, fake-bpy-module-2.90, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:03+0000
+/project/luxcorerender-opencl/, luxcorerender-opencl, 2.0, LuxCore API, 2018-05-06T09:40:48+0000
+/project/pyorama/, pyorama, 0.0.2, A performant game engine written in cython., 2020-03-11T20:29:49+0000
+/project/vpython/, vpython, 7.6.1, VPython for Jupyter Notebook, 2020-02-18T04:12:38+0000
+/project/fake-bge-module-0-2-5/, fake-bge-module-0.2.5, 20200804, Collection of the fake Blender Game Engine (BGE) Python API module for the code completion., 2020-08-04T08:34:31+0000
+/project/glfw-cffi/, glfw-cffi, 0.2.0, Foreign Function Interface wrapper for GLFW v3.x, 2016-11-25T03:59:34+0000
+/project/fake-bpy-module-2-80/, fake-bpy-module-2.80, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:09+0000
+/project/gridlock/, gridlock, 0.5, Coupled gridding library, 2021-01-09T07:18:04+0000
+/project/bpy/, bpy, 2.82.1, Blender as a python module, 2020-06-27T22:45:41+0000
+/project/vtk/, vtk, 9.0.1, VTK is an open-source toolkit for 3D computer graphics, image processing, and visualization, 2020-06-24T17:36:11+0000
+/project/glad/, glad, 0.1.34, Multi-Language GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs., 2020-09-07T19:56:10+0000
+/project/cqparts/, cqparts, 0.2.1, Hierarchical and deeply parametric models using cadquery, 2018-05-30T12:21:35+0000
+/project/bpy-build/, bpy-build, 2.1.0, Find Blender sources in version control, create build scripts, 2020-11-18T02:01:27+0000
+/project/harfang/, harfang, 1.2.0, Game/Visualization library, 2019-02-10T08:24:48+0000
+/project/pg/, pg, 0.1, Python OpenGL Graphics Framework, 2014-09-07T02:46:21+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/redner/, redner, 0.4.28, Differentiable rendering without approximation., 2020-09-11T18:35:49+0000
+/project/pygl2d/, PyGL2D, 0.3.7, A 2D Graphics Library for PyGame and PyOpenGL., 2012-10-19T15:06:11+0000
+/project/psivisual/, PsiVisual, 0.1.08, Test Stuff, 2014-08-24T20:44:55+0000
+/project/conductor-maya/, conductor.maya, 0.1.6, Maya plugin for Conductor Cloud Rendering Platform., 2020-04-27T05:52:26+0000
+/project/ciotemplate/, ciotemplate, 0.1.2, Angle bracket template expansion, 2021-03-26T16:18:30+0000
+/project/pi3d/, pi3d, 2.44, pi3d OpenGLES2 3D graphics library, 2021-03-30T13:06:43+0000
+/project/openglcontext/, OpenGLContext, 2.3.0b1, Demonstration and testing contexts for PyOpenGL/OpenGL-ctypes, 2014-03-21T03:37:44+0000
+/project/glcontext/, glcontext, 2.3.3, Portable OpenGL Context, 2021-03-13T15:25:43+0000
+/project/pyscad/, PySCAD, 0.1, Python based OpenSCAD framework, 2015-07-14T17:23:28+0000
+/project/pyopengl-accelerate/, PyOpenGL-accelerate, 3.1.5, Acceleration code for PyOpenGL, 2020-01-04T02:33:32+0000
+/project/ciocore/, ciocore, 1.0.0, Core functionality for Conductor's client tools, 2021-04-17T17:42:04+0000
+/project/openvr/, openvr, 1.16.801, Unofficial python bindings for Valve OpenVR SDK, 2021-02-26T00:32:36+0000
+/project/vmi/, vmi, 0.6.15, Visual Medical Innovation powered by WANGYiping, 2021-03-09T08:15:24+0000
+/project/morphotester/, MorphoTester, 1.0.1, A scientific computing application for measuring topographic shape in 3D anatomical data., 2015-10-02T22:28:24+0000
+/project/pywavefront/, PyWavefront, 1.3.3, Python library for importing Wavefront .obj files, 2020-12-10T04:21:56+0000
+/project/pygly/, pygly, 20121125, Pyglet based 3D Framework, 2012-11-25T02:10:41+0000
+/project/open3d-python/, open3d-python, 0.7.0.0, ['Open3D is an open-source library that supports rapid development of software that deals with 3D data.'], 2019-06-06T21:45:31+0000
+/project/cqparts-misc/, cqparts-misc, 0.1.0, Miscelaneous content library for cqparts, 2018-03-19T10:40:31+0000
+/project/ciomaya/, ciomaya, 0.2.1, Maya plugin for Conductor Cloud Rendering Platform., 2021-03-25T15:53:04+0000
+/project/fake-blender-api-2-79/, fake-blender-api-2.79, 0.3.1, Fake Blender 2.79 Python API for code completion, including BGE, 2020-04-24T00:00:28+0000
+/project/openscad-docsgen/, openscad-docsgen, 1.4.1, A processor to generate Markdown code documentation from OpenSCAD source comments., 2021-04-25T08:40:10+0000
+/project/pyoptix/, pyoptix, 0.10.1, Python wrapper for NVIDIA OptiX, 2017-02-27T04:07:52+0000
+/project/ntracer/, ntracer, 0.10.3, A hyper-spacial ray-tracing library, 2021-02-21T03:59:07+0000
+/project/renderthreads/, renderthreads, 0.3.5, Package that enables easy command-line multithreaded rendering for Nuke., 2015-07-25T15:02:10+0000
+/project/conductor-core/, conductor.core, 0.1.2, Core functionality for Conductor's client tools, 2020-04-24T18:44:13+0000
+/project/pegamoid/, Pegamoid, 2.6.1, Orbital viewer for OpenMolcas, 2020-10-21T07:31:29+0000
+/project/pyforms-web/, PyForms-Web, 4.2.0, Pyforms Web is Python 3 framework to create single-page web applications., 2020-01-03T10:30:19+0000
+/project/cqparts-fasteners/, cqparts-fasteners, 0.1.0, Nuts, Bolts and Screws content library for cqparts, 2018-03-19T09:17:33+0000
+/project/py-sphviewer/, py-sphviewer, 1.2.4, Py-SPHViewer is a framework for rendering particles using the smoothed particle hydrodynamics scheme., 2021-03-24T15:21:50+0000
+/project/zerogravity/, zerogravity, 0.2.0, A python3 polygon mesh to game render library using dokerized blender 3D creation software as backend., 2017-09-04T01:43:44+0000
+/project/fake-bpy-module-2-82/, fake-bpy-module-2.82, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:56+0000
+/project/cqparts-bearings/, cqparts-bearings, 0.1.0, Bearings content library for cqparts, 2018-03-19T02:33:21+0000
+/project/soya/, Soya, 0.16, A practical high-level object-oriented 3D engine for Python., 2019-01-12T12:11:22+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/cloudviewer/, cloudViewer, 0.3.7, ['cloudViewer is an open-source library that supports rapid development of software that deals with 3D data.'], 2020-12-16T05:46:07+0000
+/project/glitter/, glitter, 0.1.7, Intuitive OpenGL wrappers, 2014-04-11T09:26:12+0000
+/project/ivisual-alt/, IVisual-alt, 0.2.4, VPython visual inline for IPython Notebook, 2015-09-23T05:22:35+0000
+/project/rendascii/, rendascii, 1.0.0a3, Real-time ASCII 3D rendering engine, 2020-05-28T22:02:50+0000
+/project/unified-plotting/, unified-plotting, 0.5.0rc1, Quick and easy plotting of tabular and network data., 2020-05-19T15:13:58+0000
+/project/oogli/, oogli, 0.1.0, Oogli is a beautiful object oriented graphics library interface, 2016-02-12T19:09:12+0000
+/project/df3tools/, df3tools, 0.1.0, Tools to convert Pov-Ray DF3 files to set of images and vice versa, 2017-12-03T16:53:58+0000
+/project/omero-3dscript/, OMERO-3Dscript, 0.0.5, OMERO.web app to animate multi-dimensional microscopy using 3Dscript, directly from within the OMERO environment., 2020-11-06T21:49:59+0000
+/project/cupoch/, cupoch, 0.1.9.1, ['Cupoc: Robotics with GPU computing'], 2021-04-06T16:26:01+0000
+/project/assimpcy/, AssimpCy, 1.1.1, Faster Python bindings for Assimp., 2018-02-04T11:03:26+0000
+/project/assimpcy/, AssimpCy, 1.1.1, Faster Python bindings for Assimp., 2018-02-04T11:03:26+0000
+/project/uncrumpled-kivy/, uncrumpled_kivy, 1.9.2.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2017-04-15T08:41:16+0000
+/project/vulk/, vulk, 0.2.0, Vulk: Advanced 3D engine, 2016-12-27T08:03:38+0000
+/project/slune/, Slune, 1.0.16, A 3D racing and car-crashing game in Python, with multiplayer mode., 2019-01-12T12:11:44+0000
+/project/py-sphviewer/, py-sphviewer, 1.2.4, Py-SPHViewer is a framework for rendering particles using the smoothed particle hydrodynamics scheme., 2021-03-24T15:21:50+0000
+/project/fake-bpy-module-2-82/, fake-bpy-module-2.82, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:56+0000
+/project/fake-bpy-module-2-78/, fake-bpy-module-2.78, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:10+0000
+/project/plow/, plow, 0.4.4, Python client for the Plow render farm, 2013-05-27T11:08:14+0000
+/project/punyverse/, punyverse, 1.2, Python simulator of a puny universe., 2018-12-01T06:41:42+0000
+/project/opendr/, opendr, 0.78, opendr, 2019-03-14T08:01:18+0000
+/project/light-field-distance/, light-field-distance, 0.0.9, light-field-distance is a BSD-licensed package for calculating Light Field Distance from two Wavefront OBJ meshes using OpenGL, 2020-06-12T08:14:12+0000
+/project/kivy-jetson/, Kivy-jetson, 2.1.0.dev0, A software library for rapid development of hardware-accelerated multitouch applications., 2021-02-17T16:47:10+0000
+/project/pyopengl/, PyOpenGL, 3.1.5, Standard OpenGL bindings for Python, 2020-01-04T02:33:59+0000
+/project/fake-bpy-module-2-92/, fake-bpy-module-2.92, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:57+0000
+/project/bpycv/, bpycv, 0.2.39, Computer vision utils for Blender., 2021-04-16T07:24:27+0000
+/project/jupylet/, jupylet, 0.8.7, Python game programming in Jupyter notebooks., 2021-02-01T17:33:08+0000
+/project/openxr/, openxr, 0.0.5, OpenXR bindings for Python., 2020-07-16T05:33:00+0000
+/project/prwm/, prwm, 0.0.1, Packed Raw WebGL Model (PRWM) exporter in python, 2018-09-28T15:45:31+0000
+/project/pyopengltk/, pyopengltk, 0.0.3, An opengl frame for pyopengl-tkinter based on ctype, 2019-10-14T10:07:19+0000
+/project/pybgfx/, pybgfx, 1.0.1.dev4, Python bindings for bgfx., 2016-02-17T14:41:52+0000
+/project/asciiporn/, asciiporn, 2009.05.01, view color images & 3d scientific plots in ssh terminal   (screenshots using putty ssh terminal included), 2009-05-10T04:52:03+0000
+/project/buildcat/, buildcat, 0.3.0, Lightweight, flexible render farm based on RQ and Redis., 2021-03-30T21:09:50+0000
+/project/surface-reconstruction/, surface-reconstruction, 0.1.3, Import a point cloud file and perform poisson 3D surface reconstruction algorithm, integrated with third-party libraries (e.g. open3d, pymeshlab...), 2021-03-23T18:25:09+0000
+/project/pyopengl/, PyOpenGL, 3.1.5, Standard OpenGL bindings for Python, 2020-01-04T02:33:59+0000
+/project/fake-bpy-module-2-92/, fake-bpy-module-2.92, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:57+0000
+/project/cioseq/, cioseq, 0.1.13, Manage sequences of frame numbers., 2021-03-26T16:32:00+0000
+/project/luxcorerender/, luxcorerender, 2.0, LuxCore API, 2018-05-06T09:18:41+0000
+/project/ogre-python/, ogre-python, 1.12.12, Object-Oriented Graphics Rendering Engine - python package, 2021-04-21T20:21:31+0000
+/project/fake-bpy-module-2-78/, fake-bpy-module-2.78, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:20:10+0000
+/project/pycsdl2/, pycsdl2, 2.0.0.0.dev5, Simple DirectMedia Layer, 2015-10-25T16:03:05+0000
+/project/fake-bpy-module-2-81/, fake-bpy-module-2.81, 20210304, Collection of the fake Blender Python API module for the code completion., 2021-03-04T04:19:57+0000
+/project/plow/, plow, 0.4.4, Python client for the Plow render farm, 2013-05-27T11:08:14+0000
+/project/punyverse/, punyverse, 1.2, Python simulator of a puny universe., 2018-12-01T06:41:42+0000
+/project/opendr/, opendr, 0.78, opendr, 2019-03-14T08:01:18+0000
+/project/light-field-distance/, light-field-distance, 0.0.9, light-field-distance is a BSD-licensed package for calculating Light Field Distance from two Wavefront OBJ meshes using OpenGL, 2020-06-12T08:14:12+0000

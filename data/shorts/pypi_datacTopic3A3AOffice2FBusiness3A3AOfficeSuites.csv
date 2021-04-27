@@ -1,0 +1,138 @@
+/project/unotools/, unotools, 0.3.3, Interacting with OpenOffice.org/LibreOffice using UNO, 2015-03-21T06:24:49+0000
+/project/godslayer/, godslayer, 1.1.0, Provides generator to read Kami (god) CSV record as list of string., 2020-08-17T11:13:00+0000
+/project/obasync/, obasync, 0.10, Office Basic macro source synchronizer, 2017-05-15T06:56:35+0000
+/project/ezodf/, ezodf, 0.3.2, A Python package to create/manipulate OpenDocumentFormat files., 2015-12-14T06:48:54+0000
+/project/asciaf/, asciaf, 1.0.0, A Python project for AppStudio CI automation, 2015-04-14T11:34:33+0000
+/project/visio2img/, visio2img, 1.3.0, MS-Visio file (.vsd, .vsdx) to images converter, 2016-05-17T13:56:22+0000
+/project/odfsvn/, odfsvn, 1.0a1, Manage ODF files in SubVersioN, 2008-01-17T12:36:53+0000
+/project/zotero-word-items-to-collection/, zotero-word-items-to-collection, 0.1, Create Zotero collections from Word files, 2020-09-04T08:44:49+0000
+/project/ezno-convert/, ezno-convert, 0.0.5b4, Convert office files quickly and easily through CLI, GUI, or windows explorer context menu, 2021-02-10T05:35:47+0000
+/project/o365/, O365, 2.0.14, Microsoft Graph and Office 365 API made easy, 2021-01-28T13:12:54+0000
+/project/hyo-bagexplorer/, hyo.bagexplorer, 0.5.7, An application to browse and manage BAG files., 2018-06-21T12:30:56+0000
+/project/unoconv/, unoconv, 0.9.0, Universal Office Converter - Office document conversion, 2019-10-21T18:32:22+0000
+/project/python-pptx/, python-pptx, 0.6.18, Generate and manipulate Open XML PowerPoint (.pptx) files, 2019-05-03T00:31:36+0000
+/project/pics2word/, pics2word, 0.9.7, A command line program to copy a large number of pictures into a word document., 2018-04-06T13:14:01+0000
+/project/pyexcel-ezodf/, pyexcel-ezodf, 0.3.4, A Python package to create/manipulate OpenDocumentFormat files, 2017-10-23T17:29:13+0000
+/project/oxcli/, oxcli, 0.0.2, command line interface for Open-Xchange, 2016-07-24T16:19:58+0000
+/project/office365api/, Office365Api, 0.0.9, Python library for working with Microsoft Office 365, 2017-08-28T21:55:59+0000
+/project/hyo-soundspeed/, hyo.soundspeed, 2018.1.1, A library and an application to manage sound speed profiles., 2018-02-17T17:17:58+0000
+/project/x2y/, x2y, 0.1.0, x2y: convert line ending between DOS, Mac and Unix, 2015-04-20T09:29:35+0000
+/project/python-pptx-templater/, python-pptx-templater, 1.1.15, Create customizable PowerPoint Presentation (.pptx) using a predefined layout template, 2019-10-27T18:48:32+0000
+/project/ezodf2/, ezodf2, 0.2.10, A Python package to create/manipulate OpenDocumentFormat files., 2013-07-27T04:03:10+0000
+/project/open-pyxl-sql/, open-pyxl-sql, 0.11.0, A tiny SQL engine for Excel files, based on Openpyxl, 2020-12-28T16:08:44+0000
+/project/timetravel/, timetravel, 1.0, A time machine for your calendar., 2016-11-08T21:12:17+0000
+/project/django-goodgrids/, django-goodgrids, 0.1.3, Create Excel files from CSVs using the GoodGrids API, based on an example Excel file template., 2018-05-04T15:09:50+0000
+/project/groupdocs-classification-cloud/, groupdocs-classification-cloud, 19.3.0, GroupDocs.Classification Cloud API References, 2019-04-01T12:42:12+0000
+/project/sad/, sad, 1.0.0, Spreadsheets as data: spreadsheet handling for humans, 2018-02-19T21:56:32+0000
+/project/hydroffice-soundspeed/, hydroffice.soundspeed, 2017.0.0, A library and an application to manage sound speed profiles., 2017-03-18T02:56:10+0000
+/project/off2txt/, off2txt, 0.1.0, off2txt: extract text from Office files, 2015-04-16T08:51:32+0000
+/project/ooopy/, OOoPy, 2.0, OOoPy: Modify OpenOffice.org documents in Python, 2020-02-06T21:58:50+0000
+/project/ooo-macro-exchange/, ooo-macro-exchange, 0.2.2, Routines and CLI to facilitate injection/extraction of OpenOffice.org macros., 2010-10-25T04:25:16+0000
+/project/ooopy-alt/, OOoPy-alt, 1.11, OOoPy: Modify OpenOffice.org documents in Python, 2017-08-30T17:19:08+0000
+/project/pptx-downsizer/, pptx-downsizer, 0.1.3, Tool for downsizing Microsoft PowerPoint pptx presentations., 2017-08-24T16:02:35+0000
+/project/openxmllib-py3/, openxmllib-py3, 2.0.0, Provides resources to handle OpenXML documents., 2020-10-19T03:15:13+0000
+/project/pylokit/, pylokit, 0.8.1, Python CFFI wrapper for LibreOfficeKit, 2016-01-28T12:29:01+0000
+/project/tp-python-docx/, tp-python-docx, 0.8.5, hacky talentpair fork of python-docx, 2016-09-16T22:21:05+0000
+/project/onedrive-sync-client/, onedrive-sync-client, 0.2.4, OneDrive Client with Two-way Synchronizing Feature, 2018-08-16T03:21:24+0000
+/project/django-wysiwyg/, django-wysiwyg, 0.8.0, django-wysiwyg, 2016-08-17T16:17:05+0000
+/project/django-quilljs/, django-quilljs, 0.0.2, Easily use Quill.js in your django admin., 2019-02-09T20:43:56+0000
+/project/opc-diag/, opc-diag, 1.0.0, Browse and diff Microsoft Office .docx, .xlsx, and .pptx files., 2014-01-31T08:42:08+0000
+/project/docx-xslt/, docx-xslt, 1.0.4, XSL transformation for Microsoft Word .docx files, 2015-03-05T15:08:10+0000
+/project/hdf-compass/, hdf_compass, 0.6.0, An experimental viewer program for HDF5 and related formats., 2016-06-15T12:55:23+0000
+/project/officeextractor/, officeextractor, 0.1.1, officeextractor extracts media files (images, videos, music) from Microsoft Office and LibreOffice files., 2020-12-01T10:01:19+0000
+/project/pyo365/, pyo365, 0.1.3, A simple python library to interact with Microsoft Graph and Office 365 API, 2018-10-30T22:32:22+0000
+/project/excel2img/, excel2img, 1.4.0, Save ranges from Excel documents as images, 2018-12-21T19:00:07+0000
+/project/docx2pdf/, docx2pdf, 0.1.7, Convert docx to pdf on Windows or macOS directly using Microsoft Word (must be installed)., 2020-04-28T00:50:57+0000
+/project/aspose-tasks-cloud/, aspose-tasks-cloud, 21.2.0, Aspose.Tasks Cloud API Reference, 2021-03-01T17:02:30+0000
+/project/pptgen/, pptgen, 0.2.1, Make PowerPoint presentations from data, 2017-11-01T11:19:55+0000
+/project/openxmllib/, openxmllib, 1.1.1, Provides resources to handle OpenXML documents., 2016-12-15T13:15:54+0000
+/project/aspose-words-cloud/, aspose-words-cloud, 21.4.0, Python Cloud SDK wraps Aspose.Words Cloud API so you could seamlessly integrate Microsoft Word file generation, manipulation, conversion & inspection features into your own python applications., 2021-04-16T00:16:14+0000
+/project/ecreall-trashcan/, ecreall.trashcan, 1.7.2, Trashcan for Plone. By Ecreall., 2017-01-04T11:06:17+0000
+/project/mswordtree/, mswordtree, 0.1.1.7, Get the parsed microsoft word document in a hierarchical tree structure., 2019-11-17T06:05:02+0000
+/project/hyo2-bag/, hyo2.bag, 1.0.0, A package to manage Bathymetric Attributed Grid (BAG) data files., 2018-12-02T20:06:02+0000
+/project/custom-python-docx/, custom-python-docx, 0.8.8, Bgo Education: Create and update Microsoft Word .docx files., 2019-01-17T14:20:16+0000
+/project/pyoo/, pyoo, 1.4, Pythonic interface to Apache OpenOffice API (UNO), 2019-08-21T17:16:55+0000
+/project/gdoc-down/, gdoc-down, 0.0.10, Download Google documents to files, 2020-07-20T03:06:52+0000
+/project/groupdocs-assembly-cloud/, groupdocs-assembly-cloud, 21.1.0, GroupDocs.Assembly for Cloud API Reference, 2021-02-16T07:44:22+0000
+/project/ulif-openoffice/, ulif.openoffice, 1.1.1, Run OpenOffice as web service., 2015-07-23T16:03:51+0000
+/project/docxsphinx/, docxsphinx, 1.0.0, Sphinx docx builder extension., 2020-11-18T15:13:15+0000
+/project/oodocument/, oodocument, 0.0.8, Basic tasks to convert and replace files using uno api, 2021-03-05T12:34:21+0000
+/project/libcfbf/, libcfbf, 0.4, An implementation of Microsoft's Compound File Binary Format, 2020-11-20T22:47:07+0000
+/project/flask-session-plus/, flask-session-plus, 0.6.2, Flask Multiple Sessions Interface (combine multiple sessions with different backends), 2019-01-21T10:33:48+0000
+/project/pyxll/, pyxll, 5.1.0, Write Microsoft Excel Add-Ins in Python, 2021-03-24T16:50:54+0000
+/project/python-docx-whtsky/, python-docx-whtsky, 0.8.10.3, Create and update Microsoft Word .docx files., 2019-11-11T08:55:28+0000
+/project/office365api-27/, Office365Api-27, 0.0.7, Python library for working with Microsoft Office 365, 2017-06-02T15:39:53+0000
+/project/python-pptx-valutico/, python-pptx-valutico, 0.6.23, Generate and manipulate Open XML PowerPoint (.pptx) files, 2019-12-18T10:22:02+0000
+/project/hyo-bag/, hyo.bag, 0.5.7, A package to manage Bathymetric Attributed Grid (BAG) data files., 2018-06-21T12:20:32+0000
+/project/django-oot/, django-oot, 0.8.4, Django application to export content to OpenOffice documents, 2011-01-27T16:22:58+0000
+/project/sphinxcontrib-visio/, sphinxcontrib-visio, 2.1.2, Sphinx "visio" extension; embed MS-Visio file (.vsd, .vsdx), 2016-05-18T03:26:50+0000
+/project/python-docx/, python-docx, 0.8.10, Create and update Microsoft Word .docx files., 2019-01-09T07:16:21+0000
+/project/godslayer/, godslayer, 1.1.0, Provides generator to read Kami (god) CSV record as list of string., 2020-08-17T11:13:00+0000
+/project/asciaf/, asciaf, 1.0.0, A Python project for AppStudio CI automation, 2015-04-14T11:34:33+0000
+/project/visio2img/, visio2img, 1.3.0, MS-Visio file (.vsd, .vsdx) to images converter, 2016-05-17T13:56:22+0000
+/project/ezodf/, ezodf, 0.3.2, A Python package to create/manipulate OpenDocumentFormat files., 2015-12-14T06:48:54+0000
+/project/unotools/, unotools, 0.3.3, Interacting with OpenOffice.org/LibreOffice using UNO, 2015-03-21T06:24:49+0000
+/project/odfsvn/, odfsvn, 1.0a1, Manage ODF files in SubVersioN, 2008-01-17T12:36:53+0000
+/project/zotero-word-items-to-collection/, zotero-word-items-to-collection, 0.1, Create Zotero collections from Word files, 2020-09-04T08:44:49+0000
+/project/obasync/, obasync, 0.10, Office Basic macro source synchronizer, 2017-05-15T06:56:35+0000
+/project/django-goodgrids/, django-goodgrids, 0.1.3, Create Excel files from CSVs using the GoodGrids API, based on an example Excel file template., 2018-05-04T15:09:50+0000
+/project/groupdocs-classification-cloud/, groupdocs-classification-cloud, 19.3.0, GroupDocs.Classification Cloud API References, 2019-04-01T12:42:12+0000
+/project/sad/, sad, 1.0.0, Spreadsheets as data: spreadsheet handling for humans, 2018-02-19T21:56:32+0000
+/project/pyexcel-ezodf/, pyexcel-ezodf, 0.3.4, A Python package to create/manipulate OpenDocumentFormat files, 2017-10-23T17:29:13+0000
+/project/oxcli/, oxcli, 0.0.2, command line interface for Open-Xchange, 2016-07-24T16:19:58+0000
+/project/office365api/, Office365Api, 0.0.9, Python library for working with Microsoft Office 365, 2017-08-28T21:55:59+0000
+/project/hydroffice-soundspeed/, hydroffice.soundspeed, 2017.0.0, A library and an application to manage sound speed profiles., 2017-03-18T02:56:10+0000
+/project/pylokit/, pylokit, 0.8.1, Python CFFI wrapper for LibreOfficeKit, 2016-01-28T12:29:01+0000
+/project/ezno-convert/, ezno-convert, 0.0.5b4, Convert office files quickly and easily through CLI, GUI, or windows explorer context menu, 2021-02-10T05:35:47+0000
+/project/open-pyxl-sql/, open-pyxl-sql, 0.11.0, A tiny SQL engine for Excel files, based on Openpyxl, 2020-12-28T16:08:44+0000
+/project/timetravel/, timetravel, 1.0, A time machine for your calendar., 2016-11-08T21:12:17+0000
+/project/o365/, O365, 2.0.14, Microsoft Graph and Office 365 API made easy, 2021-01-28T13:12:54+0000
+/project/hyo-bagexplorer/, hyo.bagexplorer, 0.5.7, An application to browse and manage BAG files., 2018-06-21T12:30:56+0000
+/project/unoconv/, unoconv, 0.9.0, Universal Office Converter - Office document conversion, 2019-10-21T18:32:22+0000
+/project/python-pptx/, python-pptx, 0.6.18, Generate and manipulate Open XML PowerPoint (.pptx) files, 2019-05-03T00:31:36+0000
+/project/pics2word/, pics2word, 0.9.7, A command line program to copy a large number of pictures into a word document., 2018-04-06T13:14:01+0000
+/project/off2txt/, off2txt, 0.1.0, off2txt: extract text from Office files, 2015-04-16T08:51:32+0000
+/project/ooopy/, OOoPy, 2.0, OOoPy: Modify OpenOffice.org documents in Python, 2020-02-06T21:58:50+0000
+/project/hyo-soundspeed/, hyo.soundspeed, 2018.1.1, A library and an application to manage sound speed profiles., 2018-02-17T17:17:58+0000
+/project/ooo-macro-exchange/, ooo-macro-exchange, 0.2.2, Routines and CLI to facilitate injection/extraction of OpenOffice.org macros., 2010-10-25T04:25:16+0000
+/project/ooopy-alt/, OOoPy-alt, 1.11, OOoPy: Modify OpenOffice.org documents in Python, 2017-08-30T17:19:08+0000
+/project/x2y/, x2y, 0.1.0, x2y: convert line ending between DOS, Mac and Unix, 2015-04-20T09:29:35+0000
+/project/python-pptx-templater/, python-pptx-templater, 1.1.15, Create customizable PowerPoint Presentation (.pptx) using a predefined layout template, 2019-10-27T18:48:32+0000
+/project/ezodf2/, ezodf2, 0.2.10, A Python package to create/manipulate OpenDocumentFormat files., 2013-07-27T04:03:10+0000
+/project/pptx-downsizer/, pptx-downsizer, 0.1.3, Tool for downsizing Microsoft PowerPoint pptx presentations., 2017-08-24T16:02:35+0000
+/project/openxmllib-py3/, openxmllib-py3, 2.0.0, Provides resources to handle OpenXML documents., 2020-10-19T03:15:13+0000
+/project/tp-python-docx/, tp-python-docx, 0.8.5, hacky talentpair fork of python-docx, 2016-09-16T22:21:05+0000
+/project/onedrive-sync-client/, onedrive-sync-client, 0.2.4, OneDrive Client with Two-way Synchronizing Feature, 2018-08-16T03:21:24+0000
+/project/django-wysiwyg/, django-wysiwyg, 0.8.0, django-wysiwyg, 2016-08-17T16:17:05+0000
+/project/django-quilljs/, django-quilljs, 0.0.2, Easily use Quill.js in your django admin., 2019-02-09T20:43:56+0000
+/project/opc-diag/, opc-diag, 1.0.0, Browse and diff Microsoft Office .docx, .xlsx, and .pptx files., 2014-01-31T08:42:08+0000
+/project/docx-xslt/, docx-xslt, 1.0.4, XSL transformation for Microsoft Word .docx files, 2015-03-05T15:08:10+0000
+/project/python-docx-whtsky/, python-docx-whtsky, 0.8.10.3, Create and update Microsoft Word .docx files., 2019-11-11T08:55:28+0000
+/project/office365api-27/, Office365Api-27, 0.0.7, Python library for working with Microsoft Office 365, 2017-06-02T15:39:53+0000
+/project/django-oot/, django-oot, 0.8.4, Django application to export content to OpenOffice documents, 2011-01-27T16:22:58+0000
+/project/groupdocs-assembly-cloud/, groupdocs-assembly-cloud, 21.1.0, GroupDocs.Assembly for Cloud API Reference, 2021-02-16T07:44:22+0000
+/project/ulif-openoffice/, ulif.openoffice, 1.1.1, Run OpenOffice as web service., 2015-07-23T16:03:51+0000
+/project/docxsphinx/, docxsphinx, 1.0.0, Sphinx docx builder extension., 2020-11-18T15:13:15+0000
+/project/oodocument/, oodocument, 0.0.8, Basic tasks to convert and replace files using uno api, 2021-03-05T12:34:21+0000
+/project/ecreall-trashcan/, ecreall.trashcan, 1.7.2, Trashcan for Plone. By Ecreall., 2017-01-04T11:06:17+0000
+/project/mswordtree/, mswordtree, 0.1.1.7, Get the parsed microsoft word document in a hierarchical tree structure., 2019-11-17T06:05:02+0000
+/project/officeextractor/, officeextractor, 0.1.1, officeextractor extracts media files (images, videos, music) from Microsoft Office and LibreOffice files., 2020-12-01T10:01:19+0000
+/project/python-pptx-valutico/, python-pptx-valutico, 0.6.23, Generate and manipulate Open XML PowerPoint (.pptx) files, 2019-12-18T10:22:02+0000
+/project/hyo-bag/, hyo.bag, 0.5.7, A package to manage Bathymetric Attributed Grid (BAG) data files., 2018-06-21T12:20:32+0000
+/project/sphinxcontrib-visio/, sphinxcontrib-visio, 2.1.2, Sphinx "visio" extension; embed MS-Visio file (.vsd, .vsdx), 2016-05-18T03:26:50+0000
+/project/python-docx/, python-docx, 0.8.10, Create and update Microsoft Word .docx files., 2019-01-09T07:16:21+0000
+/project/libcfbf/, libcfbf, 0.4, An implementation of Microsoft's Compound File Binary Format, 2020-11-20T22:47:07+0000
+/project/flask-session-plus/, flask-session-plus, 0.6.2, Flask Multiple Sessions Interface (combine multiple sessions with different backends), 2019-01-21T10:33:48+0000
+/project/pyxll/, pyxll, 5.1.0, Write Microsoft Excel Add-Ins in Python, 2021-03-24T16:50:54+0000
+/project/hyo2-bag/, hyo2.bag, 1.0.0, A package to manage Bathymetric Attributed Grid (BAG) data files., 2018-12-02T20:06:02+0000
+/project/custom-python-docx/, custom-python-docx, 0.8.8, Bgo Education: Create and update Microsoft Word .docx files., 2019-01-17T14:20:16+0000
+/project/pyoo/, pyoo, 1.4, Pythonic interface to Apache OpenOffice API (UNO), 2019-08-21T17:16:55+0000
+/project/gdoc-down/, gdoc-down, 0.0.10, Download Google documents to files, 2020-07-20T03:06:52+0000
+/project/openxmllib/, openxmllib, 1.1.1, Provides resources to handle OpenXML documents., 2016-12-15T13:15:54+0000
+/project/aspose-words-cloud/, aspose-words-cloud, 21.4.0, Python Cloud SDK wraps Aspose.Words Cloud API so you could seamlessly integrate Microsoft Word file generation, manipulation, conversion & inspection features into your own python applications., 2021-04-16T00:16:14+0000
+/project/hdf-compass/, hdf_compass, 0.6.0, An experimental viewer program for HDF5 and related formats., 2016-06-15T12:55:23+0000
+/project/pyo365/, pyo365, 0.1.3, A simple python library to interact with Microsoft Graph and Office 365 API, 2018-10-30T22:32:22+0000
+/project/excel2img/, excel2img, 1.4.0, Save ranges from Excel documents as images, 2018-12-21T19:00:07+0000
+/project/docx2pdf/, docx2pdf, 0.1.7, Convert docx to pdf on Windows or macOS directly using Microsoft Word (must be installed)., 2020-04-28T00:50:57+0000
+/project/aspose-tasks-cloud/, aspose-tasks-cloud, 21.2.0, Aspose.Tasks Cloud API Reference, 2021-03-01T17:02:30+0000
+/project/pptgen/, pptgen, 0.2.1, Make PowerPoint presentations from data, 2017-11-01T11:19:55+0000

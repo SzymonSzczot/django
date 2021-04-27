@@ -1,0 +1,764 @@
+/project/chameleon-genshi/, chameleon.genshi, 1.0b4, Genshi template engine based on Chameleon, 2009-03-05T17:47:29+0000
+/project/loxun/, loxun, 2.0, large output in XML using unicode and namespaces, 2014-07-28T06:35:06+0000
+/project/imprint/, imprint, 0.1a1, Program for creating MS Word reports from data and content templates, 2019-04-03T23:44:26+0000
+/project/nodetree/, NodeTree, 0.3, Pythonic XML Data Binding Package, 2013-01-18T04:26:55+0000
+/project/yatom/, yatom, 0.0.4, Beautiful HTML/XHTML/XML using YAML, 2019-03-29T23:37:54+0000
+/project/fugue-generator/, Fugue-generator, 0.9a1, , 2020-04-24T16:41:07+0000
+/project/creoleparser/, Creoleparser, 0.7.5, Parser for the Creole common wiki markup language, 2019-06-10T21:29:24+0000
+/project/bioc/, bioc, 1.3.6, BioC data structures and encoder/decoder for Python, 2020-10-11T20:36:24+0000
+/project/pyramid-xslt/, pyramid_xslt, 0.1, Xslt renderer for pyramid, 2013-07-15T07:34:37+0000
+/project/tdi/, tdi, 0.9.9.9, Template Data Interface (TDI), 2015-12-31T18:09:53+0000
+/project/ll-nightshade/, ll-nightshade, 0.14.1, Serve the output of Oracle functions/procedures with CherryPy, 2009-03-09T17:35:13+0000
+/project/nmrml2isa/, nmrml2isa, 0.3.1, nmrml2isa - nmrML to ISA-Tab parsing tool, 2016-12-19T14:32:01+0000
+/project/pydocx/, PyDocX, 0.9.10, docx (OOXML) to html converter, 2016-07-29T20:31:35+0000
+/project/laserhammer/, laserhammer, 2.4, DocBook to mdoc(7) converter, 2018-08-22T12:29:24+0000
+/project/epguide/, epguide, 1.0, Python Electronic TV Guide Downloader and XMLTV exporter, 2009-10-03T18:28:02+0000
+/project/datamodeldict/, DataModelDict, 0.9.7, Class allowing for data models equivalently represented as Python dictionaries, JSON, and XML, 2020-09-25T15:12:33+0000
+/project/object-detection-metrics/, object-detection-metrics, 0.1, Object Detection Metrics, 2020-06-22T03:22:07+0000
+/project/wddx/, wddx, 0.4.0, A Python decoder for the WDDX XML serialisation format., 2011-08-07T23:59:33+0000
+/project/parslepy/, parslepy, 0.3.0, Parsley extraction library using lxml, 2015-03-05T23:19:08+0000
+/project/earthreader-web/, EarthReader-Web, 0.3.0, Earth Reader for Web, 2015-02-24T07:46:49+0000
+/project/xaml/, xaml, 0.6.5, XML Abstract Markup Language, 2019-05-23T22:05:43+0000
+/project/parsel/, parsel, 1.6.0, Parsel is a library to extract data from HTML and XML using XPath and CSS selectors, 2020-05-07T20:46:55+0000
+/project/wsgiview/, wsgiview, 0.2.1, Use TurboGears template plug-ins anywhere WSGI runs, 2007-01-02T00:03:47+0000
+/project/yaxl/, yaxl, 0.0.17, Yet Another (Pythonic) XML Library, 2006-10-30T12:20:12+0000
+/project/haggis/, haggis, 0.1a1, General purpose utility library, 2019-04-03T23:22:51+0000
+/project/example-aless80/, example-aless80, 1.5.4, Markup language similar to Markdown targeting scientific reports, software documentation, books, blog posts, and slides. DocOnce can generate LaTeX, Sphinx, HTML, IPython notebooks, Markdown, MediaWiki, and other formats, 2021-03-02T08:39:48+0000
+/project/mzml2isa-qt/, mzml2isa-qt, 0.3.4, A PyQt interface for mzml2isa parser., 2017-01-12T10:10:57+0000
+/project/psims/, psims, 0.1.36, Writers and controlled vocabulary manager for PSI-MS's mzML and mzIdentML standards, 2021-04-12T02:02:10+0000
+/project/pywapa-3k/, PyWaPa-3k, 0.1.1, Python WhAtever Parser is a python markup converter from xml, json, yaml and ini to python dictionary. It allows also conversion between markup languages. Python 3 compatible version., 2010-12-02T19:36:19+0000
+/project/pyexistdb/, pyexistdb, 1.0.1, Idiomatic access to the eXist-db XML Database using XPath and XQuery, 2018-06-06T11:09:29+0000
+/project/surely/, surely, 0.1, Pythonic XML Shorthand, 2006-02-26T09:25:16+0000
+/project/django-rss-xml-parser/, django-rss-xml-parser, 0.4, This parser is intended for RSS/XML that does not communicate the standard rfc5005, 2017-09-25T00:30:47+0000
+/project/cfpropertylist/, CFPropertyList, 0.0.1, A utility for reading and writing binary and XML property lists, 2014-10-14T21:11:22+0000
+/project/rinohtype-reloaded/, rinohtype-reloaded, 0.3.3, The Python document processor, 2019-09-10T21:16:47+0000
+/project/autoreport/, autoreport, 0.1.2, Self-made relatorio reports for Django, 2010-06-14T22:34:38+0000
+/project/xmlformatter/, xmlformatter, 0.2.2, Format and compress XML documents, 2020-11-13T11:23:30+0000
+/project/parsedom/, parsedom, 1.0.0, A fast DOM parser, 2014-03-24T12:55:17+0000
+/project/pintail-elasticsearch/, pintail-elasticsearch, 0.3, Use Elasticsearch on Pintail sites., 2016-07-29T14:41:12+0000
+/project/benker/, Benker, 0.5.2, Easily convert your CALS, HTML, Formex4, Office Open XML (docx) tables from one format to another., 2019-11-25T16:39:45+0000
+/project/ixml/, ixml, 0.1.0, iXML is an iterative event-driven XML parser with a standard Python iterator interface., 2013-08-15T14:33:34+0000
+/project/4suite-xml/, 4Suite-XML, 1.0.2, An open-source platform for XML processing, 2006-12-26T18:39:57+0000
+/project/pydhtmlparser/, pyDHTMLParser, 2.2.3, Python HTML/XML parser for easy web scraping., 2020-04-12T21:10:45+0000
+/project/genshi-forms/, genshi-forms, 1.0, Form generator and validator for Genshi, 2009-05-17T01:16:43+0000
+/project/html-tree-diff/, html-tree-diff, 0.1.2, Structure-aware diff for html and xml documents, 2011-02-16T20:37:58+0000
+/project/hatom2atom/, hatom2atom, 0.6, WSGI proxy for transforming hAtom to Atom via hAtom2Atom.xsl., 2008-12-19T03:43:16+0000
+/project/articutapi/, ArticutAPI, 1.0.9, Articut NLP system provides not only finest results on Chinese word segmentaion (CWS), Part-of-Speech tagging (POS) and Named Entity Recogintion tagging (NER), but also the fastest online API service in the NLP industry., 2021-02-19T06:45:08+0000
+/project/cursexml/, cursexml, 0.1.0, UNKNOWN, 2014-05-18T21:41:11+0000
+/project/pynaf/, pynaf, 2.0.4, Read and create NAF annotation Documents., 2021-02-06T09:21:01+0000
+/project/safedexml/, safedexml, 0.5.1, a defusedxml version of dead-simple Object-XML mapper for Python, 2014-04-11T02:55:51+0000
+/project/xsdata/, xsdata, 21.4, Python XML Binding, 2021-04-02T19:50:12+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/pyxerces/, PyXerces, 0.0.1, pyXerces: A Python Xerces-c wrapper, 2014-03-26T11:26:24+0000
+/project/chameleon-html/, chameleon.html, 0.9.3, Dynamic HTML template compiler with XSS language support., 2009-02-13T18:05:01+0000
+/project/python-ligo-lw/, python-ligo-lw, 1.7.1, Python LIGO Light-Weight XML I/O Library, 2021-03-01T22:23:49+0000
+/project/ntcir-math-density/, ntcir-math-density, 0.2.1,  The NTCIR Math Density Estimator package uses datasets, and judgements in the NTCIR-11 Math-2, and NTCIR-12 MathIR XHTML5 format to compute density, and probability estimates., 2018-06-21T21:13:04+0000
+/project/sickle/, Sickle, 0.7.0, A lightweight OAI client library for Python, 2020-05-17T08:45:28+0000
+/project/formast/, formast, 0.1.0a1, FormAST exposes file format descriptions through a simple API., 2012-11-09T21:33:34+0000
+/project/ioc-writer/, ioc_writer, 0.3.3, API providing a limited CRUD for manipulating OpenIOC formatted Indicators of Compromise., 2016-08-10T13:29:19+0000
+/project/jxmlease/, jxmlease, 1.0.3, jxmlease converts between XML and intelligent Python data structures., 2020-05-29T12:56:22+0000
+/project/laf-fabric/, laf-fabric, 4.8.4, Processor for Linguistic Annotation Framework ISO 24612:2012), applied to Biblical Hebrew, 2017-10-03T10:46:43+0000
+/project/js2xml/, js2xml, 0.4.0, Convert Javascript code to XML document, 2020-08-11T10:31:22+0000
+/project/pdfmate/, pdfmate, 0.4.9, Pyppeteer-based async python wrapper to convert html to pdf, 2020-12-06T12:56:36+0000
+/project/tefy/, tefy, 0.1.4, A very basic wrapper for conversions from doc, docx and odt to TEI XML, 2019-07-13T17:16:59+0000
+/project/pdfkit/, pdfkit, 0.6.1, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2017-01-09T15:44:16+0000
+/project/xml2data/, xml2data, 0.1.0, a library for converting xml into native data, 2013-03-02T15:57:22+0000
+/project/xmlbuilder/, xmlbuilder, 1.0, pythonic way to create xml/(x)html files. Updated version with fixes, unicode support and cleaned API., 2011-12-14T00:50:43+0000
+/project/curtain/, Curtain, 0.3, A lean compiled templating system with support for i18n, 2010-04-19T08:13:40+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/dblatex/, dblatex, 0.3.10, DocBook to LaTeX/ConTeXt Publishing, 2017-04-04T20:04:16+0000
+/project/xmlvirshparser/, xmlvirshparser, 0.5, Parses virsh dump XML output to OpenStack prettytable form, 2017-03-14T14:19:18+0000
+/project/metagen/, metagen, 0.7.2, Metadata.xml Generator for Ebuilds, 2020-01-31T17:56:11+0000
+/project/harvestingkit/, HarvestingKit, 0.6.22, Kit of tools to convert publisher XML (NLM/JATS) to MARCXML., 2021-01-12T19:51:20+0000
+/project/ntcir-mias-search/, ntcir-mias-search, 0.2.2,  The MIaS Search package implements the Math Information Retrival system that won the NTCIR-11 Math-2 main task (Růžička et al., 2014). , 2018-06-24T23:36:43+0000
+/project/norsecorpus/, norsecorpus, 1.0.2, Corpus of Old Norse texts with code to read them, 2019-10-07T20:42:24+0000
+/project/treesoup/, TreeSoup, 0.1, BeautifulSoup-like wrapper around ElementTree., 2011-04-05T14:41:35+0000
+/project/pyscxml/, pyscxml, 0.8.3-20120108, A pure Python SCXML parser/interpreter, 2012-01-08T18:06:25+0000
+/project/xpath-py/, xpath-py, 0.1.2, Python library for generating XPath expressions, 2017-09-09T22:16:01+0000
+/project/fluentxml/, fluentxml, 0.1.1, Minimalist XML library., 2011-07-23T16:14:57+0000
+/project/xmlunittest/, xmlunittest, 0.5.0, Library using lxml and unittest for unit testing XML., 2018-06-20T09:08:41+0000
+/project/xhtml2pdf/, xhtml2pdf, 0.2.5, PDF generator using HTML and CSS, 2020-10-08T18:57:39+0000
+/project/atoma/, atoma, 0.0.17, Atom, RSS and JSON feed parser for Python 3, 2019-07-07T17:06:08+0000
+/project/defusedxml/, defusedxml, 0.7.1, XML bomb protection for Python stdlib modules, 2021-03-08T10:59:24+0000
+/project/xmlsec-aop/, xmlsec-aop, 0.6.0.2, Python bindings for the XML Security Library., 2016-09-26T14:42:38+0000
+/project/django-genshi/, django-genshi, 1.1.3, Django integration for Genshi, 2009-04-18T22:50:46+0000
+/project/python-simplexquery/, python-simplexquery, 1.0.5.3, A simple native XQuery processing module using xqilla., 2011-03-05T15:29:59+0000
+/project/apifier/, apifier, 2.1.0, A web parser for tabular and/or paginated data, 2017-04-12T10:21:29+0000
+/project/shutdown-if-idle/, shutdown_if_idle, 0.0.1, Shutdown machine if considered idle, 2014-03-25T17:25:40+0000
+/project/overcast-parser/, overcast-parser, 0.0.2, Overcast podcast link parser especially for pythonista., 2019-03-22T17:48:53+0000
+/project/pyrs990/, pyrs990, 0.1.4, A tool for fetching and filtering IRS 990 data., 2020-02-29T20:28:34+0000
+/project/yax/, YAX, 1.2.0, Yet Another XML parser with the power of event-based memory-safe mechanism., 2016-03-30T14:00:40+0000
+/project/pyscribus-backported/, pyscribus-backported, 0.2.1, Read, create and update Scribus .sla files. (Python < 3.8 version), 2020-11-21T17:06:42+0000
+/project/datatree/, datatree, 0.1.8.1, DSL for creating structured documents in python., 2011-06-26T19:47:38+0000
+/project/katagami/, katagami, 2.0.1, katagami: a simple xml/html template library, 2014-03-10T16:58:03+0000
+/project/streamxmlwriter/, streamxmlwriter, 0.3, Simple library for incrementally writing XML files of arbitrary size, 2009-06-01T21:11:02+0000
+/project/pyramid-chameleon/, pyramid_chameleon, 0.3, pyramid_chameleon, 2014-07-01T17:47:35+0000
+/project/pugixmltodict/, pugixmltodict, 0.5, A fast alternative to xmltodict library, 2017-01-07T20:30:03+0000
+/project/xmlunittestbetter/, xmlunittestbetter, 0.1, Library using lxml and unittest for unit testing XML. This is an actively maintained and PEP8 compliant fork of xmlunittest., 2015-01-21T14:14:17+0000
+/project/rinohtype/, rinohtype, 0.5.2, The Python document processor, 2021-02-24T23:25:07+0000
+/project/flexable/, flexable, 0.3dev, Template engine with simple data structure, 2007-07-18T10:23:58+0000
+/project/html5-parser/, html5-parser, 0.4.9, Fast C based HTML 5 parsing for python, 2019-11-03T03:14:33+0000
+/project/rfc2html/, rfc2html, 2.0.1, Convert text-format RFCs and Internet-Drafts to html, 2019-06-25T14:31:33+0000
+/project/xml-compare/, xml_compare, 1.0.5, xml_compare is a XML tree comparer., 2008-12-07T00:31:02+0000
+/project/gelatin/, Gelatin, 2.2.10, Transform text files to XML, JSON, or YAML, 2017-09-14T17:40:12+0000
+/project/xml-dataclasses/, xml-dataclasses, 0.0.8, (De)serialize XML documents into specially-annotated dataclasses, 2021-04-09T03:24:48+0000
+/project/openkongqi/, openkongqi, 0.2.6, Outdoor air quality data, 2021-03-18T08:01:05+0000
+/project/bigxml/, bigxml, 0.6.0, Pythonic xml parser to handle big files or streams, 2021-03-21T20:02:41+0000
+/project/pyramid-haml/, pyramid_haml, 0.1.2, Use HAML templates in your pyramid project., 2011-12-07T14:19:21+0000
+/project/pydicttoxml/, pydicttoxml, 1.0.1, Convert python dictionary into a xml equivalent format, 2018-05-24T14:25:10+0000
+/project/genshi/, Genshi, 0.7.5, A toolkit for generation of output for the web, 2020-11-18T12:16:51+0000
+/project/buml/, buml, 0.1.6, buml markup language, 2012-05-25T12:42:51+0000
+/project/junos-netconify/, junos-netconify, 1.0.2, Junos console/bootstrap automation, 2016-02-08T07:04:46+0000
+/project/mallard-ducktype/, mallard-ducktype, 1.0.2, Parse Ducktype files and convert them to Mallard., 2019-07-21T18:59:34+0000
+/project/jsuite/, jsuite, 0.5.0, Parsing and manipulation tools for JATS XML files., 2017-09-27T10:17:46+0000
+/project/ntcir10-math-converter/, ntcir10-math-converter, 0.2.2,  The NTCIR-10 Math Converter package converts NTCIR-10 Math XHTML dataset and relevance judgements to the NTCIR-11 Math-2, and NTCIR-12 MathIR XHTML5 format., 2018-06-21T21:22:13+0000
+/project/py-dom-xpath-six/, py-dom-xpath-six, 0.2.3, XPath for DOM trees, 2019-02-02T17:04:56+0000
+/project/xmlcls/, xmlcls, 0.1b2, Classes for work with XML elements as objects, 2018-07-05T08:59:13+0000
+/project/doconce/, DocOnce, 1.5.9, Markup language similar to Markdown targeting scientific reports, software documentation, books, blog posts, and slides. DocOnce can generate LaTeX, Sphinx, HTML, IPython notebooks, Markdown, MediaWiki, and other formats, 2021-04-19T11:42:16+0000
+/project/pintail-asciidoc/, pintail-asciidoc, 0.3, Use AsciiDoc on Pintail sites., 2016-07-29T14:38:38+0000
+/project/rnginline/, rnginline, 0.0.2, Flatten multi-file RELAX NG schemas, 2015-05-30T15:43:13+0000
+/project/fastpt/, FastPt, 0.1dev, Really fast well-formed xml templates, 2010-07-01T14:07:59+0000
+/project/klon/, klon, 1.0.1, Utilities for building ElementTrees, 2021-01-08T11:49:58+0000
+/project/rdfa2rdf/, rdfa2rdf, 0.1, WSGI proxy for transforming RDFa to RDF via RDFa2RDFXML.xsl., 2007-09-26T00:08:25+0000
+/project/speedyxml/, speedyxml, 0.3.9.1, Speedy XML parser for Python, 2018-03-07T08:46:16+0000
+/project/exml/, exml, 0.2.1, Easy (for me) XML builder, 2012-03-02T09:04:04+0000
+/project/kajiki/, Kajiki, 0.8.2, Fast XML-based template engine with Genshi syntax and Jinja blocks, 2019-11-26T10:58:10+0000
+/project/kemmering/, kemmering, 1.0.3, Super simple XMLish tags, 2017-08-08T20:53:50+0000
+/project/imgkit/, imgkit, 1.2.2, Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt, 2021-04-10T13:49:38+0000
+/project/bmx/, bmx, 0.0.3, Basic Markup eXpressions, 2021-02-08T20:56:39+0000
+/project/sneakylang/, sneakylang, 0.3.0, Extensible framework for easy creation of extensible WikiLanguages, 2009-03-10T18:35:29+0000
+/project/introspectionparser/, introspectionparser, 0.2, Parses introspection json output to OpenStack prettytable form, 2017-03-14T14:29:03+0000
+/project/dido/, dido, 0.0.1.0, dido is an API server and Web application for the aeneas forced aligner, 2017-03-09T14:41:19+0000
+/project/simplerdfserver/, SimpleRDFServer, 0.2, Serves RDF (RSS 1.0) indexes of directories over HTTP, 2006-10-11T05:55:10+0000
+/project/my-xml/, my_xml, 0.1.2, Easy to use parser for simple XML, 2011-01-17T19:03:56+0000
+/project/tuhinga/, tuhinga, 0.1.1, Minimalistic markup language that translates to XML/HTML, 2015-05-28T21:04:07+0000
+/project/nkit4py/, nkit4py, 2.4.2, Fast XML to Python (and vise versa) converter and filter. Written in C++ using Expat SAX parser, 2016-05-25T16:30:41+0000
+/project/rdfcalendar/, RDFCalendar, 0.2.6, Conversion of iCalendar/vCard resources to RDF information, 2007-09-18T22:19:26+0000
+/project/simplegexf/, simplegexf, 0.1.5, A simple .gexf parser/writer for python, 2016-03-03T19:41:23+0000
+/project/brightcontent/, BrightContent, 0.1, Bright Content is Python Weblog software built from reusable components., 2006-09-02T17:36:32+0000
+/project/xmlplain/, xmlplain, 1.6.0, XML as plain object module, 2018-08-29T12:45:12+0000
+/project/ivydepparse/, ivydepparse, 1.0.1, Ivy Dependency Parser, 2015-09-30T14:13:51+0000
+/project/grenml/, grenml, 0.1.6, Library for creating, parsing, and storing GRENML, 2020-10-20T21:11:21+0000
+/project/ferenda/, ferenda, 0.3.0, Transform unstructured document collections to structured Linked Data, 2015-02-18T20:10:13+0000
+/project/mappet/, mappet, 0.1.2, Work with XML documents as if they were Python objects, 2015-08-27T10:11:47+0000
+/project/products-xmlwidgets/, Products.XMLWidgets, 0.13.1, XMLWidgets is a Zope 2 product used to create through the web viewers and editors of ParsedXML content., 2008-09-30T11:04:54+0000
+/project/eulexistdb/, eulexistdb, 0.21.1, Idiomatic access to the eXist-db XML Database using XPath and XQuery, 2016-08-04T15:48:43+0000
+/project/eulxml/, eulxml, 1.1.3, XPath-based XML data binding, with Django form support, 2016-06-03T19:44:04+0000
+/project/z3c-pt/, z3c.pt, 3.3.0, Fast ZPT engine., 2020-03-31T14:18:59+0000
+/project/pyces/, Pyces, 0.0, XML processing library combining Xerces-C++ with the ElementTree API, 2012-12-06T06:09:03+0000
+/project/pmgxml/, pmgxml, 0.1.0, PMG XML Tools, 2019-05-07T08:21:49+0000
+/project/pyxb-x/, PyXB-X, 2021.2.23, PyXB-X ("pixbix") is a pure Python package that generates Python source code for classes that correspond to data structures defined by XMLSchema., 2021-02-23T10:12:42+0000
+/project/cmf-pt/, cmf.pt, 1.0, Bridge to use Chameleon with Zope 2 and CMF., 2010-05-12T12:26:54+0000
+/project/forkparser/, forkparser, 6.1.0, A hopefully temporary fork of Universal Feed Parser, which handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds, 2018-01-16T00:02:08+0000
+/project/feedparser/, feedparser, 6.0.2, Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds, 2020-10-25T17:38:15+0000
+/project/pypodcastparserpodcastnamespace/, pyPodcastParserPodcastNamespace, 2.0.4, pyPodcastParserPodcastNamespace is a podcast parser that also includes some podcast namespace parsing capabilities, 2020-12-12T08:08:21+0000
+/project/mycapytain/, MyCapytain, 3.0.2, Library for CTS APIs and CapiTainS guidelines in Python, 2020-04-28T09:13:39+0000
+/project/pypodcastparser/, pyPodcastParser, 2.0.0, pyPodcastParser is a podcast parser., 2016-02-05T17:00:42+0000
+/project/kennyg/, kennyg, 0.1.6, KennyG SAX Handler, 2014-08-24T19:25:21+0000
+/project/weborganiser/, WebOrganiser, 0.2.7, A distribution of Web applications providing access to calendar, contact and message stores, 2007-09-18T22:23:34+0000
+/project/itools/, itools, 0.77.8, The itools library, 2017-10-21T17:48:40+0000
+/project/erp5diff/, erp5diff, 0.8.1.6, XUpdate Generator for ERP5, 2015-11-03T09:18:19+0000
+/project/haufe-stripml/, haufe.stripml, 1.2.2, Python extension for removing markup from strings., 2012-11-08T09:22:50+0000
+/project/demodocus/, demodocus, 1.0.0.1, demodocus is Python CLI program to quickly check synchronization maps, 2015-12-12T12:08:55+0000
+/project/pyscribus/, pyscribus, 0.2.1, Read, create and update Scribus .sla files., 2020-11-21T17:06:40+0000
+/project/wiktionary-de-parser/, wiktionary-de-parser, 0.8.1, Extracts data from German Wiktionary dump files. Allows you to add your own extraction methods 🚀, 2020-07-09T22:43:42+0000
+/project/magictree/, magictree, 1.0.0, Easily create ElementTree with automatic Element factories, 2011-07-06T14:46:36+0000
+/project/python-xml-hl7/, python-xml-hl7, 1.3.0, A library for parsing HL7 (version 2.x) messages in XML format into Python objects, 2019-06-27T16:46:41+0000
+/project/xslcoverage/, xslcoverage, 0.1.4, Scripts to compute the XSL Coverage done by an XSLT, 2016-11-26T16:39:10+0000
+/project/mm2s5/, mm2s5, 0.2.3, Convert a FreeMind mind-map (mm) into an S5 (html) presentation, 2010-06-21T15:55:13+0000
+/project/expatriate/, expatriate, 0.4, Library wrapping expat for parsing and generating XML and mapping objects from XML, 2018-01-18T17:43:20+0000
+/project/lbp-print/, lbp-print, 0.1.3, Script for compiling LombardPress encoded XML documents to TeX and PDF., 2019-01-18T15:04:04+0000
+/project/elementpath/, elementpath, 2.2.1, XPath 1.0/2.0 parsers and selectors for ElementTree and lxml, 2021-03-24T21:31:47+0000
+/project/iosxr-eznc/, iosxr-eznc, 2016.8.25, Python library for Cisco IOS-XR automation via NETCONF, 2016-08-25T16:03:41+0000
+/project/repoze-what-plugins-xml/, repoze.what.plugins.xml, 1.0rc1, The repoze.what XML plugin, 2009-01-28T08:36:32+0000
+/project/xupdate-processor/, xupdate-processor, 0.4, XUpdate Processor, 2011-01-21T14:12:49+0000
+/project/xpathi/, xpathi, 1.0.0, Library for generating XPath expressions as string using magic methods 🧙✨, 2020-09-05T21:28:55+0000
+/project/imzml2isa-qt/, imzml2isa-qt, 0.1.6, A PyQt interface for mzml2isa parser., 2017-01-25T10:34:06+0000
+/project/ecoxipy/, ECoXiPy, 0.4.0, Easy Creation of XML in Python, 2014-09-16T17:39:42+0000
+/project/ooopy/, OOoPy, 2.0, OOoPy: Modify OpenOffice.org documents in Python, 2020-02-06T21:58:50+0000
+/project/xq/, xq, 0.0.4, Like jq but for XML and XPath., 2017-11-01T15:47:03+0000
+/project/python-dirtt/, python-dirtt, 0.2, Directory Tree Templater, 2015-01-24T08:28:10+0000
+/project/ooopy-alt/, OOoPy-alt, 1.11, OOoPy: Modify OpenOffice.org documents in Python, 2017-08-30T17:19:08+0000
+/project/pybtex-docutils/, pybtex-docutils, 1.0.0, A docutils backend for pybtex., 2021-01-15T16:55:17+0000
+/project/pytidylib/, pytidylib, 0.3.2, Python wrapper for HTML Tidy (tidylib) on Python 2 and 3, 2016-11-16T01:52:59+0000
+/project/xml2rfc/, xml2rfc, 3.7.0, Xml2rfc generates RFCs and IETF drafts from document source in XML according to the IETF xml2rfc v2 and v3 vocabularies., 2021-04-05T20:11:32+0000
+/project/hooktest/, HookTest, 1.3.1, Hook Test Script for GitHub/CapiTainS repositories based on MyCapytain 3.0.0 or higher, 2020-01-23T08:40:35+0000
+/project/bundled-pdfkit/, bundled-pdfkit, 0.6.1, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2019-11-18T08:09:16+0000
+/project/dicttoxunit/, dicttoxunit, 0.0.3, Convert dictionary to xunit xml format, 2014-01-21T13:42:13+0000
+/project/lighty-template/, lighty-template, 0.3.4, Simple template engine for python, 2012-06-15T07:10:34+0000
+/project/xml2ddl/, xml2ddl, 0.3.1, Xml to DDL is a set tools to convert an XML representation of a database into a set of SQL (or DDL) commands and vice versa., 2005-09-29T18:35:26+0000
+/project/idnits/, idnits, 3.0.0, Convert text-format RFCs and Internet-Drafts to .xml format, 2018-12-31T19:56:26+0000
+/project/qtxmldom/, qtxmldom, 0.2.7, PyXML-style API for the qtxml Python bindings, 2005-11-13T15:44:47+0000
+/project/python-pskc/, python-pskc, 1.1, Python module for handling PSKC files, 2019-02-10T22:05:42+0000
+/project/georssy/, georssy, 0.0.3, A rough Python GeoRSS decoder, 2017-08-25T16:27:42+0000
+/project/penelope/, penelope, 3.1.3.0, Penelope is a multi-tool for creating, editing and converting dictionaries, especially for eReader devices, 2016-09-23T09:27:17+0000
+/project/selectq/, selectq, 0.0.6, Non cryptic XML/HTML parsing, 2020-12-15T02:56:21+0000
+/project/rnc2rng/, rnc2rng, 2.6.5, RELAX NG Compact to regular syntax conversion library, 2021-01-19T20:20:20+0000
+/project/id2xml/, id2xml, 1.5.0, Convert text-format RFCs and Internet-Drafts to .xml format, 2019-09-03T12:30:39+0000
+/project/characterentities/, characterentities, 0.1.2, HTML Entities for Python, 2018-09-29T17:20:10+0000
+/project/pdfkit-async/, pdfkit-async, 0.7.2, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2020-05-09T21:02:10+0000
+/project/xmlwitch/, xmlwitch, 0.3, xmlwitch offers Pythonic XML generation through context generators, 2016-08-25T20:29:21+0000
+/project/openaccess-epub/, openaccess_epub, 0.6.2, Converts OpenAccess Journal articles to EPUB, 2014-05-03T19:23:56+0000
+/project/pysiss/, pysiss, 0.0.4, A pythonic interface to Spatial Information Services Stack (SISS) services, 2015-01-19T03:57:19+0000
+/project/beautifulsoup4/, beautifulsoup4, 4.9.3, Screen-scraping library, 2020-10-03T15:37:19+0000
+/project/tlang-tdoc/, tlang-tdoc, 0.0.1, Tree Document Format, 2020-03-03T03:03:40+0000
+/project/lachesis/, lachesis, 0.0.3.0, lachesis automates the segmentation of a transcript into closed captions, 2017-01-26T21:14:42+0000
+/project/pywapa/, PyWaPa, 0.1.1, Python WhAtever Parser is a python markup converter from xml, json, yaml and ini to python dictionary. It allows also conversion between markup languages., 2010-12-02T19:24:56+0000
+/project/pintail/, pintail, 0.5, Build complete web site from Mallard sources., 2019-01-24T16:00:43+0000
+/project/rfc-xmldiff/, rfc-xmldiff, 0.6.0, Create an HTML difference display from two XML input files., 2019-10-15T19:07:32+0000
+/project/xml-boiler/, xml-boiler, 0.9.15, Automatically transform between XML namespaces, 2020-11-19T02:03:41+0000
+/project/rss-parser/, rss-parser, 0.2.3, Typed pythonic RSS parser, 2021-04-15T15:30:34+0000
+/project/beetle-sitemap/, Beetle-Sitemap, 1.0.0, Enables Beetle to generate a sitemap.xml file, 2015-01-01T17:28:26+0000
+/project/tagcap/, tagcap, 0.1.8, A simple and efficient HTML/XML parsing library written in pure Python, 2020-07-08T22:47:33+0000
+/project/delb/, delb, 0.2, A library that provides an ergonomic model for XML encoded text documents (e.g. with TEI-XML)., 2020-07-26T12:23:15+0000
+/project/hatena2rest/, hatena2rest, 0.1.1, converting Hatena diary to reST format, 2012-09-14T07:45:23+0000
+/project/quoter/, quoter, 1.6.8, Powerful way to construct text, HTML, and XML, plus a kick-ass join, 2017-05-15T23:56:30+0000
+/project/lxml/, lxml, 4.6.3, Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API., 2021-03-21T18:09:35+0000
+/project/rfc-errata/, rfc-errata, 0.3.0, Build html files from the text RFCs and the errata database., 2019-11-03T03:39:26+0000
+/project/citelementtree/, citelementtree, 1.2.7, ElementTree - a light-weight XML object model for Python., 2015-03-04T03:28:02+0000
+/project/curlwrapper/, curlwrapper, 0.1.110, curlwrapper (browser interface for curl), 2011-11-08T03:48:09+0000
+/project/listcomparator/, ListComparator, 0.1, Compares ordered lists, xml and csv application, 2009-12-13T16:46:50+0000
+/project/dirty/, dirty, 1.0.2, A dirty and simple HTML/XML template engine for Python 3., 2009-05-19T02:44:48+0000
+/project/portableqda/, portableqda, 0.2.0, import/export QDC and QDPX files for Qualitative Data Analysis (CAQDAS) Software, conforming to the XML-based REFI-QDA Standard (https://www.qdasoftware.org), 2021-03-14T23:15:28+0000
+/project/dexml2/, dexml2, 0.5.3, a dead-simple Object-XML mapper for Python, 2017-03-30T17:33:51+0000
+/project/bdt-sitemap/, bdt_sitemap, 0.9, Sitemap.xml generator for a local copy of a website, 2014-08-13T21:36:28+0000
+/project/ruledxml/, ruledxml, 1.6.0, Rule-based XML transformations, 2016-06-15T21:33:05+0000
+/project/elementtreefactory/, ElementTreeFactory, 1.0, A Genshi-inspired framework for easy use of ElementTree, 2011-11-27T19:51:42+0000
+/project/pdfgen/, pdfgen, 1.0.5, Pyppeteer-based async python wrapper to convert html to pdf, 2020-08-12T18:11:24+0000
+/project/gongtestfirst/, gongtestfirst, 1.2.224, , 2020-09-08T09:07:40+0000
+/project/nmrml2isa-qt/, nmrml2isa-qt, 0.1.3, A PyQt interface for nmrml2isa parser., 2016-09-18T17:55:12+0000
+/project/markdowndotnet/, markdowndotnet, 0.1.0a2, A Python markdown generator for C# libraries documentation., 2018-04-10T18:44:51+0000
+/project/longtroll/, longtroll, 1.0, Detect long-running processes and notify you when they're done., 2012-08-01T01:14:21+0000
+/project/xmltool/, xmltool, 1.0.0, Tool to manipulate XML files, 2020-07-21T15:25:39+0000
+/project/xmlschema/, xmlschema, 1.6.1, An XML Schema validator and decoder, 2021-04-11T21:18:52+0000
+/project/jsnapy/, jsnapy, 1.3.6, Python version of Junos Snapshot Administrator, 2021-02-27T05:41:52+0000
+/project/listparser/, listparser, 0.18, Parse OPML, FOAF, and iGoogle subscription lists., 2015-04-21T21:54:28+0000
+/project/coverage2clover/, coverage2clover, 3.2.0, A tool to convert python-coverage xml report to Atlassian Clover xml report format, 2021-03-02T06:13:12+0000
+/project/probes/, probes, 0.1.0, Python library to manage probes on network devices, 2016-10-15T05:39:04+0000
+/project/xml4h/, xml4h, 1.0, XML for Humans in Python, 2020-03-09T12:11:03+0000
+/project/minisignxml/, minisignxml, 20.11b0, Minimal XML signature and verification, intended for use with SAML2, 2020-11-04T07:12:18+0000
+/project/svety/, svety, 1.0.0, Reader of a Swedish etymological dictionary, 2019-11-15T08:43:05+0000
+/project/easy-xml/, easy-xml, 0.5.0, EasyXML is a simple object representation of an XML document., 2018-10-30T02:28:15+0000
+/project/products-parsedxml/, Products.ParsedXML, 1.5.1, Parsed XML allows you to use XML objects in the Zope 2 environment., 2010-07-15T15:34:41+0000
+/project/rfctools-common/, rfctools-common, 0.6.2, Common routines for a set of RFC Production center tools, 2020-04-10T03:29:10+0000
+/project/rsslib/, RssLib, 1.0.0.0, RSS Reader, RssLib Library, 2011-01-09T07:42:34+0000
+/project/python-benedict/, python-benedict, 0.23.2, python-benedict is a dict subclass with keylist/keypath support, I/O shortcuts (base64, csv, json, pickle, plist, query-string, toml, xml, yaml) and many utilities... for humans, obviously., 2021-01-19T11:08:10+0000
+/project/nforge-migration/, nforge-migration, 1.1.0.post2, Migrate nForge project to GitHub, 2016-11-21T07:37:27+0000
+/project/l5x/, l5x, 1.5, RSLogix .L5X interface., 2020-08-02T17:53:38+0000
+/project/clarify/, Clarify, 0.4.0, A library for scraping and parsing election results from jurisdictions using Clarity elections systems., 2018-10-08T17:08:19+0000
+/project/libvirt-vmcfg/, libvirt-vmcfg, 0.0.3, XML builder for libvirt virtual machine configuration, 2021-02-13T12:54:35+0000
+/project/dexml/, dexml, 0.5.1, a dead-simple Object-XML mapper for Python, 2012-10-25T21:39:33+0000
+/project/ttr-xml-csv2xml/, ttr.xml.csv2xml, 0.1.2dev002, module, providing conversion of csv file into xml, 2011-08-12T18:25:25+0000
+/project/flamingo/, flamingo, 1.6, Flamingo is a python3-based, pelican-inspired static site generator, 2021-04-09T15:00:02+0000
+/project/xmlegant/, XMLegant, 0.8.1, A class allowing easy XML generation, 2009-03-31T01:09:17+0000
+/project/ipython-beautifulsoup/, ipython-beautifulsoup, 0.3, Custom rendering of beautifulsoup objects       in IPython notebook and qtconsole, 2014-08-26T03:57:18+0000
+/project/emeraldtree/, emeraldtree, 0.10.0, EmeraldTree - a light-weight XML object model for Python., 2015-06-09T23:20:22+0000
+/project/codevalidator/, codevalidator, 0.8.2, Simple source code validator with file reformatting option (remove trailing WS, pretty print XML, ..), 2015-06-05T10:20:30+0000
+/project/dict2xml/, dict2xml, 1.7.0, Small utility to convert a python dictionary into an XML string, 2020-04-15T22:05:53+0000
+/project/feedler/, feedler, 0.0.2, A dead simple parser, 2020-09-06T22:39:33+0000
+/project/py3-aeneas/, py3-aeneas, 1.1.0, py3-aeneas is a fork of aeneas, 2020-05-03T17:25:40+0000
+/project/soovee/, SooVee, 1.07.3, SooVee Serial Audio Manager for a serial audio feed subscription service., 2009-06-12T03:13:51+0000
+/project/feedparser-homeassistant/, feedparser-homeassistant, 5.2.2.dev1, Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds, 2019-02-11T18:28:47+0000
+/project/wp-md/, wp-md, 0.1, Move WordPress pseudo-html into a couple markdown formats, 2012-05-17T22:15:08+0000
+/project/gnosis-utils/, Gnosis_Utils, 1.2.2, Modules and Utilities for XML Documents and Other Miscellany, 2015-02-25T05:10:29+0000
+/project/itertable/, itertable, 2.0.0, Iterable API for tabular datasets including CSV, XLS, XML, & JSON., 2019-12-06T01:50:32+0000
+/project/pybtex/, pybtex, 0.24.0, A BibTeX-compatible bibliography processor in Python, 2021-01-17T20:02:23+0000
+/project/xhtml2pdf-legacy/, xhtml2pdf-legacy, 3.0.38, PDF generator using HTML and CSS, 2017-06-26T08:32:34+0000
+/project/xmlcomparator/, xmlComparator, 1.0.3, xml comparison ignoring order of child nodes, 2014-10-26T04:33:45+0000
+/project/lxml-odidev/, lxml-odidev, 4.5.0, Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API., 2020-04-29T05:36:08+0000
+/project/libxml2dom/, libxml2dom, 0.5, PyXML-style API for the libxml2 Python bindings, 2011-02-27T20:48:24+0000
+/project/lxml-mate/, lxml-mate, 0.5.3, The simplest Object-XML mapper for Python. Mate for lxml., 2015-07-20T00:33:38+0000
+/project/bibgen/, bibgen, 0.2, A citation and bibliography generator, 2015-05-21T19:21:55+0000
+/project/hand/, hand, 0.5, Feed generator for screen scrapers, 2011-11-27T21:49:43+0000
+/project/amara/, Amara, 2.0.0, Library for XML processing in Python, 2014-03-23T02:01:18+0000
+/project/pygenx/, pygenx, 0.6, Wrapper for the genx lightweight canonical XML generation library., 2005-08-24T00:28:30+0000
+/project/rdfmessage/, RDFMessage, 0.1.2, Conversion of message resources to RDF information., 2007-09-18T22:21:11+0000
+/project/pymediarss2gen/, PyMediaRSS2Gen, 0.1.1, A Python library for generating Media RSS 2.0 feeds., 2014-10-08T17:17:17+0000
+/project/pyfo/, pyfo, 0.6, Easily generate XML from Python data structures., 2007-06-12T19:20:58+0000
+/project/rattlepy/, rattlepy, 0.0.5a1, A easy-to-use pure python HTML template engine, 2019-04-20T11:40:33+0000
+/project/tei-transformer/, tei_transformer, 0.3.1, Transform a TEI-encoded critical edition into a print-ready file., 2016-02-15T09:23:11+0000
+/project/obj2xml/, obj2xml, 1.0.1, Convenient XML creation using objects, 2015-05-13T01:01:38+0000
+/project/xmldestroyer/, xmldestroyer, 0.2, Bottom-up transformation of XML into python generators, XML, JSON or text., 2016-12-19T13:42:35+0000
+/project/openelections-metadata/, openelections-metadata, 0.1.1, A Python API wrapper for the OpenElections metadata API., 2015-09-30T01:14:16+0000
+/project/duck/, duck, 0.1, Parse Ducktype files and convert them to Mallard., 2014-12-03T16:01:39+0000
+/project/hescore-hpxml/, hescore-hpxml, 6.1.0, HPXML Translator for the HEScore API, 2021-02-03T22:41:34+0000
+/project/db4sphinx/, db4sphinx, 0.1.3, Docbook parser for docutils and sphinx, 2017-01-23T13:29:04+0000
+/project/sieve/, sieve, 0.1.9, XML Comparison Utils, 2013-09-11T12:38:54+0000
+/project/structominer/, structominer, 0.2.0, Data scraping for a more civilized age, 2014-04-19T02:17:43+0000
+/project/svglib/, svglib, 1.1.0, A pure-Python library for reading and converting SVG, 2021-04-10T09:22:06+0000
+/project/beautifulsoup/, BeautifulSoup, 3.2.2, Screen-scraping library, 2019-10-05T11:28:41+0000
+/project/pylom/, pylom, 1.6.3, Library for parsing IMS-LOM xml records., 2020-10-03T04:12:57+0000
+/project/ll-xist/, ll-xist, 5.65, Extensible HTML/XML generator, cross-platform templating language, Oracle utilities and various other tools, 2021-01-13T11:06:10+0000
+/project/piculet/, piculet, 1.0.1, XML/HTML scraper using XPath queries., 2019-02-07T12:07:34+0000
+/project/sprout/, Sprout, 1.1.1, Common Python library which contains reusable components, developed at Infrae., 2013-05-23T09:45:42+0000
+/project/fiduswriter/, fiduswriter, 3.9.21, A semantic wordprocessor for academic purposes, 2021-04-18T02:23:50+0000
+/project/pytidylib6/, pytidylib6, 0.2.2, Python wrapper for HTML Tidy (tidylib), compatible with Python 2 and 3, 2013-12-09T19:45:53+0000
+/project/ultimate-sitemap-parser/, ultimate-sitemap-parser, 0.5, Ultimate Sitemap Parser, 2019-07-31T11:15:46+0000
+/project/wq/, wq, 1.2.1, A modular framework for citizen science field data collection via offline-capable mobile web apps., 2020-09-02T08:14:40+0000
+/project/mathdom/, mathdom, 0.8, MathDOM - Content MathML in Python, 2008-03-11T18:19:49+0000
+/project/inxs/, inxs, 0.2b1, A framework for XML transformations without boilerplate., 2019-06-23T15:19:11+0000
+/project/mm2notes/, mm2notes, 0.1.1, Convert a FreeMind mind-map (mm) into a meeting notes (html/txt)., 2011-01-30T01:25:36+0000
+/project/easy-xml/, easy-xml, 0.5.0, EasyXML is a simple object representation of an XML document., 2018-10-30T02:28:15+0000
+/project/nforge-migration/, nforge-migration, 1.1.0.post2, Migrate nForge project to GitHub, 2016-11-21T07:37:27+0000
+/project/xmlobject/, xmlobject, 0.1, Interface XML using neat Python syntax, 2012-01-10T01:55:20+0000
+/project/askxml/, askxml, 1.0.0, Run SQL statements on XML documents, 2018-04-14T16:10:28+0000
+/project/pintail-itstool/, pintail-itstool, 0.3, Use ITSTool to translate Pintail sites., 2019-01-24T16:02:43+0000
+/project/flask-genshi/, Flask-Genshi, 0.5.1, An extension to Flask for easy Genshi templating., 2010-11-27T15:10:24+0000
+/project/minixsv/, minixsv, 0.9.0, A lightweight XML schema validator written in pure Python, 2008-08-11T22:10:27+0000
+/project/namedentities/, namedentities, 1.9.4, Named (and numeric) HTML entities to/from each other or Unicode, 2017-05-31T19:44:41+0000
+/project/defusedexpat/, defusedexpat, 0.4, XML bomb protection with modified expat parser, 2013-02-25T11:50:41+0000
+/project/mathml2omml/, mathml2omml, 0.0.2, , 2019-11-24T07:30:51+0000
+/project/ll-core/, ll-core, 1.11.1, LivingLogic base package: ansistyle, color, make, sisyphus, xpit, url, xml_codec, 2008-01-11T13:47:18+0000
+/project/cobalt/, cobalt, 4.1.0, A lightweight library for working with Akoma Ntoso Act documents, 2020-12-01T07:18:31+0000
+/project/sk-recipe-xdv/, sk.recipe.xdv, 0.0.0, A recipe for Buildout (zc.buildout) to compile XDV rules into XSLT, 2010-05-29T21:43:39+0000
+/project/welder/, welder, 0.1.5, HTML/XML server-side transformer. Port of hij1nk's weld for node.js., 2012-05-23T13:41:35+0000
+/project/clientform/, ClientForm, 0.2.10, Client-side HTML form handling., 2008-12-03T23:18:39+0000
+/project/xsltemplates/, XSLTemplates, 0.6.1, An XSLT based template system for WSGI applications., 2008-04-04T03:12:59+0000
+/project/usfm2osis/, usfm2osis, 0.6.1, Tools for converting Bibles from USFM to OSIS XML, 2015-05-08T01:55:02+0000
+/project/py-xbrl/, py-xbrl, 1.1.4, Parser for parsing XBRL and iXBRL files (instance documents, taxonomy schemas, taxonomy linkbases)., 2021-04-19T18:48:20+0000
+/project/pybibframe/, pybibframe, 1.1.3, ('Python tools for BIBFRAME (Bibliographic Framework), a Web-friendly framework for bibliographic descriptions in libraries, for example.',), 2019-12-16T21:03:59+0000
+/project/rinse/, rinse, 0.5.0, SOAP client built with lxml and requests., 2020-08-19T23:52:00+0000
+/project/wq-io/, wq.io, 1.1.0, Consistent iterable API for reading and writing to external datasets, 2018-06-12T19:16:38+0000
+/project/feedgen/, feedgen, 0.9.0, Feed Generator (ATOM, RSS, Podcasts), 2020-01-28T17:12:58+0000
+/project/elementtreewriter/, elementtreewriter, 1.2, XML writer for elementtree with sane namespace support., 2015-05-22T15:37:27+0000
+/project/python-appstream/, python-appstream, 0.8, Parse AppStream files when you don't have libappstream-glib, 2015-10-30T14:56:02+0000
+/project/mechanize/, mechanize, 0.4.5, Stateful programmatic web browsing., 2019-12-22T09:18:43+0000
+/project/exemgel/, ExEmGel, 0.5, Simple xml reader, 2014-08-04T00:20:07+0000
+/project/pyiati/, pyIATI, 0.4.1, Python library representing the IATI Schemas, Codelists and Rulesets, 2018-08-16T11:07:57+0000
+/project/diazo/, diazo, 1.4.0, Diazo implements a Deliverance like language using a pure XSLT engine. With Diazo, you "compile" your theme and ruleset in one step, then use a superfast/simple transform on each request thereafter. Alternatively, compile your theme during development, check it into version control, and not touch Diazo during deployment., 2020-04-20T08:07:02+0000
+/project/sigurd/, sigurd, 1.2.13, Code for presentation at Graz, 6th November 2019, 2021-02-06T10:41:08+0000
+/project/xsltemplates/, XSLTemplates, 0.6.1, An XSLT based template system for WSGI applications., 2008-04-04T03:12:59+0000
+/project/usfm2osis/, usfm2osis, 0.6.1, Tools for converting Bibles from USFM to OSIS XML, 2015-05-08T01:55:02+0000
+/project/py-xbrl/, py-xbrl, 1.1.4, Parser for parsing XBRL and iXBRL files (instance documents, taxonomy schemas, taxonomy linkbases)., 2021-04-19T18:48:20+0000
+/project/pybibframe/, pybibframe, 1.1.3, ('Python tools for BIBFRAME (Bibliographic Framework), a Web-friendly framework for bibliographic descriptions in libraries, for example.',), 2019-12-16T21:03:59+0000
+/project/rinse/, rinse, 0.5.0, SOAP client built with lxml and requests., 2020-08-19T23:52:00+0000
+/project/aeneas/, aeneas, 1.7.3.0, aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment), 2017-03-16T12:54:13+0000
+/project/chameleon-core/, chameleon.core, 1.0.4, Attribute language template compiler, 2009-11-04T11:34:31+0000
+/project/chameleon-zpt/, chameleon.zpt, 1.1.3, Zope Page Template engine based on Chameleon, 2009-11-04T11:40:22+0000
+/project/marcxml2mods/, marcxml2mods, 0.2.5, Conversion from MARCXML/OAI to MODS, which is used in NK CZ., 2015-08-21T12:26:39+0000
+/project/libearth/, libearth, 0.3.3, The shared common library for Earth Reader apps, 2014-11-05T18:30:33+0000
+/project/pyxb/, PyXB, 1.2.6, Python XML Schema Bindings, 2017-09-03T12:51:26+0000
+/project/async-imgkit/, async-imgkit, 0.0.5, Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt, 2021-01-18T00:00:24+0000
+/project/xul/, Xul, 2.3.0, XML (XPath, XSD, XSLT) Utilities, 2021-01-28T19:02:54+0000
+/project/plone-recipe-lxml/, plone.recipe.lxml, 0.4, Recipe that builds lxml and dependencies (libxslt, libxml2)., 2010-08-20T11:57:57+0000
+/project/libcomxml/, libComXML, 3.1.0, This library permits XML generation from Python objects, 2017-10-24T09:49:59+0000
+/project/mzml2isa/, mzml2isa, 1.0.3, mzML file parser and converter to ISA-Tab, 2020-04-01T20:17:59+0000
+/project/gusgus/, gusgus, 0.0.2, This a toolkit to work with the Icelandic Gigaword corpus, 2020-11-05T15:09:09+0000
+/project/bach/, bach, 0.1b6, An XML-interoperable general-purpose semantic document markup language*, 2019-03-01T00:48:09+0000
+/project/zoegas/, zoegas, 1.1.0, Old Norse Zoëga's dictionary, 2020-05-06T21:38:01+0000
+/project/goodruns/, goodruns, 2.8.1, ATLAS Good Run List (GRL) reader and utilities, 2015-06-22T02:56:01+0000
+/project/xmlcheck/, XMLCheck, 0.7.1, xml-data validator tool, 2014-03-24T00:11:43+0000
+/project/scielo-clea/, scielo-clea, 0.4.2, SciELO Publishing Schema XML document front matter metadata reader/sanitizer, 2020-04-08T18:14:49+0000
+/project/webstring/, webstring, 0.5, Template engine that uses Python as the template language, 2007-01-04T21:25:29+0000
+/project/xmlutils/, xmlutils, 1.4.1, A set of utilities for processing XML documents and converting to other formats, 2020-09-29T14:46:53+0000
+/project/mediawiki-dump/, mediawiki-dump, 0.7.0, Python package for working with MediaWiki XML content dumps, 2020-09-16T17:04:34+0000
+/project/prettierfier/, prettierfier, 1.0.3, Intelligently pretty-print HTML/XML with inline tags., 2019-07-22T23:42:54+0000
+/project/sosaxy/, sosaxy, 0.4.0, xml processing utility, 2017-07-24T01:13:33+0000
+/project/ll-toxic/, ll-toxic, 0.10, Generate Oracle functions from PL/SQL embedded in XML., 2008-01-07T16:42:46+0000
+/project/pymods/, pymods, 2.0.10, Utility class wrapping lxml for reading data from MODS v3.4 XML metadata into Python data types., 2020-07-22T14:43:53+0000
+/project/plantextract/, plantextract, 0.3.0, Python Plant Extract Document processor, 2013-11-05T08:03:39+0000
+/project/xapiparser/, xapiparser, 0.0.15, XAPI ssh command parser to convert cli commands to xml for use in the Cisco XAPI REST API, 2020-12-07T17:20:18+0000
+/project/docx2html/, docx2html, 0.2.3, docx (OOXML) to html converter, 2013-04-24T19:33:42+0000
+/project/xmltodict/, xmltodict, 0.12.0, Makes working with XML feel like you are working with JSON, 2019-02-11T07:00:24+0000
+/project/rfclint/, rfclint, 0.6.1, Perform a set of checks on an RFC input file to check for errors., 2020-01-28T01:13:14+0000
+/project/configo/, Configo, 1.4, Easy way to use existing JSON, XML or YAML config files from bash shell/scripts, 2016-07-05T12:22:33+0000
+/project/xsltools/, XSLTools, 0.5, Modules and packages for the development of XML/XSL-based applications, 2007-09-18T22:25:35+0000
+/project/xmlobject/, xmlobject, 0.1, Interface XML using neat Python syntax, 2012-01-10T01:55:20+0000
+/project/askxml/, askxml, 1.0.0, Run SQL statements on XML documents, 2018-04-14T16:10:28+0000
+/project/pintail-itstool/, pintail-itstool, 0.3, Use ITSTool to translate Pintail sites., 2019-01-24T16:02:43+0000
+/project/flask-genshi/, Flask-Genshi, 0.5.1, An extension to Flask for easy Genshi templating., 2010-11-27T15:10:24+0000
+/project/minixsv/, minixsv, 0.9.0, A lightweight XML schema validator written in pure Python, 2008-08-11T22:10:27+0000
+/project/namedentities/, namedentities, 1.9.4, Named (and numeric) HTML entities to/from each other or Unicode, 2017-05-31T19:44:41+0000
+/project/defusedexpat/, defusedexpat, 0.4, XML bomb protection with modified expat parser, 2013-02-25T11:50:41+0000
+/project/mathml2omml/, mathml2omml, 0.0.2, , 2019-11-24T07:30:51+0000
+/project/ll-core/, ll-core, 1.11.1, LivingLogic base package: ansistyle, color, make, sisyphus, xpit, url, xml_codec, 2008-01-11T13:47:18+0000
+/project/gexml/, gexml, 1.2.0, A dead-simple Object-XML mapper for Python., 2021-03-02T07:20:09+0000
+/project/gpxtools/, gpxtools, 0.2.1, Command line tools useful to manipulate GPX files., 2010-02-15T18:14:06+0000
+/project/xsdata-plantuml/, xsdata-plantuml, 21.4, xsdata PlantUML generator, 2021-04-02T20:33:42+0000
+/project/cobalt/, cobalt, 4.1.0, A lightweight library for working with Akoma Ntoso Act documents, 2020-12-01T07:18:31+0000
+/project/sk-recipe-xdv/, sk.recipe.xdv, 0.0.0, A recipe for Buildout (zc.buildout) to compile XDV rules into XSLT, 2010-05-29T21:43:39+0000
+/project/welder/, welder, 0.1.5, HTML/XML server-side transformer. Port of hij1nk's weld for node.js., 2012-05-23T13:41:35+0000
+/project/clientform/, ClientForm, 0.2.10, Client-side HTML form handling., 2008-12-03T23:18:39+0000
+/project/xmlsec/, xmlsec, 1.3.10, Python bindings for the XML Security Library, 2021-04-25T21:04:13+0000
+/project/chameleon-genshi/, chameleon.genshi, 1.0b4, Genshi template engine based on Chameleon, 2009-03-05T17:47:29+0000
+/project/loxun/, loxun, 2.0, large output in XML using unicode and namespaces, 2014-07-28T06:35:06+0000
+/project/imprint/, imprint, 0.1a1, Program for creating MS Word reports from data and content templates, 2019-04-03T23:44:26+0000
+/project/nodetree/, NodeTree, 0.3, Pythonic XML Data Binding Package, 2013-01-18T04:26:55+0000
+/project/yatom/, yatom, 0.0.4, Beautiful HTML/XHTML/XML using YAML, 2019-03-29T23:37:54+0000
+/project/fugue-generator/, Fugue-generator, 0.9a1, , 2020-04-24T16:41:07+0000
+/project/creoleparser/, Creoleparser, 0.7.5, Parser for the Creole common wiki markup language, 2019-06-10T21:29:24+0000
+/project/bioc/, bioc, 1.3.6, BioC data structures and encoder/decoder for Python, 2020-10-11T20:36:24+0000
+/project/pyramid-xslt/, pyramid_xslt, 0.1, Xslt renderer for pyramid, 2013-07-15T07:34:37+0000
+/project/tdi/, tdi, 0.9.9.9, Template Data Interface (TDI), 2015-12-31T18:09:53+0000
+/project/ll-nightshade/, ll-nightshade, 0.14.1, Serve the output of Oracle functions/procedures with CherryPy, 2009-03-09T17:35:13+0000
+/project/nmrml2isa/, nmrml2isa, 0.3.1, nmrml2isa - nmrML to ISA-Tab parsing tool, 2016-12-19T14:32:01+0000
+/project/pydocx/, PyDocX, 0.9.10, docx (OOXML) to html converter, 2016-07-29T20:31:35+0000
+/project/laserhammer/, laserhammer, 2.4, DocBook to mdoc(7) converter, 2018-08-22T12:29:24+0000
+/project/epguide/, epguide, 1.0, Python Electronic TV Guide Downloader and XMLTV exporter, 2009-10-03T18:28:02+0000
+/project/datamodeldict/, DataModelDict, 0.9.7, Class allowing for data models equivalently represented as Python dictionaries, JSON, and XML, 2020-09-25T15:12:33+0000
+/project/object-detection-metrics/, object-detection-metrics, 0.1, Object Detection Metrics, 2020-06-22T03:22:07+0000
+/project/wddx/, wddx, 0.4.0, A Python decoder for the WDDX XML serialisation format., 2011-08-07T23:59:33+0000
+/project/parslepy/, parslepy, 0.3.0, Parsley extraction library using lxml, 2015-03-05T23:19:08+0000
+/project/earthreader-web/, EarthReader-Web, 0.3.0, Earth Reader for Web, 2015-02-24T07:46:49+0000
+/project/xaml/, xaml, 0.6.5, XML Abstract Markup Language, 2019-05-23T22:05:43+0000
+/project/parsel/, parsel, 1.6.0, Parsel is a library to extract data from HTML and XML using XPath and CSS selectors, 2020-05-07T20:46:55+0000
+/project/wsgiview/, wsgiview, 0.2.1, Use TurboGears template plug-ins anywhere WSGI runs, 2007-01-02T00:03:47+0000
+/project/yaxl/, yaxl, 0.0.17, Yet Another (Pythonic) XML Library, 2006-10-30T12:20:12+0000
+/project/haggis/, haggis, 0.1a1, General purpose utility library, 2019-04-03T23:22:51+0000
+/project/example-aless80/, example-aless80, 1.5.4, Markup language similar to Markdown targeting scientific reports, software documentation, books, blog posts, and slides. DocOnce can generate LaTeX, Sphinx, HTML, IPython notebooks, Markdown, MediaWiki, and other formats, 2021-03-02T08:39:48+0000
+/project/mzml2isa-qt/, mzml2isa-qt, 0.3.4, A PyQt interface for mzml2isa parser., 2017-01-12T10:10:57+0000
+/project/psims/, psims, 0.1.36, Writers and controlled vocabulary manager for PSI-MS's mzML and mzIdentML standards, 2021-04-12T02:02:10+0000
+/project/pywapa-3k/, PyWaPa-3k, 0.1.1, Python WhAtever Parser is a python markup converter from xml, json, yaml and ini to python dictionary. It allows also conversion between markup languages. Python 3 compatible version., 2010-12-02T19:36:19+0000
+/project/pyexistdb/, pyexistdb, 1.0.1, Idiomatic access to the eXist-db XML Database using XPath and XQuery, 2018-06-06T11:09:29+0000
+/project/surely/, surely, 0.1, Pythonic XML Shorthand, 2006-02-26T09:25:16+0000
+/project/django-rss-xml-parser/, django-rss-xml-parser, 0.4, This parser is intended for RSS/XML that does not communicate the standard rfc5005, 2017-09-25T00:30:47+0000
+/project/cfpropertylist/, CFPropertyList, 0.0.1, A utility for reading and writing binary and XML property lists, 2014-10-14T21:11:22+0000
+/project/rinohtype-reloaded/, rinohtype-reloaded, 0.3.3, The Python document processor, 2019-09-10T21:16:47+0000
+/project/autoreport/, autoreport, 0.1.2, Self-made relatorio reports for Django, 2010-06-14T22:34:38+0000
+/project/xmlformatter/, xmlformatter, 0.2.2, Format and compress XML documents, 2020-11-13T11:23:30+0000
+/project/parsedom/, parsedom, 1.0.0, A fast DOM parser, 2014-03-24T12:55:17+0000
+/project/pintail-elasticsearch/, pintail-elasticsearch, 0.3, Use Elasticsearch on Pintail sites., 2016-07-29T14:41:12+0000
+/project/benker/, Benker, 0.5.2, Easily convert your CALS, HTML, Formex4, Office Open XML (docx) tables from one format to another., 2019-11-25T16:39:45+0000
+/project/ixml/, ixml, 0.1.0, iXML is an iterative event-driven XML parser with a standard Python iterator interface., 2013-08-15T14:33:34+0000
+/project/4suite-xml/, 4Suite-XML, 1.0.2, An open-source platform for XML processing, 2006-12-26T18:39:57+0000
+/project/pydhtmlparser/, pyDHTMLParser, 2.2.3, Python HTML/XML parser for easy web scraping., 2020-04-12T21:10:45+0000
+/project/genshi-forms/, genshi-forms, 1.0, Form generator and validator for Genshi, 2009-05-17T01:16:43+0000
+/project/html-tree-diff/, html-tree-diff, 0.1.2, Structure-aware diff for html and xml documents, 2011-02-16T20:37:58+0000
+/project/hatom2atom/, hatom2atom, 0.6, WSGI proxy for transforming hAtom to Atom via hAtom2Atom.xsl., 2008-12-19T03:43:16+0000
+/project/articutapi/, ArticutAPI, 1.0.9, Articut NLP system provides not only finest results on Chinese word segmentaion (CWS), Part-of-Speech tagging (POS) and Named Entity Recogintion tagging (NER), but also the fastest online API service in the NLP industry., 2021-02-19T06:45:08+0000
+/project/cursexml/, cursexml, 0.1.0, UNKNOWN, 2014-05-18T21:41:11+0000
+/project/pynaf/, pynaf, 2.0.4, Read and create NAF annotation Documents., 2021-02-06T09:21:01+0000
+/project/safedexml/, safedexml, 0.5.1, a defusedxml version of dead-simple Object-XML mapper for Python, 2014-04-11T02:55:51+0000
+/project/xsdata/, xsdata, 21.4, Python XML Binding, 2021-04-02T19:50:12+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/pyxerces/, PyXerces, 0.0.1, pyXerces: A Python Xerces-c wrapper, 2014-03-26T11:26:24+0000
+/project/chameleon-html/, chameleon.html, 0.9.3, Dynamic HTML template compiler with XSS language support., 2009-02-13T18:05:01+0000
+/project/python-ligo-lw/, python-ligo-lw, 1.7.1, Python LIGO Light-Weight XML I/O Library, 2021-03-01T22:23:49+0000
+/project/ntcir-math-density/, ntcir-math-density, 0.2.1,  The NTCIR Math Density Estimator package uses datasets, and judgements in the NTCIR-11 Math-2, and NTCIR-12 MathIR XHTML5 format to compute density, and probability estimates., 2018-06-21T21:13:04+0000
+/project/sickle/, Sickle, 0.7.0, A lightweight OAI client library for Python, 2020-05-17T08:45:28+0000
+/project/formast/, formast, 0.1.0a1, FormAST exposes file format descriptions through a simple API., 2012-11-09T21:33:34+0000
+/project/ioc-writer/, ioc_writer, 0.3.3, API providing a limited CRUD for manipulating OpenIOC formatted Indicators of Compromise., 2016-08-10T13:29:19+0000
+/project/jxmlease/, jxmlease, 1.0.3, jxmlease converts between XML and intelligent Python data structures., 2020-05-29T12:56:22+0000
+/project/laf-fabric/, laf-fabric, 4.8.4, Processor for Linguistic Annotation Framework ISO 24612:2012), applied to Biblical Hebrew, 2017-10-03T10:46:43+0000
+/project/js2xml/, js2xml, 0.4.0, Convert Javascript code to XML document, 2020-08-11T10:31:22+0000
+/project/pdfmate/, pdfmate, 0.4.9, Pyppeteer-based async python wrapper to convert html to pdf, 2020-12-06T12:56:36+0000
+/project/tefy/, tefy, 0.1.4, A very basic wrapper for conversions from doc, docx and odt to TEI XML, 2019-07-13T17:16:59+0000
+/project/pdfkit/, pdfkit, 0.6.1, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2017-01-09T15:44:16+0000
+/project/xml2data/, xml2data, 0.1.0, a library for converting xml into native data, 2013-03-02T15:57:22+0000
+/project/xmlbuilder/, xmlbuilder, 1.0, pythonic way to create xml/(x)html files. Updated version with fixes, unicode support and cleaned API., 2011-12-14T00:50:43+0000
+/project/curtain/, Curtain, 0.3, A lean compiled templating system with support for i18n, 2010-04-19T08:13:40+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/dblatex/, dblatex, 0.3.10, DocBook to LaTeX/ConTeXt Publishing, 2017-04-04T20:04:16+0000
+/project/xmlvirshparser/, xmlvirshparser, 0.5, Parses virsh dump XML output to OpenStack prettytable form, 2017-03-14T14:19:18+0000
+/project/metagen/, metagen, 0.7.2, Metadata.xml Generator for Ebuilds, 2020-01-31T17:56:11+0000
+/project/harvestingkit/, HarvestingKit, 0.6.22, Kit of tools to convert publisher XML (NLM/JATS) to MARCXML., 2021-01-12T19:51:20+0000
+/project/ntcir-mias-search/, ntcir-mias-search, 0.2.2,  The MIaS Search package implements the Math Information Retrival system that won the NTCIR-11 Math-2 main task (Růžička et al., 2014). , 2018-06-24T23:36:43+0000
+/project/norsecorpus/, norsecorpus, 1.0.2, Corpus of Old Norse texts with code to read them, 2019-10-07T20:42:24+0000
+/project/treesoup/, TreeSoup, 0.1, BeautifulSoup-like wrapper around ElementTree., 2011-04-05T14:41:35+0000
+/project/pyscxml/, pyscxml, 0.8.3-20120108, A pure Python SCXML parser/interpreter, 2012-01-08T18:06:25+0000
+/project/xpath-py/, xpath-py, 0.1.2, Python library for generating XPath expressions, 2017-09-09T22:16:01+0000
+/project/fluentxml/, fluentxml, 0.1.1, Minimalist XML library., 2011-07-23T16:14:57+0000
+/project/xmlunittest/, xmlunittest, 0.5.0, Library using lxml and unittest for unit testing XML., 2018-06-20T09:08:41+0000
+/project/xhtml2pdf/, xhtml2pdf, 0.2.5, PDF generator using HTML and CSS, 2020-10-08T18:57:39+0000
+/project/atoma/, atoma, 0.0.17, Atom, RSS and JSON feed parser for Python 3, 2019-07-07T17:06:08+0000
+/project/defusedxml/, defusedxml, 0.7.1, XML bomb protection for Python stdlib modules, 2021-03-08T10:59:24+0000
+/project/xmlsec-aop/, xmlsec-aop, 0.6.0.2, Python bindings for the XML Security Library., 2016-09-26T14:42:38+0000
+/project/django-genshi/, django-genshi, 1.1.3, Django integration for Genshi, 2009-04-18T22:50:46+0000
+/project/python-simplexquery/, python-simplexquery, 1.0.5.3, A simple native XQuery processing module using xqilla., 2011-03-05T15:29:59+0000
+/project/apifier/, apifier, 2.1.0, A web parser for tabular and/or paginated data, 2017-04-12T10:21:29+0000
+/project/shutdown-if-idle/, shutdown_if_idle, 0.0.1, Shutdown machine if considered idle, 2014-03-25T17:25:40+0000
+/project/overcast-parser/, overcast-parser, 0.0.2, Overcast podcast link parser especially for pythonista., 2019-03-22T17:48:53+0000
+/project/pyrs990/, pyrs990, 0.1.4, A tool for fetching and filtering IRS 990 data., 2020-02-29T20:28:34+0000
+/project/yax/, YAX, 1.2.0, Yet Another XML parser with the power of event-based memory-safe mechanism., 2016-03-30T14:00:40+0000
+/project/pyscribus-backported/, pyscribus-backported, 0.2.1, Read, create and update Scribus .sla files. (Python < 3.8 version), 2020-11-21T17:06:42+0000
+/project/datatree/, datatree, 0.1.8.1, DSL for creating structured documents in python., 2011-06-26T19:47:38+0000
+/project/katagami/, katagami, 2.0.1, katagami: a simple xml/html template library, 2014-03-10T16:58:03+0000
+/project/streamxmlwriter/, streamxmlwriter, 0.3, Simple library for incrementally writing XML files of arbitrary size, 2009-06-01T21:11:02+0000
+/project/pyramid-chameleon/, pyramid_chameleon, 0.3, pyramid_chameleon, 2014-07-01T17:47:35+0000
+/project/pugixmltodict/, pugixmltodict, 0.5, A fast alternative to xmltodict library, 2017-01-07T20:30:03+0000
+/project/xmlunittestbetter/, xmlunittestbetter, 0.1, Library using lxml and unittest for unit testing XML. This is an actively maintained and PEP8 compliant fork of xmlunittest., 2015-01-21T14:14:17+0000
+/project/rinohtype/, rinohtype, 0.5.2, The Python document processor, 2021-02-24T23:25:07+0000
+/project/flexable/, flexable, 0.3dev, Template engine with simple data structure, 2007-07-18T10:23:58+0000
+/project/html5-parser/, html5-parser, 0.4.9, Fast C based HTML 5 parsing for python, 2019-11-03T03:14:33+0000
+/project/rfc2html/, rfc2html, 2.0.1, Convert text-format RFCs and Internet-Drafts to html, 2019-06-25T14:31:33+0000
+/project/xml-compare/, xml_compare, 1.0.5, xml_compare is a XML tree comparer., 2008-12-07T00:31:02+0000
+/project/gelatin/, Gelatin, 2.2.10, Transform text files to XML, JSON, or YAML, 2017-09-14T17:40:12+0000
+/project/xml-dataclasses/, xml-dataclasses, 0.0.8, (De)serialize XML documents into specially-annotated dataclasses, 2021-04-09T03:24:48+0000
+/project/openkongqi/, openkongqi, 0.2.6, Outdoor air quality data, 2021-03-18T08:01:05+0000
+/project/bigxml/, bigxml, 0.6.0, Pythonic xml parser to handle big files or streams, 2021-03-21T20:02:41+0000
+/project/pyramid-haml/, pyramid_haml, 0.1.2, Use HAML templates in your pyramid project., 2011-12-07T14:19:21+0000
+/project/pydicttoxml/, pydicttoxml, 1.0.1, Convert python dictionary into a xml equivalent format, 2018-05-24T14:25:10+0000
+/project/genshi/, Genshi, 0.7.5, A toolkit for generation of output for the web, 2020-11-18T12:16:51+0000
+/project/buml/, buml, 0.1.6, buml markup language, 2012-05-25T12:42:51+0000
+/project/junos-netconify/, junos-netconify, 1.0.2, Junos console/bootstrap automation, 2016-02-08T07:04:46+0000
+/project/mallard-ducktype/, mallard-ducktype, 1.0.2, Parse Ducktype files and convert them to Mallard., 2019-07-21T18:59:34+0000
+/project/jsuite/, jsuite, 0.5.0, Parsing and manipulation tools for JATS XML files., 2017-09-27T10:17:46+0000
+/project/ntcir10-math-converter/, ntcir10-math-converter, 0.2.2,  The NTCIR-10 Math Converter package converts NTCIR-10 Math XHTML dataset and relevance judgements to the NTCIR-11 Math-2, and NTCIR-12 MathIR XHTML5 format., 2018-06-21T21:22:13+0000
+/project/py-dom-xpath-six/, py-dom-xpath-six, 0.2.3, XPath for DOM trees, 2019-02-02T17:04:56+0000
+/project/xmlcls/, xmlcls, 0.1b2, Classes for work with XML elements as objects, 2018-07-05T08:59:13+0000
+/project/doconce/, DocOnce, 1.5.9, Markup language similar to Markdown targeting scientific reports, software documentation, books, blog posts, and slides. DocOnce can generate LaTeX, Sphinx, HTML, IPython notebooks, Markdown, MediaWiki, and other formats, 2021-04-19T11:42:16+0000
+/project/pintail-asciidoc/, pintail-asciidoc, 0.3, Use AsciiDoc on Pintail sites., 2016-07-29T14:38:38+0000
+/project/rnginline/, rnginline, 0.0.2, Flatten multi-file RELAX NG schemas, 2015-05-30T15:43:13+0000
+/project/fastpt/, FastPt, 0.1dev, Really fast well-formed xml templates, 2010-07-01T14:07:59+0000
+/project/klon/, klon, 1.0.1, Utilities for building ElementTrees, 2021-01-08T11:49:58+0000
+/project/rdfa2rdf/, rdfa2rdf, 0.1, WSGI proxy for transforming RDFa to RDF via RDFa2RDFXML.xsl., 2007-09-26T00:08:25+0000
+/project/speedyxml/, speedyxml, 0.3.9.1, Speedy XML parser for Python, 2018-03-07T08:46:16+0000
+/project/exml/, exml, 0.2.1, Easy (for me) XML builder, 2012-03-02T09:04:04+0000
+/project/kajiki/, Kajiki, 0.8.2, Fast XML-based template engine with Genshi syntax and Jinja blocks, 2019-11-26T10:58:10+0000
+/project/kemmering/, kemmering, 1.0.3, Super simple XMLish tags, 2017-08-08T20:53:50+0000
+/project/imgkit/, imgkit, 1.2.2, Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt, 2021-04-10T13:49:38+0000
+/project/bmx/, bmx, 0.0.3, Basic Markup eXpressions, 2021-02-08T20:56:39+0000
+/project/sneakylang/, sneakylang, 0.3.0, Extensible framework for easy creation of extensible WikiLanguages, 2009-03-10T18:35:29+0000
+/project/introspectionparser/, introspectionparser, 0.2, Parses introspection json output to OpenStack prettytable form, 2017-03-14T14:29:03+0000
+/project/dido/, dido, 0.0.1.0, dido is an API server and Web application for the aeneas forced aligner, 2017-03-09T14:41:19+0000
+/project/simplerdfserver/, SimpleRDFServer, 0.2, Serves RDF (RSS 1.0) indexes of directories over HTTP, 2006-10-11T05:55:10+0000
+/project/my-xml/, my_xml, 0.1.2, Easy to use parser for simple XML, 2011-01-17T19:03:56+0000
+/project/tuhinga/, tuhinga, 0.1.1, Minimalistic markup language that translates to XML/HTML, 2015-05-28T21:04:07+0000
+/project/nkit4py/, nkit4py, 2.4.2, Fast XML to Python (and vise versa) converter and filter. Written in C++ using Expat SAX parser, 2016-05-25T16:30:41+0000
+/project/rdfcalendar/, RDFCalendar, 0.2.6, Conversion of iCalendar/vCard resources to RDF information, 2007-09-18T22:19:26+0000
+/project/simplegexf/, simplegexf, 0.1.5, A simple .gexf parser/writer for python, 2016-03-03T19:41:23+0000
+/project/brightcontent/, BrightContent, 0.1, Bright Content is Python Weblog software built from reusable components., 2006-09-02T17:36:32+0000
+/project/xmlplain/, xmlplain, 1.6.0, XML as plain object module, 2018-08-29T12:45:12+0000
+/project/ivydepparse/, ivydepparse, 1.0.1, Ivy Dependency Parser, 2015-09-30T14:13:51+0000
+/project/grenml/, grenml, 0.1.6, Library for creating, parsing, and storing GRENML, 2020-10-20T21:11:21+0000
+/project/ferenda/, ferenda, 0.3.0, Transform unstructured document collections to structured Linked Data, 2015-02-18T20:10:13+0000
+/project/mappet/, mappet, 0.1.2, Work with XML documents as if they were Python objects, 2015-08-27T10:11:47+0000
+/project/products-xmlwidgets/, Products.XMLWidgets, 0.13.1, XMLWidgets is a Zope 2 product used to create through the web viewers and editors of ParsedXML content., 2008-09-30T11:04:54+0000
+/project/eulexistdb/, eulexistdb, 0.21.1, Idiomatic access to the eXist-db XML Database using XPath and XQuery, 2016-08-04T15:48:43+0000
+/project/eulxml/, eulxml, 1.1.3, XPath-based XML data binding, with Django form support, 2016-06-03T19:44:04+0000
+/project/z3c-pt/, z3c.pt, 3.3.0, Fast ZPT engine., 2020-03-31T14:18:59+0000
+/project/pyces/, Pyces, 0.0, XML processing library combining Xerces-C++ with the ElementTree API, 2012-12-06T06:09:03+0000
+/project/pmgxml/, pmgxml, 0.1.0, PMG XML Tools, 2019-05-07T08:21:49+0000
+/project/pyxb-x/, PyXB-X, 2021.2.23, PyXB-X ("pixbix") is a pure Python package that generates Python source code for classes that correspond to data structures defined by XMLSchema., 2021-02-23T10:12:42+0000
+/project/cmf-pt/, cmf.pt, 1.0, Bridge to use Chameleon with Zope 2 and CMF., 2010-05-12T12:26:54+0000
+/project/forkparser/, forkparser, 6.1.0, A hopefully temporary fork of Universal Feed Parser, which handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds, 2018-01-16T00:02:08+0000
+/project/feedparser/, feedparser, 6.0.2, Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds, 2020-10-25T17:38:15+0000
+/project/pypodcastparserpodcastnamespace/, pyPodcastParserPodcastNamespace, 2.0.4, pyPodcastParserPodcastNamespace is a podcast parser that also includes some podcast namespace parsing capabilities, 2020-12-12T08:08:21+0000
+/project/mycapytain/, MyCapytain, 3.0.2, Library for CTS APIs and CapiTainS guidelines in Python, 2020-04-28T09:13:39+0000
+/project/pypodcastparser/, pyPodcastParser, 2.0.0, pyPodcastParser is a podcast parser., 2016-02-05T17:00:42+0000
+/project/kennyg/, kennyg, 0.1.6, KennyG SAX Handler, 2014-08-24T19:25:21+0000
+/project/weborganiser/, WebOrganiser, 0.2.7, A distribution of Web applications providing access to calendar, contact and message stores, 2007-09-18T22:23:34+0000
+/project/itools/, itools, 0.77.8, The itools library, 2017-10-21T17:48:40+0000
+/project/erp5diff/, erp5diff, 0.8.1.6, XUpdate Generator for ERP5, 2015-11-03T09:18:19+0000
+/project/haufe-stripml/, haufe.stripml, 1.2.2, Python extension for removing markup from strings., 2012-11-08T09:22:50+0000
+/project/demodocus/, demodocus, 1.0.0.1, demodocus is Python CLI program to quickly check synchronization maps, 2015-12-12T12:08:55+0000
+/project/pyscribus/, pyscribus, 0.2.1, Read, create and update Scribus .sla files., 2020-11-21T17:06:40+0000
+/project/wiktionary-de-parser/, wiktionary-de-parser, 0.8.1, Extracts data from German Wiktionary dump files. Allows you to add your own extraction methods 🚀, 2020-07-09T22:43:42+0000
+/project/magictree/, magictree, 1.0.0, Easily create ElementTree with automatic Element factories, 2011-07-06T14:46:36+0000
+/project/python-xml-hl7/, python-xml-hl7, 1.3.0, A library for parsing HL7 (version 2.x) messages in XML format into Python objects, 2019-06-27T16:46:41+0000
+/project/xslcoverage/, xslcoverage, 0.1.4, Scripts to compute the XSL Coverage done by an XSLT, 2016-11-26T16:39:10+0000
+/project/mm2s5/, mm2s5, 0.2.3, Convert a FreeMind mind-map (mm) into an S5 (html) presentation, 2010-06-21T15:55:13+0000
+/project/expatriate/, expatriate, 0.4, Library wrapping expat for parsing and generating XML and mapping objects from XML, 2018-01-18T17:43:20+0000
+/project/lbp-print/, lbp-print, 0.1.3, Script for compiling LombardPress encoded XML documents to TeX and PDF., 2019-01-18T15:04:04+0000
+/project/elementpath/, elementpath, 2.2.1, XPath 1.0/2.0 parsers and selectors for ElementTree and lxml, 2021-03-24T21:31:47+0000
+/project/iosxr-eznc/, iosxr-eznc, 2016.8.25, Python library for Cisco IOS-XR automation via NETCONF, 2016-08-25T16:03:41+0000
+/project/repoze-what-plugins-xml/, repoze.what.plugins.xml, 1.0rc1, The repoze.what XML plugin, 2009-01-28T08:36:32+0000
+/project/xupdate-processor/, xupdate-processor, 0.4, XUpdate Processor, 2011-01-21T14:12:49+0000
+/project/xpathi/, xpathi, 1.0.0, Library for generating XPath expressions as string using magic methods 🧙✨, 2020-09-05T21:28:55+0000
+/project/imzml2isa-qt/, imzml2isa-qt, 0.1.6, A PyQt interface for mzml2isa parser., 2017-01-25T10:34:06+0000
+/project/ecoxipy/, ECoXiPy, 0.4.0, Easy Creation of XML in Python, 2014-09-16T17:39:42+0000
+/project/ooopy/, OOoPy, 2.0, OOoPy: Modify OpenOffice.org documents in Python, 2020-02-06T21:58:50+0000
+/project/xq/, xq, 0.0.4, Like jq but for XML and XPath., 2017-11-01T15:47:03+0000
+/project/python-dirtt/, python-dirtt, 0.2, Directory Tree Templater, 2015-01-24T08:28:10+0000
+/project/ooopy-alt/, OOoPy-alt, 1.11, OOoPy: Modify OpenOffice.org documents in Python, 2017-08-30T17:19:08+0000
+/project/pybtex-docutils/, pybtex-docutils, 1.0.0, A docutils backend for pybtex., 2021-01-15T16:55:17+0000
+/project/pytidylib/, pytidylib, 0.3.2, Python wrapper for HTML Tidy (tidylib) on Python 2 and 3, 2016-11-16T01:52:59+0000
+/project/xml2rfc/, xml2rfc, 3.7.0, Xml2rfc generates RFCs and IETF drafts from document source in XML according to the IETF xml2rfc v2 and v3 vocabularies., 2021-04-05T20:11:32+0000
+/project/hooktest/, HookTest, 1.3.1, Hook Test Script for GitHub/CapiTainS repositories based on MyCapytain 3.0.0 or higher, 2020-01-23T08:40:35+0000
+/project/bundled-pdfkit/, bundled-pdfkit, 0.6.1, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2019-11-18T08:09:16+0000
+/project/dicttoxunit/, dicttoxunit, 0.0.3, Convert dictionary to xunit xml format, 2014-01-21T13:42:13+0000
+/project/lighty-template/, lighty-template, 0.3.4, Simple template engine for python, 2012-06-15T07:10:34+0000
+/project/xml2ddl/, xml2ddl, 0.3.1, Xml to DDL is a set tools to convert an XML representation of a database into a set of SQL (or DDL) commands and vice versa., 2005-09-29T18:35:26+0000
+/project/idnits/, idnits, 3.0.0, Convert text-format RFCs and Internet-Drafts to .xml format, 2018-12-31T19:56:26+0000
+/project/qtxmldom/, qtxmldom, 0.2.7, PyXML-style API for the qtxml Python bindings, 2005-11-13T15:44:47+0000
+/project/python-pskc/, python-pskc, 1.1, Python module for handling PSKC files, 2019-02-10T22:05:42+0000
+/project/georssy/, georssy, 0.0.3, A rough Python GeoRSS decoder, 2017-08-25T16:27:42+0000
+/project/penelope/, penelope, 3.1.3.0, Penelope is a multi-tool for creating, editing and converting dictionaries, especially for eReader devices, 2016-09-23T09:27:17+0000
+/project/selectq/, selectq, 0.0.6, Non cryptic XML/HTML parsing, 2020-12-15T02:56:21+0000
+/project/rnc2rng/, rnc2rng, 2.6.5, RELAX NG Compact to regular syntax conversion library, 2021-01-19T20:20:20+0000
+/project/id2xml/, id2xml, 1.5.0, Convert text-format RFCs and Internet-Drafts to .xml format, 2019-09-03T12:30:39+0000
+/project/characterentities/, characterentities, 0.1.2, HTML Entities for Python, 2018-09-29T17:20:10+0000
+/project/pdfkit-async/, pdfkit-async, 0.7.2, Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt, 2020-05-09T21:02:10+0000
+/project/xmlwitch/, xmlwitch, 0.3, xmlwitch offers Pythonic XML generation through context generators, 2016-08-25T20:29:21+0000
+/project/openaccess-epub/, openaccess_epub, 0.6.2, Converts OpenAccess Journal articles to EPUB, 2014-05-03T19:23:56+0000
+/project/pysiss/, pysiss, 0.0.4, A pythonic interface to Spatial Information Services Stack (SISS) services, 2015-01-19T03:57:19+0000
+/project/beautifulsoup4/, beautifulsoup4, 4.9.3, Screen-scraping library, 2020-10-03T15:37:19+0000
+/project/tlang-tdoc/, tlang-tdoc, 0.0.1, Tree Document Format, 2020-03-03T03:03:40+0000
+/project/lachesis/, lachesis, 0.0.3.0, lachesis automates the segmentation of a transcript into closed captions, 2017-01-26T21:14:42+0000
+/project/pywapa/, PyWaPa, 0.1.1, Python WhAtever Parser is a python markup converter from xml, json, yaml and ini to python dictionary. It allows also conversion between markup languages., 2010-12-02T19:24:56+0000
+/project/pintail/, pintail, 0.5, Build complete web site from Mallard sources., 2019-01-24T16:00:43+0000
+/project/rfc-xmldiff/, rfc-xmldiff, 0.6.0, Create an HTML difference display from two XML input files., 2019-10-15T19:07:32+0000
+/project/xml-boiler/, xml-boiler, 0.9.15, Automatically transform between XML namespaces, 2020-11-19T02:03:41+0000
+/project/rss-parser/, rss-parser, 0.2.3, Typed pythonic RSS parser, 2021-04-15T15:30:34+0000
+/project/beetle-sitemap/, Beetle-Sitemap, 1.0.0, Enables Beetle to generate a sitemap.xml file, 2015-01-01T17:28:26+0000
+/project/tagcap/, tagcap, 0.1.8, A simple and efficient HTML/XML parsing library written in pure Python, 2020-07-08T22:47:33+0000
+/project/delb/, delb, 0.2, A library that provides an ergonomic model for XML encoded text documents (e.g. with TEI-XML)., 2020-07-26T12:23:15+0000
+/project/hatena2rest/, hatena2rest, 0.1.1, converting Hatena diary to reST format, 2012-09-14T07:45:23+0000
+/project/quoter/, quoter, 1.6.8, Powerful way to construct text, HTML, and XML, plus a kick-ass join, 2017-05-15T23:56:30+0000
+/project/lxml/, lxml, 4.6.3, Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API., 2021-03-21T18:09:35+0000
+/project/rfc-errata/, rfc-errata, 0.3.0, Build html files from the text RFCs and the errata database., 2019-11-03T03:39:26+0000
+/project/citelementtree/, citelementtree, 1.2.7, ElementTree - a light-weight XML object model for Python., 2015-03-04T03:28:02+0000
+/project/curlwrapper/, curlwrapper, 0.1.110, curlwrapper (browser interface for curl), 2011-11-08T03:48:09+0000
+/project/listcomparator/, ListComparator, 0.1, Compares ordered lists, xml and csv application, 2009-12-13T16:46:50+0000
+/project/dirty/, dirty, 1.0.2, A dirty and simple HTML/XML template engine for Python 3., 2009-05-19T02:44:48+0000
+/project/portableqda/, portableqda, 0.2.0, import/export QDC and QDPX files for Qualitative Data Analysis (CAQDAS) Software, conforming to the XML-based REFI-QDA Standard (https://www.qdasoftware.org), 2021-03-14T23:15:28+0000
+/project/dexml2/, dexml2, 0.5.3, a dead-simple Object-XML mapper for Python, 2017-03-30T17:33:51+0000
+/project/bdt-sitemap/, bdt_sitemap, 0.9, Sitemap.xml generator for a local copy of a website, 2014-08-13T21:36:28+0000
+/project/ruledxml/, ruledxml, 1.6.0, Rule-based XML transformations, 2016-06-15T21:33:05+0000
+/project/elementtreefactory/, ElementTreeFactory, 1.0, A Genshi-inspired framework for easy use of ElementTree, 2011-11-27T19:51:42+0000
+/project/pdfgen/, pdfgen, 1.0.5, Pyppeteer-based async python wrapper to convert html to pdf, 2020-08-12T18:11:24+0000
+/project/gongtestfirst/, gongtestfirst, 1.2.224, , 2020-09-08T09:07:40+0000
+/project/nmrml2isa-qt/, nmrml2isa-qt, 0.1.3, A PyQt interface for nmrml2isa parser., 2016-09-18T17:55:12+0000
+/project/markdowndotnet/, markdowndotnet, 0.1.0a2, A Python markdown generator for C# libraries documentation., 2018-04-10T18:44:51+0000
+/project/longtroll/, longtroll, 1.0, Detect long-running processes and notify you when they're done., 2012-08-01T01:14:21+0000
+/project/xmltool/, xmltool, 1.0.0, Tool to manipulate XML files, 2020-07-21T15:25:39+0000
+/project/xmlschema/, xmlschema, 1.6.1, An XML Schema validator and decoder, 2021-04-11T21:18:52+0000
+/project/jsnapy/, jsnapy, 1.3.6, Python version of Junos Snapshot Administrator, 2021-02-27T05:41:52+0000
+/project/listparser/, listparser, 0.18, Parse OPML, FOAF, and iGoogle subscription lists., 2015-04-21T21:54:28+0000
+/project/coverage2clover/, coverage2clover, 3.2.0, A tool to convert python-coverage xml report to Atlassian Clover xml report format, 2021-03-02T06:13:12+0000
+/project/prettierfier/, prettierfier, 1.0.3, Intelligently pretty-print HTML/XML with inline tags., 2019-07-22T23:42:54+0000
+/project/sosaxy/, sosaxy, 0.4.0, xml processing utility, 2017-07-24T01:13:33+0000
+/project/ll-toxic/, ll-toxic, 0.10, Generate Oracle functions from PL/SQL embedded in XML., 2008-01-07T16:42:46+0000
+/project/pymods/, pymods, 2.0.10, Utility class wrapping lxml for reading data from MODS v3.4 XML metadata into Python data types., 2020-07-22T14:43:53+0000
+/project/easy-xml/, easy-xml, 0.5.0, EasyXML is a simple object representation of an XML document., 2018-10-30T02:28:15+0000
+/project/products-parsedxml/, Products.ParsedXML, 1.5.1, Parsed XML allows you to use XML objects in the Zope 2 environment., 2010-07-15T15:34:41+0000
+/project/rfctools-common/, rfctools-common, 0.6.2, Common routines for a set of RFC Production center tools, 2020-04-10T03:29:10+0000
+/project/rsslib/, RssLib, 1.0.0.0, RSS Reader, RssLib Library, 2011-01-09T07:42:34+0000
+/project/python-benedict/, python-benedict, 0.23.2, python-benedict is a dict subclass with keylist/keypath support, I/O shortcuts (base64, csv, json, pickle, plist, query-string, toml, xml, yaml) and many utilities... for humans, obviously., 2021-01-19T11:08:10+0000
+/project/nforge-migration/, nforge-migration, 1.1.0.post2, Migrate nForge project to GitHub, 2016-11-21T07:37:27+0000
+/project/l5x/, l5x, 1.5, RSLogix .L5X interface., 2020-08-02T17:53:38+0000
+/project/clarify/, Clarify, 0.4.0, A library for scraping and parsing election results from jurisdictions using Clarity elections systems., 2018-10-08T17:08:19+0000
+/project/libvirt-vmcfg/, libvirt-vmcfg, 0.0.3, XML builder for libvirt virtual machine configuration, 2021-02-13T12:54:35+0000
+/project/dexml/, dexml, 0.5.1, a dead-simple Object-XML mapper for Python, 2012-10-25T21:39:33+0000
+/project/ttr-xml-csv2xml/, ttr.xml.csv2xml, 0.1.2dev002, module, providing conversion of csv file into xml, 2011-08-12T18:25:25+0000
+/project/flamingo/, flamingo, 1.6, Flamingo is a python3-based, pelican-inspired static site generator, 2021-04-09T15:00:02+0000
+/project/xmlegant/, XMLegant, 0.8.1, A class allowing easy XML generation, 2009-03-31T01:09:17+0000
+/project/ipython-beautifulsoup/, ipython-beautifulsoup, 0.3, Custom rendering of beautifulsoup objects       in IPython notebook and qtconsole, 2014-08-26T03:57:18+0000
+/project/emeraldtree/, emeraldtree, 0.10.0, EmeraldTree - a light-weight XML object model for Python., 2015-06-09T23:20:22+0000
+/project/codevalidator/, codevalidator, 0.8.2, Simple source code validator with file reformatting option (remove trailing WS, pretty print XML, ..), 2015-06-05T10:20:30+0000
+/project/dict2xml/, dict2xml, 1.7.0, Small utility to convert a python dictionary into an XML string, 2020-04-15T22:05:53+0000
+/project/feedler/, feedler, 0.0.2, A dead simple parser, 2020-09-06T22:39:33+0000
+/project/py3-aeneas/, py3-aeneas, 1.1.0, py3-aeneas is a fork of aeneas, 2020-05-03T17:25:40+0000
+/project/soovee/, SooVee, 1.07.3, SooVee Serial Audio Manager for a serial audio feed subscription service., 2009-06-12T03:13:51+0000
+/project/gusgus/, gusgus, 0.0.2, This a toolkit to work with the Icelandic Gigaword corpus, 2020-11-05T15:09:09+0000
+/project/scielo-clea/, scielo-clea, 0.4.2, SciELO Publishing Schema XML document front matter metadata reader/sanitizer, 2020-04-08T18:14:49+0000
+/project/webstring/, webstring, 0.5, Template engine that uses Python as the template language, 2007-01-04T21:25:29+0000
+/project/xmlutils/, xmlutils, 1.4.1, A set of utilities for processing XML documents and converting to other formats, 2020-09-29T14:46:53+0000
+/project/mediawiki-dump/, mediawiki-dump, 0.7.0, Python package for working with MediaWiki XML content dumps, 2020-09-16T17:04:34+0000
+/project/pyhaml/, PyHAML, 1.2.1, Pythonic implementation of HAML, cross compiling to Mako template syntax., 2019-07-29T01:20:55+0000
+/project/xml-marshaller/, xml_marshaller, 1.0.2, Converting Python objects to XML and back again., 2019-02-25T10:21:13+0000
+/project/tpen2tei/, tpen2tei, 1.2.6, A module for conversion of SharedCanvas-JSON transcription data to TEI XML, 2020-08-24T20:43:55+0000
+/project/take/, take, 0.2.0, A DSL for extracting data from a web page., 2015-04-15T08:19:23+0000
+/project/mobilpy/, mobilpy, 0.4.1, Library that helps create the XML necessary for online payments with MobilPay, 2019-12-18T09:53:24+0000
+/project/svgcheck/, svgcheck, 0.6.0, Verify that an svg file is compliant with the RFC standards., 2019-10-15T19:06:36+0000
+/project/snakesist/, snakesist, 0.2.0, A Python database interface for eXist-db, 2020-09-13T13:49:03+0000
+/project/pobapi/, pobapi, 0.6.0, API for Path Of Building's build sharing format., 2020-09-08T21:58:40+0000
+/project/pyxsd/, pyxsd, 0.1, Python XML/Schema processing tool, 2006-09-08T19:46:31+0000
+/project/agentml/, AgentML, 0.3.1, An XML dialect for creating natural language software agents, 2015-11-03T05:58:12+0000
+/project/asciimathml/, asciimathml, 0.9.5.1, ASCIIMathML to MathML translator, 2016-08-09T18:24:43+0000
+/project/junos-eznc/, junos-eznc, 2.6.0, Junos 'EZ' automation for non-programmers, 2021-04-22T15:17:17+0000
+/project/ptulsconv/, ptulsconv, 0.5.3, Parse and convert Pro Tools text exports, 2020-10-11T06:21:00+0000
+/project/xmldiff/, xmldiff, 2.4, Creates diffs of XML files, 2019-10-09T09:41:14+0000
+/project/teed/, teed, 0.0.6, Telco engineering data library, 2021-04-11T22:24:49+0000
+/project/rfeed/, rfeed, 1.1.1, Python RSS 2.0 Generator, 2016-07-04T18:12:42+0000
+/project/twiddler/, twiddler, 0.9.1, A simple but flexible templating system for dynamically generating textual output., 2008-07-24T23:23:14+0000
+/project/podgen/, podgen, 1.1.0, Generating podcasts with Python should be easy!, 2020-03-06T19:46:09+0000
+/project/five-pt/, five.pt, 3.0, DEPRECATED: Five bridges and patches to use Chameleon with Zope., 2017-11-30T07:58:45+0000
+/project/xsd-to-django-model/, xsd-to-django-model, 0.8.9, Generate Django models from an XSD schema description (and a bunch of hints), 2018-07-24T14:16:06+0000
+/project/wq-io/, wq.io, 1.1.0, Consistent iterable API for reading and writing to external datasets, 2018-06-12T19:16:38+0000
+/project/feedgen/, feedgen, 0.9.0, Feed Generator (ATOM, RSS, Podcasts), 2020-01-28T17:12:58+0000
+/project/elementtreewriter/, elementtreewriter, 1.2, XML writer for elementtree with sane namespace support., 2015-05-22T15:37:27+0000
+/project/python-appstream/, python-appstream, 0.8, Parse AppStream files when you don't have libappstream-glib, 2015-10-30T14:56:02+0000
+/project/xmlcomparator/, xmlComparator, 1.0.3, xml comparison ignoring order of child nodes, 2014-10-26T04:33:45+0000
+/project/lxml-odidev/, lxml-odidev, 4.5.0, Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API., 2020-04-29T05:36:08+0000
+/project/libxml2dom/, libxml2dom, 0.5, PyXML-style API for the libxml2 Python bindings, 2011-02-27T20:48:24+0000
+/project/lxml-mate/, lxml-mate, 0.5.3, The simplest Object-XML mapper for Python. Mate for lxml., 2015-07-20T00:33:38+0000
+/project/bibgen/, bibgen, 0.2, A citation and bibliography generator, 2015-05-21T19:21:55+0000
+/project/hand/, hand, 0.5, Feed generator for screen scrapers, 2011-11-27T21:49:43+0000
+/project/amara/, Amara, 2.0.0, Library for XML processing in Python, 2014-03-23T02:01:18+0000
+/project/pygenx/, pygenx, 0.6, Wrapper for the genx lightweight canonical XML generation library., 2005-08-24T00:28:30+0000
+/project/rdfmessage/, RDFMessage, 0.1.2, Conversion of message resources to RDF information., 2007-09-18T22:21:11+0000
+/project/rattlepy/, rattlepy, 0.0.5a1, A easy-to-use pure python HTML template engine, 2019-04-20T11:40:33+0000
+/project/sprout/, Sprout, 1.1.1, Common Python library which contains reusable components, developed at Infrae., 2013-05-23T09:45:42+0000
+/project/pyhaml/, PyHAML, 1.2.1, Pythonic implementation of HAML, cross compiling to Mako template syntax., 2019-07-29T01:20:55+0000
+/project/xml-marshaller/, xml_marshaller, 1.0.2, Converting Python objects to XML and back again., 2019-02-25T10:21:13+0000
+/project/tpen2tei/, tpen2tei, 1.2.6, A module for conversion of SharedCanvas-JSON transcription data to TEI XML, 2020-08-24T20:43:55+0000
+/project/take/, take, 0.2.0, A DSL for extracting data from a web page., 2015-04-15T08:19:23+0000
+/project/mobilpy/, mobilpy, 0.4.1, Library that helps create the XML necessary for online payments with MobilPay, 2019-12-18T09:53:24+0000
+/project/svgcheck/, svgcheck, 0.6.0, Verify that an svg file is compliant with the RFC standards., 2019-10-15T19:06:36+0000
+/project/snakesist/, snakesist, 0.2.0, A Python database interface for eXist-db, 2020-09-13T13:49:03+0000
+/project/pobapi/, pobapi, 0.6.0, API for Path Of Building's build sharing format., 2020-09-08T21:58:40+0000
+/project/pyxsd/, pyxsd, 0.1, Python XML/Schema processing tool, 2006-09-08T19:46:31+0000
+/project/agentml/, AgentML, 0.3.1, An XML dialect for creating natural language software agents, 2015-11-03T05:58:12+0000
+/project/asciimathml/, asciimathml, 0.9.5.1, ASCIIMathML to MathML translator, 2016-08-09T18:24:43+0000
+/project/junos-eznc/, junos-eznc, 2.6.0, Junos 'EZ' automation for non-programmers, 2021-04-22T15:17:17+0000
+/project/ptulsconv/, ptulsconv, 0.5.3, Parse and convert Pro Tools text exports, 2020-10-11T06:21:00+0000
+/project/xmldiff/, xmldiff, 2.4, Creates diffs of XML files, 2019-10-09T09:41:14+0000
+/project/teed/, teed, 0.0.6, Telco engineering data library, 2021-04-11T22:24:49+0000
+/project/rfeed/, rfeed, 1.1.1, Python RSS 2.0 Generator, 2016-07-04T18:12:42+0000
+/project/twiddler/, twiddler, 0.9.1, A simple but flexible templating system for dynamically generating textual output., 2008-07-24T23:23:14+0000
+/project/podgen/, podgen, 1.1.0, Generating podcasts with Python should be easy!, 2020-03-06T19:46:09+0000
+/project/five-pt/, five.pt, 3.0, DEPRECATED: Five bridges and patches to use Chameleon with Zope., 2017-11-30T07:58:45+0000
+/project/xsd-to-django-model/, xsd-to-django-model, 0.8.9, Generate Django models from an XSD schema description (and a bunch of hints), 2018-07-24T14:16:06+0000
+/project/aeneas/, aeneas, 1.7.3.0, aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment), 2017-03-16T12:54:13+0000
+/project/chameleon-zpt/, chameleon.zpt, 1.1.3, Zope Page Template engine based on Chameleon, 2009-11-04T11:40:22+0000
+/project/marcxml2mods/, marcxml2mods, 0.2.5, Conversion from MARCXML/OAI to MODS, which is used in NK CZ., 2015-08-21T12:26:39+0000
+/project/libearth/, libearth, 0.3.3, The shared common library for Earth Reader apps, 2014-11-05T18:30:33+0000
+/project/pyxb/, PyXB, 1.2.6, Python XML Schema Bindings, 2017-09-03T12:51:26+0000
+/project/async-imgkit/, async-imgkit, 0.0.5, Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt, 2021-01-18T00:00:24+0000
+/project/bach/, bach, 0.1b6, An XML-interoperable general-purpose semantic document markup language*, 2019-03-01T00:48:09+0000
+/project/zoegas/, zoegas, 1.1.0, Old Norse Zoëga's dictionary, 2020-05-06T21:38:01+0000
+/project/goodruns/, goodruns, 2.8.1, ATLAS Good Run List (GRL) reader and utilities, 2015-06-22T02:56:01+0000
+/project/xmlcheck/, XMLCheck, 0.7.1, xml-data validator tool, 2014-03-24T00:11:43+0000
+/project/fiduswriter/, fiduswriter, 3.9.21, A semantic wordprocessor for academic purposes, 2021-04-18T02:23:50+0000
+/project/pytidylib6/, pytidylib6, 0.2.2, Python wrapper for HTML Tidy (tidylib), compatible with Python 2 and 3, 2013-12-09T19:45:53+0000
+/project/ultimate-sitemap-parser/, ultimate-sitemap-parser, 0.5, Ultimate Sitemap Parser, 2019-07-31T11:15:46+0000
+/project/wq/, wq, 1.2.1, A modular framework for citizen science field data collection via offline-capable mobile web apps., 2020-09-02T08:14:40+0000
+/project/mathdom/, mathdom, 0.8, MathDOM - Content MathML in Python, 2008-03-11T18:19:49+0000
+/project/inxs/, inxs, 0.2b1, A framework for XML transformations without boilerplate., 2019-06-23T15:19:11+0000
+/project/mm2notes/, mm2notes, 0.1.1, Convert a FreeMind mind-map (mm) into a meeting notes (html/txt)., 2011-01-30T01:25:36+0000
+/project/pymediarss2gen/, PyMediaRSS2Gen, 0.1.1, A Python library for generating Media RSS 2.0 feeds., 2014-10-08T17:17:17+0000
+/project/pyfo/, pyfo, 0.6, Easily generate XML from Python data structures., 2007-06-12T19:20:58+0000
+/project/tei-transformer/, tei_transformer, 0.3.1, Transform a TEI-encoded critical edition into a print-ready file., 2016-02-15T09:23:11+0000
+/project/async-imgkit/, async-imgkit, 0.0.5, Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt, 2021-01-18T00:00:24+0000
+/project/xul/, Xul, 2.3.0, XML (XPath, XSD, XSLT) Utilities, 2021-01-28T19:02:54+0000
+/project/plone-recipe-lxml/, plone.recipe.lxml, 0.4, Recipe that builds lxml and dependencies (libxslt, libxml2)., 2010-08-20T11:57:57+0000
+/project/libcomxml/, libComXML, 3.1.0, This library permits XML generation from Python objects, 2017-10-24T09:49:59+0000
+/project/mzml2isa/, mzml2isa, 1.0.3, mzML file parser and converter to ISA-Tab, 2020-04-01T20:17:59+0000
+/project/gusgus/, gusgus, 0.0.2, This a toolkit to work with the Icelandic Gigaword corpus, 2020-11-05T15:09:09+0000
+/project/bach/, bach, 0.1b6, An XML-interoperable general-purpose semantic document markup language*, 2019-03-01T00:48:09+0000
+/project/zoegas/, zoegas, 1.1.0, Old Norse Zoëga's dictionary, 2020-05-06T21:38:01+0000
+/project/goodruns/, goodruns, 2.8.1, ATLAS Good Run List (GRL) reader and utilities, 2015-06-22T02:56:01+0000
+/project/xmlcheck/, XMLCheck, 0.7.1, xml-data validator tool, 2014-03-24T00:11:43+0000
+/project/scielo-clea/, scielo-clea, 0.4.2, SciELO Publishing Schema XML document front matter metadata reader/sanitizer, 2020-04-08T18:14:49+0000
+/project/webstring/, webstring, 0.5, Template engine that uses Python as the template language, 2007-01-04T21:25:29+0000
+/project/xmlutils/, xmlutils, 1.4.1, A set of utilities for processing XML documents and converting to other formats, 2020-09-29T14:46:53+0000
+/project/mediawiki-dump/, mediawiki-dump, 0.7.0, Python package for working with MediaWiki XML content dumps, 2020-09-16T17:04:34+0000
+/project/prettierfier/, prettierfier, 1.0.3, Intelligently pretty-print HTML/XML with inline tags., 2019-07-22T23:42:54+0000
+/project/sosaxy/, sosaxy, 0.4.0, xml processing utility, 2017-07-24T01:13:33+0000
+/project/ll-toxic/, ll-toxic, 0.10, Generate Oracle functions from PL/SQL embedded in XML., 2008-01-07T16:42:46+0000
+/project/pymods/, pymods, 2.0.10, Utility class wrapping lxml for reading data from MODS v3.4 XML metadata into Python data types., 2020-07-22T14:43:53+0000
+/project/plantextract/, plantextract, 0.3.0, Python Plant Extract Document processor, 2013-11-05T08:03:39+0000
+/project/xapiparser/, xapiparser, 0.0.15, XAPI ssh command parser to convert cli commands to xml for use in the Cisco XAPI REST API, 2020-12-07T17:20:18+0000
+/project/docx2html/, docx2html, 0.2.3, docx (OOXML) to html converter, 2013-04-24T19:33:42+0000
+/project/xmltodict/, xmltodict, 0.12.0, Makes working with XML feel like you are working with JSON, 2019-02-11T07:00:24+0000
+/project/rfclint/, rfclint, 0.6.1, Perform a set of checks on an RFC input file to check for errors., 2020-01-28T01:13:14+0000
+/project/configo/, Configo, 1.4, Easy way to use existing JSON, XML or YAML config files from bash shell/scripts, 2016-07-05T12:22:33+0000
+/project/xsltools/, XSLTools, 0.5, Modules and packages for the development of XML/XSL-based applications, 2007-09-18T22:25:35+0000
+/project/xmlobject/, xmlobject, 0.1, Interface XML using neat Python syntax, 2012-01-10T01:55:20+0000
+/project/askxml/, askxml, 1.0.0, Run SQL statements on XML documents, 2018-04-14T16:10:28+0000
+/project/pintail-itstool/, pintail-itstool, 0.3, Use ITSTool to translate Pintail sites., 2019-01-24T16:02:43+0000
+/project/flask-genshi/, Flask-Genshi, 0.5.1, An extension to Flask for easy Genshi templating., 2010-11-27T15:10:24+0000
+/project/minixsv/, minixsv, 0.9.0, A lightweight XML schema validator written in pure Python, 2008-08-11T22:10:27+0000
+/project/namedentities/, namedentities, 1.9.4, Named (and numeric) HTML entities to/from each other or Unicode, 2017-05-31T19:44:41+0000
+/project/defusedexpat/, defusedexpat, 0.4, XML bomb protection with modified expat parser, 2013-02-25T11:50:41+0000
+/project/mathml2omml/, mathml2omml, 0.0.2, , 2019-11-24T07:30:51+0000
+/project/ll-core/, ll-core, 1.11.1, LivingLogic base package: ansistyle, color, make, sisyphus, xpit, url, xml_codec, 2008-01-11T13:47:18+0000
+/project/gexml/, gexml, 1.2.0, A dead-simple Object-XML mapper for Python., 2021-03-02T07:20:09+0000
+/project/gpxtools/, gpxtools, 0.2.1, Command line tools useful to manipulate GPX files., 2010-02-15T18:14:06+0000
+/project/xsdata-plantuml/, xsdata-plantuml, 21.4, xsdata PlantUML generator, 2021-04-02T20:33:42+0000
+/project/cobalt/, cobalt, 4.1.0, A lightweight library for working with Akoma Ntoso Act documents, 2020-12-01T07:18:31+0000
+/project/sk-recipe-xdv/, sk.recipe.xdv, 0.0.0, A recipe for Buildout (zc.buildout) to compile XDV rules into XSLT, 2010-05-29T21:43:39+0000
+/project/welder/, welder, 0.1.5, HTML/XML server-side transformer. Port of hij1nk's weld for node.js., 2012-05-23T13:41:35+0000
+/project/xhtml2pdf-legacy/, xhtml2pdf-legacy, 3.0.38, PDF generator using HTML and CSS, 2017-06-26T08:32:34+0000
+/project/xmlsec/, xmlsec, 1.3.10, Python bindings for the XML Security Library, 2021-04-25T21:04:13+0000

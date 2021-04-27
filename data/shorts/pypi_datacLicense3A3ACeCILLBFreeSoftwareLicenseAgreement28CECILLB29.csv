@@ -1,0 +1,64 @@
+/project/kfpga/, kfpga, 0.0.1, An open source FPGA, 2019-07-04T22:23:59+0000
+/project/pymodaq-plugins-newport/, pymodaq-plugins-newport, 0.0.3, Set of PyMoDAQ plugins for instruments from Newport (Conex, ESP100,...), 2021-02-10T22:28:44+0000
+/project/pymodaq-plugins-flim/, pymodaq-plugins-flim, 0.0.2, Set of PyMoDAQ plugins for FLIM Measurements (Fluorescence Lifetime Imaging Microscopy) (using a conjugation of Time-Correlated Single Photon Counting (TSCPC) and xy stages), 2021-02-10T22:10:36+0000
+/project/pymodaq-plugins-oceaninsight/, pymodaq-plugins-oceaninsight, 0.0.2, Set of PyMoDAQ plugins for OceanInsight (OceanOptics) spectrometers, 2021-02-10T22:32:33+0000
+/project/pymodaq-plugins/, pymodaq-plugins, 3.1.1, Set of base PyMoDAQ plugins including Mock ones for development, 2021-03-23T16:45:33+0000
+/project/pymodaq-plugins-picoquant/, pymodaq-plugins-picoquant, 0.0.2, Set of PyMoDAQ plugins for Picoquant instruments (TimeHarp260, ...), 2021-02-10T22:44:45+0000
+/project/pymodaq-plugins-orsay/, pymodaq-plugins-orsay, 0.0.1, Hardware plugins for PyMoDAQ using the NiDAQmx framework (pydaqmx wrapper), 2020-11-05T15:01:15+0000
+/project/pymodaq-plugins-thorlabs/, pymodaq-plugins-thorlabs, 0.0.2, Set of PyMoDAQ plugins for instruments from Thorlabs (Kinesis K10CR1 (stepper rotation actuator), Kinesis Flipper, Kinesis KSP100...), 2021-02-10T22:24:48+0000
+/project/units-converter/, units-converter, 0.0.1, Wave units converter, 2020-06-30T14:59:23+0000
+/project/ecophylo/, ecophylo, 0.0.8, Coalescent-based simulations of eco-evolutionary biodiverity dynamics, 2021-03-16T15:51:46+0000
+/project/pymodaq-plugins-amplitude/, pymodaq-plugins-amplitude, 0.0.2, Set of PyMoDAQ plugins for Amplitude Systems Lasers, 2021-02-10T20:43:21+0000
+/project/django-npb/, django-npb, 1.1.1, Pastebin module for Django, 2020-02-28T16:38:21+0000
+/project/beeactions/, beeactions, 1.0, Bee Behaviour Temporal Analysis, 2020-03-13T14:48:01+0000
+/project/pymodaq-femto/, pymodaq-femto, 0.0.1, PyMoDAQ extension for femtosecond laser pulse characterization, 2021-03-18T20:20:25+0000
+/project/qprof-qiskit/, qprof-qiskit, 1.0.1, qprof plugin for qiskit framework., 2021-01-17T18:17:39+0000
+/project/pymodaq-plugins-piezoconcept/, pymodaq-plugins-piezoconcept, 0.0.3, Set of PyMoDAQ plugins for Actuators from Piezoconcept (Tested on the Bio200 XY stage. Include a version of the controller firmware emulating functions from PhysikInstrumente), 2021-02-11T20:03:33+0000
+/project/pymodaq-plugins-femto/, pymodaq-plugins-femto, 0.0.2, Plugin to simulate acquisition from ultrashort pulse measurement device based on the pypret package, 2021-03-18T20:18:09+0000
+/project/qasm2image/, qasm2image, 0.8.0, An OpenQASM visualisation tool, 2018-10-09T14:25:53+0000
+/project/spectrochempy/, spectrochempy, 0.1.22, Processing, analysis and modelling Spectroscopic data for Chemistry with Python, 2020-09-26T19:46:54+0000
+/project/pymodaq-plugins-physik-instrumente/, pymodaq-plugins-physik-instrumente, 0.0.2, Set of PyMoDAQ plugins for Actuators from Physik Instumente (All the ones compatible with the GCS2 commands as well as the old 32bits MMC controller...), 2021-02-10T22:41:20+0000
+/project/qprof-interfaces/, qprof-interfaces, 1.0.1, qprof plugin providing the base interfaces., 2021-01-17T18:15:29+0000
+/project/pymodaq-plugins-andor/, pymodaq-plugins-andor, 0.0.2, Set of PyMoDAQ plugins for Andor Camera (CCD camera using SDK2, SCMOS cameras using SDK3...), 2021-02-10T21:21:49+0000
+/project/spectrochempy/, spectrochempy, 0.1.22, Processing, analysis and modelling Spectroscopic data for Chemistry with Python, 2020-09-26T19:46:54+0000
+/project/pymodaq-plugins-physik-instrumente/, pymodaq-plugins-physik-instrumente, 0.0.2, Set of PyMoDAQ plugins for Actuators from Physik Instumente (All the ones compatible with the GCS2 commands as well as the old 32bits MMC controller...), 2021-02-10T22:41:20+0000
+/project/pymodaq-plugins-smaract/, pymodaq-plugins-smaract, 0.0.3, Set of PyMoDAQ plugins for linear actuators from Smaract(SLC positioners). MCS and MCS2 controllers are supported., 2021-04-23T09:25:55+0000
+/project/qprof/, qprof, 1.4.0, A quantum circuit profiling tool., 2021-01-17T18:14:28+0000
+/project/bcdi/, bcdi, 0.1.1, BCDI: tools for pre(post)-processing Bragg and forward coherent X-ray diffraction imaging data, 2021-03-29T09:50:57+0000
+/project/pymodaq-plugins-physical-measurements/, pymodaq-plugins-physical-measurements, 0.0.4, Set of PyMoDAQ plugins for various physical measurements: multimeter, lockin, oscilloscope, indus cameras..., 2021-02-10T22:19:56+0000
+/project/pymodaq-plugins-horiba/, pymodaq-plugins-horiba, 0.0.2, Set of PyMoDAQ plugins for Horiba Instruments (Lapspec6TCP to communicate with labspec softaware using the AFM TCP/IP protocol), 2021-02-10T22:37:28+0000
+/project/lycee/, lycee, 2.6.1, Un ensemble de fonctions pour utiliser facilement Python au lycée., 2018-09-12T20:15:28+0000
+/project/qasm2image/, qasm2image, 0.8.0, An OpenQASM visualisation tool, 2018-10-09T14:25:53+0000
+/project/pymodaq-plugin-manager/, pymodaq-plugin-manager, 0.0.13, Manager and interface to list, install or remove PyMoDAQ's plugins, 2021-03-18T12:43:00+0000
+/project/pymodaq-plugins-oceaninsight/, pymodaq-plugins-oceaninsight, 0.0.2, Set of PyMoDAQ plugins for OceanInsight (OceanOptics) spectrometers, 2021-02-10T22:32:33+0000
+/project/pymodaq-plugins-newport/, pymodaq-plugins-newport, 0.0.3, Set of PyMoDAQ plugins for instruments from Newport (Conex, ESP100,...), 2021-02-10T22:28:44+0000
+/project/pymodaq-plugins-flim/, pymodaq-plugins-flim, 0.0.2, Set of PyMoDAQ plugins for FLIM Measurements (Fluorescence Lifetime Imaging Microscopy) (using a conjugation of Time-Correlated Single Photon Counting (TSCPC) and xy stages), 2021-02-10T22:10:36+0000
+/project/kfpga/, kfpga, 0.0.1, An open source FPGA, 2019-07-04T22:23:59+0000
+/project/beeactions/, beeactions, 1.0, Bee Behaviour Temporal Analysis, 2020-03-13T14:48:01+0000
+/project/pymodaq-plugins-picoquant/, pymodaq-plugins-picoquant, 0.0.2, Set of PyMoDAQ plugins for Picoquant instruments (TimeHarp260, ...), 2021-02-10T22:44:45+0000
+/project/pymodaq-femto/, pymodaq-femto, 0.0.1, PyMoDAQ extension for femtosecond laser pulse characterization, 2021-03-18T20:20:25+0000
+/project/pymodaq-plugins/, pymodaq-plugins, 3.1.1, Set of base PyMoDAQ plugins including Mock ones for development, 2021-03-23T16:45:33+0000
+/project/ecophylo/, ecophylo, 0.0.8, Coalescent-based simulations of eco-evolutionary biodiverity dynamics, 2021-03-16T15:51:46+0000
+/project/pymodaq-plugins-amplitude/, pymodaq-plugins-amplitude, 0.0.2, Set of PyMoDAQ plugins for Amplitude Systems Lasers, 2021-02-10T20:43:21+0000
+/project/django-npb/, django-npb, 1.1.1, Pastebin module for Django, 2020-02-28T16:38:21+0000
+/project/pymodaq-plugins-orsay/, pymodaq-plugins-orsay, 0.0.1, Hardware plugins for PyMoDAQ using the NiDAQmx framework (pydaqmx wrapper), 2020-11-05T15:01:15+0000
+/project/pymodaq-plugins-thorlabs/, pymodaq-plugins-thorlabs, 0.0.2, Set of PyMoDAQ plugins for instruments from Thorlabs (Kinesis K10CR1 (stepper rotation actuator), Kinesis Flipper, Kinesis KSP100...), 2021-02-10T22:24:48+0000
+/project/units-converter/, units-converter, 0.0.1, Wave units converter, 2020-06-30T14:59:23+0000
+/project/qprof-qiskit/, qprof-qiskit, 1.0.1, qprof plugin for qiskit framework., 2021-01-17T18:17:39+0000
+/project/pymodaq-plugins-piezoconcept/, pymodaq-plugins-piezoconcept, 0.0.3, Set of PyMoDAQ plugins for Actuators from Piezoconcept (Tested on the Bio200 XY stage. Include a version of the controller firmware emulating functions from PhysikInstrumente), 2021-02-11T20:03:33+0000
+/project/pymodaq-plugins-femto/, pymodaq-plugins-femto, 0.0.2, Plugin to simulate acquisition from ultrashort pulse measurement device based on the pypret package, 2021-03-18T20:18:09+0000
+/project/qasm2image/, qasm2image, 0.8.0, An OpenQASM visualisation tool, 2018-10-09T14:25:53+0000
+/project/spectrochempy/, spectrochempy, 0.1.22, Processing, analysis and modelling Spectroscopic data for Chemistry with Python, 2020-09-26T19:46:54+0000
+/project/pymodaq-plugins-physik-instrumente/, pymodaq-plugins-physik-instrumente, 0.0.2, Set of PyMoDAQ plugins for Actuators from Physik Instumente (All the ones compatible with the GCS2 commands as well as the old 32bits MMC controller...), 2021-02-10T22:41:20+0000
+/project/qprof-interfaces/, qprof-interfaces, 1.0.1, qprof plugin providing the base interfaces., 2021-01-17T18:15:29+0000
+/project/lycee/, lycee, 2.6.1, Un ensemble de fonctions pour utiliser facilement Python au lycée., 2018-09-12T20:15:28+0000
+/project/qasm2image/, qasm2image, 0.8.0, An OpenQASM visualisation tool, 2018-10-09T14:25:53+0000
+/project/qprof/, qprof, 1.4.0, A quantum circuit profiling tool., 2021-01-17T18:14:28+0000
+/project/bcdi/, bcdi, 0.1.1, BCDI: tools for pre(post)-processing Bragg and forward coherent X-ray diffraction imaging data, 2021-03-29T09:50:57+0000
+/project/pymodaq-plugins-daqmx/, pymodaq-plugins-daqmx, 0.0.3, Hardware plugins for PyMoDAQ using the NiDAQmx framework (pydaqmx wrapper), 2021-02-10T21:46:36+0000
+/project/pymodaq-plugins-horiba/, pymodaq-plugins-horiba, 0.0.2, Set of PyMoDAQ plugins for Horiba Instruments (Lapspec6TCP to communicate with labspec softaware using the AFM TCP/IP protocol), 2021-02-10T22:37:28+0000
+/project/qprof-myqlm/, qprof-myqlm, 1.0.1, qprof plugin for qat framework., 2021-01-17T18:16:09+0000
+/project/pymodaq-plugins-andor/, pymodaq-plugins-andor, 0.0.2, Set of PyMoDAQ plugins for Andor Camera (CCD camera using SDK2, SCMOS cameras using SDK3...), 2021-02-10T21:21:49+0000
+/project/spectrochempy/, spectrochempy, 0.1.22, Processing, analysis and modelling Spectroscopic data for Chemistry with Python, 2020-09-26T19:46:54+0000
+/project/pymodaq-plugins-physik-instrumente/, pymodaq-plugins-physik-instrumente, 0.0.2, Set of PyMoDAQ plugins for Actuators from Physik Instumente (All the ones compatible with the GCS2 commands as well as the old 32bits MMC controller...), 2021-02-10T22:41:20+0000
+/project/pymodaq-plugin-manager/, pymodaq-plugin-manager, 0.0.13, Manager and interface to list, install or remove PyMoDAQ's plugins, 2021-03-18T12:43:00+0000

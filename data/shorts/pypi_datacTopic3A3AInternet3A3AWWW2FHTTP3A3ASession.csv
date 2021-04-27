@@ -1,0 +1,226 @@
+/project/django-rest-jwt-sso/, django-rest-jwt-sso, 0.0.5, Yet another SSO solution for Django REST Framework, 2019-05-16T09:03:49+0000
+/project/django-rest-durin/, django-rest-durin, 0.1.0,  Per API client token authentication Module for django rest framework., 2020-10-25T16:09:05+0000
+/project/tempstorage/, tempstorage, 5.1, A RAM-based storage for ZODB, 2019-08-15T06:21:38+0000
+/project/pycket/, pycket, 0.3.0, Redis/Memcached sessions for Tornado, 2013-03-11T22:55:11+0000
+/project/lribeiro-cherrypy-authorizer/, lribeiro.cherrypy.authorizer, 1.0.2, Extensible session based authentication and claims based authorization tool for CherryPy, 2014-09-16T12:56:48+0000
+/project/ticket-auth/, ticket_auth, 0.1.4, Ticket authentication system similar to mod_auth_tkt used by Apache, 2016-02-21T00:53:52+0000
+/project/sanic-session-2/, sanic_session_2, 0.2.6, Provides server-backed sessions for Sanic using Redis, Memcache, Mongo, in-memory., 2018-07-26T21:44:42+0000
+/project/django-ddp/, django-ddp, 0.19.1, Django/PostgreSQL implementation of the Meteor server., 2016-01-28T05:19:57+0000
+/project/moth/, moth, 2.1.1, token system using MongoDB, 2014-02-07T02:42:12+0000
+/project/flask-stormpath-plus/, Flask-Stormpath-Plus, 0.2.4, Simple and more secure user authentication for Flask via Stormpath., 2016-12-28T02:36:28+0000
+/project/cloudstackaio/, CloudStackAIO, 0.0.7, Very thin Python CloudStack client using asyncio, 2019-01-24T15:16:06+0000
+/project/bulb-core/, bulb-core, 0.1.13, Neo4j integration for Django, and much more tools for deployment of consequent websites..., 2021-01-28T10:17:00+0000
+/project/unimatrix-ext-jose/, unimatrix.ext.jose, 0.4.6, JSON Object Serialization and Encryption, 2020-12-28T03:35:59+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/oauthclientuser/, OAuthClientUser, 0.3.0, A User Authenticate APP for OAuth2 of django-oauth-toolkit, 2019-02-21T02:24:11+0000
+/project/sanic-session/, sanic-session, 0.8.0, Provides server-backed sessions for Sanic using Redis, Memcache and more., 2021-04-07T00:30:30+0000
+/project/brawlpython/, brawlpython, 2.6.0, Easy-to-configure library to use Official and other Brawl Stars API, 2020-09-22T17:01:15+0000
+/project/torndsession/, torndsession, 1.1.5.1, Session extensions for Tornado,Support memory, file, redis or memcached to save session data., 2017-01-20T04:45:59+0000
+/project/django-manifest/, django-manifest, 0.2.1, A kickstarter for Django Web Framework projects that supports both legacy frontend and javascript technolohies using REST API., 2019-10-15T22:01:45+0000
+/project/sticknauta/, stickNAUTA, 2.0.0, Simple managing interface for ETECSA Nauta., 2021-04-24T04:52:22+0000
+/project/cherrys/, cherrys, 0.4, Redis backend for CherryPy sessions, 2011-09-28T03:50:12+0000
+/project/cleverutils/, cleverutils, 0.21, Some handy Python utilities and code snippets used repeatedly by the author and considered beginner to intermediate level of difficulty.  Published just in case they're of use to other Pythonistas somehwere, some time., 2020-12-17T19:46:36+0000
+/project/oauthbrowser/, OAuthBrowser, 0.0.1, OAuthBrowser is module to do authentications and web scraping., 2020-04-30T22:02:25+0000
+/project/flask-stormpath/, Flask-Stormpath, 0.4.8, Simple and secure user authentication for Flask via Stormpath., 2016-09-21T22:48:43+0000
+/project/yanico/, yanico, 0.1.0a3, Yet Another Niconico-douga Command-line Interface, 2016-04-04T21:14:11+0000
+/project/ckanext-logstash/, ckanext-logstash, 0.0.2, Logstash support for CKAN, 2019-09-12T17:45:37+0000
+/project/squp/, squp, 0.1.8, A backend engine for Squarespace that uses splinter/selenium for automated data entry, 2019-08-31T20:49:33+0000
+/project/ckanext-sentry/, ckanext-sentry, 0.0.2, Sentry support for CKAN, 2015-10-19T13:22:29+0000
+/project/nitt-sw-login/, nitt-sw-login, 1.0.1, NITT Sonicwall Login Manager, 2017-09-12T20:32:48+0000
+/project/tornado-encookie/, tornado-encookie, 0.0.1, Encrypted cookie support for the Tornado Web Framework, 2013-05-07T21:18:37+0000
+/project/vishnu/, vishnu, 3.1.1, Sessions for the Google App Engine Python runtime, 2018-10-08T23:30:05+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/sanic-brogz/, sanic-brogz, 0.1.3, An extension which allows you to easily brotli compress or gzip your Sanic responses., 2018-10-21T22:39:06+0000
+/project/pyoneall/, pyoneall, 0.2.3, OneAll API wrapper (http://www.oneall.com). Provides unified API for 30+ social networks, 2015-10-04T05:04:29+0000
+/project/djangorestframework-sso/, djangorestframework-sso, 0.3.2, Single sign-on extension to the Django REST Framework., 2020-08-18T06:04:27+0000
+/project/django-oauth2-authcodeflow/, django-oauth2-authcodeflow, 0.2.1, Authenticate with any OpenId Connect/Oauth2 provider through authorization code flow. PKCE is also supported., 2020-10-14T17:13:12+0000
+/project/secure-cookie/, secure-cookie, 0.1.0, Secure cookie and session interface for WSGI applications., 2020-02-26T00:19:58+0000
+/project/pyvkoauth/, pyvkoauth, 0.9.1, OAuth authentification for vk.com, 2014-09-05T20:33:18+0000
+/project/drf-jwt-knox/, drf-jwt-knox, 0.1.0, JSON Web Tokens with a Knox-powered database backend, 2016-10-11T14:30:41+0000
+/project/onetimepass/, onetimepass, 1.0.1, Module for generating and validating HOTP and TOTP tokens, 2015-07-31T03:05:01+0000
+/project/risc/, risc, 0.2.1, Python client and CLI for RISC, 2020-03-27T16:52:32+0000
+/project/sanic-mysql/, sanic-mysql, 0.0.5, Adds mysql support to sanic ., 2017-07-31T03:22:08+0000
+/project/hfapi/, hfapi, 0.1b0, HackForums API v2 Integration, 2020-07-20T18:48:15+0000
+/project/ckanext-oauth2/, ckanext-oauth2, 0.7.0, OAuth2 support for CKAN, 2019-04-12T11:39:27+0000
+/project/whirl/, whirl, 0.8.0, A collection of tools for making websites in Python, 2014-07-27T04:46:19+0000
+/project/viralata/, viralata, 0.1, Microservice for Authentication: Restlike & Social., 2015-08-12T13:47:23+0000
+/project/supertokens-flask/, supertokens-flask, 1.4.0, SuperTokens session management solution for flask, 2020-09-21T10:13:46+0000
+/project/aiowebhdfs/, aiowebhdfs, 0.0.2, A modern and asynchronous web client for WebHDFS, 2020-03-31T02:12:45+0000
+/project/pyramid-dynamodb-sessions/, pyramid-dynamodb-sessions, 0.1.1, DynamoDB-backed sessions for Pyramid applications., 2020-07-07T06:32:18+0000
+/project/session3/, session3, 3.0.post0, Persistent sessions for Quixote 3.0.0, 2019-01-14T13:02:21+0000
+/project/blueberrypy/, blueberrypy, 0.5.4, CherryPy plugins and tools for integration with various libraries, including logging, Redis, SQLAlchemy and Jinja2 and webassets., 2012-09-06T23:15:02+0000
+/project/sanic-redis/, sanic-redis, 0.2.0, Adds redis support to sanic ., 2019-10-31T11:16:09+0000
+/project/wasp-launcher/, wasp-launcher, 0.0.2, Python applications launcher, 2017-12-19T09:44:38+0000
+/project/py2pip/, py2pip, 1.0.2, Master package for Py2PIP, 2020-02-12T16:02:55+0000
+/project/cleversession/, cleversession, 0.0.1a1, A CleverDict subclass to handle selenium webbrowser sessions, 2021-01-06T07:35:54+0000
+/project/supertokens-fastapi/, supertokens-fastapi, 1.1.1, SuperTokens session management solution for fastapi, 2021-04-12T06:00:37+0000
+/project/supertokens-jwt-ref/, supertokens-jwt-ref, 2.0.0, SuperTokens session management solution, 2020-02-28T00:09:16+0000
+/project/django-budget-backend/, django-budget-backend, 0.2.2, An API to manage your monthly budgets., 2020-11-21T11:12:36+0000
+/project/aiocloudstack/, aiocloudstack, 0.0.7, Very thin Python CloudStack client using asyncio, 2019-01-24T15:15:09+0000
+/project/fastapi-users/, fastapi-users, 6.0.0, Ready-to-use and customizable users management for FastAPI., 2021-04-20T12:50:15+0000
+/project/sanic-compress/, sanic_compress, 0.1.1, An extension which allows you to easily gzip your Sanic responses., 2017-02-19T00:44:59+0000
+/project/drf-jwt-2fa/, drf-jwt-2fa, 0.3.0, Django Rest Framework JWT 2FA, 2018-02-08T01:31:27+0000
+/project/aiohttp-auth/, aiohttp_auth, 0.1.1, Authorization and authentication middleware plugin for aiohttp., 2016-02-25T09:21:38+0000
+/project/django-p3p/, django-p3p, 1.2.0, Django P3P makes it easier to set P3P HTTP headers to prevent session loss., 2016-03-22T18:25:24+0000
+/project/django-userapp/, django-userapp, 0.0.5, Django userapp integration, 2015-03-12T16:33:38+0000
+/project/nsjwt/, nsjwt, 0.2.1, No shit JWT implementation, 2018-05-16T09:38:23+0000
+/project/django-auth-policy/, django-auth-policy, 0.9.13, Enforces a couple of common authentication policies for the Django web framework., 2016-05-03T13:06:30+0000
+/project/aiohttp-auth-autz/, aiohttp_auth_autz, 0.2.2, Authorization and authentication middleware plugin for aiohttp., 2017-04-18T10:32:23+0000
+/project/hcpsdk/, hcpsdk, 0.9.4.post12, An SDK for the Hitachi Content Platform (HCP), 2018-07-25T08:57:00+0000
+/project/smsfly/, SMSFly, 0.1.6, Python wrapper for SMS-Fly gateway API, 2019-09-06T13:09:02+0000
+/project/clients/, clients, 1.3, HTTP for humanitarians., 2020-11-24T23:53:47+0000
+/project/lribeiro-cherrypy-authorizer-mongoengine/, lribeiro.cherrypy.authorizer.mongoengine, 1.0.1, Basic user model, authenticator and authorizer for lribeiro.cherrypy.authorizer and mongoengine, 2014-09-08T18:14:06+0000
+/project/chrome-cookiejar/, chrome-cookiejar, 0.1.0, Python library for retrieving cookies from the Chrome browser, 2021-04-16T16:25:43+0000
+/project/authnzerver/, authnzerver, 0.1.3, A small authentication-authorization server., 2020-03-30T16:51:48+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/django-mdbsessions/, django-mdbsessions, 0.0.2, Use MongoDB as Django session backend, 2019-03-16T20:19:25+0000
+/project/keyosk/, keyosk, 0.1.0a0, Simple authentication provider for OAuth2 and OpenID-Connect systems, 2020-11-26T06:49:57+0000
+/project/fanery/, Fanery, 0.2.5, Application development framework, 2014-11-18T12:15:28+0000
+/project/cache-requests/, cache_requests, 4.0.0, Simple. Powerful. Persistent LRU caching for the requests library., 2015-12-26T04:06:12+0000
+/project/iam-ext-idc/, iam.ext.idc, 0.1.10, Provides a framework to consume identities., 2020-09-27T01:12:48+0000
+/project/gimlet/, gimlet, 0.5.2, Simple High-Performance WSGI Sessions, 2015-04-08T00:29:22+0000
+/project/https-everywhere/, https-everywhere, 0.2.2, Privacy for Pythons. Requests adapters for HTTPS, including HSTS preloading and HTTPS Everywhere rules, 2020-03-22T18:02:40+0000
+/project/sqlitecookiejar/, sqlitecookiejar, 1.0, FileCookieJar using SQLite files for persistence, 2014-11-28T09:14:34+0000
+/project/zope2-sessioncookie/, zope2.sessioncookie, 0.8, Allow use of Pyramid-style signed or encrypted cookie for scallable Zope2 session storage, 2016-04-29T00:50:27+0000
+/project/smsfly/, SMSFly, 0.1.6, Python wrapper for SMS-Fly gateway API, 2019-09-06T13:09:02+0000
+/project/pukhlya/, pukhlya, 0.4.0, Pukhlya is AIOHTTP simple and ready-to-go admin for SQLAlchemy models, 2019-11-25T21:36:51+0000
+/project/django-lemonldap/, django-lemonldap, 2.0.0, LemonLDAP: django authentication system to be used with LemonLDAP::NG, 2017-07-19T08:31:05+0000
+/project/frf/, frf, 0.10.0, FastAPI RESt Framework, 2021-02-18T14:59:51+0000
+/project/crequests/, crequests, 0.2.5, A lightweight cache wrapper for requests, 2020-07-02T20:41:11+0000
+/project/django-xero/, django-xero, 0.0.3, Xero integration for Django, 2019-07-14T20:45:06+0000
+/project/xorgauth/, xorgauth, 0.1.0, Polytechnique.org authentication provider, 2017-07-02T15:52:06+0000
+/project/flask-xsrf/, flask-xsrf, 1.0.2, flask extension for defending against cross-site request forgery attacks (xsrf/csrf), by protecting flask endpoints with uniquely generated tokens for each request., 2016-02-29T20:39:53+0000
+/project/redis-session/, redis-session, 0.2.1, Simple session implementation for python3 web frameworks, 2018-10-03T08:55:51+0000
+/project/python-ioc/, python-ioc, 1.5.5, Enter a description for this Unimatrix package, 2021-02-18T14:57:07+0000
+/project/ax-handoff/, Ax-Handoff, 3.1.0, Easy secure protocol for passing encrypted structured data over unencrypted channels (such as URLs) while maintaining tamper-proof integrity., 2019-02-22T08:00:53+0000
+/project/django-qsessions/, django-qsessions, 1.1.2, Extended session backends for Django, 2020-10-17T16:39:29+0000
+/project/pyramid-nacl-session/, pyramid-nacl-session, 1.0.0, Encrypted session cookie serializer for Pyramid, 2020-08-17T23:10:54+0000
+/project/flask-stormpath-test/, Flask-Stormpath-test, 0.4.7, Simple and secure user authentication for Flask via Stormpath., 2016-04-22T18:03:40+0000
+/project/cleverweb/, cleverweb, 0.0.1a1, A collection of methods used by CleverSession for accessing common sites using selenium., 2021-01-06T07:52:19+0000
+/project/ppss-auth/, ppss-auth, 0.8.2.1, simple auth scheme for pyramid, based on Mako template and sqlalchemy backend, 2021-01-18T14:00:41+0000
+/project/pyramid-nacl-session/, pyramid-nacl-session, 1.0.0, Encrypted session cookie serializer for Pyramid, 2020-08-17T23:10:54+0000
+/project/flask-stormpath-test/, Flask-Stormpath-test, 0.4.7, Simple and secure user authentication for Flask via Stormpath., 2016-04-22T18:03:40+0000
+/project/django-rest-knox/, django-rest-knox, 4.1.0, Authentication for django rest framework, 2019-06-01T06:29:52+0000
+/project/async-v20/, async_v20, 8.0.0b1, Asynchronous wrapper for OANDA's v20 REST API, 2019-01-04T02:57:35+0000
+/project/django-cookie-law/, django-cookie-law, 2.0.5, Helps your Django project comply with EU cookie law regulations, 2021-01-13T10:58:31+0000
+/project/pukhlya/, pukhlya, 0.4.0, Pukhlya is AIOHTTP simple and ready-to-go admin for SQLAlchemy models, 2019-11-25T21:36:51+0000
+/project/django-lemonldap/, django-lemonldap, 2.0.0, LemonLDAP: django authentication system to be used with LemonLDAP::NG, 2017-07-19T08:31:05+0000
+/project/pyramid-sqlalchemy-sessions/, pyramid-sqlalchemy-sessions, 0.1.0, Provides session implementation for Pyramid framework basedon SQLAlchemy storage backend, 2017-06-28T14:18:51+0000
+/project/cloudendure/, cloudendure, 0.3.5, Python wrapper and CLI for CloudEndure, 2020-06-05T16:59:21+0000
+/project/django-knox-rest/, django-knox-rest, 4.1.0, Authentication for django rest framework, 2020-02-04T10:24:43+0000
+/project/frf/, frf, 0.10.0, FastAPI RESt Framework, 2021-02-18T14:59:51+0000
+/project/crequests/, crequests, 0.2.5, A lightweight cache wrapper for requests, 2020-07-02T20:41:11+0000
+/project/django-xero/, django-xero, 0.0.3, Xero integration for Django, 2019-07-14T20:45:06+0000
+/project/django-rest-jwt-sso/, django-rest-jwt-sso, 0.0.5, Yet another SSO solution for Django REST Framework, 2019-05-16T09:03:49+0000
+/project/django-ddp/, django-ddp, 0.19.1, Django/PostgreSQL implementation of the Meteor server., 2016-01-28T05:19:57+0000
+/project/django-rest-durin/, django-rest-durin, 0.1.0,  Per API client token authentication Module for django rest framework., 2020-10-25T16:09:05+0000
+/project/tempstorage/, tempstorage, 5.1, A RAM-based storage for ZODB, 2019-08-15T06:21:38+0000
+/project/pycket/, pycket, 0.3.0, Redis/Memcached sessions for Tornado, 2013-03-11T22:55:11+0000
+/project/lribeiro-cherrypy-authorizer/, lribeiro.cherrypy.authorizer, 1.0.2, Extensible session based authentication and claims based authorization tool for CherryPy, 2014-09-16T12:56:48+0000
+/project/ticket-auth/, ticket_auth, 0.1.4, Ticket authentication system similar to mod_auth_tkt used by Apache, 2016-02-21T00:53:52+0000
+/project/moth/, moth, 2.1.1, token system using MongoDB, 2014-02-07T02:42:12+0000
+/project/flask-stormpath-plus/, Flask-Stormpath-Plus, 0.2.4, Simple and more secure user authentication for Flask via Stormpath., 2016-12-28T02:36:28+0000
+/project/cloudstackaio/, CloudStackAIO, 0.0.7, Very thin Python CloudStack client using asyncio, 2019-01-24T15:16:06+0000
+/project/bulb-core/, bulb-core, 0.1.13, Neo4j integration for Django, and much more tools for deployment of consequent websites..., 2021-01-28T10:17:00+0000
+/project/unimatrix-ext-jose/, unimatrix.ext.jose, 0.4.6, JSON Object Serialization and Encryption, 2020-12-28T03:35:59+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/sanic-session-2/, sanic_session_2, 0.2.6, Provides server-backed sessions for Sanic using Redis, Memcache, Mongo, in-memory., 2018-07-26T21:44:42+0000
+/project/oauthclientuser/, OAuthClientUser, 0.3.0, A User Authenticate APP for OAuth2 of django-oauth-toolkit, 2019-02-21T02:24:11+0000
+/project/sanic-session/, sanic-session, 0.8.0, Provides server-backed sessions for Sanic using Redis, Memcache and more., 2021-04-07T00:30:30+0000
+/project/brawlpython/, brawlpython, 2.6.0, Easy-to-configure library to use Official and other Brawl Stars API, 2020-09-22T17:01:15+0000
+/project/torndsession/, torndsession, 1.1.5.1, Session extensions for Tornado,Support memory, file, redis or memcached to save session data., 2017-01-20T04:45:59+0000
+/project/django-manifest/, django-manifest, 0.2.1, A kickstarter for Django Web Framework projects that supports both legacy frontend and javascript technolohies using REST API., 2019-10-15T22:01:45+0000
+/project/cleverutils/, cleverutils, 0.21, Some handy Python utilities and code snippets used repeatedly by the author and considered beginner to intermediate level of difficulty.  Published just in case they're of use to other Pythonistas somehwere, some time., 2020-12-17T19:46:36+0000
+/project/supertokens-flask/, supertokens-flask, 1.4.0, SuperTokens session management solution for flask, 2020-09-21T10:13:46+0000
+/project/oauthbrowser/, OAuthBrowser, 0.0.1, OAuthBrowser is module to do authentications and web scraping., 2020-04-30T22:02:25+0000
+/project/flask-stormpath/, Flask-Stormpath, 0.4.8, Simple and secure user authentication for Flask via Stormpath., 2016-09-21T22:48:43+0000
+/project/aiowebhdfs/, aiowebhdfs, 0.0.2, A modern and asynchronous web client for WebHDFS, 2020-03-31T02:12:45+0000
+/project/pyramid-dynamodb-sessions/, pyramid-dynamodb-sessions, 0.1.1, DynamoDB-backed sessions for Pyramid applications., 2020-07-07T06:32:18+0000
+/project/session3/, session3, 3.0.post0, Persistent sessions for Quixote 3.0.0, 2019-01-14T13:02:21+0000
+/project/blueberrypy/, blueberrypy, 0.5.4, CherryPy plugins and tools for integration with various libraries, including logging, Redis, SQLAlchemy and Jinja2 and webassets., 2012-09-06T23:15:02+0000
+/project/ckanext-logstash/, ckanext-logstash, 0.0.2, Logstash support for CKAN, 2019-09-12T17:45:37+0000
+/project/squp/, squp, 0.1.8, A backend engine for Squarespace that uses splinter/selenium for automated data entry, 2019-08-31T20:49:33+0000
+/project/secure-cookie/, secure-cookie, 0.1.0, Secure cookie and session interface for WSGI applications., 2020-02-26T00:19:58+0000
+/project/pyvkoauth/, pyvkoauth, 0.9.1, OAuth authentification for vk.com, 2014-09-05T20:33:18+0000
+/project/drf-jwt-knox/, drf-jwt-knox, 0.1.0, JSON Web Tokens with a Knox-powered database backend, 2016-10-11T14:30:41+0000
+/project/risc/, risc, 0.2.1, Python client and CLI for RISC, 2020-03-27T16:52:32+0000
+/project/supertokens-jwt-ref/, supertokens-jwt-ref, 2.0.0, SuperTokens session management solution, 2020-02-28T00:09:16+0000
+/project/django-userapp/, django-userapp, 0.0.5, Django userapp integration, 2015-03-12T16:33:38+0000
+/project/django-budget-backend/, django-budget-backend, 0.2.2, An API to manage your monthly budgets., 2020-11-21T11:12:36+0000
+/project/sticknauta/, stickNAUTA, 2.0.0, Simple managing interface for ETECSA Nauta., 2021-04-24T04:52:22+0000
+/project/ckanext-oauth2/, ckanext-oauth2, 0.7.0, OAuth2 support for CKAN, 2019-04-12T11:39:27+0000
+/project/cherrys/, cherrys, 0.4, Redis backend for CherryPy sessions, 2011-09-28T03:50:12+0000
+/project/whirl/, whirl, 0.8.0, A collection of tools for making websites in Python, 2014-07-27T04:46:19+0000
+/project/viralata/, viralata, 0.1, Microservice for Authentication: Restlike & Social., 2015-08-12T13:47:23+0000
+/project/yanico/, yanico, 0.1.0a3, Yet Another Niconico-douga Command-line Interface, 2016-04-04T21:14:11+0000
+/project/ckanext-sentry/, ckanext-sentry, 0.0.2, Sentry support for CKAN, 2015-10-19T13:22:29+0000
+/project/nitt-sw-login/, nitt-sw-login, 1.0.1, NITT Sonicwall Login Manager, 2017-09-12T20:32:48+0000
+/project/tornado-encookie/, tornado-encookie, 0.0.1, Encrypted cookie support for the Tornado Web Framework, 2013-05-07T21:18:37+0000
+/project/vishnu/, vishnu, 3.1.1, Sessions for the Google App Engine Python runtime, 2018-10-08T23:30:05+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/sanic-brogz/, sanic-brogz, 0.1.3, An extension which allows you to easily brotli compress or gzip your Sanic responses., 2018-10-21T22:39:06+0000
+/project/pyoneall/, pyoneall, 0.2.3, OneAll API wrapper (http://www.oneall.com). Provides unified API for 30+ social networks, 2015-10-04T05:04:29+0000
+/project/djangorestframework-sso/, djangorestframework-sso, 0.3.2, Single sign-on extension to the Django REST Framework., 2020-08-18T06:04:27+0000
+/project/django-oauth2-authcodeflow/, django-oauth2-authcodeflow, 0.2.1, Authenticate with any OpenId Connect/Oauth2 provider through authorization code flow. PKCE is also supported., 2020-10-14T17:13:12+0000
+/project/onetimepass/, onetimepass, 1.0.1, Module for generating and validating HOTP and TOTP tokens, 2015-07-31T03:05:01+0000
+/project/sanic-redis/, sanic-redis, 0.2.0, Adds redis support to sanic ., 2019-10-31T11:16:09+0000
+/project/wasp-launcher/, wasp-launcher, 0.0.2, Python applications launcher, 2017-12-19T09:44:38+0000
+/project/py2pip/, py2pip, 1.0.2, Master package for Py2PIP, 2020-02-12T16:02:55+0000
+/project/sanic-mysql/, sanic-mysql, 0.0.5, Adds mysql support to sanic ., 2017-07-31T03:22:08+0000
+/project/cleversession/, cleversession, 0.0.1a1, A CleverDict subclass to handle selenium webbrowser sessions, 2021-01-06T07:35:54+0000
+/project/supertokens-fastapi/, supertokens-fastapi, 1.1.1, SuperTokens session management solution for fastapi, 2021-04-12T06:00:37+0000
+/project/hfapi/, hfapi, 0.1b0, HackForums API v2 Integration, 2020-07-20T18:48:15+0000
+/project/aiocloudstack/, aiocloudstack, 0.0.7, Very thin Python CloudStack client using asyncio, 2019-01-24T15:15:09+0000
+/project/fastapi-users/, fastapi-users, 6.0.0, Ready-to-use and customizable users management for FastAPI., 2021-04-20T12:50:15+0000
+/project/sanic-compress/, sanic_compress, 0.1.1, An extension which allows you to easily gzip your Sanic responses., 2017-02-19T00:44:59+0000
+/project/drf-jwt-2fa/, drf-jwt-2fa, 0.3.0, Django Rest Framework JWT 2FA, 2018-02-08T01:31:27+0000
+/project/aiohttp-auth/, aiohttp_auth, 0.1.1, Authorization and authentication middleware plugin for aiohttp., 2016-02-25T09:21:38+0000
+/project/django-p3p/, django-p3p, 1.2.0, Django P3P makes it easier to set P3P HTTP headers to prevent session loss., 2016-03-22T18:25:24+0000
+/project/nsjwt/, nsjwt, 0.2.1, No shit JWT implementation, 2018-05-16T09:38:23+0000
+/project/django-auth-policy/, django-auth-policy, 0.9.13, Enforces a couple of common authentication policies for the Django web framework., 2016-05-03T13:06:30+0000
+/project/aiohttp-auth-autz/, aiohttp_auth_autz, 0.2.2, Authorization and authentication middleware plugin for aiohttp., 2017-04-18T10:32:23+0000
+/project/async-v20/, async_v20, 8.0.0b1, Asynchronous wrapper for OANDA's v20 REST API, 2019-01-04T02:57:35+0000
+/project/django-cookie-law/, django-cookie-law, 2.0.5, Helps your Django project comply with EU cookie law regulations, 2021-01-13T10:58:31+0000
+/project/flask-xsrf/, flask-xsrf, 1.0.2, flask extension for defending against cross-site request forgery attacks (xsrf/csrf), by protecting flask endpoints with uniquely generated tokens for each request., 2016-02-29T20:39:53+0000
+/project/redis-session/, redis-session, 0.2.1, Simple session implementation for python3 web frameworks, 2018-10-03T08:55:51+0000
+/project/python-ioc/, python-ioc, 1.5.5, Enter a description for this Unimatrix package, 2021-02-18T14:57:07+0000
+/project/ax-handoff/, Ax-Handoff, 3.1.0, Easy secure protocol for passing encrypted structured data over unencrypted channels (such as URLs) while maintaining tamper-proof integrity., 2019-02-22T08:00:53+0000
+/project/django-qsessions/, django-qsessions, 1.1.2, Extended session backends for Django, 2020-10-17T16:39:29+0000
+/project/lemonframework/, LemonFramework, 0.0.1, Agile Web Framework., 2013-03-08T16:45:21+0000
+/project/requestspool/, requestspool, 1.0.1, Multiprocessing pool providing a unique request session per process., 2018-08-04T17:04:06+0000
+/project/selenium-chrome-screenshot/, selenium-chrome-screenshot, 0.0.1, UNKNOWN, 2016-06-25T19:34:43+0000
+/project/gimlet/, gimlet, 0.5.2, Simple High-Performance WSGI Sessions, 2015-04-08T00:29:22+0000
+/project/ppss-auth/, ppss-auth, 0.8.2.1, simple auth scheme for pyramid, based on Mako template and sqlalchemy backend, 2021-01-18T14:00:41+0000
+/project/zope2-sessioncookie/, zope2.sessioncookie, 0.8, Allow use of Pyramid-style signed or encrypted cookie for scallable Zope2 session storage, 2016-04-29T00:50:27+0000
+/project/ppss-auth/, ppss-auth, 0.8.2.1, simple auth scheme for pyramid, based on Mako template and sqlalchemy backend, 2021-01-18T14:00:41+0000
+/project/products-mcdutils/, Products.mcdutils, 3.1, A Zope product with memcached-backed ZCache and Zope session implementations., 2021-01-01T11:48:36+0000
+/project/resession/, ReSession, 0.1, ReSession is a Redis-based session for Tornado framework., 2015-01-23T12:48:42+0000
+/project/cleverweb/, cleverweb, 0.0.1a1, A collection of methods used by CleverSession for accessing common sites using selenium., 2021-01-06T07:52:19+0000
+/project/selenium-chrome-screenshot/, selenium-chrome-screenshot, 0.0.1, UNKNOWN, 2016-06-25T19:34:43+0000
+/project/lribeiro-cherrypy-authorizer-neomodel/, lribeiro.cherrypy.authorizer.neomodel, 1.0.1, Basic user model, authenticator and authorizer for lribeiro.cherrypy.authorizer and neomodel, 2014-09-08T18:12:31+0000
+/project/fastapi-sessions/, fastapi-sessions, 0.2.0, Ready-to-use session cookies with custom backends for FastAPI, 2021-04-05T14:00:47+0000
+/project/gimlet/, gimlet, 0.5.2, Simple High-Performance WSGI Sessions, 2015-04-08T00:29:22+0000
+/project/https-everywhere/, https-everywhere, 0.2.2, Privacy for Pythons. Requests adapters for HTTPS, including HSTS preloading and HTTPS Everywhere rules, 2020-03-22T18:02:40+0000
+/project/sqlitecookiejar/, sqlitecookiejar, 1.0, FileCookieJar using SQLite files for persistence, 2014-11-28T09:14:34+0000
+/project/xorgauth/, xorgauth, 0.1.0, Polytechnique.org authentication provider, 2017-07-02T15:52:06+0000
+/project/flask-xsrf/, flask-xsrf, 1.0.2, flask extension for defending against cross-site request forgery attacks (xsrf/csrf), by protecting flask endpoints with uniquely generated tokens for each request., 2016-02-29T20:39:53+0000
+/project/redis-session/, redis-session, 0.2.1, Simple session implementation for python3 web frameworks, 2018-10-03T08:55:51+0000
+/project/python-ioc/, python-ioc, 1.5.5, Enter a description for this Unimatrix package, 2021-02-18T14:57:07+0000
+/project/ax-handoff/, Ax-Handoff, 3.1.0, Easy secure protocol for passing encrypted structured data over unencrypted channels (such as URLs) while maintaining tamper-proof integrity., 2019-02-22T08:00:53+0000
+/project/django-qsessions/, django-qsessions, 1.1.2, Extended session backends for Django, 2020-10-17T16:39:29+0000
+/project/lemonframework/, LemonFramework, 0.0.1, Agile Web Framework., 2013-03-08T16:45:21+0000
+/project/requestspool/, requestspool, 1.0.1, Multiprocessing pool providing a unique request session per process., 2018-08-04T17:04:06+0000
+/project/tornasession/, tornaSession, 1.1.5.2, Session extensions for Tornado, 2019-07-31T06:34:12+0000
+/project/zope2-sessioncookie/, zope2.sessioncookie, 0.8, Allow use of Pyramid-style signed or encrypted cookie for scallable Zope2 session storage, 2016-04-29T00:50:27+0000
+/project/hcpsdk/, hcpsdk, 0.9.4.post12, An SDK for the Hitachi Content Platform (HCP), 2018-07-25T08:57:00+0000
+/project/smsfly/, SMSFly, 0.1.6, Python wrapper for SMS-Fly gateway API, 2019-09-06T13:09:02+0000
+/project/clients/, clients, 1.3, HTTP for humanitarians., 2020-11-24T23:53:47+0000
+/project/lribeiro-cherrypy-authorizer-mongoengine/, lribeiro.cherrypy.authorizer.mongoengine, 1.0.1, Basic user model, authenticator and authorizer for lribeiro.cherrypy.authorizer and mongoengine, 2014-09-08T18:14:06+0000
+/project/chrome-cookiejar/, chrome-cookiejar, 0.1.0, Python library for retrieving cookies from the Chrome browser, 2021-04-16T16:25:43+0000
+/project/authnzerver/, authnzerver, 0.1.3, A small authentication-authorization server., 2020-03-30T16:51:48+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/django-mdbsessions/, django-mdbsessions, 0.0.2, Use MongoDB as Django session backend, 2019-03-16T20:19:25+0000
+/project/keyosk/, keyosk, 0.1.0a0, Simple authentication provider for OAuth2 and OpenID-Connect systems, 2020-11-26T06:49:57+0000
+/project/fanery/, Fanery, 0.2.5, Application development framework, 2014-11-18T12:15:28+0000
+/project/cache-requests/, cache_requests, 4.0.0, Simple. Powerful. Persistent LRU caching for the requests library., 2015-12-26T04:06:12+0000
+/project/iam-ext-idc/, iam.ext.idc, 0.1.10, Provides a framework to consume identities., 2020-09-27T01:12:48+0000

@@ -1,0 +1,123 @@
+/project/ppci/, ppci, 0.5.8, A compiler for ARM, X86, MSP430, xtensa and more implemented in pure Python, 2020-06-08T18:58:03+0000
+/project/ga-tools/, ga-tools, 0.2, Tools for the GA144 multi-computer chip, 2019-02-20T09:58:08+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/dwload-server/, dwload_server, 0.4.0, DWLOAD server implemented in Python, 2014-11-20T13:20:44+0000
+/project/m5meta/, m5meta, 1.0.4, M5 Meta Assembler, 2019-09-07T22:35:10+0000
+/project/wasamole/, wasamole, 0.5.0, A tasty framework for WebAssembly Software Analysis, 2020-06-30T18:27:57+0000
+/project/pickleassem/, pickleassem, 1.1.0, A simple pickle assembler to make handcrafting pickle bytecode easier., 2021-04-16T00:38:44+0000
+/project/python-msp430-tools/, python-msp430-tools, 0.9.2, Python MSP430 Tools, 2018-06-24T19:24:25+0000
+/project/ctinker/, ctinker, 0.0.4, CTinker is a C project introspection and augmentation tool, 2020-05-10T06:50:30+0000
+/project/omnivore/, omnivore, 1.99.9, Unified front-end providing common interface to control several 8 bit emulators, 2020-01-05T18:28:54+0000
+/project/asfv1/, asfv1, 1.2.7, Alternate FV-1 Assembler, 2019-10-02T03:06:41+0000
+/project/pwntools/, pwntools, 4.4.0, Pwntools CTF framework and exploit development library., 2021-03-29T10:34:24+0000
+/project/pydigmips/, pydigmips, 0.2, DigMIPS interpreter., 2014-12-30T18:57:15+0000
+/project/smali/, smali, 0.2.5, A library for parsing and unparsing smali files for programatic modification, 2021-03-07T00:28:06+0000
+/project/opbasm/, opbasm, 1.3, Open Picoblaze Assembler, 2015-12-19T03:36:10+0000
+/project/dashmips/, dashmips, 0.1.10, Mips Interpreter, 2020-09-28T22:23:50+0000
+/project/omnivore-framework/, omnivore-framework, 4.0, Dependency target for mapping applications, 2019-05-02T18:13:46+0000
+/project/pseudomethod/, pseudomethod, 2008.12.20, call almost any function on-the-fly as a method, 2009-01-04T10:10:11+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/hack-assemble/, hack-assemble, 0.1, Assembles Hack assembly files into Hack machine language files., 2018-03-18T12:42:21+0000
+/project/ducky/, ducky, 3.0, Simple virtual CPU/machine simulator, 2016-04-24T09:45:37+0000
+/project/nesasm/, nesasm, 0.0.8, NES Assembly Compiler, 2017-01-19T22:00:49+0000
+/project/pyatasm/, pyatasm, 1.4, Python wrapper for ATasm, a 6502 cross-assembler using MAC/65 syntax, 2018-07-24T14:07:22+0000
+/project/iasm/, iasm, 0.0.11, Interactive Assembler, 2021-02-04T13:23:33+0000
+/project/dragonlib/, dragonlib, 0.1.7, Library around 6809 computers like Dragon 32/64, CoCo..., 2015-08-21T20:37:04+0000
+/project/mahdiyeh-mbca/, mahdiyeh-mbca, 0.0.2, Azadeh Afzar - Mahdiyeh Mano Basic Computer Assembler, 2019-10-19T17:44:55+0000
+/project/setupbuilder/, setupbuilder, 0.0.1, Command to generate setup for python packages., 2014-01-09T17:21:22+0000
+/project/tdasm/, tdasm, 0.6.0, Tdasm is dynamic X86 assembler for python, 2017-12-28T10:48:57+0000
+/project/vm-translator/, vm-translator, 0.1, Translates VM files into Hack assembly files., 2018-04-17T06:08:07+0000
+/project/drakon/, drakon, 0.0.1.dev0, Drakon is LLVM-based HotSpot-style Optimizing JIT Compiler for CPython, 2019-10-17T22:33:57+0000
+/project/sasm/, sasm, 0.2.1, Simple Assembler for SIMPLE Architecture, 2016-06-24T14:01:59+0000
+/project/pyasmjit/, pyasmjit, 0.3.0, JIT assemby code generation and execution, 2019-11-09T23:13:39+0000
+/project/rzpipe/, rzpipe, 0.1.0, Pipe interface for rizin, 2021-01-28T22:45:14+0000
+/project/mio-lang/, mio-lang, 0.1.8, A Toy Programming Language written in Python, 2013-12-24T05:52:50+0000
+/project/disfv1/, disfv1, 1.0.5, FV-1 Disassembler, 2019-09-28T14:35:24+0000
+/project/peachpy/, PeachPy, 0.0.1, Portable Efficient Assembly Codegen in Higher-level Python, 2013-11-24T00:02:54+0000
+/project/kcshell/, kcshell, 0.0.4, Simple Python3 based interactive assembly/disassembly shell for various architectures powered by Keystone/Capstone., 2017-04-05T19:23:15+0000
+/project/pylmc/, pylmc, 0.1.0a1, Assembler and interpreter for the Little Man Computer, 2010-09-10T21:23:02+0000
+/project/opcodes/, opcodes, 0.3.14, Database of Processor Instructions/Opcodes, 2017-11-05T06:03:27+0000
+/project/dgtools/, dgtools, 1.0.4, An assembler and simulation toolchain for the Digirule2 series of hardware., 2020-12-20T23:49:38+0000
+/project/pythonoberon/, PythonOberon, 0.1.0, A hardware emulator for the Oberon RISC processor., 2019-05-14T06:34:07+0000
+/project/qtarmsim/, qtarmsim, 0.5.3, Easy to use graphical ARM simulator, 2020-11-06T22:00:03+0000
+/project/hsalf/, hsalf, 0.0.1, Hsalf is a pure Python library to read and write Flash files (SWF)., 2011-09-22T12:41:10+0000
+/project/pytcc/, pytcc, 0.9.27.1, A Python Wrapper for the API of the Tiny C Compiler (TCC), 2020-10-16T23:57:38+0000
+/project/pycca/, pycca, 0.2.0, Pure-python C and assembly compilers, 2015-01-22T22:27:24+0000
+/project/pyscanprev/, pyscanprev, 0.1.0, Scan and reduce/fold as generator expressions and list/set comprehensions that can access the previous iteration output., 2016-10-23T13:04:34+0000
+/project/wasmite/, wasmite, 0.2.1, Wasmite: Webassembly is the future but now it has a testing toolchain, 2021-02-21T14:14:01+0000
+/project/hsc-assembler/, hsc-assembler, 0.3.0, Assembler for the hsc (name TBD) ISA (https://github.com/HomebrewSiliconClub/Processor), 2020-11-29T21:43:28+0000
+/project/dragonpyemulator/, dragonpyemulator, 0.7.0, Emulator for 6809 CPU based system like Dragon 32 / CoCo written in Python..., 2020-10-01T11:27:20+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/pynes/, pyNES, 0.1.1, Python Programming for Nintendo 8bits, 2012-11-06T19:58:43+0000
+/project/pybytecode/, pybytecode, 0.1, A Python bytecode compiler and bytecode generator., 2014-05-10T16:28:59+0000
+/project/hera-py/, hera-py, 1.0.7, Interpreter for the Haverford Educational RISC Architecture (HERA) assembly language, 2021-03-29T01:07:49+0000
+/project/qsy/, qsy, 0.4.4, A quantum computer state vector/stabilizer circuit simulator and assembly language, 2019-06-10T12:02:40+0000
+/project/py65/, py65, 1.1.0, 6502 microprocessor simulation package, 2018-07-01T21:17:43+0000
+/project/shellen/, shellen, 0.3.0, Interactive environment for crafting shellcodes. Also, it just can be used as a simple assembler/disassembler, 2018-09-13T17:31:14+0000
+/project/pylmc/, pylmc, 0.1.0a1, Assembler and interpreter for the Little Man Computer, 2010-09-10T21:23:02+0000
+/project/opcodes/, opcodes, 0.3.14, Database of Processor Instructions/Opcodes, 2017-11-05T06:03:27+0000
+/project/asm2d/, asm2d, 0.2.3, An assembler for the 68112D microprocessor, 2013-01-07T08:54:02+0000
+/project/dgtools/, dgtools, 1.0.4, An assembler and simulation toolchain for the Digirule2 series of hardware., 2020-12-20T23:49:38+0000
+/project/jawa/, jawa, 2.2.0, Doing fun stuff with JVM ClassFiles., 2019-01-10T06:14:55+0000
+/project/ppci/, ppci, 0.5.8, A compiler for ARM, X86, MSP430, xtensa and more implemented in pure Python, 2020-06-08T18:58:03+0000
+/project/ga-tools/, ga-tools, 0.2, Tools for the GA144 multi-computer chip, 2019-02-20T09:58:08+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/dwload-server/, dwload_server, 0.4.0, DWLOAD server implemented in Python, 2014-11-20T13:20:44+0000
+/project/m5meta/, m5meta, 1.0.4, M5 Meta Assembler, 2019-09-07T22:35:10+0000
+/project/wasamole/, wasamole, 0.5.0, A tasty framework for WebAssembly Software Analysis, 2020-06-30T18:27:57+0000
+/project/smali/, smali, 0.2.5, A library for parsing and unparsing smali files for programatic modification, 2021-03-07T00:28:06+0000
+/project/omnivore/, omnivore, 1.99.9, Unified front-end providing common interface to control several 8 bit emulators, 2020-01-05T18:28:54+0000
+/project/asfv1/, asfv1, 1.2.7, Alternate FV-1 Assembler, 2019-10-02T03:06:41+0000
+/project/pwntools/, pwntools, 4.4.0, Pwntools CTF framework and exploit development library., 2021-03-29T10:34:24+0000
+/project/pydigmips/, pydigmips, 0.2, DigMIPS interpreter., 2014-12-30T18:57:15+0000
+/project/opbasm/, opbasm, 1.3, Open Picoblaze Assembler, 2015-12-19T03:36:10+0000
+/project/dashmips/, dashmips, 0.1.10, Mips Interpreter, 2020-09-28T22:23:50+0000
+/project/omnivore-framework/, omnivore-framework, 4.0, Dependency target for mapping applications, 2019-05-02T18:13:46+0000
+/project/pickleassem/, pickleassem, 1.1.0, A simple pickle assembler to make handcrafting pickle bytecode easier., 2021-04-16T00:38:44+0000
+/project/python-msp430-tools/, python-msp430-tools, 0.9.2, Python MSP430 Tools, 2018-06-24T19:24:25+0000
+/project/ctinker/, ctinker, 0.0.4, CTinker is a C project introspection and augmentation tool, 2020-05-10T06:50:30+0000
+/project/pseudomethod/, pseudomethod, 2008.12.20, call almost any function on-the-fly as a method, 2009-01-04T10:10:11+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/tdasm/, tdasm, 0.6.0, Tdasm is dynamic X86 assembler for python, 2017-12-28T10:48:57+0000
+/project/vm-translator/, vm-translator, 0.1, Translates VM files into Hack assembly files., 2018-04-17T06:08:07+0000
+/project/drakon/, drakon, 0.0.1.dev0, Drakon is LLVM-based HotSpot-style Optimizing JIT Compiler for CPython, 2019-10-17T22:33:57+0000
+/project/sasm/, sasm, 0.2.1, Simple Assembler for SIMPLE Architecture, 2016-06-24T14:01:59+0000
+/project/pyasmjit/, pyasmjit, 0.3.0, JIT assemby code generation and execution, 2019-11-09T23:13:39+0000
+/project/nesasm/, nesasm, 0.0.8, NES Assembly Compiler, 2017-01-19T22:00:49+0000
+/project/pyatasm/, pyatasm, 1.4, Python wrapper for ATasm, a 6502 cross-assembler using MAC/65 syntax, 2018-07-24T14:07:22+0000
+/project/iasm/, iasm, 0.0.11, Interactive Assembler, 2021-02-04T13:23:33+0000
+/project/disfv1/, disfv1, 1.0.5, FV-1 Disassembler, 2019-09-28T14:35:24+0000
+/project/peachpy/, PeachPy, 0.0.1, Portable Efficient Assembly Codegen in Higher-level Python, 2013-11-24T00:02:54+0000
+/project/hack-assemble/, hack-assemble, 0.1, Assembles Hack assembly files into Hack machine language files., 2018-03-18T12:42:21+0000
+/project/dragonlib/, dragonlib, 0.1.7, Library around 6809 computers like Dragon 32/64, CoCo..., 2015-08-21T20:37:04+0000
+/project/mahdiyeh-mbca/, mahdiyeh-mbca, 0.0.2, Azadeh Afzar - Mahdiyeh Mano Basic Computer Assembler, 2019-10-19T17:44:55+0000
+/project/setupbuilder/, setupbuilder, 0.0.1, Command to generate setup for python packages., 2014-01-09T17:21:22+0000
+/project/thglib/, thglib, 0.0.2.dev0, thg exploit framework and exploit development library., 2021-04-26T03:44:36+0000
+/project/ducky/, ducky, 3.0, Simple virtual CPU/machine simulator, 2016-04-24T09:45:37+0000
+/project/rzpipe/, rzpipe, 0.1.0, Pipe interface for rizin, 2021-01-28T22:45:14+0000
+/project/mio-lang/, mio-lang, 0.1.8, A Toy Programming Language written in Python, 2013-12-24T05:52:50+0000
+/project/kcshell/, kcshell, 0.0.4, Simple Python3 based interactive assembly/disassembly shell for various architectures powered by Keystone/Capstone., 2017-04-05T19:23:15+0000
+/project/pylmc/, pylmc, 0.1.0a1, Assembler and interpreter for the Little Man Computer, 2010-09-10T21:23:02+0000
+/project/opcodes/, opcodes, 0.3.14, Database of Processor Instructions/Opcodes, 2017-11-05T06:03:27+0000
+/project/dgtools/, dgtools, 1.0.4, An assembler and simulation toolchain for the Digirule2 series of hardware., 2020-12-20T23:49:38+0000
+/project/asm2d/, asm2d, 0.2.3, An assembler for the 68112D microprocessor, 2013-01-07T08:54:02+0000
+/project/jawa/, jawa, 2.2.0, Doing fun stuff with JVM ClassFiles., 2019-01-10T06:14:55+0000
+/project/qtarmsim/, qtarmsim, 0.5.3, Easy to use graphical ARM simulator, 2020-11-06T22:00:03+0000
+/project/hera-py/, hera-py, 1.0.7, Interpreter for the Haverford Educational RISC Architecture (HERA) assembly language, 2021-03-29T01:07:49+0000
+/project/qsy/, qsy, 0.4.4, A quantum computer state vector/stabilizer circuit simulator and assembly language, 2019-06-10T12:02:40+0000
+/project/py65/, py65, 1.1.0, 6502 microprocessor simulation package, 2018-07-01T21:17:43+0000
+/project/shellen/, shellen, 0.3.0, Interactive environment for crafting shellcodes. Also, it just can be used as a simple assembler/disassembler, 2018-09-13T17:31:14+0000
+/project/hsalf/, hsalf, 0.0.1, Hsalf is a pure Python library to read and write Flash files (SWF)., 2011-09-22T12:41:10+0000
+/project/pybytecode/, pybytecode, 0.1, A Python bytecode compiler and bytecode generator., 2014-05-10T16:28:59+0000
+/project/pythonoberon/, PythonOberon, 0.1.0, A hardware emulator for the Oberon RISC processor., 2019-05-14T06:34:07+0000
+/project/dragonpyemulator/, dragonpyemulator, 0.7.0, Emulator for 6809 CPU based system like Dragon 32 / CoCo written in Python..., 2020-10-01T11:27:20+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/pynes/, pyNES, 0.1.1, Python Programming for Nintendo 8bits, 2012-11-06T19:58:43+0000
+/project/cemu/, cemu, 0.5, Cemu is a simple assembly/dissembly/emulation IDE that provides an easy Plug-n-Play environment to start playing with many architectures (currently supports x86-{32,64}, ARM, AARCH64, MIPS, SPARC)., 2019-11-01T01:43:44+0000
+/project/pytcc/, pytcc, 0.9.27.1, A Python Wrapper for the API of the Tiny C Compiler (TCC), 2020-10-16T23:57:38+0000
+/project/mc6809/, mc6809, 0.6.0, MC6809 CPU emulator written in Python, 2020-02-10T20:30:25+0000
+/project/chiasm-shell/, chiasm-shell, 1.0.0a9, CLI for assembly/disassembly powered by Keystone/Capstone., 2017-01-27T04:59:41+0000
+/project/pycca/, pycca, 0.2.0, Pure-python C and assembly compilers, 2015-01-22T22:27:24+0000
+/project/pyscanprev/, pyscanprev, 0.1.0, Scan and reduce/fold as generator expressions and list/set comprehensions that can access the previous iteration output., 2016-10-23T13:04:34+0000
+/project/wasmite/, wasmite, 0.2.1, Wasmite: Webassembly is the future but now it has a testing toolchain, 2021-02-21T14:14:01+0000
+/project/hsc-assembler/, hsc-assembler, 0.3.0, Assembler for the hsc (name TBD) ISA (https://github.com/HomebrewSiliconClub/Processor), 2020-11-29T21:43:28+0000

@@ -1,0 +1,1530 @@
+/project/undatum/, undatum, 1.0.7, undatum: a command-line tool for data processing. Brings CSV simplicity to JSON lines and BSON, 2020-10-26T10:53:47+0000
+/project/times2/, times2, 0.8, Times2 is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2015-10-26T15:10:11+0000
+/project/bwatch/, bwatch, 1.0.5, display a binary watch view in the terminal, 2017-09-14T05:05:23+0000
+/project/yawinpty-extra/, yawinpty-extra, 0.1.0.dev1, yet another winpty binding for python (extra package), 2017-07-16T07:50:27+0000
+/project/gfm-toc/, gfm-toc, 0.0.7, Simple and customizable way to generate TOC for Github Markdown files., 2019-04-07T07:56:56+0000
+/project/ukpol-cli/, ukpol-cli, 0.0.6, A CLI tool for finding information on UK police forces and local crime information, 2017-07-27T23:34:45+0000
+/project/victoria/, victoria, 1.0.1, Automation toolbelt -- a single command with multiple pluggable subcommands for automating any number of 'toil' tasks that inhibit productivity., 2021-04-08T13:25:16+0000
+/project/dict-cli/, dict-cli, 1.3.4, 命令行下中英文翻译工具（Chinese and English translation tools in the command line）, 2017-05-19T08:59:48+0000
+/project/curlc/, curlc, 0.0.3, curl wrapper to borrow cookies from your browser's authenticated session, 2015-12-24T03:51:01+0000
+/project/ufp/, ufp, 1.14, ufp 라이브러리 python 버전. 각종, 편리한 함수들의 모음., 2015-06-14T13:51:19+0000
+/project/batchexec/, batchexec, 0.0.5, Batch execute any task, with simple json config, 2021-02-26T22:42:20+0000
+/project/painter/, painter, 0.3.1, Your own expressive painter who colors text in your terminal., 2014-04-28T23:53:04+0000
+/project/appveyor-artifacts/, appveyor-artifacts, 1.0.2, Download artifacts from AppVeyor builds of the same commit/pull request., 2016-05-02T01:03:16+0000
+/project/termrecord/, TermRecord, 1.2.5, A simple terminal session recorder with easy-to-share HTML output!, 2017-05-05T02:29:01+0000
+/project/mig3-client/, mig3-client, 0.5.9, Send test result to Mig3 service, 2019-05-22T23:18:02+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/doe2-sim-parser/, DOE2-SIM-Parser, 0.20, , 2019-11-09T01:13:47+0000
+/project/pyserial-asyncio/, pyserial-asyncio, 0.5, Python Serial Port Extension - Asynchronous I/O support, 2020-11-24T01:57:50+0000
+/project/mklsgit/, mklsgit, 0.4, ls command with git branch, 2017-12-14T18:47:22+0000
+/project/corsemall/, corsemall, 0.2.0, Serves JSON data with CORS allowed from *.json files at given path., 2018-09-02T14:55:59+0000
+/project/timezone-converter/, timezone-converter, 0.4.7, Compare your local timezone with a foreign one., 2021-02-27T19:31:18+0000
+/project/metawarc/, metawarc, 1.0.2, metawarc: a command-line tool for metadata extraction from files inside WARC (web archive), 2020-05-11T13:14:55+0000
+/project/nebooman/, nebooman, 0.1, Netscape Bookmark Manager, 2016-10-06T17:53:17+0000
+/project/rshell/, rshell, 0.0.30, A remote shell for working with MicroPython boards., 2021-03-01T22:24:24+0000
+/project/simpleopt/, simpleopt, 0.1.2a, simpleopt - a simple parser for options in command line, 2008-05-27T03:53:28+0000
+/project/zio/, zio, 2.1.0, Unified io lib for pwning development written in python., 2020-12-07T14:00:42+0000
+/project/evernote-backup/, evernote-backup, 1.0.0, Backup & export Evernote notes and notebooks., 2021-04-24T14:47:45+0000
+/project/unlocker/, unlocker, 2.2.0, CLI credentials manager, 2018-09-22T15:47:30+0000
+/project/pythoncolorize/, PythonColorize, 0.2, Simple module to colorize text on terminal, 2016-07-05T20:46:47+0000
+/project/s3-client/, s3-client, 0.1.2, Sample python script to work with Amazon S3., 2020-12-14T12:25:27+0000
+/project/texbox/, texbox, 0.2.1, An opinionated Python CLI to create, organize, and prettify specific files of a LaTeX project., 2020-10-11T23:32:38+0000
+/project/htpasswd-cli/, htpasswd-cli, 0.1.3, htpasswd-cli  a CLI, htpasswd(only basic authorization), 2013-09-30T11:48:34+0000
+/project/paff/, paff, 0.0.2, paff: path diff for chaotic humans, 2018-10-28T11:39:17+0000
+/project/pycoax/, pycoax, 0.7.0, IBM 3270 coaxial interface, 2021-03-11T00:13:48+0000
+/project/xontrib-commands/, xontrib-commands, 0.2.7, Useful xonsh-shell commands/alias functions, 2021-04-18T11:55:03+0000
+/project/xontrib-back2dir/, xontrib-back2dir, 0.1.1, Return to the most recently used directory when starting the xonsh shell., 2021-04-07T08:20:05+0000
+/project/dcc/, dcc, 0.1.0, Django Contributing Commons.
+
+Django-CC makes contributing to PyPI packages a breeze.
+It will download the package source code and sets you up
+so you can focus on developing amazing new features., 2016-02-09T11:05:16+0000
+/project/nspawn/, nspawn, 0.6.16.dev3, Containers with systemd-nspawn, 2021-03-25T00:13:14+0000
+/project/cltwit/, cltwit, 0.6, 'Command line Twitter utility', 2013-02-03T22:34:49+0000
+/project/powerline-xcodeversion/, powerline-xcodeversion, 1.0.0, A Powerline segment for showing the active version of Xcode, 2019-02-02T21:44:34+0000
+/project/tff/, tff, 0.2.10, Terminal Filter Framework, 2014-04-25T04:51:24+0000
+/project/sensorhandler/, sensorhandler, 0.1.3, Multipurpose sensorhandler, read the value from source & do somethings (send, save, trigger, ...) with it, as configed., 2018-09-29T08:49:12+0000
+/project/prefixed/, prefixed, 0.3.2, Prefixed alternative numeric library, 2020-08-31T23:45:13+0000
+/project/x84/, x84, 2.0.17, Framework for Telnet and SSH BBS or MUD server development with example default bbs board, 2020-06-17T12:51:31+0000
+/project/argv/, argv, 0.0.3, Simpler command line argument parsing, 2013-11-26T21:26:43+0000
+/project/terminaltables/, terminaltables, 3.1.0, Generate simple tables in terminals from a nested list of strings., 2016-10-17T00:11:54+0000
+/project/setproj/, setproj, 1.1.6, create projects in cli, 2020-12-30T07:08:11+0000
+/project/ansi-escape-room/, ansi-escape-room, 1.4.2, Simple library for color and formatting to terminal, 2020-03-29T00:29:57+0000
+/project/pysigmakoki/, PySigmaKoki, 2.0.0, Python Interface for Instruments by Sigma Koki, 2018-07-20T07:43:07+0000
+/project/npyscreen/, npyscreen, 4.10.5, Writing user interfaces without all that ugly mucking about in hyperspace, 2015-10-12T09:08:20+0000
+/project/pyterm/, pyterm, 0.2.0, pyterm - terminal output style/positioning control, 2013-10-14T03:53:25+0000
+/project/epistle/, epistle, 0.2.5, Note taking with version control, 2018-09-12T04:37:23+0000
+/project/haggis/, haggis, 0.1a1, General purpose utility library, 2019-04-03T23:22:51+0000
+/project/tmux-helper-filetransfer/, tmux-helper-filetransfer, 0.1.0, file transfer cli utility for tmux, 2018-10-14T15:30:47+0000
+/project/cherrydoor/, Cherrydoor, 0.6.1, An overengineered rfid lock manager created for my school community. Made for Raspberry Pi connected with another microcontroler that send and recieved rfid data via UART, 2020-10-08T14:30:29+0000
+/project/colorlog/, colorlog, 5.0.1, Add colours to the output of Python's logging module., 2021-04-13T13:51:48+0000
+/project/smclip/, smclip, 0.3.0, Simple Multi Command Line Parser, 2017-10-11T11:38:57+0000
+/project/barbara/, barbara, 2.3.0, Environment variable management, 2021-04-21T16:20:56+0000
+/project/tsr/, tsr, 0.0.3, TSR on command-line, 2018-07-11T08:54:29+0000
+/project/rpi-sensor/, RPi.Sensor, 0.5.3, Python base class to create infinite loop to work with sensors., 2020-07-25T21:34:06+0000
+/project/dcard-spider/, dcard-spider, 0.3.0, A spider for Dcard through its newest API., 2017-05-26T12:46:01+0000
+/project/myterm/, myterm, 0.3.0, module for add function in terminal, 2016-10-05T13:03:02+0000
+/project/apt-mirror-updater/, apt-mirror-updater, 7.2, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-04-17T22:28:13+0000
+/project/termremind/, termremind, 0.0.4.7, Reminders in terminal, 2021-02-22T20:03:24+0000
+/project/cterm/, cterm, 0.0.9, Fork your input to multiple Terminal windows, 2020-01-20T12:02:50+0000
+/project/lc-py/, lc-py, 2.0.1, Lowercase values for Python!, 2019-12-03T02:38:30+0000
+/project/usbinfo/, usbinfo, 1.1.1, Module for introspecting USB devices on a system, 2018-11-20T00:24:48+0000
+/project/rsp1570serial-pp81381/, rsp1570serial-pp81381, 0.1.5, Rotel RSP-1570 processor asyncio RS-232 protocol, 2020-08-09T19:19:25+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/bnc/, bnc, 0.0.1a7, Unofficial Binance CLI to interact with Binance API, 2021-04-24T15:02:21+0000
+/project/termsaver/, termsaver, 0.4, Simple text-based terminal screensaver., 2018-07-30T12:19:45+0000
+/project/random-dog/, random-dog, 1.0.2, Modul/Command Line Tool to get dog images, 2019-12-14T16:22:39+0000
+/project/asciinema/, asciinema, 2.0.2, Terminal session recorder, 2019-01-12T19:00:51+0000
+/project/tmonk/, tmonk, 0.1.2, thesis build of DFE's MONK, 2014-02-08T22:19:19+0000
+/project/lssh/, lssh, 0.2.1, Limited Secure SHell, 2017-07-20T23:04:27+0000
+/project/upydev/, upydev, 0.3.3, Command line tool for wireless MicroPython devices, 2020-06-07T13:07:02+0000
+/project/lathe/, lathe, 0.2.7, Basic machine learning toolkit for BYU CS478, 2017-04-08T01:43:39+0000
+/project/tcolorpy/, tcolorpy, 0.0.9, tcolopy is a Python library to apply true color for terminal text., 2021-03-27T05:14:07+0000
+/project/netapp-ocum/, netapp-ocum, 0.1.7, Client bindings for for the NetApp OnCommand Unified Manager (OCUM) REST API., 2019-07-31T19:31:17+0000
+/project/ttylight-python/, TTYLight-Python, 1.1.1, easily stylize terminal text, 2013-07-18T11:22:36+0000
+/project/ghstar/, ghstar, 0.2.0, Star GitHub repos from the command line, 2019-10-07T11:27:57+0000
+/project/isee-sipm/, ISEE_SiPM, 1.1.0, Commont Python toolset for SiPM analysis, 2018-08-30T05:37:35+0000
+/project/edpath/, edpath, 0.1.4, MS Windows command-line script to view and edit PATH-like environment variables., 2010-07-09T21:20:26+0000
+/project/khansoul/, khansoul, 2.1.0, Simple terminal emulator, 2021-01-25T06:54:10+0000
+/project/pycliff/, pyCLiFF, 0.1, pyCLiFF, the Python Command Line Filter Framework is a simple tool designed to remove the boilerplate and annoyances from command line filters., 2009-08-21T00:11:17+0000
+/project/rogrepos/, rogrepos, 0.1.1, Rogrepos removes outdated GitHub repositories, 2017-12-14T03:14:46+0000
+/project/mpycntrl/, mpycntrl, 0.0.7, Control MicroPython with your own code, 2020-04-02T09:56:54+0000
+/project/myratings/, myratings, 1.2.2, Displays ratings of the user from various competitive programming sites in the terminal !!, 2017-12-31T07:34:43+0000
+/project/pycommand/, pycommand, 0.4.0, Library / toolkit for creating command line programs with minimal effort., 2018-03-27T21:19:07+0000
+/project/hickory/, hickory, 1.0.0, The command line tool for scheduling Python scripts, 2020-08-25T20:04:58+0000
+/project/fucking/, fucking, 2.1.0, a python tool which make English word to Chinese using the baidu translate., 2019-11-25T23:17:52+0000
+/project/echo360/, echo360, 2.0.3, Commandline tool for automated downloads of echo360 videos, 2020-05-29T13:44:24+0000
+/project/gpm-player/, gpm-player, 0.1.2, Multi platform and text based Google-Play-Music player, 2018-03-06T08:51:37+0000
+/project/text-histogram3/, text-histogram3, 1.0.0, A dependency-free library to quickly make ascii histograms from data., 2020-07-12T10:03:03+0000
+/project/icolor/, icolor, 1.2, Interpolate ANSI colors in strings, 2012-06-25T00:32:56+0000
+/project/cocof/, cocof, 1.2.2, Consistent CLI config file modifier, 2019-01-27T14:20:35+0000
+/project/butterfly/, butterfly, 3.2.5, A sleek web based terminal emulator, 2018-09-12T08:22:04+0000
+/project/dotignore/, dotignore, 0.0.2, Command line tool to generate ignore files, 2020-09-18T10:26:18+0000
+/project/brownfox/, brownfox, 0.1.1, The quick brown fox switches directories amazingly fast, 2014-04-28T09:34:29+0000
+/project/git-pr/, git-pr, 0.2.0, Tool to fetch GitHub pull requests., 2017-03-19T20:04:00+0000
+/project/iterm2magic/, iterm2magic, 0.1.0, t is for terminal. iTerm2 automated configuration, 2020-03-29T22:21:43+0000
+/project/folkol-yg/, folkol.yg, 0.0.16, a unix filter for "greping" in YAML files, 2020-09-24T07:29:21+0000
+/project/autond/, autond, 0.2.13, autond, 2020-12-04T11:40:16+0000
+/project/sandstone/, sandstone, 1.1.2, Sandstone IDE, 2017-07-05T21:12:02+0000
+/project/pyopt/, pyopt, 0.84, Exposing python functions to the command line, 2011-12-29T19:27:42+0000
+/project/ansible-apply/, ansible-apply, 0.1.2, apply remote tasks, supports command line inventory, 2019-02-23T03:11:25+0000
+/project/ecog/, ecog, 0.8.1.1, Ecogwiki OAuth client, 2013-12-15T17:23:30+0000
+/project/rockart/, rockart, 0.2.3, A tool for drawing in terminal using Braille characters, 2020-04-28T23:37:09+0000
+/project/tinybuddhawisdom/, tinybuddhawisdom, 1.0.0, Tinybuddha Wisdom is a tiny console fortune-like wisdom teller., 2014-06-26T09:34:56+0000
+/project/tbar/, tbar, 0.1, Visualize values with ascii characters in terminal, 2014-02-08T05:39:35+0000
+/project/htrest/, htrest, 0.1.10, Heliotherm heat pump REST API, 2021-01-30T16:35:13+0000
+/project/texteditpad/, texteditpad, 0.32, Simple textbox editing widget with Emacs-like keybindings, 2015-03-31T15:38:10+0000
+/project/technicservercore/, TechnicServerCore, 0.3.3, Custom wrapper that downloads and updates Technic modpacks specifically for servers., 2014-10-02T00:31:52+0000
+/project/ptyng/, ptyng, 0.3.3.post1, Pseudo-terminal utilities., 2019-03-03T03:20:46+0000
+/project/pure/, pure, 2.0.0, Pretty, minimal and fast prompt for various shells, 2019-03-16T23:20:27+0000
+/project/test-kkimj/, test-kkimj, 0.1.1, HC-SR04 Python module via Serial protocol, 2021-03-21T02:57:02+0000
+/project/pyterminfo/, pyterminfo, 0.2, a terminfo-to-python cross compiler, 2017-02-12T22:40:43+0000
+/project/xontrib-history-encrypt/, xontrib-history-encrypt, 0.0.9, History backend that can encrypt the xonsh shell commands history., 2021-03-09T14:27:40+0000
+/project/termask/, termask, 0.1.2, A curses-based python library & terminal utility to ask questions and get answers in a wizardly fashion., 2016-11-20T04:01:20+0000
+/project/powerline-exitstatus/, powerline-exitstatus, 1.1.0, A Powerline segment for showing the status of Exit status, 2018-05-14T11:13:01+0000
+/project/xthematic/, xthematic, 0.0.3, cli app for customizing terminals, 2018-05-09T11:04:26+0000
+/project/sandstone-slurm-assist/, sandstone-slurm-assist, 0.12.0, Sandstone HPC - Slurm Assist App, 2017-07-05T21:15:53+0000
+/project/cmdssh/, cmdssh, 54, Execute commands on local machine and on remote machine via ssh, and a wrapper for paramikos scp., 2016-07-07T20:53:28+0000
+/project/avayaersconnect/, AvayaERSConnect, 1.0.0, AvayaERSConnect’s main purpose is to connect to any Avaya ERS Device via Telnet and perform various administration operations easily, without the need to write any Python code at all., 2016-01-28T14:20:43+0000
+/project/environmentalist/, environmentalist, 0.1.1, Accessing environment variables for lazy people., 2017-12-10T07:02:25+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/phg/, phg, 3.0.0, Password hasher and generator, 2017-12-30T04:35:53+0000
+/project/goear-dl/, goear_dl, 0.1.2, download songs from goear, 2016-01-16T13:25:45+0000
+/project/lazy-lxd/, lazy-lxd, 1.1.0, Easy creating LXD containers with included routine., 2020-09-14T11:48:15+0000
+/project/erase-exif/, erase_exif, 0.1.0, Erase exif meta data from your images, 2016-05-14T16:50:36+0000
+/project/cbdict/, CBDict, 2.0, This program monitors the clipboard of the system and translate the word from English to Chinese by YouDao api, especially designed for Students who are working under linux environment where there is no simple translater when you reading papers., 2019-03-19T01:52:27+0000
+/project/plotille/, plotille, 3.7.2, Plot in the terminal using braille dots., 2020-09-11T15:12:13+0000
+/project/cachedcomplete/, cachedcomplete, 1.0.4, Cached wrapper for python argcomplete, 2020-05-31T06:42:59+0000
+/project/slprint11-pkg/, slprint11-pkg, 1.1, Simple module to display a text with a time interval between each characters., 2020-05-02T00:11:08+0000
+/project/sitekicker/, sitekicker, 1.0.6, Another static site generator, 2020-05-03T07:17:28+0000
+/project/yakut/, yakut, 0.5.3, Simple CLI tool for diagnostics and debugging of UAVCAN networks., 2021-04-23T17:47:02+0000
+/project/intermake/, intermake, 1.0.0.78, Automated run-time generation of user interfaces from Python functions - command-line-args, CLI, python-interactive, python-scripted, graphical (Qt GUI), 2019-02-05T12:38:31+0000
+/project/progressbar231/, progressbar231, 2.3.1, Text progress bar library for Python., 2015-01-01T07:01:17+0000
+/project/elasticsearch-faker/, elasticsearch-faker, 0.0.2, elasticsearch-faker is a CLI tool to generate fake data for Elasticsearch., 2021-02-01T04:42:05+0000
+/project/docoptcfg/, docoptcfg, 1.0.2, docopt wrapper adding config file and environment variable support., 2016-06-29T04:31:37+0000
+/project/pygpsclient/, PyGPSClient, 1.0.5, PyGPSClient GNSS/GPS Graphical Client, 2021-04-24T07:57:15+0000
+/project/penpal/, penpal, 0.5.0, pen: terminal notes, 2020-09-27T15:55:35+0000
+/project/cli2/, cli2, 2.3.1, image:: https://yourlabs.io/oss/cli2/badges/master/pipeline.svg, 2020-08-02T14:33:14+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/moreman/, moreman, 0.3.2, Man Pages for Commands without Man Pages, 2019-10-19T07:35:14+0000
+/project/pyinfo/, pyinfo, 1.0.1, python environment info as phpinfo does with php, 2017-11-11T15:08:49+0000
+/project/pixcat/, pixcat, 0.1.4, Display images on a kitty terminal with optional resizing., 2018-10-02T20:03:11+0000
+/project/cs-ansi-colour/, cs.ansi-colour, 20200729, Convenience functions for ANSI terminal colour sequences [color]., 2020-07-28T23:49:07+0000
+/project/apt-smart/, apt-smart, 7.1.3, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-05-31T07:14:08+0000
+/project/pytubex/, pytubeX, 0.1.4, Python X library for downloading YouTube Videos. Fork from pytube3, an unmaintained library., 2020-11-05T22:17:01+0000
+/project/powerline-travis-ci/, powerline-travis-ci, 0.1.post1, A Powerline segment for fetching and showing the latest travis-ci build state, 2020-11-06T16:18:58+0000
+/project/pycomm/, pycomm, 1.0.8, A PLC communication library for Python, 2015-11-01T16:20:56+0000
+/project/shyml/, shyml, 1.0.3, write shell in sh.yml, 2019-06-18T14:43:03+0000
+/project/bnc-testnet/, bnc-testnet, 0.0.1a7, Unofficial Binance CLI to interact with Binance API, 2021-04-24T15:02:26+0000
+/project/lockbox/, lockbox, 0.1, User-friendly symmetric-key cryptography, 2017-05-30T15:01:13+0000
+/project/powerline-docker/, powerline-docker, 1.0.4, A Powerline segment for showing Docker container statuses, 2017-01-17T10:23:26+0000
+/project/hddtempnc/, hddtempnc, 1.3.0, Tool to acquire hard disk drive temperature from the network interface, 2018-09-26T22:20:35+0000
+/project/flashgbx/, FlashGBX, 1.4.2, Reads and writes Game Boy and Game Boy Advance cartridge data. Currently supports the GBxCart RW hardware device by insideGadgets., 2021-03-17T13:27:03+0000
+/project/cli-thesaurus/, cli-thesaurus, 1.0.0b5, A command-line interface thesaurus, 2020-02-28T22:05:46+0000
+/project/xontrib-cmd-done/, xontrib-cmd-done, 0.2.2, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-25T18:39:59+0000
+/project/oraide/, oraide, 0.4, A library to help presenters demonstrate terminal sessions hands-free., 2014-01-14T00:43:13+0000
+/project/htmlie/, htmlie, 1.0.0, HTMLie is a command line HTML Parser., 2019-08-06T03:49:54+0000
+/project/prettystring/, prettystring, 0.1.1, Build ANSI color encoded strings with ease., 2016-12-09T20:23:29+0000
+/project/telnetsrv/, telnetsrv, 0.4, Telnet server handler library, 2012-12-02T05:52:32+0000
+/project/xontrib-prompt-bar/, xontrib-prompt-bar, 0.4.1, The bar theme for xonsh shell., 2021-04-18T05:46:39+0000
+/project/pyjavaprops/, pyjavaprops, 1.0.2, Tool to parse Java style properties file, 2015-09-27T13:04:27+0000
+/project/apache-manager/, apache-manager, 2.2, Monitor and control Apache web server workers from Python, 2020-02-29T00:10:22+0000
+/project/more-termcolor/, more-termcolor, 1.1.3, All colors, with support for nested colors, convenience methods and full original termcolor compatability., 2020-06-25T10:58:07+0000
+/project/logthon/, logthon, 2.4.2, A simple logger for Python, 2021-01-20T15:01:59+0000
+/project/jinxed/, jinxed, 1.1.0, Jinxed Terminal Library, 2021-04-11T14:28:36+0000
+/project/moprofiler/, moprofiler, 1.1.0, 综合性能分析工具，集成了内存使用、执行时间的分析器，及秒表打点工具, 2019-02-20T08:39:18+0000
+/project/piefuzz/, piefuzz, 1.0.4, Pie wrapper for junegunn's fuzzyfinder (fzf), 2017-04-16T16:39:48+0000
+/project/awesomelog/, awesomelog, 1.4.0, Bootstrap for console and file logging configuration, 2016-05-06T16:48:40+0000
+/project/a-pytube-fork-for-spotdl-users/, a-pytube-fork-for-spotdl-users, 9.6.4, Python 3 library for downloading YouTube Videos., 2020-10-28T17:21:42+0000
+/project/easy-ansi-widgets/, easy-ansi-widgets, 0.0.0, Widgets made from the easy-ansi framework, 2020-05-28T02:45:51+0000
+/project/microspec/, microspec, 0.1.1b0, Python API for the Chromation spectrometer dev-kit, 2020-09-25T01:40:06+0000
+/project/argsearch/, argsearch, 0.3.0, Run a command many times with different combinations of its inputs., 2020-10-19T06:55:38+0000
+/project/pydrcs/, PyDRCS, 0.1.6, Make DRCS glyphs for DEC VT-series from image files, 2014-02-04T11:56:28+0000
+/project/scons-parts/, scons-parts, 0.15.8, Extension module to SCons build system, 2020-10-05T20:48:29+0000
+/project/ansicolors-balises/, ANSIColors-balises, 1.9.9.public, ANSIColors brings a simple and powerful way to use colours in a terminal., 2013-03-20T10:41:51+0000
+/project/xirion/, xirion, 1.0.19, Terminal session recorder, 2017-06-30T11:18:35+0000
+/project/pansi/, pansi, 2020.7.3, ANSI escape code library for Python, 2020-07-09T15:33:05+0000
+/project/pyzshcomplete/, pyzshcomplete, 1.0.2, Tab completion for arbitraty python scripts in zsh, 2021-02-23T21:31:34+0000
+/project/qcon/, qcon, 2.5, qcon is program for hiding/showing terminal emulators(or other software) with a hotkey., 2018-04-16T14:06:20+0000
+/project/dockerpty/, dockerpty, 0.4.1, Python library to use the pseudo-tty of a docker container, 2016-02-04T18:57:12+0000
+/project/xontrib-hist-navigator/, xontrib-hist-navigator, 0.6.3, A Xonsh plugin to navigate between directories like fish's prevd/nextd, 2021-01-03T11:59:42+0000
+/project/oatmeal/, oatmeal, 1.1, A protocol to control and communicate with Arduino devices from Python., 2019-12-30T20:51:44+0000
+/project/youtube-py/, youtube.py, 1.1.8, YouTube.py is a light python module for youtube., 2021-04-16T14:59:29+0000
+/project/repeat/, repeat, 0.1.3, Repeat command N times every S seconds., 2019-01-31T09:13:28+0000
+/project/coloredlogs/, coloredlogs, 15.0, Colored terminal output for Python's logging module, 2020-12-10T13:10:51+0000
+/project/webpage2html/, webpage2html, 0.3.6, Save/convert web pages to a single editable html file, 2018-07-21T15:11:31+0000
+/project/hc-sr04/, HC-SR04, 0.3.1, HC-SR04 Python module via Serial protocol, 2021-03-22T15:34:44+0000
+/project/oide-nb-term/, oide-nb-term, 0.1.1, Online Integrated Development Environment (OIDE) - NBTerm, 2016-03-30T18:29:31+0000
+/project/nspawn-tools/, nspawn-tools, 1.1.2, Convenience code for dealing with systemd-nspawn machines, 2017-02-17T21:29:07+0000
+/project/neotermcolor/, neotermcolor, 2.0.10, Fork of termcolor library, 2021-02-23T13:46:50+0000
+/project/spotipy-tui/, spotipy-tui, 1.0.5, Text-based UI to control Spotify client, 2015-08-02T17:12:13+0000
+/project/picharsso/, picharsso, 2.0.1, A utility for converting images to text art., 2020-07-31T18:29:49+0000
+/project/powerline-exitstatus-kai/, powerline-exitstatus-kai, 1.2.0, A Powerline segment for showing the status of Exit status, 2020-04-12T22:18:19+0000
+/project/blessings/, blessings, 1.7, A thin, practical wrapper around terminal coloring, styling, and positioning, 2018-06-21T14:00:07+0000
+/project/dadjokes-plus-plus/, dadjokes-plus-plus, 1.2, Dad jokes on steroids., 2020-08-04T14:53:15+0000
+/project/pyshanb/, pyshanb, 0.6.3, PyShanb - 命令行下的扇贝词典, 2014-02-28T14:00:37+0000
+/project/cli-helpers/, cli-helpers, 2.1.0, Helpers for building command-line apps, 2020-07-29T16:32:55+0000
+/project/iterfzf/, iterfzf, 0.5.0.20.0, Pythonic interface to fzf, 2020-02-09T14:54:20+0000
+/project/pysixel/, PySixel, 0.1.11, View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/RLogin/tanasinn/yaft), 2015-03-24T15:27:18+0000
+/project/ssterm/, ssterm, 3.0.0, A simple console-based serial port terminal, 2016-10-02T09:28:14+0000
+/project/erebo/, erebo, 1.1.23, Erebo is a VPN like a Proxy, 2019-11-05T10:03:35+0000
+/project/bashcalc/, bashcalc, 1.0, Instant calculating from the terminal into the terminal, 2020-06-09T20:14:49+0000
+/project/powerline-inject/, powerline-inject, 0.1.6, A powerline segment to show an ENV list with extra knobs, 2020-01-22T04:08:57+0000
+/project/xontrib-linuxbrew/, xontrib-linuxbrew, 0.1.0, Add Homebrew's shell environment to xonsh on Linux, 2021-03-04T18:51:35+0000
+/project/fahrplan/, fahrplan, 1.1.2, A SBB/CFF/FFS commandline based timetable client., 2019-10-09T07:08:26+0000
+/project/bridgy/, bridgy, 0.3.0, Easily search your cloud inventory and integrate with ssh + tmux + sshfs, 2018-08-17T02:44:07+0000
+/project/consolemd/, consolemd, 0.5.1, ConsoleMD renders markdown to the console, 2019-07-08T13:27:32+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jetson-stats/, jetson-stats, 3.1.0, Interactive system-monitor and process viewer for all NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2], 2021-03-01T15:50:57+0000
+/project/pdiffcopy/, pdiffcopy, 1.0.1, Fast large file synchronization inspired by rsync, 2020-03-06T23:30:24+0000
+/project/upydevice/, upydevice, 0.2.3, Python library to interface with wireless/serial MicroPython devices, 2020-05-25T15:16:24+0000
+/project/terminalprinter/, TerminalPrinter, 1.5.2, 终端图片、文字生成器, 2019-12-01T01:44:25+0000
+/project/imagemounter/, imagemounter, 3.1.0, Command line utility and Python package to ease the (un)mounting of forensic disk images., 2017-08-06T09:44:33+0000
+/project/cbtop/, cbtop, 1.0.1, cbtop wrapper, 2012-09-29T00:13:53+0000
+/project/clint2/, clint2, 0.3.2, Python Command-line Application Tools, 2012-06-30T02:32:46+0000
+/project/see-saw/, see-saw, 0.1.3, CloudWatch logs viewer for multiple groups, 2021-03-11T19:48:37+0000
+/project/flootty/, Flootty, 3.2.2, Floobits collaborative terminal, 2018-08-09T23:53:21+0000
+/project/pyserialui/, pyserialui, 1.0.0, SerialUI druid support and examples, 2019-06-25T16:22:43+0000
+/project/asyncluster/, AsynCluster, 0.3, Asynchronous cluster management based on the Twisted framework, with evolutionary computing tools for asynchronous node processing., 2008-03-23T05:10:55+0000
+/project/powerkube-fork/, powerkube-fork, 0.2.1, A powerline segment to show kubernetes context items, with toggling and alert color functionality, 2020-07-23T19:04:26+0000
+/project/getch/, getch, 1.0, Does single char input, like C getch/getche, 2013-05-03T01:45:53+0000
+/project/patsi/, patsi, 0.4, Python ANSI Terminal Styling Interface, 2017-06-19T15:16:05+0000
+/project/httpie/, httpie, 2.4.0, HTTPie: command-line HTTP client for the API era., 2021-02-06T10:16:47+0000
+/project/moear-api-common/, moear-api-common, 1.0.2.post2, 为MoEar扩展插件提供接口定义以及通用组件, 2018-04-08T14:03:43+0000
+/project/modem-cmd/, modem-cmd, 1.0.2, Send arbitrary AT commands to your modem, 2017-07-20T02:39:42+0000
+/project/pytube/, pytube, 10.7.2, Python 3 library for downloading YouTube Videos., 2021-04-20T15:56:41+0000
+/project/python-hangman/, python_hangman, 2.2.3, Python Hangman TDD/MVC demonstration., 2015-12-28T10:09:57+0000
+/project/upyble/, upyble, 0.0.3, Command line tool for Bluetooth Low Energy MicroPython devices, 2020-06-30T16:10:55+0000
+/project/jandan-cli/, jandan-cli, 0.0.2, jandan cli, 2019-10-14T13:06:50+0000
+/project/crypto-drive-manager/, crypto-drive-manager, 3.0, Unlock all your encrypted drives with one pass phrase., 2018-01-17T23:20:53+0000
+/project/xontrib-output-search/, xontrib-output-search, 0.5.4, Get identifiers, names, paths, URLs and words from the previous command output and use them for the next command in xonsh., 2020-10-29T08:45:20+0000
+/project/tflens/, tflens, 1.3.0, Terraform state viewer, 2020-10-31T15:27:18+0000
+/project/carrack/, carrack, 0.0.1.dev1, Airflow Carrack Sync Replicator Marketplace Client, 2017-11-17T18:27:50+0000
+/project/timeleft/, timeleft, 0.2, A simple command line utility for displaying the amount of time left in a download., 2016-04-24T20:05:14+0000
+/project/xfce4-terminal-themes/, xfce4_terminal_themes, 0.1, Manage your xfce4-terminal themes with ease!, 2018-08-08T00:48:42+0000
+/project/argcomplete/, argcomplete, 1.12.3, Bash tab completion for argparse, 2021-04-19T15:48:18+0000
+/project/data-explorer/, data_explorer, 0.1.11, Command line utilities for data exploration, 2015-04-17T22:00:22+0000
+/project/kg-downloader/, kg-downloader, 0.2.0, a python tool which download songs from kg.qq.com., 2019-11-25T23:36:47+0000
+/project/colorama/, colorama, 0.4.4, Cross-platform colored terminal text., 2020-10-13T02:42:26+0000
+/project/tinc-mesh/, tinc-mesh, 0.1.3.dev4, tinc mesh vpn, 2021-03-25T18:57:02+0000
+/project/common/, common, 0.1.2, Common tools and data structures implemented in pure python., 2016-05-19T14:38:22+0000
+/project/rockart-examples/, rockart-examples, 0.2.1, Collection of Rockart usage examples, 2020-05-03T07:12:37+0000
+/project/gaedevhelper/, gaedevhelper, 0.1.0.dev0, A lovely command-line helper for developing GAE applications, 2016-11-24T07:26:13+0000
+/project/imaginary/, Imaginary, 0.0.5, Virtual simulation framework., 2009-11-29T19:21:37+0000
+/project/caspyr/, caspyr, 1.1.1, Cinchingly awesome scripts of Pythonic rapture, 2019-08-01T23:19:27+0000
+/project/lsbinit/, lsbinit, 0.1.post7, Linux init scripts handler, 2016-01-06T17:46:57+0000
+/project/slmd/, slmd, 0.1.4, Markdown list sorter, 2019-04-18T12:49:03+0000
+/project/samplecmd/, samplecmd, 1.1.7, SampleCMD is a CLI application which prepares sample commands for users based on search words., 2018-03-01T21:17:34+0000
+/project/apibackuper/, apibackuper, 1.0.3, apibackuper: a command-line tool and python library for API backuping, 2020-10-28T06:53:01+0000
+/project/tmux-master/, tmux-master, 0.0, A tool that runs a master tmux session to control slave tmux sessions on the specified hosts, 2014-03-20T08:01:44+0000
+/project/pyserial/, pyserial, 3.5, Python Serial Port Extension, 2020-11-23T03:59:13+0000
+/project/graphterm/, graphterm, 0.57.0, A Graphical Terminal Interface, 2014-07-19T05:12:16+0000
+/project/clsp/, clsp, 1.3, CLSP short for Command Line Selection Prompt, is a minimalistic and fast to navigate single choice interface., 2021-04-12T07:12:37+0000
+/project/ansimagic/, ansimagic, 0.4.1, Helper for ansi esc sequence, 2019-07-01T19:22:19+0000
+/project/satbot/, satbot, 0.1.10, Read data from commonly-available "satellite" hobby R/C receivers., 2015-01-20T00:22:34+0000
+/project/linux-utils/, linux-utils, 0.7, Linux system administration tools for Python, 2020-02-09T17:02:42+0000
+/project/repacolors/, repacolors, 0.8.0, Small library for color conversion, manipulation, etc., 2021-04-14T18:34:31+0000
+/project/pexpect/, pexpect, 4.8.0, Pexpect allows easy control of interactive console applications., 2020-01-21T16:37:03+0000
+/project/certbot-httpreq/, certbot-httpreq, 0.0.16, certbot-httpreq plugin for certbot client, 2019-12-19T06:00:23+0000
+/project/pttlibrary/, PTTLibrary, 0.9.1, PTT library, 2020-02-09T14:34:54+0000
+/project/juc2/, juc2, 0.1.2, juc2 - Just Use Curses (Mark 2), 2021-03-15T21:32:30+0000
+/project/epew/, epew, 3.4.7, epew (ExternalProgramExecutionWrapper) is a tool to wrap program-calls with some useful functions like getting stdout, stderr, exitcode and the ability to set a timeout., 2020-10-27T19:03:46+0000
+/project/influx-prompt/, influx-prompt, 1.0.1, An interactive command-line influxdb cli with auto completion., 2021-04-01T12:32:08+0000
+/project/streamtools-ultimate-testing/, streamtools-ultimate-testing, 0.9.0.5, A vastly improved replacement for print(), input() and file handling for broad area of use cases - TESTING RELEASE., 2020-12-15T19:50:37+0000
+/project/bpaste/, bpaste, 1.0.1, Code snippet uploader for bpaste.net, 2016-01-25T01:18:24+0000
+/project/mpho/, mpho, 0.3.0, PytHon utility for Organizing tasks, 2015-04-04T10:08:43+0000
+/project/espsetup/, espsetup, 0.0.5, simplified setup up for esp8266 / esp32 device, 2021-03-06T07:24:41+0000
+/project/mantissa/, Mantissa, 0.9.0, A multiprotocol application deployment platform, 2017-09-05T09:06:47+0000
+/project/blessed/, blessed, 1.18.0, Easy, practical library for making terminal apps, by providing an elegant, well-documented interface to Colors, Keyboard input, and screen Positioning capabilities., 2021-02-25T00:53:38+0000
+/project/lemming/, lemming, 0.1.1, Python3 project layout generator, 2018-01-19T10:37:49+0000
+/project/pyptt/, PyPtt, 0.9.43, PyPtt, 2021-04-14T14:34:03+0000
+/project/reflexec/, reflexec, 0.2.0, Utility to automate annoying save-and-run routines in terminal environment, 2020-06-05T11:28:18+0000
+/project/mpyconfigbase/, mpyconfigbase, 0.0.4, Configure MicroPython WLAN/AP/WebRepl startup with your own code, 2020-04-01T14:18:24+0000
+/project/wcache/, wcache, 0.1.1, wcache: a tool that can help you store requested resources with redis, 2017-12-22T05:20:15+0000
+/project/suddenly/, suddenly, 0.1.3.1, , 2020-12-05T16:28:06+0000
+/project/htknx/, htknx, 0.2.0, Heliotherm heat pump KNX gateway, 2021-02-06T16:23:28+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/mail-serv/, mail-serv, 0.6.3.dev5, Mail Service, 2021-03-25T18:57:45+0000
+/project/slideception/, slideception, 0.1.0, Framework for interactive slide decks in the terminal, 2019-12-02T06:34:16+0000
+/project/dosbox-screen/, dosbox-screen, 1.1.5, The Screen class lets you to do positioned writes to the dos terminal., 2019-09-08T20:30:12+0000
+/project/folkol-grab/, folkol.grab, 0.0.5, a unix filter for extracting tokens, 2020-09-22T19:17:54+0000
+/project/terminal-text-color/, Terminal-Text-Color, 0.3, Simple herramienta para darle color al texto en consola, 2014-11-02T20:39:21+0000
+/project/git-x/, git-x, 0.3.202010061414, git-x - a set of handy git extensions., 2020-10-06T03:26:06+0000
+/project/progressbar-ipython/, progressbar-ipython, 2.3.1, Note: This is a just a packaged version of https://github.com/fnoble/python-progressbar., 2014-04-24T09:32:05+0000
+/project/py-term/, py-term, 0.6, Python module to style terminal output, moving and positioning the cursor., 2016-03-11T22:32:01+0000
+/project/xontrib-cmd-durations/, xontrib-cmd-durations, 0.2.4, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-26T07:47:01+0000
+/project/github-codecommit-mirror/, github-codecommit-mirror, 0.2.0, Mirror all repositories of a Github organization or Gitlab groups to AWS CodeCommit, including branches., 2018-05-31T14:05:16+0000
+/project/ttd/, ttd, 0.1.0, Time Till Done (ttd) is a simple progress bar for your long running Python scripts, 2016-11-10T15:57:03+0000
+/project/oide/, oide, 0.11.4, Online Integrated Development Environment (OIDE), 2016-03-30T18:24:08+0000
+/project/telnetlib3/, telnetlib3, 1.0.4, Python 3 asyncio Telnet server and client Protocol library, 2021-02-04T02:55:11+0000
+/project/flipexception/, FlipException, 0.5, The best way to flip an exception out of rage, 2019-10-14T20:31:16+0000
+/project/streamer-retriever/, Streamer-Retriever, 0.20.2, Filter Twitch streams that are online from follows text file., 2021-02-19T11:34:53+0000
+/project/tinymenu/, tinymenu, 0.1.0, Simplifies creation of command-line menus, 2018-04-21T21:21:13+0000
+/project/xontrib-cd/, xontrib-cd, 0.1.1, cd to any path without escaping in xonsh shell ('cd '→'cd! '), 2021-03-04T19:39:43+0000
+/project/achilterm/, Achilterm, 0.21, A lightweight UTF-8 web based terminal, 2016-08-08T01:25:07+0000
+/project/defe/, defe, 0.0.1, A Tech feed Aggregator for Developers., 2020-04-04T13:26:02+0000
+/project/py-execute/, py-execute, 0.1.7, External process executor wrapper, 2014-09-08T09:15:22+0000
+/project/git-glow/, git-glow, 0.1.1, A new git extension to use git flow branching model automatically with Jira and Github, 2021-02-11T13:54:58+0000
+/project/ttrv/, ttrv, 1.27.3, Tilde Terminal Reddit Viewer, 2020-12-09T04:02:17+0000
+/project/mkbak/, mkbak, 1.3.2, a commandline utility to create file backups, 2021-03-01T04:52:21+0000
+/project/mohand-plugin-otp/, mohand-plugin-otp, 1.0.0.post0, MoHand插件，用以提供定制化的一次性密码生成服务, 2018-05-27T14:10:47+0000
+/project/click-params/, click-params, 0.1.1, A bunch of useful click parameter types, 2020-01-05T23:54:34+0000
+/project/pyhumitemp/, pyhumitemp, 1.0.1.post1, Script to capture numeric humidity and temperature output from DHT22, 2018-09-27T23:23:33+0000
+/project/bild-me-cli/, bild.me-cli, 0.1.1, CLI tool for bild.me, 2014-04-30T06:02:54+0000
+/project/restricted-input/, restricted-input, 0.3.0, Alternative to classic input with support for restricting certain characters, 2021-03-15T14:21:07+0000
+/project/tmux2html/, tmux2html, 0.1.11, tmux2html captures full tmux windows or individual panes
+then parses their contents into HTML., 2016-04-15T17:10:04+0000
+/project/prompt/, prompt, 0.4.1, Library for prompting input on the command line., 2017-06-05T17:01:11+0000
+/project/renfe-cli/, renfe-cli, 2.1.0, Get faster RENFE Spanish Trains timetables in your terminal, 2020-04-17T23:20:56+0000
+/project/gitter/, gitter, 0.3.5, Improved command line interface for git, 2020-12-04T07:43:23+0000
+/project/magicformulabr/, magicformulabr, 0.1.0, Magic Formula script for companies listed at Bovespa., 2021-02-19T14:28:57+0000
+/project/poetspy/, poetspy, 0.1.4, A small cli util to show project directories, 2021-04-19T03:21:32+0000
+/project/s3-browser/, s3-browser, 0.3.3, , 2019-03-23T01:04:00+0000
+/project/rpi-pir/, RPi.PIR, 0.5.0, PIR sensor state monitor, 2020-08-11T21:09:01+0000
+/project/atena/, atena, 0.0.0, An extensible text-based virtual assistant., 2021-03-31T09:02:37+0000
+/project/pyts3/, PyTS3, 0.3, A python modul to use the Teamspeak Query Interface., 2010-07-16T21:03:27+0000
+/project/pyvenvwrapper/, pyvenvwrapper, 1.0.0, pyvenvwrapper is a small and lightweight set of Bash script functions, that enhance the use of venv module for management of virtual environments., 2018-09-16T13:07:03+0000
+/project/file-sync-s3/, file-sync-s3, 0.2.4.dev1, Amazon AWS S3 file sync service with inotify watchdog and scheduled expiration, 2020-02-22T16:19:54+0000
+/project/termcast-server/, termcast_server, 0.1.2, allow users to broadcast their terminals for others to watch, 2014-10-22T16:17:17+0000
+/project/domonic/, domonic, 0.2.13, Generate html with python 3. DOM API, Javascript API and more..., 2021-04-17T13:45:12+0000
+/project/nprintml/, nprintml, 0.1.0, Fully automated traffic analysis with nPrint, 2021-04-13T21:01:31+0000
+/project/agrafena/, agrafena, 0.0.0, TN3270 automation library, 2020-05-16T13:57:55+0000
+/project/powerline-kubernetes/, powerline-kubernetes, 1.2.0, A Powerline segment to show Kubernetes context, 2019-11-12T05:47:14+0000
+/project/geobases3k/, GeoBases3K, 5.0.16, Data services and visualization - Python 3 version, 2013-05-13T09:27:10+0000
+/project/yawinpty/, yawinpty, 0.4.3, yet another winpty binding for python, 2017-08-22T04:10:32+0000
+/project/yaspin/, yaspin, 1.5.0, Yet Another Terminal Spinner, 2021-03-21T19:19:50+0000
+/project/pyout/, pyout, 0.7.0, Terminal styling for tabular data, 2020-11-13T15:24:20+0000
+/project/exclock/, exclock, 0.3.0.1, exclock is a cui extended timer., 2020-12-31T16:14:10+0000
+/project/deid/, deid, 0.2.24, deidentify dicom and other images with python and pydicom, 2020-12-01T20:04:51+0000
+/project/colorclass/, colorclass, 2.2.0, Colorful worry-free console applications for Linux, Mac OS X, and Windows., 2016-05-15T02:23:21+0000
+/project/pync/, pync, 2.0.3, Python Wrapper for Mac OS 10.10 Notification Center, 2018-05-04T19:28:40+0000
+/project/nixpass/, nixpass, 2.0, A cli password management tool, 2018-11-15T07:29:14+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/streamtools-ultimate/, streamtools-ultimate, 0.9.0, A vastly improved replacement for print(), input() and file handling for broad area of use cases., 2020-12-12T15:44:30+0000
+/project/easy-ansi/, easy-ansi, 0.3, Easy ANSI is a terminal framework API to give you an easy way to use colors, cursor control movements, and line/box drawing., 2020-03-05T04:22:38+0000
+/project/castero/, castero, 0.9.1, A TUI podcast client for the terminal, 2021-03-24T03:16:29+0000
+/project/pirate-get/, pirate-get, 0.4.0, A command line interface for The Pirate Bay, 2020-05-28T12:02:39+0000
+/project/geobases/, GeoBases, 5.0.16, Data services and visualization, 2013-05-13T09:23:30+0000
+/project/termtables/, termtables, 0.2.3, Pretty tables in the terminal, 2020-08-30T15:31:32+0000
+/project/feedback/, feedback, 0.1.post7, Feedback and user input manager, 2015-08-20T14:43:09+0000
+/project/data-hacks3/, data-hacks3, 0.0.3, Command line utilities for data analysis, 2020-10-08T10:33:36+0000
+/project/trachet/, trachet, 1.0.9, Step-by-step/realtime terminal debugger.  It tell you what is happening on your terminal., 2014-07-08T14:58:24+0000
+/project/faculty-pyte/, faculty-pyte, 0.0.0.dev0, , 2019-01-31T13:25:48+0000
+/project/beradio/, beradio, 0.12.3, BERadio is an encoding specification and implementation for efficient communication in constrained radio link environments. It is conceived and used for over-the-air communication within the Hiveeyes project., 2018-07-11T00:33:27+0000
+/project/pytui/, pytui, 0.0, python terminal user interface, 2014-10-07T09:47:24+0000
+/project/xontrib-powerline3/, xontrib-powerline3, 0.3.1, Yet another powerline theme for xonsh with async prompt support., 2021-01-31T08:32:01+0000
+/project/py-make/, py-make, 0.1.1, Makefile execution powered by pure Python, 2019-01-21T00:18:55+0000
+/project/holocron/, holocron, 0.3.0, An extendable static blog generator powered by the Force. =/, 2016-03-12T20:10:36+0000
+/project/pytty/, PyTTY, 0.4, Python serial access package, 2012-07-20T22:30:35+0000
+/project/subtitle-joiner/, subtitle-joiner, 0.1.1, An image merge tool for movie screenshots, 2016-07-14T08:24:17+0000
+/project/ahabclient/, ahabclient, 0.0.14, AHAB Docker Client Wrapper, 2018-05-07T10:31:24+0000
+/project/powerline-k8sstatus/, powerline-k8sstatus, 21.1.1, A Powerline segment for showing the status of current Kubernetes context, 2021-01-02T15:52:39+0000
+/project/powerline-gitstatus/, powerline-gitstatus, 1.3.1, A Powerline segment for showing the status of a Git working copy, 2019-01-11T13:59:15+0000
+/project/hypermark/, hypermark, 0.0.1, Markdown for Humans., 2017-05-17T18:55:18+0000
+/project/xxxreport/, xxxreport, 0.1.3, xxxreport tools extract all TODO/XXX ... comments in a python source source, 2009-11-06T12:04:17+0000
+/project/httptestkit/, httptestkit, 0.1.3, Test and gather info on a web site., 2018-01-19T11:34:58+0000
+/project/tqdm/, tqdm, 4.60.0, Fast, Extensible Progress Meter, 2021-04-06T01:23:21+0000
+/project/interrogatio/, interrogatio, 1.0.3, A python library to prompt user for inputs in a terminal application., 2021-03-04T15:02:42+0000
+/project/pytube3/, pytube3, 9.6.4, Python 3 library for downloading YouTube Videos., 2020-02-16T19:38:43+0000
+/project/import-or-pip/, import_or_pip, 0.1.2, import a module or pip install it if it isn't found, 2013-01-14T09:14:50+0000
+/project/pyte/, pyte, 0.8.0, Simple VTXXX-compatible terminal emulator., 2018-04-06T20:50:56+0000
+/project/fsscan/, fsscan, 0.0.4, Directory scanner, 2018-07-24T19:27:54+0000
+/project/autest/, autest, 1.10.0, Reusable gold file testing system, 2021-04-02T20:36:26+0000
+/project/click-keyring/, click-keyring, 0.2.1, A click option decorator to store and retrieve credentials using keyring., 2021-04-07T13:41:44+0000
+/project/pysecure/, pysecure, 0.11.8, A complete Python SSH/SFTP library based on libssh., 2014-04-21T20:14:01+0000
+/project/dotissue/, dotissue, 0.1.0, Yet another issue tracker for collaborative works., 2013-07-29T07:07:04+0000
+/project/console-tool/, console-tool, 1.2.2, 提供创建命令行程序工具的模块,包含Console类。A module for creating command line programs., 2021-02-22T03:22:22+0000
+/project/micro-lisp-tool-amotzek/, micro-lisp-tool-amotzek, 1.0.7, Run and upload Lisp programs and use the read-eval-print loop with ESP32 boards flashed with Micro Lisp, 2020-09-26T11:19:32+0000
+/project/hodl/, hodl, 1.2.0, A  friendly, no-nonsense tool to instantaneously check cryptocurrency prices., 2018-03-11T10:33:27+0000
+/project/xq/, xq, 0.0.4, Like jq but for XML and XPath., 2017-11-01T15:47:03+0000
+/project/verboselogs/, verboselogs, 1.7, Verbose logging level for Python's logging module, 2017-08-07T19:46:15+0000
+/project/mkpycalc/, mkpycalc, 2.0, , 2017-08-26T08:34:57+0000
+/project/selectmenu/, SelectMenu, 1.0.0b2, SelectMenu is the input form to choose from menu by arrow keys., 2018-04-11T06:03:24+0000
+/project/i3-quickterm/, i3-quickterm, 1.0, A small drop-down terminal for i3 and sway, 2020-04-06T18:10:50+0000
+/project/pycolors2/, pycolors2, 0.0.4, Tool to color code python output, 2014-04-13T15:18:09+0000
+/project/pyibsng/, pyibsng, 1.2.7, IBSng python driver, 2018-03-10T16:46:42+0000
+/project/safeprint/, safeprint, 0.2.0, A printer suppressing UnicodeEncodeError, 2017-03-01T01:13:43+0000
+/project/ipy-progressbar/, ipy-progressbar, 1.3, Progressbar for both IPython Notebooks (HTML, CSS, JS) and plain terminals., 2015-12-27T18:06:00+0000
+/project/rpi-rfsniffer/, rpi-rfsniffer, 0.1.0, RF remote sniffer and sender for the Raspberry Pi, 2017-01-12T19:17:36+0000
+/project/ucs-detect/, ucs-detect, 0.0.4, Detects the Unicode Version of an interactive terminal for export, 2020-06-20T18:31:02+0000
+/project/pycritty/, pycritty, 0.3.5, CLI program that allows you to change your alacritty config file with one command., 2021-02-02T14:51:45+0000
+/project/groom/, groom, 0.1.0b1, A easy-to-use command-line interface generator, 2020-09-07T05:14:53+0000
+/project/miproman/, miproman, 0.1, Easy iTerm2 Profiles For Everyone!, 2013-09-18T05:32:53+0000
+/project/easycolor/, easycolor, 0.1, Terminal colors made easy!, 2016-12-28T01:23:27+0000
+/project/git-fame/, git-fame, 1.14.1, Pretty-print `git` repository collaborators sorted by contributions, 2021-03-01T22:16:22+0000
+/project/rpi-dht/, RPi.DHT, 0.5.0, Python implementation for Adafruit_DHT sensor for Raspberry Pi., 2020-08-11T21:15:57+0000
+/project/incremental-counter/, incremental-counter, 0.1.3, Incremental Counter, 2018-11-07T02:54:49+0000
+/project/pasterfu/, pasterfu, 0.8.0, Open a link with a command read from a database., 2021-03-15T09:03:58+0000
+/project/import-file/, import_file, 1.11, Import py files using their relative or absolute path., 2011-10-21T02:42:50+0000
+/project/voiceplay/, voiceplay, 0.2.6.1, Client-side first music centered voice controlled player, 2017-05-08T18:15:55+0000
+/project/oscookie/, oscookie, 0.0.1, Cookie cutter for generating random operating systems and software, 2017-01-18T02:04:01+0000
+/project/fastlog/, fastlog, 1.0.0b3, Simple and colorful Python logging module, 2020-04-28T19:39:19+0000
+/project/action-hero/, action-hero, 0.7.0, Make powerful CLIs with argparse actions that pack a punch!, 2020-02-03T03:50:37+0000
+/project/area4/, area4, 3.11.0, Dividers in Python, the easy way!, 2020-12-28T04:45:38+0000
+/project/pytermcolor/, pytermcolor, 0.1.0, Color formatting for output in terminal., 2020-01-03T12:48:12+0000
+/project/gsmtc35/, GSMTC35, 2.1, GSM TC35/MC35 controller (Send/Receive SMS/MMS/Call and a lot more!), 2019-11-09T18:33:56+0000
+/project/prompty/, prompty, 0.4.1, A command line prompt markup language, 2020-08-01T13:14:28+0000
+/project/transfer-sh/, transfer.sh, 1.0.0, unofficial transfer.sh CLI, 2021-04-23T16:58:38+0000
+/project/xpaste/, xpaste, 1.4, paste text into X windows that don't work with selections, 2020-06-16T11:03:55+0000
+/project/terminis/, terminis, 0.2.3.2, Tetris clone for terminal. Ideal for servers without GUI!, 2019-08-31T17:53:41+0000
+/project/titulky/, titulky, 1.0.1, Tiny SubRip subtitles editor, 2021-04-18T17:02:22+0000
+/project/xxh-xxh/, xxh-xxh, 0.8.7, Bring your favorite shell wherever you go through the ssh, 2021-03-14T15:46:20+0000
+/project/conway/, conway, 1.1, A simple, colorful Game Of Life demo on the terminal, 2012-06-22T05:26:38+0000
+/project/pysay/, pysay, 2.0.0, A Python version of cowsay, 2014-10-13T23:55:18+0000
+/project/rlpython/, rlpython, 0.5, GNU Readline based Python REPL without any external dependencies, 2021-04-06T06:43:23+0000
+/project/jobdiary/, jobdiary, 1.0.5, A funny and easy to use job diary, 2019-01-03T08:22:42+0000
+/project/heiko/, heiko, 4.6.0, Heiko is a frontend for MaaS, 2019-11-08T14:18:45+0000
+/project/times/, times, 0.7, Times is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2014-08-24T06:13:20+0000
+/project/baidu-trans-cli/, baidu-trans-cli, 0.2.2, use baidu translation api in terminal, 2018-12-28T07:30:58+0000
+/project/typer-cli/, typer-cli, 0.0.11, Run Typer scripts with completion, without having to create a package, using Typer CLI., 2020-10-10T19:31:10+0000
+/project/figgy-cli/, figgy-cli, 0.1.7, Tired of managing hundreds or thousands of configurations as your microservice footprint scales? Tired of config files, environment variables, poorly managed secrets, and  constantly crashing containers due to configuration mismanagement? There’s a better way. Figgy!, 2021-02-12T02:43:53+0000
+/project/charming/, charming, 1.0.0a1, A creative coding language based on Processing and Python for creating interactive character terminal art., 2020-11-25T05:14:27+0000
+/project/colored/, colored, 1.4.2, Simple library for color and formatting to terminal, 2019-12-09T09:45:53+0000
+/project/som/, som, 0.2.3, stanford open modules for python, 2017-09-13T04:15:19+0000
+/project/ptysh/, ptysh, 0.1.0, Python Teletype Shell, 2016-08-04T03:09:04+0000
+/project/centrifuge-postgresql/, centrifuge-postgresql, 0.2.2, PostgreSQL structure backend for Centrifuge, 2014-10-14T15:21:22+0000
+/project/termenu/, termenu, 1.2.5, Interactive in-line menus for Unix-based terminals, 2018-04-28T17:26:39+0000
+/project/colorise/, colorise, 1.0.1, Easily print colored text to the console, 2020-05-06T12:43:55+0000
+/project/tsaotun/, tsaotun, 0.9.4, Python based Assistance for Docker, 2017-12-10T05:22:31+0000
+/project/bbcli/, bbcli, 0.2.9, Browse BBC News like a hacker. (based on pyhackernews), 2020-08-17T16:27:25+0000
+/project/cent/, cent, 3.0.1, Python library to communicate with Centrifugo API, 2019-02-21T20:37:36+0000
+/project/styled/, styled, 0.2.0.post2, Style your terminal with ease!, 2021-01-14T13:02:03+0000
+/project/xontrib-onepath/, xontrib-onepath, 0.3.2, Associate files with app or alias and run it without preceding commands in xonsh shell., 2020-10-31T01:34:53+0000
+/project/dokcer/, dokcer, 0.8, Python based Assistance for Docker, 2017-01-14T14:29:59+0000
+/project/linuxacademy-dl/, linuxacademy-dl, 1.0a4, Download videos from Linux Academy (linuxacademy.com) for personal offline use, 2017-04-04T08:05:04+0000
+/project/bigsudo/, bigsudo, 0.4.2, Obscene ansible runner, 2020-04-29T00:49:33+0000
+/project/vgit/, vgit, 0.2, a sleek terminal user interface for git, 2017-08-24T02:23:59+0000
+/project/auto-py-torrent/, auto-py-torrent, 1.0.8, Automated tool for file downloads, using torrent or magnet., 2017-08-05T02:12:21+0000
+/project/envy-project-dockerpty-republish/, envy-project-dockerpty-republish, 999.4.2, Python library to use the pseudo-tty of a docker container republish by envy-project, 2020-01-07T19:49:03+0000
+/project/reloadcmd/, reloadcmd, 0.9.0, Reload command on file changed, 2016-01-16T02:51:50+0000
+/project/python-gsmmodem/, python-gsmmodem, 0.9, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2013-07-18T11:23:48+0000
+/project/pytn3270/, pytn3270, 0.9.1, TN3270 library, 2021-02-28T16:59:27+0000
+/project/kusanagi/, kusanagi, 0.0.5, Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support., 2021-04-19T20:44:57+0000
+/project/pytify/, pytify, 3.6.3, Spotify remote. Search, start and navigate through songs., 2019-10-03T13:04:41+0000
+/project/deb-pkg-tools/, deb-pkg-tools, 8.4, Debian packaging tools, 2021-03-09T13:48:47+0000
+/project/myrich/, myrich, 0.2.2, Shell-like using Rich for render rich text content, 2020-09-28T21:21:17+0000
+/project/fonty/, fonty, 0.2.6, fonty is a command line tool for installing, managing and converting fonts., 2018-05-03T14:29:29+0000
+/project/termcolor/, termcolor, 1.1.0, ANSII Color formatting for output in terminal., 2011-01-13T17:45:25+0000
+/project/powerline-owmweather/, powerline-owmweather, 0.4, A Powerline segment for fetching and showing the weather in the current location, 2020-11-03T04:04:08+0000
+/project/decopts/, decopts, 1.0.2, Use decorators for dealing with argparse, 2017-10-30T15:54:00+0000
+/project/shelljob/, shelljob, 0.6.3, Run multiple subprocesses asynchronous/in parallel with streamed output/non-blocking reading. Also various tools to replace shell scripts., 2021-04-17T08:58:39+0000
+/project/clitoo/, clitoo, 1.0.2, execute python callables from CLI too !, 2018-11-21T12:50:10+0000
+/project/jacot/, jacot, 0.2.9, Japanese Auto character set Conversion On Tty, 2012-11-05T11:51:44+0000
+/project/sentimental-skk/, sentimental-skk, 0.0.146, 三 三 ( ´_ゝ`）＜ Japanese Input Method SKK (Simple Kana to Kanji conversion) on your terminal, 2014-06-12T12:26:43+0000
+/project/folkol-utils/, folkol-utils, 0.0.4, meta-package for various command line utilities (folkol.xxx), 2020-09-22T20:59:40+0000
+/project/rpi-mc/, RPi.MC, 0.5.0, Magnetic contact state monitor, 2020-08-11T20:43:00+0000
+/project/ansicolortags/, ansicolortags, 0.4, ansicolortags brings a simple and powerful way to use colours in a terminal application with Python 2 and 3., 2016-07-02T09:34:06+0000
+/project/add-juniper-software/, add-juniper-software, 1.0.3, A CLI tool to install software on a remote JunOS machine., 2021-02-15T22:21:16+0000
+/project/pyttygif/, pyttygif, 0.2.4, ttyrec to GIF converter, 2019-09-02T17:37:06+0000
+/project/pyserialmonitor/, pySerialMonitor, 0.1, , 2017-08-20T09:25:34+0000
+/project/py3-progressbar/, py3-progressbar, 2.4dev, Text progress bar library for Python., 2014-08-18T03:49:59+0000
+/project/sadcat/, sadcat, 3.0.0, A ssh config generator I dont recommend to use, 2019-10-10T07:32:41+0000
+/project/git-clog/, git-clog, 0.2.5, git-clog outputs the commit graph of the current Git repository and colorizes commit symbols by interpreting the first six commit hash digits as an RGB color value., 2020-04-25T10:33:04+0000
+/project/kongctl/, kongctl, 0.3.7, kongctl - a CLI for kong admin interface., 2020-10-07T12:24:13+0000
+/project/htheatpump/, htheatpump, 1.3.1, Easy-to-use Python communication module for Heliotherm heat pumps, 2021-01-20T19:33:26+0000
+/project/nimmy/, nimmy, 0.1.3, A Terminal UI to play a variation of nim against a bot, 2021-03-30T04:22:40+0000
+/project/xontrib-pipeliner/, xontrib-pipeliner, 0.3.4, Easily process the lines using pipes in xonsh., 2021-04-07T05:15:32+0000
+/project/pjv/, pjv, 0.8.2, JSON Python Validator, 2016-07-10T16:53:32+0000
+/project/flyfingers/, flyfingers, 0.1.1, Learn to type 10 fingers, 2015-06-29T09:04:01+0000
+/project/candela/, Candela, 0.3.3, Python shell creation library, 2013-12-06T20:17:11+0000
+/project/geobasespypy/, GeoBasesPypy, 5.0.16, Data services and visualization - Pypy version, 2013-05-13T09:25:55+0000
+/project/jailconf-tools/, jailconf_tools, 1.0.1, A jail.conf python library to help making administration software, 2015-04-17T18:34:32+0000
+/project/akita/, akita, 0.1.4, An HTTP log monitoring tool for your terminal, 2020-01-10T22:20:16+0000
+/project/conwaycpu/, ConwayCPU, 0.5, The Game of Life, living on your CPU, 2014-08-04T07:34:49+0000
+/project/gita/, gita, 0.13.4, Manage multiple git repos with sanity, 2021-03-29T02:01:24+0000
+/project/progress2/, progress2, 1.3.0, Allows for easy creation of progress-bars and text, 2015-09-01T13:55:57+0000
+/project/sfftk-rw/, sfftk-rw, 0.6.7.dev1, Toolkit for reading and writing EMDB-SFF files, 2020-11-10T08:12:46+0000
+/project/como/, como, 0.7.0, como: batteries complete, 2020-09-27T16:05:09+0000
+/project/holocron-clear-theme/, holocron-clear-theme, 1.0.0, Holocron Clear Theme, 2016-03-12T22:44:19+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/consolor/, consolor, 0.1.2, Consolor provides highlighting functions for terminals., 2014-02-11T19:21:02+0000
+/project/terminedia/, terminedia, 0.3.1, Utilities for drawing and interactiveness at the terminal, 2020-05-30T21:30:31+0000
+/project/yash/, yash, 0.6.3, YAML to Bash, 2019-01-27T21:34:52+0000
+/project/sty/, sty, 1.0.0rc1, String styling for your terminal, 2021-01-31T21:16:18+0000
+/project/geobasesdev/, GeoBasesDev, 5.0.0, Data services and visualization - development version, 2013-03-13T15:52:50+0000
+/project/tinycom/, tinycom, 1.1, A simple line based serial terminal GUI., 2017-02-23T03:09:13+0000
+/project/flowmagic-cli/, flowmagic-cli, 0.1, FlowMagic Cli, 2020-09-14T04:25:20+0000
+/project/powerline-cpu-temp/, powerline-cpu-temp, 0.1.0, A Powerline segment to show CPU temperature, 2020-03-04T09:19:57+0000
+/project/dnsimple-zoneimport/, dnsimple-zoneimport, 0.1.1, A script that allows you to import a Bind zone file into your DNSimple account., 2013-06-25T15:00:06+0000
+/project/pygpd3303s/, PyGPD3303S, 2.0.0, Python Interface for DC power supply GPD-3303S, 2018-07-19T11:03:05+0000
+/project/xontrib-argcomplete/, xontrib-argcomplete, 0.3.2, Argcomplete support for python and xonsh scripts in xonsh shell., 2021-03-04T18:49:19+0000
+/project/cmddocs/, cmddocs, 1.0.3, An interactive commandline interface for your personal docs using python, Cmd, git and markdown, 2017-02-16T15:05:23+0000
+/project/random-cat/, random-cat, 1.0.1, Modul/Command Line Tool to get cat images, 2016-03-03T19:57:17+0000
+/project/psp/, psp, 0.0.5, python color printer - minimalist color printing, 2018-01-27T11:06:35+0000
+/project/uberping/, uberping, 0.0.1.1, uberping: ping tool for the uberstatus people, 2018-10-28T21:13:27+0000
+/project/immutable-collection/, immutable-collection, 1.1.post2, Library for making an immutable collection from a dictionary, 2018-07-25T15:59:14+0000
+/project/qpass/, qpass, 2.3, Frontend for pass (the standard unix password manager), 2018-12-03T21:02:38+0000
+/project/xontrib-broot/, xontrib-broot, 0.1.0, broot support function for xonsh shell, 2020-11-25T15:52:30+0000
+/project/shell-jobrunner/, shell-jobrunner, 2.3.1, Shell-based job runner with logging, 2021-04-02T19:14:25+0000
+/project/powerline-taskwarrior/, powerline-taskwarrior, 0.7.3, Powerline segments for showing information from the Taskwarrior task manager, 2019-03-07T10:12:27+0000
+/project/fluddy/, fluddy, 0.0.3, Flask Buddy - CLI for managing Flask Apps., 2020-02-09T20:43:09+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/warped/, warped, 0.1.3, A webbased wrapper for the argument parser in Python, 2017-05-31T13:32:11+0000
+/project/bashful/, bashful, 0.0.4, Because your bash scripts should be quiet and shy (and not such a loudmouth), 2017-09-24T22:13:14+0000
+/project/collpy/, collpy, 0.0.4, Add color highlights, load bars, progress displays and style to your python scripts and shell sessions, 2020-08-14T02:57:57+0000
+/project/grsched/, grsched, 0.0.2, DESCRIPTION, 2020-10-23T06:40:40+0000
+/project/cephdu/, cephdu, 1.0.2, A "du" like utility to estimate file space usage on CephFS, 2021-04-05T16:45:53+0000
+/project/pytermtk/, pytermtk, 0.2.0a17, Python Terminal Toolkit, 2021-03-27T21:32:58+0000
+/project/ahds/, ahds, 0.2.3, Python package to parse and provide access to headers and data streams in Amira (R) files, 2019-12-11T11:28:29+0000
+/project/interactive-shell/, interactive-shell, 0.1.0, Interactive shell classes to easily integrate a terminal in application., 2019-01-20T20:49:52+0000
+/project/horascli/, horasCLI, 1.2.0, Simple CLI program to create a project hour schedule in markdown., 2018-11-28T07:12:00+0000
+/project/ashell/, ashell, 0.2, Add bashrc like functionality to adb, 2018-01-06T18:36:33+0000
+/project/mehrp/, mehrp, 0.0.1, Easy beeping (merhp) from the terminal., 2019-02-14T03:59:21+0000
+/project/incor/, incor, 1.0.0, INstant COde Runner compiles and executes the programs present in the mentioned folder instantaneously as and when changes are saved., 2016-07-07T20:28:39+0000
+/project/centrifuge-mongodb/, centrifuge-mongodb, 0.3.0, MongoDB structure backend for Centrifuge, 2014-11-20T20:42:47+0000
+/project/pyxargs/, pyxargs, 1.2.8, A mostly complete implementation of xargs in python with some added features, 2020-02-02T05:18:33+0000
+/project/spplot/, spplot, 0.0.2, command-line serial plotter, 2020-09-05T18:18:47+0000
+/project/npm-accel/, npm-accel, 2.0.1, Accelerator for npm, the Node.js package manager, 2020-09-17T12:35:34+0000
+/project/env2fs/, env2fs, 0.2.0, write env vars to filesystem (CI tool), 2019-02-15T08:31:40+0000
+/project/hlfbt-serial-console/, hlfbt-serial-console, 0.0.5, A simple utility to interface with prompt-like (serial) consoles, 2019-11-11T21:45:53+0000
+/project/keysteps/, keysteps, 0.0.0, , 2019-06-28T03:17:26+0000
+/project/butterfly-latest/, butterfly-latest, 3.0.2, A sleek web based terminal emulator, 2016-10-06T08:46:31+0000
+/project/gr-colorlog/, gr-colorlog, 4.2.1, Log formatting with colors!, 2020-09-07T15:40:38+0000
+/project/sterm/, sterm, 6.0.1, A minimal serial / UART command line terminal that focus on being easy to use., 2020-03-07T08:16:58+0000
+/project/ptt-article-parser/, ptt-article-parser, 0.5.0, A renaming tool for PTT articles, 2018-06-11T18:42:45+0000
+/project/canossa/, canossa, 0.2.1, Provides basic, transparent, off-screen(invisible) terminal emulation service, for terminal apps., 2014-04-25T06:26:43+0000
+/project/royalnet-console/, royalnet-console, 2.0.4, A terminal-based frontend for the royalnet.engineer module., 2021-04-19T01:23:06+0000
+/project/neatlog/, neatlog, 0.1.8, A neat logging configurator, 2021-02-21T18:45:46+0000
+/project/batchfile-py/, batchfile.py, 0.5, Run Windows batch files (.bat) using Python, 2020-10-29T03:51:08+0000
+/project/python-c/, python-c, 1.0, An alternative to python -c with much less typing, at the price of being dirtier., 2017-06-17T09:05:37+0000
+/project/generatewordcloud/, generatewordcloud, 0.2, A simple Python (2 or 3) script to generate a PNG word-cloud image from a bunch of text files. Based on word_cloud., 2016-10-16T14:09:27+0000
+/project/sermon/, sermon, 1.0.1, Serial device monitor and transmitter., 2014-05-10T03:39:55+0000
+/project/groot/, groot, 0.0.0.61, Generate N-rooted fusion graphs from genomic data., 2019-01-29T15:16:46+0000
+/project/quick-mail/, quick-mail, 1.0.4, A simple commandline application for sending mails quickly, 2021-03-25T22:03:15+0000
+/project/json-dotenv/, json-dotenv, 0.0.21, json-dotenv, 2019-12-19T05:59:17+0000
+/project/mklibpy-bin/, mklibpy-bin, 0.10.3, Command line executables for mklibpy, 2018-10-04T03:53:42+0000
+/project/uspp-universal-serial-port-python-library/, USPP-Universal-Serial-Port-Python-Library, 1.0, Multiplatform Python library for serial port accesing, 2006-02-24T20:37:47+0000
+/project/termcast-client/, termcast_client, 0.1.3, broadcast your terminal sessions for remote viewing, 2014-10-22T16:19:28+0000
+/project/py3270/, py3270, 0.3.5, A Python interface to x3270, an IBM 3270 terminal emulator, 2018-10-23T11:53:10+0000
+/project/auton/, auton, 0.2.13, auton-client, 2020-12-04T11:40:14+0000
+/project/kitti3/, kitti3, 0.2.6, Kitti3 - Kitty drop down terminal service for i3wm, 2020-04-05T01:14:26+0000
+/project/httpaws/, httpaws, 0.0.4, httpAWS - a CLI, cURL-like tool for AWS services., 2019-03-17T05:01:32+0000
+/project/xontrib-avox-poetry/, xontrib-avox-poetry, 0.2.1, auto-activate venv as one cd into a poetry project, 2021-03-04T09:11:31+0000
+/project/redis-migrate/, redis-migrate, 1.0.0, A simple command line tool for redis data migration, 2018-09-19T16:05:12+0000
+/project/scriptcollection/, ScriptCollection, 2.4.3, The scriptcollection is the place for little scripts which are maybe also useful in future., 2021-04-25T00:58:11+0000
+/project/terminal-layout/, terminal-layout, 2.0.6, The project help you to quickly build layouts in terminal (命令行ui布局工具), 2021-03-24T02:27:11+0000
+/project/orochi/, orochi, 0.2.1, A command line client for 8tracks.com., 2016-09-02T07:22:49+0000
+/project/cute-format/, cute_format, 0.1.3, pack data and retrieval in easy way, 2017-06-22T06:06:06+0000
+/project/pytput/, pytput, 0.4.0, Python3 API to format messages using colors and styles, 2020-05-20T22:42:44+0000
+/project/sysinfo/, sysinfo, 1.0.0, General system information, 2016-05-06T20:51:56+0000
+/project/nvsmi/, nvsmi, 0.4.2, A (user-)friendly wrapper to nvidia-smi, 2020-02-28T09:32:03+0000
+/project/codelynx/, codelynx, 1.4.0, Terminal session recorder, 2017-05-21T16:42:05+0000
+/project/tmuxomatic/, tmuxomatic, 2.18, Intelligent tmux session management ... #tmux, 2015-07-03T20:24:01+0000
+/project/zpyshell/, zpyshell, 0.1.2.0, Command line shell with script languages, like python, 2017-05-31T19:59:50+0000
+/project/intercessions/, intercessions, 1.1.7, A blessings polyfill for the windows command line, 2020-03-13T22:42:32+0000
+/project/pyhackernews/, pyhackernews, 0.1.4, mimicking HN look and feel in terminal, 2014-08-23T07:11:52+0000
+/project/terminal-colors/, terminal-colors, 3.0.0, Utility to test color capabilities of terminal., 2020-01-11T02:28:59+0000
+/project/tablebase/, tablebase, 0.5, To make tables in python as easy as printing to the console, 2021-04-03T21:04:07+0000
+/project/notes-cli/, notes-cli, 0.2, command line tool for your notes, 2016-10-15T21:14:41+0000
+/project/thank-you-stars/, thank-you-stars, 0.1.0, thank-you-stars is a CLI tool to stars to a PyPI package and its dependencies hosted on GitHub., 2020-04-15T06:42:18+0000
+/project/clilabs/, clilabs, 1.3.1, DEPRECATED BY clitoo, 2018-11-18T11:53:12+0000
+/project/progressive/, progressive, 0.3.4, Terminal progress bars for Python with blessings, 2017-12-18T07:32:29+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/cs-tty/, cs.tty, 20210316, Functions related to terminals., 2021-03-15T23:21:26+0000
+/project/kuob/, kuob, 1.0.1, a Fork of ASCIINEMA Terminal session recorder, 2020-04-11T15:02:44+0000
+/project/futils-grab/, futils-grab, 0.0.3, Project renamed, install folkol.grab instead., 2020-09-22T19:18:43+0000
+/project/context-cli/, context-cli, 0.0.dev4, A cli tool to search with contexts., 2019-01-19T21:32:49+0000
+/project/pypsi/, pypsi, 1.4.5, Python Pluggable Shell Interface, 2018-11-19T15:11:04+0000
+/project/psychopass/, psychopass, 0.2.1, A Python password generator inspired by flowerpassword, 2016-06-28T08:54:55+0000
+/project/mudpyl/, mudpyl, 0.4, Python MUD client, 2008-09-17T17:01:57+0000
+/project/powerline-svnstatus/, powerline-svnstatus, 0.6, A Powerline segment for showing the status of a Subversion working directory, 2018-03-02T05:43:01+0000
+/project/mkpipu/, mkpipU, 0.3, pip upgrade all packages, 2017-12-14T18:50:05+0000
+/project/xontrib-zoxide/, xontrib-zoxide, 0.2.0, Zoxide integration for xonsh, 2021-03-08T18:43:44+0000
+/project/sheen/, sheen, 0.1.2, Pythonic cross-platform colored terminal text [support 16/256 colors], 2020-02-16T04:12:43+0000
+/project/http-prompt/, http-prompt, 2.1.0, An interactive HTTP command-line client, 2021-03-05T14:19:48+0000
+/project/terminal-leetcode/, terminal-leetcode, 0.0.19, A terminal based leetcode website viewer, 2019-12-31T03:29:06+0000
+/project/autopalette/, autopalette, 0.1.0-2, Terminal palettes and themes, without tears., 2018-06-05T09:28:53+0000
+/project/beautiful-ansi/, beautiful-ansi, 0.1.7, ANSI escape code library, 2017-07-01T15:21:59+0000
+/project/djcli/, djcli, 1.6.4, Full featured CLI CRUD and more for Django, 2020-09-16T18:00:36+0000
+/project/mh-z19/, mh-z19, 3.0.2, mh-z19 CO2 concentration sensor library for All models of Raspberry Pi, 2021-03-25T01:35:00+0000
+/project/clint/, clint, 0.5.1, Python Command Line Interface Tools, 2015-08-25T16:11:17+0000
+/project/xontrib-termcolors/, xontrib-termcolors, 0.2.0, Set terminal colors based on selected xonsh theme., 2021-03-11T16:35:15+0000
+/project/oh-my-stars/, oh-my-stars, 1.5.1, a CLI tool to search your GitHub stars., 2018-03-10T05:18:27+0000
+/project/holocron-creole/, holocron-creole, 1.0.0, A creole markup converter for Holocron, 2015-10-27T21:19:20+0000
+/project/shell49/, shell49, 0.1.10, Micropython remote shell, 2020-09-04T02:00:32+0000
+/project/auton/, auton, 0.2.13, auton-client, 2020-12-04T11:40:14+0000
+/project/termtosvg/, termtosvg, 1.1.0, Record terminal sessions as SVG animations, 2020-01-18T20:09:17+0000
+/project/emojislib/, emojislib, 0.0.1, Emojis for Python 😄 🐍 😋, 2019-01-09T11:08:52+0000
+/project/argparse-autogen/, argparse-autogen, 1.4, Parser with automatic creation of parsers and subparsers for paths., 2017-03-27T10:04:42+0000
+/project/pymodem/, pymodem, 0.2, Simple Python interface to generic terminal and (specifically) GSM modem devices. Includes general serial connection/chat, AT command, SMS (including GSM.03.38) support., 2013-01-06T15:50:08+0000
+/project/atree/, atree, 1.0.0a1, An augmented version of the `tree` command, 2021-01-03T10:27:02+0000
+/project/py-hplc/, py-hplc, 0.1.6, An unoffical Python wrapper for the SSI-Teledyne Next Generation class HPLC pumps., 2021-04-21T17:28:08+0000
+/project/cli-badges/, cli-badges, 0.0.4, Quirky little python package for generating badges for your cli apps, 2020-09-01T10:48:59+0000
+/project/argopt/, argopt, 0.7.0, doc to argparse driven by docopt, 2021-03-01T16:51:30+0000
+/project/truecolor/, truecolor, 1.0b2, A Truecolor terminal library for Python, 2017-09-07T17:16:38+0000
+/project/pudb/, pudb, 2020.1, A full-screen, console-based Python debugger, 2020-12-21T04:20:59+0000
+/project/pytube4/, pytube4, 0.1.1, Python 3 library for downloading YouTube Videos. Fork from pytube3, an unmaintained library., 2020-07-29T22:06:55+0000
+/project/chd/, chd, 0.0.3.6, CHD - a CLI tool for downloading courses from coursehunters.net., 2018-09-21T00:25:16+0000
+/project/collabi/, collabi, 0.1.9, UnityCloud Collaboration Command Line Interface, 2020-01-22T15:38:54+0000
+/project/mprint/, mprint, 0.22, Use tags to print markup text on console screen, 2015-12-29T02:23:15+0000
+/project/qiniu-cli/, qiniu-cli, 0.1.0, CLI tool for Qiniu, 2014-10-12T09:06:31+0000
+/project/rocket-term/, rocket.term, 0.2.0.post2, rocket.term is a text based chat client for the Rocket.chat messaging solution, 2021-04-22T10:26:05+0000
+/project/django-tqdm/, django-tqdm, 1.0.0, Fast, Extensible Progress Meter (tqdm) For Django, 2019-05-31T01:56:48+0000
+/project/gittivity/, gittivity, 1.0.0, Git activity terminal notifier, 2018-07-21T14:48:25+0000
+/project/easyq/, easyq, 0.2.1b2, Simple and easy message queue tcp server, 2018-09-10T16:52:49+0000
+/project/monit-docker/, monit-docker, 0.0.38, monit-docker, 2020-12-08T22:16:25+0000
+/project/fzsl/, fzsl, 0.4, Fuzzy path searching for shells, 2016-02-06T05:58:05+0000
+/project/adame/, Adame, 0.2.2, Adame (Automatic Docker Application Management Engine) is a tool which manages (install, start, stop) docker-applications., 2020-07-30T17:37:59+0000
+/project/python-gsmmodem-new/, python-gsmmodem-new, 0.12, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2017-03-15T11:59:18+0000
+/project/pexpect-py3-patch/, pexpect-py3-patch, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:14:18+0000
+/project/nutstore-cli/, nutstore-cli, 0.4.3, A command-line interface for NutStore based on WebDAV., 2018-03-05T15:23:12+0000
+/project/search-ansible-hosts/, search-ansible-hosts, 0.0.2, Ansible inventory searching for rapid use, 2020-01-20T12:04:50+0000
+/project/progressbar/, progressbar, 2.5, Text progress bar library for Python., 2018-06-29T02:32:00+0000
+/project/protea/, Protea, 0.1a, Ashly digital audio products RS-232 interface library, 2013-08-26T17:44:20+0000
+/project/powerline-hgstatus/, powerline-hgstatus, 0.1.5, A Powerline segment for showing the status of a Mercurial working copy, 2017-11-07T19:47:55+0000
+/project/rapidfire/, rapidfire, 1.0.0, rapidfire calls and displays the defined Python function from command line, 2017-04-09T07:20:04+0000
+/project/butterfly-workspace/, butterfly-workspace, 3.0.4, A sleek web based terminal emulator (forked for Workspace), 2016-10-08T09:14:34+0000
+/project/macht/, macht, 0.1.5, A 2048 clone in python with Terminal UI, 2014-04-20T11:15:31+0000
+/project/xontrib-prompt-starship/, xontrib-prompt-starship, 0.2.0, Starship prompt in xonsh shell., 2021-03-13T00:47:51+0000
+/project/pypms/, pypms, 0.5.0, Data acquisition and logging tool for PM sensors with UART interface, 2020-10-25T12:46:47+0000
+/project/acfun/, acfun, 0.2, acfun video player, 2019-07-05T09:25:16+0000
+/project/httpcat/, httpcat, 0.0.2, Create raw HTTP requests on the command line., 2016-12-13T17:58:23+0000
+/project/ping-geo/, ping-geo, 1.0.2, Interactively ping one host from multiple locations via SSH, 2020-10-28T10:08:08+0000
+/project/jumpssh/, jumpssh, 1.6.5, Python library for remote ssh calls through a gateway., 2020-11-06T17:52:50+0000
+/project/reviews/, reviews, 0.1.2, Code Review Manager written in Python. Standalone client included., 2021-04-17T10:13:31+0000
+/project/readme-test/, readme-test, 8.9.1, testing readme rendering on pypi, 2016-12-08T23:22:28+0000
+/project/mkbak-iterfzf/, mkbak-iterfzf, 0.7.0.25.1, Pythonic interface to fzf, 2021-02-09T20:43:21+0000
+/project/pclog/, pclog, 0.1.0, Pretty Color Log, 2020-08-02T18:40:52+0000
+/project/saltfm/, saltfm, 0.0.4, Salt Formula Manager, 2017-01-30T11:30:28+0000
+/project/lordcommander/, lordcommander, 5.0.1, Run shell commands recursively throughout the predefined directories, 2020-10-05T07:19:51+0000
+/project/vimddr/, vimddr, 0.1.8, Improve your vim reflexes!, 2016-12-05T13:12:39+0000
+/project/xontrib-ergopack/, xontrib-ergopack, 0.1.4, Meta package that installs group of ergonomic xontribs in xonsh shell., 2021-03-08T07:17:53+0000
+/project/eapi-py/, eapi-py, 0.6.4, , 2020-09-16T19:06:49+0000
+/project/rvo/, rvo, 23.0.6, Managing text data from the commandline, 2017-02-25T09:13:15+0000
+/project/drcsterm/, drcsterm, 0.1.2, UCS Private Area (Plain 16) -> DRCS conversion filter for terminal, 2014-02-11T05:51:35+0000
+/project/prysenter/, prysenter, 1.0, A minimal, text-only, terminal-only presentation runner., 2012-04-14T08:02:12+0000
+/project/usbserial/, USBSerial, 1.1.0, HC-USBSerial Python library via Serial protocol, using pySerial library as API, 2021-03-24T09:59:34+0000
+/project/context-cli/, context-cli, 0.0.dev4, A cli tool to search with contexts., 2019-01-19T21:32:49+0000
+/project/pypsi/, pypsi, 1.4.5, Python Pluggable Shell Interface, 2018-11-19T15:11:04+0000
+/project/psychopass/, psychopass, 0.2.1, A Python password generator inspired by flowerpassword, 2016-06-28T08:54:55+0000
+/project/mudpyl/, mudpyl, 0.4, Python MUD client, 2008-09-17T17:01:57+0000
+/project/powerline-svnstatus/, powerline-svnstatus, 0.6, A Powerline segment for showing the status of a Subversion working directory, 2018-03-02T05:43:01+0000
+/project/mkpipu/, mkpipU, 0.3, pip upgrade all packages, 2017-12-14T18:50:05+0000
+/project/xontrib-zoxide/, xontrib-zoxide, 0.2.0, Zoxide integration for xonsh, 2021-03-08T18:43:44+0000
+/project/sheen/, sheen, 0.1.2, Pythonic cross-platform colored terminal text [support 16/256 colors], 2020-02-16T04:12:43+0000
+/project/http-prompt/, http-prompt, 2.1.0, An interactive HTTP command-line client, 2021-03-05T14:19:48+0000
+/project/terminal-leetcode/, terminal-leetcode, 0.0.19, A terminal based leetcode website viewer, 2019-12-31T03:29:06+0000
+/project/autopalette/, autopalette, 0.1.0-2, Terminal palettes and themes, without tears., 2018-06-05T09:28:53+0000
+/project/beautiful-ansi/, beautiful-ansi, 0.1.7, ANSI escape code library, 2017-07-01T15:21:59+0000
+/project/djcli/, djcli, 1.6.4, Full featured CLI CRUD and more for Django, 2020-09-16T18:00:36+0000
+/project/mh-z19/, mh-z19, 3.0.2, mh-z19 CO2 concentration sensor library for All models of Raspberry Pi, 2021-03-25T01:35:00+0000
+/project/clint/, clint, 0.5.1, Python Command Line Interface Tools, 2015-08-25T16:11:17+0000
+/project/xontrib-termcolors/, xontrib-termcolors, 0.2.0, Set terminal colors based on selected xonsh theme., 2021-03-11T16:35:15+0000
+/project/oh-my-stars/, oh-my-stars, 1.5.1, a CLI tool to search your GitHub stars., 2018-03-10T05:18:27+0000
+/project/holocron-creole/, holocron-creole, 1.0.0, A creole markup converter for Holocron, 2015-10-27T21:19:20+0000
+/project/shell49/, shell49, 0.1.10, Micropython remote shell, 2020-09-04T02:00:32+0000
+/project/aiowrpr/, aiowrpr, 0.0.1a7, , 2020-01-28T11:21:30+0000
+/project/oparse/, oparse, 0.9.2, oparse is a command line framework based on optparse., 2009-11-25T14:54:36+0000
+/project/ptyprocess/, ptyprocess, 0.7.0, Run a subprocess in a pseudo terminal, 2020-12-28T15:15:28+0000
+/project/iprogress/, IProgress, 0.4, Text progress bar library for Python., 2016-06-22T07:00:36+0000
+/project/kickass-get/, kickass-get, 0.2.4, A command-line interface for kat.cr (Kickass Torrents), 2016-03-19T04:20:42+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/data-hacks/, data_hacks, 0.3.1, Command line utilities for data analysis, 2015-01-08T18:51:52+0000
+/project/mohand/, mohand, 1.2.0, 通用自动化处理工具, 2019-12-15T06:44:04+0000
+/project/slackcat/, slackcat, 2.0.0, Pipe command output to Slack from your terminal!, 2017-09-01T13:53:22+0000
+/project/console/, console, 0.9907, Comprehensive, composable utility library for ANSI terminals. Better, stronger, faster.  Tch-tch-tch-tch…, 2021-04-19T06:24:15+0000
+/project/xbee/, XBee, 2.3.2, Python tools for working with XBee radios, 2018-04-03T18:34:15+0000
+/project/asciimatics/, asciimatics, 1.13.0, A cross-platform package to replace curses (mouse/keyboard input & text colours/positioning) and create ASCII animations, 2021-04-05T16:32:43+0000
+/project/tuir/, tuir, 1.29.0, A simple terminal viewer for Reddit (Terminal UI for Reddit), 2020-04-26T07:55:45+0000
+/project/nectar/, nectar, 0.1, Helper Library for the Modern Propulsion ESCs, 2016-06-05T20:16:37+0000
+/project/ib-client/, ib-client, 0.1.4, Infoblox client, 2020-01-05T19:32:24+0000
+/project/diarrhouea/, diarrhouea, 9999.0.0, Simple terminal emulator, 2019-12-04T12:30:52+0000
+/project/cgxsh/, cgxsh, 1.0.1b1, Command-line access to the controller-based CloudGenix ION Troubleshooting Toolkit., 2020-10-31T04:10:35+0000
+/project/curtis/, curtis, 0.2, A simple sentry cli, 2018-07-30T09:13:00+0000
+/project/trackrip/, trackrip, 1.2.1, Extracts samples from various music tracker module formats, 2020-10-17T16:20:45+0000
+/project/epoch-analyzer/, epoch_analyzer, 0.4, Utility detect probable date/time formats given a numeric input., 2016-04-18T20:02:16+0000
+/project/awesome-finder/, awesome-finder, 1.2.3, A TUI based awesome curated list finder, 2019-12-06T16:36:07+0000
+/project/gateone/, gateone, 1.2.0, Web-based Terminal Emulator and SSH Client, 2015-09-28T19:41:51+0000
+/project/xontrib-hist-format/, xontrib-hist-format, 0.0.10, Format xonsh history to post it to Github or another page., 2020-11-06T10:47:17+0000
+/project/logging-spinner/, logging-spinner, 0.2.2, Non-intrusive spinner through standard logging library, 2017-06-22T08:12:34+0000
+/project/powerline-vcsh/, powerline-vcsh, 1.0.0, A Powerline segment for showing the current VCSH repo, 2021-01-28T00:50:40+0000
+/project/cnam/, cnam, 0.2, A simple CLI program that spits out caller ID name information given a phone number., 2012-02-13T03:24:21+0000
+/project/powerkube/, powerkube, 0.1.3, A powerline segment to show kubernetes context items, with toggling and alert color functionality, 2017-02-12T18:03:47+0000
+/project/print-chat/, print-chat, 0.4, Small print tool for implementing chat in the terminal, 2020-02-02T11:53:33+0000
+/project/dictfire/, dictfire, 1.1.20, 命令行下[中英，中俄，中日，中韩，中法，中德，中西]文互翻译工具（Command line translation tool for Chinese English,Chinese French, Chinese Japanese, Chinese Korean, Chinese German），翻译服务基于有道翻译。, 2020-04-12T15:45:08+0000
+/project/rocket-term/, rocket.term, 0.2.0.post2, rocket.term is a text based chat client for the Rocket.chat messaging solution, 2021-04-22T10:26:05+0000
+/project/django-tqdm/, django-tqdm, 1.0.0, Fast, Extensible Progress Meter (tqdm) For Django, 2019-05-31T01:56:48+0000
+/project/redis-migrate/, redis-migrate, 1.0.0, A simple command line tool for redis data migration, 2018-09-19T16:05:12+0000
+/project/nvsmi/, nvsmi, 0.4.2, A (user-)friendly wrapper to nvidia-smi, 2020-02-28T09:32:03+0000
+/project/codelynx/, codelynx, 1.4.0, Terminal session recorder, 2017-05-21T16:42:05+0000
+/project/tmuxomatic/, tmuxomatic, 2.18, Intelligent tmux session management ... #tmux, 2015-07-03T20:24:01+0000
+/project/zpyshell/, zpyshell, 0.1.2.0, Command line shell with script languages, like python, 2017-05-31T19:59:50+0000
+/project/intercessions/, intercessions, 1.1.7, A blessings polyfill for the windows command line, 2020-03-13T22:42:32+0000
+/project/pyhackernews/, pyhackernews, 0.1.4, mimicking HN look and feel in terminal, 2014-08-23T07:11:52+0000
+/project/terminal-colors/, terminal-colors, 3.0.0, Utility to test color capabilities of terminal., 2020-01-11T02:28:59+0000
+/project/tablebase/, tablebase, 0.5, To make tables in python as easy as printing to the console, 2021-04-03T21:04:07+0000
+/project/notes-cli/, notes-cli, 0.2, command line tool for your notes, 2016-10-15T21:14:41+0000
+/project/thank-you-stars/, thank-you-stars, 0.1.0, thank-you-stars is a CLI tool to stars to a PyPI package and its dependencies hosted on GitHub., 2020-04-15T06:42:18+0000
+/project/clilabs/, clilabs, 1.3.1, DEPRECATED BY clitoo, 2018-11-18T11:53:12+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/cs-tty/, cs.tty, 20210316, Functions related to terminals., 2021-03-15T23:21:26+0000
+/project/kuob/, kuob, 1.0.1, a Fork of ASCIINEMA Terminal session recorder, 2020-04-11T15:02:44+0000
+/project/futils-grab/, futils-grab, 0.0.3, Project renamed, install folkol.grab instead., 2020-09-22T19:18:43+0000
+/project/hog/, hog, 0.1.7, Sending multiple `HTTP` requests `ON` `GREEN` thread, 2016-03-24T05:34:26+0000
+/project/cltools/, cltools, 0.5.0, Set of decorators of to create transform a class into a command-line tool., 2021-04-24T10:32:20+0000
+/project/paxo/, paxo, 0.3.0, paxo: python ♡ terminal, 2020-09-27T15:47:30+0000
+/project/helpdev/, helpdev, 0.7.1, HelpDev - Extracts information about the Python environment easily., 2020-05-05T21:12:46+0000
+/project/simple-term-menu/, simple-term-menu, 1.0.1, A Python package which creates simple interactive menus on the command line., 2021-04-06T08:32:15+0000
+/project/prn/, prn, 0.84, A powerful script to rename files. Better, stronger, faster., 2020-12-02T02:58:54+0000
+/project/sparcli/, sparcli, 0.1.3, Visualize metrics as text in real-time (sparklines), 2020-03-01T03:00:41+0000
+/project/gitstery-generator/, gitstery-generator, 1.0.1, A Git murder mystery, 2020-03-14T14:13:16+0000
+/project/pasteuwsgi/, pasteuwsgi, 0.1.8, Paster command to use uwsgi as server for local development, 2011-07-15T19:30:56+0000
+/project/offsh-xxh/, offsh-xxh, 1.0.0, Bring your favorite shell wherever you go through the ssh. This is a fork from https://github.com/xxh/xxh with some extra featured designed for https://github.com/offsh/offshell, 2020-12-01T18:13:10+0000
+/project/sixelplot/, sixelplot, 0.0.3, thin-wrapper for pysixel and matplotlib., 2016-07-07T01:53:43+0000
+/project/gameta/, gameta, 0.2.7, CLI Tool for managing meta-repositories, 2021-03-04T03:58:30+0000
+/project/colouredlogs/, colouredlogs, 10.0.1, Coloured terminal output for Python's logging module, 2019-07-13T20:17:45+0000
+/project/cepko/, cepko, 1.0.1, Communication with CloudSigma's VMs through a virtual serial port, 2014-03-17T10:44:22+0000
+/project/cmdprogress/, cmdprogress, 1.2, Command Line Progress Bars, 2018-12-07T04:29:01+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/ll-xist/, ll-xist, 5.65, Extensible HTML/XML generator, cross-platform templating language, Oracle utilities and various other tools, 2021-01-13T11:06:10+0000
+/project/progressbar33/, progressbar33, 2.4, Text progress bar library for Python., 2014-08-29T08:37:57+0000
+/project/rtv/, rtv, 1.27.0, A simple terminal viewer for Reddit (Reddit Terminal Viewer), 2019-06-03T01:11:45+0000
+/project/proc/, proc, 1.0, Simple interface to Linux process information, 2020-04-25T23:37:11+0000
+/project/terminado/, terminado, 0.9.4, Tornado websocket backend for the Xterm.js Javascript terminal emulator library., 2021-03-29T15:42:39+0000
+/project/rainbow-logging-handler/, rainbow_logging_handler, 2.2.2, Ultimate Python colorized logger with user-custom color, 2014-08-06T23:43:19+0000
+/project/xontrib-broot/, xontrib-broot, 0.1.0, broot support function for xonsh shell, 2020-11-25T15:52:30+0000
+/project/shell-jobrunner/, shell-jobrunner, 2.3.1, Shell-based job runner with logging, 2021-04-02T19:14:25+0000
+/project/powerline-taskwarrior/, powerline-taskwarrior, 0.7.3, Powerline segments for showing information from the Taskwarrior task manager, 2019-03-07T10:12:27+0000
+/project/fluddy/, fluddy, 0.0.3, Flask Buddy - CLI for managing Flask Apps., 2020-02-09T20:43:09+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/warped/, warped, 0.1.3, A webbased wrapper for the argument parser in Python, 2017-05-31T13:32:11+0000
+/project/dex-k8s-client/, dex-k8s-client, 0.1.1, Python bindings for interacting with a Dex server running on Kubernetes., 2019-04-02T16:23:03+0000
+/project/piserialnumber/, piserialnumber, 0.1.1, Get Raspberry Pi board serialnumbermodel number, 2017-02-27T03:14:15+0000
+/project/pexpect-u/, pexpect-u, 2.5.1, Pexpect is a pure Python Expect. It allows easy control of other applications., 2011-12-10T23:09:52+0000
+/project/fencepy/, fencepy, 0.7.2, Standardized fencing off of python virtual environments on a per-project basis, 2016-03-13T20:06:59+0000
+/project/xontrib-macro-lib/, xontrib-macro-lib, 0.0.3, Library of the useful macroses for the xonsh shell., 2021-04-01T08:29:19+0000
+/project/guake/, guake, 3.7.0, Guake Terminal, 2020-02-10T21:10:25+0000
+/project/trigger/, trigger, 1.6.0, Trigger is a framework and suite of tools for configuring network devices, 2017-03-08T18:32:52+0000
+/project/itils/, itils, 0.1.0, A Python CLI for transforming images., 2021-03-13T12:56:07+0000
+/project/xtermcolor/, xtermcolor, 1.3, Python module for colorizing output with xterm 256 color support, 2014-02-18T17:46:24+0000
+/project/chromaterm/, chromaterm, 0.7.1, Color your output to terminal, 2021-03-07T17:47:04+0000
+/project/wcwidth/, wcwidth, 0.2.5, Measures the displayed width of unicode strings in a terminal, 2020-06-23T16:10:28+0000
+/project/gif-for-cli/, gif-for-cli, 1.1.2, Render an animated GIF to your command line terminal., 2019-07-26T21:35:28+0000
+/project/sfftk-migrate/, sfftk-migrate, 0.1.0b7, Migrate older EMDB-SFF files to newer versions, 2020-11-09T16:23:28+0000
+/project/moear-spider-zhihudaily/, moear-spider-zhihudaily, 1.1.1, MoEar爬虫功能扩展插件 - 知乎日报, 2018-06-17T04:17:56+0000
+/project/keysteps/, keysteps, 0.0.0, , 2019-06-28T03:17:26+0000
+/project/butterfly-latest/, butterfly-latest, 3.0.2, A sleek web based terminal emulator, 2016-10-06T08:46:31+0000
+/project/gr-colorlog/, gr-colorlog, 4.2.1, Log formatting with colors!, 2020-09-07T15:40:38+0000
+/project/sterm/, sterm, 6.0.1, A minimal serial / UART command line terminal that focus on being easy to use., 2020-03-07T08:16:58+0000
+/project/ptt-article-parser/, ptt-article-parser, 0.5.0, A renaming tool for PTT articles, 2018-06-11T18:42:45+0000
+/project/canossa/, canossa, 0.2.1, Provides basic, transparent, off-screen(invisible) terminal emulation service, for terminal apps., 2014-04-25T06:26:43+0000
+/project/royalnet-console/, royalnet-console, 2.0.4, A terminal-based frontend for the royalnet.engineer module., 2021-04-19T01:23:06+0000
+/project/neatlog/, neatlog, 0.1.8, A neat logging configurator, 2021-02-21T18:45:46+0000
+/project/sermon/, sermon, 1.0.1, Serial device monitor and transmitter., 2014-05-10T03:39:55+0000
+/project/ashell/, ashell, 0.2, Add bashrc like functionality to adb, 2018-01-06T18:36:33+0000
+/project/batchfile-py/, batchfile.py, 0.5, Run Windows batch files (.bat) using Python, 2020-10-29T03:51:08+0000
+/project/python-c/, python-c, 1.0, An alternative to python -c with much less typing, at the price of being dirtier., 2017-06-17T09:05:37+0000
+/project/generatewordcloud/, generatewordcloud, 0.2, A simple Python (2 or 3) script to generate a PNG word-cloud image from a bunch of text files. Based on word_cloud., 2016-10-16T14:09:27+0000
+/project/groot/, groot, 0.0.0.61, Generate N-rooted fusion graphs from genomic data., 2019-01-29T15:16:46+0000
+/project/quick-mail/, quick-mail, 1.0.4, A simple commandline application for sending mails quickly, 2021-03-25T22:03:15+0000
+/project/json-dotenv/, json-dotenv, 0.0.21, json-dotenv, 2019-12-19T05:59:17+0000
+/project/mklibpy-bin/, mklibpy-bin, 0.10.3, Command line executables for mklibpy, 2018-10-04T03:53:42+0000
+/project/uspp-universal-serial-port-python-library/, USPP-Universal-Serial-Port-Python-Library, 1.0, Multiplatform Python library for serial port accesing, 2006-02-24T20:37:47+0000
+/project/termcast-client/, termcast_client, 0.1.3, broadcast your terminal sessions for remote viewing, 2014-10-22T16:19:28+0000
+/project/py3270/, py3270, 0.3.5, A Python interface to x3270, an IBM 3270 terminal emulator, 2018-10-23T11:53:10+0000
+/project/undatum/, undatum, 1.0.7, undatum: a command-line tool for data processing. Brings CSV simplicity to JSON lines and BSON, 2020-10-26T10:53:47+0000
+/project/times2/, times2, 0.8, Times2 is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2015-10-26T15:10:11+0000
+/project/bwatch/, bwatch, 1.0.5, display a binary watch view in the terminal, 2017-09-14T05:05:23+0000
+/project/yawinpty-extra/, yawinpty-extra, 0.1.0.dev1, yet another winpty binding for python (extra package), 2017-07-16T07:50:27+0000
+/project/gfm-toc/, gfm-toc, 0.0.7, Simple and customizable way to generate TOC for Github Markdown files., 2019-04-07T07:56:56+0000
+/project/ukpol-cli/, ukpol-cli, 0.0.6, A CLI tool for finding information on UK police forces and local crime information, 2017-07-27T23:34:45+0000
+/project/victoria/, victoria, 1.0.1, Automation toolbelt -- a single command with multiple pluggable subcommands for automating any number of 'toil' tasks that inhibit productivity., 2021-04-08T13:25:16+0000
+/project/dict-cli/, dict-cli, 1.3.4, 命令行下中英文翻译工具（Chinese and English translation tools in the command line）, 2017-05-19T08:59:48+0000
+/project/curlc/, curlc, 0.0.3, curl wrapper to borrow cookies from your browser's authenticated session, 2015-12-24T03:51:01+0000
+/project/ufp/, ufp, 1.14, ufp 라이브러리 python 버전. 각종, 편리한 함수들의 모음., 2015-06-14T13:51:19+0000
+/project/batchexec/, batchexec, 0.0.5, Batch execute any task, with simple json config, 2021-02-26T22:42:20+0000
+/project/painter/, painter, 0.3.1, Your own expressive painter who colors text in your terminal., 2014-04-28T23:53:04+0000
+/project/appveyor-artifacts/, appveyor-artifacts, 1.0.2, Download artifacts from AppVeyor builds of the same commit/pull request., 2016-05-02T01:03:16+0000
+/project/termrecord/, TermRecord, 1.2.5, A simple terminal session recorder with easy-to-share HTML output!, 2017-05-05T02:29:01+0000
+/project/mig3-client/, mig3-client, 0.5.9, Send test result to Mig3 service, 2019-05-22T23:18:02+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/doe2-sim-parser/, DOE2-SIM-Parser, 0.20, , 2019-11-09T01:13:47+0000
+/project/pyserial-asyncio/, pyserial-asyncio, 0.5, Python Serial Port Extension - Asynchronous I/O support, 2020-11-24T01:57:50+0000
+/project/gpm-player/, gpm-player, 0.1.2, Multi platform and text based Google-Play-Music player, 2018-03-06T08:51:37+0000
+/project/icolor/, icolor, 1.2, Interpolate ANSI colors in strings, 2012-06-25T00:32:56+0000
+/project/timezone-converter/, timezone-converter, 0.4.7, Compare your local timezone with a foreign one., 2021-02-27T19:31:18+0000
+/project/metawarc/, metawarc, 1.0.2, metawarc: a command-line tool for metadata extraction from files inside WARC (web archive), 2020-05-11T13:14:55+0000
+/project/nebooman/, nebooman, 0.1, Netscape Bookmark Manager, 2016-10-06T17:53:17+0000
+/project/rshell/, rshell, 0.0.30, A remote shell for working with MicroPython boards., 2021-03-01T22:24:24+0000
+/project/simpleopt/, simpleopt, 0.1.2a, simpleopt - a simple parser for options in command line, 2008-05-27T03:53:28+0000
+/project/zio/, zio, 2.1.0, Unified io lib for pwning development written in python., 2020-12-07T14:00:42+0000
+/project/evernote-backup/, evernote-backup, 1.0.0, Backup & export Evernote notes and notebooks., 2021-04-24T14:47:45+0000
+/project/unlocker/, unlocker, 2.2.0, CLI credentials manager, 2018-09-22T15:47:30+0000
+/project/pythoncolorize/, PythonColorize, 0.2, Simple module to colorize text on terminal, 2016-07-05T20:46:47+0000
+/project/s3-client/, s3-client, 0.1.2, Sample python script to work with Amazon S3., 2020-12-14T12:25:27+0000
+/project/texbox/, texbox, 0.2.1, An opinionated Python CLI to create, organize, and prettify specific files of a LaTeX project., 2020-10-11T23:32:38+0000
+/project/htpasswd-cli/, htpasswd-cli, 0.1.3, htpasswd-cli  a CLI, htpasswd(only basic authorization), 2013-09-30T11:48:34+0000
+/project/paff/, paff, 0.0.2, paff: path diff for chaotic humans, 2018-10-28T11:39:17+0000
+/project/pycoax/, pycoax, 0.7.0, IBM 3270 coaxial interface, 2021-03-11T00:13:48+0000
+/project/xontrib-commands/, xontrib-commands, 0.2.7, Useful xonsh-shell commands/alias functions, 2021-04-18T11:55:03+0000
+/project/xontrib-back2dir/, xontrib-back2dir, 0.1.1, Return to the most recently used directory when starting the xonsh shell., 2021-04-07T08:20:05+0000
+/project/dcc/, dcc, 0.1.0, Django Contributing Commons.
+
+Django-CC makes contributing to PyPI packages a breeze.
+It will download the package source code and sets you up
+so you can focus on developing amazing new features., 2016-02-09T11:05:16+0000
+/project/nspawn/, nspawn, 0.6.16.dev3, Containers with systemd-nspawn, 2021-03-25T00:13:14+0000
+/project/cltwit/, cltwit, 0.6, 'Command line Twitter utility', 2013-02-03T22:34:49+0000
+/project/powerline-xcodeversion/, powerline-xcodeversion, 1.0.0, A Powerline segment for showing the active version of Xcode, 2019-02-02T21:44:34+0000
+/project/tff/, tff, 0.2.10, Terminal Filter Framework, 2014-04-25T04:51:24+0000
+/project/sensorhandler/, sensorhandler, 0.1.3, Multipurpose sensorhandler, read the value from source & do somethings (send, save, trigger, ...) with it, as configed., 2018-09-29T08:49:12+0000
+/project/prefixed/, prefixed, 0.3.2, Prefixed alternative numeric library, 2020-08-31T23:45:13+0000
+/project/x84/, x84, 2.0.17, Framework for Telnet and SSH BBS or MUD server development with example default bbs board, 2020-06-17T12:51:31+0000
+/project/argv/, argv, 0.0.3, Simpler command line argument parsing, 2013-11-26T21:26:43+0000
+/project/terminaltables/, terminaltables, 3.1.0, Generate simple tables in terminals from a nested list of strings., 2016-10-17T00:11:54+0000
+/project/setproj/, setproj, 1.1.6, create projects in cli, 2020-12-30T07:08:11+0000
+/project/ansi-escape-room/, ansi-escape-room, 1.4.2, Simple library for color and formatting to terminal, 2020-03-29T00:29:57+0000
+/project/pysigmakoki/, PySigmaKoki, 2.0.0, Python Interface for Instruments by Sigma Koki, 2018-07-20T07:43:07+0000
+/project/npyscreen/, npyscreen, 4.10.5, Writing user interfaces without all that ugly mucking about in hyperspace, 2015-10-12T09:08:20+0000
+/project/pyterm/, pyterm, 0.2.0, pyterm - terminal output style/positioning control, 2013-10-14T03:53:25+0000
+/project/brownfox/, brownfox, 0.1.1, The quick brown fox switches directories amazingly fast, 2014-04-28T09:34:29+0000
+/project/epistle/, epistle, 0.2.5, Note taking with version control, 2018-09-12T04:37:23+0000
+/project/haggis/, haggis, 0.1a1, General purpose utility library, 2019-04-03T23:22:51+0000
+/project/tmux-helper-filetransfer/, tmux-helper-filetransfer, 0.1.0, file transfer cli utility for tmux, 2018-10-14T15:30:47+0000
+/project/cherrydoor/, Cherrydoor, 0.6.1, An overengineered rfid lock manager created for my school community. Made for Raspberry Pi connected with another microcontroler that send and recieved rfid data via UART, 2020-10-08T14:30:29+0000
+/project/colorlog/, colorlog, 5.0.1, Add colours to the output of Python's logging module., 2021-04-13T13:51:48+0000
+/project/smclip/, smclip, 0.3.0, Simple Multi Command Line Parser, 2017-10-11T11:38:57+0000
+/project/barbara/, barbara, 2.3.0, Environment variable management, 2021-04-21T16:20:56+0000
+/project/tsr/, tsr, 0.0.3, TSR on command-line, 2018-07-11T08:54:29+0000
+/project/rpi-sensor/, RPi.Sensor, 0.5.3, Python base class to create infinite loop to work with sensors., 2020-07-25T21:34:06+0000
+/project/git-pr/, git-pr, 0.2.0, Tool to fetch GitHub pull requests., 2017-03-19T20:04:00+0000
+/project/iterm2magic/, iterm2magic, 0.1.0, t is for terminal. iTerm2 automated configuration, 2020-03-29T22:21:43+0000
+/project/folkol-yg/, folkol.yg, 0.0.16, a unix filter for "greping" in YAML files, 2020-09-24T07:29:21+0000
+/project/edpath/, edpath, 0.1.4, MS Windows command-line script to view and edit PATH-like environment variables., 2010-07-09T21:20:26+0000
+/project/khansoul/, khansoul, 2.1.0, Simple terminal emulator, 2021-01-25T06:54:10+0000
+/project/pycliff/, pyCLiFF, 0.1, pyCLiFF, the Python Command Line Filter Framework is a simple tool designed to remove the boilerplate and annoyances from command line filters., 2009-08-21T00:11:17+0000
+/project/rogrepos/, rogrepos, 0.1.1, Rogrepos removes outdated GitHub repositories, 2017-12-14T03:14:46+0000
+/project/mpycntrl/, mpycntrl, 0.0.7, Control MicroPython with your own code, 2020-04-02T09:56:54+0000
+/project/myratings/, myratings, 1.2.2, Displays ratings of the user from various competitive programming sites in the terminal !!, 2017-12-31T07:34:43+0000
+/project/cachedcomplete/, cachedcomplete, 1.0.4, Cached wrapper for python argcomplete, 2020-05-31T06:42:59+0000
+/project/slprint11-pkg/, slprint11-pkg, 1.1, Simple module to display a text with a time interval between each characters., 2020-05-02T00:11:08+0000
+/project/sitekicker/, sitekicker, 1.0.6, Another static site generator, 2020-05-03T07:17:28+0000
+/project/yakut/, yakut, 0.5.3, Simple CLI tool for diagnostics and debugging of UAVCAN networks., 2021-04-23T17:47:02+0000
+/project/intermake/, intermake, 1.0.0.78, Automated run-time generation of user interfaces from Python functions - command-line-args, CLI, python-interactive, python-scripted, graphical (Qt GUI), 2019-02-05T12:38:31+0000
+/project/cocof/, cocof, 1.2.2, Consistent CLI config file modifier, 2019-01-27T14:20:35+0000
+/project/mklsgit/, mklsgit, 0.4, ls command with git branch, 2017-12-14T18:47:22+0000
+/project/text-histogram3/, text-histogram3, 1.0.0, A dependency-free library to quickly make ascii histograms from data., 2020-07-12T10:03:03+0000
+/project/butterfly/, butterfly, 3.2.5, A sleek web based terminal emulator, 2018-09-12T08:22:04+0000
+/project/dotignore/, dotignore, 0.0.2, Command line tool to generate ignore files, 2020-09-18T10:26:18+0000
+/project/corsemall/, corsemall, 0.2.0, Serves JSON data with CORS allowed from *.json files at given path., 2018-09-02T14:55:59+0000
+/project/autond/, autond, 0.2.13, autond, 2020-12-04T11:40:16+0000
+/project/sandstone/, sandstone, 1.1.2, Sandstone IDE, 2017-07-05T21:12:02+0000
+/project/pyopt/, pyopt, 0.84, Exposing python functions to the command line, 2011-12-29T19:27:42+0000
+/project/ansible-apply/, ansible-apply, 0.1.2, apply remote tasks, supports command line inventory, 2019-02-23T03:11:25+0000
+/project/ecog/, ecog, 0.8.1.1, Ecogwiki OAuth client, 2013-12-15T17:23:30+0000
+/project/rockart/, rockart, 0.2.3, A tool for drawing in terminal using Braille characters, 2020-04-28T23:37:09+0000
+/project/tinybuddhawisdom/, tinybuddhawisdom, 1.0.0, Tinybuddha Wisdom is a tiny console fortune-like wisdom teller., 2014-06-26T09:34:56+0000
+/project/tbar/, tbar, 0.1, Visualize values with ascii characters in terminal, 2014-02-08T05:39:35+0000
+/project/dcard-spider/, dcard-spider, 0.3.0, A spider for Dcard through its newest API., 2017-05-26T12:46:01+0000
+/project/myterm/, myterm, 0.3.0, module for add function in terminal, 2016-10-05T13:03:02+0000
+/project/apt-mirror-updater/, apt-mirror-updater, 7.2, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-04-17T22:28:13+0000
+/project/htrest/, htrest, 0.1.10, Heliotherm heat pump REST API, 2021-01-30T16:35:13+0000
+/project/texteditpad/, texteditpad, 0.32, Simple textbox editing widget with Emacs-like keybindings, 2015-03-31T15:38:10+0000
+/project/technicservercore/, TechnicServerCore, 0.3.3, Custom wrapper that downloads and updates Technic modpacks specifically for servers., 2014-10-02T00:31:52+0000
+/project/ptyng/, ptyng, 0.3.3.post1, Pseudo-terminal utilities., 2019-03-03T03:20:46+0000
+/project/pure/, pure, 2.0.0, Pretty, minimal and fast prompt for various shells, 2019-03-16T23:20:27+0000
+/project/termremind/, termremind, 0.0.4.7, Reminders in terminal, 2021-02-22T20:03:24+0000
+/project/test-kkimj/, test-kkimj, 0.1.1, HC-SR04 Python module via Serial protocol, 2021-03-21T02:57:02+0000
+/project/pyterminfo/, pyterminfo, 0.2, a terminfo-to-python cross compiler, 2017-02-12T22:40:43+0000
+/project/xontrib-history-encrypt/, xontrib-history-encrypt, 0.0.9, History backend that can encrypt the xonsh shell commands history., 2021-03-09T14:27:40+0000
+/project/termask/, termask, 0.1.2, A curses-based python library & terminal utility to ask questions and get answers in a wizardly fashion., 2016-11-20T04:01:20+0000
+/project/powerline-exitstatus/, powerline-exitstatus, 1.1.0, A Powerline segment for showing the status of Exit status, 2018-05-14T11:13:01+0000
+/project/xthematic/, xthematic, 0.0.3, cli app for customizing terminals, 2018-05-09T11:04:26+0000
+/project/sandstone-slurm-assist/, sandstone-slurm-assist, 0.12.0, Sandstone HPC - Slurm Assist App, 2017-07-05T21:15:53+0000
+/project/cmdssh/, cmdssh, 54, Execute commands on local machine and on remote machine via ssh, and a wrapper for paramikos scp., 2016-07-07T20:53:28+0000
+/project/avayaersconnect/, AvayaERSConnect, 1.0.0, AvayaERSConnect’s main purpose is to connect to any Avaya ERS Device via Telnet and perform various administration operations easily, without the need to write any Python code at all., 2016-01-28T14:20:43+0000
+/project/environmentalist/, environmentalist, 0.1.1, Accessing environment variables for lazy people., 2017-12-10T07:02:25+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/phg/, phg, 3.0.0, Password hasher and generator, 2017-12-30T04:35:53+0000
+/project/cterm/, cterm, 0.0.9, Fork your input to multiple Terminal windows, 2020-01-20T12:02:50+0000
+/project/lc-py/, lc-py, 2.0.1, Lowercase values for Python!, 2019-12-03T02:38:30+0000
+/project/usbinfo/, usbinfo, 1.1.1, Module for introspecting USB devices on a system, 2018-11-20T00:24:48+0000
+/project/rsp1570serial-pp81381/, rsp1570serial-pp81381, 0.1.5, Rotel RSP-1570 processor asyncio RS-232 protocol, 2020-08-09T19:19:25+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/bnc/, bnc, 0.0.1a11, Unofficial Binance CLI to interact with Binance API, 2021-04-26T04:13:06+0000
+/project/termsaver/, termsaver, 0.4, Simple text-based terminal screensaver., 2018-07-30T12:19:45+0000
+/project/random-dog/, random-dog, 1.0.2, Modul/Command Line Tool to get dog images, 2019-12-14T16:22:39+0000
+/project/asciinema/, asciinema, 2.0.2, Terminal session recorder, 2019-01-12T19:00:51+0000
+/project/tmonk/, tmonk, 0.1.2, thesis build of DFE's MONK, 2014-02-08T22:19:19+0000
+/project/lssh/, lssh, 0.2.1, Limited Secure SHell, 2017-07-20T23:04:27+0000
+/project/upydev/, upydev, 0.3.3, Command line tool for wireless MicroPython devices, 2020-06-07T13:07:02+0000
+/project/lathe/, lathe, 0.2.7, Basic machine learning toolkit for BYU CS478, 2017-04-08T01:43:39+0000
+/project/tcolorpy/, tcolorpy, 0.0.9, tcolopy is a Python library to apply true color for terminal text., 2021-03-27T05:14:07+0000
+/project/netapp-ocum/, netapp-ocum, 0.1.7, Client bindings for for the NetApp OnCommand Unified Manager (OCUM) REST API., 2019-07-31T19:31:17+0000
+/project/ttylight-python/, TTYLight-Python, 1.1.1, easily stylize terminal text, 2013-07-18T11:22:36+0000
+/project/ghstar/, ghstar, 0.2.0, Star GitHub repos from the command line, 2019-10-07T11:27:57+0000
+/project/isee-sipm/, ISEE_SiPM, 1.1.0, Commont Python toolset for SiPM analysis, 2018-08-30T05:37:35+0000
+/project/goear-dl/, goear_dl, 0.1.2, download songs from goear, 2016-01-16T13:25:45+0000
+/project/lazy-lxd/, lazy-lxd, 1.1.0, Easy creating LXD containers with included routine., 2020-09-14T11:48:15+0000
+/project/erase-exif/, erase_exif, 0.1.0, Erase exif meta data from your images, 2016-05-14T16:50:36+0000
+/project/cbdict/, CBDict, 2.0, This program monitors the clipboard of the system and translate the word from English to Chinese by YouDao api, especially designed for Students who are working under linux environment where there is no simple translater when you reading papers., 2019-03-19T01:52:27+0000
+/project/plotille/, plotille, 3.7.2, Plot in the terminal using braille dots., 2020-09-11T15:12:13+0000
+/project/progressbar231/, progressbar231, 2.3.1, Text progress bar library for Python., 2015-01-01T07:01:17+0000
+/project/elasticsearch-faker/, elasticsearch-faker, 0.0.2, elasticsearch-faker is a CLI tool to generate fake data for Elasticsearch., 2021-02-01T04:42:05+0000
+/project/docoptcfg/, docoptcfg, 1.0.2, docopt wrapper adding config file and environment variable support., 2016-06-29T04:31:37+0000
+/project/pygpsclient/, PyGPSClient, 1.0.5, PyGPSClient GNSS/GPS Graphical Client, 2021-04-24T07:57:15+0000
+/project/penpal/, penpal, 0.5.0, pen: terminal notes, 2020-09-27T15:55:35+0000
+/project/cli2/, cli2, 2.3.1, image:: https://yourlabs.io/oss/cli2/badges/master/pipeline.svg, 2020-08-02T14:33:14+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/moreman/, moreman, 0.3.2, Man Pages for Commands without Man Pages, 2019-10-19T07:35:14+0000
+/project/pycommand/, pycommand, 0.4.0, Library / toolkit for creating command line programs with minimal effort., 2018-03-27T21:19:07+0000
+/project/hickory/, hickory, 1.0.0, The command line tool for scheduling Python scripts, 2020-08-25T20:04:58+0000
+/project/fucking/, fucking, 2.1.0, a python tool which make English word to Chinese using the baidu translate., 2019-11-25T23:17:52+0000
+/project/echo360/, echo360, 2.0.3, Commandline tool for automated downloads of echo360 videos, 2020-05-29T13:44:24+0000
+/project/pyinfo/, pyinfo, 1.0.1, python environment info as phpinfo does with php, 2017-11-11T15:08:49+0000
+/project/pixcat/, pixcat, 0.1.4, Display images on a kitty terminal with optional resizing., 2018-10-02T20:03:11+0000
+/project/cs-ansi-colour/, cs.ansi-colour, 20200729, Convenience functions for ANSI terminal colour sequences [color]., 2020-07-28T23:49:07+0000
+/project/apt-smart/, apt-smart, 7.1.3, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-05-31T07:14:08+0000
+/project/pytubex/, pytubeX, 0.1.4, Python X library for downloading YouTube Videos. Fork from pytube3, an unmaintained library., 2020-11-05T22:17:01+0000
+/project/poetspy/, poetspy, 0.1.4, A small cli util to show project directories, 2021-04-19T03:21:32+0000
+/project/s3-browser/, s3-browser, 0.3.3, , 2019-03-23T01:04:00+0000
+/project/rpi-pir/, RPi.PIR, 0.5.0, PIR sensor state monitor, 2020-08-11T21:09:01+0000
+/project/atena/, atena, 0.0.0, An extensible text-based virtual assistant., 2021-03-31T09:02:37+0000
+/project/pyts3/, PyTS3, 0.3, A python modul to use the Teamspeak Query Interface., 2010-07-16T21:03:27+0000
+/project/pyvenvwrapper/, pyvenvwrapper, 1.0.0, pyvenvwrapper is a small and lightweight set of Bash script functions, that enhance the use of venv module for management of virtual environments., 2018-09-16T13:07:03+0000
+/project/file-sync-s3/, file-sync-s3, 0.2.4.dev1, Amazon AWS S3 file sync service with inotify watchdog and scheduled expiration, 2020-02-22T16:19:54+0000
+/project/termcast-server/, termcast_server, 0.1.2, allow users to broadcast their terminals for others to watch, 2014-10-22T16:17:17+0000
+/project/domonic/, domonic, 0.2.13, Generate html with python 3. DOM API, Javascript API and more..., 2021-04-17T13:45:12+0000
+/project/nprintml/, nprintml, 0.1.0, Fully automated traffic analysis with nPrint, 2021-04-13T21:01:31+0000
+/project/prettystring/, prettystring, 0.1.1, Build ANSI color encoded strings with ease., 2016-12-09T20:23:29+0000
+/project/telnetsrv/, telnetsrv, 0.4, Telnet server handler library, 2012-12-02T05:52:32+0000
+/project/xontrib-prompt-bar/, xontrib-prompt-bar, 0.4.1, The bar theme for xonsh shell., 2021-04-18T05:46:39+0000
+/project/pyjavaprops/, pyjavaprops, 1.0.2, Tool to parse Java style properties file, 2015-09-27T13:04:27+0000
+/project/apache-manager/, apache-manager, 2.2, Monitor and control Apache web server workers from Python, 2020-02-29T00:10:22+0000
+/project/more-termcolor/, more-termcolor, 1.1.3, All colors, with support for nested colors, convenience methods and full original termcolor compatability., 2020-06-25T10:58:07+0000
+/project/logthon/, logthon, 2.4.2, A simple logger for Python, 2021-01-20T15:01:59+0000
+/project/jinxed/, jinxed, 1.1.0, Jinxed Terminal Library, 2021-04-11T14:28:36+0000
+/project/moprofiler/, moprofiler, 1.1.0, 综合性能分析工具，集成了内存使用、执行时间的分析器，及秒表打点工具, 2019-02-20T08:39:18+0000
+/project/piefuzz/, piefuzz, 1.0.4, Pie wrapper for junegunn's fuzzyfinder (fzf), 2017-04-16T16:39:48+0000
+/project/awesomelog/, awesomelog, 1.4.0, Bootstrap for console and file logging configuration, 2016-05-06T16:48:40+0000
+/project/agrafena/, agrafena, 0.0.0, TN3270 automation library, 2020-05-16T13:57:55+0000
+/project/a-pytube-fork-for-spotdl-users/, a-pytube-fork-for-spotdl-users, 9.6.4, Python 3 library for downloading YouTube Videos., 2020-10-28T17:21:42+0000
+/project/easy-ansi-widgets/, easy-ansi-widgets, 0.0.0, Widgets made from the easy-ansi framework, 2020-05-28T02:45:51+0000
+/project/microspec/, microspec, 0.1.1b0, Python API for the Chromation spectrometer dev-kit, 2020-09-25T01:40:06+0000
+/project/argsearch/, argsearch, 0.3.0, Run a command many times with different combinations of its inputs., 2020-10-19T06:55:38+0000
+/project/pydrcs/, PyDRCS, 0.1.6, Make DRCS glyphs for DEC VT-series from image files, 2014-02-04T11:56:28+0000
+/project/scons-parts/, scons-parts, 0.15.8, Extension module to SCons build system, 2020-10-05T20:48:29+0000
+/project/ansicolors-balises/, ANSIColors-balises, 1.9.9.public, ANSIColors brings a simple and powerful way to use colours in a terminal., 2013-03-20T10:41:51+0000
+/project/powerline-kubernetes/, powerline-kubernetes, 1.2.0, A Powerline segment to show Kubernetes context, 2019-11-12T05:47:14+0000
+/project/geobases3k/, GeoBases3K, 5.0.16, Data services and visualization - Python 3 version, 2013-05-13T09:27:10+0000
+/project/yawinpty/, yawinpty, 0.4.3, yet another winpty binding for python, 2017-08-22T04:10:32+0000
+/project/yaspin/, yaspin, 1.5.0, Yet Another Terminal Spinner, 2021-03-21T19:19:50+0000
+/project/deid/, deid, 0.2.24, deidentify dicom and other images with python and pydicom, 2020-12-01T20:04:51+0000
+/project/colorclass/, colorclass, 2.2.0, Colorful worry-free console applications for Linux, Mac OS X, and Windows., 2016-05-15T02:23:21+0000
+/project/xirion/, xirion, 1.0.19, Terminal session recorder, 2017-06-30T11:18:35+0000
+/project/pansi/, pansi, 2020.7.3, ANSI escape code library for Python, 2020-07-09T15:33:05+0000
+/project/pyzshcomplete/, pyzshcomplete, 1.0.2, Tab completion for arbitraty python scripts in zsh, 2021-02-23T21:31:34+0000
+/project/pync/, pync, 2.0.3, Python Wrapper for Mac OS 10.10 Notification Center, 2018-05-04T19:28:40+0000
+/project/nixpass/, nixpass, 2.0, A cli password management tool, 2018-11-15T07:29:14+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/streamtools-ultimate/, streamtools-ultimate, 0.9.0, A vastly improved replacement for print(), input() and file handling for broad area of use cases., 2020-12-12T15:44:30+0000
+/project/easy-ansi/, easy-ansi, 0.3, Easy ANSI is a terminal framework API to give you an easy way to use colors, cursor control movements, and line/box drawing., 2020-03-05T04:22:38+0000
+/project/castero/, castero, 0.9.1, A TUI podcast client for the terminal, 2021-03-24T03:16:29+0000
+/project/pirate-get/, pirate-get, 0.4.0, A command line interface for The Pirate Bay, 2020-05-28T12:02:39+0000
+/project/geobases/, GeoBases, 5.0.16, Data services and visualization, 2013-05-13T09:23:30+0000
+/project/termtables/, termtables, 0.2.3, Pretty tables in the terminal, 2020-08-30T15:31:32+0000
+/project/feedback/, feedback, 0.1.post7, Feedback and user input manager, 2015-08-20T14:43:09+0000
+/project/data-hacks3/, data-hacks3, 0.0.3, Command line utilities for data analysis, 2020-10-08T10:33:36+0000
+/project/trachet/, trachet, 1.0.9, Step-by-step/realtime terminal debugger.  It tell you what is happening on your terminal., 2014-07-08T14:58:24+0000
+/project/hc-sr04/, HC-SR04, 0.3.1, HC-SR04 Python module via Serial protocol, 2021-03-22T15:34:44+0000
+/project/oide-nb-term/, oide-nb-term, 0.1.1, Online Integrated Development Environment (OIDE) - NBTerm, 2016-03-30T18:29:31+0000
+/project/nspawn-tools/, nspawn-tools, 1.1.2, Convenience code for dealing with systemd-nspawn machines, 2017-02-17T21:29:07+0000
+/project/neotermcolor/, neotermcolor, 2.0.10, Fork of termcolor library, 2021-02-23T13:46:50+0000
+/project/spotipy-tui/, spotipy-tui, 1.0.5, Text-based UI to control Spotify client, 2015-08-02T17:12:13+0000
+/project/picharsso/, picharsso, 2.0.1, A utility for converting images to text art., 2020-07-31T18:29:49+0000
+/project/blessings/, blessings, 1.7, A thin, practical wrapper around terminal coloring, styling, and positioning, 2018-06-21T14:00:07+0000
+/project/pdiffcopy/, pdiffcopy, 1.0.1, Fast large file synchronization inspired by rsync, 2020-03-06T23:30:24+0000
+/project/terminalprinter/, TerminalPrinter, 1.5.2, 终端图片、文字生成器, 2019-12-01T01:44:25+0000
+/project/cbtop/, cbtop, 1.0.1, cbtop wrapper, 2012-09-29T00:13:53+0000
+/project/clint2/, clint2, 0.3.2, Python Command-line Application Tools, 2012-06-30T02:32:46+0000
+/project/see-saw/, see-saw, 0.1.3, CloudWatch logs viewer for multiple groups, 2021-03-11T19:48:37+0000
+/project/flootty/, Flootty, 3.2.2, Floobits collaborative terminal, 2018-08-09T23:53:21+0000
+/project/pyserialui/, pyserialui, 1.0.0, SerialUI druid support and examples, 2019-06-25T16:22:43+0000
+/project/asyncluster/, AsynCluster, 0.3, Asynchronous cluster management based on the Twisted framework, with evolutionary computing tools for asynchronous node processing., 2008-03-23T05:10:55+0000
+/project/powerkube-fork/, powerkube-fork, 0.2.1, A powerline segment to show kubernetes context items, with toggling and alert color functionality, 2020-07-23T19:04:26+0000
+/project/getch/, getch, 1.0, Does single char input, like C getch/getche, 2013-05-03T01:45:53+0000
+/project/patsi/, patsi, 0.4, Python ANSI Terminal Styling Interface, 2017-06-19T15:16:05+0000
+/project/httpie/, httpie, 2.4.0, HTTPie: command-line HTTP client for the API era., 2021-02-06T10:16:47+0000
+/project/moear-api-common/, moear-api-common, 1.0.2.post2, 为MoEar扩展插件提供接口定义以及通用组件, 2018-04-08T14:03:43+0000
+/project/modem-cmd/, modem-cmd, 1.0.2, Send arbitrary AT commands to your modem, 2017-07-20T02:39:42+0000
+/project/pytube/, pytube, 10.7.2, Python 3 library for downloading YouTube Videos., 2021-04-20T15:56:41+0000
+/project/python-hangman/, python_hangman, 2.2.3, Python Hangman TDD/MVC demonstration., 2015-12-28T10:09:57+0000
+/project/upyble/, upyble, 0.0.3, Command line tool for Bluetooth Low Energy MicroPython devices, 2020-06-30T16:10:55+0000
+/project/jandan-cli/, jandan-cli, 0.0.2, jandan cli, 2019-10-14T13:06:50+0000
+/project/crypto-drive-manager/, crypto-drive-manager, 3.0, Unlock all your encrypted drives with one pass phrase., 2018-01-17T23:20:53+0000
+/project/pytty/, PyTTY, 0.4, Python serial access package, 2012-07-20T22:30:35+0000
+/project/xontrib-output-search/, xontrib-output-search, 0.5.4, Get identifiers, names, paths, URLs and words from the previous command output and use them for the next command in xonsh., 2020-10-29T08:45:20+0000
+/project/tflens/, tflens, 1.3.0, Terraform state viewer, 2020-10-31T15:27:18+0000
+/project/carrack/, carrack, 0.0.1.dev1, Airflow Carrack Sync Replicator Marketplace Client, 2017-11-17T18:27:50+0000
+/project/subtitle-joiner/, subtitle-joiner, 0.1.1, An image merge tool for movie screenshots, 2016-07-14T08:24:17+0000
+/project/ahabclient/, ahabclient, 0.0.14, AHAB Docker Client Wrapper, 2018-05-07T10:31:24+0000
+/project/powerline-k8sstatus/, powerline-k8sstatus, 21.1.1, A Powerline segment for showing the status of current Kubernetes context, 2021-01-02T15:52:39+0000
+/project/powerline-gitstatus/, powerline-gitstatus, 1.3.1, A Powerline segment for showing the status of a Git working copy, 2019-01-11T13:59:15+0000
+/project/hypermark/, hypermark, 0.0.1, Markdown for Humans., 2017-05-17T18:55:18+0000
+/project/xxxreport/, xxxreport, 0.1.3, xxxreport tools extract all TODO/XXX ... comments in a python source source, 2009-11-06T12:04:17+0000
+/project/httptestkit/, httptestkit, 0.1.3, Test and gather info on a web site., 2018-01-19T11:34:58+0000
+/project/tqdm/, tqdm, 4.60.0, Fast, Extensible Progress Meter, 2021-04-06T01:23:21+0000
+/project/interrogatio/, interrogatio, 1.0.3, A python library to prompt user for inputs in a terminal application., 2021-03-04T15:02:42+0000
+/project/pytube3/, pytube3, 9.6.4, Python 3 library for downloading YouTube Videos., 2020-02-16T19:38:43+0000
+/project/import-or-pip/, import_or_pip, 0.1.2, import a module or pip install it if it isn't found, 2013-01-14T09:14:50+0000
+/project/pyte/, pyte, 0.8.0, Simple VTXXX-compatible terminal emulator., 2018-04-06T20:50:56+0000
+/project/tinc-mesh/, tinc-mesh, 0.1.3.dev4, tinc mesh vpn, 2021-03-25T18:57:02+0000
+/project/common/, common, 0.1.2, Common tools and data structures implemented in pure python., 2016-05-19T14:38:22+0000
+/project/ipy-progressbar/, ipy-progressbar, 1.3, Progressbar for both IPython Notebooks (HTML, CSS, JS) and plain terminals., 2015-12-27T18:06:00+0000
+/project/pasterfu/, pasterfu, 0.8.0, Open a link with a command read from a database., 2021-03-15T09:03:58+0000
+/project/incremental-counter/, incremental-counter, 0.1.3, Incremental Counter, 2018-11-07T02:54:49+0000
+/project/streamtools-ultimate-testing/, streamtools-ultimate-testing, 0.9.0.5, A vastly improved replacement for print(), input() and file handling for broad area of use cases - TESTING RELEASE., 2020-12-15T19:50:37+0000
+/project/bpaste/, bpaste, 1.0.1, Code snippet uploader for bpaste.net, 2016-01-25T01:18:24+0000
+/project/mpho/, mpho, 0.3.0, PytHon utility for Organizing tasks, 2015-04-04T10:08:43+0000
+/project/area4/, area4, 3.11.0, Dividers in Python, the easy way!, 2020-12-28T04:45:38+0000
+/project/pytermcolor/, pytermcolor, 0.1.0, Color formatting for output in terminal., 2020-01-03T12:48:12+0000
+/project/gsmtc35/, GSMTC35, 2.1, GSM TC35/MC35 controller (Send/Receive SMS/MMS/Call and a lot more!), 2019-11-09T18:33:56+0000
+/project/prompty/, prompty, 0.4.1, A command line prompt markup language, 2020-08-01T13:14:28+0000
+/project/sentimental-skk/, sentimental-skk, 0.0.146, 三 三 ( ´_ゝ`）＜ Japanese Input Method SKK (Simple Kana to Kanji conversion) on your terminal, 2014-06-12T12:26:43+0000
+/project/folkol-utils/, folkol-utils, 0.0.4, meta-package for various command line utilities (folkol.xxx), 2020-09-22T20:59:40+0000
+/project/rpi-mc/, RPi.MC, 0.5.0, Magnetic contact state monitor, 2020-08-11T20:43:00+0000
+/project/ansicolortags/, ansicolortags, 0.4, ansicolortags brings a simple and powerful way to use colours in a terminal application with Python 2 and 3., 2016-07-02T09:34:06+0000
+/project/transfer-sh/, transfer.sh, 1.0.0, unofficial transfer.sh CLI, 2021-04-23T16:58:38+0000
+/project/xpaste/, xpaste, 1.4, paste text into X windows that don't work with selections, 2020-06-16T11:03:55+0000
+/project/terminis/, terminis, 0.2.3.2, Tetris clone for terminal. Ideal for servers without GUI!, 2019-08-31T17:53:41+0000
+/project/titulky/, titulky, 1.0.1, Tiny SubRip subtitles editor, 2021-04-18T17:02:22+0000
+/project/xxh-xxh/, xxh-xxh, 0.8.7, Bring your favorite shell wherever you go through the ssh, 2021-03-14T15:46:20+0000
+/project/conway/, conway, 1.1, A simple, colorful Game Of Life demo on the terminal, 2012-06-22T05:26:38+0000
+/project/add-juniper-software/, add-juniper-software, 1.0.3, A CLI tool to install software on a remote JunOS machine., 2021-02-15T22:21:16+0000
+/project/pyttygif/, pyttygif, 0.2.4, ttyrec to GIF converter, 2019-09-02T17:37:06+0000
+/project/pysay/, pysay, 2.0.0, A Python version of cowsay, 2014-10-13T23:55:18+0000
+/project/pyserialmonitor/, pySerialMonitor, 0.1, , 2017-08-20T09:25:34+0000
+/project/py3-progressbar/, py3-progressbar, 2.4dev, Text progress bar library for Python., 2014-08-18T03:49:59+0000
+/project/rlpython/, rlpython, 0.5, GNU Readline based Python REPL without any external dependencies, 2021-04-06T06:43:23+0000
+/project/jobdiary/, jobdiary, 1.0.5, A funny and easy to use job diary, 2019-01-03T08:22:42+0000
+/project/heiko/, heiko, 4.6.0, Heiko is a frontend for MaaS, 2019-11-08T14:18:45+0000
+/project/times/, times, 0.7, Times is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2014-08-24T06:13:20+0000
+/project/baidu-trans-cli/, baidu-trans-cli, 0.2.2, use baidu translation api in terminal, 2018-12-28T07:30:58+0000
+/project/powerline-travis-ci/, powerline-travis-ci, 0.1.post1, A Powerline segment for fetching and showing the latest travis-ci build state, 2020-11-06T16:18:58+0000
+/project/pycomm/, pycomm, 1.0.8, A PLC communication library for Python, 2015-11-01T16:20:56+0000
+/project/espsetup/, espsetup, 0.0.5, simplified setup up for esp8266 / esp32 device, 2021-03-06T07:24:41+0000
+/project/mantissa/, Mantissa, 0.9.0, A multiprotocol application deployment platform, 2017-09-05T09:06:47+0000
+/project/blessed/, blessed, 1.18.0, Easy, practical library for making terminal apps, by providing an elegant, well-documented interface to Colors, Keyboard input, and screen Positioning capabilities., 2021-02-25T00:53:38+0000
+/project/lemming/, lemming, 0.1.1, Python3 project layout generator, 2018-01-19T10:37:49+0000
+/project/pyptt/, PyPtt, 0.9.43, PyPtt, 2021-04-14T14:34:03+0000
+/project/reflexec/, reflexec, 0.2.0, Utility to automate annoying save-and-run routines in terminal environment, 2020-06-05T11:28:18+0000
+/project/mpyconfigbase/, mpyconfigbase, 0.0.4, Configure MicroPython WLAN/AP/WebRepl startup with your own code, 2020-04-01T14:18:24+0000
+/project/wcache/, wcache, 0.1.1, wcache: a tool that can help you store requested resources with redis, 2017-12-22T05:20:15+0000
+/project/shyml/, shyml, 1.0.3, write shell in sh.yml, 2019-06-18T14:43:03+0000
+/project/bnc-testnet/, bnc-testnet, 0.0.1a11, Unofficial Binance CLI to interact with Binance API, 2021-04-26T04:13:13+0000
+/project/lockbox/, lockbox, 0.1, User-friendly symmetric-key cryptography, 2017-05-30T15:01:13+0000
+/project/powerline-docker/, powerline-docker, 1.0.4, A Powerline segment for showing Docker container statuses, 2017-01-17T10:23:26+0000
+/project/hddtempnc/, hddtempnc, 1.3.0, Tool to acquire hard disk drive temperature from the network interface, 2018-09-26T22:20:35+0000
+/project/flashgbx/, FlashGBX, 1.4.2, Reads and writes Game Boy and Game Boy Advance cartridge data. Currently supports the GBxCart RW hardware device by insideGadgets., 2021-03-17T13:27:03+0000
+/project/cli-thesaurus/, cli-thesaurus, 1.0.0b5, A command-line interface thesaurus, 2020-02-28T22:05:46+0000
+/project/xontrib-cmd-done/, xontrib-cmd-done, 0.2.2, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-25T18:39:59+0000
+/project/oraide/, oraide, 0.4, A library to help presenters demonstrate terminal sessions hands-free., 2014-01-14T00:43:13+0000
+/project/htmlie/, htmlie, 1.0.0, HTMLie is a command line HTML Parser., 2019-08-06T03:49:54+0000
+/project/suddenly/, suddenly, 0.1.3.1, , 2020-12-05T16:28:06+0000
+/project/htknx/, htknx, 0.2.0, Heliotherm heat pump KNX gateway, 2021-02-06T16:23:28+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/mail-serv/, mail-serv, 0.6.3.dev5, Mail Service, 2021-03-25T18:57:45+0000
+/project/slideception/, slideception, 0.1.0, Framework for interactive slide decks in the terminal, 2019-12-02T06:34:16+0000
+/project/dosbox-screen/, dosbox-screen, 1.1.5, The Screen class lets you to do positioned writes to the dos terminal., 2019-09-08T20:30:12+0000
+/project/folkol-grab/, folkol.grab, 0.0.5, a unix filter for extracting tokens, 2020-09-22T19:17:54+0000
+/project/terminal-text-color/, Terminal-Text-Color, 0.3, Simple herramienta para darle color al texto en consola, 2014-11-02T20:39:21+0000
+/project/git-x/, git-x, 0.3.202010061414, git-x - a set of handy git extensions., 2020-10-06T03:26:06+0000
+/project/progressbar-ipython/, progressbar-ipython, 2.3.1, Note: This is a just a packaged version of https://github.com/fnoble/python-progressbar., 2014-04-24T09:32:05+0000
+/project/py-term/, py-term, 0.6, Python module to style terminal output, moving and positioning the cursor., 2016-03-11T22:32:01+0000
+/project/xontrib-cmd-durations/, xontrib-cmd-durations, 0.2.4, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-26T07:47:01+0000
+/project/github-codecommit-mirror/, github-codecommit-mirror, 0.2.0, Mirror all repositories of a Github organization or Gitlab groups to AWS CodeCommit, including branches., 2018-05-31T14:05:16+0000
+/project/ttd/, ttd, 0.1.0, Time Till Done (ttd) is a simple progress bar for your long running Python scripts, 2016-11-10T15:57:03+0000
+/project/oide/, oide, 0.11.4, Online Integrated Development Environment (OIDE), 2016-03-30T18:24:08+0000
+/project/telnetlib3/, telnetlib3, 1.0.4, Python 3 asyncio Telnet server and client Protocol library, 2021-02-04T02:55:11+0000
+/project/flipexception/, FlipException, 0.5, The best way to flip an exception out of rage, 2019-10-14T20:31:16+0000
+/project/streamer-retriever/, Streamer-Retriever, 0.20.2, Filter Twitch streams that are online from follows text file., 2021-02-19T11:34:53+0000
+/project/tinymenu/, tinymenu, 0.1.0, Simplifies creation of command-line menus, 2018-04-21T21:21:13+0000
+/project/xontrib-cd/, xontrib-cd, 0.1.1, cd to any path without escaping in xonsh shell ('cd '→'cd! '), 2021-03-04T19:39:43+0000
+/project/achilterm/, Achilterm, 0.21, A lightweight UTF-8 web based terminal, 2016-08-08T01:25:07+0000
+/project/defe/, defe, 0.0.1, A Tech feed Aggregator for Developers., 2020-04-04T13:26:02+0000
+/project/py-execute/, py-execute, 0.1.7, External process executor wrapper, 2014-09-08T09:15:22+0000
+/project/git-glow/, git-glow, 0.1.1, A new git extension to use git flow branching model automatically with Jira and Github, 2021-02-11T13:54:58+0000
+/project/ttrv/, ttrv, 1.27.3, Tilde Terminal Reddit Viewer, 2020-12-09T04:02:17+0000
+/project/mkbak/, mkbak, 1.3.2, a commandline utility to create file backups, 2021-03-01T04:52:21+0000
+/project/mohand-plugin-otp/, mohand-plugin-otp, 1.0.0.post0, MoHand插件，用以提供定制化的一次性密码生成服务, 2018-05-27T14:10:47+0000
+/project/click-params/, click-params, 0.1.1, A bunch of useful click parameter types, 2020-01-05T23:54:34+0000
+/project/pyhumitemp/, pyhumitemp, 1.0.1.post1, Script to capture numeric humidity and temperature output from DHT22, 2018-09-27T23:23:33+0000
+/project/bild-me-cli/, bild.me-cli, 0.1.1, CLI tool for bild.me, 2014-04-30T06:02:54+0000
+/project/restricted-input/, restricted-input, 0.3.0, Alternative to classic input with support for restricting certain characters, 2021-03-15T14:21:07+0000
+/project/tmux2html/, tmux2html, 0.1.11, tmux2html captures full tmux windows or individual panes
+then parses their contents into HTML., 2016-04-15T17:10:04+0000
+/project/prompt/, prompt, 0.4.1, Library for prompting input on the command line., 2017-06-05T17:01:11+0000
+/project/renfe-cli/, renfe-cli, 2.1.0, Get faster RENFE Spanish Trains timetables in your terminal, 2020-04-17T23:20:56+0000
+/project/gitter/, gitter, 0.3.5, Improved command line interface for git, 2020-12-04T07:43:23+0000
+/project/magicformulabr/, magicformulabr, 0.1.0, Magic Formula script for companies listed at Bovespa., 2021-02-19T14:28:57+0000
+/project/pyout/, pyout, 0.7.0, Terminal styling for tabular data, 2020-11-13T15:24:20+0000
+/project/exclock/, exclock, 0.3.0.1, exclock is a cui extended timer., 2020-12-31T16:14:10+0000
+/project/qcon/, qcon, 2.5, qcon is program for hiding/showing terminal emulators(or other software) with a hotkey., 2018-04-16T14:06:20+0000
+/project/dockerpty/, dockerpty, 0.4.1, Python library to use the pseudo-tty of a docker container, 2016-02-04T18:57:12+0000
+/project/xontrib-hist-navigator/, xontrib-hist-navigator, 0.6.3, A Xonsh plugin to navigate between directories like fish's prevd/nextd, 2021-01-03T11:59:42+0000
+/project/oatmeal/, oatmeal, 1.1, A protocol to control and communicate with Arduino devices from Python., 2019-12-30T20:51:44+0000
+/project/youtube-py/, youtube.py, 1.1.8, YouTube.py is a light python module for youtube., 2021-04-16T14:59:29+0000
+/project/repeat/, repeat, 0.1.3, Repeat command N times every S seconds., 2019-01-31T09:13:28+0000
+/project/coloredlogs/, coloredlogs, 15.0, Colored terminal output for Python's logging module, 2020-12-10T13:10:51+0000
+/project/webpage2html/, webpage2html, 0.3.6, Save/convert web pages to a single editable html file, 2018-07-21T15:11:31+0000
+/project/powerline-exitstatus-kai/, powerline-exitstatus-kai, 1.2.0, A Powerline segment for showing the status of Exit status, 2020-04-12T22:18:19+0000
+/project/dadjokes-plus-plus/, dadjokes-plus-plus, 1.2, Dad jokes on steroids., 2020-08-04T14:53:15+0000
+/project/pyshanb/, pyshanb, 0.6.3, PyShanb - 命令行下的扇贝词典, 2014-02-28T14:00:37+0000
+/project/cli-helpers/, cli-helpers, 2.1.0, Helpers for building command-line apps, 2020-07-29T16:32:55+0000
+/project/iterfzf/, iterfzf, 0.5.0.20.0, Pythonic interface to fzf, 2020-02-09T14:54:20+0000
+/project/pysixel/, PySixel, 0.1.11, View full-pixel color graphics on SIXEL-supported terminals(xterm/mlterm/DECterm/Reflection/RLogin/tanasinn/yaft), 2015-03-24T15:27:18+0000
+/project/ssterm/, ssterm, 3.0.0, A simple console-based serial port terminal, 2016-10-02T09:28:14+0000
+/project/erebo/, erebo, 1.1.23, Erebo is a VPN like a Proxy, 2019-11-05T10:03:35+0000
+/project/bashcalc/, bashcalc, 1.0, Instant calculating from the terminal into the terminal, 2020-06-09T20:14:49+0000
+/project/powerline-inject/, powerline-inject, 0.1.6, A powerline segment to show an ENV list with extra knobs, 2020-01-22T04:08:57+0000
+/project/xontrib-linuxbrew/, xontrib-linuxbrew, 0.1.0, Add Homebrew's shell environment to xonsh on Linux, 2021-03-04T18:51:35+0000
+/project/fahrplan/, fahrplan, 1.1.2, A SBB/CFF/FFS commandline based timetable client., 2019-10-09T07:08:26+0000
+/project/faculty-pyte/, faculty-pyte, 0.0.0.dev0, , 2019-01-31T13:25:48+0000
+/project/bridgy/, bridgy, 0.3.0, Easily search your cloud inventory and integrate with ssh + tmux + sshfs, 2018-08-17T02:44:07+0000
+/project/beradio/, beradio, 0.12.3, BERadio is an encoding specification and implementation for efficient communication in constrained radio link environments. It is conceived and used for over-the-air communication within the Hiveeyes project., 2018-07-11T00:33:27+0000
+/project/pytui/, pytui, 0.0, python terminal user interface, 2014-10-07T09:47:24+0000
+/project/xontrib-powerline3/, xontrib-powerline3, 0.3.1, Yet another powerline theme for xonsh with async prompt support., 2021-01-31T08:32:01+0000
+/project/py-make/, py-make, 0.1.1, Makefile execution powered by pure Python, 2019-01-21T00:18:55+0000
+/project/holocron/, holocron, 0.3.0, An extendable static blog generator powered by the Force. =/, 2016-03-12T20:10:36+0000
+/project/consolemd/, consolemd, 0.5.1, ConsoleMD renders markdown to the console, 2019-07-08T13:27:32+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/jetson-stats/, jetson-stats, 3.1.0, Interactive system-monitor and process viewer for all NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2], 2021-03-01T15:50:57+0000
+/project/upydevice/, upydevice, 0.2.3, Python library to interface with wireless/serial MicroPython devices, 2020-05-25T15:16:24+0000
+/project/imagemounter/, imagemounter, 3.1.0, Command line utility and Python package to ease the (un)mounting of forensic disk images., 2017-08-06T09:44:33+0000
+/project/fsscan/, fsscan, 0.0.4, Directory scanner, 2018-07-24T19:27:54+0000
+/project/autest/, autest, 1.10.0, Reusable gold file testing system, 2021-04-02T20:36:26+0000
+/project/click-keyring/, click-keyring, 0.2.1, A click option decorator to store and retrieve credentials using keyring., 2021-04-07T13:41:44+0000
+/project/pysecure/, pysecure, 0.11.8, A complete Python SSH/SFTP library based on libssh., 2014-04-21T20:14:01+0000
+/project/dotissue/, dotissue, 0.1.0, Yet another issue tracker for collaborative works., 2013-07-29T07:07:04+0000
+/project/console-tool/, console-tool, 1.2.2, 提供创建命令行程序工具的模块,包含Console类。A module for creating command line programs., 2021-02-22T03:22:22+0000
+/project/micro-lisp-tool-amotzek/, micro-lisp-tool-amotzek, 1.0.7, Run and upload Lisp programs and use the read-eval-print loop with ESP32 boards flashed with Micro Lisp, 2020-09-26T11:19:32+0000
+/project/hodl/, hodl, 1.2.0, A  friendly, no-nonsense tool to instantaneously check cryptocurrency prices., 2018-03-11T10:33:27+0000
+/project/xq/, xq, 0.0.4, Like jq but for XML and XPath., 2017-11-01T15:47:03+0000
+/project/verboselogs/, verboselogs, 1.7, Verbose logging level for Python's logging module, 2017-08-07T19:46:15+0000
+/project/timeleft/, timeleft, 0.2, A simple command line utility for displaying the amount of time left in a download., 2016-04-24T20:05:14+0000
+/project/xfce4-terminal-themes/, xfce4_terminal_themes, 0.1, Manage your xfce4-terminal themes with ease!, 2018-08-08T00:48:42+0000
+/project/argcomplete/, argcomplete, 1.12.3, Bash tab completion for argparse, 2021-04-19T15:48:18+0000
+/project/data-explorer/, data_explorer, 0.1.11, Command line utilities for data exploration, 2015-04-17T22:00:22+0000
+/project/kg-downloader/, kg-downloader, 0.2.0, a python tool which download songs from kg.qq.com., 2019-11-25T23:36:47+0000
+/project/colorama/, colorama, 0.4.4, Cross-platform colored terminal text., 2020-10-13T02:42:26+0000
+/project/mkpycalc/, mkpycalc, 2.0, , 2017-08-26T08:34:57+0000
+/project/selectmenu/, SelectMenu, 1.0.0b2, SelectMenu is the input form to choose from menu by arrow keys., 2018-04-11T06:03:24+0000
+/project/i3-quickterm/, i3-quickterm, 1.0, A small drop-down terminal for i3 and sway, 2020-04-06T18:10:50+0000
+/project/pycolors2/, pycolors2, 0.0.4, Tool to color code python output, 2014-04-13T15:18:09+0000
+/project/pyibsng/, pyibsng, 1.2.7, IBSng python driver, 2018-03-10T16:46:42+0000
+/project/safeprint/, safeprint, 0.2.0, A printer suppressing UnicodeEncodeError, 2017-03-01T01:13:43+0000
+/project/rpi-rfsniffer/, rpi-rfsniffer, 0.1.0, RF remote sniffer and sender for the Raspberry Pi, 2017-01-12T19:17:36+0000
+/project/ucs-detect/, ucs-detect, 0.0.4, Detects the Unicode Version of an interactive terminal for export, 2020-06-20T18:31:02+0000
+/project/pycritty/, pycritty, 0.3.5, CLI program that allows you to change your alacritty config file with one command., 2021-02-02T14:51:45+0000
+/project/groom/, groom, 0.1.0b1, A easy-to-use command-line interface generator, 2020-09-07T05:14:53+0000
+/project/miproman/, miproman, 0.1, Easy iTerm2 Profiles For Everyone!, 2013-09-18T05:32:53+0000
+/project/easycolor/, easycolor, 0.1, Terminal colors made easy!, 2016-12-28T01:23:27+0000
+/project/git-fame/, git-fame, 1.14.1, Pretty-print `git` repository collaborators sorted by contributions, 2021-03-01T22:16:22+0000
+/project/rpi-dht/, RPi.DHT, 0.5.0, Python implementation for Adafruit_DHT sensor for Raspberry Pi., 2020-08-11T21:15:57+0000
+/project/import-file/, import_file, 1.11, Import py files using their relative or absolute path., 2011-10-21T02:42:50+0000
+/project/voiceplay/, voiceplay, 0.2.6.1, Client-side first music centered voice controlled player, 2017-05-08T18:15:55+0000
+/project/rockart-examples/, rockart-examples, 0.2.1, Collection of Rockart usage examples, 2020-05-03T07:12:37+0000
+/project/gaedevhelper/, gaedevhelper, 0.1.0.dev0, A lovely command-line helper for developing GAE applications, 2016-11-24T07:26:13+0000
+/project/imaginary/, Imaginary, 0.0.5, Virtual simulation framework., 2009-11-29T19:21:37+0000
+/project/caspyr/, caspyr, 1.1.1, Cinchingly awesome scripts of Pythonic rapture, 2019-08-01T23:19:27+0000
+/project/lsbinit/, lsbinit, 0.1.post7, Linux init scripts handler, 2016-01-06T17:46:57+0000
+/project/slmd/, slmd, 0.1.4, Markdown list sorter, 2019-04-18T12:49:03+0000
+/project/samplecmd/, samplecmd, 1.1.7, SampleCMD is a CLI application which prepares sample commands for users based on search words., 2018-03-01T21:17:34+0000
+/project/apibackuper/, apibackuper, 1.0.3, apibackuper: a command-line tool and python library for API backuping, 2020-10-28T06:53:01+0000
+/project/tmux-master/, tmux-master, 0.0, A tool that runs a master tmux session to control slave tmux sessions on the specified hosts, 2014-03-20T08:01:44+0000
+/project/pyserial/, pyserial, 3.5, Python Serial Port Extension, 2020-11-23T03:59:13+0000
+/project/graphterm/, graphterm, 0.57.0, A Graphical Terminal Interface, 2014-07-19T05:12:16+0000
+/project/clsp/, clsp, 1.3, CLSP short for Command Line Selection Prompt, is a minimalistic and fast to navigate single choice interface., 2021-04-12T07:12:37+0000
+/project/oscookie/, oscookie, 0.0.1, Cookie cutter for generating random operating systems and software, 2017-01-18T02:04:01+0000
+/project/ansimagic/, ansimagic, 0.4.1, Helper for ansi esc sequence, 2019-07-01T19:22:19+0000
+/project/fastlog/, fastlog, 1.0.0b3, Simple and colorful Python logging module, 2020-04-28T19:39:19+0000
+/project/action-hero/, action-hero, 0.7.0, Make powerful CLIs with argparse actions that pack a punch!, 2020-02-03T03:50:37+0000
+/project/satbot/, satbot, 0.1.10, Read data from commonly-available "satellite" hobby R/C receivers., 2015-01-20T00:22:34+0000
+/project/linux-utils/, linux-utils, 0.7, Linux system administration tools for Python, 2020-02-09T17:02:42+0000
+/project/repacolors/, repacolors, 0.8.0, Small library for color conversion, manipulation, etc., 2021-04-14T18:34:31+0000
+/project/pexpect/, pexpect, 4.8.0, Pexpect allows easy control of interactive console applications., 2020-01-21T16:37:03+0000
+/project/certbot-httpreq/, certbot-httpreq, 0.0.16, certbot-httpreq plugin for certbot client, 2019-12-19T06:00:23+0000
+/project/pttlibrary/, PTTLibrary, 0.9.1, PTT library, 2020-02-09T14:34:54+0000
+/project/juc2/, juc2, 0.1.2, juc2 - Just Use Curses (Mark 2), 2021-03-15T21:32:30+0000
+/project/epew/, epew, 3.4.7, epew (ExternalProgramExecutionWrapper) is a tool to wrap program-calls with some useful functions like getting stdout, stderr, exitcode and the ability to set a timeout., 2020-10-27T19:03:46+0000
+/project/influx-prompt/, influx-prompt, 1.0.1, An interactive command-line influxdb cli with auto completion., 2021-04-01T12:32:08+0000
+/project/typer-cli/, typer-cli, 0.0.11, Run Typer scripts with completion, without having to create a package, using Typer CLI., 2020-10-10T19:31:10+0000
+/project/figgy-cli/, figgy-cli, 0.1.7, Tired of managing hundreds or thousands of configurations as your microservice footprint scales? Tired of config files, environment variables, poorly managed secrets, and  constantly crashing containers due to configuration mismanagement? There’s a better way. Figgy!, 2021-02-12T02:43:53+0000
+/project/charming/, charming, 1.0.0a1, A creative coding language based on Processing and Python for creating interactive character terminal art., 2020-11-25T05:14:27+0000
+/project/colored/, colored, 1.4.2, Simple library for color and formatting to terminal, 2019-12-09T09:45:53+0000
+/project/som/, som, 0.2.3, stanford open modules for python, 2017-09-13T04:15:19+0000
+/project/ptysh/, ptysh, 0.1.0, Python Teletype Shell, 2016-08-04T03:09:04+0000
+/project/centrifuge-postgresql/, centrifuge-postgresql, 0.2.2, PostgreSQL structure backend for Centrifuge, 2014-10-14T15:21:22+0000
+/project/termenu/, termenu, 1.2.5, Interactive in-line menus for Unix-based terminals, 2018-04-28T17:26:39+0000
+/project/colorise/, colorise, 1.0.1, Easily print colored text to the console, 2020-05-06T12:43:55+0000
+/project/tsaotun/, tsaotun, 0.9.4, Python based Assistance for Docker, 2017-12-10T05:22:31+0000
+/project/bbcli/, bbcli, 0.2.9, Browse BBC News like a hacker. (based on pyhackernews), 2020-08-17T16:27:25+0000
+/project/cent/, cent, 3.0.1, Python library to communicate with Centrifugo API, 2019-02-21T20:37:36+0000
+/project/styled/, styled, 0.2.0.post2, Style your terminal with ease!, 2021-01-14T13:02:03+0000
+/project/xontrib-onepath/, xontrib-onepath, 0.3.2, Associate files with app or alias and run it without preceding commands in xonsh shell., 2020-10-31T01:34:53+0000
+/project/sadcat/, sadcat, 3.0.0, A ssh config generator I dont recommend to use, 2019-10-10T07:32:41+0000
+/project/dokcer/, dokcer, 0.8, Python based Assistance for Docker, 2017-01-14T14:29:59+0000
+/project/linuxacademy-dl/, linuxacademy-dl, 1.0a4, Download videos from Linux Academy (linuxacademy.com) for personal offline use, 2017-04-04T08:05:04+0000
+/project/bigsudo/, bigsudo, 0.4.2, Obscene ansible runner, 2020-04-29T00:49:33+0000
+/project/vgit/, vgit, 0.2, a sleek terminal user interface for git, 2017-08-24T02:23:59+0000
+/project/auto-py-torrent/, auto-py-torrent, 1.0.8, Automated tool for file downloads, using torrent or magnet., 2017-08-05T02:12:21+0000
+/project/envy-project-dockerpty-republish/, envy-project-dockerpty-republish, 999.4.2, Python library to use the pseudo-tty of a docker container republish by envy-project, 2020-01-07T19:49:03+0000
+/project/reloadcmd/, reloadcmd, 0.9.0, Reload command on file changed, 2016-01-16T02:51:50+0000
+/project/python-gsmmodem/, python-gsmmodem, 0.9, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2013-07-18T11:23:48+0000
+/project/pytn3270/, pytn3270, 0.9.1, TN3270 library, 2021-02-28T16:59:27+0000
+/project/kusanagi/, kusanagi, 0.0.5, Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support., 2021-04-19T20:44:57+0000
+/project/myrich/, myrich, 0.2.2, Shell-like using Rich for render rich text content, 2020-09-28T21:21:17+0000
+/project/fonty/, fonty, 0.2.6, fonty is a command line tool for installing, managing and converting fonts., 2018-05-03T14:29:29+0000
+/project/termcolor/, termcolor, 1.1.0, ANSII Color formatting for output in terminal., 2011-01-13T17:45:25+0000
+/project/powerline-owmweather/, powerline-owmweather, 0.4, A Powerline segment for fetching and showing the weather in the current location, 2020-11-03T04:04:08+0000
+/project/decopts/, decopts, 1.0.2, Use decorators for dealing with argparse, 2017-10-30T15:54:00+0000
+/project/shelljob/, shelljob, 0.6.3, Run multiple subprocesses asynchronous/in parallel with streamed output/non-blocking reading. Also various tools to replace shell scripts., 2021-04-17T08:58:39+0000
+/project/clitoo/, clitoo, 1.0.2, execute python callables from CLI too !, 2018-11-21T12:50:10+0000
+/project/jacot/, jacot, 0.2.9, Japanese Auto character set Conversion On Tty, 2012-11-05T11:51:44+0000
+/project/git-clog/, git-clog, 0.2.5, git-clog outputs the commit graph of the current Git repository and colorizes commit symbols by interpreting the first six commit hash digits as an RGB color value., 2020-04-25T10:33:04+0000
+/project/kongctl/, kongctl, 0.3.7, kongctl - a CLI for kong admin interface., 2020-10-07T12:24:13+0000
+/project/htheatpump/, htheatpump, 1.3.1, Easy-to-use Python communication module for Heliotherm heat pumps, 2021-01-20T19:33:26+0000
+/project/nimmy/, nimmy, 0.1.3, A Terminal UI to play a variation of nim against a bot, 2021-03-30T04:22:40+0000
+/project/xontrib-pipeliner/, xontrib-pipeliner, 0.3.4, Easily process the lines using pipes in xonsh., 2021-04-07T05:15:32+0000
+/project/pjv/, pjv, 0.8.2, JSON Python Validator, 2016-07-10T16:53:32+0000
+/project/conwaycpu/, ConwayCPU, 0.5, The Game of Life, living on your CPU, 2014-08-04T07:34:49+0000
+/project/pytify/, pytify, 3.6.3, Spotify remote. Search, start and navigate through songs., 2019-10-03T13:04:41+0000
+/project/deb-pkg-tools/, deb-pkg-tools, 8.4, Debian packaging tools, 2021-03-09T13:48:47+0000
+/project/flyfingers/, flyfingers, 0.1.1, Learn to type 10 fingers, 2015-06-29T09:04:01+0000
+/project/candela/, Candela, 0.3.3, Python shell creation library, 2013-12-06T20:17:11+0000
+/project/geobasespypy/, GeoBasesPypy, 5.0.16, Data services and visualization - Pypy version, 2013-05-13T09:25:55+0000
+/project/jailconf-tools/, jailconf_tools, 1.0.1, A jail.conf python library to help making administration software, 2015-04-17T18:34:32+0000
+/project/akita/, akita, 0.1.4, An HTTP log monitoring tool for your terminal, 2020-01-10T22:20:16+0000
+/project/gita/, gita, 0.13.4, Manage multiple git repos with sanity, 2021-03-29T02:01:24+0000
+/project/progress2/, progress2, 1.3.0, Allows for easy creation of progress-bars and text, 2015-09-01T13:55:57+0000
+/project/sfftk-rw/, sfftk-rw, 0.6.7.dev1, Toolkit for reading and writing EMDB-SFF files, 2020-11-10T08:12:46+0000
+/project/como/, como, 0.7.0, como: batteries complete, 2020-09-27T16:05:09+0000
+/project/holocron-clear-theme/, holocron-clear-theme, 1.0.0, Holocron Clear Theme, 2016-03-12T22:44:19+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/consolor/, consolor, 0.1.2, Consolor provides highlighting functions for terminals., 2014-02-11T19:21:02+0000
+/project/terminedia/, terminedia, 0.3.1, Utilities for drawing and interactiveness at the terminal, 2020-05-30T21:30:31+0000
+/project/yash/, yash, 0.6.3, YAML to Bash, 2019-01-27T21:34:52+0000
+/project/sty/, sty, 1.0.0rc1, String styling for your terminal, 2021-01-31T21:16:18+0000
+/project/geobasesdev/, GeoBasesDev, 5.0.0, Data services and visualization - development version, 2013-03-13T15:52:50+0000
+/project/tinycom/, tinycom, 1.1, A simple line based serial terminal GUI., 2017-02-23T03:09:13+0000
+/project/flowmagic-cli/, flowmagic-cli, 0.1, FlowMagic Cli, 2020-09-14T04:25:20+0000
+/project/powerline-cpu-temp/, powerline-cpu-temp, 0.1.0, A Powerline segment to show CPU temperature, 2020-03-04T09:19:57+0000
+/project/dnsimple-zoneimport/, dnsimple-zoneimport, 0.1.1, A script that allows you to import a Bind zone file into your DNSimple account., 2013-06-25T15:00:06+0000
+/project/cmddocs/, cmddocs, 1.0.3, An interactive commandline interface for your personal docs using python, Cmd, git and markdown, 2017-02-16T15:05:23+0000
+/project/psp/, psp, 0.0.5, python color printer - minimalist color printing, 2018-01-27T11:06:35+0000
+/project/pygpd3303s/, PyGPD3303S, 2.0.0, Python Interface for DC power supply GPD-3303S, 2018-07-19T11:03:05+0000
+/project/xontrib-argcomplete/, xontrib-argcomplete, 0.3.2, Argcomplete support for python and xonsh scripts in xonsh shell., 2021-03-04T18:49:19+0000
+/project/random-cat/, random-cat, 1.0.1, Modul/Command Line Tool to get cat images, 2016-03-03T19:57:17+0000
+/project/uberping/, uberping, 0.0.1.1, uberping: ping tool for the uberstatus people, 2018-10-28T21:13:27+0000
+/project/immutable-collection/, immutable-collection, 1.1.post2, Library for making an immutable collection from a dictionary, 2018-07-25T15:59:14+0000
+/project/qpass/, qpass, 2.3, Frontend for pass (the standard unix password manager), 2018-12-03T21:02:38+0000
+/project/xontrib-broot/, xontrib-broot, 0.1.0, broot support function for xonsh shell, 2020-11-25T15:52:30+0000
+/project/shell-jobrunner/, shell-jobrunner, 2.3.1, Shell-based job runner with logging, 2021-04-02T19:14:25+0000
+/project/powerline-taskwarrior/, powerline-taskwarrior, 0.7.3, Powerline segments for showing information from the Taskwarrior task manager, 2019-03-07T10:12:27+0000
+/project/fluddy/, fluddy, 0.0.3, Flask Buddy - CLI for managing Flask Apps., 2020-02-09T20:43:09+0000
+/project/dex-k8s-client/, dex-k8s-client, 0.1.1, Python bindings for interacting with a Dex server running on Kubernetes., 2019-04-02T16:23:03+0000
+/project/piserialnumber/, piserialnumber, 0.1.1, Get Raspberry Pi board serialnumbermodel number, 2017-02-27T03:14:15+0000
+/project/xontrib-macro-lib/, xontrib-macro-lib, 0.0.3, Library of the useful macroses for the xonsh shell., 2021-04-01T08:29:19+0000
+/project/guake/, guake, 3.7.0, Guake Terminal, 2020-02-10T21:10:25+0000
+/project/trigger/, trigger, 1.6.0, Trigger is a framework and suite of tools for configuring network devices, 2017-03-08T18:32:52+0000
+/project/itils/, itils, 0.1.0, A Python CLI for transforming images., 2021-03-13T12:56:07+0000
+/project/xtermcolor/, xtermcolor, 1.3, Python module for colorizing output with xterm 256 color support, 2014-02-18T17:46:24+0000
+/project/moear-spider-zhihudaily/, moear-spider-zhihudaily, 1.1.1, MoEar爬虫功能扩展插件 - 知乎日报, 2018-06-17T04:17:56+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/data-hacks/, data_hacks, 0.3.1, Command line utilities for data analysis, 2015-01-08T18:51:52+0000
+/project/mohand/, mohand, 1.2.0, 通用自动化处理工具, 2019-12-15T06:44:04+0000
+/project/slackcat/, slackcat, 2.0.0, Pipe command output to Slack from your terminal!, 2017-09-01T13:53:22+0000
+/project/console/, console, 0.9907, Comprehensive, composable utility library for ANSI terminals. Better, stronger, faster.  Tch-tch-tch-tch…, 2021-04-19T06:24:15+0000
+/project/xbee/, XBee, 2.3.2, Python tools for working with XBee radios, 2018-04-03T18:34:15+0000
+/project/asciimatics/, asciimatics, 1.13.0, A cross-platform package to replace curses (mouse/keyboard input & text colours/positioning) and create ASCII animations, 2021-04-05T16:32:43+0000
+/project/tuir/, tuir, 1.29.0, A simple terminal viewer for Reddit (Terminal UI for Reddit), 2020-04-26T07:55:45+0000
+/project/nectar/, nectar, 0.1, Helper Library for the Modern Propulsion ESCs, 2016-06-05T20:16:37+0000
+/project/ib-client/, ib-client, 0.1.4, Infoblox client, 2020-01-05T19:32:24+0000
+/project/diarrhouea/, diarrhouea, 9999.0.0, Simple terminal emulator, 2019-12-04T12:30:52+0000
+/project/cgxsh/, cgxsh, 1.0.1b1, Command-line access to the controller-based CloudGenix ION Troubleshooting Toolkit., 2020-10-31T04:10:35+0000
+/project/epoch-analyzer/, epoch_analyzer, 0.4, Utility detect probable date/time formats given a numeric input., 2016-04-18T20:02:16+0000
+/project/awesome-finder/, awesome-finder, 1.2.3, A TUI based awesome curated list finder, 2019-12-06T16:36:07+0000
+/project/gateone/, gateone, 1.2.0, Web-based Terminal Emulator and SSH Client, 2015-09-28T19:41:51+0000
+/project/xontrib-hist-format/, xontrib-hist-format, 0.0.10, Format xonsh history to post it to Github or another page., 2020-11-06T10:47:17+0000
+/project/logging-spinner/, logging-spinner, 0.2.2, Non-intrusive spinner through standard logging library, 2017-06-22T08:12:34+0000
+/project/npm-accel/, npm-accel, 2.0.1, Accelerator for npm, the Node.js package manager, 2020-09-17T12:35:34+0000
+/project/neatlog/, neatlog, 0.1.8, A neat logging configurator, 2021-02-21T18:45:46+0000
+/project/batchfile-py/, batchfile.py, 0.5, Run Windows batch files (.bat) using Python, 2020-10-29T03:51:08+0000
+/project/python-c/, python-c, 1.0, An alternative to python -c with much less typing, at the price of being dirtier., 2017-06-17T09:05:37+0000
+/project/generatewordcloud/, generatewordcloud, 0.2, A simple Python (2 or 3) script to generate a PNG word-cloud image from a bunch of text files. Based on word_cloud., 2016-10-16T14:09:27+0000
+/project/sermon/, sermon, 1.0.1, Serial device monitor and transmitter., 2014-05-10T03:39:55+0000
+/project/groot/, groot, 0.0.0.61, Generate N-rooted fusion graphs from genomic data., 2019-01-29T15:16:46+0000
+/project/quick-mail/, quick-mail, 1.0.4, A simple commandline application for sending mails quickly, 2021-03-25T22:03:15+0000
+/project/json-dotenv/, json-dotenv, 0.0.21, json-dotenv, 2019-12-19T05:59:17+0000
+/project/mklibpy-bin/, mklibpy-bin, 0.10.3, Command line executables for mklibpy, 2018-10-04T03:53:42+0000
+/project/uspp-universal-serial-port-python-library/, USPP-Universal-Serial-Port-Python-Library, 1.0, Multiplatform Python library for serial port accesing, 2006-02-24T20:37:47+0000
+/project/termcast-client/, termcast_client, 0.1.3, broadcast your terminal sessions for remote viewing, 2014-10-22T16:19:28+0000
+/project/py3270/, py3270, 0.3.5, A Python interface to x3270, an IBM 3270 terminal emulator, 2018-10-23T11:53:10+0000
+/project/holocron-creole/, holocron-creole, 1.0.0, A creole markup converter for Holocron, 2015-10-27T21:19:20+0000
+/project/shell49/, shell49, 0.1.10, Micropython remote shell, 2020-09-04T02:00:32+0000
+/project/auton/, auton, 0.2.13, auton-client, 2020-12-04T11:40:14+0000
+/project/kitti3/, kitti3, 0.2.6, Kitti3 - Kitty drop down terminal service for i3wm, 2020-04-05T01:14:26+0000
+/project/httpaws/, httpaws, 0.0.4, httpAWS - a CLI, cURL-like tool for AWS services., 2019-03-17T05:01:32+0000
+/project/xontrib-avox-poetry/, xontrib-avox-poetry, 0.2.1, auto-activate venv as one cd into a poetry project, 2021-03-04T09:11:31+0000
+/project/redis-migrate/, redis-migrate, 1.0.0, A simple command line tool for redis data migration, 2018-09-19T16:05:12+0000
+/project/scriptcollection/, ScriptCollection, 2.4.4, The scriptcollection is the place for little scripts which are maybe also useful in future., 2021-04-25T16:20:07+0000
+/project/terminal-layout/, terminal-layout, 2.0.6, The project help you to quickly build layouts in terminal (命令行ui布局工具), 2021-03-24T02:27:11+0000
+/project/orochi/, orochi, 0.2.1, A command line client for 8tracks.com., 2016-09-02T07:22:49+0000
+/project/cute-format/, cute_format, 0.1.3, pack data and retrieval in easy way, 2017-06-22T06:06:06+0000
+/project/pytput/, pytput, 0.4.0, Python3 API to format messages using colors and styles, 2020-05-20T22:42:44+0000
+/project/sysinfo/, sysinfo, 1.0.0, General system information, 2016-05-06T20:51:56+0000
+/project/nvsmi/, nvsmi, 0.4.2, A (user-)friendly wrapper to nvidia-smi, 2020-02-28T09:32:03+0000
+/project/codelynx/, codelynx, 1.4.0, Terminal session recorder, 2017-05-21T16:42:05+0000
+/project/tmuxomatic/, tmuxomatic, 2.18, Intelligent tmux session management ... #tmux, 2015-07-03T20:24:01+0000
+/project/zpyshell/, zpyshell, 0.1.2.0, Command line shell with script languages, like python, 2017-05-31T19:59:50+0000
+/project/intercessions/, intercessions, 1.1.7, A blessings polyfill for the windows command line, 2020-03-13T22:42:32+0000
+/project/pyhackernews/, pyhackernews, 0.1.4, mimicking HN look and feel in terminal, 2014-08-23T07:11:52+0000
+/project/terminal-colors/, terminal-colors, 3.0.0, Utility to test color capabilities of terminal., 2020-01-11T02:28:59+0000
+/project/tablebase/, tablebase, 0.5, To make tables in python as easy as printing to the console, 2021-04-03T21:04:07+0000
+/project/thank-you-stars/, thank-you-stars, 0.1.0, thank-you-stars is a CLI tool to stars to a PyPI package and its dependencies hosted on GitHub., 2020-04-15T06:42:18+0000
+/project/progressive/, progressive, 0.3.4, Terminal progress bars for Python with blessings, 2017-12-18T07:32:29+0000
+/project/notes-cli/, notes-cli, 0.2, command line tool for your notes, 2016-10-15T21:14:41+0000
+/project/clilabs/, clilabs, 1.3.1, DEPRECATED BY clitoo, 2018-11-18T11:53:12+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/cs-tty/, cs.tty, 20210316, Functions related to terminals., 2021-03-15T23:21:26+0000
+/project/pyhackernews/, pyhackernews, 0.1.4, mimicking HN look and feel in terminal, 2014-08-23T07:11:52+0000
+/project/terminal-colors/, terminal-colors, 3.0.0, Utility to test color capabilities of terminal., 2020-01-11T02:28:59+0000
+/project/tablebase/, tablebase, 0.5, To make tables in python as easy as printing to the console, 2021-04-03T21:04:07+0000
+/project/thank-you-stars/, thank-you-stars, 0.1.0, thank-you-stars is a CLI tool to stars to a PyPI package and its dependencies hosted on GitHub., 2020-04-15T06:42:18+0000
+/project/progressive/, progressive, 0.3.4, Terminal progress bars for Python with blessings, 2017-12-18T07:32:29+0000
+/project/notes-cli/, notes-cli, 0.2, command line tool for your notes, 2016-10-15T21:14:41+0000
+/project/clilabs/, clilabs, 1.3.1, DEPRECATED BY clitoo, 2018-11-18T11:53:12+0000
+/project/tqdm-conan/, tqdm-conan, 4.27.0, Temporary fork of tqdmFast, Extensible Progress Meter, 2018-10-18T13:49:59+0000
+/project/cs-tty/, cs.tty, 20210316, Functions related to terminals., 2021-03-15T23:21:26+0000
+/project/kuob/, kuob, 1.0.1, a Fork of ASCIINEMA Terminal session recorder, 2020-04-11T15:02:44+0000
+/project/futils-grab/, futils-grab, 0.0.3, Project renamed, install folkol.grab instead., 2020-09-22T19:18:43+0000
+/project/hog/, hog, 0.1.7, Sending multiple `HTTP` requests `ON` `GREEN` thread, 2016-03-24T05:34:26+0000
+/project/cltools/, cltools, 0.5.0, Set of decorators of to create transform a class into a command-line tool., 2021-04-24T10:32:20+0000
+/project/autopage/, autopage, 0.2.0, A library to provide automatic paging for console output, 2021-04-24T01:34:09+0000
+/project/simple-term-menu/, simple-term-menu, 1.0.1, A Python package which creates simple interactive menus on the command line., 2021-04-06T08:32:15+0000
+/project/prn/, prn, 0.84, A powerful script to rename files. Better, stronger, faster., 2020-12-02T02:58:54+0000
+/project/sparcli/, sparcli, 0.1.3, Visualize metrics as text in real-time (sparklines), 2020-03-01T03:00:41+0000
+/project/gitstery-generator/, gitstery-generator, 1.0.1, A Git murder mystery, 2020-03-14T14:13:16+0000
+/project/pasteuwsgi/, pasteuwsgi, 0.1.8, Paster command to use uwsgi as server for local development, 2011-07-15T19:30:56+0000
+/project/offsh-xxh/, offsh-xxh, 1.0.0, Bring your favorite shell wherever you go through the ssh. This is a fork from https://github.com/xxh/xxh with some extra featured designed for https://github.com/offsh/offshell, 2020-12-01T18:13:10+0000
+/project/sixelplot/, sixelplot, 0.0.3, thin-wrapper for pysixel and matplotlib., 2016-07-07T01:53:43+0000
+/project/gameta/, gameta, 0.2.7, CLI Tool for managing meta-repositories, 2021-03-04T03:58:30+0000
+/project/colouredlogs/, colouredlogs, 10.0.1, Coloured terminal output for Python's logging module, 2019-07-13T20:17:45+0000
+/project/cepko/, cepko, 1.0.1, Communication with CloudSigma's VMs through a virtual serial port, 2014-03-17T10:44:22+0000
+/project/cmdprogress/, cmdprogress, 1.2, Command Line Progress Bars, 2018-12-07T04:29:01+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/ll-xist/, ll-xist, 5.65, Extensible HTML/XML generator, cross-platform templating language, Oracle utilities and various other tools, 2021-01-13T11:06:10+0000
+/project/termtosvg/, termtosvg, 1.1.0, Record terminal sessions as SVG animations, 2020-01-18T20:09:17+0000
+/project/atree/, atree, 1.0.0a1, An augmented version of the `tree` command, 2021-01-03T10:27:02+0000
+/project/emojislib/, emojislib, 0.0.1, Emojis for Python 😄 🐍 😋, 2019-01-09T11:08:52+0000
+/project/argparse-autogen/, argparse-autogen, 1.4, Parser with automatic creation of parsers and subparsers for paths., 2017-03-27T10:04:42+0000
+/project/py-hplc/, py-hplc, 0.1.6, An unoffical Python wrapper for the SSI-Teledyne Next Generation class HPLC pumps., 2021-04-21T17:28:08+0000
+/project/moear/, moear, 1.0.0a2, 用来实现对网络文章的爬取、mobi打包、并推送到Kindle设备上, 2018-04-12T13:46:06+0000
+/project/punchcard-py/, punchcard.py, 0.2, Command line utility to create a punchcard graph, 2013-03-02T23:18:03+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/warped/, warped, 0.1.3, A webbased wrapper for the argument parser in Python, 2017-05-31T13:32:11+0000
+/project/pexpect-u/, pexpect-u, 2.5.1, Pexpect is a pure Python Expect. It allows easy control of other applications., 2011-12-10T23:09:52+0000
+/project/fencepy/, fencepy, 0.7.2, Standardized fencing off of python virtual environments on a per-project basis, 2016-03-13T20:06:59+0000
+/project/chromaterm/, chromaterm, 0.7.1, Color your output to terminal, 2021-03-07T17:47:04+0000
+/project/wcwidth/, wcwidth, 0.2.5, Measures the displayed width of unicode strings in a terminal, 2020-06-23T16:10:28+0000
+/project/easyq/, easyq, 0.2.1b2, Simple and easy message queue tcp server, 2018-09-10T16:52:49+0000
+/project/monit-docker/, monit-docker, 0.0.38, monit-docker, 2020-12-08T22:16:25+0000
+/project/fzsl/, fzsl, 0.4, Fuzzy path searching for shells, 2016-02-06T05:58:05+0000
+/project/adame/, Adame, 0.2.2, Adame (Automatic Docker Application Management Engine) is a tool which manages (install, start, stop) docker-applications., 2020-07-30T17:37:59+0000
+/project/python-gsmmodem-new/, python-gsmmodem-new, 0.12, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2017-03-15T11:59:18+0000
+/project/pexpect-py3-patch/, pexpect-py3-patch, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:14:18+0000
+/project/nutstore-cli/, nutstore-cli, 0.4.3, A command-line interface for NutStore based on WebDAV., 2018-03-05T15:23:12+0000
+/project/search-ansible-hosts/, search-ansible-hosts, 0.0.2, Ansible inventory searching for rapid use, 2020-01-20T12:04:50+0000
+/project/progressbar/, progressbar, 2.5, Text progress bar library for Python., 2018-06-29T02:32:00+0000
+/project/protea/, Protea, 0.1a, Ashly digital audio products RS-232 interface library, 2013-08-26T17:44:20+0000
+/project/powerline-hgstatus/, powerline-hgstatus, 0.1.5, A Powerline segment for showing the status of a Mercurial working copy, 2017-11-07T19:47:55+0000
+/project/rapidfire/, rapidfire, 1.0.0, rapidfire calls and displays the defined Python function from command line, 2017-04-09T07:20:04+0000
+/project/butterfly-workspace/, butterfly-workspace, 3.0.4, A sleek web based terminal emulator (forked for Workspace), 2016-10-08T09:14:34+0000
+/project/macht/, macht, 0.1.5, A 2048 clone in python with Terminal UI, 2014-04-20T11:15:31+0000
+/project/xontrib-prompt-starship/, xontrib-prompt-starship, 0.2.0, Starship prompt in xonsh shell., 2021-03-13T00:47:51+0000
+/project/pypms/, pypms, 0.5.0, Data acquisition and logging tool for PM sensors with UART interface, 2020-10-25T12:46:47+0000
+/project/acfun/, acfun, 0.2, acfun video player, 2019-07-05T09:25:16+0000
+/project/httpcat/, httpcat, 0.0.2, Create raw HTTP requests on the command line., 2016-12-13T17:58:23+0000
+/project/ping-geo/, ping-geo, 1.0.2, Interactively ping one host from multiple locations via SSH, 2020-10-28T10:08:08+0000
+/project/jumpssh/, jumpssh, 1.6.5, Python library for remote ssh calls through a gateway., 2020-11-06T17:52:50+0000
+/project/reviews/, reviews, 0.1.2, Code Review Manager written in Python. Standalone client included., 2021-04-17T10:13:31+0000
+/project/readme-test/, readme-test, 8.9.1, testing readme rendering on pypi, 2016-12-08T23:22:28+0000
+/project/mkbak-iterfzf/, mkbak-iterfzf, 0.7.0.25.1, Pythonic interface to fzf, 2021-02-09T20:43:21+0000
+/project/pclog/, pclog, 0.1.0, Pretty Color Log, 2020-08-02T18:40:52+0000
+/project/saltfm/, saltfm, 0.0.4, Salt Formula Manager, 2017-01-30T11:30:28+0000
+/project/lordcommander/, lordcommander, 5.0.1, Run shell commands recursively throughout the predefined directories, 2020-10-05T07:19:51+0000
+/project/vimddr/, vimddr, 0.1.8, Improve your vim reflexes!, 2016-12-05T13:12:39+0000
+/project/xontrib-ergopack/, xontrib-ergopack, 0.1.4, Meta package that installs group of ergonomic xontribs in xonsh shell., 2021-03-08T07:17:53+0000
+/project/eapi-py/, eapi-py, 0.6.4, , 2020-09-16T19:06:49+0000
+/project/rvo/, rvo, 23.0.6, Managing text data from the commandline, 2017-02-25T09:13:15+0000
+/project/drcsterm/, drcsterm, 0.1.2, UCS Private Area (Plain 16) -> DRCS conversion filter for terminal, 2014-02-11T05:51:35+0000
+/project/prysenter/, prysenter, 1.0, A minimal, text-only, terminal-only presentation runner., 2012-04-14T08:02:12+0000
+/project/usbserial/, USBSerial, 1.1.0, HC-USBSerial Python library via Serial protocol, using pySerial library as API, 2021-03-24T09:59:34+0000
+/project/context-cli/, context-cli, 0.0.dev4, A cli tool to search with contexts., 2019-01-19T21:32:49+0000
+/project/pypsi/, pypsi, 1.4.5, Python Pluggable Shell Interface, 2018-11-19T15:11:04+0000
+/project/psychopass/, psychopass, 0.2.1, A Python password generator inspired by flowerpassword, 2016-06-28T08:54:55+0000
+/project/mudpyl/, mudpyl, 0.4, Python MUD client, 2008-09-17T17:01:57+0000
+/project/powerline-svnstatus/, powerline-svnstatus, 0.6, A Powerline segment for showing the status of a Subversion working directory, 2018-03-02T05:43:01+0000
+/project/mkpipu/, mkpipU, 0.3, pip upgrade all packages, 2017-12-14T18:50:05+0000
+/project/xontrib-zoxide/, xontrib-zoxide, 0.2.0, Zoxide integration for xonsh, 2021-03-08T18:43:44+0000
+/project/sheen/, sheen, 0.1.2, Pythonic cross-platform colored terminal text [support 16/256 colors], 2020-02-16T04:12:43+0000
+/project/http-prompt/, http-prompt, 2.1.0, An interactive HTTP command-line client, 2021-03-05T14:19:48+0000
+/project/terminal-leetcode/, terminal-leetcode, 0.0.19, A terminal based leetcode website viewer, 2019-12-31T03:29:06+0000
+/project/autopalette/, autopalette, 0.1.0-2, Terminal palettes and themes, without tears., 2018-06-05T09:28:53+0000
+/project/beautiful-ansi/, beautiful-ansi, 0.1.7, ANSI escape code library, 2017-07-01T15:21:59+0000
+/project/djcli/, djcli, 1.6.4, Full featured CLI CRUD and more for Django, 2020-09-16T18:00:36+0000
+/project/mh-z19/, mh-z19, 3.0.2, mh-z19 CO2 concentration sensor library for All models of Raspberry Pi, 2021-03-25T01:35:00+0000
+/project/clint/, clint, 0.5.1, Python Command Line Interface Tools, 2015-08-25T16:11:17+0000
+/project/xontrib-termcolors/, xontrib-termcolors, 0.2.0, Set terminal colors based on selected xonsh theme., 2021-03-11T16:35:15+0000
+/project/oh-my-stars/, oh-my-stars, 1.5.1, a CLI tool to search your GitHub stars., 2018-03-10T05:18:27+0000
+/project/aiowrpr/, aiowrpr, 0.0.1a7, , 2020-01-28T11:21:30+0000
+/project/oparse/, oparse, 0.9.2, oparse is a command line framework based on optparse., 2009-11-25T14:54:36+0000
+/project/ptyprocess/, ptyprocess, 0.7.0, Run a subprocess in a pseudo terminal, 2020-12-28T15:15:28+0000
+/project/iprogress/, IProgress, 0.4, Text progress bar library for Python., 2016-06-22T07:00:36+0000
+/project/kickass-get/, kickass-get, 0.2.4, A command-line interface for kat.cr (Kickass Torrents), 2016-03-19T04:20:42+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/uncrustify-objc/, uncrustify-objc, 1.4, Use uncrustify to format the objective-c files under the specified project path, 2019-12-17T08:59:59+0000
+/project/data-hacks/, data_hacks, 0.3.1, Command line utilities for data analysis, 2015-01-08T18:51:52+0000
+/project/mohand/, mohand, 1.2.0, 通用自动化处理工具, 2019-12-15T06:44:04+0000
+/project/slackcat/, slackcat, 2.0.0, Pipe command output to Slack from your terminal!, 2017-09-01T13:53:22+0000
+/project/console/, console, 0.9907, Comprehensive, composable utility library for ANSI terminals. Better, stronger, faster.  Tch-tch-tch-tch…, 2021-04-19T06:24:15+0000
+/project/xbee/, XBee, 2.3.2, Python tools for working with XBee radios, 2018-04-03T18:34:15+0000
+/project/asciimatics/, asciimatics, 1.13.0, A cross-platform package to replace curses (mouse/keyboard input & text colours/positioning) and create ASCII animations, 2021-04-05T16:32:43+0000
+/project/tuir/, tuir, 1.29.0, A simple terminal viewer for Reddit (Terminal UI for Reddit), 2020-04-26T07:55:45+0000
+/project/nectar/, nectar, 0.1, Helper Library for the Modern Propulsion ESCs, 2016-06-05T20:16:37+0000
+/project/ib-client/, ib-client, 0.1.4, Infoblox client, 2020-01-05T19:32:24+0000
+/project/diarrhouea/, diarrhouea, 9999.0.0, Simple terminal emulator, 2019-12-04T12:30:52+0000
+/project/cgxsh/, cgxsh, 1.0.1b1, Command-line access to the controller-based CloudGenix ION Troubleshooting Toolkit., 2020-10-31T04:10:35+0000
+/project/curtis/, curtis, 0.2, A simple sentry cli, 2018-07-30T09:13:00+0000
+/project/trackrip/, trackrip, 1.2.1, Extracts samples from various music tracker module formats, 2020-10-17T16:20:45+0000
+/project/epoch-analyzer/, epoch_analyzer, 0.4, Utility detect probable date/time formats given a numeric input., 2016-04-18T20:02:16+0000
+/project/awesome-finder/, awesome-finder, 1.2.3, A TUI based awesome curated list finder, 2019-12-06T16:36:07+0000
+/project/gateone/, gateone, 1.2.0, Web-based Terminal Emulator and SSH Client, 2015-09-28T19:41:51+0000
+/project/xontrib-hist-format/, xontrib-hist-format, 0.0.10, Format xonsh history to post it to Github or another page., 2020-11-06T10:47:17+0000
+/project/logging-spinner/, logging-spinner, 0.2.2, Non-intrusive spinner through standard logging library, 2017-06-22T08:12:34+0000
+/project/powerline-vcsh/, powerline-vcsh, 1.0.0, A Powerline segment for showing the current VCSH repo, 2021-01-28T00:50:40+0000
+/project/cnam/, cnam, 0.2, A simple CLI program that spits out caller ID name information given a phone number., 2012-02-13T03:24:21+0000
+/project/powerkube/, powerkube, 0.1.3, A powerline segment to show kubernetes context items, with toggling and alert color functionality, 2017-02-12T18:03:47+0000
+/project/print-chat/, print-chat, 0.4, Small print tool for implementing chat in the terminal, 2020-02-02T11:53:33+0000
+/project/dictfire/, dictfire, 1.1.20, 命令行下[中英，中俄，中日，中韩，中法，中德，中西]文互翻译工具（Command line translation tool for Chinese English,Chinese French, Chinese Japanese, Chinese Korean, Chinese German），翻译服务基于有道翻译。, 2020-04-12T15:45:08+0000
+/project/xontrib-syslog-shell-profiler/, xontrib-syslog-shell-profiler, 0.1.5, A Xonsh plugin to profile and log command execution to a syslog file., 2021-04-10T20:49:53+0000
+/project/xontrib-sh/, xontrib-sh, 0.3.0, Paste and run commands from bash, zsh, fish, tcsh, pwsh, cmd in xonsh shell., 2021-03-19T16:21:26+0000
+/project/html-snippet/, html-snippet, 0.2, Utility to extract snippets from webpages, 2017-08-15T14:05:37+0000
+/project/pybles/, Pybles, 1.0.13, Module to represent tables in the terminal using python, 2017-04-21T13:07:37+0000
+/project/batchq/, BatchQ, 0.1-2-pre-alpha, Python automatisation tools., 2012-03-23T14:12:52+0000
+/project/vt100/, vt100, 0.3.0, an in-memory terminal parsing library, 2016-06-04T23:40:33+0000
+/project/sfftk/, sfftk, 0.5.5.dev1, Toolkit for working with EMDB-SFF and other segmentation file formats, 2020-11-10T08:45:00+0000
+/project/redterm/, redterm, 0.2.4, A terminal based reddit viewer., 2015-11-03T04:26:30+0000
+/project/tamcolors/, tamcolors, 1.3.0, tamcolors standardizes console color output across multiple platforms, 2021-02-06T00:21:19+0000
+/project/cftw/, cftw, 0.0.2, containers for the win is a module for container competitions, 2017-08-09T03:44:58+0000
+/project/mohand-plugin-expect/, mohand-plugin-expect, 1.0.6, MoHand插件，用以提供可自动控制其他终端应用的任务支持, 2018-10-07T12:29:43+0000
+/project/ssher/, SSHer, 1.1, Multi ssh connection launcher, 2015-10-06T15:59:49+0000
+/project/text-histogram/, text_histogram, 0.0.7, A dependency-free library to quickly make ascii histograms from data., 2014-08-11T06:07:06+0000
+/project/pcof/, pcof, 0.2.1, Python Collection Of Functions., 2020-09-02T18:31:48+0000
+/project/gandi-cli/, gandi.cli, 1.6, Gandi command line interface, 2020-09-22T20:45:54+0000
+/project/getrpimodel/, getrpimodel, 0.1.20, Get Raspberry Pi model Name(eg: A, B, B+...), 2021-03-25T06:23:13+0000
+/project/dyn-cli/, dyn-cli, 0.1.0, Dyn CLI - DynamoDB Command Line Interface, 2018-09-19T01:44:26+0000
+/project/cclint/, cclint, 0.4, An enhanced version of the Goggle's cpplint tool, 2018-01-15T10:56:19+0000
+/project/carnifex/, carnifex, 0.2.5, Execute commands and run processes locally and remote, 2017-03-30T18:40:48+0000
+/project/colorlabels/, colorlabels, 0.7.0, Provides colorful and semantic labels in console. Tailored for message display and interaction in automated scripts., 2020-09-19T06:01:57+0000
+/project/oide-slurm-assist/, oide-slurm-assist, 0.7.3, Online Integrated Development Environment (OIDE) - Slurm Assist App, 2016-03-30T18:27:33+0000
+/project/jenkins-rapid/, jenkins-rapid, 0.4.9, A simple tool to rapidly create and debug jenkins pipelines, 2021-03-09T01:31:29+0000
+/project/mythx-cli/, mythx-cli, 0.6.22, A command line interface for the MythX smart contract security analysis API, 2020-10-05T11:56:52+0000
+/project/shanbay-assistant/, shanbay-assistant, 0.3.0, shanbay.com team assistant, 2017-03-05T02:53:30+0000
+/project/pyfzf/, pyfzf, 0.2.2, Python wrapper for junegunn's fuzzyfinder (fzf), 2020-08-29T01:34:18+0000
+/project/linkmanager/, linkmanager, 0.4.0.16, Manage your link on terminal, 2014-10-07T09:31:36+0000
+/project/termprop/, termprop, 0.1.1, detects some terminal glitches and advanced facilities information, 2014-01-23T16:40:29+0000
+/project/jupyter-micropython-upydevice/, jupyter-micropython-upydevice, 0.0.4, Jupyter kernel based on upydevice for operating MicroPython, 2020-05-25T15:27:03+0000
+/project/fundosbr/, fundosbr, 0.1.1, Script para mostrar dados de fundos de investimento., 2020-12-23T13:11:21+0000
+/project/fast-downloader-mt/, fast-downloader-mt, 0.1.0, Multithreaded fast downloader, 2020-10-09T20:03:01+0000
+/project/autoplay/, autoplay, 0.5.0, yaml orchestration for bash, 2018-11-21T12:53:24+0000
+/project/asynctelnet/, asynctelnet, 0.2.5, Python 3 anyio Telnet server and client Protocol library, 2021-03-19T07:17:30+0000
+/project/pygpd3303s/, PyGPD3303S, 2.0.0, Python Interface for DC power supply GPD-3303S, 2018-07-19T11:03:05+0000
+/project/xontrib-argcomplete/, xontrib-argcomplete, 0.3.2, Argcomplete support for python and xonsh scripts in xonsh shell., 2021-03-04T18:49:19+0000
+/project/cmddocs/, cmddocs, 1.0.3, An interactive commandline interface for your personal docs using python, Cmd, git and markdown, 2017-02-16T15:05:23+0000
+/project/psp/, psp, 0.0.5, python color printer - minimalist color printing, 2018-01-27T11:06:35+0000
+/project/random-cat/, random-cat, 1.0.1, Modul/Command Line Tool to get cat images, 2016-03-03T19:57:17+0000
+/project/uberping/, uberping, 0.0.1.1, uberping: ping tool for the uberstatus people, 2018-10-28T21:13:27+0000
+/project/immutable-collection/, immutable-collection, 1.1.post2, Library for making an immutable collection from a dictionary, 2018-07-25T15:59:14+0000
+/project/qpass/, qpass, 2.3, Frontend for pass (the standard unix password manager), 2018-12-03T21:02:38+0000
+/project/pyparsing-highlighting/, pyparsing-highlighting, 0.2.8, Syntax highlighting for prompt_toolkit and HTML with pyparsing., 2019-06-02T19:38:28+0000
+/project/py-smile/, py-smile, 1.0, A small smile program in command-line., 2020-03-11T05:49:42+0000
+/project/tabula/, tabula, 1.0.5, Ascii table, 2012-11-01T20:50:21+0000
+/project/grillo/, Grillo, 0.1.1, A terminal based chat server and client., 2011-01-03T04:51:14+0000
+/project/pydht2/, pydht2, 0.5.2, DHT 11 v.2 Temperature/Humidity GPIO driver for Raspberry PI., 2014-02-17T22:28:28+0000
+/project/isotel-idm/, isotel-idm, 1.0b21, A python framework for the ISOTEL Data-acquisition & Metering Smart Gateway for easy integration with Internet of Things., 2019-11-26T21:06:07+0000
+/project/pycodequality/, pycodequality, 45, Pylint measures code quality for every file in the folder, returns an average, 2016-06-21T12:59:33+0000
+/project/cephdu/, cephdu, 1.0.2, A "du" like utility to estimate file space usage on CephFS, 2021-04-05T16:45:53+0000
+/project/pytermtk/, pytermtk, 0.2.0a17, Python Terminal Toolkit, 2021-03-27T21:32:58+0000
+/project/ahds/, ahds, 0.2.3, Python package to parse and provide access to headers and data streams in Amira (R) files, 2019-12-11T11:28:29+0000
+/project/interactive-shell/, interactive-shell, 0.1.0, Interactive shell classes to easily integrate a terminal in application., 2019-01-20T20:49:52+0000
+/project/horascli/, horasCLI, 1.2.0, Simple CLI program to create a project hour schedule in markdown., 2018-11-28T07:12:00+0000
+/project/ashell/, ashell, 0.2, Add bashrc like functionality to adb, 2018-01-06T18:36:33+0000
+/project/mehrp/, mehrp, 0.0.1, Easy beeping (merhp) from the terminal., 2019-02-14T03:59:21+0000
+/project/incor/, incor, 1.0.0, INstant COde Runner compiles and executes the programs present in the mentioned folder instantaneously as and when changes are saved., 2016-07-07T20:28:39+0000
+/project/centrifuge-mongodb/, centrifuge-mongodb, 0.3.0, MongoDB structure backend for Centrifuge, 2014-11-20T20:42:47+0000
+/project/pyxargs/, pyxargs, 1.2.8, A mostly complete implementation of xargs in python with some added features, 2020-02-02T05:18:33+0000
+/project/env2fs/, env2fs, 0.2.0, write env vars to filesystem (CI tool), 2019-02-15T08:31:40+0000
+/project/hlfbt-serial-console/, hlfbt-serial-console, 0.0.5, A simple utility to interface with prompt-like (serial) consoles, 2019-11-11T21:45:53+0000
+/project/keysteps/, keysteps, 0.0.0, , 2019-06-28T03:17:26+0000
+/project/moear-package-mobi/, moear-package-mobi, 1.1.2.post0, MoEar打包功能扩展插件 - Mobi, 2018-06-17T02:06:14+0000
+/project/argon/, argon, 0.2.0, Helpers for sub-commands., 2012-07-04T13:40:55+0000
+/project/ll-core/, ll-core, 1.11.1, LivingLogic base package: ansistyle, color, make, sisyphus, xpit, url, xml_codec, 2008-01-11T13:47:18+0000
+/project/bashful/, bashful, 0.0.4, Because your bash scripts should be quiet and shy (and not such a loudmouth), 2017-09-24T22:13:14+0000
+/project/collpy/, collpy, 0.0.4, Add color highlights, load bars, progress displays and style to your python scripts and shell sessions, 2020-08-14T02:57:57+0000
+/project/grsched/, grsched, 0.0.2, DESCRIPTION, 2020-10-23T06:40:40+0000
+/project/templateme/, templateme, 0.0.7, Template Me - module with template for your favourite projects., 2019-12-17T08:05:59+0000
+/project/sixelterm/, sixelterm, 0.0.10, Display JPEG/PNG image with cat command, on some terminals support SIXEL (RLogin/mlterm/tanasinn). Inspired by GateOne., 2012-11-26T13:23:21+0000
+/project/urxvt-tabbed/, urxvt_tabbed, 0.2.0, Tab wrapper for urxt, 2014-01-23T18:59:55+0000
+/project/progressbar-latest/, progressbar-latest, 2.4, Text progress bar library for Python., 2013-06-03T16:45:59+0000
+/project/py2png/, py2png, 0.1.1, Python Module to PNG, 2017-12-05T07:10:24+0000
+/project/orderid/, orderid, 1.0.0, Short unique ordered ID generator., 2019-08-07T08:59:04+0000
+/project/cuisel/, cuisel, 1.0.0, ncurses-based selector, 2019-03-24T12:55:28+0000
+/project/error-counter/, error-counter, 0.1.1, Error Counter: Count error (e.g. network error) beyond process boundary, then issue fix command when exceeded threshold., 2018-11-18T06:04:53+0000
+/project/minimalmodbus/, minimalmodbus, 1.0.2, Easy-to-use Modbus RTU and Modbus ASCII implementation for Python, 2019-08-11T00:36:43+0000
+/project/makefile-help/, makefile-help, 0.1.1, Autogenerates pretty Makefile help, 2021-01-11T19:43:32+0000
+/project/afmt/, afmt, 0.0.5, ANSI escape code formatter, 2019-09-29T14:05:48+0000
+/project/libsixel-python/, libsixel-python, 0.5.0, libsixel binding for Python, 2018-06-07T17:33:41+0000
+/project/pyclock/, PyClock, 1.0.0, A digital clock for the terminal, 2016-02-10T04:36:20+0000
+/project/monk-tf/, monk_tf, 0.17.8, regression test scripting framework for embedded systems developers, 2015-12-10T11:21:36+0000

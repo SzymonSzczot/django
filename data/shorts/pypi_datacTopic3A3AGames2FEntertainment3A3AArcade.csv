@@ -1,0 +1,102 @@
+/project/pyroids/, pyroids, 0.9.0, Asteroids game, 2019-11-29T23:27:11+0000
+/project/bullet-dodger/, bullet-dodger, 2.1.2, fun and challenging mouse game where you must dodge bullets, 2018-05-15T12:20:46+0000
+/project/uberpong/, uberpong, 0.1.0a1, An Uber-engineered PONG clone, 2015-12-07T15:58:50+0000
+/project/taki/, taki, 1.0, Taki Ahmagh Game, 2018-07-12T05:44:01+0000
+/project/naghni/, Naghni, 0.1, A breath-taking side-scroller focusing on round lifeforms, 2010-07-14T11:57:42+0000
+/project/stuntcat/, stuntcat, 0.2.0, Stuntcat is the first pygame 2 community game., 2020-12-29T15:57:04+0000
+/project/spacedinvaders/, spacedinvaders, 0.0.5, A textual, terminal spin on an arcade classic, 2020-11-30T13:41:40+0000
+/project/freegames/, freegames, 2.3.2, Free Games, 2019-12-31T05:06:46+0000
+/project/pyschelling/, pyschelling, 0.1.0, An agent-based implementation of Schelling's segregation model, 2013-06-24T23:45:40+0000
+/project/hangthepyman/, hangthepyman, 0.1.3, Classic Hangman game with Pygame & Python touch, 2020-07-13T10:11:56+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pyskool/, pyskool, 1.2.1, A remake of 'Skool Daze' and 'Back to Skool' using Pygame, 2016-05-21T11:47:29+0000
+/project/pycolab/, pycolab, 1.2, An engine for small games for reinforcement learning agents., 2018-10-22T22:58:04+0000
+/project/craps-dice-combos-names/, craps-dice-combos-names, 0.1.127.2, A miniscule library for generating and identifying dice combos in craps, 2020-08-08T23:09:34+0000
+/project/nano-assault/, Nano-Assault, 1.0, UNKNOWN, 2017-04-23T22:16:01+0000
+/project/mpf-monitor/, mpf-monitor, 0.54.1, MPF Monitor, 2020-12-03T22:50:02+0000
+/project/rubix-cube/, rubix-cube, 0.1.9, Python Rubix Cube GUI package, 2020-03-01T19:36:37+0000
+/project/sneak-game/, sneak-game, 0.1.2, Terminal snake in Python, 2018-08-15T16:09:02+0000
+/project/balazarbrothers/, BalazarBrothers, 1.1, A 3D action/puzzle game., 2019-01-12T12:13:34+0000
+/project/solarwolf/, solarwolf, 1.6.0a4, SolarWolf is an action/arcade game written entirely in Python., 2017-01-24T06:17:35+0000
+/project/bloobs/, bloobs, 1.0, Easy shooting game, 2017-01-27T09:39:04+0000
+/project/anikom15/, anikom15, 1.0.0b1, Anikom15’s Computer Game, 2011-01-21T03:13:00+0000
+/project/colorstealthgame/, ColorStealthGame, 0.1, Abstract Pygame made for mini game jam around the theme "invisibilitity".  Two Players have to find themselves in a chaotic sea, then find each other!, 2017-08-27T13:26:12+0000
+/project/fallingsky/, fallingsky, 0.0.8, A game of falling blocks with RPG elements, uses pygame., 2015-07-23T03:34:05+0000
+/project/terminis/, terminis, 0.2.3.2, Tetris clone for terminal. Ideal for servers without GUI!, 2019-08-31T17:53:41+0000
+/project/arcade-ui/, arcade-ui, 0.0.2, A high-level library to create GUIs using Arcade., 2020-05-19T20:16:37+0000
+/project/brutalmaze/, brutalmaze, 0.9.3, Minimalist thrilling shoot 'em up game with minimalist art style, 2020-07-24T14:55:01+0000
+/project/py-snake/, py-snake, 0.0.2, CLI Snake game., 2019-12-21T01:17:48+0000
+/project/slacker-game/, slacker_game, 2.1.2, A clone of the arcade game Stacker, 2020-10-12T14:14:12+0000
+/project/xoinvader/, xoinvader, 0.2.0, (not so) small python curses space game, 2020-05-04T08:14:02+0000
+/project/worldmor/, worldmor, 0.3.1, Arcade 2D survival game., 2019-02-20T12:46:34+0000
+/project/space-aliens/, space-aliens, 1.2, top-down space shooter, 2015-08-25T21:04:49+0000
+/project/arcade-imgui/, arcade-imgui, 0.1.1, IMGUI integration for arcade, 2020-10-18T08:14:24+0000
+/project/slune/, Slune, 1.0.16, A 3D racing and car-crashing game in Python, with multiplayer mode., 2019-01-12T12:11:44+0000
+/project/smserver/, smserver, 1.0.0, An implementation of a Stepmania server, 2016-07-30T07:24:22+0000
+/project/freegames-extended/, freegames-extended, 2.3.3, A extended version of package ``freegames``, 2020-11-28T06:47:27+0000
+/project/space-escape-raksoiv/, space-escape-raksoiv, 0.4.0, Space Escape is a 2D simple endless horizontal scrolling of a space ship avoiding asteroids made with PyGame, 2020-06-07T16:56:39+0000
+/project/ruben-snake-cmd/, ruben-snake-cmd, 0.2.3, Command-line version of the classic Snake game., 2020-05-04T15:24:55+0000
+/project/trosnoth/, trosnoth, 1.15.1, Trosnoth network platform game, 2021-02-01T10:16:37+0000
+/project/pyspacewar/, pyspacewar, 1.1.1, A game loosely inspired by the original Spacewar, 2019-04-23T18:02:20+0000
+/project/pyasteroids/, pyasteroids, 0.5.2, Python asteroids game demonstrating pyagents library, 2013-05-02T12:36:33+0000
+/project/pysteroids/, pysteroids, 1.0.1, A clone of the game Asteroids, with some extra bells and whistles, 2013-09-08T15:13:49+0000
+/project/shadowloss/, shadowloss, 0.1.1, A stickman-oriented game against time, 2011-01-01T14:17:40+0000
+/project/pyxel-lander/, pyxel-lander, 1.3.1, Lunar Lander game tribute written in Python with Pyxel retro game engine, 2021-02-24T21:05:34+0000
+/project/solidpinball/, solidpinball, 0.1.1, A digital fabrication framework for pinball machines using Python, 2019-08-05T08:16:35+0000
+/project/pygameoflife/, pygameoflife, 0.1.1, An agent-based implementation of Conway's Game of Life, 2013-06-23T15:07:59+0000
+/project/arcade-gui/, arcade-gui, 0.1.0a9, GUI extension for the Python game library Arcade  https://arcade.academy/, 2020-09-17T11:05:35+0000
+/project/pyxel-catpointer/, pyxel-catpointer, 0.1.6, Silly game powered by pyxel, 2018-08-06T00:36:31+0000
+/project/aroundtheworlds/, aroundtheworlds, 0.0.1.dev1, Around the worlds in 80 days., 2018-04-15T08:31:52+0000
+/project/mpf-mc/, mpf-mc, 0.54.0, Mission Pinball Framework Media Controller, 2020-11-07T12:26:11+0000
+/project/mpf/, mpf, 0.54.6, Mission Pinball Framework, 2021-01-31T13:16:42+0000
+/project/pyroids/, pyroids, 0.9.0, Asteroids game, 2019-11-29T23:27:11+0000
+/project/bullet-dodger/, bullet-dodger, 2.1.2, fun and challenging mouse game where you must dodge bullets, 2018-05-15T12:20:46+0000
+/project/taki/, taki, 1.0, Taki Ahmagh Game, 2018-07-12T05:44:01+0000
+/project/pyschelling/, pyschelling, 0.1.0, An agent-based implementation of Schelling's segregation model, 2013-06-24T23:45:40+0000
+/project/hangthepyman/, hangthepyman, 0.1.3, Classic Hangman game with Pygame & Python touch, 2020-07-13T10:11:56+0000
+/project/naghni/, Naghni, 0.1, A breath-taking side-scroller focusing on round lifeforms, 2010-07-14T11:57:42+0000
+/project/stuntcat/, stuntcat, 0.2.0, Stuntcat is the first pygame 2 community game., 2020-12-29T15:57:04+0000
+/project/spacedinvaders/, spacedinvaders, 0.0.5, A textual, terminal spin on an arcade classic, 2020-11-30T13:41:40+0000
+/project/mpf/, mpf, 0.54.6, Mission Pinball Framework, 2021-01-31T13:16:42+0000
+/project/uberpong/, uberpong, 0.1.0a1, An Uber-engineered PONG clone, 2015-12-07T15:58:50+0000
+/project/freegames/, freegames, 2.3.2, Free Games, 2019-12-31T05:06:46+0000
+/project/rubix-cube/, rubix-cube, 0.1.9, Python Rubix Cube GUI package, 2020-03-01T19:36:37+0000
+/project/balazarbrothers/, BalazarBrothers, 1.1, A 3D action/puzzle game., 2019-01-12T12:13:34+0000
+/project/pyskool/, pyskool, 1.2.1, A remake of 'Skool Daze' and 'Back to Skool' using Pygame, 2016-05-21T11:47:29+0000
+/project/craps-dice-combos-names/, craps-dice-combos-names, 0.1.127.2, A miniscule library for generating and identifying dice combos in craps, 2020-08-08T23:09:34+0000
+/project/solarwolf/, solarwolf, 1.6.0a4, SolarWolf is an action/arcade game written entirely in Python., 2017-01-24T06:17:35+0000
+/project/colorstealthgame/, ColorStealthGame, 0.1, Abstract Pygame made for mini game jam around the theme "invisibilitity".  Two Players have to find themselves in a chaotic sea, then find each other!, 2017-08-27T13:26:12+0000
+/project/fallingsky/, fallingsky, 0.0.8, A game of falling blocks with RPG elements, uses pygame., 2015-07-23T03:34:05+0000
+/project/brutalmaze/, brutalmaze, 0.9.3, Minimalist thrilling shoot 'em up game with minimalist art style, 2020-07-24T14:55:01+0000
+/project/terminis/, terminis, 0.2.3.2, Tetris clone for terminal. Ideal for servers without GUI!, 2019-08-31T17:53:41+0000
+/project/nano-assault/, Nano-Assault, 1.0, UNKNOWN, 2017-04-23T22:16:01+0000
+/project/mpf-monitor/, mpf-monitor, 0.54.1, MPF Monitor, 2020-12-03T22:50:02+0000
+/project/sneak-game/, sneak-game, 0.1.2, Terminal snake in Python, 2018-08-15T16:09:02+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pycolab/, pycolab, 1.2, An engine for small games for reinforcement learning agents., 2018-10-22T22:58:04+0000
+/project/bloobs/, bloobs, 1.0, Easy shooting game, 2017-01-27T09:39:04+0000
+/project/anikom15/, anikom15, 1.0.0b1, Anikom15’s Computer Game, 2011-01-21T03:13:00+0000
+/project/arcade-ui/, arcade-ui, 0.0.2, A high-level library to create GUIs using Arcade., 2020-05-19T20:16:37+0000
+/project/py-snake/, py-snake, 0.0.2, CLI Snake game., 2019-12-21T01:17:48+0000
+/project/slacker-game/, slacker_game, 2.1.2, A clone of the arcade game Stacker, 2020-10-12T14:14:12+0000
+/project/xoinvader/, xoinvader, 0.2.0, (not so) small python curses space game, 2020-05-04T08:14:02+0000
+/project/worldmor/, worldmor, 0.3.1, Arcade 2D survival game., 2019-02-20T12:46:34+0000
+/project/space-aliens/, space-aliens, 1.2, top-down space shooter, 2015-08-25T21:04:49+0000
+/project/arcade-imgui/, arcade-imgui, 0.1.1, IMGUI integration for arcade, 2020-10-18T08:14:24+0000
+/project/slune/, Slune, 1.0.16, A 3D racing and car-crashing game in Python, with multiplayer mode., 2019-01-12T12:11:44+0000
+/project/pyxel-lander/, pyxel-lander, 1.3.1, Lunar Lander game tribute written in Python with Pyxel retro game engine, 2021-02-24T21:05:34+0000
+/project/smserver/, smserver, 1.0.0, An implementation of a Stepmania server, 2016-07-30T07:24:22+0000
+/project/freegames-extended/, freegames-extended, 2.3.3, A extended version of package ``freegames``, 2020-11-28T06:47:27+0000
+/project/space-escape-raksoiv/, space-escape-raksoiv, 0.4.0, Space Escape is a 2D simple endless horizontal scrolling of a space ship avoiding asteroids made with PyGame, 2020-06-07T16:56:39+0000
+/project/ruben-snake-cmd/, ruben-snake-cmd, 0.2.3, Command-line version of the classic Snake game., 2020-05-04T15:24:55+0000
+/project/trosnoth/, trosnoth, 1.15.1, Trosnoth network platform game, 2021-02-01T10:16:37+0000
+/project/mpf-mc/, mpf-mc, 0.54.0, Mission Pinball Framework Media Controller, 2020-11-07T12:26:11+0000
+/project/pyspacewar/, pyspacewar, 1.1.1, A game loosely inspired by the original Spacewar, 2019-04-23T18:02:20+0000
+/project/pyasteroids/, pyasteroids, 0.5.2, Python asteroids game demonstrating pyagents library, 2013-05-02T12:36:33+0000
+/project/pysteroids/, pysteroids, 1.0.1, A clone of the game Asteroids, with some extra bells and whistles, 2013-09-08T15:13:49+0000
+/project/shadowloss/, shadowloss, 0.1.1, A stickman-oriented game against time, 2011-01-01T14:17:40+0000
+/project/solidpinball/, solidpinball, 0.1.1, A digital fabrication framework for pinball machines using Python, 2019-08-05T08:16:35+0000
+/project/pygameoflife/, pygameoflife, 0.1.1, An agent-based implementation of Conway's Game of Life, 2013-06-23T15:07:59+0000
+/project/arcade-gui/, arcade-gui, 0.1.0a9, GUI extension for the Python game library Arcade  https://arcade.academy/, 2020-09-17T11:05:35+0000
+/project/pyxel-catpointer/, pyxel-catpointer, 0.1.6, Silly game powered by pyxel, 2018-08-06T00:36:31+0000
+/project/aroundtheworlds/, aroundtheworlds, 0.0.1.dev1, Around the worlds in 80 days., 2018-04-15T08:31:52+0000

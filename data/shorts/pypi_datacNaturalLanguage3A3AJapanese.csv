@@ -1,0 +1,392 @@
+/project/hannakageul/, hannakageul, 0.1.2, Hangeul - Kana encoding converter, 2017-04-09T16:19:03+0000
+/project/futen/, futen, 0.0.1, Conversion script to Ansible inventory file from OpenSSH configuration, 2014-03-12T13:52:19+0000
+/project/strippers-wikipedia/, strippers.wikipedia, 0.3, Wikipedia(ja) article parser, 2011-01-18T04:53:40+0000
+/project/pergenie/, pergenie, 0.1.4, perGENIE is a Web/CUI application for personal genome interpretation., 2016-02-22T13:02:27+0000
+/project/oseti/, oseti, 0.2, Dictionary based Sentiment Analysis for Japanese, 2019-10-06T16:40:05+0000
+/project/strippers-facebook/, strippers.facebook, 0.9b, Python library for Facebook Graph API, 2012-10-05T06:18:32+0000
+/project/kaidoku/, kaidoku, 0.5.6, Player, solver and creater of sudoku puzzles, 2018-08-22T06:36:01+0000
+/project/mahjongpy/, mahjongpy, 0.2.4, Japanese-style mahjong library for python, 2019-11-28T13:48:29+0000
+/project/nicotools/, nicotools, 1.0.4, Downloading videos, comments and thumbnails and handling your Mylists on niconico (ニコニコ動画)., 2018-09-18T15:03:11+0000
+/project/tryton/, tryton, 5.8.7, Tryton desktop client, 2021-04-16T17:01:24+0000
+/project/mecabwrap/, mecabwrap, 0.3.2, Yet another interface to MeCab morphological analyzer, 2020-11-29T12:17:36+0000
+/project/kotti/, Kotti, 2.0.5, A high-level, Pythonic web application framework based on Pyramid and SQLAlchemy.  It includes an extensible Content Management System called the Kotti CMS., 2021-03-16T14:53:19+0000
+/project/openlp/, OpenLP, 2.9.2, Open source Church presentation and lyrics projection application., 2020-12-21T18:27:11+0000
+/project/mikan/, mikan, 0.1.0, A Japanese language manipulation library, 2021-04-20T20:19:52+0000
+/project/pikzie/, Pikzie, 1.0.3, Pikzie is an easy to write/debug Unit Testing Framework for Python., 2016-07-07T03:14:59+0000
+/project/azoth/, azoth, 0.3.0, Sqlalchemy utilities, 2014-12-05T13:10:03+0000
+/project/jwis/, jwis, 0.3.0, Data downloader from Japan Water System Information, 2016-08-25T06:17:43+0000
+/project/resaspy/, resaspy, 0.2.1, python for RESAS API., 2017-05-10T14:19:28+0000
+/project/conoha-cli/, conoha-cli, 0.2.0, conoha-cli is a command and Python3 library for ConoHa API., 2019-03-24T11:57:06+0000
+/project/jpholiday/, jpholiday, 0.1.5, Pure-Python Japan Public Holiday Generate, 2020-11-19T16:26:07+0000
+/project/yxd/, yxd, 0.2.0, , 2021-04-10T12:28:44+0000
+/project/scaff/, scaff, 0.2.0, I'm sorry, I also I have made a scaffolding tool., 2015-09-09T08:56:28+0000
+/project/igo-python/, igo-python, 1.0.0, Python port of Igo Japanese morphological analyzer, 2018-09-24T23:56:31+0000
+/project/alkana-py/, alkana.py, 0.0.1, A tool to get the katakana reading of an alphabetical string., 2019-03-27T07:48:45+0000
+/project/shuup/, shuup, 2.6.5, E-Commerce Platform, 2021-04-22T15:58:28+0000
+/project/yvi/, yvi, 0.0.4, Retrieve youtube video info., 2020-09-04T12:15:03+0000
+/project/sphinxcontrib-indexbuilder/, sphinxcontrib-indexbuilder, 0.1.2, sphinx index building tools, 2018-11-08T13:28:21+0000
+/project/suji/, suji, 0.1.0, Japanese number notation converter, 2020-06-23T10:50:32+0000
+/project/jumandic/, jumandic, 1.0.0, JumanDic packaged for use from Python, 2020-09-02T10:04:59+0000
+/project/ariblib/, ariblib, 0.0.5, python implementation of arib-std-b10 and arib-std-b24, 2016-02-07T07:18:24+0000
+/project/pyvoicetext/, pyVoiceText, 0.1.0, VoiceText API wrapper, 2014-07-09T16:21:21+0000
+/project/kanji-lists/, kanji-lists, 0.1.0, Collection of Japanese kanji lists, 2020-06-30T09:49:52+0000
+/project/sengirifix/, sengirifix, 0.1.3, Yet another fork of sentence-level tokenizer for the Japanese text, 2020-10-20T03:33:31+0000
+/project/kueventparser/, kueventparser, 3.0.1, event parser of kyoto-univ., 2019-07-26T12:50:16+0000
+/project/pydevinit/, pydevinit, 0.1.0, Eclipse PyDev Plugin Project Initialize Script, 2015-11-21T06:46:05+0000
+/project/rabbitracer/, rabbitracer, 0.1.2, RabbitMQ Firehose Dump Script, 2014-02-08T10:52:07+0000
+/project/unidic2ud/, unidic2ud, 2.8.3, Tokenizer POS-tagger Lemmatizer and Dependency-parser for modern and contemporary Japanese, 2021-04-10T03:55:16+0000
+/project/sumy/, sumy, 0.8.1, Module for automatic summarization of text documents and HTML pages., 2019-05-19T14:38:29+0000
+/project/irori/, irori, 1.0.0, general purpose built tool, 2019-02-02T08:36:51+0000
+/project/waapuro/, waapuro, 1.0.1, A dead-simple hiragana and katakana romanization library, 2014-12-29T21:51:30+0000
+/project/nltokeniz/, nltokeniz, 0.0.5, Natural language tokenizer for documents in Python, 2017-07-16T13:23:11+0000
+/project/sorrex/, Sorrex, 1.2.0, Sorrex parser in Python., 2009-07-10T21:24:22+0000
+/project/cjkrelate/, CJKrelate, 0.1.2, Generate related Hanzi/Kanji by various means. Visually. Also, a summary table is humanly made., 2018-04-28T03:09:15+0000
+/project/vbcode/, vbcode, 0.2.0, Variable byte codes, 2017-10-28T14:37:48+0000
+/project/natto-py/, natto-py, 0.9.2, A Tasty Python Binding with MeCab(FFI-based, no SWIG or compiler necessary), 2019-12-31T13:13:26+0000
+/project/patelier/, patelier, 0.0.2.dev1, A Japanese text-line analyzing package, 2020-11-25T08:17:00+0000
+/project/yitizi/, yitizi, 0.1.1, Input a Chinese character. Output all the variant characters of it., 2021-03-24T09:00:46+0000
+/project/hasami/, hasami, 0.0.1, Sentence segmentation for japanese text, 2021-01-25T20:38:53+0000
+/project/acapy/, acapy, 0.0.12, AVALDATA AcapLib2 Python wrapper., 2021-04-12T05:44:13+0000
+/project/eacal/, eacal, 0.0.3, Python modules for accessing East Asia calendars (Sexagenary cycle, Solar term, etc.), 2015-05-17T06:14:41+0000
+/project/nova-evefamilia/, Nova-EveFamilia, 0.4.0, WebApplication Framework, 2021-02-21T20:15:40+0000
+/project/jdeppy/, jdeppy, 1.3, Python wrapper for J.DepP, 2020-04-28T08:23:00+0000
+/project/jiten/, jiten, 1.0.0, japanese cli&web dictionary based on jmdict/kanjidic, 2021-02-20T16:09:33+0000
+/project/cjklib/, cjklib, 0.3.2, Han character library for CJKV languages, 2012-05-21T22:39:16+0000
+/project/neso/, neso, 4.0.0, Standalone Client/Server for the Tryton Application Platform, 2016-05-02T13:39:17+0000
+/project/youcab/, youcab, 0.1.3, Converts MeCab parsing results to Python objects., 2021-01-04T12:01:18+0000
+/project/mercurial/, mercurial, 5.7.1, Fast scalable distributed SCM (revision control, version control) system, 2021-03-09T05:51:36+0000
+/project/jpbizday/, jpbizday, 0.0.3, Pure-Python Japan Business Day Generator, 2020-02-02T17:05:14+0000
+/project/ycd/, ycd, 0.9.0, , 2021-04-11T04:21:59+0000
+/project/sphinxcontrib-osaka/, sphinxcontrib-osaka, 0.1dev-20100410, Sphinx extension osaka, 2010-04-10T06:39:50+0000
+/project/nagisa/, nagisa, 0.2.7, A Japanese tokenizer based on recurrent neural networks, 2020-07-06T17:01:27+0000
+/project/python-backlog/, python-backlog, 0.2.0, Backlog API v2 wrapper, 2021-03-17T16:52:25+0000
+/project/toiro/, toiro, 0.0.8, A comparison tool of Japanese tokenizers, 2020-11-02T18:14:59+0000
+/project/mecabpr/, mecabpr, 0.0.1, , 2019-04-15T14:17:51+0000
+/project/zenhan/, zenhan, 0.5, Converter between Full-width Japanese and Half-width Japanese, 2014-03-04T17:50:23+0000
+/project/cjklib3/, cjklib3, 0.0.3, Han character library for CJKV languages, 2021-03-31T19:43:16+0000
+/project/genenga/, genenga, 0.7.0, Generate Nengajo(Japanese new year card) pdf from address list., 2019-04-07T01:43:10+0000
+/project/strippers-mixi/, strippers.mixi, 1.0, Python library for mixi Graph API, 2012-02-05T03:11:33+0000
+/project/aiospotipy/, aiospotipy, 0.0.2, an API wrapper for Spotify, 2019-03-09T14:40:15+0000
+/project/pkg-init/, pkg-init, 1.0.1, Initialize on a new package., 2018-09-26T15:39:29+0000
+/project/aquestalk-python/, AquesTalk-python, 1.1, Python Wrapper for AquesTalk (Old License), 2018-12-20T08:44:52+0000
+/project/engineer-number/, engineer_number, 1.0.4, Engineer Number calculate, 2013-02-17T08:25:02+0000
+/project/pangu/, pangu, 4.0.6.1, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-02-08T18:17:28+0000
+/project/knp-utils/, knp-utils, 0.42, Wrapper scripts for Japanese parser `KNP`, 2019-01-03T03:10:38+0000
+/project/niconico-translator/, niconico-translator, 0.1.5, Translating comments on Nico Nico Douga (ニコニコ動画)., 2015-09-19T14:23:10+0000
+/project/mojimoji2/, mojimoji2, 0.1.3, A fast converter between Japanese hankaku and zenkaku characters, 2019-12-16T16:30:23+0000
+/project/justhello2/, justHello2, 0.0.2, only print Hello World, 2015-01-29T13:10:34+0000
+/project/django-maro/, django-maro, 0.0.2, `django-maro` is utility for django., 2011-06-26T12:49:04+0000
+/project/rfgengou/, rfGengou, 0.4, Translate A.D. to Regnal year, and other in Japanese., 2019-05-22T01:41:37+0000
+/project/neologdn/, neologdn, 0.4, Japanese text normalizer for mecab-neologd, 2018-12-06T12:14:41+0000
+/project/jumanpp-batch/, jumanpp-batch, 0.1.2, Apply juman++ to batch inputs in parallel, 2020-10-16T15:20:55+0000
+/project/cockatrice/, cockatrice, 0.7.1, Full text search and indexing server., 2019-01-15T00:02:58+0000
+/project/jaconv/, jaconv, 0.3, Pure-Python Japanese character interconverter for Hiragana, Katakana, Hankaku, Zenkaku and more, 2021-03-29T07:30:34+0000
+/project/sinetstream-kafka/, sinetstream-kafka, 1.5.2, Apache Kafka plugin for SINETStream library, 2021-04-23T14:05:07+0000
+/project/baruwa/, baruwa, 2.0.9, Ajax enabled MailScanner web frontend, 2015-08-29T09:50:59+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/backlogapi/, backlogapi, 0.1.5, Backlog client library for Python, 2018-05-15T03:47:01+0000
+/project/sb3/, sb3, 0.1, sb3 parses SB3, 2019-09-17T02:57:24+0000
+/project/myouji-kenchi/, myouji-kenchi, 1.0.1, Determine if romanized Japanese names are family names, 2018-06-14T09:00:47+0000
+/project/eiputil/, eiputil, 0.0.2, AWS EC2 EIP Utility., 2020-03-09T14:37:46+0000
+/project/a2pcej/, a2pcej, 0.2.3, a2pcej, "convert Alphabet to Phonetic Code in English and Japanease.", 2018-01-16T08:57:09+0000
+/project/potranslator/, potranslator, 1.1.5, A python package to easily translate po and pot files in any language supported by Google Translate., 2018-07-28T05:53:06+0000
+/project/fugashi/, fugashi, 1.1.0, A Cython MeCab wrapper for fast, pythonic Japanese tokenization., 2021-01-25T06:21:28+0000
+/project/romaji/, romaji, 0.0.2, A converter to romanize Japanese hiragana/katakana string, 2019-01-05T10:12:44+0000
+/project/freebible/, freebible, 0.1a8, A bible processing toolkit with free bible data for Python, 2019-07-03T02:44:33+0000
+/project/spacy-syncha/, spacy-syncha, 0.8.4, SynCha-CaboCha-MeCab wrapper for spaCy, 2021-03-11T05:45:32+0000
+/project/cabocha-python/, cabocha-python, 0.69.1, Python wrapper for CaboCha: Japanese Dependency Structure Analyzer, 2019-09-20T18:56:47+0000
+/project/zunda-python/, zunda-python, 0.1.3, Zunda: Japanese Enhanced Modality Analyzer client for Python, 2019-11-30T09:45:54+0000
+/project/pydumpfs/, PyDumpFS, 1.0.8, Python base pseudo plan9's dump file system, 2009-07-25T16:55:31+0000
+/project/rapidrush/, rapidrush, 1.1.0, Python project template. Rapid start for projects., 2019-02-03T18:07:36+0000
+/project/jamdict-data/, jamdict-data, 1.5, Precompiled database for jamdict library for manipulating Jim Breen's JMdict, KanjiDic2, KRADFILE and JMnedict. Compiled date: 17 Apr 2021., 2021-04-17T09:02:19+0000
+/project/django-survey-and-report/, django-survey-and-report, 1.3.33, A django survey app, based on and compatible with "django-survey". You will be able to migrate your data from an ancient version of django-survey, but it has been ported to python 3 and you can export results as CSV or PDF using your native language., 2021-01-24T13:57:33+0000
+/project/pyorg/, pyorg, 0.1.8, The org-mode parser fro python, 2017-01-22T14:35:45+0000
+/project/akerun-sum/, akerun-sum, 1.2.2, Enter and leave data totalization program for Akerun, 2020-09-28T03:10:25+0000
+/project/word-counter/, word-counter, 0.0.3, Count the number of words on the specified URL(s)., 2020-02-24T03:28:20+0000
+/project/remchecker/, remchecker, 0.1dev, check followers remove, 2010-09-09T17:18:15+0000
+/project/jadoc/, jadoc, 0.2.5, Tokenizes Japanese documents to enable CRUD operations., 2021-02-02T19:27:30+0000
+/project/jamdict/, jamdict, 0.1a9, Python library for manipulating Jim Breen's JMdict, KanjiDic2, KRADFILE and JMnedict, 2021-04-19T04:40:49+0000
+/project/simple-task-queue/, simple-task-queue, 0.1.0, single host single process task queue, 2017-11-27T01:06:01+0000
+/project/unidic-combo/, unidic-combo, 1.2.8, UniDic2UD + COMBO-pytorch wrapper for spaCy, 2021-04-10T04:55:15+0000
+/project/sengiri/, sengiri, 0.2.1, Yet another sentence-level tokenizer for the Japanese text, 2019-10-11T17:44:11+0000
+/project/pybacklogpy/, pybacklogpy, 0.11, A library for backlog api, 2019-12-16T01:38:38+0000
+/project/rfzenhan/, rfZenHan, 0.4, Translate full-width to half-width, and other in Japanese., 2014-02-25T10:17:22+0000
+/project/rhyme-haiker/, rhyme-haiker, 2.0.6, A rhyming haiku generator., 2016-10-13T03:35:11+0000
+/project/jctconv/, jctconv, 0.1.2, Pure-Python Japanese character interconverter for Hiragana, Katakana, Hankaku and Zenkaku, 2016-03-29T11:11:13+0000
+/project/ipadic/, ipadic, 1.0.0, IPAdic packaged for Python, 2020-07-20T03:35:40+0000
+/project/jma/, jma, 1.0.0, Data downloader from Japan Meteorological Agency, 2015-04-18T06:59:22+0000
+/project/rakutenma/, rakutenma, 0.3.3, morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese, 2017-05-22T07:46:59+0000
+/project/pymal/, pymal, 0.6, A python api for the website MyAnimeList (or MAL)., 2014-10-03T09:58:18+0000
+/project/sinetstream/, sinetstream, 1.5.2, Library for operating messaging systems such as Apache Kafka and MQTT with the same API., 2021-04-23T14:03:57+0000
+/project/japaneezu/, japaneezu, 0.0.1, A curses/console foreign language language study tool. (Currently limited to Japanese.), 2014-12-17T17:37:39+0000
+/project/whoosh-igo/, whoosh-igo, 0.7, tokenizers for Whoosh designed for Japanese language, 2012-04-14T09:17:03+0000
+/project/ideograph/, ideograph, 1.1.0, Tool for finding ideographic (e.g. Han) characters from their components, 2019-03-31T00:30:13+0000
+/project/cmonkey/, cmonkey, 0.1.1, Simple scripting framework for Apache CloudStack, 2014-03-12T15:27:38+0000
+/project/python-shukujitsu/, python-shukujitsu, 2021.2.1, Python Japanese holidays library based on static data published by Cabinet Office, Government of Japan, 2021-02-01T05:40:15+0000
+/project/kanjigrid/, kanjigrid, 0.0.4, Create Kanji Grids out of Text, 2021-03-24T20:47:30+0000
+/project/suparunidic/, suparunidic, 0.8.8, Tokenizer POS-tagger Lemmatizer and Dependency-parser for modern and contemporary Japanese with BERT models, 2021-04-15T22:38:54+0000
+/project/misskey-py/, Misskey.py, 3.0.0, The Misskey library for Python. Misskey is made by syuilo., 2020-06-06T06:53:53+0000
+/project/asa/, asa, 0.2, Japanese Argument Structure Analyzer (ASA) client for Python, 2019-02-16T14:53:45+0000
+/project/wanakana/, wanakana, 1.0.1, A library to assist in detecting Japanese text, 2018-06-02T19:54:05+0000
+/project/japanese/, japanese, 0.2.1, , 2018-05-25T06:09:12+0000
+/project/natto-py-fork/, natto-py-fork, 0.9.0, A Tasty Python Binding with MeCab(FFI-based, no SWIG or compiler necessary), 2019-03-07T15:10:19+0000
+/project/polyglot/, polyglot, 16.7.4, Polyglot is a natural language pipeline that supports massive multilingual applications., 2016-07-03T20:05:40+0000
+/project/unidic/, unidic, 1.0.3, UniDic packaged for Python, 2020-10-09T02:56:42+0000
+/project/jphelper/, jphelper, 0.9.1, A collection of japanese text and number manipulation tools., 2018-05-23T14:25:09+0000
+/project/radiko/, radiko, 1.4.1, Radiko: Python製の非公式Radikoライブラリ, 2021-01-13T06:38:16+0000
+/project/unidic-lite/, unidic-lite, 1.0.8, A small version of UniDic packaged for Python, 2021-01-25T06:07:54+0000
+/project/nlnormaliz/, nlnormaliz, 0.0.4, Natural language normalizer for documents in Python, 2017-07-16T13:37:31+0000
+/project/pangu2/, pangu2, 5.0, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-08-02T07:48:50+0000
+/project/jptokenpreprocessing/, JpTokenPreprocessing, 0.1.5a2, JpTokenPreprocessing is Python library for token preprocessing., 2015-10-12T13:53:20+0000
+/project/django-press/, django-press, 0.1.13, Easy start web app without coding, 2020-02-11T13:21:43+0000
+/project/meteoroid-cli/, meteoroid-cli, 1.0.2, CLI Client app for Meteoroid which is one of FIWARE components, 2021-03-29T11:14:26+0000
+/project/mecab-python3/, mecab-python3, 1.0.3, Python wrapper for the MeCab morphological analyzer for Japanese, 2020-11-09T11:13:32+0000
+/project/mojimoji/, mojimoji, 0.0.11, A fast converter between Japanese hankaku and zenkaku characters, 2020-05-16T08:46:56+0000
+/project/jptokenpreprocessing/, JpTokenPreprocessing, 0.1.5a2, JpTokenPreprocessing is Python library for token preprocessing., 2015-10-12T13:53:20+0000
+/project/docutils/, docutils, 0.17.1, Docutils -- Python Documentation Utilities, 2021-04-17T14:13:24+0000
+/project/gitticket/, gitticket, 0.5.1, Git and issue tracking system integration, 2013-06-21T23:25:47+0000
+/project/fairy/, fairy, 0.1.0, Python project., 2019-02-23T11:11:43+0000
+/project/maro/, maro, 0.0.1, `maro` is a package for exercises., 2011-06-25T15:07:23+0000
+/project/kanaconv/, kanaconv, 1.0.1, Converts hiragana and katakana to rōmaji according to Modified Hepburn transliteration rules, 2016-02-20T17:07:19+0000
+/project/spacy-chapas/, spacy-chapas, 0.8.1, ChaPAS-CaboCha-MeCab wrapper for spaCy, 2021-03-11T05:46:55+0000
+/project/skkdictutils/, skkdictutils, 0.1.0, SKK dictionary utility functions, 2020-09-17T21:02:17+0000
+/project/tekorrect/, tekorrect, 0.0.3, 用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。, 2020-01-09T07:32:08+0000
+/project/ideograph/, ideograph, 1.1.0, Tool for finding ideographic (e.g. Han) characters from their components, 2019-03-31T00:30:13+0000
+/project/cmonkey/, cmonkey, 0.1.1, Simple scripting framework for Apache CloudStack, 2014-03-12T15:27:38+0000
+/project/python-shukujitsu/, python-shukujitsu, 2021.2.1, Python Japanese holidays library based on static data published by Cabinet Office, Government of Japan, 2021-02-01T05:40:15+0000
+/project/kanjigrid/, kanjigrid, 0.0.4, Create Kanji Grids out of Text, 2021-03-24T20:47:30+0000
+/project/suparunidic/, suparunidic, 0.8.8, Tokenizer POS-tagger Lemmatizer and Dependency-parser for modern and contemporary Japanese with BERT models, 2021-04-15T22:38:54+0000
+/project/misskey-py/, Misskey.py, 3.0.0, The Misskey library for Python. Misskey is made by syuilo., 2020-06-06T06:53:53+0000
+/project/asa/, asa, 0.2, Japanese Argument Structure Analyzer (ASA) client for Python, 2019-02-16T14:53:45+0000
+/project/wanakana/, wanakana, 1.0.1, A library to assist in detecting Japanese text, 2018-06-02T19:54:05+0000
+/project/japanese/, japanese, 0.2.1, , 2018-05-25T06:09:12+0000
+/project/natto-py-fork/, natto-py-fork, 0.9.0, A Tasty Python Binding with MeCab(FFI-based, no SWIG or compiler necessary), 2019-03-07T15:10:19+0000
+/project/polyglot/, polyglot, 16.7.4, Polyglot is a natural language pipeline that supports massive multilingual applications., 2016-07-03T20:05:40+0000
+/project/unidic/, unidic, 1.0.3, UniDic packaged for Python, 2020-10-09T02:56:42+0000
+/project/jphelper/, jphelper, 0.9.1, A collection of japanese text and number manipulation tools., 2018-05-23T14:25:09+0000
+/project/osetifix/, osetifix, 0.1.2, Dictionary based Sentiment Analysis for Japanese, 2020-10-20T04:52:50+0000
+/project/cutlet/, cutlet, 0.1.17, Romaji converter, 2021-01-11T06:31:20+0000
+/project/sinetstream-type-image/, sinetstream-type-image, 1.5.2, Image Type plugin for SINETStream library, 2021-04-23T14:04:43+0000
+/project/word2vec-wikification-py/, word2vec-wikification-py, 0.17, A package to run wikification, 2017-03-15T22:12:01+0000
+/project/django-crud-app/, django-crud-app, 0.2.3, Easy start crud app, 2019-12-19T15:33:02+0000
+/project/wanikanitools/, WaniKaniTools, 0.3.0, Working with WaniKani API, login, and Community., 2018-04-28T13:37:45+0000
+/project/iasap/, iasap, 0.0.2, interactive as soon as possible, 2015-03-09T14:07:35+0000
+/project/pytchat/, pytchat, 0.5.3, a python library for fetching youtube live chat., 2021-02-10T17:02:52+0000
+/project/justhello/, justHello, 0.0.20, only print Hello World, 2015-01-29T13:26:49+0000
+/project/udkundoku/, udkundoku, 2.0.6, Classical Chinese to Modern Japanese Translator, 2021-04-15T14:39:50+0000
+/project/japaneezu/, japaneezu, 0.0.1, A curses/console foreign language language study tool. (Currently limited to Japanese.), 2014-12-17T17:37:39+0000
+/project/whoosh-igo/, whoosh-igo, 0.7, tokenizers for Whoosh designed for Japanese language, 2012-04-14T09:17:03+0000
+/project/documentfeatureselection/, DocumentFeatureSelection, 1.5, Various methods of feature selection from Text Data, 2018-10-24T16:21:16+0000
+/project/boip/, Boip, 0.0.3, A tool for creating Boiler Plates., 2020-09-28T15:33:32+0000
+/project/maro/, maro, 0.0.1, `maro` is a package for exercises., 2011-06-25T15:07:23+0000
+/project/kanaconv/, kanaconv, 1.0.1, Converts hiragana and katakana to rōmaji according to Modified Hepburn transliteration rules, 2016-02-20T17:07:19+0000
+/project/jctconv/, jctconv, 0.1.2, Pure-Python Japanese character interconverter for Hiragana, Katakana, Hankaku and Zenkaku, 2016-03-29T11:11:13+0000
+/project/ipadic/, ipadic, 1.0.0, IPAdic packaged for Python, 2020-07-20T03:35:40+0000
+/project/pymal/, pymal, 0.6, A python api for the website MyAnimeList (or MAL)., 2014-10-03T09:58:18+0000
+/project/sinetstream/, sinetstream, 1.5.2, Library for operating messaging systems such as Apache Kafka and MQTT with the same API., 2021-04-23T14:03:57+0000
+/project/janome/, Janome, 0.4.1, Japanese morphological analysis engine., 2020-09-21T10:15:02+0000
+/project/abcluster/, AbCluster, 1.1.0, antibody sequence analysis including translation, numbering and clustering, 2021-02-11T10:47:47+0000
+/project/turbolucene/, TurboLucene, 0.2.2, TurboLucene is a TurboGears extension that allows applications to easily use the PyLucene full-text search engine., 2007-05-17T02:10:23+0000
+/project/jprocessing/, jProcessing, 0.1, Japanese NLP Utilities, 2012-01-27T10:23:20+0000
+/project/hebireki/, hebireki, 0.2.3, Simple implementation of the Traditional Japanese Calendar system (Wareki), 2019-04-30T04:14:09+0000
+/project/iso8583-module/, ISO8583-Module, 1.3, ISO8583 LIBRARY, 2013-10-07T13:09:18+0000
+/project/myougiden/, myougiden, 0.8.9, Japanese/English command-line dictionary, 2021-03-16T23:15:51+0000
+/project/py-hasami/, py-hasami, 0.0.1, Sentence segmentation for japanese text, 2021-01-24T20:25:23+0000
+/project/mecab-python-windows/, mecab-python-windows, 0.996.3, Python wrapper for CaboCha: Japanese Dependency Structure Analyzer, 2019-03-03T17:13:42+0000
+/project/guess/, guess, 1.0.5, Japanese charactor encoding detector, 2014-09-29T07:09:31+0000
+/project/hannakageul/, hannakageul, 0.1.2, Hangeul - Kana encoding converter, 2017-04-09T16:19:03+0000
+/project/futen/, futen, 0.0.1, Conversion script to Ansible inventory file from OpenSSH configuration, 2014-03-12T13:52:19+0000
+/project/strippers-wikipedia/, strippers.wikipedia, 0.3, Wikipedia(ja) article parser, 2011-01-18T04:53:40+0000
+/project/pergenie/, pergenie, 0.1.4, perGENIE is a Web/CUI application for personal genome interpretation., 2016-02-22T13:02:27+0000
+/project/oseti/, oseti, 0.2, Dictionary based Sentiment Analysis for Japanese, 2019-10-06T16:40:05+0000
+/project/strippers-facebook/, strippers.facebook, 0.9b, Python library for Facebook Graph API, 2012-10-05T06:18:32+0000
+/project/kanji-lists/, kanji-lists, 0.1.0, Collection of Japanese kanji lists, 2020-06-30T09:49:52+0000
+/project/kaidoku/, kaidoku, 0.5.6, Player, solver and creater of sudoku puzzles, 2018-08-22T06:36:01+0000
+/project/mahjongpy/, mahjongpy, 0.2.4, Japanese-style mahjong library for python, 2019-11-28T13:48:29+0000
+/project/nicotools/, nicotools, 1.0.4, Downloading videos, comments and thumbnails and handling your Mylists on niconico (ニコニコ動画)., 2018-09-18T15:03:11+0000
+/project/tryton/, tryton, 5.8.7, Tryton desktop client, 2021-04-16T17:01:24+0000
+/project/mecabwrap/, mecabwrap, 0.3.2, Yet another interface to MeCab morphological analyzer, 2020-11-29T12:17:36+0000
+/project/kotti/, Kotti, 2.0.5, A high-level, Pythonic web application framework based on Pyramid and SQLAlchemy.  It includes an extensible Content Management System called the Kotti CMS., 2021-03-16T14:53:19+0000
+/project/openlp/, OpenLP, 2.9.2, Open source Church presentation and lyrics projection application., 2020-12-21T18:27:11+0000
+/project/mikan/, mikan, 0.1.0, A Japanese language manipulation library, 2021-04-20T20:19:52+0000
+/project/pikzie/, Pikzie, 1.0.3, Pikzie is an easy to write/debug Unit Testing Framework for Python., 2016-07-07T03:14:59+0000
+/project/azoth/, azoth, 0.3.0, Sqlalchemy utilities, 2014-12-05T13:10:03+0000
+/project/jwis/, jwis, 0.3.0, Data downloader from Japan Water System Information, 2016-08-25T06:17:43+0000
+/project/resaspy/, resaspy, 0.2.1, python for RESAS API., 2017-05-10T14:19:28+0000
+/project/conoha-cli/, conoha-cli, 0.2.0, conoha-cli is a command and Python3 library for ConoHa API., 2019-03-24T11:57:06+0000
+/project/sengirifix/, sengirifix, 0.1.3, Yet another fork of sentence-level tokenizer for the Japanese text, 2020-10-20T03:33:31+0000
+/project/jpholiday/, jpholiday, 0.1.5, Pure-Python Japan Public Holiday Generate, 2020-11-19T16:26:07+0000
+/project/kueventparser/, kueventparser, 3.0.1, event parser of kyoto-univ., 2019-07-26T12:50:16+0000
+/project/pydevinit/, pydevinit, 0.1.0, Eclipse PyDev Plugin Project Initialize Script, 2015-11-21T06:46:05+0000
+/project/jumandic/, jumandic, 1.0.0, JumanDic packaged for use from Python, 2020-09-02T10:04:59+0000
+/project/ariblib/, ariblib, 0.0.5, python implementation of arib-std-b10 and arib-std-b24, 2016-02-07T07:18:24+0000
+/project/pyvoicetext/, pyVoiceText, 0.1.0, VoiceText API wrapper, 2014-07-09T16:21:21+0000
+/project/rabbitracer/, rabbitracer, 0.1.2, RabbitMQ Firehose Dump Script, 2014-02-08T10:52:07+0000
+/project/yxd/, yxd, 0.2.0, , 2021-04-10T12:28:44+0000
+/project/scaff/, scaff, 0.2.0, I'm sorry, I also I have made a scaffolding tool., 2015-09-09T08:56:28+0000
+/project/unidic2ud/, unidic2ud, 2.8.3, Tokenizer POS-tagger Lemmatizer and Dependency-parser for modern and contemporary Japanese, 2021-04-10T03:55:16+0000
+/project/sumy/, sumy, 0.8.1, Module for automatic summarization of text documents and HTML pages., 2019-05-19T14:38:29+0000
+/project/igo-python/, igo-python, 1.0.0, Python port of Igo Japanese morphological analyzer, 2018-09-24T23:56:31+0000
+/project/alkana-py/, alkana.py, 0.0.1, A tool to get the katakana reading of an alphabetical string., 2019-03-27T07:48:45+0000
+/project/shuup/, shuup, 2.6.5, E-Commerce Platform, 2021-04-22T15:58:28+0000
+/project/yvi/, yvi, 0.0.4, Retrieve youtube video info., 2020-09-04T12:15:03+0000
+/project/irori/, irori, 1.0.0, general purpose built tool, 2019-02-02T08:36:51+0000
+/project/waapuro/, waapuro, 1.0.1, A dead-simple hiragana and katakana romanization library, 2014-12-29T21:51:30+0000
+/project/nltokeniz/, nltokeniz, 0.0.5, Natural language tokenizer for documents in Python, 2017-07-16T13:23:11+0000
+/project/sphinxcontrib-indexbuilder/, sphinxcontrib-indexbuilder, 0.1.2, sphinx index building tools, 2018-11-08T13:28:21+0000
+/project/suji/, suji, 0.1.0, Japanese number notation converter, 2020-06-23T10:50:32+0000
+/project/sorrex/, Sorrex, 1.2.0, Sorrex parser in Python., 2009-07-10T21:24:22+0000
+/project/jumanpp-batch/, jumanpp-batch, 0.1.2, Apply juman++ to batch inputs in parallel, 2020-10-16T15:20:55+0000
+/project/cockatrice/, cockatrice, 0.7.1, Full text search and indexing server., 2019-01-15T00:02:58+0000
+/project/vbcode/, vbcode, 0.2.0, Variable byte codes, 2017-10-28T14:37:48+0000
+/project/sinetstream-kafka/, sinetstream-kafka, 1.5.2, Apache Kafka plugin for SINETStream library, 2021-04-23T14:05:07+0000
+/project/baruwa/, baruwa, 2.0.9, Ajax enabled MailScanner web frontend, 2015-08-29T09:50:59+0000
+/project/bcnc/, bCNC, 0.9.14.317, Swiss army knife for all your CNC/g-code needs, 2021-03-05T12:40:36+0000
+/project/backlogapi/, backlogapi, 0.1.5, Backlog client library for Python, 2018-05-15T03:47:01+0000
+/project/sb3/, sb3, 0.1, sb3 parses SB3, 2019-09-17T02:57:24+0000
+/project/hasami/, hasami, 0.0.1, Sentence segmentation for japanese text, 2021-01-25T20:38:53+0000
+/project/jiten/, jiten, 1.0.0, japanese cli&web dictionary based on jmdict/kanjidic, 2021-02-20T16:09:33+0000
+/project/neso/, neso, 4.0.0, Standalone Client/Server for the Tryton Application Platform, 2016-05-02T13:39:17+0000
+/project/youcab/, youcab, 0.1.3, Converts MeCab parsing results to Python objects., 2021-01-04T12:01:18+0000
+/project/mercurial/, mercurial, 5.7.1, Fast scalable distributed SCM (revision control, version control) system, 2021-03-09T05:51:36+0000
+/project/jpbizday/, jpbizday, 0.0.3, Pure-Python Japan Business Day Generator, 2020-02-02T17:05:14+0000
+/project/ycd/, ycd, 0.9.0, , 2021-04-11T04:21:59+0000
+/project/eiputil/, eiputil, 0.0.2, AWS EC2 EIP Utility., 2020-03-09T14:37:46+0000
+/project/a2pcej/, a2pcej, 0.2.3, a2pcej, "convert Alphabet to Phonetic Code in English and Japanease.", 2018-01-16T08:57:09+0000
+/project/freebible/, freebible, 0.1a8, A bible processing toolkit with free bible data for Python, 2019-07-03T02:44:33+0000
+/project/jamdict-data/, jamdict-data, 1.5, Precompiled database for jamdict library for manipulating Jim Breen's JMdict, KanjiDic2, KRADFILE and JMnedict. Compiled date: 17 Apr 2021., 2021-04-17T09:02:19+0000
+/project/django-survey-and-report/, django-survey-and-report, 1.3.33, A django survey app, based on and compatible with "django-survey". You will be able to migrate your data from an ancient version of django-survey, but it has been ported to python 3 and you can export results as CSV or PDF using your native language., 2021-01-24T13:57:33+0000
+/project/pyorg/, pyorg, 0.1.8, The org-mode parser fro python, 2017-01-22T14:35:45+0000
+/project/akerun-sum/, akerun-sum, 1.2.2, Enter and leave data totalization program for Akerun, 2020-09-28T03:10:25+0000
+/project/zenhan/, zenhan, 0.5, Converter between Full-width Japanese and Half-width Japanese, 2014-03-04T17:50:23+0000
+/project/cjklib3/, cjklib3, 0.0.3, Han character library for CJKV languages, 2021-03-31T19:43:16+0000
+/project/genenga/, genenga, 0.7.0, Generate Nengajo(Japanese new year card) pdf from address list., 2019-04-07T01:43:10+0000
+/project/strippers-mixi/, strippers.mixi, 1.0, Python library for mixi Graph API, 2012-02-05T03:11:33+0000
+/project/aiospotipy/, aiospotipy, 0.0.2, an API wrapper for Spotify, 2019-03-09T14:40:15+0000
+/project/pkg-init/, pkg-init, 1.0.1, Initialize on a new package., 2018-09-26T15:39:29+0000
+/project/aquestalk-python/, AquesTalk-python, 1.1, Python Wrapper for AquesTalk (Old License), 2018-12-20T08:44:52+0000
+/project/engineer-number/, engineer_number, 1.0.4, Engineer Number calculate, 2013-02-17T08:25:02+0000
+/project/pangu/, pangu, 4.0.6.1, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-02-08T18:17:28+0000
+/project/cjkrelate/, CJKrelate, 0.1.2, Generate related Hanzi/Kanji by various means. Visually. Also, a summary table is humanly made., 2018-04-28T03:09:15+0000
+/project/knp-utils/, knp-utils, 0.42, Wrapper scripts for Japanese parser `KNP`, 2019-01-03T03:10:38+0000
+/project/niconico-translator/, niconico-translator, 0.1.5, Translating comments on Nico Nico Douga (ニコニコ動画)., 2015-09-19T14:23:10+0000
+/project/mojimoji2/, mojimoji2, 0.1.3, A fast converter between Japanese hankaku and zenkaku characters, 2019-12-16T16:30:23+0000
+/project/justhello2/, justHello2, 0.0.2, only print Hello World, 2015-01-29T13:10:34+0000
+/project/django-maro/, django-maro, 0.0.2, `django-maro` is utility for django., 2011-06-26T12:49:04+0000
+/project/rfgengou/, rfGengou, 0.4, Translate A.D. to Regnal year, and other in Japanese., 2019-05-22T01:41:37+0000
+/project/neologdn/, neologdn, 0.4, Japanese text normalizer for mecab-neologd, 2018-12-06T12:14:41+0000
+/project/jaconv/, jaconv, 0.3, Pure-Python Japanese character interconverter for Hiragana, Katakana, Hankaku, Zenkaku and more, 2021-03-29T07:30:34+0000
+/project/natto-py/, natto-py, 0.9.2, A Tasty Python Binding with MeCab(FFI-based, no SWIG or compiler necessary), 2019-12-31T13:13:26+0000
+/project/patelier/, patelier, 0.0.2.dev1, A Japanese text-line analyzing package, 2020-11-25T08:17:00+0000
+/project/yitizi/, yitizi, 0.1.1, Input a Chinese character. Output all the variant characters of it., 2021-03-24T09:00:46+0000
+/project/acapy/, acapy, 0.0.12, AVALDATA AcapLib2 Python wrapper., 2021-04-12T05:44:13+0000
+/project/eacal/, eacal, 0.0.3, Python modules for accessing East Asia calendars (Sexagenary cycle, Solar term, etc.), 2015-05-17T06:14:41+0000
+/project/nova-evefamilia/, Nova-EveFamilia, 0.4.0, WebApplication Framework, 2021-02-21T20:15:40+0000
+/project/jdeppy/, jdeppy, 1.3, Python wrapper for J.DepP, 2020-04-28T08:23:00+0000
+/project/myouji-kenchi/, myouji-kenchi, 1.0.1, Determine if romanized Japanese names are family names, 2018-06-14T09:00:47+0000
+/project/cjklib/, cjklib, 0.3.2, Han character library for CJKV languages, 2012-05-21T22:39:16+0000
+/project/sphinxcontrib-osaka/, sphinxcontrib-osaka, 0.1dev-20100410, Sphinx extension osaka, 2010-04-10T06:39:50+0000
+/project/potranslator/, potranslator, 1.1.5, A python package to easily translate po and pot files in any language supported by Google Translate., 2018-07-28T05:53:06+0000
+/project/fugashi/, fugashi, 1.1.0, A Cython MeCab wrapper for fast, pythonic Japanese tokenization., 2021-01-25T06:21:28+0000
+/project/nagisa/, nagisa, 0.2.7, A Japanese tokenizer based on recurrent neural networks, 2020-07-06T17:01:27+0000
+/project/python-backlog/, python-backlog, 0.2.0, Backlog API v2 wrapper, 2021-03-17T16:52:25+0000
+/project/romaji/, romaji, 0.0.2, A converter to romanize Japanese hiragana/katakana string, 2019-01-05T10:12:44+0000
+/project/toiro/, toiro, 0.0.8, A comparison tool of Japanese tokenizers, 2020-11-02T18:14:59+0000
+/project/mecabpr/, mecabpr, 0.0.1, , 2019-04-15T14:17:51+0000
+/project/spacy-syncha/, spacy-syncha, 0.8.4, SynCha-CaboCha-MeCab wrapper for spaCy, 2021-03-11T05:45:32+0000
+/project/cabocha-python/, cabocha-python, 0.69.1, Python wrapper for CaboCha: Japanese Dependency Structure Analyzer, 2019-09-20T18:56:47+0000
+/project/zunda-python/, zunda-python, 0.1.3, Zunda: Japanese Enhanced Modality Analyzer client for Python, 2019-11-30T09:45:54+0000
+/project/pydumpfs/, PyDumpFS, 1.0.8, Python base pseudo plan9's dump file system, 2009-07-25T16:55:31+0000
+/project/rapidrush/, rapidrush, 1.1.0, Python project template. Rapid start for projects., 2019-02-03T18:07:36+0000
+/project/word-counter/, word-counter, 0.0.3, Count the number of words on the specified URL(s)., 2020-02-24T03:28:20+0000
+/project/remchecker/, remchecker, 0.1dev, check followers remove, 2010-09-09T17:18:15+0000
+/project/jadoc/, jadoc, 0.2.5, Tokenizes Japanese documents to enable CRUD operations., 2021-02-02T19:27:30+0000
+/project/jamdict/, jamdict, 0.1a9, Python library for manipulating Jim Breen's JMdict, KanjiDic2, KRADFILE and JMnedict, 2021-04-19T04:40:49+0000
+/project/simple-task-queue/, simple-task-queue, 0.1.0, single host single process task queue, 2017-11-27T01:06:01+0000
+/project/unidic-combo/, unidic-combo, 1.2.8, UniDic2UD + COMBO-pytorch wrapper for spaCy, 2021-04-10T04:55:15+0000
+/project/sengiri/, sengiri, 0.2.1, Yet another sentence-level tokenizer for the Japanese text, 2019-10-11T17:44:11+0000
+/project/pybacklogpy/, pybacklogpy, 0.11, A library for backlog api, 2019-12-16T01:38:38+0000
+/project/rfzenhan/, rfZenHan, 0.4, Translate full-width to half-width, and other in Japanese., 2014-02-25T10:17:22+0000
+/project/sprite/, sprite, 0.1.0, Python project., 2019-02-23T11:08:30+0000
+/project/pymlask/, pymlask, 0.3.2, Emotion analyzer for Japanese, 2019-07-09T13:17:31+0000
+/project/uectl/, uectl, 0.2.1, @uec_tlに使用するマルコフ連鎖による文章生成とテキスト処理のためのパッケージ, 2020-10-16T10:54:41+0000
+/project/osetifix/, osetifix, 0.1.2, Dictionary based Sentiment Analysis for Japanese, 2020-10-20T04:52:50+0000
+/project/cutlet/, cutlet, 0.1.17, Romaji converter, 2021-01-11T06:31:20+0000
+/project/word2vec-wikification-py/, word2vec-wikification-py, 0.17, A package to run wikification, 2017-03-15T22:12:01+0000
+/project/django-crud-app/, django-crud-app, 0.2.3, Easy start crud app, 2019-12-19T15:33:02+0000
+/project/abcluster/, AbCluster, 1.1.0, antibody sequence analysis including translation, numbering and clustering, 2021-02-11T10:47:47+0000
+/project/sinetstream/, sinetstream, 1.5.2, Library for operating messaging systems such as Apache Kafka and MQTT with the same API., 2021-04-23T14:03:57+0000
+/project/turbolucene/, TurboLucene, 0.2.2, TurboLucene is a TurboGears extension that allows applications to easily use the PyLucene full-text search engine., 2007-05-17T02:10:23+0000
+/project/jprocessing/, jProcessing, 0.1, Japanese NLP Utilities, 2012-01-27T10:23:20+0000
+/project/hebireki/, hebireki, 0.2.3, Simple implementation of the Traditional Japanese Calendar system (Wareki), 2019-04-30T04:14:09+0000
+/project/iso8583-module/, ISO8583-Module, 1.3, ISO8583 LIBRARY, 2013-10-07T13:09:18+0000
+/project/myougiden/, myougiden, 0.8.9, Japanese/English command-line dictionary, 2021-03-16T23:15:51+0000
+/project/py-hasami/, py-hasami, 0.0.1, Sentence segmentation for japanese text, 2021-01-24T20:25:23+0000
+/project/mecab-python-windows/, mecab-python-windows, 0.996.3, Python wrapper for CaboCha: Japanese Dependency Structure Analyzer, 2019-03-03T17:13:42+0000
+/project/guess/, guess, 1.0.5, Japanese charactor encoding detector, 2014-09-29T07:09:31+0000
+/project/radiko/, radiko, 1.4.1, Radiko: Python製の非公式Radikoライブラリ, 2021-01-13T06:38:16+0000
+/project/unidic-lite/, unidic-lite, 1.0.8, A small version of UniDic packaged for Python, 2021-01-25T06:07:54+0000
+/project/nlnormaliz/, nlnormaliz, 0.0.4, Natural language normalizer for documents in Python, 2017-07-16T13:37:31+0000
+/project/pangu2/, pangu2, 5.0, Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)., 2019-08-02T07:48:50+0000
+/project/open-usp-tukubai/, open-usp-tukubai, 0.0.1, Open usp Tukubai, 2016-05-26T15:16:43+0000
+/project/libcreate2py/, libcreate2py, 0.1.4, iRobot Create2 library for Raspberry Pi, 2016-06-05T02:10:53+0000
+/project/snapsheets/, snapsheets, 0.5.3, Getting tired of downloading Google Spreadsheets one by one from the browser ?, 2021-04-22T03:00:21+0000
+/project/ninchanese-cjklib/, ninchanese-cjklib, 0.4.1, Han character library for CJKV languages, 2021-03-20T18:02:07+0000
+/project/products-calendarx/, Products.CalendarX, 1.0.4, CalendarX is a customizable, open source metacalendar application written for the Plone content management system on top of Zope and Python., 2012-12-08T02:05:16+0000
+/project/jatime/, jatime, 0.1.0, Time expression analyzer for Japanese., 2020-10-17T22:57:50+0000
+/project/django-press/, django-press, 0.1.13, Easy start web app without coding, 2020-02-11T13:21:43+0000
+/project/meteoroid-cli/, meteoroid-cli, 1.0.2, CLI Client app for Meteoroid which is one of FIWARE components, 2021-03-29T11:14:26+0000
+/project/mecab-python3/, mecab-python3, 1.0.3, Python wrapper for the MeCab morphological analyzer for Japanese, 2020-11-09T11:13:32+0000
+/project/mojimoji/, mojimoji, 0.0.11, A fast converter between Japanese hankaku and zenkaku characters, 2020-05-16T08:46:56+0000
+/project/jptokenpreprocessing/, JpTokenPreprocessing, 0.1.5a2, JpTokenPreprocessing is Python library for token preprocessing., 2015-10-12T13:53:20+0000
+/project/docutils/, docutils, 0.17.1, Docutils -- Python Documentation Utilities, 2021-04-17T14:13:24+0000
+/project/gitticket/, gitticket, 0.5.1, Git and issue tracking system integration, 2013-06-21T23:25:47+0000
+/project/fairy/, fairy, 0.1.0, Python project., 2019-02-23T11:11:43+0000
+/project/maro/, maro, 0.0.1, `maro` is a package for exercises., 2011-06-25T15:07:23+0000
+/project/kanaconv/, kanaconv, 1.0.1, Converts hiragana and katakana to rōmaji according to Modified Hepburn transliteration rules, 2016-02-20T17:07:19+0000
+/project/spacy-chapas/, spacy-chapas, 0.8.1, ChaPAS-CaboCha-MeCab wrapper for spaCy, 2021-03-11T05:46:55+0000
+/project/skkdictutils/, skkdictutils, 0.1.0, SKK dictionary utility functions, 2020-09-17T21:02:17+0000
+/project/tekorrect/, tekorrect, 0.0.3, 用於給已經完成的 Markdown 遍寫的文檔進行優化，它會將壹些非標準，或不推薦的排版方式，進行自動格式化、標準化。, 2020-01-09T07:32:08+0000
+/project/ideograph/, ideograph, 1.1.0, Tool for finding ideographic (e.g. Han) characters from their components, 2019-03-31T00:30:13+0000
+/project/cmonkey/, cmonkey, 0.1.1, Simple scripting framework for Apache CloudStack, 2014-03-12T15:27:38+0000
+/project/python-shukujitsu/, python-shukujitsu, 2021.2.1, Python Japanese holidays library based on static data published by Cabinet Office, Government of Japan, 2021-02-01T05:40:15+0000
+/project/kanjigrid/, kanjigrid, 0.0.4, Create Kanji Grids out of Text, 2021-03-24T20:47:30+0000
+/project/suparunidic/, suparunidic, 0.8.8, Tokenizer POS-tagger Lemmatizer and Dependency-parser for modern and contemporary Japanese with BERT models, 2021-04-15T22:38:54+0000
+/project/misskey-py/, Misskey.py, 3.0.0, The Misskey library for Python. Misskey is made by syuilo., 2020-06-06T06:53:53+0000
+/project/asa/, asa, 0.2, Japanese Argument Structure Analyzer (ASA) client for Python, 2019-02-16T14:53:45+0000
+/project/wanakana/, wanakana, 1.0.1, A library to assist in detecting Japanese text, 2018-06-02T19:54:05+0000
+/project/japanese/, japanese, 0.2.1, , 2018-05-25T06:09:12+0000
+/project/natto-py-fork/, natto-py-fork, 0.9.0, A Tasty Python Binding with MeCab(FFI-based, no SWIG or compiler necessary), 2019-03-07T15:10:19+0000
+/project/polyglot/, polyglot, 16.7.4, Polyglot is a natural language pipeline that supports massive multilingual applications., 2016-07-03T20:05:40+0000
+/project/unidic/, unidic, 1.0.3, UniDic packaged for Python, 2020-10-09T02:56:42+0000
+/project/jphelper/, jphelper, 0.9.1, A collection of japanese text and number manipulation tools., 2018-05-23T14:25:09+0000
+/project/osetifix/, osetifix, 0.1.2, Dictionary based Sentiment Analysis for Japanese, 2020-10-20T04:52:50+0000
+/project/cutlet/, cutlet, 0.1.17, Romaji converter, 2021-01-11T06:31:20+0000
+/project/sinetstream-type-image/, sinetstream-type-image, 1.5.2, Image Type plugin for SINETStream library, 2021-04-23T14:04:43+0000
+/project/word2vec-wikification-py/, word2vec-wikification-py, 0.17, A package to run wikification, 2017-03-15T22:12:01+0000
+/project/django-crud-app/, django-crud-app, 0.2.3, Easy start crud app, 2019-12-19T15:33:02+0000
+/project/wanikanitools/, WaniKaniTools, 0.3.0, Working with WaniKani API, login, and Community., 2018-04-28T13:37:45+0000
+/project/iasap/, iasap, 0.0.2, interactive as soon as possible, 2015-03-09T14:07:35+0000
+/project/pytchat/, pytchat, 0.5.3, a python library for fetching youtube live chat., 2021-02-10T17:02:52+0000
+/project/justhello/, justHello, 0.0.20, only print Hello World, 2015-01-29T13:26:49+0000
+/project/udkundoku/, udkundoku, 2.0.6, Classical Chinese to Modern Japanese Translator, 2021-04-15T14:39:50+0000
+/project/japaneezu/, japaneezu, 0.0.1, A curses/console foreign language language study tool. (Currently limited to Japanese.), 2014-12-17T17:37:39+0000
+/project/whoosh-igo/, whoosh-igo, 0.7, tokenizers for Whoosh designed for Japanese language, 2012-04-14T09:17:03+0000
+/project/documentfeatureselection/, DocumentFeatureSelection, 1.5, Various methods of feature selection from Text Data, 2018-10-24T16:21:16+0000
+/project/boip/, Boip, 0.0.3, A tool for creating Boiler Plates., 2020-09-28T15:33:32+0000
+/project/aioconnpass/, aioconnpass, 0.0.1, an API wrapper for connpass, 2019-03-10T12:08:09+0000
+/project/sprite/, sprite, 0.1.0, Python project., 2019-02-23T11:08:30+0000
+/project/pymlask/, pymlask, 0.3.2, Emotion analyzer for Japanese, 2019-07-09T13:17:31+0000
+/project/editra/, Editra, 0.7.20, Developer's Text Editor, 2013-01-05T22:05:54+0000
+/project/scratchapi2/, scratchapi2, 1.5, The New Scratch API Client., 2019-01-12T14:41:03+0000
+/project/uectl/, uectl, 0.2.1, @uec_tlに使用するマルコフ連鎖による文章生成とテキスト処理のためのパッケージ, 2020-10-16T10:54:41+0000
+/project/pyfiglet/, pyfiglet, 0.8.post1, Pure-python FIGlet implementation, 2019-02-05T13:50:20+0000
+/project/pytblocklib/, pytblocklib, 0.1.8, a python library for youtube blocking function., 2020-05-04T11:35:29+0000
+/project/xaxtsuxo/, xaxtsuxo, 0.0.0, ぁっぉ, 2012-07-28T08:24:17+0000
+/project/rm-rspace/, rm-rspace, 0.0.1, Remove trailing white spaces from a text file., 2018-12-02T20:51:22+0000
+/project/yomidict/, yomidict, 0.1.6, Create frequency dictionaries for yomichan out of media, 2021-04-06T11:08:32+0000
+/project/sinetstream-mqtt/, sinetstream-mqtt, 1.5.2, MQTT plugin for SINETStream library, 2021-04-23T14:05:24+0000
+/project/regalias/, regalias, 0.2.0, Elona-like alias generator for Python, with CLI., 2017-04-04T01:08:57+0000
+/project/sphinxcontrib-smblink/, sphinxcontrib-smblink, 0.2, Sphinx Windows Share Links (WSL) role extension, 2013-04-06T00:27:55+0000
+/project/denden-extension/, denden-extension, 2.0.0, Python-Markdown extension for DenDenMarkdown, 2020-12-21T07:09:54+0000
+/project/keiko/, keiko, 0.2.0, keiko is Python and Web API clients for Keiko-chan., 2013-09-27T01:03:25+0000

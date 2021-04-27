@@ -1,0 +1,1280 @@
+/project/itk-skullstripping/, itk-skullstripping, 0.0.1, Automatic skull-stripping for neuroimage analysis, 2020-11-23T14:21:31+0000
+/project/deep-motility/, Deep-Motility, 1.0.6rc1, Deep Learning methods for the classification and segmentation of motility images, 2020-12-14T14:53:20+0000
+/project/fcsparser/, fcsparser, 0.2.1, A python package for reading raw fcs files, 2020-05-13T23:18:19+0000
+/project/myfitbit/, myfitbit, 0.7.0, export fitbit data, 2020-01-05T06:40:29+0000
+/project/trytond-health-pediatrics-growth-charts/, trytond_health_pediatrics_growth_charts, 3.2.10, GNU Health Pediatrics growth charts package, 2018-06-05T11:02:27+0000
+/project/ndex/, ndex, 3.0.11.23, NDEx Python includes a client and a data model., 2017-03-13T01:31:47+0000
+/project/wyrm/, Wyrm, 1.1.0, Toolbox for Brain Computer Interfacing Experiments., 2015-07-09T12:51:15+0000
+/project/methpype/, methpype, 1.0.6, Python-based Illumina methylation array processing and analysis software composite package, 2021-01-05T21:24:39+0000
+/project/pyus/, pyus, 0.2.2, GPU-accelerated Python package for ultrasound imaging., 2020-01-29T16:17:01+0000
+/project/simplereg/, SimpleReg, 0.3.2, SimpleReg is a research-focused toolkit that provides tools helpful for (medical) image registration and processing., 2019-07-26T09:18:12+0000
+/project/gnuhealth-webdav3-server/, gnuhealth-webdav3-server, 3.8.0, GNU Health WebDAV server for Python 3, 2021-02-14T20:48:15+0000
+/project/pykale/, pykale, 0.1.0b3, Knowledge-aware machine learning from multiple sources in Python, 2021-04-19T09:24:36+0000
+/project/topas2numpy/, topas2numpy, 0.2.0, Python functions for reading TOPAS result files, 2017-05-19T21:14:09+0000
+/project/fw-meta/, fw-meta, 0.3.1, Flywheel metadata extraction., 2021-03-22T10:49:38+0000
+/project/miscnn-tf-2-0/, miscnn-TF-2.0, 0.32, Framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning, 2020-04-30T13:24:40+0000
+/project/xnatuploadtooldicom/, XnatUploadToolDicom, 1.4.0.2, Tool for assisting in uploading dicom data directly to xnat imaging research platform (xnat.org), 2021-03-22T20:12:56+0000
+/project/mutagene/, mutagene, 0.9.1.0, Mutational analysis with Python, 2021-02-27T22:27:56+0000
+/project/ensembl-rest/, ensembl-rest, 0.3.3, An interface to the Ensembl REST APIs, biological data at your fingertips., 2019-06-24T22:01:21+0000
+/project/bpmscan/, bpmscan, 0.1.2, Measures heart rate of multiple person realtime from Webcamera, IPCamera and also from from Uploaded video, 2020-12-14T16:08:43+0000
+/project/cwl-airflow/, cwl-airflow, 1.2.10, Python package to extend Airflow functionality with CWL v1.1 support, 2021-01-29T11:36:59+0000
+/project/itk-krcahsheetness/, itk-krcahsheetness, 0.1.0, ITK filters to generate a sheetness feature image useful for segmenting bone in CT images and similar applications., 2017-11-30T23:05:35+0000
+/project/rapidtide/, rapidtide, 1.9.4, Tools for performing correlation analysis on fMRI data., 2021-03-17T20:27:30+0000
+/project/itk-anisotropicdiffusionlbr/, itk-anisotropicdiffusionlbr, 1.1.2, Smooth images while preserving edges or coherent structures., 2020-06-10T22:07:51+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/ukritlib/, ukritlib, 0.3.13, Testing Python Package From Ukrit Fongsomboon, 2021-03-17T10:08:26+0000
+/project/sanajeh/, sanajeh, 0.8, Simulate fMRI and iEEG data in BIDS format, 2018-10-16T11:37:19+0000
+/project/imagedata/, imagedata, 1.2.9, Read/write medical image data, 2021-04-14T09:54:05+0000
+/project/gcpds-entropies/, gcpds-entropies, 0.1a0, , 2020-08-01T23:08:20+0000
+/project/pyqpcr/, pyQPCR, 0.7, pyQPCR: quantitative PCR data analysis, 2010-10-27T07:56:06+0000
+/project/gnuhealth-inpatient-calendar/, gnuhealth-inpatient-calendar, 3.8.0, GNU Health package for hospitalization calendar functionality, 2021-02-14T20:46:34+0000
+/project/pymedphys-pinnacle/, pymedphys-pinnacle, 0.11.0, , 2019-09-10T09:18:19+0000
+/project/txhl7/, txHL7, 0.5.0,  Async Twisted server implementation of Health Level 7's (HL7) Minimal Lower-Layer Protocol (MLLP)., 2020-09-08T23:24:52+0000
+/project/pylinac-qatrackplus/, pylinac-qatrackplus, 2.5.0.2, A toolkit for performing TG-142 QA-related tasks on a linear accelerator, 2021-03-31T18:58:28+0000
+/project/fastobo/, fastobo, 0.10.1, Faultless AST for Open Biomedical Ontologies in Python., 2021-03-30T16:00:10+0000
+/project/cubric-mrs/, cubric-mrs, 0.2.2, a collection of processing scripts for handling MRS data at CUBRIC, 2018-05-18T16:51:20+0000
+/project/dicom3d/, dicom3d, 0.9.9, Library for reconstructing arbitrary defined 3D sectionsfrom volumetric medical scans, 2019-12-19T13:07:07+0000
+/project/pymrt/, pymrt, 0.0.3.4, Python Magnetic Resonace Tools, 2020-09-09T13:27:57+0000
+/project/picachooser/, picachooser, 1.2.3, Lightweight GUI for sorting MELODIC ICA components., 2021-04-06T23:47:55+0000
+/project/pymedphys-labs/, pymedphys-labs, 0.11.0, , 2019-09-10T09:20:31+0000
+/project/niftynet/, NiftyNet, 0.6.0, An open-source convolutional neural networks platform for research in medical image analysis and image-guided therapy, 2019-10-10T10:59:33+0000
+/project/trytond-health-icpm/, trytond_health_icpm, 3.2.10, GNU Health WHO ICPM package. International Classsification of Procedures in Medicine, 2018-06-05T11:01:28+0000
+/project/pubmed-bibtex/, pubmed-bibtex, 0.1.0, Generate BibTeX Entries for PubMed Publications, 2019-05-16T11:02:44+0000
+/project/pydicom-ext/, pydicom-ext, 0.6.1, Additional functions for dicom data manipulation, 2019-01-02T16:48:06+0000
+/project/gnuhealth-dentistry/, gnuhealth-dentistry, 3.8.0, GNU Health: Dentistry Package, 2021-02-14T20:43:50+0000
+/project/openbci/, openbci, 0.2.3, Hight level Python module for OpenBCI hardware by GCPDS., 2020-01-22T21:35:58+0000
+/project/scikit-surgeryvideoutils/, scikit-surgeryvideoutils, 0.1.0, scikit-surgeryvideoutils, 2018-12-23T08:58:56+0000
+/project/scikit-surgerytrackervisualisation/, scikit-surgerytrackervisualisation, 0.0.4, Provides a live visualisation of tracking data from a scikit-surgerytracker source, 2020-08-10T13:42:02+0000
+/project/gias2/, gias2, 0.7.11, A library of musculoskeletal modelling tools., 2021-04-08T00:28:12+0000
+/project/datamol/, datamol, 0.3.7, A python library to work with molecules. Built on top of RDKit., 2021-04-17T17:53:21+0000
+/project/trytond-health-ntd/, trytond_health_ntd, 3.2.10, GNU Health Neglected Tropical Diseases package, 2018-06-05T11:02:05+0000
+/project/hasi/, hasi, 0.2, High-throughput Applications for Skeletal Imaging (HASI) Python content, 2021-04-06T17:24:38+0000
+/project/spws-2010/, SPWS_2010, 0.1.5, Python Interface to SharePoint 2010 Web Services, 2018-01-24T22:47:35+0000
+/project/dicomsort/, dicomsort, 3.0.0, A DICOM Sorting Utility, 2021-02-07T01:49:01+0000
+/project/blochsimu/, blochsimu, 0.1.2, Bloch equation simulator for e.g. NMR-related simulations, 2015-04-08T12:55:03+0000
+/project/niftypad/, niftypad, 0.0.1, Neuroimaging for the Prevention of Alzheimer's Disease, 2021-04-09T22:23:33+0000
+/project/olass/, olass, 0.0.3, OneFlorida Linkage Submission System, 2016-08-17T22:28:05+0000
+/project/gnuhealth-lifestyle/, gnuhealth-lifestyle, 3.8.0, GNU Health package for person lifestyle assessment, 2021-02-14T20:46:55+0000
+/project/eegsynth/, eegsynth, 0.3.1, Converting real-time EEG into sounds, music and visual effects, 2020-04-11T10:48:43+0000
+/project/vmc/, vmc, 0.1.6, "VMC reference implementation (https://github.com/ga4gh/vmc/)", 2019-04-08T04:01:59+0000
+/project/cxsystem2/, cxsystem2, 0.1.2.6, A cerebral cortex simulation framework, 2020-01-30T14:39:11+0000
+/project/scikit-surgeryarucotracker/, scikit-surgeryarucotracker, 0.2.3, scikit-surgeryarucotracker is a simple tracking interface using ARuCo markers, 2021-04-14T09:14:35+0000
+/project/xpecgen/, xpecgen, 1.3.0, A package with a GUI to calculate X-ray sPECtra GENerated in tungsten anodes, 2018-01-10T18:05:10+0000
+/project/gnuhealth-crypto-lab/, gnuhealth-crypto-lab, 3.8.0, GNU Health package with public-key crypto functionality for laboratories, 2021-02-14T20:43:45+0000
+/project/cmakecatchtemplate/, CMakeCatchTemplate, 0.2.2, A template project, to enable people to build nicely structured C++ projects., 2019-03-05T07:03:16+0000
+/project/nostalgia-fitbit/, nostalgia-fitbit, 0.6.0, export fitbit data, 2019-12-25T22:16:17+0000
+/project/trytond-health-lifestyle/, trytond_health_lifestyle, 3.2.10, GNU Health package for person lifestyle assessment, 2018-06-05T11:01:58+0000
+/project/itk-io/, itk-io, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:13:10+0000
+/project/itk-bonemorphometry/, itk-bonemorphometry, 1.2.0, An ITK module to compute bone morphometry features and feature maps, 2020-06-09T15:12:03+0000
+/project/camcops-server/, camcops-server, 2.4.4, CamCOPS server, 2021-03-29T14:41:30+0000
+/project/itk-iomeshstl/, itk-iomeshstl, 2.1.0, MeshIO class to read and write ITK meshes into STL files., 2020-05-07T04:27:10+0000
+/project/itk-binarythinning3d/, itk-binarythinning3d, 5.0b1, An ITK module to compute 3D image skeleton, 2019-02-05T09:20:48+0000
+/project/gnuhealth-gyneco/, gnuhealth-gyneco, 3.8.0, GNU Health Gynecology and Obstetrics package, 2021-02-14T20:44:40+0000
+/project/mef-tools/, mef-tools, 1.1.0, Advanced tools for handling MEF file format using pymef - python wrapper., 2020-10-15T18:32:39+0000
+/project/itk-gpusmoothing/, itk-gpusmoothing, 0.2.0, Common smoothing filters accelerated with OpenCL., 2019-12-12T11:14:45+0000
+/project/pyrho/, PyRhO, 0.9.4, Fit and characterise rhodopsin photocurrents, 2016-03-04T12:34:46+0000
+/project/trytond-health-who-essential-medicines/, trytond_health_who_essential_medicines, 3.2.10, GNU Health WHO Essential Medicines package, 2018-06-05T11:03:09+0000
+/project/trytond-health-disability/, trytond_health_disability, 3.2.10, GNU Health package for patient Functioning and disability, including WHO ICF, 2018-06-05T10:59:37+0000
+/project/ga4gh-vrs/, ga4gh.vrs, 0.6.4, "GA4GH Variation Representation Specification (VRS) reference implementation (https://github.com/ga4gh/vrs-python/)", 2021-02-20T20:02:17+0000
+/project/eegio/, eegio, 0.1.3, EEGIO: An io package for eeg data that is MNE-Python and MNE-BIDS compatible ., 2020-01-03T18:45:48+0000
+/project/trytond-health-history/, trytond_health_history, 3.2.10, GNU Health personal and medical history package, 2018-06-05T11:00:28+0000
+/project/cobcom-talon/, cobcom-talon, 0.3.0.post0, A Python package that implements Tractograms As Linear Operators in Neuroimaging, 2021-01-21T10:09:45+0000
+/project/niftypet/, niftypet, 2.0.0, CUDA-accelerated Python utilities for high-throughput PET/MR image reconstruction and analysis, 2021-03-06T19:23:36+0000
+/project/pymedphys-logfiles/, pymedphys-logfiles, 0.11.0, , 2019-09-10T09:20:42+0000
+/project/btk/, btk, 0.3, Python binding for the C++ library Biomechanical ToolKit (BTK), 2014-01-13T16:18:03+0000
+/project/cwl-airflow-parser/, cwl-airflow-parser, 1.0.20181213213631, Package extends Airflow functionality with CWL v1.0 support, 2018-12-13T21:46:28+0000
+/project/gnuhealth-contact-tracing/, gnuhealth-contact-tracing, 3.8.0, GNU Health package for epidemics contact tracing, 2021-02-14T20:43:37+0000
+/project/freesurfer-stats/, freesurfer-stats, 1.2.1, Python Library to Read FreeSurfer's cortical parcellation anatomical statistics, 2020-12-31T16:04:39+0000
+/project/itk-smoothingrecursiveyvvgaussianfilter/, itk-smoothingrecursiveyvvgaussianfilter, 0.0.1, Young & Van Vliet recursive Gaussian smoothing filter for GPU (OpenCL) and CPU, 2020-11-26T02:42:37+0000
+/project/flowcytometrytools/, FlowCytometryTools, 0.5.1, A python package for performing flow cytometry analysis, 2021-01-24T23:59:34+0000
+/project/labelbox-utils/, Labelbox-Utils, 0.0.3, Utils for working with Labelbox, 2019-12-20T14:13:09+0000
+/project/pyvxray/, pyvXRAY, 0.2.1, ABAQUS plug-in to create virtual x-rays from 3D finite element bone/implant models, 2015-08-12T10:40:26+0000
+/project/scikit-surgerytf/, scikit-surgerytf, 0.2.0, scikit-surgerytf is a Python package for Tensor Flow examples and utilities, 2020-07-26T16:39:24+0000
+/project/ndicom-region-growing/, ndicom-region-growing, 0.0.1.dev0, , 2018-06-08T23:42:38+0000
+/project/rt-utils/, rt-utils, 1.1.2, A small library for handling masks and RT-Structs, 2021-04-22T22:48:03+0000
+/project/bruker/, bruker, 0.3.3, Bruker PvDataset Loader, 2020-06-04T18:00:50+0000
+/project/methylize/, methylize, 0.9.3, EWAS Analysis software for Illumina methylation arrays, 2021-01-06T02:55:25+0000
+/project/mcpartools/, mcpartools, 0.6.2, Set of tools to parallelize MC calculations on clusters, 2019-04-01T12:35:03+0000
+/project/sgext/, sgext, 0.9.14, SGEXT is an open-source toolkit for skeletonization and graph analysis, 2020-10-06T09:04:39+0000
+/project/mselair-aisc/, mselair-aisc, 0.1.4, Python package for EEG sleep classification and analysis., 2021-04-05T20:52:19+0000
+/project/vivarium-public-health/, vivarium-public-health, 0.10.9, Components for modelling diseases, risks, and interventions with ``vivarium``, 2021-01-26T04:34:54+0000
+/project/pyexphys/, pyexphys, 2.1.2, Python framework for health/fitness calculations, 2018-11-19T01:36:58+0000
+/project/trytond-health-insurance/, trytond_health_insurance, 3.2.10, GNU Health package to manage insurances and associated services, 2018-06-05T11:01:47+0000
+/project/pyhrf/, pyhrf, 0.5.0.post1, Analysis of fMRI data based on the study of hemodynamics, 2017-12-18T11:18:49+0000
+/project/itk-cuberille/, itk-cuberille, 2.5.0, This module implements cuberille implicit surface polygonization for ITK., 2021-04-18T03:05:47+0000
+/project/antivirals/, antivirals, 0.0.3, Finding antivirals for the novel coronavirus., 2020-07-10T17:20:33+0000
+/project/scikit-surgerytorch/, scikit-surgerytorch, 0.2.4, scikit-surgerytorch is a Python package, 2020-09-29T14:31:17+0000
+/project/scikit-surgerybard/, scikit-surgerybard, 0.1.0, scikit-surgerybard is a Basic Augmented Reality Demo (BARD)based on scikit-surgery (SNAPPY), 2020-07-02T16:56:32+0000
+/project/itk-ioscanco/, itk-ioscanco, 0.9.2, An ITK module to read and write Scanco microCT .isq files., 2021-04-06T21:54:26+0000
+/project/gnuhealth-who-essential-medicines/, gnuhealth-who-essential-medicines, 3.8.0, GNU Health WHO Essential Medicines package, 2021-02-14T20:48:19+0000
+/project/pytrip98gui/, pytrip98gui, 1.1.3, PyTRiP GUI, 2020-09-08T10:26:22+0000
+/project/infermedica-api/, infermedica-api, 1.0.0, The Infermedica Python client for Infermedica API., 2021-02-09T12:09:53+0000
+/project/dcmfetch/, dcmfetch, 0.2.0, DICOM query retrieve tools, 2020-06-10T15:10:13+0000
+/project/medpy/, MedPy, 0.4.0, Medical image processing in Python, 2019-02-14T17:12:59+0000
+/project/itk-hasi/, itk-hasi, 0.2.0, High-throughput Applications for Skeletal Imaging, 2021-04-06T18:34:40+0000
+/project/pymedphys-gamma/, pymedphys-gamma, 0.11.0, , 2019-09-10T09:20:30+0000
+/project/scikit-surgeryfred/, scikit-surgeryfred, 0.1.3, FRED provides an interactive demonstration of fiducial based registration for teaching purposes, 2021-01-25T15:14:50+0000
+/project/pyabel/, PyAbel, 0.8.4, A Python package for forward and inverse Abel transforms, 2021-04-15T01:07:06+0000
+/project/simpledicomtoolkit/, SimpleDicomToolkit, 1.4, Dicom Toolkit for reading dicom files to  SimpleITK images, 2018-11-29T11:06:29+0000
+/project/scikit-spectra/, scikit-spectra, 0.3.2.2, Spectroscopy in Python built on Pandas., 2015-05-13T20:36:11+0000
+/project/ndicom-cuda-kmeans/, ndicom-cuda-kmeans, 0.0.1.dev1, , 2018-06-09T07:55:03+0000
+/project/trytond-health-icu/, trytond_health_icu, 3.2.10, GNU Health package for Intensive Care  settings , 2018-06-05T11:01:32+0000
+/project/neuro-pypes/, neuro-pypes, 1.1.2, Reusable and configurable neuroimaging pipelines with Nipype., 2018-04-16T16:15:21+0000
+/project/ilang/, ilang, 0.3.1, Inference Language for Volumetric Imaging, 2015-12-09T00:55:14+0000
+/project/itk-rtk/, itk-rtk, 2.2.0, The Reconstruction Toolkit (RTK) for fast circular cone-beam CT reconstruction., 2021-01-26T15:59:36+0000
+/project/nipet/, nipet, 2.0.2, CUDA-accelerated Python utilities for high-throughput PET/MR image reconstruction and analysis, 2021-01-05T04:35:22+0000
+/project/trytond-health-services/, trytond_health_services, 3.2.10, GNU Health package to manage patient health related services, 2018-06-05T11:02:47+0000
+/project/axopy/, axopy, 0.2.3, Human-computer interface experimentation library, 2019-02-12T06:39:29+0000
+/project/trytond-health-lab/, trytond_health_lab, 3.2.10, GNU Health Laboratory - LIMS Module, 2018-06-05T11:01:54+0000
+/project/aucmedi/, aucmedi, 0.1.0, AUCMEDI - Framework for Automated Classification of Medical Images, 2021-03-02T14:32:20+0000
+/project/gnuhealth-reporting/, gnuhealth-reporting, 3.8.0, GNU Health package for reporting, 2021-02-14T20:47:50+0000
+/project/gnuhealth-ophthalmology/, gnuhealth-ophthalmology, 3.8.0, GNU Health ophthalmology package, 2021-02-14T20:47:19+0000
+/project/boridge/, boridge, 0.1.10, A library of functions for selecting features using bootstrapped ridge regression, 2020-02-26T01:20:55+0000
+/project/gnuhealth-client/, gnuhealth-client, 3.8.1, The GNU Health GTK client, 2021-02-15T21:13:09+0000
+/project/epiclass/, EpiClass, 2.2.5, Optimizing and predicting performance of DNA methylation biomarkers using sequence methylation density information., 2020-03-30T22:45:28+0000
+/project/deduper/, deduper, 0.0.7, OneFlorida De-duplication Software, 2018-04-23T20:09:34+0000
+/project/crocpy3/, CROCpy3, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2019-04-19T11:18:50+0000
+/project/radiant/, radiant, 3.2.2, Brython Framework, 2021-04-23T17:05:26+0000
+/project/ziggie/, ziggie, 0.1.1, Infectious disease modelling package, 2020-06-27T21:40:14+0000
+/project/ndex2-dev/, ndex2-dev, 2.0.0.6, Nice CX Python includes a client and a data model., 2018-11-06T21:25:44+0000
+/project/scikit-surgerygoicp/, scikit-surgerygoicp, 0.2.4, A template project, to enable people to build nicely structured C++ projects., 2020-10-14T07:54:55+0000
+/project/sleepytimes/, sleepytimes, 1.0.2, Tools for EEG, ECoG, iEEG, especially for sleep, 2017-09-12T14:25:59+0000
+/project/pyigtl/, pyigtl, 0.1.0, Python interface for OpenIGTLink, 2020-11-23T21:28:29+0000
+/project/trytond-health-imaging/, trytond_health_imaging, 3.2.10, GNU Health Diagnostic Imaging management package, 2018-06-05T11:01:36+0000
+/project/arip/, arip, 1.0.2, ARIP, software to quantify bacterial resistance to antibiotics by analysing picture of phenotypic plates, 2017-02-14T18:14:32+0000
+/project/ninst/, ninst, 0.10.0, NiftyPET Installation tools, 2021-02-01T21:20:40+0000
+/project/gnuhealth-insurance/, gnuhealth-insurance, 3.8.0, GNU Health package to manage insurances and associated services, 2021-02-14T20:46:39+0000
+/project/pyautomagic/, pyautomagic, 0.1.0, A Python3 package for eeg (pre)processing from Automagic., 2020-01-15T23:50:51+0000
+/project/nanoset/, nanoset, 0.2.1, A memory-optimized wrapper for Python sets likely to be empty., 2020-07-01T01:41:00+0000
+/project/itk-boneenhancement/, itk-boneenhancement, 0.4.1, Various filters for enhancing cortical bones in quantitative computed tomography., 2021-04-05T22:30:23+0000
+/project/hematopy/, hematopy, 0.0.1.dev6, Python and Blood, 2018-06-13T18:09:49+0000
+/project/trytond-health-inpatient-calendar/, trytond_health_inpatient_calendar, 3.2.10, GNU Health package for hospitalization calendar functionality, 2018-06-05T11:01:43+0000
+/project/sycomore/, sycomore, 1.2.1, MRI simulation toolkit, 2020-01-17T09:28:09+0000
+/project/pymzml/, pymzml, 2.4.7, high-throughput mzML parsing, 2020-06-15T11:50:19+0000
+/project/flotilla/, flotilla, 0.3.2, Embark on a journey of single-cell data exploration., 2016-08-08T18:43:59+0000
+/project/gnuhealth-genetics-uniprot/, gnuhealth-genetics-uniprot, 3.8.0, GNU Health Genetics UNIPROT Data, 2021-02-14T20:44:36+0000
+/project/rdm/, rdm, 0.9.2, Regulatory Documentation Manager, 2020-10-09T23:43:37+0000
+/project/pymedphys-electronfactors/, pymedphys-electronfactors, 0.11.0, , 2019-09-10T09:18:12+0000
+/project/dicom-numpy/, dicom-numpy, 0.5.0, Extract image data into a 3D numpy array from a set of DICOM files., 2020-10-16T23:13:19+0000
+/project/simpleitk-simpleelastix/, SimpleITK-SimpleElastix, 2.0.0rc2.dev909, SimpleITK is a simplified interface to the Insight Toolkit (ITK) for image registration and segmentation, 2021-03-05T13:16:34+0000
+/project/itk-numerics/, itk-numerics, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:13:35+0000
+/project/madseq/, madseq, 0.4.4, Parser/transformator for MAD-X sequences, 2014-07-22T01:07:59+0000
+/project/openrem/, OpenREM, 0.10.0, Open source patient radiation dose monitoring software, 2019-11-08T14:13:19+0000
+/project/hit-csys/, hit-csys, 18.10.0, Online control for the HIT accelerator facility., 2018-10-25T01:51:06+0000
+/project/gnuhealth-ntd-chagas/, gnuhealth-ntd-chagas, 3.8.0, GNU Health Neglected Tropical Diseases. Chagas package, 2021-02-14T20:47:07+0000
+/project/copyxnat/, copyxnat, 0.7.6, CopyXnat is a python utility for copying XNAT projects from one XNAT server to another, 2021-03-30T07:49:15+0000
+/project/trytond-health-profile/, trytond_health_profile, 3.2.10, GNU Health profile with common packages, 2018-06-05T11:02:36+0000
+/project/buffalo-lab-data-to-nwb/, buffalo-lab-data-to-nwb, 0.post0.dev137, A package for converting Buffalo Lab data to the NWB standard, 2019-12-09T07:04:25+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/hit-acs/, hit-acs, 20.1.0, Tools for the accelerator control system of the HIT facility., 2020-01-27T10:05:00+0000
+/project/olga/, olga, 1.2.3, Compute generation probability of CDR3 sequences, 2021-01-11T16:08:07+0000
+/project/gnuhealth-caldav/, gnuhealth-caldav, 3.8.0, CalDAV package for GNU Health and Python3, 2021-02-14T20:43:24+0000
+/project/rbm/, rbm, 0.0.3, Rodent Brain Masking Tool with Keras 2D Unet, 2021-02-10T04:58:35+0000
+/project/motionclouds/, MotionClouds, 20200212, Model-based stimulus synthesis of natural-like random textures for the study of motion perception., 2020-02-11T16:38:43+0000
+/project/itk-ultrasound/, itk-ultrasound, 0.3.2, Filters for use with the Insight Toolkit (ITK) that may be particularly useful for the reconstruction and analysis of ultrasound images., 2021-04-17T00:11:02+0000
+/project/thunor/, thunor, 0.1.24, Dose response curve and drug induced proliferation (DIP) rate fits and visualisation, 2020-02-17T01:45:20+0000
+/project/epipylib/, epipylib, 0.1.0-2, Epidemic model library for fitting epidemic models., 2016-09-25T12:11:20+0000
+/project/cancerscope/, cancerscope, 1.0, An RNA-Seq based tool for Supervised Cancer Origin Prediction using Expression, 2020-03-19T18:16:31+0000
+/project/twisted-hl7/, twisted-hl7, 0.2.2, Async Twisted server implementation of Health Level 7 MLLP, 2014-11-06T13:56:04+0000
+/project/pibayer/, pibayer, 0.6.0, Acquire raw Bayer-masked image from Raspberry Pi camera and write image stack to HDF5 or TIFF., 2018-08-21T16:19:28+0000
+/project/py-bonemat-abaqus/, py_bonemat_abaqus, 1.0.9, Assign material properties of bone to a finite element mesh, 2016-05-31T17:14:37+0000
+/project/pyqms/, pyqms, 0.6.2, pyQms - Python module for accurate quantification of mass spectrometry data, 2019-06-03T12:48:00+0000
+/project/gnuhealth-mdg6/, gnuhealth-mdg6, 3.8.0, GNU Health MDG6 - Millenium Development Goal # 6 package, 2021-02-14T20:47:00+0000
+/project/svgdatashapes/, SVGdatashapes, 0.3.62, Simple procedural library to create many types of plots and data displays in SVG for dynamic web pages. General purpose: biomedical, scientific, business., 2020-03-11T19:38:20+0000
+/project/mdai/, mdai, 0.7.2, MD.ai Python client library, 2021-04-14T00:45:47+0000
+/project/mygnuhealth/, MyGNUHealth, 0.9b1, The GNU Health Personal Health Record, 2021-04-18T21:58:54+0000
+/project/recentrifuge/, recentrifuge, 1.3.2, Robust comparative analysis and contamination removal for metagenomics, 2021-03-01T05:59:41+0000
+/project/snappysonic/, snappysonic, 0.0.6, snappysonic provides an application to simulate an ultrasound probe moving over a body torso, it is intended for public engagement events", 2021-03-16T11:27:56+0000
+/project/simpleitk/, SimpleITK, 2.0.2, SimpleITK is a simplified interface to the Insight Toolkit (ITK) for image registration and segmentation, 2020-12-02T15:04:47+0000
+/project/dicom/, dicom, 0.9.9.post1, Pure python package for DICOM medical file reading and writing, 2017-01-27T03:54:38+0000
+/project/thalamus/, thalamus, 0.9.14, The GNU Health Federation Message and Authentication Server, 2021-04-08T12:31:21+0000
+/project/biowardrobe-cwl-workflows/, biowardrobe-cwl-workflows, 1.0.20181213214400, Wrapped BioWardrobe's CWL files, 2018-12-13T21:44:31+0000
+/project/ndicom-kernel-kmeans/, ndicom-kernel-kmeans, 0.0.1.dev0, , 2018-06-08T23:37:33+0000
+/project/itk-minimalpathextraction/, itk-minimalpathextraction, 1.1.2, A minimal path extraction framework based on Fast Marching arrival functions., 2021-03-12T23:10:29+0000
+/project/ndicom-fcm/, ndicom-fcm, 0.0.1.dev2, , 2018-06-09T08:08:44+0000
+/project/cohort-compare/, cohort-compare, 0.3.2, A library of functions for comparing clinical cohorts to the populations of US counties, 2020-04-13T20:21:22+0000
+/project/trytond-health-pediatrics/, trytond_health_pediatrics, 3.2.10, GNU Health pediatrics package, 2018-06-05T11:02:23+0000
+/project/dvha-stats/, dvha-stats, 0.2.4.post1, A library of prediction and statistical process control tools, 2021-03-06T23:13:32+0000
+/project/gelutils/, gelutils, 0.6.1, Annotate and convert GEL images (PAGE, agarose gels, etc.) acquired from e.g. Typhoon scanners, GelDocs or similar., 2016-08-22T19:56:52+0000
+/project/gcpds/, gcpds, 0.1a1, , 2021-03-25T16:21:54+0000
+/project/dicom2nifti/, dicom2nifti, 2.2.12, package for converting dicom files to nifti, 2020-12-07T12:50:00+0000
+/project/scikit-surgerypclcpp/, scikit-surgerypclcpp, 0.3.0, A template project, to enable people to build nicely structured C++ projects., 2020-06-13T15:39:09+0000
+/project/pymedphys-xlwings/, pymedphys-xlwings, 0.11.0, , 2019-09-10T09:20:37+0000
+/project/vmi/, vmi, 0.6.15, Visual Medical Innovation powered by WANGYiping, 2021-03-09T08:15:24+0000
+/project/fw-file/, fw-file, 0.4.4, Unified data-file interface, 2021-04-15T07:02:45+0000
+/project/ndex2/, ndex2, 3.3.3, Nice CX Python includes a client and a data model., 2021-04-22T22:22:33+0000
+/project/albopictus/, albopictus, 1.12.3, Large-scale environment-driven population dynamics and disease spread models for vector-borne diseases, 2020-02-19T12:44:03+0000
+/project/nasalgeom/, nasalgeom, 1.0.0, A free 3D upper respiratory tract geometry reconstruction software, 2017-12-05T12:34:53+0000
+/project/uniqed/, uniqed, 0.0.2, Simple implementation of the Temporal Outlier Factor, 2020-11-24T20:45:29+0000
+/project/trytond-health-qrcodes/, trytond_health_qrcodes, 3.2.10, GNU Health support for Quick Response - QR Codes-  package, 2018-06-05T11:02:40+0000
+/project/croc/, CROC, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2014-07-23T20:57:17+0000
+/project/dcmpi/, dcmpi, 0.0.2.8, DICOM Preprocessing Interface., 2020-06-10T11:10:29+0000
+/project/toil/, toil, 5.3.0, Pipeline management software for clusters., 2021-03-26T00:59:44+0000
+/project/activityio/, activityio, 0.0.3, Exercise data handling library, 2017-04-04T10:56:56+0000
+/project/trytond-health-crypto/, trytond_health_crypto, 3.2.10, GNU Health Crypto Module, 2018-06-05T10:59:29+0000
+/project/ipython2cwl/, ipython2cwl, 0.0.4, Convert IPython Jupyter Notebooks to CWL tool, 2020-07-09T21:49:43+0000
+/project/divik/, divik, 3.0.10, Divisive iK-means algorithm implementation, 2021-02-25T10:37:34+0000
+/project/gcpds-filters/, gcpds-filters, 0.1a0, , 2021-03-24T17:03:09+0000
+/project/testribute/, TEStribute, 0.2.1, Task distribution for GA4GH TES instances, 2019-11-14T01:05:56+0000
+/project/trytond-health-ophthalmology/, trytond_health_ophthalmology, 3.2.10, GNU Health ophthalmology package, 2018-06-05T11:02:19+0000
+/project/miscnn-tf-1-14/, miscnn-TF-1.14, 0.32, Framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning, 2020-04-30T16:59:03+0000
+/project/dismod-mr/, dismod-mr, 1.1.1, Integrative Meta-Regression Framework for Descriptive Epidemmiology, 2019-11-06T18:13:54+0000
+/project/corona-dashboard/, corona-dashboard, 0.0.1, Forecasting the spread of the novel coronavirus., 2020-05-06T19:39:22+0000
+/project/trytond-health-stock/, trytond_health_stock, 3.2.10, GNU Health package for stock management, 2018-06-05T11:02:59+0000
+/project/scikit-surgerytorsosimulator/, scikit-surgerytorsosimulator, 0.0.1, scikit-surgerytorsosimulator provides an application to simulate an ultrasound probe moving over a body torso, it is intended for public engagement events", 2019-05-28T08:23:20+0000
+/project/pymedphys-base/, pymedphys-base, 0.11.0, , 2019-09-10T09:18:12+0000
+/project/itk-principalcomponentsanalysis/, itk-principalcomponentsanalysis, 1.0.0, ITK classes for the analysis of the principal components of data sets, optionally point data associated with the vertices of a mesh., 2020-11-24T17:10:09+0000
+/project/gnuhealth-pediatrics/, gnuhealth-pediatrics, 3.8.0, GNU Health pediatrics package, 2021-02-14T20:47:27+0000
+/project/gnuhealth-qrcodes/, gnuhealth-qrcodes, 3.8.0, GNU Health support for Quick Response - QR Codes-  package, 2021-02-14T20:47:43+0000
+/project/trytond-health-socioeconomics/, trytond_health_socioeconomics, 3.2.10, GNU Health Person and family socioeconomic history and assessment, 2018-06-05T11:02:55+0000
+/project/caw/, caw, 0.0.1rc1, ChRIS Automatic Workflows, 2021-04-23T21:51:32+0000
+/project/pame/, PAME, 0.3.2, GUI for modeling nanoparticles on optical fiber with mixing/shell-filling models, 2015-05-13T19:59:39+0000
+/project/scikit-surgery-evaluation/, scikit-surgery-evaluation, 0.0.3, A python library for performing surgical skills evaluation, 2020-08-10T13:26:55+0000
+/project/miutil/, miutil, 0.7.2, Medical imaging utilities for the AMYPAD and NiftyPET projects, 2021-02-01T22:13:29+0000
+/project/sonotools/, sonotools, 0.1.8, Utility functions to aid with machine learning of cardiac ultrasound., 2020-09-18T15:25:32+0000
+/project/freesurfer-volume-reader/, freesurfer-volume-reader, 2.1.0, Python script & library to read hippocampal subfield volumescomputed by Freesurfer & ASHS, 2020-07-11T21:00:45+0000
+/project/ndex-dev/, ndex-dev, 3.0.11.41, NDEx Python includes a client and a data model., 2018-06-28T23:21:55+0000
+/project/itk-morphologicalcontourinterpolation/, itk-morphologicalcontourinterpolation, 1.0.1, Image morphological contour interpolation., 2021-01-29T01:05:21+0000
+/project/samecell/, SameCell, 0.0.1a2, SameCell: upstream analysis of paired scATAC & scRNA, 2021-03-31T01:31:39+0000
+/project/neuropythy/, neuropythy, 0.11.9, Toolbox for flexible cortical mesh analysis and registration, 2020-09-30T23:47:08+0000
+/project/biowardrobe-airflow-plugins/, biowardrobe-airflow-plugins, 1.1.3, Add plugin workflows to BioWardrobe, 2019-01-23T20:30:17+0000
+/project/trytond-health-iss/, trytond_health_iss, 3.2.10, GNU Health Injury Surveillance System package, 2018-06-05T11:01:50+0000
+/project/vtk/, vtk, 9.0.1, VTK is an open-source toolkit for 3D computer graphics, image processing, and visualization, 2020-06-24T17:36:11+0000
+/project/gnuhealth-icd11/, gnuhealth-icd11, 3.8.0, GNU Health WHO ICD11 Package, 2021-02-14T20:45:49+0000
+/project/itk-core/, itk-core, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:11:24+0000
+/project/trytond-health-genetics/, trytond_health_genetics, 3.2.10, GNU Health Genetics Module, 2018-06-05T10:59:55+0000
+/project/xnat/, xnat, 0.3.26, An XNAT client that exposes the XNAT REST interface as python objects. Part of the interface is automatically generated based on the servers data model as defined by the xnat schema., 2021-04-16T13:12:12+0000
+/project/pymedphys-dicom/, pymedphys-dicom, 0.11.0, , 2019-09-10T09:20:20+0000
+/project/trytond-health-ophtalmo/, trytond_health_ophtalmo, 1.0.0, This module includes :
+
+- Oftalmology Information, 2012-07-06T02:30:41+0000
+/project/lissero/, lissero, 0.4.9, In silico serotyping of Listeria monocytogenes, 2021-03-30T17:09:42+0000
+/project/itk-texturefeatures/, itk-texturefeatures, 3.5.0, An ITK module to compute N-dimension grayscale texture feature images, 2021-04-21T15:13:16+0000
+/project/dicom-ecg-plot/, dicom-ecg-plot, 1.3.2, Plot Dicom ECG Waveforms, 2021-04-12T23:21:00+0000
+/project/pyhpoapi/, pyhpoapi, 1.2.1, A HTTP REST API to work with the HPO Ontology, 2021-02-15T13:16:48+0000
+/project/deep-tumour-spheroid/, Deep-Tumour-Spheroid, 1.0.0rc1, Deep Learning methods for the segmentation of Tumour Spheroids, 2020-09-08T21:40:00+0000
+/project/itk-twoprojectionregistration/, itk-twoprojectionregistration, 1.1.0, ITK classes for two-projection 2D/3D registration, 2020-06-09T22:18:22+0000
+/project/gnuhealth-icd9procs/, gnuhealth-icd9procs, 3.8.0, GNU Health WHO ICD9 - Volume 3 - procedures package, 2021-02-14T20:45:56+0000
+/project/gnuhealth-icd10/, gnuhealth-icd10, 3.8.0, GNU Health WHO ICD10 Module, 2021-02-14T20:45:06+0000
+/project/itk-meshnoise/, itk-meshnoise, 0.0.1, Classes to perturb mesh objects with Gaussian noise, 2020-07-15T14:59:30+0000
+/project/ndexutil/, ndexutil, 0.13.1, Unsupported NDEx utilities, 2020-11-12T01:18:34+0000
+/project/uparma/, uparma, 0.4.0, uparma, 2021-04-14T10:01:31+0000
+/project/pyabf/, pyabf, 2.2.8, Python library for reading files in Axon Binary Format (ABF), 2020-09-03T17:25:30+0000
+/project/chunky3d/, chunky3d, 0.1.5, A 3D array-like NumPy-based data structure for large sparsely-populated volumes, 2020-12-31T18:16:35+0000
+/project/sdt-metrics/, sdt_metrics, 0.1.2.1, Signal Detection Theory (SDT) metrics for Python, 2012-06-12T23:46:54+0000
+/project/itk-shape/, itk-shape, 0.1.0, A C++ implementation of Procrustes alignment for 3D meshes., 2021-04-18T13:18:35+0000
+/project/dicom2cloud/, dicom2cloud, 0.9, Platform independent GUI for anonymizing/uploading brain scans to an image processing cloud instance, 2017-11-08T02:20:09+0000
+/project/miscan/, MiScan, 1.1.1, MiScan: mutation-inferred screening model of cancer, 2020-01-15T03:45:42+0000
+/project/dicompyler-core/, dicompyler-core, 0.5.5, A library of core radiation therapy modules for DICOM / DICOM RT used by dicompyler, 2019-06-01T04:48:01+0000
+/project/gnuhealth-history/, gnuhealth-history, 3.8.0, GNU Health personal and medical history package, 2021-02-14T20:44:45+0000
+/project/emulsion/, emulsion, 1.1.1, Epidemiological Multi-Level Simulation framework, 2020-10-19T15:28:49+0000
+/project/itk-gpucommon/, itk-gpucommon, 0.2.0, Core classes for ITK filters accelerated with OpenCL., 2019-12-12T11:14:03+0000
+/project/entrodistropy/, EntroDistroPy, 0.6, Library which creates an entropy discretizier and overlays discretizers from main libraries such a sikit-learn, 2020-10-17T23:36:31+0000
+/project/scikit-surgerynditracker/, scikit-surgerynditracker, 0.1.11, Interface for Northern Digital (NDI) Trackers with data to NumPy arrays, 2021-04-14T09:40:31+0000
+/project/scikit-surgerysurfacematch/, scikit-surgerysurfacematch, 0.4.5, Tools for reconstructing and matching surfaces represented as point clouds., 2020-10-22T10:51:18+0000
+/project/platipy/, platipy, 0.1.0, Processing Library and Analysis Toolkit for Medical Imaging in Python, 2021-03-14T22:38:45+0000
+/project/florin/, florin, 0.0.2.post1, Fast image segmentation without needing to learn a thing., 2019-10-01T17:01:32+0000
+/project/img-pipe/, img-pipe, 2019.3.15.2, Image processing pipeline for localization and identification of electrodes for electrocorticography, 2019-03-15T22:12:47+0000
+/project/biocommons-seqrepo/, biocommons.seqrepo, 0.6.3, , 2020-09-11T00:16:07+0000
+/project/torchxrayvision/, torchxrayvision, 0.0.25, TorchXRayVision: A library of chest X-ray datasets and models, 2021-04-16T17:50:27+0000
+/project/pymedphys-toolbox/, pymedphys-toolbox, 0.11.0, , 2019-09-10T09:20:43+0000
+/project/pylibjpeg-libjpeg/, pylibjpeg-libjpeg, 1.2.0, A Python wrapper for libjpeg, with a focus on use as a plugin for for pylibjpeg, 2021-04-10T23:23:40+0000
+/project/unimod-mapper/, unimod-mapper, 0.4.2, unimod_mapper, 2021-04-15T09:10:56+0000
+/project/itk-elastix-opencl/, itk-elastix-opencl, 0.12.0, Provides an ITK Python interface to elastix, a toolbox for rigid and nonrigid registration of images, 2021-04-06T21:05:43+0000
+/project/reoptimize/, reoptimize, 0.1.0a2, A tool to optimize reaction conditions for restriction enzyme digests of DNA, 2017-09-01T07:59:20+0000
+/project/medic/, medic, 2.4.1, A command line tool to manage a PubMed DB mirror., 2015-09-28T08:42:38+0000
+/project/cnvkit/, CNVkit, 0.9.8, Copy number variation toolkit for high-throughput sequencing., 2020-12-13T22:03:44+0000
+/project/boavus/, boavus, 0.4, Tools to analyze data structured as BIDS in Python, 2018-12-06T08:18:58+0000
+/project/madgui/, madgui, 20.10.0, GUI for accelerator simulations using MAD-X., 2020-10-15T14:59:38+0000
+/project/neoepiscope/, neoepiscope, 0.5.0, comprehensive neoepitope prediction software, 2020-10-21T21:50:42+0000
+/project/gnuhealth-imaging/, gnuhealth-imaging, 3.8.0, GNU Health Diagnostic Imaging management package, 2021-02-14T20:46:21+0000
+/project/trytond-health-invoice/, trytond_health_invoice, 1.4.5, This module add functionality to create invoices for doctor's consulting charge.        Features:        -Invoice of multiple appointments at a time., 2012-04-20T01:49:28+0000
+/project/csg-dicoms-anonymizer/, csg-dicoms-anonymizer, 1.4.2, Robust and easy to use generic dicoms anonymizer with demographics csv spreadsheet anonymization by hashed ids, 2018-02-17T14:44:12+0000
+/project/dcm2bids/, dcm2bids, 2.1.6, Reorganising NIfTI files from dcm2niix into the Brain Imaging Data Structure, 2021-02-27T12:47:43+0000
+/project/iptkl/, IPTKL, 0.4.12, IPTK is a library specialized in the analysis of HLA-peptidomes identified through an immunopeptidomics pipeline., 2021-01-19T22:43:43+0000
+/project/ore/, ore, 0.2.1, Associate outliers with rare variation, 2019-01-10T18:39:03+0000
+/project/gnuhealth-crypto/, gnuhealth-crypto, 3.8.0, GNU Health Crypto Module, 2021-02-14T20:43:41+0000
+/project/biorad1sc-reader/, biorad1sc-reader, 0.7.0, Allows reading Bio-Rad *.1sc image/analysis files., 2020-11-30T05:47:35+0000
+/project/biomedicus/, biomedicus, 3.0b10, A biomedical and clinical NLP engine., 2021-03-11T00:50:31+0000
+/project/deepsurvk/, deepsurvk, 0.2.0, Implementation of DeepSurv using Keras, 2020-11-05T12:46:42+0000
+/project/pymedphys-workshops/, pymedphys-workshops, 0.1.0, , 2019-04-23T12:08:26+0000
+/project/entropies/, entropies, 0.2, , 2020-07-26T03:47:23+0000
+/project/edflib/, edflib, 0.83, python edflib is a python package ot allow access to European Data Format files (EDF for short). This is a standard for biological signals such as EEG, evoked potentials and EMG.  This module wraps Teunis van Beelen's edflib., 2020-06-22T18:39:11+0000
+/project/scikit-surgeryimage/, scikit-surgeryimage, 0.8.6, scikit-surgeryimage implements image processing tools and alogrithms for Image Guided Surgery., 2021-03-30T09:26:25+0000
+/project/cellsystem/, cellsystem, 0.4.2, An agent-based framework for the simulation of biological cell systems and more., 2018-08-29T21:11:27+0000
+/project/pyvct/, pyvct, 0.2.0, ABAQUS plug-in to create virtual CTs from 3D finite element bone/implant models, 2015-08-16T23:54:56+0000
+/project/ddrage/, ddrage, 1.7.1, Simulator for ddRADseq (double digest restriction site associated DNA sequencing) datasets. Generates reads (FASTQ format) that can be analyzed and validated using a ground truth file (YAML)., 2020-04-16T14:30:59+0000
+/project/explorepy/, explorepy, 1.4.0, Python API for Mentalab biosignal aquisition devices, 2021-03-31T12:37:24+0000
+/project/itk-ndreg/, itk-ndreg, 0.2.1, This is the Neurodata open-source Python package that performs affine and deformable (LDDMM) image registration., 2021-03-09T21:50:53+0000
+/project/nicecx-dev/, nicecx-dev, 0.0.1b7, Nice CX Python includes a client and a data model., 2017-10-18T22:29:33+0000
+/project/pyclarity-lims/, pyclarity-lims, 0.4.8, Python interface to the Basespace-Clarity LIMS (Laboratory Information Management System) server via its REST API., 2019-03-13T15:56:31+0000
+/project/interfile/, interfile, 0.3.1, Interfile read and write., 2015-11-23T13:13:27+0000
+/project/itk-adaptivedenoising/, itk-adaptivedenoising, 0.2.0, Denoise an image using a spatially adaptive filter., 2021-01-20T16:22:53+0000
+/project/cwl-airflow-tester/, cwl-airflow-tester, 1.0.20190620213659, Tester for cwl-airflow-parser, 2019-06-20T21:40:57+0000
+/project/myokit/, myokit, 1.32.0, A simple interface to cardiac cellular electrophysiology, 2021-01-19T23:14:31+0000
+/project/trytond-health-gyneco/, trytond_health_gyneco, 3.2.10, GNU Health Gynecology and Obstetrics package  , 2018-06-05T11:00:24+0000
+/project/cwltool/, cwltool, 3.0.20210319143721, Common workflow language reference implementation, 2021-03-19T14:51:00+0000
+/project/qmenta-anon/, qmenta-anon, 0.7, The qmenta-anon library is used by the qmenta-client library to anonymize files before transferring them to the QMENTA platform., 2019-11-28T16:24:35+0000
+/project/bci-framework/, bci-framework, 1.0.dev7, A real-time tool for acquisition, analysis and stimuli delivery for OpenBCI., 2021-04-21T17:33:27+0000
+/project/phylogeny/, phylogeny, 0.1.1, An exploration of algorithms for phylogeny reconstruction., 2018-08-30T20:42:26+0000
+/project/gnuhealth-nursing/, gnuhealth-nursing, 3.8.0, GNU Health nursing functionality package, 2021-02-14T20:47:15+0000
+/project/medio/, medio, 0.4.0, Medical images I/O python package, 2021-04-06T22:31:34+0000
+/project/datameta-client/, datameta-client, 0.1.0, A high-level client for interacting with a DataMeta service, 2021-03-23T11:18:57+0000
+/project/multifastadb/, multifastadb, 0.2.10, present a collection of indexed fasta files as a single source, 2015-09-10T22:05:51+0000
+/project/bioflow/, BioFlow, 0.2.3, Information Flow Analysis in biological networks, 2018-10-22T21:10:43+0000
+/project/chrispile/, chrispile, 1.2.4, Syntactic sugar for running ChRIS apps locally, 2021-03-18T18:47:58+0000
+/project/itk-gpufinitedifference/, itk-gpufinitedifference, 0.2.0, Base classes for ITK finite difference filters accelerated with OpenCL., 2019-12-12T11:14:20+0000
+/project/musestudio/, musestudio, 0.1.0, Import Muse recordings. Convert data to MNE and Pandas. View brain data in real time., 2021-02-26T09:55:54+0000
+/project/pymedphys/, pymedphys, 0.36.1, Medical Physics library, 2021-03-19T03:47:20+0000
+/project/shamo/, shamo, 1.1.0, A tool for electromagnetic modelling of the head and sensitivity analysis., 2021-04-22T13:32:18+0000
+/project/nimpa/, nimpa, 2.1.0, CUDA-accelerated Python utilities for high-throughput neuroimage processing and analysis, 2021-01-31T21:31:54+0000
+/project/pynwb/, pynwb, 1.4.0, Package for working with Neurodata stored in the NWB format, 2020-08-13T16:50:46+0000
+/project/megdata/, megdata, 1.0.3, Python MEG data readers, 2018-10-24T10:52:00+0000
+/project/genologics/, genologics, 0.4.6, Python interface to the Illumina Basespace Clarity LIMS (Laboratory Information Management System) server via its REST API., 2019-04-26T14:16:39+0000
+/project/opencmiss-zincwidgets/, opencmiss.zincwidgets, 2.0.0, , 2020-04-22T09:00:29+0000
+/project/luxconnector/, luxconnector, 1.0.2, This is a python wrapper around the Lux Client windows solution, 2021-04-15T13:42:24+0000
+/project/nimesh/, nimesh, 0.0.1, A Python package to manipulate neuroimaging triangular meshes., 2018-08-10T09:50:56+0000
+/project/molstruct/, molstruct, 3.0.0, Convert chemical molecule data CSV files to structured data formats, 2021-04-21T20:52:57+0000
+/project/clintrials/, clintrials, 0.1.4, clintrials is a library of clinical trial designs and methods in Python, 2016-11-03T17:32:27+0000
+/project/pygpso/, pygpso, 0.6, Bayesian optimisation method leveraging Gaussian Processes surrogate, 2020-11-16T16:42:47+0000
+/project/pirt/, pirt, 2.1.0, Pirt - Python Image Registration Toolkit , 2018-03-19T13:27:55+0000
+/project/itk-phasesymmetry/, itk-phasesymmetry, 1.0.4, ITK classes for computing phase symmetry using multi-scale steerable filters, 2020-11-25T19:23:00+0000
+/project/scikit-surgerycore/, scikit-surgerycore, 0.6.9, scikit-surgerycore contains commonly used Image Guided Surgery algorithms and tools, 2021-04-08T07:37:25+0000
+/project/niftypy/, NiftyPy, 0.4.0, Python wrapper for NiftyRec, NiftyReg and NiftySeg: tomographic reconstruction, volumetric registration and segmentation., 2017-03-12T19:06:51+0000
+/project/gnuhealth-orthanc/, gnuhealth-orthanc, 3.8.0, GNU Health Orthanc package, 2021-02-14T20:47:23+0000
+/project/modlamp/, modlamp, 4.3.0, python package for in silico peptide design and QSAR studies, 2021-02-25T17:58:49+0000
+/project/abf-explorer/, abf-explorer, 0.6, A PyQt GUI to quickly visualize ABF electrophysiology files, 2021-04-21T16:31:41+0000
+/project/suspect/, suspect, 0.4.4, , 2020-11-20T12:21:48+0000
+/project/bmdanalyse/, BMDanalyse, 0.2.0, Tool to analyse regional changes in a time series of 2D medical images., 2016-06-07T04:46:29+0000
+/project/spiky/, spiky, 1.0.4, Spike sorting based on Gaussian Mixture Model, 2018-02-25T20:59:38+0000
+/project/ndex-utils-dev/, ndex-utils-dev, 3.0.11.8, NDEx Python utilities.  Includes file conversion and importing functions, 2017-01-06T23:46:57+0000
+/project/genologics-sql/, genologics_sql, 0.0.2, Python interface to the Illumina Clarity LIMS (Laboratory Information Management System) (formerly Genologics) server via its postgres database., 2017-10-03T13:03:27+0000
+/project/itk-higherorderaccurategradient/, itk-higherorderaccurategradient, 1.1.0, ITK filters to estimate higher order accurate derivative and gradients, 2021-04-06T21:20:54+0000
+/project/dvha-mlca/, dvha-mlca, 0.2.3.post1, Batch analyze DICOM-RT Plan files to calculate Complexity Scores, 2021-02-01T00:36:29+0000
+/project/scikit-surgerybk/, scikit-surgerybk, 0.3.3, Python package for interfacing with BK Ultrasound machines, 2019-07-11T12:34:54+0000
+/project/ccaf/, ccAF, 1.0.1, Classify scRNA-seq profiling with highly resolved cell cycle phases., 2020-08-04T05:48:31+0000
+/project/gnuhealth-surgery/, gnuhealth-surgery, 3.8.0, GNU Health package for Sugeries, 2021-02-14T20:48:10+0000
+/project/trytond-health-surgery/, trytond_health_surgery, 3.2.10, GNU Health package for Sugeries, 2018-06-05T11:03:03+0000
+/project/swc2vtk/, swc2vtk, 1.1.0, SWC to VTK converter for visualize multi-compartment neurons and neural circuit simulations, 2017-01-30T08:44:42+0000
+/project/trytond-health-icd10/, trytond_health_icd10, 3.2.10, GNU Health WHO ICD10 Module, 2018-06-05T11:00:58+0000
+/project/pumphandle/, pumphandle, 0.0.2, Tools for computational epidemiology, 2013-12-03T20:37:48+0000
+/project/imagesplit/, ImageSplit, 0.3.4, Utility for splitting large image files into slices or chunks, 2021-02-28T22:56:50+0000
+/project/trytond-health-pediatrics-growth-charts-who/, trytond_health_pediatrics_growth_charts_who, 3.2.10, GNU Health Pediatrics growth charts - WHO Module, 2018-06-05T11:02:32+0000
+/project/sbpipe/, sbpipe, 4.21.0, Pipelines for systems modelling of biological networks., 2018-06-26T14:46:38+0000
+/project/meningotype/, meningotype, 0.8.4, In silico serotyping and finetyping (porA and fetA) of Neisseria meningitidis, 2021-03-24T19:18:02+0000
+/project/dicom-standard/, dicom-standard, 0.1.0, Parse the DICOM Standard into a human-friendly JSON format., 2017-07-03T17:34:04+0000
+/project/nhs-number/, nhs-number, 1.2.1, Python library for checking the validity of NHS Numbers, 2021-03-01T11:32:26+0000
+/project/pymedtermino/, PyMedTermino, 0.3.3, Medical Terminologies for Python: SNOMED CT, ICD10, MedDRA, CDF, UMLS and VCM icons, 2017-10-30T14:39:51+0000
+/project/gnuhealth-services-lab/, gnuhealth-services-lab, 3.8.0, GNU Health package to manage Laboratoy associated services, 2021-02-14T20:47:58+0000
+/project/slideio/, slideio, 0.5.225, Reading of medical images, 2021-01-16T14:01:47+0000
+/project/pylidc/, pylidc, 0.2.2, A library for working with the LIDC dataset., 2020-04-23T00:09:56+0000
+/project/sonia/, sonia, 0.0.45, Infer and compute selection factors of CDR3 sequences, 2021-03-12T08:36:18+0000
+/project/itk-montage/, itk-montage, 0.7.3, Montaging for microscopy imaging files., 2021-04-06T22:14:13+0000
+/project/pyrodigal/, pyrodigal, 0.4.7, Python interface to Prodigal, an ORF finder for genomes, progenomes and metagenomes., 2021-04-09T01:55:03+0000
+/project/bioutils/, bioutils, 0.5.3, miscellaneous simple bioinformatics utilities and lookup tables, 2021-04-14T15:50:45+0000
+/project/chemical-composition/, chemical-composition, 0.1.2, chemical_composition, 2021-03-22T12:15:09+0000
+/project/neurodynex/, neurodynex, 0.3.4, Python exercises accompanying the book Neuronal Dynamics by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski., 2017-04-30T19:12:15+0000
+/project/mbfxml2ex/, mbfxml2ex, 0.4.2, Python client for generating Ex format model descriptions from MBF XML., 2021-01-26T21:31:35+0000
+/project/memcnn/, memcnn, 1.5.0, A PyTorch framework for developing memory efficient deep invertible networks., 2020-11-24T10:07:33+0000
+/project/arcana/, arcana, 0.6.1, Abstracted repository-centric analysis framework, 2019-11-14T12:29:55+0000
+/project/scoary/, scoary, 1.6.16, Microbial pan-GWAS using the output from Roary, 2017-10-04T12:36:14+0000
+/project/itk-strain/, itk-strain, 0.3.3, ITK filters to estimate a strain tensor field from a displacement field or a spatial transformation, 2021-04-06T22:54:44+0000
+/project/eutils/, eutils, 0.6.0, "Python interface to NCBI's eutilities API", 2019-12-17T19:19:17+0000
+/project/methylcheck/, methylcheck, 0.7.1, Quality Control (QC), Visualization/plotting, and postprocessing software for Illumina methylation array data. See https://life-epigenetics-methylcheck.readthedocs-hosted.com/en/latest/ for full documentation and examples., 2021-04-08T21:25:11+0000
+/project/uparma-py/, uparma-py, 0.1.0, uparma, 2021-03-22T11:46:50+0000
+/project/itk-simpleitkfilters/, itk-simpleitkfilters, 0.2.0, This module contains a collension of ITK Filters used by SimpleITK. These filter are usefull to SimpleITK in that they may wrap existing ITK filters with an interface expected by SimpleITK, or may add important basic filters needed for completeness., 2020-10-07T13:53:03+0000
+/project/amsterdamumcdb/, amsterdamumcdb, 0.1.0, Common functions for data exploration on AmsterdamUMCdb, 2021-04-22T22:50:53+0000
+/project/ndicom-gaussian-mixture/, ndicom-gaussian-mixture, 0.0.1.dev1, , 2018-06-09T00:03:57+0000
+/project/electroninserts/, electroninserts, 0.1.0, A simplified more transparent package for the spline modelling of electron insert factors, 2016-08-05T03:51:53+0000
+/project/pymedphys-utilities/, pymedphys-utilities, 0.11.0, , 2019-09-10T09:18:22+0000
+/project/scikit-surgeryutils/, scikit-surgeryutils, 1.0.2, scikit-surgeryutils - Tests/demos utilities, based around opencv-contrib and PySide2, 2021-02-03T17:16:24+0000
+/project/liesl/, liesl, 0.3.4.8, Toolbox to receive and process LSL streams and handle XDF files., 2021-02-23T15:20:53+0000
+/project/gnuhealth-stock/, gnuhealth-stock, 3.8.0, GNU Health package for stock management, 2021-02-14T20:48:05+0000
+/project/pyuvvis/, PyUvVis, 0.1.1-2, Pandas-based toolkit for spectral data analysis, primarily UVVis spectra for now., 2012-12-08T21:45:56+0000
+/project/itk-filtering/, itk-filtering, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:12:13+0000
+/project/vbindex/, VBIndex, 0.0.4, Library and command-line tool to calculate the Vogt-Bailey index of a dataset, 2019-12-12T13:46:34+0000
+/project/graphysio/, graphysio, 2020.6.19, Graphical time series visualizer and analyzer., 2020-06-19T12:37:10+0000
+/project/dicomsdl/, dicomsdl, 0.107.1, A fast and light-weighted DICOM software development library, 2020-10-02T05:59:53+0000
+/project/a2d-diary/, a2d_diary, 0.1.5, A2D-Diary web app. Create and encode paper diaries automatically, 2017-11-11T17:37:39+0000
+/project/hl7/, hl7, 0.4.2, Python library parsing HL7 v2.x messages, 2021-02-15T21:24:52+0000
+/project/clashchimeras/, CLASHChimeras, 0.2, Python package to find chimeras in CRAC/CLASH and HITS-CLIP datasets, 2017-02-06T16:19:44+0000
+/project/libcx/, libcx, 0.1.0, CX contact tracing, 2020-04-27T17:17:16+0000
+/project/tfce-mediation/, tfce-mediation, 1.5.3, TFCE_mediation, 2018-10-23T13:00:00+0000
+/project/innereye-dicom-rt/, InnerEye-DICOM-RT, 1.0.1, InnerEye DICOM to Nifti conversion functions, 2021-04-09T13:33:52+0000
+/project/pymedphys-analysis/, pymedphys-analysis, 0.11.0, , 2019-09-10T09:20:31+0000
+/project/tyssue/, tyssue, 0.8.0, tyssue is a living tissues, cell level, modeling library, 2020-12-10T08:56:37+0000
+/project/gnuhealth-genetics/, gnuhealth-genetics, 3.8.0, GNU Health Genetics Module, 2021-02-14T20:44:27+0000
+/project/vfclust/, VFClust, 0.1.1, Clustering of Verbal Fluency responses., 2014-07-08T19:48:08+0000
+/project/ursgal/, ursgal, 0.6.8, ursgal, 2020-12-22T21:42:16+0000
+/project/smpc/, smpc, 0.0.1, secure multiparty computation, 2020-02-03T21:50:35+0000
+/project/im-standardize-molecule/, im-standardize-molecule, 0.1.0, Utilities for Molecular Science, 2021-03-18T17:18:47+0000
+/project/mushu/, Mushu, 0.2, Brain Computer Interfacing signal acquisition software., 2014-05-20T15:44:33+0000
+/project/iqdmpdf/, IQDMPDF, 0.3.0, Scans a directory for IMRT QA results, 2021-03-15T04:18:19+0000
+/project/astm/, astm, 0.5.0, Python implementation of ASTM E1381/1394 protocol., 2013-03-16T10:11:05+0000
+/project/cwlab/, cwlab, 0.4.1, A platform-agnostic, cloud-ready framework for simplified deployment of the Common Workflow Language using a graphical web interface, 2021-04-07T22:07:33+0000
+/project/pyfast/, pyFAST, 3.2.0, Python bindings of FAST - a framework for high performance medical image computing and visualization on heterogeneous systems utilizing multi-core CPUs and GPUs., 2021-01-14T12:21:37+0000
+/project/pupillib/, pupillib, 1.2.1, A software package to perform trial extraction on Pupil Labs eye tracker data collected into XDF files through LabRecorder., 2019-11-08T04:06:29+0000
+/project/xnatutils/, xnatutils, 0.7.3, A collection of scripts for downloading/uploading and listing data from XNAT repositories., 2021-03-05T02:14:19+0000
+/project/naposapi/, naposapi, 0.1, API for lookup on the NAPOS database, 2017-07-15T19:06:32+0000
+/project/itk-registration/, itk-registration, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:14:11+0000
+/project/mricluster/, mricluster, 0.1, MRI image set clustering module based on Convolutional Neural Network model, 2018-06-18T20:53:55+0000
+/project/peto/, peto, 0.1.0, System for mass periodic infectious disease testing, 2020-04-01T23:15:39+0000
+/project/pylibjpeg-rle/, pylibjpeg-rle, 1.0.0, Python bindings for a fast RLE decoder, with a focus on use as a plugin for pylibjpeg, 2021-04-23T00:15:33+0000
+/project/xnatuploadtool/, XnatUploadTool, 1.1.6, Tool for assisting in uploading data directly to xnat imaging research platform (xnat.org), 2020-04-30T18:28:16+0000
+/project/ray-voxel-overlap/, ray-voxel-overlap, 0.0.4, Estimate the tomographic system-matrix for rays in voxels., 2019-10-09T10:51:57+0000
+/project/fitr/, fitr, 0.0.1, Fit reinforcement learning models to behavioural data, 2017-04-09T00:38:46+0000
+/project/openbci-stream/, openbci-stream, 1.0.0rc18, High level Python module for EEG/EMG/ECG acquisition and distributed streaming for OpenBCI Cyton board., 2021-04-21T17:30:36+0000
+/project/hl7parser/, hl7parser, 0.7.2, A simple HL7 parser, 2020-03-02T15:03:00+0000
+/project/itk-thickness3d/, itk-thickness3d, 5.1.1, An ITK module to compute 3D thickness, 2020-10-11T02:12:29+0000
+/project/miscnn/, miscnn, 1.1.9, Framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning, 2021-04-16T14:16:52+0000
+/project/gnuhealth-ntd-dengue/, gnuhealth-ntd-dengue, 3.8.0, GNU Health Neglected Tropical Diseases. Dengue package, 2021-02-14T20:47:11+0000
+/project/pyhpo/, pyhpo, 2.7.3, A Python package to work with the HPO Ontology, 2021-02-18T16:43:18+0000
+/project/itk/, itk, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:11:10+0000
+/project/itk-totalvariation/, itk-totalvariation, 0.2.1, TotalVariation algorithms, providing a wrap for the external project: https://github.com/albarji/proxTV, 2021-02-15T23:30:21+0000
+/project/pythonmeta/, PythonMeta, 1.23, A Python module of Meta-Analysis, usually applied in systemtic reviews of Evidence-based Medicine., 2021-01-22T02:56:00+0000
+/project/dj-diabetes/, dj_diabetes, 0.3.1, Django Diabetes is a personal Glucose Manager, 2018-04-18T10:11:42+0000
+/project/dicom4ortho/, dicom4ortho, 0.1.1, A DICOM Implementation for Orthodontic Images, 2021-03-02T22:29:21+0000
+/project/beamviz/, beamviz, 0.1.0, A visualizer for BEAMnrc, in particular BLOCK CMs, 2017-01-15T04:58:22+0000
+/project/ndicom-kmeans/, ndicom-kmeans, 0.0.1.dev0, , 2018-06-08T01:21:34+0000
+/project/sonnia/, sonnia, 0.0.7, Infer and compute selection factors of CDR3 sequences, 2021-03-15T12:45:32+0000
+/project/gnuhealth-lab/, gnuhealth-lab, 3.8.0, Occhiolino LIMS: The GNU Health Laboratory Information Management System, 2021-02-14T20:46:51+0000
+/project/itk-parabolicmorphology/, itk-parabolicmorphology, 1.1.0, ITK classes for mathematical morphology using parabolic structuring functions, 2020-06-09T18:01:55+0000
+/project/fri/, fri, 8.1.0, Implementation of Feature Relevance Bounds method to perform Feature Selection and further analysis., 2021-01-01T13:09:59+0000
+/project/gnuhealth-iss/, gnuhealth-iss, 3.8.0, GNU Health Injury Surveillance System package, 2021-02-14T20:46:47+0000
+/project/hl7tersely/, hl7tersely, 1.2, Lightweight HL7 parser focused on HL7 tersers, 2015-05-26T10:40:43+0000
+/project/pymia/, pymia, 0.3.1, A Python package for data handling and evaluation in deep learning-based medical image analysis., 2020-08-02T19:05:22+0000
+/project/scikit-surgeryopencvcpp/, scikit-surgeryopencvcpp, 0.0.13, Image-guided surgery functions, in C++, using OpenCV and wrapped in Python., 2020-06-09T15:30:06+0000
+/project/itk-bsplinegradient/, itk-bsplinegradient, 0.2.4, Approximate an image's gradient from a B-spline fit to its intensity., 2021-04-06T20:52:18+0000
+/project/itk-spcn/, itk-spcn, 0.1.3, This performs structure preserving color normalization on an image using a reference image., 2021-03-30T20:12:53+0000
+/project/dinopy/, dinopy, 2.2.0, DNA input and output library for Python and Cython. Includes reader and writer for FASTA and FASTQ files, support for samtools faidx files, and generators for solid and gapped q-grams (k-mers)., 2020-04-22T11:16:23+0000
+/project/itk-isotropicwavelets/, itk-isotropicwavelets, 0.5.4, Steerable Wavelet Pyramid with Isotropic Wavelets and Riesz Functions, 2019-09-27T21:53:21+0000
+/project/dnaexchange/, dnaexchange, 0.0.1, dnaexchange, 2018-10-29T23:29:27+0000
+/project/pymedphys-coordsandscales/, pymedphys-coordsandscales, 0.11.0, , 2019-09-10T09:18:11+0000
+/project/pymedphys-fileformats/, pymedphys-fileformats, 0.11.0, , 2019-09-10T09:20:20+0000
+/project/keter/, keter, 0.0.1, Bioinformatics platform, 2020-09-15T01:25:53+0000
+/project/vivarium/, vivarium, 0.10.1, vivarium is a microsimulation framework built on top of the standard scientific python stack., 2020-12-24T18:41:27+0000
+/project/pysumix/, pysumix, 0.6.0, Sumix SMX API and data writing and live display, 2018-06-21T14:14:02+0000
+/project/neurodynex3/, neurodynex3, 1.0.3, Python exercises accompanying the book Neuronal Dynamics by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski., 2021-03-08T10:45:30+0000
+/project/pymedphys-monomanage/, pymedphys-monomanage, 0.11.0, , 2019-09-10T09:18:11+0000
+/project/biowardrobe-airflow-analysis/, biowardrobe-airflow-analysis, 1.0.20181214162558, Replaces BioWardrobe's backend with CWL Airflow, 2018-12-14T16:26:11+0000
+/project/sprt/, sprt, 0.0.1, Python package to do sequential probability ratio test, 2017-03-23T01:34:13+0000
+/project/bio-jade/, bio-jade, 1.0, A repository for modules and applications to aid in the design and analysis of Biological molecules, especially when working with Rosetta or PyRosetta., 2018-02-15T23:40:14+0000
+/project/openmapi/, openmapi, 1.4.0, API COVID 19 por Provincias Argentinas, 2020-08-07T04:43:00+0000
+/project/itk-genericlabelinterpolator/, itk-genericlabelinterpolator, 1.0.0, ITK classes for generic interpolation of label images., 2020-06-17T02:30:27+0000
+/project/gcpds-utils/, gcpds-utils, 0.1a2, , 2020-10-15T21:57:30+0000
+/project/trytond-health-icd10pcs/, trytond_health_icd10pcs, 3.2.10, GNU Health ICD10-PCS package. Procedures Coding System, 2018-06-05T11:01:12+0000
+/project/metaseq/, metaseq, 0.5.6, Integrative analysis of high-thoughput sequencing data, 2015-11-15T16:03:22+0000
+/project/trytond-health-icd9procs/, trytond_health_icd9procs, 3.2.10, GNU Health WHO ICD9 - Volume 3 - procedures package, 2018-06-05T11:01:23+0000
+/project/gnuhealth-pediatrics-growth-charts/, gnuhealth-pediatrics-growth-charts, 3.8.0, GNU Health Pediatrics growth charts package, 2021-02-14T20:47:32+0000
+/project/trytond-health-ems/, trytond_health_ems, 3.2.10, GNU Health package for Ambulance and Emergency Management, 2018-06-05T10:59:40+0000
+/project/itk-polartransform/, itk-polartransform, 1.1.2, This module contains ITK classes to transform from cartesian to polar coordinate systems and back., 2020-11-25T16:18:53+0000
+/project/dvha-edit/, dvha-edit, 0.7.post1, Simple DICOM tag editor built with wxPython and pydicom, 2020-05-11T12:39:32+0000
+/project/toil-msk/, toil-msk, 3.21.1, Pipeline management software for clusters., 2020-06-19T15:51:47+0000
+/project/msiimport/, msiimport, 0.1.0, Access analyze75 formatted mass spec images, 2019-05-17T19:44:41+0000
+/project/bxl/, bxl, 0.3.4.post1, Basic library for interacting with the REST interface of XNAT., 2019-07-16T14:18:24+0000
+/project/gnuhealth-pediatrics-growth-charts-who/, gnuhealth-pediatrics-growth-charts-who, 3.8.0, GNU Health Pediatrics growth charts - WHO Module, 2021-02-14T20:47:36+0000
+/project/gnuhealth-archives/, gnuhealth-archives, 3.8.0, GNU Health package to manage paper and legacy clinical records, 2021-02-14T20:43:15+0000
+/project/bidso/, bidso, 0.8, Transparent Object-Oriented Approach to BIDS in Python, 2018-10-16T10:53:05+0000
+/project/trytond-health-services-lab/, trytond_health_services_lab, 3.2.10, GNU Health package to manage Laboratoy associated services, 2018-06-05T11:02:52+0000
+/project/celldeath/, celldeath, 1.0.0, A tool to identify cell death based on deep learning, 2021-02-10T13:48:26+0000
+/project/openbci-stream/, openbci-stream, 1.0.0rc18, High level Python module for EEG/EMG/ECG acquisition and distributed streaming for OpenBCI Cyton board., 2021-04-21T17:30:36+0000
+/project/trytond-health-ntd-chagas/, trytond_health_ntd_chagas, 3.2.10, GNU Health Neglected Tropical Diseases. Chagas package, 2018-06-05T11:02:08+0000
+/project/bonemapy/, bonemapy, 0.4.1, An ABAQUS plug-in to map bone properties from CT scans to 3D finite element bone/implant models, 2013-10-13T03:13:18+0000
+/project/biowardrobe-airflow-analysis/, biowardrobe-airflow-analysis, 1.0.20181214162558, Replaces BioWardrobe's backend with CWL Airflow, 2018-12-14T16:26:11+0000
+/project/bio-jade/, bio-jade, 1.0, A repository for modules and applications to aid in the design and analysis of Biological molecules, especially when working with Rosetta or PyRosetta., 2018-02-15T23:40:14+0000
+/project/openmapi/, openmapi, 1.4.0, API COVID 19 por Provincias Argentinas, 2020-08-07T04:43:00+0000
+/project/bidso/, bidso, 0.8, Transparent Object-Oriented Approach to BIDS in Python, 2018-10-16T10:53:05+0000
+/project/trytond-health-services-lab/, trytond_health_services_lab, 3.2.10, GNU Health package to manage Laboratoy associated services, 2018-06-05T11:02:52+0000
+/project/celldeath/, celldeath, 1.0.0, A tool to identify cell death based on deep learning, 2021-02-10T13:48:26+0000
+/project/amsterdamumcdb/, amsterdamumcdb, 0.1.0, Common functions for data exploration on AmsterdamUMCdb, 2021-04-22T22:50:53+0000
+/project/ndicom-gaussian-mixture/, ndicom-gaussian-mixture, 0.0.1.dev1, , 2018-06-09T00:03:57+0000
+/project/electroninserts/, electroninserts, 0.1.0, A simplified more transparent package for the spline modelling of electron insert factors, 2016-08-05T03:51:53+0000
+/project/pymedphys-utilities/, pymedphys-utilities, 0.11.0, , 2019-09-10T09:18:22+0000
+/project/tfce-mediation/, tfce-mediation, 1.5.3, TFCE_mediation, 2018-10-23T13:00:00+0000
+/project/innereye-dicom-rt/, InnerEye-DICOM-RT, 1.0.1, InnerEye DICOM to Nifti conversion functions, 2021-04-09T13:33:52+0000
+/project/vfclust/, VFClust, 0.1.1, Clustering of Verbal Fluency responses., 2014-07-08T19:48:08+0000
+/project/ursgal/, ursgal, 0.6.8, ursgal, 2020-12-22T21:42:16+0000
+/project/smpc/, smpc, 0.0.1, secure multiparty computation, 2020-02-03T21:50:35+0000
+/project/gpssi/, gpssi, 0.1.1, Sampling image segmentations with Gaussian process, 2020-06-30T08:50:33+0000
+/project/scikit-med/, scikit-med, 0.0.1, scientific computing for medical science and clinical research, 2018-10-23T18:43:17+0000
+/project/pytrip98/, pytrip98, 3.3.7, PyTRiP, 2021-04-08T14:49:50+0000
+/project/rmseq/, rmseq, 0.0.57, RM-seq is a bioinformatics tool for for assessing resistance mutations from PE short-reads., 2019-01-16T06:06:36+0000
+/project/itk-cleaver/, itk-cleaver, 0.0.2, An ITK interface to the Cleaver multi-material tetrahedral meshing library, 2021-03-02T21:48:29+0000
+/project/fri/, fri, 8.1.0, Implementation of Feature Relevance Bounds method to perform Feature Selection and further analysis., 2021-01-01T13:09:59+0000
+/project/trytond-health-crypto-lab/, trytond_health_crypto_lab, 3.2.10, GNU Health package with public-key crypto functionality for laboratories, 2018-06-05T10:59:33+0000
+/project/freesurfer-surface/, freesurfer-surface, 1.2.0, Python Library to Read and Write Surface Files in Freesurfer's TriangularSurface Format, 2021-01-02T21:03:46+0000
+/project/simpleitk-elastix/, SimpleITK-Elastix, 2.0.0rc2, SimpleITK is a simplified interface to the Insight Toolkit (ITK) for image registration and segmentation, 2020-09-01T01:17:25+0000
+/project/restflow/, restflow, 0.8-beta, Interactive Hiflow3 Simulation an HTTP Request far away, 2014-08-30T06:56:15+0000
+/project/itk-ringartifact/, itk-ringartifact, 1.0.0, ITK filters to reduce stripe artifacts or ring artifacts common in x-ray computed tomography, focused ion beam images, etc., 2020-06-25T17:32:08+0000
+/project/deepreg/, deepreg, 0.1.2, DeepReg is a freely available, community-supported open-source toolkit for research and education in medical image registration using deep learning., 2021-02-01T08:46:39+0000
+/project/vedo/, vedo, 2021.0.2, A python module for scientific analysis and visualization of 3D objects and point clouds based on VTK., 2021-03-16T21:23:29+0000
+/project/fmri-physio-log/, fmri-physio-log, 0.1.2, Load fMRI PMU files into python, 2020-09-28T08:32:41+0000
+/project/fhir/, fhir, 0.0.4, HL7 FHIR Library, 2014-04-17T21:30:22+0000
+/project/pyddm/, pyddm, 0.5.1, Extensible drift diffusion modeling for Python, 2020-12-05T00:05:24+0000
+/project/dicompyler/, dicompyler, 0.4.2, Extensible radiation therapy research platform and viewer for DICOM and DICOM RT., 2014-07-16T02:29:54+0000
+/project/itk-splitcomponents/, itk-splitcomponents, 2.0.4, ITK filters to split a multi-component pixel image into component-wise scalar images, 2021-04-06T21:33:42+0000
+/project/resim/, resim, 0.1.1, chemoREsistance SIMulator, 2018-01-13T18:58:24+0000
+/project/scikit-surgerydavinci/, scikit-surgerydavinci, 0.3.2, Augmented Reality for Davinci Surgical Robot, 2020-10-08T09:55:55+0000
+/project/sonocrop/, sonocrop, 0.56, Prepare ultrasound videos for machine learning-- crop and remove static clutter from ultrasound video., 2020-06-07T21:47:28+0000
+/project/methylsuite/, methylsuite, 1.0.3, Python-based Illumina methylation array processing and analysis software composite package, 2021-01-05T21:11:06+0000
+/project/gnuhealth-inpatient/, gnuhealth-inpatient, 3.8.0, GNU Health hospitalization management package, 2021-02-14T20:46:29+0000
+/project/gnuhealth-icu/, gnuhealth-icu, 3.8.0, GNU Health package for Intensive Care  settings, 2021-02-14T20:46:17+0000
+/project/itk-tubetk/, itk-tubetk, 0.2.1, An open-source toolkit, led by Kitware, Inc., for the segmentation, registration, and analysis of tubes and surfaces in images., 2020-06-17T18:22:48+0000
+/project/paperstream/, paperstream, 1.1.0, PaperStream web app. Create and encode paper diaries or surveys automatically, 2018-06-02T20:04:35+0000
+/project/hdmf/, hdmf, 2.5.1, A package for standardizing hierarchical object data, 2021-04-23T16:20:28+0000
+/project/visionegg/, visionegg, 1.2.1, 2D/3D visual stimulus generation, 2009-07-21T10:41:59+0000
+/project/pysimulators/, pysimulators, 1.1.5, Tools to build an instrument model., 2018-11-07T23:06:40+0000
+/project/freestyle-hid/, freestyle-hid, 1.0.2, Python implementation of the HID protocol used by Abbott FreeStyle devices, 2021-03-03T18:07:42+0000
+/project/gnuhealth-profile/, gnuhealth-profile, 3.8.0, GNU Health profile with common packages, 2021-02-14T20:47:40+0000
+/project/openapp-indivo-adminsite/, openapp_indivo_adminsite, 0.1, Admin Site for Indivo, 2012-12-01T08:36:59+0000
+/project/endocal/, endocal, 18.2.13, A cross-platform, compact GUI application for the optical distortion calibration of fluid-immersed endoscopes., 2018-02-13T20:00:22+0000
+/project/trytond-health/, trytond_health, 3.2.10, GNU Health - The Free/Libre Hospital and Health Information System core package for Tryton, 2018-06-05T10:59:17+0000
+/project/gnuhealth-services/, gnuhealth-services, 3.8.0, GNU Health package to manage patient health related services, 2021-02-14T20:47:54+0000
+/project/tmi-viewer/, tmi_viewer, 0.4.3, tmi_viewer, 2018-02-08T11:21:16+0000
+/project/long-gen/, long-gen, 0.2.3, A library of functions for generating longitudinal data, 2020-05-06T21:13:47+0000
+/project/pyhmmer-sepp/, pyhmmer-sepp, 0.3.4, Personal use fork of pyhmmer (Cython bindings and Python interface to HMMER3) for implementing SEPP, 2021-04-04T09:13:48+0000
+/project/spm12/, spm12, 1.0.6, Statistical Parametric Mapping, 2021-02-01T22:28:42+0000
+/project/intensity-normalization/, intensity-normalization, 1.4.5, Normalize the intensity of MR images, 2021-03-17T00:10:01+0000
+/project/automatic-behavior-analysis/, automatic-behavior-analysis, 0.0.21, Program complex for automated behavior analysis, 2020-08-04T19:20:06+0000
+/project/ndex2-performance/, ndex2-performance, 2.0.0.3, Nice CX Python includes a client and a data model., 2018-10-04T23:38:58+0000
+/project/ndicom-improved-kmeans/, ndicom-improved-kmeans, 0.0.1.dev0, , 2018-06-08T23:34:43+0000
+/project/dcm-spec-tools/, dcm-spec-tools, 0.3.1, Python DICOM tools using input from DICOM specs in docbook format, 2021-01-24T18:29:30+0000
+/project/epydemiology/, epydemiology, 0.1.30, A library of Python code for epidemiologists, 2020-05-09T13:25:43+0000
+/project/dwilib/, dwilib, 0.1.8.dev0, Research tools for MRI-based CAD of cancer, 2018-11-16T08:07:56+0000
+/project/tbccpylinac/, TBCCpylinac, 3.1.1, A modified version of Pylinac made specifically for TBCC. Pylinac is a toolkit for performing TG-142 QA-related tasks on a linear accelerator, 2020-11-18T19:07:33+0000
+/project/trytond-health-archives/, trytond_health_archives, 3.2.10, GNU Health package to manage paper and legacy clinical records, 2018-06-05T10:59:21+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/trytond-health-nursing/, trytond_health_nursing, 3.2.10, GNU Health nursing functionality package, 2018-06-05T11:02:15+0000
+/project/immuno-probs/, immuno-probs, 0.2.1, Create IGoR models and calculate the generation probability of V(D)J and CDR3 sequences., 2019-12-15T17:07:33+0000
+/project/xnatworkflowgather/, XnatWorkflowGather, 0.0.1a5, Tool for gathering workflow data from xnat postgres db and posting metrics to datadog using local statsd, 2018-11-16T18:31:41+0000
+/project/trytond-health-ntd-dengue/, trytond_health_ntd_dengue, 3.2.10, GNU Health Neglected Tropical Diseases. Dengue package, 2018-06-05T11:02:11+0000
+/project/boyle/, boyle, 0.2.0, Medical Image Conversion and Input/Output Tools, 2017-11-12T11:17:58+0000
+/project/itk-gpuimagefilterbase/, itk-gpuimagefilterbase, 0.2.0, Base classes for ITK image filters accelerated with OpenCL., 2019-12-12T11:14:31+0000
+/project/ndicom-thresholding/, ndicom-thresholding, 0.0.1.dev1, , 2018-06-08T23:43:38+0000
+/project/versatility/, versatility, 1.0.1, Versatility - find how closely a node in a graph is associated with a community, 2019-04-20T14:13:03+0000
+/project/ndicom-gauss-kernel-kmeans/, ndicom-gauss-kernel-kmeans, 0.0.1.dev0, , 2018-06-08T23:31:59+0000
+/project/scomix/, scomix, 0.0.1, Python package for analysis of data from single-cell data-science., 2020-11-14T09:07:59+0000
+/project/numpy-reduced-flowcytometrytools/, numpy-reduced-flowcytometrytools, 0.5.0, A python package for performing flow cytometry analysis, 2020-05-27T23:13:11+0000
+/project/physiocurve/, physiocurve, 2020.9.8, Library to analyze physiologic data curves., 2020-09-08T10:19:59+0000
+/project/pimz/, pIMZ, 1.0a0, pIMZ: an integrative framework for imaging mass spectrometry analysis, 2020-10-13T20:12:04+0000
+/project/mnisiscom/, mnisiscom, 0.4.0, A simple command line tool and GUI for computing subtraction ictal SPECT coregistered to MRI (SISCOM). mnisiscom is exclusively intended for research use!, 2020-01-09T03:19:41+0000
+/project/gnuhealth-calendar/, gnuhealth-calendar, 3.8.0, GNU Health Calendar with Caldav support, 2021-02-14T20:43:33+0000
+/project/trytond-health-ntd-chagas/, trytond_health_ntd_chagas, 3.2.10, GNU Health Neglected Tropical Diseases. Chagas package, 2018-06-05T11:02:08+0000
+/project/bonemapy/, bonemapy, 0.4.1, An ABAQUS plug-in to map bone properties from CT scans to 3D finite element bone/implant models, 2013-10-13T03:13:18+0000
+/project/pyhmmer/, pyhmmer, 0.3.0, Cython bindings and Python interface to HMMER3., 2021-03-11T00:18:27+0000
+/project/torchkbnufft/, torchkbnufft, 1.2.0, A high-level, easy-to-deploy non-uniform Fast Fourier Transform in PyTorch., 2021-04-09T23:22:33+0000
+/project/epycom/, epycom, 0.0b2, Package for EEG data processing and analysis, 2021-04-14T20:14:10+0000
+/project/kheops-client/, kheops-client, 0.1.0, Utility for querying and downloading data from a Kheops DICOM database, 2021-03-18T23:29:49+0000
+/project/gnuhealth-ems/, gnuhealth-ems, 3.8.0, GNU Health package for Ambulance and Emergency Management, 2021-02-14T20:43:57+0000
+/project/hl7tersely/, hl7tersely, 1.2, Lightweight HL7 parser focused on HL7 tersers, 2015-05-26T10:40:43+0000
+/project/pymia/, pymia, 0.3.1, A Python package for data handling and evaluation in deep learning-based medical image analysis., 2020-08-02T19:05:22+0000
+/project/scikit-surgeryopencvcpp/, scikit-surgeryopencvcpp, 0.0.13, Image-guided surgery functions, in C++, using OpenCV and wrapped in Python., 2020-06-09T15:30:06+0000
+/project/itk-bsplinegradient/, itk-bsplinegradient, 0.2.4, Approximate an image's gradient from a B-spline fit to its intensity., 2021-04-06T20:52:18+0000
+/project/itk-spcn/, itk-spcn, 0.1.3, This performs structure preserving color normalization on an image using a reference image., 2021-03-30T20:12:53+0000
+/project/dinopy/, dinopy, 2.2.0, DNA input and output library for Python and Cython. Includes reader and writer for FASTA and FASTQ files, support for samtools faidx files, and generators for solid and gapped q-grams (k-mers)., 2020-04-22T11:16:23+0000
+/project/dnaexchange/, dnaexchange, 0.0.1, dnaexchange, 2018-10-29T23:29:27+0000
+/project/pymedphys-fileformats/, pymedphys-fileformats, 0.11.0, , 2019-09-10T09:20:20+0000
+/project/keter/, keter, 0.0.1, Bioinformatics platform, 2020-09-15T01:25:53+0000
+/project/vivarium/, vivarium, 0.10.1, vivarium is a microsimulation framework built on top of the standard scientific python stack., 2020-12-24T18:41:27+0000
+/project/pysumix/, pysumix, 0.6.0, Sumix SMX API and data writing and live display, 2018-06-21T14:14:02+0000
+/project/neurodynex3/, neurodynex3, 1.0.3, Python exercises accompanying the book Neuronal Dynamics by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski., 2021-03-08T10:45:30+0000
+/project/pymedphys-monomanage/, pymedphys-monomanage, 0.11.0, , 2019-09-10T09:18:11+0000
+/project/sprt/, sprt, 0.0.1, Python package to do sequential probability ratio test, 2017-03-23T01:34:13+0000
+/project/ray-voxel-overlap/, ray-voxel-overlap, 0.0.4, Estimate the tomographic system-matrix for rays in voxels., 2019-10-09T10:51:57+0000
+/project/fitr/, fitr, 0.0.1, Fit reinforcement learning models to behavioural data, 2017-04-09T00:38:46+0000
+/project/gnuhealth-calendar/, gnuhealth-calendar, 3.8.0, GNU Health Calendar with Caldav support, 2021-02-14T20:43:33+0000
+/project/itk-elastix/, itk-elastix, 0.12.0, Provides an ITK Python interface to elastix, a toolbox for rigid and nonrigid registration of images, 2021-04-06T20:28:52+0000
+/project/federated/, federated, 0.0.1, federated computing, 2020-02-03T21:45:22+0000
+/project/cardiopy/, cardiopy, 0.0.5, Analysis package for single-lead clinical EKG data, 2020-10-06T20:17:06+0000
+/project/gpssi/, gpssi, 0.1.1, Sampling image segmentations with Gaussian process, 2020-06-30T08:50:33+0000
+/project/scikit-med/, scikit-med, 0.0.1, scientific computing for medical science and clinical research, 2018-10-23T18:43:17+0000
+/project/pytrip98/, pytrip98, 3.3.7, PyTRiP, 2021-04-08T14:49:50+0000
+/project/scikit-surgery-sphere-fitting/, scikit-surgery-sphere-fitting, 0.0.4, scikit-surgery-sphere-fitting implements a least squares sphere fitting algorithm, to read a vtk poly data file, a config file, and outputs the fitted sphere, 2020-06-12T09:19:10+0000
+/project/gnuhealth-socioeconomics/, gnuhealth-socioeconomics, 3.8.0, GNU Health Person and family socioeconomic history and assessment, 2021-02-14T20:48:02+0000
+/project/pynetdicom/, pynetdicom, 1.5.7, A Python implementation of the DICOM networking protocol, 2021-04-19T04:36:58+0000
+/project/simplewrap/, simplewrap, 0.3.3, Easy to use wrappers generator for C libraries based on ctypes., 2018-11-09T01:38:19+0000
+/project/pymedphys-databases/, pymedphys-databases, 0.11.0, , 2019-09-10T09:20:32+0000
+/project/gnuhealth-federation/, gnuhealth-federation, 3.8.0, GNU Health Federation, 2021-02-14T20:44:01+0000
+/project/ctrax/, Ctrax, 0.5.8, Ctrax: The Caltech Multiple Fly Tracker, 2016-09-17T23:53:07+0000
+/project/uta/, uta, 0.1.8, Universal Transcript Archive, 2014-10-08T17:19:46+0000
+/project/pycardiac/, pyCardiac, 1.0.1, , 2019-05-24T18:29:19+0000
+/project/itk-fixedpointinversedisplacementfield/, itk-fixedpointinversedisplacementfield, 1.0.0, Takes a displacement field as input and computes the displacement field that is its inverse., 2020-11-22T00:04:29+0000
+/project/ngmaster/, ngmaster, 0.5.8, In silico multi-antigen sequence typing for Neisseria gonorrhoeae (NG-MAST), 2021-03-23T23:01:27+0000
+/project/graphysio/, graphysio, 2020.6.19, Graphical time series visualizer and analyzer., 2020-06-19T12:37:10+0000
+/project/dicomsdl/, dicomsdl, 0.107.1, A fast and light-weighted DICOM software development library, 2020-10-02T05:59:53+0000
+/project/a2d-diary/, a2d_diary, 0.1.5, A2D-Diary web app. Create and encode paper diaries automatically, 2017-11-11T17:37:39+0000
+/project/hl7/, hl7, 0.4.2, Python library parsing HL7 v2.x messages, 2021-02-15T21:24:52+0000
+/project/clashchimeras/, CLASHChimeras, 0.2, Python package to find chimeras in CRAC/CLASH and HITS-CLIP datasets, 2017-02-06T16:19:44+0000
+/project/libcx/, libcx, 0.1.0, CX contact tracing, 2020-04-27T17:17:16+0000
+/project/pymedphys-analysis/, pymedphys-analysis, 0.11.0, , 2019-09-10T09:20:31+0000
+/project/tyssue/, tyssue, 0.8.0, tyssue is a living tissues, cell level, modeling library, 2020-12-10T08:56:37+0000
+/project/gnuhealth-genetics/, gnuhealth-genetics, 3.8.0, GNU Health Genetics Module, 2021-02-14T20:44:27+0000
+/project/mushu/, Mushu, 0.2, Brain Computer Interfacing signal acquisition software., 2014-05-20T15:44:33+0000
+/project/iqdmpdf/, IQDMPDF, 0.3.0, Scans a directory for IMRT QA results, 2021-03-15T04:18:19+0000
+/project/astm/, astm, 0.5.0, Python implementation of ASTM E1381/1394 protocol., 2013-03-16T10:11:05+0000
+/project/cwlab/, cwlab, 0.4.1, A platform-agnostic, cloud-ready framework for simplified deployment of the Common Workflow Language using a graphical web interface, 2021-04-07T22:07:33+0000
+/project/pyfast/, pyFAST, 3.2.0, Python bindings of FAST - a framework for high performance medical image computing and visualization on heterogeneous systems utilizing multi-core CPUs and GPUs., 2021-01-14T12:21:37+0000
+/project/pupillib/, pupillib, 1.2.1, A software package to perform trial extraction on Pupil Labs eye tracker data collected into XDF files through LabRecorder., 2019-11-08T04:06:29+0000
+/project/xnatutils/, xnatutils, 0.7.3, A collection of scripts for downloading/uploading and listing data from XNAT repositories., 2021-03-05T02:14:19+0000
+/project/naposapi/, naposapi, 0.1, API for lookup on the NAPOS database, 2017-07-15T19:06:32+0000
+/project/itk-registration/, itk-registration, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:14:11+0000
+/project/mricluster/, mricluster, 0.1, MRI image set clustering module based on Convolutional Neural Network model, 2018-06-18T20:53:55+0000
+/project/peto/, peto, 0.1.0, System for mass periodic infectious disease testing, 2020-04-01T23:15:39+0000
+/project/pylibjpeg-rle/, pylibjpeg-rle, 1.0.0, Python bindings for a fast RLE decoder, with a focus on use as a plugin for pylibjpeg, 2021-04-23T00:15:33+0000
+/project/scikit-surgerycalibration/, scikit-surgerycalibration, 0.1.8, scikit-surgerycalibration provides algorithms designed for the calibration of surgical instruments, 2021-03-12T14:41:35+0000
+/project/gillespy2/, gillespy2, 1.5.7, Python interface for Gillespie-style biochemical simulations, 2020-12-15T22:40:32+0000
+/project/im-standardize-molecule/, im-standardize-molecule, 0.1.0, Utilities for Molecular Science, 2021-03-18T17:18:47+0000
+/project/gnuhealth-ntd/, gnuhealth-ntd, 3.8.0, GNU Health Neglected Tropical Diseases package, 2021-02-14T20:47:04+0000
+/project/petlink/, petlink, 0.3.4, Decode and encode PETlink streams., 2018-11-09T01:37:56+0000
+/project/pygatb/, pyGATB, 0.1.2, An experimental python wrapper for gatb-core, 2017-06-08T09:46:05+0000
+/project/wonambi/, wonambi, 6.17, Tools for EEG, ECoG, iEEG, especially for sleep, 2021-04-21T18:59:44+0000
+/project/accelbrainbeat/, AccelBrainBeat, 1.0.5, AccelBrainBeat is a Python library for creating the binaural beats or monaural beats. You can play these beats and generate wav files. The frequencys can be optionally selected., 2018-05-06T01:27:21+0000
+/project/gnuhealth-icpm/, gnuhealth-icpm, 3.8.0, GNU Health WHO ICPM package. International Classsification of Procedures in Medicine, 2021-02-14T20:46:11+0000
+/project/trytond-health-reporting/, trytond_health_reporting, 3.2.10, GNU Health package for reporting, 2018-06-05T11:02:44+0000
+/project/itk-vtkglue/, itk-vtkglue, 0.3.0, This module contains classes that bridge and ITK and VTK image processing and visualization pipeline., 2019-07-22T20:13:58+0000
+/project/pymedphys-pylibjpeg-libjpeg/, pymedphys-pylibjpeg-libjpeg, 1.2.0, A Python wrapper for libjpeg, with a focus on use as a plugin for for pylibjpeg, 2021-04-03T09:18:18+0000
+/project/itk-subdivisionquadedgemeshfilter/, itk-subdivisionquadedgemeshfilter, 1.1.0, ITK classes for triangle mesh subdivision, 2020-06-09T16:45:46+0000
+/project/scikit-surgeryspeech/, scikit-surgeryspeech, 0.3.0, Interface to speech services for image-guided surgery., 2020-10-23T16:11:38+0000
+/project/ismrmrd/, ismrmrd, 1.7.2, Python implementation of the ISMRMRD, 2021-04-06T08:16:31+0000
+/project/scikit-surgeryvtk/, scikit-surgeryvtk, 1.0, scikit-surgeryvtk implements VTK for Image Guided Surgery applications, 2021-02-03T15:57:39+0000
+/project/rcpchgrowth/, rcpchgrowth, 2.1.11, SDS and Centile calculations for UK Growth Data, 2021-04-25T13:17:18+0000
+/project/itk-skullstripping/, itk-skullstripping, 0.0.1, Automatic skull-stripping for neuroimage analysis, 2020-11-23T14:21:31+0000
+/project/deep-motility/, Deep-Motility, 1.0.6rc1, Deep Learning methods for the classification and segmentation of motility images, 2020-12-14T14:53:20+0000
+/project/fcsparser/, fcsparser, 0.2.1, A python package for reading raw fcs files, 2020-05-13T23:18:19+0000
+/project/myfitbit/, myfitbit, 0.7.0, export fitbit data, 2020-01-05T06:40:29+0000
+/project/trytond-health-pediatrics-growth-charts/, trytond_health_pediatrics_growth_charts, 3.2.10, GNU Health Pediatrics growth charts package, 2018-06-05T11:02:27+0000
+/project/ndex/, ndex, 3.0.11.23, NDEx Python includes a client and a data model., 2017-03-13T01:31:47+0000
+/project/wyrm/, Wyrm, 1.1.0, Toolbox for Brain Computer Interfacing Experiments., 2015-07-09T12:51:15+0000
+/project/methpype/, methpype, 1.0.6, Python-based Illumina methylation array processing and analysis software composite package, 2021-01-05T21:24:39+0000
+/project/pyus/, pyus, 0.2.2, GPU-accelerated Python package for ultrasound imaging., 2020-01-29T16:17:01+0000
+/project/simplereg/, SimpleReg, 0.3.2, SimpleReg is a research-focused toolkit that provides tools helpful for (medical) image registration and processing., 2019-07-26T09:18:12+0000
+/project/gnuhealth-webdav3-server/, gnuhealth-webdav3-server, 3.8.0, GNU Health WebDAV server for Python 3, 2021-02-14T20:48:15+0000
+/project/pykale/, pykale, 0.1.0b3, Knowledge-aware machine learning from multiple sources in Python, 2021-04-19T09:24:36+0000
+/project/topas2numpy/, topas2numpy, 0.2.0, Python functions for reading TOPAS result files, 2017-05-19T21:14:09+0000
+/project/fw-meta/, fw-meta, 0.3.1, Flywheel metadata extraction., 2021-03-22T10:49:38+0000
+/project/miscnn-tf-2-0/, miscnn-TF-2.0, 0.32, Framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning, 2020-04-30T13:24:40+0000
+/project/xnatuploadtooldicom/, XnatUploadToolDicom, 1.4.0.2, Tool for assisting in uploading dicom data directly to xnat imaging research platform (xnat.org), 2021-03-22T20:12:56+0000
+/project/mutagene/, mutagene, 0.9.1.0, Mutational analysis with Python, 2021-02-27T22:27:56+0000
+/project/ensembl-rest/, ensembl-rest, 0.3.3, An interface to the Ensembl REST APIs, biological data at your fingertips., 2019-06-24T22:01:21+0000
+/project/bpmscan/, bpmscan, 0.1.2, Measures heart rate of multiple person realtime from Webcamera, IPCamera and also from from Uploaded video, 2020-12-14T16:08:43+0000
+/project/cwl-airflow/, cwl-airflow, 1.2.10, Python package to extend Airflow functionality with CWL v1.1 support, 2021-01-29T11:36:59+0000
+/project/itk-krcahsheetness/, itk-krcahsheetness, 0.1.0, ITK filters to generate a sheetness feature image useful for segmenting bone in CT images and similar applications., 2017-11-30T23:05:35+0000
+/project/rapidtide/, rapidtide, 1.9.4, Tools for performing correlation analysis on fMRI data., 2021-03-17T20:27:30+0000
+/project/itk-anisotropicdiffusionlbr/, itk-anisotropicdiffusionlbr, 1.1.2, Smooth images while preserving edges or coherent structures., 2020-06-10T22:07:51+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/ukritlib/, ukritlib, 0.3.13, Testing Python Package From Ukrit Fongsomboon, 2021-03-17T10:08:26+0000
+/project/sanajeh/, sanajeh, 0.8, Simulate fMRI and iEEG data in BIDS format, 2018-10-16T11:37:19+0000
+/project/imagedata/, imagedata, 1.2.9, Read/write medical image data, 2021-04-14T09:54:05+0000
+/project/gcpds-entropies/, gcpds-entropies, 0.1a0, , 2020-08-01T23:08:20+0000
+/project/pyqpcr/, pyQPCR, 0.7, pyQPCR: quantitative PCR data analysis, 2010-10-27T07:56:06+0000
+/project/gnuhealth-inpatient-calendar/, gnuhealth-inpatient-calendar, 3.8.0, GNU Health package for hospitalization calendar functionality, 2021-02-14T20:46:34+0000
+/project/pymedphys-pinnacle/, pymedphys-pinnacle, 0.11.0, , 2019-09-10T09:18:19+0000
+/project/txhl7/, txHL7, 0.5.0,  Async Twisted server implementation of Health Level 7's (HL7) Minimal Lower-Layer Protocol (MLLP)., 2020-09-08T23:24:52+0000
+/project/pylinac-qatrackplus/, pylinac-qatrackplus, 2.5.0.2, A toolkit for performing TG-142 QA-related tasks on a linear accelerator, 2021-03-31T18:58:28+0000
+/project/fastobo/, fastobo, 0.10.1, Faultless AST for Open Biomedical Ontologies in Python., 2021-03-30T16:00:10+0000
+/project/cubric-mrs/, cubric-mrs, 0.2.2, a collection of processing scripts for handling MRS data at CUBRIC, 2018-05-18T16:51:20+0000
+/project/dicom3d/, dicom3d, 0.9.9, Library for reconstructing arbitrary defined 3D sectionsfrom volumetric medical scans, 2019-12-19T13:07:07+0000
+/project/pymrt/, pymrt, 0.0.3.4, Python Magnetic Resonace Tools, 2020-09-09T13:27:57+0000
+/project/picachooser/, picachooser, 1.2.3, Lightweight GUI for sorting MELODIC ICA components., 2021-04-06T23:47:55+0000
+/project/pymedphys-labs/, pymedphys-labs, 0.11.0, , 2019-09-10T09:20:31+0000
+/project/niftynet/, NiftyNet, 0.6.0, An open-source convolutional neural networks platform for research in medical image analysis and image-guided therapy, 2019-10-10T10:59:33+0000
+/project/trytond-health-icpm/, trytond_health_icpm, 3.2.10, GNU Health WHO ICPM package. International Classsification of Procedures in Medicine, 2018-06-05T11:01:28+0000
+/project/pubmed-bibtex/, pubmed-bibtex, 0.1.0, Generate BibTeX Entries for PubMed Publications, 2019-05-16T11:02:44+0000
+/project/pydicom-ext/, pydicom-ext, 0.6.1, Additional functions for dicom data manipulation, 2019-01-02T16:48:06+0000
+/project/gnuhealth-dentistry/, gnuhealth-dentistry, 3.8.0, GNU Health: Dentistry Package, 2021-02-14T20:43:50+0000
+/project/openbci/, openbci, 0.2.3, Hight level Python module for OpenBCI hardware by GCPDS., 2020-01-22T21:35:58+0000
+/project/scikit-surgeryvideoutils/, scikit-surgeryvideoutils, 0.1.0, scikit-surgeryvideoutils, 2018-12-23T08:58:56+0000
+/project/scikit-surgerytrackervisualisation/, scikit-surgerytrackervisualisation, 0.0.4, Provides a live visualisation of tracking data from a scikit-surgerytracker source, 2020-08-10T13:42:02+0000
+/project/gias2/, gias2, 0.7.11, A library of musculoskeletal modelling tools., 2021-04-08T00:28:12+0000
+/project/datamol/, datamol, 0.3.7, A python library to work with molecules. Built on top of RDKit., 2021-04-17T17:53:21+0000
+/project/trytond-health-ntd/, trytond_health_ntd, 3.2.10, GNU Health Neglected Tropical Diseases package, 2018-06-05T11:02:05+0000
+/project/hasi/, hasi, 0.2, High-throughput Applications for Skeletal Imaging (HASI) Python content, 2021-04-06T17:24:38+0000
+/project/spws-2010/, SPWS_2010, 0.1.5, Python Interface to SharePoint 2010 Web Services, 2018-01-24T22:47:35+0000
+/project/dicomsort/, dicomsort, 3.0.0, A DICOM Sorting Utility, 2021-02-07T01:49:01+0000
+/project/blochsimu/, blochsimu, 0.1.2, Bloch equation simulator for e.g. NMR-related simulations, 2015-04-08T12:55:03+0000
+/project/niftypad/, niftypad, 0.0.1, Neuroimaging for the Prevention of Alzheimer's Disease, 2021-04-09T22:23:33+0000
+/project/olass/, olass, 0.0.3, OneFlorida Linkage Submission System, 2016-08-17T22:28:05+0000
+/project/gnuhealth-lifestyle/, gnuhealth-lifestyle, 3.8.0, GNU Health package for person lifestyle assessment, 2021-02-14T20:46:55+0000
+/project/eegsynth/, eegsynth, 0.3.1, Converting real-time EEG into sounds, music and visual effects, 2020-04-11T10:48:43+0000
+/project/vmc/, vmc, 0.1.6, "VMC reference implementation (https://github.com/ga4gh/vmc/)", 2019-04-08T04:01:59+0000
+/project/cxsystem2/, cxsystem2, 0.1.2.6, A cerebral cortex simulation framework, 2020-01-30T14:39:11+0000
+/project/scikit-surgeryarucotracker/, scikit-surgeryarucotracker, 0.2.3, scikit-surgeryarucotracker is a simple tracking interface using ARuCo markers, 2021-04-14T09:14:35+0000
+/project/xpecgen/, xpecgen, 1.3.0, A package with a GUI to calculate X-ray sPECtra GENerated in tungsten anodes, 2018-01-10T18:05:10+0000
+/project/gnuhealth-crypto-lab/, gnuhealth-crypto-lab, 3.8.0, GNU Health package with public-key crypto functionality for laboratories, 2021-02-14T20:43:45+0000
+/project/cmakecatchtemplate/, CMakeCatchTemplate, 0.2.2, A template project, to enable people to build nicely structured C++ projects., 2019-03-05T07:03:16+0000
+/project/nostalgia-fitbit/, nostalgia-fitbit, 0.6.0, export fitbit data, 2019-12-25T22:16:17+0000
+/project/trytond-health-lifestyle/, trytond_health_lifestyle, 3.2.10, GNU Health package for person lifestyle assessment, 2018-06-05T11:01:58+0000
+/project/itk-io/, itk-io, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:13:10+0000
+/project/itk-bonemorphometry/, itk-bonemorphometry, 1.2.0, An ITK module to compute bone morphometry features and feature maps, 2020-06-09T15:12:03+0000
+/project/camcops-server/, camcops-server, 2.4.4, CamCOPS server, 2021-03-29T14:41:30+0000
+/project/itk-iomeshstl/, itk-iomeshstl, 2.1.0, MeshIO class to read and write ITK meshes into STL files., 2020-05-07T04:27:10+0000
+/project/itk-binarythinning3d/, itk-binarythinning3d, 5.0b1, An ITK module to compute 3D image skeleton, 2019-02-05T09:20:48+0000
+/project/gnuhealth-gyneco/, gnuhealth-gyneco, 3.8.0, GNU Health Gynecology and Obstetrics package, 2021-02-14T20:44:40+0000
+/project/mef-tools/, mef-tools, 1.1.0, Advanced tools for handling MEF file format using pymef - python wrapper., 2020-10-15T18:32:39+0000
+/project/itk-gpusmoothing/, itk-gpusmoothing, 0.2.0, Common smoothing filters accelerated with OpenCL., 2019-12-12T11:14:45+0000
+/project/pyrho/, PyRhO, 0.9.4, Fit and characterise rhodopsin photocurrents, 2016-03-04T12:34:46+0000
+/project/trytond-health-who-essential-medicines/, trytond_health_who_essential_medicines, 3.2.10, GNU Health WHO Essential Medicines package, 2018-06-05T11:03:09+0000
+/project/trytond-health-disability/, trytond_health_disability, 3.2.10, GNU Health package for patient Functioning and disability, including WHO ICF, 2018-06-05T10:59:37+0000
+/project/ga4gh-vrs/, ga4gh.vrs, 0.6.4, "GA4GH Variation Representation Specification (VRS) reference implementation (https://github.com/ga4gh/vrs-python/)", 2021-02-20T20:02:17+0000
+/project/eegio/, eegio, 0.1.3, EEGIO: An io package for eeg data that is MNE-Python and MNE-BIDS compatible ., 2020-01-03T18:45:48+0000
+/project/trytond-health-history/, trytond_health_history, 3.2.10, GNU Health personal and medical history package, 2018-06-05T11:00:28+0000
+/project/cobcom-talon/, cobcom-talon, 0.3.0.post0, A Python package that implements Tractograms As Linear Operators in Neuroimaging, 2021-01-21T10:09:45+0000
+/project/niftypet/, niftypet, 2.0.0, CUDA-accelerated Python utilities for high-throughput PET/MR image reconstruction and analysis, 2021-03-06T19:23:36+0000
+/project/pymedphys-logfiles/, pymedphys-logfiles, 0.11.0, , 2019-09-10T09:20:42+0000
+/project/btk/, btk, 0.3, Python binding for the C++ library Biomechanical ToolKit (BTK), 2014-01-13T16:18:03+0000
+/project/cwl-airflow-parser/, cwl-airflow-parser, 1.0.20181213213631, Package extends Airflow functionality with CWL v1.0 support, 2018-12-13T21:46:28+0000
+/project/gnuhealth-contact-tracing/, gnuhealth-contact-tracing, 3.8.0, GNU Health package for epidemics contact tracing, 2021-02-14T20:43:37+0000
+/project/freesurfer-stats/, freesurfer-stats, 1.2.1, Python Library to Read FreeSurfer's cortical parcellation anatomical statistics, 2020-12-31T16:04:39+0000
+/project/itk-smoothingrecursiveyvvgaussianfilter/, itk-smoothingrecursiveyvvgaussianfilter, 0.0.1, Young & Van Vliet recursive Gaussian smoothing filter for GPU (OpenCL) and CPU, 2020-11-26T02:42:37+0000
+/project/flowcytometrytools/, FlowCytometryTools, 0.5.1, A python package for performing flow cytometry analysis, 2021-01-24T23:59:34+0000
+/project/labelbox-utils/, Labelbox-Utils, 0.0.3, Utils for working with Labelbox, 2019-12-20T14:13:09+0000
+/project/pyvxray/, pyvXRAY, 0.2.1, ABAQUS plug-in to create virtual x-rays from 3D finite element bone/implant models, 2015-08-12T10:40:26+0000
+/project/scikit-surgerytf/, scikit-surgerytf, 0.2.0, scikit-surgerytf is a Python package for Tensor Flow examples and utilities, 2020-07-26T16:39:24+0000
+/project/ndicom-region-growing/, ndicom-region-growing, 0.0.1.dev0, , 2018-06-08T23:42:38+0000
+/project/rt-utils/, rt-utils, 1.1.2, A small library for handling masks and RT-Structs, 2021-04-22T22:48:03+0000
+/project/bruker/, bruker, 0.3.3, Bruker PvDataset Loader, 2020-06-04T18:00:50+0000
+/project/methylize/, methylize, 0.9.3, EWAS Analysis software for Illumina methylation arrays, 2021-01-06T02:55:25+0000
+/project/mcpartools/, mcpartools, 0.6.2, Set of tools to parallelize MC calculations on clusters, 2019-04-01T12:35:03+0000
+/project/sgext/, sgext, 0.9.14, SGEXT is an open-source toolkit for skeletonization and graph analysis, 2020-10-06T09:04:39+0000
+/project/mselair-aisc/, mselair-aisc, 0.1.4, Python package for EEG sleep classification and analysis., 2021-04-05T20:52:19+0000
+/project/vivarium-public-health/, vivarium-public-health, 0.10.9, Components for modelling diseases, risks, and interventions with ``vivarium``, 2021-01-26T04:34:54+0000
+/project/pyexphys/, pyexphys, 2.1.2, Python framework for health/fitness calculations, 2018-11-19T01:36:58+0000
+/project/trytond-health-insurance/, trytond_health_insurance, 3.2.10, GNU Health package to manage insurances and associated services, 2018-06-05T11:01:47+0000
+/project/pyhrf/, pyhrf, 0.5.0.post1, Analysis of fMRI data based on the study of hemodynamics, 2017-12-18T11:18:49+0000
+/project/itk-cuberille/, itk-cuberille, 2.5.0, This module implements cuberille implicit surface polygonization for ITK., 2021-04-18T03:05:47+0000
+/project/antivirals/, antivirals, 0.0.3, Finding antivirals for the novel coronavirus., 2020-07-10T17:20:33+0000
+/project/scikit-surgerytorch/, scikit-surgerytorch, 0.2.4, scikit-surgerytorch is a Python package, 2020-09-29T14:31:17+0000
+/project/scikit-surgerybard/, scikit-surgerybard, 0.1.0, scikit-surgerybard is a Basic Augmented Reality Demo (BARD)based on scikit-surgery (SNAPPY), 2020-07-02T16:56:32+0000
+/project/itk-ioscanco/, itk-ioscanco, 0.9.2, An ITK module to read and write Scanco microCT .isq files., 2021-04-06T21:54:26+0000
+/project/gnuhealth-who-essential-medicines/, gnuhealth-who-essential-medicines, 3.8.0, GNU Health WHO Essential Medicines package, 2021-02-14T20:48:19+0000
+/project/pytrip98gui/, pytrip98gui, 1.1.3, PyTRiP GUI, 2020-09-08T10:26:22+0000
+/project/infermedica-api/, infermedica-api, 1.0.0, The Infermedica Python client for Infermedica API., 2021-02-09T12:09:53+0000
+/project/dcmfetch/, dcmfetch, 0.2.0, DICOM query retrieve tools, 2020-06-10T15:10:13+0000
+/project/medpy/, MedPy, 0.4.0, Medical image processing in Python, 2019-02-14T17:12:59+0000
+/project/itk-hasi/, itk-hasi, 0.2.0, High-throughput Applications for Skeletal Imaging, 2021-04-06T18:34:40+0000
+/project/pymedphys-gamma/, pymedphys-gamma, 0.11.0, , 2019-09-10T09:20:30+0000
+/project/scikit-surgeryfred/, scikit-surgeryfred, 0.1.3, FRED provides an interactive demonstration of fiducial based registration for teaching purposes, 2021-01-25T15:14:50+0000
+/project/pyabel/, PyAbel, 0.8.4, A Python package for forward and inverse Abel transforms, 2021-04-15T01:07:06+0000
+/project/simpledicomtoolkit/, SimpleDicomToolkit, 1.4, Dicom Toolkit for reading dicom files to  SimpleITK images, 2018-11-29T11:06:29+0000
+/project/scikit-spectra/, scikit-spectra, 0.3.2.2, Spectroscopy in Python built on Pandas., 2015-05-13T20:36:11+0000
+/project/ndicom-cuda-kmeans/, ndicom-cuda-kmeans, 0.0.1.dev1, , 2018-06-09T07:55:03+0000
+/project/trytond-health-icu/, trytond_health_icu, 3.2.10, GNU Health package for Intensive Care  settings , 2018-06-05T11:01:32+0000
+/project/neuro-pypes/, neuro-pypes, 1.1.2, Reusable and configurable neuroimaging pipelines with Nipype., 2018-04-16T16:15:21+0000
+/project/ilang/, ilang, 0.3.1, Inference Language for Volumetric Imaging, 2015-12-09T00:55:14+0000
+/project/itk-rtk/, itk-rtk, 2.2.0, The Reconstruction Toolkit (RTK) for fast circular cone-beam CT reconstruction., 2021-01-26T15:59:36+0000
+/project/nipet/, nipet, 2.0.2, CUDA-accelerated Python utilities for high-throughput PET/MR image reconstruction and analysis, 2021-01-05T04:35:22+0000
+/project/trytond-health-services/, trytond_health_services, 3.2.10, GNU Health package to manage patient health related services, 2018-06-05T11:02:47+0000
+/project/axopy/, axopy, 0.2.3, Human-computer interface experimentation library, 2019-02-12T06:39:29+0000
+/project/trytond-health-lab/, trytond_health_lab, 3.2.10, GNU Health Laboratory - LIMS Module, 2018-06-05T11:01:54+0000
+/project/aucmedi/, aucmedi, 0.1.0, AUCMEDI - Framework for Automated Classification of Medical Images, 2021-03-02T14:32:20+0000
+/project/gnuhealth-reporting/, gnuhealth-reporting, 3.8.0, GNU Health package for reporting, 2021-02-14T20:47:50+0000
+/project/gnuhealth-ophthalmology/, gnuhealth-ophthalmology, 3.8.0, GNU Health ophthalmology package, 2021-02-14T20:47:19+0000
+/project/boridge/, boridge, 0.1.10, A library of functions for selecting features using bootstrapped ridge regression, 2020-02-26T01:20:55+0000
+/project/gnuhealth-client/, gnuhealth-client, 3.8.1, The GNU Health GTK client, 2021-02-15T21:13:09+0000
+/project/epiclass/, EpiClass, 2.2.5, Optimizing and predicting performance of DNA methylation biomarkers using sequence methylation density information., 2020-03-30T22:45:28+0000
+/project/deduper/, deduper, 0.0.7, OneFlorida De-duplication Software, 2018-04-23T20:09:34+0000
+/project/crocpy3/, CROCpy3, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2019-04-19T11:18:50+0000
+/project/radiant/, radiant, 3.2.2, Brython Framework, 2021-04-23T17:05:26+0000
+/project/ziggie/, ziggie, 0.1.1, Infectious disease modelling package, 2020-06-27T21:40:14+0000
+/project/ndex2-dev/, ndex2-dev, 2.0.0.6, Nice CX Python includes a client and a data model., 2018-11-06T21:25:44+0000
+/project/scikit-surgerygoicp/, scikit-surgerygoicp, 0.2.4, A template project, to enable people to build nicely structured C++ projects., 2020-10-14T07:54:55+0000
+/project/sleepytimes/, sleepytimes, 1.0.2, Tools for EEG, ECoG, iEEG, especially for sleep, 2017-09-12T14:25:59+0000
+/project/pyigtl/, pyigtl, 0.1.0, Python interface for OpenIGTLink, 2020-11-23T21:28:29+0000
+/project/trytond-health-imaging/, trytond_health_imaging, 3.2.10, GNU Health Diagnostic Imaging management package, 2018-06-05T11:01:36+0000
+/project/arip/, arip, 1.0.2, ARIP, software to quantify bacterial resistance to antibiotics by analysing picture of phenotypic plates, 2017-02-14T18:14:32+0000
+/project/ninst/, ninst, 0.10.0, NiftyPET Installation tools, 2021-02-01T21:20:40+0000
+/project/gnuhealth-insurance/, gnuhealth-insurance, 3.8.0, GNU Health package to manage insurances and associated services, 2021-02-14T20:46:39+0000
+/project/pyautomagic/, pyautomagic, 0.1.0, A Python3 package for eeg (pre)processing from Automagic., 2020-01-15T23:50:51+0000
+/project/nanoset/, nanoset, 0.2.1, A memory-optimized wrapper for Python sets likely to be empty., 2020-07-01T01:41:00+0000
+/project/itk-boneenhancement/, itk-boneenhancement, 0.4.1, Various filters for enhancing cortical bones in quantitative computed tomography., 2021-04-05T22:30:23+0000
+/project/hematopy/, hematopy, 0.0.1.dev6, Python and Blood, 2018-06-13T18:09:49+0000
+/project/trytond-health-inpatient-calendar/, trytond_health_inpatient_calendar, 3.2.10, GNU Health package for hospitalization calendar functionality, 2018-06-05T11:01:43+0000
+/project/sycomore/, sycomore, 1.2.1, MRI simulation toolkit, 2020-01-17T09:28:09+0000
+/project/pymzml/, pymzml, 2.4.7, high-throughput mzML parsing, 2020-06-15T11:50:19+0000
+/project/flotilla/, flotilla, 0.3.2, Embark on a journey of single-cell data exploration., 2016-08-08T18:43:59+0000
+/project/gnuhealth-genetics-uniprot/, gnuhealth-genetics-uniprot, 3.8.0, GNU Health Genetics UNIPROT Data, 2021-02-14T20:44:36+0000
+/project/rdm/, rdm, 0.9.2, Regulatory Documentation Manager, 2020-10-09T23:43:37+0000
+/project/pymedphys-electronfactors/, pymedphys-electronfactors, 0.11.0, , 2019-09-10T09:18:12+0000
+/project/dicom-numpy/, dicom-numpy, 0.5.0, Extract image data into a 3D numpy array from a set of DICOM files., 2020-10-16T23:13:19+0000
+/project/simpleitk-simpleelastix/, SimpleITK-SimpleElastix, 2.0.0rc2.dev909, SimpleITK is a simplified interface to the Insight Toolkit (ITK) for image registration and segmentation, 2021-03-05T13:16:34+0000
+/project/itk-numerics/, itk-numerics, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:13:35+0000
+/project/madseq/, madseq, 0.4.4, Parser/transformator for MAD-X sequences, 2014-07-22T01:07:59+0000
+/project/openrem/, OpenREM, 0.10.0, Open source patient radiation dose monitoring software, 2019-11-08T14:13:19+0000
+/project/hit-csys/, hit-csys, 18.10.0, Online control for the HIT accelerator facility., 2018-10-25T01:51:06+0000
+/project/gnuhealth-ntd-chagas/, gnuhealth-ntd-chagas, 3.8.0, GNU Health Neglected Tropical Diseases. Chagas package, 2021-02-14T20:47:07+0000
+/project/copyxnat/, copyxnat, 0.7.6, CopyXnat is a python utility for copying XNAT projects from one XNAT server to another, 2021-03-30T07:49:15+0000
+/project/trytond-health-profile/, trytond_health_profile, 3.2.10, GNU Health profile with common packages, 2018-06-05T11:02:36+0000
+/project/buffalo-lab-data-to-nwb/, buffalo-lab-data-to-nwb, 0.post0.dev137, A package for converting Buffalo Lab data to the NWB standard, 2019-12-09T07:04:25+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/hit-acs/, hit-acs, 20.1.0, Tools for the accelerator control system of the HIT facility., 2020-01-27T10:05:00+0000
+/project/olga/, olga, 1.2.3, Compute generation probability of CDR3 sequences, 2021-01-11T16:08:07+0000
+/project/gnuhealth-caldav/, gnuhealth-caldav, 3.8.0, CalDAV package for GNU Health and Python3, 2021-02-14T20:43:24+0000
+/project/rbm/, rbm, 0.0.3, Rodent Brain Masking Tool with Keras 2D Unet, 2021-02-10T04:58:35+0000
+/project/motionclouds/, MotionClouds, 20200212, Model-based stimulus synthesis of natural-like random textures for the study of motion perception., 2020-02-11T16:38:43+0000
+/project/itk-ultrasound/, itk-ultrasound, 0.3.2, Filters for use with the Insight Toolkit (ITK) that may be particularly useful for the reconstruction and analysis of ultrasound images., 2021-04-17T00:11:02+0000
+/project/thunor/, thunor, 0.1.24, Dose response curve and drug induced proliferation (DIP) rate fits and visualisation, 2020-02-17T01:45:20+0000
+/project/epipylib/, epipylib, 0.1.0-2, Epidemic model library for fitting epidemic models., 2016-09-25T12:11:20+0000
+/project/cancerscope/, cancerscope, 1.0, An RNA-Seq based tool for Supervised Cancer Origin Prediction using Expression, 2020-03-19T18:16:31+0000
+/project/twisted-hl7/, twisted-hl7, 0.2.2, Async Twisted server implementation of Health Level 7 MLLP, 2014-11-06T13:56:04+0000
+/project/pibayer/, pibayer, 0.6.0, Acquire raw Bayer-masked image from Raspberry Pi camera and write image stack to HDF5 or TIFF., 2018-08-21T16:19:28+0000
+/project/py-bonemat-abaqus/, py_bonemat_abaqus, 1.0.9, Assign material properties of bone to a finite element mesh, 2016-05-31T17:14:37+0000
+/project/pyqms/, pyqms, 0.6.2, pyQms - Python module for accurate quantification of mass spectrometry data, 2019-06-03T12:48:00+0000
+/project/gnuhealth-mdg6/, gnuhealth-mdg6, 3.8.0, GNU Health MDG6 - Millenium Development Goal # 6 package, 2021-02-14T20:47:00+0000
+/project/svgdatashapes/, SVGdatashapes, 0.3.62, Simple procedural library to create many types of plots and data displays in SVG for dynamic web pages. General purpose: biomedical, scientific, business., 2020-03-11T19:38:20+0000
+/project/mdai/, mdai, 0.7.2, MD.ai Python client library, 2021-04-14T00:45:47+0000
+/project/mygnuhealth/, MyGNUHealth, 0.9b1, The GNU Health Personal Health Record, 2021-04-18T21:58:54+0000
+/project/recentrifuge/, recentrifuge, 1.3.2, Robust comparative analysis and contamination removal for metagenomics, 2021-03-01T05:59:41+0000
+/project/snappysonic/, snappysonic, 0.0.6, snappysonic provides an application to simulate an ultrasound probe moving over a body torso, it is intended for public engagement events", 2021-03-16T11:27:56+0000
+/project/simpleitk/, SimpleITK, 2.0.2, SimpleITK is a simplified interface to the Insight Toolkit (ITK) for image registration and segmentation, 2020-12-02T15:04:47+0000
+/project/dicom/, dicom, 0.9.9.post1, Pure python package for DICOM medical file reading and writing, 2017-01-27T03:54:38+0000
+/project/thalamus/, thalamus, 0.9.14, The GNU Health Federation Message and Authentication Server, 2021-04-08T12:31:21+0000
+/project/biowardrobe-cwl-workflows/, biowardrobe-cwl-workflows, 1.0.20181213214400, Wrapped BioWardrobe's CWL files, 2018-12-13T21:44:31+0000
+/project/ndicom-kernel-kmeans/, ndicom-kernel-kmeans, 0.0.1.dev0, , 2018-06-08T23:37:33+0000
+/project/itk-minimalpathextraction/, itk-minimalpathextraction, 1.1.2, A minimal path extraction framework based on Fast Marching arrival functions., 2021-03-12T23:10:29+0000
+/project/ndicom-fcm/, ndicom-fcm, 0.0.1.dev2, , 2018-06-09T08:08:44+0000
+/project/cohort-compare/, cohort-compare, 0.3.2, A library of functions for comparing clinical cohorts to the populations of US counties, 2020-04-13T20:21:22+0000
+/project/trytond-health-pediatrics/, trytond_health_pediatrics, 3.2.10, GNU Health pediatrics package, 2018-06-05T11:02:23+0000
+/project/dvha-stats/, dvha-stats, 0.2.4.post1, A library of prediction and statistical process control tools, 2021-03-06T23:13:32+0000
+/project/gelutils/, gelutils, 0.6.1, Annotate and convert GEL images (PAGE, agarose gels, etc.) acquired from e.g. Typhoon scanners, GelDocs or similar., 2016-08-22T19:56:52+0000
+/project/gcpds/, gcpds, 0.1a1, , 2021-03-25T16:21:54+0000
+/project/dicom2nifti/, dicom2nifti, 2.2.12, package for converting dicom files to nifti, 2020-12-07T12:50:00+0000
+/project/scikit-surgerypclcpp/, scikit-surgerypclcpp, 0.3.0, A template project, to enable people to build nicely structured C++ projects., 2020-06-13T15:39:09+0000
+/project/pymedphys-xlwings/, pymedphys-xlwings, 0.11.0, , 2019-09-10T09:20:37+0000
+/project/vmi/, vmi, 0.6.15, Visual Medical Innovation powered by WANGYiping, 2021-03-09T08:15:24+0000
+/project/fw-file/, fw-file, 0.4.4, Unified data-file interface, 2021-04-15T07:02:45+0000
+/project/ndex2/, ndex2, 3.3.3, Nice CX Python includes a client and a data model., 2021-04-22T22:22:33+0000
+/project/albopictus/, albopictus, 1.12.3, Large-scale environment-driven population dynamics and disease spread models for vector-borne diseases, 2020-02-19T12:44:03+0000
+/project/nasalgeom/, nasalgeom, 1.0.0, A free 3D upper respiratory tract geometry reconstruction software, 2017-12-05T12:34:53+0000
+/project/uniqed/, uniqed, 0.0.2, Simple implementation of the Temporal Outlier Factor, 2020-11-24T20:45:29+0000
+/project/trytond-health-qrcodes/, trytond_health_qrcodes, 3.2.10, GNU Health support for Quick Response - QR Codes-  package, 2018-06-05T11:02:40+0000
+/project/croc/, CROC, 1.1.26, A package for calculating ROC curves and Concentrated ROC (CROC) curves., 2014-07-23T20:57:17+0000
+/project/dcmpi/, dcmpi, 0.0.2.8, DICOM Preprocessing Interface., 2020-06-10T11:10:29+0000
+/project/toil/, toil, 5.3.0, Pipeline management software for clusters., 2021-03-26T00:59:44+0000
+/project/activityio/, activityio, 0.0.3, Exercise data handling library, 2017-04-04T10:56:56+0000
+/project/trytond-health-crypto/, trytond_health_crypto, 3.2.10, GNU Health Crypto Module, 2018-06-05T10:59:29+0000
+/project/ipython2cwl/, ipython2cwl, 0.0.4, Convert IPython Jupyter Notebooks to CWL tool, 2020-07-09T21:49:43+0000
+/project/divik/, divik, 3.0.10, Divisive iK-means algorithm implementation, 2021-02-25T10:37:34+0000
+/project/gcpds-filters/, gcpds-filters, 0.1a0, , 2021-03-24T17:03:09+0000
+/project/testribute/, TEStribute, 0.2.1, Task distribution for GA4GH TES instances, 2019-11-14T01:05:56+0000
+/project/trytond-health-ophthalmology/, trytond_health_ophthalmology, 3.2.10, GNU Health ophthalmology package, 2018-06-05T11:02:19+0000
+/project/miscnn-tf-1-14/, miscnn-TF-1.14, 0.32, Framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning, 2020-04-30T16:59:03+0000
+/project/dismod-mr/, dismod-mr, 1.1.1, Integrative Meta-Regression Framework for Descriptive Epidemmiology, 2019-11-06T18:13:54+0000
+/project/corona-dashboard/, corona-dashboard, 0.0.1, Forecasting the spread of the novel coronavirus., 2020-05-06T19:39:22+0000
+/project/trytond-health-stock/, trytond_health_stock, 3.2.10, GNU Health package for stock management, 2018-06-05T11:02:59+0000
+/project/scikit-surgerytorsosimulator/, scikit-surgerytorsosimulator, 0.0.1, scikit-surgerytorsosimulator provides an application to simulate an ultrasound probe moving over a body torso, it is intended for public engagement events", 2019-05-28T08:23:20+0000
+/project/pymedphys-base/, pymedphys-base, 0.11.0, , 2019-09-10T09:18:12+0000
+/project/itk-principalcomponentsanalysis/, itk-principalcomponentsanalysis, 1.0.0, ITK classes for the analysis of the principal components of data sets, optionally point data associated with the vertices of a mesh., 2020-11-24T17:10:09+0000
+/project/gnuhealth-pediatrics/, gnuhealth-pediatrics, 3.8.0, GNU Health pediatrics package, 2021-02-14T20:47:27+0000
+/project/gnuhealth-qrcodes/, gnuhealth-qrcodes, 3.8.0, GNU Health support for Quick Response - QR Codes-  package, 2021-02-14T20:47:43+0000
+/project/trytond-health-socioeconomics/, trytond_health_socioeconomics, 3.2.10, GNU Health Person and family socioeconomic history and assessment, 2018-06-05T11:02:55+0000
+/project/caw/, caw, 0.0.1rc1, ChRIS Automatic Workflows, 2021-04-23T21:51:32+0000
+/project/pame/, PAME, 0.3.2, GUI for modeling nanoparticles on optical fiber with mixing/shell-filling models, 2015-05-13T19:59:39+0000
+/project/scikit-surgery-evaluation/, scikit-surgery-evaluation, 0.0.3, A python library for performing surgical skills evaluation, 2020-08-10T13:26:55+0000
+/project/miutil/, miutil, 0.7.2, Medical imaging utilities for the AMYPAD and NiftyPET projects, 2021-02-01T22:13:29+0000
+/project/sonotools/, sonotools, 0.1.8, Utility functions to aid with machine learning of cardiac ultrasound., 2020-09-18T15:25:32+0000
+/project/freesurfer-volume-reader/, freesurfer-volume-reader, 2.1.0, Python script & library to read hippocampal subfield volumescomputed by Freesurfer & ASHS, 2020-07-11T21:00:45+0000
+/project/ndex-dev/, ndex-dev, 3.0.11.41, NDEx Python includes a client and a data model., 2018-06-28T23:21:55+0000
+/project/itk-morphologicalcontourinterpolation/, itk-morphologicalcontourinterpolation, 1.0.1, Image morphological contour interpolation., 2021-01-29T01:05:21+0000
+/project/samecell/, SameCell, 0.0.1a2, SameCell: upstream analysis of paired scATAC & scRNA, 2021-03-31T01:31:39+0000
+/project/neuropythy/, neuropythy, 0.11.9, Toolbox for flexible cortical mesh analysis and registration, 2020-09-30T23:47:08+0000
+/project/biowardrobe-airflow-plugins/, biowardrobe-airflow-plugins, 1.1.3, Add plugin workflows to BioWardrobe, 2019-01-23T20:30:17+0000
+/project/trytond-health-iss/, trytond_health_iss, 3.2.10, GNU Health Injury Surveillance System package, 2018-06-05T11:01:50+0000
+/project/vtk/, vtk, 9.0.1, VTK is an open-source toolkit for 3D computer graphics, image processing, and visualization, 2020-06-24T17:36:11+0000
+/project/gnuhealth-icd11/, gnuhealth-icd11, 3.8.0, GNU Health WHO ICD11 Package, 2021-02-14T20:45:49+0000
+/project/itk-core/, itk-core, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:11:24+0000
+/project/trytond-health-genetics/, trytond_health_genetics, 3.2.10, GNU Health Genetics Module, 2018-06-05T10:59:55+0000
+/project/xnat/, xnat, 0.3.26, An XNAT client that exposes the XNAT REST interface as python objects. Part of the interface is automatically generated based on the servers data model as defined by the xnat schema., 2021-04-16T13:12:12+0000
+/project/pymedphys-dicom/, pymedphys-dicom, 0.11.0, , 2019-09-10T09:20:20+0000
+/project/trytond-health-ophtalmo/, trytond_health_ophtalmo, 1.0.0, This module includes :
+
+- Oftalmology Information, 2012-07-06T02:30:41+0000
+/project/lissero/, lissero, 0.4.9, In silico serotyping of Listeria monocytogenes, 2021-03-30T17:09:42+0000
+/project/itk-texturefeatures/, itk-texturefeatures, 3.5.0, An ITK module to compute N-dimension grayscale texture feature images, 2021-04-21T15:13:16+0000
+/project/dicom-ecg-plot/, dicom-ecg-plot, 1.3.2, Plot Dicom ECG Waveforms, 2021-04-12T23:21:00+0000
+/project/pyhpoapi/, pyhpoapi, 1.2.1, A HTTP REST API to work with the HPO Ontology, 2021-02-15T13:16:48+0000
+/project/deep-tumour-spheroid/, Deep-Tumour-Spheroid, 1.0.0rc1, Deep Learning methods for the segmentation of Tumour Spheroids, 2020-09-08T21:40:00+0000
+/project/itk-twoprojectionregistration/, itk-twoprojectionregistration, 1.1.0, ITK classes for two-projection 2D/3D registration, 2020-06-09T22:18:22+0000
+/project/gnuhealth-icd9procs/, gnuhealth-icd9procs, 3.8.0, GNU Health WHO ICD9 - Volume 3 - procedures package, 2021-02-14T20:45:56+0000
+/project/gnuhealth-icd10/, gnuhealth-icd10, 3.8.0, GNU Health WHO ICD10 Module, 2021-02-14T20:45:06+0000
+/project/itk-meshnoise/, itk-meshnoise, 0.0.1, Classes to perturb mesh objects with Gaussian noise, 2020-07-15T14:59:30+0000
+/project/ndexutil/, ndexutil, 0.13.1, Unsupported NDEx utilities, 2020-11-12T01:18:34+0000
+/project/uparma/, uparma, 0.4.0, uparma, 2021-04-14T10:01:31+0000
+/project/pyabf/, pyabf, 2.2.8, Python library for reading files in Axon Binary Format (ABF), 2020-09-03T17:25:30+0000
+/project/chunky3d/, chunky3d, 0.1.5, A 3D array-like NumPy-based data structure for large sparsely-populated volumes, 2020-12-31T18:16:35+0000
+/project/sdt-metrics/, sdt_metrics, 0.1.2.1, Signal Detection Theory (SDT) metrics for Python, 2012-06-12T23:46:54+0000
+/project/itk-shape/, itk-shape, 0.1.0, A C++ implementation of Procrustes alignment for 3D meshes., 2021-04-18T13:18:35+0000
+/project/dicom2cloud/, dicom2cloud, 0.9, Platform independent GUI for anonymizing/uploading brain scans to an image processing cloud instance, 2017-11-08T02:20:09+0000
+/project/miscan/, MiScan, 1.1.1, MiScan: mutation-inferred screening model of cancer, 2020-01-15T03:45:42+0000
+/project/dicompyler-core/, dicompyler-core, 0.5.5, A library of core radiation therapy modules for DICOM / DICOM RT used by dicompyler, 2019-06-01T04:48:01+0000
+/project/gnuhealth-history/, gnuhealth-history, 3.8.0, GNU Health personal and medical history package, 2021-02-14T20:44:45+0000
+/project/emulsion/, emulsion, 1.1.1, Epidemiological Multi-Level Simulation framework, 2020-10-19T15:28:49+0000
+/project/itk-gpucommon/, itk-gpucommon, 0.2.0, Core classes for ITK filters accelerated with OpenCL., 2019-12-12T11:14:03+0000
+/project/entrodistropy/, EntroDistroPy, 0.6, Library which creates an entropy discretizier and overlays discretizers from main libraries such a sikit-learn, 2020-10-17T23:36:31+0000
+/project/scikit-surgerynditracker/, scikit-surgerynditracker, 0.1.11, Interface for Northern Digital (NDI) Trackers with data to NumPy arrays, 2021-04-14T09:40:31+0000
+/project/scikit-surgerysurfacematch/, scikit-surgerysurfacematch, 0.4.5, Tools for reconstructing and matching surfaces represented as point clouds., 2020-10-22T10:51:18+0000
+/project/platipy/, platipy, 0.1.0, Processing Library and Analysis Toolkit for Medical Imaging in Python, 2021-03-14T22:38:45+0000
+/project/florin/, florin, 0.0.2.post1, Fast image segmentation without needing to learn a thing., 2019-10-01T17:01:32+0000
+/project/img-pipe/, img-pipe, 2019.3.15.2, Image processing pipeline for localization and identification of electrodes for electrocorticography, 2019-03-15T22:12:47+0000
+/project/biocommons-seqrepo/, biocommons.seqrepo, 0.6.3, , 2020-09-11T00:16:07+0000
+/project/torchxrayvision/, torchxrayvision, 0.0.25, TorchXRayVision: A library of chest X-ray datasets and models, 2021-04-16T17:50:27+0000
+/project/pymedphys-toolbox/, pymedphys-toolbox, 0.11.0, , 2019-09-10T09:20:43+0000
+/project/pylibjpeg-libjpeg/, pylibjpeg-libjpeg, 1.2.0, A Python wrapper for libjpeg, with a focus on use as a plugin for for pylibjpeg, 2021-04-10T23:23:40+0000
+/project/unimod-mapper/, unimod-mapper, 0.4.2, unimod_mapper, 2021-04-15T09:10:56+0000
+/project/itk-elastix-opencl/, itk-elastix-opencl, 0.12.0, Provides an ITK Python interface to elastix, a toolbox for rigid and nonrigid registration of images, 2021-04-06T21:05:43+0000
+/project/reoptimize/, reoptimize, 0.1.0a2, A tool to optimize reaction conditions for restriction enzyme digests of DNA, 2017-09-01T07:59:20+0000
+/project/medic/, medic, 2.4.1, A command line tool to manage a PubMed DB mirror., 2015-09-28T08:42:38+0000
+/project/cnvkit/, CNVkit, 0.9.8, Copy number variation toolkit for high-throughput sequencing., 2020-12-13T22:03:44+0000
+/project/boavus/, boavus, 0.4, Tools to analyze data structured as BIDS in Python, 2018-12-06T08:18:58+0000
+/project/madgui/, madgui, 20.10.0, GUI for accelerator simulations using MAD-X., 2020-10-15T14:59:38+0000
+/project/neoepiscope/, neoepiscope, 0.5.0, comprehensive neoepitope prediction software, 2020-10-21T21:50:42+0000
+/project/gnuhealth-imaging/, gnuhealth-imaging, 3.8.0, GNU Health Diagnostic Imaging management package, 2021-02-14T20:46:21+0000
+/project/trytond-health-invoice/, trytond_health_invoice, 1.4.5, This module add functionality to create invoices for doctor's consulting charge.        Features:        -Invoice of multiple appointments at a time., 2012-04-20T01:49:28+0000
+/project/csg-dicoms-anonymizer/, csg-dicoms-anonymizer, 1.4.2, Robust and easy to use generic dicoms anonymizer with demographics csv spreadsheet anonymization by hashed ids, 2018-02-17T14:44:12+0000
+/project/dcm2bids/, dcm2bids, 2.1.6, Reorganising NIfTI files from dcm2niix into the Brain Imaging Data Structure, 2021-02-27T12:47:43+0000
+/project/iptkl/, IPTKL, 0.4.12, IPTK is a library specialized in the analysis of HLA-peptidomes identified through an immunopeptidomics pipeline., 2021-01-19T22:43:43+0000
+/project/ore/, ore, 0.2.1, Associate outliers with rare variation, 2019-01-10T18:39:03+0000
+/project/gnuhealth-crypto/, gnuhealth-crypto, 3.8.0, GNU Health Crypto Module, 2021-02-14T20:43:41+0000
+/project/biorad1sc-reader/, biorad1sc-reader, 0.7.0, Allows reading Bio-Rad *.1sc image/analysis files., 2020-11-30T05:47:35+0000
+/project/biomedicus/, biomedicus, 3.0b10, A biomedical and clinical NLP engine., 2021-03-11T00:50:31+0000
+/project/deepsurvk/, deepsurvk, 0.2.0, Implementation of DeepSurv using Keras, 2020-11-05T12:46:42+0000
+/project/pymedphys-workshops/, pymedphys-workshops, 0.1.0, , 2019-04-23T12:08:26+0000
+/project/entropies/, entropies, 0.2, , 2020-07-26T03:47:23+0000
+/project/edflib/, edflib, 0.83, python edflib is a python package ot allow access to European Data Format files (EDF for short). This is a standard for biological signals such as EEG, evoked potentials and EMG.  This module wraps Teunis van Beelen's edflib., 2020-06-22T18:39:11+0000
+/project/scikit-surgeryimage/, scikit-surgeryimage, 0.8.6, scikit-surgeryimage implements image processing tools and alogrithms for Image Guided Surgery., 2021-03-30T09:26:25+0000
+/project/cellsystem/, cellsystem, 0.4.2, An agent-based framework for the simulation of biological cell systems and more., 2018-08-29T21:11:27+0000
+/project/pyvct/, pyvct, 0.2.0, ABAQUS plug-in to create virtual CTs from 3D finite element bone/implant models, 2015-08-16T23:54:56+0000
+/project/ddrage/, ddrage, 1.7.1, Simulator for ddRADseq (double digest restriction site associated DNA sequencing) datasets. Generates reads (FASTQ format) that can be analyzed and validated using a ground truth file (YAML)., 2020-04-16T14:30:59+0000
+/project/explorepy/, explorepy, 1.4.0, Python API for Mentalab biosignal aquisition devices, 2021-03-31T12:37:24+0000
+/project/itk-ndreg/, itk-ndreg, 0.2.1, This is the Neurodata open-source Python package that performs affine and deformable (LDDMM) image registration., 2021-03-09T21:50:53+0000
+/project/nicecx-dev/, nicecx-dev, 0.0.1b7, Nice CX Python includes a client and a data model., 2017-10-18T22:29:33+0000
+/project/pyclarity-lims/, pyclarity-lims, 0.4.8, Python interface to the Basespace-Clarity LIMS (Laboratory Information Management System) server via its REST API., 2019-03-13T15:56:31+0000
+/project/interfile/, interfile, 0.3.1, Interfile read and write., 2015-11-23T13:13:27+0000
+/project/itk-adaptivedenoising/, itk-adaptivedenoising, 0.2.0, Denoise an image using a spatially adaptive filter., 2021-01-20T16:22:53+0000
+/project/cwl-airflow-tester/, cwl-airflow-tester, 1.0.20190620213659, Tester for cwl-airflow-parser, 2019-06-20T21:40:57+0000
+/project/myokit/, myokit, 1.32.0, A simple interface to cardiac cellular electrophysiology, 2021-01-19T23:14:31+0000
+/project/trytond-health-gyneco/, trytond_health_gyneco, 3.2.10, GNU Health Gynecology and Obstetrics package  , 2018-06-05T11:00:24+0000
+/project/cwltool/, cwltool, 3.0.20210319143721, Common workflow language reference implementation, 2021-03-19T14:51:00+0000
+/project/qmenta-anon/, qmenta-anon, 0.7, The qmenta-anon library is used by the qmenta-client library to anonymize files before transferring them to the QMENTA platform., 2019-11-28T16:24:35+0000
+/project/bci-framework/, bci-framework, 1.0.dev7, A real-time tool for acquisition, analysis and stimuli delivery for OpenBCI., 2021-04-21T17:33:27+0000
+/project/phylogeny/, phylogeny, 0.1.1, An exploration of algorithms for phylogeny reconstruction., 2018-08-30T20:42:26+0000
+/project/gnuhealth-nursing/, gnuhealth-nursing, 3.8.0, GNU Health nursing functionality package, 2021-02-14T20:47:15+0000
+/project/medio/, medio, 0.4.0, Medical images I/O python package, 2021-04-06T22:31:34+0000
+/project/datameta-client/, datameta-client, 0.1.0, A high-level client for interacting with a DataMeta service, 2021-03-23T11:18:57+0000
+/project/multifastadb/, multifastadb, 0.2.10, present a collection of indexed fasta files as a single source, 2015-09-10T22:05:51+0000
+/project/bioflow/, BioFlow, 0.2.3, Information Flow Analysis in biological networks, 2018-10-22T21:10:43+0000
+/project/chrispile/, chrispile, 1.2.4, Syntactic sugar for running ChRIS apps locally, 2021-03-18T18:47:58+0000
+/project/itk-gpufinitedifference/, itk-gpufinitedifference, 0.2.0, Base classes for ITK finite difference filters accelerated with OpenCL., 2019-12-12T11:14:20+0000
+/project/musestudio/, musestudio, 0.1.0, Import Muse recordings. Convert data to MNE and Pandas. View brain data in real time., 2021-02-26T09:55:54+0000
+/project/pymedphys/, pymedphys, 0.36.1, Medical Physics library, 2021-03-19T03:47:20+0000
+/project/shamo/, shamo, 1.1.0, A tool for electromagnetic modelling of the head and sensitivity analysis., 2021-04-22T13:32:18+0000
+/project/nimpa/, nimpa, 2.1.0, CUDA-accelerated Python utilities for high-throughput neuroimage processing and analysis, 2021-01-31T21:31:54+0000
+/project/pynwb/, pynwb, 1.4.0, Package for working with Neurodata stored in the NWB format, 2020-08-13T16:50:46+0000
+/project/megdata/, megdata, 1.0.3, Python MEG data readers, 2018-10-24T10:52:00+0000
+/project/genologics/, genologics, 0.4.6, Python interface to the Illumina Basespace Clarity LIMS (Laboratory Information Management System) server via its REST API., 2019-04-26T14:16:39+0000
+/project/opencmiss-zincwidgets/, opencmiss.zincwidgets, 2.0.0, , 2020-04-22T09:00:29+0000
+/project/luxconnector/, luxconnector, 1.0.2, This is a python wrapper around the Lux Client windows solution, 2021-04-15T13:42:24+0000
+/project/nimesh/, nimesh, 0.0.1, A Python package to manipulate neuroimaging triangular meshes., 2018-08-10T09:50:56+0000
+/project/molstruct/, molstruct, 3.0.0, Convert chemical molecule data CSV files to structured data formats, 2021-04-21T20:52:57+0000
+/project/clintrials/, clintrials, 0.1.4, clintrials is a library of clinical trial designs and methods in Python, 2016-11-03T17:32:27+0000
+/project/pygpso/, pygpso, 0.6, Bayesian optimisation method leveraging Gaussian Processes surrogate, 2020-11-16T16:42:47+0000
+/project/pirt/, pirt, 2.1.0, Pirt - Python Image Registration Toolkit , 2018-03-19T13:27:55+0000
+/project/itk-phasesymmetry/, itk-phasesymmetry, 1.0.4, ITK classes for computing phase symmetry using multi-scale steerable filters, 2020-11-25T19:23:00+0000
+/project/scikit-surgerycore/, scikit-surgerycore, 0.6.9, scikit-surgerycore contains commonly used Image Guided Surgery algorithms and tools, 2021-04-08T07:37:25+0000
+/project/niftypy/, NiftyPy, 0.4.0, Python wrapper for NiftyRec, NiftyReg and NiftySeg: tomographic reconstruction, volumetric registration and segmentation., 2017-03-12T19:06:51+0000
+/project/gnuhealth-orthanc/, gnuhealth-orthanc, 3.8.0, GNU Health Orthanc package, 2021-02-14T20:47:23+0000
+/project/modlamp/, modlamp, 4.3.0, python package for in silico peptide design and QSAR studies, 2021-02-25T17:58:49+0000
+/project/abf-explorer/, abf-explorer, 0.6, A PyQt GUI to quickly visualize ABF electrophysiology files, 2021-04-21T16:31:41+0000
+/project/suspect/, suspect, 0.4.4, , 2020-11-20T12:21:48+0000
+/project/bmdanalyse/, BMDanalyse, 0.2.0, Tool to analyse regional changes in a time series of 2D medical images., 2016-06-07T04:46:29+0000
+/project/spiky/, spiky, 1.0.4, Spike sorting based on Gaussian Mixture Model, 2018-02-25T20:59:38+0000
+/project/ndex-utils-dev/, ndex-utils-dev, 3.0.11.8, NDEx Python utilities.  Includes file conversion and importing functions, 2017-01-06T23:46:57+0000
+/project/genologics-sql/, genologics_sql, 0.0.2, Python interface to the Illumina Clarity LIMS (Laboratory Information Management System) (formerly Genologics) server via its postgres database., 2017-10-03T13:03:27+0000
+/project/itk-higherorderaccurategradient/, itk-higherorderaccurategradient, 1.1.0, ITK filters to estimate higher order accurate derivative and gradients, 2021-04-06T21:20:54+0000
+/project/dvha-mlca/, dvha-mlca, 0.2.3.post1, Batch analyze DICOM-RT Plan files to calculate Complexity Scores, 2021-02-01T00:36:29+0000
+/project/scikit-surgerybk/, scikit-surgerybk, 0.3.3, Python package for interfacing with BK Ultrasound machines, 2019-07-11T12:34:54+0000
+/project/ccaf/, ccAF, 1.0.1, Classify scRNA-seq profiling with highly resolved cell cycle phases., 2020-08-04T05:48:31+0000
+/project/gnuhealth-surgery/, gnuhealth-surgery, 3.8.0, GNU Health package for Sugeries, 2021-02-14T20:48:10+0000
+/project/trytond-health-surgery/, trytond_health_surgery, 3.2.10, GNU Health package for Sugeries, 2018-06-05T11:03:03+0000
+/project/swc2vtk/, swc2vtk, 1.1.0, SWC to VTK converter for visualize multi-compartment neurons and neural circuit simulations, 2017-01-30T08:44:42+0000
+/project/trytond-health-icd10/, trytond_health_icd10, 3.2.10, GNU Health WHO ICD10 Module, 2018-06-05T11:00:58+0000
+/project/pumphandle/, pumphandle, 0.0.2, Tools for computational epidemiology, 2013-12-03T20:37:48+0000
+/project/imagesplit/, ImageSplit, 0.3.4, Utility for splitting large image files into slices or chunks, 2021-02-28T22:56:50+0000
+/project/trytond-health-pediatrics-growth-charts-who/, trytond_health_pediatrics_growth_charts_who, 3.2.10, GNU Health Pediatrics growth charts - WHO Module, 2018-06-05T11:02:32+0000
+/project/sbpipe/, sbpipe, 4.21.0, Pipelines for systems modelling of biological networks., 2018-06-26T14:46:38+0000
+/project/meningotype/, meningotype, 0.8.4, In silico serotyping and finetyping (porA and fetA) of Neisseria meningitidis, 2021-03-24T19:18:02+0000
+/project/dicom-standard/, dicom-standard, 0.1.0, Parse the DICOM Standard into a human-friendly JSON format., 2017-07-03T17:34:04+0000
+/project/nhs-number/, nhs-number, 1.2.1, Python library for checking the validity of NHS Numbers, 2021-03-01T11:32:26+0000
+/project/pymedtermino/, PyMedTermino, 0.3.3, Medical Terminologies for Python: SNOMED CT, ICD10, MedDRA, CDF, UMLS and VCM icons, 2017-10-30T14:39:51+0000
+/project/gnuhealth-services-lab/, gnuhealth-services-lab, 3.8.0, GNU Health package to manage Laboratoy associated services, 2021-02-14T20:47:58+0000
+/project/slideio/, slideio, 0.5.225, Reading of medical images, 2021-01-16T14:01:47+0000
+/project/pylidc/, pylidc, 0.2.2, A library for working with the LIDC dataset., 2020-04-23T00:09:56+0000
+/project/sonia/, sonia, 0.0.45, Infer and compute selection factors of CDR3 sequences, 2021-03-12T08:36:18+0000
+/project/itk-montage/, itk-montage, 0.7.3, Montaging for microscopy imaging files., 2021-04-06T22:14:13+0000
+/project/pyrodigal/, pyrodigal, 0.4.7, Python interface to Prodigal, an ORF finder for genomes, progenomes and metagenomes., 2021-04-09T01:55:03+0000
+/project/bioutils/, bioutils, 0.5.3, miscellaneous simple bioinformatics utilities and lookup tables, 2021-04-14T15:50:45+0000
+/project/chemical-composition/, chemical-composition, 0.1.2, chemical_composition, 2021-03-22T12:15:09+0000
+/project/neurodynex/, neurodynex, 0.3.4, Python exercises accompanying the book Neuronal Dynamics by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski., 2017-04-30T19:12:15+0000
+/project/mbfxml2ex/, mbfxml2ex, 0.4.2, Python client for generating Ex format model descriptions from MBF XML., 2021-01-26T21:31:35+0000
+/project/memcnn/, memcnn, 1.5.0, A PyTorch framework for developing memory efficient deep invertible networks., 2020-11-24T10:07:33+0000
+/project/arcana/, arcana, 0.6.1, Abstracted repository-centric analysis framework, 2019-11-14T12:29:55+0000
+/project/scoary/, scoary, 1.6.16, Microbial pan-GWAS using the output from Roary, 2017-10-04T12:36:14+0000
+/project/itk-strain/, itk-strain, 0.3.3, ITK filters to estimate a strain tensor field from a displacement field or a spatial transformation, 2021-04-06T22:54:44+0000
+/project/eutils/, eutils, 0.6.0, "Python interface to NCBI's eutilities API", 2019-12-17T19:19:17+0000
+/project/methylcheck/, methylcheck, 0.7.1, Quality Control (QC), Visualization/plotting, and postprocessing software for Illumina methylation array data. See https://life-epigenetics-methylcheck.readthedocs-hosted.com/en/latest/ for full documentation and examples., 2021-04-08T21:25:11+0000
+/project/uparma-py/, uparma-py, 0.1.0, uparma, 2021-03-22T11:46:50+0000
+/project/itk-simpleitkfilters/, itk-simpleitkfilters, 0.2.0, This module contains a collension of ITK Filters used by SimpleITK. These filter are usefull to SimpleITK in that they may wrap existing ITK filters with an interface expected by SimpleITK, or may add important basic filters needed for completeness., 2020-10-07T13:53:03+0000
+/project/itk-elastix/, itk-elastix, 0.12.0, Provides an ITK Python interface to elastix, a toolbox for rigid and nonrigid registration of images, 2021-04-06T20:28:52+0000
+/project/federated/, federated, 0.0.1, federated computing, 2020-02-03T21:45:22+0000
+/project/cardiopy/, cardiopy, 0.0.5, Analysis package for single-lead clinical EKG data, 2020-10-06T20:17:06+0000
+/project/scikit-surgery-sphere-fitting/, scikit-surgery-sphere-fitting, 0.0.4, scikit-surgery-sphere-fitting implements a least squares sphere fitting algorithm, to read a vtk poly data file, a config file, and outputs the fitted sphere, 2020-06-12T09:19:10+0000
+/project/gnuhealth-socioeconomics/, gnuhealth-socioeconomics, 3.8.0, GNU Health Person and family socioeconomic history and assessment, 2021-02-14T20:48:02+0000
+/project/pynetdicom/, pynetdicom, 1.5.7, A Python implementation of the DICOM networking protocol, 2021-04-19T04:36:58+0000
+/project/simplewrap/, simplewrap, 0.3.3, Easy to use wrappers generator for C libraries based on ctypes., 2018-11-09T01:38:19+0000
+/project/pymedphys-databases/, pymedphys-databases, 0.11.0, , 2019-09-10T09:20:32+0000
+/project/gnuhealth-federation/, gnuhealth-federation, 3.8.0, GNU Health Federation, 2021-02-14T20:44:01+0000
+/project/ctrax/, Ctrax, 0.5.8, Ctrax: The Caltech Multiple Fly Tracker, 2016-09-17T23:53:07+0000
+/project/uta/, uta, 0.1.8, Universal Transcript Archive, 2014-10-08T17:19:46+0000
+/project/pycardiac/, pyCardiac, 1.0.1, , 2019-05-24T18:29:19+0000
+/project/itk-fixedpointinversedisplacementfield/, itk-fixedpointinversedisplacementfield, 1.0.0, Takes a displacement field as input and computes the displacement field that is its inverse., 2020-11-22T00:04:29+0000
+/project/ngmaster/, ngmaster, 0.5.8, In silico multi-antigen sequence typing for Neisseria gonorrhoeae (NG-MAST), 2021-03-23T23:01:27+0000
+/project/gnuhealth-icd10pcs/, gnuhealth-icd10pcs, 3.8.0, GNU Health ICD10-PCS package. Procedures Coding System, 2021-02-14T20:45:30+0000
+/project/deepblink/, deepblink, 0.1.1, Threshold independent detection and localization of diffraction-limited spots., 2021-02-25T08:48:20+0000
+/project/pymedphys-sphinxtheme/, pymedphys-sphinxtheme, 0.11.0, , 2019-09-10T09:19:18+0000
+/project/banana/, banana, 0.5.1, Brain imAgiNg Analysis iN Arcana (Banana): brain imaging analysis workflows implemented in the Arcana framework (arcana.readthedocs.io), 2019-11-14T12:29:38+0000
+/project/eye2you/, eye2you, 0.1.dev1, fundus image analysis, 2019-07-09T10:26:59+0000
+/project/pylibjpeg/, pylibjpeg, 1.2.0, A Python framework for decoding JPEG files, with a focus on supporting pydicom, 2021-04-11T02:24:12+0000
+/project/ciles/, ciles, 0.1.0, Langevin integrator for SDEs with constant drift and        diffusion on continuous intervals with circular boundary        conditions., 2017-12-06T11:09:21+0000
+/project/vb-toolbox/, vb-toolbox, 2.0.0, Library and command-line tool to calculate the Vogt-Bailey index of a dataset, 2020-07-28T14:55:29+0000
+/project/reiz/, Reiz, 3.5.1, A Python toolbox for visual and auditory stimulation based on pyglet and pylsl., 2020-02-25T14:17:34+0000
+/project/automatic-behavior-analysis/, automatic-behavior-analysis, 0.0.21, Program complex for automated behavior analysis, 2020-08-04T19:20:06+0000
+/project/ndex2-performance/, ndex2-performance, 2.0.0.3, Nice CX Python includes a client and a data model., 2018-10-04T23:38:58+0000
+/project/ndicom-improved-kmeans/, ndicom-improved-kmeans, 0.0.1.dev0, , 2018-06-08T23:34:43+0000
+/project/dcm-spec-tools/, dcm-spec-tools, 0.3.1, Python DICOM tools using input from DICOM specs in docbook format, 2021-01-24T18:29:30+0000
+/project/llckbdm/, llckbdm, 0.3.0, Line List Clustering Krylov Basis Diagonalization Method implementation in Python, 2021-02-21T19:16:03+0000
+/project/ga4gh-vr/, ga4gh.vr, 0.5.0.post1, "GA4GH Variation Representation (VR) reference implementation (https://github.com/ga4gh/vr-python/)", 2020-09-15T04:18:50+0000
+/project/itk-segmentation/, itk-segmentation, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:14:34+0000
+/project/hdat/, hdat, 0.1.0, High Dimensional Algorithm Tester: A tool for manually verifying high-dimensionality algorithms., 2018-02-28T01:37:05+0000
+/project/logistigate/, logistigate, 0.1.0, python implementation of logistigate for supply-chain aberration inference, 2021-02-18T19:01:13+0000
+/project/icgc-data-parser/, ICGC-data-parser, 0.2.2, Tools to facilitate the parsing of SSM data from the International Cancer Genome Consortium data releases, in particular, the simple somatic mutation aggregates., 2018-09-03T19:06:15+0000
+/project/scikit-surgeryoverlay/, scikit-surgeryoverlay, 0.1.3, scikit-surgeryoverlay, 2019-01-02T15:02:28+0000
+/project/itk-iofdf/, itk-iofdf, 1.0.1, ITK `ImageIO` class to read or write the FDF image format, 2021-03-19T21:40:04+0000
+/project/pyeeglab/, PyEEGLab, 0.10.0, Analyze and manipulate EEG data using PyEEGLab, 2020-09-28T15:51:56+0000
+/project/eeghdf/, eeghdf, 0.1, eeg storage in hdf5 + related functions, 2020-05-18T03:50:22+0000
+/project/gnuhealth-ntd/, gnuhealth-ntd, 3.8.0, GNU Health Neglected Tropical Diseases package, 2021-02-14T20:47:04+0000
+/project/scikit-surgerycalibration/, scikit-surgerycalibration, 0.1.8, scikit-surgerycalibration provides algorithms designed for the calibration of surgical instruments, 2021-03-12T14:41:35+0000
+/project/petlink/, petlink, 0.3.4, Decode and encode PETlink streams., 2018-11-09T01:37:56+0000
+/project/gillespy2/, gillespy2, 1.5.7, Python interface for Gillespie-style biochemical simulations, 2020-12-15T22:40:32+0000
+/project/pygatb/, pyGATB, 0.1.2, An experimental python wrapper for gatb-core, 2017-06-08T09:46:05+0000
+/project/wonambi/, wonambi, 6.17, Tools for EEG, ECoG, iEEG, especially for sleep, 2021-04-21T18:59:44+0000
+/project/accelbrainbeat/, AccelBrainBeat, 1.0.5, AccelBrainBeat is a Python library for creating the binaural beats or monaural beats. You can play these beats and generate wav files. The frequencys can be optionally selected., 2018-05-06T01:27:21+0000
+/project/gnuhealth-icpm/, gnuhealth-icpm, 3.8.0, GNU Health WHO ICPM package. International Classsification of Procedures in Medicine, 2021-02-14T20:46:11+0000
+/project/trytond-health-reporting/, trytond_health_reporting, 3.2.10, GNU Health package for reporting, 2018-06-05T11:02:44+0000
+/project/itk-vtkglue/, itk-vtkglue, 0.3.0, This module contains classes that bridge and ITK and VTK image processing and visualization pipeline., 2019-07-22T20:13:58+0000
+/project/pymedphys-pylibjpeg-libjpeg/, pymedphys-pylibjpeg-libjpeg, 1.2.0, A Python wrapper for libjpeg, with a focus on use as a plugin for for pylibjpeg, 2021-04-03T09:18:18+0000
+/project/itk-subdivisionquadedgemeshfilter/, itk-subdivisionquadedgemeshfilter, 1.1.0, ITK classes for triangle mesh subdivision, 2020-06-09T16:45:46+0000
+/project/scikit-surgeryspeech/, scikit-surgeryspeech, 0.3.0, Interface to speech services for image-guided surgery., 2020-10-23T16:11:38+0000
+/project/ismrmrd/, ismrmrd, 1.7.2, Python implementation of the ISMRMRD, 2021-04-06T08:16:31+0000
+/project/scikit-surgeryvtk/, scikit-surgeryvtk, 1.0, scikit-surgeryvtk implements VTK for Image Guided Surgery applications, 2021-02-03T15:57:39+0000
+/project/nsol/, NSoL, 0.1.14, The Numerical Solver Library (NSoL) is a research-focused toolkit for denoising and deconvolution applications using ADMM and Primal-Dual methods., 2019-08-11T12:25:53+0000
+/project/ndicom-meanshift/, ndicom-meanshift, 0.0.1.dev1, , 2018-06-08T23:38:45+0000
+/project/hgvs/, hgvs, 1.5.1, HGVS Parser, Formatter, Mapper, Validator, 2020-03-29T02:53:25+0000
+/project/synergy/, synergy, 0.4.7, Python package for calculating drug combination synergy, 2021-04-08T03:45:00+0000
+/project/kgrid-python-runtime/, kgrid-python-runtime, 0.0.18, A runtime for python-based Knowledge Objects, 2021-04-09T15:52:28+0000
+/project/gnuhealth-iss/, gnuhealth-iss, 3.8.0, GNU Health Injury Surveillance System package, 2021-02-14T20:46:47+0000
+/project/hl7tersely/, hl7tersely, 1.2, Lightweight HL7 parser focused on HL7 tersers, 2015-05-26T10:40:43+0000
+/project/pymia/, pymia, 0.3.1, A Python package for data handling and evaluation in deep learning-based medical image analysis., 2020-08-02T19:05:22+0000
+/project/scikit-surgeryopencvcpp/, scikit-surgeryopencvcpp, 0.0.13, Image-guided surgery functions, in C++, using OpenCV and wrapped in Python., 2020-06-09T15:30:06+0000
+/project/itk-bsplinegradient/, itk-bsplinegradient, 0.2.4, Approximate an image's gradient from a B-spline fit to its intensity., 2021-04-06T20:52:18+0000
+/project/itk-spcn/, itk-spcn, 0.1.3, This performs structure preserving color normalization on an image using a reference image., 2021-03-30T20:12:53+0000
+/project/dinopy/, dinopy, 2.2.0, DNA input and output library for Python and Cython. Includes reader and writer for FASTA and FASTQ files, support for samtools faidx files, and generators for solid and gapped q-grams (k-mers)., 2020-04-22T11:16:23+0000
+/project/itk-isotropicwavelets/, itk-isotropicwavelets, 0.5.4, Steerable Wavelet Pyramid with Isotropic Wavelets and Riesz Functions, 2019-09-27T21:53:21+0000
+/project/dnaexchange/, dnaexchange, 0.0.1, dnaexchange, 2018-10-29T23:29:27+0000
+/project/pymedphys-coordsandscales/, pymedphys-coordsandscales, 0.11.0, , 2019-09-10T09:18:11+0000
+/project/pymedphys-fileformats/, pymedphys-fileformats, 0.11.0, , 2019-09-10T09:20:20+0000
+/project/keter/, keter, 0.0.1, Bioinformatics platform, 2020-09-15T01:25:53+0000
+/project/vivarium/, vivarium, 0.10.1, vivarium is a microsimulation framework built on top of the standard scientific python stack., 2020-12-24T18:41:27+0000
+/project/pysumix/, pysumix, 0.6.0, Sumix SMX API and data writing and live display, 2018-06-21T14:14:02+0000
+/project/neurodynex3/, neurodynex3, 1.0.3, Python exercises accompanying the book Neuronal Dynamics by Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski., 2021-03-08T10:45:30+0000
+/project/pymedphys-monomanage/, pymedphys-monomanage, 0.11.0, , 2019-09-10T09:18:11+0000
+/project/biowardrobe-airflow-analysis/, biowardrobe-airflow-analysis, 1.0.20181214162558, Replaces BioWardrobe's backend with CWL Airflow, 2018-12-14T16:26:11+0000
+/project/sprt/, sprt, 0.0.1, Python package to do sequential probability ratio test, 2017-03-23T01:34:13+0000
+/project/bio-jade/, bio-jade, 1.0, A repository for modules and applications to aid in the design and analysis of Biological molecules, especially when working with Rosetta or PyRosetta., 2018-02-15T23:40:14+0000
+/project/openmapi/, openmapi, 1.4.0, API COVID 19 por Provincias Argentinas, 2020-08-07T04:43:00+0000
+/project/itk-genericlabelinterpolator/, itk-genericlabelinterpolator, 1.0.0, ITK classes for generic interpolation of label images., 2020-06-17T02:30:27+0000
+/project/gcpds-utils/, gcpds-utils, 0.1a2, , 2020-10-15T21:57:30+0000
+/project/trytond-health-icd10pcs/, trytond_health_icd10pcs, 3.2.10, GNU Health ICD10-PCS package. Procedures Coding System, 2018-06-05T11:01:12+0000
+/project/metaseq/, metaseq, 0.5.6, Integrative analysis of high-thoughput sequencing data, 2015-11-15T16:03:22+0000
+/project/trytond-health-icd9procs/, trytond_health_icd9procs, 3.2.10, GNU Health WHO ICD9 - Volume 3 - procedures package, 2018-06-05T11:01:23+0000
+/project/gnuhealth-pediatrics-growth-charts/, gnuhealth-pediatrics-growth-charts, 3.8.0, GNU Health Pediatrics growth charts package, 2021-02-14T20:47:32+0000
+/project/trytond-health-ems/, trytond_health_ems, 3.2.10, GNU Health package for Ambulance and Emergency Management, 2018-06-05T10:59:40+0000
+/project/itk-polartransform/, itk-polartransform, 1.1.2, This module contains ITK classes to transform from cartesian to polar coordinate systems and back., 2020-11-25T16:18:53+0000
+/project/dvha-edit/, dvha-edit, 0.7.post1, Simple DICOM tag editor built with wxPython and pydicom, 2020-05-11T12:39:32+0000
+/project/toil-msk/, toil-msk, 3.21.1, Pipeline management software for clusters., 2020-06-19T15:51:47+0000
+/project/msiimport/, msiimport, 0.1.0, Access analyze75 formatted mass spec images, 2019-05-17T19:44:41+0000
+/project/bxl/, bxl, 0.3.4.post1, Basic library for interacting with the REST interface of XNAT., 2019-07-16T14:18:24+0000
+/project/gnuhealth-pediatrics-growth-charts-who/, gnuhealth-pediatrics-growth-charts-who, 3.8.0, GNU Health Pediatrics growth charts - WHO Module, 2021-02-14T20:47:36+0000
+/project/gnuhealth-archives/, gnuhealth-archives, 3.8.0, GNU Health package to manage paper and legacy clinical records, 2021-02-14T20:43:15+0000
+/project/bidso/, bidso, 0.8, Transparent Object-Oriented Approach to BIDS in Python, 2018-10-16T10:53:05+0000
+/project/trytond-health-services-lab/, trytond_health_services_lab, 3.2.10, GNU Health package to manage Laboratoy associated services, 2018-06-05T11:02:52+0000
+/project/celldeath/, celldeath, 1.0.0, A tool to identify cell death based on deep learning, 2021-02-10T13:48:26+0000
+/project/openbci-stream/, openbci-stream, 1.0.0rc18, High level Python module for EEG/EMG/ECG acquisition and distributed streaming for OpenBCI Cyton board., 2021-04-21T17:30:36+0000
+/project/trytond-health-ntd-chagas/, trytond_health_ntd_chagas, 3.2.10, GNU Health Neglected Tropical Diseases. Chagas package, 2018-06-05T11:02:08+0000
+/project/bonemapy/, bonemapy, 0.4.1, An ABAQUS plug-in to map bone properties from CT scans to 3D finite element bone/implant models, 2013-10-13T03:13:18+0000
+/project/pyhmmer/, pyhmmer, 0.3.0, Cython bindings and Python interface to HMMER3., 2021-03-11T00:18:27+0000
+/project/torchkbnufft/, torchkbnufft, 1.2.0, A high-level, easy-to-deploy non-uniform Fast Fourier Transform in PyTorch., 2021-04-09T23:22:33+0000
+/project/epycom/, epycom, 0.0b2, Package for EEG data processing and analysis, 2021-04-14T20:14:10+0000
+/project/kheops-client/, kheops-client, 0.1.0, Utility for querying and downloading data from a Kheops DICOM database, 2021-03-18T23:29:49+0000
+/project/hl7parser/, hl7parser, 0.7.2, A simple HL7 parser, 2020-03-02T15:03:00+0000
+/project/itk-thickness3d/, itk-thickness3d, 5.1.1, An ITK module to compute 3D thickness, 2020-10-11T02:12:29+0000
+/project/miscnn/, miscnn, 1.1.9, Framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning, 2021-04-16T14:16:52+0000
+/project/gnuhealth-ntd-dengue/, gnuhealth-ntd-dengue, 3.8.0, GNU Health Neglected Tropical Diseases. Dengue package, 2021-02-14T20:47:11+0000
+/project/gnuhealth-ems/, gnuhealth-ems, 3.8.0, GNU Health package for Ambulance and Emergency Management, 2021-02-14T20:43:57+0000
+/project/pyhpo/, pyhpo, 2.7.3, A Python package to work with the HPO Ontology, 2021-02-18T16:43:18+0000
+/project/itk/, itk, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:11:10+0000
+/project/itk-totalvariation/, itk-totalvariation, 0.2.1, TotalVariation algorithms, providing a wrap for the external project: https://github.com/albarji/proxTV, 2021-02-15T23:30:21+0000
+/project/pythonmeta/, PythonMeta, 1.23, A Python module of Meta-Analysis, usually applied in systemtic reviews of Evidence-based Medicine., 2021-01-22T02:56:00+0000
+/project/dj-diabetes/, dj_diabetes, 0.3.1, Django Diabetes is a personal Glucose Manager, 2018-04-18T10:11:42+0000
+/project/dicom4ortho/, dicom4ortho, 0.1.1, A DICOM Implementation for Orthodontic Images, 2021-03-02T22:29:21+0000
+/project/beamviz/, beamviz, 0.1.0, A visualizer for BEAMnrc, in particular BLOCK CMs, 2017-01-15T04:58:22+0000
+/project/ndicom-kmeans/, ndicom-kmeans, 0.0.1.dev0, , 2018-06-08T01:21:34+0000
+/project/sonnia/, sonnia, 0.0.7, Infer and compute selection factors of CDR3 sequences, 2021-03-15T12:45:32+0000
+/project/gnuhealth-lab/, gnuhealth-lab, 3.8.0, Occhiolino LIMS: The GNU Health Laboratory Information Management System, 2021-02-14T20:46:51+0000
+/project/itk-parabolicmorphology/, itk-parabolicmorphology, 1.1.0, ITK classes for mathematical morphology using parabolic structuring functions, 2020-06-09T18:01:55+0000
+/project/fri/, fri, 8.1.0, Implementation of Feature Relevance Bounds method to perform Feature Selection and further analysis., 2021-01-01T13:09:59+0000
+/project/trytond-health-crypto-lab/, trytond_health_crypto_lab, 3.2.10, GNU Health package with public-key crypto functionality for laboratories, 2018-06-05T10:59:33+0000
+/project/freesurfer-surface/, freesurfer-surface, 1.2.0, Python Library to Read and Write Surface Files in Freesurfer's TriangularSurface Format, 2021-01-02T21:03:46+0000
+/project/simpleitk-elastix/, SimpleITK-Elastix, 2.0.0rc2, SimpleITK is a simplified interface to the Insight Toolkit (ITK) for image registration and segmentation, 2020-09-01T01:17:25+0000
+/project/restflow/, restflow, 0.8-beta, Interactive Hiflow3 Simulation an HTTP Request far away, 2014-08-30T06:56:15+0000
+/project/itk-ringartifact/, itk-ringartifact, 1.0.0, ITK filters to reduce stripe artifacts or ring artifacts common in x-ray computed tomography, focused ion beam images, etc., 2020-06-25T17:32:08+0000
+/project/deepreg/, deepreg, 0.1.2, DeepReg is a freely available, community-supported open-source toolkit for research and education in medical image registration using deep learning., 2021-02-01T08:46:39+0000
+/project/vedo/, vedo, 2021.0.2, A python module for scientific analysis and visualization of 3D objects and point clouds based on VTK., 2021-03-16T21:23:29+0000
+/project/fmri-physio-log/, fmri-physio-log, 0.1.2, Load fMRI PMU files into python, 2020-09-28T08:32:41+0000
+/project/fhir/, fhir, 0.0.4, HL7 FHIR Library, 2014-04-17T21:30:22+0000
+/project/pyddm/, pyddm, 0.5.1, Extensible drift diffusion modeling for Python, 2020-12-05T00:05:24+0000
+/project/dicompyler/, dicompyler, 0.4.2, Extensible radiation therapy research platform and viewer for DICOM and DICOM RT., 2014-07-16T02:29:54+0000
+/project/itk-splitcomponents/, itk-splitcomponents, 2.0.4, ITK filters to split a multi-component pixel image into component-wise scalar images, 2021-04-06T21:33:42+0000
+/project/resim/, resim, 0.1.1, chemoREsistance SIMulator, 2018-01-13T18:58:24+0000
+/project/scikit-surgerydavinci/, scikit-surgerydavinci, 0.3.2, Augmented Reality for Davinci Surgical Robot, 2020-10-08T09:55:55+0000
+/project/sonocrop/, sonocrop, 0.56, Prepare ultrasound videos for machine learning-- crop and remove static clutter from ultrasound video., 2020-06-07T21:47:28+0000
+/project/methylsuite/, methylsuite, 1.0.3, Python-based Illumina methylation array processing and analysis software composite package, 2021-01-05T21:11:06+0000
+/project/gnuhealth-inpatient/, gnuhealth-inpatient, 3.8.0, GNU Health hospitalization management package, 2021-02-14T20:46:29+0000
+/project/gnuhealth-icu/, gnuhealth-icu, 3.8.0, GNU Health package for Intensive Care  settings, 2021-02-14T20:46:17+0000
+/project/itk-tubetk/, itk-tubetk, 0.2.1, An open-source toolkit, led by Kitware, Inc., for the segmentation, registration, and analysis of tubes and surfaces in images., 2020-06-17T18:22:48+0000
+/project/paperstream/, paperstream, 1.1.0, PaperStream web app. Create and encode paper diaries or surveys automatically, 2018-06-02T20:04:35+0000
+/project/hdmf/, hdmf, 2.5.1, A package for standardizing hierarchical object data, 2021-04-23T16:20:28+0000
+/project/visionegg/, visionegg, 1.2.1, 2D/3D visual stimulus generation, 2009-07-21T10:41:59+0000
+/project/pysimulators/, pysimulators, 1.1.5, Tools to build an instrument model., 2018-11-07T23:06:40+0000
+/project/freestyle-hid/, freestyle-hid, 1.0.2, Python implementation of the HID protocol used by Abbott FreeStyle devices, 2021-03-03T18:07:42+0000
+/project/gnuhealth-profile/, gnuhealth-profile, 3.8.0, GNU Health profile with common packages, 2021-02-14T20:47:40+0000
+/project/openapp-indivo-adminsite/, openapp_indivo_adminsite, 0.1, Admin Site for Indivo, 2012-12-01T08:36:59+0000
+/project/endocal/, endocal, 18.2.13, A cross-platform, compact GUI application for the optical distortion calibration of fluid-immersed endoscopes., 2018-02-13T20:00:22+0000
+/project/trytond-health/, trytond_health, 3.2.10, GNU Health - The Free/Libre Hospital and Health Information System core package for Tryton, 2018-06-05T10:59:17+0000
+/project/gnuhealth-services/, gnuhealth-services, 3.8.0, GNU Health package to manage patient health related services, 2021-02-14T20:47:54+0000
+/project/tmi-viewer/, tmi_viewer, 0.4.3, tmi_viewer, 2018-02-08T11:21:16+0000
+/project/long-gen/, long-gen, 0.2.3, A library of functions for generating longitudinal data, 2020-05-06T21:13:47+0000
+/project/pyhmmer-sepp/, pyhmmer-sepp, 0.3.4, Personal use fork of pyhmmer (Cython bindings and Python interface to HMMER3) for implementing SEPP, 2021-04-04T09:13:48+0000
+/project/spm12/, spm12, 1.0.6, Statistical Parametric Mapping, 2021-02-01T22:28:42+0000
+/project/intensity-normalization/, intensity-normalization, 1.4.5, Normalize the intensity of MR images, 2021-03-17T00:10:01+0000
+/project/automatic-behavior-analysis/, automatic-behavior-analysis, 0.0.21, Program complex for automated behavior analysis, 2020-08-04T19:20:06+0000
+/project/ndex2-performance/, ndex2-performance, 2.0.0.3, Nice CX Python includes a client and a data model., 2018-10-04T23:38:58+0000
+/project/ndicom-improved-kmeans/, ndicom-improved-kmeans, 0.0.1.dev0, , 2018-06-08T23:34:43+0000
+/project/dcm-spec-tools/, dcm-spec-tools, 0.3.1, Python DICOM tools using input from DICOM specs in docbook format, 2021-01-24T18:29:30+0000
+/project/epydemiology/, epydemiology, 0.1.30, A library of Python code for epidemiologists, 2020-05-09T13:25:43+0000
+/project/dwilib/, dwilib, 0.1.8.dev0, Research tools for MRI-based CAD of cancer, 2018-11-16T08:07:56+0000
+/project/tbccpylinac/, TBCCpylinac, 3.1.1, A modified version of Pylinac made specifically for TBCC. Pylinac is a toolkit for performing TG-142 QA-related tasks on a linear accelerator, 2020-11-18T19:07:33+0000
+/project/trytond-health-archives/, trytond_health_archives, 3.2.10, GNU Health package to manage paper and legacy clinical records, 2018-06-05T10:59:21+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/trytond-health-nursing/, trytond_health_nursing, 3.2.10, GNU Health nursing functionality package, 2018-06-05T11:02:15+0000
+/project/immuno-probs/, immuno-probs, 0.2.1, Create IGoR models and calculate the generation probability of V(D)J and CDR3 sequences., 2019-12-15T17:07:33+0000
+/project/xnatworkflowgather/, XnatWorkflowGather, 0.0.1a5, Tool for gathering workflow data from xnat postgres db and posting metrics to datadog using local statsd, 2018-11-16T18:31:41+0000
+/project/trytond-health-ntd-dengue/, trytond_health_ntd_dengue, 3.2.10, GNU Health Neglected Tropical Diseases. Dengue package, 2018-06-05T11:02:11+0000
+/project/boyle/, boyle, 0.2.0, Medical Image Conversion and Input/Output Tools, 2017-11-12T11:17:58+0000
+/project/itk-gpuimagefilterbase/, itk-gpuimagefilterbase, 0.2.0, Base classes for ITK image filters accelerated with OpenCL., 2019-12-12T11:14:31+0000
+/project/ndicom-thresholding/, ndicom-thresholding, 0.0.1.dev1, , 2018-06-08T23:43:38+0000
+/project/versatility/, versatility, 1.0.1, Versatility - find how closely a node in a graph is associated with a community, 2019-04-20T14:13:03+0000
+/project/ndicom-gauss-kernel-kmeans/, ndicom-gauss-kernel-kmeans, 0.0.1.dev0, , 2018-06-08T23:31:59+0000
+/project/scomix/, scomix, 0.0.1, Python package for analysis of data from single-cell data-science., 2020-11-14T09:07:59+0000
+/project/numpy-reduced-flowcytometrytools/, numpy-reduced-flowcytometrytools, 0.5.0, A python package for performing flow cytometry analysis, 2020-05-27T23:13:11+0000
+/project/physiocurve/, physiocurve, 2020.9.8, Library to analyze physiologic data curves., 2020-09-08T10:19:59+0000
+/project/pimz/, pIMZ, 1.0a0, pIMZ: an integrative framework for imaging mass spectrometry analysis, 2020-10-13T20:12:04+0000
+/project/mnisiscom/, mnisiscom, 0.4.0, A simple command line tool and GUI for computing subtraction ictal SPECT coregistered to MRI (SISCOM). mnisiscom is exclusively intended for research use!, 2020-01-09T03:19:41+0000
+/project/gnuhealth-calendar/, gnuhealth-calendar, 3.8.0, GNU Health Calendar with Caldav support, 2021-02-14T20:43:33+0000
+/project/trytond-health-ntd-chagas/, trytond_health_ntd_chagas, 3.2.10, GNU Health Neglected Tropical Diseases. Chagas package, 2018-06-05T11:02:08+0000
+/project/trytond-health-ntd-dengue/, trytond_health_ntd_dengue, 3.2.10, GNU Health Neglected Tropical Diseases. Dengue package, 2018-06-05T11:02:11+0000
+/project/itk-segmentation/, itk-segmentation, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:14:34+0000
+/project/hdat/, hdat, 0.1.0, High Dimensional Algorithm Tester: A tool for manually verifying high-dimensionality algorithms., 2018-02-28T01:37:05+0000
+/project/logistigate/, logistigate, 0.1.0, python implementation of logistigate for supply-chain aberration inference, 2021-02-18T19:01:13+0000
+/project/icgc-data-parser/, ICGC-data-parser, 0.2.2, Tools to facilitate the parsing of SSM data from the International Cancer Genome Consortium data releases, in particular, the simple somatic mutation aggregates., 2018-09-03T19:06:15+0000
+/project/scikit-surgeryoverlay/, scikit-surgeryoverlay, 0.1.3, scikit-surgeryoverlay, 2019-01-02T15:02:28+0000
+/project/boyle/, boyle, 0.2.0, Medical Image Conversion and Input/Output Tools, 2017-11-12T11:17:58+0000
+/project/itk-gpuimagefilterbase/, itk-gpuimagefilterbase, 0.2.0, Base classes for ITK image filters accelerated with OpenCL., 2019-12-12T11:14:31+0000
+/project/ndicom-thresholding/, ndicom-thresholding, 0.0.1.dev1, , 2018-06-08T23:43:38+0000
+/project/versatility/, versatility, 1.0.1, Versatility - find how closely a node in a graph is associated with a community, 2019-04-20T14:13:03+0000
+/project/ndicom-gauss-kernel-kmeans/, ndicom-gauss-kernel-kmeans, 0.0.1.dev0, , 2018-06-08T23:31:59+0000
+/project/scomix/, scomix, 0.0.1, Python package for analysis of data from single-cell data-science., 2020-11-14T09:07:59+0000
+/project/numpy-reduced-flowcytometrytools/, numpy-reduced-flowcytometrytools, 0.5.0, A python package for performing flow cytometry analysis, 2020-05-27T23:13:11+0000
+/project/physiocurve/, physiocurve, 2020.9.8, Library to analyze physiologic data curves., 2020-09-08T10:19:59+0000
+/project/pimz/, pIMZ, 1.0a0, pIMZ: an integrative framework for imaging mass spectrometry analysis, 2020-10-13T20:12:04+0000
+/project/mnisiscom/, mnisiscom, 0.4.0, A simple command line tool and GUI for computing subtraction ictal SPECT coregistered to MRI (SISCOM). mnisiscom is exclusively intended for research use!, 2020-01-09T03:19:41+0000
+/project/itk-iofdf/, itk-iofdf, 1.0.1, ITK `ImageIO` class to read or write the FDF image format, 2021-03-19T21:40:04+0000
+/project/pyeeglab/, PyEEGLab, 0.10.0, Analyze and manipulate EEG data using PyEEGLab, 2020-09-28T15:51:56+0000
+/project/eeghdf/, eeghdf, 0.1, eeg storage in hdf5 + related functions, 2020-05-18T03:50:22+0000
+/project/xnatuploadtool/, XnatUploadTool, 1.1.6, Tool for assisting in uploading data directly to xnat imaging research platform (xnat.org), 2020-04-30T18:28:16+0000
+/project/ray-voxel-overlap/, ray-voxel-overlap, 0.0.4, Estimate the tomographic system-matrix for rays in voxels., 2019-10-09T10:51:57+0000
+/project/fitr/, fitr, 0.0.1, Fit reinforcement learning models to behavioural data, 2017-04-09T00:38:46+0000
+/project/gnuhealth-calendar/, gnuhealth-calendar, 3.8.0, GNU Health Calendar with Caldav support, 2021-02-14T20:43:33+0000
+/project/itk-elastix/, itk-elastix, 0.12.0, Provides an ITK Python interface to elastix, a toolbox for rigid and nonrigid registration of images, 2021-04-06T20:28:52+0000
+/project/federated/, federated, 0.0.1, federated computing, 2020-02-03T21:45:22+0000
+/project/cardiopy/, cardiopy, 0.0.5, Analysis package for single-lead clinical EKG data, 2020-10-06T20:17:06+0000
+/project/gpssi/, gpssi, 0.1.1, Sampling image segmentations with Gaussian process, 2020-06-30T08:50:33+0000
+/project/scikit-med/, scikit-med, 0.0.1, scientific computing for medical science and clinical research, 2018-10-23T18:43:17+0000
+/project/pytrip98/, pytrip98, 3.3.7, PyTRiP, 2021-04-08T14:49:50+0000
+/project/scikit-surgery-sphere-fitting/, scikit-surgery-sphere-fitting, 0.0.4, scikit-surgery-sphere-fitting implements a least squares sphere fitting algorithm, to read a vtk poly data file, a config file, and outputs the fitted sphere, 2020-06-12T09:19:10+0000
+/project/gnuhealth-socioeconomics/, gnuhealth-socioeconomics, 3.8.0, GNU Health Person and family socioeconomic history and assessment, 2021-02-14T20:48:02+0000
+/project/pynetdicom/, pynetdicom, 1.5.7, A Python implementation of the DICOM networking protocol, 2021-04-19T04:36:58+0000
+/project/simplewrap/, simplewrap, 0.3.3, Easy to use wrappers generator for C libraries based on ctypes., 2018-11-09T01:38:19+0000
+/project/pymedphys-databases/, pymedphys-databases, 0.11.0, , 2019-09-10T09:20:32+0000
+/project/gnuhealth-federation/, gnuhealth-federation, 3.8.0, GNU Health Federation, 2021-02-14T20:44:01+0000
+/project/ctrax/, Ctrax, 0.5.8, Ctrax: The Caltech Multiple Fly Tracker, 2016-09-17T23:53:07+0000
+/project/uta/, uta, 0.1.8, Universal Transcript Archive, 2014-10-08T17:19:46+0000
+/project/pycardiac/, pyCardiac, 1.0.1, , 2019-05-24T18:29:19+0000
+/project/itk-fixedpointinversedisplacementfield/, itk-fixedpointinversedisplacementfield, 1.0.0, Takes a displacement field as input and computes the displacement field that is its inverse., 2020-11-22T00:04:29+0000
+/project/ngmaster/, ngmaster, 0.5.8, In silico multi-antigen sequence typing for Neisseria gonorrhoeae (NG-MAST), 2021-03-23T23:01:27+0000
+/project/graphysio/, graphysio, 2020.6.19, Graphical time series visualizer and analyzer., 2020-06-19T12:37:10+0000
+/project/dicomsdl/, dicomsdl, 0.107.1, A fast and light-weighted DICOM software development library, 2020-10-02T05:59:53+0000
+/project/a2d-diary/, a2d_diary, 0.1.5, A2D-Diary web app. Create and encode paper diaries automatically, 2017-11-11T17:37:39+0000
+/project/hl7/, hl7, 0.4.2, Python library parsing HL7 v2.x messages, 2021-02-15T21:24:52+0000
+/project/clashchimeras/, CLASHChimeras, 0.2, Python package to find chimeras in CRAC/CLASH and HITS-CLIP datasets, 2017-02-06T16:19:44+0000
+/project/libcx/, libcx, 0.1.0, CX contact tracing, 2020-04-27T17:17:16+0000
+/project/pymedphys-analysis/, pymedphys-analysis, 0.11.0, , 2019-09-10T09:20:31+0000
+/project/tyssue/, tyssue, 0.8.0, tyssue is a living tissues, cell level, modeling library, 2020-12-10T08:56:37+0000
+/project/gnuhealth-genetics/, gnuhealth-genetics, 3.8.0, GNU Health Genetics Module, 2021-02-14T20:44:27+0000
+/project/mushu/, Mushu, 0.2, Brain Computer Interfacing signal acquisition software., 2014-05-20T15:44:33+0000
+/project/iqdmpdf/, IQDMPDF, 0.3.0, Scans a directory for IMRT QA results, 2021-03-15T04:18:19+0000
+/project/astm/, astm, 0.5.0, Python implementation of ASTM E1381/1394 protocol., 2013-03-16T10:11:05+0000
+/project/cwlab/, cwlab, 0.4.1, A platform-agnostic, cloud-ready framework for simplified deployment of the Common Workflow Language using a graphical web interface, 2021-04-07T22:07:33+0000
+/project/pyfast/, pyFAST, 3.2.0, Python bindings of FAST - a framework for high performance medical image computing and visualization on heterogeneous systems utilizing multi-core CPUs and GPUs., 2021-01-14T12:21:37+0000
+/project/pupillib/, pupillib, 1.2.1, A software package to perform trial extraction on Pupil Labs eye tracker data collected into XDF files through LabRecorder., 2019-11-08T04:06:29+0000
+/project/xnatutils/, xnatutils, 0.7.3, A collection of scripts for downloading/uploading and listing data from XNAT repositories., 2021-03-05T02:14:19+0000
+/project/naposapi/, naposapi, 0.1, API for lookup on the NAPOS database, 2017-07-15T19:06:32+0000
+/project/itk-registration/, itk-registration, 5.2.0, ITK is an open-source toolkit for multidimensional image analysis, 2021-04-04T14:14:11+0000
+/project/mricluster/, mricluster, 0.1, MRI image set clustering module based on Convolutional Neural Network model, 2018-06-18T20:53:55+0000
+/project/peto/, peto, 0.1.0, System for mass periodic infectious disease testing, 2020-04-01T23:15:39+0000
+/project/figurestream/, figurestream, 1.2.3, A Matplotlib.Figure fork with real-time plot streaming features., 2021-04-21T17:29:08+0000
+/project/itk-meshtopolydata/, itk-meshtopolydata, 0.7.0, Convert an ITK Mesh to a simple data structure compatible with vtkPolyData., 2021-04-06T18:56:49+0000
+/project/ndjsontosvg/, ndjsonTosvg, 0.0.1, ndjsonTosvg to convert Google Quickdraw data set ndjson format to svg images, 2020-05-12T10:22:25+0000
+/project/pylibjpeg-openjpeg/, pylibjpeg-openjpeg, 1.1.1, A Python wrapper for openjpeg, with a focus on use as a plugin for for pylibjpeg, 2021-04-10T23:56:44+0000
+/project/neuroskypy/, NeuroSkyPy, 1.6, Library for interfacing with Neurosky's Mindwave EEG headset, 2020-01-23T22:39:27+0000
+/project/banana/, banana, 0.5.1, Brain imAgiNg Analysis iN Arcana (Banana): brain imaging analysis workflows implemented in the Arcana framework (arcana.readthedocs.io), 2019-11-14T12:29:38+0000
+/project/eye2you/, eye2you, 0.1.dev1, fundus image analysis, 2019-07-09T10:26:59+0000
+/project/pylibjpeg/, pylibjpeg, 1.2.0, A Python framework for decoding JPEG files, with a focus on supporting pydicom, 2021-04-11T02:24:12+0000
+/project/ciles/, ciles, 0.1.0, Langevin integrator for SDEs with constant drift and        diffusion on continuous intervals with circular boundary        conditions., 2017-12-06T11:09:21+0000
+/project/vb-toolbox/, vb-toolbox, 2.0.0, Library and command-line tool to calculate the Vogt-Bailey index of a dataset, 2020-07-28T14:55:29+0000
+/project/reiz/, Reiz, 3.5.1, A Python toolbox for visual and auditory stimulation based on pyglet and pylsl., 2020-02-25T14:17:34+0000
+/project/pymzml-tapir/, pymzml-tapir, 0.8.0, high-throughput mzML parsing, 2018-06-21T19:24:19+0000
+/project/tscfat/, tscfat, 0.0.5, A time series co-fluctuation analysis toolbox, 2021-04-12T09:10:08+0000
+/project/pylinac/, pylinac, 2.5.0.0, A toolkit for performing TG-142 QA-related tasks on a linear accelerator, 2021-03-09T22:44:53+0000
+/project/eccpy/, eccpy, 0.5.0, High-throughput calculation of EC50 values., 2020-10-01T21:07:40+0000
+/project/gnuhealth-fhir-server/, gnuhealth-fhir-server, 0.9b3, The GNU Health FHIR Server, 2020-11-03T23:55:38+0000
+/project/medimage/, medimage, 1.0.7, Represent medical images as numpy array. Supported: .mhd (R/W),.xdr (R/W), dicom (R). Pure Python., 2020-02-18T14:51:21+0000
+/project/rcpchgrowth/, rcpchgrowth, 2.1.11, SDS and Centile calculations for UK Growth Data, 2021-04-25T13:17:18+0000

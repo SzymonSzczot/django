@@ -1,0 +1,1380 @@
+/project/opencnam/, opencnam, 0.7, A simple python library for getting caller ID name information using the opencnam API., 2020-04-27T18:47:26+0000
+/project/pynetdot/, pynetdot, 1.5.1, Python client for netdot REST API, 2018-06-25T13:59:28+0000
+/project/archipel-agent-action-scheduler/, archipel-agent-action-scheduler, 0.6.0beta, Creation and management of planified tasks for hypervisors and virtual machines, 2013-03-21T01:25:16+0000
+/project/pyats-connections/, pyats.connections, 21.3, pyATS Connection: Device Connection Handling & Base Classes, 2021-03-31T19:06:45+0000
+/project/smspdudecoder/, smspdudecoder, 1.2.2, Python SMS PDU Decoder, 2019-07-22T08:42:46+0000
+/project/subnetviz/, Subnetviz, 0.4, Hierarchal IP subnet visualization, 2010-02-06T07:03:11+0000
+/project/aiobfd/, aiobfd, 0.2, Asynchronous BFD Daemon, 2017-10-13T12:07:35+0000
+/project/astersay/, astersay, 0.8.2, This is a Python library for Asterisk to work with Yandex voice models., 2021-02-15T02:44:49+0000
+/project/kvmd/, kvmd, 0.10, The main Pi-KVM daemon, 2018-07-07T23:40:43+0000
+/project/netnir/, netnir, 0.0.20, a modular cli utility built around nornir., 2020-08-12T15:34:31+0000
+/project/pyasn1-modules/, pyasn1-modules, 0.2.8, A collection of ASN.1-based protocols modules., 2020-01-09T17:23:45+0000
+/project/psynth/, psynth, 0.1.3, The official open-source Python library for generating graphs in Psymphonic Psynth., 2015-05-26T15:56:56+0000
+/project/pyqalx/, pyqalx, 0.14.2, High-level interfaces to the qalx API, 2020-11-10T16:44:12+0000
+/project/hier-config/, hier-config, 2.0.0, A network configuration comparison tool, used to build remediation configurations., 2020-12-10T16:18:08+0000
+/project/pytelemetrycli/, pytelemetrycli, 1.1.0, command-line interface for data visualization and communication with embedded devices, 2016-03-23T21:07:17+0000
+/project/genie-libs-conf/, genie.libs.conf, 21.3, Genie libs Conf: Libraries to configures topology through Python object attributes, 2021-03-31T19:01:53+0000
+/project/janus-cloud/, janus-cloud, 0.5.0, Janus-cloud is a cluster solution for Janus WebRTC server, by API proxy approach, 2021-02-16T07:34:34+0000
+/project/alerta/, alerta, 8.5.0, Alerta unified command-line tool and SDK, 2021-04-18T20:09:05+0000
+/project/freepbx-bulk-handler/, freepbx-bulk-handler, 0.61, Assist administrators of FreePBX systems when they need to use the Bulk Handler module, 2019-04-19T23:44:48+0000
+/project/ciscosparkapi/, ciscosparkapi, 0.10.1, Simple, lightweight, scalable Python API wrapper for the Cisco Spark APIs, 2019-01-03T07:04:43+0000
+/project/musiclegacy/, musicLegacy, 0.1.dev13, Yet another music package using the MASS (Music and Audio in Sample Sequences) framework, 2019-05-11T20:12:24+0000
+/project/inmantals/, inmantals, 1.0.1, Inmanta Language Server, 2020-11-27T10:37:10+0000
+/project/ketama/, ketama, 0.1.1, Python bindings for Ketama consistent hash library, 2020-01-27T18:41:28+0000
+/project/python-sudeste/, python_sudeste, 0.1.8, Módulo informativo do evento: PythonSudeste 2018, 2018-03-03T16:10:09+0000
+/project/pmacct-to-elasticsearch/, pmacct-to-elasticsearch, 0.3.2, A Python script designed to read output from pmacct daemons, to process it and to store it into ElasticSearch., 2019-10-01T07:00:52+0000
+/project/genie-libs-parser/, genie.libs.parser, 21.3, Genie libs Parser: Genie Parser Libraries, 2021-03-31T19:02:10+0000
+/project/simplesoapy/, SimpleSoapy, 1.5.1, Simple pythonic wrapper for SoapySDR library, 2017-04-27T15:32:41+0000
+/project/gnpy/, gnpy, 2.2.0, Route planning and optimization tool for mesh optical networks, 2020-06-18T10:55:58+0000
+/project/pycloner/, pycloner, 0.1.0, pycloner is a package that tries to help in the process of manually crawling a website., 2017-07-04T13:30:24+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/mapsnap/, mapsnap, 1.0.1, Apple Maps Web Snapshots on Python, 2020-09-08T01:08:56+0000
+/project/genie-predcore/, genie.predcore, 19.12, Package that provides predicate testing classes for pyATS, 2019-12-17T19:54:56+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/ax-metrics/, Ax_Metrics, 0.9.2, "BI Glue" Business Intelligence middleware library for aggregation of metrics/KPI from any source and custom reporting for humans or other APIs, 2015-01-09T01:17:25+0000
+/project/newhope-cffi/, newhope-cffi, 0.0.2, Tested, cross-platform Python 3 bindings for the NewHope key exchange mechanism supporting both NewHope1024-CPA-KEM and NewHope1024-CCA-KEM., 2020-05-02T15:09:06+0000
+/project/sublist3r-lib/, Sublist3r-lib, 1.0.1, Subdomains enumeration tool for penetration testers, 2021-02-01T15:38:03+0000
+/project/oauth2-lib/, oauth2-lib, 1.0.2, This is the SURF Oauth2 module that interfaces with the oauth2 setup., 2021-03-23T13:18:31+0000
+/project/pymessagelib/, pymessagelib, 0.2.7, Give structure to hexadecimal messages., 2021-03-22T14:18:58+0000
+/project/pysnmp/, pysnmp, 4.4.12, SNMP library for Python, 2019-09-24T16:28:57+0000
+/project/mlrsearch/, MLRsearch, 0.4.0, Library for speeding up binary search using shorter measurements., 2021-04-01T16:05:26+0000
+/project/paretochart/, paretochart, 1.0, Pareto chart for python (similar to Matlab's, but much more flexible), 2013-09-05T20:14:19+0000
+/project/ipasn-web/, ipasn-web, 1.0, Library to access the IP ASN History REST API., 2014-01-16T16:28:42+0000
+/project/copper/, copper, 0.9.1, Module for interacting with electromechanical systems., 2019-08-20T06:43:09+0000
+/project/autogluon-tabular/, autogluon.tabular, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:47+0000
+/project/enderturing/, enderturing, 0.3.0, Python SDK for EnderTuring speech toolkit, 2021-04-21T21:37:25+0000
+/project/weatheralerts/, WeatherAlerts, 0.5.0, Parse the National Weather Service Emergency Alerts Feed (NWS CAP format), do useful stuff with it, 2017-03-28T04:13:09+0000
+/project/deepify/, deepify, 0.3.2, Deepify - A set of GPLv3+ libraries to deal with Deepweb connections., 2016-03-17T07:30:45+0000
+/project/archipel-agent-hypervisor-network/, archipel-agent-hypervisor-network, 0.6.0beta, Manage libvirt networks, 2013-03-21T01:25:13+0000
+/project/qs-vod-metadata/, qs_vod_metadata, 0.1.0, CableLabs VOD Metadata 1.1 library and tools, 2016-05-31T14:58:19+0000
+/project/pyangbind-brcd/, pyangbind-brcd, 0.6.14, PyangBind is a plugin for pyang which converts YANG datamodels into a Python class hierarchy, such that Python can be used to manipulate data that conforms with a YANG model., 2017-08-28T13:59:45+0000
+/project/xmpppy/, xmpppy, 0.6.2, XMPP implementation in Python, 2020-11-12T21:07:07+0000
+/project/smpplib/, smpplib, 2.1.0, SMPP library for python, 2020-03-10T19:25:49+0000
+/project/freq-table/, freq-table, 0.2.2, Make printable tables using http://radioscanner.ru frequency db, 2019-07-24T08:24:30+0000
+/project/archipel-agent-hypervisor-platformrequest/, archipel-agent-hypervisor-platformrequest, 0.6.0beta, Manage platform wide operation requests, 2013-03-21T01:24:43+0000
+/project/clicol-plugin-aspath/, clicol-plugin-aspath, 0.0.2, CLI colorizer - aspath plugin, 2020-02-16T11:03:01+0000
+/project/cron-wrapper/, cron-wrapper, 0.1.0, A cron job wrapper to add some missing features (locks, timeouts, random sleeps, env loading..., 2021-02-12T09:37:34+0000
+/project/pyagentx/, pyagentx, 0.4.1, AgentX package to extend SNMP with pure Python, 2015-06-30T11:06:42+0000
+/project/nwa-stdlib/, nwa-stdlib, 1.2.0, The NWA-stdlib module., 2021-04-06T12:05:22+0000
+/project/wgmgr/, wgmgr, 0.1.1, Easily manage wireguard configs., 2021-02-24T16:36:48+0000
+/project/archipel-core/, archipel-core, 0.6.0beta, Base framework of Archipel., 2013-03-21T01:25:10+0000
+/project/inqbus-tagging/, inqbus.tagging, 1.0.6, Auto tagging for Plone, 2016-04-11T09:20:12+0000
+/project/connvitals/, connvitals, 4.3.2, Checks a machines connection to a specific host or list of hosts, 2018-08-30T16:22:18+0000
+/project/ffptutils/, ffptutils, 0.1.1, a python library that reads and writes Spirent iTest ParameterTree (.ffpt) files, 2021-04-01T04:20:20+0000
+/project/netcli/, netcli, 0.0.10, The CLI that doesn't impose you any language, 2019-03-06T18:45:26+0000
+/project/citellus/, citellus, 1.3.3.20210421115858, Utility for running set of tests against a Live System or a snapshot/sosreport, 2021-04-21T11:59:03+0000
+/project/usbinfo/, usbinfo, 1.1.1, Module for introspecting USB devices on a system, 2018-11-20T00:24:48+0000
+/project/pyalgdat/, PyAlgDat, 1.0.2, Various data structures and algorithms., 2016-09-01T03:00:40+0000
+/project/ydata-synthetic/, ydata-synthetic, 0.2.3, Synthetic data generation methods with different synthetization methods., 2021-03-24T18:44:35+0000
+/project/tmonk/, tmonk, 0.1.2, thesis build of DFE's MONK, 2014-02-08T22:19:19+0000
+/project/wandb-summarizer/, wandb-summarizer, 0.1.2, A tiny CSV export micro-library for Weights and Biases., 2019-08-22T23:46:01+0000
+/project/genie-libs-filetransferutils/, genie.libs.filetransferutils, 21.3, Genie libs FileTransferUtils: Genie FileTransferUtils Libraries, 2021-03-31T19:01:55+0000
+/project/snmpreceiver/, snmpreceiver, 0.0.0, SNMP Notification Receiver., 2019-01-16T09:05:28+0000
+/project/freezer-api/, freezer-api, 10.0.0, OpenStack Backup and Restore API Service, 2021-04-14T11:04:23+0000
+/project/frog-croak/, frog-croak, 1.1, Internet connection speed and monitor tool., 2014-09-19T19:04:06+0000
+/project/clx-sdk-xms/, clx-sdk-xms, 1.0.0, Library for CLX Communications HTTP REST Messaging API, 2017-01-23T15:57:58+0000
+/project/pyats-reporter/, pyats.reporter, 21.3, pyATS Reporter: Result Collection and Reporting, 2021-03-31T19:15:42+0000
+/project/vc2-bit-widths/, vc2-bit-widths, 1.0.0, Software for computing required bit widths for implementations of the SMPTE ST 2042-1 VC-2 professional video codec., 2021-03-24T10:40:40+0000
+/project/modbussharedmemory/, ModbusSharedMemory, 0.1.1, Shared memory concept known from PLC manner implemented over uModbus framework., 2019-05-23T16:09:00+0000
+/project/avbroadcast/, avbroadcast, 0.8.0, avbroadcast - republish media streams for mass consumption, 2019-03-25T11:12:59+0000
+/project/arubaapi/, arubaapi, 0.1.3, Returns command results from ArubaOS HTTP API, 2019-10-11T21:03:04+0000
+/project/exoedge/, exoedge, 21.1.18, ExoEdge is the Python library for interacting with Exosite's ExoSense Industrial IoT Solution., 2021-01-18T16:18:53+0000
+/project/scrapysplashwrapper/, scrapysplashwrapper, 1.5.0, Scrapy splash wrapper as a standalone library., 2021-04-02T13:08:05+0000
+/project/snmpdiscoverer/, snmpdiscoverer, 0.0.0, SNMP SNMP Discoverer., 2019-01-16T09:37:17+0000
+/project/py-aspsms/, py-aspsms, 0.1.4, py-aspsms: Python interface to the aspsms.com services, 2008-09-04T22:33:26+0000
+/project/genie-harness/, genie.harness, 19.12, Genie Harness: Event driven testing into the pyATS framework, 2019-12-17T19:49:28+0000
+/project/python3-smpplib/, python3-smpplib, 1.0.22, SMPP library for python (fork https://github.com/podshumok/python-smpplib, 2017-07-12T06:24:33+0000
+/project/wools/, wools, 0.1.dev103, ADVA-Certified Alpakka Wools, 2018-11-19T13:57:10+0000
+/project/mqttwarn/, mqttwarn, 0.20.0, mqttwarn - subscribe to MQTT topics and notify pluggable services, 2020-10-20T09:57:08+0000
+/project/arouteserver/, arouteserver, 1.5.1, A Python tool to automatically build (and test) configurations for BGP route servers., 2021-04-24T14:00:49+0000
+/project/gwmp/, gwmp, 0.0.1, Parser for GWMP messages used in LoRa and LoRaWAN networks, 2020-11-08T12:31:41+0000
+/project/ace-api/, ace-api, 1.0.6, Analysis Correlation Engine (ACE) API Python Bindings., 2019-03-07T18:27:29+0000
+/project/pylink-satcom/, pylink-satcom, 0.9, Python Link Budget System, 2020-09-20T03:32:11+0000
+/project/iterm2magic/, iterm2magic, 0.1.0, t is for terminal. iTerm2 automated configuration, 2020-03-29T22:21:43+0000
+/project/pymispwarninglists/, pymispwarninglists, 1.2, Python API for the MISP warning lists., 2021-01-21T14:26:51+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/ssbench/, ssbench, 0.3.9, SwiftStack Swift Benchmarking Suite, 2016-03-23T22:30:02+0000
+/project/ska-encryption/, ska-encryption, 1.1, Symmetric-key algorithms., 2014-09-04T11:30:58+0000
+/project/attila/, attila, 1.2.0, Python module to communicate easily with modems and RF modules using AT commands, 2020-05-30T15:49:28+0000
+/project/pingo/, pingo, 0.2.0, Generic API to control boards with programmable IO pins., 2014-08-13T02:07:19+0000
+/project/afilnet/, afilnet, 1.0.1, This package is an easy way to use send sms, email and voice(texto-to-speech) using Afilnet services, 2016-07-01T16:58:32+0000
+/project/hamcode/, hamcode, 0.1.0, True implementation of Hamming Code on Python, 2021-01-12T12:00:12+0000
+/project/env2/, env2, 0.0.0, os.environ on steroids, 2017-11-10T20:41:58+0000
+/project/orchestrator-core/, orchestrator-core, 0.0.12, This is the orchestrator workflow engine., 2021-04-08T10:41:15+0000
+/project/bullseye/, bullseye, 0.1.1, laser beam profiler, 2012-03-05T00:15:40+0000
+/project/romkan/, romkan, 0.2.1, A Romaji/Kana conversion library, 2013-02-26T14:44:13+0000
+/project/autogluon-text/, autogluon.text, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:58+0000
+/project/autonetkit/, autonetkit, 0.11.2, Automatic configuration generation for emulated networks, 2014-11-27T07:31:14+0000
+/project/usresmonitor/, usresmonitor, 0.1.1, A library to get unique smallest routable entries from a set of IP prefixes., 2017-07-07T17:25:12+0000
+/project/py-lookingglass/, py-lookingglass, 1.01, Python looking glass WSGI implementation, 2015-09-02T13:36:31+0000
+/project/openpgppy/, OpenPGPpy, 0.4, OpenPGP smartcard communication library, 2021-03-07T18:13:50+0000
+/project/spectrum/, spectrum, 0.8.0, Spectrum Analysis Tools, 2020-11-22T20:07:43+0000
+/project/proxyhttpserver/, ProxyHTTPServer, 0.0.1, ProxyHTTPServer -- from the creator of PyWebRun, 2007-11-24T16:32:21+0000
+/project/tcpliveplot/, tcpliveplot, 0.2.7, Realtime-visualization of TCP flows logged by TCPlog., 2016-11-04T14:50:44+0000
+/project/avayaersconnect/, AvayaERSConnect, 1.0.0, AvayaERSConnect’s main purpose is to connect to any Avaya ERS Device via Telnet and perform various administration operations easily, without the need to write any Python code at all., 2016-01-28T14:20:43+0000
+/project/genie-libs-clean/, genie.libs.clean, 21.3, Genie Library for device clean support, 2021-03-31T19:01:50+0000
+/project/pyats-image-builder/, pyats-image-builder, 20.9, pyATS Docker image creation, 2020-10-13T20:02:07+0000
+/project/pyjazz/, pyjazz, 0.2.1.99, Official Python client for Jazz, 2018-03-11T21:19:35+0000
+/project/genie-metaparser/, genie.metaparser, 19.12, Genie Library for automation Parser support, 2019-12-17T19:51:49+0000
+/project/unified2/, unified2, 15.8.2, unified2 IDS binary log format parser, 2015-08-16T21:23:27+0000
+/project/commonfate/, commonfate, 0.1.3, Common Fate Transform and Model, 2016-03-24T09:10:09+0000
+/project/strup/, strup, 1.0.0, A package for unpacking int, float, string and bool objects from a text string., 2020-10-24T13:10:48+0000
+/project/sltoo/, sltoo, 25.0.4, rmtoo, 2020-12-21T21:20:08+0000
+/project/webexteamsarchiver/, webexteamsarchiver, 0.11.0, Room archiver utility for Webex Teams, 2020-08-20T00:33:03+0000
+/project/plivo/, plivo, 4.16.0, A Python SDK to make voice calls & send SMS using Plivo and to generate Plivo XML, 2021-04-19T15:12:42+0000
+/project/pytijo/, pytijo, 0.0.2, Structure semi-structured text, 2019-10-06T19:57:13+0000
+/project/dnacentercli/, dnacentercli, 2.0.0, Community-developed Python CLI companion for the DNA Center SDK, 2020-07-17T22:13:34+0000
+/project/wgadmin/, wgadmin, 0.2.0, , 2020-08-10T13:39:26+0000
+/project/ciscoconfparse/, ciscoconfparse, 1.5.30, Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations, 2021-03-01T23:36:49+0000
+/project/genie-webdriver/, genie.webdriver, 21.3, A collection of tools and base classes intended to simplify and standardize how automation engineers develop Selenium based libraries, 2021-03-31T19:02:23+0000
+/project/pylfsr/, pylfsr, 1.0.5, Linear Feedback Shift Register, 2021-04-21T08:12:08+0000
+/project/zirkus/, zirkus, 0.0.1, federated blog platform, 2018-05-17T11:35:37+0000
+/project/inetsix/, inetsix, 0.0.5, Tools & Python function from inetsix., 2020-03-08T10:58:00+0000
+/project/ocio-lut-prescription/, ocio-lut-prescription, 1.1.0, GUI wrapper of ociobakelut command., 2021-01-14T14:47:47+0000
+/project/blocklistsaggregator/, blocklistsaggregator, 0.5.1, A Python tool that downloads IP block lists from various sources and builds configurations for network equipments and firewalls., 2016-12-27T18:13:12+0000
+/project/cause-effect/, cause-effect, 0.2.0, A library for cause-effect relationships., 2016-10-20T23:20:42+0000
+/project/msgapi/, msgapi, 1.0.0, A library and cli tool for interfacing with Microsoft's Graph API., 2020-04-23T19:34:49+0000
+/project/doublify-toolkit/, doublify-toolkit, 0.5.2, Doublify API toolkit for Python, 2017-04-13T23:12:00+0000
+/project/pyst2/, pyst2, 0.5.1, A Python Interface to Asterisk, 2019-08-07T14:41:25+0000
+/project/jaidegui/, jaidegui, 1.0.0, A graphical tool for manipulating Junos devices., 2015-04-13T23:54:29+0000
+/project/channeling/, channeling, 0.0.13, Channeling - a Discord bot., 2020-10-19T11:44:33+0000
+/project/nety/, Nety, 1.3.5, Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations, 2019-12-20T06:00:23+0000
+/project/django-switch-config-backup/, django-switch-config-backup, 1.0.2, Backup switch configs, 2020-02-15T20:09:13+0000
+/project/genie-libs-telemetry/, genie.libs.telemetry, 19.12, Genie libs Telemetry: Genie Telemetry Libraries, 2019-12-17T19:51:47+0000
+/project/alerta-server-shakti/, alerta-server-shakti, 8.0.3, Alerta server WSGI application, 2020-09-30T20:29:47+0000
+/project/vod-metadata/, vod_metadata, 2016.1.6, CableLabs VOD Metadata 1.1 library and tools, 2016-01-07T02:58:50+0000
+/project/inmanta/, inmanta, 2021.1, Inmanta deployment tool, 2021-03-17T07:18:09+0000
+/project/satnogs-db/, satnogs-db, 1.23, SatNOGS DB, 2021-03-11T22:13:43+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/snmpsim/, snmpsim, 0.4.7, SNMP Agents simulator, 2019-02-09T16:21:53+0000
+/project/quickcerts/, quickcerts, 1.0.1, Quick and easy X.509 certificate generator for SSL/TLS utilizing local PKI, 2020-08-09T23:38:14+0000
+/project/pyats-results/, pyats.results, 21.3, pyATS Results: Representing Results using Objects, 2021-03-31T19:16:32+0000
+/project/callerlib/, callerlib, 0.1.2, A sip caller robotframework library., 2016-04-29T21:24:55+0000
+/project/archipel-agent/, archipel-agent, 0.6.0beta, The hypervisor's agent part of Archipel, 2013-03-21T01:25:06+0000
+/project/misp-maltego/, MISP-maltego, 1.4.6, , 2020-07-04T17:39:21+0000
+/project/fping/, fping, 0.0.1a2, A python library to extend fping, 2016-06-04T21:52:46+0000
+/project/yangsuite/, yangsuite, 2.7.10, YANG Suite core application., 2021-02-11T21:32:51+0000
+/project/forked-auditok-split-without-data/, forked-auditok-split-without-data, 0.2.0a0, A module for Audio/Acoustic Activity Detection, 2020-03-23T13:10:25+0000
+/project/pycmc/, pycmc, 0.0.11, A Python client for the chartmetric.com API, by Musicfox., 2020-12-04T22:41:24+0000
+/project/trparse/, trparse, 0.3.0, Traceroute parser, 2019-05-26T16:38:05+0000
+/project/satnogsclient/, satnogsclient, 0.9.1, SatNOGS Client, 2019-09-14T10:16:27+0000
+/project/peng3dnet/, peng3dnet, 0.1.3a0, Networking Library for Peng3d, 2020-04-07T21:09:54+0000
+/project/cable-modem-stats/, cable-modem-stats, 0.1, Pull stats from compatible cable modem's web interfaces to monitor SNR, Power, etc., 2016-11-17T00:20:57+0000
+/project/pyats-utils/, pyats.utils, 21.3, pyATS Utils: Utilities Module, 2021-03-31T19:18:37+0000
+/project/vc2-quantisation-matrices/, vc2-quantisation-matrices, 1.0.0, Routines for computing quantisation matrices for the SMPTE ST 2042-2 VC-2 professional video codec., 2021-03-24T11:02:06+0000
+/project/chickadee/, chickadee, 20210314.1, Yet another GeoIP resolution tool., 2021-03-14T16:01:37+0000
+/project/pycvesearch/, pycvesearch, 1.0.1, Python API for CVE search., 2020-04-08T14:46:51+0000
+/project/django-pki/, django-pki, 0.20.0, A PKI based on the Django admin, 2011-03-11T10:58:04+0000
+/project/pysnmp-apps/, pysnmp-apps, 0.5.3, SNMP command-line tools, 2018-01-07T09:17:47+0000
+/project/museval/, museval, 0.4.0, Evaluation tools for the SIGSEP MUS database, 2021-01-31T08:47:34+0000
+/project/manokit/, manokit, 1.2.1, An easy-to-use, purely native email sender, 2021-04-01T12:51:18+0000
+/project/vietnam-provinces/, vietnam-provinces, 0.3.0, Library to provide list of Vietnam administrative divisions (tỉnh thành, quận huyện, phường xã)., 2021-02-03T10:49:55+0000
+/project/stanmo/, stanmo, 0.2, Execution engine for standard business learning models., 2016-01-06T03:27:00+0000
+/project/py3textmagicsms/, Py3TextMagicSMS, 0.2, TextMagic SMS API, 2015-12-15T19:08:53+0000
+/project/elm327-emulator/, ELM327-emulator, 2.1.0, ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter, 2021-03-28T11:49:49+0000
+/project/random-pesel/, random-pesel, 1.0, Random PESEL number generator, 2020-03-13T15:53:50+0000
+/project/python-samsung-mdc/, python-samsung-mdc, 1.2.0, Samsung Multiple Display Control (MDC) protocol implementation (asyncio library + CLI interface), 2021-03-28T19:41:58+0000
+/project/topzootools/, topzootools, 0.3.18, Processing and conversion tools for Internet Topology Zoo, 2011-09-09T05:03:00+0000
+/project/minpubsub/, minpubsub, 0.3, A minimal PubSub messaging model with multiple persistence options - SQLite, MySQL, MongoDB, 2015-04-09T10:36:00+0000
+/project/s2cell/, s2cell, 1.4.0, Minimal Python S2 Geometry cell ID, token and lat/lon conversion library, 2021-01-05T23:02:03+0000
+/project/risu/, risu, 1.0.4.0.20200817095401, Utility for running set of tests against a Live System or a snapshot/sosreport, 2020-08-17T09:54:08+0000
+/project/jitsiprovs/, JitsiProvS, 0.1.0, Jitsi Provisioning Server, 2012-05-09T06:48:28+0000
+/project/pyats-log/, pyats.log, 21.3.1, pyATS Log: Logging Format and Utilities, 2021-04-21T16:38:06+0000
+/project/ip-inspector/, ip-inspector, 0.0.11, A tool for proving intel on IP addresses and enabling detection and response., 2020-07-11T21:16:45+0000
+/project/autogluon-core/, autogluon.core, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:41+0000
+/project/unicon/, unicon, 21.3, Unicon Connection Library, 2021-03-31T19:20:34+0000
+/project/erebo/, erebo, 1.1.23, Erebo is a VPN like a Proxy, 2019-11-05T10:03:35+0000
+/project/audiomodels/, audiomodels, 0.1.dev3, audio models package with semantic features identification, 2019-08-27T19:26:30+0000
+/project/mrtparse/, mrtparse, 2.0.1, MRT format data parser, 2020-11-16T13:11:39+0000
+/project/flent/, flent, 2.0.0, The FLExible Network Tester, 2021-01-14T15:17:42+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/purerpc/, purerpc, 0.6.1, Asynchronous pure Python gRPC client and server implementation supporting asyncio, uvloop, curio and trio, 2020-04-13T09:02:54+0000
+/project/drcontrol/, drcontrol, 0.14, Control Denkovi USB Relay Boards, 2020-11-22T19:37:40+0000
+/project/prefix-list-agent/, prefix-list-agent, 0.1.1, An EOS agent to dynamically update IRR based prefix-lists, 2019-11-19T23:35:43+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/tstat-transport/, tstat_transport, 0.6.5, Tools to send Tstat (TCP STatistic and Analysis Tool) log data to archive servers., 2017-06-22T13:54:30+0000
+/project/fnss/, fnss, 0.9.1, Fast creation and configuration of topologies, traffic matrices and event schedules for network experiments, 2020-10-24T00:23:25+0000
+/project/bl2ru2/, bl2ru2, 0.9, A suricata rule generator, 2017-05-16T07:16:24+0000
+/project/pytelemetry/, pytelemetry, 1.1.9, First class data visualization and communication with embedded devices, 2016-03-20T18:23:23+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/ncdiff/, ncdiff, 20.10, A config state diff calculator for NETCONF, 2020-11-12T17:47:08+0000
+/project/qspectrumanalyzer/, QSpectrumAnalyzer, 2.1.0, Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, rx_power, rtl_power, hackrf_sweep and other backends), 2017-03-21T16:48:20+0000
+/project/siphash-cffi/, siphash-cffi, 0.1.4, Tested, performant SipHash bindings for Python 3 with support for double-output-size, half-word and variable-round variants., 2020-05-03T00:33:02+0000
+/project/pyvinecopulib/, pyvinecopulib, 0.5.5, A python interface to vinecopulib, 2020-11-24T08:25:20+0000
+/project/junos-netconify/, junos-netconify, 1.0.2, Junos console/bootstrap automation, 2016-02-08T07:04:46+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/mprofi-api-client/, mprofi_api_client, 0.1.3, Python Client library for mProfi REST API, 2015-06-09T09:30:26+0000
+/project/pysanejs/, pysanejs, 1.4, Python client for SaneJS, 2020-12-03T23:30:00+0000
+/project/modem-cmd/, modem-cmd, 1.0.2, Send arbitrary AT commands to your modem, 2017-07-20T02:39:42+0000
+/project/genie-conf/, genie.conf, 19.12, Genie Conf: Configures topology through Python object attributes, 2019-12-17T19:47:49+0000
+/project/zms3/, ZMS3, 3.3.3, ZMS: Simplified Content Modelling, 2017-01-04T21:22:30+0000
+/project/progettihwsw/, ProgettiHWSW, 0.1.1, Controls ProgettiHWSW relay boards., 2020-08-29T16:53:43+0000
+/project/mailme/, MailMe, 1.1.0, Send e-mails with python., 2018-11-19T20:31:17+0000
+/project/onetimepass/, onetimepass, 1.0.1, Module for generating and validating HOTP and TOTP tokens, 2015-07-31T03:05:01+0000
+/project/autogluon-features/, autogluon.features, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:44+0000
+/project/netconf-client/, netconf-client, 1.7.2, A Python NETCONF client, 2021-02-17T14:53:25+0000
+/project/ricsdl/, ricsdl, 2.1.1, Shared Data Layer (SDL) provides a high-speed interface to access shared storage, 2021-03-23T07:22:03+0000
+/project/morfeus/, morfeus, 0.3, Library to control moRFeus mixer/signal generator, 2018-12-02T03:34:31+0000
+/project/vc2-conformance/, vc2-conformance, 1.0.1, Conformance testing utilities for the VC-2 video codec., 2021-04-21T13:36:06+0000
+/project/svgdatashapes/, SVGdatashapes, 0.3.62, Simple procedural library to create many types of plots and data displays in SVG for dynamic web pages. General purpose: biomedical, scientific, business., 2020-03-11T19:38:20+0000
+/project/participation/, participation, 0.1.dev1, Participation is a python package for social participation ontologies, rdf data (linked data) triplification and analysis, 2015-03-27T16:37:22+0000
+/project/fshttpstream/, fshttpstream, 0.3.4, Websocket proxy server to send freeswitch events to websocket client., 2011-02-25T13:54:54+0000
+/project/oafabrik/, oafabrik, 0.8.0, A Python SDK for Fabrik, 2021-04-20T12:38:13+0000
+/project/basest/, basest, 0.7.3, Arbitrary base binary-to-text encoder (any base to any base), 2018-11-02T20:02:18+0000
+/project/pyldpc/, pyldpc, 0.7.9, Simulation of Low Density Parity Check (LDPC) Codes, 2020-02-29T20:38:19+0000
+/project/digi-xbee-unofficial/, digi-xbee-unofficial, 1.4.3, Digi XBee Python library, 2021-02-16T05:01:20+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/pyats-cisco/, pyats.cisco, 21.2, pyATS Cisco: Cisco Internal Package, 2021-02-26T01:47:34+0000
+/project/bgpranking-web/, bgpranking-web, 1.2, Library to access the BGP Ranking REST API., 2014-11-03T13:16:11+0000
+/project/dizzer/, dizzer, 0.1.2, Weird text encoder / decoder. Gives reversible, human-readable and lossless encoding., 2020-09-22T10:10:25+0000
+/project/cping/, cping, 0.1.4, Concurrent multi-host ping (ICMP and TCP), 2021-03-09T20:03:42+0000
+/project/emailharvester/, EmailHarvester, 2.0.1, A tool to retrieve Domain email addresses from Search Engines, 2016-05-03T17:45:10+0000
+/project/archipel-agent-vmparking/, archipel-agent-vmparking, 0.6.0beta, Handle the virtual machine parking, 2013-03-21T01:25:52+0000
+/project/genie-libs-sdk/, genie.libs.sdk, 21.3, Genie libs sdk: Libraries containing all Triggers and Verifications, 2021-03-31T19:02:17+0000
+/project/grafana-wtf/, grafana-wtf, 0.9.0, Grep through all Grafana entities in the spirit of git-wtf, 2019-11-06T01:46:35+0000
+/project/tempest-nfv-plugin/, tempest-nfv-plugin, 1.26.1.dev2, Tempest plugin for testing NFV, 2020-12-10T07:47:36+0000
+/project/aeon-venos/, aeon-venos, 0.9.18, Aeon vendor NOS driver library, 2018-04-06T17:52:47+0000
+/project/genie-libs-robot/, genie.libs.robot, 21.3, Genie libs Robot: RobotFramework libraries to interact with Genie, 2021-03-31T19:02:12+0000
+/project/sztpd/, sztpd, 0.0.10, Secure Zero Touch Provisioning Daemon (SZTPD), 2021-02-24T23:10:06+0000
+/project/httxlib/, HttxLib, 1.0.4, HTTP(s) Library, 2015-11-04T14:56:55+0000
+/project/archipel-agent-hypervisor-geolocalization/, archipel-agent-hypervisor-geolocalization, 0.6.0beta, Make hypervisor able to locate themselves in the world, 2013-03-21T01:25:47+0000
+/project/t3cf/, t3cf, 0.0.1, TTCN-3 Code Formatter, 2017-05-29T22:14:19+0000
+/project/mactopeer/, mactopeer, 0.3.0, Automatically fetch MAC/IP address tables (ARP and IPv6 neighbors) from devices and build MAC address to BGP peer ASN mappings., 2017-09-29T16:33:56+0000
+/project/pyfldigi/, pyfldigi, 0.4, Python library to control FLDIGI via XML-RPC, 2017-02-16T05:51:57+0000
+/project/websmscomtoolkit/, WebSmsComToolkit, 1.0.2, Websms.com Toolkit to send SMS messages, 2015-08-31T08:48:11+0000
+/project/linphone4raspberry/, linphone4raspberry, 3.9.0, Linphone package for Python, 2016-03-11T23:49:00+0000
+/project/just-talk/, just-talk, 0.1.3, Python package to use the TOA comms protocol, 2017-12-18T23:36:33+0000
+/project/cidrize/, cidrize, 2.0.0, Cidrize parses IPv4/IPv6 addresses, CIDRs, ranges, and wildcard matches & attempts to return a valid list of IP addresses, 2021-03-31T05:54:36+0000
+/project/infobip-api-python-client/, infobip-api-python-client, 2.3.0, Infobip SMS API client library in Python, 2020-09-07T14:31:57+0000
+/project/terkin-micropython-libraries/, terkin-micropython-libraries, 0.10.0, Terkin MicroPython runtime libraries, 2020-05-22T00:10:27+0000
+/project/modulationpy/, ModulationPy, 0.1.8, Baseband Digital Linear Modems, 2020-04-25T07:40:51+0000
+/project/b-rabbit/, b-rabbit, 1.2.1, An abstract interface for RabbitMQ communication, 2020-09-26T11:03:40+0000
+/project/fdroidserver/, fdroidserver, 2.0.1, F-Droid Server Tools, 2021-03-09T17:48:20+0000
+/project/grenml/, grenml, 0.1.6, Library for creating, parsing, and storing GRENML, 2020-10-20T21:11:21+0000
+/project/t3cl/, t3cl, 0.0.1, TTCN-3 Code Linter, 2017-05-29T22:26:28+0000
+/project/inside-out-proxy/, inside-out-proxy, 190126, HTTP Proxy, 2019-01-15T00:20:29+0000
+/project/aiomodbus/, aiomodbus, 0.3.3, Lightweight Modbus library using asyncio, 2020-10-02T06:45:49+0000
+/project/pygobgp/, pygobgp, 0.1.2, Python library to interact GoBGP, 2018-10-26T11:05:18+0000
+/project/pyipmeta/, pyipmeta, 3.1.1, A Python interface to libipmeta, 2020-09-25T20:04:18+0000
+/project/clicol/, clicol, 1.1.5, CLI colorizer, 2020-05-18T18:17:22+0000
+/project/idanalyzer/, idanalyzer, 1.2.2, ID Analyzer API client library, scan and verify global passport, driver license and identification card., 2021-04-16T21:13:36+0000
+/project/ibires/, ibires, 0.2.2, , 2018-09-02T11:58:25+0000
+/project/melina/, melina, 0.1, melina: meta/xml converter, 2017-07-03T16:25:34+0000
+/project/yatxmilter/, yatxmilter, 0.1.1, Twisted protocol to handle Milter Connections in libmilter style, 2014-08-04T13:28:39+0000
+/project/pybgpstream/, pybgpstream, 2.0.2, A Python interface to BGPStream, 2020-05-29T20:51:28+0000
+/project/iceman/, iceman, 0.3.4, A symmetric TLS library written in python, 2018-02-10T09:40:36+0000
+/project/hytera-homebrew-bridge/, hytera-homebrew-bridge, 2021.1, Connect Hytera IPSC repeater to MMDVM system such as HBlink, DMRGateway, 2021-01-01T10:37:40+0000
+/project/rfcs/, rfcs, 1.0.1, rfcs is the complete command-line tool to search and view RFCs., 2016-02-19T23:46:37+0000
+/project/genie-abstract/, genie.abstract, 19.12, Genie Library for automation abstraction support, 2019-12-17T19:47:17+0000
+/project/py-networking/, py-networking, 2014.1.0, Library for network programming and automation, 2014-11-25T13:59:01+0000
+/project/cryptous/, cryptous, 0.0.4, The simplest encryption module for Python :), 2021-04-01T21:05:02+0000
+/project/logstash-python-formatter/, logstash-python-formatter, 0.1.2, Python formatter for working with Logstash json filters., 2019-09-11T08:51:22+0000
+/project/almanach/, almanach, 4.1.0, Stores usage of OpenStack volumes and instances for each tenant, 2017-08-14T17:52:31+0000
+/project/mptcpanalyzer/, mptcpanalyzer, 0.3.2, Analyze mptcp traces (.pcap), 2019-08-08T20:46:14+0000
+/project/thola-snmpsim-data/, thola-snmpsim-data, 0.0.3, SNMP simulation data, 2020-12-30T23:18:54+0000
+/project/rfcat/, rfcat, 1.9.5, the swiss army knife of subGHz, 2021-01-19T14:44:08+0000
+/project/pymisp/, pymisp, 2.4.141.1, Python API for MISP., 2021-04-02T14:38:43+0000
+/project/rmtoo/, rmtoo, 25.0.1, Free and OpenSource Requirements Management Tool, 2020-08-31T13:41:52+0000
+/project/ucp/, ucp, 1.0.0, Python EMI UCP protocol wrapper., 2016-02-18T21:29:39+0000
+/project/cpunetlog/, cpunetlog, 1.1.1, Display, log and plot CPU utilization and network throughput, 2018-03-07T20:40:04+0000
+/project/aiengine/, aiengine, 1.6.1, AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine, 2016-10-04T21:03:46+0000
+/project/galois/, galois, 0.0.13, A performant numpy extension for Galois fields, 2021-04-23T16:40:52+0000
+/project/calpack/, calpack, 2018.6.0, Packets in Python made Simple, 2018-06-19T14:54:08+0000
+/project/telephonie/, telephonie, 0.3.1, Telephonie framework, 2011-04-08T15:53:23+0000
+/project/colorweave/, colorweave, 0.3.2, Extract dominant colors from an image as a color palette, 2015-04-09T10:48:47+0000
+/project/asynqp/, asynqp, 0.6, An AMQP (aka RabbitMQ) client library for asyncio., 2019-01-20T21:56:19+0000
+/project/ossi-tool/, ossi-tool, 0.3.3.6, Tool to creact CSV output from Avaya Communcation Manager commands., 2020-04-07T12:26:54+0000
+/project/python-stdnum-do/, python-stdnum-do, 1.14, Python module to handle standardized numbers and codes, 2020-12-11T22:29:22+0000
+/project/nprintml/, nprintml, 0.1.0, Fully automated traffic analysis with nPrint, 2021-04-13T21:01:31+0000
+/project/pybombs/, PyBOMBS, 2.3.4, A meta-package manager to install software from source, or whatever the local package manager is. Designed for easy install of source trees for the GNU Radio project., 2020-09-04T21:46:46+0000
+/project/archipel-agent-vmcasting/, archipel-agent-vmcasting, 0.6.0beta, Manage all stuff about vmcasting, 2013-03-21T01:24:53+0000
+/project/dataq/, dataq, 0.0.dev5, Manage data-queue with associated Action on pop, 2015-02-18T19:51:29+0000
+/project/authentic2/, authentic2, 2.1.20, Authentic 2, a versatile identity management server, 2015-05-26T15:03:02+0000
+/project/deprecator/, deprecator, 0.3, Deprecator provides a decorator to easily depreate old code., 2015-06-03T17:36:13+0000
+/project/musdb/, musdb, 0.4.0, Python parser for the SIGSEP MUSDB18 dataset, 2021-01-31T08:32:58+0000
+/project/phpipam-scraper/, phpIPAM-Scraper, 1.1.2, A python library to retrieve device IPs from a PHPipam installation, 2016-12-13T19:30:54+0000
+/project/mijnsimpel/, MijnSimpel, 0.5, Python Client to Mijn Simpel, 2020-09-17T00:46:53+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/kotori/, kotori, 0.26.6, Kotori is a data acquisition, processing and graphing toolkit for humans, 2021-02-17T14:53:25+0000
+/project/scopedconfig/, scopedconfig, 0.0.0, Hierarchical configuration for Python packages, 2019-03-17T18:18:57+0000
+/project/pysmi/, pysmi, 0.3.4, SNMP SMI/MIB Parser, 2019-04-14T10:05:51+0000
+/project/baruwa/, baruwa, 2.0.9, Ajax enabled MailScanner web frontend, 2015-08-29T09:50:59+0000
+/project/genie-trafficgen/, genie.trafficgen, 21.3, Genie Library for traffic generator connection support, 2021-03-31T19:02:21+0000
+/project/cisco-decrypt/, cisco_decrypt, 0.8.3, decrypt Cisco Type 7 passwords, 2007-08-02T10:54:02+0000
+/project/python-can/, python-can, 3.3.4, Controller Area Network interface module for Python, 2020-10-04T20:06:20+0000
+/project/s3mpython/, S3MPython, 3.1.0.4, Python implementation of the S3Model https://datainsights.tech/S3Model/ specifications version: 3.1.0, 2018-11-24T13:04:43+0000
+/project/tcconfig/, tcconfig, 0.26.0, tcconfig is a tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth)., 2020-07-25T06:34:08+0000
+/project/jaide/, jaide, 2.0.0, A library and CLI tool for manipulating Junos devices., 2015-04-13T22:55:17+0000
+/project/vymgmt/, vymgmt, 0.1, A library for managing VyOS routers over SSH, 2016-09-06T10:29:40+0000
+/project/offshore/, offshore, 0.2.0, Simple, ergonomic data persistence for Python., 2021-02-05T01:26:49+0000
+/project/daflsim/, daflsim, 1.0.0.dev1, Simulate a data-flow described by a graphviz diagram, 2014-10-06T17:45:48+0000
+/project/netcalc/, netcalc, 0.6.2, Advanced network calculator and address planning helper, 2017-05-10T20:26:49+0000
+/project/aqopa/, AQoPA, 0.9.5, Automated Quality of Protection Analysis Tool for QoP-ML models., 2016-02-09T17:06:06+0000
+/project/pyst/, pyst, 0.8, A Python Interface to Asterisk, 2020-12-04T10:42:35+0000
+/project/h2o/, h2o, 3.32.1.1, H2O, Fast Scalable Machine Learning, for python, 2021-03-25T20:43:28+0000
+/project/midonetclient/, midonetclient, 5.2.0, Midonet API client library for Python applications, 2016-07-08T14:12:27+0000
+/project/satnogs-config/, satnogs-config, 0.11, SatNOGS configuration utility, 2020-10-07T11:09:14+0000
+/project/findssh/, findssh, 1.5.0, find open servers on your IPv4 subnet, e.g. SSH, 2020-10-01T12:42:56+0000
+/project/ricxappframe/, ricxappframe, 1.6.0, Xapp and RMR framework for Python, 2020-11-09T19:17:13+0000
+/project/pyats-kleenex/, pyats.kleenex, 21.3, pyATS Kleenex: Testbed Preparation, Clean & Finalization, 2021-03-31T19:09:18+0000
+/project/macvendor/, macvendor, 1.0.12, A Python Liberary and CLI Tool for Fiding Vendors of MAC Addresses, 2019-12-13T01:07:15+0000
+/project/archipel-agent-xmppserver/, archipel-agent-xmppserver, 0.6.0beta, Can manage Ejabberd Server using XMLRPC module, 2013-03-21T01:24:57+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/monkeysign/, monkeysign, 2.2.4, OpenPGP key exchange for humans, 2018-06-18T17:27:52+0000
+/project/stempeg/, stempeg, 0.2.3, Read and write stem/multistream audio files, 2021-01-30T14:54:56+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/autogluon-vision/, autogluon.vision, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:07:01+0000
+/project/sine/, Sine, 0.3.0, Divmod Sine is a standards-based voice-over-IP application server,        built as an offering for the Mantissa application server platform., 2009-11-29T19:14:08+0000
+/project/genie-libs-ops/, genie.libs.ops, 21.3, Genie libs Ops: Libraries to retrieve operational state of the topology, 2021-03-31T19:02:01+0000
+/project/iosxr-eznc/, iosxr-eznc, 2016.8.25, Python library for Cisco IOS-XR automation via NETCONF, 2016-08-25T16:03:41+0000
+/project/pyst3/, pyst3, 0.4.2, A Python 3.x Interface to Asterisk, 2014-11-21T09:07:49+0000
+/project/thola-snmpsim/, thola-snmpsim, 1.0.0, SNMP Agents simulator, 2020-12-30T23:09:39+0000
+/project/pybrm/, pybrm, 1.0.0, A Python library for Oracle BRM, 2020-02-25T06:55:55+0000
+/project/genie-parsergen/, genie.parsergen, 19.12, Genie Library for parsing both tabular and non-tabular device output, 2019-12-17T19:53:28+0000
+/project/libraptorq/, libraptorq, 18.3.0, Python CFFI bindings for libRaptorQ (RaptorQ RFC6330 FEC implementation)., 2018-03-06T06:51:23+0000
+/project/oonibackend/, oonibackend, 1.3.7, Open Observatory of Network Interference Backend, 2019-12-06T08:33:16+0000
+/project/dtcd/, dtcd, 0.1.1, Dynamic network blocks allocation via HTTP, 2019-04-02T20:14:01+0000
+/project/hostp2pd/, hostp2pd, 0.1.7, Wi-Fi Direct Session Manager, implementing a host AP daemon in Wi-Fi Direct mode, including P2P WPS enrollment, 2021-02-06T10:52:18+0000
+/project/genie-libs-health/, genie.libs.health, 21.3, pyATS Health Check for monitoring device health status, 2021-03-31T19:01:56+0000
+/project/bgpfu/, bgpfu, 0.2.0, BGP toolkit, 2021-03-08T13:28:12+0000
+/project/canprog/, canprog, 0.2.1, Command-line tool to flashing devices by CAN-BUS., 2019-11-01T08:33:04+0000
+/project/dnac/, dnac, 1.3.1.7, A wrapper for using Cisco DNA Center's REST API, 2020-04-16T19:34:59+0000
+/project/hexer-hx/, hexer-hx, 0.0.1, a tool to help in the arcane arts of decoding and reverse engineering binary data, 2020-08-16T11:58:19+0000
+/project/zato-invoke-retry/, zato-invoke-retry, 1.1.1, Zato 1.1 service providing invoke_retry & invoke_async_methods for retrying invocations, blockingly or in background (https://zato.io/docs/index.html), 2013-07-09T18:11:27+0000
+/project/snmp-cmds/, snmp-cmds, 1.0, A python wrapper around the Net-SNMP command line utilities, 2017-05-23T01:54:23+0000
+/project/moler/, moler, 1.29.0, Moler is library to help in building automated tests, 2021-04-12T13:22:45+0000
+/project/kunteksto/, kunteksto, 2.1.0, The tool to translate your CSV data files into RDF, XML and JSON with full semantics and syntactic validation., 2018-12-28T05:50:41+0000
+/project/satnogsdecoders/, satnogsdecoders, 0.16.1, SatNOGS Decoders, 2019-09-06T11:39:12+0000
+/project/pyroute2/, pyroute2, 0.5.18, Python Netlink library, 2021-04-12T10:21:50+0000
+/project/acl/, acl, 0.2, Network access control list parsing library., 2013-03-01T17:16:21+0000
+/project/pyasn1/, pyasn1, 0.4.8, ASN.1 types and codecs, 2019-11-16T17:27:11+0000
+/project/scapy-unroot/, scapy-unroot, 0.3.0b4, Daemon and tooling to enable using scapy without root permissions., 2020-05-04T10:50:45+0000
+/project/pypssl/, pypssl, 2.2, Python API for PSSL., 2021-04-15T22:35:20+0000
+/project/buffered-smtp-handler/, buffered-smtp-handler, 0.1.0, A buffered logging handlers that mimics SMTPHandler, 2017-10-20T16:47:49+0000
+/project/social/, social, 0.1.dev3, Social is a python package for social data analysis and exploitation, 2015-03-26T13:53:25+0000
+/project/asynqp-consumer/, asynqp-consumer, 0.4.0, Consumer utility class for AMQP, 2019-09-11T11:56:13+0000
+/project/shellsnmp/, shellsnmp, 0.1.7, , 2016-11-29T12:36:40+0000
+/project/netcidr/, NetCIDR, 0.0.4, Object representations, operations and logic for hosts, networks, and collections of networks., 2008-01-11T04:56:02+0000
+/project/yawrap/, yawrap, 0.4.10, simple generator of complex html reports, 2020-01-30T09:53:46+0000
+/project/intelmq-webinput-csv/, intelmq-webinput-csv, 0.2.0, This is a Flask-based web interface allowing the user to insert data into intelmq's pipelines interactively with preview from the parser., 2020-01-17T15:33:35+0000
+/project/ripe-atlas-monitor/, ripe-atlas-monitor, 0.1.10, A tool to monitor results collected by RIPE Atlas probes and verify they match against predefined expected values., 2016-12-27T18:12:42+0000
+/project/cardify/, cardify, 0.1.0, Cardify - A set of GPLv3+ libraries to deal with carding information., 2016-03-19T17:11:39+0000
+/project/pylink/, PyLink, 0.3.3, Universal communication interface using File-Like API, 2017-11-29T08:54:12+0000
+/project/quasardb/, quasardb, 3.9.8, Python API for quasardb, 2021-03-26T12:21:12+0000
+/project/inmanta-core/, inmanta-core, 5.0.0, Inmanta deployment tool, 2021-03-17T08:42:29+0000
+/project/webexteamssdk/, webexteamssdk, 1.6, Community-developed Python SDK for the Webex Teams APIs, 2020-07-13T15:24:11+0000
+/project/pywurfl/, pywurfl, 7.2.1, pywurfl - Python tools for processing and querying the Wireless Universal Resource File (WURFL), 2011-01-06T20:38:25+0000
+/project/scapy/, scapy, 2.4.5, Scapy: interactive packet manipulation tool, 2021-04-19T18:29:34+0000
+/project/grailkit/, grailkit, 0.10.1, Grail development kit, a set of libraries for creative coding, 2020-09-07T11:40:44+0000
+/project/packetmq/, packetmq, 0.1.5, Packet based networking, 2016-03-06T02:44:07+0000
+/project/towalink-tlm/, towalink-tlm, 0.1.6, command line tool for configuring and managing a Towalink installation, 2021-02-28T20:05:24+0000
+/project/rotl/, RotL, 0.0.5, A simple utility for converting files that describe malware infections into remediation scripts that can clean up infections using native OS tools., 2019-06-25T19:25:35+0000
+/project/ndmtk/, ndmtk, 0.2.0, Network Discovery and Management Toolkit packaged as Ansible Plugin, 2018-07-02T04:35:36+0000
+/project/archipel-agent-hypervisor-health/, archipel-agent-hypervisor-health, 0.6.0beta, Get health of hypervisors, 2013-03-21T01:25:38+0000
+/project/mailgun2/, mailgun2, 2.0.0, A python client for Mailgun API v2, 2020-01-27T00:55:08+0000
+/project/pcapgraph/, PcapGraph, 1.3.0, Create a graph out of packet captures., 2018-11-05T13:26:24+0000
+/project/hex2words/, hex2words, 0.1.0, Hexadecimal ID/Fingerprint to PGP-words list converter, 2015-08-17T15:49:02+0000
+/project/randwire/, randwire, 0.1.5, Random Length Antenna Calculator, 2021-02-03T22:55:25+0000
+/project/snmpfwd/, snmpfwd, 0.4.4, SNMP Proxy Forwarder can act as an application-level firewall, 2018-12-30T17:22:56+0000
+/project/hl7-transform/, hl7-transform, 0.1.6, Library that transforms HL7 messages using mapping schemes, 2020-11-03T23:03:47+0000
+/project/python-gsmmodem/, python-gsmmodem, 0.9, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2013-07-18T11:23:48+0000
+/project/wgtrack/, wgtrack, 0.1.7, wgtrack tracks WireGuard links, exports the status, and updates endpoints as needed, 2021-02-20T19:13:33+0000
+/project/pingparsing/, pingparsing, 1.3.0, pingparsing is a CLI-tool/Python-library parser and transmitter for ping command., 2021-03-27T17:18:53+0000
+/project/pypluribus/, pyPluribus, 0.3.1, Python API to interact with Pluribus devices, 2016-12-29T11:49:43+0000
+/project/alex-asr/, alex_asr, 1.0.4, Incremental speech recognition decoder for Kaldi NNET2 and GMM models., 2015-12-08T16:56:47+0000
+/project/inetsix-arista-cvp/, inetsix-arista-cvp, 0.3.3, Tools to manage CVP server using APIs and cvprac lib, 2019-08-21T15:00:32+0000
+/project/ivre/, ivre, 0.9.16, Network recon framework, 2020-12-08T14:53:50+0000
+/project/brasil-vocab/, brasil.vocab, 0.8, Basic Brazilian vocabularies for Python, 2011-12-21T00:54:04+0000
+/project/mqreceive/, mqreceive, 0.1.2, MQTT receive wrapper library, 2016-07-10T12:40:39+0000
+/project/osrframework/, osrframework, 0.20.4, OSRFramework - A set of AGPLv3+ OSINT tools developed by i3visio analysts for online research., 2021-02-11T13:29:33+0000
+/project/genie/, genie, 21.3.1, Genie: THE standard pyATS Library System, 2021-04-08T21:36:40+0000
+/project/simpletr64/, simpleTR64, 1.0.6, An easy to use UPnP TR64 protocol library, 2016-01-24T08:18:59+0000
+/project/mdct/, mdct, 0.4, A fast MDCT implementation using SciPy and FFTs, 2016-05-23T14:25:31+0000
+/project/osrframework-server/, osrframework-server, 0.18.0a4, OSRFramework Server - A HTTP server writen in Python to interact with OSRFramework., 2017-12-03T18:32:46+0000
+/project/cotopaxi/, cotopaxi, 1.5.2, Set of tools for security testing of Internet of Things devices using specific network protocols., 2021-03-21T18:40:45+0000
+/project/icecore/, icecore, 0.2.0.0, icecore C++ library python bindings, 2018-03-02T01:29:39+0000
+/project/pqcrypto/, pqcrypto, 0.1.3, Post-quantum cryptography for Python., 2020-09-08T10:33:43+0000
+/project/alerta-server-ai/, alerta-server-ai, 0.0.1, Alerta server WSGI application, 2019-12-16T08:46:26+0000
+/project/codeplug/, codeplug, 0.2.0, codeplug decoder and builder for Motorola radios, 2018-01-24T07:55:41+0000
+/project/rpi-piusv/, rpi-piusv, 0.1.0, Python module for RPI USV+ Raspberry Pi - USV+, 2020-05-17T16:46:05+0000
+/project/archipel-agent-virtualmachine-vnc/, archipel-agent-virtualmachine-vnc, 0.6.0beta, manage VNC screen connection, 2013-03-21T01:25:23+0000
+/project/alpakka/, alpakka, 0.1.dev153, Cutest YANG Eater alive, 2018-11-19T14:17:31+0000
+/project/panaceamobile/, PanaceaMobile, 1.0.2, PanaceaMobile "API" implementation in Python, 2019-07-31T22:10:44+0000
+/project/apacheconfig/, apacheconfig, 0.3.2, Apache config file parser, 2020-01-09T21:15:57+0000
+/project/stft/, stft, 0.5.2, Short Time Fourier transform for NumPy., 2016-03-31T15:21:23+0000
+/project/config-probe/, config-probe, 0.2.0, Auto-discovery of configurations for easy inline use, 2019-04-01T21:57:13+0000
+/project/chzip/, chzip, 0.1, Switzerland ZIP codes and town names, 2013-08-27T19:17:36+0000
+/project/wgfrontend/, wgfrontend, 0.7.0, web-based user interface for configuring WireGuard for roadwarriors, 2021-03-05T20:30:49+0000
+/project/python-iptables/, python-iptables, 1.0.0, Python bindings for iptables, 2020-06-14T21:19:50+0000
+/project/scapy-nflog-capture/, scapy-nflog-capture, 13.05.0, Driver for scapy to allow capturing packets via Linux NFLOG interface, 2013-05-13T06:34:29+0000
+/project/rapidpro-for-rapidsms/, rapidpro-for-rapidsms, 1.0.3, A RapidPro backend for RapidSMS., 2017-03-11T19:21:29+0000
+/project/adytum-netcidr/, Adytum-NetCIDR, 0.0.1, Object representations, operations and logic for hosts, networks, and collections of networks., 2006-01-29T14:12:09+0000
+/project/dns-sprockets/, dns-sprockets, 2.0.0, Command-line DNS Zone validation tool, 2020-04-03T05:58:28+0000
+/project/py-star/, py-star, 0.1.0.dev1, A Python Interface to Asterisk, 2014-07-15T19:04:54+0000
+/project/rest-connector/, rest.connector, 21.3, pyATS REST connection package, 2021-03-31T19:20:24+0000
+/project/structifytext/, structifytext, 0.2.1, Structure semi-structured text, 2017-04-28T02:33:31+0000
+/project/jsnapy/, jsnapy, 1.3.6, Python version of Junos Snapshot Administrator, 2021-02-27T05:41:52+0000
+/project/libzt/, libzt, 1.3.4b1, ZeroTier, 2021-03-18T01:15:49+0000
+/project/rmr/, rmr, 4.0.0, Python wrapper for RIC RMR, 2020-03-19T14:20:06+0000
+/project/netom/, netom, 0.2.0, network object models, 2021-03-08T13:08:36+0000
+/project/satnogs-db-api-client/, satnogs-db-api-client, 1.23, SatNOGS DB API Client, 2021-03-11T22:13:18+0000
+/project/vaping/, vaping, 1.3.0, vaping is a healthy alternative to smokeping!, 2020-09-23T10:24:49+0000
+/project/netman/, netman, 1.4.12, A unified REST API to provide vendor-agnostic network automation, 2020-09-10T13:11:31+0000
+/project/pyats-examples/, pyats.examples, 19.6, pyATS Examples: Example Scripts, 2019-06-25T16:50:40+0000
+/project/misp-fast-lookup/, misp-fast-lookup, 1.0, API for MISP Redis Datastore., 2016-03-10T21:14:50+0000
+/project/tlscli/, tlscli, 1.1.0, Text User Interface client for CORBA Telecom Log Service., 2013-04-02T12:36:01+0000
+/project/uniborg/, uniborg, 1.0.0.0.20190508120218, Telegram python bot using Telethon, 2019-05-08T10:02:19+0000
+/project/cizsle/, cizsle, 0.0a7, Cisco ZTP Server LE, 2019-05-09T02:14:31+0000
+/project/narrowband/, NarrowBand, 0.2.1, NarrowBand library, 2019-02-13T09:57:07+0000
+/project/hollowpoint/, hollowpoint, 0.1, Hollowpoint, 2013-06-16T20:54:50+0000
+/project/satnogs-network/, satnogs-network, 1.74, SatNOGS Network, 2021-03-15T20:23:38+0000
+/project/pubsublogger/, pubsublogger, 1.2.2, Logging system using the PubSub functionality of Redis., 2015-11-03T13:47:45+0000
+/project/nfqp3/, NFQP3, 0.11, Python bindings for libnetfilter_queue pached for Python3, 2015-07-13T14:49:08+0000
+/project/superior-cache-analyzer/, Superior-Cache-ANalyzer, 3.3.7.post3, An analysis tool for Apache Traffic Server caches., 2019-09-19T15:56:35+0000
+/project/epiweeks-barc/, epiweeks-barc, 0.0.1, Epidemiological weeks based on the CDC (MMWR) and ISO week numbering systems., 2020-05-07T23:24:54+0000
+/project/runcible/, runcible, 0.2.0, , 2019-09-05T03:17:21+0000
+/project/torfy/, torfy, 0.2.1, Torfy - A set of GPLv3+ libraries to deal with Tor connections., 2016-03-06T22:00:36+0000
+/project/qtdigest-cffi/, qtdigest-cffi, 0.5.0, A data structure for accurate on-line accumulation of rank-based statistics., 2019-12-17T09:09:38+0000
+/project/russian-numerals/, russian-numerals, 0.2b0, Python package for working with quantitative numerals in Russian., 2020-07-03T09:12:04+0000
+/project/exabgp/, exabgp, 4.2.13, BGP swiss army knife, 2021-03-19T11:00:24+0000
+/project/alerta-server/, alerta-server, 8.5.0, Alerta server WSGI application, 2021-04-18T19:53:20+0000
+/project/aerisapisdk/, aerisapisdk, 0.1.5, Provides both an SDK and a CLI for the Aeris Connectivity APIs., 2020-03-31T22:00:10+0000
+/project/iosbackup/, iOSbackup, 0.9.912, Reads and extracts files from password-encrypted iOS backups, 2021-01-30T21:32:24+0000
+/project/ip2geotools/, ip2geotools, 0.1.5, Simple tool for getting geolocation information on given IP address from various geolocation databases., 2019-04-15T12:58:49+0000
+/project/bakplane-python-sdk/, bakplane-python-sdk, 1.79.0, A Python Client for Bakplane, 2021-04-21T11:32:31+0000
+/project/snmposter/, snmposter, 1.0.4, SNMP Agent Simulator, 2016-01-19T20:00:01+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/prophy/, prophy, 1.2.4, prophy: fast serialization protocol, 2020-05-17T22:03:25+0000
+/project/genie-examples/, genie.examples, 19.6.0, Genie Examples: Example Scripts, 2019-06-25T18:45:15+0000
+/project/pyinfluxql/, pyinfluxql, 0.1.3, A query generator for the SQL dialect of the Influx Query Language (InfluxQL), 2021-02-14T15:24:48+0000
+/project/grafanimate/, grafanimate, 0.5.5, Animate timeseries data with Grafana, 2019-02-04T02:11:24+0000
+/project/iperf3/, iperf3, 0.1.11, Python wrapper around iperf3, 2019-04-13T07:54:02+0000
+/project/eve-auth-jwt-fork/, eve-auth-jwt-fork, 1.2.2, Eve JWT authentication, rs/eve-auth-jwt's fork., 2019-02-20T15:15:03+0000
+/project/pyats/, pyats, 21.3, pyATS - Python Automation Test System, 2021-03-31T19:14:48+0000
+/project/autogluon-mxnet/, autogluon.mxnet, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:51+0000
+/project/pytextmagicsms/, PyTextMagicSMS, 0.2, TextMagic SMS API, 2015-06-14T15:45:01+0000
+/project/onap-dcae-dcaepolicy-lib/, onap-dcae-dcaepolicy-lib, 2.5.1, lib of policy decorators to be used by cloudify plugins of dcae controller, 2021-03-12T22:00:35+0000
+/project/pyats-aereport/, pyats.aereport, 21.3, pyATS AEreport: Result Collection and Reporting, 2021-03-31T19:02:29+0000
+/project/ipasn-redis/, ipasn-redis, 2.0, API to access an IP-ASN-history instance via Redis., 2016-05-01T10:22:42+0000
+/project/py-common-subseq/, py-common-subseq, 0.2, Microlibrary finding all common subsequences between two sequences in polynomial time., 2019-08-22T23:37:33+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/knot-keystore/, knot-keystore, 0.1.0, A tool for safely archiving knot dnssec key material to azure., 2019-07-07T23:30:14+0000
+/project/bagpipe-bgp/, bagpipe-bgp, 1.80.0, Lightweight implementation of BGP IP VPN and E-VPN, 2017-02-03T09:46:21+0000
+/project/csmpe/, csmpe, 1.0.23, CSM Plugin Engine, 2019-01-25T13:20:45+0000
+/project/fog05rest/, fog05rest, 0.0.4, Python API fog05 REST Client, 2019-10-11T08:22:08+0000
+/project/pypdns/, pypdns, 1.5.2, Python API for PDNS., 2021-04-15T08:20:30+0000
+/project/notizen/, notizen, 1.0.0, Indexing and searching of personal notes., 2016-02-29T09:16:03+0000
+/project/ooniprobe/, ooniprobe, 2.3.0, Network measurement tool foridentifying traffic manipulation and blocking., 2018-02-14T09:14:22+0000
+/project/aos-pyez/, aos-pyez, 0.7.1, Python wrapper library for Apstra AOS REST API, 2017-10-16T21:34:25+0000
+/project/escapeless/, escapeless, 1.0a0, Efficient binary encoding for large alphabets., 2019-06-06T20:07:27+0000
+/project/switchy/, switchy, 0.1.0a1, A fast FreeSWITCH control library purpose-built on traffic theory and stress testing., 2016-09-07T20:02:20+0000
+/project/soapy-power/, soapy_power, 1.6.1, Obtain power spectrum from SoapySDR devices (RTL-SDR, Airspy, SDRplay, HackRF, bladeRF, USRP, LimeSDR, etc.), 2017-04-26T15:36:42+0000
+/project/satnogs-client/, satnogs-client, 1.4, SatNOGS Client, 2020-10-05T17:40:24+0000
+/project/netfilterqueue/, NetfilterQueue, 0.8.1, Python bindings for libnetfilter_queue, 2017-01-31T07:42:20+0000
+/project/upysm/, upysm, 0.3.9, Versatile and flexible Python State Machine library - Micropython Port, 2019-04-07T10:13:10+0000
+/project/robotframework-httpctrl/, robotframework-httpctrl, 0.1.6, robotframework-httpctrl is a library for Robot Framework that provides HTTP/HTTPS client and HTTP server services, 2020-01-13T15:36:44+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/netscaler-api/, netscaler-api, 0.2.3, NetScaler API is a Python interface for interacting with Citrix NetScaler application delivery controllers, utilizing the SOAP API to execute commands., 2012-07-11T16:03:42+0000
+/project/dlink-scraper/, dlink-scraper, 1.0.3, Scraper for getting data from D-Link DWR-921 LTE router, 2020-09-30T19:11:19+0000
+/project/zato-client/, zato-client, 3.1.2, Python API client for Zato - ESB, SOA, REST, APIs and Cloud Integrations in Python (https://zato.io), 2020-08-11T18:12:45+0000
+/project/spectral-aead/, spectral-aead, 0.0.5, An algorithm for authenticated encryption with associated data using Speck and HMAC-SHA256., 2018-06-30T09:55:22+0000
+/project/blaeu/, blaeu, 1.1.6, Tools to create (and analyze) RIPE Atlas network measurements, 2020-06-06T14:46:29+0000
+/project/tdigest-cffi/, tdigest-cffi, 0.1.2, A data structure for accurate on-line accumulation of rank-based statistics., 2018-12-07T02:49:34+0000
+/project/httproxy/, httproxy, 0.9.0, A tiny HTTP proxy implementation, 2012-10-26T10:41:07+0000
+/project/satnogs-decoders/, satnogs-decoders, 1.21.0, SatNOGS Decoders, 2021-03-30T10:19:12+0000
+/project/pyren/, pyRen, 0.0.0, A Python implementation of the Ren data serialization format., 2018-12-14T02:31:39+0000
+/project/sublist3r/, Sublist3r, 1.0, Subdomains enumeration tool for penetration testers, 2020-10-21T18:11:08+0000
+/project/pyats-easypy/, pyats.easypy, 21.3, pyATS Easypy: launcher and runtime environment, 2021-03-31T19:07:48+0000
+/project/gglsbl-rest-client/, gglsbl-rest-client, 1.0.1, This is a simple python client wrapper for the [gglsbl-rest](https://github.com/mlsecproject/gglsbl-rest) service., 2019-10-17T22:09:02+0000
+/project/pytun/, pytun, 1.0.1, Python TUN/TAP tunnel module, 2012-03-05T20:04:12+0000
+/project/autogluon-extra/, autogluon.extra, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:54+0000
+/project/fog05mm1/, fog05mm1, 0.0.1, Eclipse fog05 Mm1 REST Client API, 2019-05-13T09:42:00+0000
+/project/wurfl-cloud/, wurfl-cloud, 1.1.1, ScientiaMobile WURFL Cloud Client for Python, 2015-12-01T21:27:40+0000
+/project/osrframework-console/, osrframework-console, 0.18.0, OSRFramework Console - A terminal-based user interface to interact with OSRFramework utils., 2018-02-04T19:00:18+0000
+/project/amigocloud/, amigocloud, 1.2.5, Python client for the AmigoCloud REST API, 2020-11-12T19:21:35+0000
+/project/bromelia/, bromelia, 0.1, A Python micro framework for Diameter applications, 2021-04-05T23:49:35+0000
+/project/crcgen/, crcgen, 1.0, CRC algorithm code generator, 2019-08-13T11:29:31+0000
+/project/peeringdb/, peeringdb, 1.1.0, peeringdb client and interface, 2020-08-26T07:10:10+0000
+/project/xplant/, xplant, 1.0.0, Tree model markup builder., 2020-07-10T20:19:30+0000
+/project/aiosmpp/, aiosmpp, 1.0.3, SMPP library for python based on asyncio, 2019-07-23T19:10:22+0000
+/project/switchio/, switchio, 0.1.0a1, asyncio powered FreeSWITCH cluster control, 2017-11-15T16:30:49+0000
+/project/pyats-tcl/, pyats.tcl, 21.3, pyATS Tcl: Tcl Integration and Objects, 2021-03-31T19:16:55+0000
+/project/terkin/, terkin, 0.10.0, A flexible data logger for MicroPython and CPython, 2020-05-22T00:10:29+0000
+/project/shot-detector/, shot-detector, 0.0.5.dev3, Python shot detector based on PyAV, 2016-08-30T19:04:19+0000
+/project/pyproofpoint/, pyproofpoint, 0.0.1, A python wrapper for proofpoint's threat insight API, 2021-01-28T18:17:58+0000
+/project/canari/, canari, 3.3.10, Canari Framework - Maltego rapid transform development and execution framework., 2019-02-25T21:38:57+0000
+/project/pyats-datastructures/, pyats.datastructures, 21.3, pyATS Datastructures: Extended Datastructures for Grownups, 2021-03-31T19:07:13+0000
+/project/gbboxcli/, gbboxcli, 0.2.11, Command-line interface for gbbox, 2016-11-23T06:53:55+0000
+/project/pyintel471/, pyintel471, 0.1.1, Python client for Intel471, 2021-03-19T14:14:22+0000
+/project/connmonitor/, connmonitor, 4.1.3, Uses the connvitals library to continuously poll and record network connectivity statistics., 2018-08-13T14:15:36+0000
+/project/ohneio/, ohneio, 0.8.1, Utility to write network protocol parser without any I/O, 2016-08-20T21:48:16+0000
+/project/slt/, slt, 0.10.3, Unofficial usage checker for SLT Internet, 2018-02-23T22:33:53+0000
+/project/snmpresponder/, snmpresponder, 0.0.2, SNMP Command Responder., 2019-01-31T08:38:57+0000
+/project/salabim/, salabim, 21.0.3, discrete event simulation in Python, 2021-03-20T09:55:01+0000
+/project/genie-utils/, genie.utils, 19.12, Genie Utils: Provides various nice-to-use utilities., 2019-12-17T19:56:42+0000
+/project/snmpclitools/, snmpclitools, 0.6.4, SNMP command-line tools, 2019-08-11T10:16:16+0000
+/project/asnhistory/, asnhistory, 2.0.4, Query a redis database to access to the ASNs descriptions., 2016-05-08T11:38:23+0000
+/project/ipgroup/, ipgroup, 0.0.5, Functions to gather info on a group of IPv4 or IPv6 Networks, 2019-06-11T18:17:48+0000
+/project/udp-over-tls-pool/, udp-over-tls-pool, 0.1.1, Network wrapper which transports UDP packets over multiple TLS sessions, 2020-08-09T22:32:31+0000
+/project/mastertables/, mastertables, 1.1.0, A Python package to interact with the mastertables.athento.com public API, 2018-07-10T09:52:47+0000
+/project/pyvxclient/, pyvxclient, 0.2.6, vxapi client, 2020-03-11T17:03:08+0000
+/project/netconf-console/, netconf-console, 2.3.0, Netconf client CLI tool and interactive console, 2020-06-23T09:06:02+0000
+/project/django-asterisk/, django-asterisk, 0.1, Phone call queuing and management for the Django web framework using an Asterisk server, 2011-06-02T15:30:08+0000
+/project/dominus-python-sdk/, dominus-python-sdk, 0.24.0, A Python Client for Dominus, 2021-04-20T01:11:33+0000
+/project/ooniprobe/, ooniprobe, 2.3.0, Network measurement tool foridentifying traffic manipulation and blocking., 2018-02-14T09:14:22+0000
+/project/fnfqueue/, fnfqueue, 1.1.1, Fast python library encapsulating the nfqueue netlink interface., 2019-07-18T09:33:37+0000
+/project/pynet/, pynet, 0.8.3, Efficiently manipulate IPv4 and IPv6 addresses, 2007-07-27T18:25:46+0000
+/project/yang-connector/, yang.connector, 21.3, YANG defined interface API protocol connector, 2021-03-31T19:23:16+0000
+/project/intelmq/, intelmq, 2.3.1, IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol., 2021-03-25T14:24:32+0000
+/project/dhcp-relay/, dhcp-relay, 0.0.1, Python library to act as a DHCP relay, 2017-08-03T09:23:15+0000
+/project/pysnmp-mibs/, pysnmp-mibs, 0.1.6, A collection of IETF & IANA MIBs pre-compiled for PySNMP, 2016-02-13T23:54:58+0000
+/project/aos-pyez/, aos-pyez, 0.7.1, Python wrapper library for Apstra AOS REST API, 2017-10-16T21:34:25+0000
+/project/escapeless/, escapeless, 1.0a0, Efficient binary encoding for large alphabets., 2019-06-06T20:07:27+0000
+/project/switchy/, switchy, 0.1.0a1, A fast FreeSWITCH control library purpose-built on traffic theory and stress testing., 2016-09-07T20:02:20+0000
+/project/soapy-power/, soapy_power, 1.6.1, Obtain power spectrum from SoapySDR devices (RTL-SDR, Airspy, SDRplay, HackRF, bladeRF, USRP, LimeSDR, etc.), 2017-04-26T15:36:42+0000
+/project/percolation/, percolation, 0.2.dev0, percolation is a python package for harnessing open linked social data, 2019-05-01T21:04:37+0000
+/project/softboxen/, softboxen, 0.0.0, Network equipment simulator, 2020-02-08T09:56:36+0000
+/project/python-gammu/, python-gammu, 3.1, Gammu bindings, 2020-07-24T11:42:54+0000
+/project/satnogs-client/, satnogs-client, 1.4, SatNOGS Client, 2020-10-05T17:40:24+0000
+/project/netfilterqueue/, NetfilterQueue, 0.8.1, Python bindings for libnetfilter_queue, 2017-01-31T07:42:20+0000
+/project/upysm/, upysm, 0.3.9, Versatile and flexible Python State Machine library - Micropython Port, 2019-04-07T10:13:10+0000
+/project/robotframework-httpctrl/, robotframework-httpctrl, 0.1.6, robotframework-httpctrl is a library for Robot Framework that provides HTTP/HTTPS client and HTTP server services, 2020-01-13T15:36:44+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/netscaler-api/, netscaler-api, 0.2.3, NetScaler API is a Python interface for interacting with Citrix NetScaler application delivery controllers, utilizing the SOAP API to execute commands., 2012-07-11T16:03:42+0000
+/project/dlink-scraper/, dlink-scraper, 1.0.3, Scraper for getting data from D-Link DWR-921 LTE router, 2020-09-30T19:11:19+0000
+/project/zato-client/, zato-client, 3.1.2, Python API client for Zato - ESB, SOA, REST, APIs and Cloud Integrations in Python (https://zato.io), 2020-08-11T18:12:45+0000
+/project/spectral-aead/, spectral-aead, 0.0.5, An algorithm for authenticated encryption with associated data using Speck and HMAC-SHA256., 2018-06-30T09:55:22+0000
+/project/python-gsmmodem-new/, python-gsmmodem-new, 0.12, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2017-03-15T11:59:18+0000
+/project/search-ansible-hosts/, search-ansible-hosts, 0.0.2, Ansible inventory searching for rapid use, 2020-01-20T12:04:50+0000
+/project/dz-phone-numbers/, dz-phone-numbers, 1.0.0, Algerian phone numbers as value object, python implementation, 2020-06-16T13:44:30+0000
+/project/protea/, Protea, 0.1a, Ashly digital audio products RS-232 interface library, 2013-08-26T17:44:20+0000
+/project/genie-telemetry/, genie.telemetry, 21.3, Genie libs Telemetry: Genie Telemetry Libraries, 2021-03-31T19:02:19+0000
+/project/coko/, coko, 1.0.17, This tools let you take an snapshot of your files metadata in a particular directory in order to restore those metadata after files have been restored., 2018-12-30T14:19:57+0000
+/project/connord/, connord, 0.1.5, Connect to NordVPN servers secure with Iptables and fast with OpenVPN, 2019-10-09T13:31:54+0000
+/project/salt-confd/, salt-confd, 2019.9.0a1, Lightweight Salt package for confd-style management of local application configuration files, 2019-09-05T11:08:20+0000
+/project/pagerdutyapi/, pagerdutyapi, 0.4.1, PagerDuty support, mostly reporting alerts, 2016-03-22T18:24:02+0000
+/project/vppapigen/, vppapigen, 0.0.1, VPP API file parser/generator, 2020-12-15T06:52:19+0000
+/project/salt-sproxy/, salt-sproxy, 2020.10.2, Salt plugin for managing devices and applications, without running (Proxy) Minions, 2020-11-02T18:07:57+0000
+/project/junos-eznc/, junos-eznc, 2.6.0, Junos 'EZ' automation for non-programmers, 2021-04-22T15:17:17+0000
+/project/libt3/, libt3, 0.0.1, TTCN-3 Library, 2017-06-29T19:00:17+0000
+/project/gissip/, gissip, 0.1.1, Script to observer commits of your loved repos, 2018-10-01T05:23:16+0000
+/project/django-powerdns-dnssec/, django-powerdns-dnssec, 0.9.3, PowerDNS administration app for Django, 2013-03-27T13:32:49+0000
+/project/scrapy-broadsoftxchange/, scrapy-broadsoftxchange, 1.17, Download documents and published software from Broadsoft Xchange, 2015-09-20T14:43:47+0000
+/project/teed/, teed, 0.0.6, Telco engineering data library, 2021-04-11T22:24:49+0000
+/project/motaword/, motaword, 0.9.1, Motaword Python SDK, 2016-02-03T17:58:39+0000
+/project/signalwire/, signalwire, 2.0.2, Client library for connecting to SignalWire., 2020-03-11T00:22:02+0000
+/project/pyphysim/, pyphysim, 0.7.2, Simulation of digital communication (physical layer) in python, 2020-12-08T20:51:04+0000
+/project/graphite-metrics/, graphite-metrics, 15.03.0, Standalone Graphite metric data collectors for various stuff thats not (or poorly) handled by other monitoring daemons, 2015-03-16T06:21:31+0000
+/project/tcpextract/, tcpextract, 1.1, Extract files from captured TCP sessions. Support live streams and pcap files., 2012-07-27T19:18:01+0000
+/project/genie-ops/, genie.ops, 19.12, Genie Ops: Operational state of the topology through Python object attributes, 2019-12-17T19:52:35+0000
+/project/mobile-vikings-scraper/, mobile-vikings-scraper, 1.0.3, Scraper for Mobile Vikings in Poland, 2020-10-03T19:30:32+0000
+/project/pyfluffy/, pyfluffy, 0.0.12, Fluffy - A Firewall as a Service, 2017-08-16T11:58:05+0000
+/project/fdrtd/, fdrtd, 0.1.6, Python client for the fdrtd API, 2021-04-18T20:35:39+0000
+/project/web2ldap/, web2ldap, 1.5.116, Full-featured web-based LDAPv3 client, 2021-03-10T21:46:21+0000
+/project/deep-disfluency/, deep-disfluency, 0.0.1, Deep Learning systems for training and testing disfluency detection and related tasks on speech data., 2018-09-22T21:14:13+0000
+/project/pytaxonomies/, pytaxonomies, 1.3, Python API for the taxonomies., 2020-11-05T18:22:51+0000
+/project/pytest-growl/, pytest-growl, 0.2, Growl notifications for pytest results., 2014-01-13T16:04:10+0000
+/project/pyats-contrib/, pyats.contrib, 21.3, Open source package for pyATS framework extensions., 2021-03-31T19:07:11+0000
+/project/itur/, itur, 0.3.0, A python implementation of the ITU-R P. Recommendations, 2021-04-07T04:35:51+0000
+/project/yaks/, yaks, 0.3.0.post1, Python API to access the YAKS service, 2020-04-23T15:34:41+0000
+/project/kazoo-sdk/, kazoo-sdk, 0.2.4, Wrapper for the Kazoo API, 2017-11-28T03:19:25+0000
+/project/djangelo/, djangelo, 0.1.4, Tracking and rating Django Model activities with ELO system, 2020-12-22T17:56:14+0000
+/project/imagecast/, imagecast, 0.4.0, Imagecast is like ImageMagick but for Pythonistas. Optionally provides its features via HTTP API., 2021-03-06T12:00:21+0000
+/project/eve-auth-jwt/, eve-auth-jwt, 1.0.5, Eve JWT authentication, 2016-05-20T22:51:59+0000
+/project/zato-common/, zato-common, 3.1.1, Constants and utils common across the whole of Zato ESB and app server (https://zato.io), 2019-02-17T09:48:26+0000
+/project/hammer/, hammer, 0.1, Hammer is a framework for managing load-balancer configuration, 2012-06-07T17:43:09+0000
+/project/wishpy/, wishpy, 0.1.1, Python Bindings for Wireshark and libpcap using cffi, 2020-08-23T12:19:43+0000
+/project/fake-switches/, fake-switches, 1.3.9, A pluggable switch/router command-line simulator, 2019-03-21T19:20:30+0000
+/project/ngcp-xbee/, ngcp-xbee, 1.3, Digi XBee Python library, compatible with Python 2, 2019-02-01T23:43:05+0000
+/project/pydvbcss/, pydvbcss, 0.5.2, pydvbcss is a library implementing DVB "CSS" protocols for Companion Screen Synchronisation., 2018-02-15T14:01:39+0000
+/project/minimega/, minimega, 2.7, Python API for minimega, 2021-02-01T14:18:09+0000
+/project/satnogs-network-api-client/, satnogs-network-api-client, 1.74, SatNOGS Network API Client, 2021-03-15T20:23:31+0000
+/project/pydatalogger/, pydatalogger, 0.1.0, PyDatalogger - Data logging made easy, 2019-03-02T14:10:04+0000
+/project/sbucket/, sbucket, 0.1.4, Spatial Bucketing of RIPE Atlas Probes on Map Projections., 2015-03-30T11:25:07+0000
+/project/archipel-agent-virtualmachine-storage/, archipel-agent-virtualmachine-storage, 0.6.0beta, Manage virtual machine storages, 2013-03-21T01:24:49+0000
+/project/pyangbind/, pyangbind, 0.8.1, PyangBind is a plugin for pyang which converts YANG datamodels into a Python class hierarchy, such that Python can be used to manipulate data that conforms with a YANG model., 2018-05-16T20:40:12+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/pyrouted/, pyrouted, 0.2.4, Python Network Database, 2018-10-01T11:35:16+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/pyotdr/, pyOTDR, 1.0.1, A simple OTDR SOR file parser, 2020-10-21T09:12:05+0000
+/project/snmpsim-control-plane/, snmpsim-control-plane, 0.0.2, SNMP Simulator Control Plane, 2020-02-08T10:09:23+0000
+/project/scikit-commpy/, scikit-commpy, 0.6.0, Digital Communication Algorithms with Python, 2021-01-05T09:44:28+0000
+/project/dominus-python-sdk/, dominus-python-sdk, 0.24.0, A Python Client for Dominus, 2021-04-20T01:11:33+0000
+/project/fnfqueue/, fnfqueue, 1.1.1, Fast python library encapsulating the nfqueue netlink interface., 2019-07-18T09:33:37+0000
+/project/pynet/, pynet, 0.8.3, Efficiently manipulate IPv4 and IPv6 addresses, 2007-07-27T18:25:46+0000
+/project/yang-connector/, yang.connector, 21.3, YANG defined interface API protocol connector, 2021-03-31T19:23:16+0000
+/project/intelmq/, intelmq, 2.3.1, IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol., 2021-03-25T14:24:32+0000
+/project/dhcp-relay/, dhcp-relay, 0.0.1, Python library to act as a DHCP relay, 2017-08-03T09:23:15+0000
+/project/pysnmp-mibs/, pysnmp-mibs, 0.1.6, A collection of IETF & IANA MIBs pre-compiled for PySNMP, 2016-02-13T23:54:58+0000
+/project/percolation/, percolation, 0.2.dev0, percolation is a python package for harnessing open linked social data, 2019-05-01T21:04:37+0000
+/project/softboxen/, softboxen, 0.0.0, Network equipment simulator, 2020-02-08T09:56:36+0000
+/project/python-gammu/, python-gammu, 3.1, Gammu bindings, 2020-07-24T11:42:54+0000
+/project/satnogs-decoders/, satnogs-decoders, 1.21.0, SatNOGS Decoders, 2021-03-30T10:19:12+0000
+/project/pyren/, pyRen, 0.0.0, A Python implementation of the Ren data serialization format., 2018-12-14T02:31:39+0000
+/project/sublist3r/, Sublist3r, 1.0, Subdomains enumeration tool for penetration testers, 2020-10-21T18:11:08+0000
+/project/pyats-easypy/, pyats.easypy, 21.3, pyATS Easypy: launcher and runtime environment, 2021-03-31T19:07:48+0000
+/project/gglsbl-rest-client/, gglsbl-rest-client, 1.0.1, This is a simple python client wrapper for the [gglsbl-rest](https://github.com/mlsecproject/gglsbl-rest) service., 2019-10-17T22:09:02+0000
+/project/pytun/, pytun, 1.0.1, Python TUN/TAP tunnel module, 2012-03-05T20:04:12+0000
+/project/autogluon-extra/, autogluon.extra, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:54+0000
+/project/fog05mm1/, fog05mm1, 0.0.1, Eclipse fog05 Mm1 REST Client API, 2019-05-13T09:42:00+0000
+/project/wurfl-cloud/, wurfl-cloud, 1.1.1, ScientiaMobile WURFL Cloud Client for Python, 2015-12-01T21:27:40+0000
+/project/virtualreality/, virtualreality, 0.1.2, python side of hobo_vr, 2020-11-19T09:50:36+0000
+/project/bp-pysnmp/, bp-pysnmp, 4.4.3, SNMP library for Python, 2020-01-22T23:08:00+0000
+/project/invalidroutesreporter/, invalidroutesreporter, 0.2.0, An ExaBGP process to elaborate and report/log invalid routes received by route servers., 2017-06-30T16:47:21+0000
+/project/openob/, OpenOB, 4.0.3, Broadcast audio over IP codec built with PyGST, 2019-01-28T21:16:40+0000
+/project/splitcopy/, splitcopy, 1.1.6, Improves file transfer rates when copying files to/from JUNOS/EVO/*nix hosts, 2021-02-10T10:52:46+0000
+/project/pypdns/, pypdns, 1.5.2, Python API for PDNS., 2021-04-15T08:20:30+0000
+/project/notizen/, notizen, 1.0.0, Indexing and searching of personal notes., 2016-02-29T09:16:03+0000
+/project/scikit-commpy/, scikit-commpy, 0.6.0, Digital Communication Algorithms with Python, 2021-01-05T09:44:28+0000
+/project/vaping/, vaping, 1.3.0, vaping is a healthy alternative to smokeping!, 2020-09-23T10:24:49+0000
+/project/netman/, netman, 1.4.12, A unified REST API to provide vendor-agnostic network automation, 2020-09-10T13:11:31+0000
+/project/pyats-examples/, pyats.examples, 19.6, pyATS Examples: Example Scripts, 2019-06-25T16:50:40+0000
+/project/misp-fast-lookup/, misp-fast-lookup, 1.0, API for MISP Redis Datastore., 2016-03-10T21:14:50+0000
+/project/tlscli/, tlscli, 1.1.0, Text User Interface client for CORBA Telecom Log Service., 2013-04-02T12:36:01+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/pyats-aetest/, pyats.aetest, 21.3.1, pyATS AEtest: Testscript Engine, 2021-04-23T18:36:50+0000
+/project/uniborg/, uniborg, 1.0.0.0.20190508120218, Telegram python bot using Telethon, 2019-05-08T10:02:19+0000
+/project/cizsle/, cizsle, 0.0a7, Cisco ZTP Server LE, 2019-05-09T02:14:31+0000
+/project/narrowband/, NarrowBand, 0.2.1, NarrowBand library, 2019-02-13T09:57:07+0000
+/project/hollowpoint/, hollowpoint, 0.1, Hollowpoint, 2013-06-16T20:54:50+0000
+/project/satnogs-network/, satnogs-network, 1.74, SatNOGS Network, 2021-03-15T20:23:38+0000
+/project/pubsublogger/, pubsublogger, 1.2.2, Logging system using the PubSub functionality of Redis., 2015-11-03T13:47:45+0000
+/project/nfqp3/, NFQP3, 0.11, Python bindings for libnetfilter_queue pached for Python3, 2015-07-13T14:49:08+0000
+/project/superior-cache-analyzer/, Superior-Cache-ANalyzer, 3.3.7.post3, An analysis tool for Apache Traffic Server caches., 2019-09-19T15:56:35+0000
+/project/epiweeks-barc/, epiweeks-barc, 0.0.1, Epidemiological weeks based on the CDC (MMWR) and ISO week numbering systems., 2020-05-07T23:24:54+0000
+/project/runcible/, runcible, 0.2.0, , 2019-09-05T03:17:21+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/clicol-plugin-extra/, clicol-plugin-extra, 0.0.1, CLI colorizer - extra plugins, 2020-02-16T11:03:17+0000
+/project/smsutil/, smsutil, 1.1.3, encode, decode and split SMS., 2020-07-22T04:44:46+0000
+/project/dz-phonenumbers/, dz-phonenumbers, 1.0.0, Algerian phone numbers as value object, python implementation, 2021-04-10T15:37:24+0000
+/project/esmond-client/, esmond-client, 4.2.1, API client libraries and command line tools for the ESnet Monitoring Daemon (esmond)., 2019-05-24T15:31:48+0000
+/project/pydivert/, pydivert, 2.1.0, Python binding to windivert driver, 2017-10-20T21:36:56+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/os-benchmark/, os-benchmark, 0.7.2, Handy tool for Object Storage performance benchmark, 2021-02-26T14:45:19+0000
+/project/pyderasn/, pyderasn, 8.3, Python ASN.1 DER/CER/BER codec with abstract structures, 2021-01-14T07:28:40+0000
+/project/python-controlchart/, python-controlchart, 0.2.0, Creation of control charts with matplotlib, 2019-12-23T11:14:10+0000
+/project/trigger/, trigger, 1.6.0, Trigger is a framework and suite of tools for configuring network devices, 2017-03-08T18:32:52+0000
+/project/thola-snmpsim-control-plane/, thola-snmpsim-control-plane, 0.0.3, SNMP Simulator Control Plane., 2020-12-30T23:06:08+0000
+/project/wstunnel/, wstunnel, 0.0.6, A Python WebSocket Tunnel, 2014-05-15T17:25:15+0000
+/project/whois-similarity-distance/, whois_similarity_distance, 1.0.2,  This python scripts can calculate the WHOIS Similarity Distance between two given domains., 2018-03-06T17:50:22+0000
+/project/pyats-templates/, pyats.templates, 19.6, pyATS Templates: Script Templates, 2019-06-25T16:51:38+0000
+/project/mca-traceroute/, mca-traceroute, 1.0.0, mca-traceroute: Detection and Classification of Load Balancers, 2020-05-10T21:49:52+0000
+/project/switchinfo/, switchinfo, 1.4.1, A tool to show what is connected to switch ports, 2020-09-29T11:34:01+0000
+/project/dsdtools/, dsdtools, 0.1.3, Python tools for the Demixing Secrets Dataset (DSD), 2016-07-20T13:05:41+0000
+/project/tcplog/, tcplog, 0.2.10, Tool to log and analyze TCP flows., 2018-10-25T23:52:20+0000
+/project/chromaterm/, chromaterm, 0.7.1, Color your output to terminal, 2021-03-07T17:47:04+0000
+/project/vasuki/, vasuki, 0.3.2, Vasuki generates different kinds of random unique identifiers, tokens and words, 2019-07-04T08:52:36+0000
+/project/clmsgr/, CLMsgr, 0.0.0-pre-alpha-build-3, A Python Core for Command Line Messaging, with extensibility and modularity, 2014-08-08T16:44:38+0000
+/project/linphone/, linphone, 3.9.1, Linphone package for Python, 2015-11-16T12:35:52+0000
+/project/torfy/, torfy, 0.2.1, Torfy - A set of GPLv3+ libraries to deal with Tor connections., 2016-03-06T22:00:36+0000
+/project/qtdigest-cffi/, qtdigest-cffi, 0.5.0, A data structure for accurate on-line accumulation of rank-based statistics., 2019-12-17T09:09:38+0000
+/project/russian-numerals/, russian-numerals, 0.2b0, Python package for working with quantitative numerals in Russian., 2020-07-03T09:12:04+0000
+/project/exabgp/, exabgp, 4.2.13, BGP swiss army knife, 2021-03-19T11:00:24+0000
+/project/alerta-server/, alerta-server, 8.5.0, Alerta server WSGI application, 2021-04-18T19:53:20+0000
+/project/vietnam-number/, vietnam-number, 1.0.3, Thư viện xữ lý chữ số dành riêng cho Tiếng Việt - Hỗ trợ chuyển đổi cho cả văn nói và văn viết, 2021-01-12T08:12:44+0000
+/project/pyats-robot/, pyats.robot, 21.3, pyATS Robot: Robot Module, 2021-03-31T19:16:53+0000
+/project/inetsix-config-builder/, inetsix-config-builder, 0.2, Tool to render JINJA2 templates, 2019-08-26T12:18:12+0000
+/project/movie-blog-search-engine/, movie-blog-search-engine, 0.5, Search on movie-blog for download links, 2020-10-21T07:27:32+0000
+/project/deepmage/, deepmage, 0.2.1, Hex editor for bit-level occultism, 2018-07-28T10:02:41+0000
+/project/pyeupi/, pyeupi, 1.1, Python API for the European Union anti-phishing initiative., 2020-06-09T12:42:59+0000
+/project/nwkautomaniac/, nwkautomaniac, 0.0.2, network automation utility library from @nwkautomanic, 2015-02-21T17:40:33+0000
+/project/fmspy/, fmspy, 0.1.0, Flash Media Server in Python using Twisted Framework, 2009-05-30T15:16:35+0000
+/project/flow-models/, flow-models, 1.1, A framework for analysis and modeling of IP network flows, 2021-01-15T23:24:24+0000
+/project/structures/, structures, 0.9.5, Declarative binary building and parsing: simple, fast and extensible, 2018-02-21T17:16:29+0000
+/project/archipel-agent-virtualmachine-oomkiller/, archipel-agent-virtualmachine-oomkiller, 0.6.0beta, Manage OOM Killer prevention, 2013-03-21T01:24:36+0000
+/project/chatty/, Chatty, 0.2, A multi-platform chat bot framework, 2018-05-31T01:29:39+0000
+/project/digi-xbee/, digi-xbee, 1.4.0, Digi XBee Python library, 2021-03-18T17:52:11+0000
+/project/monk-tf/, monk_tf, 0.17.8, regression test scripting framework for embedded systems developers, 2015-12-10T11:21:36+0000
+/project/traixroute/, traixroute, 2.3, A tool that detects at which hop in a traceroute path an IXP fabric has been crossed., 2018-04-04T12:14:00+0000
+/project/autogluon/, autogluon, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:07:04+0000
+/project/pygnmi/, pygnmi, 0.4.6, This repository contains pure Python implementation of the gNMI client to interact with the network functions., 2021-04-25T23:17:35+0000
+/project/opencnam/, opencnam, 0.7, A simple python library for getting caller ID name information using the opencnam API., 2020-04-27T18:47:26+0000
+/project/pynetdot/, pynetdot, 1.5.1, Python client for netdot REST API, 2018-06-25T13:59:28+0000
+/project/archipel-agent-action-scheduler/, archipel-agent-action-scheduler, 0.6.0beta, Creation and management of planified tasks for hypervisors and virtual machines, 2013-03-21T01:25:16+0000
+/project/pyats-connections/, pyats.connections, 21.3, pyATS Connection: Device Connection Handling & Base Classes, 2021-03-31T19:06:45+0000
+/project/smspdudecoder/, smspdudecoder, 1.2.2, Python SMS PDU Decoder, 2019-07-22T08:42:46+0000
+/project/subnetviz/, Subnetviz, 0.4, Hierarchal IP subnet visualization, 2010-02-06T07:03:11+0000
+/project/aiobfd/, aiobfd, 0.2, Asynchronous BFD Daemon, 2017-10-13T12:07:35+0000
+/project/astersay/, astersay, 0.8.2, This is a Python library for Asterisk to work with Yandex voice models., 2021-02-15T02:44:49+0000
+/project/kvmd/, kvmd, 0.10, The main Pi-KVM daemon, 2018-07-07T23:40:43+0000
+/project/netnir/, netnir, 0.0.20, a modular cli utility built around nornir., 2020-08-12T15:34:31+0000
+/project/pyasn1-modules/, pyasn1-modules, 0.2.8, A collection of ASN.1-based protocols modules., 2020-01-09T17:23:45+0000
+/project/wools/, wools, 0.1.dev103, ADVA-Certified Alpakka Wools, 2018-11-19T13:57:10+0000
+/project/mqttwarn/, mqttwarn, 0.20.0, mqttwarn - subscribe to MQTT topics and notify pluggable services, 2020-10-20T09:57:08+0000
+/project/pylink-satcom/, pylink-satcom, 0.9, Python Link Budget System, 2020-09-20T03:32:11+0000
+/project/hier-config/, hier-config, 2.0.0, A network configuration comparison tool, used to build remediation configurations., 2020-12-10T16:18:08+0000
+/project/pytelemetrycli/, pytelemetrycli, 1.1.0, command-line interface for data visualization and communication with embedded devices, 2016-03-23T21:07:17+0000
+/project/genie-libs-conf/, genie.libs.conf, 21.3, Genie libs Conf: Libraries to configures topology through Python object attributes, 2021-03-31T19:01:53+0000
+/project/janus-cloud/, janus-cloud, 0.5.0, Janus-cloud is a cluster solution for Janus WebRTC server, by API proxy approach, 2021-02-16T07:34:34+0000
+/project/alerta/, alerta, 8.5.0, Alerta unified command-line tool and SDK, 2021-04-18T20:09:05+0000
+/project/freepbx-bulk-handler/, freepbx-bulk-handler, 0.61, Assist administrators of FreePBX systems when they need to use the Bulk Handler module, 2019-04-19T23:44:48+0000
+/project/ciscosparkapi/, ciscosparkapi, 0.10.1, Simple, lightweight, scalable Python API wrapper for the Cisco Spark APIs, 2019-01-03T07:04:43+0000
+/project/musiclegacy/, musicLegacy, 0.1.dev13, Yet another music package using the MASS (Music and Audio in Sample Sequences) framework, 2019-05-11T20:12:24+0000
+/project/inmantals/, inmantals, 1.0.1, Inmanta Language Server, 2020-11-27T10:37:10+0000
+/project/ketama/, ketama, 0.1.1, Python bindings for Ketama consistent hash library, 2020-01-27T18:41:28+0000
+/project/python-sudeste/, python_sudeste, 0.1.8, Módulo informativo do evento: PythonSudeste 2018, 2018-03-03T16:10:09+0000
+/project/pmacct-to-elasticsearch/, pmacct-to-elasticsearch, 0.3.2, A Python script designed to read output from pmacct daemons, to process it and to store it into ElasticSearch., 2019-10-01T07:00:52+0000
+/project/genie-libs-parser/, genie.libs.parser, 21.3, Genie libs Parser: Genie Parser Libraries, 2021-03-31T19:02:10+0000
+/project/simplesoapy/, SimpleSoapy, 1.5.1, Simple pythonic wrapper for SoapySDR library, 2017-04-27T15:32:41+0000
+/project/gnpy/, gnpy, 2.2.0, Route planning and optimization tool for mesh optical networks, 2020-06-18T10:55:58+0000
+/project/pycloner/, pycloner, 0.1.0, pycloner is a package that tries to help in the process of manually crawling a website., 2017-07-04T13:30:24+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/mapsnap/, mapsnap, 1.0.1, Apple Maps Web Snapshots on Python, 2020-09-08T01:08:56+0000
+/project/genie-predcore/, genie.predcore, 19.12, Package that provides predicate testing classes for pyATS, 2019-12-17T19:54:56+0000
+/project/neuraxle-tensorflow/, neuraxle-tensorflow, 0.1.2, TensorFlow steps, savers, and utilities for Neuraxle. Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2020-09-07T00:45:38+0000
+/project/ax-metrics/, Ax_Metrics, 0.9.2, "BI Glue" Business Intelligence middleware library for aggregation of metrics/KPI from any source and custom reporting for humans or other APIs, 2015-01-09T01:17:25+0000
+/project/newhope-cffi/, newhope-cffi, 0.0.2, Tested, cross-platform Python 3 bindings for the NewHope key exchange mechanism supporting both NewHope1024-CPA-KEM and NewHope1024-CCA-KEM., 2020-05-02T15:09:06+0000
+/project/sublist3r-lib/, Sublist3r-lib, 1.0.1, Subdomains enumeration tool for penetration testers, 2021-02-01T15:38:03+0000
+/project/oauth2-lib/, oauth2-lib, 1.0.2, This is the SURF Oauth2 module that interfaces with the oauth2 setup., 2021-03-23T13:18:31+0000
+/project/pymessagelib/, pymessagelib, 0.2.7, Give structure to hexadecimal messages., 2021-03-22T14:18:58+0000
+/project/pysnmp/, pysnmp, 4.4.12, SNMP library for Python, 2019-09-24T16:28:57+0000
+/project/mlrsearch/, MLRsearch, 0.4.0, Library for speeding up binary search using shorter measurements., 2021-04-01T16:05:26+0000
+/project/paretochart/, paretochart, 1.0, Pareto chart for python (similar to Matlab's, but much more flexible), 2013-09-05T20:14:19+0000
+/project/ipasn-web/, ipasn-web, 1.0, Library to access the IP ASN History REST API., 2014-01-16T16:28:42+0000
+/project/copper/, copper, 0.9.1, Module for interacting with electromechanical systems., 2019-08-20T06:43:09+0000
+/project/autogluon-tabular/, autogluon.tabular, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:47+0000
+/project/enderturing/, enderturing, 0.3.0, Python SDK for EnderTuring speech toolkit, 2021-04-21T21:37:25+0000
+/project/weatheralerts/, WeatherAlerts, 0.5.0, Parse the National Weather Service Emergency Alerts Feed (NWS CAP format), do useful stuff with it, 2017-03-28T04:13:09+0000
+/project/deepify/, deepify, 0.3.2, Deepify - A set of GPLv3+ libraries to deal with Deepweb connections., 2016-03-17T07:30:45+0000
+/project/archipel-agent-hypervisor-network/, archipel-agent-hypervisor-network, 0.6.0beta, Manage libvirt networks, 2013-03-21T01:25:13+0000
+/project/qs-vod-metadata/, qs_vod_metadata, 0.1.0, CableLabs VOD Metadata 1.1 library and tools, 2016-05-31T14:58:19+0000
+/project/pyangbind-brcd/, pyangbind-brcd, 0.6.14, PyangBind is a plugin for pyang which converts YANG datamodels into a Python class hierarchy, such that Python can be used to manipulate data that conforms with a YANG model., 2017-08-28T13:59:45+0000
+/project/xmpppy/, xmpppy, 0.6.2, XMPP implementation in Python, 2020-11-12T21:07:07+0000
+/project/smpplib/, smpplib, 2.1.0, SMPP library for python, 2020-03-10T19:25:49+0000
+/project/freq-table/, freq-table, 0.2.2, Make printable tables using http://radioscanner.ru frequency db, 2019-07-24T08:24:30+0000
+/project/archipel-agent-hypervisor-platformrequest/, archipel-agent-hypervisor-platformrequest, 0.6.0beta, Manage platform wide operation requests, 2013-03-21T01:24:43+0000
+/project/clicol-plugin-aspath/, clicol-plugin-aspath, 0.0.2, CLI colorizer - aspath plugin, 2020-02-16T11:03:01+0000
+/project/cron-wrapper/, cron-wrapper, 0.1.0, A cron job wrapper to add some missing features (locks, timeouts, random sleeps, env loading..., 2021-02-12T09:37:34+0000
+/project/pyagentx/, pyagentx, 0.4.1, AgentX package to extend SNMP with pure Python, 2015-06-30T11:06:42+0000
+/project/nwa-stdlib/, nwa-stdlib, 1.2.0, The NWA-stdlib module., 2021-04-06T12:05:22+0000
+/project/wgmgr/, wgmgr, 0.1.1, Easily manage wireguard configs., 2021-02-24T16:36:48+0000
+/project/archipel-core/, archipel-core, 0.6.0beta, Base framework of Archipel., 2013-03-21T01:25:10+0000
+/project/iterm2magic/, iterm2magic, 0.1.0, t is for terminal. iTerm2 automated configuration, 2020-03-29T22:21:43+0000
+/project/pymispwarninglists/, pymispwarninglists, 1.2, Python API for the MISP warning lists., 2021-01-21T14:26:51+0000
+/project/pisa/, pisa, 3.0.33, PDF generator using HTML and CSS, 2010-06-16T14:09:56+0000
+/project/ssbench/, ssbench, 0.3.9, SwiftStack Swift Benchmarking Suite, 2016-03-23T22:30:02+0000
+/project/ska-encryption/, ska-encryption, 1.1, Symmetric-key algorithms., 2014-09-04T11:30:58+0000
+/project/attila/, attila, 1.2.0, Python module to communicate easily with modems and RF modules using AT commands, 2020-05-30T15:49:28+0000
+/project/genie-libs-filetransferutils/, genie.libs.filetransferutils, 21.3, Genie libs FileTransferUtils: Genie FileTransferUtils Libraries, 2021-03-31T19:01:55+0000
+/project/snmpreceiver/, snmpreceiver, 0.0.0, SNMP Notification Receiver., 2019-01-16T09:05:28+0000
+/project/vc2-bit-widths/, vc2-bit-widths, 1.0.0, Software for computing required bit widths for implementations of the SMPTE ST 2042-1 VC-2 professional video codec., 2021-03-24T10:40:40+0000
+/project/modbussharedmemory/, ModbusSharedMemory, 0.1.1, Shared memory concept known from PLC manner implemented over uModbus framework., 2019-05-23T16:09:00+0000
+/project/avbroadcast/, avbroadcast, 0.8.0, avbroadcast - republish media streams for mass consumption, 2019-03-25T11:12:59+0000
+/project/arubaapi/, arubaapi, 0.1.3, Returns command results from ArubaOS HTTP API, 2019-10-11T21:03:04+0000
+/project/plivo/, plivo, 4.16.0, A Python SDK to make voice calls & send SMS using Plivo and to generate Plivo XML, 2021-04-19T15:12:42+0000
+/project/pytijo/, pytijo, 0.0.2, Structure semi-structured text, 2019-10-06T19:57:13+0000
+/project/dnacentercli/, dnacentercli, 2.0.0, Community-developed Python CLI companion for the DNA Center SDK, 2020-07-17T22:13:34+0000
+/project/wgadmin/, wgadmin, 0.2.0, , 2020-08-10T13:39:26+0000
+/project/ciscoconfparse/, ciscoconfparse, 1.5.30, Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations, 2021-03-01T23:36:49+0000
+/project/genie-webdriver/, genie.webdriver, 21.3, A collection of tools and base classes intended to simplify and standardize how automation engineers develop Selenium based libraries, 2021-03-31T19:02:23+0000
+/project/arouteserver/, arouteserver, 1.5.1, A Python tool to automatically build (and test) configurations for BGP route servers., 2021-04-24T14:00:49+0000
+/project/gwmp/, gwmp, 0.0.1, Parser for GWMP messages used in LoRa and LoRaWAN networks, 2020-11-08T12:31:41+0000
+/project/ace-api/, ace-api, 1.0.6, Analysis Correlation Engine (ACE) API Python Bindings., 2019-03-07T18:27:29+0000
+/project/psynth/, psynth, 0.1.3, The official open-source Python library for generating graphs in Psymphonic Psynth., 2015-05-26T15:56:56+0000
+/project/pygnmi/, pygnmi, 0.4.6, This repository contains pure Python implementation of the gNMI client to interact with the network functions., 2021-04-25T23:17:35+0000
+/project/pyqalx/, pyqalx, 0.14.2, High-level interfaces to the qalx API, 2020-11-10T16:44:12+0000
+/project/pingo/, pingo, 0.2.0, Generic API to control boards with programmable IO pins., 2014-08-13T02:07:19+0000
+/project/afilnet/, afilnet, 1.0.1, This package is an easy way to use send sms, email and voice(texto-to-speech) using Afilnet services, 2016-07-01T16:58:32+0000
+/project/hamcode/, hamcode, 0.1.0, True implementation of Hamming Code on Python, 2021-01-12T12:00:12+0000
+/project/env2/, env2, 0.0.0, os.environ on steroids, 2017-11-10T20:41:58+0000
+/project/orchestrator-core/, orchestrator-core, 0.0.12, This is the orchestrator workflow engine., 2021-04-08T10:41:15+0000
+/project/inqbus-tagging/, inqbus.tagging, 1.0.6, Auto tagging for Plone, 2016-04-11T09:20:12+0000
+/project/connvitals/, connvitals, 4.3.2, Checks a machines connection to a specific host or list of hosts, 2018-08-30T16:22:18+0000
+/project/bullseye/, bullseye, 0.1.1, laser beam profiler, 2012-03-05T00:15:40+0000
+/project/romkan/, romkan, 0.2.1, A Romaji/Kana conversion library, 2013-02-26T14:44:13+0000
+/project/autogluon-text/, autogluon.text, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:58+0000
+/project/autonetkit/, autonetkit, 0.11.2, Automatic configuration generation for emulated networks, 2014-11-27T07:31:14+0000
+/project/usresmonitor/, usresmonitor, 0.1.1, A library to get unique smallest routable entries from a set of IP prefixes., 2017-07-07T17:25:12+0000
+/project/py-lookingglass/, py-lookingglass, 1.01, Python looking glass WSGI implementation, 2015-09-02T13:36:31+0000
+/project/openpgppy/, OpenPGPpy, 0.4, OpenPGP smartcard communication library, 2021-03-07T18:13:50+0000
+/project/spectrum/, spectrum, 0.8.0, Spectrum Analysis Tools, 2020-11-22T20:07:43+0000
+/project/proxyhttpserver/, ProxyHTTPServer, 0.0.1, ProxyHTTPServer -- from the creator of PyWebRun, 2007-11-24T16:32:21+0000
+/project/tcpliveplot/, tcpliveplot, 0.2.7, Realtime-visualization of TCP flows logged by TCPlog., 2016-11-04T14:50:44+0000
+/project/avayaersconnect/, AvayaERSConnect, 1.0.0, AvayaERSConnect’s main purpose is to connect to any Avaya ERS Device via Telnet and perform various administration operations easily, without the need to write any Python code at all., 2016-01-28T14:20:43+0000
+/project/genie-libs-clean/, genie.libs.clean, 21.3, Genie Library for device clean support, 2021-03-31T19:01:50+0000
+/project/pyats-image-builder/, pyats-image-builder, 20.9, pyATS Docker image creation, 2020-10-13T20:02:07+0000
+/project/ffptutils/, ffptutils, 0.1.1, a python library that reads and writes Spirent iTest ParameterTree (.ffpt) files, 2021-04-01T04:20:20+0000
+/project/netcli/, netcli, 0.0.10, The CLI that doesn't impose you any language, 2019-03-06T18:45:26+0000
+/project/citellus/, citellus, 1.3.3.20210421115858, Utility for running set of tests against a Live System or a snapshot/sosreport, 2021-04-21T11:59:03+0000
+/project/usbinfo/, usbinfo, 1.1.1, Module for introspecting USB devices on a system, 2018-11-20T00:24:48+0000
+/project/pyjazz/, pyjazz, 0.2.1.99, Official Python client for Jazz, 2018-03-11T21:19:35+0000
+/project/pyalgdat/, PyAlgDat, 1.0.2, Various data structures and algorithms., 2016-09-01T03:00:40+0000
+/project/ydata-synthetic/, ydata-synthetic, 0.2.3, Synthetic data generation methods with different synthetization methods., 2021-03-24T18:44:35+0000
+/project/tmonk/, tmonk, 0.1.2, thesis build of DFE's MONK, 2014-02-08T22:19:19+0000
+/project/wandb-summarizer/, wandb-summarizer, 0.1.2, A tiny CSV export micro-library for Weights and Biases., 2019-08-22T23:46:01+0000
+/project/freezer-api/, freezer-api, 10.0.0, OpenStack Backup and Restore API Service, 2021-04-14T11:04:23+0000
+/project/frog-croak/, frog-croak, 1.1, Internet connection speed and monitor tool., 2014-09-19T19:04:06+0000
+/project/clx-sdk-xms/, clx-sdk-xms, 1.0.0, Library for CLX Communications HTTP REST Messaging API, 2017-01-23T15:57:58+0000
+/project/pyats-reporter/, pyats.reporter, 21.3, pyATS Reporter: Result Collection and Reporting, 2021-03-31T19:15:42+0000
+/project/genie-metaparser/, genie.metaparser, 19.12, Genie Library for automation Parser support, 2019-12-17T19:51:49+0000
+/project/unified2/, unified2, 15.8.2, unified2 IDS binary log format parser, 2015-08-16T21:23:27+0000
+/project/commonfate/, commonfate, 0.1.3, Common Fate Transform and Model, 2016-03-24T09:10:09+0000
+/project/strup/, strup, 1.0.0, A package for unpacking int, float, string and bool objects from a text string., 2020-10-24T13:10:48+0000
+/project/sltoo/, sltoo, 25.0.4, rmtoo, 2020-12-21T21:20:08+0000
+/project/webexteamsarchiver/, webexteamsarchiver, 0.11.0, Room archiver utility for Webex Teams, 2020-08-20T00:33:03+0000
+/project/pylfsr/, pylfsr, 1.0.5, Linear Feedback Shift Register, 2021-04-21T08:12:08+0000
+/project/zirkus/, zirkus, 0.0.1, federated blog platform, 2018-05-17T11:35:37+0000
+/project/inetsix/, inetsix, 0.0.5, Tools & Python function from inetsix., 2020-03-08T10:58:00+0000
+/project/ocio-lut-prescription/, ocio-lut-prescription, 1.1.0, GUI wrapper of ociobakelut command., 2021-01-14T14:47:47+0000
+/project/blocklistsaggregator/, blocklistsaggregator, 0.5.1, A Python tool that downloads IP block lists from various sources and builds configurations for network equipments and firewalls., 2016-12-27T18:13:12+0000
+/project/cause-effect/, cause-effect, 0.2.0, A library for cause-effect relationships., 2016-10-20T23:20:42+0000
+/project/msgapi/, msgapi, 1.0.0, A library and cli tool for interfacing with Microsoft's Graph API., 2020-04-23T19:34:49+0000
+/project/exoedge/, exoedge, 21.1.18, ExoEdge is the Python library for interacting with Exosite's ExoSense Industrial IoT Solution., 2021-01-18T16:18:53+0000
+/project/scrapysplashwrapper/, scrapysplashwrapper, 1.5.0, Scrapy splash wrapper as a standalone library., 2021-04-02T13:08:05+0000
+/project/snmpdiscoverer/, snmpdiscoverer, 0.0.0, SNMP SNMP Discoverer., 2019-01-16T09:37:17+0000
+/project/py-aspsms/, py-aspsms, 0.1.4, py-aspsms: Python interface to the aspsms.com services, 2008-09-04T22:33:26+0000
+/project/genie-harness/, genie.harness, 19.12, Genie Harness: Event driven testing into the pyATS framework, 2019-12-17T19:49:28+0000
+/project/python3-smpplib/, python3-smpplib, 1.0.22, SMPP library for python (fork https://github.com/podshumok/python-smpplib, 2017-07-12T06:24:33+0000
+/project/doublify-toolkit/, doublify-toolkit, 0.5.2, Doublify API toolkit for Python, 2017-04-13T23:12:00+0000
+/project/pyst2/, pyst2, 0.5.1, A Python Interface to Asterisk, 2019-08-07T14:41:25+0000
+/project/jaidegui/, jaidegui, 1.0.0, A graphical tool for manipulating Junos devices., 2015-04-13T23:54:29+0000
+/project/aiengine/, aiengine, 1.6.1, AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine, 2016-10-04T21:03:46+0000
+/project/galois/, galois, 0.0.13, A performant numpy extension for Galois fields, 2021-04-23T16:40:52+0000
+/project/calpack/, calpack, 2018.6.0, Packets in Python made Simple, 2018-06-19T14:54:08+0000
+/project/telephonie/, telephonie, 0.3.1, Telephonie framework, 2011-04-08T15:53:23+0000
+/project/colorweave/, colorweave, 0.3.2, Extract dominant colors from an image as a color palette, 2015-04-09T10:48:47+0000
+/project/asynqp/, asynqp, 0.6, An AMQP (aka RabbitMQ) client library for asyncio., 2019-01-20T21:56:19+0000
+/project/ossi-tool/, ossi-tool, 0.3.3.6, Tool to creact CSV output from Avaya Communcation Manager commands., 2020-04-07T12:26:54+0000
+/project/nprintml/, nprintml, 0.1.0, Fully automated traffic analysis with nPrint, 2021-04-13T21:01:31+0000
+/project/pybombs/, PyBOMBS, 2.3.4, A meta-package manager to install software from source, or whatever the local package manager is. Designed for easy install of source trees for the GNU Radio project., 2020-09-04T21:46:46+0000
+/project/pyats-results/, pyats.results, 21.3, pyATS Results: Representing Results using Objects, 2021-03-31T19:16:32+0000
+/project/callerlib/, callerlib, 0.1.2, A sip caller robotframework library., 2016-04-29T21:24:55+0000
+/project/archipel-agent/, archipel-agent, 0.6.0beta, The hypervisor's agent part of Archipel, 2013-03-21T01:25:06+0000
+/project/misp-maltego/, MISP-maltego, 1.4.6, , 2020-07-04T17:39:21+0000
+/project/fping/, fping, 0.0.1a2, A python library to extend fping, 2016-06-04T21:52:46+0000
+/project/yangsuite/, yangsuite, 2.7.10, YANG Suite core application., 2021-02-11T21:32:51+0000
+/project/forked-auditok-split-without-data/, forked-auditok-split-without-data, 0.2.0a0, A module for Audio/Acoustic Activity Detection, 2020-03-23T13:10:25+0000
+/project/archipel-agent-vmcasting/, archipel-agent-vmcasting, 0.6.0beta, Manage all stuff about vmcasting, 2013-03-21T01:24:53+0000
+/project/dataq/, dataq, 0.0.dev5, Manage data-queue with associated Action on pop, 2015-02-18T19:51:29+0000
+/project/trparse/, trparse, 0.3.0, Traceroute parser, 2019-05-26T16:38:05+0000
+/project/authentic2/, authentic2, 2.1.20, Authentic 2, a versatile identity management server, 2015-05-26T15:03:02+0000
+/project/pycmc/, pycmc, 0.0.11, A Python client for the chartmetric.com API, by Musicfox., 2020-12-04T22:41:24+0000
+/project/satnogsclient/, satnogsclient, 0.9.1, SatNOGS Client, 2019-09-14T10:16:27+0000
+/project/peng3dnet/, peng3dnet, 0.1.3a0, Networking Library for Peng3d, 2020-04-07T21:09:54+0000
+/project/cable-modem-stats/, cable-modem-stats, 0.1, Pull stats from compatible cable modem's web interfaces to monitor SNR, Power, etc., 2016-11-17T00:20:57+0000
+/project/pyats-utils/, pyats.utils, 21.3, pyATS Utils: Utilities Module, 2021-03-31T19:18:37+0000
+/project/vc2-quantisation-matrices/, vc2-quantisation-matrices, 1.0.0, Routines for computing quantisation matrices for the SMPTE ST 2042-2 VC-2 professional video codec., 2021-03-24T11:02:06+0000
+/project/chickadee/, chickadee, 20210314.1, Yet another GeoIP resolution tool., 2021-03-14T16:01:37+0000
+/project/deprecator/, deprecator, 0.3, Deprecator provides a decorator to easily depreate old code., 2015-06-03T17:36:13+0000
+/project/musdb/, musdb, 0.4.0, Python parser for the SIGSEP MUSDB18 dataset, 2021-01-31T08:32:58+0000
+/project/phpipam-scraper/, phpIPAM-Scraper, 1.1.2, A python library to retrieve device IPs from a PHPipam installation, 2016-12-13T19:30:54+0000
+/project/mijnsimpel/, MijnSimpel, 0.5, Python Client to Mijn Simpel, 2020-09-17T00:46:53+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/kotori/, kotori, 0.26.6, Kotori is a data acquisition, processing and graphing toolkit for humans, 2021-02-17T14:53:25+0000
+/project/scopedconfig/, scopedconfig, 0.0.0, Hierarchical configuration for Python packages, 2019-03-17T18:18:57+0000
+/project/pysmi/, pysmi, 0.3.4, SNMP SMI/MIB Parser, 2019-04-14T10:05:51+0000
+/project/baruwa/, baruwa, 2.0.9, Ajax enabled MailScanner web frontend, 2015-08-29T09:50:59+0000
+/project/genie-trafficgen/, genie.trafficgen, 21.3, Genie Library for traffic generator connection support, 2021-03-31T19:02:21+0000
+/project/cisco-decrypt/, cisco_decrypt, 0.8.3, decrypt Cisco Type 7 passwords, 2007-08-02T10:54:02+0000
+/project/python-can/, python-can, 3.3.4, Controller Area Network interface module for Python, 2020-10-04T20:06:20+0000
+/project/s3mpython/, S3MPython, 3.1.0.4, Python implementation of the S3Model https://datainsights.tech/S3Model/ specifications version: 3.1.0, 2018-11-24T13:04:43+0000
+/project/pycvesearch/, pycvesearch, 1.0.1, Python API for CVE search., 2020-04-08T14:46:51+0000
+/project/django-pki/, django-pki, 0.20.0, A PKI based on the Django admin, 2011-03-11T10:58:04+0000
+/project/tcconfig/, tcconfig, 0.26.0, tcconfig is a tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth)., 2020-07-25T06:34:08+0000
+/project/jaide/, jaide, 2.0.0, A library and CLI tool for manipulating Junos devices., 2015-04-13T22:55:17+0000
+/project/vymgmt/, vymgmt, 0.1, A library for managing VyOS routers over SSH, 2016-09-06T10:29:40+0000
+/project/offshore/, offshore, 0.2.0, Simple, ergonomic data persistence for Python., 2021-02-05T01:26:49+0000
+/project/daflsim/, daflsim, 1.0.0.dev1, Simulate a data-flow described by a graphviz diagram, 2014-10-06T17:45:48+0000
+/project/netcalc/, netcalc, 0.6.2, Advanced network calculator and address planning helper, 2017-05-10T20:26:49+0000
+/project/aqopa/, AQoPA, 0.9.5, Automated Quality of Protection Analysis Tool for QoP-ML models., 2016-02-09T17:06:06+0000
+/project/pyst/, pyst, 0.8, A Python Interface to Asterisk, 2020-12-04T10:42:35+0000
+/project/h2o/, h2o, 3.32.1.1, H2O, Fast Scalable Machine Learning, for python, 2021-03-25T20:43:28+0000
+/project/midonetclient/, midonetclient, 5.2.0, Midonet API client library for Python applications, 2016-07-08T14:12:27+0000
+/project/satnogs-config/, satnogs-config, 0.11, SatNOGS configuration utility, 2020-10-07T11:09:14+0000
+/project/findssh/, findssh, 1.5.0, find open servers on your IPv4 subnet, e.g. SSH, 2020-10-01T12:42:56+0000
+/project/ricxappframe/, ricxappframe, 1.6.0, Xapp and RMR framework for Python, 2020-11-09T19:17:13+0000
+/project/pyats-kleenex/, pyats.kleenex, 21.3, pyATS Kleenex: Testbed Preparation, Clean & Finalization, 2021-03-31T19:09:18+0000
+/project/vietnam-provinces/, vietnam-provinces, 0.3.0, Library to provide list of Vietnam administrative divisions (tỉnh thành, quận huyện, phường xã)., 2021-02-03T10:49:55+0000
+/project/stanmo/, stanmo, 0.2, Execution engine for standard business learning models., 2016-01-06T03:27:00+0000
+/project/py3textmagicsms/, Py3TextMagicSMS, 0.2, TextMagic SMS API, 2015-12-15T19:08:53+0000
+/project/elm327-emulator/, ELM327-emulator, 2.1.0, ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter, 2021-03-28T11:49:49+0000
+/project/random-pesel/, random-pesel, 1.0, Random PESEL number generator, 2020-03-13T15:53:50+0000
+/project/python-samsung-mdc/, python-samsung-mdc, 1.2.0, Samsung Multiple Display Control (MDC) protocol implementation (asyncio library + CLI interface), 2021-03-28T19:41:58+0000
+/project/topzootools/, topzootools, 0.3.18, Processing and conversion tools for Internet Topology Zoo, 2011-09-09T05:03:00+0000
+/project/drcontrol/, drcontrol, 0.14, Control Denkovi USB Relay Boards, 2020-11-22T19:37:40+0000
+/project/prefix-list-agent/, prefix-list-agent, 0.1.1, An EOS agent to dynamically update IRR based prefix-lists, 2019-11-19T23:35:43+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/ncdiff/, ncdiff, 20.10, A config state diff calculator for NETCONF, 2020-11-12T17:47:08+0000
+/project/qspectrumanalyzer/, QSpectrumAnalyzer, 2.1.0, Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, rx_power, rtl_power, hackrf_sweep and other backends), 2017-03-21T16:48:20+0000
+/project/siphash-cffi/, siphash-cffi, 0.1.4, Tested, performant SipHash bindings for Python 3 with support for double-output-size, half-word and variable-round variants., 2020-05-03T00:33:02+0000
+/project/pyvinecopulib/, pyvinecopulib, 0.5.5, A python interface to vinecopulib, 2020-11-24T08:25:20+0000
+/project/junos-netconify/, junos-netconify, 1.0.2, Junos console/bootstrap automation, 2016-02-08T07:04:46+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/mprofi-api-client/, mprofi_api_client, 0.1.3, Python Client library for mProfi REST API, 2015-06-09T09:30:26+0000
+/project/pysanejs/, pysanejs, 1.4, Python client for SaneJS, 2020-12-03T23:30:00+0000
+/project/modem-cmd/, modem-cmd, 1.0.2, Send arbitrary AT commands to your modem, 2017-07-20T02:39:42+0000
+/project/genie-conf/, genie.conf, 19.12, Genie Conf: Configures topology through Python object attributes, 2019-12-17T19:47:49+0000
+/project/zms3/, ZMS3, 3.3.3, ZMS: Simplified Content Modelling, 2017-01-04T21:22:30+0000
+/project/progettihwsw/, ProgettiHWSW, 0.1.1, Controls ProgettiHWSW relay boards., 2020-08-29T16:53:43+0000
+/project/mailme/, MailMe, 1.1.0, Send e-mails with python., 2018-11-19T20:31:17+0000
+/project/autogluon-features/, autogluon.features, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:44+0000
+/project/netconf-client/, netconf-client, 1.7.2, A Python NETCONF client, 2021-02-17T14:53:25+0000
+/project/monkeysign/, monkeysign, 2.2.4, OpenPGP key exchange for humans, 2018-06-18T17:27:52+0000
+/project/ricsdl/, ricsdl, 2.1.1, Shared Data Layer (SDL) provides a high-speed interface to access shared storage, 2021-03-23T07:22:03+0000
+/project/stempeg/, stempeg, 0.2.3, Read and write stem/multistream audio files, 2021-01-30T14:54:56+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/autogluon-vision/, autogluon.vision, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:07:01+0000
+/project/sine/, Sine, 0.3.0, Divmod Sine is a standards-based voice-over-IP application server,        built as an offering for the Mantissa application server platform., 2009-11-29T19:14:08+0000
+/project/genie-libs-ops/, genie.libs.ops, 21.3, Genie libs Ops: Libraries to retrieve operational state of the topology, 2021-03-31T19:02:01+0000
+/project/tempest-nfv-plugin/, tempest-nfv-plugin, 1.26.1.dev2, Tempest plugin for testing NFV, 2020-12-10T07:47:36+0000
+/project/aeon-venos/, aeon-venos, 0.9.18, Aeon vendor NOS driver library, 2018-04-06T17:52:47+0000
+/project/genie-libs-robot/, genie.libs.robot, 21.3, Genie libs Robot: RobotFramework libraries to interact with Genie, 2021-03-31T19:02:12+0000
+/project/sztpd/, sztpd, 0.0.10, Secure Zero Touch Provisioning Daemon (SZTPD), 2021-02-24T23:10:06+0000
+/project/httxlib/, HttxLib, 1.0.4, HTTP(s) Library, 2015-11-04T14:56:55+0000
+/project/archipel-agent-hypervisor-geolocalization/, archipel-agent-hypervisor-geolocalization, 0.6.0beta, Make hypervisor able to locate themselves in the world, 2013-03-21T01:25:47+0000
+/project/netcidr/, NetCIDR, 0.0.4, Object representations, operations and logic for hosts, networks, and collections of networks., 2008-01-11T04:56:02+0000
+/project/yawrap/, yawrap, 0.4.10, simple generator of complex html reports, 2020-01-30T09:53:46+0000
+/project/intelmq-webinput-csv/, intelmq-webinput-csv, 0.2.0, This is a Flask-based web interface allowing the user to insert data into intelmq's pipelines interactively with preview from the parser., 2020-01-17T15:33:35+0000
+/project/genie/, genie, 21.3.1, Genie: THE standard pyATS Library System, 2021-04-08T21:36:40+0000
+/project/simpletr64/, simpleTR64, 1.0.6, An easy to use UPnP TR64 protocol library, 2016-01-24T08:18:59+0000
+/project/mdct/, mdct, 0.4, A fast MDCT implementation using SciPy and FFTs, 2016-05-23T14:25:31+0000
+/project/osrframework-server/, osrframework-server, 0.18.0a4, OSRFramework Server - A HTTP server writen in Python to interact with OSRFramework., 2017-12-03T18:32:46+0000
+/project/cotopaxi/, cotopaxi, 1.5.2, Set of tools for security testing of Internet of Things devices using specific network protocols., 2021-03-21T18:40:45+0000
+/project/cardify/, cardify, 0.1.0, Cardify - A set of GPLv3+ libraries to deal with carding information., 2016-03-19T17:11:39+0000
+/project/pylink/, PyLink, 0.3.3, Universal communication interface using File-Like API, 2017-11-29T08:54:12+0000
+/project/quasardb/, quasardb, 3.9.8, Python API for quasardb, 2021-03-26T12:21:12+0000
+/project/inmanta-core/, inmanta-core, 5.0.0, Inmanta deployment tool, 2021-03-17T08:42:29+0000
+/project/webexteamssdk/, webexteamssdk, 1.6, Community-developed Python SDK for the Webex Teams APIs, 2020-07-13T15:24:11+0000
+/project/channeling/, channeling, 0.0.13, Channeling - a Discord bot., 2020-10-19T11:44:33+0000
+/project/t3cf/, t3cf, 0.0.1, TTCN-3 Code Formatter, 2017-05-29T22:14:19+0000
+/project/mactopeer/, mactopeer, 0.3.0, Automatically fetch MAC/IP address tables (ARP and IPv6 neighbors) from devices and build MAC address to BGP peer ASN mappings., 2017-09-29T16:33:56+0000
+/project/pyfldigi/, pyfldigi, 0.4, Python library to control FLDIGI via XML-RPC, 2017-02-16T05:51:57+0000
+/project/websmscomtoolkit/, WebSmsComToolkit, 1.0.2, Websms.com Toolkit to send SMS messages, 2015-08-31T08:48:11+0000
+/project/linphone4raspberry/, linphone4raspberry, 3.9.0, Linphone package for Python, 2016-03-11T23:49:00+0000
+/project/just-talk/, just-talk, 0.1.3, Python package to use the TOA comms protocol, 2017-12-18T23:36:33+0000
+/project/cidrize/, cidrize, 2.0.0, Cidrize parses IPv4/IPv6 addresses, CIDRs, ranges, and wildcard matches & attempts to return a valid list of IP addresses, 2021-03-31T05:54:36+0000
+/project/infobip-api-python-client/, infobip-api-python-client, 2.3.0, Infobip SMS API client library in Python, 2020-09-07T14:31:57+0000
+/project/terkin-micropython-libraries/, terkin-micropython-libraries, 0.10.0, Terkin MicroPython runtime libraries, 2020-05-22T00:10:27+0000
+/project/nety/, Nety, 1.3.5, Parse, Audit, Query, Build, and Modify Cisco IOS-style configurations, 2019-12-20T06:00:23+0000
+/project/django-switch-config-backup/, django-switch-config-backup, 1.0.2, Backup switch configs, 2020-02-15T20:09:13+0000
+/project/genie-libs-telemetry/, genie.libs.telemetry, 19.12, Genie libs Telemetry: Genie Telemetry Libraries, 2019-12-17T19:51:47+0000
+/project/alerta-server-shakti/, alerta-server-shakti, 8.0.3, Alerta server WSGI application, 2020-09-30T20:29:47+0000
+/project/vod-metadata/, vod_metadata, 2016.1.6, CableLabs VOD Metadata 1.1 library and tools, 2016-01-07T02:58:50+0000
+/project/inmanta/, inmanta, 2021.1, Inmanta deployment tool, 2021-03-17T07:18:09+0000
+/project/satnogs-db/, satnogs-db, 1.23, SatNOGS DB, 2021-03-11T22:13:43+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/snmpsim/, snmpsim, 0.4.7, SNMP Agents simulator, 2019-02-09T16:21:53+0000
+/project/quickcerts/, quickcerts, 1.0.1, Quick and easy X.509 certificate generator for SSL/TLS utilizing local PKI, 2020-08-09T23:38:14+0000
+/project/modulationpy/, ModulationPy, 0.1.8, Baseband Digital Linear Modems, 2020-04-25T07:40:51+0000
+/project/b-rabbit/, b-rabbit, 1.2.1, An abstract interface for RabbitMQ communication, 2020-09-26T11:03:40+0000
+/project/fdroidserver/, fdroidserver, 2.0.1, F-Droid Server Tools, 2021-03-09T17:48:20+0000
+/project/grenml/, grenml, 0.1.6, Library for creating, parsing, and storing GRENML, 2020-10-20T21:11:21+0000
+/project/t3cl/, t3cl, 0.0.1, TTCN-3 Code Linter, 2017-05-29T22:26:28+0000
+/project/inside-out-proxy/, inside-out-proxy, 190126, HTTP Proxy, 2019-01-15T00:20:29+0000
+/project/aiomodbus/, aiomodbus, 0.3.3, Lightweight Modbus library using asyncio, 2020-10-02T06:45:49+0000
+/project/pygobgp/, pygobgp, 0.1.2, Python library to interact GoBGP, 2018-10-26T11:05:18+0000
+/project/pyipmeta/, pyipmeta, 3.1.1, A Python interface to libipmeta, 2020-09-25T20:04:18+0000
+/project/clicol/, clicol, 1.1.5, CLI colorizer, 2020-05-18T18:17:22+0000
+/project/idanalyzer/, idanalyzer, 1.2.2, ID Analyzer API client library, scan and verify global passport, driver license and identification card., 2021-04-16T21:13:36+0000
+/project/ibires/, ibires, 0.2.2, , 2018-09-02T11:58:25+0000
+/project/melina/, melina, 0.1, melina: meta/xml converter, 2017-07-03T16:25:34+0000
+/project/yatxmilter/, yatxmilter, 0.1.1, Twisted protocol to handle Milter Connections in libmilter style, 2014-08-04T13:28:39+0000
+/project/pybgpstream/, pybgpstream, 2.0.2, A Python interface to BGPStream, 2020-05-29T20:51:28+0000
+/project/iceman/, iceman, 0.3.4, A symmetric TLS library written in python, 2018-02-10T09:40:36+0000
+/project/hytera-homebrew-bridge/, hytera-homebrew-bridge, 2021.1, Connect Hytera IPSC repeater to MMDVM system such as HBlink, DMRGateway, 2021-01-01T10:37:40+0000
+/project/rfcs/, rfcs, 1.0.1, rfcs is the complete command-line tool to search and view RFCs., 2016-02-19T23:46:37+0000
+/project/genie-abstract/, genie.abstract, 19.12, Genie Library for automation abstraction support, 2019-12-17T19:47:17+0000
+/project/py-networking/, py-networking, 2014.1.0, Library for network programming and automation, 2014-11-25T13:59:01+0000
+/project/cryptous/, cryptous, 0.0.4, The simplest encryption module for Python :), 2021-04-01T21:05:02+0000
+/project/logstash-python-formatter/, logstash-python-formatter, 0.1.2, Python formatter for working with Logstash json filters., 2019-09-11T08:51:22+0000
+/project/almanach/, almanach, 4.1.0, Stores usage of OpenStack volumes and instances for each tenant, 2017-08-14T17:52:31+0000
+/project/mptcpanalyzer/, mptcpanalyzer, 0.3.2, Analyze mptcp traces (.pcap), 2019-08-08T20:46:14+0000
+/project/thola-snmpsim-data/, thola-snmpsim-data, 0.0.3, SNMP simulation data, 2020-12-30T23:18:54+0000
+/project/rfcat/, rfcat, 1.9.5, the swiss army knife of subGHz, 2021-01-19T14:44:08+0000
+/project/pymisp/, pymisp, 2.4.141.1, Python API for MISP., 2021-04-02T14:38:43+0000
+/project/rmtoo/, rmtoo, 25.0.1, Free and OpenSource Requirements Management Tool, 2020-08-31T13:41:52+0000
+/project/ucp/, ucp, 1.0.0, Python EMI UCP protocol wrapper., 2016-02-18T21:29:39+0000
+/project/cpunetlog/, cpunetlog, 1.1.1, Display, log and plot CPU utilization and network throughput, 2018-03-07T20:40:04+0000
+/project/python-stdnum-do/, python-stdnum-do, 1.14, Python module to handle standardized numbers and codes, 2020-12-11T22:29:22+0000
+/project/macvendor/, macvendor, 1.0.12, A Python Liberary and CLI Tool for Fiding Vendors of MAC Addresses, 2019-12-13T01:07:15+0000
+/project/pysnmp-apps/, pysnmp-apps, 0.5.3, SNMP command-line tools, 2018-01-07T09:17:47+0000
+/project/museval/, museval, 0.4.0, Evaluation tools for the SIGSEP MUS database, 2021-01-31T08:47:34+0000
+/project/manokit/, manokit, 1.2.1, An easy-to-use, purely native email sender, 2021-04-01T12:51:18+0000
+/project/minpubsub/, minpubsub, 0.3, A minimal PubSub messaging model with multiple persistence options - SQLite, MySQL, MongoDB, 2015-04-09T10:36:00+0000
+/project/s2cell/, s2cell, 1.4.0, Minimal Python S2 Geometry cell ID, token and lat/lon conversion library, 2021-01-05T23:02:03+0000
+/project/risu/, risu, 1.0.4.0.20200817095401, Utility for running set of tests against a Live System or a snapshot/sosreport, 2020-08-17T09:54:08+0000
+/project/jitsiprovs/, JitsiProvS, 0.1.0, Jitsi Provisioning Server, 2012-05-09T06:48:28+0000
+/project/pyats-log/, pyats.log, 21.3.1, pyATS Log: Logging Format and Utilities, 2021-04-21T16:38:06+0000
+/project/ip-inspector/, ip-inspector, 0.0.11, A tool for proving intel on IP addresses and enabling detection and response., 2020-07-11T21:16:45+0000
+/project/autogluon-core/, autogluon.core, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:41+0000
+/project/unicon/, unicon, 21.3, Unicon Connection Library, 2021-03-31T19:20:34+0000
+/project/erebo/, erebo, 1.1.23, Erebo is a VPN like a Proxy, 2019-11-05T10:03:35+0000
+/project/audiomodels/, audiomodels, 0.1.dev3, audio models package with semantic features identification, 2019-08-27T19:26:30+0000
+/project/mrtparse/, mrtparse, 2.0.1, MRT format data parser, 2020-11-16T13:11:39+0000
+/project/archipel-agent-xmppserver/, archipel-agent-xmppserver, 0.6.0beta, Can manage Ejabberd Server using XMLRPC module, 2013-03-21T01:24:57+0000
+/project/flent/, flent, 2.0.0, The FLExible Network Tester, 2021-01-14T15:17:42+0000
+/project/luftdatenpumpe/, luftdatenpumpe, 0.20.2, Process live and historical data from luftdaten.info. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into TSDB and RDBMS databases, publish to MQTT or just output as JSON., 2020-01-27T23:14:00+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/purerpc/, purerpc, 0.6.1, Asynchronous pure Python gRPC client and server implementation supporting asyncio, uvloop, curio and trio, 2020-04-13T09:02:54+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/tstat-transport/, tstat_transport, 0.6.5, Tools to send Tstat (TCP STatistic and Analysis Tool) log data to archive servers., 2017-06-22T13:54:30+0000
+/project/fnss/, fnss, 0.9.1, Fast creation and configuration of topologies, traffic matrices and event schedules for network experiments, 2020-10-24T00:23:25+0000
+/project/bl2ru2/, bl2ru2, 0.9, A suricata rule generator, 2017-05-16T07:16:24+0000
+/project/pytelemetry/, pytelemetry, 1.1.9, First class data visualization and communication with embedded devices, 2016-03-20T18:23:23+0000
+/project/onetimepass/, onetimepass, 1.0.1, Module for generating and validating HOTP and TOTP tokens, 2015-07-31T03:05:01+0000
+/project/iosxr-eznc/, iosxr-eznc, 2016.8.25, Python library for Cisco IOS-XR automation via NETCONF, 2016-08-25T16:03:41+0000
+/project/pyst3/, pyst3, 0.4.2, A Python 3.x Interface to Asterisk, 2014-11-21T09:07:49+0000
+/project/thola-snmpsim/, thola-snmpsim, 1.0.0, SNMP Agents simulator, 2020-12-30T23:09:39+0000
+/project/pybrm/, pybrm, 1.0.0, A Python library for Oracle BRM, 2020-02-25T06:55:55+0000
+/project/genie-parsergen/, genie.parsergen, 19.12, Genie Library for parsing both tabular and non-tabular device output, 2019-12-17T19:53:28+0000
+/project/libraptorq/, libraptorq, 18.3.0, Python CFFI bindings for libRaptorQ (RaptorQ RFC6330 FEC implementation)., 2018-03-06T06:51:23+0000
+/project/oonibackend/, oonibackend, 1.3.7, Open Observatory of Network Interference Backend, 2019-12-06T08:33:16+0000
+/project/dtcd/, dtcd, 0.1.1, Dynamic network blocks allocation via HTTP, 2019-04-02T20:14:01+0000
+/project/hostp2pd/, hostp2pd, 0.1.7, Wi-Fi Direct Session Manager, implementing a host AP daemon in Wi-Fi Direct mode, including P2P WPS enrollment, 2021-02-06T10:52:18+0000
+/project/genie-libs-health/, genie.libs.health, 21.3, pyATS Health Check for monitoring device health status, 2021-03-31T19:01:56+0000
+/project/bgpfu/, bgpfu, 0.2.0, BGP toolkit, 2021-03-08T13:28:12+0000
+/project/canprog/, canprog, 0.2.1, Command-line tool to flashing devices by CAN-BUS., 2019-11-01T08:33:04+0000
+/project/dnac/, dnac, 1.3.1.7, A wrapper for using Cisco DNA Center's REST API, 2020-04-16T19:34:59+0000
+/project/hexer-hx/, hexer-hx, 0.0.1, a tool to help in the arcane arts of decoding and reverse engineering binary data, 2020-08-16T11:58:19+0000
+/project/morfeus/, morfeus, 0.3, Library to control moRFeus mixer/signal generator, 2018-12-02T03:34:31+0000
+/project/vc2-conformance/, vc2-conformance, 1.0.1, Conformance testing utilities for the VC-2 video codec., 2021-04-21T13:36:06+0000
+/project/svgdatashapes/, SVGdatashapes, 0.3.62, Simple procedural library to create many types of plots and data displays in SVG for dynamic web pages. General purpose: biomedical, scientific, business., 2020-03-11T19:38:20+0000
+/project/participation/, participation, 0.1.dev1, Participation is a python package for social participation ontologies, rdf data (linked data) triplification and analysis, 2015-03-27T16:37:22+0000
+/project/zato-invoke-retry/, zato-invoke-retry, 1.1.1, Zato 1.1 service providing invoke_retry & invoke_async_methods for retrying invocations, blockingly or in background (https://zato.io/docs/index.html), 2013-07-09T18:11:27+0000
+/project/fshttpstream/, fshttpstream, 0.3.4, Websocket proxy server to send freeswitch events to websocket client., 2011-02-25T13:54:54+0000
+/project/snmp-cmds/, snmp-cmds, 1.0, A python wrapper around the Net-SNMP command line utilities, 2017-05-23T01:54:23+0000
+/project/moler/, moler, 1.29.0, Moler is library to help in building automated tests, 2021-04-12T13:22:45+0000
+/project/kunteksto/, kunteksto, 2.1.0, The tool to translate your CSV data files into RDF, XML and JSON with full semantics and syntactic validation., 2018-12-28T05:50:41+0000
+/project/satnogsdecoders/, satnogsdecoders, 0.16.1, SatNOGS Decoders, 2019-09-06T11:39:12+0000
+/project/pyroute2/, pyroute2, 0.5.18, Python Netlink library, 2021-04-12T10:21:50+0000
+/project/oafabrik/, oafabrik, 0.8.0, A Python SDK for Fabrik, 2021-04-20T12:38:13+0000
+/project/basest/, basest, 0.7.3, Arbitrary base binary-to-text encoder (any base to any base), 2018-11-02T20:02:18+0000
+/project/pyldpc/, pyldpc, 0.7.9, Simulation of Low Density Parity Check (LDPC) Codes, 2020-02-29T20:38:19+0000
+/project/digi-xbee-unofficial/, digi-xbee-unofficial, 1.4.3, Digi XBee Python library, 2021-02-16T05:01:20+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/pyats-cisco/, pyats.cisco, 21.2, pyATS Cisco: Cisco Internal Package, 2021-02-26T01:47:34+0000
+/project/bgpranking-web/, bgpranking-web, 1.2, Library to access the BGP Ranking REST API., 2014-11-03T13:16:11+0000
+/project/dizzer/, dizzer, 0.1.2, Weird text encoder / decoder. Gives reversible, human-readable and lossless encoding., 2020-09-22T10:10:25+0000
+/project/acl/, acl, 0.2, Network access control list parsing library., 2013-03-01T17:16:21+0000
+/project/pyasn1/, pyasn1, 0.4.8, ASN.1 types and codecs, 2019-11-16T17:27:11+0000
+/project/scapy-unroot/, scapy-unroot, 0.3.0b4, Daemon and tooling to enable using scapy without root permissions., 2020-05-04T10:50:45+0000
+/project/pypssl/, pypssl, 2.2, Python API for PSSL., 2021-04-15T22:35:20+0000
+/project/buffered-smtp-handler/, buffered-smtp-handler, 0.1.0, A buffered logging handlers that mimics SMTPHandler, 2017-10-20T16:47:49+0000
+/project/social/, social, 0.1.dev3, Social is a python package for social data analysis and exploitation, 2015-03-26T13:53:25+0000
+/project/asynqp-consumer/, asynqp-consumer, 0.4.0, Consumer utility class for AMQP, 2019-09-11T11:56:13+0000
+/project/shellsnmp/, shellsnmp, 0.1.7, , 2016-11-29T12:36:40+0000
+/project/cping/, cping, 0.1.4, Concurrent multi-host ping (ICMP and TCP), 2021-03-09T20:03:42+0000
+/project/emailharvester/, EmailHarvester, 2.0.1, A tool to retrieve Domain email addresses from Search Engines, 2016-05-03T17:45:10+0000
+/project/archipel-agent-vmparking/, archipel-agent-vmparking, 0.6.0beta, Handle the virtual machine parking, 2013-03-21T01:25:52+0000
+/project/genie-libs-sdk/, genie.libs.sdk, 21.3, Genie libs sdk: Libraries containing all Triggers and Verifications, 2021-03-31T19:02:17+0000
+/project/grafana-wtf/, grafana-wtf, 0.9.0, Grep through all Grafana entities in the spirit of git-wtf, 2019-11-06T01:46:35+0000
+/project/ripe-atlas-monitor/, ripe-atlas-monitor, 0.1.10, A tool to monitor results collected by RIPE Atlas probes and verify they match against predefined expected values., 2016-12-27T18:12:42+0000
+/project/pywurfl/, pywurfl, 7.2.1, pywurfl - Python tools for processing and querying the Wireless Universal Resource File (WURFL), 2011-01-06T20:38:25+0000
+/project/scapy/, scapy, 2.4.5, Scapy: interactive packet manipulation tool, 2021-04-19T18:29:34+0000
+/project/grailkit/, grailkit, 0.10.1, Grail development kit, a set of libraries for creative coding, 2020-09-07T11:40:44+0000
+/project/packetmq/, packetmq, 0.1.5, Packet based networking, 2016-03-06T02:44:07+0000
+/project/towalink-tlm/, towalink-tlm, 0.1.6, command line tool for configuring and managing a Towalink installation, 2021-02-28T20:05:24+0000
+/project/rotl/, RotL, 0.0.5, A simple utility for converting files that describe malware infections into remediation scripts that can clean up infections using native OS tools., 2019-06-25T19:25:35+0000
+/project/ndmtk/, ndmtk, 0.2.0, Network Discovery and Management Toolkit packaged as Ansible Plugin, 2018-07-02T04:35:36+0000
+/project/archipel-agent-hypervisor-health/, archipel-agent-hypervisor-health, 0.6.0beta, Get health of hypervisors, 2013-03-21T01:25:38+0000
+/project/mailgun2/, mailgun2, 2.0.0, A python client for Mailgun API v2, 2020-01-27T00:55:08+0000
+/project/pcapgraph/, PcapGraph, 1.3.0, Create a graph out of packet captures., 2018-11-05T13:26:24+0000
+/project/hex2words/, hex2words, 0.1.0, Hexadecimal ID/Fingerprint to PGP-words list converter, 2015-08-17T15:49:02+0000
+/project/randwire/, randwire, 0.1.5, Random Length Antenna Calculator, 2021-02-03T22:55:25+0000
+/project/snmpfwd/, snmpfwd, 0.4.4, SNMP Proxy Forwarder can act as an application-level firewall, 2018-12-30T17:22:56+0000
+/project/hl7-transform/, hl7-transform, 0.1.6, Library that transforms HL7 messages using mapping schemes, 2020-11-03T23:03:47+0000
+/project/python-gsmmodem/, python-gsmmodem, 0.9, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2013-07-18T11:23:48+0000
+/project/pypluribus/, pyPluribus, 0.3.1, Python API to interact with Pluribus devices, 2016-12-29T11:49:43+0000
+/project/alex-asr/, alex_asr, 1.0.4, Incremental speech recognition decoder for Kaldi NNET2 and GMM models., 2015-12-08T16:56:47+0000
+/project/inetsix-arista-cvp/, inetsix-arista-cvp, 0.3.3, Tools to manage CVP server using APIs and cvprac lib, 2019-08-21T15:00:32+0000
+/project/ivre/, ivre, 0.9.16, Network recon framework, 2020-12-08T14:53:50+0000
+/project/brasil-vocab/, brasil.vocab, 0.8, Basic Brazilian vocabularies for Python, 2011-12-21T00:54:04+0000
+/project/mqreceive/, mqreceive, 0.1.2, MQTT receive wrapper library, 2016-07-10T12:40:39+0000
+/project/osrframework/, osrframework, 0.20.4, OSRFramework - A set of AGPLv3+ OSINT tools developed by i3visio analysts for online research., 2021-02-11T13:29:33+0000
+/project/icecore/, icecore, 0.2.0.0, icecore C++ library python bindings, 2018-03-02T01:29:39+0000
+/project/pqcrypto/, pqcrypto, 0.1.3, Post-quantum cryptography for Python., 2020-09-08T10:33:43+0000
+/project/alerta-server-ai/, alerta-server-ai, 0.0.1, Alerta server WSGI application, 2019-12-16T08:46:26+0000
+/project/codeplug/, codeplug, 0.2.0, codeplug decoder and builder for Motorola radios, 2018-01-24T07:55:41+0000
+/project/rpi-piusv/, rpi-piusv, 0.1.0, Python module for RPI USV+ Raspberry Pi - USV+, 2020-05-17T16:46:05+0000
+/project/archipel-agent-virtualmachine-vnc/, archipel-agent-virtualmachine-vnc, 0.6.0beta, manage VNC screen connection, 2013-03-21T01:25:23+0000
+/project/alpakka/, alpakka, 0.1.dev153, Cutest YANG Eater alive, 2018-11-19T14:17:31+0000
+/project/panaceamobile/, PanaceaMobile, 1.0.2, PanaceaMobile "API" implementation in Python, 2019-07-31T22:10:44+0000
+/project/apacheconfig/, apacheconfig, 0.3.2, Apache config file parser, 2020-01-09T21:15:57+0000
+/project/wgtrack/, wgtrack, 0.1.7, wgtrack tracks WireGuard links, exports the status, and updates endpoints as needed, 2021-02-20T19:13:33+0000
+/project/pingparsing/, pingparsing, 1.3.0, pingparsing is a CLI-tool/Python-library parser and transmitter for ping command., 2021-03-27T17:18:53+0000
+/project/stft/, stft, 0.5.2, Short Time Fourier transform for NumPy., 2016-03-31T15:21:23+0000
+/project/config-probe/, config-probe, 0.2.0, Auto-discovery of configurations for easy inline use, 2019-04-01T21:57:13+0000
+/project/chzip/, chzip, 0.1, Switzerland ZIP codes and town names, 2013-08-27T19:17:36+0000
+/project/wgfrontend/, wgfrontend, 0.7.0, web-based user interface for configuring WireGuard for roadwarriors, 2021-03-05T20:30:49+0000
+/project/python-iptables/, python-iptables, 1.0.0, Python bindings for iptables, 2020-06-14T21:19:50+0000
+/project/scapy-nflog-capture/, scapy-nflog-capture, 13.05.0, Driver for scapy to allow capturing packets via Linux NFLOG interface, 2013-05-13T06:34:29+0000
+/project/rapidpro-for-rapidsms/, rapidpro-for-rapidsms, 1.0.3, A RapidPro backend for RapidSMS., 2017-03-11T19:21:29+0000
+/project/adytum-netcidr/, Adytum-NetCIDR, 0.0.1, Object representations, operations and logic for hosts, networks, and collections of networks., 2006-01-29T14:12:09+0000
+/project/dns-sprockets/, dns-sprockets, 2.0.0, Command-line DNS Zone validation tool, 2020-04-03T05:58:28+0000
+/project/py-star/, py-star, 0.1.0.dev1, A Python Interface to Asterisk, 2014-07-15T19:04:54+0000
+/project/rest-connector/, rest.connector, 21.3, pyATS REST connection package, 2021-03-31T19:20:24+0000
+/project/structifytext/, structifytext, 0.2.1, Structure semi-structured text, 2017-04-28T02:33:31+0000
+/project/jsnapy/, jsnapy, 1.3.6, Python version of Junos Snapshot Administrator, 2021-02-27T05:41:52+0000
+/project/autogluon/, autogluon, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:07:04+0000
+/project/libzt/, libzt, 1.3.4b1, ZeroTier, 2021-03-18T01:15:49+0000
+/project/rmr/, rmr, 4.0.0, Python wrapper for RIC RMR, 2020-03-19T14:20:06+0000
+/project/netom/, netom, 0.2.0, network object models, 2021-03-08T13:08:36+0000
+/project/satnogs-db-api-client/, satnogs-db-api-client, 1.23, SatNOGS DB API Client, 2021-03-11T22:13:18+0000
+/project/rogeriopradoj-paretochart/, rogeriopradoj-paretochart, 2.0.0, Pareto chart for python (similar to Matlab's, but much more flexible)  - Fork from @tintrinh, 2019-06-16T13:15:34+0000
+/project/glocate/, glocate, 1.4.2, This program scans given text to find urls and IP addresses. The output is the same text but every url and IP address is going to have its geolocation data appended., 2017-08-11T17:30:34+0000
+/project/probes/, probes, 0.1.0, Python library to manage probes on network devices, 2016-10-15T05:39:04+0000
+/project/jaspion/, Jaspion, 0.3.7.1, FreeSwitch Event Handler based in Flask., 2020-08-02T23:47:12+0000
+/project/fdroid-mirror-monitor/, fdroid-mirror-monitor, 0.3.2, monitoring of known https://f-droid.org mirrors, 2020-06-17T12:25:39+0000
+/project/inetnums/, inetnums, 1.0.1, WHOIS inetnum tree builder, 2016-04-14T09:43:27+0000
+/project/tpg-invoice/, tpg-invoice, 0.1.3, Extracts invoices from the TPG website., 2018-02-24T03:48:18+0000
+/project/mindtree/, MindTree, 1.0.0-a002, Notes organizer/Outliner/PIM for Python 2.5., 2008-08-07T15:13:24+0000
+/project/kalliopepbx/, kalliopepbx, 0.0.2, Kalliope PBX login and communication module, 2020-11-21T06:08:26+0000
+/project/riemann-fping/, riemann-fping, 0.1.dev2, Ping data collector for RIEMANN, 2017-08-04T22:47:48+0000
+/project/textmagic/, textmagic, 2.0.3, TextMagic APIv2 client, 2015-08-27T11:29:28+0000
+/project/bracket-expansion/, bracket-expansion, 1.0.0, string generator for bracket patterns, 2019-06-14T15:32:55+0000
+/project/bitdust-p2p/, bitdust-p2p, 0.0.3, BitDust is new software framework to build distributed and secure peer-to-peer applications., 2020-09-15T19:26:40+0000
+/project/music/, music, 0.7b0, music is a python package for making music and sounds, based on the MASS framework, 2019-05-11T18:29:56+0000
+/project/iptdump/, iptdump, 1b1.3, describes firewall rules and dump it out, 2013-02-05T18:52:48+0000
+/project/falcon-sandbox/, falcon-sandbox, 1.1.0, Python client library and command line tool for the [Falcon Sandbox API](https://www.falcon-sandbox.com/docs/api/v2)., 2019-12-06T14:19:35+0000
+/project/isotel-idm/, isotel-idm, 1.0b21, A python framework for the ISOTEL Data-acquisition & Metering Smart Gateway for easy integration with Internet of Things., 2019-11-26T21:06:07+0000
+/project/pysm/, pysm, 0.3.9, Versatile and flexible Python State Machine library, 2019-04-07T10:11:18+0000
+/project/os-benchmark/, os-benchmark, 0.7.2, Handy tool for Object Storage performance benchmark, 2021-02-26T14:45:19+0000
+/project/pyderasn/, pyderasn, 8.3, Python ASN.1 DER/CER/BER codec with abstract structures, 2021-01-14T07:28:40+0000
+/project/python-controlchart/, python-controlchart, 0.2.0, Creation of control charts with matplotlib, 2019-12-23T11:14:10+0000
+/project/trigger/, trigger, 1.6.0, Trigger is a framework and suite of tools for configuring network devices, 2017-03-08T18:32:52+0000
+/project/thola-snmpsim-control-plane/, thola-snmpsim-control-plane, 0.0.3, SNMP Simulator Control Plane., 2020-12-30T23:06:08+0000
+/project/wstunnel/, wstunnel, 0.0.6, A Python WebSocket Tunnel, 2014-05-15T17:25:15+0000
+/project/pyats-templates/, pyats.templates, 19.6, pyATS Templates: Script Templates, 2019-06-25T16:51:38+0000
+/project/mca-traceroute/, mca-traceroute, 1.0.0, mca-traceroute: Detection and Classification of Load Balancers, 2020-05-10T21:49:52+0000
+/project/switchinfo/, switchinfo, 1.4.1, A tool to show what is connected to switch ports, 2020-09-29T11:34:01+0000
+/project/vasuki/, vasuki, 0.3.2, Vasuki generates different kinds of random unique identifiers, tokens and words, 2019-07-04T08:52:36+0000
+/project/clmsgr/, CLMsgr, 0.0.0-pre-alpha-build-3, A Python Core for Command Line Messaging, with extensibility and modularity, 2014-08-08T16:44:38+0000
+/project/ngcp-xbee/, ngcp-xbee, 1.3, Digi XBee Python library, compatible with Python 2, 2019-02-01T23:43:05+0000
+/project/pydvbcss/, pydvbcss, 0.5.2, pydvbcss is a library implementing DVB "CSS" protocols for Companion Screen Synchronisation., 2018-02-15T14:01:39+0000
+/project/archipel-agent-virtualmachine-storage/, archipel-agent-virtualmachine-storage, 0.6.0beta, Manage virtual machine storages, 2013-03-21T01:24:49+0000
+/project/pyangbind/, pyangbind, 0.8.1, PyangBind is a plugin for pyang which converts YANG datamodels into a Python class hierarchy, such that Python can be used to manipulate data that conforms with a YANG model., 2018-05-16T20:40:12+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/pyrouted/, pyrouted, 0.2.4, Python Network Database, 2018-10-01T11:35:16+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/pyotdr/, pyOTDR, 1.0.1, A simple OTDR SOR file parser, 2020-10-21T09:12:05+0000
+/project/snmpsim-control-plane/, snmpsim-control-plane, 0.0.2, SNMP Simulator Control Plane, 2020-02-08T10:09:23+0000
+/project/py-common-subseq/, py-common-subseq, 0.2, Microlibrary finding all common subsequences between two sequences in polynomial time., 2019-08-22T23:37:33+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/iso8583-module/, ISO8583-Module, 1.3, ISO8583 LIBRARY, 2013-10-07T13:09:18+0000
+/project/python-stdnum/, python-stdnum, 1.16, Python module to handle standardized numbers and codes, 2021-02-06T16:35:07+0000
+/project/lerc-control/, lerc-control, 0.0.23, Libraries and utilities for controling and working with Live Endpoint Response Clients., 2019-10-07T18:54:25+0000
+/project/pysemantic/, pysemantic, v0.1.1, A traits based data validation module for pandas data structures., 2015-07-01T14:22:33+0000
+/project/uspp-universal-serial-port-python-library/, USPP-Universal-Serial-Port-Python-Library, 1.0, Multiplatform Python library for serial port accesing, 2006-02-24T20:37:47+0000
+/project/sysbus/, sysbus, 1.0.9, Control by script your Livebox 2,3,4, 2021-04-17T18:58:10+0000
+/project/swtoolz/, swtoolz, 0.2.0, SWToolz-Core API wrapper., 2019-01-24T10:47:34+0000
+/project/jetconf/, jetconf, 0.3.6, Pure Python implementation of the RESTCONF protocol, 2019-10-07T12:35:49+0000
+/project/archipel-agent-virtualmachine-snapshoting/, archipel-agent-virtualmachine-snapshoting, 0.6.0beta, Manage snapshoting for virtual machines, 2013-03-21T01:25:33+0000
+/project/pyats-async/, pyats.async, 21.3, pyATS Async: Asynchronous Execution of Codes, 2021-03-31T19:06:22+0000
+/project/domcheck/, domcheck, 1.1.4, Domain Ownership Checker, 2015-08-26T22:57:28+0000
+/project/sagecipher/, sagecipher, 0.7.5, Uses SSH agent to encrypt/decrypt arbitrary data, 2020-07-02T22:52:10+0000
+/project/nagparser/, NagParser, 0.0.31, Parse realtime Nagios Data from status.dat and objects.cache, do useful stuff with it, 2013-12-10T23:00:52+0000
+/project/unicon-plugins/, unicon.plugins, 21.3, Unicon Connection Library Plugins, 2021-03-31T19:20:27+0000
+/project/getml/, getml, 0.15.0, Python API for getML, 2021-02-23T10:03:01+0000
+/project/mqspeak/, mqspeak, 0.2.1, MQTT bridge, 2016-07-10T12:45:25+0000
+/project/caret/, caret, 0.1.1, A Python Interface to Asterisk, 2017-08-03T20:48:32+0000
+/project/vc2-conformance-data/, vc2-conformance-data, 1.0.0, Test data and images for the conformance testing software for the SMPTE ST 2042-1 VC-2 professional video codec., 2021-04-21T13:12:40+0000
+/project/har2tree/, har2tree, 1.5.0, HTTP Archive (HAR) to ETE Toolkit generator, 2021-04-02T12:47:46+0000
+/project/roscraco/, roscraco, 0.5.0, A library for managing home routers (networking equipment)., 2017-02-18T06:17:17+0000
+/project/blaeu/, blaeu, 1.1.6, Tools to create (and analyze) RIPE Atlas network measurements, 2020-06-06T14:46:29+0000
+/project/tdigest-cffi/, tdigest-cffi, 0.1.2, A data structure for accurate on-line accumulation of rank-based statistics., 2018-12-07T02:49:34+0000
+/project/httproxy/, httproxy, 0.9.0, A tiny HTTP proxy implementation, 2012-10-26T10:41:07+0000
+/project/satnogs-decoders/, satnogs-decoders, 1.21.0, SatNOGS Decoders, 2021-03-30T10:19:12+0000
+/project/pyren/, pyRen, 0.0.0, A Python implementation of the Ren data serialization format., 2018-12-14T02:31:39+0000
+/project/sublist3r/, Sublist3r, 1.0, Subdomains enumeration tool for penetration testers, 2020-10-21T18:11:08+0000
+/project/pyats-easypy/, pyats.easypy, 21.3, pyATS Easypy: launcher and runtime environment, 2021-03-31T19:07:48+0000
+/project/gglsbl-rest-client/, gglsbl-rest-client, 1.0.1, This is a simple python client wrapper for the [gglsbl-rest](https://github.com/mlsecproject/gglsbl-rest) service., 2019-10-17T22:09:02+0000
+/project/pytun/, pytun, 1.0.1, Python TUN/TAP tunnel module, 2012-03-05T20:04:12+0000
+/project/autogluon-extra/, autogluon.extra, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:54+0000
+/project/fog05mm1/, fog05mm1, 0.0.1, Eclipse fog05 Mm1 REST Client API, 2019-05-13T09:42:00+0000
+/project/wurfl-cloud/, wurfl-cloud, 1.1.1, ScientiaMobile WURFL Cloud Client for Python, 2015-12-01T21:27:40+0000
+/project/osrframework-console/, osrframework-console, 0.18.0, OSRFramework Console - A terminal-based user interface to interact with OSRFramework utils., 2018-02-04T19:00:18+0000
+/project/amigocloud/, amigocloud, 1.2.5, Python client for the AmigoCloud REST API, 2020-11-12T19:21:35+0000
+/project/bromelia/, bromelia, 0.1, A Python micro framework for Diameter applications, 2021-04-05T23:49:35+0000
+/project/crcgen/, crcgen, 1.0, CRC algorithm code generator, 2019-08-13T11:29:31+0000
+/project/peeringdb/, peeringdb, 1.1.0, peeringdb client and interface, 2020-08-26T07:10:10+0000
+/project/xplant/, xplant, 1.0.0, Tree model markup builder., 2020-07-10T20:19:30+0000
+/project/aiosmpp/, aiosmpp, 1.0.3, SMPP library for python based on asyncio, 2019-07-23T19:10:22+0000
+/project/switchio/, switchio, 0.1.0a1, asyncio powered FreeSWITCH cluster control, 2017-11-15T16:30:49+0000
+/project/pyats-tcl/, pyats.tcl, 21.3, pyATS Tcl: Tcl Integration and Objects, 2021-03-31T19:16:55+0000
+/project/terkin/, terkin, 0.10.0, A flexible data logger for MicroPython and CPython, 2020-05-22T00:10:29+0000
+/project/shot-detector/, shot-detector, 0.0.5.dev3, Python shot detector based on PyAV, 2016-08-30T19:04:19+0000
+/project/pyproofpoint/, pyproofpoint, 0.0.1, A python wrapper for proofpoint's threat insight API, 2021-01-28T18:17:58+0000
+/project/canari/, canari, 3.3.10, Canari Framework - Maltego rapid transform development and execution framework., 2019-02-25T21:38:57+0000
+/project/pyats-datastructures/, pyats.datastructures, 21.3, pyATS Datastructures: Extended Datastructures for Grownups, 2021-03-31T19:07:13+0000
+/project/gbboxcli/, gbboxcli, 0.2.11, Command-line interface for gbbox, 2016-11-23T06:53:55+0000
+/project/pyintel471/, pyintel471, 0.1.1, Python client for Intel471, 2021-03-19T14:14:22+0000
+/project/connmonitor/, connmonitor, 4.1.3, Uses the connvitals library to continuously poll and record network connectivity statistics., 2018-08-13T14:15:36+0000
+/project/ohneio/, ohneio, 0.8.1, Utility to write network protocol parser without any I/O, 2016-08-20T21:48:16+0000
+/project/slt/, slt, 0.10.3, Unofficial usage checker for SLT Internet, 2018-02-23T22:33:53+0000
+/project/snmpresponder/, snmpresponder, 0.0.2, SNMP Command Responder., 2019-01-31T08:38:57+0000
+/project/salabim/, salabim, 21.0.3, discrete event simulation in Python, 2021-03-20T09:55:01+0000
+/project/genie-utils/, genie.utils, 19.12, Genie Utils: Provides various nice-to-use utilities., 2019-12-17T19:56:42+0000
+/project/snmpclitools/, snmpclitools, 0.6.4, SNMP command-line tools, 2019-08-11T10:16:16+0000
+/project/asnhistory/, asnhistory, 2.0.4, Query a redis database to access to the ASNs descriptions., 2016-05-08T11:38:23+0000
+/project/ipgroup/, ipgroup, 0.0.5, Functions to gather info on a group of IPv4 or IPv6 Networks, 2019-06-11T18:17:48+0000
+/project/udp-over-tls-pool/, udp-over-tls-pool, 0.1.1, Network wrapper which transports UDP packets over multiple TLS sessions, 2020-08-09T22:32:31+0000
+/project/udp-over-tls-pool/, udp-over-tls-pool, 0.1.1, Network wrapper which transports UDP packets over multiple TLS sessions, 2020-08-09T22:32:31+0000
+/project/mastertables/, mastertables, 1.1.0, A Python package to interact with the mastertables.athento.com public API, 2018-07-10T09:52:47+0000
+/project/pyvxclient/, pyvxclient, 0.2.6, vxapi client, 2020-03-11T17:03:08+0000
+/project/netconf-console/, netconf-console, 2.3.0, Netconf client CLI tool and interactive console, 2020-06-23T09:06:02+0000
+/project/django-asterisk/, django-asterisk, 0.1, Phone call queuing and management for the Django web framework using an Asterisk server, 2011-06-02T15:30:08+0000
+/project/probes/, probes, 0.1.0, Python library to manage probes on network devices, 2016-10-15T05:39:04+0000
+/project/nfqp3/, NFQP3, 0.11, Python bindings for libnetfilter_queue pached for Python3, 2015-07-13T14:49:08+0000
+/project/superior-cache-analyzer/, Superior-Cache-ANalyzer, 3.3.7.post3, An analysis tool for Apache Traffic Server caches., 2019-09-19T15:56:35+0000
+/project/epiweeks-barc/, epiweeks-barc, 0.0.1, Epidemiological weeks based on the CDC (MMWR) and ISO week numbering systems., 2020-05-07T23:24:54+0000
+/project/dz-phonenumbers/, dz-phonenumbers, 1.0.0, Algerian phone numbers as value object, python implementation, 2021-04-10T15:37:24+0000
+/project/pydivert/, pydivert, 2.1.0, Python binding to windivert driver, 2017-10-20T21:36:56+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/whois-similarity-distance/, whois_similarity_distance, 1.0.2,  This python scripts can calculate the WHOIS Similarity Distance between two given domains., 2018-03-06T17:50:22+0000
+/project/dsdtools/, dsdtools, 0.1.3, Python tools for the Demixing Secrets Dataset (DSD), 2016-07-20T13:05:41+0000
+/project/tcplog/, tcplog, 0.2.10, Tool to log and analyze TCP flows., 2018-10-25T23:52:20+0000
+/project/chromaterm/, chromaterm, 0.7.1, Color your output to terminal, 2021-03-07T17:47:04+0000
+/project/linphone/, linphone, 3.9.1, Linphone package for Python, 2015-11-16T12:35:52+0000
+/project/torfy/, torfy, 0.2.1, Torfy - A set of GPLv3+ libraries to deal with Tor connections., 2016-03-06T22:00:36+0000
+/project/qtdigest-cffi/, qtdigest-cffi, 0.5.0, A data structure for accurate on-line accumulation of rank-based statistics., 2019-12-17T09:09:38+0000
+/project/russian-numerals/, russian-numerals, 0.2b0, Python package for working with quantitative numerals in Russian., 2020-07-03T09:12:04+0000
+/project/netfilterqueue/, NetfilterQueue, 0.8.1, Python bindings for libnetfilter_queue, 2017-01-31T07:42:20+0000
+/project/upysm/, upysm, 0.3.9, Versatile and flexible Python State Machine library - Micropython Port, 2019-04-07T10:13:10+0000
+/project/robotframework-httpctrl/, robotframework-httpctrl, 0.1.6, robotframework-httpctrl is a library for Robot Framework that provides HTTP/HTTPS client and HTTP server services, 2020-01-13T15:36:44+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/netscaler-api/, netscaler-api, 0.2.3, NetScaler API is a Python interface for interacting with Citrix NetScaler application delivery controllers, utilizing the SOAP API to execute commands., 2012-07-11T16:03:42+0000
+/project/dlink-scraper/, dlink-scraper, 1.0.3, Scraper for getting data from D-Link DWR-921 LTE router, 2020-09-30T19:11:19+0000
+/project/zato-client/, zato-client, 3.1.2, Python API client for Zato - ESB, SOA, REST, APIs and Cloud Integrations in Python (https://zato.io), 2020-08-11T18:12:45+0000
+/project/spectral-aead/, spectral-aead, 0.0.5, An algorithm for authenticated encryption with associated data using Speck and HMAC-SHA256., 2018-06-30T09:55:22+0000
+/project/python-gsmmodem-new/, python-gsmmodem-new, 0.12, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2017-03-15T11:59:18+0000
+/project/search-ansible-hosts/, search-ansible-hosts, 0.0.2, Ansible inventory searching for rapid use, 2020-01-20T12:04:50+0000
+/project/dz-phone-numbers/, dz-phone-numbers, 1.0.0, Algerian phone numbers as value object, python implementation, 2020-06-16T13:44:30+0000
+/project/protea/, Protea, 0.1a, Ashly digital audio products RS-232 interface library, 2013-08-26T17:44:20+0000
+/project/genie-telemetry/, genie.telemetry, 21.3, Genie libs Telemetry: Genie Telemetry Libraries, 2021-03-31T19:02:19+0000
+/project/coko/, coko, 1.0.17, This tools let you take an snapshot of your files metadata in a particular directory in order to restore those metadata after files have been restored., 2018-12-30T14:19:57+0000
+/project/connord/, connord, 0.1.5, Connect to NordVPN servers secure with Iptables and fast with OpenVPN, 2019-10-09T13:31:54+0000
+/project/salt-confd/, salt-confd, 2019.9.0a1, Lightweight Salt package for confd-style management of local application configuration files, 2019-09-05T11:08:20+0000
+/project/pagerdutyapi/, pagerdutyapi, 0.4.1, PagerDuty support, mostly reporting alerts, 2016-03-22T18:24:02+0000
+/project/vppapigen/, vppapigen, 0.0.1, VPP API file parser/generator, 2020-12-15T06:52:19+0000
+/project/salt-sproxy/, salt-sproxy, 2020.10.2, Salt plugin for managing devices and applications, without running (Proxy) Minions, 2020-11-02T18:07:57+0000
+/project/junos-eznc/, junos-eznc, 2.6.0, Junos 'EZ' automation for non-programmers, 2021-04-22T15:17:17+0000
+/project/eve-auth-jwt/, eve-auth-jwt, 1.0.5, Eve JWT authentication, 2016-05-20T22:51:59+0000
+/project/zato-common/, zato-common, 3.1.1, Constants and utils common across the whole of Zato ESB and app server (https://zato.io), 2019-02-17T09:48:26+0000
+/project/hammer/, hammer, 0.1, Hammer is a framework for managing load-balancer configuration, 2012-06-07T17:43:09+0000
+/project/wishpy/, wishpy, 0.1.1, Python Bindings for Wireshark and libpcap using cffi, 2020-08-23T12:19:43+0000
+/project/fake-switches/, fake-switches, 1.3.9, A pluggable switch/router command-line simulator, 2019-03-21T19:20:30+0000
+/project/minimega/, minimega, 2.7, Python API for minimega, 2021-02-01T14:18:09+0000
+/project/satnogs-network-api-client/, satnogs-network-api-client, 1.74, SatNOGS Network API Client, 2021-03-15T20:23:31+0000
+/project/pydatalogger/, pydatalogger, 0.1.0, PyDatalogger - Data logging made easy, 2019-03-02T14:10:04+0000
+/project/sbucket/, sbucket, 0.1.4, Spatial Bucketing of RIPE Atlas Probes on Map Projections., 2015-03-30T11:25:07+0000
+/project/obelus/, obelus, 0.1, Protocol implementation of the Asterisk Manager Interface and Asterisk Gateway Interface, 2013-09-12T15:53:53+0000
+/project/knot-keystore/, knot-keystore, 0.1.0, A tool for safely archiving knot dnssec key material to azure., 2019-07-07T23:30:14+0000
+/project/bagpipe-bgp/, bagpipe-bgp, 1.80.0, Lightweight implementation of BGP IP VPN and E-VPN, 2017-02-03T09:46:21+0000
+/project/airium/, airium, 0.2.2, Easy and quick html builder with natural syntax correspondence (python->html). No templates needed. Serves pure pythonic library with no dependencies., 2021-01-31T00:01:00+0000
+/project/csmpe/, csmpe, 1.0.23, CSM Plugin Engine, 2019-01-25T13:20:45+0000
+/project/fog05rest/, fog05rest, 0.0.4, Python API fog05 REST Client, 2019-10-11T08:22:08+0000
+/project/yang-ncdiff/, yang.ncdiff, 21.3, A config state diff calculator for NETCONF, 2021-03-31T19:23:23+0000
+/project/wmgraph/, wmgraph, 0.7.1, Microsoft Graph convenience library, 2020-06-04T13:37:27+0000
+/project/pyagentx3/, pyagentx3, 0.1.1, AgentX package to extend SNMP with pure Python3, 2021-03-01T15:23:36+0000
+/project/virtualreality/, virtualreality, 0.1.2, python side of hobo_vr, 2020-11-19T09:50:36+0000
+/project/bp-pysnmp/, bp-pysnmp, 4.4.3, SNMP library for Python, 2020-01-22T23:08:00+0000
+/project/yaks/, yaks, 0.3.0.post1, Python API to access the YAKS service, 2020-04-23T15:34:41+0000
+/project/kazoo-sdk/, kazoo-sdk, 0.2.4, Wrapper for the Kazoo API, 2017-11-28T03:19:25+0000
+/project/djangelo/, djangelo, 0.1.4, Tracking and rating Django Model activities with ELO system, 2020-12-22T17:56:14+0000
+/project/imagecast/, imagecast, 0.4.0, Imagecast is like ImageMagick but for Pythonistas. Optionally provides its features via HTTP API., 2021-03-06T12:00:21+0000
+/project/eve-auth-jwt/, eve-auth-jwt, 1.0.5, Eve JWT authentication, 2016-05-20T22:51:59+0000
+/project/zato-common/, zato-common, 3.1.1, Constants and utils common across the whole of Zato ESB and app server (https://zato.io), 2019-02-17T09:48:26+0000
+/project/hammer/, hammer, 0.1, Hammer is a framework for managing load-balancer configuration, 2012-06-07T17:43:09+0000
+/project/wishpy/, wishpy, 0.1.1, Python Bindings for Wireshark and libpcap using cffi, 2020-08-23T12:19:43+0000
+/project/fake-switches/, fake-switches, 1.3.9, A pluggable switch/router command-line simulator, 2019-03-21T19:20:30+0000
+/project/ngcp-xbee/, ngcp-xbee, 1.3, Digi XBee Python library, compatible with Python 2, 2019-02-01T23:43:05+0000
+/project/pydvbcss/, pydvbcss, 0.5.2, pydvbcss is a library implementing DVB "CSS" protocols for Companion Screen Synchronisation., 2018-02-15T14:01:39+0000
+/project/minimega/, minimega, 2.7, Python API for minimega, 2021-02-01T14:18:09+0000
+/project/satnogs-network-api-client/, satnogs-network-api-client, 1.74, SatNOGS Network API Client, 2021-03-15T20:23:31+0000
+/project/pydatalogger/, pydatalogger, 0.1.0, PyDatalogger - Data logging made easy, 2019-03-02T14:10:04+0000
+/project/sbucket/, sbucket, 0.1.4, Spatial Bucketing of RIPE Atlas Probes on Map Projections., 2015-03-30T11:25:07+0000
+/project/archipel-agent-virtualmachine-storage/, archipel-agent-virtualmachine-storage, 0.6.0beta, Manage virtual machine storages, 2013-03-21T01:24:49+0000
+/project/pyangbind/, pyangbind, 0.8.1, PyangBind is a plugin for pyang which converts YANG datamodels into a Python class hierarchy, such that Python can be used to manipulate data that conforms with a YANG model., 2018-05-16T20:40:12+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/pyrouted/, pyrouted, 0.2.4, Python Network Database, 2018-10-01T11:35:16+0000
+/project/neuraxle/, neuraxle, 0.5.7, Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications., 2021-02-25T16:00:44+0000
+/project/pyotdr/, pyOTDR, 1.0.1, A simple OTDR SOR file parser, 2020-10-21T09:12:05+0000
+/project/snmpsim-control-plane/, snmpsim-control-plane, 0.0.2, SNMP Simulator Control Plane, 2020-02-08T10:09:23+0000
+/project/cnam/, cnam, 0.2, A simple CLI program that spits out caller ID name information given a phone number., 2012-02-13T03:24:21+0000
+/project/auditok/, auditok, 0.2.0, A module for Audio/Acoustic Activity Detection, 2021-03-02T22:16:09+0000
+/project/complycube/, complycube, 1.0.5, Official Python client for the ComplyCube API, 2021-03-09T11:34:32+0000
+/project/vc2-data-tables/, vc2-data-tables, 1.0.0, Machine-readable constants and data tables for the SMPTE ST 2042-1 VC-2 professional video codec., 2021-03-24T10:33:08+0000
+/project/pyioboard/, PyIOboard, 0.0.15, Module and WebSerivce to control a Numato lab USB Relay card, 2013-04-06T20:11:50+0000
+/project/netdev/, netdev, 0.9.3, Asynchronous multi-vendor library for interacting with network devices, 2019-06-21T19:46:49+0000
+/project/coralogix-logger/, coralogix-logger, 2.0.4, Coralogix Python SDK, 2021-01-12T20:38:25+0000
+/project/highwayhash-cffi/, highwayhash-cffi, 0.1.6, Tested, performant HighwayHash bindings for Python 3 with support for all output lengths., 2020-09-05T10:23:41+0000
+/project/pysnmpcrypto/, pysnmpcrypto, 0.0.4, Strong cryptography support for PySNMP (SNMP library for Python), 2018-12-29T23:06:41+0000
+/project/pylookyloo/, pylookyloo, 1.5.0, Python CLI and module for Lookyloo, 2021-04-02T13:28:46+0000
+/project/bitmath/, bitmath, 1.3.3.1, Pythonic module for representing and manipulating file sizes with different prefix notations (file size unit conversion), 2018-08-23T16:23:53+0000
+/project/obelus/, obelus, 0.1, Protocol implementation of the Asterisk Manager Interface and Asterisk Gateway Interface, 2013-09-12T15:53:53+0000
+/project/knot-keystore/, knot-keystore, 0.1.0, A tool for safely archiving knot dnssec key material to azure., 2019-07-07T23:30:14+0000
+/project/bagpipe-bgp/, bagpipe-bgp, 1.80.0, Lightweight implementation of BGP IP VPN and E-VPN, 2017-02-03T09:46:21+0000
+/project/airium/, airium, 0.2.2, Easy and quick html builder with natural syntax correspondence (python->html). No templates needed. Serves pure pythonic library with no dependencies., 2021-01-31T00:01:00+0000
+/project/csmpe/, csmpe, 1.0.23, CSM Plugin Engine, 2019-01-25T13:20:45+0000
+/project/fog05rest/, fog05rest, 0.0.4, Python API fog05 REST Client, 2019-10-11T08:22:08+0000
+/project/yang-ncdiff/, yang.ncdiff, 21.3, A config state diff calculator for NETCONF, 2021-03-31T19:23:23+0000
+/project/wmgraph/, wmgraph, 0.7.1, Microsoft Graph convenience library, 2020-06-04T13:37:27+0000
+/project/pyagentx3/, pyagentx3, 0.1.1, AgentX package to extend SNMP with pure Python3, 2021-03-01T15:23:36+0000
+/project/virtualreality/, virtualreality, 0.1.2, python side of hobo_vr, 2020-11-19T09:50:36+0000
+/project/bp-pysnmp/, bp-pysnmp, 4.4.3, SNMP library for Python, 2020-01-22T23:08:00+0000
+/project/invalidroutesreporter/, invalidroutesreporter, 0.2.0, An ExaBGP process to elaborate and report/log invalid routes received by route servers., 2017-06-30T16:47:21+0000
+/project/openob/, OpenOB, 4.0.3, Broadcast audio over IP codec built with PyGST, 2019-01-28T21:16:40+0000
+/project/splitcopy/, splitcopy, 1.1.6, Improves file transfer rates when copying files to/from JUNOS/EVO/*nix hosts, 2021-02-10T10:52:46+0000
+/project/pypdns/, pypdns, 1.5.2, Python API for PDNS., 2021-04-15T08:20:30+0000
+/project/notizen/, notizen, 1.0.0, Indexing and searching of personal notes., 2016-02-29T09:16:03+0000
+/project/scikit-commpy/, scikit-commpy, 0.6.0, Digital Communication Algorithms with Python, 2021-01-05T09:44:28+0000
+/project/tlscli/, tlscli, 1.1.0, Text User Interface client for CORBA Telecom Log Service., 2013-04-02T12:36:01+0000
+/project/vaping/, vaping, 1.3.0, vaping is a healthy alternative to smokeping!, 2020-09-23T10:24:49+0000
+/project/netman/, netman, 1.4.12, A unified REST API to provide vendor-agnostic network automation, 2020-09-10T13:11:31+0000
+/project/pyats-examples/, pyats.examples, 19.6, pyATS Examples: Example Scripts, 2019-06-25T16:50:40+0000
+/project/misp-fast-lookup/, misp-fast-lookup, 1.0, API for MISP Redis Datastore., 2016-03-10T21:14:50+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/pyats-aetest/, pyats.aetest, 21.3.1, pyATS AEtest: Testscript Engine, 2021-04-23T18:36:50+0000
+/project/uniborg/, uniborg, 1.0.0.0.20190508120218, Telegram python bot using Telethon, 2019-05-08T10:02:19+0000
+/project/cizsle/, cizsle, 0.0a7, Cisco ZTP Server LE, 2019-05-09T02:14:31+0000
+/project/narrowband/, NarrowBand, 0.2.1, NarrowBand library, 2019-02-13T09:57:07+0000
+/project/hollowpoint/, hollowpoint, 0.1, Hollowpoint, 2013-06-16T20:54:50+0000
+/project/satnogs-network/, satnogs-network, 1.74, SatNOGS Network, 2021-03-15T20:23:38+0000
+/project/pubsublogger/, pubsublogger, 1.2.2, Logging system using the PubSub functionality of Redis., 2015-11-03T13:47:45+0000
+/project/nfqp3/, NFQP3, 0.11, Python bindings for libnetfilter_queue pached for Python3, 2015-07-13T14:49:08+0000
+/project/superior-cache-analyzer/, Superior-Cache-ANalyzer, 3.3.7.post3, An analysis tool for Apache Traffic Server caches., 2019-09-19T15:56:35+0000
+/project/epiweeks-barc/, epiweeks-barc, 0.0.1, Epidemiological weeks based on the CDC (MMWR) and ISO week numbering systems., 2020-05-07T23:24:54+0000
+/project/runcible/, runcible, 0.2.0, , 2019-09-05T03:17:21+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/clicol-plugin-extra/, clicol-plugin-extra, 0.0.1, CLI colorizer - extra plugins, 2020-02-16T11:03:17+0000
+/project/smsutil/, smsutil, 1.1.3, encode, decode and split SMS., 2020-07-22T04:44:46+0000
+/project/dz-phonenumbers/, dz-phonenumbers, 1.0.0, Algerian phone numbers as value object, python implementation, 2021-04-10T15:37:24+0000
+/project/esmond-client/, esmond-client, 4.2.1, API client libraries and command line tools for the ESnet Monitoring Daemon (esmond)., 2019-05-24T15:31:48+0000
+/project/pydivert/, pydivert, 2.1.0, Python binding to windivert driver, 2017-10-20T21:36:56+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/os-benchmark/, os-benchmark, 0.7.2, Handy tool for Object Storage performance benchmark, 2021-02-26T14:45:19+0000
+/project/pyderasn/, pyderasn, 8.3, Python ASN.1 DER/CER/BER codec with abstract structures, 2021-01-14T07:28:40+0000
+/project/python-controlchart/, python-controlchart, 0.2.0, Creation of control charts with matplotlib, 2019-12-23T11:14:10+0000
+/project/trigger/, trigger, 1.6.0, Trigger is a framework and suite of tools for configuring network devices, 2017-03-08T18:32:52+0000
+/project/thola-snmpsim-control-plane/, thola-snmpsim-control-plane, 0.0.3, SNMP Simulator Control Plane., 2020-12-30T23:06:08+0000
+/project/wstunnel/, wstunnel, 0.0.6, A Python WebSocket Tunnel, 2014-05-15T17:25:15+0000
+/project/iosbackup/, iOSbackup, 0.9.912, Reads and extracts files from password-encrypted iOS backups, 2021-01-30T21:32:24+0000
+/project/ip2geotools/, ip2geotools, 0.1.5, Simple tool for getting geolocation information on given IP address from various geolocation databases., 2019-04-15T12:58:49+0000
+/project/bakplane-python-sdk/, bakplane-python-sdk, 1.79.0, A Python Client for Bakplane, 2021-04-21T11:32:31+0000
+/project/snmposter/, snmposter, 1.0.4, SNMP Agent Simulator, 2016-01-19T20:00:01+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/prophy/, prophy, 1.2.4, prophy: fast serialization protocol, 2020-05-17T22:03:25+0000
+/project/genie-examples/, genie.examples, 19.6.0, Genie Examples: Example Scripts, 2019-06-25T18:45:15+0000
+/project/domcheck/, domcheck, 1.1.4, Domain Ownership Checker, 2015-08-26T22:57:28+0000
+/project/grafanimate/, grafanimate, 0.5.5, Animate timeseries data with Grafana, 2019-02-04T02:11:24+0000
+/project/iperf3/, iperf3, 0.1.11, Python wrapper around iperf3, 2019-04-13T07:54:02+0000
+/project/eve-auth-jwt-fork/, eve-auth-jwt-fork, 1.2.2, Eve JWT authentication, rs/eve-auth-jwt's fork., 2019-02-20T15:15:03+0000
+/project/pyats/, pyats, 21.3, pyATS - Python Automation Test System, 2021-03-31T19:14:48+0000
+/project/autogluon-mxnet/, autogluon.mxnet, 0.1.0, AutoML for Text, Image, and Tabular Data, 2021-03-01T22:06:51+0000
+/project/pytextmagicsms/, PyTextMagicSMS, 0.2, TextMagic SMS API, 2015-06-14T15:45:01+0000
+/project/onap-dcae-dcaepolicy-lib/, onap-dcae-dcaepolicy-lib, 2.5.1, lib of policy decorators to be used by cloudify plugins of dcae controller, 2021-03-12T22:00:35+0000
+/project/pyinfluxql/, pyinfluxql, 0.1.3, A query generator for the SQL dialect of the Influx Query Language (InfluxQL), 2021-02-14T15:24:48+0000
+/project/pyats-aereport/, pyats.aereport, 21.3, pyATS AEreport: Result Collection and Reporting, 2021-03-31T19:02:29+0000
+/project/ipasn-redis/, ipasn-redis, 2.0, API to access an IP-ASN-history instance via Redis., 2016-05-01T10:22:42+0000
+/project/py-common-subseq/, py-common-subseq, 0.2, Microlibrary finding all common subsequences between two sequences in polynomial time., 2019-08-22T23:37:33+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/pyeupi/, pyeupi, 1.1, Python API for the European Union anti-phishing initiative., 2020-06-09T12:42:59+0000
+/project/nwkautomaniac/, nwkautomaniac, 0.0.2, network automation utility library from @nwkautomanic, 2015-02-21T17:40:33+0000
+/project/fmspy/, fmspy, 0.1.0, Flash Media Server in Python using Twisted Framework, 2009-05-30T15:16:35+0000
+/project/flow-models/, flow-models, 1.1, A framework for analysis and modeling of IP network flows, 2021-01-15T23:24:24+0000
+/project/structures/, structures, 0.9.5, Declarative binary building and parsing: simple, fast and extensible, 2018-02-21T17:16:29+0000
+/project/archipel-agent-virtualmachine-oomkiller/, archipel-agent-virtualmachine-oomkiller, 0.6.0beta, Manage OOM Killer prevention, 2013-03-21T01:24:36+0000
+/project/chatty/, Chatty, 0.2, A multi-platform chat bot framework, 2018-05-31T01:29:39+0000
+/project/digi-xbee/, digi-xbee, 1.4.0, Digi XBee Python library, 2021-03-18T17:52:11+0000
+/project/monk-tf/, monk_tf, 0.17.8, regression test scripting framework for embedded systems developers, 2015-12-10T11:21:36+0000
+/project/traixroute/, traixroute, 2.3, A tool that detects at which hop in a traceroute path an IXP fabric has been crossed., 2018-04-04T12:14:00+0000

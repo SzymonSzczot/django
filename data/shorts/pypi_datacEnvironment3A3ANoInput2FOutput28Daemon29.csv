@@ -1,0 +1,1410 @@
+/project/tessera-client/, tessera-client, 0.4.5, Data model and API client for tessera, 2015-08-21T15:32:53+0000
+/project/times2/, times2, 0.8, Times2 is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2015-10-26T15:10:11+0000
+/project/mopidy-slack/, Mopidy-Slack, 0.1.0, Control your mopidy instance from slack, 2020-05-14T20:01:09+0000
+/project/snafu/, snafu, 0.0.3, Swiss Army Knife of Serverless Computing, 2018-07-01T06:42:00+0000
+/project/tessera/, tessera, 0.10.0, A dashboard front end for Graphite, 2017-02-03T01:01:24+0000
+/project/archipel-agent-action-scheduler/, archipel-agent-action-scheduler, 0.6.0beta, Creation and management of planified tasks for hypervisors and virtual machines, 2013-03-21T01:25:16+0000
+/project/pysrs/, pysrs, 1.0.3, Python SRS (Sender Rewriting Scheme) library, 2018-03-31T17:04:30+0000
+/project/mopidy-wampfrontend/, Mopidy-WAMPFrontend, 0.2.0, Mopidy extension providing a WAMP frontend, 2015-06-03T12:15:22+0000
+/project/pypolicyd-spf/, pypolicyd-spf, 2.0.2, pypolicyd-spf SPF Postfix policy server implemented in Python., 2017-12-14T19:24:33+0000
+/project/pydns/, pydns, 2.3.6, Python DNS library, 2012-02-03T23:23:19+0000
+/project/mopidy-jukepi/, Mopidy-jukePi, 1.0.9, Mopidy web client extension, 2017-01-18T13:15:00+0000
+/project/scrapyd-kit/, scrapyd_kit, 0.1.6, A kit for extending Scrapyd, 2016-08-30T10:04:52+0000
+/project/dirt/, dirt, 0.2.1-unstable, dirt is a comprehensive framework for building Python applications which are part of a service oriented architecture, 2013-02-05T03:44:43+0000
+/project/bcloud-core/, bcloud-core, 3.8.2.dev1, A fork of bcloud, 2016-02-12T15:14:53+0000
+/project/sysmonitor/, sysmonitor, 1.0, System Monitor Daemon, 2018-09-13T15:00:27+0000
+/project/scrapy-elasticsearch-bulk-item-exporter/, scrapy-elasticsearch-bulk-item-exporter, 0.2, An extension of Scrapys JsonLinesItemExporter that exports to elasticsearch bulk format., 2013-07-25T14:10:53+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/mopidy-local-sqlite/, Mopidy-Local-SQLite, 1.0.0, Mopidy SQLite local library extension, 2015-09-05T16:31:42+0000
+/project/zobepy/, zobepy, 1.0.4, zobepy: unsorted python library made by zobe, 2020-10-07T17:12:32+0000
+/project/indicted/, indicted, 0.0.2, Indexed Dictionary Class, 2012-11-02T21:17:23+0000
+/project/tcpnetlock/, tcpnetlock, 0.1.8, Network lock based on TCP sockets, 2018-07-20T20:11:32+0000
+/project/scrapycouchdb/, ScrapyCouchDB, 0.2, Scrapy pipeline which allow you to store scrapy items in CouchDB database., 2011-09-10T19:18:27+0000
+/project/backend-ai-monitor-datadog/, backend.ai-monitor-datadog, 0.2.1, Backend.AI Statistics Monitoring Plugin with Datadog, 2020-12-17T06:42:06+0000
+/project/asus-charge-daemon/, asus-charge-daemon, 0.3.2, A daemon exposing D-Bus services for managing the charge level of recent ASUS notebooks., 2021-02-08T00:40:03+0000
+/project/mopidy-alarmclock/, Mopidy-AlarmClock, 0.1.9, A Mopidy extension for using it as an alarm clock., 2020-03-21T23:58:20+0000
+/project/direstplus/, DIRestPlus, 0.2.2, 基于Restplus实现同花顺iFinD接口分布式调用, 2018-08-24T06:04:19+0000
+/project/socketless/, socketless, 0.4.0, Socketless: An asynchronous high performance TCP messaging library., 2011-03-20T17:57:00+0000
+/project/tahoe-whoosh/, Tahoe-whoosh, 0.3.1, Using and storing whoosh index in Tahoe LAFS grid, 2014-07-08T13:57:13+0000
+/project/collective-recipe-maildump/, collective.recipe.maildump, 0.2.2, Buildout recipe to install maildump, 2016-01-11T05:39:42+0000
+/project/drb-client/, drb-client, 0.4.0, Distributed Randomness Beacon client, 2020-01-26T16:37:50+0000
+/project/mode/, mode, 4.4.0, AsyncIO Service-based programming., 2020-09-28T10:22:07+0000
+/project/routefs/, RouteFS, 1.2.0, RouteFS: A FUSE API wrapper based on URL routing, 2015-10-18T18:06:29+0000
+/project/superhooks/, superhooks, 0.6, superhooks plugin for supervisord, 2020-12-23T10:36:04+0000
+/project/actmon/, actmon, 0.1, This package provides a user idle timer for X11., 2012-03-24T06:57:16+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/surveilr/, surveilr, 0.1a1, Monitoring System evolved, 2011-12-18T15:14:09+0000
+/project/brewpi-remix/, BrewPi-Remix, 0.0.0.1, For the fans of the original Arduino temperature controller, 2020-08-02T14:17:56+0000
+/project/gensafeprime/, gensafeprime, 1.6, Generate safe primes using OpenSSL (a prime p = 2*q+1, and q is prime too), 2019-02-20T16:19:23+0000
+/project/pyqdb/, pyqdb, 0.4, A QDB library for python, 2016-08-02T03:32:49+0000
+/project/asyncscheduler/, AsyncScheduler, 0.2.0, A simpler asynchronous scheduler based on pythons sched.scheduler., 2019-03-23T22:47:55+0000
+/project/scrapy-do-heroku/, scrapy-do-heroku, 0.4.1, A daemon for scheduling Scrapy spiders, 2020-04-28T23:51:19+0000
+/project/ocspd/, ocspd, 0.1, Daemon for updating OCSP staples, 2017-11-03T09:25:39+0000
+/project/skitaid/, skitaid, 0.8.8.3, Skitai App Engine Daemon, 2017-04-05T11:30:38+0000
+/project/backend-ai-console-server/, backend.ai-console-server, 20.9.7, Backend.AI Console Server, 2021-02-22T14:47:28+0000
+/project/mopidy-banshee/, Mopidy-Banshee, 0.1.2, Banshee extension for Mopidy, 2014-07-02T11:49:35+0000
+/project/kdb/, kdb, 1.0.2, Knowledge (IRC) Database Bot, 2014-04-26T15:26:14+0000
+/project/ssh-tarpit/, ssh-tarpit, 0.4.0, SSH tarpit that slowly sends an endless banner, 2021-03-14T16:15:36+0000
+/project/python-wd-parallel/, python-wd-parallel, 0.1.1, python-wd-parallel lets you easilly run your test in multiple borwsers., 2013-05-03T23:03:36+0000
+/project/pyptlib/, pyptlib, 0.0.6, A python implementation of the Pluggable Transports for Circumvention specification for Tor, 2014-04-16T13:16:47+0000
+/project/archipel-agent-hypervisor-network/, archipel-agent-hypervisor-network, 0.6.0beta, Manage libvirt networks, 2013-03-21T01:25:13+0000
+/project/ppp-hal/, ppp_hal, 0.2.1, HAL backend module for the Projet Pensées Profondes, 2015-02-14T11:44:40+0000
+/project/mopidy-api-explorer/, Mopidy-API-Explorer, 1.0.1, Mopidy API Explorer, 2014-07-28T19:30:39+0000
+/project/libcgroup/, libcgroup, 0.2.4, A library that handles Linux cgroups internally using the libcgroup shared library., 2019-03-29T18:24:36+0000
+/project/ppp-natural-math/, ppp_natural_math, 0.3, Natural language processing for math questions for the Projet Pensées
+Profondes., 2015-01-19T15:12:57+0000
+/project/retrofix/, retrofix, 0.25.1, retrofix, 2021-04-16T07:32:25+0000
+/project/archipel-agent-hypervisor-platformrequest/, archipel-agent-hypervisor-platformrequest, 0.6.0beta, Manage platform wide operation requests, 2013-03-21T01:24:43+0000
+/project/pyagentx/, pyagentx, 0.4.1, AgentX package to extend SNMP with pure Python, 2015-06-30T11:06:42+0000
+/project/backend-ai-accelerator-cuda/, backend.ai-accelerator-cuda, 2.0.1, Backend.AI Accelerator Plugin for CUDA, 2021-03-20T15:17:03+0000
+/project/metatools/, Metatools, 0.1.1, Python Metaclass Construction Tools, 2012-10-20T17:34:16+0000
+/project/archipel-core/, archipel-core, 0.6.0beta, Base framework of Archipel., 2013-03-21T01:25:10+0000
+/project/trytond-attachment-s3/, trytond_attachment_s3, 4.0.1.0, Amazon S3 backend for Tryton Attachments, 2017-04-26T17:21:46+0000
+/project/stratum-core/, stratum-core, 0.0.2, Stratum server implementation based on Twisted, 2020-12-31T14:14:24+0000
+/project/ppp-cas/, ppp_cas, 0.8, CAS plugin for PPP, 2015-05-06T11:13:49+0000
+/project/ibats-di-trader/, IBATS-DI-Trader, 0.1.1, 作为IBATS架构的 Trader 端，用于连接Data Integration 平台数据库进行相应的交易及账户信息获取等动作, 2019-03-05T06:43:02+0000
+/project/egenix-mxodbc/, egenix-mxodbc, 3.3.6, eGenix mxODBC - Python ODBC Database Interface, 2016-11-16T16:42:59+0000
+/project/timemon/, timemon, 1.0.0.dev0, timemon plugin for supervisord, 2017-03-13T08:52:28+0000
+/project/mapster/, mapster, 0.3.0, An administration tools for maps repository at http://mapywig.org/, 2020-03-16T20:56:25+0000
+/project/kcpy/, kcpy, 0.1.7, A kinesis consumer is purely written in python., 2018-12-06T11:35:18+0000
+/project/qzig/, qzig, 0.0.4, A ZigBee convertor for Seluxit IoT platform, 2017-11-09T09:18:41+0000
+/project/drag/, drag, 0.1.2, Webhook listener dragging along the main Docker process, 2021-02-08T14:57:32+0000
+/project/apicore/, apicore, 1.2.1, Core lib for REST API, 2018-02-11T23:37:18+0000
+/project/rsp/, rsp, 1.0.1, Rapid SSH Proxy, 2020-08-09T23:32:13+0000
+/project/micropath/, micropath, 0.1.0, The micropath Web Application Framework, 2018-06-03T01:05:40+0000
+/project/zicbee/, zicbee, 0.8, A simple & powerful distributed Music database engine, 2009-05-05T17:36:07+0000
+/project/peewee-extra-fields/, peewee-extra-fields, 2.8.2, Extra fields for Peewee, 2021-02-11T22:32:41+0000
+/project/ancientsolutions-crypttools/, ancientsolutions-crypttools, 0.1, Python Cryptography Utilities, 2014-02-24T22:05:09+0000
+/project/maildirproc/, maildirproc, 1.0.1, maildir processor using Python 3.x as its configuration language, 2015-10-04T18:53:00+0000
+/project/ppp-logger/, ppp_logger, 0.2.2, Logging backend for PPP user interfaces., 2015-03-01T09:59:55+0000
+/project/pytagfs/, pytagfs, 0.0.2, A FUSE filesystem which manages files via tags instead of containing them in folders., 2021-04-15T09:31:04+0000
+/project/mopidy-radio-rough-html/, Mopidy-Radio-Rough-HTML, 31.41.5926, Rough html gui for listening to internet, 2018-08-28T21:38:44+0000
+/project/buildbot-worker/, buildbot-worker, 3.1.0, Buildbot Worker Daemon, 2021-04-05T13:06:20+0000
+/project/pyrobud/, pyrobud, 2.1.0, A clean selfbot for Telegram with an emphasis on quality and practicality., 2020-05-04T04:48:25+0000
+/project/aiorchestra-asyncssh-plugin/, aiorchestra-asyncssh-plugin, 0.1.2, AsyncIO TOSCA orchestrator AsyncSSH plugin for Software configuration, 2016-06-30T13:07:58+0000
+/project/backend-ai-cli/, backend.ai-cli, 0.4.1, Backend.AI Command Line Interface, 2020-04-02T07:03:06+0000
+/project/restifindpy/, RestIFindPy, 0.0.5, 基于Restplus实现同花顺iFinD接口分布式调用, 2018-07-29T08:04:10+0000
+/project/brokkr/, brokkr, 0.3.0, A client for data ingest/logging/uplink, remote management and autonomous & central control of scientific IoT sensors as part of the Mjolnir system., 2020-06-19T12:08:37+0000
+/project/direstinvoker/, DIRestInvoker, 0.2.2, 调用 DIRestPlus 接口，实现Wind、iFinD、Choice接口调用, 2018-08-30T14:15:05+0000
+/project/pytail/, pytail, 1.0.7, Tail files (logs) over TCP, 2018-03-29T15:20:49+0000
+/project/autobahn/, autobahn, 21.3.1, WebSocket client & server library, WAMP real-time framework, 2021-03-02T15:12:15+0000
+/project/dynamodb-backup/, dynamodb-backup, 1.0.0, Backup a DynamoDB table to an Avro container, 2019-11-29T22:18:06+0000
+/project/sorna/, sorna, 1.0.0, Sorna Meta-package, 2017-09-06T08:09:17+0000
+/project/seedboxtools/, seedboxtools, 1.2.11, A tool to automate downloading finished torrents from a seedbox, 2013-09-18T07:15:18+0000
+/project/pollinotify/, pollinotify, 1.2, inotify wrapper providing polling with timeout for specified filesystem events, 2017-12-25T05:09:30+0000
+/project/mopidy-snapduck/, Mopidy-Snapduck, 1.0.0, Mopidy extension for controlling a local Snapcast client, 2021-02-04T17:32:08+0000
+/project/tessdb-server/, tessdb-server, 2.6.8, ('A package to collect measurements published by TESS instruments into a SQlite database',), 2020-11-06T10:23:43+0000
+/project/vault-redirector/, vault-redirector, 0.2.0, Python/Twisted application to redirect Hashicorp Vault client requests to the active node in a HA cluster, 2016-06-15T15:04:42+0000
+/project/toxicjasmine/, toxicjasmine, 0.2, Toxicjasmine: Nothing interresting here., 2020-04-07T19:15:38+0000
+/project/scrapy-do/, scrapy-do, 0.5.0, A daemon for scheduling Scrapy spiders, 2020-12-24T16:55:00+0000
+/project/openexchangerate/, openexchangerate, 1.5.5, OpenExchangeRates API client for Python 3.7+., 2018-04-11T14:47:32+0000
+/project/designate-tempest-plugin/, designate-tempest-plugin, 0.11.0, OpenStack DNS As A Service (Designate) Functional Tests, 2021-03-29T09:08:37+0000
+/project/r0c/, r0c, 1.1.8, retr0chat telnet/vt100 chat server, 2020-12-22T22:32:31+0000
+/project/netlogger/, netlogger, 4.3.1, NetLogger Toolkit, 2012-05-12T16:03:17+0000
+/project/scrapyd/, scrapyd, 1.2.1, A service for running Scrapy spiders, with an HTTP API, 2019-06-17T19:50:44+0000
+/project/discobot/, Discobot, 0.1.0, A fully-featured music bot for Discord., 2016-04-22T15:59:21+0000
+/project/pymail/, PyMail, 0.1.2, An SMTP daemon, 2013-08-06T20:29:14+0000
+/project/scrapyelasticsearch/, ScrapyElasticSearch, 0.9.2, Scrapy pipeline which allow you to store multiple scrapy items in Elastic Search., 2019-12-09T02:35:54+0000
+/project/mopidy-iris/, Mopidy-Iris, 3.57.6, Fully-featured Mopidy frontend client, 2021-04-12T09:38:03+0000
+/project/mopidy-party/, Mopidy-Party, 1.0.0, Mopidy web extension designed for party, 2020-01-03T15:22:15+0000
+/project/limnoria/, limnoria, 2021.04.11, A modified version of Supybot (an IRC bot and framework), 2021-04-11T09:22:46+0000
+/project/dwhois/, dwhois, 0.11, Distributed WHOIS, 2014-03-21T16:55:40+0000
+/project/hszinc/, hszinc, 1.3.1, Parser and dumper for Project Haystack ZINC (Zinc is not CSV) file format, 2020-09-03T23:13:56+0000
+/project/mopidy-defaultplaylist/, Mopidy-DefaultPlaylist, 0.1.0, Sets a default playlist for Mopidy, 2020-09-15T02:59:11+0000
+/project/egenix-mxodbc-zopeda/, egenix-mxodbc-zopeda, 2.2.3, eGenix mxODBC Zope/Plone Database Adapter for Plone and Zope, 2015-09-11T18:36:59+0000
+/project/mopidy-sevensegmentdisplay/, Mopidy-SevenSegmentDisplay, 0.3.1, A Mopidy extension for using it with seven segment display., 2019-05-05T13:01:04+0000
+/project/nixstatsagent/, nixstatsagent, 1.2.12, NixStats agent, 2020-09-08T16:40:05+0000
+/project/mopidy-weblibrary/, Mopidy-WebLibrary, 1.0.0, Mopidy extension for editing the music library in a web interface, 2017-03-18T20:39:50+0000
+/project/echod/, echod, 0.1.0, Echod is a mock server and a callback recorder., 2015-08-21T00:04:57+0000
+/project/shannon-scrapyd/, shannon-scrapyd, 1.2.1.post3, Add nails to scrapyd foundation for alarm, 2019-06-13T08:11:13+0000
+/project/mopidy-spotmop/, Mopidy-Spotmop, 2.10.1, A Mopidy Web client that utilizes the Spotify and EchoNest frameworks, 2016-09-28T06:50:18+0000
+/project/ibats-common/, IBATS-Common, 0.20.8, IBATS（Integration Backtest Analysis Trade System）的公共模块，所有Feeder, Trader均集成这个模块，并使用其提供的一些公共工具, 2020-11-15T09:37:04+0000
+/project/mopidy-gpiocont/, Mopidy-GPIOcont, 0.2.2, Extension to control musicbox via gpio., 2017-08-08T13:46:08+0000
+/project/rucio-webui/, rucio-webui, 1.25.3.post1, Rucio WebUI Package, 2021-04-22T12:25:39+0000
+/project/tako/, tako, 0.0.26, Tako: A distributed data store., 2011-03-20T22:35:24+0000
+/project/scrapydart/, scrapydart, 1.2.0.327, A service for running Scrapy spiders, with an HTTP API, 2018-10-10T09:22:01+0000
+/project/skitai/, skitai, 0.36.4.1, Skitai App Engine, 2021-04-18T13:19:29+0000
+/project/sprockets/, sprockets, 0.1.1, A modular, loosely coupled micro-framework built on top of Tornado simplifying the creation of web applications and RabbitMQ workers, 2014-08-29T13:56:30+0000
+/project/mopidy-tachikoma/, Mopidy-Tachikoma, 0.2.4, Mopidy extension for talking to Slack, 2016-09-12T15:13:56+0000
+/project/gothon/, gothon, 0.5.0, Gothon runs GO Code from Python, just import *.go files from Python., 2018-04-17T00:44:27+0000
+/project/mopidy-mixcloud/, Mopidy-Mixcloud, 3.1415.9265, Mopidy Mixcloud extension, 2021-01-04T12:11:32+0000
+/project/git-multimail/, git-multimail, 1.5.0.post1, Send notification emails for Git pushes, 2019-01-21T20:31:51+0000
+/project/argaeus/, Argaeus, 0.1.10, ThermostatGUIController (display and gui-logic) for a thermostat - to be used in combination with pelops/copreus and pelops/alcathous, 2019-11-20T23:28:25+0000
+/project/gpgmailencrypt/, gpgmailencrypt, 3.4.5.1, an e-mail encryption, virus- and spam- checking module, gateway and daemon, 2021-03-04T19:34:24+0000
+/project/nrdp-daemon/, nrdp-daemon, 1.0.13, Nagios Remote Data Processor Daemon, 2020-12-08T19:06:47+0000
+/project/designate/, designate, 12.0.0, DNS as a Service, 2021-04-14T11:03:20+0000
+/project/graphit/, graphit, 0.6, A very simple server monitoring solution., 2010-03-28T22:09:54+0000
+/project/mqttorrd/, mqttorrd, 0.1.0, Create round robind database files form MQTT messages., 2018-06-19T19:56:39+0000
+/project/rewind-client/, rewind-client, 0.3.0, Python client for Rewind event store., 2012-12-16T23:46:48+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/sqlbridge/, sqlbridge, 0.1.68, sql bridge for Autobahn|Python., 2014-12-18T17:05:07+0000
+/project/dkimpy-milter/, dkimpy-milter, 1.2.2, Domain Keys Identified Mail (DKIM) signing/verifying milter for Postfix/Sendmail., 2020-08-09T18:25:30+0000
+/project/nikippe/, Nikippe, 0.1.11, A general purpose display server - takes values from mqtt and publishes the resulting image to mqtt., 2019-04-18T20:57:47+0000
+/project/django-triflesoft-pages/, django-triflesoft-pages, 0.4.1601022010, Django pages by TrifleSoft, 2016-01-02T20:10:51+0000
+/project/eventfabric/, eventfabric, 0.1.0, Event Fabric API client library, 2013-08-06T11:14:55+0000
+/project/pyspf/, pyspf, 2.0.14, SPF (Sender Policy Framework) implemented in Python., 2020-01-02T02:54:37+0000
+/project/maildirproc-python2/, maildirproc-python2, 1.0.1, maildir processor using Python 2.x as its configuration language, 2015-10-04T17:20:28+0000
+/project/mopidy-musicbox-webclient/, Mopidy-MusicBox-Webclient, 3.1.0, Mopidy MusicBox web extension, 2020-03-22T22:01:11+0000
+/project/dhcpkit-looking-glass/, dhcpkit_looking_glass, 0.9.2, Looking Glass extensions to DHCPKit, 2016-08-05T14:24:32+0000
+/project/parlance/, Parlance, 1.4.1, A framework for playing the Diplomacy board game over a network., 2009-08-30T02:31:12+0000
+/project/concrete/, concrete, 4.15.1, Python modules and scripts for working with Concrete, 2019-05-20T19:45:29+0000
+/project/qonos/, qonos, 1.1.5, The QonoS project provides services for scheduling regularly occuring tasks., 2015-01-21T22:01:32+0000
+/project/aehostd/, aehostd, 1.4.4, AE-DIR host demon, 2021-04-18T16:07:15+0000
+/project/sshauthproxy/, sshauthproxy, 0.1, SSH AuthorizedKeysCommand proxy: publish your SSH authorized_keys from an existing AuthorizedKeysCommand, 2018-11-24T03:13:42+0000
+/project/mopidy-lagukan/, Mopidy-Lagukan, 0.2.4, Mopidy extension for Lagukan, 2019-10-02T04:01:54+0000
+/project/blinkpdf/, blinkpdf, 1.3, Blink-based webpage-to-pdf converter, 2021-02-22T09:15:19+0000
+/project/daxfi/, DAXFi, 1.1, configure different kinds of firewalls in a consistent way., 2007-05-16T18:58:40+0000
+/project/ncolony/, ncolony, 18.6.0, A process starter/monitor, 2018-06-24T00:34:33+0000
+/project/sshproxy/, sshproxy, 0.6.0-beta0, pure python implementation of an ssh proxy, 2007-12-09T23:18:05+0000
+/project/strangle/, Strangle, 0.3.1, Library for comprehending DNS messages using BIND parsing, 2008-08-17T13:23:39+0000
+/project/pametis/, pametis, 0.4, Sitemap Analyzer/Parser/Iterator, 2015-12-30T19:32:22+0000
+/project/mailplate/, mailplate, 0.601, Send Muli-Language Multi-Transport Template-Driven Email, 2015-11-12T13:12:32+0000
+/project/qqqfome/, qqqfome, 0.0.4, I'm a daemon server that auto send message to your zhihu new followers., 2016-02-13T06:13:45+0000
+/project/rucio-clients-xenon1t/, rucio-clients-xenon1t, 0.0.1, Rucio Client Configuration for ATLAS, 2016-06-27T15:10:12+0000
+/project/egenix-web-installer-test/, egenix-web-installer-test, 0.2.0, eGenix Web Installer Test Package, 2014-07-02T15:33:45+0000
+/project/pybiomaps/, PyBioMaps, 0.1.0, PyBioMaps is a framework to manage and visualize scientific data in a browser., 2012-04-04T15:45:49+0000
+/project/sovereign/, sovereign, 0.9.7, Envoy Proxy control-plane written in Python, 2021-03-12T03:23:51+0000
+/project/hippasos/, Hippasos, 0.1.7, Hippasos plays preconfigured sound files upon reception of predefined mqtt messages., 2019-04-07T20:18:09+0000
+/project/mopidy-choosmoos/, mopidy-choosmoos, 1.0.0, Mopidy extension to support the ChoosMoos NFC Spotify Music Player, 2020-09-04T12:23:35+0000
+/project/tendril/, Tendril, 0.1.1, Frame-based Network Connection Tracker, 2014-02-18T01:23:36+0000
+/project/aiotusclient/, aiotusclient, 0.1.4, tus.io-compatible upload client library for Python asyncio, 2020-09-15T05:40:18+0000
+/project/mopidy-bassdrive/, Mopidy-Bassdrive, 0.2.0, Bassdrive archive and stream extension for Mopidy, 2015-04-08T19:45:16+0000
+/project/lazydog/, lazydog, 0.1.1, User-level filesystem event observer, 2018-05-03T15:31:21+0000
+/project/mailprocessing/, mailprocessing, 1.2.7, maildir and IMAP processor/filter using Python 3.x as its configuration language, 2020-02-12T09:48:43+0000
+/project/xenballoond/, xenballoond, 1.0.0, Xen virtual machine ballooning daemon, 2011-08-05T08:41:58+0000
+/project/pysh-lib/, pysh-lib, 0.0.2, Pythonically simple alternative to shell scripts and subprocess, 2020-05-05T07:46:23+0000
+/project/tftpy/, tftpy, 0.8.0, Python TFTP library, 2018-09-13T19:30:05+0000
+/project/ibats-utils/, IBATS-Utils, 1.2.15, IBATS 通用工具，该工具涉及数据库、量化、以及一些通用工具, 2021-04-16T06:55:03+0000
+/project/archipel-agent/, archipel-agent, 0.6.0beta, The hypervisor's agent part of Archipel, 2013-03-21T01:25:06+0000
+/project/nilo-webgallery/, nilo.webgallery, 0.2.5, A simple http server serving a web gallery out of a directory structure., 2009-04-07T17:33:31+0000
+/project/cep/, cep, 0.1.1, Pesquisa de CEPs via site dos Correios, 2011-07-03T13:59:07+0000
+/project/mailflagger/, mailflagger, 0.1.0, A program which flags emails, typically after an incoming payment, 2020-06-08T18:43:47+0000
+/project/bazinga/, Bazinga, 0.2.4, Bazinga is a nose plugin to run tests only if their dependencies were modified, 2011-07-09T22:25:22+0000
+/project/cecdaemon/, cecdaemon, 1.0.0, Daemon and tools for managing CEC capabilities, 2018-09-22T16:46:57+0000
+/project/lectocal/, lectocal, 1.2.1, Syncronize Lectio schedules to Google Calendar., 2018-09-17T11:37:55+0000
+/project/mopidy-moparty/, Mopidy-Moparty, 0.3.2, Extended version of party extension, with Elm frontend, 2020-04-03T15:32:39+0000
+/project/python-nosclient/, python-nosclient, 1.1, Python client for Netease-NOS, 2013-11-28T08:06:14+0000
+/project/fructosa/, FrUCToSA, 0.3.2, A package to collect and analyze basic performance data from clusters, 2020-09-04T11:50:22+0000
+/project/scrapyrt-with-params/, scrapyrt-with-params, 0.11.0, Put Scrapy spiders behind an HTTP API, 2020-07-13T08:18:46+0000
+/project/python-aclapiclient/, python-aclapiclient, 0.1.7, Python ACL API client, 2015-11-26T15:58:33+0000
+/project/qg-db/, qg.db, 0.3.1, qg.db, 2015-07-28T03:52:44+0000
+/project/hotspotd/, hotspotd, 0.1.4, Small daemon to create a wifi hotspot on linux, 2014-11-14T17:58:45+0000
+/project/fuglu/, fuglu, 0.10.8, FuGlu Mail Content Scanner, 2021-02-15T11:54:05+0000
+/project/dcache-nagios-plugins/, dcache-nagios-plugins, 0.0.8, A collection of nagios plugins to monitor a dCache storage., 2018-10-03T08:27:36+0000
+/project/pipilot/, PiPilot, 0.0.1, A software aircraft controller for RaspberryPi, 2018-03-12T19:52:26+0000
+/project/pyvcloud-mishkin/, pyvcloud.mishkin, 12.5, VMware vCloud Python SDK, 2015-05-19T16:19:37+0000
+/project/google-compute-engine/, google-compute-engine, 2.8.13, Google Compute Engine, 2019-01-24T19:42:35+0000
+/project/py-prefork-server/, py-prefork-server, 0.5.0, A simple tcp/udp prefork server library loosely modelled after perl's Net::Server::Prefork, 2020-01-19T21:57:38+0000
+/project/madeiracloud/, MadeiraCloud, 1.0.0, MadeiraCloud Agent, 2011-12-16T10:07:55+0000
+/project/trytond/, trytond, 5.8.7, Tryton server, 2021-04-16T17:00:53+0000
+/project/sftp-cloudfs/, sftp-cloudfs, 0.21, SFTP interface to OpenStack Object Storage (Swift), 2019-07-25T19:45:16+0000
+/project/yaml-acl/, yaml-acl, 0.0.1, Simple YAML-based ACL parser and checker, 2020-11-25T11:22:08+0000
+/project/mopidy-twitterdj/, Mopidy-TwitterDJ, 0.1.4, Controls Spotify via Twitter, 2015-12-03T14:17:42+0000
+/project/bitbucket-jekyll-hook/, bitbucket-jekyll-hook, 0.1.post1, BitBucket webhook to trigger a static site build through Jekyll, 2015-10-03T22:47:22+0000
+/project/maildump/, maildump, 1.0, An SMTP server that makes all received mails accessible via a web interface and REST API., 2020-09-09T22:58:17+0000
+/project/mopidy-qr/, Mopidy-QR, 0.0.1, Mopid extension for adding tracks via a QR code, 2020-07-11T04:12:30+0000
+/project/mopidy-alsamixer/, Mopidy-ALSAMixer, 2.0.1, Mopidy extension for ALSA volume control, 2020-12-08T23:36:06+0000
+/project/syncrepl-client/, syncrepl-client, 0.95.1, An easier-to-use LDAP syncrepl client, 2017-08-17T06:24:00+0000
+/project/scrapyapperyio/, scrapyapperyio, 0.1.3, Scrapy pipeline which allows you to store scrapy items in appery.io database., 2015-07-12T19:22:43+0000
+/project/mopidy-soundcloud/, Mopidy-SoundCloud, 3.0.1, Mopidy extension for playing music from SoundCloud, 2020-12-15T08:10:07+0000
+/project/python-fs-stack/, python-fs-stack, 0.2, Python wrapper for all FamilySearch APIs, 2011-06-08T20:17:11+0000
+/project/livecheck/, livecheck, 0.0.1, Testing distributed systems., 2019-04-01T23:31:30+0000
+/project/archippe/, Archippe, 0.2.1, Archippe is a data persistence micro service for pelops. It uses influxdb to store incoming values and publishes the history a series upon request., 2020-04-23T22:29:30+0000
+/project/splitviewfuse/, splitviewfuse, 0.3.1, A fuse implementation for an segmented view on a given directory., 2016-10-30T15:39:28+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/inputexec/, inputexec, 0.2.4, Simple Python program to execute commands on keypress on headless systems, 2013-08-14T16:08:30+0000
+/project/mopidy-spotify/, Mopidy-Spotify, 4.1.1, Mopidy extension for playing music from Spotify, 2021-01-07T13:49:16+0000
+/project/vagoth/, vagoth, 0.9.3, Pluggable cluster controller (eg. for VM management), 2013-12-29T11:37:59+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/supermann/, supermann, 3.2.0, A Supervisor event listener for Riemann, 2016-06-29T12:10:30+0000
+/project/mopidy-audioteka/, Mopidy-Audioteka, 0.1.5, Mopidy backend extension for Audioteka, 2019-02-02T21:26:58+0000
+/project/ibats-huobi-feeder/, IBATS-Huobi-Feeder, 0.1.3, 连接 Huobi 火币交易所，获取实时行情、历史行情，保存到mysql数据库同时redis广播，供 IBATS 交易平台进行策略回测、分析，交易使用, 2018-12-07T02:03:33+0000
+/project/backend-ai-agent/, backend.ai-agent, 21.3.0, Backend.AI Agent, 2021-03-29T01:52:58+0000
+/project/mopidy-qobuz/, Mopidy-Qobuz, 0.0.1, Mopidy extension for playing music from Qobuz, 2019-05-18T16:17:17+0000
+/project/redirbot/, redirbot, 0.0.5, IRCBot, telling people they should contact you on different nickname, 2013-07-23T09:34:07+0000
+/project/pilotmapreduce/, PilotMapReduce, 0.1.0, SAGA Pilot-Abstractions based MapReduce Implementation, 2012-11-06T06:48:43+0000
+/project/mopidy-radioworld/, Mopidy-RadioWorld, 0.1.0, Mopidy backend extension for Radiowrold.live service, 2020-06-05T20:00:50+0000
+/project/run-in-gui/, run-in-gui, 0.0.1, Tools to run (possibly graphical) programs in logged-in user sessions on modern Linux distributions, 2013-08-31T08:48:30+0000
+/project/bitbot/, bitbot, 1.12.0, Modular event-driven IRC bot, 2019-10-11T16:26:04+0000
+/project/emojifs/, emojifs, 0.2.0, A FUSE filesystem to manipulate custom emojis on your various Slacks and Discords, 2020-09-29T22:03:22+0000
+/project/deterministic-encryption-utils/, deterministic_encryption_utils, 0.3.0.post1, Common encryption utilities for the implementation of simple encryption/decryption views., 2015-12-13T20:07:24+0000
+/project/mopidy-rough-base/, Mopidy-Rough-Base, 3.14.15, Shared classes for building radio rough guis., 2018-01-15T07:29:07+0000
+/project/nattka/, nattka, 0.2.11, A New Arch Tester Toolkit (open source replacement for stable-bot), 2020-11-27T10:05:10+0000
+/project/mopidy-plex/, Mopidy-Plex, 0.1.0b, Mopidy extension for playing audio from a Plex server, 2016-02-02T00:07:32+0000
+/project/wallpoppy/, WallPoppy, 0.1.0, Simple wallpaper daemon using feh, 2018-12-25T01:12:33+0000
+/project/async-pluct/, async-pluct, 0.3.4, JSON Hyper Schema client, 2017-12-22T10:53:19+0000
+/project/kytos/, kytos, 2020.2, Kytos, an open source SDN Platform, 2020-12-30T20:42:30+0000
+/project/xtrmth/, xtrmth, 1.6.1, assorted math functions, to provide all of your math needs., 2021-01-26T21:57:39+0000
+/project/escale/, escale, 0.7.11, Escale - Client-to-client synchronization based on external relay storage, 2020-12-16T11:55:02+0000
+/project/valet/, valet, 0.4, valet is a script that turns any directory into a simple wiki, complete with wikitext rendering, editing, and automatically committing changes to version control., 2015-01-04T01:01:45+0000
+/project/filemarx/, filemarx, 0.1.0, Validate a directory structure using JSON schemas, 2015-03-01T15:28:17+0000
+/project/pycloudfuse/, pycloudfuse, 0.02, Fuse (Filesystem in Userspace) interface to Rackspace Cloud Files and Open Stack Object Storage (Swift), 2011-08-18T11:31:09+0000
+/project/mc4ep-lavender/, mc4ep-lavender, 0.17.0, MC4EP cabinet core, 2021-02-28T02:14:16+0000
+/project/oodt/, oodt, 1.1, Apache OODT, 2017-07-27T04:22:18+0000
+/project/jw-badipsrbl/, jw.badipsrbl, 0.5.5, RBL DNS Server for badips.com, 2016-03-31T12:03:37+0000
+/project/dkimpy/, dkimpy, 1.0.5, DKIM (DomainKeys Identified Mail), ARC (Authenticated Receive Chain), and TLSRPT (TLS Report) email signing and verification, 2020-08-09T02:51:36+0000
+/project/ptml/, ptml, 0.4.0, PTML - Embed Python in text documents, 2010-09-17T05:23:43+0000
+/project/mopidy-pummeluff/, Mopidy-Pummeluff, 2.2.0, Pummeluff is a Mopidy extension which allows you to control Mopidy via RFID tags, 2020-04-15T12:06:53+0000
+/project/tcomapi/, tcomapi, 0.1.13, Bundle for getting open data from some KZ sites., 2020-06-23T11:09:59+0000
+/project/noipclient/, noipclient, 0.0.7, noip.com Dynamic DNS update client., 2016-05-29T05:14:41+0000
+/project/openerp-core/, openerp-core, 7.0.406, Core OpenERP package, 2014-02-09T14:45:24+0000
+/project/sprockets-http/, sprockets.http, 2.2.0, Tornado HTTP application runner, 2020-09-28T13:30:10+0000
+/project/brewpi/, BrewPi, 0.0.0.1, For the fans of the original Arduino temperature controller, 2020-08-02T14:19:31+0000
+/project/mailtrap/, mailtrap, 1.0.1, MailTrap has been renamed to Sendria. Use Sendria now! An SMTP server that makes all received mails accessible via a web interface and REST API., 2020-10-03T09:43:26+0000
+/project/py3dns/, py3dns, 3.2.1, Python 3 DNS library, 2019-09-04T12:24:45+0000
+/project/skeiron/, Skeiron, 0.1.3, Skeiron provides a Forwarding/Echo/Collect/Distribute service., 2019-04-07T20:19:53+0000
+/project/ftp-cloudfs/, ftp-cloudfs, 0.37.1, FTP interface to OpenStack Object Storage (Swift), 2020-02-12T18:47:37+0000
+/project/magneticod/, magneticod, 0.6.0, Autonomous BitTorrent DHT crawler and metadata fetcher., 2017-06-14T08:34:59+0000
+/project/supervisor-twiddler/, supervisor_twiddler, 1.0.0, supervisor_twiddler RPC extension for Supervisor, 2014-02-02T22:24:47+0000
+/project/poorbox/, poorbox, 0.1, Downloads a dropbox directory via the dropbox REST API. Downloads only the changed files. Useful for limited environments., 2013-02-24T02:23:20+0000
+/project/rucio-clients-xdc/, rucio-clients-xdc, 0.0.2, Rucio Client Configuration for XDC, 2018-05-04T10:12:28+0000
+/project/compropago-python/, compropago-python, 0.3, Python library for ComproPago, 2016-02-08T06:13:57+0000
+/project/django-triflesoft-templatetags/, django-triflesoft-templatetags, 0.5.1610232024, Django template tags by TrifleSoft, 2016-10-23T20:24:32+0000
+/project/archipel-agent-vmparking/, archipel-agent-vmparking, 0.6.0beta, Handle the virtual machine parking, 2013-03-21T01:25:52+0000
+/project/simplerdfserver/, SimpleRDFServer, 0.2, Serves RDF (RSS 1.0) indexes of directories over HTTP, 2006-10-11T05:55:10+0000
+/project/archipel-agent-hypervisor-geolocalization/, archipel-agent-hypervisor-geolocalization, 0.6.0beta, Make hypervisor able to locate themselves in the world, 2013-03-21T01:25:47+0000
+/project/py-daemon/, py_daemon, 0.1.2, Python daemonizer for Unix, Linux and OS X, 2016-09-24T20:47:37+0000
+/project/mantissa/, Mantissa, 0.9.0, A multiprotocol application deployment platform, 2017-09-05T09:06:47+0000
+/project/munin2smartphone/, munin2smartphone, 0.0.4, Demilitarized HTTP server eating munin monitoring data and producing static pages that can be displayed securely (ie. without javascript), on your smartphone., 2020-05-28T20:39:00+0000
+/project/keyfree/, keyfree, 1.0.0, An authentication proxy for Amazon Elasticsearch Service, 2016-11-13T13:47:00+0000
+/project/mopidy-sangu/, Mopidy-Sangu, 1.2.0, Democratic, collaborative playlist frontend for Mopidy made with Flutter, 2020-11-16T17:37:19+0000
+/project/nkit4py/, nkit4py, 2.4.2, Fast XML to Python (and vise versa) converter and filter. Written in C++ using Expat SAX parser, 2016-05-25T16:30:41+0000
+/project/gerritexec/, gerritexec, 2.2.0, Run a command when a gerrit patchset is created, 2014-06-28T13:04:25+0000
+/project/kogniserver/, kogniserver, 0.3.1, Interface server of the KogniHome project, 2019-02-26T13:59:10+0000
+/project/zicbee-mplayer/, zicbee-mplayer, 0.9.1, MPlayer backend for zicbee project, 2010-06-14T19:45:00+0000
+/project/baculafs/, BaculaFS, 0.1.7, Bacula Filesystem in USErspace, 2010-12-30T21:40:01+0000
+/project/eyefi/, eyefi, 0.2, EyeFi Server Framework, 2012-03-03T22:35:06+0000
+/project/dcnnt/, dcnnt, 0.4.0, UI-less tool to connect Android phone with desktop, 2021-02-14T21:54:50+0000
+/project/dnsmon/, dnsmon, 0.1, A package to monitor DNS resolution values and report on differences from expected values, 2011-04-12T03:08:07+0000
+/project/ppp-oeis/, ppp_oeis, 0.1.3, PPP module answering questions about integer sequences., 2015-02-14T11:49:18+0000
+/project/mopidy-podcast/, Mopidy-Podcast, 3.0.0, Mopidy extension for browsing and playing podcasts, 2019-12-25T08:18:44+0000
+/project/policyd-rate-limit/, policyd-rate-limit, 1.0.1.2, Postfix rate limit policy server implemented in Python3., 2020-05-17T17:18:37+0000
+/project/django-triflesoft-token-auth/, django-triflesoft-token-auth, 0.4.1510031721, Django token authentication by TrifleSoft, 2015-10-03T17:21:03+0000
+/project/mathomaticprimes/, mathomaticprimes, 0.0.1, Python library and web service interface (as service egg) for Mathomatic's prime number generator., 2010-01-16T11:34:52+0000
+/project/qg-web/, qg.web, 0.1.3, qg.web, 2015-07-28T04:03:17+0000
+/project/watchghost/, watchghost, 0.3.0, Your invisible but loud monitoring pet, 2019-07-31T12:28:49+0000
+/project/buildbot-slave/, buildbot-slave, 0.8.14.post1, BuildBot Slave Daemon, 2021-01-22T10:40:09+0000
+/project/ppp-nlp-classical/, ppp_nlp_classical, 0.2.8, Natural language processing module for the PPP., 2014-11-15T13:48:37+0000
+/project/slapdcheck/, slapdcheck, 3.8.2, OpenLDAP monitoring check, 2021-03-18T16:12:27+0000
+/project/mopidy-podcast-gpodder-net/, Mopidy-Podcast-gpodder.net, 1.0.0, Mopidy-Podcast extension for searching and browsing podcasts on gpodder.net, 2014-05-24T14:08:56+0000
+/project/mopidy-gpio/, Mopidy-GPIO, 0.1.15, Controll mopidy with GPIO, 2014-11-01T22:12:02+0000
+/project/supervisor-plus-cron/, supervisor-plus-cron, 1.0.15201, From 4.0.0.dev0: A system for controlling process state under UNIX, plus CRON!, 2015-07-19T14:39:33+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/rtd-bin-server/, rtd-bin-server, 1.2.0, A pastebin for Read The Docs discord community, 2021-04-23T00:30:35+0000
+/project/hippodamiaagent/, HippodamiaAgent, 0.1.12, Hippodamia observe the state of all registered microservices (aka watch dog)., 2019-04-05T20:22:04+0000
+/project/ptw/, ptw, 1.0.1, Pooling TLS Wrapper, 2020-08-09T23:28:50+0000
+/project/ppp-core/, ppp_core, 0.7.5, Core/router of the PPP framework., 2016-04-01T08:30:12+0000
+/project/python-aqbanking/, python-aqbanking, 0.0.8, This is a python wrapper for AqBanking, 2019-09-13T20:26:56+0000
+/project/mopidy-vkontakte/, Mopidy-VKontakte, 0.3.1, Mopidy extension for VKontakte allows         to listen to music from VKontakte social network., 2014-09-27T21:29:10+0000
+/project/blanche/, blanche, 0.1, Tiny CDN, 2012-04-23T20:26:27+0000
+/project/mopidy-evtdev/, Mopidy-EvtDev, 0.1.1, Mopidy extension for virtual input devices, 2014-05-06T11:27:39+0000
+/project/afraid/, afraid, 0.1-dev, A simple client for the afraid.org dynamic DNS service, 2011-12-22T07:08:20+0000
+/project/zicbee-gst/, zicbee-gst, 0.6.1, Gstreamer backend for zicbee project, 2010-06-14T19:42:13+0000
+/project/mopidy-ydisk/, Mopidy-YDisk, 0.2.0, Mopidy extension for Yandex.Disk, 2019-08-17T08:33:32+0000
+/project/scrapyrt/, scrapyrt, 0.12.0, Put Scrapy spiders behind an HTTP API, 2021-03-08T12:56:26+0000
+/project/pyvmomi/, pyvmomi, 7.0.2, VMware vSphere Python SDK, 2021-04-09T13:20:00+0000
+/project/swiftnbd/, swiftnbd, 0.11, This is a NBD server for OpenStack Object Storage (Swift)., 2016-03-30T20:52:10+0000
+/project/pleisthenes/, Pleisthenes, 0.1a0, Pleisthenes is a weather microservice (connects to a weather site and provides e.g. local sun radiation)., 2018-11-19T22:44:01+0000
+/project/multilog/, multilog, 1.1.0, A simple logger for multiple Python processes., 2016-02-08T13:54:52+0000
+/project/autoblockchainify/, autoblockchainify, 0.9.5, Turn a directory into a git-based Blockchain, 2021-01-17T08:55:27+0000
+/project/swftp/, swftp, 1.0.7, SwFTP is an FTP and SFTP interface for Openstack Object
+Storage (swift), 2013-07-03T15:23:38+0000
+/project/temboard-agent/, temboard-agent, 7.6, PostgreSQL Remote Control Agent, 2021-02-10T15:35:34+0000
+/project/huefs/, huefs, 0.0.1a2, Philips Hue as a FUSE filesystem, 2018-03-22T07:35:19+0000
+/project/jw-mailfilter/, jw.mailfilter, 0.5.15, IMAP mail filter, 2016-12-04T10:27:43+0000
+/project/gocept-lms/, gocept.lms, 3.0a6, gocept Link Monitoring Server, 2011-02-14T13:37:35+0000
+/project/archipel-agent-vmcasting/, archipel-agent-vmcasting, 0.6.0beta, Manage all stuff about vmcasting, 2013-03-21T01:24:53+0000
+/project/mopidy-hoerbert/, Mopidy-Hoerbert, 0.1.1, Hoerbert, 2017-09-10T13:31:06+0000
+/project/mode-streaming/, mode-streaming, 0.1.0, AsyncIO Service-based programming., 2020-12-18T10:22:39+0000
+/project/spotpris2/, SpotPRIS2, 0.4.1, MPRIS2 interface for Spotify Connect, 2020-03-10T22:52:31+0000
+/project/scrapyd-dingding/, scrapyd-dingding, 1.2.0, Add nails to scrapyd foundation for alarm, 2019-05-28T12:49:29+0000
+/project/zfs-tools-zbackup/, zfs-tools-zbackup, 0.5.1, ZFS synchronization and snapshotting tools, 2018-12-13T22:39:20+0000
+/project/python-bond/, python-bond, 1.4, transparent remote/recursive evaluation between Python and other languages, 2015-05-27T15:39:22+0000
+/project/mopidy-dleyna/, Mopidy-dLeyna, 2.0.1, Mopidy extension for playing music from Digital Media Servers, 2020-07-06T19:28:06+0000
+/project/mopidy-pidi/, mopidy-pidi, 1.0.3, Mopidy extension for displaying song info and album art using pidi plugins, 2020-05-15T10:15:35+0000
+/project/mopidy-playbackdefaults/, Mopidy-PlaybackDefaults, 0.1.2, Mopidy extension for configurable default playback settings., 2020-03-21T23:32:13+0000
+/project/mopidy-oe1/, Mopidy-OE1, 1.2.0, Mopidy backend to access the Austrian radio station OE1., 2017-06-11T11:26:15+0000
+/project/django-triflesoft-locations/, django-triflesoft-locations, 0.3.1509281138, Django locations models by TrifleSoft, 2015-09-28T11:38:14+0000
+/project/backend-ai-storage-proxy/, backend.ai-storage-proxy, 21.3.0, Backend.AI Storage Proxy, 2021-03-29T04:20:03+0000
+/project/sorna-manager/, sorna-manager, 0.9.11, Sorna Manager, 2017-09-08T08:11:35+0000
+/project/hub2lab/, hub2lab, 1.6.0, command line tool to migrate projects from GitHub to GitLab, 2018-12-13T18:45:23+0000
+/project/sorna-common/, sorna-common, 0.9.6, Sorna common libraries, 2017-07-18T14:33:44+0000
+/project/vcsserver/, vcsserver, 0.3.1, Library for easy and fast creation of an ssh demon for popular VCSs (Mercurial and Git), 2014-02-11T10:54:23+0000
+/project/xfs/, xfs, 0.4, XFS filesystem API, 2018-06-04T20:19:11+0000
+/project/mopidy-autoplay/, Mopidy-Autoplay, 0.2.2, Start playing the last track when starting Mopidy., 2021-04-23T12:46:01+0000
+/project/mpdlcd/, mpdlcd, 0.5.2, Display MPD status on a lcdproc server., 2019-01-02T18:35:18+0000
+/project/scrapy-http-pipeline/, scrapy-http-pipeline, 0.2.0, Scrapy HTTP POST items pipeline, 2020-11-30T08:48:39+0000
+/project/archipel-agent-xmppserver/, archipel-agent-xmppserver, 0.6.0beta, Can manage Ejabberd Server using XMLRPC module, 2013-03-21T01:24:57+0000
+/project/mopidy-ttsgpio/, Mopidy-TtsGpio, 1.0.2, Controll mopidy without screen using GPIO and TTS, 2016-03-24T12:24:17+0000
+/project/ixnetwork/, IxNetwork, 9.0.1915.16, IxNetwork Low Level API, 2019-07-24T23:46:40+0000
+/project/mopidy-yandexmusic/, Mopidy-Yandexmusic, 0.0.6, Yandex Music plugin for Mopidy, 2020-12-01T05:09:24+0000
+/project/mopidy-multisonic/, Mopidy-Multisonic, 0.5.2, A mopidy backend provider for multisonic services, 2020-07-30T11:14:18+0000
+/project/mopidy-jingle/, Mopidy-Jingle, 0.1.0, Mopidy extension that plays jingle between tracks, 2020-05-14T20:01:56+0000
+/project/pymilter/, pymilter, 1.0.4, Python interface to sendmail milter API, 2019-04-22T14:08:46+0000
+/project/superslacker/, superslacker, 0.4, superslacker plugin for supervisord, 2019-11-15T19:24:07+0000
+/project/backend-ai-common/, backend.ai-common, 21.3.1, Backend.AI commons library, 2021-04-13T05:48:08+0000
+/project/har-server/, har-server, 0.0.1, Programmable HTTP server for testing, 2018-12-23T19:37:01+0000
+/project/backend-ai-webserver/, backend.ai-webserver, 21.3.1.post0, Backend.AI Web Server, 2021-04-04T11:40:03+0000
+/project/txloadbalancer/, txLoadBalancer, 1.1.0, txLoadBalancer - A Twisted-based TCP load balancer., 2008-07-05T08:53:25+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/kgd/, kgd, 0.1.27, Tool for retrieving information on tax payments by Kazakhstan companies, 2020-02-27T07:52:16+0000
+/project/nidhoggr/, nidhoggr, 1.0.1, Yggdrasil protocol implementation, 2021-03-16T08:10:54+0000
+/project/supervisor-lrn/, supervisor-lrn, 4.0.0, A system for controlling process state under UNIX, 2018-11-07T18:09:41+0000
+/project/javanicus/, Javanicus, 0.1, A WebHDFS FUSE driver, 2013-05-10T23:09:19+0000
+/project/backupmysystemusb2usb/, backupmysystemusb2usb, 1.0.4, Backup a usb key to another usb key with the same space disk, 2020-02-09T13:12:16+0000
+/project/libraptorq/, libraptorq, 18.3.0, Python CFFI bindings for libRaptorQ (RaptorQ RFC6330 FEC implementation)., 2018-03-06T06:51:23+0000
+/project/eddie-tool/, EDDIE-Tool, 1.0.0, The EDDIE Tool is a system and network monitoring, security, and performance analysis agent developed entirely in threaded Python. Its key features are portability, extendibility, and powerful configuration., 2009-09-28T14:19:16+0000
+/project/zfs-tools/, zfs-tools, 0.5.1, ZFS synchronization and snapshotting tools, 2020-01-04T00:10:51+0000
+/project/mopidy-jellyfin/, Mopidy-Jellyfin, 1.0.2, Mopidy extension for playing music from jellyfin, 2021-04-18T15:34:18+0000
+/project/thyestes/, Thyestes, 0.1.2, Thyestes it a timer microservice. Listens on topics for specific messages, starts a timer when such a messages has been received and publishes a predefined message after the timer expired., 2019-04-07T20:20:33+0000
+/project/rejester/, rejester, 0.8.9, redis-based python client library and command line tools for managing tasks executed by a group of configurable workers, 2015-07-08T11:30:27+0000
+/project/idiotic/, idiotic, 0.2.0, Distributed home automation controller, 2016-03-23T04:44:30+0000
+/project/sprockets-mixins-metrics/, sprockets.mixins.metrics, 4.1.0, Record performance metrics about your application, 2019-09-04T10:48:42+0000
+/project/dropboxwsgi/, dropboxwsgi, 1.0.1, WSGI-compatible HTTP interface to Dropbox, 2012-04-06T00:27:09+0000
+/project/pyfarm-agent/, pyfarm.agent, 0.8.6, Core module containing code to run PyFarm's agent., 2015-06-04T03:57:20+0000
+/project/microscan/, microscan, 0.0.2, Python driver from Microscan barcode readers, 2018-05-07T07:30:35+0000
+/project/featmongo/, featmongo, 0.3.3, Wrapper around pymongo using the serialization module to convert BSON to python object, 2016-05-31T09:22:31+0000
+/project/sardana/, sardana, 3.0.3, instrument control and data acquisition system, 2020-09-18T08:55:02+0000
+/project/py2pip/, py2pip, 1.0.2, Master package for Py2PIP, 2020-02-12T16:02:55+0000
+/project/mopidy-bookmarks/, Mopidy-Bookmarks, 0.1.4, Provides bookmarks functionalities to mopidy., 2020-07-31T15:08:19+0000
+/project/mopidy-grooveshark/, Mopidy-Grooveshark, 1.0.4, Mopidy extension that plays sound from Grooveshark, 2015-04-25T17:28:05+0000
+/project/mopidy-dirble/, Mopidy-Dirble, 1.3.0, Mopidy extension for Dirble open radio directory, 2016-01-24T22:56:53+0000
+/project/django-triflesoft-holidays/, django-triflesoft-holidays, 0.2.1509281136, Django holidays models by TrifleSoft, 2015-09-28T11:36:21+0000
+/project/scrapy-multifeedexporter/, scrapy-multifeedexporter, 0.1.1, Export scraped items of different types to multiple feeds., 2014-10-07T13:25:50+0000
+/project/msikeyboard/, msikeyboard, 0.1.1, Support library and daemon for SteelSeries keyboards on MSI laptops, 2018-08-25T18:46:22+0000
+/project/mopidy-ircontrol/, Mopidy-IRControl, 0.1.0, Mopidy frontend to be controlled with an IR controller, 2015-10-08T20:19:37+0000
+/project/pizero-gpslog/, pizero-gpslog, 1.1.0, Raspberry Pi Zero gpsd logger with status LEDs., 2020-09-11T12:06:00+0000
+/project/lysidike/, Lysidike, 0.1.2, Lysidike publishes incoming mqtt messages to various internet services like email., 2019-04-07T20:18:43+0000
+/project/p2whois/, p2whois, 0.5, Proxy to Prefix WhoIs, 2015-12-08T16:54:13+0000
+/project/mopidy-filemanager/, Mopidy-FileManager, 0.2.0, Mopidy extension for file manager, 2016-11-17T08:06:16+0000
+/project/sphinxsearch/, sphinxsearch, 0.1, A module for querying the sphinx search daemon, 2008-07-27T10:49:29+0000
+/project/ibats-huobi-trader/, IBATS-Huobi-Trader, 0.1.8, 作为IBATS架构的 Trader 端，用于连接Huobi 火币交易所进行相应的交易及账户信息获取等动作, 2018-12-10T07:40:33+0000
+/project/epidaurus/, Epidaurus, 0.2.0, PID based room temperature controller - to be used in combination with pelops/copreus, pelops/argaeus and pelops/alcathous., 2020-04-23T22:47:06+0000
+/project/mopidy-beetslocal/, Mopidy-BeetsLocal, 0.0.9, Access local beets library, 2016-08-27T14:21:27+0000
+/project/p-unity/, p-unity, 0.42.202104180000, { Programming : Unity }, 2021-04-18T01:18:45+0000
+/project/vcssshd/, vcssshd, 0.2.3, Library for easy and fast creation of an ssh demon for popular VCSs (Mercurial and Git), 2013-06-24T07:20:47+0000
+/project/mopidy-mpris/, Mopidy-MPRIS, 3.0.3, Mopidy extension for controlling Mopidy through the MPRIS D-Bus interface, 2020-12-08T23:23:49+0000
+/project/rustybits/, rustybits, 0.0.2, , 2020-01-19T21:35:16+0000
+/project/qg-core/, qg.core, 0.1.6, qg.core, 2015-07-28T03:28:40+0000
+/project/times/, times, 0.7, Times is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2014-08-24T06:13:20+0000
+/project/supybot/, supybot, 0.84.0, A flexible and extensible Python IRC bot and framework., 2018-05-10T00:44:10+0000
+/project/pycoon/, pycoon, 0.2a5, Python WSGI web development framework based on XML pipelines, 2007-04-12T11:46:14+0000
+/project/londiste/, londiste, 3.5, Database replication based on PgQ, 2020-10-20T06:00:20+0000
+/project/backend-ai-integration-jupyter/, backend.ai-integration-jupyter, 0.3.2, Backend.AI Integration for Jupyter, 2018-11-09T14:54:35+0000
+/project/lbindex/, LBIndex, 0.1.1, Indexer Daemon for the neo-lightbase service, 2013-06-28T19:24:56+0000
+/project/package-cache/, package-cache, 0.2, A caching proxy for package downloads, 2014-02-22T03:15:16+0000
+/project/django-triflesoft-tags/, django-triflesoft-tags, 0.3.1509281140, Django template tags by TrifleSoft, 2015-09-28T11:40:05+0000
+/project/archipel-agent-hypervisor-health/, archipel-agent-hypervisor-health, 0.6.0beta, Get health of hypervisors, 2013-03-21T01:25:38+0000
+/project/brss/, brss, 0.8.14, Offline DBus RSS reader, 2011-07-31T08:38:59+0000
+/project/pelops/, Pelops, 0.5.0, Common tools for projects of the the gitlab group pelops., 2020-04-23T21:03:36+0000
+/project/django-triflesoft-loginas/, django-triflesoft-loginas, 0.4.1610232024, Django loginas for administrators by TrifleSoft, 2016-10-23T20:24:24+0000
+/project/mopidy-youtube/, Mopidy-YouTube, 3.3, Mopidy extension for YouTube, 2021-04-12T00:19:24+0000
+/project/geventconnpool/, geventconnpool, 0.2.1, TCP connection pool for gevent, 2014-06-03T10:38:17+0000
+/project/fooster-db/, fooster-db, 0.9.0, a human-readable, magic database in Python, 2020-10-17T19:00:00+0000
+/project/orthogonalspace/, orthogonalspace, 0.0.1, Space-based game, 2016-07-04T08:29:28+0000
+/project/hippodamiaservice/, HippodamiaService, 0.1a1, Hippodamia observe the state of all registered microservices (aka watch dog)., 2018-11-24T10:42:15+0000
+/project/chiron-bot/, chiron-bot, 0.9.1, Chat bot that can look up ticket numbers on bugtrackers and return their names, 2021-02-06T03:19:49+0000
+/project/moin/, moin, 1.9.11, MoinMoin 1.9.11 is an easy to use, full-featured and extensible wiki software package, 2020-11-08T17:42:48+0000
+/project/mopidy-webhooks/, Mopidy-Webhooks, 0.2.0, Mopidy extension that sends webhook notifications to a remote server, 2014-11-03T21:59:19+0000
+/project/mopidy-radionet/, Mopidy-RadioNet, 0.2.2, Mopidy extension for radio.net, 2020-12-31T14:04:34+0000
+/project/dynip/, DynIP, 0.1e, A painfully simple UDP Client/Server for tracking the IP addresses of your devices., 2011-11-30T06:41:40+0000
+/project/toxicbuild/, toxicbuild, 0.7.0, Simple and flexible continuous integration tool., 2019-08-26T08:43:52+0000
+/project/egenix-pyopenssl/, egenix-pyopenssl, 0.13.16, eGenix pyOpenSSL Distribution for Python, 2016-11-11T10:00:02+0000
+/project/apex-radio/, apex-radio, 0.0.5, APEX reference implementation., 2016-10-02T11:36:26+0000
+/project/vote4film/, vote4film, 1.7.2, Easy scheduling for regular film nights, 2021-03-04T20:41:58+0000
+/project/daemontools/, daemontools, 0.0.2a5, Daemonizing and single instance tools., 2018-02-09T08:51:58+0000
+/project/rucio-clients-mock/, rucio-clients-mock, 0.0.4, MOCK Rucio Client Configuration, 2018-02-05T12:55:10+0000
+/project/mopidy-spotify-tunigo/, Mopidy-Spotify-Tunigo, 1.0.0, Mopidy extension for providing the browse feature of Spotify, 2016-02-07T13:15:05+0000
+/project/sps-parser/, sps-parser, 0.3.0, Metadata extractor from MineLP skins, 2021-02-28T00:33:23+0000
+/project/hippodamia/, Hippodamia, 0.4.2, Hippodamia observe the state of all registered microservices (aka watch dog)., 2019-11-03T21:01:19+0000
+/project/sorna-jupyter-kernel/, sorna-jupyter-kernel, 0.1.3, Sorna Jupyter Kernel Integration, 2017-09-19T05:13:29+0000
+/project/ppp-french-parser/, ppp_french_parser, 0.1.4, Parser of the French language for the PPP., 2015-02-03T14:44:22+0000
+/project/archipel-agent-virtualmachine-vnc/, archipel-agent-virtualmachine-vnc, 0.6.0beta, manage VNC screen connection, 2013-03-21T01:25:23+0000
+/project/sysmonitor-agent/, sysmonitor-agent, 2.2, System Monitor Agent, 2018-08-27T11:10:08+0000
+/project/thunderhead/, thunderhead, 0.4.3, Python sdk to interface with vCloud Usage Meter, 2015-04-16T18:11:59+0000
+/project/gitserve/, gitserve, 0.2.0, A helper tool for git that mimics mercurial's serve command, 2008-04-28T10:33:20+0000
+/project/egenix-mxodbc-connect-client/, egenix-mxodbc-connect-client, 2.1.5, eGenix mxODBC Connect Client for Python, 2015-10-23T08:41:04+0000
+/project/dhcpkit-kafka/, dhcpkit_kafka, 1.0.0, Kafka extensions to DHCPKit, 2016-12-08T16:37:49+0000
+/project/zicbee-vlc/, zicbee-vlc, 0.9.2, VLC backend for zicbee project, 2010-06-14T19:43:38+0000
+/project/longtroll/, longtroll, 1.0, Detect long-running processes and notify you when they're done., 2012-08-01T01:14:21+0000
+/project/mopidy-local-whoosh/, Mopidy-Local-Whoosh, 0.1.0, Whoosh local library extension., 2014-02-25T22:48:13+0000
+/project/github2gitlab/, github2gitlab, 1.5.5, command line tool to migrate projects from GitHub to GitLab, 2016-03-18T20:59:48+0000
+/project/sqlauth/, sqlauth, 0.2.12, Authentication and Authorization via SQL for Autobahn, 2014-12-23T17:32:56+0000
+/project/artie/, artie, 0.1.1, IRC utility robot framework for Python, 2010-08-28T08:55:52+0000
+/project/borgback/, borgback, 1.0, Scheduled backups using Borg, 2018-10-23T19:32:31+0000
+/project/zicbee-mpris/, zicbee-mpris, 1.0, MPRIS backend for zicbee project, 2012-06-06T19:22:48+0000
+/project/mopidy-scrobbler/, Mopidy-Scrobbler, 2.0.1, Mopidy extension for scrobbling played tracks to Last.fm, 2020-12-14T23:30:34+0000
+/project/backend-ai-accelerator-rocm/, backend.ai-accelerator-rocm, 0.9.0, Backend.AI Accelerator Plugin for ROCm, 2019-12-31T08:16:38+0000
+/project/reverseip/, reverseip, 1.0.1, `reverseip` is a tool which can find possible domain names with the given ip(s)., 2014-09-11T11:45:28+0000
+/project/audtekapi/, audtekapi, 0.2.1, Unofficial API for Audioteka, 2020-05-24T15:13:27+0000
+/project/mopidy-tunein/, Mopidy-TuneIn, 1.1.0, Mopidy extension for playing music from TuneIn, 2021-01-12T00:43:10+0000
+/project/lighthouse/, lighthouse, 1.0.0, Service discovery tool focused on ease-of-use and resiliency, 2016-02-09T23:29:47+0000
+/project/chunk-nordic/, chunk-nordic, 0.4.1, Yet another TCP-over-HTTP(S) tunnel, 2020-08-09T22:23:04+0000
+/project/lfs-compropago/, lfs-compropago, 0.4.3, ComproPago payment processor for Django-LFS, 2016-02-09T07:41:11+0000
+/project/supervisor-win/, supervisor-win, 4.6.0, A system for controlling process state under WINDOWS, 2021-02-12T19:06:12+0000
+/project/ppp-libmodule/, ppp_libmodule, 0.7.7, Library for writing Python modules for the PPP., 2015-02-14T11:50:40+0000
+/project/kali/, kali, 0.0.8, Simple, reliable, single-threaded HTTP service in Python. Aimed at serving web application to localhost as alternative to desktop application development., 2020-12-17T00:28:58+0000
+/project/scrapy-redirect/, scrapy-redirect, 0.1.0, Restrict authorized Scrapy redirections to the website start_urls, 2013-09-04T09:43:23+0000
+/project/otfbot/, otfbot, 1.0.0, a modular IRC-Bot, 2011-04-22T10:56:32+0000
+/project/mopidy-rotaryencoder/, Mopidy-RotaryEncoder, 0.1.0, Mopidy frontend extension to control the volume through a rotary encoder, 2018-04-16T23:18:39+0000
+/project/mopidy-moped/, Mopidy-Moped, 0.7.1, Responsive Web client for Mopidy, 2017-05-21T21:34:09+0000
+/project/sorna-client/, sorna-client, 0.9.8, Sorna API Client Library, 2017-09-07T06:05:44+0000
+/project/dhcpkit/, dhcpkit, 1.0.7, A DHCP library and server for IPv6 written in Python, 2017-06-25T17:17:13+0000
+/project/poorhttp/, PoorHTTP, 1.0.0, Http/WSGI server for Python, 2019-09-06T07:29:10+0000
+/project/mopidy-radio-de/, Mopidy-radio-de, 0.2.0, radio.de extension for Mopidy, 2014-02-17T09:12:32+0000
+/project/chiron-bot-adehnert/, chiron-bot-adehnert, 0.9.1, Chat bot that can look up ticket numbers on bugtrackers and return their names, 2021-02-06T03:19:50+0000
+/project/django-triflesoft-certificate-auth/, django-triflesoft-certificate-auth, 0.1.1509191803, Django certificate authentication by TrifleSoft, 2015-09-19T18:02:57+0000
+/project/mopidy-pibox/, Mopidy-Pibox, 0.8.3, Mopidy extension for jukebox client, 2020-12-26T00:33:51+0000
+/project/spamfighter/, spamfighter, 0.2.0, Web-service fighting spam and other unsolicited messages, 2009-02-27T09:02:18+0000
+/project/scrapysolr/, scrapysolr, 0.2.0, Scrapy pipeline which allows you to store scrapy items in a Solr server., 2016-05-18T02:41:54+0000
+/project/pluct/, pluct, 1.2.7, JSON Hyper Schema client, 2016-03-21T19:58:42+0000
+/project/django-triflesoft-organizations/, django-triflesoft-organizations, 0.3.1510011648, Django organizations models by TrifleSoft, 2015-10-01T16:48:44+0000
+/project/eve-auth-jwt/, eve-auth-jwt, 1.0.5, Eve JWT authentication, 2016-05-20T22:51:59+0000
+/project/django-triflesoft-localization/, django-triflesoft-localization, 0.7.1702191535, Django alternative localization by TrifleSoft, 2017-02-19T15:36:01+0000
+/project/snmposter/, snmposter, 1.0.4, SNMP Agent Simulator, 2016-01-19T20:00:01+0000
+/project/eth-accounts-index/, eth-accounts-index, 0.0.8, Accounts index evm contract tooling with permissioned writes, 2020-12-22T14:18:52+0000
+/project/ibats-bitmex-trader/, IBATS-BitMex-Trader, 0.2.4, 作为IBATS架构的 Trader 端，用于连接BitMex进行相应的交易及账户信息获取等动作, 2018-12-10T07:52:58+0000
+/project/leap-mx/, leap.mx, 0.9.1, An asynchronous, transparently-encrypting remailer for the LEAP platform, 2017-02-16T15:40:15+0000
+/project/eve-auth-jwt-fork/, eve-auth-jwt-fork, 1.2.2, Eve JWT authentication, rs/eve-auth-jwt's fork., 2019-02-20T15:15:03+0000
+/project/confini/, confini, 0.3.5, Parse, verify and merge all ini files in a single directory, 2020-12-22T14:36:11+0000
+/project/tornado-subprocess/, tornado_subprocess, 0.1.5-1, A module which allows you to spawn subprocesses from a tornado web application in a non-blocking fashion., 2012-10-25T08:09:43+0000
+/project/mopidy-touchscreen/, Mopidy-Touchscreen, 1.0.0, Mopidy extension to show info on a display and control from it, 2015-05-26T14:04:44+0000
+/project/mpy/, mpy, 0.1, MPI for Python., 2010-10-22T14:25:40+0000
+/project/twitched/, twitched, 1.0.0, A Python library for quickly writing Twitch chat applications and custom chat bots., 2015-12-31T09:43:10+0000
+/project/ibats-bitmex-feeder/, IBATS-BitMex-Feeder, 0.4.1, 连接BitMex交易所，获取实时行情、历史行情，保存到mysql数据库同时redis广播，供 ABAT 交易平台进行策略回测、分析，交易使用, 2018-11-15T06:38:31+0000
+/project/crossbar/, crossbar, 21.3.1, Crossbar.io multi-protocol (WAMP/WebSocket, REST/HTTP, MQTT) application router for microservices., 2021-03-02T16:01:41+0000
+/project/bup-cron/, bup_cron, 1.3, bup jobs wrapper, 2014-12-12T22:19:54+0000
+/project/api-hour/, api_hour, 0.8.2, Write efficient network daemons (HTTP, SSH...) with ease., 2017-11-10T14:39:52+0000
+/project/opstacle/, opstacle, 1.1.0, A dangerous and probably broken SMTP proxy that attempts to keep you sane, 2014-01-30T04:34:05+0000
+/project/bosun-foscam-plugins/, bosun-foscam-plugins, 0.1.0, Bosun plugins for the Foscam camera series to work with crowsnest.io, 2014-09-04T23:54:57+0000
+/project/mopidy-emby/, Mopidy-Emby, 0.2.6, Mopidy extension for playing music from Emby, 2017-05-29T08:09:09+0000
+/project/alcathous/, Alcathous, 0.4.0, This software subscribes to mqtt-topics that contain raw sensor data and publishes average values for configurable time spans., 2020-04-23T21:14:13+0000
+/project/fand/, fand, 0.1.0, Simple daemon to control fan speed, 2020-09-26T16:35:09+0000
+/project/splash/, splash, 3.5, A javascript rendered with a HTTP API, 2020-06-16T13:26:49+0000
+/project/scrapyes/, ScrapyEs, 0.23, An extension module to send data to elasticsearch in bulk format., 2013-10-18T13:43:19+0000
+/project/mopidy-pandora/, Mopidy-Pandora, 1.1.1, "Mopidy extension for Pandora", 2020-12-04T23:50:34+0000
+/project/mopidy-somafm/, Mopidy-SomaFM, 2.0.2, SomaFM extension for Mopidy, 2021-02-10T20:53:30+0000
+/project/mopidy-local-images/, Mopidy-Local-Images, 1.0.0, Mopidy local library proxy extension for handling embedded album art, 2015-09-05T16:22:36+0000
+/project/mopidy-mqtt-ng/, Mopidy-MQTT-NG, 1.0.0, Mopidy extension for remote control via MQTT broker, 2020-02-21T19:03:43+0000
+/project/scrapymongocache/, scrapymongocache, 0.1.0, A base pipeline and a decorator to allow you to cache item fields in MongoDB collections., 2013-08-26T14:18:47+0000
+/project/archipel-agent-virtualmachine-snapshoting/, archipel-agent-virtualmachine-snapshoting, 0.6.0beta, Manage snapshoting for virtual machines, 2013-03-21T01:25:33+0000
+/project/mpd-box/, mpd-box, 0.1.1, MPD-Box start a song in Music Player Daemon by simply scanning a NFC tag., 2015-11-24T17:34:40+0000
+/project/mopidy-orfradio/, Mopidy-ORFRadio, 2.0.3, Mopidy backend to access the Austrian ORF radio stations., 2021-01-30T17:06:29+0000
+/project/supervisor/, supervisor, 4.2.2, A system for controlling process state under UNIX, 2021-02-26T20:45:53+0000
+/project/nidhoggr-requests/, nidhoggr-requests, 0.6.0, Requests-based repository implementation for nidhoggr, 2021-02-07T01:22:22+0000
+/project/domcheck/, domcheck, 1.1.4, Domain Ownership Checker, 2015-08-26T22:57:28+0000
+/project/rainbarrel/, rainbarrel, 0.0.2, Rainbarrel receives webhook POSTs from a Rainbow Eagle smart meter monitoring unit.
+The data ireceived is provided to plugins or external programs for data logging and control., 2015-11-21T19:21:52+0000
+/project/copyparty/, copyparty, 0.10.15, http file sharing hub, 2021-04-24T02:09:24+0000
+/project/mopidy-auto/, Mopidy-Auto, 0.5.0, Mopidy extension to automate music playback based on time of day, 2018-05-19T13:41:56+0000
+/project/kaoz/, kaoz, 2.1.0, A simple IRC notifier bot., 2013-12-08T12:03:35+0000
+/project/postfix-mta-sts-resolver/, postfix-mta-sts-resolver, 1.0.0, Daemon which provides TLS client policy for Postfix via socketmap, according to domain MTA-STS policy, 2020-06-13T23:15:06+0000
+/project/supvisors/, supvisors, 0.5, A Control System for Distributed Applications, 2021-03-02T00:23:58+0000
+/project/mopidy-rnz/, Mopidy-RNZ, 0.1.1, Mopidy extension for RNZ content, 2018-01-10T03:47:02+0000
+/project/mopidy-spotify-web/, Mopidy-Spotify-Web, 0.3.0, Mopidy extension for providing the browse feature of Spotify for artists and albums, 2016-01-24T02:19:41+0000
+/project/lelo/, lelo, 1.0rc4.dev0, Utilities for easy parallelisation of tasks, 2018-12-13T16:07:30+0000
+/project/mother-webapps-framework/, mother-webapps-framework, 0.1.0, Mother - Web Applications Framework, 2011-06-20T20:20:45+0000
+/project/mqspeak/, mqspeak, 0.2.1, MQTT bridge, 2016-07-10T12:45:25+0000
+/project/backend-ai-kernel-runner/, backend.ai-kernel-runner, 1.4.2, User code executors for Backend.AI kernels, 2018-09-12T17:43:27+0000
+/project/mopidy-neopixel/, Mopidy-NeoPixel, 0.1.1, You can always add leds to a mopidy player :-), 2020-04-23T19:36:58+0000
+/project/pythesaurus/, pyThesaurus, 1.1-dev-r371, Ontology module with Thesaurus administration model. Developed for Platecom project., 2008-10-06T17:47:32+0000
+/project/mopidy-mowecl/, Mopidy-Mowecl, 0.4.2, Web client for Mopidy, 2021-04-03T16:42:21+0000
+/project/mpdab/, mpdab, 0.1.0a4, Crude audiobook support for MPD (Music Player Daemon)., 2019-06-24T21:47:00+0000
+/project/sprockets-clients-dynamodb/, sprockets.clients.dynamodb, 0.3.2, DynamoDB connector, 2016-09-23T19:38:21+0000
+/project/vnpy-extra-tb/, vnpy-extra-tb, 0.1.20210311.0, 该项目主要用于在vnpy框架下扩展部分 Trade Blazer (TB) 的函数包，以方便部分TB程序的迁移使用。, 2021-03-10T23:39:36+0000
+/project/gdc-smoker/, gdc-smoker, 2.0.11, Smoke Testing Framework, 2016-02-15T20:15:30+0000
+/project/httproxy/, httproxy, 0.9.0, A tiny HTTP proxy implementation, 2012-10-26T10:41:07+0000
+/project/mailing-list-filter/, mailing-list-filter, 0.2, Mailing List Filter, 2009-06-06T22:47:25+0000
+/project/compoundpi/, compoundpi, 0.4, A project for controlling multiple Pi camera modules simultaneously, 2015-08-23T23:49:57+0000
+/project/ppp-spell-checker/, ppp_spell_checker, 0.2.3, A spell checker for the PPP. Use the Aspell API., 2015-02-13T12:11:37+0000
+/project/mopidy-beets/, Mopidy-Beets, 4.0.1, Beets extension for Mopidy, 2020-12-13T23:20:08+0000
+/project/seshat/, Seshat, 0.3.1, Sessioned chat system linking Ajax web interfaces with internal Jabber services, 2011-06-06T19:34:43+0000
+/project/mopidy-mopify/, Mopidy-Mopify, 1.7.3, A Mopidy Web client based on the (old) Spotify interface. Improved to work with spotify as main library., 2020-04-22T12:03:03+0000
+/project/dust/, Dust, 0.1a7, Blocking-resistant network protocol, 2010-06-01T21:17:43+0000
+/project/nazoru-input/, nazoru-input, 0.1.1, Package for Gboard Physical Handwriting Version, 2018-03-31T15:12:53+0000
+/project/mopidy-nad/, Mopidy-NAD, 3.0.1, Mopidy extension for controlling volume on a NAD amplifier, 2020-12-15T21:06:44+0000
+/project/frank-discord/, frank-discord, 0.1.0, A modular tool for building Discord bots, 2020-08-26T13:22:43+0000
+/project/sprockets-cli/, sprockets.cli, 0.1.0, Sprockets command line application runner, 2014-10-14T20:40:08+0000
+/project/rucio-clients-cms/, rucio-clients-cms, 0.0.5, Rucio Client Configuration for CMS, 2017-11-30T09:58:57+0000
+/project/aioax25/, aioax25, 0.0.9, Asynchronous AX.25 interface in pure Python using asyncio, 2021-01-23T05:24:53+0000
+/project/yahoo-panoptes/, yahoo-panoptes, 1.3.2, Network Telemetry And Monitoring, 2020-01-10T18:03:37+0000
+/project/swiftbunny/, swiftbunny, 1.1, CLI/daemon to help with log archiving to OpenStack Swift, 2021-02-05T12:05:05+0000
+/project/bson-rpc/, bson-rpc, 0.11.1, a lightweight, high performance, multilingual RPC library, 2017-11-29T09:14:54+0000
+/project/ppp-oracle/, ppp_oracle, 0.1.3, A module that answers hardcoded questions., 2015-02-18T11:30:56+0000
+/project/backend-ai-client/, backend.ai-client, 21.3.0, Backend.AI Client for Python, 2021-03-29T02:03:06+0000
+/project/sprockets-influxdb/, sprockets-influxdb, 2.2.1, Buffering InfluxDB client and mixin for Tornado applications, 2019-11-14T23:49:13+0000
+/project/rucio-clients-eiscat3d/, rucio-clients-eiscat3d, 0.0.2, Rucio Client Configuration for XDC, 2018-06-01T09:24:18+0000
+/project/apistar-session-cookie/, apistar_session_cookie, 1.0.0, Cookie based Sessions for Apistar., 2017-12-17T00:18:19+0000
+/project/swift-automime/, swift-automime, 0.1, Openstack Swift auto content encoding middleware, 2016-07-06T10:06:30+0000
+/project/mopidy-playerfm/, Mopidy-PlayerFM, 0.1.0, Mopidy extension for PlayerFM, 2018-04-27T12:50:18+0000
+/project/scrapyappsearch/, ScrapyAppSearch, 0.1.0, Scrapy pipeline which allow you to store multiple scrapy items in AppSearch., 2020-11-20T16:51:29+0000
+/project/quant-vnpy/, quant-vnpy, 0.6.0, 基于VNPY进行功能增强, 2021-01-22T02:53:37+0000
+/project/mc4ep-valhalla/, mc4ep-valhalla, 0.3.2, Valhalla skin server implementation, 2021-02-28T00:35:10+0000
+/project/tipper/, tipper, 0.1, A utility for dumping stack traces of running Python processes, 2013-03-31T00:36:57+0000
+/project/aiorchestra/, aiorchestra, 0.1.3, AsyncIO TOSCA orchestrator, 2016-08-19T09:41:31+0000
+/project/aiorchestra-openstack-plugin/, aiorchestra-openstack-plugin, 0.1.3, AsyncIO TOSCA orchestrator OpenStack plugin, 2016-08-19T09:47:52+0000
+/project/spf-engine/, spf-engine, 2.9.2, SPF processing for Postfix (and Sendmail), 2019-11-23T00:27:38+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/pydyndns/, pydyndns, 1.1.0, Sends dynamic DNS updates to a DNS server., 2020-12-22T02:25:36+0000
+/project/qulo/, QULo, 1.10.0, A package to collect basic performance data from clusters, 2019-11-26T14:19:37+0000
+/project/rewind/, rewind, 0.3.1, Rewind is a (CQRS) event store that talks ZeroMQ., 2012-12-16T23:33:02+0000
+/project/statsdlog/, statsdlog, 0.1.1, generate statsd events by monitoring a syslog udp stream, 2015-04-28T17:24:33+0000
+/project/feat/, feat, 1.0.5, Flumotion Asynchronous Autonomous Agent Toolkit, 2016-04-14T12:01:00+0000
+/project/scrapydot/, ScrapyDot, 0.1, Export a graph of link between crawled items in dot file format., 2011-09-24T10:27:04+0000
+/project/mopidy-material-webclient/, Mopidy-Material-Webclient, 0.2.1, A Mopidy web client with an Android Material feel, 2015-07-19T09:58:43+0000
+/project/backend-ai-monitor-sentry/, backend.ai-monitor-sentry, 0.2.1, Backend.AI Error Monitoring Plugin with Sentry, 2020-10-22T05:16:52+0000
+/project/gns3-proxy/, gns3-proxy, 0.8, GNS3 Proxy based on proxy.py by Abhinav Singh (https://github.com/abhinavsingh/proxy.py), 2020-12-29T22:28:53+0000
+/project/rich-traceback/, rich-traceback, 1.0.2, Rich Traceback Logger, 2015-06-11T06:56:20+0000
+/project/fooster-cron/, fooster-cron, 0.9.0, a small cron-like scheduler in Python, 2020-10-17T19:02:12+0000
+/project/udns/, udns, 0.0.2, micro dns server, 2016-01-27T06:40:55+0000
+/project/ll-core/, ll-core, 1.11.1, LivingLogic base package: ansistyle, color, make, sisyphus, xpit, url, xml_codec, 2008-01-11T13:47:18+0000
+/project/slapdsock/, slapdsock, 1.1.0, Module package for back-sock listeners for OpenLDAP, 2021-04-19T17:24:20+0000
+/project/mopidy-muse/, Mopidy-Muse, 0.0.24, Mopidy interface with snapcast support, 2021-01-03T23:36:05+0000
+/project/parterre/, Parterre, 1.4.1, A set of variants for the Parlance Diplomacy Framework., 2009-08-30T01:55:02+0000
+/project/mopidy-mfe/, Mopidy_MFE, 0.4.9, Web client for Mopidy, 2016-06-13T02:35:53+0000
+/project/mopidy-transistor/, Mopidy-Transistor, 0.2.0, Mopidy Extension for Transistor Radios, 2020-03-17T15:32:10+0000
+/project/owndc/, owndc, 0.9.1a1.dev37, owndc: An FDSN Virtual Datacentre for SeisComP3, 2018-01-17T03:30:03+0000
+/project/sprockets-dynamodb/, sprockets-dynamodb, 3.2.0, DynamoDB client and mixin for Tornado applications, 2019-11-17T17:49:27+0000
+/project/ecs-pipeline-deploy/, ecs-pipeline-deploy, 0.5.1, An opinionated deployment application for ECS services, 2020-09-10T23:08:27+0000
+/project/egenix-mx-base/, egenix-mx-base, 3.2.9, eGenix mx Base Distribution for Python - mxDateTime, mxTextTools, mxProxy, mxTools, mxBeeBase, mxStack, mxQueue, mxURL, mxUID, 2015-08-27T12:31:12+0000
+/project/mopidy/, Mopidy, 3.1.1, Mopidy is an extensible music server written in Python, 2020-12-26T13:43:49+0000
+/project/nuttssh/, nuttssh, 0.2, SSH switchboard for internally patching forwarded ports, 2019-01-31T16:28:22+0000
+/project/imgtohttps/, imgtohttps, 0.5.2, Simple image uploader, 2015-06-04T20:58:11+0000
+/project/tentacles/, tentacles, 0.1.1, Object-Relational Mapping (ORM), 2011-06-11T21:28:47+0000
+/project/ppp-cli/, ppp_cli, 0.2, Command-line tool for debugging PPP modules, 2015-02-01T21:34:12+0000
+/project/tessdb-reports/, tessdb-reports, 1.3.2, ('Command line tool and SQL scripts to generate reports from tessdb database',), 2020-06-22T07:17:44+0000
+/project/mopidy-radio-rough/, Mopidy-Radio-Rough, 3.14.15, Rough gui for listening to internet, 2018-01-15T07:31:43+0000
+/project/kylin/, kylin, 0.6.0, Library to read Teleinfo frames, 2018-06-24T11:13:58+0000
+/project/nidhoggr-core/, nidhoggr-core, 0.11.1, Domain model for nidhoggr, 2021-03-16T08:07:12+0000
+/project/pyzor/, pyzor, 1.0.0, networked spam-signature detection, 2014-12-10T14:03:13+0000
+/project/backend-ai-aiotusclient/, backend.ai-aiotusclient, 0.1.4, tus.io-compatible upload client library for Python asyncio, 2021-03-02T05:12:14+0000
+/project/isconf/, isconf, 4.2.8.253, Infrastructure configuration management tool, 2015-02-25T04:38:18+0000
+/project/ppp-questionparsing-ml-standalone/, ppp_questionparsing_ml_standalone, 0.4, Compute triplets from a question, with an ML approach, 2014-12-09T10:26:04+0000
+/project/superlance/, superlance, 1.0.0, superlance plugins for supervisord, 2016-10-02T16:12:10+0000
+/project/kostal-plenticore-exporter/, kostal-plenticore-exporter, 0.3.0, A Prometheus exporter for the Kostal Plenticore series of inverters., 2021-02-24T20:15:28+0000
+/project/sendria/, sendria, 2.2.2, An SMTP server that makes all received mails accessible via a web interface and REST API., 2021-04-09T09:25:24+0000
+/project/tempo/, tempo, 0.12, Tempo Service, 2011-09-09T20:08:00+0000
+/project/libcgroup-bind/, libcgroup-bind, 1.0.7, Python binding for libcgroup, 2019-03-29T17:13:32+0000
+/project/python-afx/, python-afx, 0.1, AFX, 2008-05-09T07:09:51+0000
+/project/parang/, Parang, 1.4.1, A set of clients for the Parlance Diplomacy Framework., 2009-08-30T02:21:18+0000
+/project/pfxposter/, pfxposter, 0.1.6, A simple PixelFed to Mastodon/Twitter crossposter, 2020-08-24T12:24:23+0000
+/project/ecuth/, ecuth, 0.4.4, Public-key signature based authentication and authorization backend, 2020-12-22T23:24:20+0000
+/project/scrapymongodb/, ScrapyMongoDB, 0.4.3, Scrapy pipeline which allow you to store scrapy items in MongoDB database., 2017-03-01T20:44:47+0000
+/project/wsgitools/, wsgitools, 0.3.1, a set of tools working with WSGI (see PEP 333), 2020-03-10T15:04:50+0000
+/project/backend-ai-manager/, backend.ai-manager, 21.3.3, Backend.AI Manager, 2021-04-13T05:57:11+0000
+/project/sparkplug/, sparkplug, 1.22.0, An AMQP message consumer daemon, 2021-04-01T18:14:35+0000
+/project/mopidy-tidal/, Mopidy-Tidal, 0.2.5, Tidal music service integration, 2021-04-18T20:15:34+0000
+/project/ms-graph-exporter/, ms-graph-exporter, 0.1.0rc4, A distributed Celery application to export time-domain data periodically from Microsoft Graph API into a buffer key-value store., 2019-10-10T02:41:28+0000
+/project/mopidy-mpd/, Mopidy-MPD, 3.1.0, Mopidy extension for controlling Mopidy from MPD clients, 2020-12-05T02:00:08+0000
+/project/graphite-metrics/, graphite-metrics, 15.03.0, Standalone Graphite metric data collectors for various stuff thats not (or poorly) handled by other monitoring daemons, 2015-03-16T06:21:31+0000
+/project/ppp-nlp-ml-standalone/, ppp_nlp_ml_standalone, 0.1.2, Compute triplets from a question, with an ML approach, 2014-11-10T15:00:28+0000
+/project/iplib/, iplib, 1.2.1, convert amongst many different IPv4 notations, 2018-06-23T13:29:19+0000
+/project/authres/, authres, 1.2.0, authres - Authentication Results Header Module, 2019-08-03T19:38:00+0000
+/project/castberry/, castberry, 0.1, Cast youtube to a video player, 2020-06-30T16:06:32+0000
+/project/tentacles/, tentacles, 0.1.1, Object-Relational Mapping (ORM), 2011-06-11T21:28:47+0000
+/project/ppp-cli/, ppp_cli, 0.2, Command-line tool for debugging PPP modules, 2015-02-01T21:34:12+0000
+/project/mailing-list-filter/, mailing-list-filter, 0.2, Mailing List Filter, 2009-06-06T22:47:25+0000
+/project/compoundpi/, compoundpi, 0.4, A project for controlling multiple Pi camera modules simultaneously, 2015-08-23T23:49:57+0000
+/project/ppp-spell-checker/, ppp_spell_checker, 0.2.3, A spell checker for the PPP. Use the Aspell API., 2015-02-13T12:11:37+0000
+/project/mopidy-beets/, Mopidy-Beets, 4.0.1, Beets extension for Mopidy, 2020-12-13T23:20:08+0000
+/project/seshat/, Seshat, 0.3.1, Sessioned chat system linking Ajax web interfaces with internal Jabber services, 2011-06-06T19:34:43+0000
+/project/mopidy-mopify/, Mopidy-Mopify, 1.7.3, A Mopidy Web client based on the (old) Spotify interface. Improved to work with spotify as main library., 2020-04-22T12:03:03+0000
+/project/dust/, Dust, 0.1a7, Blocking-resistant network protocol, 2010-06-01T21:17:43+0000
+/project/nazoru-input/, nazoru-input, 0.1.1, Package for Gboard Physical Handwriting Version, 2018-03-31T15:12:53+0000
+/project/mopidy-nad/, Mopidy-NAD, 3.0.1, Mopidy extension for controlling volume on a NAD amplifier, 2020-12-15T21:06:44+0000
+/project/frank-discord/, frank-discord, 0.1.0, A modular tool for building Discord bots, 2020-08-26T13:22:43+0000
+/project/sprockets-cli/, sprockets.cli, 0.1.0, Sprockets command line application runner, 2014-10-14T20:40:08+0000
+/project/rucio-clients-cms/, rucio-clients-cms, 0.0.5, Rucio Client Configuration for CMS, 2017-11-30T09:58:57+0000
+/project/aioax25/, aioax25, 0.0.9, Asynchronous AX.25 interface in pure Python using asyncio, 2021-01-23T05:24:53+0000
+/project/swiftbunny/, swiftbunny, 1.1, CLI/daemon to help with log archiving to OpenStack Swift, 2021-02-05T12:05:05+0000
+/project/bson-rpc/, bson-rpc, 0.11.1, a lightweight, high performance, multilingual RPC library, 2017-11-29T09:14:54+0000
+/project/ppp-oracle/, ppp_oracle, 0.1.3, A module that answers hardcoded questions., 2015-02-18T11:30:56+0000
+/project/sprockets-influxdb/, sprockets-influxdb, 2.2.1, Buffering InfluxDB client and mixin for Tornado applications, 2019-11-14T23:49:13+0000
+/project/swift-automime/, swift-automime, 0.1, Openstack Swift auto content encoding middleware, 2016-07-06T10:06:30+0000
+/project/rosterserver/, RosterServer, 0.17, RosterServer is a XML/RPC Server for Roster., 2012-08-02T21:09:00+0000
+/project/copreus/, Copreus, 0.4.0, This library provides a framework to write device drivers for the raspberry pi that are connected to MQTT., 2019-12-27T23:38:47+0000
+/project/mopidy-tidaloauth/, Mopidy-TidalOAuth, 0.3.2, Tidal music service integration, 2020-11-23T20:05:53+0000
+/project/mopidy-playlist/, Mopidy-Playlist, 0.1.0, Mopidy extension for remote playlist expansion, 2020-11-14T21:53:08+0000
+/project/prodconpattern/, prodconpattern, 0.2.1, 通过装饰器方式实现生产者消费者模式。可以作用于函数、类的方法上，使其变为异步调用，同时，转变为逐次调用，批量执行。方便将零碎的调用转变为批量形势进行统一执行。, 2018-12-04T08:58:05+0000
+/project/kinesyslog/, kinesyslog, 2.0.1, Syslog and GELF relay to AWS Kinesis Firehose. Supports UDP, TCP, and TLS; RFC3164, RFC5424, RFC5425, RFC6587, GELF v1.1., 2019-05-14T20:31:00+0000
+/project/mopidy-bandcamp/, Mopidy-Bandcamp, 1.1.4, Backend for listening to bandcamp, 2021-04-21T10:51:49+0000
+/project/saffron-cli/, saffron-cli, 0.1.11, blockchain artifact development tools, 2017-09-20T04:57:06+0000
+/project/dtcrawlengine/, DtCrawlEngine, 1.2.6, 一个使用http api提供爬虫脚本服务的引擎, 2018-09-30T07:25:29+0000
+/project/devns/, devns, 0.5.0, Pure Python DNS server for developers, 2018-04-23T18:45:17+0000
+/project/django-triflesoft-statsd/, django-triflesoft-statsd, 0.4.1610232024, Django statsd middleware by TrifleSoft, 2016-10-23T20:24:28+0000
+/project/ibatstrader/, IBATSTrader, 0.1.3, IBATS（Integration Backtest Analysis Trade System）的Trader端公共模块，所有 Trader均集成这个模块，并使用其提供的一些公共工具, 2018-10-25T09:21:40+0000
+/project/bagpipe-bgp/, bagpipe-bgp, 1.80.0, Lightweight implementation of BGP IP VPN and E-VPN, 2017-02-03T09:46:21+0000
+/project/mopidy-local/, Mopidy-Local, 3.2.1, Mopidy extension for playing music from your local music archive, 2021-02-24T22:48:52+0000
+/project/supervisor-cache/, supervisor_cache, 1.1.0, supervisor_cache RPC extension for supervisor, 2014-10-22T01:23:59+0000
+/project/mopidy-websettings/, Mopidy-WebSettings, 0.2.3, Mopidy extension for editing settings in a webinterface, 2018-02-25T18:09:54+0000
+/project/pygossip/, pygossip, 0.7, Python GOSSiP distributed domain reputation service, 2015-08-31T01:04:33+0000
+/project/mopidy-dam1021/, Mopidy-dam1021, 0.4, Mopidy extension for controlling volume on a dam1021 DAC, 2015-08-19T00:24:04+0000
+/project/ctlimit/, ctlimit, 0.0.5, Computer Time Limit for Children, 2016-06-10T17:37:34+0000
+/project/plantstation/, PlantStation, 0.1.1rc0, A little daemon to keep plants watered with Raspberry Pi, 2020-03-03T20:30:39+0000
+/project/pyagentx3/, pyagentx3, 0.1.1, AgentX package to extend SNMP with pure Python3, 2021-03-01T15:23:36+0000
+/project/scrapydartx/, scrapydartx, 1.3.2, a extension from ScrapydArt, 2019-12-19T02:32:10+0000
+/project/openob/, OpenOB, 4.0.3, Broadcast audio over IP codec built with PyGST, 2019-01-28T21:16:40+0000
+/project/eurydike/, Eurydike, 0.1.8, Eurydike is a simple event detection. Reacts to above-threshold, below-thershold, and outside value-band., 2019-04-07T20:17:30+0000
+/project/rucio-arc/, rucio-arc, 0.0.6, rucio-arc is an extension for Rucio, e.g., ARC data delivery service, 2018-06-06T12:18:41+0000
+/project/qg-test/, qg.test, 0.1.2, qg.test, 2015-07-24T07:31:15+0000
+/project/vaping/, vaping, 1.3.0, vaping is a healthy alternative to smokeping!, 2020-09-23T10:24:49+0000
+/project/mopidy-subsonic/, Mopidy-Subsonic, 1.0.0, Subsonic extension for Mopidy, 2015-05-20T22:17:01+0000
+/project/zeitgitterd/, zeitgitterd, 1.0.5, Zeitgitter timestamping server, 2021-03-06T10:19:38+0000
+/project/tantamount/, Tantamount, 0.3.2, yeT Another fiNite sTate machine with event And tiMeOUt traNsiTions, 2019-05-09T20:26:40+0000
+/project/mailto/, mailto, 0.0.2, MailTo redirect handler for supported webmail servers for Windows/Linux/OS X, 2012-11-13T23:44:26+0000
+/project/sorna-agent/, sorna-agent, 0.9.14, Sorna agent, 2017-08-30T08:35:06+0000
+/project/django-triflesoft-freshdesk/, django-triflesoft-freshdesk, 0.2.1509281135, Django FreshDesk integration by TrifleSoft, 2015-09-28T11:35:31+0000
+/project/lfs-compropago/, lfs-compropago, 0.4.3, ComproPago payment processor for Django-LFS, 2016-02-09T07:41:11+0000
+/project/supervisor-win/, supervisor-win, 4.6.0, A system for controlling process state under WINDOWS, 2021-02-12T19:06:12+0000
+/project/ppp-libmodule/, ppp_libmodule, 0.7.7, Library for writing Python modules for the PPP., 2015-02-14T11:50:40+0000
+/project/kali/, kali, 0.0.8, Simple, reliable, single-threaded HTTP service in Python. Aimed at serving web application to localhost as alternative to desktop application development., 2020-12-17T00:28:58+0000
+/project/scrapy-redirect/, scrapy-redirect, 0.1.0, Restrict authorized Scrapy redirections to the website start_urls, 2013-09-04T09:43:23+0000
+/project/otfbot/, otfbot, 1.0.0, a modular IRC-Bot, 2011-04-22T10:56:32+0000
+/project/mopidy-rotaryencoder/, Mopidy-RotaryEncoder, 0.1.0, Mopidy frontend extension to control the volume through a rotary encoder, 2018-04-16T23:18:39+0000
+/project/mopidy-moped/, Mopidy-Moped, 0.7.1, Responsive Web client for Mopidy, 2017-05-21T21:34:09+0000
+/project/sorna-client/, sorna-client, 0.9.8, Sorna API Client Library, 2017-09-07T06:05:44+0000
+/project/dhcpkit/, dhcpkit, 1.0.7, A DHCP library and server for IPv6 written in Python, 2017-06-25T17:17:13+0000
+/project/simpledaemon/, SimpleDaemon, 1.3.0, Provides a simple Daemon class to ease the process of forking a python application on Unix systems., 2013-02-08T05:08:00+0000
+/project/kwapi-g5k/, kwapi-g5k, 0.3-3, Grid5000 Monitoring Framework, 2015-02-25T15:48:41+0000
+/project/daemail/, daemail, 0.7.0, Daemonize a command and e-mail the results, 2021-03-15T22:27:56+0000
+/project/aiorchestra/, aiorchestra, 0.1.3, AsyncIO TOSCA orchestrator, 2016-08-19T09:41:31+0000
+/project/aiorchestra-openstack-plugin/, aiorchestra-openstack-plugin, 0.1.3, AsyncIO TOSCA orchestrator OpenStack plugin, 2016-08-19T09:47:52+0000
+/project/spf-engine/, spf-engine, 2.9.2, SPF processing for Postfix (and Sendmail), 2019-11-23T00:27:38+0000
+/project/archipel-agent-iphone-notification/, archipel-agent-iphone-notification, 0.6.0beta, Can send notification to iPhone using PushApp 3.0, 2013-03-21T01:25:29+0000
+/project/pydyndns/, pydyndns, 1.1.0, Sends dynamic DNS updates to a DNS server., 2020-12-22T02:25:36+0000
+/project/qulo/, QULo, 1.10.0, A package to collect basic performance data from clusters, 2019-11-26T14:19:37+0000
+/project/rewind/, rewind, 0.3.1, Rewind is a (CQRS) event store that talks ZeroMQ., 2012-12-16T23:33:02+0000
+/project/statsdlog/, statsdlog, 0.1.1, generate statsd events by monitoring a syslog udp stream, 2015-04-28T17:24:33+0000
+/project/feat/, feat, 1.0.5, Flumotion Asynchronous Autonomous Agent Toolkit, 2016-04-14T12:01:00+0000
+/project/scrapydot/, ScrapyDot, 0.1, Export a graph of link between crawled items in dot file format., 2011-09-24T10:27:04+0000
+/project/mopidy-material-webclient/, Mopidy-Material-Webclient, 0.2.1, A Mopidy web client with an Android Material feel, 2015-07-19T09:58:43+0000
+/project/backend-ai-monitor-sentry/, backend.ai-monitor-sentry, 0.2.1, Backend.AI Error Monitoring Plugin with Sentry, 2020-10-22T05:16:52+0000
+/project/gns3-proxy/, gns3-proxy, 0.8, GNS3 Proxy based on proxy.py by Abhinav Singh (https://github.com/abhinavsingh/proxy.py), 2020-12-29T22:28:53+0000
+/project/rich-traceback/, rich-traceback, 1.0.2, Rich Traceback Logger, 2015-06-11T06:56:20+0000
+/project/alcathous/, Alcathous, 0.4.0, This software subscribes to mqtt-topics that contain raw sensor data and publishes average values for configurable time spans., 2020-04-23T21:14:13+0000
+/project/fand/, fand, 0.1.0, Simple daemon to control fan speed, 2020-09-26T16:35:09+0000
+/project/splash/, splash, 3.5, A javascript rendered with a HTTP API, 2020-06-16T13:26:49+0000
+/project/scrapyes/, ScrapyEs, 0.23, An extension module to send data to elasticsearch in bulk format., 2013-10-18T13:43:19+0000
+/project/mopidy-pandora/, Mopidy-Pandora, 1.1.1, "Mopidy extension for Pandora", 2020-12-04T23:50:34+0000
+/project/mopidy-somafm/, Mopidy-SomaFM, 2.0.2, SomaFM extension for Mopidy, 2021-02-10T20:53:30+0000
+/project/mopidy-local-images/, Mopidy-Local-Images, 1.0.0, Mopidy local library proxy extension for handling embedded album art, 2015-09-05T16:22:36+0000
+/project/mopidy-mqtt-ng/, Mopidy-MQTT-NG, 1.0.0, Mopidy extension for remote control via MQTT broker, 2020-02-21T19:03:43+0000
+/project/scrapymongocache/, scrapymongocache, 0.1.0, A base pipeline and a decorator to allow you to cache item fields in MongoDB collections., 2013-08-26T14:18:47+0000
+/project/archipel-agent-virtualmachine-snapshoting/, archipel-agent-virtualmachine-snapshoting, 0.6.0beta, Manage snapshoting for virtual machines, 2013-03-21T01:25:33+0000
+/project/mpd-box/, mpd-box, 0.1.1, MPD-Box start a song in Music Player Daemon by simply scanning a NFC tag., 2015-11-24T17:34:40+0000
+/project/mopidy-orfradio/, Mopidy-ORFRadio, 2.0.3, Mopidy backend to access the Austrian ORF radio stations., 2021-01-30T17:06:29+0000
+/project/supervisor/, supervisor, 4.2.2, A system for controlling process state under UNIX, 2021-02-26T20:45:53+0000
+/project/nidhoggr-requests/, nidhoggr-requests, 0.6.0, Requests-based repository implementation for nidhoggr, 2021-02-07T01:22:22+0000
+/project/domcheck/, domcheck, 1.1.4, Domain Ownership Checker, 2015-08-26T22:57:28+0000
+/project/rainbarrel/, rainbarrel, 0.0.2, Rainbarrel receives webhook POSTs from a Rainbow Eagle smart meter monitoring unit.
+The data ireceived is provided to plugins or external programs for data logging and control., 2015-11-21T19:21:52+0000
+/project/copyparty/, copyparty, 0.10.15, http file sharing hub, 2021-04-24T02:09:24+0000
+/project/mopidy-auto/, Mopidy-Auto, 0.5.0, Mopidy extension to automate music playback based on time of day, 2018-05-19T13:41:56+0000
+/project/aiosmtplib/, aiosmtplib, 1.1.5, asyncio SMTP client, 2021-04-25T17:36:43+0000
+/project/chaqum/, chaqum, 0.8, [ˈkeɪkjuːm], the queue manager for chaotic job queues., 2021-04-25T17:54:14+0000
+/project/vnpy-extra/, vnpy-extra, 0.7.20210426.0, 基于VNPY进行功能拓展, 2021-04-26T01:25:50+0000
+/project/tessera-client/, tessera-client, 0.4.5, Data model and API client for tessera, 2015-08-21T15:32:53+0000
+/project/times2/, times2, 0.8, Times2 is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2015-10-26T15:10:11+0000
+/project/mopidy-slack/, Mopidy-Slack, 0.1.0, Control your mopidy instance from slack, 2020-05-14T20:01:09+0000
+/project/snafu/, snafu, 0.0.3, Swiss Army Knife of Serverless Computing, 2018-07-01T06:42:00+0000
+/project/tessera/, tessera, 0.10.0, A dashboard front end for Graphite, 2017-02-03T01:01:24+0000
+/project/archipel-agent-action-scheduler/, archipel-agent-action-scheduler, 0.6.0beta, Creation and management of planified tasks for hypervisors and virtual machines, 2013-03-21T01:25:16+0000
+/project/pysrs/, pysrs, 1.0.3, Python SRS (Sender Rewriting Scheme) library, 2018-03-31T17:04:30+0000
+/project/mopidy-wampfrontend/, Mopidy-WAMPFrontend, 0.2.0, Mopidy extension providing a WAMP frontend, 2015-06-03T12:15:22+0000
+/project/pypolicyd-spf/, pypolicyd-spf, 2.0.2, pypolicyd-spf SPF Postfix policy server implemented in Python., 2017-12-14T19:24:33+0000
+/project/pydns/, pydns, 2.3.6, Python DNS library, 2012-02-03T23:23:19+0000
+/project/mopidy-jukepi/, Mopidy-jukePi, 1.0.9, Mopidy web client extension, 2017-01-18T13:15:00+0000
+/project/scrapyd-kit/, scrapyd_kit, 0.1.6, A kit for extending Scrapyd, 2016-08-30T10:04:52+0000
+/project/dirt/, dirt, 0.2.1-unstable, dirt is a comprehensive framework for building Python applications which are part of a service oriented architecture, 2013-02-05T03:44:43+0000
+/project/bcloud-core/, bcloud-core, 3.8.2.dev1, A fork of bcloud, 2016-02-12T15:14:53+0000
+/project/sysmonitor/, sysmonitor, 1.0, System Monitor Daemon, 2018-09-13T15:00:27+0000
+/project/scrapy-elasticsearch-bulk-item-exporter/, scrapy-elasticsearch-bulk-item-exporter, 0.2, An extension of Scrapys JsonLinesItemExporter that exports to elasticsearch bulk format., 2013-07-25T14:10:53+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/mopidy-local-sqlite/, Mopidy-Local-SQLite, 1.0.0, Mopidy SQLite local library extension, 2015-09-05T16:31:42+0000
+/project/vault-redirector/, vault-redirector, 0.2.0, Python/Twisted application to redirect Hashicorp Vault client requests to the active node in a HA cluster, 2016-06-15T15:04:42+0000
+/project/zobepy/, zobepy, 1.0.4, zobepy: unsorted python library made by zobe, 2020-10-07T17:12:32+0000
+/project/indicted/, indicted, 0.0.2, Indexed Dictionary Class, 2012-11-02T21:17:23+0000
+/project/tcpnetlock/, tcpnetlock, 0.1.8, Network lock based on TCP sockets, 2018-07-20T20:11:32+0000
+/project/scrapycouchdb/, ScrapyCouchDB, 0.2, Scrapy pipeline which allow you to store scrapy items in CouchDB database., 2011-09-10T19:18:27+0000
+/project/backend-ai-monitor-datadog/, backend.ai-monitor-datadog, 0.2.1, Backend.AI Statistics Monitoring Plugin with Datadog, 2020-12-17T06:42:06+0000
+/project/asus-charge-daemon/, asus-charge-daemon, 0.3.2, A daemon exposing D-Bus services for managing the charge level of recent ASUS notebooks., 2021-02-08T00:40:03+0000
+/project/mopidy-alarmclock/, Mopidy-AlarmClock, 0.1.9, A Mopidy extension for using it as an alarm clock., 2020-03-21T23:58:20+0000
+/project/direstplus/, DIRestPlus, 0.2.2, 基于Restplus实现同花顺iFinD接口分布式调用, 2018-08-24T06:04:19+0000
+/project/socketless/, socketless, 0.4.0, Socketless: An asynchronous high performance TCP messaging library., 2011-03-20T17:57:00+0000
+/project/tahoe-whoosh/, Tahoe-whoosh, 0.3.1, Using and storing whoosh index in Tahoe LAFS grid, 2014-07-08T13:57:13+0000
+/project/collective-recipe-maildump/, collective.recipe.maildump, 0.2.2, Buildout recipe to install maildump, 2016-01-11T05:39:42+0000
+/project/drb-client/, drb-client, 0.4.0, Distributed Randomness Beacon client, 2020-01-26T16:37:50+0000
+/project/mode/, mode, 4.4.0, AsyncIO Service-based programming., 2020-09-28T10:22:07+0000
+/project/routefs/, RouteFS, 1.2.0, RouteFS: A FUSE API wrapper based on URL routing, 2015-10-18T18:06:29+0000
+/project/superhooks/, superhooks, 0.6, superhooks plugin for supervisord, 2020-12-23T10:36:04+0000
+/project/actmon/, actmon, 0.1, This package provides a user idle timer for X11., 2012-03-24T06:57:16+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/surveilr/, surveilr, 0.1a1, Monitoring System evolved, 2011-12-18T15:14:09+0000
+/project/brewpi-remix/, BrewPi-Remix, 0.0.0.1, For the fans of the original Arduino temperature controller, 2020-08-02T14:17:56+0000
+/project/gensafeprime/, gensafeprime, 1.6, Generate safe primes using OpenSSL (a prime p = 2*q+1, and q is prime too), 2019-02-20T16:19:23+0000
+/project/pyqdb/, pyqdb, 0.4, A QDB library for python, 2016-08-02T03:32:49+0000
+/project/asyncscheduler/, AsyncScheduler, 0.2.0, A simpler asynchronous scheduler based on pythons sched.scheduler., 2019-03-23T22:47:55+0000
+/project/scrapy-do-heroku/, scrapy-do-heroku, 0.4.1, A daemon for scheduling Scrapy spiders, 2020-04-28T23:51:19+0000
+/project/ocspd/, ocspd, 0.1, Daemon for updating OCSP staples, 2017-11-03T09:25:39+0000
+/project/skitaid/, skitaid, 0.8.8.3, Skitai App Engine Daemon, 2017-04-05T11:30:38+0000
+/project/backend-ai-console-server/, backend.ai-console-server, 20.9.7, Backend.AI Console Server, 2021-02-22T14:47:28+0000
+/project/mopidy-banshee/, Mopidy-Banshee, 0.1.2, Banshee extension for Mopidy, 2014-07-02T11:49:35+0000
+/project/kdb/, kdb, 1.0.2, Knowledge (IRC) Database Bot, 2014-04-26T15:26:14+0000
+/project/ssh-tarpit/, ssh-tarpit, 0.4.0, SSH tarpit that slowly sends an endless banner, 2021-03-14T16:15:36+0000
+/project/python-wd-parallel/, python-wd-parallel, 0.1.1, python-wd-parallel lets you easilly run your test in multiple borwsers., 2013-05-03T23:03:36+0000
+/project/pyptlib/, pyptlib, 0.0.6, A python implementation of the Pluggable Transports for Circumvention specification for Tor, 2014-04-16T13:16:47+0000
+/project/archipel-agent-hypervisor-network/, archipel-agent-hypervisor-network, 0.6.0beta, Manage libvirt networks, 2013-03-21T01:25:13+0000
+/project/ppp-hal/, ppp_hal, 0.2.1, HAL backend module for the Projet Pensées Profondes, 2015-02-14T11:44:40+0000
+/project/mopidy-api-explorer/, Mopidy-API-Explorer, 1.0.1, Mopidy API Explorer, 2014-07-28T19:30:39+0000
+/project/discobot/, Discobot, 0.1.0, A fully-featured music bot for Discord., 2016-04-22T15:59:21+0000
+/project/libcgroup/, libcgroup, 0.2.4, A library that handles Linux cgroups internally using the libcgroup shared library., 2019-03-29T18:24:36+0000
+/project/ppp-natural-math/, ppp_natural_math, 0.3, Natural language processing for math questions for the Projet Pensées
+Profondes., 2015-01-19T15:12:57+0000
+/project/retrofix/, retrofix, 0.25.1, retrofix, 2021-04-16T07:32:25+0000
+/project/archipel-agent-hypervisor-platformrequest/, archipel-agent-hypervisor-platformrequest, 0.6.0beta, Manage platform wide operation requests, 2013-03-21T01:24:43+0000
+/project/pyagentx/, pyagentx, 0.4.1, AgentX package to extend SNMP with pure Python, 2015-06-30T11:06:42+0000
+/project/backend-ai-accelerator-cuda/, backend.ai-accelerator-cuda, 2.0.1, Backend.AI Accelerator Plugin for CUDA, 2021-03-20T15:17:03+0000
+/project/metatools/, Metatools, 0.1.1, Python Metaclass Construction Tools, 2012-10-20T17:34:16+0000
+/project/archipel-core/, archipel-core, 0.6.0beta, Base framework of Archipel., 2013-03-21T01:25:10+0000
+/project/pymail/, PyMail, 0.1.2, An SMTP daemon, 2013-08-06T20:29:14+0000
+/project/scrapyelasticsearch/, ScrapyElasticSearch, 0.9.2, Scrapy pipeline which allow you to store multiple scrapy items in Elastic Search., 2019-12-09T02:35:54+0000
+/project/mopidy-iris/, Mopidy-Iris, 3.57.6, Fully-featured Mopidy frontend client, 2021-04-12T09:38:03+0000
+/project/mopidy-party/, Mopidy-Party, 1.0.0, Mopidy web extension designed for party, 2020-01-03T15:22:15+0000
+/project/limnoria/, limnoria, 2021.04.11, A modified version of Supybot (an IRC bot and framework), 2021-04-11T09:22:46+0000
+/project/dwhois/, dwhois, 0.11, Distributed WHOIS, 2014-03-21T16:55:40+0000
+/project/hszinc/, hszinc, 1.3.1, Parser and dumper for Project Haystack ZINC (Zinc is not CSV) file format, 2020-09-03T23:13:56+0000
+/project/buildbot-worker/, buildbot-worker, 3.1.0, Buildbot Worker Daemon, 2021-04-05T13:06:20+0000
+/project/pyrobud/, pyrobud, 2.1.0, A clean selfbot for Telegram with an emphasis on quality and practicality., 2020-05-04T04:48:25+0000
+/project/aiorchestra-asyncssh-plugin/, aiorchestra-asyncssh-plugin, 0.1.2, AsyncIO TOSCA orchestrator AsyncSSH plugin for Software configuration, 2016-06-30T13:07:58+0000
+/project/backend-ai-cli/, backend.ai-cli, 0.4.1, Backend.AI Command Line Interface, 2020-04-02T07:03:06+0000
+/project/restifindpy/, RestIFindPy, 0.0.5, 基于Restplus实现同花顺iFinD接口分布式调用, 2018-07-29T08:04:10+0000
+/project/dhcpkit-looking-glass/, dhcpkit_looking_glass, 0.9.2, Looking Glass extensions to DHCPKit, 2016-08-05T14:24:32+0000
+/project/parlance/, Parlance, 1.4.1, A framework for playing the Diplomacy board game over a network., 2009-08-30T02:31:12+0000
+/project/pollinotify/, pollinotify, 1.2, inotify wrapper providing polling with timeout for specified filesystem events, 2017-12-25T05:09:30+0000
+/project/mopidy-snapduck/, Mopidy-Snapduck, 1.0.0, Mopidy extension for controlling a local Snapcast client, 2021-02-04T17:32:08+0000
+/project/tessdb-server/, tessdb-server, 2.6.8, ('A package to collect measurements published by TESS instruments into a SQlite database',), 2020-11-06T10:23:43+0000
+/project/toxicjasmine/, toxicjasmine, 0.2, Toxicjasmine: Nothing interresting here., 2020-04-07T19:15:38+0000
+/project/scrapy-do/, scrapy-do, 0.5.0, A daemon for scheduling Scrapy spiders, 2020-12-24T16:55:00+0000
+/project/openexchangerate/, openexchangerate, 1.5.5, OpenExchangeRates API client for Python 3.7+., 2018-04-11T14:47:32+0000
+/project/designate-tempest-plugin/, designate-tempest-plugin, 0.11.0, OpenStack DNS As A Service (Designate) Functional Tests, 2021-03-29T09:08:37+0000
+/project/r0c/, r0c, 1.1.8, retr0chat telnet/vt100 chat server, 2020-12-22T22:32:31+0000
+/project/netlogger/, netlogger, 4.3.1, NetLogger Toolkit, 2012-05-12T16:03:17+0000
+/project/scrapyd/, scrapyd, 1.2.1, A service for running Scrapy spiders, with an HTTP API, 2019-06-17T19:50:44+0000
+/project/mopidy-defaultplaylist/, Mopidy-DefaultPlaylist, 0.1.0, Sets a default playlist for Mopidy, 2020-09-15T02:59:11+0000
+/project/egenix-mxodbc-zopeda/, egenix-mxodbc-zopeda, 2.2.3, eGenix mxODBC Zope/Plone Database Adapter for Plone and Zope, 2015-09-11T18:36:59+0000
+/project/mopidy-sevensegmentdisplay/, Mopidy-SevenSegmentDisplay, 0.3.1, A Mopidy extension for using it with seven segment display., 2019-05-05T13:01:04+0000
+/project/chaqum/, chaqum, 0.8, [ˈkeɪkjuːm], the queue manager for chaotic job queues., 2021-04-25T17:54:14+0000
+/project/nixstatsagent/, nixstatsagent, 1.2.12, NixStats agent, 2020-09-08T16:40:05+0000
+/project/mopidy-weblibrary/, Mopidy-WebLibrary, 1.0.0, Mopidy extension for editing the music library in a web interface, 2017-03-18T20:39:50+0000
+/project/echod/, echod, 0.1.0, Echod is a mock server and a callback recorder., 2015-08-21T00:04:57+0000
+/project/shannon-scrapyd/, shannon-scrapyd, 1.2.1.post3, Add nails to scrapyd foundation for alarm, 2019-06-13T08:11:13+0000
+/project/mopidy-spotmop/, Mopidy-Spotmop, 2.10.1, A Mopidy Web client that utilizes the Spotify and EchoNest frameworks, 2016-09-28T06:50:18+0000
+/project/ibats-common/, IBATS-Common, 0.20.8, IBATS（Integration Backtest Analysis Trade System）的公共模块，所有Feeder, Trader均集成这个模块，并使用其提供的一些公共工具, 2020-11-15T09:37:04+0000
+/project/mopidy-gpiocont/, Mopidy-GPIOcont, 0.2.2, Extension to control musicbox via gpio., 2017-08-08T13:46:08+0000
+/project/trytond-attachment-s3/, trytond_attachment_s3, 4.0.1.0, Amazon S3 backend for Tryton Attachments, 2017-04-26T17:21:46+0000
+/project/stratum-core/, stratum-core, 0.0.2, Stratum server implementation based on Twisted, 2020-12-31T14:14:24+0000
+/project/ppp-cas/, ppp_cas, 0.8, CAS plugin for PPP, 2015-05-06T11:13:49+0000
+/project/rucio-webui/, rucio-webui, 1.25.3.post1, Rucio WebUI Package, 2021-04-22T12:25:39+0000
+/project/tako/, tako, 0.0.26, Tako: A distributed data store., 2011-03-20T22:35:24+0000
+/project/scrapydart/, scrapydart, 1.2.0.327, A service for running Scrapy spiders, with an HTTP API, 2018-10-10T09:22:01+0000
+/project/skitai/, skitai, 0.36.4.1, Skitai App Engine, 2021-04-18T13:19:29+0000
+/project/sprockets/, sprockets, 0.1.1, A modular, loosely coupled micro-framework built on top of Tornado simplifying the creation of web applications and RabbitMQ workers, 2014-08-29T13:56:30+0000
+/project/mopidy-tachikoma/, Mopidy-Tachikoma, 0.2.4, Mopidy extension for talking to Slack, 2016-09-12T15:13:56+0000
+/project/gothon/, gothon, 0.5.0, Gothon runs GO Code from Python, just import *.go files from Python., 2018-04-17T00:44:27+0000
+/project/mopidy-mixcloud/, Mopidy-Mixcloud, 3.1415.9265, Mopidy Mixcloud extension, 2021-01-04T12:11:32+0000
+/project/git-multimail/, git-multimail, 1.5.0.post1, Send notification emails for Git pushes, 2019-01-21T20:31:51+0000
+/project/argaeus/, Argaeus, 0.1.10, ThermostatGUIController (display and gui-logic) for a thermostat - to be used in combination with pelops/copreus and pelops/alcathous, 2019-11-20T23:28:25+0000
+/project/gpgmailencrypt/, gpgmailencrypt, 3.4.5.1, an e-mail encryption, virus- and spam- checking module, gateway and daemon, 2021-03-04T19:34:24+0000
+/project/nrdp-daemon/, nrdp-daemon, 1.0.13, Nagios Remote Data Processor Daemon, 2020-12-08T19:06:47+0000
+/project/designate/, designate, 12.0.0, DNS as a Service, 2021-04-14T11:03:20+0000
+/project/graphit/, graphit, 0.6, A very simple server monitoring solution., 2010-03-28T22:09:54+0000
+/project/mqttorrd/, mqttorrd, 0.1.0, Create round robind database files form MQTT messages., 2018-06-19T19:56:39+0000
+/project/rewind-client/, rewind-client, 0.3.0, Python client for Rewind event store., 2012-12-16T23:46:48+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/ibats-di-trader/, IBATS-DI-Trader, 0.1.1, 作为IBATS架构的 Trader 端，用于连接Data Integration 平台数据库进行相应的交易及账户信息获取等动作, 2019-03-05T06:43:02+0000
+/project/egenix-mxodbc/, egenix-mxodbc, 3.3.6, eGenix mxODBC - Python ODBC Database Interface, 2016-11-16T16:42:59+0000
+/project/timemon/, timemon, 1.0.0.dev0, timemon plugin for supervisord, 2017-03-13T08:52:28+0000
+/project/mapster/, mapster, 0.3.0, An administration tools for maps repository at http://mapywig.org/, 2020-03-16T20:56:25+0000
+/project/kcpy/, kcpy, 0.1.7, A kinesis consumer is purely written in python., 2018-12-06T11:35:18+0000
+/project/qzig/, qzig, 0.0.4, A ZigBee convertor for Seluxit IoT platform, 2017-11-09T09:18:41+0000
+/project/drag/, drag, 0.1.2, Webhook listener dragging along the main Docker process, 2021-02-08T14:57:32+0000
+/project/sqlbridge/, sqlbridge, 0.1.68, sql bridge for Autobahn|Python., 2014-12-18T17:05:07+0000
+/project/dkimpy-milter/, dkimpy-milter, 1.2.2, Domain Keys Identified Mail (DKIM) signing/verifying milter for Postfix/Sendmail., 2020-08-09T18:25:30+0000
+/project/apicore/, apicore, 1.2.1, Core lib for REST API, 2018-02-11T23:37:18+0000
+/project/rsp/, rsp, 1.0.1, Rapid SSH Proxy, 2020-08-09T23:32:13+0000
+/project/micropath/, micropath, 0.1.0, The micropath Web Application Framework, 2018-06-03T01:05:40+0000
+/project/zicbee/, zicbee, 0.8, A simple & powerful distributed Music database engine, 2009-05-05T17:36:07+0000
+/project/peewee-extra-fields/, peewee-extra-fields, 2.8.2, Extra fields for Peewee, 2021-02-11T22:32:41+0000
+/project/ancientsolutions-crypttools/, ancientsolutions-crypttools, 0.1, Python Cryptography Utilities, 2014-02-24T22:05:09+0000
+/project/maildirproc/, maildirproc, 1.0.1, maildir processor using Python 3.x as its configuration language, 2015-10-04T18:53:00+0000
+/project/ppp-logger/, ppp_logger, 0.2.2, Logging backend for PPP user interfaces., 2015-03-01T09:59:55+0000
+/project/pytagfs/, pytagfs, 0.0.2, A FUSE filesystem which manages files via tags instead of containing them in folders., 2021-04-15T09:31:04+0000
+/project/mopidy-radio-rough-html/, Mopidy-Radio-Rough-HTML, 31.41.5926, Rough html gui for listening to internet, 2018-08-28T21:38:44+0000
+/project/brokkr/, brokkr, 0.3.0, A client for data ingest/logging/uplink, remote management and autonomous & central control of scientific IoT sensors as part of the Mjolnir system., 2020-06-19T12:08:37+0000
+/project/nikippe/, Nikippe, 0.1.11, A general purpose display server - takes values from mqtt and publishes the resulting image to mqtt., 2019-04-18T20:57:47+0000
+/project/django-triflesoft-pages/, django-triflesoft-pages, 0.4.1601022010, Django pages by TrifleSoft, 2016-01-02T20:10:51+0000
+/project/eventfabric/, eventfabric, 0.1.0, Event Fabric API client library, 2013-08-06T11:14:55+0000
+/project/pyspf/, pyspf, 2.0.14, SPF (Sender Policy Framework) implemented in Python., 2020-01-02T02:54:37+0000
+/project/maildirproc-python2/, maildirproc-python2, 1.0.1, maildir processor using Python 2.x as its configuration language, 2015-10-04T17:20:28+0000
+/project/mopidy-musicbox-webclient/, Mopidy-MusicBox-Webclient, 3.1.0, Mopidy MusicBox web extension, 2020-03-22T22:01:11+0000
+/project/concrete/, concrete, 4.15.1, Python modules and scripts for working with Concrete, 2019-05-20T19:45:29+0000
+/project/qonos/, qonos, 1.1.5, The QonoS project provides services for scheduling regularly occuring tasks., 2015-01-21T22:01:32+0000
+/project/aehostd/, aehostd, 1.4.4, AE-DIR host demon, 2021-04-18T16:07:15+0000
+/project/sshauthproxy/, sshauthproxy, 0.1, SSH AuthorizedKeysCommand proxy: publish your SSH authorized_keys from an existing AuthorizedKeysCommand, 2018-11-24T03:13:42+0000
+/project/mopidy-lagukan/, Mopidy-Lagukan, 0.2.4, Mopidy extension for Lagukan, 2019-10-02T04:01:54+0000
+/project/blinkpdf/, blinkpdf, 1.3, Blink-based webpage-to-pdf converter, 2021-02-22T09:15:19+0000
+/project/direstinvoker/, DIRestInvoker, 0.2.2, 调用 DIRestPlus 接口，实现Wind、iFinD、Choice接口调用, 2018-08-30T14:15:05+0000
+/project/pytail/, pytail, 1.0.7, Tail files (logs) over TCP, 2018-03-29T15:20:49+0000
+/project/autobahn/, autobahn, 21.3.1, WebSocket client & server library, WAMP real-time framework, 2021-03-02T15:12:15+0000
+/project/dynamodb-backup/, dynamodb-backup, 1.0.0, Backup a DynamoDB table to an Avro container, 2019-11-29T22:18:06+0000
+/project/sorna/, sorna, 1.0.0, Sorna Meta-package, 2017-09-06T08:09:17+0000
+/project/seedboxtools/, seedboxtools, 1.2.11, A tool to automate downloading finished torrents from a seedbox, 2013-09-18T07:15:18+0000
+/project/daxfi/, DAXFi, 1.1, configure different kinds of firewalls in a consistent way., 2007-05-16T18:58:40+0000
+/project/ncolony/, ncolony, 18.6.0, A process starter/monitor, 2018-06-24T00:34:33+0000
+/project/sshproxy/, sshproxy, 0.6.0-beta0, pure python implementation of an ssh proxy, 2007-12-09T23:18:05+0000
+/project/strangle/, Strangle, 0.3.1, Library for comprehending DNS messages using BIND parsing, 2008-08-17T13:23:39+0000
+/project/tendril/, Tendril, 0.1.1, Frame-based Network Connection Tracker, 2014-02-18T01:23:36+0000
+/project/mopidy-choosmoos/, mopidy-choosmoos, 1.0.0, Mopidy extension to support the ChoosMoos NFC Spotify Music Player, 2020-09-04T12:23:35+0000
+/project/multilog/, multilog, 1.1.0, A simple logger for multiple Python processes., 2016-02-08T13:54:52+0000
+/project/autoblockchainify/, autoblockchainify, 0.9.5, Turn a directory into a git-based Blockchain, 2021-01-17T08:55:27+0000
+/project/swftp/, swftp, 1.0.7, SwFTP is an FTP and SFTP interface for Openstack Object
+Storage (swift), 2013-07-03T15:23:38+0000
+/project/temboard-agent/, temboard-agent, 7.6, PostgreSQL Remote Control Agent, 2021-02-10T15:35:34+0000
+/project/huefs/, huefs, 0.0.1a2, Philips Hue as a FUSE filesystem, 2018-03-22T07:35:19+0000
+/project/jw-mailfilter/, jw.mailfilter, 0.5.15, IMAP mail filter, 2016-12-04T10:27:43+0000
+/project/pysh-lib/, pysh-lib, 0.0.2, Pythonically simple alternative to shell scripts and subprocess, 2020-05-05T07:46:23+0000
+/project/tftpy/, tftpy, 0.8.0, Python TFTP library, 2018-09-13T19:30:05+0000
+/project/ibats-utils/, IBATS-Utils, 1.2.15, IBATS 通用工具，该工具涉及数据库、量化、以及一些通用工具, 2021-04-16T06:55:03+0000
+/project/archipel-agent/, archipel-agent, 0.6.0beta, The hypervisor's agent part of Archipel, 2013-03-21T01:25:06+0000
+/project/nilo-webgallery/, nilo.webgallery, 0.2.5, A simple http server serving a web gallery out of a directory structure., 2009-04-07T17:33:31+0000
+/project/cep/, cep, 0.1.1, Pesquisa de CEPs via site dos Correios, 2011-07-03T13:59:07+0000
+/project/mailflagger/, mailflagger, 0.1.0, A program which flags emails, typically after an incoming payment, 2020-06-08T18:43:47+0000
+/project/bazinga/, Bazinga, 0.2.4, Bazinga is a nose plugin to run tests only if their dependencies were modified, 2011-07-09T22:25:22+0000
+/project/cecdaemon/, cecdaemon, 1.0.0, Daemon and tools for managing CEC capabilities, 2018-09-22T16:46:57+0000
+/project/lectocal/, lectocal, 1.2.1, Syncronize Lectio schedules to Google Calendar., 2018-09-17T11:37:55+0000
+/project/gocept-lms/, gocept.lms, 3.0a6, gocept Link Monitoring Server, 2011-02-14T13:37:35+0000
+/project/archipel-agent-vmcasting/, archipel-agent-vmcasting, 0.6.0beta, Manage all stuff about vmcasting, 2013-03-21T01:24:53+0000
+/project/mopidy-moparty/, Mopidy-Moparty, 0.3.2, Extended version of party extension, with Elm frontend, 2020-04-03T15:32:39+0000
+/project/python-nosclient/, python-nosclient, 1.1, Python client for Netease-NOS, 2013-11-28T08:06:14+0000
+/project/fructosa/, FrUCToSA, 0.3.2, A package to collect and analyze basic performance data from clusters, 2020-09-04T11:50:22+0000
+/project/scrapyrt-with-params/, scrapyrt-with-params, 0.11.0, Put Scrapy spiders behind an HTTP API, 2020-07-13T08:18:46+0000
+/project/mopidy-hoerbert/, Mopidy-Hoerbert, 0.1.1, Hoerbert, 2017-09-10T13:31:06+0000
+/project/mode-streaming/, mode-streaming, 0.1.0, AsyncIO Service-based programming., 2020-12-18T10:22:39+0000
+/project/spotpris2/, SpotPRIS2, 0.4.1, MPRIS2 interface for Spotify Connect, 2020-03-10T22:52:31+0000
+/project/scrapyd-dingding/, scrapyd-dingding, 1.2.0, Add nails to scrapyd foundation for alarm, 2019-05-28T12:49:29+0000
+/project/zfs-tools-zbackup/, zfs-tools-zbackup, 0.5.1, ZFS synchronization and snapshotting tools, 2018-12-13T22:39:20+0000
+/project/python-bond/, python-bond, 1.4, transparent remote/recursive evaluation between Python and other languages, 2015-05-27T15:39:22+0000
+/project/mopidy-oe1/, Mopidy-OE1, 1.2.0, Mopidy backend to access the Austrian radio station OE1., 2017-06-11T11:26:15+0000
+/project/python-aclapiclient/, python-aclapiclient, 0.1.7, Python ACL API client, 2015-11-26T15:58:33+0000
+/project/qg-db/, qg.db, 0.3.1, qg.db, 2015-07-28T03:52:44+0000
+/project/django-triflesoft-locations/, django-triflesoft-locations, 0.3.1509281138, Django locations models by TrifleSoft, 2015-09-28T11:38:14+0000
+/project/backend-ai-storage-proxy/, backend.ai-storage-proxy, 21.3.0, Backend.AI Storage Proxy, 2021-03-29T04:20:03+0000
+/project/sorna-manager/, sorna-manager, 0.9.11, Sorna Manager, 2017-09-08T08:11:35+0000
+/project/hub2lab/, hub2lab, 1.6.0, command line tool to migrate projects from GitHub to GitLab, 2018-12-13T18:45:23+0000
+/project/sorna-common/, sorna-common, 0.9.6, Sorna common libraries, 2017-07-18T14:33:44+0000
+/project/vcsserver/, vcsserver, 0.3.1, Library for easy and fast creation of an ssh demon for popular VCSs (Mercurial and Git), 2014-02-11T10:54:23+0000
+/project/xfs/, xfs, 0.4, XFS filesystem API, 2018-06-04T20:19:11+0000
+/project/mopidy-autoplay/, Mopidy-Autoplay, 0.2.2, Start playing the last track when starting Mopidy., 2021-04-23T12:46:01+0000
+/project/mpdlcd/, mpdlcd, 0.5.2, Display MPD status on a lcdproc server., 2019-01-02T18:35:18+0000
+/project/scrapy-http-pipeline/, scrapy-http-pipeline, 0.2.0, Scrapy HTTP POST items pipeline, 2020-11-30T08:48:39+0000
+/project/mopidy-twitterdj/, Mopidy-TwitterDJ, 0.1.4, Controls Spotify via Twitter, 2015-12-03T14:17:42+0000
+/project/bitbucket-jekyll-hook/, bitbucket-jekyll-hook, 0.1.post1, BitBucket webhook to trigger a static site build through Jekyll, 2015-10-03T22:47:22+0000
+/project/maildump/, maildump, 1.0, An SMTP server that makes all received mails accessible via a web interface and REST API., 2020-09-09T22:58:17+0000
+/project/mopidy-qr/, Mopidy-QR, 0.0.1, Mopid extension for adding tracks via a QR code, 2020-07-11T04:12:30+0000
+/project/mopidy-alsamixer/, Mopidy-ALSAMixer, 2.0.1, Mopidy extension for ALSA volume control, 2020-12-08T23:36:06+0000
+/project/syncrepl-client/, syncrepl-client, 0.95.1, An easier-to-use LDAP syncrepl client, 2017-08-17T06:24:00+0000
+/project/scrapyapperyio/, scrapyapperyio, 0.1.3, Scrapy pipeline which allows you to store scrapy items in appery.io database., 2015-07-12T19:22:43+0000
+/project/mopidy-spotify/, Mopidy-Spotify, 4.1.1, Mopidy extension for playing music from Spotify, 2021-01-07T13:49:16+0000
+/project/mopidy-radioworld/, Mopidy-RadioWorld, 0.1.0, Mopidy backend extension for Radiowrold.live service, 2020-06-05T20:00:50+0000
+/project/redirbot/, redirbot, 0.0.5, IRCBot, telling people they should contact you on different nickname, 2013-07-23T09:34:07+0000
+/project/pilotmapreduce/, PilotMapReduce, 0.1.0, SAGA Pilot-Abstractions based MapReduce Implementation, 2012-11-06T06:48:43+0000
+/project/run-in-gui/, run-in-gui, 0.0.1, Tools to run (possibly graphical) programs in logged-in user sessions on modern Linux distributions, 2013-08-31T08:48:30+0000
+/project/bitbot/, bitbot, 1.12.0, Modular event-driven IRC bot, 2019-10-11T16:26:04+0000
+/project/emojifs/, emojifs, 0.2.0, A FUSE filesystem to manipulate custom emojis on your various Slacks and Discords, 2020-09-29T22:03:22+0000
+/project/deterministic-encryption-utils/, deterministic_encryption_utils, 0.3.0.post1, Common encryption utilities for the implementation of simple encryption/decryption views., 2015-12-13T20:07:24+0000
+/project/mopidy-rough-base/, Mopidy-Rough-Base, 3.14.15, Shared classes for building radio rough guis., 2018-01-15T07:29:07+0000
+/project/nattka/, nattka, 0.2.11, A New Arch Tester Toolkit (open source replacement for stable-bot), 2020-11-27T10:05:10+0000
+/project/mopidy-plex/, Mopidy-Plex, 0.1.0b, Mopidy extension for playing audio from a Plex server, 2016-02-02T00:07:32+0000
+/project/wallpoppy/, WallPoppy, 0.1.0, Simple wallpaper daemon using feh, 2018-12-25T01:12:33+0000
+/project/superslacker/, superslacker, 0.4, superslacker plugin for supervisord, 2019-11-15T19:24:07+0000
+/project/async-pluct/, async-pluct, 0.3.4, JSON Hyper Schema client, 2017-12-22T10:53:19+0000
+/project/backend-ai-common/, backend.ai-common, 21.3.1, Backend.AI commons library, 2021-04-13T05:48:08+0000
+/project/kytos/, kytos, 2020.2, Kytos, an open source SDN Platform, 2020-12-30T20:42:30+0000
+/project/xtrmth/, xtrmth, 1.6.1, assorted math functions, to provide all of your math needs., 2021-01-26T21:57:39+0000
+/project/har-server/, har-server, 0.0.1, Programmable HTTP server for testing, 2018-12-23T19:37:01+0000
+/project/backend-ai-webserver/, backend.ai-webserver, 21.3.1.post0, Backend.AI Web Server, 2021-04-04T11:40:03+0000
+/project/txloadbalancer/, txLoadBalancer, 1.1.0, txLoadBalancer - A Twisted-based TCP load balancer., 2008-07-05T08:53:25+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/kgd/, kgd, 0.1.27, Tool for retrieving information on tax payments by Kazakhstan companies, 2020-02-27T07:52:16+0000
+/project/nidhoggr/, nidhoggr, 1.0.1, Yggdrasil protocol implementation, 2021-03-16T08:10:54+0000
+/project/vnpy-extra/, vnpy-extra, 0.7.20210426.0, 基于VNPY进行功能拓展, 2021-04-26T01:25:50+0000
+/project/supervisor-lrn/, supervisor-lrn, 4.0.0, A system for controlling process state under UNIX, 2018-11-07T18:09:41+0000
+/project/jw-badipsrbl/, jw.badipsrbl, 0.5.5, RBL DNS Server for badips.com, 2016-03-31T12:03:37+0000
+/project/dkimpy/, dkimpy, 1.0.5, DKIM (DomainKeys Identified Mail), ARC (Authenticated Receive Chain), and TLSRPT (TLS Report) email signing and verification, 2020-08-09T02:51:36+0000
+/project/sardana/, sardana, 3.0.3, instrument control and data acquisition system, 2020-09-18T08:55:02+0000
+/project/archipel-agent-hypervisor-geolocalization/, archipel-agent-hypervisor-geolocalization, 0.6.0beta, Make hypervisor able to locate themselves in the world, 2013-03-21T01:25:47+0000
+/project/lysidike/, Lysidike, 0.1.2, Lysidike publishes incoming mqtt messages to various internet services like email., 2019-04-07T20:18:43+0000
+/project/p2whois/, p2whois, 0.5, Proxy to Prefix WhoIs, 2015-12-08T16:54:13+0000
+/project/mopidy-filemanager/, Mopidy-FileManager, 0.2.0, Mopidy extension for file manager, 2016-11-17T08:06:16+0000
+/project/sphinxsearch/, sphinxsearch, 0.1, A module for querying the sphinx search daemon, 2008-07-27T10:49:29+0000
+/project/ibats-huobi-trader/, IBATS-Huobi-Trader, 0.1.8, 作为IBATS架构的 Trader 端，用于连接Huobi 火币交易所进行相应的交易及账户信息获取等动作, 2018-12-10T07:40:33+0000
+/project/mopidy-spotify-tunigo/, Mopidy-Spotify-Tunigo, 1.0.0, Mopidy extension for providing the browse feature of Spotify, 2016-02-07T13:15:05+0000
+/project/sps-parser/, sps-parser, 0.3.0, Metadata extractor from MineLP skins, 2021-02-28T00:33:23+0000
+/project/hippodamia/, Hippodamia, 0.4.2, Hippodamia observe the state of all registered microservices (aka watch dog)., 2019-11-03T21:01:19+0000
+/project/epidaurus/, Epidaurus, 0.2.0, PID based room temperature controller - to be used in combination with pelops/copreus, pelops/argaeus and pelops/alcathous., 2020-04-23T22:47:06+0000
+/project/mopidy-beetslocal/, Mopidy-BeetsLocal, 0.0.9, Access local beets library, 2016-08-27T14:21:27+0000
+/project/p-unity/, p-unity, 0.42.202104180000, { Programming : Unity }, 2021-04-18T01:18:45+0000
+/project/vcssshd/, vcssshd, 0.2.3, Library for easy and fast creation of an ssh demon for popular VCSs (Mercurial and Git), 2013-06-24T07:20:47+0000
+/project/mopidy-mpris/, Mopidy-MPRIS, 3.0.3, Mopidy extension for controlling Mopidy through the MPRIS D-Bus interface, 2020-12-08T23:23:49+0000
+/project/rustybits/, rustybits, 0.0.2, , 2020-01-19T21:35:16+0000
+/project/qg-core/, qg.core, 0.1.6, qg.core, 2015-07-28T03:28:40+0000
+/project/times/, times, 0.7, Times is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones., 2014-08-24T06:13:20+0000
+/project/pametis/, pametis, 0.4, Sitemap Analyzer/Parser/Iterator, 2015-12-30T19:32:22+0000
+/project/mailplate/, mailplate, 0.601, Send Muli-Language Multi-Transport Template-Driven Email, 2015-11-12T13:12:32+0000
+/project/qqqfome/, qqqfome, 0.0.4, I'm a daemon server that auto send message to your zhihu new followers., 2016-02-13T06:13:45+0000
+/project/rucio-clients-xenon1t/, rucio-clients-xenon1t, 0.0.1, Rucio Client Configuration for ATLAS, 2016-06-27T15:10:12+0000
+/project/py-daemon/, py_daemon, 0.1.2, Python daemonizer for Unix, Linux and OS X, 2016-09-24T20:47:37+0000
+/project/mantissa/, Mantissa, 0.9.0, A multiprotocol application deployment platform, 2017-09-05T09:06:47+0000
+/project/munin2smartphone/, munin2smartphone, 0.0.4, Demilitarized HTTP server eating munin monitoring data and producing static pages that can be displayed securely (ie. without javascript), on your smartphone., 2020-05-28T20:39:00+0000
+/project/keyfree/, keyfree, 1.0.0, An authentication proxy for Amazon Elasticsearch Service, 2016-11-13T13:47:00+0000
+/project/mopidy-sangu/, Mopidy-Sangu, 1.2.0, Democratic, collaborative playlist frontend for Mopidy made with Flutter, 2020-11-16T17:37:19+0000
+/project/nkit4py/, nkit4py, 2.4.2, Fast XML to Python (and vise versa) converter and filter. Written in C++ using Expat SAX parser, 2016-05-25T16:30:41+0000
+/project/gerritexec/, gerritexec, 2.2.0, Run a command when a gerrit patchset is created, 2014-06-28T13:04:25+0000
+/project/egenix-web-installer-test/, egenix-web-installer-test, 0.2.0, eGenix Web Installer Test Package, 2014-07-02T15:33:45+0000
+/project/pybiomaps/, PyBioMaps, 0.1.0, PyBioMaps is a framework to manage and visualize scientific data in a browser., 2012-04-04T15:45:49+0000
+/project/sovereign/, sovereign, 0.9.7, Envoy Proxy control-plane written in Python, 2021-03-12T03:23:51+0000
+/project/hippasos/, Hippasos, 0.1.7, Hippasos plays preconfigured sound files upon reception of predefined mqtt messages., 2019-04-07T20:18:09+0000
+/project/kogniserver/, kogniserver, 0.3.1, Interface server of the KogniHome project, 2019-02-26T13:59:10+0000
+/project/aiotusclient/, aiotusclient, 0.1.4, tus.io-compatible upload client library for Python asyncio, 2020-09-15T05:40:18+0000
+/project/mopidy-bassdrive/, Mopidy-Bassdrive, 0.2.0, Bassdrive archive and stream extension for Mopidy, 2015-04-08T19:45:16+0000
+/project/lazydog/, lazydog, 0.1.1, User-level filesystem event observer, 2018-05-03T15:31:21+0000
+/project/mailprocessing/, mailprocessing, 1.2.7, maildir and IMAP processor/filter using Python 3.x as its configuration language, 2020-02-12T09:48:43+0000
+/project/xenballoond/, xenballoond, 1.0.0, Xen virtual machine ballooning daemon, 2011-08-05T08:41:58+0000
+/project/zicbee-mplayer/, zicbee-mplayer, 0.9.1, MPlayer backend for zicbee project, 2010-06-14T19:45:00+0000
+/project/baculafs/, BaculaFS, 0.1.7, Bacula Filesystem in USErspace, 2010-12-30T21:40:01+0000
+/project/eyefi/, eyefi, 0.2, EyeFi Server Framework, 2012-03-03T22:35:06+0000
+/project/dcnnt/, dcnnt, 0.4.0, UI-less tool to connect Android phone with desktop, 2021-02-14T21:54:50+0000
+/project/dnsmon/, dnsmon, 0.1, A package to monitor DNS resolution values and report on differences from expected values, 2011-04-12T03:08:07+0000
+/project/ppp-oeis/, ppp_oeis, 0.1.3, PPP module answering questions about integer sequences., 2015-02-14T11:49:18+0000
+/project/mopidy-podcast/, Mopidy-Podcast, 3.0.0, Mopidy extension for browsing and playing podcasts, 2019-12-25T08:18:44+0000
+/project/policyd-rate-limit/, policyd-rate-limit, 1.0.1.2, Postfix rate limit policy server implemented in Python3., 2020-05-17T17:18:37+0000
+/project/django-triflesoft-token-auth/, django-triflesoft-token-auth, 0.4.1510031721, Django token authentication by TrifleSoft, 2015-10-03T17:21:03+0000
+/project/mathomaticprimes/, mathomaticprimes, 0.0.1, Python library and web service interface (as service egg) for Mathomatic's prime number generator., 2010-01-16T11:34:52+0000
+/project/qg-web/, qg.web, 0.1.3, qg.web, 2015-07-28T04:03:17+0000
+/project/watchghost/, watchghost, 0.3.0, Your invisible but loud monitoring pet, 2019-07-31T12:28:49+0000
+/project/buildbot-slave/, buildbot-slave, 0.8.14.post1, BuildBot Slave Daemon, 2021-01-22T10:40:09+0000
+/project/ppp-nlp-classical/, ppp_nlp_classical, 0.2.8, Natural language processing module for the PPP., 2014-11-15T13:48:37+0000
+/project/slapdcheck/, slapdcheck, 3.8.2, OpenLDAP monitoring check, 2021-03-18T16:12:27+0000
+/project/mopidy-podcast-gpodder-net/, Mopidy-Podcast-gpodder.net, 1.0.0, Mopidy-Podcast extension for searching and browsing podcasts on gpodder.net, 2014-05-24T14:08:56+0000
+/project/mopidy-gpio/, Mopidy-GPIO, 0.1.15, Controll mopidy with GPIO, 2014-11-01T22:12:02+0000
+/project/supervisor-plus-cron/, supervisor-plus-cron, 1.0.15201, From 4.0.0.dev0: A system for controlling process state under UNIX, plus CRON!, 2015-07-19T14:39:33+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/rtd-bin-server/, rtd-bin-server, 1.2.0, A pastebin for Read The Docs discord community, 2021-04-23T00:30:35+0000
+/project/hippodamiaagent/, HippodamiaAgent, 0.1.12, Hippodamia observe the state of all registered microservices (aka watch dog)., 2019-04-05T20:22:04+0000
+/project/ptw/, ptw, 1.0.1, Pooling TLS Wrapper, 2020-08-09T23:28:50+0000
+/project/ppp-core/, ppp_core, 0.7.5, Core/router of the PPP framework., 2016-04-01T08:30:12+0000
+/project/python-aqbanking/, python-aqbanking, 0.0.8, This is a python wrapper for AqBanking, 2019-09-13T20:26:56+0000
+/project/mopidy-vkontakte/, Mopidy-VKontakte, 0.3.1, Mopidy extension for VKontakte allows         to listen to music from VKontakte social network., 2014-09-27T21:29:10+0000
+/project/blanche/, blanche, 0.1, Tiny CDN, 2012-04-23T20:26:27+0000
+/project/mopidy-evtdev/, Mopidy-EvtDev, 0.1.1, Mopidy extension for virtual input devices, 2014-05-06T11:27:39+0000
+/project/afraid/, afraid, 0.1-dev, A simple client for the afraid.org dynamic DNS service, 2011-12-22T07:08:20+0000
+/project/zicbee-gst/, zicbee-gst, 0.6.1, Gstreamer backend for zicbee project, 2010-06-14T19:42:13+0000
+/project/mopidy-ydisk/, Mopidy-YDisk, 0.2.0, Mopidy extension for Yandex.Disk, 2019-08-17T08:33:32+0000
+/project/scrapyrt/, scrapyrt, 0.12.0, Put Scrapy spiders behind an HTTP API, 2021-03-08T12:56:26+0000
+/project/pyvmomi/, pyvmomi, 7.0.2, VMware vSphere Python SDK, 2021-04-09T13:20:00+0000
+/project/swiftnbd/, swiftnbd, 0.11, This is a NBD server for OpenStack Object Storage (Swift)., 2016-03-30T20:52:10+0000
+/project/pleisthenes/, Pleisthenes, 0.1a0, Pleisthenes is a weather microservice (connects to a weather site and provides e.g. local sun radiation)., 2018-11-19T22:44:01+0000
+/project/mopidy-dleyna/, Mopidy-dLeyna, 2.0.1, Mopidy extension for playing music from Digital Media Servers, 2020-07-06T19:28:06+0000
+/project/mopidy-pidi/, mopidy-pidi, 1.0.3, Mopidy extension for displaying song info and album art using pidi plugins, 2020-05-15T10:15:35+0000
+/project/mopidy-playbackdefaults/, Mopidy-PlaybackDefaults, 0.1.2, Mopidy extension for configurable default playback settings., 2020-03-21T23:32:13+0000
+/project/hotspotd/, hotspotd, 0.1.4, Small daemon to create a wifi hotspot on linux, 2014-11-14T17:58:45+0000
+/project/fuglu/, fuglu, 0.10.8, FuGlu Mail Content Scanner, 2021-02-15T11:54:05+0000
+/project/dcache-nagios-plugins/, dcache-nagios-plugins, 0.0.8, A collection of nagios plugins to monitor a dCache storage., 2018-10-03T08:27:36+0000
+/project/pipilot/, PiPilot, 0.0.1, A software aircraft controller for RaspberryPi, 2018-03-12T19:52:26+0000
+/project/pyvcloud-mishkin/, pyvcloud.mishkin, 12.5, VMware vCloud Python SDK, 2015-05-19T16:19:37+0000
+/project/google-compute-engine/, google-compute-engine, 2.8.13, Google Compute Engine, 2019-01-24T19:42:35+0000
+/project/py-prefork-server/, py-prefork-server, 0.5.0, A simple tcp/udp prefork server library loosely modelled after perl's Net::Server::Prefork, 2020-01-19T21:57:38+0000
+/project/madeiracloud/, MadeiraCloud, 1.0.0, MadeiraCloud Agent, 2011-12-16T10:07:55+0000
+/project/trytond/, trytond, 5.8.7, Tryton server, 2021-04-16T17:00:53+0000
+/project/sftp-cloudfs/, sftp-cloudfs, 0.21, SFTP interface to OpenStack Object Storage (Swift), 2019-07-25T19:45:16+0000
+/project/yaml-acl/, yaml-acl, 0.0.1, Simple YAML-based ACL parser and checker, 2020-11-25T11:22:08+0000
+/project/mopidy-soundcloud/, Mopidy-SoundCloud, 3.0.1, Mopidy extension for playing music from SoundCloud, 2020-12-15T08:10:07+0000
+/project/python-fs-stack/, python-fs-stack, 0.2, Python wrapper for all FamilySearch APIs, 2011-06-08T20:17:11+0000
+/project/livecheck/, livecheck, 0.0.1, Testing distributed systems., 2019-04-01T23:31:30+0000
+/project/archipel-agent-xmppserver/, archipel-agent-xmppserver, 0.6.0beta, Can manage Ejabberd Server using XMLRPC module, 2013-03-21T01:24:57+0000
+/project/mopidy-ttsgpio/, Mopidy-TtsGpio, 1.0.2, Controll mopidy without screen using GPIO and TTS, 2016-03-24T12:24:17+0000
+/project/ixnetwork/, IxNetwork, 9.0.1915.16, IxNetwork Low Level API, 2019-07-24T23:46:40+0000
+/project/mopidy-yandexmusic/, Mopidy-Yandexmusic, 0.0.6, Yandex Music plugin for Mopidy, 2020-12-01T05:09:24+0000
+/project/mopidy-multisonic/, Mopidy-Multisonic, 0.5.2, A mopidy backend provider for multisonic services, 2020-07-30T11:14:18+0000
+/project/mopidy-jingle/, Mopidy-Jingle, 0.1.0, Mopidy extension that plays jingle between tracks, 2020-05-14T20:01:56+0000
+/project/pymilter/, pymilter, 1.0.4, Python interface to sendmail milter API, 2019-04-22T14:08:46+0000
+/project/archippe/, Archippe, 0.2.1, Archippe is a data persistence micro service for pelops. It uses influxdb to store incoming values and publishes the history a series upon request., 2020-04-23T22:29:30+0000
+/project/splitviewfuse/, splitviewfuse, 0.3.1, A fuse implementation for an segmented view on a given directory., 2016-10-30T15:39:28+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/inputexec/, inputexec, 0.2.4, Simple Python program to execute commands on keypress on headless systems, 2013-08-14T16:08:30+0000
+/project/vagoth/, vagoth, 0.9.3, Pluggable cluster controller (eg. for VM management), 2013-12-29T11:37:59+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/supermann/, supermann, 3.2.0, A Supervisor event listener for Riemann, 2016-06-29T12:10:30+0000
+/project/mopidy-audioteka/, Mopidy-Audioteka, 0.1.5, Mopidy backend extension for Audioteka, 2019-02-02T21:26:58+0000
+/project/ibats-huobi-feeder/, IBATS-Huobi-Feeder, 0.1.3, 连接 Huobi 火币交易所，获取实时行情、历史行情，保存到mysql数据库同时redis广播，供 IBATS 交易平台进行策略回测、分析，交易使用, 2018-12-07T02:03:33+0000
+/project/backend-ai-agent/, backend.ai-agent, 21.3.0, Backend.AI Agent, 2021-03-29T01:52:58+0000
+/project/mopidy-qobuz/, Mopidy-Qobuz, 0.0.1, Mopidy extension for playing music from Qobuz, 2019-05-18T16:17:17+0000
+/project/escale/, escale, 0.7.11, Escale - Client-to-client synchronization based on external relay storage, 2020-12-16T11:55:02+0000
+/project/javanicus/, Javanicus, 0.1, A WebHDFS FUSE driver, 2013-05-10T23:09:19+0000
+/project/backupmysystemusb2usb/, backupmysystemusb2usb, 1.0.4, Backup a usb key to another usb key with the same space disk, 2020-02-09T13:12:16+0000
+/project/libraptorq/, libraptorq, 18.3.0, Python CFFI bindings for libRaptorQ (RaptorQ RFC6330 FEC implementation)., 2018-03-06T06:51:23+0000
+/project/eddie-tool/, EDDIE-Tool, 1.0.0, The EDDIE Tool is a system and network monitoring, security, and performance analysis agent developed entirely in threaded Python. Its key features are portability, extendibility, and powerful configuration., 2009-09-28T14:19:16+0000
+/project/zfs-tools/, zfs-tools, 0.5.1, ZFS synchronization and snapshotting tools, 2020-01-04T00:10:51+0000
+/project/mopidy-jellyfin/, Mopidy-Jellyfin, 1.0.2, Mopidy extension for playing music from jellyfin, 2021-04-18T15:34:18+0000
+/project/thyestes/, Thyestes, 0.1.2, Thyestes it a timer microservice. Listens on topics for specific messages, starts a timer when such a messages has been received and publishes a predefined message after the timer expired., 2019-04-07T20:20:33+0000
+/project/rejester/, rejester, 0.8.9, redis-based python client library and command line tools for managing tasks executed by a group of configurable workers, 2015-07-08T11:30:27+0000
+/project/idiotic/, idiotic, 0.2.0, Distributed home automation controller, 2016-03-23T04:44:30+0000
+/project/sprockets-mixins-metrics/, sprockets.mixins.metrics, 4.1.0, Record performance metrics about your application, 2019-09-04T10:48:42+0000
+/project/valet/, valet, 0.4, valet is a script that turns any directory into a simple wiki, complete with wikitext rendering, editing, and automatically committing changes to version control., 2015-01-04T01:01:45+0000
+/project/filemarx/, filemarx, 0.1.0, Validate a directory structure using JSON schemas, 2015-03-01T15:28:17+0000
+/project/pycloudfuse/, pycloudfuse, 0.02, Fuse (Filesystem in Userspace) interface to Rackspace Cloud Files and Open Stack Object Storage (Swift), 2011-08-18T11:31:09+0000
+/project/mc4ep-lavender/, mc4ep-lavender, 0.17.0, MC4EP cabinet core, 2021-02-28T02:14:16+0000
+/project/oodt/, oodt, 1.1, Apache OODT, 2017-07-27T04:22:18+0000
+/project/ptml/, ptml, 0.4.0, PTML - Embed Python in text documents, 2010-09-17T05:23:43+0000
+/project/mopidy-pummeluff/, Mopidy-Pummeluff, 2.2.0, Pummeluff is a Mopidy extension which allows you to control Mopidy via RFID tags, 2020-04-15T12:06:53+0000
+/project/dropboxwsgi/, dropboxwsgi, 1.0.1, WSGI-compatible HTTP interface to Dropbox, 2012-04-06T00:27:09+0000
+/project/pyfarm-agent/, pyfarm.agent, 0.8.6, Core module containing code to run PyFarm's agent., 2015-06-04T03:57:20+0000
+/project/microscan/, microscan, 0.0.2, Python driver from Microscan barcode readers, 2018-05-07T07:30:35+0000
+/project/featmongo/, featmongo, 0.3.3, Wrapper around pymongo using the serialization module to convert BSON to python object, 2016-05-31T09:22:31+0000
+/project/py2pip/, py2pip, 1.0.2, Master package for Py2PIP, 2020-02-12T16:02:55+0000
+/project/mopidy-bookmarks/, Mopidy-Bookmarks, 0.1.4, Provides bookmarks functionalities to mopidy., 2020-07-31T15:08:19+0000
+/project/mopidy-grooveshark/, Mopidy-Grooveshark, 1.0.4, Mopidy extension that plays sound from Grooveshark, 2015-04-25T17:28:05+0000
+/project/mopidy-dirble/, Mopidy-Dirble, 1.3.0, Mopidy extension for Dirble open radio directory, 2016-01-24T22:56:53+0000
+/project/django-triflesoft-holidays/, django-triflesoft-holidays, 0.2.1509281136, Django holidays models by TrifleSoft, 2015-09-28T11:36:21+0000
+/project/tcomapi/, tcomapi, 0.1.13, Bundle for getting open data from some KZ sites., 2020-06-23T11:09:59+0000
+/project/noipclient/, noipclient, 0.0.7, noip.com Dynamic DNS update client., 2016-05-29T05:14:41+0000
+/project/openerp-core/, openerp-core, 7.0.406, Core OpenERP package, 2014-02-09T14:45:24+0000
+/project/sprockets-http/, sprockets.http, 2.2.0, Tornado HTTP application runner, 2020-09-28T13:30:10+0000
+/project/brewpi/, BrewPi, 0.0.0.1, For the fans of the original Arduino temperature controller, 2020-08-02T14:19:31+0000
+/project/mailtrap/, mailtrap, 1.0.1, MailTrap has been renamed to Sendria. Use Sendria now! An SMTP server that makes all received mails accessible via a web interface and REST API., 2020-10-03T09:43:26+0000
+/project/py3dns/, py3dns, 3.2.1, Python 3 DNS library, 2019-09-04T12:24:45+0000
+/project/skeiron/, Skeiron, 0.1.3, Skeiron provides a Forwarding/Echo/Collect/Distribute service., 2019-04-07T20:19:53+0000
+/project/ftp-cloudfs/, ftp-cloudfs, 0.37.1, FTP interface to OpenStack Object Storage (Swift), 2020-02-12T18:47:37+0000
+/project/magneticod/, magneticod, 0.6.0, Autonomous BitTorrent DHT crawler and metadata fetcher., 2017-06-14T08:34:59+0000
+/project/scrapy-multifeedexporter/, scrapy-multifeedexporter, 0.1.1, Export scraped items of different types to multiple feeds., 2014-10-07T13:25:50+0000
+/project/msikeyboard/, msikeyboard, 0.1.1, Support library and daemon for SteelSeries keyboards on MSI laptops, 2018-08-25T18:46:22+0000
+/project/supervisor-twiddler/, supervisor_twiddler, 1.0.0, supervisor_twiddler RPC extension for Supervisor, 2014-02-02T22:24:47+0000
+/project/mopidy-ircontrol/, Mopidy-IRControl, 0.1.0, Mopidy frontend to be controlled with an IR controller, 2015-10-08T20:19:37+0000
+/project/pizero-gpslog/, pizero-gpslog, 1.1.0, Raspberry Pi Zero gpsd logger with status LEDs., 2020-09-11T12:06:00+0000
+/project/poorbox/, poorbox, 0.1, Downloads a dropbox directory via the dropbox REST API. Downloads only the changed files. Useful for limited environments., 2013-02-24T02:23:20+0000
+/project/rucio-clients-xdc/, rucio-clients-xdc, 0.0.2, Rucio Client Configuration for XDC, 2018-05-04T10:12:28+0000
+/project/compropago-python/, compropago-python, 0.3, Python library for ComproPago, 2016-02-08T06:13:57+0000
+/project/django-triflesoft-templatetags/, django-triflesoft-templatetags, 0.5.1610232024, Django template tags by TrifleSoft, 2016-10-23T20:24:32+0000
+/project/archipel-agent-vmparking/, archipel-agent-vmparking, 0.6.0beta, Handle the virtual machine parking, 2013-03-21T01:25:52+0000
+/project/simplerdfserver/, SimpleRDFServer, 0.2, Serves RDF (RSS 1.0) indexes of directories over HTTP, 2006-10-11T05:55:10+0000
+/project/supybot/, supybot, 0.84.0, A flexible and extensible Python IRC bot and framework., 2018-05-10T00:44:10+0000
+/project/pycoon/, pycoon, 0.2a5, Python WSGI web development framework based on XML pipelines, 2007-04-12T11:46:14+0000
+/project/londiste/, londiste, 3.5, Database replication based on PgQ, 2020-10-20T06:00:20+0000
+/project/backend-ai-integration-jupyter/, backend.ai-integration-jupyter, 0.3.2, Backend.AI Integration for Jupyter, 2018-11-09T14:54:35+0000
+/project/lbindex/, LBIndex, 0.1.1, Indexer Daemon for the neo-lightbase service, 2013-06-28T19:24:56+0000
+/project/package-cache/, package-cache, 0.2, A caching proxy for package downloads, 2014-02-22T03:15:16+0000
+/project/django-triflesoft-tags/, django-triflesoft-tags, 0.3.1509281140, Django template tags by TrifleSoft, 2015-09-28T11:40:05+0000
+/project/archipel-agent-hypervisor-health/, archipel-agent-hypervisor-health, 0.6.0beta, Get health of hypervisors, 2013-03-21T01:25:38+0000
+/project/brss/, brss, 0.8.14, Offline DBus RSS reader, 2011-07-31T08:38:59+0000
+/project/pelops/, Pelops, 0.5.0, Common tools for projects of the the gitlab group pelops., 2020-04-23T21:03:36+0000
+/project/django-triflesoft-loginas/, django-triflesoft-loginas, 0.4.1610232024, Django loginas for administrators by TrifleSoft, 2016-10-23T20:24:24+0000
+/project/mopidy-youtube/, Mopidy-YouTube, 3.3, Mopidy extension for YouTube, 2021-04-12T00:19:24+0000
+/project/geventconnpool/, geventconnpool, 0.2.1, TCP connection pool for gevent, 2014-06-03T10:38:17+0000
+/project/fooster-db/, fooster-db, 0.9.0, a human-readable, magic database in Python, 2020-10-17T19:00:00+0000
+/project/orthogonalspace/, orthogonalspace, 0.0.1, Space-based game, 2016-07-04T08:29:28+0000
+/project/hippodamiaservice/, HippodamiaService, 0.1a1, Hippodamia observe the state of all registered microservices (aka watch dog)., 2018-11-24T10:42:15+0000
+/project/chiron-bot/, chiron-bot, 0.9.1, Chat bot that can look up ticket numbers on bugtrackers and return their names, 2021-02-06T03:19:49+0000
+/project/moin/, moin, 1.9.11, MoinMoin 1.9.11 is an easy to use, full-featured and extensible wiki software package, 2020-11-08T17:42:48+0000
+/project/mopidy-webhooks/, Mopidy-Webhooks, 0.2.0, Mopidy extension that sends webhook notifications to a remote server, 2014-11-03T21:59:19+0000
+/project/mopidy-radionet/, Mopidy-RadioNet, 0.2.2, Mopidy extension for radio.net, 2020-12-31T14:04:34+0000
+/project/dynip/, DynIP, 0.1e, A painfully simple UDP Client/Server for tracking the IP addresses of your devices., 2011-11-30T06:41:40+0000
+/project/toxicbuild/, toxicbuild, 0.7.0, Simple and flexible continuous integration tool., 2019-08-26T08:43:52+0000
+/project/daemontools/, daemontools, 0.0.2a5, Daemonizing and single instance tools., 2018-02-09T08:51:58+0000
+/project/rucio-clients-mock/, rucio-clients-mock, 0.0.4, MOCK Rucio Client Configuration, 2018-02-05T12:55:10+0000
+/project/sorna-jupyter-kernel/, sorna-jupyter-kernel, 0.1.3, Sorna Jupyter Kernel Integration, 2017-09-19T05:13:29+0000
+/project/ppp-french-parser/, ppp_french_parser, 0.1.4, Parser of the French language for the PPP., 2015-02-03T14:44:22+0000
+/project/archipel-agent-virtualmachine-vnc/, archipel-agent-virtualmachine-vnc, 0.6.0beta, manage VNC screen connection, 2013-03-21T01:25:23+0000
+/project/sysmonitor-agent/, sysmonitor-agent, 2.2, System Monitor Agent, 2018-08-27T11:10:08+0000
+/project/egenix-pyopenssl/, egenix-pyopenssl, 0.13.16, eGenix pyOpenSSL Distribution for Python, 2016-11-11T10:00:02+0000
+/project/apex-radio/, apex-radio, 0.0.5, APEX reference implementation., 2016-10-02T11:36:26+0000
+/project/vote4film/, vote4film, 1.7.2, Easy scheduling for regular film nights, 2021-03-04T20:41:58+0000
+/project/thunderhead/, thunderhead, 0.4.3, Python sdk to interface with vCloud Usage Meter, 2015-04-16T18:11:59+0000
+/project/gitserve/, gitserve, 0.2.0, A helper tool for git that mimics mercurial's serve command, 2008-04-28T10:33:20+0000
+/project/egenix-mxodbc-connect-client/, egenix-mxodbc-connect-client, 2.1.5, eGenix mxODBC Connect Client for Python, 2015-10-23T08:41:04+0000
+/project/dhcpkit-kafka/, dhcpkit_kafka, 1.0.0, Kafka extensions to DHCPKit, 2016-12-08T16:37:49+0000
+/project/zicbee-vlc/, zicbee-vlc, 0.9.2, VLC backend for zicbee project, 2010-06-14T19:43:38+0000
+/project/longtroll/, longtroll, 1.0, Detect long-running processes and notify you when they're done., 2012-08-01T01:14:21+0000
+/project/mopidy-local-whoosh/, Mopidy-Local-Whoosh, 0.1.0, Whoosh local library extension., 2014-02-25T22:48:13+0000
+/project/github2gitlab/, github2gitlab, 1.5.5, command line tool to migrate projects from GitHub to GitLab, 2016-03-18T20:59:48+0000
+/project/sqlauth/, sqlauth, 0.2.12, Authentication and Authorization via SQL for Autobahn, 2014-12-23T17:32:56+0000
+/project/artie/, artie, 0.1.1, IRC utility robot framework for Python, 2010-08-28T08:55:52+0000
+/project/borgback/, borgback, 1.0, Scheduled backups using Borg, 2018-10-23T19:32:31+0000
+/project/zicbee-mpris/, zicbee-mpris, 1.0, MPRIS backend for zicbee project, 2012-06-06T19:22:48+0000
+/project/mopidy-scrobbler/, Mopidy-Scrobbler, 2.0.1, Mopidy extension for scrobbling played tracks to Last.fm, 2020-12-14T23:30:34+0000
+/project/backend-ai-accelerator-rocm/, backend.ai-accelerator-rocm, 0.9.0, Backend.AI Accelerator Plugin for ROCm, 2019-12-31T08:16:38+0000
+/project/reverseip/, reverseip, 1.0.1, `reverseip` is a tool which can find possible domain names with the given ip(s)., 2014-09-11T11:45:28+0000
+/project/audtekapi/, audtekapi, 0.2.1, Unofficial API for Audioteka, 2020-05-24T15:13:27+0000
+/project/mopidy-tunein/, Mopidy-TuneIn, 1.1.0, Mopidy extension for playing music from TuneIn, 2021-01-12T00:43:10+0000
+/project/lighthouse/, lighthouse, 1.0.0, Service discovery tool focused on ease-of-use and resiliency, 2016-02-09T23:29:47+0000
+/project/chunk-nordic/, chunk-nordic, 0.4.1, Yet another TCP-over-HTTP(S) tunnel, 2020-08-09T22:23:04+0000
+/project/libcx/, libcx, 0.1.0, CX contact tracing, 2020-04-27T17:17:16+0000
+/project/mopidy-raspberry-gpio/, mopidy-raspberry-gpio, 1.0.2, Mopidy extension for GPIO input on a Raspberry Pi, 2020-07-15T11:05:07+0000
+/project/bitdust-p2p/, bitdust-p2p, 0.0.3, BitDust is new software framework to build distributed and secure peer-to-peer applications., 2020-09-15T19:26:40+0000
+/project/logworm/, logworm, 0.0.6, Streamlike handler for process output., 2013-02-18T22:43:10+0000
+/project/pyknock/, pyknock, 0.4.3, UDP port knocking suite with HMAC-PSK authentication, 2020-08-09T22:17:40+0000
+/project/statsdpy/, statsdpy, 0.0.12, Eventlet based statsd clone with pickle protocol support, 2015-07-10T17:36:30+0000
+/project/mannhunter/, mannhunter, 0.0.0-dev, A memory limiting tool for Supervisor, 2014-08-29T10:24:18+0000
+/project/swift-bench/, swift-bench, 1.2.0, Benchmark tool for OpenStack Swift, 2016-02-12T20:57:38+0000
+/project/scrapygraphite/, ScrapyGraphite, 0.2, Output scrapy statistics to carbon/graphite., 2013-03-09T20:07:09+0000
+/project/lpbs/, LPBS, 0.9.1, Local Portable Batch System, 2015-03-25T14:34:15+0000
+/project/mpd-sima/, MPD-sima, 0.16.1, Automagically add titles to MPD playlist, 2021-01-09T11:51:47+0000
+/project/mopidy-simple-webclient/, Mopidy-Simple-Webclient, 0.1.1, Very simple and mobile friendly web interface for the Mopidy music server, 2015-06-08T20:09:39+0000
+/project/mopidy-gpio420/, Mopidy-GPIO420, 0.1.0, Extension to control mopidy with gpio buttons and display things on 16x2 lcd, 2016-04-11T11:22:12+0000
+/project/dhcpkit-vpp/, dhcpkit-vpp, 1.0.1, DHCPKit extension to use it from VPP, 2017-06-21T12:44:17+0000
+/project/mopidy-yamaha/, Mopidy-Yamaha, 0.2.6, Mopidy extension for controlling volume on Yamaha receivers, 2017-12-08T23:38:32+0000
+/project/kinsumer/, kinsumer, 0.5.3, High level Amazon Kinesis Streams consumer, 2017-12-29T04:58:00+0000
+/project/tanto/, tanto, 1.1, Takes monitoring data from Nagios-plugins to push with NSCA (Nagios or Icinga) or WS-Shinken., 2014-05-29T20:36:57+0000
+/project/kepi/, kepi, 0.7, ActivityPub and Mastodon-alike social media, 2020-11-25T20:41:10+0000
+/project/evc-manager/, evc-manager, 1.3.6, A Python module to manipulate Ethernet Virtual Circuit in SDN environments, 2020-07-13T18:37:23+0000
+/project/mopidy-gmusic/, Mopidy-GMusic, 4.0.1, Mopidy extension for playing music from Google Play Music, 2020-12-06T23:23:45+0000
+/project/ws2s-python/, ws2s-python, 2.1.5, transform websocket to socket, bring socket to browser-side js, 2019-04-08T20:13:41+0000
+/project/archipel-agent-virtualmachine-storage/, archipel-agent-virtualmachine-storage, 0.6.0beta, Manage virtual machine storages, 2013-03-21T01:24:49+0000
+/project/mopidy-internetarchive/, Mopidy-InternetArchive, 3.0.0, Mopidy extension for playing music from the Internet Archive, 2019-12-26T17:23:51+0000
+/project/mopidy-subidy/, Mopidy-Subidy, 1.2.0, Subsonic extension for Mopidy, 2021-01-28T08:29:55+0000
+/project/discussion-thread/, discussion-thread, 1.0.1, Manages the daily discussion thread on /r/neoliberal, 2017-12-08T20:40:24+0000
+/project/m9s-trytond/, m9s-trytond, 5.2.25, Tryton server, 2021-03-21T17:08:34+0000
+/project/eureeka/, eureeka, 0.1, EUREEKA knowledge store, inference engine and scripts, 2010-08-19T14:23:13+0000
+/project/rosterserver/, RosterServer, 0.17, RosterServer is a XML/RPC Server for Roster., 2012-08-02T21:09:00+0000
+/project/copreus/, Copreus, 0.4.0, This library provides a framework to write device drivers for the raspberry pi that are connected to MQTT., 2019-12-27T23:38:47+0000
+/project/mopidy-tidaloauth/, Mopidy-TidalOAuth, 0.3.2, Tidal music service integration, 2020-11-23T20:05:53+0000
+/project/mopidy-playlist/, Mopidy-Playlist, 0.1.0, Mopidy extension for remote playlist expansion, 2020-11-14T21:53:08+0000
+/project/prodconpattern/, prodconpattern, 0.2.1, 通过装饰器方式实现生产者消费者模式。可以作用于函数、类的方法上，使其变为异步调用，同时，转变为逐次调用，批量执行。方便将零碎的调用转变为批量形势进行统一执行。, 2018-12-04T08:58:05+0000
+/project/kinesyslog/, kinesyslog, 2.0.1, Syslog and GELF relay to AWS Kinesis Firehose. Supports UDP, TCP, and TLS; RFC3164, RFC5424, RFC5425, RFC6587, GELF v1.1., 2019-05-14T20:31:00+0000
+/project/mopidy-bandcamp/, Mopidy-Bandcamp, 1.1.4, Backend for listening to bandcamp, 2021-04-21T10:51:49+0000
+/project/saffron-cli/, saffron-cli, 0.1.11, blockchain artifact development tools, 2017-09-20T04:57:06+0000
+/project/dtcrawlengine/, DtCrawlEngine, 1.2.6, 一个使用http api提供爬虫脚本服务的引擎, 2018-09-30T07:25:29+0000
+/project/devns/, devns, 0.5.0, Pure Python DNS server for developers, 2018-04-23T18:45:17+0000
+/project/django-triflesoft-statsd/, django-triflesoft-statsd, 0.4.1610232024, Django statsd middleware by TrifleSoft, 2016-10-23T20:24:28+0000
+/project/alcathous/, Alcathous, 0.4.0, This software subscribes to mqtt-topics that contain raw sensor data and publishes average values for configurable time spans., 2020-04-23T21:14:13+0000
+/project/fand/, fand, 0.1.0, Simple daemon to control fan speed, 2020-09-26T16:35:09+0000
+/project/splash/, splash, 3.5, A javascript rendered with a HTTP API, 2020-06-16T13:26:49+0000
+/project/scrapyes/, ScrapyEs, 0.23, An extension module to send data to elasticsearch in bulk format., 2013-10-18T13:43:19+0000
+/project/mopidy-pandora/, Mopidy-Pandora, 1.1.1, "Mopidy extension for Pandora", 2020-12-04T23:50:34+0000
+/project/mopidy-somafm/, Mopidy-SomaFM, 2.0.2, SomaFM extension for Mopidy, 2021-02-10T20:53:30+0000
+/project/mopidy-local-images/, Mopidy-Local-Images, 1.0.0, Mopidy local library proxy extension for handling embedded album art, 2015-09-05T16:22:36+0000
+/project/mopidy-mqtt-ng/, Mopidy-MQTT-NG, 1.0.0, Mopidy extension for remote control via MQTT broker, 2020-02-21T19:03:43+0000
+/project/scrapymongocache/, scrapymongocache, 0.1.0, A base pipeline and a decorator to allow you to cache item fields in MongoDB collections., 2013-08-26T14:18:47+0000
+/project/archipel-agent-virtualmachine-snapshoting/, archipel-agent-virtualmachine-snapshoting, 0.6.0beta, Manage snapshoting for virtual machines, 2013-03-21T01:25:33+0000
+/project/mpd-box/, mpd-box, 0.1.1, MPD-Box start a song in Music Player Daemon by simply scanning a NFC tag., 2015-11-24T17:34:40+0000
+/project/mopidy-orfradio/, Mopidy-ORFRadio, 2.0.3, Mopidy backend to access the Austrian ORF radio stations., 2021-01-30T17:06:29+0000
+/project/supervisor/, supervisor, 4.2.2, A system for controlling process state under UNIX, 2021-02-26T20:45:53+0000
+/project/nidhoggr-requests/, nidhoggr-requests, 0.6.0, Requests-based repository implementation for nidhoggr, 2021-02-07T01:22:22+0000
+/project/domcheck/, domcheck, 1.1.4, Domain Ownership Checker, 2015-08-26T22:57:28+0000
+/project/rainbarrel/, rainbarrel, 0.0.2, Rainbarrel receives webhook POSTs from a Rainbow Eagle smart meter monitoring unit.
+The data ireceived is provided to plugins or external programs for data logging and control., 2015-11-21T19:21:52+0000
+/project/copyparty/, copyparty, 0.10.15, http file sharing hub, 2021-04-24T02:09:24+0000
+/project/mopidy-auto/, Mopidy-Auto, 0.5.0, Mopidy extension to automate music playback based on time of day, 2018-05-19T13:41:56+0000
+/project/kaoz/, kaoz, 2.1.0, A simple IRC notifier bot., 2013-12-08T12:03:35+0000
+/project/postfix-mta-sts-resolver/, postfix-mta-sts-resolver, 1.0.0, Daemon which provides TLS client policy for Postfix via socketmap, according to domain MTA-STS policy, 2020-06-13T23:15:06+0000
+/project/sprockets-clients-dynamodb/, sprockets.clients.dynamodb, 0.3.2, DynamoDB connector, 2016-09-23T19:38:21+0000
+/project/vnpy-extra-tb/, vnpy-extra-tb, 0.1.20210311.0, 该项目主要用于在vnpy框架下扩展部分 Trade Blazer (TB) 的函数包，以方便部分TB程序的迁移使用。, 2021-03-10T23:39:36+0000
+/project/gdc-smoker/, gdc-smoker, 2.0.11, Smoke Testing Framework, 2016-02-15T20:15:30+0000
+/project/httproxy/, httproxy, 0.9.0, A tiny HTTP proxy implementation, 2012-10-26T10:41:07+0000
+/project/mailing-list-filter/, mailing-list-filter, 0.2, Mailing List Filter, 2009-06-06T22:47:25+0000
+/project/compoundpi/, compoundpi, 0.4, A project for controlling multiple Pi camera modules simultaneously, 2015-08-23T23:49:57+0000
+/project/ppp-spell-checker/, ppp_spell_checker, 0.2.3, A spell checker for the PPP. Use the Aspell API., 2015-02-13T12:11:37+0000
+/project/mopidy-beets/, Mopidy-Beets, 4.0.1, Beets extension for Mopidy, 2020-12-13T23:20:08+0000
+/project/seshat/, Seshat, 0.3.1, Sessioned chat system linking Ajax web interfaces with internal Jabber services, 2011-06-06T19:34:43+0000
+/project/mopidy-mopify/, Mopidy-Mopify, 1.7.3, A Mopidy Web client based on the (old) Spotify interface. Improved to work with spotify as main library., 2020-04-22T12:03:03+0000
+/project/dust/, Dust, 0.1a7, Blocking-resistant network protocol, 2010-06-01T21:17:43+0000
+/project/nazoru-input/, nazoru-input, 0.1.1, Package for Gboard Physical Handwriting Version, 2018-03-31T15:12:53+0000
+/project/mopidy-nad/, Mopidy-NAD, 3.0.1, Mopidy extension for controlling volume on a NAD amplifier, 2020-12-15T21:06:44+0000
+/project/frank-discord/, frank-discord, 0.1.0, A modular tool for building Discord bots, 2020-08-26T13:22:43+0000
+/project/sprockets-cli/, sprockets.cli, 0.1.0, Sprockets command line application runner, 2014-10-14T20:40:08+0000
+/project/rucio-clients-cms/, rucio-clients-cms, 0.0.5, Rucio Client Configuration for CMS, 2017-11-30T09:58:57+0000
+/project/aioax25/, aioax25, 0.0.9, Asynchronous AX.25 interface in pure Python using asyncio, 2021-01-23T05:24:53+0000
+/project/yahoo-panoptes/, yahoo-panoptes, 1.3.2, Network Telemetry And Monitoring, 2020-01-10T18:03:37+0000
+/project/swiftbunny/, swiftbunny, 1.1, CLI/daemon to help with log archiving to OpenStack Swift, 2021-02-05T12:05:05+0000
+/project/bson-rpc/, bson-rpc, 0.11.1, a lightweight, high performance, multilingual RPC library, 2017-11-29T09:14:54+0000
+/project/mopidy-mopify/, Mopidy-Mopify, 1.7.3, A Mopidy Web client based on the (old) Spotify interface. Improved to work with spotify as main library., 2020-04-22T12:03:03+0000
+/project/dust/, Dust, 0.1a7, Blocking-resistant network protocol, 2010-06-01T21:17:43+0000
+/project/nazoru-input/, nazoru-input, 0.1.1, Package for Gboard Physical Handwriting Version, 2018-03-31T15:12:53+0000
+/project/mopidy-nad/, Mopidy-NAD, 3.0.1, Mopidy extension for controlling volume on a NAD amplifier, 2020-12-15T21:06:44+0000
+/project/frank-discord/, frank-discord, 0.1.0, A modular tool for building Discord bots, 2020-08-26T13:22:43+0000
+/project/sprockets-cli/, sprockets.cli, 0.1.0, Sprockets command line application runner, 2014-10-14T20:40:08+0000
+/project/rucio-clients-cms/, rucio-clients-cms, 0.0.5, Rucio Client Configuration for CMS, 2017-11-30T09:58:57+0000
+/project/aioax25/, aioax25, 0.0.9, Asynchronous AX.25 interface in pure Python using asyncio, 2021-01-23T05:24:53+0000
+/project/yahoo-panoptes/, yahoo-panoptes, 1.3.2, Network Telemetry And Monitoring, 2020-01-10T18:03:37+0000
+/project/swiftbunny/, swiftbunny, 1.1, CLI/daemon to help with log archiving to OpenStack Swift, 2021-02-05T12:05:05+0000
+/project/bson-rpc/, bson-rpc, 0.11.1, a lightweight, high performance, multilingual RPC library, 2017-11-29T09:14:54+0000
+/project/ppp-oracle/, ppp_oracle, 0.1.3, A module that answers hardcoded questions., 2015-02-18T11:30:56+0000
+/project/sprockets-influxdb/, sprockets-influxdb, 2.2.1, Buffering InfluxDB client and mixin for Tornado applications, 2019-11-14T23:49:13+0000
+/project/backend-ai-client/, backend.ai-client, 21.3.0, Backend.AI Client for Python, 2021-03-29T02:03:06+0000
+/project/rucio-clients-eiscat3d/, rucio-clients-eiscat3d, 0.0.2, Rucio Client Configuration for XDC, 2018-06-01T09:24:18+0000
+/project/apistar-session-cookie/, apistar_session_cookie, 1.0.0, Cookie based Sessions for Apistar., 2017-12-17T00:18:19+0000
+/project/swift-automime/, swift-automime, 0.1, Openstack Swift auto content encoding middleware, 2016-07-06T10:06:30+0000
+/project/mopidy-playerfm/, Mopidy-PlayerFM, 0.1.0, Mopidy extension for PlayerFM, 2018-04-27T12:50:18+0000
+/project/scrapyappsearch/, ScrapyAppSearch, 0.1.0, Scrapy pipeline which allow you to store multiple scrapy items in AppSearch., 2020-11-20T16:51:29+0000
+/project/quant-vnpy/, quant-vnpy, 0.6.0, 基于VNPY进行功能增强, 2021-01-22T02:53:37+0000
+/project/mc4ep-valhalla/, mc4ep-valhalla, 0.3.2, Valhalla skin server implementation, 2021-02-28T00:35:10+0000
+/project/tipper/, tipper, 0.1, A utility for dumping stack traces of running Python processes, 2013-03-31T00:36:57+0000
+/project/aioservice/, aioservice, 0.0.4, Library to provide HTTP advanced service building, 2017-08-21T20:35:16+0000
+/project/source-over-ssh/, source-over-ssh, 0.3, source repository management server over ssh, 2011-06-26T19:48:34+0000
+/project/connmonitor/, connmonitor, 4.1.3, Uses the connvitals library to continuously poll and record network connectivity statistics., 2018-08-13T14:15:36+0000
+/project/encviewfuse/, encviewfuse, 0.3.0.post1, A fuse implementation of an encrypted view on a given directory., 2015-12-13T19:56:16+0000
+/project/resource-alerter/, resource_alerter, 1.0.0, monitors system resources and alerts users to high usage, 2016-05-31T23:15:57+0000
+/project/mopidy-audioaddict/, Mopidy-AudioAddict, 0.2.7, Mopidy extension for the AudioAddict network of radiostations, 2014-11-03T18:30:17+0000
+/project/ppp-questionparsing-grammatical/, ppp_questionparsing_grammatical, 0.6.5, Natural language processing module for the PPP., 2015-03-02T09:22:55+0000
+/project/backend-ai/, backend.ai, 21.3.0, Lablup Backend.AI Meta-package, 2021-03-29T01:57:06+0000
+/project/django-triflesoft-deferred/, django-triflesoft-deferred, 0.1.1509191803, Django deferred task execution by TrifleSoft, 2015-09-19T18:03:28+0000
+/project/udp-over-tls-pool/, udp-over-tls-pool, 0.1.1, Network wrapper which transports UDP packets over multiple TLS sessions, 2020-08-09T22:32:31+0000
+/project/dhcpkit-technicolor/, dhcpkit_technicolor, 0.9.2, Technicolor-specific extensions to DHCPKit, 2016-08-04T10:00:35+0000
+/project/taskforce/, taskforce, 0.6.0, Taskforce starts and restarts daemon processes.  It will detect executable and/or module changes and automatically restart the affected processes., 2020-08-13T19:13:49+0000
+/project/ll-xist/, ll-xist, 5.65, Extensible HTML/XML generator, cross-platform templating language, Oracle utilities and various other tools, 2021-01-13T11:06:10+0000
+/project/ppp-datamodel-notation-parser/, ppp_datamodel_notation_parser, 0.1.8, A module parsing a human-writable representation of a question tree., 2015-01-18T21:33:34+0000
+/project/milter/, milter, 0.8.18, Anti-forgery, reputation tracking, anti-spam milter, 2013-03-19T21:52:59+0000
+/project/zicbee-lib/, zicbee-lib, 0.7.3, Base client libraries for zicbee project, 2011-01-18T11:25:07+0000
+/project/flist/, flist, 0.602, File List Expansion, 2015-10-26T15:14:06+0000
+/project/python-libmilter/, python-libmilter, 1.0.3, A pure python implementation of libmilter, 2017-03-05T21:24:39+0000
+/project/chiron-bot-adehnert/, chiron-bot-adehnert, 0.9.1, Chat bot that can look up ticket numbers on bugtrackers and return their names, 2021-02-06T03:19:50+0000
+/project/django-triflesoft-certificate-auth/, django-triflesoft-certificate-auth, 0.1.1509191803, Django certificate authentication by TrifleSoft, 2015-09-19T18:02:57+0000
+/project/mopidy-pibox/, Mopidy-Pibox, 0.8.3, Mopidy extension for jukebox client, 2020-12-26T00:33:51+0000
+/project/spamfighter/, spamfighter, 0.2.0, Web-service fighting spam and other unsolicited messages, 2009-02-27T09:02:18+0000
+/project/scrapysolr/, scrapysolr, 0.2.0, Scrapy pipeline which allows you to store scrapy items in a Solr server., 2016-05-18T02:41:54+0000
+/project/slapdsock/, slapdsock, 1.1.0, Module package for back-sock listeners for OpenLDAP, 2021-04-19T17:24:20+0000
+/project/mopidy-muse/, Mopidy-Muse, 0.0.24, Mopidy interface with snapcast support, 2021-01-03T23:36:05+0000
+/project/parterre/, Parterre, 1.4.1, A set of variants for the Parlance Diplomacy Framework., 2009-08-30T01:55:02+0000
+/project/fmspy/, fmspy, 0.1.0, Flash Media Server in Python using Twisted Framework, 2009-05-30T15:16:35+0000
+/project/simplemonitor/, simplemonitor, 1.10.0, A simple network and host monitor, 2020-06-13T12:44:49+0000
+/project/proxy-py/, proxy.py, 2.3.1, ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception capable proxy server focused on Network monitoring, controls & Application development, testing, debugging., 2021-01-10T16:59:31+0000
+/project/archipel-agent-virtualmachine-oomkiller/, archipel-agent-virtualmachine-oomkiller, 0.6.0beta, Manage OOM Killer prevention, 2013-03-21T01:24:36+0000
+/project/autotweet/, autotweet, 0.5.3, learn your tweet and auto tweet it., 2017-11-09T04:21:33+0000
+/project/pluct/, pluct, 1.2.7, JSON Hyper Schema client, 2016-03-21T19:58:42+0000
+/project/django-triflesoft-organizations/, django-triflesoft-organizations, 0.3.1510011648, Django organizations models by TrifleSoft, 2015-10-01T16:48:44+0000
+/project/eve-auth-jwt/, eve-auth-jwt, 1.0.5, Eve JWT authentication, 2016-05-20T22:51:59+0000
+/project/geats/, geats, 0.9.1, Local Resource Manager for VMs and Containers, 2013-12-29T12:23:07+0000
+/project/portiaitempipelineutils/, PortiaItemPipelineUtils, 0.0.1, Scrapy portia pipeline which allow you to do items related stuff., 2019-07-03T20:59:57+0000
+/project/aws-acl-helper/, aws-acl-helper, 1.1.0, Squid external ACL helper that allows use of AWS instance metadata, 2019-05-22T20:17:13+0000
+/project/bagpipe-bgp/, bagpipe-bgp, 1.80.0, Lightweight implementation of BGP IP VPN and E-VPN, 2017-02-03T09:46:21+0000
+/project/backend-ai-aiotusclient/, backend.ai-aiotusclient, 0.1.4, tus.io-compatible upload client library for Python asyncio, 2021-03-02T05:12:14+0000
+/project/isconf/, isconf, 4.2.8.253, Infrastructure configuration management tool, 2015-02-25T04:38:18+0000
+/project/ppp-questionparsing-ml-standalone/, ppp_questionparsing_ml_standalone, 0.4, Compute triplets from a question, with an ML approach, 2014-12-09T10:26:04+0000
+/project/superlance/, superlance, 1.0.0, superlance plugins for supervisord, 2016-10-02T16:12:10+0000
+/project/kostal-plenticore-exporter/, kostal-plenticore-exporter, 0.3.0, A Prometheus exporter for the Kostal Plenticore series of inverters., 2021-02-24T20:15:28+0000
+/project/sendria/, sendria, 2.2.2, An SMTP server that makes all received mails accessible via a web interface and REST API., 2021-04-09T09:25:24+0000
+/project/tempo/, tempo, 0.12, Tempo Service, 2011-09-09T20:08:00+0000
+/project/libcgroup-bind/, libcgroup-bind, 1.0.7, Python binding for libcgroup, 2019-03-29T17:13:32+0000
+/project/python-afx/, python-afx, 0.1, AFX, 2008-05-09T07:09:51+0000
+/project/parang/, Parang, 1.4.1, A set of clients for the Parlance Diplomacy Framework., 2009-08-30T02:21:18+0000
+/project/pfxposter/, pfxposter, 0.1.6, A simple PixelFed to Mastodon/Twitter crossposter, 2020-08-24T12:24:23+0000
+/project/ecuth/, ecuth, 0.4.4, Public-key signature based authentication and authorization backend, 2020-12-22T23:24:20+0000
+/project/scrapymongodb/, ScrapyMongoDB, 0.4.3, Scrapy pipeline which allow you to store scrapy items in MongoDB database., 2017-03-01T20:44:47+0000
+/project/wsgitools/, wsgitools, 0.3.1, a set of tools working with WSGI (see PEP 333), 2020-03-10T15:04:50+0000
+/project/backend-ai-manager/, backend.ai-manager, 21.3.3, Backend.AI Manager, 2021-04-13T05:57:11+0000
+/project/sparkplug/, sparkplug, 1.22.0, An AMQP message consumer daemon, 2021-04-01T18:14:35+0000
+/project/mopidy-tidal/, Mopidy-Tidal, 0.2.5, Tidal music service integration, 2021-04-18T20:15:34+0000
+/project/ms-graph-exporter/, ms-graph-exporter, 0.1.0rc4, A distributed Celery application to export time-domain data periodically from Microsoft Graph API into a buffer key-value store., 2019-10-10T02:41:28+0000
+/project/mopidy-mpd/, Mopidy-MPD, 3.1.0, Mopidy extension for controlling Mopidy from MPD clients, 2020-12-05T02:00:08+0000
+/project/graphite-metrics/, graphite-metrics, 15.03.0, Standalone Graphite metric data collectors for various stuff thats not (or poorly) handled by other monitoring daemons, 2015-03-16T06:21:31+0000
+/project/ppp-nlp-ml-standalone/, ppp_nlp_ml_standalone, 0.1.2, Compute triplets from a question, with an ML approach, 2014-11-10T15:00:28+0000
+/project/iplib/, iplib, 1.2.1, convert amongst many different IPv4 notations, 2018-06-23T13:29:19+0000
+/project/authres/, authres, 1.2.0, authres - Authentication Results Header Module, 2019-08-03T19:38:00+0000
+/project/castberry/, castberry, 0.1, Cast youtube to a video player, 2020-06-30T16:06:32+0000
+/project/vpcrouter/, vpcrouter, 1.8.11, Automated route management, backup routes and route failover for Amazon VPC environments, 2018-02-22T04:15:44+0000
+/project/hddfancontrol/, hddfancontrol, 1.4.3, Control system fan speed by monitoring hard drive temperature, 2021-04-07T19:37:21+0000
+/project/http-tarpit/, http-tarpit, 0.1.2, Web-server which produces infinite chunked-encoded responses, 2020-08-09T23:46:57+0000
+/project/pluct/, pluct, 1.2.7, JSON Hyper Schema client, 2016-03-21T19:58:42+0000
+/project/django-triflesoft-organizations/, django-triflesoft-organizations, 0.3.1510011648, Django organizations models by TrifleSoft, 2015-10-01T16:48:44+0000
+/project/eve-auth-jwt/, eve-auth-jwt, 1.0.5, Eve JWT authentication, 2016-05-20T22:51:59+0000
+/project/geats/, geats, 0.9.1, Local Resource Manager for VMs and Containers, 2013-12-29T12:23:07+0000
+/project/mopidy-podcast-itunes/, Mopidy-Podcast-iTunes, 3.0.0, Mopidy extension for searching and browsing podcasts on the Apple iTunes Store, 2019-12-25T08:21:44+0000
+/project/buildbot/, buildbot, 3.1.0, The Continuous Integration Framework, 2021-04-05T13:06:11+0000
+/project/evc-manager/, evc-manager, 1.3.6, A Python module to manipulate Ethernet Virtual Circuit in SDN environments, 2020-07-13T18:37:23+0000
+/project/portiaitempipelineutils/, PortiaItemPipelineUtils, 0.0.1, Scrapy portia pipeline which allow you to do items related stuff., 2019-07-03T20:59:57+0000
+/project/mopidy-gmusic/, Mopidy-GMusic, 4.0.1, Mopidy extension for playing music from Google Play Music, 2020-12-06T23:23:45+0000
+/project/aws-acl-helper/, aws-acl-helper, 1.1.0, Squid external ACL helper that allows use of AWS instance metadata, 2019-05-22T20:17:13+0000
+/project/ws2s-python/, ws2s-python, 2.1.5, transform websocket to socket, bring socket to browser-side js, 2019-04-08T20:13:41+0000
+/project/archipel-agent-virtualmachine-storage/, archipel-agent-virtualmachine-storage, 0.6.0beta, Manage virtual machine storages, 2013-03-21T01:24:49+0000
+/project/mopidy-internetarchive/, Mopidy-InternetArchive, 3.0.0, Mopidy extension for playing music from the Internet Archive, 2019-12-26T17:23:51+0000
+/project/mopidy-subidy/, Mopidy-Subidy, 1.2.0, Subsonic extension for Mopidy, 2021-01-28T08:29:55+0000
+/project/discussion-thread/, discussion-thread, 1.0.1, Manages the daily discussion thread on /r/neoliberal, 2017-12-08T20:40:24+0000
+/project/m9s-trytond/, m9s-trytond, 5.2.25, Tryton server, 2021-03-21T17:08:34+0000
+/project/eureeka/, eureeka, 0.1, EUREEKA knowledge store, inference engine and scripts, 2010-08-19T14:23:13+0000
+/project/rosterserver/, RosterServer, 0.17, RosterServer is a XML/RPC Server for Roster., 2012-08-02T21:09:00+0000
+/project/copreus/, Copreus, 0.4.0, This library provides a framework to write device drivers for the raspberry pi that are connected to MQTT., 2019-12-27T23:38:47+0000
+/project/mopidy-tidaloauth/, Mopidy-TidalOAuth, 0.3.2, Tidal music service integration, 2020-11-23T20:05:53+0000
+/project/mopidy-playlist/, Mopidy-Playlist, 0.1.0, Mopidy extension for remote playlist expansion, 2020-11-14T21:53:08+0000
+/project/prodconpattern/, prodconpattern, 0.2.1, 通过装饰器方式实现生产者消费者模式。可以作用于函数、类的方法上，使其变为异步调用，同时，转变为逐次调用，批量执行。方便将零碎的调用转变为批量形势进行统一执行。, 2018-12-04T08:58:05+0000
+/project/kinesyslog/, kinesyslog, 2.0.1, Syslog and GELF relay to AWS Kinesis Firehose. Supports UDP, TCP, and TLS; RFC3164, RFC5424, RFC5425, RFC6587, GELF v1.1., 2019-05-14T20:31:00+0000
+/project/mopidy-bandcamp/, Mopidy-Bandcamp, 1.1.4, Backend for listening to bandcamp, 2021-04-21T10:51:49+0000
+/project/saffron-cli/, saffron-cli, 0.1.11, blockchain artifact development tools, 2017-09-20T04:57:06+0000
+/project/dtcrawlengine/, DtCrawlEngine, 1.2.6, 一个使用http api提供爬虫脚本服务的引擎, 2018-09-30T07:25:29+0000
+/project/devns/, devns, 0.5.0, Pure Python DNS server for developers, 2018-04-23T18:45:17+0000
+/project/django-triflesoft-statsd/, django-triflesoft-statsd, 0.4.1610232024, Django statsd middleware by TrifleSoft, 2016-10-23T20:24:28+0000
+/project/ibatstrader/, IBATSTrader, 0.1.3, IBATS（Integration Backtest Analysis Trade System）的Trader端公共模块，所有 Trader均集成这个模块，并使用其提供的一些公共工具, 2018-10-25T09:21:40+0000
+/project/bagpipe-bgp/, bagpipe-bgp, 1.80.0, Lightweight implementation of BGP IP VPN and E-VPN, 2017-02-03T09:46:21+0000
+/project/mopidy-local/, Mopidy-Local, 3.2.1, Mopidy extension for playing music from your local music archive, 2021-02-24T22:48:52+0000
+/project/supervisor-cache/, supervisor_cache, 1.1.0, supervisor_cache RPC extension for supervisor, 2014-10-22T01:23:59+0000
+/project/mopidy-websettings/, Mopidy-WebSettings, 0.2.3, Mopidy extension for editing settings in a webinterface, 2018-02-25T18:09:54+0000
+/project/pygossip/, pygossip, 0.7, Python GOSSiP distributed domain reputation service, 2015-08-31T01:04:33+0000
+/project/mopidy-dam1021/, Mopidy-dam1021, 0.4, Mopidy extension for controlling volume on a dam1021 DAC, 2015-08-19T00:24:04+0000
+/project/ctlimit/, ctlimit, 0.0.5, Computer Time Limit for Children, 2016-06-10T17:37:34+0000
+/project/plantstation/, PlantStation, 0.1.1rc0, A little daemon to keep plants watered with Raspberry Pi, 2020-03-03T20:30:39+0000
+/project/pyagentx3/, pyagentx3, 0.1.1, AgentX package to extend SNMP with pure Python3, 2021-03-01T15:23:36+0000
+/project/scrapydartx/, scrapydartx, 1.3.2, a extension from ScrapydArt, 2019-12-19T02:32:10+0000
+/project/openob/, OpenOB, 4.0.3, Broadcast audio over IP codec built with PyGST, 2019-01-28T21:16:40+0000
+/project/eurydike/, Eurydike, 0.1.8, Eurydike is a simple event detection. Reacts to above-threshold, below-thershold, and outside value-band., 2019-04-07T20:17:30+0000
+/project/rucio-arc/, rucio-arc, 0.0.6, rucio-arc is an extension for Rucio, e.g., ARC data delivery service, 2018-06-06T12:18:41+0000
+/project/vaping/, vaping, 1.3.0, vaping is a healthy alternative to smokeping!, 2020-09-23T10:24:49+0000
+/project/mopidy-subsonic/, Mopidy-Subsonic, 1.0.0, Subsonic extension for Mopidy, 2015-05-20T22:17:01+0000
+/project/zeitgitterd/, zeitgitterd, 1.0.5, Zeitgitter timestamping server, 2021-03-06T10:19:38+0000
+/project/tantamount/, Tantamount, 0.3.2, yeT Another fiNite sTate machine with event And tiMeOUt traNsiTions, 2019-05-09T20:26:40+0000
+/project/mailto/, mailto, 0.0.2, MailTo redirect handler for supported webmail servers for Windows/Linux/OS X, 2012-11-13T23:44:26+0000
+/project/sorna-agent/, sorna-agent, 0.9.14, Sorna agent, 2017-08-30T08:35:06+0000
+/project/django-triflesoft-freshdesk/, django-triflesoft-freshdesk, 0.2.1509281135, Django FreshDesk integration by TrifleSoft, 2015-09-28T11:35:31+0000
+/project/lfs-compropago/, lfs-compropago, 0.4.3, ComproPago payment processor for Django-LFS, 2016-02-09T07:41:11+0000
+/project/supervisor-win/, supervisor-win, 4.6.0, A system for controlling process state under WINDOWS, 2021-02-12T19:06:12+0000
+/project/ppp-libmodule/, ppp_libmodule, 0.7.7, Library for writing Python modules for the PPP., 2015-02-14T11:50:40+0000
+/project/kali/, kali, 0.0.8, Simple, reliable, single-threaded HTTP service in Python. Aimed at serving web application to localhost as alternative to desktop application development., 2020-12-17T00:28:58+0000
+/project/kinsumer/, kinsumer, 0.5.3, High level Amazon Kinesis Streams consumer, 2017-12-29T04:58:00+0000
+/project/tanto/, tanto, 1.1, Takes monitoring data from Nagios-plugins to push with NSCA (Nagios or Icinga) or WS-Shinken., 2014-05-29T20:36:57+0000
+/project/kepi/, kepi, 0.7, ActivityPub and Mastodon-alike social media, 2020-11-25T20:41:10+0000
+/project/lcinvestor/, lcinvestor, v2.2.5, A simple tool that will watch your LendingClub account and automatically invest cash as it becomes available., 2016-04-19T18:14:29+0000
+/project/mopidy-cd/, Mopidy-Cd, 0.5, Mopidy extension to play audio CDs, 2019-03-03T10:17:58+0000
+/project/django-triflesoft-localization/, django-triflesoft-localization, 0.7.1702191535, Django alternative localization by TrifleSoft, 2017-02-19T15:36:01+0000
+/project/snmposter/, snmposter, 1.0.4, SNMP Agent Simulator, 2016-01-19T20:00:01+0000
+/project/eth-accounts-index/, eth-accounts-index, 0.0.8, Accounts index evm contract tooling with permissioned writes, 2020-12-22T14:18:52+0000
+/project/ibats-bitmex-trader/, IBATS-BitMex-Trader, 0.2.4, 作为IBATS架构的 Trader 端，用于连接BitMex进行相应的交易及账户信息获取等动作, 2018-12-10T07:52:58+0000
+/project/supervisor/, supervisor, 4.2.2, A system for controlling process state under UNIX, 2021-02-26T20:45:53+0000
+/project/nidhoggr-requests/, nidhoggr-requests, 0.6.0, Requests-based repository implementation for nidhoggr, 2021-02-07T01:22:22+0000
+/project/domcheck/, domcheck, 1.1.4, Domain Ownership Checker, 2015-08-26T22:57:28+0000
+/project/rainbarrel/, rainbarrel, 0.0.2, Rainbarrel receives webhook POSTs from a Rainbow Eagle smart meter monitoring unit.
+The data ireceived is provided to plugins or external programs for data logging and control., 2015-11-21T19:21:52+0000
+/project/copyparty/, copyparty, 0.10.15, http file sharing hub, 2021-04-24T02:09:24+0000
+/project/mopidy-auto/, Mopidy-Auto, 0.5.0, Mopidy extension to automate music playback based on time of day, 2018-05-19T13:41:56+0000
+/project/leap-mx/, leap.mx, 0.9.1, An asynchronous, transparently-encrypting remailer for the LEAP platform, 2017-02-16T15:40:15+0000
+/project/eve-auth-jwt-fork/, eve-auth-jwt-fork, 1.2.2, Eve JWT authentication, rs/eve-auth-jwt's fork., 2019-02-20T15:15:03+0000
+/project/confini/, confini, 0.3.5, Parse, verify and merge all ini files in a single directory, 2020-12-22T14:36:11+0000
+/project/tornado-subprocess/, tornado_subprocess, 0.1.5-1, A module which allows you to spawn subprocesses from a tornado web application in a non-blocking fashion., 2012-10-25T08:09:43+0000
+/project/mopidy-touchscreen/, Mopidy-Touchscreen, 1.0.0, Mopidy extension to show info on a display and control from it, 2015-05-26T14:04:44+0000
+/project/mpy/, mpy, 0.1, MPI for Python., 2010-10-22T14:25:40+0000
+/project/twitched/, twitched, 1.0.0, A Python library for quickly writing Twitch chat applications and custom chat bots., 2015-12-31T09:43:10+0000
+/project/ibats-bitmex-feeder/, IBATS-BitMex-Feeder, 0.4.1, 连接BitMex交易所，获取实时行情、历史行情，保存到mysql数据库同时redis广播，供 ABAT 交易平台进行策略回测、分析，交易使用, 2018-11-15T06:38:31+0000
+/project/crossbar/, crossbar, 21.3.1, Crossbar.io multi-protocol (WAMP/WebSocket, REST/HTTP, MQTT) application router for microservices., 2021-03-02T16:01:41+0000
+/project/bup-cron/, bup_cron, 1.3, bup jobs wrapper, 2014-12-12T22:19:54+0000
+/project/api-hour/, api_hour, 0.8.2, Write efficient network daemons (HTTP, SSH...) with ease., 2017-11-10T14:39:52+0000
+/project/opstacle/, opstacle, 1.1.0, A dangerous and probably broken SMTP proxy that attempts to keep you sane, 2014-01-30T04:34:05+0000
+/project/bosun-foscam-plugins/, bosun-foscam-plugins, 0.1.0, Bosun plugins for the Foscam camera series to work with crowsnest.io, 2014-09-04T23:54:57+0000
+/project/mopidy-emby/, Mopidy-Emby, 0.2.6, Mopidy extension for playing music from Emby, 2017-05-29T08:09:09+0000
+/project/alcathous/, Alcathous, 0.4.0, This software subscribes to mqtt-topics that contain raw sensor data and publishes average values for configurable time spans., 2020-04-23T21:14:13+0000
+/project/fand/, fand, 0.1.0, Simple daemon to control fan speed, 2020-09-26T16:35:09+0000
+/project/splash/, splash, 3.5, A javascript rendered with a HTTP API, 2020-06-16T13:26:49+0000
+/project/scrapyes/, ScrapyEs, 0.23, An extension module to send data to elasticsearch in bulk format., 2013-10-18T13:43:19+0000
+/project/mopidy-pandora/, Mopidy-Pandora, 1.1.1, "Mopidy extension for Pandora", 2020-12-04T23:50:34+0000
+/project/mopidy-somafm/, Mopidy-SomaFM, 2.0.2, SomaFM extension for Mopidy, 2021-02-10T20:53:30+0000
+/project/mopidy-local-images/, Mopidy-Local-Images, 1.0.0, Mopidy local library proxy extension for handling embedded album art, 2015-09-05T16:22:36+0000
+/project/mopidy-mqtt-ng/, Mopidy-MQTT-NG, 1.0.0, Mopidy extension for remote control via MQTT broker, 2020-02-21T19:03:43+0000
+/project/scrapymongocache/, scrapymongocache, 0.1.0, A base pipeline and a decorator to allow you to cache item fields in MongoDB collections., 2013-08-26T14:18:47+0000
+/project/archipel-agent-virtualmachine-snapshoting/, archipel-agent-virtualmachine-snapshoting, 0.6.0beta, Manage snapshoting for virtual machines, 2013-03-21T01:25:33+0000
+/project/mpd-box/, mpd-box, 0.1.1, MPD-Box start a song in Music Player Daemon by simply scanning a NFC tag., 2015-11-24T17:34:40+0000
+/project/mopidy-orfradio/, Mopidy-ORFRadio, 2.0.3, Mopidy backend to access the Austrian ORF radio stations., 2021-01-30T17:06:29+0000

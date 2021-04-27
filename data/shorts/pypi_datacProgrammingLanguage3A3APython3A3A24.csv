@@ -1,0 +1,750 @@
+/project/iocapture/, iocapture, 0.1.2, Capture stdout, stderr easily., 2015-05-21T02:27:49+0000
+/project/django-dynamic-link/, django-dynamic-link, 0.5.7, A django file streaming application, 2016-07-22T21:59:02+0000
+/project/fluidity-sm/, fluidity-sm, 0.2.0, Fluidity: state machine implementation for Python objects, 2011-09-03T15:59:13+0000
+/project/grid-control/, grid-control, 1.9.86, The Swiss Army knife of job submission tools, 2017-08-03T13:55:17+0000
+/project/ak-gchartwrapper/, ak-gchartwrapper, 0.9.1, Python Google Chart Wrapper, 2016-02-23T04:07:39+0000
+/project/purepng/, purepng, 0.2.0, Pure Python PNG image encoder/decoder, 2016-09-30T12:17:37+0000
+/project/pyasn1-modules/, pyasn1-modules, 0.2.8, A collection of ASN.1-based protocols modules., 2020-01-09T17:23:45+0000
+/project/rdflib-sqlite/, rdflib-sqlite, 0.1, rdflib extension adding SQLite as back-end store, 2012-07-04T05:19:31+0000
+/project/tatterdemalion/, tatterdemalion, 0.1.0, A dummy distribution, 2014-02-08T20:58:23+0000
+/project/backport-importlib/, backport_importlib, 0...1, A script to backport the full importlib to 2.x, 2011-07-16T07:28:34+0000
+/project/suds-vingd/, suds-vingd, 0.4.3, Lightweight SOAP client (philpem's fork-and-merge), 2013-07-01T11:31:38+0000
+/project/vim-bridge/, vim-bridge, 0.6, A Python-to-Vim bridge decorator that allows transparent calls to Python functions in native Vim scripts., 2020-01-05T08:23:38+0000
+/project/church-encoding/, church_encoding, 0.1.1, Church encodings written in Python, 2014-04-26T07:40:30+0000
+/project/setuptools-subversion/, setuptools_subversion, 3.1, Setuptools revision control system plugin for Subversion, 2012-10-15T10:04:06+0000
+/project/django-datefilterspec/, django-datefilterspec, 1.3.0, Allow to filter by a custom date range on the Django Admin, 2017-05-15T19:40:25+0000
+/project/enum34/, enum34, 1.1.10, Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4, 2020-03-10T17:47:58+0000
+/project/pysnmp/, pysnmp, 4.4.12, SNMP library for Python, 2019-09-24T16:28:57+0000
+/project/rs-pyinotify/, rs-pyinotify, 0.9.9, Linux filesystem events monitoring, 2017-10-24T22:15:54+0000
+/project/greenstack/, greenstack, 0.6, Lightweight in-process concurrent programming, 2016-12-09T19:10:49+0000
+/project/amqpclt/, amqpclt, 0.6, Versatile AMQP client, 2016-09-27T10:02:57+0000
+/project/nodechalk/, nodechalk, 0.2.0, Terminal string styling for python, 2019-03-11T13:55:49+0000
+/project/eveapi/, eveapi, 1.2.6, Python library for accessing the EVE Online API., 2012-08-30T17:02:39+0000
+/project/templer-core/, templer.core, 1.0b4, Core functionality for the templer tool, 2012-05-18T05:33:19+0000
+/project/followit/, followit, 0.0.2, A Django application that allows users to follow django model objects, 2011-07-16T19:48:50+0000
+/project/go-proxy-client/, go-proxy-client, 0.2, Handler for urllib2 to use a go-proxy instance as proxy server, 2014-01-12T19:42:32+0000
+/project/fapws3/, fapws3, 0.11.dev, Fast Asynchronous Python Web Server, 2012-04-14T10:35:24+0000
+/project/egenix-mxodbc/, egenix-mxodbc, 3.3.6, eGenix mxODBC - Python ODBC Database Interface, 2016-11-16T16:42:59+0000
+/project/python-pandora/, python-pandora, 0.10, Library to access pandora.com. Based on the work from http://forum.xbmc.org/showthread.php?t=70471 and from Pithos, 2013-07-04T12:26:30+0000
+/project/tui/, tui, 1.1.1, Quickly add a competent textual user interface to your python program., 2011-02-24T14:03:06+0000
+/project/skynet/, skynet, 1.1, import skynet, if you dare, 2016-02-29T11:43:28+0000
+/project/soundify/, soundify, 0.4, soundify exitcodes, 2020-11-15T08:16:16+0000
+/project/blinker/, blinker, 1.4, Fast, simple object-to-object and broadcast signaling, 2015-07-23T12:26:36+0000
+/project/collective-recipe-ropeproject/, collective.recipe.ropeproject, 1.0b3, zc.buildout recipe that creates a rope project config with python_path pointing to some eggs and their dependencies, 2012-07-02T20:14:09+0000
+/project/git-goggles/, git-goggles, 0.2.12, A series of GIT utilities to streamline working with remote branches and reviewing code. You can think of git-goggles as 'git branch -a' on steroids. Just install and run 'git goggles', 2011-11-23T16:54:35+0000
+/project/pynoti/, pynoti, 1.3, easy to use python wrapper for notify-send program., 2017-01-03T06:17:41+0000
+/project/collective-jsonify/, collective.jsonify, 1.5, JSON representation for content in Plone from 2.0 and above, 2020-08-21T11:31:55+0000
+/project/pytz/, pytz, 2021.1, World timezone definitions, modern and historical, 2021-02-01T08:07:15+0000
+/project/products-anonymouscommenting/, Products.AnonymousCommenting, 1.0, Implements anonymous commenting within a Plone site, 2009-01-12T17:23:46+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/funmongo/, funmongo, 0.1.3, A safe and easy to use MongoDB ORM for python, 2016-09-18T01:28:10+0000
+/project/platinfo/, platinfo, 0.15.0, platinfo: A small library from getting information on the current platform, 2010-04-29T18:36:42+0000
+/project/softwarefabrica-django-drilldown/, softwarefabrica.django.drilldown, 0.9dev-BZR-r8-panta-elasticworld.org-20091111104900-tj54rjt5f0biy1hc, Drill-down navigation for django projects, 2009-11-18T09:59:50+0000
+/project/cronex/, cronex, 0.1.3.1, This module provides an easy to use interface for cron-like task scheduling., 2018-11-04T23:45:43+0000
+/project/utilkit/, utilkit, 0.4.1, Collection of useful helper functions for datetime, print, string formatting, directory and file handling, and more, 2018-03-02T10:36:23+0000
+/project/pytextseg/, pytextseg, 0.2.0, Python module for text segmentation., 2012-03-31T04:47:10+0000
+/project/django-daterange-filter/, django-daterange-filter, 1.3.0, Allow to filter by a custom date range on the Django Admin, 2016-05-04T01:01:34+0000
+/project/simx/, simx, 0.3.1, Parallel simulation library for Python, 2014-12-29T08:07:33+0000
+/project/templer-buildout/, templer.buildout, 1.0b1, Templer system extensions for buildouts and buildout recipes, 2012-05-18T05:56:42+0000
+/project/collective-depositbox/, collective.depositbox, 1.3, Put stuff in a box, get it out again with the secret, 2015-09-01T16:33:05+0000
+/project/scio/, Scio, 0.12.0, Scio is a humane SOAP client, 2012-04-10T18:54:12+0000
+/project/ordereddict/, ordereddict, 1.1, A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6., 2010-01-14T16:02:39+0000
+/project/nightmare-pdf/, nightmare_pdf, 0.1.0, Convert HTML to pdf with django using nightmarejs, 2017-01-17T08:26:22+0000
+/project/rpclib/, rpclib, 2.8.0-rc, A transport and architecture agnostic rpc (de)serialization library that focuses on making small, rpc-oriented messaging work., 2012-08-29T10:42:35+0000
+/project/backports-ssl-match-hostname/, backports.ssl_match_hostname, 3.7.0.1, The ssl.match_hostname() function from Python 3.5, 2019-01-12T22:25:58+0000
+/project/komodo-pydbgp/, komodo-pydbgp, 10.2.2.89895, , 2017-06-24T05:12:15+0000
+/project/turbogears/, TurboGears, 1.5.1, Front-to-back, open-source, rapid web development framework, 2011-11-26T23:18:40+0000
+/project/python-meli/, python-meli, 1.0, Mercado Libre API wrapper, 2013-02-05T03:46:58+0000
+/project/rawr/, rawr, 0.1.1, Growl Network Interface, 2011-10-12T15:41:19+0000
+/project/suds-mwisslead/, suds-mwisslead, 0.7.dev3, Lightweight SOAP client (MWisslead's fork), 2020-01-11T06:37:13+0000
+/project/permission-backend-nonrel/, permission-backend-nonrel, 0.2, Django-nonrel authentication backend to support permissions and groups, 2013-12-31T19:17:06+0000
+/project/tinybuddhawisdom/, tinybuddhawisdom, 1.0.0, Tinybuddha Wisdom is a tiny console fortune-like wisdom teller., 2014-06-26T09:34:56+0000
+/project/bbfreeze-loader/, bbfreeze-loader, 1.1.0, provide binary loaders for bbfreeze, 2013-04-09T23:49:48+0000
+/project/treeprinter/, treeprinter, 0.0.2, Python library for easy tree displaying, 2016-11-13T22:54:24+0000
+/project/spritify/, spritify, 0.4.2, The spritify is a tool for transform directory of images in the stylesheet and image file., 2015-03-31T03:39:12+0000
+/project/pypyodbc/, pypyodbc, 1.3.5, PyPyODBC - A Pure Python ODBC module by ctypes, 2017-01-30T12:06:52+0000
+/project/netstat-cl/, netstat-cl, 0.1.3, Ubuntu Indicator to display net usage and speed on Unity taskbar., 2016-07-07T17:55:45+0000
+/project/everyapp-bootstrap/, everyapp.bootstrap, 0.2.2, Enhanced virtualenv bootstrap script creation., 2012-02-22T23:55:20+0000
+/project/cpypp/, cpypp, 1.1.0, c-style preprocessor for Python, 2020-01-07T01:28:23+0000
+/project/templer-localcommands/, templer.localcommands, 1.0b2, Templer system framework for local commands, 2012-05-20T22:45:06+0000
+/project/nextf1race/, nextf1race, 0.1.4, A command tool to show where and when the next Formula 1 race is., 2017-01-08T17:07:45+0000
+/project/jquery-pyproxy/, jquery.pyproxy, 0.5, A simple python egg and jquery plugin to easily use JQuery in Django/Plone/.. websites., 2013-09-24T11:04:24+0000
+/project/leveldb-wx/, leveldb-wx, 0.20.1, harden code max_file_size=512M, base on py-leveldb 0.20 , 2017-01-05T06:40:36+0000
+/project/pybingwallpaper/, PyBingWallpaper, 1.5.6, A simple Bing.com wallpaper downloader, 2019-05-01T04:49:32+0000
+/project/bcryptor/, Bcryptor, 1.2.2, Python wrapper for bcrypt, 2010-02-26T12:52:12+0000
+/project/collective-mollie/, collective.mollie, 0.3, Wrapper for the Mollie iDeal API, 2012-10-31T16:31:04+0000
+/project/django-urlalternatives/, django-urlalternatives, 0.1.0, Django URL alternatives provides a way for dispatching one URL pattern to the first alternative view (callback function) in a list that returns success., 2011-07-07T21:22:35+0000
+/project/progressbar231/, progressbar231, 2.3.1, Text progress bar library for Python., 2015-01-01T07:01:17+0000
+/project/python-amazon-product-api/, python-amazon-product-api, 0.2.8, A Python wrapper for the Amazon Product Advertising API., 2014-03-30T20:15:05+0000
+/project/spark-parser/, spark-parser, 1.8.9, An Earley-Algorithm Context-free grammar Parser Toolkit, 2019-07-29T01:07:10+0000
+/project/tenjin/, Tenjin, 1.1.1, a fast and full-featured template engine based on embedded Python, 2012-05-17T22:39:59+0000
+/project/tagtools/, tagtools, 0.8d, Python helpers to work with tags., 2010-08-22T19:32:12+0000
+/project/egenix-web-installer-test/, egenix-web-installer-test, 0.2.0, eGenix Web Installer Test Package, 2014-07-02T15:33:45+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/snmpsim/, snmpsim, 0.4.7, SNMP Agents simulator, 2019-02-09T16:21:53+0000
+/project/xlsx2csv/, xlsx2csv, 0.7.8, xlsx to csv converter, 2021-04-19T18:05:16+0000
+/project/rmate/, rmate, 1.0.3, Edit files over SSH., 2016-11-03T23:59:00+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/redturtle-sqlcontents/, redturtle.sqlcontents, 0.9.1, RedTurtle - SQL Contents, 2013-07-29T10:10:19+0000
+/project/wincertstore/, wincertstore, 0.2, Python module to extract CA and CRL certs from Windows' cert store (ctypes based)., 2014-02-26T11:42:04+0000
+/project/nilo-webgallery/, nilo.webgallery, 0.2.5, A simple http server serving a web gallery out of a directory structure., 2009-04-07T17:33:31+0000
+/project/pynsca/, pynsca, 1.6, Simple Python interface to Nagios Service Check Architecture, 2017-12-22T01:29:26+0000
+/project/discover/, discover, 0.4.0, Test discovery for unittest. Backported from Python 2.7 for Python 2.4+, 2010-06-11T14:11:26+0000
+/project/alt-src/, alt-src, 1.6.0, Tool for uploading custom patches to centos source rpm repositories, 2021-01-20T09:36:28+0000
+/project/tc/, tc, 0.7.2, Python bindings to the Tokyo Cabinet database library, 2009-03-02T01:29:06+0000
+/project/horseshit/, horseshit, 0.0.5, Small script to configure your hosts file so you don't get distracted during the day, 2015-03-12T03:06:06+0000
+/project/bottlenose/, bottlenose, 1.1.8, A Python hook into the Amazon.com Product Advertising API, 2018-02-21T17:38:34+0000
+/project/pyamf/, PyAMF, 0.8.0, AMF support for Python, 2015-12-17T07:09:26+0000
+/project/virtualenvwrapper-win/, virtualenvwrapper-win, 1.2.6, Port of Doug Hellmann's virtualenvwrapper to Windows batch scripts, 2020-02-16T21:07:25+0000
+/project/pysnmp-apps/, pysnmp-apps, 0.5.3, SNMP command-line tools, 2018-01-07T09:17:47+0000
+/project/nose-skipreq/, nose-skipreq, 2.0, nose plugin that will skip Google API RequestError exceptions., 2011-07-20T15:04:39+0000
+/project/paver-templates/, paver-templates, 0.1.0b3, Paver-enable template, 2009-08-04T20:29:58+0000
+/project/madeiracloud/, MadeiraCloud, 1.0.0, MadeiraCloud Agent, 2011-12-16T10:07:55+0000
+/project/sqlalchemy-pygresql/, sqlalchemy_pygresql, 1.0.1, PyGreSQL dialect for SQLAlchemy, 2016-01-14T18:16:55+0000
+/project/pooledprocessmixin/, PooledProcessMixIn, 0.0.2, A Pool of processes and threads Mix-in for socketserver., 2012-08-10T20:23:40+0000
+/project/python-signalfd/, python-signalfd, 0.1, Python bindings for sigprocmask(2) and signalfd(2), 2010-06-21T22:17:39+0000
+/project/collective-multimodeview/, collective.multimodeview, 0.3, Simple package to manage views with multiple modes., 2015-08-26T23:01:49+0000
+/project/allpairs/, AllPairs, 2.0.1, Pairwise test combinations generator, 2009-04-05T04:32:46+0000
+/project/subprocess32-ext/, subprocess32-ext, 3.2.8.2, A backport of the subprocess module from Python 3.2/3.3 for use on 2.x., 2017-05-09T14:52:23+0000
+/project/pybctc/, pybctc, 0.1.2, Pythonic access to the British Columbia[, Canada,] Transmission Corporation (BCTC) public electric data., 2010-03-03T16:25:55+0000
+/project/cli-weather/, cli-weather, 0.1.5, Lightweight command line app to get fast weather data right on the command line, 2020-08-03T17:09:10+0000
+/project/darcsver/, darcsver, 1.7.4, generate a version number from darcs history, 2012-01-11T06:39:58+0000
+/project/html2text-no-md-escapes/, html2text-no-md-escapes, 2020.8.9, Turn HTML into equivalent Markdown-structured text., 2020-08-08T05:51:06+0000
+/project/templer-plone-localcommands/, templer.plone.localcommands, 1.0b1, local commands for plone templates in the templer system, 2012-05-20T23:36:35+0000
+/project/wcurve/, wcurve, 0.1.9, wcurve implements basic arithmetic operations on elliptic curves in short Weiertsrass form., 2011-02-14T12:23:23+0000
+/project/chainlet/, chainlet, 1.3.1, Framework for linking generators/iterators to processing chains, trees and graphs, 2018-02-05T14:29:46+0000
+/project/speedtest-cli/, speedtest-cli, 2.1.3, Command line interface for testing internet bandwidth using speedtest.net, 2021-04-08T13:51:32+0000
+/project/pssh/, pssh, 2.3.1, Parallel version of OpenSSH and related tools, 2012-02-02T16:19:19+0000
+/project/python-geoio/, python-geoio, 0.1.1, Python bindings for the geo.io API., 2014-03-26T19:16:10+0000
+/project/cherrybase/, cherrybase, 0.6.1, Wrapper around CherryPy, 2018-03-29T07:44:24+0000
+/project/freshwall/, freshwall, 1.1.2, GNOME 2 wallpaper changer, 2009-04-06T17:19:35+0000
+/project/eol/, eol, 0.7.5, a command-line script and Python module for working with text file end-of-line (EOL) characters, 2010-10-24T05:12:01+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/pyficache/, pyficache, 2.2.1, Cache lines and file information which are generally Python programs, 2020-08-30T17:57:11+0000
+/project/templer-plone/, templer.plone, 1.0b4, Templer system extensions for plone add-on development, 2013-02-10T13:59:04+0000
+/project/pycompatlayer/, PyCompatLayer, 0.0.10, Compatibility layer for Python, 2016-10-01T23:25:41+0000
+/project/wfront/, WFront, 0.4, A WSGI front-door dispatcher., 2008-12-29T00:47:07+0000
+/project/proofcheck/, proofcheck, 1.0, Checks mathematical proofs written in TeX, 2012-03-07T20:28:27+0000
+/project/collective-recipe-mxzopeda/, collective.recipe.mxzopeda, 0.1, A buildout recipe to install eGenix mxODBC.ZopeDA and a licence, 2009-02-09T14:08:13+0000
+/project/picotest/, PicoTest, 0.2.0, a small but very useful testing library for Python, 2011-11-18T13:45:22+0000
+/project/siqueries/, siqueries, 1.0.8, Setup wizard and connection client for connecting MySQL/PostgreSQL databases to siqueries.com, 2013-10-03T08:56:53+0000
+/project/minivect/, minivect, 0.1, Compiler backend for array expressions, 2012-10-13T18:50:26+0000
+/project/pygalib/, pygalib, 0.1.0, A simple and easy-to-use genetic algorithm library, 2015-10-25T03:54:37+0000
+/project/subtypes/, subtypes, 0.1.19, types with new or removed constraints/properties, 2011-01-30T10:40:59+0000
+/project/django-factory-generator/, django-factory-generator, 1.0.4, Generate Model Factory (factory_boy) for each model of your Django app, 2020-02-18T14:55:41+0000
+/project/zbase62/, zbase62, 1.2.0, encode data into base-62 encoding, 2010-11-10T17:31:11+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/bigsuds/, bigsuds, 1.0.6, Library for F5 Networks iControl API, 2017-11-13T20:06:31+0000
+/project/django-pdf-generator/, django_pdf_generator, 0.1.3, Generate PDF from HTML with django, 2017-01-19T09:43:24+0000
+/project/sudz/, sudz, 1.0.3, Lightweight SOAP client, 2018-03-21T16:19:35+0000
+/project/zopehealthwatcher/, ZopeHealthWatcher, 0.9.0, ZopeHealthWatcher allows you to monitor and debug the threads of a Zope application., 2016-01-03T12:33:20+0000
+/project/reqlint/, reqlint, 0.2.1, Utility to ensure all requirements are pinned., 2016-10-24T18:15:09+0000
+/project/setuptools-darcs/, setuptools_darcs, 1.2.11, setuptools plugin for darcs, 2010-05-31T03:46:32+0000
+/project/python-hglib/, python-hglib, 2.6.2, Mercurial Python library, 2020-11-17T18:36:17+0000
+/project/extract-values/, extract-values, 1.0, A Python module for extracting values out of a string using a simple pattern instead of a regular expression., 2012-10-10T16:08:12+0000
+/project/py-daemon/, py_daemon, 0.1.2, Python daemonizer for Unix, Linux and OS X, 2016-09-24T20:47:37+0000
+/project/tracmacostheme/, TracMacOSTheme, 1.0.3, Trac theme to make it look like Mac OS, 2010-12-20T20:25:28+0000
+/project/pmi/, pmi, 1.0, Parallel Method Invocation, 2009-12-22T12:41:33+0000
+/project/pyramid-recipe-modwsgi/, pyramid-recipe-modwsgi, 0.1, zc.buildout recipe to create apache modwsgi file., 2012-10-05T17:35:01+0000
+/project/collective-rolereport/, collective.rolereport, 1.1, Creates a report on what users have which roles, 2014-06-19T16:48:55+0000
+/project/ctrlk/, ctrlk, 0.1.4, C++ source code indexer, 2014-12-14T03:09:11+0000
+/project/pywin/, pywin, 0.3.1, Lightweight python 2.5-3.3 launcher and switcher for Windows command line and MSYS/MINGW32. Partly PEP 397 compliant., 2013-03-31T00:31:31+0000
+/project/progressbar-ipython/, progressbar-ipython, 2.3.1, Note: This is a just a packaged version of https://github.com/fnoble/python-progressbar., 2014-04-24T09:32:05+0000
+/project/aoikpymopa/, AoikPyMoPa, 0.1.0, Find a Python module's file paths. Have considered Implicit Namespace Packages introduced in PEP 420. Handy for debugging tricky importing problems., 2014-10-13T05:41:53+0000
+/project/filepath/, filepath, 0.1, Object-oriented filesystem path representation., 2010-06-24T01:31:45+0000
+/project/cov-core/, cov-core, 1.15.0, plugin core for use by pytest-cov, nose-cov and nose2-cov, 2014-11-22T11:05:15+0000
+/project/aspyct/, Aspyct, 3-0_beta_2, Python aspect oriented programming (AOP) tools, 2009-02-24T18:01:18+0000
+/project/testlib/, testlib, 0.6.5, a micro test suite harness, 2010-07-12T16:46:55+0000
+/project/amfast/, AmFast, 0.5.3-r541, Flash remoting framework. Includes support for NetConnection, RemoteObject, IExternizeable, Flex Producer/Consumer messaging, custom type serialization, and a C-based AMF encoder/decoder., 2011-12-10T23:26:12+0000
+/project/dm-zope-rpc-protocol-wsdl-suds/, dm.zope.rpc_protocol.wsdl_suds, 0.1a2, WSDL described SOAP protocol support for "dm.zope.rpc", based on "suds", 2010-09-11T15:51:58+0000
+/project/thola-snmpsim-data/, thola-snmpsim-data, 0.0.3, SNMP simulation data, 2020-12-30T23:18:54+0000
+/project/blinker-alt/, blinker-alt, 1.5, Fast, simple object-to-object and broadcast signaling, 2017-10-15T15:04:50+0000
+/project/mitogen/, mitogen, 0.2.9, Library for writing distributed self-replicating programs., 2019-11-02T18:00:39+0000
+/project/voicecom/, VoiceCom, 0.0.2rc2, An open source Voice-User-Interface (VUI), 2015-06-01T22:48:08+0000
+/project/themetweaker-themeswitcher/, themetweaker.themeswitcher, 1.0, A product for switching themes in Plone., 2010-09-27T18:54:57+0000
+/project/trialcoverage/, trialcoverage, 0.3.12, a plugin to integrate Twisted trial with Ned Batchelder's coverage.py, 2010-06-09T02:41:39+0000
+/project/deprecator/, deprecator, 0.3, Deprecator provides a decorator to easily depreate old code., 2015-06-03T17:36:13+0000
+/project/isit/, isit, 0.3.6, Environment runtime detection (Python,Linux,Distribution,etc...), 2020-12-02T15:28:51+0000
+/project/django-session-idle-timeout/, django-session-idle-timeout, 1.4.2, Timeout a logged user after a period of time, 2014-07-16T00:53:23+0000
+/project/markerlib/, markerlib, 0.6.0, A compiler for PEP 345 environment markers., 2013-05-07T03:44:10+0000
+/project/neopyswitch/, NeoPySwitch, 0.2.1, Python switch implementation, 2017-04-21T08:01:04+0000
+/project/pysmi/, pysmi, 0.3.4, SNMP SMI/MIB Parser, 2019-04-14T10:05:51+0000
+/project/setuptools-hg/, setuptools_hg, 0.4, Setuptools/distribute plugin for finding files under Mercurial version control., 2012-02-02T14:45:44+0000
+/project/pyst/, pyst, 0.8, A Python Interface to Asterisk, 2020-12-04T10:42:35+0000
+/project/tomahawk/, tomahawk, 0.7.4.1, A simple ssh wrapper to execute commands for many hosts., 2016-08-21T14:49:14+0000
+/project/dm-zope-rpc-wsdl-suds/, dm.zope.rpc.wsdl_suds, 0.2a1, WSDL described SOAP protocol support for "dm.zope.rpc", based on "suds", 2010-09-12T07:53:20+0000
+/project/dm-zope-rpc/, dm.zope.rpc, 1.0.1, Remote Procedure Call server support for Zope[2], 2013-03-20T08:26:36+0000
+/project/playsound/, playsound, 1.2.2, Pure Python, cross platform, single function module with no dependencies for playing sounds., 2017-06-29T14:08:29+0000
+/project/anyjson/, anyjson, 0.3.3, Wraps the best available JSON implementation available in a common interface, 2012-06-21T23:12:10+0000
+/project/collective-croppingimagefield/, collective.croppingimagefield, 0.1beta, Provides an image field that can crop, zoom or scale an image instead of just scaling it, 2009-07-21T01:06:40+0000
+/project/hprose/, hprose, 1.4.3, Hprose is a High Performance Remote Object Service Engine., 2015-03-23T05:58:35+0000
+/project/monkeysign/, monkeysign, 2.2.4, OpenPGP key exchange for humans, 2018-06-18T17:27:52+0000
+/project/pyamf2/, PyAMF2, 0.6.1.5, AMF support for Python, 2014-09-13T21:20:28+0000
+/project/gignore/, gignore, 2014.10.28, Get .gitignore files from github.com/github/gitignore, 2014-10-28T14:04:47+0000
+/project/pgpxmlrpc/, pgpxmlrpc, 1.2.3, PGP-encrypted transport for XML-RPC protocol, 2017-06-25T08:00:52+0000
+/project/products-ploneglossary/, Products.PloneGlossary, 1.7.3, Highlight Plone content terms, mouseover shows the term definition as tooltip., 2017-04-11T15:54:03+0000
+/project/macfsevents/, MacFSEvents, 0.8.1, Thread-based interface to file system observation primitives., 2018-02-21T11:40:45+0000
+/project/clips6/, clips6, 0.1, CLIPS Expert System wrapper for the Python, 2017-03-05T00:21:50+0000
+/project/simplegeneric/, simplegeneric, 0.8.1, Simple generic functions (similar to Python's own len(), pickle.dump(), etc.), 2012-04-01T21:39:04+0000
+/project/capitalism/, Capitalism, 0.2.50, A module for dispatching jobs, 2019-07-24T06:27:48+0000
+/project/amqplib/, amqplib, 1.0.2, AMQP Client Library, 2011-09-29T18:22:02+0000
+/project/ujson1/, ujson1, 1.36, Ultra fast JSON encoder and decoder for Python, 2020-08-13T15:27:08+0000
+/project/cisco-ssapi/, cisco_ssapi, 1.0dev, Python API and CLI access to Cisco's SSAPI, 2011-02-11T19:38:47+0000
+/project/haufe-requestmonitoring/, haufe.requestmonitoring, 0.5.1, Zope 2 request monitoring, 2018-04-03T08:25:45+0000
+/project/easycolor/, easycolor, 0.1, Terminal colors made easy!, 2016-12-28T01:23:27+0000
+/project/pinax/, Pinax, 0.9a2, Pinax is an open-source collection of re-usable apps for the Django Web Framework, 2011-11-29T20:11:27+0000
+/project/pyasn1/, pyasn1, 0.4.8, ASN.1 types and codecs, 2019-11-16T17:27:11+0000
+/project/hidraw/, hidraw, 0.1, hidraw Linux module, 2010-02-21T18:27:53+0000
+/project/timer2/, timer2, 0.1.0, timer2 - Scheduler for Python functions., 2010-08-05T20:20:14+0000
+/project/openobject-library/, openobject-library, 2.0.3, Web Services library OpenObject Framework, 2013-03-01T10:01:59+0000
+/project/compose/, compose, 1.1.1, The classic ``compose``, with all the Pythonic features., 2020-04-21T05:23:08+0000
+/project/jsl10n/, jsl10n, 1.1, , 2010-02-10T21:44:54+0000
+/project/crc16/, crc16, 0.1.1, Library for calculating CRC16, 2011-06-04T20:55:49+0000
+/project/pydhe/, pyDHE, 1.0.0, a fully python Diffie Hellman implementation, 2017-09-18T00:06:53+0000
+/project/ovirt-shell/, ovirt-shell, 3.6.9.2, A command-line interface to oVirt Virtualization, 2016-10-13T15:10:11+0000
+/project/kook/, Kook, 0.7.2, task automation tool for Python, similar to Make, Rake, Ant, or Cook, 2012-07-13T01:27:26+0000
+/project/pyaeso/, pyaeso, 0.7, Pythonic access to the Alberta (Canada) Electric System Operator (AESO) Energy Trading System (ETS)., 2011-12-28T08:23:56+0000
+/project/virtualenvwrapper-tmpenv/, virtualenvwrapper.tmpenv, 1.0, Temporary virtualenvs are automatically deleted when deactivated, 2011-04-16T20:52:51+0000
+/project/cobs/, cobs, 1.1.4, Consistent Overhead Byte Stuffing (COBS), 2020-05-20T01:53:12+0000
+/project/zest-commentcleanup/, zest.commentcleanup, 1.6, Quickly remove lots of spam comments from your Plone Site, 2013-05-13T12:56:11+0000
+/project/nose2-cov/, nose2-cov, 1.0a4, nose2 plugin for coverage reporting, including subprocesses and multiprocessing, 2012-05-12T01:57:08+0000
+/project/dirq/, dirq, 1.7.1, Directory based queue, 2016-02-29T08:55:17+0000
+/project/logging-tree/, logging_tree, 1.9, Introspect and display the logger tree inside "logging", 2021-04-10T10:08:26+0000
+/project/snmpfwd/, snmpfwd, 0.4.4, SNMP Proxy Forwarder can act as an application-level firewall, 2018-12-30T17:22:56+0000
+/project/dj-wkhtmltopdf/, dj-wkhtmltopdf, 1.0.2, Converting Html to Pdf using wkhtmltopdf., 2015-05-18T11:38:34+0000
+/project/sanitize/, sanitize, 2014.10.7, Bringing sanitiy to world of messed-up data, 2014-10-07T18:55:30+0000
+/project/ujson-bedframe/, ujson-bedframe, 1.33.0, Ultra fast JSON encoder and decoder for Python, 2014-01-24T05:26:25+0000
+/project/dabble/, dabble, 0.2.3, Simple A/B testing framework, 2011-10-26T15:37:34+0000
+/project/magentouch/, magentouch, 1.0, Magento Soup v2 suds client, 2015-05-20T06:36:39+0000
+/project/egenix-pyopenssl/, egenix-pyopenssl, 0.13.16, eGenix pyOpenSSL Distribution for Python, 2016-11-11T10:00:02+0000
+/project/distribute/, distribute, 0.7.3, distribute legacy wrapper, 2013-07-05T17:53:04+0000
+/project/thulac/, thulac, 0.2.1, An efficient Chinese text segmentation tool, 2019-11-14T08:04:01+0000
+/project/importlib-no-failure/, importlib-no-failure, 1.0.2, Backport of importlib.import_module() from Python 2.7, 2013-03-16T21:18:03+0000
+/project/products-extrememanagement/, Products.eXtremeManagement, 2.1, Project administration which supports the eXtreme Programming methodology., 2016-08-01T06:50:10+0000
+/project/github2/, github2, 0.6.2, GitHub API v2 library for Python., 2012-06-11T12:49:02+0000
+/project/python-cli/, python-cli, 1.2, A toolkit for CLI construction, 2011-08-25T08:41:42+0000
+/project/brasil-vocab/, brasil.vocab, 0.8, Basic Brazilian vocabularies for Python, 2011-12-21T00:54:04+0000
+/project/relo/, Relo, 0.7-beta, Recursive Document Content Search in Python, 2012-01-08T18:58:57+0000
+/project/django-request-provider/, django-request-provider, 1.0.2, access django request object whenever you need it, 2012-12-29T15:42:04+0000
+/project/pmb/, pmb, 0.0.10, A variety of useful functions to keep Python scripts powerfull while short and sweet, 2017-03-23T19:02:43+0000
+/project/pyublas/, PyUblas, 2017.1, Seamless Numpy-UBlas interoperability, 2017-11-10T18:56:29+0000
+/project/py3-progressbar/, py3-progressbar, 2.4dev, Text progress bar library for Python., 2014-08-18T03:49:59+0000
+/project/plonehrm-contracts/, plonehrm.contracts, 3.10, Contracts for Plone HRM, 2014-12-08T20:59:41+0000
+/project/nose-cover3/, nose-cover3, 0.1.0, Coverage 3.x support for Nose, 2011-09-13T14:21:39+0000
+/project/products-addremovewidget/, Products.AddRemoveWidget, 1.5.2, AddRemoveWidget + ComboBoxWidget for Plone, 2017-01-31T11:13:22+0000
+/project/pytaskpool/, pytaskpool, 1.1, A simple multiprocessing function pool, 2015-01-07T09:30:52+0000
+/project/messaging/, messaging, 1.1, Messaging related modules, 2016-01-05T08:43:05+0000
+/project/seo-meow/, seo-meow, 0.1, A simple Django app to manage basic SEO tags., 2016-08-31T11:09:04+0000
+/project/prat-gevent/, prat-gevent, 0.13.6, Prat fork of Denis Beilenko's Python network library that uses greenlet and libevent for easy and scalable concurrency, 2012-11-16T00:38:43+0000
+/project/monthdelta/, MonthDelta, 0.9.1, date computations with months, 2009-04-23T03:14:36+0000
+/project/mtb/, mtb, 0.1.0, MyToolBox - collection of tools to be shared across modules, 2013-03-01T13:01:50+0000
+/project/sqlanydb/, sqlanydb, 1.0.11, pure Python SQL Anywhere database interface, 2021-03-04T00:40:52+0000
+/project/grasp/, grasp, 0.3.2, Useful introspection tools., 2013-04-24T10:56:11+0000
+/project/numconv/, numconv, 2.1.1, Python library to convert strings to numbers and numbers to strings., 2010-06-06T18:02:56+0000
+/project/listparser/, listparser, 0.18, Parse OPML, FOAF, and iGoogle subscription lists., 2015-04-21T21:54:28+0000
+/project/pathfix-py/, pathfix.py, 0.6.2, Translate OS X / Windows file URLs to directory paths, 2013-01-16T11:54:02+0000
+/project/collective-ordereddict/, collective.ordereddict, 0.1, Ordered Dictionary for Python 2.4 or later, 2009-08-25T11:33:44+0000
+/project/anavnet/, anavnet, 0.0.4, Client library to the AnavNet website, which provides the current warnings from the Portuguese maritime ports, 2018-08-28T21:48:57+0000
+/project/jsonwidget/, jsonwidget, 0.1.7, jsonwidget is a general-purpose JSON validation and manipulation, and form-building library for terminal windows and web pages, 2010-04-22T06:03:16+0000
+/project/automa/, automa, 0.1.21, Scripting automation utility, 2011-05-24T09:33:41+0000
+/project/suds-aop/, suds-aop, 0.6.1, Lightweight SOAP client (aop's fork), 2016-06-30T10:13:33+0000
+/project/suds2/, suds2, 0.7.1, Lightweight SOAP client (Suds fork), 2018-01-05T17:49:32+0000
+/project/dtperiod/, dtperiod, 0.1.1, provide datetime Period object, 2017-11-24T04:34:07+0000
+/project/nimp/, nimp, 0.9.2, Nested Imports for Python, 2011-06-15T14:53:28+0000
+/project/versiontools/, versiontools, 1.9.1, Smart replacement for plain tuple used in __version__, 2012-03-13T01:24:01+0000
+/project/python-net-evi-agent/, python-net_evi_agent, 1.0.0, An openstack multi_tenant network isolation evidence gathering module, 2016-08-07T03:43:02+0000
+/project/setuptools-bzr/, setuptools_bzr, 2.2, setuptools plugin for bzr, 2014-01-09T23:21:57+0000
+/project/leveldb/, leveldb, 0.201, Python bindings for leveldb database library, 2019-12-09T01:31:12+0000
+/project/uncompyle6/, uncompyle6, 3.7.4, Python cross-version byte-code decompiler, 2020-09-05T10:14:37+0000
+/project/xdis/, xdis, 5.0.9, Python cross-version byte-code disassembler and marshal routines, 2021-04-17T00:07:21+0000
+/project/pysnmpcrypto/, pysnmpcrypto, 0.0.4, Strong cryptography support for PySNMP (SNMP library for Python), 2018-12-29T23:06:41+0000
+/project/ptable/, PTable, 0.9.2, A simple Python library for easily displaying tabular data in a visually appealing ASCII table format, 2015-05-28T07:06:19+0000
+/project/mr-inquisition/, mr.inquisition, 0.2, A package to help with exploring a Plone site., 2015-08-04T10:47:25+0000
+/project/gearman3/, gearman3, 0.2.0, A Python 3 fork of the Gearman API - Client, worker, and admin client interfaces, 2020-03-01T18:12:33+0000
+/project/setuptools-pyflakes/, setuptools_pyflakes, 1.1.0, setuptools plugin for pyflakes, 2012-07-11T15:30:09+0000
+/project/pythonbrew/, pythonbrew, 1.3.6, Manage python installations in your $HOME, 2015-06-20T12:31:33+0000
+/project/pipsec/, pipsec, 0.0.1.dev2, Security-hardened pip installer, 2017-09-18T14:46:26+0000
+/project/collective-customizablepersonalizeform/, collective.customizablePersonalizeForm, 2.0, Customizable personalize form for Plone, 2011-09-08T08:35:07+0000
+/project/torn/, torn, 0.0.3, A command line application to easily create and run tornado applications., 2016-07-07T10:21:51+0000
+/project/sqlany-django/, sqlany_django, 1.13, SQL Anywhere database backend for Django, 2016-05-05T12:37:26+0000
+/project/rabbitmq-munin/, rabbitmq-munin, 0.2, A munin plugin to monitor rabbitmq queues., 2013-08-29T19:19:03+0000
+/project/pyftpdlib-ustcblog/, pyftpdlib-ustcblog, 1.4.1, USTC Blog fork of Very fast asynchronous FTP server library, 2015-02-16T10:23:50+0000
+/project/auth-credential/, auth.credential, 1.0, Credential abstraction, 2013-03-04T10:41:19+0000
+/project/zope-optionalextension/, zope.optionalextension, 1.1, Optional compilation of C extensions, 2010-07-03T18:56:51+0000
+/project/progressbar/, progressbar, 2.5, Text progress bar library for Python., 2018-06-29T02:32:00+0000
+/project/tmtest/, tmtest, 1.0.0, a fledgling personal test lib, 2013-06-25T14:26:17+0000
+/project/should-dsl/, should_dsl, 2.1.2, Should assertions in Python as clear and readable as possible, 2012-11-01T03:13:37+0000
+/project/pytest-pydev/, pytest-pydev, 0.1.1, py.test plugin to connect to a remote debug server with PyDev or PyCharm., 2017-11-15T23:25:03+0000
+/project/kanedama/, Kanedama, 0.1.1, Download and email Heroku invoices, 2013-03-23T22:42:52+0000
+/project/repoze-lemonade/, repoze.lemonade, 0.7.6, repoze.lemonade is a collection of utilties that make it possible
+to create Zope CMF-like applications without requiring any particular
+persistence mechanism. It makes use of the Zope component architecture., 2012-03-30T03:32:37+0000
+/project/isapi-wsgi/, isapi_wsgi, 0.4.2, A WSGI handler for ISAPI, 2010-04-12T09:57:40+0000
+/project/unittest2/, unittest2, 1.1.0, The new features in unittest backported to Python 2.4+., 2015-06-30T06:48:25+0000
+/project/gearman/, gearman, 2.0.2, Gearman API - Client, worker, and admin client interfaces, 2011-01-11T22:01:22+0000
+/project/jsonutil/, jsonutil, 1.0.3, a wrapper around simplejson which deserializes decimals to Decimal instead of to float, 2010-11-22T20:06:28+0000
+/project/wsapi4plone-client/, wsapi4plone.client, 0.1a3, An XML-RPC client specially created for interfacing with a Plone site using the Web Services API for Plone (wsapi4plone)., 2009-08-12T16:54:55+0000
+/project/pycli/, pyCLI, 2.0.3, Simple, object-oriented approach to Python CLI apps, 2012-02-29T15:30:06+0000
+/project/mr-poe/, mr.poe, 3.1.16-3, mr.poe is a fork of raven-python for ancient versions of Python, 2013-02-27T12:26:05+0000
+/project/freespeak/, FreeSpeak, 0.2.0, FreeSpeak is a free frontend to online translator engines., 2008-11-28T16:08:15+0000
+/project/adm/, adm, 0.1a0, Active Data Mapping, Pre-Alpha Release, 2012-08-13T12:29:45+0000
+/project/snmpclitools/, snmpclitools, 0.6.4, SNMP command-line tools, 2019-08-11T10:16:16+0000
+/project/crcmod/, crcmod, 1.7, CRC Generator, 2010-06-27T12:35:27+0000
+/project/hailstorm/, hailstorm, 1.0.0, A Python templating library in the style of Jinja2 and Django templates featuring the full power of Python in the expressions that can be embedded in the template files. Hailstorm was extracted from the templating code that is part of Tornado Web Server framework published by Facebook., 2013-02-24T14:47:49+0000
+/project/awake/, awake, 1.0, Command and library to wake on lan a remote host., 2012-12-14T07:07:25+0000
+/project/collective-recipe-pydevproject/, collective.recipe.pydevproject, 0.1, zc.buildout recipe that creates an Eclipse PyDev Project config with PYTHONPATH pointing to some eggs and their dependencies, 2012-12-01T20:55:14+0000
+/project/gameclock/, gameclock, 5.1, The Gameclock, 2016-09-04T23:58:10+0000
+/project/trepan2/, trepan2, 1.2.3, GDB-like Python Debugger in the Trepan family, 2021-01-25T04:02:00+0000
+/project/pyramidueditor/, pyramidueditor, 1.0.1, A Pyramid application for Baidu Ueditor., 2015-06-05T09:52:25+0000
+/project/collective-recipe-modwsgi/, collective.recipe.modwsgi, 2.1, WSGI from buildout, 2014-08-28T07:53:59+0000
+/project/simplevisor/, simplevisor, 1.2, Simple daemon supervisor, 2016-06-27T13:18:37+0000
+/project/typeargs/, typeargs, 1.1.0, Smarter positional argument handling, 2016-02-22T04:08:11+0000
+/project/egenix-mx-base/, egenix-mx-base, 3.2.9, eGenix mx Base Distribution for Python - mxDateTime, mxTextTools, mxProxy, mxTools, mxBeeBase, mxStack, mxQueue, mxURL, mxUID, 2015-08-27T12:31:12+0000
+/project/pymstache/, pymstache, 0.5.3, Mustache for Python, 2013-06-05T17:35:45+0000
+/project/vimpdb/, vimpdb, 0.4.5, Vim and Pdb integration, 2011-04-27T23:30:53+0000
+/project/regnupg/, regnupg, 0.4.4, A wrapper for the Gnu Privacy Guard (GPG or GnuPG), 2017-11-29T06:42:17+0000
+/project/pinax-designer-theme/, pinax-designer-theme, 0.1a1.dev1, Pinax Designer Theme is a designer framework of django HTML(5) templates and Less.js CSS files, including a CSS grid, for Pinax., 2010-12-17T11:52:24+0000
+/project/collective-sortmyfolder/, collective.sortmyfolder, 1.0.7, Reveal some not-so-hidden Plone feature for sorting your folders, 2014-04-08T07:39:06+0000
+/project/blinker-async/, blinker-async, 0.0.3, Fast, Async simple object-to-object and broadcast signaling, 2020-09-23T03:48:20+0000
+/project/pyinotify/, pyinotify, 0.9.6, Linux filesystem events monitoring, 2015-06-04T15:50:22+0000
+/project/argparse/, argparse, 1.4.0, Python command-line parsing library, 2015-09-12T20:22:12+0000
+/project/pyazure/, pyazure, 0.2.2, Python wrapper around Windows Azure storage and management REST APIs, 2012-01-28T22:37:08+0000
+/project/progressbar-latest/, progressbar-latest, 2.4, Text progress bar library for Python., 2013-06-03T16:45:59+0000
+/project/ujson-x-legacy/, ujson-x-legacy, 1.35.1, Ultra fast JSON encoder and decoder for Python, 2019-03-18T12:56:14+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/nose-cov/, nose-cov, 1.6, nose plugin for coverage reporting, including subprocesses and multiprocessing, 2012-09-01T06:23:43+0000
+/project/mk-recipe-modwsgi/, mk.recipe.modwsgi, 0.1, WSGI from buildout, 2013-05-02T21:58:39+0000
+/project/clientform/, ClientForm, 0.2.10, Client-side HTML form handling., 2008-12-03T23:18:39+0000
+/project/suds-jurko/, suds-jurko, 0.6, Lightweight SOAP client (Jurko's fork), 2014-01-24T16:34:48+0000
+/project/aoikwinwhich/, AoikWinWhich, 0.1.0, Find where executables are located given a name or a path on Windows console. Does what the "which" program does on Linux, only better because it thinks the way Windows console thinks by considering PATH as well as PATHEXT., 2014-10-11T09:35:07+0000
+/project/templer-zope/, templer.zope, 1.0b2, Templer system extensions for zope, 2012-05-20T21:53:42+0000
+/project/django-simple-news/, django-simple-news, 1.1, News application for Django project, 2010-07-03T14:14:11+0000
+/project/argonaut/, Argonaut, 0.3.4, Lightweight Pylons powered blogging engine., 2011-03-30T13:35:10+0000
+/project/erp5-appliance-test/, erp5.appliance.test, 2.14, ERP5 Appliance testing system, 2011-01-24T12:01:52+0000
+/project/diaper/, diaper, 1.3, Python Diaper, 2016-01-21T18:27:00+0000
+/project/dicksonui/, DicksonUI, 2.4.5, Lightweight And Full Featured Browser Based UI / GUI (Graphical User Interface Library), 2020-10-16T13:10:48+0000
+/project/suds-jurko/, suds-jurko, 0.6, Lightweight SOAP client (Jurko's fork), 2014-01-24T16:34:48+0000
+/project/versiontools/, versiontools, 1.9.1, Smart replacement for plain tuple used in __version__, 2012-03-13T01:24:01+0000
+/project/python-net-evi-agent/, python-net_evi_agent, 1.0.0, An openstack multi_tenant network isolation evidence gathering module, 2016-08-07T03:43:02+0000
+/project/setuptools-bzr/, setuptools_bzr, 2.2, setuptools plugin for bzr, 2014-01-09T23:21:57+0000
+/project/aoikwinwhich/, AoikWinWhich, 0.1.0, Find where executables are located given a name or a path on Windows console. Does what the "which" program does on Linux, only better because it thinks the way Windows console thinks by considering PATH as well as PATHEXT., 2014-10-11T09:35:07+0000
+/project/templer-zope/, templer.zope, 1.0b2, Templer system extensions for zope, 2012-05-20T21:53:42+0000
+/project/django-simple-news/, django-simple-news, 1.1, News application for Django project, 2010-07-03T14:14:11+0000
+/project/argonaut/, Argonaut, 0.3.4, Lightweight Pylons powered blogging engine., 2011-03-30T13:35:10+0000
+/project/oktest/, Oktest, 0.15.2, a new-style testing library, 2015-10-20T09:05:15+0000
+/project/collective-mcp/, collective.mcp, 0.5, Macish Control Panel for Plone., 2015-08-26T22:59:31+0000
+/project/dm-xmlsec-pyxb/, dm.xmlsec.pyxb, 1.1, Tiny wrapper around the 'wssplat' bundle of 'pyxb' for XML-Signature and XML-Encryption -- obsolete., 2012-07-02T12:30:55+0000
+/project/nagii/, nagii, 0.1.3, A straightforward Nagios modelling library, 2011-05-17T06:48:09+0000
+/project/eureeka/, eureeka, 0.1, EUREEKA knowledge store, inference engine and scripts, 2010-08-19T14:23:13+0000
+/project/leveldb/, leveldb, 0.201, Python bindings for leveldb database library, 2019-12-09T01:31:12+0000
+/project/uncompyle6/, uncompyle6, 3.7.4, Python cross-version byte-code decompiler, 2020-09-05T10:14:37+0000
+/project/xdis/, xdis, 5.0.9, Python cross-version byte-code disassembler and marshal routines, 2021-04-17T00:07:21+0000
+/project/pysnmpcrypto/, pysnmpcrypto, 0.0.4, Strong cryptography support for PySNMP (SNMP library for Python), 2018-12-29T23:06:41+0000
+/project/pysmb/, pysmb, 1.2.6, pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines, 2020-12-09T06:44:23+0000
+/project/collective-flowplayer-toolbar/, collective.flowplayer_toolbar, 1.0.0, A Plone module which add an accessible Javascript controlsbar to collective.flowplayer, 2011-09-28T12:03:36+0000
+/project/unittest2/, unittest2, 1.1.0, The new features in unittest backported to Python 2.4+., 2015-06-30T06:48:25+0000
+/project/jsonutil/, jsonutil, 1.0.3, a wrapper around simplejson which deserializes decimals to Decimal instead of to float, 2010-11-22T20:06:28+0000
+/project/wsapi4plone-client/, wsapi4plone.client, 0.1a3, An XML-RPC client specially created for interfacing with a Plone site using the Web Services API for Plone (wsapi4plone)., 2009-08-12T16:54:55+0000
+/project/pycli/, pyCLI, 2.0.3, Simple, object-oriented approach to Python CLI apps, 2012-02-29T15:30:06+0000
+/project/mr-poe/, mr.poe, 3.1.16-3, mr.poe is a fork of raven-python for ancient versions of Python, 2013-02-27T12:26:05+0000
+/project/freespeak/, FreeSpeak, 0.2.0, FreeSpeak is a free frontend to online translator engines., 2008-11-28T16:08:15+0000
+/project/adm/, adm, 0.1a0, Active Data Mapping, Pre-Alpha Release, 2012-08-13T12:29:45+0000
+/project/snmpclitools/, snmpclitools, 0.6.4, SNMP command-line tools, 2019-08-11T10:16:16+0000
+/project/crcmod/, crcmod, 1.7, CRC Generator, 2010-06-27T12:35:27+0000
+/project/hailstorm/, hailstorm, 1.0.0, A Python templating library in the style of Jinja2 and Django templates featuring the full power of Python in the expressions that can be embedded in the template files. Hailstorm was extracted from the templating code that is part of Tornado Web Server framework published by Facebook., 2013-02-24T14:47:49+0000
+/project/awake/, awake, 1.0, Command and library to wake on lan a remote host., 2012-12-14T07:07:25+0000
+/project/sqlalchemy-sqlany/, sqlalchemy_sqlany, 1.0.3, SAP Sybase SQL Anywhere dialect for SQLAlchemy, 2018-05-07T14:22:03+0000
+/project/pyreboot/, Pyreboot, 1.0, small python library, that allow developers to rebootpower off, others..  a computer as easy as it sounds, 2017-01-04T04:48:32+0000
+/project/pmw/, Pmw, 2.0.1, , 2015-03-22T23:12:35+0000
+/project/c3linearize/, C3Linearize, 0.1.0, Python implementation of the C3 linearization algorithm., 2011-04-11T13:46:25+0000
+/project/progressbar33/, progressbar33, 2.4, Text progress bar library for Python., 2014-08-29T08:37:57+0000
+/project/cmdopt/, Cmdopt, 0.2.0, pretty good command-line option parser, 2011-12-13T13:54:15+0000
+/project/bbfreeze/, bbfreeze, 1.1.3, create standalone executables from python scripts, 2014-01-20T22:52:06+0000
+/project/blinker-async/, blinker-async, 0.0.3, Fast, Async simple object-to-object and broadcast signaling, 2020-09-23T03:48:20+0000
+/project/pyinotify/, pyinotify, 0.9.6, Linux filesystem events monitoring, 2015-06-04T15:50:22+0000
+/project/argparse/, argparse, 1.4.0, Python command-line parsing library, 2015-09-12T20:22:12+0000
+/project/pyazure/, pyazure, 0.2.2, Python wrapper around Windows Azure storage and management REST APIs, 2012-01-28T22:37:08+0000
+/project/suds-aop/, suds-aop, 0.6.1, Lightweight SOAP client (aop's fork), 2016-06-30T10:13:33+0000
+/project/suds2/, suds2, 0.7.1, Lightweight SOAP client (Suds fork), 2018-01-05T17:49:32+0000
+/project/dtperiod/, dtperiod, 0.1.1, provide datetime Period object, 2017-11-24T04:34:07+0000
+/project/nimp/, nimp, 0.9.2, Nested Imports for Python, 2011-06-15T14:53:28+0000
+/project/progressbar-latest/, progressbar-latest, 2.4, Text progress bar library for Python., 2013-06-03T16:45:59+0000
+/project/ujson-x-legacy/, ujson-x-legacy, 1.35.1, Ultra fast JSON encoder and decoder for Python, 2019-03-18T12:56:14+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/nose-cov/, nose-cov, 1.6, nose plugin for coverage reporting, including subprocesses and multiprocessing, 2012-09-01T06:23:43+0000
+/project/mk-recipe-modwsgi/, mk.recipe.modwsgi, 0.1, WSGI from buildout, 2013-05-02T21:58:39+0000
+/project/clientform/, ClientForm, 0.2.10, Client-side HTML form handling., 2008-12-03T23:18:39+0000
+/project/iocapture/, iocapture, 0.1.2, Capture stdout, stderr easily., 2015-05-21T02:27:49+0000
+/project/django-dynamic-link/, django-dynamic-link, 0.5.7, A django file streaming application, 2016-07-22T21:59:02+0000
+/project/fluidity-sm/, fluidity-sm, 0.2.0, Fluidity: state machine implementation for Python objects, 2011-09-03T15:59:13+0000
+/project/grid-control/, grid-control, 1.9.86, The Swiss Army knife of job submission tools, 2017-08-03T13:55:17+0000
+/project/ak-gchartwrapper/, ak-gchartwrapper, 0.9.1, Python Google Chart Wrapper, 2016-02-23T04:07:39+0000
+/project/purepng/, purepng, 0.2.0, Pure Python PNG image encoder/decoder, 2016-09-30T12:17:37+0000
+/project/pyasn1-modules/, pyasn1-modules, 0.2.8, A collection of ASN.1-based protocols modules., 2020-01-09T17:23:45+0000
+/project/simx/, simx, 0.3.1, Parallel simulation library for Python, 2014-12-29T08:07:33+0000
+/project/rpclib/, rpclib, 2.8.0-rc, A transport and architecture agnostic rpc (de)serialization library that focuses on making small, rpc-oriented messaging work., 2012-08-29T10:42:35+0000
+/project/rdflib-sqlite/, rdflib-sqlite, 0.1, rdflib extension adding SQLite as back-end store, 2012-07-04T05:19:31+0000
+/project/tatterdemalion/, tatterdemalion, 0.1.0, A dummy distribution, 2014-02-08T20:58:23+0000
+/project/backport-importlib/, backport_importlib, 0...1, A script to backport the full importlib to 2.x, 2011-07-16T07:28:34+0000
+/project/suds-vingd/, suds-vingd, 0.4.3, Lightweight SOAP client (philpem's fork-and-merge), 2013-07-01T11:31:38+0000
+/project/vim-bridge/, vim-bridge, 0.6, A Python-to-Vim bridge decorator that allows transparent calls to Python functions in native Vim scripts., 2020-01-05T08:23:38+0000
+/project/church-encoding/, church_encoding, 0.1.1, Church encodings written in Python, 2014-04-26T07:40:30+0000
+/project/setuptools-subversion/, setuptools_subversion, 3.1, Setuptools revision control system plugin for Subversion, 2012-10-15T10:04:06+0000
+/project/django-datefilterspec/, django-datefilterspec, 1.3.0, Allow to filter by a custom date range on the Django Admin, 2017-05-15T19:40:25+0000
+/project/enum34/, enum34, 1.1.10, Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4, 2020-03-10T17:47:58+0000
+/project/pysnmp/, pysnmp, 4.4.12, SNMP library for Python, 2019-09-24T16:28:57+0000
+/project/rs-pyinotify/, rs-pyinotify, 0.9.9, Linux filesystem events monitoring, 2017-10-24T22:15:54+0000
+/project/greenstack/, greenstack, 0.6, Lightweight in-process concurrent programming, 2016-12-09T19:10:49+0000
+/project/amqpclt/, amqpclt, 0.6, Versatile AMQP client, 2016-09-27T10:02:57+0000
+/project/nodechalk/, nodechalk, 0.2.0, Terminal string styling for python, 2019-03-11T13:55:49+0000
+/project/eveapi/, eveapi, 1.2.6, Python library for accessing the EVE Online API., 2012-08-30T17:02:39+0000
+/project/templer-core/, templer.core, 1.0b4, Core functionality for the templer tool, 2012-05-18T05:33:19+0000
+/project/followit/, followit, 0.0.2, A Django application that allows users to follow django model objects, 2011-07-16T19:48:50+0000
+/project/komodo-pydbgp/, komodo-pydbgp, 10.2.2.89895, , 2017-06-24T05:12:15+0000
+/project/turbogears/, TurboGears, 1.5.1, Front-to-back, open-source, rapid web development framework, 2011-11-26T23:18:40+0000
+/project/funmongo/, funmongo, 0.1.3, A safe and easy to use MongoDB ORM for python, 2016-09-18T01:28:10+0000
+/project/platinfo/, platinfo, 0.15.0, platinfo: A small library from getting information on the current platform, 2010-04-29T18:36:42+0000
+/project/django-urlalternatives/, django-urlalternatives, 0.1.0, Django URL alternatives provides a way for dispatching one URL pattern to the first alternative view (callback function) in a list that returns success., 2011-07-07T21:22:35+0000
+/project/templer-buildout/, templer.buildout, 1.0b1, Templer system extensions for buildouts and buildout recipes, 2012-05-18T05:56:42+0000
+/project/collective-depositbox/, collective.depositbox, 1.3, Put stuff in a box, get it out again with the secret, 2015-09-01T16:33:05+0000
+/project/scio/, Scio, 0.12.0, Scio is a humane SOAP client, 2012-04-10T18:54:12+0000
+/project/ordereddict/, ordereddict, 1.1, A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6., 2010-01-14T16:02:39+0000
+/project/nightmare-pdf/, nightmare_pdf, 0.1.0, Convert HTML to pdf with django using nightmarejs, 2017-01-17T08:26:22+0000
+/project/backports-ssl-match-hostname/, backports.ssl_match_hostname, 3.7.0.1, The ssl.match_hostname() function from Python 3.5, 2019-01-12T22:25:58+0000
+/project/python-meli/, python-meli, 1.0, Mercado Libre API wrapper, 2013-02-05T03:46:58+0000
+/project/rawr/, rawr, 0.1.1, Growl Network Interface, 2011-10-12T15:41:19+0000
+/project/suds-mwisslead/, suds-mwisslead, 0.7.dev3, Lightweight SOAP client (MWisslead's fork), 2020-01-11T06:37:13+0000
+/project/permission-backend-nonrel/, permission-backend-nonrel, 0.2, Django-nonrel authentication backend to support permissions and groups, 2013-12-31T19:17:06+0000
+/project/tinybuddhawisdom/, tinybuddhawisdom, 1.0.0, Tinybuddha Wisdom is a tiny console fortune-like wisdom teller., 2014-06-26T09:34:56+0000
+/project/bbfreeze-loader/, bbfreeze-loader, 1.1.0, provide binary loaders for bbfreeze, 2013-04-09T23:49:48+0000
+/project/treeprinter/, treeprinter, 0.0.2, Python library for easy tree displaying, 2016-11-13T22:54:24+0000
+/project/go-proxy-client/, go-proxy-client, 0.2, Handler for urllib2 to use a go-proxy instance as proxy server, 2014-01-12T19:42:32+0000
+/project/fapws3/, fapws3, 0.11.dev, Fast Asynchronous Python Web Server, 2012-04-14T10:35:24+0000
+/project/spritify/, spritify, 0.4.2, The spritify is a tool for transform directory of images in the stylesheet and image file., 2015-03-31T03:39:12+0000
+/project/pypyodbc/, pypyodbc, 1.3.5, PyPyODBC - A Pure Python ODBC module by ctypes, 2017-01-30T12:06:52+0000
+/project/netstat-cl/, netstat-cl, 0.1.3, Ubuntu Indicator to display net usage and speed on Unity taskbar., 2016-07-07T17:55:45+0000
+/project/everyapp-bootstrap/, everyapp.bootstrap, 0.2.2, Enhanced virtualenv bootstrap script creation., 2012-02-22T23:55:20+0000
+/project/cpypp/, cpypp, 1.1.0, c-style preprocessor for Python, 2020-01-07T01:28:23+0000
+/project/templer-localcommands/, templer.localcommands, 1.0b2, Templer system framework for local commands, 2012-05-20T22:45:06+0000
+/project/nextf1race/, nextf1race, 0.1.4, A command tool to show where and when the next Formula 1 race is., 2017-01-08T17:07:45+0000
+/project/jquery-pyproxy/, jquery.pyproxy, 0.5, A simple python egg and jquery plugin to easily use JQuery in Django/Plone/.. websites., 2013-09-24T11:04:24+0000
+/project/leveldb-wx/, leveldb-wx, 0.20.1, harden code max_file_size=512M, base on py-leveldb 0.20 , 2017-01-05T06:40:36+0000
+/project/pybingwallpaper/, PyBingWallpaper, 1.5.6, A simple Bing.com wallpaper downloader, 2019-05-01T04:49:32+0000
+/project/egenix-mxodbc/, egenix-mxodbc, 3.3.6, eGenix mxODBC - Python ODBC Database Interface, 2016-11-16T16:42:59+0000
+/project/python-pandora/, python-pandora, 0.10, Library to access pandora.com. Based on the work from http://forum.xbmc.org/showthread.php?t=70471 and from Pithos, 2013-07-04T12:26:30+0000
+/project/tui/, tui, 1.1.1, Quickly add a competent textual user interface to your python program., 2011-02-24T14:03:06+0000
+/project/skynet/, skynet, 1.1, import skynet, if you dare, 2016-02-29T11:43:28+0000
+/project/soundify/, soundify, 0.4, soundify exitcodes, 2020-11-15T08:16:16+0000
+/project/blinker/, blinker, 1.4, Fast, simple object-to-object and broadcast signaling, 2015-07-23T12:26:36+0000
+/project/collective-recipe-ropeproject/, collective.recipe.ropeproject, 1.0b3, zc.buildout recipe that creates a rope project config with python_path pointing to some eggs and their dependencies, 2012-07-02T20:14:09+0000
+/project/git-goggles/, git-goggles, 0.2.12, A series of GIT utilities to streamline working with remote branches and reviewing code. You can think of git-goggles as 'git branch -a' on steroids. Just install and run 'git goggles', 2011-11-23T16:54:35+0000
+/project/pynoti/, pynoti, 1.3, easy to use python wrapper for notify-send program., 2017-01-03T06:17:41+0000
+/project/collective-jsonify/, collective.jsonify, 1.5, JSON representation for content in Plone from 2.0 and above, 2020-08-21T11:31:55+0000
+/project/pytz/, pytz, 2021.1, World timezone definitions, modern and historical, 2021-02-01T08:07:15+0000
+/project/products-anonymouscommenting/, Products.AnonymousCommenting, 1.0, Implements anonymous commenting within a Plone site, 2009-01-12T17:23:46+0000
+/project/signalpy/, SignalPy, 1.0.6, Realtime communication for Python web applications, 2020-10-20T02:15:54+0000
+/project/bcryptor/, Bcryptor, 1.2.2, Python wrapper for bcrypt, 2010-02-26T12:52:12+0000
+/project/collective-mollie/, collective.mollie, 0.3, Wrapper for the Mollie iDeal API, 2012-10-31T16:31:04+0000
+/project/progressbar231/, progressbar231, 2.3.1, Text progress bar library for Python., 2015-01-01T07:01:17+0000
+/project/python-amazon-product-api/, python-amazon-product-api, 0.2.8, A Python wrapper for the Amazon Product Advertising API., 2014-03-30T20:15:05+0000
+/project/spark-parser/, spark-parser, 1.8.9, An Earley-Algorithm Context-free grammar Parser Toolkit, 2019-07-29T01:07:10+0000
+/project/softwarefabrica-django-drilldown/, softwarefabrica.django.drilldown, 0.9dev-BZR-r8-panta-elasticworld.org-20091111104900-tj54rjt5f0biy1hc, Drill-down navigation for django projects, 2009-11-18T09:59:50+0000
+/project/cronex/, cronex, 0.1.3.1, This module provides an easy to use interface for cron-like task scheduling., 2018-11-04T23:45:43+0000
+/project/utilkit/, utilkit, 0.4.1, Collection of useful helper functions for datetime, print, string formatting, directory and file handling, and more, 2018-03-02T10:36:23+0000
+/project/pytextseg/, pytextseg, 0.2.0, Python module for text segmentation., 2012-03-31T04:47:10+0000
+/project/django-daterange-filter/, django-daterange-filter, 1.3.0, Allow to filter by a custom date range on the Django Admin, 2016-05-04T01:01:34+0000
+/project/tenjin/, Tenjin, 1.1.1, a fast and full-featured template engine based on embedded Python, 2012-05-17T22:39:59+0000
+/project/tagtools/, tagtools, 0.8d, Python helpers to work with tags., 2010-08-22T19:32:12+0000
+/project/blinker-alt/, blinker-alt, 1.5, Fast, simple object-to-object and broadcast signaling, 2017-10-15T15:04:50+0000
+/project/mitogen/, mitogen, 0.2.9, Library for writing distributed self-replicating programs., 2019-11-02T18:00:39+0000
+/project/trialcoverage/, trialcoverage, 0.3.12, a plugin to integrate Twisted trial with Ned Batchelder's coverage.py, 2010-06-09T02:41:39+0000
+/project/rmate/, rmate, 1.0.3, Edit files over SSH., 2016-11-03T23:59:00+0000
+/project/pyjquery/, PyjQuery, 3.5.1.1, The Write Less, Do More, JavaScript Library for DicksonUI, 2020-10-19T02:05:33+0000
+/project/wincertstore/, wincertstore, 0.2, Python module to extract CA and CRL certs from Windows' cert store (ctypes based)., 2014-02-26T11:42:04+0000
+/project/nilo-webgallery/, nilo.webgallery, 0.2.5, A simple http server serving a web gallery out of a directory structure., 2009-04-07T17:33:31+0000
+/project/pynsca/, pynsca, 1.6, Simple Python interface to Nagios Service Check Architecture, 2017-12-22T01:29:26+0000
+/project/discover/, discover, 0.4.0, Test discovery for unittest. Backported from Python 2.7 for Python 2.4+, 2010-06-11T14:11:26+0000
+/project/alt-src/, alt-src, 1.6.0, Tool for uploading custom patches to centos source rpm repositories, 2021-01-20T09:36:28+0000
+/project/tc/, tc, 0.7.2, Python bindings to the Tokyo Cabinet database library, 2009-03-02T01:29:06+0000
+/project/deprecator/, deprecator, 0.3, Deprecator provides a decorator to easily depreate old code., 2015-06-03T17:36:13+0000
+/project/isit/, isit, 0.3.6, Environment runtime detection (Python,Linux,Distribution,etc...), 2020-12-02T15:28:51+0000
+/project/django-session-idle-timeout/, django-session-idle-timeout, 1.4.2, Timeout a logged user after a period of time, 2014-07-16T00:53:23+0000
+/project/pysmi/, pysmi, 0.3.4, SNMP SMI/MIB Parser, 2019-04-14T10:05:51+0000
+/project/horseshit/, horseshit, 0.0.5, Small script to configure your hosts file so you don't get distracted during the day, 2015-03-12T03:06:06+0000
+/project/bottlenose/, bottlenose, 1.1.8, A Python hook into the Amazon.com Product Advertising API, 2018-02-21T17:38:34+0000
+/project/setuptools-hg/, setuptools_hg, 0.4, Setuptools/distribute plugin for finding files under Mercurial version control., 2012-02-02T14:45:44+0000
+/project/pyst/, pyst, 0.8, A Python Interface to Asterisk, 2020-12-04T10:42:35+0000
+/project/tomahawk/, tomahawk, 0.7.4.1, A simple ssh wrapper to execute commands for many hosts., 2016-08-21T14:49:14+0000
+/project/dm-zope-rpc-wsdl-suds/, dm.zope.rpc.wsdl_suds, 0.2a1, WSDL described SOAP protocol support for "dm.zope.rpc", based on "suds", 2010-09-12T07:53:20+0000
+/project/dm-zope-rpc/, dm.zope.rpc, 1.0.1, Remote Procedure Call server support for Zope[2], 2013-03-20T08:26:36+0000
+/project/sqlalchemy-pygresql/, sqlalchemy_pygresql, 1.0.1, PyGreSQL dialect for SQLAlchemy, 2016-01-14T18:16:55+0000
+/project/pooledprocessmixin/, PooledProcessMixIn, 0.0.2, A Pool of processes and threads Mix-in for socketserver., 2012-08-10T20:23:40+0000
+/project/collective-multimodeview/, collective.multimodeview, 0.3, Simple package to manage views with multiple modes., 2015-08-26T23:01:49+0000
+/project/python-geoio/, python-geoio, 0.1.1, Python bindings for the geo.io API., 2014-03-26T19:16:10+0000
+/project/freshwall/, freshwall, 1.1.2, GNOME 2 wallpaper changer, 2009-04-06T17:19:35+0000
+/project/eol/, eol, 0.7.5, a command-line script and Python module for working with text file end-of-line (EOL) characters, 2010-10-24T05:12:01+0000
+/project/success/, success, 1.0.0, Python Success Stories, 2012-05-03T10:49:51+0000
+/project/pyficache/, pyficache, 2.2.1, Cache lines and file information which are generally Python programs, 2020-08-30T17:57:11+0000
+/project/templer-plone/, templer.plone, 1.0b4, Templer system extensions for plone add-on development, 2013-02-10T13:59:04+0000
+/project/pycompatlayer/, PyCompatLayer, 0.0.10, Compatibility layer for Python, 2016-10-01T23:25:41+0000
+/project/wfront/, WFront, 0.4, A WSGI front-door dispatcher., 2008-12-29T00:47:07+0000
+/project/monkeysign/, monkeysign, 2.2.4, OpenPGP key exchange for humans, 2018-06-18T17:27:52+0000
+/project/proofcheck/, proofcheck, 1.0, Checks mathematical proofs written in TeX, 2012-03-07T20:28:27+0000
+/project/collective-recipe-mxzopeda/, collective.recipe.mxzopeda, 0.1, A buildout recipe to install eGenix mxODBC.ZopeDA and a licence, 2009-02-09T14:08:13+0000
+/project/pyamf2/, PyAMF2, 0.6.1.5, AMF support for Python, 2014-09-13T21:20:28+0000
+/project/gignore/, gignore, 2014.10.28, Get .gitignore files from github.com/github/gitignore, 2014-10-28T14:04:47+0000
+/project/picotest/, PicoTest, 0.2.0, a small but very useful testing library for Python, 2011-11-18T13:45:22+0000
+/project/siqueries/, siqueries, 1.0.8, Setup wizard and connection client for connecting MySQL/PostgreSQL databases to siqueries.com, 2013-10-03T08:56:53+0000
+/project/amqplib/, amqplib, 1.0.2, AMQP Client Library, 2011-09-29T18:22:02+0000
+/project/crc16/, crc16, 0.1.1, Library for calculating CRC16, 2011-06-04T20:55:49+0000
+/project/pydhe/, pyDHE, 1.0.0, a fully python Diffie Hellman implementation, 2017-09-18T00:06:53+0000
+/project/relo/, Relo, 0.7-beta, Recursive Document Content Search in Python, 2012-01-08T18:58:57+0000
+/project/django-request-provider/, django-request-provider, 1.0.2, access django request object whenever you need it, 2012-12-29T15:42:04+0000
+/project/pmb/, pmb, 0.0.10, A variety of useful functions to keep Python scripts powerfull while short and sweet, 2017-03-23T19:02:43+0000
+/project/ovirt-shell/, ovirt-shell, 3.6.9.2, A command-line interface to oVirt Virtualization, 2016-10-13T15:10:11+0000
+/project/kook/, Kook, 0.7.2, task automation tool for Python, similar to Make, Rake, Ant, or Cook, 2012-07-13T01:27:26+0000
+/project/pyublas/, PyUblas, 2017.1, Seamless Numpy-UBlas interoperability, 2017-11-10T18:56:29+0000
+/project/py3-progressbar/, py3-progressbar, 2.4dev, Text progress bar library for Python., 2014-08-18T03:49:59+0000
+/project/plonehrm-contracts/, plonehrm.contracts, 3.10, Contracts for Plone HRM, 2014-12-08T20:59:41+0000
+/project/py-daemon/, py_daemon, 0.1.2, Python daemonizer for Unix, Linux and OS X, 2016-09-24T20:47:37+0000
+/project/tracmacostheme/, TracMacOSTheme, 1.0.3, Trac theme to make it look like Mac OS, 2010-12-20T20:25:28+0000
+/project/pmi/, pmi, 1.0, Parallel Method Invocation, 2009-12-22T12:41:33+0000
+/project/pyramid-recipe-modwsgi/, pyramid-recipe-modwsgi, 0.1, zc.buildout recipe to create apache modwsgi file., 2012-10-05T17:35:01+0000
+/project/egenix-web-installer-test/, egenix-web-installer-test, 0.2.0, eGenix Web Installer Test Package, 2014-07-02T15:33:45+0000
+/project/pyusb/, pyusb, 1.1.1, Python USB access module, 2021-01-20T06:22:11+0000
+/project/snmpsim/, snmpsim, 0.4.7, SNMP Agents simulator, 2019-02-09T16:21:53+0000
+/project/xlsx2csv/, xlsx2csv, 0.7.8, xlsx to csv converter, 2021-04-19T18:05:16+0000
+/project/collective-rolereport/, collective.rolereport, 1.1, Creates a report on what users have which roles, 2014-06-19T16:48:55+0000
+/project/ctrlk/, ctrlk, 0.1.4, C++ source code indexer, 2014-12-14T03:09:11+0000
+/project/pywin/, pywin, 0.3.1, Lightweight python 2.5-3.3 launcher and switcher for Windows command line and MSYS/MINGW32. Partly PEP 397 compliant., 2013-03-31T00:31:31+0000
+/project/progressbar-ipython/, progressbar-ipython, 2.3.1, Note: This is a just a packaged version of https://github.com/fnoble/python-progressbar., 2014-04-24T09:32:05+0000
+/project/aoikpymopa/, AoikPyMoPa, 0.1.0, Find a Python module's file paths. Have considered Implicit Namespace Packages introduced in PEP 420. Handy for debugging tricky importing problems., 2014-10-13T05:41:53+0000
+/project/filepath/, filepath, 0.1, Object-oriented filesystem path representation., 2010-06-24T01:31:45+0000
+/project/cov-core/, cov-core, 1.15.0, plugin core for use by pytest-cov, nose-cov and nose2-cov, 2014-11-22T11:05:15+0000
+/project/aspyct/, Aspyct, 3-0_beta_2, Python aspect oriented programming (AOP) tools, 2009-02-24T18:01:18+0000
+/project/testlib/, testlib, 0.6.5, a micro test suite harness, 2010-07-12T16:46:55+0000
+/project/amfast/, AmFast, 0.5.3-r541, Flash remoting framework. Includes support for NetConnection, RemoteObject, IExternizeable, Flex Producer/Consumer messaging, custom type serialization, and a C-based AMF encoder/decoder., 2011-12-10T23:26:12+0000
+/project/dm-zope-rpc-protocol-wsdl-suds/, dm.zope.rpc_protocol.wsdl_suds, 0.1a2, WSDL described SOAP protocol support for "dm.zope.rpc", based on "suds", 2010-09-11T15:51:58+0000
+/project/thola-snmpsim-data/, thola-snmpsim-data, 0.0.3, SNMP simulation data, 2020-12-30T23:18:54+0000
+/project/voicecom/, VoiceCom, 0.0.2rc2, An open source Voice-User-Interface (VUI), 2015-06-01T22:48:08+0000
+/project/themetweaker-themeswitcher/, themetweaker.themeswitcher, 1.0, A product for switching themes in Plone., 2010-09-27T18:54:57+0000
+/project/redturtle-sqlcontents/, redturtle.sqlcontents, 0.9.1, RedTurtle - SQL Contents, 2013-07-29T10:10:19+0000
+/project/markerlib/, markerlib, 0.6.0, A compiler for PEP 345 environment markers., 2013-05-07T03:44:10+0000
+/project/neopyswitch/, NeoPySwitch, 0.2.1, Python switch implementation, 2017-04-21T08:01:04+0000
+/project/pyamf/, PyAMF, 0.8.0, AMF support for Python, 2015-12-17T07:09:26+0000
+/project/virtualenvwrapper-win/, virtualenvwrapper-win, 1.2.6, Port of Doug Hellmann's virtualenvwrapper to Windows batch scripts, 2020-02-16T21:07:25+0000
+/project/pysnmp-apps/, pysnmp-apps, 0.5.3, SNMP command-line tools, 2018-01-07T09:17:47+0000
+/project/nose-skipreq/, nose-skipreq, 2.0, nose plugin that will skip Google API RequestError exceptions., 2011-07-20T15:04:39+0000
+/project/paver-templates/, paver-templates, 0.1.0b3, Paver-enable template, 2009-08-04T20:29:58+0000
+/project/madeiracloud/, MadeiraCloud, 1.0.0, MadeiraCloud Agent, 2011-12-16T10:07:55+0000
+/project/python-signalfd/, python-signalfd, 0.1, Python bindings for sigprocmask(2) and signalfd(2), 2010-06-21T22:17:39+0000
+/project/allpairs/, AllPairs, 2.0.1, Pairwise test combinations generator, 2009-04-05T04:32:46+0000
+/project/subprocess32-ext/, subprocess32-ext, 3.2.8.2, A backport of the subprocess module from Python 3.2/3.3 for use on 2.x., 2017-05-09T14:52:23+0000
+/project/pybctc/, pybctc, 0.1.2, Pythonic access to the British Columbia[, Canada,] Transmission Corporation (BCTC) public electric data., 2010-03-03T16:25:55+0000
+/project/cli-weather/, cli-weather, 0.1.5, Lightweight command line app to get fast weather data right on the command line, 2020-08-03T17:09:10+0000
+/project/darcsver/, darcsver, 1.7.4, generate a version number from darcs history, 2012-01-11T06:39:58+0000
+/project/html2text-no-md-escapes/, html2text-no-md-escapes, 2020.8.9, Turn HTML into equivalent Markdown-structured text., 2020-08-08T05:51:06+0000
+/project/templer-plone-localcommands/, templer.plone.localcommands, 1.0b1, local commands for plone templates in the templer system, 2012-05-20T23:36:35+0000
+/project/wcurve/, wcurve, 0.1.9, wcurve implements basic arithmetic operations on elliptic curves in short Weiertsrass form., 2011-02-14T12:23:23+0000
+/project/chainlet/, chainlet, 1.3.1, Framework for linking generators/iterators to processing chains, trees and graphs, 2018-02-05T14:29:46+0000
+/project/playsound/, playsound, 1.2.2, Pure Python, cross platform, single function module with no dependencies for playing sounds., 2017-06-29T14:08:29+0000
+/project/anyjson/, anyjson, 0.3.3, Wraps the best available JSON implementation available in a common interface, 2012-06-21T23:12:10+0000
+/project/collective-croppingimagefield/, collective.croppingimagefield, 0.1beta, Provides an image field that can crop, zoom or scale an image instead of just scaling it, 2009-07-21T01:06:40+0000
+/project/hprose/, hprose, 1.4.3, Hprose is a High Performance Remote Object Service Engine., 2015-03-23T05:58:35+0000
+/project/speedtest-cli/, speedtest-cli, 2.1.3, Command line interface for testing internet bandwidth using speedtest.net, 2021-04-08T13:51:32+0000
+/project/pssh/, pssh, 2.3.1, Parallel version of OpenSSH and related tools, 2012-02-02T16:19:19+0000
+/project/cherrybase/, cherrybase, 0.6.1, Wrapper around CherryPy, 2018-03-29T07:44:24+0000
+/project/pgpxmlrpc/, pgpxmlrpc, 1.2.3, PGP-encrypted transport for XML-RPC protocol, 2017-06-25T08:00:52+0000
+/project/products-ploneglossary/, Products.PloneGlossary, 1.7.3, Highlight Plone content terms, mouseover shows the term definition as tooltip., 2017-04-11T15:54:03+0000
+/project/minivect/, minivect, 0.1, Compiler backend for array expressions, 2012-10-13T18:50:26+0000
+/project/macfsevents/, MacFSEvents, 0.8.1, Thread-based interface to file system observation primitives., 2018-02-21T11:40:45+0000
+/project/clips6/, clips6, 0.1, CLIPS Expert System wrapper for the Python, 2017-03-05T00:21:50+0000
+/project/simplegeneric/, simplegeneric, 0.8.1, Simple generic functions (similar to Python's own len(), pickle.dump(), etc.), 2012-04-01T21:39:04+0000
+/project/capitalism/, Capitalism, 0.2.50, A module for dispatching jobs, 2019-07-24T06:27:48+0000
+/project/ujson1/, ujson1, 1.36, Ultra fast JSON encoder and decoder for Python, 2020-08-13T15:27:08+0000
+/project/cisco-ssapi/, cisco_ssapi, 1.0dev, Python API and CLI access to Cisco's SSAPI, 2011-02-11T19:38:47+0000
+/project/haufe-requestmonitoring/, haufe.requestmonitoring, 0.5.1, Zope 2 request monitoring, 2018-04-03T08:25:45+0000
+/project/easycolor/, easycolor, 0.1, Terminal colors made easy!, 2016-12-28T01:23:27+0000
+/project/pygalib/, pygalib, 0.1.0, A simple and easy-to-use genetic algorithm library, 2015-10-25T03:54:37+0000
+/project/subtypes/, subtypes, 0.1.19, types with new or removed constraints/properties, 2011-01-30T10:40:59+0000
+/project/django-factory-generator/, django-factory-generator, 1.0.4, Generate Model Factory (factory_boy) for each model of your Django app, 2020-02-18T14:55:41+0000
+/project/zbase62/, zbase62, 1.2.0, encode data into base-62 encoding, 2010-11-10T17:31:11+0000
+/project/picka/, picka, 1.0.1, Picka generates randomized, realistic testing data for use in any application., 2016-09-01T16:01:24+0000
+/project/bigsuds/, bigsuds, 1.0.6, Library for F5 Networks iControl API, 2017-11-13T20:06:31+0000
+/project/django-pdf-generator/, django_pdf_generator, 0.1.3, Generate PDF from HTML with django, 2017-01-19T09:43:24+0000
+/project/sudz/, sudz, 1.0.3, Lightweight SOAP client, 2018-03-21T16:19:35+0000
+/project/zopehealthwatcher/, ZopeHealthWatcher, 0.9.0, ZopeHealthWatcher allows you to monitor and debug the threads of a Zope application., 2016-01-03T12:33:20+0000
+/project/pinax/, Pinax, 0.9a2, Pinax is an open-source collection of re-usable apps for the Django Web Framework, 2011-11-29T20:11:27+0000
+/project/pyasn1/, pyasn1, 0.4.8, ASN.1 types and codecs, 2019-11-16T17:27:11+0000
+/project/reqlint/, reqlint, 0.2.1, Utility to ensure all requirements are pinned., 2016-10-24T18:15:09+0000
+/project/hidraw/, hidraw, 0.1, hidraw Linux module, 2010-02-21T18:27:53+0000
+/project/timer2/, timer2, 0.1.0, timer2 - Scheduler for Python functions., 2010-08-05T20:20:14+0000
+/project/openobject-library/, openobject-library, 2.0.3, Web Services library OpenObject Framework, 2013-03-01T10:01:59+0000
+/project/compose/, compose, 1.1.1, The classic ``compose``, with all the Pythonic features., 2020-04-21T05:23:08+0000
+/project/jsl10n/, jsl10n, 1.1, , 2010-02-10T21:44:54+0000
+/project/setuptools-darcs/, setuptools_darcs, 1.2.11, setuptools plugin for darcs, 2010-05-31T03:46:32+0000
+/project/python-hglib/, python-hglib, 2.6.2, Mercurial Python library, 2020-11-17T18:36:17+0000
+/project/extract-values/, extract-values, 1.0, A Python module for extracting values out of a string using a simple pattern instead of a regular expression., 2012-10-10T16:08:12+0000
+/project/pyaeso/, pyaeso, 0.7, Pythonic access to the Alberta (Canada) Electric System Operator (AESO) Energy Trading System (ETS)., 2011-12-28T08:23:56+0000
+/project/virtualenvwrapper-tmpenv/, virtualenvwrapper.tmpenv, 1.0, Temporary virtualenvs are automatically deleted when deactivated, 2011-04-16T20:52:51+0000
+/project/cobs/, cobs, 1.1.4, Consistent Overhead Byte Stuffing (COBS), 2020-05-20T01:53:12+0000
+/project/zest-commentcleanup/, zest.commentcleanup, 1.6, Quickly remove lots of spam comments from your Plone Site, 2013-05-13T12:56:11+0000
+/project/nose2-cov/, nose2-cov, 1.0a4, nose2 plugin for coverage reporting, including subprocesses and multiprocessing, 2012-05-12T01:57:08+0000
+/project/dirq/, dirq, 1.7.1, Directory based queue, 2016-02-29T08:55:17+0000
+/project/logging-tree/, logging_tree, 1.9, Introspect and display the logger tree inside "logging", 2021-04-10T10:08:26+0000
+/project/snmpfwd/, snmpfwd, 0.4.4, SNMP Proxy Forwarder can act as an application-level firewall, 2018-12-30T17:22:56+0000
+/project/dj-wkhtmltopdf/, dj-wkhtmltopdf, 1.0.2, Converting Html to Pdf using wkhtmltopdf., 2015-05-18T11:38:34+0000
+/project/sanitize/, sanitize, 2014.10.7, Bringing sanitiy to world of messed-up data, 2014-10-07T18:55:30+0000
+/project/ujson-bedframe/, ujson-bedframe, 1.33.0, Ultra fast JSON encoder and decoder for Python, 2014-01-24T05:26:25+0000
+/project/dabble/, dabble, 0.2.3, Simple A/B testing framework, 2011-10-26T15:37:34+0000
+/project/magentouch/, magentouch, 1.0, Magento Soup v2 suds client, 2015-05-20T06:36:39+0000
+/project/products-extrememanagement/, Products.eXtremeManagement, 2.1, Project administration which supports the eXtreme Programming methodology., 2016-08-01T06:50:10+0000
+/project/github2/, github2, 0.6.2, GitHub API v2 library for Python., 2012-06-11T12:49:02+0000
+/project/python-cli/, python-cli, 1.2, A toolkit for CLI construction, 2011-08-25T08:41:42+0000
+/project/brasil-vocab/, brasil.vocab, 0.8, Basic Brazilian vocabularies for Python, 2011-12-21T00:54:04+0000
+/project/nose-cover3/, nose-cover3, 0.1.0, Coverage 3.x support for Nose, 2011-09-13T14:21:39+0000
+/project/products-addremovewidget/, Products.AddRemoveWidget, 1.5.2, AddRemoveWidget + ComboBoxWidget for Plone, 2017-01-31T11:13:22+0000
+/project/egenix-pyopenssl/, egenix-pyopenssl, 0.13.16, eGenix pyOpenSSL Distribution for Python, 2016-11-11T10:00:02+0000
+/project/distribute/, distribute, 0.7.3, distribute legacy wrapper, 2013-07-05T17:53:04+0000
+/project/thulac/, thulac, 0.2.1, An efficient Chinese text segmentation tool, 2019-11-14T08:04:01+0000
+/project/importlib-no-failure/, importlib-no-failure, 1.0.2, Backport of importlib.import_module() from Python 2.7, 2013-03-16T21:18:03+0000
+/project/pytaskpool/, pytaskpool, 1.1, A simple multiprocessing function pool, 2015-01-07T09:30:52+0000
+/project/messaging/, messaging, 1.1, Messaging related modules, 2016-01-05T08:43:05+0000
+/project/seo-meow/, seo-meow, 0.1, A simple Django app to manage basic SEO tags., 2016-08-31T11:09:04+0000
+/project/prat-gevent/, prat-gevent, 0.13.6, Prat fork of Denis Beilenko's Python network library that uses greenlet and libevent for easy and scalable concurrency, 2012-11-16T00:38:43+0000
+/project/monthdelta/, MonthDelta, 0.9.1, date computations with months, 2009-04-23T03:14:36+0000
+/project/mtb/, mtb, 0.1.0, MyToolBox - collection of tools to be shared across modules, 2013-03-01T13:01:50+0000
+/project/sqlanydb/, sqlanydb, 1.0.11, pure Python SQL Anywhere database interface, 2021-03-04T00:40:52+0000
+/project/grasp/, grasp, 0.3.2, Useful introspection tools., 2013-04-24T10:56:11+0000
+/project/numconv/, numconv, 2.1.1, Python library to convert strings to numbers and numbers to strings., 2010-06-06T18:02:56+0000
+/project/listparser/, listparser, 0.18, Parse OPML, FOAF, and iGoogle subscription lists., 2015-04-21T21:54:28+0000
+/project/pathfix-py/, pathfix.py, 0.6.2, Translate OS X / Windows file URLs to directory paths, 2013-01-16T11:54:02+0000
+/project/mprop/, mprop, 0.16.0, Module properties for Python, 2019-02-01T05:08:37+0000
+/project/python-bogus-project-honeypot/, python-bogus-project-honeypot, 1531939498.3, Useless bogus project honeypot, 2018-07-18T18:45:17+0000
+/project/kitchen/, kitchen, 1.2.6, Kitchen contains a cornucopia of useful code, 2019-05-14T19:52:35+0000
+/project/sqlalchemy-sqlany/, sqlalchemy_sqlany, 1.0.3, SAP Sybase SQL Anywhere dialect for SQLAlchemy, 2018-05-07T14:22:03+0000
+/project/pyreboot/, Pyreboot, 1.0, small python library, that allow developers to rebootpower off, others..  a computer as easy as it sounds, 2017-01-04T04:48:32+0000
+/project/pmw/, Pmw, 2.0.1, , 2015-03-22T23:12:35+0000
+/project/c3linearize/, C3Linearize, 0.1.0, Python implementation of the C3 linearization algorithm., 2011-04-11T13:46:25+0000
+/project/progressbar33/, progressbar33, 2.4, Text progress bar library for Python., 2014-08-29T08:37:57+0000
+/project/cmdopt/, Cmdopt, 0.2.0, pretty good command-line option parser, 2011-12-13T13:54:15+0000
+/project/easy-xml/, easy-xml, 0.5.0, EasyXML is a simple object representation of an XML document., 2018-10-30T02:28:15+0000
+/project/let/, let, 1.0.1, Assign variables wherever, whenever you want., 2016-02-26T03:08:43+0000
+/project/bbfreeze/, bbfreeze, 1.1.3, create standalone executables from python scripts, 2014-01-20T22:52:06+0000
+/project/komodo-python-dbgp/, komodo-python-dbgp, 11.0, The ActiveState Komodo DBGP server, 2017-10-04T10:08:38+0000
+/project/stringchain/, stringchain, 0.9.8, efficient management of strings that are produced and consumed in chunks, 2012-09-16T17:21:35+0000
+/project/rpyc-op/, rpyc-op, 3.2.1-openproximity, Remote Python Call (RPyC), a transparent and symmetric RPC library modified for OpenProximity, 2011-10-18T16:47:30+0000
+/project/dm-saml2/, dm.saml2, 3.2.2, SAML2 support based on PyXB, 2019-02-25T19:32:54+0000
+/project/smhasher/, smhasher, 0.150.1, Python extension for smhasher hash functions, 2013-12-03T22:56:59+0000
+/project/pytextmagicsms/, PyTextMagicSMS, 0.2, TextMagic SMS API, 2015-06-14T15:45:01+0000
+/project/morphine-maker/, morphine-maker, 2.0.2, Morphine is GUI python framework that empowers you to create a setup.py in approx 4 - 5 mins, 2018-11-11T23:29:05+0000
+/project/gocept-fssyncz2/, gocept.fssyncz2, 1.7, zope.app.fssync integration for Zope2, 2018-09-19T10:55:32+0000
+/project/assertlib/, assertlib, 0.3.2, assertlib is a standalone library of assertion methods., 2016-09-06T21:32:51+0000
+/project/django-pip-starter/, django-pip-starter, 1.0.3, Useful tool for quickstarting django projects. It creates virtual environment and preconfigured django project, 2012-03-05T16:50:45+0000
+/project/smug/, smug, 0.6b1, smugly superior to wikis, 2009-07-14T21:10:17+0000
+/project/columnize/, columnize, 0.3.10, Format a simple (i.e. not nested) list into aligned columns., 2020-04-17T01:33:37+0000
+/project/simpleencode/, simpleencode, 1.0.0, simple encode decode with a private key, based on the base64 encode and decode., 2010-04-16T20:16:54+0000
+/project/gnosis-utils/, Gnosis_Utils, 1.2.2, Modules and Utilities for XML Documents and Other Miscellany, 2015-02-25T05:10:29+0000
+/project/diff-match-patch-cython/, diff-match-patch-cython, 20121119, The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchronizing plain text., 2016-01-10T22:59:52+0000
+/project/sourcecodegen/, sourcecodegen, 0.6.14, A Python source-code generator based on the ``compiler.ast`` abstract syntax tree., 2011-05-19T09:05:16+0000
+/project/mk-recipe-pip/, mk.recipe.pip, 0.3, Use pip from buildout, 2013-05-08T07:36:18+0000
+/project/django-config/, django-config, 0.1.4, An architecture for maintaining multiple settings files in Django, 2010-11-30T16:09:53+0000
+/project/pychoose/, pychoose, 0.1.4, Windows command-line tool to switch between different installed versions of Python., 2009-11-12T12:33:22+0000
+/project/seshat/, Seshat, 0.3.1, Sessioned chat system linking Ajax web interfaces with internal Jabber services, 2011-06-06T19:34:43+0000
+/project/htmllaundry/, htmllaundry, 2.2, Simple HTML cleanup utilities, 2020-01-28T16:45:27+0000
+/project/pysmb/, pysmb, 1.2.6, pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines, 2020-12-09T06:44:23+0000
+/project/collective-flowplayer-toolbar/, collective.flowplayer_toolbar, 1.0.0, A Plone module which add an accessible Javascript controlsbar to collective.flowplayer, 2011-09-28T12:03:36+0000
+/project/unittest2/, unittest2, 1.1.0, The new features in unittest backported to Python 2.4+., 2015-06-30T06:48:25+0000
+/project/gearman/, gearman, 2.0.2, Gearman API - Client, worker, and admin client interfaces, 2011-01-11T22:01:22+0000
+/project/jsonutil/, jsonutil, 1.0.3, a wrapper around simplejson which deserializes decimals to Decimal instead of to float, 2010-11-22T20:06:28+0000
+/project/adm/, adm, 0.1a0, Active Data Mapping, Pre-Alpha Release, 2012-08-13T12:29:45+0000
+/project/snmpclitools/, snmpclitools, 0.6.4, SNMP command-line tools, 2019-08-11T10:16:16+0000
+/project/crcmod/, crcmod, 1.7, CRC Generator, 2010-06-27T12:35:27+0000
+/project/hailstorm/, hailstorm, 1.0.0, A Python templating library in the style of Jinja2 and Django templates featuring the full power of Python in the expressions that can be embedded in the template files. Hailstorm was extracted from the templating code that is part of Tornado Web Server framework published by Facebook., 2013-02-24T14:47:49+0000
+/project/awake/, awake, 1.0, Command and library to wake on lan a remote host., 2012-12-14T07:07:25+0000
+/project/gameclock/, gameclock, 5.1, The Gameclock, 2016-09-04T23:58:10+0000
+/project/kitchen/, kitchen, 1.2.6, Kitchen contains a cornucopia of useful code, 2019-05-14T19:52:35+0000
+/project/sqlalchemy-sqlany/, sqlalchemy_sqlany, 1.0.3, SAP Sybase SQL Anywhere dialect for SQLAlchemy, 2018-05-07T14:22:03+0000
+/project/pyreboot/, Pyreboot, 1.0, small python library, that allow developers to rebootpower off, others..  a computer as easy as it sounds, 2017-01-04T04:48:32+0000
+/project/pmw/, Pmw, 2.0.1, , 2015-03-22T23:12:35+0000
+/project/pinax-designer-theme/, pinax-designer-theme, 0.1a1.dev1, Pinax Designer Theme is a designer framework of django HTML(5) templates and Less.js CSS files, including a CSS grid, for Pinax., 2010-12-17T11:52:24+0000
+/project/collective-sortmyfolder/, collective.sortmyfolder, 1.0.7, Reveal some not-so-hidden Plone feature for sorting your folders, 2014-04-08T07:39:06+0000
+/project/pyinotify/, pyinotify, 0.9.6, Linux filesystem events monitoring, 2015-06-04T15:50:22+0000
+/project/argparse/, argparse, 1.4.0, Python command-line parsing library, 2015-09-12T20:22:12+0000
+/project/pyazure/, pyazure, 0.2.2, Python wrapper around Windows Azure storage and management REST APIs, 2012-01-28T22:37:08+0000
+/project/suds-aop/, suds-aop, 0.6.1, Lightweight SOAP client (aop's fork), 2016-06-30T10:13:33+0000
+/project/suds2/, suds2, 0.7.1, Lightweight SOAP client (Suds fork), 2018-01-05T17:49:32+0000
+/project/dtperiod/, dtperiod, 0.1.1, provide datetime Period object, 2017-11-24T04:34:07+0000
+/project/nimp/, nimp, 0.9.2, Nested Imports for Python, 2011-06-15T14:53:28+0000
+/project/progressbar-latest/, progressbar-latest, 2.4, Text progress bar library for Python., 2013-06-03T16:45:59+0000
+/project/ujson-x-legacy/, ujson-x-legacy, 1.35.1, Ultra fast JSON encoder and decoder for Python, 2019-03-18T12:56:14+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/nose-cov/, nose-cov, 1.6, nose plugin for coverage reporting, including subprocesses and multiprocessing, 2012-09-01T06:23:43+0000
+/project/mk-recipe-modwsgi/, mk.recipe.modwsgi, 0.1, WSGI from buildout, 2013-05-02T21:58:39+0000
+/project/clientform/, ClientForm, 0.2.10, Client-side HTML form handling., 2008-12-03T23:18:39+0000
+/project/suds-jurko/, suds-jurko, 0.6, Lightweight SOAP client (Jurko's fork), 2014-01-24T16:34:48+0000
+/project/versiontools/, versiontools, 1.9.1, Smart replacement for plain tuple used in __version__, 2012-03-13T01:24:01+0000
+/project/python-net-evi-agent/, python-net_evi_agent, 1.0.0, An openstack multi_tenant network isolation evidence gathering module, 2016-08-07T03:43:02+0000
+/project/setuptools-bzr/, setuptools_bzr, 2.2, setuptools plugin for bzr, 2014-01-09T23:21:57+0000
+/project/dm-xmlsec-pyxb/, dm.xmlsec.pyxb, 1.1, Tiny wrapper around the 'wssplat' bundle of 'pyxb' for XML-Signature and XML-Encryption -- obsolete., 2012-07-02T12:30:55+0000
+/project/mr-inquisition/, mr.inquisition, 0.2, A package to help with exploring a Plone site., 2015-08-04T10:47:25+0000
+/project/gearman3/, gearman3, 0.2.0, A Python 3 fork of the Gearman API - Client, worker, and admin client interfaces, 2020-03-01T18:12:33+0000
+/project/setuptools-pyflakes/, setuptools_pyflakes, 1.1.0, setuptools plugin for pyflakes, 2012-07-11T15:30:09+0000
+/project/pythonbrew/, pythonbrew, 1.3.6, Manage python installations in your $HOME, 2015-06-20T12:31:33+0000
+/project/einsteinium/, Einsteinium, 0.0.4, Python ANSI Shortcut, 2018-06-22T19:18:50+0000
+/project/bigsuds-with-jork/, bigsuds-with-jork, 1.0.2, Library for F5 Networks iControl API. This fork uses jorks suds fork, 2015-10-19T13:14:21+0000
+/project/bp-pysnmp/, bp-pysnmp, 4.4.3, SNMP library for Python, 2020-01-22T23:08:00+0000
+/project/erp5-appliance-test/, erp5.appliance.test, 2.14, ERP5 Appliance testing system, 2011-01-24T12:01:52+0000
+/project/diaper/, diaper, 1.3, Python Diaper, 2016-01-21T18:27:00+0000
+/project/dicksonui/, DicksonUI, 2.4.5, Lightweight And Full Featured Browser Based UI / GUI (Graphical User Interface Library), 2020-10-16T13:10:48+0000
+/project/suds-jurko/, suds-jurko, 0.6, Lightweight SOAP client (Jurko's fork), 2014-01-24T16:34:48+0000
+/project/versiontools/, versiontools, 1.9.1, Smart replacement for plain tuple used in __version__, 2012-03-13T01:24:01+0000
+/project/python-net-evi-agent/, python-net_evi_agent, 1.0.0, An openstack multi_tenant network isolation evidence gathering module, 2016-08-07T03:43:02+0000
+/project/setuptools-bzr/, setuptools_bzr, 2.2, setuptools plugin for bzr, 2014-01-09T23:21:57+0000
+/project/aoikwinwhich/, AoikWinWhich, 0.1.0, Find where executables are located given a name or a path on Windows console. Does what the "which" program does on Linux, only better because it thinks the way Windows console thinks by considering PATH as well as PATHEXT., 2014-10-11T09:35:07+0000
+/project/templer-zope/, templer.zope, 1.0b2, Templer system extensions for zope, 2012-05-20T21:53:42+0000
+/project/django-simple-news/, django-simple-news, 1.1, News application for Django project, 2010-07-03T14:14:11+0000
+/project/argonaut/, Argonaut, 0.3.4, Lightweight Pylons powered blogging engine., 2011-03-30T13:35:10+0000
+/project/oktest/, Oktest, 0.15.2, a new-style testing library, 2015-10-20T09:05:15+0000
+/project/collective-mcp/, collective.mcp, 0.5, Macish Control Panel for Plone., 2015-08-26T22:59:31+0000
+/project/dm-xmlsec-pyxb/, dm.xmlsec.pyxb, 1.1, Tiny wrapper around the 'wssplat' bundle of 'pyxb' for XML-Signature and XML-Encryption -- obsolete., 2012-07-02T12:30:55+0000
+/project/nagii/, nagii, 0.1.3, A straightforward Nagios modelling library, 2011-05-17T06:48:09+0000
+/project/eureeka/, eureeka, 0.1, EUREEKA knowledge store, inference engine and scripts, 2010-08-19T14:23:13+0000
+/project/leveldb/, leveldb, 0.201, Python bindings for leveldb database library, 2019-12-09T01:31:12+0000
+/project/uncompyle6/, uncompyle6, 3.7.4, Python cross-version byte-code decompiler, 2020-09-05T10:14:37+0000
+/project/xdis/, xdis, 5.0.9, Python cross-version byte-code disassembler and marshal routines, 2021-04-17T00:07:21+0000
+/project/pysnmpcrypto/, pysnmpcrypto, 0.0.4, Strong cryptography support for PySNMP (SNMP library for Python), 2018-12-29T23:06:41+0000
+/project/ptable/, PTable, 0.9.2, A simple Python library for easily displaying tabular data in a visually appealing ASCII table format, 2015-05-28T07:06:19+0000
+/project/mr-inquisition/, mr.inquisition, 0.2, A package to help with exploring a Plone site., 2015-08-04T10:47:25+0000
+/project/gearman3/, gearman3, 0.2.0, A Python 3 fork of the Gearman API - Client, worker, and admin client interfaces, 2020-03-01T18:12:33+0000
+/project/setuptools-pyflakes/, setuptools_pyflakes, 1.1.0, setuptools plugin for pyflakes, 2012-07-11T15:30:09+0000
+/project/pythonbrew/, pythonbrew, 1.3.6, Manage python installations in your $HOME, 2015-06-20T12:31:33+0000
+/project/einsteinium/, Einsteinium, 0.0.4, Python ANSI Shortcut, 2018-06-22T19:18:50+0000
+/project/bigsuds-with-jork/, bigsuds-with-jork, 1.0.2, Library for F5 Networks iControl API. This fork uses jorks suds fork, 2015-10-19T13:14:21+0000
+/project/bp-pysnmp/, bp-pysnmp, 4.4.3, SNMP library for Python, 2020-01-22T23:08:00+0000
+/project/pipsec/, pipsec, 0.0.1.dev2, Security-hardened pip installer, 2017-09-18T14:46:26+0000
+/project/collective-customizablepersonalizeform/, collective.customizablePersonalizeForm, 2.0, Customizable personalize form for Plone, 2011-09-08T08:35:07+0000
+/project/collective-ordereddict/, collective.ordereddict, 0.1, Ordered Dictionary for Python 2.4 or later, 2009-08-25T11:33:44+0000
+/project/gbif/, gbif, 0.1.0, Basic and experimental Gbif Taxon API library for Python, 2011-07-10T21:01:05+0000
+/project/pymstache/, pymstache, 0.5.3, Mustache for Python, 2013-06-05T17:35:45+0000
+/project/vimpdb/, vimpdb, 0.4.5, Vim and Pdb integration, 2011-04-27T23:30:53+0000
+/project/anavnet/, anavnet, 0.0.4, Client library to the AnavNet website, which provides the current warnings from the Portuguese maritime ports, 2018-08-28T21:48:57+0000
+/project/jsonwidget/, jsonwidget, 0.1.7, jsonwidget is a general-purpose JSON validation and manipulation, and form-building library for terminal windows and web pages, 2010-04-22T06:03:16+0000
+/project/automa/, automa, 0.1.21, Scripting automation utility, 2011-05-24T09:33:41+0000
+/project/regnupg/, regnupg, 0.4.4, A wrapper for the Gnu Privacy Guard (GPG or GnuPG), 2017-11-29T06:42:17+0000
+/project/pinax-designer-theme/, pinax-designer-theme, 0.1a1.dev1, Pinax Designer Theme is a designer framework of django HTML(5) templates and Less.js CSS files, including a CSS grid, for Pinax., 2010-12-17T11:52:24+0000
+/project/collective-sortmyfolder/, collective.sortmyfolder, 1.0.7, Reveal some not-so-hidden Plone feature for sorting your folders, 2014-04-08T07:39:06+0000
+/project/blinker-async/, blinker-async, 0.0.3, Fast, Async simple object-to-object and broadcast signaling, 2020-09-23T03:48:20+0000
+/project/pyinotify/, pyinotify, 0.9.6, Linux filesystem events monitoring, 2015-06-04T15:50:22+0000
+/project/argparse/, argparse, 1.4.0, Python command-line parsing library, 2015-09-12T20:22:12+0000
+/project/pyazure/, pyazure, 0.2.2, Python wrapper around Windows Azure storage and management REST APIs, 2012-01-28T22:37:08+0000
+/project/suds-aop/, suds-aop, 0.6.1, Lightweight SOAP client (aop's fork), 2016-06-30T10:13:33+0000
+/project/suds2/, suds2, 0.7.1, Lightweight SOAP client (Suds fork), 2018-01-05T17:49:32+0000
+/project/dtperiod/, dtperiod, 0.1.1, provide datetime Period object, 2017-11-24T04:34:07+0000
+/project/nimp/, nimp, 0.9.2, Nested Imports for Python, 2011-06-15T14:53:28+0000
+/project/progressbar-latest/, progressbar-latest, 2.4, Text progress bar library for Python., 2013-06-03T16:45:59+0000
+/project/ujson-x-legacy/, ujson-x-legacy, 1.35.1, Ultra fast JSON encoder and decoder for Python, 2019-03-18T12:56:14+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/nose-cov/, nose-cov, 1.6, nose plugin for coverage reporting, including subprocesses and multiprocessing, 2012-09-01T06:23:43+0000
+/project/mk-recipe-modwsgi/, mk.recipe.modwsgi, 0.1, WSGI from buildout, 2013-05-02T21:58:39+0000
+/project/clientform/, ClientForm, 0.2.10, Client-side HTML form handling., 2008-12-03T23:18:39+0000

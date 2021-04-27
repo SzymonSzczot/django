@@ -1,0 +1,210 @@
+/project/pysqlite/, pysqlite, 2.8.3, DB-API 2.0 interface for SQLite 3.x, 2016-08-30T21:38:00+0000
+/project/indexed-gzip/, indexed-gzip, 1.5.3, Fast random access of gzip files in Python, 2021-03-23T11:59:39+0000
+/project/box2d-kengz/, Box2D-kengz, 2.3.3, Python Box2D, 2017-04-11T23:22:42+0000
+/project/python-networkmanager/, python-networkmanager, 2.2, Easy communication with NetworkManager, 2021-01-16T13:59:52+0000
+/project/pysqlcipher/, pysqlcipher, 2.6.10, DB-API 2.0 interface for SQLCIPHER 3.x, 2017-04-13T18:56:17+0000
+/project/astc-codec/, astc-codec, 1.0.2, ASTC decoder for PIL, 2019-10-02T22:18:26+0000
+/project/python-openctm-nightly/, python-openctm-nightly, 1.1.1, Pure Python Interface for the OpenCTM File Format (nightly), 2020-06-15T11:59:27+0000
+/project/pyglm/, PyGLM, 2.1.0, OpenGL Mathematics library for Python, 2021-04-13T18:51:08+0000
+/project/etcpack/, etcpack, 1.0.2, , 2020-02-01T15:29:45+0000
+/project/pyrbdl/, pyrbdl, 0.0.2, RBDL python bindings (pybind11), 2020-09-29T22:24:41+0000
+/project/npgameworld/, npgameworld, 0.1.0, Simple pure python game engine, 2017-10-18T18:33:27+0000
+/project/bbfreeze-loader/, bbfreeze-loader, 1.1.0, provide binary loaders for bbfreeze, 2013-04-09T23:49:48+0000
+/project/macos-display/, macos-display, 1.1.3, Retrieve information about macOS displays, 2021-02-01T14:01:52+0000
+/project/pamphlet/, pamphlet, 1.3, Linux PAM bindings for python, 2018-04-15T20:21:33+0000
+/project/django-quicky/, django-quicky, 0.7.3, A collection of tools to make setting up Django quicker., 2019-10-30T09:06:39+0000
+/project/certbot-dns-vultr/, certbot-dns-vultr, 1.0.3, Vultr DNS authenticator plugin for Certbot, 2020-09-30T10:18:34+0000
+/project/jtypes-jep/, jtypes.jep, 3.8.2a2, Java Embedded Python (ctypes/cffi-based Jep), 2018-11-14T07:39:54+0000
+/project/swigbullet/, swigbullet, 2.79-1, python binding of bullet by swig, 2012-01-27T02:35:39+0000
+/project/sqlcipher3-binary/, sqlcipher3-binary, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:19:34+0000
+/project/django-modeler/, django-modeler, 0.10, Generate django ORM code from object instances (great for testing), 2019-12-06T17:58:00+0000
+/project/zup/, zup, 0.1.6, Zig compiler multiplexer, 2020-10-01T09:18:38+0000
+/project/sdl2hl/, sdl2hl, 0.3.5, A Pythonic API wrapper for SDL2., 2017-05-06T17:20:41+0000
+/project/slim/, slim, 0.6.2, A Web framework provides instant restful api for your database., 2020-09-17T06:34:36+0000
+/project/pywave/, PyWave, 0.5.0, Open, read and write Wave files, 2021-03-14T07:33:02+0000
+/project/varenv/, varenv, 1.0.7, A easy why to mock your production environment variables during development in your project, 2021-02-26T13:35:12+0000
+/project/batbelt/, batbelt, 0.5.2, A collection of gagdets that makes Python even more powerful., 2013-11-23T21:14:46+0000
+/project/whelk/, whelk, 3.0, Easy access to shell commands from python, 2020-10-30T11:37:11+0000
+/project/motion-imitation/, motion-imitation, 0.0.6, Motion Imitation and MPC with python bindings for MPC using the osqp solver, 2021-03-23T00:31:49+0000
+/project/sfml/, sfml, 2.3.2.dev1, Python bindings for SFML, 2018-10-25T13:12:47+0000
+/project/statar/, statar, 0.8.1, File attribute archiver utility, 2019-11-11T15:33:31+0000
+/project/slownie/, slownie, 1.1.2, Polish spelled-out numbers and amounts., 2020-10-18T05:21:33+0000
+/project/poezio/, poezio, 0.13.1, A console XMPP client, 2020-05-31T15:58:49+0000
+/project/pylichat/, pylichat, 1.3, A library for the Lichat protocol, 2021-04-07T10:31:11+0000
+/project/pybgapi/, pybgapi, 1.0.0, Python interface for the BGAPI binary protocol, 2021-04-19T14:22:05+0000
+/project/pymeshio/, pymeshio, 3.0.1, 3d model io library for mqo, pmd, pmx, vmd and vpd, 2017-12-30T18:49:40+0000
+/project/qqt/, QQt, 1.1.1rc7, Wrapper for various PySide2/PyQt5 related packages., 2020-10-18T04:56:50+0000
+/project/sqlite3ct/, sqlite3ct, 0.0.1, An implementation of the sqlite3 module using ctypes., 2019-11-19T13:16:56+0000
+/project/python-openal/, python-openal, 0.4.0, Python OpenAL bindings, 2019-12-26T03:46:29+0000
+/project/annotate/, annotate, 1.0.15, Decorator to set a function's __annotations__ like Py3., 2020-10-18T03:35:30+0000
+/project/mahdiyeh-mbca/, mahdiyeh-mbca, 0.0.2, Azadeh Afzar - Mahdiyeh Mano Basic Computer Assembler, 2019-10-19T17:44:55+0000
+/project/jep/, jep, 3.9.1, Jep embeds CPython in Java, 2020-10-04T15:21:27+0000
+/project/snack/, snack, 0.0.3, Stochastic Neighbor and Crowd Kernel (SNaCK) embeddings: Quick and dirty visualization of large-scale datasets via concept embeddings, 2015-09-22T17:43:02+0000
+/project/pysdl2/, PySDL2, 0.9.7, Python SDL2 bindings, 2020-02-15T12:02:21+0000
+/project/winput/, winput, 1.2.2, Capture and send keyboard and mouse input, 2020-08-28T13:30:07+0000
+/project/adhocracy-pysqlite/, adhocracy-pysqlite, 2.6.3, DB-API 2.0 interface for SQLite 3.x, 2013-10-26T14:21:38+0000
+/project/crc-ct/, crc-ct, 1.1.0rc3, C and Python CRC calculations module., 2020-10-18T03:55:10+0000
+/project/bl3-cli-saveedit/, bl3-cli-saveedit, 1.12.0, Borderlands 3 Savegame Editor, 2021-04-11T20:19:20+0000
+/project/markdownmaker/, markdownmaker, 0.3.3, An easy-to-use Python to Markdown generator., 2020-10-28T20:14:05+0000
+/project/pysqlite3/, pysqlite3, 0.4.6, DB-API 2.0 interface for Sqlite 3.x, 2021-04-06T12:58:04+0000
+/project/apnggif/, apnggif, 0.1.1, Python interface to apng2gif, 2020-09-06T11:09:02+0000
+/project/enumagic/, enumagic, 0.1.1, Enums infused with magic., 2020-12-29T12:57:44+0000
+/project/pass-pls/, pass-pls, 1.0.4, A GTK-based implementation of ssh-askpass, 2020-09-30T10:13:50+0000
+/project/condiment/, condiment, 0.6, Conditionally include code according to environment variables, 2016-05-22T10:56:18+0000
+/project/lex2/, lex2, 0.9.3, Flexible, ruleset-based tokenizer using regex., 2021-04-19T20:19:21+0000
+/project/indexed-gzip-fileobj-fork-epicfaace/, indexed-gzip-fileobj-fork-epicfaace, 1.4.1, Fast random access of gzip files in Python, 2021-02-11T03:15:53+0000
+/project/kkcalc/, kkcalc, 0.8.1, A calculator for the Kramers Kronig transform of X-ray spectra, 2019-03-17T21:36:13+0000
+/project/pysqlcipher3/, pysqlcipher3, 1.0.4, DB-API 2.0 interface for SQLCIPHER 3.x, 2021-04-24T22:17:34+0000
+/project/pypybox2d/, pypybox2d, 2.1-r331, Pure Python 2D Physics, 2013-02-10T16:44:37+0000
+/project/pyrocket/, pyrocket, 0.2.9, Rocket sync-tracker client, 2020-05-10T00:09:38+0000
+/project/ccfreeze/, ccfreeze, 1.1.5, create standalone executables from python scripts, 2016-05-22T09:21:10+0000
+/project/pysqlite3-binary/, pysqlite3-binary, 0.4.6, DB-API 2.0 interface for Sqlite 3.x, 2021-04-06T13:05:13+0000
+/project/collect-bin-deps/, collect-bin-deps, 0.0.2, A tool to collect binary dependencies, 2020-05-17T13:15:53+0000
+/project/pyminizip/, pyminizip, 0.2.4, A minizip wrapper - To create a password encrypted zip file in python., 2019-01-11T14:32:50+0000
+/project/pyspatialite/, pyspatialite, 3.0.1-alpha-0, DB-API 2.0 interface for SQLite 3.x with Spatialite 3.0.1, 2013-11-22T19:21:48+0000
+/project/hdf5plugin/, hdf5plugin, 2.3.2, HDF5 Plugins for windows,MacOS and linux, 2020-12-15T10:31:42+0000
+/project/box2d-py/, box2d-py, 2.3.8, Python Box2D, 2018-11-17T00:50:37+0000
+/project/erfanio/, ErfanIO, 0.0.7, Simple and painless IO library, 2019-09-21T18:46:08+0000
+/project/pypiserver/, pypiserver, 1.4.2, A minimal PyPI server for use with pip/easy_install., 2020-10-10T13:17:54+0000
+/project/decrunch-unity/, decrunch-unity, 0.1.0, Python wrapper around Unity's Crunch decompressor, 2019-09-18T00:01:02+0000
+/project/ccfreeze-loader/, ccfreeze-loader, 1.1.2, provide binary loaders for ccfreeze, 2016-05-22T22:34:24+0000
+/project/wagtail-markdown/, wagtail-markdown, 0.6, Markdown support for Wagtail, 2020-02-12T16:32:48+0000
+/project/plasticscm/, plasticscm, 0.2.0a5, Python package providing access to the PlasticSCM client API., 2020-10-18T04:39:12+0000
+/project/bbfreeze/, bbfreeze, 1.1.3, create standalone executables from python scripts, 2014-01-20T22:52:06+0000
+/project/simplestrpc/, simplestRPC, 1.4.13, The easiest, cleanest and simplest way to creating interactions via RPC (Remove Procedure Call), 2018-11-03T15:09:08+0000
+/project/ndef/, ndef, 0.2, NDEF (NFC Data Exchange Format) parser and verifier, 2020-01-08T02:18:49+0000
+/project/bokeh-image-explore/, bokeh_image_explore, 1.3.0, Quickly explore large image embeddings with Bokeh, 2017-11-17T19:36:16+0000
+/project/sqlcipher3/, sqlcipher3, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:09:48+0000
+/project/memorybuffer/, memorybuffer, 0.5.0b2, Python buffer protocol., 2020-10-18T04:25:19+0000
+/project/xinput-python/, XInput-Python, 0.4.0, A simple to use interface to the XInput API for Python, 2019-11-23T15:13:43+0000
+/project/ezntfs/, ezntfs, 0.1.4, An easy-to-use wrapper for NTFS-3G on macOS, 2020-09-30T13:10:39+0000
+/project/httpshare/, httpshare, 1.0.8, Q&D file transfer utility using an ephemeral HTTP service, 2020-02-19T20:53:28+0000
+/project/c99/, C99, 1.0.7, C99 headers and libraries that are missing from the C compilers for Python2., 2020-10-18T03:49:10+0000
+/project/sdl2-cffi/, sdl2-cffi, 1.0.6, CFFI wrapper for SDL2, 2016-11-11T12:28:47+0000
+/project/dependencymanager/, dependencymanager, 1.0.0, An easy way to manage development and procution dependecies., 2020-07-29T16:07:00+0000
+/project/pympristui/, pympristui, 1.0.2, TUI MPRIS2 Control, 2021-03-03T16:24:13+0000
+/project/pysmb/, pysmb, 1.2.6, pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines, 2020-12-09T06:44:23+0000
+/project/decrunch/, decrunch, 0.4.0, Python wrapper around Crunch DXTc decompressor, 2019-04-07T02:44:50+0000
+/project/pvrtc-decoder/, pvrtc-decoder, 1.0.2, A PVRTC decoder for PIL, 2019-09-27T19:54:58+0000
+/project/mersad/, mersad, 0.0.17, Azadeh Afzar - Mersad Cryptographic Library, 2019-10-11T13:05:47+0000
+/project/nasnas/, NasNas, 0.1.3, A simple game framework to get started quickly with python and sfml., 2020-05-10T17:29:32+0000
+/project/pypiserver/, pypiserver, 1.4.2, A minimal PyPI server for use with pip/easy_install., 2020-10-10T13:17:54+0000
+/project/decrunch-unity/, decrunch-unity, 0.1.0, Python wrapper around Unity's Crunch decompressor, 2019-09-18T00:01:02+0000
+/project/ccfreeze-loader/, ccfreeze-loader, 1.1.2, provide binary loaders for ccfreeze, 2016-05-22T22:34:24+0000
+/project/bbfreeze/, bbfreeze, 1.1.3, create standalone executables from python scripts, 2014-01-20T22:52:06+0000
+/project/bokeh-image-explore/, bokeh_image_explore, 1.3.0, Quickly explore large image embeddings with Bokeh, 2017-11-17T19:36:16+0000
+/project/sqlcipher3/, sqlcipher3, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:09:48+0000
+/project/memorybuffer/, memorybuffer, 0.5.0b2, Python buffer protocol., 2020-10-18T04:25:19+0000
+/project/xinput-python/, XInput-Python, 0.4.0, A simple to use interface to the XInput API for Python, 2019-11-23T15:13:43+0000
+/project/ezntfs/, ezntfs, 0.1.4, An easy-to-use wrapper for NTFS-3G on macOS, 2020-09-30T13:10:39+0000
+/project/minibelt/, minibelt, 0.2.2, One-file utility module filled with helper functions for day to day Python programming, 2020-01-24T15:24:49+0000
+/project/libusb/, libusb, 1.0.23b7, Python binding for the libusb C library., 2020-11-19T08:44:56+0000
+/project/pycsdl2/, pycsdl2, 2.0.0.0.dev5, Simple DirectMedia Layer, 2015-10-25T16:03:05+0000
+/project/renumerate/, renumerate, 1.1.4, Reverse enumerate., 2020-10-18T05:01:31+0000
+/project/pybullet/, pybullet, 3.1.6, Official Python Interface for the Bullet Physics SDK specialized for Robotics Simulation and Reinforcement Learning, 2021-04-25T07:27:59+0000
+/project/pytinydiffsim/, pytinydiffsim, 0.0.5, Tiny Differentiable Physics Library for Robotics Simulation and Reinforcement Learning, 2021-04-26T00:47:23+0000
+/project/pytinydiffsim/, pytinydiffsim, 0.0.5, Tiny Differentiable Physics Library for Robotics Simulation and Reinforcement Learning, 2021-04-26T00:47:23+0000
+/project/pysqlite/, pysqlite, 2.8.3, DB-API 2.0 interface for SQLite 3.x, 2016-08-30T21:38:00+0000
+/project/etcpack/, etcpack, 1.0.2, , 2020-02-01T15:29:45+0000
+/project/indexed-gzip/, indexed-gzip, 1.5.3, Fast random access of gzip files in Python, 2021-03-23T11:59:39+0000
+/project/box2d-kengz/, Box2D-kengz, 2.3.3, Python Box2D, 2017-04-11T23:22:42+0000
+/project/python-networkmanager/, python-networkmanager, 2.2, Easy communication with NetworkManager, 2021-01-16T13:59:52+0000
+/project/pyrbdl/, pyrbdl, 0.0.2, RBDL python bindings (pybind11), 2020-09-29T22:24:41+0000
+/project/astc-codec/, astc-codec, 1.0.2, ASTC decoder for PIL, 2019-10-02T22:18:26+0000
+/project/npgameworld/, npgameworld, 0.1.0, Simple pure python game engine, 2017-10-18T18:33:27+0000
+/project/bbfreeze-loader/, bbfreeze-loader, 1.1.0, provide binary loaders for bbfreeze, 2013-04-09T23:49:48+0000
+/project/macos-display/, macos-display, 1.1.3, Retrieve information about macOS displays, 2021-02-01T14:01:52+0000
+/project/pysqlcipher/, pysqlcipher, 2.6.10, DB-API 2.0 interface for SQLCIPHER 3.x, 2017-04-13T18:56:17+0000
+/project/pamphlet/, pamphlet, 1.3, Linux PAM bindings for python, 2018-04-15T20:21:33+0000
+/project/django-quicky/, django-quicky, 0.7.3, A collection of tools to make setting up Django quicker., 2019-10-30T09:06:39+0000
+/project/certbot-dns-vultr/, certbot-dns-vultr, 1.0.3, Vultr DNS authenticator plugin for Certbot, 2020-09-30T10:18:34+0000
+/project/python-openctm-nightly/, python-openctm-nightly, 1.1.1, Pure Python Interface for the OpenCTM File Format (nightly), 2020-06-15T11:59:27+0000
+/project/pyglm/, PyGLM, 2.1.0, OpenGL Mathematics library for Python, 2021-04-13T18:51:08+0000
+/project/snack/, snack, 0.0.3, Stochastic Neighbor and Crowd Kernel (SNaCK) embeddings: Quick and dirty visualization of large-scale datasets via concept embeddings, 2015-09-22T17:43:02+0000
+/project/pysdl2/, PySDL2, 0.9.7, Python SDL2 bindings, 2020-02-15T12:02:21+0000
+/project/sqlcipher3-binary/, sqlcipher3-binary, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:19:34+0000
+/project/django-modeler/, django-modeler, 0.10, Generate django ORM code from object instances (great for testing), 2019-12-06T17:58:00+0000
+/project/zup/, zup, 0.1.6, Zig compiler multiplexer, 2020-10-01T09:18:38+0000
+/project/sdl2hl/, sdl2hl, 0.3.5, A Pythonic API wrapper for SDL2., 2017-05-06T17:20:41+0000
+/project/winput/, winput, 1.2.2, Capture and send keyboard and mouse input, 2020-08-28T13:30:07+0000
+/project/crc-ct/, crc-ct, 1.1.0rc3, C and Python CRC calculations module., 2020-10-18T03:55:10+0000
+/project/bl3-cli-saveedit/, bl3-cli-saveedit, 1.12.0, Borderlands 3 Savegame Editor, 2021-04-11T20:19:20+0000
+/project/markdownmaker/, markdownmaker, 0.3.3, An easy-to-use Python to Markdown generator., 2020-10-28T20:14:05+0000
+/project/pysqlite3/, pysqlite3, 0.4.6, DB-API 2.0 interface for Sqlite 3.x, 2021-04-06T12:58:04+0000
+/project/apnggif/, apnggif, 0.1.1, Python interface to apng2gif, 2020-09-06T11:09:02+0000
+/project/enumagic/, enumagic, 0.1.1, Enums infused with magic., 2020-12-29T12:57:44+0000
+/project/pywave/, PyWave, 0.5.0, Open, read and write Wave files, 2021-03-14T07:33:02+0000
+/project/varenv/, varenv, 1.0.7, A easy why to mock your production environment variables during development in your project, 2021-02-26T13:35:12+0000
+/project/batbelt/, batbelt, 0.5.2, A collection of gagdets that makes Python even more powerful., 2013-11-23T21:14:46+0000
+/project/poezio/, poezio, 0.13.1, A console XMPP client, 2020-05-31T15:58:49+0000
+/project/pylichat/, pylichat, 1.3, A library for the Lichat protocol, 2021-04-07T10:31:11+0000
+/project/pybgapi/, pybgapi, 1.0.0, Python interface for the BGAPI binary protocol, 2021-04-19T14:22:05+0000
+/project/pass-pls/, pass-pls, 1.0.4, A GTK-based implementation of ssh-askpass, 2020-09-30T10:13:50+0000
+/project/sqlite3ct/, sqlite3ct, 0.0.1, An implementation of the sqlite3 module using ctypes., 2019-11-19T13:16:56+0000
+/project/python-openal/, python-openal, 0.4.0, Python OpenAL bindings, 2019-12-26T03:46:29+0000
+/project/annotate/, annotate, 1.0.15, Decorator to set a function's __annotations__ like Py3., 2020-10-18T03:35:30+0000
+/project/jtypes-jep/, jtypes.jep, 3.8.2a2, Java Embedded Python (ctypes/cffi-based Jep), 2018-11-14T07:39:54+0000
+/project/swigbullet/, swigbullet, 2.79-1, python binding of bullet by swig, 2012-01-27T02:35:39+0000
+/project/mahdiyeh-mbca/, mahdiyeh-mbca, 0.0.2, Azadeh Afzar - Mahdiyeh Mano Basic Computer Assembler, 2019-10-19T17:44:55+0000
+/project/jep/, jep, 3.9.1, Jep embeds CPython in Java, 2020-10-04T15:21:27+0000
+/project/adhocracy-pysqlite/, adhocracy-pysqlite, 2.6.3, DB-API 2.0 interface for SQLite 3.x, 2013-10-26T14:21:38+0000
+/project/slim/, slim, 0.6.2, A Web framework provides instant restful api for your database., 2020-09-17T06:34:36+0000
+/project/whelk/, whelk, 3.0, Easy access to shell commands from python, 2020-10-30T11:37:11+0000
+/project/motion-imitation/, motion-imitation, 0.0.6, Motion Imitation and MPC with python bindings for MPC using the osqp solver, 2021-03-23T00:31:49+0000
+/project/sfml/, sfml, 2.3.2.dev1, Python bindings for SFML, 2018-10-25T13:12:47+0000
+/project/statar/, statar, 0.8.1, File attribute archiver utility, 2019-11-11T15:33:31+0000
+/project/slownie/, slownie, 1.1.2, Polish spelled-out numbers and amounts., 2020-10-18T05:21:33+0000
+/project/condiment/, condiment, 0.6, Conditionally include code according to environment variables, 2016-05-22T10:56:18+0000
+/project/lex2/, lex2, 0.9.3, Flexible, ruleset-based tokenizer using regex., 2021-04-19T20:19:21+0000
+/project/indexed-gzip-fileobj-fork-epicfaace/, indexed-gzip-fileobj-fork-epicfaace, 1.4.1, Fast random access of gzip files in Python, 2021-02-11T03:15:53+0000
+/project/kkcalc/, kkcalc, 0.8.1, A calculator for the Kramers Kronig transform of X-ray spectra, 2019-03-17T21:36:13+0000
+/project/pymeshio/, pymeshio, 3.0.1, 3d model io library for mqo, pmd, pmx, vmd and vpd, 2017-12-30T18:49:40+0000
+/project/qqt/, QQt, 1.1.1rc7, Wrapper for various PySide2/PyQt5 related packages., 2020-10-18T04:56:50+0000
+/project/pysqlcipher3/, pysqlcipher3, 1.0.4, DB-API 2.0 interface for SQLCIPHER 3.x, 2021-04-24T22:17:34+0000
+/project/pypybox2d/, pypybox2d, 2.1-r331, Pure Python 2D Physics, 2013-02-10T16:44:37+0000
+/project/pyrocket/, pyrocket, 0.2.9, Rocket sync-tracker client, 2020-05-10T00:09:38+0000
+/project/ccfreeze/, ccfreeze, 1.1.5, create standalone executables from python scripts, 2016-05-22T09:21:10+0000
+/project/pysqlite3-binary/, pysqlite3-binary, 0.4.6, DB-API 2.0 interface for Sqlite 3.x, 2021-04-06T13:05:13+0000
+/project/collect-bin-deps/, collect-bin-deps, 0.0.2, A tool to collect binary dependencies, 2020-05-17T13:15:53+0000
+/project/pyminizip/, pyminizip, 0.2.4, A minizip wrapper - To create a password encrypted zip file in python., 2019-01-11T14:32:50+0000
+/project/pyspatialite/, pyspatialite, 3.0.1-alpha-0, DB-API 2.0 interface for SQLite 3.x with Spatialite 3.0.1, 2013-11-22T19:21:48+0000
+/project/hdf5plugin/, hdf5plugin, 2.3.2, HDF5 Plugins for windows,MacOS and linux, 2020-12-15T10:31:42+0000
+/project/box2d-py/, box2d-py, 2.3.8, Python Box2D, 2018-11-17T00:50:37+0000
+/project/erfanio/, ErfanIO, 0.0.7, Simple and painless IO library, 2019-09-21T18:46:08+0000
+/project/pypiserver/, pypiserver, 1.4.2, A minimal PyPI server for use with pip/easy_install., 2020-10-10T13:17:54+0000
+/project/decrunch-unity/, decrunch-unity, 0.1.0, Python wrapper around Unity's Crunch decompressor, 2019-09-18T00:01:02+0000
+/project/pybullet/, pybullet, 3.1.6, Official Python Interface for the Bullet Physics SDK specialized for Robotics Simulation and Reinforcement Learning, 2021-04-25T07:27:59+0000
+/project/ccfreeze-loader/, ccfreeze-loader, 1.1.2, provide binary loaders for ccfreeze, 2016-05-22T22:34:24+0000
+/project/wagtail-markdown/, wagtail-markdown, 0.6, Markdown support for Wagtail, 2020-02-12T16:32:48+0000
+/project/plasticscm/, plasticscm, 0.2.0a5, Python package providing access to the PlasticSCM client API., 2020-10-18T04:39:12+0000
+/project/bbfreeze/, bbfreeze, 1.1.3, create standalone executables from python scripts, 2014-01-20T22:52:06+0000
+/project/simplestrpc/, simplestRPC, 1.4.13, The easiest, cleanest and simplest way to creating interactions via RPC (Remove Procedure Call), 2018-11-03T15:09:08+0000
+/project/ndef/, ndef, 0.2, NDEF (NFC Data Exchange Format) parser and verifier, 2020-01-08T02:18:49+0000
+/project/sqlcipher3/, sqlcipher3, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:09:48+0000
+/project/memorybuffer/, memorybuffer, 0.5.0b2, Python buffer protocol., 2020-10-18T04:25:19+0000
+/project/xinput-python/, XInput-Python, 0.4.0, A simple to use interface to the XInput API for Python, 2019-11-23T15:13:43+0000
+/project/dependencymanager/, dependencymanager, 1.0.0, An easy way to manage development and procution dependecies., 2020-07-29T16:07:00+0000
+/project/dlsym/, dlsym, 0.1, , 2021-04-06T09:59:47+0000
+/project/esdl/, esdl, 0.0.1, An extendable SDL2 wrapper., 2020-10-01T08:57:03+0000
+/project/astc-decomp/, astc-decomp, 1.0.3, ASTC decoder for PIL, 2020-01-01T22:02:40+0000
+/project/python-openctm/, python-openctm, 1.0.11, Python Interface for the OpenCTM File Format, 2020-05-05T15:49:33+0000
+/project/decrunch/, decrunch, 0.4.0, Python wrapper around Crunch DXTc decompressor, 2019-04-07T02:44:50+0000
+/project/pvrtc-decoder/, pvrtc-decoder, 1.0.2, A PVRTC decoder for PIL, 2019-09-27T19:54:58+0000
+/project/mersad/, mersad, 0.0.17, Azadeh Afzar - Mersad Cryptographic Library, 2019-10-11T13:05:47+0000
+/project/erfanio/, ErfanIO, 0.0.7, Simple and painless IO library, 2019-09-21T18:46:08+0000
+/project/pypiserver/, pypiserver, 1.4.2, A minimal PyPI server for use with pip/easy_install., 2020-10-10T13:17:54+0000
+/project/decrunch-unity/, decrunch-unity, 0.1.0, Python wrapper around Unity's Crunch decompressor, 2019-09-18T00:01:02+0000
+/project/pybullet/, pybullet, 3.1.6, Official Python Interface for the Bullet Physics SDK specialized for Robotics Simulation and Reinforcement Learning, 2021-04-25T07:27:59+0000
+/project/ccfreeze-loader/, ccfreeze-loader, 1.1.2, provide binary loaders for ccfreeze, 2016-05-22T22:34:24+0000
+/project/wagtail-markdown/, wagtail-markdown, 0.6, Markdown support for Wagtail, 2020-02-12T16:32:48+0000
+/project/plasticscm/, plasticscm, 0.2.0a5, Python package providing access to the PlasticSCM client API., 2020-10-18T04:39:12+0000
+/project/bbfreeze/, bbfreeze, 1.1.3, create standalone executables from python scripts, 2014-01-20T22:52:06+0000
+/project/simplestrpc/, simplestRPC, 1.4.13, The easiest, cleanest and simplest way to creating interactions via RPC (Remove Procedure Call), 2018-11-03T15:09:08+0000
+/project/ndef/, ndef, 0.2, NDEF (NFC Data Exchange Format) parser and verifier, 2020-01-08T02:18:49+0000
+/project/sqlcipher3/, sqlcipher3, 0.4.5, DB-API 2.0 interface for SQLCipher 3.x, 2020-12-22T15:09:48+0000
+/project/memorybuffer/, memorybuffer, 0.5.0b2, Python buffer protocol., 2020-10-18T04:25:19+0000
+/project/xinput-python/, XInput-Python, 0.4.0, A simple to use interface to the XInput API for Python, 2019-11-23T15:13:43+0000
+/project/bokeh-image-explore/, bokeh_image_explore, 1.3.0, Quickly explore large image embeddings with Bokeh, 2017-11-17T19:36:16+0000
+/project/ezntfs/, ezntfs, 0.1.4, An easy-to-use wrapper for NTFS-3G on macOS, 2020-09-30T13:10:39+0000
+/project/minibelt/, minibelt, 0.2.2, One-file utility module filled with helper functions for day to day Python programming, 2020-01-24T15:24:49+0000
+/project/wagtail-orderable/, wagtail-orderable, 1.0.3, Orderable support for Wagtail, 2020-02-27T11:03:45+0000

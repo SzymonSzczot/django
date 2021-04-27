@@ -1,0 +1,286 @@
+/project/watson-streaming/, watson-streaming, 0.0.13, Speech to text transcription in real-time using IBM Watson, 2020-06-01T17:20:53+0000
+/project/pocketsphinx-fork/, pocketsphinx-fork, 1.0.0, Forked version of [pocketsphinx-python](https://github.com/bambocher/pocketsphinx-python) which adds utility for installing models, and the StreamSpeech interface., 2019-06-11T08:11:16+0000
+/project/ffsubsync/, ffsubsync, 0.4.12, Language-agnostic synchronization of subtitles with video., 2021-04-13T16:17:57+0000
+/project/friture/, friture, 0.38, Real-time visualization of live audio data, 2019-02-17T21:20:07+0000
+/project/pyalexa/, pyalexa, 0.1.1, Python API for writing new Amazon Echo skills, 2015-11-04T02:16:26+0000
+/project/jasper-judy/, jasper-judy, 0.3, Simplified Voice Control on Raspberry Pi, 2016-09-16T09:23:48+0000
+/project/musiclegacy/, musicLegacy, 0.1.dev13, Yet another music package using the MASS (Music and Audio in Sample Sequences) framework, 2019-05-11T20:12:24+0000
+/project/stt/, stt, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:23:39+0000
+/project/tgre/, tgre, 1.0, Read, write, and modify Praat TextGrid annotations, 2018-02-06T22:30:13+0000
+/project/n-hans/, N-HANS, 2020.6.22, Neuro-Holistic Audio-eNhancement System, 2020-06-17T11:09:46+0000
+/project/enderturing/, enderturing, 0.3.0, Python SDK for EnderTuring speech toolkit, 2021-04-21T21:37:25+0000
+/project/subtitle-filter/, subtitle-filter, 1.4.1, Filter SDH entries and more from .srt files, 2021-04-11T15:57:34+0000
+/project/kaldi-adapt-lm/, kaldi-adapt-lm, 0.1.3, Adapt Kaldi-ASR nnet3 chain models from Zamia-Speech.org to a different language model., 2018-08-24T08:35:56+0000
+/project/py-sonicvisualiser/, py_sonicvisualiser, 0.3, manipulating sonic-visualiser environment files, 2017-06-02T12:54:18+0000
+/project/liepa-tts/, liepa-tts, 0.1.0, Python bindings for Lithuanian language synthesizer from LIEPA project, 2019-08-14T16:10:40+0000
+/project/stt-tflite/, stt-tflite, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:28:52+0000
+/project/pocketsphinx2/, pocketsphinx2, 0.1.17, Python interface to CMU Sphinxbase and Pocketsphinx libraries (fixed MacOS and Linux (Ubuntu 18.04) installation problem.If you wanna install, the original packaget maybe the right choose, if you have problems with original packaget, then try out this one, 2020-04-22T09:48:04+0000
+/project/winspeech/, winspeech, 1.0.1, Speech recognition and synthesis module for Windows - Python 2 and 3., 2016-11-05T07:15:43+0000
+/project/gtts/, gTTS, 2.2.2, gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate text-to-speech API, 2021-02-04T04:10:01+0000
+/project/musicbutler/, musicbutler, 0.1.7, A robot that receives voice commands to play albums from your MP3 collection, 2008-08-18T20:22:20+0000
+/project/pycodec2-old/, pycodec2-old, 1.0.5, A Cython wrapper for codec2, 2020-10-04T13:13:20+0000
+/project/mozilla-voice-stt-cuda/, mozilla-voice-stt-cuda, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:04:22+0000
+/project/ppnrespeakerdemo/, ppnrespeakerdemo, 1.9.7, Porcupine wake word engine demo for ReSpeaker 4-mic hat., 2021-04-14T16:48:32+0000
+/project/say-it-to-my-face/, say_it_to_my_face, 1.0, Log handler and exception hook to verbalize messages., 2017-01-06T14:59:14+0000
+/project/ya-speech-key/, ya-speech-key, 0.0.2, Extracts Yandex Speech API key from translate page, 2018-11-13T13:51:44+0000
+/project/concrete/, concrete, 4.15.1, Python modules and scripts for working with Concrete, 2019-05-20T19:45:29+0000
+/project/pyroomacoustics/, pyroomacoustics, 0.4.3, A simple framework for room acoustics and audio processing in Python., 2021-02-18T01:35:39+0000
+/project/caissa/, caissa, 0.4.0, Caissa voice-controlled personal assistant, 2018-07-16T18:34:27+0000
+/project/deepspeech-gpu/, deepspeech-gpu, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:23:02+0000
+/project/voxceleb-luigi/, voxceleb_luigi, 0.2.0, Luigi pipeline to download VoxCeleb audio from YouTube and extract speaker segments, 2018-11-18T17:35:57+0000
+/project/odin-ai/, odin-ai, 1.2.5, Deep learning for research and production, 2020-06-07T21:36:53+0000
+/project/pvrespeakerdemo/, pvrespeakerdemo, 1.1.3, Picovoice end-to-end voice platform demo for ReSpeaker 4-mic hat., 2021-04-14T16:48:07+0000
+/project/py-marytts/, py-marytts, 0.1.4, Python interface for Mary TTS, 2018-03-17T12:10:34+0000
+/project/dragonfly2/, dragonfly2, 0.30.1, Speech recognition extension library, 2021-03-30T12:43:13+0000
+/project/audiomodels/, audiomodels, 0.1.dev3, audio models package with semantic features identification, 2019-08-27T19:26:30+0000
+/project/abap/, abap, 0.1.0, Audiobooks as podcasts, 2017-08-03T22:07:38+0000
+/project/pywer/, pywer, 0.1.1, A simple Python package to calculate word error rate (WER)., 2021-02-06T13:44:43+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/recovoc/, RecoVoc, 1.0.5, Reconnaissance vocale., 2017-08-26T13:37:40+0000
+/project/participation/, participation, 0.1.dev1, Participation is a python package for social participation ontologies, rdf data (linked data) triplification and analysis, 2015-03-27T16:37:22+0000
+/project/rubberband/, rubberband, 1.0.2, Simple wrapper for librubberband, 2020-04-18T23:07:04+0000
+/project/audiogrep/, audiogrep, 0.1.5, Creates audio supercuts, 2018-06-01T21:02:44+0000
+/project/dido/, dido, 0.0.1.0, dido is an API server and Web application for the aeneas forced aligner, 2017-03-09T14:41:19+0000
+/project/audiolazy/, audiolazy, 0.6, Real-Time Expressive Digital Signal Processing (DSP) Package for Python!, 2016-09-29T13:09:46+0000
+/project/sphinxwrapper/, sphinxwrapper, 1.2.0, Alternative Python API for recognising speech with CMU Pocket Sphinx, 2019-06-22T14:45:41+0000
+/project/rhvoice-wrapper-bin/, rhvoice-wrapper-bin, 0.3.0, Provides RHVoice libraries for rhvoice-wrapper, 2020-09-13T22:33:23+0000
+/project/lhotse/, lhotse, 0.5.0, Data preparation for speech processing models training., 2021-02-27T03:53:59+0000
+/project/pysdif3/, pysdif3, 0.6.3, Wrapper for the SDIF library for audio analysis, 2021-04-18T14:51:21+0000
+/project/aquestalk-python/, AquesTalk-python, 1.1, Python Wrapper for AquesTalk (Old License), 2018-12-20T08:44:52+0000
+/project/denoiser/, denoiser, 0.1.4, Speech enhancement in the waveform domain. Supports offline and streaming evaluation. Implementation for https://arxiv.org/abs/2006.12847. For training, please directly clone the github repository., 2021-04-06T09:13:06+0000
+/project/world4py/, world4py, 0.1.1, Python wrapper for WORLD, 2019-06-04T17:00:33+0000
+/project/voicetools/, voicetools, 0.0.1, All-in-one voice tools library, 2016-08-29T13:18:41+0000
+/project/tokipona/, tokipona, 0.1b0, A package for dealing with toki pona: vim syntax highlighting, tokipona wordnets, analysis of the vocabulary, synthesis of texts, 2018-02-12T16:37:54+0000
+/project/kalliope/, kalliope, 0.7.1, Kalliope is a modular always-on voice controlled personal assistant designed for home automation., 2020-12-06T16:54:32+0000
+/project/voicecom/, VoiceCom, 0.0.2rc2, An open source Voice-User-Interface (VUI), 2015-06-01T22:48:08+0000
+/project/piwho/, piwho, 1.3.2, A python wrapper around MARF speaker recognition frameworkfor raspberry pi and other SBCs, 2018-01-12T13:52:55+0000
+/project/jarvis-assistant/, jarvis-assistant, 0.1.3, Jarvis - Voice Personal Assistant, 2021-02-10T09:27:14+0000
+/project/demodocus/, demodocus, 1.0.0.1, demodocus is Python CLI program to quickly check synchronization maps, 2015-12-12T12:08:55+0000
+/project/pvshepherd/, pvshepherd, 0.9.9, Shepherd, 2021-04-19T23:36:45+0000
+/project/booktool/, booktool, 0.7.0, eBook (EPUB and Audiobook) management tool, 2021-02-21T13:29:38+0000
+/project/psylab/, PsyLab, 0.4.7.12, PsyLab: Psychophysics Lab, 2018-02-01T23:02:30+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/deepspeech/, deepspeech, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:22:09+0000
+/project/navertts/, NaverTTS, 0.2.0, NaverTTS (NAVER Text-to-Speech), a Python library and CLI tool to interface with NAVER Papago text-to-speech API, 2021-02-15T17:54:51+0000
+/project/spkit/, spkit, 0.0.9.2, SpKit: Signal Processing toolkit | Nikesh Bajaj |, 2021-04-22T16:33:02+0000
+/project/rhvoice-wrapper-data/, rhvoice-wrapper-data, 0.3.0, Provides RHVoice data for rhvoice-wrapper-bin, 2020-09-13T22:22:54+0000
+/project/gtts-token/, gTTS-token, 1.1.4, Calculates a token to run the Google Translate text to speech, 2020-11-09T17:27:49+0000
+/project/howl/, howl, 0.1.2, A wake word detection toolkit, 2021-02-11T20:49:12+0000
+/project/yandex-speech/, yandex_speech, 0.4, A library for Yandex speech kit, 2017-01-15T19:38:04+0000
+/project/social/, social, 0.1.dev3, Social is a python package for social data analysis and exploitation, 2015-03-26T13:53:25+0000
+/project/openallure/, openallure, 0.1d17, Voice-and-vision enabled dialog system, 2010-05-13T04:57:41+0000
+/project/pytextgrid/, pytextgrid, 0.1.4, A toolbox for manipulating praat textgrid in python: creation, modification, analysis, 2018-12-19T18:32:39+0000
+/project/py-nltools/, py-nltools, 0.5.0, A collection of basic python modules for spoken natural language processing, 2019-05-05T14:44:43+0000
+/project/lachesis/, lachesis, 0.0.3.0, lachesis automates the segmentation of a transcript into closed captions, 2017-01-26T21:14:42+0000
+/project/pypocketsphinx/, PyPocketsphinx, 0.1.20, Python interface to CMU Sphinxbase and Pocketsphinx libraries. Forked from pocketsphinx 0.1.15., 2020-08-21T07:23:28+0000
+/project/pyjsgf/, pyjsgf, 1.9.0, JSpeech Grammar Format (JSGF) compiler, matcher and parser package for Python., 2020-04-07T10:10:50+0000
+/project/mozilla-voice-stt-tflite/, mozilla-voice-stt-tflite, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:03:47+0000
+/project/aiogtts/, aiogTTS, 1.1.0, A Python library to interface with Google Translate text-to-speech API, 2021-03-13T15:50:07+0000
+/project/pyvad/, pyvad, 0.1.3, py-webrtcvad wrapper for trimming speech clips, 2021-01-17T00:05:58+0000
+/project/alex-asr/, alex_asr, 1.0.4, Incremental speech recognition decoder for Kaldi NNET2 and GMM models., 2015-12-08T16:56:47+0000
+/project/auto-translation/, auto-translation, 0.1.5, A simple python library used to translate and speak a given text from the user with Google Translation using user's Chrome browser., 2021-01-05T16:12:05+0000
+/project/free/, free, 0.0.2, Free yourself from CAPTCHAs!, 2017-07-20T18:07:13+0000
+/project/google-speech-addons/, google-speech-addons, 1.0.0, Google Text-to-Speech addons, 2020-06-29T22:03:02+0000
+/project/pycodec2/, pycodec2, 1.0.4, A Cython wrapper for codec2, 2020-06-14T18:23:19+0000
+/project/buckeye/, buckeye, 1.3, Classes and iterators for the Buckeye Corpus, 2018-03-30T19:05:52+0000
+/project/pvrhino/, pvrhino, 1.6.3, Rhino Speech-to-Intent engine., 2021-04-14T16:45:42+0000
+/project/brain-ai/, brain-ai, 0.1.5, Build your own intelligent personal assistant., 2018-06-06T07:10:19+0000
+/project/fenrir-screenreader/, fenrir-screenreader, 1.9.6.post1, A TTY Screen Reader for Linux., 2019-02-15T22:06:24+0000
+/project/stt-gpu/, STT-gpu, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:28:53+0000
+/project/ipapy/, ipapy, 0.0.9.0, ipapy is a Python module to work with IPA strings, 2019-05-05T22:27:35+0000
+/project/inaspeechsegmenter/, inaSpeechSegmenter, 0.6.7, CNN-based audio segmentation toolkit. Does voice activity detection, speech detection, music detection, noise detection, speaker gender recognition., 2021-04-12T15:33:57+0000
+/project/deepspeech-tflite/, deepspeech-tflite, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:22:24+0000
+/project/ttspico/, ttspico, 0.3.2, Python simple text to speech module., 2017-03-26T22:49:47+0000
+/project/djangoiscan/, djangoiscan, 0.2.0, Integrated Speech Corpus Analysis., 2019-06-27T19:29:39+0000
+/project/nanotts/, nanotts, 0.0.1, Python wrapper for the NanoTTS speech synthesizer, 2020-12-31T16:10:22+0000
+/project/picovoice/, picovoice, 1.1.3, Picovoice is an end-to-end platform for building voice products on your terms., 2021-04-14T16:46:57+0000
+/project/evallies/, EVALLIES, 0.2.6, Lifelong learning Speaker diarization baseline system., 2021-02-02T22:59:17+0000
+/project/pocketmiku/, pocketmiku, 0.2.1, Tools to configure a Pocket Miku (NSX-39), 2014-04-04T18:32:51+0000
+/project/pytronlinks/, pytronlinks, 0.3.9, Send commands to Links from within your Python scripts., 2016-08-25T13:42:24+0000
+/project/deep-disfluency/, deep-disfluency, 0.0.1, Deep Learning systems for training and testing disfluency detection and related tasks on speech data., 2018-09-22T21:14:13+0000
+/project/sidekit/, SIDEKIT, 1.3.8.5.2, Speaker, Language Recognition and Diarization package., 2021-02-02T21:00:54+0000
+/project/ffsubs/, ffsubs, 0.3.3, Language-agnostic synchronization of subtitles with video via speech detection, and other subtitle tools., 2020-03-17T22:39:21+0000
+/project/py3-aeneas/, py3-aeneas, 1.1.0, py3-aeneas is a fork of aeneas, 2020-05-03T17:25:40+0000
+/project/pvporcupinedemo/, pvporcupinedemo, 1.9.5, Porcupine wake word engine demos, 2021-04-14T16:40:19+0000
+/project/speech-recognition-fork/, speech-recognition-fork, 3.8.1.2020.12.6, Library for performing speech recognition, with support for several engines and APIs, online and offline., 2020-12-06T17:02:48+0000
+/project/python-acapela/, python-acapela, 0.2.6, Python Acapela Text-To-Speech, 2015-12-09T17:03:50+0000
+/project/ikazuchi-plugins-speech/, ikazuchi.plugins.speech, 0.1.2, Speech handler with ikazuchi, 2011-06-15T04:12:46+0000
+/project/mpdab/, mpdab, 0.1.0a4, Crude audiobook support for MPD (Music Player Daemon)., 2019-06-24T21:47:00+0000
+/project/substream/, substream, 0.1.1, Transcribes audio files to .srt, 2019-06-06T00:54:29+0000
+/project/py-kaldi-asr/, py-kaldi-asr, 0.5.2, Simple Python/Cython interface to kaldi-asr nnet3/chain and gmm decoders, 2019-01-27T18:56:52+0000
+/project/watson-text-talker/, watson-text-talker, 0.8.10, Simple Text-to-Speech Interface for Raspberry Pi using IBM's Watson TTS, 2018-08-05T20:37:08+0000
+/project/picovoicedemo/, picovoicedemo, 1.1.3, Picovoice demos., 2021-04-14T16:47:31+0000
+/project/smash-tourney/, smash-tourney, 0.2.0, The Open Source Super Smash Bros. 1v1 randomizer with customizable "versus" voice implementer!, 2019-01-21T23:19:25+0000
+/project/vaisasr-python/, vaisasr-python, 1.0.0, Python API client for VAIS ASR, 2020-05-19T07:46:21+0000
+/project/ttsbroker/, ttsbroker, 0.1.3, Simple TTS (Text-To-Speech) broker for Python, 2020-08-30T23:32:37+0000
+/project/talkey/, talkey, 0.1.1, Simple Test-To-Speech (TTS) interface library with multi-language and multi-engine support., 2015-09-21T19:45:00+0000
+/project/voxpopuli/, voxpopuli, 0.3.6, A wrapper around Espeak and Mbrola, to do simple Text-To-Speech (TTS), with the possibility to tweak the phonemic form., 2020-01-17T15:52:18+0000
+/project/percolation/, percolation, 0.2.dev0, percolation is a python package for harnessing open linked social data, 2019-05-01T21:04:37+0000
+/project/nanotts/, nanotts, 0.0.1, Python wrapper for the NanoTTS speech synthesizer, 2020-12-31T16:10:22+0000
+/project/picovoice/, picovoice, 1.1.3, Picovoice is an end-to-end platform for building voice products on your terms., 2021-04-14T16:46:57+0000
+/project/evallies/, EVALLIES, 0.2.6, Lifelong learning Speaker diarization baseline system., 2021-02-02T22:59:17+0000
+/project/pocketmiku/, pocketmiku, 0.2.1, Tools to configure a Pocket Miku (NSX-39), 2014-04-04T18:32:51+0000
+/project/pytronlinks/, pytronlinks, 0.3.9, Send commands to Links from within your Python scripts., 2016-08-25T13:42:24+0000
+/project/deep-disfluency/, deep-disfluency, 0.0.1, Deep Learning systems for training and testing disfluency detection and related tasks on speech data., 2018-09-22T21:14:13+0000
+/project/software-automatic-mouth/, software-automatic-mouth, 1.0.0, A simple retro text-to-speech library, 2021-03-13T17:51:57+0000
+/project/pvrhinodemo/, pvrhinodemo, 1.6.4, Rhino Speech-to-Intent engine demos., 2021-04-14T16:46:04+0000
+/project/pydiarization/, pydiarization, 0.4, Diarization toolkit wrapper, 2018-10-22T09:06:54+0000
+/project/sprocket-vc/, sprocket-vc, 0.18.4, Voice conversion software, 2020-12-02T02:34:26+0000
+/project/aeneas/, aeneas, 1.7.3.0, aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment), 2017-03-16T12:54:13+0000
+/project/tts/, TTS, 0.0.12, Deep learning for Text to Speech by Coqui., 2021-04-15T15:17:43+0000
+/project/ttspico/, ttspico, 0.3.2, Python simple text to speech module., 2017-03-26T22:49:47+0000
+/project/djangoiscan/, djangoiscan, 0.2.0, Integrated Speech Corpus Analysis., 2019-06-27T19:29:39+0000
+/project/auroraapi/, auroraapi, 0.2.0, Python SDK for Aurora, 2018-06-22T05:22:07+0000
+/project/pysdif/, pysdif, 0.1.4, SDIF for python, 2012-01-13T18:12:05+0000
+/project/ipapy/, ipapy, 0.0.9.0, ipapy is a Python module to work with IPA strings, 2019-05-05T22:27:35+0000
+/project/inaspeechsegmenter/, inaSpeechSegmenter, 0.6.7, CNN-based audio segmentation toolkit. Does voice activity detection, speech detection, music detection, noise detection, speaker gender recognition., 2021-04-12T15:33:57+0000
+/project/tts-watson/, tts-watson, 1.0.0, Text to speech using watson, 2016-01-10T08:20:06+0000
+/project/pvporcupine/, pvporcupine, 1.9.5, Porcupine wake word engine., 2021-04-14T16:39:57+0000
+/project/mozilla-voice-stt/, mozilla-voice-stt, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:03:35+0000
+/project/afaligner/, afaligner, 0.1.4, A forced aligner intended for synchronization of narrated text, 2021-02-12T12:29:05+0000
+/project/py3-aeneas/, py3-aeneas, 1.1.0, py3-aeneas is a fork of aeneas, 2020-05-03T17:25:40+0000
+/project/pvporcupinedemo/, pvporcupinedemo, 1.9.5, Porcupine wake word engine demos, 2021-04-14T16:40:19+0000
+/project/speech-recognition-fork/, speech-recognition-fork, 3.8.1.2020.12.6, Library for performing speech recognition, with support for several engines and APIs, online and offline., 2020-12-06T17:02:48+0000
+/project/watson-streaming/, watson-streaming, 0.0.13, Speech to text transcription in real-time using IBM Watson, 2020-06-01T17:20:53+0000
+/project/pocketsphinx-fork/, pocketsphinx-fork, 1.0.0, Forked version of [pocketsphinx-python](https://github.com/bambocher/pocketsphinx-python) which adds utility for installing models, and the StreamSpeech interface., 2019-06-11T08:11:16+0000
+/project/ffsubsync/, ffsubsync, 0.4.12, Language-agnostic synchronization of subtitles with video., 2021-04-13T16:17:57+0000
+/project/friture/, friture, 0.38, Real-time visualization of live audio data, 2019-02-17T21:20:07+0000
+/project/jasper-judy/, jasper-judy, 0.3, Simplified Voice Control on Raspberry Pi, 2016-09-16T09:23:48+0000
+/project/musiclegacy/, musicLegacy, 0.1.dev13, Yet another music package using the MASS (Music and Audio in Sample Sequences) framework, 2019-05-11T20:12:24+0000
+/project/stt/, stt, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:23:39+0000
+/project/tgre/, tgre, 1.0, Read, write, and modify Praat TextGrid annotations, 2018-02-06T22:30:13+0000
+/project/n-hans/, N-HANS, 2020.6.22, Neuro-Holistic Audio-eNhancement System, 2020-06-17T11:09:46+0000
+/project/enderturing/, enderturing, 0.3.0, Python SDK for EnderTuring speech toolkit, 2021-04-21T21:37:25+0000
+/project/subtitle-filter/, subtitle-filter, 1.4.1, Filter SDH entries and more from .srt files, 2021-04-11T15:57:34+0000
+/project/kaldi-adapt-lm/, kaldi-adapt-lm, 0.1.3, Adapt Kaldi-ASR nnet3 chain models from Zamia-Speech.org to a different language model., 2018-08-24T08:35:56+0000
+/project/py-sonicvisualiser/, py_sonicvisualiser, 0.3, manipulating sonic-visualiser environment files, 2017-06-02T12:54:18+0000
+/project/musicbutler/, musicbutler, 0.1.7, A robot that receives voice commands to play albums from your MP3 collection, 2008-08-18T20:22:20+0000
+/project/winspeech/, winspeech, 1.0.1, Speech recognition and synthesis module for Windows - Python 2 and 3., 2016-11-05T07:15:43+0000
+/project/gtts/, gTTS, 2.2.2, gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate text-to-speech API, 2021-02-04T04:10:01+0000
+/project/ya-speech-key/, ya-speech-key, 0.0.2, Extracts Yandex Speech API key from translate page, 2018-11-13T13:51:44+0000
+/project/pyalexa/, pyalexa, 0.1.1, Python API for writing new Amazon Echo skills, 2015-11-04T02:16:26+0000
+/project/pycodec2-old/, pycodec2-old, 1.0.5, A Cython wrapper for codec2, 2020-10-04T13:13:20+0000
+/project/mozilla-voice-stt-cuda/, mozilla-voice-stt-cuda, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:04:22+0000
+/project/ppnrespeakerdemo/, ppnrespeakerdemo, 1.9.7, Porcupine wake word engine demo for ReSpeaker 4-mic hat., 2021-04-14T16:48:32+0000
+/project/say-it-to-my-face/, say_it_to_my_face, 1.0, Log handler and exception hook to verbalize messages., 2017-01-06T14:59:14+0000
+/project/liepa-tts/, liepa-tts, 0.1.0, Python bindings for Lithuanian language synthesizer from LIEPA project, 2019-08-14T16:10:40+0000
+/project/stt-tflite/, stt-tflite, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:28:52+0000
+/project/pocketsphinx2/, pocketsphinx2, 0.1.17, Python interface to CMU Sphinxbase and Pocketsphinx libraries (fixed MacOS and Linux (Ubuntu 18.04) installation problem.If you wanna install, the original packaget maybe the right choose, if you have problems with original packaget, then try out this one, 2020-04-22T09:48:04+0000
+/project/concrete/, concrete, 4.15.1, Python modules and scripts for working with Concrete, 2019-05-20T19:45:29+0000
+/project/pyroomacoustics/, pyroomacoustics, 0.4.3, A simple framework for room acoustics and audio processing in Python., 2021-02-18T01:35:39+0000
+/project/tokipona/, tokipona, 0.1b0, A package for dealing with toki pona: vim syntax highlighting, tokipona wordnets, analysis of the vocabulary, synthesis of texts, 2018-02-12T16:37:54+0000
+/project/kalliope/, kalliope, 0.7.1, Kalliope is a modular always-on voice controlled personal assistant designed for home automation., 2020-12-06T16:54:32+0000
+/project/deepspeech-gpu/, deepspeech-gpu, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:23:02+0000
+/project/voxceleb-luigi/, voxceleb_luigi, 0.2.0, Luigi pipeline to download VoxCeleb audio from YouTube and extract speaker segments, 2018-11-18T17:35:57+0000
+/project/piwho/, piwho, 1.3.2, A python wrapper around MARF speaker recognition frameworkfor raspberry pi and other SBCs, 2018-01-12T13:52:55+0000
+/project/booktool/, booktool, 0.7.0, eBook (EPUB and Audiobook) management tool, 2021-02-21T13:29:38+0000
+/project/pvrespeakerdemo/, pvrespeakerdemo, 1.1.3, Picovoice end-to-end voice platform demo for ReSpeaker 4-mic hat., 2021-04-14T16:48:07+0000
+/project/py-marytts/, py-marytts, 0.1.4, Python interface for Mary TTS, 2018-03-17T12:10:34+0000
+/project/recovoc/, RecoVoc, 1.0.5, Reconnaissance vocale., 2017-08-26T13:37:40+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/deepspeech/, deepspeech, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:22:09+0000
+/project/gtts-token/, gTTS-token, 1.1.4, Calculates a token to run the Google Translate text to speech, 2020-11-09T17:27:49+0000
+/project/rhvoice-wrapper-bin/, rhvoice-wrapper-bin, 0.3.0, Provides RHVoice libraries for rhvoice-wrapper, 2020-09-13T22:33:23+0000
+/project/pycodec2/, pycodec2, 1.0.4, A Cython wrapper for codec2, 2020-06-14T18:23:19+0000
+/project/buckeye/, buckeye, 1.3, Classes and iterators for the Buckeye Corpus, 2018-03-30T19:05:52+0000
+/project/pytextgrid/, pytextgrid, 0.1.4, A toolbox for manipulating praat textgrid in python: creation, modification, analysis, 2018-12-19T18:32:39+0000
+/project/lhotse/, lhotse, 0.5.0, Data preparation for speech processing models training., 2021-02-27T03:53:59+0000
+/project/pysdif3/, pysdif3, 0.6.3, Wrapper for the SDIF library for audio analysis, 2021-04-18T14:51:21+0000
+/project/aquestalk-python/, AquesTalk-python, 1.1, Python Wrapper for AquesTalk (Old License), 2018-12-20T08:44:52+0000
+/project/caissa/, caissa, 0.4.0, Caissa voice-controlled personal assistant, 2018-07-16T18:34:27+0000
+/project/denoiser/, denoiser, 0.1.4, Speech enhancement in the waveform domain. Supports offline and streaming evaluation. Implementation for https://arxiv.org/abs/2006.12847. For training, please directly clone the github repository., 2021-04-06T09:13:06+0000
+/project/world4py/, world4py, 0.1.1, Python wrapper for WORLD, 2019-06-04T17:00:33+0000
+/project/voicetools/, voicetools, 0.0.1, All-in-one voice tools library, 2016-08-29T13:18:41+0000
+/project/voicecom/, VoiceCom, 0.0.2rc2, An open source Voice-User-Interface (VUI), 2015-06-01T22:48:08+0000
+/project/jarvis-assistant/, jarvis-assistant, 0.1.3, Jarvis - Voice Personal Assistant, 2021-02-10T09:27:14+0000
+/project/demodocus/, demodocus, 1.0.0.1, demodocus is Python CLI program to quickly check synchronization maps, 2015-12-12T12:08:55+0000
+/project/pvshepherd/, pvshepherd, 0.9.9, Shepherd, 2021-04-19T23:36:45+0000
+/project/odin-ai/, odin-ai, 1.2.5, Deep learning for research and production, 2020-06-07T21:36:53+0000
+/project/dragonfly2/, dragonfly2, 0.30.1, Speech recognition extension library, 2021-03-30T12:43:13+0000
+/project/audiomodels/, audiomodels, 0.1.dev3, audio models package with semantic features identification, 2019-08-27T19:26:30+0000
+/project/abap/, abap, 0.1.0, Audiobooks as podcasts, 2017-08-03T22:07:38+0000
+/project/psylab/, PsyLab, 0.4.7.12, PsyLab: Psychophysics Lab, 2018-02-01T23:02:30+0000
+/project/pywer/, pywer, 0.1.1, A simple Python package to calculate word error rate (WER)., 2021-02-06T13:44:43+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/navertts/, NaverTTS, 0.2.0, NaverTTS (NAVER Text-to-Speech), a Python library and CLI tool to interface with NAVER Papago text-to-speech API, 2021-02-15T17:54:51+0000
+/project/spkit/, spkit, 0.0.9.2, SpKit: Signal Processing toolkit | Nikesh Bajaj |, 2021-04-22T16:33:02+0000
+/project/rhvoice-wrapper-data/, rhvoice-wrapper-data, 0.3.0, Provides RHVoice data for rhvoice-wrapper-bin, 2020-09-13T22:22:54+0000
+/project/participation/, participation, 0.1.dev1, Participation is a python package for social participation ontologies, rdf data (linked data) triplification and analysis, 2015-03-27T16:37:22+0000
+/project/howl/, howl, 0.1.2, A wake word detection toolkit, 2021-02-11T20:49:12+0000
+/project/rubberband/, rubberband, 1.0.2, Simple wrapper for librubberband, 2020-04-18T23:07:04+0000
+/project/yandex-speech/, yandex_speech, 0.4, A library for Yandex speech kit, 2017-01-15T19:38:04+0000
+/project/audiogrep/, audiogrep, 0.1.5, Creates audio supercuts, 2018-06-01T21:02:44+0000
+/project/social/, social, 0.1.dev3, Social is a python package for social data analysis and exploitation, 2015-03-26T13:53:25+0000
+/project/openallure/, openallure, 0.1d17, Voice-and-vision enabled dialog system, 2010-05-13T04:57:41+0000
+/project/dido/, dido, 0.0.1.0, dido is an API server and Web application for the aeneas forced aligner, 2017-03-09T14:41:19+0000
+/project/audiolazy/, audiolazy, 0.6, Real-Time Expressive Digital Signal Processing (DSP) Package for Python!, 2016-09-29T13:09:46+0000
+/project/sphinxwrapper/, sphinxwrapper, 1.2.0, Alternative Python API for recognising speech with CMU Pocket Sphinx, 2019-06-22T14:45:41+0000
+/project/py-nltools/, py-nltools, 0.5.0, A collection of basic python modules for spoken natural language processing, 2019-05-05T14:44:43+0000
+/project/lachesis/, lachesis, 0.0.3.0, lachesis automates the segmentation of a transcript into closed captions, 2017-01-26T21:14:42+0000
+/project/pypocketsphinx/, PyPocketsphinx, 0.1.20, Python interface to CMU Sphinxbase and Pocketsphinx libraries. Forked from pocketsphinx 0.1.15., 2020-08-21T07:23:28+0000
+/project/pyjsgf/, pyjsgf, 1.9.0, JSpeech Grammar Format (JSGF) compiler, matcher and parser package for Python., 2020-04-07T10:10:50+0000
+/project/mozilla-voice-stt-tflite/, mozilla-voice-stt-tflite, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:03:47+0000
+/project/pyvad/, pyvad, 0.1.3, py-webrtcvad wrapper for trimming speech clips, 2021-01-17T00:05:58+0000
+/project/alex-asr/, alex_asr, 1.0.4, Incremental speech recognition decoder for Kaldi NNET2 and GMM models., 2015-12-08T16:56:47+0000
+/project/auto-translation/, auto-translation, 0.1.5, A simple python library used to translate and speak a given text from the user with Google Translation using user's Chrome browser., 2021-01-05T16:12:05+0000
+/project/free/, free, 0.0.2, Free yourself from CAPTCHAs!, 2017-07-20T18:07:13+0000
+/project/google-speech-addons/, google-speech-addons, 1.0.0, Google Text-to-Speech addons, 2020-06-29T22:03:02+0000
+/project/pvrhino/, pvrhino, 1.6.3, Rhino Speech-to-Intent engine., 2021-04-14T16:45:42+0000
+/project/brain-ai/, brain-ai, 0.1.5, Build your own intelligent personal assistant., 2018-06-06T07:10:19+0000
+/project/aiogtts/, aiogTTS, 1.1.0, A Python library to interface with Google Translate text-to-speech API, 2021-03-13T15:50:07+0000
+/project/fenrir-screenreader/, fenrir-screenreader, 1.9.6.post1, A TTY Screen Reader for Linux., 2019-02-15T22:06:24+0000
+/project/stt-gpu/, STT-gpu, 0.10.0a4, A library for doing speech recognition using a Coqui STT model, 2021-03-08T12:28:53+0000
+/project/music/, music, 0.7b0, music is a python package for making music and sounds, based on the MASS framework, 2019-05-11T18:29:56+0000
+/project/speechrecognition/, SpeechRecognition, 3.8.1, Library for performing speech recognition, with support for several engines and APIs, online and offline., 2017-12-05T13:58:29+0000
+/project/speech/, speech, 0.5.2, A clean interface to Windows speech recognition and text-to-speech capabilities., 2009-02-27T14:32:06+0000
+/project/vfclust/, VFClust, 0.1.1, Clustering of Verbal Fluency responses., 2014-07-08T19:48:08+0000
+/project/google-speech/, google-speech, 1.1.0, Read text using Google Translate TTS API, 2018-12-17T20:55:56+0000
+/project/project0/, Project0, 0.1.4, Offline vocal assistant and tts, 2020-10-08T22:08:34+0000
+/project/subsync/, subsync, 0.1.5, Synchronize your subtitles with mahcine learning, 2018-11-10T22:44:08+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/py-espeak-ng/, py-espeak-ng, 0.1.8, Python interface for eSpeak NG, 2019-03-19T06:53:19+0000
+/project/rhvoice-wrapper/, rhvoice-wrapper, 0.6.3, High-level interface for RHVoice library, 2020-09-13T23:35:41+0000
+/project/kaldi-io/, kaldi-io, 0.9.4, Glue code connecting Kaldi data and Python., 2020-04-02T19:08:03+0000
+/project/sidekit/, SIDEKIT, 1.3.8.5.2, Speaker, Language Recognition and Diarization package., 2021-02-02T21:00:54+0000
+/project/ffsubs/, ffsubs, 0.3.3, Language-agnostic synchronization of subtitles with video via speech detection, and other subtitle tools., 2020-03-17T22:39:21+0000
+/project/py3-aeneas/, py3-aeneas, 1.1.0, py3-aeneas is a fork of aeneas, 2020-05-03T17:25:40+0000
+/project/pvporcupinedemo/, pvporcupinedemo, 1.9.5, Porcupine wake word engine demos, 2021-04-14T16:40:19+0000
+/project/speech-recognition-fork/, speech-recognition-fork, 3.8.1.2020.12.6, Library for performing speech recognition, with support for several engines and APIs, online and offline., 2020-12-06T17:02:48+0000
+/project/python-acapela/, python-acapela, 0.2.6, Python Acapela Text-To-Speech, 2015-12-09T17:03:50+0000
+/project/ikazuchi-plugins-speech/, ikazuchi.plugins.speech, 0.1.2, Speech handler with ikazuchi, 2011-06-15T04:12:46+0000
+/project/mpdab/, mpdab, 0.1.0a4, Crude audiobook support for MPD (Music Player Daemon)., 2019-06-24T21:47:00+0000
+/project/substream/, substream, 0.1.1, Transcribes audio files to .srt, 2019-06-06T00:54:29+0000
+/project/py-kaldi-asr/, py-kaldi-asr, 0.5.2, Simple Python/Cython interface to kaldi-asr nnet3/chain and gmm decoders, 2019-01-27T18:56:52+0000
+/project/watson-text-talker/, watson-text-talker, 0.8.10, Simple Text-to-Speech Interface for Raspberry Pi using IBM's Watson TTS, 2018-08-05T20:37:08+0000
+/project/picovoicedemo/, picovoicedemo, 1.1.3, Picovoice demos., 2021-04-14T16:47:31+0000
+/project/smash-tourney/, smash-tourney, 0.2.0, The Open Source Super Smash Bros. 1v1 randomizer with customizable "versus" voice implementer!, 2019-01-21T23:19:25+0000
+/project/vaisasr-python/, vaisasr-python, 1.0.0, Python API client for VAIS ASR, 2020-05-19T07:46:21+0000
+/project/ttsbroker/, ttsbroker, 0.1.3, Simple TTS (Text-To-Speech) broker for Python, 2020-08-30T23:32:37+0000
+/project/talkey/, talkey, 0.1.1, Simple Test-To-Speech (TTS) interface library with multi-language and multi-engine support., 2015-09-21T19:45:00+0000
+/project/voxpopuli/, voxpopuli, 0.3.6, A wrapper around Espeak and Mbrola, to do simple Text-To-Speech (TTS), with the possibility to tweak the phonemic form., 2020-01-17T15:52:18+0000
+/project/pysdif/, pysdif, 0.1.4, SDIF for python, 2012-01-13T18:12:05+0000
+/project/percolation/, percolation, 0.2.dev0, percolation is a python package for harnessing open linked social data, 2019-05-01T21:04:37+0000
+/project/nanotts/, nanotts, 0.0.1, Python wrapper for the NanoTTS speech synthesizer, 2020-12-31T16:10:22+0000
+/project/picovoice/, picovoice, 1.1.3, Picovoice is an end-to-end platform for building voice products on your terms., 2021-04-14T16:46:57+0000
+/project/evallies/, EVALLIES, 0.2.6, Lifelong learning Speaker diarization baseline system., 2021-02-02T22:59:17+0000
+/project/pocketmiku/, pocketmiku, 0.2.1, Tools to configure a Pocket Miku (NSX-39), 2014-04-04T18:32:51+0000
+/project/pytronlinks/, pytronlinks, 0.3.9, Send commands to Links from within your Python scripts., 2016-08-25T13:42:24+0000
+/project/deep-disfluency/, deep-disfluency, 0.0.1, Deep Learning systems for training and testing disfluency detection and related tasks on speech data., 2018-09-22T21:14:13+0000
+/project/software-automatic-mouth/, software-automatic-mouth, 1.0.0, A simple retro text-to-speech library, 2021-03-13T17:51:57+0000
+/project/pvrhinodemo/, pvrhinodemo, 1.6.4, Rhino Speech-to-Intent engine demos., 2021-04-14T16:46:04+0000
+/project/pydiarization/, pydiarization, 0.4, Diarization toolkit wrapper, 2018-10-22T09:06:54+0000
+/project/sprocket-vc/, sprocket-vc, 0.18.4, Voice conversion software, 2020-12-02T02:34:26+0000
+/project/aeneas/, aeneas, 1.7.3.0, aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment), 2017-03-16T12:54:13+0000
+/project/tts/, TTS, 0.0.12, Deep learning for Text to Speech by Coqui., 2021-04-15T15:17:43+0000
+/project/ttspico/, ttspico, 0.3.2, Python simple text to speech module., 2017-03-26T22:49:47+0000
+/project/djangoiscan/, djangoiscan, 0.2.0, Integrated Speech Corpus Analysis., 2019-06-27T19:29:39+0000
+/project/auroraapi/, auroraapi, 0.2.0, Python SDK for Aurora, 2018-06-22T05:22:07+0000
+/project/ipapy/, ipapy, 0.0.9.0, ipapy is a Python module to work with IPA strings, 2019-05-05T22:27:35+0000
+/project/inaspeechsegmenter/, inaSpeechSegmenter, 0.6.7, CNN-based audio segmentation toolkit. Does voice activity detection, speech detection, music detection, noise detection, speaker gender recognition., 2021-04-12T15:33:57+0000
+/project/tts-watson/, tts-watson, 1.0.0, Text to speech using watson, 2016-01-10T08:20:06+0000
+/project/pvporcupine/, pvporcupine, 1.9.5, Porcupine wake word engine., 2021-04-14T16:39:57+0000
+/project/mozilla-voice-stt/, mozilla-voice-stt, 0.9.0a7, A library for running inference on a Mozilla Voice STT model, 2020-08-18T14:03:35+0000
+/project/afaligner/, afaligner, 0.1.4, A forced aligner intended for synchronization of narrated text, 2021-02-12T12:29:05+0000
+/project/deepspeech-tflite/, deepspeech-tflite, 0.9.3, A library for running inference on a DeepSpeech model, 2020-12-10T17:22:24+0000
+/project/pocketsphinx/, pocketsphinx, 0.1.15, Python interface to CMU Sphinxbase and Pocketsphinx libraries, 2018-06-03T21:32:06+0000
+/project/py-picotts/, py-picotts, 0.1.2, Python interface for SVOX Pico TTS pico2wave, 2018-03-17T12:29:57+0000

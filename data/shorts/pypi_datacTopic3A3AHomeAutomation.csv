@@ -1,0 +1,1346 @@
+/project/pi-device-net/, pi-device-net, 0.1.20, A set of tools to operate a device network., 2021-03-30T20:32:14+0000
+/project/aemet-opendata/, AEMET-OpenData, 0.1.8, AEMET OpenData Rest API library, 2021-01-23T18:40:20+0000
+/project/devicepilot/, devicepilot, 1.0.1, DevicePilot SDK for IoT Analytics, 2019-05-14T10:17:43+0000
+/project/pywakeps4onbt/, pywakeps4onbt, 0.6, A Python library to wakeup Ps4 on BlueTooth, 2019-09-10T19:38:10+0000
+/project/pymeteireann/, PyMetEireann, 0.2, A library to communicate with the Met Éireann Public Weather Forecast API, 2020-08-28T21:29:54+0000
+/project/pyatv/, pyatv, 0.7.7, Library for controlling an Apple TV, 2021-03-12T12:20:40+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/python-zwave/, python-zwave, 0.2.1, Library implementing a Z-Wave stack, 2020-05-27T09:27:48+0000
+/project/python-plugwise/, python-plugwise, 2.0.2, Async library for Plugwise USB-stick, 2020-10-13T19:05:38+0000
+/project/pyxiaomigateway/, PyXiaomiGateway, 0.13.4, A library to communicate with the Xiaomi Gateway, 2020-10-23T13:47:58+0000
+/project/pymelcloud/, pymelcloud, 2.10.0, Python MELCloud interface, 2020-07-14T18:35:42+0000
+/project/deebotozmodev/, deebotozmodev, 0.0.2, a library for controlling certain robot vacuums [DEV edition], 2020-05-24T09:17:45+0000
+/project/bluetin-echo/, Bluetin-Echo, 0.2.0, Raspberry Pi Python Library for Ultrasonic Module HC-SR04 Distance Measuring Transducer., 2019-06-09T13:34:54+0000
+/project/pyhansolo/, pyHanSolo, 0.1.0, A python3 library to communicate with HanSolo, 2019-08-21T13:16:48+0000
+/project/blinkpy/, blinkpy, 0.17.1, A Blink camera Python library running on Python 3., 2021-02-18T14:50:38+0000
+/project/pysmartapp/, pysmartapp, 0.3.3, A python library for building a SmartThings SmartApp, 2020-11-10T22:08:30+0000
+/project/nuheat/, nuheat, 0.3.0, A Python library that allows control of connected NuHeat Signature radiant floor thermostats., 2017-12-24T00:30:01+0000
+/project/sdreaper/, sdreaper, 1.0.1, CLI and curses UI for talking to Arduino Reaper library, 2016-02-28T17:47:08+0000
+/project/samsung-multiroom/, samsung-multiroom, 0.0.9, Samsung multiroom speaker support, 2020-10-16T20:23:55+0000
+/project/magichue/, magichue, 0.2.9.2, A library to interface with MagicHue aka MagicHome., 2020-11-03T19:48:58+0000
+/project/duco-ducobox/, duco.ducobox, 0.3.1, Read parameters from DucoBox., 2019-04-10T20:23:06+0000
+/project/intercom/, Intercom, 0.2.3, Messaging system for Home automation, 2014-02-27T15:50:13+0000
+/project/pya20evb/, pyA20EVB, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:56:37+0000
+/project/andor/, andor, 1.14, Object-oriented interface for Andor EMCCD cameras, 2016-02-26T17:10:33+0000
+/project/hassmart-homeassistant/, hassmart-homeassistant, 0.65.4, Open-source home automation platform running on Python 3., 2018-03-15T16:47:29+0000
+/project/trixie/, trixie, 0.1.2, Open-source home automation platform running on Python 3., 2018-06-28T12:47:08+0000
+/project/pynanoleaf/, pynanoleaf, 0.1.0, A Python3 wrapper for the Nanoleaf API, 2021-03-03T19:45:38+0000
+/project/django-hautomation-suite/, django_hautomation_suite, 0.6, Django project to help deploy the Home Automation Python Project, 2014-06-30T10:12:31+0000
+/project/web-youtube-dl/, web-youtube-dl, 0.1.5, A web version of youtube-dl, 2020-10-06T04:03:08+0000
+/project/brewpi-remix/, BrewPi-Remix, 0.0.0.1, For the fans of the original Arduino temperature controller, 2020-08-02T14:17:56+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/sonyapi/, SonyAPI, 0.1.1b2, Sony Bravia TV interface (generation 3), 2017-08-31T22:14:11+0000
+/project/aioouimeaux/, aioouimeaux, 0.1.0b5, Open source control for Belkin WeMo devices, 2018-11-11T04:11:20+0000
+/project/pybecker/, pybecker, 1.0.5, pybecker is a library to control becker RF shutters, 2021-02-04T08:12:03+0000
+/project/aioiregul/, aioiregul, 0.0.8, Asynchronous library to get data from IRegul systems, 2021-04-19T12:27:16+0000
+/project/pya64/, pyA64, 0.1.0, Control GPIO ports on A64-OLinuXino, 2017-11-21T13:59:31+0000
+/project/pyketra/, pyketra, 0.0.3, Python library for Ketra Controller, 2019-06-07T16:23:05+0000
+/project/atenpdu/, atenpdu, 0.3.1, Interface for ATEN-PE PDUs, 2019-12-01T22:16:53+0000
+/project/hassapi/, hassapi, 0.1.0, Home Assistant Python API, 2021-04-03T21:31:53+0000
+/project/ozmo/, ozmo, 1.0.3, a library for controlling certain robot vacuums, 2019-09-29T14:06:36+0000
+/project/gfxlcd/, gfxlcd, 0.8.3, gfxlcd is a handler for graphical lcds: ILI9328, SSD1306, NJU6450, touch panel: AD7843 @ Raspberry Pi., 2018-02-25T14:43:24+0000
+/project/smllib/, smllib, 0.4, A library for the SML (Smart Message Language) protocol, 2021-01-08T14:49:38+0000
+/project/jvc-proxy/, jvc-proxy, 0.0.1, Simple Python server to proxy commands to a JVC projector., 2017-08-01T09:02:20+0000
+/project/surepy/, surepy, 0.6.0, Library to interact with the flaps & doors from Sure Petcare., 2021-04-15T19:02:09+0000
+/project/stream-magic/, stream_magic, 0.16, Support for controlling and querying network audio players                based on the StreamMagic platform by Cambridge Audio, 2018-06-07T16:22:41+0000
+/project/pyitachip2ir/, pyitachip2ir, 0.0.7, A library for sending IR commands to an ITach IP2IR gateway, 2017-08-23T15:28:48+0000
+/project/homeassistant/, homeassistant, 2021.4.6, Open-source home automation platform running on Python 3., 2021-04-19T16:14:37+0000
+/project/cherrydoor/, Cherrydoor, 0.6.1, An overengineered rfid lock manager created for my school community. Made for Raspberry Pi connected with another microcontroler that send and recieved rfid data via UART, 2020-10-08T14:30:29+0000
+/project/ring-doorbell/, ring-doorbell, 0.7.0, A Python library to communicate with Ring Door Bell (https://ring.com/), 2021-02-05T23:53:17+0000
+/project/charlcd/, charlcd, 0.6, charlcd is a handler for char lcds Hitachi HD44780 @ Raspberry Pi., 2020-02-18T20:27:44+0000
+/project/funkiio/, funkiio, 1.0.1, Open-source home automation platform running on Python 3., 2019-05-30T19:47:20+0000
+/project/raspisump/, raspisump, 1.2.3, A sump pit monitoring system for Raspberry Pi, 2019-07-11T20:50:36+0000
+/project/ais-dom/, ais-dom, 2021.3.7, Open-source home automation platform running on Python 3., 2021-04-02T07:14:04+0000
+/project/lifx-control-panel/, lifx-control-panel, 1.8.0, An open source application for controlling your LIFX brand lights, 2020-08-08T21:29:41+0000
+/project/aiobosest/, aiobosest, 0.0.4, Asynchronous python wrapper to Bose SoundTouch API, 2016-11-21T15:38:44+0000
+/project/pisensors/, pisensors, 0.1.2, Raspberry Pi Sensors script for Temperature & Humidity, 2021-04-24T21:27:21+0000
+/project/rpi-sensor/, RPi.Sensor, 0.5.3, Python base class to create infinite loop to work with sensors., 2020-07-25T21:34:06+0000
+/project/blueconnect/, blueconnect, 1.0.3, Unofficial API client for Blue Riiot/Blue Connect devices., 2020-08-23T14:14:13+0000
+/project/wizcon/, wizcon, 0.1.1, Control Philips WiZ Connected smart light bulbs, 2020-10-30T13:11:25+0000
+/project/tlv8/, tlv8, 0.9.0, Python module to handle type-length-value (TLV) encoded data 8-bit type, 8-bit length, and N-byte value as described within the Apple HomeKit Accessory Protocol Specification Non-Commercial Version Release R2., 2020-05-13T17:02:25+0000
+/project/csrmesh/, csrmesh, 0.10.0, Reverse engineered implementation of the CSRMesh bridge protocol, 2020-01-28T03:25:58+0000
+/project/cpymodbus/, cpymodbus, 0.1dev, Modbus slave package, 2018-01-25T20:33:21+0000
+/project/resilient-exporters/, resilient-exporters, 0.1.1, A package to export data to databases resiliently., 2020-11-03T09:30:18+0000
+/project/pyaler/, pyaler, 0.3, A restfull application to control your arduino devices, 2010-07-24T16:01:57+0000
+/project/graphql-subscription-manager/, graphql-subscription-manager, 0.3.6, A python3 library for graphql subscription manager, 2020-08-05T13:53:13+0000
+/project/pyview/, pyview, 1.0.2, A Simple GUI creator for python using wxpython. Combined with numpy, meant as an open source labview replacement., 2015-07-27T02:00:03+0000
+/project/thqm/, thqm, 1.3.1, remote command execution made easy., 2021-03-14T22:24:48+0000
+/project/milight-controller/, milight-controller, 1.0.1, Controller for MiLight RGB lights, 2016-08-15T23:33:50+0000
+/project/rsp1570serial-pp81381/, rsp1570serial-pp81381, 0.1.5, Rotel RSP-1570 processor asyncio RS-232 protocol, 2020-08-09T19:19:25+0000
+/project/pywibeee/, pywibeee, 0.0.2, Command line interface (CLI) for WiBeee (old Mirubee) meter, 2019-10-07T22:14:00+0000
+/project/pyheos/, pyheos, 0.7.2, An async python library for controlling HEOS devices through the HEOS CLI Protocol, 2020-11-14T19:51:59+0000
+/project/somweb/, somweb, 0.3.5, SOMweb client. Open/close Garage doors produced by SOMMER (base+/pro+/tiga/tiga+/barrier systems), 2021-02-26T16:51:38+0000
+/project/aioswitcher/, aioswitcher, 1.2.2, Switcher Water Heater Unofficial Bridge and API., 2021-01-11T09:02:14+0000
+/project/delcom904x/, delcom904x, 0.3.0, A python class to control Delcom USBLMP Products 904x multi-color, USB, visual signal indicators, 2021-04-08T03:16:49+0000
+/project/plugwise/, plugwise, 0.9.4, Plugwise (Adam/Anna/P1/Stick/Stretch) API to use in conjunction with Home Assistant Core., 2021-04-12T18:29:18+0000
+/project/pyfirmata/, pyFirmata, 1.1.0, A Python interface for the Firmata procotol, 2019-03-10T16:21:06+0000
+/project/pytibber/, pyTibber, 0.16.2, A python3 library to communicate with Tibber, 2021-03-14T09:09:37+0000
+/project/pylumigateway/, PyLumiGateway, 0.12.3, A library to communicate with the Lumi Gateway, 2019-05-07T21:49:52+0000
+/project/modbussharedmemory/, ModbusSharedMemory, 0.1.1, Shared memory concept known from PLC manner implemented over uModbus framework., 2019-05-23T16:09:00+0000
+/project/winspeech/, winspeech, 1.0.1, Speech recognition and synthesis module for Windows - Python 2 and 3., 2016-11-05T07:15:43+0000
+/project/tuyagateway/, tuyagateway, 2.0.3, Python middleware for Tuya WiFi smart devices to MQTT, 2021-01-13T20:04:40+0000
+/project/asmog/, asmog, 0.0.6, Python API for Ampio Smog Sensors, 2019-02-17T16:31:25+0000
+/project/skink/, Skink, 0.7.0, Control the DOM from Python using Websockets, 2014-10-25T14:43:23+0000
+/project/tfatool/, tfatool, 2.5.0, Tools for synchronizing files to/from and configuring the Toshiba FlashAir wireless SD card, 2017-11-30T04:36:05+0000
+/project/switchbot-mqtt/, switchbot-mqtt, 0.6.0, MQTT client controlling SwitchBot button & curtain automators, compatible with home-assistant.io's MQTT Switch & Cover platform, 2020-12-19T16:34:07+0000
+/project/pysomneo/, pysomneo, 0.1.12, A library to communicate with the API of Philips Somneo., 2020-07-26T18:18:35+0000
+/project/pycomfoair/, pycomfoair, 0.0.4, Interface for Zehnder ComfoAir 350 ventilation units, 2020-08-10T00:54:34+0000
+/project/txcosm/, txcosm, 0.1.0, txcosm is a Python Twisted package to communicate with the Cosm API., 2013-01-27T06:20:33+0000
+/project/hass-smartthings-remove/, hass-smartthings-remove, 1.0.1, Utility that removes SmartApps created by the Home Assistant SmartThings integration., 2019-02-28T03:13:23+0000
+/project/volux/, volux, 0.9.17, High-level media/entertainment workflow automation platform, 2019-11-23T14:31:49+0000
+/project/pymata-express/, pymata-express, 1.19, A Python Protocol Abstraction Library For Arduino Firmata using Python asyncio, 2020-09-17T23:22:50+0000
+/project/pydigitalstrom/, pydigitalstrom, 1.4.0, python api client for digitalSTROM, 2020-02-10T17:01:06+0000
+/project/pyhomematic/, pyhomematic, 0.1.72, Homematic interface, 2021-03-14T12:22:39+0000
+/project/huisbaasje-client/, huisbaasje-client, 0.1.0, Client for Huisbaasje, 2020-11-01T15:07:21+0000
+/project/aiohuesyncbox/, aiohuesyncbox, 0.0.19, Asyncio package to communicate with a Philips Hue Play HDMI Sync Box., 2021-04-18T14:50:26+0000
+/project/x10-any/, x10_any, 0.0.8, Issue x10 commands via CM17A Firecracker or Mochad (CM15A RF/PL and CM19A RF), 2018-04-25T06:22:25+0000
+/project/pyhomekit/, pyhomekit, 0.0.1.4, Python interface to control HomeKit accessories., 2017-07-31T05:27:22+0000
+/project/transilien-domoticz/, Transilien-Domoticz, 0.0.1, A Python script for use transilien.com API with Domoticz., 2017-03-04T07:22:12+0000
+/project/micropython-sht30/, micropython-sht30, 0.2.7, SHT30 sensor driver for micropython: IC2 bus, 2019-01-04T08:53:10+0000
+/project/prana-rc/, prana-rc, 0.4.4, Python library and CLI to control Prana recuperators via BLE connection (https://prana.org.ua/), 2021-04-06T22:14:33+0000
+/project/ble-gatt/, BLE-GATT, 0.5.0, Python library for Bluetooth Low Energy (BLE) Central on Linux, 2021-02-03T20:46:41+0000
+/project/musicbutler/, musicbutler, 0.1.7, A robot that receives voice commands to play albums from your MP3 collection, 2008-08-18T20:22:20+0000
+/project/getccwarc/, GetCCWarc, 0.0.1.dev34, Easily get a web-page from stored commmoncrawl WARC files on S3, 2019-07-06T06:29:45+0000
+/project/hass-pyscript-kernel/, hass-pyscript-kernel, 1.0.0, Home Assistant Pyscript Jupyter kernel shim, 2020-11-05T07:11:45+0000
+/project/attila/, attila, 1.2.0, Python module to communicate easily with modems and RF modules using AT commands, 2020-05-30T15:49:28+0000
+/project/pingo/, pingo, 0.2.0, Generic API to control boards with programmable IO pins., 2014-08-13T02:07:19+0000
+/project/easylife/, easylife, 0.2.0, Group of useful scripts and tools that makes your life easier by doing things for you. Automates same things you can do every day., 2017-10-06T17:32:58+0000
+/project/sensor/, sensor, 6, Raspberry Pi Sensors, 2019-10-09T13:11:23+0000
+/project/echonetlite/, echonetlite, 0.1.1, Echonet Lite, 2019-03-01T08:51:00+0000
+/project/biensoxe/, biensoxe, 0.8.5, Library to parse and validate Vietnamese vehicle plate, 2020-05-28T06:44:05+0000
+/project/openvisualizer/, openvisualizer, 2.0.0, Wireless sensor network monitoring and visualization tool, 2020-09-17T15:34:40+0000
+/project/musicassistant-client/, musicassistant-client, 0.0.29, Basic client for connecting to Music Assistant over websockets and REST., 2020-12-28T20:51:18+0000
+/project/htrest/, htrest, 0.1.10, Heliotherm heat pump REST API, 2021-01-30T16:35:13+0000
+/project/pya20lime2/, pyA20Lime2, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:57:03+0000
+/project/lino-openui5/, lino-openui5, 20.8.2, The SAP Open Ui5 user interface for Lino, 2020-08-22T08:30:03+0000
+/project/python-izone/, python-izone, 1.1.4, A python interface to the iZone airconditioner controller, 2021-01-28T14:16:57+0000
+/project/systemctl-mqtt/, systemctl-mqtt, 0.5.0, MQTT client triggering & reporting shutdown on systemd-based systems, 2020-11-06T19:02:41+0000
+/project/rocket-daisy/, rocket-daisy, 1.1, Remote open control key enabling technology (Rocket), 2021-02-23T15:20:24+0000
+/project/argaeus/, Argaeus, 0.1.10, ThermostatGUIController (display and gui-logic) for a thermostat - to be used in combination with pelops/copreus and pelops/alcathous, 2019-11-20T23:28:25+0000
+/project/hermes-audio-server/, hermes-audio-server, 0.2.0, An open source implementation of the audio server part of the Hermes protocol, 2019-06-04T16:32:36+0000
+/project/getpodcast/, getpodcast, 1.0.7, Download podcast, 2021-01-12T21:19:19+0000
+/project/pyharmony/, pyharmony, 1.0.21, Python library for programmatically using a Logitech Harmony Link or Ultimate Hub., 2018-10-25T01:24:08+0000
+/project/hwiopy/, hwiopy, 0.1.1, A common API for hardware input/output access., 2015-04-09T21:31:39+0000
+/project/lino-presto/, lino-presto, 20.8.0, A Lino application for managing services, 2020-08-07T08:02:20+0000
+/project/wireless-sensor/, wireless-sensor, 0.4.0, Receive & decode signals of FT017TH thermo/hygrometers, 2021-04-22T16:12:14+0000
+/project/pysupla/, pysupla, 0.0.5, Simple Supla's OpenAPI wrapper, 2020-09-04T11:32:00+0000
+/project/arduinozore/, Arduinozore, 1.1.3, Web server for arduino sensor visualization., 2018-05-04T09:49:16+0000
+/project/ynca/, ynca, 2.0.0, Automation control library for Yamaha receivers that support the YNCA protocol., 2021-01-17T20:15:06+0000
+/project/nikippe/, Nikippe, 0.1.11, A general purpose display server - takes values from mqtt and publishes the resulting image to mqtt., 2019-04-18T20:57:47+0000
+/project/ehpp/, ehpp, 0.1, EHPP is a preprocessor for EspHome (formely esphomeyaml), 2020-07-30T13:23:41+0000
+/project/noolite-f/, NooLite-F, 0.1.2, Module to work with NooLite/NooLite-F modules via MTRF-64/MTRF-64-USB adapter, 2019-03-02T20:43:03+0000
+/project/bond-api/, bond-api, 0.1.12, Asynchronous Python wrapper library over Bond Local API, 2021-04-04T20:49:07+0000
+/project/pytadolog/, pytadolog, 1.0.0, CSV logger for PyTado, 2021-02-27T15:29:15+0000
+/project/pydevccu/, pydevccu, 0.0.8, Virtual HomeMatic CCU XML-RPC backend, 2021-04-09T20:03:33+0000
+/project/gardenkit/, gardenkit, 1.3, GreenIQ Smart Garden Hub API, 2015-02-10T12:58:24+0000
+/project/wgadmin/, wgadmin, 0.2.0, , 2020-08-10T13:39:26+0000
+/project/ptpy/, ptpy, 0.3.2, A pure Python implementation of Picture Transfer Protocol., 2017-12-19T10:21:34+0000
+/project/linky-tools/, linky-tools, 1.0.0, Provide tools to grab and query data generated by Enedis Linky smart meter, 2019-03-29T20:59:57+0000
+/project/rpi-gpio-emu/, rpi-gpio-emu, 0.0.1, Placeholder package to emulate RPi.GPIO package on non-Pi devices, 2019-08-06T16:59:50+0000
+/project/tuyamqtt/, tuyamqtt, 1.1.6, Python middleware for Tuya WiFi smart devices to MQTT, 2020-06-04T19:52:41+0000
+/project/wemo/, wemo, 1.1.0, A Wemo API, 2019-12-07T17:38:07+0000
+/project/pymetno/, PyMetno, 0.8.3, A library to communicate with the met.no api, 2021-04-21T04:30:42+0000
+/project/deebotozmo/, deebotozmo, 1.7.8, a library for controlling certain robot vacuums [SUCKS FORK], 2021-01-27T08:17:48+0000
+/project/teleinfo/, teleinfo, 1.2.1, EDF Teleinfo frame acquisition, 2020-08-28T19:21:45+0000
+/project/onyx-client/, onyx-client, 2.4.0, HTTP Client for Hella's ONYX.CENTER API., 2021-02-14T11:44:35+0000
+/project/pya10lime/, pyA10Lime, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:52:32+0000
+/project/esphome/, esphome, 1.16.2, Make creating custom firmwares for ESP32/ESP8266 super easy., 2021-02-20T07:05:56+0000
+/project/millheater/, millheater, 0.4.0, A python3 library to communicate with Mill, 2020-11-21T21:30:22+0000
+/project/lw12/, lw12, 0.9.2, Library to control the Lagute LW-12 WiFi LED controller., 2018-03-18T08:44:19+0000
+/project/hippasos/, Hippasos, 0.1.7, Hippasos plays preconfigured sound files upon reception of predefined mqtt messages., 2019-04-07T20:18:09+0000
+/project/warmup4ie/, warmup4ie, 0.1.5, client library for 4IE thermostat sold by warmup, 2019-05-18T08:22:06+0000
+/project/caissa/, caissa, 0.4.0, Caissa voice-controlled personal assistant, 2018-07-16T18:34:27+0000
+/project/python-tadoac/, python-tadoac, 0.0.2, PyTado modified by dgaust for AC, 2019-05-29T21:13:21+0000
+/project/cozypy/, cozypy, 1.2.7, Cozytouch python client, 2020-11-11T16:23:02+0000
+/project/python-gc100/, python-gc100, 1.0.3a0, A Python-based socket client for Global Cache GC100 digital I/O interface, 2017-11-09T14:25:10+0000
+/project/pywarmup/, pywarmup, 0.1.0, Client library for Warmup thermostats, 2020-02-02T21:31:41+0000
+/project/eazyctrl/, eazyctrl, 0.3, Monitoring and controlling Easy Controls KWL (air exchanger)devices via Modbus/TCP., 2020-08-25T12:23:33+0000
+/project/swissweather/, swissweather, 0.2.4, SRF Meteo weather forecast in Switzerland, 2020-06-14T10:20:04+0000
+/project/motionblinds/, motionblinds, 0.4.11, Python library for interfacing with Motion Blinds, 2021-03-31T19:42:04+0000
+/project/lulebocli/, lulebocli, 0.1.3, CLI tool to interact with the Lulebo API, 2017-12-19T00:25:12+0000
+/project/mpymodcore/, mpymodcore, 0.0.19, mpymodcore, 2020-12-12T05:29:25+0000
+/project/pysnoo/, pysnoo, 0.1.2, A Python library and CLI to communicate with the Snoo Smart Baby Sleeper and Bassinet from Happiest Baby, 2021-02-17T23:47:47+0000
+/project/pysonos/, pysonos, 0.0.43, A SoCo fork with fixes for Home Assistant., 2021-04-16T18:50:17+0000
+/project/aiohomekit/, aiohomekit, 0.2.61, An asyncio HomeKit client, 2021-04-11T09:31:56+0000
+/project/insteontcp/, insteontcp, 0.0.5, A python package that interacts with the Insteon PLMs directly over their TCP interface, 2017-04-30T17:20:20+0000
+/project/solight-dy08/, solight-dy08, 1.0.0, Control Solight DY08 sockets, 2019-03-31T11:31:15+0000
+/project/rfdevices/, rfdevices, 0.3.0, Control household RF devices with low-cost GPIO modules, 2017-06-16T02:59:54+0000
+/project/pymaxcul/, pymaxcul, 0.1.12, Talk to eq-3 MAX! devices using a CUL stick, 2018-04-29T08:16:18+0000
+/project/openpeerpower/, openpeerpower, 2021.4.3, Open-source home automation platform running on Python 3., 2021-04-11T10:00:19+0000
+/project/raspi-gpioctl/, raspi_gpioctl, 0.0.2, Raspberry Pi GPIO pin state controller, 2016-10-23T18:18:04+0000
+/project/pysoma/, pysoma, 0.0.10, A simple package for controlling SOMA devices, 2019-09-03T07:53:45+0000
+/project/pyhatchbabyrest/, pyhatchbabyrest, 2.0.1, Python library to control Hatch Baby Rest devices, 2020-12-21T18:13:21+0000
+/project/publishing-to-pypi-with-pbr-and-travis/, Publishing-to-PyPI-with-pbr-and-Travis, 1.1.0, Publishing to Pypi with PBR and Travis., 2018-10-26T08:08:45+0000
+/project/pyatmo/, pyatmo, 4.2.2, Simple API to access Netatmo weather station data from any Python 3 script. Designed for Home-Assitant (but not only), 2021-01-20T21:55:40+0000
+/project/senml/, senml, 0.1.0, SenML library, 2016-08-12T08:12:06+0000
+/project/pysonofflanr3/, pysonofflanr3, 1.1.4, Interface for Sonoff devices running v3+ Itead firmware., 2020-03-29T14:59:38+0000
+/project/adtpulsepy/, adtpulsepy, 0.0.1, An ADT Pulse client using their undocumented API., 2018-11-03T07:45:31+0000
+/project/python-samsung-mdc/, python-samsung-mdc, 1.2.0, Samsung Multiple Display Control (MDC) protocol implementation (asyncio library + CLI interface), 2021-03-28T19:41:58+0000
+/project/pyinnotemp/, pyinnotemp, 0.2, innotemp interface, 2019-10-03T17:57:31+0000
+/project/pynoon/, pynoon, 0.0.16, Python library for Noon Home, 2019-04-05T23:54:29+0000
+/project/piir/, PiIR, 0.2.5, IR remote control for Raspberry Pi, 2021-04-10T02:13:35+0000
+/project/pingplusplus/, pingplusplus, 1.0.0, ping logging, 2018-07-21T10:53:08+0000
+/project/micromez/, micromez, 0.0.4, Python library for support of 96board mezzanine micromez, 2019-04-22T19:50:03+0000
+/project/archippe/, Archippe, 0.2.1, Archippe is a data persistence micro service for pelops. It uses influxdb to store incoming values and publishes the history a series upon request., 2020-04-23T22:29:30+0000
+/project/ouimeaux/, ouimeaux, 0.8.2, Open source control for Belkin WeMo devices, 2019-05-06T20:43:08+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/qvrpy/, qvrpy, 0.1a0, An abstraction of the QVR Pro API, 2019-09-10T06:30:39+0000
+/project/chip-io/, CHIP-IO, 0.7.1, A module to control CHIP IO channels, 2017-11-12T13:51:26+0000
+/project/evohome/, evohome, 0.0.8, A Honeywell evohome RF agent (compliant with RAMSES II)., 2019-12-21T18:13:45+0000
+/project/cora-ui/, cora-ui, 0.0.1, Touchscreen interface for Cora virtual assistant, 2019-06-25T10:45:56+0000
+/project/plaid2qif/, plaid2qif, 1.3.4, Download financial transactions from Plaid as QIF files., 2020-12-06T19:28:06+0000
+/project/soco/, soco, 0.22.1, SoCo (Sonos Controller) is a simple library to control Sonos speakers., 2021-04-17T16:40:44+0000
+/project/senzwifi/, senzwifi, 0.0.1, Python module for working with the senz wifi climate devices, 2020-10-03T11:27:39+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/skybellpy/, skybellpy, 0.6.3, An Skybell HD Python library running on Python 3., 2020-12-29T15:46:02+0000
+/project/pymagicswitchbot/, pyMagicSwitchbot, 1.0.14, Library to control Magic Switchbot devices, 2021-04-09T21:54:13+0000
+/project/instruction-graph/, instruction-graph, 0.2.23, An implementation of Transferable Augmented Instruction Graph, 2018-06-14T20:53:15+0000
+/project/recovoc/, RecoVoc, 1.0.5, Reconnaissance vocale., 2017-08-26T13:37:40+0000
+/project/gtsocket/, gtsocket, 0.1, Receive and/or send commands to radio controlled sockets (model GT-FSI-11) from brand "Globaltronics"., 2019-02-24T11:44:30+0000
+/project/lino-react/, lino-react, 20.12.0, The React user interface for Lino, 2020-12-28T07:32:50+0000
+/project/shoppinglist/, shoppinglist, 1.1.0, Quickly different combinations of prices and spare money, 2018-06-28T13:36:53+0000
+/project/pushfin/, pushfin, 0.2.1, Publishes bank account transactions and balances via MQTT, Telegram and Pushover., 2018-04-29T19:33:35+0000
+/project/mysbox/, mysbox, 0.1, It is a module to make easier communication with MySensor's network., 2015-12-05T20:56:54+0000
+/project/pi-sht1x/, Pi-Sht1x, 1.0.9, Python 3 library for Sensirion SHT1x series of temperature & humidity sensors for the Raspberry Pi., 2016-10-15T06:17:10+0000
+/project/lifx-tools/, lifx-tools, 0.1.0, Graphical interface for controlling lifx bulbs, 2019-07-13T04:47:49+0000
+/project/pyswitchbot/, PySwitchbot, 0.9.1, A library to communicate with Switchbot, 2020-12-20T08:05:20+0000
+/project/omron-2jcie-bu01/, omron-2jcie-bu01, 0.1.0, API for OMRON 2JCIE-BU01 Environment Sensor, 2020-09-25T12:45:28+0000
+/project/greenscreen-control/, greenscreen-control, 0.0.2, Python module, server and utility to control greenscreen., 2017-07-25T21:17:31+0000
+/project/pyraven/, pyraven, 0.1.6, Interface with the Rainforest Automation RAVEn USB stick, 2019-10-08T10:38:08+0000
+/project/lightware/, lightware, 0.0.1, Python library to provide a  communication link with LightWare Eth switches., 2019-01-11T13:44:51+0000
+/project/denonavr/, denonavr, 0.10.5, Automation Library for Denon AVR receivers, 2021-03-31T22:10:04+0000
+/project/mci/, mci, 1.1.1, MiLight-Control-Interface, 2016-10-24T19:27:27+0000
+/project/txcurrentcost/, txcurrentcost, 0.0.3, txcurrentcost is a Python Twisted package that lets you monitor your CurrentCost device., 2013-01-04T04:50:27+0000
+/project/turntouch/, TurnTouch, 0.4.3, Python library for the Turn Touch smart home remote, 2018-07-26T14:47:54+0000
+/project/adax/, adax, 0.1.0, A python3 library to communicate with Adax, 2021-04-07T14:56:09+0000
+/project/brewpi/, BrewPi, 0.0.0.1, For the fans of the original Arduino temperature controller, 2020-08-02T14:19:31+0000
+/project/digi-xbee-unofficial/, digi-xbee-unofficial, 1.4.3, Digi XBee Python library, 2021-02-16T05:01:20+0000
+/project/upnpclient/, upnpclient, 1.0.3, Python 3 library for accessing uPnP devices., 2020-12-04T15:51:39+0000
+/project/adafruit-bbio/, Adafruit-BBIO, 1.2.0, A module to control BeagleBone IO channels, 2020-07-31T02:25:44+0000
+/project/intertechno/, intertechno, 0.2, Library for communicating with intertechno devices., 2016-04-06T13:15:11+0000
+/project/smarthab/, SmartHab, 0.21, This package allows controlling devices in a SmartHab-powered home., 2020-06-01T16:25:44+0000
+/project/pysmartthings/, pysmartthings, 0.7.6, A python library for interacting with the SmartThings cloud API build with asyncio and aiohttp., 2020-11-14T19:28:38+0000
+/project/lit-core/, lit-core, 0.0.4, Lit Ilumination Technology, 2020-12-28T22:00:17+0000
+/project/lcdmanager/, LCDManager, 0.4.0, Lcd window manager for char lcds (Hitachi HD44780) @ Raspberry Pi., 2016-11-13T18:48:25+0000
+/project/skeiron/, Skeiron, 0.1.3, Skeiron provides a Forwarding/Echo/Collect/Distribute service., 2019-04-07T20:19:53+0000
+/project/beward/, beward, 1.0.14, Constants., 2021-03-23T04:05:04+0000
+/project/satbot/, satbot, 0.1.10, Read data from commonly-available "satellite" hobby R/C receivers., 2015-01-20T00:22:34+0000
+/project/smarthomeconnect/, smarthomeconnect, 0.2, The Smart Home Connect home automation framework based on AsyncIO, 2020-10-08T19:57:55+0000
+/project/wt-pygardena/, wt.pygardena, 0.9.6, Library to connect to Garena Smart, 2019-03-04T12:33:48+0000
+/project/samsung-mdc/, samsung-mdc, 0.1.0, Implementation of the Multiple Display Control Protocol., 2019-01-19T20:31:00+0000
+/project/pwrusb/, pwrusb, 1.0.3, A python wrapper for controlling pwrusb.com power strip outlets., 2016-04-11T19:20:24+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/chip-arest/, CHIP-aREST, 0.3, A module to control the CHIP IO channels via a REST API, 2017-12-16T19:52:48+0000
+/project/rpio/, RPIO, 0.10.0, Advanced GPIO for the Raspberry Pi. Extends RPi.GPIO with PWM, GPIO interrups, TCP socket interrupts, command line tools and more, 2013-03-14T15:00:48+0000
+/project/cc1101-python/, cc1101-python, 1.0.0, Python interface to the CC1101 Linux device driver, 2021-01-31T11:30:34+0000
+/project/pykicadlib/, pykicadlib, 0.0.1, Python KiCAD library parser/generator, 2019-09-20T16:20:06+0000
+/project/thingamon/, thingamon, 1.0.0, AWS MQTT IoT Thing monitor, 2019-10-27T18:32:31+0000
+/project/prana-rc-client/, prana-rc.client, 0.4.4, Python library and CLI to control Prana recuperators via BLE connection (https://prana.org.ua/), 2021-04-06T22:14:34+0000
+/project/pyrfxtrx/, pyRFXtrx, 0.26.1, a library to communicate with the RFXtrx family of devices, 2020-12-17T16:21:31+0000
+/project/pya10-cb/, pyA10_CB, 0.1.0, Control GPIOs on Cubieboard A10., 2014-01-08T23:20:33+0000
+/project/patatmo/, patatmo, 0.2.15, painless access to the netatmo weather api, 2019-05-05T18:55:49+0000
+/project/timeguard-supplymaster/, timeguard-supplymaster, 0.0.17, Implementation of the API used by the Timeguard's Supplymaster application, 2021-03-09T21:18:07+0000
+/project/hahomematic/, hahomematic, 0.0.2, Homematic interface for Home Assistant, 2021-04-20T08:53:27+0000
+/project/tellive-py/, tellive-py, 0.5.2, Python wrapper for connecting to Telldus Live, 2014-11-25T18:55:43+0000
+/project/kogniserver/, kogniserver, 0.3.1, Interface server of the KogniHome project, 2019-02-26T13:59:10+0000
+/project/django-haweb/, django-haweb, 0.2.5, A Django app which shows a web front for django-hautomation, 2014-09-01T20:58:32+0000
+/project/htknx/, htknx, 0.2.0, Heliotherm heat pump KNX gateway, 2021-02-06T16:23:28+0000
+/project/python-fullykiosk/, python-fullykiosk, 0.0.8, Python wrapper for Fully Kiosk Browser REST API, 2020-10-20T12:31:15+0000
+/project/b-rabbit/, b-rabbit, 1.2.1, An abstract interface for RabbitMQ communication, 2020-09-26T11:03:40+0000
+/project/flux-led/, flux-led, 0.22, A Python library to communicate with the flux_led smart bulbs, 2018-10-21T06:34:10+0000
+/project/nature-remo/, nature-remo, 0.3.3, Python client for Nature Remo API, 2021-01-16T07:11:01+0000
+/project/turk/, Turk, 0.1.1, A framework for interfacing applications and devices with the web, 2010-03-09T23:52:13+0000
+/project/aiofreepybox/, aiofreepybox, 0.0.8, Provides asynchronous authentication and access to Freebox servers, 2019-03-10T22:23:38+0000
+/project/vivintpy/, vivintpy, 2021.3.5, Python library for interacting with the Vivint Sky API., 2021-03-19T02:17:28+0000
+/project/rpimcp23s17/, RPiMCP23S17, 1.0.0, A module to access GPIO expanders MCP23S17 from a Raspberry Pi., 2019-03-20T19:23:48+0000
+/project/gfxcili/, gfxcili, 0.3.1, GfxCili = GfxLCD in C, 2019-09-06T17:19:08+0000
+/project/hippodamiaagent/, HippodamiaAgent, 0.1.12, Hippodamia observe the state of all registered microservices (aka watch dog)., 2019-04-05T20:22:04+0000
+/project/deebotozmo-beta/, deebotozmo-beta, 0.0.3, a library for controlling certain robot vacuums - BETA, 2021-03-11T11:52:34+0000
+/project/devicehive-plugin/, devicehive-plugin, 1.0.3, DeviceHive Python plugin connectivity library, 2018-04-10T14:00:11+0000
+/project/ueagle/, uEagle, 0.0.2, Tool to read data from Rainforest Legacy Eagle., 2020-11-03T05:49:19+0000
+/project/goodwe-hass/, goodwe-hass, 0.2.0, A library to communicate with the API of Goodwe., 2019-05-28T18:33:25+0000
+/project/triggerd/, triggerd, 0.6.0, Trigger an event or notification upon the output of a command., 2016-01-22T23:01:15+0000
+/project/btsocket/, btsocket, 0.1.0, Python library for BlueZ Bluetooth Management API, 2021-03-07T17:37:49+0000
+/project/darkskylib/, darkskylib, 0.3.91, The Dark Sky API wrapper, 2018-01-14T00:35:25+0000
+/project/openremote-cli/, openremote-cli, 0.6.39, OpenRemote Command-line interface, 2021-04-22T08:15:27+0000
+/project/aionlib/, aionlib, 0.1.1, Library support for the 'aion' project, 2020-06-28T12:12:43+0000
+/project/networkdiscovery/, networkDiscovery, 1.0.7, Discover devices on your local network, 2020-09-22T12:28:21+0000
+/project/em-media-handler/, em-media-handler, 1.0b3, A comprehensive media handling automation script., 2015-02-08T15:44:17+0000
+/project/pleisthenes/, Pleisthenes, 0.1a0, Pleisthenes is a weather microservice (connects to a weather site and provides e.g. local sun radiation)., 2018-11-19T22:44:01+0000
+/project/brickpi/, BrickPi, 0.1.3, BrickPi interfaces for Python and Scratch, 2014-04-23T19:40:05+0000
+/project/iot-message/, iot-message, 1.2.1, Custom iot:1 protocol, 2019-10-27T19:07:25+0000
+/project/knxsonos/, knxsonos, 0.2.2, Control a Sonos system from your KNX installation, 2016-04-16T15:26:19+0000
+/project/pyrfxtrx-tipi85/, pyRFXtrx-tipi85, 0.25.9, a library to communicate with the RFXtrx family of devices, 2020-11-14T09:37:29+0000
+/project/rpi-pir/, RPi.PIR, 0.5.0, PIR sensor state monitor, 2020-08-11T21:09:01+0000
+/project/huefs/, huefs, 0.0.1a2, Philips Hue as a FUSE filesystem, 2018-03-22T07:35:19+0000
+/project/kalliope/, kalliope, 0.7.1, Kalliope is a modular always-on voice controlled personal assistant designed for home automation., 2020-12-06T16:54:32+0000
+/project/voicecom/, VoiceCom, 0.0.2rc2, An open source Voice-User-Interface (VUI), 2015-06-01T22:48:08+0000
+/project/homeassistant-pyozw/, homeassistant-pyozw, 0.1.10, python_openzwave is a python wrapper for the openzwave c++ library., 2020-03-24T10:10:14+0000
+/project/music-album-creation/, music-album-creation, 1.3.1, A CLI application intending to automate offline music library building., 2019-11-02T13:43:46+0000
+/project/pyvantage/, pyvantage, 0.0.38, Python library for Vantage Controller (for Home Assistant), 2020-07-18T04:28:15+0000
+/project/daylight/, daylight, 0.1.3, Python bindings to libdaylight, 2020-06-14T18:24:51+0000
+/project/pyseneye-windows/, pyseneye-windows, 0.0.2, A module for interacting with the Seneye range or aquarium and pond sensors, 2019-04-24T20:16:33+0000
+/project/imx233-gpio/, iMX233_GPIO, 0.1.0, Control GPIOs on iMX233-OLinuXino., 2013-04-23T06:53:06+0000
+/project/fritzctl/, fritzctl, 1.0.0a3, Object oriented TR64 FRITZ!Box Client Library, 2019-07-22T22:28:37+0000
+/project/mijnsimpel/, MijnSimpel, 0.5, Python Client to Mijn Simpel, 2020-09-17T00:46:53+0000
+/project/pyemvue/, pyemvue, 0.12.2, Unofficial library for interacting with the Emporia Vue energy monitor., 2021-02-10T03:09:38+0000
+/project/senseme/, SenseMe, 0.1.5, HaikuHome SenseMe API for fans and lights, 2018-07-14T00:04:01+0000
+/project/jarvis-assistant/, jarvis-assistant, 0.1.3, Jarvis - Voice Personal Assistant, 2021-02-10T09:27:14+0000
+/project/aiosenseme/, aiosenseme, 0.5.5, SenseME by Big Ass Fans asynchronous Python library, 2021-03-27T19:20:02+0000
+/project/python-blebox/, python-blebox, 0.0.2, Python API for interacting with Blebox smart devices, 2018-07-22T23:19:47+0000
+/project/ck/, ck, 1.55.11, Collective Knowledge - a lightweight knowledge manager to organize, cross-link, share and reuse artifacts and workflows, 2021-04-23T17:16:18+0000
+/project/energenie/, energenie, 1.0.1, Remotely control power sockets from the Raspberry Pi, 2015-01-03T13:51:44+0000
+/project/asyncpysupla/, asyncpysupla, 0.0.5, Simple Supla's OpenAPI async wrapper, 2020-09-02T14:59:50+0000
+/project/maxcul/, maxcul, 0.1.1, Access with Python MAX! Devices over a CUL Stick, 2017-02-03T19:07:50+0000
+/project/pysesame/, pysesame, 0.2.0, Python API for Sesame smart locks, 2018-02-05T17:25:04+0000
+/project/ambiclimate/, Ambiclimate, 0.2.1, A python3 library to communicate with Ambiclimate, 2019-08-24T09:49:39+0000
+/project/tplink-eap/, tplink-eap, 0.2.0, A library to communicate with the TP link EAP access point., 2020-01-11T14:17:38+0000
+/project/cozytouchpy/, cozytouchpy, 2.0.0, Cozytouch python client (fork cozypy), 2021-04-10T15:04:40+0000
+/project/orbit-framework/, orbit_framework, 0.1.0, Ein Python-Framework für robuste TinkerForge-Anwendungen, 2014-07-28T11:12:38+0000
+/project/touchosc2midi/, touchosc2midi, 0.0.10, TouchOSC Bridge clone in python, 2017-04-16T16:31:15+0000
+/project/pyspcwebgw/, pyspcwebgw, 0.5.0, A Python library for communicating with SPC Web Gateway., 2020-10-07T21:04:09+0000
+/project/python-duco/, python-duco, 0.1.0, Open-source Python 3 library that allows communication to the Duco Ventilation System., 2017-10-24T19:58:19+0000
+/project/athom-api/, athom-api, 1.1.0, A python module for accessing the Athom Web-API for use with the Athom Homey, 2020-06-17T17:53:45+0000
+/project/adext/, adext, 0.4.1, AlarmDecoder extended, 2021-02-28T20:55:15+0000
+/project/siro/, siro, 0.4, This is a package for controlling the SIRO SmartHome Devices like rollers., 2020-10-15T20:33:10+0000
+/project/mqttasgi/, mqttasgi, 0.2.0, MQTT ASGI Protocol Server, 2020-05-18T17:29:11+0000
+/project/pydvdid/, pydvdid, 1.1, A pure Python implementation of the Windows API IDvdInfo2::GetDiscID method, as used by Windows Media Center to compute a 'practically unique' 64-bit CRC for metadata retrieval., 2018-01-26T21:25:34+0000
+/project/thyestes/, Thyestes, 0.1.2, Thyestes it a timer microservice. Listens on topics for specific messages, starts a timer when such a messages has been received and publishes a predefined message after the timer expired., 2019-04-07T20:20:33+0000
+/project/pymata-aio/, pymata-aio, 2.35, A Python Protocol Abstraction Library For Arduino Firmata using Python asyncio, 2020-02-06T17:58:08+0000
+/project/rallf/, rallf, 0.4.5, rallf.com Software Development Kit (SDK), 2019-03-14T11:57:00+0000
+/project/idiotic/, idiotic, 0.2.0, Distributed home automation controller, 2016-03-23T04:44:30+0000
+/project/pcf8574/, pcf8574, 0.1.3, Library for communication with PCF8574 IO expander over I2C, 2021-02-16T00:07:21+0000
+/project/selenium-update/, selenium-update, 0.0.0, Automate Selenium webdriver dependency set up, 2020-08-09T10:21:26+0000
+/project/awlsim/, awlsim, 0.74.0, S7 compatible Programmable Logic Controller PLC/SPS (AWL, STL, FUP, FBD), 2020-09-13T08:47:02+0000
+/project/mpymodcore-watering/, mpymodcore-watering, 0.0.9, mpymodcore, 2020-12-12T05:32:22+0000
+/project/pyxbee-tne/, pyXBEE-tne, 0.4.0, a library to communicate with the XBEE, 2018-12-25T13:07:53+0000
+/project/sucks/, sucks, 0.9.6, an abandoned library for controlling certain robot vacuums, 2020-05-25T22:31:27+0000
+/project/pyvcontrold/, pyvcontrold, 0.0.15, Library Viessmann heaters, 2020-08-26T07:45:57+0000
+/project/distkv-wago/, distkv-wago, 0.7.0, A distributed no-master key-value store, 2021-02-07T17:36:02+0000
+/project/skydance/, skydance, 0.1.2, A library for communication with Skydance Wi-Fi relays., 2021-01-17T20:49:55+0000
+/project/carson-living/, carson-living, 0.0.5, A Python library to communicate with Carson Living Residences (https://www.carson.live/), 2020-11-23T15:27:24+0000
+/project/solight-dy01/, solight-dy01, 1.0.0, Control Solight sockets, 2019-03-31T10:26:18+0000
+/project/callattendant/, callattendant, 1.1.0, An automated call attendant and call blocker using a Raspberry Pi and USR-5637 modem, 2020-11-17T01:01:36+0000
+/project/zipunicode/, ZipUnicode, 1.0.0, Fix unreadable file names when extracting zip file, 2020-05-30T04:08:50+0000
+/project/edison/, edison, 0.0.2, Absurdity as a Service, 2014-02-04T06:19:01+0000
+/project/miblepy/, miblepy, 0.4.6, miblepy fetches data from various (Xiaomi/Mijia/Mi) Bluetooth LE devices and push it to a MQTT broker in a coordinated, sequential manner., 2020-05-27T12:55:30+0000
+/project/gce/, gce, 1.0.2, Script Python pour interroger un module Teleinfo de GCE Electronics, 2020-01-06T11:52:38+0000
+/project/rpi-rfsniffer/, rpi-rfsniffer, 0.1.0, RF remote sniffer and sender for the Raspberry Pi, 2017-01-12T19:17:36+0000
+/project/gotemp/, gotemp, 1.0.1, A library for interacting with GoTemp! temperature sensors., 2013-03-22T18:56:09+0000
+/project/aiohwenergy/, aiohwenergy, 0.0.6, Asyncio package to communicate with a HomeWizard Energy Device., 2021-03-15T14:34:31+0000
+/project/homekit-display-switch/, HomeKit-Display-Switch, 1.0.1, HomeKit accessory that allows you to sleep/wake your Mac's display., 2019-02-05T12:29:24+0000
+/project/xfinity-usage/, xfinity-usage, 3.0.1, Python/selenium script to get Xfinity bandwidth usage from Xfinity MyAccount website., 2018-09-02T12:49:33+0000
+/project/smlpy/, smlpy, 0.2.3, smlpy enables reading of smart meter language (sml) data from a smart power meter. You need a working IR-reading device for this, e.g. https://shop.weidmann-elektronik.de/index.php?page=product&info=24which must be connected to an USB port. Please note that this library only supports a small part of the SML-spec, especially the sending part is intentionally omitted, 2021-02-17T19:50:30+0000
+/project/rpi-dht/, RPi.DHT, 0.5.0, Python implementation for Adafruit_DHT sensor for Raspberry Pi., 2020-08-11T21:15:57+0000
+/project/penin/, penin, 0.1.0, Information gathering and penetration testing framework, 2019-04-30T21:22:40+0000
+/project/habapp/, HABApp, 0.20.2, Easy automation with MQTT and/or openHAB. Create home automation rules in python., 2021-04-07T07:15:54+0000
+/project/orangepi-gpio/, OrangePi.GPIO, 0.6.3, A module to control OrangePi GPIO channels, 2018-06-04T05:02:33+0000
+/project/tc420/, tc420, 0.2.1, TC420 LED Controller library and command line interface, 2021-01-03T19:29:34+0000
+/project/spyrk/, spyrk, 0.0.4, Python module for Spark devices, 2016-04-20T22:33:56+0000
+/project/plumlightpad/, plumlightpad, 0.0.11, A python package that interacts with the Plum Lightpad, 2018-10-15T22:04:31+0000
+/project/xbee-helper/, xbee-helper, 0.0.7, This project offers a high level API to an XBee device running an up-
+to-date version of the ZigBee firmware. It builds upon the existing
+XBee project by abstracting more functionality into methods., 2016-05-03T12:07:14+0000
+/project/sonyp-rs232c/, sonyp_rs232c, 0.1, A Python3 class used for controlling a Sony VPL-HWXXES projector via serial connection., 2017-10-06T23:54:06+0000
+/project/lifesospy/, lifesospy, 0.10.1, Provides an interface to LifeSOS alarm systems., 2019-01-13T13:47:24+0000
+/project/lysidike/, Lysidike, 0.1.2, Lysidike publishes incoming mqtt messages to various internet services like email., 2019-04-07T20:18:43+0000
+/project/knittingpattern/, knittingpattern, 0.1.19, Python library for knitting machines., 2016-08-21T10:29:01+0000
+/project/python-cipclient/, python-cipclient, 0.0.2, A Python-based socket client for communicating with Crestron control processors via CIP., 2020-03-16T02:38:58+0000
+/project/tesla-powerwall-json-py/, tesla-powerwall-json-py, 0.0.1, Python module to access local Tesla Powerwall JSON API, 2019-06-20T08:38:35+0000
+/project/epidaurus/, Epidaurus, 0.2.0, PID based room temperature controller - to be used in combination with pelops/copreus, pelops/argaeus and pelops/alcathous., 2020-04-23T22:47:06+0000
+/project/pyoutlet/, pyoutlet, 0.0.8, Python CLI & Web switcher for Etekcity power outlets using 433MHz RF emitter, 2016-12-02T13:22:45+0000
+/project/solight-dy05/, solight-dy05, 1.0.0, Control Solight DY05 sockets, 2019-03-31T11:21:53+0000
+/project/rustybits/, rustybits, 0.0.2, , 2020-01-19T21:35:16+0000
+/project/pymata/, PyMata, 2.20, A Python Protocol Abstraction Library For Arduino Firmata, 2019-09-17T14:46:38+0000
+/project/lightpack/, lightpack, 0.0.1, Controls Lightpack devices through a common Python API, 2014-02-04T06:31:44+0000
+/project/pyntensiswmp/, pyntensiswmp, 0.0.1, Intensis WMP Connector, 2018-04-21T17:29:20+0000
+/project/hautomation-gpio/, hautomation_gpio, 0.7, Home Automation Python Project Plugin for Raspberry PI GPIO, 2014-08-30T09:32:17+0000
+/project/pih2o/, pih2o, 1.0.3, An automatic plant watering application in pure Python for the Raspberry Pi., 2019-06-09T22:40:18+0000
+/project/appdaemon/, appdaemon, 4.0.8, Apps for the Home Assistant home automation package., 2021-03-31T00:34:09+0000
+/project/pycec/, pyCEC, 0.5.1, Provide HDMI CEC devices as objects, especially for use with Home Assistant, 2020-10-26T23:45:50+0000
+/project/pydmxcontrol/, PyDMXControl, 1.6.3, A Python 3 module to control DMX using uDMX. Featuring fixture profiles, built-in effects and a web control panel., 2019-07-13T09:45:19+0000
+/project/yeelib/, yeelib, 2.1.10, Python library for Xiaomi Mi Yeelight., 2019-04-07T07:36:10+0000
+/project/distkv-akumuli/, distkv-akumuli, 0.4.1, A distributed no-master key-value store, 2021-02-04T19:34:40+0000
+/project/pyps4-2ndscreen/, pyps4-2ndscreen, 1.3.0, PS4 2nd Screen Python Library, 2021-02-01T09:19:00+0000
+/project/cred-client/, cred-client, 0.2.6, Client Library for cred-server., 2015-06-26T01:46:49+0000
+/project/cayenne-mqtt/, cayenne-mqtt, 1.1.0, Cayenne MQTT Python Library, 2018-02-17T02:02:35+0000
+/project/pelops/, Pelops, 0.5.0, Common tools for projects of the the gitlab group pelops., 2020-04-23T21:03:36+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/freeboxtv/, freeboxtv, 0.9.1, VLC launcher for Freebox TV/Freeplayer, 2011-11-21T19:35:52+0000
+/project/rxv/, rxv, 0.6.0, Automation Library for Yamaha RX-V473, RX-V573, RX-V673, RX-V773 receivers, 2018-09-30T20:41:07+0000
+/project/hippodamiaservice/, HippodamiaService, 0.1a1, Hippodamia observe the state of all registered microservices (aka watch dog)., 2018-11-24T10:42:15+0000
+/project/pydaikin/, pydaikin, 2.4.1, Python Daikin HVAC appliances interface, 2021-01-06T12:45:27+0000
+/project/sht-sensor/, sht-sensor, 18.4.2, Driver and command-line tool for Sensirion SHT1x and SHT7x sensors connected to GPIO pins., 2018-04-06T23:56:17+0000
+/project/ipremote/, IPRemote, 0.1.8, , 2020-09-24T02:18:22+0000
+/project/milightwifibridge/, MilightWifiBridge, 2.1, Milight Wifi Bridge 3.0 controller for LimitlessLED Wifi Bridge v6.0 protocol (Light ON/OFF, change color/mode/brightness/saturation, link/unlink), 2019-11-09T18:22:54+0000
+/project/distkv-owfs/, distkv-owfs, 0.6.1, A distributed no-master key-value store, 2021-02-07T17:57:05+0000
+/project/python-gsmmodem/, python-gsmmodem, 0.9, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2013-07-18T11:23:48+0000
+/project/pyswitchmate/, PySwitchmate, 0.4.6, A library to communicate with Switchmate, 2019-07-07T10:25:52+0000
+/project/mikenye-pyizone/, mikenye-pyizone, 0.1, Query and control of WiFi-enabled iZone 310 and compatible family of climate control devices, 2020-11-07T06:33:29+0000
+/project/beewipy/, BeewiPy, 0.0.1, A python library to interact with Beewi SmartBulb, 2020-05-10T02:18:01+0000
+/project/pyprofibus/, pyprofibus, 1.8, Python PROFIBUS module, 2020-09-13T08:22:05+0000
+/project/veides-agent-sdk/, veides-agent-sdk, 0.2.0, Agent Python SDK for Veides, 2020-11-13T14:05:41+0000
+/project/pyavreceiver/, pyavreceiver, 0.0.10, An async python library for controlling Audio Video Receiver devices, 2021-01-10T06:17:45+0000
+/project/pisurvl/, pisurvl, 0.0.8, A surveillance system based on Raspberry Pi, 2017-07-30T13:45:58+0000
+/project/mqreceive/, mqreceive, 0.1.2, MQTT receive wrapper library, 2016-07-10T12:40:39+0000
+/project/pyufoled/, pyufoled, 0.0.2, A Python3 wrapper for LD686-compatible LED controllers., 2020-06-13T00:02:55+0000
+/project/pyskyplushd/, PySkyPlusHD, 0.2.0, Python package to control a Sky+ HD box, 2019-11-13T00:50:10+0000
+/project/simpletr64/, simpleTR64, 1.0.6, An easy to use UPnP TR64 protocol library, 2016-01-24T08:18:59+0000
+/project/python-tado/, python-tado, 0.11.0, PyTado from chrism0dwk, modfied by w.malgadey, diplix, michaelarnauts, LenhartStephan, splifter, syssi, andersonshatch, Yippy, p0thi, 2021-02-03T10:00:08+0000
+/project/tuyaapi/, tuyaapi, 7.3, Python interface to Tuya WiFi smart devices., 2018-06-24T15:20:53+0000
+/project/hcsr04sensor/, hcsr04sensor, 1.6.2, Module to access the HCSR04 sensor on a Raspberry Pi, 2020-01-11T14:19:06+0000
+/project/rpi-mc/, RPi.MC, 0.5.0, Magnetic contact state monitor, 2020-08-11T20:43:00+0000
+/project/iotrelay/, iotrelay, 1.2.3, IoT Relay - Relay data between data sources and destinations., 2017-01-16T22:17:11+0000
+/project/hippodamia/, Hippodamia, 0.4.2, Hippodamia observe the state of all registered microservices (aka watch dog)., 2019-11-03T21:01:19+0000
+/project/homieclient/, homieclient, 0.0.1, Client to interact with Homie IoT devices via MQTT, 2021-03-04T20:57:45+0000
+/project/hass-client/, hass-client, 0.1.2, Basic client for connecting to Home Assistant over websockets and REST., 2021-03-03T16:00:50+0000
+/project/pya20lime/, pyA20Lime, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:56:54+0000
+/project/i2csense/, i2csense, 0.0.4, A library to handle i2c sensors with the Raspberry Pi, 2017-06-27T00:54:19+0000
+/project/logi-circle/, logi-circle, 0.2.2, A Python library to communicate with Logi Circle cameras, 2019-01-28T10:54:14+0000
+/project/pyinsteon/, pyinsteon, 1.0.10, Python API for controlling Insteon devices, 2021-03-18T03:34:44+0000
+/project/brain-ai/, brain-ai, 0.1.5, Build your own intelligent personal assistant., 2018-06-06T07:10:19+0000
+/project/htheatpump/, htheatpump, 1.3.1, Easy-to-use Python communication module for Heliotherm heat pumps, 2021-01-20T19:33:26+0000
+/project/st-schema-python/, st-schema-python, 1.2.2, SmartThings Schema Connector Python SDK, 2020-11-04T16:49:12+0000
+/project/sleep360/, sleep360, 0.2.0, A library and command-line tool to control the Holi SleepCompanion, 2019-05-10T21:16:49+0000
+/project/pylogview/, pylogview, 0.2.2, logview is a simple terminal script that allows you to tail multiple log files in a windowed format., 2021-01-16T21:47:51+0000
+/project/message-listener/, message-listener, 1.1.0, Server listener and iot_message handler, 2019-10-27T16:59:39+0000
+/project/pyoneer-vsx/, pyoneer-vsx, 0.0.3, A python library to control Pioneer VSX AVRs over telnet, 2019-02-28T14:27:30+0000
+/project/miplant/, miplant, 0.3.0, A library for reading cheap plant monitoring sensors manufactured by Xiaomi., 2017-08-03T14:38:38+0000
+/project/denonavr3312/, denonavr3312, 0.2.0, Control Denon AVR 3312 through telnet interface, 2017-03-30T07:26:02+0000
+/project/lastfm-cli-scrobbler/, lastfm-cli-scrobbler, 0.1.0, Last.fm CLI Scrobbler, 2021-03-06T18:05:46+0000
+/project/dm-zope-reseller/, dm.zope.reseller, 1.1, Zope package for reselling, 2019-12-10T07:32:34+0000
+/project/pyrfoutlet/, pyrfoutlet, 0.0.2, A library for controlling Holiday Time rf outlets, 2018-01-25T16:28:21+0000
+/project/libsoc-zero/, libsoc_zero, 0.0.3, For using GPIO on 96boards, 2016-05-05T20:56:40+0000
+/project/anaviinfraredphat/, AnaviInfraredPhat, 0.0.6, AnaviInfraredPhat, 2020-07-28T12:56:31+0000
+/project/unix-at/, unix-at, 1.1.1, Talk to the at(1) daemon, to schedule jobs for later, 2021-01-07T16:17:58+0000
+/project/distkv-gpio/, distkv-gpio, 0.10.3, A distributed no-master key-value store, 2021-03-15T13:40:12+0000
+/project/qnapstats/, qnapstats, 0.3.1, Python API for obtaining QNAP NAS system stats, 2021-03-14T16:03:30+0000
+/project/py-sds011/, py-sds011, 0.9, Python interface to the SDS011 air quality sensor., 2019-11-26T23:51:50+0000
+/project/kaamiki/, kaamiki, 0.0.0, Kaamiki is a simple machine learning framework for obvious tasks., 2020-10-31T18:40:55+0000
+/project/samsungtvlegacy/, samsungTVlegacy, 0.1.1, Remote control Samsung televisions via TCP/IP connection, 2020-10-19T20:43:23+0000
+/project/pi-touch-gui/, pi-touch-gui, 0.3.8, A graphic UI optimized for touch screens, 2021-03-04T20:25:45+0000
+/project/matrixdriver/, matrixdriver, 0.9.0, Driver for the 8x8 RPI-RGB-LED-Matrix based on the 74HC595 chip., 2017-09-10T12:26:39+0000
+/project/greeneye-monitor/, greeneye-monitor, 2.1, Receive data packets from GreenEye Monitor(http://www.brultech.com/greeneye/), 2020-07-31T06:00:01+0000
+/project/gleeful/, gleeful, 0.1.3, HomeKit Accessory Protocol (HAP) wrapper for Python, 2018-04-02T00:23:46+0000
+/project/xideco/, xideco, 0.5.2, A Network Enabled Software Backplane, 2016-05-14T23:15:18+0000
+/project/vr900-connector/, vr900-connector, 0.3.4, Connector to handle vaillant vr900/vr920 data, 2019-08-04T14:32:59+0000
+/project/txbom/, txbom, 0.0.2, txbom is a Python Twisted package that lets you retrieve forecasts and observations from the Australian Bureau of Meteorology (BOM)., 2013-01-04T05:37:14+0000
+/project/pyremora/, pyremora, 0.3, A Python library to use the Remora API (Fil Pilote), 2020-10-04T11:55:26+0000
+/project/youtube-music-uploader/, youtube-music-uploader, 1.1.0, Youtube Music package to upload your music library to Youtube Music, 2021-01-17T04:15:58+0000
+/project/python-velbus/, python-velbus, 2.1.3, Python Library for the Velbus protocol, 2021-04-05T09:30:52+0000
+/project/learninghouse/, learninghouse, 0.7.0, learningHouse - Teach your smart home everything, 2020-10-04T16:20:50+0000
+/project/pymysensorsrma/, pymysensorsrma, 0.22.0, Python API for talking to a MySensors gateway, 2020-12-16T09:52:22+0000
+/project/gce-ipx800/, gce-ipx800, 0.4.0, Module to control the IPX800 V4 device from GCE Electronics., 2020-12-27T17:03:09+0000
+/project/mow/, mow, 0.0.8, Organise your movie folders, fetch metadata and movie-posters, 2016-01-27T14:07:41+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/billarchive/, billarchive, 0.2, Command-line automated bills downloading, 2021-04-11T21:09:54+0000
+/project/tellcore-py/, tellcore-py, 1.1.3, Python wrapper for Telldus' home automation library, 2016-11-22T19:46:09+0000
+/project/osc2mqtt/, osc2mqtt, 0.2b2, An OSC to MQTT bridge based on pyliblo and paho-mqtt., 2015-10-09T00:27:44+0000
+/project/isotel-idm/, isotel-idm, 1.0b21, A python framework for the ISOTEL Data-acquisition & Metering Smart Gateway for easy integration with Internet of Things., 2019-11-26T21:06:07+0000
+/project/nimses-adimate/, nimses-adimate, 1.3, This is a simple script that automatically clicks ads in the Nimses Android app., 2019-07-31T16:47:52+0000
+/project/md-mqtt/, md-mqtt, 0.0.1, Publish Linux MD RAID status to MQTT, 2017-12-13T23:19:24+0000
+/project/speech/, speech, 0.5.2, A clean interface to Windows speech recognition and text-to-speech capabilities., 2009-02-27T14:32:06+0000
+/project/pypck/, pypck, 0.7.9, LCN-PCK library, 2021-01-17T14:09:15+0000
+/project/devicehive-webconfig/, devicehive-webconfig, 1.0.2, DeviceHive Python web configurator, 2018-04-10T15:38:59+0000
+/project/apiai-assistant/, apiai_assistant, 0.1.2, Create API.ai agents in a heartbeat, 2017-10-30T11:33:41+0000
+/project/samsungmdc/, samsungmdc, 0.1.5, Implementation of the Multiple Display Control Protocol., 2019-01-20T21:25:49+0000
+/project/pymal/, pymal, 0.6, A python api for the website MyAnimeList (or MAL)., 2014-10-03T09:58:18+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/distkv-hass/, distkv-hass, 0.3.0, Inventory management for DistKV, 2021-02-04T10:34:04+0000
+/project/razmq/, razmq, 0.1.1, A Non-Blocking Event Driven Robotics Framework, 2016-10-06T00:48:28+0000
+/project/pyticcom/, pyticcom, 1.2, Teleinfo python library, 2020-04-09T20:47:10+0000
+/project/sml2mqtt/, sml2mqtt, 0.1, A sml (Smart Message Language) to MQTT bridge, 2021-01-10T10:33:19+0000
+/project/delumowave/, DelumoWave, 0.1.27, API for Delumo radio controller, 2021-02-19T12:06:12+0000
+/project/crossbar/, crossbar, 21.3.1, Crossbar.io multi-protocol (WAMP/WebSocket, REST/HTTP, MQTT) application router for microservices., 2021-03-02T16:01:41+0000
+/project/alexandra/, alexandra, 0.4.0, Toolkit for writing Amazon Alexa skills as web services, 2018-10-11T16:37:19+0000
+/project/mufi/, mufi, 0.3.0, Mufi: simple music finder for command-line, 2021-03-06T11:21:11+0000
+/project/thermosmart-hass/, thermosmart-hass, 0.6.4, A library to communicate with the API of thermosmart., 2020-08-05T09:25:37+0000
+/project/alcathous/, Alcathous, 0.4.0, This software subscribes to mqtt-topics that contain raw sensor data and publishes average values for configurable time spans., 2020-04-23T21:14:13+0000
+/project/python-openzwave-mqtt/, python-openzwave-mqtt, 1.4.0, Converts MQTT messages from qt-openzwave into Python objects and events, 2020-12-01T21:06:43+0000
+/project/pololu-motors/, pololu-motors, 0.2.2, Pololu motor driver APIs., 2015-03-01T04:38:10+0000
+/project/robolytix/, robolytix, 0.2.1, Robolytix is the key online analytic and monitoring tool for Business / Robotic Process Automation., 2020-05-06T12:42:20+0000
+/project/automabot/, automabot, 0.3.2, Automabot bot for Discord., 2017-06-08T11:24:00+0000
+/project/sysbus/, sysbus, 1.0.9, Control by script your Livebox 2,3,4, 2021-04-17T18:58:10+0000
+/project/cc1101/, cc1101, 2.7.3, Python Library & Command Line Tool to Transmit RF Signals via C1101 Transceivers, 2021-04-20T21:00:03+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/tingbot-rpio/, tingbot-RPIO, 0.11, Advanced GPIO for the Raspberry Pi. Extends RPi.GPIO with PWM, GPIO interrups, TCP socket interrupts, command line tools and more, 2016-06-09T17:22:21+0000
+/project/rainbarrel/, rainbarrel, 0.0.2, Rainbarrel receives webhook POSTs from a Rainbow Eagle smart meter monitoring unit.
+The data ireceived is provided to plugins or external programs for data logging and control., 2015-11-21T19:21:52+0000
+/project/hautomation-x10/, hautomation_x10, 0.11.1, Mochad wrapper to help issuing X10 commands, 2014-08-28T15:26:42+0000
+/project/cora/, cora, 0.0.1, Next generation, private virtual assistant, 2019-06-25T10:46:40+0000
+/project/kayleevc/, KayleeVC, 0.1.1, Somewhat fancy voice command recognition software, 2016-05-01T02:07:16+0000
+/project/superhelper/, SuperHelper, 1.1.2, A collection of Python CLI to make life easier for terminal geeks!, 2021-04-25T03:15:50+0000
+/project/tuyaface/, tuyaface, 1.4.0, Python library for local communication with Tuya devices., 2020-06-10T23:00:37+0000
+/project/python-elmoclient/, python-elmoclient, 0.0.3, Python library for Elmo control units, 2021-03-12T13:35:26+0000
+/project/pytfiac/, pytfiac, 0.4, API for Tfiac AC, 2019-09-16T06:12:58+0000
+/project/pycliarr/, pycliarr, 1.0.6, Python client for radarr and sonarr, 2021-01-19T19:43:55+0000
+/project/mqspeak/, mqspeak, 0.2.1, MQTT bridge, 2016-07-10T12:45:25+0000
+/project/hap-python/, HAP-python, 3.4.1, HomeKit Accessory Protocol implementation in python, 2021-03-28T19:34:58+0000
+/project/roscraco/, roscraco, 0.5.0, A library for managing home routers (networking equipment)., 2017-02-18T06:17:17+0000
+/project/rpi-xmpp/, rpi-xmpp, 0.0.2, Send XMPP messages from RaspberryPi GPIO events, 2013-09-06T21:54:59+0000
+/project/upscrot/, upscrot, 1.1.0, Directly upload screenshots to a SSH server., 2019-09-12T07:27:04+0000
+/project/domaintypesystem/, domaintypesystem, 0.1.9, Decentralized type system, 2019-08-18T22:28:03+0000
+/project/homekit/, homekit, 0.19.0, Python code to interface HomeKit Accessories and Controllers, 2020-12-28T20:12:56+0000
+/project/ledcontroller/, ledcontroller, 1.3.0, Controller library for limitlessled/easybulb/milight Wi-Fi LEDs, 2016-03-15T19:10:58+0000
+/project/thingpin/, thingpin, 3.0.2, Raspberry Pi pin monitor that reports to AWS IoT, 2016-01-12T03:30:17+0000
+/project/alarmdecoder/, alarmdecoder, 1.13.10, Python interface for the AlarmDecoder (AD2) family of alarm devices which includes the AD2USB, AD2SERIAL and AD2PI., 2021-02-28T20:41:47+0000
+/project/pypwrctrl/, pypwrctrl, 0.2.0, Anel NET-PwrCtrl library and command line utility, 2015-06-26T12:47:37+0000
+/project/aiosysbus/, aiosysbus, 0.1.7, Provides asynchronous authentication and access to Livebox, 2020-05-01T12:55:10+0000
+/project/npi-gpio/, NPi.GPIO, 0.5.8.6, A module to control NanoPi GPIO channels, 2019-07-12T18:15:40+0000
+/project/bluezero/, bluezero, 0.6.0, Python library for Bluetooth Low Energy (BLE) on Linux, 2021-03-07T08:59:37+0000
+/project/motioneye-client/, motioneye-client, 0.3.2, motionEye client library Python Package, 2021-04-21T02:56:31+0000
+/project/radiotherm/, radiotherm, 2.1.0, client library for wifi thermostats sold by radiothermostat.com, 2021-01-19T01:59:31+0000
+/project/pyownet/, pyownet, 0.10.0.post1, Python OWFS client library (owserver protocol), 2019-01-19T14:46:21+0000
+/project/rocket-pi/, rocket-pi, 1.1, Remote open control key enabling technology (Rocket), 2020-05-28T17:34:13+0000
+/project/smokematic/, smokematic, 0.1.0, A smoking (cooking) automation system built on the Beaglebone Black, 2014-04-28T14:29:16+0000
+/project/watson-text-talker/, watson-text-talker, 0.8.10, Simple Text-to-Speech Interface for Raspberry Pi using IBM's Watson TTS, 2018-08-05T20:37:08+0000
+/project/airthings/, airthings, 3.2.0, Fetch sensor measurements from Airthings devices, 2020-08-30T08:44:04+0000
+/project/evohome-rf/, evohome-rf, 0.8.1, An interface for Honeywell RF (RAMSES II), as used by HVAC, CH/DHW., 2021-04-18T17:06:45+0000
+/project/pya13som/, pyA13SOM, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:55:30+0000
+/project/pylutron-koreth/, pylutron-koreth, 0.1.2, Python library for Lutron RadioRA 2, 2017-09-04T22:55:59+0000
+/project/zwave-js-server-python/, zwave-js-server-python, 0.24.0, Python wrapper for zwave-js-server, 2021-04-19T23:35:06+0000
+/project/twinkly-client/, twinkly-client, 0.0.2, A package to communicate with Twinkly LED strings, 2020-11-01T01:55:56+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/plugable-btaps/, plugable-btaps, 0.8.3, Open Source Library for Controlling the Plugable PS-BTAPS1 Bluetooth AC Outlet Switch, 2015-01-29T01:08:02+0000
+/project/pyseneye/, pyseneye, 0.0.1, A module for interacting with the Seneye range or aquarium and pond sensors, 2019-02-25T15:28:46+0000
+/project/pytictri/, pytictri, 2.0.4, Teleinfo tri python library, 2020-04-18T21:20:55+0000
+/project/tradetuya/, tradetuya, 1.0.2, Python interface to Tuya WiFi smart devices., 2020-02-23T00:27:54+0000
+/project/lino-weleup/, lino-weleup, 21.3.1, A Lino Welfare for the PCSW of Châtelet, 2021-03-08T17:10:29+0000
+/project/igor-iot/, igor-iot, 0.99.1, REST-like IoT server, 2019-03-04T15:44:25+0000
+/project/openwsn-coap/, openwsn-coap, 0.0.8, A CoAP Python library, 2021-02-22T08:50:40+0000
+/project/tibber/, Tibber, 0.16.0, A python3 library to communicate with Tibber, 2021-01-10T14:23:55+0000
+/project/nanoleaf/, nanoleaf, 0.4.1, Python interface for Nanoleaf Aurora., 2017-06-06T14:40:26+0000
+/project/hueber/, hueber, 0.1.1, Python API and tooling for Philips Hue., 2017-02-15T19:21:30+0000
+/project/vsure/, vsure, 1.8.1, Read and change status of verisure devices through mypages., 2021-03-31T20:10:02+0000
+/project/thetvdb-api/, thetvdb_api, 0.3.1, A Python API for theTVDB., 2014-02-10T22:13:07+0000
+/project/python-openzwave/, python-openzwave, 0.4.19, python_openzwave is a python wrapper for the openzwave c++ library., 2019-03-20T10:06:12+0000
+/project/raspend/, raspend, 2.0.4, A lightweight web service framework., 2020-02-13T21:55:07+0000
+/project/picoredis/, picoredis, 0.1.1, A very minimal Python Redis client library (not only) for MicroPython, 2017-12-13T16:24:00+0000
+/project/easyq/, easyq, 0.2.1b2, Simple and easy message queue tcp server, 2018-09-10T16:52:49+0000
+/project/iac-protocol/, iac-protocol, 0.301, An interface/protocol that provides inter-application communication and scripting., 2014-05-15T01:09:39+0000
+/project/python-tic/, python-tic, 1.1.1, Teleinfo python library, 2020-03-29T13:45:56+0000
+/project/aiomysensors/, aiomysensors, 0.1.0, Provide a package for aiomysensors, 2021-01-02T14:57:20+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/pyhap/, pyhap, 0.1.1, Python implementation of HomeKit Accessory Protocol, 2017-11-30T18:10:33+0000
+/project/vtjp/, vtjp, 0.1.14, Västtrafik API., 2017-02-11T13:56:53+0000
+/project/homeassistant-cli/, homeassistant-cli, 0.9.3, Command-line tool for Home Assistant., 2021-04-06T12:08:37+0000
+/project/openwrt-ubus-rpc/, openwrt-ubus-rpc, 0.0.3, OpenWrt ubus RPC API library, 2021-02-17T15:37:02+0000
+/project/hyperion-py/, hyperion-py, 0.7.4, Hyperion Ambient Lighting Python Package, 2021-04-20T04:46:25+0000
+/project/omnikdataloggerproxy/, omnikdataloggerproxy, 1.2.6, Omnik Data Logger Proxy, 2021-02-10T21:36:38+0000
+/project/pya13/, pyA13, 0.2.2, Control GPIO, I2C and SPI, 2015-06-30T08:54:29+0000
+/project/yamaha-av/, yamaha-av, 0.10.0, Control Yamaha Receivers over the network, 2020-01-10T22:01:35+0000
+/project/aiopynoon/, aiopynoon, 0.0.2, Async Python library for Noon Home, 2020-06-15T00:33:06+0000
+/project/raspi-door/, raspi_door, 0.7.1, Raspberry Pi Smart-ish Door, 2016-05-28T22:37:59+0000
+/project/piwwwaterflow/, piwwwaterflow, 0.0.5, Raspberry Pi Waterflow Web interface, 2021-01-23T15:49:34+0000
+/project/meter-reader/, meter-reader, 1.1.2, Client Library for retreiving smart meter data from an Eagle Energy Gateway, 2017-06-27T17:47:34+0000
+/project/observablelist/, ObservableList, 0.0.3, Python library for a list with an observer interface., 2016-07-22T08:12:49+0000
+/project/hautomation-restclient/, hautomation-restclient, 0.3.2, Module for sending home automation commands and device management requests to django-hautomation REST API, 2014-08-30T12:06:28+0000
+/project/ayabinterface/, AYABInterface, 0.0.9, A Python library with the interface to the AYAB shield., 2016-08-21T12:04:21+0000
+/project/pymotiva/, pymotiva, 0.1.1, Python library for Emotiva XMC-1, 2020-05-03T08:31:24+0000
+/project/elmax/, elmax, 0.1.1, Python client for the Elmax CLoud, 2021-02-28T22:37:02+0000
+/project/homie/, homie, 0.4.1, Implementation of the Homie IoT convention, 2018-05-29T15:34:06+0000
+/project/pyhelialux/, pyHelialux, 0.1.1, A library to communicate with with Juwel's HeliaLux Controller, 2020-12-30T22:00:41+0000
+/project/raspihats/, raspihats, 2.3.0, package for controlling raspihats.com boards, 2018-01-14T17:15:06+0000
+/project/kniteditor/, kniteditor, 1.0.5, An editor for knitwork., 2016-11-14T21:10:20+0000
+/project/aiokef/, aiokef, 0.2.17, Asyncio Python API for KEF speakers., 2020-10-18T16:44:30+0000
+/project/relayr/, relayr, 0.2.4, Python client for Relayr API, 2015-02-27T21:20:10+0000
+/project/iotrelay-influxdb/, iotrelay-influxdb, 1.7.0, InfluxDB handler module for iotrelay, 2016-11-26T22:27:25+0000
+/project/wireless-sensor-mqtt/, wireless-sensor-mqtt, 0.3.0, MQTT client reporting measurements of FT017TH wireless thermo/hygrometers, 2020-12-13T14:59:53+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/fah-api/, fah-api, 0.4-alpha, A python3 library for controlling Folding@Home clients, 2020-07-18T04:06:16+0000
+/project/pcomfortcloud/, pcomfortcloud, 0.0.20, Read and change status of Panasonic Comfort Cloud devices, 2021-01-21T09:10:38+0000
+/project/noolite/, noolite, 1.4.0, Class for NooLite USB stick, 2016-03-31T17:25:37+0000
+/project/pymusiccast/, pymusiccast, 0.1.6, This library brings support for         Yamaha MusicCast devices to Home Assistant, 2017-12-11T19:34:15+0000
+/project/lino-welfare/, lino-welfare, 21.3.1, A Lino plugin library for Belgian PCSWs, 2021-03-08T17:10:22+0000
+/project/sonosalarm/, sonosalarm, 0.2.0, Sane alarm player for Sonos, 2015-12-12T13:23:48+0000
+/project/abodepy/, abodepy, 1.2.1, An Abode alarm Python library running on Python 3., 2020-12-29T16:34:03+0000
+/project/pyhap-maxcube/, pyhap-maxcube, 0.5, HAP-python Accessories for e-Q3 MAX! devices., 2020-01-19T15:24:21+0000
+/project/adafruit-io/, adafruit-io, 2.5.0, Python client library for Adafruit IO (http://io.adafruit.com/)., 2020-12-21T17:23:38+0000
+/project/lino-book/, lino-book, 20.1.1, Lino documentation and demo projects, 2020-01-17T02:20:18+0000
+/project/distkv-knx/, distkv-knx, 0.9.2, A distributed no-master key-value store, 2021-02-05T08:08:38+0000
+/project/linkymeter/, linkymeter, 1.0.0, Get Enedis smart meter (linky) data from Enedis webserver, 2019-03-28T21:13:34+0000
+/project/rlapydvdid/, rlapydvdid, 1.2, Fork by rlaPHOENiX of, A pure Python implementation of the Windows API IDvdInfo2::GetDiscID method, as used by Windows Media Center to compute a 'practically unique' 64-bit CRC for metadata retrieval., 2020-08-28T21:02:16+0000
+/project/insteonplm/, insteonplm, 0.16.8, Python API for controlling Insteon PowerLinc Modems, 2020-03-15T19:58:05+0000
+/project/firstalexaskills/, FirstAlexaSkills, 0.2.0, A package for learning first steps with Alexa skills, 2018-07-20T00:22:35+0000
+/project/heatzypy/, heatzypy, 0.1.4.1, Provides asynchronous authentication and access to Heatzy module, 2020-05-01T11:34:09+0000
+/project/peak-bot/, peak-bot, 1.0.1b4, Lightweight, simple, speech-to-text-oriented bot., 2018-08-18T01:09:33+0000
+/project/opensprinklerlib/, OpenSprinklerLib, 0.1.0, OpenSprinkler Library, 2014-08-20T01:05:42+0000
+/project/vcommand/, vcommand, 0.0.2, A simple framework for building voice-controlled applications., 2019-06-17T23:01:47+0000
+/project/pyopenrpa/, pyOpenRPA, 1.2.1, First open source RPA platform for business, 2021-03-16T09:47:35+0000
+/project/meterelf/, meterelf, 0.1.0, Meter Elf -- Meter reading util, 2019-01-20T13:54:50+0000
+/project/enerpi/, enerpi, 0.9.7, AC Current Meter for Raspberry PI with GPIOZERO and MCP3008, 2017-05-19T17:03:42+0000
+/project/torvy-hass/, torvy-hass, 0.1, Open-source home automation platform running on Python 3., 2016-10-11T14:34:43+0000
+/project/copreus/, Copreus, 0.4.0, This library provides a framework to write device drivers for the raspberry pi that are connected to MQTT., 2019-12-27T23:38:47+0000
+/project/bluechips/, BlueChips, 1.0.4, BlueChips - finances for people with shared expenses, 2011-11-07T19:51:58+0000
+/project/clewareadc/, clewareADC, 0.2, Python module to read values from Cleware USB-ADC 2, 2018-06-07T08:06:34+0000
+/project/pybinarymoip/, pybinarymoip, 0.0.8, Python library for Binary Media over IP (MOIP), used for Home Assistant, 2020-05-31T04:18:37+0000
+/project/eebrightbox/, eebrightbox, 0.0.6, Connector for EE BrightBox routers., 2020-10-07T22:04:20+0000
+/project/rpi-gpio2/, RPi.GPIO2, 0.3.0a3, Compatibility layer between RPi.GPIO syntax and libgpiod semantics, 2020-06-20T05:00:35+0000
+/project/domotapimodbus/, DomotApiModbus, 0.4.0, Working with modbus devices in domot-api, 2018-11-26T15:54:38+0000
+/project/pyphihue/, pyphihue, 0.2.5, A library to interface with Philips Hue, 2017-11-14T20:31:01+0000
+/project/eakon/, eakon, 0.0.5, A simple library to control (japanese) air-conditioners, 2021-01-13T13:17:38+0000
+/project/pya20som/, pyA20SOM, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:57:20+0000
+/project/pya20/, pyA20, 0.2.12, Control GPIO, I2C and SPI on A20-OLinuXino-MICRO, 2017-12-08T09:46:36+0000
+/project/clewareadc/, clewareADC, 0.2, Python module to read values from Cleware USB-ADC 2, 2018-06-07T08:06:34+0000
+/project/pybinarymoip/, pybinarymoip, 0.0.8, Python library for Binary Media over IP (MOIP), used for Home Assistant, 2020-05-31T04:18:37+0000
+/project/eebrightbox/, eebrightbox, 0.0.6, Connector for EE BrightBox routers., 2020-10-07T22:04:20+0000
+/project/rpi-gpio2/, RPi.GPIO2, 0.3.0a3, Compatibility layer between RPi.GPIO syntax and libgpiod semantics, 2020-06-20T05:00:35+0000
+/project/pysml/, pysml, 0.0.5, Library for EDL21 smart meters using Smart Message Language (SML), 2021-04-08T12:23:12+0000
+/project/mccdaq-linux/, mccdaq_linux, 1.4.8, Python drivers for Measurement Computing devices (mccdaq.com) on linux, 2016-03-16T11:34:45+0000
+/project/pykevo/, pyKevo, 1.0.0, A simple Python project for people with Kevo smartlocks., 2016-05-15T04:24:46+0000
+/project/wirelesstagpy/, wirelesstagpy, 0.4.1, Simple python wrapper over wirelesstags REST API, 2020-07-30T07:10:37+0000
+/project/distkv-inv/, distkv-inv, 0.21.4, Inventory management for DistKV, 2021-03-19T20:29:11+0000
+/project/rpiscratchio/, RpiScratchIO, 0.1.7, Easy expansion of Raspberry Pi I/O within Scratch, 2014-04-23T06:58:42+0000
+/project/lifesospy-mqtt/, lifesospy-mqtt, 0.11.6, MQTT client to report state of LifeSOS security system and devices., 2020-12-27T02:16:16+0000
+/project/alarmdealerscrape/, alarmdealerscrape, 1.0.3, scraper for alarmdealer.com, 2019-02-01T05:22:39+0000
+/project/lino-welcht/, lino-welcht, 21.3.1, A Lino Welfare for the PCSW of Châtelet, 2021-03-08T17:11:01+0000
+/project/homepluscontrol/, homepluscontrol, 0.0.5, Python-based API to interact with the Legrand Home + Control interface, 2021-03-20T19:24:29+0000
+/project/domotapimodbus/, DomotApiModbus, 0.4.0, Working with modbus devices in domot-api, 2018-11-26T15:54:38+0000
+/project/pyphihue/, pyphihue, 0.2.5, A library to interface with Philips Hue, 2017-11-14T20:31:01+0000
+/project/eakon/, eakon, 0.0.5, A simple library to control (japanese) air-conditioners, 2021-01-13T13:17:38+0000
+/project/appdaemontestframework/, appdaemontestframework, 3.0.5, Clean, human-readable tests for Appdaemon, 2020-03-18T13:39:49+0000
+/project/insteon-hub/, insteon-hub, 0.7.2, A python package that interacts with the Insteon Hub Cloud API, 2016-12-19T15:19:03+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/ledcontroller/, ledcontroller, 1.3.0, Controller library for limitlessled/easybulb/milight Wi-Fi LEDs, 2016-03-15T19:10:58+0000
+/project/alarmdecoder/, alarmdecoder, 1.13.10, Python interface for the AlarmDecoder (AD2) family of alarm devices which includes the AD2USB, AD2SERIAL and AD2PI., 2021-02-28T20:41:47+0000
+/project/pypwrctrl/, pypwrctrl, 0.2.0, Anel NET-PwrCtrl library and command line utility, 2015-06-26T12:47:37+0000
+/project/aiosysbus/, aiosysbus, 0.1.7, Provides asynchronous authentication and access to Livebox, 2020-05-01T12:55:10+0000
+/project/npi-gpio/, NPi.GPIO, 0.5.8.6, A module to control NanoPi GPIO channels, 2019-07-12T18:15:40+0000
+/project/bluezero/, bluezero, 0.6.0, Python library for Bluetooth Low Energy (BLE) on Linux, 2021-03-07T08:59:37+0000
+/project/radiotherm/, radiotherm, 2.1.0, client library for wifi thermostats sold by radiothermostat.com, 2021-01-19T01:59:31+0000
+/project/pyownet/, pyownet, 0.10.0.post1, Python OWFS client library (owserver protocol), 2019-01-19T14:46:21+0000
+/project/rocket-pi/, rocket-pi, 1.1, Remote open control key enabling technology (Rocket), 2020-05-28T17:34:13+0000
+/project/smokematic/, smokematic, 0.1.0, A smoking (cooking) automation system built on the Beaglebone Black, 2014-04-28T14:29:16+0000
+/project/watson-text-talker/, watson-text-talker, 0.8.10, Simple Text-to-Speech Interface for Raspberry Pi using IBM's Watson TTS, 2018-08-05T20:37:08+0000
+/project/airthings/, airthings, 3.2.0, Fetch sensor measurements from Airthings devices, 2020-08-30T08:44:04+0000
+/project/evohome-rf/, evohome-rf, 0.8.1, An interface for Honeywell RF (RAMSES II), as used by HVAC, CH/DHW., 2021-04-18T17:06:45+0000
+/project/pya13som/, pyA13SOM, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:55:30+0000
+/project/pylutron-koreth/, pylutron-koreth, 0.1.2, Python library for Lutron RadioRA 2, 2017-09-04T22:55:59+0000
+/project/zwave-js-server-python/, zwave-js-server-python, 0.24.0, Python wrapper for zwave-js-server, 2021-04-19T23:35:06+0000
+/project/twinkly-client/, twinkly-client, 0.0.2, A package to communicate with Twinkly LED strings, 2020-11-01T01:55:56+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/plugable-btaps/, plugable-btaps, 0.8.3, Open Source Library for Controlling the Plugable PS-BTAPS1 Bluetooth AC Outlet Switch, 2015-01-29T01:08:02+0000
+/project/pyseneye/, pyseneye, 0.0.1, A module for interacting with the Seneye range or aquarium and pond sensors, 2019-02-25T15:28:46+0000
+/project/samsungtvlegacy/, samsungTVlegacy, 0.1.1, Remote control Samsung televisions via TCP/IP connection, 2020-10-19T20:43:23+0000
+/project/pi-touch-gui/, pi-touch-gui, 0.3.8, A graphic UI optimized for touch screens, 2021-03-04T20:25:45+0000
+/project/matrixdriver/, matrixdriver, 0.9.0, Driver for the 8x8 RPI-RGB-LED-Matrix based on the 74HC595 chip., 2017-09-10T12:26:39+0000
+/project/irduino/, irduino, 0.0.1, An XBMC IR Remote Control protocol using Arduino, 2012-08-11T18:26:19+0000
+/project/aiopioneer/, aiopioneer, 0.1.3, Asyncio Python library for controlling a Pioneer AVR via its API, 2020-12-13T15:07:49+0000
+/project/python-awair-local-sensors/, python-awair-local-sensors, 0.2.1, asyncio client for the Awair GraphQL API, 2020-09-01T19:36:54+0000
+/project/cred-server/, cred-server, 0.3.0, Connected Reactive Electronic Devices., 2015-06-26T01:48:17+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/pya10s/, pyA10S, 0.1.2, Control GPIOs on OLinuXino-A10S., 2013-05-03T11:58:43+0000
+/project/python-awair/, python-awair, 0.2.2, asyncio client for the Awair GraphQL API, 2021-02-26T18:25:28+0000
+/project/open-garage/, open-garage, 0.1.5, A python3 library to communicate with Open Garage, 2020-07-11T06:05:18+0000
+/project/pynobo/, pynobo, 1.1.2, Nobø Hub / Nobø Energy Control Websocket Interface, 2020-05-16T23:10:04+0000
+/project/aionuki/, aionuki, 2.0.1, Asynchronous python bindings for nuki.io bridges., 2021-01-31T19:33:21+0000
+/project/pyhap/, pyhap, 0.1.1, Python implementation of HomeKit Accessory Protocol, 2017-11-30T18:10:33+0000
+/project/vtjp/, vtjp, 0.1.14, Västtrafik API., 2017-02-11T13:56:53+0000
+/project/homeassistant-cli/, homeassistant-cli, 0.9.3, Command-line tool for Home Assistant., 2021-04-06T12:08:37+0000
+/project/openwrt-ubus-rpc/, openwrt-ubus-rpc, 0.0.3, OpenWrt ubus RPC API library, 2021-02-17T15:37:02+0000
+/project/hyperion-py/, hyperion-py, 0.7.4, Hyperion Ambient Lighting Python Package, 2021-04-20T04:46:25+0000
+/project/omnikdataloggerproxy/, omnikdataloggerproxy, 1.2.6, Omnik Data Logger Proxy, 2021-02-10T21:36:38+0000
+/project/pya13/, pyA13, 0.2.2, Control GPIO, I2C and SPI, 2015-06-30T08:54:29+0000
+/project/yamaha-av/, yamaha-av, 0.10.0, Control Yamaha Receivers over the network, 2020-01-10T22:01:35+0000
+/project/aiopynoon/, aiopynoon, 0.0.2, Async Python library for Noon Home, 2020-06-15T00:33:06+0000
+/project/raspi-door/, raspi_door, 0.7.1, Raspberry Pi Smart-ish Door, 2016-05-28T22:37:59+0000
+/project/piwwwaterflow/, piwwwaterflow, 0.0.5, Raspberry Pi Waterflow Web interface, 2021-01-23T15:49:34+0000
+/project/meter-reader/, meter-reader, 1.1.2, Client Library for retreiving smart meter data from an Eagle Energy Gateway, 2017-06-27T17:47:34+0000
+/project/observablelist/, ObservableList, 0.0.3, Python library for a list with an observer interface., 2016-07-22T08:12:49+0000
+/project/hautomation-restclient/, hautomation-restclient, 0.3.2, Module for sending home automation commands and device management requests to django-hautomation REST API, 2014-08-30T12:06:28+0000
+/project/ayabinterface/, AYABInterface, 0.0.9, A Python library with the interface to the AYAB shield., 2016-08-21T12:04:21+0000
+/project/pymotiva/, pymotiva, 0.1.1, Python library for Emotiva XMC-1, 2020-05-03T08:31:24+0000
+/project/elmax/, elmax, 0.1.1, Python client for the Elmax CLoud, 2021-02-28T22:37:02+0000
+/project/homie/, homie, 0.4.1, Implementation of the Homie IoT convention, 2018-05-29T15:34:06+0000
+/project/pyhelialux/, pyHelialux, 0.1.1, A library to communicate with with Juwel's HeliaLux Controller, 2020-12-30T22:00:41+0000
+/project/raspihats/, raspihats, 2.3.0, package for controlling raspihats.com boards, 2018-01-14T17:15:06+0000
+/project/lifxtools/, lifxtools, 0.3.2, Graphical interface for controlling lifx bulbs, 2019-10-27T13:25:29+0000
+/project/pycoolmasternet/, pycoolmasternet, 0.2.0, Lightweight Python API for CoolMasterNet HVAC bridges, 2019-02-17T20:37:00+0000
+/project/sasha/, sasha, 0.1.1, UNKNOWN, 2014-10-18T16:26:02+0000
+/project/collpy/, collpy, 0.0.4, Add color highlights, load bars, progress displays and style to your python scripts and shell sessions, 2020-08-14T02:57:57+0000
+/project/probe-internet/, probe-internet, 0.1.2, Probe IP addresses and notify when connections are re-established., 2020-12-12T20:02:59+0000
+/project/pyvivint/, pyvivint, 2021.1.1, Python module to interact with VivintSky API., 2021-01-27T08:14:42+0000
+/project/asmo/, ASMO, 0.4, Attentive Self-Modifying Cognitive Architecture, 2016-03-18T04:03:46+0000
+/project/python-switchbot/, python-switchbot, 1.0.3, A Python library to control SwitchBot devices connected to SwitchBot Hub, 2021-01-04T04:30:01+0000
+/project/sfrtvctl/, sfrtvctl, 0.1.2, Remote control SFR TV Power via TCP/IP connection, 2018-01-21T11:34:01+0000
+/project/uniohomeassistant/, uniohomeassistant, 0.1.3, Open-source home automation platform running on Python 3., 2021-04-11T07:36:39+0000
+/project/minimalmodbus/, minimalmodbus, 1.0.2, Easy-to-use Modbus RTU and Modbus ASCII implementation for Python, 2019-08-11T00:36:43+0000
+/project/symbiotic/, symbiotic, 1.0.0a3, Connect your smart devices and sensors to create complex, schedulable actions., 2021-03-27T17:58:54+0000
+/project/digi-xbee/, digi-xbee, 1.4.0, Digi XBee Python library, 2021-03-18T17:52:11+0000
+/project/pywebsms/, pyWebSMS, 1.1, pyWebSMS is an graphical sms sender which supports many programmable providers., 2005-04-18T16:46:20+0000
+/project/pnp/, pnp, 0.28.0, Pull 'n' Push, 2021-04-25T12:45:18+0000
+/project/piwaterflow/, piwaterflow, 0.2.1, Raspberry Pi Waterflow resilient system, 2021-04-25T21:12:23+0000
+/project/yt-videos-list/, yt-videos-list, 0.5.5, YouTube bot to make a YouTube videos list (including all video titles and URLs uploaded by a channel) with end-to-end web scraping - no API tokens required. 🌟 Star this repo if you found it useful! 🌟, 2021-04-26T00:41:23+0000
+/project/pi-device-net/, pi-device-net, 0.1.20, A set of tools to operate a device network., 2021-03-30T20:32:14+0000
+/project/aemet-opendata/, AEMET-OpenData, 0.1.8, AEMET OpenData Rest API library, 2021-01-23T18:40:20+0000
+/project/devicepilot/, devicepilot, 1.0.1, DevicePilot SDK for IoT Analytics, 2019-05-14T10:17:43+0000
+/project/pywakeps4onbt/, pywakeps4onbt, 0.6, A Python library to wakeup Ps4 on BlueTooth, 2019-09-10T19:38:10+0000
+/project/pymeteireann/, PyMetEireann, 0.2, A library to communicate with the Met Éireann Public Weather Forecast API, 2020-08-28T21:29:54+0000
+/project/pyatv/, pyatv, 0.7.7, Library for controlling an Apple TV, 2021-03-12T12:20:40+0000
+/project/mirobot-py/, mirobot-py, 1.0.52, A Python interface library for WKlata's Mirobot, 2020-05-18T20:31:45+0000
+/project/python-zwave/, python-zwave, 0.2.1, Library implementing a Z-Wave stack, 2020-05-27T09:27:48+0000
+/project/python-plugwise/, python-plugwise, 2.0.2, Async library for Plugwise USB-stick, 2020-10-13T19:05:38+0000
+/project/pyxiaomigateway/, PyXiaomiGateway, 0.13.4, A library to communicate with the Xiaomi Gateway, 2020-10-23T13:47:58+0000
+/project/pymelcloud/, pymelcloud, 2.10.0, Python MELCloud interface, 2020-07-14T18:35:42+0000
+/project/deebotozmodev/, deebotozmodev, 0.0.2, a library for controlling certain robot vacuums [DEV edition], 2020-05-24T09:17:45+0000
+/project/txcosm/, txcosm, 0.1.0, txcosm is a Python Twisted package to communicate with the Cosm API., 2013-01-27T06:20:33+0000
+/project/pymata-express/, pymata-express, 1.19, A Python Protocol Abstraction Library For Arduino Firmata using Python asyncio, 2020-09-17T23:22:50+0000
+/project/bluetin-echo/, Bluetin-Echo, 0.2.0, Raspberry Pi Python Library for Ultrasonic Module HC-SR04 Distance Measuring Transducer., 2019-06-09T13:34:54+0000
+/project/pyhansolo/, pyHanSolo, 0.1.0, A python3 library to communicate with HanSolo, 2019-08-21T13:16:48+0000
+/project/blinkpy/, blinkpy, 0.17.1, A Blink camera Python library running on Python 3., 2021-02-18T14:50:38+0000
+/project/pysmartapp/, pysmartapp, 0.3.3, A python library for building a SmartThings SmartApp, 2020-11-10T22:08:30+0000
+/project/nuheat/, nuheat, 0.3.0, A Python library that allows control of connected NuHeat Signature radiant floor thermostats., 2017-12-24T00:30:01+0000
+/project/sdreaper/, sdreaper, 1.0.1, CLI and curses UI for talking to Arduino Reaper library, 2016-02-28T17:47:08+0000
+/project/samsung-multiroom/, samsung-multiroom, 0.0.9, Samsung multiroom speaker support, 2020-10-16T20:23:55+0000
+/project/magichue/, magichue, 0.2.9.2, A library to interface with MagicHue aka MagicHome., 2020-11-03T19:48:58+0000
+/project/duco-ducobox/, duco.ducobox, 0.3.1, Read parameters from DucoBox., 2019-04-10T20:23:06+0000
+/project/intercom/, Intercom, 0.2.3, Messaging system for Home automation, 2014-02-27T15:50:13+0000
+/project/pya20evb/, pyA20EVB, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:56:37+0000
+/project/andor/, andor, 1.14, Object-oriented interface for Andor EMCCD cameras, 2016-02-26T17:10:33+0000
+/project/hassmart-homeassistant/, hassmart-homeassistant, 0.65.4, Open-source home automation platform running on Python 3., 2018-03-15T16:47:29+0000
+/project/trixie/, trixie, 0.1.2, Open-source home automation platform running on Python 3., 2018-06-28T12:47:08+0000
+/project/pynanoleaf/, pynanoleaf, 0.1.0, A Python3 wrapper for the Nanoleaf API, 2021-03-03T19:45:38+0000
+/project/django-hautomation-suite/, django_hautomation_suite, 0.6, Django project to help deploy the Home Automation Python Project, 2014-06-30T10:12:31+0000
+/project/web-youtube-dl/, web-youtube-dl, 0.1.5, A web version of youtube-dl, 2020-10-06T04:03:08+0000
+/project/brewpi-remix/, BrewPi-Remix, 0.0.0.1, For the fans of the original Arduino temperature controller, 2020-08-02T14:17:56+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/sonyapi/, SonyAPI, 0.1.1b2, Sony Bravia TV interface (generation 3), 2017-08-31T22:14:11+0000
+/project/aioouimeaux/, aioouimeaux, 0.1.0b5, Open source control for Belkin WeMo devices, 2018-11-11T04:11:20+0000
+/project/pybecker/, pybecker, 1.0.5, pybecker is a library to control becker RF shutters, 2021-02-04T08:12:03+0000
+/project/aioiregul/, aioiregul, 0.0.8, Asynchronous library to get data from IRegul systems, 2021-04-19T12:27:16+0000
+/project/pya64/, pyA64, 0.1.0, Control GPIO ports on A64-OLinuXino, 2017-11-21T13:59:31+0000
+/project/pyketra/, pyketra, 0.0.3, Python library for Ketra Controller, 2019-06-07T16:23:05+0000
+/project/atenpdu/, atenpdu, 0.3.1, Interface for ATEN-PE PDUs, 2019-12-01T22:16:53+0000
+/project/hassapi/, hassapi, 0.1.0, Home Assistant Python API, 2021-04-03T21:31:53+0000
+/project/ozmo/, ozmo, 1.0.3, a library for controlling certain robot vacuums, 2019-09-29T14:06:36+0000
+/project/gfxlcd/, gfxlcd, 0.8.3, gfxlcd is a handler for graphical lcds: ILI9328, SSD1306, NJU6450, touch panel: AD7843 @ Raspberry Pi., 2018-02-25T14:43:24+0000
+/project/smllib/, smllib, 0.4, A library for the SML (Smart Message Language) protocol, 2021-01-08T14:49:38+0000
+/project/jvc-proxy/, jvc-proxy, 0.0.1, Simple Python server to proxy commands to a JVC projector., 2017-08-01T09:02:20+0000
+/project/surepy/, surepy, 0.6.0, Library to interact with the flaps & doors from Sure Petcare., 2021-04-15T19:02:09+0000
+/project/stream-magic/, stream_magic, 0.16, Support for controlling and querying network audio players                based on the StreamMagic platform by Cambridge Audio, 2018-06-07T16:22:41+0000
+/project/pyitachip2ir/, pyitachip2ir, 0.0.7, A library for sending IR commands to an ITach IP2IR gateway, 2017-08-23T15:28:48+0000
+/project/homeassistant/, homeassistant, 2021.4.6, Open-source home automation platform running on Python 3., 2021-04-19T16:14:37+0000
+/project/cherrydoor/, Cherrydoor, 0.6.1, An overengineered rfid lock manager created for my school community. Made for Raspberry Pi connected with another microcontroler that send and recieved rfid data via UART, 2020-10-08T14:30:29+0000
+/project/ring-doorbell/, ring-doorbell, 0.7.0, A Python library to communicate with Ring Door Bell (https://ring.com/), 2021-02-05T23:53:17+0000
+/project/charlcd/, charlcd, 0.6, charlcd is a handler for char lcds Hitachi HD44780 @ Raspberry Pi., 2020-02-18T20:27:44+0000
+/project/funkiio/, funkiio, 1.0.1, Open-source home automation platform running on Python 3., 2019-05-30T19:47:20+0000
+/project/raspisump/, raspisump, 1.2.3, A sump pit monitoring system for Raspberry Pi, 2019-07-11T20:50:36+0000
+/project/ais-dom/, ais-dom, 2021.3.7, Open-source home automation platform running on Python 3., 2021-04-02T07:14:04+0000
+/project/lifx-control-panel/, lifx-control-panel, 1.8.0, An open source application for controlling your LIFX brand lights, 2020-08-08T21:29:41+0000
+/project/aiobosest/, aiobosest, 0.0.4, Asynchronous python wrapper to Bose SoundTouch API, 2016-11-21T15:38:44+0000
+/project/pisensors/, pisensors, 0.1.2, Raspberry Pi Sensors script for Temperature & Humidity, 2021-04-24T21:27:21+0000
+/project/rpi-sensor/, RPi.Sensor, 0.5.3, Python base class to create infinite loop to work with sensors., 2020-07-25T21:34:06+0000
+/project/transilien-domoticz/, Transilien-Domoticz, 0.0.1, A Python script for use transilien.com API with Domoticz., 2017-03-04T07:22:12+0000
+/project/micropython-sht30/, micropython-sht30, 0.2.7, SHT30 sensor driver for micropython: IC2 bus, 2019-01-04T08:53:10+0000
+/project/prana-rc/, prana-rc, 0.4.4, Python library and CLI to control Prana recuperators via BLE connection (https://prana.org.ua/), 2021-04-06T22:14:33+0000
+/project/ble-gatt/, BLE-GATT, 0.5.0, Python library for Bluetooth Low Energy (BLE) Central on Linux, 2021-02-03T20:46:41+0000
+/project/musicbutler/, musicbutler, 0.1.7, A robot that receives voice commands to play albums from your MP3 collection, 2008-08-18T20:22:20+0000
+/project/getccwarc/, GetCCWarc, 0.0.1.dev34, Easily get a web-page from stored commmoncrawl WARC files on S3, 2019-07-06T06:29:45+0000
+/project/hass-pyscript-kernel/, hass-pyscript-kernel, 1.0.0, Home Assistant Pyscript Jupyter kernel shim, 2020-11-05T07:11:45+0000
+/project/attila/, attila, 1.2.0, Python module to communicate easily with modems and RF modules using AT commands, 2020-05-30T15:49:28+0000
+/project/modbussharedmemory/, ModbusSharedMemory, 0.1.1, Shared memory concept known from PLC manner implemented over uModbus framework., 2019-05-23T16:09:00+0000
+/project/winspeech/, winspeech, 1.0.1, Speech recognition and synthesis module for Windows - Python 2 and 3., 2016-11-05T07:15:43+0000
+/project/tuyagateway/, tuyagateway, 2.0.3, Python middleware for Tuya WiFi smart devices to MQTT, 2021-01-13T20:04:40+0000
+/project/asmog/, asmog, 0.0.6, Python API for Ampio Smog Sensors, 2019-02-17T16:31:25+0000
+/project/pydevccu/, pydevccu, 0.0.8, Virtual HomeMatic CCU XML-RPC backend, 2021-04-09T20:03:33+0000
+/project/gardenkit/, gardenkit, 1.3, GreenIQ Smart Garden Hub API, 2015-02-10T12:58:24+0000
+/project/wgadmin/, wgadmin, 0.2.0, , 2020-08-10T13:39:26+0000
+/project/ptpy/, ptpy, 0.3.2, A pure Python implementation of Picture Transfer Protocol., 2017-12-19T10:21:34+0000
+/project/hass-smartthings-remove/, hass-smartthings-remove, 1.0.1, Utility that removes SmartApps created by the Home Assistant SmartThings integration., 2019-02-28T03:13:23+0000
+/project/volux/, volux, 0.9.17, High-level media/entertainment workflow automation platform, 2019-11-23T14:31:49+0000
+/project/pycomfoair/, pycomfoair, 0.0.4, Interface for Zehnder ComfoAir 350 ventilation units, 2020-08-10T00:54:34+0000
+/project/pydigitalstrom/, pydigitalstrom, 1.4.0, python api client for digitalSTROM, 2020-02-10T17:01:06+0000
+/project/pyhomematic/, pyhomematic, 0.1.72, Homematic interface, 2021-03-14T12:22:39+0000
+/project/huisbaasje-client/, huisbaasje-client, 0.1.0, Client for Huisbaasje, 2020-11-01T15:07:21+0000
+/project/aiohuesyncbox/, aiohuesyncbox, 0.0.19, Asyncio package to communicate with a Philips Hue Play HDMI Sync Box., 2021-04-18T14:50:26+0000
+/project/x10-any/, x10_any, 0.0.8, Issue x10 commands via CM17A Firecracker or Mochad (CM15A RF/PL and CM19A RF), 2018-04-25T06:22:25+0000
+/project/pyhomekit/, pyhomekit, 0.0.1.4, Python interface to control HomeKit accessories., 2017-07-31T05:27:22+0000
+/project/pingo/, pingo, 0.2.0, Generic API to control boards with programmable IO pins., 2014-08-13T02:07:19+0000
+/project/easylife/, easylife, 0.2.0, Group of useful scripts and tools that makes your life easier by doing things for you. Automates same things you can do every day., 2017-10-06T17:32:58+0000
+/project/sensor/, sensor, 6, Raspberry Pi Sensors, 2019-10-09T13:11:23+0000
+/project/echonetlite/, echonetlite, 0.1.1, Echonet Lite, 2019-03-01T08:51:00+0000
+/project/biensoxe/, biensoxe, 0.8.5, Library to parse and validate Vietnamese vehicle plate, 2020-05-28T06:44:05+0000
+/project/openvisualizer/, openvisualizer, 2.0.0, Wireless sensor network monitoring and visualization tool, 2020-09-17T15:34:40+0000
+/project/musicassistant-client/, musicassistant-client, 0.0.29, Basic client for connecting to Music Assistant over websockets and REST., 2020-12-28T20:51:18+0000
+/project/blueconnect/, blueconnect, 1.0.3, Unofficial API client for Blue Riiot/Blue Connect devices., 2020-08-23T14:14:13+0000
+/project/wizcon/, wizcon, 0.1.1, Control Philips WiZ Connected smart light bulbs, 2020-10-30T13:11:25+0000
+/project/htrest/, htrest, 0.1.10, Heliotherm heat pump REST API, 2021-01-30T16:35:13+0000
+/project/pya20lime2/, pyA20Lime2, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:57:03+0000
+/project/lino-openui5/, lino-openui5, 20.8.2, The SAP Open Ui5 user interface for Lino, 2020-08-22T08:30:03+0000
+/project/python-izone/, python-izone, 1.1.4, A python interface to the iZone airconditioner controller, 2021-01-28T14:16:57+0000
+/project/systemctl-mqtt/, systemctl-mqtt, 0.5.0, MQTT client triggering & reporting shutdown on systemd-based systems, 2020-11-06T19:02:41+0000
+/project/rocket-daisy/, rocket-daisy, 1.1, Remote open control key enabling technology (Rocket), 2021-02-23T15:20:24+0000
+/project/argaeus/, Argaeus, 0.1.10, ThermostatGUIController (display and gui-logic) for a thermostat - to be used in combination with pelops/copreus and pelops/alcathous, 2019-11-20T23:28:25+0000
+/project/hermes-audio-server/, hermes-audio-server, 0.2.0, An open source implementation of the audio server part of the Hermes protocol, 2019-06-04T16:32:36+0000
+/project/getpodcast/, getpodcast, 1.0.7, Download podcast, 2021-01-12T21:19:19+0000
+/project/pyharmony/, pyharmony, 1.0.21, Python library for programmatically using a Logitech Harmony Link or Ultimate Hub., 2018-10-25T01:24:08+0000
+/project/hwiopy/, hwiopy, 0.1.1, A common API for hardware input/output access., 2015-04-09T21:31:39+0000
+/project/lino-presto/, lino-presto, 20.8.0, A Lino application for managing services, 2020-08-07T08:02:20+0000
+/project/wireless-sensor/, wireless-sensor, 0.4.0, Receive & decode signals of FT017TH thermo/hygrometers, 2021-04-22T16:12:14+0000
+/project/pysupla/, pysupla, 0.0.5, Simple Supla's OpenAPI wrapper, 2020-09-04T11:32:00+0000
+/project/arduinozore/, Arduinozore, 1.1.3, Web server for arduino sensor visualization., 2018-05-04T09:49:16+0000
+/project/tlv8/, tlv8, 0.9.0, Python module to handle type-length-value (TLV) encoded data 8-bit type, 8-bit length, and N-byte value as described within the Apple HomeKit Accessory Protocol Specification Non-Commercial Version Release R2., 2020-05-13T17:02:25+0000
+/project/csrmesh/, csrmesh, 0.10.0, Reverse engineered implementation of the CSRMesh bridge protocol, 2020-01-28T03:25:58+0000
+/project/cpymodbus/, cpymodbus, 0.1dev, Modbus slave package, 2018-01-25T20:33:21+0000
+/project/resilient-exporters/, resilient-exporters, 0.1.1, A package to export data to databases resiliently., 2020-11-03T09:30:18+0000
+/project/pyaler/, pyaler, 0.3, A restfull application to control your arduino devices, 2010-07-24T16:01:57+0000
+/project/graphql-subscription-manager/, graphql-subscription-manager, 0.3.6, A python3 library for graphql subscription manager, 2020-08-05T13:53:13+0000
+/project/pyview/, pyview, 1.0.2, A Simple GUI creator for python using wxpython. Combined with numpy, meant as an open source labview replacement., 2015-07-27T02:00:03+0000
+/project/thqm/, thqm, 1.3.1, remote command execution made easy., 2021-03-14T22:24:48+0000
+/project/milight-controller/, milight-controller, 1.0.1, Controller for MiLight RGB lights, 2016-08-15T23:33:50+0000
+/project/rsp1570serial-pp81381/, rsp1570serial-pp81381, 0.1.5, Rotel RSP-1570 processor asyncio RS-232 protocol, 2020-08-09T19:19:25+0000
+/project/pywibeee/, pywibeee, 0.0.2, Command line interface (CLI) for WiBeee (old Mirubee) meter, 2019-10-07T22:14:00+0000
+/project/pyheos/, pyheos, 0.7.2, An async python library for controlling HEOS devices through the HEOS CLI Protocol, 2020-11-14T19:51:59+0000
+/project/somweb/, somweb, 0.3.5, SOMweb client. Open/close Garage doors produced by SOMMER (base+/pro+/tiga/tiga+/barrier systems), 2021-02-26T16:51:38+0000
+/project/aioswitcher/, aioswitcher, 1.2.2, Switcher Water Heater Unofficial Bridge and API., 2021-01-11T09:02:14+0000
+/project/delcom904x/, delcom904x, 0.3.0, A python class to control Delcom USBLMP Products 904x multi-color, USB, visual signal indicators, 2021-04-08T03:16:49+0000
+/project/plugwise/, plugwise, 0.9.4, Plugwise (Adam/Anna/P1/Stick/Stretch) API to use in conjunction with Home Assistant Core., 2021-04-12T18:29:18+0000
+/project/pyfirmata/, pyFirmata, 1.1.0, A Python interface for the Firmata procotol, 2019-03-10T16:21:06+0000
+/project/pytibber/, pyTibber, 0.16.2, A python3 library to communicate with Tibber, 2021-03-14T09:09:37+0000
+/project/pylumigateway/, PyLumiGateway, 0.12.3, A library to communicate with the Lumi Gateway, 2019-05-07T21:49:52+0000
+/project/ynca/, ynca, 2.0.0, Automation control library for Yamaha receivers that support the YNCA protocol., 2021-01-17T20:15:06+0000
+/project/nikippe/, Nikippe, 0.1.11, A general purpose display server - takes values from mqtt and publishes the resulting image to mqtt., 2019-04-18T20:57:47+0000
+/project/ehpp/, ehpp, 0.1, EHPP is a preprocessor for EspHome (formely esphomeyaml), 2020-07-30T13:23:41+0000
+/project/noolite-f/, NooLite-F, 0.1.2, Module to work with NooLite/NooLite-F modules via MTRF-64/MTRF-64-USB adapter, 2019-03-02T20:43:03+0000
+/project/bond-api/, bond-api, 0.1.12, Asynchronous Python wrapper library over Bond Local API, 2021-04-04T20:49:07+0000
+/project/pytadolog/, pytadolog, 1.0.0, CSV logger for PyTado, 2021-02-27T15:29:15+0000
+/project/pnp/, pnp, 0.28.0, Pull 'n' Push, 2021-04-25T12:45:18+0000
+/project/linky-tools/, linky-tools, 1.0.0, Provide tools to grab and query data generated by Enedis Linky smart meter, 2019-03-29T20:59:57+0000
+/project/rpi-gpio-emu/, rpi-gpio-emu, 0.0.1, Placeholder package to emulate RPi.GPIO package on non-Pi devices, 2019-08-06T16:59:50+0000
+/project/tuyamqtt/, tuyamqtt, 1.1.6, Python middleware for Tuya WiFi smart devices to MQTT, 2020-06-04T19:52:41+0000
+/project/wemo/, wemo, 1.1.0, A Wemo API, 2019-12-07T17:38:07+0000
+/project/pymetno/, PyMetno, 0.8.3, A library to communicate with the met.no api, 2021-04-21T04:30:42+0000
+/project/skink/, Skink, 0.7.0, Control the DOM from Python using Websockets, 2014-10-25T14:43:23+0000
+/project/tfatool/, tfatool, 2.5.0, Tools for synchronizing files to/from and configuring the Toshiba FlashAir wireless SD card, 2017-11-30T04:36:05+0000
+/project/switchbot-mqtt/, switchbot-mqtt, 0.6.0, MQTT client controlling SwitchBot button & curtain automators, compatible with home-assistant.io's MQTT Switch & Cover platform, 2020-12-19T16:34:07+0000
+/project/pysomneo/, pysomneo, 0.1.12, A library to communicate with the API of Philips Somneo., 2020-07-26T18:18:35+0000
+/project/deebotozmo/, deebotozmo, 1.7.8, a library for controlling certain robot vacuums [SUCKS FORK], 2021-01-27T08:17:48+0000
+/project/teleinfo/, teleinfo, 1.2.1, EDF Teleinfo frame acquisition, 2020-08-28T19:21:45+0000
+/project/onyx-client/, onyx-client, 2.4.0, HTTP Client for Hella's ONYX.CENTER API., 2021-02-14T11:44:35+0000
+/project/pya10lime/, pyA10Lime, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:52:32+0000
+/project/brickpi/, BrickPi, 0.1.3, BrickPi interfaces for Python and Scratch, 2014-04-23T19:40:05+0000
+/project/iot-message/, iot-message, 1.2.1, Custom iot:1 protocol, 2019-10-27T19:07:25+0000
+/project/knxsonos/, knxsonos, 0.2.2, Control a Sonos system from your KNX installation, 2016-04-16T15:26:19+0000
+/project/pyrfxtrx-tipi85/, pyRFXtrx-tipi85, 0.25.9, a library to communicate with the RFXtrx family of devices, 2020-11-14T09:37:29+0000
+/project/rpi-pir/, RPi.PIR, 0.5.0, PIR sensor state monitor, 2020-08-11T21:09:01+0000
+/project/huefs/, huefs, 0.0.1a2, Philips Hue as a FUSE filesystem, 2018-03-22T07:35:19+0000
+/project/kalliope/, kalliope, 0.7.1, Kalliope is a modular always-on voice controlled personal assistant designed for home automation., 2020-12-06T16:54:32+0000
+/project/motionblinds/, motionblinds, 0.4.11, Python library for interfacing with Motion Blinds, 2021-03-31T19:42:04+0000
+/project/lulebocli/, lulebocli, 0.1.3, CLI tool to interact with the Lulebo API, 2017-12-19T00:25:12+0000
+/project/mpymodcore/, mpymodcore, 0.0.19, mpymodcore, 2020-12-12T05:29:25+0000
+/project/pysnoo/, pysnoo, 0.1.2, A Python library and CLI to communicate with the Snoo Smart Baby Sleeper and Bassinet from Happiest Baby, 2021-02-17T23:47:47+0000
+/project/pysonos/, pysonos, 0.0.43, A SoCo fork with fixes for Home Assistant., 2021-04-16T18:50:17+0000
+/project/aiohomekit/, aiohomekit, 0.2.61, An asyncio HomeKit client, 2021-04-11T09:31:56+0000
+/project/insteontcp/, insteontcp, 0.0.5, A python package that interacts with the Insteon PLMs directly over their TCP interface, 2017-04-30T17:20:20+0000
+/project/homeassistant-pyozw/, homeassistant-pyozw, 0.1.10, python_openzwave is a python wrapper for the openzwave c++ library., 2020-03-24T10:10:14+0000
+/project/solight-dy08/, solight-dy08, 1.0.0, Control Solight DY08 sockets, 2019-03-31T11:31:15+0000
+/project/music-album-creation/, music-album-creation, 1.3.1, A CLI application intending to automate offline music library building., 2019-11-02T13:43:46+0000
+/project/pyvantage/, pyvantage, 0.0.38, Python library for Vantage Controller (for Home Assistant), 2020-07-18T04:28:15+0000
+/project/daylight/, daylight, 0.1.3, Python bindings to libdaylight, 2020-06-14T18:24:51+0000
+/project/pyseneye-windows/, pyseneye-windows, 0.0.2, A module for interacting with the Seneye range or aquarium and pond sensors, 2019-04-24T20:16:33+0000
+/project/imx233-gpio/, iMX233_GPIO, 0.1.0, Control GPIOs on iMX233-OLinuXino., 2013-04-23T06:53:06+0000
+/project/fritzctl/, fritzctl, 1.0.0a3, Object oriented TR64 FRITZ!Box Client Library, 2019-07-22T22:28:37+0000
+/project/mijnsimpel/, MijnSimpel, 0.5, Python Client to Mijn Simpel, 2020-09-17T00:46:53+0000
+/project/pyemvue/, pyemvue, 0.12.2, Unofficial library for interacting with the Emporia Vue energy monitor., 2021-02-10T03:09:38+0000
+/project/senseme/, SenseMe, 0.1.5, HaikuHome SenseMe API for fans and lights, 2018-07-14T00:04:01+0000
+/project/python-blebox/, python-blebox, 0.0.2, Python API for interacting with Blebox smart devices, 2018-07-22T23:19:47+0000
+/project/rfdevices/, rfdevices, 0.3.0, Control household RF devices with low-cost GPIO modules, 2017-06-16T02:59:54+0000
+/project/energenie/, energenie, 1.0.1, Remotely control power sockets from the Raspberry Pi, 2015-01-03T13:51:44+0000
+/project/asyncpysupla/, asyncpysupla, 0.0.5, Simple Supla's OpenAPI async wrapper, 2020-09-02T14:59:50+0000
+/project/maxcul/, maxcul, 0.1.1, Access with Python MAX! Devices over a CUL Stick, 2017-02-03T19:07:50+0000
+/project/pysesame/, pysesame, 0.2.0, Python API for Sesame smart locks, 2018-02-05T17:25:04+0000
+/project/ambiclimate/, Ambiclimate, 0.2.1, A python3 library to communicate with Ambiclimate, 2019-08-24T09:49:39+0000
+/project/pymaxcul/, pymaxcul, 0.1.12, Talk to eq-3 MAX! devices using a CUL stick, 2018-04-29T08:16:18+0000
+/project/tplink-eap/, tplink-eap, 0.2.0, A library to communicate with the TP link EAP access point., 2020-01-11T14:17:38+0000
+/project/senml/, senml, 0.1.0, SenML library, 2016-08-12T08:12:06+0000
+/project/pysonofflanr3/, pysonofflanr3, 1.1.4, Interface for Sonoff devices running v3+ Itead firmware., 2020-03-29T14:59:38+0000
+/project/adtpulsepy/, adtpulsepy, 0.0.1, An ADT Pulse client using their undocumented API., 2018-11-03T07:45:31+0000
+/project/python-samsung-mdc/, python-samsung-mdc, 1.2.0, Samsung Multiple Display Control (MDC) protocol implementation (asyncio library + CLI interface), 2021-03-28T19:41:58+0000
+/project/chip-io/, CHIP-IO, 0.7.1, A module to control CHIP IO channels, 2017-11-12T13:51:26+0000
+/project/evohome/, evohome, 0.0.8, A Honeywell evohome RF agent (compliant with RAMSES II)., 2019-12-21T18:13:45+0000
+/project/senzwifi/, senzwifi, 0.0.1, Python module for working with the senz wifi climate devices, 2020-10-03T11:27:39+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/skybellpy/, skybellpy, 0.6.3, An Skybell HD Python library running on Python 3., 2020-12-29T15:46:02+0000
+/project/pymagicswitchbot/, pyMagicSwitchbot, 1.0.14, Library to control Magic Switchbot devices, 2021-04-09T21:54:13+0000
+/project/instruction-graph/, instruction-graph, 0.2.23, An implementation of Transferable Augmented Instruction Graph, 2018-06-14T20:53:15+0000
+/project/recovoc/, RecoVoc, 1.0.5, Reconnaissance vocale., 2017-08-26T13:37:40+0000
+/project/gtsocket/, gtsocket, 0.1, Receive and/or send commands to radio controlled sockets (model GT-FSI-11) from brand "Globaltronics"., 2019-02-24T11:44:30+0000
+/project/lino-react/, lino-react, 20.12.0, The React user interface for Lino, 2020-12-28T07:32:50+0000
+/project/shoppinglist/, shoppinglist, 1.1.0, Quickly different combinations of prices and spare money, 2018-06-28T13:36:53+0000
+/project/pushfin/, pushfin, 0.2.1, Publishes bank account transactions and balances via MQTT, Telegram and Pushover., 2018-04-29T19:33:35+0000
+/project/mysbox/, mysbox, 0.1, It is a module to make easier communication with MySensor's network., 2015-12-05T20:56:54+0000
+/project/pi-sht1x/, Pi-Sht1x, 1.0.9, Python 3 library for Sensirion SHT1x series of temperature & humidity sensors for the Raspberry Pi., 2016-10-15T06:17:10+0000
+/project/pyspcwebgw/, pyspcwebgw, 0.5.0, A Python library for communicating with SPC Web Gateway., 2020-10-07T21:04:09+0000
+/project/python-duco/, python-duco, 0.1.0, Open-source Python 3 library that allows communication to the Duco Ventilation System., 2017-10-24T19:58:19+0000
+/project/greenscreen-control/, greenscreen-control, 0.0.2, Python module, server and utility to control greenscreen., 2017-07-25T21:17:31+0000
+/project/pyraven/, pyraven, 0.1.6, Interface with the Rainforest Automation RAVEn USB stick, 2019-10-08T10:38:08+0000
+/project/lightware/, lightware, 0.0.1, Python library to provide a  communication link with LightWare Eth switches., 2019-01-11T13:44:51+0000
+/project/denonavr/, denonavr, 0.10.5, Automation Library for Denon AVR receivers, 2021-03-31T22:10:04+0000
+/project/mci/, mci, 1.1.1, MiLight-Control-Interface, 2016-10-24T19:27:27+0000
+/project/piwaterflow/, piwaterflow, 0.2.1, Raspberry Pi Waterflow resilient system, 2021-04-25T21:12:23+0000
+/project/pykicadlib/, pykicadlib, 0.0.1, Python KiCAD library parser/generator, 2019-09-20T16:20:06+0000
+/project/thingamon/, thingamon, 1.0.0, AWS MQTT IoT Thing monitor, 2019-10-27T18:32:31+0000
+/project/xbee-helper/, xbee-helper, 0.0.7, This project offers a high level API to an XBee device running an up-
+to-date version of the ZigBee firmware. It builds upon the existing
+XBee project by abstracting more functionality into methods., 2016-05-03T12:07:14+0000
+/project/sonyp-rs232c/, sonyp_rs232c, 0.1, A Python3 class used for controlling a Sony VPL-HWXXES projector via serial connection., 2017-10-06T23:54:06+0000
+/project/lifesospy/, lifesospy, 0.10.1, Provides an interface to LifeSOS alarm systems., 2019-01-13T13:47:24+0000
+/project/lysidike/, Lysidike, 0.1.2, Lysidike publishes incoming mqtt messages to various internet services like email., 2019-04-07T20:18:43+0000
+/project/knittingpattern/, knittingpattern, 0.1.19, Python library for knitting machines., 2016-08-21T10:29:01+0000
+/project/python-cipclient/, python-cipclient, 0.0.2, A Python-based socket client for communicating with Crestron control processors via CIP., 2020-03-16T02:38:58+0000
+/project/tesla-powerwall-json-py/, tesla-powerwall-json-py, 0.0.1, Python module to access local Tesla Powerwall JSON API, 2019-06-20T08:38:35+0000
+/project/pyufoled/, pyufoled, 0.0.2, A Python3 wrapper for LD686-compatible LED controllers., 2020-06-13T00:02:55+0000
+/project/pyskyplushd/, PySkyPlusHD, 0.2.0, Python package to control a Sky+ HD box, 2019-11-13T00:50:10+0000
+/project/simpletr64/, simpleTR64, 1.0.6, An easy to use UPnP TR64 protocol library, 2016-01-24T08:18:59+0000
+/project/python-tado/, python-tado, 0.11.0, PyTado from chrism0dwk, modfied by w.malgadey, diplix, michaelarnauts, LenhartStephan, splifter, syssi, andersonshatch, Yippy, p0thi, 2021-02-03T10:00:08+0000
+/project/tuyaapi/, tuyaapi, 7.3, Python interface to Tuya WiFi smart devices., 2018-06-24T15:20:53+0000
+/project/hcsr04sensor/, hcsr04sensor, 1.6.2, Module to access the HCSR04 sensor on a Raspberry Pi, 2020-01-11T14:19:06+0000
+/project/rpi-mc/, RPi.MC, 0.5.0, Magnetic contact state monitor, 2020-08-11T20:43:00+0000
+/project/iotrelay/, iotrelay, 1.2.3, IoT Relay - Relay data between data sources and destinations., 2017-01-16T22:17:11+0000
+/project/hippodamia/, Hippodamia, 0.4.2, Hippodamia observe the state of all registered microservices (aka watch dog)., 2019-11-03T21:01:19+0000
+/project/homieclient/, homieclient, 0.0.1, Client to interact with Homie IoT devices via MQTT, 2021-03-04T20:57:45+0000
+/project/epidaurus/, Epidaurus, 0.2.0, PID based room temperature controller - to be used in combination with pelops/copreus, pelops/argaeus and pelops/alcathous., 2020-04-23T22:47:06+0000
+/project/pyoutlet/, pyoutlet, 0.0.8, Python CLI & Web switcher for Etekcity power outlets using 433MHz RF emitter, 2016-12-02T13:22:45+0000
+/project/solight-dy05/, solight-dy05, 1.0.0, Control Solight DY05 sockets, 2019-03-31T11:21:53+0000
+/project/hass-client/, hass-client, 0.1.2, Basic client for connecting to Home Assistant over websockets and REST., 2021-03-03T16:00:50+0000
+/project/pya20lime/, pyA20Lime, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:56:54+0000
+/project/rustybits/, rustybits, 0.0.2, , 2020-01-19T21:35:16+0000
+/project/pymata/, PyMata, 2.20, A Python Protocol Abstraction Library For Arduino Firmata, 2019-09-17T14:46:38+0000
+/project/prana-rc-client/, prana-rc.client, 0.4.4, Python library and CLI to control Prana recuperators via BLE connection (https://prana.org.ua/), 2021-04-06T22:14:34+0000
+/project/pyrfxtrx/, pyRFXtrx, 0.26.1, a library to communicate with the RFXtrx family of devices, 2020-12-17T16:21:31+0000
+/project/pya10-cb/, pyA10_CB, 0.1.0, Control GPIOs on Cubieboard A10., 2014-01-08T23:20:33+0000
+/project/patatmo/, patatmo, 0.2.15, painless access to the netatmo weather api, 2019-05-05T18:55:49+0000
+/project/timeguard-supplymaster/, timeguard-supplymaster, 0.0.17, Implementation of the API used by the Timeguard's Supplymaster application, 2021-03-09T21:18:07+0000
+/project/hahomematic/, hahomematic, 0.0.2, Homematic interface for Home Assistant, 2021-04-20T08:53:27+0000
+/project/tellive-py/, tellive-py, 0.5.2, Python wrapper for connecting to Telldus Live, 2014-11-25T18:55:43+0000
+/project/esphome/, esphome, 1.16.2, Make creating custom firmwares for ESP32/ESP8266 super easy., 2021-02-20T07:05:56+0000
+/project/millheater/, millheater, 0.4.0, A python3 library to communicate with Mill, 2020-11-21T21:30:22+0000
+/project/lw12/, lw12, 0.9.2, Library to control the Lagute LW-12 WiFi LED controller., 2018-03-18T08:44:19+0000
+/project/hippasos/, Hippasos, 0.1.7, Hippasos plays preconfigured sound files upon reception of predefined mqtt messages., 2019-04-07T20:18:09+0000
+/project/warmup4ie/, warmup4ie, 0.1.5, client library for 4IE thermostat sold by warmup, 2019-05-18T08:22:06+0000
+/project/kogniserver/, kogniserver, 0.3.1, Interface server of the KogniHome project, 2019-02-26T13:59:10+0000
+/project/caissa/, caissa, 0.4.0, Caissa voice-controlled personal assistant, 2018-07-16T18:34:27+0000
+/project/python-tadoac/, python-tadoac, 0.0.2, PyTado modified by dgaust for AC, 2019-05-29T21:13:21+0000
+/project/cozypy/, cozypy, 1.2.7, Cozytouch python client, 2020-11-11T16:23:02+0000
+/project/python-gc100/, python-gc100, 1.0.3a0, A Python-based socket client for Global Cache GC100 digital I/O interface, 2017-11-09T14:25:10+0000
+/project/pywarmup/, pywarmup, 0.1.0, Client library for Warmup thermostats, 2020-02-02T21:31:41+0000
+/project/eazyctrl/, eazyctrl, 0.3, Monitoring and controlling Easy Controls KWL (air exchanger)devices via Modbus/TCP., 2020-08-25T12:23:33+0000
+/project/swissweather/, swissweather, 0.2.4, SRF Meteo weather forecast in Switzerland, 2020-06-14T10:20:04+0000
+/project/django-haweb/, django-haweb, 0.2.5, A Django app which shows a web front for django-hautomation, 2014-09-01T20:58:32+0000
+/project/htknx/, htknx, 0.2.0, Heliotherm heat pump KNX gateway, 2021-02-06T16:23:28+0000
+/project/python-fullykiosk/, python-fullykiosk, 0.0.8, Python wrapper for Fully Kiosk Browser REST API, 2020-10-20T12:31:15+0000
+/project/b-rabbit/, b-rabbit, 1.2.1, An abstract interface for RabbitMQ communication, 2020-09-26T11:03:40+0000
+/project/flux-led/, flux-led, 0.22, A Python library to communicate with the flux_led smart bulbs, 2018-10-21T06:34:10+0000
+/project/nature-remo/, nature-remo, 0.3.3, Python client for Nature Remo API, 2021-01-16T07:11:01+0000
+/project/turk/, Turk, 0.1.1, A framework for interfacing applications and devices with the web, 2010-03-09T23:52:13+0000
+/project/aiofreepybox/, aiofreepybox, 0.0.8, Provides asynchronous authentication and access to Freebox servers, 2019-03-10T22:23:38+0000
+/project/vivintpy/, vivintpy, 2021.3.5, Python library for interacting with the Vivint Sky API., 2021-03-19T02:17:28+0000
+/project/rpimcp23s17/, RPiMCP23S17, 1.0.0, A module to access GPIO expanders MCP23S17 from a Raspberry Pi., 2019-03-20T19:23:48+0000
+/project/gfxcili/, gfxcili, 0.3.1, GfxCili = GfxLCD in C, 2019-09-06T17:19:08+0000
+/project/hippodamiaagent/, HippodamiaAgent, 0.1.12, Hippodamia observe the state of all registered microservices (aka watch dog)., 2019-04-05T20:22:04+0000
+/project/deebotozmo-beta/, deebotozmo-beta, 0.0.3, a library for controlling certain robot vacuums - BETA, 2021-03-11T11:52:34+0000
+/project/devicehive-plugin/, devicehive-plugin, 1.0.3, DeviceHive Python plugin connectivity library, 2018-04-10T14:00:11+0000
+/project/ueagle/, uEagle, 0.0.2, Tool to read data from Rainforest Legacy Eagle., 2020-11-03T05:49:19+0000
+/project/goodwe-hass/, goodwe-hass, 0.2.0, A library to communicate with the API of Goodwe., 2019-05-28T18:33:25+0000
+/project/triggerd/, triggerd, 0.6.0, Trigger an event or notification upon the output of a command., 2016-01-22T23:01:15+0000
+/project/btsocket/, btsocket, 0.1.0, Python library for BlueZ Bluetooth Management API, 2021-03-07T17:37:49+0000
+/project/darkskylib/, darkskylib, 0.3.91, The Dark Sky API wrapper, 2018-01-14T00:35:25+0000
+/project/openremote-cli/, openremote-cli, 0.6.39, OpenRemote Command-line interface, 2021-04-22T08:15:27+0000
+/project/aionlib/, aionlib, 0.1.1, Library support for the 'aion' project, 2020-06-28T12:12:43+0000
+/project/networkdiscovery/, networkDiscovery, 1.0.7, Discover devices on your local network, 2020-09-22T12:28:21+0000
+/project/em-media-handler/, em-media-handler, 1.0b3, A comprehensive media handling automation script., 2015-02-08T15:44:17+0000
+/project/pleisthenes/, Pleisthenes, 0.1a0, Pleisthenes is a weather microservice (connects to a weather site and provides e.g. local sun radiation)., 2018-11-19T22:44:01+0000
+/project/voicecom/, VoiceCom, 0.0.2rc2, An open source Voice-User-Interface (VUI), 2015-06-01T22:48:08+0000
+/project/jarvis-assistant/, jarvis-assistant, 0.1.3, Jarvis - Voice Personal Assistant, 2021-02-10T09:27:14+0000
+/project/aiosenseme/, aiosenseme, 0.5.5, SenseME by Big Ass Fans asynchronous Python library, 2021-03-27T19:20:02+0000
+/project/openpeerpower/, openpeerpower, 2021.4.3, Open-source home automation platform running on Python 3., 2021-04-11T10:00:19+0000
+/project/raspi-gpioctl/, raspi_gpioctl, 0.0.2, Raspberry Pi GPIO pin state controller, 2016-10-23T18:18:04+0000
+/project/pysoma/, pysoma, 0.0.10, A simple package for controlling SOMA devices, 2019-09-03T07:53:45+0000
+/project/pyhatchbabyrest/, pyhatchbabyrest, 2.0.1, Python library to control Hatch Baby Rest devices, 2020-12-21T18:13:21+0000
+/project/publishing-to-pypi-with-pbr-and-travis/, Publishing-to-PyPI-with-pbr-and-Travis, 1.1.0, Publishing to Pypi with PBR and Travis., 2018-10-26T08:08:45+0000
+/project/pyatmo/, pyatmo, 4.2.2, Simple API to access Netatmo weather station data from any Python 3 script. Designed for Home-Assitant (but not only), 2021-01-20T21:55:40+0000
+/project/pyinnotemp/, pyinnotemp, 0.2, innotemp interface, 2019-10-03T17:57:31+0000
+/project/pynoon/, pynoon, 0.0.16, Python library for Noon Home, 2019-04-05T23:54:29+0000
+/project/piir/, PiIR, 0.2.5, IR remote control for Raspberry Pi, 2021-04-10T02:13:35+0000
+/project/pingplusplus/, pingplusplus, 1.0.0, ping logging, 2018-07-21T10:53:08+0000
+/project/micromez/, micromez, 0.0.4, Python library for support of 96board mezzanine micromez, 2019-04-22T19:50:03+0000
+/project/cozytouchpy/, cozytouchpy, 2.0.0, Cozytouch python client (fork cozypy), 2021-04-10T15:04:40+0000
+/project/orbit-framework/, orbit_framework, 0.1.0, Ein Python-Framework für robuste TinkerForge-Anwendungen, 2014-07-28T11:12:38+0000
+/project/touchosc2midi/, touchosc2midi, 0.0.10, TouchOSC Bridge clone in python, 2017-04-16T16:31:15+0000
+/project/archippe/, Archippe, 0.2.1, Archippe is a data persistence micro service for pelops. It uses influxdb to store incoming values and publishes the history a series upon request., 2020-04-23T22:29:30+0000
+/project/ouimeaux/, ouimeaux, 0.8.2, Open source control for Belkin WeMo devices, 2019-05-06T20:43:08+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/qvrpy/, qvrpy, 0.1a0, An abstraction of the QVR Pro API, 2019-09-10T06:30:39+0000
+/project/cora-ui/, cora-ui, 0.0.1, Touchscreen interface for Cora virtual assistant, 2019-06-25T10:45:56+0000
+/project/plaid2qif/, plaid2qif, 1.3.4, Download financial transactions from Plaid as QIF files., 2020-12-06T19:28:06+0000
+/project/soco/, soco, 0.22.1, SoCo (Sonos Controller) is a simple library to control Sonos speakers., 2021-04-17T16:40:44+0000
+/project/athom-api/, athom-api, 1.1.0, A python module for accessing the Athom Web-API for use with the Athom Homey, 2020-06-17T17:53:45+0000
+/project/adext/, adext, 0.4.1, AlarmDecoder extended, 2021-02-28T20:55:15+0000
+/project/siro/, siro, 0.4, This is a package for controlling the SIRO SmartHome Devices like rollers., 2020-10-15T20:33:10+0000
+/project/mqttasgi/, mqttasgi, 0.2.0, MQTT ASGI Protocol Server, 2020-05-18T17:29:11+0000
+/project/pydvdid/, pydvdid, 1.1, A pure Python implementation of the Windows API IDvdInfo2::GetDiscID method, as used by Windows Media Center to compute a 'practically unique' 64-bit CRC for metadata retrieval., 2018-01-26T21:25:34+0000
+/project/thyestes/, Thyestes, 0.1.2, Thyestes it a timer microservice. Listens on topics for specific messages, starts a timer when such a messages has been received and publishes a predefined message after the timer expired., 2019-04-07T20:20:33+0000
+/project/pymata-aio/, pymata-aio, 2.35, A Python Protocol Abstraction Library For Arduino Firmata using Python asyncio, 2020-02-06T17:58:08+0000
+/project/rallf/, rallf, 0.4.5, rallf.com Software Development Kit (SDK), 2019-03-14T11:57:00+0000
+/project/idiotic/, idiotic, 0.2.0, Distributed home automation controller, 2016-03-23T04:44:30+0000
+/project/pcf8574/, pcf8574, 0.1.3, Library for communication with PCF8574 IO expander over I2C, 2021-02-16T00:07:21+0000
+/project/selenium-update/, selenium-update, 0.0.0, Automate Selenium webdriver dependency set up, 2020-08-09T10:21:26+0000
+/project/awlsim/, awlsim, 0.74.0, S7 compatible Programmable Logic Controller PLC/SPS (AWL, STL, FUP, FBD), 2020-09-13T08:47:02+0000
+/project/mpymodcore-watering/, mpymodcore-watering, 0.0.9, mpymodcore, 2020-12-12T05:32:22+0000
+/project/pyxbee-tne/, pyXBEE-tne, 0.4.0, a library to communicate with the XBEE, 2018-12-25T13:07:53+0000
+/project/sucks/, sucks, 0.9.6, an abandoned library for controlling certain robot vacuums, 2020-05-25T22:31:27+0000
+/project/pyvcontrold/, pyvcontrold, 0.0.15, Library Viessmann heaters, 2020-08-26T07:45:57+0000
+/project/distkv-wago/, distkv-wago, 0.7.0, A distributed no-master key-value store, 2021-02-07T17:36:02+0000
+/project/lifx-tools/, lifx-tools, 0.1.0, Graphical interface for controlling lifx bulbs, 2019-07-13T04:47:49+0000
+/project/pyswitchbot/, PySwitchbot, 0.9.1, A library to communicate with Switchbot, 2020-12-20T08:05:20+0000
+/project/omron-2jcie-bu01/, omron-2jcie-bu01, 0.1.0, API for OMRON 2JCIE-BU01 Environment Sensor, 2020-09-25T12:45:28+0000
+/project/txcurrentcost/, txcurrentcost, 0.0.3, txcurrentcost is a Python Twisted package that lets you monitor your CurrentCost device., 2013-01-04T04:50:27+0000
+/project/turntouch/, TurnTouch, 0.4.3, Python library for the Turn Touch smart home remote, 2018-07-26T14:47:54+0000
+/project/skydance/, skydance, 0.1.2, A library for communication with Skydance Wi-Fi relays., 2021-01-17T20:49:55+0000
+/project/carson-living/, carson-living, 0.0.5, A Python library to communicate with Carson Living Residences (https://www.carson.live/), 2020-11-23T15:27:24+0000
+/project/solight-dy01/, solight-dy01, 1.0.0, Control Solight sockets, 2019-03-31T10:26:18+0000
+/project/callattendant/, callattendant, 1.1.0, An automated call attendant and call blocker using a Raspberry Pi and USR-5637 modem, 2020-11-17T01:01:36+0000
+/project/zipunicode/, ZipUnicode, 1.0.0, Fix unreadable file names when extracting zip file, 2020-05-30T04:08:50+0000
+/project/edison/, edison, 0.0.2, Absurdity as a Service, 2014-02-04T06:19:01+0000
+/project/miblepy/, miblepy, 0.4.6, miblepy fetches data from various (Xiaomi/Mijia/Mi) Bluetooth LE devices and push it to a MQTT broker in a coordinated, sequential manner., 2020-05-27T12:55:30+0000
+/project/gce/, gce, 1.0.2, Script Python pour interroger un module Teleinfo de GCE Electronics, 2020-01-06T11:52:38+0000
+/project/rpi-rfsniffer/, rpi-rfsniffer, 0.1.0, RF remote sniffer and sender for the Raspberry Pi, 2017-01-12T19:17:36+0000
+/project/gotemp/, gotemp, 1.0.1, A library for interacting with GoTemp! temperature sensors., 2013-03-22T18:56:09+0000
+/project/aiohwenergy/, aiohwenergy, 0.0.6, Asyncio package to communicate with a HomeWizard Energy Device., 2021-03-15T14:34:31+0000
+/project/homekit-display-switch/, HomeKit-Display-Switch, 1.0.1, HomeKit accessory that allows you to sleep/wake your Mac's display., 2019-02-05T12:29:24+0000
+/project/xfinity-usage/, xfinity-usage, 3.0.1, Python/selenium script to get Xfinity bandwidth usage from Xfinity MyAccount website., 2018-09-02T12:49:33+0000
+/project/smlpy/, smlpy, 0.2.3, smlpy enables reading of smart meter language (sml) data from a smart power meter. You need a working IR-reading device for this, e.g. https://shop.weidmann-elektronik.de/index.php?page=product&info=24which must be connected to an USB port. Please note that this library only supports a small part of the SML-spec, especially the sending part is intentionally omitted, 2021-02-17T19:50:30+0000
+/project/rpi-dht/, RPi.DHT, 0.5.0, Python implementation for Adafruit_DHT sensor for Raspberry Pi., 2020-08-11T21:15:57+0000
+/project/penin/, penin, 0.1.0, Information gathering and penetration testing framework, 2019-04-30T21:22:40+0000
+/project/habapp/, HABApp, 0.20.2, Easy automation with MQTT and/or openHAB. Create home automation rules in python., 2021-04-07T07:15:54+0000
+/project/orangepi-gpio/, OrangePi.GPIO, 0.6.3, A module to control OrangePi GPIO channels, 2018-06-04T05:02:33+0000
+/project/adax/, adax, 0.1.0, A python3 library to communicate with Adax, 2021-04-07T14:56:09+0000
+/project/brewpi/, BrewPi, 0.0.0.1, For the fans of the original Arduino temperature controller, 2020-08-02T14:19:31+0000
+/project/digi-xbee-unofficial/, digi-xbee-unofficial, 1.4.3, Digi XBee Python library, 2021-02-16T05:01:20+0000
+/project/upnpclient/, upnpclient, 1.0.3, Python 3 library for accessing uPnP devices., 2020-12-04T15:51:39+0000
+/project/adafruit-bbio/, Adafruit-BBIO, 1.2.0, A module to control BeagleBone IO channels, 2020-07-31T02:25:44+0000
+/project/intertechno/, intertechno, 0.2, Library for communicating with intertechno devices., 2016-04-06T13:15:11+0000
+/project/smarthab/, SmartHab, 0.21, This package allows controlling devices in a SmartHab-powered home., 2020-06-01T16:25:44+0000
+/project/pysmartthings/, pysmartthings, 0.7.6, A python library for interacting with the SmartThings cloud API build with asyncio and aiohttp., 2020-11-14T19:28:38+0000
+/project/lit-core/, lit-core, 0.0.4, Lit Ilumination Technology, 2020-12-28T22:00:17+0000
+/project/lcdmanager/, LCDManager, 0.4.0, Lcd window manager for char lcds (Hitachi HD44780) @ Raspberry Pi., 2016-11-13T18:48:25+0000
+/project/skeiron/, Skeiron, 0.1.3, Skeiron provides a Forwarding/Echo/Collect/Distribute service., 2019-04-07T20:19:53+0000
+/project/tc420/, tc420, 0.2.1, TC420 LED Controller library and command line interface, 2021-01-03T19:29:34+0000
+/project/spyrk/, spyrk, 0.0.4, Python module for Spark devices, 2016-04-20T22:33:56+0000
+/project/plumlightpad/, plumlightpad, 0.0.11, A python package that interacts with the Plum Lightpad, 2018-10-15T22:04:31+0000
+/project/beward/, beward, 1.0.14, Constants., 2021-03-23T04:05:04+0000
+/project/satbot/, satbot, 0.1.10, Read data from commonly-available "satellite" hobby R/C receivers., 2015-01-20T00:22:34+0000
+/project/smarthomeconnect/, smarthomeconnect, 0.2, The Smart Home Connect home automation framework based on AsyncIO, 2020-10-08T19:57:55+0000
+/project/wt-pygardena/, wt.pygardena, 0.9.6, Library to connect to Garena Smart, 2019-03-04T12:33:48+0000
+/project/samsung-mdc/, samsung-mdc, 0.1.0, Implementation of the Multiple Display Control Protocol., 2019-01-19T20:31:00+0000
+/project/pwrusb/, pwrusb, 1.0.3, A python wrapper for controlling pwrusb.com power strip outlets., 2016-04-11T19:20:24+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/chip-arest/, CHIP-aREST, 0.3, A module to control the CHIP IO channels via a REST API, 2017-12-16T19:52:48+0000
+/project/rpio/, RPIO, 0.10.0, Advanced GPIO for the Raspberry Pi. Extends RPi.GPIO with PWM, GPIO interrups, TCP socket interrupts, command line tools and more, 2013-03-14T15:00:48+0000
+/project/cc1101-python/, cc1101-python, 1.0.0, Python interface to the CC1101 Linux device driver, 2021-01-31T11:30:34+0000
+/project/lightpack/, lightpack, 0.0.1, Controls Lightpack devices through a common Python API, 2014-02-04T06:31:44+0000
+/project/pyntensiswmp/, pyntensiswmp, 0.0.1, Intensis WMP Connector, 2018-04-21T17:29:20+0000
+/project/hautomation-gpio/, hautomation_gpio, 0.7, Home Automation Python Project Plugin for Raspberry PI GPIO, 2014-08-30T09:32:17+0000
+/project/pih2o/, pih2o, 1.0.3, An automatic plant watering application in pure Python for the Raspberry Pi., 2019-06-09T22:40:18+0000
+/project/appdaemon/, appdaemon, 4.0.8, Apps for the Home Assistant home automation package., 2021-03-31T00:34:09+0000
+/project/pycec/, pyCEC, 0.5.1, Provide HDMI CEC devices as objects, especially for use with Home Assistant, 2020-10-26T23:45:50+0000
+/project/pydmxcontrol/, PyDMXControl, 1.6.3, A Python 3 module to control DMX using uDMX. Featuring fixture profiles, built-in effects and a web control panel., 2019-07-13T09:45:19+0000
+/project/yeelib/, yeelib, 2.1.10, Python library for Xiaomi Mi Yeelight., 2019-04-07T07:36:10+0000
+/project/distkv-akumuli/, distkv-akumuli, 0.4.1, A distributed no-master key-value store, 2021-02-04T19:34:40+0000
+/project/pyps4-2ndscreen/, pyps4-2ndscreen, 1.3.0, PS4 2nd Screen Python Library, 2021-02-01T09:19:00+0000
+/project/cred-client/, cred-client, 0.2.6, Client Library for cred-server., 2015-06-26T01:46:49+0000
+/project/cayenne-mqtt/, cayenne-mqtt, 1.1.0, Cayenne MQTT Python Library, 2018-02-17T02:02:35+0000
+/project/pelops/, Pelops, 0.5.0, Common tools for projects of the the gitlab group pelops., 2020-04-23T21:03:36+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/freeboxtv/, freeboxtv, 0.9.1, VLC launcher for Freebox TV/Freeplayer, 2011-11-21T19:35:52+0000
+/project/rxv/, rxv, 0.6.0, Automation Library for Yamaha RX-V473, RX-V573, RX-V673, RX-V773 receivers, 2018-09-30T20:41:07+0000
+/project/hippodamiaservice/, HippodamiaService, 0.1a1, Hippodamia observe the state of all registered microservices (aka watch dog)., 2018-11-24T10:42:15+0000
+/project/pydaikin/, pydaikin, 2.4.1, Python Daikin HVAC appliances interface, 2021-01-06T12:45:27+0000
+/project/sht-sensor/, sht-sensor, 18.4.2, Driver and command-line tool for Sensirion SHT1x and SHT7x sensors connected to GPIO pins., 2018-04-06T23:56:17+0000
+/project/ipremote/, IPRemote, 0.1.8, , 2020-09-24T02:18:22+0000
+/project/milightwifibridge/, MilightWifiBridge, 2.1, Milight Wifi Bridge 3.0 controller for LimitlessLED Wifi Bridge v6.0 protocol (Light ON/OFF, change color/mode/brightness/saturation, link/unlink), 2019-11-09T18:22:54+0000
+/project/distkv-owfs/, distkv-owfs, 0.6.1, A distributed no-master key-value store, 2021-02-07T17:57:05+0000
+/project/python-gsmmodem/, python-gsmmodem, 0.9, Control an attached GSM modem: send/receive SMS messages, handle calls, etc, 2013-07-18T11:23:48+0000
+/project/pyswitchmate/, PySwitchmate, 0.4.6, A library to communicate with Switchmate, 2019-07-07T10:25:52+0000
+/project/i2csense/, i2csense, 0.0.4, A library to handle i2c sensors with the Raspberry Pi, 2017-06-27T00:54:19+0000
+/project/mikenye-pyizone/, mikenye-pyizone, 0.1, Query and control of WiFi-enabled iZone 310 and compatible family of climate control devices, 2020-11-07T06:33:29+0000
+/project/beewipy/, BeewiPy, 0.0.1, A python library to interact with Beewi SmartBulb, 2020-05-10T02:18:01+0000
+/project/pyprofibus/, pyprofibus, 1.8, Python PROFIBUS module, 2020-09-13T08:22:05+0000
+/project/veides-agent-sdk/, veides-agent-sdk, 0.2.0, Agent Python SDK for Veides, 2020-11-13T14:05:41+0000
+/project/pyavreceiver/, pyavreceiver, 0.0.10, An async python library for controlling Audio Video Receiver devices, 2021-01-10T06:17:45+0000
+/project/pisurvl/, pisurvl, 0.0.8, A surveillance system based on Raspberry Pi, 2017-07-30T13:45:58+0000
+/project/mqreceive/, mqreceive, 0.1.2, MQTT receive wrapper library, 2016-07-10T12:40:39+0000
+/project/logi-circle/, logi-circle, 0.2.2, A Python library to communicate with Logi Circle cameras, 2019-01-28T10:54:14+0000
+/project/pyinsteon/, pyinsteon, 1.0.10, Python API for controlling Insteon devices, 2021-03-18T03:34:44+0000
+/project/brain-ai/, brain-ai, 0.1.5, Build your own intelligent personal assistant., 2018-06-06T07:10:19+0000
+/project/htheatpump/, htheatpump, 1.3.1, Easy-to-use Python communication module for Heliotherm heat pumps, 2021-01-20T19:33:26+0000
+/project/st-schema-python/, st-schema-python, 1.2.2, SmartThings Schema Connector Python SDK, 2020-11-04T16:49:12+0000
+/project/sleep360/, sleep360, 0.2.0, A library and command-line tool to control the Holi SleepCompanion, 2019-05-10T21:16:49+0000
+/project/pylogview/, pylogview, 0.2.2, logview is a simple terminal script that allows you to tail multiple log files in a windowed format., 2021-01-16T21:47:51+0000
+/project/message-listener/, message-listener, 1.1.0, Server listener and iot_message handler, 2019-10-27T16:59:39+0000
+/project/pyoneer-vsx/, pyoneer-vsx, 0.0.3, A python library to control Pioneer VSX AVRs over telnet, 2019-02-28T14:27:30+0000
+/project/miplant/, miplant, 0.3.0, A library for reading cheap plant monitoring sensors manufactured by Xiaomi., 2017-08-03T14:38:38+0000
+/project/denonavr3312/, denonavr3312, 0.2.0, Control Denon AVR 3312 through telnet interface, 2017-03-30T07:26:02+0000
+/project/lastfm-cli-scrobbler/, lastfm-cli-scrobbler, 0.1.0, Last.fm CLI Scrobbler, 2021-03-06T18:05:46+0000
+/project/dm-zope-reseller/, dm.zope.reseller, 1.1, Zope package for reselling, 2019-12-10T07:32:34+0000
+/project/pyrfoutlet/, pyrfoutlet, 0.0.2, A library for controlling Holiday Time rf outlets, 2018-01-25T16:28:21+0000
+/project/libsoc-zero/, libsoc_zero, 0.0.3, For using GPIO on 96boards, 2016-05-05T20:56:40+0000
+/project/samsungctl/, samsungctl, 0.7.1, Remote control Samsung televisions via TCP/IP connection, 2018-01-15T20:01:01+0000
+/project/pycoolmaster/, pycoolmaster, 0.2.1, Lightweight Python API for older (RS232-only) CoolMaster HVAC bridges, 2020-02-17T15:09:47+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/pilight2mqtt/, pilight2mqtt, 0.1.0, Translate pilight to mqtt., 2016-08-21T19:33:04+0000
+/project/npio/, npio, 0.1.77, Module to control NanoPi GPIO channels, 2020-02-26T13:44:04+0000
+/project/pomodoro-den-ik/, pomodoro-DEN-ik, 0.0.2, Simple concentrator based on pomodoro technique, 2020-12-10T15:30:07+0000
+/project/omnik-data-logger/, omnik-data-logger, 1.0.0, Omnik Data Logger, 2020-01-12T13:08:22+0000
+/project/greeneye-monitor/, greeneye-monitor, 2.1, Receive data packets from GreenEye Monitor(http://www.brultech.com/greeneye/), 2020-07-31T06:00:01+0000
+/project/gleeful/, gleeful, 0.1.3, HomeKit Accessory Protocol (HAP) wrapper for Python, 2018-04-02T00:23:46+0000
+/project/xideco/, xideco, 0.5.2, A Network Enabled Software Backplane, 2016-05-14T23:15:18+0000
+/project/vr900-connector/, vr900-connector, 0.3.4, Connector to handle vaillant vr900/vr920 data, 2019-08-04T14:32:59+0000
+/project/txbom/, txbom, 0.0.2, txbom is a Python Twisted package that lets you retrieve forecasts and observations from the Australian Bureau of Meteorology (BOM)., 2013-01-04T05:37:14+0000
+/project/pyremora/, pyremora, 0.3, A Python library to use the Remora API (Fil Pilote), 2020-10-04T11:55:26+0000
+/project/youtube-music-uploader/, youtube-music-uploader, 1.1.0, Youtube Music package to upload your music library to Youtube Music, 2021-01-17T04:15:58+0000
+/project/python-velbus/, python-velbus, 2.1.3, Python Library for the Velbus protocol, 2021-04-05T09:30:52+0000
+/project/learninghouse/, learninghouse, 0.7.0, learningHouse - Teach your smart home everything, 2020-10-04T16:20:50+0000
+/project/pymysensorsrma/, pymysensorsrma, 0.22.0, Python API for talking to a MySensors gateway, 2020-12-16T09:52:22+0000
+/project/gce-ipx800/, gce-ipx800, 0.4.0, Module to control the IPX800 V4 device from GCE Electronics., 2020-12-27T17:03:09+0000
+/project/mow/, mow, 0.0.8, Organise your movie folders, fetch metadata and movie-posters, 2016-01-27T14:07:41+0000
+/project/smartanthill/, smartanthill, 0.0.0, An open IoT system, 2015-02-26T22:27:53+0000
+/project/billarchive/, billarchive, 0.2, Command-line automated bills downloading, 2021-04-11T21:09:54+0000
+/project/tellcore-py/, tellcore-py, 1.1.3, Python wrapper for Telldus' home automation library, 2016-11-22T19:46:09+0000
+/project/osc2mqtt/, osc2mqtt, 0.2b2, An OSC to MQTT bridge based on pyliblo and paho-mqtt., 2015-10-09T00:27:44+0000
+/project/isotel-idm/, isotel-idm, 1.0b21, A python framework for the ISOTEL Data-acquisition & Metering Smart Gateway for easy integration with Internet of Things., 2019-11-26T21:06:07+0000
+/project/nimses-adimate/, nimses-adimate, 1.3, This is a simple script that automatically clicks ads in the Nimses Android app., 2019-07-31T16:47:52+0000
+/project/md-mqtt/, md-mqtt, 0.0.1, Publish Linux MD RAID status to MQTT, 2017-12-13T23:19:24+0000
+/project/speech/, speech, 0.5.2, A clean interface to Windows speech recognition and text-to-speech capabilities., 2009-02-27T14:32:06+0000
+/project/pypck/, pypck, 0.7.9, LCN-PCK library, 2021-01-17T14:09:15+0000
+/project/pytrafik/, pytrafik, 0.2, PyTrafik, 2016-11-24T20:05:10+0000
+/project/facebookwebbot/, FacebookWebBot, 1.1.0, A python library to automatize facebook without the official API, 2017-04-16T00:26:01+0000
+/project/dam-sync/, dam-sync, 0.0.3, Synchronisation CLI tool for your digital assets, 2020-08-12T16:52:48+0000
+/project/joeflow/, joeflow, 1.0.5, The lean workflow automation framework for machines with heart, 2021-04-08T10:16:09+0000
+/project/milight/, milight, 0.6, Controller for milight/limitlessled Wi-Fi LEDs, 2015-03-20T01:41:34+0000
+/project/firstalexaskills/, FirstAlexaSkills, 0.2.0, A package for learning first steps with Alexa skills, 2018-07-20T00:22:35+0000
+/project/heatzypy/, heatzypy, 0.1.4.1, Provides asynchronous authentication and access to Heatzy module, 2020-05-01T11:34:09+0000
+/project/meterelf/, meterelf, 0.1.0, Meter Elf -- Meter reading util, 2019-01-20T13:54:50+0000
+/project/enerpi/, enerpi, 0.9.7, AC Current Meter for Raspberry PI with GPIOZERO and MCP3008, 2017-05-19T17:03:42+0000
+/project/pyhealthbox/, pyhealthbox, 0.0.4, Python Client to interact with the Renson Healthbox 3.0 Ventilation system, 2020-01-20T22:20:14+0000
+/project/torvy-hass/, torvy-hass, 0.1, Open-source home automation platform running on Python 3., 2016-10-11T14:34:43+0000
+/project/copreus/, Copreus, 0.4.0, This library provides a framework to write device drivers for the raspberry pi that are connected to MQTT., 2019-12-27T23:38:47+0000
+/project/bluechips/, BlueChips, 1.0.4, BlueChips - finances for people with shared expenses, 2011-11-07T19:51:58+0000
+/project/clewareadc/, clewareADC, 0.2, Python module to read values from Cleware USB-ADC 2, 2018-06-07T08:06:34+0000
+/project/pybinarymoip/, pybinarymoip, 0.0.8, Python library for Binary Media over IP (MOIP), used for Home Assistant, 2020-05-31T04:18:37+0000
+/project/eebrightbox/, eebrightbox, 0.0.6, Connector for EE BrightBox routers., 2020-10-07T22:04:20+0000
+/project/rpi-gpio2/, RPi.GPIO2, 0.3.0a3, Compatibility layer between RPi.GPIO syntax and libgpiod semantics, 2020-06-20T05:00:35+0000
+/project/pysml/, pysml, 0.0.5, Library for EDL21 smart meters using Smart Message Language (SML), 2021-04-08T12:23:12+0000
+/project/mccdaq-linux/, mccdaq_linux, 1.4.8, Python drivers for Measurement Computing devices (mccdaq.com) on linux, 2016-03-16T11:34:45+0000
+/project/pykevo/, pyKevo, 1.0.0, A simple Python project for people with Kevo smartlocks., 2016-05-15T04:24:46+0000
+/project/cc1101/, cc1101, 2.7.3, Python Library & Command Line Tool to Transmit RF Signals via C1101 Transceivers, 2021-04-20T21:00:03+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/tingbot-rpio/, tingbot-RPIO, 0.11, Advanced GPIO for the Raspberry Pi. Extends RPi.GPIO with PWM, GPIO interrups, TCP socket interrupts, command line tools and more, 2016-06-09T17:22:21+0000
+/project/rainbarrel/, rainbarrel, 0.0.2, Rainbarrel receives webhook POSTs from a Rainbow Eagle smart meter monitoring unit.
+The data ireceived is provided to plugins or external programs for data logging and control., 2015-11-21T19:21:52+0000
+/project/hautomation-x10/, hautomation_x10, 0.11.1, Mochad wrapper to help issuing X10 commands, 2014-08-28T15:26:42+0000
+/project/cora/, cora, 0.0.1, Next generation, private virtual assistant, 2019-06-25T10:46:40+0000
+/project/lino-book/, lino-book, 20.1.1, Lino documentation and demo projects, 2020-01-17T02:20:18+0000
+/project/kayleevc/, KayleeVC, 0.1.1, Somewhat fancy voice command recognition software, 2016-05-01T02:07:16+0000
+/project/superhelper/, SuperHelper, 1.1.2, A collection of Python CLI to make life easier for terminal geeks!, 2021-04-25T03:15:50+0000
+/project/tuyaface/, tuyaface, 1.4.0, Python library for local communication with Tuya devices., 2020-06-10T23:00:37+0000
+/project/python-elmoclient/, python-elmoclient, 0.0.3, Python library for Elmo control units, 2021-03-12T13:35:26+0000
+/project/pytfiac/, pytfiac, 0.4, API for Tfiac AC, 2019-09-16T06:12:58+0000
+/project/pycliarr/, pycliarr, 1.0.6, Python client for radarr and sonarr, 2021-01-19T19:43:55+0000
+/project/mqspeak/, mqspeak, 0.2.1, MQTT bridge, 2016-07-10T12:45:25+0000
+/project/hap-python/, HAP-python, 3.4.1, HomeKit Accessory Protocol implementation in python, 2021-03-28T19:34:58+0000
+/project/roscraco/, roscraco, 0.5.0, A library for managing home routers (networking equipment)., 2017-02-18T06:17:17+0000
+/project/rpi-xmpp/, rpi-xmpp, 0.0.2, Send XMPP messages from RaspberryPi GPIO events, 2013-09-06T21:54:59+0000
+/project/upscrot/, upscrot, 1.1.0, Directly upload screenshots to a SSH server., 2019-09-12T07:27:04+0000
+/project/domaintypesystem/, domaintypesystem, 0.1.9, Decentralized type system, 2019-08-18T22:28:03+0000
+/project/homekit/, homekit, 0.19.0, Python code to interface HomeKit Accessories and Controllers, 2020-12-28T20:12:56+0000
+/project/ledcontroller/, ledcontroller, 1.3.0, Controller library for limitlessled/easybulb/milight Wi-Fi LEDs, 2016-03-15T19:10:58+0000
+/project/thingpin/, thingpin, 3.0.2, Raspberry Pi pin monitor that reports to AWS IoT, 2016-01-12T03:30:17+0000
+/project/alarmdecoder/, alarmdecoder, 1.13.10, Python interface for the AlarmDecoder (AD2) family of alarm devices which includes the AD2USB, AD2SERIAL and AD2PI., 2021-02-28T20:41:47+0000
+/project/pypwrctrl/, pypwrctrl, 0.2.0, Anel NET-PwrCtrl library and command line utility, 2015-06-26T12:47:37+0000
+/project/aiosysbus/, aiosysbus, 0.1.7, Provides asynchronous authentication and access to Livebox, 2020-05-01T12:55:10+0000
+/project/npi-gpio/, NPi.GPIO, 0.5.8.6, A module to control NanoPi GPIO channels, 2019-07-12T18:15:40+0000
+/project/bluezero/, bluezero, 0.6.0, Python library for Bluetooth Low Energy (BLE) on Linux, 2021-03-07T08:59:37+0000
+/project/motioneye-client/, motioneye-client, 0.3.2, motionEye client library Python Package, 2021-04-21T02:56:31+0000
+/project/radiotherm/, radiotherm, 2.1.0, client library for wifi thermostats sold by radiothermostat.com, 2021-01-19T01:59:31+0000
+/project/pyownet/, pyownet, 0.10.0.post1, Python OWFS client library (owserver protocol), 2019-01-19T14:46:21+0000
+/project/rocket-pi/, rocket-pi, 1.1, Remote open control key enabling technology (Rocket), 2020-05-28T17:34:13+0000
+/project/smokematic/, smokematic, 0.1.0, A smoking (cooking) automation system built on the Beaglebone Black, 2014-04-28T14:29:16+0000
+/project/watson-text-talker/, watson-text-talker, 0.8.10, Simple Text-to-Speech Interface for Raspberry Pi using IBM's Watson TTS, 2018-08-05T20:37:08+0000
+/project/airthings/, airthings, 3.2.0, Fetch sensor measurements from Airthings devices, 2020-08-30T08:44:04+0000
+/project/evohome-rf/, evohome-rf, 0.8.1, An interface for Honeywell RF (RAMSES II), as used by HVAC, CH/DHW., 2021-04-18T17:06:45+0000
+/project/pya13som/, pyA13SOM, 0.2.1, Control GPIO, I2C and SPI, 2015-06-30T08:55:30+0000
+/project/pylutron-koreth/, pylutron-koreth, 0.1.2, Python library for Lutron RadioRA 2, 2017-09-04T22:55:59+0000
+/project/zwave-js-server-python/, zwave-js-server-python, 0.24.0, Python wrapper for zwave-js-server, 2021-04-19T23:35:06+0000
+/project/twinkly-client/, twinkly-client, 0.0.2, A package to communicate with Twinkly LED strings, 2020-11-01T01:55:56+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/plugable-btaps/, plugable-btaps, 0.8.3, Open Source Library for Controlling the Plugable PS-BTAPS1 Bluetooth AC Outlet Switch, 2015-01-29T01:08:02+0000
+/project/pyseneye/, pyseneye, 0.0.1, A module for interacting with the Seneye range or aquarium and pond sensors, 2019-02-25T15:28:46+0000
+/project/pytictri/, pytictri, 2.0.4, Teleinfo tri python library, 2020-04-18T21:20:55+0000
+/project/tradetuya/, tradetuya, 1.0.2, Python interface to Tuya WiFi smart devices., 2020-02-23T00:27:54+0000
+/project/lino-weleup/, lino-weleup, 21.3.1, A Lino Welfare for the PCSW of Châtelet, 2021-03-08T17:10:29+0000
+/project/igor-iot/, igor-iot, 0.99.1, REST-like IoT server, 2019-03-04T15:44:25+0000
+/project/sisyphus-control/, sisyphus-control, 3.0, Control your Sisyphus kinetic art tables (sisyphus-industries.com), 2020-11-09T04:51:45+0000
+/project/falcon-ask/, falcon-ask, 1.1.1, Toolkit for writing Amazon Alexa skills in your Falcon app, 2018-10-10T14:18:20+0000
+/project/openwsn-coap/, openwsn-coap, 0.0.8, A CoAP Python library, 2021-02-22T08:50:40+0000
+/project/tibber/, Tibber, 0.16.0, A python3 library to communicate with Tibber, 2021-01-10T14:23:55+0000
+/project/nanoleaf/, nanoleaf, 0.4.1, Python interface for Nanoleaf Aurora., 2017-06-06T14:40:26+0000
+/project/hueber/, hueber, 0.1.1, Python API and tooling for Philips Hue., 2017-02-15T19:21:30+0000
+/project/vsure/, vsure, 1.8.1, Read and change status of verisure devices through mypages., 2021-03-31T20:10:02+0000
+/project/thetvdb-api/, thetvdb_api, 0.3.1, A Python API for theTVDB., 2014-02-10T22:13:07+0000
+/project/python-openzwave/, python-openzwave, 0.4.19, python_openzwave is a python wrapper for the openzwave c++ library., 2019-03-20T10:06:12+0000
+/project/raspend/, raspend, 2.0.4, A lightweight web service framework., 2020-02-13T21:55:07+0000
+/project/picoredis/, picoredis, 0.1.1, A very minimal Python Redis client library (not only) for MicroPython, 2017-12-13T16:24:00+0000
+/project/easyq/, easyq, 0.2.1b2, Simple and easy message queue tcp server, 2018-09-10T16:52:49+0000
+/project/iac-protocol/, iac-protocol, 0.301, An interface/protocol that provides inter-application communication and scripting., 2014-05-15T01:09:39+0000
+/project/python-tic/, python-tic, 1.1.1, Teleinfo python library, 2020-03-29T13:45:56+0000
+/project/vtjp/, vtjp, 0.1.14, Västtrafik API., 2017-02-11T13:56:53+0000
+/project/homeassistant-cli/, homeassistant-cli, 0.9.3, Command-line tool for Home Assistant., 2021-04-06T12:08:37+0000
+/project/openwrt-ubus-rpc/, openwrt-ubus-rpc, 0.0.3, OpenWrt ubus RPC API library, 2021-02-17T15:37:02+0000
+/project/hyperion-py/, hyperion-py, 0.7.4, Hyperion Ambient Lighting Python Package, 2021-04-20T04:46:25+0000
+/project/meter-reader/, meter-reader, 1.1.2, Client Library for retreiving smart meter data from an Eagle Energy Gateway, 2017-06-27T17:47:34+0000
+/project/observablelist/, ObservableList, 0.0.3, Python library for a list with an observer interface., 2016-07-22T08:12:49+0000
+/project/hautomation-restclient/, hautomation-restclient, 0.3.2, Module for sending home automation commands and device management requests to django-hautomation REST API, 2014-08-30T12:06:28+0000
+/project/ayabinterface/, AYABInterface, 0.0.9, A Python library with the interface to the AYAB shield., 2016-08-21T12:04:21+0000
+/project/raspihats/, raspihats, 2.3.0, package for controlling raspihats.com boards, 2018-01-14T17:15:06+0000
+/project/lifxtools/, lifxtools, 0.3.2, Graphical interface for controlling lifx bulbs, 2019-10-27T13:25:29+0000
+/project/pycoolmasternet/, pycoolmasternet, 0.2.0, Lightweight Python API for CoolMasterNet HVAC bridges, 2019-02-17T20:37:00+0000
+/project/sasha/, sasha, 0.1.1, UNKNOWN, 2014-10-18T16:26:02+0000
+/project/collpy/, collpy, 0.0.4, Add color highlights, load bars, progress displays and style to your python scripts and shell sessions, 2020-08-14T02:57:57+0000
+/project/probe-internet/, probe-internet, 0.1.2, Probe IP addresses and notify when connections are re-established., 2020-12-12T20:02:59+0000
+/project/pyvivint/, pyvivint, 2021.1.1, Python module to interact with VivintSky API., 2021-01-27T08:14:42+0000
+/project/asmo/, ASMO, 0.4, Attentive Self-Modifying Cognitive Architecture, 2016-03-18T04:03:46+0000
+/project/python-switchbot/, python-switchbot, 1.0.3, A Python library to control SwitchBot devices connected to SwitchBot Hub, 2021-01-04T04:30:01+0000
+/project/sfrtvctl/, sfrtvctl, 0.1.2, Remote control SFR TV Power via TCP/IP connection, 2018-01-21T11:34:01+0000
+/project/uniohomeassistant/, uniohomeassistant, 0.1.3, Open-source home automation platform running on Python 3., 2021-04-11T07:36:39+0000
+/project/minimalmodbus/, minimalmodbus, 1.0.2, Easy-to-use Modbus RTU and Modbus ASCII implementation for Python, 2019-08-11T00:36:43+0000
+/project/symbiotic/, symbiotic, 1.0.0a3, Connect your smart devices and sensors to create complex, schedulable actions., 2021-03-27T17:58:54+0000
+/project/digi-xbee/, digi-xbee, 1.4.0, Digi XBee Python library, 2021-03-18T17:52:11+0000
+/project/pywebsms/, pyWebSMS, 1.1, pyWebSMS is an graphical sms sender which supports many programmable providers., 2005-04-18T16:46:20+0000
+/project/distkv-knx/, distkv-knx, 0.9.2, A distributed no-master key-value store, 2021-02-05T08:08:38+0000
+/project/linkymeter/, linkymeter, 1.0.0, Get Enedis smart meter (linky) data from Enedis webserver, 2019-03-28T21:13:34+0000
+/project/rlapydvdid/, rlapydvdid, 1.2, Fork by rlaPHOENiX of, A pure Python implementation of the Windows API IDvdInfo2::GetDiscID method, as used by Windows Media Center to compute a 'practically unique' 64-bit CRC for metadata retrieval., 2020-08-28T21:02:16+0000
+/project/insteonplm/, insteonplm, 0.16.8, Python API for controlling Insteon PowerLinc Modems, 2020-03-15T19:58:05+0000
+/project/peak-bot/, peak-bot, 1.0.1b4, Lightweight, simple, speech-to-text-oriented bot., 2018-08-18T01:09:33+0000
+/project/opensprinklerlib/, OpenSprinklerLib, 0.1.0, OpenSprinkler Library, 2014-08-20T01:05:42+0000
+/project/vcommand/, vcommand, 0.0.2, A simple framework for building voice-controlled applications., 2019-06-17T23:01:47+0000
+/project/pyopenrpa/, pyOpenRPA, 1.2.1, First open source RPA platform for business, 2021-03-16T09:47:35+0000
+/project/alarmdealerscrape/, alarmdealerscrape, 1.0.3, scraper for alarmdealer.com, 2019-02-01T05:22:39+0000
+/project/lino-welcht/, lino-welcht, 21.3.1, A Lino Welfare for the PCSW of Châtelet, 2021-03-08T17:11:01+0000
+/project/homepluscontrol/, homepluscontrol, 0.0.5, Python-based API to interact with the Legrand Home + Control interface, 2021-03-20T19:24:29+0000
+/project/domotapimodbus/, DomotApiModbus, 0.4.0, Working with modbus devices in domot-api, 2018-11-26T15:54:38+0000
+/project/pyphihue/, pyphihue, 0.2.5, A library to interface with Philips Hue, 2017-11-14T20:31:01+0000
+/project/eakon/, eakon, 0.0.5, A simple library to control (japanese) air-conditioners, 2021-01-13T13:17:38+0000
+/project/appdaemontestframework/, appdaemontestframework, 3.0.5, Clean, human-readable tests for Appdaemon, 2020-03-18T13:39:49+0000
+/project/insteon-hub/, insteon-hub, 0.7.2, A python package that interacts with the Insteon Hub Cloud API, 2016-12-19T15:19:03+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/insteonplm/, insteonplm, 0.16.8, Python API for controlling Insteon PowerLinc Modems, 2020-03-15T19:58:05+0000
+/project/ngcp-xbee/, ngcp-xbee, 1.3, Digi XBee Python library, compatible with Python 2, 2019-02-01T23:43:05+0000
+/project/rpi-greenhouse/, rpi-greenhouse, 0.4.1, Simple interface to Raspberry Pi Plantpot Greenhouse add-on board, 2015-07-02T14:18:09+0000
+/project/pyaehw4a1/, pyaehw4a1, 0.3.9, Python interface for Hisense AEH-W4A1 module, 2020-07-05T21:10:36+0000
+/project/pytrafik/, pytrafik, 0.2, PyTrafik, 2016-11-24T20:05:10+0000
+/project/facebookwebbot/, FacebookWebBot, 1.1.0, A python library to automatize facebook without the official API, 2017-04-16T00:26:01+0000
+/project/dam-sync/, dam-sync, 0.0.3, Synchronisation CLI tool for your digital assets, 2020-08-12T16:52:48+0000
+/project/joeflow/, joeflow, 1.0.5, The lean workflow automation framework for machines with heart, 2021-04-08T10:16:09+0000
+/project/milight/, milight, 0.6, Controller for milight/limitlessled Wi-Fi LEDs, 2015-03-20T01:41:34+0000
+/project/firstalexaskills/, FirstAlexaSkills, 0.2.0, A package for learning first steps with Alexa skills, 2018-07-20T00:22:35+0000
+/project/heatzypy/, heatzypy, 0.1.4.1, Provides asynchronous authentication and access to Heatzy module, 2020-05-01T11:34:09+0000
+/project/peak-bot/, peak-bot, 1.0.1b4, Lightweight, simple, speech-to-text-oriented bot., 2018-08-18T01:09:33+0000
+/project/opensprinklerlib/, OpenSprinklerLib, 0.1.0, OpenSprinkler Library, 2014-08-20T01:05:42+0000
+/project/vcommand/, vcommand, 0.0.2, A simple framework for building voice-controlled applications., 2019-06-17T23:01:47+0000
+/project/pyopenrpa/, pyOpenRPA, 1.2.1, First open source RPA platform for business, 2021-03-16T09:47:35+0000
+/project/meterelf/, meterelf, 0.1.0, Meter Elf -- Meter reading util, 2019-01-20T13:54:50+0000
+/project/enerpi/, enerpi, 0.9.7, AC Current Meter for Raspberry PI with GPIOZERO and MCP3008, 2017-05-19T17:03:42+0000
+/project/pyhealthbox/, pyhealthbox, 0.0.4, Python Client to interact with the Renson Healthbox 3.0 Ventilation system, 2020-01-20T22:20:14+0000
+/project/torvy-hass/, torvy-hass, 0.1, Open-source home automation platform running on Python 3., 2016-10-11T14:34:43+0000
+/project/copreus/, Copreus, 0.4.0, This library provides a framework to write device drivers for the raspberry pi that are connected to MQTT., 2019-12-27T23:38:47+0000
+/project/bluechips/, BlueChips, 1.0.4, BlueChips - finances for people with shared expenses, 2011-11-07T19:51:58+0000
+/project/clewareadc/, clewareADC, 0.2, Python module to read values from Cleware USB-ADC 2, 2018-06-07T08:06:34+0000
+/project/pybinarymoip/, pybinarymoip, 0.0.8, Python library for Binary Media over IP (MOIP), used for Home Assistant, 2020-05-31T04:18:37+0000
+/project/eebrightbox/, eebrightbox, 0.0.6, Connector for EE BrightBox routers., 2020-10-07T22:04:20+0000
+/project/rpi-gpio2/, RPi.GPIO2, 0.3.0a3, Compatibility layer between RPi.GPIO syntax and libgpiod semantics, 2020-06-20T05:00:35+0000
+/project/pysml/, pysml, 0.0.5, Library for EDL21 smart meters using Smart Message Language (SML), 2021-04-08T12:23:12+0000
+/project/mccdaq-linux/, mccdaq_linux, 1.4.8, Python drivers for Measurement Computing devices (mccdaq.com) on linux, 2016-03-16T11:34:45+0000
+/project/pykevo/, pyKevo, 1.0.0, A simple Python project for people with Kevo smartlocks., 2016-05-15T04:24:46+0000
+/project/wirelesstagpy/, wirelesstagpy, 0.4.1, Simple python wrapper over wirelesstags REST API, 2020-07-30T07:10:37+0000
+/project/distkv-inv/, distkv-inv, 0.21.4, Inventory management for DistKV, 2021-03-19T20:29:11+0000
+/project/rpiscratchio/, RpiScratchIO, 0.1.7, Easy expansion of Raspberry Pi I/O within Scratch, 2014-04-23T06:58:42+0000
+/project/lifesospy-mqtt/, lifesospy-mqtt, 0.11.6, MQTT client to report state of LifeSOS security system and devices., 2020-12-27T02:16:16+0000
+/project/alarmdealerscrape/, alarmdealerscrape, 1.0.3, scraper for alarmdealer.com, 2019-02-01T05:22:39+0000
+/project/lino-welcht/, lino-welcht, 21.3.1, A Lino Welfare for the PCSW of Châtelet, 2021-03-08T17:11:01+0000
+/project/homepluscontrol/, homepluscontrol, 0.0.5, Python-based API to interact with the Legrand Home + Control interface, 2021-03-20T19:24:29+0000
+/project/domotapimodbus/, DomotApiModbus, 0.4.0, Working with modbus devices in domot-api, 2018-11-26T15:54:38+0000
+/project/pyphihue/, pyphihue, 0.2.5, A library to interface with Philips Hue, 2017-11-14T20:31:01+0000
+/project/eakon/, eakon, 0.0.5, A simple library to control (japanese) air-conditioners, 2021-01-13T13:17:38+0000
+/project/appdaemontestframework/, appdaemontestframework, 3.0.5, Clean, human-readable tests for Appdaemon, 2020-03-18T13:39:49+0000
+/project/insteon-hub/, insteon-hub, 0.7.2, A python package that interacts with the Insteon Hub Cloud API, 2016-12-19T15:19:03+0000
+/project/noolite/, noolite, 1.4.0, Class for NooLite USB stick, 2016-03-31T17:25:37+0000
+/project/pymusiccast/, pymusiccast, 0.1.6, This library brings support for         Yamaha MusicCast devices to Home Assistant, 2017-12-11T19:34:15+0000
+/project/lino-welfare/, lino-welfare, 21.3.1, A Lino plugin library for Belgian PCSWs, 2021-03-08T17:10:22+0000
+/project/sonosalarm/, sonosalarm, 0.2.0, Sane alarm player for Sonos, 2015-12-12T13:23:48+0000
+/project/abodepy/, abodepy, 1.2.1, An Abode alarm Python library running on Python 3., 2020-12-29T16:34:03+0000
+/project/pyhap-maxcube/, pyhap-maxcube, 0.5, HAP-python Accessories for e-Q3 MAX! devices., 2020-01-19T15:24:21+0000
+/project/adafruit-io/, adafruit-io, 2.5.0, Python client library for Adafruit IO (http://io.adafruit.com/)., 2020-12-21T17:23:38+0000
+/project/lino-book/, lino-book, 20.1.1, Lino documentation and demo projects, 2020-01-17T02:20:18+0000
+/project/kayleevc/, KayleeVC, 0.1.1, Somewhat fancy voice command recognition software, 2016-05-01T02:07:16+0000
+/project/superhelper/, SuperHelper, 1.1.2, A collection of Python CLI to make life easier for terminal geeks!, 2021-04-25T03:15:50+0000
+/project/tuyaface/, tuyaface, 1.4.0, Python library for local communication with Tuya devices., 2020-06-10T23:00:37+0000
+/project/radiotherm/, radiotherm, 2.1.0, client library for wifi thermostats sold by radiothermostat.com, 2021-01-19T01:59:31+0000
+/project/pyownet/, pyownet, 0.10.0.post1, Python OWFS client library (owserver protocol), 2019-01-19T14:46:21+0000
+/project/rocket-pi/, rocket-pi, 1.1, Remote open control key enabling technology (Rocket), 2020-05-28T17:34:13+0000
+/project/smokematic/, smokematic, 0.1.0, A smoking (cooking) automation system built on the Beaglebone Black, 2014-04-28T14:29:16+0000
+/project/watson-text-talker/, watson-text-talker, 0.8.10, Simple Text-to-Speech Interface for Raspberry Pi using IBM's Watson TTS, 2018-08-05T20:37:08+0000
+/project/sisyphus-control/, sisyphus-control, 3.0, Control your Sisyphus kinetic art tables (sisyphus-industries.com), 2020-11-09T04:51:45+0000
+/project/falcon-ask/, falcon-ask, 1.1.1, Toolkit for writing Amazon Alexa skills in your Falcon app, 2018-10-10T14:18:20+0000
+/project/samsungctl/, samsungctl, 0.7.1, Remote control Samsung televisions via TCP/IP connection, 2018-01-15T20:01:01+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/py-sds011/, py-sds011, 0.9, Python interface to the SDS011 air quality sensor., 2019-11-26T23:51:50+0000
+/project/kaamiki/, kaamiki, 0.0.0, Kaamiki is a simple machine learning framework for obvious tasks., 2020-10-31T18:40:55+0000
+/project/samsungtvlegacy/, samsungTVlegacy, 0.1.1, Remote control Samsung televisions via TCP/IP connection, 2020-10-19T20:43:23+0000
+/project/pi-touch-gui/, pi-touch-gui, 0.3.8, A graphic UI optimized for touch screens, 2021-03-04T20:25:45+0000
+/project/matrixdriver/, matrixdriver, 0.9.0, Driver for the 8x8 RPI-RGB-LED-Matrix based on the 74HC595 chip., 2017-09-10T12:26:39+0000
+/project/irduino/, irduino, 0.0.1, An XBMC IR Remote Control protocol using Arduino, 2012-08-11T18:26:19+0000
+/project/aiopioneer/, aiopioneer, 0.1.3, Asyncio Python library for controlling a Pioneer AVR via its API, 2020-12-13T15:07:49+0000
+/project/python-awair-local-sensors/, python-awair-local-sensors, 0.2.1, asyncio client for the Awair GraphQL API, 2020-09-01T19:36:54+0000
+/project/cred-server/, cred-server, 0.3.0, Connected Reactive Electronic Devices., 2015-06-26T01:48:17+0000
+/project/chirp-modbus/, chirp-modbus, 1.0.2, A wrapper library for communicatin with Modbus based Chirp soil moisture sensor, 2020-03-18T15:03:01+0000
+/project/pya10s/, pyA10S, 0.1.2, Control GPIOs on OLinuXino-A10S., 2013-05-03T11:58:43+0000
+/project/python-awair/, python-awair, 0.2.2, asyncio client for the Awair GraphQL API, 2021-02-26T18:25:28+0000
+/project/open-garage/, open-garage, 0.1.5, A python3 library to communicate with Open Garage, 2020-07-11T06:05:18+0000
+/project/pynobo/, pynobo, 1.1.2, Nobø Hub / Nobø Energy Control Websocket Interface, 2020-05-16T23:10:04+0000
+/project/aionuki/, aionuki, 2.0.1, Asynchronous python bindings for nuki.io bridges., 2021-01-31T19:33:21+0000
+/project/pyhap/, pyhap, 0.1.1, Python implementation of HomeKit Accessory Protocol, 2017-11-30T18:10:33+0000
+/project/vtjp/, vtjp, 0.1.14, Västtrafik API., 2017-02-11T13:56:53+0000
+/project/homeassistant-cli/, homeassistant-cli, 0.9.3, Command-line tool for Home Assistant., 2021-04-06T12:08:37+0000
+/project/openwrt-ubus-rpc/, openwrt-ubus-rpc, 0.0.3, OpenWrt ubus RPC API library, 2021-02-17T15:37:02+0000
+/project/hyperion-py/, hyperion-py, 0.7.4, Hyperion Ambient Lighting Python Package, 2021-04-20T04:46:25+0000
+/project/omnikdataloggerproxy/, omnikdataloggerproxy, 1.2.6, Omnik Data Logger Proxy, 2021-02-10T21:36:38+0000
+/project/pya13/, pyA13, 0.2.2, Control GPIO, I2C and SPI, 2015-06-30T08:54:29+0000
+/project/yamaha-av/, yamaha-av, 0.10.0, Control Yamaha Receivers over the network, 2020-01-10T22:01:35+0000
+/project/aiopynoon/, aiopynoon, 0.0.2, Async Python library for Noon Home, 2020-06-15T00:33:06+0000
+/project/raspi-door/, raspi_door, 0.7.1, Raspberry Pi Smart-ish Door, 2016-05-28T22:37:59+0000
+/project/piwwwaterflow/, piwwwaterflow, 0.0.5, Raspberry Pi Waterflow Web interface, 2021-01-23T15:49:34+0000
+/project/meter-reader/, meter-reader, 1.1.2, Client Library for retreiving smart meter data from an Eagle Energy Gateway, 2017-06-27T17:47:34+0000
+/project/observablelist/, ObservableList, 0.0.3, Python library for a list with an observer interface., 2016-07-22T08:12:49+0000
+/project/hautomation-restclient/, hautomation-restclient, 0.3.2, Module for sending home automation commands and device management requests to django-hautomation REST API, 2014-08-30T12:06:28+0000
+/project/ayabinterface/, AYABInterface, 0.0.9, A Python library with the interface to the AYAB shield., 2016-08-21T12:04:21+0000
+/project/pymotiva/, pymotiva, 0.1.1, Python library for Emotiva XMC-1, 2020-05-03T08:31:24+0000
+/project/elmax/, elmax, 0.1.1, Python client for the Elmax CLoud, 2021-02-28T22:37:02+0000
+/project/homie/, homie, 0.4.1, Implementation of the Homie IoT convention, 2018-05-29T15:34:06+0000
+/project/pyhelialux/, pyHelialux, 0.1.1, A library to communicate with with Juwel's HeliaLux Controller, 2020-12-30T22:00:41+0000
+/project/raspihats/, raspihats, 2.3.0, package for controlling raspihats.com boards, 2018-01-14T17:15:06+0000
+/project/lifxtools/, lifxtools, 0.3.2, Graphical interface for controlling lifx bulbs, 2019-10-27T13:25:29+0000
+/project/pycoolmasternet/, pycoolmasternet, 0.2.0, Lightweight Python API for CoolMasterNet HVAC bridges, 2019-02-17T20:37:00+0000
+/project/sasha/, sasha, 0.1.1, UNKNOWN, 2014-10-18T16:26:02+0000
+/project/collpy/, collpy, 0.0.4, Add color highlights, load bars, progress displays and style to your python scripts and shell sessions, 2020-08-14T02:57:57+0000
+/project/probe-internet/, probe-internet, 0.1.2, Probe IP addresses and notify when connections are re-established., 2020-12-12T20:02:59+0000
+/project/alcathous/, Alcathous, 0.4.0, This software subscribes to mqtt-topics that contain raw sensor data and publishes average values for configurable time spans., 2020-04-23T21:14:13+0000
+/project/python-openzwave-mqtt/, python-openzwave-mqtt, 1.4.0, Converts MQTT messages from qt-openzwave into Python objects and events, 2020-12-01T21:06:43+0000
+/project/pololu-motors/, pololu-motors, 0.2.2, Pololu motor driver APIs., 2015-03-01T04:38:10+0000
+/project/robolytix/, robolytix, 0.2.1, Robolytix is the key online analytic and monitoring tool for Business / Robotic Process Automation., 2020-05-06T12:42:20+0000
+/project/automabot/, automabot, 0.3.2, Automabot bot for Discord., 2017-06-08T11:24:00+0000
+/project/sysbus/, sysbus, 1.0.9, Control by script your Livebox 2,3,4, 2021-04-17T18:58:10+0000
+/project/cc1101/, cc1101, 2.7.3, Python Library & Command Line Tool to Transmit RF Signals via C1101 Transceivers, 2021-04-20T21:00:03+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/tingbot-rpio/, tingbot-RPIO, 0.11, Advanced GPIO for the Raspberry Pi. Extends RPi.GPIO with PWM, GPIO interrups, TCP socket interrupts, command line tools and more, 2016-06-09T17:22:21+0000
+/project/ck/, ck, 1.55.12, Collective Knowledge - a lightweight knowledge manager to organize, cross-link, share and reuse artifacts and workflows, 2021-04-26T08:50:20+0000

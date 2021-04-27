@@ -1,0 +1,842 @@
+/project/sphinxcontrib-globalsubs/, sphinxcontrib-globalsubs, 0.1.0, Sphinx global substitutions extension, 2019-01-18T09:19:50+0000
+/project/chios/, chios, 0.1.5, A collection of Sphinx extensions., 2019-11-07T06:23:52+0000
+/project/lsst-sphinx-bootstrap-theme/, lsst-sphinx-bootstrap-theme, 0.2.2, Sphinx theme for LSST user documentation built on Bootstrap and Astropy's theme., 2019-12-12T15:48:12+0000
+/project/sphinx-charts/, sphinx-charts, 0.0.4, Interactive charts, graphs and figures for Sphinx HTML docs., 2020-09-09T12:06:23+0000
+/project/sphinx-nervproject-theme/, sphinx-nervproject-theme, 2.0.3, A Sphinx-doc theme based on Vuepress, 2021-01-31T15:10:50+0000
+/project/cinq-auditor-vpc-flowlogs/, cinq-auditor-vpc-flowlogs, 2.1.1, VPC Flow Log auditor, 2018-11-12T22:34:25+0000
+/project/sphinx-javalink/, sphinx-javalink, 0.11.1, Link to Javadoc APIs from Sphinx documentation, 2016-01-14T07:14:00+0000
+/project/cinq-auditor-cloudtrail/, cinq-auditor-cloudtrail, 2.1.0, CloudTrail auditor, 2018-09-24T21:24:20+0000
+/project/readthedocs-sphinx-search/, readthedocs-sphinx-search, 0.1.0, Sphinx extension to enable search as you type for docs hosted on Read the Docs., 2021-02-17T21:22:39+0000
+/project/sphinxcontrib-googlemaps/, sphinxcontrib-googlemaps, 0.1.0, Sphinx "googlemaps" extension, 2012-08-30T04:01:22+0000
+/project/zenodo-client/, zenodo-client, 0.1.0, A wrapper for the Zenodo API., 2021-03-25T15:51:50+0000
+/project/sphinx-autofixture/, sphinx-autofixture, 0.2.3, Sphinx autodocumenter for pytest fixtures., 2021-01-21T11:49:11+0000
+/project/sphinxcontrib-slide/, sphinxcontrib-slide, 0.3.0, Sphinx "slide" extension, 2014-08-21T12:45:24+0000
+/project/picos-sphinx-theme/, picos-sphinx-theme, 0.0.34, A Sphinx theme for the PICOS documentation., 2021-02-09T23:07:35+0000
+/project/sphinxcontrib-towncrier/, sphinxcontrib-towncrier, 0.2.0a0, An RST directive for injecting a Towncrier-generated changelog draft containing fragments for the unreleased (next) project version, 2021-04-14T12:38:42+0000
+/project/enum-tools/, enum-tools, 0.6.4, Tools to expand Python's enum module., 2021-02-09T07:39:19+0000
+/project/pygenstub/, pygenstub, 2.0.1, Python stub file generator., 2021-02-13T12:25:53+0000
+/project/sphinx-paw/, sphinx-paw, 0.4.1, Reduce Sphinx configuration steps, 2019-11-20T00:15:21+0000
+/project/sphinxcontrib-dashdomain/, sphinxcontrib-dashdomain, 0.1.2, Sphinx "dash domain" and "builder" extension, 2016-07-23T07:15:55+0000
+/project/sphinx-hoverxref/, sphinx-hoverxref, 0.5b1, Sphinx extension to embed content in a tooltip on xref hover, 2020-06-30T11:02:06+0000
+/project/sphinxcadquery/, sphinxcadquery, 1.3.2, An extension to visualize CadQuery 3D parts in your Sphinx documentation, 2020-08-05T00:14:35+0000
+/project/atelier/, atelier, 1.1.30, A collection of tools for software artists, 2021-04-24T17:16:23+0000
+/project/sphinx-material-saltstack/, sphinx-material-saltstack, 1.0.5, Material sphinx theme for SaltStack documentation, 2020-08-04T15:55:44+0000
+/project/sphinxcontrib-jupyter/, sphinxcontrib-jupyter, 0.5.10, Sphinx "Jupyter" extension: Convert your RST files into executable Jupyter notebooks., 2020-06-18T03:31:10+0000
+/project/sphinxcontrib-sphinx-rest-api-doc/, sphinxcontrib-sphinx-rest-api-doc, 0.0.43.dev6, a tools for sphinx gen doc from rest api, 2018-11-18T15:40:35+0000
+/project/buildthedocs/, buildthedocs, 1.0.3, A Sphinx documentation building tool on steroids., 2015-08-26T10:46:53+0000
+/project/sphinxcontrib-gravatar/, sphinxcontrib-gravatar, 0.1.2, Sphinx "gravatar" extension, 2015-01-01T15:45:19+0000
+/project/sphinxnotes-isso/, sphinxnotes-isso, 1.0, Sphinx extension for embeding Isso comments in documents, 2021-04-21T11:03:02+0000
+/project/sphinx-jsondomain/, sphinx-jsondomain, 0.0.3, Describe JSON document structures in sphinx, 2017-08-10T17:45:01+0000
+/project/sphinxcontrib-xbr/, sphinxcontrib-xbr, 0.1.0, XBR IDL extension for Sphinx, 2018-04-15T08:22:01+0000
+/project/sphinxcontrib-imagehelper/, sphinxcontrib-imagehelper, 1.1.1, Sphinx extension helper about images, 2015-12-11T14:03:41+0000
+/project/sphinxcontrib-details-directive/, sphinxcontrib-details-directive, 0.1.0, "details" directive for Sphinx, 2019-09-22T13:24:25+0000
+/project/probator-auth-saml/, probator-auth-saml, 1.2.2, SAML user authentication, 2020-04-01T17:31:01+0000
+/project/sphinx-github-changelog/, sphinx-github-changelog, 1.0.8, Build a sphinx changelog from GitHub Releases, 2021-04-17T11:49:55+0000
+/project/sphinxcontrib-drawio/, sphinxcontrib-drawio, 0.0.13, Sphinx Extension to include draw.io files, 2021-01-25T14:05:12+0000
+/project/sphinx-patchqueue/, sphinx-patchqueue, 1.0.4, Sphinx extension for embedding sequences of file alterations, 2017-10-23T14:01:51+0000
+/project/sphinx-panels/, sphinx-panels, 0.5.2, A sphinx extension for creating panels in a grid layout., 2020-10-12T19:02:03+0000
+/project/sortorder/, sortorder, 2.0.6, Enable Sphinx to generate HTML5 valid files, 2015-07-04T03:54:18+0000
+/project/ipypublish/, ipypublish, 0.10.12, A workflow for creating and editing publication ready scientific reports, from one or more Jupyter Notebooks, 2020-08-06T16:53:25+0000
+/project/default-values/, default-values, 0.4.3, Sphinx extension to show default values in documentation., 2021-03-09T18:58:08+0000
+/project/sphinxcontrib-seqdiag/, sphinxcontrib-seqdiag, 2.0.0, Sphinx "seqdiag" extension, 2019-12-08T11:23:47+0000
+/project/sphinxawesome-codelinter/, sphinxawesome-codelinter, 1.0.5, A Sphinx extension to pass reStructuredText code blocks to external tools., 2020-06-12T05:50:32+0000
+/project/insegel/, insegel, 1.1.0, Clean, minimalist Sphinx theme for deploying on ReadTheDocs, 2019-04-29T20:39:56+0000
+/project/sphinx-ansible-theme/, sphinx-ansible-theme, 0.3.2, Ansible Sphinx Theme, 2020-07-23T19:56:38+0000
+/project/sphinxcontrib-programoutput/, sphinxcontrib-programoutput, 0.17, Sphinx extension to include program output, 2021-03-31T15:00:01+0000
+/project/sphinx-rst-builder/, sphinx-rst-builder, 0.0.3, Sphinx reStructuredText builder, 2020-01-18T15:17:05+0000
+/project/sphinxcontrib-markdown/, sphinxcontrib-markdown, 0.1.0, Yet another markdown processor for Sphinx, 2015-12-30T09:43:04+0000
+/project/sfchat/, SFChat, 0.13.0, Secure Free Chat (SFChat) is long pulling REST chat based on Django and Mongodb., 2016-12-18T18:49:34+0000
+/project/cinq-auditor-domain-hijacking/, cinq-auditor-domain-hijacking, 2.1.1, Domain Hijacking auditor, 2018-11-16T00:23:17+0000
+/project/sphinx-a4doc/, sphinx-a4doc, 1.2.4, Sphinx domain and autodoc for Antlr4 grammars, 2020-12-14T16:54:18+0000
+/project/sphinxjp-themes-revealjs/, sphinxjp.themes.revealjs, 0.3.0, A sphinx theme for generate reveal.js presentation. #sphinxjp, 2015-05-06T13:35:37+0000
+/project/sphinx-affiliates/, sphinx-affiliates, 0.2.1, Tools for integrating affiliated Sphinx sites, 2020-09-09T13:41:23+0000
+/project/sphinx-tosca/, sphinx-tosca, 0.1.0, Sphinx ducumentation plugin for DICE TOSCA library, 2017-05-16T10:38:41+0000
+/project/wurfapi/, wurfapi, 8.0.0, C++ Documentation generator., 2021-02-11T08:09:21+0000
+/project/t3sphinxthemertd/, t3SphinxThemeRtd, 3.6.15, Docs.TYPO3.Org theme for Sphinx, starting 2015., 2018-07-04T14:11:59+0000
+/project/sphinxcontrib-lassodomain/, sphinxcontrib-lassodomain, 0.4, Lasso domain for Sphinx, 2016-09-08T15:49:55+0000
+/project/probator-auditor-required-tags/, probator-auditor-required-tags, 1.2.0, Required Tags auditor, 2019-03-28T00:37:33+0000
+/project/sphinx-business-theme/, sphinx-business-theme, 0.1.0, A theme for Sphinx to generate PDF documentation, 2020-03-27T00:06:34+0000
+/project/sphinx-external-toc/, sphinx-external-toc, 0.1.0a8, A sphinx extension that allows the site-map to be defined in a single YAML file., 2021-04-18T20:31:16+0000
+/project/sphinxcontrib-kissapi/, sphinxcontrib-kissapi, 1.0.3, Simple and flexible python API documentation generation plugin for Sphinx, 2020-12-12T06:21:28+0000
+/project/niftools-sphinx-theme/, niftools-sphinx-theme, 0.3.3, A sphinx theme created to support niftools documentation, 2019-10-04T07:00:34+0000
+/project/sphinxcontrib-paradoxy/, sphinxcontrib-paradoxy, 0.3.1, Adds links to Doxygen objects within Sphinx, 2017-12-21T22:02:33+0000
+/project/sphinxcontrib-restbuilder/, sphinxcontrib-restbuilder, 0.3, Sphinx extension to output reST files., 2021-02-28T14:37:44+0000
+/project/probator-auditor-cloudtrail/, probator-auditor-cloudtrail, 1.1.1, CloudTrail auditor, 2019-04-18T00:19:03+0000
+/project/hudsonthames-sphinx-theme/, hudsonthames-sphinx-theme, 0.1.3, Hudson and Thames theme for Sphinx, 2021-04-22T21:01:29+0000
+/project/sphinx-library/, sphinx-library, 1.1.2, Typography-centric Sphinx theme that reads like a good book., 2020-10-20T23:34:45+0000
+/project/sphinx-navigation-icons/, sphinx-navigation-icons, 0.1.1, Add image/font responsive icons to your Sphinx sidebar toctree, 2021-03-18T17:05:12+0000
+/project/f5-sphinx-theme/, f5-sphinx-theme, 2.0.7, Sphinx theme for F5 Networks, 2021-01-06T05:36:53+0000
+/project/sphinx-alice-theme/, sphinx-alice-theme, 0.1.0, Provides the Alice theme for Sphinx projects., 2020-02-29T21:11:27+0000
+/project/sphinxtheme-plone/, sphinxtheme.plone, 0.5.8, Collection of Sphinx Themes for Plone Documentations, 2019-10-26T11:54:09+0000
+/project/sphinx-testing/, sphinx-testing, 1.0.1, testing utility classes and functions for Sphinx extensions, 2019-04-15T14:51:55+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/sphinx-tojupyter/, sphinx-tojupyter, 0.1.1, Sphinx "Jupyter" extension to build Jupyter notebooks., 2021-02-25T01:53:37+0000
+/project/sphinxcontrib-varlinks/, sphinxcontrib-varlinks, 0.1.4, Support substitutions in Sphinx hyperlinks, 2017-12-21T22:01:31+0000
+/project/probator-auditor-domain-hijacking/, probator-auditor-domain-hijacking, 1.0.2, Domain Hijacking auditor, 2019-02-01T22:22:21+0000
+/project/sphinx-seeta-theme/, sphinx-seeta-theme, 0.0.6, Sphinx theme for Seeta Documentation, 2021-01-27T10:22:12+0000
+/project/shis/, shis, 0.1, Simple HTTP Image Server, 2021-01-06T11:17:21+0000
+/project/sphinxcontrib-getstart-sphinx/, sphinxcontrib-getstart-sphinx, 1.0.0, Sphinx extensions for "Getting Started with Sphinx 2nd Edition", 2018-02-15T03:10:51+0000
+/project/lupulo/, lupulo, 0.3, Framework to build realtime web pages dedicated to monitor                    robots or IoT devices., 2016-01-20T11:39:29+0000
+/project/topos-theme/, topos-theme, 0.0.14, Topos theme for sphinx, 2019-03-14T20:16:41+0000
+/project/cinq-auditor-iam/, cinq-auditor-iam, 2.1.0, IAM Policy and Role auditor, 2018-09-24T21:22:29+0000
+/project/sphinxcontrib-nwdiag/, sphinxcontrib-nwdiag, 2.0.0, Sphinx "nwdiag" extension, 2019-12-10T17:02:12+0000
+/project/probator-auditor-iam/, probator-auditor-iam, 1.0.2, IAM Policy and Role auditor, 2019-02-01T22:17:07+0000
+/project/restructuredbootstrap/, restructuredBootstrap, 1.0.0, Twitter Bootstrap 3 directives for use with Sphinx., 2017-12-21T00:18:59+0000
+/project/thermopyle/, ThermoPyle, 0.7.2.1, Creation of Thermodynamic Surfaces using CoolProp, 2019-03-06T16:14:55+0000
+/project/sphinxcontrib-nicovideo/, sphinxcontrib-nicovideo, 0.1.1, Sphinx "nicovideo" extension, 2016-12-02T13:00:48+0000
+/project/pysseract/, pysseract, 1.3.1, Python binding to Tesseract API, 2020-01-07T05:07:33+0000
+/project/sphinx-ext-substitution/, sphinx-ext-substitution, 0.1.2, Sphinx extension for substituting variables, 2021-01-26T20:04:43+0000
+/project/pygments-markdown-lexer/, pygments-markdown-lexer, 0.1.0.dev39, Pygments Markdown Lexer – A Markdown lexer for Pygments to highlight Markdown code snippets., 2015-07-06T11:08:08+0000
+/project/etgen/, etgen, 1.1.1, Use ElementTree to generate html, rst and other markup, 2020-07-21T19:52:42+0000
+/project/sphinxmark/, sphinxmark, 0.2.1, A Sphinx extension that enables watermarks for HTML output., 2021-03-02T02:56:51+0000
+/project/unicode-ids/, unicode_ids, 2.0.5, Enable Sphinx to generate non-ASCII identifiers, 2015-07-04T03:47:27+0000
+/project/sphinxcontrib-argdoc/, sphinxcontrib-argdoc, 0.1.3, Sphinx, 2015-07-08T20:45:26+0000
+/project/t3tablerows/, t3tablerows, 0.1.0, Implement Sphinx transformation of "table-row" containers, 2014-12-10T11:54:46+0000
+/project/sphinx-vcs-changelog/, sphinx-vcs-changelog, 0.1.1, Project Git Changelog for Sphinx, 2019-09-27T09:09:11+0000
+/project/skuidsphinxtheme/, SkuidSphinxTheme, 1.0.23, Sphinx Theme for Skuid, 2019-10-07T21:18:59+0000
+/project/sphinxcontrib-htmlhelp/, sphinxcontrib-htmlhelp, 1.0.3, sphinxcontrib-htmlhelp is a sphinx extension which renders HTML help files, 2020-02-21T17:10:00+0000
+/project/sphinxcontrib-imgur/, sphinxcontrib-imgur, 2.0.1, Sphinx extension that embeds Imgur images, albums, and their metadata in documents., 2016-10-16T05:44:36+0000
+/project/sphinxcontrib-cacoo/, sphinxcontrib-cacoo, 2.0.0, Sphinx "cacoo" extension; embed diagram from cacoo, 2018-04-12T14:30:50+0000
+/project/sphinxcontrib-yaml/, sphinxcontrib-yaml, 1.0.0, Obsolete - use sphinxcontrib-autoyaml instead, 2017-03-19T23:19:30+0000
+/project/kirlent-sphinx/, kirlent-sphinx, 0.3.0, Sphinx extension for slides and extended tables., 2019-03-28T11:05:10+0000
+/project/sphinxcontrib-astah/, sphinxcontrib-astah, 1.0.0, Sphinx "astah" extension; embed diagram by using astah, 2015-06-26T08:22:50+0000
+/project/sphobjinv/, sphobjinv, 2.1, Sphinx objects.inv Inspection/Manipulation Tool, 2021-04-14T16:26:04+0000
+/project/sphinxjp-themes-sphinxjp/, sphinxjp.themes.sphinxjp, 1.0.2, A sphinx theme for sphinx-users.jp site., 2019-06-01T14:10:54+0000
+/project/gxsphinx/, GxSphinx, 1.0.0, Python documentation generator, 2020-08-04T03:07:53+0000
+/project/cinq-auth-local/, cinq-auth-local, 2.1.0, Local DB based user authentication, 2018-09-24T21:10:10+0000
+/project/sphinx-modern-theme-modified/, sphinx_modern_theme_modified, 1.0.5, A modern sphinx theme using Bootstrap, 2019-02-08T18:12:06+0000
+/project/openkongqi/, openkongqi, 0.2.6, Outdoor air quality data, 2021-03-18T08:01:05+0000
+/project/sphinx-reredirects/, sphinx-reredirects, 0.0.0, Handles redirects for moved pages in Sphinx documentation projects, 2020-09-09T11:03:04+0000
+/project/pylons-sphinx-themes/, pylons-sphinx-themes, 1.0.13, Sphinx themes for Pylons Project documentation., 2020-11-30T11:28:25+0000
+/project/kpruss/, kpruss, 0.0.3, The Sphinx theme for my website, 2021-04-17T06:21:00+0000
+/project/sphinx-graphml/, sphinx-graphml, 0.1b5, GraphML charts embedding extension for Sphinx, 2019-04-29T00:49:28+0000
+/project/sphinx-fasvg/, sphinx-fasvg, 0.1.4, Use font-awesome icons in SVG form, 2021-01-30T23:53:40+0000
+/project/sphinxext-opengraph/, sphinxext-opengraph, 0.4.1, Sphinx Extension to enable OGP support, 2021-01-30T04:40:23+0000
+/project/sphinx-sagecell-ext/, sphinx-sagecell-ext, 0.1rc4, The Sphinx extension embedding a Sage cell into a webpage, 2015-12-04T13:11:46+0000
+/project/sphinxcontrib-imageembed/, sphinxcontrib-imageembed, 0.2.1, Embed images directly into generated html docs., 2018-10-12T13:26:09+0000
+/project/sphinxcontrib-commandoutput/, sphinxcontrib-commandoutput, 0.17.11, Sphinx extension to include command output, 2020-03-10T15:55:57+0000
+/project/sphinx-removed-in/, sphinx-removed-in, 0.2.1, versionremoved and removed-in directives for Sphinx, 2019-11-09T21:37:01+0000
+/project/sphinx-airflow-theme/, sphinx-airflow-theme, 0.0.2, Airflow theme for Sphinx, 2020-12-09T16:09:26+0000
+/project/sphinxcontrib-email/, sphinxcontrib-email, 0.3.5, Sphinx email obfuscation extension, 2021-01-18T17:50:55+0000
+/project/sphinx-wagtail-theme/, sphinx-wagtail-theme, 5.0.3, Sphinx Wagtail theme, 2021-04-19T21:52:48+0000
+/project/sphinxcontrib-prettyspecialmethods/, sphinxcontrib-prettyspecialmethods, 0.1.0, Shows special methods as the python syntax that invokes them, 2020-06-21T11:55:56+0000
+/project/sphinxcontrib-disqus/, sphinxcontrib-disqus, 1.1.0, Sphinx extension that embeds Disqus comments in documents., 2016-08-04T08:32:13+0000
+/project/sphinx-json-schema-formatter/, sphinx-json-schema-formatter, 0.3, JSON Schema renderer for Sphinx, 2021-03-14T00:31:36+0000
+/project/cinq-collector-dns/, cinq-collector-dns, 2.1.3, DNS Collector, 2018-11-21T22:00:00+0000
+/project/sphinxcontrib-commonmark/, sphinxcontrib-commonmark, 0.1.0, Yet another commonmark processor for Sphinx, 2019-04-21T08:42:22+0000
+/project/jupinx/, jupinx, 0.2.3, Jupinx extension: Convert your RST files into into different formats like notebook, pdf, html., 2020-05-10T11:49:51+0000
+/project/cinq-auditor-required-tags/, cinq-auditor-required-tags, 2.2.7, Required Tags auditor, 2018-11-01T21:10:29+0000
+/project/sphinx-pangeo-theme/, sphinx-pangeo-theme, 0.2, Pangeo theme for Sphinx, 2020-02-15T22:17:49+0000
+/project/sphinxcontrib-jsonschema/, sphinxcontrib-jsonschema, 0.9.3, Sphinx extension to define data structure using JSON Schema, 2017-02-25T09:18:04+0000
+/project/astutus/, astutus, 0.1.9.202102011217, Use the Sphinx RTD Theme to create a beautiful Flask application., 2021-02-01T19:17:16+0000
+/project/sphinxcontrib-svgbob/, sphinxcontrib-svgbob, 0.1.1, A Sphinx extension to convert ASCII diagrams to SVGs with Svgbob., 2021-04-14T16:49:41+0000
+/project/sphinxcontrib-openstreetmap/, sphinxcontrib-openstreetmap, 0.4.0, Sphinx "OpenStreetMap" extension, 2016-04-01T05:20:09+0000
+/project/sphinx-rtd-theme-ext-color-contrast/, sphinx-rtd-theme-ext-color-contrast, 0.3.0, sphinx_rtd_theme extension to enhance color contrast, 2021-04-15T17:21:43+0000
+/project/sphinx-heigvd-theme/, sphinx-heigvd-theme, 0.5.2, A Sphinx-doc theme based on sphinx press theme, 2019-08-15T11:44:31+0000
+/project/sphinxcontrib-documentedlist/, sphinxcontrib-documentedlist, 0.6, Sphinx DocumentedList extension, 2017-03-09T10:16:38+0000
+/project/sphinx-papyrus-theme/, sphinx-papyrus-theme, 0.0.1.dev0, A modern and responsive sphinx theme for live documentations., 2021-02-28T15:11:40+0000
+/project/sphinx-typlog-theme/, sphinx-typlog-theme, 0.8.0, A typlog Sphinx theme, 2019-10-08T01:30:05+0000
+/project/sphinx-configurator/, sphinx-configurator, 0.0.0.dev0, Manage your sphinx plugin's directive settings with ease, 2019-05-07T11:52:28+0000
+/project/sphinx-execute-code/, sphinx_execute_code, 0.2a2, Sphinx support for execution of python code from code blocks or files, 2017-08-01T06:46:20+0000
+/project/supersk-sphinx-bulma/, supersk-sphinx-bulma, 0.1.0, Simple theme for sphinx-doc using Bulma CSS, 2020-11-06T21:52:20+0000
+/project/sphinx-docxbuilder/, sphinx-docxbuilder, 2019.1.28.post1, An extension for a docx file generation with Sphinx (Fork of https://bitbucket.org/haraisao/sphinx-docxbuilder), 2019-01-28T14:02:09+0000
+/project/tyrian-sphinx-theme/, tyrian-sphinx-theme, 0.0.7, A Tyrian based Sphinx theme for Gentoo, 2020-02-23T16:38:21+0000
+/project/eccontrib-sphinxdoc/, eccontrib-sphinxdoc, 0.0.3, A sphinx extension for documenting ec based scripts., 2018-11-26T11:16:01+0000
+/project/sphinx-documatt-theme/, sphinx-documatt-theme, 0.0.5, Documatt Theme for Sphinx documentation projects, 2021-04-12T13:28:35+0000
+/project/sphinx-dust/, sphinx-dust, 1.2.4, Sphinx extension to produce warnings when a doc needs proofreading., 2018-08-31T08:52:56+0000
+/project/peng3d-sphinxext/, peng3d_sphinxext, 1.0.post1, Sphinx Extension adding Support for peng3d events, 2017-05-27T17:40:54+0000
+/project/y0-bio/, y0-bio, 0.0.1, Biological applications of y0, 2021-02-16T18:39:53+0000
+/project/sphinxnotes-snippet/, sphinxnotes-snippet, 1.0b5, Non-intrusive snippet manager for Sphinx documentation, 2021-04-20T15:55:59+0000
+/project/jaraco-packaging/, jaraco.packaging, 8.2.1, tools to supplement packaging Python releases, 2021-03-15T01:58:54+0000
+/project/sphinxcontrib-trimblank/, sphinxcontrib-trimblank, 1.0.2, A Sphinx extension which trims redundant blanks, 2019-09-07T11:35:52+0000
+/project/docs-versions-menu/, docs-versions-menu, 0.5.0rc2, A versions menu for Sphinx-based documentation, 2021-04-04T22:07:02+0000
+/project/mlx-coverity/, mlx.coverity, 0.2.2, Sphinx coverity extension from Melexis, 2019-11-28T10:15:13+0000
+/project/class-resolver/, class-resolver, 0.0.8, Lookup and instantiate classes with style., 2021-04-23T16:30:50+0000
+/project/sphinxcontrib-websupport-lean/, sphinxcontrib-websupport-lean, 2.0.0.dev20170818, Sphinx API for Web Apps, 2017-08-18T16:05:19+0000
+/project/btd-sphinx-inheritance-diagram/, btd.sphinx.inheritance-diagram, 2.3.1.post1, Embedding diagrams rendered with inheritance_diagram., 2020-01-12T16:31:34+0000
+/project/sphinx-mathjax-offline/, sphinx-mathjax-offline, 0.0.1, MathJax offline support for Sphinx, 2020-11-22T12:08:40+0000
+/project/alveolus/, alveolus, 0.1.2, Alveolus Docs,provides a very simple way, to create read the docs alike documentation for c++ projects.With the help of breathe and exhale it combines Doxygen and sphinx to enable tou to createcode documentation as well as custom documentation files, 2020-08-16T14:47:00+0000
+/project/ohnoyoudidnt/, ohnoyoudidnt, 0.1, doc8 linter for frc-docs, 2020-12-24T20:01:28+0000
+/project/sphinx-press-autodoc-theme/, sphinx-press-autodoc-theme, 0.1.0a3, A fork of Eduardo Naufel Schettino's sphinx_press_theme, with support for sphinx.ext.autodoc, 2019-03-05T08:55:45+0000
+/project/autodoc-pydantic/, autodoc-pydantic, 1.1.0, Seamlessly integrate pydantic models in your Sphinx documentation., 2021-04-24T19:11:07+0000
+/project/unittest-templates/, unittest-templates, 0.0.5, Write less unittest boilerplate., 2021-03-28T13:58:20+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/sphinx-minipres/, sphinx-minipres, 0.2.1, Sphinx extension to turn any web page into a lightweight presentation, 2020-10-29T10:37:51+0000
+/project/sphinx-enos-theme/, sphinx-enos-theme, 0.2.22, ENOS Docs theme for Sphinx, 2020-05-11T12:54:06+0000
+/project/sphinxcontrib-packages/, sphinxcontrib-packages, 1.0.1, This packages contains the Packages sphinx extension, which provides directives to display packages installed on the host machine, 2018-01-01T08:34:21+0000
+/project/t3targets/, t3targets, 0.1.0, Implement Sphinx directive "ref-targets-list", 2014-12-10T12:41:48+0000
+/project/probator-collector-dns/, probator-collector-dns, 1.0.2, DNS Collector, 2019-02-01T20:03:12+0000
+/project/py3-bp/, py3-bp, 0.0.4, Ultimate template for new Python 3 projects, 2019-09-20T05:05:48+0000
+/project/cinq-auditor-ebs/, cinq-auditor-ebs, 2.1.0, EBS Volume auditor, 2018-09-24T21:26:03+0000
+/project/sphinxcontrib-scm/, sphinxcontrib-scm, 0.1.2, Sphinx SCM interface, 2020-10-06T10:48:15+0000
+/project/domdf-sphinx-theme/, domdf-sphinx-theme, 21.1.0, Customised 'sphinx_rtd_theme' used by my Python projects., 2021-04-19T20:34:17+0000
+/project/sphinx-boogergreen-theme/, sphinx-boogergreen-theme, 0.4.3, Read the Docs theme for Sphinx, 2019-01-31T03:56:14+0000
+/project/starling-theme/, starling-theme, 0.1.4, Sphinx Theme for the StARLinG Lab., 2019-06-13T19:25:29+0000
+/project/sphinxcontrib-googlechart/, sphinxcontrib-googlechart, 0.2.1, Sphinx "googlechart" extension, 2015-04-01T02:32:50+0000
+/project/tensorly-sphinx-theme/, tensorly-sphinx-theme, 0.1.1, Bulma-based Sphinx theme from the TensorLy project., 2021-01-21T22:47:37+0000
+/project/openvas-reporting/, OpenVAS-Reporting, 1.4.3, A tool to convert OpenVAS XML into reports., 2019-04-08T14:57:15+0000
+/project/sphinxcontrib-cloudformationyaml/, sphinxcontrib-cloudformationyaml, 0.2.0, Sphinx extension to generate docs from cloudformation descriptions and comments, 2018-02-22T00:06:04+0000
+/project/sponge-docs-theme/, sponge-docs-theme, 0.5.8, Theme for Sponge documentation, 2020-12-23T23:38:05+0000
+/project/sphinxcontrib-pandoc-markdown/, sphinxcontrib-pandoc-markdown, 1.6.8, Yet another markdown processor for Sphinx, 2017-05-26T23:12:39+0000
+/project/jandd-sphinxext-ip/, jandd.sphinxext.ip, 0.4.0, IP address extension for Sphinx, 2021-01-02T06:34:38+0000
+/project/sphinx-html5-basic-theme/, sphinx_html5_basic_theme, 1.0.5, Enable Sphinx to generate HTML5 valid files, 2015-06-19T02:12:13+0000
+/project/docdata/, docdata, 0.0.3, Add structured information to the end of your python docstrings., 2021-02-28T15:50:52+0000
+/project/metapensiero-sphinx-autodoc-sa/, metapensiero.sphinx.autodoc-sa, 2.1, Autodoc extension to pretty print canned SA queries, 2019-03-31T08:25:30+0000
+/project/sphinx-versions/, sphinx-versions, 1.1.3, Sphinx extension that allows building versioned docs for self-hosting., 2019-07-18T14:13:57+0000
+/project/jinyaml/, jinyaml, 0.0.3, Plugin for sphinx to use Jinja in documents, 2019-10-18T16:39:25+0000
+/project/sphinxcontrib-httpexample/, sphinxcontrib-httpexample, 0.10.3, Adds example directive for sphinx-contrib httpdomain, 2019-05-01T06:42:14+0000
+/project/nti-sphinx-questions/, nti-sphinx-questions, 0.0.1, Question and Question List Sphinx directives, 2020-06-16T22:25:59+0000
+/project/syzygy-docs-themes/, syzygy-docs-themes, 0.1.0.dev1, Sphinx themes for the documentation of Kogia, Caperea and Stenella., 2020-07-19T10:46:44+0000
+/project/sphinxcontrib-versioning/, sphinxcontrib-versioning, 2.2.1, Sphinx extension that allows building versioned docs for self-hosting., 2016-12-10T09:45:36+0000
+/project/sphinxcontrib-googledrive/, sphinxcontrib-googledrive, 0.1.0, Sphinx "Google Drive" extension; embed images on Google Drive, 2018-10-13T14:25:13+0000
+/project/sphinx-yellowblue-theme/, sphinx-yellowblue-theme, 0.0.1.dev0, sphinx theme for yellowblue projects, 2020-07-23T22:26:06+0000
+/project/python-docs-theme-technopathy/, python-docs-theme-technopathy, 0.7.11, A responsive sphinx theme for github pages based on python-docs-theme, 2021-04-03T23:54:31+0000
+/project/sphinxcontrib-verilog-diagrams/, sphinxcontrib-verilog-diagrams, 0.1.0, Generate diagrams from Verilog in Sphinx., 2020-09-16T15:07:32+0000
+/project/docxbuilder/, docxbuilder, 1.2.0, Sphinx docx builder extension, 2020-05-15T05:45:13+0000
+/project/sphinxcontrib-spelling/, sphinxcontrib-spelling, 7.1.0, Sphinx spelling extension, 2020-11-05T15:18:23+0000
+/project/sphinx-autodoc-typehints/, sphinx-autodoc-typehints, 1.12.0, Type hints (PEP 484) support for the Sphinx autodoc extension, 2021-04-15T00:21:35+0000
+/project/cinq-collector-aws/, cinq-collector-aws, 2.1.5, AWS Collector, 2018-11-21T23:00:01+0000
+/project/sphinxcontrib-inherit/, sphinxcontrib-inherit, 0.1.0, A Sphinx extension that allows documentation to be created in a modular way., 2020-01-13T14:37:43+0000
+/project/sphinxcontrib-hdl-diagrams/, sphinxcontrib-hdl-diagrams, 0.0.post131, Generate diagrams from HDL in Sphinx., 2020-09-22T16:32:58+0000
+/project/sphinxstl/, sphinxstl, 0.1.1, An extension to visualize STL files in your Sphinx documentation, 2019-02-18T20:52:09+0000
+/project/sphinxcontrib-proof/, sphinxcontrib-proof, 1.3.0, This packages contains the Proof sphinx extension, which provides directives to typeset theorems, lemmas, proofs, etc., 2020-04-28T07:13:47+0000
+/project/trait-documenter/, trait_documenter, 1.1.0, Autodoc extention for documenting traits, 2016-11-09T13:05:11+0000
+/project/sphinx-lv2-theme/, sphinx-lv2-theme, 1.0.0, A minimal static theme for Sphinx, 2021-01-06T22:46:43+0000
+/project/sphinx-jdlinker/, sphinx-JDLinker, 1.4, A sphinx extension designed to allow you to create links to a JavaDoc website from your sphinx documentation., 2019-10-06T19:52:46+0000
+/project/sphinx-revealjs/, sphinx-revealjs, 1.1.0, Sphinx extension with theme to generate Reveal.js presentation, 2021-04-04T09:57:05+0000
+/project/sphinxcontrib-matlabdomain/, sphinxcontrib-matlabdomain, 0.11.7, Sphinx "matlabdomain" extension, 2021-02-23T21:32:16+0000
+/project/sphinx-tomyst/, sphinx-tomyst, 0.1.0a0, Sphinx "MyST" extension: Convert your RST files into MyST documents., 2020-12-22T03:42:58+0000
+/project/sphinx-autoapi/, sphinx-autoapi, 1.8.1, Sphinx API documentation generator, 2021-04-25T02:56:46+0000
+/project/mal-scraper/, mal-scraper, 0.3.0, MyAnimeList web scraper, 2017-05-02T20:42:35+0000
+/project/sphinx-modern-theme/, sphinx-modern-theme, 1.0.5, A modern sphinx theme using Bootstrap, 2016-12-03T02:29:31+0000
+/project/ydoc-theme/, ydoc-theme, 1.0, Customized Read the Docs theme for Sphinx, 2019-03-07T14:33:20+0000
+/project/sphinx-c-autodoc/, sphinx-c-autodoc, 0.4.0, A sphinx autodoc extension for c modules, 2020-12-27T18:35:06+0000
+/project/sphinx-weasyprint-builder/, sphinx-weasyprint-builder, 0.1.3, A Sphinx PDF builder using WeasyPrint, 2021-01-10T19:57:49+0000
+/project/flask-sphinx-themes/, Flask-Sphinx-Themes, 1.0.2, Sphinx themes for Flask and related projects., 2017-11-30T18:01:58+0000
+/project/mlx-json-to-mako/, mlx.json-to-mako, 0.4, Convertor for JSON database(s) to MAKO templated output, 2018-03-15T14:55:00+0000
+/project/sphinx-jinyaml/, sphinx-jinyaml, 0.0.3, Plugin for sphinx to use Jinja in documents, 2019-12-11T06:31:13+0000
+/project/sphinxcontrib-traceables0-2/, sphinxcontrib-traceables0.2, 0.2.0, Sphinx extension that adds traceability within documentation, 2020-07-12T10:36:41+0000
+/project/sphinxcontrib-drawio-html/, sphinxcontrib-drawio-html, 0.1.2, Sphinx Extension to include draw.io files using HTML5 embedding, 2019-12-22T22:21:09+0000
+/project/probator-auditor-ebs/, probator-auditor-ebs, 1.0.1, EBS Volume auditor, 2019-02-01T22:20:41+0000
+/project/sphinxcontrib-jsmath/, sphinxcontrib-jsmath, 1.0.1, A sphinx extension which renders display math in HTML via JavaScript, 2019-01-21T16:10:14+0000
+/project/sphinxjp-themes-basicstrap/, sphinxjp.themes.basicstrap, 0.5.0, A sphinx theme for Basicstrap style. Using Twitter Bootstrap. #sphinxjp, 2019-05-06T11:34:32+0000
+/project/sphinx-django-theme/, sphinx-django-theme, 0.0.1.dev0, sphinx theme for django projects, 2020-07-23T17:51:26+0000
+/project/sphinx-json-schema/, sphinx-json-schema, 0.1b6, JSON Schema renderer for Sphinx, 2019-03-31T02:06:22+0000
+/project/sphinxcontrib-apiblueprint/, sphinxcontrib-apiblueprint, 0.9.0, Sphinx extension to create API docs using API Blueprint, 2016-08-06T06:51:51+0000
+/project/sphinxcontrib-svg2pdfconverter/, sphinxcontrib-svg2pdfconverter, 1.1.1, Sphinx SVG to PDF converter extension, 2021-01-07T08:35:36+0000
+/project/sphinxcontrib-programoutput2/, sphinxcontrib-programoutput2, 2.0a1, Sphinx extension to include program output, 2021-03-11T15:57:29+0000
+/project/giit/, giit, 6.1.0, Wrapper git to automate running scripts., 2021-03-10T09:17:58+0000
+/project/sphinxcontrib-simpleversioning/, sphinxcontrib-simpleversioning, 0.0.2, Sphinx extension that adds version selection., 2019-02-14T00:48:03+0000
+/project/cinq-scheduler-sqs/, cinq-scheduler-sqs, 2.1.1, SQS Based Scheduler for Cloud Inquisitor, 2018-09-26T19:36:07+0000
+/project/sphinx-toolbox/, sphinx-toolbox, 2.6.1, Box of handy tools for Sphinx 🧰 📔, 2021-04-24T08:57:36+0000
+/project/sphinx-matlabdoc-builder/, sphinx-matlabdoc-builder, 0.1.2, A Sphinx extension for generating Matlab HTML docs., 2019-10-14T07:00:01+0000
+/project/sphinxcontrib-autoyaml/, sphinxcontrib-autoyaml, 0.6.1, Sphinx autodoc extension for documenting YAML files from comments, 2021-03-30T18:36:12+0000
+/project/sphinxcontrib-apidoc/, sphinxcontrib-apidoc, 0.3.0, A Sphinx extension for running 'sphinx-apidoc' on each build, 2018-10-04T08:37:01+0000
+/project/sphinxcontrib-swaggerui/, sphinxcontrib-swaggerui, 0.0.10, Provides the swaggerui directive for reST files to build an interactive HTML page with your OpenAPI specification document., 2019-09-26T12:13:43+0000
+/project/sphinx-autodocgen/, sphinx-autodocgen, 1.2, Sphinx AutoDocGen extension, 2020-09-06T21:48:03+0000
+/project/m2rr/, m2rr, 0.2.3, Convert Markdown to reStructuredText, m2rr., 2020-01-17T02:34:58+0000
+/project/sphinxext-autox/, sphinxext-autox, 0.0.1, Customised version of sphinx.ext.autodoc and sphinx.ext.autosummary, 2021-04-23T23:28:03+0000
+/project/runestone/, runestone, 5.6.0, Sphinx extensions for writing interactive documents., 2021-03-27T00:06:19+0000
+/project/sphinx-autodoc-types/, sphinx-autodoc-types, 3.0.1, Type hints (PEP 484) support for the Sphinx autodoc extension (comments too), 2019-06-05T11:43:15+0000
+/project/hafrenhaver/, HafrenHaver, 1.0.277, Goes on and on about the River Severn, 2021-02-10T03:47:37+0000
+/project/sphinx-last-updated-by-git/, sphinx-last-updated-by-git, 0.3.0, Get the "last updated" time for each Sphinx page from Git, 2021-02-09T10:26:34+0000
+/project/lazydoc/, lazydoc, 1.0.1, , 2016-12-21T10:02:20+0000
+/project/sphinxcontrib-trio/, sphinxcontrib-trio, 1.1.2, Make Sphinx better at documenting Python functions and methods, 2020-05-04T16:44:35+0000
+/project/sphinx-litprog/, sphinx-litprog, 0.1.1, A literate programming extension for Sphinx, 2019-03-22T15:27:59+0000
+/project/inary/, inary, 1.4.2-1, Inary (Special Package Manager), 2020-11-01T17:55:55+0000
+/project/sphinx-hwt/, sphinx-hwt, 2.6, Sphinx extension to produce interactive schematic for hardware written in HWT, 2020-10-03T09:29:20+0000
+/project/sphinx-rigado-theme/, sphinx-rigado-theme, 0.0.13, A Sphinx theme for Rigado, 2019-06-03T17:46:53+0000
+/project/metapensiero-sphinx-patchdb/, metapensiero.sphinx.patchdb, 3.7, Extract scripts from a reST document and apply them in order., 2019-12-20T10:04:06+0000
+/project/sphinxcontrib-nvd3/, sphinxcontrib.nvd3, 0.2.1, Sphinx chart extension using NVD3.js., 2021-02-16T04:21:10+0000
+/project/sphinxcontrib-ssmlbuilder/, sphinxcontrib-ssmlbuilder, 0.2.0, Sphinx "SSMLBuilder" extension, 2017-01-30T02:32:04+0000
+/project/sphinx-pdj-theme/, sphinx-pdj-theme, 0.2.1, PdJ for Sphinx, 2020-07-01T20:27:49+0000
+/project/sphinxcontrib-napoleon/, sphinxcontrib-napoleon, 0.7, Sphinx "napoleon" extension., 2018-09-23T14:16:45+0000
+/project/sphinx-press-theme/, sphinx-press-theme, 0.5.1, A Sphinx-doc theme based on Vuepress, 2019-10-01T21:03:38+0000
+/project/sphinx-gallery/, sphinx-gallery, 0.9.0, A Sphinx extension that builds an HTML version of any Python script and puts it into an examples gallery., 2021-04-25T05:39:25+0000
+/project/doxyphp2sphinx/, doxyphp2sphinx, 1.0.1, API Documentation generator for PHP projects which use Sphinx., 2018-05-20T02:40:16+0000
+/project/worldmor/, worldmor, 0.3.1, Arcade 2D survival game., 2019-02-20T12:46:34+0000
+/project/sphinx-autodoc-variants/, sphinx-autodoc-variants, 0.1.0, An extension for sphinx to allow automatic documentation of `variants` functions., 2018-05-03T23:24:08+0000
+/project/sphinxcontrib-wiki/, sphinxcontrib-wiki, 0.5.0, Assemble sections into wiki pages in sphinx documents, 2018-04-20T19:19:21+0000
+/project/sphinxcontrib-asyncio/, sphinxcontrib-asyncio, 0.3.0, sphinx extension to support coroutines in markup, 2020-08-19T09:44:57+0000
+/project/sphinx-susiai-theme/, sphinx-susiai-theme, 0.0.1, A Sphinx theme specific to SUSI AI's Projects, 2017-08-14T16:11:02+0000
+/project/sphinx-fossasia-theme/, sphinx-fossasia-theme, 0.0.4, A Sphinx theme specific to FOSSASIA's Projects, 2017-08-01T11:40:39+0000
+/project/bolditalic/, bolditalic, 0.1.4, **DEPRECATED** A Sphinx extension that enables inline bold + italic., 2016-12-23T04:02:08+0000
+/project/sphinx-jsonschema/, sphinx-jsonschema, 1.16.8, Sphinx extension to display JSON Schema, 2021-03-23T16:38:07+0000
+/project/sphinx-debuginfo/, sphinx-debuginfo, 0.2.1, A Sphinx extension to include debugging information in the output., 2021-04-17T12:28:12+0000
+/project/sphinxcontrib-blockdiag/, sphinxcontrib-blockdiag, 2.0.0, Sphinx "blockdiag" extension, 2019-12-08T10:22:35+0000
+/project/edx-sphinx-theme/, edx-sphinx-theme, 2.1.0, A Sphinx theme for Open edX documentation, 2021-04-01T19:10:42+0000
+/project/yummy-sphinx-theme/, yummy-sphinx-theme, 0.1.1, A sphinx theme created to mirror Yummy-Jekyll, 2019-09-08T20:33:58+0000
+/project/sphinxcontrib-actdiag/, sphinxcontrib-actdiag, 2.0.0, Sphinx "actdiag" extension, 2019-12-08T16:37:10+0000
+/project/mlx-traceability/, mlx.traceability, 7.4.0, Sphinx traceability extension (Melexis fork), 2021-04-21T20:05:38+0000
+/project/sphinxnotes-strike/, sphinxnotes-strike, 1.0, Sphinx extension for HTML strikethrough text support, 2021-02-13T06:44:02+0000
+/project/probator-scheduler-sqs/, probator-scheduler-sqs, 1.1.0, SQS Based Scheduler for Probator, 2019-07-11T22:18:23+0000
+/project/pydata-sphinx-theme/, pydata-sphinx-theme, 0.6.1, Bootstrap-based Sphinx theme from the PyData community, 2021-04-16T22:47:16+0000
+/project/sphinxcontrib-ros/, sphinxcontrib-ros, 0.0.4, Sphinx extension forROS(Robot Operating System) documentation, 2016-02-22T21:02:26+0000
+/project/doxycast/, doxycast, 2.0.0, Generate reStructuredText documentations from your C++ sources, 2021-01-18T14:15:33+0000
+/project/sphinx-theme-material/, sphinx-theme-material, 1.1.2, A material based sphinx theme, 2020-02-16T12:19:54+0000
+/project/sphinxcontrib-traceables/, sphinxcontrib-traceables, 0.1.4, Sphinx extension that adds traceability within documentation, 2016-06-01T22:59:37+0000
+/project/py2annotate/, py2annotate, 1.1.1, An extension to Sphinx :code:`autodoc` to augment Sphinx documentation with type annotations, when using Python 2 style type annotations., 2019-09-11T10:11:51+0000
+/project/sphinx-zon-theme/, sphinx-zon-theme, 1.4.2, Sphinx Theme for ZEIT ONLINE, 2020-10-20T06:21:42+0000
+/project/sphinx-ustack-theme/, sphinx-ustack-theme, 1.0.0, Read the Docs theme for Sphinx, 2018-06-01T06:53:50+0000
+/project/pysemantic/, pysemantic, v0.1.1, A traits based data validation module for pandas data structures., 2015-07-01T14:22:33+0000
+/project/hawkmoth/, hawkmoth, 0.7.0, Hawkmoth - Sphinx Autodoc for C, 2021-01-29T18:47:48+0000
+/project/sphinx-simulink/, sphinx-simulink, 0.0.1, Sphinx plugin to include MATLAB/Simulink models into .rst, 2016-06-24T15:41:52+0000
+/project/m2r2/, m2r2, 0.2.7, Markdown and reStructuredText in a single file., 2020-11-20T14:10:36+0000
+/project/sphinx-veldus-theme/, sphinx-veldus-theme, 0.0.5, Read the Docs theme for Sphinx, 2020-10-22T23:45:43+0000
+/project/scanpydoc/, scanpydoc, 0.7, A series of Sphinx extensions to get easy to maintain, numpydoc style documentation., 2021-04-15T12:42:13+0000
+/project/bfabio-sphinx-rst-builder/, bfabio.sphinx-rst-builder, 0.0.1, Sphinx reStructuredText builder, 2020-01-05T12:53:45+0000
+/project/sphinxext-toptranslators/, sphinxext-toptranslators, 0.1.2, Sphinx Extension to grab top contributors, 2020-07-31T21:09:17+0000
+/project/doxphinx/, doxphinx, 1.6.0, doxphinx for Sphinx, 2019-09-02T05:00:17+0000
+/project/waeup-sphinx-autodoc/, waeup.sphinx.autodoc, 0.1.1, More Zope compatible autodocumenters for Sphinx., 2015-11-25T07:59:23+0000
+/project/yogosyu/, yogosyu, 2.0.5, Fix the Sphinx to enable any order to sort indices, 2015-07-04T03:55:36+0000
+/project/restructuredweb/, restructuredWeb, 1.0.0, Web directives for use with Sphinx., 2017-12-21T00:20:46+0000
+/project/sphinx-fakeinv/, sphinx-fakeinv, 1.0.0, Generate fake Intersphinx inventory, 2016-09-18T18:39:01+0000
+/project/allanc-sphinx/, allanc-sphinx, 0.4, Sphinx themes used for documentation of my projects., 2020-09-08T11:05:55+0000
+/project/sphinxext-linkcheckdiff/, sphinxext-linkcheckdiff, 0.1.0, Sphinx Extension to run diff-only linkchecks, 2020-08-12T03:49:05+0000
+/project/coax/, coax, 0.1.6, Plug-n-play reinforcement learning with OpenAI Gym and JAX, 2021-02-05T06:02:05+0000
+/project/pallets-sphinx-themes/, Pallets-Sphinx-Themes, 1.2.3, Sphinx themes for Pallets and related projects., 2020-01-02T15:24:35+0000
+/project/jinjaapidoc/, jinjaapidoc, 0.5.0, Sphinx API Doc with Jinja2 templates, 2019-04-14T13:20:11+0000
+/project/y0/, y0, 0.0.5, Python code for causal modeling., 2021-03-09T17:40:46+0000
+/project/sphinx-typo3-theme/, sphinx-typo3-theme, 4.5.2, Sphinx TYPO3 theme for https://docs.typo3.org/, 2021-03-26T13:00:26+0000
+/project/sphinx-variations/, sphinx-variations, 1.0.5, Create multiple variations of your Sphinx HTML documentation., 2020-09-10T21:01:48+0000
+/project/sphinx-adc-theme/, sphinx-adc-theme, 0.1.7, Apple Developer Connection theme for Sphinx, 2015 version., 2020-03-07T07:46:37+0000
+/project/sphinx-autodoc-napoleon-typehints/, sphinx-autodoc-napoleon-typehints, 2.1.6, Type hints (PEP 484) support for the Sphinx autodoc extension, 2017-05-11T13:54:52+0000
+/project/pygments-lexer-overrides/, pygments-lexer-overrides, 0.0.2, Provides improved Pygments lexers, 2019-04-11T15:14:41+0000
+/project/sphinxcontrib-websupport/, sphinxcontrib-websupport, 1.2.4, Sphinx API for Web Apps, 2020-08-09T15:35:26+0000
+/project/sphinxextensions/, SphinxExtensions, 0.2.0, Extensions for the Sphinx documentation tool., 2019-12-27T22:00:18+0000
+/project/supersk-python-docs/, supersk-python-docs, 0.0.0, Simple theme for sphinx-doc based on official python docs theme, 2021-03-02T16:03:33+0000
+/project/sphinxcontrib-openapi/, sphinxcontrib-openapi, 0.7.0, OpenAPI (fka Swagger) spec renderer for Sphinx, 2020-05-07T21:32:55+0000
+/project/sphinxext-delta/, sphinxext-delta, 0.1.0, Sphinx extension for listing changed Sphinx articles, 2021-04-05T04:28:42+0000
+/project/sphinxcontrib-toc/, sphinxcontrib-toc, 1.0.0, Sphinx extension to allow .toc file to builde the Table of Contents, 2020-04-12T04:56:41+0000
+/project/sphinxcontrib-tryton/, sphinxcontrib-tryton, 0.1.1, A Sphinx extension that enables better documentation of Tryton., 2020-02-07T17:10:33+0000
+/project/sphinxcontrib-devhelp/, sphinxcontrib-devhelp, 1.0.2, sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp document., 2020-02-29T04:14:40+0000
+/project/sphinx-verilog-domain/, sphinx-verilog-domain, 0.2.post21, Verilog Domain for Sphinx, 2020-09-18T20:35:57+0000
+/project/divio-docs-theme/, divio-docs-theme, 0.0.22, Divio theme for Sphinx, 2020-09-04T10:08:31+0000
+/project/sphinxemoji/, sphinxemoji, 0.1.8, An extension to use emoji codes in your Sphinx documentation, 2020-10-13T19:23:51+0000
+/project/sphinx-highlights/, sphinx-highlights, 0.4.0, Sphinx extension to display a selection of highlights from a Python library., 2021-04-15T13:30:15+0000
+/project/bdp/, bdp, 0.2.1, Block Diagrams in Python, 2018-10-29T06:28:55+0000
+/project/chalicedoc/, chalicedoc, 0.3, Chalice route reStructuredText autodoc directive for docutils/Sphinx., 2018-02-20T06:03:41+0000
+/project/remotecode/, remotecode, 0.1.2, **DEPRECATED** A Sphinx extension that enables remote code blocks, 2016-12-23T04:03:28+0000
+/project/sphinx-funtoo-theme/, sphinx-funtoo-theme, 0.1, Funtoo theme for Sphinx, 2020-10-29T20:37:29+0000
+/project/sphinxcontrib-gtagjs/, sphinxcontrib-gtagjs, 0.2.0, Sphinx extension to render global site tag of Google., 2020-04-16T15:44:23+0000
+/project/sphinxcontrib-comments/, sphinxcontrib-comments, 0.0.1.dev0, Add your favorite vendor comments embed code to your documentation pages., 2021-03-18T08:16:00+0000
+/project/sphinxext-remoteliteralinclude/, sphinxext-remoteliteralinclude, 0.2.0, Extending literalinclude to include remote URLs, 2021-02-16T05:45:57+0000
+/project/hyperwallet-sdk/, hyperwallet-sdk, 1.6.1, A Python wrapper around the Hyperwallet API, 2020-11-21T08:09:47+0000
+/project/readonly-docs-theme/, readonly-docs-theme, 2.4.0, Theme for ReadOnly Mods documentation, 2021-03-13T18:44:41+0000
+/project/jandd-sphinxext-mac/, jandd.sphinxext.mac, 0.1.0, MAC address extension for Sphinx, 2016-05-03T10:41:34+0000
+/project/sphinxjp-themes-gopher/, sphinxjp.themes.gopher, 0.2.3, A sphinx theme for generate gotalk style presentation. #sphinxjp, 2019-04-14T16:03:19+0000
+/project/sphinx-docs-theme/, sphinx-docs-theme, 1.0.7, Sphinx Theme for documentation sites., 2021-03-29T17:43:46+0000
+/project/sphinxcontrib-xlsxtable/, sphinxcontrib-xlsxtable, 1.0.0, A sphinx extension for making table from Excel file, 2020-07-19T12:54:49+0000
+/project/sphinxawesome-theme/, sphinxawesome-theme, 1.19.3, An awesome theme for the Sphinx documentation generator, 2021-04-06T16:26:42+0000
+/project/czelta/, czelta, 1.0, Analysis libraty for project CZELTA (http://czelta.utef.cvut.cz/), 2020-01-31T19:47:52+0000
+/project/pycmark/, pycmark, 0.9.5, CommonMark parser for docutils, 2019-04-21T05:20:47+0000
+/project/probator-auditor-vpc-flowlogs/, probator-auditor-vpc-flowlogs, 1.0.2, VPC Flow Log auditor, 2019-02-01T20:00:29+0000
+/project/sphinxcontrib-multilatex/, sphinxcontrib-multilatex, 0.1.3, Sphinx extension that allows LaTeX/PDF documents to be declared and parameterized within reStructuredText source files, 2016-06-06T21:24:05+0000
+/project/sphinxawesome-sampdirective/, sphinxawesome-sampdirective, 1.0.5, A Sphinx directive for literal blocks with emphasis, 2020-10-19T08:22:57+0000
+/project/sphinx-tsegsearch/, sphinx-tsegsearch, 1.0, Sphinx extension to split searchword with TinySegmenter, 2017-03-26T11:39:01+0000
+/project/sphinxcontrib-shellcheck/, sphinxcontrib-shellcheck, 1.1.2, Sphinx extension to lint shell code blocks, 2020-03-30T01:51:34+0000
+/project/pyotrs/, PyOTRS, 0.10.0, Python wrapper for OTRS (using REST API), 2020-07-13T18:40:54+0000
+/project/sphinxcontrib-chapeldomain/, sphinxcontrib-chapeldomain, 0.0.20, Chapel domain for Sphinx, 2021-03-09T21:20:25+0000
+/project/sphinx-material/, sphinx-material, 0.0.32, Material sphinx theme, 2020-09-15T12:11:54+0000
+/project/mlx-jira-traceability/, mlx.jira-traceability, 0.1.3, Sphinx plugin to create Jira tickets based on traceable items, 2021-04-12T20:03:54+0000
+/project/sphinxcontrib-applehelp/, sphinxcontrib-applehelp, 1.0.2, sphinxcontrib-applehelp is a sphinx extension which outputs Apple help books, 2020-02-29T04:12:53+0000
+/project/sphinx-lesson/, sphinx-lesson, 0.8.3, Sphinx extension for CodeRefinery lessons, 2020-11-04T13:07:02+0000
+/project/nextstrain-sphinx-theme/, nextstrain-sphinx-theme, 2020.6, Nextstrain theme for Sphinx and Read The Docs, 2020-11-23T23:59:15+0000
+/project/probator-auth-onelogin-saml/, probator-auth-onelogin-saml, 1.1.0, OneLogin SAML based user authentication, 2019-02-11T18:51:00+0000
+/project/sphinx-pyproject/, sphinx-pyproject, 0.1.0, Move some of your Sphinx configuration into pyproject.toml, 2021-04-05T08:02:45+0000
+/project/lsst-dd-rtd-theme/, lsst-dd-rtd-theme, 0.2.3, LSST Data Management technical note Sphinx theme., 2020-01-22T22:10:14+0000
+/project/sphinxcontrib-traceability/, sphinxcontrib-traceability, 0.1.4, Sphinx traceability extension, 2021-03-08T02:05:01+0000
+/project/extras-require/, extras-require, 0.3.0, Display a warning at the top of module documentation that it has additional requirements., 2021-03-09T23:06:28+0000
+/project/antidox/, antidox, 0.2.1, Sphinx extension to extract and insert Doxygen documentation., 2021-01-18T10:17:21+0000
+/project/sphinx-ncs-theme/, sphinx-ncs-theme, 0.6.2, Nordic Semiconductor NCS theme for Sphinx, 2021-03-26T19:15:56+0000
+/project/sphinx-intl/, sphinx-intl, 2.0.1, Sphinx utility that make it easy to translate and to apply translation., 2020-04-27T16:36:08+0000
+/project/runestone-petljadoc/, runestone-petljadoc, 3.1.1.5, Sphinx extensions for writing interactive documents., 2021-04-23T09:16:10+0000
+/project/openmodelica-microgrid-gym/, openmodelica-microgrid-gym, 0.3.0, OpenModelica Microgrid Gym, 2020-12-18T19:49:25+0000
+/project/furo/, furo, 2021.4.11b34, A clean customisable Sphinx documentation theme., 2021-04-11T07:54:15+0000
+/project/sphinx-erdiagram/, sphinx_erdiagram, 0.0.1.dev20160527, Sphinx "ER diagram" extension, 2016-05-27T03:05:02+0000
+/project/romnnn-sphinx-press-theme/, romnnn-sphinx-press-theme, 0.5.11, A Sphinx-doc theme based on Vuepress, 2021-02-03T23:31:26+0000
+/project/sphinx-cea-theme/, sphinx-cea-theme, 1.0.0, CEA Docs theme for Sphinx, 2020-06-11T10:48:19+0000
+/project/doctr-versions-menu/, doctr-versions-menu, 0.4.1, Sphinx extension and command to add a versions menu to Doctr-deployed documentation, 2021-03-18T18:16:04+0000
+/project/sphinxience/, sphinxience, 0.4.2, A Sphinx extension to assist in publishing scientific writing in either HTML or PDF., 2018-10-02T01:24:44+0000
+/project/sphinxawesome-theme/, sphinxawesome-theme, 1.19.3, An awesome theme for the Sphinx documentation generator, 2021-04-06T16:26:42+0000
+/project/czelta/, czelta, 1.0, Analysis libraty for project CZELTA (http://czelta.utef.cvut.cz/), 2020-01-31T19:47:52+0000
+/project/pycmark/, pycmark, 0.9.5, CommonMark parser for docutils, 2019-04-21T05:20:47+0000
+/project/sphinxext-linkcheckdiff/, sphinxext-linkcheckdiff, 0.1.0, Sphinx Extension to run diff-only linkchecks, 2020-08-12T03:49:05+0000
+/project/coax/, coax, 0.1.6, Plug-n-play reinforcement learning with OpenAI Gym and JAX, 2021-02-05T06:02:05+0000
+/project/pallets-sphinx-themes/, Pallets-Sphinx-Themes, 1.2.3, Sphinx themes for Pallets and related projects., 2020-01-02T15:24:35+0000
+/project/jinjaapidoc/, jinjaapidoc, 0.5.0, Sphinx API Doc with Jinja2 templates, 2019-04-14T13:20:11+0000
+/project/y0/, y0, 0.0.5, Python code for causal modeling., 2021-03-09T17:40:46+0000
+/project/sphinx-typo3-theme/, sphinx-typo3-theme, 4.5.2, Sphinx TYPO3 theme for https://docs.typo3.org/, 2021-03-26T13:00:26+0000
+/project/sphinx-variations/, sphinx-variations, 1.0.5, Create multiple variations of your Sphinx HTML documentation., 2020-09-10T21:01:48+0000
+/project/sphinx-adc-theme/, sphinx-adc-theme, 0.1.7, Apple Developer Connection theme for Sphinx, 2015 version., 2020-03-07T07:46:37+0000
+/project/sphinx-autodoc-napoleon-typehints/, sphinx-autodoc-napoleon-typehints, 2.1.6, Type hints (PEP 484) support for the Sphinx autodoc extension, 2017-05-11T13:54:52+0000
+/project/pygments-lexer-overrides/, pygments-lexer-overrides, 0.0.2, Provides improved Pygments lexers, 2019-04-11T15:14:41+0000
+/project/sphinxcontrib-websupport/, sphinxcontrib-websupport, 1.2.4, Sphinx API for Web Apps, 2020-08-09T15:35:26+0000
+/project/sphinxextensions/, SphinxExtensions, 0.2.0, Extensions for the Sphinx documentation tool., 2019-12-27T22:00:18+0000
+/project/sphinxext-delta/, sphinxext-delta, 0.1.0, Sphinx extension for listing changed Sphinx articles, 2021-04-05T04:28:42+0000
+/project/sphinxcontrib-toc/, sphinxcontrib-toc, 1.0.0, Sphinx extension to allow .toc file to builde the Table of Contents, 2020-04-12T04:56:41+0000
+/project/sphinxcontrib-tryton/, sphinxcontrib-tryton, 0.1.1, A Sphinx extension that enables better documentation of Tryton., 2020-02-07T17:10:33+0000
+/project/sphinxcontrib-devhelp/, sphinxcontrib-devhelp, 1.0.2, sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp document., 2020-02-29T04:14:40+0000
+/project/sphinx-verilog-domain/, sphinx-verilog-domain, 0.2.post21, Verilog Domain for Sphinx, 2020-09-18T20:35:57+0000
+/project/sphinx-basic-ng/, sphinx-basic-ng, 0.0.1a3, A modern skeleton for Sphinx themes., 2021-04-22T08:00:51+0000
+/project/quark-sphinx-theme/, quark-sphinx-theme, 0.6.0, A Sphinx theme designed for QTextBrowser, 2020-04-15T19:35:44+0000
+/project/cloud-sptheme/, cloud_sptheme, 1.10.1.post20200504175005, a nice sphinx theme named 'Cloud', and some related extensions, 2020-05-04T17:50:06+0000
+/project/seed-intersphinx-mapping/, seed-intersphinx-mapping, 0.5.0, Populate the Sphinx 'intersphinx_mapping' dictionary from the project's requirements., 2021-04-13T14:32:36+0000
+/project/sphinxcontrib-github-ribbon/, sphinxcontrib-github_ribbon, 0.9.0, Sphinx extension to put a GitHub Ribbon to each HTML pages, 2016-11-25T14:00:51+0000
+/project/sphinxcontrib-opendataservices-jsonschema/, sphinxcontrib-opendataservices-jsonschema, 0.1.0, Sphinx extension to define data structure using JSON Schema, 2020-05-29T07:54:48+0000
+/project/sphinx-notfound-page/, sphinx-notfound-page, 0.6, Sphinx extension to build a 404 page with absolute URLs, 2021-01-04T12:38:40+0000
+/project/sphinx-target-theme/, sphinx-target-theme, 0.0.5, Sphinx theme, 2020-05-12T11:59:04+0000
+/project/sphinx-swagger/, sphinx-swagger, 0.0.4, Generate swagger definitions from sphinx docs, 2017-07-01T10:27:45+0000
+/project/phink/, phink, 0.2.0, Phink provides a convenient wrapper around Sphinx to make project documentation a breeze., 2019-11-30T19:55:18+0000
+/project/sphinx-sizzle-theme/, sphinx-sizzle-theme, 0.0.9, Sizzle theme for Sphinx, 2020-04-17T04:00:50+0000
+/project/sphinxcontrib-napoleon2/, sphinxcontrib-napoleon2, 1.0, Modified Sphinx "napoleon" extension., 2017-01-07T02:17:29+0000
+/project/sphinx-interrogatedb/, sphinx-interrogatedb, 1.3.0, Sphinx extension to enhance autodoc for interrogated modules, 2021-02-15T12:56:02+0000
+/project/sphinxcontrib-httpexmpl/, sphinxcontrib-httpexmpl, 0.9.13, float fix, for temporary use only. original https://github.com/collective/sphinxcontrib-httpexample, 2020-08-03T20:46:24+0000
+/project/sphinxcontrib-qthelp/, sphinxcontrib-qthelp, 1.0.3, sphinxcontrib-qthelp is a sphinx extension which outputs QtHelp document., 2020-02-29T04:19:08+0000
+/project/sphinxcontrib-gravizo/, sphinxcontrib-gravizo, 0.0.4, Embed PlantUML, DOT, etc. diagrams in your documentation using Gravizo., 2020-08-19T21:01:55+0000
+/project/exhale/, exhale, 0.2.3, Automatic C++ library API documentation generator using Doxygen, Sphinx, and Breathe. Exhale revives Doxygen's class / file hierarchies using reStructuredText for superior markup syntax / websites., 2019-06-05T06:16:43+0000
+/project/gosyu/, gosyu, 2.0.6, Fix the Sphinx to enable any order to sort indices(using domain feature), 2015-07-04T04:01:36+0000
+/project/sphinx/, Sphinx, 3.5.4, Python documentation generator, 2021-04-11T11:27:38+0000
+/project/cinq-auth-onelogin-saml/, cinq-auth-onelogin-saml, 2.1.0, OneLogin SAML based user authentication, 2018-09-24T21:11:56+0000
+/project/sphinxcontrib-visio/, sphinxcontrib-visio, 2.1.2, Sphinx "visio" extension; embed MS-Visio file (.vsd, .vsdx), 2016-05-18T03:26:50+0000
+/project/sphinx-tabs/, sphinx-tabs, 2.1.0, Tabbed views for Sphinx, 2021-03-10T18:35:47+0000
+/project/sphinxcontrib-sqlalchemyviz/, sphinxcontrib-sqlalchemyviz, 0.5, Sphinx SQLAlchemyViz extension, 2019-08-04T22:47:11+0000
+/project/sphinxcontrib-serializinghtml/, sphinxcontrib-serializinghtml, 1.1.4, sphinxcontrib-serializinghtml is a sphinx extension which outputs "serialized" HTML files (json and pickle)., 2020-02-29T04:18:03+0000
+/project/cinq-scheduler-standalone/, cinq-scheduler-standalone, 2.1, Standalone scheduler and worker system, 2018-09-24T21:23:17+0000
+/project/sphinxcontrib-vcs/, sphinxcontrib-vcs, 0.3.0, Sphinx extension to show commit history in version control system, 2020-04-19T10:00:01+0000
+/project/rst-linker/, rst.linker, 2.2.0, Tools for adding metadata and hyperlinks to reStructuredText, 2021-03-10T22:12:38+0000
+/project/sphinxawesome-safenet-theme/, sphinxawesome-safenet-theme, 0.0.2, A Thales community doc theme based on sphinxawesome-theme, 2021-03-28T19:35:19+0000
+/project/sphinxext-rediraffe/, sphinxext-rediraffe, 0.2.7, Sphinx Extension that redirects non-existent pages to working pages., 2021-04-16T11:42:26+0000
+/project/sphinx-gemini-builder/, sphinx-gemini-builder, 1.1.1, Build gemini blog, 2021-02-03T00:08:33+0000
+/project/insipid-sphinx-theme/, insipid-sphinx-theme, 0.2.4, An insipid Sphinx theme, 2021-04-04T13:46:49+0000
+/project/sphinx-probs-rdf/, sphinx-probs-rdf, 0.1.1, sphinx_probs_rdf is a sphinx extension which outputs RDF describing Processes and Objects using the PRObs ontology., 2021-04-21T10:50:47+0000
+/project/documenteer/, documenteer, 0.6.6, Rubin Observatory / LSST Sphinx documentation tools, extensions, and configurations., 2021-02-17T18:47:09+0000
+/project/sphinx-computron/, sphinx-computron, 0.2.0, Sphinx support for execution of python code from code blocks or files. Original code by JP Senior., 2020-08-14T22:09:43+0000
+/project/sphinxcontrib-github-alt/, sphinxcontrib_github_alt, 1.2, Link to GitHub issues, pull requests, commits and users from Sphinx docs., 2020-04-27T09:12:42+0000
+/project/sphinxcontrib-bitfield/, sphinxcontrib-bitfield, 0.3.0, Sphinx "bitfield" extension, 2021-02-01T20:42:18+0000
+/project/sphinx-exercise/, sphinx-exercise, 0.1.1, A Sphinx extension for producing exercises and solutions., 2020-10-10T09:35:53+0000
+/project/sphinxcontrib-autosaltsls/, sphinxcontrib-autosaltsls, 0.7.1, Sphinx auto-document generator for SaltStack sls files, 2020-06-09T19:04:09+0000
+/project/sphinx-idf-theme/, sphinx-idf-theme, 0.3.0, IDF theme for Sphinx, based on Read The Docs theme, 2021-04-25T06:37:47+0000
+/project/myst-parser/, myst-parser, 0.13.7, An extended commonmark compliant parser, with bridges to docutils & sphinx., 2021-04-24T23:52:49+0000
+/project/myst-nb/, myst-nb, 0.12.1, A Jupyter Notebook Sphinx reader built on top of the MyST markdown parser., 2021-04-25T12:33:30+0000
+/project/sphinxcontrib-globalsubs/, sphinxcontrib-globalsubs, 0.1.0, Sphinx global substitutions extension, 2019-01-18T09:19:50+0000
+/project/chios/, chios, 0.1.5, A collection of Sphinx extensions., 2019-11-07T06:23:52+0000
+/project/lsst-sphinx-bootstrap-theme/, lsst-sphinx-bootstrap-theme, 0.2.2, Sphinx theme for LSST user documentation built on Bootstrap and Astropy's theme., 2019-12-12T15:48:12+0000
+/project/sphinx-charts/, sphinx-charts, 0.0.4, Interactive charts, graphs and figures for Sphinx HTML docs., 2020-09-09T12:06:23+0000
+/project/sphinx-nervproject-theme/, sphinx-nervproject-theme, 2.0.3, A Sphinx-doc theme based on Vuepress, 2021-01-31T15:10:50+0000
+/project/cinq-auditor-vpc-flowlogs/, cinq-auditor-vpc-flowlogs, 2.1.1, VPC Flow Log auditor, 2018-11-12T22:34:25+0000
+/project/sphinx-javalink/, sphinx-javalink, 0.11.1, Link to Javadoc APIs from Sphinx documentation, 2016-01-14T07:14:00+0000
+/project/cinq-auditor-cloudtrail/, cinq-auditor-cloudtrail, 2.1.0, CloudTrail auditor, 2018-09-24T21:24:20+0000
+/project/readthedocs-sphinx-search/, readthedocs-sphinx-search, 0.1.0, Sphinx extension to enable search as you type for docs hosted on Read the Docs., 2021-02-17T21:22:39+0000
+/project/sphinxcontrib-googlemaps/, sphinxcontrib-googlemaps, 0.1.0, Sphinx "googlemaps" extension, 2012-08-30T04:01:22+0000
+/project/sphinxcontrib-programoutput/, sphinxcontrib-programoutput, 0.17, Sphinx extension to include program output, 2021-03-31T15:00:01+0000
+/project/sfchat/, SFChat, 0.13.0, Secure Free Chat (SFChat) is long pulling REST chat based on Django and Mongodb., 2016-12-18T18:49:34+0000
+/project/sphinx-autofixture/, sphinx-autofixture, 0.2.3, Sphinx autodocumenter for pytest fixtures., 2021-01-21T11:49:11+0000
+/project/sphinxcontrib-slide/, sphinxcontrib-slide, 0.3.0, Sphinx "slide" extension, 2014-08-21T12:45:24+0000
+/project/picos-sphinx-theme/, picos-sphinx-theme, 0.0.34, A Sphinx theme for the PICOS documentation., 2021-02-09T23:07:35+0000
+/project/sphinxcontrib-towncrier/, sphinxcontrib-towncrier, 0.2.0a0, An RST directive for injecting a Towncrier-generated changelog draft containing fragments for the unreleased (next) project version, 2021-04-14T12:38:42+0000
+/project/enum-tools/, enum-tools, 0.6.4, Tools to expand Python's enum module., 2021-02-09T07:39:19+0000
+/project/pygenstub/, pygenstub, 2.0.1, Python stub file generator., 2021-02-13T12:25:53+0000
+/project/sphinx-paw/, sphinx-paw, 0.4.1, Reduce Sphinx configuration steps, 2019-11-20T00:15:21+0000
+/project/sphinxcontrib-dashdomain/, sphinxcontrib-dashdomain, 0.1.2, Sphinx "dash domain" and "builder" extension, 2016-07-23T07:15:55+0000
+/project/sphinx-hoverxref/, sphinx-hoverxref, 0.5b1, Sphinx extension to embed content in a tooltip on xref hover, 2020-06-30T11:02:06+0000
+/project/sphinxcadquery/, sphinxcadquery, 1.3.2, An extension to visualize CadQuery 3D parts in your Sphinx documentation, 2020-08-05T00:14:35+0000
+/project/atelier/, atelier, 1.1.30, A collection of tools for software artists, 2021-04-24T17:16:23+0000
+/project/sphinx-material-saltstack/, sphinx-material-saltstack, 1.0.5, Material sphinx theme for SaltStack documentation, 2020-08-04T15:55:44+0000
+/project/sphinxcontrib-jupyter/, sphinxcontrib-jupyter, 0.5.10, Sphinx "Jupyter" extension: Convert your RST files into executable Jupyter notebooks., 2020-06-18T03:31:10+0000
+/project/sphinxcontrib-sphinx-rest-api-doc/, sphinxcontrib-sphinx-rest-api-doc, 0.0.43.dev6, a tools for sphinx gen doc from rest api, 2018-11-18T15:40:35+0000
+/project/buildthedocs/, buildthedocs, 1.0.3, A Sphinx documentation building tool on steroids., 2015-08-26T10:46:53+0000
+/project/sphinxcontrib-gravatar/, sphinxcontrib-gravatar, 0.1.2, Sphinx "gravatar" extension, 2015-01-01T15:45:19+0000
+/project/sphinxnotes-isso/, sphinxnotes-isso, 1.0, Sphinx extension for embeding Isso comments in documents, 2021-04-21T11:03:02+0000
+/project/sphinx-jsondomain/, sphinx-jsondomain, 0.0.3, Describe JSON document structures in sphinx, 2017-08-10T17:45:01+0000
+/project/sphinxcontrib-xbr/, sphinxcontrib-xbr, 0.1.0, XBR IDL extension for Sphinx, 2018-04-15T08:22:01+0000
+/project/cinq-auditor-domain-hijacking/, cinq-auditor-domain-hijacking, 2.1.1, Domain Hijacking auditor, 2018-11-16T00:23:17+0000
+/project/sphinx-a4doc/, sphinx-a4doc, 1.2.4, Sphinx domain and autodoc for Antlr4 grammars, 2020-12-14T16:54:18+0000
+/project/ipypublish/, ipypublish, 0.10.12, A workflow for creating and editing publication ready scientific reports, from one or more Jupyter Notebooks, 2020-08-06T16:53:25+0000
+/project/default-values/, default-values, 0.4.3, Sphinx extension to show default values in documentation., 2021-03-09T18:58:08+0000
+/project/sphinxcontrib-seqdiag/, sphinxcontrib-seqdiag, 2.0.0, Sphinx "seqdiag" extension, 2019-12-08T11:23:47+0000
+/project/hudsonthames-sphinx-theme/, hudsonthames-sphinx-theme, 0.1.3, Hudson and Thames theme for Sphinx, 2021-04-22T21:01:29+0000
+/project/sphinx-library/, sphinx-library, 1.1.2, Typography-centric Sphinx theme that reads like a good book., 2020-10-20T23:34:45+0000
+/project/sphinx-navigation-icons/, sphinx-navigation-icons, 0.1.1, Add image/font responsive icons to your Sphinx sidebar toctree, 2021-03-18T17:05:12+0000
+/project/sphinx-rst-builder/, sphinx-rst-builder, 0.0.3, Sphinx reStructuredText builder, 2020-01-18T15:17:05+0000
+/project/zenodo-client/, zenodo-client, 0.1.0, A wrapper for the Zenodo API., 2021-03-25T15:51:50+0000
+/project/sphinxcontrib-markdown/, sphinxcontrib-markdown, 0.1.0, Yet another markdown processor for Sphinx, 2015-12-30T09:43:04+0000
+/project/sphinxjp-themes-revealjs/, sphinxjp.themes.revealjs, 0.3.0, A sphinx theme for generate reveal.js presentation. #sphinxjp, 2015-05-06T13:35:37+0000
+/project/sphinx-affiliates/, sphinx-affiliates, 0.2.1, Tools for integrating affiliated Sphinx sites, 2020-09-09T13:41:23+0000
+/project/sphinx-tosca/, sphinx-tosca, 0.1.0, Sphinx ducumentation plugin for DICE TOSCA library, 2017-05-16T10:38:41+0000
+/project/wurfapi/, wurfapi, 8.0.0, C++ Documentation generator., 2021-02-11T08:09:21+0000
+/project/t3sphinxthemertd/, t3SphinxThemeRtd, 3.6.15, Docs.TYPO3.Org theme for Sphinx, starting 2015., 2018-07-04T14:11:59+0000
+/project/sphinxcontrib-lassodomain/, sphinxcontrib-lassodomain, 0.4, Lasso domain for Sphinx, 2016-09-08T15:49:55+0000
+/project/probator-auditor-required-tags/, probator-auditor-required-tags, 1.2.0, Required Tags auditor, 2019-03-28T00:37:33+0000
+/project/sphinx-business-theme/, sphinx-business-theme, 0.1.0, A theme for Sphinx to generate PDF documentation, 2020-03-27T00:06:34+0000
+/project/sphinx-external-toc/, sphinx-external-toc, 0.1.0a8, A sphinx extension that allows the site-map to be defined in a single YAML file., 2021-04-18T20:31:16+0000
+/project/sphinxcontrib-imagehelper/, sphinxcontrib-imagehelper, 1.1.1, Sphinx extension helper about images, 2015-12-11T14:03:41+0000
+/project/sphinxcontrib-details-directive/, sphinxcontrib-details-directive, 0.1.0, "details" directive for Sphinx, 2019-09-22T13:24:25+0000
+/project/probator-auth-saml/, probator-auth-saml, 1.2.2, SAML user authentication, 2020-04-01T17:31:01+0000
+/project/sphinx-github-changelog/, sphinx-github-changelog, 1.0.8, Build a sphinx changelog from GitHub Releases, 2021-04-17T11:49:55+0000
+/project/sphinxcontrib-drawio/, sphinxcontrib-drawio, 0.0.13, Sphinx Extension to include draw.io files, 2021-01-25T14:05:12+0000
+/project/sphinx-patchqueue/, sphinx-patchqueue, 1.0.4, Sphinx extension for embedding sequences of file alterations, 2017-10-23T14:01:51+0000
+/project/sphinx-panels/, sphinx-panels, 0.5.2, A sphinx extension for creating panels in a grid layout., 2020-10-12T19:02:03+0000
+/project/sortorder/, sortorder, 2.0.6, Enable Sphinx to generate HTML5 valid files, 2015-07-04T03:54:18+0000
+/project/sphinxawesome-codelinter/, sphinxawesome-codelinter, 1.0.5, A Sphinx extension to pass reStructuredText code blocks to external tools., 2020-06-12T05:50:32+0000
+/project/sphinxcontrib-kissapi/, sphinxcontrib-kissapi, 1.0.3, Simple and flexible python API documentation generation plugin for Sphinx, 2020-12-12T06:21:28+0000
+/project/niftools-sphinx-theme/, niftools-sphinx-theme, 0.3.3, A sphinx theme created to support niftools documentation, 2019-10-04T07:00:34+0000
+/project/sphinxcontrib-paradoxy/, sphinxcontrib-paradoxy, 0.3.1, Adds links to Doxygen objects within Sphinx, 2017-12-21T22:02:33+0000
+/project/sphinxcontrib-restbuilder/, sphinxcontrib-restbuilder, 0.3, Sphinx extension to output reST files., 2021-02-28T14:37:44+0000
+/project/probator-auditor-cloudtrail/, probator-auditor-cloudtrail, 1.1.1, CloudTrail auditor, 2019-04-18T00:19:03+0000
+/project/f5-sphinx-theme/, f5-sphinx-theme, 2.0.7, Sphinx theme for F5 Networks, 2021-01-06T05:36:53+0000
+/project/sphinx-alice-theme/, sphinx-alice-theme, 0.1.0, Provides the Alice theme for Sphinx projects., 2020-02-29T21:11:27+0000
+/project/sphinxtheme-plone/, sphinxtheme.plone, 0.5.8, Collection of Sphinx Themes for Plone Documentations, 2019-10-26T11:54:09+0000
+/project/sphinx-testing/, sphinx-testing, 1.0.1, testing utility classes and functions for Sphinx extensions, 2019-04-15T14:51:55+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/sphinx-tojupyter/, sphinx-tojupyter, 0.1.1, Sphinx "Jupyter" extension to build Jupyter notebooks., 2021-02-25T01:53:37+0000
+/project/insegel/, insegel, 1.1.0, Clean, minimalist Sphinx theme for deploying on ReadTheDocs, 2019-04-29T20:39:56+0000
+/project/sphinx-ansible-theme/, sphinx-ansible-theme, 0.3.2, Ansible Sphinx Theme, 2020-07-23T19:56:38+0000
+/project/cinq-auditor-ebs/, cinq-auditor-ebs, 2.1.0, EBS Volume auditor, 2018-09-24T21:26:03+0000
+/project/sphinxcontrib-scm/, sphinxcontrib-scm, 0.1.2, Sphinx SCM interface, 2020-10-06T10:48:15+0000
+/project/domdf-sphinx-theme/, domdf-sphinx-theme, 21.1.0, Customised 'sphinx_rtd_theme' used by my Python projects., 2021-04-19T20:34:17+0000
+/project/sphinx-boogergreen-theme/, sphinx-boogergreen-theme, 0.4.3, Read the Docs theme for Sphinx, 2019-01-31T03:56:14+0000
+/project/starling-theme/, starling-theme, 0.1.4, Sphinx Theme for the StARLinG Lab., 2019-06-13T19:25:29+0000
+/project/sphinxcontrib-googlechart/, sphinxcontrib-googlechart, 0.2.1, Sphinx "googlechart" extension, 2015-04-01T02:32:50+0000
+/project/probator-auditor-iam/, probator-auditor-iam, 1.0.2, IAM Policy and Role auditor, 2019-02-01T22:17:07+0000
+/project/restructuredbootstrap/, restructuredBootstrap, 1.0.0, Twitter Bootstrap 3 directives for use with Sphinx., 2017-12-21T00:18:59+0000
+/project/thermopyle/, ThermoPyle, 0.7.2.1, Creation of Thermodynamic Surfaces using CoolProp, 2019-03-06T16:14:55+0000
+/project/sphinxcontrib-nicovideo/, sphinxcontrib-nicovideo, 0.1.1, Sphinx "nicovideo" extension, 2016-12-02T13:00:48+0000
+/project/pysseract/, pysseract, 1.3.1, Python binding to Tesseract API, 2020-01-07T05:07:33+0000
+/project/sphinx-ext-substitution/, sphinx-ext-substitution, 0.1.2, Sphinx extension for substituting variables, 2021-01-26T20:04:43+0000
+/project/pygments-markdown-lexer/, pygments-markdown-lexer, 0.1.0.dev39, Pygments Markdown Lexer – A Markdown lexer for Pygments to highlight Markdown code snippets., 2015-07-06T11:08:08+0000
+/project/etgen/, etgen, 1.1.1, Use ElementTree to generate html, rst and other markup, 2020-07-21T19:52:42+0000
+/project/sphinxmark/, sphinxmark, 0.2.1, A Sphinx extension that enables watermarks for HTML output., 2021-03-02T02:56:51+0000
+/project/unicode-ids/, unicode_ids, 2.0.5, Enable Sphinx to generate non-ASCII identifiers, 2015-07-04T03:47:27+0000
+/project/sphinxcontrib-argdoc/, sphinxcontrib-argdoc, 0.1.3, Sphinx, 2015-07-08T20:45:26+0000
+/project/tensorly-sphinx-theme/, tensorly-sphinx-theme, 0.1.1, Bulma-based Sphinx theme from the TensorLy project., 2021-01-21T22:47:37+0000
+/project/sphinxcontrib-cloudformationyaml/, sphinxcontrib-cloudformationyaml, 0.2.0, Sphinx extension to generate docs from cloudformation descriptions and comments, 2018-02-22T00:06:04+0000
+/project/sponge-docs-theme/, sponge-docs-theme, 0.5.8, Theme for Sponge documentation, 2020-12-23T23:38:05+0000
+/project/sphinxcontrib-pandoc-markdown/, sphinxcontrib-pandoc-markdown, 1.6.8, Yet another markdown processor for Sphinx, 2017-05-26T23:12:39+0000
+/project/jandd-sphinxext-ip/, jandd.sphinxext.ip, 0.4.0, IP address extension for Sphinx, 2021-01-02T06:34:38+0000
+/project/sphinx-html5-basic-theme/, sphinx_html5_basic_theme, 1.0.5, Enable Sphinx to generate HTML5 valid files, 2015-06-19T02:12:13+0000
+/project/docdata/, docdata, 0.0.3, Add structured information to the end of your python docstrings., 2021-02-28T15:50:52+0000
+/project/metapensiero-sphinx-autodoc-sa/, metapensiero.sphinx.autodoc-sa, 2.1, Autodoc extension to pretty print canned SA queries, 2019-03-31T08:25:30+0000
+/project/sphinx-versions/, sphinx-versions, 1.1.3, Sphinx extension that allows building versioned docs for self-hosting., 2019-07-18T14:13:57+0000
+/project/jinyaml/, jinyaml, 0.0.3, Plugin for sphinx to use Jinja in documents, 2019-10-18T16:39:25+0000
+/project/sphinxcontrib-httpexample/, sphinxcontrib-httpexample, 0.10.3, Adds example directive for sphinx-contrib httpdomain, 2019-05-01T06:42:14+0000
+/project/sphinx-idf-theme/, sphinx-idf-theme, 0.3.0, IDF theme for Sphinx, based on Read The Docs theme, 2021-04-25T06:37:47+0000
+/project/sphobjinv/, sphobjinv, 2.1, Sphinx objects.inv Inspection/Manipulation Tool, 2021-04-14T16:26:04+0000
+/project/sphinxjp-themes-sphinxjp/, sphinxjp.themes.sphinxjp, 1.0.2, A sphinx theme for sphinx-users.jp site., 2019-06-01T14:10:54+0000
+/project/gxsphinx/, GxSphinx, 1.0.0, Python documentation generator, 2020-08-04T03:07:53+0000
+/project/cinq-auth-local/, cinq-auth-local, 2.1.0, Local DB based user authentication, 2018-09-24T21:10:10+0000
+/project/sphinxcontrib-versioning/, sphinxcontrib-versioning, 2.2.1, Sphinx extension that allows building versioned docs for self-hosting., 2016-12-10T09:45:36+0000
+/project/sphinx-removed-in/, sphinx-removed-in, 0.2.1, versionremoved and removed-in directives for Sphinx, 2019-11-09T21:37:01+0000
+/project/sphinx-airflow-theme/, sphinx-airflow-theme, 0.0.2, Airflow theme for Sphinx, 2020-12-09T16:09:26+0000
+/project/sphinxcontrib-disqus/, sphinxcontrib-disqus, 1.1.0, Sphinx extension that embeds Disqus comments in documents., 2016-08-04T08:32:13+0000
+/project/sphinx-json-schema-formatter/, sphinx-json-schema-formatter, 0.3, JSON Schema renderer for Sphinx, 2021-03-14T00:31:36+0000
+/project/cinq-collector-dns/, cinq-collector-dns, 2.1.3, DNS Collector, 2018-11-21T22:00:00+0000
+/project/sphinxcontrib-commonmark/, sphinxcontrib-commonmark, 0.1.0, Yet another commonmark processor for Sphinx, 2019-04-21T08:42:22+0000
+/project/jupinx/, jupinx, 0.2.3, Jupinx extension: Convert your RST files into into different formats like notebook, pdf, html., 2020-05-10T11:49:51+0000
+/project/cinq-auditor-required-tags/, cinq-auditor-required-tags, 2.2.7, Required Tags auditor, 2018-11-01T21:10:29+0000
+/project/sphinx-yellowblue-theme/, sphinx-yellowblue-theme, 0.0.1.dev0, sphinx theme for yellowblue projects, 2020-07-23T22:26:06+0000
+/project/sphinx-pangeo-theme/, sphinx-pangeo-theme, 0.2, Pangeo theme for Sphinx, 2020-02-15T22:17:49+0000
+/project/python-docs-theme-technopathy/, python-docs-theme-technopathy, 0.7.11, A responsive sphinx theme for github pages based on python-docs-theme, 2021-04-03T23:54:31+0000
+/project/sphinxcontrib-verilog-diagrams/, sphinxcontrib-verilog-diagrams, 0.1.0, Generate diagrams from Verilog in Sphinx., 2020-09-16T15:07:32+0000
+/project/docxbuilder/, docxbuilder, 1.2.0, Sphinx docx builder extension, 2020-05-15T05:45:13+0000
+/project/sphinxcontrib-spelling/, sphinxcontrib-spelling, 7.1.0, Sphinx spelling extension, 2020-11-05T15:18:23+0000
+/project/sphinx-autodoc-typehints/, sphinx-autodoc-typehints, 1.12.0, Type hints (PEP 484) support for the Sphinx autodoc extension, 2021-04-15T00:21:35+0000
+/project/cinq-collector-aws/, cinq-collector-aws, 2.1.5, AWS Collector, 2018-11-21T23:00:01+0000
+/project/sphinxcontrib-inherit/, sphinxcontrib-inherit, 0.1.0, A Sphinx extension that allows documentation to be created in a modular way., 2020-01-13T14:37:43+0000
+/project/sphinxcontrib-hdl-diagrams/, sphinxcontrib-hdl-diagrams, 0.0.post131, Generate diagrams from HDL in Sphinx., 2020-09-22T16:32:58+0000
+/project/sphinxcontrib-jsonschema/, sphinxcontrib-jsonschema, 0.9.3, Sphinx extension to define data structure using JSON Schema, 2017-02-25T09:18:04+0000
+/project/astutus/, astutus, 0.1.9.202102011217, Use the Sphinx RTD Theme to create a beautiful Flask application., 2021-02-01T19:17:16+0000
+/project/sphinx-weasyprint-builder/, sphinx-weasyprint-builder, 0.1.3, A Sphinx PDF builder using WeasyPrint, 2021-01-10T19:57:49+0000
+/project/flask-sphinx-themes/, Flask-Sphinx-Themes, 1.0.2, Sphinx themes for Flask and related projects., 2017-11-30T18:01:58+0000
+/project/sphinxcontrib-drawio-html/, sphinxcontrib-drawio-html, 0.1.2, Sphinx Extension to include draw.io files using HTML5 embedding, 2019-12-22T22:21:09+0000
+/project/sphinx-last-updated-by-git/, sphinx-last-updated-by-git, 0.3.0, Get the "last updated" time for each Sphinx page from Git, 2021-02-09T10:26:34+0000
+/project/lazydoc/, lazydoc, 1.0.1, , 2016-12-21T10:02:20+0000
+/project/sphinxcontrib-trio/, sphinxcontrib-trio, 1.1.2, Make Sphinx better at documenting Python functions and methods, 2020-05-04T16:44:35+0000
+/project/sphinx-litprog/, sphinx-litprog, 0.1.1, A literate programming extension for Sphinx, 2019-03-22T15:27:59+0000
+/project/sphinxjp-themes-basicstrap/, sphinxjp.themes.basicstrap, 0.5.0, A sphinx theme for Basicstrap style. Using Twitter Bootstrap. #sphinxjp, 2019-05-06T11:34:32+0000
+/project/sphinx-django-theme/, sphinx-django-theme, 0.0.1.dev0, sphinx theme for django projects, 2020-07-23T17:51:26+0000
+/project/sphinx-json-schema/, sphinx-json-schema, 0.1b6, JSON Schema renderer for Sphinx, 2019-03-31T02:06:22+0000
+/project/sphinxcontrib-apiblueprint/, sphinxcontrib-apiblueprint, 0.9.0, Sphinx extension to create API docs using API Blueprint, 2016-08-06T06:51:51+0000
+/project/sphinxcontrib-svg2pdfconverter/, sphinxcontrib-svg2pdfconverter, 1.1.1, Sphinx SVG to PDF converter extension, 2021-01-07T08:35:36+0000
+/project/sphinxcontrib-varlinks/, sphinxcontrib-varlinks, 0.1.4, Support substitutions in Sphinx hyperlinks, 2017-12-21T22:01:31+0000
+/project/peng3d-sphinxext/, peng3d_sphinxext, 1.0.post1, Sphinx Extension adding Support for peng3d events, 2017-05-27T17:40:54+0000
+/project/y0-bio/, y0-bio, 0.0.1, Biological applications of y0, 2021-02-16T18:39:53+0000
+/project/sphinxnotes-snippet/, sphinxnotes-snippet, 1.0b5, Non-intrusive snippet manager for Sphinx documentation, 2021-04-20T15:55:59+0000
+/project/jaraco-packaging/, jaraco.packaging, 8.2.1, tools to supplement packaging Python releases, 2021-03-15T01:58:54+0000
+/project/sphinxcontrib-trimblank/, sphinxcontrib-trimblank, 1.0.2, A Sphinx extension which trims redundant blanks, 2019-09-07T11:35:52+0000
+/project/docs-versions-menu/, docs-versions-menu, 0.5.0rc2, A versions menu for Sphinx-based documentation, 2021-04-04T22:07:02+0000
+/project/mlx-coverity/, mlx.coverity, 0.2.2, Sphinx coverity extension from Melexis, 2019-11-28T10:15:13+0000
+/project/probator-auditor-domain-hijacking/, probator-auditor-domain-hijacking, 1.0.2, Domain Hijacking auditor, 2019-02-01T22:22:21+0000
+/project/sphinx-seeta-theme/, sphinx-seeta-theme, 0.0.6, Sphinx theme for Seeta Documentation, 2021-01-27T10:22:12+0000
+/project/shis/, shis, 0.1, Simple HTTP Image Server, 2021-01-06T11:17:21+0000
+/project/sphinxcontrib-getstart-sphinx/, sphinxcontrib-getstart-sphinx, 1.0.0, Sphinx extensions for "Getting Started with Sphinx 2nd Edition", 2018-02-15T03:10:51+0000
+/project/lupulo/, lupulo, 0.3, Framework to build realtime web pages dedicated to monitor                    robots or IoT devices., 2016-01-20T11:39:29+0000
+/project/topos-theme/, topos-theme, 0.0.14, Topos theme for sphinx, 2019-03-14T20:16:41+0000
+/project/cinq-auditor-iam/, cinq-auditor-iam, 2.1.0, IAM Policy and Role auditor, 2018-09-24T21:22:29+0000
+/project/sphinxcontrib-nwdiag/, sphinxcontrib-nwdiag, 2.0.0, Sphinx "nwdiag" extension, 2019-12-10T17:02:12+0000
+/project/class-resolver/, class-resolver, 0.0.8, Lookup and instantiate classes with style., 2021-04-23T16:30:50+0000
+/project/sphinxcontrib-websupport-lean/, sphinxcontrib-websupport-lean, 2.0.0.dev20170818, Sphinx API for Web Apps, 2017-08-18T16:05:19+0000
+/project/btd-sphinx-inheritance-diagram/, btd.sphinx.inheritance-diagram, 2.3.1.post1, Embedding diagrams rendered with inheritance_diagram., 2020-01-12T16:31:34+0000
+/project/sphinx-mathjax-offline/, sphinx-mathjax-offline, 0.0.1, MathJax offline support for Sphinx, 2020-11-22T12:08:40+0000
+/project/alveolus/, alveolus, 0.1.2, Alveolus Docs,provides a very simple way, to create read the docs alike documentation for c++ projects.With the help of breathe and exhale it combines Doxygen and sphinx to enable tou to createcode documentation as well as custom documentation files, 2020-08-16T14:47:00+0000
+/project/ohnoyoudidnt/, ohnoyoudidnt, 0.1, doc8 linter for frc-docs, 2020-12-24T20:01:28+0000
+/project/sphinx-press-autodoc-theme/, sphinx-press-autodoc-theme, 0.1.0a3, A fork of Eduardo Naufel Schettino's sphinx_press_theme, with support for sphinx.ext.autodoc, 2019-03-05T08:55:45+0000
+/project/autodoc-pydantic/, autodoc-pydantic, 1.1.0, Seamlessly integrate pydantic models in your Sphinx documentation., 2021-04-24T19:11:07+0000
+/project/unittest-templates/, unittest-templates, 0.0.5, Write less unittest boilerplate., 2021-03-28T13:58:20+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/sphinx-minipres/, sphinx-minipres, 0.2.1, Sphinx extension to turn any web page into a lightweight presentation, 2020-10-29T10:37:51+0000
+/project/sphinx-enos-theme/, sphinx-enos-theme, 0.2.22, ENOS Docs theme for Sphinx, 2020-05-11T12:54:06+0000
+/project/sphinxcontrib-packages/, sphinxcontrib-packages, 1.0.1, This packages contains the Packages sphinx extension, which provides directives to display packages installed on the host machine, 2018-01-01T08:34:21+0000
+/project/t3targets/, t3targets, 0.1.0, Implement Sphinx directive "ref-targets-list", 2014-12-10T12:41:48+0000
+/project/probator-collector-dns/, probator-collector-dns, 1.0.2, DNS Collector, 2019-02-01T20:03:12+0000
+/project/py3-bp/, py3-bp, 0.0.4, Ultimate template for new Python 3 projects, 2019-09-20T05:05:48+0000
+/project/openvas-reporting/, OpenVAS-Reporting, 1.4.3, A tool to convert OpenVAS XML into reports., 2019-04-08T14:57:15+0000
+/project/t3tablerows/, t3tablerows, 0.1.0, Implement Sphinx transformation of "table-row" containers, 2014-12-10T11:54:46+0000
+/project/sphinx-vcs-changelog/, sphinx-vcs-changelog, 0.1.1, Project Git Changelog for Sphinx, 2019-09-27T09:09:11+0000
+/project/skuidsphinxtheme/, SkuidSphinxTheme, 1.0.23, Sphinx Theme for Skuid, 2019-10-07T21:18:59+0000
+/project/sphinxcontrib-htmlhelp/, sphinxcontrib-htmlhelp, 1.0.3, sphinxcontrib-htmlhelp is a sphinx extension which renders HTML help files, 2020-02-21T17:10:00+0000
+/project/sphinxcontrib-imgur/, sphinxcontrib-imgur, 2.0.1, Sphinx extension that embeds Imgur images, albums, and their metadata in documents., 2016-10-16T05:44:36+0000
+/project/sphinxcontrib-cacoo/, sphinxcontrib-cacoo, 2.0.0, Sphinx "cacoo" extension; embed diagram from cacoo, 2018-04-12T14:30:50+0000
+/project/sphinxcontrib-yaml/, sphinxcontrib-yaml, 1.0.0, Obsolete - use sphinxcontrib-autoyaml instead, 2017-03-19T23:19:30+0000
+/project/kirlent-sphinx/, kirlent-sphinx, 0.3.0, Sphinx extension for slides and extended tables., 2019-03-28T11:05:10+0000
+/project/sphinxcontrib-astah/, sphinxcontrib-astah, 1.0.0, Sphinx "astah" extension; embed diagram by using astah, 2015-06-26T08:22:50+0000
+/project/sphinx-modern-theme-modified/, sphinx_modern_theme_modified, 1.0.5, A modern sphinx theme using Bootstrap, 2019-02-08T18:12:06+0000
+/project/openkongqi/, openkongqi, 0.2.6, Outdoor air quality data, 2021-03-18T08:01:05+0000
+/project/sphinx-reredirects/, sphinx-reredirects, 0.0.0, Handles redirects for moved pages in Sphinx documentation projects, 2020-09-09T11:03:04+0000
+/project/pylons-sphinx-themes/, pylons-sphinx-themes, 1.0.13, Sphinx themes for Pylons Project documentation., 2020-11-30T11:28:25+0000
+/project/kpruss/, kpruss, 0.0.3, The Sphinx theme for my website, 2021-04-17T06:21:00+0000
+/project/sphinx-graphml/, sphinx-graphml, 0.1b5, GraphML charts embedding extension for Sphinx, 2019-04-29T00:49:28+0000
+/project/nti-sphinx-questions/, nti-sphinx-questions, 0.0.1, Question and Question List Sphinx directives, 2020-06-16T22:25:59+0000
+/project/syzygy-docs-themes/, syzygy-docs-themes, 0.1.0.dev1, Sphinx themes for the documentation of Kogia, Caperea and Stenella., 2020-07-19T10:46:44+0000
+/project/sphinxcontrib-googledrive/, sphinxcontrib-googledrive, 0.1.0, Sphinx "Google Drive" extension; embed images on Google Drive, 2018-10-13T14:25:13+0000
+/project/sphinx-fasvg/, sphinx-fasvg, 0.1.4, Use font-awesome icons in SVG form, 2021-01-30T23:53:40+0000
+/project/sphinxext-opengraph/, sphinxext-opengraph, 0.4.1, Sphinx Extension to enable OGP support, 2021-01-30T04:40:23+0000
+/project/sphinx-sagecell-ext/, sphinx-sagecell-ext, 0.1rc4, The Sphinx extension embedding a Sage cell into a webpage, 2015-12-04T13:11:46+0000
+/project/sphinxcontrib-imageembed/, sphinxcontrib-imageembed, 0.2.1, Embed images directly into generated html docs., 2018-10-12T13:26:09+0000
+/project/sphinxcontrib-commandoutput/, sphinxcontrib-commandoutput, 0.17.11, Sphinx extension to include command output, 2020-03-10T15:55:57+0000
+/project/sphinxcontrib-email/, sphinxcontrib-email, 0.3.5, Sphinx email obfuscation extension, 2021-01-18T17:50:55+0000
+/project/sphinx-wagtail-theme/, sphinx-wagtail-theme, 5.0.3, Sphinx Wagtail theme, 2021-04-19T21:52:48+0000
+/project/sphinxcontrib-prettyspecialmethods/, sphinxcontrib-prettyspecialmethods, 0.1.0, Shows special methods as the python syntax that invokes them, 2020-06-21T11:55:56+0000
+/project/sphinxstl/, sphinxstl, 0.1.1, An extension to visualize STL files in your Sphinx documentation, 2019-02-18T20:52:09+0000
+/project/sphinxcontrib-proof/, sphinxcontrib-proof, 1.3.0, This packages contains the Proof sphinx extension, which provides directives to typeset theorems, lemmas, proofs, etc., 2020-04-28T07:13:47+0000
+/project/trait-documenter/, trait_documenter, 1.1.0, Autodoc extention for documenting traits, 2016-11-09T13:05:11+0000
+/project/sphinx-lv2-theme/, sphinx-lv2-theme, 1.0.0, A minimal static theme for Sphinx, 2021-01-06T22:46:43+0000
+/project/sphinx-jdlinker/, sphinx-JDLinker, 1.4, A sphinx extension designed to allow you to create links to a JavaDoc website from your sphinx documentation., 2019-10-06T19:52:46+0000
+/project/sphinx-revealjs/, sphinx-revealjs, 1.1.0, Sphinx extension with theme to generate Reveal.js presentation, 2021-04-04T09:57:05+0000
+/project/sphinxcontrib-matlabdomain/, sphinxcontrib-matlabdomain, 0.11.7, Sphinx "matlabdomain" extension, 2021-02-23T21:32:16+0000
+/project/sphinx-tomyst/, sphinx-tomyst, 0.1.0a0, Sphinx "MyST" extension: Convert your RST files into MyST documents., 2020-12-22T03:42:58+0000
+/project/sphinxcontrib-svgbob/, sphinxcontrib-svgbob, 0.1.1, A Sphinx extension to convert ASCII diagrams to SVGs with Svgbob., 2021-04-14T16:49:41+0000
+/project/sphinx-autoapi/, sphinx-autoapi, 1.8.1, Sphinx API documentation generator, 2021-04-25T02:56:46+0000
+/project/mal-scraper/, mal-scraper, 0.3.0, MyAnimeList web scraper, 2017-05-02T20:42:35+0000
+/project/sphinx-modern-theme/, sphinx-modern-theme, 1.0.5, A modern sphinx theme using Bootstrap, 2016-12-03T02:29:31+0000
+/project/ydoc-theme/, ydoc-theme, 1.0, Customized Read the Docs theme for Sphinx, 2019-03-07T14:33:20+0000
+/project/sphinx-c-autodoc/, sphinx-c-autodoc, 0.4.0, A sphinx autodoc extension for c modules, 2020-12-27T18:35:06+0000
+/project/mlx-json-to-mako/, mlx.json-to-mako, 0.4, Convertor for JSON database(s) to MAKO templated output, 2018-03-15T14:55:00+0000
+/project/sphinx-jinyaml/, sphinx-jinyaml, 0.0.3, Plugin for sphinx to use Jinja in documents, 2019-12-11T06:31:13+0000
+/project/sphinxcontrib-traceables0-2/, sphinxcontrib-traceables0.2, 0.2.0, Sphinx extension that adds traceability within documentation, 2020-07-12T10:36:41+0000
+/project/sphinxcontrib-openstreetmap/, sphinxcontrib-openstreetmap, 0.4.0, Sphinx "OpenStreetMap" extension, 2016-04-01T05:20:09+0000
+/project/sphinx-rtd-theme-ext-color-contrast/, sphinx-rtd-theme-ext-color-contrast, 0.3.0, sphinx_rtd_theme extension to enhance color contrast, 2021-04-15T17:21:43+0000
+/project/sphinx-heigvd-theme/, sphinx-heigvd-theme, 0.5.2, A Sphinx-doc theme based on sphinx press theme, 2019-08-15T11:44:31+0000
+/project/sphinxcontrib-documentedlist/, sphinxcontrib-documentedlist, 0.6, Sphinx DocumentedList extension, 2017-03-09T10:16:38+0000
+/project/sphinx-papyrus-theme/, sphinx-papyrus-theme, 0.0.1.dev0, A modern and responsive sphinx theme for live documentations., 2021-02-28T15:11:40+0000
+/project/sphinx-typlog-theme/, sphinx-typlog-theme, 0.8.0, A typlog Sphinx theme, 2019-10-08T01:30:05+0000
+/project/probator-auditor-ebs/, probator-auditor-ebs, 1.0.1, EBS Volume auditor, 2019-02-01T22:20:41+0000
+/project/sphinxcontrib-jsmath/, sphinxcontrib-jsmath, 1.0.1, A sphinx extension which renders display math in HTML via JavaScript, 2019-01-21T16:10:14+0000
+/project/sphinx-configurator/, sphinx-configurator, 0.0.0.dev0, Manage your sphinx plugin's directive settings with ease, 2019-05-07T11:52:28+0000
+/project/sphinx-execute-code/, sphinx_execute_code, 0.2a2, Sphinx support for execution of python code from code blocks or files, 2017-08-01T06:46:20+0000
+/project/supersk-sphinx-bulma/, supersk-sphinx-bulma, 0.1.0, Simple theme for sphinx-doc using Bulma CSS, 2020-11-06T21:52:20+0000
+/project/sphinx-docxbuilder/, sphinx-docxbuilder, 2019.1.28.post1, An extension for a docx file generation with Sphinx (Fork of https://bitbucket.org/haraisao/sphinx-docxbuilder), 2019-01-28T14:02:09+0000
+/project/tyrian-sphinx-theme/, tyrian-sphinx-theme, 0.0.7, A Tyrian based Sphinx theme for Gentoo, 2020-02-23T16:38:21+0000
+/project/eccontrib-sphinxdoc/, eccontrib-sphinxdoc, 0.0.3, A sphinx extension for documenting ec based scripts., 2018-11-26T11:16:01+0000
+/project/sphinx-documatt-theme/, sphinx-documatt-theme, 0.0.5, Documatt Theme for Sphinx documentation projects, 2021-04-12T13:28:35+0000
+/project/sphinx-dust/, sphinx-dust, 1.2.4, Sphinx extension to produce warnings when a doc needs proofreading., 2018-08-31T08:52:56+0000
+/project/sphinxcontrib-programoutput2/, sphinxcontrib-programoutput2, 2.0a1, Sphinx extension to include program output, 2021-03-11T15:57:29+0000
+/project/giit/, giit, 6.1.0, Wrapper git to automate running scripts., 2021-03-10T09:17:58+0000
+/project/sphinxcontrib-simpleversioning/, sphinxcontrib-simpleversioning, 0.0.2, Sphinx extension that adds version selection., 2019-02-14T00:48:03+0000
+/project/cinq-scheduler-sqs/, cinq-scheduler-sqs, 2.1.1, SQS Based Scheduler for Cloud Inquisitor, 2018-09-26T19:36:07+0000
+/project/sphinx-toolbox/, sphinx-toolbox, 2.6.1, Box of handy tools for Sphinx 🧰 📔, 2021-04-24T08:57:36+0000
+/project/sphinx-matlabdoc-builder/, sphinx-matlabdoc-builder, 0.1.2, A Sphinx extension for generating Matlab HTML docs., 2019-10-14T07:00:01+0000
+/project/sphinxcontrib-autoyaml/, sphinxcontrib-autoyaml, 0.6.1, Sphinx autodoc extension for documenting YAML files from comments, 2021-03-30T18:36:12+0000
+/project/sphinxcontrib-apidoc/, sphinxcontrib-apidoc, 0.3.0, A Sphinx extension for running 'sphinx-apidoc' on each build, 2018-10-04T08:37:01+0000
+/project/sphinx-autodocgen/, sphinx-autodocgen, 1.2, Sphinx AutoDocGen extension, 2020-09-06T21:48:03+0000
+/project/m2rr/, m2rr, 0.2.3, Convert Markdown to reStructuredText, m2rr., 2020-01-17T02:34:58+0000
+/project/sphinxext-autox/, sphinxext-autox, 0.0.1, Customised version of sphinx.ext.autodoc and sphinx.ext.autosummary, 2021-04-23T23:28:03+0000
+/project/runestone/, runestone, 5.6.0, Sphinx extensions for writing interactive documents., 2021-03-27T00:06:19+0000
+/project/sphinx-autodoc-types/, sphinx-autodoc-types, 3.0.1, Type hints (PEP 484) support for the Sphinx autodoc extension (comments too), 2019-06-05T11:43:15+0000
+/project/hafrenhaver/, HafrenHaver, 1.0.277, Goes on and on about the River Severn, 2021-02-10T03:47:37+0000
+/project/inary/, inary, 1.4.2-1, Inary (Special Package Manager), 2020-11-01T17:55:55+0000
+/project/sphinx-hwt/, sphinx-hwt, 2.6, Sphinx extension to produce interactive schematic for hardware written in HWT, 2020-10-03T09:29:20+0000
+/project/sphinxcontrib-swaggerui/, sphinxcontrib-swaggerui, 0.0.10, Provides the swaggerui directive for reST files to build an interactive HTML page with your OpenAPI specification document., 2019-09-26T12:13:43+0000
+/project/sphinx-rigado-theme/, sphinx-rigado-theme, 0.0.13, A Sphinx theme for Rigado, 2019-06-03T17:46:53+0000
+/project/metapensiero-sphinx-patchdb/, metapensiero.sphinx.patchdb, 3.7, Extract scripts from a reST document and apply them in order., 2019-12-20T10:04:06+0000
+/project/sphinxcontrib-nvd3/, sphinxcontrib.nvd3, 0.2.1, Sphinx chart extension using NVD3.js., 2021-02-16T04:21:10+0000
+/project/sphinxcontrib-ssmlbuilder/, sphinxcontrib-ssmlbuilder, 0.2.0, Sphinx "SSMLBuilder" extension, 2017-01-30T02:32:04+0000
+/project/sphinx-pdj-theme/, sphinx-pdj-theme, 0.2.1, PdJ for Sphinx, 2020-07-01T20:27:49+0000
+/project/sphinx-target-theme/, sphinx-target-theme, 0.0.5, Sphinx theme, 2020-05-12T11:59:04+0000
+/project/sphinx-swagger/, sphinx-swagger, 0.0.4, Generate swagger definitions from sphinx docs, 2017-07-01T10:27:45+0000
+/project/phink/, phink, 0.2.0, Phink provides a convenient wrapper around Sphinx to make project documentation a breeze., 2019-11-30T19:55:18+0000
+/project/sphinx-sizzle-theme/, sphinx-sizzle-theme, 0.0.9, Sizzle theme for Sphinx, 2020-04-17T04:00:50+0000
+/project/sphinxcontrib-napoleon2/, sphinxcontrib-napoleon2, 1.0, Modified Sphinx "napoleon" extension., 2017-01-07T02:17:29+0000
+/project/sphinx-interrogatedb/, sphinx-interrogatedb, 1.3.0, Sphinx extension to enhance autodoc for interrogated modules, 2021-02-15T12:56:02+0000
+/project/sphinxcontrib-httpexmpl/, sphinxcontrib-httpexmpl, 0.9.13, float fix, for temporary use only. original https://github.com/collective/sphinxcontrib-httpexample, 2020-08-03T20:46:24+0000
+/project/sphinxcontrib-asyncio/, sphinxcontrib-asyncio, 0.3.0, sphinx extension to support coroutines in markup, 2020-08-19T09:44:57+0000
+/project/sphinx-susiai-theme/, sphinx-susiai-theme, 0.0.1, A Sphinx theme specific to SUSI AI's Projects, 2017-08-14T16:11:02+0000
+/project/sphinx-fossasia-theme/, sphinx-fossasia-theme, 0.0.4, A Sphinx theme specific to FOSSASIA's Projects, 2017-08-01T11:40:39+0000
+/project/bolditalic/, bolditalic, 0.1.4, **DEPRECATED** A Sphinx extension that enables inline bold + italic., 2016-12-23T04:02:08+0000
+/project/sphinx-jsonschema/, sphinx-jsonschema, 1.16.8, Sphinx extension to display JSON Schema, 2021-03-23T16:38:07+0000
+/project/sphinx-debuginfo/, sphinx-debuginfo, 0.2.1, A Sphinx extension to include debugging information in the output., 2021-04-17T12:28:12+0000
+/project/sphinxcontrib-blockdiag/, sphinxcontrib-blockdiag, 2.0.0, Sphinx "blockdiag" extension, 2019-12-08T10:22:35+0000
+/project/edx-sphinx-theme/, edx-sphinx-theme, 2.1.0, A Sphinx theme for Open edX documentation, 2021-04-01T19:10:42+0000
+/project/yummy-sphinx-theme/, yummy-sphinx-theme, 0.1.1, A sphinx theme created to mirror Yummy-Jekyll, 2019-09-08T20:33:58+0000
+/project/sphinxcontrib-actdiag/, sphinxcontrib-actdiag, 2.0.0, Sphinx "actdiag" extension, 2019-12-08T16:37:10+0000
+/project/mlx-traceability/, mlx.traceability, 7.4.0, Sphinx traceability extension (Melexis fork), 2021-04-21T20:05:38+0000
+/project/sphinxnotes-strike/, sphinxnotes-strike, 1.0, Sphinx extension for HTML strikethrough text support, 2021-02-13T06:44:02+0000
+/project/probator-scheduler-sqs/, probator-scheduler-sqs, 1.1.0, SQS Based Scheduler for Probator, 2019-07-11T22:18:23+0000
+/project/pydata-sphinx-theme/, pydata-sphinx-theme, 0.6.1, Bootstrap-based Sphinx theme from the PyData community, 2021-04-16T22:47:16+0000
+/project/sphinxcontrib-ros/, sphinxcontrib-ros, 0.0.4, Sphinx extension forROS(Robot Operating System) documentation, 2016-02-22T21:02:26+0000
+/project/doxycast/, doxycast, 2.0.0, Generate reStructuredText documentations from your C++ sources, 2021-01-18T14:15:33+0000
+/project/sphinx-theme-material/, sphinx-theme-material, 1.1.2, A material based sphinx theme, 2020-02-16T12:19:54+0000
+/project/sphinxcontrib-traceables/, sphinxcontrib-traceables, 0.1.4, Sphinx extension that adds traceability within documentation, 2016-06-01T22:59:37+0000
+/project/py2annotate/, py2annotate, 1.1.1, An extension to Sphinx :code:`autodoc` to augment Sphinx documentation with type annotations, when using Python 2 style type annotations., 2019-09-11T10:11:51+0000
+/project/sphinx-zon-theme/, sphinx-zon-theme, 1.4.2, Sphinx Theme for ZEIT ONLINE, 2020-10-20T06:21:42+0000
+/project/sphinx-ustack-theme/, sphinx-ustack-theme, 1.0.0, Read the Docs theme for Sphinx, 2018-06-01T06:53:50+0000
+/project/pysemantic/, pysemantic, v0.1.1, A traits based data validation module for pandas data structures., 2015-07-01T14:22:33+0000
+/project/hawkmoth/, hawkmoth, 0.7.0, Hawkmoth - Sphinx Autodoc for C, 2021-01-29T18:47:48+0000
+/project/sphinx-simulink/, sphinx-simulink, 0.0.1, Sphinx plugin to include MATLAB/Simulink models into .rst, 2016-06-24T15:41:52+0000
+/project/m2r2/, m2r2, 0.2.7, Markdown and reStructuredText in a single file., 2020-11-20T14:10:36+0000
+/project/sphinx-veldus-theme/, sphinx-veldus-theme, 0.0.5, Read the Docs theme for Sphinx, 2020-10-22T23:45:43+0000
+/project/sphinx-erdiagram/, sphinx_erdiagram, 0.0.1.dev20160527, Sphinx "ER diagram" extension, 2016-05-27T03:05:02+0000
+/project/scanpydoc/, scanpydoc, 0.7, A series of Sphinx extensions to get easy to maintain, numpydoc style documentation., 2021-04-15T12:42:13+0000
+/project/bfabio-sphinx-rst-builder/, bfabio.sphinx-rst-builder, 0.0.1, Sphinx reStructuredText builder, 2020-01-05T12:53:45+0000
+/project/sphinxext-toptranslators/, sphinxext-toptranslators, 0.1.2, Sphinx Extension to grab top contributors, 2020-07-31T21:09:17+0000
+/project/doxphinx/, doxphinx, 1.6.0, doxphinx for Sphinx, 2019-09-02T05:00:17+0000
+/project/waeup-sphinx-autodoc/, waeup.sphinx.autodoc, 0.1.1, More Zope compatible autodocumenters for Sphinx., 2015-11-25T07:59:23+0000
+/project/yogosyu/, yogosyu, 2.0.5, Fix the Sphinx to enable any order to sort indices, 2015-07-04T03:55:36+0000
+/project/restructuredweb/, restructuredWeb, 1.0.0, Web directives for use with Sphinx., 2017-12-21T00:20:46+0000
+/project/sphinx-fakeinv/, sphinx-fakeinv, 1.0.0, Generate fake Intersphinx inventory, 2016-09-18T18:39:01+0000
+/project/allanc-sphinx/, allanc-sphinx, 0.4, Sphinx themes used for documentation of my projects., 2020-09-08T11:05:55+0000
+/project/sphinxext-linkcheckdiff/, sphinxext-linkcheckdiff, 0.1.0, Sphinx Extension to run diff-only linkchecks, 2020-08-12T03:49:05+0000
+/project/coax/, coax, 0.1.6, Plug-n-play reinforcement learning with OpenAI Gym and JAX, 2021-02-05T06:02:05+0000
+/project/pallets-sphinx-themes/, Pallets-Sphinx-Themes, 1.2.3, Sphinx themes for Pallets and related projects., 2020-01-02T15:24:35+0000
+/project/jinjaapidoc/, jinjaapidoc, 0.5.0, Sphinx API Doc with Jinja2 templates, 2019-04-14T13:20:11+0000
+/project/coax/, coax, 0.1.6, Plug-n-play reinforcement learning with OpenAI Gym and JAX, 2021-02-05T06:02:05+0000
+/project/pallets-sphinx-themes/, Pallets-Sphinx-Themes, 1.2.3, Sphinx themes for Pallets and related projects., 2020-01-02T15:24:35+0000
+/project/jinjaapidoc/, jinjaapidoc, 0.5.0, Sphinx API Doc with Jinja2 templates, 2019-04-14T13:20:11+0000
+/project/y0/, y0, 0.0.5, Python code for causal modeling., 2021-03-09T17:40:46+0000
+/project/sphinx-typo3-theme/, sphinx-typo3-theme, 4.5.2, Sphinx TYPO3 theme for https://docs.typo3.org/, 2021-03-26T13:00:26+0000
+/project/sphinx-variations/, sphinx-variations, 1.0.5, Create multiple variations of your Sphinx HTML documentation., 2020-09-10T21:01:48+0000
+/project/sphinx-adc-theme/, sphinx-adc-theme, 0.1.7, Apple Developer Connection theme for Sphinx, 2015 version., 2020-03-07T07:46:37+0000
+/project/sphinx-autodoc-napoleon-typehints/, sphinx-autodoc-napoleon-typehints, 2.1.6, Type hints (PEP 484) support for the Sphinx autodoc extension, 2017-05-11T13:54:52+0000
+/project/pygments-lexer-overrides/, pygments-lexer-overrides, 0.0.2, Provides improved Pygments lexers, 2019-04-11T15:14:41+0000
+/project/sphinxcontrib-websupport/, sphinxcontrib-websupport, 1.2.4, Sphinx API for Web Apps, 2020-08-09T15:35:26+0000
+/project/sphinxextensions/, SphinxExtensions, 0.2.0, Extensions for the Sphinx documentation tool., 2019-12-27T22:00:18+0000
+/project/sphinxcontrib-openapi/, sphinxcontrib-openapi, 0.7.0, OpenAPI (fka Swagger) spec renderer for Sphinx, 2020-05-07T21:32:55+0000
+/project/supersk-python-docs/, supersk-python-docs, 0.0.0, Simple theme for sphinx-doc based on official python docs theme, 2021-03-02T16:03:33+0000
+/project/divio-docs-theme/, divio-docs-theme, 0.0.22, Divio theme for Sphinx, 2020-09-04T10:08:31+0000
+/project/sphinxemoji/, sphinxemoji, 0.1.8, An extension to use emoji codes in your Sphinx documentation, 2020-10-13T19:23:51+0000
+/project/sphinx-highlights/, sphinx-highlights, 0.4.0, Sphinx extension to display a selection of highlights from a Python library., 2021-04-15T13:30:15+0000
+/project/bdp/, bdp, 0.2.1, Block Diagrams in Python, 2018-10-29T06:28:55+0000
+/project/chalicedoc/, chalicedoc, 0.3, Chalice route reStructuredText autodoc directive for docutils/Sphinx., 2018-02-20T06:03:41+0000
+/project/remotecode/, remotecode, 0.1.2, **DEPRECATED** A Sphinx extension that enables remote code blocks, 2016-12-23T04:03:28+0000
+/project/sphinx-funtoo-theme/, sphinx-funtoo-theme, 0.1, Funtoo theme for Sphinx, 2020-10-29T20:37:29+0000
+/project/remotecode/, remotecode, 0.1.2, **DEPRECATED** A Sphinx extension that enables remote code blocks, 2016-12-23T04:03:28+0000
+/project/sphinx-funtoo-theme/, sphinx-funtoo-theme, 0.1, Funtoo theme for Sphinx, 2020-10-29T20:37:29+0000
+/project/sphinxcontrib-gtagjs/, sphinxcontrib-gtagjs, 0.2.0, Sphinx extension to render global site tag of Google., 2020-04-16T15:44:23+0000
+/project/sphinxcontrib-comments/, sphinxcontrib-comments, 0.0.1.dev0, Add your favorite vendor comments embed code to your documentation pages., 2021-03-18T08:16:00+0000
+/project/sphinxext-remoteliteralinclude/, sphinxext-remoteliteralinclude, 0.2.0, Extending literalinclude to include remote URLs, 2021-02-16T05:45:57+0000
+/project/hyperwallet-sdk/, hyperwallet-sdk, 1.6.1, A Python wrapper around the Hyperwallet API, 2020-11-21T08:09:47+0000
+/project/readonly-docs-theme/, readonly-docs-theme, 2.4.0, Theme for ReadOnly Mods documentation, 2021-03-13T18:44:41+0000
+/project/jandd-sphinxext-mac/, jandd.sphinxext.mac, 0.1.0, MAC address extension for Sphinx, 2016-05-03T10:41:34+0000
+/project/sphinxjp-themes-gopher/, sphinxjp.themes.gopher, 0.2.3, A sphinx theme for generate gotalk style presentation. #sphinxjp, 2019-04-14T16:03:19+0000
+/project/sphinx-docs-theme/, sphinx-docs-theme, 1.0.7, Sphinx Theme for documentation sites., 2021-03-29T17:43:46+0000
+/project/sphinxcontrib-xlsxtable/, sphinxcontrib-xlsxtable, 1.0.0, A sphinx extension for making table from Excel file, 2020-07-19T12:54:49+0000
+/project/sphinxawesome-theme/, sphinxawesome-theme, 1.19.3, An awesome theme for the Sphinx documentation generator, 2021-04-06T16:26:42+0000
+/project/czelta/, czelta, 1.0, Analysis libraty for project CZELTA (http://czelta.utef.cvut.cz/), 2020-01-31T19:47:52+0000
+/project/pycmark/, pycmark, 0.9.5, CommonMark parser for docutils, 2019-04-21T05:20:47+0000
+/project/probator-auditor-vpc-flowlogs/, probator-auditor-vpc-flowlogs, 1.0.2, VPC Flow Log auditor, 2019-02-01T20:00:29+0000
+/project/sphinxcontrib-multilatex/, sphinxcontrib-multilatex, 0.1.3, Sphinx extension that allows LaTeX/PDF documents to be declared and parameterized within reStructuredText source files, 2016-06-06T21:24:05+0000
+/project/sphinxawesome-sampdirective/, sphinxawesome-sampdirective, 1.0.5, A Sphinx directive for literal blocks with emphasis, 2020-10-19T08:22:57+0000
+/project/sphinx-tsegsearch/, sphinx-tsegsearch, 1.0, Sphinx extension to split searchword with TinySegmenter, 2017-03-26T11:39:01+0000
+/project/sphinxcontrib-shellcheck/, sphinxcontrib-shellcheck, 1.1.2, Sphinx extension to lint shell code blocks, 2020-03-30T01:51:34+0000
+/project/pyotrs/, PyOTRS, 0.10.0, Python wrapper for OTRS (using REST API), 2020-07-13T18:40:54+0000
+/project/sphinxcontrib-chapeldomain/, sphinxcontrib-chapeldomain, 0.0.20, Chapel domain for Sphinx, 2021-03-09T21:20:25+0000
+/project/sphinx-material/, sphinx-material, 0.0.32, Material sphinx theme, 2020-09-15T12:11:54+0000
+/project/mlx-jira-traceability/, mlx.jira-traceability, 0.1.3, Sphinx plugin to create Jira tickets based on traceable items, 2021-04-12T20:03:54+0000
+/project/sphinxcontrib-applehelp/, sphinxcontrib-applehelp, 1.0.2, sphinxcontrib-applehelp is a sphinx extension which outputs Apple help books, 2020-02-29T04:12:53+0000
+/project/sphinx-lesson/, sphinx-lesson, 0.8.3, Sphinx extension for CodeRefinery lessons, 2020-11-04T13:07:02+0000
+/project/nextstrain-sphinx-theme/, nextstrain-sphinx-theme, 2020.6, Nextstrain theme for Sphinx and Read The Docs, 2020-11-23T23:59:15+0000
+/project/probator-auth-onelogin-saml/, probator-auth-onelogin-saml, 1.1.0, OneLogin SAML based user authentication, 2019-02-11T18:51:00+0000
+/project/sphinx-pyproject/, sphinx-pyproject, 0.1.0, Move some of your Sphinx configuration into pyproject.toml, 2021-04-05T08:02:45+0000
+/project/lsst-dd-rtd-theme/, lsst-dd-rtd-theme, 0.2.3, LSST Data Management technical note Sphinx theme., 2020-01-22T22:10:14+0000
+/project/sphinxcontrib-traceability/, sphinxcontrib-traceability, 0.1.4, Sphinx traceability extension, 2021-03-08T02:05:01+0000
+/project/extras-require/, extras-require, 0.3.0, Display a warning at the top of module documentation that it has additional requirements., 2021-03-09T23:06:28+0000
+/project/antidox/, antidox, 0.2.1, Sphinx extension to extract and insert Doxygen documentation., 2021-01-18T10:17:21+0000
+/project/sphinx-ncs-theme/, sphinx-ncs-theme, 0.6.2, Nordic Semiconductor NCS theme for Sphinx, 2021-03-26T19:15:56+0000
+/project/sphinx-intl/, sphinx-intl, 2.0.1, Sphinx utility that make it easy to translate and to apply translation., 2020-04-27T16:36:08+0000
+/project/runestone-petljadoc/, runestone-petljadoc, 3.1.1.5, Sphinx extensions for writing interactive documents., 2021-04-23T09:16:10+0000
+/project/openmodelica-microgrid-gym/, openmodelica-microgrid-gym, 0.3.0, OpenModelica Microgrid Gym, 2020-12-18T19:49:25+0000
+/project/furo/, furo, 2021.4.11b34, A clean customisable Sphinx documentation theme., 2021-04-11T07:54:15+0000
+/project/romnnn-sphinx-press-theme/, romnnn-sphinx-press-theme, 0.5.11, A Sphinx-doc theme based on Vuepress, 2021-02-03T23:31:26+0000
+/project/sphinx-cea-theme/, sphinx-cea-theme, 1.0.0, CEA Docs theme for Sphinx, 2020-06-11T10:48:19+0000
+/project/doctr-versions-menu/, doctr-versions-menu, 0.4.1, Sphinx extension and command to add a versions menu to Doctr-deployed documentation, 2021-03-18T18:16:04+0000
+/project/sphinxience/, sphinxience, 0.4.2, A Sphinx extension to assist in publishing scientific writing in either HTML or PDF., 2018-10-02T01:24:44+0000
+/project/sphinxcontrib-gitloginfo/, sphinxcontrib-gitloginfo, 1.1.0, Sphinx extension to provide data obtained from "git log" in the Sphinx page rendering context., 2021-03-12T10:06:31+0000
+/project/sphinx-autopackagesummary/, sphinx-autopackagesummary, 1.3, Sphinx extension to automatically generate autosummary tables for Python packages, 2020-05-10T19:31:40+0000
+/project/sphinx-navtree/, sphinx-navtree, 0.3.0, Navigation tree customization for Sphinx, 2016-03-19T21:34:30+0000
+/project/toctree-plus/, toctree-plus, 0.2.2, Enhanced Sphinx TocTree that shows classes and functions as if they were sections., 2021-04-16T22:39:08+0000
+/project/myst-parser/, myst-parser, 0.13.7, An extended commonmark compliant parser, with bridges to docutils & sphinx., 2021-04-24T23:52:49+0000
+/project/sphinxcontrib-sphinx-swagger2-api-doc/, sphinxcontrib-sphinx-swagger2-api-doc, 0.0.11.dev6, a tools for sphinx gen doc from swagger2 api, 2018-04-07T12:39:26+0000
+/project/sphinx-rtd-theme/, sphinx-rtd-theme, 0.5.2, Read the Docs theme for Sphinx, 2021-04-05T16:35:05+0000
+/project/sphinx-rtd-theme-http/, sphinx-rtd-theme-http, 1.0.0, , 2019-10-06T21:02:10+0000
+/project/aether-sphinx/, aether-sphinx, 2.3.0, Aether theme for Sphinx, 2021-02-19T01:24:29+0000
+/project/myst-nb/, myst-nb, 0.12.2, A Jupyter Notebook Sphinx reader built on top of the MyST markdown parser., 2021-04-26T02:00:15+0000
+/project/sphinxcontrib-scalebybuilder/, sphinxcontrib-scalebybuilder, 0.1.0, Sphinx scale image by builder extension, 2019-01-24T09:47:52+0000
+/project/maplearn/, maplearn, 0.3.8, Mapping Learning, 2019-11-10T15:50:50+0000
+/project/nbsphinx/, nbsphinx, 0.8.3, Jupyter Notebook Tools for Sphinx, 2021-04-09T12:16:00+0000
+/project/btd-sphinx-graphviz/, btd.sphinx.graphviz, 2.3.1.post1, Embedding diagrams rendered with Graphviz., 2020-01-12T19:23:10+0000
+/project/m2r/, m2r, 0.2.1, Markdown and reStructuredText in a single file., 2018-10-11T23:38:30+0000
+/project/sphinx-pyppeteer-builder/, sphinx-pyppeteer-builder, 0.1.1, A Sphinx PDF builder using pyppeteer, 2020-07-07T23:05:37+0000
+/project/sphinx-autodoc-future-annotations/, sphinx-autodoc-future-annotations, 0.1.3, , 2018-10-07T14:15:21+0000
+/project/sphinxcontrib-lookup-yaml/, sphinxcontrib-lookup-yaml, 0.0.1, Sphinx extension to lookup YAML values, 2018-05-06T19:25:08+0000
+/project/t3fieldlisttable/, t3fieldlisttable, 0.2.0, Implement t3-field-list-table Directive for Sphinx, 2014-12-08T16:05:03+0000
+/project/pyterate/, Pyterate, 2.1.5, Pyterate is a Sphinx add-ons to generate API documentation using autogen and litterate programming documentation for Python projects., 2020-06-05T17:31:37+0000
+/project/sphinx-autodoc-defaultargs/, sphinx-autodoc-defaultargs, 0.1.1, Automatic generation of default arguments for the Sphinx autodoc extension., 2021-04-01T18:14:16+0000
+/project/sphinx-argparse-cli/, sphinx-argparse-cli, 1.6.0, render CLI arguments (sub-commands friendly) defined by argparse module, 2021-04-15T09:34:44+0000
+/project/sphinx-basic-ng/, sphinx-basic-ng, 0.0.1a3, A modern skeleton for Sphinx themes., 2021-04-22T08:00:51+0000
+/project/quark-sphinx-theme/, quark-sphinx-theme, 0.6.0, A Sphinx theme designed for QTextBrowser, 2020-04-15T19:35:44+0000
+/project/cloud-sptheme/, cloud_sptheme, 1.10.1.post20200504175005, a nice sphinx theme named 'Cloud', and some related extensions, 2020-05-04T17:50:06+0000
+/project/seed-intersphinx-mapping/, seed-intersphinx-mapping, 0.5.0, Populate the Sphinx 'intersphinx_mapping' dictionary from the project's requirements., 2021-04-13T14:32:36+0000
+/project/sphinxcontrib-github-ribbon/, sphinxcontrib-github_ribbon, 0.9.0, Sphinx extension to put a GitHub Ribbon to each HTML pages, 2016-11-25T14:00:51+0000
+/project/sphinxcontrib-opendataservices-jsonschema/, sphinxcontrib-opendataservices-jsonschema, 0.1.0, Sphinx extension to define data structure using JSON Schema, 2020-05-29T07:54:48+0000
+/project/sphinx-notfound-page/, sphinx-notfound-page, 0.6, Sphinx extension to build a 404 page with absolute URLs, 2021-01-04T12:38:40+0000
+/project/sphinx-target-theme/, sphinx-target-theme, 0.0.5, Sphinx theme, 2020-05-12T11:59:04+0000
+/project/sphinx-swagger/, sphinx-swagger, 0.0.4, Generate swagger definitions from sphinx docs, 2017-07-01T10:27:45+0000
+/project/phink/, phink, 0.2.0, Phink provides a convenient wrapper around Sphinx to make project documentation a breeze., 2019-11-30T19:55:18+0000
+/project/sphinx-sizzle-theme/, sphinx-sizzle-theme, 0.0.9, Sizzle theme for Sphinx, 2020-04-17T04:00:50+0000
+/project/sphinxcontrib-napoleon2/, sphinxcontrib-napoleon2, 1.0, Modified Sphinx "napoleon" extension., 2017-01-07T02:17:29+0000
+/project/sphinx-interrogatedb/, sphinx-interrogatedb, 1.3.0, Sphinx extension to enhance autodoc for interrogated modules, 2021-02-15T12:56:02+0000
+/project/sphinxcontrib-httpexmpl/, sphinxcontrib-httpexmpl, 0.9.13, float fix, for temporary use only. original https://github.com/collective/sphinxcontrib-httpexample, 2020-08-03T20:46:24+0000
+/project/sphinxcontrib-qthelp/, sphinxcontrib-qthelp, 1.0.3, sphinxcontrib-qthelp is a sphinx extension which outputs QtHelp document., 2020-02-29T04:19:08+0000
+/project/sphinxcontrib-gravizo/, sphinxcontrib-gravizo, 0.0.4, Embed PlantUML, DOT, etc. diagrams in your documentation using Gravizo., 2020-08-19T21:01:55+0000
+/project/exhale/, exhale, 0.2.3, Automatic C++ library API documentation generator using Doxygen, Sphinx, and Breathe. Exhale revives Doxygen's class / file hierarchies using reStructuredText for superior markup syntax / websites., 2019-06-05T06:16:43+0000
+/project/gosyu/, gosyu, 2.0.6, Fix the Sphinx to enable any order to sort indices(using domain feature), 2015-07-04T04:01:36+0000
+/project/sphinx/, Sphinx, 3.5.4, Python documentation generator, 2021-04-11T11:27:38+0000
+/project/cinq-auth-onelogin-saml/, cinq-auth-onelogin-saml, 2.1.0, OneLogin SAML based user authentication, 2018-09-24T21:11:56+0000
+/project/sphinxcontrib-visio/, sphinxcontrib-visio, 2.1.2, Sphinx "visio" extension; embed MS-Visio file (.vsd, .vsdx), 2016-05-18T03:26:50+0000
+/project/sphinx-tabs/, sphinx-tabs, 2.1.0, Tabbed views for Sphinx, 2021-03-10T18:35:47+0000
+/project/sphinxcontrib-sqlalchemyviz/, sphinxcontrib-sqlalchemyviz, 0.5, Sphinx SQLAlchemyViz extension, 2019-08-04T22:47:11+0000
+/project/sphinxcontrib-serializinghtml/, sphinxcontrib-serializinghtml, 1.1.4, sphinxcontrib-serializinghtml is a sphinx extension which outputs "serialized" HTML files (json and pickle)., 2020-02-29T04:18:03+0000
+/project/cinq-scheduler-standalone/, cinq-scheduler-standalone, 2.1, Standalone scheduler and worker system, 2018-09-24T21:23:17+0000
+/project/sphinxcontrib-vcs/, sphinxcontrib-vcs, 0.3.0, Sphinx extension to show commit history in version control system, 2020-04-19T10:00:01+0000
+/project/rst-linker/, rst.linker, 2.2.0, Tools for adding metadata and hyperlinks to reStructuredText, 2021-03-10T22:12:38+0000
+/project/sphinxawesome-safenet-theme/, sphinxawesome-safenet-theme, 0.0.2, A Thales community doc theme based on sphinxawesome-theme, 2021-03-28T19:35:19+0000
+/project/sphinxext-rediraffe/, sphinxext-rediraffe, 0.2.7, Sphinx Extension that redirects non-existent pages to working pages., 2021-04-16T11:42:26+0000
+/project/sphinx-gemini-builder/, sphinx-gemini-builder, 1.1.1, Build gemini blog, 2021-02-03T00:08:33+0000
+/project/insipid-sphinx-theme/, insipid-sphinx-theme, 0.2.4, An insipid Sphinx theme, 2021-04-04T13:46:49+0000
+/project/sphinx-probs-rdf/, sphinx-probs-rdf, 0.1.1, sphinx_probs_rdf is a sphinx extension which outputs RDF describing Processes and Objects using the PRObs ontology., 2021-04-21T10:50:47+0000
+/project/documenteer/, documenteer, 0.6.6, Rubin Observatory / LSST Sphinx documentation tools, extensions, and configurations., 2021-02-17T18:47:09+0000
+/project/sphinx-computron/, sphinx-computron, 0.2.0, Sphinx support for execution of python code from code blocks or files. Original code by JP Senior., 2020-08-14T22:09:43+0000
+/project/sphinxcontrib-github-alt/, sphinxcontrib_github_alt, 1.2, Link to GitHub issues, pull requests, commits and users from Sphinx docs., 2020-04-27T09:12:42+0000
+/project/sphinxcontrib-bitfield/, sphinxcontrib-bitfield, 0.3.0, Sphinx "bitfield" extension, 2021-02-01T20:42:18+0000
+/project/sphinx-exercise/, sphinx-exercise, 0.1.1, A Sphinx extension for producing exercises and solutions., 2020-10-10T09:35:53+0000
+/project/sphinx-veldus-theme/, sphinx-veldus-theme, 0.0.5, Read the Docs theme for Sphinx, 2020-10-22T23:45:43+0000

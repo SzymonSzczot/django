@@ -1,0 +1,149 @@
+/project/hachoir/, hachoir, 3.1.2, Package of Hachoir parsers used to open binary files, 2021-02-15T11:03:12+0000
+/project/ga-tools/, ga-tools, 0.2, Tools for the GA144 multi-computer chip, 2019-02-20T09:58:08+0000
+/project/distorm3/, distorm3, 3.5.2, The goal of diStorm3 is to decode x86/AMD64 binary streams and return a structure that describes each instruction., 2021-03-19T17:20:35+0000
+/project/wasamole/, wasamole, 0.5.0, A tasty framework for WebAssembly Software Analysis, 2020-06-30T18:27:57+0000
+/project/pybfd/, pybfd, 0.1.1, A Python interface to the GNU Binary File Descriptor (BFD) library., 2013-08-05T15:15:58+0000
+/project/pydecipher/, pydecipher, 1.0.0, Python un-freezing and bytecode extraction + analysis framework, 2021-03-16T03:31:31+0000
+/project/labeless/, labeless, 1.1.3.0, Labels/Comments synchronization between IDA PRO and dbg backend (OllyDbg1.10, OllyDbg 2.01, x64dbg) , Remote memory dumping tool (including x64-bit), Python scripting tool, 2019-09-03T10:37:50+0000
+/project/panoramix-decompiler/, panoramix-decompiler, 0.4, Decompiler at the heart of Eveem.org https://www.eveem.org/, 2020-08-22T00:56:47+0000
+/project/pwntools/, pwntools, 4.4.0, Pwntools CTF framework and exploit development library., 2021-03-29T10:34:24+0000
+/project/smali/, smali, 0.2.5, A library for parsing and unparsing smali files for programatic modification, 2021-03-07T00:28:06+0000
+/project/negentropy/, negentropy, 0.2, C64 disassembler, 2018-08-01T13:26:47+0000
+/project/omnivore-framework/, omnivore-framework, 4.0, Dependency target for mapping applications, 2019-05-02T18:13:46+0000
+/project/javatools/, javatools, 1.5.0, Tools for finding meaningful deltas in Java class files and JARs, 2020-06-21T11:07:36+0000
+/project/gdbfrontend/, gdbfrontend, 0.5.3, GDBFrontend is a easy, flexible and extensionable gui debugger., 2021-02-17T16:36:00+0000
+/project/pseudomethod/, pseudomethod, 2008.12.20, call almost any function on-the-fly as a method, 2009-01-04T10:10:11+0000
+/project/yaswfp/, yaswfp, 0.9.3, Yet Another SWF Parser., 2014-08-27T02:13:04+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/reblok/, reblok, 0.1.3, Python decompiler, 2011-10-07T11:33:11+0000
+/project/apiscout/, apiscout, 1.1.5, A library for Windows API usage recovery and similarity assessment with focus on memory dumps., 2021-01-10T11:55:13+0000
+/project/unpyclib/, unpyclib, 0.8.1, Libraries for UnPyc - python disassembler and decompiler, 2009-06-09T20:58:59+0000
+/project/python-idb/, python-idb, 0.7.1, Pure Python parser for IDA Pro databases (.idb files), 2020-09-07T05:59:37+0000
+/project/py-dis/, py-dis, 0.3, Python bindings for Zydis library, 2018-10-27T20:46:17+0000
+/project/dismagic/, dismagic, 0.0.1, An extension for IPython that help to disassembly source and objects., 2016-04-01T15:20:22+0000
+/project/bethesda-structs/, bethesda-structs, 0.1.4, A parser for Bethesda's file formats, 2019-08-19T01:42:58+0000
+/project/fidl/, FIDL, 1.1, Wrapper for the IDA decompiler API, 2019-12-02T13:22:01+0000
+/project/mahdiyeh-mbca/, mahdiyeh-mbca, 0.0.2, Azadeh Afzar - Mahdiyeh Mano Basic Computer Assembler, 2019-10-19T17:44:55+0000
+/project/lawu/, lawu, 3.0.0, Doing fun stuff with JVM ClassFiles., 2020-02-11T22:43:12+0000
+/project/iced-x86/, iced-x86, 1.11.1, iced-x86 is a blazing fast and correct x86/x64 disassembler, assembler and instruction decoder, 2021-04-15T15:48:34+0000
+/project/netfleece/, netfleece, 0.1.2, Python 3.7+ Microsoft .NET Remoting Binary Format (MS-NRBF) to JSON parser, 2021-02-25T01:45:30+0000
+/project/rsrcfork/, rsrcfork, 1.8.0, A pure Python, cross-platform library/tool for reading Macintosh resource data, as stored in resource forks and ``.rsrc`` files, 2020-07-18T15:42:25+0000
+/project/bap/, bap, 1.3.1, Python bindings to Binary Analysis Platform (BAP), 2017-09-15T20:25:15+0000
+/project/rzpipe/, rzpipe, 0.1.0, Pipe interface for rizin, 2021-01-28T22:45:14+0000
+/project/pydetector/, pydetector, 0.10.0, Python command line application & package to guess the Python version of a file, 2017-07-12T08:58:41+0000
+/project/robotpy-cppheaderparser/, robotpy-cppheaderparser, 5.0.14, Parse C++ header files and generate a data structure representing the class, 2021-04-10T02:59:41+0000
+/project/cppheaderparser/, CppHeaderParser, 2.7.4, Parse C++ header files and generate a data structure representing the class, 2016-11-22T01:21:46+0000
+/project/annotate-lineinfo/, annotate-lineinfo, 0.1, Annotate IDA with source and line number information from a PDB, 2019-06-21T04:38:15+0000
+/project/kcshell/, kcshell, 0.0.4, Simple Python3 based interactive assembly/disassembly shell for various architectures powered by Keystone/Capstone., 2017-04-05T19:23:15+0000
+/project/pydetector-bblfsh/, pydetector-bblfsh, 0.14.3, Python command line application & package to guess the Python version of a file, 2018-04-06T15:40:26+0000
+/project/chiasm-shell/, chiasm-shell, 1.0.0a9, CLI for assembly/disassembly powered by Keystone/Capstone., 2017-01-27T04:59:41+0000
+/project/octopus/, octopus, 0.3.5, Security analysis framework for WebAssembly module (wasm) and Blockchain Smart Contract (BTC/ETH/EOS/NEO)., 2020-07-21T18:49:45+0000
+/project/structx/, StructX, 1.0, Unknown binary data dissection/analyze/reassembly library, 2012-06-15T14:21:52+0000
+/project/luvdis/, Luvdis, 0.8.0, Pure-Python Game Boy Advance Disassembler, 2020-11-07T01:40:16+0000
+/project/skoolkit/, skoolkit, 8.4, A suite of tools for creating disassemblies of ZX Spectrum games, 2021-03-06T13:19:36+0000
+/project/vivisect/, vivisect, 1.0.1, Pure python disassembler, debugger, emulator, and static analysis framework, 2021-04-05T16:10:00+0000
+/project/astdump/, astdump, 4.3, Extract information from Python modules without importing, 2016-02-14T04:32:47+0000
+/project/unix-elf/, unix-elf, 1.0.0, An ELF binary parser, 2018-05-25T21:33:12+0000
+/project/qtarmsim/, qtarmsim, 0.5.3, Easy to use graphical ARM simulator, 2020-11-06T22:00:03+0000
+/project/hsalf/, hsalf, 0.0.1, Hsalf is a pure Python library to read and write Flash files (SWF)., 2011-09-22T12:41:10+0000
+/project/droidlysis/, droidlysis, 3.3.0, DroidLysis: pre-analysis script for suspicious Android samples, 2021-01-05T11:15:42+0000
+/project/pyscanprev/, pyscanprev, 0.1.0, Scan and reduce/fold as generator expressions and list/set comprehensions that can access the previous iteration output., 2016-10-23T13:04:34+0000
+/project/find-ida-user-dir/, find-ida-user-dir, 0.3.0, Find the user directory for IDA Pro in a platform-independent way, 2018-11-13T17:50:35+0000
+/project/dwarf-debugger/, dwarf-debugger, 1.1.1, Full featured multi arch/os debugger built on top of PyQt5 and frida, 2021-03-30T06:19:00+0000
+/project/hachoir3-superdesk/, hachoir3-superdesk, 3.0a1.post2, Package of Hachoir parsers used to open binary files, 2015-08-03T08:20:12+0000
+/project/pyudis86/, pyudis86, 1.0.0, Python bindings for udis86 library, 2010-08-18T18:51:12+0000
+/project/barf/, barf, 0.6.0, A multiplatform open source Binary Analysis and Reverse engineering Framework, 2019-11-24T16:33:36+0000
+/project/pcodedmp/, pcodedmp, 1.2.6, A VBA p-code disassembler, 2019-07-30T18:05:40+0000
+/project/pybytecode/, pybytecode, 0.1, A Python bytecode compiler and bytecode generator., 2014-05-10T16:28:59+0000
+/project/dis3/, dis3, 0.1.3, Python 2.7 backport of the "dis" module from Python 3.5+, 2019-01-14T18:10:02+0000
+/project/astexport/, astexport, 1.3.0, Python command line application to export Python AST as Json., 2018-08-05T18:24:35+0000
+/project/pbd/, pbd, 0.9, Pbd is a Python module to disassemble serialized protocol buffers descriptors (https://developers.google.com/protocol-buffers/)., 2016-01-21T19:57:50+0000
+/project/luvdis/, Luvdis, 0.8.0, Pure-Python Game Boy Advance Disassembler, 2020-11-07T01:40:16+0000
+/project/skoolkit/, skoolkit, 8.4, A suite of tools for creating disassemblies of ZX Spectrum games, 2021-03-06T13:19:36+0000
+/project/vivisect/, vivisect, 1.0.1, Pure python disassembler, debugger, emulator, and static analysis framework, 2021-04-05T16:10:00+0000
+/project/astdump/, astdump, 4.3, Extract information from Python modules without importing, 2016-02-14T04:32:47+0000
+/project/dwarf-debugger/, dwarf-debugger, 1.1.1, Full featured multi arch/os debugger built on top of PyQt5 and frida, 2021-03-30T06:19:00+0000
+/project/hachoir3-superdesk/, hachoir3-superdesk, 3.0a1.post2, Package of Hachoir parsers used to open binary files, 2015-08-03T08:20:12+0000
+/project/pyudis86/, pyudis86, 1.0.0, Python bindings for udis86 library, 2010-08-18T18:51:12+0000
+/project/barf/, barf, 0.6.0, A multiplatform open source Binary Analysis and Reverse engineering Framework, 2019-11-24T16:33:36+0000
+/project/octopus/, octopus, 0.3.5, Security analysis framework for WebAssembly module (wasm) and Blockchain Smart Contract (BTC/ETH/EOS/NEO)., 2020-07-21T18:49:45+0000
+/project/structx/, StructX, 1.0, Unknown binary data dissection/analyze/reassembly library, 2012-06-15T14:21:52+0000
+/project/pcodedmp/, pcodedmp, 1.2.6, A VBA p-code disassembler, 2019-07-30T18:05:40+0000
+/project/chiasm-shell/, chiasm-shell, 1.0.0a9, CLI for assembly/disassembly powered by Keystone/Capstone., 2017-01-27T04:59:41+0000
+/project/pyscanprev/, pyscanprev, 0.1.0, Scan and reduce/fold as generator expressions and list/set comprehensions that can access the previous iteration output., 2016-10-23T13:04:34+0000
+/project/find-ida-user-dir/, find-ida-user-dir, 0.3.0, Find the user directory for IDA Pro in a platform-independent way, 2018-11-13T17:50:35+0000
+/project/hachoir/, hachoir, 3.1.2, Package of Hachoir parsers used to open binary files, 2021-02-15T11:03:12+0000
+/project/ga-tools/, ga-tools, 0.2, Tools for the GA144 multi-computer chip, 2019-02-20T09:58:08+0000
+/project/distorm3/, distorm3, 3.5.2, The goal of diStorm3 is to decode x86/AMD64 binary streams and return a structure that describes each instruction., 2021-03-19T17:20:35+0000
+/project/wasamole/, wasamole, 0.5.0, A tasty framework for WebAssembly Software Analysis, 2020-06-30T18:27:57+0000
+/project/smali/, smali, 0.2.5, A library for parsing and unparsing smali files for programatic modification, 2021-03-07T00:28:06+0000
+/project/yaswfp/, yaswfp, 0.9.3, Yet Another SWF Parser., 2014-08-27T02:13:04+0000
+/project/pwntools/, pwntools, 4.4.0, Pwntools CTF framework and exploit development library., 2021-03-29T10:34:24+0000
+/project/negentropy/, negentropy, 0.2, C64 disassembler, 2018-08-01T13:26:47+0000
+/project/omnivore-framework/, omnivore-framework, 4.0, Dependency target for mapping applications, 2019-05-02T18:13:46+0000
+/project/javatools/, javatools, 1.5.0, Tools for finding meaningful deltas in Java class files and JARs, 2020-06-21T11:07:36+0000
+/project/pybfd/, pybfd, 0.1.1, A Python interface to the GNU Binary File Descriptor (BFD) library., 2013-08-05T15:15:58+0000
+/project/pydecipher/, pydecipher, 1.0.0, Python un-freezing and bytecode extraction + analysis framework, 2021-03-16T03:31:31+0000
+/project/gdbfrontend/, gdbfrontend, 0.5.3, GDBFrontend is a easy, flexible and extensionable gui debugger., 2021-02-17T16:36:00+0000
+/project/pseudomethod/, pseudomethod, 2008.12.20, call almost any function on-the-fly as a method, 2009-01-04T10:10:11+0000
+/project/py3to2/, py3to2, 2009.01.03, run python3.0 & 2to3 generated scripts w/ 2.6 extension support, 2009-01-04T09:53:59+0000
+/project/labeless/, labeless, 1.1.3.0, Labels/Comments synchronization between IDA PRO and dbg backend (OllyDbg1.10, OllyDbg 2.01, x64dbg) , Remote memory dumping tool (including x64-bit), Python scripting tool, 2019-09-03T10:37:50+0000
+/project/panoramix-decompiler/, panoramix-decompiler, 0.4, Decompiler at the heart of Eveem.org https://www.eveem.org/, 2020-08-22T00:56:47+0000
+/project/netfleece/, netfleece, 0.1.2, Python 3.7+ Microsoft .NET Remoting Binary Format (MS-NRBF) to JSON parser, 2021-02-25T01:45:30+0000
+/project/rsrcfork/, rsrcfork, 1.8.0, A pure Python, cross-platform library/tool for reading Macintosh resource data, as stored in resource forks and ``.rsrc`` files, 2020-07-18T15:42:25+0000
+/project/reblok/, reblok, 0.1.3, Python decompiler, 2011-10-07T11:33:11+0000
+/project/apiscout/, apiscout, 1.1.5, A library for Windows API usage recovery and similarity assessment with focus on memory dumps., 2021-01-10T11:55:13+0000
+/project/unpyclib/, unpyclib, 0.8.1, Libraries for UnPyc - python disassembler and decompiler, 2009-06-09T20:58:59+0000
+/project/dismagic/, dismagic, 0.0.1, An extension for IPython that help to disassembly source and objects., 2016-04-01T15:20:22+0000
+/project/bethesda-structs/, bethesda-structs, 0.1.4, A parser for Bethesda's file formats, 2019-08-19T01:42:58+0000
+/project/fidl/, FIDL, 1.1, Wrapper for the IDA decompiler API, 2019-12-02T13:22:01+0000
+/project/mahdiyeh-mbca/, mahdiyeh-mbca, 0.0.2, Azadeh Afzar - Mahdiyeh Mano Basic Computer Assembler, 2019-10-19T17:44:55+0000
+/project/lawu/, lawu, 3.0.0, Doing fun stuff with JVM ClassFiles., 2020-02-11T22:43:12+0000
+/project/iced-x86/, iced-x86, 1.11.1, iced-x86 is a blazing fast and correct x86/x64 disassembler, assembler and instruction decoder, 2021-04-15T15:48:34+0000
+/project/thglib/, thglib, 0.0.2.dev0, thg exploit framework and exploit development library., 2021-04-26T03:44:36+0000
+/project/python-idb/, python-idb, 0.7.1, Pure Python parser for IDA Pro databases (.idb files), 2020-09-07T05:59:37+0000
+/project/py-dis/, py-dis, 0.3, Python bindings for Zydis library, 2018-10-27T20:46:17+0000
+/project/bap/, bap, 1.3.1, Python bindings to Binary Analysis Platform (BAP), 2017-09-15T20:25:15+0000
+/project/rzpipe/, rzpipe, 0.1.0, Pipe interface for rizin, 2021-01-28T22:45:14+0000
+/project/pydetector/, pydetector, 0.10.0, Python command line application & package to guess the Python version of a file, 2017-07-12T08:58:41+0000
+/project/robotpy-cppheaderparser/, robotpy-cppheaderparser, 5.0.14, Parse C++ header files and generate a data structure representing the class, 2021-04-10T02:59:41+0000
+/project/cppheaderparser/, CppHeaderParser, 2.7.4, Parse C++ header files and generate a data structure representing the class, 2016-11-22T01:21:46+0000
+/project/annotate-lineinfo/, annotate-lineinfo, 0.1, Annotate IDA with source and line number information from a PDB, 2019-06-21T04:38:15+0000
+/project/kcshell/, kcshell, 0.0.4, Simple Python3 based interactive assembly/disassembly shell for various architectures powered by Keystone/Capstone., 2017-04-05T19:23:15+0000
+/project/pydetector-bblfsh/, pydetector-bblfsh, 0.14.3, Python command line application & package to guess the Python version of a file, 2018-04-06T15:40:26+0000
+/project/dwarf-debugger/, dwarf-debugger, 1.1.1, Full featured multi arch/os debugger built on top of PyQt5 and frida, 2021-03-30T06:19:00+0000
+/project/pylmc/, pylmc, 0.1.0a1, Assembler and interpreter for the Little Man Computer, 2010-09-10T21:23:02+0000
+/project/mythril/, mythril, 0.22.19, Security analysis tool for Ethereum smart contracts, 2021-04-05T16:40:50+0000
+/project/netfile/, netfile, 0.1.3, netfile is a minimalistic .NET executable binary parser, 2019-12-24T18:53:23+0000
+/project/droidlysis/, droidlysis, 3.3.0, DroidLysis: pre-analysis script for suspicious Android samples, 2021-01-05T11:15:42+0000
+/project/dis-cli/, dis-cli, 0.2.1, A tool to inspect disassembled Python code on the command line., 2020-11-27T03:33:51+0000
+/project/panoramix-decompiler-x/, panoramix-decompiler-x, 0.4, Decompiler at the heart of Eveem.org https://www.eveem.org/, 2020-11-02T01:02:40+0000
+/project/sh2dis/, sh2dis, 1.0, A disassembler for SuperH SH2 ROMs., 2017-12-04T23:17:20+0000
+/project/jawa/, jawa, 2.2.0, Doing fun stuff with JVM ClassFiles., 2019-01-10T06:14:55+0000
+/project/idapython-core-utils/, idapython-core-utils, 1.3, Utilities for developing IDAPython scripts, 2019-10-28T13:20:08+0000
+/project/unix-elf/, unix-elf, 1.0.0, An ELF binary parser, 2018-05-25T21:33:12+0000
+/project/qtarmsim/, qtarmsim, 0.5.3, Easy to use graphical ARM simulator, 2020-11-06T22:00:03+0000
+/project/k0dasm/, k0dasm, 1.0.1, Renesas (NEC) 78K0 disassembler, 2021-01-29T19:26:40+0000
+/project/smda/, smda, 1.5.14, A recursive disassmbler optimized for CFG recovery from memory dumps. Based on capstone., 2021-04-07T18:00:22+0000
+/project/py65/, py65, 1.1.0, 6502 microprocessor simulation package, 2018-07-01T21:17:43+0000
+/project/shellen/, shellen, 0.3.0, Interactive environment for crafting shellcodes. Also, it just can be used as a simple assembler/disassembler, 2018-09-13T17:31:14+0000
+/project/hsalf/, hsalf, 0.0.1, Hsalf is a pure Python library to read and write Flash files (SWF)., 2011-09-22T12:41:10+0000
+/project/pybytecode/, pybytecode, 0.1, A Python bytecode compiler and bytecode generator., 2014-05-10T16:28:59+0000
+/project/dis3/, dis3, 0.1.3, Python 2.7 backport of the "dis" module from Python 3.5+, 2019-01-14T18:10:02+0000
+/project/astexport/, astexport, 1.3.0, Python command line application to export Python AST as Json., 2018-08-05T18:24:35+0000
+/project/pbd/, pbd, 0.9, Pbd is a Python module to disassemble serialized protocol buffers descriptors (https://developers.google.com/protocol-buffers/)., 2016-01-21T19:57:50+0000
+/project/pybfd3/, pybfd3, 0.1.5, A Python (3.x compatible) interface to the GNU Binary File Descriptor (BFD) and opcodes library., 2020-09-09T11:02:52+0000
+/project/luvdis/, Luvdis, 0.8.0, Pure-Python Game Boy Advance Disassembler, 2020-11-07T01:40:16+0000
+/project/skoolkit/, skoolkit, 8.4, A suite of tools for creating disassemblies of ZX Spectrum games, 2021-03-06T13:19:36+0000
+/project/vivisect/, vivisect, 1.0.1, Pure python disassembler, debugger, emulator, and static analysis framework, 2021-04-05T16:10:00+0000
+/project/astdump/, astdump, 4.3, Extract information from Python modules without importing, 2016-02-14T04:32:47+0000
+/project/dwarf-debugger/, dwarf-debugger, 1.1.1, Full featured multi arch/os debugger built on top of PyQt5 and frida, 2021-03-30T06:19:00+0000
+/project/hachoir3-superdesk/, hachoir3-superdesk, 3.0a1.post2, Package of Hachoir parsers used to open binary files, 2015-08-03T08:20:12+0000
+/project/pyudis86/, pyudis86, 1.0.0, Python bindings for udis86 library, 2010-08-18T18:51:12+0000
+/project/barf/, barf, 0.6.0, A multiplatform open source Binary Analysis and Reverse engineering Framework, 2019-11-24T16:33:36+0000
+/project/octopus/, octopus, 0.3.5, Security analysis framework for WebAssembly module (wasm) and Blockchain Smart Contract (BTC/ETH/EOS/NEO)., 2020-07-21T18:49:45+0000
+/project/structx/, StructX, 1.0, Unknown binary data dissection/analyze/reassembly library, 2012-06-15T14:21:52+0000
+/project/pcodedmp/, pcodedmp, 1.2.6, A VBA p-code disassembler, 2019-07-30T18:05:40+0000
+/project/chiasm-shell/, chiasm-shell, 1.0.0a9, CLI for assembly/disassembly powered by Keystone/Capstone., 2017-01-27T04:59:41+0000
+/project/pyscanprev/, pyscanprev, 0.1.0, Scan and reduce/fold as generator expressions and list/set comprehensions that can access the previous iteration output., 2016-10-23T13:04:34+0000
+/project/find-ida-user-dir/, find-ida-user-dir, 0.3.0, Find the user directory for IDA Pro in a platform-independent way, 2018-11-13T17:50:35+0000

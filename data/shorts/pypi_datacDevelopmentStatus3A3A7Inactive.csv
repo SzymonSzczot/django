@@ -1,0 +1,851 @@
+/project/naivepyrunner/, naivepyrunner, 0.2.0, Naive timed execution of custom handlers in multiple threads, 2018-05-30T13:31:16+0000
+/project/ndbpager/, ndbpager, 0.1.1, Pager for NDB, 2015-06-27T09:55:04+0000
+/project/tartiflette-starlette/, tartiflette-starlette, 0.6.1, (DEPRECATED) ASGI support for the Tartiflette Python GraphQL engine, 2019-10-27T14:52:20+0000
+/project/awscyrpto/, awscyrpto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:33+0000
+/project/memtop/, memtop, 1.0.4, view memory consumption of processes, 2018-06-09T14:51:47+0000
+/project/awsencrpytion/, awsencrpytion, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:32+0000
+/project/collective-portlet-quote/, collective.portlet.quote, 1.0.1, A portlet showing random quotes from a folder, 2009-11-25T18:12:26+0000
+/project/aws-crypto/, aws-crypto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:10+0000
+/project/awsencryption/, awsencryption, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:35+0000
+/project/multilint/, multilint, 5.0.1, Run multiple python linters easily, 2020-07-22T14:00:37+0000
+/project/grpc-health-checking/, grpc-health-checking, 1.0.0, Please install the official package with: pip install grpcio-health-checking, 2020-06-01T16:56:30+0000
+/project/awsencrytpionsdk/, awsencrytpionsdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:38+0000
+/project/3to2-py3k/, 3to2_py3k, 1.0, See 3to2, 2010-10-24T06:45:48+0000
+/project/jyu-formwidget-object/, jyu.formwidget.object, 1.0b7, Introduces experimental schema.Object support for plone.autoform and plone.app.z3cform., 2011-02-23T07:47:57+0000
+/project/pg-query/, pg_query, 0.29, Pythonic wrapper around libpg_query and PostgreSQL prettifier, 2018-06-16T11:11:37+0000
+/project/django-chart-tools/, django-chart-tools, 1.0, A thin wrapper around Google Chart API that tries not to invent a new language for describing charts., 2014-03-11T18:41:48+0000
+/project/aws-encyrption-cli/, aws-encyrption-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:27+0000
+/project/hgdistver/, hgdistver, 0.25, obsoleted by setuptools_scm, 2015-02-14T20:31:17+0000
+/project/nose-randomly/, nose-randomly, 1.2.6, Nose plugin to randomly order tests and control random.seed., 2019-02-07T20:17:02+0000
+/project/google-cloud/, google-cloud, 0.34.0, API Client library for Google Cloud, 2018-07-30T19:08:16+0000
+/project/psf/, psf, 2020.1.1, Point Spread Function calculations for fluorescence microscopy, 2020-01-18T01:04:42+0000
+/project/lsl-toolkits-olddrspec/, lsl-toolkits-olddrspec, 0.2.2, LSL Toolkit for Older LWA DR Spectrometer Data, 2018-06-20T15:02:52+0000
+/project/elk-stack/, elk-stack, 0.0.1, Complete ElasticSearch Stack, 2020-06-16T19:42:15+0000
+/project/skitaid/, skitaid, 0.8.8.3, Skitai App Engine Daemon, 2017-04-05T11:30:38+0000
+/project/jtskit/, jtskit, 0.5.0, A utility library for working with JSON Table Schema in Python, 2015-11-04T10:06:41+0000
+/project/tempstorage/, tempstorage, 5.1, A RAM-based storage for ZODB, 2019-08-15T06:21:38+0000
+/project/docreader/, docreader, 1.0, A better csv.DictReader (supporting UTF-8 and type conversion), 2013-06-05T21:42:26+0000
+/project/probfit/, probfit, 1.2.0, Distribution Fitting/Regression Library, 2021-03-11T05:22:34+0000
+/project/mpl-finance/, mpl-finance, 0.10.1, Finance plots using matplotlib, 2020-02-21T20:06:39+0000
+/project/plonetheme-solemnity/, plonetheme.solemnity, 0.7, An installable theme for Plone 3.0 based on the solemnity theme by Six Shooter Media., 2009-08-19T16:08:01+0000
+/project/calcore/, calcore, 2.2.1, Calendaring system, 2006-11-03T11:09:49+0000
+/project/z3c-menu/, z3c.menu, 0.3.0, DEPRECATED: Collection of Viewlet-based Menus, 2009-02-21T10:03:03+0000
+/project/pathod/, pathod, 0.17, A pathological HTTP/S daemon for testing and stressing clients., 2016-04-10T03:18:24+0000
+/project/plonetheme-stylized/, plonetheme.stylized, 0.5, An installable theme for Plone 3.0 based on the stylized theme by NodeThirtyThree., 2008-10-29T13:14:16+0000
+/project/pytest-warnings/, pytest-warnings, 0.3.1, pytest plugin to list Python warnings in pytest report, 2020-09-29T10:50:20+0000
+/project/template-python/, Template-Python, 0.1.post1, Python port of the Template Toolkit, 2015-10-13T14:45:01+0000
+/project/pipxinpipx/, pipxinpipx, 0.0.2, Did you mean to install pipx-in-pipx?, 2019-10-27T18:46:14+0000
+/project/django-cofingo/, django-cofingo, 0.2.2, Jinja2 template renderer for Django, 2012-06-26T14:34:54+0000
+/project/pyfhi/, pyfhi, 1.0.4, PyFHI is a single script designed to fix issues with Python file handling.See README for more details., 2016-12-20T23:00:46+0000
+/project/django-formwizard-deprecated/, django-formwizard-deprecated, 0.1.0, Original django.contrib.formtools.legacy.FormWizard from Django 1.5.12, 2015-04-24T17:20:46+0000
+/project/products-introspector/, Products.introspector, 0.1dev, A handy tool for inspecting Plone databases, 2008-12-12T00:24:47+0000
+/project/spa-phone-api/, spa-phone-api, 0.4.0, Provides an API for Cisco/Linksys/Sipura VoIP SPA Phones, 2013-05-04T09:51:52+0000
+/project/awsencyrption/, awsencyrption, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:40+0000
+/project/unilint/, unilint, 0.1.12, script wrapping static code analyzers producing unified output (non-maintained), 2016-07-14T21:27:13+0000
+/project/jicimagelib/, jicimagelib, 0.3.4, Python package designed to make it easy to work with microscopy images., 2015-08-28T09:35:59+0000
+/project/django-atomic-signals/, django-atomic-signals, 2.0.0, Signals for atomic transaction blocks in Django 1.6+, 2016-01-26T18:37:41+0000
+/project/awsencyrptionsdk/, awsencyrptionsdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:41+0000
+/project/xbox-smartglass-rest/, xbox-smartglass-rest, 1.10.0, Meta package - Xbox One Smartglass REST API, 2020-02-29T01:24:45+0000
+/project/robotframework-workbench/, robotframework-workbench, 0.5, Tools for working with the robotframework testing framework, 2012-07-29T20:27:59+0000
+/project/awsencryptionsdk/, awsencryptionsdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:36+0000
+/project/dynamodbencryptionsdk/, dynamodbencryptionsdk, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:42+0000
+/project/kusu/, kusu, 0.1.4, DEPRECATED, 2020-02-08T23:08:36+0000
+/project/products-humanator/, Products.humanator, 0.6.2, CAPTCHA alternative for Plone 3.x, 2009-07-06T15:14:01+0000
+/project/aws-encrpytion-cli/, aws-encrpytion-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:18+0000
+/project/nbbinder/, nbbinder, 0.13a5, Generates a navigable book-like structure         to a collection of jupyter notebooks, 2020-07-05T14:38:44+0000
+/project/fake-factory/, fake-factory, 9999.9.9, The `fake-factory` package was deprecated on December 15th, 2016. Use the `Faker` package instead., 2016-12-16T16:17:37+0000
+/project/mandrill/, mandrill, 1.0.60, Deprecated. Replaced by mailchimp-transactional - A CLI client and Python API library for the Mandrill email as a service platform., 2021-04-01T15:37:43+0000
+/project/dynamodb-encrpytion/, dynamodb-encrpytion, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:39+0000
+/project/ryzomapi/, ryzomapi, 0.1.4, Unofficial python Ryzom API (removed), 2017-09-29T16:12:36+0000
+/project/wsgi-harakiri/, wsgi-harakiri, 1.0.0, WSGI Middleware that implements a customizable 'harakiri' like  uWSGI, 2016-03-28T12:54:14+0000
+/project/zope-app-workflow/, zope.app.workflow, 3.5.0, Workflow Engine for Zope 3, 2009-02-01T19:35:54+0000
+/project/python-pipeline/, python-pipeline, 1.0, iterator pipelines, 2012-06-10T12:27:16+0000
+/project/datapackage-validate/, datapackage-validate, 0.4.0, (DEPRECATED) A Python library to validate Data Package datapackage.json files., 2016-04-18T10:44:53+0000
+/project/compas-rcf/, compas-rcf, 0.3.1, python module for MAS DFAB project Rapid Clay Formations, 2020-10-14T13:28:13+0000
+/project/lynxkite-python-api/, lynxkite-python-api, 999, Python API for LynxKite [obsolete], 2020-06-23T11:27:49+0000
+/project/pandoc-listof/, pandoc-listof, 0.3.1, A pandoc filter for automatic creation of lists, 2018-02-02T09:42:21+0000
+/project/appcheck/, appcheck, 0.1.7, Codenomicon Appcheck command line tools and API client, 2015-07-31T12:10:04+0000
+/project/products-temporaryfolder/, Products.TemporaryFolder, 6.1, Zope temporary folder support., 2021-03-16T08:10:30+0000
+/project/skype-chatsync-reader/, skype-chatsync-reader, 0.1, Parser and GUI viewer of chatsync/*.dat files from the Skype profile directory, 2015-01-22T20:56:25+0000
+/project/kiwi-project/, kiwi_project, 1.3.9.1, Kiwi est un module Django dont le but est de gérer des pages Wiki, 2013-10-20T02:26:11+0000
+/project/latlonconv/, latlonconv, 1.0.1, Methods for representing geographic coordinates, 2019-09-13T08:45:20+0000
+/project/numtdumper/, NUMTdumper, 0.1b14, NUMTdumper: validated NUMT removal for mitochondrial metabarcoding [OBSOLETE], 2020-09-24T12:08:43+0000
+/project/google-assistant-library/, google-assistant-library, 1.1.0, Google Assistant Library Python wrapper, 2020-03-03T03:42:16+0000
+/project/wasabi-lepton/, wasabi-lepton, 1.0b2, Wasabi-Lepton: A fork of Lepton, A high-performance, pluggable particle engine and API for Python, 2014-05-13T20:26:13+0000
+/project/humanizer-portugues/, humanizer-portugues, 2.4.1, Humanize functions for Portuguese., 2021-02-13T15:01:36+0000
+/project/azure-storage/, azure-storage, 0.37.0, Microsoft Azure Storage SDK for Python, 2020-05-11T23:24:28+0000
+/project/libiap/, libiap, 0.4.1, Please use https://github.com/umccr-illumina/libica instead, 2021-03-09T00:42:50+0000
+/project/docbook2sla/, docbook2sla, 0.0.16, A Python interface to convert DocBook to Scribus, 2008-04-13T20:16:47+0000
+/project/rtstool/, rtstool, 0.1a4, rtslib command-line interface, 2013-10-24T14:57:11+0000
+/project/uk-boards/, uk-boards, 0.5.0, uk-boards is now ukboards, 2020-12-21T01:23:53+0000
+/project/protobuf-py3/, protobuf-py3, 2.5.1, Protocol Buffers 2.5.0 with support for Python 3, 2014-06-16T15:41:17+0000
+/project/attrdict/, attrdict, 2.0.1, A dict with attribute-style access, 2019-02-01T22:33:56+0000
+/project/aws-encrytpion-sdk/, aws-encrytpion-sdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:28+0000
+/project/mkcode/, mkcode, 0.2, A make-style Python build tool, 2007-06-12T03:55:41+0000
+/project/awsencyrptioncli/, awsencyrptioncli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:47+0000
+/project/python-cloudfiles/, python-cloudfiles, 1.7.11, CloudFiles client library for Python, 2013-12-03T22:45:24+0000
+/project/formtags/, formtags, 0.4.1, python library to generate forms and validate them using formencode and sqlalchemy, 2011-03-23T15:53:35+0000
+/project/django-profiletools/, django-profiletools, 0.2.1, Tools for Profile models in Django., 2012-09-05T19:29:57+0000
+/project/django-atomic-dispatch/, django-atomic-dispatch, 2.0.0, Atomic transaction aware signals for Django 1.6+, 2016-01-26T18:41:33+0000
+/project/pipeformer/, pipeformer, 0.0.2, Placeholder for pipeformer, 2019-03-13T20:12:51+0000
+/project/aws-encyrption-sdk/, aws-encyrption-sdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:30+0000
+/project/pymodules/, pyModules, 0.3, this is a modules package, 2017-02-21T13:31:33+0000
+/project/brainlambda/, brainlambda, 0.0.0, , 2020-01-28T17:27:36+0000
+/project/bumpversion/, bumpversion, 0.6.0, Version-bump your software with a single command!, 2020-05-14T02:19:37+0000
+/project/aws-encyrption/, aws-encyrption, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:29+0000
+/project/google-cloud-cloudasset/, google-cloud-cloudasset, 0.1.1, This package is obsolete. Please install `google-cloud-asset`., 2018-10-04T01:08:33+0000
+/project/pytorch-wheel-installer/, pytorch-wheel-installer, 0.2.1, Install PyTorch distributions from the latest wheels., 2020-09-08T05:30:12+0000
+/project/rgain/, rgain, 1.3.4, Multi-format Replay Gain utilities, 2016-05-06T10:08:07+0000
+/project/dpt3-0-dptdb/, dpt3.0-dptdb, 0.7.3, DPT database API wrappers built using SWIG, 2019-12-03T16:16:46+0000
+/project/cilantro/, cilantro, 2.0.11, A client implementation for Serrano 2.x, 2013-11-22T11:59:02+0000
+/project/treesoup/, TreeSoup, 0.1, BeautifulSoup-like wrapper around ElementTree., 2011-04-05T14:41:35+0000
+/project/python-chess/, python-chess, 1.999, A chess library with move generation, move validation, and support for common formats., 2020-10-26T11:30:07+0000
+/project/typechecking/, TypeChecking, 1.0.0a1, <withdrawn>, 2014-06-19T01:59:17+0000
+/project/awsencrpytionsdkcli/, awsencrpytionsdkcli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:35+0000
+/project/format257/, format257, 1.0.0, Format docstrings as per PEP 257, 2014-08-22T06:38:15+0000
+/project/megrok-genshi/, megrok.genshi, 1.0, Genshi integration in Grok, 2008-12-09T17:02:34+0000
+/project/openstack-user-management/, openstack_user_management, 0.1.0.dev4, OpenStack User Management, 2016-11-08T11:47:13+0000
+/project/cloudscale/, cloudscale, 0.16.0, A library and command line interface for cloudscale.ch, 2020-09-15T12:07:12+0000
+/project/bs4/, bs4, 0.0.1, Dummy package for Beautiful Soup, 2016-03-03T13:24:52+0000
+/project/plone-multilingualbehavior/, plone.multilingualbehavior, 1.2.3, Dexterity behavior for enabling multilingual extensions, 2019-12-27T13:48:34+0000
+/project/transformations/, transformations, 2020.1.1, Homogeneous Transformation Matrices and Quaternions, 2020-01-18T01:04:51+0000
+/project/gcs-oauth2-boto-plugin/, gcs-oauth2-boto-plugin, 2.7, Auth plugin allowing use the use of OAuth 2.0 credentials for Google Cloud Storage in the Boto library., 2020-08-18T15:23:20+0000
+/project/jiveapi/, jiveapi, 1.0.0, Simple and limited Python client for Jive collaboration software ReST API v3., 2019-10-13T15:21:30+0000
+/project/fastcomp/, fastcomp, 1.3.0, Deprecated. This package will be removed in 2019/08/01, 2018-07-16T04:39:47+0000
+/project/pysubs/, pysubs, 0.1.1, SubStation-based subtitle framework (deprecated), 2011-12-26T18:44:38+0000
+/project/dynamodbencrytpionsdk/, dynamodbencrytpionsdk, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:46+0000
+/project/dodgy/, dodgy, 0.2.1, Dodgy: Searches for dodgy looking lines in Python code, 2019-12-31T16:44:58+0000
+/project/python-mindmeister/, python-mindmeister, 1.4.1, Unofficial Mindmeister API binding for python., 2012-07-25T19:15:29+0000
+/project/testinfra/, testinfra, 6.0.0, Test infrastructures, 2020-11-12T21:39:43+0000
+/project/dbus-python/, dbus-python, 1.2.16, Python bindings for libdbus, 2020-01-14T09:47:42+0000
+/project/jpype1-py3/, JPype1-py3, 0.5.5.4, Python-Java bridge. Fork of the jPype project by Steve Menard (http://jpype.sourceforge.net/), with the modifications applied by Luis Nell (https://github.com/originell/jpype), 2019-05-31T11:02:39+0000
+/project/marionette-client/, marionette_client, 3.3.0, Marionette test automation client, 2016-12-13T16:42:21+0000
+/project/nbastats/, nbastats, 1.1.0, Rebuilding this under the package name py-goldsberry, 2014-03-09T14:38:33+0000
+/project/sq-oauth2client/, sq-oauth2client, 4.1.3, OAuth 2.0 client library, 2018-12-25T07:10:39+0000
+/project/dynamodb-encrytpion/, dynamodb-encrytpion, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:40+0000
+/project/django-pagination-bootstrap/, django-pagination-bootstrap, 2.4.4, Easy add pagination in Django, using Bootstrap's layout., 2021-01-23T21:54:08+0000
+/project/discogs-client/, discogs-client, 2.3.0, Official Python API client for Discogs, 2020-06-01T21:38:24+0000
+/project/python-builtwith/, python-builtwith, 1.0.0, BuiltWith API versions 1, 2 and 7 client, 2020-04-12T06:41:15+0000
+/project/html2docbook/, html2docbook, 0.1, HTML to DocBook transformation, 2009-03-11T20:04:08+0000
+/project/jyu-z3cform-placeholder/, jyu.z3cform.placeholder, 1.0b3, Integrates jQuery Watermark for z3c.form on Plone., 2011-02-23T07:53:31+0000
+/project/vxpolls/, vxpolls, 0.1.0, Simple polling / survey framework for Vumi apps, 2014-07-17T13:15:19+0000
+/project/awsencrytpioncli/, awsencrytpioncli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:42+0000
+/project/scrapylib/, scrapylib, 1.7.1, Scrapy helper functions and processors, 2016-11-14T13:08:28+0000
+/project/pytest-forked/, pytest-forked, 1.3.0, run tests in isolated forked subprocesses, 2020-07-27T19:50:10+0000
+/project/cmdstyle/, cmdstyle, 0.1.0, Command line interface framework, 2011-11-09T12:42:51+0000
+/project/mypdns/, mypdns, 0.0.1.dev4, Name space reservation, 2020-10-25T06:21:17+0000
+/project/grpc/, grpc, 1.0.0, Please install the official package with: pip install grpcio, 2020-06-01T16:56:28+0000
+/project/xml-analyzer/, xml-analyzer, 1.0, xml-analyzer is now xml-analyser, 2020-10-11T19:15:42+0000
+/project/ankisync/, ankisync, 0.2.3.1, Doing in Anki what AnkiConnect cannot do, 2020-11-16T20:29:51+0000
+/project/pyntlib/, pyntlib, 1.5.0.post4, A number theory library adapted from mathematic fundamentals of information security homework codes., 2018-11-28T09:14:48+0000
+/project/imreg/, imreg, 2020.1.1, FFT based image registration, 2020-01-18T01:04:28+0000
+/project/layer-linter/, layer-linter, 0.12.3, Layer Linter checks that your project follows a custom-defined layered architecture., 2019-06-08T15:18:36+0000
+/project/pyxmpi/, PyxMPI, 1.0, Pyrex wrapper for MPI (Message Passing Interface) 1.1, 2007-08-15T04:20:43+0000
+/project/upoints/, upoints, 0.12.2, Modules for working with points on Earth, 2014-02-20T21:38:50+0000
+/project/pytest-nbsmoke/, pytest-nbsmoke, 0.1.7, Deprecated: now nbsmoke (see https://github.com/pyviz/nbsmoke)., 2018-06-01T14:28:06+0000
+/project/django-localflavor-br/, django-localflavor-br, 1.0, Country-specific Django helpers for Brazil., 2013-04-07T11:38:42+0000
+/project/reverseecology/, reverseEcology, 1.0.0, Reverse ecology analysis of metabolic network reconstructions, 2017-08-07T20:07:15+0000
+/project/intouch-client/, intouch-client, 0.2.4.post0, A aiohttp-based client for Intergas Intouch Lan2RF systems, 2019-08-18T11:16:22+0000
+/project/coil/, coil, 1.3.12, A user-friendly CMS frontend for Nikola., 2017-10-03T19:41:20+0000
+/project/aws-encrpytion-sdk-cli/, aws-encrpytion-sdk-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:20+0000
+/project/awsencrpytionsdk/, awsencrpytionsdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:33+0000
+/project/datasette-insert-api/, datasette-insert-api, 0.5, datasette-insert-api is now datasette-insert, 2020-07-25T20:36:04+0000
+/project/cpac-py/, cpac-py, 0.2.5.post1, C-PAC Python Package, 2020-07-22T18:26:34+0000
+/project/django-transaction-hooks/, django-transaction-hooks, 0.3, Django database backends that permit registering post-transaction-commit hooks, 2020-03-15T23:57:11+0000
+/project/lucam/, lucam, 2020.1.1, Lumenera(r) USB Camera Interface, 2020-01-18T01:04:37+0000
+/project/kezmenu/, KezMenu, 0.3.6, A simple and basical Pygame library for fast develop of menu interfaces, 2013-06-07T17:24:45+0000
+/project/ethtool/, ethtool, 0.14, Python module to interface with ethtool, 2018-09-13T09:23:25+0000
+/project/datapackage-registry/, datapackage-registry, 0.5.0, (DEPRECATED) A Python library for working with a Data Package Registry., 2016-04-18T10:36:31+0000
+/project/xcrun/, xcrun, 0.4, Python wrapper around the xcrun utility, 2018-12-22T19:18:26+0000
+/project/azf-wsgi/, azf-wsgi, 0.3.1, Azure Functions WSGI implementation [deprecated], 2020-03-08T11:43:02+0000
+/project/python-owasp-zap-v2/, python-owasp-zap-v2, 0.0.9, OWASP ZAP API client, 2014-07-02T11:16:48+0000
+/project/aws-encryption-cli/, aws-encryption-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:21+0000
+/project/cache-magic/, cache-magic, 1.0.4, Versatile cache line magic for jupyter notebooks, based on https://pypi.org/project/ipython-cache/, 2018-08-07T18:28:54+0000
+/project/vcstools/, vcstools, 0.1.42, VCS/SCM source control library for svn, git, hg, and bzr, 2019-08-07T18:30:05+0000
+/project/brobox-client/, brobox-client, 1.0.6, This package has been renamed to 'corelight-client'., 2017-10-05T22:24:54+0000
+/project/azure-devops-keyring/, azure-devops-keyring, 0.3, "(Deprecated) Automatically retrieve passwords for Azure DevOps.", 2019-09-23T22:32:23+0000
+/project/pymorphy/, pymorphy, 0.5.6, Morphological analyzer (POS tagger + inflection engine) for Russian and English (+perhaps German) languages., 2011-09-10T23:04:56+0000
+/project/recursivedocument/, RecursiveDocument, 0.5.2, Format, in a console-friendly and human-readable way, a document specified through its structure, 2018-09-08T08:24:08+0000
+/project/tkdocviewer/, tkDocViewer, 2.0.2, Document viewer widget for Tkinter, 2021-02-18T22:45:01+0000
+/project/hwrt/, hwrt, 0.2.1, Handwriting Recognition Tools, 2020-06-21T20:16:12+0000
+/project/django-modeldict-yplan/, django-modeldict-yplan, 2.0.3, Stores a model as a dictionary, 2019-05-17T20:52:39+0000
+/project/dynamodbencrpytionsdk/, dynamodbencrpytionsdk, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:45+0000
+/project/django-whatever-es9iecor/, django-whatever-es9iecor, 0.2.3, Unobtrusive test models creation for django., 2019-06-07T10:45:10+0000
+/project/vin-decoder/, vin_decoder, 0.1.1, VIN decoder (Vehicle identification number), 2018-06-09T16:03:46+0000
+/project/django-federated-login/, django-federated-login, 1.0.0, Provides federated login (SSO) to Django projects, 2014-03-23T07:48:08+0000
+/project/ralbot-ipxact/, ralbot-ipxact, 1.4.0, Import and export IP-XACT XML to/from the systemrdl-compiler register model, 2020-09-13T22:41:48+0000
+/project/aws-encrytpion/, aws-encrytpion, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:27+0000
+/project/cs-serialise/, cs.serialise, 20210316.2, OBSOLETE: some serialising functions. Please use by cs.binary instead., 2021-03-15T23:43:55+0000
+/project/libhockey/, libhockey, 0.23.0, A Python wrapper around the Hockey App API., 2019-10-07T14:54:34+0000
+/project/django-feature-policy/, django-feature-policy, 4.0.0, django-feature-policy is now django-permissions-policy., 2021-03-24T15:09:40+0000
+/project/pretty-cron/, pretty-cron, 1.2.0, Retired in favour of cron_descriptor. (Converts crontab expressions to human-readable descriptions)., 2018-08-22T21:37:03+0000
+/project/l20n/, l20n, 4.0.0a1, Python L20n library, 2016-07-19T12:23:06+0000
+/project/opencivicdata-divisions/, opencivicdata-divisions, 3000, OBSOLETE - see opencivicdata package, 2017-05-25T03:58:04+0000
+/project/five-globalrequest/, five.globalrequest, 99.1, DEPRECATED: Zope integration for zope.globalrequest, 2017-06-08T10:25:54+0000
+/project/buildvu/, buildvu, 4.1.5, [Deprecated] Future development has been directed to IDRCloudClient, which can be used for the same purpose., 2020-08-05T13:02:47+0000
+/project/python-graphy/, python-graphy, 0.4.0, A fast and modern graphql client library designed with simplicity in mind., 2020-09-02T09:08:05+0000
+/project/awsencryptioncli/, awsencryptioncli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:36+0000
+/project/socrates-gui/, socrates-gui, 2.1.1, Source of Truth for hardware, virtual machines, and networks, 2020-05-25T09:37:46+0000
+/project/aws-crpyto/, aws-crpyto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:07+0000
+/project/regression/, regression, 0.5.0, Web app for regression analysis of provided data files, 2021-01-01T15:36:23+0000
+/project/mockmockmock/, MockMockMock, 0.5.3, Mocking library focusing on very explicit definition of the mocks' behaviour, 2017-06-06T13:37:50+0000
+/project/data-structures/, data-structures, 0.1.6, Extra Python Data Structures - bags (multisets) and setlists (ordered sets), 2015-01-20T23:37:14+0000
+/project/rudolf/, rudolf, 0.3, Colour output plugin for the nose testing framework, 2007-12-22T18:49:39+0000
+/project/fgdtools/, fgdtools, 1.0.2, (DEPRECATED: check ValveFGD) A library to parse .fgd files used in the source engine., 2021-02-15T09:30:24+0000
+/project/pysec/, pysec, 0.1.212, Tool to get stolen notebook back., 2018-06-09T15:21:32+0000
+/project/django-model-filters/, django-model-filters, 0.8.0, Simple filters for generic object template blocks, 2011-06-22T05:11:44+0000
+/project/initgroups/, initgroups, 4.0, Convenience uid/gid helper function used in Zope2., 2017-10-13T06:08:22+0000
+/project/jspcapy/, jspcapy, 0.4.0.post2, A command line pcap file analyser tool., 2018-11-28T09:16:18+0000
+/project/polyscience/, polyscience, 0.1.16, Python driver for Polyscience circulating baths., 2019-02-10T01:44:04+0000
+/project/ube/, ube, 0.1, Unified Back End(UBE) is a collection of libraries used by the OptimalBPM system., 2013-09-01T21:32:53+0000
+/project/rng/, RNG, 1.9.1, Python3 API for the C++ Random Library, 2020-11-19T18:49:30+0000
+/project/visilens/, visilens, 0.1, Module for modeling gravitational lensing systems in which the data are not images but interferometric visibilities., 2020-03-16T21:42:28+0000
+/project/pipipx/, pipipx, 0.0.2, Did you mean to install pipx-in-pipx?, 2019-10-27T18:46:19+0000
+/project/simple-git-deploy/, simple-git-deploy, 0.6, A command-line utility for easy and reliable management of manual deployments from Git repositories, 2020-09-22T01:58:02+0000
+/project/colorcode/, colorcode, 1.0.2, Using Python to make multi-colored 2D codes!, 2019-05-08T10:05:21+0000
+/project/django-acme/, django-acme, 0.2.4, A re-usable Django app to quickly deploy a page for the ACME challenge, 2017-02-14T19:40:01+0000
+/project/flint/, flint, 0.2, Obsolete - the modular Python source code checker, 2013-02-23T23:42:35+0000
+/project/fishnet/, fishnet, 1.18.2, Distributed Stockfish analysis for lichess.org, 2020-11-28T16:48:16+0000
+/project/pytram/, pytram, 0.3.0, The TRAM package, 2016-05-25T09:52:18+0000
+/project/pythoneggtools/, PythonEggTools, 1.0a0, Command line tools for working with Python packages, 2006-12-22T18:11:02+0000
+/project/grpc-google-logging-v2/, grpc-google-logging-v2, 0.11.1, GRPC library for the google-logging-v2 service, 2016-09-30T01:13:51+0000
+/project/todopoc/, todopoc, 1.3, A To-Do app for Proof of various Concepts, 2020-04-26T11:50:30+0000
+/project/vega3/, vega3, 0.13.0, Deprecated: please use vega, 2018-05-08T01:54:16+0000
+/project/aws-encyrption-sdk-cli/, aws-encyrption-sdk-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:28+0000
+/project/nodist/, nodist, 0.3.1, Node.js version manager, 2013-08-29T19:41:27+0000
+/project/python-morfeusz/, python-morfeusz, 0.3400, interface to Morfeusz, 2017-07-03T18:26:37+0000
+/project/wareweb/, Wareweb, 0.3, A web framework; a next generation evolution from Webware/WebKit's servlet model, 2006-10-22T21:19:02+0000
+/project/pypiparker/, pypiparker, 0.0.9, parked, 2017-10-09T03:46:52+0000
+/project/django-nosqladmin/, django-nosqladmin, 0.1.1, An introspective interface for Django and Document Based NoSQL databases, 2012-03-15T06:33:17+0000
+/project/akima/, akima, 2020.1.1, Akima Interpolation, 2020-01-18T01:04:07+0000
+/project/qdafile/, qdafile, 2020.1.1, Read and write QDA files, 2020-01-18T01:04:49+0000
+/project/ralbot-html/, ralbot-html, 1.7.1, HTML documentation generator for SystemRDL-based register models, 2020-09-13T22:35:28+0000
+/project/pudge/, pudge, 0.1.3, Pudge is a documentation generator for Python projects, using Restructured Text, 2007-04-13T01:09:02+0000
+/project/rawphoto/, rawphoto, 0.4.1, Utilities for managing raw photos, 2015-05-30T17:42:44+0000
+/project/z3c-viewlet/, z3c.viewlet, 1.1.0, DEPRECATED: Collection of Viewlet Extensions, 2009-02-21T09:46:41+0000
+/project/talaria/, Talaria, 0.2.0, Talaria, a geek-friendly content management system, 2010-06-19T07:33:12+0000
+/project/awsencryptionsdkcli/, awsencryptionsdkcli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:41+0000
+/project/simplegeneric/, simplegeneric, 0.8.1, Simple generic functions (similar to Python's own len(), pickle.dump(), etc.), 2012-04-01T21:39:04+0000
+/project/utilinaut/, utilinaut, 0.0.2, General utilities for use in Python scripting., 2016-03-03T15:46:56+0000
+/project/fusnmp/, fusnmp, 1.0.3, A small but complete NetSNMP ctypes wrapper., 2019-06-14T20:29:35+0000
+/project/nntoolkit/, nntoolkit, 0.2.2, Neural Network Toolkit, 2020-06-21T19:06:58+0000
+/project/forgetsql/, forgetSQL, 0.5.1, forgetSQL is a Python module for accessing SQL databases by creating, 2006-01-23T22:51:10+0000
+/project/awsencrpytioncli/, awsencrpytioncli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:34+0000
+/project/awsencrytpion/, awsencrytpion, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:37+0000
+/project/botornot/, botornot, 0.3, Check Twitter accounts for bot behavior, 2016-11-10T16:17:09+0000
+/project/avro-python3/, avro-python3, 1.10.2, Avro is a serialization and RPC framework., 2021-03-17T10:43:56+0000
+/project/aws-encrpytion/, aws-encrpytion, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:22+0000
+/project/supybot/, supybot, 0.84.0, A flexible and extensible Python IRC bot and framework., 2018-05-10T00:44:10+0000
+/project/lepl/, LEPL, 5.1.3, A Parser Library for Python 2.6+/3+: Recursive Descent; Full Backtracking, 2012-06-10T01:52:02+0000
+/project/as-easy-as-pie/, as-easy-as-pie, 0.51, Really easy, 2021-01-05T09:05:56+0000
+/project/esther/, esther, 1.3.0, Un simple afficheur d'élements d'une liste, 2014-07-29T22:45:31+0000
+/project/grpc-reflection/, grpc-reflection, 1.0.0, Please install the official package with: pip install grpcio-reflection, 2020-06-01T16:56:31+0000
+/project/oauth2client-master/, oauth2client-master, 4.1.3, OAuth 2.0 client library, 2019-07-18T07:08:37+0000
+/project/pandoc-beamer-notes/, pandoc-beamer-notes, 0.1.2, A pandoc filter to allow a markdown way of using notes for latex beamer presentations., 2017-09-21T07:33:54+0000
+/project/interactivecommandline/, InteractiveCommandLine, 0.3.4, Framework for interactive and command-line programs., 2018-09-08T08:14:41+0000
+/project/bintrees/, bintrees, 2.2.0, Package provides Binary-, RedBlack- and AVL-Trees in Python and Cython., 2020-12-12T08:51:15+0000
+/project/zeorawdata/, ZeoRawData, 2.0, Zeo Raw Data Library, 2014-09-20T08:03:24+0000
+/project/cache-tagging/, cache-tagging, 0.7.7.40, Project has been moved to https://pypi.python.org/pypi/cache-dependencies, 2016-12-13T02:00:33+0000
+/project/openplansboot/, OpenplansBoot, 0.2, Creates new Openplans site deployment setup, 2008-07-12T02:12:35+0000
+/project/pytest-web-ui/, pytest-web-ui, 1.4.0, An interactive web UI test runner for PyTest, 2020-08-25T18:23:16+0000
+/project/pyro/, Pyro, 3.16, distributed object middleware for Python (IPC/RPC), version 3.x, 2012-04-08T22:50:45+0000
+/project/accretion/, accretion, 0.0.1, Did you mean to install accretion_cli?, 2019-06-18T07:51:11+0000
+/project/pygnm/, pygnm, 0.1, Python Gaussian Network Model, 2010-02-20T17:05:13+0000
+/project/mekk-greader/, mekk.greader, 1.2.3, Simple wrapper for Google Reader API., 2012-11-12T08:01:48+0000
+/project/aws-cdk-aws-cloudformation/, aws-cdk.aws-cloudformation, 1.100.0, The CDK Construct Library for AWS::CloudFormation, 2021-04-20T17:58:08+0000
+/project/datasette-publish-now/, datasette-publish-now, 0.7, datasette-publish-now is now datasette-publish-vercel, 2020-07-31T16:57:22+0000
+/project/imagecodecs-lite/, imagecodecs-lite, 2020.1.31, The imagecodecs-lite package is deprecated. Use the imagecodecs package instead., 2020-02-17T03:41:32+0000
+/project/azure-cognitiveservices-formrecognizer/, azure-cognitiveservices-formrecognizer, 0.1.1, Microsoft Azure Cognitive Services Form Recognizer Client Library for Python, 2020-09-22T21:26:36+0000
+/project/kwargs-only/, kwargs-only, 1.1.1, A decorator to make a function accept keyword arguments only, on both Python 2 and 3., 2019-12-21T17:34:19+0000
+/project/py-asterisk-banner/, py-asterisk-banner, 1.0.2, Baneador de IPs en Asterisk con soporte para SIP y PJSIP, 2018-04-06T09:34:33+0000
+/project/yafowil-zope2/, yafowil.zope2, 1.1, Zope2/ Plone Integration with YAFOWIL, 2012-03-20T11:05:53+0000
+/project/aws-cyrpto/, aws-cyrpto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:15+0000
+/project/gocept-jsform/, gocept.jsform, 3.0.3, Next generation forms in javascript, 2019-09-06T08:23:46+0000
+/project/keysmith/, keysmith, 3.0.1, Passphrase Generator, 2019-07-02T04:08:03+0000
+/project/oauth2client/, oauth2client, 4.1.3, OAuth 2.0 client library, 2018-09-07T21:38:16+0000
+/project/products-ienablesettrace/, Products.Ienablesettrace, 1.1.0, Fork of Products.enablesettrace which also allows import of ipdb in restricted code., 2021-01-20T17:27:29+0000
+/project/grpc-testing/, grpc-testing, 1.0.0, Please install the official package with: pip install grpcio-testing, 2020-06-01T16:56:33+0000
+/project/queue-util/, queue-util, 3.2.2, A set of utilities for consuming (and producing) from a rabbitmq queue, 2020-10-22T22:08:58+0000
+/project/oneliners/, oneliners, 1.0, A collection of random one-liner jokes scraped from the Internet., 2018-02-21T23:51:21+0000
+/project/reverend/, Reverend, 0.4, Divmod Reverend - a simple Bayesian classifier, 2009-11-29T19:00:51+0000
+/project/collective-zombiedoctesting/, collective.zombiedoctesting, 1.1.0, Fast functional JavaScript testing with Zombie.js, 2012-04-27T14:20:18+0000
+/project/mekk-feeds/, mekk.feeds, 1.4.3, RSS scripting, 2012-11-12T08:06:17+0000
+/project/awsencrytpionsdkcli/, awsencrytpionsdkcli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:46+0000
+/project/async/, async, 0.6.2, Async Framework, 2014-11-12T16:38:54+0000
+/project/teamcity-nose/, teamcity-nose, 1.4, [Obsolete] use teamcity-messages package, 2015-01-29T11:38:19+0000
+/project/tl-buildout-mod-python/, tl.buildout_mod_python, 0.3, zc.buildout recipe to build the mod_python Apache module., 2009-03-23T20:05:16+0000
+/project/hac-game-lib/, hac-game-lib, 1.1.99, A small game development framework for teaching programming., 2020-08-30T17:03:27+0000
+/project/mongokit-pylons/, mongokit-pylons, 0.2.0, MongoDB interface for ORM-like object mapping (w/ Pylons support), 2009-10-11T02:08:04+0000
+/project/jsrn/, jsrn, 0.3.2, JavaScript Resource Notation for Python, 2013-07-16T14:20:56+0000
+/project/uproot3-methods/, uproot3-methods, 0.10.1, Pythonic mix-ins for ROOT classes., 2021-03-18T16:55:18+0000
+/project/nti-fakestatsd/, nti.fakestatsd, 1.0.0, Testing StatsD client, 2019-09-03T18:33:12+0000
+/project/sveetchies/, Sveetchies, 1.8.9.4, Sveetchies est un ensemble de modules python utiles (en tout cas pour 
+moi)., 2014-10-17T01:03:23+0000
+/project/bokeh-catplot/, bokeh-catplot, 0.1.9, DEPRECATED. Utility to generate plots with categorical variables using Bokeh., 2020-08-12T16:41:31+0000
+/project/trevor/, trevor, 0.0.1, A small example package, 2019-06-19T17:56:45+0000
+/project/django-nghelp/, django-nghelp, 2.2.3, AngularJS Frontend Helper for Django, 2018-01-15T04:34:30+0000
+/project/gargoyle-yplan/, gargoyle-yplan, 2.1.1, Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions., 2019-05-17T20:49:41+0000
+/project/xbox-smartglass-stump/, xbox-smartglass-stump, 1.10.0, Meta package - Stump extension (TV streaming/IR control), 2020-02-29T01:00:17+0000
+/project/django-sorting-bootstrap/, django-sorting-bootstrap, 2.6.2, Sorting templates API using sorting, Django templatetags and Bootstrap classes., 2021-01-21T07:19:02+0000
+/project/cs-eyrie/, cs.eyrie, 0.8.1, Eyrie - Retired, 2021-04-13T20:01:33+0000
+/project/pytest-divide-and-cover/, pytest-divide-and-cover, 0.5.1, Picky test coverage for pytest, 2018-10-11T01:17:56+0000
+/project/pycalculix/, pycalculix, 1.1.4, Python 3 library to build and solve finite element analysis (FEA) models in Calculix., 2019-11-30T21:40:21+0000
+/project/qam/, qam, 0.2.18, QAM is a simple RPC Framework which uses the AMQP Protocol as Transport Protocol., 2009-11-20T09:55:41+0000
+/project/aws-crytpo/, aws-crytpo, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:11+0000
+/project/plonetheme-mimbo/, plonetheme.mimbo, 0.4.1, An installable theme for Plone 3.0 based on the Mimbo theme by Darren Hoyt, 2010-01-15T12:29:37+0000
+/project/blink2png/, blink2png, 0.9.3, To take snapshot of web pages using Blink Engine and Qt5, 2020-04-03T11:37:41+0000
+/project/awsencyrptionsdkcli/, awsencyrptionsdkcli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:48+0000
+/project/django-output-validator/, django-output-validator, 1.5, App to catch HTML errors (or other errors) in outgoing Django pages., 2010-12-01T21:52:05+0000
+/project/tex/, tex, 1.8, Convert LaTeX or TeX source to PDF or DVI, and escape strings for LaTeX., 2012-01-06T15:43:19+0000
+/project/linqish/, linqish, 0.5.2, Iterable manipulation, 2011-01-30T09:43:37+0000
+/project/meld3/, meld3, 2.0.1, Unmaintained templating system used by old versions of Supervisor, 2020-04-08T20:05:14+0000
+/project/django-atomic-celery/, django-atomic-celery, 2.0.0, Atomic transaction aware Celery tasks for Django 1.6+, 2016-01-26T18:27:06+0000
+/project/futils-grab/, futils-grab, 0.0.3, Project renamed, install folkol.grab instead., 2020-09-22T19:18:43+0000
+/project/awscrypto/, awscrypto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:30+0000
+/project/netlib/, netlib, 0.17, A collection of network utilities used by pathod and mitmproxy., 2016-04-10T03:18:59+0000
+/project/jyu-z3cform-datepicker/, jyu.z3cform.datepicker, 1.0rc4, Integrates Keith Wood's jQuery Datepicker for z3c.form on Plone., 2011-02-22T14:05:10+0000
+/project/pywoa/, pyWOA, 0.1.2, Package to subsample World Ocean Atlas climatology., 2016-02-16T06:00:01+0000
+/project/django-zonecache/, django-zonecache, 0.2.2, Small library to add support for cache zones to Django cache, 2013-05-27T08:55:09+0000
+/project/hydrodata/, hydrodata, 0.9.4, hydrodata is now pygeohydro, 2021-03-06T09:09:47+0000
+/project/mailtools/, mailtools, 3.0.1, Tools for constructing and sending emails, 2019-11-06T13:54:32+0000
+/project/azure/, azure, 5.0.0, Microsoft Azure Client Libraries for Python, 2020-04-08T21:30:53+0000
+/project/faster-closeio/, faster-closeio, 1.5.2, Slim API wrapper to access close.io CRM., 2020-02-24T10:49:47+0000
+/project/mailchimp/, mailchimp, 2.0.10, Deprecated. Replaced by mailchimp-marketing - A CLI client and Python API library for the MailChimp email platform., 2021-04-01T15:32:03+0000
+/project/doppler-client/, doppler-client, 1.0.12, This package is deprecated and is no longer functional. Learn how to migrate to the new CLI at https://docs.doppler.com/docs/removal-deprecated-packages-scripts, 2021-01-20T00:42:46+0000
+/project/flint-naming/, flint-naming, 0.2, Check PEP-8 naming conventions, plugin for flint, 2013-02-22T11:01:37+0000
+/project/aws-encrytpion-sdk-cli/, aws-encrytpion-sdk-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:26+0000
+/project/uploadfu/, UploadFu, 0.5, Bittorrent upload tools for win32, 2009-05-20T21:42:03+0000
+/project/grpc-status/, grpc-status, 1.0.0, Please install the official package with: pip install grpcio-status, 2020-06-01T16:56:32+0000
+/project/aws-encrytpion-cli/, aws-encrytpion-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:25+0000
+/project/nereid/, Nereid, 2.8.0.3, Deprecated, use: trytond_nereid, 2013-06-13T08:50:54+0000
+/project/echelon/, Echelon, 0.1.0, A tiny cms built with Django, 2011-09-24T10:25:17+0000
+/project/grpc-tools/, grpc-tools, 1.0.0, Please install the official package with: pip install grpcio-tools, 2020-06-01T16:56:34+0000
+/project/stsci-imagestats/, stsci.imagestats, 1.6.2, Compute sigma-clipped statistics on data arrays, 2019-03-28T18:18:31+0000
+/project/cadspy/, cadspy, 0.0.0, Stub package, 2021-02-12T16:50:34+0000
+/project/dynamodb-encyrption/, dynamodb-encyrption, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:38+0000
+/project/cartridge-tax/, cartridge-tax, 0.0.3, A tax module for Cartridge., 2012-11-10T18:11:42+0000
+/project/dxfwrite/, dxfwrite, 1.2.2, A Python library to create DXF R12 drawings., 2020-01-01T05:30:29+0000
+/project/octohat/, octohat, 0.1.9, octohat - no longer maintained. See: octohatrack, 2015-11-21T07:42:41+0000
+/project/aws-cdk-aws-dynamodb-global/, aws-cdk.aws-dynamodb-global, 1.100.0, Build a global dynamodb table, 2021-04-20T17:58:44+0000
+/project/socrates-api/, socrates-api, 2.0.12, Source of Truth for hardware, virtual machines, and networks, 2021-03-25T10:38:53+0000
+/project/snowchange/, snowchange, 2.8.1, snowchange is now schemachange, 2021-04-02T19:51:54+0000
+/project/global-benchmark-database-tool/, global-benchmark-database-tool, 2.9.0, Superseded by: gbd-tools, 2020-07-16T08:18:22+0000
+/project/tensorvision/, tensorvision, 0.1.dev2, A library to build and train neural networks in with TensorFlow for Computer Vision, 2018-06-09T15:45:01+0000
+/project/awkward0/, awkward0, 0.15.5, Manipulate arrays of complex data structures as easily as Numpy., 2021-02-08T18:34:04+0000
+/project/monitoring-plugin/, monitoring-plugin, 1.0.6, OpenStack Monitoring Plugin for Horizon, 2014-07-07T16:33:52+0000
+/project/django-markup-deprecated/, django-markup-deprecated, 0.0.3, Original django.contrib.markup from Django 1.4.1., 2014-01-13T17:35:16+0000
+/project/oroboros/, oroboros, 20080712, Astrology software, 2008-07-12T10:23:24+0000
+/project/cheops/, cheops, 0.0.3, CHEOPS is now PYCHEOPS, 2018-03-26T08:06:06+0000
+/project/locative-ml-helpers/, locative-ml-helpers, 0.0.37, Global Machine learning helpers for training and deploying on cloud with docker, 2020-11-29T05:20:54+0000
+/project/astro-pi/, astro-pi, 1.1.8, Python API for Astro Pi (Sense HAT) for the Raspberry Pi, 2015-08-25T09:52:39+0000
+/project/datasette-edit-tables/, datasette-edit-tables, 0.3a2, datasette-edit-tables is now datasette-edit-schema, 2020-10-01T21:31:46+0000
+/project/five-pt/, five.pt, 3.0, DEPRECATED: Five bridges and patches to use Chameleon with Zope., 2017-11-30T07:58:45+0000
+/project/gitprompt/, GitPrompt, 0.1.1, Display git repository information in a command prompt., 2009-10-26T04:57:31+0000
+/project/pyintervaltree/, PyIntervalTree, 0.5, Mutable, self-balancing interval tree, 2015-01-15T18:01:28+0000
+/project/image-cleaner/, image_cleaner, 0.1.2, remove metadata from images to enhance privacy, 2018-06-09T14:44:56+0000
+/project/scibag/, scibag, 0.2.1, Data science meta-package, 2016-09-13T16:27:33+0000
+/project/opencivicdata-django/, opencivicdata-django, 0.99999, OBSOLETE - see opencivicdata package, 2017-05-25T03:59:38+0000
+/project/aws-cdk-yaml-cfn/, aws-cdk.yaml-cfn, 1.100.0, Utilities for handling CloudFormation-flavored YAML, 2021-04-20T18:01:05+0000
+/project/awscrytpo/, awscrytpo, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:32+0000
+/project/gapic-google-logging-v2/, gapic-google-logging-v2, 0.11.1, GAPIC library for the Stackdriver Logging API, 2016-09-30T01:33:59+0000
+/project/hac-game-lib/, hac-game-lib, 1.1.99, A small game development framework for teaching programming., 2020-08-30T17:03:27+0000
+/project/amo-validator/, amo-validator, 1.11.2, Validates add-ons for Mozilla products., 2019-01-24T07:53:56+0000
+/project/awscrpyto/, awscrpyto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:29+0000
+/project/mongokit-pylons/, mongokit-pylons, 0.2.0, MongoDB interface for ORM-like object mapping (w/ Pylons support), 2009-10-11T02:08:04+0000
+/project/ovirt-engine-sdk/, ovirt-engine-sdk, 3.2.0.11-SNAPSHOT, A SDK interface to oVirt Virtualization, 2013-09-11T09:46:59+0000
+/project/lsl-toolkits-s60/, lsl-toolkits-s60, 0.2.1, LSL Toolkit for S60 data, 2018-06-20T15:03:15+0000
+/project/aws-cdk-aws-eks-legacy/, aws-cdk.aws-eks-legacy, 1.100.0, The CDK Construct Library for AWS::EKS (Legacy), 2021-04-20T17:58:54+0000
+/project/lumixmaptool/, lumixmaptool, 1.0.16, Manage GPS information for Panasonic Lumix cameras., 2018-06-09T15:12:32+0000
+/project/django-testdata/, django-testdata, 1.0.3, Django application providing isolation for model instances created during `setUpTestData`., 2021-04-18T02:19:05+0000
+/project/grpc-channelz/, grpc-channelz, 1.0.0, Please install the official package with: pip install grpcio-channelz, 2020-06-01T16:56:29+0000
+/project/rotamerconvolvemd/, RotamerConvolveMD, 1.3.2, Analysis of spin label distances over structural ensembles, 2020-07-12T05:42:57+0000
+/project/pyrblx/, pyrblx, 3.1, pyrblx Is A library Written In Python For Roblox, 2021-01-29T07:15:55+0000
+/project/scopus/, scopus, 2.0.9, Outdated package, 2019-06-17T14:39:29+0000
+/project/pywiki2xhtml/, PyWiki2xhtml, 1.8.4, Old and deprecated stuff, use at your own risk, 2013-07-26T22:16:08+0000
+/project/pylibgen/, pylibgen, 2.0.2, Python interface to Library Genesis., 2019-06-06T14:04:59+0000
+/project/aws-encryption/, aws-encryption, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:25+0000
+/project/psycopg-postgis/, psycopg-postgis, 0.4.0, Deprecated. Use postgis package instead., 2017-06-23T16:29:14+0000
+/project/dxfgrabber/, dxfgrabber, 1.0.1, A Python library to grab information from DXF drawings - all DXF versions supported., 2020-01-01T05:53:44+0000
+/project/apipy/, apipy, 0.5.15, A Python 3 library for interacting with the Stack Exchange API., 2016-02-28T21:24:29+0000
+/project/collective-lcstartp/, collective.lcstartp, 0.1, Linkchecker start page, 2012-02-08T08:22:00+0000
+/project/jsrn/, jsrn, 0.3.2, JavaScript Resource Notation for Python, 2013-07-16T14:20:56+0000
+/project/uproot3-methods/, uproot3-methods, 0.10.1, Pythonic mix-ins for ROOT classes., 2021-03-18T16:55:18+0000
+/project/django-frontend-template/, django-frontend-template, 1.2.0, A basic Django template built on HTML5 Boilerplate., 2013-08-29T20:34:13+0000
+/project/djrill/, djrill, 2.1.0, Mandrill transactional email for Django, 2016-04-15T00:24:13+0000
+/project/logentries-cli/, logentries-cli, 1.2.1, Get your logs from Logentries on the comandline, 2020-06-22T21:19:23+0000
+/project/aws-cdk-cdk-assets-schema/, aws-cdk.cdk-assets-schema, 1.100.0, Schema definition for the Asset Manifest, 2021-04-20T18:00:51+0000
+/project/ralbot-uvm/, ralbot-uvm, 1.2.0, Generate UVM register model from compiled SystemRDL input, 2020-09-13T22:46:14+0000
+/project/suds-philpem/, suds-philpem, 0.4.3, Lightweight SOAP client (philpem's fork-and-merge), 2013-06-20T00:19:53+0000
+/project/products-enablesettrace/, Products.enablesettrace, 1.2.0, Allow import of pdb in restricted code., 2021-01-20T17:26:53+0000
+/project/monet-recurring-event/, monet.recurring_event, 0.7.0, Old event type for Plone (use only for remove older versions of this package), 2011-12-06T14:10:29+0000
+/project/python2-pythondialog/, python2-pythondialog, 3.5.1, A Python interface to the UNIX dialog utility and mostly-compatible programs (Python 2 backport), 2019-12-14T16:53:28+0000
+/project/lidtk/, lidtk, 0.3.0, Language identification Toolkit, 2020-08-17T20:55:01+0000
+/project/metafone/, Metafone, 0.5, A Python implementation of the double metaphone algorithms., 2015-02-16T10:02:06+0000
+/project/django-reg/, django-reg, 1.0.1, An extensible user-registration application for Django, 2013-06-28T14:21:59+0000
+/project/z3c-layer/, z3c.layer, 0.3.1, DEPRECATED: Collection of Alternative Base Layers, 2009-02-14T07:09:32+0000
+/project/blink2png-bridge/, blink2png-bridge, 0.1.4, To via blink2png by Python directly., 2020-04-04T08:46:14+0000
+/project/django-extra-fields/, django-extra-fields, 3.0.2, Additional fields for Django Rest Framework., 2020-09-22T13:38:21+0000
+/project/keysmith/, keysmith, 3.0.1, Passphrase Generator, 2019-07-02T04:08:03+0000
+/project/oauth2client/, oauth2client, 4.1.3, OAuth 2.0 client library, 2018-09-07T21:38:16+0000
+/project/products-ienablesettrace/, Products.Ienablesettrace, 1.1.0, Fork of Products.enablesettrace which also allows import of ipdb in restricted code., 2021-01-20T17:27:29+0000
+/project/cellnopt-core/, cellnopt.core, 1.0.0, Functions to manipulate networks and data related to signalling pathways., 2014-11-27T15:32:38+0000
+/project/director/, director, 1.2.0, Command line plugin library, 2009-03-08T00:54:50+0000
+/project/xtea3/, xtea3, 1.0.0, Obsolete Python 3 implementation of XTEA., 2019-06-17T11:25:42+0000
+/project/caniusepython3/, caniusepython3, 7.3.0, Determine what projects are blocking you from porting to Python 3, 2021-01-01T23:11:47+0000
+/project/grpc-testing/, grpc-testing, 1.0.0, Please install the official package with: pip install grpcio-testing, 2020-06-01T16:56:33+0000
+/project/queue-util/, queue-util, 3.2.2, A set of utilities for consuming (and producing) from a rabbitmq queue, 2020-10-22T22:08:58+0000
+/project/oneliners/, oneliners, 1.0, A collection of random one-liner jokes scraped from the Internet., 2018-02-21T23:51:21+0000
+/project/reverend/, Reverend, 0.4, Divmod Reverend - a simple Bayesian classifier, 2009-11-29T19:00:51+0000
+/project/collective-zombiedoctesting/, collective.zombiedoctesting, 1.1.0, Fast functional JavaScript testing with Zombie.js, 2012-04-27T14:20:18+0000
+/project/mekk-feeds/, mekk.feeds, 1.4.3, RSS scripting, 2012-11-12T08:06:17+0000
+/project/positional/, positional, 1.2.1, Library to enforce positional or key-word arguments (deprecated/unmaintained), 2017-08-08T00:24:46+0000
+/project/echelon/, Echelon, 0.1.0, A tiny cms built with Django, 2011-09-24T10:25:17+0000
+/project/thunderdome/, thunderdome, 0.4.7, Titan Object-Graph Mapper (OGM), 2013-05-23T22:14:44+0000
+/project/fastbleu/, FastBLEU, 0.0.41, A fast multithreaded C++ implementation of nltk BLEU., 2020-08-02T19:07:55+0000
+/project/google-gax/, google-gax, 0.16.0, Google API Extensions, 2018-02-28T21:10:07+0000
+/project/wissen/, wissen, 0.13.1.4, Wissen Full-Text Search & Classification Engine, 2017-09-13T17:25:15+0000
+/project/python-rivescript/, python-rivescript, 1.04, [DEPRECATED - Install rivescript instead], 2013-05-21T01:49:17+0000
+/project/django-sekizai-processors/, django-sekizai-processors, 0.1.1, Processors to (also offline) compile SASS/SCSS files when used with django-sekizai, 2015-02-05T11:04:38+0000
+/project/divide-and-cover/, divide-and-cover, 0.7.3, Picky test coverage runner, 2018-10-11T01:21:35+0000
+/project/aws-cdk-app-delivery/, aws-cdk.app-delivery, 1.100.0, Continuous Integration / Continuous Delivery for CDK Applications, 2021-04-20T17:57:30+0000
+/project/kuws/, kuws, 0.0.7, A set of python scripts for common web tasks, 2020-02-04T21:02:50+0000
+/project/distutils2/, Distutils2, 1.0a4, Python Packaging Library, 2012-03-13T15:59:13+0000
+/project/nexus-yplan/, nexus-yplan, 2.1.2, Nexus is a pluggable admin application in Django. It's designed to give you a simple design and architecture for building admin applications., 2019-05-17T20:51:07+0000
+/project/flake8-pathlib/, flake8-pathlib, 0.1.4, flake8-pathlib is now flake8-use-pathlib, 2021-04-06T19:53:24+0000
+/project/nti-fakestatsd/, nti.fakestatsd, 1.0.0, Testing StatsD client, 2019-09-03T18:33:12+0000
+/project/sveetchies/, Sveetchies, 1.8.9.4, Sveetchies est un ensemble de modules python utiles (en tout cas pour 
+moi)., 2014-10-17T01:03:23+0000
+/project/bokeh-catplot/, bokeh-catplot, 0.1.9, DEPRECATED. Utility to generate plots with categorical variables using Bokeh., 2020-08-12T16:41:31+0000
+/project/specit/, specit, 0.2.1z, Create and run executable specifications with Pythonic BDD style grammar, 2011-10-17T07:36:45+0000
+/project/trevor/, trevor, 0.0.1, A small example package, 2019-06-19T17:56:45+0000
+/project/django-nghelp/, django-nghelp, 2.2.3, AngularJS Frontend Helper for Django, 2018-01-15T04:34:30+0000
+/project/gargoyle-yplan/, gargoyle-yplan, 2.1.1, Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions., 2019-05-17T20:49:41+0000
+/project/dynamodbencyrptionsdk/, dynamodbencyrptionsdk, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:43+0000
+/project/gax-google-logging-v2/, gax-google-logging-v2, 0.8.3, GAX library for the Google Logging API, 2016-09-16T15:29:54+0000
+/project/routesetter/, routesetter, 1.0.0, A simple Route Setter, 2011-03-17T13:31:22+0000
+/project/clientform/, ClientForm, 0.2.10, Client-side HTML form handling., 2008-12-03T23:18:39+0000
+/project/naivepyrunner/, naivepyrunner, 0.2.0, Naive timed execution of custom handlers in multiple threads, 2018-05-30T13:31:16+0000
+/project/ndbpager/, ndbpager, 0.1.1, Pager for NDB, 2015-06-27T09:55:04+0000
+/project/tartiflette-starlette/, tartiflette-starlette, 0.6.1, (DEPRECATED) ASGI support for the Tartiflette Python GraphQL engine, 2019-10-27T14:52:20+0000
+/project/awscyrpto/, awscyrpto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:33+0000
+/project/memtop/, memtop, 1.0.4, view memory consumption of processes, 2018-06-09T14:51:47+0000
+/project/awsencrpytion/, awsencrpytion, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:32+0000
+/project/collective-portlet-quote/, collective.portlet.quote, 1.0.1, A portlet showing random quotes from a folder, 2009-11-25T18:12:26+0000
+/project/aws-crypto/, aws-crypto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:10+0000
+/project/awsencryption/, awsencryption, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:35+0000
+/project/multilint/, multilint, 5.0.1, Run multiple python linters easily, 2020-07-22T14:00:37+0000
+/project/mandrill/, mandrill, 1.0.60, Deprecated. Replaced by mailchimp-transactional - A CLI client and Python API library for the Mandrill email as a service platform., 2021-04-01T15:37:43+0000
+/project/dynamodb-encrpytion/, dynamodb-encrpytion, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:39+0000
+/project/awsencrytpionsdk/, awsencrytpionsdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:38+0000
+/project/zope-app-workflow/, zope.app.workflow, 3.5.0, Workflow Engine for Zope 3, 2009-02-01T19:35:54+0000
+/project/3to2-py3k/, 3to2_py3k, 1.0, See 3to2, 2010-10-24T06:45:48+0000
+/project/jyu-formwidget-object/, jyu.formwidget.object, 1.0b7, Introduces experimental schema.Object support for plone.autoform and plone.app.z3cform., 2011-02-23T07:47:57+0000
+/project/pg-query/, pg_query, 0.29, Pythonic wrapper around libpg_query and PostgreSQL prettifier, 2018-06-16T11:11:37+0000
+/project/django-chart-tools/, django-chart-tools, 1.0, A thin wrapper around Google Chart API that tries not to invent a new language for describing charts., 2014-03-11T18:41:48+0000
+/project/aws-encyrption-cli/, aws-encyrption-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:27+0000
+/project/hgdistver/, hgdistver, 0.25, obsoleted by setuptools_scm, 2015-02-14T20:31:17+0000
+/project/nose-randomly/, nose-randomly, 1.2.6, Nose plugin to randomly order tests and control random.seed., 2019-02-07T20:17:02+0000
+/project/google-cloud/, google-cloud, 0.34.0, API Client library for Google Cloud, 2018-07-30T19:08:16+0000
+/project/psf/, psf, 2020.1.1, Point Spread Function calculations for fluorescence microscopy, 2020-01-18T01:04:42+0000
+/project/lsl-toolkits-olddrspec/, lsl-toolkits-olddrspec, 0.2.2, LSL Toolkit for Older LWA DR Spectrometer Data, 2018-06-20T15:02:52+0000
+/project/elk-stack/, elk-stack, 0.0.1, Complete ElasticSearch Stack, 2020-06-16T19:42:15+0000
+/project/skitaid/, skitaid, 0.8.8.3, Skitai App Engine Daemon, 2017-04-05T11:30:38+0000
+/project/jtskit/, jtskit, 0.5.0, A utility library for working with JSON Table Schema in Python, 2015-11-04T10:06:41+0000
+/project/tempstorage/, tempstorage, 5.1, A RAM-based storage for ZODB, 2019-08-15T06:21:38+0000
+/project/docreader/, docreader, 1.0, A better csv.DictReader (supporting UTF-8 and type conversion), 2013-06-05T21:42:26+0000
+/project/probfit/, probfit, 1.2.0, Distribution Fitting/Regression Library, 2021-03-11T05:22:34+0000
+/project/mpl-finance/, mpl-finance, 0.10.1, Finance plots using matplotlib, 2020-02-21T20:06:39+0000
+/project/plonetheme-solemnity/, plonetheme.solemnity, 0.7, An installable theme for Plone 3.0 based on the solemnity theme by Six Shooter Media., 2009-08-19T16:08:01+0000
+/project/calcore/, calcore, 2.2.1, Calendaring system, 2006-11-03T11:09:49+0000
+/project/z3c-menu/, z3c.menu, 0.3.0, DEPRECATED: Collection of Viewlet-based Menus, 2009-02-21T10:03:03+0000
+/project/pathod/, pathod, 0.17, A pathological HTTP/S daemon for testing and stressing clients., 2016-04-10T03:18:24+0000
+/project/plonetheme-stylized/, plonetheme.stylized, 0.5, An installable theme for Plone 3.0 based on the stylized theme by NodeThirtyThree., 2008-10-29T13:14:16+0000
+/project/pytest-warnings/, pytest-warnings, 0.3.1, pytest plugin to list Python warnings in pytest report, 2020-09-29T10:50:20+0000
+/project/template-python/, Template-Python, 0.1.post1, Python port of the Template Toolkit, 2015-10-13T14:45:01+0000
+/project/pipxinpipx/, pipxinpipx, 0.0.2, Did you mean to install pipx-in-pipx?, 2019-10-27T18:46:14+0000
+/project/django-cofingo/, django-cofingo, 0.2.2, Jinja2 template renderer for Django, 2012-06-26T14:34:54+0000
+/project/pyfhi/, pyfhi, 1.0.4, PyFHI is a single script designed to fix issues with Python file handling.See README for more details., 2016-12-20T23:00:46+0000
+/project/python-pipeline/, python-pipeline, 1.0, iterator pipelines, 2012-06-10T12:27:16+0000
+/project/datapackage-validate/, datapackage-validate, 0.4.0, (DEPRECATED) A Python library to validate Data Package datapackage.json files., 2016-04-18T10:44:53+0000
+/project/compas-rcf/, compas-rcf, 0.3.1, python module for MAS DFAB project Rapid Clay Formations, 2020-10-14T13:28:13+0000
+/project/awsencyrptioncli/, awsencyrptioncli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:47+0000
+/project/awsencyrptionsdk/, awsencyrptionsdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:41+0000
+/project/xbox-smartglass-rest/, xbox-smartglass-rest, 1.10.0, Meta package - Xbox One Smartglass REST API, 2020-02-29T01:24:45+0000
+/project/robotframework-workbench/, robotframework-workbench, 0.5, Tools for working with the robotframework testing framework, 2012-07-29T20:27:59+0000
+/project/awsencryptionsdk/, awsencryptionsdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:36+0000
+/project/pipeformer/, pipeformer, 0.0.2, Placeholder for pipeformer, 2019-03-13T20:12:51+0000
+/project/aws-encyrption-sdk/, aws-encyrption-sdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:30+0000
+/project/pymodules/, pyModules, 0.3, this is a modules package, 2017-02-21T13:31:33+0000
+/project/brainlambda/, brainlambda, 0.0.0, , 2020-01-28T17:27:36+0000
+/project/nbbinder/, nbbinder, 0.13a5, Generates a navigable book-like structure         to a collection of jupyter notebooks, 2020-07-05T14:38:44+0000
+/project/fake-factory/, fake-factory, 9999.9.9, The `fake-factory` package was deprecated on December 15th, 2016. Use the `Faker` package instead., 2016-12-16T16:17:37+0000
+/project/ryzomapi/, ryzomapi, 0.1.4, Unofficial python Ryzom API (removed), 2017-09-29T16:12:36+0000
+/project/wsgi-harakiri/, wsgi-harakiri, 1.0.0, WSGI Middleware that implements a customizable 'harakiri' like  uWSGI, 2016-03-28T12:54:14+0000
+/project/grpc-health-checking/, grpc-health-checking, 1.0.0, Please install the official package with: pip install grpcio-health-checking, 2020-06-01T16:56:30+0000
+/project/lynxkite-python-api/, lynxkite-python-api, 999, Python API for LynxKite [obsolete], 2020-06-23T11:27:49+0000
+/project/pandoc-listof/, pandoc-listof, 0.3.1, A pandoc filter for automatic creation of lists, 2018-02-02T09:42:21+0000
+/project/appcheck/, appcheck, 0.1.7, Codenomicon Appcheck command line tools and API client, 2015-07-31T12:10:04+0000
+/project/products-temporaryfolder/, Products.TemporaryFolder, 6.1, Zope temporary folder support., 2021-03-16T08:10:30+0000
+/project/skype-chatsync-reader/, skype-chatsync-reader, 0.1, Parser and GUI viewer of chatsync/*.dat files from the Skype profile directory, 2015-01-22T20:56:25+0000
+/project/kiwi-project/, kiwi_project, 1.3.9.1, Kiwi est un module Django dont le but est de gérer des pages Wiki, 2013-10-20T02:26:11+0000
+/project/latlonconv/, latlonconv, 1.0.1, Methods for representing geographic coordinates, 2019-09-13T08:45:20+0000
+/project/numtdumper/, NUMTdumper, 0.1b14, NUMTdumper: validated NUMT removal for mitochondrial metabarcoding [OBSOLETE], 2020-09-24T12:08:43+0000
+/project/google-assistant-library/, google-assistant-library, 1.1.0, Google Assistant Library Python wrapper, 2020-03-03T03:42:16+0000
+/project/django-formwizard-deprecated/, django-formwizard-deprecated, 0.1.0, Original django.contrib.formtools.legacy.FormWizard from Django 1.5.12, 2015-04-24T17:20:46+0000
+/project/products-introspector/, Products.introspector, 0.1dev, A handy tool for inspecting Plone databases, 2008-12-12T00:24:47+0000
+/project/wasabi-lepton/, wasabi-lepton, 1.0b2, Wasabi-Lepton: A fork of Lepton, A high-performance, pluggable particle engine and API for Python, 2014-05-13T20:26:13+0000
+/project/humanizer-portugues/, humanizer-portugues, 2.4.1, Humanize functions for Portuguese., 2021-02-13T15:01:36+0000
+/project/azure-storage/, azure-storage, 0.37.0, Microsoft Azure Storage SDK for Python, 2020-05-11T23:24:28+0000
+/project/libiap/, libiap, 0.4.1, Please use https://github.com/umccr-illumina/libica instead, 2021-03-09T00:42:50+0000
+/project/docbook2sla/, docbook2sla, 0.0.16, A Python interface to convert DocBook to Scribus, 2008-04-13T20:16:47+0000
+/project/rtstool/, rtstool, 0.1a4, rtslib command-line interface, 2013-10-24T14:57:11+0000
+/project/uk-boards/, uk-boards, 0.5.0, uk-boards is now ukboards, 2020-12-21T01:23:53+0000
+/project/protobuf-py3/, protobuf-py3, 2.5.1, Protocol Buffers 2.5.0 with support for Python 3, 2014-06-16T15:41:17+0000
+/project/attrdict/, attrdict, 2.0.1, A dict with attribute-style access, 2019-02-01T22:33:56+0000
+/project/aws-encrytpion-sdk/, aws-encrytpion-sdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:28+0000
+/project/mkcode/, mkcode, 0.2, A make-style Python build tool, 2007-06-12T03:55:41+0000
+/project/python-cloudfiles/, python-cloudfiles, 1.7.11, CloudFiles client library for Python, 2013-12-03T22:45:24+0000
+/project/formtags/, formtags, 0.4.1, python library to generate forms and validate them using formencode and sqlalchemy, 2011-03-23T15:53:35+0000
+/project/spa-phone-api/, spa-phone-api, 0.4.0, Provides an API for Cisco/Linksys/Sipura VoIP SPA Phones, 2013-05-04T09:51:52+0000
+/project/awsencyrption/, awsencyrption, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:40+0000
+/project/unilint/, unilint, 0.1.12, script wrapping static code analyzers producing unified output (non-maintained), 2016-07-14T21:27:13+0000
+/project/jicimagelib/, jicimagelib, 0.3.4, Python package designed to make it easy to work with microscopy images., 2015-08-28T09:35:59+0000
+/project/django-atomic-signals/, django-atomic-signals, 2.0.0, Signals for atomic transaction blocks in Django 1.6+, 2016-01-26T18:37:41+0000
+/project/django-profiletools/, django-profiletools, 0.2.1, Tools for Profile models in Django., 2012-09-05T19:29:57+0000
+/project/django-atomic-dispatch/, django-atomic-dispatch, 2.0.0, Atomic transaction aware signals for Django 1.6+, 2016-01-26T18:41:33+0000
+/project/bumpversion/, bumpversion, 0.6.0, Version-bump your software with a single command!, 2020-05-14T02:19:37+0000
+/project/aws-encyrption/, aws-encyrption, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:29+0000
+/project/google-cloud-cloudasset/, google-cloud-cloudasset, 0.1.1, This package is obsolete. Please install `google-cloud-asset`., 2018-10-04T01:08:33+0000
+/project/pytorch-wheel-installer/, pytorch-wheel-installer, 0.2.1, Install PyTorch distributions from the latest wheels., 2020-09-08T05:30:12+0000
+/project/rgain/, rgain, 1.3.4, Multi-format Replay Gain utilities, 2016-05-06T10:08:07+0000
+/project/dpt3-0-dptdb/, dpt3.0-dptdb, 0.7.3, DPT database API wrappers built using SWIG, 2019-12-03T16:16:46+0000
+/project/dynamodbencryptionsdk/, dynamodbencryptionsdk, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:42+0000
+/project/kusu/, kusu, 0.1.4, DEPRECATED, 2020-02-08T23:08:36+0000
+/project/products-humanator/, Products.humanator, 0.6.2, CAPTCHA alternative for Plone 3.x, 2009-07-06T15:14:01+0000
+/project/aws-encrpytion-cli/, aws-encrpytion-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:18+0000
+/project/cilantro/, cilantro, 2.0.11, A client implementation for Serrano 2.x, 2013-11-22T11:59:02+0000
+/project/treesoup/, TreeSoup, 0.1, BeautifulSoup-like wrapper around ElementTree., 2011-04-05T14:41:35+0000
+/project/python-chess/, python-chess, 1.999, A chess library with move generation, move validation, and support for common formats., 2020-10-26T11:30:07+0000
+/project/typechecking/, TypeChecking, 1.0.0a1, <withdrawn>, 2014-06-19T01:59:17+0000
+/project/plone-multilingualbehavior/, plone.multilingualbehavior, 1.2.3, Dexterity behavior for enabling multilingual extensions, 2019-12-27T13:48:34+0000
+/project/five-globalrequest/, five.globalrequest, 99.1, DEPRECATED: Zope integration for zope.globalrequest, 2017-06-08T10:25:54+0000
+/project/buildvu/, buildvu, 4.1.5, [Deprecated] Future development has been directed to IDRCloudClient, which can be used for the same purpose., 2020-08-05T13:02:47+0000
+/project/python-graphy/, python-graphy, 0.4.0, A fast and modern graphql client library designed with simplicity in mind., 2020-09-02T09:08:05+0000
+/project/awsencryptioncli/, awsencryptioncli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:36+0000
+/project/socrates-gui/, socrates-gui, 2.1.1, Source of Truth for hardware, virtual machines, and networks, 2020-05-25T09:37:46+0000
+/project/aws-crpyto/, aws-crpyto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:07+0000
+/project/fastcomp/, fastcomp, 1.3.0, Deprecated. This package will be removed in 2019/08/01, 2018-07-16T04:39:47+0000
+/project/pysubs/, pysubs, 0.1.1, SubStation-based subtitle framework (deprecated), 2011-12-26T18:44:38+0000
+/project/dynamodbencrytpionsdk/, dynamodbencrytpionsdk, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:46+0000
+/project/dodgy/, dodgy, 0.2.1, Dodgy: Searches for dodgy looking lines in Python code, 2019-12-31T16:44:58+0000
+/project/python-mindmeister/, python-mindmeister, 1.4.1, Unofficial Mindmeister API binding for python., 2012-07-25T19:15:29+0000
+/project/testinfra/, testinfra, 6.0.0, Test infrastructures, 2020-11-12T21:39:43+0000
+/project/mockmockmock/, MockMockMock, 0.5.3, Mocking library focusing on very explicit definition of the mocks' behaviour, 2017-06-06T13:37:50+0000
+/project/dbus-python/, dbus-python, 1.2.16, Python bindings for libdbus, 2020-01-14T09:47:42+0000
+/project/jpype1-py3/, JPype1-py3, 0.5.5.4, Python-Java bridge. Fork of the jPype project by Steve Menard (http://jpype.sourceforge.net/), with the modifications applied by Luis Nell (https://github.com/originell/jpype), 2019-05-31T11:02:39+0000
+/project/marionette-client/, marionette_client, 3.3.0, Marionette test automation client, 2016-12-13T16:42:21+0000
+/project/data-structures/, data-structures, 0.1.6, Extra Python Data Structures - bags (multisets) and setlists (ordered sets), 2015-01-20T23:37:14+0000
+/project/rudolf/, rudolf, 0.3, Colour output plugin for the nose testing framework, 2007-12-22T18:49:39+0000
+/project/fgdtools/, fgdtools, 1.0.2, (DEPRECATED: check ValveFGD) A library to parse .fgd files used in the source engine., 2021-02-15T09:30:24+0000
+/project/pysec/, pysec, 0.1.212, Tool to get stolen notebook back., 2018-06-09T15:21:32+0000
+/project/django-model-filters/, django-model-filters, 0.8.0, Simple filters for generic object template blocks, 2011-06-22T05:11:44+0000
+/project/nbastats/, nbastats, 1.1.0, Rebuilding this under the package name py-goldsberry, 2014-03-09T14:38:33+0000
+/project/initgroups/, initgroups, 4.0, Convenience uid/gid helper function used in Zope2., 2017-10-13T06:08:22+0000
+/project/jspcapy/, jspcapy, 0.4.0.post2, A command line pcap file analyser tool., 2018-11-28T09:16:18+0000
+/project/polyscience/, polyscience, 0.1.16, Python driver for Polyscience circulating baths., 2019-02-10T01:44:04+0000
+/project/ube/, ube, 0.1, Unified Back End(UBE) is a collection of libraries used by the OptimalBPM system., 2013-09-01T21:32:53+0000
+/project/rng/, RNG, 1.9.1, Python3 API for the C++ Random Library, 2020-11-19T18:49:30+0000
+/project/visilens/, visilens, 0.1, Module for modeling gravitational lensing systems in which the data are not images but interferometric visibilities., 2020-03-16T21:42:28+0000
+/project/pipipx/, pipipx, 0.0.2, Did you mean to install pipx-in-pipx?, 2019-10-27T18:46:19+0000
+/project/simple-git-deploy/, simple-git-deploy, 0.6, A command-line utility for easy and reliable management of manual deployments from Git repositories, 2020-09-22T01:58:02+0000
+/project/colorcode/, colorcode, 1.0.2, Using Python to make multi-colored 2D codes!, 2019-05-08T10:05:21+0000
+/project/django-acme/, django-acme, 0.2.4, A re-usable Django app to quickly deploy a page for the ACME challenge, 2017-02-14T19:40:01+0000
+/project/flint/, flint, 0.2, Obsolete - the modular Python source code checker, 2013-02-23T23:42:35+0000
+/project/fishnet/, fishnet, 1.18.2, Distributed Stockfish analysis for lichess.org, 2020-11-28T16:48:16+0000
+/project/discogs-client/, discogs-client, 2.3.0, Official Python API client for Discogs, 2020-06-01T21:38:24+0000
+/project/todopoc/, todopoc, 1.3, A To-Do app for Proof of various Concepts, 2020-04-26T11:50:30+0000
+/project/mypdns/, mypdns, 0.0.1.dev4, Name space reservation, 2020-10-25T06:21:17+0000
+/project/grpc/, grpc, 1.0.0, Please install the official package with: pip install grpcio, 2020-06-01T16:56:28+0000
+/project/xml-analyzer/, xml-analyzer, 1.0, xml-analyzer is now xml-analyser, 2020-10-11T19:15:42+0000
+/project/ankisync/, ankisync, 0.2.3.1, Doing in Anki what AnkiConnect cannot do, 2020-11-16T20:29:51+0000
+/project/pyntlib/, pyntlib, 1.5.0.post4, A number theory library adapted from mathematic fundamentals of information security homework codes., 2018-11-28T09:14:48+0000
+/project/imreg/, imreg, 2020.1.1, FFT based image registration, 2020-01-18T01:04:28+0000
+/project/layer-linter/, layer-linter, 0.12.3, Layer Linter checks that your project follows a custom-defined layered architecture., 2019-06-08T15:18:36+0000
+/project/pyxmpi/, PyxMPI, 1.0, Pyrex wrapper for MPI (Message Passing Interface) 1.1, 2007-08-15T04:20:43+0000
+/project/upoints/, upoints, 0.12.2, Modules for working with points on Earth, 2014-02-20T21:38:50+0000
+/project/pytest-nbsmoke/, pytest-nbsmoke, 0.1.7, Deprecated: now nbsmoke (see https://github.com/pyviz/nbsmoke)., 2018-06-01T14:28:06+0000
+/project/nodist/, nodist, 0.3.1, Node.js version manager, 2013-08-29T19:41:27+0000
+/project/django-localflavor-br/, django-localflavor-br, 1.0, Country-specific Django helpers for Brazil., 2013-04-07T11:38:42+0000
+/project/python-morfeusz/, python-morfeusz, 0.3400, interface to Morfeusz, 2017-07-03T18:26:37+0000
+/project/wareweb/, Wareweb, 0.3, A web framework; a next generation evolution from Webware/WebKit's servlet model, 2006-10-22T21:19:02+0000
+/project/xcrun/, xcrun, 0.4, Python wrapper around the xcrun utility, 2018-12-22T19:18:26+0000
+/project/azf-wsgi/, azf-wsgi, 0.3.1, Azure Functions WSGI implementation [deprecated], 2020-03-08T11:43:02+0000
+/project/python-owasp-zap-v2/, python-owasp-zap-v2, 0.0.9, OWASP ZAP API client, 2014-07-02T11:16:48+0000
+/project/pytest-web-ui/, pytest-web-ui, 1.4.0, An interactive web UI test runner for PyTest, 2020-08-25T18:23:16+0000
+/project/pyro/, Pyro, 3.16, distributed object middleware for Python (IPC/RPC), version 3.x, 2012-04-08T22:50:45+0000
+/project/awsencrytpion/, awsencrytpion, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:37+0000
+/project/botornot/, botornot, 0.3, Check Twitter accounts for bot behavior, 2016-11-10T16:17:09+0000
+/project/avro-python3/, avro-python3, 1.10.2, Avro is a serialization and RPC framework., 2021-03-17T10:43:56+0000
+/project/aws-encrpytion/, aws-encrpytion, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:22+0000
+/project/awsencrpytionsdkcli/, awsencrpytionsdkcli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:35+0000
+/project/aws-encryption-cli/, aws-encryption-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:21+0000
+/project/cache-magic/, cache-magic, 1.0.4, Versatile cache line magic for jupyter notebooks, based on https://pypi.org/project/ipython-cache/, 2018-08-07T18:28:54+0000
+/project/vcstools/, vcstools, 0.1.42, VCS/SCM source control library for svn, git, hg, and bzr, 2019-08-07T18:30:05+0000
+/project/brobox-client/, brobox-client, 1.0.6, This package has been renamed to 'corelight-client'., 2017-10-05T22:24:54+0000
+/project/format257/, format257, 1.0.0, Format docstrings as per PEP 257, 2014-08-22T06:38:15+0000
+/project/megrok-genshi/, megrok.genshi, 1.0, Genshi integration in Grok, 2008-12-09T17:02:34+0000
+/project/openstack-user-management/, openstack_user_management, 0.1.0.dev4, OpenStack User Management, 2016-11-08T11:47:13+0000
+/project/cloudscale/, cloudscale, 0.16.0, A library and command line interface for cloudscale.ch, 2020-09-15T12:07:12+0000
+/project/bs4/, bs4, 0.0.1, Dummy package for Beautiful Soup, 2016-03-03T13:24:52+0000
+/project/transformations/, transformations, 2020.1.1, Homogeneous Transformation Matrices and Quaternions, 2020-01-18T01:04:51+0000
+/project/gcs-oauth2-boto-plugin/, gcs-oauth2-boto-plugin, 2.7, Auth plugin allowing use the use of OAuth 2.0 credentials for Google Cloud Storage in the Boto library., 2020-08-18T15:23:20+0000
+/project/jiveapi/, jiveapi, 1.0.0, Simple and limited Python client for Jive collaboration software ReST API v3., 2019-10-13T15:21:30+0000
+/project/azure-devops-keyring/, azure-devops-keyring, 0.3, "(Deprecated) Automatically retrieve passwords for Azure DevOps.", 2019-09-23T22:32:23+0000
+/project/pymorphy/, pymorphy, 0.5.6, Morphological analyzer (POS tagger + inflection engine) for Russian and English (+perhaps German) languages., 2011-09-10T23:04:56+0000
+/project/recursivedocument/, RecursiveDocument, 0.5.2, Format, in a console-friendly and human-readable way, a document specified through its structure, 2018-09-08T08:24:08+0000
+/project/tkdocviewer/, tkDocViewer, 2.0.2, Document viewer widget for Tkinter, 2021-02-18T22:45:01+0000
+/project/hwrt/, hwrt, 0.2.1, Handwriting Recognition Tools, 2020-06-21T20:16:12+0000
+/project/django-modeldict-yplan/, django-modeldict-yplan, 2.0.3, Stores a model as a dictionary, 2019-05-17T20:52:39+0000
+/project/dynamodbencrpytionsdk/, dynamodbencrpytionsdk, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:45+0000
+/project/django-whatever-es9iecor/, django-whatever-es9iecor, 0.2.3, Unobtrusive test models creation for django., 2019-06-07T10:45:10+0000
+/project/vin-decoder/, vin_decoder, 0.1.1, VIN decoder (Vehicle identification number), 2018-06-09T16:03:46+0000
+/project/django-federated-login/, django-federated-login, 1.0.0, Provides federated login (SSO) to Django projects, 2014-03-23T07:48:08+0000
+/project/ralbot-ipxact/, ralbot-ipxact, 1.4.0, Import and export IP-XACT XML to/from the systemrdl-compiler register model, 2020-09-13T22:41:48+0000
+/project/aws-encrytpion/, aws-encrytpion, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:27+0000
+/project/cs-serialise/, cs.serialise, 20210316.2, OBSOLETE: some serialising functions. Please use by cs.binary instead., 2021-03-15T23:43:55+0000
+/project/libhockey/, libhockey, 0.23.0, A Python wrapper around the Hockey App API., 2019-10-07T14:54:34+0000
+/project/django-feature-policy/, django-feature-policy, 4.0.0, django-feature-policy is now django-permissions-policy., 2021-03-24T15:09:40+0000
+/project/pretty-cron/, pretty-cron, 1.2.0, Retired in favour of cron_descriptor. (Converts crontab expressions to human-readable descriptions)., 2018-08-22T21:37:03+0000
+/project/l20n/, l20n, 4.0.0a1, Python L20n library, 2016-07-19T12:23:06+0000
+/project/opencivicdata-divisions/, opencivicdata-divisions, 3000, OBSOLETE - see opencivicdata package, 2017-05-25T03:58:04+0000
+/project/regression/, regression, 0.5.0, Web app for regression analysis of provided data files, 2021-01-01T15:36:23+0000
+/project/sq-oauth2client/, sq-oauth2client, 4.1.3, OAuth 2.0 client library, 2018-12-25T07:10:39+0000
+/project/dynamodb-encrytpion/, dynamodb-encrytpion, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:40+0000
+/project/django-pagination-bootstrap/, django-pagination-bootstrap, 2.4.4, Easy add pagination in Django, using Bootstrap's layout., 2021-01-23T21:54:08+0000
+/project/python-builtwith/, python-builtwith, 1.0.0, BuiltWith API versions 1, 2 and 7 client, 2020-04-12T06:41:15+0000
+/project/pytram/, pytram, 0.3.0, The TRAM package, 2016-05-25T09:52:18+0000
+/project/html2docbook/, html2docbook, 0.1, HTML to DocBook transformation, 2009-03-11T20:04:08+0000
+/project/jyu-z3cform-placeholder/, jyu.z3cform.placeholder, 1.0b3, Integrates jQuery Watermark for z3c.form on Plone., 2011-02-23T07:53:31+0000
+/project/vxpolls/, vxpolls, 0.1.0, Simple polling / survey framework for Vumi apps, 2014-07-17T13:15:19+0000
+/project/awsencrytpioncli/, awsencrytpioncli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:42+0000
+/project/pythoneggtools/, PythonEggTools, 1.0a0, Command line tools for working with Python packages, 2006-12-22T18:11:02+0000
+/project/grpc-google-logging-v2/, grpc-google-logging-v2, 0.11.1, GRPC library for the google-logging-v2 service, 2016-09-30T01:13:51+0000
+/project/vega3/, vega3, 0.13.0, Deprecated: please use vega, 2018-05-08T01:54:16+0000
+/project/aws-encyrption-sdk-cli/, aws-encyrption-sdk-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:28+0000
+/project/scrapylib/, scrapylib, 1.7.1, Scrapy helper functions and processors, 2016-11-14T13:08:28+0000
+/project/pytest-forked/, pytest-forked, 1.3.0, run tests in isolated forked subprocesses, 2020-07-27T19:50:10+0000
+/project/cmdstyle/, cmdstyle, 0.1.0, Command line interface framework, 2011-11-09T12:42:51+0000
+/project/pypiparker/, pypiparker, 0.0.9, parked, 2017-10-09T03:46:52+0000
+/project/django-nosqladmin/, django-nosqladmin, 0.1.1, An introspective interface for Django and Document Based NoSQL databases, 2012-03-15T06:33:17+0000
+/project/akima/, akima, 2020.1.1, Akima Interpolation, 2020-01-18T01:04:07+0000
+/project/qdafile/, qdafile, 2020.1.1, Read and write QDA files, 2020-01-18T01:04:49+0000
+/project/ralbot-html/, ralbot-html, 1.7.1, HTML documentation generator for SystemRDL-based register models, 2020-09-13T22:35:28+0000
+/project/pudge/, pudge, 0.1.3, Pudge is a documentation generator for Python projects, using Restructured Text, 2007-04-13T01:09:02+0000
+/project/rawphoto/, rawphoto, 0.4.1, Utilities for managing raw photos, 2015-05-30T17:42:44+0000
+/project/z3c-viewlet/, z3c.viewlet, 1.1.0, DEPRECATED: Collection of Viewlet Extensions, 2009-02-21T09:46:41+0000
+/project/reverseecology/, reverseEcology, 1.0.0, Reverse ecology analysis of metabolic network reconstructions, 2017-08-07T20:07:15+0000
+/project/intouch-client/, intouch-client, 0.2.4.post0, A aiohttp-based client for Intergas Intouch Lan2RF systems, 2019-08-18T11:16:22+0000
+/project/coil/, coil, 1.3.12, A user-friendly CMS frontend for Nikola., 2017-10-03T19:41:20+0000
+/project/aws-encrpytion-sdk-cli/, aws-encrpytion-sdk-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:20+0000
+/project/awsencrpytionsdk/, awsencrpytionsdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:33+0000
+/project/datasette-insert-api/, datasette-insert-api, 0.5, datasette-insert-api is now datasette-insert, 2020-07-25T20:36:04+0000
+/project/talaria/, Talaria, 0.2.0, Talaria, a geek-friendly content management system, 2010-06-19T07:33:12+0000
+/project/awsencryptionsdkcli/, awsencryptionsdkcli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:41+0000
+/project/simplegeneric/, simplegeneric, 0.8.1, Simple generic functions (similar to Python's own len(), pickle.dump(), etc.), 2012-04-01T21:39:04+0000
+/project/utilinaut/, utilinaut, 0.0.2, General utilities for use in Python scripting., 2016-03-03T15:46:56+0000
+/project/fusnmp/, fusnmp, 1.0.3, A small but complete NetSNMP ctypes wrapper., 2019-06-14T20:29:35+0000
+/project/cpac-py/, cpac-py, 0.2.5.post1, C-PAC Python Package, 2020-07-22T18:26:34+0000
+/project/django-transaction-hooks/, django-transaction-hooks, 0.3, Django database backends that permit registering post-transaction-commit hooks, 2020-03-15T23:57:11+0000
+/project/nntoolkit/, nntoolkit, 0.2.2, Neural Network Toolkit, 2020-06-21T19:06:58+0000
+/project/forgetsql/, forgetSQL, 0.5.1, forgetSQL is a Python module for accessing SQL databases by creating, 2006-01-23T22:51:10+0000
+/project/awsencrpytioncli/, awsencrpytioncli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:34+0000
+/project/lucam/, lucam, 2020.1.1, Lumenera(r) USB Camera Interface, 2020-01-18T01:04:37+0000
+/project/kezmenu/, KezMenu, 0.3.6, A simple and basical Pygame library for fast develop of menu interfaces, 2013-06-07T17:24:45+0000
+/project/ethtool/, ethtool, 0.14, Python module to interface with ethtool, 2018-09-13T09:23:25+0000
+/project/datapackage-registry/, datapackage-registry, 0.5.0, (DEPRECATED) A Python library for working with a Data Package Registry., 2016-04-18T10:36:31+0000
+/project/supybot/, supybot, 0.84.0, A flexible and extensible Python IRC bot and framework., 2018-05-10T00:44:10+0000
+/project/lepl/, LEPL, 5.1.3, A Parser Library for Python 2.6+/3+: Recursive Descent; Full Backtracking, 2012-06-10T01:52:02+0000
+/project/as-easy-as-pie/, as-easy-as-pie, 0.51, Really easy, 2021-01-05T09:05:56+0000
+/project/esther/, esther, 1.3.0, Un simple afficheur d'élements d'une liste, 2014-07-29T22:45:31+0000
+/project/grpc-reflection/, grpc-reflection, 1.0.0, Please install the official package with: pip install grpcio-reflection, 2020-06-01T16:56:31+0000
+/project/oauth2client-master/, oauth2client-master, 4.1.3, OAuth 2.0 client library, 2019-07-18T07:08:37+0000
+/project/pandoc-beamer-notes/, pandoc-beamer-notes, 0.1.2, A pandoc filter to allow a markdown way of using notes for latex beamer presentations., 2017-09-21T07:33:54+0000
+/project/interactivecommandline/, InteractiveCommandLine, 0.3.4, Framework for interactive and command-line programs., 2018-09-08T08:14:41+0000
+/project/bintrees/, bintrees, 2.2.0, Package provides Binary-, RedBlack- and AVL-Trees in Python and Cython., 2020-12-12T08:51:15+0000
+/project/zeorawdata/, ZeoRawData, 2.0, Zeo Raw Data Library, 2014-09-20T08:03:24+0000
+/project/cache-tagging/, cache-tagging, 0.7.7.40, Project has been moved to https://pypi.python.org/pypi/cache-dependencies, 2016-12-13T02:00:33+0000
+/project/openplansboot/, OpenplansBoot, 0.2, Creates new Openplans site deployment setup, 2008-07-12T02:12:35+0000
+/project/accretion/, accretion, 0.0.1, Did you mean to install accretion_cli?, 2019-06-18T07:51:11+0000
+/project/pygnm/, pygnm, 0.1, Python Gaussian Network Model, 2010-02-20T17:05:13+0000
+/project/mekk-greader/, mekk.greader, 1.2.3, Simple wrapper for Google Reader API., 2012-11-12T08:01:48+0000
+/project/aws-cdk-aws-cloudformation/, aws-cdk.aws-cloudformation, 1.100.0, The CDK Construct Library for AWS::CloudFormation, 2021-04-20T17:58:08+0000
+/project/datasette-publish-now/, datasette-publish-now, 0.7, datasette-publish-now is now datasette-publish-vercel, 2020-07-31T16:57:22+0000
+/project/imagecodecs-lite/, imagecodecs-lite, 2020.1.31, The imagecodecs-lite package is deprecated. Use the imagecodecs package instead., 2020-02-17T03:41:32+0000
+/project/azure-cognitiveservices-formrecognizer/, azure-cognitiveservices-formrecognizer, 0.1.1, Microsoft Azure Cognitive Services Form Recognizer Client Library for Python, 2020-09-22T21:26:36+0000
+/project/kwargs-only/, kwargs-only, 1.1.1, A decorator to make a function accept keyword arguments only, on both Python 2 and 3., 2019-12-21T17:34:19+0000
+/project/py-asterisk-banner/, py-asterisk-banner, 1.0.2, Baneador de IPs en Asterisk con soporte para SIP y PJSIP, 2018-04-06T09:34:33+0000
+/project/yafowil-zope2/, yafowil.zope2, 1.1, Zope2/ Plone Integration with YAFOWIL, 2012-03-20T11:05:53+0000
+/project/aws-cyrpto/, aws-cyrpto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:15+0000
+/project/gocept-jsform/, gocept.jsform, 3.0.3, Next generation forms in javascript, 2019-09-06T08:23:46+0000
+/project/keysmith/, keysmith, 3.0.1, Passphrase Generator, 2019-07-02T04:08:03+0000
+/project/oauth2client/, oauth2client, 4.1.3, OAuth 2.0 client library, 2018-09-07T21:38:16+0000
+/project/products-ienablesettrace/, Products.Ienablesettrace, 1.1.0, Fork of Products.enablesettrace which also allows import of ipdb in restricted code., 2021-01-20T17:27:29+0000
+/project/cellnopt-core/, cellnopt.core, 1.0.0, Functions to manipulate networks and data related to signalling pathways., 2014-11-27T15:32:38+0000
+/project/director/, director, 1.2.0, Command line plugin library, 2009-03-08T00:54:50+0000
+/project/xtea3/, xtea3, 1.0.0, Obsolete Python 3 implementation of XTEA., 2019-06-17T11:25:42+0000
+/project/caniusepython3/, caniusepython3, 7.3.0, Determine what projects are blocking you from porting to Python 3, 2021-01-01T23:11:47+0000
+/project/grpc-testing/, grpc-testing, 1.0.0, Please install the official package with: pip install grpcio-testing, 2020-06-01T16:56:33+0000
+/project/queue-util/, queue-util, 3.2.2, A set of utilities for consuming (and producing) from a rabbitmq queue, 2020-10-22T22:08:58+0000
+/project/oneliners/, oneliners, 1.0, A collection of random one-liner jokes scraped from the Internet., 2018-02-21T23:51:21+0000
+/project/reverend/, Reverend, 0.4, Divmod Reverend - a simple Bayesian classifier, 2009-11-29T19:00:51+0000
+/project/collective-zombiedoctesting/, collective.zombiedoctesting, 1.1.0, Fast functional JavaScript testing with Zombie.js, 2012-04-27T14:20:18+0000
+/project/mekk-feeds/, mekk.feeds, 1.4.3, RSS scripting, 2012-11-12T08:06:17+0000
+/project/positional/, positional, 1.2.1, Library to enforce positional or key-word arguments (deprecated/unmaintained), 2017-08-08T00:24:46+0000
+/project/sc-galleria-support/, sc.galleria.support, 1.0.1, Simple gallery for Plone based in http://galleria.io, 2017-01-11T15:50:02+0000
+/project/xbox-smartglass-auxiliary/, xbox-smartglass-auxiliary, 1.10.0, Meta package - Title channel / AuxiliaryStream extension of the Xbox One SmartGlass protocol., 2020-02-29T00:28:54+0000
+/project/gizmo/, gizmo, 0.1.12, Async Python 3 driver for TP3 Gremlin Server, 2015-04-19T20:32:11+0000
+/project/django-frontend-static/, django-frontend-static, 1.2.0, A basic Django application to install often used static files., 2013-08-29T17:40:37+0000
+/project/amo-validator/, amo-validator, 1.11.2, Validates add-ons for Mozilla products., 2019-01-24T07:53:56+0000
+/project/awscrpyto/, awscrpyto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:29+0000
+/project/mongokit-pylons/, mongokit-pylons, 0.2.0, MongoDB interface for ORM-like object mapping (w/ Pylons support), 2009-10-11T02:08:04+0000
+/project/ovirt-engine-sdk/, ovirt-engine-sdk, 3.2.0.11-SNAPSHOT, A SDK interface to oVirt Virtualization, 2013-09-11T09:46:59+0000
+/project/aws-cdk-aws-eks-legacy/, aws-cdk.aws-eks-legacy, 1.100.0, The CDK Construct Library for AWS::EKS (Legacy), 2021-04-20T17:58:54+0000
+/project/lumixmaptool/, lumixmaptool, 1.0.16, Manage GPS information for Panasonic Lumix cameras., 2018-06-09T15:12:32+0000
+/project/django-testdata/, django-testdata, 1.0.3, Django application providing isolation for model instances created during `setUpTestData`., 2021-04-18T02:19:05+0000
+/project/grpc-channelz/, grpc-channelz, 1.0.0, Please install the official package with: pip install grpcio-channelz, 2020-06-01T16:56:29+0000
+/project/rotamerconvolvemd/, RotamerConvolveMD, 1.3.2, Analysis of spin label distances over structural ensembles, 2020-07-12T05:42:57+0000
+/project/pyrblx/, pyrblx, 3.1, pyrblx Is A library Written In Python For Roblox, 2021-01-29T07:15:55+0000
+/project/scopus/, scopus, 2.0.9, Outdated package, 2019-06-17T14:39:29+0000
+/project/pywiki2xhtml/, PyWiki2xhtml, 1.8.4, Old and deprecated stuff, use at your own risk, 2013-07-26T22:16:08+0000
+/project/pylibgen/, pylibgen, 2.0.2, Python interface to Library Genesis., 2019-06-06T14:04:59+0000
+/project/aws-encryption/, aws-encryption, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:25+0000
+/project/psycopg-postgis/, psycopg-postgis, 0.4.0, Deprecated. Use postgis package instead., 2017-06-23T16:29:14+0000
+/project/dxfgrabber/, dxfgrabber, 1.0.1, A Python library to grab information from DXF drawings - all DXF versions supported., 2020-01-01T05:53:44+0000
+/project/apipy/, apipy, 0.5.15, A Python 3 library for interacting with the Stack Exchange API., 2016-02-28T21:24:29+0000
+/project/collective-lcstartp/, collective.lcstartp, 0.1, Linkchecker start page, 2012-02-08T08:22:00+0000
+/project/jsrn/, jsrn, 0.3.2, JavaScript Resource Notation for Python, 2013-07-16T14:20:56+0000
+/project/awscrypto/, awscrypto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:30+0000
+/project/netlib/, netlib, 0.17, A collection of network utilities used by pathod and mitmproxy., 2016-04-10T03:18:59+0000
+/project/jyu-z3cform-datepicker/, jyu.z3cform.datepicker, 1.0rc4, Integrates Keith Wood's jQuery Datepicker for z3c.form on Plone., 2011-02-22T14:05:10+0000
+/project/pywoa/, pyWOA, 0.1.2, Package to subsample World Ocean Atlas climatology., 2016-02-16T06:00:01+0000
+/project/django-zonecache/, django-zonecache, 0.2.2, Small library to add support for cache zones to Django cache, 2013-05-27T08:55:09+0000
+/project/hydrodata/, hydrodata, 0.9.4, hydrodata is now pygeohydro, 2021-03-06T09:09:47+0000
+/project/mailtools/, mailtools, 3.0.1, Tools for constructing and sending emails, 2019-11-06T13:54:32+0000
+/project/azure/, azure, 5.0.0, Microsoft Azure Client Libraries for Python, 2020-04-08T21:30:53+0000
+/project/faster-closeio/, faster-closeio, 1.5.2, Slim API wrapper to access close.io CRM., 2020-02-24T10:49:47+0000
+/project/mailchimp/, mailchimp, 2.0.10, Deprecated. Replaced by mailchimp-marketing - A CLI client and Python API library for the MailChimp email platform., 2021-04-01T15:32:03+0000
+/project/doppler-client/, doppler-client, 1.0.12, This package is deprecated and is no longer functional. Learn how to migrate to the new CLI at https://docs.doppler.com/docs/removal-deprecated-packages-scripts, 2021-01-20T00:42:46+0000
+/project/flint-naming/, flint-naming, 0.2, Check PEP-8 naming conventions, plugin for flint, 2013-02-22T11:01:37+0000
+/project/aws-encrytpion-sdk-cli/, aws-encrytpion-sdk-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:26+0000
+/project/uploadfu/, UploadFu, 0.5, Bittorrent upload tools for win32, 2009-05-20T21:42:03+0000
+/project/grpc-status/, grpc-status, 1.0.0, Please install the official package with: pip install grpcio-status, 2020-06-01T16:56:32+0000
+/project/aws-encrytpion-cli/, aws-encrytpion-cli, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:25+0000
+/project/nereid/, Nereid, 2.8.0.3, Deprecated, use: trytond_nereid, 2013-06-13T08:50:54+0000
+/project/echelon/, Echelon, 0.1.0, A tiny cms built with Django, 2011-09-24T10:25:17+0000
+/project/grpc-tools/, grpc-tools, 1.0.0, Please install the official package with: pip install grpcio-tools, 2020-06-01T16:56:34+0000
+/project/samplepackage/, samplePackage, 0.1, Convert library object with high version to low and low to high, does not allow to switch version if object, material or mesh have undergone changes, 2017-02-17T09:21:57+0000
+/project/aws-encrpytion-sdk/, aws-encrpytion-sdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:24+0000
+/project/django-extra-fields/, django-extra-fields, 3.0.2, Additional fields for Django Rest Framework., 2020-09-22T13:38:21+0000
+/project/stsci-imagestats/, stsci.imagestats, 1.6.2, Compute sigma-clipped statistics on data arrays, 2019-03-28T18:18:31+0000
+/project/cadspy/, cadspy, 0.0.0, Stub package, 2021-02-12T16:50:34+0000
+/project/dynamodb-encyrption/, dynamodb-encyrption, 0.0.2, Did you mean to install dynamodb-encryption-sdk?, 2018-08-02T00:06:38+0000
+/project/cartridge-tax/, cartridge-tax, 0.0.3, A tax module for Cartridge., 2012-11-10T18:11:42+0000
+/project/dxfwrite/, dxfwrite, 1.2.2, A Python library to create DXF R12 drawings., 2020-01-01T05:30:29+0000
+/project/octohat/, octohat, 0.1.9, octohat - no longer maintained. See: octohatrack, 2015-11-21T07:42:41+0000
+/project/aws-cdk-aws-dynamodb-global/, aws-cdk.aws-dynamodb-global, 1.100.0, Build a global dynamodb table, 2021-04-20T17:58:44+0000
+/project/socrates-api/, socrates-api, 2.0.12, Source of Truth for hardware, virtual machines, and networks, 2021-03-25T10:38:53+0000
+/project/snowchange/, snowchange, 2.8.1, snowchange is now schemachange, 2021-04-02T19:51:54+0000
+/project/global-benchmark-database-tool/, global-benchmark-database-tool, 2.9.0, Superseded by: gbd-tools, 2020-07-16T08:18:22+0000
+/project/tensorvision/, tensorvision, 0.1.dev2, A library to build and train neural networks in with TensorFlow for Computer Vision, 2018-06-09T15:45:01+0000
+/project/awkward0/, awkward0, 0.15.5, Manipulate arrays of complex data structures as easily as Numpy., 2021-02-08T18:34:04+0000
+/project/monitoring-plugin/, monitoring-plugin, 1.0.6, OpenStack Monitoring Plugin for Horizon, 2014-07-07T16:33:52+0000
+/project/django-markup-deprecated/, django-markup-deprecated, 0.0.3, Original django.contrib.markup from Django 1.4.1., 2014-01-13T17:35:16+0000
+/project/oroboros/, oroboros, 20080712, Astrology software, 2008-07-12T10:23:24+0000
+/project/cheops/, cheops, 0.0.3, CHEOPS is now PYCHEOPS, 2018-03-26T08:06:06+0000
+/project/locative-ml-helpers/, locative-ml-helpers, 0.0.37, Global Machine learning helpers for training and deploying on cloud with docker, 2020-11-29T05:20:54+0000
+/project/astro-pi/, astro-pi, 1.1.8, Python API for Astro Pi (Sense HAT) for the Raspberry Pi, 2015-08-25T09:52:39+0000
+/project/datasette-edit-tables/, datasette-edit-tables, 0.3a2, datasette-edit-tables is now datasette-edit-schema, 2020-10-01T21:31:46+0000
+/project/five-pt/, five.pt, 3.0, DEPRECATED: Five bridges and patches to use Chameleon with Zope., 2017-11-30T07:58:45+0000
+/project/gitprompt/, GitPrompt, 0.1.1, Display git repository information in a command prompt., 2009-10-26T04:57:31+0000
+/project/pyintervaltree/, PyIntervalTree, 0.5, Mutable, self-balancing interval tree, 2015-01-15T18:01:28+0000
+/project/image-cleaner/, image_cleaner, 0.1.2, remove metadata from images to enhance privacy, 2018-06-09T14:44:56+0000
+/project/scibag/, scibag, 0.2.1, Data science meta-package, 2016-09-13T16:27:33+0000
+/project/opencivicdata-django/, opencivicdata-django, 0.99999, OBSOLETE - see opencivicdata package, 2017-05-25T03:59:38+0000
+/project/aws-cdk-yaml-cfn/, aws-cdk.yaml-cfn, 1.100.0, Utilities for handling CloudFormation-flavored YAML, 2021-04-20T18:01:05+0000
+/project/awscrytpo/, awscrytpo, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:32+0000
+/project/gapic-google-logging-v2/, gapic-google-logging-v2, 0.11.1, GAPIC library for the Stackdriver Logging API, 2016-09-30T01:33:59+0000
+/project/hac-game-lib/, hac-game-lib, 1.1.99, A small game development framework for teaching programming., 2020-08-30T17:03:27+0000
+/project/amo-validator/, amo-validator, 1.11.2, Validates add-ons for Mozilla products., 2019-01-24T07:53:56+0000
+/project/awscrpyto/, awscrpyto, 0.0.1, Did you mean to install aws-encryption-sdk-cli?, 2017-11-18T04:01:29+0000
+/project/mongokit-pylons/, mongokit-pylons, 0.2.0, MongoDB interface for ORM-like object mapping (w/ Pylons support), 2009-10-11T02:08:04+0000
+/project/ovirt-engine-sdk/, ovirt-engine-sdk, 3.2.0.11-SNAPSHOT, A SDK interface to oVirt Virtualization, 2013-09-11T09:46:59+0000
+/project/lsl-toolkits-s60/, lsl-toolkits-s60, 0.2.1, LSL Toolkit for S60 data, 2018-06-20T15:03:15+0000
+/project/aws-cdk-aws-eks-legacy/, aws-cdk.aws-eks-legacy, 1.100.0, The CDK Construct Library for AWS::EKS (Legacy), 2021-04-20T17:58:54+0000
+/project/lumixmaptool/, lumixmaptool, 1.0.16, Manage GPS information for Panasonic Lumix cameras., 2018-06-09T15:12:32+0000
+/project/django-testdata/, django-testdata, 1.0.3, Django application providing isolation for model instances created during `setUpTestData`., 2021-04-18T02:19:05+0000
+/project/grpc-channelz/, grpc-channelz, 1.0.0, Please install the official package with: pip install grpcio-channelz, 2020-06-01T16:56:29+0000
+/project/rotamerconvolvemd/, RotamerConvolveMD, 1.3.2, Analysis of spin label distances over structural ensembles, 2020-07-12T05:42:57+0000
+/project/pyrblx/, pyrblx, 3.1, pyrblx Is A library Written In Python For Roblox, 2021-01-29T07:15:55+0000
+/project/scopus/, scopus, 2.0.9, Outdated package, 2019-06-17T14:39:29+0000
+/project/pywiki2xhtml/, PyWiki2xhtml, 1.8.4, Old and deprecated stuff, use at your own risk, 2013-07-26T22:16:08+0000
+/project/pylibgen/, pylibgen, 2.0.2, Python interface to Library Genesis., 2019-06-06T14:04:59+0000
+/project/aws-encryption/, aws-encryption, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:25+0000
+/project/psycopg-postgis/, psycopg-postgis, 0.4.0, Deprecated. Use postgis package instead., 2017-06-23T16:29:14+0000
+/project/dxfgrabber/, dxfgrabber, 1.0.1, A Python library to grab information from DXF drawings - all DXF versions supported., 2020-01-01T05:53:44+0000
+/project/apipy/, apipy, 0.5.15, A Python 3 library for interacting with the Stack Exchange API., 2016-02-28T21:24:29+0000
+/project/collective-lcstartp/, collective.lcstartp, 0.1, Linkchecker start page, 2012-02-08T08:22:00+0000
+/project/jsrn/, jsrn, 0.3.2, JavaScript Resource Notation for Python, 2013-07-16T14:20:56+0000
+/project/uproot3-methods/, uproot3-methods, 0.10.1, Pythonic mix-ins for ROOT classes., 2021-03-18T16:55:18+0000
+/project/django-frontend-template/, django-frontend-template, 1.2.0, A basic Django template built on HTML5 Boilerplate., 2013-08-29T20:34:13+0000
+/project/djrill/, djrill, 2.1.0, Mandrill transactional email for Django, 2016-04-15T00:24:13+0000
+/project/logentries-cli/, logentries-cli, 1.2.1, Get your logs from Logentries on the comandline, 2020-06-22T21:19:23+0000
+/project/aws-cdk-cdk-assets-schema/, aws-cdk.cdk-assets-schema, 1.100.0, Schema definition for the Asset Manifest, 2021-04-20T18:00:51+0000
+/project/ralbot-uvm/, ralbot-uvm, 1.2.0, Generate UVM register model from compiled SystemRDL input, 2020-09-13T22:46:14+0000
+/project/suds-philpem/, suds-philpem, 0.4.3, Lightweight SOAP client (philpem's fork-and-merge), 2013-06-20T00:19:53+0000
+/project/products-enablesettrace/, Products.enablesettrace, 1.2.0, Allow import of pdb in restricted code., 2021-01-20T17:26:53+0000
+/project/monet-recurring-event/, monet.recurring_event, 0.7.0, Old event type for Plone (use only for remove older versions of this package), 2011-12-06T14:10:29+0000
+/project/python2-pythondialog/, python2-pythondialog, 3.5.1, A Python interface to the UNIX dialog utility and mostly-compatible programs (Python 2 backport), 2019-12-14T16:53:28+0000
+/project/lidtk/, lidtk, 0.3.0, Language identification Toolkit, 2020-08-17T20:55:01+0000
+/project/metafone/, Metafone, 0.5, A Python implementation of the double metaphone algorithms., 2015-02-16T10:02:06+0000
+/project/django-reg/, django-reg, 1.0.1, An extensible user-registration application for Django, 2013-06-28T14:21:59+0000
+/project/z3c-layer/, z3c.layer, 0.3.1, DEPRECATED: Collection of Alternative Base Layers, 2009-02-14T07:09:32+0000
+/project/blink2png-bridge/, blink2png-bridge, 0.1.4, To via blink2png by Python directly., 2020-04-04T08:46:14+0000
+/project/keysmith/, keysmith, 3.0.1, Passphrase Generator, 2019-07-02T04:08:03+0000
+/project/oauth2client/, oauth2client, 4.1.3, OAuth 2.0 client library, 2018-09-07T21:38:16+0000
+/project/products-ienablesettrace/, Products.Ienablesettrace, 1.1.0, Fork of Products.enablesettrace which also allows import of ipdb in restricted code., 2021-01-20T17:27:29+0000
+/project/cellnopt-core/, cellnopt.core, 1.0.0, Functions to manipulate networks and data related to signalling pathways., 2014-11-27T15:32:38+0000
+/project/director/, director, 1.2.0, Command line plugin library, 2009-03-08T00:54:50+0000
+/project/xtea3/, xtea3, 1.0.0, Obsolete Python 3 implementation of XTEA., 2019-06-17T11:25:42+0000
+/project/caniusepython3/, caniusepython3, 7.3.0, Determine what projects are blocking you from porting to Python 3, 2021-01-01T23:11:47+0000
+/project/grpc-testing/, grpc-testing, 1.0.0, Please install the official package with: pip install grpcio-testing, 2020-06-01T16:56:33+0000
+/project/queue-util/, queue-util, 3.2.2, A set of utilities for consuming (and producing) from a rabbitmq queue, 2020-10-22T22:08:58+0000
+/project/oneliners/, oneliners, 1.0, A collection of random one-liner jokes scraped from the Internet., 2018-02-21T23:51:21+0000
+/project/reverend/, Reverend, 0.4, Divmod Reverend - a simple Bayesian classifier, 2009-11-29T19:00:51+0000
+/project/collective-zombiedoctesting/, collective.zombiedoctesting, 1.1.0, Fast functional JavaScript testing with Zombie.js, 2012-04-27T14:20:18+0000
+/project/mekk-feeds/, mekk.feeds, 1.4.3, RSS scripting, 2012-11-12T08:06:17+0000
+/project/positional/, positional, 1.2.1, Library to enforce positional or key-word arguments (deprecated/unmaintained), 2017-08-08T00:24:46+0000
+/project/doppler-client/, doppler-client, 1.0.12, This package is deprecated and is no longer functional. Learn how to migrate to the new CLI at https://docs.doppler.com/docs/removal-deprecated-packages-scripts, 2021-01-20T00:42:46+0000
+/project/samplepackage/, samplePackage, 0.1, Convert library object with high version to low and low to high, does not allow to switch version if object, material or mesh have undergone changes, 2017-02-17T09:21:57+0000
+/project/aws-encrpytion-sdk/, aws-encrpytion-sdk, 1.0.2, Did you mean to install aws-encryption-sdk?, 2018-05-03T18:49:24+0000
+/project/python-rivescript/, python-rivescript, 1.04, [DEPRECATED - Install rivescript instead], 2013-05-21T01:49:17+0000
+/project/django-sekizai-processors/, django-sekizai-processors, 0.1.1, Processors to (also offline) compile SASS/SCSS files when used with django-sekizai, 2015-02-05T11:04:38+0000
+/project/geocodertools/, geocodertools, 0.1.7, Functions to work with Geo coordinates, reverse geo coding and getting city names out of coordinates without internet, 2018-06-09T15:38:00+0000
+/project/divide-and-cover/, divide-and-cover, 0.7.3, Picky test coverage runner, 2018-10-11T01:21:35+0000
+/project/aws-cdk-app-delivery/, aws-cdk.app-delivery, 1.100.0, Continuous Integration / Continuous Delivery for CDK Applications, 2021-04-20T17:57:30+0000
+/project/django-autoslugged/, django-autoslugged, 2.0.0.post0, An automated slug field for Django., 2020-05-25T16:43:29+0000
+/project/specit/, specit, 0.2.1z, Create and run executable specifications with Pythonic BDD style grammar, 2011-10-17T07:36:45+0000
+/project/kuws/, kuws, 0.0.7, A set of python scripts for common web tasks, 2020-02-04T21:02:50+0000
+/project/distutils2/, Distutils2, 1.0a4, Python Packaging Library, 2012-03-13T15:59:13+0000
+/project/nexus-yplan/, nexus-yplan, 2.1.2, Nexus is a pluggable admin application in Django. It's designed to give you a simple design and architecture for building admin applications., 2019-05-17T20:51:07+0000
+/project/flake8-pathlib/, flake8-pathlib, 0.1.4, flake8-pathlib is now flake8-use-pathlib, 2021-04-06T19:53:24+0000
+/project/nti-fakestatsd/, nti.fakestatsd, 1.0.0, Testing StatsD client, 2019-09-03T18:33:12+0000
+/project/pytest-divide-and-cover/, pytest-divide-and-cover, 0.5.1, Picky test coverage for pytest, 2018-10-11T01:17:56+0000
+/project/sveetchies/, Sveetchies, 1.8.9.4, Sveetchies est un ensemble de modules python utiles (en tout cas pour 
+moi)., 2014-10-17T01:03:23+0000
+/project/bokeh-catplot/, bokeh-catplot, 0.1.9, DEPRECATED. Utility to generate plots with categorical variables using Bokeh., 2020-08-12T16:41:31+0000
+/project/trevor/, trevor, 0.0.1, A small example package, 2019-06-19T17:56:45+0000
+/project/django-nghelp/, django-nghelp, 2.2.3, AngularJS Frontend Helper for Django, 2018-01-15T04:34:30+0000
+/project/gargoyle-yplan/, gargoyle-yplan, 2.1.1, Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions., 2019-05-17T20:49:41+0000
+/project/xbox-smartglass-stump/, xbox-smartglass-stump, 1.10.0, Meta package - Stump extension (TV streaming/IR control), 2020-02-29T01:00:17+0000
+/project/django-sorting-bootstrap/, django-sorting-bootstrap, 2.6.2, Sorting templates API using sorting, Django templatetags and Bootstrap classes., 2021-01-21T07:19:02+0000
+/project/cs-eyrie/, cs.eyrie, 0.8.1, Eyrie - Retired, 2021-04-13T20:01:33+0000

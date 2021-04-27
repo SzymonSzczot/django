@@ -1,0 +1,50 @@
+/project/smth/, smth, 0.8.0, Scan books and handwriting in batch mode from console, 2020-08-17T15:01:51+0000
+/project/hough/, hough, 0.2.6, Skew detection and correction in scanned images, 2020-11-12T21:54:06+0000
+/project/scan-merge/, scan-merge, 1.0.1, Tool to merge scanned PDFs from single sided document feeders, 2019-06-24T10:21:24+0000
+/project/twain/, twain, 1.0.5, TWAIN API for accessing scanners, cameras, etc on Windows, 2010-06-10T13:51:06+0000
+/project/pytwain/, pytwain, 2.0, TWAIN API for accessing scanners, cameras, etc on Windows, 2013-05-18T04:09:40+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/tiffany/, tiffany, 0.6.7, Tiffany -- read/write/arrange any multi-page Tiff, any compression, 2015-01-28T20:19:12+0000
+/project/scansort/, scansort, 0.1, Scansort helps to collate and rename book scan images, 2016-12-07T19:46:57+0000
+/project/paperwork/, paperwork, 2.0.2, Using scanner and OCR to grep dead trees the easy way, 2021-01-01T15:25:12+0000
+/project/pyocr/, pyocr, 0.8, A Python wrapper for OCR engines (Tesseract, Cuneiform, etc), 2021-01-01T16:01:07+0000
+/project/pyinsane/, pyinsane, 1.4.0, Pure Python implementation of the Sane API (using ctypes) and abstration layer, 2016-07-27T12:14:40+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/tesserocr/, tesserocr, 2.5.1, A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython, 2020-03-17T17:45:44+0000
+/project/pyinsane2/, pyinsane2, 2.0.13, Python library to access and use image scanners (Linux/Windows/etc), 2018-07-25T20:28:26+0000
+/project/paperwork-shell/, paperwork-shell, 2.0.2, Paperwork's shell interface, 2021-01-01T15:24:45+0000
+/project/django-manuscript/, django-manuscript, 0.3.1, Django application for managing rare book scanning/OCR projects, 2011-11-22T19:38:04+0000
+/project/tesseract-ocr/, tesseract-ocr, 0.0.1, A Python wrapper for Tesseract, 2015-10-06T12:15:42+0000
+/project/omelette/, Omelette, 1.1.6, Python Imaging Library, 2010-10-18T20:14:21+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/paperwork-backend/, paperwork-backend, 2.0.2, Paperwork's backend, 2021-01-01T15:24:35+0000
+/project/python-sane/, python-sane, 2.9.1, This is the python-sane package, 2021-01-05T13:12:03+0000
+/project/m3-pil/, m3-PIL, 1.1.7, Python Imaging Library, 2014-09-23T16:40:43+0000
+/project/adf2pdf/, adf2pdf, 0.8.2, Automate the workflow around ADF scanning, OCR and PDF creation, 2020-12-06T17:40:36+0000
+/project/libzbar-ctypes/, libzbar-ctypes, 0.1.2, Python ctypes libzbar wrapper, 2017-05-19T11:38:48+0000
+/project/ocrd-fork-tesserocr/, ocrd-fork-tesserocr, 3.0.0rc2, A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython, 2019-07-18T08:57:09+0000
+/project/smth/, smth, 0.8.0, Scan books and handwriting in batch mode from console, 2020-08-17T15:01:51+0000
+/project/hough/, hough, 0.2.6, Skew detection and correction in scanned images, 2020-11-12T21:54:06+0000
+/project/scan-merge/, scan-merge, 1.0.1, Tool to merge scanned PDFs from single sided document feeders, 2019-06-24T10:21:24+0000
+/project/paperwork/, paperwork, 2.0.2, Using scanner and OCR to grep dead trees the easy way, 2021-01-01T15:25:12+0000
+/project/tiffany/, tiffany, 0.6.7, Tiffany -- read/write/arrange any multi-page Tiff, any compression, 2015-01-28T20:19:12+0000
+/project/twain/, twain, 1.0.5, TWAIN API for accessing scanners, cameras, etc on Windows, 2010-06-10T13:51:06+0000
+/project/pytwain/, pytwain, 2.0, TWAIN API for accessing scanners, cameras, etc on Windows, 2013-05-18T04:09:40+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/scansort/, scansort, 0.1, Scansort helps to collate and rename book scan images, 2016-12-07T19:46:57+0000
+/project/pyocr/, pyocr, 0.8, A Python wrapper for OCR engines (Tesseract, Cuneiform, etc), 2021-01-01T16:01:07+0000
+/project/pyinsane/, pyinsane, 1.4.0, Pure Python implementation of the Sane API (using ctypes) and abstration layer, 2016-07-27T12:14:40+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/tesserocr/, tesserocr, 2.5.1, A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython, 2020-03-17T17:45:44+0000
+/project/pyinsane2/, pyinsane2, 2.0.13, Python library to access and use image scanners (Linux/Windows/etc), 2018-07-25T20:28:26+0000
+/project/paperwork-shell/, paperwork-shell, 2.0.2, Paperwork's shell interface, 2021-01-01T15:24:45+0000
+/project/django-manuscript/, django-manuscript, 0.3.1, Django application for managing rare book scanning/OCR projects, 2011-11-22T19:38:04+0000
+/project/tesseract-ocr/, tesseract-ocr, 0.0.1, A Python wrapper for Tesseract, 2015-10-06T12:15:42+0000
+/project/omelette/, Omelette, 1.1.6, Python Imaging Library, 2010-10-18T20:14:21+0000
+/project/pd9530/, pd9530, 1.0.3, Library to interact with a PD9530 handheld scanner, 2016-02-14T12:28:04+0000
+/project/paperwork-backend/, paperwork-backend, 2.0.2, Paperwork's backend, 2021-01-01T15:24:35+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/tesserocr/, tesserocr, 2.5.1, A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython, 2020-03-17T17:45:44+0000
+/project/pyinsane2/, pyinsane2, 2.0.13, Python library to access and use image scanners (Linux/Windows/etc), 2018-07-25T20:28:26+0000
+/project/paperwork-shell/, paperwork-shell, 2.0.2, Paperwork's shell interface, 2021-01-01T15:24:45+0000
+/project/django-manuscript/, django-manuscript, 0.3.1, Django application for managing rare book scanning/OCR projects, 2011-11-22T19:38:04+0000

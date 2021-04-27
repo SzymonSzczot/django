@@ -1,0 +1,158 @@
+/project/fixturefilehandler/, fixturefilehandler, 1.4.0, This project helps you to vacate specific file path or deploy resource file into specific file path when unit testing., 2020-08-17T06:19:26+0000
+/project/pyls-livepy/, pyls-livepy, 0.2.1, A realtime debugging and testing plugin for Palantir's Python Language Server., 2021-01-18T04:45:17+0000
+/project/streamtest/, streamtest, 1.0b1, Python unittest.TestCase for testing the output of standard stream(stdout, stderr), 2018-05-11T05:53:07+0000
+/project/pyipcmi/, pyIPCMI, 1.1.5, An IP Core Management Infrastructure written in Python - pyIPCMI., 2019-10-13T23:30:09+0000
+/project/snappiershot/, snappiershot, 1.0.1, Snapshot testing library., 2021-03-26T20:59:28+0000
+/project/htmlreport/, HTMLReport, 2.2.2, Python3 Unittest HTML报告生成器, 2021-03-15T02:15:25+0000
+/project/stackuchin/, stackuchin, 1.6.0, CLI for Stackuchin - Automatically create, update and delete AWS CloudFormation stacks in multiple AWS accounts and regions at the same time, 2021-03-22T12:36:58+0000
+/project/pylint-testcode-plugin/, pylint-testcode-plugin, 0.0.2, This plugin assists in writing high-quality testcode, 2021-01-14T16:58:03+0000
+/project/fakemod/, fakemod, 0.3.3, Auto-Reloadable Modules and Namespaces, 2021-04-24T23:49:36+0000
+/project/django-mock-queries/, django-mock-queries, 2.1.6, A django library for mocking queryset functions in memory for testing, 2021-02-21T23:30:59+0000
+/project/qutest/, qutest, 6.9.3, QUTest Python scripting support, 2021-01-28T21:18:00+0000
+/project/testoot/, testoot, 0.0.5, Library, 2020-05-10T20:25:47+0000
+/project/issue-watcher/, issue-watcher, 3.0.0, Python test cases watching when an issue is closed and failing a test to let you know fixed functionality is available., 2021-01-04T21:39:37+0000
+/project/esp32-machine-emulator/, esp32-machine-emulator, 1.1.3, esp32 machine package for test-driving code off-chip, 2019-08-27T18:26:29+0000
+/project/docker-odoo-env/, docker-odoo-env, 0.0a10, A small tool to manage Dockerized Odoo, 2018-12-31T18:49:40+0000
+/project/cors-testing/, cors.testing, 0.4.0, Utilities for creating CORS-enabled HTTP interfaces, 2019-02-05T14:35:11+0000
+/project/moprofiler/, moprofiler, 1.1.0, 综合性能分析工具，集成了内存使用、执行时间的分析器，及秒表打点工具, 2019-02-20T08:39:18+0000
+/project/pytest-toolbelt/, pytest-toolbelt, 0.1.0, This is just a collection of utilities for pytest, but don't really belong in pytest proper., 2019-08-12T09:40:31+0000
+/project/aok/, aok, 0.2.0, Complex dictionary comparisons to simplify testing., 2021-01-13T16:27:58+0000
+/project/chex/, chex, 0.0.6, Chex: Testing made fun, in JAX!, 2021-03-25T15:29:04+0000
+/project/unittest-additions/, unittest-additions, 0.1.3, Additional features to extend python unittest and mock., 2019-02-20T04:35:50+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/specify/, specify, 0.0.9, A spec tool to describe your classes, 2019-02-14T18:33:47+0000
+/project/pytest-fixtures/, pytest-fixtures, 0.1.0, Common fixtures for pytest, 2019-05-01T21:25:15+0000
+/project/pytest-pyramid/, pytest-pyramid, 1.0.0, pytest_pyramid - provides fixtures for testing pyramid applications with pytest test suite, 2021-02-26T16:14:15+0000
+/project/tinkertest/, TinkerTest, 0.1.1, TinkerTest is a tool designed to make data validation fun!, 2018-08-19T03:10:23+0000
+/project/webtest-flask-fixture/, webtest-flask-fixture, 0.5.1, Provide a pytest fixture of a Webtest app with a local static site via Flask, 2019-09-18T00:19:13+0000
+/project/pytest-testslide/, pytest-testslide, 2.6.3, TestSlide fixture for pytest, 2021-01-07T15:59:09+0000
+/project/distest/, distest, 0.6.2, Automate the testing of discord bots... With discord bots!, 2021-04-02T19:49:30+0000
+/project/requests-asserts/, requests-asserts, 0.1.2, The library to help test your HTTP requests using unittests, 2019-11-09T18:29:29+0000
+/project/regress/, regress, 0.0.4, Library, 2020-05-04T13:08:26+0000
+/project/pysys-java/, PySys-Java, 0.1, Java plugins for the PySys System Test Framework, 2020-09-24T21:39:57+0000
+/project/testcase/, testcase, 0.1.0, Run tabular unit tests, 2018-06-14T04:48:24+0000
+/project/mohand-plugin-otp/, mohand-plugin-otp, 1.0.0.post0, MoHand插件，用以提供定制化的一次性密码生成服务, 2018-05-27T14:10:47+0000
+/project/xlcalculator/, xlcalculator, 0.2.13, Converts MS Excel formulas to Python and evaluates them., 2020-12-03T10:02:25+0000
+/project/pytest-iterassert/, pytest-iterassert, 0.0.3, Nicer list and iterable assertion messages for pytest, 2020-05-11T06:33:47+0000
+/project/lobotomy/, lobotomy, 0.3.5, Boto3 low-level client mocking library., 2021-02-16T18:24:55+0000
+/project/fixturepy/, fixturepy, 0.5, Create random data to be used in tests, 2020-12-03T08:40:49+0000
+/project/flake8-assertive/, flake8-assertive, 1.3.0, Flake8 unittest assert method checker, 2020-10-12T17:23:00+0000
+/project/nextmock/, nextmock, 0.0.1, NextMock is an enhanced mock for unittest.mock.Mock, 2021-01-31T07:48:58+0000
+/project/unittest-resources/, unittest-resources, 0.2.0, Dynamic resource-based unittest suites made easy., 2019-07-16T14:53:14+0000
+/project/outsystems-pipeline/, outsystems-pipeline, 0.3.1, Python package to accelerate the integration of OutSystems with third-party CI/CD tools, 2020-03-25T15:11:47+0000
+/project/tempdb/, tempdb, 0.1.0, Create temporary databases for testing., 2019-06-03T18:51:54+0000
+/project/fiscal-printer-adapter/, fiscal-printer-adapter, 0.0.3, A standarized fiscal printer interface, 2018-12-28T00:41:14+0000
+/project/djtest/, djtest, 0.1.7, Interactive test runner for Django projects, 2020-02-22T11:09:37+0000
+/project/prophepy/, prophepy, 0.0.4, Python mocks made for humans, 2019-02-14T18:32:04+0000
+/project/flake8-pytest-style/, flake8-pytest-style, 1.4.1, A flake8 plugin checking common style issues or inconsistencies with pytest-based tests., 2021-04-01T20:25:30+0000
+/project/odoo-env/, odoo-env, 0.10.10, A Dockerized environment for Odoo, 2021-03-27T21:25:59+0000
+/project/pytest-serverless/, pytest-serverless, 0.13.3, Automatically mocks resources from serverless.yml in pytest using moto., 2021-02-20T21:27:14+0000
+/project/test-runner/, test-runner, 0.7.0, A small test runner library for Python testing, 2020-01-08T13:26:39+0000
+/project/wavegenpy/, WaveGenPy, 0.1.0, Wave file generator, 2021-04-18T12:15:31+0000
+/project/nose-pyannotate/, nose-pyannotate, 0.2.0, Pyannotate plugin for nose, 2018-05-26T21:51:43+0000
+/project/fileguard/, fileguard, 0.0.1, Preserve the content of your files and directories during testing., 2018-07-14T00:26:23+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/tox-envlist/, tox-envlist, 0.3.0, Allows selection of a different tox envlist., 2021-04-02T07:09:37+0000
+/project/pynguin/, pynguin, 0.7.2, Pynguin is a tool for automated unit test generation for Python, 2021-03-26T10:10:47+0000
+/project/django-swagger-tester/, django-swagger-tester, 2.2.1, Django test utility for validating Swagger documentation, 2021-01-24T00:11:25+0000
+/project/testslide/, TestSlide, 2.6.3, A test framework for Python that makes mocking and iterating over code with tests a breeze, 2020-11-12T14:40:57+0000
+/project/pytesting-utils/, pytesting-utils, 0.5.0, Utilities for the PyTesting project, 2020-01-08T13:17:05+0000
+/project/jcu/, jcu, 1.1, jcu, 2020-09-03T09:13:22+0000
+/project/ndl-tools/, ndl-tools, 0.0.18, Tools for sorting and diffing nested dictionaries and lists., 2020-08-31T20:41:59+0000
+/project/mrrobot/, mrrobot, 1.0.3, Just another robot to automate the hacking process, 2020-02-24T18:23:49+0000
+/project/iutest/, iutest, 0.1.5, An interactive python test runner supports various test frameworks., 2020-08-25T13:27:57+0000
+/project/granite/, granite, 0.0.5, Augments the unittest TestCase API by providing additional utilities useful for Python tools., 2018-07-05T00:15:42+0000
+/project/coincidence/, coincidence, 0.4.0, Helper functions for pytest., 2021-04-06T18:58:55+0000
+/project/code-faster/, code-faster, 0.4.1, A cross-platform command line utility for bootstrapping and running code with tests, 2020-06-06T09:30:59+0000
+/project/python-tia/, python-tia, 0.0.0, tia: The generic Test Impact Analysis (TIA) preprocessor for test tools., 2018-09-06T21:22:55+0000
+/project/pytruth/, pytruth, 1.1.0, Provides unittest assertions in a fluent style., 2020-02-28T18:49:16+0000
+/project/mohand/, mohand, 1.2.0, 通用自动化处理工具, 2019-12-15T06:44:04+0000
+/project/mutatest/, mutatest, 3.0.2, Python mutation testing: test your tests!, 2020-05-16T14:26:27+0000
+/project/yourbase/, yourbase, 4.5.11, Skip tests based on tracing data, 2021-04-23T21:55:07+0000
+/project/mohand-plugin-expect/, mohand-plugin-expect, 1.0.6, MoHand插件，用以提供可自动控制其他终端应用的任务支持, 2018-10-07T12:29:43+0000
+/project/drf-openapi-tester/, drf-openapi-tester, 1.3.5, Test utility for validating OpenAPI response documentation, 2021-02-28T12:16:03+0000
+/project/ruthie/, ruthie, 0.1.3, Run Unit Tests Harmoniously Incredibly Easy, 2021-03-10T09:02:59+0000
+/project/cli-test-helpers/, cli-test-helpers, 1.0.1, Useful helpers for writing tests for your Python CLI program., 2019-10-28T22:02:25+0000
+/project/auto-coverage-report/, auto-coverage-report, 0.0.2, A auto tester coverage report, 2018-11-23T12:52:25+0000
+/project/rungutan/, rungutan, 1.8.0, CLI for Rungutan - the first API Load Testing SaaS platform worldwide, 100% Serverless, which  helps you simulate workflows to emulate user experience, so it's easier to design workflow oriented strategies., 2021-04-16T11:28:45+0000
+/project/securetea/, securetea, 2.2, SecureTea, 2020-09-05T14:56:45+0000
+/project/sqlalchemy-pydantic-orm/, sqlalchemy-pydantic-orm, 0.1.0, CRUD operations on nested SQLAlchemy ORM-models using Pydantic, 2021-04-25T16:30:30+0000
+/project/fixturefilehandler/, fixturefilehandler, 1.4.0, This project helps you to vacate specific file path or deploy resource file into specific file path when unit testing., 2020-08-17T06:19:26+0000
+/project/pyls-livepy/, pyls-livepy, 0.2.1, A realtime debugging and testing plugin for Palantir's Python Language Server., 2021-01-18T04:45:17+0000
+/project/streamtest/, streamtest, 1.0b1, Python unittest.TestCase for testing the output of standard stream(stdout, stderr), 2018-05-11T05:53:07+0000
+/project/pyipcmi/, pyIPCMI, 1.1.5, An IP Core Management Infrastructure written in Python - pyIPCMI., 2019-10-13T23:30:09+0000
+/project/snappiershot/, snappiershot, 1.0.1, Snapshot testing library., 2021-03-26T20:59:28+0000
+/project/htmlreport/, HTMLReport, 2.2.2, Python3 Unittest HTML报告生成器, 2021-03-15T02:15:25+0000
+/project/stackuchin/, stackuchin, 1.6.0, CLI for Stackuchin - Automatically create, update and delete AWS CloudFormation stacks in multiple AWS accounts and regions at the same time, 2021-03-22T12:36:58+0000
+/project/qutest/, qutest, 6.9.3, QUTest Python scripting support, 2021-01-28T21:18:00+0000
+/project/pylint-testcode-plugin/, pylint-testcode-plugin, 0.0.2, This plugin assists in writing high-quality testcode, 2021-01-14T16:58:03+0000
+/project/fakemod/, fakemod, 0.3.3, Auto-Reloadable Modules and Namespaces, 2021-04-24T23:49:36+0000
+/project/testoot/, testoot, 0.0.5, Library, 2020-05-10T20:25:47+0000
+/project/issue-watcher/, issue-watcher, 3.0.0, Python test cases watching when an issue is closed and failing a test to let you know fixed functionality is available., 2021-01-04T21:39:37+0000
+/project/django-mock-queries/, django-mock-queries, 2.1.6, A django library for mocking queryset functions in memory for testing, 2021-02-21T23:30:59+0000
+/project/sqlalchemy-pydantic-orm/, sqlalchemy-pydantic-orm, 0.1.0, CRUD operations on nested SQLAlchemy ORM-models using Pydantic, 2021-04-25T16:30:30+0000
+/project/pytest-iterassert/, pytest-iterassert, 0.0.3, Nicer list and iterable assertion messages for pytest, 2020-05-11T06:33:47+0000
+/project/moprofiler/, moprofiler, 1.1.0, 综合性能分析工具，集成了内存使用、执行时间的分析器，及秒表打点工具, 2019-02-20T08:39:18+0000
+/project/pytest-toolbelt/, pytest-toolbelt, 0.1.0, This is just a collection of utilities for pytest, but don't really belong in pytest proper., 2019-08-12T09:40:31+0000
+/project/aok/, aok, 0.2.0, Complex dictionary comparisons to simplify testing., 2021-01-13T16:27:58+0000
+/project/lobotomy/, lobotomy, 0.3.5, Boto3 low-level client mocking library., 2021-02-16T18:24:55+0000
+/project/fixturepy/, fixturepy, 0.5, Create random data to be used in tests, 2020-12-03T08:40:49+0000
+/project/chex/, chex, 0.0.6, Chex: Testing made fun, in JAX!, 2021-03-25T15:29:04+0000
+/project/flake8-assertive/, flake8-assertive, 1.3.0, Flake8 unittest assert method checker, 2020-10-12T17:23:00+0000
+/project/specify/, specify, 0.0.9, A spec tool to describe your classes, 2019-02-14T18:33:47+0000
+/project/pytest-fixtures/, pytest-fixtures, 0.1.0, Common fixtures for pytest, 2019-05-01T21:25:15+0000
+/project/pytest-pyramid/, pytest-pyramid, 1.0.0, pytest_pyramid - provides fixtures for testing pyramid applications with pytest test suite, 2021-02-26T16:14:15+0000
+/project/tinkertest/, TinkerTest, 0.1.1, TinkerTest is a tool designed to make data validation fun!, 2018-08-19T03:10:23+0000
+/project/webtest-flask-fixture/, webtest-flask-fixture, 0.5.1, Provide a pytest fixture of a Webtest app with a local static site via Flask, 2019-09-18T00:19:13+0000
+/project/regress/, regress, 0.0.4, Library, 2020-05-04T13:08:26+0000
+/project/tempdb/, tempdb, 0.1.0, Create temporary databases for testing., 2019-06-03T18:51:54+0000
+/project/fiscal-printer-adapter/, fiscal-printer-adapter, 0.0.3, A standarized fiscal printer interface, 2018-12-28T00:41:14+0000
+/project/esp32-machine-emulator/, esp32-machine-emulator, 1.1.3, esp32 machine package for test-driving code off-chip, 2019-08-27T18:26:29+0000
+/project/docker-odoo-env/, docker-odoo-env, 0.0a10, A small tool to manage Dockerized Odoo, 2018-12-31T18:49:40+0000
+/project/cors-testing/, cors.testing, 0.4.0, Utilities for creating CORS-enabled HTTP interfaces, 2019-02-05T14:35:11+0000
+/project/pysys-java/, PySys-Java, 0.1, Java plugins for the PySys System Test Framework, 2020-09-24T21:39:57+0000
+/project/testcase/, testcase, 0.1.0, Run tabular unit tests, 2018-06-14T04:48:24+0000
+/project/mohand-plugin-otp/, mohand-plugin-otp, 1.0.0.post0, MoHand插件，用以提供定制化的一次性密码生成服务, 2018-05-27T14:10:47+0000
+/project/xlcalculator/, xlcalculator, 0.2.13, Converts MS Excel formulas to Python and evaluates them., 2020-12-03T10:02:25+0000
+/project/nextmock/, nextmock, 0.0.1, NextMock is an enhanced mock for unittest.mock.Mock, 2021-01-31T07:48:58+0000
+/project/unittest-additions/, unittest-additions, 0.1.3, Additional features to extend python unittest and mock., 2019-02-20T04:35:50+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/unittest-resources/, unittest-resources, 0.2.0, Dynamic resource-based unittest suites made easy., 2019-07-16T14:53:14+0000
+/project/outsystems-pipeline/, outsystems-pipeline, 0.3.1, Python package to accelerate the integration of OutSystems with third-party CI/CD tools, 2020-03-25T15:11:47+0000
+/project/pytest-testslide/, pytest-testslide, 2.6.3, TestSlide fixture for pytest, 2021-01-07T15:59:09+0000
+/project/distest/, distest, 0.6.2, Automate the testing of discord bots... With discord bots!, 2021-04-02T19:49:30+0000
+/project/requests-asserts/, requests-asserts, 0.1.2, The library to help test your HTTP requests using unittests, 2019-11-09T18:29:29+0000
+/project/djtest/, djtest, 0.1.7, Interactive test runner for Django projects, 2020-02-22T11:09:37+0000
+/project/prophepy/, prophepy, 0.0.4, Python mocks made for humans, 2019-02-14T18:32:04+0000
+/project/flake8-pytest-style/, flake8-pytest-style, 1.4.1, A flake8 plugin checking common style issues or inconsistencies with pytest-based tests., 2021-04-01T20:25:30+0000
+/project/odoo-env/, odoo-env, 0.10.10, A Dockerized environment for Odoo, 2021-03-27T21:25:59+0000
+/project/pytest-serverless/, pytest-serverless, 0.13.3, Automatically mocks resources from serverless.yml in pytest using moto., 2021-02-20T21:27:14+0000
+/project/test-runner/, test-runner, 0.7.0, A small test runner library for Python testing, 2020-01-08T13:26:39+0000
+/project/wavegenpy/, WaveGenPy, 0.1.0, Wave file generator, 2021-04-18T12:15:31+0000
+/project/nose-pyannotate/, nose-pyannotate, 0.2.0, Pyannotate plugin for nose, 2018-05-26T21:51:43+0000
+/project/fileguard/, fileguard, 0.0.1, Preserve the content of your files and directories during testing., 2018-07-14T00:26:23+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/tox-envlist/, tox-envlist, 0.3.0, Allows selection of a different tox envlist., 2021-04-02T07:09:37+0000
+/project/pynguin/, pynguin, 0.7.2, Pynguin is a tool for automated unit test generation for Python, 2021-03-26T10:10:47+0000
+/project/django-swagger-tester/, django-swagger-tester, 2.2.1, Django test utility for validating Swagger documentation, 2021-01-24T00:11:25+0000
+/project/testslide/, TestSlide, 2.6.3, A test framework for Python that makes mocking and iterating over code with tests a breeze, 2020-11-12T14:40:57+0000
+/project/pytesting-utils/, pytesting-utils, 0.5.0, Utilities for the PyTesting project, 2020-01-08T13:17:05+0000
+/project/jcu/, jcu, 1.1, jcu, 2020-09-03T09:13:22+0000
+/project/ndl-tools/, ndl-tools, 0.0.18, Tools for sorting and diffing nested dictionaries and lists., 2020-08-31T20:41:59+0000
+/project/mrrobot/, mrrobot, 1.0.3, Just another robot to automate the hacking process, 2020-02-24T18:23:49+0000
+/project/iutest/, iutest, 0.1.5, An interactive python test runner supports various test frameworks., 2020-08-25T13:27:57+0000
+/project/granite/, granite, 0.0.5, Augments the unittest TestCase API by providing additional utilities useful for Python tools., 2018-07-05T00:15:42+0000
+/project/coincidence/, coincidence, 0.4.0, Helper functions for pytest., 2021-04-06T18:58:55+0000
+/project/code-faster/, code-faster, 0.4.1, A cross-platform command line utility for bootstrapping and running code with tests, 2020-06-06T09:30:59+0000
+/project/python-tia/, python-tia, 0.0.0, tia: The generic Test Impact Analysis (TIA) preprocessor for test tools., 2018-09-06T21:22:55+0000
+/project/pytruth/, pytruth, 1.1.0, Provides unittest assertions in a fluent style., 2020-02-28T18:49:16+0000
+/project/mohand/, mohand, 1.2.0, 通用自动化处理工具, 2019-12-15T06:44:04+0000
+/project/mutatest/, mutatest, 3.0.2, Python mutation testing: test your tests!, 2020-05-16T14:26:27+0000
+/project/yourbase/, yourbase, 4.5.11, Skip tests based on tracing data, 2021-04-23T21:55:07+0000
+/project/mohand-plugin-expect/, mohand-plugin-expect, 1.0.6, MoHand插件，用以提供可自动控制其他终端应用的任务支持, 2018-10-07T12:29:43+0000
+/project/drf-openapi-tester/, drf-openapi-tester, 1.3.5, Test utility for validating OpenAPI response documentation, 2021-02-28T12:16:03+0000
+/project/ruthie/, ruthie, 0.1.3, Run Unit Tests Harmoniously Incredibly Easy, 2021-03-10T09:02:59+0000
+/project/cli-test-helpers/, cli-test-helpers, 1.0.1, Useful helpers for writing tests for your Python CLI program., 2019-10-28T22:02:25+0000
+/project/auto-coverage-report/, auto-coverage-report, 0.0.2, A auto tester coverage report, 2018-11-23T12:52:25+0000
+/project/rungutan/, rungutan, 1.8.0, CLI for Rungutan - the first API Load Testing SaaS platform worldwide, 100% Serverless, which  helps you simulate workflows to emulate user experience, so it's easier to design workflow oriented strategies., 2021-04-16T11:28:45+0000
+/project/securetea/, securetea, 2.2, SecureTea, 2020-09-05T14:56:45+0000

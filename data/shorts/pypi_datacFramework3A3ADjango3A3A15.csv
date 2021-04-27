@@ -1,0 +1,156 @@
+/project/django-fancy-cronfield/, django-fancy-cronfield, 0.2.0, A nice and customizable cron field with easy to use UI, 2015-12-16T23:09:27+0000
+/project/django-modelsdoc/, django-modelsdoc, 0.1.11, Create models definitions document from your Django project., 2019-11-28T06:44:41+0000
+/project/django-saml2-auth-idperror-redirect/, django-saml2-auth-idperror-redirect, 0.0.2, Django SAML2 Plugin for URL redirection on IDP Error (usually to an IdP login), 2020-03-14T23:47:59+0000
+/project/django-modeladmin-utils/, django-modeladmin-utils, 1.0.0, ModelAdmin utils, 2015-11-04T20:22:15+0000
+/project/django-extra-tools/, django-extra-tools, 0.3.0, A set of functions related with Django, 2017-05-02T08:28:12+0000
+/project/django-sendgrid-webhook/, django-sendgrid-webhook, 0.3.0, A small django app around sendgrid and its webhooks, 2017-04-21T12:08:35+0000
+/project/apidev-django-floppyforms/, apidev_django-floppyforms, 1.8.4, Full control of form rendering in the templates, 2020-07-29T15:02:11+0000
+/project/django-compress-storage/, django-compress-storage, 0.9.1, Automantic compress files after upload, 2015-02-04T10:14:39+0000
+/project/sigmacms-polymorphic-tree/, sigmacms-polymorphic-tree, 1.2.6b1, A polymorphic mptt structure to display content in a tree., 2016-06-14T11:20:38+0000
+/project/django-simple-help/, django-simple-help, 0.6.1, Django reusable application providing page help, 2017-05-16T02:17:11+0000
+/project/fluentcms-emailtemplates/, fluentcms-emailtemplates, 2.0, Creating e-mail messages, with multiple layouts and multilingual content., 2018-01-22T21:44:42+0000
+/project/django-rest/, django-rest, 0.8.7, Tiny, lightweight, blazing fast REST library for django, 2021-04-20T22:15:40+0000
+/project/django-pjax/, django-pjax, 1.7, Django-PJAX: The Django helper for jQuery-PJAX., 2020-07-21T02:42:51+0000
+/project/django-bulksms/, django-bulksms, 0.0.1, Django BulkSMS library/API., 2016-10-18T14:17:26+0000
+/project/singlemodeladmin/, singlemodeladmin, 0.9, ModelAdmin for models that are meant to have one record, 2018-07-30T04:50:07+0000
+/project/django-datapurge/, django-datapurge, 0.0.2, A simple Django app to easily handle cleanup of old data (sessions, nonces, etc.), 2016-04-07T09:52:32+0000
+/project/django-dbrouter/, django-dbrouter, 0.1.2, Simple and usable database router for django, 2021-04-08T14:04:05+0000
+/project/cmsplugin-plain-text/, cmsplugin-plain-text, 0.1.2, A simple plaintext plugin for django CMS., 2016-07-14T10:57:06+0000
+/project/django-fluent-faq/, django-fluent-faq, 1.0, A FAQ engine for Django Fluent CMS, 2016-12-30T13:06:08+0000
+/project/django-bootstrap-pagination-vinta/, django-bootstrap-pagination-vinta, 1.6.1, Render Django Page objects as Bootstrap 3.x Pagination compatible HTML, 2016-08-10T12:13:01+0000
+/project/django-websocket-redis/, django-websocket-redis, 0.6.0, Websocket support for Django using Redis as datastore, 2019-09-17T08:42:28+0000
+/project/ddt-envelope/, ddt-envelope, 0.1.0, Simple helper for inspecting non-html views with django-debug-toolbar, 2015-06-23T15:02:21+0000
+/project/quantum-django-saml2-auth/, quantum-django-saml2-auth, 2.2.1, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2019-07-25T14:33:16+0000
+/project/django-rosetta/, django-rosetta, 0.9.6, A Django application that eases the translation of Django projects, 2021-03-19T14:35:25+0000
+/project/django-confirmed-email/, django-confirmed-email, 0.0.7, Provides an email sender that automatically confirms addresses., 2016-06-09T22:58:32+0000
+/project/django-storedqueries/, django-storedqueries, 0.1.4, A small package for Django to ease the creation of temporary tables, based on model definitions and querysets, 2019-07-30T07:28:58+0000
+/project/django-apptemplates/, django-apptemplates, 1.5, Django template loader that allows you to load and override a template from a specific Django application., 2020-03-11T00:24:06+0000
+/project/django-logging-json/, django-logging-json, 1.15, A simple Django app to log requests/responses in various formats, such as JSON., 2017-11-23T14:32:44+0000
+/project/django-debugtools/, django-debugtools, 1.8, A toolbox of small utilities to assist Django development, 2020-03-15T13:30:38+0000
+/project/django-xiti/, django-xiti, 0.1.1, Django app to include Xiti loading code into your templates, 2016-04-18T01:03:54+0000
+/project/django-json-rpc/, django-json-rpc, 0.7.2, A simple JSON-RPC implementation for Django, 2015-11-30T23:24:06+0000
+/project/m3-spyne-smev/, m3-spyne-smev, 0.4.4, Набор протоколов фреймворка spyne для работы со СМЭВ., 2021-04-05T09:34:19+0000
+/project/django-autofixture/, django-autofixture, 0.12.1, Provides tools to auto generate test data., 2016-04-08T07:46:34+0000
+/project/json-rpc-django/, json-rpc-django, 1.0.1, A simple JSON-RPC implementation for Django. An extension of django-json-rpc by Samuel Sutch for python 3, 2019-02-20T08:02:20+0000
+/project/django-haystackbrowser/, django-haystackbrowser, 0.6.3, A reusable Django application for viewing and debugging all the data that has been pushed into Haystack, 2018-07-01T10:41:11+0000
+/project/django-feedparser/, django-feedparser, 0.2.1, A Django app using 'feedparser' to fetch and parse a feed to render it from a template, 2016-02-24T00:22:59+0000
+/project/django-emaillog-backend/, django-emaillog-backend, 0.1.1, Django email backend that writes messages to logger instead of sending them by SMTP., 2020-05-03T17:00:53+0000
+/project/django-websocket-redis-plus/, django-websocket-redis-plus, 0.6.0.1, Websocket support for Django using Redis as datastore, 2020-04-17T14:14:27+0000
+/project/django-saml2-auth-plus/, django-saml2-auth-plus, 1.0.0, Simple and Configurable Django SAML2 Authentication. Easily integrate with SAML2 SSO identity providers like Okta, 2018-08-03T05:04:48+0000
+/project/django-timedeltafield/, django-timedeltafield, 0.7.10, TimedeltaField for django models, 2015-05-26T12:16:10+0000
+/project/django-saml2-auth-with-certsupport/, django-saml2-auth-with-certsupport, 0.0.3, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2021-01-02T22:26:45+0000
+/project/autobreadcrumbs/, autobreadcrumbs, 2.0.0, Django application to add breadcrumbs to your pages, 2016-08-17T22:58:50+0000
+/project/robotframework-djangolibrary/, robotframework-djangolibrary, 3.1.0, A Robot Framework library for Django., 2018-12-24T06:17:19+0000
+/project/cmsplugin-iframe/, cmsplugin-iframe, 0.1.5, Django CMS page iframe plugin, 2016-04-23T18:57:57+0000
+/project/django-saml2-auth/, django-saml2-auth, 2.2.1, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2019-01-24T11:49:44+0000
+/project/django-sympa/, django-sympa, 0.1.1, Add a view to interact with sympa, 2015-07-22T10:15:09+0000
+/project/django-saml2-auth-ai/, django-saml2-auth-ai, 2.1.6, Django SAML2 Authentication AI, 2019-12-04T07:00:17+0000
+/project/django-userena/, django-userena, 2.0.1, Complete user management application for Django, 2016-03-23T09:28:09+0000
+/project/django-saml2-auth-signout-slo/, django-saml2-auth-signout-slo, 0.0.10, Single LogOut (SLO) plugin for django_saml2_auth, 2019-09-27T16:48:59+0000
+/project/alaudaorg-django-oauth/, alaudaorg-django-oauth, 0.9.0, OAuth2 goodies for Django, 2018-04-20T08:53:47+0000
+/project/django-oauth-plus/, django-oauth-plus, 2.2.9, Support of OAuth 1.0a in Django using python-oauth2., 2016-06-02T09:13:18+0000
+/project/django-bootstrap-pagination/, django-bootstrap-pagination, 1.7.1, Render Django Page objects as Bootstrap 3.x/4.x Pagination compatible HTML, 2019-06-13T21:31:37+0000
+/project/django-lodfield/, django-lodfield, 1.0.3, List of Dictionaries Model Field for Django, 2016-06-02T09:55:37+0000
+/project/alogator/, alogator, 0.2.0, Alogator is an aggregated logging actor system., 2015-05-22T13:41:38+0000
+/project/django-logging-json-fork/, django-logging-json-fork, 0.0.2, Fork update of cipriantarta/django-logging., 2020-06-16T22:03:58+0000
+/project/django-gddkia-impediments-on-roads/, django-gddkia-impediments-on-roads, 0.1.1, Django client for gddkia-impediments-on-roads, 2016-07-29T10:57:58+0000
+/project/django-site-notifications/, django-site-notifications, 1.0.0, Enable a message on every page load., 2015-04-16T02:17:45+0000
+/project/django-auth-role/, django-auth-role, 0.4.0, Add user roles to django-auth, 2017-05-10T16:53:19+0000
+/project/django-saml2-auth-lw/, django-saml2-auth-lw, 2.2.2, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2021-02-22T03:12:11+0000
+/project/django-polymorphic-ng/, django-polymorphic-ng, 0.8.0, Seamless Polymorphic Inheritance for Django Models, 2015-12-06T11:23:03+0000
+/project/django-serializable-model/, django-serializable-model, 0.0.6, Django classes to make your models, managers, and querysets serializable, with built-in support for related objects in ~150 LoC, 2019-10-26T19:29:38+0000
+/project/snabb-django-background-tasks/, snabb-django-background-tasks, 1.1.6.1, Database backed asynchronous task queue, 2017-04-03T22:10:44+0000
+/project/django-saml2-auth-signout-redirect/, django-saml2-auth-signout-redirect, 0.0.8, Django SAML2 Plugin for URL redirection on Logout (usually to an IdP logout), 2019-09-27T17:33:15+0000
+/project/django-api-decorators/, django-api-decorators, 0.0.3, Tiny decorator functions to make it easier to build an API using Django in ~100 LoC, 2019-08-22T01:50:21+0000
+/project/djangoceleryrpc/, djangoceleryrpc, 2.3.0, Remote access from one system to models and functions of another one using Celery machinery., 2021-04-10T06:09:35+0000
+/project/django-cas-client/, django-cas-client, 1.5.3, Django Cas Client, 2019-12-24T15:17:46+0000
+/project/m3-fias/, m3-fias, 1.2.3, Федеральная информационная адресная система, 2021-01-25T20:04:51+0000
+/project/django-site-notifications/, django-site-notifications, 1.0.0, Enable a message on every page load., 2015-04-16T02:17:45+0000
+/project/django-auth-role/, django-auth-role, 0.4.0, Add user roles to django-auth, 2017-05-10T16:53:19+0000
+/project/django-saml2-auth-lw/, django-saml2-auth-lw, 2.2.2, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2021-02-22T03:12:11+0000
+/project/django-polymorphic-ng/, django-polymorphic-ng, 0.8.0, Seamless Polymorphic Inheritance for Django Models, 2015-12-06T11:23:03+0000
+/project/django-chat/, django-chat, 0.1.0, Simple chat, 2017-04-26T20:13:09+0000
+/project/django-jackfrost/, django-jackfrost, 0.4.0, A static site generator for Django views, 2015-07-13T18:18:34+0000
+/project/django-saml2-auth-signout-slo/, django-saml2-auth-signout-slo, 0.0.10, Single LogOut (SLO) plugin for django_saml2_auth, 2019-09-27T16:48:59+0000
+/project/alaudaorg-django-oauth/, alaudaorg-django-oauth, 0.9.0, OAuth2 goodies for Django, 2018-04-20T08:53:47+0000
+/project/django-bootstrap-pagination/, django-bootstrap-pagination, 1.7.1, Render Django Page objects as Bootstrap 3.x/4.x Pagination compatible HTML, 2019-06-13T21:31:37+0000
+/project/django-lodfield/, django-lodfield, 1.0.3, List of Dictionaries Model Field for Django, 2016-06-02T09:55:37+0000
+/project/alogator/, alogator, 0.2.0, Alogator is an aggregated logging actor system., 2015-05-22T13:41:38+0000
+/project/django-fancy-cronfield/, django-fancy-cronfield, 0.2.0, A nice and customizable cron field with easy to use UI, 2015-12-16T23:09:27+0000
+/project/django-modelsdoc/, django-modelsdoc, 0.1.11, Create models definitions document from your Django project., 2019-11-28T06:44:41+0000
+/project/django-saml2-auth-idperror-redirect/, django-saml2-auth-idperror-redirect, 0.0.2, Django SAML2 Plugin for URL redirection on IDP Error (usually to an IdP login), 2020-03-14T23:47:59+0000
+/project/django-modeladmin-utils/, django-modeladmin-utils, 1.0.0, ModelAdmin utils, 2015-11-04T20:22:15+0000
+/project/django-extra-tools/, django-extra-tools, 0.3.0, A set of functions related with Django, 2017-05-02T08:28:12+0000
+/project/django-sendgrid-webhook/, django-sendgrid-webhook, 0.3.0, A small django app around sendgrid and its webhooks, 2017-04-21T12:08:35+0000
+/project/apidev-django-floppyforms/, apidev_django-floppyforms, 1.8.4, Full control of form rendering in the templates, 2020-07-29T15:02:11+0000
+/project/django-compress-storage/, django-compress-storage, 0.9.1, Automantic compress files after upload, 2015-02-04T10:14:39+0000
+/project/sigmacms-polymorphic-tree/, sigmacms-polymorphic-tree, 1.2.6b1, A polymorphic mptt structure to display content in a tree., 2016-06-14T11:20:38+0000
+/project/django-simple-help/, django-simple-help, 0.6.1, Django reusable application providing page help, 2017-05-16T02:17:11+0000
+/project/fluentcms-emailtemplates/, fluentcms-emailtemplates, 2.0, Creating e-mail messages, with multiple layouts and multilingual content., 2018-01-22T21:44:42+0000
+/project/django-rest/, django-rest, 0.8.7, Tiny, lightweight, blazing fast REST library for django, 2021-04-20T22:15:40+0000
+/project/django-pjax/, django-pjax, 1.7, Django-PJAX: The Django helper for jQuery-PJAX., 2020-07-21T02:42:51+0000
+/project/django-bulksms/, django-bulksms, 0.0.1, Django BulkSMS library/API., 2016-10-18T14:17:26+0000
+/project/singlemodeladmin/, singlemodeladmin, 0.9, ModelAdmin for models that are meant to have one record, 2018-07-30T04:50:07+0000
+/project/django-datapurge/, django-datapurge, 0.0.2, A simple Django app to easily handle cleanup of old data (sessions, nonces, etc.), 2016-04-07T09:52:32+0000
+/project/django-dbrouter/, django-dbrouter, 0.1.2, Simple and usable database router for django, 2021-04-08T14:04:05+0000
+/project/cmsplugin-plain-text/, cmsplugin-plain-text, 0.1.2, A simple plaintext plugin for django CMS., 2016-07-14T10:57:06+0000
+/project/django-fluent-faq/, django-fluent-faq, 1.0, A FAQ engine for Django Fluent CMS, 2016-12-30T13:06:08+0000
+/project/django-bootstrap-pagination-vinta/, django-bootstrap-pagination-vinta, 1.6.1, Render Django Page objects as Bootstrap 3.x Pagination compatible HTML, 2016-08-10T12:13:01+0000
+/project/django-websocket-redis/, django-websocket-redis, 0.6.0, Websocket support for Django using Redis as datastore, 2019-09-17T08:42:28+0000
+/project/ddt-envelope/, ddt-envelope, 0.1.0, Simple helper for inspecting non-html views with django-debug-toolbar, 2015-06-23T15:02:21+0000
+/project/quantum-django-saml2-auth/, quantum-django-saml2-auth, 2.2.1, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2019-07-25T14:33:16+0000
+/project/django-rosetta/, django-rosetta, 0.9.6, A Django application that eases the translation of Django projects, 2021-03-19T14:35:25+0000
+/project/django-confirmed-email/, django-confirmed-email, 0.0.7, Provides an email sender that automatically confirms addresses., 2016-06-09T22:58:32+0000
+/project/django-storedqueries/, django-storedqueries, 0.1.4, A small package for Django to ease the creation of temporary tables, based on model definitions and querysets, 2019-07-30T07:28:58+0000
+/project/django-apptemplates/, django-apptemplates, 1.5, Django template loader that allows you to load and override a template from a specific Django application., 2020-03-11T00:24:06+0000
+/project/django-logging-json/, django-logging-json, 1.15, A simple Django app to log requests/responses in various formats, such as JSON., 2017-11-23T14:32:44+0000
+/project/django-debugtools/, django-debugtools, 1.8, A toolbox of small utilities to assist Django development, 2020-03-15T13:30:38+0000
+/project/django-xiti/, django-xiti, 0.1.1, Django app to include Xiti loading code into your templates, 2016-04-18T01:03:54+0000
+/project/django-json-rpc/, django-json-rpc, 0.7.2, A simple JSON-RPC implementation for Django, 2015-11-30T23:24:06+0000
+/project/m3-spyne-smev/, m3-spyne-smev, 0.4.4, Набор протоколов фреймворка spyne для работы со СМЭВ., 2021-04-05T09:34:19+0000
+/project/django-autofixture/, django-autofixture, 0.12.1, Provides tools to auto generate test data., 2016-04-08T07:46:34+0000
+/project/json-rpc-django/, json-rpc-django, 1.0.1, A simple JSON-RPC implementation for Django. An extension of django-json-rpc by Samuel Sutch for python 3, 2019-02-20T08:02:20+0000
+/project/django-haystackbrowser/, django-haystackbrowser, 0.6.3, A reusable Django application for viewing and debugging all the data that has been pushed into Haystack, 2018-07-01T10:41:11+0000
+/project/django-feedparser/, django-feedparser, 0.2.1, A Django app using 'feedparser' to fetch and parse a feed to render it from a template, 2016-02-24T00:22:59+0000
+/project/django-emaillog-backend/, django-emaillog-backend, 0.1.1, Django email backend that writes messages to logger instead of sending them by SMTP., 2020-05-03T17:00:53+0000
+/project/django-websocket-redis-plus/, django-websocket-redis-plus, 0.6.0.1, Websocket support for Django using Redis as datastore, 2020-04-17T14:14:27+0000
+/project/django-saml2-auth-plus/, django-saml2-auth-plus, 1.0.0, Simple and Configurable Django SAML2 Authentication. Easily integrate with SAML2 SSO identity providers like Okta, 2018-08-03T05:04:48+0000
+/project/django-timedeltafield/, django-timedeltafield, 0.7.10, TimedeltaField for django models, 2015-05-26T12:16:10+0000
+/project/django-saml2-auth-with-certsupport/, django-saml2-auth-with-certsupport, 0.0.3, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2021-01-02T22:26:45+0000
+/project/autobreadcrumbs/, autobreadcrumbs, 2.0.0, Django application to add breadcrumbs to your pages, 2016-08-17T22:58:50+0000
+/project/robotframework-djangolibrary/, robotframework-djangolibrary, 3.1.0, A Robot Framework library for Django., 2018-12-24T06:17:19+0000
+/project/cmsplugin-iframe/, cmsplugin-iframe, 0.1.5, Django CMS page iframe plugin, 2016-04-23T18:57:57+0000
+/project/django-saml2-auth/, django-saml2-auth, 2.2.1, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2019-01-24T11:49:44+0000
+/project/django-sympa/, django-sympa, 0.1.1, Add a view to interact with sympa, 2015-07-22T10:15:09+0000
+/project/django-saml2-auth-ai/, django-saml2-auth-ai, 2.1.6, Django SAML2 Authentication AI, 2019-12-04T07:00:17+0000
+/project/django-userena/, django-userena, 2.0.1, Complete user management application for Django, 2016-03-23T09:28:09+0000
+/project/django-saml2-auth-signout-slo/, django-saml2-auth-signout-slo, 0.0.10, Single LogOut (SLO) plugin for django_saml2_auth, 2019-09-27T16:48:59+0000
+/project/alaudaorg-django-oauth/, alaudaorg-django-oauth, 0.9.0, OAuth2 goodies for Django, 2018-04-20T08:53:47+0000
+/project/django-oauth-plus/, django-oauth-plus, 2.2.9, Support of OAuth 1.0a in Django using python-oauth2., 2016-06-02T09:13:18+0000
+/project/django-bootstrap-pagination/, django-bootstrap-pagination, 1.7.1, Render Django Page objects as Bootstrap 3.x/4.x Pagination compatible HTML, 2019-06-13T21:31:37+0000
+/project/django-lodfield/, django-lodfield, 1.0.3, List of Dictionaries Model Field for Django, 2016-06-02T09:55:37+0000
+/project/alogator/, alogator, 0.2.0, Alogator is an aggregated logging actor system., 2015-05-22T13:41:38+0000
+/project/django-logging-json-fork/, django-logging-json-fork, 0.0.2, Fork update of cipriantarta/django-logging., 2020-06-16T22:03:58+0000
+/project/django-gddkia-impediments-on-roads/, django-gddkia-impediments-on-roads, 0.1.1, Django client for gddkia-impediments-on-roads, 2016-07-29T10:57:58+0000
+/project/django-site-notifications/, django-site-notifications, 1.0.0, Enable a message on every page load., 2015-04-16T02:17:45+0000
+/project/django-auth-role/, django-auth-role, 0.4.0, Add user roles to django-auth, 2017-05-10T16:53:19+0000
+/project/django-saml2-auth-lw/, django-saml2-auth-lw, 2.2.2, Django SAML2 Authentication Made Easy. Easily integrate with SAML2 SSO identity providers like Okta, 2021-02-22T03:12:11+0000
+/project/django-polymorphic-ng/, django-polymorphic-ng, 0.8.0, Seamless Polymorphic Inheritance for Django Models, 2015-12-06T11:23:03+0000
+/project/django-chat/, django-chat, 0.1.0, Simple chat, 2017-04-26T20:13:09+0000
+/project/django-jackfrost/, django-jackfrost, 0.4.0, A static site generator for Django views, 2015-07-13T18:18:34+0000
+/project/django-cas-client/, django-cas-client, 1.5.3, Django Cas Client, 2019-12-24T15:17:46+0000
+/project/m3-fias/, m3-fias, 1.2.3, Федеральная информационная адресная система, 2021-01-25T20:04:51+0000
+/project/django-dev-email/, django-dev-email, 1.0.2, Send all mail to a desired address during development, 2015-04-26T19:10:59+0000
+/project/django-oauth-toolkit-fork/, django-oauth-toolkit-fork, 0.11.0, Fork of django-oauth-toolkit, 2016-03-02T11:18:52+0000
+/project/cmsplugin-nvd3/, cmsplugin-nvd3, 0.5.2, Insert nvd3 charts into django-cms driven websites, 2016-06-05T00:13:48+0000
+/project/emencia-django-countries/, emencia.django.countries, 0.2.2, List of manageable countries for your Django projects, 2015-12-10T23:19:47+0000
+/project/django-saml2-auth-signout-redirect/, django-saml2-auth-signout-redirect, 0.0.8, Django SAML2 Plugin for URL redirection on Logout (usually to an IdP logout), 2019-09-27T17:33:15+0000
+/project/django-api-decorators/, django-api-decorators, 0.0.3, Tiny decorator functions to make it easier to build an API using Django in ~100 LoC, 2019-08-22T01:50:21+0000
+/project/djangoceleryrpc/, djangoceleryrpc, 2.3.0, Remote access from one system to models and functions of another one using Celery machinery., 2021-04-10T06:09:35+0000
+/project/django-project-home-templatetags/, django-project-home-templatetags, 0.2.1, A collection of Django templatetags to flexibly incorporate links and breadcrumbs from app pages to the homepage of a project, 2018-12-09T09:38:47+0000
+/project/django-modalview/, django-modalview, 0.1.6, Django app to add generic views., 2018-06-13T08:32:21+0000
+/project/django-queryable-properties/, django-queryable-properties, 1.6.1, Write Django model properties that can be used in database queries., 2021-04-19T17:13:57+0000
+/project/django-secrets/, django-secrets, 1.0.2, The easy way of handling Django secrets., 2018-06-15T10:31:17+0000
+/project/django-flash-rest/, django-flash-rest, 0.8.4, Tiny, lightweight, blazing fast REST library for django, 2020-06-15T15:40:29+0000
+/project/django-serializable-model/, django-serializable-model, 0.0.6, Django classes to make your models, managers, and querysets serializable, with built-in support for related objects in ~150 LoC, 2019-10-26T19:29:38+0000
+/project/snabb-django-background-tasks/, snabb-django-background-tasks, 1.1.6.1, Database backed asynchronous task queue, 2017-04-03T22:10:44+0000

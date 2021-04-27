@@ -1,0 +1,1510 @@
+/project/cryptoim/, CryptoIM, 0.1.1, Crypto Instant Messenger, 2014-02-03T19:55:59+0000
+/project/livebridge-scribblelive/, livebridge-scribblelive, 0.6.1, Scribblelive plugin for Livebridge., 2020-12-22T00:26:54+0000
+/project/slackerade/, slackerade, 0.0.2, Masquerade yourself as a fictitious user on slack, 2020-03-06T17:27:05+0000
+/project/pysimpirc/, pysimpirc, 0.1.4, Simple IRC module, 2007-12-26T03:26:42+0000
+/project/python-twitter/, python-twitter, 3.5, A Python wrapper around the Twitter API, 2018-11-03T12:32:06+0000
+/project/ircevents/, ircevents, 0.3.0, , 2020-03-16T22:00:24+0000
+/project/slackpy/, slackpy, 2.2.2, A Simple and Human Friendly Slack Client for Logging., 2016-12-10T05:30:53+0000
+/project/pykblib/, PyKBLib, 2.0.0, A Python library for interacting with the Keybase CLI tools., 2019-04-28T12:23:28+0000
+/project/ludolph-zabbix/, ludolph-zabbix, 1.7, Ludolph: Zabbix API plugin, 2017-06-25T16:41:37+0000
+/project/fredirc/, FredIRC, 0.3.0, An easy-to-use, event driven framework for IRC bots., 2015-12-09T12:48:06+0000
+/project/ppslack/, ppslack, 3.0.2, Tool to send messages via Slack, 2021-03-03T12:02:02+0000
+/project/twython/, twython, 3.8.2, Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs, 2020-04-04T23:21:39+0000
+/project/helga-hipchat-nicks/, helga-hipchat-nicks, 0.1.1, A helga preprocessor to ensure that user nicks are set as @ mentions, 2015-03-07T16:32:30+0000
+/project/an-discordbot/, AN-DiscordBot, 3.9.4, A highly customisable Discord bot, 2019-05-13T21:00:20+0000
+/project/errbot-backend-webapp/, errbot-backend-webapp, 0.1.0, Webapp backend plugin for Errbot, 2019-06-27T12:28:47+0000
+/project/ubot/, ubot, 8.0.0, A CLI tool that generates code by parsing the Telegram Bot API page, 2020-08-27T19:21:48+0000
+/project/aiml-bot-api/, AIML-Bot-API, 0.0, GraphQL API to AIML Bot, 2017-08-11T04:35:26+0000
+/project/linepy/, linepy, 3.0.8, LINE Messaging's private API, 2018-01-15T23:13:44+0000
+/project/trioyoyo/, trioyoyo, 1.1.23, A trio oyoyo port, 2017-09-13T01:33:52+0000
+/project/ciscosparkapi/, ciscosparkapi, 0.10.1, Simple, lightweight, scalable Python API wrapper for the Cisco Spark APIs, 2019-01-03T07:04:43+0000
+/project/discord-ext-slash/, discord-ext-slash, 0.6.0, Support slash commands with discord.py., 2021-04-24T15:26:17+0000
+/project/basebot/, basebot, 1.1.0, a base IRC bot extensible with plugins, 2014-09-09T21:08:59+0000
+/project/hanging-merge-requests/, hanging-merge-requests, 1.0.2, Emojiful daily summaries of open merge requests directly in your Slack, 2019-03-25T12:09:23+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/hipchat-notif/, hipchat_notif, 0.2.3, Simple Python library for the HipChat API v1, 2015-02-09T13:29:49+0000
+/project/ircmessage/, ircmessage, 0.1.1, A simple Python module for applying and stripping formatting from IRC messages., 2015-11-20T11:27:07+0000
+/project/helga-elo/, helga-elo, 1.0.0, Provide a system through which you may compare players of arbitrary games, 2016-09-20T22:05:19+0000
+/project/rocketgram/, rocketgram, 3.1.0, Modern and powerful asynchronous telegram bot framework., 2021-03-27T17:57:38+0000
+/project/hibpwned/, hibpwned, 1.2.3, A human friendly Python API wrapper for haveibeenpwned.com, 2021-03-26T01:12:57+0000
+/project/slackblocks/, slackblocks, 0.2.3, Python wrapper for the Slack Blocks API, 2021-01-16T15:22:58+0000
+/project/flowdock-api-wrapper/, flowdock-api-wrapper, 1.0, Flowdock API Wrapper, 2019-03-30T12:58:28+0000
+/project/pyxa/, pyxa, 0.0.2, pyXA is an open-source, flexible, high-performance function serving framework for Charlotte AI., 2019-12-05T12:44:00+0000
+/project/teams-logger/, teams-logger, 0.4.0, Microsoft Teams logging handler for Python, 2021-01-25T14:01:39+0000
+/project/seshet/, seshet, 0.1.0-3, Modular, dynamic IRC bot, 2015-07-16T13:41:50+0000
+/project/sopel-help/, sopel-help, 0.2.0, Help plugin for Sopel, 2021-03-28T14:34:47+0000
+/project/kdb/, kdb, 1.0.2, Knowledge (IRC) Database Bot, 2014-04-26T15:26:14+0000
+/project/spellbot/, spellbot, 5.28.3, The Discord bot for SpellTable, 2021-04-22T04:11:29+0000
+/project/helga-facts/, helga-facts, 0.2.2, A helga plugin that can be used to store responses that can be returned from a question, 2015-07-23T19:11:30+0000
+/project/filmaster/, filmaster, 0.0.7, Discord bot that scours TMDB for film info, 2020-02-16T22:58:19+0000
+/project/emojipedia/, Emojipedia, 0.4.1, Emoji data from Emojipedia, 2019-09-02T15:27:04+0000
+/project/keysync/, keysync, 0.2.2, syncs OTR keys between different IM programs, 2015-09-17T14:29:23+0000
+/project/lechat/, lechat, 1.0.7, A chatting plugin for the Le bot., 2018-03-26T01:53:37+0000
+/project/xmpp2/, xmpp2, 0.4, An XMPP client, 2010-08-11T06:42:20+0000
+/project/yasexamplehandlers/, YasExampleHandlers, 0.0.2, Just some examples, 2017-03-06T07:28:22+0000
+/project/xmpppy/, xmpppy, 0.6.2, XMPP implementation in Python, 2020-11-12T21:07:07+0000
+/project/makechat/, makechat, 0.1.25, Simple chat system, 2016-05-29T09:03:16+0000
+/project/will/, will, 2.1.3, A friendly python hipchat bot, 2018-06-13T15:46:35+0000
+/project/cleantoots/, cleantoots, 0.4.1, Cleanup your toot history., 2020-05-23T08:32:07+0000
+/project/pmxbot/, pmxbot, 1122.10.0, IRC bot - full featured, yet extensible and customizable, 2020-11-14T20:01:39+0000
+/project/sensebook/, sensebook, 0.2.0, Making sense of Facebooks undocumented API., 2019-02-19T22:58:24+0000
+/project/syslog2irc/, syslog2irc, 0.11, Forward syslog messages to IRC, 2021-04-21T04:50:20+0000
+/project/efb-online-middleware/, efb-online-middleware, 0.0.5, Online middleware for EH Forwarder Bot, notice when wechat is offline., 2020-03-07T08:53:13+0000
+/project/telepotpro/, telepotpro, 13.1, Python framework for Telegram Bot API, 2021-03-09T15:29:49+0000
+/project/django-live-support/, django-live-support, 0.1.9, A django app that lets you chat with visitors to your site., 2012-11-27T16:06:33+0000
+/project/kw-ppjp-chat/, kw_ppjp.chat, 0.1, a simple gui chat application, 2014-01-26T07:15:05+0000
+/project/bothub/, bothub, 0.1.30, Build serverless chatbot on BotHub.Studio, 2018-11-22T04:35:19+0000
+/project/zulip-term/, zulip-term, 0.6.0, Zulip's official terminal client, 2021-01-28T23:56:18+0000
+/project/aio-telegram-bot/, aio-telegram-bot, 1.0.0, An asynchronous framework for building your own Telegram Bot, 2019-05-22T23:19:55+0000
+/project/pyxmpp/, pyxmpp, 1.1.2, XMPP/Jabber implementation for Python, 2011-05-16T07:27:19+0000
+/project/autoguru/, autoguru, 0.0.1, Question Answering for FAQs with Natural Language Processing, 2020-03-30T03:16:15+0000
+/project/pyfrost/, pyfrost, 0.2.1, An online chat library for creating the client and server., 2020-04-17T13:01:16+0000
+/project/xslack/, xSlack, 0.2, Open source, self hosted cross-team channels for Slack!, 2016-11-22T20:38:28+0000
+/project/jaconda/, jaconda, 0.1, Python client to Jaconda API v2, 2012-02-22T18:32:27+0000
+/project/tg-autoposter/, TG-AutoPoster, 2.1.0, Telegram Bot for AutoPosting from VK, 2020-09-12T13:18:58+0000
+/project/sugaroid-chatterbot-corpus/, sugaroid-chatterbot-corpus, 1.2.0, Chatterbot corpus for Sugaroid, 2020-04-02T06:36:10+0000
+/project/telegram-me/, telegram-me, 1.0.1, A simple scraper for getting information from t.me links, 2020-06-27T09:43:44+0000
+/project/metasyntactic/, metasyntactic, 1.0.14, metasyntactic - Themed metasyntactic variables names, 2020-01-09T20:57:57+0000
+/project/framewirc/, framewirc, 0.1.0, An asynchronous IRC framework/library based upon asyncio, 2015-11-27T22:37:13+0000
+/project/pytbot/, PyTBot, 0.2.dev1, A Pure Python Telegram Bot API library, 2015-12-29T18:33:38+0000
+/project/simple-fbmessenger/, simple-fbmessenger, 0.1.0, An unofficial simple library to provide basic communication with Facebooks Messenger API, 2021-04-09T08:55:51+0000
+/project/zulip/, zulip, 0.7.1, Bindings for the Zulip message API, 2020-10-09T18:19:55+0000
+/project/sopel-plugins-channelmgnt/, sopel-plugins.channelmgnt, 2.0.2, Channelmgnt plugin for Sopel, 2021-04-16T14:49:43+0000
+/project/jeeves-framework/, jeeves-framework, 0.4.0, A Python IRC Bot Framework. Easily create IRC bots with a single command, 2012-05-07T21:43:50+0000
+/project/sopel-pets/, sopel-pets, 0.0.2, A plugin for Sopel that posts pets in the channel, 2020-12-11T19:19:47+0000
+/project/codethecity-slackbot/, codethecity-slackbot, 1.0.0.dev3, A framework for creating Slackbots for Python. Developed for CodeTheCity., 2017-01-28T21:29:28+0000
+/project/netcat/, netcat, 0.0.1a0, Netcat with cmd exec, connect, listen and (local/remote) port-forwarding modes., 2020-04-08T19:58:41+0000
+/project/knosk-core/, knosk-core, 1.0.0a1, Knosk dialog management framework, 2019-10-08T09:09:32+0000
+/project/fyreside/, Fyreside, 0.0.4, Talker-style MUD with card game features, 2016-10-04T22:28:14+0000
+/project/pyrobud/, pyrobud, 2.1.0, A clean selfbot for Telegram with an emphasis on quality and practicality., 2020-05-04T04:48:25+0000
+/project/ggzbot/, ggzbot, 0.1.3, supporting the GGZ patients since 14-9-2012, 2012-09-14T20:17:20+0000
+/project/wisper/, wisper, 1.0.0, Encrypted IRC, 2019-01-09T21:00:20+0000
+/project/djehutyslack/, djehutyslack, 0.1.0, chat bot service for djehuty, 2014-10-10T07:23:40+0000
+/project/djehuty-tiqav/, djehuty_tiqav, 0.1.0, djehuty_tiqav, 2014-11-18T12:10:11+0000
+/project/discord-openbot/, Discord-OpenBot, 0.1.4, Simple Custom Bots and Plugins for discord.py, 2018-06-07T09:44:57+0000
+/project/ehforwarderbot/, ehforwarderbot, 2.1.0, An extensible message tunneling chat bot framework., 2020-11-22T16:35:03+0000
+/project/pychomikbox/, pyChomikBox, 0.2.0, Python library for Chomikuj.pl filesharing service, 2017-11-22T17:53:58+0000
+/project/pychat/, PyChat, 1.5.0, Asynchronous Chat Client, 2015-01-07T15:49:54+0000
+/project/helga-poems/, helga-poems, 0.2.0, A helga command to generate either haiku or tanka poems, 2016-10-26T20:46:35+0000
+/project/nekbot-protocols-telegram/, nekbot.protocols.telegram, 0.1.0.16, Telegram Protocol for Nekbot, a modular multiprotocol bot., 2015-05-29T19:26:47+0000
+/project/python-netflix/, python-netflix, 0.4.1, A Python Library to interface with Netflix REST API & OAuth, 2012-11-16T14:45:59+0000
+/project/jishaku/, jishaku, 1.20.0.220, A discord.py extension including useful tools for bot development and debugging., 2020-11-22T12:27:57+0000
+/project/asciiryver/, asciiRyver, 1.3a1, Ryver for the terminal, 2018-03-26T04:47:50+0000
+/project/messenger-api/, messenger-api, 0.5.1, Unofficial Facebook Messenger library for Python 2.6+ / Python 3.4+ / pypy, 2017-11-20T18:21:38+0000
+/project/whatsapp-web/, whatsapp-web, 0.0.1, A Python library to automate easily whatsapp web, 2020-07-25T01:14:01+0000
+/project/xmpp-http-upload/, xmpp-http-upload, 0.4.0, Flask-based HTTP service to handle XMPP HTTP upload requests from Prosody mod_http_upload_external, 2020-10-06T16:11:45+0000
+/project/helga-youtube-meta/, helga-youtube-meta, 1.1.0, Provide information for youtube related metadata, 2017-06-11T02:24:56+0000
+/project/figment/, figment, 0.0.1, A framework for creating multiplayer, text-based worlds., 2015-09-18T06:03:44+0000
+/project/sat-pubsub/, sat-pubsub, 0.3.0, XMPP Publish-Subscribe Service Component, build for the need of the « Salut à Toi » project, 2019-08-16T10:43:55+0000
+/project/quick-slack/, quick-slack, 1.0.2b0, CLI tool to send message to mornitor status, notify process end, etc by slack., 2020-12-28T11:23:21+0000
+/project/r0c/, r0c, 1.1.8, retr0chat telnet/vt100 chat server, 2020-12-22T22:32:31+0000
+/project/channelstream/, channelstream, 0.7.1, Websocket server supporting channels/users communication, 2020-02-22T18:10:22+0000
+/project/helga-spongebob/, helga-spongebob, 0.1, HeLgA PlUgIn tO Do mOcKiNg sPoNgEbOb tExT, 2018-12-19T06:19:50+0000
+/project/sfchat/, SFChat, 0.13.0, Secure Free Chat (SFChat) is long pulling REST chat based on Django and Mongodb., 2016-12-18T18:49:34+0000
+/project/discobot/, Discobot, 0.1.0, A fully-featured music bot for Discord., 2016-04-22T15:59:21+0000
+/project/pykeyboard/, pykeyboard, 0.1.2, Best Keyboard and Pagination for the Pyrogram Library., 2020-12-30T16:06:28+0000
+/project/whalesong/, whalesong, 0.9.0, Whalesong is a python library to manage WebApps remotely. Currently WhatsappWeb is implemented, 2019-02-26T18:36:26+0000
+/project/lecluvindex/, lecluvindex, 1.1.0b0, Chilean UV index plugin for the Le bot., 2018-04-16T02:53:04+0000
+/project/fastapi-slackeventsapi/, fastapi-slackeventsapi, 0.1.0, FastAPI Implementation of slackeventsapi, 2021-04-07T12:52:07+0000
+/project/limnoria/, limnoria, 2021.04.11, A modified version of Supybot (an IRC bot and framework), 2021-04-11T09:22:46+0000
+/project/guildwatcher/, guildwatcher, 2.0.0, A discord webhook to track Tibia guild changes., 2021-02-23T00:41:02+0000
+/project/skype-chatsync-reader/, skype-chatsync-reader, 0.1, Parser and GUI viewer of chatsync/*.dat files from the Skype profile directory, 2015-01-22T20:56:25+0000
+/project/peppyhare-slack-100bot/, peppyhare-slack-100bot, 1.0.5, Spice up your Slack-life with emojis!, 2018-03-16T17:55:00+0000
+/project/coalition/, coalition, 0.0.0.dev5, A suite of office tools developed in Python., 2017-04-25T14:36:46+0000
+/project/botibal/, botibal, 0.8.0, The silly, quizzical XMPP bot, 2016-08-24T22:04:43+0000
+/project/python-twitch-stream/, python-twitch-stream, 1.0.2, An interface to the Twitch website, to interact with their video and chat, 2016-04-23T12:21:50+0000
+/project/pypi-chat/, pypi-chat, 0.0.4, A project of pypi chat., 2018-10-01T10:38:59+0000
+/project/sopel-color-text/, sopel-color-text, 0.4.0, A Sopel plugin to add some colored text options., 2020-10-18T01:49:26+0000
+/project/mautrix-instagram/, mautrix-instagram, 0.1.0, A Matrix-Instagram puppeting bridge., 2021-04-07T11:23:36+0000
+/project/dankbot/, dankbot, 0.0.6, Slack bot for posting dank memes from Reddit, 2016-12-08T06:16:31+0000
+/project/mleap-splice/, mleap-splice, 0.17.0a0, MLeap Python API, 2020-11-23T14:34:38+0000
+/project/wakeywakey/, wakeywakey, 1.0.2, Continuously mark your Slack presence as active - never appear away!, 2016-03-14T15:33:18+0000
+/project/tuichat/, tuichat, 0.6.3, A simple messaging program and API, 2019-07-10T09:38:02+0000
+/project/gendobot/, gendobot, 4.1.4, a lightweight Slackbot framework for Python, 2017-10-06T14:17:48+0000
+/project/lmikoto-efb-qq-slave/, lmikoto-efb-qq-slave, 2.3.0, QQ Slave Channel for EH Forwarder Bot, integrated with various QQ Clients., 2020-02-01T02:12:56+0000
+/project/tinode-grpc/, tinode-grpc, 0.16.7, Tinode gRPC bindings., 2020-07-17T22:39:30+0000
+/project/stormbot-music/, stormbot-music, 1.3.0, music plugin for stormbot, 2019-04-18T08:06:02+0000
+/project/aiotgbot/, aiotgbot, 0.8.3, Asynchronous library for Telegram bot API, 2021-03-14T16:52:42+0000
+/project/blkmautrix/, blkmautrix, 0.0.18, A Python 3 asyncio Matrix framework., 2019-11-21T06:02:06+0000
+/project/nekbot-protocols-xmpp/, nekbot.protocols.xmpp, 0.1.0.7, Jabber/XMPP Protocol for Nekbot, a modular multiprotocol bot., 2015-06-19T08:45:21+0000
+/project/memedict/, memedict, 1.0.3, Knowyourmeme.com definitions scraper, 2018-08-26T22:05:27+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/discord-hero-scheduler/, discord-hero-scheduler, 0.1.0b0, A Scheduler extension for Discord Hero, allowing you to schedule the execution of Controller methods. It also comes with a shutdown command that shuts down discord-hero gracefully., 2020-05-27T16:21:00+0000
+/project/ircclive/, ircclive, 1.0.1, Simple IRCCloud session keeper; written in python3., 2018-02-03T11:10:55+0000
+/project/prettify/, prettify, 0.1.1, IRC log prettifier, 2013-03-07T15:04:08+0000
+/project/spyke/, spyke, 0.1, A skype connection manager., 2009-08-07T13:36:02+0000
+/project/pugbot-ng/, pugbot_ng, 0.0.4, Urban Terror PUG IRC bot., 2014-07-29T00:38:54+0000
+/project/ludolph-vcs/, ludolph-vcs, 0.1.1, Ludolph: VCS integration plugin, 2017-01-18T13:48:16+0000
+/project/logging-slackhandler/, logging-slackhandler, 2.5.0, A logging handler for Slack, 2017-12-05T09:34:26+0000
+/project/webexteamsarchiver/, webexteamsarchiver, 0.11.0, Room archiver utility for Webex Teams, 2020-08-20T00:33:03+0000
+/project/discord-notify/, discord-notify, 1.0.0, A minimal Discord API webhooks wrapper for sending messages to a Discord channel, 2020-08-02T22:25:35+0000
+/project/ludolph-weather/, ludolph-weather, 1.0, Ludolph: Weather plugin, 2015-08-19T12:06:04+0000
+/project/mizar/, mizar, 0.0.3, Official API for the MizarAI platform, 2021-04-15T21:00:30+0000
+/project/fabular/, fabular, 0.0.dev2, A command-line chat app for secure communication between you and your friends!, 2021-03-15T14:09:27+0000
+/project/mautrix-telegram/, mautrix-telegram, 0.9.0, A Matrix-Telegram hybrid puppeting/relaybot bridge., 2020-11-17T16:03:49+0000
+/project/helga-trade/, helga-trade, 1.0.2, Stock, crypto, forex trade information plugin for helga, 2017-08-07T13:38:18+0000
+/project/slack-logger/, slack-logger, 0.3.1, A Python logging handler for Slack integration, 2017-12-20T18:03:23+0000
+/project/jeev/, jeev, 0.2.0, A simple chat bot, at your service., 2014-09-07T06:46:04+0000
+/project/efb-msg-blocker-middleware/, efb-msg-blocker-middleware, 1.1.0, WeChat Middleware for EH Forwarder Bot to block messages, 2020-12-31T08:04:20+0000
+/project/hikari/, hikari, 2.0.0.dev100, A sane Discord API for Python 3 built on asyncio and good intentions, 2021-01-25T11:36:48+0000
+/project/tcr/, tcr, 0.1, A unofficial line bot lib, 2018-03-03T18:04:41+0000
+/project/flameboi/, Flameboi, 0.0.2.dev0, Slack chat bot, 2020-07-10T21:36:34+0000
+/project/channeling/, channeling, 0.0.13, Channeling - a Discord bot., 2020-10-19T11:44:33+0000
+/project/hikari-yuyo/, hikari-yuyo, 0.0.2, A collection of utility classes and functions for use with Hikari, 2020-11-16T03:35:41+0000
+/project/skpy/, SkPy, 0.10.3, An unofficial Python library for interacting with the Skype HTTP API., 2021-02-05T19:18:20+0000
+/project/errcron/, errcron, 0.4.4, Crontab implementation for Errbot, 2017-11-12T13:57:34+0000
+/project/dialogflow-lite/, dialogflow-lite, 0.0.6, A light-weight agent for Dialogflow., 2018-02-06T13:38:19+0000
+/project/depytg/, DepyTG, 4.0.0, The only Telegram bot library that does nothing, 2018-09-09T21:47:48+0000
+/project/mtweets/, mtweets, 0.4, An easy (and up to date) way to access Twitter data with Python., 2011-06-19T16:45:16+0000
+/project/cabot-discoball/, cabot-discoball, 0.1.0, The caBot Discoball Module., 2019-04-13T00:08:53+0000
+/project/botaclan/, botaclan, 0.1.0, Bataclan's official bot, 2020-05-16T21:01:23+0000
+/project/snsapi/, snsapi, 0.8.1, lightweight middleware for multiple social networking services, 2014-08-02T15:39:53+0000
+/project/lalita/, lalita, 0.1.3, Yet another IRC bot., 2015-09-26T00:44:08+0000
+/project/matzip/, matzip, 0.0.1, Korean Restaurant Recommendation Library for Python, 2018-08-12T04:20:04+0000
+/project/efb-caiyun-weather-slave/, efb-caiyun-weather-slave, 0.0.1.dev4, EFB CaiYun Weather Slave Channel, 2020-09-16T05:43:34+0000
+/project/telegram-qq-bot/, telegram-qq-bot, 0.2.2, A telegram bot that forwards subscribed messages to telegram, 2017-10-23T12:15:17+0000
+/project/doubleratchet/, DoubleRatchet, 0.7.0, A python implementation of the Double Ratchet algorithm., 2019-07-21T11:50:36+0000
+/project/aioopenssl/, aioopenssl, 0.6.0, TLS-capable transport using OpenSSL for asyncio, 2021-01-16T13:22:36+0000
+/project/cleverbotfree/, cleverbotfree, 1.2.7, Free Alternative For The Cleverbot API, 2021-01-17T08:13:39+0000
+/project/telethongoblenustest/, TelethonGoblenusTest, 0.15.5, Full-featured Telegram client library for Python 3, 2017-12-09T21:29:40+0000
+/project/ovisbot/, ovisbot, 2.0.0, A modular Discord bot for CTF teams, 2020-09-03T21:32:02+0000
+/project/surveillance-bot/, surveillance-bot, 1.0, Basic video surveillance system controlled through a telegram bot., 2020-06-16T18:06:28+0000
+/project/pyxolotl/, Pyxolotl, 0.2, Send and receive messages encrypted with Axolotl (Double Ratchet) protocol, 2016-09-11T01:09:22+0000
+/project/factoirc/, factoirc, 0.6, Bidirectional IRC bridge for Factorio, 2017-05-16T20:14:02+0000
+/project/hipchatpy/, hipchatpy, 0.1.17, Simple HipChat client library, 2014-09-18T16:03:23+0000
+/project/mautrix-twitter/, mautrix-twitter, 0.1.2, A Matrix-Twitter DM puppeting bridge., 2020-12-11T17:37:44+0000
+/project/pyxmpp2/, pyxmpp2, 2.0.1, XMPP/Jabber implementation for Python, 2017-11-27T20:21:08+0000
+/project/telegram-reddit-newsbot/, telegram-reddit-newsbot, 0.3, Telegram bot to stay in tune with favourite reddit channels., 2017-03-11T09:27:35+0000
+/project/simple-pyirc/, simple-pyirc, 0.0.1, A light-weighted IRC client, 2018-07-28T16:08:29+0000
+/project/c2d-api/, c2d-api, 0.0.3, Python package for API of Chat2Desk, 2021-04-13T16:49:59+0000
+/project/eternal/, eternal, 0.0.1, A terminal UI IRC client, 2021-04-16T18:25:19+0000
+/project/hackmud-chat/, hackmud-chat, 0.1a4, Python binding to Hackmud's chat API, 2018-10-23T14:56:45+0000
+/project/telepot/, telepot, 12.7, Python framework for Telegram Bot API, 2018-05-26T16:26:54+0000
+/project/django-fbbot/, django-fbbot, 0.1, fbbot is a simple Django app to showcasing the Messenger Platform, make your facebook bot with Django, 2017-05-01T20:16:23+0000
+/project/chatterbot-io-adapters/, chatterbot-io-adapters, 0.0.2, ChatterBots input and output adapters, 2017-10-11T00:24:02+0000
+/project/surfcity/, surfcity, 0.1.7, A family of Python clients for Secure Scuttlebutt, 2019-04-08T10:35:04+0000
+/project/le/, le, 1.0.16, A silly chatbot for telegram., 2018-03-24T23:56:20+0000
+/project/telegram-autoposter/, telegram-autoposter, 0.3, Goal of this library is to simplify creation of bots for automatic data posting into telegram channels. Based on python-telegram-bot., 2017-08-21T19:39:32+0000
+/project/twx-botapi/, twx.botapi, 3.6.2, Unofficial Telegram Bot API Library and Client, 2018-05-27T06:41:10+0000
+/project/slack-webhook/, slack-webhook, 1.0.6, slack-webhook is a python client library for slack api         Incoming Webhooks on Python 3.6 and above., 2021-04-08T05:40:38+0000
+/project/python-omegle/, python-omegle, 1.1.6, A simple Python API for the Omegle text chat service, 2018-07-14T20:32:11+0000
+/project/helga-icanhazascii/, helga-icanhazascii, 0.1.0, A helga match plugin that will show ASCII art for certain keywords., 2015-03-04T14:01:54+0000
+/project/gogenji/, GoGenji, 0.1.3, GoGenji is a self helper, connecting the whole world within Wechat in peace, 2017-05-06T13:37:29+0000
+/project/kaomoji/, kaomoji, 0.1.0, Create procedurally generated kaomoji (i.e., Japanese emoticons) using Python! \(^ヮ^)/, 2020-06-10T03:01:18+0000
+/project/briar-wrapper/, briar_wrapper, 0.0.7, Wrapper for the Briar Headless REST API, 2021-03-27T19:31:26+0000
+/project/helga-weather/, helga-weather, 1.0.4, Display weather from openweathermap.org, 2016-10-19T02:21:09+0000
+/project/mautrix-signal/, mautrix-signal, 0.1.1, A Matrix-Signal puppeting bridge., 2021-04-07T19:14:20+0000
+/project/anbot/, ANBOT, 3.1.0, A highly customisable Discord bot, 2019-05-14T23:02:11+0000
+/project/nekbot/, nekbot, 0.1.2.34, NekBot, a modular multiprotocol bot., 2015-05-29T19:26:02+0000
+/project/kik-desktop/, kik-desktop, 0.0.3, Kik Desktop, 2017-12-03T19:16:29+0000
+/project/slacksecrets/, slacksecrets, 0.1.0a1, Uncover credentials, API tokens, and other sensitive content in your Slack instance., 2020-02-11T05:38:26+0000
+/project/ofarchiver/, ofarchiver, 0.43, An HTML archive generator for chat rooms on an Openfire instant messaging server., 2011-11-14T17:55:35+0000
+/project/wcpan-telegram/, wcpan.telegram, 0.3.0.dev6, Telegram Bot API with Tornado, 2018-03-03T16:03:42+0000
+/project/tord/, tord, 0.4.0, Asynchronous Websocket + Pubsub based web framework built over Tornado, Redis, ZMQ, SockJS, 2014-05-19T04:43:43+0000
+/project/telegram-rss/, telegram-rss, 0.8.1, Fetch rss and send the latest update to telegram., 2021-03-05T13:17:00+0000
+/project/mplugins/, mplugins, 0.0.1rc2, A utility tool for Discord Modmail plugins, 2019-02-10T20:35:52+0000
+/project/pycri/, pycri, 0.3, IRC-bot, 2011-03-14T13:30:49+0000
+/project/mleap/, mleap, 0.16.1, MLeap Python API, 2020-07-06T13:01:23+0000
+/project/fbemissary/, fbemissary, 0.0.2, A bot framework for the Facebook Messenger platform, built on asyncio and aiohttp, 2017-05-21T20:22:16+0000
+/project/helga-giphy/, helga-giphy, 0.1.1, A command plugin to search giphy for an anmiated gif., 2015-03-04T23:54:46+0000
+/project/jambottle/, jambottle, 1.0.0, A bot that announces new itch.io jam entries to a discord channel, 2020-11-03T09:35:42+0000
+/project/dhooks-lite/, dhooks-lite, 0.6.1, Another simple class wrapper for interacting with Discord webhooks in Python 3, 2021-01-04T00:30:52+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/dpymenus/, dpymenus, 1.3.1, Simplified menus for discord.py developers., 2021-01-22T18:30:48+0000
+/project/linkedin/, linkedin, 0.1.5, A Python Library to interface with LinkedIn API, OAuth and JSON responses, 2013-03-21T19:34:03+0000
+/project/poezio/, poezio, 0.13.1, A console XMPP client, 2020-05-31T15:58:49+0000
+/project/hikari-sake/, hikari-sake, 0.0.1, A Discord API for Python and asyncio built on good intentions., 2020-11-16T05:43:50+0000
+/project/zulip-bots/, zulip-bots, 0.7.1, Zulip's Bot framework, 2020-10-09T18:19:52+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/asynctwitch/, asynctwitch, 4.2.1, Asynchonous wrapper for twitch IRC3, 2017-08-12T09:13:11+0000
+/project/lastsoul/, lastSoul, 1.0.1, Python (not yet)full scale client for IONIS's students (EPITECH/EPITA/etc), 2012-05-27T21:23:44+0000
+/project/python-smartqq-client/, python-smartqq-client, 0.4.10, A simple smartqq client implemented with python to be used as component in other projects, 2017-10-23T09:40:34+0000
+/project/helga-mud/, helga-mud, 0.1.1, UNKNOWN, 2014-09-15T21:22:25+0000
+/project/cagou/, cagou, 0.7.0, Desktop/Android frontend for Salut à Toi XMPP client, 2019-07-24T19:13:22+0000
+/project/muirc/, muirc, 1.0, Micro IRC client, 2012-01-16T14:16:04+0000
+/project/pybelieva/, pybelieva, 0.0.2, Python wrapper for UnbelievaBoat API, 2019-09-10T18:23:43+0000
+/project/redirbot/, redirbot, 0.0.5, IRCBot, telling people they should contact you on different nickname, 2013-07-23T09:34:07+0000
+/project/cabot-core/, cabot-core, 0.1.1, A modular chat bot., 2019-04-07T23:58:23+0000
+/project/bitbot/, bitbot, 1.12.0, Modular event-driven IRC bot, 2019-10-11T16:26:04+0000
+/project/umb/, umb, 1.0.1, UMB information system's private API based on their mobile application, 2018-07-11T01:28:05+0000
+/project/helga-markovify/, helga-markovify, 1.1.1, Ingest corpuses of text and output a sentence generated from markov chains, 2016-12-14T16:19:21+0000
+/project/nusbot/, nusbot, 0.3.3, adc bot annoucing changes in filelist of hub's users, 2015-09-20T09:19:26+0000
+/project/slacker-log-handler/, slacker-log-handler, 1.8.0, Posts log events to Slack via API, 2021-02-08T21:16:30+0000
+/project/fatbotslim/, FatBotSlim, 0.2, Yet another IRC bot library, 2013-09-21T20:21:28+0000
+/project/yomikata/, yomikata, 0.1.31, How do you read this?, 2015-07-24T18:21:15+0000
+/project/twitchdetox/, twitchdetox, 0.0.4, Automatic Twitch moderation tool to filter out toxicity and harassment., 2020-08-02T15:14:31+0000
+/project/tweetbot/, tweetbot, 0.1, A python powered twitter library., 2010-03-09T15:18:30+0000
+/project/jabber-roster/, jabber-roster, 0.1.1, Tool for listing Jabber roster contacts, 2010-11-18T22:20:39+0000
+/project/baas/, baas, 0.2.2, 'Buddy as a Service' is a xmpp / wavelet robot using Yahoo YQL API, Google API and other services to do searches (web, news, reviews, wikipedia, imdb) and some other stuff (translations, weather forecast, etc) for you., 2010-10-16T15:59:40+0000
+/project/slackminion-s3/, slackminion-s3, 0.1.0, Provides a s3 state handler for slackminion, 2016-04-27T02:53:51+0000
+/project/transwhat/, transwhat, 0.2.2, A gateway between the XMPP and the WhatsApp IM networks, 2017-02-11T19:46:33+0000
+/project/cape-client/, cape-client, 0.2.0, Client library for the Cape machine reading API, 2018-03-23T11:26:30+0000
+/project/fbchat/, fbchat, 1.9.7, Facebook Chat (Messenger) for Python, 2020-06-08T20:25:20+0000
+/project/brutal/, brutal, 0.3.3, a multi-network asynchronous chat bot framework using twisted., 2013-05-14T00:30:05+0000
+/project/telethon-secret-chat/, telethon-secret-chat, 0.2.4, Telethon secret chat plugin, 2020-11-29T12:54:35+0000
+/project/tglogger/, tglogger, 0.1.1a3, tglogger is a logger handler and formatter for Telegram bots., 2020-01-20T11:29:40+0000
+/project/heliumbot/, HeliumBot, 0.1.2, A Discord bot framework in Hy. Supports loading Hy and Python plugins, 2018-09-07T15:49:25+0000
+/project/echobot/, echobot, 1.1, echo messages across chat networks.  Supports Hipchat and IRC and can be easily extended to others., 2015-10-18T22:13:50+0000
+/project/chat-transformer/, chat-transformer, 0.5.0, Bridge that takes incoming IRC messages and converts them to other formats, 2018-10-07T04:19:50+0000
+/project/signalstickers-client/, signalstickers-client, 3.1.0, A client for the Signal stickers API, 2021-02-17T21:47:29+0000
+/project/red-star/, red-star, 2.2.3, Red Star - A general-purpose Discord bot with bonus shouting., 2020-11-01T19:03:16+0000
+/project/chathub-base/, chathub-base, 2.0.2, ChatterBot is a machine learning, conversational dialog engine., 2020-10-07T04:46:01+0000
+/project/efb-search-msg-middleware/, efb-search-msg-middleware, 0.1.0, WeChat Middleware for EH Forwarder Bot to search messages, 2020-12-31T07:59:42+0000
+/project/packpath/, packpath, 0.9.4, Automatically upload Signal stickers from a given path and YAML configuration, 2021-03-15T03:34:46+0000
+/project/python-telegram-payment-bot/, python-telegram-payment-bot, 11.1.2, We have made you a wrapper you can't refuse, 2019-08-31T10:21:45+0000
+/project/djehutylgtm/, djehutylgtm, 0.0.1, djehutylgtm, 2014-08-17T11:09:24+0000
+/project/aioxmpp/, aioxmpp, 0.12.2, Pure-python XMPP library for asyncio, 2021-02-27T15:14:20+0000
+/project/python-flickr/, python-flickr, 0.3.2, A Python Library to interface with Flickr REST API, OAuth & JSON Responses, 2014-06-07T15:38:21+0000
+/project/starzel-whoiscalling/, starzel.whoiscalling, 0.0.2, Retrieve calling info from Fritzbox, expose to jabber Multi User Chatroom, 2013-04-26T14:55:32+0000
+/project/blackbox/, blackbox, 0.7.1, A Python module to abstract and encapsulate the IRC protocol, 2013-02-09T01:25:01+0000
+/project/h2o-wave/, h2o-wave, 0.13.0, Python driver for H2O Wave Realtime Apps, 2021-03-06T05:47:48+0000
+/project/xmppwb/, xmppwb, 0.5.0, XMPP Webhook Bridge, 2016-10-23T13:34:52+0000
+/project/devltype/, DevLType, 0.5.0, MyType, 2019-04-25T16:26:11+0000
+/project/pyxmpp2-scram/, pyxmpp2_scram, 2.0.2, SCRAM implementation from PyXMPP2, 2017-11-16T17:24:07+0000
+/project/aiootp/, aiootp, 0.19.4, aiootp - an asynchronous pseudo-one-time-pad based crypto and anonymity library., 2021-04-23T13:48:59+0000
+/project/slackminion-mysql/, slackminion-mysql, 0.1.0, Provides a MySQL state handler for slackminion, 2016-04-10T14:40:43+0000
+/project/helga-spook/, helga-spook, 1.1.5, prints nsa buzzwords, 2014-09-15T21:09:51+0000
+/project/emoji-country-flag/, emoji-country-flag, 1.2.4, En/Decode unicode country flags emoji, 2021-03-15T19:46:43+0000
+/project/hangups/, hangups, 0.4.14, the first third-party instant messaging client for Google Hangouts, 2021-04-18T21:17:32+0000
+/project/discirc/, discirc, 0.6, A Discord to IRC gateway, 2019-02-05T08:00:01+0000
+/project/pytgbot/, pytgbot, 5.1, Connect to the Telegram Bot API, receive and send Telegram messages., 2021-03-25T12:58:45+0000
+/project/m2websocket/, m2websocket, 0.2.2, Makes websockets with Mongrel2 and Python super easy, 2014-08-02T21:19:25+0000
+/project/matrix-synapse-jitsi/, matrix-synapse-jitsi, 1.15.1.5, Reference homeserver for the Matrix decentralised comms protocol, 2020-07-02T15:41:25+0000
+/project/helga-ignore/, helga-ignore, 0.1.0, A helga plugin to ignore messages from specific user nicks, 2015-07-08T20:23:27+0000
+/project/helga-craigslist-meta/, helga-craigslist-meta, 1.1.0, Provide information for craigslist related metadata, 2016-12-13T15:17:35+0000
+/project/turbot/, turbot, 7.5.2, Provides a Discord client and utilities for everything Animal Crossing: New Horizons., 2020-06-19T23:31:42+0000
+/project/me2/, me2, 0.1a1, The bot for you!, 2010-12-23T02:51:08+0000
+/project/x3dh/, X3DH, 0.5.9, A python implementation of the Extended Triple Diffie-Hellman key agreement protocol., 2019-07-21T11:25:58+0000
+/project/cogwatch/, cogwatch, 2.1.0, Automatic hot-reloading for your discord.py command files., 2021-02-15T22:29:48+0000
+/project/girc/, girc, 0.4.0, A modern Python IRC library for Python 3.4, based on asyncio. In Development., 2019-01-04T23:16:06+0000
+/project/twistchat/, TwistChat, 0.1.1, Chatroom server written using Twisted, 2015-07-19T14:32:43+0000
+/project/stormbot-role/, stormbot-role, 1.5.0, role plugin for stormbot, 2018-07-16T11:04:33+0000
+/project/emotlib/, emotlib, 1.0.1, Python emoji + emoticon Library, 2018-06-17T14:25:29+0000
+/project/linphone4raspberry/, linphone4raspberry, 3.9.0, Linphone package for Python, 2016-03-11T23:49:00+0000
+/project/cipher-bot/, Cipher-Bot, 0.3.2, A multi-platform chat bot framework., 2018-03-25T00:47:39+0000
+/project/limnoria-linkrelay/, limnoria-linkrelay, 0.1, , 2020-05-08T17:10:55+0000
+/project/facebook-pybot/, Facebook_PyBot, 0.8b4, This is an Unofficial Facebook bot API in python. Facebook Bots can be build using this library., 2017-12-28T17:23:23+0000
+/project/slack-bulkdelete/, slack-bulkdelete, 1.1.0, keep your team under the file upload limit, 2017-06-27T18:58:15+0000
+/project/aemessenger/, aemessenger, 0.1.7, A sample Python socket messenger, 2017-12-15T10:34:30+0000
+/project/chatrelater/, ChatRelater, 0.4, Analyze and visualize relations between chat users., 2021-02-28T04:33:09+0000
+/project/kitnirc/, KitnIRC, 0.3.1, IRC bot framework, 2016-02-25T06:43:41+0000
+/project/horse-lastfm/, horse-lastfm, 0.1.3, LastFM integration bridle for Horse, 2015-06-03T14:21:47+0000
+/project/telethon-cosmosdb-sqlsession/, telethon-cosmosdb-sqlsession, 0.1.1, A Telethon session storage that runs on Azure Cosmos DB (SQL API), 2021-02-10T22:06:04+0000
+/project/bot-irc/, bot-irc, 0.1, IRC bot, 2019-12-01T09:16:39+0000
+/project/telethon-aio/, Telethon-aio, 1.0, Full-featured Telegram client library for Python 3, 2018-06-27T11:46:09+0000
+/project/limnoria-attackprotector/, limnoria-attackprotector, 0.2, , 2020-05-08T17:09:46+0000
+/project/zirc/, zirc, 1.2.10, Python IRCP Library, 2018-09-12T17:18:28+0000
+/project/showdownpy/, showdownpy, 0.1.5, An extendable client for interacting with Pokemon Showdown, 2020-01-13T06:50:25+0000
+/project/opentok-python-sdk/, opentok-python-sdk, 0.91.2, A python wrapper for the OpenTok video chat APIs., 2013-07-18T23:38:26+0000
+/project/clip2zeus/, Clip2Zeus, 0.9d, Monitor your clipboard for URLs and automatically shorten them using 2Zeus, 2010-01-18T17:58:43+0000
+/project/synpurge/, synpurge, 4, Purges Matrix room history room using the HTTP API, 2017-01-05T23:35:36+0000
+/project/ludolph/, ludolph, 1.0.1, Monitoring Jabber Bot, 2017-07-20T11:12:05+0000
+/project/djehutysuddendeath/, djehutysuddendeath, 0.1.0, suddendeath generator for djehuty, 2014-10-05T05:00:26+0000
+/project/twitter/, twitter, 1.18.0, An API and command-line toolset for Twitter (twitter.com), 2017-10-20T08:14:20+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/red-discordbot/, Red-DiscordBot, 3.4.9, A highly customisable Discord bot, 2021-04-06T01:58:21+0000
+/project/sopel-plugins-joinall/, sopel-plugins.joinall, 1.0.3, joinall plugin for Sopel, 2021-04-16T14:53:42+0000
+/project/pyomegle/, pyomegle, 1.7, Python API for Omegle webchat, 2020-08-31T03:36:31+0000
+/project/reme/, reme, 1.0.3, A Discord bot that reminds you of things, 2020-02-17T21:29:11+0000
+/project/pyirc/, PyIRC, 3.0b1, A Python IRC library, 2015-11-02T22:38:13+0000
+/project/stormbot-yocto-alert/, stormbot-yocto-alert, 1.2.2, yoctopuce plugin for stormbot, 2017-11-21T11:08:24+0000
+/project/helga-contrib-updates/, helga-contrib-updates, 1.0.4, A helga plugin to list and record IRC channel updates., 2014-04-04T00:47:41+0000
+/project/layabout/, layabout, 1.0.2, A small event handling library on top of the Slack RTM API., 2020-01-12T04:10:04+0000
+/project/dumbot/, dumbot, 1.5.3, dumb async telegram bot for python 3, 2019-10-14T10:43:16+0000
+/project/apiaiwebhook/, apiaiwebhook, 0.1.0.dev2, API.AI Webhook is a fulfillment microframework for API.AI based on Flask for getting started quickly with API.AI webhooks., 2017-06-19T21:47:55+0000
+/project/immp/, IMMP, 0.10.4, A modular processing platform for instant messages., 2021-04-16T19:36:22+0000
+/project/matrix-client-harmonyqt/, matrix-client-harmonyqt, 0.4.2.dev5, Client-Server SDK for Matrix - development fork, 2019-01-11T06:37:08+0000
+/project/pytest-discord/, pytest-discord, 0.0.7, A pytest plugin to notify test results to a Discord channel., 2021-03-20T15:43:46+0000
+/project/finger-balabolka/, Finger-balabolka, 1.0.25, A project of flood chat., 2017-12-09T11:16:34+0000
+/project/sopel-pypi/, sopel-pypi, 0.1.2, A Sopel 7.0+ plugin to show information about linked PyPI packages., 2020-10-14T04:09:18+0000
+/project/discordwebhook/, discordwebhook, 1.0.2, discordwebhlok is a python library         for discord webhook with discord rest api on Python 3.6 and above., 2021-04-08T05:54:50+0000
+/project/wxpy/, wxpy, 0.3.9.8, 微信机器人 / 可能是最优雅的微信个人号 API, 2017-06-27T17:37:33+0000
+/project/mautrix/, mautrix, 0.9.1, A Python 3 asyncio Matrix framework., 2021-04-20T11:49:41+0000
+/project/chatwolf/, chatwolf, 0.1.4, An unofficial game, to play Werewolf on Skype, 2020-05-20T23:25:57+0000
+/project/lemaster/, lemaster, 0.1.5, Master plugin for the Le bot., 2018-03-26T02:18:51+0000
+/project/rattledin/, rattledin, 0.0.1, A asynchronous library to communicate with Linkedin, 2019-02-07T17:34:47+0000
+/project/ircutils/, ircutils, 0.1.4, IRC framework and utilities. Great for bot creation., 2012-07-01T08:53:29+0000
+/project/helga-cowsay/, helga-cowsay, 1.1.2, cowsay, 2014-09-15T19:02:34+0000
+/project/mautrix-facebook/, mautrix-facebook, 0.2.1, A Matrix-Facebook Messenger puppeting bridge., 2021-02-28T16:04:34+0000
+/project/tg-archive/, tg-archive, 0.3.3, is a tool for exporting Telegram group chats into static websites, preserving the chat history like mailing list archives., 2021-03-29T13:14:54+0000
+/project/linenotipy/, linenotipy, 1.0.4, linenotipy is a python client library         for line notify api on Python 3.6 and above., 2021-04-08T06:02:01+0000
+/project/ggci/, ggci, 0.3.0, GitLab Google Chat Integration, 2021-04-15T08:24:22+0000
+/project/h2o-q/, h2o-q, 0.6.0, Python driver for H2O Q Realtime Apps, 2020-09-23T15:42:10+0000
+/project/slack-machine-plugins/, slack-machine-plugins, 0.1.1, Utility plugins for Slack-Machine, the sexy, simple, yet powerful and extendable Slack bot, 2021-02-22T01:18:13+0000
+/project/discord-hero/, discord-hero, 0.1.0b8, discord-hero is an asynchronous, fully modular Discord bot framework that comes with batteries included, allowing you to write powerful Discord applications easily and quickly., 2020-06-25T16:49:16+0000
+/project/akad/, akad, 0.11.1, , 2018-01-14T21:22:27+0000
+/project/otrxmpplogger/, OTRXMPPLogger, 1.0.3, Logging with OTR (Off-the-Record Messaging) and XMPP, 2014-03-25T11:12:39+0000
+/project/german-foodemoji/, german-foodemoji, 1.1.9, Decorate German text with food specific emojis, 2021-03-19T12:52:20+0000
+/project/jsb-recipe-jsonbot/, jsb.recipe.jsonbot, 0.1a3, The bot for you!, 2011-04-09T17:10:06+0000
+/project/chaanbot/, chaanbot, 1.3.0, A Matrix chat bot, 2020-08-02T16:49:46+0000
+/project/python-zillow/, python-zillow, 0.2.0, A Python wrapper around the Zillow API, 2018-03-29T21:09:29+0000
+/project/libskaro/, libskaro, 0.3, a library that simplifies working with skaro protocol., 2016-05-24T15:27:57+0000
+/project/efb-voice-recog-middleware/, efb-voice-recog-middleware, 0.2.1, WeChat Middleware for EH Forwarder Bot to convert voice to text,                based on Baidu and Microsoft API., 2020-12-31T08:11:03+0000
+/project/helga-hipster/, helga-hipster, 0.1.2, Helga plugin to get hipster music recommendations, 2014-10-09T16:23:13+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/helga-xkcd/, helga-xkcd, 0.1.2, A helga plugin to fetch xkcd comics, 2017-05-01T02:00:38+0000
+/project/django-emojiwatch/, django-emojiwatch, 0.0.8, Bare bones Slack app for posting custom emoji updates to a designated channel, 2018-04-25T01:07:07+0000
+/project/katex/, katex, 0.0.4, Convert an image into KaTeX to use in Facebook Messenger, 2018-09-29T22:02:53+0000
+/project/aiml/, aiml, 0.9.2, An interpreter package for AIML, the Artificial Intelligence Markup Language, 2018-12-05T14:18:57+0000
+/project/jsb3/, jsb3, 0.4.1, JSONBOT 3 on Python 3, 2012-03-21T19:19:10+0000
+/project/discord-text-sanitizer/, discord-text-sanitizer, 0.0.10, Text Sanitization For Discord, 2020-01-15T00:57:26+0000
+/project/pearsend/, pearsend, 0.0.3, A simple CLI client for peer-to-peer file or message sending, 2017-12-11T04:44:01+0000
+/project/helga-stfu/, helga-stfu, 0.1.0, A helga plugin that can be used to store responses that can be returned from a question, 2015-03-04T18:59:07+0000
+/project/beves/, beves, 0.1, Simple wrapper to send notifications with Telegram Bot, 2019-07-02T10:18:46+0000
+/project/botter/, botter, 0.1.4, Python messenger bot aggregator, supporting Discord, Telegram, and potentially others, 2020-10-15T16:32:51+0000
+/project/groupyapi/, GroupyAPI, 0.10.3, The simple yet powerful wrapper for the GroupMe API, 2019-01-01T09:36:02+0000
+/project/slacktools/, slacktools, 0.0.5, Toolbelt for Slack API clients for Web API and RTM API, 2018-09-11T06:06:02+0000
+/project/jsb-recipes-jsonbot/, jsb.recipes.jsonbot, 0.1a1, The bot for you!, 2011-04-09T16:10:58+0000
+/project/irssinotifier/, IrssiNotifier, 0.1.1, Irssi Real Time Remote Visual Notification., 2007-05-23T22:36:44+0000
+/project/botogram2/, botogram2, 0.6.1, A Python framework for Telegram bots, 2019-10-22T15:56:21+0000
+/project/grepme/, grepme, 1.4.0, grep for GroupMe, 2019-11-30T20:09:09+0000
+/project/telepython/, TelePython, 1.2.1, TelePython is a Python package for sending and receiving messages and documents by a Telegram Bot, based on Telegram Bot API., 2021-01-26T20:11:23+0000
+/project/umr-mirai-driver/, umr-mirai-driver, 0.5, UMR Mirai Driver, 2020-05-09T04:55:50+0000
+/project/django-push2/, django-push2, 0.3.12, Django push engine for web application, 2012-02-19T18:52:40+0000
+/project/discord-autorooms/, discord-autorooms, 4.1.0, Zero Config Autoroom Discord Bot, 2020-10-30T21:28:21+0000
+/project/mara/, mara, 0.6.3, A framework for network services, talkers and MUDs, 2018-10-06T07:20:41+0000
+/project/teladduser/, teladduser, 0.1.0, This is a CLI with the aim to add new users from a spreadsheet at a Telegram supergroup., 2020-10-26T20:54:22+0000
+/project/kakaobot-py/, kakaobot.py, 1.1, API wrapper for Kakaotalk written in Python., 2018-08-27T06:02:25+0000
+/project/re-ircbot/, re-ircbot, 1.2.3, A simple async irc bot framework with regex command definitions and data permanency, 2021-04-23T23:37:26+0000
+/project/helga-lingo/, helga-lingo, 1.0.7, Define words from urbandictionary.com, 2016-12-09T00:28:27+0000
+/project/teleflask/, teleflask, 1.0.1, Easily create Telegram bots with pytgbot and flask. Webhooks made easy., 2018-07-04T11:05:38+0000
+/project/faastm/, faastm, 0.1.1, Experimental one-cell STM for FaaS, 2019-07-21T21:02:37+0000
+/project/pycri-spotify/, pycri-spotify, 0.1, Spotify plugin for pycri, 2011-03-25T11:24:45+0000
+/project/botogram/, botogram, 0.5, A Python framework for Telegram bots, 2018-02-15T16:20:38+0000
+/project/hubot-hangups/, hubot-hangups, 1.0.0, A hubot adapter for Google Hangouts, 2015-01-26T03:17:03+0000
+/project/circuit-webhook/, circuit-webhook, 1.0.1, circuit-webhook is a python client library for Unify Circuit api         Incoming Webhooks on Python 3.6 and above., 2020-05-14T07:29:25+0000
+/project/telebot-utils/, telebot-utils, 0.0.8, Utils for pyTelegramBotAPI module, 2020-12-05T14:36:52+0000
+/project/python-kubernetes/, python-kubernetes, 0.2, A Python wrapper around the Kubernetes API, 2015-02-05T19:54:55+0000
+/project/bigslacker/, bigslacker, 0.1.1, Slack RTM Client, 2016-01-25T10:10:59+0000
+/project/autoit/, autoit, 0.2.3, Automate it with Python, 2021-04-24T11:55:50+0000
+/project/matrix-bot/, matrix-bot, 0.15.6, A matrix.org bot, 2017-11-19T17:50:45+0000
+/project/hikari-tanjun/, hikari-tanjun, 1.0.1a3, A flexible command client designed to extend Hikari, 2021-01-17T20:39:43+0000
+/project/hattifnatt/, hattifnatt, 0.2.1, Push directory to Telegram channel, 2019-04-23T13:14:07+0000
+/project/efb-link-preview-middleware/, efb-link-preview-middleware, 0.1.0, WeChat Middleware of EH Forwarder Bot for link preview, 2020-12-31T07:51:07+0000
+/project/helga-team/, helga-team, 1.0.2, Team plugin to track candidates and interview process, 2017-08-10T17:28:46+0000
+/project/helga-wiki-whois/, helga-wiki-whois, 0.1.0, A helga command to generate confluence-type URLs for users, 2015-03-04T13:17:05+0000
+/project/helga-reviewboard/, helga-reviewboard, 0.2.0, A helga plugin for expanding shortcodes for code reviews on ReviewBoard, 2015-04-06T13:13:15+0000
+/project/nekbot-protocols-irc/, nekbot.protocols.irc, 0.1.0.16, IRC Protocol for Nekbot, a modular multiprotocol bot., 2015-05-23T16:26:17+0000
+/project/tglex/, tglex, 0.2.1, Lexical analysis base for telegram bots, 2020-03-29T01:44:53+0000
+/project/sxrobot/, sxrobot, 1.0.0.dev1, A wechat robot, 2017-05-19T08:00:21+0000
+/project/indico-plugin-chat/, indico-plugin-chat, 2.2, XMPP chat integration for Indico, 2019-08-06T14:20:29+0000
+/project/messengerwrapper/, messengerwrapper, 0.0.1.dev1, An unofficial Facebook Messenger Wrapper for Python., 2018-07-03T06:09:19+0000
+/project/slackmentions/, slackmentions, 0.1.2, Some functions for dealing with mentions in slack messages, 2017-08-23T07:21:07+0000
+/project/markovpy/, MarkovPy, 0.5.14, A simple Markovchain-Implementation, 2016-08-13T17:08:14+0000
+/project/twx/, twx, 0.5a5, Abstraction Layer Over Telegram's Bot API and MTProto Chat Potocols, 2015-06-30T01:35:08+0000
+/project/efb-wechat-basic-slave/, efb-wechat-basic-slave, 0.0.2, WeChat Slave Channel for EH Forwarder Bot, working with WeChat macOS Hook., 2018-12-29T08:04:39+0000
+/project/helga/, helga, 1.7.13, A full-featured chat bot for Python 2.7 with plugin support, 2019-03-21T18:12:58+0000
+/project/limnoria-markovgen/, limnoria-markovgen, 0.0.0, , 2020-05-08T17:11:24+0000
+/project/karel/, karel, 1.3.0, Karel dataset for program synthesis and program induction, 2017-12-21T16:06:51+0000
+/project/manatee/, manatee, 0.0.0, GNU Social server based on async Python 3, 2017-04-08T03:21:47+0000
+/project/telegram-send/, telegram-send, 0.25, Send messages and files over Telegram from the command-line., 2020-02-19T20:51:15+0000
+/project/helga-flip/, helga-flip, 0.1.0, Helga plugin to flip words, 2014-08-15T20:41:50+0000
+/project/irc3/, irc3, 1.1.7, plugable irc client library based on asyncio with DCC and SASL support, 2021-02-13T09:51:22+0000
+/project/herald-slack/, herald-slack, 0.2, attr: herald_slack.__doc__, 2019-11-04T23:35:33+0000
+/project/aioirc/, aioirc, 0.1, AsyncIO IRC Library for >= Python 3.3, 2014-09-24T06:25:57+0000
+/project/curveline/, curveline, 0.1.0, UNKNOWN, 2015-06-28T14:28:26+0000
+/project/helga-oneliner/, helga-oneliner, 0.1.0, A helga match plugin with a large amount of canned responses for a variety of regular expressions., 2015-03-04T16:46:25+0000
+/project/livebridge-slack/, livebridge-slack, 0.6.0, Livebridge adapter for Slack., 2018-10-04T17:52:58+0000
+/project/livebridge-tickaroo/, livebridge-tickaroo, 0.0.18, Livebridge adapter for Tickaroo., 2021-01-05T14:32:10+0000
+/project/pyrubrum/, Pyrubrum, 0.1a3, An intuitive framework for creating Telegram bots, 2020-08-26T12:18:04+0000
+/project/sugaroid-chatterbot/, sugaroid-chatterBot, 2.0.0, ChatterBot is a machine learning, conversational dialog engine optimized for Sugaroid bot., 2020-04-02T06:53:51+0000
+/project/aichat/, aichat, 0.0.5, A AI virtual assistant chatbot, 2018-05-14T11:19:26+0000
+/project/helga-winks/, helga-winks, 1.1.0, winks @ u, 2014-09-15T19:40:02+0000
+/project/tyranobot/, tyranobot, 0.2.0, Easily customizable Slackbot, 2017-08-14T23:03:03+0000
+/project/efb-patch-middleware/, efb-patch-middleware, 2.0.16, Patch middleware for EH Forwarder Bot, enhance functions., 2021-03-31T10:37:26+0000
+/project/umr-line-driver/, umr-line-driver, 0.2, UMR Line Driver, 2020-04-26T02:34:12+0000
+/project/discord-ext-forms/, discord-ext-forms, 2.7.4, Easy forms and surveys for discord.py., 2021-03-27T21:12:26+0000
+/project/otrxmppchannel/, OTRXMPPChannel, 1.0.4, An OTR-XMPP communications channel, 2014-03-25T11:13:04+0000
+/project/helga-quest/, helga-quest, 1.1.0, Collaborative RPG consisting of user driven content, 2016-12-13T15:00:26+0000
+/project/insult/, insult, 0.4, Python bindings to LibInsult, 2019-04-17T15:37:56+0000
+/project/efb-gpg-middleware/, efb-gpg-middleware, 1.1.0, GPG middleware for EH Forwarder Bot, encrypts and decrypts messages., 2020-01-11T18:07:58+0000
+/project/webexteamssdk/, webexteamssdk, 1.6, Community-developed Python SDK for the Webex Teams APIs, 2020-07-13T15:24:11+0000
+/project/supybot/, supybot, 0.84.0, A flexible and extensible Python IRC bot and framework., 2018-05-10T00:44:10+0000
+/project/patter/, patter, 0.2.1, Pipe stdout directly to Mattermost channels or users., 2018-07-29T17:11:34+0000
+/project/chatopera/, chatopera, 2.0.0, 定制化聊天机器人服务, 2020-07-22T14:16:23+0000
+/project/pircel/, pircel, 0.3.4, Simple IRC client library, 2015-09-26T01:48:34+0000
+/project/steamscordbot/, steamscordbot, 0.2.2, Discord bot calling Steam Web API on command, 2020-10-17T01:10:45+0000
+/project/soucevi1-dist-chat/, soucevi1-dist-chat, 0.1.6, Distributed chat based on Chang-Roberts algorithm, 2019-01-22T13:39:30+0000
+/project/as-easy-as-pie/, as-easy-as-pie, 0.51, Really easy, 2021-01-05T09:05:56+0000
+/project/stormbot-say/, stormbot-say, 1.2.1, text to speech plugin for stormbot, 2017-11-16T15:17:28+0000
+/project/slackly/, slackly, 1.0.7, A full featured python Slack API SDK, 2017-06-04T01:20:06+0000
+/project/python-tumblpy/, python-tumblpy, 1.1.4, A Python Library to interface with Tumblr v2 REST API & OAuth, 2017-02-08T22:01:53+0000
+/project/ludolph-skeleton/, ludolph-skeleton, 1.3, Ludolph: Skeleton plugin, 2015-05-12T22:42:22+0000
+/project/aiotgsdk/, aiotgsdk, 0.0.1, Python Telegram SDK to help make asynchronous requests to Telegram API, 2021-03-15T22:29:54+0000
+/project/django-google-oauth/, django-google-oauth, 1.0.4, Django Integration for Google+ OAuth2, 2014-06-23T14:39:26+0000
+/project/chatterbot/, ChatterBot, 1.0.8, ChatterBot is a machine learning, conversational dialog engine., 2020-08-22T18:40:36+0000
+/project/chiron-bot/, chiron-bot, 0.9.1, Chat bot that can look up ticket numbers on bugtrackers and return their names, 2021-02-06T03:19:49+0000
+/project/line/, line, 0.8.2, May the LINE be with you..., 2016-11-21T04:46:08+0000
+/project/opendebates/, opendebates, 0.1.0a15, Rating System Bot for Open Debates Discord Server, 2021-02-13T12:53:56+0000
+/project/omgircd3/, omgircd3, 1.0.0, A Python3 IRC server/daemon, 2017-11-16T21:59:11+0000
+/project/pytg/, pytg, 0.4.10, Connect to the Telegram CLI, receive and send Telegram messages., 2016-04-03T02:42:44+0000
+/project/slackhandler/, slackhandler, 0.1.2, Extends Python's base logging Handler to emit logs to Slack, 2017-05-21T00:15:47+0000
+/project/amanobot/, amanobot, 2.1.0, Python framework for Telegram Bot API forked from Telepot, 2021-04-22T18:29:33+0000
+/project/limnoria-webstats/, limnoria-webstats, 0.5, , 2020-10-07T17:45:25+0000
+/project/bottom/, bottom, 2.2.0, asyncio-based rfc2812-compliant IRC Client, 2020-08-06T17:02:26+0000
+/project/pyxmpp-last/, pyxmpp-last, 1.1.1, XMPP/Jabber implementation for Python. Fork of pyxmpp., 2010-10-26T05:05:40+0000
+/project/pysvnbot/, pysvnbot, 0.0.4, Subversion commit log tracking bot, 2007-12-02T15:25:13+0000
+/project/umr-extensions-demo/, umr-extensions-demo, 0.2, UMR Extensions Demo, 2020-04-26T02:54:08+0000
+/project/err/, err, 3.2.0, Errbot is a chatbot designed to be simple to extend with plugins written in Python., 2015-11-14T00:24:32+0000
+/project/zulip-beta/, zulip-beta, 0.2.5, Bindings for the Zulip message API, 2017-05-21T20:58:31+0000
+/project/openwa/, openwa, 1.3.11, A python interface for Whatsapp Web, 2020-12-13T19:46:00+0000
+/project/auto-translation/, auto-translation, 0.1.5, A simple python library used to translate and speak a given text from the user with Google Translation using user's Chrome browser., 2021-01-05T16:12:05+0000
+/project/sat-tmp/, sat-tmp, 0.7.0, Salut à Toi temporary third party patches, 2019-07-24T18:30:16+0000
+/project/pyweechat/, pyweechat, 0.2, Python library for communicating with an weechat irc relay, 2017-04-12T23:11:10+0000
+/project/devlfunia/, DevLFunia, 1.0.1, PhotoFunia Wraper For Python, 2019-04-26T02:36:48+0000
+/project/pylinkirc/, pylinkirc, 3.0.0, PyLink IRC Services, 2020-04-11T07:32:04+0000
+/project/helga-reviews/, helga-reviews, 0.0.6, A helga command to query reviewboard pending reviews targeted at a user, groupor channel (using a channel-to-group mapping)., 2014-10-22T13:49:26+0000
+/project/pytgasu/, pytgasu, 0.2.1, Telegram sticker sets creation automated (partially)., 2018-09-14T14:56:38+0000
+/project/helga-zen/, helga-zen, 0.1.0, The Zen of Python as a helga plugin, 2014-04-06T19:07:02+0000
+/project/ad1459/, ad1459, 1.19.0, An IRC Client, 2020-02-26T23:16:49+0000
+/project/chatbot/, chatbot, 1.5.2b, Allows users on wikia wikis to create a chatbot for Special:Chat, 2013-05-19T17:43:06+0000
+/project/tgsend/, tgsend, 0.3.1, Send messages to Telegram chats from Python and the command line, 2021-04-19T19:09:32+0000
+/project/ringcentral-async-client/, ringcentral-async-client, 1.0.3, Asynchronous client for the RingCentral Platform, based on Tornado and generated via Python OpenAPI Parser, 2020-10-15T15:48:56+0000
+/project/botexbotbase/, BotEXBotBase, 3.1.3, A highly customisable Discord bot, 2019-02-18T08:54:19+0000
+/project/jackfruit/, jackfruit, 0.12, Generic views for python-telegram-bot, 2019-10-13T16:52:03+0000
+/project/sat/, sat, 0.7.0, Salut à Toi multipurpose and multi frontend XMPP client, 2019-07-24T18:13:28+0000
+/project/maubot/, maubot, 0.1.0, A plugin-based Matrix bot system., 2020-10-04T11:09:41+0000
+/project/efb-mp-instantview-middleware/, efb-mp-instantview-middleware, 0.3.1, WeChat Middleware of EH Forwarder Bot to enable instant        view for official accounts' articles, 2020-12-31T12:00:28+0000
+/project/sopel-dns/, sopel-dns, 0.3.1, A DNS lookup plugin for Sopel IRC bots, 2021-03-05T07:33:40+0000
+/project/horse-nonsense/, horse-nonsense, 0.1.4, Stupid, silly, fun and distracting bridles for Horse, 2015-06-03T16:41:05+0000
+/project/limnoria-github/, limnoria-github, 0.1, , 2020-05-08T16:55:12+0000
+/project/hipcat/, hipcat, 0.1.0, Pipe text to HipChat, 2016-09-29T09:51:53+0000
+/project/helga-versionone/, helga-versionone, 0.1.10, VersionOne interface for helga chat bot, 2017-01-30T15:13:58+0000
+/project/fbchat-asyncio/, fbchat-asyncio, 0.6.21, Facebook Messenger library for Python/Asyncio., 2020-12-01T22:38:14+0000
+/project/artie/, artie, 0.1.1, IRC utility robot framework for Python, 2010-08-28T08:55:52+0000
+/project/umr-coolq-driver/, umr-coolq-driver, 0.3.1, UMR Coolq Driver, 2020-05-08T03:16:42+0000
+/project/helga-urbandictionary/, helga-urbandictionary, 2.0.0, looks up definitions for words on urban dictionary, 2017-05-17T19:14:55+0000
+/project/slackminion/, slackminion, 1.1.1, A python bot framework for slack, 2021-03-25T22:51:03+0000
+/project/discover-overlay/, discover-overlay, 0.3.3, Voice chat overlay, 2020-10-23T12:14:34+0000
+/project/matrix-registration/, matrix-registration, 0.9.1.post1, token based matrix registration app, 2021-04-23T10:47:51+0000
+/project/botshot/, botshot, 0.1.4, A framework for creating stateful chatbots on Django., 2019-06-10T12:53:12+0000
+/project/pyfibot/, pyfibot, 0.9.5, Python IRC bot based on twisted.words.irc, 2015-12-28T17:04:51+0000
+/project/helga-pull-requests/, helga-pull-requests, 0.0.5, A helga plugin to quickly link to github pull requests., 2015-04-20T21:11:59+0000
+/project/unmessage/, unmessage, 0.2.0, Privacy enhanced instant messenger, 2017-05-12T04:08:30+0000
+/project/mattermost-log-handler/, mattermost_log_handler, 0.0.2, Posts log events to Mattermost via webhook, 2017-03-15T10:06:29+0000
+/project/zonebot/, zonebot, 1.0, A Slack bot to interact with ZoneMinder, 2016-09-11T04:34:59+0000
+/project/python-slippery/, python-slippery, 1.0.0, A library for interacting with the slippery.email website, 2016-08-14T15:16:23+0000
+/project/umr-discord-driver/, umr-discord-driver, 0.2, UMR Discord Driver, 2020-04-26T02:33:24+0000
+/project/hata/, hata, 1.1.69, A powerful asynchronous library for creating Discord bots in Python., 2021-04-24T01:18:33+0000
+/project/rpc42b2t/, rpc42b2t, 1.0.0, An improved Discord RPC for 2b2t.org, 2020-09-08T08:49:25+0000
+/project/slackminion-redis/, slackminion-redis, 0.1.0, Provides a redis state handler for slackminion, 2016-04-10T14:49:09+0000
+/project/mailru-im-bot-imato/, mailru-im-bot-imato, 0.0.17, Pure Python interface for Bot API. Bot cookbook for Humans., 2021-03-12T16:13:26+0000
+/project/gumiyabot/, gumiyabot, 0.1.3, Standalone Twitch + Bancho IRC bot for handling osu! beatmap requests, 2018-03-17T12:56:20+0000
+/project/hangupsbot/, HangupsBot, 1.7.1, Bot for Google Hangouts, 2015-11-15T01:34:34+0000
+/project/matrix-synapse-ray/, matrix-synapse-ray, 1.12.0.4, Reference homeserver for the Matrix decentralised comms protocol, 2020-04-03T04:41:29+0000
+/project/pytelegram/, pyTelegram, 0.0.1, Pure python implementation of telegram, 2014-12-29T00:12:24+0000
+/project/command4bot/, command4bot, 0.4.1, A general purpose library for command-based iteraction made for bots, 2021-02-08T01:38:43+0000
+/project/botogram-beta/, botogram-beta, 0.7b3, A Python framework for Telegram bots, 2020-06-04T16:11:13+0000
+/project/bitdust-p2p/, bitdust-p2p, 0.0.3, BitDust is new software framework to build distributed and secure peer-to-peer applications., 2020-09-15T19:26:40+0000
+/project/slack-backup/, slack-backup, 0.8, Make copy of slack converstaions, 2019-01-05T16:45:44+0000
+/project/grillo/, Grillo, 0.1.1, A terminal based chat server and client., 2011-01-03T04:51:14+0000
+/project/keralapyapiv2/, KeralaPyApiV2, 2.0.2020, Telegram MTProto API Client Library and Framework for Python, 2020-01-31T15:04:29+0000
+/project/earwigbot/, earwigbot, 0.3, EarwigBot is a Python robot that edits Wikipedia and interacts with people over IRC., 2019-03-24T21:28:53+0000
+/project/weitersager/, Weitersager, 0.5, A proxy to forward messages received via HTTP to to IRC, 2021-02-07T18:01:56+0000
+/project/matrix-synapse/, matrix-synapse, 1.32.2, Reference homeserver for the Matrix decentralised comms protocol, 2021-04-22T10:21:22+0000
+/project/python-telegram-bot-raw/, python-telegram-bot-raw, 13.4.1, We have made you a wrapper you can't refuse, 2021-03-14T18:24:27+0000
+/project/helga-github-meta/, helga-github-meta, 1.1.0, Provide information for github related metadata, 2016-12-12T14:46:02+0000
+/project/pwncat/, pwncat, 0.1.1, Netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell and port forwarding magic - and its  fully scriptable with Python (PSE)., 2021-03-27T21:56:05+0000
+/project/apiai-assistant/, apiai_assistant, 0.1.2, Create API.ai agents in a heartbeat, 2017-10-30T11:33:41+0000
+/project/python-kubernetes-wrapper/, python-kubernetes-wrapper, 0.1, A Python wrapper around the Kubernetes API, 2015-02-26T11:20:21+0000
+/project/artem/, artem, 3.0.1, Chat bot engine for the VK communities, 2019-07-26T13:23:02+0000
+/project/notossh/, notossh, 1.0, NOTifications Over SSH, 2013-01-15T23:38:16+0000
+/project/omemo-backend-signal/, omemo-backend-signal, 0.2.6, A backend for python-omemo offering compatibility with libsignal., 2020-04-19T09:29:33+0000
+/project/python-icq-bot/, python-icq-bot, 0.0.19, Pure Python interface for ICQ Bot API. Bot cookbook for Humans., 2019-03-04T15:43:14+0000
+/project/stormbot/, stormbot, 1.6.0, XMPP bot, 2019-04-18T07:40:44+0000
+/project/stormbot-quizz/, stormbot-quizz, 1.0.0, quizz plugin for stormbot, 2019-04-18T07:45:06+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/zulip-botserver/, zulip-botserver, 0.7.1, Zulip's Flask server for running bots, 2020-10-09T18:19:53+0000
+/project/ludolph-doorman/, ludolph-doorman, 1.2, Ludolph: Doorman plugin, 2016-02-15T23:52:47+0000
+/project/fbfbot/, fbfbot, 0.2.2, The FeedBackFlow bot, 2012-10-05T09:32:35+0000
+/project/pyrook/, PyRook, 0.5.2, A standalone client for RookChat, 2016-11-23T11:32:08+0000
+/project/mygengo/, mygengo, 1.3.3, Official Python library for interfacing with the MyGengo API., 2011-10-24T00:08:23+0000
+/project/airc/, airc, 0.0.2, An asynchronous IRC implementation, 2019-04-30T00:38:26+0000
+/project/blue-discordbot/, Blue-DiscordBot, 3.2.0, A highly customisable Discord bot, 2019-05-16T01:34:18+0000
+/project/opsdroid/, opsdroid, 0.21.0, "An open source ChatOps bot framework.", 2021-02-26T15:56:52+0000
+/project/twitched/, twitched, 1.0.0, A Python library for quickly writing Twitch chat applications and custom chat bots., 2015-12-31T09:43:10+0000
+/project/django-rocketchat-auth/, django-rocketchat-auth, 1.2, Authenticate Rocket.Chat with Django Framework, 2016-09-28T21:30:48+0000
+/project/sopel-ipython/, sopel-ipython, 0.0.2, IPython console plugin for Sopel IRC bots, 2019-12-15T01:57:49+0000
+/project/gappy/, gappy, 0.4.3, Python framework for Gap Service API, 2018-04-30T09:17:40+0000
+/project/hal/, HAL, 0.0.3, Powerful AI Framework, 2012-08-06T21:43:03+0000
+/project/ircrobots/, ircrobots, 0.3.8, Asyncio IRC bot framework, 2021-04-10T13:56:54+0000
+/project/helga-reminders/, helga-reminders, 0.1.1, A helga command for scheduling one time or recurring reminders, 2015-03-04T20:32:07+0000
+/project/efb-telegram-master/, efb-telegram-master, 2.2.3, Telegram Master Channel for EH Forwarder Bot, based on Telegram Bot API., 2021-02-12T19:02:56+0000
+/project/rbintegrations/, rbintegrations, 1.0.1, A set of third-party service integrations for Review Board 3.0+., 2020-01-07T09:32:49+0000
+/project/skyperious/, Skyperious, 4.7, Skype chat history tool, 2021-03-15T21:10:41+0000
+/project/stormbot-quote/, stormbot-quote, 1.4.0, store best quote easily from your Stormbot, 2019-04-18T14:51:01+0000
+/project/efb-notice-middleware/, efb-notice-middleware, 0.0.6, Notice middleware for EH Forwarder Bot, notice and tag messages., 2021-01-20T05:17:53+0000
+/project/twython-django/, twython-django, 1.5.2, Django Integration for Twython -- the actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs, 2013-10-15T15:05:52+0000
+/project/slacky/, slacky, 0.1.42, Package for Slack's API, 2015-04-04T07:15:13+0000
+/project/twitchat/, twitchat, 1.4.1, A simple Twitch chat bot that gives you the option to run complicated commands, to an extent that other bots don't allow., 2020-08-01T19:27:17+0000
+/project/tl/, tl, 0.5, T I M E L I N E - RL events tracking software, 2012-11-10T00:13:06+0000
+/project/tgcli/, tgcli, 0.3.1, tgcli is a client tool for Telegram., 2019-09-22T11:06:00+0000
+/project/nicobot/, nicobot, 0.1.10, A collection of 🤟 cool 🤟 chat bots, 2021-01-27T20:44:09+0000
+/project/pyspectrum2/, pyspectrum2, 0.2.0, pyspectrum2 implements the Protobuf-based interface to Spectrum2 required for building Python-based backends, 2019-05-01T21:08:23+0000
+/project/ircstates/, ircstates, 0.11.8, IRC client session state parsing library, 2021-04-10T13:52:38+0000
+/project/matrix-client/, matrix-client, 0.3.2, Client-Server SDK for Matrix, 2018-06-22T02:23:49+0000
+/project/davtelepot/, davtelepot, 2.7.6, Telegram bot API mirroring class, featuring dataset-powered SQLite databases., 2020-12-20T19:31:18+0000
+/project/libervia/, libervia, 0.7.0, Web frontend for Salut à Toi, 2019-07-24T19:00:40+0000
+/project/telesync/, telesync, 0.1.0, Python driver for H2O Q / Telesync Realtime Apps, 2020-07-14T05:18:54+0000
+/project/aslack/, aslack, 0.11.0, Asynchronous Slack API integration., 2017-04-24T20:54:57+0000
+/project/dont-puush-me/, dont_puush_me, 0.2, A short script to upload screenshots to an SFTP server, 2016-11-29T07:17:03+0000
+/project/pypusu/, pypusu, 1.0.6, Python client for PuSuEngine, 2020-03-05T15:34:03+0000
+/project/dline/, dline, 2.4.1, A feature-rich terminal discord client, 2018-11-07T19:28:18+0000
+/project/ybai/, ybai, 0.0.5, 个人测试AI, 2017-03-27T07:02:41+0000
+/project/rekognize/, rekognize, 0.2, Rekognize Python Twitter API client, 2020-05-17T20:57:08+0000
+/project/helga-amazon-meta/, helga-amazon-meta, 1.1.0, Provide information for related metadata, 2017-07-04T03:01:12+0000
+/project/mudpyl/, mudpyl, 0.4, Python MUD client, 2008-09-17T17:01:57+0000
+/project/discord-hero-devtools/, discord-hero-devtools, 0.1.0a0, Discord Hero Developer Tools is a Debugging and Experimenting extension for Discord Hero. You can load, reload and unload extensions., 2020-06-15T14:48:24+0000
+/project/mudpy/, mudpy, 0.3.0, The mudpy MUD server engine., 2020-10-08T23:56:48+0000
+/project/helga-pointing-poker/, helga-pointing-poker, 1.0.0, Pointing poker for helga, 2017-03-17T04:11:50+0000
+/project/python-aiml/, python-aiml, 0.9.3, An interpreter package for AIML, the Artificial Intelligence Markup Language, 2019-10-22T18:18:42+0000
+/project/twitterxauth/, twitterxauth, 0.1.0dev, thin wrapper module for xAuth twitter.com, 2014-09-25T14:54:47+0000
+/project/irctest/, irctest, 0.1.2, A script to test interoperability of IRC software., 2017-12-10T19:21:53+0000
+/project/finger-balabolka-server/, Finger-balabolka-Server, 1.0.19, A alfa project of flood chat., 2017-12-09T11:00:21+0000
+/project/pytdlib/, Pytdlib, 0.1.8, Telegram TDLib Client Library for Python, 2019-05-31T02:51:04+0000
+/project/aiomessaging/, aiomessaging, 0.2, Python asyncio messaging Framework, 2018-07-09T19:41:00+0000
+/project/xchatbot/, xchatbot, 0.3.1, the Xtensible XMPP Chat Bot, 2020-04-26T13:56:23+0000
+/project/microsoftbotframework/, microsoftbotframework, 0.3.3, A wrapper for the microsoft bot framework API, 2018-07-03T02:31:22+0000
+/project/pypresence/, pypresence, 4.2.0, Discord RPC client written in Python, 2021-02-01T02:24:15+0000
+/project/tinybot/, tinybot, 1.0.0, Very simple yet flexible Telegram Bot API, 2018-06-10T18:06:18+0000
+/project/luckystrike/, luckystrike, 0.11, IRC to Campfire Bridge, 2014-04-21T22:54:39+0000
+/project/cordgears/, cordgears, 0.1.5.post2, A simple discord bot engine, 2018-12-04T21:08:07+0000
+/project/synapse-ldap-password-provider/, synapse_ldap_password_provider, 1, LDAP3 password provider for Synapse, 2017-06-13T05:36:28+0000
+/project/jeev-modules/, jeev-modules, 0.0.2, Modules for Jeev, 2014-09-07T06:54:23+0000
+/project/wyvern/, wyvern, 0.1.0, Python 3k wrapper for the Twitter API, 2013-02-26T02:13:26+0000
+/project/slackers/, slackers, 1.0.0, Slack webhooks API served by FastAPI, 2020-11-14T13:53:17+0000
+/project/requests-facebook-py3/, requests-facebook-py3, 0.2.1, A Python Library to interface with Facebook Graph API, 2015-10-21T09:25:58+0000
+/project/ciclopibot/, ciclopibot, 1.2.5, Telegram bot based on `davtelepot` providing information about CicloPi, the public bike-sharing service in Pisa., 2020-12-16T09:07:44+0000
+/project/ludolph-erigones/, ludolph-erigones, 2.0, Ludolph: Erigones SDDC API plugin, 2015-05-13T08:48:45+0000
+/project/connectio/, connectIO, 0.0.3, A simple module for sending data across the internet!, 2020-01-30T21:20:47+0000
+/project/djehuty/, djehuty, 0.0.7, POST web hook manager, 2014-10-08T09:30:51+0000
+/project/pytelegram/, pyTelegram, 0.0.1, Pure python implementation of telegram, 2014-12-29T00:12:24+0000
+/project/command4bot/, command4bot, 0.4.1, A general purpose library for command-based iteraction made for bots, 2021-02-08T01:38:43+0000
+/project/python-telegram-bot-raw/, python-telegram-bot-raw, 13.4.1, We have made you a wrapper you can't refuse, 2021-03-14T18:24:27+0000
+/project/helga-github-meta/, helga-github-meta, 1.1.0, Provide information for github related metadata, 2016-12-12T14:46:02+0000
+/project/emojirades/, Emojirades, 0.14.0, A Slack bot that understands the Emojirades game!, 2021-02-25T03:23:39+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/wyze-sdk/, wyze-sdk, 1.0.1, The Wyze Labs API Platform SDK for Python., 2021-04-23T12:29:58+0000
+/project/discord-gui/, discord.gui, 1.0.2, A discord.py extension providing a GUI interface to monitor the bot and modify command settings, 2019-04-18T21:48:23+0000
+/project/image-charts/, image-charts, 5.6.10, Official Image-Charts.com API client library, 2020-11-15T19:56:04+0000
+/project/stormbot-fortune/, stormbot-fortune, 1.2.1, fortune plugin for stormbot, 2017-11-16T14:19:28+0000
+/project/pyrogram/, Pyrogram, 1.2.9, Telegram MTProto API Client Library and Framework for Python, 2021-04-15T07:54:00+0000
+/project/errbot/, errbot, 6.1.7, Errbot is a chatbot designed to be simple to extend with plugins written in Python., 2020-12-19T05:32:34+0000
+/project/synadm/, synadm, 0.29, Command line admin tool for Synapse (Matrix reference homeserver), 2021-04-19T07:36:48+0000
+/project/lowerpines/, lowerpines, 0.6.0, Library wrapper for GroupMe API, 2019-09-17T16:10:45+0000
+/project/jsb/, jsb, 1.0, The bot for you!, 2014-01-21T02:36:22+0000
+/project/python-potr/, python-potr, 1.0.2, pure Python Off-The-Record encryption, 2018-04-02T18:42:27+0000
+/project/helga-dubstep/, helga-dubstep, 0.1.0, A match plugin that will respond with vaiable length 'wubwubwub' when someone mentions the word 'dubstep'., 2015-03-04T13:30:25+0000
+/project/beauty-print/, beauty-print, 0.6.1, Beautifully print Python data, 2020-05-16T10:06:02+0000
+/project/lemongo/, lemongo, 2.0.0b0, PyMongo interface for LeBot, 2018-04-22T03:05:34+0000
+/project/easykvchat/, easykvchat, 1.0.0, Ensemble client/serveur d'un système de messagerie., 2020-10-18T14:59:04+0000
+/project/sopel-modules-idlerpg/, sopel_modules.idlerpg, 0.1.0, A rewrite of the original IdleRPG to work as a module for Sopel. It incorporates some of the features of Shocky's IdleRPG system, though is much more in-depth., 2015-10-13T05:01:36+0000
+/project/chatapi/, chatapi, 0.1.6, Python Chat API for Python applications that need instant messaging, 2020-07-04T02:23:52+0000
+/project/robo/, robo, 0.5.6, Dead simple bot framework., 2018-05-26T16:24:13+0000
+/project/birdy/, birdy, 0.3.2, birdy is a super awesome Twitter API client for Python., 2017-11-19T12:20:04+0000
+/project/horse-google/, horse-google, 0.1.3, Google API integration bridles for Horse, 2015-06-03T14:22:18+0000
+/project/slack-time/, slack-time, 0.1.5, A simple, intuitive and fast Slack API client for the Slack Web API, 2020-09-30T20:39:28+0000
+/project/djabberdjaw/, djabberdjaw, 0.1, A Jabber bot with a Django-backend for user management, 2008-09-23T02:50:02+0000
+/project/statusnet/, statusnet, 0.1.1, A StatusNet library for Python., 2013-01-27T18:45:15+0000
+/project/limnoria-trigger/, limnoria-trigger, 0.1, , 2020-05-08T17:11:37+0000
+/project/interstat/, interstat, 0.2.2, An HTML formatter for IRC log files, 2015-07-16T22:17:44+0000
+/project/irclog/, irclog, 0.2.0, The web IRC loger view., 2012-04-07T08:00:58+0000
+/project/umr-telegram-driver/, umr-telegram-driver, 0.2.1, UMR Telegram Driver, 2020-04-26T02:59:00+0000
+/project/bl-wxpy/, bl-wxpy, 0.6.13, wxpy 定制版, 基于 https://github.com/youfou/wxpy:new-core 分支(不使用 itChat), 2019-06-05T10:37:53+0000
+/project/python-telegram-bot/, python-telegram-bot, 13.4.1, We have made you a wrapper you can't refuse, 2021-03-14T18:24:24+0000
+/project/lehello/, lehello, 1.0.1a1, Greeting plugin for the Le bot., 2018-04-15T20:39:38+0000
+/project/django-discord-integration/, django-discord-integration, 1.0.4, Discord integration for Django, supporting error reporting via webhooks., 2020-04-12T21:01:21+0000
+/project/webwhatsapi/, webwhatsapi, 2.0.5, A python interface for Whatsapp Web, 2018-05-27T22:05:43+0000
+/project/tgcli/, tgcli, 0.3.1, tgcli is a client tool for Telegram., 2019-09-22T11:06:00+0000
+/project/nicobot/, nicobot, 0.1.10, A collection of 🤟 cool 🤟 chat bots, 2021-01-27T20:44:09+0000
+/project/pyspectrum2/, pyspectrum2, 0.2.0, pyspectrum2 implements the Protobuf-based interface to Spectrum2 required for building Python-based backends, 2019-05-01T21:08:23+0000
+/project/omnipresence/, omnipresence, 3.0alpha2, An IRC utility bot, 2015-08-18T21:11:19+0000
+/project/whistler/, whistler, 1.5.3, An extensible MUC bot for XMPP., 2014-05-31T07:54:36+0000
+/project/discord-fate-bot/, discord-fate-bot, 0.4.0, Discord bot to help run a FATE campaign, 2020-04-05T04:02:17+0000
+/project/100bot/, 100bot, 1.0.1, Spice up your Slack-life with emojis!, 2018-03-16T19:52:20+0000
+/project/quinoa/, quinoa, 0.4.4, This is a base class for making Jabber bots that are aware of MUC/groupchat., 2011-11-20T21:12:03+0000
+/project/chatty/, Chatty, 0.2, A multi-platform chat bot framework, 2018-05-31T01:29:39+0000
+/project/autotweet/, autotweet, 0.5.3, learn your tweet and auto tweet it., 2017-11-09T04:21:33+0000
+/project/hcoop-meetbot/, hcoop-meetbot, 0.3.1, Plugin for Limnoria to help run IRC meetings, 2021-04-17T16:16:40+0000
+/project/helga-loljava/, helga-loljava, 0.1.0, A helga plugin that will respond with a silly generated Java class name when someone mentions the word 'java'., 2015-03-04T16:30:39+0000
+/project/unified-message-relay/, unified-message-relay, 4.2, Group Message Forward Framework (supports QQ Telegram Line Discord), 2020-04-26T02:51:49+0000
+/project/relay-framework/, relay-framework, 0.2.0, Relay is an irc micro-framework that smells too much like a web framework, 2015-06-13T17:02:17+0000
+/project/slack-sdk/, slack-sdk, 3.5.0, The Slack API Platform SDK for Python, 2021-04-20T05:35:21+0000
+/project/helga-quip/, helga-quip, 1.2.0, Match quips and other witticisms, 2016-12-13T03:12:15+0000
+/project/slackcat/, slackcat, 2.0.0, Pipe command output to Slack from your terminal!, 2017-09-01T13:53:22+0000
+/project/synapse-diaspora-auth/, synapse-diaspora-auth, 0.2.2, A Diaspora* auth provider for Synapse, 2020-06-24T17:02:51+0000
+/project/pyircserver/, pyIrcServer, 0.0.5.0-Alpha, Powerful, very personalizable and multiplatform IRCd, 2005-06-07T11:31:26+0000
+/project/django-bot/, django-bot, 0.2.2, A lightweight django framework for bots, 2017-06-04T05:02:13+0000
+/project/telepota/, telepota, 1.0, Python framework for Telegram Bot API, 2021-03-12T17:00:13+0000
+/project/virtualenvwrapper-nekbot/, virtualenvwrapper.nekbot, 0.1.0.11, Virtualenvwrapper installer for NekBot project, a multiprotocol bot., 2015-04-29T21:03:29+0000
+/project/jtransliterate/, jTransliterate, 1.0.3, Transliterate [Hirag/Katak]ana to Latin/English and back. Convert half/full-width Japanese text., 2012-04-11T12:38:56+0000
+/project/fbbot/, fbbot, 1.0.10, fbbot is a sim1ple bot class to showcasing the Facebook Messenger Platform, 2017-09-11T16:44:02+0000
+/project/slackov/, slackov, 0.2.1, A Slack bot that uses Markov chains to learn to        speak like a generic member of your team, 2016-01-03T01:13:58+0000
+/project/havocbot/, havocbot, 0.2.0, An extensible chat bot that works across any number of chat programs, 2016-03-05T00:06:03+0000
+/project/relay-framework/, relay-framework, 0.2.0, Relay is an irc micro-framework that smells too much like a web framework, 2015-06-13T17:02:17+0000
+/project/slack-sdk/, slack-sdk, 3.5.0, The Slack API Platform SDK for Python, 2021-04-20T05:35:21+0000
+/project/dhooks/, dhooks, 1.1.4, An (a)sync wrapper for discord webhooks, 2020-07-27T10:10:39+0000
+/project/chaipy/, chaipy, 0.3.2, A developer interface for creating chatbots for the Chai app., 2021-03-30T08:18:25+0000
+/project/requests-facebook/, requests-facebook, 0.4.2, A Python Library to interface with Facebook Graph API, 2017-12-05T16:14:28+0000
+/project/devlgram/, DevLGram, 0.13.1, Telegram MTProto API Client Library for Python, 2019-04-23T19:39:41+0000
+/project/erin/, Erin, 0.1.0a2, Fully Fledged Discord Bot Framework, 2021-04-21T17:03:41+0000
+/project/em-aiml/, em_aiml, 1.0.1, An interpreter package for AIML, the Artificial Intelligence Markup Language, 2018-12-03T08:31:18+0000
+/project/helga-quip/, helga-quip, 1.2.0, Match quips and other witticisms, 2016-12-13T03:12:15+0000
+/project/slackcat/, slackcat, 2.0.0, Pipe command output to Slack from your terminal!, 2017-09-01T13:53:22+0000
+/project/synapse-diaspora-auth/, synapse-diaspora-auth, 0.2.2, A Diaspora* auth provider for Synapse, 2020-06-24T17:02:51+0000
+/project/pyircserver/, pyIrcServer, 0.0.5.0-Alpha, Powerful, very personalizable and multiplatform IRCd, 2005-06-07T11:31:26+0000
+/project/django-bot/, django-bot, 0.2.2, A lightweight django framework for bots, 2017-06-04T05:02:13+0000
+/project/telepota/, telepota, 1.0, Python framework for Telegram Bot API, 2021-03-12T17:00:13+0000
+/project/virtualenvwrapper-nekbot/, virtualenvwrapper.nekbot, 0.1.0.11, Virtualenvwrapper installer for NekBot project, a multiprotocol bot., 2015-04-29T21:03:29+0000
+/project/jtransliterate/, jTransliterate, 1.0.3, Transliterate [Hirag/Katak]ana to Latin/English and back. Convert half/full-width Japanese text., 2012-04-11T12:38:56+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/efb-fb-messenger-slave/, efb-fb-messenger-slave, 2.0.0b21, Facebook Messenger Slave Channel for EH Forwarder Bot, based on ``fbchat``., 2020-01-13T17:11:15+0000
+/project/rocket-term/, rocket.term, 0.2.0.post2, rocket.term is a text based chat client for the Rocket.chat messaging solution, 2021-04-22T10:26:05+0000
+/project/sopel-modules-idlerpg/, sopel_modules.idlerpg, 0.1.0, A rewrite of the original IdleRPG to work as a module for Sopel. It incorporates some of the features of Shocky's IdleRPG system, though is much more in-depth., 2015-10-13T05:01:36+0000
+/project/slack-time/, slack-time, 0.1.5, A simple, intuitive and fast Slack API client for the Slack Web API, 2020-09-30T20:39:28+0000
+/project/djabberdjaw/, djabberdjaw, 0.1, A Jabber bot with a Django-backend for user management, 2008-09-23T02:50:02+0000
+/project/seshat/, Seshat, 0.3.1, Sessioned chat system linking Ajax web interfaces with internal Jabber services, 2011-06-06T19:34:43+0000
+/project/twitterxauth/, twitterxauth, 0.1.0dev, thin wrapper module for xAuth twitter.com, 2014-09-25T14:54:47+0000
+/project/irctest/, irctest, 0.1.2, A script to test interoperability of IRC software., 2017-12-10T19:21:53+0000
+/project/finger-balabolka-server/, Finger-balabolka-Server, 1.0.19, A alfa project of flood chat., 2017-12-09T11:00:21+0000
+/project/pytdlib/, Pytdlib, 0.1.8, Telegram TDLib Client Library for Python, 2019-05-31T02:51:04+0000
+/project/aiomessaging/, aiomessaging, 0.2, Python asyncio messaging Framework, 2018-07-09T19:41:00+0000
+/project/xchatbot/, xchatbot, 0.3.1, the Xtensible XMPP Chat Bot, 2020-04-26T13:56:23+0000
+/project/microsoftbotframework/, microsoftbotframework, 0.3.3, A wrapper for the microsoft bot framework API, 2018-07-03T02:31:22+0000
+/project/pypresence/, pypresence, 4.2.0, Discord RPC client written in Python, 2021-02-01T02:24:15+0000
+/project/tinybot/, tinybot, 1.0.0, Very simple yet flexible Telegram Bot API, 2018-06-10T18:06:18+0000
+/project/luckystrike/, luckystrike, 0.11, IRC to Campfire Bridge, 2014-04-21T22:54:39+0000
+/project/cordgears/, cordgears, 0.1.5.post2, A simple discord bot engine, 2018-12-04T21:08:07+0000
+/project/synapse-ldap-password-provider/, synapse_ldap_password_provider, 1, LDAP3 password provider for Synapse, 2017-06-13T05:36:28+0000
+/project/jeev-modules/, jeev-modules, 0.0.2, Modules for Jeev, 2014-09-07T06:54:23+0000
+/project/slackers/, slackers, 1.0.0, Slack webhooks API served by FastAPI, 2020-11-14T13:53:17+0000
+/project/semaphore-bot/, semaphore-bot, 0.10.1, Semaphore: A simple (rule-based) bot library for Signal Private Messenger., 2021-03-08T14:29:42+0000
+/project/ircutils3/, ircutils3, 0.2.2, IRC framework and utilities. Great for bot creation., 2015-07-16T11:10:51+0000
+/project/fanpy/, fanpy, 0.2.0, An API and cli toolset for Fanfou.com, 2017-02-05T14:20:20+0000
+/project/efb-wechat-slave/, efb-wechat-slave, 2.0.4, WeChat Slave Channel for EH Forwarder Bot, based on WeChat Web API., 2020-12-22T17:24:58+0000
+/project/mailru-im-bot/, mailru-im-bot, 0.0.18, Pure Python interface for Bot API. Bot cookbook for Humans., 2021-03-31T17:57:10+0000
+/project/mautrix-hangouts/, mautrix-hangouts, 0.1.4, A Matrix-Hangouts puppeting bridge., 2020-11-09T23:02:43+0000
+/project/emojirades/, Emojirades, 0.14.0, A Slack bot that understands the Emojirades game!, 2021-02-25T03:23:39+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/wyze-sdk/, wyze-sdk, 1.0.1, The Wyze Labs API Platform SDK for Python., 2021-04-23T12:29:58+0000
+/project/discord-gui/, discord.gui, 1.0.2, A discord.py extension providing a GUI interface to monitor the bot and modify command settings, 2019-04-18T21:48:23+0000
+/project/image-charts/, image-charts, 5.6.10, Official Image-Charts.com API client library, 2020-11-15T19:56:04+0000
+/project/stormbot-fortune/, stormbot-fortune, 1.2.1, fortune plugin for stormbot, 2017-11-16T14:19:28+0000
+/project/antbot/, antbot, 0.1.8, A slack chat bot doing scripts on the server, 2019-08-24T12:32:24+0000
+/project/gyr/, gyr, 0.2.0, A python framework for building matrix application services, 2017-05-08T01:38:16+0000
+/project/sopel-spellcheck/, sopel-spellcheck, 0.0.2, Spellcheck plugin for Sopel IRC bots, 2019-12-15T02:06:45+0000
+/project/helga-meet/, helga-meet, 1.1.1, System for asynchronous meetings e.g. standup, 2016-12-20T15:43:00+0000
+/project/limoo-sdk/, limoo-sdk, 0.1.5, An SDK to work with Limoo, 2021-02-04T11:29:37+0000
+/project/boty/, boty, 0.1.1, Time Flies, 2012-03-10T12:12:15+0000
+/project/sensu-handler-rocketchat/, sensu-handler-rocketchat, 0.1.0, A sensu plugin to send events to rocketchat., 2017-12-19T13:20:05+0000
+/project/otfbot/, otfbot, 1.0.0, a modular IRC-Bot, 2011-04-22T10:56:32+0000
+/project/slack-backup/, slack-backup, 0.8, Make copy of slack converstaions, 2019-01-05T16:45:44+0000
+/project/grillo/, Grillo, 0.1.1, A terminal based chat server and client., 2011-01-03T04:51:14+0000
+/project/keralapyapiv2/, KeralaPyApiV2, 2.0.2020, Telegram MTProto API Client Library and Framework for Python, 2020-01-31T15:04:29+0000
+/project/earwigbot/, earwigbot, 0.3, EarwigBot is a Python robot that edits Wikipedia and interacts with people over IRC., 2019-03-24T21:28:53+0000
+/project/weitersager/, Weitersager, 0.5, A proxy to forward messages received via HTTP to to IRC, 2021-02-07T18:01:56+0000
+/project/matrix-synapse/, matrix-synapse, 1.32.2, Reference homeserver for the Matrix decentralised comms protocol, 2021-04-22T10:21:22+0000
+/project/pwncat/, pwncat, 0.1.1, Netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell and port forwarding magic - and its  fully scriptable with Python (PSE)., 2021-03-27T21:56:05+0000
+/project/python-icq-bot/, python-icq-bot, 0.0.19, Pure Python interface for ICQ Bot API. Bot cookbook for Humans., 2019-03-04T15:43:14+0000
+/project/stormbot/, stormbot, 1.6.0, XMPP bot, 2019-04-18T07:40:44+0000
+/project/stormbot-quizz/, stormbot-quizz, 1.0.0, quizz plugin for stormbot, 2019-04-18T07:45:06+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/zulip-botserver/, zulip-botserver, 0.7.1, Zulip's Flask server for running bots, 2020-10-09T18:19:53+0000
+/project/ludolph-doorman/, ludolph-doorman, 1.2, Ludolph: Doorman plugin, 2016-02-15T23:52:47+0000
+/project/fbfbot/, fbfbot, 0.2.2, The FeedBackFlow bot, 2012-10-05T09:32:35+0000
+/project/pyrook/, PyRook, 0.5.2, A standalone client for RookChat, 2016-11-23T11:32:08+0000
+/project/mygengo/, mygengo, 1.3.3, Official Python library for interfacing with the MyGengo API., 2011-10-24T00:08:23+0000
+/project/airc/, airc, 0.0.2, An asynchronous IRC implementation, 2019-04-30T00:38:26+0000
+/project/blue-discordbot/, Blue-DiscordBot, 3.2.0, A highly customisable Discord bot, 2019-05-16T01:34:18+0000
+/project/opsdroid/, opsdroid, 0.21.0, "An open source ChatOps bot framework.", 2021-02-26T15:56:52+0000
+/project/twitched/, twitched, 1.0.0, A Python library for quickly writing Twitch chat applications and custom chat bots., 2015-12-31T09:43:10+0000
+/project/pyroboard/, pyroboard, 0.1.2, Keyboard for Pyrogram number one., 2020-12-28T17:20:31+0000
+/project/mautrix-appservice/, mautrix-appservice, 0.3.11, A Python 3 asyncio-based Matrix application service framework., 2019-06-22T15:53:36+0000
+/project/threema-gateway/, threema.gateway, 4.0.0, An API for the Threema gateway service to send and receive messages including text, images, files and delivery reports., 2021-01-22T23:33:44+0000
+/project/pyromancer/, Pyromancer, 1.0, Simple framework for creating IRC bots, 2014-10-18T20:08:59+0000
+/project/helga-jira/, helga-jira, 0.1.4, A helga plugin that can be used to store responses that can be returned from a question, 2017-08-31T19:12:54+0000
+/project/udns/, udns, 0.0.2, micro dns server, 2016-01-27T06:40:55+0000
+/project/linphone/, linphone, 3.9.1, Linphone package for Python, 2015-11-16T12:35:52+0000
+/project/clearbit-slack-python/, clearbit-slack-python, 0.1.1, Push Clearbit Person and Company data into a Slack channel, 2016-04-22T17:25:00+0000
+/project/horse-forecastio/, horse-forecastio, 0.1.0, ForecastIO integration bridle for Horse, 2015-06-03T15:06:14+0000
+/project/aiml-bot/, AIML-Bot, 0.0.3, An interpreter package for AIML, the Artificial Intelligence Markup Language, 2017-08-12T01:16:22+0000
+/project/helga-roll/, helga-roll, 1.1.0, Roll dice or choose from set, 2017-06-26T02:54:57+0000
+/project/slackard/, slackard, 2.0.0, A pluggable bot for slack.com, 2015-08-09T07:49:52+0000
+/project/mirahezebot-plugins/, MirahezeBot-Plugins, 9.1.3, Sopel Plugins for Miraheze Bots, 2021-04-16T15:12:50+0000
+/project/chiron-bot-adehnert/, chiron-bot-adehnert, 0.9.1, Chat bot that can look up ticket numbers on bugtrackers and return their names, 2021-02-06T03:19:50+0000
+/project/twitter-tap/, twitter-tap, 2.2.1, Collect tweets to a mongoDB using either the Twitter search API or the streaming API., 2020-03-24T09:19:23+0000
+/project/disqust/, disqust, 0.1.0, Disqus API client, 2017-03-30T18:43:03+0000
+/project/helga-api-monitor/, helga-api-monitor, 1.0.2, Allow helga a way to monitor APIs, 2016-10-09T20:04:56+0000
+/project/tg-feedback-bot-ru/, tg-feedback-bot-ru, 0.2.8, Telegram feedback bot, 2020-11-26T16:52:10+0000
+/project/simpbot/, simpbot, 1.0, Simple Bot (SimpBot) - IRC (Internet Relay Chat) Bot, 2016-12-16T20:53:51+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/omnipresence/, omnipresence, 3.0alpha2, An IRC utility bot, 2015-08-18T21:11:19+0000
+/project/whistler/, whistler, 1.5.3, An extensible MUC bot for XMPP., 2014-05-31T07:54:36+0000
+/project/discord-fate-bot/, discord-fate-bot, 0.4.0, Discord bot to help run a FATE campaign, 2020-04-05T04:02:17+0000
+/project/100bot/, 100bot, 1.0.1, Spice up your Slack-life with emojis!, 2018-03-16T19:52:20+0000
+/project/quinoa/, quinoa, 0.4.4, This is a base class for making Jabber bots that are aware of MUC/groupchat., 2011-11-20T21:12:03+0000
+/project/chatty/, Chatty, 0.2, A multi-platform chat bot framework, 2018-05-31T01:29:39+0000
+/project/autotweet/, autotweet, 0.5.3, learn your tweet and auto tweet it., 2017-11-09T04:21:33+0000
+/project/ib3/, ib3, 0.2.0, IRC bot framework using mixins to provide common functionality, 2019-01-07T04:21:07+0000
+/project/hcoop-meetbot/, hcoop-meetbot, 0.3.1, Plugin for Limnoria to help run IRC meetings, 2021-04-17T16:16:40+0000
+/project/helga-loljava/, helga-loljava, 0.1.0, A helga plugin that will respond with a silly generated Java class name when someone mentions the word 'java'., 2015-03-04T16:30:39+0000
+/project/unified-message-relay/, unified-message-relay, 4.2, Group Message Forward Framework (supports QQ Telegram Line Discord), 2020-04-26T02:51:49+0000
+/project/slack-machine/, slack-machine, 0.21.0, A sexy, simple, yet powerful and extendable Slack bot, 2021-04-25T19:54:15+0000
+/project/ircchallenge/, ircchallenge, 0.1.2, ratbox-esque RSA/SHA1 challenge retorts, 2021-04-25T23:34:26+0000
+/project/royalnet/, royalnet, 6.5.5, A multipurpose bot framework, 2021-04-26T01:51:24+0000
+/project/pyborg/, pyborg, 2.0.0, Markov chain (chat) bot for a suite for modern services (discord, irc, twitter, mastodon, file, linein), 2021-04-26T00:53:10+0000
+/project/cryptoim/, CryptoIM, 0.1.1, Crypto Instant Messenger, 2014-02-03T19:55:59+0000
+/project/livebridge-scribblelive/, livebridge-scribblelive, 0.6.1, Scribblelive plugin for Livebridge., 2020-12-22T00:26:54+0000
+/project/slackerade/, slackerade, 0.0.2, Masquerade yourself as a fictitious user on slack, 2020-03-06T17:27:05+0000
+/project/pysimpirc/, pysimpirc, 0.1.4, Simple IRC module, 2007-12-26T03:26:42+0000
+/project/python-twitter/, python-twitter, 3.5, A Python wrapper around the Twitter API, 2018-11-03T12:32:06+0000
+/project/ircevents/, ircevents, 0.3.0, , 2020-03-16T22:00:24+0000
+/project/slackpy/, slackpy, 2.2.2, A Simple and Human Friendly Slack Client for Logging., 2016-12-10T05:30:53+0000
+/project/pykblib/, PyKBLib, 2.0.0, A Python library for interacting with the Keybase CLI tools., 2019-04-28T12:23:28+0000
+/project/ludolph-zabbix/, ludolph-zabbix, 1.7, Ludolph: Zabbix API plugin, 2017-06-25T16:41:37+0000
+/project/fredirc/, FredIRC, 0.3.0, An easy-to-use, event driven framework for IRC bots., 2015-12-09T12:48:06+0000
+/project/ppslack/, ppslack, 3.0.2, Tool to send messages via Slack, 2021-03-03T12:02:02+0000
+/project/twython/, twython, 3.8.2, Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs, 2020-04-04T23:21:39+0000
+/project/helga-hipchat-nicks/, helga-hipchat-nicks, 0.1.1, A helga preprocessor to ensure that user nicks are set as @ mentions, 2015-03-07T16:32:30+0000
+/project/an-discordbot/, AN-DiscordBot, 3.9.4, A highly customisable Discord bot, 2019-05-13T21:00:20+0000
+/project/asciiryver/, asciiRyver, 1.3a1, Ryver for the terminal, 2018-03-26T04:47:50+0000
+/project/messenger-api/, messenger-api, 0.5.1, Unofficial Facebook Messenger library for Python 2.6+ / Python 3.4+ / pypy, 2017-11-20T18:21:38+0000
+/project/whatsapp-web/, whatsapp-web, 0.0.1, A Python library to automate easily whatsapp web, 2020-07-25T01:14:01+0000
+/project/xmpp-http-upload/, xmpp-http-upload, 0.4.0, Flask-based HTTP service to handle XMPP HTTP upload requests from Prosody mod_http_upload_external, 2020-10-06T16:11:45+0000
+/project/jishaku/, jishaku, 1.20.0.220, A discord.py extension including useful tools for bot development and debugging., 2020-11-22T12:27:57+0000
+/project/helga-youtube-meta/, helga-youtube-meta, 1.1.0, Provide information for youtube related metadata, 2017-06-11T02:24:56+0000
+/project/sfchat/, SFChat, 0.13.0, Secure Free Chat (SFChat) is long pulling REST chat based on Django and Mongodb., 2016-12-18T18:49:34+0000
+/project/aiml-bot-api/, AIML-Bot-API, 0.0, GraphQL API to AIML Bot, 2017-08-11T04:35:26+0000
+/project/linepy/, linepy, 3.0.8, LINE Messaging's private API, 2018-01-15T23:13:44+0000
+/project/trioyoyo/, trioyoyo, 1.1.23, A trio oyoyo port, 2017-09-13T01:33:52+0000
+/project/ciscosparkapi/, ciscosparkapi, 0.10.1, Simple, lightweight, scalable Python API wrapper for the Cisco Spark APIs, 2019-01-03T07:04:43+0000
+/project/discord-ext-slash/, discord-ext-slash, 0.6.0, Support slash commands with discord.py., 2021-04-24T15:26:17+0000
+/project/basebot/, basebot, 1.1.0, a base IRC bot extensible with plugins, 2014-09-09T21:08:59+0000
+/project/hanging-merge-requests/, hanging-merge-requests, 1.0.2, Emojiful daily summaries of open merge requests directly in your Slack, 2019-03-25T12:09:23+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/hipchat-notif/, hipchat_notif, 0.2.3, Simple Python library for the HipChat API v1, 2015-02-09T13:29:49+0000
+/project/ircmessage/, ircmessage, 0.1.1, A simple Python module for applying and stripping formatting from IRC messages., 2015-11-20T11:27:07+0000
+/project/helga-elo/, helga-elo, 1.0.0, Provide a system through which you may compare players of arbitrary games, 2016-09-20T22:05:19+0000
+/project/rocketgram/, rocketgram, 3.1.0, Modern and powerful asynchronous telegram bot framework., 2021-03-27T17:57:38+0000
+/project/hibpwned/, hibpwned, 1.2.3, A human friendly Python API wrapper for haveibeenpwned.com, 2021-03-26T01:12:57+0000
+/project/slackblocks/, slackblocks, 0.2.3, Python wrapper for the Slack Blocks API, 2021-01-16T15:22:58+0000
+/project/flowdock-api-wrapper/, flowdock-api-wrapper, 1.0, Flowdock API Wrapper, 2019-03-30T12:58:28+0000
+/project/pyxa/, pyxa, 0.0.2, pyXA is an open-source, flexible, high-performance function serving framework for Charlotte AI., 2019-12-05T12:44:00+0000
+/project/teams-logger/, teams-logger, 0.4.0, Microsoft Teams logging handler for Python, 2021-01-25T14:01:39+0000
+/project/seshet/, seshet, 0.1.0-3, Modular, dynamic IRC bot, 2015-07-16T13:41:50+0000
+/project/sopel-help/, sopel-help, 0.2.0, Help plugin for Sopel, 2021-03-28T14:34:47+0000
+/project/kdb/, kdb, 1.0.2, Knowledge (IRC) Database Bot, 2014-04-26T15:26:14+0000
+/project/spellbot/, spellbot, 5.28.3, The Discord bot for SpellTable, 2021-04-22T04:11:29+0000
+/project/helga-facts/, helga-facts, 0.2.2, A helga plugin that can be used to store responses that can be returned from a question, 2015-07-23T19:11:30+0000
+/project/filmaster/, filmaster, 0.0.7, Discord bot that scours TMDB for film info, 2020-02-16T22:58:19+0000
+/project/emojipedia/, Emojipedia, 0.4.1, Emoji data from Emojipedia, 2019-09-02T15:27:04+0000
+/project/keysync/, keysync, 0.2.2, syncs OTR keys between different IM programs, 2015-09-17T14:29:23+0000
+/project/lechat/, lechat, 1.0.7, A chatting plugin for the Le bot., 2018-03-26T01:53:37+0000
+/project/xmpp2/, xmpp2, 0.4, An XMPP client, 2010-08-11T06:42:20+0000
+/project/yasexamplehandlers/, YasExampleHandlers, 0.0.2, Just some examples, 2017-03-06T07:28:22+0000
+/project/discobot/, Discobot, 0.1.0, A fully-featured music bot for Discord., 2016-04-22T15:59:21+0000
+/project/xmpppy/, xmpppy, 0.6.2, XMPP implementation in Python, 2020-11-12T21:07:07+0000
+/project/makechat/, makechat, 0.1.25, Simple chat system, 2016-05-29T09:03:16+0000
+/project/will/, will, 2.1.3, A friendly python hipchat bot, 2018-06-13T15:46:35+0000
+/project/cleantoots/, cleantoots, 0.4.1, Cleanup your toot history., 2020-05-23T08:32:07+0000
+/project/pmxbot/, pmxbot, 1122.10.0, IRC bot - full featured, yet extensible and customizable, 2020-11-14T20:01:39+0000
+/project/sensebook/, sensebook, 0.2.0, Making sense of Facebooks undocumented API., 2019-02-19T22:58:24+0000
+/project/syslog2irc/, syslog2irc, 0.11, Forward syslog messages to IRC, 2021-04-21T04:50:20+0000
+/project/efb-online-middleware/, efb-online-middleware, 0.0.5, Online middleware for EH Forwarder Bot, notice when wechat is offline., 2020-03-07T08:53:13+0000
+/project/telepotpro/, telepotpro, 13.1, Python framework for Telegram Bot API, 2021-03-09T15:29:49+0000
+/project/django-live-support/, django-live-support, 0.1.9, A django app that lets you chat with visitors to your site., 2012-11-27T16:06:33+0000
+/project/kw-ppjp-chat/, kw_ppjp.chat, 0.1, a simple gui chat application, 2014-01-26T07:15:05+0000
+/project/bothub/, bothub, 0.1.30, Build serverless chatbot on BotHub.Studio, 2018-11-22T04:35:19+0000
+/project/zulip-term/, zulip-term, 0.6.0, Zulip's official terminal client, 2021-01-28T23:56:18+0000
+/project/aio-telegram-bot/, aio-telegram-bot, 1.0.0, An asynchronous framework for building your own Telegram Bot, 2019-05-22T23:19:55+0000
+/project/pykeyboard/, pykeyboard, 0.1.2, Best Keyboard and Pagination for the Pyrogram Library., 2020-12-30T16:06:28+0000
+/project/whalesong/, whalesong, 0.9.0, Whalesong is a python library to manage WebApps remotely. Currently WhatsappWeb is implemented, 2019-02-26T18:36:26+0000
+/project/lecluvindex/, lecluvindex, 1.1.0b0, Chilean UV index plugin for the Le bot., 2018-04-16T02:53:04+0000
+/project/fastapi-slackeventsapi/, fastapi-slackeventsapi, 0.1.0, FastAPI Implementation of slackeventsapi, 2021-04-07T12:52:07+0000
+/project/limnoria/, limnoria, 2021.04.11, A modified version of Supybot (an IRC bot and framework), 2021-04-11T09:22:46+0000
+/project/zulip/, zulip, 0.7.1, Bindings for the Zulip message API, 2020-10-09T18:19:55+0000
+/project/pyrobud/, pyrobud, 2.1.0, A clean selfbot for Telegram with an emphasis on quality and practicality., 2020-05-04T04:48:25+0000
+/project/ggzbot/, ggzbot, 0.1.3, supporting the GGZ patients since 14-9-2012, 2012-09-14T20:17:20+0000
+/project/wisper/, wisper, 1.0.0, Encrypted IRC, 2019-01-09T21:00:20+0000
+/project/djehutyslack/, djehutyslack, 0.1.0, chat bot service for djehuty, 2014-10-10T07:23:40+0000
+/project/djehuty-tiqav/, djehuty_tiqav, 0.1.0, djehuty_tiqav, 2014-11-18T12:10:11+0000
+/project/discord-openbot/, Discord-OpenBot, 0.1.4, Simple Custom Bots and Plugins for discord.py, 2018-06-07T09:44:57+0000
+/project/discord-notify/, discord-notify, 1.0.0, A minimal Discord API webhooks wrapper for sending messages to a Discord channel, 2020-08-02T22:25:35+0000
+/project/ludolph-weather/, ludolph-weather, 1.0, Ludolph: Weather plugin, 2015-08-19T12:06:04+0000
+/project/mizar/, mizar, 0.0.3, Official API for the MizarAI platform, 2021-04-15T21:00:30+0000
+/project/errbot-backend-webapp/, errbot-backend-webapp, 0.1.0, Webapp backend plugin for Errbot, 2019-06-27T12:28:47+0000
+/project/figment/, figment, 0.0.1, A framework for creating multiplayer, text-based worlds., 2015-09-18T06:03:44+0000
+/project/sat-pubsub/, sat-pubsub, 0.3.0, XMPP Publish-Subscribe Service Component, build for the need of the « Salut à Toi » project, 2019-08-16T10:43:55+0000
+/project/quick-slack/, quick-slack, 1.0.2b0, CLI tool to send message to mornitor status, notify process end, etc by slack., 2020-12-28T11:23:21+0000
+/project/r0c/, r0c, 1.1.8, retr0chat telnet/vt100 chat server, 2020-12-22T22:32:31+0000
+/project/channelstream/, channelstream, 0.7.1, Websocket server supporting channels/users communication, 2020-02-22T18:10:22+0000
+/project/helga-spongebob/, helga-spongebob, 0.1, HeLgA PlUgIn tO Do mOcKiNg sPoNgEbOb tExT, 2018-12-19T06:19:50+0000
+/project/ubot/, ubot, 8.0.0, A CLI tool that generates code by parsing the Telegram Bot API page, 2020-08-27T19:21:48+0000
+/project/guildwatcher/, guildwatcher, 2.0.0, A discord webhook to track Tibia guild changes., 2021-02-23T00:41:02+0000
+/project/skype-chatsync-reader/, skype-chatsync-reader, 0.1, Parser and GUI viewer of chatsync/*.dat files from the Skype profile directory, 2015-01-22T20:56:25+0000
+/project/peppyhare-slack-100bot/, peppyhare-slack-100bot, 1.0.5, Spice up your Slack-life with emojis!, 2018-03-16T17:55:00+0000
+/project/pyxmpp/, pyxmpp, 1.1.2, XMPP/Jabber implementation for Python, 2011-05-16T07:27:19+0000
+/project/coalition/, coalition, 0.0.0.dev5, A suite of office tools developed in Python., 2017-04-25T14:36:46+0000
+/project/botibal/, botibal, 0.8.0, The silly, quizzical XMPP bot, 2016-08-24T22:04:43+0000
+/project/autoguru/, autoguru, 0.0.1, Question Answering for FAQs with Natural Language Processing, 2020-03-30T03:16:15+0000
+/project/pyfrost/, pyfrost, 0.2.1, An online chat library for creating the client and server., 2020-04-17T13:01:16+0000
+/project/python-twitch-stream/, python-twitch-stream, 1.0.2, An interface to the Twitch website, to interact with their video and chat, 2016-04-23T12:21:50+0000
+/project/pypi-chat/, pypi-chat, 0.0.4, A project of pypi chat., 2018-10-01T10:38:59+0000
+/project/xslack/, xSlack, 0.2, Open source, self hosted cross-team channels for Slack!, 2016-11-22T20:38:28+0000
+/project/sopel-color-text/, sopel-color-text, 0.4.0, A Sopel plugin to add some colored text options., 2020-10-18T01:49:26+0000
+/project/mautrix-instagram/, mautrix-instagram, 0.1.0, A Matrix-Instagram puppeting bridge., 2021-04-07T11:23:36+0000
+/project/dankbot/, dankbot, 0.0.6, Slack bot for posting dank memes from Reddit, 2016-12-08T06:16:31+0000
+/project/mleap-splice/, mleap-splice, 0.17.0a0, MLeap Python API, 2020-11-23T14:34:38+0000
+/project/wakeywakey/, wakeywakey, 1.0.2, Continuously mark your Slack presence as active - never appear away!, 2016-03-14T15:33:18+0000
+/project/tuichat/, tuichat, 0.6.3, A simple messaging program and API, 2019-07-10T09:38:02+0000
+/project/gendobot/, gendobot, 4.1.4, a lightweight Slackbot framework for Python, 2017-10-06T14:17:48+0000
+/project/lmikoto-efb-qq-slave/, lmikoto-efb-qq-slave, 2.3.0, QQ Slave Channel for EH Forwarder Bot, integrated with various QQ Clients., 2020-02-01T02:12:56+0000
+/project/tinode-grpc/, tinode-grpc, 0.16.7, Tinode gRPC bindings., 2020-07-17T22:39:30+0000
+/project/stormbot-music/, stormbot-music, 1.3.0, music plugin for stormbot, 2019-04-18T08:06:02+0000
+/project/aiotgbot/, aiotgbot, 0.8.3, Asynchronous library for Telegram bot API, 2021-03-14T16:52:42+0000
+/project/blkmautrix/, blkmautrix, 0.0.18, A Python 3 asyncio Matrix framework., 2019-11-21T06:02:06+0000
+/project/nekbot-protocols-xmpp/, nekbot.protocols.xmpp, 0.1.0.7, Jabber/XMPP Protocol for Nekbot, a modular multiprotocol bot., 2015-06-19T08:45:21+0000
+/project/memedict/, memedict, 1.0.3, Knowyourmeme.com definitions scraper, 2018-08-26T22:05:27+0000
+/project/stuphos/, stuphos, 1.0.15, Containerization middleware., 2020-11-05T13:18:05+0000
+/project/jaconda/, jaconda, 0.1, Python client to Jaconda API v2, 2012-02-22T18:32:27+0000
+/project/tg-autoposter/, TG-AutoPoster, 2.1.0, Telegram Bot for AutoPosting from VK, 2020-09-12T13:18:58+0000
+/project/sugaroid-chatterbot-corpus/, sugaroid-chatterbot-corpus, 1.2.0, Chatterbot corpus for Sugaroid, 2020-04-02T06:36:10+0000
+/project/telegram-me/, telegram-me, 1.0.1, A simple scraper for getting information from t.me links, 2020-06-27T09:43:44+0000
+/project/discord-hero-scheduler/, discord-hero-scheduler, 0.1.0b0, A Scheduler extension for Discord Hero, allowing you to schedule the execution of Controller methods. It also comes with a shutdown command that shuts down discord-hero gracefully., 2020-05-27T16:21:00+0000
+/project/metasyntactic/, metasyntactic, 1.0.14, metasyntactic - Themed metasyntactic variables names, 2020-01-09T20:57:57+0000
+/project/ircclive/, ircclive, 1.0.1, Simple IRCCloud session keeper; written in python3., 2018-02-03T11:10:55+0000
+/project/framewirc/, framewirc, 0.1.0, An asynchronous IRC framework/library based upon asyncio, 2015-11-27T22:37:13+0000
+/project/pytbot/, PyTBot, 0.2.dev1, A Pure Python Telegram Bot API library, 2015-12-29T18:33:38+0000
+/project/simple-fbmessenger/, simple-fbmessenger, 0.1.0, An unofficial simple library to provide basic communication with Facebooks Messenger API, 2021-04-09T08:55:51+0000
+/project/sopel-plugins-channelmgnt/, sopel-plugins.channelmgnt, 2.0.2, Channelmgnt plugin for Sopel, 2021-04-16T14:49:43+0000
+/project/jeeves-framework/, jeeves-framework, 0.4.0, A Python IRC Bot Framework. Easily create IRC bots with a single command, 2012-05-07T21:43:50+0000
+/project/sopel-pets/, sopel-pets, 0.0.2, A plugin for Sopel that posts pets in the channel, 2020-12-11T19:19:47+0000
+/project/codethecity-slackbot/, codethecity-slackbot, 1.0.0.dev3, A framework for creating Slackbots for Python. Developed for CodeTheCity., 2017-01-28T21:29:28+0000
+/project/netcat/, netcat, 0.0.1a0, Netcat with cmd exec, connect, listen and (local/remote) port-forwarding modes., 2020-04-08T19:58:41+0000
+/project/knosk-core/, knosk-core, 1.0.0a1, Knosk dialog management framework, 2019-10-08T09:09:32+0000
+/project/fyreside/, Fyreside, 0.0.4, Talker-style MUD with card game features, 2016-10-04T22:28:14+0000
+/project/prettify/, prettify, 0.1.1, IRC log prettifier, 2013-03-07T15:04:08+0000
+/project/spyke/, spyke, 0.1, A skype connection manager., 2009-08-07T13:36:02+0000
+/project/pugbot-ng/, pugbot_ng, 0.0.4, Urban Terror PUG IRC bot., 2014-07-29T00:38:54+0000
+/project/ludolph-vcs/, ludolph-vcs, 0.1.1, Ludolph: VCS integration plugin, 2017-01-18T13:48:16+0000
+/project/logging-slackhandler/, logging-slackhandler, 2.5.0, A logging handler for Slack, 2017-12-05T09:34:26+0000
+/project/webexteamsarchiver/, webexteamsarchiver, 0.11.0, Room archiver utility for Webex Teams, 2020-08-20T00:33:03+0000
+/project/fabular/, fabular, 0.0.dev2, A command-line chat app for secure communication between you and your friends!, 2021-03-15T14:09:27+0000
+/project/mautrix-telegram/, mautrix-telegram, 0.9.0, A Matrix-Telegram hybrid puppeting/relaybot bridge., 2020-11-17T16:03:49+0000
+/project/helga-trade/, helga-trade, 1.0.2, Stock, crypto, forex trade information plugin for helga, 2017-08-07T13:38:18+0000
+/project/slack-logger/, slack-logger, 0.3.1, A Python logging handler for Slack integration, 2017-12-20T18:03:23+0000
+/project/jeev/, jeev, 0.2.0, A simple chat bot, at your service., 2014-09-07T06:46:04+0000
+/project/ehforwarderbot/, ehforwarderbot, 2.1.0, An extensible message tunneling chat bot framework., 2020-11-22T16:35:03+0000
+/project/pychomikbox/, pyChomikBox, 0.2.0, Python library for Chomikuj.pl filesharing service, 2017-11-22T17:53:58+0000
+/project/pychat/, PyChat, 1.5.0, Asynchronous Chat Client, 2015-01-07T15:49:54+0000
+/project/helga-poems/, helga-poems, 0.2.0, A helga command to generate either haiku or tanka poems, 2016-10-26T20:46:35+0000
+/project/nekbot-protocols-telegram/, nekbot.protocols.telegram, 0.1.0.16, Telegram Protocol for Nekbot, a modular multiprotocol bot., 2015-05-29T19:26:47+0000
+/project/python-netflix/, python-netflix, 0.4.1, A Python Library to interface with Netflix REST API & OAuth, 2012-11-16T14:45:59+0000
+/project/efb-msg-blocker-middleware/, efb-msg-blocker-middleware, 1.1.0, WeChat Middleware for EH Forwarder Bot to block messages, 2020-12-31T08:04:20+0000
+/project/hikari/, hikari, 2.0.0.dev100, A sane Discord API for Python 3 built on asyncio and good intentions, 2021-01-25T11:36:48+0000
+/project/tcr/, tcr, 0.1, A unofficial line bot lib, 2018-03-03T18:04:41+0000
+/project/lalita/, lalita, 0.1.3, Yet another IRC bot., 2015-09-26T00:44:08+0000
+/project/chatwolf/, chatwolf, 0.1.4, An unofficial game, to play Werewolf on Skype, 2020-05-20T23:25:57+0000
+/project/lemaster/, lemaster, 0.1.5, Master plugin for the Le bot., 2018-03-26T02:18:51+0000
+/project/rattledin/, rattledin, 0.0.1, A asynchronous library to communicate with Linkedin, 2019-02-07T17:34:47+0000
+/project/ircutils/, ircutils, 0.1.4, IRC framework and utilities. Great for bot creation., 2012-07-01T08:53:29+0000
+/project/helga-cowsay/, helga-cowsay, 1.1.2, cowsay, 2014-09-15T19:02:34+0000
+/project/mautrix-facebook/, mautrix-facebook, 0.2.1, A Matrix-Facebook Messenger puppeting bridge., 2021-02-28T16:04:34+0000
+/project/tg-archive/, tg-archive, 0.3.3, is a tool for exporting Telegram group chats into static websites, preserving the chat history like mailing list archives., 2021-03-29T13:14:54+0000
+/project/linenotipy/, linenotipy, 1.0.4, linenotipy is a python client library         for line notify api on Python 3.6 and above., 2021-04-08T06:02:01+0000
+/project/ggci/, ggci, 0.3.0, GitLab Google Chat Integration, 2021-04-15T08:24:22+0000
+/project/h2o-q/, h2o-q, 0.6.0, Python driver for H2O Q Realtime Apps, 2020-09-23T15:42:10+0000
+/project/doubleratchet/, DoubleRatchet, 0.7.0, A python implementation of the Double Ratchet algorithm., 2019-07-21T11:50:36+0000
+/project/cleverbotfree/, cleverbotfree, 1.2.7, Free Alternative For The Cleverbot API, 2021-01-17T08:13:39+0000
+/project/telethongoblenustest/, TelethonGoblenusTest, 0.15.5, Full-featured Telegram client library for Python 3, 2017-12-09T21:29:40+0000
+/project/ovisbot/, ovisbot, 2.0.0, A modular Discord bot for CTF teams, 2020-09-03T21:32:02+0000
+/project/surveillance-bot/, surveillance-bot, 1.0, Basic video surveillance system controlled through a telegram bot., 2020-06-16T18:06:28+0000
+/project/pyxolotl/, Pyxolotl, 0.2, Send and receive messages encrypted with Axolotl (Double Ratchet) protocol, 2016-09-11T01:09:22+0000
+/project/factoirc/, factoirc, 0.6, Bidirectional IRC bridge for Factorio, 2017-05-16T20:14:02+0000
+/project/hipchatpy/, hipchatpy, 0.1.17, Simple HipChat client library, 2014-09-18T16:03:23+0000
+/project/mautrix-twitter/, mautrix-twitter, 0.1.2, A Matrix-Twitter DM puppeting bridge., 2020-12-11T17:37:44+0000
+/project/otrxmpplogger/, OTRXMPPLogger, 1.0.3, Logging with OTR (Off-the-Record Messaging) and XMPP, 2014-03-25T11:12:39+0000
+/project/german-foodemoji/, german-foodemoji, 1.1.9, Decorate German text with food specific emojis, 2021-03-19T12:52:20+0000
+/project/pyxmpp2/, pyxmpp2, 2.0.1, XMPP/Jabber implementation for Python, 2017-11-27T20:21:08+0000
+/project/telegram-reddit-newsbot/, telegram-reddit-newsbot, 0.3, Telegram bot to stay in tune with favourite reddit channels., 2017-03-11T09:27:35+0000
+/project/simple-pyirc/, simple-pyirc, 0.0.1, A light-weighted IRC client, 2018-07-28T16:08:29+0000
+/project/c2d-api/, c2d-api, 0.0.3, Python package for API of Chat2Desk, 2021-04-13T16:49:59+0000
+/project/eternal/, eternal, 0.0.1, A terminal UI IRC client, 2021-04-16T18:25:19+0000
+/project/hackmud-chat/, hackmud-chat, 0.1a4, Python binding to Hackmud's chat API, 2018-10-23T14:56:45+0000
+/project/telepot/, telepot, 12.7, Python framework for Telegram Bot API, 2018-05-26T16:26:54+0000
+/project/jsb-recipe-jsonbot/, jsb.recipe.jsonbot, 0.1a3, The bot for you!, 2011-04-09T17:10:06+0000
+/project/chaanbot/, chaanbot, 1.3.0, A Matrix chat bot, 2020-08-02T16:49:46+0000
+/project/python-zillow/, python-zillow, 0.2.0, A Python wrapper around the Zillow API, 2018-03-29T21:09:29+0000
+/project/libskaro/, libskaro, 0.3, a library that simplifies working with skaro protocol., 2016-05-24T15:27:57+0000
+/project/efb-voice-recog-middleware/, efb-voice-recog-middleware, 0.2.1, WeChat Middleware for EH Forwarder Bot to convert voice to text,                based on Baidu and Microsoft API., 2020-12-31T08:11:03+0000
+/project/helga-hipster/, helga-hipster, 0.1.2, Helga plugin to get hipster music recommendations, 2014-10-09T16:23:13+0000
+/project/petters-opentok/, petters-opentok, 2.10.0, OpenTok server-side SDK, 2020-03-16T16:23:34+0000
+/project/helga-xkcd/, helga-xkcd, 0.1.2, A helga plugin to fetch xkcd comics, 2017-05-01T02:00:38+0000
+/project/django-emojiwatch/, django-emojiwatch, 0.0.8, Bare bones Slack app for posting custom emoji updates to a designated channel, 2018-04-25T01:07:07+0000
+/project/jsb3/, jsb3, 0.4.1, JSONBOT 3 on Python 3, 2012-03-21T19:19:10+0000
+/project/discord-text-sanitizer/, discord-text-sanitizer, 0.0.10, Text Sanitization For Discord, 2020-01-15T00:57:26+0000
+/project/pearsend/, pearsend, 0.0.3, A simple CLI client for peer-to-peer file or message sending, 2017-12-11T04:44:01+0000
+/project/django-fbbot/, django-fbbot, 0.1, fbbot is a simple Django app to showcasing the Messenger Platform, make your facebook bot with Django, 2017-05-01T20:16:23+0000
+/project/ircchallenge/, ircchallenge, 0.1.2, ratbox-esque RSA/SHA1 challenge retorts, 2021-04-25T23:34:26+0000
+/project/chatterbot-io-adapters/, chatterbot-io-adapters, 0.0.2, ChatterBots input and output adapters, 2017-10-11T00:24:02+0000
+/project/helga-stfu/, helga-stfu, 0.1.0, A helga plugin that can be used to store responses that can be returned from a question, 2015-03-04T18:59:07+0000
+/project/beves/, beves, 0.1, Simple wrapper to send notifications with Telegram Bot, 2019-07-02T10:18:46+0000
+/project/botter/, botter, 0.1.4, Python messenger bot aggregator, supporting Discord, Telegram, and potentially others, 2020-10-15T16:32:51+0000
+/project/groupyapi/, GroupyAPI, 0.10.3, The simple yet powerful wrapper for the GroupMe API, 2019-01-01T09:36:02+0000
+/project/slacktools/, slacktools, 0.0.5, Toolbelt for Slack API clients for Web API and RTM API, 2018-09-11T06:06:02+0000
+/project/jsb-recipes-jsonbot/, jsb.recipes.jsonbot, 0.1a1, The bot for you!, 2011-04-09T16:10:58+0000
+/project/irssinotifier/, IrssiNotifier, 0.1.1, Irssi Real Time Remote Visual Notification., 2007-05-23T22:36:44+0000
+/project/botogram2/, botogram2, 0.6.1, A Python framework for Telegram bots, 2019-10-22T15:56:21+0000
+/project/grepme/, grepme, 1.4.0, grep for GroupMe, 2019-11-30T20:09:09+0000
+/project/telepython/, TelePython, 1.2.1, TelePython is a Python package for sending and receiving messages and documents by a Telegram Bot, based on Telegram Bot API., 2021-01-26T20:11:23+0000
+/project/helga-icanhazascii/, helga-icanhazascii, 0.1.0, A helga match plugin that will show ASCII art for certain keywords., 2015-03-04T14:01:54+0000
+/project/gogenji/, GoGenji, 0.1.3, GoGenji is a self helper, connecting the whole world within Wechat in peace, 2017-05-06T13:37:29+0000
+/project/kaomoji/, kaomoji, 0.1.0, Create procedurally generated kaomoji (i.e., Japanese emoticons) using Python! \(^ヮ^)/, 2020-06-10T03:01:18+0000
+/project/briar-wrapper/, briar_wrapper, 0.0.7, Wrapper for the Briar Headless REST API, 2021-03-27T19:31:26+0000
+/project/helga-weather/, helga-weather, 1.0.4, Display weather from openweathermap.org, 2016-10-19T02:21:09+0000
+/project/mautrix-signal/, mautrix-signal, 0.1.1, A Matrix-Signal puppeting bridge., 2021-04-07T19:14:20+0000
+/project/nekbot/, nekbot, 0.1.2.34, NekBot, a modular multiprotocol bot., 2015-05-29T19:26:02+0000
+/project/ofarchiver/, ofarchiver, 0.43, An HTML archive generator for chat rooms on an Openfire instant messaging server., 2011-11-14T17:55:35+0000
+/project/wcpan-telegram/, wcpan.telegram, 0.3.0.dev6, Telegram Bot API with Tornado, 2018-03-03T16:03:42+0000
+/project/poezio/, poezio, 0.13.1, A console XMPP client, 2020-05-31T15:58:49+0000
+/project/hikari-sake/, hikari-sake, 0.0.1, A Discord API for Python and asyncio built on good intentions., 2020-11-16T05:43:50+0000
+/project/zulip-bots/, zulip-bots, 0.7.1, Zulip's Bot framework, 2020-10-09T18:19:52+0000
+/project/redirbot/, redirbot, 0.0.5, IRCBot, telling people they should contact you on different nickname, 2013-07-23T09:34:07+0000
+/project/cabot-core/, cabot-core, 0.1.1, A modular chat bot., 2019-04-07T23:58:23+0000
+/project/bitbot/, bitbot, 1.12.0, Modular event-driven IRC bot, 2019-10-11T16:26:04+0000
+/project/umb/, umb, 1.0.1, UMB information system's private API based on their mobile application, 2018-07-11T01:28:05+0000
+/project/helga-markovify/, helga-markovify, 1.1.1, Ingest corpuses of text and output a sentence generated from markov chains, 2016-12-14T16:19:21+0000
+/project/nusbot/, nusbot, 0.3.3, adc bot annoucing changes in filelist of hub's users, 2015-09-20T09:19:26+0000
+/project/slacker-log-handler/, slacker-log-handler, 1.8.0, Posts log events to Slack via API, 2021-02-08T21:16:30+0000
+/project/fatbotslim/, FatBotSlim, 0.2, Yet another IRC bot library, 2013-09-21T20:21:28+0000
+/project/yomikata/, yomikata, 0.1.31, How do you read this?, 2015-07-24T18:21:15+0000
+/project/twitchdetox/, twitchdetox, 0.0.4, Automatic Twitch moderation tool to filter out toxicity and harassment., 2020-08-02T15:14:31+0000
+/project/tweetbot/, tweetbot, 0.1, A python powered twitter library., 2010-03-09T15:18:30+0000
+/project/jabber-roster/, jabber-roster, 0.1.1, Tool for listing Jabber roster contacts, 2010-11-18T22:20:39+0000
+/project/baas/, baas, 0.2.2, 'Buddy as a Service' is a xmpp / wavelet robot using Yahoo YQL API, Google API and other services to do searches (web, news, reviews, wikipedia, imdb) and some other stuff (translations, weather forecast, etc) for you., 2010-10-16T15:59:40+0000
+/project/slackminion-s3/, slackminion-s3, 0.1.0, Provides a s3 state handler for slackminion, 2016-04-27T02:53:51+0000
+/project/transwhat/, transwhat, 0.2.2, A gateway between the XMPP and the WhatsApp IM networks, 2017-02-11T19:46:33+0000
+/project/cape-client/, cape-client, 0.2.0, Client library for the Cape machine reading API, 2018-03-23T11:26:30+0000
+/project/re-ircbot/, re-ircbot, 1.2.3, A simple async irc bot framework with regex command definitions and data permanency, 2021-04-23T23:37:26+0000
+/project/helga-lingo/, helga-lingo, 1.0.7, Define words from urbandictionary.com, 2016-12-09T00:28:27+0000
+/project/teleflask/, teleflask, 1.0.1, Easily create Telegram bots with pytgbot and flask. Webhooks made easy., 2018-07-04T11:05:38+0000
+/project/faastm/, faastm, 0.1.1, Experimental one-cell STM for FaaS, 2019-07-21T21:02:37+0000
+/project/pycri-spotify/, pycri-spotify, 0.1, Spotify plugin for pycri, 2011-03-25T11:24:45+0000
+/project/botogram/, botogram, 0.5, A Python framework for Telegram bots, 2018-02-15T16:20:38+0000
+/project/fbchat/, fbchat, 1.9.7, Facebook Chat (Messenger) for Python, 2020-06-08T20:25:20+0000
+/project/hubot-hangups/, hubot-hangups, 1.0.0, A hubot adapter for Google Hangouts, 2015-01-26T03:17:03+0000
+/project/tglogger/, tglogger, 0.1.1a3, tglogger is a logger handler and formatter for Telegram bots., 2020-01-20T11:29:40+0000
+/project/heliumbot/, HeliumBot, 0.1.2, A Discord bot framework in Hy. Supports loading Hy and Python plugins, 2018-09-07T15:49:25+0000
+/project/echobot/, echobot, 1.1, echo messages across chat networks.  Supports Hipchat and IRC and can be easily extended to others., 2015-10-18T22:13:50+0000
+/project/chat-transformer/, chat-transformer, 0.5.0, Bridge that takes incoming IRC messages and converts them to other formats, 2018-10-07T04:19:50+0000
+/project/signalstickers-client/, signalstickers-client, 3.1.0, A client for the Signal stickers API, 2021-02-17T21:47:29+0000
+/project/red-star/, red-star, 2.2.3, Red Star - A general-purpose Discord bot with bonus shouting., 2020-11-01T19:03:16+0000
+/project/herald-slack/, herald-slack, 0.2, attr: herald_slack.__doc__, 2019-11-04T23:35:33+0000
+/project/helga-ignore/, helga-ignore, 0.1.0, A helga plugin to ignore messages from specific user nicks, 2015-07-08T20:23:27+0000
+/project/helga-craigslist-meta/, helga-craigslist-meta, 1.1.0, Provide information for craigslist related metadata, 2016-12-13T15:17:35+0000
+/project/turbot/, turbot, 7.5.2, Provides a Discord client and utilities for everything Animal Crossing: New Horizons., 2020-06-19T23:31:42+0000
+/project/helga-winks/, helga-winks, 1.1.0, winks @ u, 2014-09-15T19:40:02+0000
+/project/tyranobot/, tyranobot, 0.2.0, Easily customizable Slackbot, 2017-08-14T23:03:03+0000
+/project/efb-patch-middleware/, efb-patch-middleware, 2.0.16, Patch middleware for EH Forwarder Bot, enhance functions., 2021-03-31T10:37:26+0000
+/project/pylinkirc/, pylinkirc, 3.0.0, PyLink IRC Services, 2020-04-11T07:32:04+0000
+/project/helga-reviews/, helga-reviews, 0.0.6, A helga command to query reviewboard pending reviews targeted at a user, groupor channel (using a channel-to-group mapping)., 2014-10-22T13:49:26+0000
+/project/pytgasu/, pytgasu, 0.2.1, Telegram sticker sets creation automated (partially)., 2018-09-14T14:56:38+0000
+/project/helga-zen/, helga-zen, 0.1.0, The Zen of Python as a helga plugin, 2014-04-06T19:07:02+0000
+/project/umr-line-driver/, umr-line-driver, 0.2, UMR Line Driver, 2020-04-26T02:34:12+0000
+/project/discord-ext-forms/, discord-ext-forms, 2.7.4, Easy forms and surveys for discord.py., 2021-03-27T21:12:26+0000
+/project/otrxmppchannel/, OTRXMPPChannel, 1.0.4, An OTR-XMPP communications channel, 2014-03-25T11:13:04+0000
+/project/helga-quest/, helga-quest, 1.1.0, Collaborative RPG consisting of user driven content, 2016-12-13T15:00:26+0000
+/project/insult/, insult, 0.4, Python bindings to LibInsult, 2019-04-17T15:37:56+0000
+/project/efb-gpg-middleware/, efb-gpg-middleware, 1.1.0, GPG middleware for EH Forwarder Bot, encrypts and decrypts messages., 2020-01-11T18:07:58+0000
+/project/webexteamssdk/, webexteamssdk, 1.6, Community-developed Python SDK for the Webex Teams APIs, 2020-07-13T15:24:11+0000
+/project/channeling/, channeling, 0.0.13, Channeling - a Discord bot., 2020-10-19T11:44:33+0000
+/project/hikari-yuyo/, hikari-yuyo, 0.0.2, A collection of utility classes and functions for use with Hikari, 2020-11-16T03:35:41+0000
+/project/skpy/, SkPy, 0.10.3, An unofficial Python library for interacting with the Skype HTTP API., 2021-02-05T19:18:20+0000
+/project/me2/, me2, 0.1a1, The bot for you!, 2010-12-23T02:51:08+0000
+/project/x3dh/, X3DH, 0.5.9, A python implementation of the Extended Triple Diffie-Hellman key agreement protocol., 2019-07-21T11:25:58+0000
+/project/cogwatch/, cogwatch, 2.1.0, Automatic hot-reloading for your discord.py command files., 2021-02-15T22:29:48+0000
+/project/girc/, girc, 0.4.0, A modern Python IRC library for Python 3.4, based on asyncio. In Development., 2019-01-04T23:16:06+0000
+/project/twistchat/, TwistChat, 0.1.1, Chatroom server written using Twisted, 2015-07-19T14:32:43+0000
+/project/stormbot-role/, stormbot-role, 1.5.0, role plugin for stormbot, 2018-07-16T11:04:33+0000
+/project/emotlib/, emotlib, 1.0.1, Python emoji + emoticon Library, 2018-06-17T14:25:29+0000
+/project/linphone4raspberry/, linphone4raspberry, 3.9.0, Linphone package for Python, 2016-03-11T23:49:00+0000
+/project/cipher-bot/, Cipher-Bot, 0.3.2, A multi-platform chat bot framework., 2018-03-25T00:47:39+0000
+/project/limnoria-linkrelay/, limnoria-linkrelay, 0.1, , 2020-05-08T17:10:55+0000
+/project/facebook-pybot/, Facebook_PyBot, 0.8b4, This is an Unofficial Facebook bot API in python. Facebook Bots can be build using this library., 2017-12-28T17:23:23+0000
+/project/slack-bulkdelete/, slack-bulkdelete, 1.1.0, keep your team under the file upload limit, 2017-06-27T18:58:15+0000
+/project/flameboi/, Flameboi, 0.0.2.dev0, Slack chat bot, 2020-07-10T21:36:34+0000
+/project/aemessenger/, aemessenger, 0.1.7, A sample Python socket messenger, 2017-12-15T10:34:30+0000
+/project/chatrelater/, ChatRelater, 0.4, Analyze and visualize relations between chat users., 2021-02-28T04:33:09+0000
+/project/errcron/, errcron, 0.4.4, Crontab implementation for Errbot, 2017-11-12T13:57:34+0000
+/project/dialogflow-lite/, dialogflow-lite, 0.0.6, A light-weight agent for Dialogflow., 2018-02-06T13:38:19+0000
+/project/depytg/, DepyTG, 4.0.0, The only Telegram bot library that does nothing, 2018-09-09T21:47:48+0000
+/project/kitnirc/, KitnIRC, 0.3.1, IRC bot framework, 2016-02-25T06:43:41+0000
+/project/mtweets/, mtweets, 0.4, An easy (and up to date) way to access Twitter data with Python., 2011-06-19T16:45:16+0000
+/project/cabot-discoball/, cabot-discoball, 0.1.0, The caBot Discoball Module., 2019-04-13T00:08:53+0000
+/project/botaclan/, botaclan, 0.1.0, Bataclan's official bot, 2020-05-16T21:01:23+0000
+/project/snsapi/, snsapi, 0.8.1, lightweight middleware for multiple social networking services, 2014-08-02T15:39:53+0000
+/project/matzip/, matzip, 0.0.1, Korean Restaurant Recommendation Library for Python, 2018-08-12T04:20:04+0000
+/project/efb-caiyun-weather-slave/, efb-caiyun-weather-slave, 0.0.1.dev4, EFB CaiYun Weather Slave Channel, 2020-09-16T05:43:34+0000
+/project/telegram-qq-bot/, telegram-qq-bot, 0.2.2, A telegram bot that forwards subscribed messages to telegram, 2017-10-23T12:15:17+0000
+/project/horse-lastfm/, horse-lastfm, 0.1.3, LastFM integration bridle for Horse, 2015-06-03T14:21:47+0000
+/project/telethon-cosmosdb-sqlsession/, telethon-cosmosdb-sqlsession, 0.1.1, A Telethon session storage that runs on Azure Cosmos DB (SQL API), 2021-02-10T22:06:04+0000
+/project/bot-irc/, bot-irc, 0.1, IRC bot, 2019-12-01T09:16:39+0000
+/project/telethon-aio/, Telethon-aio, 1.0, Full-featured Telegram client library for Python 3, 2018-06-27T11:46:09+0000
+/project/limnoria-attackprotector/, limnoria-attackprotector, 0.2, , 2020-05-08T17:09:46+0000
+/project/zirc/, zirc, 1.2.10, Python IRCP Library, 2018-09-12T17:18:28+0000
+/project/showdownpy/, showdownpy, 0.1.5, An extendable client for interacting with Pokemon Showdown, 2020-01-13T06:50:25+0000
+/project/opentok-python-sdk/, opentok-python-sdk, 0.91.2, A python wrapper for the OpenTok video chat APIs., 2013-07-18T23:38:26+0000
+/project/clip2zeus/, Clip2Zeus, 0.9d, Monitor your clipboard for URLs and automatically shorten them using 2Zeus, 2010-01-18T17:58:43+0000
+/project/synpurge/, synpurge, 4, Purges Matrix room history room using the HTTP API, 2017-01-05T23:35:36+0000
+/project/ludolph/, ludolph, 1.0.1, Monitoring Jabber Bot, 2017-07-20T11:12:05+0000
+/project/djehutysuddendeath/, djehutysuddendeath, 0.1.0, suddendeath generator for djehuty, 2014-10-05T05:00:26+0000
+/project/twitter/, twitter, 1.18.0, An API and command-line toolset for Twitter (twitter.com), 2017-10-20T08:14:20+0000
+/project/shellbot/, shellbot, 17.10.20, A bot that is also a responsive shell, 2017-10-20T22:25:07+0000
+/project/red-discordbot/, Red-DiscordBot, 3.4.9, A highly customisable Discord bot, 2021-04-06T01:58:21+0000
+/project/sopel-plugins-joinall/, sopel-plugins.joinall, 1.0.3, joinall plugin for Sopel, 2021-04-16T14:53:42+0000
+/project/pyomegle/, pyomegle, 1.7, Python API for Omegle webchat, 2020-08-31T03:36:31+0000
+/project/reme/, reme, 1.0.3, A Discord bot that reminds you of things, 2020-02-17T21:29:11+0000
+/project/pyirc/, PyIRC, 3.0b1, A Python IRC library, 2015-11-02T22:38:13+0000
+/project/stormbot-yocto-alert/, stormbot-yocto-alert, 1.2.2, yoctopuce plugin for stormbot, 2017-11-21T11:08:24+0000
+/project/helga-contrib-updates/, helga-contrib-updates, 1.0.4, A helga plugin to list and record IRC channel updates., 2014-04-04T00:47:41+0000
+/project/layabout/, layabout, 1.0.2, A small event handling library on top of the Slack RTM API., 2020-01-12T04:10:04+0000
+/project/dumbot/, dumbot, 1.5.3, dumb async telegram bot for python 3, 2019-10-14T10:43:16+0000
+/project/apiaiwebhook/, apiaiwebhook, 0.1.0.dev2, API.AI Webhook is a fulfillment microframework for API.AI based on Flask for getting started quickly with API.AI webhooks., 2017-06-19T21:47:55+0000
+/project/immp/, IMMP, 0.10.4, A modular processing platform for instant messages., 2021-04-16T19:36:22+0000
+/project/matrix-client-harmonyqt/, matrix-client-harmonyqt, 0.4.2.dev5, Client-Server SDK for Matrix - development fork, 2019-01-11T06:37:08+0000
+/project/pytest-discord/, pytest-discord, 0.0.7, A pytest plugin to notify test results to a Discord channel., 2021-03-20T15:43:46+0000
+/project/finger-balabolka/, Finger-balabolka, 1.0.25, A project of flood chat., 2017-12-09T11:16:34+0000
+/project/sopel-pypi/, sopel-pypi, 0.1.2, A Sopel 7.0+ plugin to show information about linked PyPI packages., 2020-10-14T04:09:18+0000
+/project/discordwebhook/, discordwebhook, 1.0.2, discordwebhlok is a python library         for discord webhook with discord rest api on Python 3.6 and above., 2021-04-08T05:54:50+0000
+/project/wxpy/, wxpy, 0.3.9.8, 微信机器人 / 可能是最优雅的微信个人号 API, 2017-06-27T17:37:33+0000
+/project/mautrix/, mautrix, 0.9.1, A Python 3 asyncio Matrix framework., 2021-04-20T11:49:41+0000
+/project/slack-machine-plugins/, slack-machine-plugins, 0.1.1, Utility plugins for Slack-Machine, the sexy, simple, yet powerful and extendable Slack bot, 2021-02-22T01:18:13+0000
+/project/discord-hero/, discord-hero, 0.1.0b8, discord-hero is an asynchronous, fully modular Discord bot framework that comes with batteries included, allowing you to write powerful Discord applications easily and quickly., 2020-06-25T16:49:16+0000
+/project/akad/, akad, 0.11.1, , 2018-01-14T21:22:27+0000
+/project/aioopenssl/, aioopenssl, 0.6.0, TLS-capable transport using OpenSSL for asyncio, 2021-01-16T13:22:36+0000
+/project/katex/, katex, 0.0.4, Convert an image into KaTeX to use in Facebook Messenger, 2018-09-29T22:02:53+0000
+/project/aiml/, aiml, 0.9.2, An interpreter package for AIML, the Artificial Intelligence Markup Language, 2018-12-05T14:18:57+0000
+/project/surfcity/, surfcity, 0.1.7, A family of Python clients for Secure Scuttlebutt, 2019-04-08T10:35:04+0000
+/project/le/, le, 1.0.16, A silly chatbot for telegram., 2018-03-24T23:56:20+0000
+/project/telegram-autoposter/, telegram-autoposter, 0.3, Goal of this library is to simplify creation of bots for automatic data posting into telegram channels. Based on python-telegram-bot., 2017-08-21T19:39:32+0000
+/project/twx-botapi/, twx.botapi, 3.6.2, Unofficial Telegram Bot API Library and Client, 2018-05-27T06:41:10+0000
+/project/slack-webhook/, slack-webhook, 1.0.6, slack-webhook is a python client library for slack api         Incoming Webhooks on Python 3.6 and above., 2021-04-08T05:40:38+0000
+/project/python-omegle/, python-omegle, 1.1.6, A simple Python API for the Omegle text chat service, 2018-07-14T20:32:11+0000
+/project/anbot/, ANBOT, 3.1.0, A highly customisable Discord bot, 2019-05-14T23:02:11+0000
+/project/kik-desktop/, kik-desktop, 0.0.3, Kik Desktop, 2017-12-03T19:16:29+0000
+/project/slacksecrets/, slacksecrets, 0.1.0a1, Uncover credentials, API tokens, and other sensitive content in your Slack instance., 2020-02-11T05:38:26+0000
+/project/tord/, tord, 0.4.0, Asynchronous Websocket + Pubsub based web framework built over Tornado, Redis, ZMQ, SockJS, 2014-05-19T04:43:43+0000
+/project/telegram-rss/, telegram-rss, 0.8.1, Fetch rss and send the latest update to telegram., 2021-03-05T13:17:00+0000
+/project/mplugins/, mplugins, 0.0.1rc2, A utility tool for Discord Modmail plugins, 2019-02-10T20:35:52+0000
+/project/pycri/, pycri, 0.3, IRC-bot, 2011-03-14T13:30:49+0000
+/project/mleap/, mleap, 0.16.1, MLeap Python API, 2020-07-06T13:01:23+0000
+/project/fbemissary/, fbemissary, 0.0.2, A bot framework for the Facebook Messenger platform, built on asyncio and aiohttp, 2017-05-21T20:22:16+0000
+/project/helga-giphy/, helga-giphy, 0.1.1, A command plugin to search giphy for an anmiated gif., 2015-03-04T23:54:46+0000
+/project/jambottle/, jambottle, 1.0.0, A bot that announces new itch.io jam entries to a discord channel, 2020-11-03T09:35:42+0000
+/project/dhooks-lite/, dhooks-lite, 0.6.1, Another simple class wrapper for interacting with Discord webhooks in Python 3, 2021-01-04T00:30:52+0000
+/project/umr-mirai-driver/, umr-mirai-driver, 0.5, UMR Mirai Driver, 2020-05-09T04:55:50+0000
+/project/django-push2/, django-push2, 0.3.12, Django push engine for web application, 2012-02-19T18:52:40+0000
+/project/discord-autorooms/, discord-autorooms, 4.1.0, Zero Config Autoroom Discord Bot, 2020-10-30T21:28:21+0000
+/project/mara/, mara, 0.6.3, A framework for network services, talkers and MUDs, 2018-10-06T07:20:41+0000
+/project/teladduser/, teladduser, 0.1.0, This is a CLI with the aim to add new users from a spreadsheet at a Telegram supergroup., 2020-10-26T20:54:22+0000
+/project/kakaobot-py/, kakaobot.py, 1.1, API wrapper for Kakaotalk written in Python., 2018-08-27T06:02:25+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/dpymenus/, dpymenus, 1.3.1, Simplified menus for discord.py developers., 2021-01-22T18:30:48+0000
+/project/linkedin/, linkedin, 0.1.5, A Python Library to interface with LinkedIn API, OAuth and JSON responses, 2013-03-21T19:34:03+0000
+/project/circuits/, circuits, 3.2.1, Asynchronous Component based Event Application Framework, 2020-10-30T01:44:05+0000
+/project/asynctwitch/, asynctwitch, 4.2.1, Asynchonous wrapper for twitch IRC3, 2017-08-12T09:13:11+0000
+/project/lastsoul/, lastSoul, 1.0.1, Python (not yet)full scale client for IONIS's students (EPITECH/EPITA/etc), 2012-05-27T21:23:44+0000
+/project/python-smartqq-client/, python-smartqq-client, 0.4.10, A simple smartqq client implemented with python to be used as component in other projects, 2017-10-23T09:40:34+0000
+/project/helga-mud/, helga-mud, 0.1.1, UNKNOWN, 2014-09-15T21:22:25+0000
+/project/cagou/, cagou, 0.7.0, Desktop/Android frontend for Salut à Toi XMPP client, 2019-07-24T19:13:22+0000
+/project/muirc/, muirc, 1.0, Micro IRC client, 2012-01-16T14:16:04+0000
+/project/pybelieva/, pybelieva, 0.0.2, Python wrapper for UnbelievaBoat API, 2019-09-10T18:23:43+0000
+/project/circuit-webhook/, circuit-webhook, 1.0.1, circuit-webhook is a python client library for Unify Circuit api         Incoming Webhooks on Python 3.6 and above., 2020-05-14T07:29:25+0000
+/project/telebot-utils/, telebot-utils, 0.0.8, Utils for pyTelegramBotAPI module, 2020-12-05T14:36:52+0000
+/project/python-kubernetes/, python-kubernetes, 0.2, A Python wrapper around the Kubernetes API, 2015-02-05T19:54:55+0000
+/project/bigslacker/, bigslacker, 0.1.1, Slack RTM Client, 2016-01-25T10:10:59+0000
+/project/autoit/, autoit, 0.2.3, Automate it with Python, 2021-04-24T11:55:50+0000
+/project/matrix-bot/, matrix-bot, 0.15.6, A matrix.org bot, 2017-11-19T17:50:45+0000
+/project/hikari-tanjun/, hikari-tanjun, 1.0.1a3, A flexible command client designed to extend Hikari, 2021-01-17T20:39:43+0000
+/project/hattifnatt/, hattifnatt, 0.2.1, Push directory to Telegram channel, 2019-04-23T13:14:07+0000
+/project/efb-link-preview-middleware/, efb-link-preview-middleware, 0.1.0, WeChat Middleware of EH Forwarder Bot for link preview, 2020-12-31T07:51:07+0000
+/project/helga-team/, helga-team, 1.0.2, Team plugin to track candidates and interview process, 2017-08-10T17:28:46+0000
+/project/helga-wiki-whois/, helga-wiki-whois, 0.1.0, A helga command to generate confluence-type URLs for users, 2015-03-04T13:17:05+0000
+/project/brutal/, brutal, 0.3.3, a multi-network asynchronous chat bot framework using twisted., 2013-05-14T00:30:05+0000
+/project/telethon-secret-chat/, telethon-secret-chat, 0.2.4, Telethon secret chat plugin, 2020-11-29T12:54:35+0000
+/project/chathub-base/, chathub-base, 2.0.2, ChatterBot is a machine learning, conversational dialog engine., 2020-10-07T04:46:01+0000
+/project/helga-reviewboard/, helga-reviewboard, 0.2.0, A helga plugin for expanding shortcodes for code reviews on ReviewBoard, 2015-04-06T13:13:15+0000
+/project/nekbot-protocols-irc/, nekbot.protocols.irc, 0.1.0.16, IRC Protocol for Nekbot, a modular multiprotocol bot., 2015-05-23T16:26:17+0000
+/project/tglex/, tglex, 0.2.1, Lexical analysis base for telegram bots, 2020-03-29T01:44:53+0000
+/project/sxrobot/, sxrobot, 1.0.0.dev1, A wechat robot, 2017-05-19T08:00:21+0000
+/project/indico-plugin-chat/, indico-plugin-chat, 2.2, XMPP chat integration for Indico, 2019-08-06T14:20:29+0000
+/project/messengerwrapper/, messengerwrapper, 0.0.1.dev1, An unofficial Facebook Messenger Wrapper for Python., 2018-07-03T06:09:19+0000
+/project/slackmentions/, slackmentions, 0.1.2, Some functions for dealing with mentions in slack messages, 2017-08-23T07:21:07+0000
+/project/markovpy/, MarkovPy, 0.5.14, A simple Markovchain-Implementation, 2016-08-13T17:08:14+0000
+/project/twx/, twx, 0.5a5, Abstraction Layer Over Telegram's Bot API and MTProto Chat Potocols, 2015-06-30T01:35:08+0000
+/project/efb-wechat-basic-slave/, efb-wechat-basic-slave, 0.0.2, WeChat Slave Channel for EH Forwarder Bot, working with WeChat macOS Hook., 2018-12-29T08:04:39+0000
+/project/helga/, helga, 1.7.13, A full-featured chat bot for Python 2.7 with plugin support, 2019-03-21T18:12:58+0000
+/project/limnoria-markovgen/, limnoria-markovgen, 0.0.0, , 2020-05-08T17:11:24+0000
+/project/karel/, karel, 1.3.0, Karel dataset for program synthesis and program induction, 2017-12-21T16:06:51+0000
+/project/manatee/, manatee, 0.0.0, GNU Social server based on async Python 3, 2017-04-08T03:21:47+0000
+/project/telegram-send/, telegram-send, 0.25, Send messages and files over Telegram from the command-line., 2020-02-19T20:51:15+0000
+/project/helga-flip/, helga-flip, 0.1.0, Helga plugin to flip words, 2014-08-15T20:41:50+0000
+/project/irc3/, irc3, 1.1.7, plugable irc client library based on asyncio with DCC and SASL support, 2021-02-13T09:51:22+0000
+/project/efb-search-msg-middleware/, efb-search-msg-middleware, 0.1.0, WeChat Middleware for EH Forwarder Bot to search messages, 2020-12-31T07:59:42+0000
+/project/packpath/, packpath, 0.9.4, Automatically upload Signal stickers from a given path and YAML configuration, 2021-03-15T03:34:46+0000
+/project/python-telegram-payment-bot/, python-telegram-payment-bot, 11.1.2, We have made you a wrapper you can't refuse, 2019-08-31T10:21:45+0000
+/project/djehutylgtm/, djehutylgtm, 0.0.1, djehutylgtm, 2014-08-17T11:09:24+0000
+/project/aioxmpp/, aioxmpp, 0.12.2, Pure-python XMPP library for asyncio, 2021-02-27T15:14:20+0000
+/project/python-flickr/, python-flickr, 0.3.2, A Python Library to interface with Flickr REST API, OAuth & JSON Responses, 2014-06-07T15:38:21+0000
+/project/starzel-whoiscalling/, starzel.whoiscalling, 0.0.2, Retrieve calling info from Fritzbox, expose to jabber Multi User Chatroom, 2013-04-26T14:55:32+0000
+/project/blackbox/, blackbox, 0.7.1, A Python module to abstract and encapsulate the IRC protocol, 2013-02-09T01:25:01+0000
+/project/h2o-wave/, h2o-wave, 0.13.0, Python driver for H2O Wave Realtime Apps, 2021-03-06T05:47:48+0000
+/project/xmppwb/, xmppwb, 0.5.0, XMPP Webhook Bridge, 2016-10-23T13:34:52+0000
+/project/devltype/, DevLType, 0.5.0, MyType, 2019-04-25T16:26:11+0000
+/project/pyxmpp2-scram/, pyxmpp2_scram, 2.0.2, SCRAM implementation from PyXMPP2, 2017-11-16T17:24:07+0000
+/project/aiootp/, aiootp, 0.19.4, aiootp - an asynchronous pseudo-one-time-pad based crypto and anonymity library., 2021-04-23T13:48:59+0000
+/project/slackminion-mysql/, slackminion-mysql, 0.1.0, Provides a MySQL state handler for slackminion, 2016-04-10T14:40:43+0000
+/project/aioirc/, aioirc, 0.1, AsyncIO IRC Library for >= Python 3.3, 2014-09-24T06:25:57+0000
+/project/curveline/, curveline, 0.1.0, UNKNOWN, 2015-06-28T14:28:26+0000
+/project/helga-oneliner/, helga-oneliner, 0.1.0, A helga match plugin with a large amount of canned responses for a variety of regular expressions., 2015-03-04T16:46:25+0000
+/project/livebridge-slack/, livebridge-slack, 0.6.0, Livebridge adapter for Slack., 2018-10-04T17:52:58+0000
+/project/livebridge-tickaroo/, livebridge-tickaroo, 0.0.18, Livebridge adapter for Tickaroo., 2021-01-05T14:32:10+0000
+/project/pyrubrum/, Pyrubrum, 0.1a3, An intuitive framework for creating Telegram bots, 2020-08-26T12:18:04+0000
+/project/sugaroid-chatterbot/, sugaroid-chatterBot, 2.0.0, ChatterBot is a machine learning, conversational dialog engine optimized for Sugaroid bot., 2020-04-02T06:53:51+0000
+/project/aichat/, aichat, 0.0.5, A AI virtual assistant chatbot, 2018-05-14T11:19:26+0000
+/project/helga-spook/, helga-spook, 1.1.5, prints nsa buzzwords, 2014-09-15T21:09:51+0000
+/project/emoji-country-flag/, emoji-country-flag, 1.2.4, En/Decode unicode country flags emoji, 2021-03-15T19:46:43+0000
+/project/hangups/, hangups, 0.4.14, the first third-party instant messaging client for Google Hangouts, 2021-04-18T21:17:32+0000
+/project/discirc/, discirc, 0.6, A Discord to IRC gateway, 2019-02-05T08:00:01+0000
+/project/pytgbot/, pytgbot, 5.1, Connect to the Telegram Bot API, receive and send Telegram messages., 2021-03-25T12:58:45+0000
+/project/m2websocket/, m2websocket, 0.2.2, Makes websockets with Mongrel2 and Python super easy, 2014-08-02T21:19:25+0000
+/project/matrix-synapse-jitsi/, matrix-synapse-jitsi, 1.15.1.5, Reference homeserver for the Matrix decentralised comms protocol, 2020-07-02T15:41:25+0000
+/project/supybot/, supybot, 0.84.0, A flexible and extensible Python IRC bot and framework., 2018-05-10T00:44:10+0000
+/project/patter/, patter, 0.2.1, Pipe stdout directly to Mattermost channels or users., 2018-07-29T17:11:34+0000
+/project/chatopera/, chatopera, 2.0.0, 定制化聊天机器人服务, 2020-07-22T14:16:23+0000
+/project/pircel/, pircel, 0.3.4, Simple IRC client library, 2015-09-26T01:48:34+0000
+/project/steamscordbot/, steamscordbot, 0.2.2, Discord bot calling Steam Web API on command, 2020-10-17T01:10:45+0000
+/project/soucevi1-dist-chat/, soucevi1-dist-chat, 0.1.6, Distributed chat based on Chang-Roberts algorithm, 2019-01-22T13:39:30+0000
+/project/as-easy-as-pie/, as-easy-as-pie, 0.51, Really easy, 2021-01-05T09:05:56+0000
+/project/stormbot-say/, stormbot-say, 1.2.1, text to speech plugin for stormbot, 2017-11-16T15:17:28+0000
+/project/slackly/, slackly, 1.0.7, A full featured python Slack API SDK, 2017-06-04T01:20:06+0000
+/project/python-tumblpy/, python-tumblpy, 1.1.4, A Python Library to interface with Tumblr v2 REST API & OAuth, 2017-02-08T22:01:53+0000
+/project/ludolph-skeleton/, ludolph-skeleton, 1.3, Ludolph: Skeleton plugin, 2015-05-12T22:42:22+0000
+/project/aiotgsdk/, aiotgsdk, 0.0.1, Python Telegram SDK to help make asynchronous requests to Telegram API, 2021-03-15T22:29:54+0000
+/project/django-google-oauth/, django-google-oauth, 1.0.4, Django Integration for Google+ OAuth2, 2014-06-23T14:39:26+0000
+/project/ad1459/, ad1459, 1.19.0, An IRC Client, 2020-02-26T23:16:49+0000
+/project/chatterbot/, ChatterBot, 1.0.8, ChatterBot is a machine learning, conversational dialog engine., 2020-08-22T18:40:36+0000
+/project/chiron-bot/, chiron-bot, 0.9.1, Chat bot that can look up ticket numbers on bugtrackers and return their names, 2021-02-06T03:19:49+0000
+/project/line/, line, 0.8.2, May the LINE be with you..., 2016-11-21T04:46:08+0000
+/project/opendebates/, opendebates, 0.1.0a15, Rating System Bot for Open Debates Discord Server, 2021-02-13T12:53:56+0000
+/project/omgircd3/, omgircd3, 1.0.0, A Python3 IRC server/daemon, 2017-11-16T21:59:11+0000
+/project/pytg/, pytg, 0.4.10, Connect to the Telegram CLI, receive and send Telegram messages., 2016-04-03T02:42:44+0000
+/project/slackhandler/, slackhandler, 0.1.2, Extends Python's base logging Handler to emit logs to Slack, 2017-05-21T00:15:47+0000
+/project/amanobot/, amanobot, 2.1.0, Python framework for Telegram Bot API forked from Telepot, 2021-04-22T18:29:33+0000
+/project/limnoria-webstats/, limnoria-webstats, 0.5, , 2020-10-07T17:45:25+0000
+/project/bottom/, bottom, 2.2.0, asyncio-based rfc2812-compliant IRC Client, 2020-08-06T17:02:26+0000
+/project/pyxmpp-last/, pyxmpp-last, 1.1.1, XMPP/Jabber implementation for Python. Fork of pyxmpp., 2010-10-26T05:05:40+0000
+/project/pysvnbot/, pysvnbot, 0.0.4, Subversion commit log tracking bot, 2007-12-02T15:25:13+0000
+/project/umr-extensions-demo/, umr-extensions-demo, 0.2, UMR Extensions Demo, 2020-04-26T02:54:08+0000
+/project/err/, err, 3.2.0, Errbot is a chatbot designed to be simple to extend with plugins written in Python., 2015-11-14T00:24:32+0000
+/project/zulip-beta/, zulip-beta, 0.2.5, Bindings for the Zulip message API, 2017-05-21T20:58:31+0000
+/project/openwa/, openwa, 1.3.11, A python interface for Whatsapp Web, 2020-12-13T19:46:00+0000
+/project/auto-translation/, auto-translation, 0.1.5, A simple python library used to translate and speak a given text from the user with Google Translation using user's Chrome browser., 2021-01-05T16:12:05+0000
+/project/sat-tmp/, sat-tmp, 0.7.0, Salut à Toi temporary third party patches, 2019-07-24T18:30:16+0000
+/project/pyweechat/, pyweechat, 0.2, Python library for communicating with an weechat irc relay, 2017-04-12T23:11:10+0000
+/project/devlfunia/, DevLFunia, 1.0.1, PhotoFunia Wraper For Python, 2019-04-26T02:36:48+0000
+/project/chatbot/, chatbot, 1.5.2b, Allows users on wikia wikis to create a chatbot for Special:Chat, 2013-05-19T17:43:06+0000
+/project/tgsend/, tgsend, 0.3.1, Send messages to Telegram chats from Python and the command line, 2021-04-19T19:09:32+0000
+/project/ringcentral-async-client/, ringcentral-async-client, 1.0.3, Asynchronous client for the RingCentral Platform, based on Tornado and generated via Python OpenAPI Parser, 2020-10-15T15:48:56+0000
+/project/botexbotbase/, BotEXBotBase, 3.1.3, A highly customisable Discord bot, 2019-02-18T08:54:19+0000
+/project/jackfruit/, jackfruit, 0.12, Generic views for python-telegram-bot, 2019-10-13T16:52:03+0000
+/project/sat/, sat, 0.7.0, Salut à Toi multipurpose and multi frontend XMPP client, 2019-07-24T18:13:28+0000
+/project/maubot/, maubot, 0.1.0, A plugin-based Matrix bot system., 2020-10-04T11:09:41+0000
+/project/efb-mp-instantview-middleware/, efb-mp-instantview-middleware, 0.3.1, WeChat Middleware of EH Forwarder Bot to enable instant        view for official accounts' articles, 2020-12-31T12:00:28+0000
+/project/sopel-dns/, sopel-dns, 0.3.1, A DNS lookup plugin for Sopel IRC bots, 2021-03-05T07:33:40+0000
+/project/horse-nonsense/, horse-nonsense, 0.1.4, Stupid, silly, fun and distracting bridles for Horse, 2015-06-03T16:41:05+0000
+/project/limnoria-github/, limnoria-github, 0.1, , 2020-05-08T16:55:12+0000
+/project/hipcat/, hipcat, 0.1.0, Pipe text to HipChat, 2016-09-29T09:51:53+0000
+/project/helga-versionone/, helga-versionone, 0.1.10, VersionOne interface for helga chat bot, 2017-01-30T15:13:58+0000
+/project/fbchat-asyncio/, fbchat-asyncio, 0.6.21, Facebook Messenger library for Python/Asyncio., 2020-12-01T22:38:14+0000
+/project/artie/, artie, 0.1.1, IRC utility robot framework for Python, 2010-08-28T08:55:52+0000
+/project/umr-coolq-driver/, umr-coolq-driver, 0.3.1, UMR Coolq Driver, 2020-05-08T03:16:42+0000
+/project/helga-urbandictionary/, helga-urbandictionary, 2.0.0, looks up definitions for words on urban dictionary, 2017-05-17T19:14:55+0000
+/project/slackminion/, slackminion, 1.1.1, A python bot framework for slack, 2021-03-25T22:51:03+0000
+/project/discover-overlay/, discover-overlay, 0.3.3, Voice chat overlay, 2020-10-23T12:14:34+0000
+/project/matrix-registration/, matrix-registration, 0.9.1.post1, token based matrix registration app, 2021-04-23T10:47:51+0000
+/project/botshot/, botshot, 0.1.4, A framework for creating stateful chatbots on Django., 2019-06-10T12:53:12+0000
+/project/pyfibot/, pyfibot, 0.9.5, Python IRC bot based on twisted.words.irc, 2015-12-28T17:04:51+0000
+/project/helga-pull-requests/, helga-pull-requests, 0.0.5, A helga plugin to quickly link to github pull requests., 2015-04-20T21:11:59+0000
+/project/unmessage/, unmessage, 0.2.0, Privacy enhanced instant messenger, 2017-05-12T04:08:30+0000
+/project/mattermost-log-handler/, mattermost_log_handler, 0.0.2, Posts log events to Mattermost via webhook, 2017-03-15T10:06:29+0000
+/project/zonebot/, zonebot, 1.0, A Slack bot to interact with ZoneMinder, 2016-09-11T04:34:59+0000
+/project/python-slippery/, python-slippery, 1.0.0, A library for interacting with the slippery.email website, 2016-08-14T15:16:23+0000
+/project/mautrix-hangouts/, mautrix-hangouts, 0.1.4, A Matrix-Hangouts puppeting bridge., 2020-11-09T23:02:43+0000
+/project/emojirades/, Emojirades, 0.14.0, A Slack bot that understands the Emojirades game!, 2021-02-25T03:23:39+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/wyze-sdk/, wyze-sdk, 1.0.1, The Wyze Labs API Platform SDK for Python., 2021-04-23T12:29:58+0000
+/project/discord-gui/, discord.gui, 1.0.2, A discord.py extension providing a GUI interface to monitor the bot and modify command settings, 2019-04-18T21:48:23+0000
+/project/image-charts/, image-charts, 5.6.10, Official Image-Charts.com API client library, 2020-11-15T19:56:04+0000
+/project/royalnet/, royalnet, 6.5.5, A multipurpose bot framework, 2021-04-26T01:51:24+0000
+/project/stormbot-fortune/, stormbot-fortune, 1.2.1, fortune plugin for stormbot, 2017-11-16T14:19:28+0000
+/project/antbot/, antbot, 0.1.8, A slack chat bot doing scripts on the server, 2019-08-24T12:32:24+0000
+/project/gyr/, gyr, 0.2.0, A python framework for building matrix application services, 2017-05-08T01:38:16+0000
+/project/sopel-spellcheck/, sopel-spellcheck, 0.0.2, Spellcheck plugin for Sopel IRC bots, 2019-12-15T02:06:45+0000
+/project/helga-meet/, helga-meet, 1.1.1, System for asynchronous meetings e.g. standup, 2016-12-20T15:43:00+0000
+/project/limoo-sdk/, limoo-sdk, 0.1.5, An SDK to work with Limoo, 2021-02-04T11:29:37+0000
+/project/boty/, boty, 0.1.1, Time Flies, 2012-03-10T12:12:15+0000
+/project/sensu-handler-rocketchat/, sensu-handler-rocketchat, 0.1.0, A sensu plugin to send events to rocketchat., 2017-12-19T13:20:05+0000
+/project/otfbot/, otfbot, 1.0.0, a modular IRC-Bot, 2011-04-22T10:56:32+0000
+/project/pyrogram/, Pyrogram, 1.2.9, Telegram MTProto API Client Library and Framework for Python, 2021-04-15T07:54:00+0000
+/project/errbot/, errbot, 6.1.7, Errbot is a chatbot designed to be simple to extend with plugins written in Python., 2020-12-19T05:32:34+0000
+/project/synadm/, synadm, 0.29, Command line admin tool for Synapse (Matrix reference homeserver), 2021-04-19T07:36:48+0000
+/project/lowerpines/, lowerpines, 0.6.0, Library wrapper for GroupMe API, 2019-09-17T16:10:45+0000
+/project/jsb/, jsb, 1.0, The bot for you!, 2014-01-21T02:36:22+0000
+/project/easykvchat/, easykvchat, 1.0.0, Ensemble client/serveur d'un système de messagerie., 2020-10-18T14:59:04+0000
+/project/sopel-plugins-adminlist/, sopel-plugins.adminlist, 1.0.6, Adminlist plugin for Sopel, 2021-04-16T14:07:28+0000
+/project/helga-meant-to-say/, helga-meant-to-say, 0.1.0, A helga plugin that lets users correct what they said, like using s/foo/bar, 2015-03-04T20:43:55+0000
+/project/gramhopper/, gramhopper, 2.0.1, A bot platform for automatic responses based on various triggers, 2019-06-07T11:28:43+0000
+/project/bothub-cli/, bothub-cli, 0.1.20, A CLI tool for bothub.studio service, 2018-11-22T04:42:04+0000
+/project/between/, between, 0.2.7, Between of VCNC for Python, 2015-05-06T09:10:26+0000
+/project/gimei/, gimei, 0.2.3, generates the name and the address at random., 2019-03-21T16:27:20+0000
+/project/botmother/, BotMother, 1.0.0, A new perspective over python-telegram-bot API, 2018-08-04T13:51:54+0000
+/project/pyromancer/, Pyromancer, 1.0, Simple framework for creating IRC bots, 2014-10-18T20:08:59+0000
+/project/helga-jira/, helga-jira, 0.1.4, A helga plugin that can be used to store responses that can be returned from a question, 2017-08-31T19:12:54+0000
+/project/helga-quip/, helga-quip, 1.2.0, Match quips and other witticisms, 2016-12-13T03:12:15+0000
+/project/slackcat/, slackcat, 2.0.0, Pipe command output to Slack from your terminal!, 2017-09-01T13:53:22+0000
+/project/synapse-diaspora-auth/, synapse-diaspora-auth, 0.2.2, A Diaspora* auth provider for Synapse, 2020-06-24T17:02:51+0000
+/project/pyircserver/, pyIrcServer, 0.0.5.0-Alpha, Powerful, very personalizable and multiplatform IRCd, 2005-06-07T11:31:26+0000
+/project/django-bot/, django-bot, 0.2.2, A lightweight django framework for bots, 2017-06-04T05:02:13+0000
+/project/virtualenvwrapper-nekbot/, virtualenvwrapper.nekbot, 0.1.0.11, Virtualenvwrapper installer for NekBot project, a multiprotocol bot., 2015-04-29T21:03:29+0000
+/project/jtransliterate/, jTransliterate, 1.0.3, Transliterate [Hirag/Katak]ana to Latin/English and back. Convert half/full-width Japanese text., 2012-04-11T12:38:56+0000
+/project/dialogue-opentok/, dialogue-opentok, 2.10.0, OpenTok server-side SDK, 2019-04-26T21:01:58+0000
+/project/prom2teams/, prom2teams, 3.2.1, Project that redirects Prometheus Alert Manager notifications to Microsoft Teams, 2021-02-18T13:17:00+0000
+/project/orgassist/, orgassist, 0.4.0, Assistant who handles your appointments, tasks and note-taking when you're away from your computer, 2018-06-08T06:54:12+0000
+/project/yuuki-core/, yuuki-core, 6.5.2, The LINE Protocol for Star Yuuki BOT, 2020-06-14T09:47:16+0000
+/project/rchat/, rchat, 0.0.2, A simple RocketChat command line client, 2020-05-18T00:53:58+0000
+/project/python-smooch/, python-smooch, 1.0.4, A Python wrapper for the Smooch API, 2018-10-31T22:38:27+0000
+/project/pepubot/, pepubot, 0.1.0, Friday Bottle Lottery Bot for Slack, 2019-10-10T22:35:35+0000
+/project/botstory/, botstory, 0.1.5, Async framework for bots, 2017-10-14T20:55:09+0000
+/project/slack-time/, slack-time, 0.1.5, A simple, intuitive and fast Slack API client for the Slack Web API, 2020-09-30T20:39:28+0000
+/project/djabberdjaw/, djabberdjaw, 0.1, A Jabber bot with a Django-backend for user management, 2008-09-23T02:50:02+0000
+/project/statusnet/, statusnet, 0.1.1, A StatusNet library for Python., 2013-01-27T18:45:15+0000
+/project/limnoria-trigger/, limnoria-trigger, 0.1, , 2020-05-08T17:11:37+0000
+/project/interstat/, interstat, 0.2.2, An HTML formatter for IRC log files, 2015-07-16T22:17:44+0000
+/project/dline/, dline, 2.4.1, A feature-rich terminal discord client, 2018-11-07T19:28:18+0000
+/project/ybai/, ybai, 0.0.5, 个人测试AI, 2017-03-27T07:02:41+0000
+/project/twitchat/, twitchat, 1.4.1, A simple Twitch chat bot that gives you the option to run complicated commands, to an extent that other bots don't allow., 2020-08-01T19:27:17+0000
+/project/tl/, tl, 0.5, T I M E L I N E - RL events tracking software, 2012-11-10T00:13:06+0000
+/project/slackclient/, slackclient, 2.9.3, Slack API clients for Web API and RTM API, 2020-10-22T00:34:16+0000
+/project/slackviews/, slackviews, 1.1.2, Project with a library to generate Slack views from code, using builder pattern, 2020-10-09T22:49:18+0000
+/project/cslbot/, CslBot, 0.21, An easily extensible, modular irc bot., 2016-09-18T06:09:14+0000
+/project/intercept-py/, intercept.py, 0.2.0, Python library for intercept, a game by bubmet, 2018-12-27T21:24:45+0000
+/project/livebridge/, livebridge, 0.27.0, Keep content in-sync across services. Or simply syndicate content to multiple services. Based on asyncio., 2018-11-22T13:48:03+0000
+/project/tgcrypto/, TgCrypto, 1.2.2, Fast Telegram Crypto Library for Python, 2020-10-23T15:02:49+0000
+/project/smartbot/, smartbot, 1.0, The most smart bot in telegram and slack, 2015-12-22T02:26:46+0000
+/project/pywamg/, PyWaMG, 1.1.3, PyWaMG - WhatsApp Automator Bot, 2021-03-17T16:19:36+0000
+/project/cslbot-tjhsst/, cslbot-tjhsst, 0.4, TJHSST-specific commands for CslBot., 2016-12-04T04:37:51+0000
+/project/tweethon/, tweethon, 0.8.1, A python wrapper around the Twitter API.  Updated often and drop in replacement for twitter-python (aka its a fork), 2009-09-30T01:08:38+0000
+/project/ppmail/, ppmail, 2.2.2, Tool to send messages via Sendgrid/Slack, 2019-09-13T12:05:36+0000
+/project/grailmud/, grailmud, 0.1a3, A Python MUD server, 2007-03-11T23:29:29+0000
+/project/kaoz/, kaoz, 2.1.0, A simple IRC notifier bot., 2013-12-08T12:03:35+0000
+/project/textnow-bot/, textnow-bot, 1.0.6, Send text messages on TextNow with the Playwright API, 2021-02-07T23:41:10+0000
+/project/landa-chatterbot-corpus/, landa-chatterbot-corpus, 1.2.0, A machine readable multilingual dialog corpus, 2018-12-22T20:25:45+0000
+/project/chatterbot-voice/, chatterbot-voice, 0.1.5, A voice interface adapter for ChatterBot., 2017-10-08T15:08:42+0000
+/project/tgsdk/, tgsdk, 1.0.12, Python Telegram SDK to help make requests to Telegram API, 2021-04-15T08:30:10+0000
+/project/gdelt/, gdelt, 0.1.10.6, Python based framework to retreive Global Database of, 2018-10-20T20:10:43+0000
+/project/omemo/, OMEMO, 0.12.0, A Python implementation of the OMEMO Multi-End Message and Object Encryption protocol., 2020-03-28T18:42:06+0000
+/project/seshat/, Seshat, 0.3.1, Sessioned chat system linking Ajax web interfaces with internal Jabber services, 2011-06-06T19:34:43+0000
+/project/twitterxauth/, twitterxauth, 0.1.0dev, thin wrapper module for xAuth twitter.com, 2014-09-25T14:54:47+0000
+/project/irctest/, irctest, 0.1.2, A script to test interoperability of IRC software., 2017-12-10T19:21:53+0000
+/project/finger-balabolka-server/, Finger-balabolka-Server, 1.0.19, A alfa project of flood chat., 2017-12-09T11:00:21+0000
+/project/pytdlib/, Pytdlib, 0.1.8, Telegram TDLib Client Library for Python, 2019-05-31T02:51:04+0000
+/project/aiomessaging/, aiomessaging, 0.2, Python asyncio messaging Framework, 2018-07-09T19:41:00+0000
+/project/xchatbot/, xchatbot, 0.3.1, the Xtensible XMPP Chat Bot, 2020-04-26T13:56:23+0000
+/project/microsoftbotframework/, microsoftbotframework, 0.3.3, A wrapper for the microsoft bot framework API, 2018-07-03T02:31:22+0000
+/project/pypresence/, pypresence, 4.2.0, Discord RPC client written in Python, 2021-02-01T02:24:15+0000
+/project/tinybot/, tinybot, 1.0.0, Very simple yet flexible Telegram Bot API, 2018-06-10T18:06:18+0000
+/project/luckystrike/, luckystrike, 0.11, IRC to Campfire Bridge, 2014-04-21T22:54:39+0000
+/project/cordgears/, cordgears, 0.1.5.post2, A simple discord bot engine, 2018-12-04T21:08:07+0000
+/project/synapse-ldap-password-provider/, synapse_ldap_password_provider, 1, LDAP3 password provider for Synapse, 2017-06-13T05:36:28+0000
+/project/wyvern/, wyvern, 0.1.0, Python 3k wrapper for the Twitter API, 2013-02-26T02:13:26+0000
+/project/jeev-modules/, jeev-modules, 0.0.2, Modules for Jeev, 2014-09-07T06:54:23+0000
+/project/slackers/, slackers, 1.0.0, Slack webhooks API served by FastAPI, 2020-11-14T13:53:17+0000
+/project/requests-facebook-py3/, requests-facebook-py3, 0.2.1, A Python Library to interface with Facebook Graph API, 2015-10-21T09:25:58+0000
+/project/ciclopibot/, ciclopibot, 1.2.5, Telegram bot based on `davtelepot` providing information about CicloPi, the public bike-sharing service in Pisa., 2020-12-16T09:07:44+0000
+/project/ludolph-erigones/, ludolph-erigones, 2.0, Ludolph: Erigones SDDC API plugin, 2015-05-13T08:48:45+0000
+/project/connectio/, connectIO, 0.0.3, A simple module for sending data across the internet!, 2020-01-30T21:20:47+0000
+/project/djehuty/, djehuty, 0.0.7, POST web hook manager, 2014-10-08T09:30:51+0000
+/project/matrix-pybot/, matrix-pybot, 0.1, One file library to create matrix bots (https://matrix.org)., 2019-03-15T12:33:58+0000
+/project/possel-server/, possel-server, 0.2.2, Python-based IRC "bouncer", requires custom clients for scrollback., 2014-12-21T19:15:46+0000
+/project/sopel-rainbow/, sopel-rainbow, 0.1.1, A Sopel plugin to make things RAINBOW COLORED., 2020-10-18T01:42:51+0000
+/project/feedprovider/, feedprovider, 0.2.1, The hubbub bot of the future!, 2010-04-17T00:14:52+0000
+/project/aioyoyo/, aioyoyo, 1.2.2, An Asyncio oyoyo port for Python 3.5+, 2017-03-04T03:48:22+0000
+/project/wechat-sender/, wechat-sender, 0.1.4, 随时随地发送消息到微信, 2017-06-12T13:12:00+0000
+/project/sopel/, sopel, 7.0.7, Simple and extensible IRC bot, 2020-11-14T07:41:08+0000
+/project/tale/, tale, 4.7, Interactive Fiction, MUD & mudlib framework, 2020-07-04T15:55:43+0000
+/project/irctokens/, irctokens, 2.0.0, RFC1459 and IRCv3 protocol tokeniser, 2020-09-30T20:04:50+0000
+/project/recho/, recho, 1.0.2, repost Reddit activity from a user to Slack in near-realtime, 2018-02-17T19:56:51+0000
+/project/pyaib/, pyaib, 2.1.0, Python Framework for writing IRC Bots using gevent, 2016-09-06T21:40:54+0000
+/project/fbback/, FBBack, 0.1, Facebook Chat (Messenger) for Python, 2017-01-02T14:49:07+0000
+/project/slackeventsapi/, slackeventsapi, 2.2.1, Python Slack Events API adapter for Flask, 2020-07-29T03:49:38+0000
+/project/piteau/, piteau, 0.1.2, Python asynchronous chat, 2020-04-12T09:31:14+0000
+/project/telethon/, Telethon, 1.21.1, Full-featured Telegram client library for Python 3, 2021-03-16T07:24:36+0000
+/project/helga-isup/, helga-isup, 0.2.4, Helga plugin to check down for everyone or just me, 2017-01-05T21:35:58+0000
+/project/qtmud/, qtMUD, 0.0.11, framework for building and running MUDs, 2016-10-04T22:26:10+0000
+/project/telegen-definitions/, telegen-definitions, 4.9.1.0.8, Autogenerated telegen definitions, 2020-08-26T23:04:39+0000
+/project/quinoa/, quinoa, 0.4.4, This is a base class for making Jabber bots that are aware of MUC/groupchat., 2011-11-20T21:12:03+0000
+/project/chatty/, Chatty, 0.2, A multi-platform chat bot framework, 2018-05-31T01:29:39+0000
+/project/autotweet/, autotweet, 0.5.3, learn your tweet and auto tweet it., 2017-11-09T04:21:33+0000
+/project/ib3/, ib3, 0.2.0, IRC bot framework using mixins to provide common functionality, 2019-01-07T04:21:07+0000
+/project/hcoop-meetbot/, hcoop-meetbot, 0.3.1, Plugin for Limnoria to help run IRC meetings, 2021-04-17T16:16:40+0000
+/project/helga-loljava/, helga-loljava, 0.1.0, A helga plugin that will respond with a silly generated Java class name when someone mentions the word 'java'., 2015-03-04T16:30:39+0000
+/project/unified-message-relay/, unified-message-relay, 4.2, Group Message Forward Framework (supports QQ Telegram Line Discord), 2020-04-26T02:51:49+0000
+/project/relay-framework/, relay-framework, 0.2.0, Relay is an irc micro-framework that smells too much like a web framework, 2015-06-13T17:02:17+0000
+/project/slack-sdk/, slack-sdk, 3.5.0, The Slack API Platform SDK for Python, 2021-04-20T05:35:21+0000
+/project/dhooks/, dhooks, 1.1.4, An (a)sync wrapper for discord webhooks, 2020-07-27T10:10:39+0000
+/project/chaipy/, chaipy, 0.3.2, A developer interface for creating chatbots for the Chai app., 2021-03-30T08:18:25+0000
+/project/requests-facebook/, requests-facebook, 0.4.2, A Python Library to interface with Facebook Graph API, 2017-12-05T16:14:28+0000
+/project/devlgram/, DevLGram, 0.13.1, Telegram MTProto API Client Library for Python, 2019-04-23T19:39:41+0000
+/project/erin/, Erin, 0.1.0a2, Fully Fledged Discord Bot Framework, 2021-04-21T17:03:41+0000
+/project/em-aiml/, em_aiml, 1.0.1, An interpreter package for AIML, the Artificial Intelligence Markup Language, 2018-12-03T08:31:18+0000
+/project/telepota/, telepota, 1.0, Python framework for Telegram Bot API, 2021-03-12T17:00:13+0000
+/project/helga-no-more-olga/, helga-no-more-olga, 0.1.0, A helga matcher that tells people to talk to helga instead of olga, 2015-03-04T13:17:25+0000
+/project/email2slack/, email2slack, 1.0.0a6, MIME E-mail forwarding script for Slack written in Python, 2019-09-23T12:46:46+0000
+/project/qhangups/, QHangups, 1.8.1, Alternative client for Google Hangouts written in PyQt, 2016-10-17T19:34:47+0000
+/project/discordrpc-py/, DiscordRPC.py, 1.0.0, Complete Discord RPC interface written in Python, 2019-07-07T16:09:20+0000
+/project/helga-log-reader/, helga-log-reader, 1.0.4, Read logs from helga bot logging, 2017-07-09T02:17:21+0000
+/project/aiomirai/, aiomirai, 0.3.8, A framework for Tencent QQ headless client 'Mirai'., 2020-07-06T13:44:53+0000
+/project/sopel-plugins-pingpong/, sopel-plugins.pingpong, 1.0.5, Pingpong plugin for Sopel, 2021-04-16T14:31:11+0000
+/project/django-discord-bind/, django-discord-bind, 0.2.0, A Django app for securely associating a user with a Discord account., 2016-08-19T06:09:45+0000
+/project/efb-qq-slave/, efb-qq-slave, 2.0.0b3, QQ Slave Channel for EH Forwarder Bot, integrated with various QQ Clients., 2020-09-08T23:33:36+0000
+/project/ircstyle/, ircstyle, 0.1.4, Apply and strip formatting from IRC messages, 2020-10-12T13:30:58+0000
+/project/hypchat/, hypchat, 0.21, Package for HipChat's v2 API, 2016-01-11T19:43:59+0000
+/project/simplematrixlib/, simplematrixlib, 0.6.0, A simple python library for using                  the matrix client-server API, 2020-03-06T15:15:57+0000
+/project/slack-groupmgr/, slack-groupmgr, 1.0.3, manage private group membership, 2016-05-02T23:01:26+0000
+/project/semaphore-bot/, semaphore-bot, 0.10.1, Semaphore: A simple (rule-based) bot library for Signal Private Messenger., 2021-03-08T14:29:42+0000
+/project/pyborg/, pyborg, 2.0.0, Markov chain (chat) bot for a suite for modern services (discord, irc, twitter, mastodon, file, linein), 2021-04-26T00:53:10+0000
+/project/ircutils3/, ircutils3, 0.2.2, IRC framework and utilities. Great for bot creation., 2015-07-16T11:10:51+0000
+/project/fanpy/, fanpy, 0.2.0, An API and cli toolset for Fanfou.com, 2017-02-05T14:20:20+0000
+/project/efb-wechat-slave/, efb-wechat-slave, 2.0.4, WeChat Slave Channel for EH Forwarder Bot, based on WeChat Web API., 2020-12-22T17:24:58+0000
+/project/mailru-im-bot/, mailru-im-bot, 0.0.18, Pure Python interface for Bot API. Bot cookbook for Humans., 2021-03-31T17:57:10+0000
+/project/pyaib/, pyaib, 2.1.0, Python Framework for writing IRC Bots using gevent, 2016-09-06T21:40:54+0000
+/project/fbback/, FBBack, 0.1, Facebook Chat (Messenger) for Python, 2017-01-02T14:49:07+0000
+/project/slackeventsapi/, slackeventsapi, 2.2.1, Python Slack Events API adapter for Flask, 2020-07-29T03:49:38+0000
+/project/piteau/, piteau, 0.1.2, Python asynchronous chat, 2020-04-12T09:31:14+0000
+/project/telethon/, Telethon, 1.21.1, Full-featured Telegram client library for Python 3, 2021-03-16T07:24:36+0000
+/project/pypi-chat-server/, pypi-chat-server, 0.0.2, A alfa project of PyQT chat., 2018-10-04T05:04:13+0000
+/project/django-dialogflow/, django-dialogflow, 0.0.4, Django Dialogflow chat agent, 2019-05-26T17:53:58+0000
+/project/fbbot/, fbbot, 1.0.10, fbbot is a sim1ple bot class to showcasing the Facebook Messenger Platform, 2017-09-11T16:44:02+0000
+/project/slackov/, slackov, 0.2.1, A Slack bot that uses Markov chains to learn to        speak like a generic member of your team, 2016-01-03T01:13:58+0000
+/project/havocbot/, havocbot, 0.2.0, An extensible chat bot that works across any number of chat programs, 2016-03-05T00:06:03+0000
+/project/relay-framework/, relay-framework, 0.2.0, Relay is an irc micro-framework that smells too much like a web framework, 2015-06-13T17:02:17+0000
+/project/slack-sdk/, slack-sdk, 3.5.0, The Slack API Platform SDK for Python, 2021-04-20T05:35:21+0000
+/project/dhooks/, dhooks, 1.1.4, An (a)sync wrapper for discord webhooks, 2020-07-27T10:10:39+0000
+/project/chaipy/, chaipy, 0.3.2, A developer interface for creating chatbots for the Chai app., 2021-03-30T08:18:25+0000
+/project/requests-facebook/, requests-facebook, 0.4.2, A Python Library to interface with Facebook Graph API, 2017-12-05T16:14:28+0000
+/project/devlgram/, DevLGram, 0.13.1, Telegram MTProto API Client Library for Python, 2019-04-23T19:39:41+0000
+/project/erin/, Erin, 0.1.0a2, Fully Fledged Discord Bot Framework, 2021-04-21T17:03:41+0000
+/project/em-aiml/, em_aiml, 1.0.1, An interpreter package for AIML, the Artificial Intelligence Markup Language, 2018-12-03T08:31:18+0000
+/project/helga-quip/, helga-quip, 1.2.0, Match quips and other witticisms, 2016-12-13T03:12:15+0000
+/project/slackcat/, slackcat, 2.0.0, Pipe command output to Slack from your terminal!, 2017-09-01T13:53:22+0000
+/project/synapse-diaspora-auth/, synapse-diaspora-auth, 0.2.2, A Diaspora* auth provider for Synapse, 2020-06-24T17:02:51+0000
+/project/pyircserver/, pyIrcServer, 0.0.5.0-Alpha, Powerful, very personalizable and multiplatform IRCd, 2005-06-07T11:31:26+0000
+/project/django-bot/, django-bot, 0.2.2, A lightweight django framework for bots, 2017-06-04T05:02:13+0000
+/project/telepota/, telepota, 1.0, Python framework for Telegram Bot API, 2021-03-12T17:00:13+0000
+/project/virtualenvwrapper-nekbot/, virtualenvwrapper.nekbot, 0.1.0.11, Virtualenvwrapper installer for NekBot project, a multiprotocol bot., 2015-04-29T21:03:29+0000
+/project/ircstates/, ircstates, 0.11.8, IRC client session state parsing library, 2021-04-10T13:52:38+0000
+/project/matrix-client/, matrix-client, 0.3.2, Client-Server SDK for Matrix, 2018-06-22T02:23:49+0000
+/project/davtelepot/, davtelepot, 2.7.6, Telegram bot API mirroring class, featuring dataset-powered SQLite databases., 2020-12-20T19:31:18+0000
+/project/libervia/, libervia, 0.7.0, Web frontend for Salut à Toi, 2019-07-24T19:00:40+0000
+/project/telesync/, telesync, 0.1.0, Python driver for H2O Q / Telesync Realtime Apps, 2020-07-14T05:18:54+0000
+/project/aslack/, aslack, 0.11.0, Asynchronous Slack API integration., 2017-04-24T20:54:57+0000
+/project/dont-puush-me/, dont_puush_me, 0.2, A short script to upload screenshots to an SFTP server, 2016-11-29T07:17:03+0000
+/project/pypusu/, pypusu, 1.0.6, Python client for PuSuEngine, 2020-03-05T15:34:03+0000
+/project/mudpy/, mudpy, 0.3.0, The mudpy MUD server engine., 2020-10-08T23:56:48+0000
+/project/helga-pointing-poker/, helga-pointing-poker, 1.0.0, Pointing poker for helga, 2017-03-17T04:11:50+0000
+/project/python-aiml/, python-aiml, 0.9.3, An interpreter package for AIML, the Artificial Intelligence Markup Language, 2019-10-22T18:18:42+0000
+/project/horse/, horse, 0.2.17, A chat bot framework for Slack, 2015-06-03T16:40:12+0000
+/project/pypi-chat-server/, pypi-chat-server, 0.0.2, A alfa project of PyQT chat., 2018-10-04T05:04:13+0000
+/project/django-dialogflow/, django-dialogflow, 0.0.4, Django Dialogflow chat agent, 2019-05-26T17:53:58+0000
+/project/fbbot/, fbbot, 1.0.10, fbbot is a sim1ple bot class to showcasing the Facebook Messenger Platform, 2017-09-11T16:44:02+0000
+/project/slackov/, slackov, 0.2.1, A Slack bot that uses Markov chains to learn to        speak like a generic member of your team, 2016-01-03T01:13:58+0000
+/project/havocbot/, havocbot, 0.2.0, An extensible chat bot that works across any number of chat programs, 2016-03-05T00:06:03+0000
+/project/grailmud/, grailmud, 0.1a3, A Python MUD server, 2007-03-11T23:29:29+0000
+/project/kaoz/, kaoz, 2.1.0, A simple IRC notifier bot., 2013-12-08T12:03:35+0000
+/project/textnow-bot/, textnow-bot, 1.0.6, Send text messages on TextNow with the Playwright API, 2021-02-07T23:41:10+0000
+/project/simplematrixlib/, simplematrixlib, 0.6.0, A simple python library for using                  the matrix client-server API, 2020-03-06T15:15:57+0000
+/project/slack-groupmgr/, slack-groupmgr, 1.0.3, manage private group membership, 2016-05-02T23:01:26+0000
+/project/semaphore-bot/, semaphore-bot, 0.10.1, Semaphore: A simple (rule-based) bot library for Signal Private Messenger., 2021-03-08T14:29:42+0000
+/project/pyborg/, pyborg, 2.0.0, Markov chain (chat) bot for a suite for modern services (discord, irc, twitter, mastodon, file, linein), 2021-04-26T00:53:10+0000
+/project/ircutils3/, ircutils3, 0.2.2, IRC framework and utilities. Great for bot creation., 2015-07-16T11:10:51+0000
+/project/fanpy/, fanpy, 0.2.0, An API and cli toolset for Fanfou.com, 2017-02-05T14:20:20+0000
+/project/efb-wechat-slave/, efb-wechat-slave, 2.0.4, WeChat Slave Channel for EH Forwarder Bot, based on WeChat Web API., 2020-12-22T17:24:58+0000
+/project/mailru-im-bot/, mailru-im-bot, 0.0.18, Pure Python interface for Bot API. Bot cookbook for Humans., 2021-03-31T17:57:10+0000
+/project/mautrix-hangouts/, mautrix-hangouts, 0.1.4, A Matrix-Hangouts puppeting bridge., 2020-11-09T23:02:43+0000
+/project/emojirades/, Emojirades, 0.14.0, A Slack bot that understands the Emojirades game!, 2021-02-25T03:23:39+0000
+/project/opentok/, opentok, 3.1.0, OpenTok server-side SDK, 2021-03-11T15:23:42+0000
+/project/wyze-sdk/, wyze-sdk, 1.0.1, The Wyze Labs API Platform SDK for Python., 2021-04-23T12:29:58+0000
+/project/discord-gui/, discord.gui, 1.0.2, A discord.py extension providing a GUI interface to monitor the bot and modify command settings, 2019-04-18T21:48:23+0000
+/project/image-charts/, image-charts, 5.6.10, Official Image-Charts.com API client library, 2020-11-15T19:56:04+0000
+/project/royalnet/, royalnet, 6.5.5, A multipurpose bot framework, 2021-04-26T01:51:24+0000
+/project/stormbot-fortune/, stormbot-fortune, 1.2.1, fortune plugin for stormbot, 2017-11-16T14:19:28+0000
+/project/antbot/, antbot, 0.1.8, A slack chat bot doing scripts on the server, 2019-08-24T12:32:24+0000
+/project/gyr/, gyr, 0.2.0, A python framework for building matrix application services, 2017-05-08T01:38:16+0000
+/project/sopel-spellcheck/, sopel-spellcheck, 0.0.2, Spellcheck plugin for Sopel IRC bots, 2019-12-15T02:06:45+0000
+/project/helga-meet/, helga-meet, 1.1.1, System for asynchronous meetings e.g. standup, 2016-12-20T15:43:00+0000
+/project/limoo-sdk/, limoo-sdk, 0.1.5, An SDK to work with Limoo, 2021-02-04T11:29:37+0000
+/project/boty/, boty, 0.1.1, Time Flies, 2012-03-10T12:12:15+0000
+/project/sensu-handler-rocketchat/, sensu-handler-rocketchat, 0.1.0, A sensu plugin to send events to rocketchat., 2017-12-19T13:20:05+0000
+/project/otfbot/, otfbot, 1.0.0, a modular IRC-Bot, 2011-04-22T10:56:32+0000
+/project/sopel-modules-election/, sopel-modules.election, 0.0.7, Plugin for 2020 Presidential election results, 2020-11-05T08:58:45+0000
+/project/identi/, identi, 0.1.3, An easy to use API library specifically for identi.ca, 2012-05-22T13:37:49+0000
+/project/pyrogram/, Pyrogram, 1.2.9, Telegram MTProto API Client Library and Framework for Python, 2021-04-15T07:54:00+0000
+/project/errbot/, errbot, 6.1.7, Errbot is a chatbot designed to be simple to extend with plugins written in Python., 2020-12-19T05:32:34+0000
+/project/synadm/, synadm, 0.29, Command line admin tool for Synapse (Matrix reference homeserver), 2021-04-19T07:36:48+0000
+/project/lowerpines/, lowerpines, 0.6.0, Library wrapper for GroupMe API, 2019-09-17T16:10:45+0000
+/project/jsb/, jsb, 1.0, The bot for you!, 2014-01-21T02:36:22+0000
+/project/python-potr/, python-potr, 1.0.2, pure Python Off-The-Record encryption, 2018-04-02T18:42:27+0000
+/project/helga-dubstep/, helga-dubstep, 0.1.0, A match plugin that will respond with vaiable length 'wubwubwub' when someone mentions the word 'dubstep'., 2015-03-04T13:30:25+0000
+/project/beauty-print/, beauty-print, 0.6.1, Beautifully print Python data, 2020-05-16T10:06:02+0000
+/project/lemongo/, lemongo, 2.0.0b0, PyMongo interface for LeBot, 2018-04-22T03:05:34+0000
+/project/easykvchat/, easykvchat, 1.0.0, Ensemble client/serveur d'un système de messagerie., 2020-10-18T14:59:04+0000
+/project/sopel-plugins-adminlist/, sopel-plugins.adminlist, 1.0.6, Adminlist plugin for Sopel, 2021-04-16T14:07:28+0000
+/project/helga-meant-to-say/, helga-meant-to-say, 0.1.0, A helga plugin that lets users correct what they said, like using s/foo/bar, 2015-03-04T20:43:55+0000
+/project/gramhopper/, gramhopper, 2.0.1, A bot platform for automatic responses based on various triggers, 2019-06-07T11:28:43+0000
+/project/bothub-cli/, bothub-cli, 0.1.20, A CLI tool for bothub.studio service, 2018-11-22T04:42:04+0000
+/project/between/, between, 0.2.7, Between of VCNC for Python, 2015-05-06T09:10:26+0000
+/project/gimei/, gimei, 0.2.3, generates the name and the address at random., 2019-03-21T16:27:20+0000
+/project/botmother/, BotMother, 1.0.0, A new perspective over python-telegram-bot API, 2018-08-04T13:51:54+0000
+/project/kakaobot/, kakaobot, 0.3, Python RESTFul server for Kakaotalk Bot API, 2016-10-16T16:10:53+0000
+/project/pyroboard/, pyroboard, 0.1.2, Keyboard for Pyrogram number one., 2020-12-28T17:20:31+0000
+/project/mautrix-appservice/, mautrix-appservice, 0.3.11, A Python 3 asyncio-based Matrix application service framework., 2019-06-22T15:53:36+0000
+/project/threema-gateway/, threema.gateway, 4.0.0, An API for the Threema gateway service to send and receive messages including text, images, files and delivery reports., 2021-01-22T23:33:44+0000
+/project/pyromancer/, Pyromancer, 1.0, Simple framework for creating IRC bots, 2014-10-18T20:08:59+0000
+/project/helga-jira/, helga-jira, 0.1.4, A helga plugin that can be used to store responses that can be returned from a question, 2017-08-31T19:12:54+0000
+/project/udns/, udns, 0.0.2, micro dns server, 2016-01-27T06:40:55+0000
+/project/linphone/, linphone, 3.9.1, Linphone package for Python, 2015-11-16T12:35:52+0000
+/project/clearbit-slack-python/, clearbit-slack-python, 0.1.1, Push Clearbit Person and Company data into a Slack channel, 2016-04-22T17:25:00+0000
+/project/horse-forecastio/, horse-forecastio, 0.1.0, ForecastIO integration bridle for Horse, 2015-06-03T15:06:14+0000
+/project/aiml-bot/, AIML-Bot, 0.0.3, An interpreter package for AIML, the Artificial Intelligence Markup Language, 2017-08-12T01:16:22+0000
+/project/helga-roll/, helga-roll, 1.1.0, Roll dice or choose from set, 2017-06-26T02:54:57+0000
+/project/slackard/, slackard, 2.0.0, A pluggable bot for slack.com, 2015-08-09T07:49:52+0000
+/project/mirahezebot-plugins/, MirahezeBot-Plugins, 9.1.3, Sopel Plugins for Miraheze Bots, 2021-04-16T15:12:50+0000
+/project/chiron-bot-adehnert/, chiron-bot-adehnert, 0.9.1, Chat bot that can look up ticket numbers on bugtrackers and return their names, 2021-02-06T03:19:50+0000
+/project/twitter-tap/, twitter-tap, 2.2.1, Collect tweets to a mongoDB using either the Twitter search API or the streaming API., 2020-03-24T09:19:23+0000
+/project/disqust/, disqust, 0.1.0, Disqus API client, 2017-03-30T18:43:03+0000
+/project/helga-api-monitor/, helga-api-monitor, 1.0.2, Allow helga a way to monitor APIs, 2016-10-09T20:04:56+0000
+/project/tg-feedback-bot-ru/, tg-feedback-bot-ru, 0.2.8, Telegram feedback bot, 2020-11-26T16:52:10+0000
+/project/simpbot/, simpbot, 1.0, Simple Bot (SimpBot) - IRC (Internet Relay Chat) Bot, 2016-12-16T20:53:51+0000
+/project/wsocket/, WSocket, 2.1.0, Simple WSGI Websocket Server, Framework, Middleware And App, 2020-11-16T14:06:40+0000
+/project/omnipresence/, omnipresence, 3.0alpha2, An IRC utility bot, 2015-08-18T21:11:19+0000
+/project/whistler/, whistler, 1.5.3, An extensible MUC bot for XMPP., 2014-05-31T07:54:36+0000
+/project/discord-fate-bot/, discord-fate-bot, 0.4.0, Discord bot to help run a FATE campaign, 2020-04-05T04:02:17+0000
+/project/100bot/, 100bot, 1.0.1, Spice up your Slack-life with emojis!, 2018-03-16T19:52:20+0000
+/project/quinoa/, quinoa, 0.4.4, This is a base class for making Jabber bots that are aware of MUC/groupchat., 2011-11-20T21:12:03+0000
+/project/chatty/, Chatty, 0.2, A multi-platform chat bot framework, 2018-05-31T01:29:39+0000
+/project/autotweet/, autotweet, 0.5.3, learn your tweet and auto tweet it., 2017-11-09T04:21:33+0000
+/project/ib3/, ib3, 0.2.0, IRC bot framework using mixins to provide common functionality, 2019-01-07T04:21:07+0000
+/project/hcoop-meetbot/, hcoop-meetbot, 0.3.1, Plugin for Limnoria to help run IRC meetings, 2021-04-17T16:16:40+0000
+/project/helga-loljava/, helga-loljava, 0.1.0, A helga plugin that will respond with a silly generated Java class name when someone mentions the word 'java'., 2015-03-04T16:30:39+0000
+/project/unified-message-relay/, unified-message-relay, 4.2, Group Message Forward Framework (supports QQ Telegram Line Discord), 2020-04-26T02:51:49+0000

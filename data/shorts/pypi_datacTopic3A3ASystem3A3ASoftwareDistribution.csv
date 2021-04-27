@@ -1,0 +1,1296 @@
+/project/django-ember/, django-ember, 0.3.1, Django Ember.js integration, 2013-07-30T15:08:11+0000
+/project/meta-package-manager/, meta-package-manager, 3.6.0, CLI unifying Homebrew, apt, Chocolatey, Pip, NPM, Composer and the like., 2021-01-03T15:08:16+0000
+/project/miura/, miura, 0.1.5, a Jenkins job management tool, 2014-11-21T02:09:47+0000
+/project/oktaauth/, oktaauth, 0.2, Authenticates from the CLI, 2016-02-08T16:21:28+0000
+/project/pako/, pako, 0.3.1, The universal package manager library, 2021-03-09T11:40:55+0000
+/project/incubator/, incubator, 0.9.0, Python library for building container images., 2017-05-28T22:48:14+0000
+/project/strip-docs/, strip-docs, 1.0, A utility to remove all docstrings from your project, 2020-12-20T18:00:43+0000
+/project/magicinvoke/, magicinvoke, 2.4.5, Pythonic task execution -- Based on invoke by Jeff Forcier, 2019-08-17T15:14:24+0000
+/project/distroscraper/, distroscraper, 1.0.2, Scrape Linux Distro torrents and add to Transmission automatically, 2020-09-13T16:55:32+0000
+/project/py2exe2msi/, py2exe2msi, 0.0.2, An easy way to create Windows standalone applications in Python, 2011-12-21T13:43:04+0000
+/project/pynssm/, pynssm, 2.24.2a2, Python wrapper for NSSM - the Non-Sucking Service Manager (nssm.cc), 2018-06-07T20:11:48+0000
+/project/fabric-naked/, fabric-naked, 0.0.2, execute your nakedo work procedure by fabric, 2013-07-14T09:10:19+0000
+/project/curtains/, Curtains, 0.3.1, A command line tool for remote execution, application deployment and system administration in the Windows environment (as of now) without using SSH., 2018-01-02T16:15:08+0000
+/project/wapps/, wapps, 0.1.2.dev0, Some Wagtail reusable applications, 2017-11-18T23:51:48+0000
+/project/flask-aide/, flask_aide, 0.0.1, demo, 2017-02-21T15:02:46+0000
+/project/aboutcode-toolkit/, aboutcode-toolkit, 6.0.0, AboutCode-toolkit is a tool to document the provenance (origin and license) of third-party software using small text files. Collect inventories, generate attribution documentation., 2021-03-31T12:56:34+0000
+/project/crit/, crit, 0.1, Crit: infrastructure as actual code, 2019-01-09T14:48:33+0000
+/project/gitsup/, gitsup, 0.3.0, Git submodule updater, 2019-11-17T16:19:14+0000
+/project/stac/, stac, 1.1.0, Smarter Travel Artifactory Client, 2016-04-04T18:01:25+0000
+/project/flask-neglog/, flask_neglog, 0.0.2, demo, 2016-11-29T14:09:18+0000
+/project/docker-registry-client/, docker-registry-client, 0.5.2, Client for Docker Registry V1 and V2, 2017-06-16T16:05:22+0000
+/project/tl-buildout-virtual-python/, tl.buildout_virtual_python, 0.2, zc.buildout recipe for creating a virtual Python installation, 2012-01-27T22:40:46+0000
+/project/tl-buildout-apache/, tl.buildout_apache, 0.3, zc.buildout recipes for setting up an Apache web server environment., 2011-04-10T17:24:04+0000
+/project/pkginfo/, pkginfo, 1.7.0, Query metadatdata from sdists / bdists / installed packages., 2021-01-16T14:24:03+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/sphinxcontrib-towncrier/, sphinxcontrib-towncrier, 0.2.0a0, An RST directive for injecting a Towncrier-generated changelog draft containing fragments for the unreleased (next) project version, 2021-04-14T12:38:42+0000
+/project/wings-sanic/, wings-sanic, 0.7.2, The wings-sanic is a lightweight python framework aimed at making it as simple as possible to document your Sanic API with Swagger UI, Plus param validation and model serialization., 2021-03-29T10:53:17+0000
+/project/infrascloudy/, infrascloudy, 0.1.1, It does cloudy things, 2019-06-22T15:45:04+0000
+/project/mcloud-plugin-haproxy/, mcloud-plugin-haproxy, 1.0.4, Haproxy integration for mcloud, 2016-03-07T11:44:39+0000
+/project/periapt/, periapt, 0.1.2, Periapt is a simple apt repository generator., 2014-03-26T01:00:45+0000
+/project/udata-youckan/, udata-youckan, 1.0.0, YouCKAN auth for uData, 2017-02-16T00:01:25+0000
+/project/pydebsign/, pydebsign, 0.1.5, yet another library of debsign, 2015-08-25T06:47:04+0000
+/project/aserve/, aserve, 0.0.11, Asynchronously serve APIs, 2016-12-06T17:55:10+0000
+/project/marina/, marina, 0.4.3, marina manages docker instances, 2020-03-19T21:32:28+0000
+/project/setupjavax/, setupjavax, 0.1.38, Support Java extensions for setuptools / distutils., 2019-12-13T13:46:37+0000
+/project/tempusloader/, tempusloader, 1.2.1, Tempus data loader, 2018-02-09T10:23:32+0000
+/project/bbq/, bbq, 0.1, Tasty deploy recipes, 2012-02-20T16:51:14+0000
+/project/npmdownloader/, npmdownloader, 1.2.1, NPM Package Downloader, 2020-07-18T06:57:22+0000
+/project/burlap/, burlap, 0.9.85, Fabric commands for simplifying server deployments, 2021-03-24T05:21:26+0000
+/project/just/, just, 0.7.134, Automatically just read and write files based on extension., 2021-04-17T17:29:39+0000
+/project/immureii/, immureii, 0.42.10, Immure Iniquitous Intent, 2021-03-22T23:10:15+0000
+/project/slpkg/, slpkg, 3.9.1, Package manager for Slackware installations, 2021-01-02T15:45:53+0000
+/project/jinja2-sanic/, jinja2-sanic, 0.1.2, , 2017-07-22T21:54:16+0000
+/project/pypi-server/, pypi-server, 0.4.8, Tornado PyPi server, 2018-10-14T18:11:16+0000
+/project/portmod/, portmod, 2.0rc8, A CLI package manager for mods, 2021-04-06T20:53:08+0000
+/project/jenks/, jenks, 0.2.3, a jenkins command-line tool, 2014-04-02T06:47:55+0000
+/project/python-pacman/, python-pacman, 0.4.2, Simple Python interface to Arch Linux package manager (pacman), 2018-10-15T21:53:12+0000
+/project/decode-image/, decode_image, 1.0.0.5, Simple Command line and module for Decode/Encode Image File, 2015-06-25T09:44:31+0000
+/project/yadtshell/, yadtshell, 1.9.1, YADT - an Augmented Deployment Tool - The Shell Part, 2014-08-27T11:18:49+0000
+/project/dstack-bot/, dstack-bot, 1.1.9, Simple bot that allows you to run commands on your server using invoke, 2020-06-27T13:18:53+0000
+/project/pelican-social/, pelican-social, 0.2.0, Social directives for Pelican Blog Generator, 2017-02-02T02:06:19+0000
+/project/skyrocket/, skyrocket, 0.1, Sky is a tool that allows quick and repeatable deployment and management of cloud environments., 2015-06-25T02:50:40+0000
+/project/kafkatos3/, kafkatos3, 0.2.0, Archive kafka messages to S3, 2018-03-14T12:11:41+0000
+/project/mfcloud/, mfcloud, 0.5.18, Production cloud deployments of fig infrastructure with docker, 2014-10-09T05:41:52+0000
+/project/gitman/, gitman, 2.3.2, A language-agnostic dependency manager using Git., 2021-04-08T13:03:01+0000
+/project/udata-metrics/, udata-metrics, 1.0.2, Connexion handler to metrics service for udata, 2020-07-01T09:42:09+0000
+/project/louistools/, LouisTools, 0.2.0, A very useful tool-set for data/operation/testing engineers, specialized in ETL and finance., 2020-06-16T09:38:38+0000
+/project/metadate/, metadate, 0.5.77, All your date are belong to us, 2020-09-10T19:32:48+0000
+/project/setuptools-git-ls-files/, setuptools-git-ls-files, 0.1.2, Use git to list all files, including submodules, 2020-02-15T18:56:15+0000
+/project/setup-prod/, setup-prod, 2020.7.2, setup.py production, 2020-12-03T20:39:45+0000
+/project/tmdeploy/, tmdeploy, 0.3.3, TissueMAPS deployment in virtual environments., 2017-10-10T14:06:37+0000
+/project/tl-buildout-gtk/, tl.buildout_gtk, 0.2.2, A zc.buildout recipe for installing pygtk, pyobject and pycairo., 2011-01-02T19:42:47+0000
+/project/yabs-cowsay/, yabs-cowsay, 0.0.4, Add a 'cowsay' task to Yabs, 2020-07-20T19:56:24+0000
+/project/uvalde/, uvalde, 0.3.0, Yum repository management tool, 2019-04-05T02:18:52+0000
+/project/python-archive/, python-archive, 0.2, Simple library that provides a common interface for extracting zip and tar archives., 2012-07-12T06:40:31+0000
+/project/china-cities/, china-cities, 0.0.3, Python package to get the names of Chinese cities and provinces, 2019-11-28T03:56:40+0000
+/project/apt-select/, apt-select, 2.2.1, Ubuntu Archive Mirror reporting tool for apt sources configuration, 2019-11-29T17:04:02+0000
+/project/omero-certificates/, omero-certificates, 0.2.0, OMERO server certificate management plugin, 2020-03-18T14:54:40+0000
+/project/natura/, natura, 0.0.63, Find money / currencies talk, 2018-07-28T13:52:35+0000
+/project/ansible-roster/, ansible-roster, 0.4.1, Ansible simplified yaml inventory, 2020-11-01T16:39:54+0000
+/project/magic-reader/, magic_reader, 1.3.1, Read requests/files/dbs without importing external libraries with simple exact command., 2017-03-24T12:29:32+0000
+/project/flask-restx/, flask-restx, 0.3.0, Fully featured framework for fast, easy and documented API development with Flask, 2021-04-01T19:40:10+0000
+/project/lookout/, lookout, 0.0.1, API for scanning for new releases of libraries and programs., 2018-11-01T04:11:47+0000
+/project/appsync-schema-uploader/, appsync-schema-uploader, 0.0.4, Uploads an AWS AppSync GraphQL schema, 2019-10-11T14:10:24+0000
+/project/pycommand/, pycommand, 0.4.0, Library / toolkit for creating command line programs with minimal effort., 2018-03-27T21:19:07+0000
+/project/git-migrate/, git-migrate, 0.3.1, Execute commands from shell file, storing last successful execution in detached git branch., 2016-12-19T21:55:47+0000
+/project/sprinter/, sprinter, 1.4.2, a utility library to help environment bootstrapping scripts, 2015-10-28T08:40:02+0000
+/project/os-sys-linux/, os-sys-linux, 0.0.0.dev0, a big lib with many usefull tools and it are not only os and sys tools..., 2020-01-04T10:12:51+0000
+/project/bellatrix/, bellatrix, 1.1.10, Bellatrix is a set of (magic) tools to automate the management of Amazon EC2 services., 2012-07-29T10:46:54+0000
+/project/pypiserver-passlib/, pypiserver-passlib, 1.0.0.dev2, A plugin providing passlib auth to pypiserver, 2018-08-05T14:18:43+0000
+/project/tornado-transmute/, tornado-transmute, 0.0.4, a toolset to generate routes from objects for tornado., 2018-09-27T05:59:11+0000
+/project/ncdistribute/, ncdistribute, 1.08, Distribute python projects as single zip files., 2014-02-09T19:27:27+0000
+/project/humpty/, humpty, 0.2.1, A tool to convert python wheels to eggs, 2017-12-18T23:06:20+0000
+/project/version-utils/, version_utils, 0.3.0, Library for parsing system package strings and comparing package versions, 2016-07-16T00:21:14+0000
+/project/repi-server/, repi-server, 0.2, RePi server, a Redis PubSub interface for PyPi., 2013-07-22T19:53:16+0000
+/project/pex/, pex, 2.1.40, The PEX packaging toolchain., 2021-04-22T01:13:16+0000
+/project/bbfreeze-loader/, bbfreeze-loader, 1.1.0, provide binary loaders for bbfreeze, 2013-04-09T23:49:48+0000
+/project/simple-site-manager/, simple-site-manager, 0.1.7, Manage multiple lighttpd and Django or Flask websites on a single machine., 2016-05-03T12:12:21+0000
+/project/viv-synapse/, viv-synapse, 0.0.7, Synapse Distributed Computing Framework, 2016-09-27T04:21:01+0000
+/project/lockdown/, lockdown, 0.4.1, An un-audited security tool to encrypt Python code., 2018-07-21T07:49:06+0000
+/project/libversion/, libversion, 1.2.3, Python bindings for libversion, 2021-03-10T13:08:06+0000
+/project/social-commerce/, social-commerce, 0.0.6, Django project template using pinax and satchmo, 2009-11-01T04:56:38+0000
+/project/bitclone/, bitclone, 0.30, Clone all your bitbucket repo, 2018-12-06T14:30:55+0000
+/project/apkkit/, apkkit, 0.6.0.1, Manipulate APK packages and repositories from Python, 2018-05-24T04:48:14+0000
+/project/autonetkit/, autonetkit, 0.11.2, Automatic configuration generation for emulated networks, 2014-11-27T07:31:14+0000
+/project/quickpip/, quickpip, 0.0.4, Uses WiFi to tell you where you are, 2016-10-09T09:49:36+0000
+/project/robotice-cc2541-device/, robotice-cc2541-device, 0.0.2a, Robotice driver for BLE - CC2541, 2015-02-28T18:36:00+0000
+/project/scmver/, scmver, 1.1, A package version manager based on SCM tags, 2020-11-04T12:43:30+0000
+/project/udata-ckan/, udata-ckan, 2.0.0, CKAN integration for udata, 2020-03-11T16:52:33+0000
+/project/py2exe/, py2exe, 0.10.4.0, Build standalone executables for Windows, 2021-04-24T13:15:25+0000
+/project/fabric-docker/, fabric-docker, 0.1, Docker command-line tool wrapper for Fabric., 2016-03-11T17:19:35+0000
+/project/tpudiepie/, tpudiepie, 0.1.7, TPU management, 2020-06-18T05:40:42+0000
+/project/aiographite/, aiographite, 0.1.9, , 2017-12-21T22:33:31+0000
+/project/mkarchive/, mkarchive, 0.5.2, Create Linux self-executables & installers based on 'dialog', 2021-02-28T17:26:11+0000
+/project/mandark/, Mandark, 0.0.2, Change Control Software with the power of Flask, 2018-03-08T10:06:24+0000
+/project/pelican-data/, pelican-data, 0.2.0, Data and collections for Pelican, 2020-03-18T11:44:35+0000
+/project/zmicroservices/, zmicroservices, 1.0.3, An alternative way for doing micro-services., 2017-01-22T12:57:06+0000
+/project/salt-container-map/, salt-container-map, 0.2.2, Configuration management and implicit dependency setup for Docker containers in SaltStack., 2018-01-16T16:55:41+0000
+/project/calmjs-webpack/, calmjs.webpack, 1.2.0, Package for extending the Calmjs framework to support the usage of webpack for the generation of deployable artifacts from JavaScript source code provided by Python packages in conjunction with standard JavaScript or Node.js packages sourced from npm or other similar package repositories., 2018-08-22T02:28:47+0000
+/project/btsbots/, btsbots, 0.1.6, trade bots client for https://btsbots.com, 2017-11-19T00:04:43+0000
+/project/walmart-cloudsec-flask-restplus/, walmart-cloudsec-flask-restplus, 0.13.1.dev0, Fully featured framework for fast, easy and documented API development with Flask, 2020-01-03T03:54:50+0000
+/project/logfollow-server/, logfollow-server, 0.0.9, Real-time Web Monitor for your logs, 2011-12-23T17:19:08+0000
+/project/bootstrap-py/, bootstrap-py, 1.0.2, Bootstrap Python package, 2020-09-19T05:53:22+0000
+/project/vtx-common/, vtx-common, 0.1.6, Vertex project tools to assist with packaging., 2020-09-21T20:10:25+0000
+/project/repochecker-binsym/, repochecker_binsym, 0.9.4, Repository checker that validates completeness of a linux repository over binary symbols, 2014-12-25T01:56:27+0000
+/project/repoq/, repoq, 0.0.1, Collection of utilities to query a repository of python packages, 2013-06-14T13:23:27+0000
+/project/umfactory/, umfactory, 0.1.0.dev0, Factories for umongo, 2018-01-13T15:30:22+0000
+/project/publish/, publish, 0.3.2, Publish python package to PyPI and Github, 2020-03-08T20:38:11+0000
+/project/isotoma-egglayer/, isotoma.egglayer, 0.0.5, Utility for packaging things as eggs without setuptools, 2012-01-31T17:58:41+0000
+/project/darn/, darn, 0.1.0, Easy remote and local code execution, 2021-03-11T06:41:07+0000
+/project/secure-sedge/, secure-sedge, 1.2, a helpful set of convocations to create certs, 2020-09-28T09:05:21+0000
+/project/conda-pack/, conda-pack, 0.6.0, Package conda environments for redistribution, 2021-04-23T10:08:33+0000
+/project/easypython/, easypython, 1.2.0, A simple tool for deploying soyrces, 2016-11-28T13:41:12+0000
+/project/fabex/, Fabex, 1.2, Python Fabric Extended: Making roles more good, 2016-09-08T21:46:20+0000
+/project/bbot/, bbot, 1.0.0a1, UNKNOWN, 2015-07-13T11:12:53+0000
+/project/vas/, vas, 1.0.0, vFabric Administration Server Python API, 2012-11-02T12:33:20+0000
+/project/pyjig/, pyjig, 1.1.2, Quickly create python projects from templates., 2020-06-15T18:44:56+0000
+/project/setuptools-scm-semver/, setuptools-scm-semver, 0.1.3, the blessed package to manage your versions by scm tags, 2019-06-27T07:44:28+0000
+/project/yagmail-outlook/, yagmail-outlook, 0.9.178, A fork of yagmail to solve outlook compatiblity problem, 2017-07-03T01:39:09+0000
+/project/tow/, tow, 1.0.0a13, Tow is tool for automatization docker configuration managment workflow, 2015-06-02T15:23:45+0000
+/project/attributecode/, attributecode, 1.0.0, Generate attribution document with input of CSV/Excel/JSON., 2021-03-31T08:06:50+0000
+/project/docker-odoo-env/, docker-odoo-env, 0.0a10, A small tool to manage Dockerized Odoo, 2018-12-31T18:49:40+0000
+/project/patchwork/, patchwork, 1.0.1, Deployment/sysadmin operations, powered by Fabric, 2018-06-20T22:14:15+0000
+/project/cepcenv/, cepcenv, 0.2.2, CEPC software management toolkit, 2020-08-19T06:16:20+0000
+/project/flask-restplus/, flask-restplus, 0.13.0, Fully featured framework for fast, easy and documented API development with Flask, 2019-08-12T21:51:33+0000
+/project/mysqlbinlog2gpubsub/, mysqlbinlog2gpubsub, 1.0.7, Send MySQL binlog event to Google Cloud Pub/Sub, 2016-04-29T07:42:50+0000
+/project/carbon-index/, carbon-index, 0.1.11, , 2018-05-26T00:11:53+0000
+/project/marathon-cli/, marathon-cli, 1.1.8, command line utility for marathon api requests, 2016-12-07T18:44:52+0000
+/project/invoke/, invoke, 1.5.0, Pythonic task execution, 2020-12-31T02:43:42+0000
+/project/drupy/, drupy, 0.7.1, Python based deployment tool for drupal, 2019-01-17T12:14:38+0000
+/project/gns3-cx-freeze/, gns3_cx_Freeze, 4.3.6, Temporary fork of cx_Freeze 4.x with Python 3.5 support., 2016-09-12T19:06:38+0000
+/project/udata/, udata, 2.6.4, Open data portal, 2021-03-24T17:35:29+0000
+/project/etcmaint/, etcmaint, 0.7, An Arch Linux tool based on git for the maintenance of /etc files., 2020-01-14T20:37:49+0000
+/project/g-pypi/, g-pypi, 0.3, Manages ebuilds for Gentoo Linux using information from Python Package Index, 2012-06-28T17:16:18+0000
+/project/salt-aws-boto3/, salt-aws-boto3, 0.1.10, Use boto3 for AWS orchestration with Salt., 2018-02-27T01:47:11+0000
+/project/sun/, sun, 1.3.1, Tray notification applet for informing about package updates in Slackware, 2021-01-03T15:50:39+0000
+/project/pypi2pkgbuild/, pypi2pkgbuild, 0.3, A PyPI to PKGBUILD converter., 2021-03-30T20:41:14+0000
+/project/sshtoy/, sshtoy, 1.0.5, Connecting to remote host with one command., 2012-09-27T16:52:34+0000
+/project/clusterp/, clusterp, 0.1.4, Clusterp : Cluster profiling made easy, 2018-04-09T14:12:53+0000
+/project/zc-recipe-cmmi/, zc.recipe.cmmi, 3.0.0, ZC Buildout recipe for configure/make/make install, 2019-03-30T08:10:54+0000
+/project/auto-extract/, auto_extract, 0.0.9, Automatically extract content., 2020-03-08T21:59:38+0000
+/project/ipecac/, ipecac, 0.2, Generate Swagger/OAS 3.0 documentation from Python comments, 2018-12-17T02:23:48+0000
+/project/eprl/, eprl, 1.1, edit portage resume list, 2017-06-18T22:09:29+0000
+/project/raft/, raft, 1.4.1.3, Pythonic task execution, 2020-09-12T19:58:00+0000
+/project/setupmeta/, setupmeta, 3.1.0, Simplify your setup.py, 2021-04-15T18:20:38+0000
+/project/fusionbox-fabric-helpers/, fusionbox-fabric-helpers, 0.6.2, Fabric Helpers, 2018-06-12T17:21:44+0000
+/project/bundleman/, bundleman, 1.3.0, Manage svn bundle releasing., 2009-03-26T19:53:20+0000
+/project/tesserarius/, tesserarius, 0.0.5, CLI application that make it easier to perform DevOps on Kubernetes and GCloud, 2020-07-07T11:25:01+0000
+/project/hostexpand/, hostexpand, 1.0.2, A tool to expand hostnames based on a pattern language and DNS resolution, 2013-07-24T07:14:35+0000
+/project/alembic-multischema/, alembic-multischema, 0.0.7, Multi schema postgres migrations using alembic, 2019-10-16T22:03:34+0000
+/project/aioyagmail/, aioyagmail, 0.0.4, Yet Another GMAIL client, using AsyncIO, 2018-06-27T20:10:21+0000
+/project/topzootools/, topzootools, 0.3.18, Processing and conversion tools for Internet Topology Zoo, 2011-09-09T05:03:00+0000
+/project/jsonschema-extractor/, jsonschema-extractor, 0.9, a framework to extract jsonschema's from a variety of models., 2021-01-29T06:18:53+0000
+/project/pelican-drafts/, pelican-drafts, 0.1.1, Add a browsable drafts listing to your Pelican website, 2020-03-25T23:24:02+0000
+/project/easypypi/, easypypi, 2.0.6, By FAR the easiest and quickest way to publish your Python creations on PyPI so other people can just `pip install your_script`., 2021-01-30T02:58:05+0000
+/project/python-bol-api/, python-bol-api, 0.9.1, Wrapper for the bol.com API, 2020-05-14T13:52:34+0000
+/project/bsm/, bsm, 0.3.0, Bundled software manager, 2018-01-17T08:01:06+0000
+/project/amet/, amet, 0.4, A library to read complex configuration from environment variables., 2018-05-13T12:13:27+0000
+/project/autoupgrade-prima/, autoupgrade-prima, 0.6.3, Automatic upgrade of PyPI packages, 2020-06-30T13:14:25+0000
+/project/gisht/, gisht, 0.5, Gists in the shell, 2015-08-04T09:42:07+0000
+/project/figaro/, figaro, 0.1, Production cloud deployments of fig infrastructure with docker, 2014-02-01T19:45:55+0000
+/project/pyp2rpm/, pyp2rpm, 3.3.6, Convert Python packages to RPM SPECFILES, 2021-03-21T23:24:00+0000
+/project/ore-recipe-svnlib/, ore.recipe.svnlib, 0.1.6, Buildout recipe for compiling python subversion bindings, 2008-11-18T14:06:04+0000
+/project/githubrelease/, githubrelease, 1.5.8, githubrelease is a CLI to easily manage GitHub releases, assets and references, 2018-04-08T19:46:36+0000
+/project/redshiftsql/, redshiftsql, 0.0.7, Executes SQL commands from STDIN in a single transaction, 2018-03-15T19:36:06+0000
+/project/udata-data-fair/, udata-data-fair, 0.3.1, Use DataFair embeds to preview data, 2020-03-17T14:58:14+0000
+/project/cozy-indexer/, cozy-indexer, 1.0.6, Little API that provides indexation and full-text search features to the Cozy Cloud Platform., 2015-06-23T15:06:07+0000
+/project/remote-copy-and-execute/, remote_copy_and_execute, 1.1.1, Tool to use SSH protocol to copy and execute arbitrary scripts/commands on a list of machines in parallel, 2015-08-30T23:21:40+0000
+/project/udata-piwik/, udata-piwik, 2.1.2, Piwik support for uData, 2020-07-03T14:41:56+0000
+/project/read-version/, read-version, 0.3.1, Extract your project's __version__ variable, 2020-07-12T20:19:09+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/python-cloudwatchlogs-logging/, python-cloudwatchlogs-logging, 0.0.3, Handler for easy logging to AWS CloudWatchLogs., 2015-03-16T14:52:50+0000
+/project/treeshaker/, treeshaker, 0.0.3, A tree-shaking tool for Python., 2020-05-16T21:40:44+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/flowtool-githooks/, flowtool-githooks, 0.7.46, Automating tasks for git users., 2016-05-04T01:05:43+0000
+/project/bodhi-messages/, bodhi-messages, 5.5, JSON schema for messages sent by Bodhi, 2020-08-11T12:22:55+0000
+/project/bodhi-client/, bodhi-client, 5.5, bodhi client, 2020-08-11T12:22:51+0000
+/project/sanic-transmute/, sanic-transmute, 0.1.3, , 2018-11-21T15:55:02+0000
+/project/pyarmor/, pyarmor, 6.6.2, A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts., 2021-02-28T23:41:17+0000
+/project/skeppa/, skeppa, 2.0.6, A docker deployment tool based on fabric and docker-compose, 2018-08-12T10:36:16+0000
+/project/fabric3/, Fabric3, 1.14.post1, Fabric is a simple, Pythonic tool for remote execution and deployment (py2.7/py3.4+ compatible fork)., 2018-02-11T12:11:21+0000
+/project/cant/, cant, 0.0, Can't Remember!, 2016-02-15T22:44:56+0000
+/project/pypicloud-tools/, pypicloud-tools, 0.1.3, Tools to bypass PyPICloud and work with S3 directly, 2015-12-08T21:34:15+0000
+/project/bicti/, bicti, 0.1.1, Bicti, efficient startup script for within docker containers, 2014-09-03T00:29:01+0000
+/project/butterknife/, butterknife, 0.2.0, Butterknife makes bare-metal Linux deployment dead-simple using the Linux Containers (LXC) and Btrfs filesystem., 2016-05-09T06:12:36+0000
+/project/aws-monocyte/, aws-monocyte, 0.3.509.post312, Monocyte - Search and Destroy unwanted AWS Resources relentlessly., 2018-01-28T20:49:00+0000
+/project/enstaller/, enstaller, 4.8.13, Install and managing tool for egg-based packages, 2017-01-13T19:54:54+0000
+/project/pipdatedd/, pipdatedd, 0.3.3, pip update helpers, 2019-08-03T16:59:05+0000
+/project/katversion/, katversion, 1.1, Reliable git-based versioning for Python packages, 2020-07-27T09:01:41+0000
+/project/setup-clean/, setup-clean, 2020.12.3, python setup.py clean replacement, 2020-12-03T20:39:34+0000
+/project/bodhi/, bodhi, 5.5, bodhi common package, 2020-08-11T12:22:47+0000
+/project/udata-recommendations/, udata-recommendations, 2.2.0, uData content recommendations bridge, 2020-11-30T11:04:55+0000
+/project/fabrik/, fabrik, 3.3.1, A simple to use deployment toolkit built on top of Fabric, 2018-04-16T06:56:31+0000
+/project/ribosome-tool/, ribosome.tool, 0.6.6, Yet another project deploy and release tool, 2019-11-09T16:07:40+0000
+/project/qypi/, qypi, 0.5.0, Query PyPI from the command line, 2019-05-18T17:04:10+0000
+/project/huddle/, huddle, 0.1.5, A server-oriented auto-deployment utility for any type of program or script, 2017-05-30T23:49:21+0000
+/project/metrics-migration/, metrics-migration, 0.1.2, a simple tool to help you migrate graphite metrics, 2017-01-13T23:21:13+0000
+/project/pypackinit/, pypackinit, 1.0, Rapid python package skeleton generator, 2020-10-24T16:13:26+0000
+/project/snakepit/, snakepit, 185, Package Python software as an RPM including all dependencies (even the interpreter)., 2016-03-17T13:18:20+0000
+/project/spec-checker/, spec-checker, 0.0.2, Tool for checking textual requirement/design specifications, 2017-01-15T12:37:35+0000
+/project/pyimapi/, pyIMAPI, 0.4.0b2, Create CD, DVD, DVD Dual Layer, and BluRay ISO images under Windows directly from Python, 2018-06-25T06:47:36+0000
+/project/cyclonedx-bom/, cyclonedx-bom, 0.4.3, CycloneDX software bill-of-material (SBOM) generation utility, 2020-12-05T20:21:04+0000
+/project/pulp-cli/, pulp-cli, 0.7.0, Command line interface to talk to pulpcore's REST API., 2021-03-15T18:18:21+0000
+/project/distinfo/, distinfo, 0.2.0, Extract metadata from Python source distributions, 2018-07-20T22:34:05+0000
+/project/fabtools3/, fabtools3, 0.19.0, [Python3 fork] Tools for writing awesome Fabric files, 2016-04-20T10:35:43+0000
+/project/pexpect/, pexpect, 4.8.0, Pexpect allows easy control of interactive console applications., 2020-01-21T16:37:03+0000
+/project/poorbox/, poorbox, 0.1, Downloads a dropbox directory via the dropbox REST API. Downloads only the changed files. Useful for limited environments., 2013-02-24T02:23:20+0000
+/project/ravenpackapi/, ravenpackapi, 1.0.47, RavenPack API - Python client, 2021-04-12T07:56:30+0000
+/project/nvchecker/, nvchecker, 2.3, New version checker for software, 2021-03-19T05:45:25+0000
+/project/safeget/, safeget, 1.4.8, Safeget gets and verifies files. It does the security checks that almost everyone skips., 2021-03-08T20:08:31+0000
+/project/django-absolute/, django-absolute, 0.3, Absolute URLs tools for django, 2013-03-03T01:39:32+0000
+/project/pickley/, pickley, 2.4.6, Automate installation of standalone python CLIs, 2021-04-08T18:46:03+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/botox/, botox, 0.1.1, High level Boto (AWS) wrapper. Gives boto a facelift!, 2012-06-12T17:27:05+0000
+/project/rezup/, rezup, 1.0.0, Rez launching environment manager, 2021-04-21T20:23:36+0000
+/project/gcg/, gcg, 0.2.0, Git Changelog Generator, 2019-07-09T19:48:36+0000
+/project/makeapt/, makeapt, 1.0a2, Debian APT repositories generator, 2018-10-14T14:52:42+0000
+/project/pexe38/, pexe38, 1.3, Python38 to Exe, 2019-12-17T00:49:39+0000
+/project/mcloud/, mcloud, 1.0.4, A tool that helps you manage Docker based deployments, 2016-03-07T11:46:27+0000
+/project/contender/, contender, 0.2.2, None, 2014-08-27T17:13:12+0000
+/project/gn2pg-client/, gn2pg-client, 0.0.5.dev0, Import tool from GeoNature to a PostgreSQL database through Export module API (client side), 2021-01-07T22:01:22+0000
+/project/doctor-wheel/, doctor-wheel, 1.2, A utility to strip and reduce the size of your wheels, 2020-12-10T17:52:00+0000
+/project/oktaauthpy3/, oktaauthpy3, 0.8, Authenticates from the CLI, 2020-11-09T14:53:25+0000
+/project/fabric2/, fabric2, 2.6.0, High level SSH command execution, 2021-01-19T01:10:02+0000
+/project/mipubsub/, miPubSub, 0.1.dev1, Publish/Subscribe pattern build with RabbitMQ and Protocol Buffers, 2018-01-26T00:02:45+0000
+/project/ivydepparse/, ivydepparse, 1.0.1, Ivy Dependency Parser, 2015-09-30T14:13:51+0000
+/project/terminator3/, terminator3, 0.0.1, It does cool things, 2018-12-11T04:28:03+0000
+/project/setuptools-sky/, setuptools_sky, 0.1.7, the blessed package to manage your versions by scm tags, 2018-09-26T12:35:03+0000
+/project/fabtools/, fabtools, 0.20.0, Tools for writing awesome Fabric files, 2016-10-12T10:37:57+0000
+/project/graingert-drc/, graingert-drc, 0.5.0, Temporary fork of client for Docker Registry V1 and V2, 2017-01-11T13:56:36+0000
+/project/iptest/, IPTest, 0.1.1, It does cool things with IPs against blacklists, 2017-05-20T18:55:03+0000
+/project/udata-schema-gouvfr/, udata-schema-gouvfr, 1.2.0, Integration with schema.data.gouv.fr, 2020-10-16T15:20:18+0000
+/project/bumpr/, bumpr, 0.3.7, Version bumper and Python package releaser, 2017-10-29T11:18:49+0000
+/project/thrash-protect/, thrash-protect, 0.13.0, Simple-Stupid user-space program doing "kill -STOP" and "kill -CONT" to protect from thrashing, 2019-11-22T20:48:36+0000
+/project/fabric-shuttle/, fabric-shuttle, 0.0.22, Declarative service-oriented approach with hooks for using Fabric to provision a machine or vagrant box., 2017-10-14T08:20:09+0000
+/project/elasticpy/, elasticpy, 0.12, Python Wrapper for elasticsearch, 2013-04-16T19:56:34+0000
+/project/pelican-frontmark/, pelican-frontmark, 1.2.1, CommonMark/Frontmatter reader for Pelican, 2019-12-09T18:17:17+0000
+/project/version-query/, version-query, 1.1.0, Package version query toolkit for Python, 2020-02-05T08:54:29+0000
+/project/fabrlce/, fabrlce, 1.0.0, High level SSH command execution, 2021-03-10T05:29:15+0000
+/project/hemp/, Hemp, 0.1.9, Tools for Fabric, 2019-02-19T15:57:40+0000
+/project/bdist-nsi/, bdist_nsi, 0.1.5, Create NSIS windows installers for Python modules., 2012-10-27T12:07:24+0000
+/project/omego/, omego, 0.7.0, OME installation and administration tool, 2019-11-11T14:39:34+0000
+/project/cliche/, cliche, 0.7.46, A minimalistic CLI wrapper out to be the best, 2021-04-15T22:05:29+0000
+/project/django-js/, django.js, 0.8.1, Django JS Tools, 2013-10-19T11:50:45+0000
+/project/oozappa/, oozappa, 0.9.1, Fabric task runner and helper. Executes and manages tasks via web browser., 2017-12-16T05:34:04+0000
+/project/mcloud-plugin-browser-auto-open/, mcloud-plugin-browser-auto-open, 0.10.14, browser-auto-open mcloud plugin, 2015-07-31T06:46:32+0000
+/project/probcount/, probcount, 0.1, A simple probabilistic counter., 2017-12-19T13:15:00+0000
+/project/yadtbroadcast-client-wamp2/, yadtbroadcast-client-wamp2, 0.0.2, YADT - an Augmented Deployment Tool - The Broadcast Client Part, 2015-02-02T12:18:15+0000
+/project/libcomps/, libcomps, 0.1.15.post1, Comps XML file manipulation library, 2020-07-08T18:20:15+0000
+/project/rdeploy/, rdeploy, 0.0.37, CLI that makes it easy to build and deploy an application to k8s., 2021-04-09T15:10:44+0000
+/project/sanic-restplus/, sanic-restplus, 0.5.5, Fully featured framework for fast, easy and documented API development with Sanic, 2021-01-02T09:54:34+0000
+/project/fastlang/, fastlang, 0.0.4, Fast Detection of Language without Dependencies, 2017-03-11T19:14:50+0000
+/project/pipcmd/, pipcmd, 0.1, Tool for installing and managing commands installed from PyPI, 2018-02-12T22:42:42+0000
+/project/onyxproject/, onyxproject, 0.9.0, Intelligent Dashboard, 2017-05-10T14:37:40+0000
+/project/pipman/, pipman, 0.0.3, A wrapper around pip that provides additional/useful features not included in pip itself, 2017-09-23T00:40:31+0000
+/project/django-xstatic/, django-xstatic, 0.0.2, Django helpers to use XStatic packages in Django projects, 2014-03-24T18:47:21+0000
+/project/pyvenvwrapper/, pyvenvwrapper, 1.0.0, pyvenvwrapper is a small and lightweight set of Bash script functions, that enhance the use of venv module for management of virtual environments., 2018-09-16T13:07:03+0000
+/project/netlicensing-client/, netlicensing-client, 0.0.5, Python wrapper for Labs64 NetLicensing RESTful API, 2020-06-14T18:31:23+0000
+/project/udata-ldap/, udata-ldap, 0.3.5, LDAP authentification for udata with optional Kerberos suppport., 2018-11-23T14:13:11+0000
+/project/pybombs/, PyBOMBS, 2.3.4, A meta-package manager to install software from source, or whatever the local package manager is. Designed for easy install of source trees for the GNU Radio project., 2020-09-04T21:46:46+0000
+/project/sanic-devtools/, sanic-devtools, 0.1.0, dev tools for Sanic, 2019-09-02T22:44:24+0000
+/project/pip-utils/, pip-utils, 0.0.6, Helper utilities for pip, 2016-07-12T18:10:27+0000
+/project/sumsy/, sumsy, 0.5.0, A forklift who greatly resembles another forklift, 2017-06-12T23:18:20+0000
+/project/dockerma/, dockerma, 0.5.6, DockerMA facilitates building multi-arch containers with minimal fuss, 2020-01-23T11:59:01+0000
+/project/btsprice/, btsprice, 0.2.56, get price for BitShares, 2017-11-21T09:45:42+0000
+/project/fabrix/, Fabrix, 0.3, Fabrix is Fabric extension for configuration management, 2017-11-15T18:07:36+0000
+/project/setup-dist/, setup-dist, 2020.12.3, setup module for distributions: python -m setup_dist sdist --dist-dir=<dist_dir>, 2020-12-03T20:39:39+0000
+/project/pyinstallercustom/, PyInstallerCustom, 3.5, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-20T18:01:05+0000
+/project/aws/, aws, 0.2.5, Utility to manage your Amazon Web Services and run Fabric against filtered set of EC2 instances., 2013-06-10T13:22:45+0000
+/project/feedview/, feedview, 0.0.1, View a feed url with `feedview <URL>`, 2017-05-25T17:59:35+0000
+/project/swagger-schema/, swagger-schema, 0.5.1, a schematics-based schema for Swagger definitions., 2017-12-17T19:50:39+0000
+/project/depl/, depl, 0.0.1, depl - deploy easy and fast., 2013-09-22T17:55:44+0000
+/project/uranium-plus/, uranium-plus, 2.1.1, an opinionated base package for builds using uranium, 2020-04-10T19:14:06+0000
+/project/py2deb/, py2deb, 5.0, Python to Debian package converter, 2020-08-04T23:59:31+0000
+/project/spruce-pkg/, Spruce-pkg, 0.1.3, Packaging, 2014-01-24T20:33:37+0000
+/project/mockle/, mockle, 0.0.3, Auto Mocking + Pickle, 2016-10-30T15:16:13+0000
+/project/gitlab-job-guard/, gitlab-job-guard, 0.0.4.3, Guard gitlab jobs from multiple simultaneous executions, 2019-04-17T00:58:39+0000
+/project/valiant/, valiant, 0.2.3, Audit tool to help investigate Python dependencies, 2021-04-04T02:30:03+0000
+/project/hubd/, hubd, 0.1, Real-time JSON MVC Framework, 2012-02-17T07:05:45+0000
+/project/revolver/, revolver, 0.0.5, Pythonic server orchestrating based on fabric / cuisine, 2012-11-10T18:16:51+0000
+/project/croquemort/, croquemort, 2.1.0, Croquemort linkchecker, 2019-05-07T10:08:35+0000
+/project/eggsac/, Eggsac, 0.1.0, Package Python applications in a virtualenv for deployment, 2013-11-27T06:02:36+0000
+/project/vcs-repo-mgr/, vcs-repo-mgr, 4.2, Version control repository manager, 2018-04-26T09:31:06+0000
+/project/pynsist/, pynsist, 2.7, Build NSIS installers for Python applications., 2021-03-28T16:28:58+0000
+/project/udata-koumoul/, udata-koumoul, 0.5.0, Theme for Koumoul demo opendata portal, 2020-03-17T13:42:13+0000
+/project/appsync-function-uploader/, appsync-function-uploader, 0.0.5, Creates or updates an AWS AppSync function, 2020-08-13T18:45:08+0000
+/project/cloudrepoanalytics/, CloudRepoAnalytics, 2.0.0, Flask and Annie-based server to keep track of CloudRepo artifact download counts, 2020-06-01T01:30:00+0000
+/project/keyserver/, keyserver, 1.0.0.3, Command line Pub key generator from keyserver.ubuntu.com, 2015-06-25T22:14:31+0000
+/project/gocept-cxoracle/, gocept.cxoracle, 0.1.1, zc.buildout recipe for installing cx_Oracle, 2008-08-29T12:17:39+0000
+/project/pearl/, pearl, 2.3.7, Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX).It can be used for dotfiles, plugins, programs and any form of code accessible via git., 2021-04-05T23:57:06+0000
+/project/brundeckrun/, brundeckrun, 0.2.7, A Rundeck API Python client, 2020-12-04T14:43:01+0000
+/project/mincli/, mincli, 0.2.1, A minimalistic CLI wrapper out to be the best, 2020-02-18T23:03:52+0000
+/project/ezpy/, ezpy, 0.1.0.dev0, Make Python application installs easy as pie, for both users and developers, 2017-06-20T15:44:36+0000
+/project/anguine/, anguine, 0.0.0, anguine, 2017-11-08T22:45:05+0000
+/project/flask-mm/, flask-mm, 0.0.13.dev0, Media Manager for flask, 2020-02-28T16:14:53+0000
+/project/yt-finance/, yt.finance, 0.2, A very basic finance library, 2013-03-17T20:51:09+0000
+/project/redis-taxon/, redis-taxon, 0.3.0, Redis-backed tagged data store, 2012-09-24T04:11:47+0000
+/project/berth/, berth, 1.3.5, Utility to generate package files using Docker containers, 2017-05-05T09:22:58+0000
+/project/awsornot/, awsornot, 1.1.2, Classes for logging and key/value that work identically whether running on AWS or not, 2018-03-27T23:42:55+0000
+/project/docker-compose-just-quieter/, docker-compose-just-quieter, 0.1, Docker Compose CLI utility wrapper which makes `docker-compose` quieter, 2019-11-19T19:39:05+0000
+/project/poni/, poni, 0.4.9, system configuration software, 2011-04-05T15:27:40+0000
+/project/dh-splitpackage/, dh_splitpackage, 0.2.3, dh_split - split monolithic installation directory into sub-packages without pulling your hair out, 2011-06-14T17:41:52+0000
+/project/ya-ma/, ya-ma, 0.3.8, YANDEX transport API client library, 2019-10-13T13:56:06+0000
+/project/docker-map/, docker-map, 1.1.1, Managing Docker images, containers, and their dependencies in Python., 2020-04-09T20:41:18+0000
+/project/mcloud-plugin-simple-publish/, mcloud-plugin-simple-publish, 0.10.10, Very simple mechanism to publish application using docker-proxy, 2015-05-28T00:38:34+0000
+/project/toka/, toka, 0.2.3.21, A handy tool to generate common files in command line, 2015-09-08T04:51:31+0000
+/project/seclusion/, seclusion, 1.1.0, A simple way to provide a secluded deployment location, 2016-02-07T18:23:18+0000
+/project/os-sys/, os-sys, 2.1.4, a big lib with many usefull tools and it are not only os and sys tools..., 2019-12-10T20:06:28+0000
+/project/instagrampictures/, instagramPictures, 1.3.1, Script for downloading pictures from instagram.com, 2017-05-10T21:12:11+0000
+/project/setuptools-scm/, setuptools-scm, 6.0.1, the blessed package to manage your versions by scm tags, 2021-03-17T14:18:59+0000
+/project/outsystems-pipeline/, outsystems-pipeline, 0.3.1, Python package to accelerate the integration of OutSystems with third-party CI/CD tools, 2020-03-25T15:11:47+0000
+/project/distutils-ui/, distutils-ui, 0.1.3, A distutils build extension for PyQt{4,5} applications, 2020-10-02T16:06:09+0000
+/project/pipa/, pipa, 0.1.0, Simple HTTPS PyPI server, 2014-03-26T11:27:31+0000
+/project/placer/, placer, 0.0.7, Let's draw on /r/place!, 2017-04-03T12:35:03+0000
+/project/flask-kits/, Flask-Kits, 0.0.24, demo, 2018-08-05T15:20:14+0000
+/project/udata-ods/, udata-ods, 2.1.0, OpenDataSoft integration for udata, 2020-10-16T15:21:58+0000
+/project/pipimport/, pipimport, 0.2.5, Automatically install missing modules using pip at import time. Best used with virtualenv., 2013-11-07T23:50:15+0000
+/project/p-unity/, p-unity, 0.42.202104180000, { Programming : Unity }, 2021-04-18T01:18:45+0000
+/project/hadeploy/, HADeploy, 0.6.1, An Hadoop Application deployment tool, 2019-01-22T11:06:21+0000
+/project/django-fagungis/, django-fagungis, 0.1.1, DJANGO + FAbric + GUnicorn + NGInx + Supervisor deployment, 2020-07-14T17:00:06+0000
+/project/fiscal-printer-adapter/, fiscal-printer-adapter, 0.0.3, A standarized fiscal printer interface, 2018-12-28T00:41:14+0000
+/project/pkg-orphan/, pkg_orphan, 1.0, Find installed pkgsrc packages which are not dependencies of any other packages (orphans), 2013-03-03T04:34:46+0000
+/project/mocka/, mocka, 0.0.8, Mocka mocks APIs, 2016-08-06T01:02:41+0000
+/project/flask-transmute/, flask-transmute, 1.4.0, a flask plugin to generate routes from objects., 2018-02-16T04:20:15+0000
+/project/chrispile/, chrispile, 1.2.4, Syntactic sugar for running ChRIS apps locally, 2021-03-18T18:47:58+0000
+/project/mt4pycon/, mt4pycon, 1.0.2, A python script using the mtapi EA on MT4 to get candle data, 2020-11-12T13:50:31+0000
+/project/cozy-fuse/, cozy-fuse, 0.1.2, FUSE implementation for Cozy Files, 2014-07-21T11:11:54+0000
+/project/cdent/, cdent, 0.5.7, C'Dent - A Portable Module Programming Language, 2010-06-15T03:27:16+0000
+/project/jprm/, jprm, 0.4.0, Jellyfin Plugin Repository Manager, 2021-03-12T23:08:09+0000
+/project/package-cache/, package-cache, 0.2, A caching proxy for package downloads, 2014-02-22T03:15:16+0000
+/project/flowtool-python/, flowtool-python, 0.7.47, Shortcuts for python devs., 2016-05-11T12:14:29+0000
+/project/yabs/, yabs, 0.4.0, Yet Another Build Script, 2020-12-28T18:57:58+0000
+/project/pytempus/, pytempus, 1.2.2, Tempus Python API, 2018-02-09T10:26:38+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/pyk8sver/, pyk8sver, 1.0, Get k8s version from github, 2019-01-14T18:11:45+0000
+/project/attrs-jsonschema/, attrs-jsonschema, 0.2, convert a attrs annotation to json a json schema., 2017-06-25T16:41:28+0000
+/project/pelican-microdata/, pelican-microdata, 0.3.0, Microdata semantic markups support for Pelican Blog Generator, 2017-02-02T01:09:33+0000
+/project/infotags/, infotags, 1.1.2, Meta info extraction for Python package setup scripts, 2017-09-08T21:01:48+0000
+/project/repomirror/, repomirror, 1.0.4, Clone/mirror multiple Linux distro/BSD flavor/etc. repositories to a local server, 2020-07-07T17:33:39+0000
+/project/ccfreeze/, ccfreeze, 1.1.5, create standalone executables from python scripts, 2016-05-22T09:21:10+0000
+/project/btsbots-wallet/, btsbots-wallet, 0.2.3, web wallet for BitShares, 2016-10-02T07:40:10+0000
+/project/pearlcli/, pearlcli, 2.1.1, Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX).It can be used for dotfiles, plugins, programs and any form of code accessible via git., 2020-01-14T00:00:57+0000
+/project/djangopypi/, djangopypi, 0.4.7, A Django application that emulates the Python Package Index., 2015-10-27T12:54:41+0000
+/project/tinyshar/, tinyshar, 0.10.2, simple library and utility for creation of shell archives, 2020-06-17T13:17:50+0000
+/project/sink/, sink, 0.1.0b2, Arch Linux AUR installer for the lazy, 2019-02-19T09:02:34+0000
+/project/emby-updater/, emby-updater, 0.8.3, A little tool to keep your emby media server up to date., 2020-08-28T11:54:51+0000
+/project/odoo-env/, odoo-env, 0.10.10, A Dockerized environment for Odoo, 2021-03-27T21:25:59+0000
+/project/aptdaemon/, aptdaemon, 1.1.1, DBus driven daemon for APT, 2013-08-12T04:34:11+0000
+/project/freeze-requirements/, freeze-requirements, 0.5.3, A script to help creating and maintaining frozen requirements for pip, 2017-07-27T11:05:19+0000
+/project/deb-pkg-tools/, deb-pkg-tools, 8.4, Debian packaging tools, 2021-03-09T13:48:47+0000
+/project/gouvlu/, gouvlu, 2.0.20, Official udata theme and extensions of the Open Data Portal of Luxembourg, 2021-04-20T12:25:31+0000
+/project/pypiweb/, pypiweb, 0.1.1, pypiweb description, 2015-10-21T17:40:00+0000
+/project/updater4pyi/, updater4pyi, 0.7, Lightweight library for software auto-update for applications frozen with pyinstaller, 2014-12-07T18:37:13+0000
+/project/ivre/, ivre, 0.9.16, Network recon framework, 2020-12-08T14:53:50+0000
+/project/paved/, Paved, 0.5.1, Common tasks for Paver-based projects., 2016-11-08T00:56:50+0000
+/project/sky/, sky, 0.0.201, AI powered scraping in Python 3, 2018-09-01T22:08:00+0000
+/project/ansible-vagrant/, ansible-vagrant, 1.3.0, Simple helper to use ansible with vagrant, 2014-12-30T10:14:18+0000
+/project/webstarts/, webstarts, 2.9.0, Entry point for modern flask/gunicorn/sentry/celery web applications, 2017-10-27T03:11:07+0000
+/project/permset/, permset, 0.22, Simple standalone utility script to manage \*nix permissions on file and directory trees based on patterns., 2012-12-14T22:02:51+0000
+/project/pypi-simple/, pypi-simple, 0.8.0, PyPI Simple Repository API client library, 2020-12-13T19:47:19+0000
+/project/add-juniper-software/, add-juniper-software, 1.0.3, A CLI tool to install software on a remote JunOS machine., 2021-02-15T22:21:16+0000
+/project/whereami/, whereami, 0.4.85, Uses WiFi to tell you where you are, 2017-10-21T09:40:26+0000
+/project/gocept-download/, gocept.download, 0.9.5, zc.buildout recipe for downloading and extracting an archive., 2010-07-26T08:50:55+0000
+/project/cgtn-videos/, cgtn-videos, 0.0.4, Python package fetch the video URLs and metadata from CGTN website, 2019-12-04T03:53:43+0000
+/project/repi-client/, repi-client, 0.4, RePi client, a Redis PubSub interface for PyPi., 2013-07-22T19:51:57+0000
+/project/arundeckrun/, arundeckrun, 0.2.3, A Rundeck API Python client, 2016-04-13T13:27:55+0000
+/project/pytest-lamp/, pytest-lamp, 0.1.0, , 2017-01-06T01:13:55+0000
+/project/gstore/, gstore, 0.4.0, Synchronize GitHub repositories made easy, 2021-02-19T07:53:50+0000
+/project/fiaas-publish/, fiaas-publish, 0.2.0, Publish python package to PyPI and Github, 2019-01-09T09:39:01+0000
+/project/versionah/, versionah, 0.16.0, Simple version specification management, 2017-11-25T10:04:58+0000
+/project/gptsum/, gptsum, 0.0.9, A tool to make disk images using GPT partitions self-verifiable, 2021-03-25T23:18:05+0000
+/project/django-image-proxy/, django_image_proxy, 0.0.8, Simple Django Image Proxy especially for Horizon Openstack Dashboard., 2015-08-03T10:06:42+0000
+/project/nostalgia/, nostalgia, 0.1.67, nostalgia enables to self-track and gain insights into your life, 2020-03-08T22:04:17+0000
+/project/pipesnake/, pipesnake, 0.1, Feature extractor and data processing pipelines for Pandas inspired by Scikit-Learn., 2018-01-26T18:18:15+0000
+/project/afterdown/, afterdown, 0.9.93, Automate the organization of your downloads., 2018-05-12T20:36:57+0000
+/project/winapps/, winapps, 0.2.0, Python library for managing installed applications on Windows, 2021-04-02T16:26:07+0000
+/project/yuki/, yuki, 1.0.6, CEPC software management toolkit, 2018-02-26T02:48:03+0000
+/project/surgen/, surgen, 0.1.0, a utility library to help provide api route generation form function signature for web frameworks., 2019-07-05T22:50:15+0000
+/project/shrynk/, shrynk, 0.2.25, Using Machine Learning to learn how to Compress, 2020-04-26T22:39:31+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/auto-tag/, auto-tag, 0.8.2, Automatically tag a branch based on commit message, 2020-06-28T08:07:13+0000
+/project/pyvast/, pyvast, 2021.3.25, Python CLI wrapper for VAST - Visibility Across Space and Time, 2021-03-25T13:01:33+0000
+/project/pypmserver/, pypmserver, 0.1.67, pypmserver v. 0.1.66
+
+Simple standalone server for .pypm packages., 2013-01-23T08:13:07+0000
+/project/docker-registry-util/, docker-registry-util, 1.0.3, Search and cleanup on Docker Registry v2., 2017-11-15T06:35:41+0000
+/project/cx-freeze/, cx-Freeze, 6.6, Create standalone executables from Python scripts, 2021-04-14T09:48:47+0000
+/project/pypiserver/, pypiserver, 1.4.2, A minimal PyPI server for use with pip/easy_install., 2020-10-10T13:17:54+0000
+/project/crtime/, crtime, 0.0.6, crtime: get creation time of files for any platform and no external dependencies., 2019-03-19T20:31:37+0000
+/project/cdist/, cdist, 6.9.6, A Usable Configuration Management System, 2021-04-20T05:36:01+0000
+/project/logstash-easy/, logstash-easy, 1.0, Very easy to use Logstash logging handler, 2017-08-22T08:00:42+0000
+/project/wheel-filename/, wheel-filename, 1.3.0, Parse wheel filenames, 2021-03-18T12:38:50+0000
+/project/btspusher/, btspusher, 0.0.9, push service for Bitshares, 2016-10-01T14:19:37+0000
+/project/pybuilder-emr-plugin/, pybuilder-emr-plugin, 1.1.0, PyBuilder plugin to handle Amazon EMR functionality, 2017-11-28T23:01:48+0000
+/project/mozdownload/, mozdownload, 1.26.0, Script to download builds for Firefox and Thunderbird from the Mozilla server., 2019-05-13T12:29:21+0000
+/project/dsv/, dsv, 0.0.7, Automagically read/wrte csv., 2017-02-03T12:14:11+0000
+/project/deckhand/, deckhand, 1.0.1, A Collection of development tools, 2019-07-05T16:58:59+0000
+/project/wfcli/, wfcli, 0.4.5, WebFaction utilities, 2018-11-02T11:48:26+0000
+/project/tl-buildout-mod-python/, tl.buildout_mod_python, 0.3, zc.buildout recipe to build the mod_python Apache module., 2009-03-23T20:05:16+0000
+/project/pip-date/, pip-date, 1.0.3, Show the installation/modification times of all your pip packages and other tools, 2019-02-08T15:54:27+0000
+/project/fabric/, fabric, 2.6.0, High level SSH command execution, 2021-01-19T01:10:03+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/pip-accel/, pip-accel, 0.43, Accelerator for pip, the Python package manager, 2016-03-14T12:52:31+0000
+/project/pybuilder-aws-plugin/, pybuilder_aws_plugin, 183, PyBuilder plugin to handle AWS functionality, 2016-06-23T09:13:00+0000
+/project/nagios-graphite/, nagios_graphite, 0.5.0, Nagios command for Graphite metrics, 2016-07-11T21:11:51+0000
+/project/rafi-mx/, rafi.mx, 0.2.18, Workspace/project-oriented tmux/git personal assistant., 2016-07-15T16:44:35+0000
+/project/ficloud/, ficloud, 0.1.13, Production cloud deployments of fig infrastructure with docker, 2014-03-17T12:03:12+0000
+/project/fabric-pr2042/, fabric-pr2042, 2.5.0, High level SSH command execution, 2019-12-13T20:16:33+0000
+/project/ironpycompiler/, ironpycompiler, 0.10.1, Compile IronPython scripts into a stand-alone .NET assembly., 2014-08-30T12:10:53+0000
+/project/sourcedefender/, sourcedefender, 7.0.7, Advanced encryption protecting your python codebase., 2021-04-23T15:51:21+0000
+/project/athena-type-converter/, athena-type-converter, 0.0.3, Helper functions to convert types returned from Athena into Python types, 2020-03-05T21:55:00+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/calmjs-sassy/, calmjs.sassy, 1.0.2, Package for extending the Calmjs framework to support the usage of sass in a manner that crosses Python package boundaries by exposing an import system that mimics the package namespaces available within a given Python environment., 2020-04-23T10:14:52+0000
+/project/autoupgrade3/, autoupgrade3, 0.2.1, Python 3 friendly automatic upgrade of python modules and packages, 2016-06-25T08:18:48+0000
+/project/fabric-logging/, fabric-logging, 0.1.0, Adds option to redirect all stdout/stderr through standard Python logging. Very much a work in progress, 2012-09-19T00:28:18+0000
+/project/setup-qt/, setup_qt, 1.0.0, Compile Qt resource files, UI files and translations in setup.py, 2017-03-23T17:03:48+0000
+/project/signify/, signify, 0.3.0, Module to generate and verify PE signatures, 2020-08-16T10:32:38+0000
+/project/pyalpm/, pyalpm, 0.9.2, libalpm bindings for Python 3, 2020-10-13T20:14:26+0000
+/project/seed/, seed, 0.11.3, A utility for easily creating and releasing Python packages, 2017-02-22T16:22:12+0000
+/project/yadtbroadcast-client/, yadtbroadcast-client, 1.2.1, YADT - an Augmented Deployment Tool - The Broadcast Client Part, 2014-02-11T15:22:18+0000
+/project/gitvier/, gitvier, 0.1.1, A component manager based where your components live in Git., 2017-05-13T20:57:31+0000
+/project/zn/, zn, 0.0.1, Zinc, 2019-01-31T00:43:06+0000
+/project/transmute/, transmute, 5.0, Automatically update Python Eggs on application startup., 2014-03-07T13:12:48+0000
+/project/malice/, malice, 0.0.3, My awesome little infrastructure configuration environment, 2019-06-24T18:10:44+0000
+/project/yagmail/, yagmail, 0.14.247, Yet Another GMAIL client, 2021-03-31T13:01:45+0000
+/project/django-fab/, django-fab, 1.0.4, Common methods to help create fabric deplopment scripts for django, 2009-10-13T04:34:19+0000
+/project/mr-parker/, mr.parker, 1.0, Ensures that the PyPI bus factor for a package is above a certain threshold., 2009-10-31T14:43:22+0000
+/project/pexe37/, pexe37, 0.9.6.5, Python to Exe, 2019-12-17T04:49:09+0000
+/project/graphiteencoder/, GraphiteEncoder, 0.1.4, , 2018-09-28T02:33:54+0000
+/project/autopub/, autopub, 0.2.0, Automatic package release upon pull request merge, 2021-02-15T14:47:37+0000
+/project/venv-pack/, venv-pack, 0.2.0, Package virtual environments for redistribution, 2018-08-23T16:02:51+0000
+/project/codedeploy-monitor/, codedeploy_monitor, 0.1, Creates and monitors AWS CodeDeploy deployments., 2015-12-16T10:07:07+0000
+/project/genesis/, genesis, 0.0.0, AI based Genetic algorithm for data migration, 2018-05-23T23:11:16+0000
+/project/flask-fs/, flask-fs, 0.6.1, Simple and easy file storages for Flask, 2018-04-19T12:39:10+0000
+/project/aboutcode/, AboutCode, 3.0.0.dev3, Document the provenance (origin and license) of third-party software using small text files. Collect inventories, generate attribution documentation., 2016-06-21T10:57:34+0000
+/project/jumpssh/, jumpssh, 1.6.5, Python library for remote ssh calls through a gateway., 2020-11-06T17:52:50+0000
+/project/ministryofpackages/, MinistryOfPackages, 0.9.5, A minimal PyPI implementation meant for use behind a firewall., 2011-09-19T17:08:29+0000
+/project/inboard/, inboard, 0.9.1, Docker images and utilities to power your Python APIs and help you ship faster., 2021-04-19T23:47:34+0000
+/project/buildout-couchdb/, buildout_couchdb, 0.1, ZC buildout recipe for Apache CouchDB server, 2009-11-09T22:19:19+0000
+/project/rudix/, rudix, 2017.3.18, Rudix Package Manager, 2017-03-19T01:46:15+0000
+/project/solv/, solv, 0.7.17, A free package dependency solver using a satisfiability algorithm., 2021-01-30T04:33:15+0000
+/project/sdataflow/, sdataflow, 0.3, A simple language to describe dataflow between entries, implemented in Python., 2015-04-27T16:57:03+0000
+/project/bakercm/, bakercm, 0.4.4, Baker is a decentralized configuration management based on files, 2018-11-12T21:49:18+0000
+/project/appsync-resolver-uploader/, appsync-resolver-uploader, 1.0.0, Creates or updates an AWS AppSync resolver, 2021-04-23T16:53:09+0000
+/project/yourtool/, yourtool, 0.0.1, Uses WiFi to tell you where you are, 2016-10-08T16:56:10+0000
+/project/flowtool-releasing/, flowtool-releasing, 0.7.23, Releasing made easy for pythonic git users., 2016-04-24T15:39:37+0000
+/project/package/, package, 0.1.1, package is a package to package your package, 2011-04-24T05:58:52+0000
+/project/prequ/, prequ, 1.4.7, Prequ -- Python requirement handling, 2019-07-29T19:14:48+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/docker-registry-purger/, docker-registry-purger, 0.1.1, A simple docker registry cleaner, 2018-08-31T08:58:57+0000
+/project/mysqlbinlog2blinker/, mysqlbinlog2blinker, 0.1, This project listen on mysql binlog (as a slave) and send the binlog event to blinker signal. It can remember last binlog position and work as a MySQL slave., 2016-04-04T07:48:21+0000
+/project/natural-money/, natural_money, 0.0.4, Find money / currencies talk, 2016-08-20T18:33:28+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/pycloudhub/, pycloudhub, 0.1.10, A CloudHub API wrapper written in python, 2016-07-28T07:49:09+0000
+/project/transmute-core/, transmute-core, 1.13.3, a utility library to help provide api route generation form function signature for web frameworks., 2019-12-19T21:19:59+0000
+/project/git-export-hardlink/, git_export_hardlink, 0.1.0, Git export command that reuses already existing exports and hardlinks files from them., 2013-02-14T08:16:11+0000
+/project/platform-migrator/, platform-migrator, 1.1.0, Migrate software from one system to another, 2018-05-12T21:44:52+0000
+/project/udata-geoplatform/, udata-geoplatform, 2.0.0, Connects uData with Geoplatform (geo.data.gouv.fr), 2020-03-11T17:08:24+0000
+/project/xstatic/, XStatic, 1.0.2, XStatic base package with minimal support code, 2018-09-18T17:49:48+0000
+/project/draxoft-pkginfo/, draxoft.pkginfo, 0.1, Simple utility and library for extracting metadata from Python setup files., 2012-03-15T08:27:47+0000
+/project/pyinstaller/, pyinstaller, 4.3, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-17T04:46:48+0000
+/project/setuptools-parcels/, setuptools-parcels, 0.0.8, an alternative interface to package_data, 2017-04-20T16:45:17+0000
+/project/buildutils/, buildutils, 0.3, Distutils extensions for developing Python libraries and applications., 2007-09-19T17:50:17+0000
+/project/tok/, tok, 0.1.14, Fast and customizable tokenizer, 2019-07-09T18:48:26+0000
+/project/cx-freeze-395/, cx-Freeze-395, 6.0b1, create standalone executables from Python scripts, 2019-04-02T18:41:00+0000
+/project/supvisors/, supvisors, 0.5, A Control System for Distributed Applications, 2021-03-02T00:23:58+0000
+/project/autoupgrade-ng/, autoupgrade-ng, 0.3.0, Automatic upgrade of PyPI packages, 2017-02-17T12:13:31+0000
+/project/creep/, creep, 0.3.5, Incremental FTP/SSH deployment tool, 2020-01-18T09:36:07+0000
+/project/flask-restplus-oauth-redirect/, flask-restplus-oauth-redirect, 0.13.0, Fully featured framework for fast, easy and documented API development with Flask, 2019-03-29T12:47:53+0000
+/project/flowtool-githooks-demo/, flowtool-githooks-demo, 0.7.24, Trivial demo tasks for git users., 2016-05-02T21:30:23+0000
+/project/flowtool-stages/, flowtool-stages, 0.7.11, Manage different environments., 2016-04-24T15:47:08+0000
+/project/carbonstat/, carbonstat, 1.0, Metric collection agent for Carbon, 2017-08-22T08:07:04+0000
+/project/riker/, riker, 0.2.4, Deploy any application to AWS, 2015-05-01T04:09:05+0000
+/project/tpunicorn/, tpunicorn, 0.5.5, TPU management, 2021-01-29T02:56:00+0000
+/project/robotice/, robotice, 0.0.1, Opensource monitoring, reasoning and acting framework., 2015-02-26T21:44:25+0000
+/project/reliz/, reliz, 0.1.0.dev0, Manage releases versionning accross multiple products, 2017-12-08T16:19:39+0000
+/project/udata-gouvfr/, udata-gouvfr, 2.5.5, uData customizations for Data.gouv.fr, 2021-04-02T14:16:14+0000
+/project/wheel-inspect/, wheel-inspect, 1.7.0, Extract information from wheels, 2020-11-07T22:33:36+0000
+/project/pypi-parker/, pypi-parker, 0.1.2, , 2017-10-09T04:03:50+0000
+/project/setl/, setl, 0.10.0, Packaging tool for PEP 518 projects with Setuptools backend., 2020-03-11T17:16:25+0000
+/project/trackdeps/, trackdeps, 1.0.2, , 2016-02-28T16:15:38+0000
+/project/invocations/, invocations, 2.0.0, Common/best-practice Invoke tasks and collections, 2021-01-24T23:47:08+0000
+/project/fabric-tb/, fabric-tb, 0.0.1, Based on Fabric, use ansible-like config files., 2016-01-15T10:13:06+0000
+/project/peeper/, Peeper, 0.1, Peep inside a Python sdist tarball/zip and find its dirty requirements., 2014-10-20T10:34:42+0000
+/project/taskforce/, taskforce, 0.6.0, Taskforce starts and restarts daemon processes.  It will detect executable and/or module changes and automatically restart the affected processes., 2020-08-13T19:13:49+0000
+/project/os-sys-php/, os-sys-php, 2019.10.13, a big lib with many usefull tools and it are not only os and sys tools..., 2019-10-14T04:22:05+0000
+/project/pylightnix/, pylightnix, 0.2.1, A Nix-style immutable data management library in Python, 2020-08-01T15:29:19+0000
+/project/bureaucrat/, bureaucrat, 0.3.6, Procfile and Deployfile process manager for Python virtual environments, 2015-10-22T01:52:59+0000
+/project/wheelfile/, wheelfile, 0.0.3, API for inspecting and creating .whl files, 2021-03-28T01:42:34+0000
+/project/sysdm/, sysdm, 0.8.58, Scripts as a service. Builds on systemd., 2021-03-05T15:40:20+0000
+/project/paci/, paci, 1.10.3, Your friendly, lightweight and flexible package manager., 2021-01-22T11:06:22+0000
+/project/wagtail-sendinblue/, wagtail-sendinblue, 0.1.0.dev0, SendInBlue integration for Wagtail, 2017-11-12T22:41:30+0000
+/project/loco/, loco, 0.1.32, Share localhost through SSH., 2019-02-09T23:05:44+0000
+/project/yay-digitalsparky/, yay-digitalsparky, 0.0.1, Simple Python interface to Arch Linux package manager (yay), 2020-08-21T18:13:08+0000
+/project/pudb/, pudb, 2020.1, A full-screen, console-based Python debugger, 2020-12-21T04:20:59+0000
+/project/django-password/, django-password, 3.0, A Django application to store communal passwords., 2012-05-11T15:19:38+0000
+/project/bombardier-cli/, bombardier_cli, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:39+0000
+/project/pyqt-distutils/, pyqt-distutils, 0.7.3, A set of distutils extension for building Qt ui files, 2017-06-18T11:18:50+0000
+/project/gn2gn-client/, gn2gn-client, 0.0.4.dev0, Outil d'import de données entre instances GeoNature (côté client), 2020-12-31T00:54:39+0000
+/project/impstall/, impstall, 0.3.0, This module can be used to import python packages and install them if not already installed., 2017-07-28T01:24:47+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/launchbox/, launchbox, 0.1.1, Packaging and dependency resolution for chef-solo cookbooks, 2013-01-03T05:32:15+0000
+/project/tbcli/, tbcli, 0.0.10, Based on Fabric, use ansible-like config files., 2016-02-17T07:01:21+0000
+/project/access-points/, access_points, 0.4.66, Scan your WiFi and get access point information and signal quality., 2019-09-08T22:32:03+0000
+/project/with-cloud-blob/, with-cloud-blob, 0.4.4, , 2020-07-08T09:28:33+0000
+/project/django-eztables/, django-eztables, 0.3.2, jQuery Datatables integration for Django, 2013-06-07T00:39:14+0000
+/project/awslambda/, awslambda, 1.0.6, A tool for deploying Python projects to AWS Lambda., 2016-12-04T02:41:55+0000
+/project/solar/, solar, 0.2.1, Deployment tool, 2016-02-18T15:25:01+0000
+/project/pexpect-py3-patch/, pexpect-py3-patch, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:14:18+0000
+/project/isconf/, isconf, 4.2.8.253, Infrastructure configuration management tool, 2015-02-25T04:38:18+0000
+/project/aliyun-img-utils/, aliyun-img-utils, 1.1.0, Package that provides utilities for handling images in Aliyun Cloud., 2021-04-07T15:44:53+0000
+/project/dot-access/, dot_access, 0.0.1, Makes nested python objects easy to go through, 2017-09-22T21:09:59+0000
+/project/justdb/, justdb, 0.0.14, Just a thread/process-safe, file-based, fast, database., 2017-06-21T20:12:37+0000
+/project/pipis/, pipis, 2.0.0.post2, Wraps pip and venv to install scripts, 2019-06-19T11:23:26+0000
+/project/dstack-factory/, dstack-factory, 1.0.7, CLI that accompanies dstack-factory for building and publishing docker images for python packages., 2017-02-17T12:22:55+0000
+/project/genesis/, genesis, 0.0.0, AI based Genetic algorithm for data migration, 2018-05-23T23:11:16+0000
+/project/flask-fs/, flask-fs, 0.6.1, Simple and easy file storages for Flask, 2018-04-19T12:39:10+0000
+/project/aboutcode/, AboutCode, 3.0.0.dev3, Document the provenance (origin and license) of third-party software using small text files. Collect inventories, generate attribution documentation., 2016-06-21T10:57:34+0000
+/project/jumpssh/, jumpssh, 1.6.5, Python library for remote ssh calls through a gateway., 2020-11-06T17:52:50+0000
+/project/ministryofpackages/, MinistryOfPackages, 0.9.5, A minimal PyPI implementation meant for use behind a firewall., 2011-09-19T17:08:29+0000
+/project/inboard/, inboard, 0.9.1, Docker images and utilities to power your Python APIs and help you ship faster., 2021-04-19T23:47:34+0000
+/project/buildout-couchdb/, buildout_couchdb, 0.1, ZC buildout recipe for Apache CouchDB server, 2009-11-09T22:19:19+0000
+/project/rudix/, rudix, 2017.3.18, Rudix Package Manager, 2017-03-19T01:46:15+0000
+/project/solv/, solv, 0.7.17, A free package dependency solver using a satisfiability algorithm., 2021-01-30T04:33:15+0000
+/project/sdataflow/, sdataflow, 0.3, A simple language to describe dataflow between entries, implemented in Python., 2015-04-27T16:57:03+0000
+/project/bakercm/, bakercm, 0.4.4, Baker is a decentralized configuration management based on files, 2018-11-12T21:49:18+0000
+/project/appsync-resolver-uploader/, appsync-resolver-uploader, 1.0.0, Creates or updates an AWS AppSync resolver, 2021-04-23T16:53:09+0000
+/project/yourtool/, yourtool, 0.0.1, Uses WiFi to tell you where you are, 2016-10-08T16:56:10+0000
+/project/flowtool-releasing/, flowtool-releasing, 0.7.23, Releasing made easy for pythonic git users., 2016-04-24T15:39:37+0000
+/project/package/, package, 0.1.1, package is a package to package your package, 2011-04-24T05:58:52+0000
+/project/prequ/, prequ, 1.4.7, Prequ -- Python requirement handling, 2019-07-29T19:14:48+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/docker-registry-purger/, docker-registry-purger, 0.1.1, A simple docker registry cleaner, 2018-08-31T08:58:57+0000
+/project/mysqlbinlog2blinker/, mysqlbinlog2blinker, 0.1, This project listen on mysql binlog (as a slave) and send the binlog event to blinker signal. It can remember last binlog position and work as a MySQL slave., 2016-04-04T07:48:21+0000
+/project/natural-money/, natural_money, 0.0.4, Find money / currencies talk, 2016-08-20T18:33:28+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/pycloudhub/, pycloudhub, 0.1.10, A CloudHub API wrapper written in python, 2016-07-28T07:49:09+0000
+/project/transmute-core/, transmute-core, 1.13.3, a utility library to help provide api route generation form function signature for web frameworks., 2019-12-19T21:19:59+0000
+/project/git-export-hardlink/, git_export_hardlink, 0.1.0, Git export command that reuses already existing exports and hardlinks files from them., 2013-02-14T08:16:11+0000
+/project/platform-migrator/, platform-migrator, 1.1.0, Migrate software from one system to another, 2018-05-12T21:44:52+0000
+/project/udata-geoplatform/, udata-geoplatform, 2.0.0, Connects uData with Geoplatform (geo.data.gouv.fr), 2020-03-11T17:08:24+0000
+/project/xstatic/, XStatic, 1.0.2, XStatic base package with minimal support code, 2018-09-18T17:49:48+0000
+/project/draxoft-pkginfo/, draxoft.pkginfo, 0.1, Simple utility and library for extracting metadata from Python setup files., 2012-03-15T08:27:47+0000
+/project/pyinstaller/, pyinstaller, 4.3, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-17T04:46:48+0000
+/project/setuptools-parcels/, setuptools-parcels, 0.0.8, an alternative interface to package_data, 2017-04-20T16:45:17+0000
+/project/buildutils/, buildutils, 0.3, Distutils extensions for developing Python libraries and applications., 2007-09-19T17:50:17+0000
+/project/fabric/, fabric, 2.6.0, High level SSH command execution, 2021-01-19T01:10:03+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/pip-accel/, pip-accel, 0.43, Accelerator for pip, the Python package manager, 2016-03-14T12:52:31+0000
+/project/pip2pkgbuild/, pip2pkgbuild, 0.2.6, Generate PKGBUILD file for a Python module from PyPi, 2019-04-13T07:56:19+0000
+/project/serviceinstaller/, serviceinstaller, 0.1.3, A flexible service installer, currently compatible with Linux Systemd., 2020-06-19T12:07:42+0000
+/project/make-lambda-package/, make-lambda-package, 1.1.0, Bundle up deployment packages for AWS Lambda., 2019-11-04T23:40:36+0000
+/project/fabtools-python/, fabtools-python, 0.19.7, Fabtools version compatible with both Python2 and Python3, 2017-03-27T17:47:37+0000
+/project/awxkit/, awxkit, 19.0.0, The official command line interface for Ansible AWX, 2021-04-07T21:46:01+0000
+/project/nuitka/, Nuitka, 0.6.14.4, Python compiler with full language support and CPython compatibility, 2021-04-18T14:21:23+0000
+/project/vcver/, vcver, 0.2.11, provide package versions with version control data., 2020-04-08T04:20:43+0000
+/project/grocker/, grocker, 6.9.1, Docker image builder, 2021-04-20T10:05:17+0000
+/project/uranium/, uranium, 2.1.2, a build system for python, 2020-04-12T03:36:30+0000
+/project/monocat/, monocat, 0.5.0, monocat is a command line utility for managing GitHub releases, 2020-10-13T22:55:19+0000
+/project/bleeding-rez/, bleeding-rez, 2.40.5, A cross-platform packaging system that can build and install multiple version of packages, and dynamically configure resolved environments at runtime., 2020-11-06T09:40:19+0000
+/project/sysdm/, sysdm, 0.8.58, Scripts as a service. Builds on systemd., 2021-03-05T15:40:20+0000
+/project/loco/, loco, 0.1.32, Share localhost through SSH., 2019-02-09T23:05:44+0000
+/project/yay-digitalsparky/, yay-digitalsparky, 0.0.1, Simple Python interface to Arch Linux package manager (yay), 2020-08-21T18:13:08+0000
+/project/pudb/, pudb, 2020.1, A full-screen, console-based Python debugger, 2020-12-21T04:20:59+0000
+/project/django-password/, django-password, 3.0, A Django application to store communal passwords., 2012-05-11T15:19:38+0000
+/project/bombardier-cli/, bombardier_cli, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:39+0000
+/project/pyqt-distutils/, pyqt-distutils, 0.7.3, A set of distutils extension for building Qt ui files, 2017-06-18T11:18:50+0000
+/project/gn2gn-client/, gn2gn-client, 0.0.4.dev0, Outil d'import de données entre instances GeoNature (côté client), 2020-12-31T00:54:39+0000
+/project/gdm/, GDM, 0.8.2, A language-agnostic, 2016-02-24T14:56:41+0000
+/project/adhoc/, AdHoc, 0.3.2, Standalone Package Generator, 2013-08-24T09:06:43+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/get-mirror/, get-mirror, 1.0, UNKNOWN, 2013-06-17T07:52:41+0000
+/project/applause-tool/, applause-tool, 0.5.0, This package allows integration with Applause Inc. services., 2016-10-14T13:32:24+0000
+/project/lambda-deploy/, lambda-deploy, 0.1.2, Easily deploy code to AWS Lambda, 2016-08-11T16:19:54+0000
+/project/tfnz/, tfnz, 1.3.4, SDK for 20ft.nz, 2018-08-13T02:33:32+0000
+/project/snapcraft/, snapcraft, 3.8, Publish your app for Linux users for desktop, cloud, and IoT., 2019-09-11T15:14:19+0000
+/project/python-quilt/, python-quilt, 1.0, A quilt patch system implementation in Python, 2017-07-01T11:52:05+0000
+/project/flowtool-base/, flowtool-base, 0.7.61, Start managing your workflow!, 2016-05-03T18:30:36+0000
+/project/localshop/, localshop, 0.9.3, A private pypi server including auto-mirroring of pypi., 2015-05-15T13:53:19+0000
+/project/fuel-plugin-builder/, fuel-plugin-builder, 4.2.0, Helps to create and build fuel plugins, 2017-02-02T14:05:55+0000
+/project/projy/, Projy, 0.4.1, Projy is a template-based skeleton generator., 2013-10-21T13:32:54+0000
+/project/fab-classic/, fab-classic, 1.18.1, fab-classic is a simple, Pythonic tool for remote execution and deployment., 2020-07-28T10:07:23+0000
+/project/riker/, riker, 0.2.4, Deploy any application to AWS, 2015-05-01T04:09:05+0000
+/project/tpunicorn/, tpunicorn, 0.5.5, TPU management, 2021-01-29T02:56:00+0000
+/project/robotice/, robotice, 0.0.1, Opensource monitoring, reasoning and acting framework., 2015-02-26T21:44:25+0000
+/project/reliz/, reliz, 0.1.0.dev0, Manage releases versionning accross multiple products, 2017-12-08T16:19:39+0000
+/project/udata-gouvfr/, udata-gouvfr, 2.5.5, uData customizations for Data.gouv.fr, 2021-04-02T14:16:14+0000
+/project/wheel-inspect/, wheel-inspect, 1.7.0, Extract information from wheels, 2020-11-07T22:33:36+0000
+/project/pypi-parker/, pypi-parker, 0.1.2, , 2017-10-09T04:03:50+0000
+/project/setl/, setl, 0.10.0, Packaging tool for PEP 518 projects with Setuptools backend., 2020-03-11T17:16:25+0000
+/project/trackdeps/, trackdeps, 1.0.2, , 2016-02-28T16:15:38+0000
+/project/invocations/, invocations, 2.0.0, Common/best-practice Invoke tasks and collections, 2021-01-24T23:47:08+0000
+/project/possible/, possible, 0.0.0, Possible is configuration management tool, 2019-05-26T09:26:07+0000
+/project/pip-save/, pip-save, 0.2.0, A wrapper around pip to add `npm --save` style functionality to pip, 2016-09-20T19:38:08+0000
+/project/gentle/, Gentle, 0.1, Gentle is a help you quickly submit code to the test environment tools., 2013-12-04T15:12:20+0000
+/project/appypi/, appypi, 0.2.0, appypi: sandboxing apps from Pypi packages, 2012-12-16T17:22:04+0000
+/project/warthog/, warthog, 2.0.1, Simple client for A10 load balancers, 2017-07-20T21:19:28+0000
+/project/rundeckrun/, rundeckrun, 0.2.1, Rundeck API Python client, 2015-10-12T20:51:39+0000
+/project/moscow-yandex-transport/, moscow-yandex-transport, 0.2.0, YANDEX transport API client library, 2019-08-31T17:39:09+0000
+/project/cizsle/, cizsle, 0.0a7, Cisco ZTP Server LE, 2019-05-09T02:14:31+0000
+/project/calmjs-dev/, calmjs.dev, 2.3.0, Package for aiding the development of JavaScript code to be provided as part of Python packages through integration with Node.js development tools into a Python environment via the Calmjs framework., 2019-05-28T06:03:36+0000
+/project/cada/, cada, 1.0.0, Search and consult CADA advices, 2019-07-19T13:52:44+0000
+/project/pypercard/, pypercard, 0.0.1a4, A HyperCard inspired GUI framework for beginner developers., 2019-09-21T15:50:04+0000
+/project/nexus-client/, nexus_client, 0.1.1, Python client for Nexus., 2014-12-26T19:55:59+0000
+/project/rt-factory/, rt-factory, 0.2.4, Pythonic wrapper for the artifactory API, 2017-10-26T15:22:17+0000
+/project/pglite/, pglite, 1.0.13, PostgreSQLite, 2020-09-01T08:16:49+0000
+/project/flowtool-all/, flowtool-all, 0.7.22, Start managing everything!, 2016-04-24T16:22:01+0000
+/project/cp-buildout-postgres/, cp.buildout_postgres, 0.1-r2723, zc.buildout recipes for setting up a Postgres Environment., 2010-04-03T18:54:28+0000
+/project/calmjs-rjs/, calmjs.rjs, 2.0.1, Package for the integration of RequireJS into a Python environment via the Calmjs framework, to provide a reproducible workflow for the generation of deployable artifacts from JavaScript source code provided by Python packages in conjunction with standard JavaScript or Node.js packages sourced from npm or other similar package repositories., 2018-05-03T03:06:49+0000
+/project/zombieagent/, ZombieAgent, 0.0.1a, ., 2012-01-05T23:37:08+0000
+/project/jasypt4py/, jasypt4py, 0.0.3, Cipher functions that produce Jasypt/Bouncycastle compatible password encryption., 2017-12-28T06:37:06+0000
+/project/cozy-management/, cozy-management, 0.0.25, Module to help self hosted cozy management, 2017-01-31T12:31:42+0000
+/project/circup/, circup, 0.9.4, A tool to manage/update libraries on CircuitPython devices., 2021-03-25T17:20:19+0000
+/project/aiohttp-transmute/, aiohttp-transmute, 2.0.0, a toolset to generate routes from functions for aiohttp., 2019-02-24T22:39:38+0000
+/project/calmjs-sassy/, calmjs.sassy, 1.0.2, Package for extending the Calmjs framework to support the usage of sass in a manner that crosses Python package boundaries by exposing an import system that mimics the package namespaces available within a given Python environment., 2020-04-23T10:14:52+0000
+/project/autoupgrade3/, autoupgrade3, 0.2.1, Python 3 friendly automatic upgrade of python modules and packages, 2016-06-25T08:18:48+0000
+/project/fabric-logging/, fabric-logging, 0.1.0, Adds option to redirect all stdout/stderr through standard Python logging. Very much a work in progress, 2012-09-19T00:28:18+0000
+/project/setup-qt/, setup_qt, 1.0.0, Compile Qt resource files, UI files and translations in setup.py, 2017-03-23T17:03:48+0000
+/project/signify/, signify, 0.3.0, Module to generate and verify PE signatures, 2020-08-16T10:32:38+0000
+/project/pyalpm/, pyalpm, 0.9.2, libalpm bindings for Python 3, 2020-10-13T20:14:26+0000
+/project/seed/, seed, 0.11.3, A utility for easily creating and releasing Python packages, 2017-02-22T16:22:12+0000
+/project/yadtbroadcast-client/, yadtbroadcast-client, 1.2.1, YADT - an Augmented Deployment Tool - The Broadcast Client Part, 2014-02-11T15:22:18+0000
+/project/zn/, zn, 0.0.1, Zinc, 2019-01-31T00:43:06+0000
+/project/houston/, houston, 0.3.0, Application deployment on CoreOS clusters using fleetd and Consul, 2015-08-10T19:49:36+0000
+/project/paths/, paths, 0.0.1a1, Python utility module for dealing with local paths, 2013-12-07T14:12:58+0000
+/project/pup/, pup, 1.0.0a9, Pluggable Micro Packager, 2021-02-06T22:08:06+0000
+/project/gitvier/, gitvier, 0.1.1, A component manager based where your components live in Git., 2017-05-13T20:57:31+0000
+/project/transmute/, transmute, 5.0, Automatically update Python Eggs on application startup., 2014-03-07T13:12:48+0000
+/project/malice/, malice, 0.0.3, My awesome little infrastructure configuration environment, 2019-06-24T18:10:44+0000
+/project/yagmail/, yagmail, 0.14.247, Yet Another GMAIL client, 2021-03-31T13:01:45+0000
+/project/django-fab/, django-fab, 1.0.4, Common methods to help create fabric deplopment scripts for django, 2009-10-13T04:34:19+0000
+/project/mr-parker/, mr.parker, 1.0, Ensures that the PyPI bus factor for a package is above a certain threshold., 2009-10-31T14:43:22+0000
+/project/pexe37/, pexe37, 0.9.6.5, Python to Exe, 2019-12-17T04:49:09+0000
+/project/graphiteencoder/, GraphiteEncoder, 0.1.4, , 2018-09-28T02:33:54+0000
+/project/autopub/, autopub, 0.2.0, Automatic package release upon pull request merge, 2021-02-15T14:47:37+0000
+/project/venv-pack/, venv-pack, 0.2.0, Package virtual environments for redistribution, 2018-08-23T16:02:51+0000
+/project/codedeploy-monitor/, codedeploy_monitor, 0.1, Creates and monitors AWS CodeDeploy deployments., 2015-12-16T10:07:07+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/deepmerge/, deepmerge, 0.3.0, a toolset to deeply merge python dictionaries., 2021-04-25T20:36:03+0000
+/project/django-ember/, django-ember, 0.3.1, Django Ember.js integration, 2013-07-30T15:08:11+0000
+/project/meta-package-manager/, meta-package-manager, 3.6.0, CLI unifying Homebrew, apt, Chocolatey, Pip, NPM, Composer and the like., 2021-01-03T15:08:16+0000
+/project/miura/, miura, 0.1.5, a Jenkins job management tool, 2014-11-21T02:09:47+0000
+/project/oktaauth/, oktaauth, 0.2, Authenticates from the CLI, 2016-02-08T16:21:28+0000
+/project/pako/, pako, 0.3.1, The universal package manager library, 2021-03-09T11:40:55+0000
+/project/incubator/, incubator, 0.9.0, Python library for building container images., 2017-05-28T22:48:14+0000
+/project/strip-docs/, strip-docs, 1.0, A utility to remove all docstrings from your project, 2020-12-20T18:00:43+0000
+/project/magicinvoke/, magicinvoke, 2.4.5, Pythonic task execution -- Based on invoke by Jeff Forcier, 2019-08-17T15:14:24+0000
+/project/distroscraper/, distroscraper, 1.0.2, Scrape Linux Distro torrents and add to Transmission automatically, 2020-09-13T16:55:32+0000
+/project/py2exe2msi/, py2exe2msi, 0.0.2, An easy way to create Windows standalone applications in Python, 2011-12-21T13:43:04+0000
+/project/pynssm/, pynssm, 2.24.2a2, Python wrapper for NSSM - the Non-Sucking Service Manager (nssm.cc), 2018-06-07T20:11:48+0000
+/project/sprinter/, sprinter, 1.4.2, a utility library to help environment bootstrapping scripts, 2015-10-28T08:40:02+0000
+/project/os-sys-linux/, os-sys-linux, 0.0.0.dev0, a big lib with many usefull tools and it are not only os and sys tools..., 2020-01-04T10:12:51+0000
+/project/fabric-naked/, fabric-naked, 0.0.2, execute your nakedo work procedure by fabric, 2013-07-14T09:10:19+0000
+/project/curtains/, Curtains, 0.3.1, A command line tool for remote execution, application deployment and system administration in the Windows environment (as of now) without using SSH., 2018-01-02T16:15:08+0000
+/project/wapps/, wapps, 0.1.2.dev0, Some Wagtail reusable applications, 2017-11-18T23:51:48+0000
+/project/flask-aide/, flask_aide, 0.0.1, demo, 2017-02-21T15:02:46+0000
+/project/aboutcode-toolkit/, aboutcode-toolkit, 6.0.0, AboutCode-toolkit is a tool to document the provenance (origin and license) of third-party software using small text files. Collect inventories, generate attribution documentation., 2021-03-31T12:56:34+0000
+/project/crit/, crit, 0.1, Crit: infrastructure as actual code, 2019-01-09T14:48:33+0000
+/project/gitsup/, gitsup, 0.3.0, Git submodule updater, 2019-11-17T16:19:14+0000
+/project/stac/, stac, 1.1.0, Smarter Travel Artifactory Client, 2016-04-04T18:01:25+0000
+/project/flask-neglog/, flask_neglog, 0.0.2, demo, 2016-11-29T14:09:18+0000
+/project/docker-registry-client/, docker-registry-client, 0.5.2, Client for Docker Registry V1 and V2, 2017-06-16T16:05:22+0000
+/project/tl-buildout-virtual-python/, tl.buildout_virtual_python, 0.2, zc.buildout recipe for creating a virtual Python installation, 2012-01-27T22:40:46+0000
+/project/tl-buildout-apache/, tl.buildout_apache, 0.3, zc.buildout recipes for setting up an Apache web server environment., 2011-04-10T17:24:04+0000
+/project/pkginfo/, pkginfo, 1.7.0, Query metadatdata from sdists / bdists / installed packages., 2021-01-16T14:24:03+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/sphinxcontrib-towncrier/, sphinxcontrib-towncrier, 0.2.0a0, An RST directive for injecting a Towncrier-generated changelog draft containing fragments for the unreleased (next) project version, 2021-04-14T12:38:42+0000
+/project/wings-sanic/, wings-sanic, 0.7.2, The wings-sanic is a lightweight python framework aimed at making it as simple as possible to document your Sanic API with Swagger UI, Plus param validation and model serialization., 2021-03-29T10:53:17+0000
+/project/infrascloudy/, infrascloudy, 0.1.1, It does cloudy things, 2019-06-22T15:45:04+0000
+/project/mcloud-plugin-haproxy/, mcloud-plugin-haproxy, 1.0.4, Haproxy integration for mcloud, 2016-03-07T11:44:39+0000
+/project/periapt/, periapt, 0.1.2, Periapt is a simple apt repository generator., 2014-03-26T01:00:45+0000
+/project/udata-youckan/, udata-youckan, 1.0.0, YouCKAN auth for uData, 2017-02-16T00:01:25+0000
+/project/pydebsign/, pydebsign, 0.1.5, yet another library of debsign, 2015-08-25T06:47:04+0000
+/project/aserve/, aserve, 0.0.11, Asynchronously serve APIs, 2016-12-06T17:55:10+0000
+/project/marina/, marina, 0.4.3, marina manages docker instances, 2020-03-19T21:32:28+0000
+/project/setupjavax/, setupjavax, 0.1.38, Support Java extensions for setuptools / distutils., 2019-12-13T13:46:37+0000
+/project/tempusloader/, tempusloader, 1.2.1, Tempus data loader, 2018-02-09T10:23:32+0000
+/project/bbq/, bbq, 0.1, Tasty deploy recipes, 2012-02-20T16:51:14+0000
+/project/npmdownloader/, npmdownloader, 1.2.1, NPM Package Downloader, 2020-07-18T06:57:22+0000
+/project/burlap/, burlap, 0.9.85, Fabric commands for simplifying server deployments, 2021-03-24T05:21:26+0000
+/project/just/, just, 0.7.134, Automatically just read and write files based on extension., 2021-04-17T17:29:39+0000
+/project/immureii/, immureii, 0.42.10, Immure Iniquitous Intent, 2021-03-22T23:10:15+0000
+/project/slpkg/, slpkg, 3.9.1, Package manager for Slackware installations, 2021-01-02T15:45:53+0000
+/project/jinja2-sanic/, jinja2-sanic, 0.1.2, , 2017-07-22T21:54:16+0000
+/project/ncdistribute/, ncdistribute, 1.08, Distribute python projects as single zip files., 2014-02-09T19:27:27+0000
+/project/humpty/, humpty, 0.2.1, A tool to convert python wheels to eggs, 2017-12-18T23:06:20+0000
+/project/magic-reader/, magic_reader, 1.3.1, Read requests/files/dbs without importing external libraries with simple exact command., 2017-03-24T12:29:32+0000
+/project/flask-restx/, flask-restx, 0.3.0, Fully featured framework for fast, easy and documented API development with Flask, 2021-04-01T19:40:10+0000
+/project/lookout/, lookout, 0.0.1, API for scanning for new releases of libraries and programs., 2018-11-01T04:11:47+0000
+/project/aiographite/, aiographite, 0.1.9, , 2017-12-21T22:33:31+0000
+/project/vtx-common/, vtx-common, 0.1.6, Vertex project tools to assist with packaging., 2020-09-21T20:10:25+0000
+/project/repochecker-binsym/, repochecker_binsym, 0.9.4, Repository checker that validates completeness of a linux repository over binary symbols, 2014-12-25T01:56:27+0000
+/project/bellatrix/, bellatrix, 1.1.10, Bellatrix is a set of (magic) tools to automate the management of Amazon EC2 services., 2012-07-29T10:46:54+0000
+/project/pypiserver-passlib/, pypiserver-passlib, 1.0.0.dev2, A plugin providing passlib auth to pypiserver, 2018-08-05T14:18:43+0000
+/project/tornado-transmute/, tornado-transmute, 0.0.4, a toolset to generate routes from objects for tornado., 2018-09-27T05:59:11+0000
+/project/version-utils/, version_utils, 0.3.0, Library for parsing system package strings and comparing package versions, 2016-07-16T00:21:14+0000
+/project/repi-server/, repi-server, 0.2, RePi server, a Redis PubSub interface for PyPi., 2013-07-22T19:53:16+0000
+/project/pex/, pex, 2.1.40, The PEX packaging toolchain., 2021-04-22T01:13:16+0000
+/project/bbfreeze-loader/, bbfreeze-loader, 1.1.0, provide binary loaders for bbfreeze, 2013-04-09T23:49:48+0000
+/project/simple-site-manager/, simple-site-manager, 0.1.7, Manage multiple lighttpd and Django or Flask websites on a single machine., 2016-05-03T12:12:21+0000
+/project/viv-synapse/, viv-synapse, 0.0.7, Synapse Distributed Computing Framework, 2016-09-27T04:21:01+0000
+/project/lockdown/, lockdown, 0.4.1, An un-audited security tool to encrypt Python code., 2018-07-21T07:49:06+0000
+/project/pypi-server/, pypi-server, 0.4.8, Tornado PyPi server, 2018-10-14T18:11:16+0000
+/project/portmod/, portmod, 2.0rc8, A CLI package manager for mods, 2021-04-06T20:53:08+0000
+/project/jenks/, jenks, 0.2.3, a jenkins command-line tool, 2014-04-02T06:47:55+0000
+/project/libversion/, libversion, 1.2.3, Python bindings for libversion, 2021-03-10T13:08:06+0000
+/project/social-commerce/, social-commerce, 0.0.6, Django project template using pinax and satchmo, 2009-11-01T04:56:38+0000
+/project/python-pacman/, python-pacman, 0.4.2, Simple Python interface to Arch Linux package manager (pacman), 2018-10-15T21:53:12+0000
+/project/bitclone/, bitclone, 0.30, Clone all your bitbucket repo, 2018-12-06T14:30:55+0000
+/project/apkkit/, apkkit, 0.6.0.1, Manipulate APK packages and repositories from Python, 2018-05-24T04:48:14+0000
+/project/autonetkit/, autonetkit, 0.11.2, Automatic configuration generation for emulated networks, 2014-11-27T07:31:14+0000
+/project/quickpip/, quickpip, 0.0.4, Uses WiFi to tell you where you are, 2016-10-09T09:49:36+0000
+/project/robotice-cc2541-device/, robotice-cc2541-device, 0.0.2a, Robotice driver for BLE - CC2541, 2015-02-28T18:36:00+0000
+/project/scmver/, scmver, 1.1, A package version manager based on SCM tags, 2020-11-04T12:43:30+0000
+/project/udata-ckan/, udata-ckan, 2.0.0, CKAN integration for udata, 2020-03-11T16:52:33+0000
+/project/py2exe/, py2exe, 0.10.4.0, Build standalone executables for Windows, 2021-04-24T13:15:25+0000
+/project/fabric-docker/, fabric-docker, 0.1, Docker command-line tool wrapper for Fabric., 2016-03-11T17:19:35+0000
+/project/tpudiepie/, tpudiepie, 0.1.7, TPU management, 2020-06-18T05:40:42+0000
+/project/decode-image/, decode_image, 1.0.0.5, Simple Command line and module for Decode/Encode Image File, 2015-06-25T09:44:31+0000
+/project/yadtshell/, yadtshell, 1.9.1, YADT - an Augmented Deployment Tool - The Shell Part, 2014-08-27T11:18:49+0000
+/project/dstack-bot/, dstack-bot, 1.1.9, Simple bot that allows you to run commands on your server using invoke, 2020-06-27T13:18:53+0000
+/project/pelican-social/, pelican-social, 0.2.0, Social directives for Pelican Blog Generator, 2017-02-02T02:06:19+0000
+/project/skyrocket/, skyrocket, 0.1, Sky is a tool that allows quick and repeatable deployment and management of cloud environments., 2015-06-25T02:50:40+0000
+/project/kafkatos3/, kafkatos3, 0.2.0, Archive kafka messages to S3, 2018-03-14T12:11:41+0000
+/project/mfcloud/, mfcloud, 0.5.18, Production cloud deployments of fig infrastructure with docker, 2014-10-09T05:41:52+0000
+/project/gitman/, gitman, 2.3.2, A language-agnostic dependency manager using Git., 2021-04-08T13:03:01+0000
+/project/udata-metrics/, udata-metrics, 1.0.2, Connexion handler to metrics service for udata, 2020-07-01T09:42:09+0000
+/project/louistools/, LouisTools, 0.2.0, A very useful tool-set for data/operation/testing engineers, specialized in ETL and finance., 2020-06-16T09:38:38+0000
+/project/metadate/, metadate, 0.5.77, All your date are belong to us, 2020-09-10T19:32:48+0000
+/project/setuptools-git-ls-files/, setuptools-git-ls-files, 0.1.2, Use git to list all files, including submodules, 2020-02-15T18:56:15+0000
+/project/setup-prod/, setup-prod, 2020.7.2, setup.py production, 2020-12-03T20:39:45+0000
+/project/tmdeploy/, tmdeploy, 0.3.3, TissueMAPS deployment in virtual environments., 2017-10-10T14:06:37+0000
+/project/tl-buildout-gtk/, tl.buildout_gtk, 0.2.2, A zc.buildout recipe for installing pygtk, pyobject and pycairo., 2011-01-02T19:42:47+0000
+/project/yabs-cowsay/, yabs-cowsay, 0.0.4, Add a 'cowsay' task to Yabs, 2020-07-20T19:56:24+0000
+/project/uvalde/, uvalde, 0.3.0, Yum repository management tool, 2019-04-05T02:18:52+0000
+/project/python-archive/, python-archive, 0.2, Simple library that provides a common interface for extracting zip and tar archives., 2012-07-12T06:40:31+0000
+/project/china-cities/, china-cities, 0.0.3, Python package to get the names of Chinese cities and provinces, 2019-11-28T03:56:40+0000
+/project/apt-select/, apt-select, 2.2.1, Ubuntu Archive Mirror reporting tool for apt sources configuration, 2019-11-29T17:04:02+0000
+/project/omero-certificates/, omero-certificates, 0.2.0, OMERO server certificate management plugin, 2020-03-18T14:54:40+0000
+/project/natura/, natura, 0.0.63, Find money / currencies talk, 2018-07-28T13:52:35+0000
+/project/ansible-roster/, ansible-roster, 0.4.1, Ansible simplified yaml inventory, 2020-11-01T16:39:54+0000
+/project/mkarchive/, mkarchive, 0.5.2, Create Linux self-executables & installers based on 'dialog', 2021-02-28T17:26:11+0000
+/project/mandark/, Mandark, 0.0.2, Change Control Software with the power of Flask, 2018-03-08T10:06:24+0000
+/project/pelican-data/, pelican-data, 0.2.0, Data and collections for Pelican, 2020-03-18T11:44:35+0000
+/project/zmicroservices/, zmicroservices, 1.0.3, An alternative way for doing micro-services., 2017-01-22T12:57:06+0000
+/project/salt-container-map/, salt-container-map, 0.2.2, Configuration management and implicit dependency setup for Docker containers in SaltStack., 2018-01-16T16:55:41+0000
+/project/calmjs-webpack/, calmjs.webpack, 1.2.0, Package for extending the Calmjs framework to support the usage of webpack for the generation of deployable artifacts from JavaScript source code provided by Python packages in conjunction with standard JavaScript or Node.js packages sourced from npm or other similar package repositories., 2018-08-22T02:28:47+0000
+/project/btsbots/, btsbots, 0.1.6, trade bots client for https://btsbots.com, 2017-11-19T00:04:43+0000
+/project/walmart-cloudsec-flask-restplus/, walmart-cloudsec-flask-restplus, 0.13.1.dev0, Fully featured framework for fast, easy and documented API development with Flask, 2020-01-03T03:54:50+0000
+/project/logfollow-server/, logfollow-server, 0.0.9, Real-time Web Monitor for your logs, 2011-12-23T17:19:08+0000
+/project/bootstrap-py/, bootstrap-py, 1.0.2, Bootstrap Python package, 2020-09-19T05:53:22+0000
+/project/repoq/, repoq, 0.0.1, Collection of utilities to query a repository of python packages, 2013-06-14T13:23:27+0000
+/project/umfactory/, umfactory, 0.1.0.dev0, Factories for umongo, 2018-01-13T15:30:22+0000
+/project/publish/, publish, 0.3.2, Publish python package to PyPI and Github, 2020-03-08T20:38:11+0000
+/project/isotoma-egglayer/, isotoma.egglayer, 0.0.5, Utility for packaging things as eggs without setuptools, 2012-01-31T17:58:41+0000
+/project/darn/, darn, 0.1.0, Easy remote and local code execution, 2021-03-11T06:41:07+0000
+/project/secure-sedge/, secure-sedge, 1.2, a helpful set of convocations to create certs, 2020-09-28T09:05:21+0000
+/project/appsync-schema-uploader/, appsync-schema-uploader, 0.0.4, Uploads an AWS AppSync GraphQL schema, 2019-10-11T14:10:24+0000
+/project/pycommand/, pycommand, 0.4.0, Library / toolkit for creating command line programs with minimal effort., 2018-03-27T21:19:07+0000
+/project/git-migrate/, git-migrate, 0.3.1, Execute commands from shell file, storing last successful execution in detached git branch., 2016-12-19T21:55:47+0000
+/project/conda-pack/, conda-pack, 0.6.0, Package conda environments for redistribution, 2021-04-23T10:08:33+0000
+/project/easypython/, easypython, 1.2.0, A simple tool for deploying soyrces, 2016-11-28T13:41:12+0000
+/project/fabex/, Fabex, 1.2, Python Fabric Extended: Making roles more good, 2016-09-08T21:46:20+0000
+/project/bbot/, bbot, 1.0.0a1, UNKNOWN, 2015-07-13T11:12:53+0000
+/project/pipman/, pipman, 0.0.3, A wrapper around pip that provides additional/useful features not included in pip itself, 2017-09-23T00:40:31+0000
+/project/django-xstatic/, django-xstatic, 0.0.2, Django helpers to use XStatic packages in Django projects, 2014-03-24T18:47:21+0000
+/project/pyvenvwrapper/, pyvenvwrapper, 1.0.0, pyvenvwrapper is a small and lightweight set of Bash script functions, that enhance the use of venv module for management of virtual environments., 2018-09-16T13:07:03+0000
+/project/netlicensing-client/, netlicensing-client, 0.0.5, Python wrapper for Labs64 NetLicensing RESTful API, 2020-06-14T18:31:23+0000
+/project/udata-ldap/, udata-ldap, 0.3.5, LDAP authentification for udata with optional Kerberos suppport., 2018-11-23T14:13:11+0000
+/project/pybombs/, PyBOMBS, 2.3.4, A meta-package manager to install software from source, or whatever the local package manager is. Designed for easy install of source trees for the GNU Radio project., 2020-09-04T21:46:46+0000
+/project/sanic-devtools/, sanic-devtools, 0.1.0, dev tools for Sanic, 2019-09-02T22:44:24+0000
+/project/cepcenv/, cepcenv, 0.2.2, CEPC software management toolkit, 2020-08-19T06:16:20+0000
+/project/flask-restplus/, flask-restplus, 0.13.0, Fully featured framework for fast, easy and documented API development with Flask, 2019-08-12T21:51:33+0000
+/project/mysqlbinlog2gpubsub/, mysqlbinlog2gpubsub, 1.0.7, Send MySQL binlog event to Google Cloud Pub/Sub, 2016-04-29T07:42:50+0000
+/project/carbon-index/, carbon-index, 0.1.11, , 2018-05-26T00:11:53+0000
+/project/marathon-cli/, marathon-cli, 1.1.8, command line utility for marathon api requests, 2016-12-07T18:44:52+0000
+/project/invoke/, invoke, 1.5.0, Pythonic task execution, 2020-12-31T02:43:42+0000
+/project/drupy/, drupy, 0.7.1, Python based deployment tool for drupal, 2019-01-17T12:14:38+0000
+/project/gns3-cx-freeze/, gns3_cx_Freeze, 4.3.6, Temporary fork of cx_Freeze 4.x with Python 3.5 support., 2016-09-12T19:06:38+0000
+/project/udata/, udata, 2.6.4, Open data portal, 2021-03-24T17:35:29+0000
+/project/pip-utils/, pip-utils, 0.0.6, Helper utilities for pip, 2016-07-12T18:10:27+0000
+/project/etcmaint/, etcmaint, 0.7, An Arch Linux tool based on git for the maintenance of /etc files., 2020-01-14T20:37:49+0000
+/project/g-pypi/, g-pypi, 0.3, Manages ebuilds for Gentoo Linux using information from Python Package Index, 2012-06-28T17:16:18+0000
+/project/salt-aws-boto3/, salt-aws-boto3, 0.1.10, Use boto3 for AWS orchestration with Salt., 2018-02-27T01:47:11+0000
+/project/sumsy/, sumsy, 0.5.0, A forklift who greatly resembles another forklift, 2017-06-12T23:18:20+0000
+/project/dockerma/, dockerma, 0.5.6, DockerMA facilitates building multi-arch containers with minimal fuss, 2020-01-23T11:59:01+0000
+/project/btsprice/, btsprice, 0.2.56, get price for BitShares, 2017-11-21T09:45:42+0000
+/project/fabrix/, Fabrix, 0.3, Fabrix is Fabric extension for configuration management, 2017-11-15T18:07:36+0000
+/project/setup-dist/, setup-dist, 2020.12.3, setup module for distributions: python -m setup_dist sdist --dist-dir=<dist_dir>, 2020-12-03T20:39:39+0000
+/project/pyinstallercustom/, PyInstallerCustom, 3.5, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-20T18:01:05+0000
+/project/aws/, aws, 0.2.5, Utility to manage your Amazon Web Services and run Fabric against filtered set of EC2 instances., 2013-06-10T13:22:45+0000
+/project/uranium-plus/, uranium-plus, 2.1.1, an opinionated base package for builds using uranium, 2020-04-10T19:14:06+0000
+/project/py2deb/, py2deb, 5.0, Python to Debian package converter, 2020-08-04T23:59:31+0000
+/project/sun/, sun, 1.3.1, Tray notification applet for informing about package updates in Slackware, 2021-01-03T15:50:39+0000
+/project/spruce-pkg/, Spruce-pkg, 0.1.3, Packaging, 2014-01-24T20:33:37+0000
+/project/mockle/, mockle, 0.0.3, Auto Mocking + Pickle, 2016-10-30T15:16:13+0000
+/project/gitlab-job-guard/, gitlab-job-guard, 0.0.4.3, Guard gitlab jobs from multiple simultaneous executions, 2019-04-17T00:58:39+0000
+/project/valiant/, valiant, 0.2.3, Audit tool to help investigate Python dependencies, 2021-04-04T02:30:03+0000
+/project/hubd/, hubd, 0.1, Real-time JSON MVC Framework, 2012-02-17T07:05:45+0000
+/project/revolver/, revolver, 0.0.5, Pythonic server orchestrating based on fabric / cuisine, 2012-11-10T18:16:51+0000
+/project/croquemort/, croquemort, 2.1.0, Croquemort linkchecker, 2019-05-07T10:08:35+0000
+/project/eggsac/, Eggsac, 0.1.0, Package Python applications in a virtualenv for deployment, 2013-11-27T06:02:36+0000
+/project/eprl/, eprl, 1.1, edit portage resume list, 2017-06-18T22:09:29+0000
+/project/raft/, raft, 1.4.1.3, Pythonic task execution, 2020-09-12T19:58:00+0000
+/project/setupmeta/, setupmeta, 3.1.0, Simplify your setup.py, 2021-04-15T18:20:38+0000
+/project/fusionbox-fabric-helpers/, fusionbox-fabric-helpers, 0.6.2, Fabric Helpers, 2018-06-12T17:21:44+0000
+/project/bundleman/, bundleman, 1.3.0, Manage svn bundle releasing., 2009-03-26T19:53:20+0000
+/project/tesserarius/, tesserarius, 0.0.5, CLI application that make it easier to perform DevOps on Kubernetes and GCloud, 2020-07-07T11:25:01+0000
+/project/hostexpand/, hostexpand, 1.0.2, A tool to expand hostnames based on a pattern language and DNS resolution, 2013-07-24T07:14:35+0000
+/project/alembic-multischema/, alembic-multischema, 0.0.7, Multi schema postgres migrations using alembic, 2019-10-16T22:03:34+0000
+/project/aioyagmail/, aioyagmail, 0.0.4, Yet Another GMAIL client, using AsyncIO, 2018-06-27T20:10:21+0000
+/project/topzootools/, topzootools, 0.3.18, Processing and conversion tools for Internet Topology Zoo, 2011-09-09T05:03:00+0000
+/project/jsonschema-extractor/, jsonschema-extractor, 0.9, a framework to extract jsonschema's from a variety of models., 2021-01-29T06:18:53+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/flowtool-githooks/, flowtool-githooks, 0.7.46, Automating tasks for git users., 2016-05-04T01:05:43+0000
+/project/bodhi-messages/, bodhi-messages, 5.5, JSON schema for messages sent by Bodhi, 2020-08-11T12:22:55+0000
+/project/bodhi-client/, bodhi-client, 5.5, bodhi client, 2020-08-11T12:22:51+0000
+/project/sanic-transmute/, sanic-transmute, 0.1.3, , 2018-11-21T15:55:02+0000
+/project/pyarmor/, pyarmor, 6.6.2, A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts., 2021-02-28T23:41:17+0000
+/project/skeppa/, skeppa, 2.0.6, A docker deployment tool based on fabric and docker-compose, 2018-08-12T10:36:16+0000
+/project/fabric3/, Fabric3, 1.14.post1, Fabric is a simple, Pythonic tool for remote execution and deployment (py2.7/py3.4+ compatible fork)., 2018-02-11T12:11:21+0000
+/project/pypicloud-tools/, pypicloud-tools, 0.1.3, Tools to bypass PyPICloud and work with S3 directly, 2015-12-08T21:34:15+0000
+/project/cant/, cant, 0.0, Can't Remember!, 2016-02-15T22:44:56+0000
+/project/bicti/, bicti, 0.1.1, Bicti, efficient startup script for within docker containers, 2014-09-03T00:29:01+0000
+/project/butterknife/, butterknife, 0.2.0, Butterknife makes bare-metal Linux deployment dead-simple using the Linux Containers (LXC) and Btrfs filesystem., 2016-05-09T06:12:36+0000
+/project/udata-koumoul/, udata-koumoul, 0.5.0, Theme for Koumoul demo opendata portal, 2020-03-17T13:42:13+0000
+/project/aws-monocyte/, aws-monocyte, 0.3.509.post312, Monocyte - Search and Destroy unwanted AWS Resources relentlessly., 2018-01-28T20:49:00+0000
+/project/appsync-function-uploader/, appsync-function-uploader, 0.0.5, Creates or updates an AWS AppSync function, 2020-08-13T18:45:08+0000
+/project/cloudrepoanalytics/, CloudRepoAnalytics, 2.0.0, Flask and Annie-based server to keep track of CloudRepo artifact download counts, 2020-06-01T01:30:00+0000
+/project/keyserver/, keyserver, 1.0.0.3, Command line Pub key generator from keyserver.ubuntu.com, 2015-06-25T22:14:31+0000
+/project/gocept-cxoracle/, gocept.cxoracle, 0.1.1, zc.buildout recipe for installing cx_Oracle, 2008-08-29T12:17:39+0000
+/project/pearl/, pearl, 2.3.7, Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX).It can be used for dotfiles, plugins, programs and any form of code accessible via git., 2021-04-05T23:57:06+0000
+/project/brundeckrun/, brundeckrun, 0.2.7, A Rundeck API Python client, 2020-12-04T14:43:01+0000
+/project/mincli/, mincli, 0.2.1, A minimalistic CLI wrapper out to be the best, 2020-02-18T23:03:52+0000
+/project/docker-compose-just-quieter/, docker-compose-just-quieter, 0.1, Docker Compose CLI utility wrapper which makes `docker-compose` quieter, 2019-11-19T19:39:05+0000
+/project/setup-clean/, setup-clean, 2020.12.3, python setup.py clean replacement, 2020-12-03T20:39:34+0000
+/project/bodhi/, bodhi, 5.5, bodhi common package, 2020-08-11T12:22:47+0000
+/project/pipa/, pipa, 0.1.0, Simple HTTPS PyPI server, 2014-03-26T11:27:31+0000
+/project/flask-kits/, Flask-Kits, 0.0.24, demo, 2018-08-05T15:20:14+0000
+/project/udata-ods/, udata-ods, 2.1.0, OpenDataSoft integration for udata, 2020-10-16T15:21:58+0000
+/project/sky/, sky, 0.0.201, AI powered scraping in Python 3, 2018-09-01T22:08:00+0000
+/project/ansible-vagrant/, ansible-vagrant, 1.3.0, Simple helper to use ansible with vagrant, 2014-12-30T10:14:18+0000
+/project/webstarts/, webstarts, 2.9.0, Entry point for modern flask/gunicorn/sentry/celery web applications, 2017-10-27T03:11:07+0000
+/project/permset/, permset, 0.22, Simple standalone utility script to manage \*nix permissions on file and directory trees based on patterns., 2012-12-14T22:02:51+0000
+/project/pipimport/, pipimport, 0.2.5, Automatically install missing modules using pip at import time. Best used with virtualenv., 2013-11-07T23:50:15+0000
+/project/p-unity/, p-unity, 0.42.202104180000, { Programming : Unity }, 2021-04-18T01:18:45+0000
+/project/add-juniper-software/, add-juniper-software, 1.0.3, A CLI tool to install software on a remote JunOS machine., 2021-02-15T22:21:16+0000
+/project/hadeploy/, HADeploy, 0.6.1, An Hadoop Application deployment tool, 2019-01-22T11:06:21+0000
+/project/django-fagungis/, django-fagungis, 0.1.1, DJANGO + FAbric + GUnicorn + NGInx + Supervisor deployment, 2020-07-14T17:00:06+0000
+/project/fiscal-printer-adapter/, fiscal-printer-adapter, 0.0.3, A standarized fiscal printer interface, 2018-12-28T00:41:14+0000
+/project/pypi-simple/, pypi-simple, 0.8.0, PyPI Simple Repository API client library, 2020-12-13T19:47:19+0000
+/project/whereami/, whereami, 0.4.85, Uses WiFi to tell you where you are, 2017-10-21T09:40:26+0000
+/project/pkg-orphan/, pkg_orphan, 1.0, Find installed pkgsrc packages which are not dependencies of any other packages (orphans), 2013-03-03T04:34:46+0000
+/project/mocka/, mocka, 0.0.8, Mocka mocks APIs, 2016-08-06T01:02:41+0000
+/project/flask-transmute/, flask-transmute, 1.4.0, a flask plugin to generate routes from objects., 2018-02-16T04:20:15+0000
+/project/chrispile/, chrispile, 1.2.4, Syntactic sugar for running ChRIS apps locally, 2021-03-18T18:47:58+0000
+/project/botox/, botox, 0.1.1, High level Boto (AWS) wrapper. Gives boto a facelift!, 2012-06-12T17:27:05+0000
+/project/rezup/, rezup, 1.1.0, Rez launching environment manager, 2021-04-26T05:02:47+0000
+/project/gcg/, gcg, 0.2.0, Git Changelog Generator, 2019-07-09T19:48:36+0000
+/project/makeapt/, makeapt, 1.0a2, Debian APT repositories generator, 2018-10-14T14:52:42+0000
+/project/pexe38/, pexe38, 1.3, Python38 to Exe, 2019-12-17T00:49:39+0000
+/project/mcloud/, mcloud, 1.0.4, A tool that helps you manage Docker based deployments, 2016-03-07T11:46:27+0000
+/project/contender/, contender, 0.2.2, None, 2014-08-27T17:13:12+0000
+/project/gn2pg-client/, gn2pg-client, 0.0.5.dev0, Import tool from GeoNature to a PostgreSQL database through Export module API (client side), 2021-01-07T22:01:22+0000
+/project/doctor-wheel/, doctor-wheel, 1.2, A utility to strip and reduce the size of your wheels, 2020-12-10T17:52:00+0000
+/project/vas/, vas, 1.0.0, vFabric Administration Server Python API, 2012-11-02T12:33:20+0000
+/project/pyjig/, pyjig, 1.1.2, Quickly create python projects from templates., 2020-06-15T18:44:56+0000
+/project/setuptools-scm-semver/, setuptools-scm-semver, 0.1.3, the blessed package to manage your versions by scm tags, 2019-06-27T07:44:28+0000
+/project/yagmail-outlook/, yagmail-outlook, 0.9.178, A fork of yagmail to solve outlook compatiblity problem, 2017-07-03T01:39:09+0000
+/project/tow/, tow, 1.0.0a13, Tow is tool for automatization docker configuration managment workflow, 2015-06-02T15:23:45+0000
+/project/attributecode/, attributecode, 1.0.0, Generate attribution document with input of CSV/Excel/JSON., 2021-03-31T08:06:50+0000
+/project/docker-odoo-env/, docker-odoo-env, 0.0a10, A small tool to manage Dockerized Odoo, 2018-12-31T18:49:40+0000
+/project/patchwork/, patchwork, 1.0.1, Deployment/sysadmin operations, powered by Fabric, 2018-06-20T22:14:15+0000
+/project/oktaauthpy3/, oktaauthpy3, 0.8, Authenticates from the CLI, 2020-11-09T14:53:25+0000
+/project/fabric2/, fabric2, 2.6.0, High level SSH command execution, 2021-01-19T01:10:02+0000
+/project/mipubsub/, miPubSub, 0.1.dev1, Publish/Subscribe pattern build with RabbitMQ and Protocol Buffers, 2018-01-26T00:02:45+0000
+/project/ivydepparse/, ivydepparse, 1.0.1, Ivy Dependency Parser, 2015-09-30T14:13:51+0000
+/project/terminator3/, terminator3, 0.0.1, It does cool things, 2018-12-11T04:28:03+0000
+/project/setuptools-sky/, setuptools_sky, 0.1.7, the blessed package to manage your versions by scm tags, 2018-09-26T12:35:03+0000
+/project/fabtools/, fabtools, 0.20.0, Tools for writing awesome Fabric files, 2016-10-12T10:37:57+0000
+/project/graingert-drc/, graingert-drc, 0.5.0, Temporary fork of client for Docker Registry V1 and V2, 2017-01-11T13:56:36+0000
+/project/iptest/, IPTest, 0.1.1, It does cool things with IPs against blacklists, 2017-05-20T18:55:03+0000
+/project/udata-schema-gouvfr/, udata-schema-gouvfr, 1.2.0, Integration with schema.data.gouv.fr, 2020-10-16T15:20:18+0000
+/project/bumpr/, bumpr, 0.3.7, Version bumper and Python package releaser, 2017-10-29T11:18:49+0000
+/project/thrash-protect/, thrash-protect, 0.13.0, Simple-Stupid user-space program doing "kill -STOP" and "kill -CONT" to protect from thrashing, 2019-11-22T20:48:36+0000
+/project/fabric-shuttle/, fabric-shuttle, 0.0.22, Declarative service-oriented approach with hooks for using Fabric to provision a machine or vagrant box., 2017-10-14T08:20:09+0000
+/project/elasticpy/, elasticpy, 0.12, Python Wrapper for elasticsearch, 2013-04-16T19:56:34+0000
+/project/pelican-frontmark/, pelican-frontmark, 1.2.1, CommonMark/Frontmatter reader for Pelican, 2019-12-09T18:17:17+0000
+/project/version-query/, version-query, 1.1.0, Package version query toolkit for Python, 2020-02-05T08:54:29+0000
+/project/fabrlce/, fabrlce, 1.0.0, High level SSH command execution, 2021-03-10T05:29:15+0000
+/project/hemp/, Hemp, 0.1.9, Tools for Fabric, 2019-02-19T15:57:40+0000
+/project/bdist-nsi/, bdist_nsi, 0.1.5, Create NSIS windows installers for Python modules., 2012-10-27T12:07:24+0000
+/project/omego/, omego, 0.7.0, OME installation and administration tool, 2019-11-11T14:39:34+0000
+/project/cliche/, cliche, 0.7.46, A minimalistic CLI wrapper out to be the best, 2021-04-15T22:05:29+0000
+/project/django-js/, django.js, 0.8.1, Django JS Tools, 2013-10-19T11:50:45+0000
+/project/oozappa/, oozappa, 0.9.1, Fabric task runner and helper. Executes and manages tasks via web browser., 2017-12-16T05:34:04+0000
+/project/mcloud-plugin-browser-auto-open/, mcloud-plugin-browser-auto-open, 0.10.14, browser-auto-open mcloud plugin, 2015-07-31T06:46:32+0000
+/project/probcount/, probcount, 0.1, A simple probabilistic counter., 2017-12-19T13:15:00+0000
+/project/yadtbroadcast-client-wamp2/, yadtbroadcast-client-wamp2, 0.0.2, YADT - an Augmented Deployment Tool - The Broadcast Client Part, 2015-02-02T12:18:15+0000
+/project/libcomps/, libcomps, 0.1.15.post1, Comps XML file manipulation library, 2020-07-08T18:20:15+0000
+/project/rdeploy/, rdeploy, 0.0.37, CLI that makes it easy to build and deploy an application to k8s., 2021-04-09T15:10:44+0000
+/project/sanic-restplus/, sanic-restplus, 0.5.5, Fully featured framework for fast, easy and documented API development with Sanic, 2021-01-02T09:54:34+0000
+/project/fastlang/, fastlang, 0.0.4, Fast Detection of Language without Dependencies, 2017-03-11T19:14:50+0000
+/project/pipcmd/, pipcmd, 0.1, Tool for installing and managing commands installed from PyPI, 2018-02-12T22:42:42+0000
+/project/onyxproject/, onyxproject, 0.9.0, Intelligent Dashboard, 2017-05-10T14:37:40+0000
+/project/feedview/, feedview, 0.0.1, View a feed url with `feedview <URL>`, 2017-05-25T17:59:35+0000
+/project/swagger-schema/, swagger-schema, 0.5.1, a schematics-based schema for Swagger definitions., 2017-12-17T19:50:39+0000
+/project/depl/, depl, 0.0.1, depl - deploy easy and fast., 2013-09-22T17:55:44+0000
+/project/pypi2pkgbuild/, pypi2pkgbuild, 0.3, A PyPI to PKGBUILD converter., 2021-03-30T20:41:14+0000
+/project/sshtoy/, sshtoy, 1.0.5, Connecting to remote host with one command., 2012-09-27T16:52:34+0000
+/project/clusterp/, clusterp, 0.1.4, Clusterp : Cluster profiling made easy, 2018-04-09T14:12:53+0000
+/project/zc-recipe-cmmi/, zc.recipe.cmmi, 3.0.0, ZC Buildout recipe for configure/make/make install, 2019-03-30T08:10:54+0000
+/project/auto-extract/, auto_extract, 0.0.9, Automatically extract content., 2020-03-08T21:59:38+0000
+/project/ipecac/, ipecac, 0.2, Generate Swagger/OAS 3.0 documentation from Python comments, 2018-12-17T02:23:48+0000
+/project/vcs-repo-mgr/, vcs-repo-mgr, 4.2, Version control repository manager, 2018-04-26T09:31:06+0000
+/project/pelican-drafts/, pelican-drafts, 0.1.1, Add a browsable drafts listing to your Pelican website, 2020-03-25T23:24:02+0000
+/project/easypypi/, easypypi, 2.0.6, By FAR the easiest and quickest way to publish your Python creations on PyPI so other people can just `pip install your_script`., 2021-01-30T02:58:05+0000
+/project/python-bol-api/, python-bol-api, 0.9.1, Wrapper for the bol.com API, 2020-05-14T13:52:34+0000
+/project/bsm/, bsm, 0.3.0, Bundled software manager, 2018-01-17T08:01:06+0000
+/project/amet/, amet, 0.4, A library to read complex configuration from environment variables., 2018-05-13T12:13:27+0000
+/project/autoupgrade-prima/, autoupgrade-prima, 0.6.3, Automatic upgrade of PyPI packages, 2020-06-30T13:14:25+0000
+/project/gisht/, gisht, 0.5, Gists in the shell, 2015-08-04T09:42:07+0000
+/project/figaro/, figaro, 0.1, Production cloud deployments of fig infrastructure with docker, 2014-02-01T19:45:55+0000
+/project/pyp2rpm/, pyp2rpm, 3.3.6, Convert Python packages to RPM SPECFILES, 2021-03-21T23:24:00+0000
+/project/ore-recipe-svnlib/, ore.recipe.svnlib, 0.1.6, Buildout recipe for compiling python subversion bindings, 2008-11-18T14:06:04+0000
+/project/githubrelease/, githubrelease, 1.5.8, githubrelease is a CLI to easily manage GitHub releases, assets and references, 2018-04-08T19:46:36+0000
+/project/redshiftsql/, redshiftsql, 0.0.7, Executes SQL commands from STDIN in a single transaction, 2018-03-15T19:36:06+0000
+/project/udata-data-fair/, udata-data-fair, 0.3.1, Use DataFair embeds to preview data, 2020-03-17T14:58:14+0000
+/project/cozy-indexer/, cozy-indexer, 1.0.6, Little API that provides indexation and full-text search features to the Cozy Cloud Platform., 2015-06-23T15:06:07+0000
+/project/remote-copy-and-execute/, remote_copy_and_execute, 1.1.1, Tool to use SSH protocol to copy and execute arbitrary scripts/commands on a list of machines in parallel, 2015-08-30T23:21:40+0000
+/project/pynsist/, pynsist, 2.7, Build NSIS installers for Python applications., 2021-03-28T16:28:58+0000
+/project/udata-piwik/, udata-piwik, 2.1.2, Piwik support for uData, 2020-07-03T14:41:56+0000
+/project/read-version/, read-version, 0.3.1, Extract your project's __version__ variable, 2020-07-12T20:19:09+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/python-cloudwatchlogs-logging/, python-cloudwatchlogs-logging, 0.0.3, Handler for easy logging to AWS CloudWatchLogs., 2015-03-16T14:52:50+0000
+/project/treeshaker/, treeshaker, 0.0.3, A tree-shaking tool for Python., 2020-05-16T21:40:44+0000
+/project/ezpy/, ezpy, 0.1.0.dev0, Make Python application installs easy as pie, for both users and developers, 2017-06-20T15:44:36+0000
+/project/anguine/, anguine, 0.0.0, anguine, 2017-11-08T22:45:05+0000
+/project/flask-mm/, flask-mm, 0.0.13.dev0, Media Manager for flask, 2020-02-28T16:14:53+0000
+/project/yt-finance/, yt.finance, 0.2, A very basic finance library, 2013-03-17T20:51:09+0000
+/project/redis-taxon/, redis-taxon, 0.3.0, Redis-backed tagged data store, 2012-09-24T04:11:47+0000
+/project/berth/, berth, 1.3.5, Utility to generate package files using Docker containers, 2017-05-05T09:22:58+0000
+/project/awsornot/, awsornot, 1.1.2, Classes for logging and key/value that work identically whether running on AWS or not, 2018-03-27T23:42:55+0000
+/project/poni/, poni, 0.4.9, system configuration software, 2011-04-05T15:27:40+0000
+/project/dh-splitpackage/, dh_splitpackage, 0.2.3, dh_split - split monolithic installation directory into sub-packages without pulling your hair out, 2011-06-14T17:41:52+0000
+/project/enstaller/, enstaller, 4.8.13, Install and managing tool for egg-based packages, 2017-01-13T19:54:54+0000
+/project/pipdatedd/, pipdatedd, 0.3.3, pip update helpers, 2019-08-03T16:59:05+0000
+/project/katversion/, katversion, 1.1, Reliable git-based versioning for Python packages, 2020-07-27T09:01:41+0000
+/project/ya-ma/, ya-ma, 0.3.8, YANDEX transport API client library, 2019-10-13T13:56:06+0000
+/project/docker-map/, docker-map, 1.1.1, Managing Docker images, containers, and their dependencies in Python., 2020-04-09T20:41:18+0000
+/project/mcloud-plugin-simple-publish/, mcloud-plugin-simple-publish, 0.10.10, Very simple mechanism to publish application using docker-proxy, 2015-05-28T00:38:34+0000
+/project/toka/, toka, 0.2.3.21, A handy tool to generate common files in command line, 2015-09-08T04:51:31+0000
+/project/seclusion/, seclusion, 1.1.0, A simple way to provide a secluded deployment location, 2016-02-07T18:23:18+0000
+/project/os-sys/, os-sys, 2.1.4, a big lib with many usefull tools and it are not only os and sys tools..., 2019-12-10T20:06:28+0000
+/project/instagrampictures/, instagramPictures, 1.3.1, Script for downloading pictures from instagram.com, 2017-05-10T21:12:11+0000
+/project/setuptools-scm/, setuptools-scm, 6.0.1, the blessed package to manage your versions by scm tags, 2021-03-17T14:18:59+0000
+/project/outsystems-pipeline/, outsystems-pipeline, 0.3.1, Python package to accelerate the integration of OutSystems with third-party CI/CD tools, 2020-03-25T15:11:47+0000
+/project/distutils-ui/, distutils-ui, 0.1.3, A distutils build extension for PyQt{4,5} applications, 2020-10-02T16:06:09+0000
+/project/udata-recommendations/, udata-recommendations, 2.2.0, uData content recommendations bridge, 2020-11-30T11:04:55+0000
+/project/fabrik/, fabrik, 3.3.1, A simple to use deployment toolkit built on top of Fabric, 2018-04-16T06:56:31+0000
+/project/ribosome-tool/, ribosome.tool, 0.6.6, Yet another project deploy and release tool, 2019-11-09T16:07:40+0000
+/project/qypi/, qypi, 0.5.0, Query PyPI from the command line, 2019-05-18T17:04:10+0000
+/project/huddle/, huddle, 0.1.5, A server-oriented auto-deployment utility for any type of program or script, 2017-05-30T23:49:21+0000
+/project/metrics-migration/, metrics-migration, 0.1.2, a simple tool to help you migrate graphite metrics, 2017-01-13T23:21:13+0000
+/project/pypackinit/, pypackinit, 1.0, Rapid python package skeleton generator, 2020-10-24T16:13:26+0000
+/project/snakepit/, snakepit, 185, Package Python software as an RPM including all dependencies (even the interpreter)., 2016-03-17T13:18:20+0000
+/project/spec-checker/, spec-checker, 0.0.2, Tool for checking textual requirement/design specifications, 2017-01-15T12:37:35+0000
+/project/placer/, placer, 0.0.7, Let's draw on /r/place!, 2017-04-03T12:35:03+0000
+/project/pyimapi/, pyIMAPI, 0.4.0b2, Create CD, DVD, DVD Dual Layer, and BluRay ISO images under Windows directly from Python, 2018-06-25T06:47:36+0000
+/project/cyclonedx-bom/, cyclonedx-bom, 0.4.3, CycloneDX software bill-of-material (SBOM) generation utility, 2020-12-05T20:21:04+0000
+/project/pulp-cli/, pulp-cli, 0.7.0, Command line interface to talk to pulpcore's REST API., 2021-03-15T18:18:21+0000
+/project/distinfo/, distinfo, 0.2.0, Extract metadata from Python source distributions, 2018-07-20T22:34:05+0000
+/project/fabtools3/, fabtools3, 0.19.0, [Python3 fork] Tools for writing awesome Fabric files, 2016-04-20T10:35:43+0000
+/project/pexpect/, pexpect, 4.8.0, Pexpect allows easy control of interactive console applications., 2020-01-21T16:37:03+0000
+/project/poorbox/, poorbox, 0.1, Downloads a dropbox directory via the dropbox REST API. Downloads only the changed files. Useful for limited environments., 2013-02-24T02:23:20+0000
+/project/ravenpackapi/, ravenpackapi, 1.0.47, RavenPack API - Python client, 2021-04-12T07:56:30+0000
+/project/nvchecker/, nvchecker, 2.3, New version checker for software, 2021-03-19T05:45:25+0000
+/project/safeget/, safeget, 1.4.8, Safeget gets and verifies files. It does the security checks that almost everyone skips., 2021-03-08T20:08:31+0000
+/project/django-absolute/, django-absolute, 0.3, Absolute URLs tools for django, 2013-03-03T01:39:32+0000
+/project/pickley/, pickley, 2.4.6, Automate installation of standalone python CLIs, 2021-04-08T18:46:03+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/mt4pycon/, mt4pycon, 1.0.2, A python script using the mtapi EA on MT4 to get candle data, 2020-11-12T13:50:31+0000
+/project/cozy-fuse/, cozy-fuse, 0.1.2, FUSE implementation for Cozy Files, 2014-07-21T11:11:54+0000
+/project/cdent/, cdent, 0.5.7, C'Dent - A Portable Module Programming Language, 2010-06-15T03:27:16+0000
+/project/jprm/, jprm, 0.4.0, Jellyfin Plugin Repository Manager, 2021-03-12T23:08:09+0000
+/project/package-cache/, package-cache, 0.2, A caching proxy for package downloads, 2014-02-22T03:15:16+0000
+/project/flowtool-python/, flowtool-python, 0.7.47, Shortcuts for python devs., 2016-05-11T12:14:29+0000
+/project/yabs/, yabs, 0.4.0, Yet Another Build Script, 2020-12-28T18:57:58+0000
+/project/pytempus/, pytempus, 1.2.2, Tempus Python API, 2018-02-09T10:26:38+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/pyk8sver/, pyk8sver, 1.0, Get k8s version from github, 2019-01-14T18:11:45+0000
+/project/attrs-jsonschema/, attrs-jsonschema, 0.2, convert a attrs annotation to json a json schema., 2017-06-25T16:41:28+0000
+/project/pelican-microdata/, pelican-microdata, 0.3.0, Microdata semantic markups support for Pelican Blog Generator, 2017-02-02T01:09:33+0000
+/project/infotags/, infotags, 1.1.2, Meta info extraction for Python package setup scripts, 2017-09-08T21:01:48+0000
+/project/repomirror/, repomirror, 1.0.4, Clone/mirror multiple Linux distro/BSD flavor/etc. repositories to a local server, 2020-07-07T17:33:39+0000
+/project/ccfreeze/, ccfreeze, 1.1.5, create standalone executables from python scripts, 2016-05-22T09:21:10+0000
+/project/btsbots-wallet/, btsbots-wallet, 0.2.3, web wallet for BitShares, 2016-10-02T07:40:10+0000
+/project/pearlcli/, pearlcli, 2.1.1, Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX).It can be used for dotfiles, plugins, programs and any form of code accessible via git., 2020-01-14T00:00:57+0000
+/project/djangopypi/, djangopypi, 0.4.7, A Django application that emulates the Python Package Index., 2015-10-27T12:54:41+0000
+/project/tinyshar/, tinyshar, 0.10.2, simple library and utility for creation of shell archives, 2020-06-17T13:17:50+0000
+/project/sink/, sink, 0.1.0b2, Arch Linux AUR installer for the lazy, 2019-02-19T09:02:34+0000
+/project/emby-updater/, emby-updater, 0.8.3, A little tool to keep your emby media server up to date., 2020-08-28T11:54:51+0000
+/project/odoo-env/, odoo-env, 0.10.10, A Dockerized environment for Odoo, 2021-03-27T21:25:59+0000
+/project/updater4pyi/, updater4pyi, 0.7, Lightweight library for software auto-update for applications frozen with pyinstaller, 2014-12-07T18:37:13+0000
+/project/ivre/, ivre, 0.9.16, Network recon framework, 2020-12-08T14:53:50+0000
+/project/paved/, Paved, 0.5.1, Common tasks for Paver-based projects., 2016-11-08T00:56:50+0000
+/project/gocept-download/, gocept.download, 0.9.5, zc.buildout recipe for downloading and extracting an archive., 2010-07-26T08:50:55+0000
+/project/cgtn-videos/, cgtn-videos, 0.0.4, Python package fetch the video URLs and metadata from CGTN website, 2019-12-04T03:53:43+0000
+/project/repi-client/, repi-client, 0.4, RePi client, a Redis PubSub interface for PyPi., 2013-07-22T19:51:57+0000
+/project/arundeckrun/, arundeckrun, 0.2.3, A Rundeck API Python client, 2016-04-13T13:27:55+0000
+/project/pytest-lamp/, pytest-lamp, 0.1.0, , 2017-01-06T01:13:55+0000
+/project/aptdaemon/, aptdaemon, 1.1.1, DBus driven daemon for APT, 2013-08-12T04:34:11+0000
+/project/freeze-requirements/, freeze-requirements, 0.5.3, A script to help creating and maintaining frozen requirements for pip, 2017-07-27T11:05:19+0000
+/project/deb-pkg-tools/, deb-pkg-tools, 8.4, Debian packaging tools, 2021-03-09T13:48:47+0000
+/project/gouvlu/, gouvlu, 2.0.20, Official udata theme and extensions of the Open Data Portal of Luxembourg, 2021-04-20T12:25:31+0000
+/project/pypiweb/, pypiweb, 0.1.1, pypiweb description, 2015-10-21T17:40:00+0000
+/project/gstore/, gstore, 0.4.0, Synchronize GitHub repositories made easy, 2021-02-19T07:53:50+0000
+/project/fiaas-publish/, fiaas-publish, 0.2.0, Publish python package to PyPI and Github, 2019-01-09T09:39:01+0000
+/project/versionah/, versionah, 0.16.0, Simple version specification management, 2017-11-25T10:04:58+0000
+/project/gptsum/, gptsum, 0.0.9, A tool to make disk images using GPT partitions self-verifiable, 2021-03-25T23:18:05+0000
+/project/django-image-proxy/, django_image_proxy, 0.0.8, Simple Django Image Proxy especially for Horizon Openstack Dashboard., 2015-08-03T10:06:42+0000
+/project/nostalgia/, nostalgia, 0.1.67, nostalgia enables to self-track and gain insights into your life, 2020-03-08T22:04:17+0000
+/project/pipesnake/, pipesnake, 0.1, Feature extractor and data processing pipelines for Pandas inspired by Scikit-Learn., 2018-01-26T18:18:15+0000
+/project/afterdown/, afterdown, 0.9.93, Automate the organization of your downloads., 2018-05-12T20:36:57+0000
+/project/winapps/, winapps, 0.2.0, Python library for managing installed applications on Windows, 2021-04-02T16:26:07+0000
+/project/yuki/, yuki, 1.0.6, CEPC software management toolkit, 2018-02-26T02:48:03+0000
+/project/surgen/, surgen, 0.1.0, a utility library to help provide api route generation form function signature for web frameworks., 2019-07-05T22:50:15+0000
+/project/spec2scl/, spec2scl, 1.2.2, Convert RPM specfiles to SCL-style., 2019-08-19T11:27:40+0000
+/project/package-controller/, package-controller, 3.2.1, A CLI tool that acts as a wrapper for various other programs to make updating and publishing python and node packages easier, 2019-07-07T02:58:11+0000
+/project/ownrepo/, ownrepo, 0.1b5, Simple, easy-to-setup private Python packages repository, 2015-03-10T20:10:02+0000
+/project/flask-dotenv/, Flask-DotEnv, 0.1.2, The .env file support for Flask, 2019-04-30T18:38:51+0000
+/project/possible/, possible, 0.0.0, Possible is configuration management tool, 2019-05-26T09:26:07+0000
+/project/pip-save/, pip-save, 0.2.0, A wrapper around pip to add `npm --save` style functionality to pip, 2016-09-20T19:38:08+0000
+/project/gentle/, Gentle, 0.1, Gentle is a help you quickly submit code to the test environment tools., 2013-12-04T15:12:20+0000
+/project/appypi/, appypi, 0.2.0, appypi: sandboxing apps from Pypi packages, 2012-12-16T17:22:04+0000
+/project/warthog/, warthog, 2.0.1, Simple client for A10 load balancers, 2017-07-20T21:19:28+0000
+/project/rundeckrun/, rundeckrun, 0.2.1, Rundeck API Python client, 2015-10-12T20:51:39+0000
+/project/moscow-yandex-transport/, moscow-yandex-transport, 0.2.0, YANDEX transport API client library, 2019-08-31T17:39:09+0000
+/project/cizsle/, cizsle, 0.0a7, Cisco ZTP Server LE, 2019-05-09T02:14:31+0000
+/project/rt-factory/, rt-factory, 0.2.4, Pythonic wrapper for the artifactory API, 2017-10-26T15:22:17+0000
+/project/pglite/, pglite, 1.0.13, PostgreSQLite, 2020-09-01T08:16:49+0000
+/project/rpmbrew-tools/, rpmbrew-tools, 0.1-7, Some utility tools that helps in building rpms, 2014-03-23T17:19:26+0000
+/project/bundle/, bundle, 1.1.2, Create and manage bundle packages., 2012-01-13T13:54:26+0000
+/project/xdb/, xdb, 0.0.0, One database API to use them all, 2016-01-04T19:07:03+0000
+/project/cot/, cot, 2.2.1, Common OVF Tool, 2019-12-04T15:45:49+0000
+/project/pip-accel/, pip-accel, 0.43, Accelerator for pip, the Python package manager, 2016-03-14T12:52:31+0000
+/project/pip2pkgbuild/, pip2pkgbuild, 0.2.6, Generate PKGBUILD file for a Python module from PyPi, 2019-04-13T07:56:19+0000
+/project/chishop/, chishop, 0.2.0, Simple PyPI server written in Django., 2009-03-22T00:45:57+0000
+/project/udata-croquemort/, udata-croquemort, 2.0.1, Croquemort support for uData, 2020-06-17T12:49:05+0000
+/project/drover/, drover, 0.7.1, a command-line utility to deploy Python packages to Lambda functions, 2020-04-07T07:44:43+0000
+/project/textsearch/, textsearch, 0.0.21, Find strings/words in text; convenience and C speed, 2021-02-07T14:41:25+0000
+/project/dcextensions/, dcextensions, 0.0.1, UNKNOWN, 2014-07-16T14:41:13+0000
+/project/fabric-with-working-dependencies/, Fabric-with-working-dependencies, 1.0.1, Fabric is a simple, Pythonic tool for remote execution and deployment., 2011-04-19T12:54:59+0000
+/project/bolt/, bolt, 0.9, Multi-server automation and deployment toolkit, 2011-05-16T20:03:45+0000
+/project/signet/, signet, 3.0.2, Signet provides support for building and delivering tamper resistant python to your users and customers., 2020-06-19T16:25:33+0000
+/project/jyboss/, jyboss, 0.2.8, Jython CLI for JBoss Application Server, 2019-11-01T01:54:36+0000
+/project/autoupgrade/, autoupgrade, 0.2.0, Automatic upgrade of python modules and packages, 2015-01-05T15:35:31+0000
+/project/repo-helper/, repo-helper, 2021.3.31, A tool to manage configuration files, build scripts etc. across multiple projects., 2021-03-31T11:20:53+0000
+/project/pybuilder-aws-plugin/, pybuilder_aws_plugin, 183, PyBuilder plugin to handle AWS functionality, 2016-06-23T09:13:00+0000
+/project/fabric-logging/, fabric-logging, 0.1.0, Adds option to redirect all stdout/stderr through standard Python logging. Very much a work in progress, 2012-09-19T00:28:18+0000
+/project/setup-qt/, setup_qt, 1.0.0, Compile Qt resource files, UI files and translations in setup.py, 2017-03-23T17:03:48+0000
+/project/signify/, signify, 0.3.0, Module to generate and verify PE signatures, 2020-08-16T10:32:38+0000
+/project/pyalpm/, pyalpm, 0.9.2, libalpm bindings for Python 3, 2020-10-13T20:14:26+0000
+/project/pup/, pup, 1.0.0a9, Pluggable Micro Packager, 2021-02-06T22:08:06+0000
+/project/seed/, seed, 0.11.3, A utility for easily creating and releasing Python packages, 2017-02-22T16:22:12+0000
+/project/yadtbroadcast-client/, yadtbroadcast-client, 1.2.1, YADT - an Augmented Deployment Tool - The Broadcast Client Part, 2014-02-11T15:22:18+0000
+/project/gitvier/, gitvier, 0.1.1, A component manager based where your components live in Git., 2017-05-13T20:57:31+0000
+/project/zn/, zn, 0.0.1, Zinc, 2019-01-31T00:43:06+0000
+/project/transmute/, transmute, 5.0, Automatically update Python Eggs on application startup., 2014-03-07T13:12:48+0000
+/project/malice/, malice, 0.0.3, My awesome little infrastructure configuration environment, 2019-06-24T18:10:44+0000
+/project/yagmail/, yagmail, 0.14.247, Yet Another GMAIL client, 2021-03-31T13:01:45+0000
+/project/django-fab/, django-fab, 1.0.4, Common methods to help create fabric deplopment scripts for django, 2009-10-13T04:34:19+0000
+/project/mr-parker/, mr.parker, 1.0, Ensures that the PyPI bus factor for a package is above a certain threshold., 2009-10-31T14:43:22+0000
+/project/pexe37/, pexe37, 0.9.6.5, Python to Exe, 2019-12-17T04:49:09+0000
+/project/graphiteencoder/, GraphiteEncoder, 0.1.4, , 2018-09-28T02:33:54+0000
+/project/autopub/, autopub, 0.2.0, Automatic package release upon pull request merge, 2021-02-15T14:47:37+0000
+/project/venv-pack/, venv-pack, 0.2.0, Package virtual environments for redistribution, 2018-08-23T16:02:51+0000
+/project/codedeploy-monitor/, codedeploy_monitor, 0.1, Creates and monitors AWS CodeDeploy deployments., 2015-12-16T10:07:07+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/synapse/, synapse, 2.34.0, Synapse Intelligence Analysis Framework, 2021-04-20T18:10:14+0000
+/project/udata-tabular-preview/, udata-tabular-preview, 2.0.2, A plugin to preview tabular files (CSV, Excel, ...) using csvapi, 2020-10-16T15:29:59+0000
+/project/calmjs/, calmjs, 3.4.1, A Python framework for building toolchains and utilities for working with the Node.js ecosystem from within a Python environment., 2019-05-23T06:39:53+0000
+/project/whtc-recipe-configmanager/, whtc.recipe.configmanager, 1.1.3, A buildout recipe to manage auto-populating portions of shared configuration files that cannot simply be overwritten., 2016-11-16T19:38:13+0000
+/project/dreipol-django-fagungis/, dreipol-django-fagungis, 0.0.21, DJANGO + FAbric + GUnicorn + NGInx + Supervisor deployment for dreipol, 2015-02-06T15:37:33+0000
+/project/snazzy/, snazzy, 0.2.2, 'Stylish ANSI terminal colors and helpers', 2020-12-28T19:00:13+0000
+/project/flowtool-versioning/, flowtool-versioning, 0.7.58, Semi-automatic versioning for git users., 2016-04-24T15:36:14+0000
+/project/pyinstaller-hooks/, PyInstaller-Hooks, 20170726, PyInstaller bundles a Python application and all its dependencies into a single package., 2017-07-26T16:09:48+0000
+/project/dstack-tasks/, dstack-tasks, 2.3.5, CLI that accompanies dstack-tasks make it easy to build and deploy application. Integrates with dstack-factory., 2020-06-27T12:36:51+0000
+/project/djangopypi2/, djangopypi2, 0.6.1, A Django application that emulates the Python Package Index., 2013-07-19T19:37:08+0000
+/project/adhoc/, AdHoc, 0.3.2, Standalone Package Generator, 2013-08-24T09:06:43+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/get-mirror/, get-mirror, 1.0, UNKNOWN, 2013-06-17T07:52:41+0000
+/project/applause-tool/, applause-tool, 0.5.0, This package allows integration with Applause Inc. services., 2016-10-14T13:32:24+0000
+/project/docker-fabric/, docker-fabric, 0.5.0, Build Docker images, and run Docker containers in Fabric., 2017-12-27T20:58:14+0000
+/project/lambda-deploy/, lambda-deploy, 0.1.2, Easily deploy code to AWS Lambda, 2016-08-11T16:19:54+0000
+/project/tfnz/, tfnz, 1.3.4, SDK for 20ft.nz, 2018-08-13T02:33:32+0000
+/project/snapcraft/, snapcraft, 3.8, Publish your app for Linux users for desktop, cloud, and IoT., 2019-09-11T15:14:19+0000
+/project/python-quilt/, python-quilt, 1.0, A quilt patch system implementation in Python, 2017-07-01T11:52:05+0000
+/project/flowtool-base/, flowtool-base, 0.7.61, Start managing your workflow!, 2016-05-03T18:30:36+0000
+/project/snazzy/, snazzy, 0.2.2, 'Stylish ANSI terminal colors and helpers', 2020-12-28T19:00:13+0000
+/project/flowtool-versioning/, flowtool-versioning, 0.7.58, Semi-automatic versioning for git users., 2016-04-24T15:36:14+0000
+/project/pyinstaller-hooks/, PyInstaller-Hooks, 20170726, PyInstaller bundles a Python application and all its dependencies into a single package., 2017-07-26T16:09:48+0000
+/project/dstack-tasks/, dstack-tasks, 2.3.5, CLI that accompanies dstack-tasks make it easy to build and deploy application. Integrates with dstack-factory., 2020-06-27T12:36:51+0000
+/project/djangopypi2/, djangopypi2, 0.6.1, A Django application that emulates the Python Package Index., 2013-07-19T19:37:08+0000
+/project/adhoc/, AdHoc, 0.3.2, Standalone Package Generator, 2013-08-24T09:06:43+0000
+/project/setuptestx/, setuptestx, 0.1.46, Support test automation for setuptools / distutils., 2019-12-13T13:34:05+0000
+/project/get-mirror/, get-mirror, 1.0, UNKNOWN, 2013-06-17T07:52:41+0000
+/project/applause-tool/, applause-tool, 0.5.0, This package allows integration with Applause Inc. services., 2016-10-14T13:32:24+0000
+/project/docker-fabric/, docker-fabric, 0.5.0, Build Docker images, and run Docker containers in Fabric., 2017-12-27T20:58:14+0000
+/project/lambda-deploy/, lambda-deploy, 0.1.2, Easily deploy code to AWS Lambda, 2016-08-11T16:19:54+0000
+/project/tfnz/, tfnz, 1.3.4, SDK for 20ft.nz, 2018-08-13T02:33:32+0000
+/project/snapcraft/, snapcraft, 3.8, Publish your app for Linux users for desktop, cloud, and IoT., 2019-09-11T15:14:19+0000
+/project/python-quilt/, python-quilt, 1.0, A quilt patch system implementation in Python, 2017-07-01T11:52:05+0000
+/project/flowtool-base/, flowtool-base, 0.7.61, Start managing your workflow!, 2016-05-03T18:30:36+0000
+/project/ansible-tower-cli/, ansible-tower-cli, 3.3.9, A CLI tool for Ansible Tower and AWX., 2020-03-12T18:55:29+0000
+/project/localshop/, localshop, 0.9.3, A private pypi server including auto-mirroring of pypi., 2015-05-15T13:53:19+0000
+/project/fuel-plugin-builder/, fuel-plugin-builder, 4.2.0, Helps to create and build fuel plugins, 2017-02-02T14:05:55+0000
+/project/skyman/, skyman, 0.1, Sky is a tool that allows quick and repeatable deployment and management of cloud environments., 2015-04-28T01:24:33+0000
+/project/pypackage/, pypackage, 0.2.6, Pypackage looks to package python without writing a setup.py, 2016-04-25T10:57:19+0000
+/project/cada/, cada, 1.0.0, Search and consult CADA advices, 2019-07-19T13:52:44+0000
+/project/pypercard/, pypercard, 0.0.1a4, A HyperCard inspired GUI framework for beginner developers., 2019-09-21T15:50:04+0000
+/project/nexus-client/, nexus_client, 0.1.1, Python client for Nexus., 2014-12-26T19:55:59+0000
+/project/flowtool-all/, flowtool-all, 0.7.22, Start managing everything!, 2016-04-24T16:22:01+0000
+/project/cp-buildout-postgres/, cp.buildout_postgres, 0.1-r2723, zc.buildout recipes for setting up a Postgres Environment., 2010-04-03T18:54:28+0000
+/project/calmjs-rjs/, calmjs.rjs, 2.0.1, Package for the integration of RequireJS into a Python environment via the Calmjs framework, to provide a reproducible workflow for the generation of deployable artifacts from JavaScript source code provided by Python packages in conjunction with standard JavaScript or Node.js packages sourced from npm or other similar package repositories., 2018-05-03T03:06:49+0000
+/project/zombieagent/, ZombieAgent, 0.0.1a, ., 2012-01-05T23:37:08+0000
+/project/jasypt4py/, jasypt4py, 0.0.3, Cipher functions that produce Jasypt/Bouncycastle compatible password encryption., 2017-12-28T06:37:06+0000
+/project/cozy-management/, cozy-management, 0.0.25, Module to help self hosted cozy management, 2017-01-31T12:31:42+0000
+/project/bombardier-server/, bombardier_server, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:29+0000
+/project/cyinstaller/, cyinstaller, 1.1.1, A cli tool to package application with Cython & PyInstaller., 2020-12-15T13:52:14+0000
+/project/poetry-scmver/, poetry-scmver, 0.1.2.dev6, Plugin for Poetry to enable dynamic versioning based on VCS tags for semver, 2019-12-16T14:22:55+0000
+/project/createrepo-c/, createrepo-c, 0.17.1.post1, C implementation of createrepo, 2021-03-03T16:43:07+0000
+/project/vee/, vee, 1.0.0.dev0, Versioned Execution Environments, 2020-08-18T14:42:50+0000
+/project/gitbarry/, gitbarry, 0.3.2, Customizable git workflow extension, 2017-11-03T15:27:57+0000
+/project/rebasehelper/, rebasehelper, 0.24.0, This tool helps you rebase your package to the latest version, 2021-02-10T18:43:00+0000
+/project/repomaker/, repomaker, 1.0.0b2, Create F-Droid repositories with ease, 2020-10-08T15:06:06+0000
+/project/btspusher/, btspusher, 0.0.9, push service for Bitshares, 2016-10-01T14:19:37+0000
+/project/pybuilder-emr-plugin/, pybuilder-emr-plugin, 1.1.0, PyBuilder plugin to handle Amazon EMR functionality, 2017-11-28T23:01:48+0000
+/project/mozdownload/, mozdownload, 1.26.0, Script to download builds for Firefox and Thunderbird from the Mozilla server., 2019-05-13T12:29:21+0000
+/project/sysdm/, sysdm, 0.8.58, Scripts as a service. Builds on systemd., 2021-03-05T15:40:20+0000
+/project/paci/, paci, 1.10.3, Your friendly, lightweight and flexible package manager., 2021-01-22T11:06:22+0000
+/project/wagtail-sendinblue/, wagtail-sendinblue, 0.1.0.dev0, SendInBlue integration for Wagtail, 2017-11-12T22:41:30+0000
+/project/loco/, loco, 0.1.32, Share localhost through SSH., 2019-02-09T23:05:44+0000
+/project/yay-digitalsparky/, yay-digitalsparky, 0.0.1, Simple Python interface to Arch Linux package manager (yay), 2020-08-21T18:13:08+0000
+/project/pudb/, pudb, 2020.1, A full-screen, console-based Python debugger, 2020-12-21T04:20:59+0000
+/project/django-password/, django-password, 3.0, A Django application to store communal passwords., 2012-05-11T15:19:38+0000
+/project/bombardier-cli/, bombardier_cli, 1.10-783, Open Source Configuration management and package delivery: central server components, 2011-03-07T23:11:39+0000
+/project/pyqt-distutils/, pyqt-distutils, 0.7.3, A set of distutils extension for building Qt ui files, 2017-06-18T11:18:50+0000
+/project/gn2gn-client/, gn2gn-client, 0.0.4.dev0, Outil d'import de données entre instances GeoNature (côté client), 2020-12-31T00:54:39+0000
+/project/impstall/, impstall, 0.3.0, This module can be used to import python packages and install them if not already installed., 2017-07-28T01:24:47+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/launchbox/, launchbox, 0.1.1, Packaging and dependency resolution for chef-solo cookbooks, 2013-01-03T05:32:15+0000
+/project/tbcli/, tbcli, 0.0.10, Based on Fabric, use ansible-like config files., 2016-02-17T07:01:21+0000
+/project/access-points/, access_points, 0.4.66, Scan your WiFi and get access point information and signal quality., 2019-09-08T22:32:03+0000
+/project/with-cloud-blob/, with-cloud-blob, 0.4.4, , 2020-07-08T09:28:33+0000
+/project/django-eztables/, django-eztables, 0.3.2, jQuery Datatables integration for Django, 2013-06-07T00:39:14+0000
+/project/awslambda/, awslambda, 1.0.6, A tool for deploying Python projects to AWS Lambda., 2016-12-04T02:41:55+0000
+/project/solar/, solar, 0.2.1, Deployment tool, 2016-02-18T15:25:01+0000
+/project/pexpect-py3-patch/, pexpect-py3-patch, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:14:18+0000
+/project/isconf/, isconf, 4.2.8.253, Infrastructure configuration management tool, 2015-02-25T04:38:18+0000
+/project/aliyun-img-utils/, aliyun-img-utils, 1.1.0, Package that provides utilities for handling images in Aliyun Cloud., 2021-04-07T15:44:53+0000
+/project/dot-access/, dot_access, 0.0.1, Makes nested python objects easy to go through, 2017-09-22T21:09:59+0000
+/project/justdb/, justdb, 0.0.14, Just a thread/process-safe, file-based, fast, database., 2017-06-21T20:12:37+0000
+/project/pipis/, pipis, 2.0.0.post2, Wraps pip and venv to install scripts, 2019-06-19T11:23:26+0000
+/project/dstack-factory/, dstack-factory, 1.0.7, CLI that accompanies dstack-factory for building and publishing docker images for python packages., 2017-02-17T12:22:55+0000
+/project/genesis/, genesis, 0.0.0, AI based Genetic algorithm for data migration, 2018-05-23T23:11:16+0000
+/project/flask-fs/, flask-fs, 0.6.1, Simple and easy file storages for Flask, 2018-04-19T12:39:10+0000
+/project/aboutcode/, AboutCode, 3.0.0.dev3, Document the provenance (origin and license) of third-party software using small text files. Collect inventories, generate attribution documentation., 2016-06-21T10:57:34+0000
+/project/jumpssh/, jumpssh, 1.6.5, Python library for remote ssh calls through a gateway., 2020-11-06T17:52:50+0000
+/project/ministryofpackages/, MinistryOfPackages, 0.9.5, A minimal PyPI implementation meant for use behind a firewall., 2011-09-19T17:08:29+0000
+/project/inboard/, inboard, 0.9.1, Docker images and utilities to power your Python APIs and help you ship faster., 2021-04-19T23:47:34+0000
+/project/buildout-couchdb/, buildout_couchdb, 0.1, ZC buildout recipe for Apache CouchDB server, 2009-11-09T22:19:19+0000
+/project/rudix/, rudix, 2017.3.18, Rudix Package Manager, 2017-03-19T01:46:15+0000
+/project/solv/, solv, 0.7.17, A free package dependency solver using a satisfiability algorithm., 2021-01-30T04:33:15+0000
+/project/sdataflow/, sdataflow, 0.3, A simple language to describe dataflow between entries, implemented in Python., 2015-04-27T16:57:03+0000
+/project/bakercm/, bakercm, 0.4.4, Baker is a decentralized configuration management based on files, 2018-11-12T21:49:18+0000
+/project/appsync-resolver-uploader/, appsync-resolver-uploader, 1.0.0, Creates or updates an AWS AppSync resolver, 2021-04-23T16:53:09+0000
+/project/yourtool/, yourtool, 0.0.1, Uses WiFi to tell you where you are, 2016-10-08T16:56:10+0000
+/project/flowtool-releasing/, flowtool-releasing, 0.7.23, Releasing made easy for pythonic git users., 2016-04-24T15:39:37+0000
+/project/package/, package, 0.1.1, package is a package to package your package, 2011-04-24T05:58:52+0000
+/project/prequ/, prequ, 1.4.7, Prequ -- Python requirement handling, 2019-07-29T19:14:48+0000
+/project/doorpi/, DoorPi, 2.5.1, provide intercomstation to the doorstation by VoIP, 2016-08-01T15:58:19+0000
+/project/docker-registry-purger/, docker-registry-purger, 0.1.1, A simple docker registry cleaner, 2018-08-31T08:58:57+0000
+/project/mysqlbinlog2blinker/, mysqlbinlog2blinker, 0.1, This project listen on mysql binlog (as a slave) and send the binlog event to blinker signal. It can remember last binlog position and work as a MySQL slave., 2016-04-04T07:48:21+0000
+/project/natural-money/, natural_money, 0.0.4, Find money / currencies talk, 2016-08-20T18:33:28+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/pycloudhub/, pycloudhub, 0.1.10, A CloudHub API wrapper written in python, 2016-07-28T07:49:09+0000
+/project/transmute-core/, transmute-core, 1.13.3, a utility library to help provide api route generation form function signature for web frameworks., 2019-12-19T21:19:59+0000
+/project/git-export-hardlink/, git_export_hardlink, 0.1.0, Git export command that reuses already existing exports and hardlinks files from them., 2013-02-14T08:16:11+0000
+/project/platform-migrator/, platform-migrator, 1.1.0, Migrate software from one system to another, 2018-05-12T21:44:52+0000
+/project/udata-geoplatform/, udata-geoplatform, 2.0.0, Connects uData with Geoplatform (geo.data.gouv.fr), 2020-03-11T17:08:24+0000
+/project/xstatic/, XStatic, 1.0.2, XStatic base package with minimal support code, 2018-09-18T17:49:48+0000
+/project/draxoft-pkginfo/, draxoft.pkginfo, 0.1, Simple utility and library for extracting metadata from Python setup files., 2012-03-15T08:27:47+0000
+/project/pyinstaller/, pyinstaller, 4.3, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-17T04:46:48+0000
+/project/fabric/, fabric, 2.6.0, High level SSH command execution, 2021-01-19T01:10:03+0000
+/project/pexpect-py3-fork/, pexpect-py3-fork, 4.6.0, Fork for python 3 support issue #506., 2018-10-17T00:08:02+0000
+/project/pip-accel/, pip-accel, 0.43, Accelerator for pip, the Python package manager, 2016-03-14T12:52:31+0000
+/project/pip2pkgbuild/, pip2pkgbuild, 0.2.6, Generate PKGBUILD file for a Python module from PyPi, 2019-04-13T07:56:19+0000
+/project/serviceinstaller/, serviceinstaller, 0.1.3, A flexible service installer, currently compatible with Linux Systemd., 2020-06-19T12:07:42+0000
+/project/dstack-factory/, dstack-factory, 1.0.7, CLI that accompanies dstack-factory for building and publishing docker images for python packages., 2017-02-17T12:22:55+0000
+/project/genesis/, genesis, 0.0.0, AI based Genetic algorithm for data migration, 2018-05-23T23:11:16+0000
+/project/flask-fs/, flask-fs, 0.6.1, Simple and easy file storages for Flask, 2018-04-19T12:39:10+0000
+/project/aboutcode/, AboutCode, 3.0.0.dev3, Document the provenance (origin and license) of third-party software using small text files. Collect inventories, generate attribution documentation., 2016-06-21T10:57:34+0000
+/project/jumpssh/, jumpssh, 1.6.5, Python library for remote ssh calls through a gateway., 2020-11-06T17:52:50+0000
+/project/ministryofpackages/, MinistryOfPackages, 0.9.5, A minimal PyPI implementation meant for use behind a firewall., 2011-09-19T17:08:29+0000
+/project/inboard/, inboard, 0.9.1, Docker images and utilities to power your Python APIs and help you ship faster., 2021-04-19T23:47:34+0000
+/project/buildout-couchdb/, buildout_couchdb, 0.1, ZC buildout recipe for Apache CouchDB server, 2009-11-09T22:19:19+0000
+/project/rudix/, rudix, 2017.3.18, Rudix Package Manager, 2017-03-19T01:46:15+0000
+/project/solv/, solv, 0.7.17, A free package dependency solver using a satisfiability algorithm., 2021-01-30T04:33:15+0000
+/project/sdataflow/, sdataflow, 0.3, A simple language to describe dataflow between entries, implemented in Python., 2015-04-27T16:57:03+0000
+/project/bakercm/, bakercm, 0.4.4, Baker is a decentralized configuration management based on files, 2018-11-12T21:49:18+0000
+/project/pycloudhub/, pycloudhub, 0.1.10, A CloudHub API wrapper written in python, 2016-07-28T07:49:09+0000
+/project/transmute-core/, transmute-core, 1.13.3, a utility library to help provide api route generation form function signature for web frameworks., 2019-12-19T21:19:59+0000
+/project/git-export-hardlink/, git_export_hardlink, 0.1.0, Git export command that reuses already existing exports and hardlinks files from them., 2013-02-14T08:16:11+0000
+/project/platform-migrator/, platform-migrator, 1.1.0, Migrate software from one system to another, 2018-05-12T21:44:52+0000
+/project/udata-geoplatform/, udata-geoplatform, 2.0.0, Connects uData with Geoplatform (geo.data.gouv.fr), 2020-03-11T17:08:24+0000
+/project/xstatic/, XStatic, 1.0.2, XStatic base package with minimal support code, 2018-09-18T17:49:48+0000
+/project/draxoft-pkginfo/, draxoft.pkginfo, 0.1, Simple utility and library for extracting metadata from Python setup files., 2012-03-15T08:27:47+0000
+/project/pyinstaller/, pyinstaller, 4.3, PyInstaller bundles a Python application and all its dependencies into a single package., 2021-04-17T04:46:48+0000
+/project/ironpycompiler/, ironpycompiler, 0.10.1, Compile IronPython scripts into a stand-alone .NET assembly., 2014-08-30T12:10:53+0000
+/project/sourcedefender/, sourcedefender, 7.0.7, Advanced encryption protecting your python codebase., 2021-04-23T15:51:21+0000
+/project/athena-type-converter/, athena-type-converter, 0.0.3, Helper functions to convert types returned from Athena into Python types, 2020-03-05T21:55:00+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/bodhi-server/, bodhi-server, 5.5, bodhi server, 2020-08-11T12:22:58+0000
+/project/yt-formula-node/, yt.formula.node, 0.0.4, A sprinter formula installing node.js, 2017-03-14T04:29:28+0000
+/project/bts/, bts, 0.6.17, api for BitShares, 2017-09-11T02:50:27+0000
+/project/fabtools-python/, fabtools-python, 0.19.7, Fabtools version compatible with both Python2 and Python3, 2017-03-27T17:47:37+0000
+/project/awxkit/, awxkit, 19.0.0, The official command line interface for Ansible AWX, 2021-04-07T21:46:01+0000
+/project/nuitka/, Nuitka, 0.6.14.4, Python compiler with full language support and CPython compatibility, 2021-04-18T14:21:23+0000
+/project/vcver/, vcver, 0.2.11, provide package versions with version control data., 2020-04-08T04:20:43+0000
+/project/grocker/, grocker, 6.9.1, Docker image builder, 2021-04-20T10:05:17+0000
+/project/uranium/, uranium, 2.1.2, a build system for python, 2020-04-12T03:36:30+0000
+/project/monocat/, monocat, 0.5.0, monocat is a command line utility for managing GitHub releases, 2020-10-13T22:55:19+0000
+/project/bleeding-rez/, bleeding-rez, 2.40.5, A cross-platform packaging system that can build and install multiple version of packages, and dynamically configure resolved environments at runtime., 2020-11-06T09:40:19+0000
+/project/flowlib/, flowlib, 0.6.6.8, Build your own git flow!, 2014-06-20T15:27:49+0000
+/project/aws-decorators/, aws-decorators, 0.0.9, decorators for aws things, 2018-03-01T17:34:11+0000
+/project/spec2scl/, spec2scl, 1.2.2, Convert RPM specfiles to SCL-style., 2019-08-19T11:27:40+0000
+/project/package-controller/, package-controller, 3.2.1, A CLI tool that acts as a wrapper for various other programs to make updating and publishing python and node packages easier, 2019-07-07T02:58:11+0000
+/project/ownrepo/, ownrepo, 0.1b5, Simple, easy-to-setup private Python packages repository, 2015-03-10T20:10:02+0000
+/project/pypiserver/, pypiserver, 1.4.2, A minimal PyPI server for use with pip/easy_install., 2020-10-10T13:17:54+0000
+/project/crtime/, crtime, 0.0.6, crtime: get creation time of files for any platform and no external dependencies., 2019-03-19T20:31:37+0000
+/project/cdist/, cdist, 6.9.6, A Usable Configuration Management System, 2021-04-20T05:36:01+0000
+/project/logstash-easy/, logstash-easy, 1.0, Very easy to use Logstash logging handler, 2017-08-22T08:00:42+0000
+/project/wheel-filename/, wheel-filename, 1.3.0, Parse wheel filenames, 2021-03-18T12:38:50+0000
+/project/ccfreeze-loader/, ccfreeze-loader, 1.1.2, provide binary loaders for ccfreeze, 2016-05-22T22:34:24+0000
+/project/gittyleaks/, gittyleaks, 0.0.31, Discover where your sensitive data has been leaked., 2020-02-27T18:31:37+0000
+/project/google-api-wrapper/, google-api-wrapper, 2.0.0a1, Simple wrapper for Google APIs, 2016-12-11T17:22:54+0000
+/project/uftlib/, uftlib, 0.2, Uses python eval, string.Template to generate text very fast., 2016-04-18T14:33:40+0000
+/project/devpi-semantic-ui/, devpi-semantic-ui, 0.2.2, A Semantic UI theme for devpi, 2017-02-15T19:45:36+0000
+/project/wobble/, wobble, 0.0.2, wobble: Deployment utility for DCOS+Marathon managed clusters, 2016-12-06T21:54:35+0000
+/project/ctrfoobar2000/, ctrfoobar2000, 1.2.0.2, Control Foobar2000 with python + Command line, 2015-06-28T14:47:33+0000
+/project/django-js-vinta/, django.js-vinta, 0.8.2.dev2, Django JS Tools, 2016-08-18T22:33:13+0000
+/project/flowtool-gitflow/, flowtool-gitflow, 0.7.19, Shortcuts for git users., 2016-04-24T15:08:51+0000
+/project/flaskpress/, flaskpress, 0.0.1, Python Flask CMS, 2017-06-20T21:00:03+0000
+/project/data-pypes/, data-pypes, 0.1.9, A micro framework for processing and logging., 2016-04-24T03:13:24+0000
+/project/gittraffic/, gittraffic, 0.0.6, Follow your git traffic per package in a github repo, 2015-10-29T18:23:06+0000
+/project/bbfreeze/, bbfreeze, 1.1.3, create standalone executables from python scripts, 2014-01-20T22:52:06+0000
+/project/houston/, houston, 0.3.0, Application deployment on CoreOS clusters using fleetd and Consul, 2015-08-10T19:49:36+0000
+/project/paths/, paths, 0.0.1a1, Python utility module for dealing with local paths, 2013-12-07T14:12:58+0000
+/project/rez/, rez, 2.84.0, A cross-platform packaging system that can build and install multiple version of packages, and dynamically configure resolved environments at runtime., 2021-04-16T05:33:41+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/circup/, circup, 0.9.4, A tool to manage/update libraries on CircuitPython devices., 2021-03-25T17:20:19+0000
+/project/aiohttp-transmute/, aiohttp-transmute, 2.0.0, a toolset to generate routes from functions for aiohttp., 2019-02-24T22:39:38+0000
+/project/deepmerge/, deepmerge, 0.3.0, a toolset to deeply merge python dictionaries., 2021-04-25T20:36:03+0000
+/project/calmjs-sassy/, calmjs.sassy, 1.0.2, Package for extending the Calmjs framework to support the usage of sass in a manner that crosses Python package boundaries by exposing an import system that mimics the package namespaces available within a given Python environment., 2020-04-23T10:14:52+0000
+/project/autoupgrade3/, autoupgrade3, 0.2.1, Python 3 friendly automatic upgrade of python modules and packages, 2016-06-25T08:18:48+0000
+/project/fabric-logging/, fabric-logging, 0.1.0, Adds option to redirect all stdout/stderr through standard Python logging. Very much a work in progress, 2012-09-19T00:28:18+0000
+/project/setup-qt/, setup_qt, 1.0.0, Compile Qt resource files, UI files and translations in setup.py, 2017-03-23T17:03:48+0000
+/project/signify/, signify, 0.3.0, Module to generate and verify PE signatures, 2020-08-16T10:32:38+0000
+/project/pyalpm/, pyalpm, 0.9.2, libalpm bindings for Python 3, 2020-10-13T20:14:26+0000
+/project/pup/, pup, 1.0.0a9, Pluggable Micro Packager, 2021-02-06T22:08:06+0000
+/project/seed/, seed, 0.11.3, A utility for easily creating and releasing Python packages, 2017-02-22T16:22:12+0000
+/project/yadtbroadcast-client/, yadtbroadcast-client, 1.2.1, YADT - an Augmented Deployment Tool - The Broadcast Client Part, 2014-02-11T15:22:18+0000
+/project/gitvier/, gitvier, 0.1.1, A component manager based where your components live in Git., 2017-05-13T20:57:31+0000
+/project/zn/, zn, 0.0.1, Zinc, 2019-01-31T00:43:06+0000
+/project/transmute/, transmute, 5.0, Automatically update Python Eggs on application startup., 2014-03-07T13:12:48+0000
+/project/malice/, malice, 0.0.3, My awesome little infrastructure configuration environment, 2019-06-24T18:10:44+0000
+/project/yagmail/, yagmail, 0.14.247, Yet Another GMAIL client, 2021-03-31T13:01:45+0000
+/project/django-fab/, django-fab, 1.0.4, Common methods to help create fabric deplopment scripts for django, 2009-10-13T04:34:19+0000
+/project/pip-date/, pip-date, 1.0.3, Show the installation/modification times of all your pip packages and other tools, 2019-02-08T15:54:27+0000
+/project/amqpipe/, amqpipe, 1.2, Twisted based pipeline framework for AMQP, 2017-11-07T08:05:56+0000
+/project/gandalf/, gandalf, 0.1.4, Blazingly fast & beautifully expressive Web Apps and APIs, 2019-08-11T21:26:46+0000
+/project/alnair/, alnair, 0.3.2, A simple system configuration framework, 2012-09-06T04:16:45+0000
+/project/python-bol-api-latest/, python-bol-api-latest, 0.9.0b0, Wrapper for the bol.com API, 2018-11-02T17:47:50+0000
+/project/contractions/, contractions, 0.0.48, Fixes contractions such as `you're` to you `are`, 2021-02-07T14:44:27+0000
+/project/snap-helpers/, snap-helpers, 0.2.0, Helpers for interacting with the Snap system within a Snap, 2019-11-20T22:09:21+0000

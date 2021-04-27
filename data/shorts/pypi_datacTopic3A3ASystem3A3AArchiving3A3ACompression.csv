@@ -1,0 +1,218 @@
+/project/fpzip/, fpzip, 1.1.4, Numpy wrapper for fpzip algorithm (P. Lindstrom & M. Isenburg, 2006), 2019-06-28T20:49:40+0000
+/project/django-dbbackup/, django-dbbackup, 3.3.0, Management commands to help backup and restore a project database and media, 2020-04-14T18:27:39+0000
+/project/btsf/, btsf, 1.0.1, btsf (for Binary Time Series File) is a package to store your data in a condensed and fast yet flexible way., 2021-04-16T08:22:03+0000
+/project/fastlz/, fastlz, 0.0.1, Python wrapper for FastLZ, a lightning-fast lossless compression library., 2015-10-29T06:21:41+0000
+/project/indexed-gzip/, indexed-gzip, 1.5.3, Fast random access of gzip files in Python, 2021-03-23T11:59:39+0000
+/project/python-lzf-e/, python-lzf-e, 0.2.5, C Extension for liblzf, 2020-06-04T08:30:22+0000
+/project/polycomp/, polycomp, 1.0.4, Python bindings to the libpolycomp C library, 2016-01-21T16:56:25+0000
+/project/brotli/, Brotli, 1.0.9, Python bindings for the Brotli compression library, 2020-08-27T14:26:27+0000
+/project/timefops/, timefops, 0.3, A cross-platform module for file operations based on time., 2020-12-01T04:29:21+0000
+/project/pyzstd/, pyzstd, 0.14.4, Python bindings to Zstandard (zstd) compression library, the API is similar to Python's bz2/lzma/zlib module., 2021-03-24T05:19:09+0000
+/project/nimbstor/, nimbstor, 1.0.1, Store incrementally, compressed and encrypted data failsafe in filesystems, sFTP, WebDAV, IMAP or other backends., 2012-03-18T10:24:27+0000
+/project/blosc/, blosc, 1.10.2, Blosc data compressor, 2021-01-19T10:44:07+0000
+/project/pzip/, pzip, 0.9.9, Crytographically secure file compression., 2021-03-26T03:03:09+0000
+/project/freezer-api/, freezer-api, 10.0.0, OpenStack Backup and Restore API Service, 2021-04-14T11:04:23+0000
+/project/zipfile36/, zipfile36, 0.1.3, Read and write ZIP files - backport of the zipfile module from Python 3.6, 2016-10-16T13:08:59+0000
+/project/streamdecompressor/, StreamDecompressor, 2.1.post1, A simple module to decompress streams compressed multiple times, 2015-02-13T14:08:59+0000
+/project/crx-unpack/, crx-unpack, 0.1.4, Unpack .crx files the way Chrome does, 2017-06-19T19:19:25+0000
+/project/zipencrypt/, zipencrypt, 0.3.1, Encryption for zipfile, 2018-11-08T20:32:36+0000
+/project/bloscpack/, bloscpack, 0.16.0, Command line interface to and serialization format for Blosc, 2018-12-27T15:24:51+0000
+/project/zipfile-zstd/, zipfile-zstd, 0.0.2, Monkey patch the standard zipfile module to enable Zstandard support, 2021-03-28T11:22:06+0000
+/project/zxd3/, zxd3, 1.2.5, Diff and patch zip archives whose contents do not have the same names., 2018-02-08T01:09:50+0000
+/project/keystore/, keystore, 0.3.0, Command line tools to compress and encrypt your keys, 2018-04-14T12:18:18+0000
+/project/lzss/, lzss, 0.3, LZSS compression algorithm, 2020-07-22T08:56:32+0000
+/project/compressed-rtf/, compressed-rtf, 1.0.6, Compressed Rich Text Format (RTF) compression and decompression package, 2020-02-16T20:01:11+0000
+/project/destream/, destream, 5.0.1, A simple module to decompress streams compressed multiple times, 2020-10-24T13:35:42+0000
+/project/bsc/, bsc, 0.1.2, Python binding for libbsc, a fast yet capable compressor, 2017-07-22T06:13:48+0000
+/project/ctypes-snappy/, ctypes-snappy, 1.03, Python ctypes interface to Google's libsnappy compression., 2012-07-23T21:32:27+0000
+/project/zipstream-new/, zipstream-new, 1.1.8, Zipfile generator that takes input files as well as streams, 2020-09-14T09:26:42+0000
+/project/python-freezerclient/, python-freezerclient, 4.2.0, OpenStack Disaster Recovery API Client Library, 2021-01-18T22:02:28+0000
+/project/mapf/, MAPF, 0.9.9, An experimental image format written in Python., 2018-09-08T09:16:04+0000
+/project/xdelta3/, xdelta3, 0.0.5, Fast delta encoding using xdelta3, 2017-05-15T21:41:19+0000
+/project/flask-static-digest/, Flask-Static-Digest, 0.2.1, Flask extension for md5 tagging and gzipping static files., 2020-12-23T22:19:01+0000
+/project/python-libarchive/, python-libarchive, 4.0.1.post1, A libarchive wrapper for Python., 2020-03-11T20:22:55+0000
+/project/h5cube/, h5cube, 0.3, Gaussian CUBE File Compression Utility, 2016-11-01T03:54:51+0000
+/project/py-unrar2/, py-unrar2, 0.99.6, Improved Python wrapper around the free UnRAR.dll, 2015-01-09T14:35:06+0000
+/project/compressdir/, compressdir, 0.1.3, File/directory compression, 2019-05-17T01:20:33+0000
+/project/zopfli/, zopfli, 0.1.8, Zopfli module for python, 2021-03-22T11:58:46+0000
+/project/trzip/, trzip, 0.01a2, rzip-stream library, 2009-01-13T19:57:04+0000
+/project/autoarchive/, autoarchive, 1.4.1, A simple backup utility., 2017-09-23T05:49:33+0000
+/project/bitfile/, bitfile, 0.2, Module for reading/writing an arbitrary number of bits from a file., 2010-05-16T04:51:42+0000
+/project/zipstream-new-2/, zipstream-new-2, 1.1.8, Zipfile generator that takes input files as well as streams, 2020-08-03T05:59:53+0000
+/project/pdfslim/, pdfslim, 1.1.0, `pdfslim` takes a number of PDF files and tries to optimize them through a suitable call to `ghostscript`., 2021-04-08T08:56:59+0000
+/project/pyrsync/, pyrsync, 0.1.0, A Python module which implements rsync with SHA256 hash., 2012-01-26T07:45:48+0000
+/project/mjbackup/, mjbackup, 1.0.1, Morning Joe Software Linux Server Backup System, 2020-05-10T20:17:35+0000
+/project/django-dbbackup-ui/, django-dbbackup-ui, 0.2.1, Backup database and media files via Django admin interface (includes Wagtail admin support), 2018-03-21T13:45:12+0000
+/project/py7zr/, py7zr, 0.15.1, Pure python 7-zip library, 2021-04-07T23:06:04+0000
+/project/zipfile-deflate64/, zipfile-deflate64, 0.1.6, Extract Deflate64 ZIP archives with Python's zipfile API., 2021-02-28T18:59:28+0000
+/project/python-lzf/, python-lzf, 0.2.4, C Extension for liblzf, 2016-10-17T20:07:13+0000
+/project/a3m/, a3m, 0.5.0, Lightweight Archivematica, 2020-10-27T16:52:46+0000
+/project/indexed-gzip-fileobj-fork-epicfaace/, indexed-gzip-fileobj-fork-epicfaace, 1.4.1, Fast random access of gzip files in Python, 2021-02-11T03:15:53+0000
+/project/unrardll/, unrardll, 0.1.4, Wrap the Unrar DLL to enable unraring of files in python, 2019-06-10T14:09:36+0000
+/project/zipfile37/, zipfile37, 0.1.3, Read and write ZIP files - backport of the zipfile module from Python 3.7, 2019-07-18T11:49:16+0000
+/project/bsch/, bsch, 1.0.5, Utilities and Python package for the Bosch GTC 400C (and more Bosch tools)., 2021-04-18T07:45:45+0000
+/project/lzf/, lzf, 0.1, CFFI-based Python binding for LZF stream compression, 2017-07-24T20:38:48+0000
+/project/freezer/, freezer, 10.0.0, The OpenStack Backup Restore and Disaster Recovery as a Service Platform, 2021-04-14T11:03:37+0000
+/project/python-snappy/, python-snappy, 0.6.0, Python library for the snappy compression library from Google, 2021-01-06T21:33:28+0000
+/project/depack/, depack, 0.0.1, Universal archive file tool, 2021-03-31T16:38:11+0000
+/project/pyarrfs/, pyarrfs, 0.8.1, a RAR reading file system, 2013-01-30T21:05:55+0000
+/project/mrcz/, mrcz, 0.5.6, MRCZ meta-compressed image file-format library, 2020-03-25T22:36:30+0000
+/project/arcode/, arcode, 0.1, A module providing arithmetic coding to compress/decompress files., 2010-08-09T20:50:46+0000
+/project/reusables/, reusables, 0.9.6, Commonly Consumed Code Commodities, 2020-09-26T15:46:56+0000
+/project/xtract/, xtract, 0.1a3, Library to (un)pack archives and (de)compress files, 2018-01-01T12:04:56+0000
+/project/pyminizip/, pyminizip, 0.2.4, A minizip wrapper - To create a password encrypted zip file in python., 2019-01-11T14:32:50+0000
+/project/wasp-backup-minimal/, wasp-backup-minimal, 0.0.3.6, File/program backup application, 2018-03-19T08:02:27+0000
+/project/wasp-backup/, wasp-backup, 0.0.3.1, File/program backup application, 2018-01-17T11:39:37+0000
+/project/drt/, drt, 1.2.1, dvd copying and ripping management tool, 2020-03-07T20:10:37+0000
+/project/duplicity-backup-s3/, duplicity-backup-s3, 1.1.0, Duplicity backup to S3 for production servers using simple yaml config file., 2020-12-08T21:26:36+0000
+/project/paq/, paq, 0.1.1, Python binding for paq9a, 2017-07-22T08:39:25+0000
+/project/libyaz0/, libyaz0, 0.5, A library for compressing/decompressing Yaz0/1 compression formats, 2018-07-01T15:15:05+0000
+/project/bz2file/, bz2file, 0.98, Read and write bzip2-compressed files., 2014-01-19T21:37:37+0000
+/project/lilcom/, lilcom, 1.1.1, Lossy-compression utility for sequence data in NumPy, 2020-12-09T10:56:48+0000
+/project/aff4-snappy/, aff4-snappy, 0.5.1, Python library for the snappy compression library from Google, 2017-11-06T05:58:19+0000
+/project/ricecomp-cfitsio/, ricecomp-cfitsio, 1.0, Rice compression and decompression for Python., 2014-02-06T18:02:58+0000
+/project/gnosis-utils/, Gnosis_Utils, 1.2.2, Modules and Utilities for XML Documents and Other Miscellany, 2015-02-25T05:10:29+0000
+/project/pyzipper/, pyzipper, 0.3.5, AES encryption for zipfile., 2021-04-08T03:45:37+0000
+/project/simple-rom-manager/, simple-rom-manager, 0.0.5, A basic command-line ROM set manager., 2018-01-15T16:40:53+0000
+/project/lzmaffi/, lzmaffi, 0.3.0, Port of Python 3.3's 'lzma' module for XZ/LZMA compressed files to cffi., 2014-09-09T15:34:07+0000
+/project/risotto/, risotto, 0.0.3, Rice aka USES aka SZIP decoder in Python/Cython, 2016-01-22T12:08:51+0000
+/project/sluggard/, sluggard, 1.0.0, directory packaging tool, 2020-05-07T07:08:12+0000
+/project/ovos-skill-installer/, ovos-skill-installer, 0.0.5, Mycroft skill installer from .zip or .tar.gz urls, 2021-03-09T18:55:15+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/nova-django-dbbackup/, nova-django-dbbackup, 3.2.2, Management commands to help backup and restore a project database and media, 2019-08-07T01:21:25+0000
+/project/data-vault/, data-vault, 0.4.4, IPython magic for simple, organized, compressed and encrypted: storage & transfer of files between notebooks, 2021-02-17T18:24:33+0000
+/project/snappyx/, snappyx, 0.5.1, A simple Cython wrapper for the snappy compression library, 2016-03-19T14:35:06+0000
+/project/optimage/, optimage, 0.3.0, Optimage: Lossless Compressor for PNG and JPEG, 2017-03-18T15:34:34+0000
+/project/netcdf4/, netCDF4, 1.5.6, Provides an object-oriented python interface to the netCDF version 4 library., 2021-02-14T03:44:52+0000
+/project/isal/, isal, 0.10.0, Faster zlib and gzip compatible compression and decompression by providing python bindings for the ISA-L library., 2021-04-17T05:18:57+0000
+/project/backports-lzma/, backports.lzma, 0.0.14, Backport of Python 3.3's 'lzma' module for XZ/LZMA compressed files., 2019-09-12T15:00:41+0000
+/project/acefile/, acefile, 0.6.12, Read/test/extract ACE 1.0 and 2.0 archives in pure python., 2019-03-10T21:07:17+0000
+/project/s3netcdf4/, S3netCDF4, 2.1rc1, A library to facilitate the storage of netCDF files on ObjectStores in an efficient manner., 2021-03-04T12:38:09+0000
+/project/pyunrar2/, pyUnRAR2, 0.99.6, Improved Python wrapper around the free UnRAR.dll, 2014-12-27T21:48:48+0000
+/project/risotto/, risotto, 0.0.3, Rice aka USES aka SZIP decoder in Python/Cython, 2016-01-22T12:08:51+0000
+/project/sluggard/, sluggard, 1.0.0, directory packaging tool, 2020-05-07T07:08:12+0000
+/project/ovos-skill-installer/, ovos-skill-installer, 0.0.5, Mycroft skill installer from .zip or .tar.gz urls, 2021-03-09T18:55:15+0000
+/project/zip-files/, zip-files, 0.4.1, Command line utilities for creating zip files, 2021-04-21T17:25:17+0000
+/project/tsc/, tsc, 0.3.4, TimeSeries Compressor, 2017-07-22T09:31:36+0000
+/project/libzim/, libzim, 0.0.3.post0, A python-facing API for creating and interacting with ZIM files, 2020-07-03T10:42:26+0000
+/project/zipfile38/, zipfile38, 0.0.3, Read and write ZIP files - backport of the zipfile module from Python 3.8, 2020-12-03T15:33:53+0000
+/project/pytinypng/, pytinypng, 0.0.9, Batch compression for PNG images, 2014-01-03T02:37:41+0000
+/project/heatshrink/, Heatshrink, 0.3.2, Python bindings to the heatshrink library, 2016-11-14T10:19:57+0000
+/project/evo-pyzipper/, evo-pyzipper, 0.3.2, AES encryption for zipfile. Including Callback., 2019-07-22T22:28:45+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/nova-django-dbbackup/, nova-django-dbbackup, 3.2.2, Management commands to help backup and restore a project database and media, 2019-08-07T01:21:25+0000
+/project/data-vault/, data-vault, 0.4.4, IPython magic for simple, organized, compressed and encrypted: storage & transfer of files between notebooks, 2021-02-17T18:24:33+0000
+/project/snappyx/, snappyx, 0.5.1, A simple Cython wrapper for the snappy compression library, 2016-03-19T14:35:06+0000
+/project/unlzw3/, unlzw3, 0.2.1, Pure Python decompression module for .Z files compressed using Unix compress utility, 2020-07-20T17:55:09+0000
+/project/pyrsync2/, pyrsync2, 0.2.6, A Python 3 module which implements rsync binary diff
+    algorithm., 2013-06-20T19:30:18+0000
+/project/zopflipy/, zopflipy, 1.5, A Python bindings for Zopfli, 2021-01-11T13:16:26+0000
+/project/fpzip/, fpzip, 1.1.4, Numpy wrapper for fpzip algorithm (P. Lindstrom & M. Isenburg, 2006), 2019-06-28T20:49:40+0000
+/project/django-dbbackup/, django-dbbackup, 3.3.0, Management commands to help backup and restore a project database and media, 2020-04-14T18:27:39+0000
+/project/btsf/, btsf, 1.0.1, btsf (for Binary Time Series File) is a package to store your data in a condensed and fast yet flexible way., 2021-04-16T08:22:03+0000
+/project/fastlz/, fastlz, 0.0.1, Python wrapper for FastLZ, a lightning-fast lossless compression library., 2015-10-29T06:21:41+0000
+/project/indexed-gzip/, indexed-gzip, 1.5.3, Fast random access of gzip files in Python, 2021-03-23T11:59:39+0000
+/project/python-lzf-e/, python-lzf-e, 0.2.5, C Extension for liblzf, 2020-06-04T08:30:22+0000
+/project/polycomp/, polycomp, 1.0.4, Python bindings to the libpolycomp C library, 2016-01-21T16:56:25+0000
+/project/brotli/, Brotli, 1.0.9, Python bindings for the Brotli compression library, 2020-08-27T14:26:27+0000
+/project/timefops/, timefops, 0.3, A cross-platform module for file operations based on time., 2020-12-01T04:29:21+0000
+/project/pyzstd/, pyzstd, 0.14.4, Python bindings to Zstandard (zstd) compression library, the API is similar to Python's bz2/lzma/zlib module., 2021-03-24T05:19:09+0000
+/project/nimbstor/, nimbstor, 1.0.1, Store incrementally, compressed and encrypted data failsafe in filesystems, sFTP, WebDAV, IMAP or other backends., 2012-03-18T10:24:27+0000
+/project/blosc/, blosc, 1.10.2, Blosc data compressor, 2021-01-19T10:44:07+0000
+/project/pzip/, pzip, 0.9.9, Crytographically secure file compression., 2021-03-26T03:03:09+0000
+/project/streamdecompressor/, StreamDecompressor, 2.1.post1, A simple module to decompress streams compressed multiple times, 2015-02-13T14:08:59+0000
+/project/zipfile36/, zipfile36, 0.1.3, Read and write ZIP files - backport of the zipfile module from Python 3.6, 2016-10-16T13:08:59+0000
+/project/crx-unpack/, crx-unpack, 0.1.4, Unpack .crx files the way Chrome does, 2017-06-19T19:19:25+0000
+/project/zipencrypt/, zipencrypt, 0.3.1, Encryption for zipfile, 2018-11-08T20:32:36+0000
+/project/freezer-api/, freezer-api, 10.0.0, OpenStack Backup and Restore API Service, 2021-04-14T11:04:23+0000
+/project/bloscpack/, bloscpack, 0.16.0, Command line interface to and serialization format for Blosc, 2018-12-27T15:24:51+0000
+/project/zipfile-zstd/, zipfile-zstd, 0.0.2, Monkey patch the standard zipfile module to enable Zstandard support, 2021-03-28T11:22:06+0000
+/project/zxd3/, zxd3, 1.2.5, Diff and patch zip archives whose contents do not have the same names., 2018-02-08T01:09:50+0000
+/project/keystore/, keystore, 0.3.0, Command line tools to compress and encrypt your keys, 2018-04-14T12:18:18+0000
+/project/lzss/, lzss, 0.3, LZSS compression algorithm, 2020-07-22T08:56:32+0000
+/project/compressed-rtf/, compressed-rtf, 1.0.6, Compressed Rich Text Format (RTF) compression and decompression package, 2020-02-16T20:01:11+0000
+/project/py7zr/, py7zr, 0.15.1, Pure python 7-zip library, 2021-04-07T23:06:04+0000
+/project/destream/, destream, 5.0.1, A simple module to decompress streams compressed multiple times, 2020-10-24T13:35:42+0000
+/project/bsc/, bsc, 0.1.2, Python binding for libbsc, a fast yet capable compressor, 2017-07-22T06:13:48+0000
+/project/zipfile-deflate64/, zipfile-deflate64, 0.1.6, Extract Deflate64 ZIP archives with Python's zipfile API., 2021-02-28T18:59:28+0000
+/project/ctypes-snappy/, ctypes-snappy, 1.03, Python ctypes interface to Google's libsnappy compression., 2012-07-23T21:32:27+0000
+/project/zipstream-new/, zipstream-new, 1.1.8, Zipfile generator that takes input files as well as streams, 2020-09-14T09:26:42+0000
+/project/python-lzf/, python-lzf, 0.2.4, C Extension for liblzf, 2016-10-17T20:07:13+0000
+/project/flask-static-digest/, Flask-Static-Digest, 0.2.1, Flask extension for md5 tagging and gzipping static files., 2020-12-23T22:19:01+0000
+/project/python-libarchive/, python-libarchive, 4.0.1.post1, A libarchive wrapper for Python., 2020-03-11T20:22:55+0000
+/project/a3m/, a3m, 0.5.0, Lightweight Archivematica, 2020-10-27T16:52:46+0000
+/project/python-snappy/, python-snappy, 0.6.0, Python library for the snappy compression library from Google, 2021-01-06T21:33:28+0000
+/project/depack/, depack, 0.0.1, Universal archive file tool, 2021-03-31T16:38:11+0000
+/project/pyarrfs/, pyarrfs, 0.8.1, a RAR reading file system, 2013-01-30T21:05:55+0000
+/project/bitfile/, bitfile, 0.2, Module for reading/writing an arbitrary number of bits from a file., 2010-05-16T04:51:42+0000
+/project/zipstream-new-2/, zipstream-new-2, 1.1.8, Zipfile generator that takes input files as well as streams, 2020-08-03T05:59:53+0000
+/project/pdfslim/, pdfslim, 1.1.0, `pdfslim` takes a number of PDF files and tries to optimize them through a suitable call to `ghostscript`., 2021-04-08T08:56:59+0000
+/project/pyrsync/, pyrsync, 0.1.0, A Python module which implements rsync with SHA256 hash., 2012-01-26T07:45:48+0000
+/project/mjbackup/, mjbackup, 1.0.1, Morning Joe Software Linux Server Backup System, 2020-05-10T20:17:35+0000
+/project/django-dbbackup-ui/, django-dbbackup-ui, 0.2.1, Backup database and media files via Django admin interface (includes Wagtail admin support), 2018-03-21T13:45:12+0000
+/project/python-freezerclient/, python-freezerclient, 4.2.0, OpenStack Disaster Recovery API Client Library, 2021-01-18T22:02:28+0000
+/project/mapf/, MAPF, 0.9.9, An experimental image format written in Python., 2018-09-08T09:16:04+0000
+/project/xdelta3/, xdelta3, 0.0.5, Fast delta encoding using xdelta3, 2017-05-15T21:41:19+0000
+/project/indexed-gzip-fileobj-fork-epicfaace/, indexed-gzip-fileobj-fork-epicfaace, 1.4.1, Fast random access of gzip files in Python, 2021-02-11T03:15:53+0000
+/project/unrardll/, unrardll, 0.1.4, Wrap the Unrar DLL to enable unraring of files in python, 2019-06-10T14:09:36+0000
+/project/zipfile37/, zipfile37, 0.1.3, Read and write ZIP files - backport of the zipfile module from Python 3.7, 2019-07-18T11:49:16+0000
+/project/bsch/, bsch, 1.0.5, Utilities and Python package for the Bosch GTC 400C (and more Bosch tools)., 2021-04-18T07:45:45+0000
+/project/lzf/, lzf, 0.1, CFFI-based Python binding for LZF stream compression, 2017-07-24T20:38:48+0000
+/project/h5cube/, h5cube, 0.3, Gaussian CUBE File Compression Utility, 2016-11-01T03:54:51+0000
+/project/py-unrar2/, py-unrar2, 0.99.6, Improved Python wrapper around the free UnRAR.dll, 2015-01-09T14:35:06+0000
+/project/compressdir/, compressdir, 0.1.3, File/directory compression, 2019-05-17T01:20:33+0000
+/project/freezer/, freezer, 10.0.0, The OpenStack Backup Restore and Disaster Recovery as a Service Platform, 2021-04-14T11:03:37+0000
+/project/zopfli/, zopfli, 0.1.8, Zopfli module for python, 2021-03-22T11:58:46+0000
+/project/trzip/, trzip, 0.01a2, rzip-stream library, 2009-01-13T19:57:04+0000
+/project/autoarchive/, autoarchive, 1.4.1, A simple backup utility., 2017-09-23T05:49:33+0000
+/project/mrcz/, mrcz, 0.5.6, MRCZ meta-compressed image file-format library, 2020-03-25T22:36:30+0000
+/project/arcode/, arcode, 0.1, A module providing arithmetic coding to compress/decompress files., 2010-08-09T20:50:46+0000
+/project/xtract/, xtract, 0.1a3, Library to (un)pack archives and (de)compress files, 2018-01-01T12:04:56+0000
+/project/pyminizip/, pyminizip, 0.2.4, A minizip wrapper - To create a password encrypted zip file in python., 2019-01-11T14:32:50+0000
+/project/wasp-backup-minimal/, wasp-backup-minimal, 0.0.3.6, File/program backup application, 2018-03-19T08:02:27+0000
+/project/reusables/, reusables, 0.9.6, Commonly Consumed Code Commodities, 2020-09-26T15:46:56+0000
+/project/wasp-backup/, wasp-backup, 0.0.3.1, File/program backup application, 2018-01-17T11:39:37+0000
+/project/drt/, drt, 1.2.1, dvd copying and ripping management tool, 2020-03-07T20:10:37+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/nova-django-dbbackup/, nova-django-dbbackup, 3.2.2, Management commands to help backup and restore a project database and media, 2019-08-07T01:21:25+0000
+/project/xdelta3-accemate/, xdelta3-accemate, 0.0.6a3, Fast delta encoding using xdelta3, 2018-11-23T23:19:43+0000
+/project/backports-lzma/, backports.lzma, 0.0.14, Backport of Python 3.3's 'lzma' module for XZ/LZMA compressed files., 2019-09-12T15:00:41+0000
+/project/dahuffman/, dahuffman, 0.4.1, Pure Python Huffman encoder and decoder module, 2020-06-10T10:15:21+0000
+/project/lzmaffi/, lzmaffi, 0.3.0, Port of Python 3.3's 'lzma' module for XZ/LZMA compressed files to cffi., 2014-09-09T15:34:07+0000
+/project/risotto/, risotto, 0.0.3, Rice aka USES aka SZIP decoder in Python/Cython, 2016-01-22T12:08:51+0000
+/project/sluggard/, sluggard, 1.0.0, directory packaging tool, 2020-05-07T07:08:12+0000
+/project/zip-files/, zip-files, 0.4.1, Command line utilities for creating zip files, 2021-04-21T17:25:17+0000
+/project/tsc/, tsc, 0.3.4, TimeSeries Compressor, 2017-07-22T09:31:36+0000
+/project/libzim/, libzim, 0.0.3.post0, A python-facing API for creating and interacting with ZIM files, 2020-07-03T10:42:26+0000
+/project/zipfile38/, zipfile38, 0.0.3, Read and write ZIP files - backport of the zipfile module from Python 3.8, 2020-12-03T15:33:53+0000
+/project/pytinypng/, pytinypng, 0.0.9, Batch compression for PNG images, 2014-01-03T02:37:41+0000
+/project/heatshrink/, Heatshrink, 0.3.2, Python bindings to the heatshrink library, 2016-11-14T10:19:57+0000
+/project/zip-files/, zip-files, 0.4.1, Command line utilities for creating zip files, 2021-04-21T17:25:17+0000
+/project/tsc/, tsc, 0.3.4, TimeSeries Compressor, 2017-07-22T09:31:36+0000
+/project/libzim/, libzim, 0.0.3.post0, A python-facing API for creating and interacting with ZIM files, 2020-07-03T10:42:26+0000
+/project/zipfile38/, zipfile38, 0.0.3, Read and write ZIP files - backport of the zipfile module from Python 3.8, 2020-12-03T15:33:53+0000
+/project/pytinypng/, pytinypng, 0.0.9, Batch compression for PNG images, 2014-01-03T02:37:41+0000
+/project/heatshrink/, Heatshrink, 0.3.2, Python bindings to the heatshrink library, 2016-11-14T10:19:57+0000
+/project/ozip/, oZip, 1.1.2, A Simple Compression Solution, 2014-09-02T14:04:24+0000
+/project/petact/, petact, 0.1.2, A package extraction tool, 2018-06-25T21:39:08+0000
+/project/s3netcdf4/, S3netCDF4, 2.1rc1, A library to facilitate the storage of netCDF files on ObjectStores in an efficient manner., 2021-03-04T12:38:09+0000
+/project/pyunrar2/, pyUnRAR2, 0.99.6, Improved Python wrapper around the free UnRAR.dll, 2014-12-27T21:48:48+0000
+/project/dahuffman/, dahuffman, 0.4.1, Pure Python Huffman encoder and decoder module, 2020-06-10T10:15:21+0000
+/project/pygm/, pygm, 0.1a2, Sorted containers with state-of-the-art query performance and compressed memory usage, 2020-07-14T07:55:10+0000
+/project/xdelta3-accemate/, xdelta3-accemate, 0.0.6a3, Fast delta encoding using xdelta3, 2018-11-23T23:19:43+0000
+/project/orangebox/, orangebox, 0.2.0, A Cleanflight/Betaflight blackbox log parser written in Python 3, 2020-08-08T18:08:18+0000
+/project/optimage/, optimage, 0.3.0, Optimage: Lossless Compressor for PNG and JPEG, 2017-03-18T15:34:34+0000
+/project/netcdf4/, netCDF4, 1.5.6, Provides an object-oriented python interface to the netCDF version 4 library., 2021-02-14T03:44:52+0000
+/project/rarfile/, rarfile, 4.0, RAR archive reader for Python, 2020-07-31T18:32:35+0000
+/project/isal/, isal, 0.10.0, Faster zlib and gzip compatible compression and decompression by providing python bindings for the ISA-L library., 2021-04-17T05:18:57+0000
+/project/backports-lzma/, backports.lzma, 0.0.14, Backport of Python 3.3's 'lzma' module for XZ/LZMA compressed files., 2019-09-12T15:00:41+0000
+/project/acefile/, acefile, 0.6.12, Read/test/extract ACE 1.0 and 2.0 archives in pure python., 2019-03-10T21:07:17+0000
+/project/evo-pyzipper/, evo-pyzipper, 0.3.2, AES encryption for zipfile. Including Callback., 2019-07-22T22:28:45+0000
+/project/asyncffmpeg/, asyncffmpeg, 1.0.1, Supports async / await pattern for FFmpeg operations., 2021-03-18T17:17:59+0000
+/project/nova-django-dbbackup/, nova-django-dbbackup, 3.2.2, Management commands to help backup and restore a project database and media, 2019-08-07T01:21:25+0000
+/project/data-vault/, data-vault, 0.4.4, IPython magic for simple, organized, compressed and encrypted: storage & transfer of files between notebooks, 2021-02-17T18:24:33+0000
+/project/snappyx/, snappyx, 0.5.1, A simple Cython wrapper for the snappy compression library, 2016-03-19T14:35:06+0000
+/project/unlzw3/, unlzw3, 0.2.1, Pure Python decompression module for .Z files compressed using Unix compress utility, 2020-07-20T17:55:09+0000
+/project/pyrsync2/, pyrsync2, 0.2.6, A Python 3 module which implements rsync binary diff
+    algorithm., 2013-06-20T19:30:18+0000
+/project/zopflipy/, zopflipy, 1.5, A Python bindings for Zopfli, 2021-01-11T13:16:26+0000

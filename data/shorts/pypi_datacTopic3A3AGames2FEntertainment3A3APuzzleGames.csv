@@ -1,0 +1,194 @@
+/project/advent-of-code-py/, advent-of-code-py, 0.2.0, Advent of Code helper CLI and library, 2020-07-03T08:55:21+0000
+/project/kaidoku/, kaidoku, 0.5.6, Player, solver and creater of sudoku puzzles, 2018-08-22T06:36:01+0000
+/project/mines-esolang/, mines-esolang, 1.0.4, An esoteric language inspired by Minesweeper., 2020-04-24T02:18:30+0000
+/project/gallows/, gallows, 0.6.0, The word game Hangman based on 'Invent Your Own Computer Games with Python'., 2015-02-14T22:43:55+0000
+/project/advent-of-code-data/, advent-of-code-data, 0.9.8, Get your puzzle data with a single import, 2021-02-19T09:27:32+0000
+/project/newsuntest/, NewsunTest, 2.0.1, my pip test, 2019-11-17T14:57:42+0000
+/project/sudokustudylib/, SudokuStudyLib, 1.0.7, Sudoku Solving Library, 2014-05-19T05:38:45+0000
+/project/padsniff/, padsniff, 1.2.1, Command-line tool to sniff Puzzle & Dragons data., 2017-11-11T18:33:29+0000
+/project/asterios/, asterios, 2.0.1, Asterios escape game server, 2018-08-26T09:13:46+0000
+/project/sudokuaspuzzle/, sudokuaspuzzle, 0.1.28, Customizable Sudoku, 2019-11-04T09:33:55+0000
+/project/rubixs/, rubixs, 0.0.1, Implementation of Rubix's cube in Python3, 2020-02-05T05:53:51+0000
+/project/freegames/, freegames, 2.3.2, Free Games, 2019-12-31T05:06:46+0000
+/project/regex-crossword/, regex-crossword, 0.1.0, A Python implementation of a Regex Crossword in the terminal., 2019-09-23T14:50:50+0000
+/project/hangthepyman/, hangthepyman, 0.1.3, Classic Hangman game with Pygame & Python touch, 2020-07-13T10:11:56+0000
+/project/pylfsr/, pylfsr, 1.0.5, Linear Feedback Shift Register, 2021-04-21T08:12:08+0000
+/project/macgyverproject/, MacGyverProject, 1.0.0, A MacGyver based game, 2017-09-12T16:26:24+0000
+/project/pysudokusolver/, pySudokuSolver, 1.2, A small graphical utility for solving any Sudoku puzzle, almost instantaneoulsy., 2011-07-20T16:26:55+0000
+/project/advent-of-code-sample/, advent-of-code-sample, 0.1, myusername's solutions for https://adventofcode.com/, 2019-02-02T22:33:26+0000
+/project/game24/, game24, 1.0.1, A console application to play the 24 game, 2015-03-27T08:36:11+0000
+/project/boggleboard/, boggleboard, 1.0.5, Manipulate and analyse anagrams and variations of Boggle boards., 2010-10-08T16:45:14+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/mazelib/, mazelib, 0.9.11, A Python API for creating and solving mazes., 2021-03-08T20:18:54+0000
+/project/uvn-fira/, uvn-fira, 1.3.1, The backend and API code for the Unscripted minigame., 2020-05-12T19:54:54+0000
+/project/sudokumaker/, sudokumaker, 1.1, Genetic-Algorithm based Sudoku generator (and solver), 2020-06-03T14:46:39+0000
+/project/gameoffifteen/, gameOfFifteen, 4.5, The game of fifteen, 2018-05-26T13:30:05+0000
+/project/python-hangman/, python_hangman, 2.2.3, Python Hangman TDD/MVC demonstration., 2015-12-28T10:09:57+0000
+/project/imaginary/, Imaginary, 0.0.5, Virtual simulation framework., 2009-11-29T19:21:37+0000
+/project/advent-of-code-wim/, advent-of-code-wim, 2020.2, Wim's solutions for https://adventofcode.com/, 2020-12-31T07:57:01+0000
+/project/pymagcore/, pymagcore, 0.1.0, 程序员的战争, 2019-05-29T14:30:26+0000
+/project/sokoenginepy/, sokoenginepy, 0.5.3, Sokoban and variants game engine, 2018-02-24T08:15:57+0000
+/project/mekoramaqr/, mekoramaqr, 0.1.0, Tools for reading, writing, and editing Mekorama level QR Codes, 2017-11-03T20:38:51+0000
+/project/nonogram-solver/, nonogram-solver, 0.1, A nonogram puzzle solver., 2016-08-28T19:33:21+0000
+/project/pytetris/, pytetris, 1.0.0, tetris game with ai made by pygame, 2020-06-06T11:20:37+0000
+/project/genedoku/, genedoku, 1.0.0a4, A simple python package that solves sudokus using genetic algorithms, 2016-08-31T03:42:45+0000
+/project/crossword/, crossword, 0.1.2, Python library for handling crossword puzzles, 2014-12-12T22:01:49+0000
+/project/nachomines/, nachomines, 1.0.4, Simple python minesweeper game using pygame, 2020-10-20T15:14:33+0000
+/project/balazarbrothers/, BalazarBrothers, 1.1, A 3D action/puzzle game., 2019-01-12T12:13:34+0000
+/project/rubik-box/, rubik-box, 0.0.2, Rubik's cube solver, 2016-07-01T10:23:32+0000
+/project/latinsquaresolver/, LatinSquareSolver, 1.0.1, Solve Latin Squares, 2015-04-21T17:18:49+0000
+/project/sweepy/, Sweepy, 0.1.0, A very basic minesweeper clone written in Pylons, 2009-10-21T23:07:06+0000
+/project/mctest/, mctest, 0.0.2, 程序员的战争, 2019-05-29T13:48:35+0000
+/project/cubelang/, CubeLang, 0.1.4, Domain-specific programming language made for solving twisting cube puzzles, 2020-03-02T17:38:03+0000
+/project/apibiubiu/, ApiBiuBiu, 0.0.2, unittestAndMultiprocessing, 2020-07-06T15:20:54+0000
+/project/minegauler/, minegauler, 4.0.5, A clone of the original minesweeper game with many added features, 2020-07-05T15:43:45+0000
+/project/ngfp/, ngfp, 0.2.4, A puzzle game based upon gfpoken., 2020-07-25T16:01:56+0000
+/project/open-mastermind/, open-mastermind, 0.2.0, A terminal-based code-breaking game Mastermind, 2020-02-21T09:42:59+0000
+/project/pynogram/, pynogram, 0.3.1, Nonogram solver, 2018-09-12T15:41:09+0000
+/project/hps-nyu/, hps-nyu, 1.0.0, Tools for architecture for HPS games, 2017-12-09T21:40:16+0000
+/project/fallingsky/, fallingsky, 0.0.8, A game of falling blocks with RPG elements, uses pygame., 2015-07-23T03:34:05+0000
+/project/stratumgs/, stratumgs, 0.1.1, A turn based game engine designed to pit autonomous players against each other., 2016-05-28T16:32:49+0000
+/project/terminis/, terminis, 0.2.3.2, Tetris clone for terminal. Ideal for servers without GUI!, 2019-08-31T17:53:41+0000
+/project/cjy/, cjy, 1.6, Make your own character using radical sequences!, 2020-07-21T14:36:08+0000
+/project/2048-py/, 2048-py, 0.1.6, 2048 written in Python by the Ladue High School Computer Science Club, 2021-01-04T20:38:38+0000
+/project/sudokulib/, sudokulib, 0.6a, Tools for generating solutions and starting grids for Sudoku., 2010-01-23T13:32:27+0000
+/project/aocd/, aocd, 0.1, dummy name to pull advent-of-code-data, 2020-12-05T11:45:34+0000
+/project/py-hangman/, py-hangman, 0.4, A 2-player version of Hangman, 2017-03-29T05:13:08+0000
+/project/nimmy/, nimmy, 0.1.3, A Terminal UI to play a variation of nim against a bot, 2021-03-30T04:22:40+0000
+/project/cursewords/, cursewords, 1.0.6, A terminal-based crossword puzzle solving interface, 2021-04-21T20:45:49+0000
+/project/wordgolf/, WordGolf, 0.2.3, Word game that combines Boggle-like word finding with golf., 2011-06-11T00:03:43+0000
+/project/curses-2048/, curses-2048, 1.4, 2048 implementation with python and ncurses, 2014-05-24T21:48:28+0000
+/project/number-guessing/, number-guessing, 1.0.1, A number guessing game made by tkinter. Have FUN!使用tkinter制作的猜数游戏。, 2020-04-09T08:08:14+0000
+/project/ccxxv/, ccxxv, 0.1.4, Crossword solving assistant, 2015-02-28T21:43:23+0000
+/project/pysokoban/, pysokoban, 1.1, A highly customizable sokoban implementation using Python's tkinter., 2014-05-15T05:57:19+0000
+/project/elzzur/, elzzur, 0.0.1.0, elzzur solves a Ruzzle board, listing all the valid words with their scores., 2016-05-11T11:54:55+0000
+/project/terminal-mines/, terminal-mines, 1.3, A command-line clone of Minesweeper in Python, 2019-08-28T18:38:37+0000
+/project/padtools/, padtools, 0.1.2, A package for the popular iOS & Android game "Puzzle & Dragons" (PAD), 2016-02-21T21:31:31+0000
+/project/mrrobot/, mrrobot, 1.0.3, Just another robot to automate the hacking process, 2020-02-24T18:23:49+0000
+/project/puzzlepy/, puzzlepy, 0.1.2, Python package for generating, solving, and testing grid-based puzzle games., 2015-08-27T18:03:55+0000
+/project/ipuz/, ipuz, 1.0, Python library for reading and writing ipuz puzzle files, 2021-03-20T17:11:47+0000
+/project/macht/, macht, 0.1.5, A 2048 clone in python with Terminal UI, 2014-04-20T11:15:31+0000
+/project/dokusan/, dokusan, 0.1.0a6, Sudoku generator and solver with a step-by-step guidance, 2019-12-28T23:22:08+0000
+/project/py2048base/, py2048base, 0.31, Python clone of the famous 2048 game., 2021-04-24T18:40:51+0000
+/project/kakuro/, kakuro, 1.0.0, Library to represent and solve Kakuro puzzles., 2010-05-20T18:19:22+0000
+/project/adventocr/, adventocr, 0.1, Parsing text output for Advent of Code puzzles, 2021-01-07T21:30:24+0000
+/project/smullpeg/, smullpeg, 0.1.5, a lamentable peg game, 2009-12-08T01:52:16+0000
+/project/palabra/, palabra, 0.1.7, A free crossword editor, 2011-06-03T17:59:30+0000
+/project/opener/, opener, 0.0.4, Solve open the lock puzzle., 2020-10-02T18:33:29+0000
+/project/edsudoku/, edsudoku, 2.0.2, Utility and website for generating solvable sudoku puzzles, 2015-09-15T22:12:17+0000
+/project/defusedivision/, defusedivision, 0.0.10, Terminal based multiplayer (and singleplayer) minesweeper, 2018-02-08T03:56:29+0000
+/project/xyfny/, xyfny, 0.0.11, Reworking of xyppy, 2019-07-28T17:09:47+0000
+/project/word-search-puzzle/, word-search-puzzle, 2.0.1, Word Search Puzzle Generator, 2019-12-31T09:06:06+0000
+/project/sudokustepper/, sudokustepper, 0.2.3, A tool for stepping through, and visualising Sudoku solving algorithms, 2020-06-30T20:01:16+0000
+/project/freegames-extended/, freegames-extended, 2.3.3, A extended version of package ``freegames``, 2020-11-28T06:47:27+0000
+/project/mrrobot/, mrrobot, 1.0.3, Just another robot to automate the hacking process, 2020-02-24T18:23:49+0000
+/project/puzzlepy/, puzzlepy, 0.1.2, Python package for generating, solving, and testing grid-based puzzle games., 2015-08-27T18:03:55+0000
+/project/ipuz/, ipuz, 1.0, Python library for reading and writing ipuz puzzle files, 2021-03-20T17:11:47+0000
+/project/macht/, macht, 0.1.5, A 2048 clone in python with Terminal UI, 2014-04-20T11:15:31+0000
+/project/dokusan/, dokusan, 0.1.0a6, Sudoku generator and solver with a step-by-step guidance, 2019-12-28T23:22:08+0000
+/project/py2048base/, py2048base, 0.31, Python clone of the famous 2048 game., 2021-04-24T18:40:51+0000
+/project/xyfny/, xyfny, 0.0.11, Reworking of xyppy, 2019-07-28T17:09:47+0000
+/project/pazudorasolver/, pazudorasolver, 0.2.2, Puzzles and Dragons board solver, 2017-05-20T16:10:20+0000
+/project/gh0st/, gh0st, 0.0.1, Top down stealth & hacking game, 2020-04-01T05:16:41+0000
+/project/terminal-mines/, terminal-mines, 1.3, A command-line clone of Minesweeper in Python, 2019-08-28T18:38:37+0000
+/project/padtools/, padtools, 0.1.2, A package for the popular iOS & Android game "Puzzle & Dragons" (PAD), 2016-02-21T21:31:31+0000
+/project/scrabble/, scrabble, 1.3, Scrabble game with move recovery and best move analysis, 2018-01-02T17:59:21+0000
+/project/edsudoku/, edsudoku, 2.0.2, Utility and website for generating solvable sudoku puzzles, 2015-09-15T22:12:17+0000
+/project/defusedivision/, defusedivision, 0.0.10, Terminal based multiplayer (and singleplayer) minesweeper, 2018-02-08T03:56:29+0000
+/project/advent-of-code-py/, advent-of-code-py, 0.2.0, Advent of Code helper CLI and library, 2020-07-03T08:55:21+0000
+/project/kaidoku/, kaidoku, 0.5.6, Player, solver and creater of sudoku puzzles, 2018-08-22T06:36:01+0000
+/project/mines-esolang/, mines-esolang, 1.0.4, An esoteric language inspired by Minesweeper., 2020-04-24T02:18:30+0000
+/project/gallows/, gallows, 0.6.0, The word game Hangman based on 'Invent Your Own Computer Games with Python'., 2015-02-14T22:43:55+0000
+/project/advent-of-code-data/, advent-of-code-data, 0.9.8, Get your puzzle data with a single import, 2021-02-19T09:27:32+0000
+/project/hangthepyman/, hangthepyman, 0.1.3, Classic Hangman game with Pygame & Python touch, 2020-07-13T10:11:56+0000
+/project/sudokustudylib/, SudokuStudyLib, 1.0.7, Sudoku Solving Library, 2014-05-19T05:38:45+0000
+/project/padsniff/, padsniff, 1.2.1, Command-line tool to sniff Puzzle & Dragons data., 2017-11-11T18:33:29+0000
+/project/asterios/, asterios, 2.0.1, Asterios escape game server, 2018-08-26T09:13:46+0000
+/project/sudokuaspuzzle/, sudokuaspuzzle, 0.1.28, Customizable Sudoku, 2019-11-04T09:33:55+0000
+/project/newsuntest/, NewsunTest, 2.0.1, my pip test, 2019-11-17T14:57:42+0000
+/project/rubixs/, rubixs, 0.0.1, Implementation of Rubix's cube in Python3, 2020-02-05T05:53:51+0000
+/project/freegames/, freegames, 2.3.2, Free Games, 2019-12-31T05:06:46+0000
+/project/regex-crossword/, regex-crossword, 0.1.0, A Python implementation of a Regex Crossword in the terminal., 2019-09-23T14:50:50+0000
+/project/pylfsr/, pylfsr, 1.0.5, Linear Feedback Shift Register, 2021-04-21T08:12:08+0000
+/project/macgyverproject/, MacGyverProject, 1.0.0, A MacGyver based game, 2017-09-12T16:26:24+0000
+/project/advent-of-code-sample/, advent-of-code-sample, 0.1, myusername's solutions for https://adventofcode.com/, 2019-02-02T22:33:26+0000
+/project/game24/, game24, 1.0.1, A console application to play the 24 game, 2015-03-27T08:36:11+0000
+/project/nachomines/, nachomines, 1.0.4, Simple python minesweeper game using pygame, 2020-10-20T15:14:33+0000
+/project/balazarbrothers/, BalazarBrothers, 1.1, A 3D action/puzzle game., 2019-01-12T12:13:34+0000
+/project/rubik-box/, rubik-box, 0.0.2, Rubik's cube solver, 2016-07-01T10:23:32+0000
+/project/latinsquaresolver/, LatinSquareSolver, 1.0.1, Solve Latin Squares, 2015-04-21T17:18:49+0000
+/project/sweepy/, Sweepy, 0.1.0, A very basic minesweeper clone written in Pylons, 2009-10-21T23:07:06+0000
+/project/mctest/, mctest, 0.0.2, 程序员的战争, 2019-05-29T13:48:35+0000
+/project/gameoffifteen/, gameOfFifteen, 4.5, The game of fifteen, 2018-05-26T13:30:05+0000
+/project/python-hangman/, python_hangman, 2.2.3, Python Hangman TDD/MVC demonstration., 2015-12-28T10:09:57+0000
+/project/ngfp/, ngfp, 0.2.4, A puzzle game based upon gfpoken., 2020-07-25T16:01:56+0000
+/project/sokoenginepy/, sokoenginepy, 0.5.3, Sokoban and variants game engine, 2018-02-24T08:15:57+0000
+/project/fallingsky/, fallingsky, 0.0.8, A game of falling blocks with RPG elements, uses pygame., 2015-07-23T03:34:05+0000
+/project/terminis/, terminis, 0.2.3.2, Tetris clone for terminal. Ideal for servers without GUI!, 2019-08-31T17:53:41+0000
+/project/cjy/, cjy, 1.6, Make your own character using radical sequences!, 2020-07-21T14:36:08+0000
+/project/py-hangman/, py-hangman, 0.4, A 2-player version of Hangman, 2017-03-29T05:13:08+0000
+/project/mekoramaqr/, mekoramaqr, 0.1.0, Tools for reading, writing, and editing Mekorama level QR Codes, 2017-11-03T20:38:51+0000
+/project/pysudokusolver/, pySudokuSolver, 1.2, A small graphical utility for solving any Sudoku puzzle, almost instantaneoulsy., 2011-07-20T16:26:55+0000
+/project/nonogram-solver/, nonogram-solver, 0.1, A nonogram puzzle solver., 2016-08-28T19:33:21+0000
+/project/pytetris/, pytetris, 1.0.0, tetris game with ai made by pygame, 2020-06-06T11:20:37+0000
+/project/genedoku/, genedoku, 1.0.0a4, A simple python package that solves sudokus using genetic algorithms, 2016-08-31T03:42:45+0000
+/project/crossword/, crossword, 0.1.2, Python library for handling crossword puzzles, 2014-12-12T22:01:49+0000
+/project/boggleboard/, boggleboard, 1.0.5, Manipulate and analyse anagrams and variations of Boggle boards., 2010-10-08T16:45:14+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/mazelib/, mazelib, 0.9.11, A Python API for creating and solving mazes., 2021-03-08T20:18:54+0000
+/project/uvn-fira/, uvn-fira, 1.3.1, The backend and API code for the Unscripted minigame., 2020-05-12T19:54:54+0000
+/project/sudokumaker/, sudokumaker, 1.1, Genetic-Algorithm based Sudoku generator (and solver), 2020-06-03T14:46:39+0000
+/project/cubelang/, CubeLang, 0.1.4, Domain-specific programming language made for solving twisting cube puzzles, 2020-03-02T17:38:03+0000
+/project/apibiubiu/, ApiBiuBiu, 0.0.2, unittestAndMultiprocessing, 2020-07-06T15:20:54+0000
+/project/minegauler/, minegauler, 4.0.5, A clone of the original minesweeper game with many added features, 2020-07-05T15:43:45+0000
+/project/open-mastermind/, open-mastermind, 0.2.0, A terminal-based code-breaking game Mastermind, 2020-02-21T09:42:59+0000
+/project/pynogram/, pynogram, 0.3.1, Nonogram solver, 2018-09-12T15:41:09+0000
+/project/imaginary/, Imaginary, 0.0.5, Virtual simulation framework., 2009-11-29T19:21:37+0000
+/project/hps-nyu/, hps-nyu, 1.0.0, Tools for architecture for HPS games, 2017-12-09T21:40:16+0000
+/project/advent-of-code-wim/, advent-of-code-wim, 2020.2, Wim's solutions for https://adventofcode.com/, 2020-12-31T07:57:01+0000
+/project/pymagcore/, pymagcore, 0.1.0, 程序员的战争, 2019-05-29T14:30:26+0000
+/project/stratumgs/, stratumgs, 0.1.1, A turn based game engine designed to pit autonomous players against each other., 2016-05-28T16:32:49+0000
+/project/2048-py/, 2048-py, 0.1.6, 2048 written in Python by the Ladue High School Computer Science Club, 2021-01-04T20:38:38+0000
+/project/sudokulib/, sudokulib, 0.6a, Tools for generating solutions and starting grids for Sudoku., 2010-01-23T13:32:27+0000
+/project/aocd/, aocd, 0.1, dummy name to pull advent-of-code-data, 2020-12-05T11:45:34+0000
+/project/nimmy/, nimmy, 0.1.3, A Terminal UI to play a variation of nim against a bot, 2021-03-30T04:22:40+0000
+/project/cursewords/, cursewords, 1.0.6, A terminal-based crossword puzzle solving interface, 2021-04-21T20:45:49+0000
+/project/wordgolf/, WordGolf, 0.2.3, Word game that combines Boggle-like word finding with golf., 2011-06-11T00:03:43+0000
+/project/curses-2048/, curses-2048, 1.4, 2048 implementation with python and ncurses, 2014-05-24T21:48:28+0000
+/project/number-guessing/, number-guessing, 1.0.1, A number guessing game made by tkinter. Have FUN!使用tkinter制作的猜数游戏。, 2020-04-09T08:08:14+0000
+/project/ccxxv/, ccxxv, 0.1.4, Crossword solving assistant, 2015-02-28T21:43:23+0000
+/project/pysokoban/, pysokoban, 1.1, A highly customizable sokoban implementation using Python's tkinter., 2014-05-15T05:57:19+0000
+/project/elzzur/, elzzur, 0.0.1.0, elzzur solves a Ruzzle board, listing all the valid words with their scores., 2016-05-11T11:54:55+0000
+/project/tictactoe/, tictactoe, 0.1.8, Ultimate Tic-Tac-Toe tictactoe front-end, 2014-04-28T10:50:01+0000
+/project/py2048-game/, py2048-game, 1.0.1, PyGTK implementation of the popular 2048 game, 2016-12-06T20:50:43+0000
+/project/trivial-sudoku/, Trivial-Sudoku, 2.0, A trvial Python implementation of a Sudoku solver, 2016-06-06T01:38:10+0000
+/project/palabra/, palabra, 0.1.7, A free crossword editor, 2011-06-03T17:59:30+0000
+/project/opener/, opener, 0.0.4, Solve open the lock puzzle., 2020-10-02T18:33:29+0000
+/project/pydaedalus/, pydaedalus, 0.1.5, Python wrapper of Daedalus monochrome maze, 2019-12-03T14:38:03+0000
+/project/mxgames/, mxgames, 1.7.2, free python games written by pygame, 2018-12-17T04:04:24+0000
+/project/bansoko/, bansoko, 1.0.0, Bansoko is a reimagined, space-themed clone of MS-DOS Soko-Ban from 1984 created in Python using Pyxel, 2020-12-24T00:47:24+0000
+/project/puzpy/, puzpy, 0.2.5, python crossword puzzle library, 2019-06-07T15:26:36+0000
+/project/kakuro/, kakuro, 1.0.0, Library to represent and solve Kakuro puzzles., 2010-05-20T18:19:22+0000
+/project/puzzle-solvers/, puzzle-solvers, 0.0.1b1, Program for creating MS Word reports from data and content templates, 2019-06-06T23:03:42+0000
+/project/adventocr/, adventocr, 0.1, Parsing text output for Advent of Code puzzles, 2021-01-07T21:30:24+0000
+/project/smullpeg/, smullpeg, 0.1.5, a lamentable peg game, 2009-12-08T01:52:16+0000
+/project/rubik/, Rubik, 0.0.1, A Rubik's Cube game., 2010-08-24T12:05:06+0000
+/project/rpi-dots/, rpi-dots, 0.2.3, Software for the DOTS board for the Raspberry Pi, 2015-03-12T13:14:01+0000
+/project/nonogram/, nonogram, 3.1.1, Command-line tools to solve nonograms/picross, 2020-01-25T09:49:02+0000
+/project/word-search-puzzle/, word-search-puzzle, 2.0.1, Word Search Puzzle Generator, 2019-12-31T09:06:06+0000
+/project/sudokustepper/, sudokustepper, 0.2.3, A tool for stepping through, and visualising Sudoku solving algorithms, 2020-06-30T20:01:16+0000
+/project/freegames-extended/, freegames-extended, 2.3.3, A extended version of package ``freegames``, 2020-11-28T06:47:27+0000
+/project/mrrobot/, mrrobot, 1.0.3, Just another robot to automate the hacking process, 2020-02-24T18:23:49+0000
+/project/puzzlepy/, puzzlepy, 0.1.2, Python package for generating, solving, and testing grid-based puzzle games., 2015-08-27T18:03:55+0000
+/project/ipuz/, ipuz, 1.0, Python library for reading and writing ipuz puzzle files, 2021-03-20T17:11:47+0000
+/project/macht/, macht, 0.1.5, A 2048 clone in python with Terminal UI, 2014-04-20T11:15:31+0000
+/project/dokusan/, dokusan, 0.1.0a6, Sudoku generator and solver with a step-by-step guidance, 2019-12-28T23:22:08+0000
+/project/py2048base/, py2048base, 0.31, Python clone of the famous 2048 game., 2021-04-24T18:40:51+0000
+/project/xyfny/, xyfny, 0.0.11, Reworking of xyppy, 2019-07-28T17:09:47+0000
+/project/pazudorasolver/, pazudorasolver, 0.2.2, Puzzles and Dragons board solver, 2017-05-20T16:10:20+0000
+/project/gh0st/, gh0st, 0.0.1, Top down stealth & hacking game, 2020-04-01T05:16:41+0000
+/project/terminal-mines/, terminal-mines, 1.3, A command-line clone of Minesweeper in Python, 2019-08-28T18:38:37+0000
+/project/padtools/, padtools, 0.1.2, A package for the popular iOS & Android game "Puzzle & Dragons" (PAD), 2016-02-21T21:31:31+0000
+/project/scrabble/, scrabble, 1.3, Scrabble game with move recovery and best move analysis, 2018-01-02T17:59:21+0000
+/project/edsudoku/, edsudoku, 2.0.2, Utility and website for generating solvable sudoku puzzles, 2015-09-15T22:12:17+0000
+/project/defusedivision/, defusedivision, 0.0.10, Terminal based multiplayer (and singleplayer) minesweeper, 2018-02-08T03:56:29+0000

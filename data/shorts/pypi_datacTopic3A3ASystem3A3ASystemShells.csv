@@ -1,0 +1,247 @@
+/project/batchexec/, batchexec, 0.0.5, Batch execute any task, with simple json config, 2021-02-26T22:42:20+0000
+/project/sysfstree/, sysfstree, 0.1.11, sysfstree displayes gadget usb information from the ConfigFS and SysFS, 2020-04-04T06:38:08+0000
+/project/xontrib-rerun/, xontrib-rerun, 0.11, Rerun previous commands, 2018-12-05T14:02:50+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/xontrib-commands/, xontrib-commands, 0.2.7, Useful xonsh-shell commands/alias functions, 2021-04-18T11:55:03+0000
+/project/xontrib-back2dir/, xontrib-back2dir, 0.1.1, Return to the most recently used directory when starting the xonsh shell., 2021-04-07T08:20:05+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/clom/, clom, 0.7.5, The easiest way to use the command line with Python. Command Line Object Mapper. A library for building POSIX command line arguments, commands, and parameters. Very useful for Fabric tasks., 2014-10-02T20:42:31+0000
+/project/apt-mirror-updater/, apt-mirror-updater, 7.2, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-04-17T22:28:13+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/xontrib-apipenv/, xontrib-apipenv, 0.4.0, Auto activate a Pipenv virtual environment, 2019-05-29T10:51:35+0000
+/project/pycliff/, pyCLiFF, 0.1, pyCLiFF, the Python Command Line Filter Framework is a simple tool designed to remove the boilerplate and annoyances from command line filters., 2009-08-21T00:11:17+0000
+/project/followname/, followname, 0.1.5, Python tail is a simple implementation of GNU tail --follow=name., 2020-02-12T08:22:58+0000
+/project/echo360/, echo360, 2.0.3, Commandline tool for automated downloads of echo360 videos, 2020-05-29T13:44:24+0000
+/project/qpsh/, qpsh, 0.3, Call shell commands from python shell., 2018-06-12T15:20:50+0000
+/project/pwntools/, pwntools, 4.4.0, Pwntools CTF framework and exploit development library., 2021-03-29T10:34:24+0000
+/project/z0lib/, z0lib, 0.2.9, Bash zeroincombenze lib, 2020-06-25T07:18:07+0000
+/project/chmod-reset/, chmod-reset, 0.1.0, Python package to reset right acces on all files, folders and sub-files and folders, 2018-05-22T13:30:29+0000
+/project/xontrib-history-encrypt/, xontrib-history-encrypt, 0.0.9, History backend that can encrypt the xonsh shell commands history., 2021-03-09T14:27:40+0000
+/project/tailer/, tailer, 0.4.1, Python tail is a simple implementation of GNU tail and head., 2015-12-09T19:44:09+0000
+/project/xontrib-ssh-agent/, xontrib-ssh-agent, 1.0.12, SSH agent integration for xonsh, 2020-04-05T19:17:04+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/apt-smart/, apt-smart, 7.1.3, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-05-31T07:14:08+0000
+/project/pyprof2calltree/, pyprof2calltree, 1.4.5, Help visualize profiling data from cProfile with kcachegrind and qcachegrind, 2020-04-19T10:39:09+0000
+/project/ripe/, ripe, 0.0.4, remove & reinstall python packages in one command, 2016-04-17T03:51:23+0000
+/project/xontrib-fzf-widgets/, xontrib-fzf-widgets, 0.0.4, fzf widgets for xonsh, 2020-10-16T10:43:06+0000
+/project/xontrib-cmd-done/, xontrib-cmd-done, 0.2.2, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-25T18:39:59+0000
+/project/xontrib-prompt-bar/, xontrib-prompt-bar, 0.4.1, The bar theme for xonsh shell., 2021-04-18T05:46:39+0000
+/project/sockclock/, sockclock, 0.0.1, temporarily override sockets default timeout, 2017-06-30T02:32:27+0000
+/project/xontrib-pyenv/, xontrib-pyenv, 1.0.4, Pyenv integration for xonsh, 2020-06-10T05:51:54+0000
+/project/xontrib-powerline-binding/, xontrib-powerline-binding, 0.3.1, Powerline binding for xonsh, 2020-10-03T10:47:58+0000
+/project/xontrib-hist-navigator/, xontrib-hist-navigator, 0.6.3, A Xonsh plugin to navigate between directories like fish's prevd/nextd, 2021-01-03T11:59:42+0000
+/project/coloredlogs/, coloredlogs, 15.0, Colored terminal output for Python's logging module, 2020-12-10T13:10:51+0000
+/project/envy/, envy, 0.2.0, safely and easily debug files deep in python virtualenvs, 2016-07-13T18:55:00+0000
+/project/xontrib-linuxbrew/, xontrib-linuxbrew, 0.1.0, Add Homebrew's shell environment to xonsh on Linux, 2021-03-04T18:51:35+0000
+/project/bridgy/, bridgy, 0.3.0, Easily search your cloud inventory and integrate with ssh + tmux + sshfs, 2018-08-17T02:44:07+0000
+/project/dep-license/, dep-license, 2.4.2, Report licenses information for dependencies in use by a Python project, 2020-07-24T11:44:05+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pdiffcopy/, pdiffcopy, 1.0.1, Fast large file synchronization inspired by rsync, 2020-03-06T23:30:24+0000
+/project/pip-licenses/, pip-licenses, 3.3.1, Dump the software license list of Python packages installed with pip., 2021-02-28T02:04:04+0000
+/project/wdocker/, wdocker, 0.2.0, Define docker commands in your Dockerfile, 2015-10-02T19:35:33+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/xontrib-thefuck/, xontrib-thefuck, 0.3.6, Xonsh extension for thefuck, 2019-03-07T11:19:01+0000
+/project/bashlex/, bashlex, 0.15, Python parser for bash, 2020-05-30T15:38:37+0000
+/project/xontrib-repa-prompt/, xontrib-repa-prompt, 0.0.5, Custom prompt for xonsh, 2020-06-09T17:53:55+0000
+/project/xontrib-output-search/, xontrib-output-search, 0.5.4, Get identifiers, names, paths, URLs and words from the previous command output and use them for the next command in xonsh., 2020-10-29T08:45:20+0000
+/project/xontrib-histcpy/, xontrib-histcpy, 0.1, Useful aliases and shortcuts for extracting links and text from command output history in xonsh, 2019-05-23T09:43:48+0000
+/project/npmanager/, npmanager, 1.0-5, The super easy way to install and manageNGINX, PHP and MariaDB, 2015-06-28T10:24:21+0000
+/project/xontrib-avox/, xontrib-avox, 0.8, Automatic voxes for projects, 2020-01-22T19:11:12+0000
+/project/graphterm/, graphterm, 0.57.0, A Graphical Terminal Interface, 2014-07-19T05:12:16+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/xontrib-z/, xontrib-z, 0.4, Tracks your most used directories, based on 'frecency'., 2018-10-16T23:47:21+0000
+/project/pysource/, pysource, 0.1.7, "source" and run python functions in bash, 2014-05-25T00:29:34+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/catxls/, catxls, 0.0.5, read xls, xlsx on server, 2019-03-22T18:07:04+0000
+/project/xontrib-cmd-durations/, xontrib-cmd-durations, 0.2.4, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-26T07:47:01+0000
+/project/climage/, climage, 0.1.3, Convert images to beautiful ANSI escape codes, 2019-01-22T05:02:49+0000
+/project/xontrib-cd/, xontrib-cd, 0.1.1, cd to any path without escaping in xonsh shell ('cd '→'cd! '), 2021-03-04T19:39:43+0000
+/project/printingpress/, printingpress, 0.3, Shameless name-grab for a possible future project, 2021-04-08T20:02:11+0000
+/project/pyvenvwrapper/, pyvenvwrapper, 1.0.0, pyvenvwrapper is a small and lightweight set of Bash script functions, that enhance the use of venv module for management of virtual environments., 2018-09-16T13:07:03+0000
+/project/xontrib-powerline3/, xontrib-powerline3, 0.3.1, Yet another powerline theme for xonsh with async prompt support., 2021-01-31T08:32:01+0000
+/project/mocksh/, mocksh, 0.0.1, Simple shell-style process calling, 2018-07-17T21:20:56+0000
+/project/pysecure/, pysecure, 0.11.8, A complete Python SSH/SFTP library based on libssh., 2014-04-21T20:14:01+0000
+/project/shed-sh/, shed_sh, 1.0.0, Don't run "curl | sh" again. Use "curl | shed" to verify scripts before running., 2015-01-02T23:57:22+0000
+/project/pydba/, pydba, 1.2.1, Python tools for DBAs with deadlines!, 2015-11-30T14:38:54+0000
+/project/prompty/, prompty, 0.4.1, A command line prompt markup language, 2020-08-01T13:14:28+0000
+/project/xxh-xxh/, xxh-xxh, 0.8.7, Bring your favorite shell wherever you go through the ssh, 2021-03-14T15:46:20+0000
+/project/ptysh/, ptysh, 0.1.0, Python Teletype Shell, 2016-08-04T03:09:04+0000
+/project/xontrib-prompt-ret-code/, xontrib-prompt-ret-code, 1.0.1, Adds return code info to xonsh prompt., 2016-07-22T20:45:39+0000
+/project/rocket-vocab/, rocket-vocab, 0.0.5, learing vocabulary on terminal, 2020-02-13T10:10:09+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/xontrib-onepath/, xontrib-onepath, 0.3.2, Associate files with app or alias and run it without preceding commands in xonsh shell., 2020-10-31T01:34:53+0000
+/project/xontrib-gitinfo/, xontrib-gitinfo, 0.1.0, Displays information on entering a git repository., 2019-12-22T16:08:47+0000
+/project/permset/, permset, 0.22, Simple standalone utility script to manage \*nix permissions on file and directory trees based on patterns., 2012-12-14T22:02:51+0000
+/project/scripy/, Scripy, 0.9.3, Python tools for manage system commands as replacement to bash script, 2010-02-16T19:40:34+0000
+/project/xontrib-dotenv/, xontrib-dotenv, 0.1, Reads .env files into environment, 2016-06-15T11:15:15+0000
+/project/xontrib-pipeliner/, xontrib-pipeliner, 0.3.4, Easily process the lines using pipes in xonsh., 2021-04-07T05:15:32+0000
+/project/gadgetconfig/, gadgetconfig, 0.0.31, gadgetconfig creates and controls Gadget USB Devices and integrates Gadget with systemd, 2020-12-11T21:17:18+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/gettimer/, getTimer, 0.1.2, Get python datetime objects from CLI users easily, 2016-02-14T00:58:13+0000
+/project/yapydata/, yapydata, 0.1.40, The 'yapydata provides miscellaneous low-level *Python* data access APIs., 2019-12-13T09:48:02+0000
+/project/suext/, suext, 0.0.3, Utility for showing any file extension and MIME type info. Support show files information in a directory as list or table., 2020-04-01T07:41:01+0000
+/project/bitdust-p2p/, bitdust-p2p, 0.0.3, BitDust is new software framework to build distributed and secure peer-to-peer applications., 2020-09-15T19:26:40+0000
+/project/log-everywhere/, log-everywhere, 0.0.1, Logging package to enable writing all program information with corresponding datetime to multiple, DIFFERENT files safely when running multiple threads (multi-threading)., 2021-01-14T08:20:05+0000
+/project/pyxargs/, pyxargs, 1.2.8, A mostly complete implementation of xargs in python with some added features, 2020-02-02T05:18:33+0000
+/project/unwrapper/, unwrapper, 1.0.0, Unwrap JSON responses from callback fns, 2017-01-19T02:23:45+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/xontrib-avox-poetry/, xontrib-avox-poetry, 0.2.1, auto-activate venv as one cd into a poetry project, 2021-03-04T09:11:31+0000
+/project/jsonlike/, jsonlike, 0.0.2, repair and parse invalid but jsonlike content, 2017-01-19T02:32:01+0000
+/project/tmuxomatic/, tmuxomatic, 2.18, Intelligent tmux session management ... #tmux, 2015-07-03T20:24:01+0000
+/project/pshell/, pshell, 1.2.0, An alternative to bash scripts, 2020-07-01T17:58:04+0000
+/project/pysftpserver/, pysftpserver, 1.4.0, An OpenSSH SFTP wrapper in Python., 2015-01-14T14:59:55+0000
+/project/projy/, Projy, 0.4.1, Projy is a template-based skeleton generator., 2013-10-21T13:32:54+0000
+/project/spellbook/, spellbook, 1.1.5, store and search command lines, 2016-02-11T15:37:09+0000
+/project/offsh-xxh/, offsh-xxh, 1.0.0, Bring your favorite shell wherever you go through the ssh. This is a fork from https://github.com/xxh/xxh with some extra featured designed for https://github.com/offsh/offshell, 2020-12-01T18:13:10+0000
+/project/colouredlogs/, colouredlogs, 10.0.1, Coloured terminal output for Python's logging module, 2019-07-13T20:17:45+0000
+/project/fzsl/, fzsl, 0.4, Fuzzy path searching for shells, 2016-02-06T05:58:05+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/spm/, spm, 0.9.1, SubProcess Manager provides a simple programming interface to safely run, pipe and redirect output of subprocesses., 2015-04-05T19:19:50+0000
+/project/xontrib-prompt-starship/, xontrib-prompt-starship, 0.2.0, Starship prompt in xonsh shell., 2021-03-13T00:47:51+0000
+/project/zenityshell/, ZenityShell, 0.0.1-r001a-ekcebo-ivaritt, Zenity Module with more option embedded for fast integration, 2012-09-18T04:57:36+0000
+/project/xontrib-ergopack/, xontrib-ergopack, 0.1.4, Meta package that installs group of ergonomic xontribs in xonsh shell., 2021-03-08T07:17:53+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/xontrib-zoxide/, xontrib-zoxide, 0.2.0, Zoxide integration for xonsh, 2021-03-08T18:43:44+0000
+/project/xonsh-autoxsh/, xonsh-autoxsh, 0.3, Auto launcher of `.autoxsh` scripts for Xonsh shell's `cd` function, 2018-03-09T05:50:01+0000
+/project/psysh-kernel/, psysh-kernel, 0.1.4, A PHP kernel for Jupyter/IPython, based on MetaKernel, 2019-02-14T02:15:52+0000
+/project/xontrib-termcolors/, xontrib-termcolors, 0.2.0, Set terminal colors based on selected xonsh theme., 2021-03-11T16:35:15+0000
+/project/lfm/, lfm, 3.1, Last File Manager is a powerful file manager for the UNIX console., 2017-06-25T17:13:14+0000
+/project/xontrib-hist-format/, xontrib-hist-format, 0.0.10, Format xonsh history to post it to Github or another page., 2020-11-06T10:47:17+0000
+/project/xontrib-syslog-shell-profiler/, xontrib-syslog-shell-profiler, 0.1.5, A Xonsh plugin to profile and log command execution to a syslog file., 2021-04-10T20:49:53+0000
+/project/tailer3/, tailer3, 0.3, Python tail is a simple implementation of GNU tail and head., 2013-03-05T16:15:46+0000
+/project/xontrib-sh/, xontrib-sh, 0.3.0, Paste and run commands from bash, zsh, fish, tcsh, pwsh, cmd in xonsh shell., 2021-03-19T16:21:26+0000
+/project/sh-utils/, sh-utils, 0.9, some commands to simplify various things, 2016-02-02T05:46:57+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/doubleplusungood/, doubleplusungood, 0.1, Shameless name-grab for a possible future project, 2020-01-13T15:24:32+0000
+/project/xontrib-argcomplete/, xontrib-argcomplete, 0.3.2, Argcomplete support for python and xonsh scripts in xonsh shell., 2021-03-04T18:49:19+0000
+/project/tailhead/, tailhead, 1.0.2, tailhead is a simple implementation of GNU tail and head., 2015-11-04T17:24:35+0000
+/project/xontrib-broot/, xontrib-broot, 0.1.0, broot support function for xonsh shell, 2020-11-25T15:52:30+0000
+/project/matrixtest/, MatrixTest, 1.2.0, A tool to facilitate matrix test via countless combination of arguments of a command line, 2021-04-03T06:19:44+0000
+/project/xontrib-macro-lib/, xontrib-macro-lib, 0.0.3, Library of the useful macroses for the xonsh shell., 2021-04-01T08:29:19+0000
+/project/pyxargs/, pyxargs, 1.2.8, A mostly complete implementation of xargs in python with some added features, 2020-02-02T05:18:33+0000
+/project/unwrapper/, unwrapper, 1.0.0, Unwrap JSON responses from callback fns, 2017-01-19T02:23:45+0000
+/project/yapyutils/, yapyutils, 0.1.38, The 'yapyutils' package provides miscellaneous low-level Python utilities., 2019-12-18T12:43:17+0000
+/project/batchexec/, batchexec, 0.0.5, Batch execute any task, with simple json config, 2021-02-26T22:42:20+0000
+/project/sysfstree/, sysfstree, 0.1.11, sysfstree displayes gadget usb information from the ConfigFS and SysFS, 2020-04-04T06:38:08+0000
+/project/xontrib-rerun/, xontrib-rerun, 0.11, Rerun previous commands, 2018-12-05T14:02:50+0000
+/project/bitdust/, bitdust, 0.0.2, BitDust is a decentralized on-line storage network for safe, independent and private communications., 2019-05-11T17:54:37+0000
+/project/xontrib-commands/, xontrib-commands, 0.2.7, Useful xonsh-shell commands/alias functions, 2021-04-18T11:55:03+0000
+/project/xontrib-back2dir/, xontrib-back2dir, 0.1.1, Return to the most recently used directory when starting the xonsh shell., 2021-04-07T08:20:05+0000
+/project/setuplibcore/, setuplibcore, 0.1.15, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T11:13:52+0000
+/project/clom/, clom, 0.7.5, The easiest way to use the command line with Python. Command Line Object Mapper. A library for building POSIX command line arguments, commands, and parameters. Very useful for Fabric tasks., 2014-10-02T20:42:31+0000
+/project/pycliff/, pyCLiFF, 0.1, pyCLiFF, the Python Command Line Filter Framework is a simple tool designed to remove the boilerplate and annoyances from command line filters., 2009-08-21T00:11:17+0000
+/project/pwntools/, pwntools, 4.4.0, Pwntools CTF framework and exploit development library., 2021-03-29T10:34:24+0000
+/project/z0lib/, z0lib, 0.2.9, Bash zeroincombenze lib, 2020-06-25T07:18:07+0000
+/project/apt-mirror-updater/, apt-mirror-updater, 7.2, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-04-17T22:28:13+0000
+/project/chmod-reset/, chmod-reset, 0.1.0, Python package to reset right acces on all files, folders and sub-files and folders, 2018-05-22T13:30:29+0000
+/project/xontrib-history-encrypt/, xontrib-history-encrypt, 0.0.9, History backend that can encrypt the xonsh shell commands history., 2021-03-09T14:27:40+0000
+/project/sshkeydistribut0r/, SSHKeyDistribut0r, 0.2.5, A tool which has been written to make SSH key distribution easier for sysop teams., 2021-02-04T23:08:40+0000
+/project/xontrib-apipenv/, xontrib-apipenv, 0.4.0, Auto activate a Pipenv virtual environment, 2019-05-29T10:51:35+0000
+/project/tailer/, tailer, 0.4.1, Python tail is a simple implementation of GNU tail and head., 2015-12-09T19:44:09+0000
+/project/xontrib-ssh-agent/, xontrib-ssh-agent, 1.0.12, SSH agent integration for xonsh, 2020-04-05T19:17:04+0000
+/project/humanfriendly/, humanfriendly, 9.1, Human friendly output for text interfaces using Python, 2020-12-10T00:12:21+0000
+/project/followname/, followname, 0.1.5, Python tail is a simple implementation of GNU tail --follow=name., 2020-02-12T08:22:58+0000
+/project/echo360/, echo360, 2.0.3, Commandline tool for automated downloads of echo360 videos, 2020-05-29T13:44:24+0000
+/project/qpsh/, qpsh, 0.3, Call shell commands from python shell., 2018-06-12T15:20:50+0000
+/project/apt-smart/, apt-smart, 7.1.3, Automated, robust apt-get mirror selection for Debian and Ubuntu, 2020-05-31T07:14:08+0000
+/project/pyvenvwrapper/, pyvenvwrapper, 1.0.0, pyvenvwrapper is a small and lightweight set of Bash script functions, that enhance the use of venv module for management of virtual environments., 2018-09-16T13:07:03+0000
+/project/xontrib-prompt-bar/, xontrib-prompt-bar, 0.4.1, The bar theme for xonsh shell., 2021-04-18T05:46:39+0000
+/project/sockclock/, sockclock, 0.0.1, temporarily override sockets default timeout, 2017-06-30T02:32:27+0000
+/project/xontrib-pyenv/, xontrib-pyenv, 1.0.4, Pyenv integration for xonsh, 2020-06-10T05:51:54+0000
+/project/xontrib-powerline-binding/, xontrib-powerline-binding, 0.3.1, Powerline binding for xonsh, 2020-10-03T10:47:58+0000
+/project/pdiffcopy/, pdiffcopy, 1.0.1, Fast large file synchronization inspired by rsync, 2020-03-06T23:30:24+0000
+/project/netaddr/, netaddr, 0.8.0, A network address manipulation library for Python, 2020-07-03T14:43:37+0000
+/project/xontrib-thefuck/, xontrib-thefuck, 0.3.6, Xonsh extension for thefuck, 2019-03-07T11:19:01+0000
+/project/bashlex/, bashlex, 0.15, Python parser for bash, 2020-05-30T15:38:37+0000
+/project/xontrib-repa-prompt/, xontrib-repa-prompt, 0.0.5, Custom prompt for xonsh, 2020-06-09T17:53:55+0000
+/project/xontrib-output-search/, xontrib-output-search, 0.5.4, Get identifiers, names, paths, URLs and words from the previous command output and use them for the next command in xonsh., 2020-10-29T08:45:20+0000
+/project/xontrib-histcpy/, xontrib-histcpy, 0.1, Useful aliases and shortcuts for extracting links and text from command output history in xonsh, 2019-05-23T09:43:48+0000
+/project/pydba/, pydba, 1.2.1, Python tools for DBAs with deadlines!, 2015-11-30T14:38:54+0000
+/project/xontrib-z/, xontrib-z, 0.4, Tracks your most used directories, based on 'frecency'., 2018-10-16T23:47:21+0000
+/project/prompty/, prompty, 0.4.1, A command line prompt markup language, 2020-08-01T13:14:28+0000
+/project/permset/, permset, 0.22, Simple standalone utility script to manage \*nix permissions on file and directory trees based on patterns., 2012-12-14T22:02:51+0000
+/project/xxh-xxh/, xxh-xxh, 0.8.7, Bring your favorite shell wherever you go through the ssh, 2021-03-14T15:46:20+0000
+/project/scripy/, Scripy, 0.9.3, Python tools for manage system commands as replacement to bash script, 2010-02-16T19:40:34+0000
+/project/pysource/, pysource, 0.1.7, "source" and run python functions in bash, 2014-05-25T00:29:34+0000
+/project/pyprof2calltree/, pyprof2calltree, 1.4.5, Help visualize profiling data from cProfile with kcachegrind and qcachegrind, 2020-04-19T10:39:09+0000
+/project/ripe/, ripe, 0.0.4, remove & reinstall python packages in one command, 2016-04-17T03:51:23+0000
+/project/xontrib-fzf-widgets/, xontrib-fzf-widgets, 0.0.4, fzf widgets for xonsh, 2020-10-16T10:43:06+0000
+/project/xontrib-cmd-done/, xontrib-cmd-done, 0.2.2, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-25T18:39:59+0000
+/project/shtab/, shtab, 1.3.5, Automatically generate shell tab completion scripts for python CLI apps, 2021-02-22T15:41:09+0000
+/project/catxls/, catxls, 0.0.5, read xls, xlsx on server, 2019-03-22T18:07:04+0000
+/project/xontrib-cmd-durations/, xontrib-cmd-durations, 0.2.4, Send notification once long running command is finished. Add duration PROMP_FIELD., 2020-10-26T07:47:01+0000
+/project/climage/, climage, 0.1.3, Convert images to beautiful ANSI escape codes, 2019-01-22T05:02:49+0000
+/project/xontrib-cd/, xontrib-cd, 0.1.1, cd to any path without escaping in xonsh shell ('cd '→'cd! '), 2021-03-04T19:39:43+0000
+/project/printingpress/, printingpress, 0.3, Shameless name-grab for a possible future project, 2021-04-08T20:02:11+0000
+/project/xontrib-hist-navigator/, xontrib-hist-navigator, 0.6.3, A Xonsh plugin to navigate between directories like fish's prevd/nextd, 2021-01-03T11:59:42+0000
+/project/thglib/, thglib, 0.0.2.dev0, thg exploit framework and exploit development library., 2021-04-26T03:44:36+0000
+/project/coloredlogs/, coloredlogs, 15.0, Colored terminal output for Python's logging module, 2020-12-10T13:10:51+0000
+/project/envy/, envy, 0.2.0, safely and easily debug files deep in python virtualenvs, 2016-07-13T18:55:00+0000
+/project/xontrib-linuxbrew/, xontrib-linuxbrew, 0.1.0, Add Homebrew's shell environment to xonsh on Linux, 2021-03-04T18:51:35+0000
+/project/bridgy/, bridgy, 0.3.0, Easily search your cloud inventory and integrate with ssh + tmux + sshfs, 2018-08-17T02:44:07+0000
+/project/xontrib-powerline3/, xontrib-powerline3, 0.3.1, Yet another powerline theme for xonsh with async prompt support., 2021-01-31T08:32:01+0000
+/project/dep-license/, dep-license, 2.4.2, Report licenses information for dependencies in use by a Python project, 2020-07-24T11:44:05+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/pip-licenses/, pip-licenses, 3.3.1, Dump the software license list of Python packages installed with pip., 2021-02-28T02:04:04+0000
+/project/wdocker/, wdocker, 0.2.0, Define docker commands in your Dockerfile, 2015-10-02T19:35:33+0000
+/project/mocksh/, mocksh, 0.0.1, Simple shell-style process calling, 2018-07-17T21:20:56+0000
+/project/pysecure/, pysecure, 0.11.8, A complete Python SSH/SFTP library based on libssh., 2014-04-21T20:14:01+0000
+/project/shed-sh/, shed_sh, 1.0.0, Don't run "curl | sh" again. Use "curl | shed" to verify scripts before running., 2015-01-02T23:57:22+0000
+/project/npmanager/, npmanager, 1.0-5, The super easy way to install and manageNGINX, PHP and MariaDB, 2015-06-28T10:24:21+0000
+/project/xontrib-avox/, xontrib-avox, 0.8, Automatic voxes for projects, 2020-01-22T19:11:12+0000
+/project/graphterm/, graphterm, 0.57.0, A Graphical Terminal Interface, 2014-07-19T05:12:16+0000
+/project/setupdocx/, setupdocx, 0.1.22, Support of documentation commands and extensions for setuptools / distutils., 2019-12-11T08:43:33+0000
+/project/ptysh/, ptysh, 0.1.0, Python Teletype Shell, 2016-08-04T03:09:04+0000
+/project/xontrib-prompt-ret-code/, xontrib-prompt-ret-code, 1.0.1, Adds return code info to xonsh prompt., 2016-07-22T20:45:39+0000
+/project/rocket-vocab/, rocket-vocab, 0.0.5, learing vocabulary on terminal, 2020-02-13T10:10:09+0000
+/project/pythonids/, pythonids, 0.1.40, The 'pythonids' package provides the identification and enumeration of Python syntax and implementation., 2019-12-19T05:50:36+0000
+/project/xontrib-onepath/, xontrib-onepath, 0.3.2, Associate files with app or alias and run it without preceding commands in xonsh shell., 2020-10-31T01:34:53+0000
+/project/xontrib-gitinfo/, xontrib-gitinfo, 0.1.0, Displays information on entering a git repository., 2019-12-22T16:08:47+0000
+/project/xontrib-dotenv/, xontrib-dotenv, 0.1, Reads .env files into environment, 2016-06-15T11:15:15+0000
+/project/xontrib-pipeliner/, xontrib-pipeliner, 0.3.4, Easily process the lines using pipes in xonsh., 2021-04-07T05:15:32+0000
+/project/gadgetconfig/, gadgetconfig, 0.0.31, gadgetconfig creates and controls Gadget USB Devices and integrates Gadget with systemd, 2020-12-11T21:17:18+0000
+/project/capturer/, capturer, 3.0, Easily capture stdout/stderr of the current process and subprocesses, 2020-03-07T00:34:48+0000
+/project/gettimer/, getTimer, 0.1.2, Get python datetime objects from CLI users easily, 2016-02-14T00:58:13+0000
+/project/xontrib-argcomplete/, xontrib-argcomplete, 0.3.2, Argcomplete support for python and xonsh scripts in xonsh shell., 2021-03-04T18:49:19+0000
+/project/tailhead/, tailhead, 1.0.2, tailhead is a simple implementation of GNU tail and head., 2015-11-04T17:24:35+0000
+/project/xontrib-broot/, xontrib-broot, 0.1.0, broot support function for xonsh shell, 2020-11-25T15:52:30+0000
+/project/xontrib-macro-lib/, xontrib-macro-lib, 0.0.3, Library of the useful macroses for the xonsh shell., 2021-04-01T08:29:19+0000
+/project/xontrib-hist-format/, xontrib-hist-format, 0.0.10, Format xonsh history to post it to Github or another page., 2020-11-06T10:47:17+0000
+/project/xontrib-syslog-shell-profiler/, xontrib-syslog-shell-profiler, 0.1.5, A Xonsh plugin to profile and log command execution to a syslog file., 2021-04-10T20:49:53+0000
+/project/tailer3/, tailer3, 0.3, Python tail is a simple implementation of GNU tail and head., 2013-03-05T16:15:46+0000
+/project/xontrib-sh/, xontrib-sh, 0.3.0, Paste and run commands from bash, zsh, fish, tcsh, pwsh, cmd in xonsh shell., 2021-03-19T16:21:26+0000
+/project/fzsl/, fzsl, 0.4, Fuzzy path searching for shells, 2016-02-06T05:58:05+0000
+/project/netaddr2/, netaddr2, 0.7.19, A network address manipulation library for Python, 2020-05-22T10:27:13+0000
+/project/xontrib-ergopack/, xontrib-ergopack, 0.1.4, Meta package that installs group of ergonomic xontribs in xonsh shell., 2021-03-08T07:17:53+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/xontrib-avox-poetry/, xontrib-avox-poetry, 0.2.1, auto-activate venv as one cd into a poetry project, 2021-03-04T09:11:31+0000
+/project/jsonlike/, jsonlike, 0.0.2, repair and parse invalid but jsonlike content, 2017-01-19T02:32:01+0000
+/project/tmuxomatic/, tmuxomatic, 2.18, Intelligent tmux session management ... #tmux, 2015-07-03T20:24:01+0000
+/project/pshell/, pshell, 1.2.0, An alternative to bash scripts, 2020-07-01T17:58:04+0000
+/project/spellbook/, spellbook, 1.1.5, store and search command lines, 2016-02-11T15:37:09+0000
+/project/offsh-xxh/, offsh-xxh, 1.0.0, Bring your favorite shell wherever you go through the ssh. This is a fork from https://github.com/xxh/xxh with some extra featured designed for https://github.com/offsh/offshell, 2020-12-01T18:13:10+0000
+/project/colouredlogs/, colouredlogs, 10.0.1, Coloured terminal output for Python's logging module, 2019-07-13T20:17:45+0000
+/project/xontrib-prompt-starship/, xontrib-prompt-starship, 0.2.0, Starship prompt in xonsh shell., 2021-03-13T00:47:51+0000
+/project/zenityshell/, ZenityShell, 0.0.1-r001a-ekcebo-ivaritt, Zenity Module with more option embedded for fast integration, 2012-09-18T04:57:36+0000
+/project/xontrib-ergopack/, xontrib-ergopack, 0.1.4, Meta package that installs group of ergonomic xontribs in xonsh shell., 2021-03-08T07:17:53+0000
+/project/setuplib/, setuplib, 0.1.14, Support library functions for extensions and entry points of setuptools / distutils., 2019-12-13T09:54:07+0000
+/project/xontrib-zoxide/, xontrib-zoxide, 0.2.0, Zoxide integration for xonsh, 2021-03-08T18:43:44+0000
+/project/xonsh-autoxsh/, xonsh-autoxsh, 0.3, Auto launcher of `.autoxsh` scripts for Xonsh shell's `cd` function, 2018-03-09T05:50:01+0000
+/project/psysh-kernel/, psysh-kernel, 0.1.4, A PHP kernel for Jupyter/IPython, based on MetaKernel, 2019-02-14T02:15:52+0000
+/project/xontrib-termcolors/, xontrib-termcolors, 0.2.0, Set terminal colors based on selected xonsh theme., 2021-03-11T16:35:15+0000
+/project/lfm/, lfm, 3.1, Last File Manager is a powerful file manager for the UNIX console., 2017-06-25T17:13:14+0000
+/project/xontrib-hist-format/, xontrib-hist-format, 0.0.10, Format xonsh history to post it to Github or another page., 2020-11-06T10:47:17+0000
+/project/xontrib-syslog-shell-profiler/, xontrib-syslog-shell-profiler, 0.1.5, A Xonsh plugin to profile and log command execution to a syslog file., 2021-04-10T20:49:53+0000
+/project/tailer3/, tailer3, 0.3, Python tail is a simple implementation of GNU tail and head., 2013-03-05T16:15:46+0000
+/project/xontrib-sh/, xontrib-sh, 0.3.0, Paste and run commands from bash, zsh, fish, tcsh, pwsh, cmd in xonsh shell., 2021-03-19T16:21:26+0000
+/project/sh-utils/, sh-utils, 0.9, some commands to simplify various things, 2016-02-02T05:46:57+0000
+/project/sourceinfo/, sourceinfo, 0.1.40, Utilities for simplified gain of runtime information on source code and binary locations., 2019-12-13T09:11:10+0000
+/project/doubleplusungood/, doubleplusungood, 0.1, Shameless name-grab for a possible future project, 2020-01-13T15:24:32+0000
+/project/xontrib-argcomplete/, xontrib-argcomplete, 0.3.2, Argcomplete support for python and xonsh scripts in xonsh shell., 2021-03-04T18:49:19+0000
+/project/tailhead/, tailhead, 1.0.2, tailhead is a simple implementation of GNU tail and head., 2015-11-04T17:24:35+0000
+/project/xontrib-broot/, xontrib-broot, 0.1.0, broot support function for xonsh shell, 2020-11-25T15:52:30+0000
+/project/matrixtest/, MatrixTest, 1.2.0, A tool to facilitate matrix test via countless combination of arguments of a command line, 2021-04-03T06:19:44+0000
+/project/xontrib-macro-lib/, xontrib-macro-lib, 0.0.3, Library of the useful macroses for the xonsh shell., 2021-04-01T08:29:19+0000
+/project/uuid64/, uuid64, 0.2.0, Generate 64bit UUIDs, 2014-12-26T18:28:26+0000
+/project/bashful/, bashful, 0.0.4, Because your bash scripts should be quiet and shy (and not such a loudmouth), 2017-09-24T22:13:14+0000
+/project/workenv/, workenv, 2.0.0, Manage local work environments, 2020-06-21T13:59:27+0000

@@ -1,0 +1,564 @@
+/project/wtform/, WTForm, 1.0, WTForm is an extension to the django newforms library., 2008-03-03T14:26:34+0000
+/project/chaostoolkit/, chaostoolkit, 1.9.0, Chaos Engineering Toolkit automation framework, 2021-02-18T10:53:21+0000
+/project/libshorttext/, libshorttext, 1.1.0.0, LibShortText is an open source tool for short-text classification and analysis. It can handle the classification of, for example, titles, questions, sentences, and short messages, 2015-09-29T13:26:02+0000
+/project/logmein-app/, logmein_app, 0.0.2, Connect remotely to a django project, 2014-02-06T16:36:44+0000
+/project/pyrnumerosprimos/, pyRNumerosPrimos, 0.1, Sistema Administrativo de pyRNumerosPrimos, 2021-04-03T13:37:40+0000
+/project/rssd/, rssd, 2021.2.22, Rohde & Schwarz SCPI Driver, 2021-02-22T18:36:27+0000
+/project/macgen/, macgen, 0.1, Utility to generate random MAC addresses, 2020-01-30T14:48:39+0000
+/project/pyresttable/, pyRestTable, 2020.0.3, Format a nice table in reST (reStructuredText) from Python, 2020-11-10T05:56:05+0000
+/project/cpplint/, cpplint, 1.5.4, Automated checker to ensure C++ files follow Google's style guide, 2020-08-18T00:56:56+0000
+/project/costa-ci/, costa-ci, 0.0.4, CI relateds scripts using openstack, 2013-07-22T06:23:52+0000
+/project/fsq-wrapper/, fsq-wrapper, 0.0.5, Test This is a CLI tool to make calls to the foursquare API, 2016-08-05T20:24:56+0000
+/project/vcftoolz/, vcftoolz, 1.2.0, Tools for working with Variant Call Format files., 2019-04-04T15:11:51+0000
+/project/ratelimitqueue/, ratelimitqueue, 0.2.2, A thread safe, rate limited queue., 2018-08-21T12:22:56+0000
+/project/aws-s3-tools/, aws-s3-tools, 0.0.4, AWS S3 tools package, 2021-04-21T12:05:07+0000
+/project/chaostoolkit-service-fabric/, chaostoolkit-service-fabric, 0.1.0, Chaos Toolkit Extension for Microsoft Service Fabric, 2019-04-01T16:39:38+0000
+/project/lairucrem/, lairucrem, 5.3.0, A simple and powerful text-based interactive user interface for Mercurial, 2021-01-21T19:59:44+0000
+/project/sloot-object/, sloot.object, 1.5.1, Object utils to make life easier, 2020-05-14T13:09:06+0000
+/project/p4python/, p4python, 2020.1.2056111, P4Python - Python interface to Perforce API, 2020-12-16T16:32:08+0000
+/project/apstools/, apstools, 1.5.0, Various Python tools for use with the Bluesky Framework at the APS, 2021-04-02T20:49:42+0000
+/project/kubert/, kubert, 0.0.8, A Python Kubernetes API client designed to for making easy to register callbacks for watches, 2021-02-19T12:56:46+0000
+/project/diffcoverage/, diffcoverage, 1.0.3, Measure difference in coverage with a difference patch, 2016-02-03T15:02:43+0000
+/project/nodechalk/, nodechalk, 0.2.0, Terminal string styling for python, 2019-03-11T13:55:49+0000
+/project/listoapi/, listoapi, 0.1.69, Listo SDK module for web API integration, 2021-03-25T17:11:06+0000
+/project/registry/, registry, 0.4.2, Windows registry API, 2009-02-23T16:21:42+0000
+/project/spec2nexus/, spec2nexus, 2021.1.8, Converts SPEC data files and scans into NeXus HDF5 files, 2020-11-10T21:18:24+0000
+/project/terminable-thread/, terminable_thread, 0.7.1, Provides a subclass of Thread with facilities to raise an exception in the thread or terminate the thread from another thread., 2010-09-21T22:22:38+0000
+/project/pybluecat/, pybluecat, 0.1.1, Python wrapper around Bluecat APIs, 2019-04-12T17:38:03+0000
+/project/pyb-init/, pyb_init, 0.2.2, pybuilder project initialization, 2013-07-12T07:58:34+0000
+/project/djangowsgiconfig/, djangowsgiconfig, 0.1.1, a buildout recipe to create apache vhost config based on djangorecipe settings, 2009-08-27T09:02:54+0000
+/project/chaostoolkit-dynatrace/, chaostoolkit-dynatrace, 0.1.0, Dynatrace extension for the Chaos Toolkit, 2020-12-14T15:16:05+0000
+/project/hydratk-client/, hydratk-client, 0.1.0, GUI client for HydraTK, 2018-02-26T16:58:29+0000
+/project/gitrecipe/, gitrecipe, 0.0.2, Simple buildout recipe for downloading git repositories. It uses system git command and its syntax, 2012-02-20T06:24:48+0000
+/project/yospacecds/, yospaceCDS, 1.1.0, Yospace CDS Webservice Client, 2012-07-20T12:26:15+0000
+/project/sky-chaostoolkit-toxiproxy/, sky-chaostoolkit-toxiproxy, 0.1.3, Chaos Toolkit toxiproxy support by SKY, 2019-07-01T16:24:26+0000
+/project/chaostoolkit-k6/, chaostoolkit-k6, 0.2.0, Chaos Toolkit Extension for k6., 2021-01-25T18:26:04+0000
+/project/junit-xml-2/, junit-xml-2, 1.9, Fork of https://github.com/kyrus/python-junit-xml that has tarball published to pypi, 2020-09-30T22:25:59+0000
+/project/pyzz/, pyzz, 0.0.12, , 2020-03-02T22:31:15+0000
+/project/finkelsteinlabpalette/, finkelsteinlabpalette, 1.2.1, Finkelstein Lab standard color palette, 2018-04-03T19:37:33+0000
+/project/cli-dev/, cli-dev, 0.1.1, Register and run a command for each directory, 2014-11-12T16:06:13+0000
+/project/vztcdpchaos-resource/, vztcdpchaos-resource, 1.1.1, Extension for attacking host resources: CPU, Memory, Disk, 2020-03-05T22:03:46+0000
+/project/paymentech/, paymentech, 0.2.3, Python SDK for Chase Paymentech, 2021-03-17T20:40:26+0000
+/project/buildstrap/, buildstrap, 0.4.0, Tool for managing remote repositories from your git CLI!, 2016-06-26T17:29:20+0000
+/project/chaostoolkit-k8s-wix/, chaostoolkit-k8s-wix, 1.4.8, Extended version of Chaos Toolkit Kubernetes support, 2020-12-01T08:17:09+0000
+/project/chaostoolkit-chaosk8ext/, chaostoolkit-chaosk8ext, 0.1.5, Chaos Toolkit k8s driver extension, 2021-03-03T16:13:30+0000
+/project/forked-path/, forked-path, 0.2.3, An object oriented file path module, 2013-01-22T17:00:09+0000
+/project/djinn-contenttypes/, djinn_contenttypes, 1.4.10, Djinn Intranet Contenttypes framework, 2016-07-05T19:12:27+0000
+/project/asprise-ocr-sdk-python-api/, asprise_ocr_sdk_python_api, 15.3.0.8, Asprise OCR (optical character recognition) and barcode recognition SDK is a high performance royalty-free Python API library. It converts images (JPEG, PNG, TIFF, PDF, etc) into text, xml, searchable PDF or editable RTF/Word formats. Data capture are supported for processing documents like invoices and forms., 2015-06-18T07:32:51+0000
+/project/cpypp/, cpypp, 1.1.0, c-style preprocessor for Python, 2020-01-07T01:28:23+0000
+/project/sky-chaostoolkit-toxiproxy-2/, sky-chaostoolkit-toxiproxy-2, 0.1.8, Chaos Toolkit toxiproxy support by SKY, 2019-10-17T13:39:35+0000
+/project/hydratk-ext-security/, hydratk-ext-security, 0.1.1, Interface to security testing tools, 2018-02-26T16:54:26+0000
+/project/pyramid-listing/, pyramid_listing, 0.2.2, Pyramid List Pagination contains helpers for pagination of result lists., 2020-10-05T14:00:22+0000
+/project/fastats-privates/, fastats-privates, 2018.1rc0, A python library using private/hidden python language features, 2018-04-07T17:33:10+0000
+/project/ttree/, ttree, 1.0.3, Taxonomy tree data structure implementation., 2017-12-06T12:50:44+0000
+/project/hydratk-ext-testenv/, hydratk-ext-testenv, 0.2.3, Test environment for test automation exercises, 2018-02-26T16:55:01+0000
+/project/egenix-web-installer-test/, egenix-web-installer-test, 0.2.0, eGenix Web Installer Test Package, 2014-07-02T15:33:45+0000
+/project/linked-properties/, linked-properties, 1.0.0b1, This library allows you to link properties, so if one is changed the others change accordingly., 2016-04-24T11:45:35+0000
+/project/cherrys/, cherrys, 0.4, Redis backend for CherryPy sessions, 2011-09-28T03:50:12+0000
+/project/stereovision/, StereoVision, 1.0.4, Library and utilities for 3d reconstruction from stereo cameras., 2017-04-15T13:15:44+0000
+/project/mercadopago/, mercadopago, 2.0.6, Mercadopago SDK module for Payments integration, 2021-03-25T20:34:25+0000
+/project/mercadopagocts/, mercadopagoCTS, 1.3, Mercadopago SDK module for Payments integration, 2021-03-09T19:35:37+0000
+/project/git-recipe/, git-recipe, 0.2.7, Simple buildout recipe for downloading git repositories. It uses system git command and its syntax, 2019-07-15T02:44:33+0000
+/project/chaostoolkit-saltstack/, chaostoolkit-saltstack, 0.1.0, Chaos Toolkit Extension for SaltStack, 2019-09-17T09:58:49+0000
+/project/djinn-i18n/, djinn_i18n, 1.0.8, Djinn i18n, 2015-11-03T10:48:11+0000
+/project/terra-py/, terra-py, 0.0.0, generate terraform json, 2017-07-11T19:32:03+0000
+/project/jw-sip/, jw.sip, 4.15.2, SIP as a dependency for Python packages, 2013-10-08T17:29:55+0000
+/project/bkcharts/, bkcharts, 0.2, High level chart types built on top of Bokeh, 2017-06-12T20:10:46+0000
+/project/boto3-mocking/, boto3-mocking, 0.1.1, Simplify mocking AWS access through boto3, 2021-02-12T19:39:00+0000
+/project/kernelchecker/, kernelchecker, 1.0.0, Linux kernel version scanner, 2016-05-24T22:07:55+0000
+/project/chaostoolkit-lib/, chaostoolkit-lib, 1.19.0, Chaos Toolkit core library, 2021-02-18T10:26:19+0000
+/project/hgapi/, hgapi, 1.7.4, Python API to Mercurial using the command-line interface, 2017-10-17T15:40:47+0000
+/project/djinn-pages/, djinn_pages, 1.0.5, Djinn Intranet Pages, 2015-11-18T16:38:47+0000
+/project/hydratk-lib-numeric/, hydratk-lib-numeric, 0.1.1, Libraries for numerical computing, data analysis, 2018-02-26T16:47:32+0000
+/project/omnipy/, omnipy, 0.1.2, My misc python library kit in daily data processing., 2014-11-12T03:09:00+0000
+/project/notmuch-abook/, notmuch_abook, 1.7, Notmuch addressbook, 2015-08-24T17:49:08+0000
+/project/deploy-to-heroku/, deploy-to-heroku, 0.0.1, Deploy flask apps to heroku with one command!, 2020-01-12T08:40:35+0000
+/project/proofdock-chaos-cli/, proofdock-chaos-cli, 0.0.8, Chaos command line tool for the Proofdock Chaos Platform, 2021-01-28T15:21:27+0000
+/project/see/, see, 1.4.1, dir for humans, 2017-09-24T04:49:14+0000
+/project/sartoriusb/, SartoriUSB, 0.2.5, pysartoriusb, 2020-10-05T13:43:51+0000
+/project/aws-mfa-tools/, aws-mfa-tools, 0.1.0, AWS MFA tools to be used on command line., 2020-12-30T13:26:37+0000
+/project/cherrybase/, cherrybase, 0.6.1, Wrapper around CherryPy, 2018-03-29T07:44:24+0000
+/project/bokeh/, bokeh, 2.3.1, Interactive plots and applications in the browser from Python, 2021-04-07T18:07:39+0000
+/project/relogger/, relogger, 1.0.2, A syslog sender, relay and receiver., 2015-05-03T06:19:37+0000
+/project/pu-in-core/, pu_in_core, 1.0.4, PythonUnited Intranet Core, 2014-05-27T12:14:32+0000
+/project/simple-json-utils/, simple-json-utils, 1.0.0, Simple Json Utitilies, 2021-03-12T22:27:57+0000
+/project/colorpro/, colorpro, 0.2, Python based optionated color transformation tool., 2015-06-06T13:11:54+0000
+/project/mercadopago-sdk-fork/, mercadopago-sdk-fork, 1.1.3, Mercadopago SDK module for Payments integration, 2020-02-05T11:30:16+0000
+/project/pyaixi/, pyaixi, 1.0.4.post1, A pure Python implementation of the Monte Carlo-AIXI-Context Tree Weighting (MC-AIXI-CTW) artificial intelligence algorithm., 2020-04-04T07:04:42+0000
+/project/butterknife/, butterknife, 0.2.0, Butterknife makes bare-metal Linux deployment dead-simple using the Linux Containers (LXC) and Btrfs filesystem., 2016-05-09T06:12:36+0000
+/project/hydratk-ext-yoda/, hydratk-ext-yoda, 0.2.4, Test Automation Tool, 2018-02-26T16:56:19+0000
+/project/marshmallow-select/, marshmallow-select, 1.0.5, make sqlalchemy select fields with marshmallow schemas, 2017-06-07T20:07:07+0000
+/project/bytesplitter/, ByteSplitter, 1.0.4, A tiny Python utility for splitting any binary files into parts and combining them back, 2019-02-25T17:56:57+0000
+/project/leekoq/, leekoq, 1.0, Python implementation of Keeloq encryption algorithm, 2020-10-20T00:51:21+0000
+/project/cherrypy/, CherryPy, 18.6.0, Object-Oriented HTTP framework, 2020-04-17T18:29:30+0000
+/project/xlogin/, xlogin, 0.0.3, ssh登陆管理工具, 2014-11-22T06:43:22+0000
+/project/chaosiq-cloud/, chaosiq-cloud, 0.15.0, ChaosIQ plugin for the Chaos Toolkit CLI, 2020-09-23T08:55:24+0000
+/project/decode-acc/, decode-acc, 1.1.1, Incrementally decode bytes into strings and lines, 2020-08-31T05:46:18+0000
+/project/aps-bluesky-tools/, APS-BlueSky-tools, 2019.103.0, Various Python tools for use with BlueSky at the APS, 2019-01-03T23:30:55+0000
+/project/certidude/, certidude, 0.1.21, Certidude is a novel X.509 Certificate Authority management tool aiming to support PKCS#11 and in far future WebCrypto., 2016-03-29T19:06:44+0000
+/project/mekoramaqr/, mekoramaqr, 0.1.0, Tools for reading, writing, and editing Mekorama level QR Codes, 2017-11-03T20:38:51+0000
+/project/chaostoolkit-slack/, chaostoolkit-slack, 0.3.0, Chaos Toolkit Extension for Slack, 2020-10-01T13:25:34+0000
+/project/infogen/, infogen, 1.0.0, Personal Information generator.Generate Person Data with all required infomation, 2013-04-22T09:17:27+0000
+/project/lolcommitmsg/, lolcommitmsg, 0.1.0, Make your commit messages lovely, 2016-04-23T14:36:48+0000
+/project/lemuras/, Lemuras, 1.2.3, A small Python library to deal with big tables, 2020-05-02T17:58:59+0000
+/project/openpipe/, openpipe, 1.3.1, A human friendly data-oriented integration toolkit, 2020-03-01T21:26:10+0000
+/project/readerlib/, readerlib, 1.0, A binding for open().read() that provides the ability to read a few letters or more., 2012-08-07T15:43:35+0000
+/project/konstrukteur/, konstrukteur, 0.1.14, Static website generator, 2014-03-20T12:58:31+0000
+/project/kkb/, kkb, 0.6, Django package для работы с КазКоммерцБанк ePay, 2015-03-02T06:58:08+0000
+/project/vztcdpchaos-slack/, vztcdpchaos-slack, 1.2.0, Slack extension for cdp chaos exps, 2020-08-04T21:30:51+0000
+/project/django-deserializer/, django-deserializer, 0.11, A Django Mixin capable of deserializing a request's body into python data structures., 2015-04-27T06:32:14+0000
+/project/mdatapipe/, mdatapipe, 0.0.3, Multiprocess plugin-driven engine for data collecting, analyzing and reporting, 2018-10-07T11:49:20+0000
+/project/chaostoolkit-cloud-foundry/, chaostoolkit-cloud-foundry, 0.7.1, Chaos Toolkit Extension for Cloud Foundry, 2019-03-20T10:04:09+0000
+/project/dinterpol/, dinterpol, 0.3.5, data interpolation templating engine, 2020-05-03T16:49:28+0000
+/project/tmsyscall/, tmsyscall, 0.0.8, Python library for some advanced Linux system calls, 2018-05-28T13:06:19+0000
+/project/gevent-breaker/, gevent-breaker, 1.0.0, Circuitbreaker pattern for gevent apps, 2016-07-18T20:01:15+0000
+/project/triadb/, triadb, 0.9.0, TRIADB - Self-Service Data Management and Analytics Framework, 2019-10-24T11:36:38+0000
+/project/pyprism/, pyPRISM, 1.0.4, A python tool for Polymer Reference Interaction Site Model (PRISM) calculations, 2020-07-01T19:45:40+0000
+/project/ctinspector/, ctinspector, 0.0.3, Show detailed information for docker images, 2018-05-07T21:02:22+0000
+/project/p4p/, p4p, 3.5.3, Python interface to PVAccess protocol client, 2021-02-28T19:12:53+0000
+/project/jsonfromschema/, jsonfromschema, 0.1.4, An implementation of JSON data generator from JSON Schema for Python, 2020-11-13T13:41:44+0000
+/project/iodef/, iodef, 1.0.3, Libraries to generate IODEF XML Documents, 2010-05-23T18:54:58+0000
+/project/i-dunno/, i-dunno, 0.1.3, convert IPv6 or IPv4 addresses into RFC8771-compliant I-DUNNO representation, 2021-03-09T22:26:49+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/pelican-delicious/, pelican-delicious, 0.0.1, Easily embed delicious bookmarks in your Pelican articles., 2013-11-18T14:12:46+0000
+/project/mrwolfe/, mrwolfe, 1.2.0, Django Issue tracker & support system, 2014-06-05T13:57:20+0000
+/project/cypml/, cypml, 1.1.4, Machine learning baseline for crop yield forecasting, 2021-04-12T09:59:08+0000
+/project/saph/, saph, 1.0, Stupid Algorithm for Password Hashing, 2019-11-22T00:36:01+0000
+/project/routerchecker/, routerchecker, 1.1.0, Router firmware update scanner, 2016-05-24T13:09:13+0000
+/project/s2g/, s2g, 0.2.6, Shapefile to graph/network converter in Python, 2017-02-20T03:14:54+0000
+/project/vpscommacc-core/, vpscommacc-core, 1.0.0, Набор полезных функций для повседневной работы и уменьшения размера кода, 2021-04-06T12:51:34+0000
+/project/labmath/, labmath, 1.2.0, Module for basic math in the general vicinity of computational number theory, 2018-11-18T21:23:30+0000
+/project/termdraw/, termdraw, 0.1, Utility library for textual data visualization, 2016-01-21T18:27:50+0000
+/project/djinn-search/, djinn_search, 1.0.7, Djinn Intranet search module, 2016-07-05T19:13:09+0000
+/project/pybiology/, pybiology, 0.0.2, A small example package, 2020-08-18T12:45:19+0000
+/project/arger/, arger, 1.3.8, Create argparser automatically from functions, 2021-04-11T08:22:46+0000
+/project/cfg-diag/, cfg-diag, 0.1.1, A common configuration-storage class with a .diag() method, 2021-03-31T06:15:17+0000
+/project/djinn-profiles/, djinn_profiles, 1.0.6, Djinn Intranet user and group profiles, 2015-11-18T15:34:01+0000
+/project/pyduq/, pyduq, 1.0.5, A tool to validate data accoridng to the University of Queensland conformed dimensions of data quality., 2020-12-31T23:24:35+0000
+/project/chaostoolkit-istio/, chaostoolkit-istio, 0.1.4, Chaos Toolkit Extension for Istio Fault Injection, 2020-04-03T14:32:11+0000
+/project/fooster-curse/, fooster-curse, 0.5.1, rewrite identifiers in Python source code with Unicode characters that still have the same canonical normalization, 2020-11-08T01:29:17+0000
+/project/chaostoolkit-reporting/, chaostoolkit-reporting, 0.13.0, Chaos engineering toolkit reporting library, 2019-04-15T08:55:33+0000
+/project/ttksimpledialog/, ttkSimpleDialog, 1.2.1, ttk themed version of ttkSimpleDialog, 2020-08-16T04:16:10+0000
+/project/django-redirect-middleware/, django-redirect-middleware, 0.0.1, Remake of standart Django redirect middleware, 2012-06-01T09:11:46+0000
+/project/proofdock-chaos-azure/, proofdock-chaos-azure, 1.1.5, Extend the Chaos Toolkit and the Chaos Engineering Platform with capabilities for Microsoft Azure, 2021-03-22T20:48:34+0000
+/project/pylibcontainer/, pylibcontainer, 0.0.6, An OCI runtime specification implementation library, 2018-05-24T16:45:05+0000
+/project/jasy/, jasy, 1.1.1, Web Tooling Framework, 2013-08-15T09:34:50+0000
+/project/demopan/, demopan, 0.4, A cross-platform Source demo organiser, 2015-07-16T16:57:11+0000
+/project/fooster-db/, fooster-db, 0.9.0, a human-readable, magic database in Python, 2020-10-17T19:00:00+0000
+/project/hydratk-ext-trackapps/, hydratk-ext-trackapps, 0.1.3, Interface to bugtracking and test management applications, 2018-02-26T16:55:25+0000
+/project/thapbi-pict/, thapbi-pict, 0.9.1, THAPBI Phytophthora ITS1 Classifier Tool (PICT)., 2021-04-20T11:40:52+0000
+/project/dhtioc/, dhtioc, 1.1.1, Provide humidity and temperature using EPICS and Raspberry Pi., 2020-08-20T14:44:54+0000
+/project/chaosiq/, chaosiq, 0.9.0, ChaosIQ plugins for the Chaos Toolkit project, 2018-03-20T13:11:41+0000
+/project/pytest-consul/, pytest-consul, 0.2.0, pytest plugin with fixtures for testing consul aware apps, 2018-11-24T09:38:19+0000
+/project/chaostoolkit-gremlin-yy/, chaostoolkit-gremlin-yy, 0.3.2, Chaos Toolkit Gremlin, YY. support, 2020-11-05T02:27:08+0000
+/project/zipkin/, zipkin, 0.1.0, python api for sending data to Zipkin, 2016-03-02T19:56:00+0000
+/project/warport/, warport, 0.1, First try to create a report service, 2015-03-19T04:14:17+0000
+/project/egenix-pyopenssl/, egenix-pyopenssl, 0.13.16, eGenix pyOpenSSL Distribution for Python, 2016-11-11T10:00:02+0000
+/project/check-ganglia-metric/, check_ganglia_metric, 2012.02.28, Ganglia metric check plugin for Nagios, 2012-03-01T18:12:00+0000
+/project/trivval/, trivval, 1.1.0, A library for trivial structure validation, 2021-04-07T17:46:33+0000
+/project/osvolbackup/, osvolbackup, 0.0.2, OpenStack volume based backups tool, 2019-03-06T14:54:42+0000
+/project/pygenius/, pygenius, 2.0, Python module for collecting data from rap songs., 2014-07-15T19:45:36+0000
+/project/djinn-workflow/, djinn_workflow, 1.0.0, Djinn Intranet workflow module, 2015-02-10T16:06:43+0000
+/project/orderedmultidict/, orderedmultidict, 1.0.1, Ordered Multivalue Dictionary, 2019-07-10T20:11:45+0000
+/project/metonym/, metonym, 0.2, Getting better path similarity measures from wordnet by graphing the synsets, 2012-02-07T19:12:22+0000
+/project/redsolutioncms-django-tinymce/, redsolutioncms.django-tinymce, 1.6.0, Use the TinyMCE WYSIWYG editor for your form textareas., 2014-05-19T09:13:07+0000
+/project/python-osc/, python-osc, 1.7.4, Open Sound Control server and client implementations in pure Python, 2019-10-10T07:32:28+0000
+/project/stdlogpj/, stdlogpj, 1.0.3, python logging done my way, 2019-11-20T18:48:27+0000
+/project/chaostoolkit-toxiproxy/, chaostoolkit-toxiproxy, 0.3.0, Chaos Toolkit Extension for managing toxiproxy from an experiment, 2020-05-13T07:36:22+0000
+/project/libwayback/, libwayback, 1.0, A library to parse Wayback Machine of archive.org to get a historical views of web pages., 2013-06-12T13:36:11+0000
+/project/chaostoolkit-ansible/, chaostoolkit-ansible, 0.2.0, Chaos toolkit Extension for using ansible as event execution tool, 2021-03-07T15:37:21+0000
+/project/confget/, confget, 2.3.4, Parse configuration files and extract values from them, 2020-05-05T19:00:10+0000
+/project/bedlam/, bedlam, 0.0.1, UNKNOWN, 2016-09-13T04:26:36+0000
+/project/neuralknight/, neuralknight, 1.0.2, A Chess-playing AI, 2018-07-11T21:42:22+0000
+/project/chaostoolkit-aws/, chaostoolkit-aws, 0.16.0, Chaos Toolkit Extension for AWS, 2020-10-01T14:09:44+0000
+/project/buildflaskapp/, buildflaskapp, 0.3.5, A flask app generator package, 2020-07-30T17:30:44+0000
+/project/e-s-p-hadouken/, E.S.P.-Hadouken, 0.2.1, Guide the dot through each level without touching the black areas, 2012-06-07T09:29:22+0000
+/project/chaostoolkit-kubernetes/, chaostoolkit-kubernetes, 0.25.1, Chaos Toolkit Extension for Kubernetes, 2021-02-10T10:04:11+0000
+/project/paipage/, PaiPage, 1.0.3, A small Python library to deal with big tables, 2020-11-09T20:24:43+0000
+/project/aws-mfa-login/, aws-mfa-login, 1.0.1, Generates environment variables for MFA auth against AWS CLI. Python 3.3+., 2018-05-08T14:32:18+0000
+/project/lg-cpplint/, lg-cpplint, 0.1.3, Automated checker to ensure C++ files follow Google's style guide, 2020-06-25T13:44:58+0000
+/project/w20e-pycms/, w20e.pycms, 1.1.2b, Pyramid CMS, 2013-02-05T11:46:10+0000
+/project/bokeh-wordcloud2/, bokeh-wordcloud2, 0.9.1, a bokeh extension that implements a wordcloud (https://wordcloud2-js.timdream.org), 2019-06-29T07:51:10+0000
+/project/checkmyclones/, checkmyclones, 0.0.10, Provides tools to check Sanger sequencing results
+	      (or any plain-text or FASTQ files) against a set of reference
+	      sequences, provided in any reasonable format (including coordinates), 2011-09-16T22:03:47+0000
+/project/djinn-likes/, djinn_likes, 1.0.6, Djinn Intranet Likes, 2016-07-05T19:15:55+0000
+/project/djinn-auth/, djinn_auth, 1.0.7, Djinn Intranet auth module, role based, 2016-07-05T19:14:48+0000
+/project/django-jux/, django-jux, 1.0.2, JUnit-style XML output for Django tests, 2011-09-15T21:14:00+0000
+/project/biopython/, biopython, 1.78, Freely available tools for computational molecular biology., 2020-09-04T11:51:37+0000
+/project/didsho/, didsho, 1.5, Didsho SDK for python telegram bot @didshobot, 2017-06-29T11:35:04+0000
+/project/wallace/, Wallace, 0.9.1, An API for modeling data with psycopg2, redis-py, and pymongo., 2017-03-08T04:46:37+0000
+/project/pu-in-content/, pu_in_content, 1.0.2, PythonUnited Intranet Content, 2014-03-04T15:37:54+0000
+/project/hydratk/, hydratk, 0.6.0, Fully extendable object oriented application toolkit with nice modular architecture, 2018-02-26T16:57:11+0000
+/project/storpool-charms-manage/, storpool-charms-manage, 0.1.0, Build, deploy, and configure the StorPool Juju charms, 2018-10-19T07:10:30+0000
+/project/feature-check/, feature-check, 0.2.1, Query a program for supported features, 2018-11-23T22:18:27+0000
+/project/zenityshell/, ZenityShell, 0.0.1-r001a-ekcebo-ivaritt, Zenity Module with more option embedded for fast integration, 2012-09-18T04:57:36+0000
+/project/django-icetea/, django-icetea, 0.5, REST API Framework, 2013-01-22T16:04:08+0000
+/project/biofits/, biofits, 0.26, Common biochemical data fitting functions, 2018-06-27T15:58:44+0000
+/project/chaostoolkit-opentracing/, chaostoolkit-opentracing, 0.2.1, Chaos Toolkit OpenTracing Extension, 2019-11-05T06:54:33+0000
+/project/nifty/, nifty, 1.6.3, Interactive command-line helper, 2014-05-31T05:26:53+0000
+/project/sky-chaostoolkit-prometheus/, sky-chaostoolkit-prometheus, 0.3.5, Chaos Toolkit Prometheus support by SKY, 2019-10-16T15:59:59+0000
+/project/chaostoolkit-humio/, chaostoolkit-humio, 0.5.1, Chaos Toolkit Humio Extension, 2020-03-10T15:30:34+0000
+/project/pvmail/, PvMail, 3.2.8, Watch an EPICS PV. Send email when it changes from 0 to 1., 2017-04-01T18:25:17+0000
+/project/chaostoolkit-gandi/, chaostoolkit-gandi, 0.1.2, Gandi extension for the Chaos Toolkit, 2020-04-24T14:12:00+0000
+/project/django-firestone/, django-firestone, 0.5.3, REST API Framework, 2015-04-22T17:47:01+0000
+/project/fakegit/, fakegit, 0.1, A great tool to fool yourself and others, 2016-07-06T15:34:43+0000
+/project/punx/, punx, 0.2.5, Python Utilities for NeXus, 2020-06-29T23:46:05+0000
+/project/diaper/, diaper, 1.3, Python Diaper, 2016-01-21T18:27:00+0000
+/project/hello-world-gnits/, hello-world-gnits, 0.0.4, Hello world, 2020-02-11T00:48:55+0000
+/project/scrap-google-images/, scrap-google-images, 1.0.0, scrap/download google images, 2017-09-19T09:43:34+0000
+/project/chaostoolkit-prometheus/, chaostoolkit-prometheus, 0.3.0, Chaos Toolkit Prometheus support, 2017-12-17T19:27:32+0000
+/project/skt-hello-world/, skt-hello-world, 0.0.1, Prints skt hello world!, 2020-03-28T12:09:55+0000
+/project/nd2reader/, nd2reader, 3.3.0, A tool for reading ND2 files produced by NIS Elements, 2021-04-24T14:02:10+0000
+/project/junit-xml/, junit-xml, 1.9, Creates JUnit XML test result documents that can be read by tools such as Jenkins, 2020-02-22T20:41:37+0000
+/project/bbarchivist/, bbarchivist, 4.0.0, BlackBerry OS tools, in Pythons, 2019-09-02T14:02:06+0000
+/project/comto-dadata/, comto-dadata, 4.1.2, Работа с сервисом "dadata.ru": запросы, обработка, итд, 2021-01-09T09:02:27+0000
+/project/lomp/, lomp, 0.0.8, Memory-efficient parallelism, 2018-04-29T02:52:21+0000
+/project/vztcdpchaos-network/, vztcdpchaos-network, 1.6.4, Extension for creating network faults, 2020-11-02T14:43:18+0000
+/project/chaostoolkit-oci/, chaostoolkit-oci, 0.2.0, Chaos Toolkit Extension for OCI, 2020-07-29T11:48:28+0000
+/project/chaostoolkit-docker-swarm/, chaostoolkit-docker-swarm, 0.3.0, Chaos Toolkit Extension for Docker Swarm, 2020-03-10T23:36:08+0000
+/project/gitissius/, Gitissius, 0.1.6, Distributed bug tracking for Git., 2011-11-20T23:14:14+0000
+/project/confget/, confget, 2.3.4, Parse configuration files and extract values from them, 2020-05-05T19:00:10+0000
+/project/bedlam/, bedlam, 0.0.1, UNKNOWN, 2016-09-13T04:26:36+0000
+/project/wallace/, Wallace, 0.9.1, An API for modeling data with psycopg2, redis-py, and pymongo., 2017-03-08T04:46:37+0000
+/project/pu-in-content/, pu_in_content, 1.0.2, PythonUnited Intranet Content, 2014-03-04T15:37:54+0000
+/project/hydratk/, hydratk, 0.6.0, Fully extendable object oriented application toolkit with nice modular architecture, 2018-02-26T16:57:11+0000
+/project/storpool-charms-manage/, storpool-charms-manage, 0.1.0, Build, deploy, and configure the StorPool Juju charms, 2018-10-19T07:10:30+0000
+/project/feature-check/, feature-check, 0.2.1, Query a program for supported features, 2018-11-23T22:18:27+0000
+/project/zenityshell/, ZenityShell, 0.0.1-r001a-ekcebo-ivaritt, Zenity Module with more option embedded for fast integration, 2012-09-18T04:57:36+0000
+/project/django-icetea/, django-icetea, 0.5, REST API Framework, 2013-01-22T16:04:08+0000
+/project/biofits/, biofits, 0.26, Common biochemical data fitting functions, 2018-06-27T15:58:44+0000
+/project/chaostoolkit-opentracing/, chaostoolkit-opentracing, 0.2.1, Chaos Toolkit OpenTracing Extension, 2019-11-05T06:54:33+0000
+/project/nifty/, nifty, 1.6.3, Interactive command-line helper, 2014-05-31T05:26:53+0000
+/project/sky-chaostoolkit-prometheus/, sky-chaostoolkit-prometheus, 0.3.5, Chaos Toolkit Prometheus support by SKY, 2019-10-16T15:59:59+0000
+/project/chaostoolkit-humio/, chaostoolkit-humio, 0.5.1, Chaos Toolkit Humio Extension, 2020-03-10T15:30:34+0000
+/project/pvmail/, PvMail, 3.2.8, Watch an EPICS PV. Send email when it changes from 0 to 1., 2017-04-01T18:25:17+0000
+/project/chaostoolkit-gandi/, chaostoolkit-gandi, 0.1.2, Gandi extension for the Chaos Toolkit, 2020-04-24T14:12:00+0000
+/project/django-firestone/, django-firestone, 0.5.3, REST API Framework, 2015-04-22T17:47:01+0000
+/project/fakegit/, fakegit, 0.1, A great tool to fool yourself and others, 2016-07-06T15:34:43+0000
+/project/punx/, punx, 0.2.5, Python Utilities for NeXus, 2020-06-29T23:46:05+0000
+/project/diaper/, diaper, 1.3, Python Diaper, 2016-01-21T18:27:00+0000
+/project/hello-world-gnits/, hello-world-gnits, 0.0.4, Hello world, 2020-02-11T00:48:55+0000
+/project/scrap-google-images/, scrap-google-images, 1.0.0, scrap/download google images, 2017-09-19T09:43:34+0000
+/project/trakt/, trakt, 3.1.0, Pythonic abstraction layer for easier scripting of the Trakt.tv REST API., 2021-04-11T01:47:49+0000
+/project/pyluxafor-mac/, pyluxafor-mac, 0.0.3, A Python3 api and cli for the LuxaforFlag for mac, 2019-04-03T04:52:06+0000
+/project/sss/, sss, 1.2, Simple Scrum System is a basic Django-based Scrum-like project manager. It takes advantage of the automagic admin contrib site., 2010-12-03T22:13:01+0000
+/project/super-mario/, super-mario, 0.0.4, Library for separating data input, output and processing in your business application., 2021-01-14T15:32:48+0000
+/project/scirocco-pyclient/, scirocco-pyclient, v2.1.3, Client library for scirocco proyect., 2016-11-22T21:50:59+0000
+/project/vztcdpchaos-aws/, vztcdpchaos-aws, 0.1.8, vzt-cdp-chaos extension for AWS, 2019-10-22T19:47:38+0000
+/project/shpaml/, shpaml, 0.93, Light syntax layer for HTML, 2010-01-15T18:34:53+0000
+/project/chaostoolkit-google-cloud-platform/, chaostoolkit-google-cloud-platform, 0.2.1, Chaos Toolkit Extension for Google Cloud Platform, 2020-04-30T20:45:44+0000
+/project/build-flask-login/, build-flask-login, 0.0.1, A registration system generator package, 2020-01-05T12:42:45+0000
+/project/chaostoolkit-spring/, chaostoolkit-spring, 0.2.0, Chaos Toolkit Driver for Spring Chaos., 2018-11-20T08:06:48+0000
+/project/chaostoolkit-azure/, chaostoolkit-azure, 0.9.0, Chaos Toolkit Extension for Microsoft Azure, 2021-03-15T21:13:52+0000
+/project/pluralcode/, pluralcode, 0.0.1, WIP Pluralcode library, 2021-04-15T18:49:00+0000
+/project/build-scenarist/, build-scenarist, 1.2.0, Make-like utility to execute platform-dependent scripts (scenarios) written in Python 3. Format of scenario-name consist information about platform it written. Scenarios consist of targets, 2021-02-01T10:28:14+0000
+/project/bokeh-wordcloud2/, bokeh-wordcloud2, 0.9.1, a bokeh extension that implements a wordcloud (https://wordcloud2-js.timdream.org), 2019-06-29T07:51:10+0000
+/project/checkmyclones/, checkmyclones, 0.0.10, Provides tools to check Sanger sequencing results
+	      (or any plain-text or FASTQ files) against a set of reference
+	      sequences, provided in any reasonable format (including coordinates), 2011-09-16T22:03:47+0000
+/project/immutable/, immutable, 0.0.2, Simple immutable object factory, 2015-11-15T19:55:49+0000
+/project/chaostoolkit-gremlin/, chaostoolkit-gremlin, 0.3.0, Chaos Toolkit Gremlin, Inc. support, 2017-12-12T15:58:00+0000
+/project/eyelogic-sdk/, eyelogic-sdk, 1.1.4, Python wrapper for the EyeLogic eye tracking API, 2021-04-12T16:22:05+0000
+/project/proofdock-chaos-kit/, proofdock-chaos-kit, 1.0.5, Extend the Chaos Toolkit with capabilities for the Proofdock Chaos Engineering Platform, 2020-10-26T16:34:32+0000
+/project/comto-core/, comto-core, 2.0.0, Набор полезных функций для повседневной работы и уменьшения размера кода, 2021-01-04T14:49:34+0000
+/project/mountepy/, mountepy, 0.4.1, Utilities for creating (micro)service tests. Based on Mountebank., 2017-02-23T21:48:00+0000
+/project/hydratk-ext-datagen/, hydratk-ext-datagen, 0.1.3, Utilities for data generation, 2018-02-26T16:54:04+0000
+/project/djinn-events/, djinn_events, 1.0.10, Djinn Intranet Events, 2015-11-18T21:41:42+0000
+/project/flattenlist/, FlattenList, 0.1.4, Given a list of nested lists/tuples, returns all the elements in a single list, 2015-01-29T12:27:44+0000
+/project/hydratk-lib-network/, hydratk-lib-network, 0.2.2, Clients/API for many network protocols and technologies, 2018-02-26T16:52:01+0000
+/project/autocheck/, autocheck, 0.2.7, Improved unittest test runner, 2015-05-07T08:26:09+0000
+/project/todo2/, todo2, 1.1.0, A python todo generator., 2017-08-15T08:23:06+0000
+/project/anyconf/, anyconf, 0.1.0, Load configuration data from many file formats, 2012-02-14T16:37:02+0000
+/project/fooster-cron/, fooster-cron, 0.9.0, a small cron-like scheduler in Python, 2020-10-17T19:02:12+0000
+/project/trivver/, trivver, 1.0.1, A library for comparing version strings, 2021-03-30T19:26:38+0000
+/project/trivrepr/, trivrepr, 0.1.1, Provide a helper for creating repr() strings, 2019-03-07T12:42:55+0000
+/project/djinn-core/, djinn_core, 1.2.10, Djinn Intranet core, 2016-10-03T13:26:33+0000
+/project/fastapi-permissions/, fastapi_permissions, 0.2.7, Row Level Permissions for FastAPI, 2020-10-05T14:18:40+0000
+/project/fooster-web/, fooster-web, 0.4.0rc1, a small, process-pooled web server utilizing the built-in Python socketserver, 2020-11-23T22:05:06+0000
+/project/scp-marvin/, scp-marvin, 1.0.1, SCP Wiki entry retrieval script, 2015-11-10T18:39:57+0000
+/project/fit-neuron/, fit_neuron, 0.0.6, Package for estimation and evaluation of neural models from patch clamp neural recordings., 2014-04-06T05:07:22+0000
+/project/spot/, spot, 0.1a, DotCloud environment loader, 2012-05-20T04:20:14+0000
+/project/senzafine-analytica/, senzafine_analytica, 0.1, Senzafine Analytica Service API, 2011-05-18T17:19:40+0000
+/project/cherryontop/, CherryOnTop, 1.0, Helper utilities for building JSON APIs with CherryPy., 2018-02-16T16:04:33+0000
+/project/xspecfeeder/, XSPECfeeder, 0.5.0, Scientific data management, 2011-08-28T08:53:03+0000
+/project/wtform/, WTForm, 1.0, WTForm is an extension to the django newforms library., 2008-03-03T14:26:34+0000
+/project/chaostoolkit/, chaostoolkit, 1.9.0, Chaos Engineering Toolkit automation framework, 2021-02-18T10:53:21+0000
+/project/libshorttext/, libshorttext, 1.1.0.0, LibShortText is an open source tool for short-text classification and analysis. It can handle the classification of, for example, titles, questions, sentences, and short messages, 2015-09-29T13:26:02+0000
+/project/logmein-app/, logmein_app, 0.0.2, Connect remotely to a django project, 2014-02-06T16:36:44+0000
+/project/pyrnumerosprimos/, pyRNumerosPrimos, 0.1, Sistema Administrativo de pyRNumerosPrimos, 2021-04-03T13:37:40+0000
+/project/rssd/, rssd, 2021.2.22, Rohde & Schwarz SCPI Driver, 2021-02-22T18:36:27+0000
+/project/macgen/, macgen, 0.1, Utility to generate random MAC addresses, 2020-01-30T14:48:39+0000
+/project/pyresttable/, pyRestTable, 2020.0.3, Format a nice table in reST (reStructuredText) from Python, 2020-11-10T05:56:05+0000
+/project/cpplint/, cpplint, 1.5.4, Automated checker to ensure C++ files follow Google's style guide, 2020-08-18T00:56:56+0000
+/project/costa-ci/, costa-ci, 0.0.4, CI relateds scripts using openstack, 2013-07-22T06:23:52+0000
+/project/fsq-wrapper/, fsq-wrapper, 0.0.5, Test This is a CLI tool to make calls to the foursquare API, 2016-08-05T20:24:56+0000
+/project/vcftoolz/, vcftoolz, 1.2.0, Tools for working with Variant Call Format files., 2019-04-04T15:11:51+0000
+/project/ratelimitqueue/, ratelimitqueue, 0.2.2, A thread safe, rate limited queue., 2018-08-21T12:22:56+0000
+/project/aws-s3-tools/, aws-s3-tools, 0.0.4, AWS S3 tools package, 2021-04-21T12:05:07+0000
+/project/chaostoolkit-service-fabric/, chaostoolkit-service-fabric, 0.1.0, Chaos Toolkit Extension for Microsoft Service Fabric, 2019-04-01T16:39:38+0000
+/project/lairucrem/, lairucrem, 5.3.0, A simple and powerful text-based interactive user interface for Mercurial, 2021-01-21T19:59:44+0000
+/project/sloot-object/, sloot.object, 1.5.1, Object utils to make life easier, 2020-05-14T13:09:06+0000
+/project/p4python/, p4python, 2020.1.2056111, P4Python - Python interface to Perforce API, 2020-12-16T16:32:08+0000
+/project/apstools/, apstools, 1.5.0, Various Python tools for use with the Bluesky Framework at the APS, 2021-04-02T20:49:42+0000
+/project/kubert/, kubert, 0.0.8, A Python Kubernetes API client designed to for making easy to register callbacks for watches, 2021-02-19T12:56:46+0000
+/project/diffcoverage/, diffcoverage, 1.0.3, Measure difference in coverage with a difference patch, 2016-02-03T15:02:43+0000
+/project/nodechalk/, nodechalk, 0.2.0, Terminal string styling for python, 2019-03-11T13:55:49+0000
+/project/paymentech/, paymentech, 0.2.3, Python SDK for Chase Paymentech, 2021-03-17T20:40:26+0000
+/project/buildstrap/, buildstrap, 0.4.0, Tool for managing remote repositories from your git CLI!, 2016-06-26T17:29:20+0000
+/project/chaostoolkit-k8s-wix/, chaostoolkit-k8s-wix, 1.4.8, Extended version of Chaos Toolkit Kubernetes support, 2020-12-01T08:17:09+0000
+/project/pyramid-listing/, pyramid_listing, 0.2.2, Pyramid List Pagination contains helpers for pagination of result lists., 2020-10-05T14:00:22+0000
+/project/fastats-privates/, fastats-privates, 2018.1rc0, A python library using private/hidden python language features, 2018-04-07T17:33:10+0000
+/project/vztcdpchaos-resource/, vztcdpchaos-resource, 1.1.1, Extension for attacking host resources: CPU, Memory, Disk, 2020-03-05T22:03:46+0000
+/project/chaostoolkit-chaosk8ext/, chaostoolkit-chaosk8ext, 0.1.5, Chaos Toolkit k8s driver extension, 2021-03-03T16:13:30+0000
+/project/listoapi/, listoapi, 0.1.69, Listo SDK module for web API integration, 2021-03-25T17:11:06+0000
+/project/registry/, registry, 0.4.2, Windows registry API, 2009-02-23T16:21:42+0000
+/project/forked-path/, forked-path, 0.2.3, An object oriented file path module, 2013-01-22T17:00:09+0000
+/project/djinn-contenttypes/, djinn_contenttypes, 1.4.10, Djinn Intranet Contenttypes framework, 2016-07-05T19:12:27+0000
+/project/asprise-ocr-sdk-python-api/, asprise_ocr_sdk_python_api, 15.3.0.8, Asprise OCR (optical character recognition) and barcode recognition SDK is a high performance royalty-free Python API library. It converts images (JPEG, PNG, TIFF, PDF, etc) into text, xml, searchable PDF or editable RTF/Word formats. Data capture are supported for processing documents like invoices and forms., 2015-06-18T07:32:51+0000
+/project/cpypp/, cpypp, 1.1.0, c-style preprocessor for Python, 2020-01-07T01:28:23+0000
+/project/sky-chaostoolkit-toxiproxy-2/, sky-chaostoolkit-toxiproxy-2, 0.1.8, Chaos Toolkit toxiproxy support by SKY, 2019-10-17T13:39:35+0000
+/project/spec2nexus/, spec2nexus, 2021.1.8, Converts SPEC data files and scans into NeXus HDF5 files, 2020-11-10T21:18:24+0000
+/project/terminable-thread/, terminable_thread, 0.7.1, Provides a subclass of Thread with facilities to raise an exception in the thread or terminate the thread from another thread., 2010-09-21T22:22:38+0000
+/project/pybluecat/, pybluecat, 0.1.1, Python wrapper around Bluecat APIs, 2019-04-12T17:38:03+0000
+/project/pyb-init/, pyb_init, 0.2.2, pybuilder project initialization, 2013-07-12T07:58:34+0000
+/project/djangowsgiconfig/, djangowsgiconfig, 0.1.1, a buildout recipe to create apache vhost config based on djangorecipe settings, 2009-08-27T09:02:54+0000
+/project/chaostoolkit-dynatrace/, chaostoolkit-dynatrace, 0.1.0, Dynatrace extension for the Chaos Toolkit, 2020-12-14T15:16:05+0000
+/project/hydratk-client/, hydratk-client, 0.1.0, GUI client for HydraTK, 2018-02-26T16:58:29+0000
+/project/gitrecipe/, gitrecipe, 0.0.2, Simple buildout recipe for downloading git repositories. It uses system git command and its syntax, 2012-02-20T06:24:48+0000
+/project/yospacecds/, yospaceCDS, 1.1.0, Yospace CDS Webservice Client, 2012-07-20T12:26:15+0000
+/project/sky-chaostoolkit-toxiproxy/, sky-chaostoolkit-toxiproxy, 0.1.3, Chaos Toolkit toxiproxy support by SKY, 2019-07-01T16:24:26+0000
+/project/hydratk-ext-security/, hydratk-ext-security, 0.1.1, Interface to security testing tools, 2018-02-26T16:54:26+0000
+/project/chaostoolkit-k6/, chaostoolkit-k6, 0.2.0, Chaos Toolkit Extension for k6., 2021-01-25T18:26:04+0000
+/project/junit-xml-2/, junit-xml-2, 1.9, Fork of https://github.com/kyrus/python-junit-xml that has tarball published to pypi, 2020-09-30T22:25:59+0000
+/project/pyzz/, pyzz, 0.0.12, , 2020-03-02T22:31:15+0000
+/project/finkelsteinlabpalette/, finkelsteinlabpalette, 1.2.1, Finkelstein Lab standard color palette, 2018-04-03T19:37:33+0000
+/project/cli-dev/, cli-dev, 0.1.1, Register and run a command for each directory, 2014-11-12T16:06:13+0000
+/project/ttree/, ttree, 1.0.3, Taxonomy tree data structure implementation., 2017-12-06T12:50:44+0000
+/project/stereovision/, StereoVision, 1.0.4, Library and utilities for 3d reconstruction from stereo cameras., 2017-04-15T13:15:44+0000
+/project/mercadopagocts/, mercadopagoCTS, 1.3, Mercadopago SDK module for Payments integration, 2021-03-09T19:35:37+0000
+/project/pyprism/, pyPRISM, 1.0.4, A python tool for Polymer Reference Interaction Site Model (PRISM) calculations, 2020-07-01T19:45:40+0000
+/project/ctinspector/, ctinspector, 0.0.3, Show detailed information for docker images, 2018-05-07T21:02:22+0000
+/project/chaostoolkit-saltstack/, chaostoolkit-saltstack, 0.1.0, Chaos Toolkit Extension for SaltStack, 2019-09-17T09:58:49+0000
+/project/djinn-i18n/, djinn_i18n, 1.0.8, Djinn i18n, 2015-11-03T10:48:11+0000
+/project/terra-py/, terra-py, 0.0.0, generate terraform json, 2017-07-11T19:32:03+0000
+/project/jsonfromschema/, jsonfromschema, 0.1.4, An implementation of JSON data generator from JSON Schema for Python, 2020-11-13T13:41:44+0000
+/project/jw-sip/, jw.sip, 4.15.2, SIP as a dependency for Python packages, 2013-10-08T17:29:55+0000
+/project/bkcharts/, bkcharts, 0.2, High level chart types built on top of Bokeh, 2017-06-12T20:10:46+0000
+/project/boto3-mocking/, boto3-mocking, 0.1.1, Simplify mocking AWS access through boto3, 2021-02-12T19:39:00+0000
+/project/iodef/, iodef, 1.0.3, Libraries to generate IODEF XML Documents, 2010-05-23T18:54:58+0000
+/project/i-dunno/, i-dunno, 0.1.3, convert IPv6 or IPv4 addresses into RFC8771-compliant I-DUNNO representation, 2021-03-09T22:26:49+0000
+/project/piratebaybua/, PirateBayBUA, 0.0.1r004-apha-chyctu, PirateBay Json, Python Query analysis, implemented with Better User Agent and Aparatus in << Software Pirating Analysis >> know in detection of malware, virus and Evil intention., 2013-09-04T20:58:08+0000
+/project/pelican-delicious/, pelican-delicious, 0.0.1, Easily embed delicious bookmarks in your Pelican articles., 2013-11-18T14:12:46+0000
+/project/mrwolfe/, mrwolfe, 1.2.0, Django Issue tracker & support system, 2014-06-05T13:57:20+0000
+/project/cypml/, cypml, 1.1.4, Machine learning baseline for crop yield forecasting, 2021-04-12T09:59:08+0000
+/project/saph/, saph, 1.0, Stupid Algorithm for Password Hashing, 2019-11-22T00:36:01+0000
+/project/routerchecker/, routerchecker, 1.1.0, Router firmware update scanner, 2016-05-24T13:09:13+0000
+/project/aws-mfa-tools/, aws-mfa-tools, 0.1.0, AWS MFA tools to be used on command line., 2020-12-30T13:26:37+0000
+/project/bokeh/, bokeh, 2.3.1, Interactive plots and applications in the browser from Python, 2021-04-07T18:07:39+0000
+/project/relogger/, relogger, 1.0.2, A syslog sender, relay and receiver., 2015-05-03T06:19:37+0000
+/project/pu-in-core/, pu_in_core, 1.0.4, PythonUnited Intranet Core, 2014-05-27T12:14:32+0000
+/project/simple-json-utils/, simple-json-utils, 1.0.0, Simple Json Utitilies, 2021-03-12T22:27:57+0000
+/project/colorpro/, colorpro, 0.2, Python based optionated color transformation tool., 2015-06-06T13:11:54+0000
+/project/mercadopago-sdk-fork/, mercadopago-sdk-fork, 1.1.3, Mercadopago SDK module for Payments integration, 2020-02-05T11:30:16+0000
+/project/pyaixi/, pyaixi, 1.0.4.post1, A pure Python implementation of the Monte Carlo-AIXI-Context Tree Weighting (MC-AIXI-CTW) artificial intelligence algorithm., 2020-04-04T07:04:42+0000
+/project/butterknife/, butterknife, 0.2.0, Butterknife makes bare-metal Linux deployment dead-simple using the Linux Containers (LXC) and Btrfs filesystem., 2016-05-09T06:12:36+0000
+/project/hydratk-ext-yoda/, hydratk-ext-yoda, 0.2.4, Test Automation Tool, 2018-02-26T16:56:19+0000
+/project/djinn-profiles/, djinn_profiles, 1.0.6, Djinn Intranet user and group profiles, 2015-11-18T15:34:01+0000
+/project/pyduq/, pyduq, 1.0.5, A tool to validate data accoridng to the University of Queensland conformed dimensions of data quality., 2020-12-31T23:24:35+0000
+/project/django-redirect-middleware/, django-redirect-middleware, 0.0.1, Remake of standart Django redirect middleware, 2012-06-01T09:11:46+0000
+/project/redsolutioncms-django-tinymce/, redsolutioncms.django-tinymce, 1.6.0, Use the TinyMCE WYSIWYG editor for your form textareas., 2014-05-19T09:13:07+0000
+/project/python-osc/, python-osc, 1.7.4, Open Sound Control server and client implementations in pure Python, 2019-10-10T07:32:28+0000
+/project/proofdock-chaos-azure/, proofdock-chaos-azure, 1.1.5, Extend the Chaos Toolkit and the Chaos Engineering Platform with capabilities for Microsoft Azure, 2021-03-22T20:48:34+0000
+/project/pylibcontainer/, pylibcontainer, 0.0.6, An OCI runtime specification implementation library, 2018-05-24T16:45:05+0000
+/project/certidude/, certidude, 0.1.21, Certidude is a novel X.509 Certificate Authority management tool aiming to support PKCS#11 and in far future WebCrypto., 2016-03-29T19:06:44+0000
+/project/mekoramaqr/, mekoramaqr, 0.1.0, Tools for reading, writing, and editing Mekorama level QR Codes, 2017-11-03T20:38:51+0000
+/project/chaostoolkit-slack/, chaostoolkit-slack, 0.3.0, Chaos Toolkit Extension for Slack, 2020-10-01T13:25:34+0000
+/project/infogen/, infogen, 1.0.0, Personal Information generator.Generate Person Data with all required infomation, 2013-04-22T09:17:27+0000
+/project/lolcommitmsg/, lolcommitmsg, 0.1.0, Make your commit messages lovely, 2016-04-23T14:36:48+0000
+/project/hydratk-ext-testenv/, hydratk-ext-testenv, 0.2.3, Test environment for test automation exercises, 2018-02-26T16:55:01+0000
+/project/egenix-web-installer-test/, egenix-web-installer-test, 0.2.0, eGenix Web Installer Test Package, 2014-07-02T15:33:45+0000
+/project/linked-properties/, linked-properties, 1.0.0b1, This library allows you to link properties, so if one is changed the others change accordingly., 2016-04-24T11:45:35+0000
+/project/cherrys/, cherrys, 0.4, Redis backend for CherryPy sessions, 2011-09-28T03:50:12+0000
+/project/mercadopago/, mercadopago, 2.0.6, Mercadopago SDK module for Payments integration, 2021-03-25T20:34:25+0000
+/project/git-recipe/, git-recipe, 0.2.7, Simple buildout recipe for downloading git repositories. It uses system git command and its syntax, 2019-07-15T02:44:33+0000
+/project/lemuras/, Lemuras, 1.2.3, A small Python library to deal with big tables, 2020-05-02T17:58:59+0000
+/project/openpipe/, openpipe, 1.3.1, A human friendly data-oriented integration toolkit, 2020-03-01T21:26:10+0000
+/project/readerlib/, readerlib, 1.0, A binding for open().read() that provides the ability to read a few letters or more., 2012-08-07T15:43:35+0000
+/project/konstrukteur/, konstrukteur, 0.1.14, Static website generator, 2014-03-20T12:58:31+0000
+/project/kkb/, kkb, 0.6, Django package для работы с КазКоммерцБанк ePay, 2015-03-02T06:58:08+0000
+/project/vztcdpchaos-slack/, vztcdpchaos-slack, 1.2.0, Slack extension for cdp chaos exps, 2020-08-04T21:30:51+0000
+/project/django-deserializer/, django-deserializer, 0.11, A Django Mixin capable of deserializing a request's body into python data structures., 2015-04-27T06:32:14+0000
+/project/mdatapipe/, mdatapipe, 0.0.3, Multiprocess plugin-driven engine for data collecting, analyzing and reporting, 2018-10-07T11:49:20+0000
+/project/chaostoolkit-cloud-foundry/, chaostoolkit-cloud-foundry, 0.7.1, Chaos Toolkit Extension for Cloud Foundry, 2019-03-20T10:04:09+0000
+/project/dinterpol/, dinterpol, 0.3.5, data interpolation templating engine, 2020-05-03T16:49:28+0000
+/project/tmsyscall/, tmsyscall, 0.0.8, Python library for some advanced Linux system calls, 2018-05-28T13:06:19+0000
+/project/gevent-breaker/, gevent-breaker, 1.0.0, Circuitbreaker pattern for gevent apps, 2016-07-18T20:01:15+0000
+/project/triadb/, triadb, 0.9.0, TRIADB - Self-Service Data Management and Analytics Framework, 2019-10-24T11:36:38+0000
+/project/p4p/, p4p, 3.5.3, Python interface to PVAccess protocol client, 2021-02-28T19:12:53+0000
+/project/kernelchecker/, kernelchecker, 1.0.0, Linux kernel version scanner, 2016-05-24T22:07:55+0000
+/project/chaostoolkit-lib/, chaostoolkit-lib, 1.19.0, Chaos Toolkit core library, 2021-02-18T10:26:19+0000
+/project/hgapi/, hgapi, 1.7.4, Python API to Mercurial using the command-line interface, 2017-10-17T15:40:47+0000
+/project/djinn-pages/, djinn_pages, 1.0.5, Djinn Intranet Pages, 2015-11-18T16:38:47+0000
+/project/hydratk-lib-numeric/, hydratk-lib-numeric, 0.1.1, Libraries for numerical computing, data analysis, 2018-02-26T16:47:32+0000
+/project/omnipy/, omnipy, 0.1.2, My misc python library kit in daily data processing., 2014-11-12T03:09:00+0000
+/project/notmuch-abook/, notmuch_abook, 1.7, Notmuch addressbook, 2015-08-24T17:49:08+0000
+/project/deploy-to-heroku/, deploy-to-heroku, 0.0.1, Deploy flask apps to heroku with one command!, 2020-01-12T08:40:35+0000
+/project/proofdock-chaos-cli/, proofdock-chaos-cli, 0.0.8, Chaos command line tool for the Proofdock Chaos Platform, 2021-01-28T15:21:27+0000
+/project/s2g/, s2g, 0.2.6, Shapefile to graph/network converter in Python, 2017-02-20T03:14:54+0000
+/project/see/, see, 1.4.1, dir for humans, 2017-09-24T04:49:14+0000
+/project/sartoriusb/, SartoriUSB, 0.2.5, pysartoriusb, 2020-10-05T13:43:51+0000
+/project/cherrybase/, cherrybase, 0.6.1, Wrapper around CherryPy, 2018-03-29T07:44:24+0000
+/project/vpscommacc-core/, vpscommacc-core, 1.0.0, Набор полезных функций для повседневной работы и уменьшения размера кода, 2021-04-06T12:51:34+0000
+/project/labmath/, labmath, 1.2.0, Module for basic math in the general vicinity of computational number theory, 2018-11-18T21:23:30+0000
+/project/termdraw/, termdraw, 0.1, Utility library for textual data visualization, 2016-01-21T18:27:50+0000
+/project/djinn-search/, djinn_search, 1.0.7, Djinn Intranet search module, 2016-07-05T19:13:09+0000
+/project/pybiology/, pybiology, 0.0.2, A small example package, 2020-08-18T12:45:19+0000
+/project/marshmallow-select/, marshmallow-select, 1.0.5, make sqlalchemy select fields with marshmallow schemas, 2017-06-07T20:07:07+0000
+/project/arger/, arger, 1.3.8, Create argparser automatically from functions, 2021-04-11T08:22:46+0000
+/project/cfg-diag/, cfg-diag, 0.1.1, A common configuration-storage class with a .diag() method, 2021-03-31T06:15:17+0000
+/project/bytesplitter/, ByteSplitter, 1.0.4, A tiny Python utility for splitting any binary files into parts and combining them back, 2019-02-25T17:56:57+0000
+/project/leekoq/, leekoq, 1.0, Python implementation of Keeloq encryption algorithm, 2020-10-20T00:51:21+0000
+/project/cherrypy/, CherryPy, 18.6.0, Object-Oriented HTTP framework, 2020-04-17T18:29:30+0000
+/project/chaostoolkit-istio/, chaostoolkit-istio, 0.1.4, Chaos Toolkit Extension for Istio Fault Injection, 2020-04-03T14:32:11+0000
+/project/xlogin/, xlogin, 0.0.3, ssh登陆管理工具, 2014-11-22T06:43:22+0000
+/project/fooster-curse/, fooster-curse, 0.5.1, rewrite identifiers in Python source code with Unicode characters that still have the same canonical normalization, 2020-11-08T01:29:17+0000
+/project/chaostoolkit-reporting/, chaostoolkit-reporting, 0.13.0, Chaos engineering toolkit reporting library, 2019-04-15T08:55:33+0000
+/project/ttksimpledialog/, ttkSimpleDialog, 1.2.1, ttk themed version of ttkSimpleDialog, 2020-08-16T04:16:10+0000
+/project/chaosiq-cloud/, chaosiq-cloud, 0.15.0, ChaosIQ plugin for the Chaos Toolkit CLI, 2020-09-23T08:55:24+0000
+/project/decode-acc/, decode-acc, 1.1.1, Incrementally decode bytes into strings and lines, 2020-08-31T05:46:18+0000
+/project/aps-bluesky-tools/, APS-BlueSky-tools, 2019.103.0, Various Python tools for use with BlueSky at the APS, 2019-01-03T23:30:55+0000
+/project/jasy/, jasy, 1.1.1, Web Tooling Framework, 2013-08-15T09:34:50+0000
+/project/demopan/, demopan, 0.4, A cross-platform Source demo organiser, 2015-07-16T16:57:11+0000
+/project/fooster-db/, fooster-db, 0.9.0, a human-readable, magic database in Python, 2020-10-17T19:00:00+0000
+/project/hydratk-ext-trackapps/, hydratk-ext-trackapps, 0.1.3, Interface to bugtracking and test management applications, 2018-02-26T16:55:25+0000
+/project/thapbi-pict/, thapbi-pict, 0.9.1, THAPBI Phytophthora ITS1 Classifier Tool (PICT)., 2021-04-20T11:40:52+0000
+/project/dhtioc/, dhtioc, 1.1.1, Provide humidity and temperature using EPICS and Raspberry Pi., 2020-08-20T14:44:54+0000
+/project/chaosiq/, chaosiq, 0.9.0, ChaosIQ plugins for the Chaos Toolkit project, 2018-03-20T13:11:41+0000
+/project/pytest-consul/, pytest-consul, 0.2.0, pytest plugin with fixtures for testing consul aware apps, 2018-11-24T09:38:19+0000
+/project/chaostoolkit-gremlin-yy/, chaostoolkit-gremlin-yy, 0.3.2, Chaos Toolkit Gremlin, YY. support, 2020-11-05T02:27:08+0000
+/project/zipkin/, zipkin, 0.1.0, python api for sending data to Zipkin, 2016-03-02T19:56:00+0000
+/project/warport/, warport, 0.1, First try to create a report service, 2015-03-19T04:14:17+0000
+/project/osvolbackup/, osvolbackup, 0.0.2, OpenStack volume based backups tool, 2019-03-06T14:54:42+0000
+/project/pygenius/, pygenius, 2.0, Python module for collecting data from rap songs., 2014-07-15T19:45:36+0000
+/project/djinn-workflow/, djinn_workflow, 1.0.0, Djinn Intranet workflow module, 2015-02-10T16:06:43+0000
+/project/orderedmultidict/, orderedmultidict, 1.0.1, Ordered Multivalue Dictionary, 2019-07-10T20:11:45+0000
+/project/metonym/, metonym, 0.2, Getting better path similarity measures from wordnet by graphing the synsets, 2012-02-07T19:12:22+0000
+/project/stdlogpj/, stdlogpj, 1.0.3, python logging done my way, 2019-11-20T18:48:27+0000
+/project/egenix-pyopenssl/, egenix-pyopenssl, 0.13.16, eGenix pyOpenSSL Distribution for Python, 2016-11-11T10:00:02+0000
+/project/check-ganglia-metric/, check_ganglia_metric, 2012.02.28, Ganglia metric check plugin for Nagios, 2012-03-01T18:12:00+0000
+/project/trivval/, trivval, 1.1.0, A library for trivial structure validation, 2021-04-07T17:46:33+0000
+/project/chaostoolkit-toxiproxy/, chaostoolkit-toxiproxy, 0.3.0, Chaos Toolkit Extension for managing toxiproxy from an experiment, 2020-05-13T07:36:22+0000
+/project/libwayback/, libwayback, 1.0, A library to parse Wayback Machine of archive.org to get a historical views of web pages., 2013-06-12T13:36:11+0000
+/project/chaostoolkit-ansible/, chaostoolkit-ansible, 0.2.0, Chaos toolkit Extension for using ansible as event execution tool, 2021-03-07T15:37:21+0000
+/project/confget/, confget, 2.3.4, Parse configuration files and extract values from them, 2020-05-05T19:00:10+0000
+/project/bedlam/, bedlam, 0.0.1, UNKNOWN, 2016-09-13T04:26:36+0000
+/project/neuralknight/, neuralknight, 1.0.2, A Chess-playing AI, 2018-07-11T21:42:22+0000
+/project/chaostoolkit-aws/, chaostoolkit-aws, 0.16.0, Chaos Toolkit Extension for AWS, 2020-10-01T14:09:44+0000
+/project/buildflaskapp/, buildflaskapp, 0.3.5, A flask app generator package, 2020-07-30T17:30:44+0000
+/project/e-s-p-hadouken/, E.S.P.-Hadouken, 0.2.1, Guide the dot through each level without touching the black areas, 2012-06-07T09:29:22+0000
+/project/chaostoolkit-kubernetes/, chaostoolkit-kubernetes, 0.25.1, Chaos Toolkit Extension for Kubernetes, 2021-02-10T10:04:11+0000
+/project/paipage/, PaiPage, 1.0.3, A small Python library to deal with big tables, 2020-11-09T20:24:43+0000
+/project/aws-mfa-login/, aws-mfa-login, 1.0.1, Generates environment variables for MFA auth against AWS CLI. Python 3.3+., 2018-05-08T14:32:18+0000
+/project/lg-cpplint/, lg-cpplint, 0.1.3, Automated checker to ensure C++ files follow Google's style guide, 2020-06-25T13:44:58+0000
+/project/w20e-pycms/, w20e.pycms, 1.1.2b, Pyramid CMS, 2013-02-05T11:46:10+0000
+/project/shpaml/, shpaml, 0.93, Light syntax layer for HTML, 2010-01-15T18:34:53+0000
+/project/chaostoolkit-google-cloud-platform/, chaostoolkit-google-cloud-platform, 0.2.1, Chaos Toolkit Extension for Google Cloud Platform, 2020-04-30T20:45:44+0000
+/project/build-flask-login/, build-flask-login, 0.0.1, A registration system generator package, 2020-01-05T12:42:45+0000
+/project/chaostoolkit-spring/, chaostoolkit-spring, 0.2.0, Chaos Toolkit Driver for Spring Chaos., 2018-11-20T08:06:48+0000
+/project/chaostoolkit-azure/, chaostoolkit-azure, 0.9.0, Chaos Toolkit Extension for Microsoft Azure, 2021-03-15T21:13:52+0000
+/project/pluralcode/, pluralcode, 0.0.1, WIP Pluralcode library, 2021-04-15T18:49:00+0000
+/project/build-scenarist/, build-scenarist, 1.2.0, Make-like utility to execute platform-dependent scripts (scenarios) written in Python 3. Format of scenario-name consist information about platform it written. Scenarios consist of targets, 2021-02-01T10:28:14+0000
+/project/thefuckingweather/, thefuckingweather, 2.0, Python module for thefuckingweather.com, 2013-04-23T11:36:38+0000
+/project/djinn-announcements/, djinn_announcements, 1.4.8, Djinn Intranet Announcements, 2015-11-25T13:38:53+0000
+/project/djinn-auth/, djinn_auth, 1.0.7, Djinn Intranet auth module, role based, 2016-07-05T19:14:48+0000
+/project/django-jux/, django-jux, 1.0.2, JUnit-style XML output for Django tests, 2011-09-15T21:14:00+0000
+/project/biopython/, biopython, 1.78, Freely available tools for computational molecular biology., 2020-09-04T11:51:37+0000
+/project/chaostoolkit-opentracing/, chaostoolkit-opentracing, 0.2.1, Chaos Toolkit OpenTracing Extension, 2019-11-05T06:54:33+0000
+/project/nifty/, nifty, 1.6.3, Interactive command-line helper, 2014-05-31T05:26:53+0000
+/project/sky-chaostoolkit-prometheus/, sky-chaostoolkit-prometheus, 0.3.5, Chaos Toolkit Prometheus support by SKY, 2019-10-16T15:59:59+0000
+/project/chaostoolkit-humio/, chaostoolkit-humio, 0.5.1, Chaos Toolkit Humio Extension, 2020-03-10T15:30:34+0000
+/project/pvmail/, PvMail, 3.2.8, Watch an EPICS PV. Send email when it changes from 0 to 1., 2017-04-01T18:25:17+0000
+/project/chaostoolkit-gandi/, chaostoolkit-gandi, 0.1.2, Gandi extension for the Chaos Toolkit, 2020-04-24T14:12:00+0000
+/project/fakegit/, fakegit, 0.1, A great tool to fool yourself and others, 2016-07-06T15:34:43+0000
+/project/nd2reader/, nd2reader, 3.3.0, A tool for reading ND2 files produced by NIS Elements, 2021-04-24T14:02:10+0000
+/project/chaostoolkit-oci/, chaostoolkit-oci, 0.2.0, Chaos Toolkit Extension for OCI, 2020-07-29T11:48:28+0000
+/project/dobg/, dobg, 0.0.23, Digital Ocean CLI tool for managing Droplets, 2019-08-25T20:41:54+0000
+/project/chaostoolkit-docker-swarm/, chaostoolkit-docker-swarm, 0.3.0, Chaos Toolkit Extension for Docker Swarm, 2020-03-10T23:36:08+0000
+/project/meep/, meep, 1.0.6, Very light-weight task runner, 2018-09-21T20:02:43+0000
+/project/darbiadev-smartsheet/, darbiadev-smartsheet, 0.2.0, darbiadev-smartsheet, 2020-12-23T01:20:46+0000
+/project/django-model-validator/, django-model-validator, 0.1, A Django Mixin capable of converting dictionaries of data or lists of dictionaries, to clean Django model instances, 2015-05-03T19:21:40+0000
+/project/djinn-forms/, djinn_forms, 1.3.6, Djinn Intranet Forms, 2015-12-02T15:34:57+0000
+/project/gitissius/, Gitissius, 0.1.6, Distributed bug tracking for Git., 2011-11-20T23:14:14+0000
+/project/chaostoolkit-google-cloud/, chaostoolkit-google-cloud, 0.2.3, Chaos Toolkit Extension for Google Cloud Engine, 2019-12-11T16:42:16+0000
+/project/django-zipkin/, django-zipkin, 0.0.3, django-zipkin is a Django middleware and api for recording and sending messages to Zipkin, 2015-07-08T13:51:39+0000
+/project/pydetectright/, pyDetectRight, 0.2, A Python wrapper for DetectRight Java API., 2013-06-05T13:31:28+0000
+/project/egenix-mx-base/, egenix-mx-base, 3.2.9, eGenix mx Base Distribution for Python - mxDateTime, mxTextTools, mxProxy, mxTools, mxBeeBase, mxStack, mxQueue, mxURL, mxUID, 2015-08-27T12:31:12+0000
+/project/djinn-news/, djinn_news, 1.1.9, Djinn Intranet News, 2016-07-05T19:16:44+0000
+/project/djinn-likes/, djinn_likes, 1.0.6, Djinn Intranet Likes, 2016-07-05T19:15:55+0000
+/project/thefuckingweather/, thefuckingweather, 2.0, Python module for thefuckingweather.com, 2013-04-23T11:36:38+0000
+/project/djinn-announcements/, djinn_announcements, 1.4.8, Djinn Intranet Announcements, 2015-11-25T13:38:53+0000
+/project/djinn-auth/, djinn_auth, 1.0.7, Djinn Intranet auth module, role based, 2016-07-05T19:14:48+0000
+/project/django-jux/, django-jux, 1.0.2, JUnit-style XML output for Django tests, 2011-09-15T21:14:00+0000
+/project/biopython/, biopython, 1.78, Freely available tools for computational molecular biology., 2020-09-04T11:51:37+0000
+/project/didsho/, didsho, 1.5, Didsho SDK for python telegram bot @didshobot, 2017-06-29T11:35:04+0000
+/project/wallace/, Wallace, 0.9.1, An API for modeling data with psycopg2, redis-py, and pymongo., 2017-03-08T04:46:37+0000
+/project/pu-in-content/, pu_in_content, 1.0.2, PythonUnited Intranet Content, 2014-03-04T15:37:54+0000
+/project/hydratk/, hydratk, 0.6.0, Fully extendable object oriented application toolkit with nice modular architecture, 2018-02-26T16:57:11+0000
+/project/storpool-charms-manage/, storpool-charms-manage, 0.1.0, Build, deploy, and configure the StorPool Juju charms, 2018-10-19T07:10:30+0000
+/project/feature-check/, feature-check, 0.2.1, Query a program for supported features, 2018-11-23T22:18:27+0000
+/project/zenityshell/, ZenityShell, 0.0.1-r001a-ekcebo-ivaritt, Zenity Module with more option embedded for fast integration, 2012-09-18T04:57:36+0000
+/project/django-icetea/, django-icetea, 0.5, REST API Framework, 2013-01-22T16:04:08+0000
+/project/biofits/, biofits, 0.26, Common biochemical data fitting functions, 2018-06-27T15:58:44+0000
+/project/chaostoolkit-opentracing/, chaostoolkit-opentracing, 0.2.1, Chaos Toolkit OpenTracing Extension, 2019-11-05T06:54:33+0000
+/project/nifty/, nifty, 1.6.3, Interactive command-line helper, 2014-05-31T05:26:53+0000
+/project/sky-chaostoolkit-prometheus/, sky-chaostoolkit-prometheus, 0.3.5, Chaos Toolkit Prometheus support by SKY, 2019-10-16T15:59:59+0000
+/project/chaostoolkit-humio/, chaostoolkit-humio, 0.5.1, Chaos Toolkit Humio Extension, 2020-03-10T15:30:34+0000
+/project/pvmail/, PvMail, 3.2.8, Watch an EPICS PV. Send email when it changes from 0 to 1., 2017-04-01T18:25:17+0000
+/project/chaostoolkit-gandi/, chaostoolkit-gandi, 0.1.2, Gandi extension for the Chaos Toolkit, 2020-04-24T14:12:00+0000
+/project/django-firestone/, django-firestone, 0.5.3, REST API Framework, 2015-04-22T17:47:01+0000
+/project/fakegit/, fakegit, 0.1, A great tool to fool yourself and others, 2016-07-06T15:34:43+0000
+/project/punx/, punx, 0.2.5, Python Utilities for NeXus, 2020-06-29T23:46:05+0000
+/project/diaper/, diaper, 1.3, Python Diaper, 2016-01-21T18:27:00+0000
+/project/hello-world-gnits/, hello-world-gnits, 0.0.4, Hello world, 2020-02-11T00:48:55+0000
+/project/scrap-google-images/, scrap-google-images, 1.0.0, scrap/download google images, 2017-09-19T09:43:34+0000
+/project/chaostoolkit-google-cloud/, chaostoolkit-google-cloud, 0.2.3, Chaos Toolkit Extension for Google Cloud Engine, 2019-12-11T16:42:16+0000
+/project/django-zipkin/, django-zipkin, 0.0.3, django-zipkin is a Django middleware and api for recording and sending messages to Zipkin, 2015-07-08T13:51:39+0000
+/project/pydetectright/, pyDetectRight, 0.2, A Python wrapper for DetectRight Java API., 2013-06-05T13:31:28+0000
+/project/egenix-mx-base/, egenix-mx-base, 3.2.9, eGenix mx Base Distribution for Python - mxDateTime, mxTextTools, mxProxy, mxTools, mxBeeBase, mxStack, mxQueue, mxURL, mxUID, 2015-08-27T12:31:12+0000
+/project/djinn-news/, djinn_news, 1.1.9, Djinn Intranet News, 2016-07-05T19:16:44+0000
+/project/djinn-likes/, djinn_likes, 1.0.6, Djinn Intranet Likes, 2016-07-05T19:15:55+0000
+/project/didsho/, didsho, 1.5, Didsho SDK for python telegram bot @didshobot, 2017-06-29T11:35:04+0000
+/project/wallace/, Wallace, 0.9.1, An API for modeling data with psycopg2, redis-py, and pymongo., 2017-03-08T04:46:37+0000
+/project/pu-in-content/, pu_in_content, 1.0.2, PythonUnited Intranet Content, 2014-03-04T15:37:54+0000
+/project/hydratk/, hydratk, 0.6.0, Fully extendable object oriented application toolkit with nice modular architecture, 2018-02-26T16:57:11+0000
+/project/storpool-charms-manage/, storpool-charms-manage, 0.1.0, Build, deploy, and configure the StorPool Juju charms, 2018-10-19T07:10:30+0000
+/project/feature-check/, feature-check, 0.2.1, Query a program for supported features, 2018-11-23T22:18:27+0000
+/project/zenityshell/, ZenityShell, 0.0.1-r001a-ekcebo-ivaritt, Zenity Module with more option embedded for fast integration, 2012-09-18T04:57:36+0000
+/project/django-icetea/, django-icetea, 0.5, REST API Framework, 2013-01-22T16:04:08+0000
+/project/biofits/, biofits, 0.26, Common biochemical data fitting functions, 2018-06-27T15:58:44+0000
+/project/django-firestone/, django-firestone, 0.5.3, REST API Framework, 2015-04-22T17:47:01+0000
+/project/punx/, punx, 0.2.5, Python Utilities for NeXus, 2020-06-29T23:46:05+0000
+/project/diaper/, diaper, 1.3, Python Diaper, 2016-01-21T18:27:00+0000
+/project/hello-world-gnits/, hello-world-gnits, 0.0.4, Hello world, 2020-02-11T00:48:55+0000
+/project/scrap-google-images/, scrap-google-images, 1.0.0, scrap/download google images, 2017-09-19T09:43:34+0000
+/project/mountepy/, mountepy, 0.4.1, Utilities for creating (micro)service tests. Based on Mountebank., 2017-02-23T21:48:00+0000
+/project/hydratk-ext-datagen/, hydratk-ext-datagen, 0.1.3, Utilities for data generation, 2018-02-26T16:54:04+0000
+/project/djinn-events/, djinn_events, 1.0.10, Djinn Intranet Events, 2015-11-18T21:41:42+0000
+/project/flattenlist/, FlattenList, 0.1.4, Given a list of nested lists/tuples, returns all the elements in a single list, 2015-01-29T12:27:44+0000
+/project/hydratk-lib-network/, hydratk-lib-network, 0.2.2, Clients/API for many network protocols and technologies, 2018-02-26T16:52:01+0000
+/project/autocheck/, autocheck, 0.2.7, Improved unittest test runner, 2015-05-07T08:26:09+0000
+/project/todo2/, todo2, 1.1.0, A python todo generator., 2017-08-15T08:23:06+0000
+/project/anyconf/, anyconf, 0.1.0, Load configuration data from many file formats, 2012-02-14T16:37:02+0000
+/project/fooster-cron/, fooster-cron, 0.9.0, a small cron-like scheduler in Python, 2020-10-17T19:02:12+0000
+/project/trivver/, trivver, 1.0.1, A library for comparing version strings, 2021-03-30T19:26:38+0000
+/project/trivrepr/, trivrepr, 0.1.1, Provide a helper for creating repr() strings, 2019-03-07T12:42:55+0000
+/project/djinn-core/, djinn_core, 1.2.10, Djinn Intranet core, 2016-10-03T13:26:33+0000
+/project/fastapi-permissions/, fastapi_permissions, 0.2.7, Row Level Permissions for FastAPI, 2020-10-05T14:18:40+0000
+/project/fooster-web/, fooster-web, 0.4.0rc1, a small, process-pooled web server utilizing the built-in Python socketserver, 2020-11-23T22:05:06+0000
+/project/scp-marvin/, scp-marvin, 1.0.1, SCP Wiki entry retrieval script, 2015-11-10T18:39:57+0000
+/project/fit-neuron/, fit_neuron, 0.0.6, Package for estimation and evaluation of neural models from patch clamp neural recordings., 2014-04-06T05:07:22+0000
+/project/spot/, spot, 0.1a, DotCloud environment loader, 2012-05-20T04:20:14+0000
+/project/senzafine-analytica/, senzafine_analytica, 0.1, Senzafine Analytica Service API, 2011-05-18T17:19:40+0000
+/project/cherryontop/, CherryOnTop, 1.0, Helper utilities for building JSON APIs with CherryPy., 2018-02-16T16:04:33+0000
+/project/xspecfeeder/, XSPECfeeder, 0.5.0, Scientific data management, 2011-08-28T08:53:03+0000

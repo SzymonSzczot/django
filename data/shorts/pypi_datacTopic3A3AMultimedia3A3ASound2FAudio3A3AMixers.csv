@@ -1,0 +1,62 @@
+/project/mixingbear/, mixingbear, 0.0.1, Automatic beat-mixing of music files, 2018-04-26T04:39:11+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/musiclegacy/, musicLegacy, 0.1.dev13, Yet another music package using the MASS (Music and Audio in Sample Sequences) framework, 2019-05-11T20:12:24+0000
+/project/pycarla/, pycarla, 0.2.0, Use VST/LV2/etc. plugins with realtime abilities in Python, 2021-02-22T23:13:13+0000
+/project/synthplayer/, synthplayer, 2.5, software sound synthesizer, audio streaming and conversion, and playback engine, 2020-11-29T15:11:24+0000
+/project/pyalsaaudio/, pyalsaaudio, 0.9.0, ALSA bindings, 2020-07-13T20:09:32+0000
+/project/klang/, klang, 0.2.1, Block based synthesis and music library, 2020-10-06T14:12:13+0000
+/project/boodler/, Boodler, 2.0.3, A programmable soundscape tool, 2009-11-18T05:06:52+0000
+/project/aeltei/, aeltei, 0.1.0, UNKNOWN, 2011-03-21T18:25:12+0000
+/project/mpdnotify/, mpdnotify, 1.0, mpdnotify - get notification when changing song, 2018-12-30T12:11:34+0000
+/project/audiomodels/, audiomodels, 0.1.dev3, audio models package with semantic features identification, 2019-08-27T19:26:30+0000
+/project/pulsectl-asyncio/, pulsectl-asyncio, 0.1.5, Asyncio frontend for the pulsectl Python bindings of libpulse, 2021-03-18T21:06:47+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/participation/, participation, 0.1.dev1, Participation is a python package for social participation ontologies, rdf data (linked data) triplification and analysis, 2015-03-27T16:37:22+0000
+/project/audiolazy/, audiolazy, 0.6, Real-Time Expressive Digital Signal Processing (DSP) Package for Python!, 2016-09-29T13:09:46+0000
+/project/pulsemixer/, pulsemixer, 1.5.1, pulsemixer - CLI and curses mixer for PulseAudio, 2020-04-11T18:50:46+0000
+/project/aud/, aud, 0.8.6, aud is a python package that aims to make bulk file edits easy enough for anyone with minimal scripting or python knowledge, 2020-09-30T22:06:15+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/mousikofidi/, MousikoFidi, 0.23, MousikoFidi: Your Music Cloud, 2019-12-01T20:25:16+0000
+/project/pydub/, pydub, 0.25.1, Manipulate audio with an simple and easy high level interface, 2021-03-10T02:09:53+0000
+/project/bewegung/, bewegung, 0.0.4, a versatile video renderer, 2020-12-14T20:01:32+0000
+/project/social/, social, 0.1.dev3, Social is a python package for social data analysis and exploitation, 2015-03-26T13:53:25+0000
+/project/vedit/, vedit, 0.0.3, Library for editing video by wrapping ffmpeg., 2016-11-23T04:47:23+0000
+/project/mobius-tunes/, mobius-tunes, 0.1.5, A program to infinite loop your playlists!, 2015-10-15T05:15:12+0000
+/project/music/, music, 0.7b0, music is a python package for making music and sounds, based on the MASS framework, 2019-05-11T18:29:56+0000
+/project/pydub-ffmpeg-wav/, pydub-ffmpeg-wav, 0.23.0, Manipulate audio with an simple and easy high level interface, 2019-01-08T15:57:35+0000
+/project/tuning-fork/, tuning-fork, 1.7.1, A clip/sample auto tuner, 2018-07-11T17:56:27+0000
+/project/percolation/, percolation, 0.2.dev0, percolation is a python package for harnessing open linked social data, 2019-05-01T21:04:37+0000
+/project/pyrilla/, pyrilla, 0.0.2, Python binding to gorilla-audio library, 2016-10-29T14:25:26+0000
+/project/soundcraft-utils/, soundcraft-utils, 0.4.0, Soundcraft Notepad control utilities, 2020-08-14T08:30:10+0000
+/project/boodler-redux/, boodler-redux, 3.0.0, A programmable soundscape tool, 2020-04-27T01:52:28+0000
+/project/mixingbear/, mixingbear, 0.0.1, Automatic beat-mixing of music files, 2018-04-26T04:39:11+0000
+/project/kamaelia/, Kamaelia, 0.6.0, Kamaelia - Multimedia & Server Development Kit, 2008-10-19T16:29:33+0000
+/project/musiclegacy/, musicLegacy, 0.1.dev13, Yet another music package using the MASS (Music and Audio in Sample Sequences) framework, 2019-05-11T20:12:24+0000
+/project/pycarla/, pycarla, 0.2.0, Use VST/LV2/etc. plugins with realtime abilities in Python, 2021-02-22T23:13:13+0000
+/project/synthplayer/, synthplayer, 2.5, software sound synthesizer, audio streaming and conversion, and playback engine, 2020-11-29T15:11:24+0000
+/project/pyalsaaudio/, pyalsaaudio, 0.9.0, ALSA bindings, 2020-07-13T20:09:32+0000
+/project/aeltei/, aeltei, 0.1.0, UNKNOWN, 2011-03-21T18:25:12+0000
+/project/pagingserver/, PagingServer, 19.5.2, SIP-based Announcement / PA / Paging / Public Address Server system, 2019-05-30T20:26:07+0000
+/project/mousikofidi/, MousikoFidi, 0.23, MousikoFidi: Your Music Cloud, 2019-12-01T20:25:16+0000
+/project/pydub/, pydub, 0.25.1, Manipulate audio with an simple and easy high level interface, 2021-03-10T02:09:53+0000
+/project/klang/, klang, 0.2.1, Block based synthesis and music library, 2020-10-06T14:12:13+0000
+/project/pulsemixer/, pulsemixer, 1.5.1, pulsemixer - CLI and curses mixer for PulseAudio, 2020-04-11T18:50:46+0000
+/project/boodler/, Boodler, 2.0.3, A programmable soundscape tool, 2009-11-18T05:06:52+0000
+/project/aud/, aud, 0.8.6, aud is a python package that aims to make bulk file edits easy enough for anyone with minimal scripting or python knowledge, 2020-09-30T22:06:15+0000
+/project/mpdnotify/, mpdnotify, 1.0, mpdnotify - get notification when changing song, 2018-12-30T12:11:34+0000
+/project/audiomodels/, audiomodels, 0.1.dev3, audio models package with semantic features identification, 2019-08-27T19:26:30+0000
+/project/pulsectl-asyncio/, pulsectl-asyncio, 0.1.5, Asyncio frontend for the pulsectl Python bindings of libpulse, 2021-03-18T21:06:47+0000
+/project/save-thread-result/, save-thread-result, 0.0.6, Simple subclass wrapper around `threading.Thread` to get the return value from a thread in python (from `threading` built-in module in Python Standard library). Exact same interface for creating an instance of this threading sublcass as `threading.Thread`!, 2021-02-08T00:27:52+0000
+/project/participation/, participation, 0.1.dev1, Participation is a python package for social participation ontologies, rdf data (linked data) triplification and analysis, 2015-03-27T16:37:22+0000
+/project/bewegung/, bewegung, 0.0.4, a versatile video renderer, 2020-12-14T20:01:32+0000
+/project/social/, social, 0.1.dev3, Social is a python package for social data analysis and exploitation, 2015-03-26T13:53:25+0000
+/project/audiolazy/, audiolazy, 0.6, Real-Time Expressive Digital Signal Processing (DSP) Package for Python!, 2016-09-29T13:09:46+0000
+/project/vedit/, vedit, 0.0.3, Library for editing video by wrapping ffmpeg., 2016-11-23T04:47:23+0000
+/project/mobius-tunes/, mobius-tunes, 0.1.5, A program to infinite loop your playlists!, 2015-10-15T05:15:12+0000
+/project/music/, music, 0.7b0, music is a python package for making music and sounds, based on the MASS framework, 2019-05-11T18:29:56+0000
+/project/pydub-ffmpeg-wav/, pydub-ffmpeg-wav, 0.23.0, Manipulate audio with an simple and easy high level interface, 2019-01-08T15:57:35+0000
+/project/tuning-fork/, tuning-fork, 1.7.1, A clip/sample auto tuner, 2018-07-11T17:56:27+0000
+/project/percolation/, percolation, 0.2.dev0, percolation is a python package for harnessing open linked social data, 2019-05-01T21:04:37+0000
+/project/pyrilla/, pyrilla, 0.0.2, Python binding to gorilla-audio library, 2016-10-29T14:25:26+0000
+/project/soundcraft-utils/, soundcraft-utils, 0.4.0, Soundcraft Notepad control utilities, 2020-08-14T08:30:10+0000
+/project/boodler-redux/, boodler-redux, 3.0.0, A programmable soundscape tool, 2020-04-27T01:52:28+0000

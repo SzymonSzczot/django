@@ -1,0 +1,310 @@
+/project/miepy/, miepy, 0.5.0, Solve Maxwell's equations for a cluster of particles using the generalized multiparticle Mie theory (GMMT), 2020-05-11T06:52:07+0000
+/project/scikit-misc/, scikit-misc, 0.1.3, Miscellaneous tools for scientific computing., 2020-05-14T00:27:23+0000
+/project/amuse-bse/, amuse-bse, 2021.3.1, The Astrophysical Multipurpose Software Environment - BSE, 2021-03-03T11:26:40+0000
+/project/python-mint/, python-mint, 1.8.0, Mimetic INTerpolation on the Sphere, 2021-03-27T22:26:17+0000
+/project/fortranformat/, fortranformat, 1.0.1, Mimics Fortran textual IO in Python, 2021-04-06T13:36:08+0000
+/project/pycodeexport/, pycodeexport, 0.1.3, pycodeexport is a Python package for code generation., 2020-10-28T17:52:26+0000
+/project/amuse-mobse/, amuse-mobse, 2021.3.1, The Astrophysical Multipurpose Software Environment - MOBSE, 2021-03-03T11:30:10+0000
+/project/assimulo/, Assimulo, 3.0, A package for solving ordinary differential equations and differential algebraic equations., 2018-12-15T12:41:12+0000
+/project/pyctqw/, pyCTQW, 1.1.0, An MPI enabled CTQW simulator, 2014-05-13T16:32:28+0000
+/project/amuse-kepler-orbiters/, amuse-kepler-orbiters, 2021.3.1, The Astrophysical Multipurpose Software Environment - Kepler-orbiters, 2021-03-03T11:30:00+0000
+/project/pylineclip/, pylineclip, 1.0.0, Line clipping: Cohen-Sutherland, 2019-11-19T18:36:32+0000
+/project/telewavesim/, telewavesim, 0.2.0, Python package for teleseismic body-wave modeling, 2019-11-23T00:34:54+0000
+/project/bdsf/, bdsf, 1.9.2, Blob Detection and Source Finder, 2019-12-06T10:21:13+0000
+/project/fortranfile/, fortranfile, 0.2.1, Read and write unformatted fortran output files, 2013-02-21T04:21:27+0000
+/project/mogu/, mogu, 0.6.0, Collection of Simple Numerical Routines, 2020-01-16T23:51:45+0000
+/project/pyshtools/, pyshtools, 4.8, SHTOOLS - Spherical Harmonic Tools, 2021-01-26T09:42:23+0000
+/project/slepc/, slepc, 3.14.2, SLEPc: Scalable Library for Eigenvalue Problem Computations, 2021-02-04T06:31:36+0000
+/project/amuse-fractalcluster/, amuse-fractalcluster, 2021.3.1, The Astrophysical Multipurpose Software Environment - fractalcluster, 2021-03-03T11:29:39+0000
+/project/matmodlab/, matmodlab, 3.0.6, Material model development laboratory, 2015-10-09T08:19:46+0000
+/project/amuse-framework/, amuse-framework, 2021.3.1, The Astrophysical Multipurpose Software Environment, 2021-03-03T11:29:42+0000
+/project/amuse-bhtree/, amuse-bhtree, 2021.3.1, The Astrophysical Multipurpose Software Environment - BHTree, 2021-03-03T11:26:34+0000
+/project/fortran-linter/, fortran-linter, 1.0.9, A linter for Fortran files, 2021-03-23T15:54:43+0000
+/project/amuse-mosse/, amuse-mosse, 2021.3.1, The Astrophysical Multipurpose Software Environment - MOSSE, 2021-03-03T11:30:12+0000
+/project/omuse-qgmodel/, omuse-qgmodel, 1.2.6, The Oceanographic Multi-purpose Software Environment - qgmodel, 2020-05-05T12:58:34+0000
+/project/iri2016/, iri2016, 1.11.1, IRI2016 International Reference Ionosphere from Python, 2020-11-04T22:47:05+0000
+/project/pybufr-ecmwf/, pybufr-ecmwf, 0.82, a python interface around the ECMWF-BUFR library., 2016-09-08T18:43:56+0000
+/project/h5pyp/, h5pyp, 1.10.6.1a0, HDF5 Parallel Library and h5py Python bindings, 2021-01-19T10:42:59+0000
+/project/omuse/, omuse, 1.2.6, The Oceanographic Multi-purpose Software Environment: a package for multi-physics and multi-scale earth science simulations., 2020-05-05T12:58:25+0000
+/project/amuse-sse/, amuse-sse, 2021.3.1, The Astrophysical Multipurpose Software Environment - SSE, 2021-03-03T11:30:42+0000
+/project/amuse-kepler/, amuse-kepler, 2021.3.1, The Astrophysical Multipurpose Software Environment - Kepler, 2021-03-03T11:29:58+0000
+/project/libceed/, libceed, 0.8, libCEED: Code for Efficient Extensible Discretization, 2021-04-13T19:05:53+0000
+/project/pyfvs/, pyfvs, 0.0.13, PyFVS - Python wrappers for Open-FVS., 2018-06-22T20:35:36+0000
+/project/masai/, masai, 0.1.43, Masai, a framework for processing and modelling of solid state NMR spectra, 2012-11-27T15:14:07+0000
+/project/irpf90/, irpf90, 2.0.5, IRPF90 is a Fortran90 preprocessor written in Python for programming using the Implicit Reference to Parameters (IRP) method. It simplifies the development of large fortran codes in the field of scientific high performance computing., 2020-12-06T19:58:07+0000
+/project/amuse-phigrape/, amuse-phigrape, 2021.3.1, The Astrophysical Multipurpose Software Environment - phiGRAPE, 2021-03-03T11:30:20+0000
+/project/fparser/, fparser, 0.0.11, The fparser Project, 2020-05-15T14:41:46+0000
+/project/amuse-mercury/, amuse-mercury, 2021.3.1, The Astrophysical Multipurpose Software Environment - Mercury, 2021-03-03T11:30:04+0000
+/project/wrf-python/, wrf-python, 1.3.1, Diagnostic and interpolation routines for WRF-ARW data., 2019-01-18T18:13:28+0000
+/project/sempy/, sempy, 0.0.18, A Python implementation of the spectral element method, 2011-06-07T11:28:05+0000
+/project/omuse-framework/, omuse-framework, 1.2.6, The Oceanographic Multi-purpose Software Environment: base framework, 2020-05-05T12:58:31+0000
+/project/jin2for/, jin2for, 0.1.0, A jinja2-based template engine for FORTRAN projects, 2019-03-10T09:35:02+0000
+/project/paramonte/, paramonte, 2.5.2, Plain Powerful Parallel Monte Carlo and adaptive MCMC Library, 2021-01-08T07:43:12+0000
+/project/ace-cream/, ace-cream, 0.4.post11, Alternating Conditional Expectation Algorithm, 2019-01-11T13:54:25+0000
+/project/fortran-magic/, fortran-magic, 0.7, An extension for IPython that help to use Fortran in your interactive session., 2016-03-13T15:37:05+0000
+/project/pyteos-air/, pyteos_air, 1.0.4, This package provides python bindings to the atmospheric component of TEOS-10.                    Also includes expanded metorological quantities like the equivalent potential temperature., 2017-03-22T14:20:56+0000
+/project/igrf/, igrf, 13.0.0, IGRF13, IGRF12, IGRF11 models with simple object-oriented Python interface., 2020-08-24T21:05:54+0000
+/project/pyrcel/, pyrcel, 1.3.1, pyrcel: 0D adiabatic cloud parcel model, 2017-09-01T18:30:15+0000
+/project/ncarglow/, ncarglow, 1.1.1, NCAR GLOW model, 2019-07-19T23:23:11+0000
+/project/amuse-galactics/, amuse-galactics, 2021.3.1, The Astrophysical Multipurpose Software Environment - Galactics, 2021-03-03T11:29:46+0000
+/project/amuse-hop/, amuse-hop, 2021.3.1, The Astrophysical Multipurpose Software Environment - Hop, 2021-03-03T11:29:53+0000
+/project/msise00/, msise00, 1.10.0, Python API for Fortran MSISE-00 neutral atmosphere model., 2021-02-07T10:24:48+0000
+/project/async-netcdf/, async_netcdf, 0.1.1, Simple BASH compiler to parallelize some netcdf file operations, 2015-05-27T13:13:17+0000
+/project/dustpy/, dustpy, 0.5.3, Dust evolution in protoplanetary disks, 2021-03-03T15:23:37+0000
+/project/slycot/, slycot, 0.4.0.0, Slycot: a wrapper for the SLICOT control and systems library, 2020-05-30T06:01:27+0000
+/project/pyfmmlib/, pyfmmlib, 2019.1.5, Python wrappers for particle FMMs, 2019-08-28T05:51:53+0000
+/project/amuse-aarsethzare/, amuse-aarsethzare, 2021.3.1, The Astrophysical Multipurpose Software Environment - AarsethZare, 2021-03-03T11:26:26+0000
+/project/amuse-secularmultiple/, amuse-secularmultiple, 2021.3.1, The Astrophysical Multipurpose Software Environment - SecularMultiple, 2021-03-03T11:30:24+0000
+/project/glowaurora/, glowaurora, 1.2.2, GLobal airglOW Model of auroral and airglow emissions, 2018-08-22T21:27:00+0000
+/project/hwm93/, hwm93, 0.9.1, Horizontal Wind Model 1993 in Python, 2018-08-16T19:00:00+0000
+/project/igrf12/, igrf12, 1.3.6, IGRF12 model with simple object-oriented Python interface., 2019-11-11T22:04:48+0000
+/project/openmodes/, OpenModes, 1.3.2, An eigenmode solver for open electromagnetic resonantors, 2019-12-02T01:32:27+0000
+/project/amuse-fastkick/, amuse-fastkick, 2021.3.1, The Astrophysical Multipurpose Software Environment - fastkick, 2021-03-03T11:29:35+0000
+/project/simgrid/, simgrid, 3.27, Toolkit for scalable simulation of distributed applications, 2021-03-29T19:38:53+0000
+/project/psyclone/, PSyclone, 1.9.0, PSyclone - a compiler for Finite Element/Volume/Difference DSLs in Fortran, 2020-05-20T21:20:35+0000
+/project/fwm-ensayo/, fwm_ensayo, 0.1.1, A fortran package to work with watersheds and do hydrologic simulations, 2014-07-15T03:14:50+0000
+/project/globalarrays/, globalarrays, 5.7.0b1, globalarrays: Global Arrays Toolkit, 2020-06-12T12:26:58+0000
+/project/omuse-swan/, omuse-swan, 1.2.6, The Oceanographic Multi-purpose Software Environment - SWAN, 2020-05-05T12:58:38+0000
+/project/amuse-brutus/, amuse-brutus, 2021.3.1, The Astrophysical Multipurpose Software Environment - Brutus, 2021-03-03T11:26:37+0000
+/project/semidiscrete2/, semidiscrete2, 1.0.4, SemiDiscrete python wrappers, 2012-06-19T15:08:52+0000
+/project/ttpy/, ttpy, 1.2.1, TTPY: Python implementation of the Tensor Train (TT) - Toolbox., 2017-03-31T23:05:48+0000
+/project/pysces/, pysces, 0.9.8.post1, The Python Simulator for Cellular Systems - simulation and analysis tools for modelling biological systems, 2020-05-14T21:05:10+0000
+/project/pyweno/, PyWENO, 0.11.2, Weighted Essentially Non-oscillatory (WENO) reconstructions., 2014-07-14T19:35:29+0000
+/project/pymc/, pymc, 2.3.8, Markov Chain Monte Carlo sampling toolkit., 2020-04-10T09:27:53+0000
+/project/amuse-evtwin/, amuse-evtwin, 2021.3.1, The Astrophysical Multipurpose Software Environment - EVTwin, 2021-03-03T11:29:31+0000
+/project/amuse-mmams/, amuse-mmams, 2021.3.1, The Astrophysical Multipurpose Software Environment - MMAMS, 2021-03-03T11:30:08+0000
+/project/gemini3d/, gemini3d, 1.4.0, 3-D ionospheric model plotting suite, 2021-03-24T15:31:10+0000
+/project/fortdepend/, fortdepend, 2.0.0, Automatically generate Fortran dependencies, 2018-11-14T12:08:12+0000
+/project/wlcsim/, wlcsim, 0.1.11, , 2020-11-01T08:11:55+0000
+/project/fimport/, fimport, 0.2, Python Fortran import hook, 2013-02-24T15:11:40+0000
+/project/ellc/, ellc, 1.8.5, Light curve model for eclipsing binary stars and transiting exoplanets, 2019-08-08T11:32:36+0000
+/project/amuse-vader/, amuse-vader, 11.0.1.post1, The Astrophysical Multipurpose Software Environment, 2019-09-27T11:05:24+0000
+/project/semidiscrete4/, semidiscrete4, 1.0.4, SemiDiscrete python wrappers, 2012-06-19T15:08:07+0000
+/project/amuse-sphray/, amuse-sphray, 2021.3.1, The Astrophysical Multipurpose Software Environment - SPHRay, 2021-03-03T11:30:40+0000
+/project/geoclaw-landspill/, geoclaw-landspill, 1.0.dev3, A hydrocarbon overland flow simulator for pipeline rupture events., 2021-01-19T09:19:07+0000
+/project/amuse-ph4/, amuse-ph4, 2021.3.1, The Astrophysical Multipurpose Software Environment - ph4, 2021-03-03T11:30:19+0000
+/project/amuse-phantom/, amuse-phantom, 13.2.1, The Astrophysical Multipurpose Software Environment - Phantom, 2020-06-09T13:42:00+0000
+/project/amuse-seba/, amuse-seba, 2021.3.1, The Astrophysical Multipurpose Software Environment - SeBa, 2021-03-03T11:30:23+0000
+/project/gfort2py/, gfort2py, 1.1.5, Python bindings for Fortran, 2020-01-12T16:49:13+0000
+/project/fwrap/, fwrap, 0.1.1, Tool to wrap Fortran 77/90/95 code in C, Cython & Python., 2010-08-09T04:39:11+0000
+/project/petsc/, petsc, 3.15.0, PETSc: Portable, Extensible Toolkit for Scientific Computation, 2021-04-02T15:06:46+0000
+/project/gospl/, gospl, 0.2.4, A Python interface to perform Global Landscape Evolution Model, 2021-04-19T09:15:09+0000
+/project/nls/, nls, 0.2.0, NLS: Non-Linear Schrodinger equation solver., 2016-04-23T21:07:21+0000
+/project/moogsilent/, moogsilent, 2013.02.1, Spectrum synthesis and LTE line analysis., 2014-04-24T09:58:06+0000
+/project/fixed2free2/, fixed2free2, 0.8, Fortran fixed to free source form converter, 2013-02-07T22:20:15+0000
+/project/xfoil/, xfoil, 1.1.1, Stripped down version of XFOIL as compiled python module, 2019-10-25T15:40:07+0000
+/project/amuse-mikkola/, amuse-mikkola, 2021.3.1, The Astrophysical Multipurpose Software Environment - Mikkola, 2021-03-03T11:30:06+0000
+/project/semidiscrete1/, semidiscrete1, 1.0.4, SemiDiscrete python wrappers, 2012-06-19T15:01:15+0000
+/project/amuse-simplex/, amuse-simplex, 2021.3.1, The Astrophysical Multipurpose Software Environment - Simplex, 2021-03-03T11:30:36+0000
+/project/compmech/, compmech, 0.7.2, CompMech: Computational Mechanics in Python, 2016-12-14T22:09:29+0000
+/project/netcdf4-soft-links/, netcdf4_soft_links, 0.7.8.6, Tools to create soft links to netcdf4 files., 2016-12-18T14:25:42+0000
+/project/moog/, moog, 2013.02, Spectrum synthesis and LTE line analysis., 2013-04-20T09:46:33+0000
+/project/pytmatrix/, pytmatrix, 0.3.2, T-matrix scattering computations, 2020-03-12T09:23:55+0000
+/project/pythonsched/, pythonSCHED, 1.17.0, Python extension of NRAO's VLBI scheduling program SCHED (see http://www.aoc.nrao.edu/~cwalker/sched/), 2021-03-29T13:48:22+0000
+/project/amuse-capreole/, amuse-capreole, 2021.3.1, The Astrophysical Multipurpose Software Environment - Capreole, 2021-03-03T11:26:43+0000
+/project/netcdf4-pydap/, netcdf4_pydap, 0.2.6, netCDF4 and CAS compatibility layer for pydap, 2016-12-18T16:02:47+0000
+/project/xrotor/, xrotor, 1.3.1, Stripped down version of XROTOR as compiled python module, 2019-11-25T16:51:53+0000
+/project/spacepy/, spacepy, 0.2.2, SpacePy: Tools for Space Science Applications, 2020-12-29T17:26:07+0000
+/project/graphflow/, graphflow, 0.4.1, Algorithms for Graph Flow Analysis, 2021-04-19T21:54:39+0000
+/project/chi1chi2/, chi1chi2, 0.8.0, set of scripts for calculating linear and nonlinear optical properties of organic crystals, 2021-02-21T21:20:50+0000
+/project/amlearn/, amlearn, 0.3.4, Machine Learning package for amorphous materials., 2020-01-02T05:19:20+0000
+/project/py-mie/, py-mie, 0.4.2.post1, Python wrapper for Mie theory calculators, 2018-03-18T20:25:11+0000
+/project/cmake/, cmake, 3.18.4.post1, CMake is an open-source, cross-platform family of tools designed to build, test and package software, 2020-11-11T23:23:31+0000
+/project/pybufr-ecmwf3/, pybufr-ecmwf3, 0.81, a python interface around the ECMWF-BUFR library., 2015-02-19T18:15:06+0000
+/project/amuse-tutorial/, amuse-tutorial, 2021.3.1, The Astrophysical Multipurpose Software Environment - tutorial, 2021-03-03T11:30:48+0000
+/project/rabacus/, rabacus, 0.9.5, Calculates analytic cosmological radiative transfer solutions in simplified geometries., 2016-03-25T01:10:27+0000
+/project/pppack/, pppack, 1.1.0.post1, A Python Piecewise Polynomial Package, 2017-06-01T14:34:01+0000
+/project/pynleq2/, pynleq2, 0.1.0, Python binding for NLEQ2, 2018-08-30T12:41:15+0000
+/project/amuse-fi/, amuse-fi, 2021.3.1, The Astrophysical Multipurpose Software Environment - FI, 2021-03-03T11:29:36+0000
+/project/curp/, curp, 1.2.1, Inter-residue Current calculation in Proteins from MD             trajectory, 2019-06-26T07:24:09+0000
+/project/omuse-era5/, omuse-era5, 1.2.7, The Oceanographic Multi-purpose Software Environment - ERA5 interface, 2020-05-09T09:58:34+0000
+/project/amuse/, amuse, 2021.3.1, The Astrophysical Multipurpose Software Environment, 2021-03-03T11:26:24+0000
+/project/eoldas/, eoldas, 1.1.0, An Earth Observation Land Data Assimilation System (EO-LDAS), 2012-07-18T16:51:21+0000
+/project/amuse-galaxia/, amuse-galaxia, 2021.3.1, The Astrophysical Multipurpose Software Environment - Galaxia, 2021-03-03T11:29:47+0000
+/project/pymbd/, pymbd, 0.12.1, Many-body dispersion library, 2021-03-01T15:19:44+0000
+/project/amuse-mameclot/, amuse-mameclot, 2021.3.1, The Astrophysical Multipurpose Software Environment - Mameclot, 2021-03-03T11:30:02+0000
+/project/pycompilation/, pycompilation, 0.4.12, pycompilation is a package for meta programming. It aims to support, 2020-10-28T16:51:23+0000
+/project/ffnet/, ffnet, 0.8.4, Feed-forward neural network solution for python, 2018-10-28T15:57:43+0000
+/project/amuse-gadget2/, amuse-gadget2, 2021.3.1, The Astrophysical Multipurpose Software Environment - Gadget2, 2021-03-03T11:29:44+0000
+/project/pysimulators/, pysimulators, 1.1.5, Tools to build an instrument model., 2018-11-07T23:06:40+0000
+/project/jupyter-fortran-kernel/, jupyter-fortran-kernel, 0.1.0, Minimalistic Fortran kernel for Jupyter, 2016-06-17T15:36:27+0000
+/project/amuse-distributed/, amuse-distributed, 2021.3.1, The Astrophysical Multipurpose Software Environment - Distributed, 2021-03-03T11:27:32+0000
+/project/amuse-athena/, amuse-athena, 2021.3.1, The Astrophysical Multipurpose Software Environment - Athena, 2021-03-03T11:26:30+0000
+/project/lowtran/, lowtran, 2.4.1, Model of Earth atmosphere absorption and transmission vs. wavelength and location., 2019-06-11T18:20:19+0000
+/project/semidiscrete3/, semidiscrete3, 1.0.4, SemiDiscrete python wrappers, 2012-06-19T15:08:26+0000
+/project/pylad/, pyLAD, 1.0.0, pyLAD: Python-based DamID Lamina-Associated-Domain analysis, 2019-02-06T18:28:58+0000
+/project/amuse-hermite/, amuse-hermite, 2021.3.1, The Astrophysical Multipurpose Software Environment - Hermite, 2021-03-03T11:29:51+0000
+/project/cmake-odidev/, cmake-odidev, 3.17.3, CMake-odidev is a test project and it is clone of CMake project, 2020-05-03T11:20:05+0000
+/project/ninja/, ninja, 1.10.0.post2, Ninja is a small build system with a focus on speed, 2020-09-10T13:07:12+0000
+/project/amuse-tests/, amuse-tests, 2021.3.1, The Astrophysical Multipurpose Software Environment - tests, 2021-03-03T11:30:46+0000
+/project/pyne2001/, pyne2001, 0.1.3, A simple python wrapper around the original FORTRAN implementation of the NE2001 Galactic free electron density model, 2019-01-26T12:08:36+0000
+/project/py-mie/, py-mie, 0.4.2.post1, Python wrapper for Mie theory calculators, 2018-03-18T20:25:11+0000
+/project/cmake/, cmake, 3.18.4.post1, CMake is an open-source, cross-platform family of tools designed to build, test and package software, 2020-11-11T23:23:31+0000
+/project/pybufr-ecmwf3/, pybufr-ecmwf3, 0.81, a python interface around the ECMWF-BUFR library., 2015-02-19T18:15:06+0000
+/project/amuse-tutorial/, amuse-tutorial, 2021.3.1, The Astrophysical Multipurpose Software Environment - tutorial, 2021-03-03T11:30:48+0000
+/project/rabacus/, rabacus, 0.9.5, Calculates analytic cosmological radiative transfer solutions in simplified geometries., 2016-03-25T01:10:27+0000
+/project/compmech/, compmech, 0.7.2, CompMech: Computational Mechanics in Python, 2016-12-14T22:09:29+0000
+/project/netcdf4-soft-links/, netcdf4_soft_links, 0.7.8.6, Tools to create soft links to netcdf4 files., 2016-12-18T14:25:42+0000
+/project/pytmatrix/, pytmatrix, 0.3.2, T-matrix scattering computations, 2020-03-12T09:23:55+0000
+/project/pythonsched/, pythonSCHED, 1.17.0, Python extension of NRAO's VLBI scheduling program SCHED (see http://www.aoc.nrao.edu/~cwalker/sched/), 2021-03-29T13:48:22+0000
+/project/amuse-capreole/, amuse-capreole, 2021.3.1, The Astrophysical Multipurpose Software Environment - Capreole, 2021-03-03T11:26:43+0000
+/project/netcdf4-pydap/, netcdf4_pydap, 0.2.6, netCDF4 and CAS compatibility layer for pydap, 2016-12-18T16:02:47+0000
+/project/xrotor/, xrotor, 1.3.1, Stripped down version of XROTOR as compiled python module, 2019-11-25T16:51:53+0000
+/project/spacepy/, spacepy, 0.2.2, SpacePy: Tools for Space Science Applications, 2020-12-29T17:26:07+0000
+/project/graphflow/, graphflow, 0.4.1, Algorithms for Graph Flow Analysis, 2021-04-19T21:54:39+0000
+/project/chi1chi2/, chi1chi2, 0.8.0, set of scripts for calculating linear and nonlinear optical properties of organic crystals, 2021-02-21T21:20:50+0000
+/project/miepy/, miepy, 0.5.0, Solve Maxwell's equations for a cluster of particles using the generalized multiparticle Mie theory (GMMT), 2020-05-11T06:52:07+0000
+/project/scikit-misc/, scikit-misc, 0.1.3, Miscellaneous tools for scientific computing., 2020-05-14T00:27:23+0000
+/project/amuse-bse/, amuse-bse, 2021.3.1, The Astrophysical Multipurpose Software Environment - BSE, 2021-03-03T11:26:40+0000
+/project/python-mint/, python-mint, 1.8.0, Mimetic INTerpolation on the Sphere, 2021-03-27T22:26:17+0000
+/project/fortranformat/, fortranformat, 1.0.1, Mimics Fortran textual IO in Python, 2021-04-06T13:36:08+0000
+/project/pycodeexport/, pycodeexport, 0.1.3, pycodeexport is a Python package for code generation., 2020-10-28T17:52:26+0000
+/project/amuse-mobse/, amuse-mobse, 2021.3.1, The Astrophysical Multipurpose Software Environment - MOBSE, 2021-03-03T11:30:10+0000
+/project/assimulo/, Assimulo, 3.0, A package for solving ordinary differential equations and differential algebraic equations., 2018-12-15T12:41:12+0000
+/project/pyctqw/, pyCTQW, 1.1.0, An MPI enabled CTQW simulator, 2014-05-13T16:32:28+0000
+/project/amuse-fractalcluster/, amuse-fractalcluster, 2021.3.1, The Astrophysical Multipurpose Software Environment - fractalcluster, 2021-03-03T11:29:39+0000
+/project/omuse-qgmodel/, omuse-qgmodel, 1.2.6, The Oceanographic Multi-purpose Software Environment - qgmodel, 2020-05-05T12:58:34+0000
+/project/iri2016/, iri2016, 1.11.1, IRI2016 International Reference Ionosphere from Python, 2020-11-04T22:47:05+0000
+/project/matmodlab/, matmodlab, 3.0.6, Material model development laboratory, 2015-10-09T08:19:46+0000
+/project/amuse-framework/, amuse-framework, 2021.3.1, The Astrophysical Multipurpose Software Environment, 2021-03-03T11:29:42+0000
+/project/amuse-kepler-orbiters/, amuse-kepler-orbiters, 2021.3.1, The Astrophysical Multipurpose Software Environment - Kepler-orbiters, 2021-03-03T11:30:00+0000
+/project/pylineclip/, pylineclip, 1.0.0, Line clipping: Cohen-Sutherland, 2019-11-19T18:36:32+0000
+/project/telewavesim/, telewavesim, 0.2.0, Python package for teleseismic body-wave modeling, 2019-11-23T00:34:54+0000
+/project/bdsf/, bdsf, 1.9.2, Blob Detection and Source Finder, 2019-12-06T10:21:13+0000
+/project/amuse-bhtree/, amuse-bhtree, 2021.3.1, The Astrophysical Multipurpose Software Environment - BHTree, 2021-03-03T11:26:34+0000
+/project/fortran-linter/, fortran-linter, 1.0.9, A linter for Fortran files, 2021-03-23T15:54:43+0000
+/project/amuse-mosse/, amuse-mosse, 2021.3.1, The Astrophysical Multipurpose Software Environment - MOSSE, 2021-03-03T11:30:12+0000
+/project/fortranfile/, fortranfile, 0.2.1, Read and write unformatted fortran output files, 2013-02-21T04:21:27+0000
+/project/mogu/, mogu, 0.6.0, Collection of Simple Numerical Routines, 2020-01-16T23:51:45+0000
+/project/pyshtools/, pyshtools, 4.8, SHTOOLS - Spherical Harmonic Tools, 2021-01-26T09:42:23+0000
+/project/slepc/, slepc, 3.14.2, SLEPc: Scalable Library for Eigenvalue Problem Computations, 2021-02-04T06:31:36+0000
+/project/openmodes/, OpenModes, 1.3.2, An eigenmode solver for open electromagnetic resonantors, 2019-12-02T01:32:27+0000
+/project/amuse-fastkick/, amuse-fastkick, 2021.3.1, The Astrophysical Multipurpose Software Environment - fastkick, 2021-03-03T11:29:35+0000
+/project/simgrid/, simgrid, 3.27, Toolkit for scalable simulation of distributed applications, 2021-03-29T19:38:53+0000
+/project/omuse/, omuse, 1.2.6, The Oceanographic Multi-purpose Software Environment: a package for multi-physics and multi-scale earth science simulations., 2020-05-05T12:58:25+0000
+/project/amuse-sse/, amuse-sse, 2021.3.1, The Astrophysical Multipurpose Software Environment - SSE, 2021-03-03T11:30:42+0000
+/project/psyclone/, PSyclone, 1.9.0, PSyclone - a compiler for Finite Element/Volume/Difference DSLs in Fortran, 2020-05-20T21:20:35+0000
+/project/fwm-ensayo/, fwm_ensayo, 0.1.1, A fortran package to work with watersheds and do hydrologic simulations, 2014-07-15T03:14:50+0000
+/project/omuse-swan/, omuse-swan, 1.2.6, The Oceanographic Multi-purpose Software Environment - SWAN, 2020-05-05T12:58:38+0000
+/project/sempy/, sempy, 0.0.18, A Python implementation of the spectral element method, 2011-06-07T11:28:05+0000
+/project/omuse-framework/, omuse-framework, 1.2.6, The Oceanographic Multi-purpose Software Environment: base framework, 2020-05-05T12:58:31+0000
+/project/jin2for/, jin2for, 0.1.0, A jinja2-based template engine for FORTRAN projects, 2019-03-10T09:35:02+0000
+/project/paramonte/, paramonte, 2.5.2, Plain Powerful Parallel Monte Carlo and adaptive MCMC Library, 2021-01-08T07:43:12+0000
+/project/fortran-magic/, fortran-magic, 0.7, An extension for IPython that help to use Fortran in your interactive session., 2016-03-13T15:37:05+0000
+/project/pyteos-air/, pyteos_air, 1.0.4, This package provides python bindings to the atmospheric component of TEOS-10.                    Also includes expanded metorological quantities like the equivalent potential temperature., 2017-03-22T14:20:56+0000
+/project/igrf/, igrf, 13.0.0, IGRF13, IGRF12, IGRF11 models with simple object-oriented Python interface., 2020-08-24T21:05:54+0000
+/project/pyweno/, PyWENO, 0.11.2, Weighted Essentially Non-oscillatory (WENO) reconstructions., 2014-07-14T19:35:29+0000
+/project/pymc/, pymc, 2.3.8, Markov Chain Monte Carlo sampling toolkit., 2020-04-10T09:27:53+0000
+/project/amuse-phantom/, amuse-phantom, 13.2.1, The Astrophysical Multipurpose Software Environment - Phantom, 2020-06-09T13:42:00+0000
+/project/wlcsim/, wlcsim, 0.1.11, , 2020-11-01T08:11:55+0000
+/project/fimport/, fimport, 0.2, Python Fortran import hook, 2013-02-24T15:11:40+0000
+/project/ellc/, ellc, 1.8.5, Light curve model for eclipsing binary stars and transiting exoplanets, 2019-08-08T11:32:36+0000
+/project/pybufr-ecmwf/, pybufr-ecmwf, 0.82, a python interface around the ECMWF-BUFR library., 2016-09-08T18:43:56+0000
+/project/msise00/, msise00, 1.10.0, Python API for Fortran MSISE-00 neutral atmosphere model., 2021-02-07T10:24:48+0000
+/project/async-netcdf/, async_netcdf, 0.1.1, Simple BASH compiler to parallelize some netcdf file operations, 2015-05-27T13:13:17+0000
+/project/h5pyp/, h5pyp, 1.10.6.1a0, HDF5 Parallel Library and h5py Python bindings, 2021-01-19T10:42:59+0000
+/project/dustpy/, dustpy, 0.5.3, Dust evolution in protoplanetary disks, 2021-03-03T15:23:37+0000
+/project/slycot/, slycot, 0.4.0.0, Slycot: a wrapper for the SLICOT control and systems library, 2020-05-30T06:01:27+0000
+/project/pyfmmlib/, pyfmmlib, 2019.1.5, Python wrappers for particle FMMs, 2019-08-28T05:51:53+0000
+/project/amuse-aarsethzare/, amuse-aarsethzare, 2021.3.1, The Astrophysical Multipurpose Software Environment - AarsethZare, 2021-03-03T11:26:26+0000
+/project/amuse-secularmultiple/, amuse-secularmultiple, 2021.3.1, The Astrophysical Multipurpose Software Environment - SecularMultiple, 2021-03-03T11:30:24+0000
+/project/glowaurora/, glowaurora, 1.2.2, GLobal airglOW Model of auroral and airglow emissions, 2018-08-22T21:27:00+0000
+/project/hwm93/, hwm93, 0.9.1, Horizontal Wind Model 1993 in Python, 2018-08-16T19:00:00+0000
+/project/igrf12/, igrf12, 1.3.6, IGRF12 model with simple object-oriented Python interface., 2019-11-11T22:04:48+0000
+/project/globalarrays/, globalarrays, 5.7.0b1, globalarrays: Global Arrays Toolkit, 2020-06-12T12:26:58+0000
+/project/amuse-kepler/, amuse-kepler, 2021.3.1, The Astrophysical Multipurpose Software Environment - Kepler, 2021-03-03T11:29:58+0000
+/project/libceed/, libceed, 0.8, libCEED: Code for Efficient Extensible Discretization, 2021-04-13T19:05:53+0000
+/project/pyfvs/, pyfvs, 0.0.13, PyFVS - Python wrappers for Open-FVS., 2018-06-22T20:35:36+0000
+/project/masai/, masai, 0.1.43, Masai, a framework for processing and modelling of solid state NMR spectra, 2012-11-27T15:14:07+0000
+/project/irpf90/, irpf90, 2.0.5, IRPF90 is a Fortran90 preprocessor written in Python for programming using the Implicit Reference to Parameters (IRP) method. It simplifies the development of large fortran codes in the field of scientific high performance computing., 2020-12-06T19:58:07+0000
+/project/amuse-brutus/, amuse-brutus, 2021.3.1, The Astrophysical Multipurpose Software Environment - Brutus, 2021-03-03T11:26:37+0000
+/project/semidiscrete2/, semidiscrete2, 1.0.4, SemiDiscrete python wrappers, 2012-06-19T15:08:52+0000
+/project/ttpy/, ttpy, 1.2.1, TTPY: Python implementation of the Tensor Train (TT) - Toolbox., 2017-03-31T23:05:48+0000
+/project/pysces/, pysces, 0.9.8.post1, The Python Simulator for Cellular Systems - simulation and analysis tools for modelling biological systems, 2020-05-14T21:05:10+0000
+/project/amuse-phigrape/, amuse-phigrape, 2021.3.1, The Astrophysical Multipurpose Software Environment - phiGRAPE, 2021-03-03T11:30:20+0000
+/project/fparser/, fparser, 0.0.11, The fparser Project, 2020-05-15T14:41:46+0000
+/project/amuse-mercury/, amuse-mercury, 2021.3.1, The Astrophysical Multipurpose Software Environment - Mercury, 2021-03-03T11:30:04+0000
+/project/wrf-python/, wrf-python, 1.3.1, Diagnostic and interpolation routines for WRF-ARW data., 2019-01-18T18:13:28+0000
+/project/ace-cream/, ace-cream, 0.4.post11, Alternating Conditional Expectation Algorithm, 2019-01-11T13:54:25+0000
+/project/amuse-evtwin/, amuse-evtwin, 2021.3.1, The Astrophysical Multipurpose Software Environment - EVTwin, 2021-03-03T11:29:31+0000
+/project/amuse-mmams/, amuse-mmams, 2021.3.1, The Astrophysical Multipurpose Software Environment - MMAMS, 2021-03-03T11:30:08+0000
+/project/gemini3d/, gemini3d, 1.4.0, 3-D ionospheric model plotting suite, 2021-03-24T15:31:10+0000
+/project/pyrcel/, pyrcel, 1.3.1, pyrcel: 0D adiabatic cloud parcel model, 2017-09-01T18:30:15+0000
+/project/ncarglow/, ncarglow, 1.1.1, NCAR GLOW model, 2019-07-19T23:23:11+0000
+/project/amuse-galactics/, amuse-galactics, 2021.3.1, The Astrophysical Multipurpose Software Environment - Galactics, 2021-03-03T11:29:46+0000
+/project/fortdepend/, fortdepend, 2.0.0, Automatically generate Fortran dependencies, 2018-11-14T12:08:12+0000
+/project/amuse-hop/, amuse-hop, 2021.3.1, The Astrophysical Multipurpose Software Environment - Hop, 2021-03-03T11:29:53+0000
+/project/amuse-vader/, amuse-vader, 11.0.1.post1, The Astrophysical Multipurpose Software Environment, 2019-09-27T11:05:24+0000
+/project/semidiscrete4/, semidiscrete4, 1.0.4, SemiDiscrete python wrappers, 2012-06-19T15:08:07+0000
+/project/amuse-sphray/, amuse-sphray, 2021.3.1, The Astrophysical Multipurpose Software Environment - SPHRay, 2021-03-03T11:30:40+0000
+/project/geoclaw-landspill/, geoclaw-landspill, 1.0.dev3, A hydrocarbon overland flow simulator for pipeline rupture events., 2021-01-19T09:19:07+0000
+/project/amuse-ph4/, amuse-ph4, 2021.3.1, The Astrophysical Multipurpose Software Environment - ph4, 2021-03-03T11:30:19+0000
+/project/amuse-seba/, amuse-seba, 2021.3.1, The Astrophysical Multipurpose Software Environment - SeBa, 2021-03-03T11:30:23+0000
+/project/gfort2py/, gfort2py, 1.1.5, Python bindings for Fortran, 2020-01-12T16:49:13+0000
+/project/fwrap/, fwrap, 0.1.1, Tool to wrap Fortran 77/90/95 code in C, Cython & Python., 2010-08-09T04:39:11+0000
+/project/petsc/, petsc, 3.15.0, PETSc: Portable, Extensible Toolkit for Scientific Computation, 2021-04-02T15:06:46+0000
+/project/gospl/, gospl, 0.2.4, A Python interface to perform Global Landscape Evolution Model, 2021-04-19T09:15:09+0000
+/project/nls/, nls, 0.2.0, NLS: Non-Linear Schrodinger equation solver., 2016-04-23T21:07:21+0000
+/project/moogsilent/, moogsilent, 2013.02.1, Spectrum synthesis and LTE line analysis., 2014-04-24T09:58:06+0000
+/project/fixed2free2/, fixed2free2, 0.8, Fortran fixed to free source form converter, 2013-02-07T22:20:15+0000
+/project/xfoil/, xfoil, 1.1.1, Stripped down version of XFOIL as compiled python module, 2019-10-25T15:40:07+0000
+/project/amuse-mikkola/, amuse-mikkola, 2021.3.1, The Astrophysical Multipurpose Software Environment - Mikkola, 2021-03-03T11:30:06+0000
+/project/semidiscrete1/, semidiscrete1, 1.0.4, SemiDiscrete python wrappers, 2012-06-19T15:01:15+0000
+/project/amuse-simplex/, amuse-simplex, 2021.3.1, The Astrophysical Multipurpose Software Environment - Simplex, 2021-03-03T11:30:36+0000
+/project/compmech/, compmech, 0.7.2, CompMech: Computational Mechanics in Python, 2016-12-14T22:09:29+0000
+/project/netcdf4-soft-links/, netcdf4_soft_links, 0.7.8.6, Tools to create soft links to netcdf4 files., 2016-12-18T14:25:42+0000
+/project/moog/, moog, 2013.02, Spectrum synthesis and LTE line analysis., 2013-04-20T09:46:33+0000
+/project/pytmatrix/, pytmatrix, 0.3.2, T-matrix scattering computations, 2020-03-12T09:23:55+0000
+/project/pythonsched/, pythonSCHED, 1.17.0, Python extension of NRAO's VLBI scheduling program SCHED (see http://www.aoc.nrao.edu/~cwalker/sched/), 2021-03-29T13:48:22+0000
+/project/amuse-capreole/, amuse-capreole, 2021.3.1, The Astrophysical Multipurpose Software Environment - Capreole, 2021-03-03T11:26:43+0000
+/project/netcdf4-pydap/, netcdf4_pydap, 0.2.6, netCDF4 and CAS compatibility layer for pydap, 2016-12-18T16:02:47+0000
+/project/xrotor/, xrotor, 1.3.1, Stripped down version of XROTOR as compiled python module, 2019-11-25T16:51:53+0000
+/project/spacepy/, spacepy, 0.2.2, SpacePy: Tools for Space Science Applications, 2020-12-29T17:26:07+0000
+/project/graphflow/, graphflow, 0.4.1, Algorithms for Graph Flow Analysis, 2021-04-19T21:54:39+0000
+/project/chi1chi2/, chi1chi2, 0.8.0, set of scripts for calculating linear and nonlinear optical properties of organic crystals, 2021-02-21T21:20:50+0000
+/project/amlearn/, amlearn, 0.3.4, Machine Learning package for amorphous materials., 2020-01-02T05:19:20+0000
+/project/py-mie/, py-mie, 0.4.2.post1, Python wrapper for Mie theory calculators, 2018-03-18T20:25:11+0000
+/project/cmake/, cmake, 3.18.4.post1, CMake is an open-source, cross-platform family of tools designed to build, test and package software, 2020-11-11T23:23:31+0000
+/project/pybufr-ecmwf3/, pybufr-ecmwf3, 0.81, a python interface around the ECMWF-BUFR library., 2015-02-19T18:15:06+0000
+/project/amuse-tutorial/, amuse-tutorial, 2021.3.1, The Astrophysical Multipurpose Software Environment - tutorial, 2021-03-03T11:30:48+0000
+/project/rabacus/, rabacus, 0.9.5, Calculates analytic cosmological radiative transfer solutions in simplified geometries., 2016-03-25T01:10:27+0000
+/project/pppack/, pppack, 1.1.0.post1, A Python Piecewise Polynomial Package, 2017-06-01T14:34:01+0000
+/project/pynleq2/, pynleq2, 0.1.0, Python binding for NLEQ2, 2018-08-30T12:41:15+0000
+/project/curp/, curp, 1.2.1, Inter-residue Current calculation in Proteins from MD             trajectory, 2019-06-26T07:24:09+0000
+/project/amuse-fi/, amuse-fi, 2021.3.1, The Astrophysical Multipurpose Software Environment - FI, 2021-03-03T11:29:36+0000
+/project/omuse-era5/, omuse-era5, 1.2.7, The Oceanographic Multi-purpose Software Environment - ERA5 interface, 2020-05-09T09:58:34+0000
+/project/amuse/, amuse, 2021.3.1, The Astrophysical Multipurpose Software Environment, 2021-03-03T11:26:24+0000
+/project/eoldas/, eoldas, 1.1.0, An Earth Observation Land Data Assimilation System (EO-LDAS), 2012-07-18T16:51:21+0000
+/project/amuse-galaxia/, amuse-galaxia, 2021.3.1, The Astrophysical Multipurpose Software Environment - Galaxia, 2021-03-03T11:29:47+0000
+/project/pymbd/, pymbd, 0.12.1, Many-body dispersion library, 2021-03-01T15:19:44+0000
+/project/amuse-mameclot/, amuse-mameclot, 2021.3.1, The Astrophysical Multipurpose Software Environment - Mameclot, 2021-03-03T11:30:02+0000
+/project/pycompilation/, pycompilation, 0.4.12, pycompilation is a package for meta programming. It aims to support, 2020-10-28T16:51:23+0000
+/project/ffnet/, ffnet, 0.8.4, Feed-forward neural network solution for python, 2018-10-28T15:57:43+0000
+/project/amuse-gadget2/, amuse-gadget2, 2021.3.1, The Astrophysical Multipurpose Software Environment - Gadget2, 2021-03-03T11:29:44+0000
+/project/pysimulators/, pysimulators, 1.1.5, Tools to build an instrument model., 2018-11-07T23:06:40+0000
+/project/jupyter-fortran-kernel/, jupyter-fortran-kernel, 0.1.0, Minimalistic Fortran kernel for Jupyter, 2016-06-17T15:36:27+0000
+/project/amuse-distributed/, amuse-distributed, 2021.3.1, The Astrophysical Multipurpose Software Environment - Distributed, 2021-03-03T11:27:32+0000
+/project/amuse-athena/, amuse-athena, 2021.3.1, The Astrophysical Multipurpose Software Environment - Athena, 2021-03-03T11:26:30+0000
+/project/lowtran/, lowtran, 2.4.1, Model of Earth atmosphere absorption and transmission vs. wavelength and location., 2019-06-11T18:20:19+0000
+/project/semidiscrete3/, semidiscrete3, 1.0.4, SemiDiscrete python wrappers, 2012-06-19T15:08:26+0000
+/project/pylad/, pyLAD, 1.0.0, pyLAD: Python-based DamID Lamina-Associated-Domain analysis, 2019-02-06T18:28:58+0000
+/project/amuse-hermite/, amuse-hermite, 2021.3.1, The Astrophysical Multipurpose Software Environment - Hermite, 2021-03-03T11:29:51+0000
+/project/cmake-odidev/, cmake-odidev, 3.17.3, CMake-odidev is a test project and it is clone of CMake project, 2020-05-03T11:20:05+0000
+/project/ninja/, ninja, 1.10.0.post2, Ninja is a small build system with a focus on speed, 2020-09-10T13:07:12+0000
+/project/amuse-tests/, amuse-tests, 2021.3.1, The Astrophysical Multipurpose Software Environment - tests, 2021-03-03T11:30:46+0000
+/project/pyne2001/, pyne2001, 0.1.3, A simple python wrapper around the original FORTRAN implementation of the NE2001 Galactic free electron density model, 2019-01-26T12:08:36+0000
+/project/finsim/, finsim, 0.6.7, Financial simulation and inference, 2021-04-20T17:27:55+0000
+/project/fgenerator/, fgenerator, 0.0.1, The fgenerator Project, 2017-02-06T14:29:23+0000
+/project/amuse-huayno/, amuse-huayno, 2021.3.1, The Astrophysical Multipurpose Software Environment - Huayno, 2021-03-03T11:29:56+0000
+/project/fytran/, fytran, 0.2.1, A simple REPL Fortran utility, 2014-05-23T23:29:20+0000
+/project/amuse-petar/, amuse-petar, 2021.3.1, The Astrophysical Multipurpose Software Environment - PeTar, 2021-03-03T11:30:14+0000
+/project/pdfo/, pdfo, 1.0, PDFO - Powell's Derivative-Free Optimization solvers, 2020-06-10T07:40:05+0000
+/project/amuse-smalln/, amuse-smalln, 2021.3.1, The Astrophysical Multipurpose Software Environment - smalln, 2021-03-03T11:30:38+0000
+/project/mistree/, mistree, 1.2.0, A python package for constructing and analysing the minimum spanning tree, 2019-10-16T22:48:42+0000
+/project/amuse-halogen/, amuse-halogen, 2021.3.1, The Astrophysical Multipurpose Software Environment - Halogen, 2021-03-03T11:29:49+0000
+/project/skoot/, skoot, 0.20.0, Skoot: Accelerate your data science pipelines, 2019-07-25T16:24:45+0000
+/project/mlatom/, MLatom, 1.2.3, A Package for Atomistic Simulations with Machine Learning, 2021-03-01T02:36:52+0000
+/project/rea/, rea, 0.1.1, REceiver Array Analysis software, 2015-10-01T19:16:13+0000
+/project/pymaclab/, pymaclab, 0.95.9, The Python Macroeconomics Laboratory, 2012-12-16T08:36:02+0000
+/project/opentmm/, openTMM, 0.1.0, openTMM is an object-oriented electrodynamic S-matrix (transfer matrix) code with modern applications., 2011-11-24T03:03:39+0000
+/project/amuse-twobody/, amuse-twobody, 2021.3.1, The Astrophysical Multipurpose Software Environment - twobody, 2021-03-03T11:30:49+0000
