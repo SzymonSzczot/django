@@ -2,7 +2,7 @@
 
 from django_elasticsearch_dsl import Document
 from django_elasticsearch_dsl.registries import registry
-from elasticsearch_dsl import analyzer
+from elasticsearch_dsl import analyzer, tokenizer
 
 from search_engine.models import PackageShort, Package
 from django.conf import settings
@@ -19,8 +19,8 @@ INDEX.settings(
 
 html_strip = analyzer(
     'html_strip',
-    tokenizer="standard",
-    filter=["lowercase", "stop", "snowball"],
+    tokenizer=tokenizer('trigram', 'nGram', min_gram=3, max_gram=3),
+    filter=["standard", "lowercase", "stop", "snowball"],
     char_filter=["html_strip"]
 )
 
@@ -40,7 +40,20 @@ class CarDocument(Document):
     )
 
     description = fields.TextField(
-        attr="description",
+        analyzer=html_strip,
+        fields={
+            'raw': fields.TextField(analyzer='keyword'),
+            'tokenized': fields.TextField(analyzer=html_strip),
+        }
+    )
+
+    hosted = fields.DateField(
+        fields={
+            "raw": fields.DateField()
+        }
+    )
+
+    version = fields.TextField(
         analyzer=html_strip,
         fields={
             'raw': fields.TextField(analyzer='keyword'),
