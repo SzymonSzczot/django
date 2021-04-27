@@ -23,11 +23,41 @@
       </form>
     <script>
         function get_qp() {
+            var input = document.getElementById("search");
 
-        var input = document.getElementById("search");
-        input.value = document.getElementById("inp").value;
+            var btns = document.querySelectorAll('.btn-check');
+            var clicked = btns[0];
+            btns.forEach(function (element) {
+                if (element.checked) {
+                      clicked = element;
+            }});
+            console.log(clicked.value);
+            if ( clicked.value) {
+                input.value = clicked.value + ":" + document.getElementById("inp").value;
+            }
+            else {
+                input.value = document.getElementById("inp").value;
+            }
         }
+
     </script>
+    </div>
+    <div>
+        <a style="font-size: 30px; padding-right: 15px">Szukaj w:</a>
+        <div class="btn-group" role="group" style="padding-bottom: 15px">
+      <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" value="" checked>
+      <label class="btn btn-primary" for="btnradio1">ALL</label>
+
+      <input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off" value="name">
+      <label class="btn btn-primary" for="btnradio2">Name</label>
+
+      <input type="radio" class="btn-check" name="btnradio" id="btnradio3" autocomplete="off" value="description">
+      <label class="btn btn-primary" for="btnradio3">Description</label>
+
+      <input type="radio" class="btn-check" name="btnradio" id="btnradio4" autocomplete="off" value="url">
+      <label class="btn btn-primary" for="btnradio4">URL</label>
+    </div>
+
     </div>
     <div>
     <ul class="list-group">
@@ -35,11 +65,20 @@
         {% for query in search %}
             <li class="list-group-item">
                 <h3 class="q-name">{{ query.name }}</h3>
-            <div>
+                <div class="row">
+                  <div class="col-sm-6">
+                    <p class="description">{{ query.description }}</p>
+                    <a href="https://pypi.org{{ query.url }}">https://pypi.org{{ query.url }}</a>
+                </div>
+                  <div class="col-sm-6">
+                      <div>
+                          <a>Upload date: {{ query.hosted }}</a>
 
-            <p class="description">{{ query.description }}</p>
-
-            <a href="https://pypi.org{{ query.url }}">https://pypi.org{{ query.url }}</a>
+                      </div>
+                      <div>
+                          <a>Version: {{ query.version }}</a>
+                      </div>
+                    </div>
             </div>
             </li>
         {% endfor %}
@@ -47,11 +86,21 @@
             <script>
                 var results = document.querySelectorAll(".q-name");
                 results.forEach(element =>
-                    element.innerHTML = element.innerHTML.replace(window.location.href.split("=")[1],`<span style="background-color: lightgreen">` + window.location.href.split("=")[1] + "</span>")
+                    element.innerHTML = element.innerHTML.toLowerCase().replace(window.location.href.split("%3A")[1].toLowerCase(),`<span style="background-color: lightgreen">` + window.location.href.split("%3A")[1] + "</span>")
                 );
                 var results = document.querySelectorAll(".description");
                 results.forEach(element =>
-                    element.innerHTML = element.innerHTML.replace(window.location.href.split("=")[1],`<span style="background-color: lightgreen">` + window.location.href.split("=")[1] + "</span>")
+                    element.innerHTML = element.innerHTML.toLowerCase().replace(window.location.href.split("%3A")[1].toLowerCase(),`<span style="background-color: lightgreen">` + window.location.href.split("%3A")[1] + "</span>")
+                );
+                </script>
+            <script>
+                var results = document.querySelectorAll(".q-name");
+                results.forEach(element =>
+                    element.innerHTML = element.innerHTML.toLowerCase().replace(window.location.href.split("=")[1].toLowerCase(),`<span style="background-color: lightgreen">` + window.location.href.split("=")[1] + "</span>")
+                );
+                var results = document.querySelectorAll(".description");
+                results.forEach(element =>
+                    element.innerHTML = element.innerHTML.toLowerCase().replace(window.location.href.split("=")[1].toLowerCase(),`<span style="background-color: lightgreen">` + window.location.href.split("=")[1] + "</span>")
                 );
             </script>
 
@@ -62,8 +111,12 @@
 
             <script>
                 var input = document.getElementById("nope");
-                input.innerHTML = "Brak wyników wyszukiwania dla: <mark>" + window.location.href.split("=")[1] + "<mark>"
+                if (window.location.href.split("%3A")[1]) {
+                    input.innerHTML = "Brak wyników wyszukiwania dla: <mark>" + window.location.href.split("%3A")[1] + "<mark>"
+                }else {
 
+                    input.innerHTML = "Brak wyników wyszukiwania dla: <mark>" + window.location.href.split("=")[1] + "<mark>"
+                }
             </script>
             </div>
             </li>

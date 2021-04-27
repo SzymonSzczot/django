@@ -11,4 +11,6 @@ class CarDocumentSerializer(DocumentSerializer):
             'name',
             "description",
             "url",
+            "hosted",
+            "version"
         )

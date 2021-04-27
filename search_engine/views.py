@@ -76,7 +76,7 @@ class BookDocumentView(BaseDocumentViewSet):
         },
         "name": "name",
         'description': {
-            'field': 'description',
+            'field': 'description.tokenized',
             # Note, that we limit the lookups of `tags` field in
             # this example, to `terms, `prefix`, `wildcard`, `in` and
             # `exclude` filters.
@@ -88,13 +88,16 @@ class BookDocumentView(BaseDocumentViewSet):
                 LOOKUP_QUERY_EXCLUDE,
             ],
         },
+        "hosted": "hosted.raw",
     }
     # Define ordering fields
     ordering_fields = {
-        'id': 'id'
+        'id': 'id',
+        "hosted": "hosted.raw"
     }
     # Specify default ordering
     ordering = ('id',)
+
     def list(self, request, *args, **kwargs):
         response = super().list(request, *args, **kwargs)
         template = loader.get_template('search.html')
