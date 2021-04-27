@@ -32,10 +32,13 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'rest_framework',
+    "django_elasticsearch_dsl",
+    "django_elasticsearch_dsl_drf",
+    "search_engine",
     'channels',
     'chat',
     "boards",
-
+    "events",
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -96,7 +99,15 @@ DATABASES = {
     }
 }
 
-
+ELASTICSEARCH_DSL = {
+    'default': {
+        'hosts': 'localhost:9200',
+        "timeout": 200
+    },
+}
+ELASTICSEARCH_INDEX_NAMES = {
+    "search_engine.documents": 'package_short',
+}
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
 
